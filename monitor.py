@@ -7,11 +7,8 @@ from urllib.parse import urljoin
 
 import requests
 from bs4 import BeautifulSoup
+from playwright.sync_api import sync_playwright
 
-
-# =========================================================
-# 기본 설정
-# =========================================================
 
 TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
 CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID")
@@ -21,7 +18,7 @@ TIMEOUT = 20
 
 HEADERS = {
     "User-Agent": (
-        "Mozilla/5.0 (Linux; Android 16) "
+        "Mozilla/5.0 (Linux; Android 16; SM-S948N) "
         "AppleWebKit/537.36 (KHTML, like Gecko) "
         "Chrome/140.0 Mobile Safari/537.36"
     ),
@@ -30,7 +27,7 @@ HEADERS = {
 
 
 # =========================================================
-# 공통 함수
+# 공통
 # =========================================================
 
 def clean(text):
@@ -121,20 +118,16 @@ def telegram(text):
         )
 
         print("TELEGRAM", r.status_code)
-
         time.sleep(0.3)
 
 
 # =========================================================
-# 1. 네이버 많이 본 뉴스
+# 1. 네이버 뉴스
 # =========================================================
 
 def fetch_naver_news():
 
-    url = (
-        "https://news.naver.com/"
-        "main/ranking/popularDay.naver"
-    )
+    url = "https://news.naver.com/main/ranking/popularDay.naver"
 
     soup = get_html(url)
 
@@ -181,7 +174,7 @@ def fetch_naver_news():
 
 
 # =========================================================
-# 2. 네이트 스포츠 조회순
+# 2. 네이트 스포츠
 # =========================================================
 
 def fetch_nate_sports():
@@ -202,28 +195,17 @@ def fetch_nate_sports():
             soup = get_html(base)
 
         except Exception as e:
-            print("NATE SPORTS ERROR:", e)
+            print("NATE ERROR:", e)
             continue
 
-        # 조회순 랭킹 영역 찾기
         heading = None
 
         for tag in soup.find_all(
-            [
-                "h2",
-                "h3",
-                "h4",
-                "strong",
-                "dt",
-                "div",
-            ]
+            ["h2", "h3", "h4", "strong", "dt", "div"]
         ):
 
             text = clean(
-                tag.get_text(
-                    " ",
-                    strip=True,
-                )
+                tag.get_text(" ", strip=True)
             )
 
             if "스포츠 조회순 랭킹뉴스" in text:
@@ -241,18 +223,13 @@ def fetch_nate_sports():
                 if parent:
 
                     candidates.extend(
-                        parent.select(
-                            "a[href]"
-                        )
+                        parent.select("a[href]")
                     )
 
                     parent = parent.parent
 
-        # 랭킹 영역 탐색 실패 시 fallback
         if not candidates:
-            candidates = soup.select(
-                "a[href]"
-            )
+            candidates = soup.select("a[href]")
 
         for a in candidates:
 
@@ -260,10 +237,7 @@ def fetch_nate_sports():
 
             title = clean(
                 a.get("title")
-                or a.get_text(
-                    " ",
-                    strip=True,
-                )
+                or a.get_text(" ", strip=True)
             )
 
             if len(title) < 8:
@@ -271,10 +245,7 @@ def fetch_nate_sports():
 
             link = urljoin(base, href)
 
-            if (
-                "sports.news.nate.com"
-                not in link
-            ):
+            if "sports.news.nate.com" not in link:
                 continue
 
             if not (
@@ -284,11 +255,7 @@ def fetch_nate_sports():
             ):
                 continue
 
-            key = re.sub(
-                r"[?#].*$",
-                "",
-                link,
-            )
+            key = re.sub(r"[?#].*$", "", link)
 
             if key in seen:
                 continue
@@ -311,16 +278,13 @@ def fetch_nate_sports():
 
 
 # =========================================================
-# 3. 디시 실시간 베스트
+# 3. 디시 실베
 # =========================================================
 
 def fetch_dc():
 
     urls = [
-        (
-            "https://gall.dcinside.com/"
-            "board/lists/?id=dcbest"
-        ),
+        "https://gall.dcinside.com/board/lists/?id=dcbest",
         "https://m.dcinside.com/board/dcbest",
     ]
 
@@ -336,7 +300,7 @@ def fetch_dc():
             print("DC ERROR:", e)
             continue
 
-        # PC 페이지
+        # PC
         for row in soup.select("tr"):
 
             chosen = None
@@ -359,10 +323,7 @@ def fetch_dc():
                 continue
 
             title = clean(
-                chosen.get_text(
-                    " ",
-                    strip=True,
-                )
+                chosen.get_text(" ", strip=True)
             )
 
             if len(title) < 4:
@@ -381,11 +342,7 @@ def fetch_dc():
             key = (
                 m.group(1)
                 if m
-                else re.sub(
-                    r"[?#].*$",
-                    "",
-                    link,
-                )
+                else re.sub(r"[?#].*$", "", link)
             )
 
             if key in seen:
@@ -399,8 +356,7 @@ def fetch_dc():
             )
 
             recommend_cell = row.select_one(
-                ".gall_recommend, "
-                "td.gall_recommend"
+                ".gall_recommend, td.gall_recommend"
             )
 
             if count_cell:
@@ -435,10 +391,7 @@ def fetch_dc():
             href = a.get("href", "")
 
             title = clean(
-                a.get_text(
-                    " ",
-                    strip=True,
-                )
+                a.get_text(" ", strip=True)
             )
 
             if len(title) < 4:
@@ -447,10 +400,7 @@ def fetch_dc():
             if "dcbest" not in href:
                 continue
 
-            m = re.search(
-                r"(\d{4,})",
-                href,
-            )
+            m = re.search(r"(\d{4,})", href)
 
             if not m:
                 continue
@@ -478,59 +428,8 @@ def fetch_dc():
 
 
 # =========================================================
-# 4. 펨코 포텐
+# 4. 펨코 포텐 - Playwright
 # =========================================================
-
-def parse_fmkorea(soup, base):
-
-    result = []
-    seen = set()
-
-    for a in soup.select("a[href]"):
-
-        href = a.get("href", "")
-
-        title = clean(
-            a.get("title")
-            or a.get_text(
-                " ",
-                strip=True,
-            )
-        )
-
-        if len(title) < 5:
-            continue
-
-        m = re.search(
-            r"(?:document_srl=|/)"
-            r"(\d{6,})",
-            href,
-        )
-
-        if not m:
-            continue
-
-        key = m.group(1)
-
-        if key in seen:
-            continue
-
-        seen.add(key)
-
-        result.append(
-            make_item(
-                "펨코 포텐",
-                title,
-                urljoin(base, href),
-                len(result) + 1,
-            )
-        )
-
-        if len(result) >= 30:
-            break
-
-    return result
-
 
 def fetch_fmkorea():
 
@@ -541,29 +440,145 @@ def fetch_fmkorea():
 
     errors = []
 
-    for url in urls:
+    with sync_playwright() as p:
 
-        try:
+        browser = p.chromium.launch(
+            headless=True,
+            args=[
+                "--no-sandbox",
+                "--disable-dev-shm-usage",
+            ],
+        )
 
-            soup = get_html(url)
+        context = browser.new_context(
+            user_agent=HEADERS["User-Agent"],
+            locale="ko-KR",
+            viewport={
+                "width": 1280,
+                "height": 900,
+            },
+        )
 
-            result = parse_fmkorea(
-                soup,
-                url,
-            )
+        page = context.new_page()
 
-            if result:
-                return result
+        for url in urls:
 
-            errors.append(
-                f"{url} = 게시물 0개"
-            )
+            try:
 
-        except Exception as e:
+                response = page.goto(
+                    url,
+                    wait_until="domcontentloaded",
+                    timeout=30000,
+                )
 
-            errors.append(
-                f"{url} = {e}"
-            )
+                status = (
+                    response.status
+                    if response
+                    else 0
+                )
+
+                print(
+                    "FMKOREA PLAYWRIGHT",
+                    status,
+                    url,
+                )
+
+                if status != 200:
+                    errors.append(
+                        f"{url} = HTTP {status}"
+                    )
+                    continue
+
+                # 페이지가 조금 더 렌더링될 시간
+                page.wait_for_timeout(2500)
+
+                html = page.content()
+
+                soup = BeautifulSoup(
+                    html,
+                    "html.parser",
+                )
+
+                result = []
+                seen = set()
+
+                for a in soup.select("a[href]"):
+
+                    href = a.get("href", "")
+
+                    title = clean(
+                        a.get("title")
+                        or a.get_text(
+                            " ",
+                            strip=True,
+                        )
+                    )
+
+                    if len(title) < 5:
+                        continue
+
+                    m = re.search(
+                        r"(?:document_srl=|/)(\d{6,})",
+                        href,
+                    )
+
+                    if not m:
+                        continue
+
+                    key = m.group(1)
+
+                    if key in seen:
+                        continue
+
+                    link = urljoin(
+                        url,
+                        href,
+                    )
+
+                    # 펨코 글 링크만
+                    if "fmkorea.com" not in link:
+                        continue
+
+                    seen.add(key)
+
+                    result.append(
+                        make_item(
+                            "펨코 포텐",
+                            title,
+                            link,
+                            len(result) + 1,
+                        )
+                    )
+
+                    if len(result) >= 30:
+                        break
+
+                print(
+                    "FMKOREA ITEMS",
+                    len(result),
+                )
+
+                if result:
+
+                    browser.close()
+                    return result
+
+                errors.append(
+                    f"{url} = 게시물 0개"
+                )
+
+            except Exception as e:
+
+                print(
+                    "FMKOREA ERROR:",
+                    e,
+                )
+
+                errors.append(
+                    f"{url} = {e}"
+                )
+
+        browser.close()
 
     raise RuntimeError(
         " / ".join(errors)
@@ -577,17 +592,10 @@ def fetch_fmkorea():
 def collect():
 
     sources = {
-        "네이버 뉴스":
-            fetch_naver_news,
-
-        "네이트 스포츠":
-            fetch_nate_sports,
-
-        "디시 실베":
-            fetch_dc,
-
-        "펨코 포텐":
-            fetch_fmkorea,
+        "네이버 뉴스": fetch_naver_news,
+        "네이트 스포츠": fetch_nate_sports,
+        "디시 실베": fetch_dc,
+        "펨코 포텐": fetch_fmkorea,
     }
 
     data = {}
@@ -607,14 +615,11 @@ def collect():
             )
 
             if not items:
-                errors[name] = (
-                    "게시물 0개"
-                )
+                errors[name] = "게시물 0개"
 
         except Exception as e:
 
             data[name] = []
-
             errors[name] = str(e)
 
             print(
@@ -636,8 +641,7 @@ def send_top30(name, items):
 
         telegram(
             f"📡 {name} TOP 0\n\n"
-            "⚠️ 수집 실패 또는 "
-            "게시물이 없습니다."
+            "⚠️ 수집 실패 또는 게시물이 없습니다."
         )
 
         return
@@ -658,27 +662,21 @@ def send_top30(name, items):
 
         if x.get("views"):
             metrics.append(
-                f"조회 "
-                f"{x['views']:,}"
+                f"조회 {x['views']:,}"
             )
 
         if x.get("reactions"):
             metrics.append(
-                f"추천 "
-                f"{x['reactions']:,}"
+                f"추천 {x['reactions']:,}"
             )
 
         if metrics:
-
             text += (
                 "\n"
                 + " · ".join(metrics)
             )
 
-        text += (
-            "\n"
-            + x["link"]
-        )
+        text += "\n" + x["link"]
 
         lines.append(text)
         lines.append("")
@@ -689,7 +687,7 @@ def send_top30(name, items):
 
 
 # =========================================================
-# 상태 파일
+# 상태 저장
 # =========================================================
 
 def save_state(data):
@@ -700,13 +698,10 @@ def save_state(data):
     )
 
     state = {
-        "updated_at": int(
-            time.time()
-        ),
+        "updated_at": int(time.time()),
         "counts": {
             name: len(items)
-            for name, items
-            in data.items()
+            for name, items in data.items()
         },
     }
 
@@ -724,44 +719,32 @@ def save_state(data):
 
 
 # =========================================================
-# 메인
+# 실행
 # =========================================================
 
 def main():
 
-    print(
-        "TREND RADAR HOURLY START"
-    )
+    print("TREND RADAR HOURLY V4 START")
 
     data, errors = collect()
 
-    # 먼저 전체 상태
     status = [
         "📡 TREND RADAR 시간별 보고",
         "",
-        (
-            "네이버 뉴스: "
-            f"{len(data.get('네이버 뉴스', []))}/30"
-        ),
-        (
-            "네이트 스포츠: "
-            f"{len(data.get('네이트 스포츠', []))}/30"
-        ),
-        (
-            "디시 실베: "
-            f"{len(data.get('디시 실베', []))}/30"
-        ),
-        (
-            "펨코 포텐: "
-            f"{len(data.get('펨코 포텐', []))}/30"
-        ),
+        f"네이버 뉴스: "
+        f"{len(data.get('네이버 뉴스', []))}/30",
+        f"네이트 스포츠: "
+        f"{len(data.get('네이트 스포츠', []))}/30",
+        f"디시 실베: "
+        f"{len(data.get('디시 실베', []))}/30",
+        f"펨코 포텐: "
+        f"{len(data.get('펨코 포텐', []))}/30",
     ]
 
     telegram(
         "\n".join(status)
     )
 
-    # 사이트별 TOP30
     for name in [
         "네이버 뉴스",
         "네이트 스포츠",
@@ -774,7 +757,6 @@ def main():
             data.get(name, []),
         )
 
-    # 실패 원인
     if errors:
 
         lines = [
@@ -794,9 +776,7 @@ def main():
 
     save_state(data)
 
-    print(
-        "TREND RADAR HOURLY COMPLETE"
-    )
+    print("TREND RADAR HOURLY V4 COMPLETE")
 
     for name, items in data.items():
 
