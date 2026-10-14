@@ -15,6 +15,7 @@ CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID")
 
 STATE_FILE = Path("data/state.json")
 TIMEOUT = 20
+TOP_LIMIT = 10
 
 HEADERS = {
     "User-Agent": (
@@ -167,7 +168,7 @@ def fetch_naver_news():
             )
         )
 
-        if len(result) >= 30:
+        if len(result) >= TOP_LIMIT:
             break
 
     return result
@@ -271,7 +272,7 @@ def fetch_nate_sports():
                 )
             )
 
-            if len(result) >= 30:
+            if len(result) >= TOP_LIMIT:
                 return result
 
     return result
@@ -382,7 +383,7 @@ def fetch_dc():
                 )
             )
 
-            if len(result) >= 30:
+            if len(result) >= TOP_LIMIT:
                 return result
 
         # 모바일 fallback
@@ -421,7 +422,7 @@ def fetch_dc():
                 )
             )
 
-            if len(result) >= 30:
+            if len(result) >= TOP_LIMIT:
                 return result
 
     return result
@@ -550,7 +551,7 @@ def fetch_fmkorea():
                         )
                     )
 
-                    if len(result) >= 30:
+                    if len(result) >= TOP_LIMIT:
                         break
 
                 print(
@@ -607,7 +608,7 @@ def collect():
 
             items = func()
 
-            data[name] = items[:30]
+            data[name] = items[:TOP_LIMIT]
 
             print(
                 name,
@@ -632,10 +633,12 @@ def collect():
 
 
 # =========================================================
-# TOP30 전송
+# TOP10 전송
 # =========================================================
 
-def send_top30(name, items):
+def send_top10(name, items):
+
+    items = items[:TOP_LIMIT]
 
     if not items:
 
@@ -732,13 +735,13 @@ def main():
         "📡 TREND RADAR 시간별 보고",
         "",
         f"네이버 뉴스: "
-        f"{len(data.get('네이버 뉴스', []))}/30",
+        f"{len(data.get('네이버 뉴스', []))}/{TOP_LIMIT}",
         f"네이트 스포츠: "
-        f"{len(data.get('네이트 스포츠', []))}/30",
+        f"{len(data.get('네이트 스포츠', []))}/{TOP_LIMIT}",
         f"디시 실베: "
-        f"{len(data.get('디시 실베', []))}/30",
+        f"{len(data.get('디시 실베', []))}/{TOP_LIMIT}",
         f"펨코 포텐: "
-        f"{len(data.get('펨코 포텐', []))}/30",
+        f"{len(data.get('펨코 포텐', []))}/{TOP_LIMIT}",
     ]
 
     telegram(
@@ -752,7 +755,7 @@ def main():
         "펨코 포텐",
     ]:
 
-        send_top30(
+        send_top10(
             name,
             data.get(name, []),
         )
