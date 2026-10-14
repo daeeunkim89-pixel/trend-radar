@@ -1,13 +1,14 @@
+import argparse
 import os
 import re
 import json
 import time
 from pathlib import Path
-from urllib.parse import urljoin
+from urllib.parse import parse_qs, urljoin, urlsplit
 
 import requests
 from bs4 import BeautifulSoup
-from playwright.sync_api import sync_playwright
+from playwright.sync_api import TimeoutError as PlaywrightTimeoutError, sync_playwright
 
 
 TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
@@ -432,158 +433,153 @@ def fetch_dc():
 # 4. 펨코 포텐 - Playwright
 # =========================================================
 
+FMKOREA_URLS = (
+    "https://www.fmkorea.com/best",
+    "https://m.fmkorea.com/best",
+)
+FMKOREA_HOSTS = {"fmkorea.com", "www.fmkorea.com", "m.fmkorea.com"}
+
+# HTTP 응답 뒤에 브라우저 검사/리다이렉트가 이어질 수 있으므로 실제 글을 기다린다.
+FMKOREA_READY = """
+() => {
+    const text = document.body ? document.body.innerText : "";
+    if (text.includes("비정상 접속이 의심되어 차단")) return true;
+    return Array.from(document.querySelectorAll("a[href]")).some(a => {
+        const u = new URL(a.href, location.href);
+        return ["fmkorea.com", "www.fmkorea.com", "m.fmkorea.com"].includes(u.hostname)
+            && (/^\\/(?:best\\/)?\\d{6,}\\/?$/.test(u.pathname)
+                || /^\\d{6,}$/.test(u.searchParams.get("document_srl") || ""));
+    });
+}
+"""
+
+
+def parse_fmkorea(soup, base):
+    result = []
+    seen = set()
+
+    # 제목 링크가 있는 레이아웃에서는 썸네일/추천 링크보다 제목을 우선한다.
+    candidates = soup.select(".title a[href], a.title[href]") or soup.select("a[href]")
+
+    for a in candidates:
+        href = a.get("href", "")
+        title = clean(a.get("title") or a.get_text(" ", strip=True))
+        link = urljoin(base, href)
+        parsed = urlsplit(link)
+
+        if parsed.scheme not in {"http", "https"} or parsed.hostname not in FMKOREA_HOSTS:
+            continue
+        if len(title) < 5:
+            continue
+
+        key = parse_qs(parsed.query).get("document_srl", [""])[0]
+        if not re.fullmatch(r"\d{6,}", key):
+            match = re.fullmatch(r"/(?:best/)?(\d{6,})/?", parsed.path)
+            key = match.group(1) if match else ""
+        if not key or key in seen:
+            continue
+
+        seen.add(key)
+        result.append(make_item("펨코 포텐", title, link, len(result) + 1))
+        if len(result) >= TOP_LIMIT:
+            break
+
+    return result
+
+
+def fmkorea_blocked(soup):
+    # 실제 차단 문구만 판별한다. HTTP 430 자체를 IP 차단이라고 단정하지 않는다.
+    text = clean(soup.get_text(" ", strip=True))
+    return "비정상 접속이 의심되어 차단" in text and not parse_fmkorea(soup, FMKOREA_URLS[0])
+
+
+def read_fmkorea_page(page, url, wait_ms=15000):
+    navigation = {"status": 0}
+
+    def track_response(response):
+        if response.request.is_navigation_request() and response.frame == page.main_frame:
+            navigation["status"] = response.status
+
+    page.on("response", track_response)
+    try:
+        response = page.goto(url, wait_until="domcontentloaded", timeout=30000)
+        if response:
+            navigation["status"] = response.status
+
+        print("FMKOREA PLAYWRIGHT", navigation["status"], url)
+
+        initial = BeautifulSoup(page.content(), "html.parser")
+        if not fmkorea_blocked(initial):
+            try:
+                page.wait_for_function(FMKOREA_READY, timeout=wait_ms)
+            except PlaywrightTimeoutError:
+                # 아래에서 HTTP 상태와 최종 페이지를 함께 진단한다.
+                pass
+
+        soup = BeautifulSoup(page.content(), "html.parser")
+        status = navigation["status"]
+
+        if fmkorea_blocked(soup):
+            raise RuntimeError(
+                f"{url} = HTTP {status}: 펨코 보안 시스템이 접속을 차단했습니다. "
+                "현재 실행 환경의 접근 허용을 확인해야 합니다."
+            )
+
+        if status != 200:
+            title = clean(soup.title.get_text())[:120] if soup.title else "제목 없음"
+            print("FMKOREA FINAL PAGE", status, title, clean(soup.get_text(" ", strip=True))[:200])
+            raise RuntimeError(f"{url} = HTTP {status} (최종 페이지: {title})")
+
+        result = parse_fmkorea(soup, url)
+        print("FMKOREA ITEMS", len(result))
+        if not result:
+            raise RuntimeError(f"{url} = HTTP 200, 게시물 0개")
+
+        return result
+    finally:
+        page.remove_listener("response", track_response)
+
+
 def fetch_fmkorea():
-
-    urls = [
-        "https://www.fmkorea.com/best",
-        "https://m.fmkorea.com/best",
-    ]
-
     errors = []
 
     with sync_playwright() as p:
-
         browser = p.chromium.launch(
             headless=True,
-            args=[
-                "--no-sandbox",
-                "--disable-dev-shm-usage",
-            ],
+            args=["--no-sandbox", "--disable-dev-shm-usage"],
         )
 
-        context = browser.new_context(
-            user_agent=HEADERS["User-Agent"],
-            locale="ko-KR",
-            viewport={
-                "width": 1280,
-                "height": 900,
-            },
-        )
+        try:
+            # 설치된 Chromium의 기본 UA를 쓴다. Android UA와 PC 화면을 섞지 않는다.
+            context = browser.new_context(
+                locale="ko-KR",
+                extra_http_headers={"Accept-Language": HEADERS["Accept-Language"]},
+                viewport={"width": 1280, "height": 900},
+            )
+            page = context.new_page()
 
-        page = context.new_page()
+            for url in FMKOREA_URLS:
+                try:
+                    return read_fmkorea_page(page, url)
+                except Exception as e:
+                    print("FMKOREA ERROR:", e)
+                    errors.append(str(e))
+        finally:
+            browser.close()
 
-        for url in urls:
+    raise RuntimeError(" / ".join(errors))
 
-            try:
 
-                response = page.goto(
-                    url,
-                    wait_until="domcontentloaded",
-                    timeout=30000,
-                )
+def check_fmkorea():
+    """수집만 검사한다. 텔레그램 전송과 운영 상태 파일 변경은 하지 않는다."""
+    try:
+        items = fetch_fmkorea()
+    except Exception as e:
+        print("FMKOREA CHECK FAILED:", e)
+        return 1
 
-                status = (
-                    response.status
-                    if response
-                    else 0
-                )
-
-                print(
-                    "FMKOREA PLAYWRIGHT",
-                    status,
-                    url,
-                )
-
-                if status != 200:
-                    errors.append(
-                        f"{url} = HTTP {status}"
-                    )
-                    continue
-
-                # 페이지가 조금 더 렌더링될 시간
-                page.wait_for_timeout(2500)
-
-                html = page.content()
-
-                soup = BeautifulSoup(
-                    html,
-                    "html.parser",
-                )
-
-                result = []
-                seen = set()
-
-                for a in soup.select("a[href]"):
-
-                    href = a.get("href", "")
-
-                    title = clean(
-                        a.get("title")
-                        or a.get_text(
-                            " ",
-                            strip=True,
-                        )
-                    )
-
-                    if len(title) < 5:
-                        continue
-
-                    m = re.search(
-                        r"(?:document_srl=|/)(\d{6,})",
-                        href,
-                    )
-
-                    if not m:
-                        continue
-
-                    key = m.group(1)
-
-                    if key in seen:
-                        continue
-
-                    link = urljoin(
-                        url,
-                        href,
-                    )
-
-                    # 펨코 글 링크만
-                    if "fmkorea.com" not in link:
-                        continue
-
-                    seen.add(key)
-
-                    result.append(
-                        make_item(
-                            "펨코 포텐",
-                            title,
-                            link,
-                            len(result) + 1,
-                        )
-                    )
-
-                    if len(result) >= TOP_LIMIT:
-                        break
-
-                print(
-                    "FMKOREA ITEMS",
-                    len(result),
-                )
-
-                if result:
-
-                    browser.close()
-                    return result
-
-                errors.append(
-                    f"{url} = 게시물 0개"
-                )
-
-            except Exception as e:
-
-                print(
-                    "FMKOREA ERROR:",
-                    e,
-                )
-
-                errors.append(
-                    f"{url} = {e}"
-                )
-
-        browser.close()
-
-    raise RuntimeError(
-        " / ".join(errors)
-    )
+    print("FMKOREA CHECK OK:", len(items), "개")
+    return 0
 
 
 # =========================================================
@@ -693,7 +689,7 @@ def send_top10(name, items):
 # 상태 저장
 # =========================================================
 
-def save_state(data):
+def save_state(data, errors=None):
 
     STATE_FILE.parent.mkdir(
         parents=True,
@@ -702,6 +698,8 @@ def save_state(data):
 
     state = {
         "updated_at": int(time.time()),
+        "status": "degraded" if errors else "ok",
+        "errors": errors or {},
         "counts": {
             name: len(items)
             for name, items in data.items()
@@ -777,7 +775,7 @@ def main():
             "\n".join(lines)
         )
 
-    save_state(data)
+    save_state(data, errors)
 
     print("TREND RADAR HOURLY V4 COMPLETE")
 
@@ -794,6 +792,20 @@ def main():
             errors,
         )
 
+    return 1 if errors else 0
+
+
+def run_cli(argv=None):
+    parser = argparse.ArgumentParser(description="Trend Radar 수집기")
+    parser.add_argument(
+        "--check-fmkorea",
+        action="store_true",
+        help="펨코 수집만 검사 (텔레그램 전송/상태 저장 없음)",
+    )
+    args = parser.parse_args(argv)
+    return check_fmkorea() if args.check_fmkorea else main()
+
 
 if __name__ == "__main__":
-    main()
+    raise SystemExit(run_cli())
+
