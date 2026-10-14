@@ -527,7 +527,13 @@ def read_fmkorea_page(page, url, wait_ms=15000):
 
         if status != 200:
             title = clean(soup.title.get_text())[:120] if soup.title else "제목 없음"
-            print("FMKOREA FINAL PAGE", status, title, clean(soup.get_text(" ", strip=True))[:200])
+            text = clean(soup.get_text(" ", strip=True))
+            print("FMKOREA FINAL PAGE", status, title, text[:200])
+            if "에펨코리아 보안 시스템" in title and "사람인지 확인" in text:
+                raise RuntimeError(
+                    f"{url} = HTTP {status}: 펨코의 사람 인증 보안 확인이 완료되지 않았습니다. "
+                    "현재 실행 환경에서 자동 수집 가능한지 사이트 측 확인이 필요합니다."
+                )
             raise RuntimeError(f"{url} = HTTP {status} (최종 페이지: {title})")
 
         result = parse_fmkorea(soup, url)

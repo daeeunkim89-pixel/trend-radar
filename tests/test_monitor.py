@@ -79,6 +79,15 @@ class FMKoreaTests(unittest.TestCase):
             monitor.read_fmkorea_page(page, monitor.FMKOREA_URLS[0])
         self.assertEqual(page.listeners, [])
 
+    def test_unfinished_human_verification_is_reported_after_waiting(self):
+        html = """<html><title>에펨코리아 보안 시스템</title><body>
+        사람인지 확인이 완료되면 사이트에 자동으로 접속됩니다.</body></html>"""
+        page = Page(430, html, timeout=True)
+        with self.assertRaisesRegex(RuntimeError, "HTTP 430.*사람 인증.*완료되지"):
+            monitor.read_fmkorea_page(page, monitor.FMKOREA_URLS[0])
+        self.assertTrue(page.waited)
+        self.assertEqual(page.listeners, [])
+
     def test_empty_200_is_a_failure(self):
         page = Page(200, "<html>글 없음</html>", timeout=True)
         with self.assertRaisesRegex(RuntimeError, "HTTP 200, 게시물 0개"):
