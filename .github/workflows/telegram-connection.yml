@@ -62,6 +62,8 @@ jobs:
           if not chat_id:
               fail('TELEGRAM_CHAT_ID is missing')
           if fingerprint(chat_id) != expected_chat_hash:
+              if fingerprint(chat_id.strip()) == expected_chat_hash:
+                  fail('TARGET_CHAT_WHITESPACE: Remove leading or trailing whitespace from TELEGRAM_CHAT_ID. No message was sent.')
               fail('TARGET_CHAT_MISMATCH: TELEGRAM_CHAT_ID does not match the requested group. No message was sent.')
 
           bot = call('getMe')
