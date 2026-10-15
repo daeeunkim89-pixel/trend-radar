@@ -1,0 +1,47 @@
+name: Telegram connection check
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/telegram-connection.yml
+
+permissions:
+  contents: read
+
+jobs:
+  identify-bot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Identify the configured Telegram bot
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        run: |
+          python3 - <<'PY'
+          import json
+          import os
+          import re
+          import sys
+          import urllib.request
+
+          token = os.environ.get('TELEGRAM_BOT_TOKEN', '')
+          if not token:
+              print('TELEGRAM_BOT_TOKEN is missing')
+              sys.exit(1)
+          try:
+              request = urllib.request.Request(
+                  'https://api.telegram.org/bot' + token + '/getMe'
+              )
+              with urllib.request.urlopen(request, timeout=20) as response:
+                  result = json.load(response)
+          except Exception as error:
+              print('Telegram connection failed:', type(error).__name__)
+              sys.exit(1)
+          username = result.get('result', {}).get('username', '')
+          if not result.get('ok') or not re.fullmatch(r'[A-Za-z0-9_]{5,32}', username):
+              print('Telegram did not return a valid bot username')
+              sys.exit(1)
+          print('TELEGRAM_BOT_USERNAME=@' + username)
+          PY
