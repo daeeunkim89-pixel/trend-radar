@@ -11,37 +11,79 @@ permissions:
   contents: read
 
 jobs:
-  identify-bot:
+  verify-group:
     runs-on: ubuntu-latest
     timeout-minutes: 3
     steps:
-      - name: Identify the configured Telegram bot
+      - name: Verify the configured group and send one test message
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           python3 - <<'PY'
+          import hashlib
           import json
           import os
-          import re
           import sys
+          import urllib.error
+          import urllib.parse
           import urllib.request
 
+          expected_chat_hash = 'eadd371c0bc22ff5c483c27bed108ad2e7494f2c3e3d8091305a592ce2cbbdc2'
           token = os.environ.get('TELEGRAM_BOT_TOKEN', '')
-          if not token:
-              print('TELEGRAM_BOT_TOKEN is missing')
+          chat_id = os.environ.get('TELEGRAM_CHAT_ID', '')
+
+          def fail(message):
+              print(message)
               sys.exit(1)
-          try:
+
+          def fingerprint(value):
+              return hashlib.sha256(str(value).encode('utf-8')).hexdigest()
+
+          def call(method, **parameters):
               request = urllib.request.Request(
-                  'https://api.telegram.org/bot' + token + '/getMe'
+                  'https://api.telegram.org/bot' + token + '/' + method,
+                  data=urllib.parse.urlencode(parameters).encode('utf-8'),
+                  method='POST',
               )
-              with urllib.request.urlopen(request, timeout=20) as response:
-                  result = json.load(response)
-          except Exception as error:
-              print('Telegram connection failed:', type(error).__name__)
-              sys.exit(1)
-          username = result.get('result', {}).get('username', '')
-          if not result.get('ok') or not re.fullmatch(r'[A-Za-z0-9_]{5,32}', username):
-              print('Telegram did not return a valid bot username')
-              sys.exit(1)
-          print('TELEGRAM_BOT_USERNAME=@' + username)
+              try:
+                  with urllib.request.urlopen(request, timeout=20) as response:
+                      payload = json.load(response)
+              except urllib.error.HTTPError as error:
+                  fail('TELEGRAM_' + method.upper() + '_HTTP_ERROR=' + str(error.code))
+              except Exception as error:
+                  fail('TELEGRAM_CONNECTION_ERROR=' + type(error).__name__)
+              if not payload.get('ok'):
+                  fail('TELEGRAM_' + method.upper() + '_FAILED')
+              return payload['result']
+
+          if not token:
+              fail('TELEGRAM_BOT_TOKEN is missing')
+          if not chat_id:
+              fail('TELEGRAM_CHAT_ID is missing')
+          if fingerprint(chat_id) != expected_chat_hash:
+              fail('TARGET_CHAT_MISMATCH: TELEGRAM_CHAT_ID does not match the requested group. No message was sent.')
+
+          bot = call('getMe')
+          if bot.get('username') != 'daeun_trend_radar_bot':
+              fail('BOT_IDENTITY_MISMATCH. No message was sent.')
+          print('TELEGRAM_BOT_IDENTITY=OK')
+
+          chat = call('getChat', chat_id=chat_id)
+          if fingerprint(chat.get('id')) != expected_chat_hash or chat.get('type') not in {'group', 'supergroup'}:
+              fail('GROUP_IDENTITY_MISMATCH. No message was sent.')
+          print('TELEGRAM_GROUP_IDENTITY=OK')
+
+          message = call(
+              'sendMessage',
+              chat_id=chat_id,
+              text='✅ Trend Radar 연결 확인\n새 그룹으로 테스트 메시지가 정상 전송됐습니다.',
+          )
+          if fingerprint(message.get('chat', {}).get('id')) != expected_chat_hash:
+              fail('DELIVERY_CHAT_MISMATCH')
+          print('TELEGRAM_GROUP_SEND=OK')
+          summary_path = os.environ.get('GITHUB_STEP_SUMMARY')
+          if summary_path:
+              with open(summary_path, 'a', encoding='utf-8') as summary:
+                  summary.write('## Telegram connection check\n\n- Bot identity: confirmed\n- Configured destination: matches the requested group\n- Test message: accepted by Telegram\n')
           PY
