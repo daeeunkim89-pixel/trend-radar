@@ -103,14 +103,18 @@ def observe(data, history, now=None):
             row["link"] = canonical_url(row["link"])
             key = item_id(row["link"])
             previous = records.get(key, {})
-            row.update(item_id=key, first_seen_at=previous.get("first_seen_at", now),
-                       new=not bool(previous), title_changed=bool(previous and previous["title"] != row["title"]))
+            parser_changed = bool(previous and previous.get("parser_revision") != row.get("parser_revision"))
+            row.update(item_id=key, first_seen_at=previous.get("first_seen_at", now), parser_changed=parser_changed,
+                       new=not bool(previous), title_changed=bool(previous and not parser_changed and previous["title"] != row["title"]))
             row["views"], row["reactions"] = metric(row.get("views")), metric(row.get("reactions"))
             samples = previous.get("samples", [])
             last = samples[-1] if samples else {}
             elapsed = now - last.get("at", now)
             change = {"seconds": elapsed}
             if 300 <= elapsed <= 6 * 3600:
+                if row.get("rank_kind") and row.get("rank_kind") == last.get("rank_kind") and isinstance(last.get("rank"), int):
+                    change["rank"] = last["rank"] - row["rank"]
+                    change["previous_rank"] = last["rank"]
                 for name in ("views", "reactions"):
                     before, after = metric(last.get(name)), row[name]
                     if before is not None and after is not None:
@@ -120,11 +124,13 @@ def observe(data, history, now=None):
                         else:
                             change[name + "_reset"] = True
             row["change"] = change
-            sample = {"at": now, "views": row["views"], "reactions": row["reactions"]}
+            sample = {"at": now, "views": row["views"], "reactions": row["reactions"],
+                      "rank": row["rank"], "rank_kind": row.get("rank_kind")}
             if not samples or samples[-1]["at"] < now:
                 samples = (samples + [sample])[-24:]
             record = {**previous, "source": row["source"], "title": row["title"], "link": row["link"],
-                      "first_seen_at": row["first_seen_at"], "last_seen_at": now, "samples": samples}
+                      "first_seen_at": row["first_seen_at"], "last_seen_at": now, "samples": samples,
+                      "parser_revision": row.get("parser_revision")}
             records[key] = record
             current.append(row)
     records = {k: v for k, v in records.items() if v["last_seen_at"] >= now - RETENTION}
@@ -283,7 +289,7 @@ def enrich(stories, history, now=None, fetcher=None):
         row = story["lead"]
         record = history["items"][row["item_id"]]
         cache = record.get("detail", {})
-        if not cache or now - cache.get("checked_at", 0) > 6 * 3600:
+        if not cache or row["title_changed"] or row.get("parser_changed") or now - cache.get("checked_at", 0) > 6 * 3600:
             cache = {**fetcher(row), "checked_at": now}
             record["detail"] = cache
         story["detail"] = cache
@@ -315,6 +321,9 @@ def reaction_text(row):
         elif row["new"]:
             text += " (첫 관측·비교 대기)"
         values.append(text)
+    if delta.get("rank"):
+        direction = "상승" if delta["rank"] > 0 else "하락"
+        values.append(f"직전 관측 {delta['previous_rank']}→{row['rank']}위 ({abs(delta['rank'])}계단 {direction})")
     return " · ".join(values) if values else "조회·추천 수집 불가 · 목록 등장만 확인"
 
 
@@ -333,7 +342,8 @@ def render_card(story, index, state):
         lines.append("내용: " + html.escape(detail.get("unavailable", "원문에서 확인 필요")))
     lines.append("btp 포인트: " + html.escape(" · ".join(story["reasons"][:2])))
     for row in story["members"]:
-        lines.append(link(row["source"] + " 목록 " + str(row["rank"]), row["link"]) + " | " + html.escape(reaction_text(row)))
+        position = " 급상승 " + str(row["rank"]) + "위" if row.get("rank_kind") == "nate_sports_interest" else " 목록 " + str(row["rank"])
+        lines.append(link(row["source"] + position, row["link"]) + " | " + html.escape(reaction_text(row)))
         if row["title"] != lead["title"]:
             lines.append("↳ " + html.escape(row["title"]))
     if detail.get("published_at"):

@@ -74,6 +74,7 @@ def make_item(
 ):
     return {
         "source": source,
+        "parser_revision": 2,
         "title": clean(title)[:220],
         "link": link,
         "rank": rank,
@@ -86,306 +87,132 @@ def make_item(
 # 1. 네이버 뉴스
 # =========================================================
 
-def fetch_naver_news():
+def anchor_title(anchor):
+    headline = anchor.select_one(".list_title, .subjectin, .subj, h2.tit, h2.title, strong.tit")
+    return clean(anchor.get("title") or (headline.get_text(" ", strip=True) if headline else anchor.get_text(" ", strip=True)))
 
-    url = "https://news.naver.com/main/ranking/popularDay.naver"
 
-    soup = get_html(url)
-
-    result = []
-    seen = set()
-
-    for a in soup.select("a[href]"):
-
-        href = a.get("href", "")
-
-        title = clean(
-            a.get("title")
-            or a.get_text(" ", strip=True)
-        )
-
-        if len(title) < 8:
+def parse_naver_news(soup, base):
+    result, seen = [], set()
+    for anchor in soup.select("a[href]"):
+        link = urljoin(base, anchor["href"])
+        parsed = urlsplit(link)
+        if parsed.hostname not in {"news.naver.com", "n.news.naver.com", "m.news.naver.com"} or not re.search(r"/article/\d+/\d+", parsed.path):
             continue
-
-        link = urljoin(url, href)
-
-        if "/article/" not in link:
-            continue
-
+        title = anchor_title(anchor)
         key = re.sub(r"[?#].*$", "", link)
-
-        if key in seen:
+        if len(title) < 8 or key in seen:
             continue
-
         seen.add(key)
-
-        result.append(
-            make_item(
-                "네이버 뉴스",
-                title,
-                link,
-                len(result) + 1,
-            )
-        )
-
+        result.append(make_item("네이버 뉴스", title, link, len(result) + 1))
         if len(result) >= TOP_LIMIT:
             break
-
     return result
 
 
-# =========================================================
-# 2. 네이트 스포츠
-# =========================================================
+def fetch_naver_news():
+    url = "https://news.naver.com/main/ranking/popularDay.naver"
+    return parse_naver_news(get_html(url), url)
 
-def fetch_nate_sports():
 
-    urls = [
-        "https://sports.news.nate.com/",
-        "https://sports.news.nate.com/general",
-        "https://sports.news.nate.com/soccer",
-        "https://sports.news.nate.com/baseball",
-    ]
-
-    result = []
-    seen = set()
-
-    for base in urls:
-
-        try:
-            soup = get_html(base)
-
-        except Exception as e:
-            print("NATE ERROR:", e)
-            continue
-
-        heading = None
-
-        for tag in soup.find_all(
-            ["h2", "h3", "h4", "strong", "dt", "div"]
-        ):
-
-            text = clean(
-                tag.get_text(" ", strip=True)
-            )
-
-            if "스포츠 조회순 랭킹뉴스" in text:
-                heading = tag
-                break
-
-        candidates = []
-
-        if heading:
-
-            parent = heading.parent
-
+def parse_nate_sports(soup, base):
+    # The sports interest-ranking widget is distinct from the general-news ranking.
+    ranking = soup.select_one("#intNews2 #sport1")
+    candidates = ranking.select("ol li a[href]") if ranking else []
+    if not candidates:
+        headings = [node for node in soup.find_all(["h2", "h3", "h4", "strong", "dt", "div"])
+                    if "스포츠 조회순 랭킹뉴스" in clean(node.get_text(" ", strip=True))]
+        if headings:
+            parent = min(headings, key=lambda node: len(node.get_text())).parent
             for _ in range(4):
-
-                if parent:
-
-                    candidates.extend(
-                        parent.select("a[href]")
-                    )
-
-                    parent = parent.parent
-
+                if not parent:
+                    break
+                candidates = parent.select("a[href]")
+                if len(candidates) >= TOP_LIMIT:
+                    break
+                parent = parent.parent
         if not candidates:
             candidates = soup.select("a[href]")
-
-        for a in candidates:
-
-            href = a.get("href", "")
-
-            title = clean(
-                a.get("title")
-                or a.get_text(" ", strip=True)
-            )
-
-            if len(title) < 8:
-                continue
-
-            link = urljoin(base, href)
-
-            if "sports.news.nate.com" not in link:
-                continue
-
-            if not (
-                "/view/" in link
-                or "view?" in link
-                or "/article/" in link
-            ):
-                continue
-
-            key = re.sub(r"[?#].*$", "", link)
-
-            if key in seen:
-                continue
-
-            seen.add(key)
-
-            result.append(
-                make_item(
-                    "네이트 스포츠",
-                    title,
-                    link,
-                    len(result) + 1,
-                )
-            )
-
-            if len(result) >= TOP_LIMIT:
-                return result
-
+    result, seen = [], set()
+    for anchor in candidates:
+        link = urljoin(base, anchor.get("href", ""))
+        parsed = urlsplit(link)
+        if parsed.hostname not in {"sports.news.nate.com", "news.nate.com"} or "/view/" not in parsed.path:
+            continue
+        title = anchor_title(anchor)
+        key = re.sub(r"[?#].*$", "", link)
+        if len(title) < 8 or key in seen:
+            continue
+        seen.add(key)
+        item = make_item("네이트 스포츠", title, link, len(result) + 1)
+        if ranking:
+            item["rank_kind"] = "nate_sports_interest"
+        result.append(item)
+        if len(result) >= TOP_LIMIT:
+            break
     return result
 
 
-# =========================================================
-# 3. 디시 실베
-# =========================================================
+def fetch_nate_sports():
+    errors = []
+    for url in ("https://sports.news.nate.com/", "https://sports.news.nate.com/general"):
+        try:
+            result = parse_nate_sports(get_html(url), url)
+            if result:
+                return result
+        except Exception as error:
+            errors.append(str(error))
+    raise RuntimeError(" / ".join(errors) or "스포츠 게시물 0개")
+
+
+def parse_dc(soup, base):
+    result, seen = [], set()
+    for anchor in soup.select(".gall_tit a[href], .gall-detail-lnktb a.lt[href], a[href]"):
+        link = urljoin(base, anchor.get("href", ""))
+        parsed = urlsplit(link)
+        if parsed.hostname not in {"gall.dcinside.com", "m.dcinside.com"}:
+            continue
+        query = parse_qs(parsed.query)
+        mobile = re.fullmatch(r"/board/dcbest/(\d+)/?", parsed.path)
+        key = mobile[1] if mobile else (query.get("no", [""])[0] if query.get("id") == ["dcbest"] else "")
+        if not re.fullmatch(r"\d{4,}", key) or key in seen or parsed.fragment:
+            continue
+        row = anchor.find_parent("tr")
+        number_cell = row.select_one(".gall_num") if row else None
+        if anchor.select_one(".ntc-line-orange") or (number_cell and not clean(number_cell.get_text()).isdigit()):
+            continue
+        title = anchor_title(anchor)
+        if len(title) < 4 or title.startswith("공지 "):
+            continue
+        views, reactions = None, None
+        if row:
+            count = row.select_one(".gall_count")
+            recommend = row.select_one(".gall_recommend")
+            views = number(count.get_text()) if count else None
+            reactions = number(recommend.get_text()) if recommend else None
+        for field in anchor.select("ul.ginfo li"):
+            text = clean(field.get_text(" ", strip=True))
+            if text.startswith("조회 "):
+                views = number(text.removeprefix("조회 "))
+            if text.startswith("추천 "):
+                reactions = number(text.removeprefix("추천 "))
+        seen.add(key)
+        result.append(make_item("디시 실베", title, link, len(result) + 1, views, reactions))
+        if len(result) >= TOP_LIMIT:
+            break
+    return result
+
 
 def fetch_dc():
-
-    urls = [
-        "https://gall.dcinside.com/board/lists/?id=dcbest",
-        "https://m.dcinside.com/board/dcbest",
-    ]
-
-    result = []
-    seen = set()
-
-    for base in urls:
-
+    errors = []
+    for url in ("https://gall.dcinside.com/board/lists/?id=dcbest", "https://m.dcinside.com/board/dcbest"):
         try:
-            soup = get_html(base)
-
-        except Exception as e:
-            print("DC ERROR:", e)
-            continue
-
-        # PC
-        for row in soup.select("tr"):
-
-            chosen = None
-
-            for a in row.select("a[href]"):
-
-                href = a.get("href", "")
-
-                if (
-                    "dcbest" in href
-                    and (
-                        "no=" in href
-                        or "/view" in href
-                    )
-                ):
-                    chosen = a
-                    break
-
-            if not chosen:
-                continue
-
-            title = clean(
-                chosen.get_text(" ", strip=True)
-            )
-
-            if len(title) < 4:
-                continue
-
-            link = urljoin(
-                base,
-                chosen.get("href", ""),
-            )
-
-            m = re.search(
-                r"(?:no=|/)(\d{4,})",
-                link,
-            )
-
-            key = (
-                m.group(1)
-                if m
-                else re.sub(r"[?#].*$", "", link)
-            )
-
-            if key in seen:
-                continue
-
-            views = None
-            reactions = None
-
-            count_cell = row.select_one(
-                ".gall_count, td.gall_count"
-            )
-
-            recommend_cell = row.select_one(
-                ".gall_recommend, td.gall_recommend"
-            )
-
-            if count_cell:
-                views = number(
-                    count_cell.get_text()
-                )
-
-            if recommend_cell:
-                reactions = number(
-                    recommend_cell.get_text()
-                )
-
-            seen.add(key)
-
-            result.append(
-                make_item(
-                    "디시 실베",
-                    title,
-                    link,
-                    len(result) + 1,
-                    views,
-                    reactions,
-                )
-            )
-
-            if len(result) >= TOP_LIMIT:
+            result = parse_dc(get_html(url), url)
+            if result:
                 return result
-
-        # 모바일 fallback
-        for a in soup.select("a[href]"):
-
-            href = a.get("href", "")
-
-            title = clean(
-                a.get_text(" ", strip=True)
-            )
-
-            if len(title) < 4:
-                continue
-
-            if "dcbest" not in href:
-                continue
-
-            m = re.search(r"(\d{4,})", href)
-
-            if not m:
-                continue
-
-            key = m.group(1)
-
-            if key in seen:
-                continue
-
-            seen.add(key)
-
-            result.append(
-                make_item(
-                    "디시 실베",
-                    title,
-                    urljoin(base, href),
-                    len(result) + 1,
-                )
-            )
-
-            if len(result) >= TOP_LIMIT:
-                return result
-
-    return result
+        except Exception as error:
+            errors.append(str(error))
+    raise RuntimeError(" / ".join(errors) or "실베 게시물 0개")
 
 
 # =========================================================
@@ -661,8 +488,11 @@ def main(commands_only=False, force_report=False):
     stories, history = observe(data, history, now)
     enrich(stories, history, now)
     atomic_json(HISTORY_FILE, history)
-    report = {"version": "btp-v1", "stories": len(stories),
+    report = {"version": "btp-v1.1", "stories": len(stories),
               "previews": sum(bool(x.get("detail", {}).get("excerpt")) for x in stories),
+              "metrics": {name: {"views": sum(x.get("views") is not None for x in rows),
+                                  "reactions": sum(x.get("reactions") is not None for x in rows),
+                                  "ranking": sum(bool(x.get("rank_kind")) for x in rows)} for name, rows in data.items()},
               "ai": "not_connected", "delivery": "pending"}
     parts = render_digest(stories, {name: len(rows) for name, rows in data.items()}, errors, private.data, now)
     report_key = "hourly-" + datetime.fromtimestamp(now, timezone.utc).strftime("%Y%m%d%H")

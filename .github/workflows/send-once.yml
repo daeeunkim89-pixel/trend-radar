@@ -1,4 +1,5 @@
 name: Trend Radar one-time report
+# Report layout revision: btp-v1.1 (clean titles and mobile metrics)
 
 on:
   workflow_dispatch:
