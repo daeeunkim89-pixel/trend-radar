@@ -8,6 +8,8 @@ on:
       - editorial.py
       - telegram_editor.py
       - report_timing.py
+      - report_request.py
+      - .github/workflows/delivery-request.yml
       - .github/workflows/monitor.yml
       - .github/workflows/send-once.yml
       - .github/workflows/telegram-connection.yml
@@ -21,6 +23,8 @@ on:
       - editorial.py
       - telegram_editor.py
       - report_timing.py
+      - report_request.py
+      - .github/workflows/delivery-request.yml
       - .github/workflows/monitor.yml
       - .github/workflows/send-once.yml
       - .github/workflows/telegram-connection.yml

@@ -1,0 +1,57 @@
+name: Trend Radar delivery request
+
+on:
+  push:
+    branches: [main]
+    paths: [data/report-request.json]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: trend-radar-production
+  cancel-in-progress: false
+
+jobs:
+  deliver:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout latest shared delivery ledger
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Pin request to the triggering commit
+        env:
+          REQUEST_COMMIT: ${{ github.sha }}
+        run: git show "$REQUEST_COMMIT:data/report-request.json" > /tmp/btp-report-request.json
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      - name: Regression tests
+        run: python -m unittest discover -s tests -q
+      - run: playwright install --with-deps chromium
+      - name: Deliver the requested current hour once
+        id: collect
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          EXPECTED_TELEGRAM_CHAT_SHA256: eadd371c0bc22ff5c483c27bed108ad2e7494f2c3e3d8091305a592ce2cbbdc2
+        run: python -u report_request.py --request-file /tmp/btp-report-request.json
+      - name: Persist delivery result even when a source is unavailable
+        if: always() && !cancelled() && steps.collect.outcome != 'skipped'
+        run: |
+          git config user.name "trend-radar-bot"
+          git config user.email "trend-radar-bot@users.noreply.github.com"
+          git add data/state.json data/history.json data/editor.enc
+          if ! git diff --cached --quiet; then
+            git commit -m "Record requested hourly report"
+            for attempt in 1 2 3; do
+              if git push origin HEAD:main; then exit 0; fi
+              git pull --rebase origin main || exit 1
+            done
+            exit 1
+          fi
