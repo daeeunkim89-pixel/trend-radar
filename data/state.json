@@ -1,5 +1,5 @@
 {
-  "updated_at": 1792134456,
+  "updated_at": 1792142034,
   "status": "degraded",
   "errors": {
     "펨코 포텐": "https://www.fmkorea.com/best = HTTP 430: 펨코의 사람 인증 보안 확인이 완료되지 않았습니다. 현재 실행 환경에서 자동 수집 가능한지 사이트 측 확인이 필요합니다. / https://m.fmkorea.com/best = HTTP 430: 펨코의 사람 인증 보안 확인이 완료되지 않았습니다. 현재 실행 환경에서 자동 수집 가능한지 사이트 측 확인이 필요합니다."
@@ -11,9 +11,9 @@
     "펨코 포텐": 0
   },
   "report": {
-    "version": "btp-v1.1",
+    "version": "btp-compact-v2",
     "stories": 30,
-    "previews": 24,
+    "previews": 27,
     "metrics": {
       "네이버 뉴스": {
         "views": 0,
@@ -38,6 +38,6 @@
     },
     "ai": "not_connected",
     "delivery": "sent",
-    "messages": 7
+    "messages": 1
   }
 }
