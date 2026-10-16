@@ -141,7 +141,8 @@ class FMKoreaTests(unittest.TestCase):
                 patch.object(monitor, "collect", return_value=(data, errors)), \
                 patch.object(monitor, "load_history", return_value={"version": 1, "items": {}}), \
                 patch.object(monitor, "HISTORY_FILE", Path(directory) / "history.json"), \
-                patch.object(monitor, "TelegramClient"), patch.object(monitor, "PrivateState"), \
+                patch.object(monitor, "TelegramClient"), \
+                patch.object(monitor, "PrivateState", return_value=Mock(data={"reports": {}})), \
                 patch.object(monitor, "process_commands"), patch.object(monitor, "deliver_report", return_value=1), \
                 patch.object(monitor, "scheduled_target", return_value=1792137600), \
                 patch.object(monitor, "wait_for_target", return_value=True), \

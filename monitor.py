@@ -12,7 +12,7 @@ from bs4 import BeautifulSoup
 from playwright.sync_api import TimeoutError as PlaywrightTimeoutError, sync_playwright
 
 from editorial import HISTORY_FILE, atomic_json, digest_numbers, enrich, load_history, observe, render_digest
-from report_timing import scheduled_target, wait_for_target
+from report_timing import hourly_key, recovery_target, scheduled_target, wait_for_target
 from telegram_editor import PrivateState, TelegramClient, TelegramError, deliver_report, process_commands
 
 
@@ -462,20 +462,27 @@ def save_state(data, errors=None, report=None):
 # 실행
 # =========================================================
 
-def main(commands_only=False, preview=None, scheduled=False):
+def main(commands_only=False, preview=None, scheduled=False, recover_hour=None):
     print("TREND RADAR BTP EDITOR START")
     if preview is None:
-        preview = not (commands_only or scheduled)
+        preview = not (commands_only or scheduled or recover_hour)
     target = scheduled_target(time.time(), os.environ.get("GITHUB_EVENT_NAME")) if scheduled else None
     if scheduled and target is None:
-        print("BTP SCHEDULE: preparation window missed; no late or manual report sent")
+        print("BTP SCHEDULE: non-scheduled invocation cannot send a scheduled report")
         return 0
     try:
+        if recover_hour:
+            target = recovery_target(recover_hour, time.time())
         history = load_history()
         if not preview:
             client = TelegramClient(TOKEN, CHAT_ID)
             client.verify()
             private = PrivateState(TOKEN, CHAT_ID)
+            if target is not None:
+                previous = private.data.get("reports", {}).get(hourly_key(target), {})
+                if previous.get("done") or previous.get("message_ids"):
+                    print("BTP REPORT ALREADY_SENT: hourly report already delivered; no collection or resend")
+                    return 0
     except (TelegramError, ValueError, OSError) as error:
         print("BTP INITIALIZATION FAILED:", str(error))
         return 1
@@ -512,11 +519,11 @@ def main(commands_only=False, preview=None, scheduled=False):
                                   "ranking": sum(bool(x.get("rank_kind")) for x in rows)} for name, rows in data.items()},
               "ai": "not_connected", "delivery": "pending"}
     parts = render_digest(stories, {name: len(rows) for name, rows in data.items()}, errors, private.data, target or now)
-    report_key = "hourly-" + datetime.fromtimestamp(target or now, timezone.utc).strftime("%Y%m%d%H")
+    report_key = hourly_key(target if target is not None else now)
     if target is not None and not wait_for_target(target):
         report["delivery"] = "missed_deadline"
         save_state(data, errors, report)
-        print("BTP SCHEDULE: deadline missed; no catch-up report sent")
+        print("BTP SCHEDULE: target hour expired; no older report replayed")
         return 1 if errors else 0
     try:
         sent = deliver_report(client, parts, private, report_key, int(time.time()), numbers=digest_numbers(stories, private.data))
@@ -538,15 +545,17 @@ def run_cli(argv=None):
         action="store_true",
         help="펨코 수집만 검사 (텔레그램 전송/상태 저장 없음)",
     )
-    parser.add_argument("--commands-only", action="store_true", help="텔레그램 선정 명령만 점검")
-    parser.add_argument("--preview", action="store_true", help="미리보기만 생성 (텔레그램 전송 없음)")
-    parser.add_argument("--scheduled-report", action="store_true", help="예약 실행에서만 다음 정각에 단일 보고 발송")
+    mode = parser.add_mutually_exclusive_group()
+    mode.add_argument("--commands-only", action="store_true", help="텔레그램 선정 명령만 점검")
+    mode.add_argument("--preview", action="store_true", help="미리보기만 생성 (텔레그램 전송 없음)")
+    mode.add_argument("--scheduled-report", action="store_true", help="정각 발송 준비 또는 같은 시간대 누락 1회 복구")
+    mode.add_argument("--recover-hour", metavar="YYYYMMDDHH", help="현재 UTC 시간대 보고서만 명시적으로 1회 복구")
     args = parser.parse_args(argv)
     if args.check_fmkorea:
         return check_fmkorea()
     return main(commands_only=args.commands_only,
-                preview=args.preview or not (args.commands_only or args.scheduled_report),
-                scheduled=args.scheduled_report)
+                preview=args.preview or not (args.commands_only or args.scheduled_report or args.recover_hour),
+                scheduled=args.scheduled_report, recover_hour=args.recover_hour)
 
 
 if __name__ == "__main__":

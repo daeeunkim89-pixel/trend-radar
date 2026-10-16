@@ -61,7 +61,7 @@ class CompactReportTests(unittest.TestCase):
     def test_default_cli_and_preview_never_create_telegram_client_or_write_live_state(self):
         with patch.object(monitor, "main", return_value=0) as main:
             self.assertEqual(monitor.run_cli([]), 0)
-            main.assert_called_once_with(commands_only=False, preview=True, scheduled=False)
+            main.assert_called_once_with(commands_only=False, preview=True, scheduled=False, recover_hour=None)
         stories, _, _ = candidates(1)
         row = stories[0]["lead"]
         with patch.object(monitor, "load_history", return_value={"version": 1, "items": {}}), \
@@ -83,17 +83,20 @@ class CompactReportTests(unittest.TestCase):
         self.assertIn("python monitor.py --preview", preview)
         self.assertNotIn("push:", connection)
         self.assertNotIn("'sendMessage'", connection)
-        self.assertIn('cron: "50 * * * *"', scheduled)
+        self.assertIn('cron: "40,50,5 * * * *"', scheduled)
         self.assertIn("python monitor.py --scheduled-report", scheduled)
         self.assertNotIn("workflow_dispatch:", scheduled)
 
 
 class ScheduledReportTests(unittest.TestCase):
-    def test_preparation_selects_next_hour_and_late_or_manual_runs_cannot_send(self):
+    def test_preparation_and_delayed_start_share_target_hour_but_manual_runs_cannot_send(self):
         hour = NOW // 3600 * 3600
+        self.assertEqual(report_timing.scheduled_target(hour + 40 * 60, "schedule"), hour + 3600)
         self.assertEqual(report_timing.scheduled_target(hour + 50 * 60, "schedule"), hour + 3600)
         self.assertEqual(report_timing.scheduled_target(hour + 59 * 60, "schedule"), hour + 3600)
-        self.assertIsNone(report_timing.scheduled_target(hour + 2 * 60, "schedule"))
+        self.assertEqual(report_timing.scheduled_target(hour + 3600 + 2 * 60, "schedule"), hour + 3600)
+        self.assertEqual(report_timing.scheduled_target(hour + 3600 + 5 * 60, "schedule"), hour + 3600)
+        self.assertEqual(report_timing.scheduled_target(hour + 3600 + 39 * 60, "schedule"), hour + 3600)
         self.assertIsNone(report_timing.scheduled_target(hour + 50 * 60, "workflow_dispatch"))
         with patch.object(monitor, "scheduled_target", return_value=None), \
                 patch.object(monitor, "TelegramClient") as client, patch.object(monitor, "collect") as collect:
@@ -101,7 +104,7 @@ class ScheduledReportTests(unittest.TestCase):
             client.assert_not_called()
             collect.assert_not_called()
 
-    def test_publication_waits_for_boundary_and_missed_deadline_is_skipped(self):
+    def test_publication_waits_for_boundary_and_accepts_delays_in_same_hour(self):
         clock = [1000.25]
         sleeps = []
         def sleep(seconds):
@@ -110,7 +113,29 @@ class ScheduledReportTests(unittest.TestCase):
         self.assertTrue(report_timing.wait_for_target(1010, lambda: clock[0], sleep))
         self.assertEqual(clock[0], 1010)
         self.assertTrue(all(0 < seconds <= 5 for seconds in sleeps))
-        self.assertFalse(report_timing.wait_for_target(1010, lambda: 1031, sleep))
+        self.assertTrue(report_timing.wait_for_target(1010, lambda: 1031, sleep))
+        self.assertFalse(report_timing.wait_for_target(1010, lambda: 4610, sleep))
+
+    def test_explicit_recovery_rejects_old_future_and_invalid_hours(self):
+        hour = NOW // 3600 * 3600
+        text = report_timing.hourly_key(hour).removeprefix("hourly-")
+        self.assertEqual(report_timing.recovery_target(text, hour + 600), hour)
+        for value, now in [(text, hour - 1), (text, hour + 3600), ("2026130120", hour), ("202610169", hour)]:
+            with self.assertRaises(ValueError):
+                report_timing.recovery_target(value, now)
+
+    def test_already_delivered_hour_does_not_collect_or_send_again(self):
+        hour = NOW // 3600 * 3600
+        private = Mock(data={"reports": {report_timing.hourly_key(hour): {"done": True, "message_ids": [55]}}})
+        with patch.object(monitor, "scheduled_target", return_value=hour), \
+                patch.object(monitor, "load_history", return_value={}), \
+                patch.object(monitor, "PrivateState", return_value=private), \
+                patch.object(monitor, "TelegramClient") as client, \
+                patch.object(monitor, "collect") as collect, patch.object(monitor, "process_commands") as commands:
+            self.assertEqual(monitor.main(scheduled=True), 0)
+            collect.assert_not_called()
+            commands.assert_not_called()
+            client.return_value.send.assert_not_called()
 
     def test_previous_multi_message_report_is_not_resumed(self):
         private = Mock(data={"reports": {"hourly": {"done": False, "message_ids": [99],
