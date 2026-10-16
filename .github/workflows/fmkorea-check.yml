@@ -1,10 +1,12 @@
-name: FMKorea validation
+name: Trend Radar validation
 
 on:
   push:
     branches: [main]
     paths:
       - monitor.py
+      - editorial.py
+      - telegram_editor.py
       - requirements.txt
       - tests/**
       - .github/workflows/fmkorea-check.yml
@@ -12,6 +14,8 @@ on:
     branches: [main]
     paths:
       - monitor.py
+      - editorial.py
+      - telegram_editor.py
       - requirements.txt
       - tests/**
       - .github/workflows/fmkorea-check.yml
@@ -39,5 +43,18 @@ jobs:
         env:
           TREND_RADAR_BROWSER_TESTS: "1"
         run: python -m unittest discover -s tests -v
+
+  connectivity:
+    if: github.event_name == 'workflow_dispatch'
+    needs: validate
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: playwright install --with-deps chromium
       - name: Check actual FMKorea connectivity without Telegram
         run: python monitor.py --check-fmkorea

@@ -5,10 +5,14 @@ import json
 import time
 from pathlib import Path
 from urllib.parse import parse_qs, urljoin, urlsplit
+from datetime import datetime, timezone
 
 import requests
 from bs4 import BeautifulSoup
 from playwright.sync_api import TimeoutError as PlaywrightTimeoutError, sync_playwright
+
+from editorial import HISTORY_FILE, atomic_json, enrich, load_history, observe, render_digest
+from telegram_editor import PrivateState, TelegramClient, TelegramError, deliver_report, process_commands
 
 
 TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
@@ -38,15 +42,11 @@ def clean(text):
 
 def number(text):
     text = clean(text).replace(",", "")
-    m = re.search(r"(\d+)", text)
-
-    if not m:
-        return 0
-
-    try:
-        return int(m.group(1))
-    except Exception:
-        return 0
+    match = re.fullmatch(r"(\d+(?:\.\d+)?)\s*(만|천|[kK])?", text)
+    if not match:
+        return None
+    scale = {"만": 10000, "천": 1000, "k": 1000, "K": 1000}.get(match[2], 1)
+    return int(float(match[1]) * scale)
 
 
 def get_html(url):
@@ -69,58 +69,17 @@ def make_item(
     title,
     link,
     rank,
-    views=0,
-    reactions=0,
+    views=None,
+    reactions=None,
 ):
     return {
         "source": source,
-        "title": clean(title),
+        "title": clean(title)[:220],
         "link": link,
         "rank": rank,
         "views": views,
         "reactions": reactions,
     }
-
-
-# =========================================================
-# 텔레그램
-# =========================================================
-
-def telegram(text):
-
-    if not TOKEN or not CHAT_ID:
-        print("TELEGRAM SECRET MISSING")
-        return
-
-    chunks = []
-
-    while len(text) > 3800:
-
-        cut = text.rfind("\n", 0, 3800)
-
-        if cut < 100:
-            cut = 3800
-
-        chunks.append(text[:cut])
-        text = text[cut:].lstrip()
-
-    if text:
-        chunks.append(text)
-
-    for chunk in chunks:
-
-        r = requests.post(
-            f"https://api.telegram.org/bot{TOKEN}/sendMessage",
-            data={
-                "chat_id": CHAT_ID,
-                "text": chunk,
-                "disable_web_page_preview": True,
-            },
-            timeout=TIMEOUT,
-        )
-
-        print("TELEGRAM", r.status_code)
-        time.sleep(0.3)
 
 
 # =========================================================
@@ -350,8 +309,8 @@ def fetch_dc():
             if key in seen:
                 continue
 
-            views = 0
-            reactions = 0
+            views = None
+            reactions = None
 
             count_cell = row.select_one(
                 ".gall_count, td.gall_count"
@@ -635,67 +594,10 @@ def collect():
 
 
 # =========================================================
-# TOP10 전송
-# =========================================================
-
-def send_top10(name, items):
-
-    items = items[:TOP_LIMIT]
-
-    if not items:
-
-        telegram(
-            f"📡 {name} TOP 0\n\n"
-            "⚠️ 수집 실패 또는 게시물이 없습니다."
-        )
-
-        return
-
-    lines = [
-        f"📡 {name} TOP {len(items)}",
-        "",
-    ]
-
-    for x in items:
-
-        text = (
-            f"{x['rank']}. "
-            f"{x['title']}"
-        )
-
-        metrics = []
-
-        if x.get("views"):
-            metrics.append(
-                f"조회 {x['views']:,}"
-            )
-
-        if x.get("reactions"):
-            metrics.append(
-                f"추천 {x['reactions']:,}"
-            )
-
-        if metrics:
-            text += (
-                "\n"
-                + " · ".join(metrics)
-            )
-
-        text += "\n" + x["link"]
-
-        lines.append(text)
-        lines.append("")
-
-    telegram(
-        "\n".join(lines)
-    )
-
-
-# =========================================================
 # 상태 저장
 # =========================================================
 
-def save_state(data, errors=None):
+def save_state(data, errors=None, report=None):
 
     STATE_FILE.parent.mkdir(
         parents=True,
@@ -711,6 +613,9 @@ def save_state(data, errors=None):
             for name, items in data.items()
         },
     }
+
+    if report is not None:
+        state["report"] = report
 
     with STATE_FILE.open(
         "w",
@@ -729,75 +634,50 @@ def save_state(data, errors=None):
 # 실행
 # =========================================================
 
-def main():
+def main(commands_only=False, force_report=False):
+    print("TREND RADAR BTP EDITOR START")
+    try:
+        history = load_history()
+        client = TelegramClient(TOKEN, CHAT_ID)
+        client.verify()
+        private = PrivateState(TOKEN, CHAT_ID)
+    except (TelegramError, ValueError, OSError) as error:
+        print("BTP INITIALIZATION FAILED:", str(error))
+        return 1
 
-    print("TREND RADAR HOURLY V4 START")
+    command_error = None
+    try:
+        process_commands(client, private, history)
+    except TelegramError as error:
+        command_error = str(error)
+        print("BTP COMMANDS FAILED:", command_error)
+    if commands_only:
+        return 1 if command_error else 0
 
     data, errors = collect()
-
-    status = [
-        "📡 TREND RADAR 시간별 보고",
-        "",
-        f"네이버 뉴스: "
-        f"{len(data.get('네이버 뉴스', []))}/{TOP_LIMIT}",
-        f"네이트 스포츠: "
-        f"{len(data.get('네이트 스포츠', []))}/{TOP_LIMIT}",
-        f"디시 실베: "
-        f"{len(data.get('디시 실베', []))}/{TOP_LIMIT}",
-        f"펨코 포텐: "
-        f"{len(data.get('펨코 포텐', []))}/{TOP_LIMIT}",
-    ]
-
-    telegram(
-        "\n".join(status)
-    )
-
-    for name in [
-        "네이버 뉴스",
-        "네이트 스포츠",
-        "디시 실베",
-        "펨코 포텐",
-    ]:
-
-        send_top10(
-            name,
-            data.get(name, []),
-        )
-
-    if errors:
-
-        lines = [
-            "⚠️ 수집 상태",
-            "",
-        ]
-
-        for name, error in errors.items():
-
-            lines.append(
-                f"{name}: {error}"
-            )
-
-        telegram(
-            "\n".join(lines)
-        )
-
-    save_state(data, errors)
-
-    print("TREND RADAR HOURLY V4 COMPLETE")
-
-    for name, items in data.items():
-
-        print(
-            name,
-            len(items),
-        )
-
-    if errors:
-        print(
-            "ERRORS:",
-            errors,
-        )
-
+    if command_error:
+        errors["텔레그램 명령"] = command_error
+    now = int(time.time())
+    stories, history = observe(data, history, now)
+    enrich(stories, history, now)
+    atomic_json(HISTORY_FILE, history)
+    report = {"version": "btp-v1", "stories": len(stories),
+              "previews": sum(bool(x.get("detail", {}).get("excerpt")) for x in stories),
+              "ai": "not_connected", "delivery": "pending"}
+    parts = render_digest(stories, {name: len(rows) for name, rows in data.items()}, errors, private.data, now)
+    report_key = "hourly-" + datetime.fromtimestamp(now, timezone.utc).strftime("%Y%m%d%H")
+    if force_report:
+        report_key = "manual-" + os.environ.get("GITHUB_RUN_ID", str(now))
+    try:
+        sent = deliver_report(client, parts, private, report_key, now)
+        report.update(delivery="sent" if sent else "already_sent", messages=sent)
+    except TelegramError as error:
+        errors["텔레그램 전송"] = str(error)
+        report["delivery"] = "failed"
+        print("BTP DELIVERY FAILED:", str(error))
+    save_state(data, errors, report)
+    print("BTP REPORT", json.dumps(report, ensure_ascii=False))
+    print("TREND RADAR BTP EDITOR COMPLETE")
     return 1 if errors else 0
 
 
@@ -808,10 +688,15 @@ def run_cli(argv=None):
         action="store_true",
         help="펨코 수집만 검사 (텔레그램 전송/상태 저장 없음)",
     )
+    parser.add_argument("--commands-only", action="store_true", help="텔레그램 선정 명령만 점검")
+    parser.add_argument("--force-report", action="store_true", help="같은 시간대에도 별도 보고서 전송")
     args = parser.parse_args(argv)
-    return check_fmkorea() if args.check_fmkorea else main()
+    if args.check_fmkorea:
+        return check_fmkorea()
+    return main(commands_only=args.commands_only, force_report=args.force_report)
 
 
 if __name__ == "__main__":
     raise SystemExit(run_cli())
+
 

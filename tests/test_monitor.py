@@ -101,7 +101,7 @@ class FMKoreaTests(unittest.TestCase):
         items = monitor.parse_fmkorea(BeautifulSoup(html, "html.parser"), monitor.FMKOREA_URLS[0])
         self.assertEqual([x["title"] for x in items], ["정확한 게시물 제목", "다음 게시물 제목"])
         self.assertEqual([x["rank"] for x in items], [1, 2])
-        self.assertTrue(all(x["views"] == 0 and x["reactions"] == 0 for x in items))
+        self.assertTrue(all(x["views"] is None and x["reactions"] is None for x in items))
 
     def test_external_and_attachment_links_are_excluded(self):
         html = """<a href="https://fmkorea.com.evil.example/1000001">외부 사이트 링크</a>
@@ -137,14 +137,20 @@ class FMKoreaTests(unittest.TestCase):
     def test_hourly_run_reports_failure_and_saves_diagnostics(self):
         data = {name: [] for name in ["네이버 뉴스", "네이트 스포츠", "디시 실베", "펨코 포텐"]}
         errors = {"펨코 포텐": "HTTP 430"}
-        with patch.object(monitor, "collect", return_value=(data, errors)), \
-                patch.object(monitor, "telegram"), patch.object(monitor, "save_state") as save:
+        with tempfile.TemporaryDirectory() as directory, \
+                patch.object(monitor, "collect", return_value=(data, errors)), \
+                patch.object(monitor, "load_history", return_value={"version": 1, "items": {}}), \
+                patch.object(monitor, "HISTORY_FILE", Path(directory) / "history.json"), \
+                patch.object(monitor, "TelegramClient"), patch.object(monitor, "PrivateState"), \
+                patch.object(monitor, "process_commands"), patch.object(monitor, "deliver_report", return_value=1), \
+                patch.object(monitor, "save_state") as save:
             self.assertEqual(monitor.main(), 1)
-            save.assert_called_once_with(data, errors)
+            self.assertEqual(save.call_args.args[:2], (data, errors))
+            self.assertEqual(save.call_args.args[2]["delivery"], "sent")
 
     def test_diagnostic_cli_never_sends_or_saves(self):
         with patch.object(monitor, "fetch_fmkorea", side_effect=RuntimeError("HTTP 430")), \
-                patch.object(monitor, "telegram") as telegram, \
+                patch.object(monitor, "TelegramClient") as telegram, \
                 patch.object(monitor, "save_state") as save, \
                 patch.object(monitor, "main") as main:
             self.assertEqual(monitor.run_cli(["--check-fmkorea"]), 1)
@@ -169,3 +175,4 @@ class FMKoreaTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
