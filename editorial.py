@@ -5,6 +5,7 @@ import html
 import json
 import re
 import time
+from html.parser import HTMLParser
 from datetime import datetime
 from pathlib import Path
 from urllib.parse import parse_qs, urlencode, urljoin, urlsplit, urlunsplit
@@ -373,24 +374,132 @@ def pack_cards(cards, limit=3500):
     return chunks
 
 
+class _VisibleText(HTMLParser):
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        self.text = []
+
+    def handle_data(self, data):
+        self.text.append(data)
+
+
+def message_units(markup):
+    """Telegram's limit applies after HTML parsing; count UTF-16 conservatively."""
+    parser = _VisibleText()
+    parser.feed(markup)
+    return len("".join(parser.text).encode("utf-16-le")) // 2
+
+
+def digest_stories(stories, state):
+    statuses = state.get("statuses", {})
+    return sorted(stories, key=lambda s: statuses.get(s["id"], {}).get("status") == "done")
+
+
+def digest_numbers(stories, state):
+    return {str(i): story["id"] for i, story in enumerate(digest_stories(stories, state), 1)}
+
+
+def short_title(title, width):
+    return title if len(title) <= width else title[:width - 1].rstrip() + "…"
+
+
+def compact_number(value):
+    if value >= 10000:
+        return f"{value / 10000:.1f}만"
+    if value >= 1000:
+        return f"{value / 1000:.1f}천"
+    return str(value)
+
+
+def compact_signal(story):
+    for row in story["members"]:
+        change = row["change"]
+        if change.get("views", 0) > 0:
+            minutes = round(change["seconds"] / 60)
+            return f"조회 +{compact_number(change['views'])} / {minutes}분"
+        if change.get("rank", 0) > 0:
+            return f"급상승 {row['rank']}위 · ↑{change['rank']}계단"
+        if change.get("reactions", 0) > 0:
+            return f"추천 +{compact_number(change['reactions'])}"
+    for row in story["members"]:
+        if row.get("rank_kind") == "nate_sports_interest":
+            return f"급상승 {row['rank']}위"
+        if row.get("views") is not None:
+            return "조회 " + compact_number(row["views"])
+    return ""
+
+
+SOURCE_LABELS = {"네이버 뉴스": "뉴스", "네이트 스포츠": "스포츠", "디시 실베": "실베", "펨코 포텐": "펨코"}
+
+
+def _compact_row(story, index, state, width, featured=False):
+    lead = story["lead"]
+    title = short_title(lead["title"], width)
+    source = SOURCE_LABELS.get(lead["source"], lead["source"])
+    row = f"{index:02d} {link(title, lead['link'])}"
+    other_links, seen = [], {lead["link"]}
+    for member in story["members"]:
+        if member["link"] not in seen:
+            seen.add(member["link"])
+            other_links.append(link(SOURCE_LABELS.get(member["source"], member["source"]), member["link"]))
+    if other_links:
+        row += " · " + "/".join(other_links)
+    signal = compact_signal(story)
+    status = state.get("statuses", {}).get(story["id"], {}).get("status")
+    meta = [source]
+    if signal:
+        meta.append(signal)
+    if status and status != "clear":
+        meta.append(STATUS_NAMES[status])
+    if featured:
+        row += "\n     " + html.escape(" · ".join(meta))
+    else:
+        row += " — " + html.escape(" · ".join(meta))
+    return row
+
+
 def render_digest(stories, counts, errors, state, now=None):
     now = int(now or time.time())
-    statuses = state.get("statuses", {})
-    stories = sorted(stories, key=lambda s: statuses.get(s["id"], {}).get("status") == "done")
-    header = [f"<b>btp 소재함 · {stamp(now)}</b>",
-              " · ".join(f"{html.escape(name)} {count}/10" for name, count in counts.items()),
-              f"수집 {sum(counts.values())}개 → 동일 제목 묶음 {len(stories)}개 · 전부 포함",
-              "편집 적합도 순서 · 조회수 예측값 아님",
-              "선정 /pick ID · 보류 /hold ID · 제작 /doing ID · 완료 /done ID",
-              "선정 목록 /queue · 명령은 약 10분 간격 점검 시 반영(지연 가능)"]
-    for source in errors:
-        if source.startswith("텔레그램"):
-            header.append("⚠️ 선정 명령 점검 실패 · 소재 보고는 계속 전송")
+    ordered = digest_stories(stories, state)
+    for width in (40, 32, 24, 16):
+        header = [f"<b>⚡ btp 소재함 · {stamp(now)}</b>",
+                  " · ".join(f"{html.escape(SOURCE_LABELS.get(name, name))} {count}" for name, count in counts.items())]
+        if errors:
+            failed = [SOURCE_LABELS.get(name, name) for name in errors if not name.startswith("텔레그램")]
+            if failed:
+                header.append("⚠ " + html.escape("·".join(failed)) + " 수집 불가")
+        if not ordered:
+            header.append("이번 회차에 수집된 소재가 없습니다.")
         else:
-            header.append(f"⚠️ {html.escape(source)}: 수집 실패 · 확인된 다른 소스는 계속 전송")
-    cards = []
-    for i, story in enumerate(stories, 1):
-        for start in range(0, len(story["members"]), 3):
-            page = {**story, "members": story["members"][start:start + 3]}
-            cards.append(render_card(page, i, state))
-    return ["\n".join(header)] + pack_cards(cards)
+            header += ["", "<b>🔥 먼저 볼 5개</b>" if len(ordered) >= 5 else "<b>🔥 먼저 볼 소재</b>"]
+            header.extend(_compact_row(s, i, state, width, True) for i, s in enumerate(ordered[:5], 1))
+            if len(ordered) > 5:
+                tail = [f"<b>나머지 {len(ordered) - 5}개 · 펼쳐보기</b>"]
+                tail.extend(_compact_row(s, i, state, max(16, width - 8)) for i, s in enumerate(ordered[5:], 6))
+                header += ["", "<blockquote expandable>" + "\n".join(tail) + "</blockquote>"]
+            header += ["", "상세 <code>/info 03</code> · 선정 <code>/pick 03</code>",
+                       "번호는 최신 소재함 기준 · 명령은 약 10분 간격 반영"]
+        text = "\n".join(header)
+        if message_units(text) <= 3900:
+            return [text]
+    raise ValueError("전체 후보를 단일 텔레그램 메시지에 담지 못했습니다")
+
+
+def render_info(record, key, status=None):
+    samples = record.get("samples", [])
+    last = samples[-1] if samples else {}
+    row = {**record, "source": record.get("source", "선정 소재"), "rank": last.get("rank", 0), "views": last.get("views"),
+           "reactions": last.get("reactions"), "new": False, "change": {}}
+    assessment = assess({"lead": row, "members": [row]})
+    detail = record.get("detail", {})
+    lines = [link(record["title"], record["link"]),
+             html.escape(row["source"]) + " · " + STATUS_NAMES.get(status, "미선정"),
+             "", "원문 미리보기: " + html.escape(detail.get("excerpt") or detail.get("unavailable", "자동 미리보기 없음")),
+             "btp 포인트: " + html.escape(" · ".join(assessment["reasons"][:2])),
+             html.escape(reaction_text(row))]
+    for media in detail.get("media", [])[:2]:
+        lines.append(link(media["label"], media["url"]))
+    lines.extend("확인: " + html.escape(caution) for caution in assessment["cautions"])
+    lines.append(f"소재 ID <code>{key}</code>")
+    return "\n".join(lines)
+

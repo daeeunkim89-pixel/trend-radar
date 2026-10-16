@@ -1,9 +1,8 @@
 name: Trend Radar
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "50 * * * *"
 
 permissions:
   contents: write
@@ -15,7 +14,7 @@ concurrency:
 jobs:
   monitor:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
     steps:
       - name: Checkout latest shared state
         uses: actions/checkout@v4
@@ -37,7 +36,7 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           EXPECTED_TELEGRAM_CHAT_SHA256: eadd371c0bc22ff5c483c27bed108ad2e7494f2c3e3d8091305a592ce2cbbdc2
-        run: python monitor.py
+        run: python monitor.py --scheduled-report
       - name: Save monitoring state
         if: always() && !cancelled() && steps.collect.outcome != 'skipped'
         run: |
@@ -51,5 +50,6 @@ jobs:
             git commit -m "Update trend history and encrypted editorial state"
             git push origin HEAD:main
           fi
+
 
 

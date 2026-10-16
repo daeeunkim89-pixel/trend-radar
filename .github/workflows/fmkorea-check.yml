@@ -7,6 +7,10 @@ on:
       - monitor.py
       - editorial.py
       - telegram_editor.py
+      - report_timing.py
+      - .github/workflows/monitor.yml
+      - .github/workflows/send-once.yml
+      - .github/workflows/telegram-connection.yml
       - requirements.txt
       - tests/**
       - .github/workflows/fmkorea-check.yml
@@ -16,6 +20,10 @@ on:
       - monitor.py
       - editorial.py
       - telegram_editor.py
+      - report_timing.py
+      - .github/workflows/monitor.yml
+      - .github/workflows/send-once.yml
+      - .github/workflows/telegram-connection.yml
       - requirements.txt
       - tests/**
       - .github/workflows/fmkorea-check.yml
@@ -58,3 +66,4 @@ jobs:
       - run: playwright install --with-deps chromium
       - name: Check actual FMKorea connectivity without Telegram
         run: python monitor.py --check-fmkorea
+

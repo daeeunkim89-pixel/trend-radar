@@ -95,7 +95,8 @@ class HistoryTests(unittest.TestCase):
             for item in rows:
                 self.assertIn(str(e.item_id(item["link"])), json.dumps(e.observe(data, EMPTY, NOW)[1]))
                 self.assertIn(e.html.escape(e.canonical_url(item["link"]), quote=True), text)
-        self.assertTrue(all(len(c.encode("utf-16-le")) // 2 <= 3500 for c in chunks))
+        self.assertEqual(len(chunks), 1)
+        self.assertTrue(all(e.message_units(c) <= 4096 for c in chunks))
 
     def test_enrichment_caches_failures_and_success_without_dropping_candidates(self):
         stories, history = e.observe({"디시 실베": [row()]}, EMPTY, NOW)
@@ -223,15 +224,13 @@ class TelegramTests(unittest.TestCase):
         self.assertEqual(self.private.data["offset"], 2)
         self.assertEqual(process_commands(self.client, self.private, self.history, NOW), 0)
 
-    def test_partial_report_resumes_only_unsent_parts_and_completed_report_is_not_resent(self):
-        self.client.send.side_effect = [10, TelegramError("synthetic")]
+    def test_report_is_exactly_one_message_and_completed_report_is_not_resent(self):
         with self.assertRaises(TelegramError):
             deliver_report(self.client, ["one", "two"], self.private, "hourly", NOW)
-        self.client.send.reset_mock(side_effect=True)
+        self.client.send.assert_not_called()
         self.client.send.return_value = 11
-        self.private = PrivateState(TOKEN, CHAT, self.path)
-        self.assertEqual(deliver_report(self.client, ["changed"], self.private, "hourly", NOW), 1)
-        self.client.send.assert_called_once_with("two")
+        self.assertEqual(deliver_report(self.client, ["one"], self.private, "hourly", NOW), 1)
+        self.client.send.assert_called_once_with("one")
         self.assertEqual(deliver_report(self.client, ["changed"], self.private, "hourly", NOW), 0)
         self.assertNotIn("parts", self.private.data["reports"]["hourly"])
 
@@ -275,3 +274,4 @@ class TelegramTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+

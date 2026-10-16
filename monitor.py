@@ -11,7 +11,8 @@ import requests
 from bs4 import BeautifulSoup
 from playwright.sync_api import TimeoutError as PlaywrightTimeoutError, sync_playwright
 
-from editorial import HISTORY_FILE, atomic_json, enrich, load_history, observe, render_digest
+from editorial import HISTORY_FILE, atomic_json, digest_numbers, enrich, load_history, observe, render_digest
+from report_timing import scheduled_target, wait_for_target
 from telegram_editor import PrivateState, TelegramClient, TelegramError, deliver_report, process_commands
 
 
@@ -461,23 +462,31 @@ def save_state(data, errors=None, report=None):
 # 실행
 # =========================================================
 
-def main(commands_only=False, force_report=False):
+def main(commands_only=False, preview=None, scheduled=False):
     print("TREND RADAR BTP EDITOR START")
+    if preview is None:
+        preview = not (commands_only or scheduled)
+    target = scheduled_target(time.time(), os.environ.get("GITHUB_EVENT_NAME")) if scheduled else None
+    if scheduled and target is None:
+        print("BTP SCHEDULE: preparation window missed; no late or manual report sent")
+        return 0
     try:
         history = load_history()
-        client = TelegramClient(TOKEN, CHAT_ID)
-        client.verify()
-        private = PrivateState(TOKEN, CHAT_ID)
+        if not preview:
+            client = TelegramClient(TOKEN, CHAT_ID)
+            client.verify()
+            private = PrivateState(TOKEN, CHAT_ID)
     except (TelegramError, ValueError, OSError) as error:
         print("BTP INITIALIZATION FAILED:", str(error))
         return 1
 
     command_error = None
-    try:
-        process_commands(client, private, history)
-    except TelegramError as error:
-        command_error = str(error)
-        print("BTP COMMANDS FAILED:", command_error)
+    if not preview:
+        try:
+            process_commands(client, private, history)
+        except TelegramError as error:
+            command_error = str(error)
+            print("BTP COMMANDS FAILED:", command_error)
     if commands_only:
         return 1 if command_error else 0
 
@@ -487,19 +496,30 @@ def main(commands_only=False, force_report=False):
     now = int(time.time())
     stories, history = observe(data, history, now)
     enrich(stories, history, now)
+    if preview:
+        parts = render_digest(stories, {name: len(rows) for name, rows in data.items()}, errors, {}, now)
+        summary = os.environ.get("GITHUB_STEP_SUMMARY")
+        if summary:
+            with open(summary, "a", encoding="utf-8") as output:
+                output.write("## Preview only — no Telegram message sent\n\n" + parts[0] + "\n")
+        print("BTP PREVIEW ONLY: no Telegram calls or state writes")
+        return 0
     atomic_json(HISTORY_FILE, history)
-    report = {"version": "btp-v1.1", "stories": len(stories),
+    report = {"version": "btp-compact-v2", "stories": len(stories),
               "previews": sum(bool(x.get("detail", {}).get("excerpt")) for x in stories),
               "metrics": {name: {"views": sum(x.get("views") is not None for x in rows),
                                   "reactions": sum(x.get("reactions") is not None for x in rows),
                                   "ranking": sum(bool(x.get("rank_kind")) for x in rows)} for name, rows in data.items()},
               "ai": "not_connected", "delivery": "pending"}
-    parts = render_digest(stories, {name: len(rows) for name, rows in data.items()}, errors, private.data, now)
-    report_key = "hourly-" + datetime.fromtimestamp(now, timezone.utc).strftime("%Y%m%d%H")
-    if force_report:
-        report_key = "manual-" + os.environ.get("GITHUB_RUN_ID", str(now))
+    parts = render_digest(stories, {name: len(rows) for name, rows in data.items()}, errors, private.data, target or now)
+    report_key = "hourly-" + datetime.fromtimestamp(target or now, timezone.utc).strftime("%Y%m%d%H")
+    if target is not None and not wait_for_target(target):
+        report["delivery"] = "missed_deadline"
+        save_state(data, errors, report)
+        print("BTP SCHEDULE: deadline missed; no catch-up report sent")
+        return 1 if errors else 0
     try:
-        sent = deliver_report(client, parts, private, report_key, now)
+        sent = deliver_report(client, parts, private, report_key, int(time.time()), numbers=digest_numbers(stories, private.data))
         report.update(delivery="sent" if sent else "already_sent", messages=sent)
     except TelegramError as error:
         errors["텔레그램 전송"] = str(error)
@@ -519,14 +539,18 @@ def run_cli(argv=None):
         help="펨코 수집만 검사 (텔레그램 전송/상태 저장 없음)",
     )
     parser.add_argument("--commands-only", action="store_true", help="텔레그램 선정 명령만 점검")
-    parser.add_argument("--force-report", action="store_true", help="같은 시간대에도 별도 보고서 전송")
+    parser.add_argument("--preview", action="store_true", help="미리보기만 생성 (텔레그램 전송 없음)")
+    parser.add_argument("--scheduled-report", action="store_true", help="예약 실행에서만 다음 정각에 단일 보고 발송")
     args = parser.parse_args(argv)
     if args.check_fmkorea:
         return check_fmkorea()
-    return main(commands_only=args.commands_only, force_report=args.force_report)
+    return main(commands_only=args.commands_only,
+                preview=args.preview or not (args.commands_only or args.scheduled_report),
+                scheduled=args.scheduled_report)
 
 
 if __name__ == "__main__":
     raise SystemExit(run_cli())
+
 
 

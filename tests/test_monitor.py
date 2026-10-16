@@ -143,8 +143,10 @@ class FMKoreaTests(unittest.TestCase):
                 patch.object(monitor, "HISTORY_FILE", Path(directory) / "history.json"), \
                 patch.object(monitor, "TelegramClient"), patch.object(monitor, "PrivateState"), \
                 patch.object(monitor, "process_commands"), patch.object(monitor, "deliver_report", return_value=1), \
+                patch.object(monitor, "scheduled_target", return_value=1792137600), \
+                patch.object(monitor, "wait_for_target", return_value=True), \
                 patch.object(monitor, "save_state") as save:
-            self.assertEqual(monitor.main(), 1)
+            self.assertEqual(monitor.main(scheduled=True), 1)
             self.assertEqual(save.call_args.args[:2], (data, errors))
             self.assertEqual(save.call_args.args[2]["delivery"], "sent")
 
@@ -175,4 +177,5 @@ class FMKoreaTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
 

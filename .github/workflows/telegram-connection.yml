@@ -2,10 +2,6 @@ name: Telegram connection check
 
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - .github/workflows/telegram-connection.yml
 
 permissions:
   contents: read
@@ -15,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 3
     steps:
-      - name: Verify the configured group and send one test message
+      - name: Verify the configured group without sending a message
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
@@ -76,16 +72,10 @@ jobs:
               fail('GROUP_IDENTITY_MISMATCH. No message was sent.')
           print('TELEGRAM_GROUP_IDENTITY=OK')
 
-          message = call(
-              'sendMessage',
-              chat_id=chat_id,
-              text='✅ Trend Radar 연결 확인\n새 그룹으로 테스트 메시지가 정상 전송됐습니다.',
-          )
-          if fingerprint(message.get('chat', {}).get('id')) != expected_chat_hash:
-              fail('DELIVERY_CHAT_MISMATCH')
-          print('TELEGRAM_GROUP_SEND=OK')
+          print('TELEGRAM_READ_ONLY_CHECK=OK; no message sent')
           summary_path = os.environ.get('GITHUB_STEP_SUMMARY')
           if summary_path:
               with open(summary_path, 'a', encoding='utf-8') as summary:
-                  summary.write('## Telegram connection check\n\n- Bot identity: confirmed\n- Configured destination: matches the requested group\n- Test message: accepted by Telegram\n')
+                  summary.write('## Telegram connection check\n\n- Bot identity: confirmed\n- Configured destination: matches the requested group\n- Delivery: disabled (read-only check)\n')
           PY
+

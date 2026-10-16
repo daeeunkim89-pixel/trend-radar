@@ -12,7 +12,7 @@ from pathlib import Path
 import requests
 from cryptography.fernet import Fernet, InvalidToken
 
-from editorial import STATUS_NAMES, link, pack_cards
+from editorial import STATUS_NAMES, link, message_units, pack_cards, render_info
 
 PRIVATE_FILE = Path("data/editor.enc")
 
@@ -96,6 +96,8 @@ class TelegramClient:
         print("TELEGRAM_GROUP_VERIFIED=OK")
 
     def send(self, text):
+        if message_units(text) > 4096:
+            raise TelegramError("텔레그램 메시지 길이 제한 초과")
         if self.last_sent is not None:
             wait = 3.1 - (time.monotonic() - self.last_sent)
             if wait > 0:
@@ -122,13 +124,14 @@ def catalog(history):
 def help_text(username):
     suffix = "@" + username if username else ""
     return ("<b>btp 소재 선정</b>\n"
-            f"<code>/pick{suffix} 소재ID</code> 선정\n"
+            f"<code>/info{suffix} 번호</code> 상세·자료 링크\n"
+            f"<code>/pick{suffix} 번호</code> 선정\n"
             f"<code>/hold{suffix} 소재ID</code> 보류\n"
             f"<code>/doing{suffix} 소재ID</code> 제작 중\n"
             f"<code>/done{suffix} 소재ID</code> 업로드 완료\n"
             f"<code>/clear{suffix} 소재ID</code> 상태 초기화\n"
             f"<code>/queue{suffix}</code> 선정·보류·제작 목록\n"
-            "보고서 하단의 12자리 ID를 사용하세요. 명령은 약 10분 간격 점검 때 반영됩니다(지연 가능).")
+            "최신 소재함 번호 또는 12자리 ID를 사용하세요. 이전 소재함은 해당 메시지에 답장해 번호를 입력하세요. 명령은 약 10분 간격 점검 때 반영됩니다(지연 가능).")
 
 
 def process_commands(client, private, history, now=None):
@@ -153,13 +156,20 @@ def process_commands(client, private, history, now=None):
         if update_id < state["offset"]:
             continue
         message = update.get("message", {})
-        match = re.fullmatch(r"/(pick|hold|doing|done|clear|queue|help)(?:@([A-Za-z0-9_]+))?(?:\s+(\S+))?\s*", message.get("text", ""))
+        match = re.fullmatch(r"/(info|pick|hold|doing|done|clear|queue|help)(?:@([A-Za-z0-9_]+))?(?:\s+(\S+))?\s*", message.get("text", ""))
         accepted = (str(message.get("chat", {}).get("id")) == client.chat_id
                     and not message.get("from", {}).get("is_bot")
                     and now - 86400 <= message.get("date", 0) <= now + 300
                     and match and (not match[2] or match[2].lower() == client.username.lower()))
         if accepted:
             command, key = match[1], (match[3] or "").lower()
+            if key.isdecimal() and len(key) <= 2:
+                reply_id = message.get("reply_to_message", {}).get("message_id")
+                reports = [r for r in state["reports"].values() if r.get("done") and r.get("numbers")]
+                if reply_id:
+                    reports = [r for r in reports if reply_id in r.get("message_ids", [])]
+                reports.sort(key=lambda r: r["started_at"], reverse=True)
+                key = reports[0]["numbers"].get(str(int(key)), "") if reports else ""
             if command == "help":
                 replies = [help_text(client.username)]
             elif command == "queue":
@@ -168,7 +178,9 @@ def process_commands(client, private, history, now=None):
                 entries = [f"{STATUS_NAMES[value['status']]} · {link(stories[k]['title'], stories[k]['link'])}\n<code>{k}</code>" for k, value in active[:30]]
                 replies = ["<b>btp 선정 목록</b>\n" + f"진행·보류 {len(active)}개 (최근 30개 표시)"] + pack_cards(entries) if entries else ["현재 선정·보류·제작 중인 소재가 없습니다."]
             elif key not in stories:
-                replies = ["소재 ID를 확인해 주세요. 보고서에 있는 12자리 ID로 입력하거나 /help를 보내세요."]
+                replies = ["최신 소재함 번호 또는 12자리 ID를 확인해 주세요. 사용법은 /help로 볼 수 있습니다."]
+            elif command == "info":
+                replies = [render_info(stories[key], key, state["statuses"].get(key, {}).get("status"))]
             else:
                 item = {k: stories[key][k] for k in ("title", "link", "last_seen_at")}
                 state["statuses"][key] = {"status": command, "updated_at": now, "item": item}
@@ -187,17 +199,27 @@ def process_commands(client, private, history, now=None):
     return handled
 
 
-def deliver_report(client, parts, private, report_key, now=None):
+def deliver_report(client, parts, private, report_key, now=None, numbers=None):
     now = int(now or time.time())
+    if len(parts) != 1:
+        raise TelegramError("자동 소재함은 시간당 메시지 1개만 보낼 수 있습니다")
     reports = private.data["reports"]
     report = reports.get(report_key)
     if report and report.get("done"):
         print("TELEGRAM_REPORT_ALREADY_SENT=SKIP")
         return 0
+    if report and report.get("message_ids"):
+        report["done"] = True
+        report["suppressed_remainder"] = True
+        report.pop("parts", None)
+        private.save()
+        print("TELEGRAM_LEGACY_REPORT_REMAINDER=SKIP")
+        return 0
     if report and report.get("uncertain"):
         raise DeliveryUncertain("이 보고서의 이전 전송 결과 확인이 필요합니다")
     if not report:
-        report = {"parts": parts, "next": 0, "started_at": now, "message_ids": [], "done": False}
+        report = {"parts": parts, "next": 0, "started_at": now, "message_ids": [],
+                  "done": False, "numbers": numbers or {}}
         reports[report_key] = report
         private.save()
     sent = 0
@@ -219,3 +241,4 @@ def deliver_report(client, parts, private, report_key, now=None):
     private.save()
     print("TELEGRAM_REPORT_COMPLETE", sent)
     return sent
+
