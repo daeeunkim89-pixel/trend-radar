@@ -25,6 +25,20 @@ DETAIL_HOSTS = {
 }
 STATUS_NAMES = {"pick": "선정", "hold": "보류", "doing": "제작 중", "done": "업로드 완료", "clear": "미선정"}
 
+# Editorial preferences, not a prediction of Instagram reach. Keep ambiguous
+# member names contextual, and avoid matching English IVE inside live.
+FEMALE_IDOL = re.compile(
+    r"여자\s*아이돌|여성\s*아이돌|걸\s*그룹|여돌|블랙핑크|뉴진스|에스파|르세라핌|"
+    r"(?<![가-힣])아이브|트와이스|엔믹스|아일릿|키스\s*오브\s*라이프|베이비몬스터|"
+    r"레드벨벳|소녀시대|스테이씨|오마이걸|(?:\(여자\)|여자)\s*아이들|하츠투하츠|"
+    r"장원영|안유진|카리나|홍은채|허윤진|닝닝|쯔위|설윤|"
+    r"(?<![a-z])(?:blackpink|newjeans|aespa|ive|le\s*sserafim|twice|nmixx|illit|"
+    r"kiss\s*of\s*life|babymonster|red\s*velvet|itzy|i-dle)(?![a-z])", re.I)
+CONTEXTUAL_IDOL_MEMBER = re.compile(
+    r"(?<![가-힣a-z])(?:윈터|제니|로제|리사|지수|김채원|사쿠라|민지|하니|해린|혜인|"
+    r"나연|사나|다현|미연|우기|민니|슈화|유나|예지|리아|있지|여자친구|키키)(?![a-z])", re.I)
+IDOL_CONTEXT = re.compile(r"아이돌|걸\s*그룹|걸갤|무대|직캠|컴백|신곡|뮤직비디오|뮤비|안무|음악방송|음방|팬미팅|콘서트")
+
 
 def clean(text):
     return re.sub(r"\s+", " ", text or "").strip()
@@ -155,22 +169,30 @@ def observe(data, history, now=None):
         story["members"].sort(key=lambda x: (x["source"] == "디시 실베", x["first_seen_at"], x["rank"]))
         story["lead"] = story["members"][0]
         story.update(assess(story))
-    # A growth bonus compares only items from the same source and the same metric.
-    for source in data:
-        comparable = [x for x in current if x["source"] == source and x["change"].get("views_hourly", 0) > 0]
-        comparable.sort(key=lambda x: x["change"]["views_hourly"], reverse=True)
-        for index, row in enumerate(comparable):
-            if index < max(1, len(comparable) // 3):
-                for story in stories:
-                    if row in story["members"]:
-                        story["score"] += 15
-                        story["reasons"].append("같은 소스의 비교 가능한 수집 글 중 조회 증가 속도가 상위권")
+    # Compare actual growth only within one source/metric. Each signal can boost
+    # a story once, even when the same headline appears on several sources.
+    for name, label, points in (("views", "조회", 15), ("reactions", "추천", 10)):
+        boosted = set()
+        for source in data:
+            comparable = [x for x in current if x["source"] == source and x["change"].get(name + "_hourly", 0) > 0]
+            comparable.sort(key=lambda x: x["change"][name + "_hourly"], reverse=True)
+            for row in comparable[:max(1, len(comparable) // 3)]:
+                story = groups[row["story_id"]]
+                if story["id"] in boosted:
+                    continue
+                boosted.add(story["id"])
+                story["score"] += points
+                reason = (f"같은 소스의 비교 가능한 수집 글 중 {label} 증가 속도가 상위권" if len(comparable) > 1
+                          else f"직전 관측 대비 {label} 증가 확인")
+                story["reasons"].append(reason)
     stories.sort(key=lambda s: (-s["score"], not s["lead"]["new"], s["id"]))
     return stories, history
 
 
 def assess(story):
     title = story["lead"]["title"]
+    female_idol = bool(FEMALE_IDOL.search(title) or
+                       (CONTEXTUAL_IDOL_MEMBER.search(title) and IDOL_CONTEXT.search(title)))
     rules = [
         ("축구", r"손흥민|김민재|이강인|황희찬|오현규|호날두|메시|안토니|축구|토트넘|맨유|맨시티|아스널|아스날|레알|바르셀로나|챔피언스리그|프리미어리그|국가대표", 30, "btp에서 자주 다루는 축구·선수 소재"),
         ("스포츠", r"야구|농구|배구|올림픽|월드컵|오타니|류현진|김하성|이정후|NBA|MLB|KBO|UFC|격투기", 23, "스포츠 팬이 알아볼 인물·대회 소재"),
@@ -178,11 +200,20 @@ def assess(story):
         ("기술·생활", r"테슬라|머스크|아이폰|갤럭시|인공지능|로봇|우주|신기술", 12, "변화나 장면을 쉽게 보여줄 수 있는 기술·생활 소재"),
     ]
     tags, reasons, score = [], [], 0
+    if female_idol:
+        tags.append("여자 아이돌")
+        reasons.append("btp에서 우선 검토할 여자 아이돌 소재")
+        score += 30
     for tag, pattern, points, reason in rules:
+        if female_idol and tag == "밈·문화":
+            continue
         if re.search(pattern, title, re.I):
             tags.append(tag)
             reasons.append(reason)
             score += points
+    if female_idol and re.search(r"무대|직캠|컴백|신곡|안무|챌린지|예능", title):
+        score += 8
+        reasons.append("제목에 무대·활동 소재가 있어 영상 구성을 검토할 만함")
     if re.search(r"최초|최다|최연소|최고령|신기록|역대|기록 경신|1위", title):
         score += 12
         reasons.append("제목에 기록·순위 소재가 있어 비교 구성을 검토할 만함")
