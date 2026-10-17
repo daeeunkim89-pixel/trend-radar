@@ -37,7 +37,7 @@ FEMALE_IDOL = re.compile(
 CONTEXTUAL_IDOL_MEMBER = re.compile(
     r"(?<![가-힣a-z])(?:윈터|제니|로제|리사|지수|김채원|사쿠라|민지|하니|해린|혜인|"
     r"나연|사나|다현|미연|우기|민니|슈화|유나|예지|리아|있지|여자친구|키키)(?![a-z])", re.I)
-IDOL_CONTEXT = re.compile(r"아이돌|걸\s*그룹|걸갤|무대|직캠|컴백|신곡|뮤직비디오|뮤비|안무|음악방송|음방|팬미팅|콘서트")
+IDOL_CONTEXT = re.compile(r"아이돌|걸\s*그룹|걸갤|무대|직캠|컴백|신곡|뮤직비디오|뮤비|안무|음악방송|음방|팬|콘서트|자막|라이브|시구")
 
 
 def clean(text):
@@ -226,7 +226,7 @@ def assess(story):
     if not reasons:
         tags, reasons = ["일반 이슈"], ["수집 목록에 포착된 후보 · btp 주제 적합성은 직접 검토"]
     cautions = []
-    if any(x["source"] in {"디시 실베", "펨코 포텐"} for x in story["members"]):
+    if any(x["source"] in {"디시 실베", "펨코 포텐", "커뮤니티 인기"} for x in story["members"]):
         cautions.append("커뮤니티 게시물은 반응 탐지용 · 사실은 기사·공식 발표로 대조")
     if re.search(r"의혹|루머|이적설|혐의|추정|가능성|미확인", title):
         cautions.append("제목의 의혹·가능성을 확정 사실로 쓰지 않기")
@@ -453,6 +453,8 @@ def compact_signal(story):
         if change.get("reactions", 0) > 0:
             return f"추천 +{compact_number(change['reactions'])}"
     for row in story["members"]:
+        if row.get("rank_kind") in {"nate_ent_interest_100", "nate_spo_interest_100"}:
+            return f"관심 {row['rank']}위"
         if row.get("rank_kind") == "nate_sports_interest":
             return f"급상승 {row['rank']}위"
         if row.get("views") is not None:
@@ -460,13 +462,16 @@ def compact_signal(story):
     return ""
 
 
-SOURCE_LABELS = {"네이버 뉴스": "뉴스", "네이트 스포츠": "스포츠", "디시 실베": "실베", "펨코 포텐": "펨코"}
+SOURCE_LABELS = {"네이버 뉴스": "뉴스", "네이트 스포츠": "스포츠", "디시 실베": "실베", "펨코 포텐": "펨코",
+                 "국내·해외축구": "축구", "네이트 연예": "연예", "커뮤니티 인기": "커뮤니티"}
 
 
 def _compact_row(story, index, state, width, featured=False):
     lead = story["lead"]
     title = short_title(lead["title"], width)
     source = SOURCE_LABELS.get(lead["source"], lead["source"])
+    if lead.get("discovery"):
+        source = lead.get("origin", source) + "·목록"
     row = f"{index:02d} {link(title, lead['link'])}"
     other_links, seen = [], {lead["link"]}
     for member in story["members"]:
@@ -478,6 +483,10 @@ def _compact_row(story, index, state, width, featured=False):
     signal = compact_signal(story)
     status = state.get("statuses", {}).get(story["id"], {}).get("status")
     meta = [source]
+    if story.get("category"):
+        meta.insert(0, story["category"])
+    if featured and story.get("review_reason"):
+        meta.append(story["review_reason"])
     if signal:
         meta.append(signal)
     if status and status != "clear":

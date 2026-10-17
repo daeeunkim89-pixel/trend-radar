@@ -6,6 +6,8 @@ on:
     paths:
       - monitor.py
       - editorial.py
+      - selection.py
+      - discovery.py
       - telegram_editor.py
       - report_timing.py
       - report_request.py
@@ -21,6 +23,8 @@ on:
     paths:
       - monitor.py
       - editorial.py
+      - selection.py
+      - discovery.py
       - telegram_editor.py
       - report_timing.py
       - report_request.py

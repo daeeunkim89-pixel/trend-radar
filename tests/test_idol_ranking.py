@@ -1,6 +1,7 @@
 import unittest
 
 import editorial as e
+from selection import select_stories
 from test_editorial import EMPTY, NOW, row
 
 
@@ -87,17 +88,13 @@ class IdolRankingTests(unittest.TestCase):
         self.assertEqual(stories[0]["score"] - e.assess(stories[0])["score"], 25)
         self.assertNotIn("상위권", " ".join(stories[0]["reasons"]))
 
-    def test_idol_priority_reaches_featured_five_and_keeps_all_links_and_number_mapping(self):
+    def test_topic_ranking_alone_cannot_bypass_publication_gate(self):
         items = [row(title=f"일반 소식 관련 인터뷰 {i}", post=4000 + i) for i in range(7)]
         idol = row(title="장원영 취향 공개", post=4999)
         items.append(idol)
         stories, _ = e.observe({"디시 실베": items}, EMPTY, NOW)
-        parts = e.render_digest(stories, {"디시 실베": len(items)}, {}, {}, NOW)
-        self.assertEqual(len(parts), 1)
-        self.assertIn(e.html.escape(idol["link"], quote=True), parts[0].split("<blockquote expandable>")[0])
-        self.assertEqual(e.digest_numbers(stories, {})["1"], e.item_id(idol["link"]))
-        for item in items:
-            self.assertIn(e.html.escape(item["link"], quote=True), parts[0])
+        self.assertEqual(stories[0]["lead"]["title"], idol["title"])
+        self.assertEqual(select_stories(stories), [])
 
 
 if __name__ == "__main__":

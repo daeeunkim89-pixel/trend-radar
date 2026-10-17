@@ -93,7 +93,7 @@ class ContentDedupTests(unittest.TestCase):
 
     def test_hourly_pipeline_only_renders_and_numbers_new_candidates_then_a_short_empty_report(self):
         self.send_old()
-        new = row(title="카리나 새로운 신곡 무대 공개", post=987654)
+        new = row(title="카리나 신곡 무대 돌발상황에 보인 깜짝 대처", post=987654)
         data = {"디시 실베": [self.old, new]}
         for offset, expected_new, expected_duplicates in ((3600, 1, 1), (7200, 0, 2)):
             with self.subTest(offset=offset), \
@@ -119,12 +119,12 @@ class ContentDedupTests(unittest.TestCase):
                 if expected_new:
                     self.assertIn(new["title"], message)
                     self.assertEqual(latest["numbers"], {"1": e.item_id(new["link"])})
-                    self.assertIn("실베 1", message)
+                    self.assertIn("아이돌 1", message)
                 else:
                     self.assertNotIn('<a href="', message)
                     self.assertIn("새로 보낼 소재가 없습니다", message)
                     self.assertIn("중복 2개 제외", message)
-                    self.assertIn("실베 0", message)
+                    self.assertIn("아이돌 0", message)
                     self.assertEqual(latest["numbers"], {})
 
 
