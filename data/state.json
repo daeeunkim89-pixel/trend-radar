@@ -1,75 +1,76 @@
 {
-  "updated_at": 1792246588,
+  "updated_at": 1792265045,
   "status": "ok",
   "errors": {},
   "report": {
-    "version": "btp-editorial-v7",
+    "version": "btp-editorial-v8",
     "delivery": "sent",
     "messages": 1,
     "stories": 10,
     "duplicates_excluded": 0,
     "ai": "chatgpt_web_research",
     "requested_stories": 10,
+    "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026101714",
+    "hour_utc": "2026101719",
     "category_counts": {
-      "시사": 3,
-      "축구": 3,
-      "메이저 스포츠": 1,
-      "아이돌": 3
+      "시사": 5,
+      "축구": 1,
+      "메이저 스포츠": 3,
+      "아이돌": 1
     },
-    "research_queries": 33,
-    "opened_sources": 53,
+    "research_queries": 40,
+    "opened_sources": 27,
     "picks": [
       {
-        "title": "레알, 라리가 회장에 공식 사퇴 요구…발단은 ‘나치 선전술’ 비유",
-        "url": "https://www.realmadrid.com/es-ES/noticias/club/comunicados/comunicado-oficial-16-10-2026",
-        "event_key": "real-madrid-tebas-resignation-demand-goebbels-20261016"
+        "title": "뒤집히고 공중에서 회전한 테슬라…로드스터 시연 장면",
+        "url": "https://apnews.com/article/7d5f19665435b7408025bfb7a2f2f0b7",
+        "event_key": "tesla-roadster-ramp-airborne-demo-20261015"
       },
       {
-        "title": "다리를 두 번 감아 앉은 윈터…사진 보고 자세부터 다시 보게 된다",
-        "url": "https://www.youtube.com/watch?v=vEnsMY5Od70",
-        "event_key": "winter-vogue-double-crossed-leg-pose-20261015"
+        "title": "17초 뜸 들인 페널티킥…기다린 골키퍼가 막았다",
+        "url": "https://mlbpark.donga.com/mp/b.php?b=bullpen&id=202610160119464110&m=view",
+        "event_key": "trayvone-reid-slow-penalty-save-club-sando-20261014"
       },
       {
-        "title": "시도민 축구단 14곳에 보조금 1,401억원…전체 수입의 64%였다",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008802310",
-        "event_key": "sbs-kleague-civic-club-finances-20261017"
+        "title": "‘엄청난 팬’ 소개 뒤 정치인 인사말…공연 중 자리 비운 HYNN",
+        "url": "https://www.ngonews.kr/news/articleView.html?idxno=240795",
+        "event_key": "hynn-sunchang-stage-interrupted-for-kim-minseok-20261015"
       },
       {
-        "title": "44년 만의 월드시리즈에 NBA가 양보…벅스 홈 개막전 4시간 앞당겨",
-        "url": "https://www.nba.com/news/milwaukee-bucks-move-home-opener-world-series",
-        "event_key": "bucks-home-opener-moved-for-world-series-20261016"
+        "title": "‘아브라카다브라 누가 골랐어?’…아이돌들의 선곡자 찾기",
+        "url": "https://theqoo.net/hot/4378317935",
+        "event_key": "military-idols-abracadabra-song-choice-comment-chain-20261017"
       },
       {
-        "title": "안유진, 장사 정산금 70만원 대신 고른 건 ‘본사 이용권’",
-        "url": "https://www.tenasia.co.kr/article/2026101775504",
-        "event_key": "earth-arcade-ricecake-yujin-headquarters-voucher-20261016"
+        "title": "192cm 오상욱의 집…침대 밖으로 발, 상부장은 눈높이",
+        "url": "https://news.nate.com/view/20261017n14061",
+        "event_key": "oh-sanguk-192cm-home-bed-cupboard-mbc-20261017"
       },
       {
-        "title": "경력 논란 백악관 대변인, 업무 시작 나흘 만에 경질",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6858697_37004.html",
-        "event_key": "white-house-katie-zacharia-press-secretary-dismissed-20261016"
+        "title": "멋지게 덩크하던 반스…사진에는 내려간 훈련복 바지",
+        "url": "https://www.starnewskorea.com/sports/2026/10/16/2026101617220010117",
+        "event_key": "scottie-barnes-warmup-pants-slip-20261014"
       },
       {
-        "title": "‘규모 9.9’ 경보는 오보였다…일본이 8분 만에 취소한 이유",
-        "url": "https://www.fnn.jp/articles/-/1134397",
-        "event_key": "jma-false-magnitude-99-earthquake-warning-20261016"
+        "title": "교사 부족 시위가 물가 시위로…프랑스, 17일 저녁까지 400명 체포",
+        "url": "https://www.lbc.co.uk/article/french-riot-police-clash-protesters-5Hjdk4m_2/",
+        "event_key": "france-cost-of-living-school-protests-20261017"
       },
       {
-        "title": "감독은 대형 재계약, 구단은 감원 추진…아스널의 엇갈린 소식",
-        "url": "https://www.theguardian.com/football/2026/oct/16/mikel-arteta-defends-job-cuts-at-arsenal-to-help-club-evolve-and-create-success",
-        "event_key": "arsenal-up-to-60-job-cuts-arteta-contract-20261016"
+        "title": "첫 점프볼·특정 슛 실패 베팅 금지…NBA가 막는 승부조작의 틈",
+        "url": "https://www.espn.com/nba/story/_/id/50196498/nba-tells-sportsbooks-stop-certain-bets-restrict-parlays",
+        "event_key": "nba-betting-opening-tip-single-player-unders-restrictions-20261016"
       },
       {
-        "title": "민호 차단한다던 카니…10km 완주 뒤 샤넬 선물에 눈물",
-        "url": "https://www.youtube.com/watch?v=alBN0-4sJ_g",
-        "event_key": "minho-kany-smrun-finish-chanel-gift-video-20261015"
+        "title": "법 서명 한 달 만에 신규 대러 제재 면제…100% 추가 관세도 멈췄다",
+        "url": "https://www.whitehouse.gov/presidential-actions/2026/10/implementing-the-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026/",
+        "event_key": "trump-graham-act-russia-sanctions-tariff-waiver-20261016"
       },
       {
-        "title": "퇴근 20분 앞두고 출동한 소방관 순직…초등 입학 앞둔 딸 남겨",
-        "url": "https://www.seoul.co.kr/news/society/2026/10/17/20261017500043",
-        "event_key": "kim-jinseok-bucheon-fire-line-of-duty-death-20261017"
+        "title": "산책로의 인공기 미사일…축제 계획안과 달라 국기 부분 가렸다",
+        "url": "https://www.hankyung.com/article/2026101779407",
+        "event_key": "nowon-moonlight-festival-missile-flags-covered-20261016"
       }
     ]
   }
