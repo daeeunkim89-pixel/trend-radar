@@ -13,15 +13,19 @@ REQUEST_FILE = Path("data/report-request.json")
 def run(path=REQUEST_FILE, now=None, sender=None, picks_file=Path("data/editorial-picks.json")):
     try:
         request = json.loads(Path(path).read_text(encoding="utf-8"))
-        if (not isinstance(request, dict) or type(request.get("version")) is not int or request["version"] not in (1, 2)
+        if (not isinstance(request, dict) or type(request.get("version")) is not int or request["version"] not in (1, 2, 3)
                 or not isinstance(request["hour_utc"], str)):
             raise ValueError("Invalid report request schema")
-        expected = {"version", "hour_utc"} | ({"editorial_sha256"} if request["version"] == 2 else set())
+        expected = {"version", "hour_utc"} | ({"editorial_sha256"} if request["version"] in (2, 3) else set())
+        if request["version"] == 3:
+            expected.add("mode")
+            if request.get("mode") != "user_requested":
+                raise ValueError("An on-demand edition requires an explicit user request")
         if set(request) != expected:
             raise ValueError("Invalid report request fields")
         clock = time.time() if now is None else now
-        if request["version"] == 2:
-            prepared_target(request["hour_utc"], clock)
+        if request["version"] in (2, 3):
+            (prepared_target if request["version"] == 2 else recovery_target)(request["hour_utc"], clock)
             digest = request["editorial_sha256"]
             if not isinstance(digest, str) or len(digest) != 64 or any(c not in "0123456789abcdef" for c in digest):
                 raise ValueError("Invalid editorial content digest")
@@ -39,6 +43,8 @@ def run(path=REQUEST_FILE, now=None, sender=None, picks_file=Path("data/editoria
     print("BTP REQUEST ACCEPTED:", request["hour_utc"])
     if request["version"] == 2:
         return sender(prepared_hour=request["hour_utc"], expected_sha256=request["editorial_sha256"])
+    if request["version"] == 3:
+        return sender(recover_hour=request["hour_utc"], expected_sha256=request["editorial_sha256"], user_requested=True)
     return sender(recover_hour=request["hour_utc"])
 
 

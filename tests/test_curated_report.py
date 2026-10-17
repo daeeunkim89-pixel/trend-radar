@@ -152,6 +152,46 @@ class EditorialEditionTests(unittest.TestCase):
             self.assertEqual(c.main(recover_hour=HOUR_TEXT, picks_file=self.path), 1)
             client.send.assert_called_once()
 
+    def test_explicit_on_demand_edition_sends_once_without_reopening_hourly_ledger(self):
+        self.write(edition())
+        digest = hashlib.sha256(self.path.read_bytes()).hexdigest()
+        private = PrivateState("synthetic-token", "-123456", self.directory / "manual.enc")
+        private.data["reports"][hourly_key(HOUR)] = {"done": True, "message_ids": [100],
+                                                   "started_at": NOW, "content_keys": []}
+        client = Mock(send=Mock(return_value=124))
+        with patch.object(c.time, "time", return_value=NOW), patch.object(c, "load_history", return_value=EMPTY), \
+                patch.object(c, "TelegramClient", return_value=client), patch.object(c, "PrivateState", return_value=private), \
+                patch.object(c, "atomic_json"), patch.object(c, "wait_for_target", return_value=True):
+            kwargs = {"recover_hour": HOUR_TEXT, "picks_file": self.path,
+                      "expected_sha256": digest, "user_requested": True}
+            self.assertEqual(c.main(**kwargs), 0)
+            self.assertEqual(c.main(**kwargs), 0)
+            self.assertEqual(c.main(recover_hour=HOUR_TEXT, picks_file=self.path), 0)
+            client.send.assert_called_once()
+            self.assertEqual(private.data["reports"][hourly_key(HOUR)]["message_ids"], [100])
+            self.assertTrue(private.data["reports"]["user-curated-" + digest]["done"])
+
+    def test_on_demand_request_is_pinned_current_hour_and_preserves_content_deduplication(self):
+        self.write(edition())
+        digest = hashlib.sha256(self.path.read_bytes()).hexdigest()
+        request = {"version": 3, "mode": "user_requested", "hour_utc": HOUR_TEXT, "editorial_sha256": digest}
+        request_path = self.directory / "manual-request.json"
+        request_path.write_text(json.dumps(request))
+        sender = Mock(return_value=0)
+        self.assertEqual(report_request.run(request_path, NOW, sender, self.path), 0)
+        sender.assert_called_once_with(recover_hour=HOUR_TEXT, expected_sha256=digest, user_requested=True)
+        sender.reset_mock()
+        self.assertEqual(report_request.run(request_path, HOUR + 3600, sender, self.path), 2)
+        sender.assert_not_called()
+        private = PrivateState("synthetic-token", "-123456", self.directory / "manual.enc")
+        client = Mock()
+        with patch.object(c.time, "time", return_value=NOW), patch.object(c, "load_history", return_value=EMPTY), \
+                patch.object(c, "TelegramClient", return_value=client), patch.object(c, "PrivateState", return_value=private), \
+                patch.object(c, "unreported_stories", return_value=[]), patch.object(c, "atomic_json"):
+            self.assertEqual(c.main(recover_hour=HOUR_TEXT, picks_file=self.path,
+                                    expected_sha256=digest, user_requested=True), 0)
+            client.send.assert_not_called()
+
     def test_empty_edition_has_no_junk_filler(self):
         self.write(edition([]))
         reviewed = c.load_edition(self.path, HOUR, NOW)

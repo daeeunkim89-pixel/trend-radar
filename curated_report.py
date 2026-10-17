@@ -200,14 +200,17 @@ def same_event_filter(stories):
     return chosen
 
 
-def record_decision(stories, target, now, delivery):
+def record_decision(stories, target, now, delivery, delivery_key=None):
     """Public editorial decisions let the next researcher reuse event identities."""
     try:
         previous = json.loads(DECISIONS_FILE.read_text(encoding="utf-8")) if DECISIONS_FILE.exists() else {"version": 1, "editions": []}
         if previous.get("version") != 1 or not isinstance(previous.get("editions"), list):
             raise ValueError("Invalid public editorial history")
-        rows = [r for r in previous["editions"] if r.get("at", 0) >= now - 7 * 86400 and r.get("hour_utc") != hourly_key(target)[7:]]
+        delivery_key = delivery_key or hourly_key(target)
+        rows = [r for r in previous["editions"] if r.get("at", 0) >= now - 7 * 86400
+                and r.get("delivery_key", "hourly-" + r.get("hour_utc", "")) != delivery_key]
         rows.append({"hour_utc": hourly_key(target)[7:], "at": now, "delivery": delivery,
+                     "delivery_key": delivery_key,
                      "picks": [{"title": s["lead"]["title"], "url": s["lead"]["link"],
                                 "event_key": s["editorial"]["event_key"]} for s in stories]})
         atomic_json(DECISIONS_FILE, {"version": 1, "editions": rows[-168:]})
@@ -215,11 +218,16 @@ def record_decision(stories, target, now, delivery):
         print("BTP EDITORIAL HISTORY WARNING: public decision archive could not be updated")
 
 
-def main(recover_hour=None, prepared_hour=None, picks_file=PICKS_FILE, expected_sha256=None, preview=False):
+def main(recover_hour=None, prepared_hour=None, picks_file=PICKS_FILE, expected_sha256=None, preview=False,
+         user_requested=False):
     now = int(time.time())
     try:
         target = prepared_target(prepared_hour, now) if prepared_hour else recovery_target(recover_hour, now)
         edition = load_edition(picks_file, target, now, expected_sha256)
+        if user_requested and (prepared_hour or not isinstance(expected_sha256, str)
+                               or not re.fullmatch(r"[0-9a-f]{64}", expected_sha256)):
+            raise ValueError("An on-demand edition requires a pinned current-hour request")
+        delivery_key = "user-curated-" + expected_sha256 if user_requested else hourly_key(target)
         # Parse and bound everything before touching Telegram credentials.
         history = load_history()
         stories, history = build_stories(edition, history, now)
@@ -233,28 +241,32 @@ def main(recover_hour=None, prepared_hour=None, picks_file=PICKS_FILE, expected_
         client = TelegramClient(token, chat)
         client.verify()
         private = PrivateState(token, chat)
-        previous = private.data.get("reports", {}).get(hourly_key(target), {})
+        previous = private.data.get("reports", {}).get(delivery_key, {})
         if previous.get("done") or previous.get("message_ids"):
-            print("BTP EDITORIAL ALREADY_SENT: current shared hourly ledger is complete")
+            print("BTP EDITORIAL ALREADY_SENT: requested delivery ledger is complete")
             return 0
         if previous.get("uncertain"):
             raise DeliveryUncertain("이 시간대의 이전 전송 결과 확인이 필요합니다")
         before = len(stories)
         stories = unreported_stories(stories, history, private, now)
         excluded = before - len(stories)
+        if user_requested and not stories:
+            print("BTP EDITORIAL ON_DEMAND_SKIPPED: no new reviewed material after content deduplication")
+            return 0
         parts = render_edition(stories, target, edition["empty_reason"], excluded)
         atomic_json(HISTORY_FILE, history)
         if not wait_for_target(target):
             print("BTP EDITORIAL EXPIRED: no past-hour report sent")
             return 2
         # A pre-hour edition uses the same hourly key and content ledger as recovery.
-        sent = deliver_report(client, parts, private, hourly_key(target), int(time.time()),
+        sent = deliver_report(client, parts, private, delivery_key, int(time.time()),
                               numbers={str(i): s["id"] for i, s in enumerate(stories, 1)},
                               content_keys={k for s in stories for k in story_content_keys(s)})
         if sent:
-            record_decision(stories, target, int(time.time()), "sent")
+            record_decision(stories, target, int(time.time()), "sent", delivery_key)
         report = {"version": "btp-editorial-v7", "delivery": "sent" if sent else "already_sent", "messages": sent,
                   "stories": len(stories), "duplicates_excluded": excluded, "ai": "chatgpt_web_research",
+                  "trigger": "user_requested" if user_requested else "hourly", "hour_utc": hourly_key(target)[7:],
                   "category_counts": {c: sum(s["category"] == c for s in stories) for c in CATEGORIES},
                   "research_queries": len(edition["coverage"]["queries"]),
                   "opened_sources": len(edition["coverage"]["opened_urls"]),
@@ -266,7 +278,7 @@ def main(recover_hour=None, prepared_hour=None, picks_file=PICKS_FILE, expected_
     except (ValueError, OSError, TypeError, TelegramError) as error:
         # Do not erase a previously confirmed sent state on parse/transport failure.
         if isinstance(error, DeliveryUncertain) and "stories" in locals():
-            record_decision(stories, target, int(time.time()), "uncertain")
+            record_decision(stories, target, int(time.time()), "uncertain", locals().get("delivery_key"))
         print("BTP EDITORIAL DELIVERY_UNCERTAIN:" if isinstance(error, DeliveryUncertain) else "BTP EDITORIAL FAILED:", str(error))
         return 1
 
