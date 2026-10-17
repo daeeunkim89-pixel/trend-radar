@@ -1,40 +1,41 @@
 {
-  "updated_at": 1792238549,
+  "updated_at": 1792242541,
   "status": "degraded",
   "errors": {
     "펨코 포텐": "https://www.fmkorea.com/best = HTTP 430: 펨코의 사람 인증 보안 확인이 완료되지 않았습니다. 현재 실행 환경에서 자동 수집 가능한지 사이트 측 확인이 필요합니다. / https://m.fmkorea.com/best = HTTP 430: 펨코의 사람 인증 보안 확인이 완료되지 않았습니다. 현재 실행 환경에서 자동 수집 가능한지 사이트 측 확인이 필요합니다.",
-    "개드립 인기": "HTTP 403 / HTTP 403"
+    "개드립 인기": "HTTP 403 / HTTP 403",
+    "인스티즈 이슈": "HTTP 403 / HTTP 403 / HTTP 403"
   },
   "counts": {
     "네이버 뉴스": 25,
     "네이트 스포츠": 50,
     "디시 실베": 29,
     "펨코 포텐": 0,
-    "펨코 간접": 108,
+    "펨코 간접": 112,
     "국내·해외축구": 47,
     "네이트 연예": 50,
-    "커뮤니티 인기": 99,
+    "커뮤니티 인기": 95,
     "더쿠 HOT": 47,
     "개드립 인기": 0,
-    "루리웹 베스트": 59,
+    "루리웹 베스트": 58,
     "보배드림 베스트": 90,
-    "인스티즈 이슈": 73,
+    "인스티즈 이슈": 0,
     "엠팍 BEST": 90
   },
   "report": {
     "version": "btp-community-v6",
-    "stories": 6,
-    "duplicates_excluded": 28,
-    "filtered_out": 714,
+    "stories": 3,
+    "duplicates_excluded": 29,
+    "filtered_out": 655,
     "category_counts": {
-      "시사": 4,
+      "시사": 1,
       "축구": 1,
-      "메이저 스포츠": 0,
-      "아이돌": 1
+      "메이저 스포츠": 1,
+      "아이돌": 0
     },
-    "community_stories": 5,
-    "article_stories": 1,
-    "fmkorea_indirect_collected": 108,
+    "community_stories": 1,
+    "article_stories": 2,
+    "fmkorea_indirect_collected": 112,
     "fmkorea_indirect_stories": 0,
     "previews": 3,
     "metrics": {
@@ -89,8 +90,8 @@
         "ranking": 0
       },
       "루리웹 베스트": {
-        "views": 59,
-        "reactions": 59,
+        "views": 58,
+        "reactions": 58,
         "ranking": 0
       },
       "보배드림 베스트": {
@@ -99,8 +100,8 @@
         "ranking": 0
       },
       "인스티즈 이슈": {
-        "views": 73,
-        "reactions": 15,
+        "views": 0,
+        "reactions": 0,
         "ranking": 0
       },
       "엠팍 BEST": {
