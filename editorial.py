@@ -14,7 +14,7 @@ from zoneinfo import ZoneInfo
 
 import requests
 from bs4 import BeautifulSoup
-from communities import COMMUNITY_HOSTS, is_community, post_url
+from communities import COMMUNITY_HOSTS, FMKOREA_HOSTS, fmkorea_url, is_community, post_url
 
 KST = ZoneInfo("Asia/Seoul")
 HISTORY_FILE = Path("data/history.json")
@@ -25,7 +25,7 @@ DETAIL_HOSTS = {
     "sports.news.nate.com", "news.nate.com",
     "gall.dcinside.com", "m.dcinside.com",
 }
-DETAIL_HOSTS |= COMMUNITY_HOSTS - {"www.fmkorea.com", "m.fmkorea.com"}
+DETAIL_HOSTS |= COMMUNITY_HOSTS - FMKOREA_HOSTS
 STATUS_NAMES = {"pick": "선정", "hold": "보류", "doing": "제작 중", "done": "업로드 완료", "clear": "미선정"}
 
 # Editorial preferences, not a prediction of Instagram reach. Keep ambiguous
@@ -152,6 +152,10 @@ def observe(data, history, now=None):
             record = {**previous, "source": row["source"], "title": row["title"], "link": row["link"],
                       "first_seen_at": row["first_seen_at"], "last_seen_at": now, "samples": samples,
                       "parser_revision": row.get("parser_revision")}
+            for name in ("origin", "discovery", "discovery_url", "discovery_observed_at", "discovery_timestamp_kind",
+                         "discovery_label", "listed_at", "content_kind", "list_category"):
+                if name in row:
+                    record[name] = row[name]
             records[key] = record
             current.append(row)
     records = {k: v for k, v in records.items() if v["last_seen_at"] >= now - RETENTION}
@@ -270,7 +274,7 @@ def parse_detail(markup, url, title):
                            ".view_content, .bodyCont, #memo_content_1, #contentDetail, .xe_content")
     description = soup.select_one('meta[property="og:description"], meta[name="description"]')
     text = clean(body.get_text(" ", strip=True)) if body else clean(description.get("content", "") if description else "")
-    result = {"excerpt": short_excerpt(text, title), "media": [], "source_links": [], "revision": 5}
+    result = {"excerpt": short_excerpt(text, title), "media": [], "source_links": [], "fmkorea_links": [], "revision": 6}
     if community:
         result["context"] = text[:1200] if body else ""
     image = soup.select_one('meta[property="og:image"]') if not community else None
@@ -301,6 +305,17 @@ def parse_detail(markup, url, title):
         # source post without pretending we have verified what its video depicts.
         candidates = [a["href"] for a in scope.select("a[href]")]
         candidates += re.findall(r"https://[^\s<>\"']+", text)
+        # Explicit citation blocks are separate from the article body on Ruliweb.
+        # Do not inspect recommended posts, comments, ads or arbitrary page links.
+        for citation in soup.select(".source_url, [itemprop='citation']"):
+            candidates += [a["href"] for a in citation.select("a[href]")]
+            candidates += re.findall(r"https?://[^\s<>\"']+", citation.get_text(" ", strip=True))
+        for value in candidates:
+            original = fmkorea_url(value.rstrip(".,);"))
+            if original and original not in {x["url"] for x in result["fmkorea_links"]}:
+                result["fmkorea_links"].append({"label": "펨코 출처", "url": original})
+            if len(result["fmkorea_links"]) >= 3:
+                break
         for value in candidates:
             p = urlsplit(value)
             if p.hostname in {"x.com", "twitter.com", "www.twitter.com"} and re.fullmatch(r"/[^/]+/status/\d+/?", p.path):
@@ -366,14 +381,14 @@ def enrich(stories, history, now=None, fetcher=None):
         row = story["lead"]
         record = history["items"][row["item_id"]]
         cache = record.get("detail", {})
-        if not cache or row["title_changed"] or row.get("parser_changed") or now - cache.get("checked_at", 0) > 6 * 3600 or (is_community(story) and cache.get("revision") != 5):
+        if not cache or row["title_changed"] or row.get("parser_changed") or now - cache.get("checked_at", 0) > 6 * 3600 or (is_community(story) and cache.get("revision") != 6):
             pending.append((story, record))
         else:
             story["detail"] = cache
     with ThreadPoolExecutor(max_workers=6) as pool:
         futures = [(story, record, pool.submit(fetcher, story["lead"])) for story, record in pending]
         for story, record, future in futures:
-            cache = {**future.result(), "checked_at": now, "revision": 5}
+            cache = {**future.result(), "checked_at": now, "revision": 6}
             record["detail"] = cache
             story["detail"] = cache
     return stories
@@ -516,7 +531,7 @@ def compact_signal(story):
 SOURCE_LABELS = {"네이버 뉴스": "뉴스", "네이트 스포츠": "스포츠", "디시 실베": "실베", "펨코 포텐": "펨코",
                  "국내·해외축구": "축구", "네이트 연예": "연예", "커뮤니티 인기": "커뮤니티",
                  "더쿠 HOT": "더쿠", "개드립 인기": "개드립", "루리웹 베스트": "루리웹",
-                 "보배드림 베스트": "보배", "인스티즈 이슈": "인스티즈", "엠팍 BEST": "엠팍"}
+                 "보배드림 베스트": "보배", "인스티즈 이슈": "인스티즈", "엠팍 BEST": "엠팍", "펨코 간접": "펨코 간접"}
 
 
 def _compact_row(story, index, state, width, featured=False):
@@ -524,13 +539,15 @@ def _compact_row(story, index, state, width, featured=False):
     title = short_title(lead["title"], width)
     source = SOURCE_LABELS.get(lead["source"], lead["source"])
     if lead.get("discovery"):
-        source = lead.get("origin", source) + "·목록"
+        source = lead.get("discovery_label") or lead.get("origin", source) + "·목록"
     row = f"{index:02d} {link(title, lead['link'])}"
     detail = story.get("detail", {})
     video = next((x for x in detail.get("media", []) if x.get("kind") == "video"), None)
     original = video or next(iter(detail.get("source_links", [])), None)
     if featured and original:
         row += " · " + link("영상" if video else "원본", original["url"])
+    if detail.get("fmkorea_links") and not fmkorea_url(lead["link"]):
+        row += " · " + link("펨코", detail["fmkorea_links"][0]["url"])
     other_links, seen = [], {lead["link"]}
     for member in story["members"]:
         if member["link"] not in seen:
@@ -569,7 +586,7 @@ def render_digest(stories, counts, errors, state, now=None, excluded=0):
             communities = sum(is_community(s) for s in ordered)
             header.append(f"커뮤니티 {communities}개 · 기사 {len(ordered) - communities}개")
         if errors:
-            failed = [SOURCE_LABELS.get(name, name) for name in errors if not name.startswith("텔레그램")]
+            failed = ["펨코 직접" if name == "펨코 포텐" else SOURCE_LABELS.get(name, name) for name in errors if not name.startswith("텔레그램")]
             if failed:
                 header.append("⚠ " + html.escape("·".join(failed)) + " 수집 불가")
         if not ordered:
@@ -605,6 +622,13 @@ def render_info(record, key, status=None):
         lines.append(link(media["label"], media["url"]))
     for original in detail.get("source_links", [])[:2]:
         lines.append(link(original["label"], original["url"]))
+    for original in detail.get("fmkorea_links", [])[:2]:
+        lines.append(link(original["label"], original["url"]))
+    if record.get("discovery"):
+        lines.append("발견 경로: " + link(record["discovery"], record["discovery_url"]))
+        if record.get("discovery_observed_at"):
+            label = "외부 목록 관측" if record.get("discovery_timestamp_kind") == "index_observed" else "외부 목록에 표시된 게시 시각"
+            lines.append(label + ": " + stamp(record["discovery_observed_at"]) + " · 사건 발생일 아님")
     lines.extend("확인: " + html.escape(caution) for caution in assessment["cautions"])
     lines.append(f"소재 ID <code>{key}</code>")
     return "\n".join(lines)

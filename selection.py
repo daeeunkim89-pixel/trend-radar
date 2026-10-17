@@ -2,7 +2,7 @@
 import re
 import math
 from collections import Counter
-from communities import COMMUNITY_HOSTS, is_community, material_urls
+from communities import COMMUNITY_HOSTS, FMKOREA_HOSTS, fmkorea_url, is_community, material_urls
 from urllib.parse import urlsplit
 
 CATEGORIES = ("시사", "축구", "메이저 스포츠", "아이돌")
@@ -93,7 +93,7 @@ def public_interest(story):
 
 
 def material_keys(story):
-    return material_urls(story.get("detail", {}))
+    return material_urls(story.get("detail", {})) | {url for row in story["members"] if (url := fmkorea_url(row["link"]))}
 
 
 def subject_key(story):
@@ -166,7 +166,7 @@ def context_candidates(stories, limit=CONTEXT_LIMIT):
         title = story["lead"]["title"]
         if not is_community(story) or OBJECTIFYING.search(title):
             continue
-        if urlsplit(story["lead"]["link"]).hostname not in COMMUNITY_HOSTS - {"www.fmkorea.com", "m.fmkorea.com"}:
+        if urlsplit(story["lead"]["link"]).hostname not in COMMUNITY_HOSTS - FMKOREA_HOSTS:
             continue
         topic = bool(FOOTBALL.search(title) or SPORTS.search(title) or IDOL_WORD.search(title)
                      or IDOL_GROUP.search(title) or MALE_IDOL.search(title) or PUBLIC_LIFE.search(title)

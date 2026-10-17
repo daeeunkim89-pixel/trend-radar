@@ -133,6 +133,8 @@ def story_content_keys(story):
     for detail in [story.get("detail", {})] + [row.get("detail", {}) for row in story["members"]]:
         for url in material_urls(detail):
             keys.add("asset:" + hashlib.sha256(url.encode()).hexdigest())
+        for original in detail.get("fmkorea_links", []):
+            keys.add("item:" + item_id(original["url"]))
     return keys
 
 

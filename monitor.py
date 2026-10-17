@@ -15,6 +15,7 @@ from playwright.sync_api import TimeoutError as PlaywrightTimeoutError, sync_pla
 from editorial import HISTORY_FILE, atomic_json, canonical_url, digest_numbers, enrich, load_history, observe, render_digest
 from discovery import DISCOVERY_LIMIT, fetch_community, fetch_entertainment, fetch_football, parse_nate_topic
 from communities import BOARD_URLS, COMMUNITY_LIMIT, fetch_board, is_community
+from fmkorea_indirect import INDIRECT_LIMIT, fetch_fmkorea_indirect
 from selection import CATEGORIES, context_candidates, select_stories
 from report_timing import hourly_key, recovery_target, scheduled_target, wait_for_target
 from telegram_editor import (PrivateState, TelegramClient, TelegramError, deliver_report,
@@ -394,13 +395,14 @@ def check_fmkorea():
 # 전체 수집
 # =========================================================
 
-def collect():
+def collect(history=None):
 
     sources = {
         "네이버 뉴스": fetch_naver_news,
         "네이트 스포츠": fetch_nate_sports,
         "디시 실베": fetch_dc,
         "펨코 포텐": fetch_fmkorea,
+        "펨코 간접": lambda: fetch_fmkorea_indirect(lambda url: get_html(url, desktop=True), history),
         "국내·해외축구": lambda: fetch_football(get_html),
         "네이트 연예": lambda: fetch_entertainment(get_html),
         "커뮤니티 인기": lambda: fetch_community(lambda url: get_html(url, desktop=True)),
@@ -422,6 +424,8 @@ def collect():
 
                 data[name] = []
                 limit = COMMUNITY_LIMIT if name in BOARD_URLS or name == "커뮤니티 인기" else DISCOVERY_LIMIT
+                if name == "펨코 간접":
+                    limit = INDIRECT_LIMIT
                 for item in items[:limit]:
                     url = canonical_url(item["link"])
                     if url not in seen_urls:
@@ -519,7 +523,7 @@ def main(commands_only=False, preview=None, scheduled=False, recover_hour=None):
     if commands_only:
         return 1 if command_error else 0
 
-    data, errors = collect()
+    data, errors = collect(history)
     if command_error:
         errors["텔레그램 명령"] = command_error
     now = int(time.time())
@@ -558,10 +562,12 @@ def main(commands_only=False, preview=None, scheduled=False, recover_hour=None):
                                               "community": is_community(story)}, ensure_ascii=False))
         return 0
     atomic_json(HISTORY_FILE, history)
-    report = {"version": "btp-community-v5", "stories": len(stories), "duplicates_excluded": excluded,
+    report = {"version": "btp-community-v6", "stories": len(stories), "duplicates_excluded": excluded,
               "filtered_out": filtered_out, "category_counts": counts,
               "community_stories": sum(is_community(s) for s in stories),
               "article_stories": sum(not is_community(s) for s in stories),
+              "fmkorea_indirect_collected": len(data.get("펨코 간접", [])),
+              "fmkorea_indirect_stories": sum(any(m.get("source") == "펨코 간접" for m in s["members"]) or bool(s.get("detail", {}).get("fmkorea_links")) for s in stories),
               "previews": sum(bool(x.get("detail", {}).get("excerpt")) for x in stories),
               "metrics": {name: {"views": sum(x.get("views") is not None for x in rows),
                                   "reactions": sum(x.get("reactions") is not None for x in rows),

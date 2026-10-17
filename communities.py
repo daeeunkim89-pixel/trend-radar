@@ -10,7 +10,8 @@ from bs4 import BeautifulSoup
 KST = ZoneInfo("Asia/Seoul")
 COMMUNITY_LIMIT = 100
 COMMUNITY_NAMES = {"디시 실베", "펨코 포텐", "커뮤니티 인기", "더쿠 HOT", "개드립 인기",
-                   "루리웹 베스트", "보배드림 베스트", "인스티즈 이슈", "엠팍 BEST"}
+                   "루리웹 베스트", "보배드림 베스트", "인스티즈 이슈", "엠팍 BEST", "펨코 간접"}
+FMKOREA_HOSTS = {"fmkorea.com", "www.fmkorea.com", "m.fmkorea.com"}
 BOARD_URLS = {
     "더쿠 HOT": tuple("https://theqoo.net/hot" + (f"?page={p}" if p > 1 else "") for p in range(1, 4)),
     "개드립 인기": tuple(f"https://www.dogdrip.net/dogdrip?sort_index=popular&page={p}" for p in (1, 2)),
@@ -21,7 +22,7 @@ BOARD_URLS = {
 }
 COMMUNITY_HOSTS = {"theqoo.net", "www.dogdrip.net", "dogdrip.net", "bbs.ruliweb.com", "m.ruliweb.com",
                    "www.bobaedream.co.kr", "m.bobaedream.co.kr", "www.instiz.net", "instiz.net",
-                   "mlbpark.donga.com", "gall.dcinside.com", "m.dcinside.com", "www.fmkorea.com", "m.fmkorea.com"}
+                   "mlbpark.donga.com", "gall.dcinside.com", "m.dcinside.com"} | FMKOREA_HOSTS
 
 
 def clean(text):
@@ -39,7 +40,12 @@ def post_url(url):
     host, q = p.hostname, parse_qs(p.query)
     if p.scheme not in {"https", "http"} or p.username or p.password or p.port not in {None, 80, 443}:
         return None
-    if host == "theqoo.net":
+    if host in FMKOREA_HOSTS:
+        m = re.fullmatch(r"/(?:best2?/)?(\d{6,})/?", p.path)
+        post = m[1] if m else q.get("document_srl", [""])[0] if p.path in {"/", "/index.php"} else ""
+        if re.fullmatch(r"\d{6,}", post):
+            return f"https://www.fmkorea.com/{post}"
+    elif host == "theqoo.net":
         m = re.fullmatch(r"/(?:[a-z_]+/)?(\d{6,})/?", p.path)
         if m:
             return f"https://theqoo.net/hot/{m[1]}"
@@ -77,7 +83,14 @@ def material_urls(detail):
     media = detail.get("media", [])
     eligible = [x for x in media if x.get("kind") in {"video", "gif"}
                 or (x.get("kind") == "image" and sum(y.get("kind") == "image" for y in media) >= 2)]
-    return {x["url"].split("#", 1)[0] for x in eligible + detail.get("source_links", []) if x.get("url")}
+    return {x["url"].split("#", 1)[0] for x in eligible + detail.get("source_links", []) + detail.get("fmkorea_links", []) if x.get("url")}
+
+
+def fmkorea_url(url):
+    try:
+        return post_url(url) if urlsplit(url).hostname in FMKOREA_HOSTS else None
+    except ValueError:
+        return None
 
 
 def list_time(text, now):
