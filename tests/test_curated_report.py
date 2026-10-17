@@ -90,15 +90,50 @@ class EditorialEditionTests(unittest.TestCase):
                 c.load_edition(self.path, HOUR, NOW)
 
     def test_maximum_edition_stays_one_message_and_escapes_html(self):
-        value = edition([pick(i) for i in range(5)])
-        for p in value["picks"]:
-            p.update(title="<b>" + "제" * 80, why="이" * 180, angle="각" * 150, caution="주" * 150)
+        value = edition([pick(i) for i in range(10)])
+        for number, p in enumerate(value["picks"]):
+            p.update(title=f"<b>{number} " + "제" * 75, why="이" * 180, angle="각" * 150, caution="주" * 150)
         self.write(value)
         stories, _ = c.build_stories(c.load_edition(self.path, HOUR, NOW), EMPTY, NOW)
         parts = c.render_edition(stories, HOUR, "")
         self.assertEqual(len(parts), 1)
         self.assertIn("&lt;b&gt;", parts[0])
+        self.assertIn("추천 10/10", parts[0])
         self.assertLessEqual(e.message_units(parts[0]), 3900)
+
+    def test_ten_recommendations_with_emoji_fit_and_full_details_survive_compaction(self):
+        value = edition([pick(i) for i in range(10)])
+        for number, p in enumerate(value["picks"]):
+            p.update(title=f"{number} " + "⚽" * 85, why="🔥" * 180, angle="🎬" * 150, caution="❗" * 150)
+        stories, history = c.build_stories(value, EMPTY, NOW)
+        parts = c.render_edition(stories, HOUR, "")
+        self.assertLessEqual(e.message_units(parts[0]), 3900)
+        self.assertIn("10/10", parts[0])
+        record = history["items"][stories[0]["lead"]["item_id"]]
+        self.assertIn(value["picks"][0]["why"], e.render_info(record, stories[0]["id"]))
+
+    def test_reviewed_reserves_fill_ten_slots_after_content_deduplication(self):
+        value = edition([pick(i) for i in range(16)])
+        self.write(value)
+        private = PrivateState("synthetic-token", "-123456", self.directory / "reserves.enc")
+        client = Mock(send=Mock(return_value=125))
+        with patch.object(c.time, "time", return_value=NOW), patch.object(c, "load_history", return_value=EMPTY), \
+                patch.object(c, "TelegramClient", return_value=client), patch.object(c, "PrivateState", return_value=private), \
+                patch.object(c, "unreported_stories", side_effect=lambda stories, *args: stories[6:]), \
+                patch.object(c, "atomic_json") as write, patch.object(c, "wait_for_target", return_value=True):
+            self.assertEqual(c.main(recover_hour=HOUR_TEXT, picks_file=self.path), 0)
+            client.send.assert_called_once()
+            saved = [call.args[1] for call in write.call_args_list if call.args[0] == c.STATE_FILE][0]
+            self.assertEqual(saved["report"]["stories"], 10)
+            self.assertEqual(saved["report"]["duplicates_excluded"], 6)
+            self.assertEqual(len(private.data["reports"][hourly_key(HOUR)]["numbers"]), 10)
+
+    def test_short_edition_reports_actual_count_instead_of_claiming_ten(self):
+        stories, _ = c.build_stories(edition([pick(1), pick(2)]), EMPTY, NOW)
+        message = c.render_edition(stories, HOUR, "핵심 자료를 확인한 새 후보가 부족했습니다.")[0]
+        self.assertIn("추천 2/10", message)
+        self.assertIn("10개 중 2개 확보", message)
+        self.assertNotIn("추천 10/10", message)
 
     def test_pinned_hash_catches_edits_after_request_and_preview_never_connects(self):
         self.write(edition())

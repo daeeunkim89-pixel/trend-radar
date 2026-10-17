@@ -20,7 +20,8 @@ PICKS_FILE = Path("data/editorial-picks.json")
 STATE_FILE = Path("data/state.json")
 DECISIONS_FILE = Path("data/editorial-history.json")
 CATEGORIES = ("시사", "축구", "메이저 스포츠", "아이돌")
-MAX_PICKS = 5
+MAX_PICKS = 20  # Ten recommendations plus reviewed reserves for content deduplication.
+REPORT_PICKS = 10
 MAX_BYTES = 100_000
 
 
@@ -91,7 +92,7 @@ def load_edition(path, target, now=None, expected_sha256=None):
     coverage["unavailable"] = [text(x, 180, "unavailable source") for x in coverage["unavailable"]]
     picks = edition["picks"]
     if not isinstance(picks, list) or len(picks) > MAX_PICKS:
-        raise ValueError("An edition can contain at most five recommendations")
+        raise ValueError("An edition can contain at most twenty reviewed candidates")
     edition["empty_reason"] = text(edition["empty_reason"], 160, "empty_reason", empty=bool(picks))
     normalized, seen_urls, seen_events = [], set(), set()
     for pick in picks:
@@ -168,26 +169,38 @@ def build_stories(edition, history, now):
 
 
 def render_edition(stories, target, empty_reason, excluded=0):
-    lines = [f"<b>⚡ btp · 지금 올릴 추천 · {stamp(target)}</b>"]
-    if not stories:
-        lines += ["이번 시간 강하게 추천할 새 소재는 없습니다.", html.escape(empty_reason or "기존 발송 소재를 제외한 결과입니다.")]
-    else:
-        for i, story in enumerate(stories, 1):
-            p = story["editorial"]
-            lines += ["", "<b>" + ("🔥 지금 1순위" if i == 1 else f"{i:02d} 대안") + " · " + html.escape(p["category"]) + "</b>",
-                      link(p["title"], p["url"]), "왜: " + html.escape(p["why"]),
-                      "제작: " + html.escape(p["angle"])]
-            if p["materials"]:
-                lines.append("자료: " + " · ".join(link(m["label"], m["url"]) for m in p["materials"][:2]))
-            if p["caution"]:
-                lines.append("확인: " + html.escape(p["caution"]))
-        lines += ["", "상세·검증 근거 <code>/info 1</code> · 선정 <code>/pick 1</code>"]
-    if excluded:
-        lines.append(f"기존 발송·같은 사건 {excluded}개 제외")
-    result = "\n".join(lines)
-    if message_units(result) > 3900:
-        raise ValueError("Editorial recommendations exceed the single-message limit")
-    return [result]
+    if len(stories) > REPORT_PICKS:
+        raise ValueError("Select ten recommendations before rendering")
+
+    def short(value, maximum):
+        return value if len(value) <= maximum else value[:maximum - 1].rstrip() + "…"
+
+    # Keep ten usable summaries in one message; full text and evidence remain in /info.
+    for title_size, why_size, angle_size, caution_size in ((72, 70, 64, 55), (60, 55, 50, 40), (48, 42, 38, 28)):
+        lines = [f"<b>⚡ btp · 추천 {len(stories)}/{REPORT_PICKS} · {stamp(target)}</b>"]
+        if not stories:
+            lines += ["이번 시간 강하게 추천할 새 소재는 없습니다.", html.escape(empty_reason or "기존 발송 소재를 제외한 결과입니다.")]
+        else:
+            for i, story in enumerate(stories, 1):
+                p = story["editorial"]
+                lines += ["", "<b>" + ("🔥 지금 1순위" if i == 1 else f"{i:02d}") + " · " + html.escape(p["category"]) + "</b>",
+                          link(short(p["title"], title_size), p["url"]),
+                          "왜: " + html.escape(short(p["why"], why_size)),
+                          "첫 장: " + html.escape(short(p["angle"], angle_size))]
+                if p["materials"]:
+                    m = p["materials"][0]
+                    lines.append("자료: " + link(m["label"], m["url"]))
+                if p["caution"]:
+                    lines.append("확인: " + html.escape(short(p["caution"], caution_size)))
+            if len(stories) < REPORT_PICKS:
+                lines += ["", f"10개 중 {len(stories)}개 확보: " + html.escape(short(empty_reason or "검증·중복 제외 후 새 소재가 부족했습니다.", 100))]
+            lines += ["", "전체 제목·검증·제작 <code>/info 1</code> · 선정 <code>/pick 1</code>"]
+        if excluded:
+            lines.append(f"기존 발송·같은 사건 {excluded}개 제외")
+        result = "\n".join(lines)
+        if message_units(result) <= 3900:
+            return [result]
+    raise ValueError("Editorial recommendations exceed the single-message limit")
 
 
 def same_event_filter(stories):
@@ -233,7 +246,7 @@ def main(recover_hour=None, prepared_hour=None, picks_file=PICKS_FILE, expected_
         stories, history = build_stories(edition, history, now)
         stories = same_event_filter(stories)
         if preview:
-            parts = render_edition(stories, target, edition["empty_reason"])
+            parts = render_edition(stories[:REPORT_PICKS], target, edition["empty_reason"])
             print("BTP EDITORIAL PREVIEW ONLY: no Telegram calls or state writes")
             print(parts[0])
             return 0
@@ -250,6 +263,7 @@ def main(recover_hour=None, prepared_hour=None, picks_file=PICKS_FILE, expected_
         before = len(stories)
         stories = unreported_stories(stories, history, private, now)
         excluded = before - len(stories)
+        stories = stories[:REPORT_PICKS]
         if user_requested and not stories:
             print("BTP EDITORIAL ON_DEMAND_SKIPPED: no new reviewed material after content deduplication")
             return 0
@@ -266,6 +280,7 @@ def main(recover_hour=None, prepared_hour=None, picks_file=PICKS_FILE, expected_
             record_decision(stories, target, int(time.time()), "sent", delivery_key)
         report = {"version": "btp-editorial-v7", "delivery": "sent" if sent else "already_sent", "messages": sent,
                   "stories": len(stories), "duplicates_excluded": excluded, "ai": "chatgpt_web_research",
+                  "requested_stories": REPORT_PICKS,
                   "trigger": "user_requested" if user_requested else "hourly", "hour_utc": hourly_key(target)[7:],
                   "category_counts": {c: sum(s["category"] == c for s in stories) for c in CATEGORIES},
                   "research_queries": len(edition["coverage"]["queries"]),
