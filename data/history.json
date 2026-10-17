@@ -1,6 +1,145 @@
 {
   "version": 1,
   "items": {
+    "ee0a2540c6fd": {
+      "source": "포포투 현장 인터뷰",
+      "title": "감독이 어깨 만지자 바로 눈치챈 구본철…극장골 뒤 즉흥 세리머니",
+      "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99418",
+      "first_seen_at": 1792244081,
+      "last_seen_at": 1792244081,
+      "samples": [
+        {
+          "at": 1792244081,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "ee0a2540c6fd",
+      "editorial": {
+        "title": "감독이 어깨 만지자 바로 눈치챈 구본철…극장골 뒤 즉흥 세리머니",
+        "category": "축구",
+        "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99418",
+        "source": "포포투 현장 인터뷰",
+        "kind": "article",
+        "event_key": "suwonfc-koo-park-shoulder-celebration-20261017",
+        "why": "선수와 감독이 약속 없이 합을 맞춘 비화. 축구팬이 친구에게 보낼 만한 짧은 이야기이며, 양쪽 인터뷰에서 같은 장면을 확인했다.",
+        "angle": "첫 장은 ‘미리 짠 게 아니었다’ → 구본철이 눈치챈 신호 → 감독이 떠올린 선수 시절 추억.",
+        "why_now": "10월 17일 성남전 극장 결승골 직후 생긴 일. 당일 감독·선수 현장 인터뷰를 각각 읽고 대조했다.",
+        "verified_at": 1792243441,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99418",
+            "note": "구본철은 감독이 어깨를 만지는 것을 보고 곧바로 어깨를 내밀었다고 설명했다. 즉흥 세리머니였음을 확인."
+          },
+          {
+            "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99411",
+            "note": "박건하는 따로 약속하지 않았고, 선수 시절 올리와 했던 세리머니가 생각났다고 설명했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.kleague.com/club/video_view.do?category=club&clubTab=video&listType=tile&orderType=seq&page=1&seq=52760062&teamId=K08",
+            "label": "공식 골 클립 페이지",
+            "kind": "source"
+          },
+          {
+            "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99411",
+            "label": "감독 설명 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "인터뷰 본문은 확인. 어깨 세리머니가 담긴 영상 구간은 직접 재생 확인하지 못했다."
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "공식 골 클립 페이지",
+            "url": "https://www.kleague.com/club/video_view.do?category=club&clubTab=video&listType=tile&orderType=seq&page=1&seq=52760062&teamId=K08"
+          },
+          {
+            "label": "감독 설명 원문",
+            "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99411"
+          }
+        ],
+        "excerpt": "",
+        "context": "10월 17일 성남전 극장 결승골 직후 생긴 일. 당일 감독·선수 현장 인터뷰를 각각 읽고 대조했다.",
+        "fetched_at": 1792244081,
+        "parser_revision": 7
+      },
+      "curation_event_key": "suwonfc-koo-park-shoulder-celebration-20261017"
+    },
+    "e62ed5cca4ad": {
+      "source": "연합뉴스·스포츠경향",
+      "title": "세계기록 두 번 넘긴 전국체전…그런데 둘 다 ‘비공인’",
+      "link": "https://www.yna.co.kr/amp/view/AKR20261017039200007",
+      "first_seen_at": 1792244081,
+      "last_seen_at": 1792244081,
+      "samples": [
+        {
+          "at": 1792244081,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "e62ed5cca4ad",
+      "editorial": {
+        "title": "세계기록 두 번 넘긴 전국체전…그런데 둘 다 ‘비공인’",
+        "category": "메이저 스포츠",
+        "url": "https://www.yna.co.kr/amp/view/AKR20261017039200007",
+        "source": "연합뉴스·스포츠경향",
+        "kind": "article",
+        "event_key": "national-sports-festival-shooting-kim-go-unofficial-records-20261017",
+        "why": "세계기록보다 높은데 공식 세계신기록은 아니라는 반전. 사격을 몰라도 이해되는 숫자 비교와 이유가 있다.",
+        "angle": "첫 장 ‘세계기록 넘었는데 왜 비공인?’ → 김강현 246.6 대 246.5 → 고은 44 대 43 → 공인 대회 조건.",
+        "why_now": "10월 17일 전국체전에서 나온 두 기록이다. 연합뉴스 17:04 보도와 스포츠경향 본문을 대조했다.",
+        "verified_at": 1792243440,
+        "published_at": 1792224240,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/amp/view/AKR20261017039200007",
+            "note": "김강현 10m 공기권총 246.6점, 고은 25m 권총 44점. ISSF 공인 대회가 아니어서 비공인 세계신기록으로 보도."
+          },
+          {
+            "url": "https://sports.khan.co.kr/article/202610171727003",
+            "note": "두 선수의 종목·결선 점수와 비공인 사유가 연합뉴스 보도와 일치한다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/amp/view/AKR20261017039200007",
+            "label": "기록·선수 자료 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "‘공식 세계신기록’으로 쓰면 안 된다. 두 선수의 종목과 점수를 구분해 표기."
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "기록·선수 자료 원문",
+            "url": "https://www.yna.co.kr/amp/view/AKR20261017039200007"
+          }
+        ],
+        "excerpt": "",
+        "context": "10월 17일 전국체전에서 나온 두 기록이다. 연합뉴스 17:04 보도와 스포츠경향 본문을 대조했다.",
+        "fetched_at": 1792244081,
+        "parser_revision": 7
+      },
+      "curation_event_key": "national-sports-festival-shooting-kim-go-unofficial-records-20261017"
+    },
     "4db423783186": {
       "source": "네이트 스포츠",
       "title": "'손흥민 때문에 선수들 스트레스 받아' 대체 몇 명을 욕 먹이나?…\"양...",
@@ -49879,5 +50018,5 @@
       }
     }
   },
-  "updated_at": 1792242535
+  "updated_at": 1792244081
 }

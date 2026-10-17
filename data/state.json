@@ -1,117 +1,35 @@
 {
-  "updated_at": 1792242541,
-  "status": "degraded",
-  "errors": {
-    "펨코 포텐": "https://www.fmkorea.com/best = HTTP 430: 펨코의 사람 인증 보안 확인이 완료되지 않았습니다. 현재 실행 환경에서 자동 수집 가능한지 사이트 측 확인이 필요합니다. / https://m.fmkorea.com/best = HTTP 430: 펨코의 사람 인증 보안 확인이 완료되지 않았습니다. 현재 실행 환경에서 자동 수집 가능한지 사이트 측 확인이 필요합니다.",
-    "개드립 인기": "HTTP 403 / HTTP 403",
-    "인스티즈 이슈": "HTTP 403 / HTTP 403 / HTTP 403"
-  },
-  "counts": {
-    "네이버 뉴스": 25,
-    "네이트 스포츠": 50,
-    "디시 실베": 29,
-    "펨코 포텐": 0,
-    "펨코 간접": 112,
-    "국내·해외축구": 47,
-    "네이트 연예": 50,
-    "커뮤니티 인기": 95,
-    "더쿠 HOT": 47,
-    "개드립 인기": 0,
-    "루리웹 베스트": 58,
-    "보배드림 베스트": 90,
-    "인스티즈 이슈": 0,
-    "엠팍 BEST": 90
-  },
+  "updated_at": 1792244082,
+  "status": "ok",
+  "errors": {},
   "report": {
-    "version": "btp-community-v6",
-    "stories": 3,
-    "duplicates_excluded": 29,
-    "filtered_out": 655,
+    "version": "btp-editorial-v7",
+    "delivery": "sent",
+    "messages": 1,
+    "stories": 2,
+    "duplicates_excluded": 0,
+    "ai": "chatgpt_web_research",
+    "trigger": "user_requested",
+    "hour_utc": "2026101713",
     "category_counts": {
-      "시사": 1,
+      "시사": 0,
       "축구": 1,
       "메이저 스포츠": 1,
       "아이돌": 0
     },
-    "community_stories": 1,
-    "article_stories": 2,
-    "fmkorea_indirect_collected": 112,
-    "fmkorea_indirect_stories": 0,
-    "previews": 3,
-    "metrics": {
-      "네이버 뉴스": {
-        "views": 0,
-        "reactions": 0,
-        "ranking": 0
+    "research_queries": 12,
+    "opened_sources": 23,
+    "picks": [
+      {
+        "title": "감독이 어깨 만지자 바로 눈치챈 구본철…극장골 뒤 즉흥 세리머니",
+        "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99418",
+        "event_key": "suwonfc-koo-park-shoulder-celebration-20261017"
       },
-      "네이트 스포츠": {
-        "views": 0,
-        "reactions": 0,
-        "ranking": 50
-      },
-      "디시 실베": {
-        "views": 29,
-        "reactions": 29,
-        "ranking": 0
-      },
-      "펨코 포텐": {
-        "views": 0,
-        "reactions": 0,
-        "ranking": 0
-      },
-      "펨코 간접": {
-        "views": 0,
-        "reactions": 0,
-        "ranking": 0
-      },
-      "국내·해외축구": {
-        "views": 0,
-        "reactions": 0,
-        "ranking": 0
-      },
-      "네이트 연예": {
-        "views": 0,
-        "reactions": 0,
-        "ranking": 50
-      },
-      "커뮤니티 인기": {
-        "views": 0,
-        "reactions": 0,
-        "ranking": 0
-      },
-      "더쿠 HOT": {
-        "views": 47,
-        "reactions": 0,
-        "ranking": 0
-      },
-      "개드립 인기": {
-        "views": 0,
-        "reactions": 0,
-        "ranking": 0
-      },
-      "루리웹 베스트": {
-        "views": 58,
-        "reactions": 58,
-        "ranking": 0
-      },
-      "보배드림 베스트": {
-        "views": 90,
-        "reactions": 90,
-        "ranking": 0
-      },
-      "인스티즈 이슈": {
-        "views": 0,
-        "reactions": 0,
-        "ranking": 0
-      },
-      "엠팍 BEST": {
-        "views": 0,
-        "reactions": 0,
-        "ranking": 0
+      {
+        "title": "세계기록 두 번 넘긴 전국체전…그런데 둘 다 ‘비공인’",
+        "url": "https://www.yna.co.kr/amp/view/AKR20261017039200007",
+        "event_key": "national-sports-festival-shooting-kim-go-unofficial-records-20261017"
       }
-    },
-    "ai": "not_connected",
-    "delivery": "sent",
-    "messages": 1
+    ]
   }
 }
