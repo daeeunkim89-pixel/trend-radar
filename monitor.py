@@ -3,6 +3,7 @@ import os
 import re
 import json
 import time
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 from urllib.parse import parse_qs, urljoin, urlsplit
 from datetime import datetime, timezone
@@ -13,7 +14,8 @@ from playwright.sync_api import TimeoutError as PlaywrightTimeoutError, sync_pla
 
 from editorial import HISTORY_FILE, atomic_json, canonical_url, digest_numbers, enrich, load_history, observe, render_digest
 from discovery import DISCOVERY_LIMIT, fetch_community, fetch_entertainment, fetch_football, parse_nate_topic
-from selection import CATEGORIES, select_stories
+from communities import BOARD_URLS, COMMUNITY_LIMIT, fetch_board, is_community
+from selection import CATEGORIES, context_candidates, select_stories
 from report_timing import hourly_key, recovery_target, scheduled_target, wait_for_target
 from telegram_editor import (PrivateState, TelegramClient, TelegramError, deliver_report,
                              process_commands, story_content_keys, unreported_stories)
@@ -53,10 +55,11 @@ def number(text):
     return int(float(match[1]) * scale)
 
 
-def get_html(url):
+def get_html(url, *, desktop=False):
+    headers = {**HEADERS, "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140.0.0.0 Safari/537.36"} if desktop else HEADERS
     r = requests.get(
         url,
-        headers=HEADERS,
+        headers=headers,
         timeout=TIMEOUT,
     )
 
@@ -65,6 +68,8 @@ def get_html(url):
     if r.status_code != 200:
         raise RuntimeError(f"HTTP {r.status_code}")
 
+    if (r.encoding or "").lower() in {"iso-8859-1", "ascii"}:
+        r.encoding = r.apparent_encoding
     return BeautifulSoup(r.text, "html.parser")
 
 
@@ -398,44 +403,42 @@ def collect():
         "펨코 포텐": fetch_fmkorea,
         "국내·해외축구": lambda: fetch_football(get_html),
         "네이트 연예": lambda: fetch_entertainment(get_html),
-        "커뮤니티 인기": lambda: fetch_community(get_html),
+        "커뮤니티 인기": lambda: fetch_community(lambda url: get_html(url, desktop=True)),
     }
+    sources.update({name: (lambda name=name: fetch_board(lambda url: get_html(url, desktop=True), name)) for name in BOARD_URLS})
 
     data = {}
     errors = {}
     seen_urls = set()
 
-    for name, func in sources.items():
+    # A slow or blocked community must not make every other source wait in line.
+    with ThreadPoolExecutor(max_workers=6) as pool:
+        pending = {name: pool.submit(func) for name, func in sources.items()}
+        for name in sources:
 
-        try:
+            try:
 
-            items = func()
+                items = pending[name].result()
 
-            data[name] = []
-            for item in items[:100 if name == "커뮤니티 인기" else DISCOVERY_LIMIT]:
-                url = canonical_url(item["link"])
-                if url not in seen_urls:
-                    seen_urls.add(url)
-                    data[name].append(item)
+                data[name] = []
+                limit = COMMUNITY_LIMIT if name in BOARD_URLS or name == "커뮤니티 인기" else DISCOVERY_LIMIT
+                for item in items[:limit]:
+                    url = canonical_url(item["link"])
+                    if url not in seen_urls:
+                        seen_urls.add(url)
+                        data[name].append(item)
 
-            print(
-                name,
-                len(data[name]),
-            )
+                print(name, len(data[name]))
 
-            if not items:
-                errors[name] = "게시물 0개"
+                if not items:
+                    errors[name] = "게시물 0개"
 
-        except Exception as e:
+            except Exception as e:
 
-            data[name] = []
-            errors[name] = str(e)
+                data[name] = []
+                errors[name] = str(e)
 
-            print(
-                name,
-                "FAILED:",
-                e,
-            )
+                print(name, "FAILED:", e)
 
     return data, errors
 
@@ -526,6 +529,13 @@ def main(commands_only=False, preview=None, scheduled=False, recover_hour=None):
         stories = unreported_stories(stories, history, private, now)
     excluded = collected_stories - len(stories)
     before_selection = len(stories)
+    # Inspect promising community bodies before the headline gate, so a short
+    # forum title can be understood using its actual post text and attached media.
+    enrich(context_candidates(stories), history, now)
+    if not preview:
+        stories = unreported_stories(stories, history, private, now)
+        excluded = collected_stories - len(stories)
+        before_selection = len(stories)
     stories = select_stories(stories)
     filtered_out = before_selection - len(stories)
     enrich(stories, history, now)
@@ -538,14 +548,20 @@ def main(commands_only=False, preview=None, scheduled=False, recover_hour=None):
                 output.write("## Preview only — no Telegram message sent\n\n" + parts[0] + "\n")
         print("BTP PREVIEW ONLY: no Telegram calls or state writes")
         print("BTP SELECTION", json.dumps({"collected": collected_stories, "selected": len(stories),
-                                          "filtered_out": filtered_out, "categories": counts}, ensure_ascii=False))
+                                          "filtered_out": filtered_out, "categories": counts,
+                                          "community": sum(is_community(s) for s in stories),
+                                          "articles": sum(not is_community(s) for s in stories)}, ensure_ascii=False))
         for story in stories:
             print("BTP CANDIDATE", json.dumps({"category": story["category"], "title": story["lead"]["title"],
-                                              "reason": story["review_reason"], "link": story["lead"]["link"]}, ensure_ascii=False))
+                                              "reason": story["review_reason"], "link": story["lead"]["link"],
+                                              "format": story.get("detail", {}).get("format"),
+                                              "community": is_community(story)}, ensure_ascii=False))
         return 0
     atomic_json(HISTORY_FILE, history)
-    report = {"version": "btp-curated-v4", "stories": len(stories), "duplicates_excluded": excluded,
+    report = {"version": "btp-community-v5", "stories": len(stories), "duplicates_excluded": excluded,
               "filtered_out": filtered_out, "category_counts": counts,
+              "community_stories": sum(is_community(s) for s in stories),
+              "article_stories": sum(not is_community(s) for s in stories),
               "previews": sum(bool(x.get("detail", {}).get("excerpt")) for x in stories),
               "metrics": {name: {"views": sum(x.get("views") is not None for x in rows),
                                   "reactions": sum(x.get("reactions") is not None for x in rows),

@@ -13,6 +13,7 @@ import requests
 from cryptography.fernet import Fernet, InvalidToken
 
 from editorial import STATUS_NAMES, item_id, link, message_units, pack_cards, render_info, title_key
+from communities import material_urls
 
 PRIVATE_FILE = Path("data/editor.enc")
 CONTENT_RETENTION = 7 * 86400
@@ -129,6 +130,9 @@ def story_content_keys(story):
         headline = title_key(row["title"])
         if len(headline) >= 10:
             keys.add("title:" + hashlib.sha256(headline.encode()).hexdigest())
+    for detail in [story.get("detail", {})] + [row.get("detail", {}) for row in story["members"]]:
+        for url in material_urls(detail):
+            keys.add("asset:" + hashlib.sha256(url.encode()).hexdigest())
     return keys
 
 

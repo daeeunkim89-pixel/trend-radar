@@ -5,6 +5,7 @@ import html
 import json
 import re
 import time
+from concurrent.futures import ThreadPoolExecutor
 from html.parser import HTMLParser
 from datetime import datetime
 from pathlib import Path
@@ -13,6 +14,7 @@ from zoneinfo import ZoneInfo
 
 import requests
 from bs4 import BeautifulSoup
+from communities import COMMUNITY_HOSTS, is_community, post_url
 
 KST = ZoneInfo("Asia/Seoul")
 HISTORY_FILE = Path("data/history.json")
@@ -23,6 +25,7 @@ DETAIL_HOSTS = {
     "sports.news.nate.com", "news.nate.com",
     "gall.dcinside.com", "m.dcinside.com",
 }
+DETAIL_HOSTS |= COMMUNITY_HOSTS - {"www.fmkorea.com", "m.fmkorea.com"}
 STATUS_NAMES = {"pick": "선정", "hold": "보류", "doing": "제작 중", "done": "업로드 완료", "clear": "미선정"}
 
 # Editorial preferences, not a prediction of Instagram reach. Keep ambiguous
@@ -63,6 +66,9 @@ def load_history(path=None):
 
 
 def canonical_url(url):
+    community_url = post_url(url)
+    if community_url:
+        return community_url
     p = urlsplit(url)
     host = (p.hostname or "").lower()
     q = parse_qs(p.query)
@@ -166,7 +172,8 @@ def observe(data, history, now=None):
         groups.setdefault(story, {"id": story, "members": []})["members"].append(row)
     stories = list(groups.values())
     for story in stories:
-        story["members"].sort(key=lambda x: (x["source"] == "디시 실베", x["first_seen_at"], x["rank"]))
+        story["members"].sort(key=lambda x: (not is_community({"members": [x]}), bool(x.get("discovery")),
+                                           x["first_seen_at"], x["rank"]))
         story["lead"] = story["members"][0]
         story.update(assess(story))
     # Compare actual growth only within one source/metric. Each signal can boost
@@ -226,7 +233,7 @@ def assess(story):
     if not reasons:
         tags, reasons = ["일반 이슈"], ["수집 목록에 포착된 후보 · btp 주제 적합성은 직접 검토"]
     cautions = []
-    if any(x["source"] in {"디시 실베", "펨코 포텐", "커뮤니티 인기"} for x in story["members"]):
+    if is_community(story):
         cautions.append("커뮤니티 게시물은 반응 탐지용 · 사실은 기사·공식 발표로 대조")
     if re.search(r"의혹|루머|이적설|혐의|추정|가능성|미확인", title):
         cautions.append("제목의 의혹·가능성을 확정 사실로 쓰지 않기")
@@ -256,23 +263,60 @@ def short_excerpt(text, title):
 
 def parse_detail(markup, url, title):
     soup = BeautifulSoup(markup, "html.parser")
-    for node in soup.select("script, style, .ad, .advertisement, .reporter_area, .copyright"):
+    for node in soup.select("script, style, .ad, .advertisement, .reporter_area, .copyright, .tool_cont, .fan-option-button-group"):
         node.decompose()
-    body = soup.select_one("#dic_area, #articleBodyContents, #realArtcContents, #articleCont, .write_div")
+    community = urlsplit(url).hostname in COMMUNITY_HOSTS
+    body = soup.select_one("#dic_area, #articleBodyContents, #realArtcContents, #articleCont, .write_div, "
+                           ".view_content, .bodyCont, #memo_content_1, #contentDetail, .xe_content")
     description = soup.select_one('meta[property="og:description"], meta[name="description"]')
     text = clean(body.get_text(" ", strip=True)) if body else clean(description.get("content", "") if description else "")
-    result = {"excerpt": short_excerpt(text, title), "media": []}
-    image = soup.select_one('meta[property="og:image"]')
+    result = {"excerpt": short_excerpt(text, title), "media": [], "source_links": [], "revision": 5}
+    if community:
+        result["context"] = text[:1200] if body else ""
+    image = soup.select_one('meta[property="og:image"]') if not community else None
     if image:
         link = urljoin(url, image.get("content", ""))
         if public_link(link) and len(link) < 600:
             result["media"].append({"label": "기사 미리보기 이미지", "url": link})
-    for node in soup.select("video[src], video source[src], iframe[src]"):
-        link = urljoin(url, node.get("src", ""))
+    scope = body if body else (soup if not community else BeautifulSoup("", "html.parser"))
+    for node in scope.select("video[src], video source[src], iframe[src], iframe[data-src]"):
+        link = urljoin(url, node.get("src") or node.get("data-src", ""))
         host = urlsplit(link).hostname or ""
         if public_link(link) and len(link) < 600 and (node.name != "iframe" or host in {"www.youtube.com", "www.youtube-nocookie.com", "player.vimeo.com"}):
-            result["media"].append({"label": "원문에 연결된 영상", "url": link})
-            break
+            result["media"].append({"label": "원문 영상", "url": link, "kind": "video"})
+            if len(result["media"]) >= 3:
+                break
+    if community:
+        for node in scope.select("img[src], img[data-src], img[data-original]"):
+            value = node.get("data-original") or node.get("data-src") or node.get("src", "")
+            image_url = urljoin(url, value)
+            if not public_link(image_url) or len(image_url) >= 600 or re.search(r"(?:logo|icon|avatar|emoticon|profile|/ads?/)", image_url, re.I):
+                continue
+            if image_url not in {x["url"] for x in result["media"]}:
+                kind = "gif" if urlsplit(image_url).path.lower().endswith(".gif") else "image"
+                result["media"].append({"label": "원문 움짤" if kind == "gif" else "원문 이미지", "url": image_url, "kind": kind})
+            if len(result["media"]) >= 5:
+                break
+        # X embeds are often plain text, not iframe elements. Preserve the actual
+        # source post without pretending we have verified what its video depicts.
+        candidates = [a["href"] for a in scope.select("a[href]")]
+        candidates += re.findall(r"https://[^\s<>\"']+", text)
+        for value in candidates:
+            p = urlsplit(value)
+            if p.hostname in {"x.com", "twitter.com", "www.twitter.com"} and re.fullmatch(r"/[^/]+/status/\d+/?", p.path):
+                source = "https://x.com" + p.path.rstrip("/")
+            elif p.hostname in {"youtu.be", "www.youtube.com", "youtube.com"} and (p.path.startswith(("/watch", "/shorts/", "/embed/")) or p.hostname == "youtu.be"):
+                source = value
+            elif p.hostname in {"www.instagram.com", "instagram.com"} and re.match(r"/(?:p|reel)/[A-Za-z0-9_-]+", p.path):
+                source = "https://www.instagram.com" + p.path
+            else:
+                continue
+            if public_link(source) and len(source) < 600 and source not in {x["url"] for x in result["source_links"]}:
+                result["source_links"].append({"label": "원본 SNS", "url": source})
+            if len(result["source_links"]) >= 3:
+                break
+        kinds = {x.get("kind") for x in result["media"]}
+        result["format"] = "영상" if "video" in kinds else "움짤" if "gif" in kinds else "이미지" if "image" in kinds else "원본 SNS" if result["source_links"] else "원문"
     published = soup.select_one('meta[property="article:published_time"], meta[name="article:published_time"], time[itemprop="datePublished"][datetime], .media_end_head_info_datestamp_time[data-date-time]')
     if published:
         value = published.get("content") or published.get("datetime") or published.get("data-date-time")
@@ -306,7 +350,7 @@ def fetch_detail(item):
                     if len(content) > 1_500_000:
                         return {"unavailable": "원문 용량 제한", "media": []}
                 result = parse_detail(bytes(content), url, item["title"])
-                if not result["excerpt"]:
+                if not result["excerpt"] and not result["media"] and not result.get("source_links"):
                     result["unavailable"] = "원문 텍스트 자동 추출 불가"
                 return result
     except (requests.RequestException, ValueError, LookupError):
@@ -317,14 +361,21 @@ def fetch_detail(item):
 def enrich(stories, history, now=None, fetcher=None):
     now = int(now or time.time())
     fetcher = fetcher or fetch_detail
+    pending = []
     for story in stories:
         row = story["lead"]
         record = history["items"][row["item_id"]]
         cache = record.get("detail", {})
-        if not cache or row["title_changed"] or row.get("parser_changed") or now - cache.get("checked_at", 0) > 6 * 3600:
-            cache = {**fetcher(row), "checked_at": now}
+        if not cache or row["title_changed"] or row.get("parser_changed") or now - cache.get("checked_at", 0) > 6 * 3600 or (is_community(story) and cache.get("revision") != 5):
+            pending.append((story, record))
+        else:
+            story["detail"] = cache
+    with ThreadPoolExecutor(max_workers=6) as pool:
+        futures = [(story, record, pool.submit(fetcher, story["lead"])) for story, record in pending]
+        for story, record, future in futures:
+            cache = {**future.result(), "checked_at": now, "revision": 5}
             record["detail"] = cache
-        story["detail"] = cache
+            story["detail"] = cache
     return stories
 
 
@@ -463,7 +514,9 @@ def compact_signal(story):
 
 
 SOURCE_LABELS = {"네이버 뉴스": "뉴스", "네이트 스포츠": "스포츠", "디시 실베": "실베", "펨코 포텐": "펨코",
-                 "국내·해외축구": "축구", "네이트 연예": "연예", "커뮤니티 인기": "커뮤니티"}
+                 "국내·해외축구": "축구", "네이트 연예": "연예", "커뮤니티 인기": "커뮤니티",
+                 "더쿠 HOT": "더쿠", "개드립 인기": "개드립", "루리웹 베스트": "루리웹",
+                 "보배드림 베스트": "보배", "인스티즈 이슈": "인스티즈", "엠팍 BEST": "엠팍"}
 
 
 def _compact_row(story, index, state, width, featured=False):
@@ -473,6 +526,11 @@ def _compact_row(story, index, state, width, featured=False):
     if lead.get("discovery"):
         source = lead.get("origin", source) + "·목록"
     row = f"{index:02d} {link(title, lead['link'])}"
+    detail = story.get("detail", {})
+    video = next((x for x in detail.get("media", []) if x.get("kind") == "video"), None)
+    original = video or next(iter(detail.get("source_links", [])), None)
+    if featured and original:
+        row += " · " + link("영상" if video else "원본", original["url"])
     other_links, seen = [], {lead["link"]}
     for member in story["members"]:
         if member["link"] not in seen:
@@ -485,6 +543,7 @@ def _compact_row(story, index, state, width, featured=False):
     meta = [source]
     if story.get("category"):
         meta.insert(0, story["category"])
+    meta.append(detail.get("format", "커뮤니티") if is_community(story) else "기사")
     if featured and story.get("review_reason"):
         meta.append(story["review_reason"])
     if signal:
@@ -506,6 +565,9 @@ def render_digest(stories, counts, errors, state, now=None, excluded=0):
                   " · ".join(f"{html.escape(SOURCE_LABELS.get(name, name))} {count}" for name, count in counts.items())]
         if excluded:
             header.append(f"새 소재 {len(ordered)}개 · 중복 {excluded}개 제외")
+        if ordered and any(s.get("category") for s in ordered):
+            communities = sum(is_community(s) for s in ordered)
+            header.append(f"커뮤니티 {communities}개 · 기사 {len(ordered) - communities}개")
         if errors:
             failed = [SOURCE_LABELS.get(name, name) for name in errors if not name.startswith("텔레그램")]
             if failed:
@@ -541,6 +603,8 @@ def render_info(record, key, status=None):
              html.escape(reaction_text(row))]
     for media in detail.get("media", [])[:2]:
         lines.append(link(media["label"], media["url"]))
+    for original in detail.get("source_links", [])[:2]:
+        lines.append(link(original["label"], original["url"]))
     lines.extend("확인: " + html.escape(caution) for caution in assessment["cautions"])
     lines.append(f"소재 ID <code>{key}</code>")
     return "\n".join(lines)
