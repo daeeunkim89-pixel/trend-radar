@@ -1,6 +1,855 @@
 {
   "version": 1,
   "items": {
+    "be1977c81b74": {
+      "source": "AP·앨버타 선거관리기관",
+      "title": "캐나다에 남을까, 분리 절차를 시작할까…앨버타의 19일 투표",
+      "link": "https://apnews.com/article/carney-canada-alberta-referendum-premier-smith-df29951124a012a8897bd24fdc5c07b9",
+      "first_seen_at": 1792268018,
+      "last_seen_at": 1792272407,
+      "samples": [
+        {
+          "at": 1792268018,
+          "views": null,
+          "reactions": null,
+          "rank": 11,
+          "rank_kind": null
+        },
+        {
+          "at": 1792272407,
+          "views": null,
+          "reactions": null,
+          "rank": 8,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "be1977c81b74",
+      "editorial": {
+        "title": "캐나다에 남을까, 분리 절차를 시작할까…앨버타의 19일 투표",
+        "category": "시사",
+        "url": "https://apnews.com/article/carney-canada-alberta-referendum-premier-smith-df29951124a012a8897bd24fdc5c07b9",
+        "source": "AP·앨버타 선거관리기관",
+        "kind": "article",
+        "event_key": "alberta-referendum-carney-final-unity-appeal-20261016",
+        "why": "캐나다 거주·유학 지인이 있는 사람에게 실제 투표 문항을 보내줄 사안. 국가 분리라는 큰 주제를 ‘이번 표로 바로 독립하는가’라는 구체적인 질문으로 풀 수 있다.",
+        "angle": "첫 장은 공식 두 선택지의 한국어 요약. 다음 장에 19일 투표와 ‘향후 분리 주민투표를 위한 절차’라는 범위를 강조한다.",
+        "why_now": "16일 카니 총리의 마지막 통합 호소가 새 보도다. 선관위에서 19일 일정과 문항 10의 비구속성을 확인했다. 결과는 아직 없다.",
+        "verified_at": 1792270869,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://apnews.com/article/carney-canada-alberta-referendum-premier-smith-df29951124a012a8897bd24fdc5c07b9",
+            "note": "16일 카니 총리가 잔류를 호소했고, 보수 성향 주총리·연방 야당 대표도 분리에 반대하는 입장을 밝혔다는 현장 보도다."
+          },
+          {
+            "url": "https://www.elections.ab.ca/elections/referendum/",
+            "note": "선관위는 19일 투표, 잔류와 향후 구속력 있는 분리 투표를 위한 법적 절차 개시의 두 선택지, 이번 결과의 비구속성을 명시한다."
+          }
+        ],
+        "materials": [],
+        "caution": "독립 확정·미국 편입 투표·19일 당일 즉시 분리로 표현하지 않는다. 이번 문항은 비구속적이다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-16",
+          "observation": "캐나다 한 주의 향후 분리 절차를 묻는 실제 주민투표 일정·문항을 공식 기관에서 확인했다. 총리와 주총리가 16일 함께 잔류를 호소한 새 정치적 국면이다.",
+          "checked_materials": [],
+          "outline": [
+            "캐나다 잔류와 향후 분리 투표 절차 개시의 두 선택지",
+            "19일 투표 일정과 16일 총리·주총리 잔류 호소",
+            "이번 표결의 비구속성 및 즉시 독립이 아니라는 범위"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [],
+        "excerpt": "",
+        "context": "16일 카니 총리의 마지막 통합 호소가 새 보도다. 선관위에서 19일 일정과 문항 10의 비구속성을 확인했다. 결과는 아직 없다.",
+        "fetched_at": 1792272407,
+        "parser_revision": 7
+      },
+      "curation_event_key": "alberta-referendum-carney-final-unity-appeal-20261016"
+    },
+    "83408caa1ac1": {
+      "source": "Cadena del Mar·AUF TV 화면",
+      "title": "심판이 꺼낸 건 카드가 아니라 화면…우루과이의 전자 경고 실험",
+      "link": "https://cadenadelmar.uy/deporte/futbol-uruguayo-copa-auf-estrenaron-tarjetas-digitales-en-partido-de-nacional-y-rentistas-25382",
+      "first_seen_at": 1792272407,
+      "last_seen_at": 1792272407,
+      "samples": [
+        {
+          "at": 1792272407,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "83408caa1ac1",
+      "editorial": {
+        "title": "심판이 꺼낸 건 카드가 아니라 화면…우루과이의 전자 경고 실험",
+        "category": "축구",
+        "url": "https://cadenadelmar.uy/deporte/futbol-uruguayo-copa-auf-estrenaron-tarjetas-digitales-en-partido-de-nacional-y-rentistas-25382",
+        "source": "Cadena del Mar·AUF TV 화면",
+        "kind": "article",
+        "event_key": "uruguay-digital-yellow-red-card-trial-nacional-rentistas-20261015",
+        "why": "축구 친구에게 ‘심판이 왜 휴대전화 같은 걸 드나’ 묻게 하는 장면. 노란 화면과 실제 징계 기록 기능의 차이가 한눈에 잡힌다.",
+        "angle": "첫 장은 심판이 노란 화면을 든 확대 컷. 다음 장에 레드 화면과 자동 기록 기능, 시범 운영 범위를 짧게 붙인다.",
+        "why_now": "15일 나시오날-렌티스타스전 시험 사용을 16일 현지 보도로 확인했다. 전 세계 규정 변경 소식은 아니다.",
+        "verified_at": 1792270670,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://cadenadelmar.uy/deporte/futbol-uruguayo-copa-auf-estrenaron-tarjetas-digitales-en-partido-de-nacional-y-rentistas-25382",
+            "note": "15일 코파 AUF 경기에서 바렐라가 전자 기기를 사용했고, 전반 12분 플라다 경고에 처음 제시했다고 현지 보도가 설명한다."
+          },
+          {
+            "url": "https://www.goal.com/es-mx/listados/es-este-el-futuro-del-futbol-un-arbitro-sorprende-a-los-aficionados-al-sustituir-las-tarjetas-tradicionales-por-un-dispositivo-electronico-durante-un-partido-de-competicion-en-uruguay/blte7113460c79d7339",
+            "note": "징계·교체 등 경기 사건을 디지털 기록하는 시험 장치이며 이전 시험의 화면 가시성 문제도 다룬다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.thesun.co.uk/wp-content/uploads/2026/10/referee-stuns-fans-ditching-yellow-1116340745.jpg?w=960",
+            "label": "실제 노란 화면",
+            "kind": "image"
+          },
+          {
+            "url": "https://www.thesun.co.uk/wp-content/uploads/2026/10/referee-stuns-fans-ditching-yellow-1116340743.jpg?w=960",
+            "label": "실제 빨간 화면",
+            "kind": "image"
+          }
+        ],
+        "caution": "아이폰 제품이라고 단정하지 않는다. 사진을 확인했으며 전체 경기 영상을 시청한 것은 아니다.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-15",
+          "observation": "AUF TV 경기 화면의 연속 사진에서 심판이 노란 화면의 검은 기기를 들어 보이고, 다른 컷에서는 같은 모양의 빨간 화면을 제시하는 모습을 확인했다.",
+          "checked_materials": [
+            "https://www.thesun.co.uk/wp-content/uploads/2026/10/referee-stuns-fans-ditching-yellow-1116340745.jpg?w=960",
+            "https://www.thesun.co.uk/wp-content/uploads/2026/10/referee-stuns-fans-ditching-yellow-1116340743.jpg?w=960"
+          ],
+          "outline": [
+            "노란 화면을 든 손을 확대해 카드와 다른 기기 형태 제시",
+            "빨간 화면 컷과 징계·경기 사건 자동 기록 기능 설명",
+            "우루과이 대회 시험 사용이며 세계 공통 규정 도입은 아니라는 범위 표시"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [
+          {
+            "url": "https://www.thesun.co.uk/wp-content/uploads/2026/10/referee-stuns-fans-ditching-yellow-1116340745.jpg?w=960",
+            "label": "실제 노란 화면",
+            "kind": "image"
+          },
+          {
+            "url": "https://www.thesun.co.uk/wp-content/uploads/2026/10/referee-stuns-fans-ditching-yellow-1116340743.jpg?w=960",
+            "label": "실제 빨간 화면",
+            "kind": "image"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "실제 노란 화면",
+            "url": "https://www.thesun.co.uk/wp-content/uploads/2026/10/referee-stuns-fans-ditching-yellow-1116340745.jpg?w=960"
+          },
+          {
+            "label": "실제 빨간 화면",
+            "url": "https://www.thesun.co.uk/wp-content/uploads/2026/10/referee-stuns-fans-ditching-yellow-1116340743.jpg?w=960"
+          }
+        ],
+        "excerpt": "",
+        "context": "15일 나시오날-렌티스타스전 시험 사용을 16일 현지 보도로 확인했다. 전 세계 규정 변경 소식은 아니다.",
+        "fetched_at": 1792272407,
+        "parser_revision": 7
+      },
+      "curation_event_key": "uruguay-digital-yellow-red-card-trial-nacional-rentistas-20261015"
+    },
+    "c6e59d53506d": {
+      "source": "LAFC 공식 영상·Deporte Total USA",
+      "title": "딸이 국가를 부르는 동안…활짝 웃은 요리스",
+      "link": "https://deportetotalusa.com/hija-de-hugo-lloris-canta-el-himno-previo-a-partido-de-lafc/",
+      "first_seen_at": 1792272407,
+      "last_seen_at": 1792272407,
+      "samples": [
+        {
+          "at": 1792272407,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "c6e59d53506d",
+      "editorial": {
+        "title": "딸이 국가를 부르는 동안…활짝 웃은 요리스",
+        "category": "축구",
+        "url": "https://deportetotalusa.com/hija-de-hugo-lloris-canta-el-himno-previo-a-partido-de-lafc/",
+        "source": "LAFC 공식 영상·Deporte Total USA",
+        "kind": "article",
+        "event_key": "lloris-daughter-anna-rose-anthem-lafc-austin-20261014",
+        "why": "손흥민의 LAFC를 보는 팬이 가족에게도 보낼 장면. 딸의 무대와 이를 바라보며 웃는 월드컵 우승 골키퍼가 같은 영상 안에 있다.",
+        "angle": "딸의 마이크 컷과 요리스의 미소를 첫 장에 나란히 배치하고, 끝의 포옹·꽃다발까지 이어간다.",
+        "why_now": "14일 LAFC-오스틴전 식전 공연. 15일 LAFC가 ‘지난밤’ 영상으로 공개했고 수요일 경기임을 현지 보도와 대조했다.",
+        "verified_at": 1792271480,
+        "published_at": 1792083269,
+        "evidence": [
+          {
+            "url": "https://cdn.syndication.twimg.com/tweet-result?id=2110757414245134592&lang=en&token=abc",
+            "note": "LAFC 공식 계정이 15일 올린 공개 게시물 본문은 딸의 ‘지난밤 국가 공연’이라고 명시한다."
+          },
+          {
+            "url": "https://www.sofoot.com/breves/mls-la-fille-dhugo-lloris-bluffe-tout-un-stade-en-chantant-lhymne-americain-avant-une-rencontre-du-los-angeles-fc",
+            "note": "14일 수요일 LAFC-오스틴전 식전 공연으로 설명한다. 게시일과 실제 공연일을 구분했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2110579410743255041/vid/avc1/1280x720/AQYBSBX_VoGxXYF6.mp4",
+            "label": "LAFC 공식 공연·반응",
+            "kind": "video"
+          }
+        ],
+        "caution": "54초 영상의 장면을 확인했다. 요리스가 울었다거나 딸이 프로 가수로 데뷔했다는 식의 확대는 하지 않는다.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-14",
+          "observation": "딸의 마이크 공연→관중석 가족→보라색 유니폼의 요리스가 미소 짓는 컷→박수→꽃다발과 포옹으로 이어지는 54초 공식 영상의 프레임을 확인했다.",
+          "checked_materials": [
+            "https://video.twimg.com/amplify_video/2110579410743255041/vid/avc1/1280x720/AQYBSBX_VoGxXYF6.mp4"
+          ],
+          "outline": [
+            "딸이 마이크를 든 모습과 요리스 미소를 교차 배치",
+            "국가 공연 뒤 가족의 박수와 꽃다발 장면 연결",
+            "14일 경기의 공식 식전 공연이라는 날짜·관계로 마무리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "원본 영상",
+        "media": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2110579410743255041/vid/avc1/1280x720/AQYBSBX_VoGxXYF6.mp4",
+            "label": "LAFC 공식 공연·반응",
+            "kind": "video"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "LAFC 공식 공연·반응",
+            "url": "https://video.twimg.com/amplify_video/2110579410743255041/vid/avc1/1280x720/AQYBSBX_VoGxXYF6.mp4"
+          }
+        ],
+        "excerpt": "",
+        "context": "14일 LAFC-오스틴전 식전 공연. 15일 LAFC가 ‘지난밤’ 영상으로 공개했고 수요일 경기임을 현지 보도와 대조했다.",
+        "fetched_at": 1792272407,
+        "parser_revision": 7
+      },
+      "curation_event_key": "lloris-daughter-anna-rose-anthem-lafc-austin-20261014"
+    },
+    "7b701eca58d5": {
+      "source": "ESPN·NBA on ESPN",
+      "title": "팬이 만든 ‘르브론’ 밈을 원곡자가 진짜 공연에서 불렀다",
+      "link": "https://www.espn.com/nba/story/_/id/50198205/steve-lacy-lebron-james-oh-yeah",
+      "first_seen_at": 1792272407,
+      "last_seen_at": 1792272407,
+      "samples": [
+        {
+          "at": 1792272407,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "7b701eca58d5",
+      "editorial": {
+        "title": "팬이 만든 ‘르브론’ 밈을 원곡자가 진짜 공연에서 불렀다",
+        "category": "메이저 스포츠",
+        "url": "https://www.espn.com/nba/story/_/id/50198205/steve-lacy-lebron-james-oh-yeah",
+        "source": "ESPN·NBA on ESPN",
+        "kind": "article",
+        "event_key": "steve-lacy-adopts-lebron-fan-remix-camden-show-20261015",
+        "why": "농구 팬이 음악 듣는 친구에게 보낼 만한 역전 관계. 팬의 개사가 원곡자의 실제 무대에 들어간 결과가 있어 단순 밈 소개에서 끝나지 않는다.",
+        "angle": "첫 장 ‘팬 패러디가 원곡자의 공연으로’. 레이시의 무대와 손을 든 관객 컷 뒤에 원곡·개사 관계를 설명한다.",
+        "why_now": "15일 뉴저지 캠든 공연에서 실행됐고 ESPN이 16일 보도했다. 9월 원래 팬 밈 자체를 새 소식으로 재포장하지 않는다.",
+        "verified_at": 1792270869,
+        "published_at": 1792185480,
+        "evidence": [
+          {
+            "url": "https://www.espn.com/nba/story/_/id/50198205/steve-lacy-lebron-james-oh-yeah",
+            "note": "ESPN은 15일 Freedom Mortgage Pavilion 공연에서 스티브 레이시가 자기 노래의 르브론 팬 개사 버전을 불렀다고 확인한다."
+          },
+          {
+            "url": "https://www.instagram.com/reel/DekIXgKAm0J/embed/",
+            "note": "ESPN이 연결한 NBA on ESPN 공개 임베드의 소유자와 공연 영상 23초의 장면을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2110932990486355968/vid/avc1/720x1280/ra9XEo5Se03H24B2.mp4",
+            "label": "공연 현장 18초",
+            "kind": "video"
+          },
+          {
+            "url": "https://www.instagram.com/reel/DekIXgKAm0J/embed/",
+            "label": "NBA on ESPN 게시물",
+            "kind": "source"
+          }
+        ],
+        "caution": "무대·관객 장면은 직접 확인했고, 개사 내용과 공연일은 ESPN 본문으로 검증했다. 가사를 길게 옮기지 않는다.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-15",
+          "observation": "23초 공식 게시 영상과 18초 현장 영상에서 레이시가 마이크로 공연하며 팔을 들고 관객 쪽을 가리키는 동작, 관객들이 손을 들어 반응하는 연속 프레임을 확인했다.",
+          "checked_materials": [
+            "https://video.twimg.com/amplify_video/2110932990486355968/vid/avc1/720x1280/ra9XEo5Se03H24B2.mp4"
+          ],
+          "outline": [
+            "팬의 르브론 개사가 원곡자의 공연으로 이어졌다는 사실 카드",
+            "레이시가 관객에게 팔을 뻗고 관객들이 손을 드는 실제 컷",
+            "15일 캠든 공연과 16일 ESPN 확인 보도를 구분해 표기"
+          ]
+        }
+      },
+      "detail": {
+        "format": "원본 영상",
+        "media": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2110932990486355968/vid/avc1/720x1280/ra9XEo5Se03H24B2.mp4",
+            "label": "공연 현장 18초",
+            "kind": "video"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "공연 현장 18초",
+            "url": "https://video.twimg.com/amplify_video/2110932990486355968/vid/avc1/720x1280/ra9XEo5Se03H24B2.mp4"
+          },
+          {
+            "label": "NBA on ESPN 게시물",
+            "url": "https://www.instagram.com/reel/DekIXgKAm0J/embed/"
+          }
+        ],
+        "excerpt": "",
+        "context": "15일 뉴저지 캠든 공연에서 실행됐고 ESPN이 16일 보도했다. 9월 원래 팬 밈 자체를 새 소식으로 재포장하지 않는다.",
+        "fetched_at": 1792272407,
+        "parser_revision": 7
+      },
+      "curation_event_key": "steve-lacy-adopts-lebron-fan-remix-camden-show-20261015"
+    },
+    "edfb43d2e627": {
+      "source": "Happy Punch·Athlon",
+      "title": "UFC 대표가 내민 손까지 패스…버클리 앞에서 멈춘 악수",
+      "link": "https://sports.yahoo.com/articles/dana-white-held-hand-saturdays-022733155.html",
+      "first_seen_at": 1792272407,
+      "last_seen_at": 1792272407,
+      "samples": [
+        {
+          "at": 1792272407,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "edfb43d2e627",
+      "editorial": {
+        "title": "UFC 대표가 내민 손까지 패스…버클리 앞에서 멈춘 악수",
+        "category": "메이저 스포츠",
+        "url": "https://sports.yahoo.com/articles/dana-white-held-hand-saturdays-022733155.html",
+        "source": "Happy Punch·Athlon",
+        "kind": "article",
+        "event_key": "joaquin-buckley-unreturned-dana-white-handshake-weighin-20261016",
+        "why": "격투기 팬이 ‘대표까지 머쓱해졌다’며 공유할 시각적인 상황. 손을 내밈→악수 없이 대면 진행→손을 거두는 변화가 3초 안에 보인다.",
+        "angle": "첫 컷은 화이트의 뻗은 손과 버클리 얼굴을 함께 잡고, 다음 컷에 손을 거둔 표정과 계속된 대면을 둔다.",
+        "why_now": "16일 에드먼턴 공식 계체 행사에서 생긴 장면. 16일 게시 영상과 17일 현장 기사로 날짜를 대조했다.",
+        "verified_at": 1792271176,
+        "published_at": 1792204053,
+        "evidence": [
+          {
+            "url": "https://sports.yahoo.com/articles/dana-white-held-hand-saturdays-022733155.html",
+            "note": "16일 의식 계체 행사에서 화이트와 말럿의 악수가 성사되지 않은 과정을 보도했다."
+          },
+          {
+            "url": "https://cdn.syndication.twimg.com/tweet-result?id=2111239160715792550&lang=en&token=abc",
+            "note": "16일 Happy Punch 공개 게시물의 원영상 26초를 확보해 악수 제안과 이후 대면·표정을 프레임으로 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2111239043232989184/vid/avc1/1920x1080/5IftXhmR9kVYw_Eu.mp4",
+            "label": "악수 제안과 반응",
+            "kind": "video"
+          }
+        ],
+        "caution": "불화·징계·계약 해지를 추측하지 않는다. 고개를 끄덕이는 동작도 있어 ‘존재 자체를 무시’했다고 단정하지 않는다.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-16",
+          "observation": "영상 초반 화이트가 오른손을 내밀지만 버클리는 잡지 않고 대면 위치로 간다. 화이트가 손을 거두고 두 선수를 번갈아 보는 표정, 이후 대면을 마치는 과정까지 확인했다.",
+          "checked_materials": [
+            "https://video.twimg.com/amplify_video/2111239043232989184/vid/avc1/1920x1080/5IftXhmR9kVYw_Eu.mp4"
+          ],
+          "outline": [
+            "0~4초 화이트가 내민 손과 잡지 않은 손을 한 화면으로 제시",
+            "이어지는 화이트 표정과 선수들의 대면 컷",
+            "16일 공식 계체 장면임을 밝히고 불화 여부는 추정하지 않기"
+          ]
+        }
+      },
+      "detail": {
+        "format": "원본 영상",
+        "media": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2111239043232989184/vid/avc1/1920x1080/5IftXhmR9kVYw_Eu.mp4",
+            "label": "악수 제안과 반응",
+            "kind": "video"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "악수 제안과 반응",
+            "url": "https://video.twimg.com/amplify_video/2111239043232989184/vid/avc1/1920x1080/5IftXhmR9kVYw_Eu.mp4"
+          }
+        ],
+        "excerpt": "",
+        "context": "16일 에드먼턴 공식 계체 행사에서 생긴 장면. 16일 게시 영상과 17일 현장 기사로 날짜를 대조했다.",
+        "fetched_at": 1792272407,
+        "parser_revision": 7
+      },
+      "curation_event_key": "joaquin-buckley-unreturned-dana-white-handshake-weighin-20261016"
+    },
+    "fa73c3806369": {
+      "source": "뉴스1·더쿠 공개 영상 자료",
+      "title": "공중에서 세 바퀴 돌고 착지…최가온이 추가한 ‘여자 최초’",
+      "link": "https://www.news1.kr/sports/general-sport/6323401",
+      "first_seen_at": 1792272407,
+      "last_seen_at": 1792272407,
+      "samples": [
+        {
+          "at": 1792272407,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "fa73c3806369",
+      "editorial": {
+        "title": "공중에서 세 바퀴 돌고 착지…최가온이 추가한 ‘여자 최초’",
+        "category": "메이저 스포츠",
+        "url": "https://www.news1.kr/sports/general-sport/6323401",
+        "source": "뉴스1·더쿠 공개 영상 자료",
+        "kind": "article",
+        "event_key": "gaon-choi-first-female-backside-1080-training-reveal-20261015",
+        "why": "올림픽을 본 친구에게 ‘그 최가온이 여기까지 갔다’며 보낼 장면. 기록 숫자만이 아니라 이륙·회전·착지를 직접 보여줄 수 있다.",
+        "angle": "첫 장 공중 회전과 착지 두 컷. 다음 장에 1080도=세 바퀴, 여자 선수 첫 성공이라는 확인된 의미를 붙인다.",
+        "why_now": "15일 공개된 스위스 사스페 훈련 영상에 관한 17일 보도다. 성공 순간의 자료를 확인했으며 17일 경기 기록이라고 쓰지 않는다.",
+        "verified_at": 1792270869,
+        "published_at": 1792241235,
+        "evidence": [
+          {
+            "url": "https://www.news1.kr/sports/general-sport/6323401",
+            "note": "뉴스1 본문은 15일 공개 영상, 사스페 훈련, 여자 선수 최초 백사이드 1080 성공을 설명하며 스노리그·FIS의 축하도 인용한다."
+          },
+          {
+            "url": "https://theqoo.net/hot/4377898191",
+            "note": "같은 기술 공개를 다룬 글이 연결한 24프레임 GIF에서 공중 회전과 착지를 확인했다. 하단의 별도 옛 경기 영상은 사용하지 않는다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://img-cdn.theqoo.net/qFZvGE.gif",
+            "label": "회전부터 착지까지",
+            "kind": "image"
+          }
+        ],
+        "caution": "15일은 확인된 새 공개일이다. 훈련 정확한 촬영 시각은 확인되지 않았다. 단일 공중 정지 사진으로 성공을 판정한 것이 아니다.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-15",
+          "observation": "24프레임 GIF 전체에서 파이프 위로 올라 회전하는 동작과 보드가 설면에 닿은 뒤 균형을 유지하며 내려가는 결과를 확인했다. 기술 명칭·최초 여부는 본문 보도로 대조했다.",
+          "checked_materials": [
+            "https://img-cdn.theqoo.net/qFZvGE.gif"
+          ],
+          "outline": [
+            "이륙·공중 회전·착지 순서가 이어지는 실제 자료 배치",
+            "1080도는 세 바퀴라는 설명과 여자 선수 최초 기록 표시",
+            "15일 훈련 영상 공개, 17일 보도라는 시점 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [
+          {
+            "url": "https://img-cdn.theqoo.net/qFZvGE.gif",
+            "label": "회전부터 착지까지",
+            "kind": "image"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "회전부터 착지까지",
+            "url": "https://img-cdn.theqoo.net/qFZvGE.gif"
+          }
+        ],
+        "excerpt": "",
+        "context": "15일 공개된 스위스 사스페 훈련 영상에 관한 17일 보도다. 성공 순간의 자료를 확인했으며 17일 경기 기록이라고 쓰지 않는다.",
+        "fetched_at": 1792272407,
+        "parser_revision": 7
+      },
+      "curation_event_key": "gaon-choi-first-female-backside-1080-training-reveal-20261015"
+    },
+    "ad1190bce8e9": {
+      "source": "한국일보·YTN",
+      "title": "소집해제 뒤 남은 102일…송민호 재복무 절차 검토",
+      "link": "https://www.hankookilbo.com/news/article/A2026101611000000842",
+      "first_seen_at": 1792272407,
+      "last_seen_at": 1792272407,
+      "samples": [
+        {
+          "at": 1792272407,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "ad1190bce8e9",
+      "editorial": {
+        "title": "소집해제 뒤 남은 102일…송민호 재복무 절차 검토",
+        "category": "아이돌",
+        "url": "https://www.hankookilbo.com/news/article/A2026101611000000842",
+        "source": "한국일보·YTN",
+        "kind": "article",
+        "event_key": "mino-mma-reservice-procedure-after-final-verdict-20261016",
+        "why": "군 복무 경험이 있는 사람과 위너 팬 모두 관심 가질 실제 의무의 귀결. 사과문 감상보다 형 확정 이후 남은 102일을 어떻게 채우는지가 핵심이다.",
+        "angle": "첫 장 ‘소집해제됐는데 남은 복무 102일’. 판결 확정→병무청 절차 검토→일정·장소 미정의 세 단계로 정리한다.",
+        "why_now": "1일 선고 자체가 아니라 16일 병무청의 재복무 절차 검토 확인이 새 사실이다. 구체적인 복무 일정·장소는 아직 확정되지 않았다.",
+        "verified_at": 1792271550,
+        "published_at": 1792118580,
+        "evidence": [
+          {
+            "url": "https://www.hankookilbo.com/news/article/A2026101611000000842",
+            "note": "한국일보가 16일 병무청 관계자의 직접 답변으로 재복무 절차와 기간·장소를 검토 중임을 확인했다."
+          },
+          {
+            "url": "https://www.ytn.co.kr/_ln/0117_202610161352238600",
+            "note": "YTN도 병무청의 검토 입장과 무단이탈 102일, 쌍방 항소하지 않아 판결이 확정된 경위를 설명한다."
+          }
+        ],
+        "materials": [],
+        "caution": "현역 재입대나 이미 복무를 시작한 것으로 표현하지 않는다. 재복무 절차 검토와 구체적 일정 확정을 구분한다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-16",
+          "observation": "병역법 위반 판결이 확정된 유명 아이돌의 무단이탈 102일에 대해 병무청이 실제 재복무 절차를 검토한다고 확인했다. 날짜·근무지는 미정이다.",
+          "checked_materials": [],
+          "outline": [
+            "소집해제와 남은 102일 의무를 대비한 숫자 카드",
+            "1일 판결과 항소 없이 확정된 절차 설명",
+            "16일 병무청 답변 및 일정·근무지 미정 표시"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [],
+        "excerpt": "",
+        "context": "1일 선고 자체가 아니라 16일 병무청의 재복무 절차 검토 확인이 새 사실이다. 구체적인 복무 일정·장소는 아직 확정되지 않았다.",
+        "fetched_at": 1792272407,
+        "parser_revision": 7
+      },
+      "curation_event_key": "mino-mma-reservice-procedure-after-final-verdict-20261016"
+    },
+    "5cb889572ca7": {
+      "source": "연합뉴스·경북도민일보",
+      "title": "경북 초대형 산불 실화자, 2심도 집행유예…법원이 설명한 책임의 한계",
+      "link": "https://www.yna.co.kr/view/AKR20261016055852053",
+      "first_seen_at": 1792272407,
+      "last_seen_at": 1792272407,
+      "samples": [
+        {
+          "at": 1792272407,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "5cb889572ca7",
+      "editorial": {
+        "title": "경북 초대형 산불 실화자, 2심도 집행유예…법원이 설명한 책임의 한계",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261016055852053",
+        "source": "연합뉴스·경북도민일보",
+        "kind": "article",
+        "event_key": "gyeongbuk-wildfire-negligence-appeal-suspended-sentence-20261016",
+        "why": "대형 산불을 기억하는 사람에게 후속 판결과 이유를 함께 전할 사안. 거대한 전체 피해와 개별 피고인의 형사책임을 법원이 어떻게 구분했는지가 핵심이다.",
+        "angle": "첫 장 ‘경북 산불 실화자, 항소심도 집행유예’. 형량 다음 카드에 강풍·다른 발화지·인과관계라는 재판부 이유를 함께 둔다.",
+        "why_now": "산불은 2025년 3월 사건이지만 새 소식은 2026년 10월 16일 항소심 판결이다. 당일 종합2보에서 법원의 책임 한계 설명까지 확인했다.",
+        "verified_at": 1792272271,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261016055852053",
+            "note": "16일 대구지법이 검사 항소를 기각해 징역 2년6개월·집행유예 3년 등을 유지했다. 다른 발화지와 기상 등 외부 요인 및 인명 피해 인과관계의 입증 한계를 설명했다."
+          },
+          {
+            "url": "https://www.hidomin.com/news/articleView.html?idxno=725146",
+            "note": "지역 현장 보도로 16일 판결과 보호관찰·사회봉사 120시간을 대조했다. 27명 사망·9만9289ha는 두 발화지에서 번진 산불 전체 피해다."
+          }
+        ],
+        "materials": [],
+        "caution": "전체 인명 피해를 이 피고인 한 명이 모두 초래했다고 쓰지 않는다. 산림보호법 위반 항소심이며 판결 확정 여부는 미확인이다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-16",
+          "observation": "27명 사망·역대 최대 산림 피해를 낸 산불의 한 실화자에 대한 새 항소심 결과다. 집행유예 유지 사실과 법원이 밝힌 외부 요인·개별 책임 범위까지 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "16일 항소심의 형량·보호관찰·사회봉사 유지 사실",
+            "산불 전체 피해 27명 사망·9만9289ha와 두 발화지의 관계",
+            "재판부의 인과관계·외부 요인·책임 한계 설명을 결과와 함께 제시"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [],
+        "excerpt": "",
+        "context": "산불은 2025년 3월 사건이지만 새 소식은 2026년 10월 16일 항소심 판결이다. 당일 종합2보에서 법원의 책임 한계 설명까지 확인했다.",
+        "fetched_at": 1792272407,
+        "parser_revision": 7
+      },
+      "curation_event_key": "gyeongbuk-wildfire-negligence-appeal-suspended-sentence-20261016"
+    },
+    "ce207f4bfaa2": {
+      "source": "중앙일보·현장 기자회견 보도",
+      "title": "아주대 소아응급실 압수수색 논란…센터장은 ‘진료 계속’",
+      "link": "https://www.joongang.co.kr/article/25470485",
+      "first_seen_at": 1792272407,
+      "last_seen_at": 1792272407,
+      "samples": [
+        {
+          "at": 1792272407,
+          "views": null,
+          "reactions": null,
+          "rank": 9,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "ce207f4bfaa2",
+      "editorial": {
+        "title": "아주대 소아응급실 압수수색 논란…센터장은 ‘진료 계속’",
+        "category": "시사",
+        "url": "https://www.joongang.co.kr/article/25470485",
+        "source": "중앙일보·현장 기자회견 보도",
+        "kind": "article",
+        "event_key": "ajou-pediatric-er-head-reaffirms-care-describes-investigation-20261015",
+        "why": "아이를 키우는 가족·친구에게 응급진료가 계속되는지부터 알려줄 사안. 경찰과 의료진의 설명 차이, 센터장의 진료 지속 입장을 함께 보여줄 수 있다.",
+        "angle": "첫 장 센터장의 ‘진료는 계속’ 발언과 지역 소아응급실의 역할. 뒤에 경찰·의료진의 압수수색 설명을 나란히 놓는다.",
+        "why_now": "15일 기자회견 증언을 17일 중앙일보가 상세 보도했다. 7월 사망 사건·9월 수색·10월 공개 증언을 서로 다른 날짜로 구분한다.",
+        "verified_at": 1792270986,
+        "published_at": 1792184400,
+        "evidence": [
+          {
+            "url": "https://www.joongang.co.kr/article/25470485",
+            "note": "센터장은 15일 기자회견에서 7월 현장 조사·9월 30일 수색 당시 진료 차질을 주장하면서도 소아응급진료를 계속하겠다고 밝혔다."
+          },
+          {
+            "url": "https://www.medigatenews.com/news/540910347",
+            "note": "15일 기자회견 현장 기사로 의료계의 수사 준칙 요구를 확인했다. 진료 방해가 없었다는 경찰 해명과 의료계 주장은 일치하지 않는다."
+          },
+          {
+            "url": "https://www.mt.co.kr/thebio/2026/10/13/2026101308362063295",
+            "note": "경찰은 증거 위변조 및 자료 지연 우려 등 강제수사의 필요성을 설명했다. 의료진의 주장만으로 위법 수사라고 결론 내리지 않는다."
+          }
+        ],
+        "materials": [],
+        "caution": "병원이 이미 폐쇄됐다고 쓰지 않는다. 진료 방해·수색 시간은 양측 주장이 다르며 사망 사건의 의료과실 결론도 미확인이다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-15",
+          "observation": "지역·타 지역 중증 소아를 받는 응급센터의 수사와 진료 지속 문제다. 15일 센터장의 계속 진료 입장과 진료 차질 주장, 경찰의 상반된 설명을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "진료를 계속하겠다는 센터장 발언을 날짜와 함께 제시",
+            "7월 15일 사망·9월 30일 수색·10월 15일 기자회견의 시간표",
+            "경찰의 수사 필요성 설명과 의료진의 진료 차질 주장을 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [],
+        "excerpt": "",
+        "context": "15일 기자회견 증언을 17일 중앙일보가 상세 보도했다. 7월 사망 사건·9월 수색·10월 공개 증언을 서로 다른 날짜로 구분한다.",
+        "fetched_at": 1792272407,
+        "parser_revision": 7
+      },
+      "curation_event_key": "ajou-pediatric-er-head-reaffirms-care-describes-investigation-20261015"
+    },
+    "bac0dd169382": {
+      "source": "연합뉴스·미 의원실 공식 발표",
+      "title": "미 의원 사무실로 잇단 ‘백색가루’…최소 20명 겨냥 우편물 수사",
+      "link": "https://www.yna.co.kr/view/AKR20261017026100009",
+      "first_seen_at": 1792272407,
+      "last_seen_at": 1792272407,
+      "samples": [
+        {
+          "at": 1792272407,
+          "views": null,
+          "reactions": null,
+          "rank": 10,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "bac0dd169382",
+      "editorial": {
+        "title": "미 의원 사무실로 잇단 ‘백색가루’…최소 20명 겨냥 우편물 수사",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261017026100009",
+        "source": "연합뉴스·미 의원실 공식 발표",
+        "kind": "article",
+        "event_key": "us-lawmakers-suspicious-powder-mailings-expand-20261016",
+        "why": "중간선거를 지켜보는 사람에게 전할 구체적 선거 안전 이슈. 여야 구분 없이 우편물이 확산하고 실제 사무실 대피·폐쇄가 이어진 점이 크다.",
+        "angle": "첫 장 ‘여야 최소 20명 수신 또는 사전 차단’. 이어 공식 확인된 파네타·라운즈 사무실 조치와 아직 모르는 성분·범인을 구분한다.",
+        "why_now": "16일 추가 의원실의 수신·대피 공식 발표와 확산 보도다. 17일 한국어 기사와 원래 의원실 발표를 대조했다.",
+        "verified_at": 1792271875,
+        "published_at": 1792208032,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261017026100009",
+            "note": "최소 20명 여야 의원 지역 사무실로 수상한 우편물이 도착하거나 사전 차단됐고 FBI 등이 조사한다고 보도했다."
+          },
+          {
+            "url": "https://panetta.house.gov/media/press-releases/rep-panettas-statement-suspicious-envelope-sent-and-opened-his-santa-cruz",
+            "note": "파네타 의원실은 16일 아침 백색가루 봉투 개봉, 직원 대피 및 1차 의료 확인에서 이상 없음을 공식 발표했다."
+          },
+          {
+            "url": "https://www.rounds.senate.gov/newsroom/press-releases/rounds-issues-statement-after-receiving-suspicious-letter-in-sioux-falls-office",
+            "note": "라운즈 의원실은 16일 수상한 편지 수신·대피·당일 업무 종료와 월요일 재개 계획을 공식 확인했다."
+          }
+        ],
+        "materials": [],
+        "caution": "독극물·탄저균·범인·특정 정당의 소행을 단정하지 않는다. 모든 수상한 우편물에 같은 가루가 들었다고 일반화하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-16",
+          "observation": "미국 선거를 앞두고 여야 다수 의원실을 겨냥한 수상한 우편물로 실제 대피·폐쇄가 발생했다. 성분과 발송자는 확인되지 않았으며 일부 우편물은 배달 전 차단됐다.",
+          "checked_materials": [],
+          "outline": [
+            "최소 20명 대상 수신·차단 보도와 수사 진행 사실",
+            "파네타·라운즈 의원실이 직접 확인한 대피와 업무 중단",
+            "성분·범인 미확정 및 직원 1차 검사 이상 없음 표시"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [],
+        "excerpt": "",
+        "context": "16일 추가 의원실의 수신·대피 공식 발표와 확산 보도다. 17일 한국어 기사와 원래 의원실 발표를 대조했다.",
+        "fetched_at": 1792272407,
+        "parser_revision": 7
+      },
+      "curation_event_key": "us-lawmakers-suspicious-powder-mailings-expand-20261016"
+    },
+    "19ac923e918a": {
+      "source": "아이오와 법무장관실·AP",
+      "title": "미 8개 주가 ChatGPT 안전성 문제로 OpenAI를 제소했다",
+      "link": "https://apnews.com/article/openai-lawsuits-chatbot-chatgpt-artificial-intelligence-f29fa6c206cfe41d46ba38ee7be78218",
+      "first_seen_at": 1792272407,
+      "last_seen_at": 1792272407,
+      "samples": [
+        {
+          "at": 1792272407,
+          "views": null,
+          "reactions": null,
+          "rank": 11,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "19ac923e918a",
+      "editorial": {
+        "title": "미 8개 주가 ChatGPT 안전성 문제로 OpenAI를 제소했다",
+        "category": "시사",
+        "url": "https://apnews.com/article/openai-lawsuits-chatbot-chatgpt-artificial-intelligence-f29fa6c206cfe41d46ba38ee7be78218",
+        "source": "아이오와 법무장관실·AP",
+        "kind": "article",
+        "event_key": "eight-us-states-openai-consumer-protection-lawsuits-20261014",
+        "why": "ChatGPT를 쓰는 학생·부모가 서로 공유할 실제 다주 소송. ‘AI가 위험하다’는 감상이 아니라 8개 주가 소비자보호법 위반을 주장하며 법원에 간 사건이다.",
+        "angle": "첫 장 ‘8개 주가 소송 제기’. 다음 장에 주 정부의 안전성 표시 문제 제기와 OpenAI의 청소년 보호 강화 답변을 같은 비중으로 둔다.",
+        "why_now": "14일 제소 발표와 15일 AP 확인 보도다. 공개 최근 발송 이력과 대조한 사안이며 17일 새 판결처럼 포장하지 않는다.",
+        "verified_at": 1792271479,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-announces-lawsuit-against-openai-for-deceiving-iowa-parents-and-iowans",
+            "note": "아이오와 법무장관실은 14일 제소 사실과 함께 애리조나·아칸소·아이다호·캔자스·몬태나·네브래스카·웨스트버지니아의 별도 소송을 발표했다."
+          },
+          {
+            "url": "https://apnews.com/article/openai-lawsuits-chatbot-chatgpt-artificial-intelligence-f29fa6c206cfe41d46ba38ee7be78218",
+            "note": "AP는 8개 주의 소비자보호법 관련 소송과 회사의 청소년 보호 장치 강화 입장을 함께 전한다. 소장의 위험 주장은 법원 확정 사실이 아니다."
+          }
+        ],
+        "materials": [],
+        "caution": "소송 제기와 위법 확정·서비스 금지를 혼동하지 않는다. 구체적인 자해 내용은 옮기지 않고 회사 반론을 함께 표시한다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-14",
+          "observation": "8개 주가 대중적으로 쓰이는 AI 서비스의 안전성 설명과 아동 보호 문제를 법원에서 다투기 시작한 확정된 절차다. 주장 내용의 진실성에 대한 판결은 아직 없다.",
+          "checked_materials": [],
+          "outline": [
+            "8개 주 제소와 소비자보호법 쟁점을 사실 카드로 정리",
+            "주 정부의 청소년 안전성 문제 제기와 회사의 보호 강화 답변 병기",
+            "제소는 14일이며 위법 확정이나 서비스 금지 결정은 없다는 상태 표시"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [],
+        "excerpt": "",
+        "context": "14일 제소 발표와 15일 AP 확인 보도다. 공개 최근 발송 이력과 대조한 사안이며 17일 새 판결처럼 포장하지 않는다.",
+        "fetched_at": 1792272407,
+        "parser_revision": 7
+      },
+      "curation_event_key": "eight-us-states-openai-consumer-protection-lawsuits-20261014"
+    },
     "27ebdbe6c4fb": {
       "source": "더쿠 HOT",
       "title": "폭탄 돌리는 중이라는 강다니엘 강동호(백호) 김동혁(아이콘)",
@@ -21933,91 +22782,6 @@
         "parser_revision": 7
       },
       "curation_event_key": "saudi-sport-cancellations-asian-cup-loc-schedule-20261016"
-    },
-    "be1977c81b74": {
-      "source": "AP · Elections Alberta",
-      "title": "“캐나다에 남을까” 알버타 19일 주민투표…당장 독립 결정은 아니다",
-      "link": "https://apnews.com/article/carney-canada-alberta-referendum-premier-smith-df29951124a012a8897bd24fdc5c07b9",
-      "first_seen_at": 1792268018,
-      "last_seen_at": 1792268018,
-      "samples": [
-        {
-          "at": 1792268018,
-          "views": null,
-          "reactions": null,
-          "rank": 11,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "be1977c81b74",
-      "editorial": {
-        "title": "“캐나다에 남을까” 알버타 19일 주민투표…당장 독립 결정은 아니다",
-        "category": "시사",
-        "url": "https://apnews.com/article/carney-canada-alberta-referendum-premier-smith-df29951124a012a8897bd24fdc5c07b9",
-        "source": "AP · Elections Alberta",
-        "kind": "article",
-        "event_key": "alberta-referendum-carney-final-unity-appeal-20261016",
-        "why": "캐나다에 가족·친구가 있는 사람부터 세계 뉴스 독자까지 공유할 큰 갈림길. 분리 독립 확정설보다 실제 투표 용지의 두 선택이 핵심이다.",
-        "angle": "투표 용지의 두 선택 “캐나다 잔류 / 향후 분리투표 절차”",
-        "why_now": "10월 16일 총리가 잔류를 촉구한 마지막 유세와 19일 투표 내용을 공식 선거 안내로 대조했다. 아직 투표 결과는 없다.",
-        "verified_at": 1792267025,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://apnews.com/article/carney-canada-alberta-referendum-premier-smith-df29951124a012a8897bd24fdc5c07b9",
-            "note": "16일 카니 총리가 에드먼턴에서 잔류를 촉구했다. 독립에 반대하는 주총리와 보수당 대표도 잔류를 호소했다. 직접 독립을 확정하는 투표는 아니라고 설명한다."
-          },
-          {
-            "url": "https://www.elections.ab.ca/elections/referendum/",
-            "note": "공식 선거 안내: 2026년 10월 19일 투표. 10번 문항은 캐나다 잔류와 향후 구속력 있는 분리투표를 위한 헌법상 절차 개시 중 선택하며, 이번 문항 결과 자체는 비구속적이다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.elections.ab.ca/elections/referendum/",
-            "label": "공식 투표 문항·날짜",
-            "kind": "source"
-          },
-          {
-            "url": "https://apnews.com/article/carney-canada-alberta-referendum-premier-smith-df29951124a012a8897bd24fdc5c07b9",
-            "label": "16일 마지막 잔류 호소",
-            "kind": "source"
-          }
-        ],
-        "caution": "투표는 19일, 아직 결과 없음. 이번 비구속 문항 통과가 즉각 독립·미국 편입을 뜻하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-16",
-          "observation": "카니 총리의 16일 최종 잔류 호소와 19일 주민투표의 공식 질문을 확인했다. 캐나다 잔류 또는 향후 분리투표 절차 개시를 묻는 비구속 문항으로 국가 분리 여부에 이르는 큰 정치적 절차다.",
-          "checked_materials": [],
-          "outline": [
-            "19일 알버타 주민투표와 잔류·향후 절차 개시의 두 선택",
-            "공식 질문 원문에 근거해 이번 결과는 비구속적임을 설명",
-            "16일 총리·주총리·야당 대표의 잔류 호소 / 결과 미정"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "공식 투표 문항·날짜",
-            "url": "https://www.elections.ab.ca/elections/referendum/"
-          },
-          {
-            "label": "16일 마지막 잔류 호소",
-            "url": "https://apnews.com/article/carney-canada-alberta-referendum-premier-smith-df29951124a012a8897bd24fdc5c07b9"
-          }
-        ],
-        "excerpt": "",
-        "context": "10월 16일 총리가 잔류를 촉구한 마지막 유세와 19일 투표 내용을 공식 선거 안내로 대조했다. 아직 투표 결과는 없다.",
-        "fetched_at": 1792268018,
-        "parser_revision": 7
-      },
-      "curation_event_key": "alberta-referendum-carney-final-unity-appeal-20261016"
     },
     "c1792930e14b": {
       "source": "AP·테슬라·엠팍",
@@ -74166,5 +74930,5 @@
       }
     }
   },
-  "updated_at": 1792268087
+  "updated_at": 1792272407
 }
