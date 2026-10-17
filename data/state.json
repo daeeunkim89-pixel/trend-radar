@@ -1,30 +1,43 @@
 {
-  "updated_at": 1792231740,
+  "updated_at": 1792234909,
   "status": "degraded",
   "errors": {
-    "펨코 포텐": "https://www.fmkorea.com/best = HTTP 430: 펨코의 사람 인증 보안 확인이 완료되지 않았습니다. 현재 실행 환경에서 자동 수집 가능한지 사이트 측 확인이 필요합니다. / https://m.fmkorea.com/best = HTTP 430: 펨코의 사람 인증 보안 확인이 완료되지 않았습니다. 현재 실행 환경에서 자동 수집 가능한지 사이트 측 확인이 필요합니다."
+    "펨코 포텐": "https://www.fmkorea.com/best = HTTP 430: 펨코의 사람 인증 보안 확인이 완료되지 않았습니다. 현재 실행 환경에서 자동 수집 가능한지 사이트 측 확인이 필요합니다. / https://m.fmkorea.com/best = HTTP 430: 펨코의 사람 인증 보안 확인이 완료되지 않았습니다. 현재 실행 환경에서 자동 수집 가능한지 사이트 측 확인이 필요합니다.",
+    "커뮤니티 인기": "HTTP 503",
+    "개드립 인기": "HTTP 403 / HTTP 403"
   },
   "counts": {
     "네이버 뉴스": 25,
     "네이트 스포츠": 50,
     "디시 실베": 29,
     "펨코 포텐": 0,
-    "국내·해외축구": 43,
+    "펨코 간접": 8,
+    "국내·해외축구": 45,
     "네이트 연예": 50,
-    "커뮤니티 인기": 99
+    "커뮤니티 인기": 0,
+    "더쿠 HOT": 41,
+    "개드립 인기": 0,
+    "루리웹 베스트": 58,
+    "보배드림 베스트": 90,
+    "인스티즈 이슈": 71,
+    "엠팍 BEST": 90
   },
   "report": {
-    "version": "btp-curated-v4",
-    "stories": 4,
-    "duplicates_excluded": 21,
-    "filtered_out": 270,
+    "version": "btp-community-v6",
+    "stories": 8,
+    "duplicates_excluded": 23,
+    "filtered_out": 524,
     "category_counts": {
-      "시사": 0,
+      "시사": 4,
       "축구": 2,
-      "메이저 스포츠": 2,
-      "아이돌": 0
+      "메이저 스포츠": 1,
+      "아이돌": 1
     },
-    "previews": 4,
+    "community_stories": 7,
+    "article_stories": 1,
+    "fmkorea_indirect_collected": 8,
+    "fmkorea_indirect_stories": 0,
+    "previews": 6,
     "metrics": {
       "네이버 뉴스": {
         "views": 0,
@@ -46,6 +59,11 @@
         "reactions": 0,
         "ranking": 0
       },
+      "펨코 간접": {
+        "views": 0,
+        "reactions": 0,
+        "ranking": 0
+      },
       "국내·해외축구": {
         "views": 0,
         "reactions": 0,
@@ -57,6 +75,36 @@
         "ranking": 50
       },
       "커뮤니티 인기": {
+        "views": 0,
+        "reactions": 0,
+        "ranking": 0
+      },
+      "더쿠 HOT": {
+        "views": 41,
+        "reactions": 0,
+        "ranking": 0
+      },
+      "개드립 인기": {
+        "views": 0,
+        "reactions": 0,
+        "ranking": 0
+      },
+      "루리웹 베스트": {
+        "views": 58,
+        "reactions": 58,
+        "ranking": 0
+      },
+      "보배드림 베스트": {
+        "views": 90,
+        "reactions": 90,
+        "ranking": 0
+      },
+      "인스티즈 이슈": {
+        "views": 71,
+        "reactions": 15,
+        "ranking": 0
+      },
+      "엠팍 BEST": {
         "views": 0,
         "reactions": 0,
         "ranking": 0
