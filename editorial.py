@@ -489,18 +489,20 @@ def _compact_row(story, index, state, width, featured=False):
     return row
 
 
-def render_digest(stories, counts, errors, state, now=None):
+def render_digest(stories, counts, errors, state, now=None, excluded=0):
     now = int(now or time.time())
     ordered = digest_stories(stories, state)
     for width in (40, 32, 24, 16):
         header = [f"<b>⚡ btp 소재함 · {stamp(now)}</b>",
                   " · ".join(f"{html.escape(SOURCE_LABELS.get(name, name))} {count}" for name, count in counts.items())]
+        if excluded:
+            header.append(f"새 소재 {len(ordered)}개 · 중복 {excluded}개 제외")
         if errors:
             failed = [SOURCE_LABELS.get(name, name) for name in errors if not name.startswith("텔레그램")]
             if failed:
                 header.append("⚠ " + html.escape("·".join(failed)) + " 수집 불가")
         if not ordered:
-            header.append("이번 회차에 수집된 소재가 없습니다.")
+            header.append("이번 회차에 새로 보낼 소재가 없습니다.")
         else:
             header += ["", "<b>🔥 먼저 볼 5개</b>" if len(ordered) >= 5 else "<b>🔥 먼저 볼 소재</b>"]
             header.extend(_compact_row(s, i, state, width, True) for i, s in enumerate(ordered[:5], 1))

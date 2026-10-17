@@ -12,9 +12,10 @@ from pathlib import Path
 import requests
 from cryptography.fernet import Fernet, InvalidToken
 
-from editorial import STATUS_NAMES, link, message_units, pack_cards, render_info
+from editorial import STATUS_NAMES, item_id, link, message_units, pack_cards, render_info, title_key
 
 PRIVATE_FILE = Path("data/editor.enc")
+CONTENT_RETENTION = 7 * 86400
 
 
 class TelegramError(RuntimeError):
@@ -121,6 +122,46 @@ def catalog(history):
     return stories
 
 
+def story_content_keys(story):
+    keys = {"item:" + story["id"]}
+    for row in story["members"]:
+        keys.add("item:" + item_id(row["link"]))
+        headline = title_key(row["title"])
+        if len(headline) >= 10:
+            keys.add("title:" + hashlib.sha256(headline.encode()).hexdigest())
+    return keys
+
+
+def unreported_stories(stories, history, private, now=None):
+    """Migrate prior delivery ledgers, then exclude content already sent/uncertain."""
+    now = int(now or time.time())
+    cutoff = now - CONTENT_RETENTION
+    seen = {key: at for key, at in private.data.get("content_history", {}).items() if at >= cutoff}
+    by_story = {}
+    for key, row in history["items"].items():
+        story_id = row.get("story_id", key)
+        by_story.setdefault(story_id, set()).update(story_content_keys({"id": story_id, "members": [row]}))
+    for report in private.data["reports"].values():
+        at = report["started_at"]
+        if at < cutoff or not (report.get("done") or report.get("message_ids") or report.get("uncertain")):
+            continue
+        keys = set(report.get("content_keys", []))
+        for story_id in report.get("numbers", {}).values():
+            keys.add("item:" + story_id)
+            keys.update(by_story.get(story_id, set()))
+        for key in keys:
+            seen[key] = max(seen.get(key, 0), at)
+    private.data["content_history"] = seen
+    private.save()
+    return [story for story in stories if not story_content_keys(story).intersection(seen)]
+
+
+def remember_report_content(private, report, now):
+    seen = private.data.setdefault("content_history", {})
+    for key in report.get("content_keys", []):
+        seen[key] = max(seen.get(key, 0), now)
+
+
 def help_text(username):
     suffix = "@" + username if username else ""
     return ("<b>btp 소재 선정</b>\n"
@@ -199,7 +240,7 @@ def process_commands(client, private, history, now=None):
     return handled
 
 
-def deliver_report(client, parts, private, report_key, now=None, numbers=None):
+def deliver_report(client, parts, private, report_key, now=None, numbers=None, content_keys=None):
     now = int(now or time.time())
     if len(parts) != 1:
         raise TelegramError("자동 소재함은 시간당 메시지 1개만 보낼 수 있습니다")
@@ -219,7 +260,7 @@ def deliver_report(client, parts, private, report_key, now=None, numbers=None):
         raise DeliveryUncertain("이 보고서의 이전 전송 결과 확인이 필요합니다")
     if not report:
         report = {"parts": parts, "next": 0, "started_at": now, "message_ids": [],
-                  "done": False, "numbers": numbers or {}}
+                  "done": False, "numbers": numbers or {}, "content_keys": sorted(set(content_keys or []))}
         reports[report_key] = report
         private.save()
     sent = 0
@@ -228,10 +269,12 @@ def deliver_report(client, parts, private, report_key, now=None, numbers=None):
             message_id = client.send(report["parts"][index])
         except DeliveryUncertain:
             report["uncertain"] = True
+            remember_report_content(private, report, now)
             private.save()
             raise
         report["message_ids"].append(message_id)
         report["next"] = index + 1
+        remember_report_content(private, report, now)
         private.save()
         sent += 1
     report["done"] = True

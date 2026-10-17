@@ -13,7 +13,8 @@ from playwright.sync_api import TimeoutError as PlaywrightTimeoutError, sync_pla
 
 from editorial import HISTORY_FILE, atomic_json, digest_numbers, enrich, load_history, observe, render_digest
 from report_timing import hourly_key, recovery_target, scheduled_target, wait_for_target
-from telegram_editor import PrivateState, TelegramClient, TelegramError, deliver_report, process_commands
+from telegram_editor import (PrivateState, TelegramClient, TelegramError, deliver_report,
+                             process_commands, story_content_keys, unreported_stories)
 
 
 TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
@@ -502,6 +503,10 @@ def main(commands_only=False, preview=None, scheduled=False, recover_hour=None):
         errors["텔레그램 명령"] = command_error
     now = int(time.time())
     stories, history = observe(data, history, now)
+    collected_stories = len(stories)
+    if not preview:
+        stories = unreported_stories(stories, history, private, now)
+    excluded = collected_stories - len(stories)
     enrich(stories, history, now)
     if preview:
         parts = render_digest(stories, {name: len(rows) for name, rows in data.items()}, errors, {}, now)
@@ -512,13 +517,14 @@ def main(commands_only=False, preview=None, scheduled=False, recover_hour=None):
         print("BTP PREVIEW ONLY: no Telegram calls or state writes")
         return 0
     atomic_json(HISTORY_FILE, history)
-    report = {"version": "btp-compact-v2", "stories": len(stories),
+    report = {"version": "btp-compact-v3", "stories": len(stories), "duplicates_excluded": excluded,
               "previews": sum(bool(x.get("detail", {}).get("excerpt")) for x in stories),
               "metrics": {name: {"views": sum(x.get("views") is not None for x in rows),
                                   "reactions": sum(x.get("reactions") is not None for x in rows),
                                   "ranking": sum(bool(x.get("rank_kind")) for x in rows)} for name, rows in data.items()},
               "ai": "not_connected", "delivery": "pending"}
-    parts = render_digest(stories, {name: len(rows) for name, rows in data.items()}, errors, private.data, target or now)
+    counts = {name: sum(row["source"] == name for story in stories for row in story["members"]) for name in data}
+    parts = render_digest(stories, counts, errors, private.data, target or now, excluded=excluded)
     report_key = hourly_key(target if target is not None else now)
     if target is not None and not wait_for_target(target):
         report["delivery"] = "missed_deadline"
@@ -526,7 +532,9 @@ def main(commands_only=False, preview=None, scheduled=False, recover_hour=None):
         print("BTP SCHEDULE: target hour expired; no older report replayed")
         return 1 if errors else 0
     try:
-        sent = deliver_report(client, parts, private, report_key, int(time.time()), numbers=digest_numbers(stories, private.data))
+        sent = deliver_report(client, parts, private, report_key, int(time.time()),
+                              numbers=digest_numbers(stories, private.data),
+                              content_keys={key for story in stories for key in story_content_keys(story)})
         report.update(delivery="sent" if sent else "already_sent", messages=sent)
     except TelegramError as error:
         errors["텔레그램 전송"] = str(error)
