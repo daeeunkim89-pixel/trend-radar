@@ -127,6 +127,8 @@ def story_content_keys(story):
     keys = {"item:" + story["id"]}
     for row in story["members"]:
         keys.add("item:" + item_id(row["link"]))
+        if row.get("curation_event_key"):
+            keys.add("event:" + hashlib.sha256(row["curation_event_key"].lower().strip().encode()).hexdigest())
         headline = title_key(row["title"])
         if len(headline) >= 10:
             keys.add("title:" + hashlib.sha256(headline.encode()).hexdigest())

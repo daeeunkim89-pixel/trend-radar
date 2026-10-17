@@ -1,0 +1,194 @@
+import copy
+import hashlib
+import json
+import tempfile
+import unittest
+from pathlib import Path
+from unittest.mock import Mock, patch
+
+import candidate_snapshot
+import curated_report as c
+import editorial as e
+import report_request
+from report_timing import hourly_key, prepared_target
+from telegram_editor import DeliveryUncertain, PrivateState, story_content_keys
+
+NOW = 1792235100
+HOUR = NOW // 3600 * 3600
+HOUR_TEXT = hourly_key(HOUR).removeprefix("hourly-")
+EMPTY = {"version": 1, "items": {}}
+
+
+def pick(number=1):
+    url = f"https://example.org/story/{number}"
+    return {"title": f"선수의 뜻밖의 행동과 확인된 변화 {number}", "category": "축구", "url": url,
+            "source": "공개 원문", "kind": "community", "event_key": f"confirmed-event-{number}",
+            "why": "경기 결과보다 예상과 다른 행동이 한 장면으로 드러난다.",
+            "angle": "선수의 행동과 상대 반응을 순서대로 배치한다.",
+            "why_now": "이번 시간 원문에서 공개된 장면을 확인했다.", "verified_at": NOW,
+            "published_at": NOW - 120, "evidence": [{"url": url, "note": "본문에서 행동과 반응 확인"}],
+            "materials": [{"url": url, "kind": "source", "label": "원문 자료"}], "caution": ""}
+
+
+def edition(picks=None, hour=HOUR_TEXT):
+    picks = [pick()] if picks is None else picks
+    return {"version": 1, "hour_utc": hour, "reviewer": "ChatGPT", "generated_at": NOW,
+            "coverage": {"queries": ["축구 장면", "아이돌 팬 반응", "시사 영향", "스포츠 주요 소식"],
+                         "opened_urls": list({p["url"] for p in picks}), "unavailable": []},
+            "picks": picks, "empty_reason": "새로 추천할 만큼 확인된 소재가 없었다." if not picks else ""}
+
+
+class EditorialEditionTests(unittest.TestCase):
+    def setUp(self):
+        directory = tempfile.TemporaryDirectory()
+        self.addCleanup(directory.cleanup)
+        self.directory = Path(directory.name)
+        self.path = self.directory / "picks.json"
+
+    def write(self, value):
+        self.path.write_text(json.dumps(value, ensure_ascii=False) + "\n", encoding="utf-8")
+
+    def test_agent_judgment_survives_old_keyword_gate_and_renders_actionable_first_pick(self):
+        value = edition([pick(1), pick(2)])
+        self.write(value)
+        reviewed = c.load_edition(self.path, HOUR, NOW)
+        stories, history = c.build_stories(reviewed, EMPTY, NOW)
+        self.assertEqual([s["lead"]["title"] for s in stories], [p["title"] for p in value["picks"]])
+        self.assertIsNone(__import__("selection").qualify(stories[0]))
+        message = c.render_edition(stories, HOUR, "")[0]
+        self.assertIn("🔥 지금 1순위", message)
+        for p in value["picks"]:
+            self.assertIn(p["why"], message)
+            self.assertIn(p["angle"], message)
+            self.assertIn(p["url"], message)
+        self.assertLess(e.message_units(message), 3900)
+        self.assertEqual(len(history["items"]), 2)
+        record = history["items"][stories[0]["lead"]["item_id"]]
+        info = e.render_info(record, stories[0]["id"])
+        self.assertIn(value["picks"][0]["why_now"], info)
+        self.assertIn("확인 출처", info)
+
+    def test_wrong_hour_stale_review_and_early_preparation_are_rejected(self):
+        for value, target, now in ((edition(hour="2026101710"), HOUR, NOW),
+                                   (edition(), HOUR, NOW + 75 * 60 + 1),
+                                   (edition(hour=hourly_key(HOUR + 3600)[7:]), HOUR + 3600, NOW)):
+            with self.subTest(target=target, now=now):
+                self.write(value)
+                with self.assertRaises(ValueError):
+                    c.load_edition(self.path, target, now)
+
+    def test_missing_evidence_unopened_material_and_same_event_are_not_accepted(self):
+        bad = []
+        value = edition(); value["picks"][0]["evidence"] = []; bad.append(value)
+        value = edition(); value["picks"][0]["materials"][0]["url"] = "https://other.example/unchecked"; bad.append(value)
+        value = edition([pick(1), pick(2)]); value["picks"][1]["event_key"] = value["picks"][0]["event_key"]; bad.append(value)
+        value = edition(); value["picks"][0]["url"] = "http://127.0.0.1/private"; bad.append(value)
+        value = edition(); value["coverage"]["queries"] = ["one field only"]; bad.append(value)
+        for value in bad:
+            self.write(value)
+            with self.assertRaises(ValueError):
+                c.load_edition(self.path, HOUR, NOW)
+
+    def test_maximum_edition_stays_one_message_and_escapes_html(self):
+        value = edition([pick(i) for i in range(5)])
+        for p in value["picks"]:
+            p.update(title="<b>" + "제" * 80, why="이" * 180, angle="각" * 150, caution="주" * 150)
+        self.write(value)
+        stories, _ = c.build_stories(c.load_edition(self.path, HOUR, NOW), EMPTY, NOW)
+        parts = c.render_edition(stories, HOUR, "")
+        self.assertEqual(len(parts), 1)
+        self.assertIn("&lt;b&gt;", parts[0])
+        self.assertLessEqual(e.message_units(parts[0]), 3900)
+
+    def test_pinned_hash_catches_edits_after_request_and_preview_never_connects(self):
+        self.write(edition())
+        digest = hashlib.sha256(self.path.read_bytes()).hexdigest()
+        self.path.write_text(self.path.read_text() + " ")
+        with self.assertRaises(ValueError):
+            c.load_edition(self.path, HOUR, NOW, digest)
+        self.write(edition())
+        with patch.object(c.time, "time", return_value=NOW), patch.object(c, "load_history", return_value=EMPTY), \
+                patch.object(c, "TelegramClient") as client, patch.object(c, "PrivateState") as private, \
+                patch.object(c, "atomic_json") as write:
+            self.assertEqual(c.main(recover_hour=HOUR_TEXT, picks_file=self.path, preview=True), 0)
+            client.assert_not_called(); private.assert_not_called(); write.assert_not_called()
+
+    def test_event_identity_blocks_reworded_cross_site_repost_and_shared_material(self):
+        p1, p2 = pick(1), pick(2)
+        value = edition([p1]); self.write(value)
+        old, history = c.build_stories(c.load_edition(self.path, HOUR, NOW), EMPTY, NOW)
+        keys = story_content_keys(old[0])
+        p2["event_key"] = p1["event_key"]
+        new, _ = c.build_stories(edition([p2]), history, NOW + 3600)
+        self.assertTrue(keys.intersection(story_content_keys(new[0])))
+        p2["event_key"] = "different-event"; p2["materials"] = p1["materials"]
+        together, _ = c.build_stories(edition([p1, p2]), EMPTY, NOW)
+        self.assertEqual(len(c.same_event_filter(together)), 1)
+
+    def test_actual_delivery_once_then_no_second_send_and_no_mock_counts_as_status(self):
+        self.write(edition())
+        private = PrivateState("synthetic-token", "-123456", self.directory / "editor.enc")
+        client = Mock(send=Mock(return_value=123))
+        with patch.object(c.time, "time", return_value=NOW), patch.object(c, "load_history", return_value=EMPTY), \
+                patch.object(c, "TelegramClient", return_value=client), patch.object(c, "PrivateState", return_value=private), \
+                patch.object(c, "atomic_json") as write, patch.object(c, "wait_for_target", return_value=True):
+            self.assertEqual(c.main(recover_hour=HOUR_TEXT, picks_file=self.path), 0)
+            client.send.assert_called_once()
+            saved = [call.args[1] for call in write.call_args_list if call.args[0] == c.STATE_FILE]
+            self.assertEqual(saved[0]["report"]["delivery"], "sent")
+            self.assertEqual(saved[0]["report"]["ai"], "chatgpt_web_research")
+            self.assertEqual(private.data["reports"][hourly_key(HOUR)]["numbers"], {"1": e.item_id(pick()["url"])})
+            self.assertEqual(c.main(recover_hour=HOUR_TEXT, picks_file=self.path), 0)
+            client.send.assert_called_once()
+
+    def test_uncertain_delivery_cannot_be_automatically_retried(self):
+        self.write(edition())
+        private = PrivateState("synthetic-token", "-123456", self.directory / "editor.enc")
+        client = Mock(send=Mock(side_effect=DeliveryUncertain("synthetic uncertain result")))
+        with patch.object(c.time, "time", return_value=NOW), patch.object(c, "load_history", return_value=EMPTY), \
+                patch.object(c, "TelegramClient", return_value=client), patch.object(c, "PrivateState", return_value=private), \
+                patch.object(c, "atomic_json"), patch.object(c, "wait_for_target", return_value=True):
+            self.assertEqual(c.main(recover_hour=HOUR_TEXT, picks_file=self.path), 1)
+            self.assertEqual(c.main(recover_hour=HOUR_TEXT, picks_file=self.path), 1)
+            client.send.assert_called_once()
+
+    def test_empty_edition_has_no_junk_filler(self):
+        self.write(edition([]))
+        reviewed = c.load_edition(self.path, HOUR, NOW)
+        parts = c.render_edition([], HOUR, reviewed["empty_reason"])
+        self.assertEqual(len(parts), 1)
+        self.assertNotIn('<a href="', parts[0])
+        self.assertIn("강하게 추천할 새 소재는 없습니다", parts[0])
+
+    def test_prepared_request_is_bound_to_content_and_only_imminent_hour(self):
+        target = HOUR + 3600
+        self.assertEqual(prepared_target(hourly_key(target)[7:], target - 1200), target)
+        for clock in (target - 1201, target + 3600):
+            with self.assertRaises(ValueError):
+                prepared_target(hourly_key(target)[7:], clock)
+        self.write(edition())
+        request = {"version": 2, "hour_utc": HOUR_TEXT,
+                   "editorial_sha256": hashlib.sha256(self.path.read_bytes()).hexdigest()}
+        request_path = self.directory / "request.json"
+        request_path.write_text(json.dumps(request))
+        sender = Mock(return_value=0)
+        self.assertEqual(report_request.run(request_path, NOW, sender, self.path), 0)
+        sender.assert_called_once_with(prepared_hour=HOUR_TEXT, expected_sha256=request["editorial_sha256"])
+        sender.reset_mock(); self.path.write_text("changed")
+        self.assertEqual(report_request.run(request_path, NOW, sender, self.path), 2)
+        sender.assert_not_called()
+
+    def test_discovery_refresh_writes_only_public_inputs_and_never_uses_telegram(self):
+        row = {"source": "공개 목록", "title": "새로운 경기 장면", "link": "https://example.org/new", "rank": 1,
+               "views": None, "reactions": None}
+        with patch.object(candidate_snapshot, "load_history", return_value=EMPTY), \
+                patch.object(candidate_snapshot, "collect", return_value=({"공개 목록": [row]}, {"차단 소스": "HTTP 430"})), \
+                patch.object(candidate_snapshot, "enrich"), patch.object(candidate_snapshot, "atomic_json") as write, \
+                patch("monitor.TelegramClient") as client:
+            self.assertEqual(candidate_snapshot.run(), 1)
+            self.assertEqual({call.args[0] for call in write.call_args_list}, {e.HISTORY_FILE, candidate_snapshot.SNAPSHOT_FILE})
+            client.assert_not_called()
+
+
+if __name__ == "__main__":
+    unittest.main()

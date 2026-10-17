@@ -25,6 +25,16 @@ def hourly_key(target):
     return "hourly-" + datetime.fromtimestamp(target, timezone.utc).strftime("%Y%m%d%H")
 
 
+def prepared_target(value, now):
+    """A reviewed edition can be prepared in the last twenty minutes before its hour."""
+    if not isinstance(value, str) or len(value) != 10 or not value.isascii() or not value.isdigit():
+        raise ValueError("Prepared hour must use UTC YYYYMMDDHH")
+    target = int(datetime.strptime(value, "%Y%m%d%H").replace(tzinfo=timezone.utc).timestamp())
+    if not -20 * 60 <= now - target < 3600:
+        raise ValueError("Prepared edition is outside the current or imminent hour")
+    return target
+
+
 def wait_for_target(target, clock=None, sleep=None):
     clock = clock or time.time
     sleep = sleep or time.sleep

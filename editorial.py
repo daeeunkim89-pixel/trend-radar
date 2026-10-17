@@ -607,6 +607,24 @@ def render_digest(stories, counts, errors, state, now=None, excluded=0):
 
 
 def render_info(record, key, status=None):
+    if record.get("editorial"):
+        p = record["editorial"]
+        lines = [link(record["title"], record["link"]),
+                 html.escape(p["category"]) + " · " + STATUS_NAMES.get(status, "미선정"),
+                 "왜 지금: " + html.escape(p["why_now"]),
+                 "btp 포인트: " + html.escape(p["why"]),
+                 "제작 각도: " + html.escape(p["angle"])]
+        for evidence in p["evidence"]:
+            lines.append(link("확인 출처", evidence["url"]) + " · " + html.escape(evidence["note"]))
+        for material in p["materials"]:
+            lines.append(link(material["label"], material["url"]))
+        lines.append("원문 확인: " + stamp(p["verified_at"]))
+        if p.get("published_at"):
+            lines.append("출처 게시 시각: " + stamp(p["published_at"]) + " · 사건 발생일 아님")
+        if p["caution"]:
+            lines.append("확인: " + html.escape(p["caution"]))
+        lines.append(f"소재 ID <code>{key}</code>")
+        return "\n".join(lines)
     samples = record.get("samples", [])
     last = samples[-1] if samples else {}
     row = {**record, "source": record.get("source", "선정 소재"), "rank": last.get("rank", 0), "views": last.get("views"),

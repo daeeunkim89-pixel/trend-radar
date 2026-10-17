@@ -10,6 +10,8 @@ on:
       - discovery.py
       - communities.py
       - fmkorea_indirect.py
+      - curated_report.py
+      - candidate_snapshot.py
       - telegram_editor.py
       - report_timing.py
       - report_request.py
@@ -29,6 +31,8 @@ on:
       - discovery.py
       - communities.py
       - fmkorea_indirect.py
+      - curated_report.py
+      - candidate_snapshot.py
       - telegram_editor.py
       - report_timing.py
       - report_request.py

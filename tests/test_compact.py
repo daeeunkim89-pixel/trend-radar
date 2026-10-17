@@ -84,7 +84,9 @@ class CompactReportTests(unittest.TestCase):
         self.assertNotIn("push:", connection)
         self.assertNotIn("'sendMessage'", connection)
         self.assertIn('cron: "40,50,5 * * * *"', scheduled)
-        self.assertIn("python monitor.py --scheduled-report", scheduled)
+        self.assertIn("python -u candidate_snapshot.py", scheduled)
+        self.assertNotIn("TELEGRAM_BOT_TOKEN", scheduled)
+        self.assertNotIn("--scheduled-report", scheduled)
         self.assertNotIn("workflow_dispatch:", scheduled)
 
 
