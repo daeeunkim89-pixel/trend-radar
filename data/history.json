@@ -1,6 +1,946 @@
 {
   "version": 1,
   "items": {
+    "aa443b183e0f": {
+      "source": "Independent · IFAB",
+      "title": "박스 안 박치기로 퇴장…그런데 리버풀 PK는 없었다",
+      "link": "https://www.independent.co.uk/sport/football/yarmolyuk-red-card-penalty-liverpool-brentford-premier-league-b3068569.html",
+      "first_seen_at": 1792268018,
+      "last_seen_at": 1792268018,
+      "samples": [
+        {
+          "at": 1792268018,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "aa443b183e0f",
+      "editorial": {
+        "title": "박스 안 박치기로 퇴장…그런데 리버풀 PK는 없었다",
+        "category": "축구",
+        "url": "https://www.independent.co.uk/sport/football/yarmolyuk-red-card-penalty-liverpool-brentford-premier-league-b3068569.html",
+        "source": "Independent · IFAB",
+        "kind": "article",
+        "event_key": "yarmolyuk-jacquet-headbutt-red-no-penalty-20261017",
+        "why": "축구 보는 친구에게 “이건 왜 PK가 아니지?” 하고 보낼 장면. 박치기와 퇴장, 재개 규정의 차이가 한 컷으로 읽힌다.",
+        "angle": "자케가 쓰러지는 장면 위 “퇴장은 맞고, PK는 아니다?”",
+        "why_now": "10월 17일 브렌트퍼드-리버풀 전반 추가시간의 실제 장면. 경기 영상과 당일 판정 설명, IFAB 재개 규정을 대조했다.",
+        "verified_at": 1792266651,
+        "published_at": 1792250210,
+        "evidence": [
+          {
+            "url": "https://www.independent.co.uk/sport/football/yarmolyuk-red-card-penalty-liverpool-brentford-premier-league-b3068569.html",
+            "note": "야르몰류크의 박치기 동작에 VAR 후 퇴장. 코너킥을 차기 전 공이 인플레이 상태가 아니어서 PK 없이 코너킥으로 재개했다고 설명한다."
+          },
+          {
+            "url": "https://www.theifab.com/laws/latest/fouls-and-misconduct/",
+            "note": "12조: 공이 아웃오브플레이일 때는 앞서 정해진 재개 방식으로 재개한다. 폭력 행위의 퇴장 처벌과 PK 부여는 별개다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://video.twimg.com/tweet_video/HU1zUImWYAAGv5X.mp4",
+            "label": "박치기 동작 5초 원본",
+            "kind": "video"
+          },
+          {
+            "url": "https://www.theifab.com/laws/latest/fouls-and-misconduct/",
+            "label": "IFAB 12조",
+            "kind": "source"
+          }
+        ],
+        "caution": "5초 클립의 연속 프레임 확인. 퇴장 판정은 기사로 교차 확인. 오심이나 PK 판정 번복 사건으로 쓰지 않기.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-17",
+          "observation": "코너킥 대기 중 야르몰류크가 자케 쪽으로 머리를 내미는 동작과 자케가 뒤로 넘어지는 과정을 연속 프레임으로 확인했다. 공은 아직 코너에서 투입되지 않았다.",
+          "checked_materials": [
+            "https://video.twimg.com/tweet_video/HU1zUImWYAAGv5X.mp4"
+          ],
+          "outline": [
+            "머리를 내미는 동작→자케가 넘어지는 연속 컷",
+            "퇴장 O / PK X를 나란히 표시",
+            "코너킥 전에는 공이 인플레이가 아니었다는 판정 이유와 IFAB 규정"
+          ]
+        }
+      },
+      "detail": {
+        "format": "원본 영상",
+        "media": [
+          {
+            "url": "https://video.twimg.com/tweet_video/HU1zUImWYAAGv5X.mp4",
+            "label": "박치기 동작 5초 원본",
+            "kind": "video"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "박치기 동작 5초 원본",
+            "url": "https://video.twimg.com/tweet_video/HU1zUImWYAAGv5X.mp4"
+          },
+          {
+            "label": "IFAB 12조",
+            "url": "https://www.theifab.com/laws/latest/fouls-and-misconduct/"
+          }
+        ],
+        "excerpt": "",
+        "context": "10월 17일 브렌트퍼드-리버풀 전반 추가시간의 실제 장면. 경기 영상과 당일 판정 설명, IFAB 재개 규정을 대조했다.",
+        "fetched_at": 1792268018,
+        "parser_revision": 7
+      },
+      "curation_event_key": "yarmolyuk-jacquet-headbutt-red-no-penalty-20261017"
+    },
+    "8c635fff3f33": {
+      "source": "연합뉴스 · 베스티 측",
+      "title": "13년 전 노래의 역주행…베스티 네 멤버가 다시 모인다",
+      "link": "https://www.yna.co.kr/view/AKR20261017020400005",
+      "first_seen_at": 1792268018,
+      "last_seen_at": 1792268018,
+      "samples": [
+        {
+          "at": 1792268018,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "8c635fff3f33",
+      "editorial": {
+        "title": "13년 전 노래의 역주행…베스티 네 멤버가 다시 모인다",
+        "category": "아이돌",
+        "url": "https://www.yna.co.kr/view/AKR20261017020400005",
+        "source": "연합뉴스 · 베스티 측",
+        "kind": "article",
+        "event_key": "bestie-four-member-reunion-love-options-20261016",
+        "why": "‘이 노래가 베스티였어?’라는 숏폼 이용자에게 보낼 결말. 옛 노래의 재유행이 실제 네 멤버 재결합으로 이어졌다.",
+        "angle": "네 멤버의 현재 사진 위 “13년 전 노래가 다시 모았다”",
+        "why_now": "16일 다혜의 재결합 발표에 이어 17일 베스티 측이 혜연·유지·다혜·해령 완전체 활동 합의를 확인. 곡 발매 13주년이다.",
+        "verified_at": 1792267196,
+        "published_at": 1792198869,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261017020400005",
+            "note": "17일 베스티 측이 네 멤버의 완전체 활동 합의를 확인했다. 2013년 10월 17일 발매된 연애의 조건이 숏폼 재조명 후 차트에 재진입했다."
+          },
+          {
+            "url": "https://www.soompi.com/article/1879056wpp/bestie-announces-reunion-after-11-years",
+            "note": "다혜가 10월 16일 Instagram에서 재결합을 알렸다고 보도한다. 11년은 마지막 앨범 이후의 기간이며 해체 후 기간과 구분한다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://img9.yna.co.kr/etc/inner/KR/2026/10/17/AKR20261017020400005_01_i_P4.jpg",
+            "label": "네 멤버가 함께한 현재 사진",
+            "kind": "image"
+          },
+          {
+            "url": "https://www.soompi.com/article/1879056wpp/bestie-announces-reunion-after-11-years",
+            "label": "16일 최초 발표 보도",
+            "kind": "source"
+          }
+        ],
+        "caution": "새 앨범·공연 일정은 확인되지 않음. 단체 사진 확인, 새 춤 영상은 미시청. 기사 사진은 멤버 SNS 제공 표기.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-16",
+          "observation": "연애의 조건 재유행을 계기로 네 멤버가 완전체 활동에 합의했다는 발표를 교차 확인했다. 제공된 현재 단체 사진에서 네 멤버가 함께 포즈를 취하는 모습을 확인했다.",
+          "checked_materials": [
+            "https://img9.yna.co.kr/etc/inner/KR/2026/10/17/AKR20261017020400005_01_i_P4.jpg"
+          ],
+          "outline": [
+            "현재 네 멤버 단체 사진과 완전체 재결합 소식",
+            "연애의 조건: 2013.10.17 발매→13년 뒤 숏폼 재유행",
+            "16일 멤버 발표·17일 베스티 측 확인 / 향후 활동 세부 일정 미정"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [
+          {
+            "url": "https://img9.yna.co.kr/etc/inner/KR/2026/10/17/AKR20261017020400005_01_i_P4.jpg",
+            "label": "네 멤버가 함께한 현재 사진",
+            "kind": "image"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "네 멤버가 함께한 현재 사진",
+            "url": "https://img9.yna.co.kr/etc/inner/KR/2026/10/17/AKR20261017020400005_01_i_P4.jpg"
+          },
+          {
+            "label": "16일 최초 발표 보도",
+            "url": "https://www.soompi.com/article/1879056wpp/bestie-announces-reunion-after-11-years"
+          }
+        ],
+        "excerpt": "",
+        "context": "16일 다혜의 재결합 발표에 이어 17일 베스티 측이 혜연·유지·다혜·해령 완전체 활동 합의를 확인. 곡 발매 13주년이다.",
+        "fetched_at": 1792268018,
+        "parser_revision": 7
+      },
+      "curation_event_key": "bestie-four-member-reunion-love-options-20261016"
+    },
+    "118cf9a888e8": {
+      "source": "ESPN · Miami Dade College",
+      "title": "NBA 명예의 전당에서 경찰학교로…43세 스타더마이어의 새 출발",
+      "link": "https://www.espn.com/nba/story/_/id/50189623/amare-stoudemire-law-enforcement-academy-police",
+      "first_seen_at": 1792268018,
+      "last_seen_at": 1792268018,
+      "samples": [
+        {
+          "at": 1792268018,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "118cf9a888e8",
+      "editorial": {
+        "title": "NBA 명예의 전당에서 경찰학교로…43세 스타더마이어의 새 출발",
+        "category": "메이저 스포츠",
+        "url": "https://www.espn.com/nba/story/_/id/50189623/amare-stoudemire-law-enforcement-academy-police",
+        "source": "ESPN · Miami Dade College",
+        "kind": "article",
+        "event_key": "amare-stoudemire-police-academy-graduation-20261014",
+        "why": "2000년대 NBA를 보던 친구에게 보내기 좋은 근황. 코트의 스타가 다른 졸업생들 사이에서 제복 입고 서 있는 대비가 선명하다.",
+        "angle": "제복 입은 졸업 사진부터 “이 신입, 어디서 봤지?”",
+        "why_now": "10월 14일 경찰학교 졸업을 대학이 공개했고 15일 ESPN이 확인했다. 이번 회차 공개 발송 이력에 없는 새 직업 전환 소식이다.",
+        "verified_at": 1792266918,
+        "published_at": 1792080300,
+        "evidence": [
+          {
+            "url": "https://www.espn.com/nba/story/_/id/50189623/amare-stoudemire-law-enforcement-academy-police",
+            "note": "43세 아마레 스타더마이어가 Miami Dade College 기본 법집행 아카데미를 졸업했다. 이후 Miami-Dade Schools Police의 내부 훈련이 예정돼 있다."
+          },
+          {
+            "url": "https://www.livenowfox.com/news/nba-hall-famer-amare-stoudemire-begins-new-career-florida-police-officer",
+            "note": "대학 제공 졸업 사진과 행사 설명에서 2026년 10월 14일 North Campus의 BLE Class 401 졸업식임을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1015%2Fr1731202_1128x635_16-9.png",
+            "label": "제복 입은 실제 졸업 사진",
+            "kind": "image"
+          },
+          {
+            "url": "https://www.livenowfox.com/news/nba-hall-famer-amare-stoudemire-begins-new-career-florida-police-officer",
+            "label": "대학 제공 사진·행사 날짜",
+            "kind": "source"
+          }
+        ],
+        "caution": "졸업은 14일. 곧바로 독립 순찰을 시작했다는 뜻은 아니며 학교 경찰 내부 훈련이 남아 있다.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-14",
+          "observation": "대학 제공 졸업 사진에서 스타더마이어가 다른 졸업생들과 제복을 입고 증서·메달을 든 모습을 확인했다. NBA 명예의 전당 입성자의 경찰학교 졸업이라는 실제 직업 변화다.",
+          "checked_materials": [
+            "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1015%2Fr1731202_1128x635_16-9.png"
+          ],
+          "outline": [
+            "제복 단체 사진에서 스타더마이어 찾기",
+            "NBA 스타였던 인물의 43세 경찰학교 졸업이라는 정체 공개",
+            "10월 14일 졸업 / 이후 학교 경찰 내부 훈련 예정"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [
+          {
+            "url": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1015%2Fr1731202_1128x635_16-9.png",
+            "label": "제복 입은 실제 졸업 사진",
+            "kind": "image"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "제복 입은 실제 졸업 사진",
+            "url": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1015%2Fr1731202_1128x635_16-9.png"
+          },
+          {
+            "label": "대학 제공 사진·행사 날짜",
+            "url": "https://www.livenowfox.com/news/nba-hall-famer-amare-stoudemire-begins-new-career-florida-police-officer"
+          }
+        ],
+        "excerpt": "",
+        "context": "10월 14일 경찰학교 졸업을 대학이 공개했고 15일 ESPN이 확인했다. 이번 회차 공개 발송 이력에 없는 새 직업 전환 소식이다.",
+        "fetched_at": 1792268018,
+        "parser_revision": 7
+      },
+      "curation_event_key": "amare-stoudemire-police-academy-graduation-20261014"
+    },
+    "2557742ee207": {
+      "source": "BBC Sport 현장 취재",
+      "title": "골대 뒤가 바나나밭…맨시티 팬들이 바나나를 든 이유",
+      "link": "https://www.bbc.com/sport/football/articles/c9vgr6vj4mnyo",
+      "first_seen_at": 1792268018,
+      "last_seen_at": 1792268018,
+      "samples": [
+        {
+          "at": 1792268018,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "2557742ee207",
+      "editorial": {
+        "title": "골대 뒤가 바나나밭…맨시티 팬들이 바나나를 든 이유",
+        "category": "축구",
+        "url": "https://www.bbc.com/sport/football/articles/c9vgr6vj4mnyo",
+        "source": "BBC Sport 현장 취재",
+        "kind": "article",
+        "event_key": "man-city-inflatable-banana-protest-ipswich-20261017",
+        "why": "축구 친구에게 경기 결과보다 먼저 보낼 관중석 사진. 재정 규정 판정 뒤 팬들이 옛 응원 도구를 꺼내 든 맥락이 있다.",
+        "angle": "골대 뒤 노란 바나나가 가득한 실제 사진을 첫 장에",
+        "why_now": "10월 17일 입스위치전의 현장 사진과 BBC 취재를 확인했다. 재정 규정 위반 판정 후 첫 리그 홈경기에서 나온 구체적인 응원 행동이다.",
+        "verified_at": 1792266804,
+        "published_at": 1792260159,
+        "evidence": [
+          {
+            "url": "https://www.bbc.com/sport/football/articles/c9vgr6vj4mnyo",
+            "note": "17일 경기장에서 수백 개의 바나나 풍선, 프리미어리그 주제가에 대한 야유를 취재했다. 바나나는 1980년대 맨시티 응원 문화와 연결된다. 구단은 재정 규정 판정에 항소했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ecba/live/d20cec20-ca51-11f1-852c-2b93a8fc4799.png",
+            "label": "바나나가 가득한 골대 뒤",
+            "kind": "image"
+          },
+          {
+            "url": "https://www.bbc.com/sport/football/articles/c9vgr6vj4mnyo",
+            "label": "BBC 현장 설명",
+            "kind": "source"
+          }
+        ],
+        "caution": "강등·승점 삭감 확정 아님. 사진 확인, 인터뷰 영상·현장 음성은 미시청. 바나나 응원을 인종차별 행동으로 단정하지 않기.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-17",
+          "observation": "골대 뒤 관중석에 큰 노란 바나나 풍선이 다수 보이는 경기 사진을 직접 확인했다. BBC는 이를 오래된 구단 응원 문화의 부활과 판정 이후의 팬 반응으로 설명한다.",
+          "checked_materials": [
+            "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ecba/live/d20cec20-ca51-11f1-852c-2b93a8fc4799.png"
+          ],
+          "outline": [
+            "골대 뒤 바나나 풍선이 가득한 실제 경기 사진",
+            "왜 바나나인가: 1980년대 응원 도구라는 맥락",
+            "재정 규정 판정 뒤 첫 리그 홈경기 / 구단 항소 중, 처벌 미확정"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [
+          {
+            "url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ecba/live/d20cec20-ca51-11f1-852c-2b93a8fc4799.png",
+            "label": "바나나가 가득한 골대 뒤",
+            "kind": "image"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "바나나가 가득한 골대 뒤",
+            "url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ecba/live/d20cec20-ca51-11f1-852c-2b93a8fc4799.png"
+          },
+          {
+            "label": "BBC 현장 설명",
+            "url": "https://www.bbc.com/sport/football/articles/c9vgr6vj4mnyo"
+          }
+        ],
+        "excerpt": "",
+        "context": "10월 17일 입스위치전의 현장 사진과 BBC 취재를 확인했다. 재정 규정 위반 판정 후 첫 리그 홈경기에서 나온 구체적인 응원 행동이다.",
+        "fetched_at": 1792268018,
+        "parser_revision": 7
+      },
+      "curation_event_key": "man-city-inflatable-banana-protest-ipswich-20261017"
+    },
+    "548df7f1bff6": {
+      "source": "MBC 뉴스데스크 취재",
+      "title": "닥터헬기 예산이 교통 과태료에 묶였다…운항사들이 내놓은 경고",
+      "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6858701_37004.html",
+      "first_seen_at": 1792268018,
+      "last_seen_at": 1792268018,
+      "samples": [
+        {
+          "at": 1792268018,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "548df7f1bff6",
+      "editorial": {
+        "title": "닥터헬기 예산이 교통 과태료에 묶였다…운항사들이 내놓은 경고",
+        "category": "시사",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6858701_37004.html",
+        "source": "MBC 뉴스데스크 취재",
+        "kind": "article",
+        "event_key": "doctor-helicopter-rental-funding-risk-mbc-20261017",
+        "why": "가족에게도 공유할 응급 이송의 구조적 문제. 사람을 살리는 헬기의 재원이 교통 과태료라는 뜻밖의 연결이 핵심이다.",
+        "angle": "닥터헬기를 지원하는 응급의료기금, 재원 80%가 교통 과태료 등",
+        "why_now": "10월 17일 MBC가 운항사와 복지부를 취재해 임차료·기금 구조와 철수 가능성 경고를 새로 공개했다.",
+        "verified_at": 1792266731,
+        "published_at": 1792236041,
+        "evidence": [
+          {
+            "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6858701_37004.html",
+            "note": "닥터헬기 8대, 3개 민간 운항사, 대당 연평균 임차료 약 37억 원. 2011년 도입 후 임차료 인상은 한 차례 6%였다."
+          },
+          {
+            "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6858701_37004.html",
+            "note": "응급의료기금 재원의 80%가 교통 범칙금·과태료. 운항사 관계자는 1~2년 내 철수 가능성을 경고했고 복지부는 활동량에 따른 차등 지급 등을 검토한다고 밝혔다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6858701_37004.html",
+            "label": "방송 취재 본문·인터뷰",
+            "kind": "source"
+          }
+        ],
+        "caution": "이미 운항 중단·철수가 결정된 상황은 아님. 운항사의 경고와 정부 검토 단계로 구분. 방송 영상은 미시청.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-17",
+          "observation": "8대의 응급 이송 헬기 운영비 문제와 교통 과태료 중심 기금 구조를 확인했다. 운항사 철수 경고는 확인됐으나 실제 운항 중단 결정은 아니다.",
+          "checked_materials": [],
+          "outline": [
+            "닥터헬기 8대와 교통 과태료 80%의 연결",
+            "2011년 도입 후 임차료 인상 한 차례·6%라는 비용 구조",
+            "운항사 경고와 복지부의 차등 지급 검토를 나란히, 운항 중단 확정 표현 금지"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "방송 취재 본문·인터뷰",
+            "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6858701_37004.html"
+          }
+        ],
+        "excerpt": "",
+        "context": "10월 17일 MBC가 운항사와 복지부를 취재해 임차료·기금 구조와 철수 가능성 경고를 새로 공개했다.",
+        "fetched_at": 1792268018,
+        "parser_revision": 7
+      },
+      "curation_event_key": "doctor-helicopter-rental-funding-risk-mbc-20261017"
+    },
+    "2b05dd983f58": {
+      "source": "AP 야구 전문기자 취재",
+      "title": "다저스 탈락 뒤 남은 월드시리즈…35년 만의 연봉 하위권 맞대결",
+      "link": "https://apnews.com/article/small-market-world-series-6e6e2cf0e190855e349d837b5d1b079d",
+      "first_seen_at": 1792268018,
+      "last_seen_at": 1792268018,
+      "samples": [
+        {
+          "at": 1792268018,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "2b05dd983f58",
+      "editorial": {
+        "title": "다저스 탈락 뒤 남은 월드시리즈…35년 만의 연봉 하위권 맞대결",
+        "category": "메이저 스포츠",
+        "url": "https://apnews.com/article/small-market-world-series-6e6e2cf0e190855e349d837b5d1b079d",
+        "source": "AP 야구 전문기자 취재",
+        "kind": "article",
+        "event_key": "brewers-world-series-clinch-dodgers-sweep-20261015",
+        "why": "야구 친구에게 보낼 돈과 승리의 대비.",
+        "angle": "연봉 순위: 밀워키 19위 / AL 후보 25·30위",
+        "why_now": "15일 밀워키 진출 뒤, 16일 AP가 35년 만의 구도를 분석했다.",
+        "verified_at": 1792267863,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://apnews.com/article/small-market-world-series-6e6e2cf0e190855e349d837b5d1b079d",
+            "note": "8월 말 연봉 순위: 밀워키 19위, 탬파베이 25위, 클리블랜드 30위. 어느 AL 팀이 올라와도 1991년 이후 첫 하위 50% 구단끼리 결승이다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://apnews.com/article/small-market-world-series-6e6e2cf0e190855e349d837b5d1b079d",
+            "label": "AP 연봉·진출 구도 확인",
+            "kind": "source"
+          }
+        ],
+        "caution": "AL 진출팀 미정. 연봉 순위는 8월 말 기준. 우승팀·노사분규 결과 미정.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-15",
+          "observation": "밀워키의 다저스전 4연승으로 저연봉 구단끼리 월드시리즈가 확정됐다.",
+          "checked_materials": [],
+          "outline": [
+            "밀워키와 AL 후보 두 팀의 연봉 순위",
+            "1991년 이후 첫 하위권 맞대결 / 23일 개막"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "AP 연봉·진출 구도 확인",
+            "url": "https://apnews.com/article/small-market-world-series-6e6e2cf0e190855e349d837b5d1b079d"
+          }
+        ],
+        "excerpt": "",
+        "context": "15일 밀워키 진출 뒤, 16일 AP가 35년 만의 구도를 분석했다.",
+        "fetched_at": 1792268018,
+        "parser_revision": 7
+      },
+      "curation_event_key": "brewers-world-series-clinch-dodgers-sweep-20261015"
+    },
+    "34c2dcb830ea": {
+      "source": "연합뉴스 · 중국 법원 판결 보도",
+      "title": "급식 사진 예쁘게 찍으려 물감 넣은 유치원…책임자 무기징역",
+      "link": "https://www.yna.co.kr/view/AKR20261017039300089",
+      "first_seen_at": 1792268018,
+      "last_seen_at": 1792268018,
+      "samples": [
+        {
+          "at": 1792268018,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "34c2dcb830ea",
+      "editorial": {
+        "title": "급식 사진 예쁘게 찍으려 물감 넣은 유치원…책임자 무기징역",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261017039300089",
+        "source": "연합뉴스 · 중국 법원 판결 보도",
+        "kind": "article",
+        "event_key": "tianshui-kindergarten-paint-lead-poisoning-verdict-20261016",
+        "why": "부모·급식에 관심 있는 친구에게 보낼 사건의 새 결말. 홍보 사진의 색감을 위한 행동이 아이들 집단 피해와 중형으로 이어졌다.",
+        "angle": "“급식 사진 색감 때문에 물감”→“책임자 무기징역”",
+        "why_now": "피해 발생은 2025년 7월이다. 새 사실은 2026년 10월 16일 란저우 중급법원의 1심 선고이며 17일 보도로 확인했다.",
+        "verified_at": 1792267244,
+        "published_at": 1792224558,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261017039300089",
+            "note": "2025년 7월 톈수이 유치원 납중독 사건: 원아 251명 중 247명에게 혈중 납 이상 수치가 확인됐다. 홍보용 급식의 색감을 위해 식용이 아닌 물감을 넣은 경위가 보도됐다."
+          },
+          {
+            "url": "https://www.mt.co.kr/world/2026/10/17/2026101721085338949",
+            "note": "10월 16일 1심에서 실제 운영 책임자에게 무기징역, 집행 원장에게 징역 15년 등이 선고됐다고 전했다. 새로운 집단 중독 발생 소식과 구분한다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261017039300089",
+            "label": "사건 경위·새 판결",
+            "kind": "source"
+          },
+          {
+            "url": "https://www.mt.co.kr/world/2026/10/17/2026101721085338949",
+            "label": "16일 1심 선고 교차 확인",
+            "kind": "source"
+          }
+        ],
+        "caution": "2025년 피해 사건의 새 1심 판결. 확정판결·이번 달 새 중독 사건으로 쓰지 않기. 기사 자료 사진은 해당 유치원 현장이 아니다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-16",
+          "observation": "251명 중 247명에게 이상 수치가 나온 집단 피해 사건에 무기징역 등 1심 형량이 새로 선고됐다. 홍보용 색감을 위한 비식용 물감 투입이라는 경위와 사건·선고 날짜를 구분했다.",
+          "checked_materials": [],
+          "outline": [
+            "2025년 사건: 홍보 사진 색감을 위한 비식용 물감 투입",
+            "원아 251명 중 247명 혈중 납 이상 수치라는 피해 규모",
+            "2026.10.16 새 1심 판결: 책임자 무기징역 / 확정 여부와 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "사건 경위·새 판결",
+            "url": "https://www.yna.co.kr/view/AKR20261017039300089"
+          },
+          {
+            "label": "16일 1심 선고 교차 확인",
+            "url": "https://www.mt.co.kr/world/2026/10/17/2026101721085338949"
+          }
+        ],
+        "excerpt": "",
+        "context": "피해 발생은 2025년 7월이다. 새 사실은 2026년 10월 16일 란저우 중급법원의 1심 선고이며 17일 보도로 확인했다.",
+        "fetched_at": 1792268018,
+        "parser_revision": 7
+      },
+      "curation_event_key": "tianshui-kindergarten-paint-lead-poisoning-verdict-20261016"
+    },
+    "af2a309b788d": {
+      "source": "AP · 벤드 경찰 기자회견",
+      "title": "휴대전화 던진 교사, 뒤따라온 학부모…경찰이 밝힌 총격 저지 과정",
+      "link": "https://apnews.com/article/oregon-school-shooting-silver-rail-elementary-989180ae6e9aa2ed6a4239c8e3423085",
+      "first_seen_at": 1792268018,
+      "last_seen_at": 1792268018,
+      "samples": [
+        {
+          "at": 1792268018,
+          "views": null,
+          "reactions": null,
+          "rank": 8,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "af2a309b788d",
+      "editorial": {
+        "title": "휴대전화 던진 교사, 뒤따라온 학부모…경찰이 밝힌 총격 저지 과정",
+        "category": "시사",
+        "url": "https://apnews.com/article/oregon-school-shooting-silver-rail-elementary-989180ae6e9aa2ed6a4239c8e3423085",
+        "source": "AP · 벤드 경찰 기자회견",
+        "kind": "article",
+        "event_key": "bend-silver-rail-police-confirm-teacher-parent-intervention-20261016",
+        "why": "학교 총격의 참상 속에서 교사와 학부모의 실제 행동을 전하는 사건. 영웅 한 사람의 이야기로 줄이지 않고 확인된 순서를 보여준다.",
+        "angle": "“휴대전화 던진 교사→뒤따라 들어온 학부모” 확인된 순서",
+        "why_now": "총격은 10월 15일. 새 사실은 16일 벤드 경찰 기자회견에서 확인된 교사의 저항과 학부모 개입 순서다. 17일 후속 취재도 확인했다.",
+        "verified_at": 1792267025,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://apnews.com/article/oregon-school-shooting-silver-rail-elementary-989180ae6e9aa2ed6a4239c8e3423085",
+            "note": "16일 경찰 발표: 교사가 총격범에게 휴대전화를 던지고 몸싸움했다. 뒤따라 들어온 해당 학교 학부모가 교사와 몸싸움 중인 총격범을 쐈다. 15일 총격으로 어린이 3명과 교사 1명이 숨졌다."
+          },
+          {
+            "url": "https://apnews.com/article/oregon-bend-school-shooting-father-kaylub-giamanco-98a97a8046148f698884aeb0de623617",
+            "note": "17일 AP 후속 취재도 학부모의 개입을 확인했다. 다른 운전자와 교사의 역할도 있으며 혼자 모두를 구조했다는 단정은 근거가 없다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://apnews.com/article/oregon-school-shooting-silver-rail-elementary-989180ae6e9aa2ed6a4239c8e3423085",
+            "label": "경찰 확인 행동 순서",
+            "kind": "source"
+          },
+          {
+            "url": "https://apnews.com/article/oregon-bend-school-shooting-father-kaylub-giamanco-98a97a8046148f698884aeb0de623617",
+            "label": "17일 AP 후속 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "15일 사건의 16일 경찰 발표. 저지 영상은 미확인. 피해 아동 사진·범인 상세·잔혹 장면 없이 사실 카드로, 총기 효과 일반화 금지.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-16",
+          "observation": "어린이 3명과 교사 1명이 숨진 초등학교 총격의 저지 과정이 경찰 발표로 확인됐다. 교사의 저항과 이후 학부모 개입을 AP 현장 취재 본문으로 확인했으며 해당 장면 영상을 본 것은 아니다.",
+          "checked_materials": [],
+          "outline": [
+            "15일 오리건 초등학교 총격: 어린이 3명·교사 1명 사망",
+            "16일 경찰 확인: 교사가 휴대전화를 던지고 몸싸움→학부모가 뒤따라 개입",
+            "피해자 추모와 공동체 피해로 마무리, 영상 재연·범인 미화·총기 효용 단정 제외"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "경찰 확인 행동 순서",
+            "url": "https://apnews.com/article/oregon-school-shooting-silver-rail-elementary-989180ae6e9aa2ed6a4239c8e3423085"
+          },
+          {
+            "label": "17일 AP 후속 취재",
+            "url": "https://apnews.com/article/oregon-bend-school-shooting-father-kaylub-giamanco-98a97a8046148f698884aeb0de623617"
+          }
+        ],
+        "excerpt": "",
+        "context": "총격은 10월 15일. 새 사실은 16일 벤드 경찰 기자회견에서 확인된 교사의 저항과 학부모 개입 순서다. 17일 후속 취재도 확인했다.",
+        "fetched_at": 1792268018,
+        "parser_revision": 7
+      },
+      "curation_event_key": "bend-silver-rail-police-confirm-teacher-parent-intervention-20261016"
+    },
+    "031e00dfee32": {
+      "source": "파나소닉 공식 리콜·발표문",
+      "title": "세제 자동투입부에서 화재 위험…파나소닉 세탁기 64만 대 리콜",
+      "link": "https://www.panasonic.com/jp/about/product_information/c/2610.html",
+      "first_seen_at": 1792268018,
+      "last_seen_at": 1792268018,
+      "samples": [
+        {
+          "at": 1792268018,
+          "views": null,
+          "reactions": null,
+          "rank": 9,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "official",
+      "story_id": "031e00dfee32",
+      "editorial": {
+        "title": "세제 자동투입부에서 화재 위험…파나소닉 세탁기 64만 대 리콜",
+        "category": "시사",
+        "url": "https://www.panasonic.com/jp/about/product_information/c/2610.html",
+        "source": "파나소닉 공식 리콜·발표문",
+        "kind": "official",
+        "event_key": "panasonic-lx-washer-fire-recall-japan-taiwan-20261015",
+        "why": "일본 제품을 쓰는 지인에게 바로 확인을 권할 규모의 안전 소식. 편의 기능인 세제 자동투입부가 화재 위험 지점이라는 역설이 있다.",
+        "angle": "“세제 자동투입부 누수→배선 이상→화재 위험”",
+        "why_now": "10월 15일 발표된 리콜을 공식 보도자료 6쪽과 고객 안내로 확인했다. 일본 62만2527대·대만 1만8144대가 대상이다.",
+        "verified_at": 1792267030,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://news.panasonic.com/uploads/tmg_block_page_image/file/41167/jn261015-2-1.pdf",
+            "note": "공식 자료: 일본 18개 모델 622,527대와 대만 3개 모델 18,144대, 합계 640,671대. 일본 6건·대만 1건 화재를 파악했으며 인명 피해는 없다고 밝혔다."
+          },
+          {
+            "url": "https://www.panasonic.com/jp/about/product_information/c/2610.html",
+            "note": "자동투입부에서 샌 세제가 배선의 절연을 약화시켜 단락·화재를 일으킬 수 있다. 제조사는 대상 확인과 무상 교환·점검 절차를 안내한다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.panasonic.com/uploads/tmg_block_page_image/file/41167/jn261015-2-1.pdf",
+            "label": "공식 리콜 수량·원인 PDF",
+            "kind": "source"
+          },
+          {
+            "url": "https://www.panasonic.com/jp/about/product_information/c/2610.html",
+            "label": "대상 모델·고객 안내",
+            "kind": "source"
+          }
+        ],
+        "caution": "일본·대만의 특정 모델 대상. 국내 판매 전 제품 리콜·모든 파나소닉 제품 위험으로 확대하지 않기. 공식 발표상 인명 피해 없음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-15",
+          "observation": "특정 드럼 세탁기 총 640,671대의 공식 리콜과 7건의 화재를 확인했다. 자동 세제 투입부 누수와 배선 문제라는 원인이 명시됐고 대상 모델·교환 안내가 공개돼 있다.",
+          "checked_materials": [],
+          "outline": [
+            "세제 자동투입부가 화재 위험 지점이라는 리콜 원인",
+            "일본 622,527대 + 대만 18,144대 = 640,671대",
+            "공식 고객 안내의 대상 모델 확인 링크 / 인명 피해 없음과 국내 대상 미확인 명시"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "공식 리콜 수량·원인 PDF",
+            "url": "https://news.panasonic.com/uploads/tmg_block_page_image/file/41167/jn261015-2-1.pdf"
+          },
+          {
+            "label": "대상 모델·고객 안내",
+            "url": "https://www.panasonic.com/jp/about/product_information/c/2610.html"
+          }
+        ],
+        "excerpt": "",
+        "context": "10월 15일 발표된 리콜을 공식 보도자료 6쪽과 고객 안내로 확인했다. 일본 62만2527대·대만 1만8144대가 대상이다.",
+        "fetched_at": 1792268018,
+        "parser_revision": 7
+      },
+      "curation_event_key": "panasonic-lx-washer-fire-recall-japan-taiwan-20261015"
+    },
+    "5e5afe0461d2": {
+      "source": "Reuters · Asian Tour 공식",
+      "title": "국제대회는 취소·연기…사우디 아시안컵은 “일정대로 준비”",
+      "link": "https://www.channelnewsasia.com/sport/saudi-organisers-say-asian-cup-preparations-remain-track-early-2027-6465036",
+      "first_seen_at": 1792268018,
+      "last_seen_at": 1792268018,
+      "samples": [
+        {
+          "at": 1792268018,
+          "views": null,
+          "reactions": null,
+          "rank": 10,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "5e5afe0461d2",
+      "editorial": {
+        "title": "국제대회는 취소·연기…사우디 아시안컵은 “일정대로 준비”",
+        "category": "메이저 스포츠",
+        "url": "https://www.channelnewsasia.com/sport/saudi-organisers-say-asian-cup-preparations-remain-track-early-2027-6465036",
+        "source": "Reuters · Asian Tour 공식",
+        "kind": "article",
+        "event_key": "saudi-sport-cancellations-asian-cup-loc-schedule-20261016",
+        "why": "한국 대표팀 팬들이 궁금해할 대회 개최 문제. 같은 나라에서도 종목별 실제 결정이 달라 “전부 취소”라는 오해를 바로잡을 수 있다.",
+        "angle": "사이클 “취소” / 골프 “연기” / 아시안컵 “준비 계속”",
+        "why_now": "골프 연기는 15일 공식 발표. 16일 아시안컵 조직위가 기존 일정 준비를 재확인했다. 취소·연기 결정이 나온 다른 대회와 구분해 정리한다.",
+        "verified_at": 1792266924,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.channelnewsasia.com/sport/saudi-organisers-say-asian-cup-preparations-remain-track-early-2027-6465036",
+            "note": "Reuters 16일 취재: 리야드 어반 사이클 세계선수권 취소, 사우디 인터내셔널 골프 연기. 아시안컵 조직위는 2027년 1월 7일~2월 5일 원래 일정에 맞춰 준비 중이라고 밝혔다."
+          },
+          {
+            "url": "https://wp-asiantour.ocs-sport.com/blog/pif-saudi-international-postponed/",
+            "note": "Asian Tour 10월 15일 공식 발표: 11월 18~21일 사우디 인터내셔널을 연기하며 추후 안내 예정. 조직·물류상 과제 평가를 이유로 명시했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.channelnewsasia.com/sport/saudi-organisers-say-asian-cup-preparations-remain-track-early-2027-6465036",
+            "label": "종목별 결정·아시안컵 입장",
+            "kind": "source"
+          },
+          {
+            "url": "https://wp-asiantour.ocs-sport.com/blog/pif-saudi-international-postponed/",
+            "label": "골프 투어 공식 연기 발표",
+            "kind": "source"
+          }
+        ],
+        "caution": "아시안컵 취소·한국 보이콧·2034 월드컵 취소가 확정된 것은 아님. 대회별 결정을 구분하고 경기장 축소 계획을 확정으로 쓰지 않기.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-16",
+          "observation": "국제 사이클 세계선수권 취소와 500만 달러 골프 대회 연기라는 실제 결정이 나왔다. 반면 24개국 아시안컵 조직위는 원래 일정의 준비를 유지한다는 16일 입장을 냈다.",
+          "checked_materials": [],
+          "outline": [
+            "세 대회의 상태를 취소·연기·준비 계속으로 구분한 표",
+            "11월 사이클·골프 일정에 생긴 실제 변경",
+            "아시안컵은 2027.1.7~2.5 준비 중이라는 조직위 입장과 추후 변경 가능성 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "종목별 결정·아시안컵 입장",
+            "url": "https://www.channelnewsasia.com/sport/saudi-organisers-say-asian-cup-preparations-remain-track-early-2027-6465036"
+          },
+          {
+            "label": "골프 투어 공식 연기 발표",
+            "url": "https://wp-asiantour.ocs-sport.com/blog/pif-saudi-international-postponed/"
+          }
+        ],
+        "excerpt": "",
+        "context": "골프 연기는 15일 공식 발표. 16일 아시안컵 조직위가 기존 일정 준비를 재확인했다. 취소·연기 결정이 나온 다른 대회와 구분해 정리한다.",
+        "fetched_at": 1792268018,
+        "parser_revision": 7
+      },
+      "curation_event_key": "saudi-sport-cancellations-asian-cup-loc-schedule-20261016"
+    },
+    "be1977c81b74": {
+      "source": "AP · Elections Alberta",
+      "title": "“캐나다에 남을까” 알버타 19일 주민투표…당장 독립 결정은 아니다",
+      "link": "https://apnews.com/article/carney-canada-alberta-referendum-premier-smith-df29951124a012a8897bd24fdc5c07b9",
+      "first_seen_at": 1792268018,
+      "last_seen_at": 1792268018,
+      "samples": [
+        {
+          "at": 1792268018,
+          "views": null,
+          "reactions": null,
+          "rank": 11,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "be1977c81b74",
+      "editorial": {
+        "title": "“캐나다에 남을까” 알버타 19일 주민투표…당장 독립 결정은 아니다",
+        "category": "시사",
+        "url": "https://apnews.com/article/carney-canada-alberta-referendum-premier-smith-df29951124a012a8897bd24fdc5c07b9",
+        "source": "AP · Elections Alberta",
+        "kind": "article",
+        "event_key": "alberta-referendum-carney-final-unity-appeal-20261016",
+        "why": "캐나다에 가족·친구가 있는 사람부터 세계 뉴스 독자까지 공유할 큰 갈림길. 분리 독립 확정설보다 실제 투표 용지의 두 선택이 핵심이다.",
+        "angle": "투표 용지의 두 선택 “캐나다 잔류 / 향후 분리투표 절차”",
+        "why_now": "10월 16일 총리가 잔류를 촉구한 마지막 유세와 19일 투표 내용을 공식 선거 안내로 대조했다. 아직 투표 결과는 없다.",
+        "verified_at": 1792267025,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://apnews.com/article/carney-canada-alberta-referendum-premier-smith-df29951124a012a8897bd24fdc5c07b9",
+            "note": "16일 카니 총리가 에드먼턴에서 잔류를 촉구했다. 독립에 반대하는 주총리와 보수당 대표도 잔류를 호소했다. 직접 독립을 확정하는 투표는 아니라고 설명한다."
+          },
+          {
+            "url": "https://www.elections.ab.ca/elections/referendum/",
+            "note": "공식 선거 안내: 2026년 10월 19일 투표. 10번 문항은 캐나다 잔류와 향후 구속력 있는 분리투표를 위한 헌법상 절차 개시 중 선택하며, 이번 문항 결과 자체는 비구속적이다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.elections.ab.ca/elections/referendum/",
+            "label": "공식 투표 문항·날짜",
+            "kind": "source"
+          },
+          {
+            "url": "https://apnews.com/article/carney-canada-alberta-referendum-premier-smith-df29951124a012a8897bd24fdc5c07b9",
+            "label": "16일 마지막 잔류 호소",
+            "kind": "source"
+          }
+        ],
+        "caution": "투표는 19일, 아직 결과 없음. 이번 비구속 문항 통과가 즉각 독립·미국 편입을 뜻하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-16",
+          "observation": "카니 총리의 16일 최종 잔류 호소와 19일 주민투표의 공식 질문을 확인했다. 캐나다 잔류 또는 향후 분리투표 절차 개시를 묻는 비구속 문항으로 국가 분리 여부에 이르는 큰 정치적 절차다.",
+          "checked_materials": [],
+          "outline": [
+            "19일 알버타 주민투표와 잔류·향후 절차 개시의 두 선택",
+            "공식 질문 원문에 근거해 이번 결과는 비구속적임을 설명",
+            "16일 총리·주총리·야당 대표의 잔류 호소 / 결과 미정"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "공식 투표 문항·날짜",
+            "url": "https://www.elections.ab.ca/elections/referendum/"
+          },
+          {
+            "label": "16일 마지막 잔류 호소",
+            "url": "https://apnews.com/article/carney-canada-alberta-referendum-premier-smith-df29951124a012a8897bd24fdc5c07b9"
+          }
+        ],
+        "excerpt": "",
+        "context": "10월 16일 총리가 잔류를 촉구한 마지막 유세와 19일 투표 내용을 공식 선거 안내로 대조했다. 아직 투표 결과는 없다.",
+        "fetched_at": 1792268018,
+        "parser_revision": 7
+      },
+      "curation_event_key": "alberta-referendum-carney-final-unity-appeal-20261016"
+    },
     "27ebdbe6c4fb": {
       "source": "더쿠·공개 댓글 캡처",
       "title": "‘아브라카다브라 누가 골랐어?’…아이돌들의 선곡자 찾기",
@@ -65215,5 +66155,5 @@
       }
     }
   },
-  "updated_at": 1792265043
+  "updated_at": 1792268018
 }
