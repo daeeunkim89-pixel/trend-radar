@@ -6,6 +6,20 @@ Find material the editor can actually publish to @bythepulse. The requested fiel
 
 Read this file before every research run. The agent performs current web research and source review. Python validates and delivers that review; it does not infer editorial suitability from names or keyword scores. Do not describe this as an Instagram performance prediction model.
 
+## Outcome feedback and publication threshold (2026-10-17)
+
+The user explicitly reports that almost none of BTP's actual uploads came from the recommendations. Treat this as evidence that editorial selection has not met the task. Do not substitute successful delivery, number of sources, number of searches, or a polished explanation for useful recommendations. No numerical adoption rate has been measured; do not invent one. The two-item edition sent at 22:34 KST does not establish that the quality problem was solved.
+
+Apply these requirements BEFORE choosing a candidate or writing a catchy title:
+
+- For a scene-based recommendation, inspect the actual defining image or video/sequence of frames. Identify the observable moment that carries the post. An interview saying that a scene happened, an embedded player page, a thumbnail, or an unavailable clip is insufficient to recommend that scene as ready to publish. An unviewed link may still be supporting context, but a caution does not waive this threshold. Leave the candidate out until its essential material is checked.
+- For major news that can stand as a factual card, explain the concrete scale, consequence or broadly understandable significance with checked sources. A record, routine result, familiar keyword, or an interview is not automatically major. The national-festival shooting story was fact-checked, but a surprising “unofficial” label alone did not demonstrate BTP audience fit.
+- Use BTP's published posts as concrete editorial references, not proof of Instagram causation. The checked examples include the discharge cap versus a 2007 birth year (https://www.instagram.com/p/DeCSFHGCeo9/), a player's response to a negative ranking (https://www.instagram.com/p/DanRAGfCXYY/), and a celebration followed by a booking (https://www.instagram.com/p/DcV0waViflq/). State what observable action/contrast or news consequence a NEW candidate offers; “sports + unexpected action” is too generic. The available seven-post sample is still incomplete.
+- The first-frame/title proposal must be supported by the inspected material without extra assumptions. Decide whether the story deserves publication before polishing its headline. Do not rescue a weak recommendation through sensational wording or by attaching generic “why/production” text.
+- Distinguish recommended, selected for production, and actually published. A bot /pick action is not proof of an Instagram upload. Mark actual adoption only when the user explicitly confirms it or a matching BTP post is directly verified; otherwise it is unknown. Use concrete user feedback and verified later BTP posts to reassess prior decisions rather than repeatedly restating the same seven-post hypothesis.
+
+The required outcome is a short, actionable first recommendation with accessible, checked material and a defensible BTP-specific reason. Continue to research all four requested fields. Do not make up stronger candidates or replay old ones to fill a quota. Do not send an additional report merely to demonstrate a configuration change.
+
 ## Account evidence checked on 2026-10-17
 
 Instagram's logged-out profile provided its description and counts but not the recent grid. Seven individual public post pages did provide the account owner, caption, publication date, and displayed likes/comments. Six were discovered in a public directory and one through a search-indexed discussion. This is a selected sample, not a random recent sample, a complete top-post ranking, or a recent-30-post audit.
