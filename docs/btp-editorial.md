@@ -40,6 +40,20 @@ The user's positive reference is `https://m.fmkorea.com/best/10454601662` (Red V
 
 ## Editorial judgment
 
+### Production contract, revised 2026-10-18
+
+New reviews use edition **version 2**. Every recommendation must contain a `readiness` object. This records the researcher's actual observation and a usable production plan; it is not a view prediction or an automatic measure of editorial quality.
+
+- `scene`: inspect the defining image or a sequence of frames covering the actual action and consequence. Record its exact image/video URL in `checked_materials`. A player page, thumbnail, article that merely describes a clip, or a source-only link cannot satisfy this path. Text-message or comment screenshots can carry the scene only when the actual exchange is legible and its provenance and date are checked; do not turn ambiguous jokes into confirmed accusations.
+- `major_news`: explain the concrete confirmed scale or consequence. Distinguish an official decision from an allegation, proposal, future production target or an unconfirmed transfer. An ordinary result, generic fan excitement, teaser, beauty shot, minor record or injury update does not become major because its headline is polished.
+- `event_date` is the original action or new announcement's verified calendar date, not an image filename, collection timestamp or article date used as a proxy. A new follow-up must identify its new fact. An undated defining scene stays out.
+- `observation` describes exactly what was inspected, or the checked consequence that makes the fact card important. `outline` gives 2-4 concrete cards/cuts that can be produced from those facts and materials. Do not fill it with instructions such as “add reactions” when no reaction was actually checked.
+- Keep the strongest item first. Search football and idols before filling remaining space with general news; coverage targets are not a reason to force weak candidates into a category. Prefer concrete actions and contrasts over variations of the same match result or controversy.
+- The concise hourly message remains one message with up to ten new recommendations. `/info` now includes the event date, direct observation and production order. The receiver rejects a v2 review whose full details exceed one Telegram message; shorten the review instead of silently cutting evidence.
+- The account's seven previously checked posts remain a limited reference sample. On 2026-10-18 the logged-out profile, public embed and individual-post rechecks did not expose a usable recent grid (login shells/throttling). Do not describe this as a fresh recent-post audit or use the third-party directory's explicitly labelled example metrics. Actual publication, adoption, saves, shares and retention remain unknown unless directly verified or confirmed by the user.
+
+Future-hour preparation may wait up to 20 minutes. The delivery job allows 30 minutes for setup, that wait and delivery; its former 10-minute timeout was incompatible with the full preparation window. This fixes that conflict, not a guarantee that GitHub starts jobs exactly on the hour. Delayed runs still process only the actual current hour and never send a backlog.
+
 Recommend by two paths:
 
 1. **A concrete shareable scene:** a recognizable person/team/group, a specific action, and a clear surprise, contrast, reaction, or consequence. Explain what a viewer sees, not just that there is a video or many comments.
@@ -67,13 +81,13 @@ Search all four fields every hour, across Korean communities, original social/vi
 
 ```json
 {
-  "version": 1,
+  "version": 2,
   "hour_utc": "YYYYMMDDHH",
   "reviewer": "ChatGPT",
   "generated_at": 1792235100,
   "coverage": {
     "queries": ["actual football search", "actual idol search", "actual current-affairs search", "actual major-sports search"],
-    "opened_urls": ["https://example.org/actually-opened-source"],
+    "opened_urls": ["https://example.org/actually-opened-source", "https://example.org/actually-inspected-frame.jpg"],
     "unavailable": []
   },
   "picks": [
@@ -90,8 +104,15 @@ Search all four fields every hour, across Korean communities, original social/vi
       "verified_at": 1792235100,
       "published_at": null,
       "evidence": [{"url": "https://example.org/actually-opened-source", "note": "What was actually confirmed, at most 220 characters"}],
-      "materials": [{"url": "https://example.org/actually-opened-source", "label": "원문 자료", "kind": "source"}],
-      "caution": "Any material unverified detail, at most 150 characters; empty when none"
+      "materials": [{"url": "https://example.org/actually-inspected-frame.jpg", "label": "확인한 장면", "kind": "image"}, {"url": "https://example.org/actually-opened-source", "label": "원문 자료", "kind": "source"}],
+      "caution": "Any material unverified detail, at most 150 characters; empty when none",
+      "readiness": {
+        "mode": "scene",
+        "event_date": "2026-10-17",
+        "observation": "The specific defining action and consequence actually inspected; at most 240 characters",
+        "checked_materials": ["https://example.org/actually-inspected-frame.jpg"],
+        "outline": ["First card/cut using the checked material", "Next card/cut explaining the verified consequence"]
+      }
     }
   ],
   "empty_reason": ""
@@ -99,6 +120,8 @@ Search all four fields every hour, across Korean communities, original social/vi
 ```
 
 Category is exactly one of `시사`, `축구`, `메이저 스포츠`, `아이돌`. Kind is `community`, `social`, `official`, or `article`. The picks array accepts up to twenty checked candidates: ten intended recommendations followed by at most ten reserves. The Telegram report contains at most ten after deduplication. Each pick has 1-3 checked evidence objects and 0-3 materials. Material kind is `image`, `video`, or `source`; use `video` only if the actual video was inspected. All source, evidence and material URLs must appear in `coverage.opened_urls`; only public HTTPS URLs are accepted. Do not list a failed/blocked URL as opened. Use an accessible source/copy as the main URL instead.
+
+Version 2 also requires `readiness` with exactly `mode`, `event_date`, `observation`, `checked_materials`, and `outline`. Mode is `scene` or `major_news`; date is a verified `YYYY-MM-DD` no later than today's Korean date. `checked_materials` has at most three distinct URLs, each an opened image/video listed in this pick's materials; scenes require at least one. Major news may have none and must not claim a video was watched. `outline` has 2-4 steps of at most 120 characters each. The example inspected-frame URL must also be in `coverage.opened_urls` and the pick's `materials`; replace every example URL with the real reviewed source. Legacy version 1 remains readable for pinned historical requests, but new curation must use version 2.
 
 `published_at` is a verified source publication epoch or null, never an inferred incident time. `verified_at` is the actual time the source was opened. Review age cannot exceed 75 minutes and preparation cannot precede the target by more than 20 minutes. `event_key` identifies the underlying event, not the new headline; reuse earlier keys from history/state. For a genuinely new follow-up, explain the new fact in `why_now` and use a new event key.
 
@@ -113,3 +136,4 @@ Request format, with a final newline:
 Use `github_create_tree` with the latest main tree, create a commit whose sole parent is the current head, and update main with `expected_sha` and `force=false`. Include only the two data files. If the lease fails, read the new state/request before deciding whether a write is still needed. Never force push, edit credentials, clear the ledger, or resend a completed hour.
 
 Preserve one compact scheduled Telegram message per hour. Only a new explicit user instruction such as “보내봐” authorizes one additional on-demand reviewed edition. In that case use a current-hour version-3 request with exactly `version`, `hour_utc`, `editorial_sha256`, and `mode: "user_requested"`. Its pinned content hash is its separate one-time delivery identity; it still uses the same approved group and seven-day content/uncertain-delivery protections. Repeated polling or retries must reuse that exact request, never generate another hash to force a send. An entirely duplicate on-demand edition sends nothing. Scheduled tasks must use version 2 and must not use this exception. No automatic Instagram uploads are authorized.
+

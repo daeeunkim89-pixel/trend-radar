@@ -7,11 +7,12 @@ import json
 import os
 import re
 import time
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import urlsplit
 
 from editorial import (HISTORY_FILE, atomic_json, canonical_url,
-                       link, load_history, message_units, observe, stamp)
+                       link, load_history, message_units, observe, render_info, stamp)
 from report_timing import hourly_key, prepared_target, recovery_target, wait_for_target
 from telegram_editor import (DeliveryUncertain, PrivateState, TelegramClient, TelegramError,
                              deliver_report, story_content_keys, unreported_stories)
@@ -71,7 +72,7 @@ def load_edition(path, target, now=None, expected_sha256=None):
     edition = json.loads(raw)
     required = {"version", "hour_utc", "reviewer", "generated_at", "coverage", "picks", "empty_reason"}
     if (not isinstance(edition, dict) or set(edition) != required or type(edition["version"]) is not int
-            or edition["version"] != 1 or edition["reviewer"] != "ChatGPT"
+            or edition["version"] not in (1, 2) or edition["reviewer"] != "ChatGPT"
             or edition["hour_utc"] != hourly_key(target).removeprefix("hourly-")):
         raise ValueError("Invalid or wrong-hour editorial edition")
     generated = timestamp(edition["generated_at"], now, "generated_at", 75 * 60)
@@ -98,6 +99,8 @@ def load_edition(path, target, now=None, expected_sha256=None):
     for pick in picks:
         fields = {"title", "category", "url", "source", "kind", "event_key", "why", "angle", "why_now",
                   "verified_at", "published_at", "evidence", "materials", "caution"}
+        if edition["version"] == 2:
+            fields.add("readiness")
         if not isinstance(pick, dict) or set(pick) != fields:
             raise ValueError("Invalid editorial recommendation schema")
         p = dict(pick)
@@ -141,6 +144,33 @@ def load_edition(path, target, now=None, expected_sha256=None):
                 raise ValueError("Material was not recorded as opened")
             materials.append({"url": u, "label": text(m["label"], 25, "material label"), "kind": m["kind"]})
         p["materials"] = materials
+        if edition["version"] == 2:
+            r = p["readiness"]
+            if (not isinstance(r, dict) or set(r) != {"mode", "event_date", "observation", "checked_materials", "outline"}
+                    or r["mode"] not in ("scene", "major_news")):
+                raise ValueError("A production-ready recommendation needs a scene or major-news review")
+            event_date = text(r["event_date"], 10, "event_date")
+            if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", event_date):
+                raise ValueError("An exact source-checked event date is required")
+            if date.fromisoformat(event_date) > datetime.fromtimestamp(now, timezone(timedelta(hours=9))).date():
+                raise ValueError("The reviewed event cannot be in the future")
+            checked = r["checked_materials"]
+            if not isinstance(checked, list) or len(checked) > 3:
+                raise ValueError("Invalid inspected material list")
+            checked = [public_url(u) for u in checked]
+            visual = {m["url"] for m in materials if m["kind"] in ("image", "video")}
+            if len(set(checked)) != len(checked) or not set(checked).issubset(visual):
+                raise ValueError("Inspected material must be an opened image or video in this recommendation")
+            if r["mode"] == "scene" and not checked:
+                raise ValueError("A scene needs inspected defining media; a source link alone is insufficient")
+            if not isinstance(r["outline"], list) or not 2 <= len(r["outline"]) <= 4:
+                raise ValueError("A production outline needs two to four concrete cards or cuts")
+            p["readiness"] = {"mode": r["mode"], "event_date": event_date,
+                              "observation": text(r["observation"], 240, "observation"),
+                              "checked_materials": checked,
+                              "outline": [text(x, 120, "production step") for x in r["outline"]]}
+            if message_units(render_info({"title": p["title"], "link": p["url"], "editorial": p}, "reviewed-edition")) > 3900:
+                raise ValueError("Production details exceed the single-message limit; shorten the review")
         normalized.append(p)
     edition["picks"] = normalized
     return edition
@@ -278,9 +308,10 @@ def main(recover_hour=None, prepared_hour=None, picks_file=PICKS_FILE, expected_
                               content_keys={k for s in stories for k in story_content_keys(s)})
         if sent:
             record_decision(stories, target, int(time.time()), "sent", delivery_key)
-        report = {"version": "btp-editorial-v7", "delivery": "sent" if sent else "already_sent", "messages": sent,
+        report = {"version": "btp-editorial-v8", "delivery": "sent" if sent else "already_sent", "messages": sent,
                   "stories": len(stories), "duplicates_excluded": excluded, "ai": "chatgpt_web_research",
                   "requested_stories": REPORT_PICKS,
+                  "reviewed_edition_version": edition["version"],
                   "trigger": "user_requested" if user_requested else "hourly", "hour_utc": hourly_key(target)[7:],
                   "category_counts": {c: sum(s["category"] == c for s in stories) for c in CATEGORIES},
                   "research_queries": len(edition["coverage"]["queries"]),
@@ -305,3 +336,4 @@ if __name__ == "__main__":
     parser.add_argument("--preview", action="store_true", required=True)
     args = parser.parse_args()
     raise SystemExit(main(prepared_hour=args.hour, picks_file=args.picks_file, preview=True))
+

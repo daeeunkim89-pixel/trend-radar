@@ -614,6 +614,12 @@ def render_info(record, key, status=None):
                  "왜 지금: " + html.escape(p["why_now"]),
                  "btp 포인트: " + html.escape(p["why"]),
                  "제작 각도: " + html.escape(p["angle"])]
+        if p.get("readiness"):
+            ready = p["readiness"]
+            label = "확인한 장면" if ready["mode"] == "scene" else "확정 뉴스의 영향"
+            lines += ["사건·새 발표 날짜: " + html.escape(ready["event_date"]),
+                      label + ": " + html.escape(ready["observation"]), "제작 순서:"]
+            lines += [str(i) + ". " + html.escape(step) for i, step in enumerate(ready["outline"], 1)]
         for evidence in p["evidence"]:
             lines.append(link("확인 출처", evidence["url"]) + " · " + html.escape(evidence["note"]))
         for material in p["materials"]:
@@ -650,4 +656,5 @@ def render_info(record, key, status=None):
     lines.extend("확인: " + html.escape(caution) for caution in assessment["cautions"])
     lines.append(f"소재 ID <code>{key}</code>")
     return "\n".join(lines)
+
 

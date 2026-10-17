@@ -77,6 +77,70 @@ class EditorialEditionTests(unittest.TestCase):
                 with self.assertRaises(ValueError):
                     c.load_edition(self.path, target, now)
 
+    def production_edition(self, mode="scene"):
+        value = edition()
+        value["version"] = 2
+        p = value["picks"][0]
+        p["materials"][0]["kind"] = "image" if mode == "scene" else "source"
+        p["readiness"] = {"mode": mode, "event_date": "2026-10-17",
+                          "observation": "선수가 세리머니를 끝내기 전에 주심이 경고 카드를 꺼낸 화면을 확인했다.",
+                          "checked_materials": [p["url"]] if mode == "scene" else [],
+                          "outline": ["첫 장에 세리머니와 경고를 나란히 놓는다.", "다음 장에 경기 상황과 판정 결과를 설명한다."]}
+        return value
+
+    def test_production_review_retains_observed_scene_date_and_concrete_outline(self):
+        value = self.production_edition()
+        self.write(value)
+        reviewed = c.load_edition(self.path, HOUR, NOW)
+        stories, history = c.build_stories(reviewed, EMPTY, NOW)
+        record = history["items"][stories[0]["lead"]["item_id"]]
+        info = e.render_info(record, stories[0]["id"])
+        self.assertIn("사건·새 발표 날짜: 2026-10-17", info)
+        self.assertIn(value["picks"][0]["readiness"]["observation"], info)
+        self.assertIn(value["picks"][0]["readiness"]["outline"][1], info)
+
+    def test_uninspected_scene_cannot_pass_as_ready_via_a_source_link(self):
+        bad = []
+        value = self.production_edition(); value["picks"][0]["readiness"]["checked_materials"] = []; bad.append(value)
+        value = self.production_edition(); value["picks"][0]["materials"][0]["kind"] = "source"; bad.append(value)
+        value = self.production_edition(); value["picks"][0]["readiness"]["checked_materials"] = ["https://other.example/unseen.jpg"]; bad.append(value)
+        value = self.production_edition(); del value["picks"][0]["readiness"]; bad.append(value)
+        value = self.production_edition(); value["picks"][0]["readiness"]["event_date"] = "2026-10-18"; bad.append(value)
+        value = self.production_edition(); value["picks"][0]["readiness"]["outline"] = ["한 장만"]; bad.append(value)
+        for value in bad:
+            with self.subTest(pick=value["picks"][0]):
+                self.write(value)
+                with self.assertRaises(ValueError):
+                    c.load_edition(self.path, HOUR, NOW)
+
+    def test_confirmed_major_news_can_use_a_fact_card_without_claiming_video_review(self):
+        value = self.production_edition("major_news")
+        value["picks"][0]["readiness"]["observation"] = "공식 발표에서 적용 대상과 시행일을 확인했다. 영향을 받는 범위를 첫 장의 숫자로 설명한다."
+        self.write(value)
+        reviewed = c.load_edition(self.path, HOUR, NOW)
+        self.assertEqual(reviewed["picks"][0]["readiness"]["checked_materials"], [])
+
+    def test_production_info_over_telegram_limit_is_rejected_before_transport(self):
+        value = self.production_edition()
+        p = value["picks"][0]
+        p.update(title="🔥" * 90, why="🔥" * 180, angle="🔥" * 150, why_now="🔥" * 180, caution="🔥" * 150)
+        p["evidence"] *= 3
+        for evidence in p["evidence"]:
+            evidence["note"] = "🔥" * 220
+        p["readiness"].update(observation="🔥" * 240, outline=["🔥" * 120] * 4)
+        self.write(value)
+        with self.assertRaisesRegex(ValueError, "single-message"):
+            c.load_edition(self.path, HOUR, NOW)
+
+    def test_delivery_job_allows_full_preparation_wait_and_setup(self):
+        import re
+        target = HOUR + 3600
+        earliest = target - 20 * 60
+        self.assertEqual(prepared_target(hourly_key(target)[7:], earliest), target)
+        workflow = (Path(__file__).resolve().parents[1] / ".github/workflows/delivery-request.yml").read_text()
+        minutes = int(re.search(r"timeout-minutes:\s*(\d+)", workflow).group(1))
+        self.assertGreaterEqual(minutes * 60, target - earliest + 5 * 60)
+
     def test_missing_evidence_unopened_material_and_same_event_are_not_accepted(self):
         bad = []
         value = edition(); value["picks"][0]["evidence"] = []; bad.append(value)
@@ -267,3 +331,4 @@ class EditorialEditionTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
