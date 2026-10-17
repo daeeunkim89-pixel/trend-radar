@@ -1,5 +1,5 @@
 {
-  "updated_at": 1792228212,
+  "updated_at": 1792231740,
   "status": "degraded",
   "errors": {
     "펨코 포텐": "https://www.fmkorea.com/best = HTTP 430: 펨코의 사람 인증 보안 확인이 완료되지 않았습니다. 현재 실행 환경에서 자동 수집 가능한지 사이트 측 확인이 필요합니다. / https://m.fmkorea.com/best = HTTP 430: 펨코의 사람 인증 보안 확인이 완료되지 않았습니다. 현재 실행 환경에서 자동 수집 가능한지 사이트 측 확인이 필요합니다."
@@ -9,22 +9,22 @@
     "네이트 스포츠": 50,
     "디시 실베": 29,
     "펨코 포텐": 0,
-    "국내·해외축구": 41,
+    "국내·해외축구": 43,
     "네이트 연예": 50,
-    "커뮤니티 인기": 100
+    "커뮤니티 인기": 99
   },
   "report": {
     "version": "btp-curated-v4",
-    "stories": 10,
-    "duplicates_excluded": 24,
-    "filtered_out": 258,
+    "stories": 4,
+    "duplicates_excluded": 21,
+    "filtered_out": 270,
     "category_counts": {
-      "시사": 1,
-      "축구": 4,
+      "시사": 0,
+      "축구": 2,
       "메이저 스포츠": 2,
-      "아이돌": 3
+      "아이돌": 0
     },
-    "previews": 9,
+    "previews": 4,
     "metrics": {
       "네이버 뉴스": {
         "views": 0,
