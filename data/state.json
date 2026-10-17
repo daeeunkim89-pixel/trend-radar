@@ -1,34 +1,75 @@
 {
-  "updated_at": 1792244082,
+  "updated_at": 1792246588,
   "status": "ok",
   "errors": {},
   "report": {
     "version": "btp-editorial-v7",
     "delivery": "sent",
     "messages": 1,
-    "stories": 2,
+    "stories": 10,
     "duplicates_excluded": 0,
     "ai": "chatgpt_web_research",
-    "trigger": "user_requested",
-    "hour_utc": "2026101713",
+    "requested_stories": 10,
+    "trigger": "hourly",
+    "hour_utc": "2026101714",
     "category_counts": {
-      "시사": 0,
-      "축구": 1,
+      "시사": 3,
+      "축구": 3,
       "메이저 스포츠": 1,
-      "아이돌": 0
+      "아이돌": 3
     },
-    "research_queries": 12,
-    "opened_sources": 23,
+    "research_queries": 33,
+    "opened_sources": 53,
     "picks": [
       {
-        "title": "감독이 어깨 만지자 바로 눈치챈 구본철…극장골 뒤 즉흥 세리머니",
-        "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99418",
-        "event_key": "suwonfc-koo-park-shoulder-celebration-20261017"
+        "title": "레알, 라리가 회장에 공식 사퇴 요구…발단은 ‘나치 선전술’ 비유",
+        "url": "https://www.realmadrid.com/es-ES/noticias/club/comunicados/comunicado-oficial-16-10-2026",
+        "event_key": "real-madrid-tebas-resignation-demand-goebbels-20261016"
       },
       {
-        "title": "세계기록 두 번 넘긴 전국체전…그런데 둘 다 ‘비공인’",
-        "url": "https://www.yna.co.kr/amp/view/AKR20261017039200007",
-        "event_key": "national-sports-festival-shooting-kim-go-unofficial-records-20261017"
+        "title": "다리를 두 번 감아 앉은 윈터…사진 보고 자세부터 다시 보게 된다",
+        "url": "https://www.youtube.com/watch?v=vEnsMY5Od70",
+        "event_key": "winter-vogue-double-crossed-leg-pose-20261015"
+      },
+      {
+        "title": "시도민 축구단 14곳에 보조금 1,401억원…전체 수입의 64%였다",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008802310",
+        "event_key": "sbs-kleague-civic-club-finances-20261017"
+      },
+      {
+        "title": "44년 만의 월드시리즈에 NBA가 양보…벅스 홈 개막전 4시간 앞당겨",
+        "url": "https://www.nba.com/news/milwaukee-bucks-move-home-opener-world-series",
+        "event_key": "bucks-home-opener-moved-for-world-series-20261016"
+      },
+      {
+        "title": "안유진, 장사 정산금 70만원 대신 고른 건 ‘본사 이용권’",
+        "url": "https://www.tenasia.co.kr/article/2026101775504",
+        "event_key": "earth-arcade-ricecake-yujin-headquarters-voucher-20261016"
+      },
+      {
+        "title": "경력 논란 백악관 대변인, 업무 시작 나흘 만에 경질",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6858697_37004.html",
+        "event_key": "white-house-katie-zacharia-press-secretary-dismissed-20261016"
+      },
+      {
+        "title": "‘규모 9.9’ 경보는 오보였다…일본이 8분 만에 취소한 이유",
+        "url": "https://www.fnn.jp/articles/-/1134397",
+        "event_key": "jma-false-magnitude-99-earthquake-warning-20261016"
+      },
+      {
+        "title": "감독은 대형 재계약, 구단은 감원 추진…아스널의 엇갈린 소식",
+        "url": "https://www.theguardian.com/football/2026/oct/16/mikel-arteta-defends-job-cuts-at-arsenal-to-help-club-evolve-and-create-success",
+        "event_key": "arsenal-up-to-60-job-cuts-arteta-contract-20261016"
+      },
+      {
+        "title": "민호 차단한다던 카니…10km 완주 뒤 샤넬 선물에 눈물",
+        "url": "https://www.youtube.com/watch?v=alBN0-4sJ_g",
+        "event_key": "minho-kany-smrun-finish-chanel-gift-video-20261015"
+      },
+      {
+        "title": "퇴근 20분 앞두고 출동한 소방관 순직…초등 입학 앞둔 딸 남겨",
+        "url": "https://www.seoul.co.kr/news/society/2026/10/17/20261017500043",
+        "event_key": "kim-jinseok-bucheon-fire-line-of-duty-death-20261017"
       }
     ]
   }
