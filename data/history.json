@@ -1,6 +1,666 @@
 {
   "version": 1,
   "items": {
+    "f1440338a3ee": {
+      "source": "Gol Caracol·MLS",
+      "title": "수비 사이로 들어가더니 또 골…메시가 4분 만에 만든 두 장면",
+      "link": "https://www.noticiascaracol.com/golcaracol/vea-aca-los-dos-goles-de-lionel-messi-en-atlanta-united-1-3-inter-miami-en-la-mls-so35",
+      "first_seen_at": 1792312150,
+      "last_seen_at": 1792312150,
+      "samples": [
+        {
+          "at": 1792312150,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "f1440338a3ee",
+      "editorial": {
+        "title": "수비 사이로 들어가더니 또 골…메시가 4분 만에 만든 두 장면",
+        "category": "축구",
+        "url": "https://www.noticiascaracol.com/golcaracol/vea-aca-los-dos-goles-de-lionel-messi-en-atlanta-united-1-3-inter-miami-en-la-mls-so35",
+        "source": "Gol Caracol·MLS",
+        "kind": "article",
+        "event_key": "lionel-messi-two-solo-goals-atlanta-20261017",
+        "why": "축구 보는 친구에게 두 돌파의 방향 전환과 마무리를 연달아 보여줄 수 있다.",
+        "angle": "수비 앞에서 방향을 바꾸는 메시 → 56분·60분 골을 연속 배치.",
+        "why_now": "미국 현지 17일 애틀랜타전. 두 골 영상과 3-1 최종 결과를 확인했으며 기존 발송 이력에 없는 사건이다.",
+        "verified_at": 1792310936,
+        "published_at": 1792291014,
+        "evidence": [
+          {
+            "url": "https://www.noticiascaracol.com/golcaracol/vea-aca-los-dos-goles-de-lionel-messi-en-atlanta-united-1-3-inter-miami-en-la-mls-so35",
+            "note": "17일 경기에서 후반 56분·60분 메시 득점과 마이애미 3-1 승리를 본문에서 확인."
+          },
+          {
+            "url": "https://cdn.syndication.twimg.com/tweet-result?id=2111624676464046200&lang=en&token=abc",
+            "note": "MLS 공식 게시물의 두 번째 득점 영상 및 게시 시각을 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2111622763186163712/vid/avc1/640x360/T6dFewf1m_MqTEpc.mp4",
+            "label": "첫 번째 돌파 골",
+            "kind": "video"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2111624592859025408/vid/avc1/640x360/1y0yRW9sUd36f1gc.mp4?tag=16",
+            "label": "MLS 두 번째 골",
+            "kind": "video"
+          }
+        ],
+        "caution": "현지 17일 경기. 개인 통산 기록·최초 기록은 덧붙이지 않는다.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-17",
+          "observation": "첫 영상은 패스를 주고 다시 받아 수비 사이를 뚫은 뒤 슈팅한다. MLS 영상은 수비와 맞선 뒤 방향을 바꾸고 골문 반대쪽으로 마무리하는 과정을 보여준다. 두 영상의 연속 프레임을 확인했다.",
+          "checked_materials": [
+            "https://video.twimg.com/amplify_video/2111622763186163712/vid/avc1/640x360/T6dFewf1m_MqTEpc.mp4",
+            "https://video.twimg.com/amplify_video/2111624592859025408/vid/avc1/640x360/1y0yRW9sUd36f1gc.mp4?tag=16"
+          ],
+          "outline": [
+            "첫 장: 수비 사이로 들어가는 메시의 공 터치",
+            "56분 골과 60분 골을 차례로 보여주고 같은 경기 4분 간격임을 표기",
+            "마지막: 애틀랜타 1-3 마이애미, 두 골은 한 소재로 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "원본 영상",
+        "media": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2111622763186163712/vid/avc1/640x360/T6dFewf1m_MqTEpc.mp4",
+            "label": "첫 번째 돌파 골",
+            "kind": "video"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/2111624592859025408/vid/avc1/640x360/1y0yRW9sUd36f1gc.mp4?tag=16",
+            "label": "MLS 두 번째 골",
+            "kind": "video"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "첫 번째 돌파 골",
+            "url": "https://video.twimg.com/amplify_video/2111622763186163712/vid/avc1/640x360/T6dFewf1m_MqTEpc.mp4"
+          },
+          {
+            "label": "MLS 두 번째 골",
+            "url": "https://video.twimg.com/amplify_video/2111624592859025408/vid/avc1/640x360/1y0yRW9sUd36f1gc.mp4?tag=16"
+          }
+        ],
+        "excerpt": "",
+        "context": "미국 현지 17일 애틀랜타전. 두 골 영상과 3-1 최종 결과를 확인했으며 기존 발송 이력에 없는 사건이다.",
+        "fetched_at": 1792312150,
+        "parser_revision": 7
+      },
+      "curation_event_key": "lionel-messi-two-solo-goals-atlanta-20261017"
+    },
+    "d9ea972a4514": {
+      "source": "우주떡집 방송·공개 인용본",
+      "title": "“엄마가 가서 해줄까?”…힘들다던 안유진이 바로 걱정한 것",
+      "link": "https://theqoo.net/hot/4379364833",
+      "first_seen_at": 1792312150,
+      "last_seen_at": 1792312150,
+      "samples": [
+        {
+          "at": 1792312150,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "community",
+      "story_id": "d9ea972a4514",
+      "editorial": {
+        "title": "“엄마가 가서 해줄까?”…힘들다던 안유진이 바로 걱정한 것",
+        "category": "아이돌",
+        "url": "https://theqoo.net/hot/4379364833",
+        "source": "우주떡집 방송·공개 인용본",
+        "kind": "community",
+        "event_key": "an-yujin-mother-offers-help-phone-call-20261016",
+        "why": "아이돌 팬을 넘어 가족에게 공유할 대화다. 힘들다는 딸과 바로 가겠다는 엄마의 답이 대비된다.",
+        "angle": "“엄마가 가서 해줄까?” 자막 → 이동 시간과 엄마를 걱정하는 유진.",
+        "why_now": "16일 공개된 우주떡집 장면이 18일 커뮤니티에서 다시 공유됐다. 앞서 보낸 상품권 이야기가 아닌 모녀 통화 장면이다.",
+        "verified_at": 1792311422,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://theqoo.net/hot/4379364833",
+            "note": "현재 공유된 장면과 공개 영상 연결을 확인."
+          },
+          {
+            "url": "https://cdn.syndication.twimg.com/tweet-result?id=2111093320470692068&lang=en&token=abc",
+            "note": "공개 영상은 16일 게시. 영상에 표시된 대화 자막을 연속 프레임으로 대조."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2111093191369981952/vid/avc1/480x270/QbZa1h6euhOjBGrR.mp4",
+            "label": "자막 확인한 모녀 통화",
+            "kind": "video"
+          }
+        ],
+        "caution": "방송 공개일 기준이다. 유진이 실제로 울었다거나 전국민이 반응했다고 쓰지 않는다.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-16",
+          "observation": "52초 영상의 연속 프레임과 방송 자막을 확인했다. 유진이 힘들다고 하자 어머니가 가서 도와줄지 묻고, 유진은 다섯 시간 걸리는 이동을 걱정한다. 후반에 어머니 건강을 챙기는 자막이 나온다.",
+          "checked_materials": [
+            "https://video.twimg.com/amplify_video/2111093191369981952/vid/avc1/480x270/QbZa1h6euhOjBGrR.mp4"
+          ],
+          "outline": [
+            "첫 장: 유진 표정과 어머니의 도와주겠다는 자막",
+            "두 번째: 다섯 시간 걸리는데 어떻게 오느냐는 유진의 답",
+            "마지막: 어머니 건강을 챙기며 통화를 마치는 장면"
+          ]
+        }
+      },
+      "detail": {
+        "format": "원본 영상",
+        "media": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2111093191369981952/vid/avc1/480x270/QbZa1h6euhOjBGrR.mp4",
+            "label": "자막 확인한 모녀 통화",
+            "kind": "video"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "자막 확인한 모녀 통화",
+            "url": "https://video.twimg.com/amplify_video/2111093191369981952/vid/avc1/480x270/QbZa1h6euhOjBGrR.mp4"
+          }
+        ],
+        "excerpt": "",
+        "context": "16일 공개된 우주떡집 장면이 18일 커뮤니티에서 다시 공유됐다. 앞서 보낸 상품권 이야기가 아닌 모녀 통화 장면이다.",
+        "fetched_at": 1792312150,
+        "parser_revision": 7
+      },
+      "curation_event_key": "an-yujin-mother-offers-help-phone-call-20261016"
+    },
+    "31ed1e93e916": {
+      "source": "NBA 공식 영상·NBC Sports",
+      "title": "직접 몰고 와 백보드에 패스…웸반야마가 혼자 끝낸 앨리웁",
+      "link": "https://www.nbcsports.com/nba/news/think-wemby-is-ready-for-the-season-watch-him-throw-off-the-backboard-alley-oop-to-himself",
+      "first_seen_at": 1792312150,
+      "last_seen_at": 1792312150,
+      "samples": [
+        {
+          "at": 1792312150,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "31ed1e93e916",
+      "editorial": {
+        "title": "직접 몰고 와 백보드에 패스…웸반야마가 혼자 끝낸 앨리웁",
+        "category": "메이저 스포츠",
+        "url": "https://www.nbcsports.com/nba/news/think-wemby-is-ready-for-the-season-watch-him-throw-off-the-backboard-alley-oop-to-himself",
+        "source": "NBA 공식 영상·NBC Sports",
+        "kind": "article",
+        "event_key": "victor-wembanyama-coast-to-coast-self-alley-oop-kings-20261016",
+        "why": "농구 규칙을 몰라도 직접 패스하고 직접 덩크하는 한 번의 움직임을 바로 이해할 수 있다.",
+        "angle": "백보드에 던지는 순간 정지 → 직접 잡아 두 손 덩크하는 결과.",
+        "why_now": "현지 16일 프리시즌 마지막 경기 장면. NBA 공식 영상의 날짜와 실제 20초 클립을 대조했다.",
+        "verified_at": 1792310943,
+        "published_at": 1792252578,
+        "evidence": [
+          {
+            "url": "https://www.nbcsports.com/nba/news/think-wemby-is-ready-for-the-season-watch-him-throw-off-the-backboard-alley-oop-to-himself",
+            "note": "직접 백보드 패스 후 두 손 덩크한 프리시즌 장면을 보도."
+          },
+          {
+            "url": "https://www.nba.com/watch/video/victor-wembanyama-forces-the-miss-goes-coast-to-coast-for-a-self-lob-slam",
+            "note": "NBA 공식 영상 페이지에 16일 장면으로 표시됨을 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2111261093049884672/vid/avc1/480x600/AVB0ByQ1Jgsc0BC0.mp4",
+            "label": "NBA 공식 셀프 앨리웁",
+            "kind": "video"
+          }
+        ],
+        "caution": "프리시즌 장면이다. 정규시즌 기록이나 최초의 기술로 표현하지 않는다.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-16",
+          "observation": "자기 진영에서 공을 몰고 올라온 뒤 백보드에 던지고, 튀어나온 공을 직접 잡아 두 손으로 덩크한다. NBA 공개 영상의 연속 프레임에서 시작부터 착지까지 확인했다.",
+          "checked_materials": [
+            "https://video.twimg.com/amplify_video/2111261093049884672/vid/avc1/480x600/AVB0ByQ1Jgsc0BC0.mp4"
+          ],
+          "outline": [
+            "첫 컷: 백보드에 공을 던지는 순간",
+            "다음 컷: 직접 받아 두 손 덩크",
+            "마지막: 자기 진영부터 시작한 전체 동작을 다시 보여주기"
+          ]
+        }
+      },
+      "detail": {
+        "format": "원본 영상",
+        "media": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2111261093049884672/vid/avc1/480x600/AVB0ByQ1Jgsc0BC0.mp4",
+            "label": "NBA 공식 셀프 앨리웁",
+            "kind": "video"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "NBA 공식 셀프 앨리웁",
+            "url": "https://video.twimg.com/amplify_video/2111261093049884672/vid/avc1/480x600/AVB0ByQ1Jgsc0BC0.mp4"
+          }
+        ],
+        "excerpt": "",
+        "context": "현지 16일 프리시즌 마지막 경기 장면. NBA 공식 영상의 날짜와 실제 20초 클립을 대조했다.",
+        "fetched_at": 1792312150,
+        "parser_revision": 7
+      },
+      "curation_event_key": "victor-wembanyama-coast-to-coast-self-alley-oop-kings-20261016"
+    },
+    "0fae328c7d53": {
+      "source": "NBC Sports Bay Area·BR",
+      "title": "심판이 판정 설명하는 뒤에서 골프 스윙한 커리…돌아온 눈빛",
+      "link": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/bill-kennedy-steph-curry-golf-swing/1971792/",
+      "first_seen_at": 1792312150,
+      "last_seen_at": 1792312150,
+      "samples": [
+        {
+          "at": 1792312150,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "0fae328c7d53",
+      "editorial": {
+        "title": "심판이 판정 설명하는 뒤에서 골프 스윙한 커리…돌아온 눈빛",
+        "category": "메이저 스포츠",
+        "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/bill-kennedy-steph-curry-golf-swing/1971792/",
+        "source": "NBC Sports Bay Area·BR",
+        "kind": "article",
+        "event_key": "steph-curry-golf-swing-bill-kennedy-review-reaction-20261016",
+        "why": "유명 선수의 딴짓과 바로 눈치챈 심판 반응을 한 화면에서 보여줄 수 있다.",
+        "angle": "커리의 빈손 스윙 → 뒤를 보고 엄지로 가리키는 빌 케네디.",
+        "why_now": "현지 16일 포틀랜드전 리뷰 상황으로 보도됐고 17일 공개된 클립의 동작과 심판 반응을 확인했다.",
+        "verified_at": 1792311185,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/bill-kennedy-steph-curry-golf-swing/1971792/",
+            "note": "금요일 포틀랜드전 리뷰 중 상황임을 본문에서 확인."
+          },
+          {
+            "url": "https://cdn.syndication.twimg.com/tweet-result?id=2111324323160141874&lang=en&token=abc",
+            "note": "Bleacher Report 공개 클립의 게시 날짜를 확인하고 실제 프레임을 검토."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://video.twimg.com/ext_tw_video/2111324017919688704/pu/vid/avc1/320x568/WuGiaTlq7dUOVtRL.mp4?tag=12",
+            "label": "스윙과 심판 반응",
+            "kind": "video"
+          }
+        ],
+        "caution": "장난스러운 반응이다. 심판의 분노·경고·징계로 바꾸지 않는다.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-16",
+          "observation": "20초 클립의 연속 프레임에서 판정을 설명하는 빌 케네디 뒤로 커리가 스윙 동작을 한다. 심판은 커리 쪽을 보고 엄지로 뒤를 가리키며 웃는 반응을 보인다.",
+          "checked_materials": [
+            "https://video.twimg.com/ext_tw_video/2111324017919688704/pu/vid/avc1/320x568/WuGiaTlq7dUOVtRL.mp4?tag=12"
+          ],
+          "outline": [
+            "첫 컷: 설명 중인 심판 뒤 커리의 스윙",
+            "두 번째: 커리 쪽을 보는 심판 시선과 엄지 동작",
+            "마지막: 한 화면에서 행동과 반응을 다시 보여주기"
+          ]
+        }
+      },
+      "detail": {
+        "format": "원본 영상",
+        "media": [
+          {
+            "url": "https://video.twimg.com/ext_tw_video/2111324017919688704/pu/vid/avc1/320x568/WuGiaTlq7dUOVtRL.mp4?tag=12",
+            "label": "스윙과 심판 반응",
+            "kind": "video"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "스윙과 심판 반응",
+            "url": "https://video.twimg.com/ext_tw_video/2111324017919688704/pu/vid/avc1/320x568/WuGiaTlq7dUOVtRL.mp4?tag=12"
+          }
+        ],
+        "excerpt": "",
+        "context": "현지 16일 포틀랜드전 리뷰 상황으로 보도됐고 17일 공개된 클립의 동작과 심판 반응을 확인했다.",
+        "fetched_at": 1792312150,
+        "parser_revision": 7
+      },
+      "curation_event_key": "steph-curry-golf-swing-bill-kennedy-review-reaction-20261016"
+    },
+    "a1bbc3ca8874": {
+      "source": "전자신문",
+      "title": "1만원 넘게 담아도 배송비? 네이버 N배송 무료 기준이 바뀐다",
+      "link": "https://www.etnews.com/20261016000228",
+      "first_seen_at": 1792312150,
+      "last_seen_at": 1792312150,
+      "samples": [
+        {
+          "at": 1792312150,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "a1bbc3ca8874",
+      "editorial": {
+        "title": "1만원 넘게 담아도 배송비? 네이버 N배송 무료 기준이 바뀐다",
+        "category": "시사",
+        "url": "https://www.etnews.com/20261016000228",
+        "source": "전자신문",
+        "kind": "article",
+        "event_key": "naver-plus-ndelivery-instant-discount-threshold-change-20261018",
+        "why": "네이버 멤버십 이용자가 장바구니에서 바로 겪는 변화라 구매하는 친구에게 공유할 이유가 있다.",
+        "angle": "판매가 11,000원 → 즉시할인 4,000원 → 7,000원은 무료배송 제외.",
+        "why_now": "18일 공개된 취재 기사와 네이버 관계자의 설명을 확인했다. 적용은 11월 11일 이후 주문부터다.",
+        "verified_at": 1792311085,
+        "published_at": 1792306800,
+        "evidence": [
+          {
+            "url": "https://www.etnews.com/20261016000228",
+            "note": "네이버 관계자 발언과 적용일, 즉시할인가 기준, 묶음배송 예시 및 판매자 무료배송 예외를 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.etnews.com/20261016000228",
+            "label": "기준·예외 확인 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "N배송 멤버십 혜택의 변경이다. 모든 쿠폰·포인트 차감액 기준이라고 확대하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-18",
+          "observation": "N배송 멤버십 무료배송 문턱이 판매가 1만원에서 즉시할인 적용 후 1만원으로 바뀐다. 기사 예시에서는 11,000원 묶음이 즉시할인 후 7,000원이 되면 제외된다. 판매자 자체 무료배송은 영향이 없다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 기사에서 든 11,000원→7,000원 예시를 직접 계산한 비교 카드",
+            "두 번째: 할인 전 판매가 기준에서 즉시할인가 기준으로 변경",
+            "마지막: 11월 11일 이후 주문 적용, 판매자 무료배송은 별개"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "기준·예외 확인 원문",
+            "url": "https://www.etnews.com/20261016000228"
+          }
+        ],
+        "excerpt": "",
+        "context": "18일 공개된 취재 기사와 네이버 관계자의 설명을 확인했다. 적용은 11월 11일 이후 주문부터다.",
+        "fetched_at": 1792312150,
+        "parser_revision": 7
+      },
+      "curation_event_key": "naver-plus-ndelivery-instant-discount-threshold-change-20261018"
+    },
+    "8dc25be930bf": {
+      "source": "김민석 X 게시물 공개 캡처·경향신문",
+      "title": "가수 무대 도중 인사 논란…김민석 “HYNN·관객께 죄송” 사과",
+      "link": "https://theqoo.net/hot/4379171414",
+      "first_seen_at": 1792312150,
+      "last_seen_at": 1792312150,
+      "samples": [
+        {
+          "at": 1792312150,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "community",
+      "story_id": "8dc25be930bf",
+      "editorial": {
+        "title": "가수 무대 도중 인사 논란…김민석 “HYNN·관객께 죄송” 사과",
+        "category": "시사",
+        "url": "https://theqoo.net/hot/4379171414",
+        "source": "김민석 X 게시물 공개 캡처·경향신문",
+        "kind": "community",
+        "event_key": "kim-minseok-public-apology-hynn-stage-interruption-20261018",
+        "why": "이미 알려진 공연 중단 사건에서 당사자가 공개 사과로 답한 새 변화가 있다.",
+        "angle": "18일 사과문 핵심 문장 → 사회자 호명 경위에 대한 본인 설명.",
+        "why_now": "15일 무대 등장 자체는 이전 추천에 있다. 이번 새 사실은 18일 13:02 공개된 사과문이며 해당 문구·날짜를 직접 읽었다.",
+        "verified_at": 1792311865,
+        "published_at": 1792296120,
+        "evidence": [
+          {
+            "url": "https://theqoo.net/hot/4379171414",
+            "note": "실제 게시물 캡처에서 작성 계정·사과 내용·18일 13:02 표시를 확인."
+          },
+          {
+            "url": "https://www.khan.co.kr/article/202610181433001",
+            "note": "18일 사과와 사회자 호명 경위에 대한 당사자 설명을 보도."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://img-cdn.theqoo.net/nkDLow.jpg",
+            "label": "날짜 확인한 사과문",
+            "kind": "image"
+          },
+          {
+            "url": "https://www.khan.co.kr/article/202610181433001",
+            "label": "18일 사과 교차 확인",
+            "kind": "source"
+          }
+        ],
+        "caution": "새 사과문 후속이다. 사회자 경위는 본인 설명이며 노래 도중 강제로 빼앗았다고 단정하지 않는다.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-18",
+          "observation": "캡처에 @ms2030 계정, 18일 오후 1:02 시각, 가수와 관객에 대한 사과가 표시된다. 공연 중 인사를 고사했으나 사회자가 호명했다는 것은 게시자 본인의 설명이다.",
+          "checked_materials": [
+            "https://img-cdn.theqoo.net/nkDLow.jpg"
+          ],
+          "outline": [
+            "첫 장: 가수·관객을 지목해 사과한 게시물 문구",
+            "두 번째: 15일 공연 도중 무대 인사 후 18일 사과까지의 사실 카드",
+            "마지막: 사회자 호명으로 인사했다는 본인 설명을 별도로 표기"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [
+          {
+            "url": "https://img-cdn.theqoo.net/nkDLow.jpg",
+            "label": "날짜 확인한 사과문",
+            "kind": "image"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "날짜 확인한 사과문",
+            "url": "https://img-cdn.theqoo.net/nkDLow.jpg"
+          },
+          {
+            "label": "18일 사과 교차 확인",
+            "url": "https://www.khan.co.kr/article/202610181433001"
+          }
+        ],
+        "excerpt": "",
+        "context": "15일 무대 등장 자체는 이전 추천에 있다. 이번 새 사실은 18일 13:02 공개된 사과문이며 해당 문구·날짜를 직접 읽었다.",
+        "fetched_at": 1792312150,
+        "parser_revision": 7
+      },
+      "curation_event_key": "kim-minseok-public-apology-hynn-stage-interruption-20261018"
+    },
+    "05db7bc3dfd3": {
+      "source": "연합뉴스·민트페이퍼 공지 인용",
+      "title": "가을비에 서울 도로 침수…그민페도 당일 취소·전액 환불",
+      "link": "https://www.yna.co.kr/view/AKR20261018039700004?section=society%2Fall",
+      "first_seen_at": 1792312150,
+      "last_seen_at": 1792312150,
+      "samples": [
+        {
+          "at": 1792312150,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "05db7bc3dfd3",
+      "editorial": {
+        "title": "가을비에 서울 도로 침수…그민페도 당일 취소·전액 환불",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261018039700004?section=society%2Fall",
+        "source": "연합뉴스·민트페이퍼 공지 인용",
+        "kind": "article",
+        "event_key": "seoul-heavy-rain-road-closures-gmf-cancellation-20261018",
+        "why": "밖에 있는 친구나 공연 가는 지인에게 바로 필요한 도시 침수·행사 취소 소식이다.",
+        "angle": "도로 통제 시각과 그민페 18일 공연 취소·전액 환불을 한 장에.",
+        "why_now": "18일 16:12 보도와 16:47 갱신을 읽었다. 15:04 증산교 하부도로 양방향 통제 및 당일 GMF 취소가 새 확인 사실이다.",
+        "verified_at": 1792311421,
+        "published_at": 1792307568,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261018039700004?section=society%2Fall",
+            "note": "기사 본문에서 도로 통제 시각과 침수, 민트페이퍼의 공연 취소·전액 환불 발표를 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261018039700004?section=society%2Fall",
+            "label": "침수·취소 확인 보도",
+            "kind": "source"
+          }
+        ],
+        "caution": "통제 상황은 변할 수 있다. 보도 확인 시각을 표기하며 17일 공연까지 취소됐다고 쓰지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-18",
+          "observation": "서울 증산교 하부도로는 18일 15:04부터 양방향 통제됐고 연신내 일대도 침수됐다. 기사에 민트페이퍼의 기상 악화로 인한 공연 취소·전액 환불 공지가 인용돼 있다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 서울 도로 침수·그민페 당일 취소 사실을 큰 글자로 정리",
+            "두 번째: 증산교 하부도로 15:04 통제, 연신내 침수 확인 시각 표시",
+            "마지막: 18일 공연 전액 환불 발표와 이동 전 최신 공지 확인"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "침수·취소 확인 보도",
+            "url": "https://www.yna.co.kr/view/AKR20261018039700004?section=society%2Fall"
+          }
+        ],
+        "excerpt": "",
+        "context": "18일 16:12 보도와 16:47 갱신을 읽었다. 15:04 증산교 하부도로 양방향 통제 및 당일 GMF 취소가 새 확인 사실이다.",
+        "fetched_at": 1792312150,
+        "parser_revision": 7
+      },
+      "curation_event_key": "seoul-heavy-rain-road-closures-gmf-cancellation-20261018"
+    },
+    "ec1659ba4761": {
+      "source": "연합뉴스 취재",
+      "title": "그래미 새 ‘아시안 팝’…빅4는 출품 안 하고 아이브·키키 등 도전",
+      "link": "https://www.yna.co.kr/view/AKR20261017033000005",
+      "first_seen_at": 1792312150,
+      "last_seen_at": 1792312150,
+      "samples": [
+        {
+          "at": 1792312150,
+          "views": null,
+          "reactions": null,
+          "rank": 8,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "ec1659ba4761",
+      "editorial": {
+        "title": "그래미 새 ‘아시안 팝’…빅4는 출품 안 하고 아이브·키키 등 도전",
+        "category": "아이돌",
+        "url": "https://www.yna.co.kr/view/AKR20261017033000005",
+        "source": "연합뉴스 취재",
+        "kind": "article",
+        "event_key": "grammys-asian-pop-submissions-big-four-absent-report-20261018",
+        "why": "큰 기획사의 미출품과 여자 그룹들의 실제 출품을 나란히 보여주는 음악계 변화다.",
+        "angle": "빅4 미출품 / 아이브·키키·피프티·박효신 출품을 두 칸으로 비교.",
+        "why_now": "18일 취재 기사에서 해당 부문 한국 출품 네 팀과 다른 팝 부문 출품을 함께 확인했다. 이전에 전달하지 않은 사건이다.",
+        "verified_at": 1792311137,
+        "published_at": 1792278001,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261017033000005",
+            "note": "18일 취재로 네 팀의 출품 곡과 빅4의 해당 부문 미출품, 별도 팝 부문 출품을 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261017033000005",
+            "label": "출품 명단 취재 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "출품은 후보 지명·수상이 아니다. 모든 소속사의 그래미 전체 보이콧으로 일반화하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-18",
+          "observation": "신설 아시안 팝 부문에 아이브·키키·피프티피프티·박효신이 출품한 것으로 보도됐다. 빅4는 이 부문에 작품을 내지 않았지만 제니·지수·리사·엔믹스 등의 다른 팝 부문 출품은 별도로 있다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 아시안 팝 부문 빅4 미출품과 네 팀 출품을 대비",
+            "두 번째: 아이브 뱅뱅·키키 404·피프티 스타스트럭·박효신 AE를 정확히 표기",
+            "마지막: 아시안 팝 미출품과 그래미 전체 불참은 구분, 최종 후보 선정 전임을 표기"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "출품 명단 취재 원문",
+            "url": "https://www.yna.co.kr/view/AKR20261017033000005"
+          }
+        ],
+        "excerpt": "",
+        "context": "18일 취재 기사에서 해당 부문 한국 출품 네 팀과 다른 팝 부문 출품을 함께 확인했다. 이전에 전달하지 않은 사건이다.",
+        "fetched_at": 1792312150,
+        "parser_revision": 7
+      },
+      "curation_event_key": "grammys-asian-pop-submissions-big-four-absent-report-20261018"
+    },
     "6c09e1ff4f2b": {
       "source": "엠팍 BEST",
       "title": "오늘 터진 MLS 역대급 골 ㄷㄷ...mp4",
@@ -105870,5 +106530,5 @@
       }
     }
   },
-  "updated_at": 1792299829
+  "updated_at": 1792312150
 }
