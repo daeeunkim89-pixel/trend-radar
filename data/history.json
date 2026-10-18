@@ -1,6 +1,858 @@
 {
   "version": 1,
   "items": {
+    "1e92ec049285": {
+      "source": "SBS",
+      "title": "운전대에서 손 떼면 꺼졌는데…고리 하나 걸자 경고가 사라졌다",
+      "link": "https://n.news.naver.com/article/055/0001396356",
+      "first_seen_at": 1792349999,
+      "last_seen_at": 1792364170,
+      "samples": [
+        {
+          "at": 1792349999,
+          "views": null,
+          "reactions": null,
+          "rank": 14,
+          "rank_kind": null
+        },
+        {
+          "at": 1792364170,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "story_id": "1e92ec049285",
+      "content_kind": "article",
+      "editorial": {
+        "title": "운전대에서 손 떼면 꺼졌는데…고리 하나 걸자 경고가 사라졌다",
+        "category": "시사",
+        "url": "https://n.news.naver.com/article/055/0001396356",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "sbs-autopilot-helper-warning-test-enforcement-20261018",
+        "why": "운전자와 동승자가 ‘자율주행’처럼 보이는 영상의 실제 위험과 경고 장치 무력화를 구분할 수 있다.",
+        "angle": "장치 미부착 때 경고 화면과 부착 뒤 손을 놓은 시연을 대비한다.",
+        "why_now": "18일 SBS가 직접 비교 시연과 6년간 단속·적발 0건이라는 취재 결과를 공개했다.",
+        "verified_at": 1792363952,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://n.news.naver.com/article/055/0001396356",
+            "note": "실제 보도 연속 프레임에서 미부착 주행의 경고·강제 종료, 고리 부착 뒤 운전자가 손을 뗀 주행, 굽은 구간에서 다시 운전대를 잡는 모습을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://n.news.naver.com/article/055/0001396356",
+            "label": "SBS 직접 비교 실험",
+            "kind": "video"
+          }
+        ],
+        "caution": "일반 도로에서 재현하지 말 것. 완전자율주행·안전한 사용법으로 소개하지 않는다.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-18",
+          "observation": "실제 보도 연속 프레임에서 미부착 주행의 경고·강제 종료, 고리 부착 뒤 운전자가 손을 뗀 주행, 굽은 구간에서 다시 운전대를 잡는 모습을 확인했다.",
+          "checked_materials": [
+            "https://n.news.naver.com/article/055/0001396356"
+          ],
+          "outline": [
+            "정상 경고 화면과 장치 부착 뒤 무경고 화면을 대비",
+            "곡선 구간에서 운전자가 개입하는 실제 장면으로 위험 설명",
+            "판매 제한 공문과 단속 0건 취재 결과를 구분해 제시"
+          ]
+        }
+      },
+      "detail": {
+        "format": "원본 영상",
+        "media": [
+          {
+            "url": "https://n.news.naver.com/article/055/0001396356",
+            "label": "SBS 직접 비교 실험",
+            "kind": "video"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "SBS 직접 비교 실험",
+            "url": "https://n.news.naver.com/article/055/0001396356"
+          }
+        ],
+        "excerpt": "",
+        "context": "18일 SBS가 직접 비교 시연과 6년간 단속·적발 0건이라는 취재 결과를 공개했다.",
+        "fetched_at": 1792364170,
+        "parser_revision": 7
+      },
+      "curation_event_key": "sbs-autopilot-helper-warning-test-enforcement-20261018"
+    },
+    "ef4299b2eca5": {
+      "source": "스포츠조선",
+      "title": "수원 볼보이가 유럽에서 골 넣더니…조나탄의 깃발을 다시 들었다",
+      "link": "https://news.nate.com/view/20261018n10184",
+      "first_seen_at": 1792330293,
+      "last_seen_at": 1792364170,
+      "samples": [
+        {
+          "at": 1792330293,
+          "views": null,
+          "reactions": null,
+          "rank": 50,
+          "rank_kind": "nate_spo_interest_100"
+        },
+        {
+          "at": 1792342176,
+          "views": null,
+          "reactions": null,
+          "rank": 22,
+          "rank_kind": "nate_spo_interest_100"
+        },
+        {
+          "at": 1792364170,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "story_id": "ef4299b2eca5",
+      "content_kind": "article",
+      "editorial": {
+        "title": "수원 볼보이가 유럽에서 골 넣더니…조나탄의 깃발을 다시 들었다",
+        "category": "축구",
+        "url": "https://news.nate.com/view/20261018n10184",
+        "source": "스포츠조선",
+        "kind": "article",
+        "event_key": "oh-hyeon-gyu-jonathan-corner-flag-celebration-20261016",
+        "why": "수원 팬이 당시 조나탄을 기억하는 친구에게 9년 전과 현재의 같은 세리머니를 비교해 보낼 소재다.",
+        "angle": "2017 조나탄과 2026 오현규의 유니폼 걸린 코너 깃대를 나란히 놓는다.",
+        "why_now": "16일 UEL 멀티골 뒤 세리머니를 18일 보도가 수원 볼보이 이력과 비교했다.",
+        "verified_at": 1792363952,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://news.nate.com/view/20261018n10184",
+            "note": "기사 원본 사진에서 오현규와 2017 조나탄이 각각 유니폼을 코너 깃대에 걸어 들어 올린 자세를 직접 대조했다. 오현규는 해당 시기에 수원 유스 볼보이였다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/sc/2026/10/18/2026101801001116600072732.jpg",
+            "label": "오현규 실제 세리머니",
+            "kind": "image"
+          },
+          {
+            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/sc/2026/10/18/2026101801001116600072731.jpg",
+            "label": "2017 조나탄 비교 사진",
+            "kind": "image"
+          }
+        ],
+        "caution": "오현규가 2017 해당 골을 직접 봤다는 사실·당사자의 오마주 인정은 미확인.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-16",
+          "observation": "기사 원본 사진에서 오현규와 2017 조나탄이 각각 유니폼을 코너 깃대에 걸어 들어 올린 자세를 직접 대조했다. 오현규는 해당 시기에 수원 유스 볼보이였다.",
+          "checked_materials": [
+            "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/sc/2026/10/18/2026101801001116600072732.jpg",
+            "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/sc/2026/10/18/2026101801001116600072731.jpg"
+          ],
+          "outline": [
+            "양 선수의 깃발 세리머니 사진을 같은 구도로 배치",
+            "2017 수원 유스 볼보이→2026 베식타시 공격수 이력 연결",
+            "호펜하임전 멀티골·3–2 승리 맥락을 짧게 덧붙임"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [
+          {
+            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/sc/2026/10/18/2026101801001116600072732.jpg",
+            "label": "오현규 실제 세리머니",
+            "kind": "image"
+          },
+          {
+            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/sc/2026/10/18/2026101801001116600072731.jpg",
+            "label": "2017 조나탄 비교 사진",
+            "kind": "image"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "오현규 실제 세리머니",
+            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/sc/2026/10/18/2026101801001116600072732.jpg"
+          },
+          {
+            "label": "2017 조나탄 비교 사진",
+            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/sc/2026/10/18/2026101801001116600072731.jpg"
+          }
+        ],
+        "excerpt": "",
+        "context": "16일 UEL 멀티골 뒤 세리머니를 18일 보도가 수원 볼보이 이력과 비교했다.",
+        "fetched_at": 1792364170,
+        "parser_revision": 7
+      },
+      "curation_event_key": "oh-hyeon-gyu-jonathan-corner-flag-celebration-20261016"
+    },
+    "ab83116253ac": {
+      "source": "스포츠서울·SBS",
+      "title": "0–2에서 3–2…폭우 뒤 대전이 만든 마지막 장면은 자책골이었다",
+      "link": "https://news.nate.com/view/20261018n12791",
+      "first_seen_at": 1792315670,
+      "last_seen_at": 1792364170,
+      "samples": [
+        {
+          "at": 1792315670,
+          "views": null,
+          "reactions": null,
+          "rank": 25,
+          "rank_kind": "nate_spo_interest_100"
+        },
+        {
+          "at": 1792330293,
+          "views": null,
+          "reactions": null,
+          "rank": 41,
+          "rank_kind": "nate_spo_interest_100"
+        },
+        {
+          "at": 1792364170,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "story_id": "ab83116253ac",
+      "content_kind": "article",
+      "editorial": {
+        "title": "0–2에서 3–2…폭우 뒤 대전이 만든 마지막 장면은 자책골이었다",
+        "category": "축구",
+        "url": "https://news.nate.com/view/20261018n12791",
+        "source": "스포츠서울·SBS",
+        "kind": "article",
+        "event_key": "daejeon-gwangju-var-own-goal-comeback-20261018",
+        "why": "국내 축구 팬에게 두 골 차 열세가 추가시간 헤더 하나로 뒤집히는 전체 맥락을 보여줄 수 있다.",
+        "angle": "광주 2–0 점수와 문민서의 마지막 자책 헤더를 전후로 배치한다.",
+        "why_now": "18일 대전–광주전의 실제 역전이다. 단순 연승 수치 대신 폭우 중단과 뒤집힌 결말을 다룬다.",
+        "verified_at": 1792363952,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://news.nate.com/view/20261018n12791",
+            "note": "SBS 연속 프레임에서 광주의 전반 두 골, 폭우 중단, 대전 PK·동점골, 크로스를 걷어내려던 헤더가 자기 골문에 들어간 장면과 경기 후 환호를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://m.sports.naver.com/kfootball/video/1545893",
+            "label": "실제 득점·역전 영상",
+            "kind": "video"
+          }
+        ],
+        "caution": "지연 시간은 기사와 방송이 달라 숫자 생략. 해당 방송에서 VAR 장면 자체는 확인 못함.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-18",
+          "observation": "SBS 연속 프레임에서 광주의 전반 두 골, 폭우 중단, 대전 PK·동점골, 크로스를 걷어내려던 헤더가 자기 골문에 들어간 장면과 경기 후 환호를 확인했다.",
+          "checked_materials": [
+            "https://m.sports.naver.com/kfootball/video/1545893"
+          ],
+          "outline": [
+            "전반 0–2와 폭우로 멈춘 경기 제시",
+            "서진수 PK와 디오고 동점골을 순서대로 연결",
+            "광주의 VAR 득점 취소는 기사 사실로 분리하고 마지막 자책 헤더·3–2 결과 제시"
+          ]
+        }
+      },
+      "detail": {
+        "format": "원본 영상",
+        "media": [
+          {
+            "url": "https://m.sports.naver.com/kfootball/video/1545893",
+            "label": "실제 득점·역전 영상",
+            "kind": "video"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "실제 득점·역전 영상",
+            "url": "https://m.sports.naver.com/kfootball/video/1545893"
+          }
+        ],
+        "excerpt": "",
+        "context": "18일 대전–광주전의 실제 역전이다. 단순 연승 수치 대신 폭우 중단과 뒤집힌 결말을 다룬다.",
+        "fetched_at": 1792364170,
+        "parser_revision": 7
+      },
+      "curation_event_key": "daejeon-gwangju-var-own-goal-comeback-20261018"
+    },
+    "5a39ea17d0eb": {
+      "source": "뉴시스·SBS",
+      "title": "발목 붙잡고 5–11로 밀렸는데…안세영은 결승을 뒤집었다",
+      "link": "https://www.newsis.com/view/NISX20261018_0003830672",
+      "first_seen_at": 1792364170,
+      "last_seen_at": 1792364170,
+      "samples": [
+        {
+          "at": 1792364170,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "5a39ea17d0eb",
+      "editorial": {
+        "title": "발목 붙잡고 5–11로 밀렸는데…안세영은 결승을 뒤집었다",
+        "category": "메이저 스포츠",
+        "url": "https://www.newsis.com/view/NISX20261018_0003830672",
+        "source": "뉴시스·SBS",
+        "kind": "article",
+        "event_key": "an-se-young-denmark-final-injury-comeback-title-20261018",
+        "why": "배드민턴을 안 보는 친구에게도 통증으로 멈춘 장면과 뒤집힌 점수판을 함께 보낼 이유가 있다.",
+        "angle": "3게임 통증 호소 장면과 5–11→21–18 점수 대비를 첫 장에 둔다.",
+        "why_now": "18일 결승 우승이 새 사실이다. 이미 보낸 17일 결승 진출·연승 소개와 구별한다.",
+        "verified_at": 1792363952,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261018_0003830672",
+            "note": "SBS 연속 프레임에서 코트에 주저앉아 발목 부위를 만지는 모습, 3게임 열세, 마지막 득점 뒤 포효와 덴마크오픈 시상식을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://m.sports.naver.com/general/video/1545935",
+            "label": "실제 결승·시상식 영상",
+            "kind": "video"
+          }
+        ],
+        "caution": "부상 확정 진단은 미확인. 기사 속 AG 자료사진을 덴마크 결승 사진으로 쓰지 말 것.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-18",
+          "observation": "SBS 연속 프레임에서 코트에 주저앉아 발목 부위를 만지는 모습, 3게임 열세, 마지막 득점 뒤 포효와 덴마크오픈 시상식을 확인했다.",
+          "checked_materials": [
+            "https://m.sports.naver.com/general/video/1545935"
+          ],
+          "outline": [
+            "통증을 호소하며 앉은 장면과 5–11 점수 제시",
+            "마지막 게임 21–18, 최종 2–1 역전 우승 확인",
+            "시상식으로 마무리하고 시즌 9회 우승은 보조 수치로만 표기"
+          ]
+        }
+      },
+      "detail": {
+        "format": "원본 영상",
+        "media": [
+          {
+            "url": "https://m.sports.naver.com/general/video/1545935",
+            "label": "실제 결승·시상식 영상",
+            "kind": "video"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "실제 결승·시상식 영상",
+            "url": "https://m.sports.naver.com/general/video/1545935"
+          }
+        ],
+        "excerpt": "",
+        "context": "18일 결승 우승이 새 사실이다. 이미 보낸 17일 결승 진출·연승 소개와 구별한다.",
+        "fetched_at": 1792364170,
+        "parser_revision": 7
+      },
+      "curation_event_key": "an-se-young-denmark-final-injury-comeback-title-20261018"
+    },
+    "2ab1457387ba": {
+      "source": "NBC Sports",
+      "title": "골키퍼가 여기 있었는데…센터라인에서 그대로 꽂아버린 51m 슛",
+      "link": "https://www.nbcsports.com/soccer/premier-league/news/brightons-diego-gomez-scores-from-the-halfway-line-as-seagulls-blitz-rivals-palace",
+      "first_seen_at": 1792364170,
+      "last_seen_at": 1792364170,
+      "samples": [
+        {
+          "at": 1792364170,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "2ab1457387ba",
+      "editorial": {
+        "title": "골키퍼가 여기 있었는데…센터라인에서 그대로 꽂아버린 51m 슛",
+        "category": "축구",
+        "url": "https://www.nbcsports.com/soccer/premier-league/news/brightons-diego-gomez-scores-from-the-halfway-line-as-seagulls-blitz-rivals-palace",
+        "source": "NBC Sports",
+        "kind": "article",
+        "event_key": "diego-gomez-halfway-line-goal-crystal-palace-20261018",
+        "why": "축구 팬이 친구에게 골키퍼 위치를 먼저 짚어주고 슈팅 결말을 보여줄 수 있는 장면이다.",
+        "angle": "센터라인의 고메스와 전진한 골키퍼를 한 프레임에 표시한다.",
+        "why_now": "18일 브라이튼–팰리스 경기에서 나온 실제 51m 득점이며 옛 장거리 골 재업로드가 아니다.",
+        "verified_at": 1792363952,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.nbcsports.com/soccer/premier-league/news/brightons-diego-gomez-scores-from-the-halfway-line-as-seagulls-blitz-rivals-palace",
+            "note": "센터라인 근처에서 공을 받은 고메스가 곧바로 슛을 날리고, 전진했던 베니테스가 뒷걸음질하다 실점한다. 동료들이 입을 가리고 달려오는 후속 장면도 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.nbcsports.com/watch/watch/premier-league/diego-gomezs-halfway-line-screamer-doubles-brightons-lead-against-palace",
+            "label": "NBC 실제 득점 영상",
+            "kind": "video"
+          }
+        ],
+        "caution": "‘올해의 골 수상’으로 쓰지 말 것. 51m는 보도·Opta 인용 수치다.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-18",
+          "observation": "센터라인 근처에서 공을 받은 고메스가 곧바로 슛을 날리고, 전진했던 베니테스가 뒷걸음질하다 실점한다. 동료들이 입을 가리고 달려오는 후속 장면도 확인했다.",
+          "checked_materials": [
+            "https://www.nbcsports.com/watch/watch/premier-league/diego-gomezs-halfway-line-screamer-doubles-brightons-lead-against-palace"
+          ],
+          "outline": [
+            "슈팅 직전 골키퍼와 공의 위치 표시",
+            "공을 받은 동작부터 골대에 꽂히기까지 끊지 않고 재생",
+            "베니테스 표정과 입을 가린 동료들의 실제 반응으로 마무리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "원본 영상",
+        "media": [
+          {
+            "url": "https://www.nbcsports.com/watch/watch/premier-league/diego-gomezs-halfway-line-screamer-doubles-brightons-lead-against-palace",
+            "label": "NBC 실제 득점 영상",
+            "kind": "video"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "NBC 실제 득점 영상",
+            "url": "https://www.nbcsports.com/watch/watch/premier-league/diego-gomezs-halfway-line-screamer-doubles-brightons-lead-against-palace"
+          }
+        ],
+        "excerpt": "",
+        "context": "18일 브라이튼–팰리스 경기에서 나온 실제 51m 득점이며 옛 장거리 골 재업로드가 아니다.",
+        "fetched_at": 1792364170,
+        "parser_revision": 7
+      },
+      "curation_event_key": "diego-gomez-halfway-line-goal-crystal-palace-20261018"
+    },
+    "ba7629d4a054": {
+      "source": "더쿠·리아 공개 스토리 인용",
+      "title": "입양 행사 취소되자…리아는 함께 걷기로 한 강아지를 직접 소개했다",
+      "link": "https://theqoo.net/hot/4379638161",
+      "first_seen_at": 1792364170,
+      "last_seen_at": 1792364170,
+      "samples": [
+        {
+          "at": 1792364170,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "community",
+      "story_id": "ba7629d4a054",
+      "editorial": {
+        "title": "입양 행사 취소되자…리아는 함께 걷기로 한 강아지를 직접 소개했다",
+        "category": "아이돌",
+        "url": "https://theqoo.net/hot/4379638161",
+        "source": "더쿠·리아 공개 스토리 인용",
+        "kind": "community",
+        "event_key": "itzy-lia-haengun-adoption-stories-rain-cancellation-20261018",
+        "why": "동물을 키우는 친구에게 유명인의 외모 사진 대신 실제 입양을 기다리는 한 강아지의 사연을 보낼 수 있다.",
+        "angle": "‘행사 취소’라고 쓴 리아의 스토리와 90번 행운 소개 카드를 붙인다.",
+        "why_now": "18일 입양제 당일 기상 취소 뒤 공개한 스토리다. 공식 행사 페이지의 18일 일정도 확인했다.",
+        "verified_at": 1792363952,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://theqoo.net/hot/4379638161",
+            "note": "18일 공개 스토리의 취소 안내와 행운 소개 문구·사진 확인"
+          },
+          {
+            "url": "https://redcarpet.pimkey.co.kr/",
+            "note": "주최 측 공식 페이지에서 2026-10-18 행사 일정과 참가견 목록을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://img-cdn.theqoo.net/uZZnyO.jpg",
+            "label": "리아 스토리·행운 소개",
+            "kind": "image"
+          },
+          {
+            "url": "https://img-cdn.theqoo.net/isOBnA.jpg",
+            "label": "직접 소개한 행운의 귀",
+            "kind": "image"
+          },
+          {
+            "url": "https://img-cdn.theqoo.net/akDaIS.jpg",
+            "label": "리아와 행운 사진",
+            "kind": "image"
+          }
+        ],
+        "caution": "입양 성사·구조 이후 결과는 확인되지 않았다.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-18",
+          "observation": "리아의 스토리 캡처에서 날씨로 레드카펫이 취소됐다는 문장, 함께 걷기로 한 90번 행운의 소개, 큰 귀와 성격을 설명한 직접 촬영 사진을 확인했다.",
+          "checked_materials": [
+            "https://img-cdn.theqoo.net/uZZnyO.jpg",
+            "https://img-cdn.theqoo.net/isOBnA.jpg",
+            "https://img-cdn.theqoo.net/akDaIS.jpg"
+          ],
+          "outline": [
+            "취소 안내와 90번 행운 소개를 첫 카드에 배치",
+            "리아가 올린 귀·성격 소개를 실제 문구 범위에서 인용",
+            "주최 측 원문을 안내하고 입양 완료 여부는 미확인으로 명시"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [
+          {
+            "url": "https://img-cdn.theqoo.net/uZZnyO.jpg",
+            "label": "리아 스토리·행운 소개",
+            "kind": "image"
+          },
+          {
+            "url": "https://img-cdn.theqoo.net/isOBnA.jpg",
+            "label": "직접 소개한 행운의 귀",
+            "kind": "image"
+          },
+          {
+            "url": "https://img-cdn.theqoo.net/akDaIS.jpg",
+            "label": "리아와 행운 사진",
+            "kind": "image"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "리아 스토리·행운 소개",
+            "url": "https://img-cdn.theqoo.net/uZZnyO.jpg"
+          },
+          {
+            "label": "직접 소개한 행운의 귀",
+            "url": "https://img-cdn.theqoo.net/isOBnA.jpg"
+          },
+          {
+            "label": "리아와 행운 사진",
+            "url": "https://img-cdn.theqoo.net/akDaIS.jpg"
+          }
+        ],
+        "excerpt": "",
+        "context": "18일 입양제 당일 기상 취소 뒤 공개한 스토리다. 공식 행사 페이지의 18일 일정도 확인했다.",
+        "fetched_at": 1792364170,
+        "parser_revision": 7
+      },
+      "curation_event_key": "itzy-lia-haengun-adoption-stories-rain-cancellation-20261018"
+    },
+    "9dec79820197": {
+      "source": "MBC 스트레이트",
+      "title": "수험생은 접속 못 했는데…원서 대행사는 대학에 차량·제설기까지 줬다",
+      "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6858811_37004.html",
+      "first_seen_at": 1792364170,
+      "last_seen_at": 1792364170,
+      "samples": [
+        {
+          "at": 1792364170,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "9dec79820197",
+      "editorial": {
+        "title": "수험생은 접속 못 했는데…원서 대행사는 대학에 차량·제설기까지 줬다",
+        "category": "시사",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6858811_37004.html",
+        "source": "MBC 스트레이트",
+        "kind": "article",
+        "event_key": "university-application-firms-200-eok-benefits-disclosure-20261018",
+        "why": "수험생·학부모가 원서 수수료를 내는 구조와 대학에 제공된 영업상 혜택을 함께 따져볼 소재다.",
+        "angle": "접수 먹통 안내와 대학에 제공된 카니발·제설기 품목을 문서 인용 카드로 대비한다.",
+        "why_now": "18일 MBC가 공정위 의결서와 내부 영업 문건을 근거로 약 200억원 제공 내역을 새로 보도했다.",
+        "verified_at": 1792363952,
+        "published_at": 1792321964,
+        "evidence": [
+          {
+            "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6858811_37004.html",
+            "note": "MBC 본문에서 2013~2023년 두 대행사의 대학 대상 금품·서비스 약 200억원, 최대 1억5천만원 발전기금, 4300만원 차량 등 내역과 대학 측 반론을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6858811_37004.html",
+            "label": "문건·반론 포함 원보도",
+            "kind": "source"
+          }
+        ],
+        "caution": "‘뇌물 확정’으로 단정 금지. 약 200억원은 11년 누계이며 개별 수험생 돈의 직접 전용은 미확인.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-18",
+          "observation": "MBC 본문에서 2013~2023년 두 대행사의 대학 대상 금품·서비스 약 200억원, 최대 1억5천만원 발전기금, 4300만원 차량 등 내역과 대학 측 반론을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "9월 접수 중단과 18일 새 취재 결과를 날짜로 분리",
+            "공정위 의결서를 인용한 제공액·품목과 11년 기간 명시",
+            "대학의 ‘선정 대가 아님’ 반론을 함께 제시하고 수수료 흐름 질문으로 마무리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "문건·반론 포함 원보도",
+            "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6858811_37004.html"
+          }
+        ],
+        "excerpt": "",
+        "context": "18일 MBC가 공정위 의결서와 내부 영업 문건을 근거로 약 200억원 제공 내역을 새로 보도했다.",
+        "fetched_at": 1792364170,
+        "parser_revision": 7
+      },
+      "curation_event_key": "university-application-firms-200-eok-benefits-disclosure-20261018"
+    },
+    "1891e812a749": {
+      "source": "연합뉴스·서울시 제출자료 보도",
+      "title": "10만 대 다니는 고가도로…케이블은 또 끊어졌는데 점검은 ‘양호’",
+      "link": "https://www.yna.co.kr/view/AKR20261018047100004",
+      "first_seen_at": 1792364170,
+      "last_seen_at": 1792364170,
+      "samples": [
+        {
+          "at": 1792364170,
+          "views": null,
+          "reactions": null,
+          "rank": 8,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "1891e812a749",
+      "editorial": {
+        "title": "10만 대 다니는 고가도로…케이블은 또 끊어졌는데 점검은 ‘양호’",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261018047100004",
+        "source": "연합뉴스·서울시 제출자료 보도",
+        "kind": "article",
+        "event_key": "jeongneung-viaduct-tendon-breaks-audit-disclosure-20261019",
+        "why": "내부순환로 이용자가 실제 통행 구간의 반복 파손과 서울시 교체·통제 기준 해명을 함께 확인할 사안이다.",
+        "angle": "정릉천고가 이름과 ‘반복 파손 / B등급’ 점검 연표를 사실 카드로 놓는다.",
+        "why_now": "19일 국감 제출자료 분석이 공개됐다. 2016년 통행 재개 사진을 오늘 통제 사진으로 쓰지 않는다.",
+        "verified_at": 1792363952,
+        "published_at": 1792338900,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261018047100004",
+            "note": "2016·2024·2026년 텐던 파단, 손상 25본 미교체와 추가 10본을 합한 35본 교체 계획, 서울시의 ‘4개 파단까지 통제 없이 교체 가능’ 용역 설명을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261018047100004",
+            "label": "제출자료·서울시 해명",
+            "kind": "source"
+          }
+        ],
+        "caution": "현재 붕괴 임박·통행금지 아님. C3 부식 분류를 시설 전체 안전등급 C로 바꾸지 말 것.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-19",
+          "observation": "2016·2024·2026년 텐던 파단, 손상 25본 미교체와 추가 10본을 합한 35본 교체 계획, 서울시의 ‘4개 파단까지 통제 없이 교체 가능’ 용역 설명을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "하루 10만 대 통행 구간과 강철 텐던의 역할 설명",
+            "정밀 점검 B등급과 반복 파단 연표를 나란히 제시",
+            "내년 6월까지 35본 교체 계획·서울시 반론을 포함"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "제출자료·서울시 해명",
+            "url": "https://www.yna.co.kr/view/AKR20261018047100004"
+          }
+        ],
+        "excerpt": "",
+        "context": "19일 국감 제출자료 분석이 공개됐다. 2016년 통행 재개 사진을 오늘 통제 사진으로 쓰지 않는다.",
+        "fetched_at": 1792364170,
+        "parser_revision": 7
+      },
+      "curation_event_key": "jeongneung-viaduct-tendon-breaks-audit-disclosure-20261019"
+    },
+    "812314978746": {
+      "source": "연합뉴스·금감원 제출자료 보도",
+      "title": "전자결제 사고 170억원인데 보상률은 17%…최소 기준도 못 갖춘 12곳",
+      "link": "https://www.yna.co.kr/view/AKR20261018037700002",
+      "first_seen_at": 1792364170,
+      "last_seen_at": 1792364170,
+      "samples": [
+        {
+          "at": 1792364170,
+          "views": null,
+          "reactions": null,
+          "rank": 9,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "812314978746",
+      "editorial": {
+        "title": "전자결제 사고 170억원인데 보상률은 17%…최소 기준도 못 갖춘 12곳",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261018037700002",
+        "source": "연합뉴스·금감원 제출자료 보도",
+        "kind": "article",
+        "event_key": "electronic-finance-compensation-shortfall-disclosure-20261019",
+        "why": "간편결제 이용자가 사고 예방만이 아니라 피해 후 배상 능력과 선보상 여부도 따져보도록 돕는 수치다.",
+        "angle": "170.9억원 사고액·17.3% 보상률과 법정 기준 미달 12/194개사를 표기한다.",
+        "why_now": "19일 공개된 금감원 제출자료로 올해 7월 말 보상체계·사고액을 확인한 새 보도다.",
+        "verified_at": 1792363952,
+        "published_at": 1792356781,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261018037700002",
+            "note": "194개사 중 최소 기준 미달 12곳, 보험·준비금을 모두 갖춘 곳 19개사, 올해 7월까지 사고액 170억8875만원·보상률 17.3%, 당국 계도 설명을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261018037700002",
+            "label": "194개사 보상체계 자료",
+            "kind": "source"
+          }
+        ],
+        "caution": "‘90% 불법’ 아님. 보상률은 집계 시점 수치이며 나머지 전액의 최종 보상 거절을 뜻하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-19",
+          "observation": "194개사 중 최소 기준 미달 12곳, 보험·준비금을 모두 갖춘 곳 19개사, 올해 7월까지 사고액 170억8875만원·보상률 17.3%, 당국 계도 설명을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "올해 7월까지 사고액과 보상률을 같은 기간 기준으로 제시",
+            "보험 또는 준비금 중 하나만 충족해도 적법함을 설명하고 미달 12곳 분리",
+            "선보상 자율 도입은 5곳이라는 사실과 당국 입장을 덧붙임"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "194개사 보상체계 자료",
+            "url": "https://www.yna.co.kr/view/AKR20261018037700002"
+          }
+        ],
+        "excerpt": "",
+        "context": "19일 공개된 금감원 제출자료로 올해 7월 말 보상체계·사고액을 확인한 새 보도다.",
+        "fetched_at": 1792364170,
+        "parser_revision": 7
+      },
+      "curation_event_key": "electronic-finance-compensation-shortfall-disclosure-20261019"
+    },
+    "466d8494520a": {
+      "source": "연합뉴스·금감원 제출자료 보도",
+      "title": "계좌 동결 풀어달랬는데 평균 18.6일…‘통장묶기’ 악용에 더딘 대응",
+      "link": "https://www.yna.co.kr/view/AKR20261017041400002",
+      "first_seen_at": 1792364170,
+      "last_seen_at": 1792364170,
+      "samples": [
+        {
+          "at": 1792364170,
+          "views": null,
+          "reactions": null,
+          "rank": 10,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "466d8494520a",
+      "editorial": {
+        "title": "계좌 동결 풀어달랬는데 평균 18.6일…‘통장묶기’ 악용에 더딘 대응",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261017041400002",
+        "source": "연합뉴스·금감원 제출자료 보도",
+        "kind": "article",
+        "event_key": "bank-account-freeze-appeals-delays-disclosure-20261019",
+        "why": "계좌를 공개하는 자영업자가 허위 신고 악용 위험과 은행별 해제 지연을 거래 상대에게 설명할 자료다.",
+        "angle": "‘소액 입금→허위 신고→동결’ 구조와 은행별 실제 이의 처리 기간을 분리해 보여준다.",
+        "why_now": "19일 금감원 자료 공개로 상반기 이의제기 인용 6515건과 7월 은행별 처리 기간이 드러났다.",
+        "verified_at": 1792363952,
+        "published_at": 1792357021,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261017041400002",
+            "note": "5대 은행 상반기 지급정지 37135건 중 이의제기로 종료된 6515건, 국민은행 평균 18.6일·신한 16.1일, 5영업일 가이드라인과 달력일 통계 차이를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261017041400002",
+            "label": "이의제기·처리기간 자료",
+            "kind": "source"
+          }
+        ],
+        "caution": "6515건 전체가 통장묶기 사기 확정은 아님. 18.6일은 주말 포함 달력일이다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-19",
+          "observation": "5대 은행 상반기 지급정지 37135건 중 이의제기로 종료된 6515건, 국민은행 평균 18.6일·신한 16.1일, 5영업일 가이드라인과 달력일 통계 차이를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "통장묶기 악용 구조를 피해 예방 관점으로 짧게 설명",
+            "이의제기 인용 6515건은 확정 사기 피해자 수가 아님을 명시",
+            "7월 평균 처리 기간과 5영업일 권고를 단위 차이와 함께 비교"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "이의제기·처리기간 자료",
+            "url": "https://www.yna.co.kr/view/AKR20261017041400002"
+          }
+        ],
+        "excerpt": "",
+        "context": "19일 금감원 자료 공개로 상반기 이의제기 인용 6515건과 7월 은행별 처리 기간이 드러났다.",
+        "fetched_at": 1792364170,
+        "parser_revision": 7
+      },
+      "curation_event_key": "bank-account-freeze-appeals-delays-disclosure-20261019"
+    },
     "2a2444c031c8": {
       "source": "네이트 스포츠",
       "title": "\"평생 한국 다시는 안 온다!\" 퇴장 판정에 '제 뺨 때린' 한 중국 감독, 분...",
@@ -14909,24 +15761,6 @@
       "parser_revision": 2,
       "story_id": "0db386061862"
     },
-    "1e92ec049285": {
-      "source": "네이버 뉴스",
-      "title": "[단독] 걸더니 손 떼고 질주…판매 판치는데 단속 '0건'",
-      "link": "https://n.news.naver.com/article/055/0001396356",
-      "first_seen_at": 1792349999,
-      "last_seen_at": 1792349999,
-      "samples": [
-        {
-          "at": 1792349999,
-          "views": null,
-          "reactions": null,
-          "rank": 14,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "1e92ec049285"
-    },
     "792fb41a4afc": {
       "source": "네이버 뉴스",
       "title": "李대통령 \"'국무회의 공개라 말 못한다'는 거짓말…이해 안 돼\"(종합)",
@@ -20233,31 +21067,6 @@
       ],
       "parser_revision": 3,
       "story_id": "65ea465381b6"
-    },
-    "ef4299b2eca5": {
-      "source": "네이트 스포츠",
-      "title": "\"이 볼보이는 커서 유럽파 골잡이가 됩니다\" '깃발 세리머니' 오현규의 멋...",
-      "link": "https://news.nate.com/view/20261018n10184",
-      "first_seen_at": 1792330293,
-      "last_seen_at": 1792342176,
-      "samples": [
-        {
-          "at": 1792330293,
-          "views": null,
-          "reactions": null,
-          "rank": 50,
-          "rank_kind": "nate_spo_interest_100"
-        },
-        {
-          "at": 1792342176,
-          "views": null,
-          "reactions": null,
-          "rank": 22,
-          "rank_kind": "nate_spo_interest_100"
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "ef4299b2eca5"
     },
     "10f121506fa1": {
       "source": "펨코 간접",
@@ -30493,31 +31302,6 @@
       ],
       "parser_revision": 3,
       "story_id": "6b285209eec2"
-    },
-    "ab83116253ac": {
-      "source": "네이트 스포츠",
-      "title": "'폭우'로 후반전 30분 연기, 대전이 '이득'봤다…'대역전극' 펼친 황선홍호...",
-      "link": "https://news.nate.com/view/20261018n12791",
-      "first_seen_at": 1792315670,
-      "last_seen_at": 1792330293,
-      "samples": [
-        {
-          "at": 1792315670,
-          "views": null,
-          "reactions": null,
-          "rank": 25,
-          "rank_kind": "nate_spo_interest_100"
-        },
-        {
-          "at": 1792330293,
-          "views": null,
-          "reactions": null,
-          "rank": 41,
-          "rank_kind": "nate_spo_interest_100"
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "ab83116253ac"
     },
     "7ca16ebd4fd4": {
       "source": "네이트 스포츠",
@@ -147096,5 +147880,5 @@
       }
     }
   },
-  "updated_at": 1792349999
+  "updated_at": 1792364170
 }

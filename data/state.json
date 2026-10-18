@@ -1,46 +1,76 @@
 {
-  "updated_at": 1792330790,
+  "updated_at": 1792364400,
   "status": "ok",
   "errors": {},
   "report": {
-    "version": "btp-editorial-v8",
+    "version": "btp-editorial-v9",
     "delivery": "sent",
     "messages": 1,
-    "stories": 4,
+    "stories": 10,
     "duplicates_excluded": 0,
     "ai": "chatgpt_web_research",
     "requested_stories": 10,
     "reviewed_edition_version": 2,
-    "trigger": "user_requested",
-    "hour_utc": "2026101813",
+    "trigger": "hourly",
+    "hour_utc": "2026101823",
     "category_counts": {
-      "시사": 1,
-      "축구": 2,
+      "시사": 5,
+      "축구": 3,
       "메이저 스포츠": 1,
-      "아이돌": 0
+      "아이돌": 1
     },
-    "research_queries": 16,
-    "opened_sources": 30,
+    "research_queries": 28,
+    "opened_sources": 19,
     "picks": [
       {
-        "title": "지나가다 다시 쳐다봤다…관중석에서 도플갱어를 본 커 감독",
-        "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/steve-kerr-doppleganger-twin-lookalike/1971785/",
-        "event_key": "steve-kerr-steve-gillis-lookalike-las-vegas-lakers-20261013"
+        "title": "발목 붙잡고 5–11로 밀렸는데…안세영은 결승을 뒤집었다",
+        "url": "https://www.newsis.com/view/NISX20261018_0003830672",
+        "event_key": "an-se-young-denmark-final-injury-comeback-title-20261018"
       },
       {
-        "title": "“내 몸 때렸는데 퇴장?”…中 감독이 직접 재연한 항의",
-        "url": "https://news.nate.com/view/20261018n04871",
-        "event_key": "dong-lu-self-slap-red-card-reenactment-gyeongju-20261017"
+        "title": "골키퍼가 여기 있었는데…센터라인에서 그대로 꽂아버린 51m 슛",
+        "url": "https://www.nbcsports.com/soccer/premier-league/news/brightons-diego-gomez-scores-from-the-halfway-line-as-seagulls-blitz-rivals-palace",
+        "event_key": "diego-gomez-halfway-line-goal-crystal-palace-20261018"
       },
       {
-        "title": "야말과 밀치며 맞붙더니…베르날은 결국 다이렉트 레드",
-        "url": "https://www.starnewskorea.com/sports/2026/10/18/2026101817333475223",
-        "event_key": "facundo-bernal-neck-grip-headbutt-red-card-yamal-betis-20261017"
+        "title": "수원 볼보이가 유럽에서 골 넣더니…조나탄의 깃발을 다시 들었다",
+        "url": "https://news.nate.com/view/20261018n10184",
+        "event_key": "oh-hyeon-gyu-jonathan-corner-flag-celebration-20261016"
       },
       {
-        "title": "400명에서 1,800명 체포로…프랑스 시위 뒤 드러난 피해",
-        "url": "https://apnews.com/article/f5ce07c2ef46ad0c02c6ff7018532a59",
-        "event_key": "france-protests-1800-arrests-500-injured-limoges-loss-update-20261018"
+        "title": "입양 행사 취소되자…리아는 함께 걷기로 한 강아지를 직접 소개했다",
+        "url": "https://theqoo.net/hot/4379638161",
+        "event_key": "itzy-lia-haengun-adoption-stories-rain-cancellation-20261018"
+      },
+      {
+        "title": "0–2에서 3–2…폭우 뒤 대전이 만든 마지막 장면은 자책골이었다",
+        "url": "https://news.nate.com/view/20261018n12791",
+        "event_key": "daejeon-gwangju-var-own-goal-comeback-20261018"
+      },
+      {
+        "title": "운전대에서 손 떼면 꺼졌는데…고리 하나 걸자 경고가 사라졌다",
+        "url": "https://n.news.naver.com/article/055/0001396356",
+        "event_key": "sbs-autopilot-helper-warning-test-enforcement-20261018"
+      },
+      {
+        "title": "수험생은 접속 못 했는데…원서 대행사는 대학에 차량·제설기까지 줬다",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6858811_37004.html",
+        "event_key": "university-application-firms-200-eok-benefits-disclosure-20261018"
+      },
+      {
+        "title": "10만 대 다니는 고가도로…케이블은 또 끊어졌는데 점검은 ‘양호’",
+        "url": "https://www.yna.co.kr/view/AKR20261018047100004",
+        "event_key": "jeongneung-viaduct-tendon-breaks-audit-disclosure-20261019"
+      },
+      {
+        "title": "전자결제 사고 170억원인데 보상률은 17%…최소 기준도 못 갖춘 12곳",
+        "url": "https://www.yna.co.kr/view/AKR20261018037700002",
+        "event_key": "electronic-finance-compensation-shortfall-disclosure-20261019"
+      },
+      {
+        "title": "계좌 동결 풀어달랬는데 평균 18.6일…‘통장묶기’ 악용에 더딘 대응",
+        "url": "https://www.yna.co.kr/view/AKR20261017041400002",
+        "event_key": "bank-account-freeze-appeals-delays-disclosure-20261019"
       }
     ]
   }
