@@ -1,56 +1,46 @@
 {
-  "updated_at": 1792322986,
+  "updated_at": 1792330790,
   "status": "ok",
   "errors": {},
   "report": {
     "version": "btp-editorial-v8",
     "delivery": "sent",
     "messages": 1,
-    "stories": 6,
+    "stories": 4,
     "duplicates_excluded": 0,
     "ai": "chatgpt_web_research",
     "requested_stories": 10,
     "reviewed_edition_version": 2,
-    "trigger": "hourly",
-    "hour_utc": "2026101811",
+    "trigger": "user_requested",
+    "hour_utc": "2026101813",
     "category_counts": {
-      "시사": 3,
-      "축구": 1,
+      "시사": 1,
+      "축구": 2,
       "메이저 스포츠": 1,
-      "아이돌": 1
+      "아이돌": 0
     },
-    "research_queries": 40,
-    "opened_sources": 35,
+    "research_queries": 16,
+    "opened_sources": 30,
     "picks": [
       {
-        "title": "자기 진영에서 출발해 골까지…야말의 왼발 감아차기",
-        "url": "https://www.goal.com/en/news/video-lamine-yamal-finds-the-real-betis-net-with-a-sensational-goal/blt9181ef23775d5118",
-        "event_key": "lamine-yamal-own-half-run-curl-betis-20261017"
+        "title": "지나가다 다시 쳐다봤다…관중석에서 도플갱어를 본 커 감독",
+        "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/steve-kerr-doppleganger-twin-lookalike/1971785/",
+        "event_key": "steve-kerr-steve-gillis-lookalike-las-vegas-lakers-20261013"
       },
       {
-        "title": "“티 진짜 안 난다”…유라의 농담에 양세찬이 지은 표정",
-        "url": "https://isplus.com/article/view/isp202610180127",
-        "event_key": "yura-yang-sechan-dating-rumor-joke-runningman-20261018"
+        "title": "“내 몸 때렸는데 퇴장?”…中 감독이 직접 재연한 항의",
+        "url": "https://news.nate.com/view/20261018n04871",
+        "event_key": "dong-lu-self-slap-red-card-reenactment-gyeongju-20261017"
       },
       {
-        "title": "대북풍선 SD카드에 탈북민 131명 신상이 남아 있었다",
-        "url": "https://n.news.naver.com/article/005/0001879356",
-        "event_key": "north-korea-balloon-defector-131-data-exposure-disclosure-20261018"
+        "title": "야말과 밀치며 맞붙더니…베르날은 결국 다이렉트 레드",
+        "url": "https://www.starnewskorea.com/sports/2026/10/18/2026101817333475223",
+        "event_key": "facundo-bernal-neck-grip-headbutt-red-card-yamal-betis-20261017"
       },
       {
-        "title": "커피 멤버십에 주소·비밀번호까지…할리스가 보낸 유출 안내",
-        "url": "https://www.newsis.com/view/NISX20261018_0003830632",
-        "event_key": "hollys-membership-data-breach-confirmation-20261016"
-      },
-      {
-        "title": "올해 60승 1패·43연승…안세영이 결승 앞두고 쌓은 성적표",
-        "url": "https://www.yna.co.kr/view/AKR20261018001200007",
-        "event_key": "an-se-young-season-60-1-denmark-final-20261017"
-      },
-      {
-        "title": "소아응급센터 두 곳서 전문의 3명 사직서 제출 보도",
-        "url": "https://n.news.naver.com/article/008/0005427957",
-        "event_key": "pediatric-er-resignation-letters-three-two-centers-report-20261018"
+        "title": "400명에서 1,800명 체포로…프랑스 시위 뒤 드러난 피해",
+        "url": "https://apnews.com/article/f5ce07c2ef46ad0c02c6ff7018532a59",
+        "event_key": "france-protests-1800-arrests-500-injured-limoges-loss-update-20261018"
       }
     ]
   }

@@ -1,6 +1,402 @@
 {
   "version": 1,
   "items": {
+    "2a2444c031c8": {
+      "source": "스포츠조선·소후 보도",
+      "title": "“내 몸 때렸는데 퇴장?”…中 감독이 직접 재연한 항의",
+      "link": "https://news.nate.com/view/20261018n04871",
+      "first_seen_at": 1792299829,
+      "last_seen_at": 1792330789,
+      "samples": [
+        {
+          "at": 1792299829,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": "nate_spo_interest_100"
+        },
+        {
+          "at": 1792315670,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": "nate_spo_interest_100"
+        },
+        {
+          "at": 1792330293,
+          "views": null,
+          "reactions": null,
+          "rank": 11,
+          "rank_kind": "nate_spo_interest_100"
+        },
+        {
+          "at": 1792330789,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "story_id": "2a2444c031c8",
+      "content_kind": "article",
+      "editorial": {
+        "title": "“내 몸 때렸는데 퇴장?”…中 감독이 직접 재연한 항의",
+        "category": "축구",
+        "url": "https://news.nate.com/view/20261018n04871",
+        "source": "스포츠조선·소후 보도",
+        "kind": "article",
+        "event_key": "dong-lu-self-slap-red-card-reenactment-gyeongju-20261017",
+        "why": "자기 뺨을 때리는 시늉으로 항의 과정을 설명하는 역설이 보여, 국내 축구 팬끼리 공유할 장면이다.",
+        "angle": "경기 후 인터뷰에서 뺨에 손을 대는 실제 캡처와 감독의 질문을 함께 놓는다.",
+        "why_now": "경주 유소년대회에서 16일 퇴장한 둥루가 17일 SNS에서 과정을 설명한 장면을 18일 보도했다. 현재 공개된 재연과 발언을 다루며 편파 판정을 확정하지 않는다.",
+        "verified_at": 1792329040,
+        "published_at": 1792287840,
+        "evidence": [
+          {
+            "url": "https://news.nate.com/view/20261018n04871",
+            "note": "스포츠조선 본문과 “인터뷰에서 자기 뺨을 때리는 시늉”이라는 캡처 설명을 확인했다. 퇴장 이유에 관한 설명은 둥루 자신의 주장이다."
+          },
+          {
+            "url": "https://m.sohu.com/a/1089207642_121896609",
+            "note": "18일 소후 글은 경기 날짜를 16일, SNS 설명을 전날인 17일로 구분한다. 감독이 경기장에 들어가 추가시간에 항의했다고도 전한다."
+          },
+          {
+            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/sc/2026/10/18/2026101801001109700072284.jpg",
+            "note": "실제 인터뷰 캡처에서 둥루가 손바닥을 자신의 뺨 쪽에 대며 설명하는 모습을 확인했다. 경기 도중 타격 장면으로 취급하지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/sc/2026/10/18/2026101801001109700072284.jpg",
+            "label": "감독의 사후 재연 캡처",
+            "kind": "image"
+          },
+          {
+            "url": "https://m.sohu.com/a/1089207642_121896609",
+            "label": "날짜·발언 중국어 보도",
+            "kind": "source"
+          }
+        ],
+        "caution": "감독의 설명이며 공식 퇴장 사유는 미확인이다. 사진은 사후 재연이다.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-17",
+          "observation": "본인이 손을 뺨에 대고 설명하는 인터뷰 캡처를 직접 봤다. 실제 경기 중 셀프 타격과 심판의 카드 제시를 영상으로 본 것은 아니다. 관련 원인 설명은 감독에게 귀속한다.",
+          "checked_materials": [
+            "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/sc/2026/10/18/2026101801001109700072284.jpg"
+          ],
+          "outline": [
+            "첫 장: 사후 인터뷰 캡처에 “내 몸을 때렸는데 왜 레드?”라는 감독의 설명을 인용하고 재연이라고 적는다.",
+            "두 번째 장: 16일 경기 항의·퇴장과 17일 사후 SNS 설명의 순서를 구분한다.",
+            "세 번째 장: 경기장 진입·추가시간 항의 맥락도 함께 적고, 심판의 공식 사유나 편파 여부를 단정하지 않는다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [
+          {
+            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/sc/2026/10/18/2026101801001109700072284.jpg",
+            "label": "감독의 사후 재연 캡처",
+            "kind": "image"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "감독의 사후 재연 캡처",
+            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/sc/2026/10/18/2026101801001109700072284.jpg"
+          },
+          {
+            "label": "날짜·발언 중국어 보도",
+            "url": "https://m.sohu.com/a/1089207642_121896609"
+          }
+        ],
+        "excerpt": "",
+        "context": "경주 유소년대회에서 16일 퇴장한 둥루가 17일 SNS에서 과정을 설명한 장면을 18일 보도했다. 현재 공개된 재연과 발언을 다루며 편파 판정을 확정하지 않는다.",
+        "fetched_at": 1792330789,
+        "parser_revision": 7
+      },
+      "curation_event_key": "dong-lu-self-slap-red-card-reenactment-gyeongju-20261017"
+    },
+    "be13d8838c93": {
+      "source": "NBC Sports Bay Area·ESPN",
+      "title": "지나가다 다시 쳐다봤다…관중석에서 도플갱어를 본 커 감독",
+      "link": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/steve-kerr-doppleganger-twin-lookalike/1971785/",
+      "first_seen_at": 1792330789,
+      "last_seen_at": 1792330789,
+      "samples": [
+        {
+          "at": 1792330789,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "be13d8838c93",
+      "editorial": {
+        "title": "지나가다 다시 쳐다봤다…관중석에서 도플갱어를 본 커 감독",
+        "category": "메이저 스포츠",
+        "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/steve-kerr-doppleganger-twin-lookalike/1971785/",
+        "source": "NBC Sports Bay Area·ESPN",
+        "kind": "article",
+        "event_key": "steve-kerr-steve-gillis-lookalike-las-vegas-lakers-20261013",
+        "why": "본인과 닮은 관중을 보고 되돌아보는 감독의 반응이 설명 없이 읽혀, NBA 친구에게 바로 보낼 장면이다.",
+        "angle": "커 감독과 닮은 관중의 얼굴을 먼저 붙인 뒤, 실제 영상의 되돌아보는 반응을 보여준다.",
+        "why_now": "13일 화요일 라스베이거스 레이커스전 장면이 17일 새 영상·보도로 퍼졌다. 2024년 첫 화제 당시와 다른 재회이며, 앞선 커리·심판 골프 스윙과도 다른 사건이다.",
+        "verified_at": 1792329989,
+        "published_at": 1792252547,
+        "evidence": [
+          {
+            "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/steve-kerr-doppleganger-twin-lookalike/1971785/",
+            "note": "NBC는 이번 장면을 화요일 T-Mobile Arena 레이커스전으로 특정하고 금요일 블레이저스전 표기를 정정했다. 기사 날짜 17일의 같은 주 화요일은 13일이다. 닮은 관중은 스티브 길리스이며 2024년에도 화제였다."
+          },
+          {
+            "url": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/2026/1017/dm_261017_nba_kerr_doppelganger/dm_261017_nba_kerr_doppelganger.mp4",
+            "note": "25.8초 실제 영상의 연속 프레임에서 커 감독이 이동하다 관중 쪽을 재차 바라보고, 카메라가 그와 닮은 회색 머리 관중을 함께 비추는 흐름을 확인했다."
+          },
+          {
+            "url": "https://www.nba.com/lakers/game/0012600048-warriors-vs-lakers-las-vegas-nv-10-13-2026/game-charts",
+            "note": "NBA 공식 경기 페이지에서 라스베이거스 레이커스전 날짜가 13일임을 대조했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/2026/1017/dm_261017_nba_kerr_doppelganger/dm_261017_nba_kerr_doppelganger.mp4",
+            "label": "커 감독·도플갱어 실제 영상",
+            "kind": "video"
+          },
+          {
+            "url": "https://www.espn.com/video/clip/_/id/50201438/steve-kerr-mystified-seeing-doppelganger-crowd",
+            "label": "ESPN 공개 영상 페이지",
+            "kind": "source"
+          }
+        ],
+        "caution": "13일 경기·17일 새 공개 영상이다. 두 사람의 첫 만남이라고 쓰지 않는다.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-13",
+          "observation": "영상에서 커 감독이 관중석 통로를 지나며 돌아보고, 이어 그와 닮은 관중이 비춰진다. 닮은 얼굴과 반복해서 바라보는 반응을 확인했으며, 속마음이나 대화 내용은 추정하지 않았다.",
+          "checked_materials": [
+            "https://espnmedia-cdn.akamaized.net/espn/media/16x9/2026/1017/dm_261017_nba_kerr_doppelganger/dm_261017_nba_kerr_doppelganger.mp4"
+          ],
+          "outline": [
+            "첫 장: 실제 영상에서 추출한 두 사람의 얼굴을 나란히 놓고 “둘 다 스티브”라는 확인된 사실만 적는다.",
+            "다음 컷: 감독이 이동하다 관중 쪽을 바라보는 구간을 실제 순서대로 연결한다.",
+            "마지막 장: 라스베이거스 경기 13일·영상 공개 17일을 분리하고, 2024년 첫 화제 장면과 구분한다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "원본 영상",
+        "media": [
+          {
+            "url": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/2026/1017/dm_261017_nba_kerr_doppelganger/dm_261017_nba_kerr_doppelganger.mp4",
+            "label": "커 감독·도플갱어 실제 영상",
+            "kind": "video"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "커 감독·도플갱어 실제 영상",
+            "url": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/2026/1017/dm_261017_nba_kerr_doppelganger/dm_261017_nba_kerr_doppelganger.mp4"
+          },
+          {
+            "label": "ESPN 공개 영상 페이지",
+            "url": "https://www.espn.com/video/clip/_/id/50201438/steve-kerr-mystified-seeing-doppelganger-crowd"
+          }
+        ],
+        "excerpt": "",
+        "context": "13일 화요일 라스베이거스 레이커스전 장면이 17일 새 영상·보도로 퍼졌다. 2024년 첫 화제 당시와 다른 재회이며, 앞선 커리·심판 골프 스윙과도 다른 사건이다.",
+        "fetched_at": 1792330789,
+        "parser_revision": 7
+      },
+      "curation_event_key": "steve-kerr-steve-gillis-lookalike-las-vegas-lakers-20261013"
+    },
+    "68df733b844d": {
+      "source": "스타뉴스",
+      "title": "야말과 밀치며 맞붙더니…베르날은 결국 다이렉트 레드",
+      "link": "https://www.starnewskorea.com/sports/2026/10/18/2026101817333475223",
+      "first_seen_at": 1792330789,
+      "last_seen_at": 1792330789,
+      "samples": [
+        {
+          "at": 1792330789,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "68df733b844d",
+      "editorial": {
+        "title": "야말과 밀치며 맞붙더니…베르날은 결국 다이렉트 레드",
+        "category": "축구",
+        "url": "https://www.starnewskorea.com/sports/2026/10/18/2026101817333475223",
+        "source": "스타뉴스",
+        "kind": "article",
+        "event_key": "facundo-bernal-neck-grip-headbutt-red-card-yamal-betis-20261017",
+        "why": "맞붙은 두 선수의 자세와 박치기 뒤 퇴장이라는 결과가 선명해, 축구 팬끼리 판정·감정 조절을 얘기할 장면이다.",
+        "angle": "실제 중계 캡처의 목을 잡은 손과 양팔을 든 야말을 보여주고, 직전 밀치기 맥락도 붙인다.",
+        "why_now": "17일 베티스전 후반 충돌이다. 앞서 추천한 야말의 선제골과는 다른 행위·당사자·결과인 베르날의 퇴장을 검토했다. 추가 출전정지 기간은 확정하지 않는다.",
+        "verified_at": 1792330268,
+        "published_at": 1792315438,
+        "evidence": [
+          {
+            "url": "https://www.starnewskorea.com/sports/2026/10/18/2026101817333475223",
+            "note": "한국어 원문은 야말의 앞선 밀치기, 베르날과의 상호 밀치기, 베르날의 머리 가격과 다이렉트 퇴장 순서를 설명한다. 야말을 일방적 피해자로 만들지 않았다."
+          },
+          {
+            "url": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=640/21/2026/10/2026101817333475223_4.jpg",
+            "note": "중계 캡처에서 상대가 야말의 목 뒤에 손을 두고 얼굴을 가까이 댄 모습과 야말의 들어 올린 두 팔을 직접 확인했다. 전체 경기 영상은 미시청이다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=640/21/2026/10/2026101817333475223_4.jpg",
+            "label": "충돌 순간 실제 중계 캡처",
+            "kind": "image"
+          }
+        ],
+        "caution": "야말도 앞서 상대를 밀쳤다. 일방적 피해 장면으로 편집하지 않는다.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-17",
+          "observation": "실제 중계 캡처에서 베르날이 야말 목 뒤에 손을 두고 얼굴을 가까이 대며, 야말이 두 팔을 든 모습을 확인했다. 머리 가격과 퇴장 결과는 본문으로 대조했고, 동영상 전체를 봤다고 표시하지 않았다.",
+          "checked_materials": [
+            "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=640/21/2026/10/2026101817333475223_4.jpg"
+          ],
+          "outline": [
+            "첫 장: 확인한 중계 캡처를 쓰고 “충돌 끝에 베르날 퇴장”이라고 적는다.",
+            "두 번째 장: 야말의 선행 밀치기와 두 선수의 충돌, 머리 가격 및 레드카드의 보도 순서를 함께 설명한다.",
+            "마지막 장: 추가 징계·향후 결장 여부를 단정하지 않고 경기·날짜·원문 출처를 남긴다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [
+          {
+            "url": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=640/21/2026/10/2026101817333475223_4.jpg",
+            "label": "충돌 순간 실제 중계 캡처",
+            "kind": "image"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "충돌 순간 실제 중계 캡처",
+            "url": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=640/21/2026/10/2026101817333475223_4.jpg"
+          }
+        ],
+        "excerpt": "",
+        "context": "17일 베티스전 후반 충돌이다. 앞서 추천한 야말의 선제골과는 다른 행위·당사자·결과인 베르날의 퇴장을 검토했다. 추가 출전정지 기간은 확정하지 않는다.",
+        "fetched_at": 1792330789,
+        "parser_revision": 7
+      },
+      "curation_event_key": "facundo-bernal-neck-grip-headbutt-red-card-yamal-betis-20261017"
+    },
+    "1c2027c406df": {
+      "source": "AP·Euronews",
+      "title": "400명에서 1,800명 체포로…프랑스 시위 뒤 드러난 피해",
+      "link": "https://apnews.com/article/f5ce07c2ef46ad0c02c6ff7018532a59",
+      "first_seen_at": 1792330789,
+      "last_seen_at": 1792330789,
+      "samples": [
+        {
+          "at": 1792330789,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "1c2027c406df",
+      "editorial": {
+        "title": "400명에서 1,800명 체포로…프랑스 시위 뒤 드러난 피해",
+        "category": "시사",
+        "url": "https://apnews.com/article/f5ce07c2ef46ad0c02c6ff7018532a59",
+        "source": "AP·Euronews",
+        "kind": "article",
+        "event_key": "france-protests-1800-arrests-500-injured-limoges-loss-update-20261018",
+        "why": "체포 집계의 급증과 역사적 시청의 손실이라는 새 규모가 확인돼, 이미 초기 뉴스를 본 사람도 확인할 후속이다.",
+        "angle": "직접 확인한 불타는 리모주 시청 영상에 “18일 갱신: 전국 최소 1,800명 체포”를 붙인다.",
+        "why_now": "앞선 17일 저녁 400명 체포 추천 이후, AP의 18일 보도가 전국 최소 1,800명 체포·500명 넘는 경찰·소방 등 부상과 리모주 시청 지붕 붕괴를 확인했다.",
+        "verified_at": 1792329314,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://apnews.com/article/f5ce07c2ef46ad0c02c6ff7018532a59",
+            "note": "18일 후속 보도는 전국 최소 1,800명 체포, 경찰·헌병·소방관 500명 이상 부상과 리모주 시청 지붕 붕괴를 확인한다."
+          },
+          {
+            "url": "https://fr.euronews.com/video/2026/10/17/limoges-lhistorique-hotel-de-ville-en-flammes-en-marge-des-manifestations",
+            "note": "17일 밤 보도는 143년 된 청사의 지붕이 서쪽 날개를 제외한 아래층으로 무너지고 외벽 약 3분의 2가 사라졌다는 당국자 설명을 전한다."
+          },
+          {
+            "url": "https://video.euronews.com/mp4/FHD/58/25/33/07/FHD_PYR_5825337_20261017205154.mp4",
+            "note": "35.8초 실제 영상의 연속 프레임에서 리모주 시청 상부를 덮은 불길과 현장 소방차·방수 작업을 확인했다. 개별 작품의 소실 여부는 이 영상으로 판단하지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://video.euronews.com/mp4/FHD/58/25/33/07/FHD_PYR_5825337_20261017205154.mp4",
+            "label": "리모주 시청 실제 현장 영상",
+            "kind": "video"
+          },
+          {
+            "url": "https://fr.euronews.com/video/2026/10/17/limoges-lhistorique-hotel-de-ville-en-flammes-en-marge-des-manifestations",
+            "label": "건물 피해 당국자 설명",
+            "kind": "source"
+          }
+        ],
+        "caution": "모든 시위 참가자를 방화범으로 묶거나 미술품 전체 소실을 단정하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-18",
+          "observation": "현장 영상에서 청사 지붕을 덮은 불길과 진화 작업을 직접 봤다. 지붕 붕괴는 당국자 인용 보도로, 전국 체포·부상 수는 AP의 18일 후속 집계로 확인했다. 작품 전체가 사라졌다는 SNS 주장은 검증하지 못했다.",
+          "checked_materials": [
+            "https://video.euronews.com/mp4/FHD/58/25/33/07/FHD_PYR_5825337_20261017205154.mp4"
+          ],
+          "outline": [
+            "첫 장: 확인한 화재 영상과 18일 갱신된 최소 1,800명 체포 숫자를 붙인다.",
+            "두 번째 장: 이전 400명 집계와 새 집계의 시점을 구분하고, 경찰·헌병·소방관 부상 500명 이상을 정리한다.",
+            "세 번째 장: 리모주 청사의 확인된 구조 피해만 설명하고, 시위 전체와 방화·약탈 집단을 구분한다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "원본 영상",
+        "media": [
+          {
+            "url": "https://video.euronews.com/mp4/FHD/58/25/33/07/FHD_PYR_5825337_20261017205154.mp4",
+            "label": "리모주 시청 실제 현장 영상",
+            "kind": "video"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "리모주 시청 실제 현장 영상",
+            "url": "https://video.euronews.com/mp4/FHD/58/25/33/07/FHD_PYR_5825337_20261017205154.mp4"
+          },
+          {
+            "label": "건물 피해 당국자 설명",
+            "url": "https://fr.euronews.com/video/2026/10/17/limoges-lhistorique-hotel-de-ville-en-flammes-en-marge-des-manifestations"
+          }
+        ],
+        "excerpt": "",
+        "context": "앞선 17일 저녁 400명 체포 추천 이후, AP의 18일 보도가 전국 최소 1,800명 체포·500명 넘는 경찰·소방 등 부상과 리모주 시청 지붕 붕괴를 확인했다.",
+        "fetched_at": 1792330789,
+        "parser_revision": 7
+      },
+      "curation_event_key": "france-protests-1800-arrests-500-injured-limoges-loss-update-20261018"
+    },
     "8dc25be930bf": {
       "source": "더쿠 HOT",
       "title": "가수 공연 중 끼어든 것에 대해 사과문 올린 김민석 당대표",
@@ -5283,38 +5679,6 @@
       ],
       "parser_revision": 3,
       "story_id": "6991682dcec9"
-    },
-    "2a2444c031c8": {
-      "source": "네이트 스포츠",
-      "title": "\"평생 한국 다시는 안 온다!\" 퇴장 판정에 '제 뺨 때린' 한 중국 감독, 분...",
-      "link": "https://news.nate.com/view/20261018n04871",
-      "first_seen_at": 1792299829,
-      "last_seen_at": 1792330293,
-      "samples": [
-        {
-          "at": 1792299829,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": "nate_spo_interest_100"
-        },
-        {
-          "at": 1792315670,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": "nate_spo_interest_100"
-        },
-        {
-          "at": 1792330293,
-          "views": null,
-          "reactions": null,
-          "rank": 11,
-          "rank_kind": "nate_spo_interest_100"
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "2a2444c031c8"
     },
     "c48899628503": {
       "source": "네이트 스포츠",
@@ -130217,5 +130581,5 @@
       }
     }
   },
-  "updated_at": 1792330293
+  "updated_at": 1792330789
 }
