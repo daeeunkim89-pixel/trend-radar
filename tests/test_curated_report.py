@@ -225,7 +225,7 @@ class EditorialEditionTests(unittest.TestCase):
         self.assertEqual(len(c.same_event_filter(together)), 1)
 
     def test_actual_delivery_once_then_no_second_send_and_no_mock_counts_as_status(self):
-        self.write(edition())
+        self.write(edition([pick(i) for i in range(10)]))
         private = PrivateState("synthetic-token", "-123456", self.directory / "editor.enc")
         client = Mock(send=Mock(return_value=123))
         with patch.object(c.time, "time", return_value=NOW), patch.object(c, "load_history", return_value=EMPTY), \
@@ -236,12 +236,13 @@ class EditorialEditionTests(unittest.TestCase):
             saved = [call.args[1] for call in write.call_args_list if call.args[0] == c.STATE_FILE]
             self.assertEqual(saved[0]["report"]["delivery"], "sent")
             self.assertEqual(saved[0]["report"]["ai"], "chatgpt_web_research")
-            self.assertEqual(private.data["reports"][hourly_key(HOUR)]["numbers"], {"1": e.item_id(pick()["url"])})
+            self.assertEqual(len(private.data["reports"][hourly_key(HOUR)]["numbers"]), 10)
+            self.assertEqual(private.data["reports"][hourly_key(HOUR)]["numbers"]["1"], e.item_id(pick(0)["url"]))
             self.assertEqual(c.main(recover_hour=HOUR_TEXT, picks_file=self.path), 0)
             client.send.assert_called_once()
 
     def test_uncertain_delivery_cannot_be_automatically_retried(self):
-        self.write(edition())
+        self.write(edition([pick(i) for i in range(10)]))
         private = PrivateState("synthetic-token", "-123456", self.directory / "editor.enc")
         client = Mock(send=Mock(side_effect=DeliveryUncertain("synthetic uncertain result")))
         with patch.object(c.time, "time", return_value=NOW), patch.object(c, "load_history", return_value=EMPTY), \
@@ -252,7 +253,7 @@ class EditorialEditionTests(unittest.TestCase):
             client.send.assert_called_once()
 
     def test_explicit_on_demand_edition_sends_once_without_reopening_hourly_ledger(self):
-        self.write(edition())
+        self.write(edition([pick(i) for i in range(10)]))
         digest = hashlib.sha256(self.path.read_bytes()).hexdigest()
         private = PrivateState("synthetic-token", "-123456", self.directory / "manual.enc")
         private.data["reports"][hourly_key(HOUR)] = {"done": True, "message_ids": [100],
@@ -271,7 +272,7 @@ class EditorialEditionTests(unittest.TestCase):
             self.assertTrue(private.data["reports"]["user-curated-" + digest]["done"])
 
     def test_on_demand_request_is_pinned_current_hour_and_preserves_content_deduplication(self):
-        self.write(edition())
+        self.write(edition([pick(i) for i in range(10)]))
         digest = hashlib.sha256(self.path.read_bytes()).hexdigest()
         request = {"version": 3, "mode": "user_requested", "hour_utc": HOUR_TEXT, "editorial_sha256": digest}
         request_path = self.directory / "manual-request.json"
@@ -290,6 +291,61 @@ class EditorialEditionTests(unittest.TestCase):
             self.assertEqual(c.main(recover_hour=HOUR_TEXT, picks_file=self.path,
                                     expected_sha256=digest, user_requested=True), 0)
             client.send.assert_not_called()
+
+    def test_underfilled_review_never_opens_transport_or_overwrites_confirmed_send(self):
+        for count in (0, 4, 6, 9):
+            with self.subTest(count=count):
+                self.write(edition([pick(i) for i in range(count)]))
+                with patch.object(c.time, "time", return_value=NOW), patch.object(c, "load_history", return_value=EMPTY), \
+                        patch.object(c, "TelegramClient") as client, patch.object(c, "PrivateState") as private, \
+                        patch.object(c, "atomic_json") as write:
+                    self.assertEqual(c.main(recover_hour=HOUR_TEXT, picks_file=self.path), 2)
+                    client.assert_not_called(); private.assert_not_called()
+                    attempt = [call.args[1] for call in write.call_args_list if call.args[0] == c.ATTEMPT_FILE][0]
+                    self.assertEqual(attempt["status"], "insufficient_new_material")
+                    self.assertEqual(attempt["ready"], count)
+                    self.assertEqual(attempt["missing"], 10 - count)
+                    self.assertFalse(any(call.args[0] == c.STATE_FILE for call in write.call_args_list))
+
+    def test_duplicate_filter_shortfall_does_not_reserve_hour_or_send_partial_message(self):
+        self.write(edition([pick(i) for i in range(13)]))
+        private = PrivateState("synthetic-token", "-123456", self.directory / "shortfall.enc")
+        client = Mock()
+        with patch.object(c.time, "time", return_value=NOW), patch.object(c, "load_history", return_value=EMPTY), \
+                patch.object(c, "TelegramClient", return_value=client), patch.object(c, "PrivateState", return_value=private), \
+                patch.object(c, "unreported_stories", side_effect=lambda stories, *args: stories[4:]), \
+                patch.object(c, "atomic_json") as write:
+            self.assertEqual(c.main(recover_hour=HOUR_TEXT, picks_file=self.path), 2)
+            client.send.assert_not_called()
+            self.assertNotIn(hourly_key(HOUR), private.data["reports"])
+            attempt = [call.args[1] for call in write.call_args_list if call.args[0] == c.ATTEMPT_FILE][0]
+            self.assertEqual((attempt["ready"], attempt["missing"], attempt["duplicates_excluded"]), (9, 1, 4))
+            self.assertFalse(any(call.args[0] == c.STATE_FILE for call in write.call_args_list))
+
+    def test_review_expiring_while_waiting_for_the_hour_cannot_be_sent(self):
+        self.write(edition([pick(i) for i in range(10)]))
+        private = PrivateState("synthetic-token", "-123456", self.directory / "expired.enc")
+        client = Mock()
+        clock = Mock(return_value=NOW)
+        def wait(target):
+            clock.return_value = NOW + 76 * 60
+            return True
+        with patch.object(c.time, "time", clock), patch.object(c, "load_history", return_value=EMPTY), \
+                patch.object(c, "TelegramClient", return_value=client), patch.object(c, "PrivateState", return_value=private), \
+                patch.object(c, "atomic_json"), patch.object(c, "wait_for_target", side_effect=wait):
+            self.assertEqual(c.main(recover_hour=HOUR_TEXT, picks_file=self.path), 1)
+            client.send.assert_not_called()
+            self.assertNotIn(hourly_key(HOUR), private.data["reports"])
+
+    def test_discovery_all_sources_empty_remains_a_failure(self):
+        with patch.object(candidate_snapshot, "load_history", return_value=EMPTY), \
+                patch.object(candidate_snapshot, "fetch_public_videos", return_value=[]), \
+                patch.object(candidate_snapshot, "collect", return_value=({"차단 소스": []}, {"차단 소스": "HTTP 430"})), \
+                patch.object(candidate_snapshot, "enrich"), patch.object(candidate_snapshot, "atomic_json") as write:
+            self.assertEqual(candidate_snapshot.run(), 1)
+            snapshot = [call.args[1] for call in write.call_args_list if call.args[0] == candidate_snapshot.SNAPSHOT_FILE][0]
+            self.assertEqual(snapshot["status"], "unavailable")
+            self.assertIn("차단 소스", snapshot["errors"])
 
     def test_empty_edition_has_no_junk_filler(self):
         self.write(edition([]))
@@ -321,14 +377,19 @@ class EditorialEditionTests(unittest.TestCase):
         row = {"source": "공개 목록", "title": "새로운 경기 장면", "link": "https://example.org/new", "rank": 1,
                "views": None, "reactions": None}
         with patch.object(candidate_snapshot, "load_history", return_value=EMPTY), \
+                patch.object(candidate_snapshot, "fetch_public_videos", return_value=[]), \
                 patch.object(candidate_snapshot, "collect", return_value=({"공개 목록": [row]}, {"차단 소스": "HTTP 430"})), \
                 patch.object(candidate_snapshot, "enrich"), patch.object(candidate_snapshot, "atomic_json") as write, \
                 patch("monitor.TelegramClient") as client:
-            self.assertEqual(candidate_snapshot.run(), 1)
+            self.assertEqual(candidate_snapshot.run(), 0)
             self.assertEqual({call.args[0] for call in write.call_args_list}, {e.HISTORY_FILE, candidate_snapshot.SNAPSHOT_FILE})
+            snapshot = [call.args[1] for call in write.call_args_list if call.args[0] == candidate_snapshot.SNAPSHOT_FILE][0]
+            self.assertEqual(snapshot["status"], "degraded")
+            self.assertIn("차단 소스", snapshot["errors"])
             client.assert_not_called()
 
 
 if __name__ == "__main__":
     unittest.main()
+
 

@@ -1,6 +1,18 @@
 """Prepare for the hour and recover delayed starts without replaying older hours."""
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
+
+
+REPORT_HOURS_KST = (8, 11, 14, 17, 20, 23)
+KST = timezone(timedelta(hours=9))
+
+
+def require_report_slot(target, user_requested=False):
+    """Regular editions run only at the six user-approved Korean report hours."""
+    local = datetime.fromtimestamp(target, KST)
+    if not user_requested and (local.hour not in REPORT_HOURS_KST or local.minute or local.second):
+        raise ValueError("Regular BTP report is outside 08/11/14/17/20/23 KST")
+    return target
 
 
 def scheduled_target(now, event_name):
@@ -44,3 +56,4 @@ def wait_for_target(target, clock=None, sleep=None):
             break
         sleep(min(5, remaining))
     return 0 <= clock() - target < 3600
+

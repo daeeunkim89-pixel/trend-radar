@@ -395,7 +395,7 @@ def check_fmkorea():
 # 전체 수집
 # =========================================================
 
-def collect(history=None):
+def collect(history=None, *, include_fmkorea_direct=True):
 
     sources = {
         "네이버 뉴스": fetch_naver_news,
@@ -407,10 +407,12 @@ def collect(history=None):
         "네이트 연예": lambda: fetch_entertainment(get_html),
         "커뮤니티 인기": lambda: fetch_community(lambda url: get_html(url, desktop=True)),
     }
+    if not include_fmkorea_direct:
+        sources.pop("펨코 포텐", None)
     sources.update({name: (lambda name=name: fetch_board(lambda url: get_html(url, desktop=True), name)) for name in BOARD_URLS})
 
     data = {}
-    errors = {}
+    errors = {} if include_fmkorea_direct else {"펨코 직접": "보호 확인 미완료로 직접 수집 중단; 공개 간접 목록 사용"}
     seen_urls = set()
 
     # A slow or blocked community must not make every other source wait in line.
@@ -617,6 +619,7 @@ def run_cli(argv=None):
 
 if __name__ == "__main__":
     raise SystemExit(run_cli())
+
 
 
 

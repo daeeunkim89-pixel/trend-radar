@@ -49,7 +49,9 @@ jobs:
         run: |
           git config user.name "trend-radar-bot"
           git config user.email "trend-radar-bot@users.noreply.github.com"
-          git add data/state.json data/history.json data/editor.enc
+          for file in data/state.json data/history.json data/editor.enc data/editorial-status.json; do
+            if [ -f "$file" ]; then git add "$file"; fi
+          done
           if [ -f data/editorial-history.json ]; then git add data/editorial-history.json; fi
           if ! git diff --cached --quiet; then
             git commit -m "Record requested hourly report"
@@ -59,4 +61,5 @@ jobs:
             done
             exit 1
           fi
+
 
