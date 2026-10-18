@@ -1,6 +1,495 @@
 {
   "version": 1,
   "items": {
+    "0357ac2dcb1f": {
+      "source": "GOAL·ESPN",
+      "title": "자기 진영에서 출발해 골까지…야말의 왼발 감아차기",
+      "link": "https://www.goal.com/en/news/video-lamine-yamal-finds-the-real-betis-net-with-a-sensational-goal/blt9181ef23775d5118",
+      "first_seen_at": 1792322985,
+      "last_seen_at": 1792322985,
+      "samples": [
+        {
+          "at": 1792322985,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "0357ac2dcb1f",
+      "editorial": {
+        "title": "자기 진영에서 출발해 골까지…야말의 왼발 감아차기",
+        "category": "축구",
+        "url": "https://www.goal.com/en/news/video-lamine-yamal-finds-the-real-betis-net-with-a-sensational-goal/blt9181ef23775d5118",
+        "source": "GOAL·ESPN",
+        "kind": "article",
+        "event_key": "lamine-yamal-own-half-run-curl-betis-20261017",
+        "why": "자기 진영→원투패스→돌파→반대편 골문까지 이어져, 축구 친구에게 바로 보여줄 흐름이 있다.",
+        "angle": "자기 진영에서 공을 잡은 컷과 감아차기가 들어간 골문을 앞뒤로 붙인다.",
+        "why_now": "17일 베티스전에서 나온 골이다. 기존 발송한 메시의 애틀랜타전 두 골과 다른 사건이며, ESPN 실영상의 연속 프레임으로 확인했다.",
+        "verified_at": 1792322910,
+        "published_at": 1792257085,
+        "evidence": [
+          {
+            "url": "https://www.goal.com/en/news/video-lamine-yamal-finds-the-real-betis-net-with-a-sensational-goal/blt9181ef23775d5118",
+            "note": "자기 진영에서 시작해 쿤데와 패스를 주고받고, 수비를 제친 뒤 왼발로 감아 찬 선제골이라는 본문을 확인했다."
+          },
+          {
+            "url": "https://www.espn.com/video/clip/_/id/50201935/yamal-scores-sensational-goal-make-1-0-barcelona",
+            "note": "ESPN의 해당 경기 야말 선제골 영상 페이지와 연결된 44초 영상의 일치를 확인했다."
+          },
+          {
+            "url": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1017/8bac0719-9d94-4145-b900-1ff412a45312/8bac0719-9d94-4145-b900-1ff412a45312.mp4",
+            "note": "연속 프레임에서 자기 진영 출발, 패스 교환, 오른쪽 돌파, 슛과 득점, 세리머니 및 리플레이를 직접 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1017/8bac0719-9d94-4145-b900-1ff412a45312/8bac0719-9d94-4145-b900-1ff412a45312.mp4",
+            "label": "ESPN 실제 득점 영상",
+            "kind": "video"
+          },
+          {
+            "url": "https://www.espn.com/video/clip/_/id/50201935/yamal-scores-sensational-goal-make-1-0-barcelona",
+            "label": "ESPN 영상 페이지",
+            "kind": "source"
+          }
+        ],
+        "caution": "쿤데와 패스를 주고받았다. 전 과정을 혼자 돌파했다고 쓰지 않는다.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-17",
+          "observation": "44초 영상의 연속 프레임에서 야말이 자기 진영에서 출발해 쿤데와 연결하고 오른쪽으로 전진, 안쪽으로 꺾어 왼발 슛을 반대쪽 골문에 넣는 동작과 결과를 확인했다.",
+          "checked_materials": [
+            "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1017/8bac0719-9d94-4145-b900-1ff412a45312/8bac0719-9d94-4145-b900-1ff412a45312.mp4"
+          ],
+          "outline": [
+            "첫 컷: 자기 진영에서 공을 잡은 위치를 표시하고 “여기서 시작”을 붙인다.",
+            "쿤데와의 패스 교환→수비를 벗어나는 구간→왼발 슛을 실제 순서로 연결한다.",
+            "마지막 컷은 골이 들어가는 순간과 리플레이로 끝내고, 경기·날짜를 명시한다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "원본 영상",
+        "media": [
+          {
+            "url": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1017/8bac0719-9d94-4145-b900-1ff412a45312/8bac0719-9d94-4145-b900-1ff412a45312.mp4",
+            "label": "ESPN 실제 득점 영상",
+            "kind": "video"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "ESPN 실제 득점 영상",
+            "url": "https://espnmedia-cdn.akamaized.net/espn/media/16x9/wsc/2026/1017/8bac0719-9d94-4145-b900-1ff412a45312/8bac0719-9d94-4145-b900-1ff412a45312.mp4"
+          },
+          {
+            "label": "ESPN 영상 페이지",
+            "url": "https://www.espn.com/video/clip/_/id/50201935/yamal-scores-sensational-goal-make-1-0-barcelona"
+          }
+        ],
+        "excerpt": "",
+        "context": "17일 베티스전에서 나온 골이다. 기존 발송한 메시의 애틀랜타전 두 골과 다른 사건이며, ESPN 실영상의 연속 프레임으로 확인했다.",
+        "fetched_at": 1792322985,
+        "parser_revision": 7
+      },
+      "curation_event_key": "lamine-yamal-own-half-run-curl-betis-20261017"
+    },
+    "cd0ada922962": {
+      "source": "일간스포츠·SBS 방송 캡처",
+      "title": "“티 진짜 안 난다”…유라의 농담에 양세찬이 지은 표정",
+      "link": "https://isplus.com/article/view/isp202610180127",
+      "first_seen_at": 1792322985,
+      "last_seen_at": 1792322985,
+      "samples": [
+        {
+          "at": 1792322985,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "cd0ada922962",
+      "editorial": {
+        "title": "“티 진짜 안 난다”…유라의 농담에 양세찬이 지은 표정",
+        "category": "아이돌",
+        "url": "https://isplus.com/article/view/isp202610180127",
+        "source": "일간스포츠·SBS 방송 캡처",
+        "kind": "article",
+        "event_key": "yura-yang-sechan-dating-rumor-joke-runningman-20261018",
+        "why": "열애설을 부인하다 되레 장난친 상황과 상대 표정이 한 컷에 읽혀 친구에게 보내기 좋다.",
+        "angle": "유라의 “티 진짜 안 난다” 자막과 양세찬의 당황한 얼굴을 나란히 놓는다.",
+        "why_now": "18일 공개된 런닝맨 장면이다. 과거 열애설 자체를 재탕하는 대신, 이날 부인 뒤 던진 농담과 실제 방송 캡처의 표정 대비를 고른다.",
+        "verified_at": 1792322910,
+        "published_at": 1792321284,
+        "evidence": [
+          {
+            "url": "https://isplus.com/article/view/isp202610180127",
+            "note": "18일 방송에서 과거 열애설을 부인한 맥락과 “우리 만났는데 티 진짜 안 난다”라는 농담, 양세찬의 반응을 본문으로 확인했다."
+          },
+          {
+            "url": "https://isp.edailystatic.com/data/isp/image/2026/10/18/isp20261018000267.667x.0.png",
+            "note": "실제 SBS 방송의 2분할 캡처에서 유라의 웃음·자막과 입을 벌리고 놀란 양세찬의 표정을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://isp.edailystatic.com/data/isp/image/2026/10/18/isp20261018000267.667x.0.png",
+            "label": "농담·반응 방송 캡처",
+            "kind": "image"
+          }
+        ],
+        "caution": "열애 인정이 아닌 농담이다. 영상은 미시청, 방송 캡처로 확인했다.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-18",
+          "observation": "방송 캡처에는 웃는 유라와 “티 진짜 안 난다…” 자막, 눈과 입을 크게 벌린 양세찬이 함께 보인다. 전체 방송은 보지 않았으며, 발언의 맥락은 기사 본문으로 대조했다.",
+          "checked_materials": [
+            "https://isp.edailystatic.com/data/isp/image/2026/10/18/isp20261018000267.667x.0.png"
+          ],
+          "outline": [
+            "첫 장: 실제 2분할 캡처 위에 “열애설 부인하다 던진 농담”이라고 명시한다.",
+            "두 번째 장: 하하의 과거 발언에서 유라로 오인된 루머와 당사자의 부인 맥락을 짧게 적는다.",
+            "세 번째 장: 기사에 인용된 농담과 실제 양세찬 표정을 붙이되, 열애 인정으로 편집하지 않는다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [
+          {
+            "url": "https://isp.edailystatic.com/data/isp/image/2026/10/18/isp20261018000267.667x.0.png",
+            "label": "농담·반응 방송 캡처",
+            "kind": "image"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "농담·반응 방송 캡처",
+            "url": "https://isp.edailystatic.com/data/isp/image/2026/10/18/isp20261018000267.667x.0.png"
+          }
+        ],
+        "excerpt": "",
+        "context": "18일 공개된 런닝맨 장면이다. 과거 열애설 자체를 재탕하는 대신, 이날 부인 뒤 던진 농담과 실제 방송 캡처의 표정 대비를 고른다.",
+        "fetched_at": 1792322985,
+        "parser_revision": 7
+      },
+      "curation_event_key": "yura-yang-sechan-dating-rumor-joke-runningman-20261018"
+    },
+    "2bf14a54d9bc": {
+      "source": "국민일보",
+      "title": "대북풍선 SD카드에 탈북민 131명 신상이 남아 있었다",
+      "link": "https://n.news.naver.com/article/005/0001879356",
+      "first_seen_at": 1792322985,
+      "last_seen_at": 1792322985,
+      "samples": [
+        {
+          "at": 1792322985,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "2bf14a54d9bc",
+      "editorial": {
+        "title": "대북풍선 SD카드에 탈북민 131명 신상이 남아 있었다",
+        "category": "시사",
+        "url": "https://n.news.naver.com/article/005/0001879356",
+        "source": "국민일보",
+        "kind": "article",
+        "event_key": "north-korea-balloon-defector-131-data-exposure-disclosure-20261018",
+        "why": "홍보 영상을 보내려던 카드에 보호해야 할 신상이 남은 역설과 가족 안전 우려가 선명하다.",
+        "angle": "“보낼 것: 홍보 영상 / 남아 있던 것: 131명 개인정보”를 대비한 사실 카드.",
+        "why_now": "2022년 살포 사건과 8월 과태료 의결을 근거로 한 국민일보의 18일 새 보도다. 국내 수거 카드에서 개인정보가 발견됐다는 구체적 사실이 새로 공개됐다.",
+        "verified_at": 1792322910,
+        "published_at": 1792316897,
+        "evidence": [
+          {
+            "url": "https://n.news.naver.com/article/005/0001879356",
+            "note": "국민일보 보도 본문: 2022년 5월 북한발전연구원이 살포한 풍선 중 국내 수거 SD카드에 탈북민 131명 개인정보가 남았고, 개인정보위가 8월 26일 과태료 720만원을 의결했다고 전한다. 나머지 카드의 정보 저장·북한 전달 여부는 미확인이다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://n.news.naver.com/article/005/0001879356",
+            "label": "국민일보 취재 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "2022년 살포, 18일 새 보도다. 북한 전달·신변 피해는 확인되지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-18",
+          "observation": "18일 보도가 개인정보위 의결 내용을 근거로 국내 수거 카드의 131명 정보와 안전성 조치 소홀을 공개했다. 포맷하지 않은 카드 재사용은 위원회 추정이며, 북한이 정보를 입수했다는 사실은 확인되지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 홍보용 SD카드와 남아 있던 131명 개인정보를 도식으로 대비하고 “18일 보도”를 명시한다.",
+            "두 번째 장: 2022년 살포·국내 수거→2023년 개인정보위 이첩→2026년 8월 과태료 의결의 연표를 만든다.",
+            "세 번째 장: 확인된 국내 카드와 미확인인 북한 전달 여부를 나눠 적고, 실제 개인 식별정보는 노출하지 않는다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "국민일보 취재 본문",
+            "url": "https://n.news.naver.com/article/005/0001879356"
+          }
+        ],
+        "excerpt": "",
+        "context": "2022년 살포 사건과 8월 과태료 의결을 근거로 한 국민일보의 18일 새 보도다. 국내 수거 카드에서 개인정보가 발견됐다는 구체적 사실이 새로 공개됐다.",
+        "fetched_at": 1792322985,
+        "parser_revision": 7
+      },
+      "curation_event_key": "north-korea-balloon-defector-131-data-exposure-disclosure-20261018"
+    },
+    "7bb6be064306": {
+      "source": "뉴시스·할리스 고객 안내문",
+      "title": "커피 멤버십에 주소·비밀번호까지…할리스가 보낸 유출 안내",
+      "link": "https://www.newsis.com/view/NISX20261018_0003830632",
+      "first_seen_at": 1792322985,
+      "last_seen_at": 1792322985,
+      "samples": [
+        {
+          "at": 1792322985,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "7bb6be064306",
+      "editorial": {
+        "title": "커피 멤버십에 주소·비밀번호까지…할리스가 보낸 유출 안내",
+        "category": "시사",
+        "url": "https://www.newsis.com/view/NISX20261018_0003830632",
+        "source": "뉴시스·할리스 고객 안내문",
+        "kind": "article",
+        "event_key": "hollys-membership-data-breach-confirmation-20261016",
+        "why": "커피 멤버십 이용자가 자기 가입 시점과 재사용 비밀번호를 확인하도록 친구에게 보낼 이유가 있다.",
+        "angle": "실제 안내문의 “2020년 2월 11일 이전 가입”과 유출 항목 부분을 함께 보여준다.",
+        "why_now": "16일 확인한 사고를 다룬 18일 저녁 보도와 실제 고객 안내문을 대조했다. 공격 추정 기간·대상 가입 시점·지금 확인할 행동을 분리해 전달한다.",
+        "verified_at": 1792322910,
+        "published_at": 1792317514,
+        "evidence": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261018_0003830632",
+            "note": "본문은 16일 비정상 접근 확인, 9월 3일~10월 7일 유출 추정, 2020년 2월 11일 이전 가입자 대상 및 비밀번호·주소 등 유출 항목을 전한다. 피해 인원과 구체적 규모는 미확인이다."
+          },
+          {
+            "url": "https://img-cdn.theqoo.net/nkxxRO.jpg",
+            "note": "실제 고객 안내문 이미지에서 확인일, 추정 기간, 대상 가입 시점, 유출 항목 및 비밀번호 변경 권고를 직접 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://img-cdn.theqoo.net/nkxxRO.jpg",
+            "label": "할리스 실제 유출 안내문",
+            "kind": "image"
+          }
+        ],
+        "caution": "16일 확인한 사고다. 피해 인원·비밀번호 암호화 여부는 확인되지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-16",
+          "observation": "회사 고객 안내문이 개인정보 유출 사실과 대상 가입 시점을 명시한다. 비밀번호·주소 등 실제 유출 항목 때문에 이용자의 계정 점검과 연결되는 소식이며, 인원이나 평문 저장 여부는 단정할 수 없다.",
+          "checked_materials": [
+            "https://img-cdn.theqoo.net/nkxxRO.jpg"
+          ],
+          "outline": [
+            "첫 장: 안내문의 대상 가입 시점과 유출 항목을 확대하고, 실제 확인일이 16일임을 적는다.",
+            "두 번째 장: 공격 추정 기간과 아이디·비밀번호·주소 등 회사가 알린 항목을 구분한다.",
+            "세 번째 장: 회사 권고인 비밀번호 변경·동일 비밀번호 사용 계정 점검을 정리하고, 문자 링크·결제정보 요구는 하지 않는다는 안내를 적는다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [
+          {
+            "url": "https://img-cdn.theqoo.net/nkxxRO.jpg",
+            "label": "할리스 실제 유출 안내문",
+            "kind": "image"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "할리스 실제 유출 안내문",
+            "url": "https://img-cdn.theqoo.net/nkxxRO.jpg"
+          }
+        ],
+        "excerpt": "",
+        "context": "16일 확인한 사고를 다룬 18일 저녁 보도와 실제 고객 안내문을 대조했다. 공격 추정 기간·대상 가입 시점·지금 확인할 행동을 분리해 전달한다.",
+        "fetched_at": 1792322985,
+        "parser_revision": 7
+      },
+      "curation_event_key": "hollys-membership-data-breach-confirmation-20261016"
+    },
+    "7d749288f4ee": {
+      "source": "연합뉴스·OSEN",
+      "title": "올해 60승 1패·43연승…안세영이 결승 앞두고 쌓은 성적표",
+      "link": "https://www.yna.co.kr/view/AKR20261018001200007",
+      "first_seen_at": 1792322985,
+      "last_seen_at": 1792322985,
+      "samples": [
+        {
+          "at": 1792322985,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "7d749288f4ee",
+      "editorial": {
+        "title": "올해 60승 1패·43연승…안세영이 결승 앞두고 쌓은 성적표",
+        "category": "메이저 스포츠",
+        "url": "https://www.yna.co.kr/view/AKR20261018001200007",
+        "source": "연합뉴스·OSEN",
+        "kind": "article",
+        "event_key": "an-se-young-season-60-1-denmark-final-20261017",
+        "why": "한 경기 승패 대신 한 시즌 61경기 중 단 한 번 졌다는 대비를 보여줘, 비팬도 압도적 성적을 읽을 수 있다.",
+        "angle": "“60승”을 크게, “1패”를 작게 둔 성적표에 “결승 전 기준”을 붙인다.",
+        "why_now": "17일 덴마크오픈 4강 승리 뒤 60승 1패·43연승이 됐다. 18일 야마구치와의 결승을 앞둔 시점의 새 집계이며, 이번 대회 우승을 미리 선언하지 않는다.",
+        "verified_at": 1792322910,
+        "published_at": 1792272206,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261018001200007",
+            "note": "17일 4강 2-0 승리와 시즌 61경기 60승 1패, 결승 상대 야마구치, 이번 결승 승리 시 시즌 9번째 우승이라는 본문을 확인했다."
+          },
+          {
+            "url": "https://www.osen.co.kr/article/G1112894350",
+            "note": "17일 4강 승리로 43연승·60승 1패가 됐다는 보도를 대조했다. 소개 멘트 관련 과거 영상은 이 추천의 근거로 쓰지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261018001200007",
+            "label": "연합뉴스 성적·대진 확인",
+            "kind": "source"
+          }
+        ],
+        "caution": "60승 1패는 결승 전 기준이다. 이번 대회 우승은 아직 확정되지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-17",
+          "observation": "확정된 것은 시즌 60승 1패와 43연승, 덴마크오픈 결승 진출이다. 경기 영상이나 소개 장면을 본 것은 아니다. 세계 1위의 시즌 전체 성적 격차를 보여주는 사실 카드로 검토했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 60승 대 1패를 시각적으로 대비하고 “2026 덴마크오픈 결승 전”을 명시한다.",
+            "두 번째 장: 43연승과 17일 4강 21-16·21-8을 적되, 일반 경기 결과 모음으로 늘리지 않는다.",
+            "세 번째 장: 확정된 결승 상대 야마구치를 적고, 결승 우승·최종 성적은 미확정으로 남긴다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "연합뉴스 성적·대진 확인",
+            "url": "https://www.yna.co.kr/view/AKR20261018001200007"
+          }
+        ],
+        "excerpt": "",
+        "context": "17일 덴마크오픈 4강 승리 뒤 60승 1패·43연승이 됐다. 18일 야마구치와의 결승을 앞둔 시점의 새 집계이며, 이번 대회 우승을 미리 선언하지 않는다.",
+        "fetched_at": 1792322985,
+        "parser_revision": 7
+      },
+      "curation_event_key": "an-se-young-season-60-1-denmark-final-20261017"
+    },
+    "eff657d758fb": {
+      "source": "머니투데이",
+      "title": "소아응급센터 두 곳서 전문의 3명 사직서 제출 보도",
+      "link": "https://n.news.naver.com/article/008/0005427957",
+      "first_seen_at": 1792322985,
+      "last_seen_at": 1792322985,
+      "samples": [
+        {
+          "at": 1792322985,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "eff657d758fb",
+      "editorial": {
+        "title": "소아응급센터 두 곳서 전문의 3명 사직서 제출 보도",
+        "category": "시사",
+        "url": "https://n.news.naver.com/article/008/0005427957",
+        "source": "머니투데이",
+        "kind": "article",
+        "event_key": "pediatric-er-resignation-letters-three-two-centers-report-20261018",
+        "why": "부모와 의료진이 아이 응급진료 인력의 실제 이탈 규모를 확인하고 공유할 사안이다.",
+        "angle": "“센터 2곳·전문의 3명 사직서 제출”을 두 칸의 인력 카드로 보여준다.",
+        "why_now": "앞서 보낸 15일 센터장의 진료 지속 입장과 다른 후속이다. 18일 보도에서 아주대 1명·다른 센터 2명의 제출 규모를 구체적으로 확인했으며, 제출일 자체는 특정되지 않았다.",
+        "verified_at": 1792322910,
+        "published_at": 1792308339,
+        "evidence": [
+          {
+            "url": "https://n.news.naver.com/article/008/0005427957",
+            "note": "18일 취재 보도는 아주대 소아응급 전문의 1명과 다른 소아응급센터 전문의 2명이 최근 사직서를 냈다고 전한다. 5월 기준 지정 센터는 전국 14곳이며 사직 수리나 폐쇄 확정 보도는 아니다."
+          },
+          {
+            "url": "https://n.news.naver.com/article/005/0001878498",
+            "note": "14일 기사에도 사직 움직임은 등장했다. 따라서 사직 우려가 18일 처음 생겼다고 쓰지 않고, 이번에 구체화된 2곳·3명 규모만 후속 사실로 구분했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://n.news.naver.com/article/008/0005427957",
+            "label": "두 센터·세 명 취재 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "사직서 제출 보도다. 사직 수리·센터 폐쇄가 확정된 것은 아니다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-18",
+          "observation": "18일 보도로 두 소아응급센터 전문의 세 명의 사직서 제출 규모가 구체화됐다. 과거 수사 논란 자체를 새 사건으로 다루지 않으며, 실제 제출일·수리 여부·폐쇄 여부는 확인되지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 아주대 1명·다른 센터 2명이라는 보도 수치를 출처와 함께 적는다.",
+            "두 번째 장: 전국 지정 소아응급센터 14곳은 5월 기준 수치라고 명시하고 인력 이탈의 의미를 설명한다.",
+            "세 번째 장: 사직서 제출과 실제 퇴사·센터 폐쇄를 구분하고, 수사 적법성이나 의료과실은 판정하지 않는다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "두 센터·세 명 취재 본문",
+            "url": "https://n.news.naver.com/article/008/0005427957"
+          }
+        ],
+        "excerpt": "",
+        "context": "앞서 보낸 15일 센터장의 진료 지속 입장과 다른 후속이다. 18일 보도에서 아주대 1명·다른 센터 2명의 제출 규모를 구체적으로 확인했으며, 제출일 자체는 특정되지 않았다.",
+        "fetched_at": 1792322985,
+        "parser_revision": 7
+      },
+      "curation_event_key": "pediatric-er-resignation-letters-three-two-centers-report-20261018"
+    },
     "8dc25be930bf": {
       "source": "더쿠 HOT",
       "title": "가수 공연 중 끼어든 것에 대해 사과문 올린 김민석 당대표",
@@ -117732,5 +118221,5 @@
       }
     }
   },
-  "updated_at": 1792315670
+  "updated_at": 1792322985
 }

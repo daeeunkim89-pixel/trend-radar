@@ -1,66 +1,56 @@
 {
-  "updated_at": 1792312151,
+  "updated_at": 1792322986,
   "status": "ok",
   "errors": {},
   "report": {
     "version": "btp-editorial-v8",
     "delivery": "sent",
     "messages": 1,
-    "stories": 8,
+    "stories": 6,
     "duplicates_excluded": 0,
     "ai": "chatgpt_web_research",
     "requested_stories": 10,
     "reviewed_edition_version": 2,
-    "trigger": "user_requested",
-    "hour_utc": "2026101808",
+    "trigger": "hourly",
+    "hour_utc": "2026101811",
     "category_counts": {
       "시사": 3,
       "축구": 1,
-      "메이저 스포츠": 2,
-      "아이돌": 2
+      "메이저 스포츠": 1,
+      "아이돌": 1
     },
-    "research_queries": 37,
-    "opened_sources": 19,
+    "research_queries": 40,
+    "opened_sources": 35,
     "picks": [
       {
-        "title": "수비 사이로 들어가더니 또 골…메시가 4분 만에 만든 두 장면",
-        "url": "https://www.noticiascaracol.com/golcaracol/vea-aca-los-dos-goles-de-lionel-messi-en-atlanta-united-1-3-inter-miami-en-la-mls-so35",
-        "event_key": "lionel-messi-two-solo-goals-atlanta-20261017"
+        "title": "자기 진영에서 출발해 골까지…야말의 왼발 감아차기",
+        "url": "https://www.goal.com/en/news/video-lamine-yamal-finds-the-real-betis-net-with-a-sensational-goal/blt9181ef23775d5118",
+        "event_key": "lamine-yamal-own-half-run-curl-betis-20261017"
       },
       {
-        "title": "“엄마가 가서 해줄까?”…힘들다던 안유진이 바로 걱정한 것",
-        "url": "https://theqoo.net/hot/4379364833",
-        "event_key": "an-yujin-mother-offers-help-phone-call-20261016"
+        "title": "“티 진짜 안 난다”…유라의 농담에 양세찬이 지은 표정",
+        "url": "https://isplus.com/article/view/isp202610180127",
+        "event_key": "yura-yang-sechan-dating-rumor-joke-runningman-20261018"
       },
       {
-        "title": "직접 몰고 와 백보드에 패스…웸반야마가 혼자 끝낸 앨리웁",
-        "url": "https://www.nbcsports.com/nba/news/think-wemby-is-ready-for-the-season-watch-him-throw-off-the-backboard-alley-oop-to-himself",
-        "event_key": "victor-wembanyama-coast-to-coast-self-alley-oop-kings-20261016"
+        "title": "대북풍선 SD카드에 탈북민 131명 신상이 남아 있었다",
+        "url": "https://n.news.naver.com/article/005/0001879356",
+        "event_key": "north-korea-balloon-defector-131-data-exposure-disclosure-20261018"
       },
       {
-        "title": "심판이 판정 설명하는 뒤에서 골프 스윙한 커리…돌아온 눈빛",
-        "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/bill-kennedy-steph-curry-golf-swing/1971792/",
-        "event_key": "steph-curry-golf-swing-bill-kennedy-review-reaction-20261016"
+        "title": "커피 멤버십에 주소·비밀번호까지…할리스가 보낸 유출 안내",
+        "url": "https://www.newsis.com/view/NISX20261018_0003830632",
+        "event_key": "hollys-membership-data-breach-confirmation-20261016"
       },
       {
-        "title": "1만원 넘게 담아도 배송비? 네이버 N배송 무료 기준이 바뀐다",
-        "url": "https://www.etnews.com/20261016000228",
-        "event_key": "naver-plus-ndelivery-instant-discount-threshold-change-20261018"
+        "title": "올해 60승 1패·43연승…안세영이 결승 앞두고 쌓은 성적표",
+        "url": "https://www.yna.co.kr/view/AKR20261018001200007",
+        "event_key": "an-se-young-season-60-1-denmark-final-20261017"
       },
       {
-        "title": "가수 무대 도중 인사 논란…김민석 “HYNN·관객께 죄송” 사과",
-        "url": "https://theqoo.net/hot/4379171414",
-        "event_key": "kim-minseok-public-apology-hynn-stage-interruption-20261018"
-      },
-      {
-        "title": "가을비에 서울 도로 침수…그민페도 당일 취소·전액 환불",
-        "url": "https://www.yna.co.kr/view/AKR20261018039700004?section=society%2Fall",
-        "event_key": "seoul-heavy-rain-road-closures-gmf-cancellation-20261018"
-      },
-      {
-        "title": "그래미 새 ‘아시안 팝’…빅4는 출품 안 하고 아이브·키키 등 도전",
-        "url": "https://www.yna.co.kr/view/AKR20261017033000005",
-        "event_key": "grammys-asian-pop-submissions-big-four-absent-report-20261018"
+        "title": "소아응급센터 두 곳서 전문의 3명 사직서 제출 보도",
+        "url": "https://n.news.naver.com/article/008/0005427957",
+        "event_key": "pediatric-er-resignation-letters-three-two-centers-report-20261018"
       }
     ]
   }
