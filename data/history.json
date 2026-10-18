@@ -1,6 +1,957 @@
 {
   "version": 1,
   "items": {
+    "44c5b8ff8430": {
+      "source": "Formula 1 공식",
+      "title": "1993년 이후 끊겼던 아프리카 F1…르완다와 10년 계약",
+      "link": "https://corp.formula1.com/formula-1-returns-to-africa-with-10-year-agreement-to-race-in-rwanda/",
+      "first_seen_at": 1792275009,
+      "last_seen_at": 1792297751,
+      "samples": [
+        {
+          "at": 1792275009,
+          "views": null,
+          "reactions": null,
+          "rank": 11,
+          "rank_kind": null
+        },
+        {
+          "at": 1792297751,
+          "views": null,
+          "reactions": null,
+          "rank": 11,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "official",
+      "story_id": "44c5b8ff8430",
+      "editorial": {
+        "title": "1993년 이후 끊겼던 아프리카 F1…르완다와 10년 계약",
+        "category": "메이저 스포츠",
+        "url": "https://corp.formula1.com/formula-1-returns-to-africa-with-10-year-agreement-to-race-in-rwanda/",
+        "source": "Formula 1 공식",
+        "kind": "official",
+        "event_key": "formula1-rwanda-ten-year-african-grand-prix-agreement-20261013",
+        "why": "F1 팬이 새 개최지 지도를 공유할 규모의 확정 계약. 단순 출전 소식이 아니라 1993년 이후 대회가 없던 대륙으로 돌아가는 장기 개최 합의다.",
+        "angle": "아프리카 지도에 마지막 개최 1993년과 새 개최국 르완다를 표시.",
+        "why_now": "13일 공식 발표된 미발송 메이저 소식을 예비로 검토했다. 오늘 새 발표로 꾸미지 않고 계약일과 실제 첫 대회 미정 상태를 명시한다.",
+        "verified_at": 1792296856,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://corp.formula1.com/formula-1-returns-to-africa-with-10-year-agreement-to-race-in-rwanda/",
+            "note": "F1은 르완다와 10년 계약을 13일 발표했다. 부게세라 신설 서킷 완공 뒤 2030년대 초 합류를 예상하며 첫 대회 날짜는 추후 발표한다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://corp.formula1.com/formula-1-returns-to-africa-with-10-year-agreement-to-race-in-rwanda/",
+            "label": "F1 공식 계약 발표",
+            "kind": "source"
+          }
+        ],
+        "caution": "10월 13일 계약 발표. 첫 개최일은 미정이며 2030년대 초가 목표다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-13",
+          "observation": "아프리카 복귀를 위한 10년 계약은 공식 발표된 결정이다. 첫 개최 시점은 서킷 완공을 전제로 하며 구체적 일자는 아직 발표하지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "1993년 이후 F1이 열리지 않은 대륙과 새 개최국 르완다",
+            "F1-르완다 10년 계약과 부게세라 신설 서킷 조건",
+            "2030년대 초 목표·첫 개최일 미정이라는 실제 상태"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "F1 공식 계약 발표",
+            "url": "https://corp.formula1.com/formula-1-returns-to-africa-with-10-year-agreement-to-race-in-rwanda/"
+          }
+        ],
+        "excerpt": "",
+        "context": "13일 공식 발표된 미발송 메이저 소식을 예비로 검토했다. 오늘 새 발표로 꾸미지 않고 계약일과 실제 첫 대회 미정 상태를 명시한다.",
+        "fetched_at": 1792297751,
+        "parser_revision": 7
+      },
+      "curation_event_key": "formula1-rwanda-ten-year-african-grand-prix-agreement-20261013"
+    },
+    "6c09e1ff4f2b": {
+      "source": "엠팍·올랜도시티 공식",
+      "title": "뒤로 온 공을 날아 차 넣었다…오헤다의 스콜피온 골",
+      "link": "https://mlbpark.donga.com/mp/b.php?b=bullpen&id=202610180119504283&m=view",
+      "first_seen_at": 1792297751,
+      "last_seen_at": 1792297751,
+      "samples": [
+        {
+          "at": 1792297751,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "community",
+      "story_id": "6c09e1ff4f2b",
+      "editorial": {
+        "title": "뒤로 온 공을 날아 차 넣었다…오헤다의 스콜피온 골",
+        "category": "축구",
+        "url": "https://mlbpark.donga.com/mp/b.php?b=bullpen&id=202610180119504283&m=view",
+        "source": "엠팍·올랜도시티 공식",
+        "kind": "community",
+        "event_key": "martin-ojeda-scorpion-goal-orlando-dc-20261017",
+        "why": "축구팬이 친구에게 바로 보여줄 한 번의 동작. 몸 뒤로 넘어온 공을 공중에서 뒤꿈치로 차 골문에 꽂았다.",
+        "angle": "몸을 띄워 뒤꿈치로 공을 건드린 순간부터 골인까지, 이어 관중석 시점으로 한 번 더.",
+        "why_now": "현지 17일 DC전 전반 22분에 나온 새 골. 18일 올라온 중계·관중석 영상과 구단 공식 경기 설명을 대조했다.",
+        "verified_at": 1792297662,
+        "published_at": 1792295280,
+        "evidence": [
+          {
+            "url": "https://www.orlandocitysc.com/news/rapid-reactions-scorpion",
+            "note": "구단은 오헤다가 그리즈만의 패스를 받아 몸 뒤로 오는 공을 오른발 뒤꿈치로 넣었다고 설명했다. 전반 22분 두 번째 골이며 최종 4-1 승리다."
+          },
+          {
+            "url": "https://www.espn.com/soccer/report/_/gameId/761881",
+            "note": "경기 날짜는 2026년 10월 17일. 득점 명단의 오헤다 22분과 본문의 그리즈만 도움·백힐 발리 설명이 영상과 일치한다."
+          },
+          {
+            "url": "https://mlbpark.donga.com/mp/b.php?b=bullpen&id=202610180119504283&m=view",
+            "note": "게시물 본문의 첫 두 영상은 같은 MLS 골의 관중석·중계 시점이다. 뒤의 포르투갈 리그 영상은 별개 사건이므로 사용하지 않는다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://simg.donga.com/ugc/MLBPARK/Boardvideo/17/92/29/50/17922950690831.mp4",
+            "label": "중계·슬로모션 실제 장면",
+            "kind": "video"
+          },
+          {
+            "url": "https://simg.donga.com/ugc/MLBPARK/Boardvideo/17/92/29/51/1792295116755.mp4",
+            "label": "관중석에서 본 같은 골",
+            "kind": "video"
+          }
+        ],
+        "caution": "푸스카스 후보·수상이 확정된 골은 아니다. 별도로 붙은 포르투갈 영상과 섞지 않기.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-17",
+          "observation": "중계·관중석 두 영상의 연속 프레임을 확인했다. 10번 오헤다가 공중에서 몸을 굽혀 오른발 뒤꿈치로 공을 건드린 뒤 공은 골키퍼 옆 골문으로 들어간다. 경기시계 21분대에서 점수가 2-0으로 바뀐다.",
+          "checked_materials": [
+            "https://simg.donga.com/ugc/MLBPARK/Boardvideo/17/92/29/50/17922950690831.mp4",
+            "https://simg.donga.com/ugc/MLBPARK/Boardvideo/17/92/29/51/1792295116755.mp4"
+          ],
+          "outline": [
+            "슬로모션의 공중 뒤꿈치 접촉 순간을 먼저 보여주기",
+            "공이 골문에 들어가고 2-0으로 바뀌는 실제 중계 연결",
+            "관중석 시점으로 재확인하고 오헤다·그리즈만 도움·현지 17일 명시"
+          ]
+        }
+      },
+      "detail": {
+        "format": "원본 영상",
+        "media": [
+          {
+            "url": "https://simg.donga.com/ugc/MLBPARK/Boardvideo/17/92/29/50/17922950690831.mp4",
+            "label": "중계·슬로모션 실제 장면",
+            "kind": "video"
+          },
+          {
+            "url": "https://simg.donga.com/ugc/MLBPARK/Boardvideo/17/92/29/51/1792295116755.mp4",
+            "label": "관중석에서 본 같은 골",
+            "kind": "video"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "중계·슬로모션 실제 장면",
+            "url": "https://simg.donga.com/ugc/MLBPARK/Boardvideo/17/92/29/50/17922950690831.mp4"
+          },
+          {
+            "label": "관중석에서 본 같은 골",
+            "url": "https://simg.donga.com/ugc/MLBPARK/Boardvideo/17/92/29/51/1792295116755.mp4"
+          }
+        ],
+        "excerpt": "",
+        "context": "현지 17일 DC전 전반 22분에 나온 새 골. 18일 올라온 중계·관중석 영상과 구단 공식 경기 설명을 대조했다.",
+        "fetched_at": 1792297751,
+        "parser_revision": 7
+      },
+      "curation_event_key": "martin-ojeda-scorpion-goal-orlando-dc-20261017"
+    },
+    "52540caabaf0": {
+      "source": "더쿠·JISOO 공식",
+      "title": "지수와 단체사진 찍다가 쪼그려 앉은 태양·대성",
+      "link": "https://theqoo.net/hot/4379114960",
+      "first_seen_at": 1792297751,
+      "last_seen_at": 1792297751,
+      "samples": [
+        {
+          "at": 1792297751,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "community",
+      "story_id": "52540caabaf0",
+      "editorial": {
+        "title": "지수와 단체사진 찍다가 쪼그려 앉은 태양·대성",
+        "category": "아이돌",
+        "url": "https://theqoo.net/hot/4379114960",
+        "source": "더쿠·JISOO 공식",
+        "kind": "community",
+        "event_key": "jisoo-bigbang-london-backstage-photo-20260926",
+        "why": "블링크·VIP가 보낼 단체사진의 반전. 지수·지디는 서 있고 태양·대성은 낮게 앉았다.",
+        "angle": "마지막 단체사진 구도를 먼저 보여주고, 대기실에서 지수를 반기는 모습으로 되감기.",
+        "why_now": "한국 시각 18일 00:00:01 공개된 공식 브이로그의 새 공개 장면. 런던 공연 촬영일은 9월 26일로 따로 확인했다.",
+        "verified_at": 1792296190,
+        "published_at": 1792294080,
+        "evidence": [
+          {
+            "url": "https://www.youtube.com/watch?v=JLCQVaHk22o",
+            "note": "공식 JISOO 영상의 공개 epoch 1792249201과 본문·자막 확인. 198~289초 대기실 대화·사진 순서가 공개 클립과 일치한다."
+          },
+          {
+            "url": "https://www.instagram.com/p/DemY84TB3Jb/",
+            "note": "BLISSOO 공식 게시물이 같은 London to Paris 브이로그와 영상 ID를 안내한다."
+          },
+          {
+            "url": "https://artist.ygfamily.com/ARTISTS/BIGBANG/concert/worldtour/index.html",
+            "note": "공식 투어 일정의 런던 토트넘 홋스퍼 스타디움 공연일은 2026년 9월 26일이다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2111480235741028352/vid/avc1/388x270/gdd9fvi06E8rTtT8.mp4",
+            "label": "대기실 인사·단체사진",
+            "kind": "video"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=JLCQVaHk22o",
+            "label": "공식 브이로그 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "9/26 촬영·10/18 공개. 전원이 무릎 꿇었다는 표현은 피한다.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-09-26",
+          "observation": "94.8초 공개 클립의 연속 프레임과 공식 자막을 대조했다. 사진을 찍을 때 태양·대성은 쪼그려 앉고 지수·지디는 뒤에서 서서 포즈를 취한다.",
+          "checked_materials": [
+            "https://video.twimg.com/amplify_video/2111480235741028352/vid/avc1/388x270/gdd9fvi06E8rTtT8.mp4"
+          ],
+          "outline": [
+            "단체사진 직전 낮게 앉은 태양·대성과 서 있는 지수·지디의 구도",
+            "앞부분으로 돌아가 대기실에서 지수를 반기는 대화",
+            "같은 사진 장면으로 마무리하고 촬영일·새 공개일 병기"
+          ]
+        }
+      },
+      "detail": {
+        "format": "원본 영상",
+        "media": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2111480235741028352/vid/avc1/388x270/gdd9fvi06E8rTtT8.mp4",
+            "label": "대기실 인사·단체사진",
+            "kind": "video"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "대기실 인사·단체사진",
+            "url": "https://video.twimg.com/amplify_video/2111480235741028352/vid/avc1/388x270/gdd9fvi06E8rTtT8.mp4"
+          },
+          {
+            "label": "공식 브이로그 본문",
+            "url": "https://www.youtube.com/watch?v=JLCQVaHk22o"
+          }
+        ],
+        "excerpt": "",
+        "context": "한국 시각 18일 00:00:01 공개된 공식 브이로그의 새 공개 장면. 런던 공연 촬영일은 9월 26일로 따로 확인했다.",
+        "fetched_at": 1792297751,
+        "parser_revision": 7
+      },
+      "curation_event_key": "jisoo-bigbang-london-backstage-photo-20260926"
+    },
+    "2c6713435908": {
+      "source": "FOX Sports·브루어스",
+      "title": "11년 전 산 1000달러 티켓…월드시리즈에도 쓸 수 있다",
+      "link": "https://www.foxsports.com/stories/mlb/brewers-fan-timeless-ticket-2026-world-series",
+      "first_seen_at": 1792297751,
+      "last_seen_at": 1792297751,
+      "samples": [
+        {
+          "at": 1792297751,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "2c6713435908",
+      "editorial": {
+        "title": "11년 전 산 1000달러 티켓…월드시리즈에도 쓸 수 있다",
+        "category": "메이저 스포츠",
+        "url": "https://www.foxsports.com/stories/mlb/brewers-fan-timeless-ticket-2026-world-series",
+        "source": "FOX Sports·브루어스",
+        "kind": "article",
+        "event_key": "brewers-timeless-ticket-world-series-redemption-20261016",
+        "why": "야구팬이 보낼 11년 전 약속의 결말. 상대·날짜가 미정이던 실물 티켓이 월드시리즈에도 통한다.",
+        "angle": "황동 티켓의 $1000·상대 미정·날짜 미정 부분과 이번 월드시리즈 사용 조건을 나란히.",
+        "why_now": "16일 현지 취재에서 보유 팬의 신청과 구단의 교환 원칙 확인이 공개됐다. 진출 결과를 반복하는 대신 2015년 티켓 약속의 후속을 다룬다.",
+        "verified_at": 1792295785,
+        "published_at": 1792266060,
+        "evidence": [
+          {
+            "url": "https://www.mlb.com/brewers/tickets/specials/timeless-ticket",
+            "note": "실물은 기명 황동 티켓 1000개 한정. 미래 홈경기 1경기 1석, 월드시리즈 포함이며 잔여석 조건이 있다. 2026 WS 교환은 10월 14일 시작."
+          },
+          {
+            "url": "https://www.wisn.com/article/brewers-fan-hopes-timeless-ticket-secures-world-series-seat/74164175",
+            "note": "16일 인터뷰한 Nate Holzman은 2015년 구매했고 이번 WS 교환을 신청했다. 구단은 교환을 인정했지만 개인 좌석 최종 배정은 아직 기다리는 상태다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://img-cdn.theqoo.net/RBRUmr.jpg",
+            "label": "기명 1000달러 실물 티켓",
+            "kind": "image"
+          },
+          {
+            "url": "https://www.mlb.com/brewers/tickets/specials/timeless-ticket",
+            "label": "구단 공식 교환 조건",
+            "kind": "source"
+          }
+        ],
+        "caution": "1회 1석·잔여석 조건. 개인 좌석 최종 배정은 확인 전.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-16",
+          "observation": "실물 사진에서 NATHAN HOLZMAN, TIMELESS TICKET, OPPONENT TBD, GAME DATE & TIME TBD, $1000를 직접 읽고 구단 약관과 대조했다.",
+          "checked_materials": [
+            "https://img-cdn.theqoo.net/RBRUmr.jpg"
+          ],
+          "outline": [
+            "실물 티켓에서 상대·날짜가 미정인 부분 확대",
+            "2015년 1000달러 구매와 이번 월드시리즈 교환 가능 조건 연결",
+            "1회 사용·잔여석 조건과 아직 배정을 기다리는 보유 팬의 상태 명시"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [
+          {
+            "url": "https://img-cdn.theqoo.net/RBRUmr.jpg",
+            "label": "기명 1000달러 실물 티켓",
+            "kind": "image"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "기명 1000달러 실물 티켓",
+            "url": "https://img-cdn.theqoo.net/RBRUmr.jpg"
+          },
+          {
+            "label": "구단 공식 교환 조건",
+            "url": "https://www.mlb.com/brewers/tickets/specials/timeless-ticket"
+          }
+        ],
+        "excerpt": "",
+        "context": "16일 현지 취재에서 보유 팬의 신청과 구단의 교환 원칙 확인이 공개됐다. 진출 결과를 반복하는 대신 2015년 티켓 약속의 후속을 다룬다.",
+        "fetched_at": 1792297751,
+        "parser_revision": 7
+      },
+      "curation_event_key": "brewers-timeless-ticket-world-series-redemption-20261016"
+    },
+    "c75d93dcaa92": {
+      "source": "Vatican News",
+      "title": "암 투병 때 만난 교황…회복한 소녀가 이번엔 퇴원길 마중",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-xiv-greets-ukrainian-girl-cancer-survivor-gemelli.html",
+      "first_seen_at": 1792297751,
+      "last_seen_at": 1792297751,
+      "samples": [
+        {
+          "at": 1792297751,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "official",
+      "story_id": "c75d93dcaa92",
+      "editorial": {
+        "title": "암 투병 때 만난 교황…회복한 소녀가 이번엔 퇴원길 마중",
+        "category": "시사",
+        "url": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-xiv-greets-ukrainian-girl-cancer-survivor-gemelli.html",
+        "source": "Vatican News",
+        "kind": "official",
+        "event_key": "varvara-cancer-recovery-pope-hospital-reunion-20261017",
+        "why": "투병 때 교황에게 힘을 얻은 소녀가 회복한 뒤 퇴원길을 찾았다. 서로의 상황이 바뀐 두 사진.",
+        "angle": "2025년 12월 축복 사진과 17일 병원 재회 사진을 좌우로 놓고 두 날짜부터 표시.",
+        "why_now": "17일 제멜리병원 퇴원 때 실제 재회한 새 장면. 교황청 매체가 13세 소녀·가족을 인터뷰하고 이전 만남 사진도 함께 공개했다.",
+        "verified_at": 1792296510,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-xiv-greets-ukrainian-girl-cancer-survivor-gemelli.html",
+            "note": "13세 우크라이나 소녀 Varvara는 최근 검사로 회복을 확인했고 17일 가족과 교황을 마중했다. 2025년 12월 31일 첫 만남이 힘이 됐다고 직접 설명했다."
+          },
+          {
+            "url": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-xiv-discharged-from-hospital-lung-surgery.html",
+            "note": "교황청은 17일 퇴원과 18일 낮 삼종기도 복귀 계획을 발표했다. 수술 후 퇴원 사실이며 암 완치 선언이 아니다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2025/12/31/2025-12-31-udienza-generale/1767179499016.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+            "label": "2025년 12월 첫 만남",
+            "kind": "image"
+          },
+          {
+            "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/10/17/15/1792244722270.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+            "label": "17일 제멜리병원 재회",
+            "kind": "image"
+          }
+        ],
+        "caution": "축복이 완치 원인이라는 뜻이 아니며 교황 완치도 발표되지 않았다.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-17",
+          "observation": "첫 만남 사진의 소녀 머리에 손을 얹은 교황과, 17일 병원에서 소녀·가족에게 다시 축복하는 사진을 직접 대조했다. 재방문 이유와 회복 사실은 본문 인터뷰로 확인했다.",
+          "checked_materials": [
+            "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2025/12/31/2025-12-31-udienza-generale/1767179499016.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+            "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/10/17/15/1792244722270.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
+          ],
+          "outline": [
+            "2025년 12월 31일 모자를 쓴 소녀를 축복하는 사진",
+            "17일 병원 재회 사진으로 바꾸고 소녀의 회복·방문 이유 설명",
+            "교황의 17일 퇴원 사실과 두 사람의 상황이 바뀐 점으로 마무리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [
+          {
+            "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2025/12/31/2025-12-31-udienza-generale/1767179499016.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+            "label": "2025년 12월 첫 만남",
+            "kind": "image"
+          },
+          {
+            "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/10/17/15/1792244722270.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+            "label": "17일 제멜리병원 재회",
+            "kind": "image"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "2025년 12월 첫 만남",
+            "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2025/12/31/2025-12-31-udienza-generale/1767179499016.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
+          },
+          {
+            "label": "17일 제멜리병원 재회",
+            "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/10/17/15/1792244722270.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
+          }
+        ],
+        "excerpt": "",
+        "context": "17일 제멜리병원 퇴원 때 실제 재회한 새 장면. 교황청 매체가 13세 소녀·가족을 인터뷰하고 이전 만남 사진도 함께 공개했다.",
+        "fetched_at": 1792297751,
+        "parser_revision": 7
+      },
+      "curation_event_key": "varvara-cancer-recovery-pope-hospital-reunion-20261017"
+    },
+    "121094aa96e4": {
+      "source": "디시 실베·NYCFC 공식",
+      "title": "추가시간에 골대 강타…손흥민이 주저앉은 장면",
+      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471216",
+      "first_seen_at": 1792297751,
+      "last_seen_at": 1792297751,
+      "samples": [
+        {
+          "at": 1792297751,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "community",
+      "story_id": "121094aa96e4",
+      "editorial": {
+        "title": "추가시간에 골대 강타…손흥민이 주저앉은 장면",
+        "category": "축구",
+        "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471216",
+        "source": "디시 실베·NYCFC 공식",
+        "kind": "community",
+        "event_key": "son-heung-min-stoppage-time-post-nycfc-20261017",
+        "why": "축구팬이 마지막 공격과 반응을 함께 볼 장면. 슛은 골대에, 손흥민은 끝내 그라운드에 주저앉았다.",
+        "angle": "추가시간 돌파 슈팅→골대에 맞고 나온 공→주저앉은 손흥민을 끊지 않고 연결.",
+        "why_now": "뉴욕 현지 17일, 한국 시각 18일 끝난 경기의 새 장면이다. 경기 결과 나열 대신 마지막 공격과 직후 반응 한 장면으로 좁힌다.",
+        "verified_at": 1792295806,
+        "published_at": 1792294200,
+        "evidence": [
+          {
+            "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471216",
+            "note": "게시물의 마지막 251프레임 GIF에서 추가시간 슛, 튕겨 나온 공, 후속 공격과 손흥민이 앉는 모습까지 확인했다."
+          },
+          {
+            "url": "https://www.newyorkcityfc.com/news/match-recap-new-york-city-fc-1-1-los-angeles-fc",
+            "note": "구단 공식 경기 리뷰: NYCFC-LAFC 1-1, 전반 득점자는 Leo Walta. 종료 직전 Son의 슛이 골대에 맞고 후속 슛도 벗어났다고 적었다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://dcimg6.dcinside.co.kr/viewimage.php?id=2bb2df32e7d334aa51b1d3a24f&no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec9c340918aec232cf19120b5776847186d809a828b23882e55ef7745dfe493d10ece41a29204494adc9c6a02ff1a7f88c5ea25e08ff86f9a76cc6a9f38f458",
+            "label": "추가시간 슛·직후 반응",
+            "kind": "image"
+          }
+        ],
+        "caution": "LAFC 득점자는 발타. 손흥민 골로 소개하지 않기.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-17",
+          "observation": "경기시계 90분+추가시간의 돌파 슈팅과 튕겨 나온 공, 이어진 공격 실패, 손흥민이 고개를 숙여 앉는 프레임을 확인했다. 공식 리뷰의 1-1 결말과도 일치한다.",
+          "checked_materials": [
+            "https://dcimg6.dcinside.co.kr/viewimage.php?id=2bb2df32e7d334aa51b1d3a24f&no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec9c340918aec232cf19120b5776847186d809a828b23882e55ef7745dfe493d10ece41a29204494adc9c6a02ff1a7f88c5ea25e08ff86f9a76cc6a9f38f458"
+          ],
+          "outline": [
+            "1-1·추가시간 경기시계를 짧게 제시",
+            "손흥민의 돌파 슛과 공이 골대에서 튕겨 나온 순간",
+            "후속 공격 종료 뒤 주저앉은 손흥민과 최종 1-1"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [
+          {
+            "url": "https://dcimg6.dcinside.co.kr/viewimage.php?id=2bb2df32e7d334aa51b1d3a24f&no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec9c340918aec232cf19120b5776847186d809a828b23882e55ef7745dfe493d10ece41a29204494adc9c6a02ff1a7f88c5ea25e08ff86f9a76cc6a9f38f458",
+            "label": "추가시간 슛·직후 반응",
+            "kind": "image"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "추가시간 슛·직후 반응",
+            "url": "https://dcimg6.dcinside.co.kr/viewimage.php?id=2bb2df32e7d334aa51b1d3a24f&no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec9c340918aec232cf19120b5776847186d809a828b23882e55ef7745dfe493d10ece41a29204494adc9c6a02ff1a7f88c5ea25e08ff86f9a76cc6a9f38f458"
+          }
+        ],
+        "excerpt": "",
+        "context": "뉴욕 현지 17일, 한국 시각 18일 끝난 경기의 새 장면이다. 경기 결과 나열 대신 마지막 공격과 직후 반응 한 장면으로 좁힌다.",
+        "fetched_at": 1792297751,
+        "parser_revision": 7
+      },
+      "curation_event_key": "son-heung-min-stoppage-time-post-nycfc-20261017"
+    },
+    "beba57fc2f2b": {
+      "source": "더쿠·원게시자 영상",
+      "title": "“여자로 살기 힘들다”는 팬에게 도경수가 돌려준 한마디",
+      "link": "https://theqoo.net/hot/4377873889",
+      "first_seen_at": 1792297751,
+      "last_seen_at": 1792297751,
+      "samples": [
+        {
+          "at": 1792297751,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "community",
+      "story_id": "beba57fc2f2b",
+      "editorial": {
+        "title": "“여자로 살기 힘들다”는 팬에게 도경수가 돌려준 한마디",
+        "category": "아이돌",
+        "url": "https://theqoo.net/hot/4377873889",
+        "source": "더쿠·원게시자 영상",
+        "kind": "community",
+        "event_key": "doh-kyung-soo-my-woman-fancall-reply-20261016",
+        "why": "친구에게 대사 그대로 보내기 좋은 말장난. 팬의 넋두리를 듣다가 “내 여자”로 방향을 틀었다.",
+        "angle": "팬의 “여자로 사는 거 너무 힘들다” 자막과 도경수의 “내 여자로 사는 건 안 힘들 텐데”를 두 컷으로.",
+        "why_now": "원게시자가 16일 메이크스타 영상통화라고 날짜·행사를 명시했다. 유통일을 새 팬사인회 날짜로 바꾸지 않고 실제 답변과 표정만 추천한다.",
+        "verified_at": 1792295931,
+        "published_at": 1792158480,
+        "evidence": [
+          {
+            "url": "https://theqoo.net/hot/4377873889",
+            "note": "게시물에 연결된 13.1초 클립의 질문·미소·답변 자막을 연속 프레임으로 확인했다."
+          },
+          {
+            "url": "https://cdn.syndication.twimg.com/tweet-result?id=2111072325106106617&lang=en&token=abc",
+            "note": "공개 원문 데이터의 본문은 261016 메이크스타 영통으로 표기하고, 게시 시각은 2026-10-16T12:30:38Z다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2111072261801402368/vid/avc1/480x600/TYYB81yp0TICdQiG.mp4",
+            "label": "팬 질문·답변 공개 클립",
+            "kind": "video"
+          }
+        ],
+        "caution": "팬과 나눈 농담이며 실제 연애 고백이 아니다.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-16",
+          "observation": "처음에는 무슨 일이냐고 묻고, 팬의 넋두리 자막 뒤 미소를 보인 다음 내 여자로 사는 건 안 힘들 텐데라는 답변 자막으로 이어지는 13초 프레임을 확인했다.",
+          "checked_materials": [
+            "https://video.twimg.com/amplify_video/2111072261801402368/vid/avc1/480x600/TYYB81yp0TICdQiG.mp4"
+          ],
+          "outline": [
+            "왜 그러냐고 묻는 도경수와 팬의 넋두리 자막",
+            "잠깐 웃는 표정에 이어지는 답변을 자막 그대로",
+            "팬 영상통화·16일 메이크스타라는 맥락 표기"
+          ]
+        }
+      },
+      "detail": {
+        "format": "원본 영상",
+        "media": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2111072261801402368/vid/avc1/480x600/TYYB81yp0TICdQiG.mp4",
+            "label": "팬 질문·답변 공개 클립",
+            "kind": "video"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "팬 질문·답변 공개 클립",
+            "url": "https://video.twimg.com/amplify_video/2111072261801402368/vid/avc1/480x600/TYYB81yp0TICdQiG.mp4"
+          }
+        ],
+        "excerpt": "",
+        "context": "원게시자가 16일 메이크스타 영상통화라고 날짜·행사를 명시했다. 유통일을 새 팬사인회 날짜로 바꾸지 않고 실제 답변과 표정만 추천한다.",
+        "fetched_at": 1792297751,
+        "parser_revision": 7
+      },
+      "curation_event_key": "doh-kyung-soo-my-woman-fancall-reply-20261016"
+    },
+    "abaa9e5836ec": {
+      "source": "더쿠·현장 촬영자",
+      "title": "빨강에서 노랑으로 넘어간 관중석…기아팬들의 색깔 파도",
+      "link": "https://theqoo.net/hot/4379068622",
+      "first_seen_at": 1792297751,
+      "last_seen_at": 1792297751,
+      "samples": [
+        {
+          "at": 1792297751,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "community",
+      "story_id": "abaa9e5836ec",
+      "editorial": {
+        "title": "빨강에서 노랑으로 넘어간 관중석…기아팬들의 색깔 파도",
+        "category": "메이저 스포츠",
+        "url": "https://theqoo.net/hot/4379068622",
+        "source": "더쿠·현장 촬영자",
+        "kind": "community",
+        "event_key": "kia-fans-red-yellow-towel-wave-postseason-20261017",
+        "why": "야구팬이 친구에게 보여줄 관중석 장관. 빨간 타올이 노랑으로 바뀌는 물결을 한 화면에 볼 수 있다.",
+        "angle": "빨간 관중석에서 노란 물결이 번져 가는 19초 현장 영상을 넓은 화면 그대로.",
+        "why_now": "17일 준플레이오프 현장에서 촬영자가 색깔 파도 영상을 올렸고 18일 다른 응원 방식과 비교됐다. 이번 추천은 그중 새 색깔 파도만 다룬다.",
+        "verified_at": 1792296190,
+        "published_at": 1792290780,
+        "evidence": [
+          {
+            "url": "https://theqoo.net/hot/4379068622",
+            "note": "게시물은 기존 수건 들기·현수막과 새 색깔 파도를 구분해 소개한다. 파도 영상의 핵심 변화는 실제 프레임으로 확인했다."
+          },
+          {
+            "url": "https://cdn.syndication.twimg.com/tweet-result?id=2111427051379154950&lang=en&token=abc",
+            "note": "현장 촬영자는 2026-10-17T12:00:12Z 게시물에 오늘 관람 중 응원했다고 썼다. 당시 경기장은 기아 챔피언스필드다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2111426516596985857/vid/avc1/640x360/WpR1rULM_ejKj1jp.mp4",
+            "label": "빨강·노랑 색깔 파도",
+            "kind": "video"
+          }
+        ],
+        "caution": "타올 색을 바꾼 응원. CG·사전 연습·참여 인원은 단정하지 않기.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-17",
+          "observation": "19.2초 영상의 연속 프레임에서 붉은 관중석에 노란 띠가 생겨 좌석 블록을 따라 이동하고, 카메라가 옆 관중석으로 이어지는 모습을 확인했다.",
+          "checked_materials": [
+            "https://video.twimg.com/amplify_video/2111426516596985857/vid/avc1/640x360/WpR1rULM_ejKj1jp.mp4"
+          ],
+          "outline": [
+            "빨강 타올이 가득한 관중석 전체",
+            "노란 띠가 좌석 블록을 따라 이동하는 순서",
+            "카메라가 옆 구역으로 이어질 때까지 보여주고 촬영일 표시"
+          ]
+        }
+      },
+      "detail": {
+        "format": "원본 영상",
+        "media": [
+          {
+            "url": "https://video.twimg.com/amplify_video/2111426516596985857/vid/avc1/640x360/WpR1rULM_ejKj1jp.mp4",
+            "label": "빨강·노랑 색깔 파도",
+            "kind": "video"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "빨강·노랑 색깔 파도",
+            "url": "https://video.twimg.com/amplify_video/2111426516596985857/vid/avc1/640x360/WpR1rULM_ejKj1jp.mp4"
+          }
+        ],
+        "excerpt": "",
+        "context": "17일 준플레이오프 현장에서 촬영자가 색깔 파도 영상을 올렸고 18일 다른 응원 방식과 비교됐다. 이번 추천은 그중 새 색깔 파도만 다룬다.",
+        "fetched_at": 1792297751,
+        "parser_revision": 7
+      },
+      "curation_event_key": "kia-fans-red-yellow-towel-wave-postseason-20261017"
+    },
+    "20afa96e4c14": {
+      "source": "SBS·뉴시스",
+      "title": "국민연금 주요 보유 주식 평가액, 석 달 반 사이 182조 감소",
+      "link": "https://n.news.naver.com/article/055/0001396288",
+      "first_seen_at": 1792297751,
+      "last_seen_at": 1792297751,
+      "samples": [
+        {
+          "at": 1792297751,
+          "views": null,
+          "reactions": null,
+          "rank": 8,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "20afa96e4c14",
+      "editorial": {
+        "title": "국민연금 주요 보유 주식 평가액, 석 달 반 사이 182조 감소",
+        "category": "시사",
+        "url": "https://n.news.naver.com/article/055/0001396288",
+        "source": "SBS·뉴시스",
+        "kind": "article",
+        "event_key": "nps-major-domestic-holdings-valuation-decline-report-20261018",
+        "why": "연금을 내는 누구나 관심 가질 새 집계. 전체 연금과 보유 주식 평가액을 구분해 큰 감소 규모를 전한다.",
+        "angle": "분석 대상 287개사 평가액 515.9조→333.5조와 -35.3%를 한 장에 표시.",
+        "why_now": "18일 에프앤가이드 분석이 공개됐다. 6월 말과 10월 15일 기준 보유 주식 평가액을 비교한 새 집계다.",
+        "verified_at": 1792295857,
+        "published_at": 1792287360,
+        "evidence": [
+          {
+            "url": "https://n.news.naver.com/article/055/0001396288",
+            "note": "국민연금이 5% 이상 지분을 공시한 상장사 287개 기준, 6월 말 약 515.9조에서 10월 15일 약 333.5조로 35.3% 감소했다."
+          },
+          {
+            "url": "https://www.newsis.com/view/NISX20261018_0003830326",
+            "note": "뉴시스도 18일 같은 집계를 보도했다. 삼성전자·SK하이닉스 감소분 합계는 약 131조로 전체 감소분의 약 72%다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://n.news.naver.com/article/055/0001396288",
+            "label": "분석 범위·원문 수치",
+            "kind": "source"
+          }
+        ],
+        "caution": "전체 연금이 아닌 5% 이상 공시 287개사 평가액. 실현손실 아님.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-18",
+          "observation": "18일 발표된 287개사 분석에서 평가액이 약 182조원·35.3% 줄었다. 전체 국민연금이 사라졌다는 의미가 아니라 큰 국내 주식 보유분의 평가 변화라는 범위를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "515.9조→333.5조와 분석 기간·287개사 범위",
+            "약 131조가 삼성전자·SK하이닉스에 집중됐다는 구성",
+            "평가액 감소와 전체 연금 잔고·실현손실의 차이를 짧게 표시"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "분석 범위·원문 수치",
+            "url": "https://n.news.naver.com/article/055/0001396288"
+          }
+        ],
+        "excerpt": "",
+        "context": "18일 에프앤가이드 분석이 공개됐다. 6월 말과 10월 15일 기준 보유 주식 평가액을 비교한 새 집계다.",
+        "fetched_at": 1792297751,
+        "parser_revision": 7
+      },
+      "curation_event_key": "nps-major-domestic-holdings-valuation-decline-report-20261018"
+    },
+    "5da8e9aac1ca": {
+      "source": "벨기에축구협회 공식",
+      "title": "월드컵 퇴장 뒤 출전 허용 논란…FIFA, 징계유예 규정 손본다",
+      "link": "https://royal-belgian-football-association.prezly.com/fifa-commits-to-amending-article-27-following-questions-raised-over-the-balogun-case",
+      "first_seen_at": 1792297751,
+      "last_seen_at": 1792297751,
+      "samples": [
+        {
+          "at": 1792297751,
+          "views": null,
+          "reactions": null,
+          "rank": 9,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "official",
+      "story_id": "5da8e9aac1ca",
+      "editorial": {
+        "title": "월드컵 퇴장 뒤 출전 허용 논란…FIFA, 징계유예 규정 손본다",
+        "category": "축구",
+        "url": "https://royal-belgian-football-association.prezly.com/fifa-commits-to-amending-article-27-following-questions-raised-over-the-balogun-case",
+        "source": "벨기에축구협회 공식",
+        "kind": "official",
+        "event_key": "fifa-article27-amendment-commitment-balogun-20261015",
+        "why": "축구팬에게 전할 월드컵 논란의 후속. 퇴장 뒤 출전을 허용했던 예외 규정이 개정 작업 대상이 됐다.",
+        "angle": "퇴장→다음 경기 출전 허용→규정 개정 상정이라는 세 단계 타임라인.",
+        "why_now": "15일 FIFA 평의회에서 개정 작업과 12월 16일 도하 회의 상정 계획을 확인했다는 협회 공식 발표다. 지난 월드컵 논란만 다시 소개하는 글과 구분한다.",
+        "verified_at": 1792295906,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://royal-belgian-football-association.prezly.com/fifa-commits-to-amending-article-27-following-questions-raised-over-the-balogun-case",
+            "note": "FIFA 평의회 위원인 벨기에협회장이 15일 회의 후 Article 27 개정 작업과 다음 평의회 상정을 확인했다. 구체적 적용 경위 설명도 요구했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://royal-belgian-football-association.prezly.com/fifa-commits-to-amending-article-27-following-questions-raised-over-the-balogun-case",
+            "label": "협회 공식 발표 전문",
+            "kind": "source"
+          }
+        ],
+        "caution": "12월 16일 상정 예정. 개정안 발효·정치개입 확정으로 쓰지 않기.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-15",
+          "observation": "월드컵 발로건 징계유예 사건에 대한 협회 질의 뒤 FIFA가 규정 개정 작업을 확인했고 차기 평의회 상정 계획이 공개됐다. 개정 작업 확인과 최종 승인·발효를 구분했다.",
+          "checked_materials": [],
+          "outline": [
+            "발로건 퇴장 뒤 출전 허용으로 제기된 예외 규정 문제",
+            "벨기에협회의 간섭 여부·예외 기준·청문권 질문",
+            "15일 개정 작업 확인과 12월 16일 상정 예정, 발효 전이라는 상태"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "협회 공식 발표 전문",
+            "url": "https://royal-belgian-football-association.prezly.com/fifa-commits-to-amending-article-27-following-questions-raised-over-the-balogun-case"
+          }
+        ],
+        "excerpt": "",
+        "context": "15일 FIFA 평의회에서 개정 작업과 12월 16일 도하 회의 상정 계획을 확인했다는 협회 공식 발표다. 지난 월드컵 논란만 다시 소개하는 글과 구분한다.",
+        "fetched_at": 1792297751,
+        "parser_revision": 7
+      },
+      "curation_event_key": "fifa-article27-amendment-commitment-balogun-20261015"
+    },
+    "ddd8eeac1700": {
+      "source": "스포탈코리아·현지 보도",
+      "title": "실종 20개월 뒤 DNA로 전사 확인…전 우크라이나 국가대표의 소식",
+      "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553623501",
+      "first_seen_at": 1792297751,
+      "last_seen_at": 1792297751,
+      "samples": [
+        {
+          "at": 1792297751,
+          "views": null,
+          "reactions": null,
+          "rank": 10,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "ddd8eeac1700",
+      "editorial": {
+        "title": "실종 20개월 뒤 DNA로 전사 확인…전 우크라이나 국가대표의 소식",
+        "category": "축구",
+        "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553623501",
+        "source": "스포탈코리아·현지 보도",
+        "kind": "article",
+        "event_key": "roman-maksymyuk-dna-death-confirmation-20261016",
+        "why": "축구팬에게 전할 전쟁의 현실. 20개월 기다린 가족이 DNA 결과를 받은 16일이 이번 새 소식이다.",
+        "angle": "선수 이름·국가대표 경력과 2025년 1월 실종→2026년 10월 확인의 두 날짜를 먼저.",
+        "why_now": "유가족이 16일 DNA 확인 결과를 알렸다는 현지 본문을 대조했고 18일 국내 보도로 이어졌다. 지금 전사한 사건처럼 쓰지 않는다.",
+        "verified_at": 1792296190,
+        "published_at": 1792293000,
+        "evidence": [
+          {
+            "url": "https://konkurent.ua/publication/187300/zhiv-u-lutsku-ta-grav-za-volin-na-viyni-zaginuv-eksfutbolist-zbirnoi-ukraini-roman-maksimuk/",
+            "note": "현지 매체는 아내 비라가 DNA 결과에 따른 사망 확인을 알린 날짜를 2026년 10월 16일로 명시한다. 2025년 1월 말부터 실종 상태였다."
+          },
+          {
+            "url": "https://focus.ua/uk/voennye-novosti/771521-zaginuv-roman-maksimyuk-eksfutbolist-zbirnoji-ukrajini-ne-povernuvsya-z-frontu",
+            "note": "현지 다른 매체도 16일 아내 발표·딸의 DNA 검사·마지막 연락 2025년 1월 30일을 확인한다. A매치 5경기 경력도 일치한다."
+          },
+          {
+            "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553623501",
+            "note": "18일 국내 보도는 로만 막시뮤크가 전 우크라이나 국가대표이며 자원입대 후 실종됐다가 DNA로 사망이 확인됐다고 전한다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553623501",
+            "label": "한국어 사건 정리 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "16일은 확인 발표일. 실제 사망일·당시 나이는 미확정.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-16",
+          "observation": "축구 국가대표 출신 로만 막시뮤크의 장기 실종이 DNA 결과로 사망 확인으로 바뀐 사실과 유가족 발표일을 현지 본문 두 곳에서 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "국가대표 출신 로만 막시뮤크와 2025년 1월 마지막 연락",
+            "자원입대·실종 뒤 가족이 기다린 경과",
+            "16일 DNA 확인 발표와 사망일은 별도라는 사실"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "한국어 사건 정리 원문",
+            "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553623501"
+          }
+        ],
+        "excerpt": "",
+        "context": "유가족이 16일 DNA 확인 결과를 알렸다는 현지 본문을 대조했고 18일 국내 보도로 이어졌다. 지금 전사한 사건처럼 쓰지 않는다.",
+        "fetched_at": 1792297751,
+        "parser_revision": 7
+      },
+      "curation_event_key": "roman-maksymyuk-dna-death-confirmation-20261016"
+    },
     "a9c425e9b1cd": {
       "source": "엠팍·김도영 공개 해명",
       "title": "“저 이야기와 관계없다”…기사 문장을 직접 짚은 김도영",
@@ -34460,78 +35411,6 @@
         "parser_revision": 7
       },
       "curation_event_key": "kolkata-chorbagan-durga-puja-crowd-crush-20261017"
-    },
-    "44c5b8ff8430": {
-      "source": "Formula 1 공식",
-      "title": "1993년 이후 없던 아프리카 F1…르완다와 10년 개최 계약 발표",
-      "link": "https://corp.formula1.com/formula-1-returns-to-africa-with-10-year-agreement-to-race-in-rwanda/",
-      "first_seen_at": 1792275009,
-      "last_seen_at": 1792275009,
-      "samples": [
-        {
-          "at": 1792275009,
-          "views": null,
-          "reactions": null,
-          "rank": 11,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "official",
-      "story_id": "44c5b8ff8430",
-      "editorial": {
-        "title": "1993년 이후 없던 아프리카 F1…르완다와 10년 개최 계약 발표",
-        "category": "메이저 스포츠",
-        "url": "https://corp.formula1.com/formula-1-returns-to-africa-with-10-year-agreement-to-race-in-rwanda/",
-        "source": "Formula 1 공식",
-        "kind": "official",
-        "event_key": "formula1-rwanda-ten-year-african-grand-prix-agreement-20261013",
-        "why": "F1 팬이 다른 스포츠 팬에게 설명할 대륙 단위 개최 변화다. 마지막 아프리카 경기 이후의 긴 공백과 새 르완다 서킷이라는 대비가 명확하다.",
-        "angle": "아프리카 지도에 르완다 위치와 ‘1993년 이후 공백’을 표시. 다음 장에 10년 계약·2030년대 초 목표.",
-        "why_now": "10월 13일 F1이 공식 발표한 미발송 대형 개최 결정이다. 당일 속보로 포장하지 않고 서킷 완공을 전제로 한 장기 계약으로 설명한다.",
-        "evidence": [
-          {
-            "url": "https://corp.formula1.com/formula-1-returns-to-africa-with-10-year-agreement-to-race-in-rwanda/",
-            "note": "F1 공식 발표는 르완다 10년 계약과 2030년대 초 캘린더 합류 목표를 명시한다. 부게세라 신규 서킷 완공이 선행 조건이다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://corp.formula1.com/formula-1-returns-to-africa-with-10-year-agreement-to-race-in-rwanda/",
-            "label": "F1 공식 10년 계약",
-            "kind": "source"
-          }
-        ],
-        "caution": "올해 개최·정확한 첫 대회 날짜 확정 아님. 신규 서킷 완공 후 2030년대 초 목표.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-13",
-          "observation": "F1이 르완다와 10년 개최 계약을 발표해 아프리카 복귀의 공식 경로를 정했다. 발표일과 실제 개최 목표·서킷 건설 조건은 별개다.",
-          "checked_materials": [],
-          "outline": [
-            "아프리카 대륙의 F1 공백과 새 개최국 르완다를 지도·연도로 보여준다.",
-            "10년 계약과 부게세라 서킷 건설을 확인 사실로 적는다.",
-            "2030년대 초 목표이며 첫 경기일은 미확정이라고 명시한다."
-          ]
-        },
-        "verified_at": 1792274414,
-        "published_at": null
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "F1 공식 10년 계약",
-            "url": "https://corp.formula1.com/formula-1-returns-to-africa-with-10-year-agreement-to-race-in-rwanda/"
-          }
-        ],
-        "excerpt": "",
-        "context": "10월 13일 F1이 공식 발표한 미발송 대형 개최 결정이다. 당일 속보로 포장하지 않고 서킷 완공을 전제로 한 장기 계약으로 설명한다.",
-        "fetched_at": 1792275009,
-        "parser_revision": 7
-      },
-      "curation_event_key": "formula1-rwanda-ten-year-african-grand-prix-agreement-20261013"
     },
     "be1977c81b74": {
       "source": "AP·앨버타 선거관리기관",
@@ -93630,5 +94509,5 @@
       }
     }
   },
-  "updated_at": 1792293030
+  "updated_at": 1792297751
 }
