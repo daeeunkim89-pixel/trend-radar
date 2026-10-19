@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": 1792407094,
+  "updated_at": 1792449542,
   "profile_checks": [
     {
       "at": 1792379965,
@@ -82,6 +82,32 @@
       "limits": [
         "19일로 표시된 공개 표지 두 개만 새로 대조했다. 정확한 게시 시각·전체 슬라이드·반응 수치·Insights는 미확인.",
         "프랑스 약탈 표지는 반려된 사건의 반복 위험으로 새 추천에서 제외했다. 상세 로그인 경로는 재시도하지 않았다."
+      ]
+    },
+    {
+      "at": 1792448787,
+      "profile_url": "https://www.instagram.com/bythepulse/",
+      "status": "grid_visible_cover_only",
+      "visible_post_ids": [
+        "DerbaY7CcAB",
+        "DerR7c5ibBP",
+        "DerLEWuCZb1",
+        "DerFDg_id5X",
+        "Deq7_5cCbZS",
+        "DeqnmWGiffs",
+        "DeqvE1TiZPJ",
+        "DeqnXFFieYx",
+        "DeqhpaaCQCZ",
+        "DeqT3g8CUNu",
+        "DeqNYrOicjk",
+        "Dep-7UFAf61"
+      ],
+      "newly_documented_ids": [
+        "DerbaY7CcAB"
+      ],
+      "limits": [
+        "가입 창 뒤 공개 표지 일부와 post_id만 확인. 한 번 닫기 후에도 창이 남아 상세·게시 시각·전체 피드·Insights는 확인하지 않았다.",
+        "표지와 추천 사건의 겹침은 채택 인과 증거가 아니다."
       ]
     }
   ],
@@ -216,6 +242,32 @@
       },
       "finding": "가능한 발송 이력에 같은 사건이 없지만 당시 후보·정확한 게시 시각이 없어 누락 단계는 미확정이다. underlying 경기·무패 수치는 이번 표지 확인으로 검증한 것이 아니다.",
       "next_change": "유명 감독의 이전 팀과 새 팀 대비를 먼저 발견하되 단순 무패 숫자 증가로 새 후보를 만들지 않는다. 이미 게시된 이 사건은 재추천하지 않는다."
+    },
+    {
+      "id": "btp-cover-DerbaY7CcAB",
+      "post_id": "DerbaY7CcAB",
+      "post_url": "https://www.instagram.com/bythepulse/p/DerbaY7CcAB/",
+      "observed_at": 1792448787,
+      "scope": "cover_only",
+      "displayed_date": null,
+      "published_at": null,
+      "metrics": null,
+      "underlying_facts_verified": false,
+      "topic": "데제르비의 식사 중 휴대폰 금지 표지",
+      "observation": "감독 얼굴과 '데제르비 밥 먹을 때 핸드폰 하지 마라' 취지의 표지 문구를 확인했다.",
+      "comparison": {
+        "history_commit": "1f855d6aa0e7725b661611f0194ec3469437c8f7",
+        "compared_editions": 16,
+        "from_at": 1792244082,
+        "through_at": 1792413764,
+        "match": "same_event_found_in_sent_archive",
+        "event_key": "tottenham-de-zerbi-phones-removed-team-meals-20261018"
+      },
+      "miss_stage": "undetermined",
+      "timing_limit": "정확한 게시 시각과 채택 경로는 미확인이다.",
+      "discovery_urls": [],
+      "finding": "19일 21:42 실제 발송 사건과 표지 사건이 겹친다. 미추천 사례가 아니며 추천 때문에 게재됐다는 인과는 확인할 수 없다.",
+      "next_change": "휴대폰 정책 자체를 반복하지 않는다. 이번 첫 승·실제 복귀 출전은 새 사실로 분리하되 정책이 승리 원인이라고 만들지 않는다."
     }
   ],
   "rules": [
