@@ -1,6 +1,820 @@
 {
   "version": 1,
   "items": {
+    "21bd60c5faee": {
+      "source": "중앙일보·프랭크 일렛 공개 사진",
+      "title": "맨유가 5연승하면 머리 자른다더니…100경기째 못 자른 팬",
+      "link": "https://www.koreadaily.com/article/20261018184822680",
+      "first_seen_at": 1792382361,
+      "last_seen_at": 1792382361,
+      "samples": [
+        {
+          "at": 1792382361,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "21bd60c5faee",
+      "editorial": {
+        "title": "맨유가 5연승하면 머리 자른다더니…100경기째 못 자른 팬",
+        "category": "축구",
+        "url": "https://www.koreadaily.com/article/20261018184822680",
+        "source": "중앙일보·프랭크 일렛 공개 사진",
+        "kind": "article",
+        "event_key": "frank-ilett-man-united-no-haircut-100-games-20261019",
+        "why": "맨유 팬 친구에게 보낼 수밖에 없는 공약의 결과가 DAY 1·200·743 사진 한 장에 보인다.",
+        "angle": "DAY 1→200→743의 실제 머리 변화 옆에 ‘이발 조건: 맨유 5연승’을 놓는다.",
+        "why_now": "19일 보도로 도전 이후 100경기라는 새 이정표와 리즈전 뒤 0연승으로 돌아간 근황이 공개됐다.",
+        "verified_at": 1792382099,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.koreadaily.com/article/20261018184822680",
+            "note": "2024년 10월 시작한 5연승 이발 공약, 743일·100경기째 근황과 19일 리즈전 이후 재설정을 본문 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.koreadaily.com/data/photo/2026/10/19/3de9a609-1fd7-428a-90b6-77ea95614cd3.jpg",
+            "label": "DAY 1·200·743 비교",
+            "kind": "image"
+          },
+          {
+            "url": "https://www.koreadaily.com/data/photo/2026/10/19/ee3ad64a-a497-4d90-b32a-1bf82c984da2.jpg",
+            "label": "초창기 실제 사진",
+            "kind": "image"
+          }
+        ],
+        "caution": "처음 시작한 공약은 2024년 일이며, 이번 새 사실은 100경기째 근황이다.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-19",
+          "observation": "공개 비교 사진의 DAY 1은 짧은 머리, DAY 200은 부풀기 시작한 머리, DAY 743은 안경 양옆과 어깨를 덮는 장발이다.",
+          "checked_materials": [
+            "https://www.koreadaily.com/data/photo/2026/10/19/3de9a609-1fd7-428a-90b6-77ea95614cd3.jpg",
+            "https://www.koreadaily.com/data/photo/2026/10/19/ee3ad64a-a497-4d90-b32a-1bf82c984da2.jpg"
+          ],
+          "outline": [
+            "첫 장: 실제 3분할 사진과 ‘5연승하면 자른다’ 조건.",
+            "둘째 장: 100경기를 기다렸지만 리즈전 무승부 뒤 다시 0/5.",
+            "마지막: 모발 기부 계획을 덧붙여 당사자 조롱으로만 끝내지 않는다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [
+          {
+            "url": "https://www.koreadaily.com/data/photo/2026/10/19/3de9a609-1fd7-428a-90b6-77ea95614cd3.jpg",
+            "label": "DAY 1·200·743 비교",
+            "kind": "image"
+          },
+          {
+            "url": "https://www.koreadaily.com/data/photo/2026/10/19/ee3ad64a-a497-4d90-b32a-1bf82c984da2.jpg",
+            "label": "초창기 실제 사진",
+            "kind": "image"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "DAY 1·200·743 비교",
+            "url": "https://www.koreadaily.com/data/photo/2026/10/19/3de9a609-1fd7-428a-90b6-77ea95614cd3.jpg"
+          },
+          {
+            "label": "초창기 실제 사진",
+            "url": "https://www.koreadaily.com/data/photo/2026/10/19/ee3ad64a-a497-4d90-b32a-1bf82c984da2.jpg"
+          }
+        ],
+        "excerpt": "",
+        "context": "19일 보도로 도전 이후 100경기라는 새 이정표와 리즈전 뒤 0연승으로 돌아간 근황이 공개됐다.",
+        "fetched_at": 1792382361,
+        "parser_revision": 7
+      },
+      "curation_event_key": "frank-ilett-man-united-no-haircut-100-games-20261019"
+    },
+    "6e91c3dbfe40": {
+      "source": "LE SSERAFIM 공식 Instagram",
+      "title": "유학 시절 혼자 찍던 춤…카즈하가 지금 모습으로 다시 춘 장면",
+      "link": "https://www.instagram.com/reel/DeqFHLqBksU/",
+      "first_seen_at": 1792382361,
+      "last_seen_at": 1792382361,
+      "samples": [
+        {
+          "at": 1792382361,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "official",
+      "story_id": "6e91c3dbfe40",
+      "editorial": {
+        "title": "유학 시절 혼자 찍던 춤…카즈하가 지금 모습으로 다시 춘 장면",
+        "category": "아이돌",
+        "url": "https://www.instagram.com/reel/DeqFHLqBksU/",
+        "source": "LE SSERAFIM 공식 Instagram",
+        "kind": "official",
+        "event_key": "kazuha-predebut-dance-recreation-netherlands-release-20261019",
+        "why": "데뷔 전 카즈하를 아는 친구와 지금의 카즈하를 아는 친구가 같은 춤의 전후 화면을 바로 비교할 수 있다.",
+        "angle": "흰 티셔츠의 과거 화면→갈색 상의의 현재 화면으로 바뀌는 실제 전환을 붙인다.",
+        "why_now": "공식 계정이 19일 10시 29분 한국시각에 공개한 재현 영상이며, 네덜란드 공연 시점의 새 게시물이다.",
+        "verified_at": 1792382099,
+        "published_at": 1792373361,
+        "evidence": [
+          {
+            "url": "https://www.instagram.com/reel/DeqFHLqBksU/",
+            "note": "공식 계정의 새 게시 시각과 ‘Zuha, you're not alone’ 설명, 과거 흰 티셔츠 장면에서 현재 갈색 상의 장면으로 전환되는 핵심 구간을 직접 확인."
+          },
+          {
+            "url": "https://theqoo.net/hot/4380122317",
+            "note": "19일 더쿠 게시물은 네덜란드 유학 시절 춤을 현재 모습으로 다시 올린 영상으로 소개한다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.instagram.com/reel/DeqFHLqBksU/",
+            "label": "공식 전후 비교 영상",
+            "kind": "video"
+          }
+        ],
+        "caution": "과거 촬영의 정확한 날짜는 미확인; 새로 공개된 재현을 다루며 미확인 멤버 반응은 붙이지 않는다.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-19",
+          "observation": "영상 초반 약 0.2초의 묶은 머리·흰 티셔츠 과거 장면이 약 2초의 긴 머리·갈색 상의 현재 장면으로 바뀌며 춤을 재현한다.",
+          "checked_materials": [
+            "https://www.instagram.com/reel/DeqFHLqBksU/"
+          ],
+          "outline": [
+            "첫 컷: 과거 흰 티셔츠 장면에 ‘유학 시절 카즈하’.",
+            "다음 컷: 공식 영상의 현재 장면 전환을 그대로 사용.",
+            "마지막: 19일 공식 공개와 네덜란드 공연 맥락만 짧게 정리."
+          ]
+        }
+      },
+      "detail": {
+        "format": "원본 영상",
+        "media": [
+          {
+            "url": "https://www.instagram.com/reel/DeqFHLqBksU/",
+            "label": "공식 전후 비교 영상",
+            "kind": "video"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "공식 전후 비교 영상",
+            "url": "https://www.instagram.com/reel/DeqFHLqBksU/"
+          }
+        ],
+        "excerpt": "",
+        "context": "공식 계정이 19일 10시 29분 한국시각에 공개한 재현 영상이며, 네덜란드 공연 시점의 새 게시물이다.",
+        "fetched_at": 1792382361,
+        "parser_revision": 7
+      },
+      "curation_event_key": "kazuha-predebut-dance-recreation-netherlands-release-20261019"
+    },
+    "c985ae58ead3": {
+      "source": "한국일보 법조 취재",
+      "title": "메가커피 점주 290명이 ‘617억원 돌려달라’는 이유",
+      "link": "https://www.hankookilbo.com/news/article/A2026101814320000756",
+      "first_seen_at": 1792382361,
+      "last_seen_at": 1792382361,
+      "samples": [
+        {
+          "at": 1792382361,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "c985ae58ead3",
+      "editorial": {
+        "title": "메가커피 점주 290명이 ‘617억원 돌려달라’는 이유",
+        "category": "시사",
+        "url": "https://www.hankookilbo.com/news/article/A2026101814320000756",
+        "source": "한국일보 법조 취재",
+        "kind": "article",
+        "event_key": "mega-coffee-franchisees-617-eok-claim-disclosure-20261019",
+        "why": "늘 사 먹는 커피의 가격 뒤에서 본사와 점주가 어떤 돈을 다투는지, 소비자도 이해할 숫자가 나왔다.",
+        "angle": "메가커피 이름과 ‘617억원 청구’ 아래 계약 로열티 월 15만원·쟁점인 물품 차액을 나눈다.",
+        "why_now": "19일 새 보도에서 점주 290명·317개 점포가 6일 청구액을 617억원으로 늘린 소송 내용이 공개됐다.",
+        "verified_at": 1792382099,
+        "published_at": 1792351800,
+        "evidence": [
+          {
+            "url": "https://www.hankookilbo.com/news/article/A2026101814320000756",
+            "note": "290명·317점포·617억원 청구 확대, 10월 6일 제출, 월 15만원 로열티와 물품 차액 쟁점, 본사의 묵시적 동의·서비스 비용 반론을 본문 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.hankookilbo.com/news/article/A2026101814320000756",
+            "label": "소송 내용·본사 반론",
+            "kind": "source"
+          }
+        ],
+        "caution": "617억원은 점주 측 청구액이며 반환 판결이나 본사의 불법 확정이 아니다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-19",
+          "observation": "일상적으로 쓰는 대형 커피 프랜차이즈의 317개 점포가 계약상 로열티 외 공급 차액을 다투며 청구액을 617억원으로 확대했다는 새 소송 보도다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: ‘617억원 반환 청구’라고 명확히 쓴다.",
+            "둘째: 점주 측 계약·차액 주장과 본사 측 동의·서비스 비용 설명을 병렬로.",
+            "마지막: 6일 소송 확대·19일 보도, 아직 판단 전이라는 진행 상태."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "소송 내용·본사 반론",
+            "url": "https://www.hankookilbo.com/news/article/A2026101814320000756"
+          }
+        ],
+        "excerpt": "",
+        "context": "19일 새 보도에서 점주 290명·317개 점포가 6일 청구액을 617억원으로 늘린 소송 내용이 공개됐다.",
+        "fetched_at": 1792382361,
+        "parser_revision": 7
+      },
+      "curation_event_key": "mega-coffee-franchisees-617-eok-claim-disclosure-20261019"
+    },
+    "16ec20b744e7": {
+      "source": "뉴시스·동아일보·서려경 공개 사진",
+      "title": "소아과 의사가 세 번째 도전 끝에 찬 복싱 챔피언 벨트",
+      "link": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261019_0003831172",
+      "first_seen_at": 1792382361,
+      "last_seen_at": 1792382361,
+      "samples": [
+        {
+          "at": 1792382361,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "16ec20b744e7",
+      "editorial": {
+        "title": "소아과 의사가 세 번째 도전 끝에 찬 복싱 챔피언 벨트",
+        "category": "메이저 스포츠",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261019_0003831172",
+        "source": "뉴시스·동아일보·서려경 공개 사진",
+        "kind": "article",
+        "event_key": "seo-ryeo-kyung-wiba-title-tko-20261017",
+        "why": "환자를 진료하는 의사가 세계 타이틀에 세 번 도전했다는 실제 경력과 손에 든 벨트가 강하게 대비된다.",
+        "angle": "서려경의 실제 벨트 사진에 ‘직업: 소아청소년과 전문의 / 결과: 3라운드 KO’를 놓는다.",
+        "why_now": "17일 경기 뒤 19일 새 인터뷰·사진 보도가 나왔고, 세 번째 세계 타이틀 도전의 결과를 확인했다.",
+        "verified_at": 1792382099,
+        "published_at": 1792371648,
+        "evidence": [
+          {
+            "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261019_0003831172",
+            "note": "17일 서울에서 위수타 스리리티뎃에게 3라운드 KO승, WIBA 여자 미니멈급 우승, 현직 소아청소년과 전문의와 세 번째 타이틀 도전을 확인."
+          },
+          {
+            "url": "https://www.donga.com/news/Sports/article/all/20261019/134865030/1",
+            "note": "동아일보의 같은 경기·직업 보도와 당사자가 트로피·벨트를 함께 든 공개 사진을 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/19/134865031.1.jpg",
+            "label": "실제 WIBA 벨트 사진",
+            "kind": "image"
+          }
+        ],
+        "caution": "WIBA 타이틀이며 WBA·WBC·IBF·WBO 4대 기구 통합 챔피언으로 쓰지 않는다.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-17",
+          "observation": "서려경이 파란색 WIBA 챔피언 벨트를 어깨에 걸고 트로피 옆에 선 당사자 공개 사진과 ‘WIBA 세계챔피언’ 문구를 직접 확인했다.",
+          "checked_materials": [
+            "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/19/134865031.1.jpg"
+          ],
+          "outline": [
+            "첫 장: 확인한 벨트 사진과 소아청소년과 전문의라는 직업.",
+            "둘째: 17일 3라운드 KO·세 번째 타이틀 도전이라는 결과.",
+            "마지막: WIBA 여자 미니멈급 타이틀 명칭을 정확히 표기."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [
+          {
+            "url": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/19/134865031.1.jpg",
+            "label": "실제 WIBA 벨트 사진",
+            "kind": "image"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "실제 WIBA 벨트 사진",
+            "url": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/19/134865031.1.jpg"
+          }
+        ],
+        "excerpt": "",
+        "context": "17일 경기 뒤 19일 새 인터뷰·사진 보도가 나왔고, 세 번째 세계 타이틀 도전의 결과를 확인했다.",
+        "fetched_at": 1792382361,
+        "parser_revision": 7
+      },
+      "curation_event_key": "seo-ryeo-kyung-wiba-title-tko-20261017"
+    },
+    "69b7e37f14bf": {
+      "source": "SBS·의원실 제출 대한축구협회 자료",
+      "title": "0분 출전도 병역특례…아시안게임 출전 조건은 왜 사라졌나",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008803655",
+      "first_seen_at": 1792382361,
+      "last_seen_at": 1792382361,
+      "samples": [
+        {
+          "at": 1792382361,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "69b7e37f14bf",
+      "editorial": {
+        "title": "0분 출전도 병역특례…아시안게임 출전 조건은 왜 사라졌나",
+        "category": "축구",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008803655",
+        "source": "SBS·의원실 제출 대한축구협회 자료",
+        "kind": "article",
+        "event_key": "asian-games-football-playing-time-disclosure-20261019",
+        "why": "축구 팬끼리 감정만 싸우는 대신 실제 출전 시간과 제도가 바뀐 이유를 함께 비교할 수 있다.",
+        "angle": "0분 2명·박승수 17분의 공개 수치 옆에 ‘2020년 출전 조건 삭제’를 붙인다.",
+        "why_now": "19일 새로 공개된 선수별 출전 자료에서 병역특례 대상 20명 중 7명이 1시간 미만 출전한 사실을 다룬다.",
+        "verified_at": 1792382099,
+        "published_at": 1792375492,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008803655",
+            "note": "군필자 제외 대상 20명 중 7명이 1시간 미만, 후보 골키퍼 김민승·이승환 0분, 박승수 17분, 2020년 한 경기 출전 요건 삭제와 형식적 교체 방지 취지를 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008803655",
+            "label": "선수별 시간·제도 변경",
+            "kind": "source"
+          }
+        ],
+        "caution": "현행 제도에 따른 예술·체육요원 편입이며 불법 특혜나 복무의무 전면 면제로 단정하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-19",
+          "observation": "새 선수별 자료가 0분 출전자까지 포함한 적용 범위를 보여주며, 출전 요건 삭제에는 형식적 1분 교체를 막는 취지도 있었다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 대상 20명 중 7명 1시간 미만, 0분 2명이라고 정확히 표기.",
+            "둘째: 2020년 이전 출전 조건과 삭제 취지.",
+            "마지막: 백업 골키퍼의 역할과 현행 합법 적용, 제도 개선 제안은 미확정으로 구별."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "선수별 시간·제도 변경",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008803655"
+          }
+        ],
+        "excerpt": "",
+        "context": "19일 새로 공개된 선수별 출전 자료에서 병역특례 대상 20명 중 7명이 1시간 미만 출전한 사실을 다룬다.",
+        "fetched_at": 1792382361,
+        "parser_revision": 7
+      },
+      "curation_event_key": "asian-games-football-playing-time-disclosure-20261019"
+    },
+    "af5bb337b0d8": {
+      "source": "머니투데이·MLB/가디언스 공개 사진",
+      "title": "한 번 거절한 시구였는데…비가 추신수를 14년 만에 친정 마운드로 돌려놨다",
+      "link": "https://www.mt.co.kr/amp/sports/2026/10/19/2026101908122917605",
+      "first_seen_at": 1792382361,
+      "last_seen_at": 1792382361,
+      "samples": [
+        {
+          "at": 1792382361,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "af5bb337b0d8",
+      "editorial": {
+        "title": "한 번 거절한 시구였는데…비가 추신수를 14년 만에 친정 마운드로 돌려놨다",
+        "category": "메이저 스포츠",
+        "url": "https://www.mt.co.kr/amp/sports/2026/10/19/2026101908122917605",
+        "source": "머니투데이·MLB/가디언스 공개 사진",
+        "kind": "article",
+        "event_key": "shin-soo-choo-cleveland-alcs-first-pitch-rain-reschedule-20261019",
+        "why": "한국 야구 팬에게는 단순 시구보다 아들 일정으로 거절했다가 우천 순연 덕에 돌아온 재회의 이유가 있다.",
+        "angle": "과거 클리블랜드 유니폼의 초청 포스터와 오늘 가디언스 유니폼 사진을 나란히 놓는다.",
+        "why_now": "19일 한국시각 ALCS 5차전 시구가 실제 열렸으며, 당초 고사했다가 순연으로 성사된 사연이 새로 보도됐다.",
+        "verified_at": 1792382099,
+        "published_at": 1792368120,
+        "evidence": [
+          {
+            "url": "https://www.mt.co.kr/amp/sports/2026/10/19/2026101908122917605",
+            "note": "둘째 아들 대학 견학 일정으로 첫 요청을 고사했으나 4차전 우천 순연 뒤 다시 요청받아 성사됐다는 취재와 구단 공식 초청 포스터·당일 사진을 확인."
+          },
+          {
+            "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261019_0003830848",
+            "note": "19일 ALCS 5차전 시구, 2006~2012년 클리블랜드 경력과 14년 만의 유니폼 재착용을 교차 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://thumb.mt.co.kr/cdn-cgi/image/f%3Davif/21/2026/10/2026101908122917605_1.jpg",
+            "label": "오늘 친정팀 유니폼",
+            "kind": "image"
+          },
+          {
+            "url": "https://thumb.mt.co.kr/cdn-cgi/image/f%3Davif/21/2026/10/2026101908122917605_2.jpg",
+            "label": "구단 공식 초청 포스터",
+            "kind": "image"
+          }
+        ],
+        "caution": "현장 영상·응원 소리를 직접 시청한 것은 아니므로 미확인 관중 반응 컷을 제작 순서에 넣지 않는다.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-19",
+          "observation": "현재 가디언스의 빨간 유니폼을 입고 마운드 앞에서 박수치는 추신수 사진과, 2006~2012 동문으로 표기한 구단의 ALCS 시구 초청 포스터를 확인했다.",
+          "checked_materials": [
+            "https://thumb.mt.co.kr/cdn-cgi/image/f%3Davif/21/2026/10/2026101908122917605_1.jpg",
+            "https://thumb.mt.co.kr/cdn-cgi/image/f%3Davif/21/2026/10/2026101908122917605_2.jpg"
+          ],
+          "outline": [
+            "첫 장: 현재 유니폼 사진과 과거 사진을 쓴 공식 초청 포스터의 대비.",
+            "둘째: 아들 일정으로 고사→4차전 우천 순연→재초청이라는 성사 경위.",
+            "마지막: ALCS 5차전이라는 무대와 14년 만의 재회를 짧게 정리."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [
+          {
+            "url": "https://thumb.mt.co.kr/cdn-cgi/image/f%3Davif/21/2026/10/2026101908122917605_1.jpg",
+            "label": "오늘 친정팀 유니폼",
+            "kind": "image"
+          },
+          {
+            "url": "https://thumb.mt.co.kr/cdn-cgi/image/f%3Davif/21/2026/10/2026101908122917605_2.jpg",
+            "label": "구단 공식 초청 포스터",
+            "kind": "image"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "오늘 친정팀 유니폼",
+            "url": "https://thumb.mt.co.kr/cdn-cgi/image/f%3Davif/21/2026/10/2026101908122917605_1.jpg"
+          },
+          {
+            "label": "구단 공식 초청 포스터",
+            "url": "https://thumb.mt.co.kr/cdn-cgi/image/f%3Davif/21/2026/10/2026101908122917605_2.jpg"
+          }
+        ],
+        "excerpt": "",
+        "context": "19일 한국시각 ALCS 5차전 시구가 실제 열렸으며, 당초 고사했다가 순연으로 성사된 사연이 새로 보도됐다.",
+        "fetched_at": 1792382361,
+        "parser_revision": 7
+      },
+      "curation_event_key": "shin-soo-choo-cleveland-alcs-first-pitch-rain-reschedule-20261019"
+    },
+    "4a3cf27bd7bd": {
+      "source": "SBS·경찰청 의원실 제출 자료",
+      "title": "성범죄 기소유예 뒤 경찰 임용…뒤에선 성착취물, 직장에선 표창 3번",
+      "link": "https://news.sbs.co.kr/amp/news.amp?news_id=N1008803906",
+      "first_seen_at": 1792382361,
+      "last_seen_at": 1792382361,
+      "samples": [
+        {
+          "at": 1792382361,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "4a3cf27bd7bd",
+      "editorial": {
+        "title": "성범죄 기소유예 뒤 경찰 임용…뒤에선 성착취물, 직장에선 표창 3번",
+        "category": "시사",
+        "url": "https://news.sbs.co.kr/amp/news.amp?news_id=N1008803906",
+        "source": "SBS·경찰청 의원실 제출 자료",
+        "kind": "article",
+        "event_key": "police-ai-sexual-exploitation-hiring-record-three-awards-disclosure-20261019",
+        "why": "범죄를 잡아야 할 조직이 채용 때 무엇을 조회했고 무엇을 놓쳤는지, 새 공개 자료로 제도적 빈틈을 보여준다.",
+        "angle": "‘2021 기소유예→2023 경찰 임용→재직 중 표창 3회’의 확인된 연표로 시작한다.",
+        "why_now": "19일 경찰청의 의원실 제출 자료를 바탕으로 채용 당시 조회 범위와 세 차례 표창 사실이 새 보도됐다.",
+        "verified_at": 1792382099,
+        "published_at": 1792376640,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/amp/news.amp?news_id=N1008803906",
+            "note": "입직 전 불법촬영 혐의 기소유예, 2023년 말 임용 당시 조회 대상에서 빠진 사유, 허위 영상 400여개 제작 혐의·불법 영상 5600여개 소지와 세 차례 표창 보도를 본문 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/amp/news.amp?news_id=N1008803906",
+            "label": "경찰청 제출 자료 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "구속 기소 단계이며 유죄 확정으로 쓰지 않는다; 피해자 얼굴·영상물은 자료로 사용하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-19",
+          "observation": "현직 경찰관의 구속 기소 사건에서 새 경찰청 자료가 기소유예 전력의 채용 조회 공백과 재직 중 표창 이력을 드러냈다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 확인된 연표로 채용·표창과 혐의의 대비.",
+            "둘째: 기소유예가 당시 채용 조회에 잡히지 않은 구조를 보도 범위 안에서 설명.",
+            "마지막: 수사·기소 사실과 미확정 판결을 분리하고 피해자 정보는 배제."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "경찰청 제출 자료 취재",
+            "url": "https://news.sbs.co.kr/amp/news.amp?news_id=N1008803906"
+          }
+        ],
+        "excerpt": "",
+        "context": "19일 경찰청의 의원실 제출 자료를 바탕으로 채용 당시 조회 범위와 세 차례 표창 사실이 새 보도됐다.",
+        "fetched_at": 1792382361,
+        "parser_revision": 7
+      },
+      "curation_event_key": "police-ai-sexual-exploitation-hiring-record-three-awards-disclosure-20261019"
+    },
+    "8eb3c9b70812": {
+      "source": "연합뉴스 현장 취재·독자 제공 사진",
+      "title": "쇼핑은 끝났는데 출차에 5시간…신세계 강남점이 다음 날까지 무료 주차 안내한 밤",
+      "link": "https://www.yna.co.kr/view/AKR20261018060200004?section=industry%2Fall",
+      "first_seen_at": 1792382361,
+      "last_seen_at": 1792382361,
+      "samples": [
+        {
+          "at": 1792382361,
+          "views": null,
+          "reactions": null,
+          "rank": 8,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "8eb3c9b70812",
+      "editorial": {
+        "title": "쇼핑은 끝났는데 출차에 5시간…신세계 강남점이 다음 날까지 무료 주차 안내한 밤",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261018060200004?section=industry%2Fall",
+        "source": "연합뉴스 현장 취재·독자 제공 사진",
+        "kind": "article",
+        "event_key": "shinsegae-gangnam-parking-five-hour-delay-20261018",
+        "why": "백화점에 차를 가져가는 친구에게 바로 보낼 생활 피해이며, 실제 대기 사진과 백화점 대응이 함께 있다.",
+        "angle": "지하주차장에 길게 선 실제 차량 사진 위에 ‘출차 대기 5시간이라는 이용자 증언’을 얹는다.",
+        "why_now": "18일 밤 발생한 출차 지연에 대해 실제 이용자 취재와 백화점의 익일 무료 출차 조치가 공개됐다.",
+        "verified_at": 1792382099,
+        "published_at": 1792327560,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261018060200004?section=industry%2Fall",
+            "note": "18일 오후 5시 무렵 출차 지연, 이용자의 5시간 대기 증언, 주변 교통 체증이라는 백화점 설명과 다음 날 추가 요금 없이 출차하도록 한 조치를 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://img5.yna.co.kr/photo/yna/YH/2026/10/18/PYH2026101809810001300_P4.jpg",
+            "label": "현장 출차 대기 차량",
+            "kind": "image"
+          }
+        ],
+        "caution": "18일 밤 사건이며 현재도 갇혀 있다고 쓰지 않는다; 5시간은 취재된 이용자 증언이다.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-18",
+          "observation": "M06 표지의 지하주차장 통로에 여러 차량이 길게 늘어서고 브레이크등이 켜진 현장 사진을 직접 확인했다.",
+          "checked_materials": [
+            "https://img5.yna.co.kr/photo/yna/YH/2026/10/18/PYH2026101809810001300_P4.jpg"
+          ],
+          "outline": [
+            "첫 장: 실제 차량 대기 사진과 이용자 대기 시간 증언.",
+            "둘째: 주말 혼잡·비·인근 교통 체증이라는 백화점 설명.",
+            "마지막: 다음 날 추가 요금 없는 출차 안내와 사건 발생 날짜를 명시."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [
+          {
+            "url": "https://img5.yna.co.kr/photo/yna/YH/2026/10/18/PYH2026101809810001300_P4.jpg",
+            "label": "현장 출차 대기 차량",
+            "kind": "image"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "현장 출차 대기 차량",
+            "url": "https://img5.yna.co.kr/photo/yna/YH/2026/10/18/PYH2026101809810001300_P4.jpg"
+          }
+        ],
+        "excerpt": "",
+        "context": "18일 밤 발생한 출차 지연에 대해 실제 이용자 취재와 백화점의 익일 무료 출차 조치가 공개됐다.",
+        "fetched_at": 1792382361,
+        "parser_revision": 7
+      },
+      "curation_event_key": "shinsegae-gangnam-parking-five-hour-delay-20261018"
+    },
+    "239cef39b32e": {
+      "source": "스포츠조선·중계 화면",
+      "title": "‘퇴장감’이라던 장면에 ‘영상 못 찾았다’…무리뉴의 답변과 실제 캡처",
+      "link": "https://www.sportschosun.com/football/2026-10-19/202610190100116970007634",
+      "first_seen_at": 1792382361,
+      "last_seen_at": 1792382361,
+      "samples": [
+        {
+          "at": 1792382361,
+          "views": null,
+          "reactions": null,
+          "rank": 9,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "239cef39b32e",
+      "editorial": {
+        "title": "‘퇴장감’이라던 장면에 ‘영상 못 찾았다’…무리뉴의 답변과 실제 캡처",
+        "category": "축구",
+        "url": "https://www.sportschosun.com/football/2026-10-19/202610190100116970007634",
+        "source": "스포츠조선·중계 화면",
+        "kind": "article",
+        "event_key": "real-sevilla-guler-elbow-dispute-mourinho-20261019",
+        "why": "레알·라이벌 팬이 같은 캡처와 감독 답변을 비교할 수 있어 판정 논쟁의 근거를 놓고 이야기하게 된다.",
+        "angle": "귈러와 세비야 선수의 상체 접촉 캡처 옆에 상대 감독 주장과 무리뉴 답변을 분리한다.",
+        "why_now": "19일 한국시각 세비야전 뒤 나온 귈러 접촉 장면과 양 감독의 상반된 설명을 다루며 지난 경기 논란을 재전송하지 않는다.",
+        "verified_at": 1792382099,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.sportschosun.com/football/2026-10-19/202610190100116970007634",
+            "note": "세비야 감독의 귈러 팔꿈치 퇴장 주장과 무리뉴가 여러 카메라를 살폈지만 해당 장면을 찾지 못했다고 답한 내용을 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.sportschosun.com/article/html/2026/10/19/2026101901001169700076342.jpg",
+            "label": "문제 접촉의 중계 캡처",
+            "kind": "image"
+          }
+        ],
+        "caution": "한 장의 캡처로 퇴장·고의성을 확정할 수 없으며 양측 발언은 각각의 주장이다.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-19",
+          "observation": "흰색 15번 선수와 붉은색 선수가 나란히 뛰며 상체·팔이 맞닿는 순간을 표시한 중계 캡처를 확인했다. 연속 영상은 시청하지 않았다.",
+          "checked_materials": [
+            "https://www.sportschosun.com/article/html/2026/10/19/2026101901001169700076342.jpg"
+          ],
+          "outline": [
+            "첫 장: 실제 접촉 캡처와 두 감독 답변의 대비.",
+            "둘째: 세비야 측 퇴장 주장과 레알 측 설명을 각각 출처와 함께.",
+            "마지막: 정지 사진만으로 심판 판정을 확정하지 않는다는 확인 범위."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [
+          {
+            "url": "https://www.sportschosun.com/article/html/2026/10/19/2026101901001169700076342.jpg",
+            "label": "문제 접촉의 중계 캡처",
+            "kind": "image"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "문제 접촉의 중계 캡처",
+            "url": "https://www.sportschosun.com/article/html/2026/10/19/2026101901001169700076342.jpg"
+          }
+        ],
+        "excerpt": "",
+        "context": "19일 한국시각 세비야전 뒤 나온 귈러 접촉 장면과 양 감독의 상반된 설명을 다루며 지난 경기 논란을 재전송하지 않는다.",
+        "fetched_at": 1792382361,
+        "parser_revision": 7
+      },
+      "curation_event_key": "real-sevilla-guler-elbow-dispute-mourinho-20261019"
+    },
+    "8546d095b075": {
+      "source": "연합뉴스·MBC의 BBC 위성 분석 보도",
+      "title": "배 위 수영장만 50m…BBC가 원산 앞바다 위성사진에서 찾은 80m 선박",
+      "link": "https://www.yna.co.kr/view/AKR20261018059600009",
+      "first_seen_at": 1792382361,
+      "last_seen_at": 1792382361,
+      "samples": [
+        {
+          "at": 1792382361,
+          "views": null,
+          "reactions": null,
+          "rank": 10,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "8546d095b075",
+      "editorial": {
+        "title": "배 위 수영장만 50m…BBC가 원산 앞바다 위성사진에서 찾은 80m 선박",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261018059600009",
+        "source": "연합뉴스·MBC의 BBC 위성 분석 보도",
+        "kind": "article",
+        "event_key": "wonsan-80m-ship-50m-pool-bbc-satellite-investigation-20261018",
+        "why": "보통 요트가 아니라 배 위에 50m 수영장을 둔 규모를 도식화하면 북한 권력층 휴양시설의 대비가 바로 읽힌다.",
+        "angle": "‘선박 길이 80m·갑판 수영장 50m’의 비율 도식에 BBC 위성 분석이라는 출처를 붙인다.",
+        "why_now": "BBC가 올해 7월~10월 중순 위성사진을 분석한 결과를 18일 공개했다는 새 보도를 확인했다.",
+        "verified_at": 1792382099,
+        "published_at": 1792326540,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261018059600009",
+            "note": "18일 BBC 보도 인용: 올해 7월~10월 중순 원산 위성사진 분석, 80m 선박 위 50m 수영장·슬라이드, 김정은 일가 용도는 전문가 추정으로 구별."
+          },
+          {
+            "url": "https://imnews.imbc.com/news/2026/world/article/6858834_36926.html",
+            "note": "MBC도 18일 22시19분 동일 위성 분석과 선박 규모·용도 추정의 범위를 전했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261018059600009",
+            "label": "위성 분석 취재 내용",
+            "kind": "source"
+          }
+        ],
+        "caution": "BBC 원본·위성사진은 직접 열람 못함; 일가 소유·실제 탑승·가격은 확정하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-18",
+          "observation": "BBC의 새 위성 분석을 전한 두 보도가 원산 별장 인근 선박 80m와 갑판 수영장 50m 규모를 제시했다. 가족 전용이라는 해석은 전문가 추정이다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 보도된 80m·50m 비율을 명시한 도식; 실제 위성사진처럼 합성하지 않는다.",
+            "둘째: 올해 7월~10월 중순 이동을 분석했다는 관찰 범위.",
+            "마지막: 김정은 일가 사용은 추정이며 실제 탑승·가격은 미확인이라고 분리."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "위성 분석 취재 내용",
+            "url": "https://www.yna.co.kr/view/AKR20261018059600009"
+          }
+        ],
+        "excerpt": "",
+        "context": "BBC가 올해 7월~10월 중순 위성사진을 분석한 결과를 18일 공개했다는 새 보도를 확인했다.",
+        "fetched_at": 1792382361,
+        "parser_revision": 7
+      },
+      "curation_event_key": "wonsan-80m-ship-50m-pool-bbc-satellite-investigation-20261018"
+    },
     "ab83116253ac": {
       "source": "국내·해외축구",
       "title": "'폭우'로 후반전 30분 연기, 대전이 '이득'봤다…'대역전극' 펼친 황선홍호, 광주 3-2로 제압하고 6경기 '무패'",
@@ -151138,303 +151952,7 @@
         ],
         "checked_at": 1792207060
       }
-    },
-    "5a10fa4128a2": {
-      "source": "디시 실베",
-      "title": "[대갤] 日 음식점에서 먹다 남은 콜라 재활용 하다 딱 걸려 (오사카)",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=470972",
-      "first_seen_at": 1792207060,
-      "last_seen_at": 1792207060,
-      "samples": [
-        {
-          "at": 1792207060,
-          "views": 1584,
-          "reactions": 26,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "5a10fa4128a2",
-      "detail": {
-        "excerpt": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 일뽕들이 말하는 일본인의 양심, 위생은 어디에? [시리즈] 미식의 천국 일본에 이랏샤이~ (1)…",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://dcimg2.dcinside.co.kr/viewimage.php?id=29bed223f6c6&no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18af6b04f6dbd267dc3636cb52a608fa8bf64c8b7e8c8ca2d3728313123b553ae05f39ec1395299f0d3a6c24ea7689913690dc92"
-          }
-        ],
-        "checked_at": 1792207060
-      }
-    },
-    "5464f22e0728": {
-      "source": "디시 실베",
-      "title": "[잡갤] 채널a) \"실실 웃으면서\" \"무슨 소리야\"...과방위 90분 만에 파행",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=470971",
-      "first_seen_at": 1792207060,
-      "last_seen_at": 1792207060,
-      "samples": [
-        {
-          "at": 1792207060,
-          "views": 1330,
-          "reactions": 8,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "5464f22e0728",
-      "detail": {
-        "excerpt": "- 관련게시물 : 이진숙 근황 ㄷㄷ - dc official App 출처: 잡담 갤러리 [원본 보기]",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://dcimg2.dcinside.co.kr/viewimage.php?id=29bed223f6c6&no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ae6b07595a14537e20c4ea00acc353018d82fea6e4339b1378987b3a31b3f9827011f351a32202193078c9c51cf287dde3bcadb35a43"
-          }
-        ],
-        "checked_at": 1792207060
-      }
-    },
-    "2ff691bde3d3": {
-      "source": "디시 실베",
-      "title": "[이갤] 알바하다가 성희롱 당한 썰",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=470970",
-      "first_seen_at": 1792207060,
-      "last_seen_at": 1792207060,
-      "samples": [
-        {
-          "at": 1792207060,
-          "views": 4068,
-          "reactions": 7,
-          "rank": 6,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "2ff691bde3d3",
-      "detail": {
-        "excerpt": "남자가 \" 나는 여자친구 임신도 시켰어서 낙태를 시켜본적있다, 근데 별로 안미안했다.. 남자중에서 성매매 업소 안가본 남자 없다.. \"…",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://dcimg2.dcinside.co.kr/viewimage.php?id=29bed223f6c6&no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e6557c88f893d3675a3ae5a303dbafa37700504917dc5965b77c6c0f363cd265039769b5700"
-          }
-        ],
-        "checked_at": 1792207060
-      }
-    },
-    "1a2775084770": {
-      "source": "디시 실베",
-      "title": "[미갤] 우정잉 최신 근황",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=470969",
-      "first_seen_at": 1792207060,
-      "last_seen_at": 1792207060,
-      "samples": [
-        {
-          "at": 1792207060,
-          "views": 12767,
-          "reactions": 48,
-          "rank": 7,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "1a2775084770",
-      "detail": {
-        "excerpt": "하닉 279층 -> 240층 삼전 32층 -> 31층 몇개월동안 열심히 번돈으로 물타서 내려옴 출처: 미국 주식 갤러리 [원본…",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://dcimg2.dcinside.co.kr/viewimage.php?id=29bed223f6c6&no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807f65d1657119c3a466d7c1fc76713f601ec8e5aafd713ee6084161d91b329161e80e6928"
-          }
-        ],
-        "checked_at": 1792207060
-      }
-    },
-    "c67c9554f8a2": {
-      "source": "디시 실베",
-      "title": "[잡갤] 채널a) '어깨빵' 하고 휴대전화 '툭'...2200만원 뜯어",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=470968",
-      "first_seen_at": 1792207060,
-      "last_seen_at": 1792207060,
-      "samples": [
-        {
-          "at": 1792207060,
-          "views": 2300,
-          "reactions": 13,
-          "rank": 8,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "c67c9554f8a2",
-      "detail": {
-        "excerpt": "모른척하면 따라가서 따짐 - dc official App - sbs) 일부러 부딪치고 수리비 요구..38명 당했다 - dc official…",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://dcimg2.dcinside.co.kr/viewimage.php?id=29bed223f6c6&no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ae6b07595a14537e20c1e304a0c05a0c8b8af620fbe11a10db23f567ff421b839eb8009aea0c176cca474b2b476770908ba56408a399"
-          }
-        ],
-        "checked_at": 1792207060
-      }
-    },
-    "cde68990bea7": {
-      "source": "디시 실베",
-      "title": "[싱갤] 은근히 잘 모르는 한국이 일본 테러할려고 했던 사건",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=470966",
-      "first_seen_at": 1792207060,
-      "last_seen_at": 1792207060,
-      "samples": [
-        {
-          "at": 1792207060,
-          "views": 9276,
-          "reactions": 60,
-          "rank": 9,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "cde68990bea7",
-      "detail": {
-        "excerpt": "1950년대 후반, 북한은 경제 체제 선전을 목적으로 일본 정부 및 일본적십자사와 협력하여 재일교포들을 북한으로 이주시키는…",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://dcimg2.dcinside.co.kr/viewimage.php?id=29bed223f6c6&no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807d65ec9889e4a3f5acd277c5f6ff3ae0335fc50995b6d022cd44e5c127d8e574719b325443036691626fb390b4"
-          }
-        ],
-        "checked_at": 1792207060
-      }
-    },
-    "be1e0e6b31bc": {
-      "source": "디시 실베",
-      "title": "[싱갤] 싱글벙글 10년의 결과물.jpg",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=470965",
-      "first_seen_at": 1792207060,
-      "last_seen_at": 1792207060,
-      "samples": [
-        {
-          "at": 1792207060,
-          "views": 6758,
-          "reactions": 30,
-          "rank": 10,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "be1e0e6b31bc",
-      "detail": {
-        "excerpt": "출처: 싱글벙글 지구촌 갤러리 [원본 보기]",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://dcimg2.dcinside.co.kr/viewimage.php?id=29bed223f6c6&no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807d65ec9889e4a3f5acd277c5f6ff3ae0335fc50f94beda2bca40e9cb20d8b52320c14a6dde781772d28e8a4f25"
-          }
-        ],
-        "checked_at": 1792207060
-      }
-    },
-    "e33549ec525b": {
-      "source": "네이트 스포츠",
-      "title": "KIA 한숨, 19억 투자 어디로 사라졌나…가을에도 나타나지 않았다, 이범호 테트리스 성공하나",
-      "link": "https://sports.news.nate.com/view/20261017n00528",
-      "first_seen_at": 1792191710,
-      "last_seen_at": 1792202496,
-      "samples": [
-        {
-          "at": 1792191710,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792194719,
-          "views": null,
-          "reactions": null,
-          "rank": 7,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792202496,
-          "views": null,
-          "reactions": null,
-          "rank": 9,
-          "rank_kind": "nate_sports_interest"
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "e33549ec525b",
-      "detail": {
-        "excerpt": "한눈에 보는 오늘 : 야구 - 뉴스 : [스포티비뉴스=김태우 기자] KIA는 17일부터 시작될…",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/su/2026/10/17/1013542_2029046_249.jpg"
-          }
-        ],
-        "checked_at": 1792191710
-      }
-    },
-    "e97348ccd590": {
-      "source": "네이버 뉴스",
-      "title": "'5.18' 이어 '묘소 셀카'...'이진숙 논란', 국힘도 엇갈린 반응",
-      "link": "https://n.news.naver.com/article/052/0002419918",
-      "first_seen_at": 1792202496,
-      "last_seen_at": 1792202496,
-      "samples": [
-        {
-          "at": 1792202496,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "e97348ccd590",
-      "detail": {
-        "excerpt": "[앵커] 최근 국회는 행정부를 대상으로 각종 질의를 이어가는 국정감사가 한창이죠. 과방위 국감에서는 이진숙 의원의 행보를 두고…",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://imgnews.pstatic.net/image/052/2026/10/17/202610170518441045_t_20261017052018076.jpg?type=w800"
-          }
-        ],
-        "published_at": "2026-10-17T05:18:44+09:00",
-        "checked_at": 1792202496
-      }
-    },
-    "11828a0aaf7b": {
-      "source": "네이버 뉴스",
-      "title": "'신천지 논란' 재점화에 내홍...김민석 리더십 시험대",
-      "link": "https://n.news.naver.com/article/052/0002419917",
-      "first_seen_at": 1792202496,
-      "last_seen_at": 1792202496,
-      "samples": [
-        {
-          "at": 1792202496,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "11828a0aaf7b",
-      "detail": {
-        "excerpt": "[앵커] 더불어민주당이 김민석 지도부 출범 두 달 만에 '신천지 당원 집단가입 의혹' 논란으로 다시 내홍을 맞고 있습니다. 계파…",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://imgnews.pstatic.net/image/052/2026/10/17/202610170512136030_t_20261017051818047.jpg?type=w800"
-          }
-        ],
-        "published_at": "2026-10-17T05:12:13+09:00",
-        "checked_at": 1792202496
-      }
     }
   },
-  "updated_at": 1792369452
+  "updated_at": 1792382361
 }

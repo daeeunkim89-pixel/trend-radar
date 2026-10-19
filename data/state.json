@@ -1,5 +1,5 @@
 {
-  "updated_at": 1792364400,
+  "updated_at": 1792382362,
   "status": "ok",
   "errors": {},
   "report": {
@@ -11,66 +11,66 @@
     "ai": "chatgpt_web_research",
     "requested_stories": 10,
     "reviewed_edition_version": 2,
-    "trigger": "hourly",
-    "hour_utc": "2026101823",
+    "trigger": "user_requested",
+    "hour_utc": "2026101903",
     "category_counts": {
-      "시사": 5,
+      "시사": 4,
       "축구": 3,
-      "메이저 스포츠": 1,
+      "메이저 스포츠": 2,
       "아이돌": 1
     },
-    "research_queries": 28,
-    "opened_sources": 19,
+    "research_queries": 38,
+    "opened_sources": 25,
     "picks": [
       {
-        "title": "발목 붙잡고 5–11로 밀렸는데…안세영은 결승을 뒤집었다",
-        "url": "https://www.newsis.com/view/NISX20261018_0003830672",
-        "event_key": "an-se-young-denmark-final-injury-comeback-title-20261018"
+        "title": "맨유가 5연승하면 머리 자른다더니…100경기째 못 자른 팬",
+        "url": "https://www.koreadaily.com/article/20261018184822680",
+        "event_key": "frank-ilett-man-united-no-haircut-100-games-20261019"
       },
       {
-        "title": "골키퍼가 여기 있었는데…센터라인에서 그대로 꽂아버린 51m 슛",
-        "url": "https://www.nbcsports.com/soccer/premier-league/news/brightons-diego-gomez-scores-from-the-halfway-line-as-seagulls-blitz-rivals-palace",
-        "event_key": "diego-gomez-halfway-line-goal-crystal-palace-20261018"
+        "title": "유학 시절 혼자 찍던 춤…카즈하가 지금 모습으로 다시 춘 장면",
+        "url": "https://www.instagram.com/reel/DeqFHLqBksU/",
+        "event_key": "kazuha-predebut-dance-recreation-netherlands-release-20261019"
       },
       {
-        "title": "수원 볼보이가 유럽에서 골 넣더니…조나탄의 깃발을 다시 들었다",
-        "url": "https://news.nate.com/view/20261018n10184",
-        "event_key": "oh-hyeon-gyu-jonathan-corner-flag-celebration-20261016"
+        "title": "메가커피 점주 290명이 ‘617억원 돌려달라’는 이유",
+        "url": "https://www.hankookilbo.com/news/article/A2026101814320000756",
+        "event_key": "mega-coffee-franchisees-617-eok-claim-disclosure-20261019"
       },
       {
-        "title": "입양 행사 취소되자…리아는 함께 걷기로 한 강아지를 직접 소개했다",
-        "url": "https://theqoo.net/hot/4379638161",
-        "event_key": "itzy-lia-haengun-adoption-stories-rain-cancellation-20261018"
+        "title": "소아과 의사가 세 번째 도전 끝에 찬 복싱 챔피언 벨트",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261019_0003831172",
+        "event_key": "seo-ryeo-kyung-wiba-title-tko-20261017"
       },
       {
-        "title": "0–2에서 3–2…폭우 뒤 대전이 만든 마지막 장면은 자책골이었다",
-        "url": "https://news.nate.com/view/20261018n12791",
-        "event_key": "daejeon-gwangju-var-own-goal-comeback-20261018"
+        "title": "0분 출전도 병역특례…아시안게임 출전 조건은 왜 사라졌나",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008803655",
+        "event_key": "asian-games-football-playing-time-disclosure-20261019"
       },
       {
-        "title": "운전대에서 손 떼면 꺼졌는데…고리 하나 걸자 경고가 사라졌다",
-        "url": "https://n.news.naver.com/article/055/0001396356",
-        "event_key": "sbs-autopilot-helper-warning-test-enforcement-20261018"
+        "title": "한 번 거절한 시구였는데…비가 추신수를 14년 만에 친정 마운드로 돌려놨다",
+        "url": "https://www.mt.co.kr/amp/sports/2026/10/19/2026101908122917605",
+        "event_key": "shin-soo-choo-cleveland-alcs-first-pitch-rain-reschedule-20261019"
       },
       {
-        "title": "수험생은 접속 못 했는데…원서 대행사는 대학에 차량·제설기까지 줬다",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6858811_37004.html",
-        "event_key": "university-application-firms-200-eok-benefits-disclosure-20261018"
+        "title": "성범죄 기소유예 뒤 경찰 임용…뒤에선 성착취물, 직장에선 표창 3번",
+        "url": "https://news.sbs.co.kr/amp/news.amp?news_id=N1008803906",
+        "event_key": "police-ai-sexual-exploitation-hiring-record-three-awards-disclosure-20261019"
       },
       {
-        "title": "10만 대 다니는 고가도로…케이블은 또 끊어졌는데 점검은 ‘양호’",
-        "url": "https://www.yna.co.kr/view/AKR20261018047100004",
-        "event_key": "jeongneung-viaduct-tendon-breaks-audit-disclosure-20261019"
+        "title": "쇼핑은 끝났는데 출차에 5시간…신세계 강남점이 다음 날까지 무료 주차 안내한 밤",
+        "url": "https://www.yna.co.kr/view/AKR20261018060200004?section=industry%2Fall",
+        "event_key": "shinsegae-gangnam-parking-five-hour-delay-20261018"
       },
       {
-        "title": "전자결제 사고 170억원인데 보상률은 17%…최소 기준도 못 갖춘 12곳",
-        "url": "https://www.yna.co.kr/view/AKR20261018037700002",
-        "event_key": "electronic-finance-compensation-shortfall-disclosure-20261019"
+        "title": "‘퇴장감’이라던 장면에 ‘영상 못 찾았다’…무리뉴의 답변과 실제 캡처",
+        "url": "https://www.sportschosun.com/football/2026-10-19/202610190100116970007634",
+        "event_key": "real-sevilla-guler-elbow-dispute-mourinho-20261019"
       },
       {
-        "title": "계좌 동결 풀어달랬는데 평균 18.6일…‘통장묶기’ 악용에 더딘 대응",
-        "url": "https://www.yna.co.kr/view/AKR20261017041400002",
-        "event_key": "bank-account-freeze-appeals-delays-disclosure-20261019"
+        "title": "배 위 수영장만 50m…BBC가 원산 앞바다 위성사진에서 찾은 80m 선박",
+        "url": "https://www.yna.co.kr/view/AKR20261018059600009",
+        "event_key": "wonsan-80m-ship-50m-pool-bbc-satellite-investigation-20261018"
       }
     ]
   }
