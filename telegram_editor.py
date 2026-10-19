@@ -20,11 +20,16 @@ CONTENT_RETENTION = 7 * 86400
 
 
 class TelegramError(RuntimeError):
-    pass
+    code = "telegram_error"
 
 
 class DeliveryUncertain(TelegramError):
-    pass
+    code = "delivery_uncertain"
+
+
+class ConnectionNotEstablished(TelegramError):
+    """No connection was established, so no message could have been accepted."""
+    code = "connect_timeout"
 
 
 class PrivateState:
@@ -68,20 +73,36 @@ class TelegramClient:
         for attempt in range(3):
             try:
                 response = self.session.post(f"https://api.telegram.org/bot{self.token}/{method}",
-                                             json=payload or {}, timeout=(5, 20))
+                                             json=payload or {}, timeout=(10, 60))
                 body = response.json()
-            except requests.RequestException:
+            except requests.ConnectTimeout:
+                # Requests explicitly documents ConnectTimeout as safe to retry.
+                # Do not extend this to ConnectionError/ReadTimeout: bytes may have arrived.
+                if attempt < 2:
+                    time.sleep(attempt + 1)
+                    continue
+                raise ConnectionNotEstablished("텔레그램 연결 수립 시간 초과: 메시지 미전송") from None
+            except requests.RequestException as error:
                 # requests exceptions include URLs containing the bot token; do not log them.
                 if method == "sendMessage":
-                    raise DeliveryUncertain("텔레그램 전송 결과 확인 불가: 자동 재전송 중지") from None
+                    raise DeliveryUncertain(f"텔레그램 전송 결과 확인 불가 ({type(error).__name__}): 자동 재전송 중지") from None
+                if attempt < 2:
+                    time.sleep(attempt + 1)
+                    continue
                 raise TelegramError(f"텔레그램 {method} 연결 실패") from None
             except (ValueError, TypeError):
                 if method == "sendMessage":
                     raise DeliveryUncertain("텔레그램 전송 결과 응답 확인 불가: 자동 재전송 중지") from None
                 raise TelegramError(f"텔레그램 {method} 응답 형식 오류") from None
+            if method == "sendMessage" and (not isinstance(body, dict) or type(body.get("ok")) is not bool):
+                raise DeliveryUncertain("텔레그램 전송 응답 형식 확인 불가: 자동 재전송 중지")
             if isinstance(body, dict) and response.status_code == 200 and body.get("ok") is True:
                 return body.get("result")
             code = body.get("error_code", response.status_code) if isinstance(body, dict) else response.status_code
+            if type(code) is not int:
+                code = response.status_code
+            if method == "sendMessage" and (code >= 500 or body.get("ok") is True):
+                raise DeliveryUncertain("텔레그램 서버 전송 결과 확인 불가: 자동 재전송 중지")
             retry = body.get("parameters", {}).get("retry_after", 0) if isinstance(body, dict) else 0
             if code == 429 and isinstance(retry, (int, float)) and 0 < retry <= 30 and attempt < 2:
                 time.sleep(retry + 0.2)
@@ -92,7 +113,8 @@ class TelegramClient:
     def verify(self):
         me = self.call("getMe")
         chat = self.call("getChat", {"chat_id": self.chat_id})
-        if not me.get("is_bot") or str(chat.get("id")) != self.chat_id or chat.get("type") not in {"group", "supergroup"}:
+        if (not isinstance(me, dict) or not isinstance(chat, dict) or not me.get("is_bot")
+                or str(chat.get("id")) != self.chat_id or chat.get("type") not in {"group", "supergroup"}):
             raise TelegramError("텔레그램 봇·그룹 확인 실패")
         self.username = me.get("username", "")
         print("TELEGRAM_GROUP_VERIFIED=OK")
@@ -106,7 +128,9 @@ class TelegramClient:
                 time.sleep(wait)
         result = self.call("sendMessage", {"chat_id": self.chat_id, "text": text,
                                           "parse_mode": "HTML", "link_preview_options": {"is_disabled": True}})
-        if str(result.get("chat", {}).get("id")) != self.chat_id or not result.get("message_id"):
+        chat = result.get("chat") if isinstance(result, dict) else None
+        if (not isinstance(chat, dict) or str(chat.get("id")) != self.chat_id
+                or type(result.get("message_id")) is not int or result["message_id"] <= 0):
             raise DeliveryUncertain("텔레그램 반환 전송 대상·메시지 확인 실패")
         self.last_sent = time.monotonic()
         print("TELEGRAM_SEND=OK")

@@ -71,7 +71,7 @@ class EditorialEditionTests(unittest.TestCase):
     def test_wrong_hour_stale_review_and_early_preparation_are_rejected(self):
         for value, target, now in ((edition(hour="2026101710"), HOUR, NOW),
                                    (edition(), HOUR, NOW + 75 * 60 + 1),
-                                   (edition(hour=hourly_key(HOUR + 3600)[7:]), HOUR + 3600, NOW)):
+                                   (edition(hour=hourly_key(HOUR + 7200)[7:]), HOUR + 7200, NOW)):
             with self.subTest(target=target, now=now):
                 self.write(value)
                 with self.assertRaises(ValueError):
@@ -135,7 +135,7 @@ class EditorialEditionTests(unittest.TestCase):
     def test_delivery_job_allows_full_preparation_wait_and_setup(self):
         import re
         target = HOUR + 3600
-        earliest = target - 20 * 60
+        earliest = target - 60 * 60
         self.assertEqual(prepared_target(hourly_key(target)[7:], earliest), target)
         workflow = (Path(__file__).resolve().parents[1] / ".github/workflows/delivery-request.yml").read_text()
         minutes = int(re.search(r"timeout-minutes:\s*(\d+)", workflow).group(1))
@@ -358,7 +358,7 @@ class EditorialEditionTests(unittest.TestCase):
     def test_prepared_request_is_bound_to_content_and_only_imminent_hour(self):
         target = HOUR + 3600
         self.assertEqual(prepared_target(hourly_key(target)[7:], target - 1200), target)
-        for clock in (target - 1201, target + 3600):
+        for clock in (target - 3601, target + 3600):
             with self.assertRaises(ValueError):
                 prepared_target(hourly_key(target)[7:], clock)
         self.write(edition())

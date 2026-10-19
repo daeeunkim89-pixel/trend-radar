@@ -4,6 +4,7 @@ from datetime import datetime, timedelta, timezone
 
 
 REPORT_HOURS_KST = (8, 11, 14, 17, 20, 23)
+PREPARATION_SECONDS = 60 * 60
 KST = timezone(timedelta(hours=9))
 
 
@@ -38,13 +39,22 @@ def hourly_key(target):
 
 
 def prepared_target(value, now):
-    """A reviewed edition can be prepared in the last twenty minutes before its hour."""
+    """Queue a reviewed edition up to one hour before its report slot."""
     if not isinstance(value, str) or len(value) != 10 or not value.isascii() or not value.isdigit():
         raise ValueError("Prepared hour must use UTC YYYYMMDDHH")
     target = int(datetime.strptime(value, "%Y%m%d%H").replace(tzinfo=timezone.utc).timestamp())
-    if not -20 * 60 <= now - target < 3600:
+    if not -PREPARATION_SECONDS <= now - target < 3600:
         raise ValueError("Prepared edition is outside the current or imminent hour")
     return target
+
+
+def editorial_target(now):
+    """The current report hour or its one-hour preparation window; never replay."""
+    hour = int(now) // 3600 * 3600
+    for target in (hour, hour + 3600):
+        if datetime.fromtimestamp(target, KST).hour in REPORT_HOURS_KST:
+            return target
+    return None
 
 
 def wait_for_target(target, clock=None, sleep=None):

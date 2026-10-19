@@ -1,6 +1,9 @@
 name: Trend Radar delivery request
 
 on:
+  schedule:
+    # Recheck the same pinned request, without AI calls, only in the six report hours.
+    - cron: '5,20,35,50 2,5,8,11,14,23 * * *'
   push:
     branches: [main]
     paths: [data/report-request.json]
@@ -16,8 +19,8 @@ concurrency:
 jobs:
   deliver:
     runs-on: ubuntu-latest
-    # Preparation can wait up to 20 minutes for the hour, plus setup and delivery.
-    timeout-minutes: 30
+    # Research can queue early; the approved Python sender waits for the report hour.
+    timeout-minutes: 75
     steps:
       - name: Checkout latest shared delivery ledger
         uses: actions/checkout@v4
@@ -33,17 +36,21 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+          cache: pip
       - run: pip install -r requirements.txt
       - name: Regression tests
         run: python -m unittest discover -s tests -q
-      - run: playwright install --with-deps chromium
       - name: Deliver the requested current hour once
         id: collect
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           EXPECTED_TELEGRAM_CHAT_SHA256: eadd371c0bc22ff5c483c27bed108ad2e7494f2c3e3d8091305a592ce2cbbdc2
-        run: python -u report_request.py --request-file /tmp/btp-report-request.json --picks-file /tmp/btp-editorial-picks.json
+          BTP_EVENT_NAME: ${{ github.event_name }}
+        run: |
+          args=()
+          if [ "$BTP_EVENT_NAME" = schedule ]; then args+=(--scheduled-check); fi
+          python -u report_request.py --request-file /tmp/btp-report-request.json --picks-file /tmp/btp-editorial-picks.json "${args[@]}"
       - name: Persist delivery result even when a source is unavailable
         if: always() && !cancelled() && steps.collect.outcome != 'skipped'
         run: |

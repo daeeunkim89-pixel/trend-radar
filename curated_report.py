@@ -13,7 +13,8 @@ from urllib.parse import urlsplit
 
 from editorial import (HISTORY_FILE, atomic_json, canonical_url,
                        link, load_history, message_units, observe, render_info, stamp)
-from report_timing import hourly_key, prepared_target, recovery_target, require_report_slot, wait_for_target
+from report_timing import (PREPARATION_SECONDS, hourly_key, prepared_target, recovery_target,
+                           require_report_slot, wait_for_target)
 from telegram_editor import (DeliveryUncertain, PrivateState, TelegramClient, TelegramError,
                              deliver_report, story_content_keys, unreported_stories)
 
@@ -77,7 +78,7 @@ def load_edition(path, target, now=None, expected_sha256=None):
             or edition["hour_utc"] != hourly_key(target).removeprefix("hourly-")):
         raise ValueError("Invalid or wrong-hour editorial edition")
     generated = timestamp(edition["generated_at"], now, "generated_at", 75 * 60)
-    if generated < target - 20 * 60:
+    if generated < target - PREPARATION_SECONDS:
         raise ValueError("Editorial edition was prepared too early")
     coverage = edition["coverage"]
     if not isinstance(coverage, dict) or set(coverage) != {"queries", "opened_urls", "unavailable"}:
@@ -262,23 +263,49 @@ def record_decision(stories, target, now, delivery, delivery_key=None):
         print("BTP EDITORIAL HISTORY WARNING: public decision archive could not be updated")
 
 
-def record_attempt(target, status, ready=0, excluded=0, user_requested=False):
+def previous_decision(delivery_key):
+    """Honor public confirmed/uncertain outcomes before opening another connection."""
+    try:
+        archive = json.loads(DECISIONS_FILE.read_text(encoding="utf-8"))
+        rows = archive.get("editions", [])
+        for row in reversed(rows):
+            key = row.get("delivery_key", "hourly-" + row.get("hour_utc", ""))
+            if key == delivery_key and row.get("delivery") in {"sent", "uncertain"}:
+                return row
+    except (OSError, ValueError, TypeError, AttributeError):
+        pass  # The encrypted production ledger is still checked before delivery.
+    return None
+
+
+def record_attempt(target, status, ready=0, excluded=0, user_requested=False, reason_code=""):
     """Public, credential-free outcome; never overwrite the last confirmed send."""
     atomic_json(ATTEMPT_FILE, {"version": 1, "updated_at": int(time.time()),
                              "hour_utc": hourly_key(target)[7:], "status": status,
                              "ready": ready, "required": REPORT_PICKS,
                              "missing": max(0, REPORT_PICKS - ready),
                              "duplicates_excluded": excluded,
+                             "reason_code": reason_code,
                              "trigger": "user_requested" if user_requested else "scheduled"})
 
 
 def main(recover_hour=None, prepared_hour=None, picks_file=PICKS_FILE, expected_sha256=None, preview=False,
          user_requested=False):
     now = int(time.time())
+    delivery_attempted = False
     try:
         target = prepared_target(prepared_hour, now) if prepared_hour else recovery_target(recover_hour, now)
         if not preview:
             require_report_slot(target, user_requested=user_requested)
+            delivery_key = "user-curated-" + expected_sha256 if user_requested and isinstance(expected_sha256, str) else hourly_key(target)
+            previous = previous_decision(delivery_key)
+            if previous:
+                ready = len(previous.get("picks", []))
+                status = ("delivery_uncertain" if previous["delivery"] == "uncertain"
+                          else "already_sent" if ready == REPORT_PICKS else "partial_delivery")
+                record_attempt(target, status, ready, user_requested=user_requested,
+                               reason_code="recorded_" + previous["delivery"])
+                print("BTP EDITORIAL RECORDED:", status)
+                return 0 if status == "already_sent" else 1
         edition = load_edition(picks_file, target, now, expected_sha256)
         if user_requested and (prepared_hour or not isinstance(expected_sha256, str)
                                or not re.fullmatch(r"[0-9a-f]{64}", expected_sha256)):
@@ -297,12 +324,19 @@ def main(recover_hour=None, prepared_hour=None, picks_file=PICKS_FILE, expected_
             record_attempt(target, "insufficient_new_material", len(stories), user_requested=user_requested)
             print(f"BTP EDITORIAL SHORTFALL: {len(stories)}/{REPORT_PICKS}; no message sent")
             return 2
+        # Do not hold a verified HTTP connection idle throughout the preparation wait.
+        if not wait_for_target(target):
+            record_attempt(target, "missed_window", len(stories), user_requested=user_requested)
+            print("BTP EDITORIAL EXPIRED: no past-hour report sent")
+            return 2
+        load_edition(picks_file, target, int(time.time()), expected_sha256)
         token, chat = os.environ.get("TELEGRAM_BOT_TOKEN"), os.environ.get("TELEGRAM_CHAT_ID")
         client = TelegramClient(token, chat)
         client.verify()
         private = PrivateState(token, chat)
         previous = private.data.get("reports", {}).get(delivery_key, {})
         if previous.get("done") or previous.get("message_ids"):
+            record_attempt(target, "already_sent", REPORT_PICKS, user_requested=user_requested)
             print("BTP EDITORIAL ALREADY_SENT: requested delivery ledger is complete")
             return 0
         if previous.get("uncertain"):
@@ -320,13 +354,12 @@ def main(recover_hour=None, prepared_hour=None, picks_file=PICKS_FILE, expected_
             print(f"BTP EDITORIAL SHORTFALL: {len(stories)}/{REPORT_PICKS} after duplicate filter; no message sent")
             return 2
         parts = render_edition(stories, target, edition["empty_reason"], excluded)
-        atomic_json(HISTORY_FILE, history)
-        if not wait_for_target(target):
-            print("BTP EDITORIAL EXPIRED: no past-hour report sent")
-            return 2
-        # The wait must not turn a 75-minute review into an expired delivery.
+        # Verification/retries can consume time too; never deliver an expired review/hour.
+        recovery_target(hourly_key(target)[7:], int(time.time()))
         load_edition(picks_file, target, int(time.time()), expected_sha256)
+        atomic_json(HISTORY_FILE, history)
         # A pre-hour edition uses the same hourly key and content ledger as recovery.
+        delivery_attempted = True
         sent = deliver_report(client, parts, private, delivery_key, int(time.time()),
                               numbers={str(i): s["id"] for i, s in enumerate(stories, 1)},
                               content_keys={k for s in stories for k in story_content_keys(s)})
@@ -348,8 +381,13 @@ def main(recover_hour=None, prepared_hour=None, picks_file=PICKS_FILE, expected_
         return 0
     except (ValueError, OSError, TypeError, TelegramError) as error:
         # Do not erase a previously confirmed sent state on parse/transport failure.
-        if isinstance(error, DeliveryUncertain) and "stories" in locals():
+        if isinstance(error, DeliveryUncertain) and delivery_attempted:
             record_decision(stories, target, int(time.time()), "uncertain", locals().get("delivery_key"))
+        if not preview and "target" in locals():
+            status = "delivery_uncertain" if isinstance(error, DeliveryUncertain) else "delivery_failed"
+            ready = min(REPORT_PICKS, len(locals().get("stories", [])))
+            record_attempt(target, status, ready, user_requested=user_requested,
+                           reason_code=getattr(error, "code", type(error).__name__))
         print("BTP EDITORIAL DELIVERY_UNCERTAIN:" if isinstance(error, DeliveryUncertain) else "BTP EDITORIAL FAILED:", str(error))
         return 1
 
