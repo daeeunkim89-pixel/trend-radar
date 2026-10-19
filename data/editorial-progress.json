@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "event_key": "asian-games-football-playing-time-disclosure-20261019",
+      "url": "https://news.nate.com/view/20261019n03580",
+      "title": "아시안게임 금메달 선수별 출전 시간 공개",
+      "category": "축구",
+      "status": "needs_facts",
+      "note": "이전 미발송 조사 메모 복원: 23명 중 7명 1시간 미만, 골키퍼 2명 0분·박승수 17분 보도. 이번 복구 작업에서는 본문을 다시 검증하지 않았으므로 완성본으로 세지 않음.",
+      "next_action": "본문과 시행령을 다시 읽고 제도 변경 제안과 현행 기준을 구별; 불법 특혜·완전 면제라고 쓰지 않기",
+      "recorded_at": 1792378748
+    },
+    {
+      "event_key": "mega-coffee-franchisees-617-eok-claim-disclosure-20261019",
+      "url": "https://news.nate.com/view/20261019n00747",
+      "title": "메가커피 점주 290명 청구액 617억원 보도",
+      "category": "시사",
+      "status": "needs_facts",
+      "note": "이전 미발송 조사 메모 복원: 10월 6일 청구 변경을 19일 보도한 사건. 617억원은 청구액이며 반환 확정 판결이 아님. 이번 복구 작업은 본문 재검증이 아님.",
+      "next_action": "19일 원문과 본사 반론 재확인 후 청구·판결 구별을 첫 카드에 반영",
+      "recorded_at": 1792378748
+    },
+    {
+      "event_key": "seo-ryeo-kyung-wiba-title-tko-20261017",
+      "url": "https://news.nate.com/view/20261019n00837",
+      "title": "소아과 의사 서려경 17일 WIBA 타이틀 TKO",
+      "category": "메이저 스포츠",
+      "status": "needs_facts",
+      "note": "이전 미발송 조사 메모 복원: 소아과 의사와 링 위의 대비, 17일 경기·19일 보도. WIBA는 WBA/WBC/IBF/WBO 4대 기구와 다름. 과거 확인 사진·검증 시각을 복원할 수 없어 재확인 필요.",
+      "next_action": "원문·경기 날짜·실제 사진을 다시 확인하고 WIBA 타이틀이라고 정확히 표기",
+      "recorded_at": 1792378748
+    },
+    {
+      "event_key": "zhang-jiaqi-bank-card-mother-interview-20260923",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34132085",
+      "title": "장자치 통장 관리 인터뷰 재유통",
+      "category": "메이저 스포츠",
+      "status": "rejected",
+      "note": "이전 조사에서 독립 중국 원문 날짜가 9월 23일로 확인됨. 10월 19일 재보도를 새 사건으로 포장하지 않기.",
+      "next_action": "편집 가치를 바꾸는 새로운 사실이 없는 한 재추천하지 않기",
+      "recorded_at": 1792378748
+    },
+    {
+      "event_key": "triple-s-jiyeon-bullpen-clip-discovery-20261019",
+      "url": "https://mlbpark.donga.com/mp/b.php?b=bullpen&id=202610190119528304&m=view",
+      "title": "트리플에스 지연 커뮤니티 영상 발견",
+      "category": "아이돌",
+      "status": "needs_visual",
+      "note": "이전 조사에서 MP4 경로는 HTML/403이었고 원래 촬영일·핵심 장면은 확인하지 못함. 19일 커뮤니티 게시일을 사건일로 바꾸지 않기.",
+      "next_action": "실패한 MP4 경로는 반복하지 말고 접근 가능한 공식 원본과 실제 장면·사건 날짜 확인",
+      "recorded_at": 1792378748
+    }
+  ],
+  "attempts": [
+    {
+      "hour_utc": "2026101902",
+      "at": 1792378748,
+      "status": "research_incomplete",
+      "required": 10,
+      "ready": 0,
+      "missing": 10,
+      "unfinished": 4
+    }
+  ],
+  "updated_at": 1792378748
+}

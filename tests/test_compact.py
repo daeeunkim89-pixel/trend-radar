@@ -83,11 +83,14 @@ class CompactReportTests(unittest.TestCase):
         self.assertIn("python monitor.py --preview", preview)
         self.assertNotIn("push:", connection)
         self.assertNotIn("'sendMessage'", connection)
-        self.assertIn('cron: "30 1,4,7,10,13,22 * * *"', scheduled)
+        self.assertIn('cron: "7,37 0-14,22,23 * * *"', scheduled)
         self.assertIn("python -u candidate_snapshot.py", scheduled)
         self.assertNotIn("TELEGRAM_BOT_TOKEN", scheduled)
         self.assertNotIn("--scheduled-report", scheduled)
-        self.assertNotIn("workflow_dispatch:", scheduled)
+        self.assertIn("workflow_dispatch:", scheduled)
+        self.assertIn("group: trend-radar-discovery", scheduled)
+        self.assertNotIn("data/history.json", scheduled)
+        self.assertNotIn("data/editor.enc", scheduled)
 
 
 class ScheduledReportTests(unittest.TestCase):
@@ -194,4 +197,5 @@ class NumberCommandTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
 
