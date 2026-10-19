@@ -3360,7 +3360,16 @@
       "ready": 10,
       "missing": 0,
       "unfinished": 2
+    },
+    {
+      "hour_utc": "2026102002",
+      "at": 1792452297,
+      "status": "researching",
+      "required": 10,
+      "ready": 0,
+      "missing": 10,
+      "unfinished": 2
     }
   ],
-  "updated_at": 1792449564
+  "updated_at": 1792452297
 }
