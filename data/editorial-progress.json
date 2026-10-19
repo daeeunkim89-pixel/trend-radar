@@ -989,130 +989,6 @@
       }
     },
     {
-      "event_key": "weather-observation-177-failed-devices-audit-disclosure-20261019",
-      "url": "https://www.yna.co.kr/view/AKR20261019008400001",
-      "title": "불합격인데 계속 관측…기상장비 177대 재검정 없이 사용",
-      "category": "시사",
-      "status": "reviewed",
-      "recorded_at": 1792388100,
-      "pick": {
-        "title": "불합격인데 계속 관측…기상장비 177대 재검정 없이 사용",
-        "category": "시사",
-        "url": "https://www.yna.co.kr/view/AKR20261019008400001",
-        "source": "연합뉴스·감사원 감사 결과",
-        "kind": "article",
-        "event_key": "weather-observation-177-failed-devices-audit-disclosure-20261019",
-        "why": "매일 예보를 보고 출근·외출을 결정하는 사람에게, 예보에 들어갈 관측값부터 검증이 비어 있었다는 구체적 문제를 보여준다.",
-        "angle": "첫 장은 불합격 177대와 재검정 없이 사용이라는 사실을 붙이고, 다음 장에서 관리기관과 감사 범위를 설명한다.",
-        "why_now": "19일 공개된 기상청 정기감사 결과로, 지난해 점검한 장비 관리 실태가 새로 확인됐다.",
-        "verified_at": 1792387843,
-        "published_at": 1792378800,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261019008400001",
-            "note": "전체 2만1,533대 중 7,402대 주요 정보가 누락됐고 불합격 177대가 재검정 없이 운영됐다. 감사원은 부정확한 관측자료 활용에 따른 예보 신뢰 저하를 우려했다."
-          },
-          {
-            "url": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03158646645614560",
-            "note": "감사는 지난해 10~11월 실시, 10월 1일 의결, 19일 발표다. 유관기관 장비에 대한 기상청 관리·감독 문제를 구분해 보도했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261019008400001",
-            "label": "감사 결과 보도",
-            "kind": "source"
-          }
-        ],
-        "caution": "최근 오보가 모두 이 장비 탓이라고 입증된 것은 아니다. 불합격 177대와 유효기간 만료 장비를 더해 중복 없는 총수처럼 쓰지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-19",
-          "observation": "예보의 입력이 되는 전국 관측장비에서 불합격 뒤 재검정 없는 운영과 관리정보 누락이 확인돼, 일상 예보의 자료 신뢰성을 점검할 구체적인 감사 결과가 공개됐다.",
-          "checked_materials": [],
-          "outline": [
-            "불합격 177대가 계속 쓰인 사실",
-            "232개 관측기관 장비 2만1,533대 중 정보 누락 7,402대",
-            "기상청에 관리·감독 개선 요구, 개별 오보 원인과는 구분"
-          ]
-        }
-      },
-      "coverage": {
-        "queries": [
-          "football October 19 2026 surprise incident Premier League Korea",
-          "한국 카카오 쿠팡 단독 발표 뉴스",
-          "NBA MLB October 19 2026 unexpected news",
-          "\"이임생\" \"국감\" \"불참\" \"19일\"",
-          "\"두산\" \"김태룡\" \"정재\" \"19일\"",
-          "\"이승우\" \"발리\" \"제주\"",
-          "\"두산\" \"김태룡\" \"단장\"",
-          "\"JMS\" \"33년\" \"19일\"",
-          "\"루이\" \"후이\" \"검역\"",
-          "\"K/DA\" \"FIRESTARTER\"",
-          "\"후이바오\" \"13일\"",
-          "\"이임생\" \"훈련\" \"21일\"",
-          "\"일류첸코\" \"아직도\" \"18일\"",
-          "\"870km\" \"수술\" \"19일\"",
-          "\"루이바오\" \"검역\" \"에버랜드\"",
-          "\"강석호\" \"상하이\" \"수술\"",
-          "\"수원팬\" \"일류첸코\" \"콜\"",
-          "\"이해인\" \"트리플 악셀\" \"인스타그램\"",
-          "\"대통령\" \"전용기\" \"연쇄 지연\"",
-          "\"NFL\" \"October 18, 2026\" \"record\"",
-          "\"제주공항\" \"전용기\" \"국토교통부\"",
-          "\"아이찡\" \"임금\" \"판결\"",
-          "여자아이돌 \"2026.10.19\" 화제 장면",
-          "site:theqoo.net/square \"2026.10.19\" 축구",
-          "\"October 19, 2026\" football record announcement",
-          "\"2026.10.19\" \"카카오\" \"발표\"",
-          "\"취업사기 당한 오해원\"",
-          "\"무대에서 빗방울조차\"",
-          "\"2026.10.19\" \"손흥민\" \"팬\"",
-          "\"2026.10.19\" \"여자\" \"아이돌\" \"직접\"",
-          "\"뉴진스\" \"19일\" \"2026\"",
-          "\"프로야구\" \"19일\" \"부상\"",
-          "\"기상청\" \"177대\" \"감사원\"",
-          "\"이승우\" \"발리\" \"2026\" \"제주\" \"영상\"",
-          "이승우 티아고 제주 2026 10 18 발리 어시스트 영상",
-          "카리나 안유진 장원영 2026 10 19 화제 장면",
-          "site:youtube.com \"전북\" \"제주\" \"2026\" \"32R\"",
-          "site:youtube.com \"이승우\" \"발리\" \"티아고\"",
-          "Genesis Magma Racing Barcelona first pole October 2026",
-          "site:bai.go.kr 기상청 정기감사 2026 10 19"
-        ],
-        "opened_urls": [
-          "https://www.yna.co.kr/view/AKR20261019085552063",
-          "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008803267&plink=PLUS",
-          "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02945446645614560",
-          "https://www.yna.co.kr/view/AKR20261019076000007",
-          "https://www.inven.co.kr/webzine/news/?news=322270",
-          "https://news.samsungcnt.com/ko/%EC%A0%84%EC%B2%B4%EA%B8%B0%EC%82%AC/%EB%A6%AC%EC%A1%B0%ED%8A%B8%EB%B6%80%EB%AC%B8/2026-10-%EC%97%90%EB%B2%84%EB%9E%9C%EB%93%9C-%EC%8C%8D%EB%91%A5%EC%9D%B4-%ED%8C%90%EB%8B%A4-11%EC%9B%94-13%EC%9D%BC%EB%B6%80%ED%84%B0-%EC%A4%91%EA%B5%AD-%EC%9D%B4%EB%8F%99-%EC%A0%84-%EA%B2%80%EC%97%AD/",
-          "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008803920&plink=TOPLINE",
-          "https://www.bosa.co.kr/news/articleView.html?idxno=3014156",
-          "https://cdn.bosa.co.kr/news/photo/202610/3014156_415088_1123.jpg",
-          "https://www.yna.co.kr/view/AKR20261019008400001",
-          "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03158646645614560",
-          "https://newsroom.genesis.com/genesis-magma-racing-celebrates-incredible-qualifying-performance-while-continuing-to-learn-in-the-race/",
-          "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014040",
-          "https://theqoo.net/square/4379446267",
-          "https://img-cdn.theqoo.net/nYQzOu.webp",
-          "https://www.youtube.com/shorts/quUyYljXkYo",
-          "https://www.instagram.com/bythepulse/",
-          "https://theqoo.net/square/4380271950",
-          "https://www.spotvnews.co.kr/news/articleView.html?idxno=1013935",
-          "https://www.kleague.com/video_view.do?seq=52762051&category=goal&listType=tile&searchWord=&orderType=&page=1&leagueId=&club=K05",
-          "https://www.youtube.com/watch?v=4ORHRvjllNo"
-        ],
-        "unavailable": [
-          "앞선 실행의 Instagram 및 자료 다운로드·GitHub 진행 저장은 자동 승인 검토 Selected model is at capacity로 미실행. 지금 프로필 공개 그리드는 확인함.",
-          "인스티즈 후보 두 글은 검색 도구에서 non-retryable error로 본문 미확인.",
-          "이승우 도움 공식 영상은 페이지·게시일만 읽었고 재생이 0초에 머물러 핵심 장면 미확인: 추천 제외.",
-          "FIA WEC 첫 폴 기사 직접 열기는 404; 팀 공식 발표와 국내 취재 보도로 교차 확인.",
-          "원격수술 사진은 검색 도구 타임아웃 뒤 공개 원본을 내려받아 실제 시각 확인함."
-        ]
-      }
-    },
-    {
       "event_key": "genesis-magma-first-wec-pole-barcelona-race-result-20261018",
       "url": "https://newsroom.genesis.com/genesis-magma-racing-celebrates-incredible-qualifying-performance-while-continuing-to-learn-in-the-race/",
       "title": "제네시스, 데뷔 첫해 WEC 첫 폴…예선 1·3위인데 본선은 무득점",
@@ -3286,6 +3162,334 @@
           "스타뉴스·국민일보·서울신문 일부 웹 열기 실패 후 공개 브라우저에서 본문·날짜를 확인했다."
         ]
       }
+    },
+    {
+      "event_key": "weather-observation-177-failed-devices-audit-disclosure-20261019",
+      "url": "https://www.yna.co.kr/view/AKR20261019008400001",
+      "title": "불합격 기상관측장비 177대 감사 결과",
+      "category": "시사",
+      "status": "rejected",
+      "note": "19일 감사 결과 본문을 다시 확인했으나 공개 sent 이력 2026101905와 같은 사건이다. 새 사이트·재수집으로 신규 처리하지 않는다.",
+      "next_action": "중대한 별도 후속 사실이 없으면 동일 event_key로 계속 제외.",
+      "recorded_at": 1792452781
+    },
+    {
+      "event_key": "brentford-rooftop-projectile-police-referral-20261019",
+      "url": "https://www.brentfordfc.com/en/news/club-news-statement-brentford-v-liverpool-premier-league-17-10-2026",
+      "title": "옥상에서 경기장으로 날아든 럭비공…브렌트퍼드 경찰 수사 협조",
+      "category": "축구",
+      "status": "needs_visual",
+      "note": "17일 사건·19일 구단 공식 성명과 Reuters 사실은 확인. Reddit 영상은 network security 차단으로 핵심 발차기·공의 도착 장면을 못 봤다. 경기장 지붕 접촉과 관중·피치 도착을 구분해야 한다.",
+      "next_action": "Reddit은 재시도하지 말고 구단·경찰 또는 독립 공개 원본의 발차기→공 도착 연속 화면을 확인. 부상·체포는 확인 전 추가 금지.",
+      "recorded_at": 1792452781
+    },
+    {
+      "event_key": "kim-do-yeong-red-dress-code-stadium-response-20261018",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008805006",
+      "title": "김도영 드레스코드 요청 뒤 붉어진 챔피언스필드",
+      "category": "메이저 스포츠",
+      "status": "needs_visual",
+      "note": "19일 21:08 본문에서 18일 준PO2 관중석 반응과 요청 발언을 읽었다. SBS 영상은 해외 재생 제한이며 썸네일만 보았다. 8시 발송에는 포함하지 않았다.",
+      "next_action": "SBS 지역 제한은 우회하지 말고 KIA 자체 공개 사진·공식 채널 등 독립 자료에서 요청과 실제 관중석 대비 확인. 19일 보도를 19일 경기로 오기하지 않기.",
+      "recorded_at": 1792452781
+    },
+    {
+      "event_key": "musk-spacex-every-us-child-share-pledge-20261019",
+      "url": "https://www.theverge.com/tech/1013667/elon-musk-space-x-shares-us-children",
+      "title": "머스크 미국 모든 어린이에 스페이스X 1주 약속",
+      "category": "시사",
+      "status": "needs_facts",
+      "note": "한국경제·The Verge 본문에서 19일 X 선언과 내년 약속을 확인했다. 배분 방식·대상 기준은 아직 불명확하며 실제 기부 완료가 아니다. 원본 X는 아직 미열람.",
+      "next_action": "원본 X 공개 글이나 SpaceX 공식 발표를 확보해 문구·날짜·조건 확인. 금액 환산·전원 수령 완료·기부 집행 확정으로 쓰지 않기.",
+      "recorded_at": 1792452781
+    },
+    {
+      "event_key": "nhis-income-settlement-expansion-audit-plan-20261020",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1728402",
+      "title": "건보 소득정산 확대와 추가 납부 추산",
+      "category": "시사",
+      "status": "needs_facts",
+      "note": "20일 본문은 제도 확대 '추진'과 분석상 추산을 설명한다. 394만·232만·390만 합계와 분석 대상 908만 표기가 혼재해 원표 확인이 필요하다. 시행 확정·고지서 발송으로 쓸 수 없다.",
+      "next_action": "국민건강보험공단 국감 '주요 업무추진 현황' 원표에서 세대·인원 단위와 대상 범위 및 시행 확정 여부 확인.",
+      "recorded_at": 1792452781
+    },
+    {
+      "event_key": "crime-scene-zero-s2-returning-cast-20261020",
+      "url": "https://sports.donga.com/ent/article/all/20261020/134871682/1",
+      "title": "크라임씬 제로 시즌2 기존 5인 복귀·2027년 공개",
+      "category": "아이돌",
+      "status": "rejected",
+      "note": "20일 08:14 본문에서 기존 멤버 복귀와 2027년 공개는 확인. 새 시즌의 구체적 장면이나 큰 변화가 없어 이번 BTP 기준에서는 단순 라인업 공지로 제외한다.",
+      "next_action": "기존 멤버라는 이름만으로 다시 올리지 말고 대중적으로 읽히는 새 실제 장면·변화가 나온 경우 별도 판단.",
+      "recorded_at": 1792452781
+    },
+    {
+      "event_key": "rescene-woni-cultwo-ai-listener-response-20261019",
+      "url": "https://news.nate.com/view/20261019n29705",
+      "title": "리센느 원이 컬투쇼 전화 연결 AI 농담",
+      "category": "아이돌",
+      "status": "rejected",
+      "note": "19일 방송·17:03 기사 본문을 실제 읽었다. AI 의심 청취자에 '오이시' 응답과 MAMA 소감이 중심이며 팬 밖에서도 읽히는 충분한 반전·결과가 약하다.",
+      "next_action": "같은 일반 방송 소감을 반복하지 말고 실제 요청→수정·행동→결과가 분명한 별도 장면을 우선.",
+      "recorded_at": 1792452781
+    },
+    {
+      "event_key": "nationwide-procurement-power-strip-pricing-audit-20261015",
+      "url": "https://www.jodaleconomy.com/news/articleView.html?idxno=3400",
+      "title": "나라장터 19만8천원 멀티탭 가격 지적",
+      "category": "시사",
+      "status": "needs_facts",
+      "note": "확인한 본문은 15일 국감·8일 보도와 동일 물건 가격 비교다. 현재 19일 커뮤니티 재유통만으로 새 사건으로 볼 수 없다. 여러 표기의 수량과 시중가 기준도 차이 난다.",
+      "next_action": "20일 새 제도 개선·공식 조치가 있는지 또는 실제 최근 신규 공개 표가 있는지 확인. 없으면 옛 사건 재포장으로 제외.",
+      "recorded_at": 1792452781
+    },
+    {
+      "event_key": "alcs-game6-rays-guardians-world-series-berth-20261019",
+      "url": "https://www.mlb.com/news/2026-mlb-playoff-and-world-series-schedule",
+      "title": "ALCS 6차전 월드시리즈 진출 확정 여부",
+      "category": "메이저 스포츠",
+      "status": "needs_facts",
+      "note": "MLB 공식 일정에서 19일 미국 동부 20시, 한국 20일 09시 시작을 확인했다. 현재 경기 전이며 진출 확정·최종 점수는 아직 사실이 아니다.",
+      "next_action": "다음 09시대 검토에서 MLB 공식 경기 결과로 새 진출 확정이나 결정적 장면을 확인. 단순 중간 점수는 추천하지 않기.",
+      "recorded_at": 1792452781
+    },
+    {
+      "event_key": "dayoung-divorce-joke-apology-seo-jang-hoon-dating-war-20261019",
+      "url": "https://www.newsen.com/news_view.php?code=100100&uid=202610192312125710",
+      "title": "'이혼만 4번' 농담 뒤 바로 사과한 다영…서장훈이 한 말",
+      "category": "아이돌",
+      "status": "reviewed",
+      "recorded_at": 1792452781,
+      "pick": {
+        "title": "'이혼만 4번' 농담 뒤 바로 사과한 다영…서장훈이 한 말",
+        "category": "아이돌",
+        "url": "https://www.newsen.com/news_view.php?code=100100&uid=202610192312125710",
+        "source": "뉴스엔·뉴시스",
+        "kind": "article",
+        "event_key": "dayoung-divorce-joke-apology-seo-jang-hoon-dating-war-20261019",
+        "why": "연애 때 결혼 약속을 해본 친구에게, 다영의 과장 농담→서장훈 앞 즉시 사과→당사자 답변의 순서로 보낼 장면이다.",
+        "angle": "첫 장은 '(그렇게 따지면) 이혼만 4번' 자막과 '죄송해요' 사진을 나란히 놓고, 다음 장에 서장훈의 실제 답변을 붙인다.",
+        "why_now": "19일 방송의 대화가 20일 새벽 기사와 방송 캡처로 공개됐다. 다영의 실제 이혼 고백이 아니라 연애 중 결혼 약속을 빗댄 농담이다.",
+        "verified_at": 1792452533,
+        "published_at": 1792443203,
+        "evidence": [
+          {
+            "url": "https://www.newsen.com/news_view.php?code=100100&uid=202610192312125710",
+            "note": "19일 방송에서 다영이 연애 중 결혼 이야기를 이혼에 빗댄 뒤 사과했고, 서장훈은 사과하면 자신이 더 이상해진다는 취지로 답했다고 확인했다."
+          },
+          {
+            "url": "https://www.newsis.com/view/NISX20261020_0003832477",
+            "note": "농담의 전후 맥락과 이효리의 제지·서장훈 답변을 교차 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://photo.newsen.com/news_photo/2026/10/19/202610192312125710_1.jpg",
+            "label": "농담의 전제까지 보이는 자막",
+            "kind": "image"
+          },
+          {
+            "url": "https://photo.newsen.com/news_photo/2026/10/19/202610192312125710_2.jpg",
+            "label": "곧바로 사과한 다영",
+            "kind": "image"
+          }
+        ],
+        "caution": "실제 4회 이혼이나 서장훈을 비난한 사건으로 쓰지 않는다. 농담의 전제·당사자 답변을 보존하며 영상 시청으로 표시하지 않는다.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-19",
+          "observation": "첫 사진에는 '(그렇게 따지면) 저 벌써 이혼만 4번 했어요', 다음 사진에는 옆을 보는 다영과 '죄송해요…' 자막이 실제 보인다.",
+          "checked_materials": [
+            "https://photo.newsen.com/news_photo/2026/10/19/202610192312125710_1.jpg",
+            "https://photo.newsen.com/news_photo/2026/10/19/202610192312125710_2.jpg"
+          ],
+          "outline": [
+            "농담의 '(그렇게 따지면)' 전제와 곧바로 한 사과를 사진 2장으로 대조",
+            "연애 중 결혼 약속에 관한 대화였다는 맥락을 짧게 설명",
+            "서장훈의 '죄송해하면 내가 더 이상하다'는 보도상 답변으로 회수"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "site:theqoo.net/hot 여자아이돌 2026 10 20",
+          "site:fmkorea.com 축구 2026 10 20",
+          "site:instiz.net 여자아이돌 자막 10월 20일",
+          "Premier League October 19 2026 red card VAR controversy injury official",
+          "MLB ALCS NLCS October 19 2026 world series",
+          "한국 2026년 10월 20일 단독 소비자 카카오 네이버",
+          "site:dogdrip.net 2026 10 20 아이돌",
+          "bythepulse 인스타그램 10월20일",
+          "리센느 원이 컬투쇼 AI 아니냐 2026 10 19",
+          "리센느 미나미 서예 선생님 팬미팅 한국 친정집",
+          "기상청 불합격 판정 운영 방치 2026 10 20",
+          "20만원 멀티탭 나라돈 2026 국정감사",
+          "\"리센느\" \"컬투쇼\" \"AI\" \"2026\"",
+          "\"건보\" \"394만\" \"정산\"",
+          "\"브렌트퍼드\" \"럭비공\" \"2026\"",
+          "\"멀티탭\" \"20만원\" \"국감\"",
+          "다영 \"이혼만 4번\" 이효리 서장훈 10월 19일",
+          "Brentford rugby ball rooftop police October 19 2026 official statement",
+          "김도영 붉은 물결 챔피언스필드 2026 10 20",
+          "김도영 \"드레스코드\" \"18일\" 2026 빨간",
+          "site:brentfordfc.com rugby ball October 19 2026",
+          "기상청 감사원 \"177대\" \"2026\"",
+          "\"크라임씬 제로\" \"시즌2\" \"2026\" \"확정\"",
+          "\"머스크\" \"어린이\" \"스페이스X\" \"2026\" \"기부\"",
+          "\"김도영\" \"붉은 물결\" \"2026\" \"18일\"",
+          "site:about.netflix.com/ko \"크라임씬\" \"2026\" \"2\"",
+          "site:x.com/elonmusk \"every child\" \"SpaceX\" \"2026\"",
+          "site:brentfordfc.com \"item\" \"height\" \"Liverpool\"",
+          "Elon Musk SpaceX share every American child October 19 2026 CNBC",
+          "기상청 기관정기감사 2026 10 19 site:bai.go.kr",
+          "김도영 드레스코드 붉은물결 사진 2026 준플레이오프",
+          "이강철 \"3년 34억\" \"2026\" KT 공식",
+          "\"2026.10.20\" \"은퇴\" \"공식\" 축구",
+          "\"2026.10.20\" \"여자아이돌\" \"말실수\""
+        ],
+        "opened_urls": [
+          "https://www.newsen.com/news_view.php?code=100100&uid=202610192312125710",
+          "https://photo.newsen.com/news_photo/2026/10/19/202610192312125710_1.jpg",
+          "https://photo.newsen.com/news_photo/2026/10/19/202610192312125710_2.jpg",
+          "https://www.newsis.com/view/NISX20261020_0003832477",
+          "https://imnews.imbc.com/news/2026/sports/article/6859004_36947.html",
+          "https://news.nate.com/view/20261019n29705",
+          "https://www.yna.co.kr/view/AKR20261019008400001",
+          "https://www.ebn.co.kr/news/articleView.html?idxno=1728402",
+          "https://www.jnilbo.com/news/articleView.html?idxno=90000074803",
+          "https://www.jodaleconomy.com/news/articleView.html?idxno=3400",
+          "https://www.reuters.com/sports/soccer/brentford-working-with-police-after-rugby-ball-launched-towards-stadium-2026-10-19/",
+          "https://www.brentfordfc.com/en/news/club-news-statement-brentford-v-liverpool-premier-league-17-10-2026",
+          "https://www.mlb.com/news/2026-mlb-playoff-and-world-series-schedule",
+          "https://news.sbs.co.kr/news/endPage.do?news_id=N1008805006",
+          "https://www.hankyung.com/article/202610191742i",
+          "https://sports.donga.com/ent/article/all/20261020/134871682/1",
+          "https://www.theverge.com/tech/1013667/elon-musk-space-x-shares-us-children",
+          "https://www.thesun.ie/sport/17789823/brentford-rugby-ball-liverpool-premier-league/"
+        ],
+        "unavailable": [
+          "Instagram 가입 안내로 전체 슬라이드·게시 시각·Insights 확인 불가. 기존과 같은 공개 post_id 12개만 관찰.",
+          "더쿠 세 후보 원문 열기 실패. 검색 색인을 실제 본문·장면 확인으로 세지 않음.",
+          "인스티즈 robots 제한. 펨코 보호 경로를 반복하지 않고 공개 간접 색인·독립 원본 사용.",
+          "SBS 김도영 보도 본문은 읽었으나 영상은 해외 재생 제한. 썸네일은 시청 증거 아님.",
+          "Reddit 브렌트퍼드 영상은 network security 차단. 실제 영상 미시청이며 차단 우회·재시도하지 않음.",
+          "CNBC Africa 기사 402 Payment Required. 실제 원문을 읽은 것으로 세지 않음.",
+          "talkSPORT 제한 URL 열기 실패. 브렌트퍼드 공식 성명·Reuters 본문으로 사실만 확인."
+        ]
+      }
+    },
+    {
+      "event_key": "lee-kang-chul-kt-record-manager-contract-3years-3point4billion-20261019",
+      "url": "https://imnews.imbc.com/news/2026/sports/article/6859004_36947.html",
+      "title": "선수 FA만 억대가 아니다…이강철, 감독 역대 최고 3년 34억",
+      "category": "메이저 스포츠",
+      "status": "reviewed",
+      "recorded_at": 1792452781,
+      "pick": {
+        "title": "선수 FA만 억대가 아니다…이강철, 감독 역대 최고 3년 34억",
+        "category": "메이저 스포츠",
+        "url": "https://imnews.imbc.com/news/2026/sports/article/6859004_36947.html",
+        "source": "MBC",
+        "kind": "article",
+        "event_key": "lee-kang-chul-kt-record-manager-contract-3years-3point4billion-20261019",
+        "why": "KBO 팬에게 선수 연봉뿐 아니라 감독 시장의 최고 보장액도 바뀌었다는 돈·우승 보상의 비교를 전할 소재다.",
+        "angle": "첫 장은 염경엽 3년 30억→이강철 3년 34억, 다음 장은 계약금 10억+연봉 8억×3년의 전액 보장 구조.",
+        "why_now": "19일 KT가 정규시즌 우승 감독의 새 계약을 발표했다. 일상 경기 결과가 아닌 KBO 감독 계약 최고액의 확정 변화다.",
+        "verified_at": 1792452699,
+        "published_at": 1792389480,
+        "evidence": [
+          {
+            "url": "https://imnews.imbc.com/news/2026/sports/article/6859004_36947.html",
+            "note": "KT 발표 인용으로 3년 총액 34억원 전액 보장, 계약금 10억원·연봉 8억원과 기존 염경엽 3년 30억원을 넘은 사실을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://imnews.imbc.com/news/2026/sports/article/6859004_36947.html",
+            "label": "계약 발표 인용 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "34억원은 3년 총액이며 연봉·우승 상금이 아니다. 선수 FA와 같은 계약 제도라고 표현하거나 장기 누적액을 임의 합산하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-19",
+          "observation": "KT는 3년 총액 34억원을 모두 보장하는 재계약을 발표했다. MBC는 종전 염경엽의 3년 30억원을 넘은 감독 역대 최고 대우라고 보도했다.",
+          "checked_materials": [],
+          "outline": [
+            "같은 3년 기준 30억과 34억을 비교한 사실 카드",
+            "계약금 10억+연봉 8억×3년=34억 구조 표시",
+            "정규시즌 우승 뒤 KT와 네 번째 계약이라는 배경만 덧붙이기"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "site:theqoo.net/hot 여자아이돌 2026 10 20",
+          "site:fmkorea.com 축구 2026 10 20",
+          "site:instiz.net 여자아이돌 자막 10월 20일",
+          "Premier League October 19 2026 red card VAR controversy injury official",
+          "MLB ALCS NLCS October 19 2026 world series",
+          "한국 2026년 10월 20일 단독 소비자 카카오 네이버",
+          "site:dogdrip.net 2026 10 20 아이돌",
+          "bythepulse 인스타그램 10월20일",
+          "리센느 원이 컬투쇼 AI 아니냐 2026 10 19",
+          "리센느 미나미 서예 선생님 팬미팅 한국 친정집",
+          "기상청 불합격 판정 운영 방치 2026 10 20",
+          "20만원 멀티탭 나라돈 2026 국정감사",
+          "\"리센느\" \"컬투쇼\" \"AI\" \"2026\"",
+          "\"건보\" \"394만\" \"정산\"",
+          "\"브렌트퍼드\" \"럭비공\" \"2026\"",
+          "\"멀티탭\" \"20만원\" \"국감\"",
+          "다영 \"이혼만 4번\" 이효리 서장훈 10월 19일",
+          "Brentford rugby ball rooftop police October 19 2026 official statement",
+          "김도영 붉은 물결 챔피언스필드 2026 10 20",
+          "김도영 \"드레스코드\" \"18일\" 2026 빨간",
+          "site:brentfordfc.com rugby ball October 19 2026",
+          "기상청 감사원 \"177대\" \"2026\"",
+          "\"크라임씬 제로\" \"시즌2\" \"2026\" \"확정\"",
+          "\"머스크\" \"어린이\" \"스페이스X\" \"2026\" \"기부\"",
+          "\"김도영\" \"붉은 물결\" \"2026\" \"18일\"",
+          "site:about.netflix.com/ko \"크라임씬\" \"2026\" \"2\"",
+          "site:x.com/elonmusk \"every child\" \"SpaceX\" \"2026\"",
+          "site:brentfordfc.com \"item\" \"height\" \"Liverpool\"",
+          "Elon Musk SpaceX share every American child October 19 2026 CNBC",
+          "기상청 기관정기감사 2026 10 19 site:bai.go.kr",
+          "김도영 드레스코드 붉은물결 사진 2026 준플레이오프",
+          "이강철 \"3년 34억\" \"2026\" KT 공식",
+          "\"2026.10.20\" \"은퇴\" \"공식\" 축구",
+          "\"2026.10.20\" \"여자아이돌\" \"말실수\""
+        ],
+        "opened_urls": [
+          "https://www.newsen.com/news_view.php?code=100100&uid=202610192312125710",
+          "https://photo.newsen.com/news_photo/2026/10/19/202610192312125710_1.jpg",
+          "https://photo.newsen.com/news_photo/2026/10/19/202610192312125710_2.jpg",
+          "https://www.newsis.com/view/NISX20261020_0003832477",
+          "https://imnews.imbc.com/news/2026/sports/article/6859004_36947.html",
+          "https://news.nate.com/view/20261019n29705",
+          "https://www.yna.co.kr/view/AKR20261019008400001",
+          "https://www.ebn.co.kr/news/articleView.html?idxno=1728402",
+          "https://www.jnilbo.com/news/articleView.html?idxno=90000074803",
+          "https://www.jodaleconomy.com/news/articleView.html?idxno=3400",
+          "https://www.reuters.com/sports/soccer/brentford-working-with-police-after-rugby-ball-launched-towards-stadium-2026-10-19/",
+          "https://www.brentfordfc.com/en/news/club-news-statement-brentford-v-liverpool-premier-league-17-10-2026",
+          "https://www.mlb.com/news/2026-mlb-playoff-and-world-series-schedule",
+          "https://news.sbs.co.kr/news/endPage.do?news_id=N1008805006",
+          "https://www.hankyung.com/article/202610191742i",
+          "https://sports.donga.com/ent/article/all/20261020/134871682/1",
+          "https://www.theverge.com/tech/1013667/elon-musk-space-x-shares-us-children",
+          "https://www.thesun.ie/sport/17789823/brentford-rugby-ball-liverpool-premier-league/"
+        ],
+        "unavailable": [
+          "Instagram 가입 안내로 전체 슬라이드·게시 시각·Insights 확인 불가. 기존과 같은 공개 post_id 12개만 관찰.",
+          "더쿠 세 후보 원문 열기 실패. 검색 색인을 실제 본문·장면 확인으로 세지 않음.",
+          "인스티즈 robots 제한. 펨코 보호 경로를 반복하지 않고 공개 간접 색인·독립 원본 사용.",
+          "SBS 김도영 보도 본문은 읽었으나 영상은 해외 재생 제한. 썸네일은 시청 증거 아님.",
+          "Reddit 브렌트퍼드 영상은 network security 차단. 실제 영상 미시청이며 차단 우회·재시도하지 않음.",
+          "CNBC Africa 기사 402 Payment Required. 실제 원문을 읽은 것으로 세지 않음.",
+          "talkSPORT 제한 URL 열기 실패. 브렌트퍼드 공식 성명·Reuters 본문으로 사실만 확인."
+        ]
+      }
     }
   ],
   "attempts": [
@@ -3363,13 +3567,13 @@
     },
     {
       "hour_utc": "2026102002",
-      "at": 1792452297,
+      "at": 1792452781,
       "status": "researching",
       "required": 10,
-      "ready": 0,
-      "missing": 10,
-      "unfinished": 2
+      "ready": 2,
+      "missing": 8,
+      "unfinished": 8
     }
   ],
-  "updated_at": 1792452297
+  "updated_at": 1792452781
 }
