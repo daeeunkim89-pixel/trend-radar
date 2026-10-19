@@ -1,5 +1,5 @@
 {
-  "updated_at": 1792413764,
+  "updated_at": 1792450801,
   "status": "ok",
   "errors": {},
   "report": {
@@ -11,66 +11,66 @@
     "ai": "chatgpt_web_research",
     "requested_stories": 10,
     "reviewed_edition_version": 2,
-    "trigger": "user_requested",
-    "hour_utc": "2026101912",
+    "trigger": "hourly",
+    "hour_utc": "2026101923",
     "category_counts": {
-      "시사": 6,
-      "축구": 2,
-      "메이저 스포츠": 2,
-      "아이돌": 0
+      "시사": 4,
+      "축구": 3,
+      "메이저 스포츠": 1,
+      "아이돌": 2
     },
-    "research_queries": 6,
-    "opened_sources": 16,
+    "research_queries": 28,
+    "opened_sources": 15,
     "picks": [
       {
-        "title": "출연자는 하네스, 바로 옆 직원은?…‘나혼산’ 번지 장면에 진정",
-        "url": "https://www.starnewskorea.com/broadcast-show/2026/10/19/2026101916061583363",
-        "event_key": "i-live-alone-bungee-worker-safety-complaint-20261019"
+        "title": "공구는 성공했는데 질문했다가 혼났다…전소미의 2000명 단톡방",
+        "url": "https://www.starnewskorea.com/star/2026/10/20/2026102000221374761",
+        "event_key": "jeon-somi-groupbuy-chat-notice-story-20261019"
       },
       {
-        "title": "서서 맞은 유효타 0…‘유짓수’가 9전 전승을 끝냈다",
-        "url": "https://kr.ufc.com/news/yujissuui-cheos-pinisi-seungli",
-        "event_key": "yoo-soo-young-kovanchek-first-ufc-finish-20261018"
+        "title": "돌아온 매디슨이 넣었다…토트넘, 첫 승리로 꼴찌 탈출",
+        "url": "https://www.beinsports.com/en-asia/football/premier-league/articles/tottenham-3-1-coventry-city-maddison-marmoush-and-davies-snap-winless-run-2026-10-19",
+        "event_key": "tottenham-coventry-first-win-maddison-kulusevski-return-20261019"
       },
       {
-        "title": "토트넘이 식탁에서 휴대폰을 치웠다…데제르비가 바꾼 규칙",
-        "url": "https://www.goal.com/en-us/lists/roberto-de-zerbi-tottenham-no-phone-policy/blt290e1782c2757533",
-        "event_key": "tottenham-de-zerbi-phones-removed-team-meals-20261018"
+        "title": "내가 쓴 쇼핑 후기가 팔린다…삭제해도 외부 서버엔 남을 수 있다",
+        "url": "https://www.kmib.co.kr/article/20261019502174",
+        "event_key": "shopping-review-ai-crawling-resale-test-20261019"
       },
       {
-        "title": "하이닉스 손자회사도 상장?…금감원장은 ‘중복상장’ 판단",
-        "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008804989&plink=TOPNEWS",
-        "event_key": "solidigm-listing-fss-overlap-assessment-20261019"
+        "title": "호날두 대표팀 이탈 징계 확정…30일 정지에 제재금 255유로",
+        "url": "https://www.afp.com/en/ronaldo-handed-30-day-suspension-after-walking-out-portugal",
+        "event_key": "ronaldo-portugal-walkout-fpf-30-day-sanction-20261019"
       },
       {
-        "title": "6천 원 렌즈가 40만 원…‘수입품’ 포장까지 바꿨다",
-        "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008804164&plink=INTEREST",
-        "event_key": "danyang-youth-myopia-lens-markup-repackaging-investigation-20261019"
+        "title": "헌트릭스가 한국 폐백 자리에서 모였다…이재, 결혼식 공개",
+        "url": "https://www.vogue.com/slideshow/ejae-and-samuel-kim-wedding",
+        "event_key": "ejae-samuel-kim-seoul-wedding-reveal-20261019"
       },
       {
-        "title": "월드컵 탈락 뒤 떠난 가투소…라치오에선 구단 최초 기록",
-        "url": "https://www.chosun.com/sports/world-football/2026/10/19/MNQWEZLGMUZDMYRVMZRDENZRMU/",
-        "event_key": "gattuso-lazio-first-seven-six-wins-juventus-away-20261019"
+        "title": "올림픽 3관왕도 32강·16강 탈락…한국 양궁의 국내 경쟁",
+        "url": "https://www.yna.co.kr/amp/view/AKR20261019144800007",
+        "event_key": "national-games-kim-woojin-lim-sihyeon-early-exits-20261019"
       },
       {
-        "title": "러닝 신청해놨다면 확인…서울 대회 두 곳이 취소됐다",
-        "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261019010006140",
-        "event_key": "sportsseoul-half-cookierun-seoul-cancellations-20261019"
+        "title": "AI 안경, 쓴 사람만 적발된 게 아니다…시립대 3년 응시 제한",
+        "url": "https://www.newspim.com/news/view/20261019001476",
+        "event_key": "uos-smart-glasses-two-cases-audit-disclosure-20261019"
       },
       {
-        "title": "120만 원 든 분실물 챙겼는데 두 번 구제…법원은 뒤집었다",
-        "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008803856&plink=INTEREST",
-        "event_key": "srt-lost-property-dismissal-labor-board-court-reversal-disclosure-20261019"
+        "title": "앱만 지우는 게 아니다…미 연방기관, 딥시크 기반 외부 서비스도 제거",
+        "url": "https://public-inspection.federalregister.gov/2026-21447.pdf",
+        "event_key": "deepseek-federal-civilian-third-party-removal-order-20261019"
       },
       {
-        "title": "문학동네 지분 매각 추진 중…대표도 이달 말 물러난다",
-        "url": "https://www.khan.co.kr/article/202610191505001",
-        "event_key": "munhakdongne-kim-so-young-resignation-announcement-20261019"
+        "title": "위험 경고했던 삼전·하이닉스 레버리지 ETF…금감원장 '심사 서둘렀다'",
+        "url": "https://www.seoul.co.kr/news/economy/2026/10/19/20261019500283",
+        "event_key": "fss-single-stock-leveraged-etf-review-expedition-admission-20261019"
       },
       {
-        "title": "18년 만의 실종신고…그 전에 감사원 전수조사가 있었다",
-        "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008804036&plink=INTEREST",
-        "event_key": "seongnam-disabled-child-abandonment-delayed-report-disclosure-20261019"
+        "title": "선수가 괴롭힘 문제 제기하자…전남 '분리·퇴단 조치'",
+        "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=696718",
+        "event_key": "jeonnam-player-bullying-separation-exit-confirmation-20261019"
       }
     ]
   }
