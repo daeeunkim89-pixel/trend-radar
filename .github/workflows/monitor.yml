@@ -2,14 +2,16 @@ name: Trend Radar
 
 on:
   schedule:
-    # Accumulate throughout 07:00-23:59 KST, including between editorial editions.
-    - cron: "7,37 0-14,22,23 * * *"
+    # Discovery every ten minutes during 07:00-23:59 KST, independent of reports.
+    - cron: "3,13,23,33,43,53 0-14,22,23 * * *"
   workflow_dispatch:
   push:
     branches: [main]
     paths:
       - "candidate_snapshot.py"
       - ".github/workflows/monitor.yml"
+      # Agent checkpoints also wake discovery when GitHub cron has been delayed.
+      - "data/editorial-progress.json"
 
 permissions:
   contents: write
@@ -36,7 +38,7 @@ jobs:
         run: pip install -r requirements.txt
       - name: Refresh public discovery inputs without Telegram
         id: collect
-        run: python -u candidate_snapshot.py
+        run: python -u candidate_snapshot.py --min-refresh-seconds 480
       - name: Save public discovery inputs
         if: always() && !cancelled() && steps.collect.outcome != 'skipped'
         run: |

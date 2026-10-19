@@ -8,6 +8,7 @@ from pathlib import Path
 
 from curated_report import CATEGORIES, load_edition, public_url, text
 from editorial import atomic_json, canonical_url
+from report_timing import KST, require_report_slot
 
 PROGRESS_FILE = Path("data/editorial-progress.json")
 RETENTION = 48 * 3600
@@ -17,6 +18,22 @@ NOTE_STATES = {"needs_facts", "needs_date", "needs_visual", "rejected"}
 
 def read_json(path, default):
     return json.loads(Path(path).read_text(encoding="utf-8")) if Path(path).exists() else default
+
+
+def load_research_review(path, target, now):
+    """Validate working picks now, even when the eventual report is hours away.
+
+    The working edition must use the actual current UTC hour. This does not
+    make a future delivery request valid or refresh any verification timestamp.
+    """
+    current = int(now) // 3600 * 3600
+    require_report_slot(target)
+    if not 7 <= datetime.fromtimestamp(now, KST).hour <= 23 or not 0 <= target - current <= 4 * 3600:
+        raise ValueError("Research checkpoint is outside the current daytime cycle")
+    edition = load_edition(path, current, now)
+    if edition["version"] != 2:
+        raise ValueError("New reviews require edition version 2")
+    return edition
 
 
 def delivery_identities(history, now):
@@ -109,13 +126,16 @@ def main():
     parser.add_argument("--hour")
     parser.add_argument("--notes", type=Path)
     parser.add_argument("--review", type=Path)
+    parser.add_argument("--research-only", action="store_true",
+                        help="Store current-hour working reviews for a later report without requesting delivery")
     parser.add_argument("--stage", choices=("researching", "research_incomplete", "review_complete", "submitted"))
     args = parser.parse_args()
     now = int(time.time())
     history = read_json("data/editorial-history.json", {"editions": []})
     if args.hour:
         target = int(datetime.strptime(args.hour + "+0000", "%Y%m%d%H%z").timestamp())
-        edition = load_edition(args.review, target, now) if args.review else None
+        edition = (load_research_review(args.review, target, now) if args.research_only
+                   else load_edition(args.review, target, now)) if args.review else None
         if edition and edition["version"] != 2:
             raise ValueError("New reviews require edition version 2")
         result = save_progress(PROGRESS_FILE, args.hour, now, history,

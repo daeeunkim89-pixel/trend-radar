@@ -1,4 +1,5 @@
 """Accumulate public discovery inputs between editions; never use Telegram."""
+import argparse
 import json
 import time
 from pathlib import Path
@@ -33,10 +34,19 @@ def merge_pool(previous, current, now):
     return sorted(rows.values(), key=lambda row: (-row["observed_at"], row.get("rank", 999)))[:POOL_LIMIT]
 
 
-def run():
+def run(min_refresh_seconds=0):
     # Separate history keeps collection independent of delivery's production lock.
-    history = load_history(DISCOVERY_HISTORY_FILE)
     previous = json.loads(SNAPSHOT_FILE.read_text(encoding="utf-8")) if SNAPSHOT_FILE.exists() else {}
+    now = int(time.time())
+    generated = previous.get("generated_at")
+    if (min_refresh_seconds > 0 and type(generated) is int
+            and 0 <= now - generated < min_refresh_seconds
+            and previous.get("fresh_count", 0) > 0
+            and previous.get("status") in {"ok", "degraded"}):
+        print("BTP DISCOVERY RECENT", json.dumps({"generated_at": generated,
+              "age_seconds": now - generated}, ensure_ascii=False))
+        return 0
+    history = load_history(DISCOVERY_HISTORY_FILE)
     data, errors = collect(history, include_fmkorea_direct=False)
     now = int(time.time())
     try:
@@ -74,6 +84,11 @@ def run():
 
 
 if __name__ == "__main__":
-    raise SystemExit(run())
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--min-refresh-seconds", type=int, default=0)
+    args = parser.parse_args()
+    if args.min_refresh_seconds < 0:
+        parser.error("Refresh interval cannot be negative")
+    raise SystemExit(run(args.min_refresh_seconds))
 
 
