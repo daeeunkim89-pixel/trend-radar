@@ -1,6 +1,372 @@
 {
   "version": 1,
   "items": {
+    "ca4202ca3e41": {
+      "source": "연합뉴스",
+      "title": "신입사원→아들→후계자…세라젬 창업주의 승계 선택",
+      "link": "https://www.yna.co.kr/view/AKR20261020068300030",
+      "first_seen_at": 1792486055,
+      "last_seen_at": 1792486055,
+      "samples": [
+        {
+          "at": 1792486055,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "ca4202ca3e41",
+      "editorial": {
+        "title": "신입사원→아들→후계자…세라젬 창업주의 승계 선택",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261020068300030",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "ceragem-employee-adoption-equity-succession-disclosure-20261020",
+        "why": "직장 동료에게 2003년 신입사원이 법적 가족이자 후계자가 된 실제 승계 경로를 보여줄 수 있다.",
+        "angle": "첫 장을 2003 입사→2025 입양→2026 지분 10% 증여의 세 칸으로 만든다.",
+        "why_now": "20일 회사가 가족 합의로 지난해 마친 입양과 올해 지분 증여를 확인해 공개했다. 오늘 입양한 사건으로 쓰지 않는다.",
+        "verified_at": 1792485779,
+        "published_at": 1792462020,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261020068300030",
+            "note": "회사 관계자 취재로 이경수 대표의 2003년 입사, 지난해 성인 입양, 올해 전체 발행주식 10% 증여가 확인됐다. 회사는 가업승계 세제 혜택을 받을 규모가 아니라고 설명했다."
+          }
+        ],
+        "materials": [],
+        "caution": "입양은 2025년이다. 친딸을 내쫓았다는 식의 동기나 탈세를 추정하지 않는다. 지분 전부의 이전이 아니다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-20",
+          "observation": "유명 의료가전 기업이 전문경영인을 창업주의 법적 자녀로 받아들여 소유권 승계를 시작한 경로를 회사가 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "2003년 신입 입사·2025년 입양·2026년 지분 증여의 타임라인",
+            "대표이사 선임과 법적 가족·소유권 승계가 다른 점",
+            "증여는 전체 주식의 10%이며 회사가 밝힌 장기 승계 계획"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [],
+        "excerpt": "",
+        "context": "20일 회사가 가족 합의로 지난해 마친 입양과 올해 지분 증여를 확인해 공개했다. 오늘 입양한 사건으로 쓰지 않는다.",
+        "fetched_at": 1792486055,
+        "parser_revision": 7
+      },
+      "curation_event_key": "ceragem-employee-adoption-equity-succession-disclosure-20261020"
+    },
+    "e54a91d47a62": {
+      "source": "국민일보",
+      "title": "개인정보 털렸는데 현금 대신 VIP…신한·하나의 보상안",
+      "link": "https://www.kmib.co.kr/article/20261020500834",
+      "first_seen_at": 1792486055,
+      "last_seen_at": 1792486055,
+      "samples": [
+        {
+          "at": 1792486055,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "e54a91d47a62",
+      "editorial": {
+        "title": "개인정보 털렸는데 현금 대신 VIP…신한·하나의 보상안",
+        "category": "시사",
+        "url": "https://www.kmib.co.kr/article/20261020500834",
+        "source": "국민일보",
+        "kind": "article",
+        "event_key": "shinhan-hana-breach-customer-vip-insurance-compensation-20261020",
+        "why": "같은 은행을 쓰는 가족에게 현금 보상·보험 보장·수수료 우대가 어떻게 다른지 보여줄 수 있다.",
+        "angle": "첫 장에서 현금 지급 없음과 VIP·보험 지원을 나누고, 두 은행의 대상을 비교한다.",
+        "why_now": "20일 14:29 단독 보도로 두 은행의 유출 고객 전원 대상 지원 방안이 공개됐다.",
+        "verified_at": 1792485550,
+        "published_at": 1792474140,
+        "evidence": [
+          {
+            "url": "https://www.kmib.co.kr/article/20261020500834",
+            "note": "신한 약 2만5000명, 하나 89명 전원에 우대 혜택을 준다. 신한은 은행 부담 보험으로 1인당 1년 1000만원 한도 보장을 제공하며 두 은행 모두 유출 자체에 직접 현금을 주지는 않는다."
+          }
+        ],
+        "materials": [],
+        "caution": "신한 보험의 1000만원은 현금 지급액이 아니다. 같은 보장 한도를 하나은행에도 적용해 쓰지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-20",
+          "observation": "대규모 고객 정보 유출 후 두 은행이 현금 지급 대신 우대 등급·보험 중심의 지원을 택했다. 피해 고객이 실제로 받는 혜택을 구분할 필요가 있다.",
+          "checked_materials": [],
+          "outline": [
+            "현금 지급 없음 / VIP·보험 지원의 차이를 보여주는 표지",
+            "신한 약 2만5000명과 하나 89명의 우대 항목 비교",
+            "신한 보험 1년·1000만원 한도와 실제 현금 보상의 차이"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [],
+        "excerpt": "",
+        "context": "20일 14:29 단독 보도로 두 은행의 유출 고객 전원 대상 지원 방안이 공개됐다.",
+        "fetched_at": 1792486055,
+        "parser_revision": 7
+      },
+      "curation_event_key": "shinhan-hana-breach-customer-vip-insurance-compensation-20261020"
+    },
+    "f77fc90dfe08": {
+      "source": "이투데이",
+      "title": "표 1015장에 제시액만 7억2800만원…가을야구 암표 31명 수사 의뢰",
+      "link": "https://www.etoday.co.kr/news/view/2637987?trc=right_categori_news",
+      "first_seen_at": 1792486055,
+      "last_seen_at": 1792486055,
+      "samples": [
+        {
+          "at": 1792486055,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "f77fc90dfe08",
+      "editorial": {
+        "title": "표 1015장에 제시액만 7억2800만원…가을야구 암표 31명 수사 의뢰",
+        "category": "메이저 스포츠",
+        "url": "https://www.etoday.co.kr/news/view/2637987?trc=right_categori_news",
+        "source": "이투데이",
+        "kind": "article",
+        "event_key": "kbo-postseason-ticket-scalping-31-referrals-20261020",
+        "why": "표를 못 구한 야구팬이 함께 직관 갈 친구에게 고액 판매의 규모와 경기 중 수사 전환을 보여줄 소재다.",
+        "angle": "첫 장에 입장권 1015장·제시액 7억2800만원을 놓고 실제 거래액과 구별한다.",
+        "why_now": "20일 문체부가 31명을 경찰에 수사 의뢰했다는 16:06 보도의 본문을 확인했다.",
+        "verified_at": 1792485040,
+        "published_at": 1792479960,
+        "evidence": [
+          {
+            "url": "https://www.etoday.co.kr/news/view/2637987?trc=right_categori_news",
+            "note": "13~19일 신고 중 제시액 합계 1000만원 이상인 31명을 선별했다. 1015장·7억2800만원은 완료 거래액이 아닌 판매 제시액이다. 온라인 노출 제한은 하루 1회에서 2회로 강화됐다."
+          }
+        ],
+        "materials": [],
+        "caution": "수사의뢰 단계다. 범죄 확정·검거·7억2800만원 수익으로 쓰지 않으며 자료사진을 암표 거래 현장으로 표시하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-20",
+          "observation": "포스트시즌 진행 중 고액·다량 판매 의심자 31명이 경찰 수사의뢰 대상으로 확인됐다. 1015장에 붙은 제시액과 예매 실패 팬의 이해관계가 연결된다.",
+          "checked_materials": [],
+          "outline": [
+            "1015장·7억2800만원은 판매자가 부른 가격이라는 표지",
+            "13~19일 신고→31명 선별→20일 경찰 수사의뢰 순서",
+            "하루 두 차례 게시물 노출 제한과 조사 후 위법 확인 시 후속 조치"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [],
+        "excerpt": "",
+        "context": "20일 문체부가 31명을 경찰에 수사 의뢰했다는 16:06 보도의 본문을 확인했다.",
+        "fetched_at": 1792486055,
+        "parser_revision": 7
+      },
+      "curation_event_key": "kbo-postseason-ticket-scalping-31-referrals-20261020"
+    },
+    "b8cda69d05c0": {
+      "source": "뉴시스",
+      "title": "월세만 적고 관리비는? 민간임대 신고에 관리비도 넣는다",
+      "link": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833300",
+      "first_seen_at": 1792486055,
+      "last_seen_at": 1792486055,
+      "samples": [
+        {
+          "at": 1792486055,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "b8cda69d05c0",
+      "editorial": {
+        "title": "월세만 적고 관리비는? 민간임대 신고에 관리비도 넣는다",
+        "category": "시사",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833300",
+        "source": "뉴시스",
+        "kind": "article",
+        "event_key": "private-rental-management-fee-contract-report-cabinet-20261020",
+        "why": "월세방을 구하는 친구에게 월세와 별도로 붙는 관리비도 신고 대상이 되는 변화를 알려줄 수 있다.",
+        "angle": "첫 장에서 월세만 보던 계약 비용과 관리비·사용료 산정방식까지 들어가는 신고 항목을 비교한다.",
+        "why_now": "20일 국무회의가 민간임대 임대사업자의 관리비·사용료 신고 의무를 담은 시행령 개정안을 의결했다.",
+        "verified_at": 1792485779,
+        "published_at": 1792472500,
+        "evidence": [
+          {
+            "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833300",
+            "note": "민간임대주택 임대사업자가 부과하는 관리비·사용료 금액 또는 산정방식을 임대차계약 신고에 포함하도록 의결했다. 보증금을 HUG가 관리해 월세로 지급할 수 있는 업무 근거도 함께 마련했다."
+          }
+        ],
+        "materials": [],
+        "caution": "민간임대주택 임대사업자 대상이다. 모든 집주인에게 오늘 즉시 시행됐다고 쓰지 않는다. 구체적 시행일은 추가 확인한다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-20",
+          "observation": "세입자의 총 주거비에 직접 영향을 주는 관리비·사용료의 금액 또는 계산 기준을 임대차 신고에 포함하는 개정안이 의결됐다.",
+          "checked_materials": [],
+          "outline": [
+            "월세와 별도 관리비를 구분한 표지",
+            "민간임대 임대사업자가 신고할 금액·산정방식의 변화",
+            "국무회의 의결 단계와 적용 대상, 시행일 미확인 범위 표시"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [],
+        "excerpt": "",
+        "context": "20일 국무회의가 민간임대 임대사업자의 관리비·사용료 신고 의무를 담은 시행령 개정안을 의결했다.",
+        "fetched_at": 1792486055,
+        "parser_revision": 7
+      },
+      "curation_event_key": "private-rental-management-fee-contract-report-cabinet-20261020"
+    },
+    "6dce3a09ac31": {
+      "source": "뉴시스",
+      "title": "상장사 보안에 쓴 돈, 내년부터 매출 상관없이 공개한다",
+      "link": "https://www.newsis.com/view/NISX20261020_0003832677",
+      "first_seen_at": 1792486055,
+      "last_seen_at": 1792486055,
+      "samples": [
+        {
+          "at": 1792486055,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "6dce3a09ac31",
+      "editorial": {
+        "title": "상장사 보안에 쓴 돈, 내년부터 매출 상관없이 공개한다",
+        "category": "시사",
+        "url": "https://www.newsis.com/view/NISX20261020_0003832677",
+        "source": "뉴시스",
+        "kind": "article",
+        "event_key": "cybersecurity-disclosure-all-listed-companies-cabinet-20261020",
+        "why": "정보 유출을 걱정하는 지인에게 기업이 보안에 실제로 쓴 투자·인력을 비교할 공개 대상이 넓어진다고 알릴 수 있다.",
+        "angle": "첫 장을 매출 3000억원 이상→코스피·코스닥 전체(SPAC 제외)의 전후 비교로 만든다.",
+        "why_now": "20일 국무회의에서 공시 범위를 넓히는 시행령이 통과했고 2027년 1월 1일 시행이 확인됐다.",
+        "verified_at": 1792485779,
+        "published_at": 1792470729,
+        "evidence": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261020_0003832677",
+            "note": "상장사 매출 3000억원 기준을 폐지하고 금융·공공기관 등 기존 예외도 없앤다. 보안 투자금액·인력·인증 및 점검 이력을 공개한다. 소기업에는 2029년까지 유예한다."
+          }
+        ],
+        "materials": [],
+        "caution": "개인정보를 공개한다는 뜻이 아니다. 해킹 방지 보장도 아니다. SPAC 제외와 소기업 2029년 적용 유예를 표시한다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-20",
+          "observation": "반복되는 침해 사고 뒤 기업의 보안 투자를 외부에서 비교할 수 있는 의무 공시 범위가 전체 상장사와 기존 예외 기관으로 확대됐다.",
+          "checked_materials": [],
+          "outline": [
+            "3000억원 매출 기준 폐지와 전체 상장사 확대 표지",
+            "공개하는 보안 투자·인력·인증 이력 세 항목",
+            "2027년 시행과 SPAC 제외·소기업 유예의 적용 범위"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [],
+        "excerpt": "",
+        "context": "20일 국무회의에서 공시 범위를 넓히는 시행령이 통과했고 2027년 1월 1일 시행이 확인됐다.",
+        "fetched_at": 1792486055,
+        "parser_revision": 7
+      },
+      "curation_event_key": "cybersecurity-disclosure-all-listed-companies-cabinet-20261020"
+    },
+    "9b7b8d359c84": {
+      "source": "연합뉴스",
+      "title": "우크라 공관원 일부 철수…영사 인력은 전원 남는다",
+      "link": "https://www.yna.co.kr/view/AKR20261020112151504",
+      "first_seen_at": 1792486055,
+      "last_seen_at": 1792486055,
+      "samples": [
+        {
+          "at": 1792486055,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "9b7b8d359c84",
+      "editorial": {
+        "title": "우크라 공관원 일부 철수…영사 인력은 전원 남는다",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261020112151504",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "ukraine-korean-embassy-partial-personnel-withdrawal-20261020",
+        "why": "우크라 체류 지인이나 외교 뉴스를 보는 친구에게 공관 축소와 재외국민 보호 유지가 함께 결정됐음을 전달할 수 있다.",
+        "angle": "첫 장에 공관원 일부 철수 / 영사 인력 전원 잔류를 나란히 놓아 실제 바뀌는 범위를 보여준다.",
+        "why_now": "20일 오후 외교부 정례브리핑에서 대사 소환 뒤 추가 인력 철수 결정이 새로 발표됐다.",
+        "verified_at": 1792485779,
+        "published_at": 1792474860,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261020112151504",
+            "note": "외교부는 우크라 측 전향적 조치 부재와 공습 안전 문제를 이유로 일부 철수를 결정했다. 대사대리 중심 소통과 영사 인력 전원 잔류는 유지한다고 밝혔다."
+          }
+        ],
+        "materials": [],
+        "caution": "대사관 폐쇄·단교·전원 철수로 쓰지 않는다. 이전 대사 소환을 오늘 처음 발생한 일로 바꾸지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-20",
+          "observation": "정부가 대사 소환에 이어 공관원 일부 철수를 결정했지만 외교 소통과 영사 보호 인력은 유지한다고 공식 설명했다.",
+          "checked_materials": [],
+          "outline": [
+            "일부 철수와 영사 전원 잔류를 대비한 표지",
+            "외교부가 밝힌 항의·공습 안전의 두 사유",
+            "대사대리 소통 유지와 재외국민 보호 업무의 범위"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [],
+        "excerpt": "",
+        "context": "20일 오후 외교부 정례브리핑에서 대사 소환 뒤 추가 인력 철수 결정이 새로 발표됐다.",
+        "fetched_at": 1792486055,
+        "parser_revision": 7
+      },
+      "curation_event_key": "ukraine-korean-embassy-partial-personnel-withdrawal-20261020"
+    },
     "0786fbb3c801": {
       "source": "뉴스엔·뉴시스",
       "title": "'이혼만 4번' 농담 뒤 바로 사과한 다영…서장훈이 한 말",
@@ -153959,240 +154325,7 @@
         ],
         "checked_at": 1792219851
       }
-    },
-    "acf1e7f9f988": {
-      "source": "디시 실베",
-      "title": "[이갤] 순자산만 35억인데 여자랑 결혼 못할거 같다는 블라남..",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471011",
-      "first_seen_at": 1792219851,
-      "last_seen_at": 1792219851,
-      "samples": [
-        {
-          "at": 1792219851,
-          "views": 5991,
-          "reactions": 32,
-          "rank": 10,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "acf1e7f9f988",
-      "detail": {
-        "excerpt": "팩폭 엄청나게 두들겨맞는중... 내세울게 돈 많은건데 못쓰게 절약 요구하고 용돈주면 의미가 있나...? 출처: 이론 갤러리 [원본…",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://dcimg2.dcinside.co.kr/viewimage.php?id=29bed223f6c6&no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807e6557c88f893d3675a3ae5a3639bdfd377c0aadcabb5903aa43fcb0d90032e999babe7b823f44"
-          }
-        ],
-        "checked_at": 1792219851
-      }
-    },
-    "2fc3b6178dac": {
-      "source": "네이트 스포츠",
-      "title": "허풍 아니었다! 베트남 '13만5000석' 초대형 축구장 현실로…2027년 완공 예정, 中도 깜짝 \"세계 판도 바뀐다\"",
-      "link": "https://sports.news.nate.com/view/20261017n00722",
-      "first_seen_at": 1792191710,
-      "last_seen_at": 1792213362,
-      "samples": [
-        {
-          "at": 1792191710,
-          "views": null,
-          "reactions": null,
-          "rank": 7,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792194719,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792202496,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792207060,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792209719,
-          "views": null,
-          "reactions": null,
-          "rank": 8,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792213362,
-          "views": null,
-          "reactions": null,
-          "rank": 7,
-          "rank_kind": "nate_sports_interest"
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "2fc3b6178dac",
-      "detail": {
-        "excerpt": "한눈에 보는 오늘 : 축구 - 뉴스 : (엑스포츠뉴스 권동환…",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/xs/2026/10/17/1792142129587306.jpg"
-          }
-        ],
-        "checked_at": 1792213362
-      }
-    },
-    "e928bc21f5ca": {
-      "source": "네이트 스포츠",
-      "title": "'충격적인 근황' 韓 국가대표 공격수 황의조 품었던 프랑스 명문 보르도…단돈 '1,500원'에 새 주인 찾고 6부 리그 첫 승",
-      "link": "https://sports.news.nate.com/view/20261017n05786",
-      "first_seen_at": 1792209719,
-      "last_seen_at": 1792213362,
-      "samples": [
-        {
-          "at": 1792209719,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792213362,
-          "views": null,
-          "reactions": null,
-          "rank": 10,
-          "rank_kind": "nate_sports_interest"
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "e928bc21f5ca",
-      "detail": {
-        "excerpt": "한눈에 보는 오늘 : 해외축구 -…",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/be/2026/10/17/313198_241644_738.jpg"
-          }
-        ],
-        "checked_at": 1792209719
-      }
-    },
-    "de2ae4bb44c8": {
-      "source": "네이트 스포츠",
-      "title": "'실수 많은 김민재, EPL 수준 아니다'…아스날 이적설에 독일 매체 혹평",
-      "link": "https://sports.news.nate.com/view/20261017n01917",
-      "first_seen_at": 1792191710,
-      "last_seen_at": 1792213362,
-      "samples": [
-        {
-          "at": 1792191710,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792202496,
-          "views": null,
-          "reactions": null,
-          "rank": 10,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792207060,
-          "views": null,
-          "reactions": null,
-          "rank": 10,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792213362,
-          "views": null,
-          "reactions": null,
-          "rank": 9,
-          "rank_kind": "nate_sports_interest"
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "de2ae4bb44c8",
-      "detail": {
-        "excerpt": "한눈에 보는 오늘 : 해외축구 - 뉴스 : 바이에른 뮌헨의 김민재가 아스톤 빌라와의 프리시즌…",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/my/2026/10/17/2026080822024465779_l.jpg"
-          }
-        ],
-        "checked_at": 1792213362
-      }
-    },
-    "546a94329f84": {
-      "source": "네이버 뉴스",
-      "title": "추미애, 부천 소방관 순직에 \"용기와 헌신 결코 잊지 않겠다\"",
-      "link": "https://n.news.naver.com/article/214/0001529664",
-      "first_seen_at": 1792213362,
-      "last_seen_at": 1792213362,
-      "samples": [
-        {
-          "at": 1792213362,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "546a94329f84",
-      "detail": {
-        "excerpt": "추미애 경기도지사가 부천 공장 화재로 순직한 소방관에 대해 \"참담하고 비통한 마음\"이라며 고인을 애도했습니다. 추 지사는…",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://imgnews.pstatic.net/image/214/2026/10/17/0001529664_001_20261017111112171.jpg?type=w800"
-          }
-        ],
-        "published_at": "2026-10-17T11:09:21+09:00",
-        "checked_at": 1792213362
-      }
-    },
-    "14e06993a7f6": {
-      "source": "네이버 뉴스",
-      "title": "\"불길에 가장 먼저\"‥부천 심정지 소방관 끝내 숨져",
-      "link": "https://n.news.naver.com/article/214/0001529665",
-      "first_seen_at": 1792213362,
-      "last_seen_at": 1792213362,
-      "samples": [
-        {
-          "at": 1792213362,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "14e06993a7f6",
-      "detail": {
-        "excerpt": "[정오뉴스] ◀ 앵커 ▶ 어제 경기 부천 공장 화재를 진압하는 과정에서 심정지 상태에 빠졌던 소방대원 한 명이…",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://imgnews.pstatic.net/image/214/2026/10/17/lyj_261017_18_20261017115409225.jpg?type=w800"
-          }
-        ],
-        "published_at": "2026-10-17T11:38:26+09:00",
-        "checked_at": 1792213362
-      }
     }
   },
-  "updated_at": 1792469995
+  "updated_at": 1792486055
 }

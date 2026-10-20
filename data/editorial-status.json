@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": 1792469996,
-  "hour_utc": "2026102004",
+  "updated_at": 1792486056,
+  "hour_utc": "2026102008",
   "status": "sent",
-  "ready": 8,
+  "ready": 6,
   "required": 10,
-  "missing": 2,
+  "missing": 4,
   "duplicates_excluded": 0,
   "reason_code": "",
-  "trigger": "user_requested"
+  "trigger": "scheduled"
 }

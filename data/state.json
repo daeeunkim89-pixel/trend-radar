@@ -1,69 +1,59 @@
 {
-  "updated_at": 1792469996,
+  "updated_at": 1792486056,
   "status": "ok",
   "errors": {},
   "report": {
     "version": "btp-editorial-v10",
     "delivery": "sent",
     "messages": 1,
-    "stories": 8,
+    "stories": 6,
     "duplicates_excluded": 0,
     "ai": "chatgpt_web_research",
-    "missing": 2,
+    "missing": 4,
     "target_met": false,
-    "shortfall_reason": "축구·추가 여자아이돌 후보의 원본 장면·날짜 확인이 끝나지 않아 제외했습니다. 확인된 8개를 우선 전달합니다.",
+    "shortfall_reason": "검증 6개·4개 부족. 축구·여자아이돌 추가 후보의 첫 공개 시각·핵심 장면이 미확인됐고 장원영 영상·추가 스포츠 발표는 12시간을 넘겨 제외했습니다.",
     "requested_stories": 10,
     "reviewed_edition_version": 2,
-    "trigger": "user_requested",
-    "hour_utc": "2026102004",
+    "trigger": "hourly",
+    "hour_utc": "2026102008",
     "category_counts": {
-      "시사": 4,
+      "시사": 5,
       "축구": 0,
-      "메이저 스포츠": 3,
-      "아이돌": 1
+      "메이저 스포츠": 1,
+      "아이돌": 0
     },
-    "research_queries": 16,
-    "opened_sources": 17,
+    "research_queries": 40,
+    "opened_sources": 13,
     "picks": [
       {
-        "title": "'이혼만 4번' 농담 뒤 바로 사과한 다영…서장훈이 한 말",
-        "url": "https://www.newsen.com/news_view.php?code=100100&uid=202610192312125710",
-        "event_key": "dayoung-divorce-joke-apology-seo-jang-hoon-dating-war-20261019"
+        "title": "신입사원→아들→후계자…세라젬 창업주의 승계 선택",
+        "url": "https://www.yna.co.kr/view/AKR20261020068300030",
+        "event_key": "ceragem-employee-adoption-equity-succession-disclosure-20261020"
       },
       {
-        "title": "누가 이겨도 구단 첫 우승…탬파베이·밀워키 월드시리즈 대진 확정",
-        "url": "https://apnews.com/article/guardians-rays-score-alcs-game-6-e727b3a485df7dbf0dd866edbff9b22a",
-        "event_key": "alcs-game6-rays-guardians-world-series-berth-20261019"
+        "title": "개인정보 털렸는데 현금 대신 VIP…신한·하나의 보상안",
+        "url": "https://www.kmib.co.kr/article/20261020500834",
+        "event_key": "shinhan-hana-breach-customer-vip-insurance-compensation-20261020"
       },
       {
-        "title": "국산 비만약 ‘에페’, 20일 출하 예고…‘13만원’은 환자 결제액이 아니다",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6859117_37005.html",
-        "event_key": "hanmi-eppe-oct20-factory-shipment-schedule-disclosure-20261019"
+        "title": "표 1015장에 제시액만 7억2800만원…가을야구 암표 31명 수사 의뢰",
+        "url": "https://www.etoday.co.kr/news/view/2637987?trc=right_categori_news",
+        "event_key": "kbo-postseason-ticket-scalping-31-referrals-20261020"
       },
       {
-        "title": "긴급자금 2000억 확보했는데…홈플러스, 밀린 8월 월급 또 연기",
-        "url": "https://imnews.imbc.com/news/2026/econo/article/6858942_36932.html",
-        "event_key": "homeplus-august-wage-payment-postponement-after-funding-20261019"
+        "title": "월세만 적고 관리비는? 민간임대 신고에 관리비도 넣는다",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833300",
+        "event_key": "private-rental-management-fee-contract-report-cabinet-20261020"
       },
       {
-        "title": "대표팀 셔틀콕 17박스 반출…전 감독 5년·전 코치 1년 징계 보도",
-        "url": "https://www.nocutnews.co.kr/news/6593927",
-        "event_key": "badminton-national-team-equipment-removal-sanctions-disclosure-20261020"
+        "title": "상장사 보안에 쓴 돈, 내년부터 매출 상관없이 공개한다",
+        "url": "https://www.newsis.com/view/NISX20261020_0003832677",
+        "event_key": "cybersecurity-disclosure-all-listed-companies-cabinet-20261020"
       },
       {
-        "title": "23명 숨진 아리셀 참사…대표 형량 15년→4년, 대법원도 유지",
-        "url": "https://www.yna.co.kr/view/AKR20261020060051004",
-        "event_key": "aricell-park-soon-kwan-supreme-court-four-year-sentence-20261020"
-      },
-      {
-        "title": "숙박앱에 올라왔다고 합법 숙소는 아니다…11월 12일부터 신고증 확인 의무",
-        "url": "https://go.seoul.co.kr/news/prnewsView.php?id=452267",
-        "event_key": "mohw-unregistered-lodging-platform-check-fine-announcement-20261019"
-      },
-      {
-        "title": "선수 FA만 억대가 아니다…이강철, 감독 역대 최고 3년 34억",
-        "url": "https://imnews.imbc.com/news/2026/sports/article/6859004_36947.html",
-        "event_key": "lee-kang-chul-kt-record-manager-contract-3years-3point4billion-20261019"
+        "title": "우크라 공관원 일부 철수…영사 인력은 전원 남는다",
+        "url": "https://www.yna.co.kr/view/AKR20261020112151504",
+        "event_key": "ukraine-korean-embassy-partial-personnel-withdrawal-20261020"
       }
     ]
   }
