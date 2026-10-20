@@ -4337,14 +4337,121 @@
       "recorded_at": 1792483202
     },
     {
+      "event_key": "jang-won-young-shinchan-gacha-hoon-reaction-20250430",
+      "url": "https://news.nate.com/view/20250430n42849",
+      "title": "장원영 훈이 가챠 반응의 20일 재유통",
+      "category": "아이돌",
+      "status": "rejected",
+      "note": "20일 루리웹 재게시와 같은 행동·대화가 2025-04-30 기사에 존재한다. 최초 공개가 12시간을 넘는다.",
+      "next_action": "같은 가챠 장면을 다시 추천하지 않는다. 새 원본의 다른 사건만 검토한다.",
+      "recorded_at": 1792485800
+    },
+    {
       "event_key": "ukraine-korean-embassy-partial-personnel-withdrawal-20261020",
       "url": "https://www.yna.co.kr/view/AKR20261020112151504",
-      "title": "정부 우크라이나 공관원 일부 철수 결정",
+      "title": "우크라 공관원 일부 철수…영사 인력은 전원 남는다",
       "category": "시사",
-      "status": "needs_facts",
-      "note": "20일14:41 연합뉴스 기사 발견·페이지 확인. 정례브리핑 원문과 영사인력 잔류 범위를 대조해 단교·전원철수로 과장하지 않도록 보완한다.",
-      "next_action": "외교부20일 정례브리핑 본문과 기사 본문을 대조하고 실제 새 결정의 시각·영향을 확인한다.",
-      "recorded_at": 1792483202
+      "status": "reviewed",
+      "recorded_at": 1792486051,
+      "pick": {
+        "title": "우크라 공관원 일부 철수…영사 인력은 전원 남는다",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261020112151504",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "ukraine-korean-embassy-partial-personnel-withdrawal-20261020",
+        "why": "우크라 체류 지인이나 외교 뉴스를 보는 친구에게 공관 축소와 재외국민 보호 유지가 함께 결정됐음을 전달할 수 있다.",
+        "angle": "첫 장에 공관원 일부 철수 / 영사 인력 전원 잔류를 나란히 놓아 실제 바뀌는 범위를 보여준다.",
+        "why_now": "20일 오후 외교부 정례브리핑에서 대사 소환 뒤 추가 인력 철수 결정이 새로 발표됐다.",
+        "verified_at": 1792485779,
+        "published_at": 1792474860,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261020112151504",
+            "note": "외교부는 우크라 측 전향적 조치 부재와 공습 안전 문제를 이유로 일부 철수를 결정했다. 대사대리 중심 소통과 영사 인력 전원 잔류는 유지한다고 밝혔다."
+          }
+        ],
+        "materials": [],
+        "caution": "대사관 폐쇄·단교·전원 철수로 쓰지 않는다. 이전 대사 소환을 오늘 처음 발생한 일로 바꾸지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-20",
+          "observation": "정부가 대사 소환에 이어 공관원 일부 철수를 결정했지만 외교 소통과 영사 보호 인력은 유지한다고 공식 설명했다.",
+          "checked_materials": [],
+          "outline": [
+            "일부 철수와 영사 전원 잔류를 대비한 표지",
+            "외교부가 밝힌 항의·공습 안전의 두 사유",
+            "대사대리 소통 유지와 재외국민 보호 업무의 범위"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "\"신한·하나은행\" \"현금 보상 없다\" \"2026\"",
+          "\"프로야구\" \"31명\" \"7억2800\" \"20일\"",
+          "\"장원영\" \"일본 여행\" \"오열\"",
+          "\"2026.10.20\" \"여자아이돌\" \"장면\"",
+          "site:theqoo.net \"2026.10.20\" \"해원\"",
+          "site:theqoo.net \"2026.10.20\" \"장원영\"",
+          "October 20 2026 soccer official UEFA FIFA letter 42 questions",
+          "October 20 2026 MLB NBA official news announcement",
+          "\"장원영\" \"훈이\" \"2026\" 가챠",
+          "\"장원영\" \"어디가 귀여워\" 가챠",
+          "\"2026.10.20\" \"에스파\" 반응",
+          "\"2026.10.20\" \"아이돌\" \"자막\"",
+          "\"세라젬\" \"입양\" \"2026\" 직원",
+          "site:nba.com/news \"2026\" \"Oct 20\"",
+          "site:formula1.com \"20 October 2026\"",
+          "\"2026.10.20\" \"관리비\" \"신고\" 국무회의",
+          "\"신한·하나은행, 해킹 유출 고객 전원\" \"2026.10.20\" \"입력\"",
+          "\"세라젬\" \"양자\" \"단독\" \"2026.10.20\"",
+          "\"LeBron\" \"October 19, 2026\" \"injury\"",
+          "\"NBA\" \"October 20, 2026\" \"out\"",
+          "\"KBO\" \"2026.10.20\" \"확정\"",
+          "\"세라젬\" \"양자\" \"2026.10.19\"",
+          "site:kmib.co.kr/article/20261020500834 신한 하나 VIP \"입력\"",
+          "\"2026.10.20\" 여자아이돌 \"사과\" -윤호 -소미 -다영",
+          "\"손아섭\" \"방출\" \"2026.10.20\"",
+          "\"오타니\" \"27억\" \"2026.10.20\"",
+          "\"2026.10.20\" \"여자아이돌\" -외모 -티저 -윤호 -다영 -사망",
+          "\"2026.10.20\" \"이강인\" \"공식\"",
+          "\"최원호\" \"APBC\" \"2026.10.20\" KBO",
+          "\"MLB\" \"포스팅\" \"2026.10.20\" \"오피셜\"",
+          "\"Ohtani\" \"2,055,700\" auction October 2026",
+          "site:theqoo.net \"2026.10.20\" \"해원\" \"영상\"",
+          "October 20 2026 football confirmed injury sacked official",
+          "\"2026.10.20\" \"여자아이돌\" \"댓글\" -순위 -티저 -패션",
+          "site:theqoo.net \"2026.10.20\" \"자막\"",
+          "\"2026.10.20\" \"오피셜\" \"일본\" \"홈런왕\"",
+          "\"October 20, 2026\" soccer -football -site:spfl.co.uk",
+          "\"October 19, 2026\" \"extension\" NBA official",
+          "\"2026.10.20\" \"뉴진스\" \"법원\"",
+          "site:theqoo.net/hot \"2026.10.20\" \"아이돌\""
+        ],
+        "opened_urls": [
+          "https://www.yna.co.kr/view/AKR20261020068300030",
+          "https://www.kmib.co.kr/article/20261020500834",
+          "https://www.etoday.co.kr/news/view/2637987?trc=right_categori_news",
+          "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833300",
+          "https://www.newsis.com/view/NISX20261020_0003832677",
+          "https://www.yna.co.kr/view/AKR20261020112151504",
+          "https://www.instagram.com/bythepulse/",
+          "https://www.mk.co.kr/news/economy/12180691",
+          "https://bbs.ruliweb.com/community/board/300143/read/77087678",
+          "https://news.nate.com/view/20250430n42849",
+          "https://www.reuters.com/sports/soccer/uefa-demands-answers-fifa-over-infantino-presidency-reports-2026-10-20/",
+          "https://www.newspim.com/news/view/20261020000307",
+          "https://www.mt.co.kr/policy/2026/10/20/2026102009215029184"
+        ],
+        "unavailable": [
+          "펨코 직접 경로는 보호 확인 미완료로 중단하고 공개 간접 색인·독립 원본만 사용했다. 개드립 수집은 HTTP403이었다.",
+          "BTP 공개 그리드의 새 표지만 확인했으며 상세 게시시각·전체 피드·Insights는 미확인이다.",
+          "장원영 훈이 가챠는 동일 동작·대화의 2025-04-30 보도가 있어 20일 재게시를 새 공개로 취급하지 않았다.",
+          "UEFA의 FIFA 서한 보도는 원문 서한·최초 공개 시각 검증이 부족해 확정 소재에서 제외했다.",
+          "추가 축구·여자아이돌 후보는 핵심 연속 장면이나 최초 공개 시각을 확인하지 못했거나 단순 팬 감상·외모·예고라 제외했다.",
+          "최원호 APBC 감독 선임·손아섭 방출은 19일 발표였고 오타니 유니폼 낙찰도 17~18일 이전 공개 정황으로 12시간 조건에서 제외했다."
+        ]
+      }
     },
     {
       "event_key": "shinhan-hana-breach-customer-vip-insurance-compensation-20261020",
@@ -4352,7 +4459,7 @@
       "title": "개인정보 털렸는데 현금 대신 VIP…신한·하나의 보상안",
       "category": "시사",
       "status": "reviewed",
-      "recorded_at": 1792485800,
+      "recorded_at": 1792486051,
       "pick": {
         "title": "개인정보 털렸는데 현금 대신 VIP…신한·하나의 보상안",
         "category": "시사",
@@ -4410,15 +4517,46 @@
           "\"KBO\" \"2026.10.20\" \"확정\"",
           "\"세라젬\" \"양자\" \"2026.10.19\"",
           "site:kmib.co.kr/article/20261020500834 신한 하나 VIP \"입력\"",
-          "\"2026.10.20\" 여자아이돌 \"사과\" -윤호 -소미 -다영"
+          "\"2026.10.20\" 여자아이돌 \"사과\" -윤호 -소미 -다영",
+          "\"손아섭\" \"방출\" \"2026.10.20\"",
+          "\"오타니\" \"27억\" \"2026.10.20\"",
+          "\"2026.10.20\" \"여자아이돌\" -외모 -티저 -윤호 -다영 -사망",
+          "\"2026.10.20\" \"이강인\" \"공식\"",
+          "\"최원호\" \"APBC\" \"2026.10.20\" KBO",
+          "\"MLB\" \"포스팅\" \"2026.10.20\" \"오피셜\"",
+          "\"Ohtani\" \"2,055,700\" auction October 2026",
+          "site:theqoo.net \"2026.10.20\" \"해원\" \"영상\"",
+          "October 20 2026 football confirmed injury sacked official",
+          "\"2026.10.20\" \"여자아이돌\" \"댓글\" -순위 -티저 -패션",
+          "site:theqoo.net \"2026.10.20\" \"자막\"",
+          "\"2026.10.20\" \"오피셜\" \"일본\" \"홈런왕\"",
+          "\"October 20, 2026\" soccer -football -site:spfl.co.uk",
+          "\"October 19, 2026\" \"extension\" NBA official",
+          "\"2026.10.20\" \"뉴진스\" \"법원\"",
+          "site:theqoo.net/hot \"2026.10.20\" \"아이돌\""
         ],
         "opened_urls": [
+          "https://www.yna.co.kr/view/AKR20261020068300030",
+          "https://www.kmib.co.kr/article/20261020500834",
           "https://www.etoday.co.kr/news/view/2637987?trc=right_categori_news",
-          "https://www.kmib.co.kr/article/20261020500834"
+          "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833300",
+          "https://www.newsis.com/view/NISX20261020_0003832677",
+          "https://www.yna.co.kr/view/AKR20261020112151504",
+          "https://www.instagram.com/bythepulse/",
+          "https://www.mk.co.kr/news/economy/12180691",
+          "https://bbs.ruliweb.com/community/board/300143/read/77087678",
+          "https://news.nate.com/view/20250430n42849",
+          "https://www.reuters.com/sports/soccer/uefa-demands-answers-fifa-over-infantino-presidency-reports-2026-10-20/",
+          "https://www.newspim.com/news/view/20261020000307",
+          "https://www.mt.co.kr/policy/2026/10/20/2026102009215029184"
         ],
         "unavailable": [
-          "장원영 훈이 가챠 영상은 2025-04-30 동일 동작·발언 보도가 확인되어 20일 재게시를 새 공개로 취급하지 않았다.",
-          "BTP 공개 그리드 표지만 확인했으며 상세·정확한 게시시각·Insights는 미확인이다."
+          "펨코 직접 경로는 보호 확인 미완료로 중단하고 공개 간접 색인·독립 원본만 사용했다. 개드립 수집은 HTTP403이었다.",
+          "BTP 공개 그리드의 새 표지만 확인했으며 상세 게시시각·전체 피드·Insights는 미확인이다.",
+          "장원영 훈이 가챠는 동일 동작·대화의 2025-04-30 보도가 있어 20일 재게시를 새 공개로 취급하지 않았다.",
+          "UEFA의 FIFA 서한 보도는 원문 서한·최초 공개 시각 검증이 부족해 확정 소재에서 제외했다.",
+          "추가 축구·여자아이돌 후보는 핵심 연속 장면이나 최초 공개 시각을 확인하지 못했거나 단순 팬 감상·외모·예고라 제외했다.",
+          "최원호 APBC 감독 선임·손아섭 방출은 19일 발표였고 오타니 유니폼 낙찰도 17~18일 이전 공개 정황으로 12시간 조건에서 제외했다."
         ]
       }
     },
@@ -4428,7 +4566,7 @@
       "title": "표 1015장에 제시액만 7억2800만원…가을야구 암표 31명 수사 의뢰",
       "category": "메이저 스포츠",
       "status": "reviewed",
-      "recorded_at": 1792485800,
+      "recorded_at": 1792486051,
       "pick": {
         "title": "표 1015장에 제시액만 7억2800만원…가을야구 암표 31명 수사 의뢰",
         "category": "메이저 스포츠",
@@ -4486,27 +4624,399 @@
           "\"KBO\" \"2026.10.20\" \"확정\"",
           "\"세라젬\" \"양자\" \"2026.10.19\"",
           "site:kmib.co.kr/article/20261020500834 신한 하나 VIP \"입력\"",
-          "\"2026.10.20\" 여자아이돌 \"사과\" -윤호 -소미 -다영"
+          "\"2026.10.20\" 여자아이돌 \"사과\" -윤호 -소미 -다영",
+          "\"손아섭\" \"방출\" \"2026.10.20\"",
+          "\"오타니\" \"27억\" \"2026.10.20\"",
+          "\"2026.10.20\" \"여자아이돌\" -외모 -티저 -윤호 -다영 -사망",
+          "\"2026.10.20\" \"이강인\" \"공식\"",
+          "\"최원호\" \"APBC\" \"2026.10.20\" KBO",
+          "\"MLB\" \"포스팅\" \"2026.10.20\" \"오피셜\"",
+          "\"Ohtani\" \"2,055,700\" auction October 2026",
+          "site:theqoo.net \"2026.10.20\" \"해원\" \"영상\"",
+          "October 20 2026 football confirmed injury sacked official",
+          "\"2026.10.20\" \"여자아이돌\" \"댓글\" -순위 -티저 -패션",
+          "site:theqoo.net \"2026.10.20\" \"자막\"",
+          "\"2026.10.20\" \"오피셜\" \"일본\" \"홈런왕\"",
+          "\"October 20, 2026\" soccer -football -site:spfl.co.uk",
+          "\"October 19, 2026\" \"extension\" NBA official",
+          "\"2026.10.20\" \"뉴진스\" \"법원\"",
+          "site:theqoo.net/hot \"2026.10.20\" \"아이돌\""
         ],
         "opened_urls": [
+          "https://www.yna.co.kr/view/AKR20261020068300030",
+          "https://www.kmib.co.kr/article/20261020500834",
           "https://www.etoday.co.kr/news/view/2637987?trc=right_categori_news",
-          "https://www.kmib.co.kr/article/20261020500834"
+          "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833300",
+          "https://www.newsis.com/view/NISX20261020_0003832677",
+          "https://www.yna.co.kr/view/AKR20261020112151504",
+          "https://www.instagram.com/bythepulse/",
+          "https://www.mk.co.kr/news/economy/12180691",
+          "https://bbs.ruliweb.com/community/board/300143/read/77087678",
+          "https://news.nate.com/view/20250430n42849",
+          "https://www.reuters.com/sports/soccer/uefa-demands-answers-fifa-over-infantino-presidency-reports-2026-10-20/",
+          "https://www.newspim.com/news/view/20261020000307",
+          "https://www.mt.co.kr/policy/2026/10/20/2026102009215029184"
         ],
         "unavailable": [
-          "장원영 훈이 가챠 영상은 2025-04-30 동일 동작·발언 보도가 확인되어 20일 재게시를 새 공개로 취급하지 않았다.",
-          "BTP 공개 그리드 표지만 확인했으며 상세·정확한 게시시각·Insights는 미확인이다."
+          "펨코 직접 경로는 보호 확인 미완료로 중단하고 공개 간접 색인·독립 원본만 사용했다. 개드립 수집은 HTTP403이었다.",
+          "BTP 공개 그리드의 새 표지만 확인했으며 상세 게시시각·전체 피드·Insights는 미확인이다.",
+          "장원영 훈이 가챠는 동일 동작·대화의 2025-04-30 보도가 있어 20일 재게시를 새 공개로 취급하지 않았다.",
+          "UEFA의 FIFA 서한 보도는 원문 서한·최초 공개 시각 검증이 부족해 확정 소재에서 제외했다.",
+          "추가 축구·여자아이돌 후보는 핵심 연속 장면이나 최초 공개 시각을 확인하지 못했거나 단순 팬 감상·외모·예고라 제외했다.",
+          "최원호 APBC 감독 선임·손아섭 방출은 19일 발표였고 오타니 유니폼 낙찰도 17~18일 이전 공개 정황으로 12시간 조건에서 제외했다."
         ]
       }
     },
     {
-      "event_key": "jang-won-young-shinchan-gacha-hoon-reaction-20250430",
-      "url": "https://news.nate.com/view/20250430n42849",
-      "title": "장원영 훈이 가챠 반응의 20일 재유통",
-      "category": "아이돌",
+      "event_key": "ceragem-employee-adoption-equity-succession-disclosure-20261020",
+      "url": "https://www.yna.co.kr/view/AKR20261020068300030",
+      "title": "신입사원→아들→후계자…세라젬 창업주의 승계 선택",
+      "category": "시사",
+      "status": "reviewed",
+      "recorded_at": 1792486051,
+      "pick": {
+        "title": "신입사원→아들→후계자…세라젬 창업주의 승계 선택",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261020068300030",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "ceragem-employee-adoption-equity-succession-disclosure-20261020",
+        "why": "직장 동료에게 2003년 신입사원이 법적 가족이자 후계자가 된 실제 승계 경로를 보여줄 수 있다.",
+        "angle": "첫 장을 2003 입사→2025 입양→2026 지분 10% 증여의 세 칸으로 만든다.",
+        "why_now": "20일 회사가 가족 합의로 지난해 마친 입양과 올해 지분 증여를 확인해 공개했다. 오늘 입양한 사건으로 쓰지 않는다.",
+        "verified_at": 1792485779,
+        "published_at": 1792462020,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261020068300030",
+            "note": "회사 관계자 취재로 이경수 대표의 2003년 입사, 지난해 성인 입양, 올해 전체 발행주식 10% 증여가 확인됐다. 회사는 가업승계 세제 혜택을 받을 규모가 아니라고 설명했다."
+          }
+        ],
+        "materials": [],
+        "caution": "입양은 2025년이다. 친딸을 내쫓았다는 식의 동기나 탈세를 추정하지 않는다. 지분 전부의 이전이 아니다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-20",
+          "observation": "유명 의료가전 기업이 전문경영인을 창업주의 법적 자녀로 받아들여 소유권 승계를 시작한 경로를 회사가 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "2003년 신입 입사·2025년 입양·2026년 지분 증여의 타임라인",
+            "대표이사 선임과 법적 가족·소유권 승계가 다른 점",
+            "증여는 전체 주식의 10%이며 회사가 밝힌 장기 승계 계획"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "\"신한·하나은행\" \"현금 보상 없다\" \"2026\"",
+          "\"프로야구\" \"31명\" \"7억2800\" \"20일\"",
+          "\"장원영\" \"일본 여행\" \"오열\"",
+          "\"2026.10.20\" \"여자아이돌\" \"장면\"",
+          "site:theqoo.net \"2026.10.20\" \"해원\"",
+          "site:theqoo.net \"2026.10.20\" \"장원영\"",
+          "October 20 2026 soccer official UEFA FIFA letter 42 questions",
+          "October 20 2026 MLB NBA official news announcement",
+          "\"장원영\" \"훈이\" \"2026\" 가챠",
+          "\"장원영\" \"어디가 귀여워\" 가챠",
+          "\"2026.10.20\" \"에스파\" 반응",
+          "\"2026.10.20\" \"아이돌\" \"자막\"",
+          "\"세라젬\" \"입양\" \"2026\" 직원",
+          "site:nba.com/news \"2026\" \"Oct 20\"",
+          "site:formula1.com \"20 October 2026\"",
+          "\"2026.10.20\" \"관리비\" \"신고\" 국무회의",
+          "\"신한·하나은행, 해킹 유출 고객 전원\" \"2026.10.20\" \"입력\"",
+          "\"세라젬\" \"양자\" \"단독\" \"2026.10.20\"",
+          "\"LeBron\" \"October 19, 2026\" \"injury\"",
+          "\"NBA\" \"October 20, 2026\" \"out\"",
+          "\"KBO\" \"2026.10.20\" \"확정\"",
+          "\"세라젬\" \"양자\" \"2026.10.19\"",
+          "site:kmib.co.kr/article/20261020500834 신한 하나 VIP \"입력\"",
+          "\"2026.10.20\" 여자아이돌 \"사과\" -윤호 -소미 -다영",
+          "\"손아섭\" \"방출\" \"2026.10.20\"",
+          "\"오타니\" \"27억\" \"2026.10.20\"",
+          "\"2026.10.20\" \"여자아이돌\" -외모 -티저 -윤호 -다영 -사망",
+          "\"2026.10.20\" \"이강인\" \"공식\"",
+          "\"최원호\" \"APBC\" \"2026.10.20\" KBO",
+          "\"MLB\" \"포스팅\" \"2026.10.20\" \"오피셜\"",
+          "\"Ohtani\" \"2,055,700\" auction October 2026",
+          "site:theqoo.net \"2026.10.20\" \"해원\" \"영상\"",
+          "October 20 2026 football confirmed injury sacked official",
+          "\"2026.10.20\" \"여자아이돌\" \"댓글\" -순위 -티저 -패션",
+          "site:theqoo.net \"2026.10.20\" \"자막\"",
+          "\"2026.10.20\" \"오피셜\" \"일본\" \"홈런왕\"",
+          "\"October 20, 2026\" soccer -football -site:spfl.co.uk",
+          "\"October 19, 2026\" \"extension\" NBA official",
+          "\"2026.10.20\" \"뉴진스\" \"법원\"",
+          "site:theqoo.net/hot \"2026.10.20\" \"아이돌\""
+        ],
+        "opened_urls": [
+          "https://www.yna.co.kr/view/AKR20261020068300030",
+          "https://www.kmib.co.kr/article/20261020500834",
+          "https://www.etoday.co.kr/news/view/2637987?trc=right_categori_news",
+          "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833300",
+          "https://www.newsis.com/view/NISX20261020_0003832677",
+          "https://www.yna.co.kr/view/AKR20261020112151504",
+          "https://www.instagram.com/bythepulse/",
+          "https://www.mk.co.kr/news/economy/12180691",
+          "https://bbs.ruliweb.com/community/board/300143/read/77087678",
+          "https://news.nate.com/view/20250430n42849",
+          "https://www.reuters.com/sports/soccer/uefa-demands-answers-fifa-over-infantino-presidency-reports-2026-10-20/",
+          "https://www.newspim.com/news/view/20261020000307",
+          "https://www.mt.co.kr/policy/2026/10/20/2026102009215029184"
+        ],
+        "unavailable": [
+          "펨코 직접 경로는 보호 확인 미완료로 중단하고 공개 간접 색인·독립 원본만 사용했다. 개드립 수집은 HTTP403이었다.",
+          "BTP 공개 그리드의 새 표지만 확인했으며 상세 게시시각·전체 피드·Insights는 미확인이다.",
+          "장원영 훈이 가챠는 동일 동작·대화의 2025-04-30 보도가 있어 20일 재게시를 새 공개로 취급하지 않았다.",
+          "UEFA의 FIFA 서한 보도는 원문 서한·최초 공개 시각 검증이 부족해 확정 소재에서 제외했다.",
+          "추가 축구·여자아이돌 후보는 핵심 연속 장면이나 최초 공개 시각을 확인하지 못했거나 단순 팬 감상·외모·예고라 제외했다.",
+          "최원호 APBC 감독 선임·손아섭 방출은 19일 발표였고 오타니 유니폼 낙찰도 17~18일 이전 공개 정황으로 12시간 조건에서 제외했다."
+        ]
+      }
+    },
+    {
+      "event_key": "private-rental-management-fee-contract-report-cabinet-20261020",
+      "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833300",
+      "title": "월세만 적고 관리비는? 민간임대 신고에 관리비도 넣는다",
+      "category": "시사",
+      "status": "reviewed",
+      "recorded_at": 1792486051,
+      "pick": {
+        "title": "월세만 적고 관리비는? 민간임대 신고에 관리비도 넣는다",
+        "category": "시사",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833300",
+        "source": "뉴시스",
+        "kind": "article",
+        "event_key": "private-rental-management-fee-contract-report-cabinet-20261020",
+        "why": "월세방을 구하는 친구에게 월세와 별도로 붙는 관리비도 신고 대상이 되는 변화를 알려줄 수 있다.",
+        "angle": "첫 장에서 월세만 보던 계약 비용과 관리비·사용료 산정방식까지 들어가는 신고 항목을 비교한다.",
+        "why_now": "20일 국무회의가 민간임대 임대사업자의 관리비·사용료 신고 의무를 담은 시행령 개정안을 의결했다.",
+        "verified_at": 1792485779,
+        "published_at": 1792472500,
+        "evidence": [
+          {
+            "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833300",
+            "note": "민간임대주택 임대사업자가 부과하는 관리비·사용료 금액 또는 산정방식을 임대차계약 신고에 포함하도록 의결했다. 보증금을 HUG가 관리해 월세로 지급할 수 있는 업무 근거도 함께 마련했다."
+          }
+        ],
+        "materials": [],
+        "caution": "민간임대주택 임대사업자 대상이다. 모든 집주인에게 오늘 즉시 시행됐다고 쓰지 않는다. 구체적 시행일은 추가 확인한다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-20",
+          "observation": "세입자의 총 주거비에 직접 영향을 주는 관리비·사용료의 금액 또는 계산 기준을 임대차 신고에 포함하는 개정안이 의결됐다.",
+          "checked_materials": [],
+          "outline": [
+            "월세와 별도 관리비를 구분한 표지",
+            "민간임대 임대사업자가 신고할 금액·산정방식의 변화",
+            "국무회의 의결 단계와 적용 대상, 시행일 미확인 범위 표시"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "\"신한·하나은행\" \"현금 보상 없다\" \"2026\"",
+          "\"프로야구\" \"31명\" \"7억2800\" \"20일\"",
+          "\"장원영\" \"일본 여행\" \"오열\"",
+          "\"2026.10.20\" \"여자아이돌\" \"장면\"",
+          "site:theqoo.net \"2026.10.20\" \"해원\"",
+          "site:theqoo.net \"2026.10.20\" \"장원영\"",
+          "October 20 2026 soccer official UEFA FIFA letter 42 questions",
+          "October 20 2026 MLB NBA official news announcement",
+          "\"장원영\" \"훈이\" \"2026\" 가챠",
+          "\"장원영\" \"어디가 귀여워\" 가챠",
+          "\"2026.10.20\" \"에스파\" 반응",
+          "\"2026.10.20\" \"아이돌\" \"자막\"",
+          "\"세라젬\" \"입양\" \"2026\" 직원",
+          "site:nba.com/news \"2026\" \"Oct 20\"",
+          "site:formula1.com \"20 October 2026\"",
+          "\"2026.10.20\" \"관리비\" \"신고\" 국무회의",
+          "\"신한·하나은행, 해킹 유출 고객 전원\" \"2026.10.20\" \"입력\"",
+          "\"세라젬\" \"양자\" \"단독\" \"2026.10.20\"",
+          "\"LeBron\" \"October 19, 2026\" \"injury\"",
+          "\"NBA\" \"October 20, 2026\" \"out\"",
+          "\"KBO\" \"2026.10.20\" \"확정\"",
+          "\"세라젬\" \"양자\" \"2026.10.19\"",
+          "site:kmib.co.kr/article/20261020500834 신한 하나 VIP \"입력\"",
+          "\"2026.10.20\" 여자아이돌 \"사과\" -윤호 -소미 -다영",
+          "\"손아섭\" \"방출\" \"2026.10.20\"",
+          "\"오타니\" \"27억\" \"2026.10.20\"",
+          "\"2026.10.20\" \"여자아이돌\" -외모 -티저 -윤호 -다영 -사망",
+          "\"2026.10.20\" \"이강인\" \"공식\"",
+          "\"최원호\" \"APBC\" \"2026.10.20\" KBO",
+          "\"MLB\" \"포스팅\" \"2026.10.20\" \"오피셜\"",
+          "\"Ohtani\" \"2,055,700\" auction October 2026",
+          "site:theqoo.net \"2026.10.20\" \"해원\" \"영상\"",
+          "October 20 2026 football confirmed injury sacked official",
+          "\"2026.10.20\" \"여자아이돌\" \"댓글\" -순위 -티저 -패션",
+          "site:theqoo.net \"2026.10.20\" \"자막\"",
+          "\"2026.10.20\" \"오피셜\" \"일본\" \"홈런왕\"",
+          "\"October 20, 2026\" soccer -football -site:spfl.co.uk",
+          "\"October 19, 2026\" \"extension\" NBA official",
+          "\"2026.10.20\" \"뉴진스\" \"법원\"",
+          "site:theqoo.net/hot \"2026.10.20\" \"아이돌\""
+        ],
+        "opened_urls": [
+          "https://www.yna.co.kr/view/AKR20261020068300030",
+          "https://www.kmib.co.kr/article/20261020500834",
+          "https://www.etoday.co.kr/news/view/2637987?trc=right_categori_news",
+          "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833300",
+          "https://www.newsis.com/view/NISX20261020_0003832677",
+          "https://www.yna.co.kr/view/AKR20261020112151504",
+          "https://www.instagram.com/bythepulse/",
+          "https://www.mk.co.kr/news/economy/12180691",
+          "https://bbs.ruliweb.com/community/board/300143/read/77087678",
+          "https://news.nate.com/view/20250430n42849",
+          "https://www.reuters.com/sports/soccer/uefa-demands-answers-fifa-over-infantino-presidency-reports-2026-10-20/",
+          "https://www.newspim.com/news/view/20261020000307",
+          "https://www.mt.co.kr/policy/2026/10/20/2026102009215029184"
+        ],
+        "unavailable": [
+          "펨코 직접 경로는 보호 확인 미완료로 중단하고 공개 간접 색인·독립 원본만 사용했다. 개드립 수집은 HTTP403이었다.",
+          "BTP 공개 그리드의 새 표지만 확인했으며 상세 게시시각·전체 피드·Insights는 미확인이다.",
+          "장원영 훈이 가챠는 동일 동작·대화의 2025-04-30 보도가 있어 20일 재게시를 새 공개로 취급하지 않았다.",
+          "UEFA의 FIFA 서한 보도는 원문 서한·최초 공개 시각 검증이 부족해 확정 소재에서 제외했다.",
+          "추가 축구·여자아이돌 후보는 핵심 연속 장면이나 최초 공개 시각을 확인하지 못했거나 단순 팬 감상·외모·예고라 제외했다.",
+          "최원호 APBC 감독 선임·손아섭 방출은 19일 발표였고 오타니 유니폼 낙찰도 17~18일 이전 공개 정황으로 12시간 조건에서 제외했다."
+        ]
+      }
+    },
+    {
+      "event_key": "cybersecurity-disclosure-all-listed-companies-cabinet-20261020",
+      "url": "https://www.newsis.com/view/NISX20261020_0003832677",
+      "title": "상장사 보안에 쓴 돈, 내년부터 매출 상관없이 공개한다",
+      "category": "시사",
+      "status": "reviewed",
+      "recorded_at": 1792486051,
+      "pick": {
+        "title": "상장사 보안에 쓴 돈, 내년부터 매출 상관없이 공개한다",
+        "category": "시사",
+        "url": "https://www.newsis.com/view/NISX20261020_0003832677",
+        "source": "뉴시스",
+        "kind": "article",
+        "event_key": "cybersecurity-disclosure-all-listed-companies-cabinet-20261020",
+        "why": "정보 유출을 걱정하는 지인에게 기업이 보안에 실제로 쓴 투자·인력을 비교할 공개 대상이 넓어진다고 알릴 수 있다.",
+        "angle": "첫 장을 매출 3000억원 이상→코스피·코스닥 전체(SPAC 제외)의 전후 비교로 만든다.",
+        "why_now": "20일 국무회의에서 공시 범위를 넓히는 시행령이 통과했고 2027년 1월 1일 시행이 확인됐다.",
+        "verified_at": 1792485779,
+        "published_at": 1792470729,
+        "evidence": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261020_0003832677",
+            "note": "상장사 매출 3000억원 기준을 폐지하고 금융·공공기관 등 기존 예외도 없앤다. 보안 투자금액·인력·인증 및 점검 이력을 공개한다. 소기업에는 2029년까지 유예한다."
+          }
+        ],
+        "materials": [],
+        "caution": "개인정보를 공개한다는 뜻이 아니다. 해킹 방지 보장도 아니다. SPAC 제외와 소기업 2029년 적용 유예를 표시한다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-20",
+          "observation": "반복되는 침해 사고 뒤 기업의 보안 투자를 외부에서 비교할 수 있는 의무 공시 범위가 전체 상장사와 기존 예외 기관으로 확대됐다.",
+          "checked_materials": [],
+          "outline": [
+            "3000억원 매출 기준 폐지와 전체 상장사 확대 표지",
+            "공개하는 보안 투자·인력·인증 이력 세 항목",
+            "2027년 시행과 SPAC 제외·소기업 유예의 적용 범위"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "\"신한·하나은행\" \"현금 보상 없다\" \"2026\"",
+          "\"프로야구\" \"31명\" \"7억2800\" \"20일\"",
+          "\"장원영\" \"일본 여행\" \"오열\"",
+          "\"2026.10.20\" \"여자아이돌\" \"장면\"",
+          "site:theqoo.net \"2026.10.20\" \"해원\"",
+          "site:theqoo.net \"2026.10.20\" \"장원영\"",
+          "October 20 2026 soccer official UEFA FIFA letter 42 questions",
+          "October 20 2026 MLB NBA official news announcement",
+          "\"장원영\" \"훈이\" \"2026\" 가챠",
+          "\"장원영\" \"어디가 귀여워\" 가챠",
+          "\"2026.10.20\" \"에스파\" 반응",
+          "\"2026.10.20\" \"아이돌\" \"자막\"",
+          "\"세라젬\" \"입양\" \"2026\" 직원",
+          "site:nba.com/news \"2026\" \"Oct 20\"",
+          "site:formula1.com \"20 October 2026\"",
+          "\"2026.10.20\" \"관리비\" \"신고\" 국무회의",
+          "\"신한·하나은행, 해킹 유출 고객 전원\" \"2026.10.20\" \"입력\"",
+          "\"세라젬\" \"양자\" \"단독\" \"2026.10.20\"",
+          "\"LeBron\" \"October 19, 2026\" \"injury\"",
+          "\"NBA\" \"October 20, 2026\" \"out\"",
+          "\"KBO\" \"2026.10.20\" \"확정\"",
+          "\"세라젬\" \"양자\" \"2026.10.19\"",
+          "site:kmib.co.kr/article/20261020500834 신한 하나 VIP \"입력\"",
+          "\"2026.10.20\" 여자아이돌 \"사과\" -윤호 -소미 -다영",
+          "\"손아섭\" \"방출\" \"2026.10.20\"",
+          "\"오타니\" \"27억\" \"2026.10.20\"",
+          "\"2026.10.20\" \"여자아이돌\" -외모 -티저 -윤호 -다영 -사망",
+          "\"2026.10.20\" \"이강인\" \"공식\"",
+          "\"최원호\" \"APBC\" \"2026.10.20\" KBO",
+          "\"MLB\" \"포스팅\" \"2026.10.20\" \"오피셜\"",
+          "\"Ohtani\" \"2,055,700\" auction October 2026",
+          "site:theqoo.net \"2026.10.20\" \"해원\" \"영상\"",
+          "October 20 2026 football confirmed injury sacked official",
+          "\"2026.10.20\" \"여자아이돌\" \"댓글\" -순위 -티저 -패션",
+          "site:theqoo.net \"2026.10.20\" \"자막\"",
+          "\"2026.10.20\" \"오피셜\" \"일본\" \"홈런왕\"",
+          "\"October 20, 2026\" soccer -football -site:spfl.co.uk",
+          "\"October 19, 2026\" \"extension\" NBA official",
+          "\"2026.10.20\" \"뉴진스\" \"법원\"",
+          "site:theqoo.net/hot \"2026.10.20\" \"아이돌\""
+        ],
+        "opened_urls": [
+          "https://www.yna.co.kr/view/AKR20261020068300030",
+          "https://www.kmib.co.kr/article/20261020500834",
+          "https://www.etoday.co.kr/news/view/2637987?trc=right_categori_news",
+          "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833300",
+          "https://www.newsis.com/view/NISX20261020_0003832677",
+          "https://www.yna.co.kr/view/AKR20261020112151504",
+          "https://www.instagram.com/bythepulse/",
+          "https://www.mk.co.kr/news/economy/12180691",
+          "https://bbs.ruliweb.com/community/board/300143/read/77087678",
+          "https://news.nate.com/view/20250430n42849",
+          "https://www.reuters.com/sports/soccer/uefa-demands-answers-fifa-over-infantino-presidency-reports-2026-10-20/",
+          "https://www.newspim.com/news/view/20261020000307",
+          "https://www.mt.co.kr/policy/2026/10/20/2026102009215029184"
+        ],
+        "unavailable": [
+          "펨코 직접 경로는 보호 확인 미완료로 중단하고 공개 간접 색인·독립 원본만 사용했다. 개드립 수집은 HTTP403이었다.",
+          "BTP 공개 그리드의 새 표지만 확인했으며 상세 게시시각·전체 피드·Insights는 미확인이다.",
+          "장원영 훈이 가챠는 동일 동작·대화의 2025-04-30 보도가 있어 20일 재게시를 새 공개로 취급하지 않았다.",
+          "UEFA의 FIFA 서한 보도는 원문 서한·최초 공개 시각 검증이 부족해 확정 소재에서 제외했다.",
+          "추가 축구·여자아이돌 후보는 핵심 연속 장면이나 최초 공개 시각을 확인하지 못했거나 단순 팬 감상·외모·예고라 제외했다.",
+          "최원호 APBC 감독 선임·손아섭 방출은 19일 발표였고 오타니 유니폼 낙찰도 17~18일 이전 공개 정황으로 12시간 조건에서 제외했다."
+        ]
+      }
+    },
+    {
+      "event_key": "choi-won-ho-apbc-national-team-manager-appointment-20261019",
+      "url": "https://www.koreabaseball.com/MediaNews/Notice/List.aspx",
+      "title": "최원호 APBC 감독 선임의 20일 재보도",
+      "category": "메이저 스포츠",
       "status": "rejected",
-      "note": "20일 루리웹 재게시와 같은 행동·대화가 2025-04-30 기사에 존재한다. 최초 공개가 12시간을 넘는다.",
-      "next_action": "같은 가챠 장면을 다시 추천하지 않는다. 새 원본의 다른 사건만 검토한다.",
-      "recorded_at": 1792485800
+      "note": "공식 KBO 목록과 독립 보도에서 최초 발표는 19일로 표시됐다. 20일 재게시를 새 발표로 쓰지 않는다.",
+      "next_action": "같은 선임 사건은 재추천하지 않는다. 새 명단 발표 등 편집 가치가 달라지는 후속만 최초 공개 시각을 확인한다.",
+      "recorded_at": 1792486051
+    },
+    {
+      "event_key": "ohtani-tokyo-series-jersey-auction-sale-20261017",
+      "url": "https://www.sportscollectorsdaily.com/ohtani-tokoyo-series-jersey-sells-f1-star-antonelli-rookie-card-sets-record/",
+      "title": "오타니 유니폼 낙찰 27억원의 20일 국내 재보도",
+      "category": "메이저 스포츠",
+      "status": "needs_date",
+      "note": "국내 20일07:19 보도보다 앞선 18일 해외 낙찰 보도가 발견됐다. 실제 최초 낙찰 공개가 12시간을 넘는 정황으로 보류했다. 경매 원문은 미확인이다.",
+      "next_action": "새 후보로 재포장하지 않는다. 정확한 경매 종료·최초 공개 원문이 필요한 경우에만 해당 경매 공개 페이지를 확인한다.",
+      "recorded_at": 1792486051
+    },
+    {
+      "event_key": "uefa-fifa-forty-two-question-letter-reports-20261020",
+      "url": "https://www.reuters.com/sports/soccer/uefa-demands-answers-fifa-over-infantino-presidency-reports-2026-10-20/",
+      "title": "UEFA의 FIFA 42개 질문 서한 보도",
+      "category": "축구",
+      "status": "needs_facts",
+      "note": "로이터 본문을 읽었지만 서한 자체의 독립 검증 미완료가 명시돼 있다. 원문과 최초 공개 시각이 확인되지 않아 확정된 큰 뉴스로 선정하지 않았다.",
+      "next_action": "UEFA·FIFA 공식 공개문 또는 검증 가능한 원문 서한이 새로 공개될 경우만 재검토하고 기존 보도를 새 사건으로 바꾸지 않는다.",
+      "recorded_at": 1792486051
     }
   ],
   "attempts": [
@@ -4602,13 +5112,13 @@
     },
     {
       "hour_utc": "2026102008",
-      "at": 1792485800,
-      "status": "researching",
+      "at": 1792486110,
+      "status": "submitted",
       "required": 10,
-      "ready": 2,
-      "missing": 8,
-      "unfinished": 5
+      "ready": 6,
+      "missing": 4,
+      "unfinished": 3
     }
   ],
-  "updated_at": 1792485800
+  "updated_at": 1792486110
 }
