@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": 1792453201,
+  "updated_at": 1792468134,
   "profile_checks": [
     {
       "at": 1792379965,
@@ -132,6 +132,33 @@
       "limits": [
         "이번에 표시된 12개 post_id는 직전 관찰과 같다. 이 범위 밖 새 게시물이 없다는 뜻은 아니다.",
         "가입 안내가 표지를 가려 상세·정확한 게시 시각·성과 수치·전체 피드는 확인하지 않았다. 같은 로그인 경로를 반복하지 않았다."
+      ]
+    },
+    {
+      "at": 1792467480,
+      "profile_url": "https://www.instagram.com/bythepulse/",
+      "status": "grid_visible_cover_only",
+      "visible_post_ids": [
+        "DeszOXGCQa7",
+        "DessUVYCYmG",
+        "DesjOLCgSpA",
+        "DescLQTAei6",
+        "DerbaY7CcAB",
+        "DerR7c5ibBP",
+        "DerLEWuCZb1",
+        "DerFDg_id5X",
+        "Deq7_5cCbZS",
+        "DeqnmWGiffs",
+        "DeqvE1TiZPJ",
+        "DeqnXFFieYx"
+      ],
+      "newly_documented_ids": [
+        "DeszOXGCQa7",
+        "DessUVYCYmG"
+      ],
+      "limits": [
+        "가입 안내가 그리드를 덮은 상태에서 보이는 표지와 DOM의 post_id만 대조했다. 상세·전체 피드·성과는 미확인이다.",
+        "일부 중간에 새로 관찰한 post_id는 이번 새 사례 두 건에 포함하지 않았다. 보이지 않는 게시물이 없다는 뜻은 아니다."
       ]
     }
   ],
@@ -292,6 +319,60 @@
       "discovery_urls": [],
       "finding": "19일 21:42 실제 발송 사건과 표지 사건이 겹친다. 미추천 사례가 아니며 추천 때문에 게재됐다는 인과는 확인할 수 없다.",
       "next_change": "휴대폰 정책 자체를 반복하지 않는다. 이번 첫 승·실제 복귀 출전은 새 사실로 분리하되 정책이 승리 원인이라고 만들지 않는다."
+    },
+    {
+      "id": "btp-cover-DeszOXGCQa7",
+      "post_id": "DeszOXGCQa7",
+      "post_url": "https://www.instagram.com/bythepulse/p/DeszOXGCQa7/",
+      "observed_at": 1792467480,
+      "scope": "cover_only",
+      "displayed_date": "October 19, 2026",
+      "published_at": null,
+      "metrics": null,
+      "underlying_facts_verified": false,
+      "topic": "AI 안경 소지 수험생의 3년 응시 제한 표지",
+      "observation": "공개 그리드 표지에서 논술 시험 AI 안경 소지와 수험생 3년 응시 금지를 대비한 문구를 확인했다.",
+      "comparison": {
+        "history_commit": "2c64300104a81739d18f227a8e0da66129c6dc7a",
+        "compared_editions": 17,
+        "from_at": 1792244082,
+        "through_at": 1792450801,
+        "match": "same_event_found_in_sent_archive",
+        "event_key": "uos-smart-glasses-two-cases-audit-disclosure-20261019"
+      },
+      "miss_stage": "undetermined",
+      "timing_limit": "화면 alt의 표시 날짜만 관찰했고 한국시간 정확한 게시 시각·추천 채택 경로는 모른다.",
+      "discovery_urls": [],
+      "finding": "08시 실제 발송 사건과 겹친다. 추천 때문에 게시됐다는 인과나 성과는 확인하지 않았다.",
+      "next_change": "같은 안경 적발을 재추천하지 않고, 작은 기기→3년 제재처럼 확인되는 결과를 첫 장에 놓는 구도를 적용한다."
+    },
+    {
+      "id": "btp-cover-DessUVYCYmG",
+      "post_id": "DessUVYCYmG",
+      "post_url": "https://www.instagram.com/bythepulse/p/DessUVYCYmG/",
+      "observed_at": 1792467480,
+      "scope": "cover_only",
+      "displayed_date": "October 19, 2026",
+      "published_at": null,
+      "metrics": null,
+      "underlying_facts_verified": false,
+      "topic": "직원 임금 체불·딸 데뷔 비용 대비 표지",
+      "observation": "공개 그리드에서 직원 월급과 딸 데뷔 비용을 대비하는 표지 문구를 확인했다. 표지의 기저 사실은 이번 대조에서 검증하지 않았다.",
+      "comparison": {
+        "history_commit": "2c64300104a81739d18f227a8e0da66129c6dc7a",
+        "compared_editions": 17,
+        "from_at": 1792244082,
+        "through_at": 1792450801,
+        "match": "no_same_event_found_in_compared_sent_archive",
+        "event_key": "a2o-aiqing-parents-wage-arrears-allegations-20261020"
+      },
+      "miss_stage": "undetermined",
+      "timing_limit": "후보 풀에는 20일 10:24 더쿠 게시물이 발견됐지만 BTP 게시 시각·게시 전 당시 후보 증거가 없어 놓친 단계는 확정할 수 없다.",
+      "discovery_urls": [
+        "https://theqoo.net/hot/4381131569"
+      ],
+      "finding": "비교한 sent/uncertain 이력에서는 같은 사건을 찾지 못했다. 미추천 전체 이력이나 사용자 반려로 단정하지 않는다.",
+      "next_change": "금액 대비뿐 아니라 누가 돈을 받아야 하는지 이해관계가 명확한 후보를 우선 검토한다. 이 사건은 이미 관찰한 게재 사건으로 재추천하지 않는다."
     }
   ],
   "rules": [
