@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": 1792486579,
+  "updated_at": 1792500842,
   "profile_checks": [
     {
       "at": 1792379965,
@@ -159,6 +159,33 @@
       "limits": [
         "가입 안내가 그리드를 덮은 상태에서 보이는 표지와 DOM의 post_id만 대조했다. 상세·전체 피드·성과는 미확인이다.",
         "일부 중간에 새로 관찰한 post_id는 이번 새 사례 두 건에 포함하지 않았다. 보이지 않는 게시물이 없다는 뜻은 아니다."
+      ]
+    },
+    {
+      "at": 1792499716,
+      "profile_url": "https://www.instagram.com/bythepulse/",
+      "status": "grid_visible_cover_only",
+      "visible_post_ids": [
+        "Detv5zIiVb0",
+        "DetqJDJiZ0s",
+        "DetfTtBiUhK",
+        "DetX-5YCcvh",
+        "DetQDCniTAa",
+        "DetI2C6CdVk",
+        "DetBjhLieSf",
+        "Des5tYficdv",
+        "DeszOXGCQa7",
+        "DessUVYCYmG",
+        "DesjOLCgSpA",
+        "DescLQTAei6"
+      ],
+      "newly_documented_ids": [
+        "Detv5zIiVb0",
+        "DetqJDJiZ0s"
+      ],
+      "limits": [
+        "가입 안내가 일부를 가린 그리드의 표지·post_id만 확인. 상세·첫 게시 시각·전체 피드·Insights는 미확인이다.",
+        "표지의 법적 주장·당사자 발언을 독립 검증하거나 추천 채택으로 판단한 것이 아니다."
       ]
     }
   ],
@@ -373,6 +400,56 @@
       ],
       "finding": "비교한 sent/uncertain 이력에서는 같은 사건을 찾지 못했다. 미추천 전체 이력이나 사용자 반려로 단정하지 않는다.",
       "next_change": "금액 대비뿐 아니라 누가 돈을 받아야 하는지 이해관계가 명확한 후보를 우선 검토한다. 이 사건은 이미 관찰한 게재 사건으로 재추천하지 않는다."
+    },
+    {
+      "id": "btp-cover-Detv5zIiVb0",
+      "post_id": "Detv5zIiVb0",
+      "post_url": "https://www.instagram.com/bythepulse/p/Detv5zIiVb0/",
+      "observed_at": 1792499716,
+      "scope": "cover_only",
+      "displayed_date": null,
+      "published_at": null,
+      "metrics": null,
+      "underlying_facts_verified": false,
+      "topic": "유명40대 래퍼의 대마·재판 관련 표지",
+      "observation": "공개 그리드의 새 표지에서 유명40대 래퍼·대마·재판을 연결한 문구를 확인했다. 가린 인물 신원과 법적 세부 내용은 확인하지 않았다.",
+      "comparison": {
+        "history_commit": "cc71ddc64c6724433c0e5a52df028539a848a75d",
+        "compared_editions": 19,
+        "from_at": 1792244082,
+        "through_at": 1792486056,
+        "match": "no_same_event_found_in_compared_sent_archive"
+      },
+      "miss_stage": "undetermined",
+      "timing_limit": "BTP의 정확한 게시 시각과 게시 전 당시 후보·미전달 증거가 없어 놓친 단계는 확정하지 않는다.",
+      "discovery_urls": [],
+      "finding": "공개 표지 관찰이며 기저 사실·추천 채택·성과 확인이 아니다. 현재 비교한19회차에 동일 사건은 찾지 못했지만 과거 전체 미수집·미검토를 단정하지 않는다.",
+      "next_change": "유명 인물 관련 법적 뉴스는 일반 연예 근황과 나눠 새로 확정된 처분·최초 공개·주장과 사실을 확인한 뒤 상대 평가한다. 이 표지 사건은 재추천하지 않는다."
+    },
+    {
+      "id": "btp-cover-DetqJDJiZ0s",
+      "post_id": "DetqJDJiZ0s",
+      "post_url": "https://www.instagram.com/bythepulse/p/DetqJDJiZ0s/",
+      "observed_at": 1792499716,
+      "scope": "cover_only",
+      "displayed_date": null,
+      "published_at": null,
+      "metrics": null,
+      "underlying_facts_verified": false,
+      "topic": "호날두를 비판한 텐하흐 표지",
+      "observation": "새 표지에 ‘그는 맨유를 실망시켰다’와 호날두를 겨냥한 텐하흐 문구를 확인했다. 발언 원본·날짜·전체 문맥은 미확인이다.",
+      "comparison": {
+        "history_commit": "cc71ddc64c6724433c0e5a52df028539a848a75d",
+        "compared_editions": 19,
+        "from_at": 1792244082,
+        "through_at": 1792486056,
+        "match": "no_same_event_found_in_compared_sent_archive"
+      },
+      "miss_stage": "undetermined",
+      "timing_limit": "BTP의 정확한 게시 시각과 게시 전 당시 후보·미전달 증거가 없어 놓친 단계는 확정하지 않는다.",
+      "discovery_urls": [],
+      "finding": "공개 표지 관찰이며 기저 사실·추천 채택·성과 확인이 아니다. 현재 비교한19회차에 동일 사건은 찾지 못했지만 과거 전체 미수집·미검토를 단정하지 않는다.",
+      "next_change": "알려진 당사자 사이의 직접적인 반박은 일반적인 인터뷰와 구별해 실제 발언·맥락·새 공개 시각을 먼저 확인한다. 익숙한 이름이나 비판 표현만으로 통과시키지 않고 이미 게시된 이 사건은 재추천하지 않는다."
     }
   ],
   "rules": [
