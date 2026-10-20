@@ -7,9 +7,245 @@
       "title": "배이와 함께: 충주 성심학교 VLOG",
       "category": "아이돌",
       "status": "needs_visual",
-      "note": "충주시 공식 20일 18시 공개·2분22초 확인. 플레이어는 한 차례 정상 새로고침 후에도 0:00 버퍼 화면이라 핵심 행동·결과를 보지 못했다.",
-      "next_action": "19시 준비 때 새로 공개된 공식 스틸·독립 보도 자료로 실제 대화·행동과 결과를 확인. 같은 실패 경로를 반복하지 않는다.",
-      "recorded_at": 1792489166
+      "note": "21시대 공식 채널에서 20일18시 공개와 성심학교 VLOG 설명을 재확인. 클릭·재생 키 이후에도0:00 검은 화면이라 실제 수어·행동·결과는 미확인. 댓글 설명을 사실 확인으로 대신하지 않았다.",
+      "next_action": "공식 충주시의 별도 공개 사진·작동하는 독립 인용본이 새로 생기면 핵심 대화·행동·결과를 확인. 같은 YouTube 실패 경로는 반복하지 않는다.",
+      "recorded_at": 1792500109
+    },
+    {
+      "event_key": "busan-drain-sim-phone-fraud-ring-20261020",
+      "url": "https://n.news.naver.com/article/056/0012277035",
+      "title": "하수구 유심 조각에서 추적한 보이스피싱 조직",
+      "category": "시사",
+      "status": "needs_date",
+      "note": "이전 KBS13:57 상세 본문은 확인했으나 그보다 앞선 같은 사건 최초 보도 시각을 확인하지 못했다. 현재23시 기준 첫 공개11시 이후인지가 관건이다.",
+      "next_action": "부산경찰청의 수사결과 발표와 앞선 KBS 보도의 최초 공개 시각을 확인; 맞으면 경찰 제공 사진을 실제 확인해 제작본 작성.",
+      "recorded_at": 1792500109
+    },
+    {
+      "event_key": "ai-strategy-committee-ktx-macro-deleted-post-clarification-20261020",
+      "url": "https://www.kado.net/news/articleView.html?idxno=2079306",
+      "title": "KTX ‘예약 매크로’ 글 지운 AI전략위원…‘조회만 했다’ 해명",
+      "category": "시사",
+      "status": "reviewed",
+      "recorded_at": 1792500109,
+      "pick": {
+        "title": "KTX ‘예약 매크로’ 글 지운 AI전략위원…‘조회만 했다’ 해명",
+        "category": "시사",
+        "url": "https://www.kado.net/news/articleView.html?idxno=2079306",
+        "source": "강원도민일보·연합뉴스",
+        "kind": "article",
+        "event_key": "ai-strategy-committee-ktx-macro-deleted-post-clarification-20261020",
+        "why": "KTX 예매에 실패해 본 이용자가 친구에게 예약 공정성 문제와 당사자 해명을 함께 전달할 이유가 있다.",
+        "angle": "첫 장에 SNS의 ‘예약하기’ 표현과 ‘예약한 적 없다’는 해명을 나란히 놓고 확인된 범위를 구분한다.",
+        "why_now": "20일 전화 취재에서 나온 ‘조회만 했다’는 새 해명을 다룬다. 18:10 후속 보도를 재확인했으며 기사 재게시 시각을 최초 공개로 쓰지 않는다.",
+        "verified_at": 1792499716,
+        "published_at": 1792482420,
+        "evidence": [
+          {
+            "url": "https://www.kado.net/news/articleView.html?idxno=2079306",
+            "note": "20일18:10 공개 본문을 다시 확인. SNS 글 삭제와 ‘좌석 체크만, 예약은 안 했다’는 해명; 실제 예약·규정 위반은 미확인이다."
+          },
+          {
+            "url": "https://www.yna.co.kr/amp/view/AKR20261020138500017",
+            "note": "앞선18시 원문 검토에서16:47 송고와 당일 전화 해명을 확인한 기록을 재사용. 이번 직접 재접근은 실패했으며18:10 독립 보도로 본문 사실을 재확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.kado.net/news/articleView.html?idxno=2079306",
+            "label": "매크로 글·삭제·해명 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "실제 예약·부정 예매·위법이 입증됐다고 쓰지 않는다. 미확인 SNS 캡처를 만들어 넣지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-20",
+          "observation": "공공 교통 예매 도구를 만들었다는 국가AI전략위원의 글이 삭제됐고 당사자는 20일 취재에 좌석 조회용이며 예약은 하지 않았다고 밝혔다. 예매 사용·규정 위반은 미확인이다.",
+          "checked_materials": [],
+          "outline": [
+            "‘예약하기’라는 SNS 표현 ↔ ‘예약한 적 없다’는 당일 해명을 글자로 대비",
+            "도구 제작·글 삭제·20일 전화 해명을 순서대로 정리",
+            "확인된 것은 좌석 조회 주장, 실제 예매·위반 여부는 미확인이라고 명시"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "site:theqoo.net \"배이\" \"충주\" \"2026.10.20\"",
+          "site:theqoo.net 여자아이돌 오늘 \"2026.10.20\" 자막 영상",
+          "football October 20 2026 Manchester City appeal Premier League official",
+          "KIA LG October 20 2026 Kim Do young grand slam postseason",
+          "Haaland team news October 20 2026 Manchester City",
+          "배이 충주시 성심학교 수어",
+          "site:theqoo.net 걸그룹 오늘 영상 반전",
+          "2026 10 20 로이터 주요 뉴스",
+          "\"배이\" \"성심학교\" 충주시",
+          "\"김도영\" \"145\" \"2026.10.20\"",
+          "\"Kakao\" \"October 20, 2026\" news",
+          "AI전략위원 KTX 매크로 조회만 20일",
+          "\"AI전략위원\" \"매크로\"",
+          "\"김도영\" \"145.8\"",
+          "China humanoid robot rental prices chicken dinner October 20 2026",
+          "\"부캉이\" \"3차\" \"21일\"",
+          "site.manutd.com October 20 2026 training absences",
+          "Worlds 2026 October 20 Swiss draw T1 GenG"
+        ],
+        "opened_urls": [
+          "https://www.instagram.com/bythepulse/",
+          "https://www.youtube.com/watch?v=SL4MWaOw0TY",
+          "https://www.premierleague.com/en/news/4727779/premier-league-statement-manchester-city-fc",
+          "https://www.kado.net/news/articleView.html?idxno=2079306",
+          "https://www.starnewskorea.com/en/sports/2026/10/20/2026102018003923961",
+          "https://www.starnewskorea.com/sports/2026/10/20/2026102018003923961",
+          "https://en.fnnews.com/news/202610201933137045",
+          "https://www.fnnews.com/news/202610201933137045",
+          "https://image.fnnews.com/resource/media/image/2026/10/20/202610201931159465_l.jpg",
+          "https://www.yna.co.kr/amp/view/AKR20261020138500017"
+        ],
+        "unavailable": [
+          "https://www.youtube.com/watch?v=SL4MWaOw0TY : 공식18시 공개·설명은 재확인했으나 재생 시도 후에도0:00 검은 화면; 장면 미확인.",
+          "https://news.nate.com/view/20261020n33986 : 브라우저 upstream connection timeout, 사진·본문 확인 실패.",
+          "연합뉴스 직접 경로: 검색 도구가 robots.txt 비재시도 제한을 반환해 중단; 독립 공개 보도 원문으로 전환.",
+          "더쿠 직접 후보 페이지 일부는 검색 도구 접근 오류. 검색 요약을 시청·본문 증거로 세지 않음.",
+          "BTP 그리드는 로그인 안내가 일부를 가려 표지만 확인; 상세·정확한 게시 시각·Insights는 미확인.",
+          "연합뉴스 KTX 원송고16:47은18시 검토에서 읽은 자료를 재사용; 이번 재접근은robots제한. 현재본문 재확인은 독립 후속보도에서 수행."
+        ]
+      }
+    },
+    {
+      "event_key": "shinsegae-joins-daoukiwoom-cj-joongang-acquisition-consortium-20261020",
+      "url": "https://www.hankyung.com/article/202610202728i",
+      "title": "신세계 중앙일보 인수 컨소시엄 합류",
+      "category": "시사",
+      "status": "rejected",
+      "note": "최초 공개10:33은23시 보고 기준12시간을 넘는다. 오후 회사 입장 보도 시각을 같은 참여 사실의 최초 공개로 바꾸지 않는다.",
+      "next_action": "23시 후보에서는 제외. 실제 편집 가치가 달라지는 별도 새 확정 사실이 있을 때만 검토.",
+      "recorded_at": 1792500109
+    },
+    {
+      "event_key": "man-city-ffp-20261020-repackaged-sanction-speculation",
+      "url": "https://www.premierleague.com/en/news/4727779/premier-league-statement-manchester-city-fc",
+      "title": "맨시티 재정 위반·강등 전망 기사",
+      "category": "축구",
+      "status": "rejected",
+      "note": "PL 공식 본문에서 기초 판정 발표는9월29일이고 처분은 별도 심리임을 확인. 오늘 ‘2부리그 가능성’ 제목은 새 확정 징계가 아니다.",
+      "next_action": "오늘 전망 기사는 제외. 새 처분·항소 결정이 공식 발표되면 최초 공개 시각부터 별도 검증.",
+      "recorded_at": 1792500109
+    },
+    {
+      "event_key": "worlds-2026-swiss-round1-draw-20261018",
+      "url": "https://www.sheepesports.com/en/articles/worlds-2026-swiss-stage-round-1-draw/en",
+      "title": "2026 월즈 스위스1라운드 대진",
+      "category": "메이저 스포츠",
+      "status": "needs_date",
+      "note": "발견 결과는18일 대진 추첨과23일 시작을 가리킨다. ‘오늘’ 색인 표기로 새 대진이라고 판단하지 않았으며 아직 원문·Riot 발표는 미열람이다.",
+      "next_action": "18일 추첨의 재추천은 제외. 새로운 실제 일정 변경·경기 사실이 생겼을 때 공식 원문부터 확인.",
+      "recorded_at": 1792500109
+    },
+    {
+      "event_key": "bukang-shark-third-release-operation-plan-20261020",
+      "url": "https://www.yna.co.kr/view/AKR20261020143200051",
+      "title": "부캉이21일3차 외해 유도 결정",
+      "category": "시사",
+      "status": "needs_facts",
+      "note": "16:43 발견 보도는20일 관계기관 회의에서21일3차 유도를 정한 새 계획이다. 이전 방문객 집계와는 다르지만 연합뉴스 직접 경로robots제한으로 원문을 새로 열지 못했다.",
+      "next_action": "해수부·부산시의20일 회의 발표나 독립 보도 본문으로 결정·폰툰/이중그물 방식·최초 공개 시각을 확인.9월사진을 오늘 장면으로 쓰지 않는다.",
+      "recorded_at": 1792500109
+    },
+    {
+      "event_key": "kim-do-young-jamsil-grand-slam-postseason-distance-record-20261020",
+      "url": "https://www.fnnews.com/news/202610201933137045",
+      "title": "잠실 최상단에 꽂힌 김도영 만루포…25년 전 우즈 기록과 나란히",
+      "category": "메이저 스포츠",
+      "status": "reviewed",
+      "recorded_at": 1792500109,
+      "pick": {
+        "title": "잠실 최상단에 꽂힌 김도영 만루포…25년 전 우즈 기록과 나란히",
+        "category": "메이저 스포츠",
+        "url": "https://www.fnnews.com/news/202610201933137045",
+        "source": "파이낸셜뉴스·스타뉴스",
+        "kind": "article",
+        "event_key": "kim-do-young-jamsil-grand-slam-postseason-distance-record-20261020",
+        "why": "KIA·LG 팬이 친구에게 같은 잠실에서 25년 전 기록과 맞먹은 만루포와 3-0→7-0 변화를 보여줄 수 있다.",
+        "angle": "확인한 김도영 포효 사진에 ‘PS 최장 타이 145m’를 놓고 트랙맨 145.8m와 공식 기록을 구분한다.",
+        "why_now": "20일 준PO 3차전 2회초 나온 만루포로, 오늘 19:27 현장 보도와 19:38 한국어 원문에서 기록과 사진을 확인했다.",
+        "verified_at": 1792499904,
+        "published_at": 1792492020,
+        "evidence": [
+          {
+            "url": "https://www.fnnews.com/news/202610201933137045",
+            "note": "20일19:38 한국어 본문: 공식 145m는 2000년 계측 이후 PS 최장 타이·준PO 최장, 트랙맨 145.8m는 별도 수치."
+          },
+          {
+            "url": "https://www.starnewskorea.com/sports/2026/10/20/2026102018003923961",
+            "note": "19:27 현장 본문: 2회초 1사 만루 홈런으로 3-0→7-0. 종전 PS 기록은 2001년 타이론 우즈; 번역문에 이름 오류가 있어 한국어 원문을 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://image.fnnews.com/resource/media/image/2026/10/20/202610201931159465_l.jpg",
+            "label": "20일 만루포 뒤 포효 사진",
+            "kind": "image"
+          }
+        ],
+        "caution": "영상·배트 투척·타구 연속 프레임은 미시청. 공식 비거리 145m와 트랙맨145.8m를 혼용하지 않고 최종 승패는 별도 확인한다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-20",
+          "observation": "2회초 만루 홈런으로 KIA가 3-0에서 7-0으로 벌렸고, 공식145m가 2000년 이후 PS 최장 타이로 보도됐다. 당일 현장 사진에서 김도영이 양 주먹을 쥐고 포효하는 모습을 실제 확인했다.",
+          "checked_materials": [
+            "https://image.fnnews.com/resource/media/image/2026/10/20/202610201931159465_l.jpg"
+          ],
+          "outline": [
+            "확인한 포효 사진 + ‘25년 전 PS 최장 기록과 타이’",
+            "2회초 1사 만루, 3-0→7-0이라는 확인된 변화",
+            "공식145m·트랙맨145.8m를 분리하고 2001년 우즈145m와 비교"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "site:theqoo.net \"배이\" \"충주\" \"2026.10.20\"",
+          "site:theqoo.net 여자아이돌 오늘 \"2026.10.20\" 자막 영상",
+          "football October 20 2026 Manchester City appeal Premier League official",
+          "KIA LG October 20 2026 Kim Do young grand slam postseason",
+          "Haaland team news October 20 2026 Manchester City",
+          "배이 충주시 성심학교 수어",
+          "site:theqoo.net 걸그룹 오늘 영상 반전",
+          "2026 10 20 로이터 주요 뉴스",
+          "\"배이\" \"성심학교\" 충주시",
+          "\"김도영\" \"145\" \"2026.10.20\"",
+          "\"Kakao\" \"October 20, 2026\" news",
+          "AI전략위원 KTX 매크로 조회만 20일",
+          "\"AI전략위원\" \"매크로\"",
+          "\"김도영\" \"145.8\"",
+          "China humanoid robot rental prices chicken dinner October 20 2026",
+          "\"부캉이\" \"3차\" \"21일\"",
+          "site.manutd.com October 20 2026 training absences",
+          "Worlds 2026 October 20 Swiss draw T1 GenG"
+        ],
+        "opened_urls": [
+          "https://www.instagram.com/bythepulse/",
+          "https://www.youtube.com/watch?v=SL4MWaOw0TY",
+          "https://www.premierleague.com/en/news/4727779/premier-league-statement-manchester-city-fc",
+          "https://www.kado.net/news/articleView.html?idxno=2079306",
+          "https://www.starnewskorea.com/en/sports/2026/10/20/2026102018003923961",
+          "https://www.starnewskorea.com/sports/2026/10/20/2026102018003923961",
+          "https://en.fnnews.com/news/202610201933137045",
+          "https://www.fnnews.com/news/202610201933137045",
+          "https://image.fnnews.com/resource/media/image/2026/10/20/202610201931159465_l.jpg",
+          "https://www.yna.co.kr/amp/view/AKR20261020138500017"
+        ],
+        "unavailable": [
+          "https://www.youtube.com/watch?v=SL4MWaOw0TY : 공식18시 공개·설명은 재확인했으나 재생 시도 후에도0:00 검은 화면; 장면 미확인.",
+          "https://news.nate.com/view/20261020n33986 : 브라우저 upstream connection timeout, 사진·본문 확인 실패.",
+          "연합뉴스 직접 경로: 검색 도구가 robots.txt 비재시도 제한을 반환해 중단; 독립 공개 보도 원문으로 전환.",
+          "더쿠 직접 후보 페이지 일부는 검색 도구 접근 오류. 검색 요약을 시청·본문 증거로 세지 않음.",
+          "BTP 그리드는 로그인 안내가 일부를 가려 표지만 확인; 상세·정확한 게시 시각·Insights는 미확인.",
+          "연합뉴스 KTX 원송고16:47은18시 검토에서 읽은 자료를 재사용; 이번 재접근은robots제한. 현재본문 재확인은 독립 후속보도에서 수행."
+        ]
+      }
     },
     {
       "event_key": "hanwha-fan-neon-and-beyond-kbo-parody-20261020",
@@ -50,230 +286,6 @@
       "note": "오늘 체험 보도를 공식 발표와 대조하니 10월1일 이미 형태·출시일·가격이 공개됐다. 오늘 새 편집 사실이 확인되지 않았다.",
       "next_action": "기존 출시 사실은 재추천하지 않는다. 별도 제품 변경·실제 새 영향이 공식 확인된 경우만 검토.",
       "recorded_at": 1792489166
-    },
-    {
-      "event_key": "busan-drain-sim-phone-fraud-ring-20261020",
-      "url": "https://n.news.naver.com/article/056/0012277035",
-      "title": "하수구 유심 조각에서 추적한 보이스피싱 조직",
-      "category": "시사",
-      "status": "needs_date",
-      "note": "20일13:57 KBS 상세 본문 확인. 2월 배수구 발견→101명 검거·16명 구속. 기자의 앞선 같은 사건 기사 링크가 있어 첫 수사결과 공개 시각을 더 확인해야 한다.",
-      "next_action": "기자 프로필의 앞선 ‘원룸 배수구’ 기사와 부산경찰청 발표 시각을 확인. 최초 공개가 08시 이후면 경찰 사진 핵심 자료 확인 후 scene 작성.",
-      "recorded_at": 1792489166
-    },
-    {
-      "event_key": "ai-strategy-committee-ktx-macro-deleted-post-clarification-20261020",
-      "url": "https://www.yna.co.kr/amp/view/AKR20261020138500017",
-      "title": "KTX ‘예약 매크로’ 글 지운 AI전략위원…‘조회만 했다’ 해명",
-      "category": "시사",
-      "status": "reviewed",
-      "recorded_at": 1792489166,
-      "pick": {
-        "title": "KTX ‘예약 매크로’ 글 지운 AI전략위원…‘조회만 했다’ 해명",
-        "category": "시사",
-        "url": "https://www.yna.co.kr/amp/view/AKR20261020138500017",
-        "source": "연합뉴스",
-        "kind": "article",
-        "event_key": "ai-strategy-committee-ktx-macro-deleted-post-clarification-20261020",
-        "why": "KTX 예매에 실패해 본 이용자가 친구에게 예약 공정성 문제와 당사자 해명을 함께 전달할 이유가 있다.",
-        "angle": "첫 장에 SNS의 ‘예약하기’ 표현과 ‘예약한 적 없다’는 해명을 나란히 놓고 확인된 범위를 구분한다.",
-        "why_now": "20일 연합뉴스 전화 인터뷰에서 당사자가 좌석 조회만 했다고 새로 해명했다; 몇 달 전 도구 제작 자체를 오늘 사건으로 바꾸지 않는다.",
-        "verified_at": 1792488620,
-        "published_at": 1792482420,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/amp/view/AKR20261020138500017",
-            "note": "16:47 송고 본문 확인. 국가AI전략위원회 위원의 SNS 매크로 글 삭제와 당일 전화 해명; 실제 예약 사용과 규정 위반 여부는 확인되지 않았다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/amp/view/AKR20261020138500017",
-            "label": "글·삭제·당일 해명 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "실제 예약·부정 예매·위법이 입증됐다고 쓰지 않는다. 미확인 SNS 캡처를 만들어 넣지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-20",
-          "observation": "공공 교통 예매 도구를 만들었다는 국가AI전략위원의 글이 삭제됐고 당사자는 20일 취재에 좌석 조회용이며 예약은 하지 않았다고 밝혔다. 예매 사용·규정 위반은 미확인이다.",
-          "checked_materials": [],
-          "outline": [
-            "‘예약하기’라는 SNS 표현 ↔ ‘예약한 적 없다’는 당일 해명을 글자로 대비",
-            "도구 제작·글 삭제·20일 전화 해명을 순서대로 정리",
-            "확인된 것은 좌석 조회 주장, 실제 예매·위반 여부는 미확인이라고 명시"
-          ]
-        }
-      },
-      "coverage": {
-        "queries": [
-          "site:theqoo.net/hot \"2026.10.20\" 해원 장원영 안유진 카리나 제니",
-          "site:instiz.net/pt \"2026.10.20\" 아이돌 대화",
-          "\"2026.10.20\" \"이정효\" \"일어나\"",
-          "\"October 20 2026\" soccer news confirmed Premier League",
-          "\"이정효\" \"일어나\" \"2026\" \"10월 20일\"",
-          "\"황선우\" \"실격\" \"2026\" \"10월 20일\"",
-          "\"미야오\" \"전국 고등학교\" 응원",
-          "\"2026년 10월 20일\" 스포츠 발표",
-          "\"이정효\" \"일어나 XX들아\"",
-          "\"황선우\" \"실격\" \"2026.10.20\"",
-          "\"충주시\" \"배이\" \"2026\"",
-          "\"니욘앤비욘\" KBO",
-          "황선우 실격 전국체전 2026 10월20일",
-          "파주 시민구단 창단 1년 인수 황당 경영",
-          "KTX 매크로 KAIST 김정호 좌석 조회만 2026",
-          "가희 가히 상표권 패소 2026 10월20일",
-          "\"파주\" \"시민구단 창단\" \"인수\"",
-          "\"황선우\" \"실격당한\"",
-          "\"AI전략위원\" \"매크로\"",
-          "\"가희\" \"가히\" \"패소\"",
-          "\"신세계\" \"중앙일보\" \"인수\" \"20일\"",
-          "\"갤럭시 버즈 온\" \"20일\"",
-          "\"입학생 0명\" \"등명초\"",
-          "\"AI전략위원\" \"좌석 조회만\"",
-          "site:reuters.com/sports/soccer/ \"2026-10-20\"",
-          "site:premierleague.com/en/news/ \"20 Oct 2026\"",
-          "site:news.samsung.com/kr \"갤럭시 버즈 온\"",
-          "\"커리어 하이 달성하고 팬들에게 미안해\"",
-          "\"하수구에서 쏟아져 나온 유심칩\"",
-          "\"헌혈의집\" \"가짜 예약\" \"취소\"",
-          "\"부캉이\" \"3차\" \"20일\"",
-          "\"코스피\" \"5552.74\" \"20일\""
-        ],
-        "opened_urls": [
-          "https://www.yna.co.kr/amp/view/AKR20261020138500017",
-          "https://www.hankyung.com/article/202610202728i",
-          "https://www.khan.co.kr/article/202610201601001",
-          "https://theqoo.net/square/4381534061",
-          "https://theqoo.net/square/4381531018",
-          "https://theqoo.net/square/4381401633",
-          "https://theqoo.net/square/4381371495",
-          "https://www.youtube.com/watch?v=4DIKg--0rrc",
-          "https://www.youtube.com/watch?v=SL4MWaOw0TY",
-          "https://www.instagram.com/bythepulse/",
-          "https://www.yna.co.kr/view/AKR20261020049500017",
-          "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%B5%9C%EC%B4%88-%ED%81%B4%EB%A6%BD%ED%98%95-%EB%AC%B4%EC%84%A0-%EC%9D%B4%EC%96%B4%ED%8F%B0-%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EB%B2%84",
-          "https://n.news.naver.com/article/056/0012277035"
-        ],
-        "unavailable": [
-          "펨코 보호 확인이 안 되는 직접 경로는 중단; 공개 인용본·독립 원본만 검토.",
-          "https://x.com/hoodi_thespace/status/2112424365929406648 : 웹 403, 핵심 장면 미확인.",
-          "https://theqoo.net/hot/4381487850 : 본문 대상 없음; 팬 반응을 장면으로 간주하지 않음.",
-          "https://m.sports.naver.com/general/video/1548882 : 본문·플레이어가 빈 화면; 사건일·실격 장면 미확인.",
-          "https://www.youtube.com/watch?v=SL4MWaOw0TY : 공식 공개일은 확인했으나 재생이 0:00 검은 버퍼 화면; 핵심 동작 미확인.",
-          "BTP 공개 그리드는 일부 표지만 확인; 로그인 가림 때문에 상세 본문·전체 피드·Insights는 확인 못 함."
-        ]
-      }
-    },
-    {
-      "event_key": "shinsegae-joins-daoukiwoom-cj-joongang-acquisition-consortium-20261020",
-      "url": "https://www.hankyung.com/article/202610202728i",
-      "title": "중앙일보 인수에 신세계도 합류…CJ와 손잡은 범삼성가",
-      "category": "시사",
-      "status": "reviewed",
-      "recorded_at": 1792489166,
-      "pick": {
-        "title": "중앙일보 인수에 신세계도 합류…CJ와 손잡은 범삼성가",
-        "category": "시사",
-        "url": "https://www.hankyung.com/article/202610202728i",
-        "source": "한국경제·경향신문",
-        "kind": "article",
-        "event_key": "shinsegae-joins-daoukiwoom-cj-joongang-acquisition-consortium-20261020",
-        "why": "신세계·CJ를 아는 독자가 주요 신문의 새 인수 구도와 기업들의 이해관계를 설명하려고 공유할 수 있다.",
-        "angle": "첫 장에서 ‘다우키움·CJ’ 옆에 ‘㈜신세계 합류’를 추가하고 참여 확정과 매각 완료를 구별한다.",
-        "why_now": "전날 우선협상대상자 선정의 재탕이 아니라 20일 ㈜신세계의 신규 참여와 회사 입장이 공개됐다.",
-        "verified_at": 1792489090,
-        "published_at": 1792459980,
-        "evidence": [
-          {
-            "url": "https://www.hankyung.com/article/202610202728i",
-            "note": "10:33 입력 본문에서 기존 다우키움·CJ 컨소시엄에 ㈜신세계가 합류하는 새 인수 구도를 확인."
-          },
-          {
-            "url": "https://www.khan.co.kr/article/202610201601001",
-            "note": "16:01 입력 본문에서 20일 회사의 참여 입장과 지분투자 방식을 확인. 지분 비율·인수가는 전언이며 매각은 아직 완료되지 않았다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.khan.co.kr/article/202610201601001",
-            "label": "신세계 참여 입장 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "인수 완료라고 쓰지 않는다. 50·30·20%와 약 5000억원은 확정 계약 수치처럼 표지에 쓰지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-20",
-          "observation": "㈜신세계가 중앙일보 인수 우선협상대상자인 다우키움·CJ 컨소시엄에 지분투자로 참여한다고 20일 밝혔다. 주요 일간신문의 인수 주체 구도가 바뀌었지만 매각 완료는 아니다.",
-          "checked_materials": [],
-          "outline": [
-            "다우키움·CJ에 ‘㈜신세계 참여’가 더해진 인수 구도",
-            "신세계가 이날 밝힌 콘텐츠 연계 계획을 요약",
-            "우선협상·참여 발표와 아직 남은 매각 완료 단계를 구분"
-          ]
-        }
-      },
-      "coverage": {
-        "queries": [
-          "site:theqoo.net/hot \"2026.10.20\" 해원 장원영 안유진 카리나 제니",
-          "site:instiz.net/pt \"2026.10.20\" 아이돌 대화",
-          "\"2026.10.20\" \"이정효\" \"일어나\"",
-          "\"October 20 2026\" soccer news confirmed Premier League",
-          "\"이정효\" \"일어나\" \"2026\" \"10월 20일\"",
-          "\"황선우\" \"실격\" \"2026\" \"10월 20일\"",
-          "\"미야오\" \"전국 고등학교\" 응원",
-          "\"2026년 10월 20일\" 스포츠 발표",
-          "\"이정효\" \"일어나 XX들아\"",
-          "\"황선우\" \"실격\" \"2026.10.20\"",
-          "\"충주시\" \"배이\" \"2026\"",
-          "\"니욘앤비욘\" KBO",
-          "황선우 실격 전국체전 2026 10월20일",
-          "파주 시민구단 창단 1년 인수 황당 경영",
-          "KTX 매크로 KAIST 김정호 좌석 조회만 2026",
-          "가희 가히 상표권 패소 2026 10월20일",
-          "\"파주\" \"시민구단 창단\" \"인수\"",
-          "\"황선우\" \"실격당한\"",
-          "\"AI전략위원\" \"매크로\"",
-          "\"가희\" \"가히\" \"패소\"",
-          "\"신세계\" \"중앙일보\" \"인수\" \"20일\"",
-          "\"갤럭시 버즈 온\" \"20일\"",
-          "\"입학생 0명\" \"등명초\"",
-          "\"AI전략위원\" \"좌석 조회만\"",
-          "site:reuters.com/sports/soccer/ \"2026-10-20\"",
-          "site:premierleague.com/en/news/ \"20 Oct 2026\"",
-          "site:news.samsung.com/kr \"갤럭시 버즈 온\"",
-          "\"커리어 하이 달성하고 팬들에게 미안해\"",
-          "\"하수구에서 쏟아져 나온 유심칩\"",
-          "\"헌혈의집\" \"가짜 예약\" \"취소\"",
-          "\"부캉이\" \"3차\" \"20일\"",
-          "\"코스피\" \"5552.74\" \"20일\""
-        ],
-        "opened_urls": [
-          "https://www.yna.co.kr/amp/view/AKR20261020138500017",
-          "https://www.hankyung.com/article/202610202728i",
-          "https://www.khan.co.kr/article/202610201601001",
-          "https://theqoo.net/square/4381534061",
-          "https://theqoo.net/square/4381531018",
-          "https://theqoo.net/square/4381401633",
-          "https://theqoo.net/square/4381371495",
-          "https://www.youtube.com/watch?v=4DIKg--0rrc",
-          "https://www.youtube.com/watch?v=SL4MWaOw0TY",
-          "https://www.instagram.com/bythepulse/",
-          "https://www.yna.co.kr/view/AKR20261020049500017",
-          "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%B5%9C%EC%B4%88-%ED%81%B4%EB%A6%BD%ED%98%95-%EB%AC%B4%EC%84%A0-%EC%9D%B4%EC%96%B4%ED%8F%B0-%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EB%B2%84",
-          "https://n.news.naver.com/article/056/0012277035"
-        ],
-        "unavailable": [
-          "펨코 보호 확인이 안 되는 직접 경로는 중단; 공개 인용본·독립 원본만 검토.",
-          "https://x.com/hoodi_thespace/status/2112424365929406648 : 웹 403, 핵심 장면 미확인.",
-          "https://theqoo.net/hot/4381487850 : 본문 대상 없음; 팬 반응을 장면으로 간주하지 않음.",
-          "https://m.sports.naver.com/general/video/1548882 : 본문·플레이어가 빈 화면; 사건일·실격 장면 미확인.",
-          "https://www.youtube.com/watch?v=SL4MWaOw0TY : 공식 공개일은 확인했으나 재생이 0:00 검은 버퍼 화면; 핵심 동작 미확인.",
-          "BTP 공개 그리드는 일부 표지만 확인; 로그인 가림 때문에 상세 본문·전체 피드·Insights는 확인 못 함."
-        ]
-      }
     },
     {
       "event_key": "ukraine-korean-embassy-partial-personnel-withdrawal-20261020",
@@ -5404,13 +5416,13 @@
     },
     {
       "hour_utc": "2026102014",
-      "at": 1792499338,
+      "at": 1792500109,
       "status": "researching",
       "required": 10,
-      "ready": 0,
-      "missing": 10,
+      "ready": 2,
+      "missing": 8,
       "unfinished": 19
     }
   ],
-  "updated_at": 1792499338
+  "updated_at": 1792500109
 }
