@@ -1,268 +1,523 @@
 {
   "version": 2,
-  "hour_utc": "2026102008",
+  "hour_utc": "2026102014",
   "reviewer": "ChatGPT",
-  "generated_at": 1792485942,
+  "generated_at": 1792502653,
   "coverage": {
     "queries": [
-      "\"신한·하나은행\" \"현금 보상 없다\" \"2026\"",
-      "\"프로야구\" \"31명\" \"7억2800\" \"20일\"",
-      "\"장원영\" \"일본 여행\" \"오열\"",
-      "\"2026.10.20\" \"여자아이돌\" \"장면\"",
-      "site:theqoo.net \"2026.10.20\" \"해원\"",
-      "site:theqoo.net \"2026.10.20\" \"장원영\"",
-      "October 20 2026 soccer official UEFA FIFA letter 42 questions",
-      "October 20 2026 MLB NBA official news announcement",
-      "\"장원영\" \"훈이\" \"2026\" 가챠",
-      "\"장원영\" \"어디가 귀여워\" 가챠",
-      "\"2026.10.20\" \"에스파\" 반응",
-      "\"2026.10.20\" \"아이돌\" \"자막\"",
-      "\"세라젬\" \"입양\" \"2026\" 직원",
-      "site:nba.com/news \"2026\" \"Oct 20\"",
-      "site:formula1.com \"20 October 2026\"",
-      "\"2026.10.20\" \"관리비\" \"신고\" 국무회의",
-      "\"신한·하나은행, 해킹 유출 고객 전원\" \"2026.10.20\" \"입력\"",
-      "\"세라젬\" \"양자\" \"단독\" \"2026.10.20\"",
-      "\"LeBron\" \"October 19, 2026\" \"injury\"",
-      "\"NBA\" \"October 20, 2026\" \"out\"",
-      "\"KBO\" \"2026.10.20\" \"확정\"",
-      "\"세라젬\" \"양자\" \"2026.10.19\"",
-      "site:kmib.co.kr/article/20261020500834 신한 하나 VIP \"입력\"",
-      "\"2026.10.20\" 여자아이돌 \"사과\" -윤호 -소미 -다영",
-      "\"손아섭\" \"방출\" \"2026.10.20\"",
-      "\"오타니\" \"27억\" \"2026.10.20\"",
-      "\"2026.10.20\" \"여자아이돌\" -외모 -티저 -윤호 -다영 -사망",
-      "\"2026.10.20\" \"이강인\" \"공식\"",
-      "\"최원호\" \"APBC\" \"2026.10.20\" KBO",
-      "\"MLB\" \"포스팅\" \"2026.10.20\" \"오피셜\"",
-      "\"Ohtani\" \"2,055,700\" auction October 2026",
-      "site:theqoo.net \"2026.10.20\" \"해원\" \"영상\"",
-      "October 20 2026 football confirmed injury sacked official",
-      "\"2026.10.20\" \"여자아이돌\" \"댓글\" -순위 -티저 -패션",
-      "site:theqoo.net \"2026.10.20\" \"자막\"",
-      "\"2026.10.20\" \"오피셜\" \"일본\" \"홈런왕\"",
-      "\"October 20, 2026\" soccer -football -site:spfl.co.uk",
-      "\"October 19, 2026\" \"extension\" NBA official",
-      "\"2026.10.20\" \"뉴진스\" \"법원\"",
-      "site:theqoo.net/hot \"2026.10.20\" \"아이돌\""
+      "site:theqoo.net \"배이\" \"충주\" \"2026.10.20\"",
+      "site:theqoo.net 여자아이돌 오늘 \"2026.10.20\" 자막 영상",
+      "football October 20 2026 Manchester City appeal Premier League official",
+      "KIA LG October 20 2026 Kim Do young grand slam postseason",
+      "Haaland team news October 20 2026 Manchester City",
+      "배이 충주시 성심학교 수어",
+      "site:theqoo.net 걸그룹 오늘 영상 반전",
+      "\"배이\" \"성심학교\" 충주시",
+      "\"김도영\" \"145\" \"2026.10.20\"",
+      "AI전략위원 KTX 매크로 조회만 20일",
+      "\"AI전략위원\" \"매크로\"",
+      "\"김도영\" \"145.8\"",
+      "\"부캉이\" \"3차\" \"21일\"",
+      "\"부캉이\" \"폰툰\"",
+      "Busan SIM chips sewer 101 arrested October 20 2026",
+      "BAE Chungju sign language school October 20 2026",
+      "\"연쇄방화\" \"동묘앞역\" \"70대\"",
+      "\"휴머노이드\" \"국감\" \"20일 오후\"",
+      "배이 충주시 성심학교 수어 10월 20일 2026",
+      "football October 20 2026 Manchester United Como training six absent official",
+      "카이스트 로봇 국감 20일 오후 황정아",
+      "코스피 5552.74 20일 마감",
+      "\"배이\" \"충주시\" 영상",
+      "\"Manchester United\" \"Como\" \"20 October 2026\"",
+      "여자아이돌 반응 자막 오늘",
+      "\"손흥민\" \"20일\" \"발표\"",
+      "\"KBO\" \"20일\" \"100g\" 경위서",
+      "\"황정아\" \"휴머노이드\" \"오전\"",
+      "\"100g 초과 실격\" \"경위서\"",
+      "oil prices October 20 2026 Hormuz two tankers mines 109.08",
+      "\"황정아\" \"로봇\" \"11시\"",
+      "정수진 경위서 다른 경기 우려",
+      "\"수능\" \"스마트안경\" \"20일\"",
+      "\"유진\" \"뮤비 청문회\"",
+      "\"100g\" \"쉬쉬\" \"경위서\"",
+      "\"20대\" \"절반\" \"연체\" \"20일\"",
+      "football team news injuries 20 October 2026",
+      "\"우리유진\" \"Looks Can Kill\"",
+      "\"[단독]\" \"100g\" \"경위서\""
     ],
     "opened_urls": [
-      "https://www.yna.co.kr/view/AKR20261020068300030",
-      "https://www.kmib.co.kr/article/20261020500834",
-      "https://www.etoday.co.kr/news/view/2637987?trc=right_categori_news",
-      "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833300",
-      "https://www.newsis.com/view/NISX20261020_0003832677",
-      "https://www.yna.co.kr/view/AKR20261020112151504",
       "https://www.instagram.com/bythepulse/",
-      "https://www.mk.co.kr/news/economy/12180691",
-      "https://bbs.ruliweb.com/community/board/300143/read/77087678",
-      "https://news.nate.com/view/20250430n42849",
-      "https://www.reuters.com/sports/soccer/uefa-demands-answers-fifa-over-infantino-presidency-reports-2026-10-20/",
-      "https://www.newspim.com/news/view/20261020000307",
-      "https://www.mt.co.kr/policy/2026/10/20/2026102009215029184"
+      "https://www.youtube.com/watch?v=SL4MWaOw0TY",
+      "https://www.premierleague.com/en/news/4727779/premier-league-statement-manchester-city-fc",
+      "https://www.kado.net/news/articleView.html?idxno=2079306",
+      "https://www.starnewskorea.com/en/sports/2026/10/20/2026102018003923961",
+      "https://www.starnewskorea.com/sports/2026/10/20/2026102018003923961",
+      "https://en.fnnews.com/news/202610201933137045",
+      "https://www.fnnews.com/news/202610201933137045",
+      "https://image.fnnews.com/resource/media/image/2026/10/20/202610201931159465_l.jpg",
+      "https://www.yna.co.kr/amp/view/AKR20261020138500017",
+      "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261020.99099005818",
+      "https://www.busan.com/view/busan/view.php?code=2026102018170424150",
+      "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261021.22004005766",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806560",
+      "https://www.kado.net/news/articleView.html?idxno=2079304",
+      "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008806366&oaid=N1008806560&plink=TOP",
+      "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008806232&oaid=N1008806560&plink=TOP",
+      "https://img.sbs.co.kr/newimg/news/20261020/202233072_1280.jpg",
+      "https://www.manutd.com/en/news/training-update-from-carrington",
+      "https://www.newspim.com/news/view/20261020000964",
+      "https://www.donga.com/news/Economy/article/all/20261020/134875431/1",
+      "https://img.newspim.com/news/2026/10/20/261020155515459_w.jpg",
+      "https://theqoo.net/square/4381710309?page=2",
+      "https://gall.dcinside.com/mgallery/board/view/?id=ba_e&no=22789&page=1",
+      "https://gall.dcinside.com/mgallery/board/view/?id=ba_e&no=22795&page=1",
+      "https://www.tjb.co.kr/news06/category/view/id/105073",
+      "https://www.sportschosun.com/football/2026-10-20/202610200100124760008119",
+      "https://www.newspim.com/news/view/20261020001206",
+      "https://www.reuters.com/business/energy/oil-eases-markets-assess-potential-waiver-russian-energy-middle-east-supply-2026-10-20/",
+      "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833356",
+      "https://www.newspim.com/news/view/20261020000888",
+      "https://mobile.newsis.com/view/NISX20261015_0003827660",
+      "https://www.newspim.com/news/view/20261020001218",
+      "https://mobile.newsis.com/view/NISX20261019_0003830984",
+      "https://www.news1.kr/it-science/general-science/6325719",
+      "https://www.newspim.com/news/view/20261019000026",
+      "https://www.uefa.com/uefachampionsleague/news/02aa-21dd60778d8f-1ea14fd92256-1000--champions-league-predicted-line-ups-matchday-3-team-news-/",
+      "https://www.reuters.com/business/retail-consumer/bytedance-alibaba-tencent-place-over-35-billion-worth-nvidia-chip-orders-2026-10-20/",
+      "https://www.reuters.com/business/qualcomm-cut-jobs-worldwide-performance-focused-layoffs-internal-memo-shows-2026-10-20/",
+      "https://www.reuters.com/business/google-cloud-services-largely-back-up-uk-2026-10-20/"
     ],
     "unavailable": [
-      "펨코 직접 경로는 보호 확인 미완료로 중단하고 공개 간접 색인·독립 원본만 사용했다. 개드립 수집은 HTTP403이었다.",
-      "BTP 공개 그리드의 새 표지만 확인했으며 상세 게시시각·전체 피드·Insights는 미확인이다.",
-      "장원영 훈이 가챠는 동일 동작·대화의 2025-04-30 보도가 있어 20일 재게시를 새 공개로 취급하지 않았다.",
-      "UEFA의 FIFA 서한 보도는 원문 서한·최초 공개 시각 검증이 부족해 확정 소재에서 제외했다.",
-      "추가 축구·여자아이돌 후보는 핵심 연속 장면이나 최초 공개 시각을 확인하지 못했거나 단순 팬 감상·외모·예고라 제외했다.",
-      "최원호 APBC 감독 선임·손아섭 방출은 19일 발표였고 오타니 유니폼 낙찰도 17~18일 이전 공개 정황으로 12시간 조건에서 제외했다."
+      "https://www.youtube.com/watch?v=SL4MWaOw0TY : 공식18시 공개·설명은 재확인했으나 재생 시도 후에도0:00 검은 화면; 장면 미확인.",
+      "https://news.nate.com/view/20261020n33986 : 브라우저 upstream connection timeout, 사진·본문 확인 실패.",
+      "연합뉴스 직접 경로: 검색 도구가 robots.txt 비재시도 제한을 반환해 중단; 독립 공개 보도 원문으로 전환.",
+      "더쿠 직접 후보 페이지 일부는 검색 도구 접근 오류. 검색 요약을 시청·본문 증거로 세지 않음.",
+      "BTP 그리드는 로그인 안내가 일부를 가려 표지만 확인; 상세·정확한 게시 시각·Insights는 미확인.",
+      "연합뉴스 KTX 원송고16:47은18시 검토에서 읽은 자료를 재사용; 이번 재접근은robots제한. 현재본문 재확인은 독립 후속보도에서 수행.",
+      "맨체스터이브닝뉴스 본문은402 결제 제한·Yahoo 재배포 본문은도구 오류; 원 구단 공식 공지를 브라우저에서 직접 읽음.",
+      "CNBC 경로는robots.txt 비재시도 제한; 가격·불확실성은 Reuters 독립 취재 원문으로 교차 확인 중.",
+      "https://m.sports.naver.com/general/video/1549052 : 도구에서 본문·실제 영상 열기 실패; 발견 자료로만 유지.",
+      "아이브 MV 청문회 인용 경로·스마트안경 Naver 본문은 도구 접근 오류; 독립 원문을 찾지 못한 장면은 선정하지 않음.",
+      "BTP 공개 그리드12개를 대조했으나 상세·전체 슬라이드·정확한 게시 시각·Insights는 미확인. 논술 AI안경 표지와20일 수능 세부 검사절차는 별도 사실로 구분."
     ]
   },
   "picks": [
     {
-      "title": "신입사원→아들→후계자…세라젬 창업주의 승계 선택",
-      "category": "시사",
-      "url": "https://www.yna.co.kr/view/AKR20261020068300030",
-      "source": "연합뉴스",
-      "kind": "article",
-      "event_key": "ceragem-employee-adoption-equity-succession-disclosure-20261020",
-      "why": "직장 동료에게 2003년 신입사원이 법적 가족이자 후계자가 된 실제 승계 경로를 보여줄 수 있다.",
-      "angle": "첫 장을 2003 입사→2025 입양→2026 지분 10% 증여의 세 칸으로 만든다.",
-      "why_now": "20일 회사가 가족 합의로 지난해 마친 입양과 올해 지분 증여를 확인해 공개했다. 오늘 입양한 사건으로 쓰지 않는다.",
-      "verified_at": 1792485779,
-      "published_at": 1792462020,
-      "evidence": [
-        {
-          "url": "https://www.yna.co.kr/view/AKR20261020068300030",
-          "note": "회사 관계자 취재로 이경수 대표의 2003년 입사, 지난해 성인 입양, 올해 전체 발행주식 10% 증여가 확인됐다. 회사는 가업승계 세제 혜택을 받을 규모가 아니라고 설명했다."
-        }
-      ],
-      "materials": [],
-      "caution": "입양은 2025년이다. 친딸을 내쫓았다는 식의 동기나 탈세를 추정하지 않는다. 지분 전부의 이전이 아니다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-20",
-        "observation": "유명 의료가전 기업이 전문경영인을 창업주의 법적 자녀로 받아들여 소유권 승계를 시작한 경로를 회사가 확인했다.",
-        "checked_materials": [],
-        "outline": [
-          "2003년 신입 입사·2025년 입양·2026년 지분 증여의 타임라인",
-          "대표이사 선임과 법적 가족·소유권 승계가 다른 점",
-          "증여는 전체 주식의 10%이며 회사가 밝힌 장기 승계 계획"
-        ]
-      }
-    },
-    {
-      "title": "개인정보 털렸는데 현금 대신 VIP…신한·하나의 보상안",
-      "category": "시사",
-      "url": "https://www.kmib.co.kr/article/20261020500834",
-      "source": "국민일보",
-      "kind": "article",
-      "event_key": "shinhan-hana-breach-customer-vip-insurance-compensation-20261020",
-      "why": "같은 은행을 쓰는 가족에게 현금 보상·보험 보장·수수료 우대가 어떻게 다른지 보여줄 수 있다.",
-      "angle": "첫 장에서 현금 지급 없음과 VIP·보험 지원을 나누고, 두 은행의 대상을 비교한다.",
-      "why_now": "20일 14:29 단독 보도로 두 은행의 유출 고객 전원 대상 지원 방안이 공개됐다.",
-      "verified_at": 1792485550,
-      "published_at": 1792474140,
-      "evidence": [
-        {
-          "url": "https://www.kmib.co.kr/article/20261020500834",
-          "note": "신한 약 2만5000명, 하나 89명 전원에 우대 혜택을 준다. 신한은 은행 부담 보험으로 1인당 1년 1000만원 한도 보장을 제공하며 두 은행 모두 유출 자체에 직접 현금을 주지는 않는다."
-        }
-      ],
-      "materials": [],
-      "caution": "신한 보험의 1000만원은 현금 지급액이 아니다. 같은 보장 한도를 하나은행에도 적용해 쓰지 않는다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-20",
-        "observation": "대규모 고객 정보 유출 후 두 은행이 현금 지급 대신 우대 등급·보험 중심의 지원을 택했다. 피해 고객이 실제로 받는 혜택을 구분할 필요가 있다.",
-        "checked_materials": [],
-        "outline": [
-          "현금 지급 없음 / VIP·보험 지원의 차이를 보여주는 표지",
-          "신한 약 2만5000명과 하나 89명의 우대 항목 비교",
-          "신한 보험 1년·1000만원 한도와 실제 현금 보상의 차이"
-        ]
-      }
-    },
-    {
-      "title": "표 1015장에 제시액만 7억2800만원…가을야구 암표 31명 수사 의뢰",
+      "title": "잠실 최상단에 꽂힌 김도영 만루포…25년 전 우즈 기록과 나란히",
       "category": "메이저 스포츠",
-      "url": "https://www.etoday.co.kr/news/view/2637987?trc=right_categori_news",
-      "source": "이투데이",
+      "url": "https://www.fnnews.com/news/202610201933137045",
+      "source": "파이낸셜뉴스·스타뉴스",
       "kind": "article",
-      "event_key": "kbo-postseason-ticket-scalping-31-referrals-20261020",
-      "why": "표를 못 구한 야구팬이 함께 직관 갈 친구에게 고액 판매의 규모와 경기 중 수사 전환을 보여줄 소재다.",
-      "angle": "첫 장에 입장권 1015장·제시액 7억2800만원을 놓고 실제 거래액과 구별한다.",
-      "why_now": "20일 문체부가 31명을 경찰에 수사 의뢰했다는 16:06 보도의 본문을 확인했다.",
-      "verified_at": 1792485040,
-      "published_at": 1792479960,
+      "event_key": "kim-do-young-jamsil-grand-slam-postseason-distance-record-20261020",
+      "why": "KIA·LG 팬이 친구에게 같은 잠실에서 25년 전 기록과 맞먹은 만루포와 3-0→7-0 변화를 보여줄 수 있다.",
+      "angle": "확인한 김도영 포효 사진에 ‘PS 최장 타이 145m’를 놓고 트랙맨 145.8m와 공식 기록을 구분한다.",
+      "why_now": "20일 준PO 3차전 2회초 나온 만루포로, 오늘 19:27 현장 보도와 19:38 한국어 원문에서 기록과 사진을 확인했다.",
+      "verified_at": 1792502653,
+      "published_at": 1792492020,
       "evidence": [
         {
-          "url": "https://www.etoday.co.kr/news/view/2637987?trc=right_categori_news",
-          "note": "13~19일 신고 중 제시액 합계 1000만원 이상인 31명을 선별했다. 1015장·7억2800만원은 완료 거래액이 아닌 판매 제시액이다. 온라인 노출 제한은 하루 1회에서 2회로 강화됐다."
+          "url": "https://www.fnnews.com/news/202610201933137045",
+          "note": "20일19:38 한국어 본문: 공식 145m는 2000년 계측 이후 PS 최장 타이·준PO 최장, 트랙맨 145.8m는 별도 수치."
+        },
+        {
+          "url": "https://www.starnewskorea.com/sports/2026/10/20/2026102018003923961",
+          "note": "19:27 현장 본문: 2회초 1사 만루 홈런으로 3-0→7-0. 종전 PS 기록은 2001년 타이론 우즈; 번역문에 이름 오류가 있어 한국어 원문을 확인."
         }
       ],
-      "materials": [],
-      "caution": "수사의뢰 단계다. 범죄 확정·검거·7억2800만원 수익으로 쓰지 않으며 자료사진을 암표 거래 현장으로 표시하지 않는다.",
+      "materials": [
+        {
+          "url": "https://image.fnnews.com/resource/media/image/2026/10/20/202610201931159465_l.jpg",
+          "label": "20일 만루포 뒤 포효 사진",
+          "kind": "image"
+        }
+      ],
+      "caution": "영상·배트 투척·타구 연속 프레임은 미시청. 공식 비거리 145m와 트랙맨145.8m를 혼용하지 않고 최종 승패는 별도 확인한다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-10-20",
-        "observation": "포스트시즌 진행 중 고액·다량 판매 의심자 31명이 경찰 수사의뢰 대상으로 확인됐다. 1015장에 붙은 제시액과 예매 실패 팬의 이해관계가 연결된다.",
-        "checked_materials": [],
+        "observation": "2회초 만루 홈런으로 KIA가 3-0에서 7-0으로 벌렸고, 공식145m가 2000년 이후 PS 최장 타이로 보도됐다. 당일 현장 사진에서 김도영이 양 주먹을 쥐고 포효하는 모습을 실제 확인했다.",
+        "checked_materials": [
+          "https://image.fnnews.com/resource/media/image/2026/10/20/202610201931159465_l.jpg"
+        ],
         "outline": [
-          "1015장·7억2800만원은 판매자가 부른 가격이라는 표지",
-          "13~19일 신고→31명 선별→20일 경찰 수사의뢰 순서",
-          "하루 두 차례 게시물 노출 제한과 조사 후 위법 확인 시 후속 조치"
+          "확인한 포효 사진 + ‘25년 전 PS 최장 기록과 타이’",
+          "2회초 1사 만루, 3-0→7-0이라는 확인된 변화",
+          "공식145m·트랙맨145.8m를 분리하고 2001년 우즈145m와 비교"
         ]
       }
     },
     {
-      "title": "월세만 적고 관리비는? 민간임대 신고에 관리비도 넣는다",
-      "category": "시사",
-      "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833300",
-      "source": "뉴시스",
-      "kind": "article",
-      "event_key": "private-rental-management-fee-contract-report-cabinet-20261020",
-      "why": "월세방을 구하는 친구에게 월세와 별도로 붙는 관리비도 신고 대상이 되는 변화를 알려줄 수 있다.",
-      "angle": "첫 장에서 월세만 보던 계약 비용과 관리비·사용료 산정방식까지 들어가는 신고 항목을 비교한다.",
-      "why_now": "20일 국무회의가 민간임대 임대사업자의 관리비·사용료 신고 의무를 담은 시행령 개정안을 의결했다.",
-      "verified_at": 1792485779,
-      "published_at": 1792472500,
+      "title": "코모 원정 앞둔 맨유, 훈련장에 8명 없었다…요로는 별도 징계",
+      "category": "축구",
+      "url": "https://www.manutd.com/en/news/training-update-from-carrington",
+      "source": "맨체스터 유나이티드 공식",
+      "kind": "official",
+      "event_key": "man-utd-eight-absent-training-before-como-20261020",
+      "why": "맨유 팬이 친구에게 코모전에서 수비·공격 선택지가 왜 좁아졌는지 공식 명단으로 설명할 수 있다.",
+      "angle": "구단이 밝힌 훈련 불참 8명과 별도 유럽대항전 징계 중인 요로를 나눠 놓고 ‘전원 결장 확정’과 구분한다.",
+      "why_now": "20일 영국 오전 공개 훈련 뒤 구단이 올린 새 공지를 직접 읽었다. 화면은 확인 시점 ‘3시간 전’이며 이전 리즈전 결과를 새 사건으로 바꾼 것이 아니다.",
+      "verified_at": 1792501785,
+      "published_at": null,
       "evidence": [
         {
-          "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833300",
-          "note": "민간임대주택 임대사업자가 부과하는 관리비·사용료 금액 또는 산정방식을 임대차계약 신고에 포함하도록 의결했다. 보증금을 HUG가 관리해 월세로 지급할 수 있는 업무 근거도 함께 마련했다."
+          "url": "https://www.manutd.com/en/news/training-update-from-carrington",
+          "note": "공식 본문 직접 확인: 헤븐·쇼·마르티네스·마이누·래시퍼드·셰슈코가 없었고 도르구·우가르테도 이탈 중. 요로는 유럽대항전 1경기 징계. 코모전 전원 결장은 확정하지 않았다."
         }
       ],
-      "materials": [],
-      "caution": "민간임대주택 임대사업자 대상이다. 모든 집주인에게 오늘 즉시 시행됐다고 쓰지 않는다. 구체적 시행일은 추가 확인한다.",
+      "materials": [
+        {
+          "url": "https://www.manutd.com/en/news/training-update-from-carrington",
+          "label": "20일 공식 훈련 업데이트",
+          "kind": "source"
+        }
+      ],
+      "caution": "훈련 불참과 원정 제외·경기 결장을 동일시하지 않는다. 영상은 시청하지 않았고 회견은 영국18:30 예정으로 아직 확인 전이다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-10-20",
-        "observation": "세입자의 총 주거비에 직접 영향을 주는 관리비·사용료의 금액 또는 계산 기준을 임대차 신고에 포함하는 개정안이 의결됐다.",
+        "observation": "구단은 코모전 전날 20일 공개 훈련에서 6명의 부재와 도르구·우가르테의 이탈을 알렸다. 수비수 요로는 별도로 유럽대항전 1경기 징계이며 유소년 아머·카마손이 훈련에 합류했다.",
         "checked_materials": [],
         "outline": [
-          "월세와 별도 관리비를 구분한 표지",
-          "민간임대 임대사업자가 신고할 금액·산정방식의 변화",
-          "국무회의 의결 단계와 적용 대상, 시행일 미확인 범위 표시"
+          "구단 발표에 근거한 ‘훈련 불참8명’과 ‘요로 징계’를 분리한 명단 카드",
+          "부상·질병·장기 이탈 등 본문에서 확인되는 사유만 구분",
+          "아머·카마손 합류와 코모전 일정, 경기 결장 전원 확정은 아니라는 주의"
         ]
       }
     },
     {
-      "title": "상장사 보안에 쓴 돈, 내년부터 매출 상관없이 공개한다",
+      "title": "KTX ‘예약 매크로’ 글 지운 AI전략위원…‘조회만 했다’ 해명",
       "category": "시사",
-      "url": "https://www.newsis.com/view/NISX20261020_0003832677",
-      "source": "뉴시스",
+      "url": "https://www.kado.net/news/articleView.html?idxno=2079306",
+      "source": "강원도민일보·연합뉴스",
       "kind": "article",
-      "event_key": "cybersecurity-disclosure-all-listed-companies-cabinet-20261020",
-      "why": "정보 유출을 걱정하는 지인에게 기업이 보안에 실제로 쓴 투자·인력을 비교할 공개 대상이 넓어진다고 알릴 수 있다.",
-      "angle": "첫 장을 매출 3000억원 이상→코스피·코스닥 전체(SPAC 제외)의 전후 비교로 만든다.",
-      "why_now": "20일 국무회의에서 공시 범위를 넓히는 시행령이 통과했고 2027년 1월 1일 시행이 확인됐다.",
-      "verified_at": 1792485779,
-      "published_at": 1792470729,
+      "event_key": "ai-strategy-committee-ktx-macro-deleted-post-clarification-20261020",
+      "why": "KTX 예매에 실패해 본 이용자가 친구에게 예약 공정성 문제와 당사자 해명을 함께 전달할 이유가 있다.",
+      "angle": "첫 장에 SNS의 ‘예약하기’ 표현과 ‘예약한 적 없다’는 해명을 나란히 놓고 확인된 범위를 구분한다.",
+      "why_now": "20일16:47 원송고에서 확인했던 당일 전화 해명을 독립 보도 본문으로 재확인했다. 몇 달 전 도구 제작이나 재게시 시각을 새 사실로 바꾸지 않는다.",
+      "verified_at": 1792502653,
+      "published_at": 1792482420,
       "evidence": [
         {
-          "url": "https://www.newsis.com/view/NISX20261020_0003832677",
-          "note": "상장사 매출 3000억원 기준을 폐지하고 금융·공공기관 등 기존 예외도 없앤다. 보안 투자금액·인력·인증 및 점검 이력을 공개한다. 소기업에는 2029년까지 유예한다."
+          "url": "https://www.kado.net/news/articleView.html?idxno=2079306",
+          "note": "20일 공개된 독립 보도 본문 재확인: 매크로 글 삭제와 ‘좌석 체크만, 예약은 안 했다’는 해명. 화면 상단18:10 발행일은 기사 최초 공개 시각으로 쓰지 않는다."
+        },
+        {
+          "url": "https://www.yna.co.kr/amp/view/AKR20261020138500017",
+          "note": "앞선18시 원문 검토에서16:47 송고와 당일 전화 해명을 확인한 기록을 재사용. 이번 연합뉴스 재접근은 실패했으며 현재 사실은 독립 보도 본문에서 다시 확인했다."
         }
       ],
-      "materials": [],
-      "caution": "개인정보를 공개한다는 뜻이 아니다. 해킹 방지 보장도 아니다. SPAC 제외와 소기업 2029년 적용 유예를 표시한다.",
+      "materials": [
+        {
+          "url": "https://www.kado.net/news/articleView.html?idxno=2079306",
+          "label": "매크로 글·삭제·해명 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "실제 예약·부정 예매·위법이 입증됐다고 쓰지 않는다. 미확인 SNS 캡처를 만들어 넣지 않는다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-10-20",
-        "observation": "반복되는 침해 사고 뒤 기업의 보안 투자를 외부에서 비교할 수 있는 의무 공시 범위가 전체 상장사와 기존 예외 기관으로 확대됐다.",
+        "observation": "공공 교통 예매 도구를 만들었다는 국가AI전략위원의 글이 삭제됐고 당사자는 20일 취재에 좌석 조회용이며 예약은 하지 않았다고 밝혔다. 예매 사용·규정 위반은 미확인이다.",
         "checked_materials": [],
         "outline": [
-          "3000억원 매출 기준 폐지와 전체 상장사 확대 표지",
-          "공개하는 보안 투자·인력·인증 이력 세 항목",
-          "2027년 시행과 SPAC 제외·소기업 유예의 적용 범위"
+          "‘예약하기’라는 SNS 표현 ↔ ‘예약한 적 없다’는 당일 해명을 글자로 대비",
+          "도구 제작·글 삭제·20일 전화 해명을 순서대로 정리",
+          "확인된 것은 좌석 조회 주장, 실제 예매·위반 여부는 미확인이라고 명시"
         ]
       }
     },
     {
-      "title": "우크라 공관원 일부 철수…영사 인력은 전원 남는다",
+      "title": "삼전·하이닉스도 못 버텼다…코스피 3.73% 급락, 6개월여 최저",
       "category": "시사",
-      "url": "https://www.yna.co.kr/view/AKR20261020112151504",
-      "source": "연합뉴스",
+      "url": "https://www.newspim.com/news/view/20261020000964",
+      "source": "뉴스핌·동아일보",
       "kind": "article",
-      "event_key": "ukraine-korean-embassy-partial-personnel-withdrawal-20261020",
-      "why": "우크라 체류 지인이나 외교 뉴스를 보는 친구에게 공관 축소와 재외국민 보호 유지가 함께 결정됐음을 전달할 수 있다.",
-      "angle": "첫 장에 공관원 일부 철수 / 영사 인력 전원 잔류를 나란히 놓아 실제 바뀌는 범위를 보여준다.",
-      "why_now": "20일 오후 외교부 정례브리핑에서 대사 소환 뒤 추가 인력 철수 결정이 새로 발표됐다.",
-      "verified_at": 1792485779,
-      "published_at": 1792474860,
+      "event_key": "kospi-close-5552-74-20261020",
+      "why": "삼성전자·SK하이닉스 주주가 친구에게 오늘 자신의 계좌만이 아니라 시장 전체가 얼마나 내려갔는지 보여줄 수 있다.",
+      "angle": "확인한 마감 전광판의 5,552.74·-3.73%를 첫 장에 놓고 삼전·하이닉스 하락률과 코스닥 종가를 비교한다.",
+      "why_now": "20일15:30에 확정된 종가와15:58 마감 기사 본문을 확인했다. 장중5500 하회와 종가5552.74를 구분한다.",
+      "verified_at": 1792501785,
+      "published_at": 1792479480,
       "evidence": [
         {
-          "url": "https://www.yna.co.kr/view/AKR20261020112151504",
-          "note": "외교부는 우크라 측 전향적 조치 부재와 공습 안전 문제를 이유로 일부 철수를 결정했다. 대사대리 중심 소통과 영사 인력 전원 잔류는 유지한다고 밝혔다."
+          "url": "https://www.newspim.com/news/view/20261020000964",
+          "note": "15:58 본문:코스피5552.74(-215.27·3.73%),코스닥781.97(-3.33%),삼성전자-2.98%·SK하이닉스-4.23%. 전광판 사진에서도 양 지수와 하락률을 실제 확인."
+        },
+        {
+          "url": "https://www.donga.com/news/Economy/article/all/20261020/134875431/1",
+          "note": "16:46 본문 교차 확인:종가 기준4월7일 이후6개월여 최저. 장중5500 하회와 마감5552.74를 별도 구분. 원인 설명은 기자·전문가의 해석이다."
         }
       ],
-      "materials": [],
-      "caution": "대사관 폐쇄·단교·전원 철수로 쓰지 않는다. 이전 대사 소환을 오늘 처음 발생한 일로 바꾸지 않는다.",
+      "materials": [
+        {
+          "url": "https://img.newspim.com/news/2026/10/20/261020155515459_w.jpg",
+          "label": "20일 마감 전광판 사진",
+          "kind": "image"
+        }
+      ],
+      "caution": "원인·반등·투자 수익을 단정하지 않는다. 사진 속 환율과 본문 환율의 시점이 달라 환율 수치는 카드에서 제외한다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-10-20",
-        "observation": "정부가 대사 소환에 이어 공관원 일부 철수를 결정했지만 외교 소통과 영사 보호 인력은 유지한다고 공식 설명했다.",
+        "observation": "20일 코스피는215.27포인트 하락한5552.74(-3.73%)로 마감해4월7일 이후 최저가 됐다. 실제 전광판 사진에서 코스피와 코스닥781.97(-3.33%)을 읽었고 대형 반도체주 하락도 본문으로 확인했다.",
+        "checked_materials": [
+          "https://img.newspim.com/news/2026/10/20/261020155515459_w.jpg"
+        ],
+        "outline": [
+          "실제 전광판 사진 + 코스피5552.74·-3.73%",
+          "삼성전자-2.98%·SK하이닉스-4.23%·코스닥-3.33% 비교",
+          "6개월여 최저 종가라는 범위와 장중·마감 수치 차이, 전망·매수 권유 없이 마무리"
+        ]
+      }
+    },
+    {
+      "title": "AI 안경 의심돼도 시험 끝난 뒤 검사…수능 새 대처요령의 딜레마",
+      "category": "시사",
+      "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833356",
+      "source": "뉴시스·뉴스핌",
+      "kind": "article",
+      "event_key": "csat-smart-glasses-after-period-inspection-procedure-20261020",
+      "why": "수험생과 교사가 서로에게 부정행위 방지와 시험 방해 민원이 충돌하는 구체적인 검사 절차를 알려줄 수 있다.",
+      "angle": "‘의심 발견→즉시 검사가 아닌 교시 종료·문답지 수거 뒤’라는 확인 순서를 첫 장에서 보여준다.",
+      "why_now": "20일14:23 보도에서 교육부가 시도교육청에 보낸 세부 대처요령의 검사 시점을 확인했다.15일 공개된 반입 금지·응시 제한 자체의 재소개와 구분한다.",
+      "verified_at": 1792502295,
+      "published_at": 1792473805,
+      "evidence": [
+        {
+          "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833356",
+          "note": "20일14:23 본문:시험 중 의심은 즉시 확인하지 않고 종료령·문답지 수거 뒤 검사,시험 전에는 안경을 벗어 책상 위에 놓고 점검. 판단이 어려우면 다른 감독관·본부와 협의."
+        },
+        {
+          "url": "https://www.newspim.com/news/view/20261020000888",
+          "note": "15:15 본문에서 같은 검사 순서와 전교조의 판별 기준·감독관 보호 요구를 교차 확인. 단순 의심만으로 즉시 부정행위 확정이라고 쓰지 않는다."
+        },
+        {
+          "url": "https://mobile.newsis.com/view/NISX20261015_0003827660",
+          "note": "15일 유의사항 보도는 반입 금지·시험 무효·응시 제한이 중심. 이 오래된 제재를 오늘 새로 도입한 것으로 표현하지 않는다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833356",
+          "label": "20일 세부 검사 절차 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "스마트안경이 허용된다는 뜻이 아니다. 의심과 확인을 구분하고 반입금지·시험 제재를20일 새 법률로 소개하지 않는다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-20",
+        "observation": "20일 공개 보도된 세부 대처요령은 시험 중 스마트안경 의심 시 관찰한 뒤 교시 종료·문답지 수거 후 확인하도록 했다. 시험 전 확인과는 절차가 다르며 교원단체는 판별 기준과 보호책을 요구했다.",
         "checked_materials": [],
         "outline": [
-          "일부 철수와 영사 전원 잔류를 대비한 표지",
-          "외교부가 밝힌 항의·공습 안전의 두 사유",
-          "대사대리 소통 유지와 재외국민 보호 업무의 범위"
+          "의심 발견→관찰→교시 종료·문답지 수거→검사라는 실제 절차",
+          "시험 전 확인과 시험 중 의심의 처리 시점 차이",
+          "기존 제재와 구분해 설명하고,오인·미적발을 우려하는 교원단체 요구를 입장으로 명시"
+        ]
+      }
+    },
+    {
+      "title": "로이터 “中 3사, 엔비디아 GPU 300만장 주문…납품은 불확실”",
+      "category": "시사",
+      "url": "https://www.reuters.com/business/retail-consumer/bytedance-alibaba-tencent-place-over-35-billion-worth-nvidia-chip-orders-2026-10-20/",
+      "source": "Reuters 단독 취재",
+      "kind": "article",
+      "event_key": "reuters-china-three-tech-firms-rtx-pro-5500-orders-20261020",
+      "why": "엔비디아에 관심 있는 친구에게 거대한 주문 규모와 실제 납품·매출은 다르다는 점을 보여줄 수 있다.",
+      "angle": "‘300만장 넘게 주문↔물량 확보는 미정’이라는 로이터 취재 내용을 첫 장에 대비한다.",
+      "why_now": "20일18:04KST 처음 보도된 주문 규모다. 기존 수출규제나13일 별도 회사 공시를 새 사건으로 바꾸지 않는다.",
+      "verified_at": 1792502501,
+      "published_at": 1792487040,
+      "evidence": [
+        {
+          "url": "https://www.reuters.com/business/retail-consumer/bytedance-alibaba-tencent-place-over-35-billion-worth-nvidia-chip-orders-2026-10-20/",
+          "note": "복수 관계자를 인용한 단독:바이트댄스·알리바바·텐센트가300만장 넘게 주문,표시가격 합계350억달러 이상. 납품 보장 없음. 당사자들이 주문량을 공개 확인한 발표는 아니다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.reuters.com/business/retail-consumer/bytedance-alibaba-tencent-place-over-35-billion-worth-nvidia-chip-orders-2026-10-20/",
+          "label": "주문·공급 불확실성 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "취재 보도임을 표시한다. 확정 매출·대금 수령·전량 납품·규제 우회 성공으로 쓰지 않는다. 주문량의 회사 공개 확인은 없다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-20",
+        "observation": "로이터는20일 복수 관계자 취재로 중국3사의GPU300만장 초과 주문을 처음 보도했다. 표시가격 합계는350억달러 이상이지만 공급은 보장되지 않으며 기업의 주문량 공개 확인은 없다.",
+        "checked_materials": [],
+        "outline": [
+          "‘주문300만장 초과’와 ‘납품 불확실’을 같은 장에 표시",
+          "주문·표시가격 합계·실제 매출을 구분",
+          "복수 관계자 인용 보도라는 근거와 회사 공개 확인이 없는 한계를 명시"
+        ]
+      }
+    },
+    {
+      "title": "WTI 장중 110달러…5% 급등한 유가, 만기 계약은 따로 봐야",
+      "category": "시사",
+      "url": "https://www.newspim.com/news/view/20261020001206",
+      "source": "뉴스핌·Reuters",
+      "kind": "article",
+      "event_key": "wti-november-contract-110-intraday-surge-20261020",
+      "why": "운전자·자영업자가 친구에게 오늘 급등한 원유 가격과 주유소 가격이 같은 비율로 즉시 뛰는 것은 아니라는 차이를 전달할 수 있다.",
+      "angle": "WTI11월물109.08달러·약5.2% 상승과 ‘현지20일 만기’를 같이 놓고 브렌트12월물과 구분한다.",
+      "why_now": "20일20:23 국내 보도의 새 장중 가격을 Reuters 본문의 같은 수치와 대조했다.18~19일 선박 공격이 오늘 처음 난 것처럼 쓰지 않는다.",
+      "verified_at": 1792501881,
+      "published_at": 1792495380,
+      "evidence": [
+        {
+          "url": "https://www.newspim.com/news/view/20261020001206",
+          "note": "20:23 본문:미 동부7:04 WTI11월물109.08달러(+5.23%),당일 만기. 이란의 선박 피격 주장은 별개이며 피해 규모는 미확인."
+        },
+        {
+          "url": "https://www.reuters.com/business/energy/oil-eases-markets-assess-potential-waiver-russian-energy-middle-east-supply-2026-10-20/",
+          "note": "Reuters 본문:WTI11월물 장중110·최근109.08(+5.2%),브렌트12월물은1120GMT(20:20KST)111.20(+1.5%). 새 장중 가격을 확인했으며 기사 최초00:58UTC와 구분했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.reuters.com/business/energy/oil-eases-markets-assess-potential-waiver-russian-energy-middle-east-supply-2026-10-20/",
+          "label": "만기·계약월 구분 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "주유소 가격5% 인상·공급 중단을 확정하지 않는다. 미검증 공격 주장을 사실로 쓰지 않고 만기 앞둔11월물과12월물을 혼용하지 않는다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-20",
+        "observation": "20일 보도된 새 장중 가격에서 WTI11월물은109.08달러로 약5.2% 올랐고 장중110까지 상승했다. 현지20일 만기 계약이며 브렌트12월물111.20달러(+1.5%)와 다르다.",
+        "checked_materials": [],
+        "outline": [
+          "WTI11월물109.08달러·약5.2% 상승 + ‘현지20일 만기’ 표시",
+          "브렌트12월물111.20달러·1.5% 상승과 계약월·인용 시각을 구분",
+          "선물 계약월·만기와 국내 주유소 가격을 구분하고 공격·공급 차질의 불확실성 명시"
+        ]
+      }
+    },
+    {
+      "title": "옛 LIG넥스원에 ‘입찰 제한 2년’ 결정…회사는 법적 대응 예고",
+      "category": "시사",
+      "url": "https://www.newspim.com/news/view/20261020001218",
+      "source": "뉴스핌·방위사업청 발표",
+      "kind": "article",
+      "event_key": "dapa-lig-dna-two-year-bidding-ban-decision-20261020",
+      "why": "방산주 투자자와 납세자가 친구에게 과징금 대신2년 입찰 제한이 결정됐다는 실제 제재와 회사 반박을 함께 전달할 수 있다.",
+      "angle": "‘벌금으로 끝난 것이 아니라 입찰 제한24개월’이라는 새 결정을 첫 장에 놓고 형사재판 확정과 구분한다.",
+      "why_now": "20일 오후 방위사업계약심의위원회가 제재 방식을 의결한 새 사실이20:57 보도됐다.8월 기소나13일 국감 발언의 재포장이 아니다.",
+      "verified_at": 1792502295,
+      "published_at": 1792497420,
+      "evidence": [
+        {
+          "url": "https://www.newspim.com/news/view/20261020001218",
+          "note": "20일 오후 방사청 위원회는LIG D&A에24개월 입찰참가자격 제한을 의결. 회사는 기소만으로 제재했다며 집행정지 신청 등 대응을 예고. 행정제재와 형사상 유죄 확정은 다르다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.newspim.com/news/view/20261020001218",
+          "label": "의결 내용·회사 입장 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "형사 유죄 확정·모든 계약과 수출 중단·법원의 집행정지 인용으로 쓰지 않는다. 기존 사업별 영향과 실제 효력 범위는 별도 확인한다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-20",
+        "observation": "방사청은20일 오후 심의에서 뇌물·원가 부정 사건과 관련해LIG D&A의 입찰참가자격을24개월 제한하기로 의결했다고 밝혔다. 회사는 법적 절차가 진행 중이라며 집행정지 신청 등 대응을 예고했다.",
+        "checked_materials": [],
+        "outline": [
+          "과징금 대신 입찰 제한24개월을 의결한20일 새 결정",
+          "8월 기소→13일 국감→20일 행정제재의 서로 다른 단계",
+          "회사 측 유감·집행정지 신청 예고를 함께 싣고 형사 유죄·기존 사업 영향은 별도라고 명시"
+        ]
+      }
+    },
+    {
+      "title": "그물 넘어 돌아온 부캉이…이번엔 이중 그물로 바다에 보낸다",
+      "category": "시사",
+      "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261020.99099005818",
+      "source": "국제신문·부산일보",
+      "kind": "article",
+      "event_key": "bukang-shark-third-release-operation-plan-20261020",
+      "why": "부캉이를 보러 갔거나 갈 친구에게 내일 구조 일정과 지난 실패를 보완한 방법이 무엇인지 전달할 이유가 있다.",
+      "angle": "첫 장에 ‘두 번 실패→21일 세 번째’와 본 그물·예비 그물 도식을 두고 바다 복귀가 아직 완료된 것은 아니라고 명시한다.",
+      "why_now": "20일 관계기관 회의에서21일 오후3차 구조를 결정한 새 계획과 보완 방식을17:07·18:20 원문으로 확인했다. 이전 방문객 집계의 재추천이 아니다.",
+      "verified_at": 1792502653,
+      "published_at": 1792483641,
+      "evidence": [
+        {
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261020.99099005818",
+          "note": "20일17:07 본문:21일3차 외해 유도 결정, 폰툰 고정 그물과 수심이 깊어지는 구간의 예비 그물 등 새 실행계획."
+        },
+        {
+          "url": "https://www.busan.com/view/busan/view.php?code=2026102018170424150",
+          "note": "20일18:20 본문:그물 바닥 철제 보완, 폰툰과 예비 그물, 전문 다이버 투입 계획을 교차 확인. 실행·성공은 아직 미래다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.busan.com/view/busan/view.php?code=2026102018170424150",
+          "label": "새 구조 방식·일정 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "‘방류 성공’이라고 쓰지 않는다. 이전2차 작업 사진을 오늘 장면으로 표시하거나 방문객 증가만 새 사건으로 만들지 않는다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-20",
+        "observation": "20일 관계기관은21일 오후 부캉이를 바다로 유도하기로 정했다. 기존에 그물이 걸리고 상어가 돌아온 한계를 보완하려 폰툰·바닥 철제 보완·예비 그물과 다이버를 계획했다.",
+        "checked_materials": [],
+        "outline": [
+          "두 번의 실패 뒤21일3차 구조 결정이라는 새 사실",
+          "본 그물·폰툰·예비 그물의 역할을 본문 범위에서 간단한 도식으로 설명",
+          "전문 다이버·사전 조사·방문객 안전 계획, 아직 성공 여부는 미정이라고 마무리"
+        ]
+      }
+    },
+    {
+      "title": "200m 떨어진 두 사무실서 7분 간격 화재…도주한 용의자 검거",
+      "category": "시사",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806560",
+      "source": "SBS·강원도민일보",
+      "kind": "article",
+      "event_key": "yeoksam-two-office-arson-suspect-arrest-dongmyo-20261020",
+      "why": "강남 직장인과 서울 대중교통 이용자가 연쇄방화 혐의 용의자가 잡혔다는 사실과 미확인 동기 소문을 구별해 전달할 수 있다.",
+      "angle": "피해자 사진 대신 두 건물의 신고 시각과200m 간격을 첫 장에 놓고16:16 용의자 검거까지 확인된 동선만 정리한다.",
+      "why_now": "20일16:16 동묘앞역 인근에서70대 용의자를 검거했다는 새 사실이16:37 보도로 확인됐다. 부상자 수 갱신을 별도 사건으로 만든 것이 아니다.",
+      "verified_at": 1792502653,
+      "published_at": 1792481820,
+      "evidence": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806560",
+          "note": "16:37 작성 본문:11:54·12:01 약200m 거리 두 건물 화재,16:16 동묘앞역 인근 용의자 검거. 동기·두 화재의 관계는 수사 예정."
+        },
+        {
+          "url": "https://www.kado.net/news/articleView.html?idxno=2079304",
+          "note": "두 곳 모두 특허법인 사무실이었다는 본문과 검거 시각을 교차 확인. 같은 회사인지·구체적인 분쟁 동기는 확정하지 않는다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806560",
+          "label": "용의자 검거 확인 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "혐의·수사 단계다. 같은 특허법인이라고 단정하거나 소송 보복 등 미확인 동기·유죄·피해자 신원을 덧붙이지 않는다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-20",
+        "observation": "서울 역삼동 두 건물에서7분 간격으로 발생한 화재의 방화 혐의를 받는70대가16:16 동묘앞역 인근에서 체포됐다. 경찰은 범행 동기와 두 화재 연관성을 조사할 예정이다.",
+        "checked_materials": [],
+        "outline": [
+          "신명빌딩11:54→약200m→한양빌딩12:01이라는 확인된 사실",
+          "16:16 동묘앞역 인근 용의자 체포와 지하철 도주 보도를 구분해 정리",
+          "동기·두 화재 관계는 조사 중이며 혐의가 유죄 확정을 뜻하지 않는다고 명시"
         ]
       }
     }
   ],
-  "empty_reason": "검증 6개·4개 부족. 축구·여자아이돌 추가 후보의 첫 공개 시각·핵심 장면이 미확인됐고 장원영 영상·추가 스포츠 발표는 12시간을 넘겨 제외했습니다."
+  "empty_reason": ""
 }
