@@ -5118,7 +5118,16 @@
       "ready": 6,
       "missing": 4,
       "unfinished": 3
+    },
+    {
+      "hour_utc": "2026102011",
+      "at": 1792488207,
+      "status": "researching",
+      "required": 10,
+      "ready": 0,
+      "missing": 10,
+      "unfinished": 11
     }
   ],
-  "updated_at": 1792486110
+  "updated_at": 1792488207
 }
