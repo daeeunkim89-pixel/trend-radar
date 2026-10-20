@@ -1,6 +1,618 @@
 {
   "version": 1,
   "items": {
+    "0786fbb3c801": {
+      "source": "뉴스엔·뉴시스",
+      "title": "'이혼만 4번' 농담 뒤 바로 사과한 다영…서장훈이 한 말",
+      "link": "https://www.newsen.com/news_view.php?code=100100&uid=202610192312125710",
+      "first_seen_at": 1792469995,
+      "last_seen_at": 1792469995,
+      "samples": [
+        {
+          "at": 1792469995,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "0786fbb3c801",
+      "editorial": {
+        "title": "'이혼만 4번' 농담 뒤 바로 사과한 다영…서장훈이 한 말",
+        "category": "아이돌",
+        "url": "https://www.newsen.com/news_view.php?code=100100&uid=202610192312125710",
+        "source": "뉴스엔·뉴시스",
+        "kind": "article",
+        "event_key": "dayoung-divorce-joke-apology-seo-jang-hoon-dating-war-20261019",
+        "why": "연애 때 결혼 약속을 해본 친구에게, 다영의 과장 농담→서장훈 앞 즉시 사과→당사자 답변의 순서로 보낼 장면이다.",
+        "angle": "첫 장은 '(그렇게 따지면) 이혼만 4번' 자막과 '죄송해요' 사진을 나란히 놓고, 다음 장에 서장훈의 실제 답변을 붙인다.",
+        "why_now": "19일 방송의 대화가 20일 새벽 기사와 방송 캡처로 공개됐다. 다영의 실제 이혼 고백이 아니라 연애 중 결혼 약속을 빗댄 농담이다.",
+        "verified_at": 1792467788,
+        "published_at": 1792443203,
+        "evidence": [
+          {
+            "url": "https://www.newsen.com/news_view.php?code=100100&uid=202610192312125710",
+            "note": "19일 방송에서 다영이 연애 중 결혼 이야기를 이혼에 빗댄 뒤 사과했고, 서장훈은 사과하면 자신이 더 이상해진다는 취지로 답했다고 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://photo.newsen.com/news_photo/2026/10/19/202610192312125710_1.jpg",
+            "label": "농담의 전제까지 보이는 자막",
+            "kind": "image"
+          },
+          {
+            "url": "https://photo.newsen.com/news_photo/2026/10/19/202610192312125710_2.jpg",
+            "label": "곧바로 사과한 다영",
+            "kind": "image"
+          }
+        ],
+        "caution": "실제 4회 이혼이나 서장훈을 비난한 사건으로 쓰지 않는다. 농담의 전제·당사자 답변을 보존하며 영상 시청으로 표시하지 않는다.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-19",
+          "observation": "첫 사진에는 '(그렇게 따지면) 저 벌써 이혼만 4번 했어요', 다음 사진에는 옆을 보는 다영과 '죄송해요…' 자막이 실제 보인다.",
+          "checked_materials": [
+            "https://photo.newsen.com/news_photo/2026/10/19/202610192312125710_1.jpg",
+            "https://photo.newsen.com/news_photo/2026/10/19/202610192312125710_2.jpg"
+          ],
+          "outline": [
+            "농담의 '(그렇게 따지면)' 전제와 곧바로 한 사과를 사진 2장으로 대조",
+            "연애 중 결혼 약속에 관한 대화였다는 맥락을 짧게 설명",
+            "서장훈의 '죄송해하면 내가 더 이상하다'는 보도상 답변으로 회수"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [
+          {
+            "url": "https://photo.newsen.com/news_photo/2026/10/19/202610192312125710_1.jpg",
+            "label": "농담의 전제까지 보이는 자막",
+            "kind": "image"
+          },
+          {
+            "url": "https://photo.newsen.com/news_photo/2026/10/19/202610192312125710_2.jpg",
+            "label": "곧바로 사과한 다영",
+            "kind": "image"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "농담의 전제까지 보이는 자막",
+            "url": "https://photo.newsen.com/news_photo/2026/10/19/202610192312125710_1.jpg"
+          },
+          {
+            "label": "곧바로 사과한 다영",
+            "url": "https://photo.newsen.com/news_photo/2026/10/19/202610192312125710_2.jpg"
+          }
+        ],
+        "excerpt": "",
+        "context": "19일 방송의 대화가 20일 새벽 기사와 방송 캡처로 공개됐다. 다영의 실제 이혼 고백이 아니라 연애 중 결혼 약속을 빗댄 농담이다.",
+        "fetched_at": 1792469995,
+        "parser_revision": 7
+      },
+      "curation_event_key": "dayoung-divorce-joke-apology-seo-jang-hoon-dating-war-20261019"
+    },
+    "cfb5eeebd1a2": {
+      "source": "AP·MLB",
+      "title": "누가 이겨도 구단 첫 우승…탬파베이·밀워키 월드시리즈 대진 확정",
+      "link": "https://apnews.com/article/guardians-rays-score-alcs-game-6-e727b3a485df7dbf0dd866edbff9b22a",
+      "first_seen_at": 1792469995,
+      "last_seen_at": 1792469995,
+      "samples": [
+        {
+          "at": 1792469995,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "cfb5eeebd1a2",
+      "editorial": {
+        "title": "누가 이겨도 구단 첫 우승…탬파베이·밀워키 월드시리즈 대진 확정",
+        "category": "메이저 스포츠",
+        "url": "https://apnews.com/article/guardians-rays-score-alcs-game-6-e727b3a485df7dbf0dd866edbff9b22a",
+        "source": "AP·MLB",
+        "kind": "article",
+        "event_key": "alcs-game6-rays-guardians-world-series-berth-20261019",
+        "why": "우승 반지가 없는 두 팀이 마지막에 남았다는 구도를 야구 팬이 함께 볼 친구에게 보내기 좋다.",
+        "angle": "두 구단 로고 아래 우승 0회→0회를 놓고, 이번 시리즈가 끝나면 한 팀은 반드시 1회가 된다는 대비로 시작한다.",
+        "why_now": "미국 19일 ALCS 6차전 탬파베이 진출로 상대가 확정됐으며, 16일 밀워키 단독 진출 추천과 다른 새 사실이다.",
+        "verified_at": 1792467788,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://apnews.com/article/guardians-rays-score-alcs-game-6-e727b3a485df7dbf0dd866edbff9b22a",
+            "note": "탬파베이의 ALCS 6차전 7-3 승리와 양 팀 모두 첫 월드시리즈 우승 도전임을 본문에서 확인했다."
+          },
+          {
+            "url": "https://www.mlb.com/news/2026-mlb-playoff-and-world-series-schedule",
+            "note": "확정 대진과 1차전 현지 23일 오후 8시 편성을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://apnews.com/article/guardians-rays-score-alcs-game-6-e727b3a485df7dbf0dd866edbff9b22a",
+            "label": "대진 확정 원문",
+            "kind": "source"
+          },
+          {
+            "url": "https://www.mlb.com/news/2026-mlb-playoff-and-world-series-schedule",
+            "label": "MLB 공식 일정",
+            "kind": "source"
+          }
+        ],
+        "caution": "미국 현지 19일 경기다. 우승팀은 아직 결정되지 않았고 경기 영상을 본 추천이 아니다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-19",
+          "observation": "탬파베이 진출로 양 팀 모두 구단 첫 우승을 노리는 월드시리즈가 확정됐다.",
+          "checked_materials": [],
+          "outline": [
+            "탬파베이·밀워키 우승 0회 대 0회 카드",
+            "탬파베이 ALCS 진출 확정과 대진 설명",
+            "한국시간 24일 오전 9시 1차전 안내"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "대진 확정 원문",
+            "url": "https://apnews.com/article/guardians-rays-score-alcs-game-6-e727b3a485df7dbf0dd866edbff9b22a"
+          },
+          {
+            "label": "MLB 공식 일정",
+            "url": "https://www.mlb.com/news/2026-mlb-playoff-and-world-series-schedule"
+          }
+        ],
+        "excerpt": "",
+        "context": "미국 19일 ALCS 6차전 탬파베이 진출로 상대가 확정됐으며, 16일 밀워키 단독 진출 추천과 다른 새 사실이다.",
+        "fetched_at": 1792469995,
+        "parser_revision": 7
+      },
+      "curation_event_key": "alcs-game6-rays-guardians-world-series-berth-20261019"
+    },
+    "94c9de92cbaf": {
+      "source": "MBC 뉴스데스크",
+      "title": "국산 비만약 ‘에페’, 20일 출하 예고…‘13만원’은 환자 결제액이 아니다",
+      "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6859117_37005.html",
+      "first_seen_at": 1792469995,
+      "last_seen_at": 1792469995,
+      "samples": [
+        {
+          "at": 1792469995,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "94c9de92cbaf",
+      "editorial": {
+        "title": "국산 비만약 ‘에페’, 20일 출하 예고…‘13만원’은 환자 결제액이 아니다",
+        "category": "시사",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6859117_37005.html",
+        "source": "MBC 뉴스데스크",
+        "kind": "article",
+        "event_key": "hanmi-eppe-oct20-factory-shipment-schedule-disclosure-20261019",
+        "why": "비만약 비용 때문에 고민하는 지인에게 실제 공급 일정과 소비자가가 다른 이유를 함께 전달할 수 있다.",
+        "angle": "‘20일 공장 출하 예정’과 ‘첫 달 공급가 약 13만원≠최종 결제액’을 첫 장에서 분리한다.",
+        "why_now": "19일 뉴스데스크가 20일 공장 출하와 이르면 다음 주 처방 일정을 보도했다; 14일 가격 전망만 재포장하지 않는다.",
+        "verified_at": 1792467788,
+        "published_at": 1792409220,
+        "evidence": [
+          {
+            "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6859117_37005.html",
+            "note": "19일 20:27 보도 본문에서 다음 날 공장 출하 시작·이르면 다음 주 처방 예정이라고 확인했다; 실제 출하 완료나 전 약국 재고는 확인하지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6859117_37005.html",
+            "label": "출하 일정 보도",
+            "kind": "source"
+          }
+        ],
+        "caution": "출하·처방은 예정 일정이다. 전 약국 판매 중·환자 월 13만원 확정·기존 약값 인하 확정으로 쓰지 말고 복용을 권하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-19",
+          "observation": "수입약 위주의 비만 치료 시장에 국내 개발 GLP-1 신약의 실제 공급 일정이 구체화됐다; 공급가와 환자 부담액, 허가와 출하를 구분해 사실 카드 제작이 가능하다.",
+          "checked_materials": [],
+          "outline": [
+            "7일 허가→20일 공장 출하 예정→이르면 다음 주 처방의 단계 표시",
+            "첫 달 예상 공급가 12만9800원과 최종 환자 부담액이 다름을 명시",
+            "약국별 공급·처방 및 기존 제품 가격 인하는 미확정이라고 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "출하 일정 보도",
+            "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6859117_37005.html"
+          }
+        ],
+        "excerpt": "",
+        "context": "19일 뉴스데스크가 20일 공장 출하와 이르면 다음 주 처방 일정을 보도했다; 14일 가격 전망만 재포장하지 않는다.",
+        "fetched_at": 1792469995,
+        "parser_revision": 7
+      },
+      "curation_event_key": "hanmi-eppe-oct20-factory-shipment-schedule-disclosure-20261019"
+    },
+    "1e17d05d2baf": {
+      "source": "MBC",
+      "title": "긴급자금 2000억 확보했는데…홈플러스, 밀린 8월 월급 또 연기",
+      "link": "https://imnews.imbc.com/news/2026/econo/article/6858942_36932.html",
+      "first_seen_at": 1792469995,
+      "last_seen_at": 1792469995,
+      "samples": [
+        {
+          "at": 1792469995,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "1e17d05d2baf",
+      "editorial": {
+        "title": "긴급자금 2000억 확보했는데…홈플러스, 밀린 8월 월급 또 연기",
+        "category": "시사",
+        "url": "https://imnews.imbc.com/news/2026/econo/article/6858942_36932.html",
+        "source": "MBC",
+        "kind": "article",
+        "event_key": "homeplus-august-wage-payment-postponement-after-funding-20261019",
+        "why": "대형 유통업체에서 일하는 지인에게 자금 확보 소식과 실제 월급 지급 사이의 간극을 구체적인 일정 변경으로 전할 소재다.",
+        "angle": "첫 장은 '긴급자금 2000억 확보↔8월 급여 또 연기', 다음 장은 21일 예정에서 23일 25%·30일 75%로 바뀐 계획.",
+        "why_now": "19일 보도된 회사 공문에서 밀린 급여의 지급 계획 변경과 재공지 단서를 확인했다. 기존 회생 소식 자체를 반복하는 게 아니다.",
+        "verified_at": 1792467788,
+        "published_at": 1792376760,
+        "evidence": [
+          {
+            "url": "https://imnews.imbc.com/news/2026/econo/article/6858942_36932.html",
+            "note": "MBC가 확인한 공문은 21일 예정 급여를 23일 25%·30일 75%로 나누고 자금 사정을 고려해 재공지한다고 설명한다. 긴급운영자금 2000억 확보와 노조 반응도 보도했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://imnews.imbc.com/news/2026/econo/article/6858942_36932.html",
+            "label": "회사 공문 확인 보도",
+            "kind": "source"
+          }
+        ],
+        "caution": "23·30일은 조건부 지급 계획이며 이미 입금됐다고 쓰지 않는다. 자금 유용·횡령이나 전 직원의 개별 체불액을 추정하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-19",
+          "observation": "회사 공문을 확인한 19일 보도는 긴급운영자금 확보 후에도 8월 급여 지급 일정을 다시 미루고 자금 사정에 따른 재공지 단서를 붙였다고 전한다.",
+          "checked_materials": [],
+          "outline": [
+            "자금 확보와 밀린 급여의 대비를 금액·월 표시로 명확히 제시",
+            "21일 예정→23일 25%·30일 75%의 계획 변경표",
+            "자금 사정에 따른 재공지 단서와 노조의 생계 우려를 출처별로 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "회사 공문 확인 보도",
+            "url": "https://imnews.imbc.com/news/2026/econo/article/6858942_36932.html"
+          }
+        ],
+        "excerpt": "",
+        "context": "19일 보도된 회사 공문에서 밀린 급여의 지급 계획 변경과 재공지 단서를 확인했다. 기존 회생 소식 자체를 반복하는 게 아니다.",
+        "fetched_at": 1792469995,
+        "parser_revision": 7
+      },
+      "curation_event_key": "homeplus-august-wage-payment-postponement-after-funding-20261019"
+    },
+    "d21e0f89d536": {
+      "source": "CBS 노컷뉴스",
+      "title": "대표팀 셔틀콕 17박스 반출…전 감독 5년·전 코치 1년 징계 보도",
+      "link": "https://www.nocutnews.co.kr/news/6593927",
+      "first_seen_at": 1792469995,
+      "last_seen_at": 1792469995,
+      "samples": [
+        {
+          "at": 1792469995,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "d21e0f89d536",
+      "editorial": {
+        "title": "대표팀 셔틀콕 17박스 반출…전 감독 5년·전 코치 1년 징계 보도",
+        "category": "메이저 스포츠",
+        "url": "https://www.nocutnews.co.kr/news/6593927",
+        "source": "CBS 노컷뉴스",
+        "kind": "article",
+        "event_key": "badminton-national-team-equipment-removal-sanctions-disclosure-20261020",
+        "why": "국가대표 훈련용 물품이 어떻게 빠져나갔고 지도자 책임은 어떻게 갈렸는지 배드민턴 팬이 함께 따져볼 사안이다.",
+        "angle": "선수들이 쓰는 셔틀콕 17박스와 전 감독 5년·전 코치 1년의 징계 차이를 한 장에 놓는다.",
+        "why_now": "20일 09:57 협회·당사자 취재로 반출과 징계 경과가 새 보도됐다. 반출은 2025년 1월, 코치 감경은 이달 8일이다.",
+        "verified_at": 1792467788,
+        "published_at": 1792457820,
+        "evidence": [
+          {
+            "url": "https://www.nocutnews.co.kr/news/6593927",
+            "note": "협회 설명과 전 코치 인터뷰를 포함한 본문에서 반출 17박스, 감독 5년 확정·코치 재심 1년, 물품 반환과 형사처분의 차이를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.nocutnews.co.kr/news/6593927",
+            "label": "협회·당사자 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "보도상 익명 A·B를 임의 실명화하지 않는다. 감독 기소유예·코치 무혐의와 스포츠 징계를 구별하고 확정 유죄·절도범으로 쓰지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-20",
+          "observation": "대표팀 물품 반출과 징계 경과가 새 공개됐고, 현재 물품 증빙 관리 강화까지 협회가 설명했다.",
+          "checked_materials": [],
+          "outline": [
+            "국가대표 셔틀콕 17박스 반출과 징계 5년·1년 카드",
+            "2025년 반출→물품 반환→올해 징계 경과",
+            "형사처분과 스포츠 징계의 차이 및 코치 반론"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "협회·당사자 취재",
+            "url": "https://www.nocutnews.co.kr/news/6593927"
+          }
+        ],
+        "excerpt": "",
+        "context": "20일 09:57 협회·당사자 취재로 반출과 징계 경과가 새 보도됐다. 반출은 2025년 1월, 코치 감경은 이달 8일이다.",
+        "fetched_at": 1792469995,
+        "parser_revision": 7
+      },
+      "curation_event_key": "badminton-national-team-equipment-removal-sanctions-disclosure-20261020"
+    },
+    "e90466ee92ad": {
+      "source": "연합뉴스",
+      "title": "23명 숨진 아리셀 참사…대표 형량 15년→4년, 대법원도 유지",
+      "link": "https://www.yna.co.kr/view/AKR20261020060051004",
+      "first_seen_at": 1792469995,
+      "last_seen_at": 1792469995,
+      "samples": [
+        {
+          "at": 1792469995,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "e90466ee92ad",
+      "editorial": {
+        "title": "23명 숨진 아리셀 참사…대표 형량 15년→4년, 대법원도 유지",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261020060051004",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "aricell-park-soon-kwan-supreme-court-four-year-sentence-20261020",
+        "why": "같은 참사에서 대표 형량이 왜 크게 달라졌는지 산업현장에서 일하는 친구에게 판단 근거와 함께 보낼 사안이다.",
+        "angle": "1심 15년→2심 4년→대법 확정의 세 숫자를 첫 장에 놓고 다음 카드에서 쟁점과 남은 유죄를 설명한다.",
+        "why_now": "2024년 사고의 재보도가 아니라 20일 대법원이 징역 4년을 확정한 새 판결이다.",
+        "verified_at": 1792468311,
+        "published_at": 1792461000,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261020060051004",
+            "note": "20일 대법원 확정과 1심 15년·항소심 4년, 비상구 의무 부분 판단 변화, 안전·보건 확보의무 위반 유죄가 유지됨을 실제 본문에서 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261020060051004",
+            "label": "확정 판결 설명 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "대법원이 15년을 직접 4년으로 깎았다고 쓰지 않는다. 전부 무죄가 아니며 사고일·자료사진 날짜를 오늘로 바꾸지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-20",
+          "observation": "근로자 23명이 숨진 사고의 경영책임자에 대한 형량이 대법원에서 최종 확정됐다. 항소심의 일부 무죄 판단과 유죄 유지 범위가 구분된다.",
+          "checked_materials": [],
+          "outline": [
+            "1심 15년→2심 4년→대법 확정 타임라인",
+            "비상구 관련 의무 판단 변화와 유지된 안전·보건 의무 위반",
+            "2024년 사고와 2026년 판결 날짜를 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확정 판결 설명 원문",
+            "url": "https://www.yna.co.kr/view/AKR20261020060051004"
+          }
+        ],
+        "excerpt": "",
+        "context": "2024년 사고의 재보도가 아니라 20일 대법원이 징역 4년을 확정한 새 판결이다.",
+        "fetched_at": 1792469995,
+        "parser_revision": 7
+      },
+      "curation_event_key": "aricell-park-soon-kwan-supreme-court-four-year-sentence-20261020"
+    },
+    "4bf4c9d4ec5e": {
+      "source": "복지부 보도자료·서울Pn",
+      "title": "숙박앱에 올라왔다고 합법 숙소는 아니다…11월 12일부터 신고증 확인 의무",
+      "link": "https://go.seoul.co.kr/news/prnewsView.php?id=452267",
+      "first_seen_at": 1792469995,
+      "last_seen_at": 1792469995,
+      "samples": [
+        {
+          "at": 1792469995,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "4bf4c9d4ec5e",
+      "editorial": {
+        "title": "숙박앱에 올라왔다고 합법 숙소는 아니다…11월 12일부터 신고증 확인 의무",
+        "category": "시사",
+        "url": "https://go.seoul.co.kr/news/prnewsView.php?id=452267",
+        "source": "복지부 보도자료·서울Pn",
+        "kind": "article",
+        "event_key": "mohw-unregistered-lodging-platform-check-fine-announcement-20261019",
+        "why": "숙박앱으로 여행을 예약하는 친구에게 기존 등록 숙소도 다시 확인해야 하는 전국 공통 변화를 알려줄 수 있다.",
+        "angle": "‘앱에 등록된 숙소’와 ‘영업신고가 확인된 숙소’를 나누고 11월 12일 시행 날짜를 크게 놓는다.",
+        "why_now": "19일 공개한 시행 준비 안내를 20일 재확인했다. 11월 12일부터 새 상품뿐 아니라 기존 숙박상품의 신고 여부도 확인 대상이다.",
+        "verified_at": 1792468385,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://go.seoul.co.kr/news/prnewsView.php?id=452267",
+            "note": "복지부 보도자료 재게시 본문에서 11월 12일 신고증 확인·미확인 상품 중개 제한, 기존 상품도 확인 대상, 중개자 위반 과태료 500만원을 재확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://go.seoul.co.kr/news/prnewsView.php?id=452267",
+            "label": "정부 보도자료 재게시",
+            "kind": "source"
+          }
+        ],
+        "caution": "과태료 대상은 위반한 중개자이며 이용자가 아니다. 모든 민박·에어비앤비가 금지되거나 기존 예약이 자동 취소된다고 확대하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-19",
+          "observation": "온라인 숙박 중개자의 영업신고증 확인과 미확인 상품 중개 제한이 의무화되며 기존 등록 상품에도 적용된다는 전국적 제도 변화를 공식 원문으로 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "앱 등록만으로 적법한 영업이 확인된 것은 아니라는 전후 비교",
+            "11월 12일부터 신고증 미확인 상품은 중개 제한, 기존 등록 상품도 재확인",
+            "위반 중개자 과태료 500만원과 이용자 과태료가 아니라는 설명"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "정부 보도자료 재게시",
+            "url": "https://go.seoul.co.kr/news/prnewsView.php?id=452267"
+          }
+        ],
+        "excerpt": "",
+        "context": "19일 공개한 시행 준비 안내를 20일 재확인했다. 11월 12일부터 새 상품뿐 아니라 기존 숙박상품의 신고 여부도 확인 대상이다.",
+        "fetched_at": 1792469995,
+        "parser_revision": 7
+      },
+      "curation_event_key": "mohw-unregistered-lodging-platform-check-fine-announcement-20261019"
+    },
+    "30024cdc4d2f": {
+      "source": "MBC",
+      "title": "선수 FA만 억대가 아니다…이강철, 감독 역대 최고 3년 34억",
+      "link": "https://imnews.imbc.com/news/2026/sports/article/6859004_36947.html",
+      "first_seen_at": 1792469995,
+      "last_seen_at": 1792469995,
+      "samples": [
+        {
+          "at": 1792469995,
+          "views": null,
+          "reactions": null,
+          "rank": 8,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "30024cdc4d2f",
+      "editorial": {
+        "title": "선수 FA만 억대가 아니다…이강철, 감독 역대 최고 3년 34억",
+        "category": "메이저 스포츠",
+        "url": "https://imnews.imbc.com/news/2026/sports/article/6859004_36947.html",
+        "source": "MBC",
+        "kind": "article",
+        "event_key": "lee-kang-chul-kt-record-manager-contract-3years-3point4billion-20261019",
+        "why": "KBO 팬에게 선수 연봉뿐 아니라 감독 시장의 최고 보장액도 바뀌었다는 돈·우승 보상의 비교를 전할 소재다.",
+        "angle": "첫 장은 염경엽 3년 30억→이강철 3년 34억, 다음 장은 계약금 10억+연봉 8억×3년의 전액 보장 구조.",
+        "why_now": "19일 KT가 정규시즌 우승 감독의 새 계약을 발표했다. 일상 경기 결과가 아닌 KBO 감독 계약 최고액의 확정 변화다.",
+        "verified_at": 1792467788,
+        "published_at": 1792389480,
+        "evidence": [
+          {
+            "url": "https://imnews.imbc.com/news/2026/sports/article/6859004_36947.html",
+            "note": "KT 발표 인용으로 3년 총액 34억원 전액 보장, 계약금 10억원·연봉 8억원과 기존 염경엽 3년 30억원을 넘은 사실을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://imnews.imbc.com/news/2026/sports/article/6859004_36947.html",
+            "label": "계약 발표 인용 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "34억원은 3년 총액이며 연봉·우승 상금이 아니다. 선수 FA와 같은 계약 제도라고 표현하거나 장기 누적액을 임의 합산하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-19",
+          "observation": "KT는 3년 총액 34억원을 모두 보장하는 재계약을 발표했다. MBC는 종전 염경엽의 3년 30억원을 넘은 감독 역대 최고 대우라고 보도했다.",
+          "checked_materials": [],
+          "outline": [
+            "같은 3년 기준 30억과 34억을 비교한 사실 카드",
+            "계약금 10억+연봉 8억×3년=34억 구조 표시",
+            "정규시즌 우승 뒤 KT와 네 번째 계약이라는 배경만 덧붙이기"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "계약 발표 인용 원문",
+            "url": "https://imnews.imbc.com/news/2026/sports/article/6859004_36947.html"
+          }
+        ],
+        "excerpt": "",
+        "context": "19일 KT가 정규시즌 우승 감독의 새 계약을 발표했다. 일상 경기 결과가 아닌 KBO 감독 계약 최고액의 확정 변화다.",
+        "fetched_at": 1792469995,
+        "parser_revision": 7
+      },
+      "curation_event_key": "lee-kang-chul-kt-record-manager-contract-3years-3point4billion-20261019"
+    },
     "896374f32955": {
       "source": "스타뉴스",
       "title": "공구는 성공했는데 질문했다가 혼났다…전소미의 2000명 단톡방",
@@ -153580,238 +154192,7 @@
         "published_at": "2026-10-17T11:38:26+09:00",
         "checked_at": 1792213362
       }
-    },
-    "b15999a47946": {
-      "source": "네이버 뉴스",
-      "title": "경유 위기에 흔들리는 세계‥경유는 어떻게 세계의 발목을 잡았나? [기후인사이트 48 | 인싸M]",
-      "link": "https://n.news.naver.com/article/214/0001529657",
-      "first_seen_at": 1792213362,
-      "last_seen_at": 1792213362,
-      "samples": [
-        {
-          "at": 1792213362,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "b15999a47946",
-      "detail": {
-        "excerpt": "이란 남부 반다르아바스 인근 호르무즈 해협에서 심하게 기울어진 채 침몰한 선박. (2026년…",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://imgnews.pstatic.net/image/214/2026/10/17/0001529657_001_20261017095815347.jpg?type=w800"
-          }
-        ],
-        "published_at": "2026-10-17T09:52:03+09:00",
-        "checked_at": 1792213362
-      }
-    },
-    "bd55d6a1fb5b": {
-      "source": "네이버 뉴스",
-      "title": "이 대통령, 부천 소방관 순직에 \"참담한 마음‥헌신 깊이 새기겠다\"",
-      "link": "https://n.news.naver.com/article/214/0001529661",
-      "first_seen_at": 1792213362,
-      "last_seen_at": 1792213362,
-      "samples": [
-        {
-          "at": 1792213362,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "bd55d6a1fb5b",
-      "detail": {
-        "excerpt": "이재명 대통령이 부천 공장 화재로 순직한 소방관에 대해 \"참담한 마음\"이라며 고인을 애도하고 처우 개선을 약속했습니다.…",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://imgnews.pstatic.net/image/214/2026/10/17/0001529661_001_20261017104111719.jpg?type=w800"
-          }
-        ],
-        "published_at": "2026-10-17T10:33:31+09:00",
-        "checked_at": 1792213362
-      }
-    },
-    "373f6e27a1c9": {
-      "source": "네이버 뉴스",
-      "title": "트럼프 \"현대, 조지아주에 7천486억 투자 방금 발표\"",
-      "link": "https://n.news.naver.com/article/214/0001529652",
-      "first_seen_at": 1792213362,
-      "last_seen_at": 1792213362,
-      "samples": [
-        {
-          "at": 1792213362,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "6b7d709aa8b9",
-      "detail": {
-        "excerpt": "도널드 트럼프 미국 대통령은 현대자동차가 조지아주 웨스트포인트에 있는 공장을 확장하기 위해 5억 6천만 달러, 우리 돈 약…",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://imgnews.pstatic.net/image/214/2026/10/17/0001529652_001_20261017084110804.jpg?type=w800"
-          }
-        ],
-        "published_at": "2026-10-17T08:16:35+09:00",
-        "checked_at": 1792213362
-      }
-    },
-    "715827e18259": {
-      "source": "네이버 뉴스",
-      "title": "“부모님 돌아가셔도 폰 해지 마라”…자식들이 놓치는 2가지",
-      "link": "https://n.news.naver.com/article/025/0003558497",
-      "first_seen_at": 1792213362,
-      "last_seen_at": 1792213362,
-      "samples": [
-        {
-          "at": 1792213362,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "715827e18259",
-      "detail": {
-        "excerpt": "김범진 장례지도사. 강정현 기자 \" “죽고 나면 다 소용없다” “죽고 나면 끝이다” 이런 말 많이 하잖아요. 그런데…",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://imgnews.pstatic.net/image/025/2026/10/17/0003558497_001_20261017062824544.jpg?type=w800"
-          }
-        ],
-        "published_at": "2026-10-17T06:00:00+09:00",
-        "checked_at": 1792213362
-      }
-    },
-    "3c6ea6b0cc56": {
-      "source": "네이버 뉴스",
-      "title": "“잠깐이라도 찾아와줘 고마워”…유산 소식 전한 류이서 눈물",
-      "link": "https://n.news.naver.com/article/025/0003558536",
-      "first_seen_at": 1792213362,
-      "last_seen_at": 1792213362,
-      "samples": [
-        {
-          "at": 1792213362,
-          "views": null,
-          "reactions": null,
-          "rank": 8,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "3c6ea6b0cc56",
-      "detail": {
-        "excerpt": "인플루언서 류이서. 사진 유튜브 캡처 가수 전진과 아내 류이서 부부가 시험관 시술 끝에 임신에 성공했지만 7주 만에…",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://imgnews.pstatic.net/image/025/2026/10/17/0003558536_001_20261017103417570.jpg?type=w800"
-          }
-        ],
-        "published_at": "2026-10-17T10:21:21+09:00",
-        "checked_at": 1792213362
-      }
-    },
-    "003e46c10883": {
-      "source": "네이버 뉴스",
-      "title": "대선 땐 한 배 탔는데…범여권 5인, 대통령에 등 돌린 이유",
-      "link": "https://n.news.naver.com/article/025/0003558513",
-      "first_seen_at": 1792213362,
-      "last_seen_at": 1792213362,
-      "samples": [
-        {
-          "at": 1792213362,
-          "views": null,
-          "reactions": null,
-          "rank": 9,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "003e46c10883",
-      "detail": {
-        "excerpt": "━ 범여권 선거연합의 균열 이재명 대통령과 범여권 5인의 거리 지난해 대선에서 이재명 대통령의 당선을…",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://imgnews.pstatic.net/image/025/2026/10/17/0003558513_001_20261017070111863.jpg?type=w800"
-          }
-        ],
-        "published_at": "2026-10-17T07:00:00+09:00",
-        "checked_at": 1792213362
-      }
-    },
-    "1f1d98f3224b": {
-      "source": "네이버 뉴스",
-      "title": "“규모 9.9” 역대급 경보에 인터넷 마비…日 뒤흔든 ‘지진 오보’",
-      "link": "https://n.news.naver.com/article/025/0003558544",
-      "first_seen_at": 1792213362,
-      "last_seen_at": 1792213362,
-      "samples": [
-        {
-          "at": 1792213362,
-          "views": null,
-          "reactions": null,
-          "rank": 10,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "1f1d98f3224b",
-      "detail": {
-        "excerpt": "일본 도쿄 기상청 청사. 사진 유튜브 캡처 일본 기상청이 16일 러시아 캄차카반도 인근에서 발생한 규모…",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://imgnews.pstatic.net/image/025/2026/10/17/0003558544_001_20261017115508381.jpg?type=w800"
-          }
-        ],
-        "published_at": "2026-10-17T11:47:59+09:00",
-        "checked_at": 1792213362
-      }
-    },
-    "017dc1e5a827": {
-      "source": "디시 실베",
-      "title": "[중갤] 미쳐버린 AI 포켓몬 게임 근황이우",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=470997",
-      "first_seen_at": 1792213362,
-      "last_seen_at": 1792213362,
-      "samples": [
-        {
-          "at": 1792213362,
-          "views": 328,
-          "reactions": 1,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "017dc1e5a827",
-      "detail": {
-        "excerpt": "포켓몬 아레나 포켓몬 메가봉크 포켓몬 서바이버 포켓몬 오토체스 포켓몬 포팅, 개조 출처: 중세게임 갤러리 [원본 보기]",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://dcimg2.dcinside.co.kr/viewimage.php?id=29bed223f6c6&no=24b0d769e1d32ca73fe782fa1bd62531a13348e18cc3373747ac8a2a2ef888e3b9e6dbd61062d2d4baf80c32e7e744f55c358b645fd4a2f0c814db3f492d869ced6f"
-          }
-        ],
-        "checked_at": 1792213362
-      }
     }
   },
-  "updated_at": 1792449546
+  "updated_at": 1792469995
 }
