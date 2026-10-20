@@ -1,59 +1,79 @@
 {
-  "updated_at": 1792486056,
+  "updated_at": 1792504801,
   "status": "ok",
   "errors": {},
   "report": {
     "version": "btp-editorial-v10",
     "delivery": "sent",
     "messages": 1,
-    "stories": 6,
+    "stories": 10,
     "duplicates_excluded": 0,
     "ai": "chatgpt_web_research",
-    "missing": 4,
-    "target_met": false,
-    "shortfall_reason": "검증 6개·4개 부족. 축구·여자아이돌 추가 후보의 첫 공개 시각·핵심 장면이 미확인됐고 장원영 영상·추가 스포츠 발표는 12시간을 넘겨 제외했습니다.",
+    "missing": 0,
+    "target_met": true,
+    "shortfall_reason": "",
     "requested_stories": 10,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026102008",
+    "hour_utc": "2026102014",
     "category_counts": {
-      "시사": 5,
-      "축구": 0,
+      "시사": 8,
+      "축구": 1,
       "메이저 스포츠": 1,
       "아이돌": 0
     },
-    "research_queries": 40,
-    "opened_sources": 13,
+    "research_queries": 39,
+    "opened_sources": 40,
     "picks": [
       {
-        "title": "신입사원→아들→후계자…세라젬 창업주의 승계 선택",
-        "url": "https://www.yna.co.kr/view/AKR20261020068300030",
-        "event_key": "ceragem-employee-adoption-equity-succession-disclosure-20261020"
+        "title": "잠실 최상단에 꽂힌 김도영 만루포…25년 전 우즈 기록과 나란히",
+        "url": "https://www.fnnews.com/news/202610201933137045",
+        "event_key": "kim-do-young-jamsil-grand-slam-postseason-distance-record-20261020"
       },
       {
-        "title": "개인정보 털렸는데 현금 대신 VIP…신한·하나의 보상안",
-        "url": "https://www.kmib.co.kr/article/20261020500834",
-        "event_key": "shinhan-hana-breach-customer-vip-insurance-compensation-20261020"
+        "title": "코모 원정 앞둔 맨유, 훈련장에 8명 없었다…요로는 별도 징계",
+        "url": "https://www.manutd.com/en/news/training-update-from-carrington",
+        "event_key": "man-utd-eight-absent-training-before-como-20261020"
       },
       {
-        "title": "표 1015장에 제시액만 7억2800만원…가을야구 암표 31명 수사 의뢰",
-        "url": "https://www.etoday.co.kr/news/view/2637987?trc=right_categori_news",
-        "event_key": "kbo-postseason-ticket-scalping-31-referrals-20261020"
+        "title": "KTX ‘예약 매크로’ 글 지운 AI전략위원…‘조회만 했다’ 해명",
+        "url": "https://www.kado.net/news/articleView.html?idxno=2079306",
+        "event_key": "ai-strategy-committee-ktx-macro-deleted-post-clarification-20261020"
       },
       {
-        "title": "월세만 적고 관리비는? 민간임대 신고에 관리비도 넣는다",
-        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833300",
-        "event_key": "private-rental-management-fee-contract-report-cabinet-20261020"
+        "title": "삼전·하이닉스도 못 버텼다…코스피 3.73% 급락, 6개월여 최저",
+        "url": "https://www.newspim.com/news/view/20261020000964",
+        "event_key": "kospi-close-5552-74-20261020"
       },
       {
-        "title": "상장사 보안에 쓴 돈, 내년부터 매출 상관없이 공개한다",
-        "url": "https://www.newsis.com/view/NISX20261020_0003832677",
-        "event_key": "cybersecurity-disclosure-all-listed-companies-cabinet-20261020"
+        "title": "AI 안경 의심돼도 시험 끝난 뒤 검사…수능 새 대처요령의 딜레마",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833356",
+        "event_key": "csat-smart-glasses-after-period-inspection-procedure-20261020"
       },
       {
-        "title": "우크라 공관원 일부 철수…영사 인력은 전원 남는다",
-        "url": "https://www.yna.co.kr/view/AKR20261020112151504",
-        "event_key": "ukraine-korean-embassy-partial-personnel-withdrawal-20261020"
+        "title": "로이터 “中 3사, 엔비디아 GPU 300만장 주문…납품은 불확실”",
+        "url": "https://www.reuters.com/business/retail-consumer/bytedance-alibaba-tencent-place-over-35-billion-worth-nvidia-chip-orders-2026-10-20/",
+        "event_key": "reuters-china-three-tech-firms-rtx-pro-5500-orders-20261020"
+      },
+      {
+        "title": "WTI 장중 110달러…5% 급등한 유가, 만기 계약은 따로 봐야",
+        "url": "https://www.newspim.com/news/view/20261020001206",
+        "event_key": "wti-november-contract-110-intraday-surge-20261020"
+      },
+      {
+        "title": "옛 LIG넥스원에 ‘입찰 제한 2년’ 결정…회사는 법적 대응 예고",
+        "url": "https://www.newspim.com/news/view/20261020001218",
+        "event_key": "dapa-lig-dna-two-year-bidding-ban-decision-20261020"
+      },
+      {
+        "title": "그물 넘어 돌아온 부캉이…이번엔 이중 그물로 바다에 보낸다",
+        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261020.99099005818",
+        "event_key": "bukang-shark-third-release-operation-plan-20261020"
+      },
+      {
+        "title": "200m 떨어진 두 사무실서 7분 간격 화재…도주한 용의자 검거",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806560",
+        "event_key": "yeoksam-two-office-arson-suspect-arrest-dongmyo-20261020"
       }
     ]
   }
