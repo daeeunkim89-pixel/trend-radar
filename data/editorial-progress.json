@@ -2,6 +2,355 @@
   "version": 1,
   "items": [
     {
+      "event_key": "brentford-rooftop-projectile-police-referral-20261019",
+      "url": "https://x.com/Footballtweet/status/2112208383969300951",
+      "title": "옥상에서 경기장으로 날아든 럭비공…브렌트퍼드 경찰 수사 협조",
+      "category": "축구",
+      "status": "needs_visual",
+      "note": "독립 X FootballTweet 본문은 확인했고 재생 후 2.8초 공중에 떠 있는 공 프레임만 보았다. 추가 재생·전체 화면은 로그인 창으로 막혔다. 발로 차는 순간·지붕 충돌 결과를 실제로 못 보았으므로 준비 수에 넣지 않음.",
+      "next_action": "같은 X 로그인 경로·차단된 Reddit/Gazzetta를 반복하지 말고, 새로 공개된 구단/방송 연속 프레임이 있을 때만 확인",
+      "recorded_at": 1792456647
+    },
+    {
+      "event_key": "knotted-donut-mochi-rice-cake-wording-change-20261020",
+      "url": "https://theqoo.net/square/4381064452",
+      "title": "노티드 도넛모찌→도넛찹쌀떡 표기 변경",
+      "category": "시사",
+      "status": "needs_date",
+      "note": "20일 08:49 공개 글의 전후 캡처를 실제 화면에서 읽었다. 같은 7종과 20일 잠실점 안내가 있고 모찌→찹쌀떡 문구는 바뀌었지만 공식 게시물 URL·변경 시각·피드백이 원인이라는 근거는 미확인이다.",
+      "next_action": "cafeknotted_kr 공식 원 공지와 수정 시각 확인. 피드백 인과·날짜가 확인 안 되면 추천 제외; 전후 캡처만으로 단정하지 않기",
+      "recorded_at": 1792456647
+    },
+    {
+      "event_key": "man-utd-mixed-zone-interview-restrictions-leeds-20261018",
+      "url": "https://www.sportschosun.com/football/2026-10-20/202610200100122700007968",
+      "title": "브루노 ‘말할 허락이 없다’ 맨유 믹스트존 인터뷰 제한",
+      "category": "축구",
+      "status": "needs_facts",
+      "note": "검색에 구체적 발언·18일 리즈전 이후 제한 보도가 있지만 본문 열기는 실패했다. 모든 인터뷰 금지·마르티네스 발언과 직접 인과는 독립 취재 원문으로 확인하지 않았다.",
+      "next_action": "사무엘 럭허스트 현장 취재 원문 또는 구단 공식 확인을 한 차례 확인; 미확인 금지령을 확정 뉴스로 쓰지 않기",
+      "recorded_at": 1792456647
+    },
+    {
+      "event_key": "hanmi-eppe-oct20-factory-shipment-schedule-disclosure-20261019",
+      "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6859117_37005.html",
+      "title": "국산 비만약 ‘에페’, 20일 출하 예고…‘13만원’은 환자 결제액이 아니다",
+      "category": "시사",
+      "status": "reviewed",
+      "recorded_at": 1792456647,
+      "pick": {
+        "title": "국산 비만약 ‘에페’, 20일 출하 예고…‘13만원’은 환자 결제액이 아니다",
+        "category": "시사",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6859117_37005.html",
+        "source": "MBC 뉴스데스크",
+        "kind": "article",
+        "event_key": "hanmi-eppe-oct20-factory-shipment-schedule-disclosure-20261019",
+        "why": "비만약 비용 때문에 고민하는 지인에게 실제 공급 일정과 소비자가가 다른 이유를 함께 전달할 수 있다.",
+        "angle": "‘20일 공장 출하 예정’과 ‘첫 달 공급가 약 13만원≠최종 결제액’을 첫 장에서 분리한다.",
+        "why_now": "19일 뉴스데스크가 20일 공장 출하와 이르면 다음 주 처방 일정을 보도했다; 14일 가격 전망만 재포장하지 않는다.",
+        "verified_at": 1792456533,
+        "published_at": 1792409220,
+        "evidence": [
+          {
+            "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6859117_37005.html",
+            "note": "19일 20:27 보도 본문에서 다음 날 공장 출하 시작·이르면 다음 주 처방 예정이라고 확인했다; 실제 출하 완료나 전 약국 재고는 확인하지 않았다."
+          },
+          {
+            "url": "https://www.yna.co.kr/amp/view/AKR20261014164800017",
+            "note": "첫 4주 예상 공급가 12만9800원이며, 이후 용량에 따라 공급가가 달라지고 환자 부담액은 진료·처방 환경에 따라 다르다는 한미약품 설명을 확인했다."
+          },
+          {
+            "url": "https://www.hanmi.co.kr/about/news-media/press/detail-5083.hm",
+            "note": "7일 식약처 시판허가를 받았고 자체 개발한 GLP-1 계열 신약이라는 회사 발표를 확인했다; 허가일과 실제 공급 일정을 구별한다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6859117_37005.html",
+            "label": "출하 일정 보도",
+            "kind": "source"
+          },
+          {
+            "url": "https://www.hanmi.co.kr/about/news-media/press/detail-5083.hm",
+            "label": "개발사 허가 발표",
+            "kind": "source"
+          }
+        ],
+        "caution": "출하·처방은 예정 일정이다. 전 약국 판매 중·환자 월 13만원 확정·기존 약값 인하 확정으로 쓰지 말고 복용을 권하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-19",
+          "observation": "수입약 위주의 비만 치료 시장에 국내 개발 GLP-1 신약의 실제 공급 일정이 구체화됐다; 공급가와 환자 부담액, 허가와 출하를 구분해 사실 카드 제작이 가능하다.",
+          "checked_materials": [],
+          "outline": [
+            "7일 허가→20일 공장 출하 예정→이르면 다음 주 처방의 단계 표시",
+            "첫 달 예상 공급가 12만9800원과 최종 환자 부담액이 다름을 명시",
+            "약국별 공급·처방 및 기존 제품 가격 인하는 미확정이라고 정리"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "2026년 10월 20일 여자아이돌 다영 해원 장원영 화제 더쿠",
+          "2026년 10월 20일 축구 김민재 무리뉴 맨유 인터뷰 제한",
+          "Brentford rugby ball rooftop Stan Sport Football Tweet October 19 2026",
+          "October 19 2026 ALCS game 6 Rays Guardians latest",
+          "site:theqoo.net \"2026.10.20\" \"여돌\"",
+          "\"맨유\" \"인터뷰 제한\" \"리산드로\"",
+          "\"브렌트퍼드\" \"럭비공\" \"2026\"",
+          "site:theqoo.net/square \"2026.10.20\" 아이돌",
+          "site:instiz.net \"2026.10.20\" 장원영",
+          "site:x.com \"Brentford\" \"rugby\" \"2026\"",
+          "\"노티드\" \"도넛찹쌀떡\"",
+          "\"Manchester United\" \"not allowed\" \"Martinez\" \"October 2026\"",
+          "\"2026.10.20\" \"시행\" \"전국\" 뉴스",
+          "노티드 도넛 모찌 찹쌀떡 피드백 10월 20일",
+          "맨유 브루노 인터뷰 금지 19일 마르티네스",
+          "여자아이돌 10월20일 예능 말실수 반응",
+          "\"cafeknotted_kr\" \"도넛\" \"찹쌀떡\"",
+          "\"노티드\" \"피드백\" \"모찌\"",
+          "국산 비만약 에페 판매 임박 2026 10 20",
+          "site:hanmi.co.kr 에페 10월 20일 출하",
+          "\"에페\" \"출하\" \"20일\"",
+          "\"영업신고증 없는 숙박\" \"2026\"",
+          "\"여자\" \"아이돌\" \"2026-10-20\" \"사과\"",
+          "\"블랙핑크\" \"2026.10.20\"",
+          "\"한미약품\" \"에페\" \"출하\"",
+          "\"미나미\" \"서예\" \"팬미팅\"",
+          "한미약품 에페오토인젝터주 품목허가 공식 2026"
+        ],
+        "opened_urls": [
+          "https://www.instagram.com/bythepulse/",
+          "https://x.com/Footballtweet/status/2112208383969300951",
+          "https://theqoo.net/square",
+          "https://theqoo.net/square?filter_mode=hot",
+          "https://theqoo.net/square/4381064452",
+          "https://imnews.imbc.com/replay/2026/nwdesk/article/6859117_37005.html",
+          "https://www.yna.co.kr/amp/view/AKR20261014164800017",
+          "https://www.hanmi.co.kr/about/news-media/press/detail-5083.hm",
+          "https://mohw.go.kr/board.es?act=view&bid=0027&list_no=1492259&mid=a10503000000",
+          "https://www.instagram.com/reel/DejWs5-JwIu/",
+          "https://bwajuma.club/talk/548"
+        ],
+        "unavailable": [
+          "https://www.instagram.com/bythepulse/ 가입 안내가 일부 표지를 가림; 최근 전체 피드·상세·게시 시각 미확인",
+          "https://x.com/Footballtweet/status/2112208383969300951 2.8초 공중 비행 프레임만 확인, 이후 재생이 로그인 창으로 막힘; 발사·충돌 연속 장면 미확인",
+          "instiz.net robots.txt 접근 제한",
+          "https://www.sportschosun.com/football/2026-10-20/202610200100122700007968 본문 열기 실패",
+          "https://sports.yahoo.com/articles/brentford-contact-police-dangerous-rugby-215950396.html 본문 열기 실패",
+          "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99520 본문 열기 실패",
+          "https://tribuna.com/amp/en/news/2026-10-19-manchester-united-silence-squad-in-mixed-zone-following-lisandro-martinez-outburst/ 본문 열기 실패",
+          "https://bbs.ruliweb.com/community/board/300143/read/77086251 본문 열기 실패"
+        ]
+      }
+    },
+    {
+      "event_key": "mohw-unregistered-lodging-platform-check-fine-announcement-20261019",
+      "url": "https://mohw.go.kr/board.es?act=view&bid=0027&list_no=1492259&mid=a10503000000",
+      "title": "숙박앱에 올라왔다고 합법 숙소는 아니다…11월 12일부터 신고증 확인 의무",
+      "category": "시사",
+      "status": "reviewed",
+      "recorded_at": 1792456647,
+      "pick": {
+        "title": "숙박앱에 올라왔다고 합법 숙소는 아니다…11월 12일부터 신고증 확인 의무",
+        "category": "시사",
+        "url": "https://mohw.go.kr/board.es?act=view&bid=0027&list_no=1492259&mid=a10503000000",
+        "source": "보건복지부",
+        "kind": "official",
+        "event_key": "mohw-unregistered-lodging-platform-check-fine-announcement-20261019",
+        "why": "숙박앱으로 여행을 예약하는 친구에게 기존 등록 숙소도 다시 확인해야 하는 전국 공통 변화를 알려줄 수 있다.",
+        "angle": "‘앱에 등록된 숙소’와 ‘영업신고가 확인된 숙소’를 나누고 11월 12일 시행 날짜를 크게 놓는다.",
+        "why_now": "복지부가 19일 발표한 개정 시행령은 20일 공포·11월 12일 시행 예정이며, 기존 등록 상품과 연계 노출 플랫폼도 적용 대상으로 명시했다.",
+        "verified_at": 1792456533,
+        "published_at": 1792379100,
+        "evidence": [
+          {
+            "url": "https://mohw.go.kr/board.es?act=view&bid=0027&list_no=1492259&mid=a10503000000",
+            "note": "19일 12:05 공개된 공식 보도자료 본문에서 미확인 숙박상품 중개 제한, 위반 중개자 과태료 500만원, 기존 등록 상품 재확인과 OTA·연계 플랫폼 적용 범위를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://mohw.go.kr/board.es?act=view&bid=0027&list_no=1492259&mid=a10503000000",
+            "label": "복지부 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "과태료 대상은 위반한 중개자이며 이용자가 아니다. 모든 민박·에어비앤비가 금지되거나 기존 예약이 자동 취소된다고 확대하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-19",
+          "observation": "온라인 숙박 중개자의 영업신고증 확인과 미확인 상품 중개 제한이 의무화되며 기존 등록 상품에도 적용된다는 전국적 제도 변화를 공식 원문으로 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "앱 등록만으로 적법한 영업이 확인된 것은 아니라는 전후 비교",
+            "11월 12일부터 신고증 미확인 상품은 중개 제한, 기존 등록 상품도 재확인",
+            "위반 중개자 과태료 500만원과 이용자 과태료가 아니라는 설명"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "2026년 10월 20일 여자아이돌 다영 해원 장원영 화제 더쿠",
+          "2026년 10월 20일 축구 김민재 무리뉴 맨유 인터뷰 제한",
+          "Brentford rugby ball rooftop Stan Sport Football Tweet October 19 2026",
+          "October 19 2026 ALCS game 6 Rays Guardians latest",
+          "site:theqoo.net \"2026.10.20\" \"여돌\"",
+          "\"맨유\" \"인터뷰 제한\" \"리산드로\"",
+          "\"브렌트퍼드\" \"럭비공\" \"2026\"",
+          "site:theqoo.net/square \"2026.10.20\" 아이돌",
+          "site:instiz.net \"2026.10.20\" 장원영",
+          "site:x.com \"Brentford\" \"rugby\" \"2026\"",
+          "\"노티드\" \"도넛찹쌀떡\"",
+          "\"Manchester United\" \"not allowed\" \"Martinez\" \"October 2026\"",
+          "\"2026.10.20\" \"시행\" \"전국\" 뉴스",
+          "노티드 도넛 모찌 찹쌀떡 피드백 10월 20일",
+          "맨유 브루노 인터뷰 금지 19일 마르티네스",
+          "여자아이돌 10월20일 예능 말실수 반응",
+          "\"cafeknotted_kr\" \"도넛\" \"찹쌀떡\"",
+          "\"노티드\" \"피드백\" \"모찌\"",
+          "국산 비만약 에페 판매 임박 2026 10 20",
+          "site:hanmi.co.kr 에페 10월 20일 출하",
+          "\"에페\" \"출하\" \"20일\"",
+          "\"영업신고증 없는 숙박\" \"2026\"",
+          "\"여자\" \"아이돌\" \"2026-10-20\" \"사과\"",
+          "\"블랙핑크\" \"2026.10.20\"",
+          "\"한미약품\" \"에페\" \"출하\"",
+          "\"미나미\" \"서예\" \"팬미팅\"",
+          "한미약품 에페오토인젝터주 품목허가 공식 2026"
+        ],
+        "opened_urls": [
+          "https://www.instagram.com/bythepulse/",
+          "https://x.com/Footballtweet/status/2112208383969300951",
+          "https://theqoo.net/square",
+          "https://theqoo.net/square?filter_mode=hot",
+          "https://theqoo.net/square/4381064452",
+          "https://imnews.imbc.com/replay/2026/nwdesk/article/6859117_37005.html",
+          "https://www.yna.co.kr/amp/view/AKR20261014164800017",
+          "https://www.hanmi.co.kr/about/news-media/press/detail-5083.hm",
+          "https://mohw.go.kr/board.es?act=view&bid=0027&list_no=1492259&mid=a10503000000",
+          "https://www.instagram.com/reel/DejWs5-JwIu/",
+          "https://bwajuma.club/talk/548"
+        ],
+        "unavailable": [
+          "https://www.instagram.com/bythepulse/ 가입 안내가 일부 표지를 가림; 최근 전체 피드·상세·게시 시각 미확인",
+          "https://x.com/Footballtweet/status/2112208383969300951 2.8초 공중 비행 프레임만 확인, 이후 재생이 로그인 창으로 막힘; 발사·충돌 연속 장면 미확인",
+          "instiz.net robots.txt 접근 제한",
+          "https://www.sportschosun.com/football/2026-10-20/202610200100122700007968 본문 열기 실패",
+          "https://sports.yahoo.com/articles/brentford-contact-police-dangerous-rugby-215950396.html 본문 열기 실패",
+          "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99520 본문 열기 실패",
+          "https://tribuna.com/amp/en/news/2026-10-19-manchester-united-silence-squad-in-mixed-zone-following-lisandro-martinez-outburst/ 본문 열기 실패",
+          "https://bbs.ruliweb.com/community/board/300143/read/77086251 본문 열기 실패"
+        ]
+      }
+    },
+    {
+      "event_key": "minami-calligraphy-teacher-oct25-korea-thanksgiving-announcement-20261016",
+      "url": "https://www.instagram.com/reel/DejWs5-JwIu/",
+      "title": "미나미가 아니라 선생님 팬미팅…장소는 ‘한국 친정집’ 성형외과 로비",
+      "category": "아이돌",
+      "status": "reviewed",
+      "recorded_at": 1792456647,
+      "pick": {
+        "title": "미나미가 아니라 선생님 팬미팅…장소는 ‘한국 친정집’ 성형외과 로비",
+        "category": "아이돌",
+        "url": "https://www.instagram.com/reel/DejWs5-JwIu/",
+        "source": "츠나데 선생님 Instagram",
+        "kind": "social",
+        "event_key": "minami-calligraphy-teacher-oct25-korea-thanksgiving-announcement-20261016",
+        "why": "리센느 미나미의 선생님을 아는 친구에게, 제자 대신 선생님이 성형외과 로비에서 감사제를 연다는 구체적인 역전을 보여줄 수 있다.",
+        "angle": "공식 공지의 ‘저의 제자 미나미’와 ‘한국 친정집=NANA성형외과 1층 로비’를 나란히 놓는다.",
+        "why_now": "16일 올라온 원 공지를 확인했으며 행사는 아직 열리기 전인 25일 예정이다; 20일 재유통을 새 발표일로 바꾸지 않는다.",
+        "verified_at": 1792456540,
+        "published_at": 1792147804,
+        "evidence": [
+          {
+            "url": "https://www.instagram.com/reel/DejWs5-JwIu/",
+            "note": "실제 공개 본문에서 10월 25일 압구정로데오 NANA성형외과 1층 로비 CHAPTER 3 감사제, 무료 참가·서예 작품 선물·악수·사진 계획과 네 계정 팔로우 후 신청 조건을 확인했다."
+          },
+          {
+            "url": "https://bwajuma.club/talk/548",
+            "note": "10월 16일 작성된 공개 팬 커뮤니티 글이 같은 원 공지와 행사 장소를 연결한다. 서예 선생님의 원 공지를 발견·교차 확인한 자료이며 행사 개최 완료 증거가 아니다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.instagram.com/reel/DejWs5-JwIu/",
+            "label": "선생님 실제 공지 영상",
+            "kind": "video"
+          }
+        ],
+        "caution": "행사는 25일 예정이며 미나미·리센느 참석은 확인되지 않았다. 참가 무료와 팔로우·신청 조건을 함께 표시하고 미용시술을 권하지 않는다.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-16",
+          "observation": "원 공지 영상을 재생해 붓으로 색을 올리는 장면과 완성된 서예 작품 프레임을 확인했고, 옆 본문에서 선생님 본인의 한국 감사제와 성형외과 로비 장소를 확인했다.",
+          "checked_materials": [
+            "https://www.instagram.com/reel/DejWs5-JwIu/"
+          ],
+          "outline": [
+            "원 공지의 ‘제자 미나미’와 선생님 본인의 감사제 문구 제시",
+            "서예 작품 제작 프레임과 ‘한국 친정집’이라고 소개한 성형외과 로비 장소 병치",
+            "25일 예정·무료/신청 조건과 미나미 참석 미확인 표시"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "2026년 10월 20일 여자아이돌 다영 해원 장원영 화제 더쿠",
+          "2026년 10월 20일 축구 김민재 무리뉴 맨유 인터뷰 제한",
+          "Brentford rugby ball rooftop Stan Sport Football Tweet October 19 2026",
+          "October 19 2026 ALCS game 6 Rays Guardians latest",
+          "site:theqoo.net \"2026.10.20\" \"여돌\"",
+          "\"맨유\" \"인터뷰 제한\" \"리산드로\"",
+          "\"브렌트퍼드\" \"럭비공\" \"2026\"",
+          "site:theqoo.net/square \"2026.10.20\" 아이돌",
+          "site:instiz.net \"2026.10.20\" 장원영",
+          "site:x.com \"Brentford\" \"rugby\" \"2026\"",
+          "\"노티드\" \"도넛찹쌀떡\"",
+          "\"Manchester United\" \"not allowed\" \"Martinez\" \"October 2026\"",
+          "\"2026.10.20\" \"시행\" \"전국\" 뉴스",
+          "노티드 도넛 모찌 찹쌀떡 피드백 10월 20일",
+          "맨유 브루노 인터뷰 금지 19일 마르티네스",
+          "여자아이돌 10월20일 예능 말실수 반응",
+          "\"cafeknotted_kr\" \"도넛\" \"찹쌀떡\"",
+          "\"노티드\" \"피드백\" \"모찌\"",
+          "국산 비만약 에페 판매 임박 2026 10 20",
+          "site:hanmi.co.kr 에페 10월 20일 출하",
+          "\"에페\" \"출하\" \"20일\"",
+          "\"영업신고증 없는 숙박\" \"2026\"",
+          "\"여자\" \"아이돌\" \"2026-10-20\" \"사과\"",
+          "\"블랙핑크\" \"2026.10.20\"",
+          "\"한미약품\" \"에페\" \"출하\"",
+          "\"미나미\" \"서예\" \"팬미팅\"",
+          "한미약품 에페오토인젝터주 품목허가 공식 2026"
+        ],
+        "opened_urls": [
+          "https://www.instagram.com/bythepulse/",
+          "https://x.com/Footballtweet/status/2112208383969300951",
+          "https://theqoo.net/square",
+          "https://theqoo.net/square?filter_mode=hot",
+          "https://theqoo.net/square/4381064452",
+          "https://imnews.imbc.com/replay/2026/nwdesk/article/6859117_37005.html",
+          "https://www.yna.co.kr/amp/view/AKR20261014164800017",
+          "https://www.hanmi.co.kr/about/news-media/press/detail-5083.hm",
+          "https://mohw.go.kr/board.es?act=view&bid=0027&list_no=1492259&mid=a10503000000",
+          "https://www.instagram.com/reel/DejWs5-JwIu/",
+          "https://bwajuma.club/talk/548"
+        ],
+        "unavailable": [
+          "https://www.instagram.com/bythepulse/ 가입 안내가 일부 표지를 가림; 최근 전체 피드·상세·게시 시각 미확인",
+          "https://x.com/Footballtweet/status/2112208383969300951 2.8초 공중 비행 프레임만 확인, 이후 재생이 로그인 창으로 막힘; 발사·충돌 연속 장면 미확인",
+          "instiz.net robots.txt 접근 제한",
+          "https://www.sportschosun.com/football/2026-10-20/202610200100122700007968 본문 열기 실패",
+          "https://sports.yahoo.com/articles/brentford-contact-police-dangerous-rugby-215950396.html 본문 열기 실패",
+          "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99520 본문 열기 실패",
+          "https://tribuna.com/amp/en/news/2026-10-19-manchester-united-silence-squad-in-mixed-zone-following-lisandro-martinez-outburst/ 본문 열기 실패",
+          "https://bbs.ruliweb.com/community/board/300143/read/77086251 본문 열기 실패"
+        ]
+      }
+    },
+    {
       "event_key": "lee-seung-woo-volley-assist-thiago-jeju-20261018",
       "url": "https://www.kleague.com/video_view.do?seq=52762051&category=goal&listType=tile&searchWord=&orderType=&page=1&leagueId=&club=K05",
       "title": "이승우 발리 도움→티아고 60분 결승골",
@@ -19,16 +368,6 @@
       "status": "rejected",
       "note": "19일 감사 결과 본문을 다시 확인했으나 공개 sent 이력 2026101905와 같은 사건이다. 새 사이트·재수집으로 신규 처리하지 않는다.",
       "next_action": "중대한 별도 후속 사실이 없으면 동일 event_key로 계속 제외.",
-      "recorded_at": 1792453114
-    },
-    {
-      "event_key": "brentford-rooftop-projectile-police-referral-20261019",
-      "url": "https://www.brentfordfc.com/en/news/club-news-statement-brentford-v-liverpool-premier-league-17-10-2026",
-      "title": "옥상에서 경기장으로 날아든 럭비공…브렌트퍼드 경찰 수사 협조",
-      "category": "축구",
-      "status": "needs_visual",
-      "note": "17일 사건·19일 구단 공식 성명과 Reuters 사실은 확인. Reddit 영상은 network security 차단으로 핵심 발차기·공의 도착 장면을 못 봤다. 경기장 지붕 접촉과 관중·피치 도착을 구분해야 한다. 독립 Gazzetta 경로도 쿠키 안내가 남아 재생 확인 불가.",
-      "next_action": "Reddit 차단·Gazzetta 쿠키 경로는 반복하지 말고 구단·경찰·독립 공개 영상의 발차기→도착 연속 화면 확보. 현재는 needs_visual 유지.",
       "recorded_at": 1792453114
     },
     {
@@ -3815,13 +4154,13 @@
     },
     {
       "hour_utc": "2026102002",
-      "at": 1792456250,
+      "at": 1792456647,
       "status": "researching",
       "required": 10,
-      "ready": 4,
-      "missing": 6,
-      "unfinished": 7
+      "ready": 7,
+      "missing": 3,
+      "unfinished": 9
     }
   ],
-  "updated_at": 1792456250
+  "updated_at": 1792456647
 }
