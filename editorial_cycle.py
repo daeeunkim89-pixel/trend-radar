@@ -35,8 +35,7 @@ def plan_cycle(now, state=None, request=None, status=None, history=None, candida
         hour = hourly_key(target)[7:]
         if report.get("hour_utc") == hour and target <= updated < target + 3600:
             if report.get("delivery") in {"sent", "already_sent", "uncertain"}:
-                locks[hour] = (report["delivery"] if report.get("stories") == 10
-                               and report.get("messages") == 1 else "partial_or_uncertain")
+                locks[hour] = (report["delivery"] if report.get("messages") == 1 else "partial_or_uncertain")
     if status.get("status") == "delivery_uncertain":
         locks[status.get("hour_utc")] = "uncertain"
     if request.get("hour_utc") not in locks:

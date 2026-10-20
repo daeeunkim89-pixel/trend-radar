@@ -284,43 +284,47 @@ class EditorialEditionTests(unittest.TestCase):
         self.assertEqual(report_request.run(request_path, HOUR + 3600, sender, self.path), 2)
         sender.assert_not_called()
         private = PrivateState("synthetic-token", "-123456", self.directory / "manual.enc")
-        client = Mock()
+        client = Mock(send=Mock(return_value=125))
         with patch.object(c.time, "time", return_value=NOW), patch.object(c, "load_history", return_value=EMPTY), \
                 patch.object(c, "TelegramClient", return_value=client), patch.object(c, "PrivateState", return_value=private), \
                 patch.object(c, "unreported_stories", return_value=[]), patch.object(c, "atomic_json"):
             self.assertEqual(c.main(recover_hour=HOUR_TEXT, picks_file=self.path,
                                     expected_sha256=digest, user_requested=True), 0)
-            client.send.assert_not_called()
+            client.send.assert_called_once()
+            self.assertIn("0개", client.send.call_args.args[0])
 
-    def test_underfilled_review_never_opens_transport_or_overwrites_confirmed_send(self):
+    def test_underfilled_review_sends_actual_count_and_shortfall_once(self):
         for count in (0, 4, 6, 9):
             with self.subTest(count=count):
                 self.write(edition([pick(i) for i in range(count)]))
+                private = PrivateState("synthetic-token", "-123456", self.directory / f"partial-{count}.enc")
+                client = Mock(send=Mock(return_value=123))
                 with patch.object(c.time, "time", return_value=NOW), patch.object(c, "load_history", return_value=EMPTY), \
-                        patch.object(c, "TelegramClient") as client, patch.object(c, "PrivateState") as private, \
+                        patch.object(c, "TelegramClient", return_value=client), patch.object(c, "PrivateState", return_value=private), \
                         patch.object(c, "atomic_json") as write:
-                    self.assertEqual(c.main(recover_hour=HOUR_TEXT, picks_file=self.path), 2)
-                    client.assert_not_called(); private.assert_not_called()
-                    attempt = [call.args[1] for call in write.call_args_list if call.args[0] == c.ATTEMPT_FILE][0]
-                    self.assertEqual(attempt["status"], "insufficient_new_material")
-                    self.assertEqual(attempt["ready"], count)
-                    self.assertEqual(attempt["missing"], 10 - count)
-                    self.assertFalse(any(call.args[0] == c.STATE_FILE for call in write.call_args_list))
+                    self.assertEqual(c.main(recover_hour=HOUR_TEXT, picks_file=self.path), 0)
+                    client.send.assert_called_once()
+                    saved = [call.args[1]["report"] for call in write.call_args_list if call.args[0] == c.STATE_FILE][0]
+                    self.assertEqual((saved["stories"], saved["missing"], saved["messages"]), (count, 10-count, 1))
+                    self.assertFalse(saved["target_met"])
+                    self.assertTrue(private.data["reports"][hourly_key(HOUR)]["done"])
+                    self.assertEqual(c.main(recover_hour=HOUR_TEXT, picks_file=self.path), 0)
+                    client.send.assert_called_once()
 
-    def test_duplicate_filter_shortfall_does_not_reserve_hour_or_send_partial_message(self):
+    def test_duplicate_filter_shortfall_sends_only_new_material_and_seals_hour(self):
         self.write(edition([pick(i) for i in range(13)]))
         private = PrivateState("synthetic-token", "-123456", self.directory / "shortfall.enc")
-        client = Mock()
+        client = Mock(send=Mock(return_value=124))
         with patch.object(c.time, "time", return_value=NOW), patch.object(c, "load_history", return_value=EMPTY), \
                 patch.object(c, "TelegramClient", return_value=client), patch.object(c, "PrivateState", return_value=private), \
                 patch.object(c, "unreported_stories", side_effect=lambda stories, *args: stories[4:]), \
                 patch.object(c, "atomic_json") as write:
-            self.assertEqual(c.main(recover_hour=HOUR_TEXT, picks_file=self.path), 2)
-            client.send.assert_not_called()
-            self.assertNotIn(hourly_key(HOUR), private.data["reports"])
+            self.assertEqual(c.main(recover_hour=HOUR_TEXT, picks_file=self.path), 0)
+            client.send.assert_called_once()
+            self.assertTrue(private.data["reports"][hourly_key(HOUR)]["done"])
             attempt = [call.args[1] for call in write.call_args_list if call.args[0] == c.ATTEMPT_FILE][0]
             self.assertEqual((attempt["ready"], attempt["missing"], attempt["duplicates_excluded"]), (9, 1, 4))
-            self.assertFalse(any(call.args[0] == c.STATE_FILE for call in write.call_args_list))
+            self.assertEqual(attempt["status"], "sent")
 
     def test_review_expiring_while_waiting_for_the_hour_cannot_be_sent(self):
         self.write(edition([pick(i) for i in range(10)]))
@@ -353,7 +357,7 @@ class EditorialEditionTests(unittest.TestCase):
         parts = c.render_edition([], HOUR, reviewed["empty_reason"])
         self.assertEqual(len(parts), 1)
         self.assertNotIn('<a href="', parts[0])
-        self.assertIn("강하게 추천할 새 소재는 없습니다", parts[0])
+        self.assertIn("검증을 마친 새 소재: 0개", parts[0])
 
     def test_prepared_request_is_bound_to_content_and_only_imminent_hour(self):
         target = HOUR + 3600
@@ -391,6 +395,3 @@ class EditorialEditionTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-
-
-

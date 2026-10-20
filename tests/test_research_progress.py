@@ -79,8 +79,9 @@ class ResearchContinuityTests(unittest.TestCase):
                              ("research_incomplete", 0, 10, 1))
             self.assertEqual(saved["items"][0]["next_action"], note()["next_action"])
             self.assertNotIn("pick", saved["items"][0])
-            with self.assertRaises(ValueError):
-                progress.save_progress(path, "2026101902", NOW, {}, stage="submitted")
+            submitted = progress.save_progress(path, "2026101902", NOW, {}, stage="submitted")
+            self.assertEqual(submitted["status"], "submitted")
+            self.assertEqual(submitted["missing"], 10)
             with self.assertRaises(ValueError):
                 progress.save_progress(path, "2026101902", NOW, {}, [dict(note(), status="reviewed")])
 

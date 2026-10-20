@@ -109,7 +109,7 @@ def save_progress(path, hour, now, history, notes=(), edition=None, stage=None):
     status = stage or ("review_complete" if summary["reviewed_available"] >= 10 else "research_incomplete")
     if status not in {"researching", "research_incomplete", "review_complete", "submitted"}:
         raise ValueError("Research progress cannot claim Telegram delivery")
-    if status in {"review_complete", "submitted"} and summary["missing"]:
+    if status == "review_complete" and summary["missing"]:
         raise ValueError("Fewer than ten fresh, not-publicly-sent reviews")
     attempt = {"hour_utc": hour, "at": now, "status": status, "required": 10,
                "ready": summary["reviewed_available"], "missing": summary["missing"],

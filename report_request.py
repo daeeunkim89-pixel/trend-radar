@@ -10,10 +10,27 @@ from report_timing import prepared_target, recovery_target, require_report_slot
 REQUEST_FILE = Path("data/report-request.json")
 
 
+
+def scheduled_fallback(clock, sender=None):
+    """A missed AI submission must not suppress the current regular report."""
+    try:
+        target = int(clock) // 3600 * 3600
+        require_report_slot(target)
+    except (ValueError, TypeError):
+        print("BTP REQUEST CHECK: no current regular report slot")
+        return 0
+    if sender is None:
+        from curated_report import main
+        sender = main
+    print("BTP REQUEST FALLBACK: use fresh saved reviews or a zero-material status")
+    return sender(recover_hour=time.strftime("%Y%m%d%H", time.gmtime(target)),
+                  scheduled_fallback=True)
+
+
 def run(path=REQUEST_FILE, now=None, sender=None, picks_file=Path("data/editorial-picks.json"), scheduled_check=False):
+    clock = time.time() if now is None else now
     try:
         request = json.loads(Path(path).read_text(encoding="utf-8"))
-        clock = time.time() if now is None else now
         if scheduled_check:
             # Recovery may consume an existing regular request only, never create one
             # or replay manual/old editions when no new reviewed material was submitted.
@@ -22,8 +39,7 @@ def run(path=REQUEST_FILE, now=None, sender=None, picks_file=Path("data/editoria
                     raise ValueError("No regular request")
                 require_report_slot(recovery_target(request["hour_utc"], clock))
             except (ValueError, KeyError, TypeError):
-                print("BTP REQUEST CHECK: no current regular request")
-                return 0
+                return scheduled_fallback(clock, sender)
         if (not isinstance(request, dict) or type(request.get("version")) is not int or request["version"] not in (1, 2, 3)
                 or not isinstance(request["hour_utc"], str)):
             raise ValueError("Invalid report request schema")
@@ -45,6 +61,8 @@ def run(path=REQUEST_FILE, now=None, sender=None, picks_file=Path("data/editoria
         else:
             require_report_slot(recovery_target(request["hour_utc"], clock))
     except (ValueError, OSError, TypeError, KeyError):
+        if scheduled_check:
+            return scheduled_fallback(clock, sender)
         print("BTP REQUEST REJECTED: malformed request or target is outside the current hour")
         return 2
     if sender is None:
@@ -66,4 +84,3 @@ if __name__ == "__main__":
     parser.add_argument("--scheduled-check", action="store_true")
     args = parser.parse_args()
     raise SystemExit(run(args.request_file, picks_file=args.picks_file, scheduled_check=args.scheduled_check))
-

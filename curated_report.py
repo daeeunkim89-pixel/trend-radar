@@ -22,6 +22,7 @@ PICKS_FILE = Path("data/editorial-picks.json")
 STATE_FILE = Path("data/state.json")
 DECISIONS_FILE = Path("data/editorial-history.json")
 ATTEMPT_FILE = Path("data/editorial-status.json")
+PROGRESS_FILE = Path("data/editorial-progress.json")
 CATEGORIES = ("시사", "축구", "메이저 스포츠", "아이돌")
 MAX_PICKS = 20  # Ten recommendations plus reviewed reserves for content deduplication.
 REPORT_PICKS = 10
@@ -71,7 +72,10 @@ def load_edition(path, target, now=None, expected_sha256=None):
         raise ValueError("Editorial file is too large")
     if expected_sha256 and hashlib.sha256(raw).hexdigest() != expected_sha256:
         raise ValueError("Editorial file does not match the pinned request")
-    edition = json.loads(raw)
+    return validate_edition(json.loads(raw), target, now)
+
+
+def validate_edition(edition, target, now):
     required = {"version", "hour_utc", "reviewer", "generated_at", "coverage", "picks", "empty_reason"}
     if (not isinstance(edition, dict) or set(edition) != required or type(edition["version"]) is not int
             or edition["version"] not in (1, 2) or edition["reviewer"] != "ChatGPT"
@@ -178,6 +182,45 @@ def load_edition(path, target, now=None, expected_sha256=None):
     return edition
 
 
+
+def load_progress_edition(target, now):
+    """Reuse only complete, fresh agent reviews; never select collection rows."""
+    edition = {"version": 2, "hour_utc": hourly_key(target)[7:], "reviewer": "ChatGPT",
+               "generated_at": now, "picks": [],
+               "coverage": {"queries": [], "opened_urls": [], "unavailable": []},
+               "empty_reason": "보고 시각까지 검증을 마친 새 소재만 전달합니다. 미확인 후보는 제외했습니다."}
+    try:
+        progress = json.loads(PROGRESS_FILE.read_text(encoding="utf-8"))
+        rows = progress.get("items", []) if progress.get("version") == 1 else []
+        if not isinstance(rows, list):
+            rows = []
+    except (OSError, ValueError, TypeError, AttributeError):
+        rows = []
+    for row in rows:
+        if not isinstance(row, dict) or row.get("status") != "reviewed":
+            continue
+        try:
+            draft = dict(edition, picks=[row["pick"]], coverage=row["coverage"])
+            checked = validate_edition(draft, target, now)
+            candidate = checked["picks"][0]
+            if candidate["event_key"] in {p["event_key"] for p in edition["picks"]}:
+                continue
+            combined = {k: list(dict.fromkeys(edition["coverage"][k] + checked["coverage"][k]))
+                        for k in ("queries", "opened_urls", "unavailable")}
+            if len(combined["queries"]) > 40 or len(combined["opened_urls"]) > 80:
+                continue
+            combined["unavailable"] = combined["unavailable"][:30]
+            edition["coverage"] = combined
+            edition["picks"].append(candidate)
+            if len(edition["picks"]) == MAX_PICKS:
+                break
+        except (KeyError, ValueError, TypeError, AttributeError):
+            continue
+    if not edition["picks"]:
+        edition["empty_reason"] = "보고 시각에 75분 이내 검증을 마친 새 소재가 없습니다. 수집·검증이 끝나지 않은 후보를 추천으로 채우지 않았습니다."
+    return edition
+
+
 def build_stories(edition, history, now):
     rows = [{"source": p["source"], "title": p["title"], "link": p["url"], "rank": i,
              "views": None, "reactions": None, "parser_revision": 7,
@@ -211,7 +254,7 @@ def render_edition(stories, target, empty_reason, excluded=0):
     for title_size, why_size, angle_size, caution_size in ((72, 70, 64, 55), (60, 55, 50, 40), (48, 42, 38, 28)):
         lines = [f"<b>⚡ btp · 추천 {len(stories)}/{REPORT_PICKS} · {stamp(target)}</b>"]
         if not stories:
-            lines += ["이번 시간 강하게 추천할 새 소재는 없습니다.", html.escape(empty_reason or "기존 발송 소재를 제외한 결과입니다.")]
+            lines += ["이번 보고에서 검증을 마친 새 소재: 0개 · 목표 10개 · 부족 10개", html.escape(empty_reason or "검증·중복 제외 후 새 소재가 없습니다.")]
         else:
             for i, story in enumerate(stories, 1):
                 p = story["editorial"]
@@ -225,7 +268,7 @@ def render_edition(stories, target, empty_reason, excluded=0):
                 if p["caution"]:
                     lines.append("확인: " + html.escape(short(p["caution"], caution_size)))
             if len(stories) < REPORT_PICKS:
-                lines += ["", f"10개 중 {len(stories)}개 확보: " + html.escape(short(empty_reason or "검증·중복 제외 후 새 소재가 부족했습니다.", 100))]
+                lines += ["", f"10개 중 {len(stories)}개 확보 · 부족 {REPORT_PICKS - len(stories)}개: " + html.escape(short(empty_reason or "검증·중복 제외 후 새 소재가 부족했습니다.", 100))]
             lines += ["", "전체 제목·검증·제작 <code>/info 1</code> · 선정 <code>/pick 1</code>"]
         if excluded:
             lines.append(f"기존 발송·같은 사건 {excluded}개 제외")
@@ -289,11 +332,13 @@ def record_attempt(target, status, ready=0, excluded=0, user_requested=False, re
 
 
 def main(recover_hour=None, prepared_hour=None, picks_file=PICKS_FILE, expected_sha256=None, preview=False,
-         user_requested=False):
+         user_requested=False, scheduled_fallback=False):
     now = int(time.time())
     delivery_attempted = False
     try:
         target = prepared_target(prepared_hour, now) if prepared_hour else recovery_target(recover_hour, now)
+        if scheduled_fallback and (user_requested or prepared_hour):
+            raise ValueError("A scheduled fallback is only for the current regular report hour")
         if not preview:
             require_report_slot(target, user_requested=user_requested)
             delivery_key = "user-curated-" + expected_sha256 if user_requested and isinstance(expected_sha256, str) else hourly_key(target)
@@ -301,12 +346,13 @@ def main(recover_hour=None, prepared_hour=None, picks_file=PICKS_FILE, expected_
             if previous:
                 ready = len(previous.get("picks", []))
                 status = ("delivery_uncertain" if previous["delivery"] == "uncertain"
-                          else "already_sent" if ready == REPORT_PICKS else "partial_delivery")
+                          else "already_sent")
                 record_attempt(target, status, ready, user_requested=user_requested,
                                reason_code="recorded_" + previous["delivery"])
                 print("BTP EDITORIAL RECORDED:", status)
                 return 0 if status == "already_sent" else 1
-        edition = load_edition(picks_file, target, now, expected_sha256)
+        edition = (load_progress_edition(target, now) if scheduled_fallback
+                   else load_edition(picks_file, target, now, expected_sha256))
         if user_requested and (prepared_hour or not isinstance(expected_sha256, str)
                                or not re.fullmatch(r"[0-9a-f]{64}", expected_sha256)):
             raise ValueError("An on-demand edition requires a pinned current-hour request")
@@ -320,23 +366,22 @@ def main(recover_hour=None, prepared_hour=None, picks_file=PICKS_FILE, expected_
             print("BTP EDITORIAL PREVIEW ONLY: no Telegram calls or state writes")
             print(parts[0])
             return 0
-        if len(stories) < REPORT_PICKS:
-            record_attempt(target, "insufficient_new_material", len(stories), user_requested=user_requested)
-            print(f"BTP EDITORIAL SHORTFALL: {len(stories)}/{REPORT_PICKS}; no message sent")
-            return 2
         # Do not hold a verified HTTP connection idle throughout the preparation wait.
         if not wait_for_target(target):
             record_attempt(target, "missed_window", len(stories), user_requested=user_requested)
             print("BTP EDITORIAL EXPIRED: no past-hour report sent")
             return 2
-        load_edition(picks_file, target, int(time.time()), expected_sha256)
+        if not scheduled_fallback:
+            load_edition(picks_file, target, int(time.time()), expected_sha256)
+        elif edition["picks"]:
+            validate_edition(edition, target, int(time.time()))
         token, chat = os.environ.get("TELEGRAM_BOT_TOKEN"), os.environ.get("TELEGRAM_CHAT_ID")
         client = TelegramClient(token, chat)
         client.verify()
         private = PrivateState(token, chat)
         previous = private.data.get("reports", {}).get(delivery_key, {})
         if previous.get("done") or previous.get("message_ids"):
-            record_attempt(target, "already_sent", REPORT_PICKS, user_requested=user_requested)
+            record_attempt(target, "already_sent", len(previous.get("numbers", {})), user_requested=user_requested)
             print("BTP EDITORIAL ALREADY_SENT: requested delivery ledger is complete")
             return 0
         if previous.get("uncertain"):
@@ -345,18 +390,13 @@ def main(recover_hour=None, prepared_hour=None, picks_file=PICKS_FILE, expected_
         stories = unreported_stories(stories, history, private, now)
         excluded = before - len(stories)
         stories = stories[:REPORT_PICKS]
-        if user_requested and not stories:
-            record_attempt(target, "duplicate_edition", 0, excluded, user_requested)
-            print("BTP EDITORIAL ON_DEMAND_SKIPPED: no new reviewed material after content deduplication")
-            return 0
-        if len(stories) != REPORT_PICKS:
-            record_attempt(target, "insufficient_new_material", len(stories), excluded, user_requested)
-            print(f"BTP EDITORIAL SHORTFALL: {len(stories)}/{REPORT_PICKS} after duplicate filter; no message sent")
-            return 2
         parts = render_edition(stories, target, edition["empty_reason"], excluded)
         # Verification/retries can consume time too; never deliver an expired review/hour.
         recovery_target(hourly_key(target)[7:], int(time.time()))
-        load_edition(picks_file, target, int(time.time()), expected_sha256)
+        if not scheduled_fallback:
+            load_edition(picks_file, target, int(time.time()), expected_sha256)
+        elif edition["picks"]:
+            validate_edition(edition, target, int(time.time()))
         atomic_json(HISTORY_FILE, history)
         # A pre-hour edition uses the same hourly key and content ledger as recovery.
         delivery_attempted = True
@@ -365,11 +405,15 @@ def main(recover_hour=None, prepared_hour=None, picks_file=PICKS_FILE, expected_
                               content_keys={k for s in stories for k in story_content_keys(s)})
         if sent:
             record_decision(stories, target, int(time.time()), "sent", delivery_key)
-        report = {"version": "btp-editorial-v9", "delivery": "sent" if sent else "already_sent", "messages": sent,
-                  "stories": len(stories), "duplicates_excluded": excluded, "ai": "chatgpt_web_research",
+        report = {"version": "btp-editorial-v10", "delivery": "sent" if sent else "already_sent", "messages": sent,
+                  "stories": len(stories), "duplicates_excluded": excluded,
+                  "ai": ("chatgpt_reviewed_progress" if edition["picks"] else "scheduled_status_only")
+                        if scheduled_fallback else "chatgpt_web_research",
+                  "missing": max(0, REPORT_PICKS - len(stories)), "target_met": len(stories) == REPORT_PICKS,
+                  "shortfall_reason": edition["empty_reason"] if len(stories) < REPORT_PICKS else "",
                   "requested_stories": REPORT_PICKS,
                   "reviewed_edition_version": edition["version"],
-                  "trigger": "user_requested" if user_requested else "hourly", "hour_utc": hourly_key(target)[7:],
+                  "trigger": "user_requested" if user_requested else "scheduled_fallback" if scheduled_fallback else "hourly", "hour_utc": hourly_key(target)[7:],
                   "category_counts": {c: sum(s["category"] == c for s in stories) for c in CATEGORIES},
                   "research_queries": len(edition["coverage"]["queries"]),
                   "opened_sources": len(edition["coverage"]["opened_urls"]),
@@ -399,5 +443,3 @@ if __name__ == "__main__":
     parser.add_argument("--preview", action="store_true", required=True)
     args = parser.parse_args()
     raise SystemExit(main(prepared_hour=args.hour, picks_file=args.picks_file, preview=True))
-
-

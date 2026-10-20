@@ -104,7 +104,7 @@ class ReliableEditionTests(unittest.TestCase):
             self.assertEqual(json.loads(c.STATE_FILE.read_text()), old)
             self.assertFalse(c.DECISIONS_FILE.exists())
 
-    def test_scheduled_recovery_consumes_only_an_existing_current_regular_request(self):
+    def test_scheduled_recovery_uses_saved_review_fallback_when_request_is_missing(self):
         path = self.directory / "request.json"
         sender = Mock(return_value=0)
         request = {"version": 2, "hour_utc": HOUR_TEXT,
@@ -117,7 +117,7 @@ class ReliableEditionTests(unittest.TestCase):
                              ({**request, "version": 3, "mode": "user_requested"}, HOUR + 100)):
             path.write_text(json.dumps(value))
             self.assertEqual(report_request.run(path, clock, sender, self.picks, scheduled_check=True), 0)
-        sender.assert_not_called()
+        sender.assert_called_once_with(recover_hour=HOUR_TEXT, scheduled_fallback=True)
 
     def test_one_hour_preparation_preserves_six_slots_and_75_minute_review_validity(self):
         kst = timezone(timedelta(hours=9))

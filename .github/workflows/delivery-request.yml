@@ -2,8 +2,8 @@ name: Trend Radar delivery request
 
 on:
   schedule:
-    # Recheck the same pinned request, without AI calls, only in the six report hours.
-    - cron: '5,20,35,50 2,5,8,11,14,23 * * *'
+    # Send each regular report even when AI submission is missing; keep safe retries.
+    - cron: '0,5,20,35,50 2,5,8,11,14,23 * * *'
   push:
     branches: [main]
     paths: [data/report-request.json]
@@ -68,5 +68,3 @@ jobs:
             done
             exit 1
           fi
-
-
