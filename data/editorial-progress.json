@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": 1792621973,
+  "updated_at": 1792623631,
   "items": [
     {
       "event_key": "lebron-sixers-regular-season-debut-defeats-knicks-20261020",
@@ -9398,6 +9398,15 @@
       "hour_utc": "2026102123",
       "at": 1792621973,
       "status": "submitted",
+      "required": 10,
+      "ready": 10,
+      "missing": 0,
+      "unfinished": 3
+    },
+    {
+      "hour_utc": "2026102123",
+      "at": 1792623631,
+      "status": "sent_confirmed",
       "required": 10,
       "ready": 10,
       "missing": 0,
