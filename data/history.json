@@ -1,6 +1,736 @@
 {
   "version": 1,
   "items": {
+    "e45198419a1a": {
+      "source": "경향신문·서울신문",
+      "title": "1심 25년→항소심 9년…박성재 형량을 가른 무죄 판단들",
+      "link": "https://www.khan.co.kr/article/202610211547001",
+      "first_seen_at": 1792579014,
+      "last_seen_at": 1792579014,
+      "samples": [
+        {
+          "at": 1792579014,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "e45198419a1a",
+      "editorial": {
+        "title": "1심 25년→항소심 9년…박성재 형량을 가른 무죄 판단들",
+        "category": "시사",
+        "url": "https://www.khan.co.kr/article/202610211547001",
+        "source": "경향신문·서울신문",
+        "kind": "article",
+        "event_key": "park-sung-jae-insurrection-appeal-25-to-9-years-20261021",
+        "why": "1심보다 16년 줄어든 형량과 무엇이 무죄로 뒤집혔는지 비교해 법원 판단 변화를 바로 이해할 수 있다.",
+        "angle": "첫 장은 25년→9년, 다음 장은 유죄로 남은 지시와 무죄로 바뀐 지시를 나눈다.",
+        "why_now": "21일 15시47분 항소심 선고가 처음 공개됐다.",
+        "verified_at": 1792578669,
+        "published_at": 1792565220,
+        "evidence": [
+          {
+            "url": "https://www.khan.co.kr/article/202610211547001",
+            "note": "항소심 징역 9년, 1심 25년, 일부 내란 중요임무 종사·직권남용 판단 변경을 확인했다."
+          },
+          {
+            "url": "https://www.seoul.co.kr/news/society/2026/10/21/20261021500259",
+            "note": "출국금지·교정시설 지시는 유죄, 일부 합수본 파견·수용거실 검토 지시는 무죄로 본 이유를 교차 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.khan.co.kr/article/202610211547001",
+            "label": "판결 보도 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "항소심 판결이며 확정판결로 쓰지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-21",
+          "observation": "서울고법이 내란 중요임무 종사 일부와 직권남용 전부를 무죄로 바꾸면서 1심 25년을 9년으로 감형한 판결을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 1심 25년→항소심 9년",
+            "2장: 유죄로 남은 출국금지·교정시설 지시",
+            "3장: 무죄로 바뀐 일부 지시와 직권남용"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "판결 보도 원문",
+            "url": "https://www.khan.co.kr/article/202610211547001"
+          }
+        ],
+        "excerpt": "",
+        "context": "21일 15시47분 항소심 선고가 처음 공개됐다.",
+        "fetched_at": 1792579014,
+        "parser_revision": 7
+      },
+      "curation_event_key": "park-sung-jae-insurrection-appeal-25-to-9-years-20261021"
+    },
+    "1d7efd7529cb": {
+      "source": "동아일보",
+      "title": "월 29만원 공익형 노인일자리…20개월간 17명 숨져도 산재 밖",
+      "link": "https://faq.donga.com/NEWS/Politics/article/all/20261021/134882482/1",
+      "first_seen_at": 1792579014,
+      "last_seen_at": 1792579014,
+      "samples": [
+        {
+          "at": 1792579014,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "1d7efd7529cb",
+      "editorial": {
+        "title": "월 29만원 공익형 노인일자리…20개월간 17명 숨져도 산재 밖",
+        "category": "시사",
+        "url": "https://faq.donga.com/NEWS/Politics/article/all/20261021/134882482/1",
+        "source": "동아일보",
+        "kind": "article",
+        "event_key": "public-elderly-jobs-17-deaths-no-workers-comp-disclosure-20261021",
+        "why": "노후 소득을 위한 공공 일자리에서 발생한 사망과 보상 공백이 가족·노동자 모두에게 직접적인 문제다.",
+        "angle": "첫 장은 20개월 17명·산재 제외, 다음 장은 폭염 사망과 14개월 보고 지연을 보여준다.",
+        "why_now": "21일 15시20분 국감 자료로 사망 규모와 보상 공백이 처음 공개됐다.",
+        "verified_at": 1792578669,
+        "published_at": 1792563600,
+        "evidence": [
+          {
+            "url": "https://faq.donga.com/NEWS/Politics/article/all/20261021/134882482/1",
+            "note": "2025년부터 2026년 8월까지 공익형 노인일자리 참여자 17명 사망과 산업안전·산재보상 적용 제외 구조를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://faq.donga.com/NEWS/Politics/article/all/20261021/134882482/1",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "17건 모두가 업무상 사망으로 확정된 것은 아니다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-21",
+          "observation": "2025년부터 2026년 8월까지 공익형 노인일자리 참여자 17명 사망과 산업안전·산재보상 적용 제외 구조를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 20개월 17명",
+            "2장: 월29만원·산재 제외",
+            "3장: 폭염 사례와 보고 지연"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://faq.donga.com/NEWS/Politics/article/all/20261021/134882482/1"
+          }
+        ],
+        "excerpt": "",
+        "context": "21일 15시20분 국감 자료로 사망 규모와 보상 공백이 처음 공개됐다.",
+        "fetched_at": 1792579014,
+        "parser_revision": 7
+      },
+      "curation_event_key": "public-elderly-jobs-17-deaths-no-workers-comp-disclosure-20261021"
+    },
+    "56c9fd5b6179": {
+      "source": "MBC",
+      "title": "당일 요청한 국선변호사, 신청은 11일째…추가 피해자 조사는 0회",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6859614_36918.html",
+      "first_seen_at": 1792579014,
+      "last_seen_at": 1792579014,
+      "samples": [
+        {
+          "at": 1792579014,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "56c9fd5b6179",
+      "editorial": {
+        "title": "당일 요청한 국선변호사, 신청은 11일째…추가 피해자 조사는 0회",
+        "category": "시사",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6859614_36918.html",
+        "source": "MBC",
+        "kind": "article",
+        "event_key": "ansan-sexual-assault-victim-state-lawyer-request-delayed-ten-days-20261021",
+        "why": "성폭력 피해자가 법률 조력을 요청했지만 수사기관 절차가 늦어지고 추가 조사도 없었던 공백이 선명하다.",
+        "angle": "첫 장은 당일 요청→11일째 신청, 다음 장은 변호인 선정 뒤 추가 조사 0회를 놓는다.",
+        "why_now": "21일 14시30분 의원실 확보 자료로 신청 지연과 조사 공백이 처음 보도됐다.",
+        "verified_at": 1792578669,
+        "published_at": 1792560600,
+        "evidence": [
+          {
+            "url": "https://imnews.imbc.com/news/2026/society/article/6859614_36918.html",
+            "note": "사건 접수 당일 국선변호사를 요청했으나 경찰이 11일째 신청했고 불송치 전까지 추가 피해자 조사가 없었다는 자료를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://imnews.imbc.com/news/2026/society/article/6859614_36918.html",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "고인의 신원과 피해 내용을 선정적으로 재현하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-21",
+          "observation": "사건 접수 당일 국선변호사를 요청했으나 경찰이 11일째 신청했고 불송치 전까지 추가 피해자 조사가 없었다는 자료를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 당일 요청→11일째 신청",
+            "2장: 추가 조사 0회",
+            "3장: 전산화되지 않은 절차"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://imnews.imbc.com/news/2026/society/article/6859614_36918.html"
+          }
+        ],
+        "excerpt": "",
+        "context": "21일 14시30분 의원실 확보 자료로 신청 지연과 조사 공백이 처음 보도됐다.",
+        "fetched_at": 1792579014,
+        "parser_revision": 7
+      },
+      "curation_event_key": "ansan-sexual-assault-victim-state-lawyer-request-delayed-ten-days-20261021"
+    },
+    "3c9f202c78ce": {
+      "source": "경향신문",
+      "title": "“파기 완료” 1년 반 보고했는데…권익위 위탁업체 DB는 남아 있었다",
+      "link": "https://www.khan.co.kr/article/202610211038011",
+      "first_seen_at": 1792579014,
+      "last_seen_at": 1792579014,
+      "samples": [
+        {
+          "at": 1792579014,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "3c9f202c78ce",
+      "editorial": {
+        "title": "“파기 완료” 1년 반 보고했는데…권익위 위탁업체 DB는 남아 있었다",
+        "category": "시사",
+        "url": "https://www.khan.co.kr/article/202610211038011",
+        "source": "경향신문",
+        "kind": "article",
+        "event_key": "acrc-learning-platform-vendor-false-deletion-report-disclosure-20261021",
+        "why": "개인정보 유출 뒤에 공공기관이 1년 반 동안 허위 자체점검을 그대로 받은 관리 실패가 새로 드러났다.",
+        "angle": "첫 장은 ‘매달 파기 양호’, 다음 장은 남아 있던 옛 DB와 해킹 결과를 대비한다.",
+        "why_now": "유출 자체가 아니라 21일 10시38분 처음 공개된 1년 반 허위 보고와 현장검증 부재가 새 사실이다.",
+        "verified_at": 1792578669,
+        "published_at": 1792546680,
+        "evidence": [
+          {
+            "url": "https://www.khan.co.kr/article/202610211038011",
+            "note": "학습플랫폼 개인정보 10만4139건 유출과 업체의 반복 허위 삭제 보고를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.khan.co.kr/article/202610211038011",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "10만4139명 유출은 앞서 알려졌고, 이번 새 사실은 허위 보고와 감독 부재다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-21",
+          "observation": "서버 이관 뒤 폐기해야 할 DB가 남아 해킹됐는데도 업체는 1년 반 넘게 파기 완료로 보고했고 권익위는 자체점검만으로 양호 판정했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 1년 반 ‘파기 양호’",
+            "2장: 실제로 남은 옛 DB",
+            "3장: 해킹으로 10만4139명 유출",
+            "4장: 현장검증 없던 감독"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.khan.co.kr/article/202610211038011"
+          }
+        ],
+        "excerpt": "",
+        "context": "유출 자체가 아니라 21일 10시38분 처음 공개된 1년 반 허위 보고와 현장검증 부재가 새 사실이다.",
+        "fetched_at": 1792579014,
+        "parser_revision": 7
+      },
+      "curation_event_key": "acrc-learning-platform-vendor-false-deletion-report-disclosure-20261021"
+    },
+    "327a87b3b3c7": {
+      "source": "YTN",
+      "title": "피해자는 운동을 그만뒀는데…중징계 요청 1년 반 뒤에도 선수는 출전",
+      "link": "https://m.ytn.co.kr/news_view.amp.php?param=0101_202610211225429253",
+      "first_seen_at": 1792579014,
+      "last_seen_at": 1792579014,
+      "samples": [
+        {
+          "at": 1792579014,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "327a87b3b3c7",
+      "editorial": {
+        "title": "피해자는 운동을 그만뒀는데…중징계 요청 1년 반 뒤에도 선수는 출전",
+        "category": "메이저 스포츠",
+        "url": "https://m.ytn.co.kr/news_view.amp.php?param=0101_202610211225429253",
+        "source": "YTN",
+        "kind": "article",
+        "event_key": "weightlifting-sexual-violence-discipline-delay-athlete-still-competing-20261021",
+        "why": "피해자는 운동을 포기했는데 가해 지목 선수는 계속 출전한 대비가 체육계 보호 실패를 드러낸다.",
+        "angle": "첫 장은 피해자 은퇴·선수 출전, 다음 장은 경찰 송치와 중징계 요구 뒤 연맹 보류를 잇는다.",
+        "why_now": "21일 12시25분 징계 지연과 계속된 대회 출전 사실이 처음 보도됐다.",
+        "verified_at": 1792578669,
+        "published_at": 1792553100,
+        "evidence": [
+          {
+            "url": "https://m.ytn.co.kr/news_view.amp.php?param=0101_202610211225429253",
+            "note": "경찰 송치, 스포츠윤리센터 중징계 요구, 연맹의 징계 보류와 당사자 출전 지속·피해자 운동 포기를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://m.ytn.co.kr/news_view.amp.php?param=0101_202610211225429253",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "형사·징계 절차를 구분하고 피해 영상이나 구체적 성폭력 묘사는 쓰지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-21",
+          "observation": "스포츠윤리센터의 중징계 요구 뒤에도 연맹 징계가 1년 반 지연됐고 당사자 출전이 이어졌다는 보도를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 피해자 은퇴·선수 출전",
+            "2장: 중징계 요청",
+            "3장: 1년 반 지연"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://m.ytn.co.kr/news_view.amp.php?param=0101_202610211225429253"
+          }
+        ],
+        "excerpt": "",
+        "context": "21일 12시25분 징계 지연과 계속된 대회 출전 사실이 처음 보도됐다.",
+        "fetched_at": 1792579014,
+        "parser_revision": 7
+      },
+      "curation_event_key": "weightlifting-sexual-violence-discipline-delay-athlete-still-competing-20261021"
+    },
+    "45f7bb82d167": {
+      "source": "조선비즈",
+      "title": "서류 위조해 토지보상금 60억원?…도로공사 직원 또 횡령 수사",
+      "link": "https://biz.chosun.com/policy/policy_sub/2026/10/21/XDCV73XEAVAA3PL7FS6KBF7MR4/",
+      "first_seen_at": 1792579014,
+      "last_seen_at": 1792579014,
+      "samples": [
+        {
+          "at": 1792579014,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "45f7bb82d167",
+      "editorial": {
+        "title": "서류 위조해 토지보상금 60억원?…도로공사 직원 또 횡령 수사",
+        "category": "시사",
+        "url": "https://biz.chosun.com/policy/policy_sub/2026/10/21/XDCV73XEAVAA3PL7FS6KBF7MR4/",
+        "source": "조선비즈",
+        "kind": "article",
+        "event_key": "korea-expressway-land-compensation-6b-embezzlement-investigation-20261021",
+        "why": "공기업 보상금 관리가 한 직원의 문서 조작 의혹으로 뚫렸다는 점이 세금 이용자에게 직접적이다.",
+        "angle": "첫 장은 토지보상금 60억원, 다음 장은 2021~25년 서류 조작과 지난해 30억원 사건을 비교한다.",
+        "why_now": "21일 15시32분 경찰 수사와 특별감사 사실이 처음 보도됐다.",
+        "verified_at": 1792578669,
+        "published_at": 1792564320,
+        "evidence": [
+          {
+            "url": "https://biz.chosun.com/policy/policy_sub/2026/10/21/XDCV73XEAVAA3PL7FS6KBF7MR4/",
+            "note": "2021~2025년 토지보상 담당자의 서류 위조·약 60억원 횡령 혐의, 경찰 수사와 도로공사 특별감사를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://biz.chosun.com/policy/policy_sub/2026/10/21/XDCV73XEAVAA3PL7FS6KBF7MR4/",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "수사 중 혐의로 횡령이 확정됐다고 쓰지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-21",
+          "observation": "용인·구리 구간 보상 업무 문서 위조·변조와 약 60억원 횡령 의혹, 고발·특별감사 착수를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 60억원 의혹",
+            "2장: 2021~25년 문서",
+            "3장: 고발·특별감사"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://biz.chosun.com/policy/policy_sub/2026/10/21/XDCV73XEAVAA3PL7FS6KBF7MR4/"
+          }
+        ],
+        "excerpt": "",
+        "context": "21일 15시32분 경찰 수사와 특별감사 사실이 처음 보도됐다.",
+        "fetched_at": 1792579014,
+        "parser_revision": 7
+      },
+      "curation_event_key": "korea-expressway-land-compensation-6b-embezzlement-investigation-20261021"
+    },
+    "7cb3cf54f487": {
+      "source": "매일경제·엑스포츠뉴스",
+      "title": "“억울하다” 방송사에 편지 보낸 침입자…나나 측은 보복 위험 호소",
+      "link": "https://www.mk.co.kr/news/hot-issues/12181707",
+      "first_seen_at": 1792579014,
+      "last_seen_at": 1792579014,
+      "samples": [
+        {
+          "at": 1792579014,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "7cb3cf54f487",
+      "editorial": {
+        "title": "“억울하다” 방송사에 편지 보낸 침입자…나나 측은 보복 위험 호소",
+        "category": "아이돌",
+        "url": "https://www.mk.co.kr/news/hot-issues/12181707",
+        "source": "매일경제·엑스포츠뉴스",
+        "kind": "article",
+        "event_key": "nana-home-intruder-retaliation-risk-agency-statement-20261021",
+        "why": "유명인 주거침입 사건이 언론 편지·맞고소와 보복 우려로 번진 구조가 피해자 보호 문제로 확장된다.",
+        "angle": "첫 장은 유죄 판결 뒤 방송사 편지, 다음 장은 맞고소·무고 추가 기소와 소속사 우려를 분리한다.",
+        "why_now": "21일 14시59분 소속사가 항소심을 앞두고 새 공식 입장을 공개했다.",
+        "verified_at": 1792578669,
+        "published_at": 1792562340,
+        "evidence": [
+          {
+            "url": "https://www.mk.co.kr/news/hot-issues/12181707",
+            "note": "1심 유죄 뒤에도 피고인이 방송사·언론사에 억울함을 호소하는 편지를 보냈다고 소속사가 밝힌 사실을 확인했다."
+          },
+          {
+            "url": "https://www.xportsnews.com/article/2209945",
+            "note": "나나 맞고소 뒤 피고인이 무고 혐의로 추가 기소됐고 소속사가 보복·재범 위험을 호소한 내용을 교차 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.mk.co.kr/news/hot-issues/12181707",
+            "label": "소속사 입장 보도",
+            "kind": "source"
+          }
+        ],
+        "caution": "소속사 주장, 1심 유죄, 무고 기소와 항소심 판단을 각각 구분한다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-21",
+          "observation": "소속사가 침입자의 맞고소를 2차 가해로 규정하고 항소심을 앞두고 보복 위험을 호소한 사실을 두 보도로 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 침입→맞고소",
+            "2장: 소속사 공식 입장",
+            "3장: 다음날 항소심"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "소속사 입장 보도",
+            "url": "https://www.mk.co.kr/news/hot-issues/12181707"
+          }
+        ],
+        "excerpt": "",
+        "context": "21일 14시59분 소속사가 항소심을 앞두고 새 공식 입장을 공개했다.",
+        "fetched_at": 1792579014,
+        "parser_revision": 7
+      },
+      "curation_event_key": "nana-home-intruder-retaliation-risk-agency-statement-20261021"
+    },
+    "d6f837df70e8": {
+      "source": "연합뉴스",
+      "title": "2024년부터 지적했는데도…장애인 국가대표촌 상주 의사 0명",
+      "link": "https://www.yna.co.kr/amp/view/AKR20261021106700055",
+      "first_seen_at": 1792579014,
+      "last_seen_at": 1792579014,
+      "samples": [
+        {
+          "at": 1792579014,
+          "views": null,
+          "reactions": null,
+          "rank": 8,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "d6f837df70e8",
+      "editorial": {
+        "title": "2024년부터 지적했는데도…장애인 국가대표촌 상주 의사 0명",
+        "category": "메이저 스포츠",
+        "url": "https://www.yna.co.kr/amp/view/AKR20261021106700055",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "icheon-disabled-national-team-village-zero-resident-doctors-20261021",
+        "why": "국가대표 선수 안전과 비장애 대표촌의 지원 격차를 ‘2년째 의사 0명’으로 즉시 이해할 수 있다.",
+        "angle": "첫 장은 2024→2026에도 의사 0명, 다음 장은 간호사2·물리치료사4와 장비 반입 제한을 보여준다.",
+        "why_now": "21일 14시25분 국감에서 2024년 지적 뒤에도 상주 의사 0명인 현재 상태가 다시 확인됐다.",
+        "verified_at": 1792578669,
+        "published_at": 1792560300,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/amp/view/AKR20261021106700055",
+            "note": "이천 장애인 국가대표선수촌에 상주 의사가 없고 간호사 2명·물리치료사 4명뿐이며 공식 의료기관이 아니라 필수 장비를 두기 어렵다는 점을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/amp/view/AKR20261021106700055",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "2024년부터 알려진 문제이며 새 사실은 2026년에도 개선되지 않은 현재 상태다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-21",
+          "observation": "2024년부터 지적했지만 2026년 국감에서도 상주 의사 0명이고 의료기관 미승인 탓에 필수 장비를 두지 못하는 상태가 확인됐다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 2024→2026 의사 0명",
+            "2장: 선수 440명·간호사2·물리치료사4",
+            "3장: 의료기관 미승인",
+            "4장: 필수 장비 반입 제한"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.yna.co.kr/amp/view/AKR20261021106700055"
+          }
+        ],
+        "excerpt": "",
+        "context": "21일 14시25분 국감에서 2024년 지적 뒤에도 상주 의사 0명인 현재 상태가 다시 확인됐다.",
+        "fetched_at": 1792579014,
+        "parser_revision": 7
+      },
+      "curation_event_key": "icheon-disabled-national-team-village-zero-resident-doctors-20261021"
+    },
+    "7fd51fe5ef97": {
+      "source": "연합뉴스·일본 기상청",
+      "title": "10월 21일 도쿄 30.3도…도쿄·오사카 ‘가장 늦은 한여름날’",
+      "link": "https://www.yna.co.kr/amp/view/AKR20261021142500073",
+      "first_seen_at": 1792579014,
+      "last_seen_at": 1792579014,
+      "samples": [
+        {
+          "at": 1792579014,
+          "views": null,
+          "reactions": null,
+          "rank": 9,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "7fd51fe5ef97",
+      "editorial": {
+        "title": "10월 21일 도쿄 30.3도…도쿄·오사카 ‘가장 늦은 한여름날’",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/amp/view/AKR20261021142500073",
+        "source": "연합뉴스·일본 기상청",
+        "kind": "article",
+        "event_key": "tokyo-osaka-nagoya-latest-ever-summer-day-record-20261021",
+        "why": "10월 하순 30도를 넘긴 날짜·도시·기록이 분명해 여행자와 기후 이슈 독자가 함께 이해하기 쉽다.",
+        "angle": "첫 장은 10월21일·도쿄30.3도, 다음 장은 오사카31.2·나고야31.4와 종전 기록을 놓는다.",
+        "why_now": "21일 오후 실제 관측으로 도쿄와 오사카의 역대 가장 늦은 30도 기록이 확정됐다.",
+        "verified_at": 1792578669,
+        "published_at": 1792568220,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/amp/view/AKR20261021142500073",
+            "note": "도쿄 도심 30.3도, 오사카 31.2도, 나고야 31.4도와 도쿄·오사카의 관측 사상 가장 늦은 한여름날을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/amp/view/AKR20261021142500073",
+            "label": "관측 보도 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "일본은 30도 이상을 ‘한여름날’로 부르며 한국 기상 용어와 구분한다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-21",
+          "observation": "도쿄 30.3도, 오사카 31.2도, 나고야 31.4도와 관측 사상 가장 늦은 30도 기록을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 세 도시 30도",
+            "2장: 종전 기록 경신",
+            "3장: 24일 도쿄 18도"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "관측 보도 원문",
+            "url": "https://www.yna.co.kr/amp/view/AKR20261021142500073"
+          }
+        ],
+        "excerpt": "",
+        "context": "21일 오후 실제 관측으로 도쿄와 오사카의 역대 가장 늦은 30도 기록이 확정됐다.",
+        "fetched_at": 1792579014,
+        "parser_revision": 7
+      },
+      "curation_event_key": "tokyo-osaka-nagoya-latest-ever-summer-day-record-20261021"
+    },
+    "673babddfa88": {
+      "source": "관세청·한국경제",
+      "title": "20일 만에 수출 616억달러…44.7%는 반도체였다",
+      "link": "https://www.hankyung.com/article/2026102150157",
+      "first_seen_at": 1792579014,
+      "last_seen_at": 1792579014,
+      "samples": [
+        {
+          "at": 1792579014,
+          "views": null,
+          "reactions": null,
+          "rank": 10,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "673babddfa88",
+      "editorial": {
+        "title": "20일 만에 수출 616억달러…44.7%는 반도체였다",
+        "category": "시사",
+        "url": "https://www.hankyung.com/article/2026102150157",
+        "source": "관세청·한국경제",
+        "kind": "article",
+        "event_key": "korea-october-1-20-exports-record-chip-share-20261021",
+        "why": "수출 두 배와 반도체 비중 44.7%가 경기 호조와 산업 의존도를 동시에 보여주는 큰 확정 통계다.",
+        "angle": "첫 장은 616억달러·105.4%, 다음 장은 반도체 275억달러와 흑자 145억달러를 쪼갠다.",
+        "why_now": "21일 09시 관세청 1~20일 잠정치가 공식 공개됐다.",
+        "verified_at": 1792578669,
+        "published_at": 1792540800,
+        "evidence": [
+          {
+            "url": "https://www.hankyung.com/article/2026102150157",
+            "note": "관세청 잠정치에서 수출 616억달러, 105.4% 증가, 일평균 65.9% 증가를 확인하고 반도체 275억달러·흑자 145억달러를 교차 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.hankyung.com/article/2026102150157",
+            "label": "관세청 통계 보도",
+            "kind": "source"
+          }
+        ],
+        "caution": "10월 전체 확정치가 아니라 1~20일 잠정 통계다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-21",
+          "observation": "수출 616억달러, 전년 동기 대비 105.4%, 반도체 275억달러, 수입 471억달러, 흑자 145억달러를 공식 자료에서 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 수출 616억달러",
+            "2장: 반도체 44.7%",
+            "3장: 흑자 145억달러"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "관세청 통계 보도",
+            "url": "https://www.hankyung.com/article/2026102150157"
+          }
+        ],
+        "excerpt": "",
+        "context": "21일 09시 관세청 1~20일 잠정치가 공식 공개됐다.",
+        "fetched_at": 1792579014,
+        "parser_revision": 7
+      },
+      "curation_event_key": "korea-october-1-20-exports-record-chip-share-20261021"
+    },
     "7ef75ffc0066": {
       "source": "지효 공식 SNS·스타투데이",
       "title": "JYP와 21년 동행 끝낸 지효…새 회사를 만들지만 트와이스는 계속",
@@ -155677,482 +156407,7 @@
       ],
       "parser_revision": 3,
       "story_id": "05368d7641f9"
-    },
-    "9c1ea36db2df": {
-      "source": "커뮤니티 인기",
-      "title": "김민석, 추미애 ‘재정빨대’에 “깊은 사과…秋에 사과 요청”",
-      "link": "https://www.issuelink.co.kr/community/go/clien/19278969",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792228200,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 92,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "9c1ea36db2df"
-    },
-    "2a78ed7e59fc": {
-      "source": "커뮤니티 인기",
-      "title": "날아다니는 NBA 농구 근황",
-      "link": "https://www.issuelink.co.kr/community/go/theqoo/4378324461",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792228200,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 94,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "2a78ed7e59fc"
-    },
-    "3524e1559b3c": {
-      "source": "커뮤니티 인기",
-      "title": "파노라마 사진을 찍던 중 여친이 재채기를 했다.jpg",
-      "link": "https://www.issuelink.co.kr/community/go/etoland/9509671",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792228200,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 95,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "3524e1559b3c"
-    },
-    "2922f6cc1897": {
-      "source": "커뮤니티 인기",
-      "title": "비누 거품 파티가 비극으로…필리핀 초등학교서 어린이 2명 감전사",
-      "link": "https://www.issuelink.co.kr/community/go/theqoo/4378332829",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792228200,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 97,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "2922f6cc1897"
-    },
-    "37579b3eb40f": {
-      "source": "커뮤니티 인기",
-      "title": "애지중지 키운 털손주 근황.mp4",
-      "link": "https://www.issuelink.co.kr/community/go/etoland/9509577",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792228200,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 98,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "37579b3eb40f"
-    },
-    "b192549aae9c": {
-      "source": "네이트 스포츠",
-      "title": "\"김민재, 대표팀에서는 여포, 뮌헨에서는 다소곳한 새색시 같아\" 역대급 은퇴 소동에 등 돌린 팬들, 3실점에 무수한 비판 쏟아내",
-      "link": "https://sports.news.nate.com/view/20261017n00807",
-      "first_seen_at": 1792191710,
-      "last_seen_at": 1792224106,
-      "samples": [
-        {
-          "at": 1792191710,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792194719,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792202496,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792207060,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792209719,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792213362,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792219851,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792220582,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792224106,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": "nate_sports_interest"
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "b192549aae9c",
-      "detail": {
-        "excerpt": "한눈에 보는 오늘 : 축구 - 뉴스…",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/su/2026/10/17/1013415_2028766_4416.png"
-          }
-        ],
-        "checked_at": 1792213362
-      }
-    },
-    "5b4cd85f2408": {
-      "source": "네이트 스포츠",
-      "title": "와! 안세영 38분 만에 끝냈다! '59승 1패' 미쳤다…인도 유망주 압도! 4강 진출 성공→덴마크 오픈 2연패 도전 순항",
-      "link": "https://sports.news.nate.com/view/20261017n02228",
-      "first_seen_at": 1792191710,
-      "last_seen_at": 1792224106,
-      "samples": [
-        {
-          "at": 1792191710,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792194719,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792202496,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792207060,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792209719,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792213362,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792219851,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792220582,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792224106,
-          "views": null,
-          "reactions": null,
-          "rank": 8,
-          "rank_kind": "nate_sports_interest"
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "5b4cd85f2408",
-      "detail": {
-        "excerpt": "한눈에 보는 오늘 : 스포츠 일반 -…",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/my/2026/10/17/2026090711141953778_l.jpg"
-          }
-        ],
-        "checked_at": 1792213362
-      }
-    },
-    "e8648dec4414": {
-      "source": "네이트 스포츠",
-      "title": "한국체대 총장 \"병역특례, 학생 선수 진로 위해 매우 필요\"",
-      "link": "https://sports.news.nate.com/view/20261017n00117",
-      "first_seen_at": 1792194719,
-      "last_seen_at": 1792224106,
-      "samples": [
-        {
-          "at": 1792194719,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792202496,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792207060,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792209719,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792213362,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792219851,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792220582,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792224106,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": "nate_sports_interest"
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "992dab7d3b47",
-      "detail": {
-        "excerpt": "한눈에 보는 오늘 : 스포츠 일반 - 뉴스 : 문원재 한국체대 총장. 사진 한국체대 문원재…",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/jo/2026/10/17/6a53b16b-459b-4e02-be1d-4ec6a1e12e41.jpg"
-          }
-        ],
-        "checked_at": 1792219851
-      }
-    },
-    "a3417d2be7af": {
-      "source": "네이트 스포츠",
-      "title": "\"만취 상태로 호텔 방에 대변을…\" 北 김정은-로드먼, 이래서 멀어졌나? \"충격적 사건 이후 거리 두기 시작\"",
-      "link": "https://sports.news.nate.com/view/20261017n03792",
-      "first_seen_at": 1792202496,
-      "last_seen_at": 1792224106,
-      "samples": [
-        {
-          "at": 1792202496,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792207060,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792209719,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792213362,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792219851,
-          "views": null,
-          "reactions": null,
-          "rank": 8,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792220582,
-          "views": null,
-          "reactions": null,
-          "rank": 7,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792224106,
-          "views": null,
-          "reactions": null,
-          "rank": 7,
-          "rank_kind": "nate_sports_interest"
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "a3417d2be7af",
-      "detail": {
-        "excerpt": "한눈에 보는 오늘 : 농구/배구 - 뉴스 : (엑스포츠뉴스…",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/xs/2026/10/17/1792196075339685.jpg"
-          }
-        ],
-        "checked_at": 1792202496
-      }
-    },
-    "a51e62c8a0eb": {
-      "source": "네이트 스포츠",
-      "title": "'정수진 선수생명 망치고 계약종료하면 끝인가?' 유도 정성숙 감독, 추가 중징계 해야 한다",
-      "link": "https://sports.news.nate.com/view/20261017n04471",
-      "first_seen_at": 1792202496,
-      "last_seen_at": 1792224106,
-      "samples": [
-        {
-          "at": 1792202496,
-          "views": null,
-          "reactions": null,
-          "rank": 8,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792207060,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792209719,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792213362,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792219851,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792220582,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": "nate_sports_interest"
-        },
-        {
-          "at": 1792224106,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": "nate_sports_interest"
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "a51e62c8a0eb",
-      "detail": {
-        "excerpt": "한눈에 보는 오늘 : 스포츠 일반 - 뉴스 : [OSEN=서정환 기자] 남의…",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/pt/2026/10/17/202610171015771247_6ad2cc71e1840.jpg"
-          }
-        ],
-        "checked_at": 1792202496
-      }
     }
   },
-  "updated_at": 1792568404
+  "updated_at": 1792579014
 }
