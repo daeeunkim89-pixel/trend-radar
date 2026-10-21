@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": 1792592444,
+  "updated_at": 1792621518,
   "items": [
     {
       "event_key": "lebron-sixers-regular-season-debut-defeats-knicks-20261020",
@@ -8585,6 +8585,15 @@
       "ready": 10,
       "missing": 0,
       "unfinished": 5
+    },
+    {
+      "hour_utc": "2026102123",
+      "at": 1792621518,
+      "status": "preparing",
+      "required": 10,
+      "ready": 0,
+      "missing": 10,
+      "unfinished": "08시 회차 시작. 12시간 이내·미발송·원본 확인 후보를 네 분야에서 재검증"
     }
   ]
 }
