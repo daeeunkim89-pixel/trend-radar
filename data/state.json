@@ -1,5 +1,5 @@
 {
-  "updated_at": 1792591201,
+  "updated_at": 1792623601,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,65 +15,65 @@
     "requested_stories": 10,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026102114",
+    "hour_utc": "2026102123",
     "category_counts": {
       "시사": 9,
-      "축구": 0,
-      "메이저 스포츠": 1,
+      "축구": 1,
+      "메이저 스포츠": 0,
       "아이돌": 0
     },
-    "research_queries": 19,
+    "research_queries": 12,
     "opened_sources": 10,
     "picks": [
       {
-        "title": "단일종목 레버리지 두 달 반 만에 6.3조 손실…70대는 계좌당 3천만원",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008808921",
-        "event_key": "korea-single-stock-leverage-6-3-trillion-loss-20261021"
+        "title": "메타에 250억달러 배상 평결…“개인정보 약속으로 소비자 오도”",
+        "url": "https://www.hankyung.com/article/2026102273247",
+        "event_key": "meta-new-mexico-25b-privacy-deception-judgment-20261021"
       },
       {
-        "title": "AI 채팅 15곳 불러 모았다…11월부터 성적 대화·청소년 접근 본격 심의",
-        "url": "https://www.yna.co.kr/amp/view/AKR20261021166900017",
-        "event_key": "ai-chat-services-youth-content-review-november-20261021"
+        "title": "챔스 데뷔 코모가 맨유 4-1 격파…유럽대항전 32년 만의 최악 패배",
+        "url": "https://www.theguardian.com/football/live/2026/oct/21/como-v-manchester-united-champions-league-live",
+        "event_key": "como-4-1-manchester-united-worst-european-loss-20261021"
       },
       {
-        "title": "고척돔 지붕 뼈대 466개 중 23개 기준 초과…전국 5개 경기장 붕괴 위험",
-        "url": "https://amp.seoul.co.kr/seoul/20261022008003",
-        "event_key": "korea-major-stadium-collapse-risk-audit-20261021"
+        "title": "후티 공격 속 미국, 사우디 비필수 공무원·가족에 철수 명령",
+        "url": "https://www.reuters.com/world/middle-east/us-preparing-issue-ordered-departure-some-personnel-gulf-embassies-us-officials-2026-10-21/",
+        "event_key": "us-orders-nonemergency-departure-saudi-houthi-attacks-20261021"
       },
       {
-        "title": "“검토” 이틀 만에 “가동”으로…북한, 10월 중 전 국경선 대남확성기 예고",
-        "url": "https://www.yna.co.kr/amp/view/AKR20261021168200504",
-        "event_key": "north-korea-all-border-loudspeakers-october-activation-20261021"
+        "title": "중국 연계 해커, AI 침투도구로 커넥트와이즈 뚫고 수백 곳 노렸다",
+        "url": "https://www.reuters.com/technology/chinese-linked-hackers-compromise-connectwise-target-hundreds-global-attack-2026-10-21/",
+        "event_key": "storm-0940-ai-artex-connectwise-global-attack-20261021"
       },
       {
-        "title": "외국인에게 청약통장 115만건 팔았다…당첨은 90건·중도해지 절반",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008808923",
-        "event_key": "foreigners-housing-subscription-account-unusable-solicitation-20261021"
+        "title": "프랑스 10년물 금리 5% 돌파…독일과 격차 15년 만에 최대",
+        "url": "https://www.hankyung.com/article/202610217106i",
+        "event_key": "france-10y-yield-5-percent-euro-debt-warning-20261021"
       },
       {
-        "title": "“비타민 주사”라더니 납 배출용…경찰, DN오토모티브 공장 압수수색",
-        "url": "https://imnews.imbc.com/news/2026/society/article/6859681_36918.html",
-        "event_key": "dn-automotive-lead-chelation-police-raid-20261021"
+        "title": "미 의원들 “러시아가 AI 가짜광고로 민주당 후보 겨냥”",
+        "url": "https://www.reuters.com/world/us/lawmakers-say-us-briefing-showed-russia-targeting-democrats-with-misinformation-2026-10-21/",
+        "event_key": "us-briefing-russia-ai-misinformation-democrats-midterms-20261021"
       },
       {
-        "title": "푸틴에게 종전안 문서 건넨 미국 특사…회담 직전 구금 미국인도 석방",
-        "url": "https://www.yna.co.kr/amp/view/AKR20261021165300109",
-        "event_key": "us-envoy-ukraine-peace-plan-putin-american-released-20261021"
+        "title": "테슬라 매출 제자리·이익 4%↓…스페이스X 합병 논의는 공식 테이블로",
+        "url": "https://www.theverge.com/transportation/1015790/tesla-q3-2026-earnings-revenue-profit-roadster-spacex-merger",
+        "event_key": "tesla-q3-flat-revenue-profit-drop-spacex-merger-panels-20261021"
       },
       {
-        "title": "SK하이닉스, 40조원 자사주 매입 한 달 조기 종료…2407만주 전량 소각",
-        "url": "https://www.mt.co.kr/stock/2026/10/21/2026102118031616786",
-        "event_key": "sk-hynix-40-trillion-buyback-completed-early-20261021"
+        "title": "메타, AI 투자로 잉여현금흐름 적자…저커버그 지배권 안 줄이는 신주 만든다",
+        "url": "https://www.hankyung.com/article/202610227257i",
+        "event_key": "meta-ai-capex-negative-fcf-class-c-shares-20261021"
       },
       {
-        "title": "국감 전체 배제는 안 된다…헌재, 이진숙 제척 일부만 인정",
-        "url": "https://www.seoul.co.kr/news/society/2026/10/21/20261021500304",
-        "event_key": "constitutional-court-lee-jinsook-audit-recusal-injunction-20261021"
+        "title": "교황 레오 수술 후 “추가 치료 불필요”…의료진 “종양 전이 없어”",
+        "url": "https://www.reuters.com/world/europe/pope-leo-will-not-need-further-therapy-after-his-operation-doctors-say-2026-10-21/",
+        "event_key": "pope-leo-no-further-therapy-tumor-not-spread-20261021"
       },
       {
-        "title": "트럼프 관세 3천억원 돌려받은 아디다스…분기 매출·영업익 모두 역대 최고",
-        "url": "https://www.yna.co.kr/amp/view/AKR20261021142900082",
-        "event_key": "adidas-tariff-refund-record-quarter-20261021"
+        "title": "트럼프 슈퍼팩, 막판 6주에 2억7700만달러…핵심 경합주에 쏟았다",
+        "url": "https://www.reuters.com/legal/government/trumps-maga-inc-unleashes-277-million-last-ditch-effort-save-republicans-key-us-2026-10-21/",
+        "event_key": "maga-inc-277m-six-week-midterm-spending-disclosure-20261021"
       }
     ]
   }
