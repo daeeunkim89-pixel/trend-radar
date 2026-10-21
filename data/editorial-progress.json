@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": 1792585271,
+  "updated_at": 1792585478,
   "items": [
     {
       "event_key": "lebron-sixers-regular-season-debut-defeats-knicks-20261020",
@@ -7944,13 +7944,23 @@
     },
     {
       "event_key": "nmixx-birthday-wish-stage-practice-20261021",
-      "url": "https://youtu.be/QA4DVpNl_8U",
+      "url": "https://www.youtube.com/watch?v=QA4DVpNl_8U",
       "title": "NMIXX ‘Birthday Wish’ 스테이지 프랙티스",
       "category": "아이돌",
       "status": "needs_visual",
-      "note": "공식 영상 제목과 21일 저녁 공개 경로는 확인했지만 핵심 안무·도입·엔딩 연속 장면을 실제 재생하지 못했다.",
-      "next_action": "공식 영상에서 도입·핵심 동작·엔딩을 실제 시청하고 업로드 시각을 재확인한 뒤 장면형 후보로 판단.",
-      "recorded_at": 1792582355
+      "note": "공식 채널의 21일 저녁 영상·3시간 전 공개·조회수 6만·좋아요 1.1만을 확인했다. 2:46 지정 재생까지 갔지만 영상 프레임이 계속 버퍼링돼 실제 고음·안무 장면은 보지 못했다.",
+      "next_action": "공식 영상 재생이 가능해지면 1:09·1:35·2:46 구간의 동작과 엔딩을 직접 보고 연속 장면 기준으로 채택 판단.",
+      "recorded_at": 1792585478
+    },
+    {
+      "event_key": "ive-looks-can-kill-performance-video-20261021",
+      "url": "https://www.youtube.com/watch?v=vL4y-ZuKzZs",
+      "title": "IVE ‘Looks Can Kill’ 퍼포먼스 비디오",
+      "category": "아이돌",
+      "status": "needs_visual",
+      "note": "IVE 공식 채널·X의 21일 저녁 공개와 YouTube 3시간 전·조회수 17만을 확인했다. 검색·플레이어 정보만으로는 핵심 동작과 결과를 검증할 수 없다.",
+      "next_action": "공식 영상에서 도입·핵심 안무·엔딩을 실제 재생해 첫 장으로 쓸 장면과 다음 컷 변화를 확인.",
+      "recorded_at": 1792585478
     }
   ],
   "attempts": [
@@ -8214,6 +8224,15 @@
       "ready": 7,
       "missing": 3,
       "unfinished": 7
+    },
+    {
+      "hour_utc": "2026102114",
+      "at": 1792585478,
+      "status": "researching",
+      "required": 10,
+      "ready": 7,
+      "missing": 3,
+      "unfinished": 8
     }
   ]
 }
