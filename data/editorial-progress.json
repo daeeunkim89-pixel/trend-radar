@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": 1792574892,
+  "updated_at": 1792578495,
   "items": [
     {
       "event_key": "lebron-sixers-regular-season-debut-defeats-knicks-20261020",
@@ -8250,7 +8250,7 @@
       "url": "https://www.smarttoday.co.kr/ko-kr/articles/112982",
       "title": "개인투자자 단일종목 레버리지 ETF 손실 6조3130억원",
       "category": "시사",
-      "status": "reviewed",
+      "status": "rejected",
       "recorded_at": 1792574748,
       "pick": {
         "title": "개인투자자 단일종목 레버리지 ETF 손실 6조3130억원",
@@ -8339,7 +8339,9 @@
           "아이브 레이×하츠투하츠 지우·아나 챌린지는 공식 영상 제목과 반응 수만 확인했고 핵심 동작을 실제 시청하지 못해 보류했다.",
           "에버랜드 자리 맡기 물품 이동 영상은 기사 설명만 확인했고 핵심 연속 장면을 실제 시청하지 못해 보류했다."
         ]
-      }
+      },
+      "note": "17시 회차에 이미 전송된 single-stock-etp-personal-losses-6point313-trillion-disclosure-20261021과 같은 금감원 단일종목 ETP 손실 사건이다.",
+      "next_action": "같은 통계 재추천 금지. 새로운 확정 조치가 생길 때만 별도 사건으로 검토."
     },
     {
       "event_key": "acrc-learning-platform-vendor-false-deletion-report-disclosure-20261021",
@@ -9673,6 +9675,15 @@
       "status": "researching",
       "required": 10,
       "ready": 13,
+      "missing": 0,
+      "unfinished": 6
+    },
+    {
+      "hour_utc": "2026102111",
+      "at": 1792578495,
+      "status": "preparing",
+      "required": 10,
+      "ready": 12,
       "missing": 0,
       "unfinished": 6
     }
