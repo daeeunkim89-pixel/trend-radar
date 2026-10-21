@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": 1792574748,
+  "updated_at": 1792574892,
   "items": [
     {
       "event_key": "lebron-sixers-regular-season-debut-defeats-knicks-20261020",
@@ -9465,6 +9465,16 @@
       "note": "가요계 관계자 인용 단독 보도만 있고 JYP 공식 확인이나 구체 장면이 없다.",
       "next_action": "JYP 공식 확인 또는 앨범 정보가 나온 뒤 새 사실로 검토.",
       "recorded_at": 1792574748
+    },
+    {
+      "event_key": "korea-national-team-96-line-retirement-rumor-national-audit-20261021",
+      "url": "https://news.nate.com/view/20261021n30883",
+      "title": "김민재·황희찬·황인범 ‘96라인 은퇴설’ 국감 질의",
+      "category": "축구",
+      "status": "rejected",
+      "note": "국정감사에서 불화·은퇴설이 언급됐지만 축구협회는 구체 내용을 공개하지 않았고 선수들의 확인된 행동·결과가 없다. 미확인 소문을 새 사실처럼 확대할 수 없다.",
+      "next_action": "선수 본인 또는 대한축구협회의 구체적 공식 발표가 나오기 전에는 재추천하지 않기.",
+      "recorded_at": 1792574892
     }
   ],
   "attempts": [
@@ -9656,6 +9666,15 @@
       "ready": 13,
       "missing": 0,
       "unfinished": 5
+    },
+    {
+      "hour_utc": "2026102111",
+      "at": 1792574892,
+      "status": "researching",
+      "required": 10,
+      "ready": 13,
+      "missing": 0,
+      "unfinished": 6
     }
   ]
 }
