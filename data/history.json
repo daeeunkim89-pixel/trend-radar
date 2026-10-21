@@ -1,6 +1,730 @@
 {
   "version": 1,
   "items": {
+    "8750c7967446": {
+      "source": "SBS",
+      "title": "단일종목 레버리지 두 달 반 만에 6.3조 손실…70대는 계좌당 3천만원",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008808921",
+      "first_seen_at": 1792589684,
+      "last_seen_at": 1792589684,
+      "samples": [
+        {
+          "at": 1792589684,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "8750c7967446",
+      "editorial": {
+        "title": "단일종목 레버리지 두 달 반 만에 6.3조 손실…70대는 계좌당 3천만원",
+        "category": "시사",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008808921",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "korea-single-stock-leverage-6-3-trillion-loss-20261021",
+        "why": "반도체 대표주와 연결된 고위험 상품에서 개인 손실 6.3조원이 발생해 투자자 가족과 시장 참여자 모두가 체감할 숫자가 크다.",
+        "angle": "첫 장은 6.3조원 손실, 다음 장은 확정손실 2.3조·평가손실 4조와 70대 계좌당 3천만원을 나눈다.",
+        "why_now": "금융감독원이 10개 증권사 자료를 분석한 손실 규모가 21일 20:25 처음 보도됐다.",
+        "verified_at": 1792589541,
+        "published_at": 1792581900,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008808921",
+            "note": "21일 20:25 본문에서 개인 손실 6.3조원, 확정손실 2.3조원, 평가손실 약 4조원, 70대 계좌당 약 3천만원을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008808921",
+            "label": "확인한 금감원 분석 보도",
+            "kind": "source"
+          }
+        ],
+        "caution": "손실 집계 기준일은 8월 14일이다. 이후 30~40% 추가 하락에 따른 손실 확대는 가능성으로만 표현한다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-21",
+          "observation": "10개 증권사 분석에서 출시 후 개인 손실 6.3조원, 70대 계좌당 약 3천만원, 최근 가격 추가 하락을 본문에서 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 두 달 반 만에 손실 6.3조원",
+            "2장: 확정 2.3조·평가 4조",
+            "3장: 70대 계좌당 3천만원",
+            "4장: 집계 뒤 추가 하락 주의"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 금감원 분석 보도",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008808921"
+          }
+        ],
+        "excerpt": "",
+        "context": "금융감독원이 10개 증권사 자료를 분석한 손실 규모가 21일 20:25 처음 보도됐다.",
+        "fetched_at": 1792589684,
+        "parser_revision": 7
+      },
+      "curation_event_key": "korea-single-stock-leverage-6-3-trillion-loss-20261021"
+    },
+    "26e7188b9056": {
+      "source": "연합뉴스",
+      "title": "AI 채팅 15곳 불러 모았다…11월부터 성적 대화·청소년 접근 본격 심의",
+      "link": "https://www.yna.co.kr/amp/view/AKR20261021166900017",
+      "first_seen_at": 1792589684,
+      "last_seen_at": 1792589684,
+      "samples": [
+        {
+          "at": 1792589684,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "26e7188b9056",
+      "editorial": {
+        "title": "AI 채팅 15곳 불러 모았다…11월부터 성적 대화·청소년 접근 본격 심의",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/amp/view/AKR20261021166900017",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "ai-chat-services-youth-content-review-november-20261021",
+        "why": "캐릭터 AI를 쓰는 청소년·부모와 사업자에게 본인인증·입출력 차단이라는 직접 변화가 생길 수 있다.",
+        "angle": "첫 장은 ‘AI가 성적 묘사를 생성’, 다음 장은 15개사 회의→11월 심의→사업자 요구 순서로 전개한다.",
+        "why_now": "방송미디어통신심의위원회가 21일 15개 사업자를 불러 11월부터 공식 심의에 착수한다고 처음 밝혔다.",
+        "verified_at": 1792589541,
+        "published_at": 1792578120,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/amp/view/AKR20261021166900017",
+            "note": "21일 19:22 기사에서 15개 AI 채팅 사업자 회의, 11월 공식 심의, 연령 확인·입출력 차단·신고 기능 요구를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/amp/view/AKR20261021166900017",
+            "label": "확인한 발표·본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "사업자별 위반 확정이나 제재 결정은 아직 아니다. 기사에 없는 서비스명을 특정하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-21",
+          "observation": "위원회가 성적 캐릭터 프로필과 AI의 성적 답변을 문제로 들고 11월 심의 및 연령 확인·차단 장치를 요구한 사실을 본문에서 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: ‘성적 대화 만드는 AI’와 15개 사업자 소집",
+            "2장: 11월 공식 심의 시작",
+            "3장: 본인인증·입출력 차단·신고 요구"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 발표·본문",
+            "url": "https://www.yna.co.kr/amp/view/AKR20261021166900017"
+          }
+        ],
+        "excerpt": "",
+        "context": "방송미디어통신심의위원회가 21일 15개 사업자를 불러 11월부터 공식 심의에 착수한다고 처음 밝혔다.",
+        "fetched_at": 1792589684,
+        "parser_revision": 7
+      },
+      "curation_event_key": "ai-chat-services-youth-content-review-november-20261021"
+    },
+    "4fc1882a5187": {
+      "source": "서울신문·감사원 중간감사",
+      "title": "고척돔 지붕 뼈대 466개 중 23개 기준 초과…전국 5개 경기장 붕괴 위험",
+      "link": "https://amp.seoul.co.kr/seoul/20261022008003",
+      "first_seen_at": 1792589684,
+      "last_seen_at": 1792589684,
+      "samples": [
+        {
+          "at": 1792589684,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "4fc1882a5187",
+      "editorial": {
+        "title": "고척돔 지붕 뼈대 466개 중 23개 기준 초과…전국 5개 경기장 붕괴 위험",
+        "category": "메이저 스포츠",
+        "url": "https://amp.seoul.co.kr/seoul/20261022008003",
+        "source": "서울신문·감사원 중간감사",
+        "kind": "article",
+        "event_key": "korea-major-stadium-collapse-risk-audit-20261021",
+        "why": "야구·축구 팬과 공연 관객이 실제 찾는 5개 대형 경기장의 구조 안전 문제라 체감 범위가 크다.",
+        "angle": "첫 장은 고척돔 23개 연결부 변형, 다음 장은 잠실·상암·문학·전주까지 시설별 위험을 지도처럼 정리한다.",
+        "why_now": "감사원이 21일 중간감사에서 폭설·폭우 때 붕괴 위험이 있는 전국 5개 주요 경기장을 공개했다.",
+        "verified_at": 1792589541,
+        "published_at": 1792573380,
+        "evidence": [
+          {
+            "url": "https://amp.seoul.co.kr/seoul/20261022008003",
+            "note": "고척돔 지붕 연결부 466개 중 23개 변형과 잠실·상암·문학·전주 경기장별 구조 취약점을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://amp.seoul.co.kr/seoul/20261022008003",
+            "label": "확인한 발표·본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "감사원은 즉시 폐쇄 필요성은 낮다고 봤다. ‘당장 붕괴’로 과장하지 않고 중간감사임을 밝힌다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-21",
+          "observation": "감사원 중간감사에서 5개 경기장의 폭설·폭우 시 위험과 고척돔 23개 연결부 기준 초과 변형을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 고척돔 466개 중 23개 변형",
+            "2장: 위험 경기장 5곳",
+            "3장: 시설별 원인",
+            "4장: 즉시 폐쇄 아닌 신속 보강 권고"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 발표·본문",
+            "url": "https://amp.seoul.co.kr/seoul/20261022008003"
+          }
+        ],
+        "excerpt": "",
+        "context": "감사원이 21일 중간감사에서 폭설·폭우 때 붕괴 위험이 있는 전국 5개 주요 경기장을 공개했다.",
+        "fetched_at": 1792589684,
+        "parser_revision": 7
+      },
+      "curation_event_key": "korea-major-stadium-collapse-risk-audit-20261021"
+    },
+    "d2d2e66f064b": {
+      "source": "연합뉴스",
+      "title": "“검토” 이틀 만에 “가동”으로…북한, 10월 중 전 국경선 대남확성기 예고",
+      "link": "https://www.yna.co.kr/amp/view/AKR20261021168200504",
+      "first_seen_at": 1792589684,
+      "last_seen_at": 1792589684,
+      "samples": [
+        {
+          "at": 1792589684,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "d2d2e66f064b",
+      "editorial": {
+        "title": "“검토” 이틀 만에 “가동”으로…북한, 10월 중 전 국경선 대남확성기 예고",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/amp/view/AKR20261021168200504",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "north-korea-all-border-loudspeakers-october-activation-20261021",
+        "why": "접경지 주민과 남북 긴장에 직접 영향을 주는 조치가 ‘검토’에서 구체적 가동 계획으로 바뀌었다.",
+        "angle": "첫 장에 10월 중 전 국경선 가동, 다음 장에 19일 검토 발언과 21일 확정 표현을 대비한다.",
+        "why_now": "김여정이 21일 19:25 보도된 담화에서 10월 안에 국경선 전 구간 확성기를 가동하겠다고 밝혔다.",
+        "verified_at": 1792589541,
+        "published_at": 1792578300,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/amp/view/AKR20261021168200504",
+            "note": "김여정 담화의 ‘10월 중 모든 전선에서 가동’ 표현과 19일 ‘검토’ 발언에서 달라진 점을 기사 본문에서 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/amp/view/AKR20261021168200504",
+            "label": "확인한 발표·본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "실제 전 구간 가동이 완료된 것은 아니다. 북한 측 예고와 확인된 실행을 구분한다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-21",
+          "observation": "북한이 19일 검토 단계에서 21일 10월 내 전 국경선 대남확성기 가동 계획으로 표현을 강화한 사실을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: ‘전 국경선·10월 중 가동’",
+            "2장: 이틀 전 ‘검토’와 달라진 문구",
+            "3장: 접경지역 긴장과 실제 가동 여부"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 발표·본문",
+            "url": "https://www.yna.co.kr/amp/view/AKR20261021168200504"
+          }
+        ],
+        "excerpt": "",
+        "context": "김여정이 21일 19:25 보도된 담화에서 10월 안에 국경선 전 구간 확성기를 가동하겠다고 밝혔다.",
+        "fetched_at": 1792589684,
+        "parser_revision": 7
+      },
+      "curation_event_key": "north-korea-all-border-loudspeakers-october-activation-20261021"
+    },
+    "78adff5c6dd7": {
+      "source": "SBS",
+      "title": "외국인에게 청약통장 115만건 팔았다…당첨은 90건·중도해지 절반",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008808923",
+      "first_seen_at": 1792589684,
+      "last_seen_at": 1792589684,
+      "samples": [
+        {
+          "at": 1792589684,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "78adff5c6dd7",
+      "editorial": {
+        "title": "외국인에게 청약통장 115만건 팔았다…당첨은 90건·중도해지 절반",
+        "category": "시사",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008808923",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "foreigners-housing-subscription-account-unusable-solicitation-20261021",
+        "why": "한국 생활에 익숙하지 않은 외국인에게 실효성이 낮은 금융상품이 대규모로 판매된 문제라 소비자 피해와 제도 허점이 즉시 읽힌다.",
+        "angle": "첫 장은 판매 115만건 대 당첨 90건, 다음 장은 가입 제한 구조와 50% 중도해지율을 보여준다.",
+        "why_now": "최근 5년간 5대 은행의 외국인 청약통장 판매·당첨·해지 자료가 21일 20:29 처음 공개됐다.",
+        "verified_at": 1792589541,
+        "published_at": 1792582140,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008808923",
+            "note": "2022년부터 올해 상반기까지 판매 115만건, 당첨 90건(0.007%), 중도해지율 약 50%, 1년 내 해지 27%를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008808923",
+            "label": "확인한 은행 판매 자료 보도",
+            "kind": "source"
+          }
+        ],
+        "caution": "외국인도 일부 비규제지역 일반공급 등에는 신청할 수 있다. 청약이 전면 불가능하다고 쓰지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-21",
+          "observation": "5대 은행 외국인 청약통장 판매 115만건과 당첨 90건, 제한된 신청 자격, 약 50% 중도해지를 본문에서 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 115만건 판매·당첨 90건",
+            "2장: 외국인 청약 자격의 벽",
+            "3장: 중도해지 절반",
+            "4장: 은행의 금리 장점 반론"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 은행 판매 자료 보도",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008808923"
+          }
+        ],
+        "excerpt": "",
+        "context": "최근 5년간 5대 은행의 외국인 청약통장 판매·당첨·해지 자료가 21일 20:29 처음 공개됐다.",
+        "fetched_at": 1792589684,
+        "parser_revision": 7
+      },
+      "curation_event_key": "foreigners-housing-subscription-account-unusable-solicitation-20261021"
+    },
+    "e37799b41ed2": {
+      "source": "MBC",
+      "title": "“비타민 주사”라더니 납 배출용…경찰, DN오토모티브 공장 압수수색",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6859681_36918.html",
+      "first_seen_at": 1792589684,
+      "last_seen_at": 1792589684,
+      "samples": [
+        {
+          "at": 1792589684,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "e37799b41ed2",
+      "editorial": {
+        "title": "“비타민 주사”라더니 납 배출용…경찰, DN오토모티브 공장 압수수색",
+        "category": "시사",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6859681_36918.html",
+        "source": "MBC",
+        "kind": "article",
+        "event_key": "dn-automotive-lead-chelation-police-raid-20261021",
+        "why": "노동자 건강검진 수치를 낮추려 주사까지 맞혔다는 의혹이 실제 압수수색으로 전환돼 직장인과 가족이 공유할 이유가 분명하다.",
+        "angle": "첫 장은 ‘비타민 주사’와 실제 킬레이션 주사의 대비, 다음 장은 압수수색·적용 혐의·수사 대상을 전개한다.",
+        "why_now": "울산경찰청이 21일 DN오토모티브 공장 사무실을 압수수색해 관련 기록을 확보했다.",
+        "verified_at": 1792589541,
+        "published_at": 1792575780,
+        "evidence": [
+          {
+            "url": "https://imnews.imbc.com/news/2026/society/article/6859681_36918.html",
+            "note": "21일 18:43 본문에서 울산경찰청 압수수색, 킬레이션 주사 기록 확보, 회사·병원에 적용한 혐의를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://imnews.imbc.com/news/2026/society/article/6859681_36918.html",
+            "label": "확인한 압수수색 보도",
+            "kind": "source"
+          }
+        ],
+        "caution": "주사 투여와 검진 수치 조작은 수사 중인 의혹이다. 회사와 병원의 유죄가 확정된 것으로 표현하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-21",
+          "observation": "경찰이 울산공장 사무실을 압수수색해 킬레이션 주사 관련 기록을 확보했고 회사·병원 혐의를 수사 중임을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: ‘비타민’과 납 배출 주사의 대비",
+            "2장: 울산공장 압수수색",
+            "3장: 확보한 주사 기록",
+            "4장: 회사·병원 수사 단계"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 압수수색 보도",
+            "url": "https://imnews.imbc.com/news/2026/society/article/6859681_36918.html"
+          }
+        ],
+        "excerpt": "",
+        "context": "울산경찰청이 21일 DN오토모티브 공장 사무실을 압수수색해 관련 기록을 확보했다.",
+        "fetched_at": 1792589684,
+        "parser_revision": 7
+      },
+      "curation_event_key": "dn-automotive-lead-chelation-police-raid-20261021"
+    },
+    "bc1a9ffcdb6e": {
+      "source": "연합뉴스",
+      "title": "푸틴에게 종전안 문서 건넨 미국 특사…회담 직전 구금 미국인도 석방",
+      "link": "https://www.yna.co.kr/amp/view/AKR20261021165300109",
+      "first_seen_at": 1792589684,
+      "last_seen_at": 1792589684,
+      "samples": [
+        {
+          "at": 1792589684,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "bc1a9ffcdb6e",
+      "editorial": {
+        "title": "푸틴에게 종전안 문서 건넨 미국 특사…회담 직전 구금 미국인도 석방",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/amp/view/AKR20261021165300109",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "us-envoy-ukraine-peace-plan-putin-american-released-20261021",
+        "why": "우크라이나 전쟁 협상과 억류 미국인 석방이 한 회담에서 맞물린 큰 외교 변화다.",
+        "angle": "첫 장은 종전안 문서 전달, 다음 장은 3자회담 제안과 회담 직전 미국인 석방을 시간순으로 보여준다.",
+        "why_now": "미국 특사가 21일 푸틴에게 서면 종전안을 전달했고 러시아가 회담 전 억류 미국인을 석방했다.",
+        "verified_at": 1792589541,
+        "published_at": 1792577100,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/amp/view/AKR20261021165300109",
+            "note": "위트코프가 서면 평화안을 전달하고 3자회담 재개를 제안했으며 스티븐 허버드가 회담 전 석방된 사실을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/amp/view/AKR20261021165300109",
+            "label": "확인한 발표·본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "종전안 조건은 공개되지 않았고 3자회담 합의도 아직 아니다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-21",
+          "observation": "미국 특사의 푸틴 면담, 서면 평화안 전달, 3자회담 제안, 억류 미국인 석방을 같은 기사에서 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 푸틴에게 전달된 서면 종전안",
+            "2장: 미국의 3자회담 재개 요구",
+            "3장: 회담 직전 억류 미국인 석방"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 발표·본문",
+            "url": "https://www.yna.co.kr/amp/view/AKR20261021165300109"
+          }
+        ],
+        "excerpt": "",
+        "context": "미국 특사가 21일 푸틴에게 서면 종전안을 전달했고 러시아가 회담 전 억류 미국인을 석방했다.",
+        "fetched_at": 1792589684,
+        "parser_revision": 7
+      },
+      "curation_event_key": "us-envoy-ukraine-peace-plan-putin-american-released-20261021"
+    },
+    "b91d5202ccf8": {
+      "source": "머니투데이",
+      "title": "SK하이닉스, 40조원 자사주 매입 한 달 조기 종료…2407만주 전량 소각",
+      "link": "https://www.mt.co.kr/stock/2026/10/21/2026102118031616786",
+      "first_seen_at": 1792589684,
+      "last_seen_at": 1792589684,
+      "samples": [
+        {
+          "at": 1792589684,
+          "views": null,
+          "reactions": null,
+          "rank": 8,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "b91d5202ccf8",
+      "editorial": {
+        "title": "SK하이닉스, 40조원 자사주 매입 한 달 조기 종료…2407만주 전량 소각",
+        "category": "시사",
+        "url": "https://www.mt.co.kr/stock/2026/10/21/2026102118031616786",
+        "source": "머니투데이",
+        "kind": "article",
+        "event_key": "sk-hynix-40-trillion-buyback-completed-early-20261021",
+        "why": "국내 증시 투자자에게 사상 최대 규모의 자사주 매입과 전량 소각이 주주가치에 주는 영향을 숫자로 보여준다.",
+        "angle": "첫 장은 40조원·한 달 조기 종료, 다음 장은 2407만주·지분 3.3% 전량 소각과 28일 추가 계획을 보여준다.",
+        "why_now": "SK하이닉스가 21일 40조원 자사주 매입 완료를 공시했고 당초보다 한 달 앞당겼다.",
+        "verified_at": 1792589541,
+        "published_at": 1792573560,
+        "evidence": [
+          {
+            "url": "https://www.mt.co.kr/stock/2026/10/21/2026102118031616786",
+            "note": "2407만주, 지분 3.3%를 취득해 전량 소각하기로 했고 매입이 예정일보다 한 달 일찍 끝난 사실을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.mt.co.kr/stock/2026/10/21/2026102118031616786",
+            "label": "확인한 발표·본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "매입은 완료됐지만 소각 절차와 28일 새 환원정책 발표는 이후 확인이 필요하다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-21",
+          "observation": "국내 상장사 최대 규모라는 40조원 매입, 2407만주·3.3% 전량 소각 계획과 조기 종료를 본문에서 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 40조원 매입 조기 완료",
+            "2장: 2407만주·3.3% 전량 소각",
+            "3장: 28일 새 주주환원정책 예고"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 발표·본문",
+            "url": "https://www.mt.co.kr/stock/2026/10/21/2026102118031616786"
+          }
+        ],
+        "excerpt": "",
+        "context": "SK하이닉스가 21일 40조원 자사주 매입 완료를 공시했고 당초보다 한 달 앞당겼다.",
+        "fetched_at": 1792589684,
+        "parser_revision": 7
+      },
+      "curation_event_key": "sk-hynix-40-trillion-buyback-completed-early-20261021"
+    },
+    "434325245711": {
+      "source": "서울신문",
+      "title": "국감 전체 배제는 안 된다…헌재, 이진숙 제척 일부만 인정",
+      "link": "https://www.seoul.co.kr/news/society/2026/10/21/20261021500304",
+      "first_seen_at": 1792589684,
+      "last_seen_at": 1792589684,
+      "samples": [
+        {
+          "at": 1792589684,
+          "views": null,
+          "reactions": null,
+          "rank": 9,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "434325245711",
+      "editorial": {
+        "title": "국감 전체 배제는 안 된다…헌재, 이진숙 제척 일부만 인정",
+        "category": "시사",
+        "url": "https://www.seoul.co.kr/news/society/2026/10/21/20261021500304",
+        "source": "서울신문",
+        "kind": "article",
+        "event_key": "constitutional-court-lee-jinsook-audit-recusal-injunction-20261021",
+        "why": "국정감사에서 증인의 전면 배제와 이해충돌 범위를 어디까지 인정할지 보여주는 첫 판단이다.",
+        "angle": "첫 장은 ‘전체 국감 출석 가능’, 다음 장은 자신의 재임 사안만 제척된 범위와 헌재 판단 의미를 정리한다.",
+        "why_now": "헌재가 21일 일부 인용해 22일 국감 출석은 허용하되 본인 재임 관련 사안 참여는 제한했다.",
+        "verified_at": 1792589541,
+        "published_at": 1792577280,
+        "evidence": [
+          {
+            "url": "https://www.seoul.co.kr/news/society/2026/10/21/20261021500304",
+            "note": "헌재가 국감 직무 전면 정지는 받아들이지 않고 본인의 재임 관련 사안에 한해 제척을 인정한 결정을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.seoul.co.kr/news/society/2026/10/21/20261021500304",
+            "label": "확인한 발표·본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "본안 결정이 아니라 가처분 일부 인용이다. 모든 안건 참여가 허용된 것으로 쓰지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-21",
+          "observation": "헌재 결정으로 22일 국감 참석은 가능하지만 본인 재임과 직접 관련된 사안에는 참여할 수 없다는 범위를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: ‘전면 배제는 안 된다’",
+            "2장: 출석 가능 범위",
+            "3장: 재임 관련 사안만 제척"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 발표·본문",
+            "url": "https://www.seoul.co.kr/news/society/2026/10/21/20261021500304"
+          }
+        ],
+        "excerpt": "",
+        "context": "헌재가 21일 일부 인용해 22일 국감 출석은 허용하되 본인 재임 관련 사안 참여는 제한했다.",
+        "fetched_at": 1792589684,
+        "parser_revision": 7
+      },
+      "curation_event_key": "constitutional-court-lee-jinsook-audit-recusal-injunction-20261021"
+    },
+    "ed58047a3c22": {
+      "source": "연합뉴스",
+      "title": "트럼프 관세 3천억원 돌려받은 아디다스…분기 매출·영업익 모두 역대 최고",
+      "link": "https://www.yna.co.kr/amp/view/AKR20261021142900082",
+      "first_seen_at": 1792589684,
+      "last_seen_at": 1792589684,
+      "samples": [
+        {
+          "at": 1792589684,
+          "views": null,
+          "reactions": null,
+          "rank": 10,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "ed58047a3c22",
+      "editorial": {
+        "title": "트럼프 관세 3천억원 돌려받은 아디다스…분기 매출·영업익 모두 역대 최고",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/amp/view/AKR20261021142900082",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "adidas-tariff-refund-record-quarter-20261021",
+        "why": "미국 관세 판결이 글로벌 브랜드의 실적과 3천억원 환급으로 바로 연결된 숫자 큰 경제 장면이다.",
+        "angle": "첫 장은 3천억원 환급, 다음 장은 분기 매출·영업익 신기록과 연간 전망 상향을 연결한다.",
+        "why_now": "아디다스가 21일 3분기 잠정 실적과 2억유로 관세 환급, 연간 영업익 전망 상향을 공개했다.",
+        "verified_at": 1792589541,
+        "published_at": 1792568100,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/amp/view/AKR20261021142900082",
+            "note": "3분기 매출 72억5200만유로, 영업익 10억800만유로, 2억유로 관세 환급과 연간 전망 상향을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/amp/view/AKR20261021142900082",
+            "label": "확인한 발표·본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "잠정 실적이며 관세 환급이 신기록의 유일한 원인이라고 단정하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-21",
+          "observation": "매출 9%, 영업익 37% 증가와 분기 사상 최고, 2억유로 환급, 연간 영업익 25억유로 전망을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 관세 환급 2억유로",
+            "2장: 매출·영업익 분기 신기록",
+            "3장: 연간 영업익 전망 상향"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 발표·본문",
+            "url": "https://www.yna.co.kr/amp/view/AKR20261021142900082"
+          }
+        ],
+        "excerpt": "",
+        "context": "아디다스가 21일 3분기 잠정 실적과 2억유로 관세 환급, 연간 영업익 전망 상향을 공개했다.",
+        "fetched_at": 1792589684,
+        "parser_revision": 7
+      },
+      "curation_event_key": "adidas-tariff-refund-record-quarter-20261021"
+    },
     "e45198419a1a": {
       "source": "경향신문·서울신문",
       "title": "1심 25년→항소심 9년…박성재 형량을 가른 무죄 판단들",
@@ -156227,187 +156951,7 @@
       ],
       "parser_revision": 3,
       "story_id": "3a55e943469d"
-    },
-    "64ea28472617": {
-      "source": "커뮤니티 인기",
-      "title": "추미애...사과를 원하시니까 사과를합니다",
-      "link": "https://www.issuelink.co.kr/community/go/clien/19278976",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792228200,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 78,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "64ea28472617"
-    },
-    "00761e5816e7": {
-      "source": "커뮤니티 인기",
-      "title": "톰 홀랜드가 보고 빡친 사진",
-      "link": "https://www.issuelink.co.kr/community/go/etoland/9509492",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792228200,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 80,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "00761e5816e7"
-    },
-    "3b24f0bee3d6": {
-      "source": "커뮤니티 인기",
-      "title": "기어봉 만지는데 은근히 야한....gif",
-      "link": "https://www.issuelink.co.kr/community/go/etoland/9509468",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792228200,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 81,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "3b24f0bee3d6"
-    },
-    "4f1b7c0fd9fa": {
-      "source": "커뮤니티 인기",
-      "title": "둥지 가사 ㄹㅇ 미친 개테토남 미쳤어",
-      "link": "https://www.issuelink.co.kr/community/go/instiz/7914459",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792228200,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 83,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "4f1b7c0fd9fa"
-    },
-    "c63364bf6ec9": {
-      "source": "커뮤니티 인기",
-      "title": "나 우울해서 화분샀어",
-      "link": "https://www.issuelink.co.kr/community/go/inven/2741517",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792228200,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 84,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "c63364bf6ec9"
-    },
-    "a04442503636": {
-      "source": "커뮤니티 인기",
-      "title": "트럭의 깜빡이 없는 진로변경 사고 영상입니다. 과실비율..",
-      "link": "https://www.issuelink.co.kr/community/go/bobae/100000860907",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792228200,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 85,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "a04442503636"
-    },
-    "c6e7c2d3358c": {
-      "source": "커뮤니티 인기",
-      "title": "윤석열 \"깐죽거리는 한동훈 패죽이고 싶다\".news",
-      "link": "https://www.issuelink.co.kr/community/go/etoland/9509617",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792228200,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 86,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "c6e7c2d3358c"
-    },
-    "49c2d40f98fb": {
-      "source": "커뮤니티 인기",
-      "title": "불행한 사람의 말 습관",
-      "link": "https://www.issuelink.co.kr/community/go/theqoo/4378468116",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792228200,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 88,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "49c2d40f98fb"
-    },
-    "e724f61595ef": {
-      "source": "커뮤니티 인기",
-      "title": "日정부, 재해 대비 '제2수도' 만든다 … 후보 4곳 윤곽",
-      "link": "https://www.issuelink.co.kr/community/go/theqoo/4378340364",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792228200,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 89,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "e724f61595ef"
-    },
-    "05368d7641f9": {
-      "source": "커뮤니티 인기",
-      "title": "X] 가짜 폐급과 진짜 폐급의 차이.twt",
-      "link": "https://www.issuelink.co.kr/community/go/etoland/9509634",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792228200,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 91,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "05368d7641f9"
     }
   },
-  "updated_at": 1792579014
+  "updated_at": 1792589684
 }
