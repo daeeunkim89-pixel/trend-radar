@@ -1,7 +1,1253 @@
 {
   "version": 1,
-  "updated_at": 1792668235,
+  "updated_at": 1792671905,
   "items": [
+    {
+      "event_key": "coupang-industrial-accident-concealment-probe-result-20261022",
+      "url": "https://www.khan.co.kr/article/202610221510001",
+      "title": "쿠팡 산재 은폐 의혹 조사…“부적절하지만 처벌 대상은 아니다”",
+      "category": "시사",
+      "status": "reviewed",
+      "recorded_at": 1792671905,
+      "pick": {
+        "title": "쿠팡 산재 은폐 의혹 조사…“부적절하지만 처벌 대상은 아니다”",
+        "category": "시사",
+        "url": "https://www.khan.co.kr/article/202610221510001",
+        "source": "경향신문·고용노동부",
+        "kind": "article",
+        "event_key": "coupang-industrial-accident-concealment-probe-result-20261022",
+        "why": "정부 조사 결론이 ‘부적절하지만 처벌 불가’로 갈려 논쟁성이 크다.",
+        "angle": "의혹 제기→정부 조사 결론→제도 공백",
+        "why_now": "고용노동부 조사 결과가 22일 오후 공개됐다.",
+        "published_at": 1792649400,
+        "verified_at": 1792668180,
+        "evidence": [
+          {
+            "url": "https://www.khan.co.kr/article/202610221510001",
+            "note": "조사 결론과 공개 시각을 본문에서 확인했고 MBC 후속으로 교차 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.khan.co.kr/article/202610221510001",
+            "label": "본문·발표 시각 확인",
+            "kind": "source"
+          }
+        ],
+        "caution": "도덕적 평가와 현행법상 처벌 가능성을 구분한다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "조사 결론과 공개 시각을 본문에서 확인했고 MBC 후속으로 교차 확인했다.",
+          "checked_materials": [
+            "https://www.khan.co.kr/article/202610221510001"
+          ],
+          "outline": [
+            "첫 장: 핵심 변화·수치",
+            "2장: 이전 상태와 달라진 점",
+            "3장: 지금의 영향"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "2026년 10월 22일 20시 21시 한국 주요 뉴스 새 발표",
+          "2026년 10월 22일 여자아이돌 공식 영상 장면 20시",
+          "October 22 2026 football breaking news Reuters latest 11 UTC 12 UTC",
+          "October 22 2026 major sports record Reuters latest 11 UTC 12 UTC",
+          "site:reuters.com 2026-10-22 latest world breaking news",
+          "site:reuters.com/sports 2026-10-22 football latest",
+          "site:reuters.com UK restarts large-calibre weapon manufacturing after 20 years",
+          "site:reuters.com Brewers and Rays clash with first World Series title at stake",
+          "site:reuters.com India overcome New Zealand fightback to win T20 opener",
+          "site:reuters.com Ethiopia's Aga handed six-year doping ban"
+        ],
+        "opened_urls": [
+          "https://www.khan.co.kr/article/202610221510001",
+          "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
+          "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
+          "https://imnews.imbc.com/news/2026/society/article/6859996_36918.html",
+          "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
+          "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
+          "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
+          "https://www.reuters.com/legal/government/us-supreme-court-rulings-reshape-midterm-election-battlefield-2026-10-22/",
+          "https://www.reuters.com/business/retail-consumer/pg-flags-bigger-hit-annual-profit-higher-commodity-costs-beats-revenue-estimates-2026-10-22/",
+          "https://www.reuters.com/business/finance/lseg-buy-octus-35-billion-data-analytics-push-2026-10-22/",
+          "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
+          "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
+          "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
+          "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
+          "https://imnews.imbc.com/news/2026/society/article/6859969_36918.html"
+        ],
+        "unavailable": [
+          {
+            "url": "https://www.instagram.com/bythepulse/",
+            "reason": "공개 그리드 개별 게시물·정확한 게시 시각을 이번 실행에서 재확인하지 못했다."
+          },
+          {
+            "url": "https://www.youtube.com/",
+            "reason": "여자아이돌 최신 후보는 원본 장면과 최초 공개 시각을 동시에 확인하지 못했다."
+          }
+        ]
+      }
+    },
+    {
+      "event_key": "ai-glasses-exam-cheating-police-referral-20261022",
+      "url": "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
+      "title": "AI 안경으로 시험 부정행위…경찰 수사로 넘어갔다",
+      "category": "시사",
+      "status": "reviewed",
+      "recorded_at": 1792671905,
+      "pick": {
+        "title": "AI 안경으로 시험 부정행위…경찰 수사로 넘어갔다",
+        "category": "시사",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
+        "source": "MBC뉴스·경찰",
+        "kind": "article",
+        "event_key": "ai-glasses-exam-cheating-police-referral-20261022",
+        "why": "AI 기기가 실제 시험 부정행위 수단으로 쓰였다는 구체성이 강하다.",
+        "angle": "안경형 AI→시험장 탐지 공백→형사 절차",
+        "why_now": "학교 조사 뒤 경찰 수사 의뢰가 공개됐다.",
+        "published_at": 1792655040,
+        "verified_at": 1792668180,
+        "evidence": [
+          {
+            "url": "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
+            "note": "사용 방식, 학교 조치, 경찰 이첩을 본문에서 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
+            "label": "본문·발표 시각 확인",
+            "kind": "source"
+          }
+        ],
+        "caution": "수사 단계이며 유죄 확정 사건이 아니다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "사용 방식, 학교 조치, 경찰 이첩을 본문에서 확인했다.",
+          "checked_materials": [
+            "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html"
+          ],
+          "outline": [
+            "첫 장: 핵심 변화·수치",
+            "2장: 이전 상태와 달라진 점",
+            "3장: 지금의 영향"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "2026년 10월 22일 20시 21시 한국 주요 뉴스 새 발표",
+          "2026년 10월 22일 여자아이돌 공식 영상 장면 20시",
+          "October 22 2026 football breaking news Reuters latest 11 UTC 12 UTC",
+          "October 22 2026 major sports record Reuters latest 11 UTC 12 UTC",
+          "site:reuters.com 2026-10-22 latest world breaking news",
+          "site:reuters.com/sports 2026-10-22 football latest",
+          "site:reuters.com UK restarts large-calibre weapon manufacturing after 20 years",
+          "site:reuters.com Brewers and Rays clash with first World Series title at stake",
+          "site:reuters.com India overcome New Zealand fightback to win T20 opener",
+          "site:reuters.com Ethiopia's Aga handed six-year doping ban"
+        ],
+        "opened_urls": [
+          "https://www.khan.co.kr/article/202610221510001",
+          "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
+          "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
+          "https://imnews.imbc.com/news/2026/society/article/6859996_36918.html",
+          "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
+          "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
+          "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
+          "https://www.reuters.com/legal/government/us-supreme-court-rulings-reshape-midterm-election-battlefield-2026-10-22/",
+          "https://www.reuters.com/business/retail-consumer/pg-flags-bigger-hit-annual-profit-higher-commodity-costs-beats-revenue-estimates-2026-10-22/",
+          "https://www.reuters.com/business/finance/lseg-buy-octus-35-billion-data-analytics-push-2026-10-22/",
+          "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
+          "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
+          "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
+          "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
+          "https://imnews.imbc.com/news/2026/society/article/6859969_36918.html"
+        ],
+        "unavailable": [
+          {
+            "url": "https://www.instagram.com/bythepulse/",
+            "reason": "공개 그리드 개별 게시물·정확한 게시 시각을 이번 실행에서 재확인하지 못했다."
+          },
+          {
+            "url": "https://www.youtube.com/",
+            "reason": "여자아이돌 최신 후보는 원본 장면과 최초 공개 시각을 동시에 확인하지 못했다."
+          }
+        ]
+      }
+    },
+    {
+      "event_key": "japan-tax-free-refund-at-departure-change-20261022",
+      "url": "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
+      "title": "일본 면세, 매장에서 즉시 할인 대신 출국 때 환급한다",
+      "category": "시사",
+      "status": "reviewed",
+      "recorded_at": 1792671905,
+      "pick": {
+        "title": "일본 면세, 매장에서 즉시 할인 대신 출국 때 환급한다",
+        "category": "시사",
+        "url": "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
+        "source": "MBC뉴스·일본 정부",
+        "kind": "article",
+        "event_key": "japan-tax-free-refund-at-departure-change-20261022",
+        "why": "한국 여행객이 바로 체감할 제도 변화다.",
+        "angle": "계산대 즉시 면세→출국 확인 후 환급",
+        "why_now": "새 면세 환급 방식과 시행 일정이 공개됐다.",
+        "published_at": 1792658760,
+        "verified_at": 1792668180,
+        "evidence": [
+          {
+            "url": "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
+            "note": "제도 구조와 시행 일정을 본문에서 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
+            "label": "본문·발표 시각 확인",
+            "kind": "source"
+          }
+        ],
+        "caution": "세부 환급 절차는 시행 전 달라질 수 있다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "제도 구조와 시행 일정을 본문에서 확인했다.",
+          "checked_materials": [
+            "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html"
+          ],
+          "outline": [
+            "첫 장: 핵심 변화·수치",
+            "2장: 이전 상태와 달라진 점",
+            "3장: 지금의 영향"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "2026년 10월 22일 20시 21시 한국 주요 뉴스 새 발표",
+          "2026년 10월 22일 여자아이돌 공식 영상 장면 20시",
+          "October 22 2026 football breaking news Reuters latest 11 UTC 12 UTC",
+          "October 22 2026 major sports record Reuters latest 11 UTC 12 UTC",
+          "site:reuters.com 2026-10-22 latest world breaking news",
+          "site:reuters.com/sports 2026-10-22 football latest",
+          "site:reuters.com UK restarts large-calibre weapon manufacturing after 20 years",
+          "site:reuters.com Brewers and Rays clash with first World Series title at stake",
+          "site:reuters.com India overcome New Zealand fightback to win T20 opener",
+          "site:reuters.com Ethiopia's Aga handed six-year doping ban"
+        ],
+        "opened_urls": [
+          "https://www.khan.co.kr/article/202610221510001",
+          "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
+          "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
+          "https://imnews.imbc.com/news/2026/society/article/6859996_36918.html",
+          "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
+          "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
+          "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
+          "https://www.reuters.com/legal/government/us-supreme-court-rulings-reshape-midterm-election-battlefield-2026-10-22/",
+          "https://www.reuters.com/business/retail-consumer/pg-flags-bigger-hit-annual-profit-higher-commodity-costs-beats-revenue-estimates-2026-10-22/",
+          "https://www.reuters.com/business/finance/lseg-buy-octus-35-billion-data-analytics-push-2026-10-22/",
+          "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
+          "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
+          "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
+          "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
+          "https://imnews.imbc.com/news/2026/society/article/6859969_36918.html"
+        ],
+        "unavailable": [
+          {
+            "url": "https://www.instagram.com/bythepulse/",
+            "reason": "공개 그리드 개별 게시물·정확한 게시 시각을 이번 실행에서 재확인하지 못했다."
+          },
+          {
+            "url": "https://www.youtube.com/",
+            "reason": "여자아이돌 최신 후보는 원본 장면과 최초 공개 시각을 동시에 확인하지 못했다."
+          }
+        ]
+      }
+    },
+    {
+      "event_key": "kim-keon-hee-additional-detention-warrant-hearing-20261022",
+      "url": "https://imnews.imbc.com/news/2026/society/article/6859996_36918.html",
+      "title": "김건희 추가 구속영장 심문…구속 연장 여부 가른다",
+      "category": "시사",
+      "status": "reviewed",
+      "recorded_at": 1792671905,
+      "pick": {
+        "title": "김건희 추가 구속영장 심문…구속 연장 여부 가른다",
+        "category": "시사",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6859996_36918.html",
+        "source": "MBC뉴스·법원",
+        "kind": "article",
+        "event_key": "kim-keon-hee-additional-detention-warrant-hearing-20261022",
+        "why": "구속 지속 여부를 가르는 절차로 파급력이 크다.",
+        "angle": "구속기간 만료→추가 영장 심문→법원 판단",
+        "why_now": "추가 구속영장 심문이 22일 열렸다.",
+        "published_at": 1792658220,
+        "verified_at": 1792668180,
+        "evidence": [
+          {
+            "url": "https://imnews.imbc.com/news/2026/society/article/6859996_36918.html",
+            "note": "심문 시각과 영장 청구 사유를 본문에서 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://imnews.imbc.com/news/2026/society/article/6859996_36918.html",
+            "label": "본문·발표 시각 확인",
+            "kind": "source"
+          }
+        ],
+        "caution": "결론 전 단계이므로 발부 여부를 단정하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "심문 시각과 영장 청구 사유를 본문에서 확인했다.",
+          "checked_materials": [
+            "https://imnews.imbc.com/news/2026/society/article/6859996_36918.html"
+          ],
+          "outline": [
+            "첫 장: 핵심 변화·수치",
+            "2장: 이전 상태와 달라진 점",
+            "3장: 지금의 영향"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "2026년 10월 22일 20시 21시 한국 주요 뉴스 새 발표",
+          "2026년 10월 22일 여자아이돌 공식 영상 장면 20시",
+          "October 22 2026 football breaking news Reuters latest 11 UTC 12 UTC",
+          "October 22 2026 major sports record Reuters latest 11 UTC 12 UTC",
+          "site:reuters.com 2026-10-22 latest world breaking news",
+          "site:reuters.com/sports 2026-10-22 football latest",
+          "site:reuters.com UK restarts large-calibre weapon manufacturing after 20 years",
+          "site:reuters.com Brewers and Rays clash with first World Series title at stake",
+          "site:reuters.com India overcome New Zealand fightback to win T20 opener",
+          "site:reuters.com Ethiopia's Aga handed six-year doping ban"
+        ],
+        "opened_urls": [
+          "https://www.khan.co.kr/article/202610221510001",
+          "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
+          "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
+          "https://imnews.imbc.com/news/2026/society/article/6859996_36918.html",
+          "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
+          "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
+          "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
+          "https://www.reuters.com/legal/government/us-supreme-court-rulings-reshape-midterm-election-battlefield-2026-10-22/",
+          "https://www.reuters.com/business/retail-consumer/pg-flags-bigger-hit-annual-profit-higher-commodity-costs-beats-revenue-estimates-2026-10-22/",
+          "https://www.reuters.com/business/finance/lseg-buy-octus-35-billion-data-analytics-push-2026-10-22/",
+          "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
+          "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
+          "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
+          "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
+          "https://imnews.imbc.com/news/2026/society/article/6859969_36918.html"
+        ],
+        "unavailable": [
+          {
+            "url": "https://www.instagram.com/bythepulse/",
+            "reason": "공개 그리드 개별 게시물·정확한 게시 시각을 이번 실행에서 재확인하지 못했다."
+          },
+          {
+            "url": "https://www.youtube.com/",
+            "reason": "여자아이돌 최신 후보는 원본 장면과 최초 공개 시각을 동시에 확인하지 못했다."
+          }
+        ]
+      }
+    },
+    {
+      "event_key": "atp-blocks-234000-abusive-comments-20261022",
+      "url": "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
+      "title": "ATP, 선수에게 닿기 전 악성 댓글 23만4천건을 막았다",
+      "category": "메이저 스포츠",
+      "status": "reviewed",
+      "recorded_at": 1792671905,
+      "pick": {
+        "title": "ATP, 선수에게 닿기 전 악성 댓글 23만4천건을 막았다",
+        "category": "메이저 스포츠",
+        "url": "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
+        "source": "Reuters·ATP",
+        "kind": "article",
+        "event_key": "atp-blocks-234000-abusive-comments-20261022",
+        "why": "스포츠 악플 대응을 23만4천건이라는 수치로 보여준다.",
+        "angle": "댓글 폭주→자동 탐지·차단→선수 보호",
+        "why_now": "ATP가 최신 차단 성과를 발표했다.",
+        "published_at": 1792660680,
+        "verified_at": 1792668180,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
+            "note": "차단 건수와 운영 범위를 본문에서 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
+            "label": "본문·발표 시각 확인",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "차단 건수와 운영 범위를 본문에서 확인했다.",
+          "checked_materials": [
+            "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/"
+          ],
+          "outline": [
+            "첫 장: 핵심 변화·수치",
+            "2장: 이전 상태와 달라진 점",
+            "3장: 지금의 영향"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "2026년 10월 22일 20시 21시 한국 주요 뉴스 새 발표",
+          "2026년 10월 22일 여자아이돌 공식 영상 장면 20시",
+          "October 22 2026 football breaking news Reuters latest 11 UTC 12 UTC",
+          "October 22 2026 major sports record Reuters latest 11 UTC 12 UTC",
+          "site:reuters.com 2026-10-22 latest world breaking news",
+          "site:reuters.com/sports 2026-10-22 football latest",
+          "site:reuters.com UK restarts large-calibre weapon manufacturing after 20 years",
+          "site:reuters.com Brewers and Rays clash with first World Series title at stake",
+          "site:reuters.com India overcome New Zealand fightback to win T20 opener",
+          "site:reuters.com Ethiopia's Aga handed six-year doping ban"
+        ],
+        "opened_urls": [
+          "https://www.khan.co.kr/article/202610221510001",
+          "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
+          "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
+          "https://imnews.imbc.com/news/2026/society/article/6859996_36918.html",
+          "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
+          "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
+          "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
+          "https://www.reuters.com/legal/government/us-supreme-court-rulings-reshape-midterm-election-battlefield-2026-10-22/",
+          "https://www.reuters.com/business/retail-consumer/pg-flags-bigger-hit-annual-profit-higher-commodity-costs-beats-revenue-estimates-2026-10-22/",
+          "https://www.reuters.com/business/finance/lseg-buy-octus-35-billion-data-analytics-push-2026-10-22/",
+          "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
+          "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
+          "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
+          "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
+          "https://imnews.imbc.com/news/2026/society/article/6859969_36918.html"
+        ],
+        "unavailable": [
+          {
+            "url": "https://www.instagram.com/bythepulse/",
+            "reason": "공개 그리드 개별 게시물·정확한 게시 시각을 이번 실행에서 재확인하지 못했다."
+          },
+          {
+            "url": "https://www.youtube.com/",
+            "reason": "여자아이돌 최신 후보는 원본 장면과 최초 공개 시각을 동시에 확인하지 못했다."
+          }
+        ]
+      }
+    },
+    {
+      "event_key": "imf-oecd-ai-widen-rich-poor-young-worker-gap-20261022",
+      "url": "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
+      "title": "IMF·OECD “AI가 국가·세대의 격차를 더 벌릴 수 있다”",
+      "category": "시사",
+      "status": "reviewed",
+      "recorded_at": 1792671905,
+      "pick": {
+        "title": "IMF·OECD “AI가 국가·세대의 격차를 더 벌릴 수 있다”",
+        "category": "시사",
+        "url": "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
+        "source": "Reuters·IMF·OECD",
+        "kind": "article",
+        "event_key": "imf-oecd-ai-widen-rich-poor-young-worker-gap-20261022",
+        "why": "AI 낙관론을 국가와 청년 노동자의 격차 문제로 뒤집는다.",
+        "angle": "생산성 기대→부유국 편중→청년·저숙련층 위험",
+        "why_now": "IMF와 OECD의 공동 경고가 공개됐다.",
+        "published_at": 1792665660,
+        "verified_at": 1792668180,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
+            "note": "두 기관의 경고와 격차 메커니즘을 본문에서 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
+            "label": "본문·발표 시각 확인",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "두 기관의 경고와 격차 메커니즘을 본문에서 확인했다.",
+          "checked_materials": [
+            "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/"
+          ],
+          "outline": [
+            "첫 장: 핵심 변화·수치",
+            "2장: 이전 상태와 달라진 점",
+            "3장: 지금의 영향"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "2026년 10월 22일 20시 21시 한국 주요 뉴스 새 발표",
+          "2026년 10월 22일 여자아이돌 공식 영상 장면 20시",
+          "October 22 2026 football breaking news Reuters latest 11 UTC 12 UTC",
+          "October 22 2026 major sports record Reuters latest 11 UTC 12 UTC",
+          "site:reuters.com 2026-10-22 latest world breaking news",
+          "site:reuters.com/sports 2026-10-22 football latest",
+          "site:reuters.com UK restarts large-calibre weapon manufacturing after 20 years",
+          "site:reuters.com Brewers and Rays clash with first World Series title at stake",
+          "site:reuters.com India overcome New Zealand fightback to win T20 opener",
+          "site:reuters.com Ethiopia's Aga handed six-year doping ban"
+        ],
+        "opened_urls": [
+          "https://www.khan.co.kr/article/202610221510001",
+          "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
+          "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
+          "https://imnews.imbc.com/news/2026/society/article/6859996_36918.html",
+          "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
+          "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
+          "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
+          "https://www.reuters.com/legal/government/us-supreme-court-rulings-reshape-midterm-election-battlefield-2026-10-22/",
+          "https://www.reuters.com/business/retail-consumer/pg-flags-bigger-hit-annual-profit-higher-commodity-costs-beats-revenue-estimates-2026-10-22/",
+          "https://www.reuters.com/business/finance/lseg-buy-octus-35-billion-data-analytics-push-2026-10-22/",
+          "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
+          "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
+          "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
+          "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
+          "https://imnews.imbc.com/news/2026/society/article/6859969_36918.html"
+        ],
+        "unavailable": [
+          {
+            "url": "https://www.instagram.com/bythepulse/",
+            "reason": "공개 그리드 개별 게시물·정확한 게시 시각을 이번 실행에서 재확인하지 못했다."
+          },
+          {
+            "url": "https://www.youtube.com/",
+            "reason": "여자아이돌 최신 후보는 원본 장면과 최초 공개 시각을 동시에 확인하지 못했다."
+          }
+        ]
+      }
+    },
+    {
+      "event_key": "tour-de-france-2027-routes-time-trial-puy-de-dome-20261022",
+      "url": "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
+      "title": "2027 투르 드 프랑스, 남녀 모두 시간차 싸움이 더 커진다",
+      "category": "메이저 스포츠",
+      "status": "reviewed",
+      "recorded_at": 1792671905,
+      "pick": {
+        "title": "2027 투르 드 프랑스, 남녀 모두 시간차 싸움이 더 커진다",
+        "category": "메이저 스포츠",
+        "url": "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
+        "source": "Reuters·Tour de France",
+        "kind": "article",
+        "event_key": "tour-de-france-2027-routes-time-trial-puy-de-dome-20261022",
+        "why": "남녀 대회의 새 코스가 동시에 공개돼 지도 카드 구성이 가능하다.",
+        "angle": "남자 타임트라이얼 강화↔여자 퓌드돔 결승",
+        "why_now": "2027 남녀 코스가 공식 발표됐다.",
+        "published_at": 1792665240,
+        "verified_at": 1792668180,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
+            "note": "본문과 행사 사진에서 코스 발표와 주요 구간을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
+            "label": "본문·발표 시각 확인",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "본문과 행사 사진에서 코스 발표와 주요 구간을 확인했다.",
+          "checked_materials": [
+            "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/"
+          ],
+          "outline": [
+            "첫 장: 핵심 변화·수치",
+            "2장: 이전 상태와 달라진 점",
+            "3장: 지금의 영향"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "2026년 10월 22일 20시 21시 한국 주요 뉴스 새 발표",
+          "2026년 10월 22일 여자아이돌 공식 영상 장면 20시",
+          "October 22 2026 football breaking news Reuters latest 11 UTC 12 UTC",
+          "October 22 2026 major sports record Reuters latest 11 UTC 12 UTC",
+          "site:reuters.com 2026-10-22 latest world breaking news",
+          "site:reuters.com/sports 2026-10-22 football latest",
+          "site:reuters.com UK restarts large-calibre weapon manufacturing after 20 years",
+          "site:reuters.com Brewers and Rays clash with first World Series title at stake",
+          "site:reuters.com India overcome New Zealand fightback to win T20 opener",
+          "site:reuters.com Ethiopia's Aga handed six-year doping ban"
+        ],
+        "opened_urls": [
+          "https://www.khan.co.kr/article/202610221510001",
+          "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
+          "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
+          "https://imnews.imbc.com/news/2026/society/article/6859996_36918.html",
+          "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
+          "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
+          "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
+          "https://www.reuters.com/legal/government/us-supreme-court-rulings-reshape-midterm-election-battlefield-2026-10-22/",
+          "https://www.reuters.com/business/retail-consumer/pg-flags-bigger-hit-annual-profit-higher-commodity-costs-beats-revenue-estimates-2026-10-22/",
+          "https://www.reuters.com/business/finance/lseg-buy-octus-35-billion-data-analytics-push-2026-10-22/",
+          "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
+          "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
+          "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
+          "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
+          "https://imnews.imbc.com/news/2026/society/article/6859969_36918.html"
+        ],
+        "unavailable": [
+          {
+            "url": "https://www.instagram.com/bythepulse/",
+            "reason": "공개 그리드 개별 게시물·정확한 게시 시각을 이번 실행에서 재확인하지 못했다."
+          },
+          {
+            "url": "https://www.youtube.com/",
+            "reason": "여자아이돌 최신 후보는 원본 장면과 최초 공개 시각을 동시에 확인하지 못했다."
+          }
+        ]
+      }
+    },
+    {
+      "event_key": "us-supreme-court-rulings-reshape-midterms-20261022",
+      "url": "https://www.reuters.com/legal/government/us-supreme-court-rulings-reshape-midterm-election-battlefield-2026-10-22/",
+      "title": "미 연방대법원 판결들이 중간선거 판을 다시 그렸다",
+      "category": "시사",
+      "status": "reviewed",
+      "recorded_at": 1792671905,
+      "pick": {
+        "title": "미 연방대법원 판결들이 중간선거 판을 다시 그렸다",
+        "category": "시사",
+        "url": "https://www.reuters.com/legal/government/us-supreme-court-rulings-reshape-midterm-election-battlefield-2026-10-22/",
+        "source": "Reuters·미 연방대법원",
+        "kind": "article",
+        "event_key": "us-supreme-court-rulings-reshape-midterms-20261022",
+        "why": "선거 직전 사법 판단이 실제 투표 지형을 바꾼 큰 정치 뉴스다.",
+        "angle": "주별 소송→대법원 결정→의석 경쟁 변화",
+        "why_now": "중간선거를 앞두고 판결의 누적 영향이 공개됐다.",
+        "published_at": 1792663320,
+        "verified_at": 1792668180,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/legal/government/us-supreme-court-rulings-reshape-midterm-election-battlefield-2026-10-22/",
+            "note": "주요 판결과 선거구 영향 사례를 본문에서 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/legal/government/us-supreme-court-rulings-reshape-midterm-election-battlefield-2026-10-22/",
+            "label": "본문·발표 시각 확인",
+            "kind": "source"
+          }
+        ],
+        "caution": "일부 결과는 주별 후속 절차에 따라 달라질 수 있다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "주요 판결과 선거구 영향 사례를 본문에서 확인했다.",
+          "checked_materials": [
+            "https://www.reuters.com/legal/government/us-supreme-court-rulings-reshape-midterm-election-battlefield-2026-10-22/"
+          ],
+          "outline": [
+            "첫 장: 핵심 변화·수치",
+            "2장: 이전 상태와 달라진 점",
+            "3장: 지금의 영향"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "2026년 10월 22일 20시 21시 한국 주요 뉴스 새 발표",
+          "2026년 10월 22일 여자아이돌 공식 영상 장면 20시",
+          "October 22 2026 football breaking news Reuters latest 11 UTC 12 UTC",
+          "October 22 2026 major sports record Reuters latest 11 UTC 12 UTC",
+          "site:reuters.com 2026-10-22 latest world breaking news",
+          "site:reuters.com/sports 2026-10-22 football latest",
+          "site:reuters.com UK restarts large-calibre weapon manufacturing after 20 years",
+          "site:reuters.com Brewers and Rays clash with first World Series title at stake",
+          "site:reuters.com India overcome New Zealand fightback to win T20 opener",
+          "site:reuters.com Ethiopia's Aga handed six-year doping ban"
+        ],
+        "opened_urls": [
+          "https://www.khan.co.kr/article/202610221510001",
+          "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
+          "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
+          "https://imnews.imbc.com/news/2026/society/article/6859996_36918.html",
+          "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
+          "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
+          "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
+          "https://www.reuters.com/legal/government/us-supreme-court-rulings-reshape-midterm-election-battlefield-2026-10-22/",
+          "https://www.reuters.com/business/retail-consumer/pg-flags-bigger-hit-annual-profit-higher-commodity-costs-beats-revenue-estimates-2026-10-22/",
+          "https://www.reuters.com/business/finance/lseg-buy-octus-35-billion-data-analytics-push-2026-10-22/",
+          "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
+          "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
+          "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
+          "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
+          "https://imnews.imbc.com/news/2026/society/article/6859969_36918.html"
+        ],
+        "unavailable": [
+          {
+            "url": "https://www.instagram.com/bythepulse/",
+            "reason": "공개 그리드 개별 게시물·정확한 게시 시각을 이번 실행에서 재확인하지 못했다."
+          },
+          {
+            "url": "https://www.youtube.com/",
+            "reason": "여자아이돌 최신 후보는 원본 장면과 최초 공개 시각을 동시에 확인하지 못했다."
+          }
+        ]
+      }
+    },
+    {
+      "event_key": "pg-commodity-cost-hit-1point4b-20261022",
+      "url": "https://www.reuters.com/business/retail-consumer/pg-flags-bigger-hit-annual-profit-higher-commodity-costs-beats-revenue-estimates-2026-10-22/",
+      "title": "P&G, 원자재 부담이 연간 이익 14억달러를 깎을 수 있다고 경고",
+      "category": "시사",
+      "status": "reviewed",
+      "recorded_at": 1792671905,
+      "pick": {
+        "title": "P&G, 원자재 부담이 연간 이익 14억달러를 깎을 수 있다고 경고",
+        "category": "시사",
+        "url": "https://www.reuters.com/business/retail-consumer/pg-flags-bigger-hit-annual-profit-higher-commodity-costs-beats-revenue-estimates-2026-10-22/",
+        "source": "Reuters·P&G",
+        "kind": "article",
+        "event_key": "pg-commodity-cost-hit-1point4b-20261022",
+        "why": "생활용품 가격과 연결되는 14억달러 비용 충격이다.",
+        "angle": "매출 선방→원자재 비용 급증→소비자가격 압력",
+        "why_now": "실적과 함께 연간 비용 영향이 공개됐다.",
+        "published_at": 1792666980,
+        "verified_at": 1792668180,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/business/retail-consumer/pg-flags-bigger-hit-annual-profit-higher-commodity-costs-beats-revenue-estimates-2026-10-22/",
+            "note": "14억달러 영향 추정과 실적 수치를 본문에서 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/business/retail-consumer/pg-flags-bigger-hit-annual-profit-higher-commodity-costs-beats-revenue-estimates-2026-10-22/",
+            "label": "본문·발표 시각 확인",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "14억달러 영향 추정과 실적 수치를 본문에서 확인했다.",
+          "checked_materials": [
+            "https://www.reuters.com/business/retail-consumer/pg-flags-bigger-hit-annual-profit-higher-commodity-costs-beats-revenue-estimates-2026-10-22/"
+          ],
+          "outline": [
+            "첫 장: 핵심 변화·수치",
+            "2장: 이전 상태와 달라진 점",
+            "3장: 지금의 영향"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "2026년 10월 22일 20시 21시 한국 주요 뉴스 새 발표",
+          "2026년 10월 22일 여자아이돌 공식 영상 장면 20시",
+          "October 22 2026 football breaking news Reuters latest 11 UTC 12 UTC",
+          "October 22 2026 major sports record Reuters latest 11 UTC 12 UTC",
+          "site:reuters.com 2026-10-22 latest world breaking news",
+          "site:reuters.com/sports 2026-10-22 football latest",
+          "site:reuters.com UK restarts large-calibre weapon manufacturing after 20 years",
+          "site:reuters.com Brewers and Rays clash with first World Series title at stake",
+          "site:reuters.com India overcome New Zealand fightback to win T20 opener",
+          "site:reuters.com Ethiopia's Aga handed six-year doping ban"
+        ],
+        "opened_urls": [
+          "https://www.khan.co.kr/article/202610221510001",
+          "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
+          "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
+          "https://imnews.imbc.com/news/2026/society/article/6859996_36918.html",
+          "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
+          "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
+          "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
+          "https://www.reuters.com/legal/government/us-supreme-court-rulings-reshape-midterm-election-battlefield-2026-10-22/",
+          "https://www.reuters.com/business/retail-consumer/pg-flags-bigger-hit-annual-profit-higher-commodity-costs-beats-revenue-estimates-2026-10-22/",
+          "https://www.reuters.com/business/finance/lseg-buy-octus-35-billion-data-analytics-push-2026-10-22/",
+          "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
+          "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
+          "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
+          "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
+          "https://imnews.imbc.com/news/2026/society/article/6859969_36918.html"
+        ],
+        "unavailable": [
+          {
+            "url": "https://www.instagram.com/bythepulse/",
+            "reason": "공개 그리드 개별 게시물·정확한 게시 시각을 이번 실행에서 재확인하지 못했다."
+          },
+          {
+            "url": "https://www.youtube.com/",
+            "reason": "여자아이돌 최신 후보는 원본 장면과 최초 공개 시각을 동시에 확인하지 못했다."
+          }
+        ]
+      }
+    },
+    {
+      "event_key": "lseg-buys-octus-3point54b-20261022",
+      "url": "https://www.reuters.com/business/finance/lseg-buy-octus-35-billion-data-analytics-push-2026-10-22/",
+      "title": "LSEG, 사모대출 데이터업체 옥투스를 35억4천만달러에 산다",
+      "category": "시사",
+      "status": "reviewed",
+      "recorded_at": 1792671905,
+      "pick": {
+        "title": "LSEG, 사모대출 데이터업체 옥투스를 35억4천만달러에 산다",
+        "category": "시사",
+        "url": "https://www.reuters.com/business/finance/lseg-buy-octus-35-billion-data-analytics-push-2026-10-22/",
+        "source": "Reuters·LSEG",
+        "kind": "article",
+        "event_key": "lseg-buys-octus-3point54b-20261022",
+        "why": "금융데이터 경쟁이 사모대출 시장까지 번진 대형 인수다.",
+        "angle": "LSEG→옥투스 인수→사모신용 데이터 경쟁",
+        "why_now": "35억4천만달러 인수 계약이 발표됐다.",
+        "published_at": 1792649100,
+        "verified_at": 1792668180,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/business/finance/lseg-buy-octus-35-billion-data-analytics-push-2026-10-22/",
+            "note": "거래 금액, 대상, 전략적 목적을 본문에서 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/business/finance/lseg-buy-octus-35-billion-data-analytics-push-2026-10-22/",
+            "label": "본문·발표 시각 확인",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "거래 금액, 대상, 전략적 목적을 본문에서 확인했다.",
+          "checked_materials": [
+            "https://www.reuters.com/business/finance/lseg-buy-octus-35-billion-data-analytics-push-2026-10-22/"
+          ],
+          "outline": [
+            "첫 장: 핵심 변화·수치",
+            "2장: 이전 상태와 달라진 점",
+            "3장: 지금의 영향"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "2026년 10월 22일 20시 21시 한국 주요 뉴스 새 발표",
+          "2026년 10월 22일 여자아이돌 공식 영상 장면 20시",
+          "October 22 2026 football breaking news Reuters latest 11 UTC 12 UTC",
+          "October 22 2026 major sports record Reuters latest 11 UTC 12 UTC",
+          "site:reuters.com 2026-10-22 latest world breaking news",
+          "site:reuters.com/sports 2026-10-22 football latest",
+          "site:reuters.com UK restarts large-calibre weapon manufacturing after 20 years",
+          "site:reuters.com Brewers and Rays clash with first World Series title at stake",
+          "site:reuters.com India overcome New Zealand fightback to win T20 opener",
+          "site:reuters.com Ethiopia's Aga handed six-year doping ban"
+        ],
+        "opened_urls": [
+          "https://www.khan.co.kr/article/202610221510001",
+          "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
+          "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
+          "https://imnews.imbc.com/news/2026/society/article/6859996_36918.html",
+          "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
+          "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
+          "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
+          "https://www.reuters.com/legal/government/us-supreme-court-rulings-reshape-midterm-election-battlefield-2026-10-22/",
+          "https://www.reuters.com/business/retail-consumer/pg-flags-bigger-hit-annual-profit-higher-commodity-costs-beats-revenue-estimates-2026-10-22/",
+          "https://www.reuters.com/business/finance/lseg-buy-octus-35-billion-data-analytics-push-2026-10-22/",
+          "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
+          "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
+          "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
+          "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
+          "https://imnews.imbc.com/news/2026/society/article/6859969_36918.html"
+        ],
+        "unavailable": [
+          {
+            "url": "https://www.instagram.com/bythepulse/",
+            "reason": "공개 그리드 개별 게시물·정확한 게시 시각을 이번 실행에서 재확인하지 못했다."
+          },
+          {
+            "url": "https://www.youtube.com/",
+            "reason": "여자아이돌 최신 후보는 원본 장면과 최초 공개 시각을 동시에 확인하지 못했다."
+          }
+        ]
+      }
+    },
+    {
+      "event_key": "uk-restarts-large-calibre-weapons-production-20-years-20261022",
+      "url": "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
+      "title": "영국, 20년 만에 대구경 무기 생산을 다시 시작했다",
+      "category": "시사",
+      "status": "reviewed",
+      "recorded_at": 1792671905,
+      "pick": {
+        "title": "영국, 20년 만에 대구경 무기 생산을 다시 시작했다",
+        "category": "시사",
+        "url": "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
+        "source": "Reuters·영국 정부",
+        "kind": "article",
+        "event_key": "uk-restarts-large-calibre-weapons-production-20-years-20261022",
+        "why": "20년 공백을 끝낸 재무장 전환점이 선명하다.",
+        "angle": "빈 공장→8개월 만의 양산→유럽 재무장",
+        "why_now": "120mm·155mm 생산 재개가 공식 발표됐다.",
+        "published_at": 1792670460,
+        "verified_at": 1792671905,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
+            "note": "20년 만의 생산 재개, 공장, 100개 일자리를 본문에서 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
+            "label": "본문·발표 시각 확인",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "20년 만의 생산 재개, 공장, 100개 일자리를 본문에서 확인했다.",
+          "checked_materials": [
+            "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/"
+          ],
+          "outline": [
+            "첫 장: 핵심 변화·수치",
+            "2장: 이전 상태와 달라진 점",
+            "3장: 지금의 영향"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "2026년 10월 22일 20시 21시 한국 주요 뉴스 새 발표",
+          "2026년 10월 22일 여자아이돌 공식 영상 장면 20시",
+          "October 22 2026 football breaking news Reuters latest 11 UTC 12 UTC",
+          "October 22 2026 major sports record Reuters latest 11 UTC 12 UTC",
+          "site:reuters.com 2026-10-22 latest world breaking news",
+          "site:reuters.com/sports 2026-10-22 football latest",
+          "site:reuters.com UK restarts large-calibre weapon manufacturing after 20 years",
+          "site:reuters.com Brewers and Rays clash with first World Series title at stake",
+          "site:reuters.com India overcome New Zealand fightback to win T20 opener",
+          "site:reuters.com Ethiopia's Aga handed six-year doping ban"
+        ],
+        "opened_urls": [
+          "https://www.khan.co.kr/article/202610221510001",
+          "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
+          "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
+          "https://imnews.imbc.com/news/2026/society/article/6859996_36918.html",
+          "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
+          "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
+          "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
+          "https://www.reuters.com/legal/government/us-supreme-court-rulings-reshape-midterm-election-battlefield-2026-10-22/",
+          "https://www.reuters.com/business/retail-consumer/pg-flags-bigger-hit-annual-profit-higher-commodity-costs-beats-revenue-estimates-2026-10-22/",
+          "https://www.reuters.com/business/finance/lseg-buy-octus-35-billion-data-analytics-push-2026-10-22/",
+          "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
+          "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
+          "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
+          "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
+          "https://imnews.imbc.com/news/2026/society/article/6859969_36918.html"
+        ],
+        "unavailable": [
+          {
+            "url": "https://www.instagram.com/bythepulse/",
+            "reason": "공개 그리드 개별 게시물·정확한 게시 시각을 이번 실행에서 재확인하지 못했다."
+          },
+          {
+            "url": "https://www.youtube.com/",
+            "reason": "여자아이돌 최신 후보는 원본 장면과 최초 공개 시각을 동시에 확인하지 못했다."
+          }
+        ]
+      }
+    },
+    {
+      "event_key": "brewers-rays-first-title-world-series-20261022",
+      "url": "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
+      "title": "월드시리즈, 46년 만에 ‘우승 없는 두 팀’이 만난다",
+      "category": "메이저 스포츠",
+      "status": "reviewed",
+      "recorded_at": 1792671905,
+      "pick": {
+        "title": "월드시리즈, 46년 만에 ‘우승 없는 두 팀’이 만난다",
+        "category": "메이저 스포츠",
+        "url": "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
+        "source": "Reuters·MLB",
+        "kind": "article",
+        "event_key": "brewers-rays-first-title-world-series-20261022",
+        "why": "어느 쪽이 이겨도 창단 첫 우승이라는 단순하고 강한 서사다.",
+        "angle": "작은 시장 두 팀→46년 만의 무관 팀 맞대결→첫 우승",
+        "why_now": "대진의 역사적 의미가 22일 공개됐다.",
+        "published_at": 1792670520,
+        "verified_at": 1792671905,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
+            "note": "1980년 이후 처음인 무관 팀 대진, 양 팀 가치와 성적을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
+            "label": "본문·발표 시각 확인",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "1980년 이후 처음인 무관 팀 대진, 양 팀 가치와 성적을 확인했다.",
+          "checked_materials": [
+            "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/"
+          ],
+          "outline": [
+            "첫 장: 핵심 변화·수치",
+            "2장: 이전 상태와 달라진 점",
+            "3장: 지금의 영향"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "2026년 10월 22일 20시 21시 한국 주요 뉴스 새 발표",
+          "2026년 10월 22일 여자아이돌 공식 영상 장면 20시",
+          "October 22 2026 football breaking news Reuters latest 11 UTC 12 UTC",
+          "October 22 2026 major sports record Reuters latest 11 UTC 12 UTC",
+          "site:reuters.com 2026-10-22 latest world breaking news",
+          "site:reuters.com/sports 2026-10-22 football latest",
+          "site:reuters.com UK restarts large-calibre weapon manufacturing after 20 years",
+          "site:reuters.com Brewers and Rays clash with first World Series title at stake",
+          "site:reuters.com India overcome New Zealand fightback to win T20 opener",
+          "site:reuters.com Ethiopia's Aga handed six-year doping ban"
+        ],
+        "opened_urls": [
+          "https://www.khan.co.kr/article/202610221510001",
+          "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
+          "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
+          "https://imnews.imbc.com/news/2026/society/article/6859996_36918.html",
+          "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
+          "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
+          "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
+          "https://www.reuters.com/legal/government/us-supreme-court-rulings-reshape-midterm-election-battlefield-2026-10-22/",
+          "https://www.reuters.com/business/retail-consumer/pg-flags-bigger-hit-annual-profit-higher-commodity-costs-beats-revenue-estimates-2026-10-22/",
+          "https://www.reuters.com/business/finance/lseg-buy-octus-35-billion-data-analytics-push-2026-10-22/",
+          "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
+          "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
+          "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
+          "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
+          "https://imnews.imbc.com/news/2026/society/article/6859969_36918.html"
+        ],
+        "unavailable": [
+          {
+            "url": "https://www.instagram.com/bythepulse/",
+            "reason": "공개 그리드 개별 게시물·정확한 게시 시각을 이번 실행에서 재확인하지 못했다."
+          },
+          {
+            "url": "https://www.youtube.com/",
+            "reason": "여자아이돌 최신 후보는 원본 장면과 최초 공개 시각을 동시에 확인하지 못했다."
+          }
+        ]
+      }
+    },
+    {
+      "event_key": "india-226-record-t20-chase-new-zealand-20261022",
+      "url": "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
+      "title": "인도, 뉴질랜드 원정서 226점을 뒤집어 역대 최고 추격승",
+      "category": "메이저 스포츠",
+      "status": "reviewed",
+      "recorded_at": 1792671905,
+      "pick": {
+        "title": "인도, 뉴질랜드 원정서 226점을 뒤집어 역대 최고 추격승",
+        "category": "메이저 스포츠",
+        "url": "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
+        "source": "Reuters·인도/뉴질랜드 크리켓",
+        "kind": "article",
+        "event_key": "india-226-record-t20-chase-new-zealand-20261022",
+        "why": "94-1 출발, 중반 흔들림, 막판 재역전으로 점수 흐름이 강하다.",
+        "angle": "225점→93점 오프닝→연속 아웃→19.4오버 역전",
+        "why_now": "팀 역사상 최고 T20 추격승을 기록했다.",
+        "published_at": 1792669680,
+        "verified_at": 1792671905,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
+            "note": "225-4, 93점 오프닝, 중반 3명 연속 아웃, 19.4오버 승리를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
+            "label": "본문·발표 시각 확인",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "225-4, 93점 오프닝, 중반 3명 연속 아웃, 19.4오버 승리를 확인했다.",
+          "checked_materials": [
+            "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/"
+          ],
+          "outline": [
+            "첫 장: 핵심 변화·수치",
+            "2장: 이전 상태와 달라진 점",
+            "3장: 지금의 영향"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "2026년 10월 22일 20시 21시 한국 주요 뉴스 새 발표",
+          "2026년 10월 22일 여자아이돌 공식 영상 장면 20시",
+          "October 22 2026 football breaking news Reuters latest 11 UTC 12 UTC",
+          "October 22 2026 major sports record Reuters latest 11 UTC 12 UTC",
+          "site:reuters.com 2026-10-22 latest world breaking news",
+          "site:reuters.com/sports 2026-10-22 football latest",
+          "site:reuters.com UK restarts large-calibre weapon manufacturing after 20 years",
+          "site:reuters.com Brewers and Rays clash with first World Series title at stake",
+          "site:reuters.com India overcome New Zealand fightback to win T20 opener",
+          "site:reuters.com Ethiopia's Aga handed six-year doping ban"
+        ],
+        "opened_urls": [
+          "https://www.khan.co.kr/article/202610221510001",
+          "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
+          "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
+          "https://imnews.imbc.com/news/2026/society/article/6859996_36918.html",
+          "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
+          "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
+          "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
+          "https://www.reuters.com/legal/government/us-supreme-court-rulings-reshape-midterm-election-battlefield-2026-10-22/",
+          "https://www.reuters.com/business/retail-consumer/pg-flags-bigger-hit-annual-profit-higher-commodity-costs-beats-revenue-estimates-2026-10-22/",
+          "https://www.reuters.com/business/finance/lseg-buy-octus-35-billion-data-analytics-push-2026-10-22/",
+          "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
+          "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
+          "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
+          "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
+          "https://imnews.imbc.com/news/2026/society/article/6859969_36918.html"
+        ],
+        "unavailable": [
+          {
+            "url": "https://www.instagram.com/bythepulse/",
+            "reason": "공개 그리드 개별 게시물·정확한 게시 시각을 이번 실행에서 재확인하지 못했다."
+          },
+          {
+            "url": "https://www.youtube.com/",
+            "reason": "여자아이돌 최신 후보는 원본 장면과 최초 공개 시각을 동시에 확인하지 못했다."
+          }
+        ]
+      }
+    },
+    {
+      "event_key": "ruti-aga-six-year-doping-ban-fake-prescription-20261022",
+      "url": "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
+      "title": "도핑 2년 징계가 가짜 처방전 때문에 6년으로 늘었다",
+      "category": "메이저 스포츠",
+      "status": "reviewed",
+      "recorded_at": 1792671905,
+      "pick": {
+        "title": "도핑 2년 징계가 가짜 처방전 때문에 6년으로 늘었다",
+        "category": "메이저 스포츠",
+        "url": "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
+        "source": "Reuters·AIU",
+        "kind": "article",
+        "event_key": "ruti-aga-six-year-doping-ban-fake-prescription-20261022",
+        "why": "가짜 처방전 제출로 징계가 세 배가 된 반전이 강하다.",
+        "angle": "양성 반응 2년→조사 방해·가짜 처방전→추가 4년",
+        "why_now": "AIU가 6년 징계를 발표했다.",
+        "published_at": 1792668600,
+        "verified_at": 1792671905,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
+            "note": "약물 종류, 기본 2년, 조사 방해와 위조 처방전으로 추가 4년을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
+            "label": "본문·발표 시각 확인",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "약물 종류, 기본 2년, 조사 방해와 위조 처방전으로 추가 4년을 확인했다.",
+          "checked_materials": [
+            "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/"
+          ],
+          "outline": [
+            "첫 장: 핵심 변화·수치",
+            "2장: 이전 상태와 달라진 점",
+            "3장: 지금의 영향"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "2026년 10월 22일 20시 21시 한국 주요 뉴스 새 발표",
+          "2026년 10월 22일 여자아이돌 공식 영상 장면 20시",
+          "October 22 2026 football breaking news Reuters latest 11 UTC 12 UTC",
+          "October 22 2026 major sports record Reuters latest 11 UTC 12 UTC",
+          "site:reuters.com 2026-10-22 latest world breaking news",
+          "site:reuters.com/sports 2026-10-22 football latest",
+          "site:reuters.com UK restarts large-calibre weapon manufacturing after 20 years",
+          "site:reuters.com Brewers and Rays clash with first World Series title at stake",
+          "site:reuters.com India overcome New Zealand fightback to win T20 opener",
+          "site:reuters.com Ethiopia's Aga handed six-year doping ban"
+        ],
+        "opened_urls": [
+          "https://www.khan.co.kr/article/202610221510001",
+          "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
+          "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
+          "https://imnews.imbc.com/news/2026/society/article/6859996_36918.html",
+          "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
+          "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
+          "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
+          "https://www.reuters.com/legal/government/us-supreme-court-rulings-reshape-midterm-election-battlefield-2026-10-22/",
+          "https://www.reuters.com/business/retail-consumer/pg-flags-bigger-hit-annual-profit-higher-commodity-costs-beats-revenue-estimates-2026-10-22/",
+          "https://www.reuters.com/business/finance/lseg-buy-octus-35-billion-data-analytics-push-2026-10-22/",
+          "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
+          "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
+          "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
+          "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
+          "https://imnews.imbc.com/news/2026/society/article/6859969_36918.html"
+        ],
+        "unavailable": [
+          {
+            "url": "https://www.instagram.com/bythepulse/",
+            "reason": "공개 그리드 개별 게시물·정확한 게시 시각을 이번 실행에서 재확인하지 못했다."
+          },
+          {
+            "url": "https://www.youtube.com/",
+            "reason": "여자아이돌 최신 후보는 원본 장면과 최초 공개 시각을 동시에 확인하지 못했다."
+          }
+        ]
+      }
+    },
     {
       "event_key": "france-first-human-shamonda-virus-case-20261022",
       "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/france-reports-first-human-shamonda-virus-case-2026-10-22/",
@@ -9391,46 +10637,6 @@
       "note": "20일15:19 SBS 본문과 가슴을 미는 황정아 의원·선 로봇 사진을 실제 확인. 사진 https://img.sbs.co.kr/newimg/news/20261020/202233072_1280.jpg . 문워크 영상은 미시청이며 최초 생중계 시각은 미확인.",
       "next_action": "국회 생중계·KAIST 공개자료에서 최초 시연 노출이11시 이후인지 확인. 충족하면 확인한 밀기 사진만 핵심 자료로 scene 작성; 문워크를 봤다고 쓰지 않는다.",
       "recorded_at": 1792502009
-    },
-    {
-      "event_key": "hanwha-fan-neon-and-beyond-kbo-parody-20261020",
-      "url": "https://theqoo.net/square/4381371495",
-      "title": "야구 팬 니욘앤비욘 챌린지 패러디",
-      "category": "메이저 스포츠",
-      "status": "needs_visual",
-      "note": "커뮤니티 20일 15:04 새 글과 X 원본 링크는 읽었지만 X는 403. 오래된 노래가 아니라 이 패러디 자체의 최초 공개 시각·실제 장면 확인이 필요하다.",
-      "next_action": "공개 인용본에 재생 가능한 동일 원본이나 연속 프레임이 있는지 확인. X 차단 경로를 반복하지 않는다.",
-      "recorded_at": 1792489166
-    },
-    {
-      "event_key": "hwang-sun-woo-disqualification-clip-date-unverified",
-      "url": "https://m.sports.naver.com/general/video/1548882",
-      "title": "황선우 실격 영상 후보",
-      "category": "메이저 스포츠",
-      "status": "needs_date",
-      "note": "수집 제목만 발견. 실제 Naver 영상 페이지가 빈 화면이어서 사건일·공개일·핵심 동작·결과 모두 미확인. 수집 시각을 사건일로 대체하지 않는다.",
-      "next_action": "대회·방송사 공식 결과와 독립 원본을 확인한 뒤 날짜가 12시간 안일 때만 영상 검증. 빈 페이지 재시도는 중단.",
-      "recorded_at": 1792489166
-    },
-    {
-      "event_key": "meovv-high-school-exam-cheer-stream-first-public-too-old",
-      "url": "https://www.youtube.com/watch?v=4DIKg--0rrc",
-      "title": "미야오 3시간40분 고교 응원 스트림",
-      "category": "아이돌",
-      "status": "rejected",
-      "note": "공식 YouTube가 18:26 기준 20시간 전 공개로 표시. 오늘 커뮤니티 재게시는 최초 공개가 아니므로 12시간 기준 탈락.",
-      "next_action": "이 영상은 재추천하지 않는다. 별도 새로운 실제 행동·발표가 있을 때만 다른 사건으로 검증.",
-      "recorded_at": 1792489166
-    },
-    {
-      "event_key": "galaxy-buds-on-first-clip-release-20261001",
-      "url": "https://www.yna.co.kr/view/AKR20261020049500017",
-      "title": "삼성 클립형 갤럭시 버즈 온",
-      "category": "시사",
-      "status": "rejected",
-      "note": "오늘 체험 보도를 공식 발표와 대조하니 10월1일 이미 형태·출시일·가격이 공개됐다. 오늘 새 편집 사실이 확인되지 않았다.",
-      "next_action": "기존 출시 사실은 재추천하지 않는다. 별도 제품 변경·실제 새 영향이 공식 확인된 경우만 검토.",
-      "recorded_at": 1792489166
     }
   ],
   "attempts": [
@@ -9805,12 +11011,12 @@
     },
     {
       "hour_utc": "2026102214",
-      "at": 1792668235,
+      "at": 1792671905,
       "status": "researching",
       "required": 10,
-      "ready": 0,
-      "missing": 10,
-      "unfinished": 0
+      "ready": 16,
+      "missing": 0,
+      "unfinished": 2
     }
   ]
 }
