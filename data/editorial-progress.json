@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": 1792635859,
+  "updated_at": 1792635936,
   "items": [
     {
       "event_key": "lebron-sixers-regular-season-debut-defeats-knicks-20261020",
@@ -9497,9 +9497,7 @@
           "mode": "major_news",
           "event_date": "2026-10-21",
           "observation": "로이터 본문에서 분기 실적·전망·CEO와 CFO 발언을 확인했다.",
-          "checked_materials": [
-            "https://www.reuters.com/world/europe/germanys-sap-tops-cloud-demand-forecasts-holds-yearly-operating-profit-outlook-2026-10-21/"
-          ],
+          "checked_materials": [],
           "outline": [
             "첫 장: 분기 매출 첫 100억유로",
             "2장: 클라우드 매출·수주잔고 각 26% 증가",
@@ -9748,9 +9746,7 @@
           "mode": "major_news",
           "event_date": "2026-10-21",
           "observation": "로이터 본문에서 필리핀 외교관과 대만 대표 발언, 현재 협력 범위를 확인했다.",
-          "checked_materials": [
-            "https://www.reuters.com/world/china/philippines-exploring-deeper-cooperation-with-taiwan-protect-cables-2026-10-21/"
-          ],
+          "checked_materials": [],
           "outline": [
             "첫 장: 해저케이블 공동 방어 모색",
             "2장: 하나의 중국 원칙과 실용 협력",
@@ -10527,6 +10523,15 @@
       "ready": 0,
       "missing": 10,
       "unfinished": 10
+    },
+    {
+      "hour_utc": "2026102205",
+      "at": 1792635936,
+      "status": "researching",
+      "required": 10,
+      "ready": 10,
+      "missing": 0,
+      "unfinished": 3
     }
   ]
 }
