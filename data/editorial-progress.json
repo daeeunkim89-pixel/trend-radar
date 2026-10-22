@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": 1792628715,
+  "updated_at": 1792632206,
   "items": [
     {
       "event_key": "lebron-sixers-regular-season-debut-defeats-knicks-20261020",
@@ -10216,60 +10216,6 @@
   ],
   "attempts": [
     {
-      "hour_utc": "2026101902",
-      "at": 1792378748,
-      "status": "research_incomplete",
-      "required": 10,
-      "ready": 0,
-      "missing": 10,
-      "unfinished": 4
-    },
-    {
-      "hour_utc": "2026101905",
-      "at": 1792388171,
-      "status": "submitted",
-      "required": 10,
-      "ready": 10,
-      "missing": 0,
-      "unfinished": 2
-    },
-    {
-      "hour_utc": "2026101908",
-      "at": 1792396825,
-      "status": "researching",
-      "required": 10,
-      "ready": 3,
-      "missing": 7,
-      "unfinished": 5
-    },
-    {
-      "hour_utc": "2026101911",
-      "at": 1792406949,
-      "status": "researching",
-      "required": 10,
-      "ready": 5,
-      "missing": 5,
-      "unfinished": 5
-    },
-    {
-      "hour_utc": "2026101911",
-      "at": 1792407254,
-      "status": "submitted",
-      "required": 10,
-      "ready": 10,
-      "missing": 0,
-      "unfinished": 2
-    },
-    {
-      "hour_utc": "2026101923",
-      "at": 1792448659,
-      "status": "researching",
-      "required": 10,
-      "ready": 0,
-      "missing": 10,
-      "unfinished": 2
-    },
-    {
       "hour_utc": "2026101923",
       "at": 1792449382,
       "status": "review_complete",
@@ -10633,6 +10579,15 @@
       "hour_utc": "2026102202",
       "at": 1792628715,
       "status": "researching",
+      "required": 10,
+      "ready": 13,
+      "missing": 0,
+      "unfinished": 3
+    },
+    {
+      "hour_utc": "2026102202",
+      "at": 1792632206,
+      "status": "preparing",
       "required": 10,
       "ready": 13,
       "missing": 0,
