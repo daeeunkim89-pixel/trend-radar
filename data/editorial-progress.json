@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": 1792677674,
+  "updated_at": 1792707720,
   "items": [
     {
       "event_key": "coupang-industrial-accident-concealment-probe-result-20261022",
@@ -9507,6 +9507,15 @@
       "ready": 10,
       "missing": 0,
       "unfinished": 2
+    },
+    {
+      "hour_utc": "2026102223",
+      "at": 1792707720,
+      "status": "preparing",
+      "required": 10,
+      "ready": 0,
+      "missing": 10,
+      "unfinished": "08시 회차 시작. 펨코 결 세 갈래의 12시간 이내 원본·장면·최초 공개 시각 검증"
     }
   ]
 }
