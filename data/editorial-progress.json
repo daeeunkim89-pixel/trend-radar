@@ -1,51 +1,49 @@
 {
   "version": 1,
-  "updated_at": 1792675530,
+  "updated_at": 1792675734,
   "items": [
     {
       "event_key": "coupang-industrial-accident-concealment-probe-result-20261022",
       "url": "https://www.khan.co.kr/article/202610221510001",
-      "title": "쿠팡 산재 은폐 의혹 조사…“부적절하지만 처벌 대상은 아니다”",
+      "title": "“열심히 일한 기록 남기지 마” 지시 확인…쿠팡 산재 사건은 처벌 불가 결론",
       "category": "시사",
       "status": "reviewed",
-      "recorded_at": 1792671905,
+      "recorded_at": 1792675734,
       "pick": {
-        "title": "쿠팡 산재 은폐 의혹 조사…“부적절하지만 처벌 대상은 아니다”",
+        "title": "“열심히 일한 기록 남기지 마” 지시 확인…쿠팡 산재 사건은 처벌 불가 결론",
         "category": "시사",
         "url": "https://www.khan.co.kr/article/202610221510001",
         "source": "경향신문·고용노동부",
         "kind": "article",
         "event_key": "coupang-industrial-accident-concealment-probe-result-20261022",
-        "why": "정부 조사 결론이 ‘부적절하지만 처벌 불가’로 갈려 논쟁성이 크다.",
-        "angle": "의혹 제기→정부 조사 결론→제도 공백",
-        "why_now": "고용노동부 조사 결과가 22일 오후 공개됐다.",
+        "why": "정부 수사로 지시 정황이 확인됐지만 공소시효와 법 적용 한계로 처벌하지 못한다는 결론이 충돌한다.",
+        "angle": "메시지 확인→CCTV 분석 정황→처벌 불가 결론을 시간순으로 묶는다.",
+        "why_now": "노동부가 22일 감독·수사 결과와 추가 산재 은폐 정황 2건의 수사 방침을 발표했다.",
+        "verified_at": 1792675734,
         "published_at": 1792649400,
-        "verified_at": 1792668180,
         "evidence": [
           {
             "url": "https://www.khan.co.kr/article/202610221510001",
-            "note": "조사 결론과 공개 시각을 본문에서 확인했고 MBC 후속으로 교차 확인했다."
+            "note": "기사 본문에서 김범석 의장의 메시지, CCTV 분석 정황, 공소시효 판단과 205건 적발 결과를 확인했다."
           }
         ],
         "materials": [
           {
             "url": "https://www.khan.co.kr/article/202610221510001",
-            "label": "본문·발표 시각 확인",
+            "label": "본문",
             "kind": "source"
           }
         ],
-        "caution": "도덕적 평가와 현행법상 처벌 가능성을 구분한다.",
+        "caution": "쿠팡은 전직 임원의 일방적 주장이라며 노동부 발표에 유감을 밝혔다.",
         "readiness": {
           "mode": "major_news",
           "event_date": "2026-10-22",
-          "observation": "조사 결론과 공개 시각을 본문에서 확인했고 MBC 후속으로 교차 확인했다.",
-          "checked_materials": [
-            "https://www.khan.co.kr/article/202610221510001"
-          ],
+          "observation": "기사 본문에서 김범석 의장의 메시지, CCTV 분석 정황, 공소시효 판단과 205건 적발 결과를 확인했다.",
+          "checked_materials": [],
           "outline": [
-            "첫 장: 핵심 변화·수치",
+            "1장: 핵심 장면·수치",
             "2장: 이전 상태와 달라진 점",
-            "3장: 지금의 영향"
+            "3장: 결과와 지금의 영향"
           ]
         }
       },
@@ -55,86 +53,80 @@
           "2026년 10월 22일 여자아이돌 공식 영상 장면 20시",
           "October 22 2026 football breaking news Reuters latest 11 UTC 12 UTC",
           "October 22 2026 major sports record Reuters latest 11 UTC 12 UTC",
-          "site:reuters.com 2026-10-22 latest world breaking news",
-          "site:reuters.com/sports 2026-10-22 football latest",
-          "site:reuters.com UK restarts large-calibre weapon manufacturing after 20 years",
-          "site:reuters.com Brewers and Rays clash with first World Series title at stake",
-          "site:reuters.com India overcome New Zealand fightback to win T20 opener",
-          "site:reuters.com Ethiopia's Aga handed six-year doping ban"
+          "site:imnews.imbc.com 6859975 AI 안경 시험 부정행위 경찰 수사",
+          "일본 면세 매장 즉시 할인 출국 때 환급 2026 10 22",
+          "site:khan.co.kr 202610221510001 쿠팡 산재 은폐",
+          "김건희 추가 구속영장 심문 2026 10 22",
+          "site:reuters.com ATP blocks 234000 abusive comments",
+          "site:reuters.com IMF OECD warn AI could widen rich-poor country divide",
+          "site:reuters.com 2027 Tour de France time-trial specialists",
+          "site:reuters.com sports latest soccer football 13 UTC",
+          "2026년 10월 22일 21시 여자아이돌 공식 영상 새 장면",
+          "site:theqoo.net/hot 2026 10 22 여자아이돌 영상",
+          "site:reuters.com 2026-10-22 latest breaking world 13 UTC"
         ],
         "opened_urls": [
           "https://www.khan.co.kr/article/202610221510001",
           "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
           "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
-          "https://imnews.imbc.com/news/2026/society/article/6859996_36918.html",
-          "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
-          "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
-          "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
-          "https://www.reuters.com/legal/government/us-supreme-court-rulings-reshape-midterm-election-battlefield-2026-10-22/",
-          "https://www.reuters.com/business/retail-consumer/pg-flags-bigger-hit-annual-profit-higher-commodity-costs-beats-revenue-estimates-2026-10-22/",
-          "https://www.reuters.com/business/finance/lseg-buy-octus-35-billion-data-analytics-push-2026-10-22/",
+          "https://www.reuters.com/sports/cricket/englands-magnificent-brook-hits-fastest-odi-double-century-2026-10-22/",
           "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
+          "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
           "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
           "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
-          "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
-          "https://imnews.imbc.com/news/2026/society/article/6859969_36918.html"
+          "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
+          "https://www.yna.co.kr/view/AKR20261022174200004",
+          "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
+          "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/"
         ],
         "unavailable": [
-          {
-            "url": "https://www.instagram.com/bythepulse/",
-            "reason": "공개 그리드 개별 게시물·정확한 게시 시각을 이번 실행에서 재확인하지 못했다."
-          },
-          {
-            "url": "https://www.youtube.com/",
-            "reason": "여자아이돌 최신 후보는 원본 장면과 최초 공개 시각을 동시에 확인하지 못했다."
-          }
+          "여자아이돌: 원본 장면과 12시간 이내 최초 공개 시각을 함께 확인한 새 후보 없음",
+          "축구: 최신 검색에서 실제 장면을 확인할 수 있는 새 원본 후보 없음"
         ]
       }
     },
     {
       "event_key": "ai-glasses-exam-cheating-police-referral-20261022",
       "url": "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
-      "title": "AI 안경으로 시험 부정행위…경찰 수사로 넘어갔다",
+      "title": "“문제 풀어달라” 입력해 둔 AI 안경…국가자격시험 응시자 송치",
       "category": "시사",
       "status": "reviewed",
-      "recorded_at": 1792671905,
+      "recorded_at": 1792675734,
       "pick": {
-        "title": "AI 안경으로 시험 부정행위…경찰 수사로 넘어갔다",
+        "title": "“문제 풀어달라” 입력해 둔 AI 안경…국가자격시험 응시자 송치",
         "category": "시사",
         "url": "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
-        "source": "MBC뉴스·경찰",
+        "source": "MBC뉴스·서울 송파경찰서",
         "kind": "article",
         "event_key": "ai-glasses-exam-cheating-police-referral-20261022",
-        "why": "AI 기기가 실제 시험 부정행위 수단으로 쓰였다는 구체성이 강하다.",
-        "angle": "안경형 AI→시험장 탐지 공백→형사 절차",
-        "why_now": "학교 조사 뒤 경찰 수사 의뢰가 공개됐다.",
+        "why": "일상형 기기가 실제 국가시험 부정행위 수단으로 쓰였고 감독관이 안경테의 렌즈와 표시등으로 적발했다.",
+        "angle": "AI 안경 사전 명령→시험장 촬영→감독관 적발→송치 순서로 구성한다.",
+        "why_now": "경찰이 22일 정보처리기사 시험 부정행위 혐의 수험생의 불구속 송치를 공개했다.",
+        "verified_at": 1792675734,
         "published_at": 1792655040,
-        "verified_at": 1792668180,
         "evidence": [
           {
             "url": "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
-            "note": "사용 방식, 학교 조치, 경찰 이첩을 본문에서 확인했다."
+            "note": "본문에서 시험일, 적발 방식, 휴대전화 포렌식 결과와 공모·외부유출 정황 부재를 확인했다."
           }
         ],
         "materials": [
           {
             "url": "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
-            "label": "본문·발표 시각 확인",
+            "label": "본문",
             "kind": "source"
           }
         ],
-        "caution": "수사 단계이며 유죄 확정 사건이 아니다.",
+        "caution": "송치 단계이며 법원의 유죄 판단 전이다.",
         "readiness": {
           "mode": "major_news",
           "event_date": "2026-10-22",
-          "observation": "사용 방식, 학교 조치, 경찰 이첩을 본문에서 확인했다.",
-          "checked_materials": [
-            "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html"
-          ],
+          "observation": "본문에서 시험일, 적발 방식, 휴대전화 포렌식 결과와 공모·외부유출 정황 부재를 확인했다.",
+          "checked_materials": [],
           "outline": [
-            "첫 장: 핵심 변화·수치",
+            "1장: 핵심 장면·수치",
             "2장: 이전 상태와 달라진 점",
-            "3장: 지금의 영향"
+            "3장: 결과와 지금의 영향"
           ]
         }
       },
@@ -144,86 +136,80 @@
           "2026년 10월 22일 여자아이돌 공식 영상 장면 20시",
           "October 22 2026 football breaking news Reuters latest 11 UTC 12 UTC",
           "October 22 2026 major sports record Reuters latest 11 UTC 12 UTC",
-          "site:reuters.com 2026-10-22 latest world breaking news",
-          "site:reuters.com/sports 2026-10-22 football latest",
-          "site:reuters.com UK restarts large-calibre weapon manufacturing after 20 years",
-          "site:reuters.com Brewers and Rays clash with first World Series title at stake",
-          "site:reuters.com India overcome New Zealand fightback to win T20 opener",
-          "site:reuters.com Ethiopia's Aga handed six-year doping ban"
+          "site:imnews.imbc.com 6859975 AI 안경 시험 부정행위 경찰 수사",
+          "일본 면세 매장 즉시 할인 출국 때 환급 2026 10 22",
+          "site:khan.co.kr 202610221510001 쿠팡 산재 은폐",
+          "김건희 추가 구속영장 심문 2026 10 22",
+          "site:reuters.com ATP blocks 234000 abusive comments",
+          "site:reuters.com IMF OECD warn AI could widen rich-poor country divide",
+          "site:reuters.com 2027 Tour de France time-trial specialists",
+          "site:reuters.com sports latest soccer football 13 UTC",
+          "2026년 10월 22일 21시 여자아이돌 공식 영상 새 장면",
+          "site:theqoo.net/hot 2026 10 22 여자아이돌 영상",
+          "site:reuters.com 2026-10-22 latest breaking world 13 UTC"
         ],
         "opened_urls": [
           "https://www.khan.co.kr/article/202610221510001",
           "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
           "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
-          "https://imnews.imbc.com/news/2026/society/article/6859996_36918.html",
-          "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
-          "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
-          "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
-          "https://www.reuters.com/legal/government/us-supreme-court-rulings-reshape-midterm-election-battlefield-2026-10-22/",
-          "https://www.reuters.com/business/retail-consumer/pg-flags-bigger-hit-annual-profit-higher-commodity-costs-beats-revenue-estimates-2026-10-22/",
-          "https://www.reuters.com/business/finance/lseg-buy-octus-35-billion-data-analytics-push-2026-10-22/",
+          "https://www.reuters.com/sports/cricket/englands-magnificent-brook-hits-fastest-odi-double-century-2026-10-22/",
           "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
+          "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
           "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
           "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
-          "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
-          "https://imnews.imbc.com/news/2026/society/article/6859969_36918.html"
+          "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
+          "https://www.yna.co.kr/view/AKR20261022174200004",
+          "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
+          "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/"
         ],
         "unavailable": [
-          {
-            "url": "https://www.instagram.com/bythepulse/",
-            "reason": "공개 그리드 개별 게시물·정확한 게시 시각을 이번 실행에서 재확인하지 못했다."
-          },
-          {
-            "url": "https://www.youtube.com/",
-            "reason": "여자아이돌 최신 후보는 원본 장면과 최초 공개 시각을 동시에 확인하지 못했다."
-          }
+          "여자아이돌: 원본 장면과 12시간 이내 최초 공개 시각을 함께 확인한 새 후보 없음",
+          "축구: 최신 검색에서 실제 장면을 확인할 수 있는 새 원본 후보 없음"
         ]
       }
     },
     {
       "event_key": "japan-tax-free-refund-at-departure-change-20261022",
       "url": "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
-      "title": "일본 면세, 매장에서 즉시 할인 대신 출국 때 환급한다",
+      "title": "일본 면세, 11월부터 ‘매장 즉시 할인’ 대신 출국 때 환급",
       "category": "시사",
       "status": "reviewed",
-      "recorded_at": 1792671905,
+      "recorded_at": 1792675734,
       "pick": {
-        "title": "일본 면세, 매장에서 즉시 할인 대신 출국 때 환급한다",
+        "title": "일본 면세, 11월부터 ‘매장 즉시 할인’ 대신 출국 때 환급",
         "category": "시사",
         "url": "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
-        "source": "MBC뉴스·일본 정부",
+        "source": "MBC뉴스·니혼게이자이",
         "kind": "article",
         "event_key": "japan-tax-free-refund-at-departure-change-20261022",
-        "why": "한국 여행객이 바로 체감할 제도 변화다.",
-        "angle": "계산대 즉시 면세→출국 확인 후 환급",
-        "why_now": "새 면세 환급 방식과 시행 일정이 공개됐다.",
+        "why": "일본 여행객이 모든 면세 매장에서 세금을 먼저 내고 출국 때 돌려받는 체감 큰 변화다.",
+        "angle": "현재 즉시면세→세금 포함 결제→공항·항만 반출 확인→환급으로 바뀌는 흐름을 보여준다.",
+        "why_now": "11월 시행을 앞두고 6만4천여 면세점에 적용되는 환급 방식이 22일 공개됐다.",
+        "verified_at": 1792675734,
         "published_at": 1792658760,
-        "verified_at": 1792668180,
         "evidence": [
           {
             "url": "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
-            "note": "제도 구조와 시행 일정을 본문에서 확인했다."
+            "note": "본문에서 시행 시점, 반출 확인, 현금·카드취소 환급과 구매한도·특수포장 의무 폐지를 확인했다."
           }
         ],
         "materials": [
           {
             "url": "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
-            "label": "본문·발표 시각 확인",
+            "label": "본문",
             "kind": "source"
           }
         ],
-        "caution": "세부 환급 절차는 시행 전 달라질 수 있다.",
+        "caution": "공항 혼잡과 매장별 세부 운영은 시행 뒤 달라질 수 있다.",
         "readiness": {
           "mode": "major_news",
           "event_date": "2026-10-22",
-          "observation": "제도 구조와 시행 일정을 본문에서 확인했다.",
-          "checked_materials": [
-            "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html"
-          ],
+          "observation": "본문에서 시행 시점, 반출 확인, 현금·카드취소 환급과 구매한도·특수포장 의무 폐지를 확인했다.",
+          "checked_materials": [],
           "outline": [
-            "첫 장: 핵심 변화·수치",
+            "1장: 핵심 장면·수치",
             "2장: 이전 상태와 달라진 점",
-            "3장: 지금의 영향"
+            "3장: 결과와 지금의 영향"
           ]
         }
       },
@@ -233,86 +219,80 @@
           "2026년 10월 22일 여자아이돌 공식 영상 장면 20시",
           "October 22 2026 football breaking news Reuters latest 11 UTC 12 UTC",
           "October 22 2026 major sports record Reuters latest 11 UTC 12 UTC",
-          "site:reuters.com 2026-10-22 latest world breaking news",
-          "site:reuters.com/sports 2026-10-22 football latest",
-          "site:reuters.com UK restarts large-calibre weapon manufacturing after 20 years",
-          "site:reuters.com Brewers and Rays clash with first World Series title at stake",
-          "site:reuters.com India overcome New Zealand fightback to win T20 opener",
-          "site:reuters.com Ethiopia's Aga handed six-year doping ban"
+          "site:imnews.imbc.com 6859975 AI 안경 시험 부정행위 경찰 수사",
+          "일본 면세 매장 즉시 할인 출국 때 환급 2026 10 22",
+          "site:khan.co.kr 202610221510001 쿠팡 산재 은폐",
+          "김건희 추가 구속영장 심문 2026 10 22",
+          "site:reuters.com ATP blocks 234000 abusive comments",
+          "site:reuters.com IMF OECD warn AI could widen rich-poor country divide",
+          "site:reuters.com 2027 Tour de France time-trial specialists",
+          "site:reuters.com sports latest soccer football 13 UTC",
+          "2026년 10월 22일 21시 여자아이돌 공식 영상 새 장면",
+          "site:theqoo.net/hot 2026 10 22 여자아이돌 영상",
+          "site:reuters.com 2026-10-22 latest breaking world 13 UTC"
         ],
         "opened_urls": [
           "https://www.khan.co.kr/article/202610221510001",
           "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
           "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
-          "https://imnews.imbc.com/news/2026/society/article/6859996_36918.html",
-          "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
-          "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
-          "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
-          "https://www.reuters.com/legal/government/us-supreme-court-rulings-reshape-midterm-election-battlefield-2026-10-22/",
-          "https://www.reuters.com/business/retail-consumer/pg-flags-bigger-hit-annual-profit-higher-commodity-costs-beats-revenue-estimates-2026-10-22/",
-          "https://www.reuters.com/business/finance/lseg-buy-octus-35-billion-data-analytics-push-2026-10-22/",
+          "https://www.reuters.com/sports/cricket/englands-magnificent-brook-hits-fastest-odi-double-century-2026-10-22/",
           "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
+          "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
           "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
           "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
-          "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
-          "https://imnews.imbc.com/news/2026/society/article/6859969_36918.html"
+          "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
+          "https://www.yna.co.kr/view/AKR20261022174200004",
+          "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
+          "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/"
         ],
         "unavailable": [
-          {
-            "url": "https://www.instagram.com/bythepulse/",
-            "reason": "공개 그리드 개별 게시물·정확한 게시 시각을 이번 실행에서 재확인하지 못했다."
-          },
-          {
-            "url": "https://www.youtube.com/",
-            "reason": "여자아이돌 최신 후보는 원본 장면과 최초 공개 시각을 동시에 확인하지 못했다."
-          }
+          "여자아이돌: 원본 장면과 12시간 이내 최초 공개 시각을 함께 확인한 새 후보 없음",
+          "축구: 최신 검색에서 실제 장면을 확인할 수 있는 새 원본 후보 없음"
         ]
       }
     },
     {
       "event_key": "kim-keon-hee-additional-detention-warrant-hearing-20261022",
-      "url": "https://imnews.imbc.com/news/2026/society/article/6859996_36918.html",
-      "title": "김건희 추가 구속영장 심문…구속 연장 여부 가른다",
+      "url": "https://www.yna.co.kr/view/AKR20261022174200004",
+      "title": "대법원, 27일 김건희 추가 구속영장 심문…31일 만료 앞둬",
       "category": "시사",
       "status": "reviewed",
-      "recorded_at": 1792671905,
+      "recorded_at": 1792675734,
       "pick": {
-        "title": "김건희 추가 구속영장 심문…구속 연장 여부 가른다",
+        "title": "대법원, 27일 김건희 추가 구속영장 심문…31일 만료 앞둬",
         "category": "시사",
-        "url": "https://imnews.imbc.com/news/2026/society/article/6859996_36918.html",
-        "source": "MBC뉴스·법원",
+        "url": "https://www.yna.co.kr/view/AKR20261022174200004",
+        "source": "연합뉴스·대법원",
         "kind": "article",
         "event_key": "kim-keon-hee-additional-detention-warrant-hearing-20261022",
-        "why": "구속 지속 여부를 가르는 절차로 파급력이 크다.",
-        "angle": "구속기간 만료→추가 영장 심문→법원 판단",
-        "why_now": "추가 구속영장 심문이 22일 열렸다.",
-        "published_at": 1792658220,
-        "verified_at": 1792668180,
+        "why": "구속 만료 직전 추가 영장 여부를 대법원이 직접 심문한다는 절차적 중요성이 크다.",
+        "angle": "31일 구속 만료→특검의 직권 발부 요청→27일 심문→발부 여부로 정리한다.",
+        "why_now": "대법원이 22일 심문 일정을 27일로 확정해 공개했다.",
+        "verified_at": 1792675734,
+        "published_at": 1792657980,
         "evidence": [
           {
-            "url": "https://imnews.imbc.com/news/2026/society/article/6859996_36918.html",
-            "note": "심문 시각과 영장 청구 사유를 본문에서 확인했다."
+            "url": "https://www.yna.co.kr/view/AKR20261022174200004",
+            "note": "연합뉴스 속보와 후속 보도에서 27일 심문 일정, 31일 만료, 특검 요청 배경을 확인했다."
           }
         ],
         "materials": [
           {
-            "url": "https://imnews.imbc.com/news/2026/society/article/6859996_36918.html",
-            "label": "본문·발표 시각 확인",
+            "url": "https://www.yna.co.kr/view/AKR20261022174200004",
+            "label": "본문",
             "kind": "source"
           }
         ],
-        "caution": "결론 전 단계이므로 발부 여부를 단정하지 않는다.",
+        "caution": "심문 예정 단계이며 추가 영장 발부가 확정된 것은 아니다.",
         "readiness": {
           "mode": "major_news",
           "event_date": "2026-10-22",
-          "observation": "심문 시각과 영장 청구 사유를 본문에서 확인했다.",
-          "checked_materials": [
-            "https://imnews.imbc.com/news/2026/society/article/6859996_36918.html"
-          ],
+          "observation": "연합뉴스 속보와 후속 보도에서 27일 심문 일정, 31일 만료, 특검 요청 배경을 확인했다.",
+          "checked_materials": [],
           "outline": [
-            "첫 장: 핵심 변화·수치",
+            "1장: 핵심 장면·수치",
             "2장: 이전 상태와 달라진 점",
-            "3장: 지금의 영향"
+            "3장: 결과와 지금의 영향"
           ]
         }
       },
@@ -322,39 +302,35 @@
           "2026년 10월 22일 여자아이돌 공식 영상 장면 20시",
           "October 22 2026 football breaking news Reuters latest 11 UTC 12 UTC",
           "October 22 2026 major sports record Reuters latest 11 UTC 12 UTC",
-          "site:reuters.com 2026-10-22 latest world breaking news",
-          "site:reuters.com/sports 2026-10-22 football latest",
-          "site:reuters.com UK restarts large-calibre weapon manufacturing after 20 years",
-          "site:reuters.com Brewers and Rays clash with first World Series title at stake",
-          "site:reuters.com India overcome New Zealand fightback to win T20 opener",
-          "site:reuters.com Ethiopia's Aga handed six-year doping ban"
+          "site:imnews.imbc.com 6859975 AI 안경 시험 부정행위 경찰 수사",
+          "일본 면세 매장 즉시 할인 출국 때 환급 2026 10 22",
+          "site:khan.co.kr 202610221510001 쿠팡 산재 은폐",
+          "김건희 추가 구속영장 심문 2026 10 22",
+          "site:reuters.com ATP blocks 234000 abusive comments",
+          "site:reuters.com IMF OECD warn AI could widen rich-poor country divide",
+          "site:reuters.com 2027 Tour de France time-trial specialists",
+          "site:reuters.com sports latest soccer football 13 UTC",
+          "2026년 10월 22일 21시 여자아이돌 공식 영상 새 장면",
+          "site:theqoo.net/hot 2026 10 22 여자아이돌 영상",
+          "site:reuters.com 2026-10-22 latest breaking world 13 UTC"
         ],
         "opened_urls": [
           "https://www.khan.co.kr/article/202610221510001",
           "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
           "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
-          "https://imnews.imbc.com/news/2026/society/article/6859996_36918.html",
-          "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
-          "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
-          "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
-          "https://www.reuters.com/legal/government/us-supreme-court-rulings-reshape-midterm-election-battlefield-2026-10-22/",
-          "https://www.reuters.com/business/retail-consumer/pg-flags-bigger-hit-annual-profit-higher-commodity-costs-beats-revenue-estimates-2026-10-22/",
-          "https://www.reuters.com/business/finance/lseg-buy-octus-35-billion-data-analytics-push-2026-10-22/",
+          "https://www.reuters.com/sports/cricket/englands-magnificent-brook-hits-fastest-odi-double-century-2026-10-22/",
           "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
+          "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
           "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
           "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
-          "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
-          "https://imnews.imbc.com/news/2026/society/article/6859969_36918.html"
+          "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
+          "https://www.yna.co.kr/view/AKR20261022174200004",
+          "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
+          "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/"
         ],
         "unavailable": [
-          {
-            "url": "https://www.instagram.com/bythepulse/",
-            "reason": "공개 그리드 개별 게시물·정확한 게시 시각을 이번 실행에서 재확인하지 못했다."
-          },
-          {
-            "url": "https://www.youtube.com/",
-            "reason": "여자아이돌 최신 후보는 원본 장면과 최초 공개 시각을 동시에 확인하지 못했다."
-          }
+          "여자아이돌: 원본 장면과 12시간 이내 최초 공개 시각을 함께 확인한 새 후보 없음",
+          "축구: 최신 검색에서 실제 장면을 확인할 수 있는 새 원본 후보 없음"
         ]
       }
     },
@@ -364,7 +340,7 @@
       "title": "ATP, 선수에게 닿기 전 악성 댓글 23만4천건을 막았다",
       "category": "메이저 스포츠",
       "status": "reviewed",
-      "recorded_at": 1792671905,
+      "recorded_at": 1792675734,
       "pick": {
         "title": "ATP, 선수에게 닿기 전 악성 댓글 23만4천건을 막았다",
         "category": "메이저 스포츠",
@@ -372,36 +348,34 @@
         "source": "Reuters·ATP",
         "kind": "article",
         "event_key": "atp-blocks-234000-abusive-comments-20261022",
-        "why": "스포츠 악플 대응을 23만4천건이라는 수치로 보여준다.",
-        "angle": "댓글 폭주→자동 탐지·차단→선수 보호",
-        "why_now": "ATP가 최신 차단 성과를 발표했다.",
-        "published_at": 1792660680,
-        "verified_at": 1792668180,
+        "why": "남자 선수 85%가 온라인 학대를 겪었고 AI가 370만개 댓글을 분석해 23만4천건을 막았다는 수치가 강하다.",
+        "angle": "370만개 분석→28만4천건 탐지→82% 실시간 제거→23만4천건 차단으로 보여준다.",
+        "why_now": "ATP가 22일 Safe Sport 첫해 성과와 심각한 학대 16만2천건을 공개했다.",
+        "verified_at": 1792675734,
+        "published_at": 1792660736,
         "evidence": [
           {
             "url": "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
-            "note": "차단 건수와 운영 범위를 본문에서 확인했다."
+            "note": "Reuters 본문에서 분석·탐지·차단 수치와 AI moderation 운영 범위를 확인했다."
           }
         ],
         "materials": [
           {
             "url": "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
-            "label": "본문·발표 시각 확인",
+            "label": "본문",
             "kind": "source"
           }
         ],
-        "caution": "",
+        "caution": "차단 수치는 ATP와 선수 채널 분석 범위다.",
         "readiness": {
           "mode": "major_news",
           "event_date": "2026-10-22",
-          "observation": "차단 건수와 운영 범위를 본문에서 확인했다.",
-          "checked_materials": [
-            "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/"
-          ],
+          "observation": "Reuters 본문에서 분석·탐지·차단 수치와 AI moderation 운영 범위를 확인했다.",
+          "checked_materials": [],
           "outline": [
-            "첫 장: 핵심 변화·수치",
+            "1장: 핵심 장면·수치",
             "2장: 이전 상태와 달라진 점",
-            "3장: 지금의 영향"
+            "3장: 결과와 지금의 영향"
           ]
         }
       },
@@ -411,86 +385,80 @@
           "2026년 10월 22일 여자아이돌 공식 영상 장면 20시",
           "October 22 2026 football breaking news Reuters latest 11 UTC 12 UTC",
           "October 22 2026 major sports record Reuters latest 11 UTC 12 UTC",
-          "site:reuters.com 2026-10-22 latest world breaking news",
-          "site:reuters.com/sports 2026-10-22 football latest",
-          "site:reuters.com UK restarts large-calibre weapon manufacturing after 20 years",
-          "site:reuters.com Brewers and Rays clash with first World Series title at stake",
-          "site:reuters.com India overcome New Zealand fightback to win T20 opener",
-          "site:reuters.com Ethiopia's Aga handed six-year doping ban"
+          "site:imnews.imbc.com 6859975 AI 안경 시험 부정행위 경찰 수사",
+          "일본 면세 매장 즉시 할인 출국 때 환급 2026 10 22",
+          "site:khan.co.kr 202610221510001 쿠팡 산재 은폐",
+          "김건희 추가 구속영장 심문 2026 10 22",
+          "site:reuters.com ATP blocks 234000 abusive comments",
+          "site:reuters.com IMF OECD warn AI could widen rich-poor country divide",
+          "site:reuters.com 2027 Tour de France time-trial specialists",
+          "site:reuters.com sports latest soccer football 13 UTC",
+          "2026년 10월 22일 21시 여자아이돌 공식 영상 새 장면",
+          "site:theqoo.net/hot 2026 10 22 여자아이돌 영상",
+          "site:reuters.com 2026-10-22 latest breaking world 13 UTC"
         ],
         "opened_urls": [
           "https://www.khan.co.kr/article/202610221510001",
           "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
           "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
-          "https://imnews.imbc.com/news/2026/society/article/6859996_36918.html",
-          "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
-          "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
-          "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
-          "https://www.reuters.com/legal/government/us-supreme-court-rulings-reshape-midterm-election-battlefield-2026-10-22/",
-          "https://www.reuters.com/business/retail-consumer/pg-flags-bigger-hit-annual-profit-higher-commodity-costs-beats-revenue-estimates-2026-10-22/",
-          "https://www.reuters.com/business/finance/lseg-buy-octus-35-billion-data-analytics-push-2026-10-22/",
+          "https://www.reuters.com/sports/cricket/englands-magnificent-brook-hits-fastest-odi-double-century-2026-10-22/",
           "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
+          "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
           "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
           "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
-          "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
-          "https://imnews.imbc.com/news/2026/society/article/6859969_36918.html"
+          "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
+          "https://www.yna.co.kr/view/AKR20261022174200004",
+          "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
+          "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/"
         ],
         "unavailable": [
-          {
-            "url": "https://www.instagram.com/bythepulse/",
-            "reason": "공개 그리드 개별 게시물·정확한 게시 시각을 이번 실행에서 재확인하지 못했다."
-          },
-          {
-            "url": "https://www.youtube.com/",
-            "reason": "여자아이돌 최신 후보는 원본 장면과 최초 공개 시각을 동시에 확인하지 못했다."
-          }
+          "여자아이돌: 원본 장면과 12시간 이내 최초 공개 시각을 함께 확인한 새 후보 없음",
+          "축구: 최신 검색에서 실제 장면을 확인할 수 있는 새 원본 후보 없음"
         ]
       }
     },
     {
       "event_key": "imf-oecd-ai-widen-rich-poor-young-worker-gap-20261022",
       "url": "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
-      "title": "IMF·OECD “AI가 국가·세대의 격차를 더 벌릴 수 있다”",
+      "title": "IMF·OECD “AI가 국가·기업·청년 노동자의 격차를 더 벌릴 수 있다”",
       "category": "시사",
       "status": "reviewed",
-      "recorded_at": 1792671905,
+      "recorded_at": 1792675734,
       "pick": {
-        "title": "IMF·OECD “AI가 국가·세대의 격차를 더 벌릴 수 있다”",
+        "title": "IMF·OECD “AI가 국가·기업·청년 노동자의 격차를 더 벌릴 수 있다”",
         "category": "시사",
         "url": "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
         "source": "Reuters·IMF·OECD",
         "kind": "article",
         "event_key": "imf-oecd-ai-widen-rich-poor-young-worker-gap-20261022",
-        "why": "AI 낙관론을 국가와 청년 노동자의 격차 문제로 뒤집는다.",
-        "angle": "생산성 기대→부유국 편중→청년·저숙련층 위험",
-        "why_now": "IMF와 OECD의 공동 경고가 공개됐다.",
-        "published_at": 1792665660,
-        "verified_at": 1792668180,
+        "why": "AI가 성장률을 높일 수 있다는 전망과 동시에 빈국·중소기업·초년 노동자가 뒤처질 수 있다는 반전이 크다.",
+        "angle": "성장률 +0.5% 가능성→40% 일자리 노출→초년 노동자의 경험 사다리 붕괴 위험으로 이어간다.",
+        "why_now": "IMF와 OECD 관계자가 22일 AI 도입 격차와 청년층 위험을 경고했다.",
+        "verified_at": 1792675734,
+        "published_at": 1792665692,
         "evidence": [
           {
             "url": "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
-            "note": "두 기관의 경고와 격차 메커니즘을 본문에서 확인했다."
+            "note": "Reuters 본문에서 IMF의 성장·일자리 노출 추정과 OECD의 생산성 범위, 초년 노동자 경고를 확인했다."
           }
         ],
         "materials": [
           {
             "url": "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
-            "label": "본문·발표 시각 확인",
+            "label": "본문",
             "kind": "source"
           }
         ],
-        "caution": "",
+        "caution": "기관 추정치이며 실제 생산성 효과는 아직 제한적이라는 단서를 함께 둔다.",
         "readiness": {
           "mode": "major_news",
           "event_date": "2026-10-22",
-          "observation": "두 기관의 경고와 격차 메커니즘을 본문에서 확인했다.",
-          "checked_materials": [
-            "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/"
-          ],
+          "observation": "Reuters 본문에서 IMF의 성장·일자리 노출 추정과 OECD의 생산성 범위, 초년 노동자 경고를 확인했다.",
+          "checked_materials": [],
           "outline": [
-            "첫 장: 핵심 변화·수치",
+            "1장: 핵심 장면·수치",
             "2장: 이전 상태와 달라진 점",
-            "3장: 지금의 영향"
+            "3장: 결과와 지금의 영향"
           ]
         }
       },
@@ -500,86 +468,80 @@
           "2026년 10월 22일 여자아이돌 공식 영상 장면 20시",
           "October 22 2026 football breaking news Reuters latest 11 UTC 12 UTC",
           "October 22 2026 major sports record Reuters latest 11 UTC 12 UTC",
-          "site:reuters.com 2026-10-22 latest world breaking news",
-          "site:reuters.com/sports 2026-10-22 football latest",
-          "site:reuters.com UK restarts large-calibre weapon manufacturing after 20 years",
-          "site:reuters.com Brewers and Rays clash with first World Series title at stake",
-          "site:reuters.com India overcome New Zealand fightback to win T20 opener",
-          "site:reuters.com Ethiopia's Aga handed six-year doping ban"
+          "site:imnews.imbc.com 6859975 AI 안경 시험 부정행위 경찰 수사",
+          "일본 면세 매장 즉시 할인 출국 때 환급 2026 10 22",
+          "site:khan.co.kr 202610221510001 쿠팡 산재 은폐",
+          "김건희 추가 구속영장 심문 2026 10 22",
+          "site:reuters.com ATP blocks 234000 abusive comments",
+          "site:reuters.com IMF OECD warn AI could widen rich-poor country divide",
+          "site:reuters.com 2027 Tour de France time-trial specialists",
+          "site:reuters.com sports latest soccer football 13 UTC",
+          "2026년 10월 22일 21시 여자아이돌 공식 영상 새 장면",
+          "site:theqoo.net/hot 2026 10 22 여자아이돌 영상",
+          "site:reuters.com 2026-10-22 latest breaking world 13 UTC"
         ],
         "opened_urls": [
           "https://www.khan.co.kr/article/202610221510001",
           "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
           "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
-          "https://imnews.imbc.com/news/2026/society/article/6859996_36918.html",
-          "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
-          "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
-          "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
-          "https://www.reuters.com/legal/government/us-supreme-court-rulings-reshape-midterm-election-battlefield-2026-10-22/",
-          "https://www.reuters.com/business/retail-consumer/pg-flags-bigger-hit-annual-profit-higher-commodity-costs-beats-revenue-estimates-2026-10-22/",
-          "https://www.reuters.com/business/finance/lseg-buy-octus-35-billion-data-analytics-push-2026-10-22/",
+          "https://www.reuters.com/sports/cricket/englands-magnificent-brook-hits-fastest-odi-double-century-2026-10-22/",
           "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
+          "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
           "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
           "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
-          "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
-          "https://imnews.imbc.com/news/2026/society/article/6859969_36918.html"
+          "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
+          "https://www.yna.co.kr/view/AKR20261022174200004",
+          "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
+          "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/"
         ],
         "unavailable": [
-          {
-            "url": "https://www.instagram.com/bythepulse/",
-            "reason": "공개 그리드 개별 게시물·정확한 게시 시각을 이번 실행에서 재확인하지 못했다."
-          },
-          {
-            "url": "https://www.youtube.com/",
-            "reason": "여자아이돌 최신 후보는 원본 장면과 최초 공개 시각을 동시에 확인하지 못했다."
-          }
+          "여자아이돌: 원본 장면과 12시간 이내 최초 공개 시각을 함께 확인한 새 후보 없음",
+          "축구: 최신 검색에서 실제 장면을 확인할 수 있는 새 원본 후보 없음"
         ]
       }
     },
     {
       "event_key": "tour-de-france-2027-routes-time-trial-puy-de-dome-20261022",
       "url": "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
-      "title": "2027 투르 드 프랑스, 남녀 모두 시간차 싸움이 더 커진다",
+      "title": "2027 투르 드 프랑스, 15년 만에 가장 긴 타임트라이얼…여자부는 퓌드돔 결승",
       "category": "메이저 스포츠",
       "status": "reviewed",
-      "recorded_at": 1792671905,
+      "recorded_at": 1792675734,
       "pick": {
-        "title": "2027 투르 드 프랑스, 남녀 모두 시간차 싸움이 더 커진다",
+        "title": "2027 투르 드 프랑스, 15년 만에 가장 긴 타임트라이얼…여자부는 퓌드돔 결승",
         "category": "메이저 스포츠",
         "url": "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
         "source": "Reuters·Tour de France",
         "kind": "article",
         "event_key": "tour-de-france-2027-routes-time-trial-puy-de-dome-20261022",
-        "why": "남녀 대회의 새 코스가 동시에 공개돼 지도 카드 구성이 가능하다.",
-        "angle": "남자 타임트라이얼 강화↔여자 퓌드돔 결승",
-        "why_now": "2027 남녀 코스가 공식 발표됐다.",
-        "published_at": 1792665240,
-        "verified_at": 1792668180,
+        "why": "남자 71km 타임트라이얼과 여자 퓌드돔 정상 결승이 동시에 공개돼 지도형 카드가 가능하다.",
+        "angle": "남자 38+33km→2012년 이후 최장→여자 런던 팀타임트라이얼→퓌드돔 결승으로 전개한다.",
+        "why_now": "2027 남녀 대회 전체 코스가 22일 공식 발표됐다.",
+        "verified_at": 1792675734,
+        "published_at": 1792665261,
         "evidence": [
           {
             "url": "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
-            "note": "본문과 행사 사진에서 코스 발표와 주요 구간을 확인했다."
+            "note": "Reuters 본문에서 남자 3,479km·타임트라이얼 71km, 여자 1,156km·9개 스테이지를 확인했다."
           }
         ],
         "materials": [
           {
             "url": "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
-            "label": "본문·발표 시각 확인",
+            "label": "본문",
             "kind": "source"
           }
         ],
-        "caution": "",
+        "caution": "2027년 예정 코스이며 실제 참가자·결과는 미정이다.",
         "readiness": {
           "mode": "major_news",
           "event_date": "2026-10-22",
-          "observation": "본문과 행사 사진에서 코스 발표와 주요 구간을 확인했다.",
-          "checked_materials": [
-            "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/"
-          ],
+          "observation": "Reuters 본문에서 남자 3,479km·타임트라이얼 71km, 여자 1,156km·9개 스테이지를 확인했다.",
+          "checked_materials": [],
           "outline": [
-            "첫 장: 핵심 변화·수치",
+            "1장: 핵심 장면·수치",
             "2장: 이전 상태와 달라진 점",
-            "3장: 지금의 영향"
+            "3장: 결과와 지금의 영향"
           ]
         }
       },
@@ -589,39 +551,450 @@
           "2026년 10월 22일 여자아이돌 공식 영상 장면 20시",
           "October 22 2026 football breaking news Reuters latest 11 UTC 12 UTC",
           "October 22 2026 major sports record Reuters latest 11 UTC 12 UTC",
-          "site:reuters.com 2026-10-22 latest world breaking news",
-          "site:reuters.com/sports 2026-10-22 football latest",
-          "site:reuters.com UK restarts large-calibre weapon manufacturing after 20 years",
-          "site:reuters.com Brewers and Rays clash with first World Series title at stake",
-          "site:reuters.com India overcome New Zealand fightback to win T20 opener",
-          "site:reuters.com Ethiopia's Aga handed six-year doping ban"
+          "site:imnews.imbc.com 6859975 AI 안경 시험 부정행위 경찰 수사",
+          "일본 면세 매장 즉시 할인 출국 때 환급 2026 10 22",
+          "site:khan.co.kr 202610221510001 쿠팡 산재 은폐",
+          "김건희 추가 구속영장 심문 2026 10 22",
+          "site:reuters.com ATP blocks 234000 abusive comments",
+          "site:reuters.com IMF OECD warn AI could widen rich-poor country divide",
+          "site:reuters.com 2027 Tour de France time-trial specialists",
+          "site:reuters.com sports latest soccer football 13 UTC",
+          "2026년 10월 22일 21시 여자아이돌 공식 영상 새 장면",
+          "site:theqoo.net/hot 2026 10 22 여자아이돌 영상",
+          "site:reuters.com 2026-10-22 latest breaking world 13 UTC"
         ],
         "opened_urls": [
           "https://www.khan.co.kr/article/202610221510001",
           "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
           "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
-          "https://imnews.imbc.com/news/2026/society/article/6859996_36918.html",
-          "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
-          "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
-          "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
-          "https://www.reuters.com/legal/government/us-supreme-court-rulings-reshape-midterm-election-battlefield-2026-10-22/",
-          "https://www.reuters.com/business/retail-consumer/pg-flags-bigger-hit-annual-profit-higher-commodity-costs-beats-revenue-estimates-2026-10-22/",
-          "https://www.reuters.com/business/finance/lseg-buy-octus-35-billion-data-analytics-push-2026-10-22/",
+          "https://www.reuters.com/sports/cricket/englands-magnificent-brook-hits-fastest-odi-double-century-2026-10-22/",
           "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
+          "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
           "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
           "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
-          "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
-          "https://imnews.imbc.com/news/2026/society/article/6859969_36918.html"
+          "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
+          "https://www.yna.co.kr/view/AKR20261022174200004",
+          "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
+          "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/"
         ],
         "unavailable": [
+          "여자아이돌: 원본 장면과 12시간 이내 최초 공개 시각을 함께 확인한 새 후보 없음",
+          "축구: 최신 검색에서 실제 장면을 확인할 수 있는 새 원본 후보 없음"
+        ]
+      }
+    },
+    {
+      "event_key": "uk-restarts-large-calibre-weapons-production-20-years-20261022",
+      "url": "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
+      "title": "영국, 20년 만에 대구경 무기 생산 재개…빈 공장이 8개월 만에 양산",
+      "category": "시사",
+      "status": "reviewed",
+      "recorded_at": 1792675734,
+      "pick": {
+        "title": "영국, 20년 만에 대구경 무기 생산 재개…빈 공장이 8개월 만에 양산",
+        "category": "시사",
+        "url": "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
+        "source": "Reuters·영국 정부",
+        "kind": "article",
+        "event_key": "uk-restarts-large-calibre-weapons-production-20-years-20261022",
+        "why": "20년 공백을 끝낸 재무장과 빈 공장의 8개월 전환이라는 변화가 크다.",
+        "angle": "20년 생산 공백→Telford 공장 재가동→120·155mm 체계와 100개 일자리로 전개한다.",
+        "why_now": "영국 정부가 22일 러시아 위협 대응을 이유로 대구경 무기 생산 재개를 발표했다.",
+        "verified_at": 1792675734,
+        "published_at": 1792670502,
+        "evidence": [
           {
-            "url": "https://www.instagram.com/bythepulse/",
-            "reason": "공개 그리드 개별 게시물·정확한 게시 시각을 이번 실행에서 재확인하지 못했다."
-          },
-          {
-            "url": "https://www.youtube.com/",
-            "reason": "여자아이돌 최신 후보는 원본 장면과 최초 공개 시각을 동시에 확인하지 못했다."
+            "url": "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
+            "note": "Reuters 본문에서 120mm·155mm 포신과 폐쇄기 생산, 8개월 내 완전 가동, 100개 일자리를 확인했다."
           }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
+            "label": "본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "영국 국방비 3% 인상 시점은 아직 불확실하다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "Reuters 본문에서 120mm·155mm 포신과 폐쇄기 생산, 8개월 내 완전 가동, 100개 일자리를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1장: 핵심 장면·수치",
+            "2장: 이전 상태와 달라진 점",
+            "3장: 결과와 지금의 영향"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "2026년 10월 22일 20시 21시 한국 주요 뉴스 새 발표",
+          "2026년 10월 22일 여자아이돌 공식 영상 장면 20시",
+          "October 22 2026 football breaking news Reuters latest 11 UTC 12 UTC",
+          "October 22 2026 major sports record Reuters latest 11 UTC 12 UTC",
+          "site:imnews.imbc.com 6859975 AI 안경 시험 부정행위 경찰 수사",
+          "일본 면세 매장 즉시 할인 출국 때 환급 2026 10 22",
+          "site:khan.co.kr 202610221510001 쿠팡 산재 은폐",
+          "김건희 추가 구속영장 심문 2026 10 22",
+          "site:reuters.com ATP blocks 234000 abusive comments",
+          "site:reuters.com IMF OECD warn AI could widen rich-poor country divide",
+          "site:reuters.com 2027 Tour de France time-trial specialists",
+          "site:reuters.com sports latest soccer football 13 UTC",
+          "2026년 10월 22일 21시 여자아이돌 공식 영상 새 장면",
+          "site:theqoo.net/hot 2026 10 22 여자아이돌 영상",
+          "site:reuters.com 2026-10-22 latest breaking world 13 UTC"
+        ],
+        "opened_urls": [
+          "https://www.khan.co.kr/article/202610221510001",
+          "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
+          "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
+          "https://www.reuters.com/sports/cricket/englands-magnificent-brook-hits-fastest-odi-double-century-2026-10-22/",
+          "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
+          "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
+          "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
+          "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
+          "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
+          "https://www.yna.co.kr/view/AKR20261022174200004",
+          "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
+          "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/"
+        ],
+        "unavailable": [
+          "여자아이돌: 원본 장면과 12시간 이내 최초 공개 시각을 함께 확인한 새 후보 없음",
+          "축구: 최신 검색에서 실제 장면을 확인할 수 있는 새 원본 후보 없음"
+        ]
+      }
+    },
+    {
+      "event_key": "brewers-rays-first-title-world-series-20261022",
+      "url": "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
+      "title": "46년 만의 ‘무관 팀’ 월드시리즈…누가 이겨도 창단 첫 우승",
+      "category": "메이저 스포츠",
+      "status": "reviewed",
+      "recorded_at": 1792675734,
+      "pick": {
+        "title": "46년 만의 ‘무관 팀’ 월드시리즈…누가 이겨도 창단 첫 우승",
+        "category": "메이저 스포츠",
+        "url": "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
+        "source": "Reuters·MLB",
+        "kind": "article",
+        "event_key": "brewers-rays-first-title-world-series-20261022",
+        "why": "1980년 이후 처음으로 우승 경험 없는 두 팀이 만나 첫 챔피언이 반드시 탄생한다.",
+        "angle": "작은 시장 두 팀→밀워키 103승·다저스 스윕→탬파베이 반격→첫 우승 보장으로 구성한다.",
+        "why_now": "브루어스와 레이스의 월드시리즈 1차전을 하루 앞두고 대진의 역사성이 22일 공개됐다.",
+        "verified_at": 1792675734,
+        "published_at": 1792670549,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
+            "note": "Reuters 본문에서 1980년 이후 첫 무관 팀 맞대결, 팀 가치, 시즌·포스트시즌 성적을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
+            "label": "본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "경기 전 프리뷰이며 실제 우승 팀은 아직 정해지지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "Reuters 본문에서 1980년 이후 첫 무관 팀 맞대결, 팀 가치, 시즌·포스트시즌 성적을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1장: 핵심 장면·수치",
+            "2장: 이전 상태와 달라진 점",
+            "3장: 결과와 지금의 영향"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "2026년 10월 22일 20시 21시 한국 주요 뉴스 새 발표",
+          "2026년 10월 22일 여자아이돌 공식 영상 장면 20시",
+          "October 22 2026 football breaking news Reuters latest 11 UTC 12 UTC",
+          "October 22 2026 major sports record Reuters latest 11 UTC 12 UTC",
+          "site:imnews.imbc.com 6859975 AI 안경 시험 부정행위 경찰 수사",
+          "일본 면세 매장 즉시 할인 출국 때 환급 2026 10 22",
+          "site:khan.co.kr 202610221510001 쿠팡 산재 은폐",
+          "김건희 추가 구속영장 심문 2026 10 22",
+          "site:reuters.com ATP blocks 234000 abusive comments",
+          "site:reuters.com IMF OECD warn AI could widen rich-poor country divide",
+          "site:reuters.com 2027 Tour de France time-trial specialists",
+          "site:reuters.com sports latest soccer football 13 UTC",
+          "2026년 10월 22일 21시 여자아이돌 공식 영상 새 장면",
+          "site:theqoo.net/hot 2026 10 22 여자아이돌 영상",
+          "site:reuters.com 2026-10-22 latest breaking world 13 UTC"
+        ],
+        "opened_urls": [
+          "https://www.khan.co.kr/article/202610221510001",
+          "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
+          "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
+          "https://www.reuters.com/sports/cricket/englands-magnificent-brook-hits-fastest-odi-double-century-2026-10-22/",
+          "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
+          "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
+          "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
+          "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
+          "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
+          "https://www.yna.co.kr/view/AKR20261022174200004",
+          "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
+          "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/"
+        ],
+        "unavailable": [
+          "여자아이돌: 원본 장면과 12시간 이내 최초 공개 시각을 함께 확인한 새 후보 없음",
+          "축구: 최신 검색에서 실제 장면을 확인할 수 있는 새 원본 후보 없음"
+        ]
+      }
+    },
+    {
+      "event_key": "india-226-record-t20-chase-new-zealand-20261022",
+      "url": "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
+      "title": "인도, 뉴질랜드의 225점을 뒤집었다…팀 역사상 최고 T20 추격승",
+      "category": "메이저 스포츠",
+      "status": "reviewed",
+      "recorded_at": 1792675734,
+      "pick": {
+        "title": "인도, 뉴질랜드의 225점을 뒤집었다…팀 역사상 최고 T20 추격승",
+        "category": "메이저 스포츠",
+        "url": "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "india-226-record-t20-chase-new-zealand-20261022",
+        "why": "94-1의 폭발적 출발 뒤 3명이 연달아 아웃됐지만 19.4오버에 226점을 완성한 흐름이 극적이다.",
+        "angle": "뉴질랜드 225-4→인도 93점 오프닝→중반 3연속 아웃→Dhir의 마무리로 전개한다.",
+        "why_now": "인도가 22일 뉴질랜드 원정에서 자국 최고 T20 추격 기록을 세웠다.",
+        "verified_at": 1792675734,
+        "published_at": 1792669680,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
+            "note": "Reuters 본문에서 225-4, 93점 오프닝, 3연속 아웃, 19.4오버 승리와 기록 의미를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
+            "label": "본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "크리켓 비주류 독자도 점수 변화가 보이도록 규칙 설명을 최소 보완한다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "Reuters 본문에서 225-4, 93점 오프닝, 3연속 아웃, 19.4오버 승리와 기록 의미를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1장: 핵심 장면·수치",
+            "2장: 이전 상태와 달라진 점",
+            "3장: 결과와 지금의 영향"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "2026년 10월 22일 20시 21시 한국 주요 뉴스 새 발표",
+          "2026년 10월 22일 여자아이돌 공식 영상 장면 20시",
+          "October 22 2026 football breaking news Reuters latest 11 UTC 12 UTC",
+          "October 22 2026 major sports record Reuters latest 11 UTC 12 UTC",
+          "site:imnews.imbc.com 6859975 AI 안경 시험 부정행위 경찰 수사",
+          "일본 면세 매장 즉시 할인 출국 때 환급 2026 10 22",
+          "site:khan.co.kr 202610221510001 쿠팡 산재 은폐",
+          "김건희 추가 구속영장 심문 2026 10 22",
+          "site:reuters.com ATP blocks 234000 abusive comments",
+          "site:reuters.com IMF OECD warn AI could widen rich-poor country divide",
+          "site:reuters.com 2027 Tour de France time-trial specialists",
+          "site:reuters.com sports latest soccer football 13 UTC",
+          "2026년 10월 22일 21시 여자아이돌 공식 영상 새 장면",
+          "site:theqoo.net/hot 2026 10 22 여자아이돌 영상",
+          "site:reuters.com 2026-10-22 latest breaking world 13 UTC"
+        ],
+        "opened_urls": [
+          "https://www.khan.co.kr/article/202610221510001",
+          "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
+          "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
+          "https://www.reuters.com/sports/cricket/englands-magnificent-brook-hits-fastest-odi-double-century-2026-10-22/",
+          "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
+          "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
+          "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
+          "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
+          "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
+          "https://www.yna.co.kr/view/AKR20261022174200004",
+          "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
+          "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/"
+        ],
+        "unavailable": [
+          "여자아이돌: 원본 장면과 12시간 이내 최초 공개 시각을 함께 확인한 새 후보 없음",
+          "축구: 최신 검색에서 실제 장면을 확인할 수 있는 새 원본 후보 없음"
+        ]
+      }
+    },
+    {
+      "event_key": "ruti-aga-six-year-doping-ban-fake-prescription-20261022",
+      "url": "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
+      "title": "도핑 2년 징계가 ‘가짜 처방전’ 때문에 6년으로 늘었다",
+      "category": "메이저 스포츠",
+      "status": "reviewed",
+      "recorded_at": 1792675734,
+      "pick": {
+        "title": "도핑 2년 징계가 ‘가짜 처방전’ 때문에 6년으로 늘었다",
+        "category": "메이저 스포츠",
+        "url": "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
+        "source": "Reuters·AIU",
+        "kind": "article",
+        "event_key": "ruti-aga-six-year-doping-ban-fake-prescription-20261022",
+        "why": "약물 양성보다 조사 방해와 가짜 처방전 때문에 징계가 세 배가 된 반전이 명확하다.",
+        "angle": "금지약물 양성 2년→허위 진술·가짜 처방전→추가 4년으로 구성한다.",
+        "why_now": "AIU가 22일 도쿄마라톤 우승자 루티 아가의 6년 징계를 발표했다.",
+        "verified_at": 1792675734,
+        "published_at": 1792668623,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
+            "note": "Reuters 본문에서 약물 종류, 기본 2년, 위조 처방전과 추가 4년, 징계 시작일을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
+            "label": "본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "선수 측 항소 여부는 본문에서 확인되지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "Reuters 본문에서 약물 종류, 기본 2년, 위조 처방전과 추가 4년, 징계 시작일을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1장: 핵심 장면·수치",
+            "2장: 이전 상태와 달라진 점",
+            "3장: 결과와 지금의 영향"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "2026년 10월 22일 20시 21시 한국 주요 뉴스 새 발표",
+          "2026년 10월 22일 여자아이돌 공식 영상 장면 20시",
+          "October 22 2026 football breaking news Reuters latest 11 UTC 12 UTC",
+          "October 22 2026 major sports record Reuters latest 11 UTC 12 UTC",
+          "site:imnews.imbc.com 6859975 AI 안경 시험 부정행위 경찰 수사",
+          "일본 면세 매장 즉시 할인 출국 때 환급 2026 10 22",
+          "site:khan.co.kr 202610221510001 쿠팡 산재 은폐",
+          "김건희 추가 구속영장 심문 2026 10 22",
+          "site:reuters.com ATP blocks 234000 abusive comments",
+          "site:reuters.com IMF OECD warn AI could widen rich-poor country divide",
+          "site:reuters.com 2027 Tour de France time-trial specialists",
+          "site:reuters.com sports latest soccer football 13 UTC",
+          "2026년 10월 22일 21시 여자아이돌 공식 영상 새 장면",
+          "site:theqoo.net/hot 2026 10 22 여자아이돌 영상",
+          "site:reuters.com 2026-10-22 latest breaking world 13 UTC"
+        ],
+        "opened_urls": [
+          "https://www.khan.co.kr/article/202610221510001",
+          "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
+          "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
+          "https://www.reuters.com/sports/cricket/englands-magnificent-brook-hits-fastest-odi-double-century-2026-10-22/",
+          "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
+          "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
+          "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
+          "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
+          "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
+          "https://www.yna.co.kr/view/AKR20261022174200004",
+          "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
+          "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/"
+        ],
+        "unavailable": [
+          "여자아이돌: 원본 장면과 12시간 이내 최초 공개 시각을 함께 확인한 새 후보 없음",
+          "축구: 최신 검색에서 실제 장면을 확인할 수 있는 새 원본 후보 없음"
+        ]
+      }
+    },
+    {
+      "event_key": "harry-brook-fastest-odi-double-century-20261022",
+      "url": "https://www.reuters.com/sports/cricket/englands-magnificent-brook-hits-fastest-odi-double-century-2026-10-22/",
+      "title": "114구 만에 200점…해리 브룩, ODI 최단 더블센추리 신기록",
+      "category": "메이저 스포츠",
+      "status": "reviewed",
+      "recorded_at": 1792675734,
+      "pick": {
+        "title": "114구 만에 200점…해리 브룩, ODI 최단 더블센추리 신기록",
+        "category": "메이저 스포츠",
+        "url": "https://www.reuters.com/sports/cricket/englands-magnificent-brook-hits-fastest-odi-double-century-2026-10-22/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "harry-brook-fastest-odi-double-century-20261022",
+        "why": "114구 만에 200점, 잉글랜드 최초 ODI 200점, 최종 202점이라는 기록이 한 장에 잡힌다.",
+        "angle": "114구 신기록→기존 117구 경신→202점·21포·10식스를 연속 카드로 전개한다.",
+        "why_now": "브룩이 22일 스리랑카전에서 ODI 역사상 가장 빠른 더블센추리를 기록했다.",
+        "verified_at": 1792675734,
+        "published_at": 1792673400,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/cricket/englands-magnificent-brook-hits-fastest-odi-double-century-2026-10-22/",
+            "note": "Reuters 본문과 당일 경기 사진에서 114구 200점, 최종 202점, 잉글랜드 개인 최고점 경신을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/cricket/englands-magnificent-brook-hits-fastest-odi-double-century-2026-10-22/",
+            "label": "본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "경기 전체 결과와 별개로 개인 타격 기록을 중심으로 다룬다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "Reuters 본문과 당일 경기 사진에서 114구 200점, 최종 202점, 잉글랜드 개인 최고점 경신을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1장: 핵심 장면·수치",
+            "2장: 이전 상태와 달라진 점",
+            "3장: 결과와 지금의 영향"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "2026년 10월 22일 20시 21시 한국 주요 뉴스 새 발표",
+          "2026년 10월 22일 여자아이돌 공식 영상 장면 20시",
+          "October 22 2026 football breaking news Reuters latest 11 UTC 12 UTC",
+          "October 22 2026 major sports record Reuters latest 11 UTC 12 UTC",
+          "site:imnews.imbc.com 6859975 AI 안경 시험 부정행위 경찰 수사",
+          "일본 면세 매장 즉시 할인 출국 때 환급 2026 10 22",
+          "site:khan.co.kr 202610221510001 쿠팡 산재 은폐",
+          "김건희 추가 구속영장 심문 2026 10 22",
+          "site:reuters.com ATP blocks 234000 abusive comments",
+          "site:reuters.com IMF OECD warn AI could widen rich-poor country divide",
+          "site:reuters.com 2027 Tour de France time-trial specialists",
+          "site:reuters.com sports latest soccer football 13 UTC",
+          "2026년 10월 22일 21시 여자아이돌 공식 영상 새 장면",
+          "site:theqoo.net/hot 2026 10 22 여자아이돌 영상",
+          "site:reuters.com 2026-10-22 latest breaking world 13 UTC"
+        ],
+        "opened_urls": [
+          "https://www.khan.co.kr/article/202610221510001",
+          "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
+          "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
+          "https://www.reuters.com/sports/cricket/englands-magnificent-brook-hits-fastest-odi-double-century-2026-10-22/",
+          "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
+          "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
+          "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
+          "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
+          "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
+          "https://www.yna.co.kr/view/AKR20261022174200004",
+          "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
+          "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/"
+        ],
+        "unavailable": [
+          "여자아이돌: 원본 장면과 12시간 이내 최초 공개 시각을 함께 확인한 새 후보 없음",
+          "축구: 최신 검색에서 실제 장면을 확인할 수 있는 새 원본 후보 없음"
         ]
       }
     },
@@ -842,362 +1215,6 @@
           "observation": "거래 금액, 대상, 전략적 목적을 본문에서 확인했다.",
           "checked_materials": [
             "https://www.reuters.com/business/finance/lseg-buy-octus-35-billion-data-analytics-push-2026-10-22/"
-          ],
-          "outline": [
-            "첫 장: 핵심 변화·수치",
-            "2장: 이전 상태와 달라진 점",
-            "3장: 지금의 영향"
-          ]
-        }
-      },
-      "coverage": {
-        "queries": [
-          "2026년 10월 22일 20시 21시 한국 주요 뉴스 새 발표",
-          "2026년 10월 22일 여자아이돌 공식 영상 장면 20시",
-          "October 22 2026 football breaking news Reuters latest 11 UTC 12 UTC",
-          "October 22 2026 major sports record Reuters latest 11 UTC 12 UTC",
-          "site:reuters.com 2026-10-22 latest world breaking news",
-          "site:reuters.com/sports 2026-10-22 football latest",
-          "site:reuters.com UK restarts large-calibre weapon manufacturing after 20 years",
-          "site:reuters.com Brewers and Rays clash with first World Series title at stake",
-          "site:reuters.com India overcome New Zealand fightback to win T20 opener",
-          "site:reuters.com Ethiopia's Aga handed six-year doping ban"
-        ],
-        "opened_urls": [
-          "https://www.khan.co.kr/article/202610221510001",
-          "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
-          "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
-          "https://imnews.imbc.com/news/2026/society/article/6859996_36918.html",
-          "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
-          "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
-          "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
-          "https://www.reuters.com/legal/government/us-supreme-court-rulings-reshape-midterm-election-battlefield-2026-10-22/",
-          "https://www.reuters.com/business/retail-consumer/pg-flags-bigger-hit-annual-profit-higher-commodity-costs-beats-revenue-estimates-2026-10-22/",
-          "https://www.reuters.com/business/finance/lseg-buy-octus-35-billion-data-analytics-push-2026-10-22/",
-          "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
-          "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
-          "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
-          "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
-          "https://imnews.imbc.com/news/2026/society/article/6859969_36918.html"
-        ],
-        "unavailable": [
-          {
-            "url": "https://www.instagram.com/bythepulse/",
-            "reason": "공개 그리드 개별 게시물·정확한 게시 시각을 이번 실행에서 재확인하지 못했다."
-          },
-          {
-            "url": "https://www.youtube.com/",
-            "reason": "여자아이돌 최신 후보는 원본 장면과 최초 공개 시각을 동시에 확인하지 못했다."
-          }
-        ]
-      }
-    },
-    {
-      "event_key": "uk-restarts-large-calibre-weapons-production-20-years-20261022",
-      "url": "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
-      "title": "영국, 20년 만에 대구경 무기 생산을 다시 시작했다",
-      "category": "시사",
-      "status": "reviewed",
-      "recorded_at": 1792671905,
-      "pick": {
-        "title": "영국, 20년 만에 대구경 무기 생산을 다시 시작했다",
-        "category": "시사",
-        "url": "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
-        "source": "Reuters·영국 정부",
-        "kind": "article",
-        "event_key": "uk-restarts-large-calibre-weapons-production-20-years-20261022",
-        "why": "20년 공백을 끝낸 재무장 전환점이 선명하다.",
-        "angle": "빈 공장→8개월 만의 양산→유럽 재무장",
-        "why_now": "120mm·155mm 생산 재개가 공식 발표됐다.",
-        "published_at": 1792670460,
-        "verified_at": 1792671905,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
-            "note": "20년 만의 생산 재개, 공장, 100개 일자리를 본문에서 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
-            "label": "본문·발표 시각 확인",
-            "kind": "source"
-          }
-        ],
-        "caution": "",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "20년 만의 생산 재개, 공장, 100개 일자리를 본문에서 확인했다.",
-          "checked_materials": [
-            "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/"
-          ],
-          "outline": [
-            "첫 장: 핵심 변화·수치",
-            "2장: 이전 상태와 달라진 점",
-            "3장: 지금의 영향"
-          ]
-        }
-      },
-      "coverage": {
-        "queries": [
-          "2026년 10월 22일 20시 21시 한국 주요 뉴스 새 발표",
-          "2026년 10월 22일 여자아이돌 공식 영상 장면 20시",
-          "October 22 2026 football breaking news Reuters latest 11 UTC 12 UTC",
-          "October 22 2026 major sports record Reuters latest 11 UTC 12 UTC",
-          "site:reuters.com 2026-10-22 latest world breaking news",
-          "site:reuters.com/sports 2026-10-22 football latest",
-          "site:reuters.com UK restarts large-calibre weapon manufacturing after 20 years",
-          "site:reuters.com Brewers and Rays clash with first World Series title at stake",
-          "site:reuters.com India overcome New Zealand fightback to win T20 opener",
-          "site:reuters.com Ethiopia's Aga handed six-year doping ban"
-        ],
-        "opened_urls": [
-          "https://www.khan.co.kr/article/202610221510001",
-          "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
-          "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
-          "https://imnews.imbc.com/news/2026/society/article/6859996_36918.html",
-          "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
-          "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
-          "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
-          "https://www.reuters.com/legal/government/us-supreme-court-rulings-reshape-midterm-election-battlefield-2026-10-22/",
-          "https://www.reuters.com/business/retail-consumer/pg-flags-bigger-hit-annual-profit-higher-commodity-costs-beats-revenue-estimates-2026-10-22/",
-          "https://www.reuters.com/business/finance/lseg-buy-octus-35-billion-data-analytics-push-2026-10-22/",
-          "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
-          "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
-          "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
-          "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
-          "https://imnews.imbc.com/news/2026/society/article/6859969_36918.html"
-        ],
-        "unavailable": [
-          {
-            "url": "https://www.instagram.com/bythepulse/",
-            "reason": "공개 그리드 개별 게시물·정확한 게시 시각을 이번 실행에서 재확인하지 못했다."
-          },
-          {
-            "url": "https://www.youtube.com/",
-            "reason": "여자아이돌 최신 후보는 원본 장면과 최초 공개 시각을 동시에 확인하지 못했다."
-          }
-        ]
-      }
-    },
-    {
-      "event_key": "brewers-rays-first-title-world-series-20261022",
-      "url": "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
-      "title": "월드시리즈, 46년 만에 ‘우승 없는 두 팀’이 만난다",
-      "category": "메이저 스포츠",
-      "status": "reviewed",
-      "recorded_at": 1792671905,
-      "pick": {
-        "title": "월드시리즈, 46년 만에 ‘우승 없는 두 팀’이 만난다",
-        "category": "메이저 스포츠",
-        "url": "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
-        "source": "Reuters·MLB",
-        "kind": "article",
-        "event_key": "brewers-rays-first-title-world-series-20261022",
-        "why": "어느 쪽이 이겨도 창단 첫 우승이라는 단순하고 강한 서사다.",
-        "angle": "작은 시장 두 팀→46년 만의 무관 팀 맞대결→첫 우승",
-        "why_now": "대진의 역사적 의미가 22일 공개됐다.",
-        "published_at": 1792670520,
-        "verified_at": 1792671905,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
-            "note": "1980년 이후 처음인 무관 팀 대진, 양 팀 가치와 성적을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
-            "label": "본문·발표 시각 확인",
-            "kind": "source"
-          }
-        ],
-        "caution": "",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "1980년 이후 처음인 무관 팀 대진, 양 팀 가치와 성적을 확인했다.",
-          "checked_materials": [
-            "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/"
-          ],
-          "outline": [
-            "첫 장: 핵심 변화·수치",
-            "2장: 이전 상태와 달라진 점",
-            "3장: 지금의 영향"
-          ]
-        }
-      },
-      "coverage": {
-        "queries": [
-          "2026년 10월 22일 20시 21시 한국 주요 뉴스 새 발표",
-          "2026년 10월 22일 여자아이돌 공식 영상 장면 20시",
-          "October 22 2026 football breaking news Reuters latest 11 UTC 12 UTC",
-          "October 22 2026 major sports record Reuters latest 11 UTC 12 UTC",
-          "site:reuters.com 2026-10-22 latest world breaking news",
-          "site:reuters.com/sports 2026-10-22 football latest",
-          "site:reuters.com UK restarts large-calibre weapon manufacturing after 20 years",
-          "site:reuters.com Brewers and Rays clash with first World Series title at stake",
-          "site:reuters.com India overcome New Zealand fightback to win T20 opener",
-          "site:reuters.com Ethiopia's Aga handed six-year doping ban"
-        ],
-        "opened_urls": [
-          "https://www.khan.co.kr/article/202610221510001",
-          "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
-          "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
-          "https://imnews.imbc.com/news/2026/society/article/6859996_36918.html",
-          "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
-          "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
-          "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
-          "https://www.reuters.com/legal/government/us-supreme-court-rulings-reshape-midterm-election-battlefield-2026-10-22/",
-          "https://www.reuters.com/business/retail-consumer/pg-flags-bigger-hit-annual-profit-higher-commodity-costs-beats-revenue-estimates-2026-10-22/",
-          "https://www.reuters.com/business/finance/lseg-buy-octus-35-billion-data-analytics-push-2026-10-22/",
-          "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
-          "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
-          "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
-          "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
-          "https://imnews.imbc.com/news/2026/society/article/6859969_36918.html"
-        ],
-        "unavailable": [
-          {
-            "url": "https://www.instagram.com/bythepulse/",
-            "reason": "공개 그리드 개별 게시물·정확한 게시 시각을 이번 실행에서 재확인하지 못했다."
-          },
-          {
-            "url": "https://www.youtube.com/",
-            "reason": "여자아이돌 최신 후보는 원본 장면과 최초 공개 시각을 동시에 확인하지 못했다."
-          }
-        ]
-      }
-    },
-    {
-      "event_key": "india-226-record-t20-chase-new-zealand-20261022",
-      "url": "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
-      "title": "인도, 뉴질랜드 원정서 226점을 뒤집어 역대 최고 추격승",
-      "category": "메이저 스포츠",
-      "status": "reviewed",
-      "recorded_at": 1792671905,
-      "pick": {
-        "title": "인도, 뉴질랜드 원정서 226점을 뒤집어 역대 최고 추격승",
-        "category": "메이저 스포츠",
-        "url": "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
-        "source": "Reuters·인도/뉴질랜드 크리켓",
-        "kind": "article",
-        "event_key": "india-226-record-t20-chase-new-zealand-20261022",
-        "why": "94-1 출발, 중반 흔들림, 막판 재역전으로 점수 흐름이 강하다.",
-        "angle": "225점→93점 오프닝→연속 아웃→19.4오버 역전",
-        "why_now": "팀 역사상 최고 T20 추격승을 기록했다.",
-        "published_at": 1792669680,
-        "verified_at": 1792671905,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
-            "note": "225-4, 93점 오프닝, 중반 3명 연속 아웃, 19.4오버 승리를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
-            "label": "본문·발표 시각 확인",
-            "kind": "source"
-          }
-        ],
-        "caution": "",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "225-4, 93점 오프닝, 중반 3명 연속 아웃, 19.4오버 승리를 확인했다.",
-          "checked_materials": [
-            "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/"
-          ],
-          "outline": [
-            "첫 장: 핵심 변화·수치",
-            "2장: 이전 상태와 달라진 점",
-            "3장: 지금의 영향"
-          ]
-        }
-      },
-      "coverage": {
-        "queries": [
-          "2026년 10월 22일 20시 21시 한국 주요 뉴스 새 발표",
-          "2026년 10월 22일 여자아이돌 공식 영상 장면 20시",
-          "October 22 2026 football breaking news Reuters latest 11 UTC 12 UTC",
-          "October 22 2026 major sports record Reuters latest 11 UTC 12 UTC",
-          "site:reuters.com 2026-10-22 latest world breaking news",
-          "site:reuters.com/sports 2026-10-22 football latest",
-          "site:reuters.com UK restarts large-calibre weapon manufacturing after 20 years",
-          "site:reuters.com Brewers and Rays clash with first World Series title at stake",
-          "site:reuters.com India overcome New Zealand fightback to win T20 opener",
-          "site:reuters.com Ethiopia's Aga handed six-year doping ban"
-        ],
-        "opened_urls": [
-          "https://www.khan.co.kr/article/202610221510001",
-          "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
-          "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
-          "https://imnews.imbc.com/news/2026/society/article/6859996_36918.html",
-          "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
-          "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
-          "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
-          "https://www.reuters.com/legal/government/us-supreme-court-rulings-reshape-midterm-election-battlefield-2026-10-22/",
-          "https://www.reuters.com/business/retail-consumer/pg-flags-bigger-hit-annual-profit-higher-commodity-costs-beats-revenue-estimates-2026-10-22/",
-          "https://www.reuters.com/business/finance/lseg-buy-octus-35-billion-data-analytics-push-2026-10-22/",
-          "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
-          "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
-          "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
-          "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
-          "https://imnews.imbc.com/news/2026/society/article/6859969_36918.html"
-        ],
-        "unavailable": [
-          {
-            "url": "https://www.instagram.com/bythepulse/",
-            "reason": "공개 그리드 개별 게시물·정확한 게시 시각을 이번 실행에서 재확인하지 못했다."
-          },
-          {
-            "url": "https://www.youtube.com/",
-            "reason": "여자아이돌 최신 후보는 원본 장면과 최초 공개 시각을 동시에 확인하지 못했다."
-          }
-        ]
-      }
-    },
-    {
-      "event_key": "ruti-aga-six-year-doping-ban-fake-prescription-20261022",
-      "url": "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
-      "title": "도핑 2년 징계가 가짜 처방전 때문에 6년으로 늘었다",
-      "category": "메이저 스포츠",
-      "status": "reviewed",
-      "recorded_at": 1792671905,
-      "pick": {
-        "title": "도핑 2년 징계가 가짜 처방전 때문에 6년으로 늘었다",
-        "category": "메이저 스포츠",
-        "url": "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
-        "source": "Reuters·AIU",
-        "kind": "article",
-        "event_key": "ruti-aga-six-year-doping-ban-fake-prescription-20261022",
-        "why": "가짜 처방전 제출로 징계가 세 배가 된 반전이 강하다.",
-        "angle": "양성 반응 2년→조사 방해·가짜 처방전→추가 4년",
-        "why_now": "AIU가 6년 징계를 발표했다.",
-        "published_at": 1792668600,
-        "verified_at": 1792671905,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
-            "note": "약물 종류, 기본 2년, 조사 방해와 위조 처방전으로 추가 4년을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
-            "label": "본문·발표 시각 확인",
-            "kind": "source"
-          }
-        ],
-        "caution": "",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "약물 종류, 기본 2년, 조사 방해와 위조 처방전으로 추가 4년을 확인했다.",
-          "checked_materials": [
-            "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/"
           ],
           "outline": [
             "첫 장: 핵심 변화·수치",
@@ -9101,1542 +9118,6 @@
       "note": "X 재게시 20일23:47은 확인. 영상4초만 확인했고 통화 상대·실제 대화와 원본 최초 공개 시각을 확인하지 못했다.",
       "next_action": "공식 원본에서 최초 게시 시각과 통화 핵심 동작·결과를 확인해야 한다.",
       "recorded_at": 1792550732
-    },
-    {
-      "event_key": "ai-strategy-committee-ktx-macro-deleted-post-clarification-20261020",
-      "url": "https://www.kado.net/news/articleView.html?idxno=2079306",
-      "title": "KTX ‘예약 매크로’ 글 지운 AI전략위원…‘조회만 했다’ 해명",
-      "category": "시사",
-      "status": "reviewed",
-      "recorded_at": 1792502758,
-      "pick": {
-        "title": "KTX ‘예약 매크로’ 글 지운 AI전략위원…‘조회만 했다’ 해명",
-        "category": "시사",
-        "url": "https://www.kado.net/news/articleView.html?idxno=2079306",
-        "source": "강원도민일보·연합뉴스",
-        "kind": "article",
-        "event_key": "ai-strategy-committee-ktx-macro-deleted-post-clarification-20261020",
-        "why": "KTX 예매에 실패해 본 이용자가 친구에게 예약 공정성 문제와 당사자 해명을 함께 전달할 이유가 있다.",
-        "angle": "첫 장에 SNS의 ‘예약하기’ 표현과 ‘예약한 적 없다’는 해명을 나란히 놓고 확인된 범위를 구분한다.",
-        "why_now": "20일16:47 원송고에서 확인했던 당일 전화 해명을 독립 보도 본문으로 재확인했다. 몇 달 전 도구 제작이나 재게시 시각을 새 사실로 바꾸지 않는다.",
-        "verified_at": 1792502653,
-        "published_at": 1792482420,
-        "evidence": [
-          {
-            "url": "https://www.kado.net/news/articleView.html?idxno=2079306",
-            "note": "20일 공개된 독립 보도 본문 재확인: 매크로 글 삭제와 ‘좌석 체크만, 예약은 안 했다’는 해명. 화면 상단18:10 발행일은 기사 최초 공개 시각으로 쓰지 않는다."
-          },
-          {
-            "url": "https://www.yna.co.kr/amp/view/AKR20261020138500017",
-            "note": "앞선18시 원문 검토에서16:47 송고와 당일 전화 해명을 확인한 기록을 재사용. 이번 연합뉴스 재접근은 실패했으며 현재 사실은 독립 보도 본문에서 다시 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.kado.net/news/articleView.html?idxno=2079306",
-            "label": "매크로 글·삭제·해명 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "실제 예약·부정 예매·위법이 입증됐다고 쓰지 않는다. 미확인 SNS 캡처를 만들어 넣지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-20",
-          "observation": "공공 교통 예매 도구를 만들었다는 국가AI전략위원의 글이 삭제됐고 당사자는 20일 취재에 좌석 조회용이며 예약은 하지 않았다고 밝혔다. 예매 사용·규정 위반은 미확인이다.",
-          "checked_materials": [],
-          "outline": [
-            "‘예약하기’라는 SNS 표현 ↔ ‘예약한 적 없다’는 당일 해명을 글자로 대비",
-            "도구 제작·글 삭제·20일 전화 해명을 순서대로 정리",
-            "확인된 것은 좌석 조회 주장, 실제 예매·위반 여부는 미확인이라고 명시"
-          ]
-        }
-      },
-      "coverage": {
-        "queries": [
-          "site:theqoo.net \"배이\" \"충주\" \"2026.10.20\"",
-          "site:theqoo.net 여자아이돌 오늘 \"2026.10.20\" 자막 영상",
-          "football October 20 2026 Manchester City appeal Premier League official",
-          "KIA LG October 20 2026 Kim Do young grand slam postseason",
-          "Haaland team news October 20 2026 Manchester City",
-          "배이 충주시 성심학교 수어",
-          "site:theqoo.net 걸그룹 오늘 영상 반전",
-          "\"배이\" \"성심학교\" 충주시",
-          "\"김도영\" \"145\" \"2026.10.20\"",
-          "AI전략위원 KTX 매크로 조회만 20일",
-          "\"AI전략위원\" \"매크로\"",
-          "\"김도영\" \"145.8\"",
-          "\"부캉이\" \"3차\" \"21일\"",
-          "\"부캉이\" \"폰툰\"",
-          "Busan SIM chips sewer 101 arrested October 20 2026",
-          "BAE Chungju sign language school October 20 2026",
-          "\"연쇄방화\" \"동묘앞역\" \"70대\"",
-          "\"휴머노이드\" \"국감\" \"20일 오후\"",
-          "배이 충주시 성심학교 수어 10월 20일 2026",
-          "football October 20 2026 Manchester United Como training six absent official",
-          "카이스트 로봇 국감 20일 오후 황정아",
-          "코스피 5552.74 20일 마감",
-          "\"배이\" \"충주시\" 영상",
-          "\"Manchester United\" \"Como\" \"20 October 2026\"",
-          "여자아이돌 반응 자막 오늘",
-          "\"손흥민\" \"20일\" \"발표\"",
-          "\"KBO\" \"20일\" \"100g\" 경위서",
-          "\"황정아\" \"휴머노이드\" \"오전\"",
-          "\"100g 초과 실격\" \"경위서\"",
-          "oil prices October 20 2026 Hormuz two tankers mines 109.08",
-          "\"황정아\" \"로봇\" \"11시\"",
-          "정수진 경위서 다른 경기 우려",
-          "\"수능\" \"스마트안경\" \"20일\"",
-          "\"유진\" \"뮤비 청문회\"",
-          "\"100g\" \"쉬쉬\" \"경위서\"",
-          "\"20대\" \"절반\" \"연체\" \"20일\"",
-          "football team news injuries 20 October 2026",
-          "\"우리유진\" \"Looks Can Kill\"",
-          "\"[단독]\" \"100g\" \"경위서\""
-        ],
-        "opened_urls": [
-          "https://www.instagram.com/bythepulse/",
-          "https://www.youtube.com/watch?v=SL4MWaOw0TY",
-          "https://www.premierleague.com/en/news/4727779/premier-league-statement-manchester-city-fc",
-          "https://www.kado.net/news/articleView.html?idxno=2079306",
-          "https://www.starnewskorea.com/en/sports/2026/10/20/2026102018003923961",
-          "https://www.starnewskorea.com/sports/2026/10/20/2026102018003923961",
-          "https://en.fnnews.com/news/202610201933137045",
-          "https://www.fnnews.com/news/202610201933137045",
-          "https://image.fnnews.com/resource/media/image/2026/10/20/202610201931159465_l.jpg",
-          "https://www.yna.co.kr/amp/view/AKR20261020138500017",
-          "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261020.99099005818",
-          "https://www.busan.com/view/busan/view.php?code=2026102018170424150",
-          "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261021.22004005766",
-          "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806560",
-          "https://www.kado.net/news/articleView.html?idxno=2079304",
-          "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008806366&oaid=N1008806560&plink=TOP",
-          "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008806232&oaid=N1008806560&plink=TOP",
-          "https://img.sbs.co.kr/newimg/news/20261020/202233072_1280.jpg",
-          "https://www.manutd.com/en/news/training-update-from-carrington",
-          "https://www.newspim.com/news/view/20261020000964",
-          "https://www.donga.com/news/Economy/article/all/20261020/134875431/1",
-          "https://img.newspim.com/news/2026/10/20/261020155515459_w.jpg",
-          "https://theqoo.net/square/4381710309?page=2",
-          "https://gall.dcinside.com/mgallery/board/view/?id=ba_e&no=22789&page=1",
-          "https://gall.dcinside.com/mgallery/board/view/?id=ba_e&no=22795&page=1",
-          "https://www.tjb.co.kr/news06/category/view/id/105073",
-          "https://www.sportschosun.com/football/2026-10-20/202610200100124760008119",
-          "https://www.newspim.com/news/view/20261020001206",
-          "https://www.reuters.com/business/energy/oil-eases-markets-assess-potential-waiver-russian-energy-middle-east-supply-2026-10-20/",
-          "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833356",
-          "https://www.newspim.com/news/view/20261020000888",
-          "https://mobile.newsis.com/view/NISX20261015_0003827660",
-          "https://www.newspim.com/news/view/20261020001218",
-          "https://mobile.newsis.com/view/NISX20261019_0003830984",
-          "https://www.news1.kr/it-science/general-science/6325719",
-          "https://www.newspim.com/news/view/20261019000026",
-          "https://www.uefa.com/uefachampionsleague/news/02aa-21dd60778d8f-1ea14fd92256-1000--champions-league-predicted-line-ups-matchday-3-team-news-/",
-          "https://www.reuters.com/business/retail-consumer/bytedance-alibaba-tencent-place-over-35-billion-worth-nvidia-chip-orders-2026-10-20/",
-          "https://www.reuters.com/business/qualcomm-cut-jobs-worldwide-performance-focused-layoffs-internal-memo-shows-2026-10-20/",
-          "https://www.reuters.com/business/google-cloud-services-largely-back-up-uk-2026-10-20/"
-        ],
-        "unavailable": [
-          "https://www.youtube.com/watch?v=SL4MWaOw0TY : 공식18시 공개·설명은 재확인했으나 재생 시도 후에도0:00 검은 화면; 장면 미확인.",
-          "https://news.nate.com/view/20261020n33986 : 브라우저 upstream connection timeout, 사진·본문 확인 실패.",
-          "연합뉴스 직접 경로: 검색 도구가 robots.txt 비재시도 제한을 반환해 중단; 독립 공개 보도 원문으로 전환.",
-          "더쿠 직접 후보 페이지 일부는 검색 도구 접근 오류. 검색 요약을 시청·본문 증거로 세지 않음.",
-          "BTP 그리드는 로그인 안내가 일부를 가려 표지만 확인; 상세·정확한 게시 시각·Insights는 미확인.",
-          "연합뉴스 KTX 원송고16:47은18시 검토에서 읽은 자료를 재사용; 이번 재접근은robots제한. 현재본문 재확인은 독립 후속보도에서 수행.",
-          "맨체스터이브닝뉴스 본문은402 결제 제한·Yahoo 재배포 본문은도구 오류; 원 구단 공식 공지를 브라우저에서 직접 읽음.",
-          "CNBC 경로는robots.txt 비재시도 제한; 가격·불확실성은 Reuters 독립 취재 원문으로 교차 확인 중.",
-          "https://m.sports.naver.com/general/video/1549052 : 도구에서 본문·실제 영상 열기 실패; 발견 자료로만 유지.",
-          "아이브 MV 청문회 인용 경로·스마트안경 Naver 본문은 도구 접근 오류; 독립 원문을 찾지 못한 장면은 선정하지 않음.",
-          "BTP 공개 그리드12개를 대조했으나 상세·전체 슬라이드·정확한 게시 시각·Insights는 미확인. 논술 AI안경 표지와20일 수능 세부 검사절차는 별도 사실로 구분."
-        ]
-      }
-    },
-    {
-      "event_key": "bukang-shark-third-release-operation-plan-20261020",
-      "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261020.99099005818",
-      "title": "그물 넘어 돌아온 부캉이…이번엔 이중 그물로 바다에 보낸다",
-      "category": "시사",
-      "status": "reviewed",
-      "recorded_at": 1792502758,
-      "pick": {
-        "title": "그물 넘어 돌아온 부캉이…이번엔 이중 그물로 바다에 보낸다",
-        "category": "시사",
-        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261020.99099005818",
-        "source": "국제신문·부산일보",
-        "kind": "article",
-        "event_key": "bukang-shark-third-release-operation-plan-20261020",
-        "why": "부캉이를 보러 갔거나 갈 친구에게 내일 구조 일정과 지난 실패를 보완한 방법이 무엇인지 전달할 이유가 있다.",
-        "angle": "첫 장에 ‘두 번 실패→21일 세 번째’와 본 그물·예비 그물 도식을 두고 바다 복귀가 아직 완료된 것은 아니라고 명시한다.",
-        "why_now": "20일 관계기관 회의에서21일 오후3차 구조를 결정한 새 계획과 보완 방식을17:07·18:20 원문으로 확인했다. 이전 방문객 집계의 재추천이 아니다.",
-        "verified_at": 1792502653,
-        "published_at": 1792483641,
-        "evidence": [
-          {
-            "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261020.99099005818",
-            "note": "20일17:07 본문:21일3차 외해 유도 결정, 폰툰 고정 그물과 수심이 깊어지는 구간의 예비 그물 등 새 실행계획."
-          },
-          {
-            "url": "https://www.busan.com/view/busan/view.php?code=2026102018170424150",
-            "note": "20일18:20 본문:그물 바닥 철제 보완, 폰툰과 예비 그물, 전문 다이버 투입 계획을 교차 확인. 실행·성공은 아직 미래다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.busan.com/view/busan/view.php?code=2026102018170424150",
-            "label": "새 구조 방식·일정 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "‘방류 성공’이라고 쓰지 않는다. 이전2차 작업 사진을 오늘 장면으로 표시하거나 방문객 증가만 새 사건으로 만들지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-20",
-          "observation": "20일 관계기관은21일 오후 부캉이를 바다로 유도하기로 정했다. 기존에 그물이 걸리고 상어가 돌아온 한계를 보완하려 폰툰·바닥 철제 보완·예비 그물과 다이버를 계획했다.",
-          "checked_materials": [],
-          "outline": [
-            "두 번의 실패 뒤21일3차 구조 결정이라는 새 사실",
-            "본 그물·폰툰·예비 그물의 역할을 본문 범위에서 간단한 도식으로 설명",
-            "전문 다이버·사전 조사·방문객 안전 계획, 아직 성공 여부는 미정이라고 마무리"
-          ]
-        }
-      },
-      "coverage": {
-        "queries": [
-          "site:theqoo.net \"배이\" \"충주\" \"2026.10.20\"",
-          "site:theqoo.net 여자아이돌 오늘 \"2026.10.20\" 자막 영상",
-          "football October 20 2026 Manchester City appeal Premier League official",
-          "KIA LG October 20 2026 Kim Do young grand slam postseason",
-          "Haaland team news October 20 2026 Manchester City",
-          "배이 충주시 성심학교 수어",
-          "site:theqoo.net 걸그룹 오늘 영상 반전",
-          "\"배이\" \"성심학교\" 충주시",
-          "\"김도영\" \"145\" \"2026.10.20\"",
-          "AI전략위원 KTX 매크로 조회만 20일",
-          "\"AI전략위원\" \"매크로\"",
-          "\"김도영\" \"145.8\"",
-          "\"부캉이\" \"3차\" \"21일\"",
-          "\"부캉이\" \"폰툰\"",
-          "Busan SIM chips sewer 101 arrested October 20 2026",
-          "BAE Chungju sign language school October 20 2026",
-          "\"연쇄방화\" \"동묘앞역\" \"70대\"",
-          "\"휴머노이드\" \"국감\" \"20일 오후\"",
-          "배이 충주시 성심학교 수어 10월 20일 2026",
-          "football October 20 2026 Manchester United Como training six absent official",
-          "카이스트 로봇 국감 20일 오후 황정아",
-          "코스피 5552.74 20일 마감",
-          "\"배이\" \"충주시\" 영상",
-          "\"Manchester United\" \"Como\" \"20 October 2026\"",
-          "여자아이돌 반응 자막 오늘",
-          "\"손흥민\" \"20일\" \"발표\"",
-          "\"KBO\" \"20일\" \"100g\" 경위서",
-          "\"황정아\" \"휴머노이드\" \"오전\"",
-          "\"100g 초과 실격\" \"경위서\"",
-          "oil prices October 20 2026 Hormuz two tankers mines 109.08",
-          "\"황정아\" \"로봇\" \"11시\"",
-          "정수진 경위서 다른 경기 우려",
-          "\"수능\" \"스마트안경\" \"20일\"",
-          "\"유진\" \"뮤비 청문회\"",
-          "\"100g\" \"쉬쉬\" \"경위서\"",
-          "\"20대\" \"절반\" \"연체\" \"20일\"",
-          "football team news injuries 20 October 2026",
-          "\"우리유진\" \"Looks Can Kill\"",
-          "\"[단독]\" \"100g\" \"경위서\""
-        ],
-        "opened_urls": [
-          "https://www.instagram.com/bythepulse/",
-          "https://www.youtube.com/watch?v=SL4MWaOw0TY",
-          "https://www.premierleague.com/en/news/4727779/premier-league-statement-manchester-city-fc",
-          "https://www.kado.net/news/articleView.html?idxno=2079306",
-          "https://www.starnewskorea.com/en/sports/2026/10/20/2026102018003923961",
-          "https://www.starnewskorea.com/sports/2026/10/20/2026102018003923961",
-          "https://en.fnnews.com/news/202610201933137045",
-          "https://www.fnnews.com/news/202610201933137045",
-          "https://image.fnnews.com/resource/media/image/2026/10/20/202610201931159465_l.jpg",
-          "https://www.yna.co.kr/amp/view/AKR20261020138500017",
-          "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261020.99099005818",
-          "https://www.busan.com/view/busan/view.php?code=2026102018170424150",
-          "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261021.22004005766",
-          "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806560",
-          "https://www.kado.net/news/articleView.html?idxno=2079304",
-          "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008806366&oaid=N1008806560&plink=TOP",
-          "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008806232&oaid=N1008806560&plink=TOP",
-          "https://img.sbs.co.kr/newimg/news/20261020/202233072_1280.jpg",
-          "https://www.manutd.com/en/news/training-update-from-carrington",
-          "https://www.newspim.com/news/view/20261020000964",
-          "https://www.donga.com/news/Economy/article/all/20261020/134875431/1",
-          "https://img.newspim.com/news/2026/10/20/261020155515459_w.jpg",
-          "https://theqoo.net/square/4381710309?page=2",
-          "https://gall.dcinside.com/mgallery/board/view/?id=ba_e&no=22789&page=1",
-          "https://gall.dcinside.com/mgallery/board/view/?id=ba_e&no=22795&page=1",
-          "https://www.tjb.co.kr/news06/category/view/id/105073",
-          "https://www.sportschosun.com/football/2026-10-20/202610200100124760008119",
-          "https://www.newspim.com/news/view/20261020001206",
-          "https://www.reuters.com/business/energy/oil-eases-markets-assess-potential-waiver-russian-energy-middle-east-supply-2026-10-20/",
-          "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833356",
-          "https://www.newspim.com/news/view/20261020000888",
-          "https://mobile.newsis.com/view/NISX20261015_0003827660",
-          "https://www.newspim.com/news/view/20261020001218",
-          "https://mobile.newsis.com/view/NISX20261019_0003830984",
-          "https://www.news1.kr/it-science/general-science/6325719",
-          "https://www.newspim.com/news/view/20261019000026",
-          "https://www.uefa.com/uefachampionsleague/news/02aa-21dd60778d8f-1ea14fd92256-1000--champions-league-predicted-line-ups-matchday-3-team-news-/",
-          "https://www.reuters.com/business/retail-consumer/bytedance-alibaba-tencent-place-over-35-billion-worth-nvidia-chip-orders-2026-10-20/",
-          "https://www.reuters.com/business/qualcomm-cut-jobs-worldwide-performance-focused-layoffs-internal-memo-shows-2026-10-20/",
-          "https://www.reuters.com/business/google-cloud-services-largely-back-up-uk-2026-10-20/"
-        ],
-        "unavailable": [
-          "https://www.youtube.com/watch?v=SL4MWaOw0TY : 공식18시 공개·설명은 재확인했으나 재생 시도 후에도0:00 검은 화면; 장면 미확인.",
-          "https://news.nate.com/view/20261020n33986 : 브라우저 upstream connection timeout, 사진·본문 확인 실패.",
-          "연합뉴스 직접 경로: 검색 도구가 robots.txt 비재시도 제한을 반환해 중단; 독립 공개 보도 원문으로 전환.",
-          "더쿠 직접 후보 페이지 일부는 검색 도구 접근 오류. 검색 요약을 시청·본문 증거로 세지 않음.",
-          "BTP 그리드는 로그인 안내가 일부를 가려 표지만 확인; 상세·정확한 게시 시각·Insights는 미확인.",
-          "연합뉴스 KTX 원송고16:47은18시 검토에서 읽은 자료를 재사용; 이번 재접근은robots제한. 현재본문 재확인은 독립 후속보도에서 수행.",
-          "맨체스터이브닝뉴스 본문은402 결제 제한·Yahoo 재배포 본문은도구 오류; 원 구단 공식 공지를 브라우저에서 직접 읽음.",
-          "CNBC 경로는robots.txt 비재시도 제한; 가격·불확실성은 Reuters 독립 취재 원문으로 교차 확인 중.",
-          "https://m.sports.naver.com/general/video/1549052 : 도구에서 본문·실제 영상 열기 실패; 발견 자료로만 유지.",
-          "아이브 MV 청문회 인용 경로·스마트안경 Naver 본문은 도구 접근 오류; 독립 원문을 찾지 못한 장면은 선정하지 않음.",
-          "BTP 공개 그리드12개를 대조했으나 상세·전체 슬라이드·정확한 게시 시각·Insights는 미확인. 논술 AI안경 표지와20일 수능 세부 검사절차는 별도 사실로 구분."
-        ]
-      }
-    },
-    {
-      "event_key": "kim-do-young-jamsil-grand-slam-postseason-distance-record-20261020",
-      "url": "https://www.fnnews.com/news/202610201933137045",
-      "title": "잠실 최상단에 꽂힌 김도영 만루포…25년 전 우즈 기록과 나란히",
-      "category": "메이저 스포츠",
-      "status": "reviewed",
-      "recorded_at": 1792502758,
-      "pick": {
-        "title": "잠실 최상단에 꽂힌 김도영 만루포…25년 전 우즈 기록과 나란히",
-        "category": "메이저 스포츠",
-        "url": "https://www.fnnews.com/news/202610201933137045",
-        "source": "파이낸셜뉴스·스타뉴스",
-        "kind": "article",
-        "event_key": "kim-do-young-jamsil-grand-slam-postseason-distance-record-20261020",
-        "why": "KIA·LG 팬이 친구에게 같은 잠실에서 25년 전 기록과 맞먹은 만루포와 3-0→7-0 변화를 보여줄 수 있다.",
-        "angle": "확인한 김도영 포효 사진에 ‘PS 최장 타이 145m’를 놓고 트랙맨 145.8m와 공식 기록을 구분한다.",
-        "why_now": "20일 준PO 3차전 2회초 나온 만루포로, 오늘 19:27 현장 보도와 19:38 한국어 원문에서 기록과 사진을 확인했다.",
-        "verified_at": 1792502653,
-        "published_at": 1792492020,
-        "evidence": [
-          {
-            "url": "https://www.fnnews.com/news/202610201933137045",
-            "note": "20일19:38 한국어 본문: 공식 145m는 2000년 계측 이후 PS 최장 타이·준PO 최장, 트랙맨 145.8m는 별도 수치."
-          },
-          {
-            "url": "https://www.starnewskorea.com/sports/2026/10/20/2026102018003923961",
-            "note": "19:27 현장 본문: 2회초 1사 만루 홈런으로 3-0→7-0. 종전 PS 기록은 2001년 타이론 우즈; 번역문에 이름 오류가 있어 한국어 원문을 확인."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://image.fnnews.com/resource/media/image/2026/10/20/202610201931159465_l.jpg",
-            "label": "20일 만루포 뒤 포효 사진",
-            "kind": "image"
-          }
-        ],
-        "caution": "영상·배트 투척·타구 연속 프레임은 미시청. 공식 비거리 145m와 트랙맨145.8m를 혼용하지 않고 최종 승패는 별도 확인한다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-20",
-          "observation": "2회초 만루 홈런으로 KIA가 3-0에서 7-0으로 벌렸고, 공식145m가 2000년 이후 PS 최장 타이로 보도됐다. 당일 현장 사진에서 김도영이 양 주먹을 쥐고 포효하는 모습을 실제 확인했다.",
-          "checked_materials": [
-            "https://image.fnnews.com/resource/media/image/2026/10/20/202610201931159465_l.jpg"
-          ],
-          "outline": [
-            "확인한 포효 사진 + ‘25년 전 PS 최장 기록과 타이’",
-            "2회초 1사 만루, 3-0→7-0이라는 확인된 변화",
-            "공식145m·트랙맨145.8m를 분리하고 2001년 우즈145m와 비교"
-          ]
-        }
-      },
-      "coverage": {
-        "queries": [
-          "site:theqoo.net \"배이\" \"충주\" \"2026.10.20\"",
-          "site:theqoo.net 여자아이돌 오늘 \"2026.10.20\" 자막 영상",
-          "football October 20 2026 Manchester City appeal Premier League official",
-          "KIA LG October 20 2026 Kim Do young grand slam postseason",
-          "Haaland team news October 20 2026 Manchester City",
-          "배이 충주시 성심학교 수어",
-          "site:theqoo.net 걸그룹 오늘 영상 반전",
-          "\"배이\" \"성심학교\" 충주시",
-          "\"김도영\" \"145\" \"2026.10.20\"",
-          "AI전략위원 KTX 매크로 조회만 20일",
-          "\"AI전략위원\" \"매크로\"",
-          "\"김도영\" \"145.8\"",
-          "\"부캉이\" \"3차\" \"21일\"",
-          "\"부캉이\" \"폰툰\"",
-          "Busan SIM chips sewer 101 arrested October 20 2026",
-          "BAE Chungju sign language school October 20 2026",
-          "\"연쇄방화\" \"동묘앞역\" \"70대\"",
-          "\"휴머노이드\" \"국감\" \"20일 오후\"",
-          "배이 충주시 성심학교 수어 10월 20일 2026",
-          "football October 20 2026 Manchester United Como training six absent official",
-          "카이스트 로봇 국감 20일 오후 황정아",
-          "코스피 5552.74 20일 마감",
-          "\"배이\" \"충주시\" 영상",
-          "\"Manchester United\" \"Como\" \"20 October 2026\"",
-          "여자아이돌 반응 자막 오늘",
-          "\"손흥민\" \"20일\" \"발표\"",
-          "\"KBO\" \"20일\" \"100g\" 경위서",
-          "\"황정아\" \"휴머노이드\" \"오전\"",
-          "\"100g 초과 실격\" \"경위서\"",
-          "oil prices October 20 2026 Hormuz two tankers mines 109.08",
-          "\"황정아\" \"로봇\" \"11시\"",
-          "정수진 경위서 다른 경기 우려",
-          "\"수능\" \"스마트안경\" \"20일\"",
-          "\"유진\" \"뮤비 청문회\"",
-          "\"100g\" \"쉬쉬\" \"경위서\"",
-          "\"20대\" \"절반\" \"연체\" \"20일\"",
-          "football team news injuries 20 October 2026",
-          "\"우리유진\" \"Looks Can Kill\"",
-          "\"[단독]\" \"100g\" \"경위서\""
-        ],
-        "opened_urls": [
-          "https://www.instagram.com/bythepulse/",
-          "https://www.youtube.com/watch?v=SL4MWaOw0TY",
-          "https://www.premierleague.com/en/news/4727779/premier-league-statement-manchester-city-fc",
-          "https://www.kado.net/news/articleView.html?idxno=2079306",
-          "https://www.starnewskorea.com/en/sports/2026/10/20/2026102018003923961",
-          "https://www.starnewskorea.com/sports/2026/10/20/2026102018003923961",
-          "https://en.fnnews.com/news/202610201933137045",
-          "https://www.fnnews.com/news/202610201933137045",
-          "https://image.fnnews.com/resource/media/image/2026/10/20/202610201931159465_l.jpg",
-          "https://www.yna.co.kr/amp/view/AKR20261020138500017",
-          "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261020.99099005818",
-          "https://www.busan.com/view/busan/view.php?code=2026102018170424150",
-          "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261021.22004005766",
-          "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806560",
-          "https://www.kado.net/news/articleView.html?idxno=2079304",
-          "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008806366&oaid=N1008806560&plink=TOP",
-          "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008806232&oaid=N1008806560&plink=TOP",
-          "https://img.sbs.co.kr/newimg/news/20261020/202233072_1280.jpg",
-          "https://www.manutd.com/en/news/training-update-from-carrington",
-          "https://www.newspim.com/news/view/20261020000964",
-          "https://www.donga.com/news/Economy/article/all/20261020/134875431/1",
-          "https://img.newspim.com/news/2026/10/20/261020155515459_w.jpg",
-          "https://theqoo.net/square/4381710309?page=2",
-          "https://gall.dcinside.com/mgallery/board/view/?id=ba_e&no=22789&page=1",
-          "https://gall.dcinside.com/mgallery/board/view/?id=ba_e&no=22795&page=1",
-          "https://www.tjb.co.kr/news06/category/view/id/105073",
-          "https://www.sportschosun.com/football/2026-10-20/202610200100124760008119",
-          "https://www.newspim.com/news/view/20261020001206",
-          "https://www.reuters.com/business/energy/oil-eases-markets-assess-potential-waiver-russian-energy-middle-east-supply-2026-10-20/",
-          "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833356",
-          "https://www.newspim.com/news/view/20261020000888",
-          "https://mobile.newsis.com/view/NISX20261015_0003827660",
-          "https://www.newspim.com/news/view/20261020001218",
-          "https://mobile.newsis.com/view/NISX20261019_0003830984",
-          "https://www.news1.kr/it-science/general-science/6325719",
-          "https://www.newspim.com/news/view/20261019000026",
-          "https://www.uefa.com/uefachampionsleague/news/02aa-21dd60778d8f-1ea14fd92256-1000--champions-league-predicted-line-ups-matchday-3-team-news-/",
-          "https://www.reuters.com/business/retail-consumer/bytedance-alibaba-tencent-place-over-35-billion-worth-nvidia-chip-orders-2026-10-20/",
-          "https://www.reuters.com/business/qualcomm-cut-jobs-worldwide-performance-focused-layoffs-internal-memo-shows-2026-10-20/",
-          "https://www.reuters.com/business/google-cloud-services-largely-back-up-uk-2026-10-20/"
-        ],
-        "unavailable": [
-          "https://www.youtube.com/watch?v=SL4MWaOw0TY : 공식18시 공개·설명은 재확인했으나 재생 시도 후에도0:00 검은 화면; 장면 미확인.",
-          "https://news.nate.com/view/20261020n33986 : 브라우저 upstream connection timeout, 사진·본문 확인 실패.",
-          "연합뉴스 직접 경로: 검색 도구가 robots.txt 비재시도 제한을 반환해 중단; 독립 공개 보도 원문으로 전환.",
-          "더쿠 직접 후보 페이지 일부는 검색 도구 접근 오류. 검색 요약을 시청·본문 증거로 세지 않음.",
-          "BTP 그리드는 로그인 안내가 일부를 가려 표지만 확인; 상세·정확한 게시 시각·Insights는 미확인.",
-          "연합뉴스 KTX 원송고16:47은18시 검토에서 읽은 자료를 재사용; 이번 재접근은robots제한. 현재본문 재확인은 독립 후속보도에서 수행.",
-          "맨체스터이브닝뉴스 본문은402 결제 제한·Yahoo 재배포 본문은도구 오류; 원 구단 공식 공지를 브라우저에서 직접 읽음.",
-          "CNBC 경로는robots.txt 비재시도 제한; 가격·불확실성은 Reuters 독립 취재 원문으로 교차 확인 중.",
-          "https://m.sports.naver.com/general/video/1549052 : 도구에서 본문·실제 영상 열기 실패; 발견 자료로만 유지.",
-          "아이브 MV 청문회 인용 경로·스마트안경 Naver 본문은 도구 접근 오류; 독립 원문을 찾지 못한 장면은 선정하지 않음.",
-          "BTP 공개 그리드12개를 대조했으나 상세·전체 슬라이드·정확한 게시 시각·Insights는 미확인. 논술 AI안경 표지와20일 수능 세부 검사절차는 별도 사실로 구분."
-        ]
-      }
-    },
-    {
-      "event_key": "kospi-close-5552-74-20261020",
-      "url": "https://www.newspim.com/news/view/20261020000964",
-      "title": "삼전·하이닉스도 못 버텼다…코스피 3.73% 급락, 6개월여 최저",
-      "category": "시사",
-      "status": "reviewed",
-      "recorded_at": 1792502758,
-      "pick": {
-        "title": "삼전·하이닉스도 못 버텼다…코스피 3.73% 급락, 6개월여 최저",
-        "category": "시사",
-        "url": "https://www.newspim.com/news/view/20261020000964",
-        "source": "뉴스핌·동아일보",
-        "kind": "article",
-        "event_key": "kospi-close-5552-74-20261020",
-        "why": "삼성전자·SK하이닉스 주주가 친구에게 오늘 자신의 계좌만이 아니라 시장 전체가 얼마나 내려갔는지 보여줄 수 있다.",
-        "angle": "확인한 마감 전광판의 5,552.74·-3.73%를 첫 장에 놓고 삼전·하이닉스 하락률과 코스닥 종가를 비교한다.",
-        "why_now": "20일15:30에 확정된 종가와15:58 마감 기사 본문을 확인했다. 장중5500 하회와 종가5552.74를 구분한다.",
-        "verified_at": 1792501785,
-        "published_at": 1792479480,
-        "evidence": [
-          {
-            "url": "https://www.newspim.com/news/view/20261020000964",
-            "note": "15:58 본문:코스피5552.74(-215.27·3.73%),코스닥781.97(-3.33%),삼성전자-2.98%·SK하이닉스-4.23%. 전광판 사진에서도 양 지수와 하락률을 실제 확인."
-          },
-          {
-            "url": "https://www.donga.com/news/Economy/article/all/20261020/134875431/1",
-            "note": "16:46 본문 교차 확인:종가 기준4월7일 이후6개월여 최저. 장중5500 하회와 마감5552.74를 별도 구분. 원인 설명은 기자·전문가의 해석이다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://img.newspim.com/news/2026/10/20/261020155515459_w.jpg",
-            "label": "20일 마감 전광판 사진",
-            "kind": "image"
-          }
-        ],
-        "caution": "원인·반등·투자 수익을 단정하지 않는다. 사진 속 환율과 본문 환율의 시점이 달라 환율 수치는 카드에서 제외한다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-20",
-          "observation": "20일 코스피는215.27포인트 하락한5552.74(-3.73%)로 마감해4월7일 이후 최저가 됐다. 실제 전광판 사진에서 코스피와 코스닥781.97(-3.33%)을 읽었고 대형 반도체주 하락도 본문으로 확인했다.",
-          "checked_materials": [
-            "https://img.newspim.com/news/2026/10/20/261020155515459_w.jpg"
-          ],
-          "outline": [
-            "실제 전광판 사진 + 코스피5552.74·-3.73%",
-            "삼성전자-2.98%·SK하이닉스-4.23%·코스닥-3.33% 비교",
-            "6개월여 최저 종가라는 범위와 장중·마감 수치 차이, 전망·매수 권유 없이 마무리"
-          ]
-        }
-      },
-      "coverage": {
-        "queries": [
-          "site:theqoo.net \"배이\" \"충주\" \"2026.10.20\"",
-          "site:theqoo.net 여자아이돌 오늘 \"2026.10.20\" 자막 영상",
-          "football October 20 2026 Manchester City appeal Premier League official",
-          "KIA LG October 20 2026 Kim Do young grand slam postseason",
-          "Haaland team news October 20 2026 Manchester City",
-          "배이 충주시 성심학교 수어",
-          "site:theqoo.net 걸그룹 오늘 영상 반전",
-          "\"배이\" \"성심학교\" 충주시",
-          "\"김도영\" \"145\" \"2026.10.20\"",
-          "AI전략위원 KTX 매크로 조회만 20일",
-          "\"AI전략위원\" \"매크로\"",
-          "\"김도영\" \"145.8\"",
-          "\"부캉이\" \"3차\" \"21일\"",
-          "\"부캉이\" \"폰툰\"",
-          "Busan SIM chips sewer 101 arrested October 20 2026",
-          "BAE Chungju sign language school October 20 2026",
-          "\"연쇄방화\" \"동묘앞역\" \"70대\"",
-          "\"휴머노이드\" \"국감\" \"20일 오후\"",
-          "배이 충주시 성심학교 수어 10월 20일 2026",
-          "football October 20 2026 Manchester United Como training six absent official",
-          "카이스트 로봇 국감 20일 오후 황정아",
-          "코스피 5552.74 20일 마감",
-          "\"배이\" \"충주시\" 영상",
-          "\"Manchester United\" \"Como\" \"20 October 2026\"",
-          "여자아이돌 반응 자막 오늘",
-          "\"손흥민\" \"20일\" \"발표\"",
-          "\"KBO\" \"20일\" \"100g\" 경위서",
-          "\"황정아\" \"휴머노이드\" \"오전\"",
-          "\"100g 초과 실격\" \"경위서\"",
-          "oil prices October 20 2026 Hormuz two tankers mines 109.08",
-          "\"황정아\" \"로봇\" \"11시\"",
-          "정수진 경위서 다른 경기 우려",
-          "\"수능\" \"스마트안경\" \"20일\"",
-          "\"유진\" \"뮤비 청문회\"",
-          "\"100g\" \"쉬쉬\" \"경위서\"",
-          "\"20대\" \"절반\" \"연체\" \"20일\"",
-          "football team news injuries 20 October 2026",
-          "\"우리유진\" \"Looks Can Kill\"",
-          "\"[단독]\" \"100g\" \"경위서\""
-        ],
-        "opened_urls": [
-          "https://www.instagram.com/bythepulse/",
-          "https://www.youtube.com/watch?v=SL4MWaOw0TY",
-          "https://www.premierleague.com/en/news/4727779/premier-league-statement-manchester-city-fc",
-          "https://www.kado.net/news/articleView.html?idxno=2079306",
-          "https://www.starnewskorea.com/en/sports/2026/10/20/2026102018003923961",
-          "https://www.starnewskorea.com/sports/2026/10/20/2026102018003923961",
-          "https://en.fnnews.com/news/202610201933137045",
-          "https://www.fnnews.com/news/202610201933137045",
-          "https://image.fnnews.com/resource/media/image/2026/10/20/202610201931159465_l.jpg",
-          "https://www.yna.co.kr/amp/view/AKR20261020138500017",
-          "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261020.99099005818",
-          "https://www.busan.com/view/busan/view.php?code=2026102018170424150",
-          "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261021.22004005766",
-          "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806560",
-          "https://www.kado.net/news/articleView.html?idxno=2079304",
-          "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008806366&oaid=N1008806560&plink=TOP",
-          "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008806232&oaid=N1008806560&plink=TOP",
-          "https://img.sbs.co.kr/newimg/news/20261020/202233072_1280.jpg",
-          "https://www.manutd.com/en/news/training-update-from-carrington",
-          "https://www.newspim.com/news/view/20261020000964",
-          "https://www.donga.com/news/Economy/article/all/20261020/134875431/1",
-          "https://img.newspim.com/news/2026/10/20/261020155515459_w.jpg",
-          "https://theqoo.net/square/4381710309?page=2",
-          "https://gall.dcinside.com/mgallery/board/view/?id=ba_e&no=22789&page=1",
-          "https://gall.dcinside.com/mgallery/board/view/?id=ba_e&no=22795&page=1",
-          "https://www.tjb.co.kr/news06/category/view/id/105073",
-          "https://www.sportschosun.com/football/2026-10-20/202610200100124760008119",
-          "https://www.newspim.com/news/view/20261020001206",
-          "https://www.reuters.com/business/energy/oil-eases-markets-assess-potential-waiver-russian-energy-middle-east-supply-2026-10-20/",
-          "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833356",
-          "https://www.newspim.com/news/view/20261020000888",
-          "https://mobile.newsis.com/view/NISX20261015_0003827660",
-          "https://www.newspim.com/news/view/20261020001218",
-          "https://mobile.newsis.com/view/NISX20261019_0003830984",
-          "https://www.news1.kr/it-science/general-science/6325719",
-          "https://www.newspim.com/news/view/20261019000026",
-          "https://www.uefa.com/uefachampionsleague/news/02aa-21dd60778d8f-1ea14fd92256-1000--champions-league-predicted-line-ups-matchday-3-team-news-/",
-          "https://www.reuters.com/business/retail-consumer/bytedance-alibaba-tencent-place-over-35-billion-worth-nvidia-chip-orders-2026-10-20/",
-          "https://www.reuters.com/business/qualcomm-cut-jobs-worldwide-performance-focused-layoffs-internal-memo-shows-2026-10-20/",
-          "https://www.reuters.com/business/google-cloud-services-largely-back-up-uk-2026-10-20/"
-        ],
-        "unavailable": [
-          "https://www.youtube.com/watch?v=SL4MWaOw0TY : 공식18시 공개·설명은 재확인했으나 재생 시도 후에도0:00 검은 화면; 장면 미확인.",
-          "https://news.nate.com/view/20261020n33986 : 브라우저 upstream connection timeout, 사진·본문 확인 실패.",
-          "연합뉴스 직접 경로: 검색 도구가 robots.txt 비재시도 제한을 반환해 중단; 독립 공개 보도 원문으로 전환.",
-          "더쿠 직접 후보 페이지 일부는 검색 도구 접근 오류. 검색 요약을 시청·본문 증거로 세지 않음.",
-          "BTP 그리드는 로그인 안내가 일부를 가려 표지만 확인; 상세·정확한 게시 시각·Insights는 미확인.",
-          "연합뉴스 KTX 원송고16:47은18시 검토에서 읽은 자료를 재사용; 이번 재접근은robots제한. 현재본문 재확인은 독립 후속보도에서 수행.",
-          "맨체스터이브닝뉴스 본문은402 결제 제한·Yahoo 재배포 본문은도구 오류; 원 구단 공식 공지를 브라우저에서 직접 읽음.",
-          "CNBC 경로는robots.txt 비재시도 제한; 가격·불확실성은 Reuters 독립 취재 원문으로 교차 확인 중.",
-          "https://m.sports.naver.com/general/video/1549052 : 도구에서 본문·실제 영상 열기 실패; 발견 자료로만 유지.",
-          "아이브 MV 청문회 인용 경로·스마트안경 Naver 본문은 도구 접근 오류; 독립 원문을 찾지 못한 장면은 선정하지 않음.",
-          "BTP 공개 그리드12개를 대조했으나 상세·전체 슬라이드·정확한 게시 시각·Insights는 미확인. 논술 AI안경 표지와20일 수능 세부 검사절차는 별도 사실로 구분."
-        ]
-      }
-    },
-    {
-      "event_key": "yeoksam-two-office-arson-suspect-arrest-dongmyo-20261020",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806560",
-      "title": "200m 떨어진 두 사무실서 7분 간격 화재…도주한 용의자 검거",
-      "category": "시사",
-      "status": "reviewed",
-      "recorded_at": 1792502758,
-      "pick": {
-        "title": "200m 떨어진 두 사무실서 7분 간격 화재…도주한 용의자 검거",
-        "category": "시사",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806560",
-        "source": "SBS·강원도민일보",
-        "kind": "article",
-        "event_key": "yeoksam-two-office-arson-suspect-arrest-dongmyo-20261020",
-        "why": "강남 직장인과 서울 대중교통 이용자가 연쇄방화 혐의 용의자가 잡혔다는 사실과 미확인 동기 소문을 구별해 전달할 수 있다.",
-        "angle": "피해자 사진 대신 두 건물의 신고 시각과200m 간격을 첫 장에 놓고16:16 용의자 검거까지 확인된 동선만 정리한다.",
-        "why_now": "20일16:16 동묘앞역 인근에서70대 용의자를 검거했다는 새 사실이16:37 보도로 확인됐다. 부상자 수 갱신을 별도 사건으로 만든 것이 아니다.",
-        "verified_at": 1792502653,
-        "published_at": 1792481820,
-        "evidence": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806560",
-            "note": "16:37 작성 본문:11:54·12:01 약200m 거리 두 건물 화재,16:16 동묘앞역 인근 용의자 검거. 동기·두 화재의 관계는 수사 예정."
-          },
-          {
-            "url": "https://www.kado.net/news/articleView.html?idxno=2079304",
-            "note": "두 곳 모두 특허법인 사무실이었다는 본문과 검거 시각을 교차 확인. 같은 회사인지·구체적인 분쟁 동기는 확정하지 않는다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806560",
-            "label": "용의자 검거 확인 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "혐의·수사 단계다. 같은 특허법인이라고 단정하거나 소송 보복 등 미확인 동기·유죄·피해자 신원을 덧붙이지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-20",
-          "observation": "서울 역삼동 두 건물에서7분 간격으로 발생한 화재의 방화 혐의를 받는70대가16:16 동묘앞역 인근에서 체포됐다. 경찰은 범행 동기와 두 화재 연관성을 조사할 예정이다.",
-          "checked_materials": [],
-          "outline": [
-            "신명빌딩11:54→약200m→한양빌딩12:01이라는 확인된 사실",
-            "16:16 동묘앞역 인근 용의자 체포와 지하철 도주 보도를 구분해 정리",
-            "동기·두 화재 관계는 조사 중이며 혐의가 유죄 확정을 뜻하지 않는다고 명시"
-          ]
-        }
-      },
-      "coverage": {
-        "queries": [
-          "site:theqoo.net \"배이\" \"충주\" \"2026.10.20\"",
-          "site:theqoo.net 여자아이돌 오늘 \"2026.10.20\" 자막 영상",
-          "football October 20 2026 Manchester City appeal Premier League official",
-          "KIA LG October 20 2026 Kim Do young grand slam postseason",
-          "Haaland team news October 20 2026 Manchester City",
-          "배이 충주시 성심학교 수어",
-          "site:theqoo.net 걸그룹 오늘 영상 반전",
-          "\"배이\" \"성심학교\" 충주시",
-          "\"김도영\" \"145\" \"2026.10.20\"",
-          "AI전략위원 KTX 매크로 조회만 20일",
-          "\"AI전략위원\" \"매크로\"",
-          "\"김도영\" \"145.8\"",
-          "\"부캉이\" \"3차\" \"21일\"",
-          "\"부캉이\" \"폰툰\"",
-          "Busan SIM chips sewer 101 arrested October 20 2026",
-          "BAE Chungju sign language school October 20 2026",
-          "\"연쇄방화\" \"동묘앞역\" \"70대\"",
-          "\"휴머노이드\" \"국감\" \"20일 오후\"",
-          "배이 충주시 성심학교 수어 10월 20일 2026",
-          "football October 20 2026 Manchester United Como training six absent official",
-          "카이스트 로봇 국감 20일 오후 황정아",
-          "코스피 5552.74 20일 마감",
-          "\"배이\" \"충주시\" 영상",
-          "\"Manchester United\" \"Como\" \"20 October 2026\"",
-          "여자아이돌 반응 자막 오늘",
-          "\"손흥민\" \"20일\" \"발표\"",
-          "\"KBO\" \"20일\" \"100g\" 경위서",
-          "\"황정아\" \"휴머노이드\" \"오전\"",
-          "\"100g 초과 실격\" \"경위서\"",
-          "oil prices October 20 2026 Hormuz two tankers mines 109.08",
-          "\"황정아\" \"로봇\" \"11시\"",
-          "정수진 경위서 다른 경기 우려",
-          "\"수능\" \"스마트안경\" \"20일\"",
-          "\"유진\" \"뮤비 청문회\"",
-          "\"100g\" \"쉬쉬\" \"경위서\"",
-          "\"20대\" \"절반\" \"연체\" \"20일\"",
-          "football team news injuries 20 October 2026",
-          "\"우리유진\" \"Looks Can Kill\"",
-          "\"[단독]\" \"100g\" \"경위서\""
-        ],
-        "opened_urls": [
-          "https://www.instagram.com/bythepulse/",
-          "https://www.youtube.com/watch?v=SL4MWaOw0TY",
-          "https://www.premierleague.com/en/news/4727779/premier-league-statement-manchester-city-fc",
-          "https://www.kado.net/news/articleView.html?idxno=2079306",
-          "https://www.starnewskorea.com/en/sports/2026/10/20/2026102018003923961",
-          "https://www.starnewskorea.com/sports/2026/10/20/2026102018003923961",
-          "https://en.fnnews.com/news/202610201933137045",
-          "https://www.fnnews.com/news/202610201933137045",
-          "https://image.fnnews.com/resource/media/image/2026/10/20/202610201931159465_l.jpg",
-          "https://www.yna.co.kr/amp/view/AKR20261020138500017",
-          "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261020.99099005818",
-          "https://www.busan.com/view/busan/view.php?code=2026102018170424150",
-          "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261021.22004005766",
-          "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806560",
-          "https://www.kado.net/news/articleView.html?idxno=2079304",
-          "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008806366&oaid=N1008806560&plink=TOP",
-          "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008806232&oaid=N1008806560&plink=TOP",
-          "https://img.sbs.co.kr/newimg/news/20261020/202233072_1280.jpg",
-          "https://www.manutd.com/en/news/training-update-from-carrington",
-          "https://www.newspim.com/news/view/20261020000964",
-          "https://www.donga.com/news/Economy/article/all/20261020/134875431/1",
-          "https://img.newspim.com/news/2026/10/20/261020155515459_w.jpg",
-          "https://theqoo.net/square/4381710309?page=2",
-          "https://gall.dcinside.com/mgallery/board/view/?id=ba_e&no=22789&page=1",
-          "https://gall.dcinside.com/mgallery/board/view/?id=ba_e&no=22795&page=1",
-          "https://www.tjb.co.kr/news06/category/view/id/105073",
-          "https://www.sportschosun.com/football/2026-10-20/202610200100124760008119",
-          "https://www.newspim.com/news/view/20261020001206",
-          "https://www.reuters.com/business/energy/oil-eases-markets-assess-potential-waiver-russian-energy-middle-east-supply-2026-10-20/",
-          "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833356",
-          "https://www.newspim.com/news/view/20261020000888",
-          "https://mobile.newsis.com/view/NISX20261015_0003827660",
-          "https://www.newspim.com/news/view/20261020001218",
-          "https://mobile.newsis.com/view/NISX20261019_0003830984",
-          "https://www.news1.kr/it-science/general-science/6325719",
-          "https://www.newspim.com/news/view/20261019000026",
-          "https://www.uefa.com/uefachampionsleague/news/02aa-21dd60778d8f-1ea14fd92256-1000--champions-league-predicted-line-ups-matchday-3-team-news-/",
-          "https://www.reuters.com/business/retail-consumer/bytedance-alibaba-tencent-place-over-35-billion-worth-nvidia-chip-orders-2026-10-20/",
-          "https://www.reuters.com/business/qualcomm-cut-jobs-worldwide-performance-focused-layoffs-internal-memo-shows-2026-10-20/",
-          "https://www.reuters.com/business/google-cloud-services-largely-back-up-uk-2026-10-20/"
-        ],
-        "unavailable": [
-          "https://www.youtube.com/watch?v=SL4MWaOw0TY : 공식18시 공개·설명은 재확인했으나 재생 시도 후에도0:00 검은 화면; 장면 미확인.",
-          "https://news.nate.com/view/20261020n33986 : 브라우저 upstream connection timeout, 사진·본문 확인 실패.",
-          "연합뉴스 직접 경로: 검색 도구가 robots.txt 비재시도 제한을 반환해 중단; 독립 공개 보도 원문으로 전환.",
-          "더쿠 직접 후보 페이지 일부는 검색 도구 접근 오류. 검색 요약을 시청·본문 증거로 세지 않음.",
-          "BTP 그리드는 로그인 안내가 일부를 가려 표지만 확인; 상세·정확한 게시 시각·Insights는 미확인.",
-          "연합뉴스 KTX 원송고16:47은18시 검토에서 읽은 자료를 재사용; 이번 재접근은robots제한. 현재본문 재확인은 독립 후속보도에서 수행.",
-          "맨체스터이브닝뉴스 본문은402 결제 제한·Yahoo 재배포 본문은도구 오류; 원 구단 공식 공지를 브라우저에서 직접 읽음.",
-          "CNBC 경로는robots.txt 비재시도 제한; 가격·불확실성은 Reuters 독립 취재 원문으로 교차 확인 중.",
-          "https://m.sports.naver.com/general/video/1549052 : 도구에서 본문·실제 영상 열기 실패; 발견 자료로만 유지.",
-          "아이브 MV 청문회 인용 경로·스마트안경 Naver 본문은 도구 접근 오류; 독립 원문을 찾지 못한 장면은 선정하지 않음.",
-          "BTP 공개 그리드12개를 대조했으나 상세·전체 슬라이드·정확한 게시 시각·Insights는 미확인. 논술 AI안경 표지와20일 수능 세부 검사절차는 별도 사실로 구분."
-        ]
-      }
-    },
-    {
-      "event_key": "man-utd-eight-absent-training-before-como-20261020",
-      "url": "https://www.manutd.com/en/news/training-update-from-carrington",
-      "title": "코모 원정 앞둔 맨유, 훈련장에 8명 없었다…요로는 별도 징계",
-      "category": "축구",
-      "status": "reviewed",
-      "recorded_at": 1792502758,
-      "pick": {
-        "title": "코모 원정 앞둔 맨유, 훈련장에 8명 없었다…요로는 별도 징계",
-        "category": "축구",
-        "url": "https://www.manutd.com/en/news/training-update-from-carrington",
-        "source": "맨체스터 유나이티드 공식",
-        "kind": "official",
-        "event_key": "man-utd-eight-absent-training-before-como-20261020",
-        "why": "맨유 팬이 친구에게 코모전에서 수비·공격 선택지가 왜 좁아졌는지 공식 명단으로 설명할 수 있다.",
-        "angle": "구단이 밝힌 훈련 불참 8명과 별도 유럽대항전 징계 중인 요로를 나눠 놓고 ‘전원 결장 확정’과 구분한다.",
-        "why_now": "20일 영국 오전 공개 훈련 뒤 구단이 올린 새 공지를 직접 읽었다. 화면은 확인 시점 ‘3시간 전’이며 이전 리즈전 결과를 새 사건으로 바꾼 것이 아니다.",
-        "verified_at": 1792501785,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.manutd.com/en/news/training-update-from-carrington",
-            "note": "공식 본문 직접 확인: 헤븐·쇼·마르티네스·마이누·래시퍼드·셰슈코가 없었고 도르구·우가르테도 이탈 중. 요로는 유럽대항전 1경기 징계. 코모전 전원 결장은 확정하지 않았다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.manutd.com/en/news/training-update-from-carrington",
-            "label": "20일 공식 훈련 업데이트",
-            "kind": "source"
-          }
-        ],
-        "caution": "훈련 불참과 원정 제외·경기 결장을 동일시하지 않는다. 영상은 시청하지 않았고 회견은 영국18:30 예정으로 아직 확인 전이다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-20",
-          "observation": "구단은 코모전 전날 20일 공개 훈련에서 6명의 부재와 도르구·우가르테의 이탈을 알렸다. 수비수 요로는 별도로 유럽대항전 1경기 징계이며 유소년 아머·카마손이 훈련에 합류했다.",
-          "checked_materials": [],
-          "outline": [
-            "구단 발표에 근거한 ‘훈련 불참8명’과 ‘요로 징계’를 분리한 명단 카드",
-            "부상·질병·장기 이탈 등 본문에서 확인되는 사유만 구분",
-            "아머·카마손 합류와 코모전 일정, 경기 결장 전원 확정은 아니라는 주의"
-          ]
-        }
-      },
-      "coverage": {
-        "queries": [
-          "site:theqoo.net \"배이\" \"충주\" \"2026.10.20\"",
-          "site:theqoo.net 여자아이돌 오늘 \"2026.10.20\" 자막 영상",
-          "football October 20 2026 Manchester City appeal Premier League official",
-          "KIA LG October 20 2026 Kim Do young grand slam postseason",
-          "Haaland team news October 20 2026 Manchester City",
-          "배이 충주시 성심학교 수어",
-          "site:theqoo.net 걸그룹 오늘 영상 반전",
-          "\"배이\" \"성심학교\" 충주시",
-          "\"김도영\" \"145\" \"2026.10.20\"",
-          "AI전략위원 KTX 매크로 조회만 20일",
-          "\"AI전략위원\" \"매크로\"",
-          "\"김도영\" \"145.8\"",
-          "\"부캉이\" \"3차\" \"21일\"",
-          "\"부캉이\" \"폰툰\"",
-          "Busan SIM chips sewer 101 arrested October 20 2026",
-          "BAE Chungju sign language school October 20 2026",
-          "\"연쇄방화\" \"동묘앞역\" \"70대\"",
-          "\"휴머노이드\" \"국감\" \"20일 오후\"",
-          "배이 충주시 성심학교 수어 10월 20일 2026",
-          "football October 20 2026 Manchester United Como training six absent official",
-          "카이스트 로봇 국감 20일 오후 황정아",
-          "코스피 5552.74 20일 마감",
-          "\"배이\" \"충주시\" 영상",
-          "\"Manchester United\" \"Como\" \"20 October 2026\"",
-          "여자아이돌 반응 자막 오늘",
-          "\"손흥민\" \"20일\" \"발표\"",
-          "\"KBO\" \"20일\" \"100g\" 경위서",
-          "\"황정아\" \"휴머노이드\" \"오전\"",
-          "\"100g 초과 실격\" \"경위서\"",
-          "oil prices October 20 2026 Hormuz two tankers mines 109.08",
-          "\"황정아\" \"로봇\" \"11시\"",
-          "정수진 경위서 다른 경기 우려",
-          "\"수능\" \"스마트안경\" \"20일\"",
-          "\"유진\" \"뮤비 청문회\"",
-          "\"100g\" \"쉬쉬\" \"경위서\"",
-          "\"20대\" \"절반\" \"연체\" \"20일\"",
-          "football team news injuries 20 October 2026",
-          "\"우리유진\" \"Looks Can Kill\"",
-          "\"[단독]\" \"100g\" \"경위서\""
-        ],
-        "opened_urls": [
-          "https://www.instagram.com/bythepulse/",
-          "https://www.youtube.com/watch?v=SL4MWaOw0TY",
-          "https://www.premierleague.com/en/news/4727779/premier-league-statement-manchester-city-fc",
-          "https://www.kado.net/news/articleView.html?idxno=2079306",
-          "https://www.starnewskorea.com/en/sports/2026/10/20/2026102018003923961",
-          "https://www.starnewskorea.com/sports/2026/10/20/2026102018003923961",
-          "https://en.fnnews.com/news/202610201933137045",
-          "https://www.fnnews.com/news/202610201933137045",
-          "https://image.fnnews.com/resource/media/image/2026/10/20/202610201931159465_l.jpg",
-          "https://www.yna.co.kr/amp/view/AKR20261020138500017",
-          "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261020.99099005818",
-          "https://www.busan.com/view/busan/view.php?code=2026102018170424150",
-          "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261021.22004005766",
-          "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806560",
-          "https://www.kado.net/news/articleView.html?idxno=2079304",
-          "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008806366&oaid=N1008806560&plink=TOP",
-          "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008806232&oaid=N1008806560&plink=TOP",
-          "https://img.sbs.co.kr/newimg/news/20261020/202233072_1280.jpg",
-          "https://www.manutd.com/en/news/training-update-from-carrington",
-          "https://www.newspim.com/news/view/20261020000964",
-          "https://www.donga.com/news/Economy/article/all/20261020/134875431/1",
-          "https://img.newspim.com/news/2026/10/20/261020155515459_w.jpg",
-          "https://theqoo.net/square/4381710309?page=2",
-          "https://gall.dcinside.com/mgallery/board/view/?id=ba_e&no=22789&page=1",
-          "https://gall.dcinside.com/mgallery/board/view/?id=ba_e&no=22795&page=1",
-          "https://www.tjb.co.kr/news06/category/view/id/105073",
-          "https://www.sportschosun.com/football/2026-10-20/202610200100124760008119",
-          "https://www.newspim.com/news/view/20261020001206",
-          "https://www.reuters.com/business/energy/oil-eases-markets-assess-potential-waiver-russian-energy-middle-east-supply-2026-10-20/",
-          "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833356",
-          "https://www.newspim.com/news/view/20261020000888",
-          "https://mobile.newsis.com/view/NISX20261015_0003827660",
-          "https://www.newspim.com/news/view/20261020001218",
-          "https://mobile.newsis.com/view/NISX20261019_0003830984",
-          "https://www.news1.kr/it-science/general-science/6325719",
-          "https://www.newspim.com/news/view/20261019000026",
-          "https://www.uefa.com/uefachampionsleague/news/02aa-21dd60778d8f-1ea14fd92256-1000--champions-league-predicted-line-ups-matchday-3-team-news-/",
-          "https://www.reuters.com/business/retail-consumer/bytedance-alibaba-tencent-place-over-35-billion-worth-nvidia-chip-orders-2026-10-20/",
-          "https://www.reuters.com/business/qualcomm-cut-jobs-worldwide-performance-focused-layoffs-internal-memo-shows-2026-10-20/",
-          "https://www.reuters.com/business/google-cloud-services-largely-back-up-uk-2026-10-20/"
-        ],
-        "unavailable": [
-          "https://www.youtube.com/watch?v=SL4MWaOw0TY : 공식18시 공개·설명은 재확인했으나 재생 시도 후에도0:00 검은 화면; 장면 미확인.",
-          "https://news.nate.com/view/20261020n33986 : 브라우저 upstream connection timeout, 사진·본문 확인 실패.",
-          "연합뉴스 직접 경로: 검색 도구가 robots.txt 비재시도 제한을 반환해 중단; 독립 공개 보도 원문으로 전환.",
-          "더쿠 직접 후보 페이지 일부는 검색 도구 접근 오류. 검색 요약을 시청·본문 증거로 세지 않음.",
-          "BTP 그리드는 로그인 안내가 일부를 가려 표지만 확인; 상세·정확한 게시 시각·Insights는 미확인.",
-          "연합뉴스 KTX 원송고16:47은18시 검토에서 읽은 자료를 재사용; 이번 재접근은robots제한. 현재본문 재확인은 독립 후속보도에서 수행.",
-          "맨체스터이브닝뉴스 본문은402 결제 제한·Yahoo 재배포 본문은도구 오류; 원 구단 공식 공지를 브라우저에서 직접 읽음.",
-          "CNBC 경로는robots.txt 비재시도 제한; 가격·불확실성은 Reuters 독립 취재 원문으로 교차 확인 중.",
-          "https://m.sports.naver.com/general/video/1549052 : 도구에서 본문·실제 영상 열기 실패; 발견 자료로만 유지.",
-          "아이브 MV 청문회 인용 경로·스마트안경 Naver 본문은 도구 접근 오류; 독립 원문을 찾지 못한 장면은 선정하지 않음.",
-          "BTP 공개 그리드12개를 대조했으나 상세·전체 슬라이드·정확한 게시 시각·Insights는 미확인. 논술 AI안경 표지와20일 수능 세부 검사절차는 별도 사실로 구분."
-        ]
-      }
-    },
-    {
-      "event_key": "wti-november-contract-110-intraday-surge-20261020",
-      "url": "https://www.newspim.com/news/view/20261020001206",
-      "title": "WTI 장중 110달러…5% 급등한 유가, 만기 계약은 따로 봐야",
-      "category": "시사",
-      "status": "reviewed",
-      "recorded_at": 1792502758,
-      "pick": {
-        "title": "WTI 장중 110달러…5% 급등한 유가, 만기 계약은 따로 봐야",
-        "category": "시사",
-        "url": "https://www.newspim.com/news/view/20261020001206",
-        "source": "뉴스핌·Reuters",
-        "kind": "article",
-        "event_key": "wti-november-contract-110-intraday-surge-20261020",
-        "why": "운전자·자영업자가 친구에게 오늘 급등한 원유 가격과 주유소 가격이 같은 비율로 즉시 뛰는 것은 아니라는 차이를 전달할 수 있다.",
-        "angle": "WTI11월물109.08달러·약5.2% 상승과 ‘현지20일 만기’를 같이 놓고 브렌트12월물과 구분한다.",
-        "why_now": "20일20:23 국내 보도의 새 장중 가격을 Reuters 본문의 같은 수치와 대조했다.18~19일 선박 공격이 오늘 처음 난 것처럼 쓰지 않는다.",
-        "verified_at": 1792501881,
-        "published_at": 1792495380,
-        "evidence": [
-          {
-            "url": "https://www.newspim.com/news/view/20261020001206",
-            "note": "20:23 본문:미 동부7:04 WTI11월물109.08달러(+5.23%),당일 만기. 이란의 선박 피격 주장은 별개이며 피해 규모는 미확인."
-          },
-          {
-            "url": "https://www.reuters.com/business/energy/oil-eases-markets-assess-potential-waiver-russian-energy-middle-east-supply-2026-10-20/",
-            "note": "Reuters 본문:WTI11월물 장중110·최근109.08(+5.2%),브렌트12월물은1120GMT(20:20KST)111.20(+1.5%). 새 장중 가격을 확인했으며 기사 최초00:58UTC와 구분했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/business/energy/oil-eases-markets-assess-potential-waiver-russian-energy-middle-east-supply-2026-10-20/",
-            "label": "만기·계약월 구분 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "주유소 가격5% 인상·공급 중단을 확정하지 않는다. 미검증 공격 주장을 사실로 쓰지 않고 만기 앞둔11월물과12월물을 혼용하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-20",
-          "observation": "20일 보도된 새 장중 가격에서 WTI11월물은109.08달러로 약5.2% 올랐고 장중110까지 상승했다. 현지20일 만기 계약이며 브렌트12월물111.20달러(+1.5%)와 다르다.",
-          "checked_materials": [],
-          "outline": [
-            "WTI11월물109.08달러·약5.2% 상승 + ‘현지20일 만기’ 표시",
-            "브렌트12월물111.20달러·1.5% 상승과 계약월·인용 시각을 구분",
-            "선물 계약월·만기와 국내 주유소 가격을 구분하고 공격·공급 차질의 불확실성 명시"
-          ]
-        }
-      },
-      "coverage": {
-        "queries": [
-          "site:theqoo.net \"배이\" \"충주\" \"2026.10.20\"",
-          "site:theqoo.net 여자아이돌 오늘 \"2026.10.20\" 자막 영상",
-          "football October 20 2026 Manchester City appeal Premier League official",
-          "KIA LG October 20 2026 Kim Do young grand slam postseason",
-          "Haaland team news October 20 2026 Manchester City",
-          "배이 충주시 성심학교 수어",
-          "site:theqoo.net 걸그룹 오늘 영상 반전",
-          "\"배이\" \"성심학교\" 충주시",
-          "\"김도영\" \"145\" \"2026.10.20\"",
-          "AI전략위원 KTX 매크로 조회만 20일",
-          "\"AI전략위원\" \"매크로\"",
-          "\"김도영\" \"145.8\"",
-          "\"부캉이\" \"3차\" \"21일\"",
-          "\"부캉이\" \"폰툰\"",
-          "Busan SIM chips sewer 101 arrested October 20 2026",
-          "BAE Chungju sign language school October 20 2026",
-          "\"연쇄방화\" \"동묘앞역\" \"70대\"",
-          "\"휴머노이드\" \"국감\" \"20일 오후\"",
-          "배이 충주시 성심학교 수어 10월 20일 2026",
-          "football October 20 2026 Manchester United Como training six absent official",
-          "카이스트 로봇 국감 20일 오후 황정아",
-          "코스피 5552.74 20일 마감",
-          "\"배이\" \"충주시\" 영상",
-          "\"Manchester United\" \"Como\" \"20 October 2026\"",
-          "여자아이돌 반응 자막 오늘",
-          "\"손흥민\" \"20일\" \"발표\"",
-          "\"KBO\" \"20일\" \"100g\" 경위서",
-          "\"황정아\" \"휴머노이드\" \"오전\"",
-          "\"100g 초과 실격\" \"경위서\"",
-          "oil prices October 20 2026 Hormuz two tankers mines 109.08",
-          "\"황정아\" \"로봇\" \"11시\"",
-          "정수진 경위서 다른 경기 우려",
-          "\"수능\" \"스마트안경\" \"20일\"",
-          "\"유진\" \"뮤비 청문회\"",
-          "\"100g\" \"쉬쉬\" \"경위서\"",
-          "\"20대\" \"절반\" \"연체\" \"20일\"",
-          "football team news injuries 20 October 2026",
-          "\"우리유진\" \"Looks Can Kill\"",
-          "\"[단독]\" \"100g\" \"경위서\""
-        ],
-        "opened_urls": [
-          "https://www.instagram.com/bythepulse/",
-          "https://www.youtube.com/watch?v=SL4MWaOw0TY",
-          "https://www.premierleague.com/en/news/4727779/premier-league-statement-manchester-city-fc",
-          "https://www.kado.net/news/articleView.html?idxno=2079306",
-          "https://www.starnewskorea.com/en/sports/2026/10/20/2026102018003923961",
-          "https://www.starnewskorea.com/sports/2026/10/20/2026102018003923961",
-          "https://en.fnnews.com/news/202610201933137045",
-          "https://www.fnnews.com/news/202610201933137045",
-          "https://image.fnnews.com/resource/media/image/2026/10/20/202610201931159465_l.jpg",
-          "https://www.yna.co.kr/amp/view/AKR20261020138500017",
-          "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261020.99099005818",
-          "https://www.busan.com/view/busan/view.php?code=2026102018170424150",
-          "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261021.22004005766",
-          "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806560",
-          "https://www.kado.net/news/articleView.html?idxno=2079304",
-          "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008806366&oaid=N1008806560&plink=TOP",
-          "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008806232&oaid=N1008806560&plink=TOP",
-          "https://img.sbs.co.kr/newimg/news/20261020/202233072_1280.jpg",
-          "https://www.manutd.com/en/news/training-update-from-carrington",
-          "https://www.newspim.com/news/view/20261020000964",
-          "https://www.donga.com/news/Economy/article/all/20261020/134875431/1",
-          "https://img.newspim.com/news/2026/10/20/261020155515459_w.jpg",
-          "https://theqoo.net/square/4381710309?page=2",
-          "https://gall.dcinside.com/mgallery/board/view/?id=ba_e&no=22789&page=1",
-          "https://gall.dcinside.com/mgallery/board/view/?id=ba_e&no=22795&page=1",
-          "https://www.tjb.co.kr/news06/category/view/id/105073",
-          "https://www.sportschosun.com/football/2026-10-20/202610200100124760008119",
-          "https://www.newspim.com/news/view/20261020001206",
-          "https://www.reuters.com/business/energy/oil-eases-markets-assess-potential-waiver-russian-energy-middle-east-supply-2026-10-20/",
-          "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833356",
-          "https://www.newspim.com/news/view/20261020000888",
-          "https://mobile.newsis.com/view/NISX20261015_0003827660",
-          "https://www.newspim.com/news/view/20261020001218",
-          "https://mobile.newsis.com/view/NISX20261019_0003830984",
-          "https://www.news1.kr/it-science/general-science/6325719",
-          "https://www.newspim.com/news/view/20261019000026",
-          "https://www.uefa.com/uefachampionsleague/news/02aa-21dd60778d8f-1ea14fd92256-1000--champions-league-predicted-line-ups-matchday-3-team-news-/",
-          "https://www.reuters.com/business/retail-consumer/bytedance-alibaba-tencent-place-over-35-billion-worth-nvidia-chip-orders-2026-10-20/",
-          "https://www.reuters.com/business/qualcomm-cut-jobs-worldwide-performance-focused-layoffs-internal-memo-shows-2026-10-20/",
-          "https://www.reuters.com/business/google-cloud-services-largely-back-up-uk-2026-10-20/"
-        ],
-        "unavailable": [
-          "https://www.youtube.com/watch?v=SL4MWaOw0TY : 공식18시 공개·설명은 재확인했으나 재생 시도 후에도0:00 검은 화면; 장면 미확인.",
-          "https://news.nate.com/view/20261020n33986 : 브라우저 upstream connection timeout, 사진·본문 확인 실패.",
-          "연합뉴스 직접 경로: 검색 도구가 robots.txt 비재시도 제한을 반환해 중단; 독립 공개 보도 원문으로 전환.",
-          "더쿠 직접 후보 페이지 일부는 검색 도구 접근 오류. 검색 요약을 시청·본문 증거로 세지 않음.",
-          "BTP 그리드는 로그인 안내가 일부를 가려 표지만 확인; 상세·정확한 게시 시각·Insights는 미확인.",
-          "연합뉴스 KTX 원송고16:47은18시 검토에서 읽은 자료를 재사용; 이번 재접근은robots제한. 현재본문 재확인은 독립 후속보도에서 수행.",
-          "맨체스터이브닝뉴스 본문은402 결제 제한·Yahoo 재배포 본문은도구 오류; 원 구단 공식 공지를 브라우저에서 직접 읽음.",
-          "CNBC 경로는robots.txt 비재시도 제한; 가격·불확실성은 Reuters 독립 취재 원문으로 교차 확인 중.",
-          "https://m.sports.naver.com/general/video/1549052 : 도구에서 본문·실제 영상 열기 실패; 발견 자료로만 유지.",
-          "아이브 MV 청문회 인용 경로·스마트안경 Naver 본문은 도구 접근 오류; 독립 원문을 찾지 못한 장면은 선정하지 않음.",
-          "BTP 공개 그리드12개를 대조했으나 상세·전체 슬라이드·정확한 게시 시각·Insights는 미확인. 논술 AI안경 표지와20일 수능 세부 검사절차는 별도 사실로 구분."
-        ]
-      }
-    },
-    {
-      "event_key": "csat-smart-glasses-after-period-inspection-procedure-20261020",
-      "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833356",
-      "title": "AI 안경 의심돼도 시험 끝난 뒤 검사…수능 새 대처요령의 딜레마",
-      "category": "시사",
-      "status": "reviewed",
-      "recorded_at": 1792502758,
-      "pick": {
-        "title": "AI 안경 의심돼도 시험 끝난 뒤 검사…수능 새 대처요령의 딜레마",
-        "category": "시사",
-        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833356",
-        "source": "뉴시스·뉴스핌",
-        "kind": "article",
-        "event_key": "csat-smart-glasses-after-period-inspection-procedure-20261020",
-        "why": "수험생과 교사가 서로에게 부정행위 방지와 시험 방해 민원이 충돌하는 구체적인 검사 절차를 알려줄 수 있다.",
-        "angle": "‘의심 발견→즉시 검사가 아닌 교시 종료·문답지 수거 뒤’라는 확인 순서를 첫 장에서 보여준다.",
-        "why_now": "20일14:23 보도에서 교육부가 시도교육청에 보낸 세부 대처요령의 검사 시점을 확인했다.15일 공개된 반입 금지·응시 제한 자체의 재소개와 구분한다.",
-        "verified_at": 1792502295,
-        "published_at": 1792473805,
-        "evidence": [
-          {
-            "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833356",
-            "note": "20일14:23 본문:시험 중 의심은 즉시 확인하지 않고 종료령·문답지 수거 뒤 검사,시험 전에는 안경을 벗어 책상 위에 놓고 점검. 판단이 어려우면 다른 감독관·본부와 협의."
-          },
-          {
-            "url": "https://www.newspim.com/news/view/20261020000888",
-            "note": "15:15 본문에서 같은 검사 순서와 전교조의 판별 기준·감독관 보호 요구를 교차 확인. 단순 의심만으로 즉시 부정행위 확정이라고 쓰지 않는다."
-          },
-          {
-            "url": "https://mobile.newsis.com/view/NISX20261015_0003827660",
-            "note": "15일 유의사항 보도는 반입 금지·시험 무효·응시 제한이 중심. 이 오래된 제재를 오늘 새로 도입한 것으로 표현하지 않는다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833356",
-            "label": "20일 세부 검사 절차 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "스마트안경이 허용된다는 뜻이 아니다. 의심과 확인을 구분하고 반입금지·시험 제재를20일 새 법률로 소개하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-20",
-          "observation": "20일 공개 보도된 세부 대처요령은 시험 중 스마트안경 의심 시 관찰한 뒤 교시 종료·문답지 수거 후 확인하도록 했다. 시험 전 확인과는 절차가 다르며 교원단체는 판별 기준과 보호책을 요구했다.",
-          "checked_materials": [],
-          "outline": [
-            "의심 발견→관찰→교시 종료·문답지 수거→검사라는 실제 절차",
-            "시험 전 확인과 시험 중 의심의 처리 시점 차이",
-            "기존 제재와 구분해 설명하고,오인·미적발을 우려하는 교원단체 요구를 입장으로 명시"
-          ]
-        }
-      },
-      "coverage": {
-        "queries": [
-          "site:theqoo.net \"배이\" \"충주\" \"2026.10.20\"",
-          "site:theqoo.net 여자아이돌 오늘 \"2026.10.20\" 자막 영상",
-          "football October 20 2026 Manchester City appeal Premier League official",
-          "KIA LG October 20 2026 Kim Do young grand slam postseason",
-          "Haaland team news October 20 2026 Manchester City",
-          "배이 충주시 성심학교 수어",
-          "site:theqoo.net 걸그룹 오늘 영상 반전",
-          "\"배이\" \"성심학교\" 충주시",
-          "\"김도영\" \"145\" \"2026.10.20\"",
-          "AI전략위원 KTX 매크로 조회만 20일",
-          "\"AI전략위원\" \"매크로\"",
-          "\"김도영\" \"145.8\"",
-          "\"부캉이\" \"3차\" \"21일\"",
-          "\"부캉이\" \"폰툰\"",
-          "Busan SIM chips sewer 101 arrested October 20 2026",
-          "BAE Chungju sign language school October 20 2026",
-          "\"연쇄방화\" \"동묘앞역\" \"70대\"",
-          "\"휴머노이드\" \"국감\" \"20일 오후\"",
-          "배이 충주시 성심학교 수어 10월 20일 2026",
-          "football October 20 2026 Manchester United Como training six absent official",
-          "카이스트 로봇 국감 20일 오후 황정아",
-          "코스피 5552.74 20일 마감",
-          "\"배이\" \"충주시\" 영상",
-          "\"Manchester United\" \"Como\" \"20 October 2026\"",
-          "여자아이돌 반응 자막 오늘",
-          "\"손흥민\" \"20일\" \"발표\"",
-          "\"KBO\" \"20일\" \"100g\" 경위서",
-          "\"황정아\" \"휴머노이드\" \"오전\"",
-          "\"100g 초과 실격\" \"경위서\"",
-          "oil prices October 20 2026 Hormuz two tankers mines 109.08",
-          "\"황정아\" \"로봇\" \"11시\"",
-          "정수진 경위서 다른 경기 우려",
-          "\"수능\" \"스마트안경\" \"20일\"",
-          "\"유진\" \"뮤비 청문회\"",
-          "\"100g\" \"쉬쉬\" \"경위서\"",
-          "\"20대\" \"절반\" \"연체\" \"20일\"",
-          "football team news injuries 20 October 2026",
-          "\"우리유진\" \"Looks Can Kill\"",
-          "\"[단독]\" \"100g\" \"경위서\""
-        ],
-        "opened_urls": [
-          "https://www.instagram.com/bythepulse/",
-          "https://www.youtube.com/watch?v=SL4MWaOw0TY",
-          "https://www.premierleague.com/en/news/4727779/premier-league-statement-manchester-city-fc",
-          "https://www.kado.net/news/articleView.html?idxno=2079306",
-          "https://www.starnewskorea.com/en/sports/2026/10/20/2026102018003923961",
-          "https://www.starnewskorea.com/sports/2026/10/20/2026102018003923961",
-          "https://en.fnnews.com/news/202610201933137045",
-          "https://www.fnnews.com/news/202610201933137045",
-          "https://image.fnnews.com/resource/media/image/2026/10/20/202610201931159465_l.jpg",
-          "https://www.yna.co.kr/amp/view/AKR20261020138500017",
-          "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261020.99099005818",
-          "https://www.busan.com/view/busan/view.php?code=2026102018170424150",
-          "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261021.22004005766",
-          "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806560",
-          "https://www.kado.net/news/articleView.html?idxno=2079304",
-          "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008806366&oaid=N1008806560&plink=TOP",
-          "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008806232&oaid=N1008806560&plink=TOP",
-          "https://img.sbs.co.kr/newimg/news/20261020/202233072_1280.jpg",
-          "https://www.manutd.com/en/news/training-update-from-carrington",
-          "https://www.newspim.com/news/view/20261020000964",
-          "https://www.donga.com/news/Economy/article/all/20261020/134875431/1",
-          "https://img.newspim.com/news/2026/10/20/261020155515459_w.jpg",
-          "https://theqoo.net/square/4381710309?page=2",
-          "https://gall.dcinside.com/mgallery/board/view/?id=ba_e&no=22789&page=1",
-          "https://gall.dcinside.com/mgallery/board/view/?id=ba_e&no=22795&page=1",
-          "https://www.tjb.co.kr/news06/category/view/id/105073",
-          "https://www.sportschosun.com/football/2026-10-20/202610200100124760008119",
-          "https://www.newspim.com/news/view/20261020001206",
-          "https://www.reuters.com/business/energy/oil-eases-markets-assess-potential-waiver-russian-energy-middle-east-supply-2026-10-20/",
-          "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833356",
-          "https://www.newspim.com/news/view/20261020000888",
-          "https://mobile.newsis.com/view/NISX20261015_0003827660",
-          "https://www.newspim.com/news/view/20261020001218",
-          "https://mobile.newsis.com/view/NISX20261019_0003830984",
-          "https://www.news1.kr/it-science/general-science/6325719",
-          "https://www.newspim.com/news/view/20261019000026",
-          "https://www.uefa.com/uefachampionsleague/news/02aa-21dd60778d8f-1ea14fd92256-1000--champions-league-predicted-line-ups-matchday-3-team-news-/",
-          "https://www.reuters.com/business/retail-consumer/bytedance-alibaba-tencent-place-over-35-billion-worth-nvidia-chip-orders-2026-10-20/",
-          "https://www.reuters.com/business/qualcomm-cut-jobs-worldwide-performance-focused-layoffs-internal-memo-shows-2026-10-20/",
-          "https://www.reuters.com/business/google-cloud-services-largely-back-up-uk-2026-10-20/"
-        ],
-        "unavailable": [
-          "https://www.youtube.com/watch?v=SL4MWaOw0TY : 공식18시 공개·설명은 재확인했으나 재생 시도 후에도0:00 검은 화면; 장면 미확인.",
-          "https://news.nate.com/view/20261020n33986 : 브라우저 upstream connection timeout, 사진·본문 확인 실패.",
-          "연합뉴스 직접 경로: 검색 도구가 robots.txt 비재시도 제한을 반환해 중단; 독립 공개 보도 원문으로 전환.",
-          "더쿠 직접 후보 페이지 일부는 검색 도구 접근 오류. 검색 요약을 시청·본문 증거로 세지 않음.",
-          "BTP 그리드는 로그인 안내가 일부를 가려 표지만 확인; 상세·정확한 게시 시각·Insights는 미확인.",
-          "연합뉴스 KTX 원송고16:47은18시 검토에서 읽은 자료를 재사용; 이번 재접근은robots제한. 현재본문 재확인은 독립 후속보도에서 수행.",
-          "맨체스터이브닝뉴스 본문은402 결제 제한·Yahoo 재배포 본문은도구 오류; 원 구단 공식 공지를 브라우저에서 직접 읽음.",
-          "CNBC 경로는robots.txt 비재시도 제한; 가격·불확실성은 Reuters 독립 취재 원문으로 교차 확인 중.",
-          "https://m.sports.naver.com/general/video/1549052 : 도구에서 본문·실제 영상 열기 실패; 발견 자료로만 유지.",
-          "아이브 MV 청문회 인용 경로·스마트안경 Naver 본문은 도구 접근 오류; 독립 원문을 찾지 못한 장면은 선정하지 않음.",
-          "BTP 공개 그리드12개를 대조했으나 상세·전체 슬라이드·정확한 게시 시각·Insights는 미확인. 논술 AI안경 표지와20일 수능 세부 검사절차는 별도 사실로 구분."
-        ]
-      }
-    },
-    {
-      "event_key": "reuters-china-three-tech-firms-rtx-pro-5500-orders-20261020",
-      "url": "https://www.reuters.com/business/retail-consumer/bytedance-alibaba-tencent-place-over-35-billion-worth-nvidia-chip-orders-2026-10-20/",
-      "title": "로이터 “中 3사, 엔비디아 GPU 300만장 주문…납품은 불확실”",
-      "category": "시사",
-      "status": "reviewed",
-      "recorded_at": 1792502758,
-      "pick": {
-        "title": "로이터 “中 3사, 엔비디아 GPU 300만장 주문…납품은 불확실”",
-        "category": "시사",
-        "url": "https://www.reuters.com/business/retail-consumer/bytedance-alibaba-tencent-place-over-35-billion-worth-nvidia-chip-orders-2026-10-20/",
-        "source": "Reuters 단독 취재",
-        "kind": "article",
-        "event_key": "reuters-china-three-tech-firms-rtx-pro-5500-orders-20261020",
-        "why": "엔비디아에 관심 있는 친구에게 거대한 주문 규모와 실제 납품·매출은 다르다는 점을 보여줄 수 있다.",
-        "angle": "‘300만장 넘게 주문↔물량 확보는 미정’이라는 로이터 취재 내용을 첫 장에 대비한다.",
-        "why_now": "20일18:04KST 처음 보도된 주문 규모다. 기존 수출규제나13일 별도 회사 공시를 새 사건으로 바꾸지 않는다.",
-        "verified_at": 1792502501,
-        "published_at": 1792487040,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/business/retail-consumer/bytedance-alibaba-tencent-place-over-35-billion-worth-nvidia-chip-orders-2026-10-20/",
-            "note": "복수 관계자를 인용한 단독:바이트댄스·알리바바·텐센트가300만장 넘게 주문,표시가격 합계350억달러 이상. 납품 보장 없음. 당사자들이 주문량을 공개 확인한 발표는 아니다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/business/retail-consumer/bytedance-alibaba-tencent-place-over-35-billion-worth-nvidia-chip-orders-2026-10-20/",
-            "label": "주문·공급 불확실성 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "취재 보도임을 표시한다. 확정 매출·대금 수령·전량 납품·규제 우회 성공으로 쓰지 않는다. 주문량의 회사 공개 확인은 없다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-20",
-          "observation": "로이터는20일 복수 관계자 취재로 중국3사의GPU300만장 초과 주문을 처음 보도했다. 표시가격 합계는350억달러 이상이지만 공급은 보장되지 않으며 기업의 주문량 공개 확인은 없다.",
-          "checked_materials": [],
-          "outline": [
-            "‘주문300만장 초과’와 ‘납품 불확실’을 같은 장에 표시",
-            "주문·표시가격 합계·실제 매출을 구분",
-            "복수 관계자 인용 보도라는 근거와 회사 공개 확인이 없는 한계를 명시"
-          ]
-        }
-      },
-      "coverage": {
-        "queries": [
-          "site:theqoo.net \"배이\" \"충주\" \"2026.10.20\"",
-          "site:theqoo.net 여자아이돌 오늘 \"2026.10.20\" 자막 영상",
-          "football October 20 2026 Manchester City appeal Premier League official",
-          "KIA LG October 20 2026 Kim Do young grand slam postseason",
-          "Haaland team news October 20 2026 Manchester City",
-          "배이 충주시 성심학교 수어",
-          "site:theqoo.net 걸그룹 오늘 영상 반전",
-          "\"배이\" \"성심학교\" 충주시",
-          "\"김도영\" \"145\" \"2026.10.20\"",
-          "AI전략위원 KTX 매크로 조회만 20일",
-          "\"AI전략위원\" \"매크로\"",
-          "\"김도영\" \"145.8\"",
-          "\"부캉이\" \"3차\" \"21일\"",
-          "\"부캉이\" \"폰툰\"",
-          "Busan SIM chips sewer 101 arrested October 20 2026",
-          "BAE Chungju sign language school October 20 2026",
-          "\"연쇄방화\" \"동묘앞역\" \"70대\"",
-          "\"휴머노이드\" \"국감\" \"20일 오후\"",
-          "배이 충주시 성심학교 수어 10월 20일 2026",
-          "football October 20 2026 Manchester United Como training six absent official",
-          "카이스트 로봇 국감 20일 오후 황정아",
-          "코스피 5552.74 20일 마감",
-          "\"배이\" \"충주시\" 영상",
-          "\"Manchester United\" \"Como\" \"20 October 2026\"",
-          "여자아이돌 반응 자막 오늘",
-          "\"손흥민\" \"20일\" \"발표\"",
-          "\"KBO\" \"20일\" \"100g\" 경위서",
-          "\"황정아\" \"휴머노이드\" \"오전\"",
-          "\"100g 초과 실격\" \"경위서\"",
-          "oil prices October 20 2026 Hormuz two tankers mines 109.08",
-          "\"황정아\" \"로봇\" \"11시\"",
-          "정수진 경위서 다른 경기 우려",
-          "\"수능\" \"스마트안경\" \"20일\"",
-          "\"유진\" \"뮤비 청문회\"",
-          "\"100g\" \"쉬쉬\" \"경위서\"",
-          "\"20대\" \"절반\" \"연체\" \"20일\"",
-          "football team news injuries 20 October 2026",
-          "\"우리유진\" \"Looks Can Kill\"",
-          "\"[단독]\" \"100g\" \"경위서\""
-        ],
-        "opened_urls": [
-          "https://www.instagram.com/bythepulse/",
-          "https://www.youtube.com/watch?v=SL4MWaOw0TY",
-          "https://www.premierleague.com/en/news/4727779/premier-league-statement-manchester-city-fc",
-          "https://www.kado.net/news/articleView.html?idxno=2079306",
-          "https://www.starnewskorea.com/en/sports/2026/10/20/2026102018003923961",
-          "https://www.starnewskorea.com/sports/2026/10/20/2026102018003923961",
-          "https://en.fnnews.com/news/202610201933137045",
-          "https://www.fnnews.com/news/202610201933137045",
-          "https://image.fnnews.com/resource/media/image/2026/10/20/202610201931159465_l.jpg",
-          "https://www.yna.co.kr/amp/view/AKR20261020138500017",
-          "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261020.99099005818",
-          "https://www.busan.com/view/busan/view.php?code=2026102018170424150",
-          "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261021.22004005766",
-          "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806560",
-          "https://www.kado.net/news/articleView.html?idxno=2079304",
-          "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008806366&oaid=N1008806560&plink=TOP",
-          "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008806232&oaid=N1008806560&plink=TOP",
-          "https://img.sbs.co.kr/newimg/news/20261020/202233072_1280.jpg",
-          "https://www.manutd.com/en/news/training-update-from-carrington",
-          "https://www.newspim.com/news/view/20261020000964",
-          "https://www.donga.com/news/Economy/article/all/20261020/134875431/1",
-          "https://img.newspim.com/news/2026/10/20/261020155515459_w.jpg",
-          "https://theqoo.net/square/4381710309?page=2",
-          "https://gall.dcinside.com/mgallery/board/view/?id=ba_e&no=22789&page=1",
-          "https://gall.dcinside.com/mgallery/board/view/?id=ba_e&no=22795&page=1",
-          "https://www.tjb.co.kr/news06/category/view/id/105073",
-          "https://www.sportschosun.com/football/2026-10-20/202610200100124760008119",
-          "https://www.newspim.com/news/view/20261020001206",
-          "https://www.reuters.com/business/energy/oil-eases-markets-assess-potential-waiver-russian-energy-middle-east-supply-2026-10-20/",
-          "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833356",
-          "https://www.newspim.com/news/view/20261020000888",
-          "https://mobile.newsis.com/view/NISX20261015_0003827660",
-          "https://www.newspim.com/news/view/20261020001218",
-          "https://mobile.newsis.com/view/NISX20261019_0003830984",
-          "https://www.news1.kr/it-science/general-science/6325719",
-          "https://www.newspim.com/news/view/20261019000026",
-          "https://www.uefa.com/uefachampionsleague/news/02aa-21dd60778d8f-1ea14fd92256-1000--champions-league-predicted-line-ups-matchday-3-team-news-/",
-          "https://www.reuters.com/business/retail-consumer/bytedance-alibaba-tencent-place-over-35-billion-worth-nvidia-chip-orders-2026-10-20/",
-          "https://www.reuters.com/business/qualcomm-cut-jobs-worldwide-performance-focused-layoffs-internal-memo-shows-2026-10-20/",
-          "https://www.reuters.com/business/google-cloud-services-largely-back-up-uk-2026-10-20/"
-        ],
-        "unavailable": [
-          "https://www.youtube.com/watch?v=SL4MWaOw0TY : 공식18시 공개·설명은 재확인했으나 재생 시도 후에도0:00 검은 화면; 장면 미확인.",
-          "https://news.nate.com/view/20261020n33986 : 브라우저 upstream connection timeout, 사진·본문 확인 실패.",
-          "연합뉴스 직접 경로: 검색 도구가 robots.txt 비재시도 제한을 반환해 중단; 독립 공개 보도 원문으로 전환.",
-          "더쿠 직접 후보 페이지 일부는 검색 도구 접근 오류. 검색 요약을 시청·본문 증거로 세지 않음.",
-          "BTP 그리드는 로그인 안내가 일부를 가려 표지만 확인; 상세·정확한 게시 시각·Insights는 미확인.",
-          "연합뉴스 KTX 원송고16:47은18시 검토에서 읽은 자료를 재사용; 이번 재접근은robots제한. 현재본문 재확인은 독립 후속보도에서 수행.",
-          "맨체스터이브닝뉴스 본문은402 결제 제한·Yahoo 재배포 본문은도구 오류; 원 구단 공식 공지를 브라우저에서 직접 읽음.",
-          "CNBC 경로는robots.txt 비재시도 제한; 가격·불확실성은 Reuters 독립 취재 원문으로 교차 확인 중.",
-          "https://m.sports.naver.com/general/video/1549052 : 도구에서 본문·실제 영상 열기 실패; 발견 자료로만 유지.",
-          "아이브 MV 청문회 인용 경로·스마트안경 Naver 본문은 도구 접근 오류; 독립 원문을 찾지 못한 장면은 선정하지 않음.",
-          "BTP 공개 그리드12개를 대조했으나 상세·전체 슬라이드·정확한 게시 시각·Insights는 미확인. 논술 AI안경 표지와20일 수능 세부 검사절차는 별도 사실로 구분."
-        ]
-      }
-    },
-    {
-      "event_key": "dapa-lig-dna-two-year-bidding-ban-decision-20261020",
-      "url": "https://www.newspim.com/news/view/20261020001218",
-      "title": "옛 LIG넥스원에 ‘입찰 제한 2년’ 결정…회사는 법적 대응 예고",
-      "category": "시사",
-      "status": "reviewed",
-      "recorded_at": 1792502758,
-      "pick": {
-        "title": "옛 LIG넥스원에 ‘입찰 제한 2년’ 결정…회사는 법적 대응 예고",
-        "category": "시사",
-        "url": "https://www.newspim.com/news/view/20261020001218",
-        "source": "뉴스핌·방위사업청 발표",
-        "kind": "article",
-        "event_key": "dapa-lig-dna-two-year-bidding-ban-decision-20261020",
-        "why": "방산주 투자자와 납세자가 친구에게 과징금 대신2년 입찰 제한이 결정됐다는 실제 제재와 회사 반박을 함께 전달할 수 있다.",
-        "angle": "‘벌금으로 끝난 것이 아니라 입찰 제한24개월’이라는 새 결정을 첫 장에 놓고 형사재판 확정과 구분한다.",
-        "why_now": "20일 오후 방위사업계약심의위원회가 제재 방식을 의결한 새 사실이20:57 보도됐다.8월 기소나13일 국감 발언의 재포장이 아니다.",
-        "verified_at": 1792502295,
-        "published_at": 1792497420,
-        "evidence": [
-          {
-            "url": "https://www.newspim.com/news/view/20261020001218",
-            "note": "20일 오후 방사청 위원회는LIG D&A에24개월 입찰참가자격 제한을 의결. 회사는 기소만으로 제재했다며 집행정지 신청 등 대응을 예고. 행정제재와 형사상 유죄 확정은 다르다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.newspim.com/news/view/20261020001218",
-            "label": "의결 내용·회사 입장 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "형사 유죄 확정·모든 계약과 수출 중단·법원의 집행정지 인용으로 쓰지 않는다. 기존 사업별 영향과 실제 효력 범위는 별도 확인한다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-20",
-          "observation": "방사청은20일 오후 심의에서 뇌물·원가 부정 사건과 관련해LIG D&A의 입찰참가자격을24개월 제한하기로 의결했다고 밝혔다. 회사는 법적 절차가 진행 중이라며 집행정지 신청 등 대응을 예고했다.",
-          "checked_materials": [],
-          "outline": [
-            "과징금 대신 입찰 제한24개월을 의결한20일 새 결정",
-            "8월 기소→13일 국감→20일 행정제재의 서로 다른 단계",
-            "회사 측 유감·집행정지 신청 예고를 함께 싣고 형사 유죄·기존 사업 영향은 별도라고 명시"
-          ]
-        }
-      },
-      "coverage": {
-        "queries": [
-          "site:theqoo.net \"배이\" \"충주\" \"2026.10.20\"",
-          "site:theqoo.net 여자아이돌 오늘 \"2026.10.20\" 자막 영상",
-          "football October 20 2026 Manchester City appeal Premier League official",
-          "KIA LG October 20 2026 Kim Do young grand slam postseason",
-          "Haaland team news October 20 2026 Manchester City",
-          "배이 충주시 성심학교 수어",
-          "site:theqoo.net 걸그룹 오늘 영상 반전",
-          "\"배이\" \"성심학교\" 충주시",
-          "\"김도영\" \"145\" \"2026.10.20\"",
-          "AI전략위원 KTX 매크로 조회만 20일",
-          "\"AI전략위원\" \"매크로\"",
-          "\"김도영\" \"145.8\"",
-          "\"부캉이\" \"3차\" \"21일\"",
-          "\"부캉이\" \"폰툰\"",
-          "Busan SIM chips sewer 101 arrested October 20 2026",
-          "BAE Chungju sign language school October 20 2026",
-          "\"연쇄방화\" \"동묘앞역\" \"70대\"",
-          "\"휴머노이드\" \"국감\" \"20일 오후\"",
-          "배이 충주시 성심학교 수어 10월 20일 2026",
-          "football October 20 2026 Manchester United Como training six absent official",
-          "카이스트 로봇 국감 20일 오후 황정아",
-          "코스피 5552.74 20일 마감",
-          "\"배이\" \"충주시\" 영상",
-          "\"Manchester United\" \"Como\" \"20 October 2026\"",
-          "여자아이돌 반응 자막 오늘",
-          "\"손흥민\" \"20일\" \"발표\"",
-          "\"KBO\" \"20일\" \"100g\" 경위서",
-          "\"황정아\" \"휴머노이드\" \"오전\"",
-          "\"100g 초과 실격\" \"경위서\"",
-          "oil prices October 20 2026 Hormuz two tankers mines 109.08",
-          "\"황정아\" \"로봇\" \"11시\"",
-          "정수진 경위서 다른 경기 우려",
-          "\"수능\" \"스마트안경\" \"20일\"",
-          "\"유진\" \"뮤비 청문회\"",
-          "\"100g\" \"쉬쉬\" \"경위서\"",
-          "\"20대\" \"절반\" \"연체\" \"20일\"",
-          "football team news injuries 20 October 2026",
-          "\"우리유진\" \"Looks Can Kill\"",
-          "\"[단독]\" \"100g\" \"경위서\""
-        ],
-        "opened_urls": [
-          "https://www.instagram.com/bythepulse/",
-          "https://www.youtube.com/watch?v=SL4MWaOw0TY",
-          "https://www.premierleague.com/en/news/4727779/premier-league-statement-manchester-city-fc",
-          "https://www.kado.net/news/articleView.html?idxno=2079306",
-          "https://www.starnewskorea.com/en/sports/2026/10/20/2026102018003923961",
-          "https://www.starnewskorea.com/sports/2026/10/20/2026102018003923961",
-          "https://en.fnnews.com/news/202610201933137045",
-          "https://www.fnnews.com/news/202610201933137045",
-          "https://image.fnnews.com/resource/media/image/2026/10/20/202610201931159465_l.jpg",
-          "https://www.yna.co.kr/amp/view/AKR20261020138500017",
-          "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261020.99099005818",
-          "https://www.busan.com/view/busan/view.php?code=2026102018170424150",
-          "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261021.22004005766",
-          "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806560",
-          "https://www.kado.net/news/articleView.html?idxno=2079304",
-          "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008806366&oaid=N1008806560&plink=TOP",
-          "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008806232&oaid=N1008806560&plink=TOP",
-          "https://img.sbs.co.kr/newimg/news/20261020/202233072_1280.jpg",
-          "https://www.manutd.com/en/news/training-update-from-carrington",
-          "https://www.newspim.com/news/view/20261020000964",
-          "https://www.donga.com/news/Economy/article/all/20261020/134875431/1",
-          "https://img.newspim.com/news/2026/10/20/261020155515459_w.jpg",
-          "https://theqoo.net/square/4381710309?page=2",
-          "https://gall.dcinside.com/mgallery/board/view/?id=ba_e&no=22789&page=1",
-          "https://gall.dcinside.com/mgallery/board/view/?id=ba_e&no=22795&page=1",
-          "https://www.tjb.co.kr/news06/category/view/id/105073",
-          "https://www.sportschosun.com/football/2026-10-20/202610200100124760008119",
-          "https://www.newspim.com/news/view/20261020001206",
-          "https://www.reuters.com/business/energy/oil-eases-markets-assess-potential-waiver-russian-energy-middle-east-supply-2026-10-20/",
-          "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833356",
-          "https://www.newspim.com/news/view/20261020000888",
-          "https://mobile.newsis.com/view/NISX20261015_0003827660",
-          "https://www.newspim.com/news/view/20261020001218",
-          "https://mobile.newsis.com/view/NISX20261019_0003830984",
-          "https://www.news1.kr/it-science/general-science/6325719",
-          "https://www.newspim.com/news/view/20261019000026",
-          "https://www.uefa.com/uefachampionsleague/news/02aa-21dd60778d8f-1ea14fd92256-1000--champions-league-predicted-line-ups-matchday-3-team-news-/",
-          "https://www.reuters.com/business/retail-consumer/bytedance-alibaba-tencent-place-over-35-billion-worth-nvidia-chip-orders-2026-10-20/",
-          "https://www.reuters.com/business/qualcomm-cut-jobs-worldwide-performance-focused-layoffs-internal-memo-shows-2026-10-20/",
-          "https://www.reuters.com/business/google-cloud-services-largely-back-up-uk-2026-10-20/"
-        ],
-        "unavailable": [
-          "https://www.youtube.com/watch?v=SL4MWaOw0TY : 공식18시 공개·설명은 재확인했으나 재생 시도 후에도0:00 검은 화면; 장면 미확인.",
-          "https://news.nate.com/view/20261020n33986 : 브라우저 upstream connection timeout, 사진·본문 확인 실패.",
-          "연합뉴스 직접 경로: 검색 도구가 robots.txt 비재시도 제한을 반환해 중단; 독립 공개 보도 원문으로 전환.",
-          "더쿠 직접 후보 페이지 일부는 검색 도구 접근 오류. 검색 요약을 시청·본문 증거로 세지 않음.",
-          "BTP 그리드는 로그인 안내가 일부를 가려 표지만 확인; 상세·정확한 게시 시각·Insights는 미확인.",
-          "연합뉴스 KTX 원송고16:47은18시 검토에서 읽은 자료를 재사용; 이번 재접근은robots제한. 현재본문 재확인은 독립 후속보도에서 수행.",
-          "맨체스터이브닝뉴스 본문은402 결제 제한·Yahoo 재배포 본문은도구 오류; 원 구단 공식 공지를 브라우저에서 직접 읽음.",
-          "CNBC 경로는robots.txt 비재시도 제한; 가격·불확실성은 Reuters 독립 취재 원문으로 교차 확인 중.",
-          "https://m.sports.naver.com/general/video/1549052 : 도구에서 본문·실제 영상 열기 실패; 발견 자료로만 유지.",
-          "아이브 MV 청문회 인용 경로·스마트안경 Naver 본문은 도구 접근 오류; 독립 원문을 찾지 못한 장면은 선정하지 않음.",
-          "BTP 공개 그리드12개를 대조했으나 상세·전체 슬라이드·정확한 게시 시각·Insights는 미확인. 논술 AI안경 표지와20일 수능 세부 검사절차는 별도 사실로 구분."
-        ]
-      }
-    },
-    {
-      "event_key": "bae-chungju-seongsim-school-vlog-20261020",
-      "url": "https://www.youtube.com/watch?v=SL4MWaOw0TY",
-      "title": "배이와 함께: 충주 성심학교 VLOG",
-      "category": "아이돌",
-      "status": "needs_visual",
-      "note": "21시대 공식 채널에서 20일18시 공개와 성심학교 VLOG 설명을 재확인. 클릭·재생 키 이후에도0:00 검은 화면이라 실제 수어·행동·결과는 미확인. 댓글 설명을 사실 확인으로 대신하지 않았다.",
-      "next_action": "공식 충주시의 별도 공개 사진·작동하는 독립 인용본이 새로 생기면 핵심 대화·행동·결과를 확인. 같은 YouTube 실패 경로는 반복하지 않는다.",
-      "recorded_at": 1792502009
-    },
-    {
-      "event_key": "busan-drain-sim-phone-fraud-ring-20261020",
-      "url": "https://n.news.naver.com/article/056/0012277035",
-      "title": "하수구 유심 조각에서 추적한 보이스피싱 조직",
-      "category": "시사",
-      "status": "needs_date",
-      "note": "이전 KBS13:57 상세 본문은 확인했으나 그보다 앞선 같은 사건 최초 보도 시각을 확인하지 못했다. 현재23시 기준 첫 공개11시 이후인지가 관건이다.",
-      "next_action": "부산경찰청의 수사결과 발표와 앞선 KBS 보도의 최초 공개 시각을 확인; 맞으면 경찰 제공 사진을 실제 확인해 제작본 작성.",
-      "recorded_at": 1792502009
-    },
-    {
-      "event_key": "shinsegae-joins-daoukiwoom-cj-joongang-acquisition-consortium-20261020",
-      "url": "https://www.hankyung.com/article/202610202728i",
-      "title": "신세계 중앙일보 인수 컨소시엄 합류",
-      "category": "시사",
-      "status": "rejected",
-      "note": "최초 공개10:33은23시 보고 기준12시간을 넘는다. 오후 회사 입장 보도 시각을 같은 참여 사실의 최초 공개로 바꾸지 않는다.",
-      "next_action": "23시 후보에서는 제외. 실제 편집 가치가 달라지는 별도 새 확정 사실이 있을 때만 검토.",
-      "recorded_at": 1792502009
-    },
-    {
-      "event_key": "man-city-ffp-20261020-repackaged-sanction-speculation",
-      "url": "https://www.premierleague.com/en/news/4727779/premier-league-statement-manchester-city-fc",
-      "title": "맨시티 재정 위반·강등 전망 기사",
-      "category": "축구",
-      "status": "rejected",
-      "note": "PL 공식 본문에서 기초 판정 발표는9월29일이고 처분은 별도 심리임을 확인. 오늘 ‘2부리그 가능성’ 제목은 새 확정 징계가 아니다.",
-      "next_action": "오늘 전망 기사는 제외. 새 처분·항소 결정이 공식 발표되면 최초 공개 시각부터 별도 검증.",
-      "recorded_at": 1792502009
-    },
-    {
-      "event_key": "worlds-2026-swiss-round1-draw-20261018",
-      "url": "https://www.sheepesports.com/en/articles/worlds-2026-swiss-stage-round-1-draw/en",
-      "title": "2026 월즈 스위스1라운드 대진",
-      "category": "메이저 스포츠",
-      "status": "needs_date",
-      "note": "발견 결과는18일 대진 추첨과23일 시작을 가리킨다. ‘오늘’ 색인 표기로 새 대진이라고 판단하지 않았으며 아직 원문·Riot 발표는 미열람이다.",
-      "next_action": "18일 추첨의 재추천은 제외. 새로운 실제 일정 변경·경기 사실이 생겼을 때 공식 원문부터 확인.",
-      "recorded_at": 1792502009
-    },
-    {
-      "event_key": "kaist-humanoid-national-audit-demonstration-20261020",
-      "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008806366&oaid=N1008806560&plink=TOP",
-      "title": "국감장에 등장한180cm KAIST 휴머노이드",
-      "category": "시사",
-      "status": "needs_date",
-      "note": "20일15:19 SBS 본문과 가슴을 미는 황정아 의원·선 로봇 사진을 실제 확인. 사진 https://img.sbs.co.kr/newimg/news/20261020/202233072_1280.jpg . 문워크 영상은 미시청이며 최초 생중계 시각은 미확인.",
-      "next_action": "국회 생중계·KAIST 공개자료에서 최초 시연 노출이11시 이후인지 확인. 충족하면 확인한 밀기 사진만 핵심 자료로 scene 작성; 문워크를 봤다고 쓰지 않는다.",
-      "recorded_at": 1792502009
     }
   ],
   "attempts": [
@@ -11011,12 +9492,12 @@
     },
     {
       "hour_utc": "2026102214",
-      "at": 1792675530,
-      "status": "researching",
+      "at": 1792675734,
+      "status": "review_complete",
       "required": 10,
-      "ready": 4,
-      "missing": 6,
-      "unfinished": 12
+      "ready": 12,
+      "missing": 0,
+      "unfinished": 2
     }
   ]
 }
