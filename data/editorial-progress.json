@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": 1792639588,
+  "updated_at": 1792643438,
   "items": [
     {
       "event_key": "lebron-sixers-regular-season-debut-defeats-knicks-20261020",
@@ -10192,15 +10192,6 @@
   ],
   "attempts": [
     {
-      "hour_utc": "2026101923",
-      "at": 1792449564,
-      "status": "submitted",
-      "required": 10,
-      "ready": 10,
-      "missing": 0,
-      "unfinished": 2
-    },
-    {
       "hour_utc": "2026102002",
       "at": 1792456647,
       "status": "researching",
@@ -10564,6 +10555,15 @@
       "hour_utc": "2026102205",
       "at": 1792639588,
       "status": "researching",
+      "required": 10,
+      "ready": 10,
+      "missing": 0,
+      "unfinished": 3
+    },
+    {
+      "hour_utc": "2026102205",
+      "at": 1792643438,
+      "status": "preparing",
       "required": 10,
       "ready": 10,
       "missing": 0,
