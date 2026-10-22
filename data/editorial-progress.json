@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": 1792710498,
+  "updated_at": 1792711769,
   "items": [
     {
       "event_key": "ruti-aga-six-year-doping-ban-fake-prescription-20261022",
@@ -9671,6 +9671,15 @@
       "ready": 0,
       "missing": 10,
       "unfinished": "승인 워크플로가 data/history.json 0바이트로 load_history JSON 파싱 실패. 실제 전송 0건; 2026-10-23 08:07 KST까지 scheduled delivery 시작·완료 기록 없음"
+    },
+    {
+      "hour_utc": "2026102302",
+      "at": 1792711769,
+      "status": "researching",
+      "required": 10,
+      "ready": 0,
+      "missing": 10,
+      "unfinished": "11시 회차 선행 조사 시작. candidates unavailable로 직접 원문 조사"
     }
   ]
 }
