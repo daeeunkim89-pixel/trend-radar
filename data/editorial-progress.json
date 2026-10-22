@@ -1,7 +1,37 @@
 {
   "version": 1,
-  "updated_at": 1792647629,
+  "updated_at": 1792647707,
   "items": [
+    {
+      "event_key": "ucl-bayern-arsenal-rice-late-equaliser-20261021",
+      "url": "https://www.reuters.com/sports/soccer/paz-dazzles-como-thrash-manchester-united-4-1-2026-10-21/",
+      "title": "라이스 82분 동점골…바이에른 원정서 아스널을 구했다",
+      "category": "축구",
+      "status": "rejected",
+      "note": "최초 공개 2026-10-21 18:59 UTC로 17시 회차 12시간 기준을 약 1시간 넘긴다.",
+      "next_action": "새로운 부상 진단·공식 결정 등 편집 가치가 달라진 새 사실이 나올 때만 재검토",
+      "recorded_at": 1792647707
+    },
+    {
+      "event_key": "deepseek-15b-fundraising-anonymous-sources-20261022",
+      "url": "https://www.reuters.com/world/asia-pacific/deepseek-raises-15-billion-challenge-leading-us-labs-bloomberg-news-reports-2026-10-22/",
+      "title": "딥시크 150억달러 조달 보도",
+      "category": "시사",
+      "status": "rejected",
+      "note": "익명 소식통 기반 보도이며 딥시크·CATL·텐센트의 확인이 없어 확정 사실 기준을 충족하지 못했다.",
+      "next_action": "회사·투자자·규제기관의 공식 발표가 나오면 원문과 최초 공개 시각을 확인",
+      "recorded_at": 1792647707
+    },
+    {
+      "event_key": "indonesia-ojk-record-fines-reprint-20261022",
+      "url": "https://www.reuters.com/world/asia-pacific/indonesia-issues-record-fines-companies-over-stock-market-violations-2026-10-22/",
+      "title": "인도네시아 증시 사상 최대 과징금 2.1조루피아",
+      "category": "시사",
+      "status": "rejected",
+      "note": "22일 세부 보도보다 제재 자체 최초 발표가 10월16일이어서 17시 회차 12시간 기준을 넘겼다.",
+      "next_action": "새 집행·시장지위 변경 등 별도 사건이 공개될 때만 재검토",
+      "recorded_at": 1792647707
+    },
     {
       "event_key": "bok-holds-3-percent-growth-upgrade-future-hikes-20261022",
       "url": "https://www.reuters.com/world/asia-pacific/bank-korea-holds-rates-after-back-to-back-hikes-2026-10-22/",
@@ -9317,7 +9347,7 @@
     },
     {
       "hour_utc": "2026102208",
-      "at": 1792647629,
+      "at": 1792647707,
       "status": "researching",
       "required": 10,
       "ready": 10,
