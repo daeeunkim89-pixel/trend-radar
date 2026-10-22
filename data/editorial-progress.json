@@ -1,7 +1,1087 @@
 {
   "version": 1,
-  "updated_at": 1792661411,
+  "updated_at": 1792661612,
   "items": [
+    {
+      "event_key": "france-first-human-shamonda-virus-case-20261022",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/france-reports-first-human-shamonda-virus-case-2026-10-22/",
+      "title": "가축 바이러스가 사람에게 처음 확인…환자는 숨졌다",
+      "category": "시사",
+      "status": "reviewed",
+      "recorded_at": 1792661612,
+      "pick": {
+        "title": "가축 바이러스가 사람에게 처음 확인…환자는 숨졌다",
+        "category": "시사",
+        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/france-reports-first-human-shamonda-virus-case-2026-10-22/",
+        "source": "Reuters·프랑스 보건당국",
+        "kind": "article",
+        "event_key": "france-first-human-shamonda-virus-case-20261022",
+        "why": "사람에게 전염되지 않는다고 여겼던 가축 바이러스의 첫 인체 확인이라는 반전이 크다.",
+        "angle": "‘인체 감염 불가’로 알았던 바이러스→첫 환자 확인·사망을 대비한다.",
+        "why_now": "프랑스 보건당국이 22일 첫 인체 감염을 발표했고 현재 일반 대중 위험은 없다고 밝혔다.",
+        "verified_at": 1792661612,
+        "published_at": 1792657380,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/france-reports-first-human-shamonda-virus-case-2026-10-22/",
+            "note": "첫 인체 감염, 환자 사망, 일반 대중 위험 없음, 곤충 매개 특성을 본문에서 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/france-reports-first-human-shamonda-virus-case-2026-10-22/",
+            "label": "본문·수치 확인",
+            "kind": "source"
+          }
+        ],
+        "caution": "환자의 직접 사인은 본문에 특정되지 않았고 보건당국은 현재 대중 위험이 없다고 밝혔다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "프랑스 보건당국 발표와 감염 가설, 대중 위험 평가를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 가축 바이러스 첫 인체 감염",
+            "2장: 기존에는 사람 감염 불가로 분류",
+            "3장: 환자 사망과 현재 위험 평가"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "2026년 10월 22일 여자아이돌 장면 공개 더쿠 인스티즈 루리웹",
+          "2026년 10월 22일 축구 화제 장면 펨코 공식 영상",
+          "October 22 2026 football viral moment official club video",
+          "October 22 2026 K-pop girl group viral scene official video",
+          "site:reuters.com 2026-10-22 latest world breaking news October 22 2026",
+          "site:reuters.com/sports 2026-10-22 football latest",
+          "site:apnews.com 2026-10-22 sports breaking latest",
+          "site:yonhapnewstv.co.kr 2026년 10월 22일 오후 속보",
+          "2026년 10월 22일 16시 17시 주요 뉴스 한국 새로운 발표",
+          "2026년 10월 22일 오후 여자 아이돌 논란 장면 공식",
+          "October 22 2026 Reuters just now latest sports NBA MLB football",
+          "October 22 2026 breaking news official announcement last hour",
+          "site:yna.co.kr/view/AKR20261022 17시",
+          "site:newsis.com/view/NISX20261022 17시 사회 경제 스포츠",
+          "site:sports.news.naver.com 2026.10.22 오타니 수술 르브론 레이커스",
+          "site:theqoo.net/hot 26/10/22 여자아이돌 영상",
+          "site:reuters.com/world 2026-10-22 October 22 2026 AM UTC",
+          "site:reuters.com/business 2026-10-22 October 22 2026 latest",
+          "site:reuters.com/technology 2026-10-22 October 22 2026 latest",
+          "site:reuters.com/sports 2026-10-22 October 22 2026 latest"
+        ],
+        "opened_urls": [
+          "https://www.reuters.com/business/healthcare-pharmaceuticals/france-reports-first-human-shamonda-virus-case-2026-10-22/",
+          "https://www.reuters.com/sports/nba-roundup-wolves-anthony-edwards-puts-up-45-beat-giannis-heat--flm-2026-10-22/",
+          "https://www.reuters.com/world/europe/russia-linked-hackers-used-decentralised-network-ukraine-cyberattack-eset-says-2026-10-22/",
+          "https://www.reuters.com/world/china/tsmc-seeks-factory-equipment-alternatives-thwart-chinas-rare-earths-grip-sources-2026-10-22/",
+          "https://www.reuters.com/sports/basketball/luka-doncic-lakers-open-with-dominant-win-vs-stephen-curry-warriors--flm-2026-10-22/",
+          "https://www.reuters.com/sports/china-hand-us-women-first-world-team-loss-since-2010-2026-10-22/",
+          "https://www.reuters.com/sports/soccer/more-laliga-clubs-join-pact-cap-ticket-prices-away-fans-2026-10-22/",
+          "https://www.reuters.com/technology/micron-introduces-quarterly-employee-bonus-tied-profits-2026-10-22/",
+          "https://www.reuters.com/business/environment/indonesias-fire-hotspots-ease-rain-still-not-enough-official-says-2026-10-22/",
+          "https://www.reuters.com/sports/soccer/commercial-income-powers-europes-richest-clubs-financial-divide-widens-study-2026-10-22/",
+          "https://www.reuters.com/sports/endurance-athlete-becomes-first-person-swim-californias-entire-900-mile-coast-2026-10-22/",
+          "https://www.reuters.com/sports/soccer/saka-injury-doesnt-look-good-says-arsenal-manager-arteta-2026-10-22/"
+        ],
+        "unavailable": [
+          "후보 파일은 비어 있어 시작 체크포인트 뒤 직접 원문 조사로 보완했다.",
+          "더쿠·펨코·인스티즈 검색에서 12시간 이내 여자아이돌의 실제 원본 장면을 확인하지 못했다.",
+          "연합뉴스TV 세 원문은 도구 접근 오류로 본문 확인이 되지 않아 후보에서 제외했다.",
+          "영상 연속 프레임을 확인하지 못한 경기 소재는 scene이 아니라 확정 기사 기반 major_news로만 보관했다."
+        ]
+      }
+    },
+    {
+      "event_key": "edwards-45-spoils-giannis-miami-debut-20261022",
+      "url": "https://www.reuters.com/sports/nba-roundup-wolves-anthony-edwards-puts-up-45-beat-giannis-heat--flm-2026-10-22/",
+      "title": "에드워즈 45점…마이애미 데뷔한 야니스의 첫날을 망쳤다",
+      "category": "메이저 스포츠",
+      "status": "reviewed",
+      "recorded_at": 1792661612,
+      "pick": {
+        "title": "에드워즈 45점…마이애미 데뷔한 야니스의 첫날을 망쳤다",
+        "category": "메이저 스포츠",
+        "url": "https://www.reuters.com/sports/nba-roundup-wolves-anthony-edwards-puts-up-45-beat-giannis-heat--flm-2026-10-22/",
+        "source": "Reuters·NBA",
+        "kind": "article",
+        "event_key": "edwards-45-spoils-giannis-miami-debut-20261022",
+        "why": "야니스의 마이애미 첫 경기와 에드워즈의 45점 폭발이 한 경기 안에서 정면 충돌한다.",
+        "angle": "야니스 데뷔 35점→에드워즈 45점·3점 9개→25점 차 패배로 전개한다.",
+        "why_now": "22일 NBA 개막전에서 에드워즈가 시즌 개막전 두 번째 40점 경기를 기록했다.",
+        "verified_at": 1792661612,
+        "published_at": 1792657860,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/nba-roundup-wolves-anthony-edwards-puts-up-45-beat-giannis-heat--flm-2026-10-22/",
+            "note": "에드워즈 45점·10리바운드, 야니스 35점, 미네소타의 131-106 승리를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/nba-roundup-wolves-anthony-edwards-puts-up-45-beat-giannis-heat--flm-2026-10-22/",
+            "label": "본문·수치 확인",
+            "kind": "source"
+          }
+        ],
+        "caution": "정규시즌 개막 한 경기 결과이며 시즌 전체 전망으로 확대하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "득점·3점슛·리바운드와 야니스의 마이애미 데뷔 결과를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 야니스의 마이애미 데뷔",
+            "2장: 에드워즈 45점·3점 9개",
+            "3장: 131-106 개막전 결과"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "2026년 10월 22일 여자아이돌 장면 공개 더쿠 인스티즈 루리웹",
+          "2026년 10월 22일 축구 화제 장면 펨코 공식 영상",
+          "October 22 2026 football viral moment official club video",
+          "October 22 2026 K-pop girl group viral scene official video",
+          "site:reuters.com 2026-10-22 latest world breaking news October 22 2026",
+          "site:reuters.com/sports 2026-10-22 football latest",
+          "site:apnews.com 2026-10-22 sports breaking latest",
+          "site:yonhapnewstv.co.kr 2026년 10월 22일 오후 속보",
+          "2026년 10월 22일 16시 17시 주요 뉴스 한국 새로운 발표",
+          "2026년 10월 22일 오후 여자 아이돌 논란 장면 공식",
+          "October 22 2026 Reuters just now latest sports NBA MLB football",
+          "October 22 2026 breaking news official announcement last hour",
+          "site:yna.co.kr/view/AKR20261022 17시",
+          "site:newsis.com/view/NISX20261022 17시 사회 경제 스포츠",
+          "site:sports.news.naver.com 2026.10.22 오타니 수술 르브론 레이커스",
+          "site:theqoo.net/hot 26/10/22 여자아이돌 영상",
+          "site:reuters.com/world 2026-10-22 October 22 2026 AM UTC",
+          "site:reuters.com/business 2026-10-22 October 22 2026 latest",
+          "site:reuters.com/technology 2026-10-22 October 22 2026 latest",
+          "site:reuters.com/sports 2026-10-22 October 22 2026 latest"
+        ],
+        "opened_urls": [
+          "https://www.reuters.com/business/healthcare-pharmaceuticals/france-reports-first-human-shamonda-virus-case-2026-10-22/",
+          "https://www.reuters.com/sports/nba-roundup-wolves-anthony-edwards-puts-up-45-beat-giannis-heat--flm-2026-10-22/",
+          "https://www.reuters.com/world/europe/russia-linked-hackers-used-decentralised-network-ukraine-cyberattack-eset-says-2026-10-22/",
+          "https://www.reuters.com/world/china/tsmc-seeks-factory-equipment-alternatives-thwart-chinas-rare-earths-grip-sources-2026-10-22/",
+          "https://www.reuters.com/sports/basketball/luka-doncic-lakers-open-with-dominant-win-vs-stephen-curry-warriors--flm-2026-10-22/",
+          "https://www.reuters.com/sports/china-hand-us-women-first-world-team-loss-since-2010-2026-10-22/",
+          "https://www.reuters.com/sports/soccer/more-laliga-clubs-join-pact-cap-ticket-prices-away-fans-2026-10-22/",
+          "https://www.reuters.com/technology/micron-introduces-quarterly-employee-bonus-tied-profits-2026-10-22/",
+          "https://www.reuters.com/business/environment/indonesias-fire-hotspots-ease-rain-still-not-enough-official-says-2026-10-22/",
+          "https://www.reuters.com/sports/soccer/commercial-income-powers-europes-richest-clubs-financial-divide-widens-study-2026-10-22/",
+          "https://www.reuters.com/sports/endurance-athlete-becomes-first-person-swim-californias-entire-900-mile-coast-2026-10-22/",
+          "https://www.reuters.com/sports/soccer/saka-injury-doesnt-look-good-says-arsenal-manager-arteta-2026-10-22/"
+        ],
+        "unavailable": [
+          "후보 파일은 비어 있어 시작 체크포인트 뒤 직접 원문 조사로 보완했다.",
+          "더쿠·펨코·인스티즈 검색에서 12시간 이내 여자아이돌의 실제 원본 장면을 확인하지 못했다.",
+          "연합뉴스TV 세 원문은 도구 접근 오류로 본문 확인이 되지 않아 후보에서 제외했다.",
+          "영상 연속 프레임을 확인하지 못한 경기 소재는 scene이 아니라 확정 기사 기반 major_news로만 보관했다."
+        ]
+      }
+    },
+    {
+      "event_key": "russia-linked-hackers-yggdrasil-first-state-use-20261022",
+      "url": "https://www.reuters.com/world/europe/russia-linked-hackers-used-decentralised-network-ukraine-cyberattack-eset-says-2026-10-22/",
+      "title": "국가 해커가 ‘주인 없는 인터넷망’에 숨었다…첫 확인",
+      "category": "시사",
+      "status": "reviewed",
+      "recorded_at": 1792661612,
+      "pick": {
+        "title": "국가 해커가 ‘주인 없는 인터넷망’에 숨었다…첫 확인",
+        "category": "시사",
+        "url": "https://www.reuters.com/world/europe/russia-linked-hackers-used-decentralised-network-ukraine-cyberattack-eset-says-2026-10-22/",
+        "source": "Reuters·ESET",
+        "kind": "article",
+        "event_key": "russia-linked-hackers-yggdrasil-first-state-use-20261022",
+        "why": "자원봉사자가 운영하는 분산망이 국가 연계 해커의 은신처가 된 첫 사례라 구조가 선명하다.",
+        "angle": "피싱 침투→문서 탈취→분산망 은닉→데이터 삭제의 순서로 보여준다.",
+        "why_now": "ESET가 22일 국가 연계 그룹의 Yggdrasil 사용을 처음 문서화했다고 공개했다.",
+        "verified_at": 1792661612,
+        "published_at": 1792660080,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/world/europe/russia-linked-hackers-used-decentralised-network-ukraine-cyberattack-eset-says-2026-10-22/",
+            "note": "우크라이나 곡물 물류사 침투·탈취·삭제와 Yggdrasil 은닉 방식을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/world/europe/russia-linked-hackers-used-decentralised-network-ukraine-cyberattack-eset-says-2026-10-22/",
+            "label": "본문·수치 확인",
+            "kind": "source"
+          }
+        ],
+        "caution": "피해 기업은 공개되지 않았고 초기 침투 그룹의 정확한 신원은 확정되지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "ESET의 공격 타임라인과 Sandworm 귀속, 분산망의 역할을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 국가 해커가 숨은 주인 없는 망",
+            "2장: 피싱부터 데이터 삭제까지",
+            "3장: 중앙 서버가 없어 추적이 어려운 이유"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "2026년 10월 22일 여자아이돌 장면 공개 더쿠 인스티즈 루리웹",
+          "2026년 10월 22일 축구 화제 장면 펨코 공식 영상",
+          "October 22 2026 football viral moment official club video",
+          "October 22 2026 K-pop girl group viral scene official video",
+          "site:reuters.com 2026-10-22 latest world breaking news October 22 2026",
+          "site:reuters.com/sports 2026-10-22 football latest",
+          "site:apnews.com 2026-10-22 sports breaking latest",
+          "site:yonhapnewstv.co.kr 2026년 10월 22일 오후 속보",
+          "2026년 10월 22일 16시 17시 주요 뉴스 한국 새로운 발표",
+          "2026년 10월 22일 오후 여자 아이돌 논란 장면 공식",
+          "October 22 2026 Reuters just now latest sports NBA MLB football",
+          "October 22 2026 breaking news official announcement last hour",
+          "site:yna.co.kr/view/AKR20261022 17시",
+          "site:newsis.com/view/NISX20261022 17시 사회 경제 스포츠",
+          "site:sports.news.naver.com 2026.10.22 오타니 수술 르브론 레이커스",
+          "site:theqoo.net/hot 26/10/22 여자아이돌 영상",
+          "site:reuters.com/world 2026-10-22 October 22 2026 AM UTC",
+          "site:reuters.com/business 2026-10-22 October 22 2026 latest",
+          "site:reuters.com/technology 2026-10-22 October 22 2026 latest",
+          "site:reuters.com/sports 2026-10-22 October 22 2026 latest"
+        ],
+        "opened_urls": [
+          "https://www.reuters.com/business/healthcare-pharmaceuticals/france-reports-first-human-shamonda-virus-case-2026-10-22/",
+          "https://www.reuters.com/sports/nba-roundup-wolves-anthony-edwards-puts-up-45-beat-giannis-heat--flm-2026-10-22/",
+          "https://www.reuters.com/world/europe/russia-linked-hackers-used-decentralised-network-ukraine-cyberattack-eset-says-2026-10-22/",
+          "https://www.reuters.com/world/china/tsmc-seeks-factory-equipment-alternatives-thwart-chinas-rare-earths-grip-sources-2026-10-22/",
+          "https://www.reuters.com/sports/basketball/luka-doncic-lakers-open-with-dominant-win-vs-stephen-curry-warriors--flm-2026-10-22/",
+          "https://www.reuters.com/sports/china-hand-us-women-first-world-team-loss-since-2010-2026-10-22/",
+          "https://www.reuters.com/sports/soccer/more-laliga-clubs-join-pact-cap-ticket-prices-away-fans-2026-10-22/",
+          "https://www.reuters.com/technology/micron-introduces-quarterly-employee-bonus-tied-profits-2026-10-22/",
+          "https://www.reuters.com/business/environment/indonesias-fire-hotspots-ease-rain-still-not-enough-official-says-2026-10-22/",
+          "https://www.reuters.com/sports/soccer/commercial-income-powers-europes-richest-clubs-financial-divide-widens-study-2026-10-22/",
+          "https://www.reuters.com/sports/endurance-athlete-becomes-first-person-swim-californias-entire-900-mile-coast-2026-10-22/",
+          "https://www.reuters.com/sports/soccer/saka-injury-doesnt-look-good-says-arsenal-manager-arteta-2026-10-22/"
+        ],
+        "unavailable": [
+          "후보 파일은 비어 있어 시작 체크포인트 뒤 직접 원문 조사로 보완했다.",
+          "더쿠·펨코·인스티즈 검색에서 12시간 이내 여자아이돌의 실제 원본 장면을 확인하지 못했다.",
+          "연합뉴스TV 세 원문은 도구 접근 오류로 본문 확인이 되지 않아 후보에서 제외했다.",
+          "영상 연속 프레임을 확인하지 못한 경기 소재는 scene이 아니라 확정 기사 기반 major_news로만 보관했다."
+        ]
+      }
+    },
+    {
+      "event_key": "tsmc-rare-earth-free-fab-equipment-search-20261022",
+      "url": "https://www.reuters.com/world/china/tsmc-seeks-factory-equipment-alternatives-thwart-chinas-rare-earths-grip-sources-2026-10-22/",
+      "title": "TSMC, 중국 희토류 없는 반도체 장비를 찾기 시작했다",
+      "category": "시사",
+      "status": "reviewed",
+      "recorded_at": 1792661612,
+      "pick": {
+        "title": "TSMC, 중국 희토류 없는 반도체 장비를 찾기 시작했다",
+        "category": "시사",
+        "url": "https://www.reuters.com/world/china/tsmc-seeks-factory-equipment-alternatives-thwart-chinas-rare-earths-grip-sources-2026-10-22/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "tsmc-rare-earth-free-fab-equipment-search-20261022",
+        "why": "세계 최대 파운드리가 중국 수출통제 때문에 공장 모터까지 바꾸려는 공급망 변화다.",
+        "angle": "희토류 자석 의존→중국 수출통제→희토류 없는 모터 조사로 이어간다.",
+        "why_now": "22일 TSMC가 장비 공급사에 대체 부품을 조사한 사실이 처음 보도됐다.",
+        "verified_at": 1792661612,
+        "published_at": 1792656900,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/world/china/tsmc-seeks-factory-equipment-alternatives-thwart-chinas-rare-earths-grip-sources-2026-10-22/",
+            "note": "희토류 없는 모터 조사와 공급 중단 우려, 아직 초기 단계라는 점을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/world/china/tsmc-seeks-factory-equipment-alternatives-thwart-chinas-rare-earths-grip-sources-2026-10-22/",
+            "label": "본문·수치 확인",
+            "kind": "source"
+          }
+        ],
+        "caution": "복수 관계자 보도이며 TSMC는 논평을 거부했고 광범위 도입은 아직 아니다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "공급사 조사, 희토류 자석 용도와 조기 단계 상태를 본문에서 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: TSMC가 찾는 희토류 없는 장비",
+            "2장: 공장 모터가 중국 통제에 묶이는 구조",
+            "3장: 조사 단계와 실제 도입 전제"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "2026년 10월 22일 여자아이돌 장면 공개 더쿠 인스티즈 루리웹",
+          "2026년 10월 22일 축구 화제 장면 펨코 공식 영상",
+          "October 22 2026 football viral moment official club video",
+          "October 22 2026 K-pop girl group viral scene official video",
+          "site:reuters.com 2026-10-22 latest world breaking news October 22 2026",
+          "site:reuters.com/sports 2026-10-22 football latest",
+          "site:apnews.com 2026-10-22 sports breaking latest",
+          "site:yonhapnewstv.co.kr 2026년 10월 22일 오후 속보",
+          "2026년 10월 22일 16시 17시 주요 뉴스 한국 새로운 발표",
+          "2026년 10월 22일 오후 여자 아이돌 논란 장면 공식",
+          "October 22 2026 Reuters just now latest sports NBA MLB football",
+          "October 22 2026 breaking news official announcement last hour",
+          "site:yna.co.kr/view/AKR20261022 17시",
+          "site:newsis.com/view/NISX20261022 17시 사회 경제 스포츠",
+          "site:sports.news.naver.com 2026.10.22 오타니 수술 르브론 레이커스",
+          "site:theqoo.net/hot 26/10/22 여자아이돌 영상",
+          "site:reuters.com/world 2026-10-22 October 22 2026 AM UTC",
+          "site:reuters.com/business 2026-10-22 October 22 2026 latest",
+          "site:reuters.com/technology 2026-10-22 October 22 2026 latest",
+          "site:reuters.com/sports 2026-10-22 October 22 2026 latest"
+        ],
+        "opened_urls": [
+          "https://www.reuters.com/business/healthcare-pharmaceuticals/france-reports-first-human-shamonda-virus-case-2026-10-22/",
+          "https://www.reuters.com/sports/nba-roundup-wolves-anthony-edwards-puts-up-45-beat-giannis-heat--flm-2026-10-22/",
+          "https://www.reuters.com/world/europe/russia-linked-hackers-used-decentralised-network-ukraine-cyberattack-eset-says-2026-10-22/",
+          "https://www.reuters.com/world/china/tsmc-seeks-factory-equipment-alternatives-thwart-chinas-rare-earths-grip-sources-2026-10-22/",
+          "https://www.reuters.com/sports/basketball/luka-doncic-lakers-open-with-dominant-win-vs-stephen-curry-warriors--flm-2026-10-22/",
+          "https://www.reuters.com/sports/china-hand-us-women-first-world-team-loss-since-2010-2026-10-22/",
+          "https://www.reuters.com/sports/soccer/more-laliga-clubs-join-pact-cap-ticket-prices-away-fans-2026-10-22/",
+          "https://www.reuters.com/technology/micron-introduces-quarterly-employee-bonus-tied-profits-2026-10-22/",
+          "https://www.reuters.com/business/environment/indonesias-fire-hotspots-ease-rain-still-not-enough-official-says-2026-10-22/",
+          "https://www.reuters.com/sports/soccer/commercial-income-powers-europes-richest-clubs-financial-divide-widens-study-2026-10-22/",
+          "https://www.reuters.com/sports/endurance-athlete-becomes-first-person-swim-californias-entire-900-mile-coast-2026-10-22/",
+          "https://www.reuters.com/sports/soccer/saka-injury-doesnt-look-good-says-arsenal-manager-arteta-2026-10-22/"
+        ],
+        "unavailable": [
+          "후보 파일은 비어 있어 시작 체크포인트 뒤 직접 원문 조사로 보완했다.",
+          "더쿠·펨코·인스티즈 검색에서 12시간 이내 여자아이돌의 실제 원본 장면을 확인하지 못했다.",
+          "연합뉴스TV 세 원문은 도구 접근 오류로 본문 확인이 되지 않아 후보에서 제외했다.",
+          "영상 연속 프레임을 확인하지 못한 경기 소재는 scene이 아니라 확정 기사 기반 major_news로만 보관했다."
+        ]
+      }
+    },
+    {
+      "event_key": "lakers-post-lebron-kessler-12-for-12-ten-dunks-20261022",
+      "url": "https://www.reuters.com/sports/basketball/luka-doncic-lakers-open-with-dominant-win-vs-stephen-curry-warriors--flm-2026-10-22/",
+      "title": "르브론 떠난 레이커스 첫 경기…새 센터가 12개 던져 12개 넣었다",
+      "category": "메이저 스포츠",
+      "status": "reviewed",
+      "recorded_at": 1792661612,
+      "pick": {
+        "title": "르브론 떠난 레이커스 첫 경기…새 센터가 12개 던져 12개 넣었다",
+        "category": "메이저 스포츠",
+        "url": "https://www.reuters.com/sports/basketball/luka-doncic-lakers-open-with-dominant-win-vs-stephen-curry-warriors--flm-2026-10-22/",
+        "source": "Reuters·NBA",
+        "kind": "article",
+        "event_key": "lakers-post-lebron-kessler-12-for-12-ten-dunks-20261022",
+        "why": "르브론 이적 뒤 첫 경기에서 새 센터의 100% 야투와 10덩크가 새 팀의 변화를 숫자로 보여준다.",
+        "angle": "르브론 없는 첫날→케슬러 12/12·10덩크→3쿼터 36-16으로 이어간다.",
+        "why_now": "22일 레이커스가 9명의 새 선수와 치른 개막전에서 골든스테이트를 127-105로 이겼다.",
+        "verified_at": 1792661612,
+        "published_at": 1792645260,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/basketball/luka-doncic-lakers-open-with-dominant-win-vs-stephen-curry-warriors--flm-2026-10-22/",
+            "note": "케슬러 26점 12/12·10덩크, 돈치치 28점, 3쿼터 격차를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/basketball/luka-doncic-lakers-open-with-dominant-win-vs-stephen-curry-warriors--flm-2026-10-22/",
+            "label": "본문·수치 확인",
+            "kind": "source"
+          }
+        ],
+        "caution": "기사 본문의 사진·수치 확인이며 덩크 연속 영상을 직접 본 것은 아니다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "레이커스 새 구성과 케슬러의 무결점 야투, 결정적 3쿼터를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 르브론 떠난 뒤 첫 경기",
+            "2장: 케슬러 12개 시도 전부 성공",
+            "3장: 커리 3쿼터 3점과 127-105"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "2026년 10월 22일 여자아이돌 장면 공개 더쿠 인스티즈 루리웹",
+          "2026년 10월 22일 축구 화제 장면 펨코 공식 영상",
+          "October 22 2026 football viral moment official club video",
+          "October 22 2026 K-pop girl group viral scene official video",
+          "site:reuters.com 2026-10-22 latest world breaking news October 22 2026",
+          "site:reuters.com/sports 2026-10-22 football latest",
+          "site:apnews.com 2026-10-22 sports breaking latest",
+          "site:yonhapnewstv.co.kr 2026년 10월 22일 오후 속보",
+          "2026년 10월 22일 16시 17시 주요 뉴스 한국 새로운 발표",
+          "2026년 10월 22일 오후 여자 아이돌 논란 장면 공식",
+          "October 22 2026 Reuters just now latest sports NBA MLB football",
+          "October 22 2026 breaking news official announcement last hour",
+          "site:yna.co.kr/view/AKR20261022 17시",
+          "site:newsis.com/view/NISX20261022 17시 사회 경제 스포츠",
+          "site:sports.news.naver.com 2026.10.22 오타니 수술 르브론 레이커스",
+          "site:theqoo.net/hot 26/10/22 여자아이돌 영상",
+          "site:reuters.com/world 2026-10-22 October 22 2026 AM UTC",
+          "site:reuters.com/business 2026-10-22 October 22 2026 latest",
+          "site:reuters.com/technology 2026-10-22 October 22 2026 latest",
+          "site:reuters.com/sports 2026-10-22 October 22 2026 latest"
+        ],
+        "opened_urls": [
+          "https://www.reuters.com/business/healthcare-pharmaceuticals/france-reports-first-human-shamonda-virus-case-2026-10-22/",
+          "https://www.reuters.com/sports/nba-roundup-wolves-anthony-edwards-puts-up-45-beat-giannis-heat--flm-2026-10-22/",
+          "https://www.reuters.com/world/europe/russia-linked-hackers-used-decentralised-network-ukraine-cyberattack-eset-says-2026-10-22/",
+          "https://www.reuters.com/world/china/tsmc-seeks-factory-equipment-alternatives-thwart-chinas-rare-earths-grip-sources-2026-10-22/",
+          "https://www.reuters.com/sports/basketball/luka-doncic-lakers-open-with-dominant-win-vs-stephen-curry-warriors--flm-2026-10-22/",
+          "https://www.reuters.com/sports/china-hand-us-women-first-world-team-loss-since-2010-2026-10-22/",
+          "https://www.reuters.com/sports/soccer/more-laliga-clubs-join-pact-cap-ticket-prices-away-fans-2026-10-22/",
+          "https://www.reuters.com/technology/micron-introduces-quarterly-employee-bonus-tied-profits-2026-10-22/",
+          "https://www.reuters.com/business/environment/indonesias-fire-hotspots-ease-rain-still-not-enough-official-says-2026-10-22/",
+          "https://www.reuters.com/sports/soccer/commercial-income-powers-europes-richest-clubs-financial-divide-widens-study-2026-10-22/",
+          "https://www.reuters.com/sports/endurance-athlete-becomes-first-person-swim-californias-entire-900-mile-coast-2026-10-22/",
+          "https://www.reuters.com/sports/soccer/saka-injury-doesnt-look-good-says-arsenal-manager-arteta-2026-10-22/"
+        ],
+        "unavailable": [
+          "후보 파일은 비어 있어 시작 체크포인트 뒤 직접 원문 조사로 보완했다.",
+          "더쿠·펨코·인스티즈 검색에서 12시간 이내 여자아이돌의 실제 원본 장면을 확인하지 못했다.",
+          "연합뉴스TV 세 원문은 도구 접근 오류로 본문 확인이 되지 않아 후보에서 제외했다.",
+          "영상 연속 프레임을 확인하지 못한 경기 소재는 scene이 아니라 확정 기사 기반 major_news로만 보관했다."
+        ]
+      }
+    },
+    {
+      "event_key": "china-women-gymnastics-end-us-world-team-streak-20261022",
+      "url": "https://www.reuters.com/sports/china-hand-us-women-first-world-team-loss-since-2010-2026-10-22/",
+      "title": "중국 체조, 0.233점 차로 미국의 15년 연속을 끊었다",
+      "category": "메이저 스포츠",
+      "status": "reviewed",
+      "recorded_at": 1792661612,
+      "pick": {
+        "title": "중국 체조, 0.233점 차로 미국의 15년 연속을 끊었다",
+        "category": "메이저 스포츠",
+        "url": "https://www.reuters.com/sports/china-hand-us-women-first-world-team-loss-since-2010-2026-10-22/",
+        "source": "Reuters·세계체조선수권",
+        "kind": "article",
+        "event_key": "china-women-gymnastics-end-us-world-team-streak-20261022",
+        "why": "마지막 마루 연기 하나와 0.233점이 미국의 장기 지배를 끝낸 순간이라 결과가 또렷하다.",
+        "angle": "마지막에 필요했던 12.600→추치위안 12.833→중국 우승으로 전개한다.",
+        "why_now": "22일 보도된 세계선수권 결승에서 중국이 미국의 2010년 이후 첫 패배를 만들었다.",
+        "verified_at": 1792661612,
+        "published_at": 1792640400,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/china-hand-us-women-first-world-team-loss-since-2010-2026-10-22/",
+            "note": "중국 165.764, 미국 165.531, 마지막 마루 점수와 올림픽 출전권을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/china-hand-us-women-first-world-team-loss-since-2010-2026-10-22/",
+            "label": "본문·수치 확인",
+            "kind": "source"
+          }
+        ],
+        "caution": "기사 제목은 ‘2011년 이후 첫 패배’로 정리되며 본문은 2010년 이후로 표현한다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "최종 점수와 마지막 종목의 필요 점수·실제 점수를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 0.233점 차 우승",
+            "2장: 마지막 마루 12.833",
+            "3장: 미국의 장기 연속 우승 종료"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "2026년 10월 22일 여자아이돌 장면 공개 더쿠 인스티즈 루리웹",
+          "2026년 10월 22일 축구 화제 장면 펨코 공식 영상",
+          "October 22 2026 football viral moment official club video",
+          "October 22 2026 K-pop girl group viral scene official video",
+          "site:reuters.com 2026-10-22 latest world breaking news October 22 2026",
+          "site:reuters.com/sports 2026-10-22 football latest",
+          "site:apnews.com 2026-10-22 sports breaking latest",
+          "site:yonhapnewstv.co.kr 2026년 10월 22일 오후 속보",
+          "2026년 10월 22일 16시 17시 주요 뉴스 한국 새로운 발표",
+          "2026년 10월 22일 오후 여자 아이돌 논란 장면 공식",
+          "October 22 2026 Reuters just now latest sports NBA MLB football",
+          "October 22 2026 breaking news official announcement last hour",
+          "site:yna.co.kr/view/AKR20261022 17시",
+          "site:newsis.com/view/NISX20261022 17시 사회 경제 스포츠",
+          "site:sports.news.naver.com 2026.10.22 오타니 수술 르브론 레이커스",
+          "site:theqoo.net/hot 26/10/22 여자아이돌 영상",
+          "site:reuters.com/world 2026-10-22 October 22 2026 AM UTC",
+          "site:reuters.com/business 2026-10-22 October 22 2026 latest",
+          "site:reuters.com/technology 2026-10-22 October 22 2026 latest",
+          "site:reuters.com/sports 2026-10-22 October 22 2026 latest"
+        ],
+        "opened_urls": [
+          "https://www.reuters.com/business/healthcare-pharmaceuticals/france-reports-first-human-shamonda-virus-case-2026-10-22/",
+          "https://www.reuters.com/sports/nba-roundup-wolves-anthony-edwards-puts-up-45-beat-giannis-heat--flm-2026-10-22/",
+          "https://www.reuters.com/world/europe/russia-linked-hackers-used-decentralised-network-ukraine-cyberattack-eset-says-2026-10-22/",
+          "https://www.reuters.com/world/china/tsmc-seeks-factory-equipment-alternatives-thwart-chinas-rare-earths-grip-sources-2026-10-22/",
+          "https://www.reuters.com/sports/basketball/luka-doncic-lakers-open-with-dominant-win-vs-stephen-curry-warriors--flm-2026-10-22/",
+          "https://www.reuters.com/sports/china-hand-us-women-first-world-team-loss-since-2010-2026-10-22/",
+          "https://www.reuters.com/sports/soccer/more-laliga-clubs-join-pact-cap-ticket-prices-away-fans-2026-10-22/",
+          "https://www.reuters.com/technology/micron-introduces-quarterly-employee-bonus-tied-profits-2026-10-22/",
+          "https://www.reuters.com/business/environment/indonesias-fire-hotspots-ease-rain-still-not-enough-official-says-2026-10-22/",
+          "https://www.reuters.com/sports/soccer/commercial-income-powers-europes-richest-clubs-financial-divide-widens-study-2026-10-22/",
+          "https://www.reuters.com/sports/endurance-athlete-becomes-first-person-swim-californias-entire-900-mile-coast-2026-10-22/",
+          "https://www.reuters.com/sports/soccer/saka-injury-doesnt-look-good-says-arsenal-manager-arteta-2026-10-22/"
+        ],
+        "unavailable": [
+          "후보 파일은 비어 있어 시작 체크포인트 뒤 직접 원문 조사로 보완했다.",
+          "더쿠·펨코·인스티즈 검색에서 12시간 이내 여자아이돌의 실제 원본 장면을 확인하지 못했다.",
+          "연합뉴스TV 세 원문은 도구 접근 오류로 본문 확인이 되지 않아 후보에서 제외했다.",
+          "영상 연속 프레임을 확인하지 못한 경기 소재는 scene이 아니라 확정 기사 기반 major_news로만 보관했다."
+        ]
+      }
+    },
+    {
+      "event_key": "laliga-away-ticket-cap-30-euro-17-clubs-20261022",
+      "url": "https://www.reuters.com/sports/soccer/more-laliga-clubs-join-pact-cap-ticket-prices-away-fans-2026-10-22/",
+      "title": "라리가 원정석 30유로 상한…20개 구단 중 17곳 참여",
+      "category": "축구",
+      "status": "reviewed",
+      "recorded_at": 1792661612,
+      "pick": {
+        "title": "라리가 원정석 30유로 상한…20개 구단 중 17곳 참여",
+        "category": "축구",
+        "url": "https://www.reuters.com/sports/soccer/more-laliga-clubs-join-pact-cap-ticket-prices-away-fans-2026-10-22/",
+        "source": "Reuters·LaLiga",
+        "kind": "article",
+        "event_key": "laliga-away-ticket-cap-30-euro-17-clubs-20261022",
+        "why": "축구팬이 체감하는 원정 비용을 30유로로 묶고 실제 판매가 33% 늘어난 변화다.",
+        "angle": "65유로 보이콧 사례→30유로 상한→17개 구단 참여와 판매 증가를 비교한다.",
+        "why_now": "라리가가 22일 세 구단 추가 참여로 전체 20곳 중 17곳이 됐다고 확인했다.",
+        "verified_at": 1792661612,
+        "published_at": 1792660020,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/soccer/more-laliga-clubs-join-pact-cap-ticket-prices-away-fans-2026-10-22/",
+            "note": "30유로 상한, 최소 300장, 경기당 평균 판매 33% 증가를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/soccer/more-laliga-clubs-join-pact-cap-ticket-prices-away-fans-2026-10-22/",
+            "label": "본문·수치 확인",
+            "kind": "source"
+          }
+        ],
+        "caution": "새로 참여한 세 구단의 이름은 공개되지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "상한액·참여 구단 수·최소 배정량·판매 증가율을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 원정석 30유로 상한",
+            "2장: 20개 중 17개 구단 참여",
+            "3장: 판매 33% 증가와 타 리그 비교"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "2026년 10월 22일 여자아이돌 장면 공개 더쿠 인스티즈 루리웹",
+          "2026년 10월 22일 축구 화제 장면 펨코 공식 영상",
+          "October 22 2026 football viral moment official club video",
+          "October 22 2026 K-pop girl group viral scene official video",
+          "site:reuters.com 2026-10-22 latest world breaking news October 22 2026",
+          "site:reuters.com/sports 2026-10-22 football latest",
+          "site:apnews.com 2026-10-22 sports breaking latest",
+          "site:yonhapnewstv.co.kr 2026년 10월 22일 오후 속보",
+          "2026년 10월 22일 16시 17시 주요 뉴스 한국 새로운 발표",
+          "2026년 10월 22일 오후 여자 아이돌 논란 장면 공식",
+          "October 22 2026 Reuters just now latest sports NBA MLB football",
+          "October 22 2026 breaking news official announcement last hour",
+          "site:yna.co.kr/view/AKR20261022 17시",
+          "site:newsis.com/view/NISX20261022 17시 사회 경제 스포츠",
+          "site:sports.news.naver.com 2026.10.22 오타니 수술 르브론 레이커스",
+          "site:theqoo.net/hot 26/10/22 여자아이돌 영상",
+          "site:reuters.com/world 2026-10-22 October 22 2026 AM UTC",
+          "site:reuters.com/business 2026-10-22 October 22 2026 latest",
+          "site:reuters.com/technology 2026-10-22 October 22 2026 latest",
+          "site:reuters.com/sports 2026-10-22 October 22 2026 latest"
+        ],
+        "opened_urls": [
+          "https://www.reuters.com/business/healthcare-pharmaceuticals/france-reports-first-human-shamonda-virus-case-2026-10-22/",
+          "https://www.reuters.com/sports/nba-roundup-wolves-anthony-edwards-puts-up-45-beat-giannis-heat--flm-2026-10-22/",
+          "https://www.reuters.com/world/europe/russia-linked-hackers-used-decentralised-network-ukraine-cyberattack-eset-says-2026-10-22/",
+          "https://www.reuters.com/world/china/tsmc-seeks-factory-equipment-alternatives-thwart-chinas-rare-earths-grip-sources-2026-10-22/",
+          "https://www.reuters.com/sports/basketball/luka-doncic-lakers-open-with-dominant-win-vs-stephen-curry-warriors--flm-2026-10-22/",
+          "https://www.reuters.com/sports/china-hand-us-women-first-world-team-loss-since-2010-2026-10-22/",
+          "https://www.reuters.com/sports/soccer/more-laliga-clubs-join-pact-cap-ticket-prices-away-fans-2026-10-22/",
+          "https://www.reuters.com/technology/micron-introduces-quarterly-employee-bonus-tied-profits-2026-10-22/",
+          "https://www.reuters.com/business/environment/indonesias-fire-hotspots-ease-rain-still-not-enough-official-says-2026-10-22/",
+          "https://www.reuters.com/sports/soccer/commercial-income-powers-europes-richest-clubs-financial-divide-widens-study-2026-10-22/",
+          "https://www.reuters.com/sports/endurance-athlete-becomes-first-person-swim-californias-entire-900-mile-coast-2026-10-22/",
+          "https://www.reuters.com/sports/soccer/saka-injury-doesnt-look-good-says-arsenal-manager-arteta-2026-10-22/"
+        ],
+        "unavailable": [
+          "후보 파일은 비어 있어 시작 체크포인트 뒤 직접 원문 조사로 보완했다.",
+          "더쿠·펨코·인스티즈 검색에서 12시간 이내 여자아이돌의 실제 원본 장면을 확인하지 못했다.",
+          "연합뉴스TV 세 원문은 도구 접근 오류로 본문 확인이 되지 않아 후보에서 제외했다.",
+          "영상 연속 프레임을 확인하지 못한 경기 소재는 scene이 아니라 확정 기사 기반 major_news로만 보관했다."
+        ]
+      }
+    },
+    {
+      "event_key": "micron-quarterly-profit-bonus-global-employees-20261022",
+      "url": "https://www.reuters.com/technology/micron-introduces-quarterly-employee-bonus-tied-profits-2026-10-22/",
+      "title": "마이크론, 전 세계 직원에게 분기 이익보너스 신설",
+      "category": "시사",
+      "status": "reviewed",
+      "recorded_at": 1792661612,
+      "pick": {
+        "title": "마이크론, 전 세계 직원에게 분기 이익보너스 신설",
+        "category": "시사",
+        "url": "https://www.reuters.com/technology/micron-introduces-quarterly-employee-bonus-tied-profits-2026-10-22/",
+        "source": "Reuters·Micron",
+        "kind": "article",
+        "event_key": "micron-quarterly-profit-bonus-global-employees-20261022",
+        "why": "반도체 호황의 이익을 직원에게 현금과 주식으로 분기마다 나누는 구체적 보상 변화다.",
+        "angle": "노조의 이익공유 요구→현금 50%·주식 50%→대만 복지 확대를 잇는다.",
+        "why_now": "마이크론이 22일 전 세계 직원 대상 새 분기 보너스 제도를 발표했다.",
+        "verified_at": 1792661612,
+        "published_at": 1792656660,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/technology/micron-introduces-quarterly-employee-bonus-tied-profits-2026-10-22/",
+            "note": "기존 연간 보너스에 추가, 현금·주식 반반, 대만 퇴직기여·유급휴가 확대를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/technology/micron-introduces-quarterly-employee-bonus-tied-profits-2026-10-22/",
+            "label": "본문·수치 확인",
+            "kind": "source"
+          }
+        ],
+        "caution": "분기별 실제 지급액과 수혜 인원은 기사에 공개되지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "보너스 구조와 대만 직원 복지 변경을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 분기 이익보너스 신설",
+            "2장: 현금 50%·주식 50%",
+            "3장: 퇴직기여 10%와 유급휴가 3일"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "2026년 10월 22일 여자아이돌 장면 공개 더쿠 인스티즈 루리웹",
+          "2026년 10월 22일 축구 화제 장면 펨코 공식 영상",
+          "October 22 2026 football viral moment official club video",
+          "October 22 2026 K-pop girl group viral scene official video",
+          "site:reuters.com 2026-10-22 latest world breaking news October 22 2026",
+          "site:reuters.com/sports 2026-10-22 football latest",
+          "site:apnews.com 2026-10-22 sports breaking latest",
+          "site:yonhapnewstv.co.kr 2026년 10월 22일 오후 속보",
+          "2026년 10월 22일 16시 17시 주요 뉴스 한국 새로운 발표",
+          "2026년 10월 22일 오후 여자 아이돌 논란 장면 공식",
+          "October 22 2026 Reuters just now latest sports NBA MLB football",
+          "October 22 2026 breaking news official announcement last hour",
+          "site:yna.co.kr/view/AKR20261022 17시",
+          "site:newsis.com/view/NISX20261022 17시 사회 경제 스포츠",
+          "site:sports.news.naver.com 2026.10.22 오타니 수술 르브론 레이커스",
+          "site:theqoo.net/hot 26/10/22 여자아이돌 영상",
+          "site:reuters.com/world 2026-10-22 October 22 2026 AM UTC",
+          "site:reuters.com/business 2026-10-22 October 22 2026 latest",
+          "site:reuters.com/technology 2026-10-22 October 22 2026 latest",
+          "site:reuters.com/sports 2026-10-22 October 22 2026 latest"
+        ],
+        "opened_urls": [
+          "https://www.reuters.com/business/healthcare-pharmaceuticals/france-reports-first-human-shamonda-virus-case-2026-10-22/",
+          "https://www.reuters.com/sports/nba-roundup-wolves-anthony-edwards-puts-up-45-beat-giannis-heat--flm-2026-10-22/",
+          "https://www.reuters.com/world/europe/russia-linked-hackers-used-decentralised-network-ukraine-cyberattack-eset-says-2026-10-22/",
+          "https://www.reuters.com/world/china/tsmc-seeks-factory-equipment-alternatives-thwart-chinas-rare-earths-grip-sources-2026-10-22/",
+          "https://www.reuters.com/sports/basketball/luka-doncic-lakers-open-with-dominant-win-vs-stephen-curry-warriors--flm-2026-10-22/",
+          "https://www.reuters.com/sports/china-hand-us-women-first-world-team-loss-since-2010-2026-10-22/",
+          "https://www.reuters.com/sports/soccer/more-laliga-clubs-join-pact-cap-ticket-prices-away-fans-2026-10-22/",
+          "https://www.reuters.com/technology/micron-introduces-quarterly-employee-bonus-tied-profits-2026-10-22/",
+          "https://www.reuters.com/business/environment/indonesias-fire-hotspots-ease-rain-still-not-enough-official-says-2026-10-22/",
+          "https://www.reuters.com/sports/soccer/commercial-income-powers-europes-richest-clubs-financial-divide-widens-study-2026-10-22/",
+          "https://www.reuters.com/sports/endurance-athlete-becomes-first-person-swim-californias-entire-900-mile-coast-2026-10-22/",
+          "https://www.reuters.com/sports/soccer/saka-injury-doesnt-look-good-says-arsenal-manager-arteta-2026-10-22/"
+        ],
+        "unavailable": [
+          "후보 파일은 비어 있어 시작 체크포인트 뒤 직접 원문 조사로 보완했다.",
+          "더쿠·펨코·인스티즈 검색에서 12시간 이내 여자아이돌의 실제 원본 장면을 확인하지 못했다.",
+          "연합뉴스TV 세 원문은 도구 접근 오류로 본문 확인이 되지 않아 후보에서 제외했다.",
+          "영상 연속 프레임을 확인하지 못한 경기 소재는 scene이 아니라 확정 기사 기반 major_news로만 보관했다."
+        ]
+      }
+    },
+    {
+      "event_key": "indonesia-fires-565-hotspots-69000-personnel-20261022",
+      "url": "https://www.reuters.com/business/environment/indonesias-fire-hotspots-ease-rain-still-not-enough-official-says-2026-10-22/",
+      "title": "인도네시아 산불 565곳…진화 인력 6만9천명·항공기 50대",
+      "category": "시사",
+      "status": "reviewed",
+      "recorded_at": 1792661612,
+      "pick": {
+        "title": "인도네시아 산불 565곳…진화 인력 6만9천명·항공기 50대",
+        "category": "시사",
+        "url": "https://www.reuters.com/business/environment/indonesias-fire-hotspots-ease-rain-still-not-enough-official-says-2026-10-22/",
+        "source": "Reuters·인도네시아 재난청",
+        "kind": "article",
+        "event_key": "indonesia-fires-565-hotspots-69000-personnel-20261022",
+        "why": "산불이 줄었다는 숫자 뒤에도 6만9천명과 항공기 50대가 투입된 실제 위기 규모가 크다.",
+        "angle": "1,200곳→565곳 감소 뒤에도 고르지 않은 비와 학생 시위가 이어지는 반전을 잡는다.",
+        "why_now": "재난청이 22일 최신 핫스폿·진화 규모와 재발 위험을 공개했다.",
+        "verified_at": 1792661612,
+        "published_at": 1792657920,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/business/environment/indonesias-fire-hotspots-ease-rain-still-not-enough-official-says-2026-10-22/",
+            "note": "565개 핫스폿, 인력 6만9천명, 항공기 약 50대, 학생 시위를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/business/environment/indonesias-fire-hotspots-ease-rain-still-not-enough-official-says-2026-10-22/",
+            "label": "본문·수치 확인",
+            "kind": "source"
+          }
+        ],
+        "caution": "핫스폿은 화재 건수와 완전히 같지 않으며 지역별 추세가 불균등하다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "최신 핫스폿 수, 배치 인력·항공기와 당국 경고를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 산불 핫스폿 565곳",
+            "2장: 인력 6만9천명·항공기 50대",
+            "3장: 비가 와도 끝나지 않은 이유"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "2026년 10월 22일 여자아이돌 장면 공개 더쿠 인스티즈 루리웹",
+          "2026년 10월 22일 축구 화제 장면 펨코 공식 영상",
+          "October 22 2026 football viral moment official club video",
+          "October 22 2026 K-pop girl group viral scene official video",
+          "site:reuters.com 2026-10-22 latest world breaking news October 22 2026",
+          "site:reuters.com/sports 2026-10-22 football latest",
+          "site:apnews.com 2026-10-22 sports breaking latest",
+          "site:yonhapnewstv.co.kr 2026년 10월 22일 오후 속보",
+          "2026년 10월 22일 16시 17시 주요 뉴스 한국 새로운 발표",
+          "2026년 10월 22일 오후 여자 아이돌 논란 장면 공식",
+          "October 22 2026 Reuters just now latest sports NBA MLB football",
+          "October 22 2026 breaking news official announcement last hour",
+          "site:yna.co.kr/view/AKR20261022 17시",
+          "site:newsis.com/view/NISX20261022 17시 사회 경제 스포츠",
+          "site:sports.news.naver.com 2026.10.22 오타니 수술 르브론 레이커스",
+          "site:theqoo.net/hot 26/10/22 여자아이돌 영상",
+          "site:reuters.com/world 2026-10-22 October 22 2026 AM UTC",
+          "site:reuters.com/business 2026-10-22 October 22 2026 latest",
+          "site:reuters.com/technology 2026-10-22 October 22 2026 latest",
+          "site:reuters.com/sports 2026-10-22 October 22 2026 latest"
+        ],
+        "opened_urls": [
+          "https://www.reuters.com/business/healthcare-pharmaceuticals/france-reports-first-human-shamonda-virus-case-2026-10-22/",
+          "https://www.reuters.com/sports/nba-roundup-wolves-anthony-edwards-puts-up-45-beat-giannis-heat--flm-2026-10-22/",
+          "https://www.reuters.com/world/europe/russia-linked-hackers-used-decentralised-network-ukraine-cyberattack-eset-says-2026-10-22/",
+          "https://www.reuters.com/world/china/tsmc-seeks-factory-equipment-alternatives-thwart-chinas-rare-earths-grip-sources-2026-10-22/",
+          "https://www.reuters.com/sports/basketball/luka-doncic-lakers-open-with-dominant-win-vs-stephen-curry-warriors--flm-2026-10-22/",
+          "https://www.reuters.com/sports/china-hand-us-women-first-world-team-loss-since-2010-2026-10-22/",
+          "https://www.reuters.com/sports/soccer/more-laliga-clubs-join-pact-cap-ticket-prices-away-fans-2026-10-22/",
+          "https://www.reuters.com/technology/micron-introduces-quarterly-employee-bonus-tied-profits-2026-10-22/",
+          "https://www.reuters.com/business/environment/indonesias-fire-hotspots-ease-rain-still-not-enough-official-says-2026-10-22/",
+          "https://www.reuters.com/sports/soccer/commercial-income-powers-europes-richest-clubs-financial-divide-widens-study-2026-10-22/",
+          "https://www.reuters.com/sports/endurance-athlete-becomes-first-person-swim-californias-entire-900-mile-coast-2026-10-22/",
+          "https://www.reuters.com/sports/soccer/saka-injury-doesnt-look-good-says-arsenal-manager-arteta-2026-10-22/"
+        ],
+        "unavailable": [
+          "후보 파일은 비어 있어 시작 체크포인트 뒤 직접 원문 조사로 보완했다.",
+          "더쿠·펨코·인스티즈 검색에서 12시간 이내 여자아이돌의 실제 원본 장면을 확인하지 못했다.",
+          "연합뉴스TV 세 원문은 도구 접근 오류로 본문 확인이 되지 않아 후보에서 제외했다.",
+          "영상 연속 프레임을 확인하지 못한 경기 소재는 scene이 아니라 확정 기사 기반 major_news로만 보관했다."
+        ]
+      }
+    },
+    {
+      "event_key": "europe-top10-clubs-8point4b-commercial-income-20261022",
+      "url": "https://www.reuters.com/sports/soccer/commercial-income-powers-europes-richest-clubs-financial-divide-widens-study-2026-10-22/",
+      "title": "유럽 최고부자 축구단 10곳, 매출 3배…절반은 ‘상업 수입’",
+      "category": "축구",
+      "status": "reviewed",
+      "recorded_at": 1792661612,
+      "pick": {
+        "title": "유럽 최고부자 축구단 10곳, 매출 3배…절반은 ‘상업 수입’",
+        "category": "축구",
+        "url": "https://www.reuters.com/sports/soccer/commercial-income-powers-europes-richest-clubs-financial-divide-widens-study-2026-10-22/",
+        "source": "Reuters·Football Benchmark",
+        "kind": "article",
+        "event_key": "europe-top10-clubs-8point4b-commercial-income-20261022",
+        "why": "중계권보다 광고·상업 활동이 더 커진 빅클럽의 돈 구조를 16년 비교로 보여준다.",
+        "angle": "10개 구단 매출 27억→84억유로, 상업 비중 32%→49%를 대비한다.",
+        "why_now": "22일 새 연구가 빅클럽과 나머지의 격차 확대를 수치로 공개했다.",
+        "verified_at": 1792661612,
+        "published_at": 1792649340,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/soccer/commercial-income-powers-europes-richest-clubs-financial-divide-widens-study-2026-10-22/",
+            "note": "상위 10개 매출 84억유로, 상업 비중 49%, 이탈리아 톱10 0곳을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/soccer/commercial-income-powers-europes-richest-clubs-financial-divide-widens-study-2026-10-22/",
+            "label": "본문·수치 확인",
+            "kind": "source"
+          }
+        ],
+        "caution": "상업 수입 범주는 후원만이 아니라 기타 수입도 포함한다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "UEFA·Deloitte 기반 연구의 16년 매출·비중 변화를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 톱10 매출 84억유로",
+            "2장: 상업 수입 49%로 1위",
+            "3장: 잉글랜드 6팀·이탈리아 0팀"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "2026년 10월 22일 여자아이돌 장면 공개 더쿠 인스티즈 루리웹",
+          "2026년 10월 22일 축구 화제 장면 펨코 공식 영상",
+          "October 22 2026 football viral moment official club video",
+          "October 22 2026 K-pop girl group viral scene official video",
+          "site:reuters.com 2026-10-22 latest world breaking news October 22 2026",
+          "site:reuters.com/sports 2026-10-22 football latest",
+          "site:apnews.com 2026-10-22 sports breaking latest",
+          "site:yonhapnewstv.co.kr 2026년 10월 22일 오후 속보",
+          "2026년 10월 22일 16시 17시 주요 뉴스 한국 새로운 발표",
+          "2026년 10월 22일 오후 여자 아이돌 논란 장면 공식",
+          "October 22 2026 Reuters just now latest sports NBA MLB football",
+          "October 22 2026 breaking news official announcement last hour",
+          "site:yna.co.kr/view/AKR20261022 17시",
+          "site:newsis.com/view/NISX20261022 17시 사회 경제 스포츠",
+          "site:sports.news.naver.com 2026.10.22 오타니 수술 르브론 레이커스",
+          "site:theqoo.net/hot 26/10/22 여자아이돌 영상",
+          "site:reuters.com/world 2026-10-22 October 22 2026 AM UTC",
+          "site:reuters.com/business 2026-10-22 October 22 2026 latest",
+          "site:reuters.com/technology 2026-10-22 October 22 2026 latest",
+          "site:reuters.com/sports 2026-10-22 October 22 2026 latest"
+        ],
+        "opened_urls": [
+          "https://www.reuters.com/business/healthcare-pharmaceuticals/france-reports-first-human-shamonda-virus-case-2026-10-22/",
+          "https://www.reuters.com/sports/nba-roundup-wolves-anthony-edwards-puts-up-45-beat-giannis-heat--flm-2026-10-22/",
+          "https://www.reuters.com/world/europe/russia-linked-hackers-used-decentralised-network-ukraine-cyberattack-eset-says-2026-10-22/",
+          "https://www.reuters.com/world/china/tsmc-seeks-factory-equipment-alternatives-thwart-chinas-rare-earths-grip-sources-2026-10-22/",
+          "https://www.reuters.com/sports/basketball/luka-doncic-lakers-open-with-dominant-win-vs-stephen-curry-warriors--flm-2026-10-22/",
+          "https://www.reuters.com/sports/china-hand-us-women-first-world-team-loss-since-2010-2026-10-22/",
+          "https://www.reuters.com/sports/soccer/more-laliga-clubs-join-pact-cap-ticket-prices-away-fans-2026-10-22/",
+          "https://www.reuters.com/technology/micron-introduces-quarterly-employee-bonus-tied-profits-2026-10-22/",
+          "https://www.reuters.com/business/environment/indonesias-fire-hotspots-ease-rain-still-not-enough-official-says-2026-10-22/",
+          "https://www.reuters.com/sports/soccer/commercial-income-powers-europes-richest-clubs-financial-divide-widens-study-2026-10-22/",
+          "https://www.reuters.com/sports/endurance-athlete-becomes-first-person-swim-californias-entire-900-mile-coast-2026-10-22/",
+          "https://www.reuters.com/sports/soccer/saka-injury-doesnt-look-good-says-arsenal-manager-arteta-2026-10-22/"
+        ],
+        "unavailable": [
+          "후보 파일은 비어 있어 시작 체크포인트 뒤 직접 원문 조사로 보완했다.",
+          "더쿠·펨코·인스티즈 검색에서 12시간 이내 여자아이돌의 실제 원본 장면을 확인하지 못했다.",
+          "연합뉴스TV 세 원문은 도구 접근 오류로 본문 확인이 되지 않아 후보에서 제외했다.",
+          "영상 연속 프레임을 확인하지 못한 경기 소재는 scene이 아니라 확정 기사 기반 major_news로만 보관했다."
+        ]
+      }
+    },
+    {
+      "event_key": "catherine-breed-california-coast-900-mile-first-20261022",
+      "url": "https://www.reuters.com/sports/endurance-athlete-becomes-first-person-swim-californias-entire-900-mile-coast-2026-10-22/",
+      "title": "111일간 캘리포니아 해안 1,448km를 헤엄친 첫 사람",
+      "category": "메이저 스포츠",
+      "status": "reviewed",
+      "recorded_at": 1792661612,
+      "pick": {
+        "title": "111일간 캘리포니아 해안 1,448km를 헤엄친 첫 사람",
+        "category": "메이저 스포츠",
+        "url": "https://www.reuters.com/sports/endurance-athlete-becomes-first-person-swim-californias-entire-900-mile-coast-2026-10-22/",
+        "source": "Reuters·Swim California",
+        "kind": "article",
+        "event_key": "catherine-breed-california-coast-900-mile-first-20261022",
+        "why": "상어·폭풍·역류·오염수를 견디며 111일 동안 1,448km를 완주한 규모가 첫 장에서 바로 읽힌다.",
+        "angle": "오리건 경계 출발→하루 최대 5시간 수영→멕시코 경계 도착으로 전개한다.",
+        "why_now": "22일 캘리포니아 전 해안을 수영한 최초 완주가 확인됐다.",
+        "verified_at": 1792661612,
+        "published_at": 1792630080,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/endurance-athlete-becomes-first-person-swim-californias-entire-900-mile-coast-2026-10-22/",
+            "note": "111일·900마일·하루 평균 10.3마일과 상어·역류 대응을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/endurance-athlete-becomes-first-person-swim-californias-entire-900-mile-coast-2026-10-22/",
+            "label": "본문·수치 확인",
+            "kind": "source"
+          }
+        ],
+        "caution": "공식 공인기구의 기록 인증 절차는 기사에 별도 설명되지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "출발·도착점, 기간, 거리, 지원선과 위험 요소를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 1,448km 첫 완주",
+            "2장: 111일·하루 최대 5시간",
+            "3장: 상어·역류·오염수"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "2026년 10월 22일 여자아이돌 장면 공개 더쿠 인스티즈 루리웹",
+          "2026년 10월 22일 축구 화제 장면 펨코 공식 영상",
+          "October 22 2026 football viral moment official club video",
+          "October 22 2026 K-pop girl group viral scene official video",
+          "site:reuters.com 2026-10-22 latest world breaking news October 22 2026",
+          "site:reuters.com/sports 2026-10-22 football latest",
+          "site:apnews.com 2026-10-22 sports breaking latest",
+          "site:yonhapnewstv.co.kr 2026년 10월 22일 오후 속보",
+          "2026년 10월 22일 16시 17시 주요 뉴스 한국 새로운 발표",
+          "2026년 10월 22일 오후 여자 아이돌 논란 장면 공식",
+          "October 22 2026 Reuters just now latest sports NBA MLB football",
+          "October 22 2026 breaking news official announcement last hour",
+          "site:yna.co.kr/view/AKR20261022 17시",
+          "site:newsis.com/view/NISX20261022 17시 사회 경제 스포츠",
+          "site:sports.news.naver.com 2026.10.22 오타니 수술 르브론 레이커스",
+          "site:theqoo.net/hot 26/10/22 여자아이돌 영상",
+          "site:reuters.com/world 2026-10-22 October 22 2026 AM UTC",
+          "site:reuters.com/business 2026-10-22 October 22 2026 latest",
+          "site:reuters.com/technology 2026-10-22 October 22 2026 latest",
+          "site:reuters.com/sports 2026-10-22 October 22 2026 latest"
+        ],
+        "opened_urls": [
+          "https://www.reuters.com/business/healthcare-pharmaceuticals/france-reports-first-human-shamonda-virus-case-2026-10-22/",
+          "https://www.reuters.com/sports/nba-roundup-wolves-anthony-edwards-puts-up-45-beat-giannis-heat--flm-2026-10-22/",
+          "https://www.reuters.com/world/europe/russia-linked-hackers-used-decentralised-network-ukraine-cyberattack-eset-says-2026-10-22/",
+          "https://www.reuters.com/world/china/tsmc-seeks-factory-equipment-alternatives-thwart-chinas-rare-earths-grip-sources-2026-10-22/",
+          "https://www.reuters.com/sports/basketball/luka-doncic-lakers-open-with-dominant-win-vs-stephen-curry-warriors--flm-2026-10-22/",
+          "https://www.reuters.com/sports/china-hand-us-women-first-world-team-loss-since-2010-2026-10-22/",
+          "https://www.reuters.com/sports/soccer/more-laliga-clubs-join-pact-cap-ticket-prices-away-fans-2026-10-22/",
+          "https://www.reuters.com/technology/micron-introduces-quarterly-employee-bonus-tied-profits-2026-10-22/",
+          "https://www.reuters.com/business/environment/indonesias-fire-hotspots-ease-rain-still-not-enough-official-says-2026-10-22/",
+          "https://www.reuters.com/sports/soccer/commercial-income-powers-europes-richest-clubs-financial-divide-widens-study-2026-10-22/",
+          "https://www.reuters.com/sports/endurance-athlete-becomes-first-person-swim-californias-entire-900-mile-coast-2026-10-22/",
+          "https://www.reuters.com/sports/soccer/saka-injury-doesnt-look-good-says-arsenal-manager-arteta-2026-10-22/"
+        ],
+        "unavailable": [
+          "후보 파일은 비어 있어 시작 체크포인트 뒤 직접 원문 조사로 보완했다.",
+          "더쿠·펨코·인스티즈 검색에서 12시간 이내 여자아이돌의 실제 원본 장면을 확인하지 못했다.",
+          "연합뉴스TV 세 원문은 도구 접근 오류로 본문 확인이 되지 않아 후보에서 제외했다.",
+          "영상 연속 프레임을 확인하지 못한 경기 소재는 scene이 아니라 확정 기사 기반 major_news로만 보관했다."
+        ]
+      }
+    },
+    {
+      "event_key": "saka-quadriceps-injury-arteta-concern-20261022",
+      "url": "https://www.reuters.com/sports/soccer/saka-injury-doesnt-look-good-says-arsenal-manager-arteta-2026-10-22/",
+      "title": "사카, 10분 만에 허벅지 부상…아르테타 “전혀 좋아 보이지 않는다”",
+      "category": "축구",
+      "status": "reviewed",
+      "recorded_at": 1792661612,
+      "pick": {
+        "title": "사카, 10분 만에 허벅지 부상…아르테타 “전혀 좋아 보이지 않는다”",
+        "category": "축구",
+        "url": "https://www.reuters.com/sports/soccer/saka-injury-doesnt-look-good-says-arsenal-manager-arteta-2026-10-22/",
+        "source": "Reuters·아스널",
+        "kind": "article",
+        "event_key": "saka-quadriceps-injury-arteta-concern-20261022",
+        "why": "아스널 핵심 공격수가 경기 10분 만에 빠지고 감독이 강한 우려를 직접 밝혔다.",
+        "angle": "패스 동작 중 통증→즉시 교체→윙어 연쇄 부상 위험으로 잇는다.",
+        "why_now": "아르테타가 22일 사카의 대퇴사두근 부상 상태가 좋지 않다고 확인했다.",
+        "verified_at": 1792661612,
+        "published_at": 1792643280,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/soccer/saka-injury-doesnt-look-good-says-arsenal-manager-arteta-2026-10-22/",
+            "note": "10분 교체, 왼쪽 허벅지 통증, 감독 발언과 추가 검사 대기를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/soccer/saka-injury-doesnt-look-good-says-arsenal-manager-arteta-2026-10-22/",
+            "label": "본문·수치 확인",
+            "kind": "source"
+          }
+        ],
+        "caution": "부상 정도와 결장 기간은 아직 확정되지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "부상 부위·교체 시점과 감독의 직접 발언을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 경기 10분 만의 교체",
+            "2장: 왼쪽 허벅지 통증",
+            "3장: 검사 전 감독의 우려와 결장 미확정"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "2026년 10월 22일 여자아이돌 장면 공개 더쿠 인스티즈 루리웹",
+          "2026년 10월 22일 축구 화제 장면 펨코 공식 영상",
+          "October 22 2026 football viral moment official club video",
+          "October 22 2026 K-pop girl group viral scene official video",
+          "site:reuters.com 2026-10-22 latest world breaking news October 22 2026",
+          "site:reuters.com/sports 2026-10-22 football latest",
+          "site:apnews.com 2026-10-22 sports breaking latest",
+          "site:yonhapnewstv.co.kr 2026년 10월 22일 오후 속보",
+          "2026년 10월 22일 16시 17시 주요 뉴스 한국 새로운 발표",
+          "2026년 10월 22일 오후 여자 아이돌 논란 장면 공식",
+          "October 22 2026 Reuters just now latest sports NBA MLB football",
+          "October 22 2026 breaking news official announcement last hour",
+          "site:yna.co.kr/view/AKR20261022 17시",
+          "site:newsis.com/view/NISX20261022 17시 사회 경제 스포츠",
+          "site:sports.news.naver.com 2026.10.22 오타니 수술 르브론 레이커스",
+          "site:theqoo.net/hot 26/10/22 여자아이돌 영상",
+          "site:reuters.com/world 2026-10-22 October 22 2026 AM UTC",
+          "site:reuters.com/business 2026-10-22 October 22 2026 latest",
+          "site:reuters.com/technology 2026-10-22 October 22 2026 latest",
+          "site:reuters.com/sports 2026-10-22 October 22 2026 latest"
+        ],
+        "opened_urls": [
+          "https://www.reuters.com/business/healthcare-pharmaceuticals/france-reports-first-human-shamonda-virus-case-2026-10-22/",
+          "https://www.reuters.com/sports/nba-roundup-wolves-anthony-edwards-puts-up-45-beat-giannis-heat--flm-2026-10-22/",
+          "https://www.reuters.com/world/europe/russia-linked-hackers-used-decentralised-network-ukraine-cyberattack-eset-says-2026-10-22/",
+          "https://www.reuters.com/world/china/tsmc-seeks-factory-equipment-alternatives-thwart-chinas-rare-earths-grip-sources-2026-10-22/",
+          "https://www.reuters.com/sports/basketball/luka-doncic-lakers-open-with-dominant-win-vs-stephen-curry-warriors--flm-2026-10-22/",
+          "https://www.reuters.com/sports/china-hand-us-women-first-world-team-loss-since-2010-2026-10-22/",
+          "https://www.reuters.com/sports/soccer/more-laliga-clubs-join-pact-cap-ticket-prices-away-fans-2026-10-22/",
+          "https://www.reuters.com/technology/micron-introduces-quarterly-employee-bonus-tied-profits-2026-10-22/",
+          "https://www.reuters.com/business/environment/indonesias-fire-hotspots-ease-rain-still-not-enough-official-says-2026-10-22/",
+          "https://www.reuters.com/sports/soccer/commercial-income-powers-europes-richest-clubs-financial-divide-widens-study-2026-10-22/",
+          "https://www.reuters.com/sports/endurance-athlete-becomes-first-person-swim-californias-entire-900-mile-coast-2026-10-22/",
+          "https://www.reuters.com/sports/soccer/saka-injury-doesnt-look-good-says-arsenal-manager-arteta-2026-10-22/"
+        ],
+        "unavailable": [
+          "후보 파일은 비어 있어 시작 체크포인트 뒤 직접 원문 조사로 보완했다.",
+          "더쿠·펨코·인스티즈 검색에서 12시간 이내 여자아이돌의 실제 원본 장면을 확인하지 못했다.",
+          "연합뉴스TV 세 원문은 도구 접근 오류로 본문 확인이 되지 않아 후보에서 제외했다.",
+          "영상 연속 프레임을 확인하지 못한 경기 소재는 scene이 아니라 확정 기사 기반 major_news로만 보관했다."
+        ]
+      }
+    },
     {
       "event_key": "bok-holds-3-percent-growth-upgrade-future-hikes-20261022",
       "url": "https://www.reuters.com/world/asia-pacific/bank-korea-holds-rates-after-back-to-back-hikes-2026-10-22/",
@@ -8171,718 +9251,6 @@
       "note": "오늘 체험 보도를 공식 발표와 대조하니 10월1일 이미 형태·출시일·가격이 공개됐다. 오늘 새 편집 사실이 확인되지 않았다.",
       "next_action": "기존 출시 사실은 재추천하지 않는다. 별도 제품 변경·실제 새 영향이 공식 확인된 경우만 검토.",
       "recorded_at": 1792489166
-    },
-    {
-      "event_key": "ukraine-korean-embassy-partial-personnel-withdrawal-20261020",
-      "url": "https://www.yna.co.kr/view/AKR20261020112151504",
-      "title": "우크라 공관원 일부 철수…영사 인력은 전원 남는다",
-      "category": "시사",
-      "status": "reviewed",
-      "recorded_at": 1792486051,
-      "pick": {
-        "title": "우크라 공관원 일부 철수…영사 인력은 전원 남는다",
-        "category": "시사",
-        "url": "https://www.yna.co.kr/view/AKR20261020112151504",
-        "source": "연합뉴스",
-        "kind": "article",
-        "event_key": "ukraine-korean-embassy-partial-personnel-withdrawal-20261020",
-        "why": "우크라 체류 지인이나 외교 뉴스를 보는 친구에게 공관 축소와 재외국민 보호 유지가 함께 결정됐음을 전달할 수 있다.",
-        "angle": "첫 장에 공관원 일부 철수 / 영사 인력 전원 잔류를 나란히 놓아 실제 바뀌는 범위를 보여준다.",
-        "why_now": "20일 오후 외교부 정례브리핑에서 대사 소환 뒤 추가 인력 철수 결정이 새로 발표됐다.",
-        "verified_at": 1792485779,
-        "published_at": 1792474860,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261020112151504",
-            "note": "외교부는 우크라 측 전향적 조치 부재와 공습 안전 문제를 이유로 일부 철수를 결정했다. 대사대리 중심 소통과 영사 인력 전원 잔류는 유지한다고 밝혔다."
-          }
-        ],
-        "materials": [],
-        "caution": "대사관 폐쇄·단교·전원 철수로 쓰지 않는다. 이전 대사 소환을 오늘 처음 발생한 일로 바꾸지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-20",
-          "observation": "정부가 대사 소환에 이어 공관원 일부 철수를 결정했지만 외교 소통과 영사 보호 인력은 유지한다고 공식 설명했다.",
-          "checked_materials": [],
-          "outline": [
-            "일부 철수와 영사 전원 잔류를 대비한 표지",
-            "외교부가 밝힌 항의·공습 안전의 두 사유",
-            "대사대리 소통 유지와 재외국민 보호 업무의 범위"
-          ]
-        }
-      },
-      "coverage": {
-        "queries": [
-          "\"신한·하나은행\" \"현금 보상 없다\" \"2026\"",
-          "\"프로야구\" \"31명\" \"7억2800\" \"20일\"",
-          "\"장원영\" \"일본 여행\" \"오열\"",
-          "\"2026.10.20\" \"여자아이돌\" \"장면\"",
-          "site:theqoo.net \"2026.10.20\" \"해원\"",
-          "site:theqoo.net \"2026.10.20\" \"장원영\"",
-          "October 20 2026 soccer official UEFA FIFA letter 42 questions",
-          "October 20 2026 MLB NBA official news announcement",
-          "\"장원영\" \"훈이\" \"2026\" 가챠",
-          "\"장원영\" \"어디가 귀여워\" 가챠",
-          "\"2026.10.20\" \"에스파\" 반응",
-          "\"2026.10.20\" \"아이돌\" \"자막\"",
-          "\"세라젬\" \"입양\" \"2026\" 직원",
-          "site:nba.com/news \"2026\" \"Oct 20\"",
-          "site:formula1.com \"20 October 2026\"",
-          "\"2026.10.20\" \"관리비\" \"신고\" 국무회의",
-          "\"신한·하나은행, 해킹 유출 고객 전원\" \"2026.10.20\" \"입력\"",
-          "\"세라젬\" \"양자\" \"단독\" \"2026.10.20\"",
-          "\"LeBron\" \"October 19, 2026\" \"injury\"",
-          "\"NBA\" \"October 20, 2026\" \"out\"",
-          "\"KBO\" \"2026.10.20\" \"확정\"",
-          "\"세라젬\" \"양자\" \"2026.10.19\"",
-          "site:kmib.co.kr/article/20261020500834 신한 하나 VIP \"입력\"",
-          "\"2026.10.20\" 여자아이돌 \"사과\" -윤호 -소미 -다영",
-          "\"손아섭\" \"방출\" \"2026.10.20\"",
-          "\"오타니\" \"27억\" \"2026.10.20\"",
-          "\"2026.10.20\" \"여자아이돌\" -외모 -티저 -윤호 -다영 -사망",
-          "\"2026.10.20\" \"이강인\" \"공식\"",
-          "\"최원호\" \"APBC\" \"2026.10.20\" KBO",
-          "\"MLB\" \"포스팅\" \"2026.10.20\" \"오피셜\"",
-          "\"Ohtani\" \"2,055,700\" auction October 2026",
-          "site:theqoo.net \"2026.10.20\" \"해원\" \"영상\"",
-          "October 20 2026 football confirmed injury sacked official",
-          "\"2026.10.20\" \"여자아이돌\" \"댓글\" -순위 -티저 -패션",
-          "site:theqoo.net \"2026.10.20\" \"자막\"",
-          "\"2026.10.20\" \"오피셜\" \"일본\" \"홈런왕\"",
-          "\"October 20, 2026\" soccer -football -site:spfl.co.uk",
-          "\"October 19, 2026\" \"extension\" NBA official",
-          "\"2026.10.20\" \"뉴진스\" \"법원\"",
-          "site:theqoo.net/hot \"2026.10.20\" \"아이돌\""
-        ],
-        "opened_urls": [
-          "https://www.yna.co.kr/view/AKR20261020068300030",
-          "https://www.kmib.co.kr/article/20261020500834",
-          "https://www.etoday.co.kr/news/view/2637987?trc=right_categori_news",
-          "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833300",
-          "https://www.newsis.com/view/NISX20261020_0003832677",
-          "https://www.yna.co.kr/view/AKR20261020112151504",
-          "https://www.instagram.com/bythepulse/",
-          "https://www.mk.co.kr/news/economy/12180691",
-          "https://bbs.ruliweb.com/community/board/300143/read/77087678",
-          "https://news.nate.com/view/20250430n42849",
-          "https://www.reuters.com/sports/soccer/uefa-demands-answers-fifa-over-infantino-presidency-reports-2026-10-20/",
-          "https://www.newspim.com/news/view/20261020000307",
-          "https://www.mt.co.kr/policy/2026/10/20/2026102009215029184"
-        ],
-        "unavailable": [
-          "펨코 직접 경로는 보호 확인 미완료로 중단하고 공개 간접 색인·독립 원본만 사용했다. 개드립 수집은 HTTP403이었다.",
-          "BTP 공개 그리드의 새 표지만 확인했으며 상세 게시시각·전체 피드·Insights는 미확인이다.",
-          "장원영 훈이 가챠는 동일 동작·대화의 2025-04-30 보도가 있어 20일 재게시를 새 공개로 취급하지 않았다.",
-          "UEFA의 FIFA 서한 보도는 원문 서한·최초 공개 시각 검증이 부족해 확정 소재에서 제외했다.",
-          "추가 축구·여자아이돌 후보는 핵심 연속 장면이나 최초 공개 시각을 확인하지 못했거나 단순 팬 감상·외모·예고라 제외했다.",
-          "최원호 APBC 감독 선임·손아섭 방출은 19일 발표였고 오타니 유니폼 낙찰도 17~18일 이전 공개 정황으로 12시간 조건에서 제외했다."
-        ]
-      }
-    },
-    {
-      "event_key": "shinhan-hana-breach-customer-vip-insurance-compensation-20261020",
-      "url": "https://www.kmib.co.kr/article/20261020500834",
-      "title": "개인정보 털렸는데 현금 대신 VIP…신한·하나의 보상안",
-      "category": "시사",
-      "status": "reviewed",
-      "recorded_at": 1792486051,
-      "pick": {
-        "title": "개인정보 털렸는데 현금 대신 VIP…신한·하나의 보상안",
-        "category": "시사",
-        "url": "https://www.kmib.co.kr/article/20261020500834",
-        "source": "국민일보",
-        "kind": "article",
-        "event_key": "shinhan-hana-breach-customer-vip-insurance-compensation-20261020",
-        "why": "같은 은행을 쓰는 가족에게 현금 보상·보험 보장·수수료 우대가 어떻게 다른지 보여줄 수 있다.",
-        "angle": "첫 장에서 현금 지급 없음과 VIP·보험 지원을 나누고, 두 은행의 대상을 비교한다.",
-        "why_now": "20일 14:29 단독 보도로 두 은행의 유출 고객 전원 대상 지원 방안이 공개됐다.",
-        "verified_at": 1792485550,
-        "published_at": 1792474140,
-        "evidence": [
-          {
-            "url": "https://www.kmib.co.kr/article/20261020500834",
-            "note": "신한 약 2만5000명, 하나 89명 전원에 우대 혜택을 준다. 신한은 은행 부담 보험으로 1인당 1년 1000만원 한도 보장을 제공하며 두 은행 모두 유출 자체에 직접 현금을 주지는 않는다."
-          }
-        ],
-        "materials": [],
-        "caution": "신한 보험의 1000만원은 현금 지급액이 아니다. 같은 보장 한도를 하나은행에도 적용해 쓰지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-20",
-          "observation": "대규모 고객 정보 유출 후 두 은행이 현금 지급 대신 우대 등급·보험 중심의 지원을 택했다. 피해 고객이 실제로 받는 혜택을 구분할 필요가 있다.",
-          "checked_materials": [],
-          "outline": [
-            "현금 지급 없음 / VIP·보험 지원의 차이를 보여주는 표지",
-            "신한 약 2만5000명과 하나 89명의 우대 항목 비교",
-            "신한 보험 1년·1000만원 한도와 실제 현금 보상의 차이"
-          ]
-        }
-      },
-      "coverage": {
-        "queries": [
-          "\"신한·하나은행\" \"현금 보상 없다\" \"2026\"",
-          "\"프로야구\" \"31명\" \"7억2800\" \"20일\"",
-          "\"장원영\" \"일본 여행\" \"오열\"",
-          "\"2026.10.20\" \"여자아이돌\" \"장면\"",
-          "site:theqoo.net \"2026.10.20\" \"해원\"",
-          "site:theqoo.net \"2026.10.20\" \"장원영\"",
-          "October 20 2026 soccer official UEFA FIFA letter 42 questions",
-          "October 20 2026 MLB NBA official news announcement",
-          "\"장원영\" \"훈이\" \"2026\" 가챠",
-          "\"장원영\" \"어디가 귀여워\" 가챠",
-          "\"2026.10.20\" \"에스파\" 반응",
-          "\"2026.10.20\" \"아이돌\" \"자막\"",
-          "\"세라젬\" \"입양\" \"2026\" 직원",
-          "site:nba.com/news \"2026\" \"Oct 20\"",
-          "site:formula1.com \"20 October 2026\"",
-          "\"2026.10.20\" \"관리비\" \"신고\" 국무회의",
-          "\"신한·하나은행, 해킹 유출 고객 전원\" \"2026.10.20\" \"입력\"",
-          "\"세라젬\" \"양자\" \"단독\" \"2026.10.20\"",
-          "\"LeBron\" \"October 19, 2026\" \"injury\"",
-          "\"NBA\" \"October 20, 2026\" \"out\"",
-          "\"KBO\" \"2026.10.20\" \"확정\"",
-          "\"세라젬\" \"양자\" \"2026.10.19\"",
-          "site:kmib.co.kr/article/20261020500834 신한 하나 VIP \"입력\"",
-          "\"2026.10.20\" 여자아이돌 \"사과\" -윤호 -소미 -다영",
-          "\"손아섭\" \"방출\" \"2026.10.20\"",
-          "\"오타니\" \"27억\" \"2026.10.20\"",
-          "\"2026.10.20\" \"여자아이돌\" -외모 -티저 -윤호 -다영 -사망",
-          "\"2026.10.20\" \"이강인\" \"공식\"",
-          "\"최원호\" \"APBC\" \"2026.10.20\" KBO",
-          "\"MLB\" \"포스팅\" \"2026.10.20\" \"오피셜\"",
-          "\"Ohtani\" \"2,055,700\" auction October 2026",
-          "site:theqoo.net \"2026.10.20\" \"해원\" \"영상\"",
-          "October 20 2026 football confirmed injury sacked official",
-          "\"2026.10.20\" \"여자아이돌\" \"댓글\" -순위 -티저 -패션",
-          "site:theqoo.net \"2026.10.20\" \"자막\"",
-          "\"2026.10.20\" \"오피셜\" \"일본\" \"홈런왕\"",
-          "\"October 20, 2026\" soccer -football -site:spfl.co.uk",
-          "\"October 19, 2026\" \"extension\" NBA official",
-          "\"2026.10.20\" \"뉴진스\" \"법원\"",
-          "site:theqoo.net/hot \"2026.10.20\" \"아이돌\""
-        ],
-        "opened_urls": [
-          "https://www.yna.co.kr/view/AKR20261020068300030",
-          "https://www.kmib.co.kr/article/20261020500834",
-          "https://www.etoday.co.kr/news/view/2637987?trc=right_categori_news",
-          "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833300",
-          "https://www.newsis.com/view/NISX20261020_0003832677",
-          "https://www.yna.co.kr/view/AKR20261020112151504",
-          "https://www.instagram.com/bythepulse/",
-          "https://www.mk.co.kr/news/economy/12180691",
-          "https://bbs.ruliweb.com/community/board/300143/read/77087678",
-          "https://news.nate.com/view/20250430n42849",
-          "https://www.reuters.com/sports/soccer/uefa-demands-answers-fifa-over-infantino-presidency-reports-2026-10-20/",
-          "https://www.newspim.com/news/view/20261020000307",
-          "https://www.mt.co.kr/policy/2026/10/20/2026102009215029184"
-        ],
-        "unavailable": [
-          "펨코 직접 경로는 보호 확인 미완료로 중단하고 공개 간접 색인·독립 원본만 사용했다. 개드립 수집은 HTTP403이었다.",
-          "BTP 공개 그리드의 새 표지만 확인했으며 상세 게시시각·전체 피드·Insights는 미확인이다.",
-          "장원영 훈이 가챠는 동일 동작·대화의 2025-04-30 보도가 있어 20일 재게시를 새 공개로 취급하지 않았다.",
-          "UEFA의 FIFA 서한 보도는 원문 서한·최초 공개 시각 검증이 부족해 확정 소재에서 제외했다.",
-          "추가 축구·여자아이돌 후보는 핵심 연속 장면이나 최초 공개 시각을 확인하지 못했거나 단순 팬 감상·외모·예고라 제외했다.",
-          "최원호 APBC 감독 선임·손아섭 방출은 19일 발표였고 오타니 유니폼 낙찰도 17~18일 이전 공개 정황으로 12시간 조건에서 제외했다."
-        ]
-      }
-    },
-    {
-      "event_key": "kbo-postseason-ticket-scalping-31-referrals-20261020",
-      "url": "https://www.etoday.co.kr/news/view/2637987?trc=right_categori_news",
-      "title": "표 1015장에 제시액만 7억2800만원…가을야구 암표 31명 수사 의뢰",
-      "category": "메이저 스포츠",
-      "status": "reviewed",
-      "recorded_at": 1792486051,
-      "pick": {
-        "title": "표 1015장에 제시액만 7억2800만원…가을야구 암표 31명 수사 의뢰",
-        "category": "메이저 스포츠",
-        "url": "https://www.etoday.co.kr/news/view/2637987?trc=right_categori_news",
-        "source": "이투데이",
-        "kind": "article",
-        "event_key": "kbo-postseason-ticket-scalping-31-referrals-20261020",
-        "why": "표를 못 구한 야구팬이 함께 직관 갈 친구에게 고액 판매의 규모와 경기 중 수사 전환을 보여줄 소재다.",
-        "angle": "첫 장에 입장권 1015장·제시액 7억2800만원을 놓고 실제 거래액과 구별한다.",
-        "why_now": "20일 문체부가 31명을 경찰에 수사 의뢰했다는 16:06 보도의 본문을 확인했다.",
-        "verified_at": 1792485040,
-        "published_at": 1792479960,
-        "evidence": [
-          {
-            "url": "https://www.etoday.co.kr/news/view/2637987?trc=right_categori_news",
-            "note": "13~19일 신고 중 제시액 합계 1000만원 이상인 31명을 선별했다. 1015장·7억2800만원은 완료 거래액이 아닌 판매 제시액이다. 온라인 노출 제한은 하루 1회에서 2회로 강화됐다."
-          }
-        ],
-        "materials": [],
-        "caution": "수사의뢰 단계다. 범죄 확정·검거·7억2800만원 수익으로 쓰지 않으며 자료사진을 암표 거래 현장으로 표시하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-20",
-          "observation": "포스트시즌 진행 중 고액·다량 판매 의심자 31명이 경찰 수사의뢰 대상으로 확인됐다. 1015장에 붙은 제시액과 예매 실패 팬의 이해관계가 연결된다.",
-          "checked_materials": [],
-          "outline": [
-            "1015장·7억2800만원은 판매자가 부른 가격이라는 표지",
-            "13~19일 신고→31명 선별→20일 경찰 수사의뢰 순서",
-            "하루 두 차례 게시물 노출 제한과 조사 후 위법 확인 시 후속 조치"
-          ]
-        }
-      },
-      "coverage": {
-        "queries": [
-          "\"신한·하나은행\" \"현금 보상 없다\" \"2026\"",
-          "\"프로야구\" \"31명\" \"7억2800\" \"20일\"",
-          "\"장원영\" \"일본 여행\" \"오열\"",
-          "\"2026.10.20\" \"여자아이돌\" \"장면\"",
-          "site:theqoo.net \"2026.10.20\" \"해원\"",
-          "site:theqoo.net \"2026.10.20\" \"장원영\"",
-          "October 20 2026 soccer official UEFA FIFA letter 42 questions",
-          "October 20 2026 MLB NBA official news announcement",
-          "\"장원영\" \"훈이\" \"2026\" 가챠",
-          "\"장원영\" \"어디가 귀여워\" 가챠",
-          "\"2026.10.20\" \"에스파\" 반응",
-          "\"2026.10.20\" \"아이돌\" \"자막\"",
-          "\"세라젬\" \"입양\" \"2026\" 직원",
-          "site:nba.com/news \"2026\" \"Oct 20\"",
-          "site:formula1.com \"20 October 2026\"",
-          "\"2026.10.20\" \"관리비\" \"신고\" 국무회의",
-          "\"신한·하나은행, 해킹 유출 고객 전원\" \"2026.10.20\" \"입력\"",
-          "\"세라젬\" \"양자\" \"단독\" \"2026.10.20\"",
-          "\"LeBron\" \"October 19, 2026\" \"injury\"",
-          "\"NBA\" \"October 20, 2026\" \"out\"",
-          "\"KBO\" \"2026.10.20\" \"확정\"",
-          "\"세라젬\" \"양자\" \"2026.10.19\"",
-          "site:kmib.co.kr/article/20261020500834 신한 하나 VIP \"입력\"",
-          "\"2026.10.20\" 여자아이돌 \"사과\" -윤호 -소미 -다영",
-          "\"손아섭\" \"방출\" \"2026.10.20\"",
-          "\"오타니\" \"27억\" \"2026.10.20\"",
-          "\"2026.10.20\" \"여자아이돌\" -외모 -티저 -윤호 -다영 -사망",
-          "\"2026.10.20\" \"이강인\" \"공식\"",
-          "\"최원호\" \"APBC\" \"2026.10.20\" KBO",
-          "\"MLB\" \"포스팅\" \"2026.10.20\" \"오피셜\"",
-          "\"Ohtani\" \"2,055,700\" auction October 2026",
-          "site:theqoo.net \"2026.10.20\" \"해원\" \"영상\"",
-          "October 20 2026 football confirmed injury sacked official",
-          "\"2026.10.20\" \"여자아이돌\" \"댓글\" -순위 -티저 -패션",
-          "site:theqoo.net \"2026.10.20\" \"자막\"",
-          "\"2026.10.20\" \"오피셜\" \"일본\" \"홈런왕\"",
-          "\"October 20, 2026\" soccer -football -site:spfl.co.uk",
-          "\"October 19, 2026\" \"extension\" NBA official",
-          "\"2026.10.20\" \"뉴진스\" \"법원\"",
-          "site:theqoo.net/hot \"2026.10.20\" \"아이돌\""
-        ],
-        "opened_urls": [
-          "https://www.yna.co.kr/view/AKR20261020068300030",
-          "https://www.kmib.co.kr/article/20261020500834",
-          "https://www.etoday.co.kr/news/view/2637987?trc=right_categori_news",
-          "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833300",
-          "https://www.newsis.com/view/NISX20261020_0003832677",
-          "https://www.yna.co.kr/view/AKR20261020112151504",
-          "https://www.instagram.com/bythepulse/",
-          "https://www.mk.co.kr/news/economy/12180691",
-          "https://bbs.ruliweb.com/community/board/300143/read/77087678",
-          "https://news.nate.com/view/20250430n42849",
-          "https://www.reuters.com/sports/soccer/uefa-demands-answers-fifa-over-infantino-presidency-reports-2026-10-20/",
-          "https://www.newspim.com/news/view/20261020000307",
-          "https://www.mt.co.kr/policy/2026/10/20/2026102009215029184"
-        ],
-        "unavailable": [
-          "펨코 직접 경로는 보호 확인 미완료로 중단하고 공개 간접 색인·독립 원본만 사용했다. 개드립 수집은 HTTP403이었다.",
-          "BTP 공개 그리드의 새 표지만 확인했으며 상세 게시시각·전체 피드·Insights는 미확인이다.",
-          "장원영 훈이 가챠는 동일 동작·대화의 2025-04-30 보도가 있어 20일 재게시를 새 공개로 취급하지 않았다.",
-          "UEFA의 FIFA 서한 보도는 원문 서한·최초 공개 시각 검증이 부족해 확정 소재에서 제외했다.",
-          "추가 축구·여자아이돌 후보는 핵심 연속 장면이나 최초 공개 시각을 확인하지 못했거나 단순 팬 감상·외모·예고라 제외했다.",
-          "최원호 APBC 감독 선임·손아섭 방출은 19일 발표였고 오타니 유니폼 낙찰도 17~18일 이전 공개 정황으로 12시간 조건에서 제외했다."
-        ]
-      }
-    },
-    {
-      "event_key": "ceragem-employee-adoption-equity-succession-disclosure-20261020",
-      "url": "https://www.yna.co.kr/view/AKR20261020068300030",
-      "title": "신입사원→아들→후계자…세라젬 창업주의 승계 선택",
-      "category": "시사",
-      "status": "reviewed",
-      "recorded_at": 1792486051,
-      "pick": {
-        "title": "신입사원→아들→후계자…세라젬 창업주의 승계 선택",
-        "category": "시사",
-        "url": "https://www.yna.co.kr/view/AKR20261020068300030",
-        "source": "연합뉴스",
-        "kind": "article",
-        "event_key": "ceragem-employee-adoption-equity-succession-disclosure-20261020",
-        "why": "직장 동료에게 2003년 신입사원이 법적 가족이자 후계자가 된 실제 승계 경로를 보여줄 수 있다.",
-        "angle": "첫 장을 2003 입사→2025 입양→2026 지분 10% 증여의 세 칸으로 만든다.",
-        "why_now": "20일 회사가 가족 합의로 지난해 마친 입양과 올해 지분 증여를 확인해 공개했다. 오늘 입양한 사건으로 쓰지 않는다.",
-        "verified_at": 1792485779,
-        "published_at": 1792462020,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261020068300030",
-            "note": "회사 관계자 취재로 이경수 대표의 2003년 입사, 지난해 성인 입양, 올해 전체 발행주식 10% 증여가 확인됐다. 회사는 가업승계 세제 혜택을 받을 규모가 아니라고 설명했다."
-          }
-        ],
-        "materials": [],
-        "caution": "입양은 2025년이다. 친딸을 내쫓았다는 식의 동기나 탈세를 추정하지 않는다. 지분 전부의 이전이 아니다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-20",
-          "observation": "유명 의료가전 기업이 전문경영인을 창업주의 법적 자녀로 받아들여 소유권 승계를 시작한 경로를 회사가 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "2003년 신입 입사·2025년 입양·2026년 지분 증여의 타임라인",
-            "대표이사 선임과 법적 가족·소유권 승계가 다른 점",
-            "증여는 전체 주식의 10%이며 회사가 밝힌 장기 승계 계획"
-          ]
-        }
-      },
-      "coverage": {
-        "queries": [
-          "\"신한·하나은행\" \"현금 보상 없다\" \"2026\"",
-          "\"프로야구\" \"31명\" \"7억2800\" \"20일\"",
-          "\"장원영\" \"일본 여행\" \"오열\"",
-          "\"2026.10.20\" \"여자아이돌\" \"장면\"",
-          "site:theqoo.net \"2026.10.20\" \"해원\"",
-          "site:theqoo.net \"2026.10.20\" \"장원영\"",
-          "October 20 2026 soccer official UEFA FIFA letter 42 questions",
-          "October 20 2026 MLB NBA official news announcement",
-          "\"장원영\" \"훈이\" \"2026\" 가챠",
-          "\"장원영\" \"어디가 귀여워\" 가챠",
-          "\"2026.10.20\" \"에스파\" 반응",
-          "\"2026.10.20\" \"아이돌\" \"자막\"",
-          "\"세라젬\" \"입양\" \"2026\" 직원",
-          "site:nba.com/news \"2026\" \"Oct 20\"",
-          "site:formula1.com \"20 October 2026\"",
-          "\"2026.10.20\" \"관리비\" \"신고\" 국무회의",
-          "\"신한·하나은행, 해킹 유출 고객 전원\" \"2026.10.20\" \"입력\"",
-          "\"세라젬\" \"양자\" \"단독\" \"2026.10.20\"",
-          "\"LeBron\" \"October 19, 2026\" \"injury\"",
-          "\"NBA\" \"October 20, 2026\" \"out\"",
-          "\"KBO\" \"2026.10.20\" \"확정\"",
-          "\"세라젬\" \"양자\" \"2026.10.19\"",
-          "site:kmib.co.kr/article/20261020500834 신한 하나 VIP \"입력\"",
-          "\"2026.10.20\" 여자아이돌 \"사과\" -윤호 -소미 -다영",
-          "\"손아섭\" \"방출\" \"2026.10.20\"",
-          "\"오타니\" \"27억\" \"2026.10.20\"",
-          "\"2026.10.20\" \"여자아이돌\" -외모 -티저 -윤호 -다영 -사망",
-          "\"2026.10.20\" \"이강인\" \"공식\"",
-          "\"최원호\" \"APBC\" \"2026.10.20\" KBO",
-          "\"MLB\" \"포스팅\" \"2026.10.20\" \"오피셜\"",
-          "\"Ohtani\" \"2,055,700\" auction October 2026",
-          "site:theqoo.net \"2026.10.20\" \"해원\" \"영상\"",
-          "October 20 2026 football confirmed injury sacked official",
-          "\"2026.10.20\" \"여자아이돌\" \"댓글\" -순위 -티저 -패션",
-          "site:theqoo.net \"2026.10.20\" \"자막\"",
-          "\"2026.10.20\" \"오피셜\" \"일본\" \"홈런왕\"",
-          "\"October 20, 2026\" soccer -football -site:spfl.co.uk",
-          "\"October 19, 2026\" \"extension\" NBA official",
-          "\"2026.10.20\" \"뉴진스\" \"법원\"",
-          "site:theqoo.net/hot \"2026.10.20\" \"아이돌\""
-        ],
-        "opened_urls": [
-          "https://www.yna.co.kr/view/AKR20261020068300030",
-          "https://www.kmib.co.kr/article/20261020500834",
-          "https://www.etoday.co.kr/news/view/2637987?trc=right_categori_news",
-          "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833300",
-          "https://www.newsis.com/view/NISX20261020_0003832677",
-          "https://www.yna.co.kr/view/AKR20261020112151504",
-          "https://www.instagram.com/bythepulse/",
-          "https://www.mk.co.kr/news/economy/12180691",
-          "https://bbs.ruliweb.com/community/board/300143/read/77087678",
-          "https://news.nate.com/view/20250430n42849",
-          "https://www.reuters.com/sports/soccer/uefa-demands-answers-fifa-over-infantino-presidency-reports-2026-10-20/",
-          "https://www.newspim.com/news/view/20261020000307",
-          "https://www.mt.co.kr/policy/2026/10/20/2026102009215029184"
-        ],
-        "unavailable": [
-          "펨코 직접 경로는 보호 확인 미완료로 중단하고 공개 간접 색인·독립 원본만 사용했다. 개드립 수집은 HTTP403이었다.",
-          "BTP 공개 그리드의 새 표지만 확인했으며 상세 게시시각·전체 피드·Insights는 미확인이다.",
-          "장원영 훈이 가챠는 동일 동작·대화의 2025-04-30 보도가 있어 20일 재게시를 새 공개로 취급하지 않았다.",
-          "UEFA의 FIFA 서한 보도는 원문 서한·최초 공개 시각 검증이 부족해 확정 소재에서 제외했다.",
-          "추가 축구·여자아이돌 후보는 핵심 연속 장면이나 최초 공개 시각을 확인하지 못했거나 단순 팬 감상·외모·예고라 제외했다.",
-          "최원호 APBC 감독 선임·손아섭 방출은 19일 발표였고 오타니 유니폼 낙찰도 17~18일 이전 공개 정황으로 12시간 조건에서 제외했다."
-        ]
-      }
-    },
-    {
-      "event_key": "private-rental-management-fee-contract-report-cabinet-20261020",
-      "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833300",
-      "title": "월세만 적고 관리비는? 민간임대 신고에 관리비도 넣는다",
-      "category": "시사",
-      "status": "reviewed",
-      "recorded_at": 1792486051,
-      "pick": {
-        "title": "월세만 적고 관리비는? 민간임대 신고에 관리비도 넣는다",
-        "category": "시사",
-        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833300",
-        "source": "뉴시스",
-        "kind": "article",
-        "event_key": "private-rental-management-fee-contract-report-cabinet-20261020",
-        "why": "월세방을 구하는 친구에게 월세와 별도로 붙는 관리비도 신고 대상이 되는 변화를 알려줄 수 있다.",
-        "angle": "첫 장에서 월세만 보던 계약 비용과 관리비·사용료 산정방식까지 들어가는 신고 항목을 비교한다.",
-        "why_now": "20일 국무회의가 민간임대 임대사업자의 관리비·사용료 신고 의무를 담은 시행령 개정안을 의결했다.",
-        "verified_at": 1792485779,
-        "published_at": 1792472500,
-        "evidence": [
-          {
-            "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833300",
-            "note": "민간임대주택 임대사업자가 부과하는 관리비·사용료 금액 또는 산정방식을 임대차계약 신고에 포함하도록 의결했다. 보증금을 HUG가 관리해 월세로 지급할 수 있는 업무 근거도 함께 마련했다."
-          }
-        ],
-        "materials": [],
-        "caution": "민간임대주택 임대사업자 대상이다. 모든 집주인에게 오늘 즉시 시행됐다고 쓰지 않는다. 구체적 시행일은 추가 확인한다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-20",
-          "observation": "세입자의 총 주거비에 직접 영향을 주는 관리비·사용료의 금액 또는 계산 기준을 임대차 신고에 포함하는 개정안이 의결됐다.",
-          "checked_materials": [],
-          "outline": [
-            "월세와 별도 관리비를 구분한 표지",
-            "민간임대 임대사업자가 신고할 금액·산정방식의 변화",
-            "국무회의 의결 단계와 적용 대상, 시행일 미확인 범위 표시"
-          ]
-        }
-      },
-      "coverage": {
-        "queries": [
-          "\"신한·하나은행\" \"현금 보상 없다\" \"2026\"",
-          "\"프로야구\" \"31명\" \"7억2800\" \"20일\"",
-          "\"장원영\" \"일본 여행\" \"오열\"",
-          "\"2026.10.20\" \"여자아이돌\" \"장면\"",
-          "site:theqoo.net \"2026.10.20\" \"해원\"",
-          "site:theqoo.net \"2026.10.20\" \"장원영\"",
-          "October 20 2026 soccer official UEFA FIFA letter 42 questions",
-          "October 20 2026 MLB NBA official news announcement",
-          "\"장원영\" \"훈이\" \"2026\" 가챠",
-          "\"장원영\" \"어디가 귀여워\" 가챠",
-          "\"2026.10.20\" \"에스파\" 반응",
-          "\"2026.10.20\" \"아이돌\" \"자막\"",
-          "\"세라젬\" \"입양\" \"2026\" 직원",
-          "site:nba.com/news \"2026\" \"Oct 20\"",
-          "site:formula1.com \"20 October 2026\"",
-          "\"2026.10.20\" \"관리비\" \"신고\" 국무회의",
-          "\"신한·하나은행, 해킹 유출 고객 전원\" \"2026.10.20\" \"입력\"",
-          "\"세라젬\" \"양자\" \"단독\" \"2026.10.20\"",
-          "\"LeBron\" \"October 19, 2026\" \"injury\"",
-          "\"NBA\" \"October 20, 2026\" \"out\"",
-          "\"KBO\" \"2026.10.20\" \"확정\"",
-          "\"세라젬\" \"양자\" \"2026.10.19\"",
-          "site:kmib.co.kr/article/20261020500834 신한 하나 VIP \"입력\"",
-          "\"2026.10.20\" 여자아이돌 \"사과\" -윤호 -소미 -다영",
-          "\"손아섭\" \"방출\" \"2026.10.20\"",
-          "\"오타니\" \"27억\" \"2026.10.20\"",
-          "\"2026.10.20\" \"여자아이돌\" -외모 -티저 -윤호 -다영 -사망",
-          "\"2026.10.20\" \"이강인\" \"공식\"",
-          "\"최원호\" \"APBC\" \"2026.10.20\" KBO",
-          "\"MLB\" \"포스팅\" \"2026.10.20\" \"오피셜\"",
-          "\"Ohtani\" \"2,055,700\" auction October 2026",
-          "site:theqoo.net \"2026.10.20\" \"해원\" \"영상\"",
-          "October 20 2026 football confirmed injury sacked official",
-          "\"2026.10.20\" \"여자아이돌\" \"댓글\" -순위 -티저 -패션",
-          "site:theqoo.net \"2026.10.20\" \"자막\"",
-          "\"2026.10.20\" \"오피셜\" \"일본\" \"홈런왕\"",
-          "\"October 20, 2026\" soccer -football -site:spfl.co.uk",
-          "\"October 19, 2026\" \"extension\" NBA official",
-          "\"2026.10.20\" \"뉴진스\" \"법원\"",
-          "site:theqoo.net/hot \"2026.10.20\" \"아이돌\""
-        ],
-        "opened_urls": [
-          "https://www.yna.co.kr/view/AKR20261020068300030",
-          "https://www.kmib.co.kr/article/20261020500834",
-          "https://www.etoday.co.kr/news/view/2637987?trc=right_categori_news",
-          "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833300",
-          "https://www.newsis.com/view/NISX20261020_0003832677",
-          "https://www.yna.co.kr/view/AKR20261020112151504",
-          "https://www.instagram.com/bythepulse/",
-          "https://www.mk.co.kr/news/economy/12180691",
-          "https://bbs.ruliweb.com/community/board/300143/read/77087678",
-          "https://news.nate.com/view/20250430n42849",
-          "https://www.reuters.com/sports/soccer/uefa-demands-answers-fifa-over-infantino-presidency-reports-2026-10-20/",
-          "https://www.newspim.com/news/view/20261020000307",
-          "https://www.mt.co.kr/policy/2026/10/20/2026102009215029184"
-        ],
-        "unavailable": [
-          "펨코 직접 경로는 보호 확인 미완료로 중단하고 공개 간접 색인·독립 원본만 사용했다. 개드립 수집은 HTTP403이었다.",
-          "BTP 공개 그리드의 새 표지만 확인했으며 상세 게시시각·전체 피드·Insights는 미확인이다.",
-          "장원영 훈이 가챠는 동일 동작·대화의 2025-04-30 보도가 있어 20일 재게시를 새 공개로 취급하지 않았다.",
-          "UEFA의 FIFA 서한 보도는 원문 서한·최초 공개 시각 검증이 부족해 확정 소재에서 제외했다.",
-          "추가 축구·여자아이돌 후보는 핵심 연속 장면이나 최초 공개 시각을 확인하지 못했거나 단순 팬 감상·외모·예고라 제외했다.",
-          "최원호 APBC 감독 선임·손아섭 방출은 19일 발표였고 오타니 유니폼 낙찰도 17~18일 이전 공개 정황으로 12시간 조건에서 제외했다."
-        ]
-      }
-    },
-    {
-      "event_key": "cybersecurity-disclosure-all-listed-companies-cabinet-20261020",
-      "url": "https://www.newsis.com/view/NISX20261020_0003832677",
-      "title": "상장사 보안에 쓴 돈, 내년부터 매출 상관없이 공개한다",
-      "category": "시사",
-      "status": "reviewed",
-      "recorded_at": 1792486051,
-      "pick": {
-        "title": "상장사 보안에 쓴 돈, 내년부터 매출 상관없이 공개한다",
-        "category": "시사",
-        "url": "https://www.newsis.com/view/NISX20261020_0003832677",
-        "source": "뉴시스",
-        "kind": "article",
-        "event_key": "cybersecurity-disclosure-all-listed-companies-cabinet-20261020",
-        "why": "정보 유출을 걱정하는 지인에게 기업이 보안에 실제로 쓴 투자·인력을 비교할 공개 대상이 넓어진다고 알릴 수 있다.",
-        "angle": "첫 장을 매출 3000억원 이상→코스피·코스닥 전체(SPAC 제외)의 전후 비교로 만든다.",
-        "why_now": "20일 국무회의에서 공시 범위를 넓히는 시행령이 통과했고 2027년 1월 1일 시행이 확인됐다.",
-        "verified_at": 1792485779,
-        "published_at": 1792470729,
-        "evidence": [
-          {
-            "url": "https://www.newsis.com/view/NISX20261020_0003832677",
-            "note": "상장사 매출 3000억원 기준을 폐지하고 금융·공공기관 등 기존 예외도 없앤다. 보안 투자금액·인력·인증 및 점검 이력을 공개한다. 소기업에는 2029년까지 유예한다."
-          }
-        ],
-        "materials": [],
-        "caution": "개인정보를 공개한다는 뜻이 아니다. 해킹 방지 보장도 아니다. SPAC 제외와 소기업 2029년 적용 유예를 표시한다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-20",
-          "observation": "반복되는 침해 사고 뒤 기업의 보안 투자를 외부에서 비교할 수 있는 의무 공시 범위가 전체 상장사와 기존 예외 기관으로 확대됐다.",
-          "checked_materials": [],
-          "outline": [
-            "3000억원 매출 기준 폐지와 전체 상장사 확대 표지",
-            "공개하는 보안 투자·인력·인증 이력 세 항목",
-            "2027년 시행과 SPAC 제외·소기업 유예의 적용 범위"
-          ]
-        }
-      },
-      "coverage": {
-        "queries": [
-          "\"신한·하나은행\" \"현금 보상 없다\" \"2026\"",
-          "\"프로야구\" \"31명\" \"7억2800\" \"20일\"",
-          "\"장원영\" \"일본 여행\" \"오열\"",
-          "\"2026.10.20\" \"여자아이돌\" \"장면\"",
-          "site:theqoo.net \"2026.10.20\" \"해원\"",
-          "site:theqoo.net \"2026.10.20\" \"장원영\"",
-          "October 20 2026 soccer official UEFA FIFA letter 42 questions",
-          "October 20 2026 MLB NBA official news announcement",
-          "\"장원영\" \"훈이\" \"2026\" 가챠",
-          "\"장원영\" \"어디가 귀여워\" 가챠",
-          "\"2026.10.20\" \"에스파\" 반응",
-          "\"2026.10.20\" \"아이돌\" \"자막\"",
-          "\"세라젬\" \"입양\" \"2026\" 직원",
-          "site:nba.com/news \"2026\" \"Oct 20\"",
-          "site:formula1.com \"20 October 2026\"",
-          "\"2026.10.20\" \"관리비\" \"신고\" 국무회의",
-          "\"신한·하나은행, 해킹 유출 고객 전원\" \"2026.10.20\" \"입력\"",
-          "\"세라젬\" \"양자\" \"단독\" \"2026.10.20\"",
-          "\"LeBron\" \"October 19, 2026\" \"injury\"",
-          "\"NBA\" \"October 20, 2026\" \"out\"",
-          "\"KBO\" \"2026.10.20\" \"확정\"",
-          "\"세라젬\" \"양자\" \"2026.10.19\"",
-          "site:kmib.co.kr/article/20261020500834 신한 하나 VIP \"입력\"",
-          "\"2026.10.20\" 여자아이돌 \"사과\" -윤호 -소미 -다영",
-          "\"손아섭\" \"방출\" \"2026.10.20\"",
-          "\"오타니\" \"27억\" \"2026.10.20\"",
-          "\"2026.10.20\" \"여자아이돌\" -외모 -티저 -윤호 -다영 -사망",
-          "\"2026.10.20\" \"이강인\" \"공식\"",
-          "\"최원호\" \"APBC\" \"2026.10.20\" KBO",
-          "\"MLB\" \"포스팅\" \"2026.10.20\" \"오피셜\"",
-          "\"Ohtani\" \"2,055,700\" auction October 2026",
-          "site:theqoo.net \"2026.10.20\" \"해원\" \"영상\"",
-          "October 20 2026 football confirmed injury sacked official",
-          "\"2026.10.20\" \"여자아이돌\" \"댓글\" -순위 -티저 -패션",
-          "site:theqoo.net \"2026.10.20\" \"자막\"",
-          "\"2026.10.20\" \"오피셜\" \"일본\" \"홈런왕\"",
-          "\"October 20, 2026\" soccer -football -site:spfl.co.uk",
-          "\"October 19, 2026\" \"extension\" NBA official",
-          "\"2026.10.20\" \"뉴진스\" \"법원\"",
-          "site:theqoo.net/hot \"2026.10.20\" \"아이돌\""
-        ],
-        "opened_urls": [
-          "https://www.yna.co.kr/view/AKR20261020068300030",
-          "https://www.kmib.co.kr/article/20261020500834",
-          "https://www.etoday.co.kr/news/view/2637987?trc=right_categori_news",
-          "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833300",
-          "https://www.newsis.com/view/NISX20261020_0003832677",
-          "https://www.yna.co.kr/view/AKR20261020112151504",
-          "https://www.instagram.com/bythepulse/",
-          "https://www.mk.co.kr/news/economy/12180691",
-          "https://bbs.ruliweb.com/community/board/300143/read/77087678",
-          "https://news.nate.com/view/20250430n42849",
-          "https://www.reuters.com/sports/soccer/uefa-demands-answers-fifa-over-infantino-presidency-reports-2026-10-20/",
-          "https://www.newspim.com/news/view/20261020000307",
-          "https://www.mt.co.kr/policy/2026/10/20/2026102009215029184"
-        ],
-        "unavailable": [
-          "펨코 직접 경로는 보호 확인 미완료로 중단하고 공개 간접 색인·독립 원본만 사용했다. 개드립 수집은 HTTP403이었다.",
-          "BTP 공개 그리드의 새 표지만 확인했으며 상세 게시시각·전체 피드·Insights는 미확인이다.",
-          "장원영 훈이 가챠는 동일 동작·대화의 2025-04-30 보도가 있어 20일 재게시를 새 공개로 취급하지 않았다.",
-          "UEFA의 FIFA 서한 보도는 원문 서한·최초 공개 시각 검증이 부족해 확정 소재에서 제외했다.",
-          "추가 축구·여자아이돌 후보는 핵심 연속 장면이나 최초 공개 시각을 확인하지 못했거나 단순 팬 감상·외모·예고라 제외했다.",
-          "최원호 APBC 감독 선임·손아섭 방출은 19일 발표였고 오타니 유니폼 낙찰도 17~18일 이전 공개 정황으로 12시간 조건에서 제외했다."
-        ]
-      }
-    },
-    {
-      "event_key": "choi-won-ho-apbc-national-team-manager-appointment-20261019",
-      "url": "https://www.koreabaseball.com/MediaNews/Notice/List.aspx",
-      "title": "최원호 APBC 감독 선임의 20일 재보도",
-      "category": "메이저 스포츠",
-      "status": "rejected",
-      "note": "공식 KBO 목록과 독립 보도에서 최초 발표는 19일로 표시됐다. 20일 재게시를 새 발표로 쓰지 않는다.",
-      "next_action": "같은 선임 사건은 재추천하지 않는다. 새 명단 발표 등 편집 가치가 달라지는 후속만 최초 공개 시각을 확인한다.",
-      "recorded_at": 1792486051
-    },
-    {
-      "event_key": "ohtani-tokyo-series-jersey-auction-sale-20261017",
-      "url": "https://www.sportscollectorsdaily.com/ohtani-tokoyo-series-jersey-sells-f1-star-antonelli-rookie-card-sets-record/",
-      "title": "오타니 유니폼 낙찰 27억원의 20일 국내 재보도",
-      "category": "메이저 스포츠",
-      "status": "needs_date",
-      "note": "국내 20일07:19 보도보다 앞선 18일 해외 낙찰 보도가 발견됐다. 실제 최초 낙찰 공개가 12시간을 넘는 정황으로 보류했다. 경매 원문은 미확인이다.",
-      "next_action": "새 후보로 재포장하지 않는다. 정확한 경매 종료·최초 공개 원문이 필요한 경우에만 해당 경매 공개 페이지를 확인한다.",
-      "recorded_at": 1792486051
-    },
-    {
-      "event_key": "uefa-fifa-forty-two-question-letter-reports-20261020",
-      "url": "https://www.reuters.com/sports/soccer/uefa-demands-answers-fifa-over-infantino-presidency-reports-2026-10-20/",
-      "title": "UEFA의 FIFA 42개 질문 서한 보도",
-      "category": "축구",
-      "status": "needs_facts",
-      "note": "로이터 본문을 읽었지만 서한 자체의 독립 검증 미완료가 명시돼 있다. 원문과 최초 공개 시각이 확인되지 않아 확정된 큰 뉴스로 선정하지 않았다.",
-      "next_action": "UEFA·FIFA 공식 공개문 또는 검증 가능한 원문 서한이 새로 공개될 경우만 재검토하고 기존 보도를 새 사건으로 바꾸지 않는다.",
-      "recorded_at": 1792486051
-    },
-    {
-      "event_key": "jang-won-young-shinchan-gacha-hoon-reaction-20250430",
-      "url": "https://news.nate.com/view/20250430n42849",
-      "title": "장원영 훈이 가챠 반응의 20일 재유통",
-      "category": "아이돌",
-      "status": "rejected",
-      "note": "20일 루리웹 재게시와 같은 행동·대화가 2025-04-30 기사에 존재한다. 최초 공개가 12시간을 넘는다.",
-      "next_action": "같은 가챠 장면을 다시 추천하지 않는다. 새 원본의 다른 사건만 검토한다.",
-      "recorded_at": 1792485800
-    },
-    {
-      "event_key": "diego-gomez-halfway-goal-crystal-palace-20261018",
-      "url": "https://www.nbcsports.com/watch/watch/premier-league/diego-gomezs-halfway-line-screamer-doubles-brightons-lead-against-palace",
-      "title": "고메스 하프라인 골",
-      "category": "축구",
-      "status": "rejected",
-      "note": "최신 사용자 기준에 따라 제외: 실제 경기와 원본 공개가 10월18일이며 현재 12시간을 초과했다. 재검증 시각으로 새 소재로 바꾸지 않는다.",
-      "next_action": "이 사건을 재추천하지 않고 12시간 내 처음 공개된 다른 축구 사건을 확인한다.",
-      "recorded_at": 1792483202
-    },
-    {
-      "event_key": "ben-simmons-right-achilles-rupture-20261018",
-      "url": "https://www.nba.com/kings/news/ben-simmons-medical-update",
-      "title": "시몬스 아킬레스건 파열 공식 발표",
-      "category": "메이저 스포츠",
-      "status": "rejected",
-      "note": "공식 발표는 미국 10월18일19:13PDT(한국19일11:13)로 현재 12시간을 초과했다. 20일 재보도로 갱신하지 않는다.",
-      "next_action": "같은 부상 재보도를 제외하고 12시간 내 실제로 새로 발표된 메이저 스포츠 소식을 확인한다.",
-      "recorded_at": 1792483202
-    },
-    {
-      "event_key": "hollys-membership-cloud-data-breach-scope-20261019",
-      "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6859190_37012.html",
-      "title": "할리스 개인정보 유출 범위 후속",
-      "category": "시사",
-      "status": "needs_date",
-      "note": "20일06:47 MBC 본문 보도는 확인했지만 핵심 유출 범위 공개는 19일 후속 발표다. 12시간 안에 처음 공개된 중대한 새 사실인지 추가 확인되지 않아 준비본에서 제외한다.",
-      "next_action": "새 공시·피해 규모 정정이 실제 12시간 이내 처음 발표된 경우에만 내용과 시각을 확인한다.",
-      "recorded_at": 1792483202
     }
   ],
   "attempts": [
@@ -9257,11 +9625,11 @@
     },
     {
       "hour_utc": "2026102211",
-      "at": 1792661411,
+      "at": 1792661612,
       "status": "researching",
       "required": 10,
-      "ready": 0,
-      "missing": 10,
+      "ready": 12,
+      "missing": 0,
       "unfinished": 0
     }
   ]
