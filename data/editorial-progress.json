@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": 1792644101,
+  "updated_at": 1792644511,
   "items": [
     {
       "event_key": "lebron-sixers-regular-season-debut-defeats-knicks-20261020",
@@ -10263,20 +10263,11 @@
           "공개 후보 스냅샷은 비어 있어 최신 수집으로 부르지 않고 누적 진행본과 직접 원문 재검증을 사용했다."
         ]
       },
-      "note": "27자 자료 라벨을 15자로 수정. 실제 receiver 검사: 10개 schema·정각 유효성·메인 2396·/info 최대762 UTF-16 통과. 전송은 별도 미완료.",
-      "next_action": "14시 기존 요청은 잠금 유지. 전송 전 확정 실패 요청의 교체가 명시 승인되면 최신 state와 자료 유효성을 확인한 뒤 제출."
+      "note": "사용자가 이번 전송 전 확정 실패 요청의 수정 교체를 명시 승인. 실제 receiver 사전검사 10개·한 메시지2396·/info최대762 UTF-16 통과. 수정 요청 제출, 실제 발송은 대기.",
+      "next_action": "14시 동일 요청 실행 39724346691의 실제 sent/stories10/messages1 확인. 재요청하지 않는다. 실패·uncertain이면 실제 수량과 원인만 기록."
     }
   ],
   "attempts": [
-    {
-      "hour_utc": "2026102008",
-      "at": 1792486110,
-      "status": "submitted",
-      "required": 10,
-      "ready": 6,
-      "missing": 4,
-      "unfinished": 3
-    },
     {
       "hour_utc": "2026102011",
       "at": 1792489166,
@@ -10645,6 +10636,15 @@
       "ready": 0,
       "missing": 10,
       "unfinished": 0
+    },
+    {
+      "hour_utc": "2026102205",
+      "at": 1792644511,
+      "status": "submitted",
+      "required": 10,
+      "ready": 10,
+      "missing": 0,
+      "unfinished": 3
     }
   ]
 }
