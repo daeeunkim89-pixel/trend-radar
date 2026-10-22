@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": 1792643722,
+  "updated_at": 1792645201,
   "hour_utc": "2026102205",
-  "status": "delivery_failed",
-  "ready": 0,
+  "status": "sent",
+  "ready": 10,
   "required": 10,
-  "missing": 10,
+  "missing": 0,
   "duplicates_excluded": 0,
-  "reason_code": "ValueError",
+  "reason_code": "",
   "trigger": "scheduled"
 }

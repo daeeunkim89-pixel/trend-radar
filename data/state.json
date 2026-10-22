@@ -1,5 +1,5 @@
 {
-  "updated_at": 1792623601,
+  "updated_at": 1792645201,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,10 +15,10 @@
     "requested_stories": 10,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026102123",
+    "hour_utc": "2026102205",
     "category_counts": {
-      "시사": 9,
-      "축구": 1,
+      "시사": 10,
+      "축구": 0,
       "메이저 스포츠": 0,
       "아이돌": 0
     },
@@ -26,54 +26,54 @@
     "opened_sources": 10,
     "picks": [
       {
-        "title": "메타에 250억달러 배상 평결…“개인정보 약속으로 소비자 오도”",
-        "url": "https://www.hankyung.com/article/2026102273247",
-        "event_key": "meta-new-mexico-25b-privacy-deception-judgment-20261021"
+        "title": "공개 45분 만에 공격 수만건…PHP 취약점 공격은 결국 수백만건으로",
+        "url": "https://www.reuters.com/world/asia-pacific/cloudflare-sees-millions-exploit-attempts-after-php-disclosure-2026-10-22/",
+        "event_key": "php-cloudflare-millions-exploit-attempts-after-disclosure-20261022"
       },
       {
-        "title": "챔스 데뷔 코모가 맨유 4-1 격파…유럽대항전 32년 만의 최악 패배",
-        "url": "https://www.theguardian.com/football/live/2026/oct/21/como-v-manchester-united-champions-league-live",
-        "event_key": "como-4-1-manchester-united-worst-european-loss-20261021"
+        "title": "상어 ‘부캉이’ 34일 만에 수로 탈출…8시간·1.2km 유도 끝에 성공",
+        "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6859789_37012.html",
+        "event_key": "busan-shark-bukangi-third-rescue-canal-exit-20261022"
       },
       {
-        "title": "후티 공격 속 미국, 사우디 비필수 공무원·가족에 철수 명령",
-        "url": "https://www.reuters.com/world/middle-east/us-preparing-issue-ordered-departure-some-personnel-gulf-embassies-us-officials-2026-10-21/",
-        "event_key": "us-orders-nonemergency-departure-saudi-houthi-attacks-20261021"
+        "title": "유가 110달러가 장바구니·주담대까지 번졌다",
+        "url": "https://www.reuters.com/business/energy/groceries-home-loans-high-oil-prices-permeate-daily-life-2026-10-21/",
+        "event_key": "oil-110-daily-life-mortgage-food-costs-20261022"
       },
       {
-        "title": "중국 연계 해커, AI 침투도구로 커넥트와이즈 뚫고 수백 곳 노렸다",
-        "url": "https://www.reuters.com/technology/chinese-linked-hackers-compromise-connectwise-target-hundreds-global-attack-2026-10-21/",
-        "event_key": "storm-0940-ai-artex-connectwise-global-attack-20261021"
+        "title": "“녹지 훼손” 반대했는데…서울시 보고서엔 용산공원 60.1%가 도시화 지역",
+        "url": "https://www.khan.co.kr/article/202610220601001",
+        "event_key": "yongsan-park-seoul-60-percent-urbanized-report-disclosure-20261022"
       },
       {
-        "title": "프랑스 10년물 금리 5% 돌파…독일과 격차 15년 만에 최대",
-        "url": "https://www.hankyung.com/article/202610217106i",
-        "event_key": "france-10y-yield-5-percent-euro-debt-warning-20261021"
+        "title": "AI에게 장보기를 맡긴다…월마트, 결제까지 하는 ‘에이전트 계정’ 공개",
+        "url": "https://www.reuters.com/business/finance/walmart-launches-tools-ai-agents-shop-customers-2026-10-21/",
+        "event_key": "walmart-ai-agent-shopping-profiles-gateway-20261021"
       },
       {
-        "title": "미 의원들 “러시아가 AI 가짜광고로 민주당 후보 겨냥”",
-        "url": "https://www.reuters.com/world/us/lawmakers-say-us-briefing-showed-russia-targeting-democrats-with-misinformation-2026-10-21/",
-        "event_key": "us-briefing-russia-ai-misinformation-democrats-midterms-20261021"
+        "title": "영국 의료보험 설계자를 27년 감시했다…MI5 비밀문서 공개",
+        "url": "https://www.reuters.com/world/uk/britains-mi5-spied-nhs-founder-bevan-secret-documents-show-2026-10-21/",
+        "event_key": "mi5-surveilled-nhs-founder-bevan-27-years-files-20261022"
       },
       {
-        "title": "테슬라 매출 제자리·이익 4%↓…스페이스X 합병 논의는 공식 테이블로",
-        "url": "https://www.theverge.com/transportation/1015790/tesla-q3-2026-earnings-revenue-profit-roadster-spacex-merger",
-        "event_key": "tesla-q3-flat-revenue-profit-drop-spacex-merger-panels-20261021"
+        "title": "사우디 킹파드 공항 피격…1명 사망·8명 부상",
+        "url": "https://apnews.com/article/riyadh-saudi-arabia-oil-facility-drones-01c03af3191263452376510a670e8bf7",
+        "event_key": "saudi-king-fahd-airport-attack-one-dead-eight-injured-20261021"
       },
       {
-        "title": "메타, AI 투자로 잉여현금흐름 적자…저커버그 지배권 안 줄이는 신주 만든다",
-        "url": "https://www.hankyung.com/article/202610227257i",
-        "event_key": "meta-ai-capex-negative-fcf-class-c-shares-20261021"
+        "title": "‘하나의 중국’ 넘어서…필리핀·대만, 해저케이블 공동 방어 모색",
+        "url": "https://www.reuters.com/world/china/philippines-exploring-deeper-cooperation-with-taiwan-protect-cables-2026-10-21/",
+        "event_key": "philippines-taiwan-undersea-cable-cooperation-20261021"
       },
       {
-        "title": "교황 레오 수술 후 “추가 치료 불필요”…의료진 “종양 전이 없어”",
-        "url": "https://www.reuters.com/world/europe/pope-leo-will-not-need-further-therapy-after-his-operation-doctors-say-2026-10-21/",
-        "event_key": "pope-leo-no-further-therapy-tumor-not-spread-20261021"
+        "title": "펜실베이니아 홍역 1,317명…백신 접종자는 4명뿐이었다",
+        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/pennsylvania-measles-cases-rise-1317-state-health-department-says-2026-10-21/",
+        "event_key": "pennsylvania-measles-1317-43-counties-20261021"
       },
       {
-        "title": "트럼프 슈퍼팩, 막판 6주에 2억7700만달러…핵심 경합주에 쏟았다",
-        "url": "https://www.reuters.com/legal/government/trumps-maga-inc-unleashes-277-million-last-ditch-effort-save-republicans-key-us-2026-10-21/",
-        "event_key": "maga-inc-277m-six-week-midterm-spending-disclosure-20261021"
+        "title": "SAP 첫 분기 매출 100억유로…CEO “클라우드 이동의 주동력은 AI”",
+        "url": "https://www.reuters.com/world/europe/germanys-sap-tops-cloud-demand-forecasts-holds-yearly-operating-profit-outlook-2026-10-21/",
+        "event_key": "sap-first-10b-quarter-ai-cloud-backlog-20261021"
       }
     ]
   }
