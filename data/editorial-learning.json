@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": 1792500842,
+  "updated_at": 1792644159,
   "profile_checks": [
     {
       "at": 1792379965,
@@ -486,6 +486,15 @@
       "rule": "검증을 마친 최신 미발송 후보 전체를 BTP 적합성으로 상대 평가해 상위 10개를 선정한다. 사실 검증만으로 높은 순위를 주지는 않되, 10개 모두 최상급·100만 조회수 확실이라는 절대 문턱을 만들어 하위 순위를 비우지 않는다. 원본·최초 공개 12시간·중복 기준은 유지한다.",
       "next_check": "다음 20·23시 보고에서 최상위와 하위 순위의 차이를 실제 첫 장·장면·구체적 이해관계로 설명하고 10개를 선정한다. 관리비 신고·보안 공시 같은 설명형 주제는 일괄 금지 대신 실제 영향·BTP 적합성으로 비교한다. 부족하면 미검토 유망 후보의 원본 검증을 이어가며 검색량을 성과로 삼지 않는다.",
       "outcome": "17:50 사용자가 6개 묶음의 적합성과 수량을 지적했다. 17:54에는 ‘너가 고른 것 중 상위 10개를 보내라는 것’이라고 명확히 했다. 따라서 이전의 설명형 3건 자체를 모든 미래 회차의 절대 반려 목록으로 확대하지 않는다. 선정 지시는 기존 자동화에 상대 순위 상위10개로 반영했다. 다음 실제 전달 결과·품질은 아직 확인 전이다."
+    },
+    {
+      "id": "production-receiver-preflight-before-submission",
+      "status": "confirmed",
+      "introduced_at": 1792644159,
+      "evidence_ids": [],
+      "rule": "picks/request를 main에 쓰기 전에 최신 main의 실제 curated_report.load_edition/validate_edition·build_stories·same_event_filter·render_edition·render_info로 정확한 UTF-8 JSON+줄바꿈을 비송신 검증한다. 문자수·checked_materials 포함관계·최신성·SHA-256·10개 한 메시지·/info 3900 UTF-16 한도를 모두 통과해야 제출한다. 손검사나 회귀 테스트 성공을 해당 입력 검증으로 대체하지 않는다.",
+      "next_check": "다음 제출에서 정확한 바이트의 receiver 사전검사 결과를 남긴다. 실패 원인이 있으면 요청 전에 전부 수정하고 재검사한다. 같은 hour_utc 요청·sent·uncertain은 그대로 잠그며 자동 새 해시 요청을 만들지 않는다.",
+      "outcome": "2026-10-22 11시 checked_materials 오류 후 14시에는 자료 라벨27자(한도25)로 검증 실패: https://github.com/daeeunkim89-pixel/trend-radar/actions/runs/39723189489 . 13:41 KST 동일 원본 해시로 material label 오류를 로컬 재현, 라벨15자 수정본은 실제 receiver에서 10개·메인2396·/info최대762 UTF-16 통과. Telegram 호출0·검증시각 보존·실제 송신 미완료. 진행본만 수정했으며 기존14시 요청은 변경하지 않았다."
     }
   ]
 }
