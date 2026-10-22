@@ -1,5 +1,5 @@
 {
-  "updated_at": 1792645201,
+  "updated_at": 1792656001,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,65 +15,65 @@
     "requested_stories": 10,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026102205",
+    "hour_utc": "2026102208",
     "category_counts": {
       "시사": 10,
       "축구": 0,
       "메이저 스포츠": 0,
       "아이돌": 0
     },
-    "research_queries": 12,
+    "research_queries": 10,
     "opened_sources": 10,
     "picks": [
       {
-        "title": "공개 45분 만에 공격 수만건…PHP 취약점 공격은 결국 수백만건으로",
-        "url": "https://www.reuters.com/world/asia-pacific/cloudflare-sees-millions-exploit-attempts-after-php-disclosure-2026-10-22/",
-        "event_key": "php-cloudflare-millions-exploit-attempts-after-disclosure-20261022"
+        "title": "기준금리 3.00% 동결…추가 인상 문은 열어뒀다",
+        "url": "https://www.reuters.com/world/asia-pacific/bank-korea-holds-rates-after-back-to-back-hikes-2026-10-22/",
+        "event_key": "bok-holds-3-percent-growth-upgrade-future-hikes-20261022"
       },
       {
-        "title": "상어 ‘부캉이’ 34일 만에 수로 탈출…8시간·1.2km 유도 끝에 성공",
-        "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6859789_37012.html",
-        "event_key": "busan-shark-bukangi-third-rescue-canal-exit-20261022"
+        "title": "태풍 참피 반경 320km…대만·일본 항공편 225편 취소",
+        "url": "https://www.reuters.com/business/environment/taiwan-issues-land-warning-ahead-arrival-powerful-typhoon-champi-2026-10-22/",
+        "event_key": "typhoon-champi-taiwan-320km-radius-225-flights-20261022"
       },
       {
-        "title": "유가 110달러가 장바구니·주담대까지 번졌다",
-        "url": "https://www.reuters.com/business/energy/groceries-home-loans-high-oil-prices-permeate-daily-life-2026-10-21/",
-        "event_key": "oil-110-daily-life-mortgage-food-costs-20261022"
+        "title": "시진핑 풍자 코미디언 폭행…대만, 중국 연계 조직범죄 조사",
+        "url": "https://www.reuters.com/world/china/taiwan-probes-organised-crime-links-chinas-transnational-repression-2026-10-22/",
+        "event_key": "taiwan-probes-china-linked-organised-crime-transnational-repression-20261022"
       },
       {
-        "title": "“녹지 훼손” 반대했는데…서울시 보고서엔 용산공원 60.1%가 도시화 지역",
-        "url": "https://www.khan.co.kr/article/202610220601001",
-        "event_key": "yongsan-park-seoul-60-percent-urbanized-report-disclosure-20261022"
+        "title": "살 파먹는 기생충, 미국 야생동물서 첫 확인",
+        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-agriculture-dept-confirms-first-detection-new-world-screwworm-us-wildlife-2026-10-21/",
+        "event_key": "new-world-screwworm-first-us-wildlife-elk-beef-cow-20261021"
       },
       {
-        "title": "AI에게 장보기를 맡긴다…월마트, 결제까지 하는 ‘에이전트 계정’ 공개",
-        "url": "https://www.reuters.com/business/finance/walmart-launches-tools-ai-agents-shop-customers-2026-10-21/",
-        "event_key": "walmart-ai-agent-shopping-profiles-gateway-20261021"
+        "title": "호주서 메타 상대 첫 아동피해 집단소송",
+        "url": "https://www.reuters.com/world/asia-pacific/meta-sued-australia-class-action-over-alleged-social-media-harm-children-2026-10-22/",
+        "event_key": "australia-meta-child-harm-addiction-class-action-20261022"
       },
       {
-        "title": "영국 의료보험 설계자를 27년 감시했다…MI5 비밀문서 공개",
-        "url": "https://www.reuters.com/world/uk/britains-mi5-spied-nhs-founder-bevan-secret-documents-show-2026-10-21/",
-        "event_key": "mi5-surveilled-nhs-founder-bevan-27-years-files-20261022"
+        "title": "중국 ‘제조한 물’ 수출…물 장비 연 20억달러",
+        "url": "https://www.reuters.com/business/environment/china-bets-manufactured-water-wants-sell-it-world-2026-10-22/",
+        "event_key": "china-manufactured-water-technology-exports-investment-20261022"
       },
       {
-        "title": "사우디 킹파드 공항 피격…1명 사망·8명 부상",
-        "url": "https://apnews.com/article/riyadh-saudi-arabia-oil-facility-drones-01c03af3191263452376510a670e8bf7",
-        "event_key": "saudi-king-fahd-airport-attack-one-dead-eight-injured-20261021"
+        "title": "유럽 산불 69만9천ha…사람 떠난 농촌이 불길 통로 됐다",
+        "url": "https://www.reuters.com/world/europe/how-europes-emptying-countryside-is-fuelling-new-wildfire-crisis-2026-10-22/",
+        "event_key": "europe-wildfire-rural-abandonment-699000-hectares-20261022"
       },
       {
-        "title": "‘하나의 중국’ 넘어서…필리핀·대만, 해저케이블 공동 방어 모색",
-        "url": "https://www.reuters.com/world/china/philippines-exploring-deeper-cooperation-with-taiwan-protect-cables-2026-10-21/",
-        "event_key": "philippines-taiwan-undersea-cable-cooperation-20261021"
+        "title": "중국 자연재해 손실 42조원…562명 사망·실종",
+        "url": "https://www.reuters.com/business/environment/china-reports-30-billion-natural-disaster-losses-first-9-months-2026-10-22/",
+        "event_key": "china-natural-disaster-losses-29-9b-562-dead-missing-20261022"
       },
       {
-        "title": "펜실베이니아 홍역 1,317명…백신 접종자는 4명뿐이었다",
-        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/pennsylvania-measles-cases-rise-1317-state-health-department-says-2026-10-21/",
-        "event_key": "pennsylvania-measles-1317-43-counties-20261021"
+        "title": "거래 장애 겪은 호주 거래소…규제로 1,500억원 더 묶었다",
+        "url": "https://www.reuters.com/business/finance/australias-asx-says-turning-point-reached-after-trading-outages-2026-10-22/",
+        "event_key": "asx-trading-outages-extra-capital-turning-point-20261022"
       },
       {
-        "title": "SAP 첫 분기 매출 100억유로…CEO “클라우드 이동의 주동력은 AI”",
-        "url": "https://www.reuters.com/world/europe/germanys-sap-tops-cloud-demand-forecasts-holds-yearly-operating-profit-outlook-2026-10-21/",
-        "event_key": "sap-first-10b-quarter-ai-cloud-backlog-20261021"
+        "title": "거의 빈 GM 옛 본사에 1조4천억원…비영리 재개발",
+        "url": "https://apnews.com/article/dan-gilbert-detroit-renaissance-center-8a51ce0f6cf611196fc6130b5c4d2c3d",
+        "event_key": "dan-gilbert-1b-detroit-renaissance-center-nonprofit-20261021"
       }
     ]
   }
