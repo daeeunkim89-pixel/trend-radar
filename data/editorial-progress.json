@@ -1,7 +1,17 @@
 {
   "version": 1,
-  "updated_at": 1792650612,
+  "updated_at": 1792650680,
   "items": [
+    {
+      "event_key": "como-manchester-united-4-1-tactical-collapse-20261021",
+      "url": "https://www.uefa.com/uefachampionsleague/news/02aa-21e20b093685-f5cf9ebeb7a6-1000--champions-league-matchday-3-wednesday-highlights-and-rou/",
+      "title": "코모에 1-4로 무너진 맨유…주장도 전술 공개 비판",
+      "category": "축구",
+      "status": "needs_visual",
+      "note": "공식 UEFA 하이라이트·로이터 후속은 찾았지만 이번 실행에서 핵심 동작과 결과의 연속 프레임을 직접 확인하지 못했다.",
+      "next_action": "17시 준비 때 UEFA 공식 영상에서 실점 전개·주장 반응 프레임과 최초 공개 시각을 직접 확인",
+      "recorded_at": 1792650680
+    },
     {
       "event_key": "ucl-bayern-arsenal-rice-late-equaliser-20261021",
       "url": "https://www.reuters.com/sports/soccer/paz-dazzles-como-thrash-manchester-united-4-1-2026-10-21/",
@@ -9347,12 +9357,12 @@
     },
     {
       "hour_utc": "2026102208",
-      "at": 1792650612,
+      "at": 1792650680,
       "status": "researching",
       "required": 10,
       "ready": 10,
       "missing": 0,
-      "unfinished": 22
+      "unfinished": 23
     }
   ]
 }
