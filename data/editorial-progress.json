@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": 1792665210,
+  "updated_at": 1792665315,
   "items": [
     {
       "event_key": "france-first-human-shamonda-virus-case-20261022",
@@ -9435,15 +9435,6 @@
   ],
   "attempts": [
     {
-      "hour_utc": "2026102105",
-      "at": 1792553477,
-      "status": "researching",
-      "required": 10,
-      "ready": 5,
-      "missing": 5,
-      "unfinished": 3
-    },
-    {
       "hour_utc": "2026102108",
       "at": 1792567429,
       "status": "researching",
@@ -9807,6 +9798,15 @@
       "hour_utc": "2026102211",
       "at": 1792665210,
       "status": "review_complete",
+      "required": 10,
+      "ready": 12,
+      "missing": 0,
+      "unfinished": 0
+    },
+    {
+      "hour_utc": "2026102211",
+      "at": 1792665315,
+      "status": "submitted",
       "required": 10,
       "ready": 12,
       "missing": 0,
