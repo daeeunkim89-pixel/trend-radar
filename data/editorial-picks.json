@@ -1,284 +1,79 @@
 {
   "version": 2,
-  "hour_utc": "2026102202",
+  "hour_utc": "2026102205",
   "reviewer": "ChatGPT",
-  "generated_at": 1792632422,
+  "generated_at": 1792643684,
   "coverage": {
     "queries": [
-      "2026년 10월 22일 유튜브 엑셀방송 가짜 후원 초등생 200만원 MBC",
-      "2026년 10월 22일 지하안전평가 통과 땅꺼짐 56건 30건 MBC",
-      "2026년 10월 22일 용산공원 60.1% 도시화 서울시 보고서",
-      "October 22 2026 latest oil $110 Walmart AI agents Jio IPO MI5 Bevan airport attack measles Reuters",
-      "Reuters October 21 2026 groceries home loans high oil prices permeate daily life $110",
-      "Reuters October 21 2026 MI5 spied NHS founder Bevan secret documents 27 years",
-      "Reuters October 21 2026 King Fahd airport attack one killed eight injured Pennsylvania measles 1317",
-      "Reuters October 21 2026 Walmart AI agents shop customers Jio IPO 3.16 times day one",
-      "site:imnews.imbc.com/replay/2026/nwtoday/article/6859790 이름 불러주니 200쏴 초딩도 빠진 엑셀방송",
-      "site:imnews.imbc.com/replay/2026/nwtoday/article/6859812 안전평가 받았는데 30곳 땅꺼짐"
+      "\"Britain's MI5 spied on NHS founder Bevan\" Reuters October 21 2026",
+      "\"Philippines exploring deeper cooperation with Taiwan protect cables\" Reuters October 21 2026",
+      "\"Saudi civil aviation one killed eight injured King Fahd airport\" Reuters October 21 2026",
+      "\"Walmart launches tools AI agents shop for customers\" Reuters October 21 2026",
+      "\"Groceries to home loans high oil prices permeate daily life\" Reuters October 21 2026",
+      "\"Germany SAP tops cloud demand forecasts holds yearly operating profit outlook\" Reuters October 21 2026",
+      "\"Pennsylvania measles cases rise 1317 state health department\" Reuters October 21 2026",
+      "\"안전평가 통과했는데도 땅이 꺼졌다\" MBC 56건 30건 2026년 10월 22일",
+      "site:reuters.com/world/europe/germanys-sap-tops-cloud-demand-forecasts-holds-yearly-operating-profit-outlook-2026-10-21 \"10 billion euros\"",
+      "site:imnews.imbc.com/replay/2026/nwtoday/article/6859812_37012.html \"56건\" \"30건\"",
+      "site:reuters.com \"Cloudflare sees millions of exploit attempts after PHP disclosure\" October 22 2026",
+      "site:reuters.com October 22 2026 4:00 UTC breaking technology business world"
     ],
     "opened_urls": [
-      "https://imnews.imbc.com/replay/2026/nw2500/article/6859746_36989.html",
-      "https://imnews.imbc.com/replay/2026/nwtoday/article/6859812_37013.html",
-      "https://www.khan.co.kr/article/202610220601001",
+      "https://www.reuters.com/world/asia-pacific/cloudflare-sees-millions-exploit-attempts-after-php-disclosure-2026-10-22/",
       "https://imnews.imbc.com/replay/2026/nwtoday/article/6859789_37012.html",
-      "https://ktwb.com/2026/10/21/from-groceries-to-home-loans-high-oil-prices-permeate-daily-life/",
-      "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
-      "https://apnews.com/article/01c03af3191263452376510a670e8bf7",
-      "https://uk.marketscreener.com/news/india-s-jio-ipo-opens-for-public-bids-in-record-3-2-billion-sale-ce785cd8dc8cf12c",
-      "https://www.ft.com/content/aa6d9887-8056-4560-a488-d91bc4b8ba50",
       "https://www.reuters.com/business/energy/groceries-home-loans-high-oil-prices-permeate-daily-life-2026-10-21/",
+      "https://www.khan.co.kr/article/202610220601001",
       "https://www.reuters.com/business/finance/walmart-launches-tools-ai-agents-shop-customers-2026-10-21/",
-      "https://www.reuters.com/world/saudi-civil-aviation-says-one-killed-eight-injured-attack-king-fahd-airport-2026-10-21/",
       "https://www.reuters.com/world/uk/britains-mi5-spied-nhs-founder-bevan-secret-documents-show-2026-10-21/",
+      "https://apnews.com/article/riyadh-saudi-arabia-oil-facility-drones-01c03af3191263452376510a670e8bf7",
+      "https://www.reuters.com/world/china/philippines-exploring-deeper-cooperation-with-taiwan-protect-cables-2026-10-21/",
       "https://www.reuters.com/business/healthcare-pharmaceuticals/pennsylvania-measles-cases-rise-1317-state-health-department-says-2026-10-21/",
-      "https://imnews.imbc.com/replay/2026/nwtoday/article/6859812_37012.html",
-      "https://live.euronext.com/en/financial-news/investors-flood-jio-ipo-day-one-indias-largest-offering"
+      "https://www.reuters.com/world/europe/germanys-sap-tops-cloud-demand-forecasts-holds-yearly-operating-profit-outlook-2026-10-21/"
     ],
     "unavailable": [
-      "펨코 직접 본문은 보호 확인 미완료로 열지 않고 독립 원문과 공개 간접 결과만 사용했다.",
-      "여자아이돌의 12시간 이내 구체적 장면은 원본·최초 공개 시각·연속 장면을 모두 확인한 후보가 없었다.",
-      "MBC 엑셀방송의 내부 영상은 기사 본문 설명을 확인했지만 플레이어 연속 프레임을 직접 시청하지 않아 major_news로만 분류했다.",
-      "후보 스냅샷은 응답이 잘려 직접 최신 수집으로 간주하지 않았고 누적 진행본과 원문 재확인을 사용했다."
+      "12시간 이내 여자아이돌 구체 장면은 공식 원본·최초 공개 시각·연속 장면을 모두 확인한 후보가 없었다.",
+      "12시간 이내 축구 후보는 일상 스코어·이미 발송한 사건·최초 공개 시각 초과를 제외하자 최종 추천에 남지 않았다.",
+      "땅꺼짐 보도는 22일 아침 재방송보다 앞선 21일 20:19 최초 보도가 확인돼 14시 기준 12시간을 넘겨 제외했다.",
+      "킹파드 공항 로이터 주소는 직접 열리지 않아 같은 당국 발표를 본문에서 확인할 수 있는 AP 원문으로 교체했다.",
+      "공개 후보 스냅샷은 비어 있어 최신 수집으로 부르지 않고 누적 진행본과 직접 원문 재검증을 사용했다."
     ]
   },
   "picks": [
     {
-      "title": "초등생이 200만원 후원…유튜브로 번진 ‘엑셀방송’엔 가짜 후원 자막도 있었다",
+      "title": "공개 45분 만에 공격 수만건…PHP 취약점 공격은 결국 수백만건으로",
       "category": "시사",
-      "url": "https://imnews.imbc.com/replay/2026/nw2500/article/6859746_36989.html",
-      "source": "MBC",
+      "url": "https://www.reuters.com/world/asia-pacific/cloudflare-sees-millions-exploit-attempts-after-php-disclosure-2026-10-22/",
+      "source": "Reuters·Cloudflare",
       "kind": "article",
-      "event_key": "youtube-excel-stream-fake-donation-underage-exposure-20261022",
-      "why": "아동 결제·선정성·가짜 후원 조작이 한 사건에 모여 있어 부모와 플랫폼 이용자 모두 공유할 가능성이 높다.",
-      "angle": "첫 장은 초등생 200만원, 다음 장은 관리자가 42만원 가짜 자막을 입력하는 내부 영상과 규제 공백을 보여준다.",
-      "why_now": "22일 00:07 공개된 MBC 취재에서 가짜 후원 자막을 만드는 내부 영상과 미성년 고액 후원 문제가 함께 확인됐다.",
-      "verified_at": 1792632600,
-      "published_at": 1792595220,
+      "event_key": "php-cloudflare-millions-exploit-attempts-after-disclosure-20261022",
+      "why": "웹사이트 운영자와 이용자 모두에게 공개된 취약점이 불과 몇 시간 만에 전 세계 공격으로 바뀌는 속도를 보여준다.",
+      "angle": "첫 장은 ‘45분 수만건→2시간 수십만건→현재 수백만건’, 다음 장은 유럽 정부 사이트·일본 금융서비스 중단과 긴급 패치를 잇는다.",
+      "why_now": "22일 04:08 UTC 로이터가 Cloudflare 관측치를 처음 보도해, 전날 취약점 공개보다 공격 규모가 크게 달라진 새 사실이다.",
+      "verified_at": 1792643595,
+      "published_at": 1792642116,
       "evidence": [
         {
-          "url": "https://imnews.imbc.com/replay/2026/nw2500/article/6859746_36989.html",
-          "note": "MBC가 확보한 스튜디오 내부 영상에서 관리자가 테스트 입력 칸에 42만원을 넣자 후원 자막이 실행됐고, 전 종사자는 경쟁심을 자극하는 가짜 후원이라고 설명했다. 초등학생 200만원 후원 사례와 연령 제한 부재도 본문에서 확인했다."
+          "url": "https://www.reuters.com/world/asia-pacific/cloudflare-sees-millions-exploit-attempts-after-php-disclosure-2026-10-22/",
+          "note": "Cloudflare CEO는 공개 전 10시간 수천건이던 공격 시도가 공개 45분 뒤 수만건, 2시간 뒤 수십만건, 이후 수백만건으로 늘었다고 밝혔다. 유럽 정부 사이트와 일본 MUFG 일부 서비스 중단도 확인했다."
         }
       ],
       "materials": [
         {
-          "url": "https://imnews.imbc.com/replay/2026/nw2500/article/6859746_36989.html",
-          "label": "최초 공개된 MBC 취재 본문·내부영상 설명",
+          "url": "https://www.reuters.com/world/asia-pacific/cloudflare-sees-millions-exploit-attempts-after-php-disclosure-2026-10-22/",
+          "label": "확인한 로이터 원문·Cloudflare 공개 수치",
           "kind": "source"
         }
       ],
-      "caution": "영상의 각 프레임을 직접 재생 확인하지 않았으므로 내부영상에 대한 MBC의 확인 범위와 전 종사자 증언을 구분한다. 초등학생 사례는 부모의 온라인 글로 보도된 내용이다.",
+      "caution": "공격 시도 수를 성공한 침해 건수로 표현하지 않는다. 일부 서비스 중단은 예방 조치도 포함한다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-10-22",
-        "observation": "22일 00:07 MBC 최초 보도 본문에서 테스트 입력 42만원으로 후원 자막이 실행되는 내부 영상, 전 종사자의 가짜 후원 증언, 연령 제한 부재와 초등학생 200만원 후원 사례를 확인했다.",
-        "checked_materials": [
-          "https://imnews.imbc.com/replay/2026/nwtoday/article/6859790_37012.html"
-        ],
+        "observation": "로이터 본문에서 Cloudflare 관측치의 시간대별 증가, PHP 긴급 패치, 유럽·일본의 대응을 확인했다.",
+        "checked_materials": [],
         "outline": [
-          "첫 장: 테스트 입력 42만원→후원 자막 실행",
-          "2장: 전 종사자가 설명한 가짜 후원의 목적",
-          "3장: 초등학생 200만원 후원·연령 제한 부재"
-        ]
-      }
-    },
-    {
-      "title": "안전평가 통과했는데도 땅이 꺼졌다…5년간 56건 중 30건",
-      "category": "시사",
-      "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6859812_37012.html",
-      "source": "MBC",
-      "kind": "article",
-      "event_key": "korea-underground-safety-assessment-sinkholes-30-of-56-20261022",
-      "why": "생활 안전제도가 실제 사고의 절반 이상을 걸러내지 못했다는 숫자가 직관적이고 파급력이 크다.",
-      "angle": "첫 장은 ‘56건 중 30건’, 다음 장은 부실평가 적발은 단 1건이라는 제도 사각을 붙인다.",
-      "why_now": "최근 5년 통계와 국정감사 자료가 22일 아침 새로 공개됐다.",
-      "verified_at": 1792632600,
-      "published_at": 1792621680,
-      "evidence": [
-        {
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6859812_37012.html",
-          "note": "굴착 현장 30m 이내 지반침하 56건 중 30건이 지하안전평가 뒤 발생했고, 같은 기간 부실평가 적발은 1건이었다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6859812_37012.html",
-          "label": "확인한 원문·본문 사진",
-          "kind": "source"
-        }
-      ],
-      "caution": "평가 통과가 사고 원인이라는 인과로 단정하지 않고 조사·평가 제도 한계를 구분한다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-22",
-        "observation": "MBC 본문에서 56·30·1건 수치와 광명·명일동 사례, 국토부 반론을 확인했다.",
-        "checked_materials": [
-          "https://imnews.imbc.com/replay/2026/nwtoday/article/6859812_37012.html"
-        ],
-        "outline": [
-          "첫 장: 56건 중 30건, 평가 뒤 사고",
-          "2장: 부실평가 적발은 단 1건",
-          "3장: 민간 의뢰 구조와 교차검증 대안"
-        ]
-      }
-    },
-    {
-      "title": "“녹지 훼손” 반대했는데…서울시 보고서엔 용산공원 60.1%가 도시화 지역",
-      "category": "시사",
-      "url": "https://www.khan.co.kr/article/202610220601001",
-      "source": "경향신문·서울시 보고서",
-      "kind": "article",
-      "event_key": "yongsan-park-seoul-60-percent-urbanized-report-disclosure-20261022",
-      "why": "서울 핵심 주택공급 논쟁에서 시장 발언과 서울시 자체 자료가 충돌하는 숫자 중심 소재다.",
-      "angle": "첫 장은 ‘60.1% 도시화’, 다음 장은 주택 후보지와 겹치는 지도·2021년 낮은 보전가치 분류를 보여준다.",
-      "why_now": "국회가 서울시의 2009·2021년 보고서를 제출받아 22일 처음 공개했다.",
-      "verified_at": 1792632600,
-      "published_at": 1792616460,
-      "evidence": [
-        {
-          "url": "https://www.khan.co.kr/article/202610220601001",
-          "note": "2009년 보고서는 부지 60.1%를 도시화 지역, 39.9%를 녹지·오픈스페이스로 봤고 2021년 보고서는 후보지 일부를 보전가치 낮은 1등급으로 분류했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.khan.co.kr/article/202610220601001",
-          "label": "확인한 원문·본문 사진",
-          "kind": "source"
-        }
-      ],
-      "caution": "도시화 지역이라는 분류가 즉시 건축 가능하거나 오염 정화가 불필요하다는 뜻은 아니다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-22",
-        "observation": "본문·제공 지도 설명·서울시 보고서 수치와 서울시·정부의 상반된 입장을 확인했다.",
-        "checked_materials": [
-          "https://www.khan.co.kr/article/202610220601001"
-        ],
-        "outline": [
-          "첫 장: 용산공원 60.1% ‘도시화 지역’",
-          "2장: 주택 후보지와 겹치는 서울시 지도",
-          "3장: 서울시 반대 논리와 정부 공급 논리"
-        ]
-      }
-    },
-    {
-      "title": "유가 110달러가 장바구니·주담대까지 번졌다",
-      "category": "시사",
-      "url": "https://www.reuters.com/business/energy/groceries-home-loans-high-oil-prices-permeate-daily-life-2026-10-21/",
-      "source": "로이터 그래픽",
-      "kind": "article",
-      "event_key": "oil-110-daily-life-mortgage-food-costs-20261022",
-      "why": "기름값이 교통비를 넘어 식품 포장·난방·주택대출로 번지는 경로가 생활 밀착형 카드뉴스가 된다.",
-      "angle": "첫 장은 유가 110달러와 디젤 최고가, 다음 장은 금리·식품·난방비로 이어지는 연쇄를 수치로 보여준다.",
-      "why_now": "22일 새벽 로이터가 최신 가격과 가계비용 데이터를 묶어 영향 경로를 처음 공개했다.",
-      "verified_at": 1792632600,
-      "published_at": 1792623840,
-      "evidence": [
-        {
-          "url": "https://www.reuters.com/business/energy/groceries-home-loans-high-oil-prices-permeate-daily-life-2026-10-21/",
-          "note": "유가 약 110달러, 영국·미국 디젤 최고가, 호주 평균 주택대출 연 3,900호주달러 증가와 미국 모기지 7.5%를 확인했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.reuters.com/business/energy/groceries-home-loans-high-oil-prices-permeate-daily-life-2026-10-21/",
-          "label": "확인한 원문·발행시각",
-          "kind": "source"
-        }
-      ],
-      "caution": "국가별 사례를 한국 물가나 대출금리로 직접 환산하지 않는다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-22",
-        "observation": "본문의 그래픽 설명과 가격·대출·난방·포장비 수치를 확인했다.",
-        "checked_materials": [
-          "https://www.reuters.com/business/energy/groceries-home-loans-high-oil-prices-permeate-daily-life-2026-10-21/"
-        ],
-        "outline": [
-          "첫 장: 유가 110달러·디젤 최고가",
-          "2장: 연료→물가→금리 경로",
-          "3장: 호주 대출·미국 난방·식품 포장 사례"
-        ]
-      }
-    },
-    {
-      "title": "AI에게 장보기를 맡긴다…월마트, 결제까지 하는 ‘에이전트 계정’ 공개",
-      "category": "시사",
-      "url": "https://www.reuters.com/business/finance/walmart-launches-tools-ai-agents-shop-customers-2026-10-21/",
-      "source": "로이터",
-      "kind": "article",
-      "event_key": "walmart-ai-agent-shopping-profiles-gateway-20261021",
-      "why": "AI가 추천을 넘어 실제 구매를 집행한다는 변화가 소비자에게 즉각적으로 이해되고 공유되기 쉽다.",
-      "angle": "첫 장은 ‘AI가 대신 결제’, 다음 장은 지출한도·승인·접근취소 안전장치와 아마존의 반대 전략을 대비한다.",
-      "why_now": "월마트가 21일 Agent Profiles와 Agent Gateway 출시 계획을 처음 공개했다.",
-      "verified_at": 1792632600,
-      "published_at": 1792617240,
-      "evidence": [
-        {
-          "url": "https://www.reuters.com/business/finance/walmart-launches-tools-ai-agents-shop-customers-2026-10-21/",
-          "note": "다음 달 Agent Profiles, 거래 추적·지출 한도·승인 설정, ChatGPT·Gemini·Muse 연동 게이트웨이를 확인했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.reuters.com/business/finance/walmart-launches-tools-ai-agents-shop-customers-2026-10-21/",
-          "label": "확인한 원문·발행시각",
-          "kind": "source"
-        }
-      ],
-      "caution": "AI가 카드정보를 직접 보는 것으로 표현하지 않는다. 카드정보 접근은 금지된다고 회사가 밝혔다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-21",
-        "observation": "로이터 본문에서 기능, 출시 시점, 결제 통제와 대상 계정을 확인했다.",
-        "checked_materials": [
-          "https://www.reuters.com/business/finance/walmart-launches-tools-ai-agents-shop-customers-2026-10-21/"
-        ],
-        "outline": [
-          "첫 장: ‘AI가 장보고 결제한다’",
-          "2장: 지출한도·승인·접근취소",
-          "3장: 월마트 개방 대 아마존 제한"
-        ]
-      }
-    },
-    {
-      "title": "사우디 킹파드 공항 피격…1명 사망·8명 부상",
-      "category": "시사",
-      "url": "https://www.reuters.com/world/saudi-civil-aviation-says-one-killed-eight-injured-attack-king-fahd-airport-2026-10-21/",
-      "source": "로이터",
-      "kind": "article",
-      "event_key": "saudi-king-fahd-airport-attack-one-dead-eight-injured-20261021",
-      "why": "민간 국제공항 공격과 인명피해가 확인된 즉시성이 큰 중동 안보 사건이다.",
-      "angle": "첫 장은 공항 위치와 1명 사망·8명 부상, 다음 장은 피해 평가 중이라는 제한된 확인 범위를 명확히 한다.",
-      "why_now": "사우디 민간항공 당국이 22일 새벽 인명피해를 처음 공식 확인했다.",
-      "verified_at": 1792632600,
-      "published_at": 1792621260,
-      "evidence": [
-        {
-          "url": "https://www.reuters.com/world/saudi-civil-aviation-says-one-killed-eight-injured-attack-king-fahd-airport-2026-10-21/",
-          "note": "담맘 킹파드 국제공항 공격으로 주민 1명 사망, 8명 부상, 물적 피해 평가 중이라는 당국 발표를 확인했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.reuters.com/world/saudi-civil-aviation-says-one-killed-eight-injured-attack-king-fahd-airport-2026-10-21/",
-          "label": "확인한 원문·발행시각",
-          "kind": "source"
-        }
-      ],
-      "caution": "공격 주체와 수단은 본문에서 확인되지 않았으므로 추정하지 않는다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-21",
-        "observation": "로이터 단신에서 사우디 민간항공 당국의 인명피해와 피해평가 상태를 확인했다.",
-        "checked_materials": [
-          "https://www.reuters.com/world/saudi-civil-aviation-says-one-killed-eight-injured-attack-king-fahd-airport-2026-10-21/"
-        ],
-        "outline": [
-          "첫 장: 킹파드 공항 피격·1명 사망",
-          "2장: 8명 부상과 위치",
-          "3장: 아직 확인되지 않은 공격 주체·수단"
+          "첫 장: 45분 수만건→2시간 수십만건→수백만건",
+          "2장: 유럽 정부 사이트·MUFG 일부 서비스 중단",
+          "3장: AI가 찾은 오래된 PHP 취약점과 긴급 업데이트"
         ]
       }
     },
@@ -292,7 +87,7 @@
       "why": "도시 수로에 갇힌 상어를 시민과 잠수사가 장시간 유도해 바다로 돌려보낸 결과가 밝고 시각적인 장면 소재다.",
       "angle": "첫 장은 ‘34일 만의 탈출’, 다음 장은 1.2km 그물 이동·수십 차례 되돌아감·8시간 실랑이를 순서대로 보여준다.",
       "why_now": "세 번째 구조 시도가 성공한 결과와 작업 과정이 22일 아침 처음 정리됐다.",
-      "verified_at": 1792632600,
+      "verified_at": 1792643595,
       "published_at": 1792618860,
       "evidence": [
         {
@@ -312,9 +107,7 @@
         "mode": "major_news",
         "event_date": "2026-10-22",
         "observation": "본문·현장 사진·해수부 담당자 발언으로 구조 성공과 작업 순서를 확인했으나 동영상 프레임은 직접 재생하지 않았다.",
-        "checked_materials": [
-          "https://imnews.imbc.com/replay/2026/nwtoday/article/6859789_37012.html"
-        ],
+        "checked_materials": [],
         "outline": [
           "첫 장: 34일 만에 수로 밖으로",
           "2장: 1.2km 그물·8시간 유도",
@@ -323,82 +116,116 @@
       }
     },
     {
-      "title": "인도 최대 IPO, 100분 만에 완판…지오는 첫날 3.16배 몰렸다",
+      "title": "유가 110달러가 장바구니·주담대까지 번졌다",
       "category": "시사",
-      "url": "https://live.euronext.com/en/financial-news/investors-flood-jio-ipo-day-one-indias-largest-offering",
-      "source": "로이터·유로넥스트 재게재",
+      "url": "https://www.reuters.com/business/energy/groceries-home-loans-high-oil-prices-permeate-daily-life-2026-10-21/",
+      "source": "로이터 그래픽",
       "kind": "article",
-      "event_key": "jio-ipo-316x-day-one-india-record-20261021",
-      "why": "인도 최대 IPO와 100분 완판이라는 규모·속도가 한 장에서 이해되는 강한 숫자 소재다.",
-      "angle": "첫 장은 32억달러·100분·3.16배, 다음 장은 5억명 가입자와 1083억달러 가치평가를 붙인다.",
-      "why_now": "장중 완판에서 더 나아가 첫날 최종 3.16배 청약이라는 새 마감 수치가 공개됐다.",
-      "verified_at": 1792632600,
-      "published_at": 1792598580,
+      "event_key": "oil-110-daily-life-mortgage-food-costs-20261022",
+      "why": "기름값이 교통비를 넘어 식품 포장·난방·주택대출로 번지는 경로가 생활 밀착형 카드뉴스가 된다.",
+      "angle": "첫 장은 유가 110달러와 디젤 최고가, 다음 장은 금리·식품·난방비로 이어지는 연쇄를 수치로 보여준다.",
+      "why_now": "22일 새벽 로이터가 최신 가격과 가계비용 데이터를 묶어 영향 경로를 처음 공개했다.",
+      "verified_at": 1792643595,
+      "published_at": 1792623840,
       "evidence": [
         {
-          "url": "https://live.euronext.com/en/financial-news/investors-flood-jio-ipo-day-one-indias-largest-offering",
-          "note": "32억달러 규모, 전체 100분 내 완판, 첫날 3.16배, 기관 9.42배와 10월 28일 상장 계획을 확인했다."
+          "url": "https://www.reuters.com/business/energy/groceries-home-loans-high-oil-prices-permeate-daily-life-2026-10-21/",
+          "note": "유가 약 110달러, 영국·미국 디젤 최고가, 호주 평균 주택대출 연 3,900호주달러 증가와 미국 모기지 7.5%를 확인했다."
         }
       ],
       "materials": [
         {
-          "url": "https://live.euronext.com/en/financial-news/investors-flood-jio-ipo-day-one-indias-largest-offering",
+          "url": "https://www.reuters.com/business/energy/groceries-home-loans-high-oil-prices-permeate-daily-life-2026-10-21/",
           "label": "확인한 원문·발행시각",
           "kind": "source"
         }
       ],
-      "caution": "청약 경쟁률을 상장 후 수익 보장으로 해석하지 않는다.",
+      "caution": "국가별 사례를 한국 물가나 대출금리로 직접 환산하지 않는다.",
       "readiness": {
         "mode": "major_news",
-        "event_date": "2026-10-21",
-        "observation": "유로넥스트에 실린 로이터 본문에서 첫날 최종 수치와 IPO 조건을 확인했다.",
-        "checked_materials": [
-          "https://live.euronext.com/en/financial-news/investors-flood-jio-ipo-day-one-indias-largest-offering"
-        ],
+        "event_date": "2026-10-22",
+        "observation": "본문의 그래픽 설명과 가격·대출·난방·포장비 수치를 확인했다.",
+        "checked_materials": [],
         "outline": [
-          "첫 장: 32억달러·100분·3.16배",
-          "2장: 인도 최대 IPO와 5억명 가입자",
-          "3장: 기관·소매 청약 차이와 상장 일정"
+          "첫 장: 유가 110달러·디젤 최고가",
+          "2장: 연료→물가→금리 경로",
+          "3장: 호주 대출·미국 난방·식품 포장 사례"
         ]
       }
     },
     {
-      "title": "펜실베이니아 홍역 1,317명…백신 접종자는 4명뿐이었다",
+      "title": "“녹지 훼손” 반대했는데…서울시 보고서엔 용산공원 60.1%가 도시화 지역",
       "category": "시사",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/pennsylvania-measles-cases-rise-1317-state-health-department-says-2026-10-21/",
-      "source": "로이터·펜실베이니아 보건당국",
+      "url": "https://www.khan.co.kr/article/202610220601001",
+      "source": "경향신문·서울시 보고서",
       "kind": "article",
-      "event_key": "pennsylvania-measles-1317-43-counties-20261021",
-      "why": "확진 규모와 ‘접종자 4명’이라는 대비가 예방접종의 의미를 분명한 숫자로 전달한다.",
-      "angle": "첫 장은 1,317명·접종자 4명, 다음 장은 43개 카운티·입원 251명·사망 5명으로 확산 규모를 보여준다.",
-      "why_now": "주 보건당국이 21일 월요일보다 31명 늘어난 최신 집계를 공개했다.",
-      "verified_at": 1792632600,
-      "published_at": 1792612320,
+      "event_key": "yongsan-park-seoul-60-percent-urbanized-report-disclosure-20261022",
+      "why": "서울 핵심 주택공급 논쟁에서 시장 발언과 서울시 자체 자료가 충돌하는 숫자 중심 소재다.",
+      "angle": "첫 장은 ‘60.1% 도시화’, 다음 장은 주택 후보지와 겹치는 지도·2021년 낮은 보전가치 분류를 보여준다.",
+      "why_now": "국회가 서울시의 2009·2021년 보고서를 제출받아 22일 처음 공개했다.",
+      "verified_at": 1792643595,
+      "published_at": 1792616460,
       "evidence": [
         {
-          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/pennsylvania-measles-cases-rise-1317-state-health-department-says-2026-10-21/",
-          "note": "확진 1,317명, 43개 카운티, 입원 251명, 사망 5명, 접종자 4명을 확인했다."
+          "url": "https://www.khan.co.kr/article/202610220601001",
+          "note": "2009년 보고서는 부지 60.1%를 도시화 지역, 39.9%를 녹지·오픈스페이스로 봤고 2021년 보고서는 후보지 일부를 보전가치 낮은 1등급으로 분류했다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/pennsylvania-measles-cases-rise-1317-state-health-department-says-2026-10-21/",
+          "url": "https://www.khan.co.kr/article/202610220601001",
+          "label": "확인한 원문·본문 사진",
+          "kind": "source"
+        }
+      ],
+      "caution": "도시화 지역이라는 분류가 즉시 건축 가능하거나 오염 정화가 불필요하다는 뜻은 아니다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-22",
+        "observation": "본문·제공 지도 설명·서울시 보고서 수치와 서울시·정부의 상반된 입장을 확인했다.",
+        "checked_materials": [],
+        "outline": [
+          "첫 장: 용산공원 60.1% ‘도시화 지역’",
+          "2장: 주택 후보지와 겹치는 서울시 지도",
+          "3장: 서울시 반대 논리와 정부 공급 논리"
+        ]
+      }
+    },
+    {
+      "title": "AI에게 장보기를 맡긴다…월마트, 결제까지 하는 ‘에이전트 계정’ 공개",
+      "category": "시사",
+      "url": "https://www.reuters.com/business/finance/walmart-launches-tools-ai-agents-shop-customers-2026-10-21/",
+      "source": "로이터",
+      "kind": "article",
+      "event_key": "walmart-ai-agent-shopping-profiles-gateway-20261021",
+      "why": "AI가 추천을 넘어 실제 구매를 집행한다는 변화가 소비자에게 즉각적으로 이해되고 공유되기 쉽다.",
+      "angle": "첫 장은 ‘AI가 대신 결제’, 다음 장은 지출한도·승인·접근취소 안전장치와 아마존의 반대 전략을 대비한다.",
+      "why_now": "월마트가 21일 Agent Profiles와 Agent Gateway 출시 계획을 처음 공개했다.",
+      "verified_at": 1792643595,
+      "published_at": 1792617240,
+      "evidence": [
+        {
+          "url": "https://www.reuters.com/business/finance/walmart-launches-tools-ai-agents-shop-customers-2026-10-21/",
+          "note": "다음 달 Agent Profiles, 거래 추적·지출 한도·승인 설정, ChatGPT·Gemini·Muse 연동 게이트웨이를 확인했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.reuters.com/business/finance/walmart-launches-tools-ai-agents-shop-customers-2026-10-21/",
           "label": "확인한 원문·발행시각",
           "kind": "source"
         }
       ],
-      "caution": "개별 감염 원인이나 백신 효능 수치를 이 기사만으로 계산하지 않는다.",
+      "caution": "AI가 카드정보를 직접 보는 것으로 표현하지 않는다. 카드정보 접근은 금지된다고 회사가 밝혔다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-10-21",
-        "observation": "로이터 본문의 주 보건당국 최신 집계와 발행시각을 확인했다.",
-        "checked_materials": [
-          "https://www.reuters.com/business/healthcare-pharmaceuticals/pennsylvania-measles-cases-rise-1317-state-health-department-says-2026-10-21/"
-        ],
+        "observation": "로이터 본문에서 기능, 출시 시점, 결제 통제와 대상 계정을 확인했다.",
+        "checked_materials": [],
         "outline": [
-          "첫 장: 확진 1,317명·접종자 4명",
-          "2장: 43개 카운티로 확산",
-          "3장: 입원 251명·사망 5명"
+          "첫 장: ‘AI가 장보고 결제한다’",
+          "2장: 지출한도·승인·접근취소",
+          "3장: 월마트 개방 대 아마존 제한"
         ]
       }
     },
@@ -412,7 +239,7 @@
       "why": "국가의료체계 창시자와 정보기관 감시라는 예상 밖 대비가 역사·정치 독자 모두에게 강하다.",
       "angle": "첫 장은 ‘NHS 창시자 27년 감시’, 다음 장은 공산당 연계 의심과 결국 ‘별것 없는 파일’이라는 결론을 뒤집기로 쓴다.",
       "why_now": "영국 국립문서보관소가 비공개 MI5 파일을 22일 새로 공개했다.",
-      "verified_at": 1792632600,
+      "verified_at": 1792643595,
       "published_at": 1792623900,
       "evidence": [
         {
@@ -432,13 +259,163 @@
         "mode": "major_news",
         "event_date": "2026-10-22",
         "observation": "새로 기밀 해제된 문서의 감시 기간·이유·내부 결론을 로이터 본문에서 확인했다.",
-        "checked_materials": [
-          "https://www.reuters.com/world/uk/britains-mi5-spied-nhs-founder-bevan-secret-documents-show-2026-10-21/"
-        ],
+        "checked_materials": [],
         "outline": [
           "첫 장: NHS 창시자 27년 감시",
           "2장: 의회 활동·동선·회의 추적",
           "3장: ‘공산당 협력은 실패’와 허탈한 내부 결론"
+        ]
+      }
+    },
+    {
+      "title": "사우디 킹파드 공항 피격…1명 사망·8명 부상",
+      "category": "시사",
+      "url": "https://apnews.com/article/riyadh-saudi-arabia-oil-facility-drones-01c03af3191263452376510a670e8bf7",
+      "source": "AP·사우디 민간항공 당국",
+      "kind": "article",
+      "event_key": "saudi-king-fahd-airport-attack-one-dead-eight-injured-20261021",
+      "why": "민간 국제공항 공격과 인명피해가 확인된 즉시성이 큰 중동 안보 사건이다.",
+      "angle": "첫 장은 공항 위치와 1명 사망·8명 부상, 다음 장은 피해 평가 중이라는 제한된 확인 범위를 명확히 한다.",
+      "why_now": "사우디 민간항공 당국이 22일 새벽 인명피해를 처음 공식 확인했다.",
+      "verified_at": 1792643595,
+      "published_at": 1792612300,
+      "evidence": [
+        {
+          "url": "https://apnews.com/article/riyadh-saudi-arabia-oil-facility-drones-01c03af3191263452376510a670e8bf7",
+          "note": "AP 본문에서 사우디 민간항공 당국이 발표한 주민 1명 사망, 8명 부상, 물적 피해와 항공편 우회를 확인했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://apnews.com/article/riyadh-saudi-arabia-oil-facility-drones-01c03af3191263452376510a670e8bf7",
+          "label": "확인한 AP 원문·당국 발표",
+          "kind": "source"
+        }
+      ],
+      "caution": "공격 주체와 수단은 본문에서 확인되지 않았으므로 추정하지 않는다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-21",
+        "observation": "AP 본문에서 사우디 민간항공 당국의 인명피해·물적 피해와 공격 주체 미확정 상태를 확인했다.",
+        "checked_materials": [],
+        "outline": [
+          "첫 장: 킹파드 공항 피격·1명 사망",
+          "2장: 8명 부상과 위치",
+          "3장: 아직 확인되지 않은 공격 주체·수단"
+        ]
+      }
+    },
+    {
+      "title": "‘하나의 중국’ 넘어서…필리핀·대만, 해저케이블 공동 방어 모색",
+      "category": "시사",
+      "url": "https://www.reuters.com/world/china/philippines-exploring-deeper-cooperation-with-taiwan-protect-cables-2026-10-21/",
+      "source": "로이터",
+      "kind": "article",
+      "event_key": "philippines-taiwan-undersea-cable-cooperation-20261021",
+      "why": "인터넷의 거의 전부를 운반하는 해저케이블과 남중국해 긴장을 연결해 한국 독자도 체감할 인프라 안보 소재다.",
+      "angle": "첫 장은 해저케이블 공동 방어, 다음 장은 하나의 중국 원칙과 회색지대 압박 사이의 딜레마를 보여준다.",
+      "why_now": "필리핀 외교관이 21일 대만과 지식공유·역량강화를 포함한 협력 검토를 처음 공개했다.",
+      "verified_at": 1792643595,
+      "published_at": 1792622640,
+      "evidence": [
+        {
+          "url": "https://www.reuters.com/world/china/philippines-exploring-deeper-cooperation-with-taiwan-protect-cables-2026-10-21/",
+          "note": "필리핀과 대만의 해저케이블 보호 협력 검토, Bashi 해협, 공동순찰 가능성 질문과 UN 역할 제안을 확인했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.reuters.com/world/china/philippines-exploring-deeper-cooperation-with-taiwan-protect-cables-2026-10-21/",
+          "label": "확인한 원문·발행시각",
+          "kind": "source"
+        }
+      ],
+      "caution": "공동순찰이 확정된 것은 아니다. ‘검토’와 ‘실행’을 구분한다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-21",
+        "observation": "로이터 본문에서 필리핀 외교관과 대만 대표 발언, 현재 협력 범위를 확인했다.",
+        "checked_materials": [],
+        "outline": [
+          "첫 장: 해저케이블 공동 방어 모색",
+          "2장: 하나의 중국 원칙과 실용 협력",
+          "3장: 회색지대·공동순찰은 아직 검토 단계"
+        ]
+      }
+    },
+    {
+      "title": "펜실베이니아 홍역 1,317명…백신 접종자는 4명뿐이었다",
+      "category": "시사",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/pennsylvania-measles-cases-rise-1317-state-health-department-says-2026-10-21/",
+      "source": "로이터·펜실베이니아 보건당국",
+      "kind": "article",
+      "event_key": "pennsylvania-measles-1317-43-counties-20261021",
+      "why": "확진 규모와 ‘접종자 4명’이라는 대비가 예방접종의 의미를 분명한 숫자로 전달한다.",
+      "angle": "첫 장은 1,317명·접종자 4명, 다음 장은 43개 카운티·입원 251명·사망 5명으로 확산 규모를 보여준다.",
+      "why_now": "주 보건당국이 21일 월요일보다 31명 늘어난 최신 집계를 공개했다.",
+      "verified_at": 1792643595,
+      "published_at": 1792612320,
+      "evidence": [
+        {
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/pennsylvania-measles-cases-rise-1317-state-health-department-says-2026-10-21/",
+          "note": "확진 1,317명, 43개 카운티, 입원 251명, 사망 5명, 접종자 4명을 확인했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/pennsylvania-measles-cases-rise-1317-state-health-department-says-2026-10-21/",
+          "label": "확인한 원문·발행시각",
+          "kind": "source"
+        }
+      ],
+      "caution": "개별 감염 원인이나 백신 효능 수치를 이 기사만으로 계산하지 않는다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-21",
+        "observation": "로이터 본문의 주 보건당국 최신 집계와 발행시각을 확인했다.",
+        "checked_materials": [],
+        "outline": [
+          "첫 장: 확진 1,317명·접종자 4명",
+          "2장: 43개 카운티로 확산",
+          "3장: 입원 251명·사망 5명"
+        ]
+      }
+    },
+    {
+      "title": "SAP 첫 분기 매출 100억유로…CEO “클라우드 이동의 주동력은 AI”",
+      "category": "시사",
+      "url": "https://www.reuters.com/world/europe/germanys-sap-tops-cloud-demand-forecasts-holds-yearly-operating-profit-outlook-2026-10-21/",
+      "source": "로이터",
+      "kind": "article",
+      "event_key": "sap-first-10b-quarter-ai-cloud-backlog-20261021",
+      "why": "AI 열풍이 실제 기업용 소프트웨어 계약으로 이어진 규모를 매출·수주잔고 숫자로 보여준다.",
+      "angle": "첫 장은 첫 100억유로, 다음 장은 클라우드 매출 26%·수주잔고 26%와 AI 도입 구조를 보여준다.",
+      "why_now": "SAP가 21일 분기 실적과 연간 매출 전망 상단을 새로 발표했다.",
+      "verified_at": 1792643595,
+      "published_at": 1792614180,
+      "evidence": [
+        {
+          "url": "https://www.reuters.com/world/europe/germanys-sap-tops-cloud-demand-forecasts-holds-yearly-operating-profit-outlook-2026-10-21/",
+          "note": "분기 매출 최초 100억유로, 클라우드 매출 66.7억유로, 수주잔고 241.4억유로와 CEO 발언을 확인했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.reuters.com/world/europe/germanys-sap-tops-cloud-demand-forecasts-holds-yearly-operating-profit-outlook-2026-10-21/",
+          "label": "확인한 원문·발행시각",
+          "kind": "source"
+        }
+      ],
+      "caution": "AI만으로 전체 실적이 발생했다고 단정하지 않고 회사 설명과 실적 수치를 분리한다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-21",
+        "observation": "로이터 본문에서 분기 실적·전망·CEO와 CFO 발언을 확인했다.",
+        "checked_materials": [],
+        "outline": [
+          "첫 장: 분기 매출 첫 100억유로",
+          "2장: 클라우드 매출·수주잔고 각 26% 증가",
+          "3장: AI가 계약 전환을 이끈다는 회사 설명"
         ]
       }
     }
