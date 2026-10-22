@@ -1,499 +1,444 @@
 {
   "version": 2,
-  "hour_utc": "2026102214",
+  "hour_utc": "2026102223",
   "reviewer": "ChatGPT",
-  "generated_at": 1792675734,
+  "generated_at": 1792707987,
   "coverage": {
     "queries": [
-      "2026년 10월 22일 20시 21시 한국 주요 뉴스 새 발표",
-      "2026년 10월 22일 여자아이돌 공식 영상 장면 20시",
-      "October 22 2026 football breaking news Reuters latest 11 UTC 12 UTC",
-      "October 22 2026 major sports record Reuters latest 11 UTC 12 UTC",
-      "site:imnews.imbc.com 6859975 AI 안경 시험 부정행위 경찰 수사",
-      "일본 면세 매장 즉시 할인 출국 때 환급 2026 10 22",
-      "site:khan.co.kr 202610221510001 쿠팡 산재 은폐",
-      "김건희 추가 구속영장 심문 2026 10 22",
-      "site:reuters.com ATP blocks 234000 abusive comments",
-      "site:reuters.com IMF OECD warn AI could widen rich-poor country divide",
-      "site:reuters.com 2027 Tour de France time-trial specialists",
-      "site:reuters.com sports latest soccer football 13 UTC",
-      "2026년 10월 22일 21시 여자아이돌 공식 영상 새 장면",
-      "site:theqoo.net/hot 2026 10 22 여자아이돌 영상",
-      "site:reuters.com 2026-10-22 latest breaking world 13 UTC"
+      "2026년 10월 23일 새벽 펨코 해축 국축 사건사고 화제 영상",
+      "2026년 10월 23일 새벽 여자아이돌 유튜브 음방 화제 장면",
+      "2026년 10월 23일 새벽 커뮤니티 밈 유머 사건사고 정치 시사",
+      "October 22 2026 football funny incident controversy latest video",
+      "site:fmkorea.com 2026.10.23 해외축구 웃긴 장면 사고 발언",
+      "site:fmkorea.com 2026.10.23 국내축구 화제 놀림 사건",
+      "site:fmkorea.com 2026.10.23 여자아이돌 유튜브 음방 화제",
+      "site:fmkorea.com 2026.10.23 유머 밈 사건 정치 시사",
+      "October 22 2026 latest football bizarre incident viral moment Reuters Guardian BBC",
+      "October 22 2026 Europa League funny red card incident viral video",
+      "2026년 10월 22일 밤 걸그룹 유튜브 음방 화제 장면",
+      "2026년 10월 22일 밤 황당 사건 밈 유머 정치 발언 새 소식",
+      "site:reuters.com October 22 2026 latest world unusual incident politics after 12 GMT",
+      "site:apnews.com October 22 2026 odd news politics viral incident",
+      "site:imnews.imbc.com 2026 10 23 새벽 사건 황당 화제",
+      "site:news.sbs.co.kr 2026 10 23 새벽 사건 정치 사회",
+      "site:youtube.com/watch \"Oct 22, 2026\" IVE LE SSERAFIM aespa NMIXX official",
+      "site:youtube.com/watch 2026.10.22 아이브 에스파 르세라핌 엔믹스 공식",
+      "site:youtube.com/watch 2026.10.22 여자아이돌 자체 콘텐츠",
+      "site:youtube.com/watch October 22 2026 KBS Kpop girl group music bank",
+      "2026년 10월 22일 밤 아이브 유튜브 콘텐츠",
+      "2026년 10월 22일 밤 르세라핌 유튜브 콘텐츠",
+      "2026년 10월 22일 밤 에스파 유튜브 콘텐츠",
+      "2026년 10월 22일 밤 엔믹스 유튜브 콘텐츠",
+      "site:reuters.com/world October 22 2026 \"PM UTC\" latest",
+      "site:reuters.com/sports October 22 2026 \"PM UTC\" latest",
+      "site:reuters.com/business October 22 2026 \"PM UTC\" latest",
+      "site:reuters.com/legal October 22 2026 \"PM UTC\" latest"
     ],
     "opened_urls": [
-      "https://www.khan.co.kr/article/202610221510001",
-      "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
-      "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
-      "https://www.reuters.com/sports/cricket/englands-magnificent-brook-hits-fastest-odi-double-century-2026-10-22/",
-      "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
-      "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
-      "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
-      "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
-      "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
-      "https://www.yna.co.kr/view/AKR20261022174200004",
-      "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
-      "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/"
+      "https://www.theguardian.com/football/live/2026/oct/22/lech-poznan-sunderland-juventus-rennes-bournemouth-milan-crystal-palace-celtic-europa-league-live",
+      "https://i.guim.co.uk/img/media/b4119d7df38d27a614f513b344a93bf4b9317c53/0_0_4919_3271/master/4919.jpg?crop=none&dpr=1&s=none&width=465",
+      "https://www.reuters.com/world/deadly-fire-canada-military-base-was-caused-by-live-grenade-exercise-army-says-2026-10-22/",
+      "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/",
+      "https://www.reuters.com/business/media-telecom/trump-asks-musk-lift-ukraine-starlink-restrictions-wsj-reports-2026-10-22/",
+      "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
+      "https://www.reuters.com/world/americas/venezuelans-call-elections-first-national-protest-nearly-two-years-2026-10-22/",
+      "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
+      "https://www.reuters.com/sports/steelers-scrap-paris-fan-event-saints-game-proceeds-despite-protests-2026-10-22/",
+      "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
+      "https://www.reuters.com/world/europe/frances-macron-tightens-curbs-protests-blaming-hard-left-unrest-2026-10-22/",
+      "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/"
     ],
     "unavailable": [
-      "여자아이돌: 원본 장면과 12시간 이내 최초 공개 시각을 함께 확인한 새 후보 없음",
-      "축구: 최신 검색에서 실제 장면을 확인할 수 있는 새 원본 후보 없음"
+      "펨코 최신글·검색 색인은 429로 접근되지 않아 재시도하지 않고 원본 자료로 전환",
+      "아이돌: IVE 10월22일 공개 표시는 확인했지만 영상 ID와 핵심 장면을 직접 확인하지 못해 제외",
+      "국축: 12시간 이내 원본·장면·결과를 함께 확인한 새 후보 없음"
     ]
   },
   "picks": [
     {
-      "title": "“열심히 일한 기록 남기지 마” 지시 확인…쿠팡 산재 사건은 처벌 불가 결론",
-      "category": "시사",
-      "url": "https://www.khan.co.kr/article/202610221510001",
-      "source": "경향신문·고용노동부",
+      "title": "양발 들고 발목으로 착지…베식타스가 동점 직후 자멸한 황당 퇴장",
+      "category": "축구",
+      "url": "https://www.theguardian.com/football/live/2026/oct/22/lech-poznan-sunderland-juventus-rennes-bournemouth-milan-crystal-palace-celtic-europa-league-live",
+      "source": "The Guardian·Reuters",
       "kind": "article",
-      "event_key": "coupang-industrial-accident-concealment-probe-result-20261022",
-      "why": "정부 수사로 지시 정황이 확인됐지만 공소시효와 법 적용 한계로 처벌하지 못한다는 결론이 충돌한다.",
-      "angle": "메시지 확인→CCTV 분석 정황→처벌 불가 결론을 시간순으로 묶는다.",
-      "why_now": "노동부가 22일 감독·수사 결과와 추가 산재 은폐 정황 2건의 수사 방침을 발표했다.",
-      "verified_at": 1792675734,
-      "published_at": 1792649400,
+      "event_key": "besiktas-umit-akdag-two-footed-red-after-equaliser-20261022",
+      "why": "2-2로 흐름을 가져온 직후 위미트가 양발을 띄워 상대 발목에 착지했고, 퇴장 한 번으로 자기 팀의 기세를 끊었다.",
+      "angle": "동점 세리머니→양발이 뜬 태클 사진→쓰러진 스트란드 라르센→심판의 즉시 퇴장으로 잇는다.",
+      "why_now": "가디언 라이브가 22일 21시40분 BST의 태클·퇴장과 경기 종료 결과를 사진과 함께 공개했다.",
+      "verified_at": 1792707987,
+      "published_at": 1792682100,
       "evidence": [
         {
-          "url": "https://www.khan.co.kr/article/202610221510001",
-          "note": "기사 본문에서 김범석 의장의 메시지, CCTV 분석 정황, 공소시효 판단과 205건 적발 결과를 확인했다."
+          "url": "https://www.theguardian.com/football/live/2026/oct/22/lech-poznan-sunderland-juventus-rennes-bournemouth-milan-crystal-palace-celtic-europa-league-live",
+          "note": "라이브 본문 295~301행에서 위미트가 양발을 띄워 스트란드 라르센의 발목에 착지했고 즉시 퇴장된 장면과 사진을 확인했다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.khan.co.kr/article/202610221510001",
-          "label": "본문",
+          "url": "https://i.guim.co.uk/img/media/b4119d7df38d27a614f513b344a93bf4b9317c53/0_0_4919_3271/master/4919.jpg?crop=none&dpr=1&s=none&width=465",
+          "label": "퇴장 태클 사진",
+          "kind": "image"
+        },
+        {
+          "url": "https://www.theguardian.com/football/live/2026/oct/22/lech-poznan-sunderland-juventus-rennes-bournemouth-milan-crystal-palace-celtic-europa-league-live",
+          "label": "경기 라이브",
           "kind": "source"
         }
       ],
-      "caution": "쿠팡은 전직 임원의 일방적 주장이라며 노동부 발표에 유감을 밝혔다.",
+      "caution": "정지 사진과 경기 라이브로 확인했으며 부상 정도는 확정되지 않았다.",
       "readiness": {
-        "mode": "major_news",
+        "mode": "scene",
         "event_date": "2026-10-22",
-        "observation": "기사 본문에서 김범석 의장의 메시지, CCTV 분석 정황, 공소시효 판단과 205건 적발 결과를 확인했다.",
-        "checked_materials": [],
+        "observation": "동점 뒤 위미트가 양발을 띄워 상대 발목에 착지한 순간과 쓰러진 선수, 즉시 퇴장 결과를 사진·라이브에서 확인했다.",
+        "checked_materials": [
+          "https://i.guim.co.uk/img/media/b4119d7df38d27a614f513b344a93bf4b9317c53/0_0_4919_3271/master/4919.jpg?crop=none&dpr=1&s=none&width=465"
+        ],
         "outline": [
-          "1장: 핵심 장면·수치",
-          "2장: 이전 상태와 달라진 점",
-          "3장: 결과와 지금의 영향"
+          "1장: 두 발이 공중에 뜬 채 발목으로 들어간 태클 사진",
+          "2장: 73분 동점으로 베식타스가 흐름을 잡은 직전 상황",
+          "3장: 78분 즉시 퇴장과 2-2 종료, 스스로 끊은 기세"
         ]
       }
     },
     {
-      "title": "“문제 풀어달라” 입력해 둔 AI 안경…국가자격시험 응시자 송치",
+      "title": "군 기지 사망 화재, 원인은 ‘실탄 수류탄 발사기 훈련’이었다",
       "category": "시사",
-      "url": "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
-      "source": "MBC뉴스·서울 송파경찰서",
+      "url": "https://www.reuters.com/world/deadly-fire-canada-military-base-was-caused-by-live-grenade-exercise-army-says-2026-10-22/",
+      "source": "Reuters·캐나다군",
       "kind": "article",
-      "event_key": "ai-glasses-exam-cheating-police-referral-20261022",
-      "why": "일상형 기기가 실제 국가시험 부정행위 수단으로 쓰였고 감독관이 안경테의 렌즈와 표시등으로 적발했다.",
-      "angle": "AI 안경 사전 명령→시험장 촬영→감독관 적발→송치 순서로 구성한다.",
-      "why_now": "경찰이 22일 정보처리기사 시험 부정행위 혐의 수험생의 불구속 송치를 공개했다.",
-      "verified_at": 1792675734,
-      "published_at": 1792655040,
+      "event_key": "canada-wainwright-fire-live-grenade-exercise-cause-20261022",
+      "why": "최악의 평시 군 참사 중 하나가 일상적인 실탄 훈련에서 시작됐고 강풍이 불길을 기지 전체로 번지게 했다.",
+      "angle": "수류탄 사격장→강풍으로 번진 초원 화재→사망 4명·입원 27명→라트비아 파병 준비 중이었다는 순서다.",
+      "why_now": "캐나다군 고위 관계자가 22일 화재 원인을 처음 구체적으로 밝혔다.",
+      "verified_at": 1792707987,
+      "published_at": 1792706880,
       "evidence": [
         {
-          "url": "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
-          "note": "본문에서 시험일, 적발 방식, 휴대전화 포렌식 결과와 공모·외부유출 정황 부재를 확인했다."
+          "url": "https://www.reuters.com/world/deadly-fire-canada-military-base-was-caused-by-live-grenade-exercise-army-says-2026-10-22/",
+          "note": "Reuters 본문에서 자동 수류탄 발사기 사격장의 정례 훈련이 발화점이었고 4명 사망·27명 입원 사실을 확인했다."
         }
       ],
       "materials": [
         {
-          "url": "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
-          "label": "본문",
+          "url": "https://www.reuters.com/world/deadly-fire-canada-military-base-was-caused-by-live-grenade-exercise-army-says-2026-10-22/",
+          "label": "원문",
           "kind": "source"
         }
       ],
-      "caution": "송치 단계이며 법원의 유죄 판단 전이다.",
+      "caution": "화재는 18일 발생했으며 이번 새 사실은 22일 공개된 원인 조사 결과다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-10-22",
-        "observation": "본문에서 시험일, 적발 방식, 휴대전화 포렌식 결과와 공모·외부유출 정황 부재를 확인했다.",
+        "observation": "Reuters 본문에서 자동 수류탄 발사기 사격장의 정례 훈련이 발화점이었고 4명 사망·27명 입원 사실을 확인했다.",
         "checked_materials": [],
         "outline": [
-          "1장: 핵심 장면·수치",
-          "2장: 이전 상태와 달라진 점",
-          "3장: 결과와 지금의 영향"
+          "1장: ‘정례 실탄 훈련이 발화점’이라는 군 발표",
+          "2장: 강풍에 순식간에 번진 기지 초원 화재",
+          "3장: 사망 4명·입원 27명, 일부 위중"
         ]
       }
     },
     {
-      "title": "일본 면세, 11월부터 ‘매장 즉시 할인’ 대신 출국 때 환급",
+      "title": "트럼프 “머스크가 우크라이나 스타링크를 다시 켰다”…통화 여부는 답변 거부",
       "category": "시사",
-      "url": "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
-      "source": "MBC뉴스·니혼게이자이",
-      "kind": "article",
-      "event_key": "japan-tax-free-refund-at-departure-change-20261022",
-      "why": "일본 여행객이 모든 면세 매장에서 세금을 먼저 내고 출국 때 돌려받는 체감 큰 변화다.",
-      "angle": "현재 즉시면세→세금 포함 결제→공항·항만 반출 확인→환급으로 바뀌는 흐름을 보여준다.",
-      "why_now": "11월 시행을 앞두고 6만4천여 면세점에 적용되는 환급 방식이 22일 공개됐다.",
-      "verified_at": 1792675734,
-      "published_at": 1792658760,
-      "evidence": [
-        {
-          "url": "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
-          "note": "본문에서 시행 시점, 반출 확인, 현금·카드취소 환급과 구매한도·특수포장 의무 폐지를 확인했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
-          "label": "본문",
-          "kind": "source"
-        }
-      ],
-      "caution": "공항 혼잡과 매장별 세부 운영은 시행 뒤 달라질 수 있다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-22",
-        "observation": "본문에서 시행 시점, 반출 확인, 현금·카드취소 환급과 구매한도·특수포장 의무 폐지를 확인했다.",
-        "checked_materials": [],
-        "outline": [
-          "1장: 핵심 장면·수치",
-          "2장: 이전 상태와 달라진 점",
-          "3장: 결과와 지금의 영향"
-        ]
-      }
-    },
-    {
-      "title": "114구 만에 200점…해리 브룩, ODI 최단 더블센추리 신기록",
-      "category": "메이저 스포츠",
-      "url": "https://www.reuters.com/sports/cricket/englands-magnificent-brook-hits-fastest-odi-double-century-2026-10-22/",
+      "url": "https://www.reuters.com/business/media-telecom/trump-asks-musk-lift-ukraine-starlink-restrictions-wsj-reports-2026-10-22/",
       "source": "Reuters",
       "kind": "article",
-      "event_key": "harry-brook-fastest-odi-double-century-20261022",
-      "why": "114구 만에 200점, 잉글랜드 최초 ODI 200점, 최종 202점이라는 기록이 한 장에 잡힌다.",
-      "angle": "114구 신기록→기존 117구 경신→202점·21포·10식스를 연속 카드로 전개한다.",
-      "why_now": "브룩이 22일 스리랑카전에서 ODI 역사상 가장 빠른 더블센추리를 기록했다.",
-      "verified_at": 1792675734,
-      "published_at": 1792673400,
+      "event_key": "trump-says-musk-restored-ukraine-starlink-declines-call-answer-20261022",
+      "why": "전장 통신 속도를 누가 제한하고 누가 풀었는지 묻는 질문에 트럼프가 결과만 인정하고 자신의 통화 여부는 끝내 숨겼다.",
+      "angle": "우크라이나 속도 제한→트럼프의 복구 요구 보도→‘그가 되돌렸다’ 발언→통화 여부 답변 거부로 구성한다.",
+      "why_now": "트럼프가 22일 기자들에게 복구 사실을 확인하는 새 발언을 했다.",
+      "verified_at": 1792707987,
+      "published_at": 1792694580,
       "evidence": [
         {
-          "url": "https://www.reuters.com/sports/cricket/englands-magnificent-brook-hits-fastest-odi-double-century-2026-10-22/",
-          "note": "Reuters 본문과 당일 경기 사진에서 114구 200점, 최종 202점, 잉글랜드 개인 최고점 경신을 확인했다."
+          "url": "https://www.reuters.com/business/media-telecom/trump-asks-musk-lift-ukraine-starlink-restrictions-wsj-reports-2026-10-22/",
+          "note": "Reuters 본문에서 트럼프의 ‘he put it back’ 발언, 통화 여부 답변 거부, 우크라이나 측의 완전 복구 부인까지 확인했다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/sports/cricket/englands-magnificent-brook-hits-fastest-odi-double-century-2026-10-22/",
-          "label": "본문",
+          "url": "https://www.reuters.com/business/media-telecom/trump-asks-musk-lift-ukraine-starlink-restrictions-wsj-reports-2026-10-22/",
+          "label": "원문",
           "kind": "source"
         }
       ],
-      "caution": "경기 전체 결과와 별개로 개인 타격 기록을 중심으로 다룬다.",
+      "caution": "트럼프는 복구됐다고 했지만 우크라이나 측은 당시 완전한 기능 복구가 아니라고 밝혔다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-10-22",
-        "observation": "Reuters 본문과 당일 경기 사진에서 114구 200점, 최종 202점, 잉글랜드 개인 최고점 경신을 확인했다.",
+        "observation": "Reuters 본문에서 트럼프의 ‘he put it back’ 발언, 통화 여부 답변 거부, 우크라이나 측의 완전 복구 부인까지 확인했다.",
         "checked_materials": [],
         "outline": [
-          "1장: 핵심 장면·수치",
-          "2장: 이전 상태와 달라진 점",
-          "3장: 결과와 지금의 영향"
+          "1장: ‘머스크가 다시 켰다’는 트럼프 직접 발언",
+          "2장: ‘직접 전화했나’ 질문에는 답변 거부",
+          "3장: 우크라이나는 속도 상향은 됐지만 완전 복구는 아니라고 반박"
         ]
       }
     },
     {
-      "title": "영국, 20년 만에 대구경 무기 생산 재개…빈 공장이 8개월 만에 양산",
+      "title": "트럼프 18개월 추방 98만명…범죄 전력자는 전체의 20%",
       "category": "시사",
-      "url": "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
-      "source": "Reuters·영국 정부",
+      "url": "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
+      "source": "Reuters·Migration Policy Institute",
       "kind": "article",
-      "event_key": "uk-restarts-large-calibre-weapons-production-20-years-20261022",
-      "why": "20년 공백을 끝낸 재무장과 빈 공장의 8개월 전환이라는 변화가 크다.",
-      "angle": "20년 생산 공백→Telford 공장 재가동→120·155mm 체계와 100개 일자리로 전개한다.",
-      "why_now": "영국 정부가 22일 러시아 위협 대응을 이유로 대구경 무기 생산 재개를 발표했다.",
-      "verified_at": 1792675734,
-      "published_at": 1792670502,
+      "event_key": "trump-980000-deportations-only-20-percent-convictions-20261022",
+      "why": "‘치안’을 내세운 대규모 추방에서 범죄 유죄 전력이 있는 사람은 다섯 명 중 한 명뿐이었다는 수치가 논쟁을 만든다.",
+      "angle": "98만명 총추방→유죄 전력 20%→2년 이상 거주자 중 무전과 71%→과거 정부와 비교로 간다.",
+      "why_now": "전 DHS 통계 책임자가 작성한 18개월 분석 보고서가 22일 공개됐다.",
+      "verified_at": 1792707987,
+      "published_at": 1792706160,
       "evidence": [
         {
-          "url": "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
-          "note": "Reuters 본문에서 120mm·155mm 포신과 폐쇄기 생산, 8개월 내 완전 가동, 100개 일자리를 확인했다."
+          "url": "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
+          "note": "Reuters 본문에서 98만명, 유죄 전력자 20%, 장기 거주 추방자 중 무전과 71%와 분류별 수치를 확인했다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
-          "label": "본문",
+          "url": "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
+          "label": "원문",
           "kind": "source"
         }
       ],
-      "caution": "영국 국방비 3% 인상 시점은 아직 불확실하다.",
+      "caution": "수치는 정부 발표가 아니라 이민정책연구소가 DHS 데이터를 분석한 결과다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-10-22",
-        "observation": "Reuters 본문에서 120mm·155mm 포신과 폐쇄기 생산, 8개월 내 완전 가동, 100개 일자리를 확인했다.",
+        "observation": "Reuters 본문에서 98만명, 유죄 전력자 20%, 장기 거주 추방자 중 무전과 71%와 분류별 수치를 확인했다.",
         "checked_materials": [],
         "outline": [
-          "1장: 핵심 장면·수치",
-          "2장: 이전 상태와 달라진 점",
-          "3장: 결과와 지금의 영향"
+          "1장: 18개월 추방 98만명",
+          "2장: 범죄 유죄 전력은 20%라는 반전",
+          "3장: 2년 이상 거주 추방자 중 71%는 유죄 전력 없음"
         ]
       }
     },
     {
-      "title": "ATP, 선수에게 닿기 전 악성 댓글 23만4천건을 막았다",
-      "category": "메이저 스포츠",
-      "url": "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
-      "source": "Reuters·ATP",
-      "kind": "article",
-      "event_key": "atp-blocks-234000-abusive-comments-20261022",
-      "why": "남자 선수 85%가 온라인 학대를 겪었고 AI가 370만개 댓글을 분석해 23만4천건을 막았다는 수치가 강하다.",
-      "angle": "370만개 분석→28만4천건 탐지→82% 실시간 제거→23만4천건 차단으로 보여준다.",
-      "why_now": "ATP가 22일 Safe Sport 첫해 성과와 심각한 학대 16만2천건을 공개했다.",
-      "verified_at": 1792675734,
-      "published_at": 1792660736,
-      "evidence": [
-        {
-          "url": "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
-          "note": "Reuters 본문에서 분석·탐지·차단 수치와 AI moderation 운영 범위를 확인했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
-          "label": "본문",
-          "kind": "source"
-        }
-      ],
-      "caution": "차단 수치는 ATP와 선수 채널 분석 범위다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-22",
-        "observation": "Reuters 본문에서 분석·탐지·차단 수치와 AI moderation 운영 범위를 확인했다.",
-        "checked_materials": [],
-        "outline": [
-          "1장: 핵심 장면·수치",
-          "2장: 이전 상태와 달라진 점",
-          "3장: 결과와 지금의 영향"
-        ]
-      }
-    },
-    {
-      "title": "46년 만의 ‘무관 팀’ 월드시리즈…누가 이겨도 창단 첫 우승",
-      "category": "메이저 스포츠",
-      "url": "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
-      "source": "Reuters·MLB",
-      "kind": "article",
-      "event_key": "brewers-rays-first-title-world-series-20261022",
-      "why": "1980년 이후 처음으로 우승 경험 없는 두 팀이 만나 첫 챔피언이 반드시 탄생한다.",
-      "angle": "작은 시장 두 팀→밀워키 103승·다저스 스윕→탬파베이 반격→첫 우승 보장으로 구성한다.",
-      "why_now": "브루어스와 레이스의 월드시리즈 1차전을 하루 앞두고 대진의 역사성이 22일 공개됐다.",
-      "verified_at": 1792675734,
-      "published_at": 1792670549,
-      "evidence": [
-        {
-          "url": "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
-          "note": "Reuters 본문에서 1980년 이후 첫 무관 팀 맞대결, 팀 가치, 시즌·포스트시즌 성적을 확인했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
-          "label": "본문",
-          "kind": "source"
-        }
-      ],
-      "caution": "경기 전 프리뷰이며 실제 우승 팀은 아직 정해지지 않았다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-22",
-        "observation": "Reuters 본문에서 1980년 이후 첫 무관 팀 맞대결, 팀 가치, 시즌·포스트시즌 성적을 확인했다.",
-        "checked_materials": [],
-        "outline": [
-          "1장: 핵심 장면·수치",
-          "2장: 이전 상태와 달라진 점",
-          "3장: 결과와 지금의 영향"
-        ]
-      }
-    },
-    {
-      "title": "인도, 뉴질랜드의 225점을 뒤집었다…팀 역사상 최고 T20 추격승",
-      "category": "메이저 스포츠",
-      "url": "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
+      "title": "마두로 체포 뒤 첫 전국 시위…베네수엘라 시민들이 ‘선거 날짜’를 요구했다",
+      "category": "시사",
+      "url": "https://www.reuters.com/world/americas/venezuelans-call-elections-first-national-protest-nearly-two-years-2026-10-22/",
       "source": "Reuters",
       "kind": "article",
-      "event_key": "india-226-record-t20-chase-new-zealand-20261022",
-      "why": "94-1의 폭발적 출발 뒤 3명이 연달아 아웃됐지만 19.4오버에 226점을 완성한 흐름이 극적이다.",
-      "angle": "뉴질랜드 225-4→인도 93점 오프닝→중반 3연속 아웃→Dhir의 마무리로 전개한다.",
-      "why_now": "인도가 22일 뉴질랜드 원정에서 자국 최고 T20 추격 기록을 세웠다.",
-      "verified_at": 1792675734,
-      "published_at": 1792669680,
+      "event_key": "venezuela-first-national-opposition-protest-two-years-election-date-20261022",
+      "why": "미군의 마두로 체포 뒤 임시정부가 들어섰지만 선거 날짜가 없는 상태에서 2년 만의 전국 시위가 터졌다.",
+      "angle": "마두로 체포→임시정부와 미국의 선거 약속→날짜 미정→5개 도시 동시 시위와 2027년 요구로 잇는다.",
+      "why_now": "22일 카라카스 등에서 거의 2년 만의 첫 전국 야권 시위가 열렸다.",
+      "verified_at": 1792707987,
+      "published_at": 1792703940,
       "evidence": [
         {
-          "url": "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
-          "note": "Reuters 본문에서 225-4, 93점 오프닝, 3연속 아웃, 19.4오버 승리와 기록 의미를 확인했다."
+          "url": "https://www.reuters.com/world/americas/venezuelans-call-elections-first-national-protest-nearly-two-years-2026-10-22/",
+          "note": "Reuters 본문과 7장 사진 설명에서 카라카스·발렌시아 등 시위, 2027년 선거 요구, 여당 맞불 행진을 확인했다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
-          "label": "본문",
+          "url": "https://www.reuters.com/world/americas/venezuelans-call-elections-first-national-protest-nearly-two-years-2026-10-22/",
+          "label": "원문",
           "kind": "source"
         }
       ],
-      "caution": "크리켓 비주류 독자도 점수 변화가 보이도록 규칙 설명을 최소 보완한다.",
+      "caution": "선거 일정은 아직 확정되지 않았고 정부와 야권의 정치적 주장이 충돌한다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-10-22",
-        "observation": "Reuters 본문에서 225-4, 93점 오프닝, 3연속 아웃, 19.4오버 승리와 기록 의미를 확인했다.",
+        "observation": "Reuters 본문과 7장 사진 설명에서 카라카스·발렌시아 등 시위, 2027년 선거 요구, 여당 맞불 행진을 확인했다.",
         "checked_materials": [],
         "outline": [
-          "1장: 핵심 장면·수치",
-          "2장: 이전 상태와 달라진 점",
-          "3장: 결과와 지금의 영향"
+          "1장: 거대한 국기를 든 카라카스 시위대",
+          "2장: 마두로 체포 뒤에도 선거 날짜는 공백",
+          "3장: 여당이 같은 집결지를 잡자 야권이 장소를 옮긴 장면"
         ]
       }
     },
     {
-      "title": "IMF·OECD “AI가 국가·기업·청년 노동자의 격차를 더 벌릴 수 있다”",
+      "title": "미국산 희토류 자석 공장, 물량 90%를 사기로 한 GM이 계약을 끊었다",
       "category": "시사",
-      "url": "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
-      "source": "Reuters·IMF·OECD",
+      "url": "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
+      "source": "Reuters·SEC 공시",
       "kind": "article",
-      "event_key": "imf-oecd-ai-widen-rich-poor-young-worker-gap-20261022",
-      "why": "AI가 성장률을 높일 수 있다는 전망과 동시에 빈국·중소기업·초년 노동자가 뒤처질 수 있다는 반전이 크다.",
-      "angle": "성장률 +0.5% 가능성→40% 일자리 노출→초년 노동자의 경험 사다리 붕괴 위험으로 이어간다.",
-      "why_now": "IMF와 OECD 관계자가 22일 AI 도입 격차와 청년층 위험을 경고했다.",
-      "verified_at": 1792675734,
-      "published_at": 1792665692,
+      "event_key": "gm-terminates-vac-us-rare-earth-magnet-deal-90-percent-20261022",
+      "why": "중국 의존을 줄이겠다며 만든 5억달러 공장의 최대 고객이 돌연 빠져 ‘탈중국 공급망’의 민낯이 드러났다.",
+      "angle": "5억달러 공장→생산량 90% GM 공급 계약→GM 해지→중재와 인수가격 조정 가능성으로 전개한다.",
+      "why_now": "SEC 문서와 관계자 확인을 통해 22일 계약 해지와 분쟁이 처음 보도됐다.",
+      "verified_at": 1792707987,
+      "published_at": 1792705260,
       "evidence": [
         {
-          "url": "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
-          "note": "Reuters 본문에서 IMF의 성장·일자리 노출 추정과 OECD의 생산성 범위, 초년 노동자 경고를 확인했다."
+          "url": "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
+          "note": "Reuters 본문에서 연 2천톤 공장 생산량의 90%를 GM이 사기로 했고 해지 뒤 VAC가 중재를 제기한 사실을 확인했다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
-          "label": "본문",
+          "url": "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
+          "label": "원문",
           "kind": "source"
         }
       ],
-      "caution": "기관 추정치이며 실제 생산성 효과는 아직 제한적이라는 단서를 함께 둔다.",
+      "caution": "계약 해지 이유와 중재 세부 내용은 비공개다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-10-22",
-        "observation": "Reuters 본문에서 IMF의 성장·일자리 노출 추정과 OECD의 생산성 범위, 초년 노동자 경고를 확인했다.",
+        "observation": "Reuters 본문에서 연 2천톤 공장 생산량의 90%를 GM이 사기로 했고 해지 뒤 VAC가 중재를 제기한 사실을 확인했다.",
         "checked_materials": [],
         "outline": [
-          "1장: 핵심 장면·수치",
-          "2장: 이전 상태와 달라진 점",
-          "3장: 결과와 지금의 영향"
+          "1장: ‘미국산 희토류 자석’ 5억달러 공장",
+          "2장: 물량 90%를 사기로 한 GM 계약",
+          "3장: GM 해지·중재 돌입, 탈중국 계획에 생긴 구멍"
         ]
       }
     },
     {
-      "title": "대법원, 27일 김건희 추가 구속영장 심문…31일 만료 앞둬",
+      "title": "파리 NFL 경기는 강행, 스틸러스 팬 술집 행사는 시위 때문에 취소",
+      "category": "메이저 스포츠",
+      "url": "https://www.reuters.com/sports/steelers-scrap-paris-fan-event-saints-game-proceeds-despite-protests-2026-10-22/",
+      "source": "Reuters·Pittsburgh Steelers",
+      "kind": "article",
+      "event_key": "steelers-cancel-paris-fan-bar-nfl-game-proceeds-protests-20261022",
+      "why": "리그 첫 파리 정규시즌 경기는 그대로 두면서도 시위 집결지 근처 팬 술집만 접는 ‘경기와 축제의 엇갈린 판단’이 화제다.",
+      "angle": "파리 첫 정규시즌→주말 대규모 시위 예고→바스티유 팬 행사 취소→스타드 드 프랑스 경기는 강행으로 정리한다.",
+      "why_now": "스틸러스가 22일 바스티유의 공식 팬 행사를 취소한다고 알렸다.",
+      "verified_at": 1792707987,
+      "published_at": 1792703640,
+      "evidence": [
+        {
+          "url": "https://www.reuters.com/sports/steelers-scrap-paris-fan-event-saints-game-proceeds-despite-protests-2026-10-22/",
+          "note": "Reuters 본문에서 바스티유 팬 행사 취소, 일요일 세인츠전 유지, NFL과 미 국무부의 안전 협의를 확인했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.reuters.com/sports/steelers-scrap-paris-fan-event-saints-game-proceeds-despite-protests-2026-10-22/",
+          "label": "원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "경기 개최 방침은 유지되지만 금요일 추가 보안 대책 발표가 예정돼 있다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-22",
+        "observation": "Reuters 본문에서 바스티유 팬 행사 취소, 일요일 세인츠전 유지, NFL과 미 국무부의 안전 협의를 확인했다.",
+        "checked_materials": [],
+        "outline": [
+          "1장: NFL 첫 파리 정규시즌 포스터와 기대감",
+          "2장: 시위 집결지 바스티유의 팬 술집만 취소",
+          "3장: 10km 떨어진 경기장은 그대로 진행"
+        ]
+      }
+    },
+    {
+      "title": "구금 뒤 숨진 남성·늦게 온 구급차…튀니지 세 도시에서 같은 날 충돌",
       "category": "시사",
-      "url": "https://www.yna.co.kr/view/AKR20261022174200004",
-      "source": "연합뉴스·대법원",
+      "url": "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
+      "source": "Reuters",
       "kind": "article",
-      "event_key": "kim-keon-hee-additional-detention-warrant-hearing-20261022",
-      "why": "구속 만료 직전 추가 영장 여부를 대법원이 직접 심문한다는 절차적 중요성이 크다.",
-      "angle": "31일 구속 만료→특검의 직권 발부 요청→27일 심문→발부 여부로 정리한다.",
-      "why_now": "대법원이 22일 심문 일정을 27일로 확정해 공개했다.",
-      "verified_at": 1792675734,
-      "published_at": 1792657980,
+      "event_key": "tunisia-three-city-protests-deaths-police-healthcare-20261022",
+      "why": "한 도시의 경찰 구금 사망 의혹, 다른 도시의 추격 사망, 또 다른 대학생의 구급차 지연 사망이 하루에 겹쳐 분노가 번졌다.",
+      "angle": "수도권 구금 사망 의혹→남부 경찰 추격 사망→스팍스 대학생 구급차 지연→도로 봉쇄·최루탄으로 잇는다.",
+      "why_now": "Reuters가 22일 세 지역에서 동시에 벌어진 충돌과 서로 다른 촉발점을 확인해 보도했다.",
+      "verified_at": 1792707987,
+      "published_at": 1792707660,
       "evidence": [
         {
-          "url": "https://www.yna.co.kr/view/AKR20261022174200004",
-          "note": "연합뉴스 속보와 후속 보도에서 27일 심문 일정, 31일 만료, 특검 요청 배경을 확인했다."
+          "url": "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
+          "note": "Reuters 본문에서 에타다멘의 구금 사망 의혹, 제베니아나의 추격 사망, 스팍스 학생의 구급차 지연 항의를 확인했다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.yna.co.kr/view/AKR20261022174200004",
-          "label": "본문",
+          "url": "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
+          "label": "원문",
           "kind": "source"
         }
       ],
-      "caution": "심문 예정 단계이며 추가 영장 발부가 확정된 것은 아니다.",
+      "caution": "에타다멘 사망 원인은 가족의 경찰 폭력 주장과 현지 언론의 마약 삼킴 보도가 엇갈리며 내무부 답변은 없었다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-10-22",
-        "observation": "연합뉴스 속보와 후속 보도에서 27일 심문 일정, 31일 만료, 특검 요청 배경을 확인했다.",
+        "observation": "본문에서 세 도시의 각기 다른 사망 사건이 같은 날 도로 봉쇄·투석·최루탄과 학생 시위로 이어진 사실을 확인했다.",
         "checked_materials": [],
         "outline": [
-          "1장: 핵심 장면·수치",
-          "2장: 이전 상태와 달라진 점",
-          "3장: 결과와 지금의 영향"
+          "1장: 에타다멘 도로 봉쇄·타이어 화재와 최루탄",
+          "2장: 구금 사망 원인을 두고 엇갈린 가족·현지 보도",
+          "3장: 남부 두 도시에서 겹친 추격 사망·구급차 지연 항의"
         ]
       }
     },
     {
-      "title": "2027 투르 드 프랑스, 15년 만에 가장 긴 타임트라이얼…여자부는 퓌드돔 결승",
+      "title": "F1 수장 “중동 레이스 예정대로”…사인츠 “지금 확신은 너무 이르다”",
       "category": "메이저 스포츠",
-      "url": "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
-      "source": "Reuters·Tour de France",
+      "url": "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
+      "source": "Reuters·FIA",
       "kind": "article",
-      "event_key": "tour-de-france-2027-routes-time-trial-puy-de-dome-20261022",
-      "why": "남자 71km 타임트라이얼과 여자 퓌드돔 정상 결승이 동시에 공개돼 지도형 카드가 가능하다.",
-      "angle": "남자 38+33km→2012년 이후 최장→여자 런던 팀타임트라이얼→퓌드돔 결승으로 전개한다.",
-      "why_now": "2027 남녀 대회 전체 코스가 22일 공식 발표됐다.",
-      "verified_at": 1792675734,
-      "published_at": 1792665261,
+      "event_key": "sainz-calls-f1-middle-east-race-certainty-premature-20261022",
+      "why": "FIA 회장의 낙관과 현역 드라이버 대표의 불안이 정면 충돌했고, 대체지 이몰라에는 ‘제설차가 필요할 수도’라는 농담까지 나왔다.",
+      "angle": "FIA ‘예정대로’→사인츠 ‘확신 이르다’→이몰라 대체안→피아스트리의 제설차 농담으로 마무리한다.",
+      "why_now": "미국 GP 기자회견에서 22일 드라이버들이 카타르·아부다비 개최 불안을 직접 밝혔다.",
+      "verified_at": 1792707987,
+      "published_at": 1792699740,
       "evidence": [
         {
-          "url": "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
-          "note": "Reuters 본문에서 남자 3,479km·타임트라이얼 71km, 여자 1,156km·9개 스테이지를 확인했다."
+          "url": "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
+          "note": "Reuters 본문에서 FIA의 강행 입장, 사인츠의 ‘premature’ 발언, 이몰라 대체안과 피아스트리의 제설차 발언을 확인했다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
-          "label": "본문",
+          "url": "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
+          "label": "원문",
           "kind": "source"
         }
       ],
-      "caution": "2027년 예정 코스이며 실제 참가자·결과는 미정이다.",
+      "caution": "카타르·아부다비 일정은 현재 유지 중이며 취소가 확정된 것은 아니다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-10-22",
-        "observation": "Reuters 본문에서 남자 3,479km·타임트라이얼 71km, 여자 1,156km·9개 스테이지를 확인했다.",
+        "observation": "Reuters 본문에서 FIA의 강행 입장, 사인츠의 ‘premature’ 발언, 이몰라 대체안과 피아스트리의 제설차 발언을 확인했다.",
         "checked_materials": [],
         "outline": [
-          "1장: 핵심 장면·수치",
-          "2장: 이전 상태와 달라진 점",
-          "3장: 결과와 지금의 영향"
+          "1장: FIA 회장 ‘중동 레이스는 열린다’",
+          "2장: 드라이버 대표 사인츠 ‘지금 확신은 이르다’",
+          "3장: 대체지 이몰라 얘기에 나온 ‘제설차’ 농담"
         ]
       }
     },
     {
-      "title": "도핑 2년 징계가 ‘가짜 처방전’ 때문에 6년으로 늘었다",
-      "category": "메이저 스포츠",
-      "url": "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
-      "source": "Reuters·AIU",
+      "title": "프랑스 법무장관 “시위 금지 어기면 투표권·SNS 제한”…마크롱 강경 대응",
+      "category": "시사",
+      "url": "https://www.reuters.com/world/europe/frances-macron-tightens-curbs-protests-blaming-hard-left-unrest-2026-10-22/",
+      "source": "Reuters·프랑스 정부",
       "kind": "article",
-      "event_key": "ruti-aga-six-year-doping-ban-fake-prescription-20261022",
-      "why": "약물 양성보다 조사 방해와 가짜 처방전 때문에 징계가 세 배가 된 반전이 명확하다.",
-      "angle": "금지약물 양성 2년→허위 진술·가짜 처방전→추가 4년으로 구성한다.",
-      "why_now": "AIU가 22일 도쿄마라톤 우승자 루티 아가의 6년 징계를 발표했다.",
-      "verified_at": 1792675734,
-      "published_at": 1792668623,
+      "event_key": "france-protest-ban-voting-social-media-restrictions-proposal-20261022",
+      "why": "시위 제한을 어긴 사람에게 투표권과 SNS 접근까지 막자는 법무장관 발언이 민주주의 기본권 논쟁을 한 번에 건드린다.",
+      "angle": "주말 폭동·약탈→마크롱의 ‘불법 시위’ 금지→법무장관의 투표권·SNS 제한 제안→리옹·마르세유 전면 금지로 잇는다.",
+      "why_now": "프랑스 정부가 22일 새 주말 시위를 앞두고 추가 제한 방침과 장관 발언을 공개했다.",
+      "verified_at": 1792707987,
+      "published_at": 1792668360,
       "evidence": [
         {
-          "url": "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
-          "note": "Reuters 본문에서 약물 종류, 기본 2년, 위조 처방전과 추가 4년, 징계 시작일을 확인했다."
+          "url": "https://www.reuters.com/world/europe/frances-macron-tightens-curbs-protests-blaming-hard-left-unrest-2026-10-22/",
+          "note": "Reuters 본문에서 마크롱의 금지 방침, 다르마냉의 투표권·SNS 제한 제안, 리옹·마르세유 시위 전면 금지를 확인했다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
-          "label": "본문",
+          "url": "https://www.reuters.com/world/europe/frances-macron-tightens-curbs-protests-blaming-hard-left-unrest-2026-10-22/",
+          "label": "원문",
           "kind": "source"
         }
       ],
-      "caution": "선수 측 항소 여부는 본문에서 확인되지 않았다.",
+      "caution": "투표권·SNS 제한은 법무장관이 원한다고 밝힌 단계이며 법제화가 확정된 것은 아니다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-10-22",
-        "observation": "Reuters 본문에서 약물 종류, 기본 2년, 위조 처방전과 추가 4년, 징계 시작일을 확인했다.",
+        "observation": "Reuters 본문에서 마크롱의 금지 방침, 다르마냉의 투표권·SNS 제한 제안, 리옹·마르세유 시위 전면 금지를 확인했다.",
         "checked_materials": [],
         "outline": [
-          "1장: 핵심 장면·수치",
-          "2장: 이전 상태와 달라진 점",
-          "3장: 결과와 지금의 영향"
+          "1장: 지난 주말 폭동과 상점 합판 봉쇄",
+          "2장: 마크롱 ‘불법 시위는 금지’",
+          "3장: 법무장관이 꺼낸 투표권·SNS 제한 카드"
         ]
       }
     }
