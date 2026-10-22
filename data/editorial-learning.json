@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": 1792644159,
+  "updated_at": 1792680867,
   "profile_checks": [
     {
       "at": 1792379965,
@@ -495,6 +495,15 @@
       "rule": "picks/request를 main에 쓰기 전에 최신 main의 실제 curated_report.load_edition/validate_edition·build_stories·same_event_filter·render_edition·render_info로 정확한 UTF-8 JSON+줄바꿈을 비송신 검증한다. 문자수·checked_materials 포함관계·최신성·SHA-256·10개 한 메시지·/info 3900 UTF-16 한도를 모두 통과해야 제출한다. 손검사나 회귀 테스트 성공을 해당 입력 검증으로 대체하지 않는다.",
       "next_check": "다음 제출에서 정확한 바이트의 receiver 사전검사 결과를 남긴다. 실패 원인이 있으면 요청 전에 전부 수정하고 재검사한다. 같은 hour_utc 요청·sent·uncertain은 그대로 잠그며 자동 새 해시 요청을 만들지 않는다.",
       "outcome": "2026-10-22 11시 checked_materials 오류 후 14시에는 자료 라벨27자(한도25)로 검증 실패: https://github.com/daeeunkim89-pixel/trend-radar/actions/runs/39723189489 . 13:41 KST 동일 원본 해시로 material label 오류를 로컬 재현, 라벨15자 수정본은 실제 receiver에서 10개·메인2396·/info최대762 UTF-16 통과. Telegram 호출0·검증시각 보존·실제 송신 미완료. 진행본만 수정했으며 기존14시 요청은 변경하지 않았다."
+    },
+    {
+      "id": "user-fmkorea-first-source-discovery-20261022",
+      "status": "confirmed",
+      "introduced_at": 1792680867,
+      "evidence_ids": [],
+      "rule": "2026-10-22 사용자 재설정: 펨코를 BTP 취향 기준으로 삼고 거기에 올라올 만한 소재를 원본 단계에서 선발굴한다. 해축·국축 사건사고·놀림·화제, 3~5세대 여돌 YouTube·음방·사건·화제 장면, 일반 밈·유머·정치·시사를 매 회차 탐색하고 검증 후보 전체에서 상위10개를 고른다. 아직 펨코에 없음·낮은 반응은 탈락 이유가 아니다.",
+      "next_check": "다음 정기 회차에서 세 갈래 실제 검색, 선발굴한 원본의 핵심 동작/대사·최초 공개 시각, 구체적인 공유 대상·이유와 카드 구성을 남긴다. 장면을 못 봤으면 needs_visual로 보관하고 대형 일반 기사만으로 조사를 마치지 않는다.",
+      "outcome": "사용자의 직접 재설정 지시를 반영했다. 이 규칙은 사용자 취향으로 확정한 것이며 아직 새 기준의 게재·조회 성과나 펨코 선행 탐지 성과를 확인했다는 뜻이 아니다. 기존 날짜·원본·중복·발송 보호는 유지한다."
     }
   ]
 }
