@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": 1792657557,
+  "updated_at": 1792661411,
   "items": [
     {
       "event_key": "bok-holds-3-percent-growth-upgrade-future-hikes-20261022",
@@ -8887,15 +8887,6 @@
   ],
   "attempts": [
     {
-      "hour_utc": "2026102023",
-      "at": 1792534908,
-      "status": "researching",
-      "required": 10,
-      "ready": 0,
-      "missing": 10,
-      "unfinished": 17
-    },
-    {
       "hour_utc": "2026102102",
       "at": 1792550937,
       "status": "review_complete",
@@ -9262,6 +9253,15 @@
       "required": 10,
       "ready": 10,
       "missing": 0,
+      "unfinished": 0
+    },
+    {
+      "hour_utc": "2026102211",
+      "at": 1792661411,
+      "status": "researching",
+      "required": 10,
+      "ready": 0,
+      "missing": 10,
       "unfinished": 0
     }
   ]
