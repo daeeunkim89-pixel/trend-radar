@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": 1792718774,
+  "updated_at": 1792718843,
   "items": [
     {
       "event_key": "besiktas-umit-akdag-two-footed-red-after-equaliser-20261022",
@@ -10056,6 +10056,15 @@
       "hour_utc": "2026102302",
       "at": 1792718774,
       "status": "review_complete",
+      "required": 10,
+      "ready": 10,
+      "missing": 0,
+      "unfinished": 27
+    },
+    {
+      "hour_utc": "2026102302",
+      "at": 1792718843,
+      "status": "submitted",
       "required": 10,
       "ready": 10,
       "missing": 0,
