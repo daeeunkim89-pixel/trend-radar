@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": 1792733662,
+  "updated_at": 1792736883,
   "items": [
     {
       "event_key": "minnesota-federal-evidence-sharing-good-pretti-halted-20261023",
@@ -9600,6 +9600,15 @@
       "hour_utc": "2026102308",
       "at": 1792733662,
       "status": "research_incomplete",
+      "required": 10,
+      "ready": 5,
+      "missing": 5,
+      "unfinished": 30
+    },
+    {
+      "hour_utc": "2026102308",
+      "at": 1792736883,
+      "status": "researching",
       "required": 10,
       "ready": 5,
       "missing": 5,
