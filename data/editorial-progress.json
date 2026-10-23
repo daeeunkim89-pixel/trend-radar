@@ -1,7 +1,1468 @@
 {
   "version": 1,
-  "updated_at": 1792729607,
+  "updated_at": 1792733495,
   "items": [
+    {
+      "event_key": "minnesota-federal-evidence-sharing-good-pretti-halted-20261023",
+      "url": "https://apnews.com/article/d18378b40675bb107f9c2d519c2b9853",
+      "title": "미 연방정부, 미네소타 총격 사건 증거 공유 중단 논란",
+      "category": "시사",
+      "status": "needs_date",
+      "note": "AP 본문 요약에서 연방 당국의 증거 공유 중단과 주 검찰의 강제 공개 신청은 확인했지만 정확한 최초 게시 UTC를 확인하지 못했다.",
+      "next_action": "AP 메타데이터나 독립 원문에서 최초 게시 시각을 확인하고 법무부 반론까지 다시 검증한다.",
+      "recorded_at": 1792733495
+    },
+    {
+      "event_key": "ukraine-soldier-491-days-drone-rescue-20261023",
+      "url": "https://www.reuters.com/world/he-amputated-his-own-foot-survive-giant-drone-then-flew-him-out-2026-10-23/",
+      "title": "491일 고립된 우크라이나 병사, 대형 드론으로 15km 구조",
+      "category": "시사",
+      "status": "needs_visual",
+      "note": "Reuters 영상 페이지에서 양발을 잃은 병사가 전쟁 첫 사례로 알려진 대형 드론 구조를 받은 사실은 확인했지만 핵심 연속 장면을 직접 재생하지 못했다.",
+      "next_action": "Reuters 원본 영상에서 탑승·이륙·15km 이동·구조 도착 장면을 직접 확인한 뒤 scene 후보로 재평가한다.",
+      "recorded_at": 1792733495
+    },
+    {
+      "event_key": "an-yujin-speed-hack-running-clip-20261023",
+      "url": "https://www.instagram.com/p/DewcVfWn66b/",
+      "title": "아이브 안유진 스피드핵 달리기 장면",
+      "category": "아이돌",
+      "status": "needs_visual",
+      "note": "공개 게시물 링크는 확인했지만 원본 콘텐츠의 실제 촬영·공개 시각과 달리기 전후 연속 장면을 검증하지 못했다.",
+      "next_action": "IVE 공식 콘텐츠나 방송사 원본에서 대결 맥락과 완주 결과를 확인하고 최초 공개 시각을 확정한다.",
+      "recorded_at": 1792733495
+    },
+    {
+      "event_key": "paju-fc-partial-wage-payment-players-association-20261023",
+      "url": "https://www.koreadaily.com/article/20261022181911955",
+      "title": "파주FC 급여 일부 지급 뒤 임금 체불 논란",
+      "category": "축구",
+      "status": "needs_date",
+      "note": "구단의 급여 50~70% 지급과 선수협 문제 제기 정황은 확인했지만 23일 새 입장의 최초 공개 시각과 공식 원문을 확정하지 못했다.",
+      "next_action": "한국프로축구선수협회 공식 입장과 구단 반론의 게시 시각·문구를 직접 확인한다.",
+      "recorded_at": 1792733495
+    },
+    {
+      "event_key": "rivaldo-ronaldo-retirement-president-comment-20261023",
+      "url": "https://www.reuters.com/sports/",
+      "title": "호날두 은퇴 뒤 대통령 출마 가능성 발언",
+      "category": "축구",
+      "status": "needs_date",
+      "note": "검색 결과에서 인터뷰 주장만 발견했고 당사자 원문·정확한 공개 시각·전체 문맥을 확인하지 못했다.",
+      "next_action": "인터뷰 원본 영상이나 전문에서 실제 발언과 게시 시각을 확인한다.",
+      "recorded_at": 1792733495
+    },
+    {
+      "event_key": "matsui-yomiuri-head-coach-nhk-report-20261023",
+      "url": "https://www.reuters.com/sports/ex-yankees-player-matsui-become-head-coach-tokyo-yomiuri-giants-nhk-reports-2026-10-23/",
+      "title": "마쓰이 히데키 요미우리 감독 취임 보도",
+      "category": "메이저 스포츠",
+      "status": "needs_facts",
+      "note": "NHK 보도를 인용한 Reuters 기사만 확인했고 요미우리 구단은 즉시 확인 요청에 답하지 않아 확정 발표로 볼 수 없다.",
+      "next_action": "요미우리 자이언츠 공식 발표나 마쓰이 본인 기자회견이 나오면 새 사실로 재검토한다.",
+      "recorded_at": 1792733495
+    },
+    {
+      "event_key": "korea-elite-athlete-housing-special-supply-96-percent-unopposed-20261023",
+      "url": "https://imnews.imbc.com/news/2026/econo/article/6860167_36932.html",
+      "title": "국가대표 특공 당첨자 96%가 나홀로 청약…시세 차이는 최대 10억",
+      "category": "시사",
+      "status": "reviewed",
+      "recorded_at": 1792733495,
+      "pick": {
+        "title": "국가대표 특공 당첨자 96%가 나홀로 청약…시세 차이는 최대 10억",
+        "category": "시사",
+        "url": "https://imnews.imbc.com/news/2026/econo/article/6860167_36932.html",
+        "source": "MBC·LH 자료",
+        "kind": "article",
+        "event_key": "korea-elite-athlete-housing-special-supply-96-percent-unopposed-20261023",
+        "why": "국가대표 우수선수 특별공급 23명 중 22명이 경쟁자 없이 당첨됐고, 실제 계약 아파트 한 곳은 분양가와 현재 실거래가 차이가 9억9천만원이었다.",
+        "angle": "국가대표 특공 34가구→당첨자 23명→22명 나홀로 청약→하남 한 채 시세차 9억9천만원 순으로 숫자 반전을 보여준다.",
+        "why_now": "MBC가 23일 10시09분 한국시간 LH 제출 자료를 바탕으로 2016~2026년 전체 현황과 계약·시세 차이를 처음 공개했다.",
+        "verified_at": 1792733392,
+        "published_at": 1792717740,
+        "evidence": [
+          {
+            "url": "https://imnews.imbc.com/news/2026/econo/article/6860167_36932.html",
+            "note": "MBC 본문에서 31개 단지 34가구, 당첨 23명 중 22명 단독 신청, 실제 계약 13건, 하남 사례의 4억7천만원→14억6천만원을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://imnews.imbc.com/news/2026/econo/article/6860167_36932.html",
+            "label": "MBC 단독·LH 자료",
+            "kind": "source"
+          }
+        ],
+        "caution": "특별공급 당첨 23명이 모두 계약한 것은 아니며 실제 계약은 13건이다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-23",
+          "observation": "LH 제출 자료를 인용한 MBC 본문에서 단독 청약 비율과 네 단지의 분양가 대비 시세 차이, 실제 계약 건수를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1장: 국가대표 우수선수 특별공급 10년간 34가구",
+            "2장: 당첨 23명 중 22명이 경쟁자 없는 나홀로 청약",
+            "3장: 하남 4억7천만원 분양가와 14억6천만원 실거래가 대비"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "October 23 2026 latest football controversy funny incident red card quote Reuters official club",
+          "2026년 10월 23일 축구 사건사고 황당 장면 발언 국축 해축",
+          "site:fmkorea.com 2026.10.23 해외축구 화제 웃긴 장면 사건 발언",
+          "site:uefa.com October 23 2026 Europa League highlights funny red card celebration",
+          "October 23 2026 girl group official YouTube funny moment IVE aespa NMIXX LE SSERAFIM",
+          "2026년 10월 23일 여자아이돌 공식 유튜브 자체콘텐츠 화제 장면",
+          "site:youtube.com/watch Oct 23 2026 girl group official Kpop",
+          "site:theqoo.net 2026.10.23 여자아이돌 유튜브 음방 화제",
+          "October 23 2026 latest bizarre incident meme politics controversy Reuters AP",
+          "2026년 10월 23일 황당 사건 밈 유머 정치 발언 사회 이슈",
+          "site:fmkorea.com 2026.10.23 유머 사건사고 정치 시사 화제",
+          "site:reuters.com October 23 2026 latest world unusual politics after 03 UTC",
+          "마운자로 들고 해외여행 관세청장 안내 충분치 않다 현장영상 2026 10 23",
+          "전국 법원 전산망 마비 복구 작업 중 2026 10 23",
+          "스피드핵 쓰는 아이브 안유진 2026 10 23 원본 영상",
+          "세리머니 해외 진출 문선민 제 머리는 개성인데 2026",
+          "파주FC 월급 50 70% 지급 임금 체불 선수협 2026 10 23",
+          "호날두 알나스르 은퇴 후 대통령 출마 고려 인터뷰 2026 10 23",
+          "site:reuters.com/sports October 23 2026 latest Reuters 03:00 UTC",
+          "site:reuters.com/world October 23 2026 latest Reuters 03:00 UTC",
+          "2026년 10월 23일 13시 14시 속보 사건 정치 사회 확정 발표",
+          "2026년 10월 23일 13시 스포츠 축구 공식 발표 사건사고",
+          "2026년 10월 23일 13시 여자아이돌 공식 유튜브 콘텐츠",
+          "site:apnews.com Minnesota stopped sharing evidence Renee Good Alex Pretti October 23 2026 published time"
+        ],
+        "opened_urls": [
+          "https://imnews.imbc.com/news/2026/econo/article/6860167_36932.html",
+          "https://www.reuters.com/world/china/global-markets-view-europe-2026-10-23/",
+          "https://www.reuters.com/world/asia-pacific/indonesia-seizes-116-tons-ketamine-police-chief-says-2026-10-23/",
+          "https://www.reuters.com/world/india/india-october-business-growth-hits-4-month-high-hiring-stalls-pmi-shows-2026-10-23/",
+          "https://www.reuters.com/sports/basketball/shai-gilgeous-alexanders-record-20-point-streak-ends-thunders-win-over-nuggets--flm-2026-10-23/",
+          "https://www.reuters.com/world/he-amputated-his-own-foot-survive-giant-drone-then-flew-him-out-2026-10-23/",
+          "https://www.reuters.com/sports/ex-yankees-player-matsui-become-head-coach-tokyo-yomiuri-giants-nhk-reports-2026-10-23/",
+          "https://apnews.com/article/d18378b40675bb107f9c2d519c2b9853",
+          "https://www.reuters.com/sports/soccer/manchester-city-take-perfect-record-villa-amid-off-field-turmoil-2026-10-22/",
+          "https://www.instagram.com/p/DewcVfWn66b/",
+          "https://www.koreadaily.com/article/20261022181911955"
+        ],
+        "unavailable": [
+          "펨코 공개 색인은 새 원본·최초 공개 시각을 함께 제시하지 않아 공식 원문으로 전환했다.",
+          "여자아이돌 공식 콘텐츠에서 12시간 내 새 대사·행동·연속 장면을 직접 확인하지 못했다.",
+          "마운자로 국감 발언은 현장 원본 영상과 정확한 최초 공개 시각을 함께 확인하지 못했다.",
+          "파주FC 임금 체불은 23일 선수협의 새 입장 최초 공개 시각을 확정하지 못했다.",
+          "우크라이나 드론 구조는 Reuters 영상 페이지를 확인했지만 핵심 연속 장면을 직접 재생 확인하지 못했다."
+        ]
+      }
+    },
+    {
+      "event_key": "ai-capex-fear-us-ten-year-yield-19bp-drop-20261023",
+      "url": "https://www.reuters.com/world/china/global-markets-view-europe-2026-10-23/",
+      "title": "AI 투자 공포에 미 국채 10년물 금리 19bp 급락…SVB 사태 뒤 최대 움직임",
+      "category": "시사",
+      "status": "reviewed",
+      "recorded_at": 1792733495,
+      "pick": {
+        "title": "AI 투자 공포에 미 국채 10년물 금리 19bp 급락…SVB 사태 뒤 최대 움직임",
+        "category": "시사",
+        "url": "https://www.reuters.com/world/china/global-markets-view-europe-2026-10-23/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "ai-capex-fear-us-ten-year-yield-19bp-drop-20261023",
+        "why": "Meta의 수천억달러 투자 언급과 CoreWeave 급락 뒤 안전자산 쏠림이 발생해 미 10년물 금리가 하루 19bp 내려갔다.",
+        "angle": "Meta 수천억달러 발언→주가 약 7% 하락→CoreWeave 10% 추가 하락→SVB 붕괴 뒤 가장 큰 국채 움직임으로 잇는다.",
+        "why_now": "Reuters가 23일 04시31분 UTC 밤사이 AI 자금조달 우려와 채권·외환 시장의 동시 반응을 정리해 공개했다.",
+        "verified_at": 1792733392,
+        "published_at": 1792729860,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/world/china/global-markets-view-europe-2026-10-23/",
+            "note": "Reuters 본문에서 10년물 금리 19bp 하락, 장기채 가격 2포인트 상승, Meta 약 7%·CoreWeave 10% 하락과 AI 투자비 추정치를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/world/china/global-markets-view-europe-2026-10-23/",
+            "label": "Reuters 시장 정리",
+            "kind": "source"
+          }
+        ],
+        "caution": "Reuters의 Morning Bid 해설이며 단일 사건 원인으로 확정한 보도가 아니다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-23",
+          "observation": "Reuters 시장 본문에서 AI 자금조달 우려, 관련주 낙폭, 미국 장기채 가격·수익률과 엔·스위스프랑 움직임을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1장: Meta의 수천억달러 AI 설비투자 언급",
+            "2장: Meta 약 7%·CoreWeave 10% 추가 하락",
+            "3장: 미 10년물 금리 19bp 급락과 안전자산 쏠림"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "October 23 2026 latest football controversy funny incident red card quote Reuters official club",
+          "2026년 10월 23일 축구 사건사고 황당 장면 발언 국축 해축",
+          "site:fmkorea.com 2026.10.23 해외축구 화제 웃긴 장면 사건 발언",
+          "site:uefa.com October 23 2026 Europa League highlights funny red card celebration",
+          "October 23 2026 girl group official YouTube funny moment IVE aespa NMIXX LE SSERAFIM",
+          "2026년 10월 23일 여자아이돌 공식 유튜브 자체콘텐츠 화제 장면",
+          "site:youtube.com/watch Oct 23 2026 girl group official Kpop",
+          "site:theqoo.net 2026.10.23 여자아이돌 유튜브 음방 화제",
+          "October 23 2026 latest bizarre incident meme politics controversy Reuters AP",
+          "2026년 10월 23일 황당 사건 밈 유머 정치 발언 사회 이슈",
+          "site:fmkorea.com 2026.10.23 유머 사건사고 정치 시사 화제",
+          "site:reuters.com October 23 2026 latest world unusual politics after 03 UTC",
+          "마운자로 들고 해외여행 관세청장 안내 충분치 않다 현장영상 2026 10 23",
+          "전국 법원 전산망 마비 복구 작업 중 2026 10 23",
+          "스피드핵 쓰는 아이브 안유진 2026 10 23 원본 영상",
+          "세리머니 해외 진출 문선민 제 머리는 개성인데 2026",
+          "파주FC 월급 50 70% 지급 임금 체불 선수협 2026 10 23",
+          "호날두 알나스르 은퇴 후 대통령 출마 고려 인터뷰 2026 10 23",
+          "site:reuters.com/sports October 23 2026 latest Reuters 03:00 UTC",
+          "site:reuters.com/world October 23 2026 latest Reuters 03:00 UTC",
+          "2026년 10월 23일 13시 14시 속보 사건 정치 사회 확정 발표",
+          "2026년 10월 23일 13시 스포츠 축구 공식 발표 사건사고",
+          "2026년 10월 23일 13시 여자아이돌 공식 유튜브 콘텐츠",
+          "site:apnews.com Minnesota stopped sharing evidence Renee Good Alex Pretti October 23 2026 published time"
+        ],
+        "opened_urls": [
+          "https://imnews.imbc.com/news/2026/econo/article/6860167_36932.html",
+          "https://www.reuters.com/world/china/global-markets-view-europe-2026-10-23/",
+          "https://www.reuters.com/world/asia-pacific/indonesia-seizes-116-tons-ketamine-police-chief-says-2026-10-23/",
+          "https://www.reuters.com/world/india/india-october-business-growth-hits-4-month-high-hiring-stalls-pmi-shows-2026-10-23/",
+          "https://www.reuters.com/sports/basketball/shai-gilgeous-alexanders-record-20-point-streak-ends-thunders-win-over-nuggets--flm-2026-10-23/",
+          "https://www.reuters.com/world/he-amputated-his-own-foot-survive-giant-drone-then-flew-him-out-2026-10-23/",
+          "https://www.reuters.com/sports/ex-yankees-player-matsui-become-head-coach-tokyo-yomiuri-giants-nhk-reports-2026-10-23/",
+          "https://apnews.com/article/d18378b40675bb107f9c2d519c2b9853",
+          "https://www.reuters.com/sports/soccer/manchester-city-take-perfect-record-villa-amid-off-field-turmoil-2026-10-22/",
+          "https://www.instagram.com/p/DewcVfWn66b/",
+          "https://www.koreadaily.com/article/20261022181911955"
+        ],
+        "unavailable": [
+          "펨코 공개 색인은 새 원본·최초 공개 시각을 함께 제시하지 않아 공식 원문으로 전환했다.",
+          "여자아이돌 공식 콘텐츠에서 12시간 내 새 대사·행동·연속 장면을 직접 확인하지 못했다.",
+          "마운자로 국감 발언은 현장 원본 영상과 정확한 최초 공개 시각을 함께 확인하지 못했다.",
+          "파주FC 임금 체불은 23일 선수협의 새 입장 최초 공개 시각을 확정하지 못했다.",
+          "우크라이나 드론 구조는 Reuters 영상 페이지를 확인했지만 핵심 연속 장면을 직접 재생 확인하지 못했다."
+        ]
+      }
+    },
+    {
+      "event_key": "indonesia-tanker-ais-anomaly-ketamine-116-ton-seizure-20261023",
+      "url": "https://www.reuters.com/world/asia-pacific/indonesia-seizes-116-tons-ketamine-police-chief-says-2026-10-23/",
+      "title": "AIS 이상 포착해 세운 유조선…자루 58개에서 케타민 1.16톤",
+      "category": "시사",
+      "status": "reviewed",
+      "recorded_at": 1792733495,
+      "pick": {
+        "title": "AIS 이상 포착해 세운 유조선…자루 58개에서 케타민 1.16톤",
+        "category": "시사",
+        "url": "https://www.reuters.com/world/asia-pacific/indonesia-seizes-116-tons-ketamine-police-chief-says-2026-10-23/",
+        "source": "Reuters·인도네시아 경찰",
+        "kind": "article",
+        "event_key": "indonesia-tanker-ais-anomaly-ketamine-116-ton-seizure-20261023",
+        "why": "인도네시아 당국이 선박 위치신호 이상을 추적해 몽골 선적 유조선을 세웠고 자루 58개에서 케타민 1.16톤을 압수했다.",
+        "angle": "AIS 이상 신호→말라카해협 항로 추적→유조선 검문→58자루·1.16톤·약 1억9천만달러 적발로 전개한다.",
+        "why_now": "인도네시아 경찰청장이 23일 압수 규모와 선박 항적·승선자 체포 내용을 발표했고 Reuters가 05시03분 UTC 보도했다.",
+        "verified_at": 1792733392,
+        "published_at": 1792731780,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/world/asia-pacific/indonesia-seizes-116-tons-ketamine-police-chief-says-2026-10-23/",
+            "note": "Reuters 본문에서 AIS 이상, 말레이시아 출항과 선박 간 환적 의심 항로, 58자루 1.16톤, 8명 체포와 약 1억9천만달러 가치를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/world/asia-pacific/indonesia-seizes-116-tons-ketamine-police-chief-says-2026-10-23/",
+            "label": "경찰청장 발표 보도",
+            "kind": "source"
+          }
+        ],
+        "caution": "선박 간 환적은 당국의 추정이며 수사·재판 전 단계다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-23",
+          "observation": "경찰청장 발표를 인용한 Reuters 본문에서 선박 항적, AIS 이상, 압수량·자루 수·체포 인원과 추정 가치를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1장: 자동식별장치 AIS에서 포착된 유조선의 이상",
+            "2장: 말레이시아 출항 뒤 말라카해협과 안다만해를 향한 항적",
+            "3장: 58자루에서 나온 케타민 1.16톤과 승선자 8명 체포"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "October 23 2026 latest football controversy funny incident red card quote Reuters official club",
+          "2026년 10월 23일 축구 사건사고 황당 장면 발언 국축 해축",
+          "site:fmkorea.com 2026.10.23 해외축구 화제 웃긴 장면 사건 발언",
+          "site:uefa.com October 23 2026 Europa League highlights funny red card celebration",
+          "October 23 2026 girl group official YouTube funny moment IVE aespa NMIXX LE SSERAFIM",
+          "2026년 10월 23일 여자아이돌 공식 유튜브 자체콘텐츠 화제 장면",
+          "site:youtube.com/watch Oct 23 2026 girl group official Kpop",
+          "site:theqoo.net 2026.10.23 여자아이돌 유튜브 음방 화제",
+          "October 23 2026 latest bizarre incident meme politics controversy Reuters AP",
+          "2026년 10월 23일 황당 사건 밈 유머 정치 발언 사회 이슈",
+          "site:fmkorea.com 2026.10.23 유머 사건사고 정치 시사 화제",
+          "site:reuters.com October 23 2026 latest world unusual politics after 03 UTC",
+          "마운자로 들고 해외여행 관세청장 안내 충분치 않다 현장영상 2026 10 23",
+          "전국 법원 전산망 마비 복구 작업 중 2026 10 23",
+          "스피드핵 쓰는 아이브 안유진 2026 10 23 원본 영상",
+          "세리머니 해외 진출 문선민 제 머리는 개성인데 2026",
+          "파주FC 월급 50 70% 지급 임금 체불 선수협 2026 10 23",
+          "호날두 알나스르 은퇴 후 대통령 출마 고려 인터뷰 2026 10 23",
+          "site:reuters.com/sports October 23 2026 latest Reuters 03:00 UTC",
+          "site:reuters.com/world October 23 2026 latest Reuters 03:00 UTC",
+          "2026년 10월 23일 13시 14시 속보 사건 정치 사회 확정 발표",
+          "2026년 10월 23일 13시 스포츠 축구 공식 발표 사건사고",
+          "2026년 10월 23일 13시 여자아이돌 공식 유튜브 콘텐츠",
+          "site:apnews.com Minnesota stopped sharing evidence Renee Good Alex Pretti October 23 2026 published time"
+        ],
+        "opened_urls": [
+          "https://imnews.imbc.com/news/2026/econo/article/6860167_36932.html",
+          "https://www.reuters.com/world/china/global-markets-view-europe-2026-10-23/",
+          "https://www.reuters.com/world/asia-pacific/indonesia-seizes-116-tons-ketamine-police-chief-says-2026-10-23/",
+          "https://www.reuters.com/world/india/india-october-business-growth-hits-4-month-high-hiring-stalls-pmi-shows-2026-10-23/",
+          "https://www.reuters.com/sports/basketball/shai-gilgeous-alexanders-record-20-point-streak-ends-thunders-win-over-nuggets--flm-2026-10-23/",
+          "https://www.reuters.com/world/he-amputated-his-own-foot-survive-giant-drone-then-flew-him-out-2026-10-23/",
+          "https://www.reuters.com/sports/ex-yankees-player-matsui-become-head-coach-tokyo-yomiuri-giants-nhk-reports-2026-10-23/",
+          "https://apnews.com/article/d18378b40675bb107f9c2d519c2b9853",
+          "https://www.reuters.com/sports/soccer/manchester-city-take-perfect-record-villa-amid-off-field-turmoil-2026-10-22/",
+          "https://www.instagram.com/p/DewcVfWn66b/",
+          "https://www.koreadaily.com/article/20261022181911955"
+        ],
+        "unavailable": [
+          "펨코 공개 색인은 새 원본·최초 공개 시각을 함께 제시하지 않아 공식 원문으로 전환했다.",
+          "여자아이돌 공식 콘텐츠에서 12시간 내 새 대사·행동·연속 장면을 직접 확인하지 못했다.",
+          "마운자로 국감 발언은 현장 원본 영상과 정확한 최초 공개 시각을 함께 확인하지 못했다.",
+          "파주FC 임금 체불은 23일 선수협의 새 입장 최초 공개 시각을 확정하지 못했다.",
+          "우크라이나 드론 구조는 Reuters 영상 페이지를 확인했지만 핵심 연속 장면을 직접 재생 확인하지 못했다."
+        ]
+      }
+    },
+    {
+      "event_key": "shai-141-game-20-point-streak-ends-self-bench-20261023",
+      "url": "https://www.reuters.com/sports/basketball/shai-gilgeous-alexanders-record-20-point-streak-ends-thunders-win-over-nuggets--flm-2026-10-23/",
+      "title": "141경기 연속 20득점이 끝났다…SGA는 지시 기다리지 않고 스스로 벤치로",
+      "category": "메이저 스포츠",
+      "status": "reviewed",
+      "recorded_at": 1792733495,
+      "pick": {
+        "title": "141경기 연속 20득점이 끝났다…SGA는 지시 기다리지 않고 스스로 벤치로",
+        "category": "메이저 스포츠",
+        "url": "https://www.reuters.com/sports/basketball/shai-gilgeous-alexanders-record-20-point-streak-ends-thunders-win-over-nuggets--flm-2026-10-23/",
+        "source": "Reuters·Field Level Media",
+        "kind": "article",
+        "event_key": "shai-141-game-20-point-streak-ends-self-bench-20261023",
+        "why": "샤이 길저스알렉산더가 4쿼터 10점을 몰아치고도 17점에 그쳤고, 상대가 벤치를 비우자 감독 지시도 기다리지 않고 스스로 나가 NBA 기록이 끝났다.",
+        "angle": "전반 7개 야투 전부 실패→4쿼터 10점 추격→2분 전 17점→상대 벤치 투입과 함께 스스로 벤치로 향한 결말을 잡는다.",
+        "why_now": "오클라호마시티-덴버전이 끝난 뒤 Reuters가 23일 04시58분 UTC 141경기 연속 20득점 기록 종료 과정과 본인 행동을 공개했다.",
+        "verified_at": 1792733392,
+        "published_at": 1792731480,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/basketball/shai-gilgeous-alexanders-record-20-point-streak-ends-thunders-win-over-nuggets--flm-2026-10-23/",
+            "note": "Reuters 경기 본문에서 전반 0/7, 4쿼터 10점, 최종 17점, 141경기 기록과 경기 종료 2분 전 스스로 벤치로 향한 사실을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/basketball/shai-gilgeous-alexanders-record-20-point-streak-ends-thunders-win-over-nuggets--flm-2026-10-23/",
+            "label": "경기 기록·전개",
+            "kind": "source"
+          }
+        ],
+        "caution": "선수의 벤치 이동 장면 자체는 직접 재생 확인하지 않아 기사·경기 기록 기반 카드뉴스로만 다룬다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-23",
+          "observation": "경기 기사에서 SGA의 전반·4쿼터 득점 흐름, 141경기 기록, 상대의 벤치 투입과 본인의 자진 교체 전후를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1장: 전반 야투 7개를 모두 놓치고 무득점",
+            "2장: 4쿼터 10점을 몰아쳤지만 17점에 멈춘 스코어",
+            "3장: 상대 벤치가 들어오자 감독 지시 전 스스로 나가며 끝난 141경기 기록"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "October 23 2026 latest football controversy funny incident red card quote Reuters official club",
+          "2026년 10월 23일 축구 사건사고 황당 장면 발언 국축 해축",
+          "site:fmkorea.com 2026.10.23 해외축구 화제 웃긴 장면 사건 발언",
+          "site:uefa.com October 23 2026 Europa League highlights funny red card celebration",
+          "October 23 2026 girl group official YouTube funny moment IVE aespa NMIXX LE SSERAFIM",
+          "2026년 10월 23일 여자아이돌 공식 유튜브 자체콘텐츠 화제 장면",
+          "site:youtube.com/watch Oct 23 2026 girl group official Kpop",
+          "site:theqoo.net 2026.10.23 여자아이돌 유튜브 음방 화제",
+          "October 23 2026 latest bizarre incident meme politics controversy Reuters AP",
+          "2026년 10월 23일 황당 사건 밈 유머 정치 발언 사회 이슈",
+          "site:fmkorea.com 2026.10.23 유머 사건사고 정치 시사 화제",
+          "site:reuters.com October 23 2026 latest world unusual politics after 03 UTC",
+          "마운자로 들고 해외여행 관세청장 안내 충분치 않다 현장영상 2026 10 23",
+          "전국 법원 전산망 마비 복구 작업 중 2026 10 23",
+          "스피드핵 쓰는 아이브 안유진 2026 10 23 원본 영상",
+          "세리머니 해외 진출 문선민 제 머리는 개성인데 2026",
+          "파주FC 월급 50 70% 지급 임금 체불 선수협 2026 10 23",
+          "호날두 알나스르 은퇴 후 대통령 출마 고려 인터뷰 2026 10 23",
+          "site:reuters.com/sports October 23 2026 latest Reuters 03:00 UTC",
+          "site:reuters.com/world October 23 2026 latest Reuters 03:00 UTC",
+          "2026년 10월 23일 13시 14시 속보 사건 정치 사회 확정 발표",
+          "2026년 10월 23일 13시 스포츠 축구 공식 발표 사건사고",
+          "2026년 10월 23일 13시 여자아이돌 공식 유튜브 콘텐츠",
+          "site:apnews.com Minnesota stopped sharing evidence Renee Good Alex Pretti October 23 2026 published time"
+        ],
+        "opened_urls": [
+          "https://imnews.imbc.com/news/2026/econo/article/6860167_36932.html",
+          "https://www.reuters.com/world/china/global-markets-view-europe-2026-10-23/",
+          "https://www.reuters.com/world/asia-pacific/indonesia-seizes-116-tons-ketamine-police-chief-says-2026-10-23/",
+          "https://www.reuters.com/world/india/india-october-business-growth-hits-4-month-high-hiring-stalls-pmi-shows-2026-10-23/",
+          "https://www.reuters.com/sports/basketball/shai-gilgeous-alexanders-record-20-point-streak-ends-thunders-win-over-nuggets--flm-2026-10-23/",
+          "https://www.reuters.com/world/he-amputated-his-own-foot-survive-giant-drone-then-flew-him-out-2026-10-23/",
+          "https://www.reuters.com/sports/ex-yankees-player-matsui-become-head-coach-tokyo-yomiuri-giants-nhk-reports-2026-10-23/",
+          "https://apnews.com/article/d18378b40675bb107f9c2d519c2b9853",
+          "https://www.reuters.com/sports/soccer/manchester-city-take-perfect-record-villa-amid-off-field-turmoil-2026-10-22/",
+          "https://www.instagram.com/p/DewcVfWn66b/",
+          "https://www.koreadaily.com/article/20261022181911955"
+        ],
+        "unavailable": [
+          "펨코 공개 색인은 새 원본·최초 공개 시각을 함께 제시하지 않아 공식 원문으로 전환했다.",
+          "여자아이돌 공식 콘텐츠에서 12시간 내 새 대사·행동·연속 장면을 직접 확인하지 못했다.",
+          "마운자로 국감 발언은 현장 원본 영상과 정확한 최초 공개 시각을 함께 확인하지 못했다.",
+          "파주FC 임금 체불은 23일 선수협의 새 입장 최초 공개 시각을 확정하지 못했다.",
+          "우크라이나 드론 구조는 Reuters 영상 페이지를 확인했지만 핵심 연속 장면을 직접 재생 확인하지 못했다."
+        ]
+      }
+    },
+    {
+      "event_key": "india-october-pmi-four-month-high-hiring-stalls-20261023",
+      "url": "https://www.reuters.com/world/india/india-october-business-growth-hits-4-month-high-hiring-stalls-pmi-shows-2026-10-23/",
+      "title": "인도 기업 활동은 4개월 만에 최고…채용은 거의 멈췄다",
+      "category": "시사",
+      "status": "reviewed",
+      "recorded_at": 1792733495,
+      "pick": {
+        "title": "인도 기업 활동은 4개월 만에 최고…채용은 거의 멈췄다",
+        "category": "시사",
+        "url": "https://www.reuters.com/world/india/india-october-business-growth-hits-4-month-high-hiring-stalls-pmi-shows-2026-10-23/",
+        "source": "Reuters·S&P Global",
+        "kind": "article",
+        "event_key": "india-october-pmi-four-month-high-hiring-stalls-20261023",
+        "why": "인도 기업들은 주문 증가로 4개월 만에 가장 빠르게 성장했지만 늘어난 일감을 기존 인력으로 처리해 신규 고용은 거의 멈췄다.",
+        "angle": "종합 PMI 55.9→56.7→수출 주문 6개월 최고→고용은 제자리라는 성장과 채용의 엇갈림을 보여준다.",
+        "why_now": "S&P Global의 10월 속보치가 23일 공개됐고 Reuters가 05시06분 UTC 주문·수출·고용·비용의 상반된 흐름을 보도했다.",
+        "verified_at": 1792733392,
+        "published_at": 1792731960,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/world/india/india-october-business-growth-hits-4-month-high-hiring-stalls-pmi-shows-2026-10-23/",
+            "note": "Reuters 본문에서 종합 PMI 56.7, 4개월 최고 성장, 수출 주문 6개월 최고와 기존 인력 활용에 따른 고용 정체를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/world/india/india-october-business-growth-hits-4-month-high-hiring-stalls-pmi-shows-2026-10-23/",
+            "label": "PMI 속보치 보도",
+            "kind": "source"
+          }
+        ],
+        "caution": "확정치가 아닌 10월 속보 PMI이며 BTP 적합도는 후속 후보와 상대 비교가 필요하다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-23",
+          "observation": "S&P Global 속보조사를 인용한 Reuters 본문에서 종합지수, 수출 주문, 비용 압력과 고용 정체의 동시 발생을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1장: 인도 종합 PMI 55.9에서 56.7로 상승",
+            "2장: 수출 주문은 6개월 만에 가장 빠른 증가",
+            "3장: 늘어난 일감을 기존 인력으로 처리해 채용은 거의 정지"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "October 23 2026 latest football controversy funny incident red card quote Reuters official club",
+          "2026년 10월 23일 축구 사건사고 황당 장면 발언 국축 해축",
+          "site:fmkorea.com 2026.10.23 해외축구 화제 웃긴 장면 사건 발언",
+          "site:uefa.com October 23 2026 Europa League highlights funny red card celebration",
+          "October 23 2026 girl group official YouTube funny moment IVE aespa NMIXX LE SSERAFIM",
+          "2026년 10월 23일 여자아이돌 공식 유튜브 자체콘텐츠 화제 장면",
+          "site:youtube.com/watch Oct 23 2026 girl group official Kpop",
+          "site:theqoo.net 2026.10.23 여자아이돌 유튜브 음방 화제",
+          "October 23 2026 latest bizarre incident meme politics controversy Reuters AP",
+          "2026년 10월 23일 황당 사건 밈 유머 정치 발언 사회 이슈",
+          "site:fmkorea.com 2026.10.23 유머 사건사고 정치 시사 화제",
+          "site:reuters.com October 23 2026 latest world unusual politics after 03 UTC",
+          "마운자로 들고 해외여행 관세청장 안내 충분치 않다 현장영상 2026 10 23",
+          "전국 법원 전산망 마비 복구 작업 중 2026 10 23",
+          "스피드핵 쓰는 아이브 안유진 2026 10 23 원본 영상",
+          "세리머니 해외 진출 문선민 제 머리는 개성인데 2026",
+          "파주FC 월급 50 70% 지급 임금 체불 선수협 2026 10 23",
+          "호날두 알나스르 은퇴 후 대통령 출마 고려 인터뷰 2026 10 23",
+          "site:reuters.com/sports October 23 2026 latest Reuters 03:00 UTC",
+          "site:reuters.com/world October 23 2026 latest Reuters 03:00 UTC",
+          "2026년 10월 23일 13시 14시 속보 사건 정치 사회 확정 발표",
+          "2026년 10월 23일 13시 스포츠 축구 공식 발표 사건사고",
+          "2026년 10월 23일 13시 여자아이돌 공식 유튜브 콘텐츠",
+          "site:apnews.com Minnesota stopped sharing evidence Renee Good Alex Pretti October 23 2026 published time"
+        ],
+        "opened_urls": [
+          "https://imnews.imbc.com/news/2026/econo/article/6860167_36932.html",
+          "https://www.reuters.com/world/china/global-markets-view-europe-2026-10-23/",
+          "https://www.reuters.com/world/asia-pacific/indonesia-seizes-116-tons-ketamine-police-chief-says-2026-10-23/",
+          "https://www.reuters.com/world/india/india-october-business-growth-hits-4-month-high-hiring-stalls-pmi-shows-2026-10-23/",
+          "https://www.reuters.com/sports/basketball/shai-gilgeous-alexanders-record-20-point-streak-ends-thunders-win-over-nuggets--flm-2026-10-23/",
+          "https://www.reuters.com/world/he-amputated-his-own-foot-survive-giant-drone-then-flew-him-out-2026-10-23/",
+          "https://www.reuters.com/sports/ex-yankees-player-matsui-become-head-coach-tokyo-yomiuri-giants-nhk-reports-2026-10-23/",
+          "https://apnews.com/article/d18378b40675bb107f9c2d519c2b9853",
+          "https://www.reuters.com/sports/soccer/manchester-city-take-perfect-record-villa-amid-off-field-turmoil-2026-10-22/",
+          "https://www.instagram.com/p/DewcVfWn66b/",
+          "https://www.koreadaily.com/article/20261022181911955"
+        ],
+        "unavailable": [
+          "펨코 공개 색인은 새 원본·최초 공개 시각을 함께 제시하지 않아 공식 원문으로 전환했다.",
+          "여자아이돌 공식 콘텐츠에서 12시간 내 새 대사·행동·연속 장면을 직접 확인하지 못했다.",
+          "마운자로 국감 발언은 현장 원본 영상과 정확한 최초 공개 시각을 함께 확인하지 못했다.",
+          "파주FC 임금 체불은 23일 선수협의 새 입장 최초 공개 시각을 확정하지 못했다.",
+          "우크라이나 드론 구조는 Reuters 영상 페이지를 확인했지만 핵심 연속 장면을 직접 재생 확인하지 못했다."
+        ]
+      }
+    },
+    {
+      "event_key": "trump-980000-deportations-only-20-percent-convictions-20261022",
+      "url": "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
+      "title": "트럼프 18개월 추방 98만명…범죄 전력자는 전체의 20%",
+      "category": "시사",
+      "status": "reviewed",
+      "recorded_at": 1792730003,
+      "pick": {
+        "title": "트럼프 18개월 추방 98만명…범죄 전력자는 전체의 20%",
+        "category": "시사",
+        "url": "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
+        "source": "Reuters·Migration Policy Institute",
+        "kind": "article",
+        "event_key": "trump-980000-deportations-only-20-percent-convictions-20261022",
+        "why": "‘치안’을 내세운 대규모 추방에서 범죄 유죄 전력이 있는 사람은 다섯 명 중 한 명뿐이었다는 수치가 논쟁을 만든다.",
+        "angle": "98만명 총추방→유죄 전력 20%→2년 이상 거주자 중 무전과 71%→과거 정부와 비교로 간다.",
+        "why_now": "전 DHS 통계 책임자가 작성한 18개월 분석 보고서가 22일 공개됐다.",
+        "verified_at": 1792729884,
+        "published_at": 1792706187,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
+            "note": "Reuters 본문에서 98만명, 유죄 전력자 20%, 장기 거주 추방자 중 무전과 71%와 분류별 수치를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
+            "label": "원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "수치는 정부 발표가 아니라 이민정책연구소가 DHS 데이터를 분석한 결과다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "Reuters 본문에서 98만명, 유죄 전력자 20%, 장기 거주 추방자 중 무전과 71%와 분류별 수치를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1장: 18개월 추방 98만명",
+            "2장: 범죄 유죄 전력은 20%라는 반전",
+            "3장: 2년 이상 거주 추방자 중 71%는 유죄 전력 없음"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "site:reuters.com \"Trump administration oversaw 980,000 deportations\"",
+          "site:reuters.com \"GM cancels deal with new US rare earth magnet plant\"",
+          "site:reuters.com \"Sainz says talk of F1 racing in Middle East is premature\"",
+          "site:reuters.com \"SpaceX says Tesla merger would need Musk's approval\"",
+          "site:reuters.com \"Australian TV reporter recalls terrifying rescue\"",
+          "site:reuters.com \"Eagles Nick Sirianni sidesteps Jalen Hurts queries\"",
+          "site:reuters.com \"Tunisian police clash with protesters\" October 22 2026",
+          "site:reuters.com \"Microsoft develops AI tool that can diagnose sequentially like a doctor\"",
+          "site:reuters.com \"Hall of Famer Marshall Faulk reveals Parkinson's diagnosis\"",
+          "site:reuters.com \"HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs\"",
+          "October 23 2026 latest football funny incident official video Reuters soccer",
+          "October 23 2026 girl group official content funny moment NMIXX IVE aespa",
+          "site:youtube.com/watch Bournemouth AC Milan 3-0 highlights Maignan red card October 22 2026 UEFA",
+          "site:uefa.com Bournemouth Milan Maignan red card highlights October 22 2026",
+          "site:afcb.co.uk Bournemouth Milan Maignan red card October 22 2026 highlights",
+          "site:acmilan.com Bournemouth Milan Maignan red card October 22 2026",
+          "Mike Maignan Tyler Adams red card Bournemouth Milan October 22 2026"
+        ],
+        "opened_urls": [
+          "https://www.reuters.com/business/environment/australian-tv-reporter-recalls-terrifying-rescue-man-sinking-car-2026-10-23/",
+          "https://www.abc.net.au/news/2026-10-22/abc-reporter-and-bystander-rescue-man-from-floodwaters/107297094",
+          "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
+          "https://www.reuters.com/sports/eagles-nick-sirianni-sidesteps-jalen-hurts-queries--flm-2026-10-22/",
+          "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/",
+          "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
+          "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
+          "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
+          "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
+          "https://www.reuters.com/sports/hall-famer-marshall-faulk-reveals-parkinsons-diagnosis--flm-2026-10-23/",
+          "https://www.reuters.com/world/asia-pacific/hd-hyundai-build-us-shipyard-with-kiewit-create-3000-jobs-2026-10-23/",
+          "https://www.uefa.com/uefaeuropaleague/news/02aa-21e410bcbe25-9352142b4434-1000--europa-league-matchday-3-highlights-and-round-up-bournemouth/",
+          "https://www.acmilan.com/en/news/articles/europa-league/2026-10-22/ac-milan-beaten-by-bournemouth"
+        ],
+        "unavailable": [
+          "펨코 공개 색인에서 12시간 내 새 원본·핵심 장면을 함께 검증하지 못해 공식 원문으로 전환",
+          "여자아이돌 공식 콘텐츠에서 12시간 내 새 대사·행동·연속 장면을 확인하지 못해 보류",
+          "국축은 12시간 이내 원본 공개와 핵심 장면을 함께 확인한 새 후보가 없어 다음 회차로 이월",
+          "마이냥 퇴장 보도는 확인했지만 결정 장면 영상을 직접 보지 못해 선정에서 제외"
+        ]
+      }
+    },
+    {
+      "event_key": "gm-terminates-vac-us-rare-earth-magnet-deal-90-percent-20261022",
+      "url": "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
+      "title": "미국산 희토류 자석 공장, 물량 90%를 사기로 한 GM이 계약을 끊었다",
+      "category": "시사",
+      "status": "reviewed",
+      "recorded_at": 1792730003,
+      "pick": {
+        "title": "미국산 희토류 자석 공장, 물량 90%를 사기로 한 GM이 계약을 끊었다",
+        "category": "시사",
+        "url": "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
+        "source": "Reuters·SEC 공시",
+        "kind": "article",
+        "event_key": "gm-terminates-vac-us-rare-earth-magnet-deal-90-percent-20261022",
+        "why": "중국 의존을 줄이겠다며 만든 5억달러 공장의 최대 고객이 돌연 빠져 ‘탈중국 공급망’의 민낯이 드러났다.",
+        "angle": "5억달러 공장→생산량 90% GM 공급 계약→GM 해지→중재와 인수가격 조정 가능성으로 전개한다.",
+        "why_now": "SEC 문서와 관계자 확인을 통해 22일 계약 해지와 분쟁이 처음 보도됐다.",
+        "verified_at": 1792729884,
+        "published_at": 1792705271,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
+            "note": "Reuters 본문에서 연 2천톤 공장 생산량의 90%를 GM이 사기로 했고 해지 뒤 VAC가 중재를 제기한 사실을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
+            "label": "원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "계약 해지 이유와 중재 세부 내용은 비공개다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "Reuters 본문에서 연 2천톤 공장 생산량의 90%를 GM이 사기로 했고 해지 뒤 VAC가 중재를 제기한 사실을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1장: ‘미국산 희토류 자석’ 5억달러 공장",
+            "2장: 물량 90%를 사기로 한 GM 계약",
+            "3장: GM 해지·중재 돌입, 탈중국 계획에 생긴 구멍"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "site:reuters.com \"Trump administration oversaw 980,000 deportations\"",
+          "site:reuters.com \"GM cancels deal with new US rare earth magnet plant\"",
+          "site:reuters.com \"Sainz says talk of F1 racing in Middle East is premature\"",
+          "site:reuters.com \"SpaceX says Tesla merger would need Musk's approval\"",
+          "site:reuters.com \"Australian TV reporter recalls terrifying rescue\"",
+          "site:reuters.com \"Eagles Nick Sirianni sidesteps Jalen Hurts queries\"",
+          "site:reuters.com \"Tunisian police clash with protesters\" October 22 2026",
+          "site:reuters.com \"Microsoft develops AI tool that can diagnose sequentially like a doctor\"",
+          "site:reuters.com \"Hall of Famer Marshall Faulk reveals Parkinson's diagnosis\"",
+          "site:reuters.com \"HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs\"",
+          "October 23 2026 latest football funny incident official video Reuters soccer",
+          "October 23 2026 girl group official content funny moment NMIXX IVE aespa",
+          "site:youtube.com/watch Bournemouth AC Milan 3-0 highlights Maignan red card October 22 2026 UEFA",
+          "site:uefa.com Bournemouth Milan Maignan red card highlights October 22 2026",
+          "site:afcb.co.uk Bournemouth Milan Maignan red card October 22 2026 highlights",
+          "site:acmilan.com Bournemouth Milan Maignan red card October 22 2026",
+          "Mike Maignan Tyler Adams red card Bournemouth Milan October 22 2026"
+        ],
+        "opened_urls": [
+          "https://www.reuters.com/business/environment/australian-tv-reporter-recalls-terrifying-rescue-man-sinking-car-2026-10-23/",
+          "https://www.abc.net.au/news/2026-10-22/abc-reporter-and-bystander-rescue-man-from-floodwaters/107297094",
+          "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
+          "https://www.reuters.com/sports/eagles-nick-sirianni-sidesteps-jalen-hurts-queries--flm-2026-10-22/",
+          "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/",
+          "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
+          "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
+          "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
+          "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
+          "https://www.reuters.com/sports/hall-famer-marshall-faulk-reveals-parkinsons-diagnosis--flm-2026-10-23/",
+          "https://www.reuters.com/world/asia-pacific/hd-hyundai-build-us-shipyard-with-kiewit-create-3000-jobs-2026-10-23/",
+          "https://www.uefa.com/uefaeuropaleague/news/02aa-21e410bcbe25-9352142b4434-1000--europa-league-matchday-3-highlights-and-round-up-bournemouth/",
+          "https://www.acmilan.com/en/news/articles/europa-league/2026-10-22/ac-milan-beaten-by-bournemouth"
+        ],
+        "unavailable": [
+          "펨코 공개 색인에서 12시간 내 새 원본·핵심 장면을 함께 검증하지 못해 공식 원문으로 전환",
+          "여자아이돌 공식 콘텐츠에서 12시간 내 새 대사·행동·연속 장면을 확인하지 못해 보류",
+          "국축은 12시간 이내 원본 공개와 핵심 장면을 함께 확인한 새 후보가 없어 다음 회차로 이월",
+          "마이냥 퇴장 보도는 확인했지만 결정 장면 영상을 직접 보지 못해 선정에서 제외"
+        ]
+      }
+    },
+    {
+      "event_key": "sainz-calls-f1-middle-east-race-certainty-premature-20261022",
+      "url": "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
+      "title": "F1 수장 “중동 레이스 예정대로”…사인츠 “지금 확신은 너무 이르다”",
+      "category": "메이저 스포츠",
+      "status": "reviewed",
+      "recorded_at": 1792730003,
+      "pick": {
+        "title": "F1 수장 “중동 레이스 예정대로”…사인츠 “지금 확신은 너무 이르다”",
+        "category": "메이저 스포츠",
+        "url": "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
+        "source": "Reuters·FIA",
+        "kind": "article",
+        "event_key": "sainz-calls-f1-middle-east-race-certainty-premature-20261022",
+        "why": "FIA 회장의 낙관과 현역 드라이버 대표의 불안이 정면 충돌했고, 대체지 이몰라에는 ‘제설차가 필요할 수도’라는 농담까지 나왔다.",
+        "angle": "FIA ‘예정대로’→사인츠 ‘확신 이르다’→이몰라 대체안→피아스트리의 제설차 농담으로 마무리한다.",
+        "why_now": "미국 GP 기자회견에서 22일 드라이버들이 카타르·아부다비 개최 불안을 직접 밝혔다.",
+        "verified_at": 1792729884,
+        "published_at": 1792699779,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
+            "note": "Reuters 본문에서 FIA의 강행 입장, 사인츠의 ‘premature’ 발언, 이몰라 대체안과 피아스트리의 제설차 발언을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
+            "label": "원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "카타르·아부다비 일정은 현재 유지 중이며 취소가 확정된 것은 아니다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "Reuters 본문에서 FIA의 강행 입장, 사인츠의 ‘premature’ 발언, 이몰라 대체안과 피아스트리의 제설차 발언을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1장: FIA 회장 ‘중동 레이스는 열린다’",
+            "2장: 드라이버 대표 사인츠 ‘지금 확신은 이르다’",
+            "3장: 대체지 이몰라 얘기에 나온 ‘제설차’ 농담"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "site:reuters.com \"Trump administration oversaw 980,000 deportations\"",
+          "site:reuters.com \"GM cancels deal with new US rare earth magnet plant\"",
+          "site:reuters.com \"Sainz says talk of F1 racing in Middle East is premature\"",
+          "site:reuters.com \"SpaceX says Tesla merger would need Musk's approval\"",
+          "site:reuters.com \"Australian TV reporter recalls terrifying rescue\"",
+          "site:reuters.com \"Eagles Nick Sirianni sidesteps Jalen Hurts queries\"",
+          "site:reuters.com \"Tunisian police clash with protesters\" October 22 2026",
+          "site:reuters.com \"Microsoft develops AI tool that can diagnose sequentially like a doctor\"",
+          "site:reuters.com \"Hall of Famer Marshall Faulk reveals Parkinson's diagnosis\"",
+          "site:reuters.com \"HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs\"",
+          "October 23 2026 latest football funny incident official video Reuters soccer",
+          "October 23 2026 girl group official content funny moment NMIXX IVE aespa",
+          "site:youtube.com/watch Bournemouth AC Milan 3-0 highlights Maignan red card October 22 2026 UEFA",
+          "site:uefa.com Bournemouth Milan Maignan red card highlights October 22 2026",
+          "site:afcb.co.uk Bournemouth Milan Maignan red card October 22 2026 highlights",
+          "site:acmilan.com Bournemouth Milan Maignan red card October 22 2026",
+          "Mike Maignan Tyler Adams red card Bournemouth Milan October 22 2026"
+        ],
+        "opened_urls": [
+          "https://www.reuters.com/business/environment/australian-tv-reporter-recalls-terrifying-rescue-man-sinking-car-2026-10-23/",
+          "https://www.abc.net.au/news/2026-10-22/abc-reporter-and-bystander-rescue-man-from-floodwaters/107297094",
+          "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
+          "https://www.reuters.com/sports/eagles-nick-sirianni-sidesteps-jalen-hurts-queries--flm-2026-10-22/",
+          "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/",
+          "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
+          "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
+          "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
+          "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
+          "https://www.reuters.com/sports/hall-famer-marshall-faulk-reveals-parkinsons-diagnosis--flm-2026-10-23/",
+          "https://www.reuters.com/world/asia-pacific/hd-hyundai-build-us-shipyard-with-kiewit-create-3000-jobs-2026-10-23/",
+          "https://www.uefa.com/uefaeuropaleague/news/02aa-21e410bcbe25-9352142b4434-1000--europa-league-matchday-3-highlights-and-round-up-bournemouth/",
+          "https://www.acmilan.com/en/news/articles/europa-league/2026-10-22/ac-milan-beaten-by-bournemouth"
+        ],
+        "unavailable": [
+          "펨코 공개 색인에서 12시간 내 새 원본·핵심 장면을 함께 검증하지 못해 공식 원문으로 전환",
+          "여자아이돌 공식 콘텐츠에서 12시간 내 새 대사·행동·연속 장면을 확인하지 못해 보류",
+          "국축은 12시간 이내 원본 공개와 핵심 장면을 함께 확인한 새 후보가 없어 다음 회차로 이월",
+          "마이냥 퇴장 보도는 확인했지만 결정 장면 영상을 직접 보지 못해 선정에서 제외"
+        ]
+      }
+    },
+    {
+      "event_key": "spacex-tesla-merger-musk-recusal-approval-paradox-20261022",
+      "url": "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/",
+      "title": "머스크는 협상에서 빠졌다는데…테슬라·스페이스X 합병은 결국 머스크 승인이 필요",
+      "category": "시사",
+      "status": "reviewed",
+      "recorded_at": 1792730003,
+      "pick": {
+        "title": "머스크는 협상에서 빠졌다는데…테슬라·스페이스X 합병은 결국 머스크 승인이 필요",
+        "category": "시사",
+        "url": "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/",
+        "source": "Reuters·SpaceX 공시",
+        "kind": "article",
+        "event_key": "spacex-tesla-merger-musk-recusal-approval-paradox-20261022",
+        "why": "이해충돌 때문에 협상에서 물러난 당사자가 지배주주라 최종 합병 승인권을 쥔 모순이 공시로 드러났다.",
+        "angle": "머스크의 ‘좋은 생각’ 발언→특별위원회 협상→본인 회피→지배주주 승인 필수 공시로 반전을 만든다.",
+        "why_now": "SpaceX가 22일 규제 공시에서 잠재적 합병의 승인 구조를 처음 명시했다.",
+        "verified_at": 1792729884,
+        "published_at": 1792702191,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/",
+            "note": "Reuters 본문에서 머스크의 협상 회피, 특별위원회 구성, 이사회와 지배주주 승인이 모두 필요하다는 공시를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/",
+            "label": "원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "합병은 논의 단계이며 특별위원회가 아직 어떤 결정도 내리지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "Reuters 본문에서 머스크의 협상 회피, 특별위원회 구성, 이사회와 지배주주 승인이 모두 필요하다는 공시를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1장: ‘합병은 좋은 생각’이라는 머스크 발언",
+            "2장: 이해충돌로 협상에서 빠진 머스크",
+            "3장: 그런데 최종 단계에는 지배주주 머스크 승인이 필요"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "site:reuters.com \"Trump administration oversaw 980,000 deportations\"",
+          "site:reuters.com \"GM cancels deal with new US rare earth magnet plant\"",
+          "site:reuters.com \"Sainz says talk of F1 racing in Middle East is premature\"",
+          "site:reuters.com \"SpaceX says Tesla merger would need Musk's approval\"",
+          "site:reuters.com \"Australian TV reporter recalls terrifying rescue\"",
+          "site:reuters.com \"Eagles Nick Sirianni sidesteps Jalen Hurts queries\"",
+          "site:reuters.com \"Tunisian police clash with protesters\" October 22 2026",
+          "site:reuters.com \"Microsoft develops AI tool that can diagnose sequentially like a doctor\"",
+          "site:reuters.com \"Hall of Famer Marshall Faulk reveals Parkinson's diagnosis\"",
+          "site:reuters.com \"HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs\"",
+          "October 23 2026 latest football funny incident official video Reuters soccer",
+          "October 23 2026 girl group official content funny moment NMIXX IVE aespa",
+          "site:youtube.com/watch Bournemouth AC Milan 3-0 highlights Maignan red card October 22 2026 UEFA",
+          "site:uefa.com Bournemouth Milan Maignan red card highlights October 22 2026",
+          "site:afcb.co.uk Bournemouth Milan Maignan red card October 22 2026 highlights",
+          "site:acmilan.com Bournemouth Milan Maignan red card October 22 2026",
+          "Mike Maignan Tyler Adams red card Bournemouth Milan October 22 2026"
+        ],
+        "opened_urls": [
+          "https://www.reuters.com/business/environment/australian-tv-reporter-recalls-terrifying-rescue-man-sinking-car-2026-10-23/",
+          "https://www.abc.net.au/news/2026-10-22/abc-reporter-and-bystander-rescue-man-from-floodwaters/107297094",
+          "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
+          "https://www.reuters.com/sports/eagles-nick-sirianni-sidesteps-jalen-hurts-queries--flm-2026-10-22/",
+          "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/",
+          "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
+          "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
+          "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
+          "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
+          "https://www.reuters.com/sports/hall-famer-marshall-faulk-reveals-parkinsons-diagnosis--flm-2026-10-23/",
+          "https://www.reuters.com/world/asia-pacific/hd-hyundai-build-us-shipyard-with-kiewit-create-3000-jobs-2026-10-23/",
+          "https://www.uefa.com/uefaeuropaleague/news/02aa-21e410bcbe25-9352142b4434-1000--europa-league-matchday-3-highlights-and-round-up-bournemouth/",
+          "https://www.acmilan.com/en/news/articles/europa-league/2026-10-22/ac-milan-beaten-by-bournemouth"
+        ],
+        "unavailable": [
+          "펨코 공개 색인에서 12시간 내 새 원본·핵심 장면을 함께 검증하지 못해 공식 원문으로 전환",
+          "여자아이돌 공식 콘텐츠에서 12시간 내 새 대사·행동·연속 장면을 확인하지 못해 보류",
+          "국축은 12시간 이내 원본 공개와 핵심 장면을 함께 확인한 새 후보가 없어 다음 회차로 이월",
+          "마이냥 퇴장 보도는 확인했지만 결정 장면 영상을 직접 보지 못해 선정에서 제외"
+        ]
+      }
+    },
+    {
+      "event_key": "australia-reporter-rescues-driver-sinking-car-interview-20261023",
+      "url": "https://www.reuters.com/business/environment/australian-tv-reporter-recalls-terrifying-rescue-man-sinking-car-2026-10-23/",
+      "title": "생중계하던 기자, 물에 잠기던 차로 헤엄쳐 들어가 운전자를 꺼냈다",
+      "category": "시사",
+      "status": "reviewed",
+      "recorded_at": 1792730003,
+      "pick": {
+        "title": "생중계하던 기자, 물에 잠기던 차로 헤엄쳐 들어가 운전자를 꺼냈다",
+        "category": "시사",
+        "url": "https://www.reuters.com/business/environment/australian-tv-reporter-recalls-terrifying-rescue-man-sinking-car-2026-10-23/",
+        "source": "Reuters·ABC",
+        "kind": "article",
+        "event_key": "australia-reporter-rescues-driver-sinking-car-interview-20261023",
+        "why": "침수 현장을 전하던 기자가 카메라 앞을 벗어나 물속으로 뛰어들었고, 차가 완전히 잠기기 직전 운전자를 끌어냈다.",
+        "angle": "도로를 건너는 4륜차→시동이 꺼지고 가라앉는 차→기자와 시민이 헤엄치는 38초 영상→구조 직후 포옹으로 잇는다.",
+        "why_now": "Reuters가 23일 00시54분 UTC 구조 기자의 첫 회고와 구조 직전·직후를 새로 공개했다.",
+        "verified_at": 1792729884,
+        "published_at": 1792716840,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/business/environment/australian-tv-reporter-recalls-terrifying-rescue-man-sinking-car-2026-10-23/",
+            "note": "Reuters 본문에서 차가 멈춰 가라앉기 시작한 뒤 기자와 시민이 운전자를 꺼냈고 직후 차가 완전히 잠긴 사실과 기자 인터뷰를 확인했다."
+          },
+          {
+            "url": "https://www.abc.net.au/news/2026-10-22/abc-reporter-and-bystander-rescue-man-from-floodwaters/107297094",
+            "note": "ABC의 38초 원본 영상 페이지에서 두 사람이 침수 차량 위로 접근해 운전자를 구조하는 연속 장면을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.abc.net.au/news/2026-10-22/abc-reporter-and-bystander-rescue-man-from-floodwaters/107297094",
+            "label": "38초 원본 영상",
+            "kind": "video"
+          },
+          {
+            "url": "https://www.reuters.com/business/environment/australian-tv-reporter-recalls-terrifying-rescue-man-sinking-car-2026-10-23/",
+            "label": "구조 기자 인터뷰",
+            "kind": "source"
+          }
+        ],
+        "caution": "구조 장면은 22일 발생했고, 이번 새 사실은 23일 공개된 구조 기자의 회고다.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-22",
+          "observation": "차가 급류에서 가라앉자 기자와 시민이 헤엄쳐 접근해 운전자를 빼낸 뒤 차가 완전히 잠기는 연속 장면을 확인했다.",
+          "checked_materials": [
+            "https://www.abc.net.au/news/2026-10-22/abc-reporter-and-bystander-rescue-man-from-floodwaters/107297094"
+          ],
+          "outline": [
+            "1장: 홍수 도로를 건너다 멈춘 4륜차",
+            "2장: 기자와 시민이 물로 뛰어들어 차 위에 올라가는 38초 장면",
+            "3장: 운전자를 꺼낸 직후 완전히 잠긴 차량과 구조 뒤 포옹"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "site:reuters.com \"Trump administration oversaw 980,000 deportations\"",
+          "site:reuters.com \"GM cancels deal with new US rare earth magnet plant\"",
+          "site:reuters.com \"Sainz says talk of F1 racing in Middle East is premature\"",
+          "site:reuters.com \"SpaceX says Tesla merger would need Musk's approval\"",
+          "site:reuters.com \"Australian TV reporter recalls terrifying rescue\"",
+          "site:reuters.com \"Eagles Nick Sirianni sidesteps Jalen Hurts queries\"",
+          "site:reuters.com \"Tunisian police clash with protesters\" October 22 2026",
+          "site:reuters.com \"Microsoft develops AI tool that can diagnose sequentially like a doctor\"",
+          "site:reuters.com \"Hall of Famer Marshall Faulk reveals Parkinson's diagnosis\"",
+          "site:reuters.com \"HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs\"",
+          "October 23 2026 latest football funny incident official video Reuters soccer",
+          "October 23 2026 girl group official content funny moment NMIXX IVE aespa",
+          "site:youtube.com/watch Bournemouth AC Milan 3-0 highlights Maignan red card October 22 2026 UEFA",
+          "site:uefa.com Bournemouth Milan Maignan red card highlights October 22 2026",
+          "site:afcb.co.uk Bournemouth Milan Maignan red card October 22 2026 highlights",
+          "site:acmilan.com Bournemouth Milan Maignan red card October 22 2026",
+          "Mike Maignan Tyler Adams red card Bournemouth Milan October 22 2026"
+        ],
+        "opened_urls": [
+          "https://www.reuters.com/business/environment/australian-tv-reporter-recalls-terrifying-rescue-man-sinking-car-2026-10-23/",
+          "https://www.abc.net.au/news/2026-10-22/abc-reporter-and-bystander-rescue-man-from-floodwaters/107297094",
+          "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
+          "https://www.reuters.com/sports/eagles-nick-sirianni-sidesteps-jalen-hurts-queries--flm-2026-10-22/",
+          "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/",
+          "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
+          "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
+          "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
+          "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
+          "https://www.reuters.com/sports/hall-famer-marshall-faulk-reveals-parkinsons-diagnosis--flm-2026-10-23/",
+          "https://www.reuters.com/world/asia-pacific/hd-hyundai-build-us-shipyard-with-kiewit-create-3000-jobs-2026-10-23/",
+          "https://www.uefa.com/uefaeuropaleague/news/02aa-21e410bcbe25-9352142b4434-1000--europa-league-matchday-3-highlights-and-round-up-bournemouth/",
+          "https://www.acmilan.com/en/news/articles/europa-league/2026-10-22/ac-milan-beaten-by-bournemouth"
+        ],
+        "unavailable": [
+          "펨코 공개 색인에서 12시간 내 새 원본·핵심 장면을 함께 검증하지 못해 공식 원문으로 전환",
+          "여자아이돌 공식 콘텐츠에서 12시간 내 새 대사·행동·연속 장면을 확인하지 못해 보류",
+          "국축은 12시간 이내 원본 공개와 핵심 장면을 함께 확인한 새 후보가 없어 다음 회차로 이월",
+          "마이냥 퇴장 보도는 확인했지만 결정 장면 영상을 직접 보지 못해 선정에서 제외"
+        ]
+      }
+    },
+    {
+      "event_key": "jalen-hurts-blood-clot-clearance-sirianni-refuses-questions-20261022",
+      "url": "https://www.reuters.com/sports/eagles-nick-sirianni-sidesteps-jalen-hurts-queries--flm-2026-10-22/",
+      "title": "혈전 발견 뒤에도 경기 뛴 허츠…감독은 “더 답하지 않겠다”",
+      "category": "메이저 스포츠",
+      "status": "reviewed",
+      "recorded_at": 1792730003,
+      "pick": {
+        "title": "혈전 발견 뒤에도 경기 뛴 허츠…감독은 “더 답하지 않겠다”",
+        "category": "메이저 스포츠",
+        "url": "https://www.reuters.com/sports/eagles-nick-sirianni-sidesteps-jalen-hurts-queries--flm-2026-10-22/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "jalen-hurts-blood-clot-clearance-sirianni-refuses-questions-20261022",
+        "why": "혈전이 발견된 선수를 런던 경기에 내보낸 경위를 선수노조가 조사하자, 감독은 건강을 걱정한다면서도 관련 질문을 더 받지 않겠다고 했다.",
+        "angle": "혈전 발견→런던 경기 출전 허가→NFL의 절차 준수 주장→시리애니의 답변 거부 순서다.",
+        "why_now": "Reuters가 22일 19시45분 UTC 감독의 공개 답변 거부와 선수노조 조사 요구를 보도했다.",
+        "verified_at": 1792729884,
+        "published_at": 1792698300,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/eagles-nick-sirianni-sidesteps-jalen-hurts-queries--flm-2026-10-22/",
+            "note": "Reuters 본문에서 superficial blood clot 발견 뒤 런던 경기 출전 허가, NFLPA 조사 요구, 시리애니의 답변 거부를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/eagles-nick-sirianni-sidesteps-jalen-hurts-queries--flm-2026-10-22/",
+            "label": "감독 발언 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "NFL은 절차를 지켰다고 주장하며 혈전의 구체적 의학 판단은 공개되지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "혈전 발견 뒤 출전 허가를 둘러싼 선수노조 조사 요구와 감독의 공개 답변 거부를 Reuters 본문에서 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1장: 혈전이 발견된 쿼터백이 런던 경기를 뛴 사실",
+            "2장: NFL·의료진의 ‘필요 절차 준수’ 방어",
+            "3장: 선수노조 조사 요구 뒤 감독의 ‘더 답하지 않겠다’ 발언"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "site:reuters.com \"Trump administration oversaw 980,000 deportations\"",
+          "site:reuters.com \"GM cancels deal with new US rare earth magnet plant\"",
+          "site:reuters.com \"Sainz says talk of F1 racing in Middle East is premature\"",
+          "site:reuters.com \"SpaceX says Tesla merger would need Musk's approval\"",
+          "site:reuters.com \"Australian TV reporter recalls terrifying rescue\"",
+          "site:reuters.com \"Eagles Nick Sirianni sidesteps Jalen Hurts queries\"",
+          "site:reuters.com \"Tunisian police clash with protesters\" October 22 2026",
+          "site:reuters.com \"Microsoft develops AI tool that can diagnose sequentially like a doctor\"",
+          "site:reuters.com \"Hall of Famer Marshall Faulk reveals Parkinson's diagnosis\"",
+          "site:reuters.com \"HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs\"",
+          "October 23 2026 latest football funny incident official video Reuters soccer",
+          "October 23 2026 girl group official content funny moment NMIXX IVE aespa",
+          "site:youtube.com/watch Bournemouth AC Milan 3-0 highlights Maignan red card October 22 2026 UEFA",
+          "site:uefa.com Bournemouth Milan Maignan red card highlights October 22 2026",
+          "site:afcb.co.uk Bournemouth Milan Maignan red card October 22 2026 highlights",
+          "site:acmilan.com Bournemouth Milan Maignan red card October 22 2026",
+          "Mike Maignan Tyler Adams red card Bournemouth Milan October 22 2026"
+        ],
+        "opened_urls": [
+          "https://www.reuters.com/business/environment/australian-tv-reporter-recalls-terrifying-rescue-man-sinking-car-2026-10-23/",
+          "https://www.abc.net.au/news/2026-10-22/abc-reporter-and-bystander-rescue-man-from-floodwaters/107297094",
+          "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
+          "https://www.reuters.com/sports/eagles-nick-sirianni-sidesteps-jalen-hurts-queries--flm-2026-10-22/",
+          "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/",
+          "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
+          "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
+          "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
+          "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
+          "https://www.reuters.com/sports/hall-famer-marshall-faulk-reveals-parkinsons-diagnosis--flm-2026-10-23/",
+          "https://www.reuters.com/world/asia-pacific/hd-hyundai-build-us-shipyard-with-kiewit-create-3000-jobs-2026-10-23/",
+          "https://www.uefa.com/uefaeuropaleague/news/02aa-21e410bcbe25-9352142b4434-1000--europa-league-matchday-3-highlights-and-round-up-bournemouth/",
+          "https://www.acmilan.com/en/news/articles/europa-league/2026-10-22/ac-milan-beaten-by-bournemouth"
+        ],
+        "unavailable": [
+          "펨코 공개 색인에서 12시간 내 새 원본·핵심 장면을 함께 검증하지 못해 공식 원문으로 전환",
+          "여자아이돌 공식 콘텐츠에서 12시간 내 새 대사·행동·연속 장면을 확인하지 못해 보류",
+          "국축은 12시간 이내 원본 공개와 핵심 장면을 함께 확인한 새 후보가 없어 다음 회차로 이월",
+          "마이냥 퇴장 보도는 확인했지만 결정 장면 영상을 직접 보지 못해 선정에서 제외"
+        ]
+      }
+    },
+    {
+      "event_key": "tunisia-three-city-police-protester-clashes-detention-deaths-20261022",
+      "url": "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
+      "title": "체포 사망 의혹에 도로 막고 타이어 불태워…튀니지 세 도시서 경찰과 충돌",
+      "category": "시사",
+      "status": "reviewed",
+      "recorded_at": 1792730003,
+      "pick": {
+        "title": "체포 사망 의혹에 도로 막고 타이어 불태워…튀니지 세 도시서 경찰과 충돌",
+        "category": "시사",
+        "url": "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "tunisia-three-city-police-protester-clashes-detention-deaths-20261022",
+        "why": "한 남성이 체포 뒤 숨졌다는 유족 주장으로 시작된 항의가 수도 외곽과 남부 두 도시까지 번졌고, 경찰은 최루탄으로 맞섰다.",
+        "angle": "체포 뒤 사망 의혹→불타는 타이어와 막힌 도로→돌을 던지는 시위대→세 도시 동시 충돌로 구성한다.",
+        "why_now": "Reuters가 22일 22시21분 UTC 수도 외곽과 남부 두 도시의 동시 충돌을 처음 묶어 공개했다.",
+        "verified_at": 1792729884,
+        "published_at": 1792707660,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
+            "note": "Reuters 본문에서 도로 봉쇄·타이어 방화·투석과 경찰의 최루탄 대응, 세 도시 동시 충돌을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
+            "label": "현장 보도",
+            "kind": "source"
+          }
+        ],
+        "caution": "사망 원인은 유족과 현지 보도 설명이 엇갈리며 수사 결론이 나오지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "체포 뒤 사망 의혹과 의료 대응 불만이 겹치며 수도 외곽·제베니아나·아가렙에서 경찰과 시위대가 충돌한 사실을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1장: 체포 뒤 숨졌다는 유족 주장과 경찰 책임 요구",
+            "2장: 막힌 도로·불타는 타이어·투석 장면",
+            "3장: 경찰 최루탄 대응과 세 도시로 번진 충돌"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "site:reuters.com \"Trump administration oversaw 980,000 deportations\"",
+          "site:reuters.com \"GM cancels deal with new US rare earth magnet plant\"",
+          "site:reuters.com \"Sainz says talk of F1 racing in Middle East is premature\"",
+          "site:reuters.com \"SpaceX says Tesla merger would need Musk's approval\"",
+          "site:reuters.com \"Australian TV reporter recalls terrifying rescue\"",
+          "site:reuters.com \"Eagles Nick Sirianni sidesteps Jalen Hurts queries\"",
+          "site:reuters.com \"Tunisian police clash with protesters\" October 22 2026",
+          "site:reuters.com \"Microsoft develops AI tool that can diagnose sequentially like a doctor\"",
+          "site:reuters.com \"Hall of Famer Marshall Faulk reveals Parkinson's diagnosis\"",
+          "site:reuters.com \"HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs\"",
+          "October 23 2026 latest football funny incident official video Reuters soccer",
+          "October 23 2026 girl group official content funny moment NMIXX IVE aespa",
+          "site:youtube.com/watch Bournemouth AC Milan 3-0 highlights Maignan red card October 22 2026 UEFA",
+          "site:uefa.com Bournemouth Milan Maignan red card highlights October 22 2026",
+          "site:afcb.co.uk Bournemouth Milan Maignan red card October 22 2026 highlights",
+          "site:acmilan.com Bournemouth Milan Maignan red card October 22 2026",
+          "Mike Maignan Tyler Adams red card Bournemouth Milan October 22 2026"
+        ],
+        "opened_urls": [
+          "https://www.reuters.com/business/environment/australian-tv-reporter-recalls-terrifying-rescue-man-sinking-car-2026-10-23/",
+          "https://www.abc.net.au/news/2026-10-22/abc-reporter-and-bystander-rescue-man-from-floodwaters/107297094",
+          "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
+          "https://www.reuters.com/sports/eagles-nick-sirianni-sidesteps-jalen-hurts-queries--flm-2026-10-22/",
+          "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/",
+          "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
+          "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
+          "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
+          "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
+          "https://www.reuters.com/sports/hall-famer-marshall-faulk-reveals-parkinsons-diagnosis--flm-2026-10-23/",
+          "https://www.reuters.com/world/asia-pacific/hd-hyundai-build-us-shipyard-with-kiewit-create-3000-jobs-2026-10-23/",
+          "https://www.uefa.com/uefaeuropaleague/news/02aa-21e410bcbe25-9352142b4434-1000--europa-league-matchday-3-highlights-and-round-up-bournemouth/",
+          "https://www.acmilan.com/en/news/articles/europa-league/2026-10-22/ac-milan-beaten-by-bournemouth"
+        ],
+        "unavailable": [
+          "펨코 공개 색인에서 12시간 내 새 원본·핵심 장면을 함께 검증하지 못해 공식 원문으로 전환",
+          "여자아이돌 공식 콘텐츠에서 12시간 내 새 대사·행동·연속 장면을 확인하지 못해 보류",
+          "국축은 12시간 이내 원본 공개와 핵심 장면을 함께 확인한 새 후보가 없어 다음 회차로 이월",
+          "마이냥 퇴장 보도는 확인했지만 결정 장면 영상을 직접 보지 못해 선정에서 제외"
+        ]
+      }
+    },
+    {
+      "event_key": "microsoft-sequential-diagnostic-ai-twice-general-physicians-20261023",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
+      "title": "문진부터 검사 순서까지 정하는 AI…복잡한 진단에서 일반의 정확도의 두 배",
+      "category": "시사",
+      "status": "reviewed",
+      "recorded_at": 1792730003,
+      "pick": {
+        "title": "문진부터 검사 순서까지 정하는 AI…복잡한 진단에서 일반의 정확도의 두 배",
+        "category": "시사",
+        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
+        "source": "Reuters·Science",
+        "kind": "article",
+        "event_key": "microsoft-sequential-diagnostic-ai-twice-general-physicians-20261023",
+        "why": "증상을 한꺼번에 넣는 AI가 아니라 무엇을 묻고 어떤 검사를 다음에 할지 스스로 순서를 짰고, 희귀·복잡 사례에서 일반의보다 두 배 넘게 정확했다.",
+        "angle": "환자 질문 선택→검사 주문→결과에 따라 다음 검사 결정→의사와 정확도·비용 비교 순서다.",
+        "why_now": "Reuters가 23일 00시34분 UTC Science 게재 연구와 실제 응급실 분류 후속시험 계획을 공개했다.",
+        "verified_at": 1792729884,
+        "published_at": 1792715685,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
+            "note": "Reuters 본문에서 300여 복잡 사례, 일반의 대비 두 배 이상 정확도, 순차 문진·검사 설계와 응급실 후속시험 계획을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
+            "label": "연구 보도",
+            "kind": "source"
+          }
+        ],
+        "caution": "300여 고난도 사례 중심 연구이며 실제 진료 현장 성능과 안전성은 추가 시험이 필요하다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "AI가 문진·검사 순서를 단계적으로 설계해 복잡 진단에서 일반의보다 두 배 넘게 정확했다는 연구 결과를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1장: ‘한꺼번에 답하기’ 대신 다음 질문을 고르는 AI",
+            "2장: 검사 결과마다 가설을 바꾸고 추가 검사를 주문하는 구조",
+            "3장: 300여 복잡 사례에서 일반의 대비 두 배 이상 정확도"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "site:reuters.com \"Trump administration oversaw 980,000 deportations\"",
+          "site:reuters.com \"GM cancels deal with new US rare earth magnet plant\"",
+          "site:reuters.com \"Sainz says talk of F1 racing in Middle East is premature\"",
+          "site:reuters.com \"SpaceX says Tesla merger would need Musk's approval\"",
+          "site:reuters.com \"Australian TV reporter recalls terrifying rescue\"",
+          "site:reuters.com \"Eagles Nick Sirianni sidesteps Jalen Hurts queries\"",
+          "site:reuters.com \"Tunisian police clash with protesters\" October 22 2026",
+          "site:reuters.com \"Microsoft develops AI tool that can diagnose sequentially like a doctor\"",
+          "site:reuters.com \"Hall of Famer Marshall Faulk reveals Parkinson's diagnosis\"",
+          "site:reuters.com \"HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs\"",
+          "October 23 2026 latest football funny incident official video Reuters soccer",
+          "October 23 2026 girl group official content funny moment NMIXX IVE aespa",
+          "site:youtube.com/watch Bournemouth AC Milan 3-0 highlights Maignan red card October 22 2026 UEFA",
+          "site:uefa.com Bournemouth Milan Maignan red card highlights October 22 2026",
+          "site:afcb.co.uk Bournemouth Milan Maignan red card October 22 2026 highlights",
+          "site:acmilan.com Bournemouth Milan Maignan red card October 22 2026",
+          "Mike Maignan Tyler Adams red card Bournemouth Milan October 22 2026"
+        ],
+        "opened_urls": [
+          "https://www.reuters.com/business/environment/australian-tv-reporter-recalls-terrifying-rescue-man-sinking-car-2026-10-23/",
+          "https://www.abc.net.au/news/2026-10-22/abc-reporter-and-bystander-rescue-man-from-floodwaters/107297094",
+          "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
+          "https://www.reuters.com/sports/eagles-nick-sirianni-sidesteps-jalen-hurts-queries--flm-2026-10-22/",
+          "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/",
+          "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
+          "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
+          "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
+          "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
+          "https://www.reuters.com/sports/hall-famer-marshall-faulk-reveals-parkinsons-diagnosis--flm-2026-10-23/",
+          "https://www.reuters.com/world/asia-pacific/hd-hyundai-build-us-shipyard-with-kiewit-create-3000-jobs-2026-10-23/",
+          "https://www.uefa.com/uefaeuropaleague/news/02aa-21e410bcbe25-9352142b4434-1000--europa-league-matchday-3-highlights-and-round-up-bournemouth/",
+          "https://www.acmilan.com/en/news/articles/europa-league/2026-10-22/ac-milan-beaten-by-bournemouth"
+        ],
+        "unavailable": [
+          "펨코 공개 색인에서 12시간 내 새 원본·핵심 장면을 함께 검증하지 못해 공식 원문으로 전환",
+          "여자아이돌 공식 콘텐츠에서 12시간 내 새 대사·행동·연속 장면을 확인하지 못해 보류",
+          "국축은 12시간 이내 원본 공개와 핵심 장면을 함께 확인한 새 후보가 없어 다음 회차로 이월",
+          "마이냥 퇴장 보도는 확인했지만 결정 장면 영상을 직접 보지 못해 선정에서 제외"
+        ]
+      }
+    },
+    {
+      "event_key": "marshall-faulk-parkinsons-18-months-diagnosis-reveal-20261023",
+      "url": "https://www.reuters.com/sports/hall-famer-marshall-faulk-reveals-parkinsons-diagnosis--flm-2026-10-23/",
+      "title": "“골프 치다 손이 뻣뻣했다”…NFL 명예의 전당 폴크, 파킨슨병 공개",
+      "category": "메이저 스포츠",
+      "status": "reviewed",
+      "recorded_at": 1792730003,
+      "pick": {
+        "title": "“골프 치다 손이 뻣뻣했다”…NFL 명예의 전당 폴크, 파킨슨병 공개",
+        "category": "메이저 스포츠",
+        "url": "https://www.reuters.com/sports/hall-famer-marshall-faulk-reveals-parkinsons-diagnosis--flm-2026-10-23/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "marshall-faulk-parkinsons-18-months-diagnosis-reveal-20261023",
+        "why": "NFL 레전드가 골프 중 손 뻣뻣함을 첫 신호로 느꼈고, 18개월간 치료해 일상을 유지해온 사실을 처음 공개했다.",
+        "angle": "골프 중 손 뻣뻣함→검사 권유→파킨슨병 진단→약물로 일상 유지와 조기검진 당부로 잇는다.",
+        "why_now": "Reuters가 23일 01시17분 UTC 폴크의 진단 공개와 18개월 치료 경과를 전했다.",
+        "verified_at": 1792729884,
+        "published_at": 1792718220,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/hall-famer-marshall-faulk-reveals-parkinsons-diagnosis--flm-2026-10-23/",
+            "note": "Reuters 본문에서 골프 중 손 뻣뻣함, 파킨슨병 진단, 약물 치료 뒤 일상 유지와 조기검진 당부를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/hall-famer-marshall-faulk-reveals-parkinsons-diagnosis--flm-2026-10-23/",
+            "label": "진단 공개 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "개인 진단 경험이며 일반적인 의학적 조언으로 확대하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-23",
+          "observation": "폴크가 골프 중 손 뻣뻣함을 계기로 진단받고 18개월간 치료 중이라는 본인 공개 내용을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1장: 골프 중 처음 느낀 손의 뻣뻣함",
+            "2장: 정기검진에서 추가 검사를 권유받아 파킨슨병 확인",
+            "3장: 약물 치료 뒤 일상 유지와 ‘증상을 미루지 말라’는 당부"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "site:reuters.com \"Trump administration oversaw 980,000 deportations\"",
+          "site:reuters.com \"GM cancels deal with new US rare earth magnet plant\"",
+          "site:reuters.com \"Sainz says talk of F1 racing in Middle East is premature\"",
+          "site:reuters.com \"SpaceX says Tesla merger would need Musk's approval\"",
+          "site:reuters.com \"Australian TV reporter recalls terrifying rescue\"",
+          "site:reuters.com \"Eagles Nick Sirianni sidesteps Jalen Hurts queries\"",
+          "site:reuters.com \"Tunisian police clash with protesters\" October 22 2026",
+          "site:reuters.com \"Microsoft develops AI tool that can diagnose sequentially like a doctor\"",
+          "site:reuters.com \"Hall of Famer Marshall Faulk reveals Parkinson's diagnosis\"",
+          "site:reuters.com \"HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs\"",
+          "October 23 2026 latest football funny incident official video Reuters soccer",
+          "October 23 2026 girl group official content funny moment NMIXX IVE aespa",
+          "site:youtube.com/watch Bournemouth AC Milan 3-0 highlights Maignan red card October 22 2026 UEFA",
+          "site:uefa.com Bournemouth Milan Maignan red card highlights October 22 2026",
+          "site:afcb.co.uk Bournemouth Milan Maignan red card October 22 2026 highlights",
+          "site:acmilan.com Bournemouth Milan Maignan red card October 22 2026",
+          "Mike Maignan Tyler Adams red card Bournemouth Milan October 22 2026"
+        ],
+        "opened_urls": [
+          "https://www.reuters.com/business/environment/australian-tv-reporter-recalls-terrifying-rescue-man-sinking-car-2026-10-23/",
+          "https://www.abc.net.au/news/2026-10-22/abc-reporter-and-bystander-rescue-man-from-floodwaters/107297094",
+          "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
+          "https://www.reuters.com/sports/eagles-nick-sirianni-sidesteps-jalen-hurts-queries--flm-2026-10-22/",
+          "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/",
+          "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
+          "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
+          "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
+          "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
+          "https://www.reuters.com/sports/hall-famer-marshall-faulk-reveals-parkinsons-diagnosis--flm-2026-10-23/",
+          "https://www.reuters.com/world/asia-pacific/hd-hyundai-build-us-shipyard-with-kiewit-create-3000-jobs-2026-10-23/",
+          "https://www.uefa.com/uefaeuropaleague/news/02aa-21e410bcbe25-9352142b4434-1000--europa-league-matchday-3-highlights-and-round-up-bournemouth/",
+          "https://www.acmilan.com/en/news/articles/europa-league/2026-10-22/ac-milan-beaten-by-bournemouth"
+        ],
+        "unavailable": [
+          "펨코 공개 색인에서 12시간 내 새 원본·핵심 장면을 함께 검증하지 못해 공식 원문으로 전환",
+          "여자아이돌 공식 콘텐츠에서 12시간 내 새 대사·행동·연속 장면을 확인하지 못해 보류",
+          "국축은 12시간 이내 원본 공개와 핵심 장면을 함께 확인한 새 후보가 없어 다음 회차로 이월",
+          "마이냥 퇴장 보도는 확인했지만 결정 장면 영상을 직접 보지 못해 선정에서 제외"
+        ]
+      }
+    },
+    {
+      "event_key": "hd-hyundai-kiewit-us-shipyard-3000-jobs-20261023",
+      "url": "https://www.reuters.com/world/asia-pacific/hd-hyundai-build-us-shipyard-with-kiewit-create-3000-jobs-2026-10-23/",
+      "title": "HD현대, 미국에 새 조선소 짓는다…2029년 가동·일자리 3천개",
+      "category": "시사",
+      "status": "reviewed",
+      "recorded_at": 1792730003,
+      "pick": {
+        "title": "HD현대, 미국에 새 조선소 짓는다…2029년 가동·일자리 3천개",
+        "category": "시사",
+        "url": "https://www.reuters.com/world/asia-pacific/hd-hyundai-build-us-shipyard-with-kiewit-create-3000-jobs-2026-10-23/",
+        "source": "Reuters·HD현대",
+        "kind": "article",
+        "event_key": "hd-hyundai-kiewit-us-shipyard-3000-jobs-20261023",
+        "why": "한국 조선사가 미국 현지에 새 조선소를 짓고 상선뿐 아니라 군수지원선까지 보겠다고 공식화했다.",
+        "angle": "내년 착공→2029년 가동→미국 일자리 3천개→상선·군수지원선 두 시장 진입으로 구성한다.",
+        "why_now": "HD현대가 23일 Kiewit과의 조선소 건설 계약과 가동 시점·고용 규모를 발표했다.",
+        "verified_at": 1792729884,
+        "published_at": 1792716964,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/world/asia-pacific/hd-hyundai-build-us-shipyard-with-kiewit-create-3000-jobs-2026-10-23/",
+            "note": "Reuters 본문에서 2027년 착공, 2029년 가동, 미국 일자리 약 3천개와 상선·군수지원선 계획을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/world/asia-pacific/hd-hyundai-build-us-shipyard-with-kiewit-create-3000-jobs-2026-10-23/",
+            "label": "계약 발표",
+            "kind": "source"
+          }
+        ],
+        "caution": "부지·투자액 등 세부 조건은 기사에 공개되지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-23",
+          "observation": "HD현대와 Kiewit이 미국 조선소를 내년 착공해 2029년 가동하고 약 3천명을 고용한다는 발표를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1장: HD현대·Kiewit의 미국 조선소 건설 계약",
+            "2장: 2027년 착공·2029년 가동 일정",
+            "3장: 3천개 일자리와 상선·군수지원선 진출 계획"
+          ]
+        }
+      },
+      "coverage": {
+        "queries": [
+          "site:reuters.com \"Trump administration oversaw 980,000 deportations\"",
+          "site:reuters.com \"GM cancels deal with new US rare earth magnet plant\"",
+          "site:reuters.com \"Sainz says talk of F1 racing in Middle East is premature\"",
+          "site:reuters.com \"SpaceX says Tesla merger would need Musk's approval\"",
+          "site:reuters.com \"Australian TV reporter recalls terrifying rescue\"",
+          "site:reuters.com \"Eagles Nick Sirianni sidesteps Jalen Hurts queries\"",
+          "site:reuters.com \"Tunisian police clash with protesters\" October 22 2026",
+          "site:reuters.com \"Microsoft develops AI tool that can diagnose sequentially like a doctor\"",
+          "site:reuters.com \"Hall of Famer Marshall Faulk reveals Parkinson's diagnosis\"",
+          "site:reuters.com \"HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs\"",
+          "October 23 2026 latest football funny incident official video Reuters soccer",
+          "October 23 2026 girl group official content funny moment NMIXX IVE aespa",
+          "site:youtube.com/watch Bournemouth AC Milan 3-0 highlights Maignan red card October 22 2026 UEFA",
+          "site:uefa.com Bournemouth Milan Maignan red card highlights October 22 2026",
+          "site:afcb.co.uk Bournemouth Milan Maignan red card October 22 2026 highlights",
+          "site:acmilan.com Bournemouth Milan Maignan red card October 22 2026",
+          "Mike Maignan Tyler Adams red card Bournemouth Milan October 22 2026"
+        ],
+        "opened_urls": [
+          "https://www.reuters.com/business/environment/australian-tv-reporter-recalls-terrifying-rescue-man-sinking-car-2026-10-23/",
+          "https://www.abc.net.au/news/2026-10-22/abc-reporter-and-bystander-rescue-man-from-floodwaters/107297094",
+          "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
+          "https://www.reuters.com/sports/eagles-nick-sirianni-sidesteps-jalen-hurts-queries--flm-2026-10-22/",
+          "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/",
+          "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
+          "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
+          "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
+          "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
+          "https://www.reuters.com/sports/hall-famer-marshall-faulk-reveals-parkinsons-diagnosis--flm-2026-10-23/",
+          "https://www.reuters.com/world/asia-pacific/hd-hyundai-build-us-shipyard-with-kiewit-create-3000-jobs-2026-10-23/",
+          "https://www.uefa.com/uefaeuropaleague/news/02aa-21e410bcbe25-9352142b4434-1000--europa-league-matchday-3-highlights-and-round-up-bournemouth/",
+          "https://www.acmilan.com/en/news/articles/europa-league/2026-10-22/ac-milan-beaten-by-bournemouth"
+        ],
+        "unavailable": [
+          "펨코 공개 색인에서 12시간 내 새 원본·핵심 장면을 함께 검증하지 못해 공식 원문으로 전환",
+          "여자아이돌 공식 콘텐츠에서 12시간 내 새 대사·행동·연속 장면을 확인하지 못해 보류",
+          "국축은 12시간 이내 원본 공개와 핵심 장면을 함께 확인한 새 후보가 없어 다음 회차로 이월",
+          "마이냥 퇴장 보도는 확인했지만 결정 장면 영상을 직접 보지 못해 선정에서 제외"
+        ]
+      }
+    },
+    {
+      "event_key": "maignan-pushes-adams-red-card-bournemouth-milan-20261022",
+      "url": "https://www.theguardian.com/football/live/2026/oct/22/lech-poznan-sunderland-juventus-rennes-bournemouth-milan-crystal-palace-celtic-europa-league-live",
+      "title": "마냥, 코너킥 뒤 애덤스 얼굴 밀쳐 즉시 퇴장…교체 골키퍼가 선수 교체 전 다시 뛰어나간 소동",
+      "category": "축구",
+      "status": "needs_visual",
+      "note": "가디언 라이브 본문에서 28분 얼굴을 밀어 즉시 퇴장, 30분 교체 골키퍼 토리아니가 교체 선수 지정 전 들어왔다 다시 나간 전후는 확인. AC밀란 공식 X의 퇴장 공지도 확인했지만 핵심 밀침 장면의 연속 영상·사진은 직접 확인하지 못함.",
+      "next_action": "UEFA·구단·방송사 공식 하이라이트에서 코너킥→밀침→레드카드→교체 혼선을 연속 확인하고 최초 공개 시각을 확정.",
+      "recorded_at": 1792726018
+    },
+    {
+      "event_key": "corey-lewandowski-doj-investigation-trump-honesty-prosecution-comment-20261023",
+      "url": "https://apnews.com/article/trump-justice-department-investigation-lewandowski-corey-homeland-security-1639485a611f2fc6be06ed35d6628416",
+      "title": "트럼프 최측근 르완도프스키 수사설에 “정직하지 않으면 기소돼야”",
+      "category": "시사",
+      "status": "needs_date",
+      "note": "AP 본문에서 DOJ 수사 보도, DHS 감찰관 의뢰, 트럼프의 정직·기소 발언, 변호인의 접촉 부인까지 확인. 페이지 본문에 정확한 최초 공개 시각이 노출되지 않아 14시 보고의 12시간 기준 확정 불가.",
+      "next_action": "AP 메타데이터나 독립 원문에서 최초 게시 UTC를 확인하고 수사 확정 범위를 재검증.",
+      "recorded_at": 1792726018
+    },
+    {
+      "event_key": "tebas-real-madrid-nazi-propaganda-tribunal-20261022",
+      "url": "https://www.reuters.com/sports/soccer/sports-council-refers-laligas-tebas-to-tribunal-over-real-madrid-comments-2026-10-22/",
+      "title": "테바스 레알 마드리드 나치 선전 비교 징계 회부",
+      "category": "축구",
+      "status": "rejected_stale",
+      "recorded_at": 1792722831,
+      "note": "13시41분 UTC 최초 공개로 14시 KST 회차 기준 12시간을 넘겨 제외",
+      "next_action": "재사용하지 않고 새 결정이 나오면 새 사실의 최초 공개 시각부터 재검토"
+    },
+    {
+      "event_key": "girl-idol-official-content-search-20261023-02utc",
+      "url": "",
+      "title": "3~5세대 여자아이돌 공식 콘텐츠 탐색",
+      "category": "아이돌",
+      "status": "held_unverified",
+      "recorded_at": 1792722831,
+      "note": "공식 YouTube·음방·자체 콘텐츠에서 12시간 내 새 대사·행동·연속 장면을 확인하지 못함",
+      "next_action": "다음 시간대에 공식 업로드와 음방 원본만 다시 확인"
+    },
     {
       "event_key": "besiktas-umit-akdag-two-footed-red-after-equaliser-20261022",
       "url": "https://www.theguardian.com/football/live/2026/oct/22/lech-poznan-sunderland-juventus-rennes-bournemouth-milan-crystal-palace-celtic-europa-league-live",
@@ -905,358 +2366,6 @@
           "펨코 공개 검색은 12시간 내 원본·날짜·장면을 함께 검증할 새 게시물을 확보하지 못해 공식 원문으로 전환",
           "여자아이돌 공식 YouTube 검색은 10월 23일 새 공개 장면·대사·연속 프레임을 검증하지 못해 보류",
           "국축은 12시간 이내 원본·장면·결과를 함께 확인한 새 후보가 없어 다음 확인으로 이월"
-        ]
-      }
-    },
-    {
-      "event_key": "trump-980000-deportations-only-20-percent-convictions-20261022",
-      "url": "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
-      "title": "트럼프 18개월 추방 98만명…범죄 전력자는 전체의 20%",
-      "category": "시사",
-      "status": "reviewed",
-      "recorded_at": 1792730003,
-      "pick": {
-        "title": "트럼프 18개월 추방 98만명…범죄 전력자는 전체의 20%",
-        "category": "시사",
-        "url": "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
-        "source": "Reuters·Migration Policy Institute",
-        "kind": "article",
-        "event_key": "trump-980000-deportations-only-20-percent-convictions-20261022",
-        "why": "‘치안’을 내세운 대규모 추방에서 범죄 유죄 전력이 있는 사람은 다섯 명 중 한 명뿐이었다는 수치가 논쟁을 만든다.",
-        "angle": "98만명 총추방→유죄 전력 20%→2년 이상 거주자 중 무전과 71%→과거 정부와 비교로 간다.",
-        "why_now": "전 DHS 통계 책임자가 작성한 18개월 분석 보고서가 22일 공개됐다.",
-        "verified_at": 1792729884,
-        "published_at": 1792706187,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
-            "note": "Reuters 본문에서 98만명, 유죄 전력자 20%, 장기 거주 추방자 중 무전과 71%와 분류별 수치를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
-            "label": "원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "수치는 정부 발표가 아니라 이민정책연구소가 DHS 데이터를 분석한 결과다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "Reuters 본문에서 98만명, 유죄 전력자 20%, 장기 거주 추방자 중 무전과 71%와 분류별 수치를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: 18개월 추방 98만명",
-            "2장: 범죄 유죄 전력은 20%라는 반전",
-            "3장: 2년 이상 거주 추방자 중 71%는 유죄 전력 없음"
-          ]
-        }
-      },
-      "coverage": {
-        "queries": [
-          "site:reuters.com \"Trump administration oversaw 980,000 deportations\"",
-          "site:reuters.com \"GM cancels deal with new US rare earth magnet plant\"",
-          "site:reuters.com \"Sainz says talk of F1 racing in Middle East is premature\"",
-          "site:reuters.com \"SpaceX says Tesla merger would need Musk's approval\"",
-          "site:reuters.com \"Australian TV reporter recalls terrifying rescue\"",
-          "site:reuters.com \"Eagles Nick Sirianni sidesteps Jalen Hurts queries\"",
-          "site:reuters.com \"Tunisian police clash with protesters\" October 22 2026",
-          "site:reuters.com \"Microsoft develops AI tool that can diagnose sequentially like a doctor\"",
-          "site:reuters.com \"Hall of Famer Marshall Faulk reveals Parkinson's diagnosis\"",
-          "site:reuters.com \"HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs\"",
-          "October 23 2026 latest football funny incident official video Reuters soccer",
-          "October 23 2026 girl group official content funny moment NMIXX IVE aespa",
-          "site:youtube.com/watch Bournemouth AC Milan 3-0 highlights Maignan red card October 22 2026 UEFA",
-          "site:uefa.com Bournemouth Milan Maignan red card highlights October 22 2026",
-          "site:afcb.co.uk Bournemouth Milan Maignan red card October 22 2026 highlights",
-          "site:acmilan.com Bournemouth Milan Maignan red card October 22 2026",
-          "Mike Maignan Tyler Adams red card Bournemouth Milan October 22 2026"
-        ],
-        "opened_urls": [
-          "https://www.reuters.com/business/environment/australian-tv-reporter-recalls-terrifying-rescue-man-sinking-car-2026-10-23/",
-          "https://www.abc.net.au/news/2026-10-22/abc-reporter-and-bystander-rescue-man-from-floodwaters/107297094",
-          "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
-          "https://www.reuters.com/sports/eagles-nick-sirianni-sidesteps-jalen-hurts-queries--flm-2026-10-22/",
-          "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/",
-          "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
-          "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
-          "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
-          "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
-          "https://www.reuters.com/sports/hall-famer-marshall-faulk-reveals-parkinsons-diagnosis--flm-2026-10-23/",
-          "https://www.reuters.com/world/asia-pacific/hd-hyundai-build-us-shipyard-with-kiewit-create-3000-jobs-2026-10-23/",
-          "https://www.uefa.com/uefaeuropaleague/news/02aa-21e410bcbe25-9352142b4434-1000--europa-league-matchday-3-highlights-and-round-up-bournemouth/",
-          "https://www.acmilan.com/en/news/articles/europa-league/2026-10-22/ac-milan-beaten-by-bournemouth"
-        ],
-        "unavailable": [
-          "펨코 공개 색인에서 12시간 내 새 원본·핵심 장면을 함께 검증하지 못해 공식 원문으로 전환",
-          "여자아이돌 공식 콘텐츠에서 12시간 내 새 대사·행동·연속 장면을 확인하지 못해 보류",
-          "국축은 12시간 이내 원본 공개와 핵심 장면을 함께 확인한 새 후보가 없어 다음 회차로 이월",
-          "마이냥 퇴장 보도는 확인했지만 결정 장면 영상을 직접 보지 못해 선정에서 제외"
-        ]
-      }
-    },
-    {
-      "event_key": "gm-terminates-vac-us-rare-earth-magnet-deal-90-percent-20261022",
-      "url": "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
-      "title": "미국산 희토류 자석 공장, 물량 90%를 사기로 한 GM이 계약을 끊었다",
-      "category": "시사",
-      "status": "reviewed",
-      "recorded_at": 1792730003,
-      "pick": {
-        "title": "미국산 희토류 자석 공장, 물량 90%를 사기로 한 GM이 계약을 끊었다",
-        "category": "시사",
-        "url": "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
-        "source": "Reuters·SEC 공시",
-        "kind": "article",
-        "event_key": "gm-terminates-vac-us-rare-earth-magnet-deal-90-percent-20261022",
-        "why": "중국 의존을 줄이겠다며 만든 5억달러 공장의 최대 고객이 돌연 빠져 ‘탈중국 공급망’의 민낯이 드러났다.",
-        "angle": "5억달러 공장→생산량 90% GM 공급 계약→GM 해지→중재와 인수가격 조정 가능성으로 전개한다.",
-        "why_now": "SEC 문서와 관계자 확인을 통해 22일 계약 해지와 분쟁이 처음 보도됐다.",
-        "verified_at": 1792729884,
-        "published_at": 1792705271,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
-            "note": "Reuters 본문에서 연 2천톤 공장 생산량의 90%를 GM이 사기로 했고 해지 뒤 VAC가 중재를 제기한 사실을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
-            "label": "원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "계약 해지 이유와 중재 세부 내용은 비공개다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "Reuters 본문에서 연 2천톤 공장 생산량의 90%를 GM이 사기로 했고 해지 뒤 VAC가 중재를 제기한 사실을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: ‘미국산 희토류 자석’ 5억달러 공장",
-            "2장: 물량 90%를 사기로 한 GM 계약",
-            "3장: GM 해지·중재 돌입, 탈중국 계획에 생긴 구멍"
-          ]
-        }
-      },
-      "coverage": {
-        "queries": [
-          "site:reuters.com \"Trump administration oversaw 980,000 deportations\"",
-          "site:reuters.com \"GM cancels deal with new US rare earth magnet plant\"",
-          "site:reuters.com \"Sainz says talk of F1 racing in Middle East is premature\"",
-          "site:reuters.com \"SpaceX says Tesla merger would need Musk's approval\"",
-          "site:reuters.com \"Australian TV reporter recalls terrifying rescue\"",
-          "site:reuters.com \"Eagles Nick Sirianni sidesteps Jalen Hurts queries\"",
-          "site:reuters.com \"Tunisian police clash with protesters\" October 22 2026",
-          "site:reuters.com \"Microsoft develops AI tool that can diagnose sequentially like a doctor\"",
-          "site:reuters.com \"Hall of Famer Marshall Faulk reveals Parkinson's diagnosis\"",
-          "site:reuters.com \"HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs\"",
-          "October 23 2026 latest football funny incident official video Reuters soccer",
-          "October 23 2026 girl group official content funny moment NMIXX IVE aespa",
-          "site:youtube.com/watch Bournemouth AC Milan 3-0 highlights Maignan red card October 22 2026 UEFA",
-          "site:uefa.com Bournemouth Milan Maignan red card highlights October 22 2026",
-          "site:afcb.co.uk Bournemouth Milan Maignan red card October 22 2026 highlights",
-          "site:acmilan.com Bournemouth Milan Maignan red card October 22 2026",
-          "Mike Maignan Tyler Adams red card Bournemouth Milan October 22 2026"
-        ],
-        "opened_urls": [
-          "https://www.reuters.com/business/environment/australian-tv-reporter-recalls-terrifying-rescue-man-sinking-car-2026-10-23/",
-          "https://www.abc.net.au/news/2026-10-22/abc-reporter-and-bystander-rescue-man-from-floodwaters/107297094",
-          "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
-          "https://www.reuters.com/sports/eagles-nick-sirianni-sidesteps-jalen-hurts-queries--flm-2026-10-22/",
-          "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/",
-          "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
-          "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
-          "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
-          "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
-          "https://www.reuters.com/sports/hall-famer-marshall-faulk-reveals-parkinsons-diagnosis--flm-2026-10-23/",
-          "https://www.reuters.com/world/asia-pacific/hd-hyundai-build-us-shipyard-with-kiewit-create-3000-jobs-2026-10-23/",
-          "https://www.uefa.com/uefaeuropaleague/news/02aa-21e410bcbe25-9352142b4434-1000--europa-league-matchday-3-highlights-and-round-up-bournemouth/",
-          "https://www.acmilan.com/en/news/articles/europa-league/2026-10-22/ac-milan-beaten-by-bournemouth"
-        ],
-        "unavailable": [
-          "펨코 공개 색인에서 12시간 내 새 원본·핵심 장면을 함께 검증하지 못해 공식 원문으로 전환",
-          "여자아이돌 공식 콘텐츠에서 12시간 내 새 대사·행동·연속 장면을 확인하지 못해 보류",
-          "국축은 12시간 이내 원본 공개와 핵심 장면을 함께 확인한 새 후보가 없어 다음 회차로 이월",
-          "마이냥 퇴장 보도는 확인했지만 결정 장면 영상을 직접 보지 못해 선정에서 제외"
-        ]
-      }
-    },
-    {
-      "event_key": "sainz-calls-f1-middle-east-race-certainty-premature-20261022",
-      "url": "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
-      "title": "F1 수장 “중동 레이스 예정대로”…사인츠 “지금 확신은 너무 이르다”",
-      "category": "메이저 스포츠",
-      "status": "reviewed",
-      "recorded_at": 1792730003,
-      "pick": {
-        "title": "F1 수장 “중동 레이스 예정대로”…사인츠 “지금 확신은 너무 이르다”",
-        "category": "메이저 스포츠",
-        "url": "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
-        "source": "Reuters·FIA",
-        "kind": "article",
-        "event_key": "sainz-calls-f1-middle-east-race-certainty-premature-20261022",
-        "why": "FIA 회장의 낙관과 현역 드라이버 대표의 불안이 정면 충돌했고, 대체지 이몰라에는 ‘제설차가 필요할 수도’라는 농담까지 나왔다.",
-        "angle": "FIA ‘예정대로’→사인츠 ‘확신 이르다’→이몰라 대체안→피아스트리의 제설차 농담으로 마무리한다.",
-        "why_now": "미국 GP 기자회견에서 22일 드라이버들이 카타르·아부다비 개최 불안을 직접 밝혔다.",
-        "verified_at": 1792729884,
-        "published_at": 1792699779,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
-            "note": "Reuters 본문에서 FIA의 강행 입장, 사인츠의 ‘premature’ 발언, 이몰라 대체안과 피아스트리의 제설차 발언을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
-            "label": "원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "카타르·아부다비 일정은 현재 유지 중이며 취소가 확정된 것은 아니다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "Reuters 본문에서 FIA의 강행 입장, 사인츠의 ‘premature’ 발언, 이몰라 대체안과 피아스트리의 제설차 발언을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: FIA 회장 ‘중동 레이스는 열린다’",
-            "2장: 드라이버 대표 사인츠 ‘지금 확신은 이르다’",
-            "3장: 대체지 이몰라 얘기에 나온 ‘제설차’ 농담"
-          ]
-        }
-      },
-      "coverage": {
-        "queries": [
-          "site:reuters.com \"Trump administration oversaw 980,000 deportations\"",
-          "site:reuters.com \"GM cancels deal with new US rare earth magnet plant\"",
-          "site:reuters.com \"Sainz says talk of F1 racing in Middle East is premature\"",
-          "site:reuters.com \"SpaceX says Tesla merger would need Musk's approval\"",
-          "site:reuters.com \"Australian TV reporter recalls terrifying rescue\"",
-          "site:reuters.com \"Eagles Nick Sirianni sidesteps Jalen Hurts queries\"",
-          "site:reuters.com \"Tunisian police clash with protesters\" October 22 2026",
-          "site:reuters.com \"Microsoft develops AI tool that can diagnose sequentially like a doctor\"",
-          "site:reuters.com \"Hall of Famer Marshall Faulk reveals Parkinson's diagnosis\"",
-          "site:reuters.com \"HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs\"",
-          "October 23 2026 latest football funny incident official video Reuters soccer",
-          "October 23 2026 girl group official content funny moment NMIXX IVE aespa",
-          "site:youtube.com/watch Bournemouth AC Milan 3-0 highlights Maignan red card October 22 2026 UEFA",
-          "site:uefa.com Bournemouth Milan Maignan red card highlights October 22 2026",
-          "site:afcb.co.uk Bournemouth Milan Maignan red card October 22 2026 highlights",
-          "site:acmilan.com Bournemouth Milan Maignan red card October 22 2026",
-          "Mike Maignan Tyler Adams red card Bournemouth Milan October 22 2026"
-        ],
-        "opened_urls": [
-          "https://www.reuters.com/business/environment/australian-tv-reporter-recalls-terrifying-rescue-man-sinking-car-2026-10-23/",
-          "https://www.abc.net.au/news/2026-10-22/abc-reporter-and-bystander-rescue-man-from-floodwaters/107297094",
-          "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
-          "https://www.reuters.com/sports/eagles-nick-sirianni-sidesteps-jalen-hurts-queries--flm-2026-10-22/",
-          "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/",
-          "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
-          "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
-          "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
-          "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
-          "https://www.reuters.com/sports/hall-famer-marshall-faulk-reveals-parkinsons-diagnosis--flm-2026-10-23/",
-          "https://www.reuters.com/world/asia-pacific/hd-hyundai-build-us-shipyard-with-kiewit-create-3000-jobs-2026-10-23/",
-          "https://www.uefa.com/uefaeuropaleague/news/02aa-21e410bcbe25-9352142b4434-1000--europa-league-matchday-3-highlights-and-round-up-bournemouth/",
-          "https://www.acmilan.com/en/news/articles/europa-league/2026-10-22/ac-milan-beaten-by-bournemouth"
-        ],
-        "unavailable": [
-          "펨코 공개 색인에서 12시간 내 새 원본·핵심 장면을 함께 검증하지 못해 공식 원문으로 전환",
-          "여자아이돌 공식 콘텐츠에서 12시간 내 새 대사·행동·연속 장면을 확인하지 못해 보류",
-          "국축은 12시간 이내 원본 공개와 핵심 장면을 함께 확인한 새 후보가 없어 다음 회차로 이월",
-          "마이냥 퇴장 보도는 확인했지만 결정 장면 영상을 직접 보지 못해 선정에서 제외"
-        ]
-      }
-    },
-    {
-      "event_key": "spacex-tesla-merger-musk-recusal-approval-paradox-20261022",
-      "url": "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/",
-      "title": "머스크는 협상에서 빠졌다는데…테슬라·스페이스X 합병은 결국 머스크 승인이 필요",
-      "category": "시사",
-      "status": "reviewed",
-      "recorded_at": 1792730003,
-      "pick": {
-        "title": "머스크는 협상에서 빠졌다는데…테슬라·스페이스X 합병은 결국 머스크 승인이 필요",
-        "category": "시사",
-        "url": "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/",
-        "source": "Reuters·SpaceX 공시",
-        "kind": "article",
-        "event_key": "spacex-tesla-merger-musk-recusal-approval-paradox-20261022",
-        "why": "이해충돌 때문에 협상에서 물러난 당사자가 지배주주라 최종 합병 승인권을 쥔 모순이 공시로 드러났다.",
-        "angle": "머스크의 ‘좋은 생각’ 발언→특별위원회 협상→본인 회피→지배주주 승인 필수 공시로 반전을 만든다.",
-        "why_now": "SpaceX가 22일 규제 공시에서 잠재적 합병의 승인 구조를 처음 명시했다.",
-        "verified_at": 1792729884,
-        "published_at": 1792702191,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/",
-            "note": "Reuters 본문에서 머스크의 협상 회피, 특별위원회 구성, 이사회와 지배주주 승인이 모두 필요하다는 공시를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/",
-            "label": "원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "합병은 논의 단계이며 특별위원회가 아직 어떤 결정도 내리지 않았다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "Reuters 본문에서 머스크의 협상 회피, 특별위원회 구성, 이사회와 지배주주 승인이 모두 필요하다는 공시를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: ‘합병은 좋은 생각’이라는 머스크 발언",
-            "2장: 이해충돌로 협상에서 빠진 머스크",
-            "3장: 그런데 최종 단계에는 지배주주 머스크 승인이 필요"
-          ]
-        }
-      },
-      "coverage": {
-        "queries": [
-          "site:reuters.com \"Trump administration oversaw 980,000 deportations\"",
-          "site:reuters.com \"GM cancels deal with new US rare earth magnet plant\"",
-          "site:reuters.com \"Sainz says talk of F1 racing in Middle East is premature\"",
-          "site:reuters.com \"SpaceX says Tesla merger would need Musk's approval\"",
-          "site:reuters.com \"Australian TV reporter recalls terrifying rescue\"",
-          "site:reuters.com \"Eagles Nick Sirianni sidesteps Jalen Hurts queries\"",
-          "site:reuters.com \"Tunisian police clash with protesters\" October 22 2026",
-          "site:reuters.com \"Microsoft develops AI tool that can diagnose sequentially like a doctor\"",
-          "site:reuters.com \"Hall of Famer Marshall Faulk reveals Parkinson's diagnosis\"",
-          "site:reuters.com \"HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs\"",
-          "October 23 2026 latest football funny incident official video Reuters soccer",
-          "October 23 2026 girl group official content funny moment NMIXX IVE aespa",
-          "site:youtube.com/watch Bournemouth AC Milan 3-0 highlights Maignan red card October 22 2026 UEFA",
-          "site:uefa.com Bournemouth Milan Maignan red card highlights October 22 2026",
-          "site:afcb.co.uk Bournemouth Milan Maignan red card October 22 2026 highlights",
-          "site:acmilan.com Bournemouth Milan Maignan red card October 22 2026",
-          "Mike Maignan Tyler Adams red card Bournemouth Milan October 22 2026"
-        ],
-        "opened_urls": [
-          "https://www.reuters.com/business/environment/australian-tv-reporter-recalls-terrifying-rescue-man-sinking-car-2026-10-23/",
-          "https://www.abc.net.au/news/2026-10-22/abc-reporter-and-bystander-rescue-man-from-floodwaters/107297094",
-          "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
-          "https://www.reuters.com/sports/eagles-nick-sirianni-sidesteps-jalen-hurts-queries--flm-2026-10-22/",
-          "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/",
-          "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
-          "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
-          "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
-          "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
-          "https://www.reuters.com/sports/hall-famer-marshall-faulk-reveals-parkinsons-diagnosis--flm-2026-10-23/",
-          "https://www.reuters.com/world/asia-pacific/hd-hyundai-build-us-shipyard-with-kiewit-create-3000-jobs-2026-10-23/",
-          "https://www.uefa.com/uefaeuropaleague/news/02aa-21e410bcbe25-9352142b4434-1000--europa-league-matchday-3-highlights-and-round-up-bournemouth/",
-          "https://www.acmilan.com/en/news/articles/europa-league/2026-10-22/ac-milan-beaten-by-bournemouth"
-        ],
-        "unavailable": [
-          "펨코 공개 색인에서 12시간 내 새 원본·핵심 장면을 함께 검증하지 못해 공식 원문으로 전환",
-          "여자아이돌 공식 콘텐츠에서 12시간 내 새 대사·행동·연속 장면을 확인하지 못해 보류",
-          "국축은 12시간 이내 원본 공개와 핵심 장면을 함께 확인한 새 후보가 없어 다음 회차로 이월",
-          "마이냥 퇴장 보도는 확인했지만 결정 장면 영상을 직접 보지 못해 선정에서 제외"
         ]
       }
     },
@@ -8097,1104 +9206,9 @@
       "note": "가요계 관계자 인용 단독 보도만 있고 JYP 공식 확인이나 구체 장면이 없다.",
       "next_action": "JYP 공식 확인 또는 앨범 정보가 나온 뒤 새 사실로 검토.",
       "recorded_at": 1792574748
-    },
-    {
-      "event_key": "jihyo-jyp-contract-ends-emithaus-established-remains-twice-20261021",
-      "url": "https://www.instagram.com/p/DevZGTkmTD2/",
-      "title": "JYP와 21년 동행 끝낸 지효…새 회사를 만들지만 트와이스는 계속",
-      "category": "여자아이돌",
-      "status": "reviewed",
-      "recorded_at": 1792553477,
-      "pick": {
-        "title": "JYP와 21년 동행 끝낸 지효…새 회사를 만들지만 트와이스는 계속",
-        "category": "여자아이돌",
-        "url": "https://www.instagram.com/p/DevZGTkmTD2/",
-        "source": "지효 공식 Instagram",
-        "kind": "official",
-        "event_key": "jihyo-jyp-contract-ends-emithaus-established-remains-twice-20261021",
-        "why": "트와이스 팬과 직장인이 ‘21년 소속사 종료·1인 회사 설립·팀 활동 유지’라는 세 갈래 변화를 한눈에 이해할 수 있다.",
-        "angle": "첫 장은 공식 편지의 ‘21년 JYP 종료·EMITHAUS 설립’, 다음 장은 ‘트와이스를 떠나는 것은 아니다’를 대비한다.",
-        "why_now": "지효가 21일 12시 공식 계정에 계약 종료와 회사 설립, 트와이스 활동 지속을 처음 함께 밝혔다.",
-        "verified_at": 1792553477,
-        "published_at": 1792551611,
-        "evidence": [
-          {
-            "url": "https://www.instagram.com/p/DevZGTkmTD2/",
-            "note": "공식 계정 게시물의 시각 2026-10-21T03:00:11Z와 ‘21년 JYP 여정 종료·EMITHAUS 설립·TWICE 무대 지속’ 문구를 직접 확인했다."
-          },
-          {
-            "url": "https://theqoo.net/square/4382247185",
-            "note": "12:02 게시된 공개 커뮤니티 글에서 같은 공식 Instagram 게시물이 인용된 것을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.instagram.com/p/DevZGTkmTD2/",
-            "label": "지효 공식 발표 게시물",
-            "kind": "source"
-          }
-        ],
-        "caution": "개인 계약 종료를 트와이스 탈퇴로 쓰지 않는다. EMITHAUS의 구체적 사업 범위·인력·투자 규모는 공식 발표에 없다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-21",
-          "observation": "공식 게시물에서 지효가 JYP와 21년 동행을 끝내고 EMITHAUS를 세웠지만 트와이스 팀과 무대는 계속한다고 밝혔다.",
-          "checked_materials": [],
-          "outline": [
-            "첫 장: ‘JYP 21년 종료’와 ‘EMITHAUS 설립’ 공식 문구",
-            "2장: EMIT의 뜻과 직접 회사를 만든 이유",
-            "3장: ‘트와이스를 떠나는 것은 아니다’라는 핵심 반전"
-          ]
-        }
-      },
-      "coverage": {
-        "queries": [
-          "2026년 10월 21일 롯데 자이언츠 이동욱 감독 선임 공식",
-          "2026년 10월 21일 참치 가격 2만원 4000원 원본",
-          "2026년 10월 21일 네이버지도 독도 표기 변경 공식",
-          "2026년 10월 21일 삼성전자 3000억 반도체 장비 운송 차량 사고",
-          "코스피 4% 급등 매수 사이드카 발동 2026-10-21 한국거래소",
-          "우상혁 전국체전 도약 0회 2026-10-21 공식 결과",
-          "유홍준 국립중앙박물관장 사의 표명 셀프 출품 2026-10-21",
-          "여자아이돌 공식 발표 2026년 10월 21일 지효 제외",
-          "2026 10 21 대통령 제미나이에 물어봤습니다 중수청장 배석 원문",
-          "2026 10 21 LIG넥스원 입찰 제한 2년 방사청 공식",
-          "2026 10 21 한국서 재건수술 두피 80% 손상 키르기스 아동",
-          "2026 10 21 여자아이돌 인스타 공식 발표 새 회사 장면",
-          "site:amc.seoul.kr 2026 10 21 우마르 두피 80% 대형견",
-          "site:president.go.kr 제미나이에 물어봤습니다 2026 10 21",
-          "site:x.com jaemyung_lee 제미나이에게 물어봤습니다"
-        ],
-        "opened_urls": [
-          "https://www.instagram.com/p/DevZGTkmTD2/",
-          "https://theqoo.net/square/4382247185",
-          "https://n.news.naver.com/article/025/0003559365",
-          "https://news.nate.com/view/20261021n16295",
-          "https://www.hankyung.com/article/2026102153277",
-          "https://imnews.imbc.com/news/2026/politics/article/6859548_36911.html",
-          "https://www.yna.co.kr/amp/view/AKR20261021060500530",
-          "https://n.news.naver.com/article/001/0016390333",
-          "https://n.news.naver.com/article/214/0001530352",
-          "https://m.sports.naver.com/wfootball/video/1549225"
-        ],
-        "unavailable": [
-          "펨코 직접 경로는 보호 화면 때문에 열지 않고 공개 간접 색인과 독립 원본만 사용했다.",
-          "인스티즈·개드립 수집은 403으로 직접 본문 확인이 불가했다.",
-          "손흥민 네이버 스포츠 영상 1549225는 빈 플레이어만 로드돼 핵심 장면을 시청하지 못해 보류했다.",
-          "휴게소 미역국은 원 게시물·구매 장소·가격·최초 공개 시각이 확인되지 않아 추천하지 않았다.",
-          "일본 항공기 뱀 사건은 실제 사건이 10월 19일이고 최초 공개 시각과 현장 뱀 자료를 확인하지 못해 보류했다.",
-          "롯데 이동욱 감독 선임 커뮤니티 글은 공식 발표가 확인되지 않고 10월 14일 기사 재유통 정황이 있어 제외했다.",
-          "반도체 운반차 사고 게시물은 6월의 미확인 194억원 루머 재유통으로 확인돼 제외했다."
-        ]
-      }
-    },
-    {
-      "event_key": "myeongdong-gimpo-480000-taxi-foreign-tourist-complaints-record-20261021",
-      "url": "https://n.news.naver.com/article/025/0003559365",
-      "title": "명동→김포공항 택시가 48만원…외국인 불편 신고는 이미 작년 전체를 넘었다",
-      "category": "시사",
-      "status": "reviewed",
-      "recorded_at": 1792553477,
-      "pick": {
-        "title": "명동→김포공항 택시가 48만원…외국인 불편 신고는 이미 작년 전체를 넘었다",
-        "category": "시사",
-        "url": "https://n.news.naver.com/article/025/0003559365",
-        "source": "중앙일보",
-        "kind": "article",
-        "event_key": "myeongdong-gimpo-480000-taxi-foreign-tourist-complaints-record-20261021",
-        "why": "서울을 찾는 여행객과 시민이 정상 요금 약 3만원과 실제 청구 48만원의 격차, 반복되는 관광 불편 규모를 바로 공유할 수 있다.",
-        "angle": "첫 장은 ‘약 3만원→48만원’ 영수증 대비, 다음 장은 올해 1~9월 신고 2,057건과 지난해 전체 1,593건을 놓는다.",
-        "why_now": "21일 한국관광공사 자료를 바탕으로 올해 외국인 관광객 불편 신고가 이미 지난해 연간치를 넘었다는 집계가 공개됐다.",
-        "verified_at": 1792553477,
-        "published_at": 1792526400,
-        "evidence": [
-          {
-            "url": "https://n.news.naver.com/article/025/0003559365",
-            "note": "기사 본문에서 일본 관광객의 명동→김포공항 48만원 청구, 통상 약 3만원, 미터 미사용 신고와 1~9월 불편 신고 2,057건을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://n.news.naver.com/article/025/0003559365",
-            "label": "요금 사례와 관광공사 집계가 담긴 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "48만원 사례는 관광객의 신고 내용이며 사법적 확정 사실로 단정하지 않는다. 기사상의 ‘약 3만원’은 평균적인 요금 설명이다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-21",
-          "observation": "명동에서 김포공항까지 택시요금 48만원이 청구됐다는 신고와 외국인 불편 신고 2,057건이 지난해 전체 1,593건을 넘었다는 집계를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "첫 장: ‘약 3만원 거리, 48만원 청구’ 숫자 대비",
-            "2장: 미터 미사용·수동 요금 입력이라는 신고 내용",
-            "3장: 2025년 1,593건→2026년 1~9월 2,057건"
-          ]
-        }
-      },
-      "coverage": {
-        "queries": [
-          "2026년 10월 21일 롯데 자이언츠 이동욱 감독 선임 공식",
-          "2026년 10월 21일 참치 가격 2만원 4000원 원본",
-          "2026년 10월 21일 네이버지도 독도 표기 변경 공식",
-          "2026년 10월 21일 삼성전자 3000억 반도체 장비 운송 차량 사고",
-          "코스피 4% 급등 매수 사이드카 발동 2026-10-21 한국거래소",
-          "우상혁 전국체전 도약 0회 2026-10-21 공식 결과",
-          "유홍준 국립중앙박물관장 사의 표명 셀프 출품 2026-10-21",
-          "여자아이돌 공식 발표 2026년 10월 21일 지효 제외",
-          "2026 10 21 대통령 제미나이에 물어봤습니다 중수청장 배석 원문",
-          "2026 10 21 LIG넥스원 입찰 제한 2년 방사청 공식",
-          "2026 10 21 한국서 재건수술 두피 80% 손상 키르기스 아동",
-          "2026 10 21 여자아이돌 인스타 공식 발표 새 회사 장면",
-          "site:amc.seoul.kr 2026 10 21 우마르 두피 80% 대형견",
-          "site:president.go.kr 제미나이에 물어봤습니다 2026 10 21",
-          "site:x.com jaemyung_lee 제미나이에게 물어봤습니다"
-        ],
-        "opened_urls": [
-          "https://www.instagram.com/p/DevZGTkmTD2/",
-          "https://theqoo.net/square/4382247185",
-          "https://n.news.naver.com/article/025/0003559365",
-          "https://news.nate.com/view/20261021n16295",
-          "https://www.hankyung.com/article/2026102153277",
-          "https://imnews.imbc.com/news/2026/politics/article/6859548_36911.html",
-          "https://www.yna.co.kr/amp/view/AKR20261021060500530",
-          "https://n.news.naver.com/article/001/0016390333",
-          "https://n.news.naver.com/article/214/0001530352",
-          "https://m.sports.naver.com/wfootball/video/1549225"
-        ],
-        "unavailable": [
-          "펨코 직접 경로는 보호 화면 때문에 열지 않고 공개 간접 색인과 독립 원본만 사용했다.",
-          "인스티즈·개드립 수집은 403으로 직접 본문 확인이 불가했다.",
-          "손흥민 네이버 스포츠 영상 1549225는 빈 플레이어만 로드돼 핵심 장면을 시청하지 못해 보류했다.",
-          "휴게소 미역국은 원 게시물·구매 장소·가격·최초 공개 시각이 확인되지 않아 추천하지 않았다.",
-          "일본 항공기 뱀 사건은 실제 사건이 10월 19일이고 최초 공개 시각과 현장 뱀 자료를 확인하지 못해 보류했다.",
-          "롯데 이동욱 감독 선임 커뮤니티 글은 공식 발표가 확인되지 않고 10월 14일 기사 재유통 정황이 있어 제외했다.",
-          "반도체 운반차 사고 게시물은 6월의 미확인 194억원 루머 재유통으로 확인돼 제외했다."
-        ]
-      }
-    },
-    {
-      "event_key": "woo-sang-hyeok-national-games-zero-attempt-injury-streak-ends-20261021",
-      "url": "https://news.nate.com/view/20261021n16295",
-      "title": "출전했는데 한 번도 안 뛰었다…우상혁, 발등 인대 부상에 전국체전 7연패 멈춤",
-      "category": "메이저 스포츠",
-      "status": "reviewed",
-      "recorded_at": 1792553477,
-      "pick": {
-        "title": "출전했는데 한 번도 안 뛰었다…우상혁, 발등 인대 부상에 전국체전 7연패 멈춤",
-        "category": "메이저 스포츠",
-        "url": "https://news.nate.com/view/20261021n16295",
-        "source": "노컷뉴스",
-        "kind": "article",
-        "event_key": "woo-sang-hyeok-national-games-zero-attempt-injury-streak-ends-20261021",
-        "why": "우상혁을 아는 스포츠 팬이 ‘출전 명단→도약 0회→6연패 종료’라는 예상 밖 결과와 부상 이유를 즉시 이해할 수 있다.",
-        "angle": "첫 장은 결과표식 ‘기록 없음·도약 0회’, 다음 장은 아시안게임 동메달 뒤 공개된 발등 인대 파열과 추가 부상 방지 결정을 설명한다.",
-        "why_now": "21일 전국체전 결승에서 첫 높이 1m90을 시도하지 않으며 6연속 우승 기록이 실제로 끝났다.",
-        "verified_at": 1792553477,
-        "published_at": 1792551720,
-        "evidence": [
-          {
-            "url": "https://news.nate.com/view/20261021n16295",
-            "note": "21일 12:02 기사 본문에서 우상혁이 첫 높이 1m90을 시도하지 않아 기록 없이 마쳤고 발등 인대 부상 악화를 막기 위한 결정임을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://news.nate.com/view/20261021n16295",
-            "label": "경기 결과·부상 경위를 확인한 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "기사 대표 사진은 9월 27일 아시안게임 사진으로 이날 결승 장면이 아니다. ‘기권’과 ‘출전 후 무도약’을 혼동하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-21",
-          "observation": "전국체전 남자 일반부 결승에 이름을 올렸지만 1m90부터 한 차례도 도약하지 않아 기록 없이 마친 사실과 부상 사유를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "첫 장: ‘출전했지만 도약 0회’ 결과",
-            "2장: 2018년부터 이어진 6연패가 멈춘 맥락",
-            "3장: 아시안게임 때도 안고 뛴 발등 인대 파열과 회복 선택"
-          ]
-        }
-      },
-      "coverage": {
-        "queries": [
-          "2026년 10월 21일 롯데 자이언츠 이동욱 감독 선임 공식",
-          "2026년 10월 21일 참치 가격 2만원 4000원 원본",
-          "2026년 10월 21일 네이버지도 독도 표기 변경 공식",
-          "2026년 10월 21일 삼성전자 3000억 반도체 장비 운송 차량 사고",
-          "코스피 4% 급등 매수 사이드카 발동 2026-10-21 한국거래소",
-          "우상혁 전국체전 도약 0회 2026-10-21 공식 결과",
-          "유홍준 국립중앙박물관장 사의 표명 셀프 출품 2026-10-21",
-          "여자아이돌 공식 발표 2026년 10월 21일 지효 제외",
-          "2026 10 21 대통령 제미나이에 물어봤습니다 중수청장 배석 원문",
-          "2026 10 21 LIG넥스원 입찰 제한 2년 방사청 공식",
-          "2026 10 21 한국서 재건수술 두피 80% 손상 키르기스 아동",
-          "2026 10 21 여자아이돌 인스타 공식 발표 새 회사 장면",
-          "site:amc.seoul.kr 2026 10 21 우마르 두피 80% 대형견",
-          "site:president.go.kr 제미나이에 물어봤습니다 2026 10 21",
-          "site:x.com jaemyung_lee 제미나이에게 물어봤습니다"
-        ],
-        "opened_urls": [
-          "https://www.instagram.com/p/DevZGTkmTD2/",
-          "https://theqoo.net/square/4382247185",
-          "https://n.news.naver.com/article/025/0003559365",
-          "https://news.nate.com/view/20261021n16295",
-          "https://www.hankyung.com/article/2026102153277",
-          "https://imnews.imbc.com/news/2026/politics/article/6859548_36911.html",
-          "https://www.yna.co.kr/amp/view/AKR20261021060500530",
-          "https://n.news.naver.com/article/001/0016390333",
-          "https://n.news.naver.com/article/214/0001530352",
-          "https://m.sports.naver.com/wfootball/video/1549225"
-        ],
-        "unavailable": [
-          "펨코 직접 경로는 보호 화면 때문에 열지 않고 공개 간접 색인과 독립 원본만 사용했다.",
-          "인스티즈·개드립 수집은 403으로 직접 본문 확인이 불가했다.",
-          "손흥민 네이버 스포츠 영상 1549225는 빈 플레이어만 로드돼 핵심 장면을 시청하지 못해 보류했다.",
-          "휴게소 미역국은 원 게시물·구매 장소·가격·최초 공개 시각이 확인되지 않아 추천하지 않았다.",
-          "일본 항공기 뱀 사건은 실제 사건이 10월 19일이고 최초 공개 시각과 현장 뱀 자료를 확인하지 못해 보류했다.",
-          "롯데 이동욱 감독 선임 커뮤니티 글은 공식 발표가 확인되지 않고 10월 14일 기사 재유통 정황이 있어 제외했다.",
-          "반도체 운반차 사고 게시물은 6월의 미확인 194억원 루머 재유통으로 확인돼 제외했다."
-        ]
-      }
-    },
-    {
-      "event_key": "president-lee-gemini-answer-cisc-chief-cabinet-meeting-rebuttal-20261021",
-      "url": "https://www.hankyung.com/article/2026102153277",
-      "title": "대통령이 ‘제미나이에게 물어봤습니다’…AI 답변으로 중수청장 배석 논란 반박",
-      "category": "시사",
-      "status": "reviewed",
-      "recorded_at": 1792553477,
-      "pick": {
-        "title": "대통령이 ‘제미나이에게 물어봤습니다’…AI 답변으로 중수청장 배석 논란 반박",
-        "category": "시사",
-        "url": "https://www.hankyung.com/article/2026102153277",
-        "source": "한국경제·MBC",
-        "kind": "article",
-        "event_key": "president-lee-gemini-answer-cisc-chief-cabinet-meeting-rebuttal-20261021",
-        "why": "정치와 AI 이용자 모두가 대통령이 생성형 AI의 법률 답변을 공개 반박 근거로 쓴 장면 자체를 친구에게 설명하기 쉽다.",
-        "angle": "첫 장은 실제 SNS 제목 ‘제미나이에게 물어봤습니다’, 다음 장은 중수청장 국무회의 배석 쟁점과 대통령의 별도 입장을 구분한다.",
-        "why_now": "21일 오전 대통령이 자신의 X에 제미나이 답변과 후속 입장을 직접 공개했다.",
-        "verified_at": 1792553477,
-        "published_at": 1792542240,
-        "evidence": [
-          {
-            "url": "https://www.hankyung.com/article/2026102153277",
-            "note": "10:24 기사에서 대통령 SNS 제목과 공유된 제미나이 답변, 이어 올린 대통령의 직접 입장을 확인했다."
-          },
-          {
-            "url": "https://imnews.imbc.com/news/2026/politics/article/6859548_36911.html",
-            "note": "10:36 MBC 보도에서 국무회의 배석 논란의 배경과 ‘구체적 사건 수사 지휘는 하지 않겠다’는 후속 설명을 교차 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.hankyung.com/article/2026102153277",
-            "label": "SNS 캡처와 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "제미나이의 답변은 법원 판단이나 공식 법률해석이 아니다. ‘위헌적 억지’는 AI 답변을 공유한 대통령 측 주장으로 귀속한다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-21",
-          "observation": "대통령이 X에 ‘제미나이에게 물어봤습니다’라는 글로 AI의 법률 답변을 공유하고 중수청장 국무회의 배석 반대론을 반박한 사실을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "첫 장: 대통령 SNS의 ‘제미나이에게 물어봤습니다’",
-            "2장: 중수청장이 국무회의에 처음 배석하며 생긴 쟁점",
-            "3장: AI 답변과 대통령 본인의 후속 설명을 분리",
-            "4장: AI 답변은 법적 판단이 아니라는 주의"
-          ]
-        }
-      },
-      "coverage": {
-        "queries": [
-          "2026년 10월 21일 롯데 자이언츠 이동욱 감독 선임 공식",
-          "2026년 10월 21일 참치 가격 2만원 4000원 원본",
-          "2026년 10월 21일 네이버지도 독도 표기 변경 공식",
-          "2026년 10월 21일 삼성전자 3000억 반도체 장비 운송 차량 사고",
-          "코스피 4% 급등 매수 사이드카 발동 2026-10-21 한국거래소",
-          "우상혁 전국체전 도약 0회 2026-10-21 공식 결과",
-          "유홍준 국립중앙박물관장 사의 표명 셀프 출품 2026-10-21",
-          "여자아이돌 공식 발표 2026년 10월 21일 지효 제외",
-          "2026 10 21 대통령 제미나이에 물어봤습니다 중수청장 배석 원문",
-          "2026 10 21 LIG넥스원 입찰 제한 2년 방사청 공식",
-          "2026 10 21 한국서 재건수술 두피 80% 손상 키르기스 아동",
-          "2026 10 21 여자아이돌 인스타 공식 발표 새 회사 장면",
-          "site:amc.seoul.kr 2026 10 21 우마르 두피 80% 대형견",
-          "site:president.go.kr 제미나이에 물어봤습니다 2026 10 21",
-          "site:x.com jaemyung_lee 제미나이에게 물어봤습니다"
-        ],
-        "opened_urls": [
-          "https://www.instagram.com/p/DevZGTkmTD2/",
-          "https://theqoo.net/square/4382247185",
-          "https://n.news.naver.com/article/025/0003559365",
-          "https://news.nate.com/view/20261021n16295",
-          "https://www.hankyung.com/article/2026102153277",
-          "https://imnews.imbc.com/news/2026/politics/article/6859548_36911.html",
-          "https://www.yna.co.kr/amp/view/AKR20261021060500530",
-          "https://n.news.naver.com/article/001/0016390333",
-          "https://n.news.naver.com/article/214/0001530352",
-          "https://m.sports.naver.com/wfootball/video/1549225"
-        ],
-        "unavailable": [
-          "펨코 직접 경로는 보호 화면 때문에 열지 않고 공개 간접 색인과 독립 원본만 사용했다.",
-          "인스티즈·개드립 수집은 403으로 직접 본문 확인이 불가했다.",
-          "손흥민 네이버 스포츠 영상 1549225는 빈 플레이어만 로드돼 핵심 장면을 시청하지 못해 보류했다.",
-          "휴게소 미역국은 원 게시물·구매 장소·가격·최초 공개 시각이 확인되지 않아 추천하지 않았다.",
-          "일본 항공기 뱀 사건은 실제 사건이 10월 19일이고 최초 공개 시각과 현장 뱀 자료를 확인하지 못해 보류했다.",
-          "롯데 이동욱 감독 선임 커뮤니티 글은 공식 발표가 확인되지 않고 10월 14일 기사 재유통 정황이 있어 제외했다.",
-          "반도체 운반차 사고 게시물은 6월의 미확인 194억원 루머 재유통으로 확인돼 제외했다."
-        ]
-      }
-    },
-    {
-      "event_key": "kyrgyz-child-scalp-reconstruction-tissue-expansion-korea-20261021",
-      "url": "https://www.yna.co.kr/amp/view/AKR20261021060500530",
-      "title": "두피 80%를 잃은 6살 아이…한국 의료진은 ‘머리카락이 자랄 방법’을 택했다",
-      "category": "시사",
-      "status": "reviewed",
-      "recorded_at": 1792553477,
-      "pick": {
-        "title": "두피 80%를 잃은 6살 아이…한국 의료진은 ‘머리카락이 자랄 방법’을 택했다",
-        "category": "시사",
-        "url": "https://www.yna.co.kr/amp/view/AKR20261021060500530",
-        "source": "서울아산병원·연합뉴스",
-        "kind": "article",
-        "event_key": "kyrgyz-child-scalp-reconstruction-tissue-expansion-korea-20261021",
-        "why": "부모와 의료 종사자가 단순 구조담이 아니라 평생의 외형까지 고려한 수술 선택과 회복 결과를 함께 볼 수 있다.",
-        "angle": "첫 장은 퇴원 단체사진과 ‘두피 80% 손상→귀국’, 다음 장은 피부이식 대신 남은 두피를 두 달 넘게 확장한 이유를 설명한다.",
-        "why_now": "서울아산병원이 21일 고난도 조직확장술 성공과 10월 15일 귀국 사실을 처음 공개했다.",
-        "verified_at": 1792553477,
-        "published_at": 1792541880,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/amp/view/AKR20261021060500530",
-            "note": "10:18 기사에서 25×25cm·두피 약 80% 손상, 7월 입국, 두 달 넘는 조직확장술, 9월 말 수술 완료와 10월 15일 귀국을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/amp/view/AKR20261021060500530",
-            "label": "서울아산병원 제공 퇴원 사진과 수술 경위",
-            "kind": "source"
-          }
-        ],
-        "caution": "4월 사고 자체는 오래된 일이고 새 사실은 21일 공개된 치료 성공이다. 미성년자의 노출된 상처 등 충격적 이미지는 쓰지 않고 퇴원 사진을 우선한다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-21",
-          "observation": "두피 약 80%가 손상된 6세 아동에게 남은 두피를 단계적으로 늘리는 조직확장술을 시행해 노출된 두개골을 덮고 귀국시킨 결과를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "첫 장: 퇴원 사진과 ‘두피 80% 손상→귀국’",
-            "2장: 일반 피부이식 대신 머리카락이 자랄 두피를 늘린 선택",
-            "3장: 7월 입국→두 달 이상 확장→9월 말 수술→10월 15일 귀국"
-          ]
-        }
-      },
-      "coverage": {
-        "queries": [
-          "2026년 10월 21일 롯데 자이언츠 이동욱 감독 선임 공식",
-          "2026년 10월 21일 참치 가격 2만원 4000원 원본",
-          "2026년 10월 21일 네이버지도 독도 표기 변경 공식",
-          "2026년 10월 21일 삼성전자 3000억 반도체 장비 운송 차량 사고",
-          "코스피 4% 급등 매수 사이드카 발동 2026-10-21 한국거래소",
-          "우상혁 전국체전 도약 0회 2026-10-21 공식 결과",
-          "유홍준 국립중앙박물관장 사의 표명 셀프 출품 2026-10-21",
-          "여자아이돌 공식 발표 2026년 10월 21일 지효 제외",
-          "2026 10 21 대통령 제미나이에 물어봤습니다 중수청장 배석 원문",
-          "2026 10 21 LIG넥스원 입찰 제한 2년 방사청 공식",
-          "2026 10 21 한국서 재건수술 두피 80% 손상 키르기스 아동",
-          "2026 10 21 여자아이돌 인스타 공식 발표 새 회사 장면",
-          "site:amc.seoul.kr 2026 10 21 우마르 두피 80% 대형견",
-          "site:president.go.kr 제미나이에 물어봤습니다 2026 10 21",
-          "site:x.com jaemyung_lee 제미나이에게 물어봤습니다"
-        ],
-        "opened_urls": [
-          "https://www.instagram.com/p/DevZGTkmTD2/",
-          "https://theqoo.net/square/4382247185",
-          "https://n.news.naver.com/article/025/0003559365",
-          "https://news.nate.com/view/20261021n16295",
-          "https://www.hankyung.com/article/2026102153277",
-          "https://imnews.imbc.com/news/2026/politics/article/6859548_36911.html",
-          "https://www.yna.co.kr/amp/view/AKR20261021060500530",
-          "https://n.news.naver.com/article/001/0016390333",
-          "https://n.news.naver.com/article/214/0001530352",
-          "https://m.sports.naver.com/wfootball/video/1549225"
-        ],
-        "unavailable": [
-          "펨코 직접 경로는 보호 화면 때문에 열지 않고 공개 간접 색인과 독립 원본만 사용했다.",
-          "인스티즈·개드립 수집은 403으로 직접 본문 확인이 불가했다.",
-          "손흥민 네이버 스포츠 영상 1549225는 빈 플레이어만 로드돼 핵심 장면을 시청하지 못해 보류했다.",
-          "휴게소 미역국은 원 게시물·구매 장소·가격·최초 공개 시각이 확인되지 않아 추천하지 않았다.",
-          "일본 항공기 뱀 사건은 실제 사건이 10월 19일이고 최초 공개 시각과 현장 뱀 자료를 확인하지 못해 보류했다.",
-          "롯데 이동욱 감독 선임 커뮤니티 글은 공식 발표가 확인되지 않고 10월 14일 기사 재유통 정황이 있어 제외했다.",
-          "반도체 운반차 사고 게시물은 6월의 미확인 194억원 루머 재유통으로 확인돼 제외했다."
-        ]
-      }
-    },
-    {
-      "event_key": "jac-aircraft-snake-under-carpet-cancelled-flight-20261019",
-      "url": "https://n.news.naver.com/article/001/0016390333",
-      "title": "일본 항공기 카펫 아래서 발견된 뱀과 결항",
-      "category": "시사",
-      "status": "needs_date",
-      "note": "사건은 10월 19일이며 21일 국내 재보도만 확인했다. 최초 공개 시각과 실제 뱀 현장 자료가 없어 12시간 기준을 통과시키지 않았다.",
-      "next_action": "교도통신·니시니혼신문의 최초 송고 시각과 JAC 또는 공항 당국의 현장 사진·발표를 확인.",
-      "recorded_at": 1792553477
-    },
-    {
-      "event_key": "rest-stop-beef-seaweed-soup-sparse-community-photo-undated",
-      "url": "https://n.news.naver.com/article/214/0001530352",
-      "title": "휴게소 소고기미역국 내용물 논란 사진",
-      "category": "시사",
-      "status": "needs_facts",
-      "note": "MBC 본문에는 원 게시물 URL·구매 장소·가격·사건일이 없다. 온라인 사진만으로 최근 실제 상품이라고 확정할 수 없다.",
-      "next_action": "원 게시물과 결제·메뉴판 자료, 휴게소 이름과 최초 공개 시각을 확인.",
-      "recorded_at": 1792553477
-    },
-    {
-      "event_key": "son-heung-min-unexpected-pass-chance-naver-video-1549225",
-      "url": "https://m.sports.naver.com/wfootball/video/1549225",
-      "title": "손흥민 예상 밖 패스로 만든 결정적 기회",
-      "category": "해외축구",
-      "status": "needs_visual",
-      "note": "네이버 스포츠 영상 페이지를 열었지만 빈 화면만 로드돼 핵심 패스와 결과의 연속 장면을 실제 시청하지 못했다.",
-      "next_action": "접근 가능한 리그·구단 공식 영상에서 같은 장면과 경기일, 패스 뒤 결과를 확인.",
-      "recorded_at": 1792553477
-    },
-    {
-      "event_key": "lotte-manager-lee-dong-wook-community-claim-20261021",
-      "url": "https://mlbpark.donga.com/mp/b.php?b=kbotown&id=202610210119577111&m=view",
-      "title": "이동욱 감독 롯데행 커뮤니티 주장",
-      "category": "메이저 스포츠",
-      "status": "rejected",
-      "note": "공식 구단 발표를 찾지 못했고 검색 결과에는 10월 14일 기사 재유통과 19일 후보군 보도가 섞여 있었다. 현재 확정 뉴스로 보낼 수 없다.",
-      "next_action": "롯데 자이언츠 공식 보도자료가 실제 게시되기 전에는 재추천하지 않기.",
-      "recorded_at": 1792553477
-    },
-    {
-      "event_key": "lig-da-two-year-bid-restriction-20261020",
-      "url": "https://www.newspim.com/news/view/20261020001218",
-      "title": "LIG D&A 입찰 참가 제한 2년",
-      "category": "시사",
-      "status": "rejected",
-      "note": "방사청 의결과 최초 보도는 20일 저녁으로 14시 보고 기준 12시간을 넘는다. 21일 영향 분석 기사는 새로운 확정 조치가 아니다.",
-      "next_action": "집행정지 결정이나 신규 사업 배제처럼 편집 가치가 달라지는 확정 후속이 있을 때 별도 사건으로 검토.",
-      "recorded_at": 1792553477
-    },
-    {
-      "event_key": "australia-reporter-rescues-driver-sinking-car-interview-20261023",
-      "url": "https://www.reuters.com/business/environment/australian-tv-reporter-recalls-terrifying-rescue-man-sinking-car-2026-10-23/",
-      "title": "생중계하던 기자, 물에 잠기던 차로 헤엄쳐 들어가 운전자를 꺼냈다",
-      "category": "시사",
-      "status": "reviewed",
-      "recorded_at": 1792730003,
-      "pick": {
-        "title": "생중계하던 기자, 물에 잠기던 차로 헤엄쳐 들어가 운전자를 꺼냈다",
-        "category": "시사",
-        "url": "https://www.reuters.com/business/environment/australian-tv-reporter-recalls-terrifying-rescue-man-sinking-car-2026-10-23/",
-        "source": "Reuters·ABC",
-        "kind": "article",
-        "event_key": "australia-reporter-rescues-driver-sinking-car-interview-20261023",
-        "why": "침수 현장을 전하던 기자가 카메라 앞을 벗어나 물속으로 뛰어들었고, 차가 완전히 잠기기 직전 운전자를 끌어냈다.",
-        "angle": "도로를 건너는 4륜차→시동이 꺼지고 가라앉는 차→기자와 시민이 헤엄치는 38초 영상→구조 직후 포옹으로 잇는다.",
-        "why_now": "Reuters가 23일 00시54분 UTC 구조 기자의 첫 회고와 구조 직전·직후를 새로 공개했다.",
-        "verified_at": 1792729884,
-        "published_at": 1792716840,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/business/environment/australian-tv-reporter-recalls-terrifying-rescue-man-sinking-car-2026-10-23/",
-            "note": "Reuters 본문에서 차가 멈춰 가라앉기 시작한 뒤 기자와 시민이 운전자를 꺼냈고 직후 차가 완전히 잠긴 사실과 기자 인터뷰를 확인했다."
-          },
-          {
-            "url": "https://www.abc.net.au/news/2026-10-22/abc-reporter-and-bystander-rescue-man-from-floodwaters/107297094",
-            "note": "ABC의 38초 원본 영상 페이지에서 두 사람이 침수 차량 위로 접근해 운전자를 구조하는 연속 장면을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.abc.net.au/news/2026-10-22/abc-reporter-and-bystander-rescue-man-from-floodwaters/107297094",
-            "label": "38초 원본 영상",
-            "kind": "video"
-          },
-          {
-            "url": "https://www.reuters.com/business/environment/australian-tv-reporter-recalls-terrifying-rescue-man-sinking-car-2026-10-23/",
-            "label": "구조 기자 인터뷰",
-            "kind": "source"
-          }
-        ],
-        "caution": "구조 장면은 22일 발생했고, 이번 새 사실은 23일 공개된 구조 기자의 회고다.",
-        "readiness": {
-          "mode": "scene",
-          "event_date": "2026-10-22",
-          "observation": "차가 급류에서 가라앉자 기자와 시민이 헤엄쳐 접근해 운전자를 빼낸 뒤 차가 완전히 잠기는 연속 장면을 확인했다.",
-          "checked_materials": [
-            "https://www.abc.net.au/news/2026-10-22/abc-reporter-and-bystander-rescue-man-from-floodwaters/107297094"
-          ],
-          "outline": [
-            "1장: 홍수 도로를 건너다 멈춘 4륜차",
-            "2장: 기자와 시민이 물로 뛰어들어 차 위에 올라가는 38초 장면",
-            "3장: 운전자를 꺼낸 직후 완전히 잠긴 차량과 구조 뒤 포옹"
-          ]
-        }
-      },
-      "coverage": {
-        "queries": [
-          "site:reuters.com \"Trump administration oversaw 980,000 deportations\"",
-          "site:reuters.com \"GM cancels deal with new US rare earth magnet plant\"",
-          "site:reuters.com \"Sainz says talk of F1 racing in Middle East is premature\"",
-          "site:reuters.com \"SpaceX says Tesla merger would need Musk's approval\"",
-          "site:reuters.com \"Australian TV reporter recalls terrifying rescue\"",
-          "site:reuters.com \"Eagles Nick Sirianni sidesteps Jalen Hurts queries\"",
-          "site:reuters.com \"Tunisian police clash with protesters\" October 22 2026",
-          "site:reuters.com \"Microsoft develops AI tool that can diagnose sequentially like a doctor\"",
-          "site:reuters.com \"Hall of Famer Marshall Faulk reveals Parkinson's diagnosis\"",
-          "site:reuters.com \"HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs\"",
-          "October 23 2026 latest football funny incident official video Reuters soccer",
-          "October 23 2026 girl group official content funny moment NMIXX IVE aespa",
-          "site:youtube.com/watch Bournemouth AC Milan 3-0 highlights Maignan red card October 22 2026 UEFA",
-          "site:uefa.com Bournemouth Milan Maignan red card highlights October 22 2026",
-          "site:afcb.co.uk Bournemouth Milan Maignan red card October 22 2026 highlights",
-          "site:acmilan.com Bournemouth Milan Maignan red card October 22 2026",
-          "Mike Maignan Tyler Adams red card Bournemouth Milan October 22 2026"
-        ],
-        "opened_urls": [
-          "https://www.reuters.com/business/environment/australian-tv-reporter-recalls-terrifying-rescue-man-sinking-car-2026-10-23/",
-          "https://www.abc.net.au/news/2026-10-22/abc-reporter-and-bystander-rescue-man-from-floodwaters/107297094",
-          "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
-          "https://www.reuters.com/sports/eagles-nick-sirianni-sidesteps-jalen-hurts-queries--flm-2026-10-22/",
-          "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/",
-          "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
-          "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
-          "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
-          "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
-          "https://www.reuters.com/sports/hall-famer-marshall-faulk-reveals-parkinsons-diagnosis--flm-2026-10-23/",
-          "https://www.reuters.com/world/asia-pacific/hd-hyundai-build-us-shipyard-with-kiewit-create-3000-jobs-2026-10-23/",
-          "https://www.uefa.com/uefaeuropaleague/news/02aa-21e410bcbe25-9352142b4434-1000--europa-league-matchday-3-highlights-and-round-up-bournemouth/",
-          "https://www.acmilan.com/en/news/articles/europa-league/2026-10-22/ac-milan-beaten-by-bournemouth"
-        ],
-        "unavailable": [
-          "펨코 공개 색인에서 12시간 내 새 원본·핵심 장면을 함께 검증하지 못해 공식 원문으로 전환",
-          "여자아이돌 공식 콘텐츠에서 12시간 내 새 대사·행동·연속 장면을 확인하지 못해 보류",
-          "국축은 12시간 이내 원본 공개와 핵심 장면을 함께 확인한 새 후보가 없어 다음 회차로 이월",
-          "마이냥 퇴장 보도는 확인했지만 결정 장면 영상을 직접 보지 못해 선정에서 제외"
-        ]
-      }
-    },
-    {
-      "event_key": "jalen-hurts-blood-clot-clearance-sirianni-refuses-questions-20261022",
-      "url": "https://www.reuters.com/sports/eagles-nick-sirianni-sidesteps-jalen-hurts-queries--flm-2026-10-22/",
-      "title": "혈전 발견 뒤에도 경기 뛴 허츠…감독은 “더 답하지 않겠다”",
-      "category": "메이저 스포츠",
-      "status": "reviewed",
-      "recorded_at": 1792730003,
-      "pick": {
-        "title": "혈전 발견 뒤에도 경기 뛴 허츠…감독은 “더 답하지 않겠다”",
-        "category": "메이저 스포츠",
-        "url": "https://www.reuters.com/sports/eagles-nick-sirianni-sidesteps-jalen-hurts-queries--flm-2026-10-22/",
-        "source": "Reuters",
-        "kind": "article",
-        "event_key": "jalen-hurts-blood-clot-clearance-sirianni-refuses-questions-20261022",
-        "why": "혈전이 발견된 선수를 런던 경기에 내보낸 경위를 선수노조가 조사하자, 감독은 건강을 걱정한다면서도 관련 질문을 더 받지 않겠다고 했다.",
-        "angle": "혈전 발견→런던 경기 출전 허가→NFL의 절차 준수 주장→시리애니의 답변 거부 순서다.",
-        "why_now": "Reuters가 22일 19시45분 UTC 감독의 공개 답변 거부와 선수노조 조사 요구를 보도했다.",
-        "verified_at": 1792729884,
-        "published_at": 1792698300,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/sports/eagles-nick-sirianni-sidesteps-jalen-hurts-queries--flm-2026-10-22/",
-            "note": "Reuters 본문에서 superficial blood clot 발견 뒤 런던 경기 출전 허가, NFLPA 조사 요구, 시리애니의 답변 거부를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/sports/eagles-nick-sirianni-sidesteps-jalen-hurts-queries--flm-2026-10-22/",
-            "label": "감독 발언 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "NFL은 절차를 지켰다고 주장하며 혈전의 구체적 의학 판단은 공개되지 않았다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "혈전 발견 뒤 출전 허가를 둘러싼 선수노조 조사 요구와 감독의 공개 답변 거부를 Reuters 본문에서 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: 혈전이 발견된 쿼터백이 런던 경기를 뛴 사실",
-            "2장: NFL·의료진의 ‘필요 절차 준수’ 방어",
-            "3장: 선수노조 조사 요구 뒤 감독의 ‘더 답하지 않겠다’ 발언"
-          ]
-        }
-      },
-      "coverage": {
-        "queries": [
-          "site:reuters.com \"Trump administration oversaw 980,000 deportations\"",
-          "site:reuters.com \"GM cancels deal with new US rare earth magnet plant\"",
-          "site:reuters.com \"Sainz says talk of F1 racing in Middle East is premature\"",
-          "site:reuters.com \"SpaceX says Tesla merger would need Musk's approval\"",
-          "site:reuters.com \"Australian TV reporter recalls terrifying rescue\"",
-          "site:reuters.com \"Eagles Nick Sirianni sidesteps Jalen Hurts queries\"",
-          "site:reuters.com \"Tunisian police clash with protesters\" October 22 2026",
-          "site:reuters.com \"Microsoft develops AI tool that can diagnose sequentially like a doctor\"",
-          "site:reuters.com \"Hall of Famer Marshall Faulk reveals Parkinson's diagnosis\"",
-          "site:reuters.com \"HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs\"",
-          "October 23 2026 latest football funny incident official video Reuters soccer",
-          "October 23 2026 girl group official content funny moment NMIXX IVE aespa",
-          "site:youtube.com/watch Bournemouth AC Milan 3-0 highlights Maignan red card October 22 2026 UEFA",
-          "site:uefa.com Bournemouth Milan Maignan red card highlights October 22 2026",
-          "site:afcb.co.uk Bournemouth Milan Maignan red card October 22 2026 highlights",
-          "site:acmilan.com Bournemouth Milan Maignan red card October 22 2026",
-          "Mike Maignan Tyler Adams red card Bournemouth Milan October 22 2026"
-        ],
-        "opened_urls": [
-          "https://www.reuters.com/business/environment/australian-tv-reporter-recalls-terrifying-rescue-man-sinking-car-2026-10-23/",
-          "https://www.abc.net.au/news/2026-10-22/abc-reporter-and-bystander-rescue-man-from-floodwaters/107297094",
-          "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
-          "https://www.reuters.com/sports/eagles-nick-sirianni-sidesteps-jalen-hurts-queries--flm-2026-10-22/",
-          "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/",
-          "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
-          "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
-          "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
-          "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
-          "https://www.reuters.com/sports/hall-famer-marshall-faulk-reveals-parkinsons-diagnosis--flm-2026-10-23/",
-          "https://www.reuters.com/world/asia-pacific/hd-hyundai-build-us-shipyard-with-kiewit-create-3000-jobs-2026-10-23/",
-          "https://www.uefa.com/uefaeuropaleague/news/02aa-21e410bcbe25-9352142b4434-1000--europa-league-matchday-3-highlights-and-round-up-bournemouth/",
-          "https://www.acmilan.com/en/news/articles/europa-league/2026-10-22/ac-milan-beaten-by-bournemouth"
-        ],
-        "unavailable": [
-          "펨코 공개 색인에서 12시간 내 새 원본·핵심 장면을 함께 검증하지 못해 공식 원문으로 전환",
-          "여자아이돌 공식 콘텐츠에서 12시간 내 새 대사·행동·연속 장면을 확인하지 못해 보류",
-          "국축은 12시간 이내 원본 공개와 핵심 장면을 함께 확인한 새 후보가 없어 다음 회차로 이월",
-          "마이냥 퇴장 보도는 확인했지만 결정 장면 영상을 직접 보지 못해 선정에서 제외"
-        ]
-      }
-    },
-    {
-      "event_key": "tunisia-three-city-police-protester-clashes-detention-deaths-20261022",
-      "url": "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
-      "title": "체포 사망 의혹에 도로 막고 타이어 불태워…튀니지 세 도시서 경찰과 충돌",
-      "category": "시사",
-      "status": "reviewed",
-      "recorded_at": 1792730003,
-      "pick": {
-        "title": "체포 사망 의혹에 도로 막고 타이어 불태워…튀니지 세 도시서 경찰과 충돌",
-        "category": "시사",
-        "url": "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
-        "source": "Reuters",
-        "kind": "article",
-        "event_key": "tunisia-three-city-police-protester-clashes-detention-deaths-20261022",
-        "why": "한 남성이 체포 뒤 숨졌다는 유족 주장으로 시작된 항의가 수도 외곽과 남부 두 도시까지 번졌고, 경찰은 최루탄으로 맞섰다.",
-        "angle": "체포 뒤 사망 의혹→불타는 타이어와 막힌 도로→돌을 던지는 시위대→세 도시 동시 충돌로 구성한다.",
-        "why_now": "Reuters가 22일 22시21분 UTC 수도 외곽과 남부 두 도시의 동시 충돌을 처음 묶어 공개했다.",
-        "verified_at": 1792729884,
-        "published_at": 1792707660,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
-            "note": "Reuters 본문에서 도로 봉쇄·타이어 방화·투석과 경찰의 최루탄 대응, 세 도시 동시 충돌을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
-            "label": "현장 보도",
-            "kind": "source"
-          }
-        ],
-        "caution": "사망 원인은 유족과 현지 보도 설명이 엇갈리며 수사 결론이 나오지 않았다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "체포 뒤 사망 의혹과 의료 대응 불만이 겹치며 수도 외곽·제베니아나·아가렙에서 경찰과 시위대가 충돌한 사실을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: 체포 뒤 숨졌다는 유족 주장과 경찰 책임 요구",
-            "2장: 막힌 도로·불타는 타이어·투석 장면",
-            "3장: 경찰 최루탄 대응과 세 도시로 번진 충돌"
-          ]
-        }
-      },
-      "coverage": {
-        "queries": [
-          "site:reuters.com \"Trump administration oversaw 980,000 deportations\"",
-          "site:reuters.com \"GM cancels deal with new US rare earth magnet plant\"",
-          "site:reuters.com \"Sainz says talk of F1 racing in Middle East is premature\"",
-          "site:reuters.com \"SpaceX says Tesla merger would need Musk's approval\"",
-          "site:reuters.com \"Australian TV reporter recalls terrifying rescue\"",
-          "site:reuters.com \"Eagles Nick Sirianni sidesteps Jalen Hurts queries\"",
-          "site:reuters.com \"Tunisian police clash with protesters\" October 22 2026",
-          "site:reuters.com \"Microsoft develops AI tool that can diagnose sequentially like a doctor\"",
-          "site:reuters.com \"Hall of Famer Marshall Faulk reveals Parkinson's diagnosis\"",
-          "site:reuters.com \"HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs\"",
-          "October 23 2026 latest football funny incident official video Reuters soccer",
-          "October 23 2026 girl group official content funny moment NMIXX IVE aespa",
-          "site:youtube.com/watch Bournemouth AC Milan 3-0 highlights Maignan red card October 22 2026 UEFA",
-          "site:uefa.com Bournemouth Milan Maignan red card highlights October 22 2026",
-          "site:afcb.co.uk Bournemouth Milan Maignan red card October 22 2026 highlights",
-          "site:acmilan.com Bournemouth Milan Maignan red card October 22 2026",
-          "Mike Maignan Tyler Adams red card Bournemouth Milan October 22 2026"
-        ],
-        "opened_urls": [
-          "https://www.reuters.com/business/environment/australian-tv-reporter-recalls-terrifying-rescue-man-sinking-car-2026-10-23/",
-          "https://www.abc.net.au/news/2026-10-22/abc-reporter-and-bystander-rescue-man-from-floodwaters/107297094",
-          "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
-          "https://www.reuters.com/sports/eagles-nick-sirianni-sidesteps-jalen-hurts-queries--flm-2026-10-22/",
-          "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/",
-          "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
-          "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
-          "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
-          "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
-          "https://www.reuters.com/sports/hall-famer-marshall-faulk-reveals-parkinsons-diagnosis--flm-2026-10-23/",
-          "https://www.reuters.com/world/asia-pacific/hd-hyundai-build-us-shipyard-with-kiewit-create-3000-jobs-2026-10-23/",
-          "https://www.uefa.com/uefaeuropaleague/news/02aa-21e410bcbe25-9352142b4434-1000--europa-league-matchday-3-highlights-and-round-up-bournemouth/",
-          "https://www.acmilan.com/en/news/articles/europa-league/2026-10-22/ac-milan-beaten-by-bournemouth"
-        ],
-        "unavailable": [
-          "펨코 공개 색인에서 12시간 내 새 원본·핵심 장면을 함께 검증하지 못해 공식 원문으로 전환",
-          "여자아이돌 공식 콘텐츠에서 12시간 내 새 대사·행동·연속 장면을 확인하지 못해 보류",
-          "국축은 12시간 이내 원본 공개와 핵심 장면을 함께 확인한 새 후보가 없어 다음 회차로 이월",
-          "마이냥 퇴장 보도는 확인했지만 결정 장면 영상을 직접 보지 못해 선정에서 제외"
-        ]
-      }
-    },
-    {
-      "event_key": "microsoft-sequential-diagnostic-ai-twice-general-physicians-20261023",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
-      "title": "문진부터 검사 순서까지 정하는 AI…복잡한 진단에서 일반의 정확도의 두 배",
-      "category": "시사",
-      "status": "reviewed",
-      "recorded_at": 1792730003,
-      "pick": {
-        "title": "문진부터 검사 순서까지 정하는 AI…복잡한 진단에서 일반의 정확도의 두 배",
-        "category": "시사",
-        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
-        "source": "Reuters·Science",
-        "kind": "article",
-        "event_key": "microsoft-sequential-diagnostic-ai-twice-general-physicians-20261023",
-        "why": "증상을 한꺼번에 넣는 AI가 아니라 무엇을 묻고 어떤 검사를 다음에 할지 스스로 순서를 짰고, 희귀·복잡 사례에서 일반의보다 두 배 넘게 정확했다.",
-        "angle": "환자 질문 선택→검사 주문→결과에 따라 다음 검사 결정→의사와 정확도·비용 비교 순서다.",
-        "why_now": "Reuters가 23일 00시34분 UTC Science 게재 연구와 실제 응급실 분류 후속시험 계획을 공개했다.",
-        "verified_at": 1792729884,
-        "published_at": 1792715685,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
-            "note": "Reuters 본문에서 300여 복잡 사례, 일반의 대비 두 배 이상 정확도, 순차 문진·검사 설계와 응급실 후속시험 계획을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
-            "label": "연구 보도",
-            "kind": "source"
-          }
-        ],
-        "caution": "300여 고난도 사례 중심 연구이며 실제 진료 현장 성능과 안전성은 추가 시험이 필요하다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "AI가 문진·검사 순서를 단계적으로 설계해 복잡 진단에서 일반의보다 두 배 넘게 정확했다는 연구 결과를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: ‘한꺼번에 답하기’ 대신 다음 질문을 고르는 AI",
-            "2장: 검사 결과마다 가설을 바꾸고 추가 검사를 주문하는 구조",
-            "3장: 300여 복잡 사례에서 일반의 대비 두 배 이상 정확도"
-          ]
-        }
-      },
-      "coverage": {
-        "queries": [
-          "site:reuters.com \"Trump administration oversaw 980,000 deportations\"",
-          "site:reuters.com \"GM cancels deal with new US rare earth magnet plant\"",
-          "site:reuters.com \"Sainz says talk of F1 racing in Middle East is premature\"",
-          "site:reuters.com \"SpaceX says Tesla merger would need Musk's approval\"",
-          "site:reuters.com \"Australian TV reporter recalls terrifying rescue\"",
-          "site:reuters.com \"Eagles Nick Sirianni sidesteps Jalen Hurts queries\"",
-          "site:reuters.com \"Tunisian police clash with protesters\" October 22 2026",
-          "site:reuters.com \"Microsoft develops AI tool that can diagnose sequentially like a doctor\"",
-          "site:reuters.com \"Hall of Famer Marshall Faulk reveals Parkinson's diagnosis\"",
-          "site:reuters.com \"HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs\"",
-          "October 23 2026 latest football funny incident official video Reuters soccer",
-          "October 23 2026 girl group official content funny moment NMIXX IVE aespa",
-          "site:youtube.com/watch Bournemouth AC Milan 3-0 highlights Maignan red card October 22 2026 UEFA",
-          "site:uefa.com Bournemouth Milan Maignan red card highlights October 22 2026",
-          "site:afcb.co.uk Bournemouth Milan Maignan red card October 22 2026 highlights",
-          "site:acmilan.com Bournemouth Milan Maignan red card October 22 2026",
-          "Mike Maignan Tyler Adams red card Bournemouth Milan October 22 2026"
-        ],
-        "opened_urls": [
-          "https://www.reuters.com/business/environment/australian-tv-reporter-recalls-terrifying-rescue-man-sinking-car-2026-10-23/",
-          "https://www.abc.net.au/news/2026-10-22/abc-reporter-and-bystander-rescue-man-from-floodwaters/107297094",
-          "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
-          "https://www.reuters.com/sports/eagles-nick-sirianni-sidesteps-jalen-hurts-queries--flm-2026-10-22/",
-          "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/",
-          "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
-          "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
-          "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
-          "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
-          "https://www.reuters.com/sports/hall-famer-marshall-faulk-reveals-parkinsons-diagnosis--flm-2026-10-23/",
-          "https://www.reuters.com/world/asia-pacific/hd-hyundai-build-us-shipyard-with-kiewit-create-3000-jobs-2026-10-23/",
-          "https://www.uefa.com/uefaeuropaleague/news/02aa-21e410bcbe25-9352142b4434-1000--europa-league-matchday-3-highlights-and-round-up-bournemouth/",
-          "https://www.acmilan.com/en/news/articles/europa-league/2026-10-22/ac-milan-beaten-by-bournemouth"
-        ],
-        "unavailable": [
-          "펨코 공개 색인에서 12시간 내 새 원본·핵심 장면을 함께 검증하지 못해 공식 원문으로 전환",
-          "여자아이돌 공식 콘텐츠에서 12시간 내 새 대사·행동·연속 장면을 확인하지 못해 보류",
-          "국축은 12시간 이내 원본 공개와 핵심 장면을 함께 확인한 새 후보가 없어 다음 회차로 이월",
-          "마이냥 퇴장 보도는 확인했지만 결정 장면 영상을 직접 보지 못해 선정에서 제외"
-        ]
-      }
-    },
-    {
-      "event_key": "marshall-faulk-parkinsons-18-months-diagnosis-reveal-20261023",
-      "url": "https://www.reuters.com/sports/hall-famer-marshall-faulk-reveals-parkinsons-diagnosis--flm-2026-10-23/",
-      "title": "“골프 치다 손이 뻣뻣했다”…NFL 명예의 전당 폴크, 파킨슨병 공개",
-      "category": "메이저 스포츠",
-      "status": "reviewed",
-      "recorded_at": 1792730003,
-      "pick": {
-        "title": "“골프 치다 손이 뻣뻣했다”…NFL 명예의 전당 폴크, 파킨슨병 공개",
-        "category": "메이저 스포츠",
-        "url": "https://www.reuters.com/sports/hall-famer-marshall-faulk-reveals-parkinsons-diagnosis--flm-2026-10-23/",
-        "source": "Reuters",
-        "kind": "article",
-        "event_key": "marshall-faulk-parkinsons-18-months-diagnosis-reveal-20261023",
-        "why": "NFL 레전드가 골프 중 손 뻣뻣함을 첫 신호로 느꼈고, 18개월간 치료해 일상을 유지해온 사실을 처음 공개했다.",
-        "angle": "골프 중 손 뻣뻣함→검사 권유→파킨슨병 진단→약물로 일상 유지와 조기검진 당부로 잇는다.",
-        "why_now": "Reuters가 23일 01시17분 UTC 폴크의 진단 공개와 18개월 치료 경과를 전했다.",
-        "verified_at": 1792729884,
-        "published_at": 1792718220,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/sports/hall-famer-marshall-faulk-reveals-parkinsons-diagnosis--flm-2026-10-23/",
-            "note": "Reuters 본문에서 골프 중 손 뻣뻣함, 파킨슨병 진단, 약물 치료 뒤 일상 유지와 조기검진 당부를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/sports/hall-famer-marshall-faulk-reveals-parkinsons-diagnosis--flm-2026-10-23/",
-            "label": "진단 공개 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "개인 진단 경험이며 일반적인 의학적 조언으로 확대하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-23",
-          "observation": "폴크가 골프 중 손 뻣뻣함을 계기로 진단받고 18개월간 치료 중이라는 본인 공개 내용을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: 골프 중 처음 느낀 손의 뻣뻣함",
-            "2장: 정기검진에서 추가 검사를 권유받아 파킨슨병 확인",
-            "3장: 약물 치료 뒤 일상 유지와 ‘증상을 미루지 말라’는 당부"
-          ]
-        }
-      },
-      "coverage": {
-        "queries": [
-          "site:reuters.com \"Trump administration oversaw 980,000 deportations\"",
-          "site:reuters.com \"GM cancels deal with new US rare earth magnet plant\"",
-          "site:reuters.com \"Sainz says talk of F1 racing in Middle East is premature\"",
-          "site:reuters.com \"SpaceX says Tesla merger would need Musk's approval\"",
-          "site:reuters.com \"Australian TV reporter recalls terrifying rescue\"",
-          "site:reuters.com \"Eagles Nick Sirianni sidesteps Jalen Hurts queries\"",
-          "site:reuters.com \"Tunisian police clash with protesters\" October 22 2026",
-          "site:reuters.com \"Microsoft develops AI tool that can diagnose sequentially like a doctor\"",
-          "site:reuters.com \"Hall of Famer Marshall Faulk reveals Parkinson's diagnosis\"",
-          "site:reuters.com \"HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs\"",
-          "October 23 2026 latest football funny incident official video Reuters soccer",
-          "October 23 2026 girl group official content funny moment NMIXX IVE aespa",
-          "site:youtube.com/watch Bournemouth AC Milan 3-0 highlights Maignan red card October 22 2026 UEFA",
-          "site:uefa.com Bournemouth Milan Maignan red card highlights October 22 2026",
-          "site:afcb.co.uk Bournemouth Milan Maignan red card October 22 2026 highlights",
-          "site:acmilan.com Bournemouth Milan Maignan red card October 22 2026",
-          "Mike Maignan Tyler Adams red card Bournemouth Milan October 22 2026"
-        ],
-        "opened_urls": [
-          "https://www.reuters.com/business/environment/australian-tv-reporter-recalls-terrifying-rescue-man-sinking-car-2026-10-23/",
-          "https://www.abc.net.au/news/2026-10-22/abc-reporter-and-bystander-rescue-man-from-floodwaters/107297094",
-          "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
-          "https://www.reuters.com/sports/eagles-nick-sirianni-sidesteps-jalen-hurts-queries--flm-2026-10-22/",
-          "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/",
-          "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
-          "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
-          "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
-          "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
-          "https://www.reuters.com/sports/hall-famer-marshall-faulk-reveals-parkinsons-diagnosis--flm-2026-10-23/",
-          "https://www.reuters.com/world/asia-pacific/hd-hyundai-build-us-shipyard-with-kiewit-create-3000-jobs-2026-10-23/",
-          "https://www.uefa.com/uefaeuropaleague/news/02aa-21e410bcbe25-9352142b4434-1000--europa-league-matchday-3-highlights-and-round-up-bournemouth/",
-          "https://www.acmilan.com/en/news/articles/europa-league/2026-10-22/ac-milan-beaten-by-bournemouth"
-        ],
-        "unavailable": [
-          "펨코 공개 색인에서 12시간 내 새 원본·핵심 장면을 함께 검증하지 못해 공식 원문으로 전환",
-          "여자아이돌 공식 콘텐츠에서 12시간 내 새 대사·행동·연속 장면을 확인하지 못해 보류",
-          "국축은 12시간 이내 원본 공개와 핵심 장면을 함께 확인한 새 후보가 없어 다음 회차로 이월",
-          "마이냥 퇴장 보도는 확인했지만 결정 장면 영상을 직접 보지 못해 선정에서 제외"
-        ]
-      }
-    },
-    {
-      "event_key": "hd-hyundai-kiewit-us-shipyard-3000-jobs-20261023",
-      "url": "https://www.reuters.com/world/asia-pacific/hd-hyundai-build-us-shipyard-with-kiewit-create-3000-jobs-2026-10-23/",
-      "title": "HD현대, 미국에 새 조선소 짓는다…2029년 가동·일자리 3천개",
-      "category": "시사",
-      "status": "reviewed",
-      "recorded_at": 1792730003,
-      "pick": {
-        "title": "HD현대, 미국에 새 조선소 짓는다…2029년 가동·일자리 3천개",
-        "category": "시사",
-        "url": "https://www.reuters.com/world/asia-pacific/hd-hyundai-build-us-shipyard-with-kiewit-create-3000-jobs-2026-10-23/",
-        "source": "Reuters·HD현대",
-        "kind": "article",
-        "event_key": "hd-hyundai-kiewit-us-shipyard-3000-jobs-20261023",
-        "why": "한국 조선사가 미국 현지에 새 조선소를 짓고 상선뿐 아니라 군수지원선까지 보겠다고 공식화했다.",
-        "angle": "내년 착공→2029년 가동→미국 일자리 3천개→상선·군수지원선 두 시장 진입으로 구성한다.",
-        "why_now": "HD현대가 23일 Kiewit과의 조선소 건설 계약과 가동 시점·고용 규모를 발표했다.",
-        "verified_at": 1792729884,
-        "published_at": 1792716964,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/world/asia-pacific/hd-hyundai-build-us-shipyard-with-kiewit-create-3000-jobs-2026-10-23/",
-            "note": "Reuters 본문에서 2027년 착공, 2029년 가동, 미국 일자리 약 3천개와 상선·군수지원선 계획을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/world/asia-pacific/hd-hyundai-build-us-shipyard-with-kiewit-create-3000-jobs-2026-10-23/",
-            "label": "계약 발표",
-            "kind": "source"
-          }
-        ],
-        "caution": "부지·투자액 등 세부 조건은 기사에 공개되지 않았다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-23",
-          "observation": "HD현대와 Kiewit이 미국 조선소를 내년 착공해 2029년 가동하고 약 3천명을 고용한다는 발표를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: HD현대·Kiewit의 미국 조선소 건설 계약",
-            "2장: 2027년 착공·2029년 가동 일정",
-            "3장: 3천개 일자리와 상선·군수지원선 진출 계획"
-          ]
-        }
-      },
-      "coverage": {
-        "queries": [
-          "site:reuters.com \"Trump administration oversaw 980,000 deportations\"",
-          "site:reuters.com \"GM cancels deal with new US rare earth magnet plant\"",
-          "site:reuters.com \"Sainz says talk of F1 racing in Middle East is premature\"",
-          "site:reuters.com \"SpaceX says Tesla merger would need Musk's approval\"",
-          "site:reuters.com \"Australian TV reporter recalls terrifying rescue\"",
-          "site:reuters.com \"Eagles Nick Sirianni sidesteps Jalen Hurts queries\"",
-          "site:reuters.com \"Tunisian police clash with protesters\" October 22 2026",
-          "site:reuters.com \"Microsoft develops AI tool that can diagnose sequentially like a doctor\"",
-          "site:reuters.com \"Hall of Famer Marshall Faulk reveals Parkinson's diagnosis\"",
-          "site:reuters.com \"HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs\"",
-          "October 23 2026 latest football funny incident official video Reuters soccer",
-          "October 23 2026 girl group official content funny moment NMIXX IVE aespa",
-          "site:youtube.com/watch Bournemouth AC Milan 3-0 highlights Maignan red card October 22 2026 UEFA",
-          "site:uefa.com Bournemouth Milan Maignan red card highlights October 22 2026",
-          "site:afcb.co.uk Bournemouth Milan Maignan red card October 22 2026 highlights",
-          "site:acmilan.com Bournemouth Milan Maignan red card October 22 2026",
-          "Mike Maignan Tyler Adams red card Bournemouth Milan October 22 2026"
-        ],
-        "opened_urls": [
-          "https://www.reuters.com/business/environment/australian-tv-reporter-recalls-terrifying-rescue-man-sinking-car-2026-10-23/",
-          "https://www.abc.net.au/news/2026-10-22/abc-reporter-and-bystander-rescue-man-from-floodwaters/107297094",
-          "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
-          "https://www.reuters.com/sports/eagles-nick-sirianni-sidesteps-jalen-hurts-queries--flm-2026-10-22/",
-          "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/",
-          "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
-          "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
-          "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
-          "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
-          "https://www.reuters.com/sports/hall-famer-marshall-faulk-reveals-parkinsons-diagnosis--flm-2026-10-23/",
-          "https://www.reuters.com/world/asia-pacific/hd-hyundai-build-us-shipyard-with-kiewit-create-3000-jobs-2026-10-23/",
-          "https://www.uefa.com/uefaeuropaleague/news/02aa-21e410bcbe25-9352142b4434-1000--europa-league-matchday-3-highlights-and-round-up-bournemouth/",
-          "https://www.acmilan.com/en/news/articles/europa-league/2026-10-22/ac-milan-beaten-by-bournemouth"
-        ],
-        "unavailable": [
-          "펨코 공개 색인에서 12시간 내 새 원본·핵심 장면을 함께 검증하지 못해 공식 원문으로 전환",
-          "여자아이돌 공식 콘텐츠에서 12시간 내 새 대사·행동·연속 장면을 확인하지 못해 보류",
-          "국축은 12시간 이내 원본 공개와 핵심 장면을 함께 확인한 새 후보가 없어 다음 회차로 이월",
-          "마이냥 퇴장 보도는 확인했지만 결정 장면 영상을 직접 보지 못해 선정에서 제외"
-        ]
-      }
-    },
-    {
-      "event_key": "tebas-real-madrid-nazi-propaganda-tribunal-20261022",
-      "url": "https://www.reuters.com/sports/soccer/sports-council-refers-laligas-tebas-to-tribunal-over-real-madrid-comments-2026-10-22/",
-      "title": "테바스 레알 마드리드 나치 선전 비교 징계 회부",
-      "category": "축구",
-      "status": "rejected_stale",
-      "recorded_at": 1792722831,
-      "note": "13시41분 UTC 최초 공개로 14시 KST 회차 기준 12시간을 넘겨 제외",
-      "next_action": "재사용하지 않고 새 결정이 나오면 새 사실의 최초 공개 시각부터 재검토"
-    },
-    {
-      "event_key": "girl-idol-official-content-search-20261023-02utc",
-      "url": "",
-      "title": "3~5세대 여자아이돌 공식 콘텐츠 탐색",
-      "category": "아이돌",
-      "status": "held_unverified",
-      "recorded_at": 1792722831,
-      "note": "공식 YouTube·음방·자체 콘텐츠에서 12시간 내 새 대사·행동·연속 장면을 확인하지 못함",
-      "next_action": "다음 시간대에 공식 업로드와 음방 원본만 다시 확인"
-    },
-    {
-      "event_key": "maignan-pushes-adams-red-card-bournemouth-milan-20261022",
-      "url": "https://www.theguardian.com/football/live/2026/oct/22/lech-poznan-sunderland-juventus-rennes-bournemouth-milan-crystal-palace-celtic-europa-league-live",
-      "title": "마냥, 코너킥 뒤 애덤스 얼굴 밀쳐 즉시 퇴장…교체 골키퍼가 선수 교체 전 다시 뛰어나간 소동",
-      "category": "축구",
-      "status": "needs_visual",
-      "note": "가디언 라이브 본문에서 28분 얼굴을 밀어 즉시 퇴장, 30분 교체 골키퍼 토리아니가 교체 선수 지정 전 들어왔다 다시 나간 전후는 확인. AC밀란 공식 X의 퇴장 공지도 확인했지만 핵심 밀침 장면의 연속 영상·사진은 직접 확인하지 못함.",
-      "next_action": "UEFA·구단·방송사 공식 하이라이트에서 코너킥→밀침→레드카드→교체 혼선을 연속 확인하고 최초 공개 시각을 확정.",
-      "recorded_at": 1792726018
-    },
-    {
-      "event_key": "corey-lewandowski-doj-investigation-trump-honesty-prosecution-comment-20261023",
-      "url": "https://apnews.com/article/trump-justice-department-investigation-lewandowski-corey-homeland-security-1639485a611f2fc6be06ed35d6628416",
-      "title": "트럼프 최측근 르완도프스키 수사설에 “정직하지 않으면 기소돼야”",
-      "category": "시사",
-      "status": "needs_date",
-      "note": "AP 본문에서 DOJ 수사 보도, DHS 감찰관 의뢰, 트럼프의 정직·기소 발언, 변호인의 접촉 부인까지 확인. 페이지 본문에 정확한 최초 공개 시각이 노출되지 않아 14시 보고의 12시간 기준 확정 불가.",
-      "next_action": "AP 메타데이터나 독립 원문에서 최초 게시 UTC를 확인하고 수사 확정 범위를 재검증.",
-      "recorded_at": 1792726018
     }
   ],
   "attempts": [
-    {
-      "hour_utc": "2026102114",
-      "at": 1792591232,
-      "status": "sent",
-      "required": 10,
-      "ready": 10,
-      "missing": 0,
-      "unfinished": 5
-    },
-    {
-      "hour_utc": "2026102114",
-      "at": 1792592443,
-      "status": "delivery_confirming",
-      "required": 10,
-      "ready": 10,
-      "missing": 0,
-      "unfinished": 5
-    },
-    {
-      "hour_utc": "2026102114",
-      "at": 1792592444,
-      "status": "sent_confirmed",
-      "required": 10,
-      "ready": 10,
-      "missing": 0,
-      "unfinished": 5
-    },
     {
       "hour_utc": "2026102123",
       "at": 1792621518,
@@ -9563,6 +9577,24 @@
       "ready": 10,
       "missing": 0,
       "unfinished": 22
+    },
+    {
+      "hour_utc": "2026102308",
+      "at": 1792733062,
+      "status": "researching",
+      "required": 10,
+      "ready": 0,
+      "missing": 10,
+      "unfinished": 22
+    },
+    {
+      "hour_utc": "2026102308",
+      "at": 1792733495,
+      "status": "researching",
+      "required": 10,
+      "ready": 5,
+      "missing": 5,
+      "unfinished": 30
     }
   ]
 }
