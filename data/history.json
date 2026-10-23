@@ -1,6 +1,747 @@
 {
   "version": 1,
   "items": {
+    "6c1de42bb681": {
+      "source": "Reuters·ABC",
+      "title": "생중계하던 기자, 물에 잠기던 차로 헤엄쳐 들어가 운전자를 꺼냈다",
+      "link": "https://www.reuters.com/business/environment/australian-tv-reporter-recalls-terrifying-rescue-man-sinking-car-2026-10-23/",
+      "first_seen_at": 1792730205,
+      "last_seen_at": 1792730205,
+      "samples": [
+        {
+          "at": 1792730205,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "6c1de42bb681",
+      "editorial": {
+        "title": "생중계하던 기자, 물에 잠기던 차로 헤엄쳐 들어가 운전자를 꺼냈다",
+        "category": "시사",
+        "url": "https://www.reuters.com/business/environment/australian-tv-reporter-recalls-terrifying-rescue-man-sinking-car-2026-10-23/",
+        "source": "Reuters·ABC",
+        "kind": "article",
+        "event_key": "australia-reporter-rescues-driver-sinking-car-interview-20261023",
+        "why": "침수 현장을 전하던 기자가 카메라 앞을 벗어나 물속으로 뛰어들었고, 차가 완전히 잠기기 직전 운전자를 끌어냈다.",
+        "angle": "도로를 건너는 4륜차→시동이 꺼지고 가라앉는 차→기자와 시민이 헤엄치는 38초 영상→구조 직후 포옹으로 잇는다.",
+        "why_now": "Reuters가 23일 00시54분 UTC 구조 기자의 첫 회고와 구조 직전·직후를 새로 공개했다.",
+        "verified_at": 1792729884,
+        "published_at": 1792716840,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/business/environment/australian-tv-reporter-recalls-terrifying-rescue-man-sinking-car-2026-10-23/",
+            "note": "Reuters 본문에서 차가 멈춰 가라앉기 시작한 뒤 기자와 시민이 운전자를 꺼냈고 직후 차가 완전히 잠긴 사실과 기자 인터뷰를 확인했다."
+          },
+          {
+            "url": "https://www.abc.net.au/news/2026-10-22/abc-reporter-and-bystander-rescue-man-from-floodwaters/107297094",
+            "note": "ABC의 38초 원본 영상 페이지에서 두 사람이 침수 차량 위로 접근해 운전자를 구조하는 연속 장면을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.abc.net.au/news/2026-10-22/abc-reporter-and-bystander-rescue-man-from-floodwaters/107297094",
+            "label": "38초 원본 영상",
+            "kind": "video"
+          },
+          {
+            "url": "https://www.reuters.com/business/environment/australian-tv-reporter-recalls-terrifying-rescue-man-sinking-car-2026-10-23/",
+            "label": "구조 기자 인터뷰",
+            "kind": "source"
+          }
+        ],
+        "caution": "구조 장면은 22일 발생했고, 이번 새 사실은 23일 공개된 구조 기자의 회고다.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-22",
+          "observation": "차가 급류에서 가라앉자 기자와 시민이 헤엄쳐 접근해 운전자를 빼낸 뒤 차가 완전히 잠기는 연속 장면을 확인했다.",
+          "checked_materials": [
+            "https://www.abc.net.au/news/2026-10-22/abc-reporter-and-bystander-rescue-man-from-floodwaters/107297094"
+          ],
+          "outline": [
+            "1장: 홍수 도로를 건너다 멈춘 4륜차",
+            "2장: 기자와 시민이 물로 뛰어들어 차 위에 올라가는 38초 장면",
+            "3장: 운전자를 꺼낸 직후 완전히 잠긴 차량과 구조 뒤 포옹"
+          ]
+        }
+      },
+      "detail": {
+        "format": "원본 영상",
+        "media": [
+          {
+            "url": "https://www.abc.net.au/news/2026-10-22/abc-reporter-and-bystander-rescue-man-from-floodwaters/107297094",
+            "label": "38초 원본 영상",
+            "kind": "video"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "38초 원본 영상",
+            "url": "https://www.abc.net.au/news/2026-10-22/abc-reporter-and-bystander-rescue-man-from-floodwaters/107297094"
+          },
+          {
+            "label": "구조 기자 인터뷰",
+            "url": "https://www.reuters.com/business/environment/australian-tv-reporter-recalls-terrifying-rescue-man-sinking-car-2026-10-23/"
+          }
+        ],
+        "excerpt": "",
+        "context": "Reuters가 23일 00시54분 UTC 구조 기자의 첫 회고와 구조 직전·직후를 새로 공개했다.",
+        "fetched_at": 1792730205,
+        "parser_revision": 7
+      },
+      "curation_event_key": "australia-reporter-rescues-driver-sinking-car-interview-20261023"
+    },
+    "bc6280efc36a": {
+      "source": "Reuters·FIA",
+      "title": "F1 수장 “중동 레이스 예정대로”…사인츠 “지금 확신은 너무 이르다”",
+      "link": "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
+      "first_seen_at": 1792730205,
+      "last_seen_at": 1792730205,
+      "samples": [
+        {
+          "at": 1792730205,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "bc6280efc36a",
+      "editorial": {
+        "title": "F1 수장 “중동 레이스 예정대로”…사인츠 “지금 확신은 너무 이르다”",
+        "category": "메이저 스포츠",
+        "url": "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
+        "source": "Reuters·FIA",
+        "kind": "article",
+        "event_key": "sainz-calls-f1-middle-east-race-certainty-premature-20261022",
+        "why": "FIA 회장의 낙관과 현역 드라이버 대표의 불안이 정면 충돌했고, 대체지 이몰라에는 ‘제설차가 필요할 수도’라는 농담까지 나왔다.",
+        "angle": "FIA ‘예정대로’→사인츠 ‘확신 이르다’→이몰라 대체안→피아스트리의 제설차 농담으로 마무리한다.",
+        "why_now": "미국 GP 기자회견에서 22일 드라이버들이 카타르·아부다비 개최 불안을 직접 밝혔다.",
+        "verified_at": 1792729884,
+        "published_at": 1792699779,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
+            "note": "Reuters 본문에서 FIA의 강행 입장, 사인츠의 ‘premature’ 발언, 이몰라 대체안과 피아스트리의 제설차 발언을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
+            "label": "원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "카타르·아부다비 일정은 현재 유지 중이며 취소가 확정된 것은 아니다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "Reuters 본문에서 FIA의 강행 입장, 사인츠의 ‘premature’ 발언, 이몰라 대체안과 피아스트리의 제설차 발언을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1장: FIA 회장 ‘중동 레이스는 열린다’",
+            "2장: 드라이버 대표 사인츠 ‘지금 확신은 이르다’",
+            "3장: 대체지 이몰라 얘기에 나온 ‘제설차’ 농담"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "원문",
+            "url": "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/"
+          }
+        ],
+        "excerpt": "",
+        "context": "미국 GP 기자회견에서 22일 드라이버들이 카타르·아부다비 개최 불안을 직접 밝혔다.",
+        "fetched_at": 1792730205,
+        "parser_revision": 7
+      },
+      "curation_event_key": "sainz-calls-f1-middle-east-race-certainty-premature-20261022"
+    },
+    "16645e4bbd71": {
+      "source": "Reuters",
+      "title": "혈전 발견 뒤에도 경기 뛴 허츠…감독은 “더 답하지 않겠다”",
+      "link": "https://www.reuters.com/sports/eagles-nick-sirianni-sidesteps-jalen-hurts-queries--flm-2026-10-22/",
+      "first_seen_at": 1792730205,
+      "last_seen_at": 1792730205,
+      "samples": [
+        {
+          "at": 1792730205,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "16645e4bbd71",
+      "editorial": {
+        "title": "혈전 발견 뒤에도 경기 뛴 허츠…감독은 “더 답하지 않겠다”",
+        "category": "메이저 스포츠",
+        "url": "https://www.reuters.com/sports/eagles-nick-sirianni-sidesteps-jalen-hurts-queries--flm-2026-10-22/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "jalen-hurts-blood-clot-clearance-sirianni-refuses-questions-20261022",
+        "why": "혈전이 발견된 선수를 런던 경기에 내보낸 경위를 선수노조가 조사하자, 감독은 건강을 걱정한다면서도 관련 질문을 더 받지 않겠다고 했다.",
+        "angle": "혈전 발견→런던 경기 출전 허가→NFL의 절차 준수 주장→시리애니의 답변 거부 순서다.",
+        "why_now": "Reuters가 22일 19시45분 UTC 감독의 공개 답변 거부와 선수노조 조사 요구를 보도했다.",
+        "verified_at": 1792729884,
+        "published_at": 1792698300,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/eagles-nick-sirianni-sidesteps-jalen-hurts-queries--flm-2026-10-22/",
+            "note": "Reuters 본문에서 superficial blood clot 발견 뒤 런던 경기 출전 허가, NFLPA 조사 요구, 시리애니의 답변 거부를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/eagles-nick-sirianni-sidesteps-jalen-hurts-queries--flm-2026-10-22/",
+            "label": "감독 발언 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "NFL은 절차를 지켰다고 주장하며 혈전의 구체적 의학 판단은 공개되지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "혈전 발견 뒤 출전 허가를 둘러싼 선수노조 조사 요구와 감독의 공개 답변 거부를 Reuters 본문에서 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1장: 혈전이 발견된 쿼터백이 런던 경기를 뛴 사실",
+            "2장: NFL·의료진의 ‘필요 절차 준수’ 방어",
+            "3장: 선수노조 조사 요구 뒤 감독의 ‘더 답하지 않겠다’ 발언"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "감독 발언 원문",
+            "url": "https://www.reuters.com/sports/eagles-nick-sirianni-sidesteps-jalen-hurts-queries--flm-2026-10-22/"
+          }
+        ],
+        "excerpt": "",
+        "context": "Reuters가 22일 19시45분 UTC 감독의 공개 답변 거부와 선수노조 조사 요구를 보도했다.",
+        "fetched_at": 1792730205,
+        "parser_revision": 7
+      },
+      "curation_event_key": "jalen-hurts-blood-clot-clearance-sirianni-refuses-questions-20261022"
+    },
+    "c15e8e5326ce": {
+      "source": "Reuters·SpaceX 공시",
+      "title": "머스크는 협상에서 빠졌다는데…테슬라·스페이스X 합병은 결국 머스크 승인이 필요",
+      "link": "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/",
+      "first_seen_at": 1792730205,
+      "last_seen_at": 1792730205,
+      "samples": [
+        {
+          "at": 1792730205,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "c15e8e5326ce",
+      "editorial": {
+        "title": "머스크는 협상에서 빠졌다는데…테슬라·스페이스X 합병은 결국 머스크 승인이 필요",
+        "category": "시사",
+        "url": "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/",
+        "source": "Reuters·SpaceX 공시",
+        "kind": "article",
+        "event_key": "spacex-tesla-merger-musk-recusal-approval-paradox-20261022",
+        "why": "이해충돌 때문에 협상에서 물러난 당사자가 지배주주라 최종 합병 승인권을 쥔 모순이 공시로 드러났다.",
+        "angle": "머스크의 ‘좋은 생각’ 발언→특별위원회 협상→본인 회피→지배주주 승인 필수 공시로 반전을 만든다.",
+        "why_now": "SpaceX가 22일 규제 공시에서 잠재적 합병의 승인 구조를 처음 명시했다.",
+        "verified_at": 1792729884,
+        "published_at": 1792702191,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/",
+            "note": "Reuters 본문에서 머스크의 협상 회피, 특별위원회 구성, 이사회와 지배주주 승인이 모두 필요하다는 공시를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/",
+            "label": "원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "합병은 논의 단계이며 특별위원회가 아직 어떤 결정도 내리지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "Reuters 본문에서 머스크의 협상 회피, 특별위원회 구성, 이사회와 지배주주 승인이 모두 필요하다는 공시를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1장: ‘합병은 좋은 생각’이라는 머스크 발언",
+            "2장: 이해충돌로 협상에서 빠진 머스크",
+            "3장: 그런데 최종 단계에는 지배주주 머스크 승인이 필요"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "원문",
+            "url": "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/"
+          }
+        ],
+        "excerpt": "",
+        "context": "SpaceX가 22일 규제 공시에서 잠재적 합병의 승인 구조를 처음 명시했다.",
+        "fetched_at": 1792730205,
+        "parser_revision": 7
+      },
+      "curation_event_key": "spacex-tesla-merger-musk-recusal-approval-paradox-20261022"
+    },
+    "7b8f57df00ef": {
+      "source": "Reuters·Migration Policy Institute",
+      "title": "트럼프 18개월 추방 98만명…범죄 전력자는 전체의 20%",
+      "link": "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
+      "first_seen_at": 1792730205,
+      "last_seen_at": 1792730205,
+      "samples": [
+        {
+          "at": 1792730205,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "7b8f57df00ef",
+      "editorial": {
+        "title": "트럼프 18개월 추방 98만명…범죄 전력자는 전체의 20%",
+        "category": "시사",
+        "url": "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
+        "source": "Reuters·Migration Policy Institute",
+        "kind": "article",
+        "event_key": "trump-980000-deportations-only-20-percent-convictions-20261022",
+        "why": "‘치안’을 내세운 대규모 추방에서 범죄 유죄 전력이 있는 사람은 다섯 명 중 한 명뿐이었다는 수치가 논쟁을 만든다.",
+        "angle": "98만명 총추방→유죄 전력 20%→2년 이상 거주자 중 무전과 71%→과거 정부와 비교로 간다.",
+        "why_now": "전 DHS 통계 책임자가 작성한 18개월 분석 보고서가 22일 공개됐다.",
+        "verified_at": 1792729884,
+        "published_at": 1792706187,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
+            "note": "Reuters 본문에서 98만명, 유죄 전력자 20%, 장기 거주 추방자 중 무전과 71%와 분류별 수치를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
+            "label": "원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "수치는 정부 발표가 아니라 이민정책연구소가 DHS 데이터를 분석한 결과다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "Reuters 본문에서 98만명, 유죄 전력자 20%, 장기 거주 추방자 중 무전과 71%와 분류별 수치를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1장: 18개월 추방 98만명",
+            "2장: 범죄 유죄 전력은 20%라는 반전",
+            "3장: 2년 이상 거주 추방자 중 71%는 유죄 전력 없음"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "원문",
+            "url": "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/"
+          }
+        ],
+        "excerpt": "",
+        "context": "전 DHS 통계 책임자가 작성한 18개월 분석 보고서가 22일 공개됐다.",
+        "fetched_at": 1792730205,
+        "parser_revision": 7
+      },
+      "curation_event_key": "trump-980000-deportations-only-20-percent-convictions-20261022"
+    },
+    "0a8bb6215681": {
+      "source": "Reuters·SEC 공시",
+      "title": "미국산 희토류 자석 공장, 물량 90%를 사기로 한 GM이 계약을 끊었다",
+      "link": "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
+      "first_seen_at": 1792730205,
+      "last_seen_at": 1792730205,
+      "samples": [
+        {
+          "at": 1792730205,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "0a8bb6215681",
+      "editorial": {
+        "title": "미국산 희토류 자석 공장, 물량 90%를 사기로 한 GM이 계약을 끊었다",
+        "category": "시사",
+        "url": "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
+        "source": "Reuters·SEC 공시",
+        "kind": "article",
+        "event_key": "gm-terminates-vac-us-rare-earth-magnet-deal-90-percent-20261022",
+        "why": "중국 의존을 줄이겠다며 만든 5억달러 공장의 최대 고객이 돌연 빠져 ‘탈중국 공급망’의 민낯이 드러났다.",
+        "angle": "5억달러 공장→생산량 90% GM 공급 계약→GM 해지→중재와 인수가격 조정 가능성으로 전개한다.",
+        "why_now": "SEC 문서와 관계자 확인을 통해 22일 계약 해지와 분쟁이 처음 보도됐다.",
+        "verified_at": 1792729884,
+        "published_at": 1792705271,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
+            "note": "Reuters 본문에서 연 2천톤 공장 생산량의 90%를 GM이 사기로 했고 해지 뒤 VAC가 중재를 제기한 사실을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
+            "label": "원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "계약 해지 이유와 중재 세부 내용은 비공개다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "Reuters 본문에서 연 2천톤 공장 생산량의 90%를 GM이 사기로 했고 해지 뒤 VAC가 중재를 제기한 사실을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1장: ‘미국산 희토류 자석’ 5억달러 공장",
+            "2장: 물량 90%를 사기로 한 GM 계약",
+            "3장: GM 해지·중재 돌입, 탈중국 계획에 생긴 구멍"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "원문",
+            "url": "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/"
+          }
+        ],
+        "excerpt": "",
+        "context": "SEC 문서와 관계자 확인을 통해 22일 계약 해지와 분쟁이 처음 보도됐다.",
+        "fetched_at": 1792730205,
+        "parser_revision": 7
+      },
+      "curation_event_key": "gm-terminates-vac-us-rare-earth-magnet-deal-90-percent-20261022"
+    },
+    "14cd531002f5": {
+      "source": "Reuters",
+      "title": "체포 사망 의혹에 도로 막고 타이어 불태워…튀니지 세 도시서 경찰과 충돌",
+      "link": "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
+      "first_seen_at": 1792730205,
+      "last_seen_at": 1792730205,
+      "samples": [
+        {
+          "at": 1792730205,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "14cd531002f5",
+      "editorial": {
+        "title": "체포 사망 의혹에 도로 막고 타이어 불태워…튀니지 세 도시서 경찰과 충돌",
+        "category": "시사",
+        "url": "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "tunisia-three-city-police-protester-clashes-detention-deaths-20261022",
+        "why": "한 남성이 체포 뒤 숨졌다는 유족 주장으로 시작된 항의가 수도 외곽과 남부 두 도시까지 번졌고, 경찰은 최루탄으로 맞섰다.",
+        "angle": "체포 뒤 사망 의혹→불타는 타이어와 막힌 도로→돌을 던지는 시위대→세 도시 동시 충돌로 구성한다.",
+        "why_now": "Reuters가 22일 22시21분 UTC 수도 외곽과 남부 두 도시의 동시 충돌을 처음 묶어 공개했다.",
+        "verified_at": 1792729884,
+        "published_at": 1792707660,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
+            "note": "Reuters 본문에서 도로 봉쇄·타이어 방화·투석과 경찰의 최루탄 대응, 세 도시 동시 충돌을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
+            "label": "현장 보도",
+            "kind": "source"
+          }
+        ],
+        "caution": "사망 원인은 유족과 현지 보도 설명이 엇갈리며 수사 결론이 나오지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "체포 뒤 사망 의혹과 의료 대응 불만이 겹치며 수도 외곽·제베니아나·아가렙에서 경찰과 시위대가 충돌한 사실을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1장: 체포 뒤 숨졌다는 유족 주장과 경찰 책임 요구",
+            "2장: 막힌 도로·불타는 타이어·투석 장면",
+            "3장: 경찰 최루탄 대응과 세 도시로 번진 충돌"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "현장 보도",
+            "url": "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/"
+          }
+        ],
+        "excerpt": "",
+        "context": "Reuters가 22일 22시21분 UTC 수도 외곽과 남부 두 도시의 동시 충돌을 처음 묶어 공개했다.",
+        "fetched_at": 1792730205,
+        "parser_revision": 7
+      },
+      "curation_event_key": "tunisia-three-city-police-protester-clashes-detention-deaths-20261022"
+    },
+    "97eaaf9edcc9": {
+      "source": "Reuters·Science",
+      "title": "문진부터 검사 순서까지 정하는 AI…복잡한 진단에서 일반의 정확도의 두 배",
+      "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
+      "first_seen_at": 1792730205,
+      "last_seen_at": 1792730205,
+      "samples": [
+        {
+          "at": 1792730205,
+          "views": null,
+          "reactions": null,
+          "rank": 8,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "97eaaf9edcc9",
+      "editorial": {
+        "title": "문진부터 검사 순서까지 정하는 AI…복잡한 진단에서 일반의 정확도의 두 배",
+        "category": "시사",
+        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
+        "source": "Reuters·Science",
+        "kind": "article",
+        "event_key": "microsoft-sequential-diagnostic-ai-twice-general-physicians-20261023",
+        "why": "증상을 한꺼번에 넣는 AI가 아니라 무엇을 묻고 어떤 검사를 다음에 할지 스스로 순서를 짰고, 희귀·복잡 사례에서 일반의보다 두 배 넘게 정확했다.",
+        "angle": "환자 질문 선택→검사 주문→결과에 따라 다음 검사 결정→의사와 정확도·비용 비교 순서다.",
+        "why_now": "Reuters가 23일 00시34분 UTC Science 게재 연구와 실제 응급실 분류 후속시험 계획을 공개했다.",
+        "verified_at": 1792729884,
+        "published_at": 1792715685,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
+            "note": "Reuters 본문에서 300여 복잡 사례, 일반의 대비 두 배 이상 정확도, 순차 문진·검사 설계와 응급실 후속시험 계획을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
+            "label": "연구 보도",
+            "kind": "source"
+          }
+        ],
+        "caution": "300여 고난도 사례 중심 연구이며 실제 진료 현장 성능과 안전성은 추가 시험이 필요하다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "AI가 문진·검사 순서를 단계적으로 설계해 복잡 진단에서 일반의보다 두 배 넘게 정확했다는 연구 결과를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1장: ‘한꺼번에 답하기’ 대신 다음 질문을 고르는 AI",
+            "2장: 검사 결과마다 가설을 바꾸고 추가 검사를 주문하는 구조",
+            "3장: 300여 복잡 사례에서 일반의 대비 두 배 이상 정확도"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "연구 보도",
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/"
+          }
+        ],
+        "excerpt": "",
+        "context": "Reuters가 23일 00시34분 UTC Science 게재 연구와 실제 응급실 분류 후속시험 계획을 공개했다.",
+        "fetched_at": 1792730205,
+        "parser_revision": 7
+      },
+      "curation_event_key": "microsoft-sequential-diagnostic-ai-twice-general-physicians-20261023"
+    },
+    "585497f217b3": {
+      "source": "Reuters",
+      "title": "“골프 치다 손이 뻣뻣했다”…NFL 명예의 전당 폴크, 파킨슨병 공개",
+      "link": "https://www.reuters.com/sports/hall-famer-marshall-faulk-reveals-parkinsons-diagnosis--flm-2026-10-23/",
+      "first_seen_at": 1792730205,
+      "last_seen_at": 1792730205,
+      "samples": [
+        {
+          "at": 1792730205,
+          "views": null,
+          "reactions": null,
+          "rank": 9,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "585497f217b3",
+      "editorial": {
+        "title": "“골프 치다 손이 뻣뻣했다”…NFL 명예의 전당 폴크, 파킨슨병 공개",
+        "category": "메이저 스포츠",
+        "url": "https://www.reuters.com/sports/hall-famer-marshall-faulk-reveals-parkinsons-diagnosis--flm-2026-10-23/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "marshall-faulk-parkinsons-18-months-diagnosis-reveal-20261023",
+        "why": "NFL 레전드가 골프 중 손 뻣뻣함을 첫 신호로 느꼈고, 18개월간 치료해 일상을 유지해온 사실을 처음 공개했다.",
+        "angle": "골프 중 손 뻣뻣함→검사 권유→파킨슨병 진단→약물로 일상 유지와 조기검진 당부로 잇는다.",
+        "why_now": "Reuters가 23일 01시17분 UTC 폴크의 진단 공개와 18개월 치료 경과를 전했다.",
+        "verified_at": 1792729884,
+        "published_at": 1792718220,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/hall-famer-marshall-faulk-reveals-parkinsons-diagnosis--flm-2026-10-23/",
+            "note": "Reuters 본문에서 골프 중 손 뻣뻣함, 파킨슨병 진단, 약물 치료 뒤 일상 유지와 조기검진 당부를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/hall-famer-marshall-faulk-reveals-parkinsons-diagnosis--flm-2026-10-23/",
+            "label": "진단 공개 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "개인 진단 경험이며 일반적인 의학적 조언으로 확대하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-23",
+          "observation": "폴크가 골프 중 손 뻣뻣함을 계기로 진단받고 18개월간 치료 중이라는 본인 공개 내용을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1장: 골프 중 처음 느낀 손의 뻣뻣함",
+            "2장: 정기검진에서 추가 검사를 권유받아 파킨슨병 확인",
+            "3장: 약물 치료 뒤 일상 유지와 ‘증상을 미루지 말라’는 당부"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "진단 공개 원문",
+            "url": "https://www.reuters.com/sports/hall-famer-marshall-faulk-reveals-parkinsons-diagnosis--flm-2026-10-23/"
+          }
+        ],
+        "excerpt": "",
+        "context": "Reuters가 23일 01시17분 UTC 폴크의 진단 공개와 18개월 치료 경과를 전했다.",
+        "fetched_at": 1792730205,
+        "parser_revision": 7
+      },
+      "curation_event_key": "marshall-faulk-parkinsons-18-months-diagnosis-reveal-20261023"
+    },
+    "ef5d94b4add9": {
+      "source": "Reuters·HD현대",
+      "title": "HD현대, 미국에 새 조선소 짓는다…2029년 가동·일자리 3천개",
+      "link": "https://www.reuters.com/world/asia-pacific/hd-hyundai-build-us-shipyard-with-kiewit-create-3000-jobs-2026-10-23/",
+      "first_seen_at": 1792730205,
+      "last_seen_at": 1792730205,
+      "samples": [
+        {
+          "at": 1792730205,
+          "views": null,
+          "reactions": null,
+          "rank": 10,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "ef5d94b4add9",
+      "editorial": {
+        "title": "HD현대, 미국에 새 조선소 짓는다…2029년 가동·일자리 3천개",
+        "category": "시사",
+        "url": "https://www.reuters.com/world/asia-pacific/hd-hyundai-build-us-shipyard-with-kiewit-create-3000-jobs-2026-10-23/",
+        "source": "Reuters·HD현대",
+        "kind": "article",
+        "event_key": "hd-hyundai-kiewit-us-shipyard-3000-jobs-20261023",
+        "why": "한국 조선사가 미국 현지에 새 조선소를 짓고 상선뿐 아니라 군수지원선까지 보겠다고 공식화했다.",
+        "angle": "내년 착공→2029년 가동→미국 일자리 3천개→상선·군수지원선 두 시장 진입으로 구성한다.",
+        "why_now": "HD현대가 23일 Kiewit과의 조선소 건설 계약과 가동 시점·고용 규모를 발표했다.",
+        "verified_at": 1792729884,
+        "published_at": 1792716964,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/world/asia-pacific/hd-hyundai-build-us-shipyard-with-kiewit-create-3000-jobs-2026-10-23/",
+            "note": "Reuters 본문에서 2027년 착공, 2029년 가동, 미국 일자리 약 3천개와 상선·군수지원선 계획을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/world/asia-pacific/hd-hyundai-build-us-shipyard-with-kiewit-create-3000-jobs-2026-10-23/",
+            "label": "계약 발표",
+            "kind": "source"
+          }
+        ],
+        "caution": "부지·투자액 등 세부 조건은 기사에 공개되지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-23",
+          "observation": "HD현대와 Kiewit이 미국 조선소를 내년 착공해 2029년 가동하고 약 3천명을 고용한다는 발표를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1장: HD현대·Kiewit의 미국 조선소 건설 계약",
+            "2장: 2027년 착공·2029년 가동 일정",
+            "3장: 3천개 일자리와 상선·군수지원선 진출 계획"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "계약 발표",
+            "url": "https://www.reuters.com/world/asia-pacific/hd-hyundai-build-us-shipyard-with-kiewit-create-3000-jobs-2026-10-23/"
+          }
+        ],
+        "excerpt": "",
+        "context": "HD현대가 23일 Kiewit과의 조선소 건설 계약과 가동 시점·고용 규모를 발표했다.",
+        "fetched_at": 1792730205,
+        "parser_revision": 7
+      },
+      "curation_event_key": "hd-hyundai-kiewit-us-shipyard-3000-jobs-20261023"
+    },
     "cf404c6328b2": {
       "source": "Reuters",
       "title": "아자르 “막스가 페라리 탔으면 더 크게 이겼다”…르클레르 “말도 안 돼”",
@@ -160188,241 +160929,7 @@
         ],
         "checked_at": 1792220582
       }
-    },
-    "fe3cb72b2c35": {
-      "source": "네이버 뉴스",
-      "title": "빚내서 주식 샀다가 '날벼락'…폭락장에 반대매매 3천억원",
-      "link": "https://n.news.naver.com/article/422/0000916585",
-      "first_seen_at": 1792207060,
-      "last_seen_at": 1792228200,
-      "samples": [
-        {
-          "at": 1792207060,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        },
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 16,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "fe3cb72b2c35",
-      "detail": {
-        "excerpt": "개인투자자 (PG) [연합뉴스 제공] 코스피가 급락하면서 빚을 내 주식에 투자한 개인들의 강제청산 규모가 한 주 사이 3천억원에 달했습니다.…",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://imgnews.pstatic.net/image/422/2026/10/17/AKR20261017102905kEc_01_i_20261017103111825.jpg?type=w800"
-          }
-        ],
-        "published_at": "2026-10-17T10:29:11+09:00",
-        "checked_at": 1792207060
-      }
-    },
-    "ad0a52f7bc74": {
-      "source": "네이버 뉴스",
-      "title": "\"과자·냉동 식품 많이 먹는 중년, 무증상 뇌혈관 손상 위험\"",
-      "link": "https://n.news.naver.com/article/422/0000916528",
-      "first_seen_at": 1792207060,
-      "last_seen_at": 1792228200,
-      "samples": [
-        {
-          "at": 1792207060,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        },
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 20,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "ad0a52f7bc74",
-      "detail": {
-        "excerpt": "미국 슈퍼마켓에서 장을 보는 모습. [연합뉴스 자료사진] 초가공식품(UPF)을 많이 먹는 중년 성인은 체지방과 내장지방이 더…",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://imgnews.pstatic.net/image/422/2026/10/17/AKR20261016172104dNg_01_i_20261017100013626.jpg?type=w800"
-          }
-        ],
-        "published_at": "2026-10-17T07:02:12+09:00",
-        "checked_at": 1792207060
-      }
-    },
-    "260c8417e283": {
-      "source": "네이버 뉴스",
-      "title": "\"5,000년 만에 만진 유물\"...'고대 난파선' 튀르키예 바다서 발견",
-      "link": "https://n.news.naver.com/article/422/0000916532",
-      "first_seen_at": 1792207060,
-      "last_seen_at": 1792228200,
-      "samples": [
-        {
-          "at": 1792207060,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        },
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 19,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "260c8417e283",
-      "detail": {
-        "excerpt": "약 5,000년 전에 침몰한 것으로 추정된 난파선에서 나온 저장 용기 유물. [사진=ABC NEWS] 약 5,000년 전에…",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://imgnews.pstatic.net/image/422/2026/10/17/AKR20261015174147hmZ_01_i_20261017080214632.jpg?type=w800"
-          }
-        ],
-        "published_at": "2026-10-17T08:02:14+09:00",
-        "checked_at": 1792207060
-      }
-    },
-    "bdab602e6d28": {
-      "source": "네이버 뉴스",
-      "title": "\"유지비 싸니까 갈아탔는데\"…전기車 '수리비 청구서' 경악 [프라이스&]",
-      "link": "https://n.news.naver.com/article/015/0005343551",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792228200,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "bdab602e6d28"
-    },
-    "a5d2e340a68a": {
-      "source": "네이버 뉴스",
-      "title": "진짜보다 더 진짜 같네…'이젠 그 돈 주고 다이아반지 안 껴요' [안혜원의 명품의세계]",
-      "link": "https://n.news.naver.com/article/015/0005343566",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792228200,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "a5d2e340a68a"
-    },
-    "37e41c9f3241": {
-      "source": "네이버 뉴스",
-      "title": "경복궁에서 대체 왜…\"중국 문화를 알리자\" 또 선 넘었다",
-      "link": "https://n.news.naver.com/article/015/0005343559",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792228200,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "37e41c9f3241"
-    },
-    "099e53231c9e": {
-      "source": "네이버 뉴스",
-      "title": "화마에 스러진 ‘6살 딸 아빠’ 소방관…“가장 먼저 들어갔다”",
-      "link": "https://n.news.naver.com/article/020/0003755657",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792228200,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 9,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "099e53231c9e"
-    },
-    "45c26fb9cb8d": {
-      "source": "네이버 뉴스",
-      "title": "[속보] 추미애, ‘소방 재정 빨대‘ 발언 공식 사과…“폄훼 의도 없었다“",
-      "link": "https://n.news.naver.com/article/087/0001224292",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792228200,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 11,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "45c26fb9cb8d"
-    },
-    "8114b0d63c65": {
-      "source": "네이버 뉴스",
-      "title": "퇴근 20분 앞두고 화재 현장으로…순직 소방관 빈소에 동료·유족 오열",
-      "link": "https://n.news.naver.com/article/087/0001224279",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792228200,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 12,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "8114b0d63c65"
-    },
-    "da8113676415": {
-      "source": "네이버 뉴스",
-      "title": "남편과 불륜 의혹에 격분…80대 언니 폭행한 70대 여성 집행유예",
-      "link": "https://n.news.naver.com/article/087/0001224277",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792228200,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 13,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "da8113676415"
     }
   },
-  "updated_at": 1792718854
+  "updated_at": 1792730205
 }
