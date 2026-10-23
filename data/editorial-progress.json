@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": 1792722902,
+  "updated_at": 1792725885,
   "items": [
     {
       "event_key": "besiktas-umit-akdag-two-footed-red-after-equaliser-20261022",
@@ -10165,69 +10165,6 @@
   ],
   "attempts": [
     {
-      "hour_utc": "2026102111",
-      "at": 1792579007,
-      "status": "submitted",
-      "required": 10,
-      "ready": 10,
-      "missing": 0,
-      "unfinished": 6
-    },
-    {
-      "hour_utc": "2026102114",
-      "at": 1792582160,
-      "status": "researching",
-      "required": 10,
-      "ready": 0,
-      "missing": 10,
-      "unfinished": 6
-    },
-    {
-      "hour_utc": "2026102114",
-      "at": 1792582355,
-      "status": "researching",
-      "required": 10,
-      "ready": 7,
-      "missing": 3,
-      "unfinished": 7
-    },
-    {
-      "hour_utc": "2026102114",
-      "at": 1792582536,
-      "status": "research_incomplete",
-      "required": 10,
-      "ready": 7,
-      "missing": 3,
-      "unfinished": 7
-    },
-    {
-      "hour_utc": "2026102114",
-      "at": 1792585271,
-      "status": "researching",
-      "required": 10,
-      "ready": 7,
-      "missing": 3,
-      "unfinished": 7
-    },
-    {
-      "hour_utc": "2026102114",
-      "at": 1792585478,
-      "status": "researching",
-      "required": 10,
-      "ready": 7,
-      "missing": 3,
-      "unfinished": 8
-    },
-    {
-      "hour_utc": "2026102114",
-      "at": 1792585518,
-      "status": "research_incomplete",
-      "required": 10,
-      "ready": 7,
-      "missing": 3,
-      "unfinished": 8
-    },
-    {
       "hour_utc": "2026102114",
       "at": 1792589420,
       "status": "preparing",
@@ -10590,6 +10527,15 @@
     {
       "hour_utc": "2026102305",
       "at": 1792722902,
+      "status": "researching",
+      "required": 10,
+      "ready": 10,
+      "missing": 0,
+      "unfinished": 20
+    },
+    {
+      "hour_utc": "2026102305",
+      "at": 1792725885,
       "status": "researching",
       "required": 10,
       "ready": 10,
