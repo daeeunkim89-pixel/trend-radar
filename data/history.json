@@ -1,6 +1,756 @@
 {
   "version": 1,
   "items": {
+    "cf404c6328b2": {
+      "source": "Reuters",
+      "title": "아자르 “막스가 페라리 탔으면 더 크게 이겼다”…르클레르 “말도 안 돼”",
+      "link": "https://www.reuters.com/sports/formula1/hadjar-riles-leclerc-by-saying-verstappen-would-be-faster-ferrari-2026-10-22/",
+      "first_seen_at": 1792718854,
+      "last_seen_at": 1792718854,
+      "samples": [
+        {
+          "at": 1792718854,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "cf404c6328b2",
+      "editorial": {
+        "title": "아자르 “막스가 페라리 탔으면 더 크게 이겼다”…르클레르 “말도 안 돼”",
+        "category": "메이저 스포츠",
+        "url": "https://www.reuters.com/sports/formula1/hadjar-riles-leclerc-by-saying-verstappen-would-be-faster-ferrari-2026-10-22/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "hadjar-verstappen-ferrari-faster-leclerc-nonsense-20261022",
+        "why": "레드불 드라이버가 ‘싱가포르 최강차는 페라리’라며 막스를 넣으면 격차가 더 벌어진다고 했고, 실제 페라리로 2위한 르클레르는 바로 ‘말도 안 된다’고 잘랐다.",
+        "angle": "싱가포르 7.3초 차 결과→아자르의 ‘막스를 페라리에’ 도발→르클레르의 ‘서로 차도 모르잖아’ 반박→피아스트리의 데이터 설명으로 잇는다.",
+        "why_now": "Reuters가 22일 23시49분 UTC 미국 GP 기자회견의 새 발언과 즉각 반박을 공개했다.",
+        "verified_at": 1792718714,
+        "published_at": 1792712986,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/formula1/hadjar-riles-leclerc-by-saying-verstappen-would-be-faster-ferrari-2026-10-22/",
+            "note": "Reuters 본문에서 아자르의 ‘막스를 페라리에 넣으면 더 큰 격차로 이겼다’는 발언과 르클레르의 ‘nonsense’ 반박을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/formula1/hadjar-riles-leclerc-by-saying-verstappen-would-be-faster-ferrari-2026-10-22/",
+            "label": "기자회견 발언",
+            "kind": "source"
+          }
+        ],
+        "caution": "차량 성능 비교는 아자르의 개인 의견이며 실제 교차 탑승 데이터가 아니다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "아자르가 싱가포르에서 페라리가 가장 빨랐고 막스가 탔다면 더 크게 이겼을 것이라고 말하자, 르클레르가 서로 상대 차를 모른다며 ‘말도 안 된다’고 즉시 반박한 공개 발언을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1장: 싱가포르, 막스가 르클레르를 7.3초 차로 이긴 결과",
+            "2장: 아자르의 도발 ‘막스를 페라리에 넣었으면 격차가 더 컸다’",
+            "3장: 르클레르의 즉답 ‘서로 상대 차도 모르는데 말도 안 된다’"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "기자회견 발언",
+            "url": "https://www.reuters.com/sports/formula1/hadjar-riles-leclerc-by-saying-verstappen-would-be-faster-ferrari-2026-10-22/"
+          }
+        ],
+        "excerpt": "",
+        "context": "Reuters가 22일 23시49분 UTC 미국 GP 기자회견의 새 발언과 즉각 반박을 공개했다.",
+        "fetched_at": 1792718854,
+        "parser_revision": 7
+      },
+      "curation_event_key": "hadjar-verstappen-ferrari-faster-leclerc-nonsense-20261022"
+    },
+    "8fdef15c64fd": {
+      "source": "The Guardian·Reuters",
+      "title": "양발 들고 발목으로 착지…베식타스가 동점 직후 자멸한 황당 퇴장",
+      "link": "https://www.theguardian.com/football/live/2026/oct/22/lech-poznan-sunderland-juventus-rennes-bournemouth-milan-crystal-palace-celtic-europa-league-live",
+      "first_seen_at": 1792718854,
+      "last_seen_at": 1792718854,
+      "samples": [
+        {
+          "at": 1792718854,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "8fdef15c64fd",
+      "editorial": {
+        "title": "양발 들고 발목으로 착지…베식타스가 동점 직후 자멸한 황당 퇴장",
+        "category": "축구",
+        "url": "https://www.theguardian.com/football/live/2026/oct/22/lech-poznan-sunderland-juventus-rennes-bournemouth-milan-crystal-palace-celtic-europa-league-live",
+        "source": "The Guardian·Reuters",
+        "kind": "article",
+        "event_key": "besiktas-umit-akdag-two-footed-red-after-equaliser-20261022",
+        "why": "2-2로 흐름을 가져온 직후 위미트가 양발을 띄워 상대 발목에 착지했고, 퇴장 한 번으로 자기 팀의 기세를 끊었다.",
+        "angle": "동점 세리머니→양발이 뜬 태클 사진→쓰러진 스트란드 라르센→심판의 즉시 퇴장으로 잇는다.",
+        "why_now": "가디언 라이브가 22일 21시40분 BST의 태클·퇴장과 경기 종료 결과를 사진과 함께 공개했다.",
+        "verified_at": 1792718714,
+        "published_at": 1792682100,
+        "evidence": [
+          {
+            "url": "https://www.theguardian.com/football/live/2026/oct/22/lech-poznan-sunderland-juventus-rennes-bournemouth-milan-crystal-palace-celtic-europa-league-live",
+            "note": "라이브 본문 295~301행에서 위미트가 양발을 띄워 스트란드 라르센의 발목에 착지했고 즉시 퇴장된 장면과 사진을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://i.guim.co.uk/img/media/b4119d7df38d27a614f513b344a93bf4b9317c53/0_0_4919_3271/master/4919.jpg?crop=none&dpr=1&s=none&width=465",
+            "label": "퇴장 태클 사진",
+            "kind": "image"
+          },
+          {
+            "url": "https://www.theguardian.com/football/live/2026/oct/22/lech-poznan-sunderland-juventus-rennes-bournemouth-milan-crystal-palace-celtic-europa-league-live",
+            "label": "경기 라이브",
+            "kind": "source"
+          }
+        ],
+        "caution": "정지 사진과 경기 라이브로 확인했으며 부상 정도는 확정되지 않았다.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-22",
+          "observation": "동점 뒤 위미트가 양발을 띄워 상대 발목에 착지한 순간과 쓰러진 선수, 즉시 퇴장 결과를 사진·라이브에서 확인했다.",
+          "checked_materials": [
+            "https://i.guim.co.uk/img/media/b4119d7df38d27a614f513b344a93bf4b9317c53/0_0_4919_3271/master/4919.jpg?crop=none&dpr=1&s=none&width=465"
+          ],
+          "outline": [
+            "1장: 두 발이 공중에 뜬 채 발목으로 들어간 태클 사진",
+            "2장: 73분 동점으로 베식타스가 흐름을 잡은 직전 상황",
+            "3장: 78분 즉시 퇴장과 2-2 종료, 스스로 끊은 기세"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [
+          {
+            "url": "https://i.guim.co.uk/img/media/b4119d7df38d27a614f513b344a93bf4b9317c53/0_0_4919_3271/master/4919.jpg?crop=none&dpr=1&s=none&width=465",
+            "label": "퇴장 태클 사진",
+            "kind": "image"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "퇴장 태클 사진",
+            "url": "https://i.guim.co.uk/img/media/b4119d7df38d27a614f513b344a93bf4b9317c53/0_0_4919_3271/master/4919.jpg?crop=none&dpr=1&s=none&width=465"
+          },
+          {
+            "label": "경기 라이브",
+            "url": "https://www.theguardian.com/football/live/2026/oct/22/lech-poznan-sunderland-juventus-rennes-bournemouth-milan-crystal-palace-celtic-europa-league-live"
+          }
+        ],
+        "excerpt": "",
+        "context": "가디언 라이브가 22일 21시40분 BST의 태클·퇴장과 경기 종료 결과를 사진과 함께 공개했다.",
+        "fetched_at": 1792718854,
+        "parser_revision": 7
+      },
+      "curation_event_key": "besiktas-umit-akdag-two-footed-red-after-equaliser-20261022"
+    },
+    "9d6d8304ecf5": {
+      "source": "Reuters·Sky Sports",
+      "title": "브루노 “맨투맨 압박 안 한 건 스태프 결정”…캐릭 “안 뛰면 못 이겨”",
+      "link": "https://www.reuters.com/sports/soccer/rooney-labels-man-united-players-selfish-after-fernandes-criticism-2026-10-22/",
+      "first_seen_at": 1792718854,
+      "last_seen_at": 1792718854,
+      "samples": [
+        {
+          "at": 1792718854,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "9d6d8304ecf5",
+      "editorial": {
+        "title": "브루노 “맨투맨 압박 안 한 건 스태프 결정”…캐릭 “안 뛰면 못 이겨”",
+        "category": "축구",
+        "url": "https://www.reuters.com/sports/soccer/rooney-labels-man-united-players-selfish-after-fernandes-criticism-2026-10-22/",
+        "source": "Reuters·Sky Sports",
+        "kind": "article",
+        "event_key": "man-united-fernandes-carrick-tactics-public-clash-rooney-20261022",
+        "why": "코모전 1-4 패배 뒤 주장 브루노가 압박 전술 책임을 스태프 쪽으로 돌렸고, 감독 캐릭은 ‘안 뛰면 못 이긴다’고 공개 반박했다. 루니는 선수들을 ‘이기적이고 아기 같다’고 몰아붙였다.",
+        "angle": "1-4 패배→브루노의 ‘맨투맨 압박 안 한 건 스태프 결정’→캐릭의 ‘안 뛰면 못 이겨’→루니의 ‘이기적·아기 같다’ 반응으로 잇는다.",
+        "why_now": "Sky Sports가 22일 16시57분 BST에 양측 발언을 정리했고 Reuters가 19시01분 UTC에 루니의 새 반응까지 보도했다.",
+        "verified_at": 1792718714,
+        "published_at": 1792695660,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/soccer/rooney-labels-man-united-players-selfish-after-fernandes-criticism-2026-10-22/",
+            "note": "Reuters 본문에서 루니가 브루노의 전술 비판 뒤 맨유 선수들을 ‘selfish’하고 ‘like babies’라고 표현한 발언을 확인했다."
+          },
+          {
+            "url": "https://www.skysports.com/football/news/13602279/man-utd-boss-michael-carrick-and-captain-bruno-fernandes-clash-over-tactics-in-como-defeat-but-who-was-right",
+            "note": "Sky Sports 본문에서 브루노가 맨투맨 압박을 하지 않은 것이 스태프 결정이었다고 말했고, 캐릭은 전술과 무관하게 뛰어 돌아오지 않으면 이길 수 없다고 답한 대목을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/soccer/rooney-labels-man-united-players-selfish-after-fernandes-criticism-2026-10-22/",
+            "label": "루니 발언 원문",
+            "kind": "source"
+          },
+          {
+            "url": "https://www.skysports.com/football/news/13602279/man-utd-boss-michael-carrick-and-captain-bruno-fernandes-clash-over-tactics-in-como-defeat-but-who-was-right",
+            "label": "브루노·캐릭 발언",
+            "kind": "source"
+          }
+        ],
+        "caution": "공개 발언은 코모전 직후의 전술 책임 공방이다. 장기 불화나 구단 내분으로 단정하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "브루노가 압박 방식을 스태프 결정이라고 설명한 뒤 캐릭이 ‘안 뛰면 못 이긴다’고 말했고, 루니가 선수들을 ‘selfish’·‘like babies’라고 비판한 세 단계의 공개 발언을 본문에서 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1장: 코모에 1-4로 진 직후 주장 브루노의 ‘스태프 결정’ 발언",
+            "2장: 감독 캐릭의 ‘전술이 뭐든 안 뛰면 못 이긴다’ 공개 반박",
+            "3장: 루니가 선수들을 ‘이기적이고 아기 같다’고 평가한 후폭풍"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "루니 발언 원문",
+            "url": "https://www.reuters.com/sports/soccer/rooney-labels-man-united-players-selfish-after-fernandes-criticism-2026-10-22/"
+          },
+          {
+            "label": "브루노·캐릭 발언",
+            "url": "https://www.skysports.com/football/news/13602279/man-utd-boss-michael-carrick-and-captain-bruno-fernandes-clash-over-tactics-in-como-defeat-but-who-was-right"
+          }
+        ],
+        "excerpt": "",
+        "context": "Sky Sports가 22일 16시57분 BST에 양측 발언을 정리했고 Reuters가 19시01분 UTC에 루니의 새 반응까지 보도했다.",
+        "fetched_at": 1792718854,
+        "parser_revision": 7
+      },
+      "curation_event_key": "man-united-fernandes-carrick-tactics-public-clash-rooney-20261022"
+    },
+    "fd49d35738f4": {
+      "source": "Reuters·Truth Social",
+      "title": "국가 연주 중 몸 푼 르브론…트럼프 “미국을 무시했다, 사과하라”",
+      "link": "https://www.reuters.com/sports/trump-says-lebron-james-disrespected-us-during-national-anthem-2026-10-22/",
+      "first_seen_at": 1792718854,
+      "last_seen_at": 1792718854,
+      "samples": [
+        {
+          "at": 1792718854,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "fd49d35738f4",
+      "editorial": {
+        "title": "국가 연주 중 몸 푼 르브론…트럼프 “미국을 무시했다, 사과하라”",
+        "category": "시사",
+        "url": "https://www.reuters.com/sports/trump-says-lebron-james-disrespected-us-during-national-anthem-2026-10-22/",
+        "source": "Reuters·Truth Social",
+        "kind": "article",
+        "event_key": "trump-lebron-national-anthem-warmup-criticism-20261022",
+        "why": "르브론은 줄에 서서 팔을 흔들고 슛 동작으로 몸을 풀었고, 트럼프는 그 짧은 영상을 ‘국가 모독’으로 규정하며 공개 사과를 요구했다.",
+        "angle": "국가 연주 중 워밍업 동작→트럼프가 공유한 짧은 영상→‘미국을 무시했다’ 비난→르브론 측 무응답으로 구성한다.",
+        "why_now": "Reuters가 22일 16시40분 UTC 트럼프의 새 게시물과 영상 속 실제 동작을 확인해 보도했다.",
+        "verified_at": 1792718714,
+        "published_at": 1792687255,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/trump-says-lebron-james-disrespected-us-during-national-anthem-2026-10-22/",
+            "note": "Reuters 본문에서 트럼프가 공유한 영상 속 르브론의 팔 흔들기·슛 동작과 ‘사과하라’는 게시물, 76ers의 즉각 답변 부재를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/trump-says-lebron-james-disrespected-us-during-national-anthem-2026-10-22/",
+            "label": "발언·영상 설명",
+            "kind": "source"
+          }
+        ],
+        "caution": "Reuters 본문 설명으로 확인했으며 원본 영상의 연속 프레임은 직접 검토하지 않아 ‘고의적 모독’으로 단정하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "트럼프가 공유한 영상에서 르브론이 국가 연주 중 줄에 서서 팔을 흔들고 슛 동작을 했으며, 트럼프가 이를 미국에 대한 무시라고 규정해 사과를 요구한 사실을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1장: 국가 연주 중 줄에 선 르브론의 워밍업 동작",
+            "2장: 트럼프가 영상을 올리며 ‘미국을 무시했다’고 비난",
+            "3장: ‘전몰 영웅에게 사과하라’ 요구와 76ers의 즉각 무응답"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "발언·영상 설명",
+            "url": "https://www.reuters.com/sports/trump-says-lebron-james-disrespected-us-during-national-anthem-2026-10-22/"
+          }
+        ],
+        "excerpt": "",
+        "context": "Reuters가 22일 16시40분 UTC 트럼프의 새 게시물과 영상 속 실제 동작을 확인해 보도했다.",
+        "fetched_at": 1792718854,
+        "parser_revision": 7
+      },
+      "curation_event_key": "trump-lebron-national-anthem-warmup-criticism-20261022"
+    },
+    "f690deb6e2ef": {
+      "source": "The Guardian·Trump",
+      "title": "12살 때 헤어진 엄마를 상대 후보 광고에…트럼프 “이 광고 계속 써라”",
+      "link": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
+      "first_seen_at": 1792718854,
+      "last_seen_at": 1792718854,
+      "samples": [
+        {
+          "at": 1792718854,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "f690deb6e2ef",
+      "editorial": {
+        "title": "12살 때 헤어진 엄마를 상대 후보 광고에…트럼프 “이 광고 계속 써라”",
+        "category": "시사",
+        "url": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
+        "source": "The Guardian·Trump",
+        "kind": "article",
+        "event_key": "ramaswamy-acton-estranged-mother-ad-trump-double-down-20261022",
+        "why": "아동 성폭력 고발 뒤 양육권을 잃은 엄마가 수십 년 만에 딸을 ‘거짓말쟁이’라 공격하는 광고에 등장했고, 공화당 내부까지 철회를 요구했는데 트럼프는 오히려 계속 쓰라고 했다.",
+        "angle": "12살 때 가족과 분리된 배경→엄마가 상대편 광고에서 딸 공격→공화당 인사들의 철회 요구→트럼프의 ‘계속 써라’ 역공으로 전개한다.",
+        "why_now": "트럼프가 22일 오후 광고를 공개 지지한 데 이어 18시04분 EDT 기자 질문에서도 ‘공정한 공격 대상’이라고 거듭 옹호했다.",
+        "verified_at": 1792718714,
+        "published_at": 1792706640,
+        "evidence": [
+          {
+            "url": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
+            "note": "Guardian 라이브 본문에서 광고의 가족 배경, 공화당 인사들의 철회 요구, 트럼프의 ‘Vivek should keep it up’ 및 기자 문답을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
+            "label": "라이브 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "아동 성폭력 피해 관련 민감한 사안이므로 피해 세부를 자극적으로 재현하지 말고, 광고와 공개 발언의 정치적 책임에 초점을 둔다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "상대 후보의 소원한 어머니가 딸을 거짓말쟁이라고 부른 광고, 가족 분리 배경, 공화당 내부 비판, 트럼프가 광고를 계속 쓰라고 공개 옹호한 흐름을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1장: ‘엄마가 딸을 공격’하는 선거 광고의 첫 장면",
+            "2장: 후보가 12살 때 어머니와 헤어진 배경과 공화당 내부의 철회 요구",
+            "3장: 트럼프의 ‘계속 써라·공정한 공격 대상’ 발언으로 번진 역풍"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "라이브 원문",
+            "url": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates"
+          }
+        ],
+        "excerpt": "",
+        "context": "트럼프가 22일 오후 광고를 공개 지지한 데 이어 18시04분 EDT 기자 질문에서도 ‘공정한 공격 대상’이라고 거듭 옹호했다.",
+        "fetched_at": 1792718854,
+        "parser_revision": 7
+      },
+      "curation_event_key": "ramaswamy-acton-estranged-mother-ad-trump-double-down-20261022"
+    },
+    "f4a79307f3f1": {
+      "source": "Reuters",
+      "title": "해밀턴이 20세 선두 안토넬리에게 한 조언은 딱 두 단어 “천천히 가”",
+      "link": "https://www.reuters.com/sports/formula1/slow-down-hamilton-jokes-champion-in-waiting-antonelli-2026-10-22/",
+      "first_seen_at": 1792718854,
+      "last_seen_at": 1792718854,
+      "samples": [
+        {
+          "at": 1792718854,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "f4a79307f3f1",
+      "editorial": {
+        "title": "해밀턴이 20세 선두 안토넬리에게 한 조언은 딱 두 단어 “천천히 가”",
+        "category": "메이저 스포츠",
+        "url": "https://www.reuters.com/sports/formula1/slow-down-hamilton-jokes-champion-in-waiting-antonelli-2026-10-22/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "hamilton-slow-down-joke-antonelli-title-20261022",
+        "why": "역대 최연소 F1 챔피언을 눈앞에 둔 20세 후배에게 7회 챔피언 해밀턴이 웃으며 ‘Slow down!’이라고 한 뒤 곧바로 자랑스럽다고 응원했다.",
+        "angle": "20세 선두의 102점 차→해밀턴의 두 단어 농담→‘정말 자랑스럽다’는 진심→1953년 이후 첫 이탈리아 챔피언 가능성으로 간다.",
+        "why_now": "Reuters가 22일 22시43분 UTC에 미국 GP를 앞둔 해밀턴의 새 발언과 우승 조건을 보도했다.",
+        "verified_at": 1792718714,
+        "published_at": 1792708980,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/formula1/slow-down-hamilton-jokes-champion-in-waiting-antonelli-2026-10-22/",
+            "note": "Reuters 본문에서 해밀턴의 ‘Slow down!’ 농담, 안토넬리를 자랑스러워한다는 말, 102점 차 선두와 150점 잔여 조건을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/formula1/slow-down-hamilton-jokes-champion-in-waiting-antonelli-2026-10-22/",
+            "label": "해밀턴 발언 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "‘Slow down’은 경쟁을 포기하라는 뜻이 아니라 웃으며 건넨 농담이며, 우승은 아직 확정되지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "해밀턴이 20세 안토넬리에게 웃으며 ‘Slow down!’이라고 말한 뒤 자랑스럽다고 했고, 102점 차·150점 잔여의 우승 구도를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1장: 20세 안토넬리, 102점 차로 챔피언 눈앞",
+            "2장: 해밀턴이 건넨 두 단어 조언 ‘Slow down!’",
+            "3장: 농담 뒤 ‘정말 자랑스럽다’, 최연소·73년 만의 이탈리아 챔피언 가능성"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "해밀턴 발언 원문",
+            "url": "https://www.reuters.com/sports/formula1/slow-down-hamilton-jokes-champion-in-waiting-antonelli-2026-10-22/"
+          }
+        ],
+        "excerpt": "",
+        "context": "Reuters가 22일 22시43분 UTC에 미국 GP를 앞둔 해밀턴의 새 발언과 우승 조건을 보도했다.",
+        "fetched_at": 1792718854,
+        "parser_revision": 7
+      },
+      "curation_event_key": "hamilton-slow-down-joke-antonelli-title-20261022"
+    },
+    "fe9ae9780fe8": {
+      "source": "Reuters·캐나다군",
+      "title": "군 기지 사망 화재, 원인은 ‘실탄 수류탄 발사기 훈련’이었다",
+      "link": "https://www.reuters.com/world/deadly-fire-canada-military-base-was-caused-by-live-grenade-exercise-army-says-2026-10-22/",
+      "first_seen_at": 1792718854,
+      "last_seen_at": 1792718854,
+      "samples": [
+        {
+          "at": 1792718854,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "fe9ae9780fe8",
+      "editorial": {
+        "title": "군 기지 사망 화재, 원인은 ‘실탄 수류탄 발사기 훈련’이었다",
+        "category": "시사",
+        "url": "https://www.reuters.com/world/deadly-fire-canada-military-base-was-caused-by-live-grenade-exercise-army-says-2026-10-22/",
+        "source": "Reuters·캐나다군",
+        "kind": "article",
+        "event_key": "canada-wainwright-fire-live-grenade-exercise-cause-20261022",
+        "why": "최악의 평시 군 참사 중 하나가 일상적인 실탄 훈련에서 시작됐고 강풍이 불길을 기지 전체로 번지게 했다.",
+        "angle": "수류탄 사격장→강풍으로 번진 초원 화재→사망 4명·입원 27명→라트비아 파병 준비 중이었다는 순서다.",
+        "why_now": "캐나다군 고위 관계자가 22일 화재 원인을 처음 구체적으로 밝혔다.",
+        "verified_at": 1792718714,
+        "published_at": 1792706880,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/world/deadly-fire-canada-military-base-was-caused-by-live-grenade-exercise-army-says-2026-10-22/",
+            "note": "Reuters 본문에서 자동 수류탄 발사기 사격장의 정례 훈련이 발화점이었고 4명 사망·27명 입원 사실을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/world/deadly-fire-canada-military-base-was-caused-by-live-grenade-exercise-army-says-2026-10-22/",
+            "label": "원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "화재는 18일 발생했으며 이번 새 사실은 22일 공개된 원인 조사 결과다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "Reuters 본문에서 자동 수류탄 발사기 사격장의 정례 훈련이 발화점이었고 4명 사망·27명 입원 사실을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1장: ‘정례 실탄 훈련이 발화점’이라는 군 발표",
+            "2장: 강풍에 순식간에 번진 기지 초원 화재",
+            "3장: 사망 4명·입원 27명, 일부 위중"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "원문",
+            "url": "https://www.reuters.com/world/deadly-fire-canada-military-base-was-caused-by-live-grenade-exercise-army-says-2026-10-22/"
+          }
+        ],
+        "excerpt": "",
+        "context": "캐나다군 고위 관계자가 22일 화재 원인을 처음 구체적으로 밝혔다.",
+        "fetched_at": 1792718854,
+        "parser_revision": 7
+      },
+      "curation_event_key": "canada-wainwright-fire-live-grenade-exercise-cause-20261022"
+    },
+    "8f99892c47f4": {
+      "source": "Reuters",
+      "title": "트럼프 “머스크가 우크라이나 스타링크를 다시 켰다”…통화 여부는 답변 거부",
+      "link": "https://www.reuters.com/business/media-telecom/trump-asks-musk-lift-ukraine-starlink-restrictions-wsj-reports-2026-10-22/",
+      "first_seen_at": 1792718854,
+      "last_seen_at": 1792718854,
+      "samples": [
+        {
+          "at": 1792718854,
+          "views": null,
+          "reactions": null,
+          "rank": 8,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "8f99892c47f4",
+      "editorial": {
+        "title": "트럼프 “머스크가 우크라이나 스타링크를 다시 켰다”…통화 여부는 답변 거부",
+        "category": "시사",
+        "url": "https://www.reuters.com/business/media-telecom/trump-asks-musk-lift-ukraine-starlink-restrictions-wsj-reports-2026-10-22/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "trump-says-musk-restored-ukraine-starlink-declines-call-answer-20261022",
+        "why": "전장 통신 속도를 누가 제한하고 누가 풀었는지 묻는 질문에 트럼프가 결과만 인정하고 자신의 통화 여부는 끝내 숨겼다.",
+        "angle": "우크라이나 속도 제한→트럼프의 복구 요구 보도→‘그가 되돌렸다’ 발언→통화 여부 답변 거부로 구성한다.",
+        "why_now": "트럼프가 22일 기자들에게 복구 사실을 확인하는 새 발언을 했다.",
+        "verified_at": 1792718714,
+        "published_at": 1792694580,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/business/media-telecom/trump-asks-musk-lift-ukraine-starlink-restrictions-wsj-reports-2026-10-22/",
+            "note": "Reuters 본문에서 트럼프의 ‘he put it back’ 발언, 통화 여부 답변 거부, 우크라이나 측의 완전 복구 부인까지 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/business/media-telecom/trump-asks-musk-lift-ukraine-starlink-restrictions-wsj-reports-2026-10-22/",
+            "label": "원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "트럼프는 복구됐다고 했지만 우크라이나 측은 당시 완전한 기능 복구가 아니라고 밝혔다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "Reuters 본문에서 트럼프의 ‘he put it back’ 발언, 통화 여부 답변 거부, 우크라이나 측의 완전 복구 부인까지 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1장: ‘머스크가 다시 켰다’는 트럼프 직접 발언",
+            "2장: ‘직접 전화했나’ 질문에는 답변 거부",
+            "3장: 우크라이나는 속도 상향은 됐지만 완전 복구는 아니라고 반박"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "원문",
+            "url": "https://www.reuters.com/business/media-telecom/trump-asks-musk-lift-ukraine-starlink-restrictions-wsj-reports-2026-10-22/"
+          }
+        ],
+        "excerpt": "",
+        "context": "트럼프가 22일 기자들에게 복구 사실을 확인하는 새 발언을 했다.",
+        "fetched_at": 1792718854,
+        "parser_revision": 7
+      },
+      "curation_event_key": "trump-says-musk-restored-ukraine-starlink-declines-call-answer-20261022"
+    },
+    "1a9e6fe6a7d9": {
+      "source": "Reuters",
+      "title": "마두로 체포 뒤 첫 전국 시위…베네수엘라 시민들이 ‘선거 날짜’를 요구했다",
+      "link": "https://www.reuters.com/world/americas/venezuelans-call-elections-first-national-protest-nearly-two-years-2026-10-22/",
+      "first_seen_at": 1792718854,
+      "last_seen_at": 1792718854,
+      "samples": [
+        {
+          "at": 1792718854,
+          "views": null,
+          "reactions": null,
+          "rank": 9,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "1a9e6fe6a7d9",
+      "editorial": {
+        "title": "마두로 체포 뒤 첫 전국 시위…베네수엘라 시민들이 ‘선거 날짜’를 요구했다",
+        "category": "시사",
+        "url": "https://www.reuters.com/world/americas/venezuelans-call-elections-first-national-protest-nearly-two-years-2026-10-22/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "venezuela-first-national-opposition-protest-two-years-election-date-20261022",
+        "why": "미군의 마두로 체포 뒤 임시정부가 들어섰지만 선거 날짜가 없는 상태에서 2년 만의 전국 시위가 터졌다.",
+        "angle": "마두로 체포→임시정부와 미국의 선거 약속→날짜 미정→5개 도시 동시 시위와 2027년 요구로 잇는다.",
+        "why_now": "22일 카라카스 등에서 거의 2년 만의 첫 전국 야권 시위가 열렸다.",
+        "verified_at": 1792718714,
+        "published_at": 1792703940,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/world/americas/venezuelans-call-elections-first-national-protest-nearly-two-years-2026-10-22/",
+            "note": "Reuters 본문과 7장 사진 설명에서 카라카스·발렌시아 등 시위, 2027년 선거 요구, 여당 맞불 행진을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/world/americas/venezuelans-call-elections-first-national-protest-nearly-two-years-2026-10-22/",
+            "label": "원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "선거 일정은 아직 확정되지 않았고 정부와 야권의 정치적 주장이 충돌한다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "Reuters 본문과 7장 사진 설명에서 카라카스·발렌시아 등 시위, 2027년 선거 요구, 여당 맞불 행진을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1장: 거대한 국기를 든 카라카스 시위대",
+            "2장: 마두로 체포 뒤에도 선거 날짜는 공백",
+            "3장: 여당이 같은 집결지를 잡자 야권이 장소를 옮긴 장면"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "원문",
+            "url": "https://www.reuters.com/world/americas/venezuelans-call-elections-first-national-protest-nearly-two-years-2026-10-22/"
+          }
+        ],
+        "excerpt": "",
+        "context": "22일 카라카스 등에서 거의 2년 만의 첫 전국 야권 시위가 열렸다.",
+        "fetched_at": 1792718854,
+        "parser_revision": 7
+      },
+      "curation_event_key": "venezuela-first-national-opposition-protest-two-years-election-date-20261022"
+    },
+    "0faa977e1f15": {
+      "source": "Reuters·Pittsburgh Steelers",
+      "title": "파리 NFL 경기는 강행, 스틸러스 팬 술집 행사는 시위 때문에 취소",
+      "link": "https://www.reuters.com/sports/steelers-scrap-paris-fan-event-saints-game-proceeds-despite-protests-2026-10-22/",
+      "first_seen_at": 1792718854,
+      "last_seen_at": 1792718854,
+      "samples": [
+        {
+          "at": 1792718854,
+          "views": null,
+          "reactions": null,
+          "rank": 10,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "0faa977e1f15",
+      "editorial": {
+        "title": "파리 NFL 경기는 강행, 스틸러스 팬 술집 행사는 시위 때문에 취소",
+        "category": "메이저 스포츠",
+        "url": "https://www.reuters.com/sports/steelers-scrap-paris-fan-event-saints-game-proceeds-despite-protests-2026-10-22/",
+        "source": "Reuters·Pittsburgh Steelers",
+        "kind": "article",
+        "event_key": "steelers-cancel-paris-fan-bar-nfl-game-proceeds-protests-20261022",
+        "why": "리그 첫 파리 정규시즌 경기는 그대로 두면서도 시위 집결지 근처 팬 술집만 접는 ‘경기와 축제의 엇갈린 판단’이 화제다.",
+        "angle": "파리 첫 정규시즌→주말 대규모 시위 예고→바스티유 팬 행사 취소→스타드 드 프랑스 경기는 강행으로 정리한다.",
+        "why_now": "스틸러스가 22일 바스티유의 공식 팬 행사를 취소한다고 알렸다.",
+        "verified_at": 1792718714,
+        "published_at": 1792703640,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/steelers-scrap-paris-fan-event-saints-game-proceeds-despite-protests-2026-10-22/",
+            "note": "Reuters 본문에서 바스티유 팬 행사 취소, 일요일 세인츠전 유지, NFL과 미 국무부의 안전 협의를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/steelers-scrap-paris-fan-event-saints-game-proceeds-despite-protests-2026-10-22/",
+            "label": "원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "경기 개최 방침은 유지되지만 금요일 추가 보안 대책 발표가 예정돼 있다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "Reuters 본문에서 바스티유 팬 행사 취소, 일요일 세인츠전 유지, NFL과 미 국무부의 안전 협의를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1장: NFL 첫 파리 정규시즌 포스터와 기대감",
+            "2장: 시위 집결지 바스티유의 팬 술집만 취소",
+            "3장: 10km 떨어진 경기장은 그대로 진행"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "원문",
+            "url": "https://www.reuters.com/sports/steelers-scrap-paris-fan-event-saints-game-proceeds-despite-protests-2026-10-22/"
+          }
+        ],
+        "excerpt": "",
+        "context": "스틸러스가 22일 바스티유의 공식 팬 행사를 취소한다고 알렸다.",
+        "fetched_at": 1792718854,
+        "parser_revision": 7
+      },
+      "curation_event_key": "steelers-cancel-paris-fan-bar-nfl-game-proceeds-protests-20261022"
+    },
     "255542178696": {
       "source": "경향신문·고용노동부",
       "title": "“열심히 일한 기록 남기지 마” 지시 확인…쿠팡 산재 사건은 처벌 불가 결론",
@@ -159672,187 +160422,7 @@
       ],
       "parser_revision": 2,
       "story_id": "da8113676415"
-    },
-    "5b36030a17af": {
-      "source": "네이버 뉴스",
-      "title": "김민석, 추미애 ‘소방 재정 빨대‘ 발언 사과…“당 차원 재발 방지 조치”",
-      "link": "https://n.news.naver.com/article/087/0001224284",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792228200,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 14,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "5b36030a17af"
-    },
-    "898a6dc8037b": {
-      "source": "네이버 뉴스",
-      "title": "인천 상업시설 흉기 난동 최충락 자택 압수수색…경찰, 계획범행 여부 조사",
-      "link": "https://n.news.naver.com/article/087/0001224289",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792228200,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 15,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "898a6dc8037b"
-    },
-    "8a8d15b5be3f": {
-      "source": "네이버 뉴스",
-      "title": "입학통지서 받은 딸 남기고…김진석 소방위 순직",
-      "link": "https://n.news.naver.com/article/422/0000916665",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792228200,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 17,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "8a8d15b5be3f"
-    },
-    "f75af0aab44b": {
-      "source": "네이버 뉴스",
-      "title": "기부금 3천만 원 모아 성추행 교사 벌금 대납한 교사 2명 송치",
-      "link": "https://n.news.naver.com/article/422/0000916614",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792228200,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 18,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "f75af0aab44b"
-    },
-    "6cb7ce91261e": {
-      "source": "네이버 뉴스",
-      "title": "친한계 박정훈 \"장동혁, 민주당 쪽 출마하려 했었다\"",
-      "link": "https://n.news.naver.com/article/119/0003143803",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792228200,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 21,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "6cb7ce91261e"
-    },
-    "c2736ad18b94": {
-      "source": "네이버 뉴스",
-      "title": "\"개미들 다 털렸는데\"…코스피 반등 시나리오 나왔다",
-      "link": "https://n.news.naver.com/article/119/0003143769",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792228200,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 22,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "c2736ad18b94"
-    },
-    "46149c97605d": {
-      "source": "네이버 뉴스",
-      "title": "‘퇴근 20분 남기고 출동’ 초등 입학 딸 남겨둔 빈소 눈물바다",
-      "link": "https://n.news.naver.com/article/119/0003143835",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792228200,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 23,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "46149c97605d"
-    },
-    "72a7f1e8a226": {
-      "source": "네이버 뉴스",
-      "title": "국민의힘, 추미애 사과에 \"빈소는 민원실 아냐…또 한 번의 무례\"",
-      "link": "https://n.news.naver.com/article/119/0003143834",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792228200,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 24,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "72a7f1e8a226"
-    },
-    "2ae4d1c7854c": {
-      "source": "네이버 뉴스",
-      "title": "가수 흰 무대 끊은 김민석 대표 “정동영 고향이라 좋다”",
-      "link": "https://n.news.naver.com/article/119/0003143827",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792228200,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 25,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "2ae4d1c7854c"
-    },
-    "393d43ddd3b9": {
-      "source": "네이트 스포츠",
-      "title": "충격 이혼 발표! \"심사숙고 끝에 내린 결정\"…'이한범 동료' 얀 조머, 아내...",
-      "link": "https://news.nate.com/view/20261016n32859",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792228200,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 29,
-          "rank_kind": "nate_spo_interest_100"
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "393d43ddd3b9"
     }
   },
-  "updated_at": 1792675929
+  "updated_at": 1792718854
 }
