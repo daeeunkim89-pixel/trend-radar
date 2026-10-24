@@ -11,6 +11,7 @@ on:
       - "candidate_snapshot.py"
       - ".github/workflows/monitor.yml"
       - "quick_scan.py"
+      - "run_discovery.py"
 
 permissions:
   contents: write
