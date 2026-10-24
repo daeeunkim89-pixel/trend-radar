@@ -1,80 +1,29 @@
 {
-  "updated_at": 1792753201,
+  "updated_at": 1792807437,
   "status": "ok",
   "errors": {},
   "report": {
     "version": "btp-editorial-v10",
     "delivery": "sent",
     "messages": 1,
-    "stories": 10,
+    "stories": 0,
     "duplicates_excluded": 0,
     "ai": "chatgpt_web_research",
-    "missing": 0,
-    "target_met": true,
-    "shortfall_reason": "",
+    "missing": 10,
+    "target_met": false,
+    "shortfall_reason": "검증 완료 0개·목표 대비 10개 부족. 주요 축구·여돌 후보는 최초 공개 12시간 초과, 새 후보는 원본·영상·날짜 확인이 접근 제한으로 막혔습니다. 수집은 모듈 누락으로 실행되지 않았습니다. 전체 소재가 없다는 뜻은 아닙니다.",
     "requested_stories": 10,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026102311",
+    "hour_utc": "2026102402",
     "category_counts": {
-      "시사": 7,
-      "축구": 2,
-      "메이저 스포츠": 1,
+      "시사": 0,
+      "축구": 0,
+      "메이저 스포츠": 0,
       "아이돌": 0
     },
-    "research_queries": 40,
-    "opened_sources": 20,
-    "picks": [
-      {
-        "title": "아침부터 안 보인 '부캉이'…800m 떨어진 북항 바다엔 10×30m 기름띠",
-        "url": "https://www.yna.co.kr/amp/view/AKR20261023093451051",
-        "event_key": "bukkang-shark-missing-busan-oil-spill-20261023"
-      },
-      {
-        "title": "인천공항 테이블에서 빵 봉지에 불…시민이 소화기로 끄고 남성 붙잡아",
-        "url": "https://www.yna.co.kr/view/AKR20261023078600065",
-        "event_key": "incheon-airport-bread-bag-fire-citizen-extinguishes-20261023"
-      },
-      {
-        "title": "종부세 1000만원이 10만원 미만으로…인터넷 검색해 찾은 명의신탁 수법",
-        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261023_0003838480",
-        "event_key": "real-estate-nominee-trust-tax-10m-to-under-100k-20261023"
-      },
-      {
-        "title": "파주FC, 10월 월급 50~70%만 지급…선수협은 연맹 관리까지 겨눴다",
-        "url": "https://www4.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03007766645615872",
-        "event_key": "paju-frontier-fc-october-wage-50-70-percent-20261023"
-      },
-      {
-        "title": "관중 13% 늘 때 야구장 쓰레기는 24%↑…처리비만 45억원",
-        "url": "https://www.yna.co.kr/view/AKR20261022196500007",
-        "event_key": "kbo-stadium-waste-2931t-cost-45b-20261023"
-      },
-      {
-        "title": "기성용, 의혹 제기 후배 상대 2심도 승소…1억원 배상 판단 유지",
-        "url": "https://news.tf.co.kr/read/life/2380135.htm",
-        "event_key": "ki-sung-yueng-civil-appeal-100m-damages-20261023"
-      },
-      {
-        "title": "두 발 잃고 491일 버틴 우크라이나 병사…대형 드론이 15㎞ 날아 구조",
-        "url": "https://www.reuters.com/world/he-amputated-his-own-foot-survive-giant-drone-then-flew-him-out-2026-10-23/",
-        "event_key": "ukraine-soldier-491-days-giant-drone-rescue-20261023"
-      },
-      {
-        "title": "'살인 검색' 근거라던 AI 질문 2개…징역 20년 구형 대신 5년 선고",
-        "url": "https://www.yna.co.kr/view/AKR20261023084000004",
-        "event_key": "granddaughter-grandfather-injury-resulting-death-five-year-sentence-20261023"
-      },
-      {
-        "title": "미 연방정부, 미네소타 총격 증거 공유 또 중단…주 당국이 법원에 공개",
-        "url": "https://apnews.com/article/d18378b40675bb107f9c2d519c2b9853",
-        "event_key": "minnesota-good-pretti-federal-evidence-sharing-halted-20261023"
-      },
-      {
-        "title": "인도 경기는 4개월 만에 가장 빨라졌는데…채용은 사실상 멈췄다",
-        "url": "https://www.reuters.com/world/india/india-october-business-growth-hits-4-month-high-hiring-stalls-pmi-shows-2026-10-23/",
-        "event_key": "india-october-pmi-growth-hiring-stalls-20261023"
-      }
-    ]
+    "research_queries": 6,
+    "opened_sources": 9,
+    "picks": []
   }
 }
