@@ -1,9 +1,6 @@
 name: Trend Radar delivery request
 
 on:
-  schedule:
-    # One scheduled delivery check; explicit current-hour submissions still trigger immediately.
-    - cron: '0 2,5,8,11,14,23 * * *'
   push:
     branches: [main]
     paths: [data/report-request.json]
