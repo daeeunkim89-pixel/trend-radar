@@ -1,6 +1,801 @@
 {
   "version": 1,
   "items": {
+    "9dc2295064b5": {
+      "source": "SBS",
+      "title": "정교유착 공격받던 국힘,이번엔 민주당에 “신천지 조사 특검하자”",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813073",
+      "first_seen_at": 1792831444,
+      "last_seen_at": 1792840009,
+      "samples": [
+        {
+          "at": 1792831444,
+          "views": null,
+          "reactions": null,
+          "rank": 11,
+          "rank_kind": null
+        },
+        {
+          "at": 1792840009,
+          "views": null,
+          "reactions": null,
+          "rank": 10,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "9dc2295064b5",
+      "editorial": {
+        "title": "정교유착 공격받던 국힘,이번엔 민주당에 “신천지 조사 특검하자”",
+        "category": "시사",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813073",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "ppp-demands-special-counsel-democratic-party-shincheonji-disclosure-20261024",
+        "why": "정치 대화를 나누는 친구에게 보낼 공수 역전이다. 신천지 의혹 공세를 받던 야당이 여당의 자체 조사 결과 공개 공방을 겨냥해 특검을 요구했다.",
+        "angle": "상대에게 요구하던 특검을 이번엔 자신들에게 요구받았다",
+        "why_now": "원본 최초 공개는2026-10-24로 확인. 사건 발생일과 새 보도·발언 공개일은 구분했다.",
+        "verified_at": 1792839752,
+        "published_at": 1792819001,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813073",
+            "note": "본문에서24일 박성훈·조용술 대변인의 논평,민주당 자체 조사 결과 공개 요구,민주당이 좋아하는 특검을 하자는 역공을 확인. 유착 의혹 자체의 사실 확정은 없다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813073",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "실제 회의 고성 장면 미시청. 야당의 주장과 확인된 행위를 구분하고 신천지 유착을 사실로 단정하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-24",
+          "observation": "본문에서24일 박성훈·조용술 대변인의 논평,민주당 자체 조사 결과 공개 요구,민주당이 좋아하는 특검을 하자는 역공을 확인. 유착 의혹 자체의 사실 확정은 없다.",
+          "checked_materials": [],
+          "outline": [
+            "여당 자체 조사 결과 공개를 요구한 야당 논평",
+            "민주당이 좋아하는 특검이라는 조용술의 되받아치기",
+            "확인된 논평과 미확정 유착 의혹을 분리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813073"
+          }
+        ],
+        "excerpt": "",
+        "context": "원본 최초 공개는2026-10-24로 확인. 사건 발생일과 새 보도·발언 공개일은 구분했다.",
+        "fetched_at": 1792840009,
+        "parser_revision": 7
+      },
+      "curation_event_key": "ppp-demands-special-counsel-democratic-party-shincheonji-disclosure-20261024"
+    },
+    "a64f92de7f99": {
+      "source": "티브이데일리·MBC",
+      "title": "아이스크림 가격 놀리자 정준하 “한 컵7500원!”…유재석은 “우리 보물”",
+      "link": "https://news.nate.com/view/20261024n10880",
+      "first_seen_at": 1792840009,
+      "last_seen_at": 1792840009,
+      "samples": [
+        {
+          "at": 1792840009,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "a64f92de7f99",
+      "editorial": {
+        "title": "아이스크림 가격 놀리자 정준하 “한 컵7500원!”…유재석은 “우리 보물”",
+        "category": "시사",
+        "url": "https://news.nate.com/view/20261024n10880",
+        "source": "티브이데일리·MBC",
+        "kind": "article",
+        "event_key": "junha-icecream-price-joke-hangout-20261024",
+        "why": "정준하가 가격 논란을 콩트 소재로 받아치는 장면을 예능 친구에게 보내기 좋다. 곽범의 찬 거 비싸게 팔 관상 농담에7500원을 외치고 유재석이 받아준다.",
+        "angle": "가격 놀림→7500원 외침→유재석의 보물 선언",
+        "why_now": "원본 최초 공개는2026-10-24로 확인. 정확한 시분은 출처에 미표기이며24일 재기사 시각으로 바꾸지 않았다.",
+        "verified_at": 1792839564,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://news.nate.com/view/20261024n10880",
+            "note": "방송 캡처4개 연속 화면에서 곽범의 찬 거 비싸게 팔 관상 자막,정준하의7500원 외침,유재석의 보물 자막을 직접 확인. 본문에서 전후 콩트 맥락 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/tv/2026/10/24/241806806.jpg",
+            "label": "실제 확인한 방송 캡처",
+            "kind": "image"
+          },
+          {
+            "url": "https://news.nate.com/view/20261024n10880",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "실제 영상 미시청. 기사 속 연속 방송 캡처를 확인. 가격 정책 변경은 확정이 아니라 방송상 농담.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-24",
+          "observation": "방송 캡처4개 연속 화면에서 곽범의 찬 거 비싸게 팔 관상 자막,정준하의7500원 외침,유재석의 보물 자막을 직접 확인. 본문에서 전후 콩트 맥락 확인.",
+          "checked_materials": [
+            "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/tv/2026/10/24/241806806.jpg"
+          ],
+          "outline": [
+            "곽범의 아이스크림 가격 농담 자막",
+            "정준하가7500원을 반복해서 외치는 컷",
+            "유재석의 우리 보물 반응과 정준하의 가격 인하 농담"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [
+          {
+            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/tv/2026/10/24/241806806.jpg",
+            "label": "실제 확인한 방송 캡처",
+            "kind": "image"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "실제 확인한 방송 캡처",
+            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/tv/2026/10/24/241806806.jpg"
+          },
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://news.nate.com/view/20261024n10880"
+          }
+        ],
+        "excerpt": "",
+        "context": "원본 최초 공개는2026-10-24로 확인. 정확한 시분은 출처에 미표기이며24일 재기사 시각으로 바꾸지 않았다.",
+        "fetched_at": 1792840009,
+        "parser_revision": 7
+      },
+      "curation_event_key": "junha-icecream-price-joke-hangout-20261024"
+    },
+    "a33da3a6224d": {
+      "source": "스포츠조선·일루황",
+      "title": "벤치클리어링 안 나가면100만원? 황재균 “화장실에서도 뛰어나가야”",
+      "link": "https://www.sportschosun.com/entertainment/2026-10-24/202610240100150920009826",
+      "first_seen_at": 1792840009,
+      "last_seen_at": 1792840009,
+      "samples": [
+        {
+          "at": 1792840009,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "a33da3a6224d",
+      "editorial": {
+        "title": "벤치클리어링 안 나가면100만원? 황재균 “화장실에서도 뛰어나가야”",
+        "category": "메이저 스포츠",
+        "url": "https://www.sportschosun.com/entertainment/2026-10-24/202610240100150920009826",
+        "source": "스포츠조선·일루황",
+        "kind": "article",
+        "event_key": "hwang-jae-gyun-bench-clearing-fine-anecdote-20261023",
+        "why": "야구팬에게 보낼 싸움 뒤의 뜻밖의 돈 이야기다. 황재균은 벤치를 비우지 않으면 팀 벌금이 있었다며100만원짜리 볼일을 볼 수 없다고 농담했다.",
+        "angle": "안 싸우려고 벤치에 남아도 벌금이라는 역설",
+        "why_now": "원본 최초 공개는2026-10-23로 확인. 정확한 시분은 출처에 미표기이며24일 재기사 시각으로 바꾸지 않았다.",
+        "verified_at": 1792839564,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.sportschosun.com/entertainment/2026-10-24/202610240100150920009826",
+            "note": "직접 확인한 방송 캡처에 황재균과 아마 우리 팀 벌금이100만 원이었나 자막이 있다. 본문에서 화장실 농담과 일부러 천천히 걸어 잡히길 기다렸다는 회고를 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.sportschosun.com/article/html/2026/10/24/2026102401001509200098261_w.jpg",
+            "label": "실제 확인한 방송 캡처",
+            "kind": "image"
+          },
+          {
+            "url": "https://www.sportschosun.com/entertainment/2026-10-24/202610240100150920009826",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "23일 원영상 공개,정확한 업로드 시분은 기사 미표기.100만원은 본인의 회상이며KBO 공통 규정으로 쓰지 않는다.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-23",
+          "observation": "직접 확인한 방송 캡처에 황재균과 아마 우리 팀 벌금이100만 원이었나 자막이 있다. 본문에서 화장실 농담과 일부러 천천히 걸어 잡히길 기다렸다는 회고를 확인.",
+          "checked_materials": [
+            "https://www.sportschosun.com/article/html/2026/10/24/2026102401001509200098261_w.jpg"
+          ],
+          "outline": [
+            "우리 팀100만원이었나라는 원래의 불확실한 표현",
+            "화장실에서도 나와야 한다는 농담",
+            "천천히 걸어 누가 잡아주길 기다렸다는 본인 회고"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [
+          {
+            "url": "https://www.sportschosun.com/article/html/2026/10/24/2026102401001509200098261_w.jpg",
+            "label": "실제 확인한 방송 캡처",
+            "kind": "image"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "실제 확인한 방송 캡처",
+            "url": "https://www.sportschosun.com/article/html/2026/10/24/2026102401001509200098261_w.jpg"
+          },
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://www.sportschosun.com/entertainment/2026-10-24/202610240100150920009826"
+          }
+        ],
+        "excerpt": "",
+        "context": "원본 최초 공개는2026-10-23로 확인. 정확한 시분은 출처에 미표기이며24일 재기사 시각으로 바꾸지 않았다.",
+        "fetched_at": 1792840009,
+        "parser_revision": 7
+      },
+      "curation_event_key": "hwang-jae-gyun-bench-clearing-fine-anecdote-20261023"
+    },
+    "9b851b779250": {
+      "source": "엑스포츠뉴스·MBN",
+      "title": "리즈 엄마와 동갑인 전현무…졸업식 호텔뷔페 얘기엔 “좀 사셨네”",
+      "link": "https://www.xportsnews.com/article/2210899",
+      "first_seen_at": 1792840009,
+      "last_seen_at": 1792840009,
+      "samples": [
+        {
+          "at": 1792840009,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "9b851b779250",
+      "editorial": {
+        "title": "리즈 엄마와 동갑인 전현무…졸업식 호텔뷔페 얘기엔 “좀 사셨네”",
+        "category": "아이돌",
+        "url": "https://www.xportsnews.com/article/2210899",
+        "source": "엑스포츠뉴스·MBN",
+        "kind": "article",
+        "event_key": "ive-liz-mother-same-age-jun-hyun-moo-call-20261023",
+        "why": "아이브 팬과 전현무 예능을 보는 친구에게 보낼 세대 반전이다. 리즈 엄마와1977년생 동갑임을 확인한 전현무가 졸업식 메뉴 얘기로 자연스럽게 동창 대화에 들어간다.",
+        "angle": "리즈 엄마와 동갑 인사→호텔뷔페 답에 좀 사셨네",
+        "why_now": "원본 최초 공개는2026-10-23로 확인. 사건 발생일과 새 보도·발언 공개일은 구분했다.",
+        "verified_at": 1792839619,
+        "published_at": 1792757400,
+        "evidence": [
+          {
+            "url": "https://www.xportsnews.com/article/2210899",
+            "note": "본문에서77년생 어머니,전현무의 우리 동갑이에요 인사,호텔뷔페 답에 좀 사셨네 농담을 확인. 사진에서는 리즈의 전화 연결과 어머니 발언 자막만 시각 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://image.xportsnews.com/contents/images/upload/article/2026/1024/1792773071464438.webp",
+            "label": "실제 확인한 방송 캡처",
+            "kind": "image"
+          },
+          {
+            "url": "https://www.xportsnews.com/article/2210899",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "21:10은23일 방송 시작 시각이며 해당 대화의 정확한 방송 분초는 미표기. 영상 미시청,대화는 본문 확인.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-23",
+          "observation": "본문에서77년생 어머니,전현무의 우리 동갑이에요 인사,호텔뷔페 답에 좀 사셨네 농담을 확인. 사진에서는 리즈의 전화 연결과 어머니 발언 자막만 시각 확인.",
+          "checked_materials": [
+            "https://image.xportsnews.com/contents/images/upload/article/2026/1024/1792773071464438.webp"
+          ],
+          "outline": [
+            "리즈가 어머니77년생이라고 답하는 대목",
+            "동갑 인사 뒤 졸업식 메뉴 질문",
+            "호텔뷔페 답에 좀 사셨네라고 받는 대화"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [
+          {
+            "url": "https://image.xportsnews.com/contents/images/upload/article/2026/1024/1792773071464438.webp",
+            "label": "실제 확인한 방송 캡처",
+            "kind": "image"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "실제 확인한 방송 캡처",
+            "url": "https://image.xportsnews.com/contents/images/upload/article/2026/1024/1792773071464438.webp"
+          },
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://www.xportsnews.com/article/2210899"
+          }
+        ],
+        "excerpt": "",
+        "context": "원본 최초 공개는2026-10-23로 확인. 사건 발생일과 새 보도·발언 공개일은 구분했다.",
+        "fetched_at": 1792840009,
+        "parser_revision": 7
+      },
+      "curation_event_key": "ive-liz-mother-same-age-jun-hyun-moo-call-20261023"
+    },
+    "20634322686b": {
+      "source": "JTBC",
+      "title": "AI로99점 받았다고 자랑했다가…600명 전원 대면 재시험",
+      "link": "https://v.daum.net/v/20261023195318627",
+      "first_seen_at": 1792840009,
+      "last_seen_at": 1792840009,
+      "samples": [
+        {
+          "at": 1792840009,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "20634322686b",
+      "editorial": {
+        "title": "AI로99점 받았다고 자랑했다가…600명 전원 대면 재시험",
+        "category": "시사",
+        "url": "https://v.daum.net/v/20261023195318627",
+        "source": "JTBC",
+        "kind": "article",
+        "event_key": "konkuk-ai-cheating-600-student-retest-20261023",
+        "why": "대학생 친구에게 보낼 자랑의 역풍이다. AI로99점을 받았다는 익명 후기가 나온 뒤 교수는 시험 공정성이 무너졌다며600명 수강 과목을 전원 다시 보게 했다.",
+        "angle": "한 사람의99점 자랑 뒤600명이 다시 치르는 시험",
+        "why_now": "원본 최초 공개는2026-10-23로 확인. 사건 발생일과 새 보도·발언 공개일은 구분했다.",
+        "verified_at": 1792839636,
+        "published_at": 1792752798,
+        "evidence": [
+          {
+            "url": "https://v.daum.net/v/20261023195318627",
+            "note": "원 취재 대본에서19일 온라인 시험,22일 교수의 무효·대면 재시험 공지,23일 단독 보도를 확인. 학교의 부정행위자 특정시 학칙 대응 입장도 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://v.daum.net/v/20261023195318627",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "600명 전원이 부정행위를 한 것은 아니다. 익명 후기의99점은 작성자 주장. 시험19일·공지22일·보도23일 구분.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-23",
+          "observation": "원 취재 대본에서19일 온라인 시험,22일 교수의 무효·대면 재시험 공지,23일 단독 보도를 확인. 학교의 부정행위자 특정시 학칙 대응 입장도 확인.",
+          "checked_materials": [],
+          "outline": [
+            "문제 캡처와 음성 답변을 썼다는 익명 후기",
+            "정당하게 시험 본 학생들이 바보여서 안 쓴 게 아니라는 교수 경고",
+            "600명 대면 재시험과 학교의 조사 입장"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://v.daum.net/v/20261023195318627"
+          }
+        ],
+        "excerpt": "",
+        "context": "원본 최초 공개는2026-10-23로 확인. 사건 발생일과 새 보도·발언 공개일은 구분했다.",
+        "fetched_at": 1792840009,
+        "parser_revision": 7
+      },
+      "curation_event_key": "konkuk-ai-cheating-600-student-retest-20261023"
+    },
+    "d4154f5ff6b9": {
+      "source": "TV조선",
+      "title": "서울서 사고 낸 미국 외교관, 음주측정 거부…경찰 “측정 못 했다”",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/10/23/2026102390166.html",
+      "first_seen_at": 1792840009,
+      "last_seen_at": 1792840009,
+      "samples": [
+        {
+          "at": 1792840009,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "d4154f5ff6b9",
+      "editorial": {
+        "title": "서울서 사고 낸 미국 외교관, 음주측정 거부…경찰 “측정 못 했다”",
+        "category": "시사",
+        "url": "https://news.tvchosun.com/site/data/html_dir/2026/10/23/2026102390166.html",
+        "source": "TV조선",
+        "kind": "article",
+        "event_key": "us-diplomat-namsan-crash-breath-test-refusal-20261023",
+        "why": "운전하는 친구에게 보낼 면책특권의 현실이다. 도심 충돌 뒤 외교관 신분을 이유로 측정을 거부하자 현장 경찰도 측정을 못 했다고 밝혔다.",
+        "angle": "사고는 났는데 음주 여부는 측정조차 못 했다",
+        "why_now": "원본 최초 공개는2026-10-22로 확인. 사건 발생일과 새 보도·발언 공개일은 구분했다.",
+        "verified_at": 1792839636,
+        "published_at": 1792734968,
+        "evidence": [
+          {
+            "url": "https://news.tvchosun.com/site/data/html_dir/2026/10/23/2026102390166.html",
+            "note": "단독 원문에서22일15:47 남산터널 진입로SUV 충돌,남대문경찰서의 외교관 신분을 이유로 음주측정 거부해 측정하지 못했다는 답변을 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.tvchosun.com/site/data/html_dir/2026/10/23/2026102390166.html",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "음주운전이 확인된 사건으로 표현하지 않는다.22일 사고와23일 최초 취재 보도 구분. 영상 미시청.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "단독 원문에서22일15:47 남산터널 진입로SUV 충돌,남대문경찰서의 외교관 신분을 이유로 음주측정 거부해 측정하지 못했다는 답변을 확인.",
+          "checked_materials": [],
+          "outline": [
+            "골목에서 나온SUV와 직진 차량의 충돌 설명",
+            "외교관 신분을 이유로 한 음주측정 거부",
+            "측정하지 못했다는 경찰 답변과 남은 사실 확인"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://news.tvchosun.com/site/data/html_dir/2026/10/23/2026102390166.html"
+          }
+        ],
+        "excerpt": "",
+        "context": "원본 최초 공개는2026-10-22로 확인. 사건 발생일과 새 보도·발언 공개일은 구분했다.",
+        "fetched_at": 1792840009,
+        "parser_revision": 7
+      },
+      "curation_event_key": "us-diplomat-namsan-crash-breath-test-refusal-20261023"
+    },
+    "1d7c29028549": {
+      "source": "TV리포트",
+      "title": "슈퍼카42대 공방에 황희찬 측 “원만 합의 녹취 있다…이후 돌변”",
+      "link": "https://news.nate.com/view/20261023n16144",
+      "first_seen_at": 1792840009,
+      "last_seen_at": 1792840009,
+      "samples": [
+        {
+          "at": 1792840009,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "1d7c29028549",
+      "editorial": {
+        "title": "슈퍼카42대 공방에 황희찬 측 “원만 합의 녹취 있다…이후 돌변”",
+        "category": "축구",
+        "url": "https://news.nate.com/view/20261023n16144",
+        "source": "TV리포트",
+        "kind": "article",
+        "event_key": "hwang-hee-chan-car-platform-recording-rebuttal-20261023",
+        "why": "축구팬에게 보낼 계약 공방의 반박 카드다.42대 지원·홍보 불이행이라는 업체 주장에 황희찬 측은 합의 당시 녹취와 반대 자료를 보유했다고 맞섰다.",
+        "angle": "업체는 홍보 안 했다,선수 측은 합의 때 녹취 있다",
+        "why_now": "원본 최초 공개는2026-10-23로 확인. 사건 발생일과 새 보도·발언 공개일은 구분했다.",
+        "verified_at": 1792839564,
+        "published_at": 1792727880,
+        "evidence": [
+          {
+            "url": "https://news.nate.com/view/20261023n16144",
+            "note": "본문에서 소속사의 공식 입장 인용,계약 종료 협의 녹취 보유 주장,2026년2월24일 고소장 접수 주장,업체의42대 지원·홍보 불이행 주장을 함께 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.nate.com/view/20261023n16144",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "녹취 원음 미청취. 사기·무혐의 어느 쪽도 확정하지 않는다. 새 반박 입장은23일 보도이며 계약 종료는2025년10월.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-23",
+          "observation": "본문에서 소속사의 공식 입장 인용,계약 종료 협의 녹취 보유 주장,2026년2월24일 고소장 접수 주장,업체의42대 지원·홍보 불이행 주장을 함께 확인.",
+          "checked_materials": [],
+          "outline": [
+            "42대 지원했는데 홍보 없었다는 업체 주장",
+            "계약 종료 때 원만 합의·감사 표시가 있었다는 선수 측 반박",
+            "녹취 보유 주장과 공식 블로그 순차 공개 예고"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://news.nate.com/view/20261023n16144"
+          }
+        ],
+        "excerpt": "",
+        "context": "원본 최초 공개는2026-10-23로 확인. 사건 발생일과 새 보도·발언 공개일은 구분했다.",
+        "fetched_at": 1792840009,
+        "parser_revision": 7
+      },
+      "curation_event_key": "hwang-hee-chan-car-platform-recording-rebuttal-20261023"
+    },
+    "5c7ef864822b": {
+      "source": "OSEN·니얼굴 은혜씨",
+      "title": "동료30명 일자리 걱정에 눈물…서은혜 “작가들 없으면 숨 막힌다”",
+      "link": "https://news.nate.com/view/20261024n04619",
+      "first_seen_at": 1792840009,
+      "last_seen_at": 1792840009,
+      "samples": [
+        {
+          "at": 1792840009,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "5c7ef864822b",
+      "editorial": {
+        "title": "동료30명 일자리 걱정에 눈물…서은혜 “작가들 없으면 숨 막힌다”",
+        "category": "시사",
+        "url": "https://news.nate.com/view/20261024n04619",
+        "source": "OSEN·니얼굴 은혜씨",
+        "kind": "article",
+        "event_key": "seo-eun-hye-disabled-artists-employment-budget-reaction-20261023",
+        "why": "그림·일자리 이야기를 나누는 친구에게 보낼 당사자의 반응이다. 예산127억→0원 소식에 서은혜는 자기 일보다 함께 그리는30명 동료가 걱정된다고 말했다.",
+        "angle": "예산표의0원이 동료30명의 일자리로 다가온 순간",
+        "why_now": "원본 최초 공개는2026-10-23로 확인. 정확한 시분은 출처에 미표기이며24일 재기사 시각으로 바꾸지 않았다.",
+        "verified_at": 1792839568,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://news.nate.com/view/20261024n04619",
+            "note": "23일 본인 채널 공개를 다룬 기사 본문에서 내년도 권리중심 일자리 예산127억→0원 자막 인용과 동료들이 없으면 안 된다는 직접 발언을 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.nate.com/view/20261024n04619",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "원영상 미시청. 예산·해고 전망은 영상과 기사의 설명이며 최종 예산 확정·해고 완료로 쓰지 않는다.23일 공개 시분 미표기.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-23",
+          "observation": "23일 본인 채널 공개를 다룬 기사 본문에서 내년도 권리중심 일자리 예산127억→0원 자막 인용과 동료들이 없으면 안 된다는 직접 발언을 확인.",
+          "checked_materials": [],
+          "outline": [
+            "동료들의 해고가 걱정된다는23일 공개 발언",
+            "127억→0원이라는 영상 자막의 대상 사업 설명",
+            "일하지 않겠다고 한 적 없다는 본인의 말"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://news.nate.com/view/20261024n04619"
+          }
+        ],
+        "excerpt": "",
+        "context": "원본 최초 공개는2026-10-23로 확인. 정확한 시분은 출처에 미표기이며24일 재기사 시각으로 바꾸지 않았다.",
+        "fetched_at": 1792840009,
+        "parser_revision": 7
+      },
+      "curation_event_key": "seo-eun-hye-disabled-artists-employment-budget-reaction-20261023"
+    },
+    "aa6ba48812f7": {
+      "source": "OSEN·MBC",
+      "title": "치즈 이어 오징어까지…김신영·기안84가 다이어트 조언마다 엇갈린 이유",
+      "link": "https://news.nate.com/view/20261024n06296",
+      "first_seen_at": 1792840009,
+      "last_seen_at": 1792840009,
+      "samples": [
+        {
+          "at": 1792840009,
+          "views": null,
+          "reactions": null,
+          "rank": 8,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "aa6ba48812f7",
+      "editorial": {
+        "title": "치즈 이어 오징어까지…김신영·기안84가 다이어트 조언마다 엇갈린 이유",
+        "category": "시사",
+        "url": "https://news.nate.com/view/20261024n06296",
+        "source": "OSEN·MBC",
+        "kind": "article",
+        "event_key": "kim-shin-young-kian-diet-cheese-squid-banter-20261023",
+        "why": "운동 식단 얘기하는 친구에게 보낼 티키타카다. 김신영의 치즈·오징어 조언에 기안84가 연속 반박하고,김신영은 자신도 감량해봤다며 받아친다.",
+        "angle": "치즈에도 안 맞고 오징어에도 안 맞는 두 사람",
+        "why_now": "원본 최초 공개는2026-10-23로 확인. 정확한 시분은 출처에 미표기이며24일 재기사 시각으로 바꾸지 않았다.",
+        "verified_at": 1792839568,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://news.nate.com/view/20261024n06296",
+            "note": "직접 본 캡처에 오징어로 벌크업한단 얘긴 처음 듣네 자막과 두 사람의 대화 모습이 있다. 기사 본문으로 치즈 조언→반박→오징어 재논쟁의 전후를 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/pt/2026/10/24/202610241315776913_6adc33ac8af19.jpg",
+            "label": "실제 확인한 방송 캡처",
+            "kind": "image"
+          },
+          {
+            "url": "https://news.nate.com/view/20261024n06296",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "23일 방송,정확한 해당 대화 공개 시분 미표기. 실제 영상 미시청. 음식 효능을 단정하거나 악의적인 태도 비난으로 편집하지 않는다.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-23",
+          "observation": "직접 본 캡처에 오징어로 벌크업한단 얘긴 처음 듣네 자막과 두 사람의 대화 모습이 있다. 기사 본문으로 치즈 조언→반박→오징어 재논쟁의 전후를 확인.",
+          "checked_materials": [
+            "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/pt/2026/10/24/202610241315776913_6adc33ac8af19.jpg"
+          ],
+          "outline": [
+            "치즈를 더해도 된다는 김신영의 조언과 기안84 반박",
+            "오징어로 벌크업 처음이라는 실제 확인 자막",
+            "한 번도 맞은 적 없다는 김신영의 로또 비유"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [
+          {
+            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/pt/2026/10/24/202610241315776913_6adc33ac8af19.jpg",
+            "label": "실제 확인한 방송 캡처",
+            "kind": "image"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "실제 확인한 방송 캡처",
+            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/pt/2026/10/24/202610241315776913_6adc33ac8af19.jpg"
+          },
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://news.nate.com/view/20261024n06296"
+          }
+        ],
+        "excerpt": "",
+        "context": "원본 최초 공개는2026-10-23로 확인. 정확한 시분은 출처에 미표기이며24일 재기사 시각으로 바꾸지 않았다.",
+        "fetched_at": 1792840009,
+        "parser_revision": 7
+      },
+      "curation_event_key": "kim-shin-young-kian-diet-cheese-squid-banter-20261023"
+    },
+    "1aa1dcd27590": {
+      "source": "아이뉴스24",
+      "title": "다른 학부모 폭행 혐의 경찰관…이번엔112신고 자료 유출 수사도",
+      "link": "https://www.inews24.com/view/2018552",
+      "first_seen_at": 1792840009,
+      "last_seen_at": 1792840009,
+      "samples": [
+        {
+          "at": 1792840009,
+          "views": null,
+          "reactions": null,
+          "rank": 9,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "1aa1dcd27590",
+      "editorial": {
+        "title": "다른 학부모 폭행 혐의 경찰관…이번엔112신고 자료 유출 수사도",
+        "category": "시사",
+        "url": "https://www.inews24.com/view/2018552",
+        "source": "아이뉴스24",
+        "kind": "article",
+        "event_key": "police-parent-assault-112-data-leak-investigation-20261023",
+        "why": "아이를 둔 친구에게 보낼 공권력 신뢰의 문제다. 어린이집 다른 학부모 폭행 혐의로 조사받던 경찰관에게112 출동 자료 외부 유출 의혹 수사까지 겹쳤다.",
+        "angle": "학부모 폭행 조사받는 경찰,신고 자료 유출 혐의까지",
+        "why_now": "원본 최초 공개는2026-10-23로 확인. 사건 발생일과 새 보도·발언 공개일은 구분했다.",
+        "verified_at": 1792839564,
+        "published_at": 1792759805,
+        "evidence": [
+          {
+            "url": "https://www.inews24.com/view/2018552",
+            "note": "원문에서23일 관악경찰서가 개인정보보호법 위반 수사 중이라고 밝힌 사실,1월경SNS 자료 유출 혐의,9월9일 어린이집 인근 다른 학부모 폭행 혐의를 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.inews24.com/view/2018552",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "23일 수사 공개의 새 사실. 유죄 확정 아님. 유출 자료가 수사 정보나 공무상 비밀이었다고 부풀리지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-23",
+          "observation": "원문에서23일 관악경찰서가 개인정보보호법 위반 수사 중이라고 밝힌 사실,1월경SNS 자료 유출 혐의,9월9일 어린이집 인근 다른 학부모 폭행 혐의를 확인.",
+          "checked_materials": [],
+          "outline": [
+            "어린이집 학부모 폭행 혐의로 먼저 입건된 경찰관",
+            "112 출동 자료를SNS로 지인에게 보냈다는 별도 의혹",
+            "수사 정보·공무상 비밀에는 해당하지 않는다는 기사상 한계"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://www.inews24.com/view/2018552"
+          }
+        ],
+        "excerpt": "",
+        "context": "원본 최초 공개는2026-10-23로 확인. 사건 발생일과 새 보도·발언 공개일은 구분했다.",
+        "fetched_at": 1792840009,
+        "parser_revision": 7
+      },
+      "curation_event_key": "police-parent-assault-112-data-leak-investigation-20261023"
+    },
     "0d5d059cbbf2": {
       "source": "SBS·연합뉴스",
       "title": "PK·리바운드 막고 비겼는데 우승…서울의 10년 기다림이 끝났다",
@@ -741,78 +1536,6 @@
         "parser_revision": 7
       },
       "curation_event_key": "sbs-newstory-thirties-return-to-civil-service-exam-20261024"
-    },
-    "9dc2295064b5": {
-      "source": "SBS",
-      "title": "신천지 의혹 따지던 공수가 바뀌었다…국힘,민주당 조사 결과에 특검 요구",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813073",
-      "first_seen_at": 1792831444,
-      "last_seen_at": 1792831444,
-      "samples": [
-        {
-          "at": 1792831444,
-          "views": null,
-          "reactions": null,
-          "rank": 11,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "9dc2295064b5",
-      "editorial": {
-        "title": "신천지 의혹 따지던 공수가 바뀌었다…국힘,민주당 조사 결과에 특검 요구",
-        "category": "시사",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813073",
-        "source": "SBS",
-        "kind": "article",
-        "event_key": "ppp-demands-special-counsel-democratic-party-shincheonji-disclosure-20261024",
-        "why": "정치 대화를 나누는 친구에게 보낼 공격·방어의 역전이다. 신천지 유착 공세를 받던 국민의힘이 이번엔 민주당 자체 조사 결과를 공개하고 특검을 받으라고 요구했다.",
-        "angle": "상대에게 정교유착 따지더니 우리 조사 결과는 공개할까 말까",
-        "why_now": "24일 국민의힘 대변인 논평 두 건에서 민주당의 조사 결과 공개 공방을 겨냥한 특검 요구가 새로 나왔다.",
-        "verified_at": 1792830440,
-        "published_at": 1792819001,
-        "evidence": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813073",
-            "note": "SBS 취재 본문에서24일 박성훈·조용술 대변인의 조사 결과 공개와 특검 요구 논평을 확인했다. 신천지 개입·유착이 사실이라는 수사 결론은 본문에 없다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813073",
-            "label": "확인한 기사 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "야당의 주장과 확인 사실을 구분한다. 실제 회의 고성 장면 미시청. 신천지 개입이나 유착을 사실로 단정하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-24",
-          "observation": "SBS 취재 본문에서24일 박성훈·조용술 대변인의 조사 결과 공개와 특검 요구 논평을 확인했다. 신천지 개입·유착이 사실이라는 수사 결론은 본문에 없다.",
-          "checked_materials": [],
-          "outline": [
-            "야당이 오늘 여당을 향해 요구한 조사 결과 공개",
-            "민주당이 좋아하는 특검을 하자는 조용술 논평의 되받아치기",
-            "확인된 것은 특검 요구 행동이며 유착 의혹은 미확정이라고 구분"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 기사 본문",
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813073"
-          }
-        ],
-        "excerpt": "",
-        "context": "24일 국민의힘 대변인 논평 두 건에서 민주당의 조사 결과 공개 공방을 겨냥한 특검 요구가 새로 나왔다.",
-        "fetched_at": 1792831444,
-        "parser_revision": 7
-      },
-      "curation_event_key": "ppp-demands-special-counsel-democratic-party-shincheonji-disclosure-20261024"
     },
     "9fd30378d05d": {
       "source": "스타뉴스",
@@ -157598,4977 +158321,7 @@
       "content_kind": "community",
       "list_category": "",
       "story_id": "ca19d65db133"
-    },
-    "418416f90930": {
-      "source": "국내·해외축구",
-      "title": "'맨유 1300억 증발→26세에 무직 신세' 산초, 극적 부활 기회? 헤타페 구단주 \"3~4개월 전부터 접촉\"",
-      "link": "https://news.nate.com/view/20261016n02036",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 30,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 30,
-          "rank_kind": null
-        },
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 30,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "418416f90930"
-    },
-    "6e9c1be6d48f": {
-      "source": "네이트 연예",
-      "title": "\"팬들 사랑해\" 진심 맞나?…BTS 동생 그룹 코르티스, SNS 실수에 진정성...",
-      "link": "https://news.nate.com/view/20261017n07217",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 17,
-          "rank_kind": "nate_ent_interest_100"
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 24,
-          "rank_kind": "nate_ent_interest_100"
-        },
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 41,
-          "rank_kind": "nate_ent_interest_100"
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "6e9c1be6d48f",
-      "detail": {
-        "excerpt": "코르티스. 사진. | SNS [스포츠서울 | 윤동언 기자] 그룹 코르티스(CORTIS)가 팬 소통 플랫폼에 업무용…",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/sp/2026/10/17/news-p.v1.20261017.06c1d8a45ac745f8b472a7d66752b4f4_P1.png"
-          }
-        ],
-        "checked_at": 1792228200
-      }
-    },
-    "86b365ec6339": {
-      "source": "네이트 연예",
-      "title": "김유정, 아역 시절은 잊어도 되겠네…침대 위 눈빛까지 확 달라졌다",
-      "link": "https://news.nate.com/view/20261017n02817",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 34,
-          "rank_kind": "nate_ent_interest_100"
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 34,
-          "rank_kind": "nate_ent_interest_100"
-        },
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 49,
-          "rank_kind": "nate_ent_interest_100"
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "86b365ec6339"
-    },
-    "8a45f8bd228a": {
-      "source": "네이트 연예",
-      "title": "'슬의생' 조정석 아들, 벌써 중학생 된다…임영웅 MV 출연",
-      "link": "https://news.nate.com/view/20261017n03996",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 37,
-          "rank_kind": "nate_ent_interest_100"
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 37,
-          "rank_kind": "nate_ent_interest_100"
-        },
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 34,
-          "rank_kind": "nate_ent_interest_100"
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "8a45f8bd228a"
-    },
-    "6fac3fbf82ce": {
-      "source": "네이버 뉴스",
-      "title": "“규모 9.9 터졌다” 日, ‘역대급 대지진’ 발생 알림…‘초유의 사태’ 벌어졌다",
-      "link": "https://n.news.naver.com/article/081/0003689831",
-      "first_seen_at": 1792207060,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792207060,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 11,
-          "rank_kind": null
-        },
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 16,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "6fac3fbf82ce",
-      "detail": {
-        "excerpt": "日, 캄차카반도 지진 규모 오보냈다가 취소 日기상청 “과대 추정 원인 조사 중” 지난해 7월…",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://imgnews.pstatic.net/image/081/2026/10/17/0003689831_001_20261017091014839.jpg?type=w800"
-          }
-        ],
-        "published_at": "2026-10-17T09:10:14+09:00",
-        "checked_at": 1792207060
-      }
-    },
-    "3508bbd0166a": {
-      "source": "네이버 뉴스",
-      "title": "‘부천 화재’ 순직 소방관…초등학교 입학 앞둔 딸 두고 떠났다",
-      "link": "https://n.news.naver.com/article/081/0003689861",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 12,
-          "rank_kind": null
-        },
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 17,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "3508bbd0166a"
-    },
-    "7dc1d2a84ce2": {
-      "source": "네이버 뉴스",
-      "title": "가족모임서 父가 돌린 복권, 함께 긁었는데 “10억 당첨”…가족들 반응은?",
-      "link": "https://n.news.naver.com/article/081/0003689848",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 13,
-          "rank_kind": null
-        },
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 18,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "7dc1d2a84ce2"
-    },
-    "b14d5fa34194": {
-      "source": "네이버 뉴스",
-      "title": "“사과를 바라시니”…추미애, ‘소방 재정 빨대’ 발언 공식 사과 “깊은 유감”",
-      "link": "https://n.news.naver.com/article/081/0003689855",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 14,
-          "rank_kind": null
-        },
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 19,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "b14d5fa34194"
-    },
-    "83fa6a7d6cf3": {
-      "source": "네이버 뉴스",
-      "title": "“아내가 보고 있다” 미모의 女리포터 시선 피한 감독…의상 논란엔 “자연스러운 모습” [월드픽]",
-      "link": "https://n.news.naver.com/article/081/0003689842",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 15,
-          "rank_kind": null
-        },
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 20,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "83fa6a7d6cf3"
-    },
-    "85052eeb070f": {
-      "source": "네이트 스포츠",
-      "title": "'김도영과 그의 앞을 지워라' 그게 말처럼 쉽나…실책까지 쏟아내면 어쩔 ...",
-      "link": "https://news.nate.com/view/20261017n09985",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 35,
-          "rank_kind": "nate_spo_interest_100"
-        },
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 47,
-          "rank_kind": "nate_spo_interest_100"
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "85052eeb070f"
-    },
-    "62728435c9e1": {
-      "source": "디시 실베",
-      "title": "[싱갤] 싱글벙글 티라노&스피노의 복원도 변천사",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471060",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": 1030,
-          "reactions": 10,
-          "rank": 1,
-          "rank_kind": null
-        },
-        {
-          "at": 1792234896,
-          "views": 2515,
-          "reactions": 20,
-          "rank": 18,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "62728435c9e1"
-    },
-    "844d712a11b1": {
-      "source": "디시 실베",
-      "title": "[잡갤] \"뒷범퍼 박았는데 엔진까지?\"…벤츠 차주, 수리비 1855만원 요구 논란",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471059",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": 812,
-          "reactions": 2,
-          "rank": 2,
-          "rank_kind": null
-        },
-        {
-          "at": 1792234896,
-          "views": 3931,
-          "reactions": 13,
-          "rank": 19,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "844d712a11b1"
-    },
-    "5bd20002d01e": {
-      "source": "디시 실베",
-      "title": "[싱갤] 싱글벙글 현재 마계상황",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471058",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": 8072,
-          "reactions": 40,
-          "rank": 3,
-          "rank_kind": null
-        },
-        {
-          "at": 1792234896,
-          "views": 12022,
-          "reactions": 67,
-          "rank": 20,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "5bd20002d01e"
-    },
-    "c30dcb842912": {
-      "source": "디시 실베",
-      "title": "[남갤] 일본 b리그 용병3명출전 출전 팬들 생각",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471057",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": 844,
-          "reactions": 4,
-          "rank": 4,
-          "rank_kind": null
-        },
-        {
-          "at": 1792234896,
-          "views": 1410,
-          "reactions": 5,
-          "rank": 21,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "c30dcb842912"
-    },
-    "7a4010da64be": {
-      "source": "디시 실베",
-      "title": "[박갤] 내가 위라클을 떠나는 이유 - \"으쌰\"박위아니고 편집자",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471056",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": 2428,
-          "reactions": 46,
-          "rank": 5,
-          "rank_kind": null
-        },
-        {
-          "at": 1792234896,
-          "views": 5566,
-          "reactions": 72,
-          "rank": 22,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "7a4010da64be"
-    },
-    "1ff1d548956c": {
-      "source": "디시 실베",
-      "title": "[싱갤] 싱글벙글 아파트 할인분양 세대 근황",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471055",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": 3921,
-          "reactions": 50,
-          "rank": 6,
-          "rank_kind": null
-        },
-        {
-          "at": 1792234896,
-          "views": 6092,
-          "reactions": 74,
-          "rank": 23,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "1ff1d548956c"
-    },
-    "c75ed5a9145d": {
-      "source": "디시 실베",
-      "title": "[싱갤] 훌쩍훌쩍 2차대전 국가별 사망자",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471054",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": 2959,
-          "reactions": 11,
-          "rank": 7,
-          "rank_kind": null
-        },
-        {
-          "at": 1792234896,
-          "views": 4660,
-          "reactions": 15,
-          "rank": 24,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "c75ed5a9145d"
-    },
-    "a4cdce3ed888": {
-      "source": "디시 실베",
-      "title": "[잡갤] 탈모 해결해주는 세럼?...도 넘는 홈쇼핑 과장광고",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471053",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": 1473,
-          "reactions": 7,
-          "rank": 8,
-          "rank_kind": null
-        },
-        {
-          "at": 1792234896,
-          "views": 2297,
-          "reactions": 8,
-          "rank": 25,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "a4cdce3ed888"
-    },
-    "946d822636f7": {
-      "source": "디시 실베",
-      "title": "[새갤] 김성회 \"문체위 국감서 GTA6 심의 통과 문제 다룰 것\" 주장",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471052",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": 3245,
-          "reactions": 39,
-          "rank": 9,
-          "rank_kind": null
-        },
-        {
-          "at": 1792234896,
-          "views": 4765,
-          "reactions": 56,
-          "rank": 26,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "946d822636f7"
-    },
-    "12e7e4ae3755": {
-      "source": "디시 실베",
-      "title": "[싱갤] 훌쩍훌쩍 전남광주 목포 근황",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471051",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": 4172,
-          "reactions": 41,
-          "rank": 10,
-          "rank_kind": null
-        },
-        {
-          "at": 1792234896,
-          "views": 5757,
-          "reactions": 61,
-          "rank": 27,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "12e7e4ae3755"
-    },
-    "4e5422571f55": {
-      "source": "디시 실베",
-      "title": "[더갤] 황희두 이제 힙헙 끌고와서 김민석 욕하는중 ㅋㅋㅋㅋㅋㅋ",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471050",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": 2463,
-          "reactions": 46,
-          "rank": 11,
-          "rank_kind": null
-        },
-        {
-          "at": 1792234896,
-          "views": 3238,
-          "reactions": 48,
-          "rank": 28,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "4e5422571f55"
-    },
-    "428dd4663bd8": {
-      "source": "디시 실베",
-      "title": "[한갤] 반도체주식 근황",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471049",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": 9723,
-          "reactions": 89,
-          "rank": 12,
-          "rank_kind": null
-        },
-        {
-          "at": 1792234896,
-          "views": 11753,
-          "reactions": 107,
-          "rank": 29,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "428dd4663bd8"
-    },
-    "a6dbda9d7ede": {
-      "source": "네이트 연예",
-      "title": "유노윤호, '버블' 두달 만 접속에 팬 불만 폭주…\"존중 못하면 나가\" ...",
-      "link": "https://news.nate.com/view/20261017n10751",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": "nate_ent_interest_100"
-        },
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": "nate_ent_interest_100"
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "a6dbda9d7ede"
-    },
-    "e847ea70bf21": {
-      "source": "네이트 연예",
-      "title": "남편 두고 '외간 男'과 밀회?…장영란, 웨딩드레스 입고 '오토바이'→\"오...",
-      "link": "https://news.nate.com/view/20261017n11191",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 18,
-          "rank_kind": "nate_ent_interest_100"
-        },
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 35,
-          "rank_kind": "nate_ent_interest_100"
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "e847ea70bf21"
-    },
-    "fb2a5b284b99": {
-      "source": "네이트 스포츠",
-      "title": "허풍 아니었다! 베트남 '13만5000석' 초대형 축구장 현실로…2027년 완공 ...",
-      "link": "https://news.nate.com/view/20261017n00722",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 31,
-          "rank_kind": "nate_spo_interest_100"
-        },
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 39,
-          "rank_kind": "nate_spo_interest_100"
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "fb2a5b284b99"
-    },
-    "4707c1a7d603": {
-      "source": "네이트 스포츠",
-      "title": "'상식 매직' 삼성, KBL 3강 모두 박살! 원주 원정서 DB 꺾고 23년 만에...",
-      "link": "https://news.nate.com/view/20261017n09186",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 34,
-          "rank_kind": "nate_spo_interest_100"
-        },
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 37,
-          "rank_kind": "nate_spo_interest_100"
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "4707c1a7d603"
-    },
-    "14ae74d6e55c": {
-      "source": "네이트 연예",
-      "title": "축구선수♥여배우, 'NO 마스크'로 시장 활보→데이트 현장 확산 [MHN:피...",
-      "link": "https://news.nate.com/view/20261017n07961",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 41,
-          "rank_kind": "nate_ent_interest_100"
-        },
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 47,
-          "rank_kind": "nate_ent_interest_100"
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "14ae74d6e55c"
-    },
-    "519575bc86be": {
-      "source": "네이버 뉴스",
-      "title": "백악관 대변인 나흘 만에 경질...'허위 경력에 최단명' 중간 선거에 악재",
-      "link": "https://n.news.naver.com/article/052/0002419943",
-      "first_seen_at": 1792202496,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792202496,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        },
-        {
-          "at": 1792220582,
-          "views": null,
-          "reactions": null,
-          "rank": 9,
-          "rank_kind": null
-        },
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 15,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "519575bc86be",
-      "detail": {
-        "excerpt": "[앵커] 도널드 트럼프 미국 대통령이 직접 발탁한 백악관 신임 대변인이 업무 나흘 만에 전격…",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://imgnews.pstatic.net/image/052/2026/10/17/202610170834564470_t_20261017083817776.jpg?type=w800"
-          }
-        ],
-        "published_at": "2026-10-17T08:34:56+09:00",
-        "checked_at": 1792202496
-      }
-    },
-    "a82428dc93ca": {
-      "source": "네이버 뉴스",
-      "title": "은행 주담대 변동금리 6% 줄줄이 돌파...차주 한숨 커진다",
-      "link": "https://n.news.naver.com/article/052/0002420004",
-      "first_seen_at": 1792220582,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792220582,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        },
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 12,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "a82428dc93ca",
-      "detail": {
-        "excerpt": "[앵커] 최근 금리 상승 여파에 주택담보대출 변동 금리가 큰 폭으로 오른 것으로 나타났습니다. 5대 은행의 금리…",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://imgnews.pstatic.net/image/052/2026/10/17/202610171306222529_t_20261017131410970.jpg?type=w800"
-          }
-        ],
-        "published_at": "2026-10-17T13:06:22+09:00",
-        "checked_at": 1792220582
-      }
-    },
-    "412cd32e8c68": {
-      "source": "네이버 뉴스",
-      "title": "\"7만전자·20만닉스\" 외친 애널...\"신기루처럼 없어질 거품\" 또 모진 전망, 왜?",
-      "link": "https://n.news.naver.com/article/014/0005590503",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "412cd32e8c68"
-    },
-    "0e90dccc5bec": {
-      "source": "네이버 뉴스",
-      "title": "\"재산 11억인데, 7년 뒤 1720만원?\"···62세 독신의 노후 계산서 [머니설계사무소]",
-      "link": "https://n.news.naver.com/article/014/0005590519",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "0e90dccc5bec"
-    },
-    "73bb329e67b7": {
-      "source": "네이버 뉴스",
-      "title": "\"왜 너같은 거랑 사귀지\"... 선 넘은 악플러에 이강인·두산가 여친의 충격반응",
-      "link": "https://n.news.naver.com/article/014/0005590513",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "73bb329e67b7"
-    },
-    "13fb298f8f92": {
-      "source": "네이버 뉴스",
-      "title": "\"잔나비랑 결별 당장 발표해\"…한지민 협박글 19건 올린 30대女, '벌금 600만원'",
-      "link": "https://n.news.naver.com/article/014/0005590473",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "13fb298f8f92"
-    },
-    "c45257899ee3": {
-      "source": "네이버 뉴스",
-      "title": "\"며칠 새 월급 날린 개미들\"... 그런데 삼전 PER은 고작 3.27배…지금이 기회일까 [머니 시그널]",
-      "link": "https://n.news.naver.com/article/014/0005590520",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "c45257899ee3"
-    },
-    "43eb6024e74e": {
-      "source": "네이버 뉴스",
-      "title": "가수 공연 도중 껴든 김민석... \"​정동영 고향이라 좋다\"",
-      "link": "https://n.news.naver.com/article/088/0001034906",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "43eb6024e74e"
-    },
-    "303e15ff6806": {
-      "source": "네이버 뉴스",
-      "title": "추미애 \"사과 바라시니까 마음 다해 사과\"…국힘 \"귀 의심, 끝까지 오만\"",
-      "link": "https://n.news.naver.com/article/088/0001034925",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 7,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "303e15ff6806"
-    },
-    "3e4df718dfc5": {
-      "source": "네이버 뉴스",
-      "title": "홍준표 \"尹, 한동훈 패 죽이고 싶었다고 해…하도 깐죽대니까\"",
-      "link": "https://n.news.naver.com/article/088/0001034920",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 8,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "3e4df718dfc5"
-    },
-    "28e7de18b016": {
-      "source": "네이버 뉴스",
-      "title": "이재명 39%·다카이치 42.4%…왜 둘 다 '인사'로 말아먹나, 지지율 떨어뜨린 선택들 [금주의 이슈]",
-      "link": "https://n.news.naver.com/article/088/0001034924",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 9,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "28e7de18b016"
-    },
-    "ed189a2474c4": {
-      "source": "네이버 뉴스",
-      "title": "\"보수와 진보, 결혼하면 지옥?\"…돌싱男이 꼽은 최악의 재혼 조합",
-      "link": "https://n.news.naver.com/article/088/0001034927",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 10,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "ed189a2474c4"
-    },
-    "8738c16812f3": {
-      "source": "네이버 뉴스",
-      "title": "추미애, '순직' 김진석 소방위 빈소 조문서 \"소방관 폄훼 의도 없었다\" [현장영상+]",
-      "link": "https://n.news.naver.com/article/052/0002420041",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 11,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "8738c16812f3"
-    },
-    "ecf465389dc5": {
-      "source": "네이버 뉴스",
-      "title": "'경기도청장'으로 장례 엄수...'1계급 특진' 추서",
-      "link": "https://n.news.naver.com/article/052/0002420075",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 13,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "ecf465389dc5"
-    },
-    "9ac9848aa073": {
-      "source": "네이버 뉴스",
-      "title": "이 대통령, 소방관 순직에 \"참담한 마음...희생 잊지 않을 것\"",
-      "link": "https://n.news.naver.com/article/052/0002420066",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 14,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "9ac9848aa073"
-    },
-    "7d74252fc490": {
-      "source": "네이버 뉴스",
-      "title": "축구선수 엄지성에 인종차별한 50대 영국 관중, 현지 경찰에 체포",
-      "link": "https://n.news.naver.com/article/057/0001973941",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 22,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "7d74252fc490"
-    },
-    "fd5ef44aed93": {
-      "source": "네이버 뉴스",
-      "title": "오픈채팅 참여자 만나 집단폭행·금품 갈취한 20대 실형",
-      "link": "https://n.news.naver.com/article/057/0001973945",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 25,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "fd5ef44aed93"
-    },
-    "1d601bd9c0a9": {
-      "source": "네이트 스포츠",
-      "title": "'이정후 쓸 바엔 값싼 유망주가 낫다?' SF 전문 매체의 냉혹한 평가…급기...",
-      "link": "https://news.nate.com/view/20261017n00925",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 41,
-          "rank_kind": "nate_spo_interest_100"
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "1d601bd9c0a9"
-    },
-    "1ab1a5607d50": {
-      "source": "네이트 스포츠",
-      "title": "'충격적인 근황' 韓 국가대표 공격수 황의조 품었던 프랑스 명문 보르도…...",
-      "link": "https://news.nate.com/view/20261017n05786",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 46,
-          "rank_kind": "nate_spo_interest_100"
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "1ab1a5607d50"
-    },
-    "ea7f5269c245": {
-      "source": "네이트 스포츠",
-      "title": "'야고 결승골' 울산, 부천에 역전승, 2년 만에 파이널A 복귀…서울의 '조...",
-      "link": "https://news.nate.com/view/20261017n11482",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 50,
-          "rank_kind": "nate_spo_interest_100"
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "ea7f5269c245"
-    },
-    "5c397081a4fb": {
-      "source": "디시 실베",
-      "title": "[싱갤] 싱글벙글 주커버그조차 쓰레드 못 견뎌서 요즘 X에 글쓰는중",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471061",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": 5024,
-          "reactions": 43,
-          "rank": 17,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "5c397081a4fb"
-    },
-    "bf5d991303ad": {
-      "source": "네이트 연예",
-      "title": "정형돈, '5년 기러기' 청산 \"유학=사실 내 꿈\" 가족 보호하는 가장의 무게",
-      "link": "https://news.nate.com/view/20261017n10234",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 43,
-          "rank_kind": "nate_ent_interest_100"
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "bf5d991303ad"
-    },
-    "093c402084cd": {
-      "source": "네이트 연예",
-      "title": "장윤주, 런던서 '노브라' 과감 일상 깜짝 고백 \"남편도 쿨하게 OK\"",
-      "link": "https://news.nate.com/view/20261017n10725",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 50,
-          "rank_kind": "nate_ent_interest_100"
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "093c402084cd"
-    },
-    "f66b53451d9c": {
-      "source": "루리웹 베스트",
-      "title": "생각보다 리얼한 모던4 북한군의 전면 남침 과정",
-      "link": "https://bbs.ruliweb.com/community/board/300143/read/77056205",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": 23873,
-          "reactions": 196,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792212300,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "f66b53451d9c"
-    },
-    "09d2705543ea": {
-      "source": "루리웹 베스트",
-      "title": "아주대 소아과 압수수색 하는거 보고 유게가 의사 편 이러던더",
-      "link": "https://bbs.ruliweb.com/community/board/300143/read/77056853",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": 17866,
-          "reactions": 197,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792216680,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "09d2705543ea",
-      "detail": {
-        "excerpt": "한시간동안 애살리려고 cpr하던 바로 신고 때린건이나 신고후 과수대까지 출동하고 한시간만에 압수수색 영장 나온 상황에 의사…",
-        "media": [
-          {
-            "label": "원문 이미지",
-            "url": "https://i2.ruliweb.com/img/26/10/17/1a1486f4e2e4aed54.webp",
-            "kind": "image"
-          },
-          {
-            "label": "원문 이미지",
-            "url": "https://i1.ruliweb.com/img/26/10/17/1a1486f4fdd4aed54.webp",
-            "kind": "image"
-          }
-        ],
-        "source_links": [],
-        "fmkorea_links": [],
-        "revision": 6,
-        "context": "한시간동안 애살리려고 cpr하던 바로 신고 때린건이나 신고후 과수대까지 출동하고 한시간만에 압수수색 영장 나온 상황에 의사 심경 공감안되면 그게 더 이상한거 아니냐? 아무리 생각해봐도 의사들이 환자 버려두고 생명 내팽겨친 그런 직업 본분을 버려버린 그런 경우가 아닌 것 같은데? 꼭 의대 증원도 이야기 나오던데 의사들이 사표던지면서 의대증원에 대해서 이야기함?",
-        "format": "이미지",
-        "checked_at": 1792234896
-      }
-    },
-    "74dedd543b20": {
-      "source": "루리웹 베스트",
-      "title": "디스크 없앤 플스 근황.jpg",
-      "link": "https://bbs.ruliweb.com/community/board/300143/read/77056394",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": 19324,
-          "reactions": 163,
-          "rank": 10,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792213560,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "74dedd543b20"
-    },
-    "aae768e76121": {
-      "source": "루리웹 베스트",
-      "title": "어이털리는 미국근황",
-      "link": "https://bbs.ruliweb.com/community/board/300143/read/77056766",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": 18018,
-          "reactions": 159,
-          "rank": 12,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792216140,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "aae768e76121"
-    },
-    "9f18ceca604c": {
-      "source": "루리웹 베스트",
-      "title": "애기 낮잠 안재우고 놀게 놔둬보기.manga",
-      "link": "https://bbs.ruliweb.com/community/board/300143/read/77056489",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": 12229,
-          "reactions": 149,
-          "rank": 16,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792214220,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "9f18ceca604c"
-    },
-    "7b4aa8764209": {
-      "source": "루리웹 베스트",
-      "title": "삼성한테 받은돈을 건물 사는데 씀",
-      "link": "https://bbs.ruliweb.com/community/board/300143/read/77056503",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": 21078,
-          "reactions": 140,
-          "rank": 21,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792214340,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "7b4aa8764209"
-    },
-    "b88f7b5c4e93": {
-      "source": "루리웹 베스트",
-      "title": "의사들 사직이 항의 표시인줄 알았다는게 웃기네 ㅋㅋㅋ",
-      "link": "https://bbs.ruliweb.com/community/board/300143/read/77056643",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": 23141,
-          "reactions": 137,
-          "rank": 23,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792215300,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "b88f7b5c4e93"
-    },
-    "22d8082a85a1": {
-      "source": "루리웹 베스트",
-      "title": "인천 칼부림 사건 이후 해당 건물 근황",
-      "link": "https://bbs.ruliweb.com/community/board/300143/read/77056642",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": 14491,
-          "reactions": 125,
-          "rank": 33,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792215300,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "22d8082a85a1"
-    },
-    "be439b9617b0": {
-      "source": "루리웹 베스트",
-      "title": "아주대 압수수색 사건은 결론이 어떻게 나오던간에 피해를 보는 사람이 정해져있음",
-      "link": "https://bbs.ruliweb.com/community/board/300143/read/77056492",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": 19109,
-          "reactions": 122,
-          "rank": 36,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792214280,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "be439b9617b0"
-    },
-    "5e5fa96943ae": {
-      "source": "루리웹 베스트",
-      "title": "요즘 스마트폰을 안바꾼다는 전 세계 사람들",
-      "link": "https://bbs.ruliweb.com/community/board/300143/read/77056371",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": 31391,
-          "reactions": 111,
-          "rank": 48,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792213440,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "5e5fa96943ae"
-    },
-    "0a7162bf45ff": {
-      "source": "루리웹 베스트",
-      "title": "CDPR 너는 트리거 한테 세번은 절해야 한다",
-      "link": "https://bbs.ruliweb.com/community/board/300143/read/77056530",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": 12138,
-          "reactions": 110,
-          "rank": 49,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792214520,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "0a7162bf45ff"
-    },
-    "a4bf2bc28a94": {
-      "source": "루리웹 베스트",
-      "title": "만화에서 살상에 특화된 능력 특징",
-      "link": "https://bbs.ruliweb.com/community/board/300143/read/77056480",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": 20260,
-          "reactions": 106,
-          "rank": 54,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792214160,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "a4bf2bc28a94"
-    },
-    "eef5fe597d40": {
-      "source": "루리웹 베스트",
-      "title": "현장감 물씬 풍기는 아기옷 리뷰",
-      "link": "https://bbs.ruliweb.com/community/board/300143/read/77056866",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": 12103,
-          "reactions": 106,
-          "rank": 55,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792216740,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "eef5fe597d40"
-    },
-    "56cb6a6aabd6": {
-      "source": "보배드림 베스트",
-      "title": "부모에게 맞고자란 서양인의 최후.. ㅠ",
-      "link": "https://www.bobaedream.co.kr/view?code=best&No=1040458",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": 50479,
-          "reactions": 586,
-          "rank": 88,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792164960,
-      "content_kind": "community",
-      "list_category": "신유머/이..",
-      "story_id": "56cb6a6aabd6"
-    },
-    "b5d880c11410": {
-      "source": "보배드림 베스트",
-      "title": "이번 테슬라 로드스터 출시 이벤트를 보면서",
-      "link": "https://www.bobaedream.co.kr/view?code=best&No=1040596",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": 597,
-          "reactions": 17,
-          "rank": 89,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792164720,
-      "content_kind": "community",
-      "list_category": "국산차게..",
-      "story_id": "b5d880c11410"
-    },
-    "17a3b0b42988": {
-      "source": "보배드림 베스트",
-      "title": "테슬라 공중제비... 현대차 직원 반응",
-      "link": "https://www.bobaedream.co.kr/view?code=best&No=1040598",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": 1097,
-          "reactions": 19,
-          "rank": 90,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792163880,
-      "content_kind": "community",
-      "list_category": "국산차게..",
-      "story_id": "17a3b0b42988"
-    },
-    "6545ab1bcb35": {
-      "source": "인스티즈 이슈",
-      "title": "미이라 4 공식 제목 공개",
-      "link": "https://www.instiz.net/pt/7914505",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": 733,
-          "reactions": null,
-          "rank": 53,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792227720,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "6545ab1bcb35"
-    },
-    "77f3b7c45716": {
-      "source": "인스티즈 이슈",
-      "title": "브랜드 유희 디자인 카피 논란 사과",
-      "link": "https://www.instiz.net/pt/7914504",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": 16010,
-          "reactions": null,
-          "rank": 54,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792227720,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "77f3b7c45716"
-    },
-    "652687688f19": {
-      "source": "인스티즈 이슈",
-      "title": "여시야 성심당 가? 성심당 추천 빵 댓글 3000개 분석결과 보고가!",
-      "link": "https://www.instiz.net/pt/7914503",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": 419,
-          "reactions": null,
-          "rank": 55,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792227720,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "652687688f19"
-    },
-    "73d780d9763f": {
-      "source": "인스티즈 이슈",
-      "title": "듀엣곡 발매 앞두고 공개된 아이유 크러쉬 투샷.jpg",
-      "link": "https://www.instiz.net/pt/7914502",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": 312,
-          "reactions": null,
-          "rank": 56,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792227720,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "73d780d9763f"
-    },
-    "d1f3b63329b8": {
-      "source": "인스티즈 이슈",
-      "title": "길에서 어떤 아저씨가 만두를 쏟았는데",
-      "link": "https://www.instiz.net/pt/7914501",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": 11081,
-          "reactions": null,
-          "rank": 57,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792227360,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "d1f3b63329b8"
-    },
-    "81e9384922ae": {
-      "source": "인스티즈 이슈",
-      "title": "게임하다가 욕한 고딩 대학 못가게한 썰",
-      "link": "https://www.instiz.net/pt/7914500",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": 3153,
-          "reactions": null,
-          "rank": 58,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792227000,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "81e9384922ae"
-    },
-    "0013ac72c182": {
-      "source": "인스티즈 이슈",
-      "title": "가수 공연 끊고 등장한 김민석…\"민주당 행사냐\" \"정당 대표 갑질\" 시끌",
-      "link": "https://www.instiz.net/pt/7914499",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": 458,
-          "reactions": null,
-          "rank": 59,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792226940,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "0013ac72c182"
-    },
-    "5295df6684ed": {
-      "source": "인스티즈 이슈",
-      "title": "조카한테 휴대폰 10분 맡겼다가 회사 단톡방이 난리 남",
-      "link": "https://www.instiz.net/pt/7914498",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": 18035,
-          "reactions": null,
-          "rank": 60,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792226880,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "5295df6684ed"
-    },
-    "373dcc9c3aa6": {
-      "source": "인스티즈 이슈",
-      "title": "택배 기사님과 아주머니",
-      "link": "https://www.instiz.net/pt/7914497",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": 1034,
-          "reactions": null,
-          "rank": 61,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792226580,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "373dcc9c3aa6"
-    },
-    "a534ff8135c8": {
-      "source": "인스티즈 이슈",
-      "title": "방송에서 부모님 얘기에 울먹이는 장도연.jpg",
-      "link": "https://www.instiz.net/pt/7914496",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": 2029,
-          "reactions": null,
-          "rank": 62,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792226400,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "a534ff8135c8"
-    },
-    "85a93d20b833": {
-      "source": "인스티즈 이슈",
-      "title": "지현이와 문자",
-      "link": "https://www.instiz.net/pt/7914495",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": 673,
-          "reactions": null,
-          "rank": 63,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792226340,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "85a93d20b833"
-    },
-    "df88df2ac36f": {
-      "source": "인스티즈 이슈",
-      "title": "조수석에서 이어폰 끼는 딸",
-      "link": "https://www.instiz.net/pt/7914494",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": 11384,
-          "reactions": null,
-          "rank": 64,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792226220,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "df88df2ac36f"
-    },
-    "8f01da792ab0": {
-      "source": "인스티즈 이슈",
-      "title": "화장실 가고 싶은 고모를 배려해주는 조카.jpg",
-      "link": "https://www.instiz.net/pt/7914493",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": 10986,
-          "reactions": null,
-          "rank": 65,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792226040,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "8f01da792ab0"
-    },
-    "64246c3dc20e": {
-      "source": "인스티즈 이슈",
-      "title": "돼지의 헛되지 않은 죽음",
-      "link": "https://www.instiz.net/pt/7914492",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": 3360,
-          "reactions": null,
-          "rank": 66,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792225860,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "64246c3dc20e"
-    },
-    "987471f478a9": {
-      "source": "인스티즈 이슈",
-      "title": "26살에 후각을 잃은 이연복이 42년째 지키고 있는 원칙",
-      "link": "https://www.instiz.net/pt/7914491",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": 3143,
-          "reactions": null,
-          "rank": 67,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792225800,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "987471f478a9"
-    },
-    "79dd0159f809": {
-      "source": "인스티즈 이슈",
-      "title": "Z세대는 완전히 끝났다는 프랑스인.jpg",
-      "link": "https://www.instiz.net/pt/7914490",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": 9249,
-          "reactions": null,
-          "rank": 68,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792225140,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "79dd0159f809"
-    },
-    "407786188757": {
-      "source": "인스티즈 이슈",
-      "title": "아이에게 인생의 큰 교훈을 얻은 강도",
-      "link": "https://www.instiz.net/pt/7914489",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": 1805,
-          "reactions": null,
-          "rank": 69,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792225080,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "407786188757"
-    },
-    "1a41b3d99cc3": {
-      "source": "인스티즈 이슈",
-      "title": "엄마 : 나도 똑같은 마음이다",
-      "link": "https://www.instiz.net/pt/7914487",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": 1372,
-          "reactions": null,
-          "rank": 70,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792224660,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "1a41b3d99cc3"
-    },
-    "939037b9ec0f": {
-      "source": "인스티즈 이슈",
-      "title": "국중박 분장대회 나간다는 여돌",
-      "link": "https://www.instiz.net/pt/7914486",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": 976,
-          "reactions": null,
-          "rank": 71,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792224180,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "939037b9ec0f",
-      "detail": {
-        "excerpt": "> ㅋㅋㅋㅋㅋ 기대합니다",
-        "media": [
-          {
-            "label": "원문 영상",
-            "url": "https://www.youtube.com/embed/itRzqLYyb9s?playsinline=1&enablejsapi=1",
-            "kind": "video"
-          },
-          {
-            "label": "원문 영상",
-            "url": "https://www.youtube.com/embed/6Ds-tl0L2Gs?start=1169&playsinline=1&enablejsapi=1",
-            "kind": "video"
-          }
-        ],
-        "source_links": [],
-        "fmkorea_links": [],
-        "revision": 6,
-        "context": "> ㅋㅋㅋㅋㅋ 기대합니다",
-        "format": "영상",
-        "published_at": "2026-10-17T17:03:53+09:00",
-        "checked_at": 1792234896
-      }
-    },
-    "fb3883f226c8": {
-      "source": "엠팍 BEST",
-      "title": "김병헌 해설 유튜브 댓글 씹창 나네요ㄷㄷ",
-      "link": "https://mlbpark.donga.com/mp/b.php?b=mlbtown&id=202610160119470347&m=view",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 11,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792152066,
-      "content_kind": "community",
-      "list_category": "야구",
-      "story_id": "fb3883f226c8"
-    },
-    "42d4fbbd9911": {
-      "source": "엠팍 BEST",
-      "title": "미니여름체육대회 ㄹㅈㄷ",
-      "link": "https://mlbpark.donga.com/mp/b.php?b=bullpen&id=202610170119481090&m=view",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 62,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792216866,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "42d4fbbd9911"
-    },
-    "3cfd17cbaed5": {
-      "source": "엠팍 BEST",
-      "title": "런던에서 꽉꽉콘을 시작한 르세라핌 유럽 콘서트",
-      "link": "https://mlbpark.donga.com/mp/b.php?b=bullpen&id=202610170119479410&m=view",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 64,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792213266,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "3cfd17cbaed5",
-      "detail": {
-        "excerpt": "‌콘서트 재밌다고 소문나서 유럽에서도 매진중 Video 태그를 지원하지 않는 브라우저입니다. Video 태그를 지원하지 않는 브라우저입니다. Video 태그를 지원하지…",
-        "media": [
-          {
-            "label": "원문 영상",
-            "url": "https://simg.donga.com/ugc/MLBPARK/Boardvideo/17/92/21/20/17922120845480.mp4#t=0.01",
-            "kind": "video"
-          },
-          {
-            "label": "원문 영상",
-            "url": "https://simg.donga.com/ugc/MLBPARK/Boardvideo/17/92/21/20/17922120845481.mp4#t=0.01",
-            "kind": "video"
-          },
-          {
-            "label": "원문 영상",
-            "url": "https://simg.donga.com/ugc/MLBPARK/Boardvideo/17/92/21/20/17922120845482.mp4#t=0.01",
-            "kind": "video"
-          },
-          {
-            "label": "원문 이미지",
-            "url": "https://simg.donga.com/ugc/MLBPARK/Board/17/92/21/31/17922131156530.jpg",
-            "kind": "image"
-          },
-          {
-            "label": "원문 이미지",
-            "url": "https://simg.donga.com/ugc/MLBPARK/Board/17/92/21/31/17922131156531.jpg",
-            "kind": "image"
-          }
-        ],
-        "source_links": [],
-        "fmkorea_links": [],
-        "revision": 6,
-        "context": "‌콘서트 재밌다고 소문나서 유럽에서도 매진중 Video 태그를 지원하지 않는 브라우저입니다. Video 태그를 지원하지 않는 브라우저입니다. Video 태그를 지원하지 않는 브라우저입니다.",
-        "format": "영상",
-        "checked_at": 1792234896
-      }
-    },
-    "84618740a728": {
-      "source": "엠팍 BEST",
-      "title": "2026 경주마라톤 하프코스 참가후기",
-      "link": "https://mlbpark.donga.com/mp/b.php?b=bullpen&id=202610170119491482&m=view",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 69,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792224066,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "84618740a728"
-    },
-    "4b94d88fa8d6": {
-      "source": "엠팍 BEST",
-      "title": "콜팝먹는 리센느 원이",
-      "link": "https://mlbpark.donga.com/mp/b.php?b=bullpen&id=202610170119479170&m=view",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 70,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792213266,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "4b94d88fa8d6"
-    },
-    "41d2fa3f3704": {
-      "source": "엠팍 BEST",
-      "title": "김수지는 주유소앞 풍선 같네요",
-      "link": "https://mlbpark.donga.com/mp/b.php?b=bullpen&id=202610170119481705&m=view",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 75,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792216866,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "41d2fa3f3704"
-    },
-    "5b6920fb0286": {
-      "source": "엠팍 BEST",
-      "title": "중국 경찰 장애인들 진압(?) 모습...mp4",
-      "link": "https://mlbpark.donga.com/mp/b.php?b=bullpen&id=202610170119479710&m=view",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 77,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792216866,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "5b6920fb0286"
-    },
-    "b87d02ecf407": {
-      "source": "엠팍 BEST",
-      "title": "놀뭐 지금 노래 부르는 사람",
-      "link": "https://mlbpark.donga.com/mp/b.php?b=bullpen&id=202610170119495130&m=view",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 78,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792231806,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "b87d02ecf407"
-    },
-    "4f1ea28347e5": {
-      "source": "엠팍 BEST",
-      "title": "러닝 건강에 안 좋다면 발끈하는 분들 심정 솔직히 이해가 갑니다.",
-      "link": "https://mlbpark.donga.com/mp/b.php?b=bullpen&id=202610170119479962&m=view",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 80,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792216866,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "4f1ea28347e5"
-    },
-    "4b6cd0d36b64": {
-      "source": "엠팍 BEST",
-      "title": "택시는 왜캐 존나게 조져대는 걸까요",
-      "link": "https://mlbpark.donga.com/mp/b.php?b=bullpen&id=202610170119479446&m=view",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 81,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792216866,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "4b6cd0d36b64"
-    },
-    "983db15bfff5": {
-      "source": "엠팍 BEST",
-      "title": "경북대, 부산대에 경상도 출신 뿐 아닌 타지역에서 오신 분들도 많았다고 들었어요",
-      "link": "https://mlbpark.donga.com/mp/b.php?b=bullpen&id=202610170119480406&m=view",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 85,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792216866,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "983db15bfff5"
-    },
-    "8cc7a0604b99": {
-      "source": "엠팍 BEST",
-      "title": "우담 웃기네요 아이폰듀오 기능 다때려박아서 호평이라니ㅋㅋㅋㅋ",
-      "link": "https://mlbpark.donga.com/mp/b.php?b=bullpen&id=202610170119480754&m=view",
-      "first_seen_at": 1792234896,
-      "last_seen_at": 1792234896,
-      "samples": [
-        {
-          "at": 1792234896,
-          "views": null,
-          "reactions": null,
-          "rank": 87,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 5,
-      "listed_at": 1792216866,
-      "content_kind": "community",
-      "list_category": "",
-      "story_id": "8cc7a0604b99"
-    },
-    "ac23a0e15be7": {
-      "source": "디시 실베",
-      "title": "[잡갤] sbs) 스쿨존서 초등생 참변...황색 점멸등 논란",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471035",
-      "first_seen_at": 1792224106,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792224106,
-          "views": 125,
-          "reactions": 0,
-          "rank": 1,
-          "rank_kind": null
-        },
-        {
-          "at": 1792228200,
-          "views": 3567,
-          "reactions": 18,
-          "rank": 13,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": 4716,
-          "reactions": 19,
-          "rank": 26,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "ac23a0e15be7",
-      "detail": {
-        "excerpt": "- dc official App 출처: 잡담 갤러리 [원본 보기]",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://dcimg2.dcinside.co.kr/viewimage.php?id=29bed223f6c6&no=24b0d769e1d32ca73de782fa11d028315b16038a51180b889cf1820a18ae6b07595a14537e20c1e605a6cd5e028e8eff3a827b1605c6a3d324641296833cabc94546646f55b79391ab0c5d504dfd852ba85369"
-          }
-        ],
-        "checked_at": 1792224106
-      }
-    },
-    "8b5cc5f6373c": {
-      "source": "디시 실베",
-      "title": "[카연] 짱구는 못말려 ∞기 18화",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471034",
-      "first_seen_at": 1792224106,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792224106,
-          "views": 1190,
-          "reactions": 40,
-          "rank": 2,
-          "rank_kind": null
-        },
-        {
-          "at": 1792228200,
-          "views": 3404,
-          "reactions": 42,
-          "rank": 14,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": 4442,
-          "reactions": 44,
-          "rank": 27,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "8b5cc5f6373c",
-      "detail": {
-        "excerpt": "[시리즈] 짱구는 못말려 ∞기 · 짱구는 못말려 ∞기 1화 · 짱구는 못말려 ∞기 2화 · 짱구는 못말려 ∞기…",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://dcimg2.dcinside.co.kr/viewimage.php?id=29bed223f6c6&no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec7c3457f0d5a42e91785ea81c5d9fc9cc6d15898070dee69491d7e53321f0e2df80c6573"
-          }
-        ],
-        "checked_at": 1792224106
-      }
-    },
-    "67ad86bd3003": {
-      "source": "디시 실베",
-      "title": "[중갤] [속보]“순직 소방관은 김진석 소방위”…내년 초교입학 딸 두고 떠나",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471033",
-      "first_seen_at": 1792224106,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792224106,
-          "views": 2749,
-          "reactions": 80,
-          "rank": 3,
-          "rank_kind": null
-        },
-        {
-          "at": 1792228200,
-          "views": 4871,
-          "reactions": 111,
-          "rank": 15,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": 5590,
-          "reactions": 115,
-          "rank": 28,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "67ad86bd3003",
-      "detail": {
-        "excerpt": "https://naver.me/5T06eIGw [속보]“순직 소방관은 김진석 소방위”…내년 초교입학 딸 두고 떠나 [속보]“순직 소방관은 김진석 소방위”…내년 초교입학 딸…",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://dcimg2.dcinside.co.kr/viewimage.php?id=29bed223f6c6&no=24b0d769e1d32ca73fe782fa11d02831b9aa83954b71cedd5ba5bfe67ec6c345dc44e566b77cc69fa6c0e93497eae23f536ce9587dbd400cbc275a13c7f12a962e0a904b12d2a9678110f498a14a6cb154b803e15bdb2bd3e47e05323af46436771d0da8db34bb182ce96e4ff03f559c09bf08266554b0"
-          }
-        ],
-        "checked_at": 1792224106
-      }
-    },
-    "174144a35f68": {
-      "source": "디시 실베",
-      "title": "[싱갤] 싱글벙글 Place, Jeolla",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471032",
-      "first_seen_at": 1792224106,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792224106,
-          "views": 5609,
-          "reactions": 47,
-          "rank": 4,
-          "rank_kind": null
-        },
-        {
-          "at": 1792228200,
-          "views": 7154,
-          "reactions": 60,
-          "rank": 16,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": 7775,
-          "reactions": 66,
-          "rank": 29,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "174144a35f68",
-      "detail": {
-        "excerpt": "Place, Honam 전남광주통합특별시 동구 - 국립아시아문화전당 구 전남도청이자 5.18 최후 항쟁지. 광주 전체를 대표하는 랜드마크라고 해도 과언이 아니다…",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://dcimg2.dcinside.co.kr/viewimage.php?id=29bed223f6c6&no=24b0d769e1d32ca73de782fa1bd6253180d7c2ae01f81a731996377260807d65ec9889e4a3f5acd277c5f6ff3ae0335fc50b91b9d62dcc4fe1c127d8b22575ca4ae05227f779ecce9737a6"
-          }
-        ],
-        "checked_at": 1792224106
-      }
-    },
-    "4a7be93d815d": {
-      "source": "네이트 스포츠",
-      "title": "가을의 김도영은 미쳤다…4회 역전 홈런-8회 쐐기 홈런 폭발 '준PO 한 경...",
-      "link": "https://news.nate.com/view/20261017n09768",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 8,
-          "rank_kind": "nate_spo_interest_100"
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 24,
-          "rank_kind": "nate_spo_interest_100"
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "4a7be93d815d"
-    },
-    "56349894e7a2": {
-      "source": "네이트 스포츠",
-      "title": "'왜 이래?' KIA, 5회 황당 콜 플레이 미스→박재현 실책 기록…그런데 박...",
-      "link": "https://news.nate.com/view/20261017n08710",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 17,
-          "rank_kind": "nate_spo_interest_100"
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 41,
-          "rank_kind": "nate_spo_interest_100"
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "56349894e7a2"
-    },
-    "a06676cfe566": {
-      "source": "네이트 스포츠",
-      "title": "'이거 LG 수비 맞아요?' 송찬의+문보경 충격 연쇄 포구 실책→김도영 추...",
-      "link": "https://news.nate.com/view/20261017n09026",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 19,
-          "rank_kind": "nate_spo_interest_100"
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 48,
-          "rank_kind": "nate_spo_interest_100"
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "a06676cfe566"
-    },
-    "88be308a7767": {
-      "source": "네이트 스포츠",
-      "title": "'양의지·강민호가 후보에 없다니' 포수 황금장갑 새 주인 찾는다…20홈런 ...",
-      "link": "https://news.nate.com/view/20261017n04708",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 38,
-          "rank_kind": "nate_spo_interest_100"
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 39,
-          "rank_kind": "nate_spo_interest_100"
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "88be308a7767"
-    },
-    "70092324a274": {
-      "source": "디시 실베",
-      "title": "[냥갤] 남의 업장에 고양이 사체 묻으려 한 캣맘 모녀",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471047",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": 1131,
-          "reactions": 32,
-          "rank": 1,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": 4235,
-          "reactions": 75,
-          "rank": 14,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "70092324a274"
-    },
-    "451095cbc76a": {
-      "source": "디시 실베",
-      "title": "[싱갤] 싱글벙글 나츠미스텝",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471046",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": 10936,
-          "reactions": 48,
-          "rank": 2,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": 13651,
-          "reactions": 64,
-          "rank": 15,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "451095cbc76a"
-    },
-    "66d41c41baa5": {
-      "source": "디시 실베",
-      "title": "[부갤] 정읍 당근 근황 아르고 수륙양륙차",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471045",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": 1632,
-          "reactions": 1,
-          "rank": 3,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": 3723,
-          "reactions": 4,
-          "rank": 16,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "66d41c41baa5"
-    },
-    "9e1b1b1cb5dc": {
-      "source": "디시 실베",
-      "title": "[연갤] [ㅇㅎ] 영매거진 2026 No.46 미조바타 아오이",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471044",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": 1014,
-          "reactions": 10,
-          "rank": 4,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": 2111,
-          "reactions": 14,
-          "rank": 17,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "9e1b1b1cb5dc"
-    },
-    "58bf753eff46": {
-      "source": "디시 실베",
-      "title": "[루갤] 분명히, 확실히 진상 규명하라”…이태원참사 유족",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471043",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": 1904,
-          "reactions": 5,
-          "rank": 5,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": 3265,
-          "reactions": 7,
-          "rank": 18,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "58bf753eff46"
-    },
-    "871ee7a042c7": {
-      "source": "디시 실베",
-      "title": "[걸갤] 에스파 공영장에서 여성들 난투극",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471042",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": 11425,
-          "reactions": 71,
-          "rank": 6,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": 23794,
-          "reactions": 124,
-          "rank": 19,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "871ee7a042c7"
-    },
-    "07b7dd775dc1": {
-      "source": "디시 실베",
-      "title": "[싱갤] 싱글벙글 g80 반 갈라진 사고",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471041",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": 7998,
-          "reactions": 30,
-          "rank": 7,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": 11093,
-          "reactions": 53,
-          "rank": 20,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "07b7dd775dc1"
-    },
-    "3d8ba5d662f6": {
-      "source": "디시 실베",
-      "title": "[중갤] 점점 심각해지는 아주대 소아과 압수수색 사태ㄷㄷ",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471040",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": 5132,
-          "reactions": 84,
-          "rank": 8,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": 8869,
-          "reactions": 152,
-          "rank": 21,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "3d8ba5d662f6"
-    },
-    "47b456afc6bb": {
-      "source": "디시 실베",
-      "title": "[중갤] 싱글벙글 아이엠스타 최신근황",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471039",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": 2744,
-          "reactions": 8,
-          "rank": 9,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": 4081,
-          "reactions": 16,
-          "rank": 22,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "47b456afc6bb"
-    },
-    "cbd82de8c029": {
-      "source": "디시 실베",
-      "title": "[더갤] JTBC) 금융권 해킹범, 한국 취업했던 중국인 가능성",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471038",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": 2624,
-          "reactions": 36,
-          "rank": 10,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": 3905,
-          "reactions": 47,
-          "rank": 23,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "cbd82de8c029"
-    },
-    "f3c8e972fa95": {
-      "source": "디시 실베",
-      "title": "[싱갤] ㅅㅂ 김정은도 길빵하면 재떨이 쓰는데",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471037",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": 20368,
-          "reactions": 295,
-          "rank": 11,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": 23198,
-          "reactions": 338,
-          "rank": 24,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "f3c8e972fa95"
-    },
-    "335f8461c194": {
-      "source": "디시 실베",
-      "title": "[기음] 국내최저가 일식 카레집.jpg",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471036",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": 7102,
-          "reactions": 134,
-          "rank": 12,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": 10311,
-          "reactions": 184,
-          "rank": 25,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "335f8461c194"
-    },
-    "93f3fef27321": {
-      "source": "네이트 연예",
-      "title": "김지원 '닥터X' 대박 터졌다…3회 만에 최고 16.9% 돌파 [종합]",
-      "link": "https://news.nate.com/view/20261017n02717",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 25,
-          "rank_kind": "nate_ent_interest_100"
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 44,
-          "rank_kind": "nate_ent_interest_100"
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "93f3fef27321"
-    },
-    "8c94d07b91e9": {
-      "source": "네이트 연예",
-      "title": "'암살자(들)' 논란에 신변보호 받던 유해진, 직접 해제 요청한 이유는",
-      "link": "https://news.nate.com/view/20261017n09697",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 26,
-          "rank_kind": "nate_ent_interest_100"
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 31,
-          "rank_kind": "nate_ent_interest_100"
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "8c94d07b91e9"
-    },
-    "6651ffb3d9b6": {
-      "source": "네이트 연예",
-      "title": "손나은, 17일 모친상 비보…프로골퍼 동생 손새은과 슬픔 속 빈소 지켜",
-      "link": "https://news.nate.com/view/20261017n09280",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 27,
-          "rank_kind": "nate_ent_interest_100"
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 42,
-          "rank_kind": "nate_ent_interest_100"
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "6651ffb3d9b6"
-    },
-    "733c2e10be8e": {
-      "source": "네이트 연예",
-      "title": "'신세계 장녀' 애니, 재벌은 다르네…이렇게 입어도 고급美 뚝뚝",
-      "link": "https://news.nate.com/view/20261017n02356",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 30,
-          "rank_kind": "nate_ent_interest_100"
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 45,
-          "rank_kind": "nate_ent_interest_100"
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "733c2e10be8e"
-    },
-    "0ae97e70c768": {
-      "source": "네이트 연예",
-      "title": "정형돈, 5년간 기러기 생활 속내 \"자식 통해 보상받고 싶었던 내 욕심\" (한...",
-      "link": "https://news.nate.com/view/20261017n09035",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 31,
-          "rank_kind": "nate_ent_interest_100"
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 40,
-          "rank_kind": "nate_ent_interest_100"
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "0ae97e70c768"
-    },
-    "e2a83638a907": {
-      "source": "네이트 연예",
-      "title": "전진♥류이서, 임신→유산 공개한 이유…\"같은 아픔 겪는 분, 위로되길\"[핫...",
-      "link": "https://news.nate.com/view/20261017n02623",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 33,
-          "rank_kind": "nate_ent_interest_100"
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 38,
-          "rank_kind": "nate_ent_interest_100"
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "e2a83638a907"
-    },
-    "3f35c9dabd10": {
-      "source": "네이트 연예",
-      "title": "손나은, 오늘(17일) 모친상…동생 손새은과 슬픔 속 빈소 지켜 [공식]",
-      "link": "https://news.nate.com/view/20261017n09043",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 44,
-          "rank_kind": "nate_ent_interest_100"
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 46,
-          "rank_kind": "nate_ent_interest_100"
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "3f35c9dabd10"
-    },
-    "6d2f33cbba2e": {
-      "source": "네이트 연예",
-      "title": "\"어린 보아 돌아온 줄\"…A2O 터트린 이수만, K팝 판세 바꿀까[초점S]",
-      "link": "https://news.nate.com/view/20261017n05681",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 45,
-          "rank_kind": "nate_ent_interest_100"
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 47,
-          "rank_kind": "nate_ent_interest_100"
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "6d2f33cbba2e"
-    },
-    "6ed95a2db436": {
-      "source": "커뮤니티 인기",
-      "title": "오줌 누나 보지.jpg",
-      "link": "https://www.issuelink.co.kr/community/go/humoruniv/1429094",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "6ed95a2db436"
-    },
-    "297dea761ec7": {
-      "source": "커뮤니티 인기",
-      "title": "병원 1인실이 비싼 이유.jpg",
-      "link": "https://www.issuelink.co.kr/community/go/ppomppu/468400010155232",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 13,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "297dea761ec7"
-    },
-    "421ccf0d936c": {
-      "source": "커뮤니티 인기",
-      "title": "지금 보배에 마이너스 벌레(들) 없는 이유",
-      "link": "https://www.issuelink.co.kr/community/go/bobae/400001058680",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 9,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 15,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "421ccf0d936c"
-    },
-    "64ebaeeb6aa9": {
-      "source": "커뮤니티 인기",
-      "title": "\"굳이 가슴까지 필요했을까...\"",
-      "link": "https://www.issuelink.co.kr/community/go/ruliweb/77058623",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 10,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 26,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "64ebaeeb6aa9"
-    },
-    "e69e8f117204": {
-      "source": "커뮤니티 인기",
-      "title": "설윤 &원이 그리고 .. “경상도 선배지만 친구가 하고싶어“",
-      "link": "https://www.issuelink.co.kr/community/go/theqoo/4378361343",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 13,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 16,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "e69e8f117204"
-    },
-    "70e8b6674353": {
-      "source": "커뮤니티 인기",
-      "title": "퇴사할게여(이재용.ver)",
-      "link": "https://www.issuelink.co.kr/community/go/theqoo/4378391654",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 14,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 18,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "70e8b6674353"
-    },
-    "fb7ff33bd9b4": {
-      "source": "커뮤니티 인기",
-      "title": "오늘자 음중 1위 온유×지코 tic tac toe",
-      "link": "https://www.issuelink.co.kr/community/go/theqoo/4378393417",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 15,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 19,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "fb7ff33bd9b4"
-    },
-    "123f47e9bd07": {
-      "source": "커뮤니티 인기",
-      "title": "28살 미혼모 택시기사.jpg",
-      "link": "https://www.issuelink.co.kr/community/go/etoland/9509565",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 16,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 34,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "123f47e9bd07"
-    },
-    "e3210a476de0": {
-      "source": "커뮤니티 인기",
-      "title": "아이 막키우기 대회 입상작들",
-      "link": "https://www.issuelink.co.kr/community/go/theqoo/4378439320",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 17,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 21,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "e3210a476de0"
-    },
-    "12384336363b": {
-      "source": "커뮤니티 인기",
-      "title": "'클로드' 개발 과정에서 한강·황석영 작품 무단 학습…엔트로픽, 韓 도서 21종 활용 정황",
-      "link": "https://www.issuelink.co.kr/community/go/theqoo/4378449085",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 21,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 25,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "12384336363b"
-    },
-    "4044af35cb1f": {
-      "source": "커뮤니티 인기",
-      "title": "여성 임원이 말하는 여직원의 특징.jpg",
-      "link": "https://www.issuelink.co.kr/community/go/etoland/9509552",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 22,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "4044af35cb1f"
-    },
-    "3b52bbb1308f": {
-      "source": "커뮤니티 인기",
-      "title": "거짓 일기를 썼던 아이.jpg",
-      "link": "https://www.issuelink.co.kr/community/go/todayhumor/15630479",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 23,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "3b52bbb1308f"
-    },
-    "bd78e4628a2e": {
-      "source": "커뮤니티 인기",
-      "title": "테슬라 부산 산복도로 자율주행 근황",
-      "link": "https://www.issuelink.co.kr/community/go/inven/2741537",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 24,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 9,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "bd78e4628a2e"
-    },
-    "fb199b2d9f75": {
-      "source": "커뮤니티 인기",
-      "title": "여자들이 말 하는 핑크유두",
-      "link": "https://www.issuelink.co.kr/community/go/etoland/9509658",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 25,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 11,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "fb199b2d9f75"
-    },
-    "1ee984c7dd84": {
-      "source": "커뮤니티 인기",
-      "title": "강아지 좋아하는 분들 내일 여기 가보면 좋을 듯",
-      "link": "https://www.issuelink.co.kr/community/go/theqoo/4378439974",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 27,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 28,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "1ee984c7dd84"
-    },
-    "9f8f3d3de712": {
-      "source": "커뮤니티 인기",
-      "title": "SSG 최광야구 보다가 투수비주얼에 모든걸 다 잊음",
-      "link": "https://www.issuelink.co.kr/community/go/theqoo/4378460514",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 29,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 14,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "9f8f3d3de712"
-    },
-    "4bc0da69444d": {
-      "source": "커뮤니티 인기",
-      "title": "경복궁에서 대체 왜…\"중국 문화를 알리자\" 또 선 넘었다",
-      "link": "https://www.issuelink.co.kr/community/go/theqoo/4378440716",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 31,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 32,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "37e41c9f3241"
-    },
-    "e89502a18548": {
-      "source": "커뮤니티 인기",
-      "title": "부분 불량난 생산품을 팔아버리는 CPU 판매 전략",
-      "link": "https://www.issuelink.co.kr/community/go/theqoo/4378457147",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 33,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "e89502a18548"
-    },
-    "768fdcb34066": {
-      "source": "커뮤니티 인기",
-      "title": "어떤 책이 당신을 울게 만들었나요?.jpg",
-      "link": "https://www.issuelink.co.kr/community/go/todayhumor/15630477",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 34,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 45,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "768fdcb34066"
-    },
-    "3b17df201a06": {
-      "source": "커뮤니티 인기",
-      "title": "오토바이 훔친 미자들이 사고내면 차주가 치료비 물어줘야..",
-      "link": "https://www.issuelink.co.kr/community/go/bobae/300003444523",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 35,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "3b17df201a06"
-    },
-    "6e3b667316ad": {
-      "source": "커뮤니티 인기",
-      "title": "가끔씩 찾아보는 보아 라이브 무대",
-      "link": "https://www.issuelink.co.kr/community/go/theqoo/4378387364",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 40,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 43,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "6e3b667316ad"
-    },
-    "f07626a4ac37": {
-      "source": "커뮤니티 인기",
-      "title": "최고이자 최악의 작품.jpg",
-      "link": "https://www.issuelink.co.kr/community/go/etoland/9509610",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 41,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 60,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "f07626a4ac37"
-    },
-    "fcd47471589c": {
-      "source": "커뮤니티 인기",
-      "title": "사상 최강의 안정형 고양이 ????",
-      "link": "https://www.issuelink.co.kr/community/go/theqoo/4378441888",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 44,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 51,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "fcd47471589c"
-    },
-    "4b6b12cb21c6": {
-      "source": "커뮤니티 인기",
-      "title": "최태원 \"굳이 대학 졸업장 필요 없다…기업은 '문제 부딪혀본 인재' 원해\"",
-      "link": "https://www.issuelink.co.kr/community/go/theqoo/4378441499",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 46,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 56,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "4b6b12cb21c6"
-    },
-    "599388ee324d": {
-      "source": "커뮤니티 인기",
-      "title": "혐] 왁싱 실습 모델 알바를 보고 다들 놀란 이유",
-      "link": "https://www.issuelink.co.kr/community/go/humoruniv/1429095",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 47,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 40,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "599388ee324d"
-    },
-    "54379747220a": {
-      "source": "커뮤니티 인기",
-      "title": "울던 아기 해달 울음 그치게 하는 법",
-      "link": "https://www.issuelink.co.kr/community/go/theqoo/4378439533",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 48,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 59,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "54379747220a"
-    },
-    "4ea4c7a92a27": {
-      "source": "커뮤니티 인기",
-      "title": "여자 교도관이 말해주는 여자 교도소",
-      "link": "https://www.issuelink.co.kr/community/go/etoland/9509512",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 53,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 85,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "4ea4c7a92a27"
-    },
-    "13d45243f6a4": {
-      "source": "커뮤니티 인기",
-      "title": "로컬 ai(QWEN) 사진복원",
-      "link": "https://www.issuelink.co.kr/community/go/clien/19278983",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 55,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 42,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "13d45243f6a4"
-    },
-    "5d0fe5482c2c": {
-      "source": "커뮤니티 인기",
-      "title": "와플대학이 찐대학교인 이유.jpg",
-      "link": "https://www.issuelink.co.kr/community/go/etoland/9509533",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 57,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 84,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "5d0fe5482c2c"
-    },
-    "7edd7be8a56a": {
-      "source": "커뮤니티 인기",
-      "title": "태연이 다니는 샵에서 연예인들이 아침마다 마신다는 것.jpg",
-      "link": "https://www.issuelink.co.kr/community/go/etoland/9509546",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 59,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 90,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "7edd7be8a56a"
-    },
-    "bd69de1024ce": {
-      "source": "커뮤니티 인기",
-      "title": "박해미의 알몸을 본 박해미 아들 친구.jpg",
-      "link": "https://www.issuelink.co.kr/community/go/etoland/9509698",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 60,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 55,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "bd69de1024ce"
-    },
-    "665dc1c438b4": {
-      "source": "커뮤니티 인기",
-      "title": "흑인이 여기에 다녀갔군",
-      "link": "https://www.issuelink.co.kr/community/go/etoland/9509518",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 61,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 86,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "665dc1c438b4"
-    },
-    "9a37d89f4a1c": {
-      "source": "커뮤니티 인기",
-      "title": "사회생활 할수록 환상이 없어지는 존재",
-      "link": "https://www.issuelink.co.kr/community/go/ruliweb/77058671",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 63,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 12,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "9a37d89f4a1c"
-    },
-    "7046ea583577": {
-      "source": "커뮤니티 인기",
-      "title": "이번 소방관 순직 사건과 추미애지사의 발언과 엮는건 정말 너무 선동같아요..",
-      "link": "https://www.issuelink.co.kr/community/go/clien/19278981",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 64,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 50,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "7046ea583577"
-    },
-    "799ae0298ed6": {
-      "source": "커뮤니티 인기",
-      "title": "10분 일찍 출근하라는 말에 반박하는 20대들.jpg",
-      "link": "https://www.issuelink.co.kr/community/go/etoland/9509593",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 67,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 96,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "799ae0298ed6"
-    },
-    "5f58a3638756": {
-      "source": "커뮤니티 인기",
-      "title": "고등 자퇴에 대한 의견",
-      "link": "https://www.issuelink.co.kr/community/go/clien/19278982",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 68,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 54,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "5f58a3638756"
-    },
-    "b7b76531449e": {
-      "source": "커뮤니티 인기",
-      "title": "썸녀 소원 들어주기",
-      "link": "https://www.issuelink.co.kr/community/go/inven/2741540",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 70,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 63,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "b7b76531449e"
-    },
-    "361755e632ee": {
-      "source": "커뮤니티 인기",
-      "title": "호불호 갈리는 특 돈까스",
-      "link": "https://www.issuelink.co.kr/community/go/inven/2741541",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 72,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 57,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "361755e632ee"
-    },
-    "aaa9a2c109fe": {
-      "source": "커뮤니티 인기",
-      "title": "실크 팬티 입으면 안되는 이유",
-      "link": "https://www.issuelink.co.kr/community/go/inven/2741550",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 74,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 36,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "aaa9a2c109fe"
-    },
-    "3199db331427": {
-      "source": "커뮤니티 인기",
-      "title": "요번주 미국 전쟁부 홈에 올라온 문서",
-      "link": "https://www.issuelink.co.kr/community/go/inven/2741534",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 75,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 81,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "3199db331427"
-    },
-    "01160cb65792": {
-      "source": "커뮤니티 인기",
-      "title": "오현경은 56세라는데... 진짜 제일 원탑같아요",
-      "link": "https://www.issuelink.co.kr/community/go/82cook/4250163",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 77,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 82,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "01160cb65792"
-    },
-    "a1f1aa40b30f": {
-      "source": "커뮤니티 인기",
-      "title": "전세계 진보가 다 나락가는 이유",
-      "link": "https://www.issuelink.co.kr/community/go/clien/19279009",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 79,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 7,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "a1f1aa40b30f"
-    },
-    "b0cecad20cce": {
-      "source": "커뮤니티 인기",
-      "title": "아이 낳고 개유난 자랑대회 댓글 모음",
-      "link": "https://www.issuelink.co.kr/community/go/instiz/7914464",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 82,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 48,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "b0cecad20cce"
-    },
-    "d227896f4086": {
-      "source": "커뮤니티 인기",
-      "title": "베스티 재결합 반가운 덬들이 들어봤으면 하는 강혜연 무대영상",
-      "link": "https://www.issuelink.co.kr/community/go/theqoo/4378406454",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 87,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 87,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "d227896f4086"
-    },
-    "9990f33b4db7": {
-      "source": "커뮤니티 인기",
-      "title": "우리나라 호구인거 소문났나봐요",
-      "link": "https://www.issuelink.co.kr/community/go/82cook/4250165",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 90,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 66,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "9990f33b4db7"
-    },
-    "e9c2b0c8c3ea": {
-      "source": "커뮤니티 인기",
-      "title": "치즈 형제가 다투는 방법",
-      "link": "https://www.issuelink.co.kr/community/go/theqoo/4378427693",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 93,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 93,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "e9c2b0c8c3ea"
-    },
-    "beebaefc5708": {
-      "source": "커뮤니티 인기",
-      "title": "넷컷(넷플릭스+인생네컷) 찍은 갓진영과 김유정.......",
-      "link": "https://www.issuelink.co.kr/community/go/theqoo/4378464144",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 99,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 17,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "beebaefc5708"
-    },
-    "46cdb3484b60": {
-      "source": "커뮤니티 인기",
-      "title": "아이덴티티 김희주 NEON 챌린지",
-      "link": "https://www.issuelink.co.kr/community/go/theqoo/4378441994",
-      "first_seen_at": 1792228200,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792228200,
-          "views": null,
-          "reactions": null,
-          "rank": 100,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 99,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "46cdb3484b60"
-    },
-    "48297a504194": {
-      "source": "네이버 뉴스",
-      "title": "불끄러 가장 먼저 들어갔다... 6살 딸 곁으로 못돌아왔다",
-      "link": "https://n.news.naver.com/article/023/0004004388",
-      "first_seen_at": 1792209719,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792209719,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        },
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 8,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "48297a504194",
-      "detail": {
-        "excerpt": "선발대로 투입, 불길 빠르게 번지며 고립 아내와 6살 딸 남겨두고... 화마에 스러져 3줄 요약 ㆍ…",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://imgnews.pstatic.net/image/023/2026/10/17/0004004388_001_20261017125707873.jpg?type=w800"
-          }
-        ],
-        "published_at": "2026-10-17T09:00:14+09:00",
-        "checked_at": 1792209719
-      }
-    },
-    "8d397f92919d": {
-      "source": "네이버 뉴스",
-      "title": "\"청와대서 보여야지\" 산비탈 아파트의 기막힌 탄생",
-      "link": "https://n.news.naver.com/article/047/0002532500",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "8d397f92919d"
-    },
-    "9cd6604cc257": {
-      "source": "네이버 뉴스",
-      "title": "순직 소방관 빈소 찾은 추미애, '재정 빨대' 발언 사과",
-      "link": "https://n.news.naver.com/article/047/0002532517",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "9cd6604cc257"
-    },
-    "c6eca9e84c4e": {
-      "source": "네이버 뉴스",
-      "title": "'내가 되겠어' 했는데 당첨, 베를린 마라톤에서 울어버린 이유",
-      "link": "https://n.news.naver.com/article/047/0002532499",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "c6eca9e84c4e"
-    },
-    "7529d8ffd9c5": {
-      "source": "네이버 뉴스",
-      "title": "우리 집 옆에 15만 볼트 송전선로가 묻힌다고 합니다",
-      "link": "https://n.news.naver.com/article/047/0002532501",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "7529d8ffd9c5"
-    },
-    "400875ac5a7b": {
-      "source": "네이버 뉴스",
-      "title": "\"운이 좋네\" 생각했던 친구가 나랑 달랐던 것",
-      "link": "https://n.news.naver.com/article/047/0002532520",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "400875ac5a7b"
-    },
-    "0c6521895874": {
-      "source": "네이버 뉴스",
-      "title": "소방관들, 추미애 막고 항의... 유족 “살아있을 때 잘했어야”",
-      "link": "https://n.news.naver.com/article/023/0004004412",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "0c6521895874"
-    },
-    "79f958839c38": {
-      "source": "네이버 뉴스",
-      "title": "떡 먹으려고 KTX 탄다… 2030 ‘떡지순례’ 열풍",
-      "link": "https://n.news.naver.com/article/023/0004004303",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 7,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "79f958839c38"
-    },
-    "0cf2c88466c5": {
-      "source": "네이버 뉴스",
-      "title": "불길 속 헌신한 김진석 소방관, 마지막 길은 경기도청장으로",
-      "link": "https://n.news.naver.com/article/023/0004004399",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 9,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "0cf2c88466c5"
-    },
-    "6e9ec2e2b2b4": {
-      "source": "네이버 뉴스",
-      "title": "겨울철 튄 자갈에 KTX 유리창 1000건 파손",
-      "link": "https://n.news.naver.com/article/023/0004004415",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 10,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "6e9ec2e2b2b4"
-    },
-    "5575dc7f121c": {
-      "source": "네이버 뉴스",
-      "title": "홍준표 \"尹, 한동훈 두고 '패 죽이고 싶다' 말해\"…배신 행위 비판",
-      "link": "https://n.news.naver.com/article/656/0000189762",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 16,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "5575dc7f121c"
-    },
-    "a3e0148a90bd": {
-      "source": "네이버 뉴스",
-      "title": "美트럼프 \"현대가 조지아주에 5억 6000만 달러 투자하기로\"",
-      "link": "https://n.news.naver.com/article/656/0000189741",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 17,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "a3e0148a90bd"
-    },
-    "10e630aa9d09": {
-      "source": "네이버 뉴스",
-      "title": "추미애, '소방 재정 빨대' 논란에 사과…\"의도와 다르게 전달됐다면 깊은 유감\"",
-      "link": "https://n.news.naver.com/article/656/0000189760",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 18,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "10e630aa9d09"
-    },
-    "08526ca77e17": {
-      "source": "네이버 뉴스",
-      "title": "국힘, 조희대 탄핵 논의에 \"민주당 탄핵병 도져…삼권분립 도전\"",
-      "link": "https://n.news.naver.com/article/656/0000189749",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 19,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "08526ca77e17"
-    },
-    "fe07aa61ca82": {
-      "source": "네이버 뉴스",
-      "title": "코스피 급락에 '빚투' 개미 눈물…3000억 강제 청산",
-      "link": "https://n.news.naver.com/article/656/0000189745",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 20,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "fe07aa61ca82"
-    },
-    "986ab1286dc6": {
-      "source": "네이버 뉴스",
-      "title": "\"굳이 대학 졸업장 필요 없다\"…최태원이 청년들에게 던진 조언",
-      "link": "https://n.news.naver.com/article/277/0005829754",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 24,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "986ab1286dc6"
-    },
-    "32619206bc93": {
-      "source": "네이버 뉴스",
-      "title": "\"햄버거 먹고 밤새 배가 뒤틀렸다\"…검사해도 멀쩡했던 여성의 반전 진단",
-      "link": "https://n.news.naver.com/article/277/0005829760",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 25,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "32619206bc93"
-    },
-    "c69aeb39aa73": {
-      "source": "네이트 스포츠",
-      "title": "다저스 탈락에 MLB '스몰마켓' 구단끼리 WS 격돌…35년 만의 진기록",
-      "link": "https://news.nate.com/view/20261017n04092",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 44,
-          "rank_kind": "nate_spo_interest_100"
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "c69aeb39aa73"
-    },
-    "2f381484e384": {
-      "source": "네이트 스포츠",
-      "title": "'2홈런' 김도영 \"LG전 활약 의식 안 해…나 자신만 믿었다\"[준PO1]",
-      "link": "https://news.nate.com/view/20261017n11051",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 45,
-          "rank_kind": "nate_spo_interest_100"
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "2f381484e384"
-    },
-    "a205e7806627": {
-      "source": "네이트 스포츠",
-      "title": "'AG 금메달' 유도 허미미, 전국체전 57㎏급 우승…대회 5연패",
-      "link": "https://news.nate.com/view/20261017n11058",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 50,
-          "rank_kind": "nate_spo_interest_100"
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "a205e7806627",
-      "detail": {
-        "excerpt": "한눈에 보는 오늘 : 스포츠 일반 - 뉴스 : 대한민국 허미미가 1일 일본 아이치 인터내셔널 아레나에서…",
-        "media": [
-          {
-            "label": "기사 미리보기 이미지",
-            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/na/2026/10/17/8138349_high.jpg"
-          }
-        ],
-        "checked_at": 1792231730
-      }
-    },
-    "e0be7893d0cb": {
-      "source": "디시 실베",
-      "title": "[메갤] 장례식 이후 근황...",
-      "link": "https://gall.dcinside.com/board/view/?id=dcbest&no=471048",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": 7001,
-          "reactions": 48,
-          "rank": 13,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 2,
-      "story_id": "e0be7893d0cb"
-    },
-    "ce9424401a81": {
-      "source": "네이트 연예",
-      "title": "카리나, 얼굴이 소멸 직전…헉 소리 나는 미모",
-      "link": "https://news.nate.com/view/20261017n00712",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 48,
-          "rank_kind": "nate_ent_interest_100"
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "ce9424401a81"
-    },
-    "0e1ecfd283db": {
-      "source": "네이트 연예",
-      "title": "\"정말 많이 사랑해\" 차정원, ♥하정우와 결혼 발표 후 생일 근황",
-      "link": "https://news.nate.com/view/20261017n10396",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 50,
-          "rank_kind": "nate_ent_interest_100"
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "0e1ecfd283db"
-    },
-    "26180a116a66": {
-      "source": "커뮤니티 인기",
-      "title": "어느 유부남의 마지막 카톡",
-      "link": "https://www.issuelink.co.kr/community/go/mlbpark/119489223",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "26180a116a66"
-    },
-    "09f64d9c856d": {
-      "source": "커뮤니티 인기",
-      "title": "일본 경차 몇 종류만 들어와도 좋겠는데 ㄷㄷㄷ",
-      "link": "https://www.issuelink.co.kr/community/go/slr/41775821",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 10,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "09f64d9c856d"
-    },
-    "351094562e83": {
-      "source": "커뮤니티 인기",
-      "title": "추미애 지사 지금 이렇게 보도되네요",
-      "link": "https://www.issuelink.co.kr/community/go/clien/19279019",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 20,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "351094562e83"
-    },
-    "602df7a8133c": {
-      "source": "커뮤니티 인기",
-      "title": "서브웨이 근황...(feat 이광수)",
-      "link": "https://www.issuelink.co.kr/community/go/theqoo/4378500460",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 22,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "602df7a8133c"
-    },
-    "a6715b202e3c": {
-      "source": "커뮤니티 인기",
-      "title": "코스트코는 회원만 구경 가능한가요?",
-      "link": "https://www.issuelink.co.kr/community/go/slr/41775823",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 23,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "a6715b202e3c"
-    },
-    "29bb29dc5f38": {
-      "source": "커뮤니티 인기",
-      "title": "(호리데이) 아~아 이런 데서 쓰고 싶진 않았는데.manhwa",
-      "link": "https://www.issuelink.co.kr/community/go/ruliweb/77058695",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 24,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "29bb29dc5f38"
-    },
-    "2d81922114c7": {
-      "source": "커뮤니티 인기",
-      "title": "유퀴즈 최수종하희라 유유상종",
-      "link": "https://www.issuelink.co.kr/community/go/82cook/4250180",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 29,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "2d81922114c7"
-    },
-    "5d8e9a3c2d62": {
-      "source": "커뮤니티 인기",
-      "title": "IVE 아이브 'Looks Can Kill' TEASER #2",
-      "link": "https://www.issuelink.co.kr/community/go/theqoo/4378474932",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 33,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "5d8e9a3c2d62"
-    },
-    "a971bcc5bb0e": {
-      "source": "커뮤니티 인기",
-      "title": "왜 폰들은 3.5 단자를 없앳는지",
-      "link": "https://www.issuelink.co.kr/community/go/slr/41775817",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 37,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "a971bcc5bb0e"
-    },
-    "630f72ce0410": {
-      "source": "커뮤니티 인기",
-      "title": "말포이 아버지 배우가 남긴 짤빵",
-      "link": "https://www.issuelink.co.kr/community/go/ruliweb/77058689",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 38,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "630f72ce0410"
-    },
-    "0485f3f33b82": {
-      "source": "커뮤니티 인기",
-      "title": "스피커가 14억 하는 이유가 뭐에요?",
-      "link": "https://www.issuelink.co.kr/community/go/slr/41775853",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 39,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "0485f3f33b82"
-    },
-    "242a02aff18d": {
-      "source": "커뮤니티 인기",
-      "title": "디지몬이 ㄹㅇ현실에 존재하는 세상",
-      "link": "https://www.issuelink.co.kr/community/go/ruliweb/77058705",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 41,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "242a02aff18d"
-    },
-    "1b65c2877c75": {
-      "source": "커뮤니티 인기",
-      "title": "??(워딩주의) 현재 여시에서 난리난 잤잤의심..JPG",
-      "link": "https://www.issuelink.co.kr/community/go/instiz/7914488",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 44,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "1b65c2877c75"
-    },
-    "fce2eae0daeb": {
-      "source": "커뮤니티 인기",
-      "title": "\"남자, 여자 둘 다 싸우지 말아요\"",
-      "link": "https://www.issuelink.co.kr/community/go/ruliweb/77058672",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 46,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "fce2eae0daeb"
-    },
-    "7f903a05c48d": {
-      "source": "커뮤니티 인기",
-      "title": "''솔직히 김치 좀 물림..''",
-      "link": "https://www.issuelink.co.kr/community/go/ruliweb/77058665",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 49,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "7f903a05c48d"
-    },
-    "a88c6e6de24b": {
-      "source": "커뮤니티 인기",
-      "title": "촉촉꿀고구마 레시피??",
-      "link": "https://www.issuelink.co.kr/community/go/theqoo/4378470700",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 58,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "a88c6e6de24b"
-    },
-    "bc4780228240": {
-      "source": "커뮤니티 인기",
-      "title": "테슬라 하늘 나는 차 국내 출시하면 100퍼 이럴거같음",
-      "link": "https://www.issuelink.co.kr/community/go/theqoo/4378502900",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 61,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "bc4780228240"
     }
   },
-  "updated_at": 1792831444
+  "updated_at": 1792840009
 }
