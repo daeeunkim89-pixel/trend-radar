@@ -87,10 +87,10 @@ def validate_edition(edition, target, now):
     coverage = edition["coverage"]
     if not isinstance(coverage, dict) or set(coverage) != {"queries", "opened_urls", "unavailable"}:
         raise ValueError("Editorial research coverage is required")
-    if not isinstance(coverage["queries"], list) or not 4 <= len(coverage["queries"]) <= 40:
+    if not isinstance(coverage["queries"], list) or not 4 <= len(coverage["queries"]) <= 120:
         raise ValueError("Research must cover the four requested fields")
     coverage["queries"] = [text(q, 250, "query") for q in coverage["queries"]]
-    if not isinstance(coverage["opened_urls"], list) or len(coverage["opened_urls"]) > 80:
+    if not isinstance(coverage["opened_urls"], list) or len(coverage["opened_urls"]) > 240:
         raise ValueError("Invalid opened source list")
     coverage["opened_urls"] = [public_url(u) for u in coverage["opened_urls"]]
     opened = set(coverage["opened_urls"])
@@ -331,6 +331,19 @@ def record_attempt(target, status, ready=0, excluded=0, user_requested=False, re
                              "trigger": "user_requested" if user_requested else "scheduled"})
 
 
+def hold_incomplete(target, stories, excluded=0, user_requested=False):
+    """Production must request more research before recording or locking a short edition."""
+    if os.environ.get("BTP_REQUIRE_TEN") != "1" or len(stories) >= REPORT_PICKS:
+        return False
+    ready = len(stories)
+    record_attempt(target, "needs_more_research", ready, excluded, user_requested,
+                   reason_code="verified_count_under_ten")
+    print("BTP MORE RESEARCH REQUIRED", json.dumps(
+        {"ready": ready, "required": REPORT_PICKS, "missing": REPORT_PICKS - ready,
+         "duplicates_excluded": excluded, "delivery_attempted": False}))
+    return True
+
+
 def main(recover_hour=None, prepared_hour=None, picks_file=PICKS_FILE, expected_sha256=None, preview=False,
          user_requested=False, scheduled_fallback=False):
     now = int(time.time())
@@ -369,6 +382,8 @@ def main(recover_hour=None, prepared_hour=None, picks_file=PICKS_FILE, expected_
             print("BTP EDITORIAL PREVIEW ONLY: no Telegram calls or state writes")
             print(parts[0])
             return 0
+        if hold_incomplete(target, stories, user_requested=user_requested):
+            return 3
         # Do not hold a verified HTTP connection idle throughout the preparation wait.
         if not wait_for_target(target):
             record_attempt(target, "missed_window", len(stories), user_requested=user_requested)
@@ -393,6 +408,8 @@ def main(recover_hour=None, prepared_hour=None, picks_file=PICKS_FILE, expected_
         stories = unreported_stories(stories, history, private, now)
         excluded = before - len(stories)
         stories = stories[:REPORT_PICKS]
+        if hold_incomplete(target, stories, excluded, user_requested):
+            return 3
         parts = render_edition(stories, target, edition["empty_reason"], excluded)
         # Verification/retries can consume time too; never deliver an expired review/hour.
         recovery_target(hourly_key(target)[7:], int(time.time()))
