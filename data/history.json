@@ -1,6 +1,154 @@
 {
   "version": 1,
   "items": {
+    "9fd30378d05d": {
+      "source": "스타뉴스",
+      "title": "7년 연속 한국시리즈 갔던 김태형, 롯데에선 7위 세 번…재계약 종료",
+      "link": "https://www.starnewskorea.com/sports/2026/10/24/2026102411190611370",
+      "first_seen_at": 1792818643,
+      "last_seen_at": 1792818643,
+      "samples": [
+        {
+          "at": 1792818643,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "9fd30378d05d",
+      "editorial": {
+        "title": "7년 연속 한국시리즈 갔던 김태형, 롯데에선 7위 세 번…재계약 종료",
+        "category": "메이저 스포츠",
+        "url": "https://www.starnewskorea.com/sports/2026/10/24/2026102411190611370",
+        "source": "스타뉴스",
+        "kind": "article",
+        "event_key": "lotte-giants-kim-tae-hyung-no-contract-renewal-20261024",
+        "why": "롯데 팬이 야구 친구에게 보낼 명장 영입의 결말. 두산 7년 연속 한국시리즈와 롯데 3년 연속 7위의 대비에 오늘 재계약 종료가 확정됐다.",
+        "angle": "두산에선 KS 7년 연속, 롯데에선 7위 세 번이라는 대비 뒤 구단의 재계약 종료 발표를 붙인다.",
+        "why_now": "24일 오전 롯데 관계자가 계약 만료와 재계약 미체결, 차기 감독 선임 절차를 밝혔다. 과거 성적만 반복하는 소재가 아니다.",
+        "verified_at": 1792818450,
+        "published_at": 1792807860,
+        "evidence": [
+          {
+            "url": "https://biz.chosun.com/sports/baseball/2026/10/24/GI3DOYTGGQ4DMMZYHFSDQMRSGQ/",
+            "note": "입력 24일 11:11의 공식발표 보도 본문 확인. 13:03 갱신 시각이나 스타뉴스 11:31 전재 시각을 최초 공개로 바꾸지 않음."
+          },
+          {
+            "url": "https://www.starnewskorea.com/sports/2026/10/24/2026102411190611370",
+            "note": "11:31 발행. 구단 관계자의 24일 재계약 미체결 발표, 세 시즌 7위와 두산 시절 7년 연속 KS 진출을 본문에서 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.starnewskorea.com/sports/2026/10/24/2026102411190611370",
+            "label": "구단 발표 인용 보도",
+            "kind": "source"
+          }
+        ],
+        "caution": "경질이 아니라 계약 만료·재계약 종료. 차기 감독은 미정. 팬 반응·영상은 확인하지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-24",
+          "observation": "본문에서 구단 관계자의 재계약 미체결 발언을 확인했다. 선임된 차기 감독이 있다는 내용은 없다.",
+          "checked_materials": [],
+          "outline": [
+            "두산 시절 7년 연속 한국시리즈와 롯데 3년 연속 7위를 나란히 제시",
+            "24일 구단의 계약 만료·재계약 미체결 발표",
+            "차기 감독 선임은 진행 중이라는 현재 확정 범위로 마무리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "구단 발표 인용 보도",
+            "url": "https://www.starnewskorea.com/sports/2026/10/24/2026102411190611370"
+          }
+        ],
+        "excerpt": "",
+        "context": "24일 오전 롯데 관계자가 계약 만료와 재계약 미체결, 차기 감독 선임 절차를 밝혔다. 과거 성적만 반복하는 소재가 아니다.",
+        "fetched_at": 1792818643,
+        "parser_revision": 7
+      },
+      "curation_event_key": "lotte-giants-kim-tae-hyung-no-contract-renewal-20261024"
+    },
+    "4bb89c98c4ea": {
+      "source": "경기일보",
+      "title": "담배 반출 적발 뒤 퇴사했는데…14개월 후 같은 회사에 신입 재입사",
+      "link": "https://www.kyeonggi.com/article/20261024580019",
+      "first_seen_at": 1792818643,
+      "last_seen_at": 1792818643,
+      "samples": [
+        {
+          "at": 1792818643,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "4bb89c98c4ea",
+      "editorial": {
+        "title": "담배 반출 적발 뒤 퇴사했는데…14개월 후 같은 회사에 신입 재입사",
+        "category": "시사",
+        "url": "https://www.kyeonggi.com/article/20261024580019",
+        "source": "경기일보",
+        "kind": "article",
+        "event_key": "incheon-airport-lost-cigarettes-resignation-rehire-audit-20261024",
+        "why": "직장인이 동료에게 보낼 황당한 인사 사례. 감사 전 퇴사로 징계 이력이 남지 않았고 같은 회사가 과거 근무 이력조차 놓친 채 다시 뽑았다.",
+        "angle": "담배 3보루 반출 적발→감사 직전 퇴사→14개월 뒤 같은 회사 신입이라는 세 단계가 첫 장의 핵심이다.",
+        "why_now": "24일 황희 의원이 제출받은 공항공사 자료로 드러난 인사·감사 허점. 적발·재입사 자체는 2024~2025년이고 오늘은 자료 공개 보도다.",
+        "verified_at": 1792818450,
+        "published_at": 1792798380,
+        "evidence": [
+          {
+            "url": "https://www.kyeonggi.com/article/20261024580019",
+            "note": "승인 2026-10-24 08:33. 24일 공개된 국회 제출자료, 2024년 3월 적발·4월 퇴사, 2025년 6월 재입사·12월 감봉 6개월을 본문에서 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.kyeonggi.com/article/20261024580019",
+            "label": "국회 제출자료 취재 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "2024~2025년 사건의 오늘 공개된 감사 허점이다. 절도 유죄 확정·해고라고 쓰지 않는다. 원자료 파일은 미확인.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-24",
+          "observation": "취재 원문에서 24일 자료 공개 사실과 실제 사건 연혁, 감봉 처분 및 미개정 규정 문제를 확인했다. 현장 영상은 없다.",
+          "checked_materials": [],
+          "outline": [
+            "2024년 담배 3보루 반출 적발과 감사 전 자진 퇴사",
+            "2025년 경력 누락 상태로 같은 회사에 신입 재입사",
+            "뒤늦은 감봉과 아직 고치지 않은 규정 문제를 24일 공개자료로 연결"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "국회 제출자료 취재 원문",
+            "url": "https://www.kyeonggi.com/article/20261024580019"
+          }
+        ],
+        "excerpt": "",
+        "context": "24일 황희 의원이 제출받은 공항공사 자료로 드러난 인사·감사 허점. 적발·재입사 자체는 2024~2025년이고 오늘은 자료 공개 보도다.",
+        "fetched_at": 1792818643,
+        "parser_revision": 7
+      },
+      "curation_event_key": "incheon-airport-lost-cigarettes-resignation-rehire-audit-20261024"
+    },
     "46190c6dbd64": {
       "source": "연합뉴스",
       "title": "아침부터 안 보인 '부캉이'…800m 떨어진 북항 바다엔 10×30m 기름띠",
@@ -161805,43 +161953,7 @@
       ],
       "parser_revision": 3,
       "story_id": "1ee979bfa55f"
-    },
-    "660044a3f7d3": {
-      "source": "커뮤니티 인기",
-      "title": "손님이 정수기 물 받아가는건요?",
-      "link": "https://www.issuelink.co.kr/community/go/82cook/4250168",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 77,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "660044a3f7d3"
-    },
-    "862b385b01d9": {
-      "source": "커뮤니티 인기",
-      "title": "현대인은 스마트폰 뺏으면 1주일도 못버틸꺼라 확신하는 사람",
-      "link": "https://www.fmkorea.com/10455862210",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 78,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "862b385b01d9"
     }
   },
-  "updated_at": 1792807435
+  "updated_at": 1792818643
 }

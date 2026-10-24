@@ -1849,6 +1849,24 @@
       "delivery": "sent",
       "delivery_key": "hourly-2026102402",
       "picks": []
+    },
+    {
+      "hour_utc": "2026102405",
+      "at": 1792818644,
+      "delivery": "sent",
+      "delivery_key": "hourly-2026102405",
+      "picks": [
+        {
+          "title": "7년 연속 한국시리즈 갔던 김태형, 롯데에선 7위 세 번…재계약 종료",
+          "url": "https://www.starnewskorea.com/sports/2026/10/24/2026102411190611370",
+          "event_key": "lotte-giants-kim-tae-hyung-no-contract-renewal-20261024"
+        },
+        {
+          "title": "담배 반출 적발 뒤 퇴사했는데…14개월 후 같은 회사에 신입 재입사",
+          "url": "https://www.kyeonggi.com/article/20261024580019",
+          "event_key": "incheon-airport-lost-cigarettes-resignation-rehire-audit-20261024"
+        }
+      ]
     }
   ]
 }
