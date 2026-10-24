@@ -7,7 +7,7 @@ import sys
 import venv
 
 ROOT = Path(__file__).resolve().parent
-IMPORT_CHECK = "import requests, bs4, lxml, cryptography"
+IMPORT_CHECK = "import requests, bs4, lxml, cryptography; import playwright.sync_api"
 
 
 def ready(python):
