@@ -1,6 +1,819 @@
 {
   "version": 1,
   "items": {
+    "0d5d059cbbf2": {
+      "source": "SBS·연합뉴스",
+      "title": "PK·리바운드 막고 비겼는데 우승…서울의 10년 기다림이 끝났다",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813152",
+      "first_seen_at": 1792831444,
+      "last_seen_at": 1792831444,
+      "samples": [
+        {
+          "at": 1792831444,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "0d5d059cbbf2",
+      "editorial": {
+        "title": "PK·리바운드 막고 비겼는데 우승…서울의 10년 기다림이 끝났다",
+        "category": "축구",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813152",
+        "source": "SBS·연합뉴스",
+        "kind": "article",
+        "event_key": "fc-seoul-gangwon-draw-2026-kleague-title-clinched-20261024",
+        "why": "서울 팬이 타팀 친구에게 보낼 우승 확정 순간이다. PK와 재차 슈팅을 막고 비긴 경기가 울산의 무승부와 맞물려 10년 기다림을 끝냈다.",
+        "angle": "한 경기는 1-1인데 관중석엔 거대한 우승 트로피 풍선",
+        "why_now": "24일 강원전 종료와 울산전 결과로 남은 파이널 라운드와 관계없이 서울 우승이 확정됐다.",
+        "verified_at": 1792830247,
+        "published_at": 1792826607,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813152",
+            "note": "현장기사 본문에서 구성윤의 PK·후속 슈팅 선방, 문선민 득점, 강원 동점과 서울 우승 확정을 확인했다. 실제 사진에는 관중석의 대형 트로피 풍선과 응원 관중이 보인다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://img.sbs.co.kr/newimg/news/20261024/202234471_1280.jpg",
+            "label": "상암 관중석 트로피 풍선",
+            "kind": "image"
+          },
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813152",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "경기 영상 미시청. 선방·세리머니 동작은 현장기사에 따른 설명이며 사진 확인과 구분한다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-24",
+          "observation": "현장기사 본문에서 구성윤의 PK·후속 슈팅 선방, 문선민 득점, 강원 동점과 서울 우승 확정을 확인했다. 실제 사진에는 관중석의 대형 트로피 풍선과 응원 관중이 보인다.",
+          "checked_materials": [
+            "https://img.sbs.co.kr/newimg/news/20261024/202234471_1280.jpg"
+          ],
+          "outline": [
+            "관중석의 거대한 트로피 풍선을 첫 장에 배치",
+            "PK·후속 슈팅 선방을 기사 확인 사실로 설명",
+            "서울 1-1·울산 무승부가 우승을 확정한 구조와 10년 기다림 회수"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [
+          {
+            "url": "https://img.sbs.co.kr/newimg/news/20261024/202234471_1280.jpg",
+            "label": "상암 관중석 트로피 풍선",
+            "kind": "image"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "상암 관중석 트로피 풍선",
+            "url": "https://img.sbs.co.kr/newimg/news/20261024/202234471_1280.jpg"
+          },
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813152"
+          }
+        ],
+        "excerpt": "",
+        "context": "24일 강원전 종료와 울산전 결과로 남은 파이널 라운드와 관계없이 서울 우승이 확정됐다.",
+        "fetched_at": 1792831444,
+        "parser_revision": 7
+      },
+      "curation_event_key": "fc-seoul-gangwon-draw-2026-kleague-title-clinched-20261024"
+    },
+    "5762c561edd8": {
+      "source": "엑스포츠뉴스",
+      "title": "비기기만 하면 됐던 제주…퇴장 뒤 동점 만들고도 파이널B 추락",
+      "link": "https://www.xportsnews.com/article/2210987",
+      "first_seen_at": 1792831444,
+      "last_seen_at": 1792831444,
+      "samples": [
+        {
+          "at": 1792831444,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "5762c561edd8",
+      "editorial": {
+        "title": "비기기만 하면 됐던 제주…퇴장 뒤 동점 만들고도 파이널B 추락",
+        "category": "축구",
+        "url": "https://www.xportsnews.com/article/2210987",
+        "source": "엑스포츠뉴스",
+        "kind": "article",
+        "event_key": "incheon-jeju-final-a-decider-red-card-comeback-collapse-20261024",
+        "why": "국축 팬이 제주·인천 팬에게 보낼 단두대전이다. 제주는 한 명이 퇴장한 뒤에도 프리킥으로 동점을 만들었지만 막판 두 골에 상위 스플릿 자리를 내줬다.",
+        "angle": "무승부면 6강→퇴장→프리킥 동점→끝내 1-3",
+        "why_now": "24일 정규라운드 마지막 맞대결에서 두 팀이 승점 동률이 됐고 다득점으로 인천이 파이널A에 올랐다.",
+        "verified_at": 1792830707,
+        "published_at": 1792824979,
+        "evidence": [
+          {
+            "url": "https://www.xportsnews.com/article/2210987",
+            "note": "현장 리뷰 본문에서 유인수 후반20분 퇴장, 네게바26분 프리킥 동점,36분 이동률 슈팅의 굴절 득점과 추가시간 이청용 골,다득점 순위 역전을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.xportsnews.com/article/2210987",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "실제 경기 영상 미시청. 퇴장·득점은 현장 취재 본문 확인이며 영상 확인으로 쓰지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-24",
+          "observation": "현장 리뷰 본문에서 유인수 후반20분 퇴장, 네게바26분 프리킥 동점,36분 이동률 슈팅의 굴절 득점과 추가시간 이청용 골,다득점 순위 역전을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "무승부만 필요했던 제주의 경기 전 조건 제시",
+            "퇴장 뒤 프리킥 동점으로 되살아난 희망",
+            "막판 두 실점과 승점 동률·다득점 차로 갈린 파이널A/B"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://www.xportsnews.com/article/2210987"
+          }
+        ],
+        "excerpt": "",
+        "context": "24일 정규라운드 마지막 맞대결에서 두 팀이 승점 동률이 됐고 다득점으로 인천이 파이널A에 올랐다.",
+        "fetched_at": 1792831444,
+        "parser_revision": 7
+      },
+      "curation_event_key": "incheon-jeju-final-a-decider-red-card-comeback-collapse-20261024"
+    },
+    "c80fa1cd7688": {
+      "source": "연합뉴스",
+      "title": "순직 소방관 추모 예산 1억→0원…사무비 750만원으로 치른 행사",
+      "link": "https://www.yna.co.kr/amp/view/AKR20261024027600061",
+      "first_seen_at": 1792831444,
+      "last_seen_at": 1792831444,
+      "samples": [
+        {
+          "at": 1792831444,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "c80fa1cd7688",
+      "editorial": {
+        "title": "순직 소방관 추모 예산 1억→0원…사무비 750만원으로 치른 행사",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/amp/view/AKR20261024027600061",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "gyeonggi-119-memorial-day-budget-cut-actual-event-20261024",
+        "why": "현장직 친구에게 보여줄 예우와 예산의 간극이다. 지난해 5500명이 오던 추모행사가 예산 전액 삭감 뒤 유가족 중심 60명 행사로 줄었다.",
+        "angle": "추모는 계속했지만 행사비는 소방본부 사무비에서 꺼냈다",
+        "why_now": "24일 실제 열린 2회 추모행사의 규모·비용과 도지사의 처우 개선 발언이 함께 공개됐다.",
+        "verified_at": 1792830760,
+        "published_at": 1792814144,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/amp/view/AKR20261024027600061",
+            "note": "원문에서 작년 도비1억원·5500여명·7시간과 올해 자체 사무관리비750여만원·60여명·2시간을 대조했다. 올해는 도민 체험행사가 빠진 유가족 중심 행사였다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/amp/view/AKR20261024027600061",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "행사 취소나 추모 자체 중단이 아니다. 도민 체험 프로그램 제외가 참석자 차이에 영향을 준 맥락을 함께 쓴다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-24",
+          "observation": "원문에서 작년 도비1억원·5500여명·7시간과 올해 자체 사무관리비750여만원·60여명·2시간을 대조했다. 올해는 도민 체험행사가 빠진 유가족 중심 행사였다.",
+          "checked_materials": [],
+          "outline": [
+            "작년 5500명·7시간과 올해 60명·2시간의 차이",
+            "도비 전액 삭감 뒤 사무관리비750만원 조달",
+            "추미애의 처우·예우 개선 약속과 노조의 추모 확대 요구 병기"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://www.yna.co.kr/amp/view/AKR20261024027600061"
+          }
+        ],
+        "excerpt": "",
+        "context": "24일 실제 열린 2회 추모행사의 규모·비용과 도지사의 처우 개선 발언이 함께 공개됐다.",
+        "fetched_at": 1792831444,
+        "parser_revision": 7
+      },
+      "curation_event_key": "gyeonggi-119-memorial-day-budget-cut-actual-event-20261024"
+    },
+    "31215d486b4f": {
+      "source": "SBS",
+      "title": "사망설은 허위라더니 다음 날 중국으로…김정은, 새 다리 건넜다",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813154",
+      "first_seen_at": 1792831444,
+      "last_seen_at": 1792831444,
+      "samples": [
+        {
+          "at": 1792831444,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "31215d486b4f",
+      "editorial": {
+        "title": "사망설은 허위라더니 다음 날 중국으로…김정은, 새 다리 건넜다",
+        "category": "시사",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813154",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "kim-jong-un-surprise-china-dandong-visit-new-bridge-20261024",
+        "why": "정치 뉴스를 보던 친구에게 보낼 행보의 반전이다. 사망설이 허위라는 국정원 보고 다음 날 김정은의 전격 방중이 확인됐고, 개통 9일 된 다리를 택했다.",
+        "angle": "사망설 다음 장은 은둔이 아니라 중국 단둥 도착",
+        "why_now": "방중 1보는 24일14:59. 1년1개월 만의 방중과 신압록강대교 이동이라는 새 사실이 확인됐다.",
+        "verified_at": 1792830247,
+        "published_at": 1792821559,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813154",
+            "note": "SBS 본문과 연합뉴스14:59 1보를 대조했다. 정부 소식통의24일 단둥 도착 확인,15일 대교 개통,전날 국정원 사망설 허위 보고를 확인했다."
+          },
+          {
+            "url": "https://www.yna.co.kr/amp/view/AKR20261024033900504",
+            "note": "공개 원문 메타데이터의 최초 송고14:59:19와 단둥 도착 1보를 확인. 후속 기사 갱신시각을 최초 공개로 쓰지 않음."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813154",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "사망설을 사실처럼 재유포하지 않는다. 방중 확인은 정부 소식통에 따른 보도이며 시진핑 회담은 미확정.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-24",
+          "observation": "SBS 본문과 연합뉴스14:59 1보를 대조했다. 정부 소식통의24일 단둥 도착 확인,15일 대교 개통,전날 국정원 사망설 허위 보고를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "사망설은 허위라는 전날 보고와 오늘 방중 확인을 나란히",
+            "2014년 완공 후15일 개통된 다리를 이번엔 김정은이 이용",
+            "시진핑 회담 여부는 미확정으로 남기고 이동 사실만 회수"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813154"
+          }
+        ],
+        "excerpt": "",
+        "context": "방중 1보는 24일14:59. 1년1개월 만의 방중과 신압록강대교 이동이라는 새 사실이 확인됐다.",
+        "fetched_at": 1792831444,
+        "parser_revision": 7
+      },
+      "curation_event_key": "kim-jong-un-surprise-china-dandong-visit-new-bridge-20261024"
+    },
+    "8c4f5619fb88": {
+      "source": "스타뉴스·승리 법률대리인",
+      "title": "소주병 든 건 맞지만 휘두르진 않았다…승리 측이 공개한 반박 전문",
+      "link": "https://www.starnewskorea.com/music/2026/10/23/2026102319232239578",
+      "first_seen_at": 1792831444,
+      "last_seen_at": 1792831444,
+      "samples": [
+        {
+          "at": 1792831444,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "8c4f5619fb88",
+      "editorial": {
+        "title": "소주병 든 건 맞지만 휘두르진 않았다…승리 측이 공개한 반박 전문",
+        "category": "시사",
+        "url": "https://www.starnewskorea.com/music/2026/10/23/2026102319232239578",
+        "source": "스타뉴스·승리 법률대리인",
+        "kind": "article",
+        "event_key": "seungri-bottle-assault-complaint-lawyer-statement-20261023",
+        "why": "사건 뉴스를 보던 친구에게 보낼 인정과 부인의 경계다. 승리 측은 병을 집어 든 행동은 인정하면서 폭행·조폭 협박은 부인했고,고소인과의 연락 경위를 반박 근거로 들었다.",
+        "angle": "병을 든 사실은 인정,휘두르거나 때렸다는 주장은 부인",
+        "why_now": "23일19:39 법률대리인이 직접 전달한 입장문 전문이 공개됐다. 최초 공개22시간대로 확대된24시간 편집범위의 미발송 원본이다.",
+        "verified_at": 1792831188,
+        "published_at": 1792751945,
+        "evidence": [
+          {
+            "url": "https://www.starnewskorea.com/music/2026/10/23/2026102319232239578",
+            "note": "법률대리인의23일 입장문 전문과 고소인 주장 병기를 확인했다. 병을 집은 사실 인정,휘두름·가격 부인,고소 뒤 합의 제안과 수사 대응 주장이 담겼다. 원 사건은8월8일이다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.starnewskorea.com/music/2026/10/23/2026102319232239578",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "23일 새 반박문을 다루며8월 사건을 오늘 발생으로 쓰지 않는다. 양측 주장은 미확정. CCTV 영상은 미시청.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-23",
+          "observation": "법률대리인의23일 입장문 전문과 고소인 주장 병기를 확인했다. 병을 집은 사실 인정,휘두름·가격 부인,고소 뒤 합의 제안과 수사 대응 주장이 담겼다. 원 사건은8월8일이다.",
+          "checked_materials": [],
+          "outline": [
+            "입장문에서 병을 집은 행위와 부인한 행위를 분리",
+            "합석·퇴거 요구·사건 뒤 연락에 대한 대리인의 설명",
+            "고소인의 다른 주장도 병기하고 수사 중이라는 결론"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://www.starnewskorea.com/music/2026/10/23/2026102319232239578"
+          }
+        ],
+        "excerpt": "",
+        "context": "23일19:39 법률대리인이 직접 전달한 입장문 전문이 공개됐다. 최초 공개22시간대로 확대된24시간 편집범위의 미발송 원본이다.",
+        "fetched_at": 1792831444,
+        "parser_revision": 7
+      },
+      "curation_event_key": "seungri-bottle-assault-complaint-lawyer-statement-20261023"
+    },
+    "c86094bc0dee": {
+      "source": "연합뉴스",
+      "title": "농작물 지키려 노루에 쏜 총…고추밭 일하던 80대가 맞았다",
+      "link": "https://www.yna.co.kr/amp/view/AKR20261024011400065",
+      "first_seen_at": 1792831444,
+      "last_seen_at": 1792831444,
+      "samples": [
+        {
+          "at": 1792831444,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "c86094bc0dee",
+      "editorial": {
+        "title": "농작물 지키려 노루에 쏜 총…고추밭 일하던 80대가 맞았다",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/amp/view/AKR20261024011400065",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "jangbong-island-deer-control-shot-injures-farmer-disclosed-20261024",
+        "why": "농촌 안전 이야기를 나눌 때 바로 전달되는 모순이다. 농작물 피해를 막으러 온 엽사가 쏜 산탄에 정작 밭일하던 주민이 다쳤다.",
+        "angle": "노루가 밭을 망친다고 불렀는데 밭일하던 사람이 부상",
+        "why_now": "23일11:15 사고의 경위·엽사 진술·과실치상 조사가24일07:38 원보도로 공개됐다.",
+        "verified_at": 1792830643,
+        "published_at": 1792795109,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/amp/view/AKR20261024011400065",
+            "note": "인천소방본부·영종경찰서 취재 원문에서 장봉도 고추밭의80대 다리 산탄 부상,주민의 노루 포획 요청,엽사의 앉아있어 못 봤다는 진술과 과실치상 조사를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/amp/view/AKR20261024011400065",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "생명에 지장 없음. 진술은 경찰이 전한 엽사 주장이다. 불법 총기나 고의 발사로 단정하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-23",
+          "observation": "인천소방본부·영종경찰서 취재 원문에서 장봉도 고추밭의80대 다리 산탄 부상,주민의 노루 포획 요청,엽사의 앉아있어 못 봤다는 진술과 과실치상 조사를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "농작물 피해를 막아달라는 주민 요청",
+            "인근 고추밭 주민에게 날아간 산탄과 병원 이송",
+            "총기 허가는 있었지만 안전 확인은 됐는지 수사 중이라는 결말"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://www.yna.co.kr/amp/view/AKR20261024011400065"
+          }
+        ],
+        "excerpt": "",
+        "context": "23일11:15 사고의 경위·엽사 진술·과실치상 조사가24일07:38 원보도로 공개됐다.",
+        "fetched_at": 1792831444,
+        "parser_revision": 7
+      },
+      "curation_event_key": "jangbong-island-deer-control-shot-injures-farmer-disclosed-20261024"
+    },
+    "8669800c7cce": {
+      "source": "메가충청뉴스",
+      "title": "수사까지 했는데 아이126명 행방 모른다…범죄 송치 후에도 못 찾은 사례",
+      "link": "https://www.megaccnews.com/news/articleView.html?idxno=10030",
+      "first_seen_at": 1792831444,
+      "last_seen_at": 1792831444,
+      "samples": [
+        {
+          "at": 1792831444,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "8669800c7cce",
+      "editorial": {
+        "title": "수사까지 했는데 아이126명 행방 모른다…범죄 송치 후에도 못 찾은 사례",
+        "category": "시사",
+        "url": "https://www.megaccnews.com/news/articleView.html?idxno=10030",
+        "source": "메가충청뉴스",
+        "kind": "article",
+        "event_key": "unregistered-children-126-unlocated-police-records-disclosed-20261024",
+        "why": "아이 키우는 친구와 공공시스템을 논할 때 보낼 빈틈이다. 출생조사와 수사를 거쳤어도126명의 행방은 미확인이고 일부는 범죄혐의가 인정된 뒤에도 못 찾았다.",
+        "angle": "사건을 송치하는 것과 아이를 찾는 것은 달랐다",
+        "why_now": "24일 소병훈 의원이 경찰청에서 받은 자료로 실제 수사781건의 처리 결과와 소재 미확인 사례가 공개됐다.",
+        "verified_at": 1792830548,
+        "published_at": 1792815390,
+        "evidence": [
+          {
+            "url": "https://www.megaccnews.com/news/articleView.html?idxno=10030",
+            "note": "본문의 경찰청 제출자료 집계에서781건 중 생존641명·사망14명·미확인126명을 확인했다. 범죄혐의 송치·보호사건42건과 추적 중지116건은 서로 다른 집계다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.megaccnews.com/news/articleView.html?idxno=10030",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "126명을 사망자로 표현하지 않는다.42건 전부가 소재 미확인이라는 뜻도 아니다. 사진은 실제 아동 피해 증거로 쓰지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-24",
+          "observation": "본문의 경찰청 제출자료 집계에서781건 중 생존641명·사망14명·미확인126명을 확인했다. 범죄혐의 송치·보호사건42건과 추적 중지116건은 서로 다른 집계다.",
+          "checked_materials": [],
+          "outline": [
+            "781건을 조사·수사했지만126명은 아직 미확인",
+            "유기·아동매매 등 범죄혐의가 있어도 소재를 못 찾은 사례",
+            "단서 부족으로 중단된 추적과 의원의 재점검 요구를 연결"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://www.megaccnews.com/news/articleView.html?idxno=10030"
+          }
+        ],
+        "excerpt": "",
+        "context": "24일 소병훈 의원이 경찰청에서 받은 자료로 실제 수사781건의 처리 결과와 소재 미확인 사례가 공개됐다.",
+        "fetched_at": 1792831444,
+        "parser_revision": 7
+      },
+      "curation_event_key": "unregistered-children-126-unlocated-police-records-disclosed-20261024"
+    },
+    "0e0b725fbfb0": {
+      "source": "머니투데이",
+      "title": "4분40초 합격선인데6분22초…기자가 직접 해본 경찰 체력시험",
+      "link": "https://www.mt.co.kr/article/2026102309450118284",
+      "first_seen_at": 1792831444,
+      "last_seen_at": 1792831444,
+      "samples": [
+        {
+          "at": 1792831444,
+          "views": null,
+          "reactions": null,
+          "rank": 8,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "0e0b725fbfb0",
+      "editorial": {
+        "title": "4분40초 합격선인데6분22초…기자가 직접 해본 경찰 체력시험",
+        "category": "시사",
+        "url": "https://www.mt.co.kr/article/2026102309450118284",
+        "source": "머니투데이",
+        "kind": "article",
+        "event_key": "moneytoday-reporter-police-circuit-test-experience-published-20261024",
+        "why": "경찰 체력시험 논쟁을 하는 친구에게 숫자 대신 실제 체험을 보낼 수 있다. 조끼4.2kg·더미72kg을 거친 기자는 손가락 힘까지 빠져 합격선에 못 미쳤다.",
+        "angle": "달리기 끝난 줄 알았더니72kg 더미를 끌고 방아쇠까지",
+        "why_now": "22일 현장 체험의 구체적인 과정·6분22초98 기록·수험생 발언을 담은 기자의 최초 취재본이24일06:05 공개됐다.",
+        "verified_at": 1792830707,
+        "published_at": 1792789500,
+        "evidence": [
+          {
+            "url": "https://www.mt.co.kr/article/2026102309450118284",
+            "note": "기자의 직접 취재 원문에서4.2kg 조끼,5종목,72kg 더미,4분40초 합격선,6분22초98 체험 기록과 여성 수험생들의 동일 기준 지지 발언을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.mt.co.kr/article/2026102309450118284",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "22일 체험과24일 최초 취재 공개를 구분한다. 기자1명의 결과를 여성 전체 능력으로 일반화하지 않는다. 영상은 미시청.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-22",
+          "observation": "기자의 직접 취재 원문에서4.2kg 조끼,5종목,72kg 더미,4분40초 합격선,6분22초98 체험 기록과 여성 수험생들의 동일 기준 지지 발언을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "조끼4.2kg·72kg 더미·5종목의 실제 체험 조건",
+            "장벽을 못 넘고 구조하기 뒤 방아쇠 당길 힘도 빠진 기자",
+            "6분22초98 결과와 성별보다 준비가 중요하다는 수험생 발언"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://www.mt.co.kr/article/2026102309450118284"
+          }
+        ],
+        "excerpt": "",
+        "context": "22일 현장 체험의 구체적인 과정·6분22초98 기록·수험생 발언을 담은 기자의 최초 취재본이24일06:05 공개됐다.",
+        "fetched_at": 1792831444,
+        "parser_revision": 7
+      },
+      "curation_event_key": "moneytoday-reporter-police-circuit-test-experience-published-20261024"
+    },
+    "7911b7c1016e": {
+      "source": "SBS",
+      "title": "뒤집힌 트레일러·차량 화재 수습하다…통제하던 경찰도 화물차에 치여",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813081",
+      "first_seen_at": 1792831444,
+      "last_seen_at": 1792831444,
+      "samples": [
+        {
+          "at": 1792831444,
+          "views": null,
+          "reactions": null,
+          "rank": 9,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "7911b7c1016e",
+      "editorial": {
+        "title": "뒤집힌 트레일러·차량 화재 수습하다…통제하던 경찰도 화물차에 치여",
+        "category": "시사",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813081",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "yeoju-yeongdong-highway-officer-secondary-collision-20261024",
+        "why": "운전하는 친구에게 보낼 2차 사고의 실제 대가다. 기존 충돌과 화재를 수습하며 교통을 통제하던 경찰관이6.5t 화물차에 치여 긴급 수술을 받았다.",
+        "angle": "사고를 막으러 선 사람까지 다시 사고를 당했다",
+        "why_now": "24일 오전 사고와 경찰청장 직무대행의 치료·재활·일상회복 지원 지시가 같은 날 공개됐다.",
+        "verified_at": 1792830247,
+        "published_at": 1792821028,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813081",
+            "note": "본문에서 여주휴게소 인근 전도 트레일러·SUV 충돌 화재,현장 통제 중 경위의6.5t 화물차 피격,중상·긴급수술과 생명 지장 없음,지원 지시를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813081",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "상해의 자극적 사진·재연을 쓰지 않는다. 화물차 운전자의 고의나 과실 확정은 보도되지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-24",
+          "observation": "본문에서 여주휴게소 인근 전도 트레일러·SUV 충돌 화재,현장 통제 중 경위의6.5t 화물차 피격,중상·긴급수술과 생명 지장 없음,지원 지시를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "뒤집힌 트레일러와 SUV 충돌·화재라는 첫 사고 설명",
+            "교통을 통제하던 경찰관에게 이어진 두 번째 충돌",
+            "긴급수술·재활 지원과 사고 현장 감속의 현실적인 이유"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813081"
+          }
+        ],
+        "excerpt": "",
+        "context": "24일 오전 사고와 경찰청장 직무대행의 치료·재활·일상회복 지원 지시가 같은 날 공개됐다.",
+        "fetched_at": 1792831444,
+        "parser_revision": 7
+      },
+      "curation_event_key": "yeoju-yeongdong-highway-officer-secondary-collision-20261024"
+    },
+    "b9c642e8de66": {
+      "source": "SBS 뉴스토리",
+      "title": "회사를 운영하던30대가9급 준비생으로…다시 노량진 간 이유",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812877",
+      "first_seen_at": 1792831444,
+      "last_seen_at": 1792831444,
+      "samples": [
+        {
+          "at": 1792831444,
+          "views": null,
+          "reactions": null,
+          "rank": 10,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "b9c642e8de66",
+      "editorial": {
+        "title": "회사를 운영하던30대가9급 준비생으로…다시 노량진 간 이유",
+        "category": "시사",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812877",
+        "source": "SBS 뉴스토리",
+        "kind": "article",
+        "event_key": "sbs-newstory-thirties-return-to-civil-service-exam-20261024",
+        "why": "이직·취업 고민 중인 친구에게 보낼 생활형 반전이다. 사장을 하던30대가 재취업에 막혀9급을 준비하고,다른 수험생은 두 번의 정리해고 뒤 안정성을 택했다.",
+        "angle": "사장님에서9급 공시생으로,내려온 게 아니라 불안을 피한 선택",
+        "why_now": "24일 공개된 뉴스토리 취재본이30대 재도전자들의 구체적인 경력·선택 이유와 바뀐 노량진 풍경을 소개했다.",
+        "verified_at": 1792830247,
+        "published_at": 1792800000,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812877",
+            "note": "SBS 자체 취재 본문에서 중소기업 운영 뒤 번아웃·10곳 이상 지원 후9급 도전,두 직장 정리해고 경험자의 안정성 선택,휴대폰을 맡기는 주55시간 관리형 독서실을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812877",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "24일 공개 취재 내용이며 개별 인터뷰 촬영일은 미표기. 방송 영상 미시청. 전체30대의 흐름으로 단정하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-24",
+          "observation": "SBS 자체 취재 본문에서 중소기업 운영 뒤 번아웃·10곳 이상 지원 후9급 도전,두 직장 정리해고 경험자의 안정성 선택,휴대폰을 맡기는 주55시간 관리형 독서실을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "사장 출신30대가10곳 넘게 이력서를 내다9급을 택한 사연",
+            "두 직장에서 정리해고를 겪은 수험생의 선택 이유",
+            "휴대폰을 맡기고 주55시간 공부하는 노량진의 새 풍경"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812877"
+          }
+        ],
+        "excerpt": "",
+        "context": "24일 공개된 뉴스토리 취재본이30대 재도전자들의 구체적인 경력·선택 이유와 바뀐 노량진 풍경을 소개했다.",
+        "fetched_at": 1792831444,
+        "parser_revision": 7
+      },
+      "curation_event_key": "sbs-newstory-thirties-return-to-civil-service-exam-20261024"
+    },
+    "9dc2295064b5": {
+      "source": "SBS",
+      "title": "신천지 의혹 따지던 공수가 바뀌었다…국힘,민주당 조사 결과에 특검 요구",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813073",
+      "first_seen_at": 1792831444,
+      "last_seen_at": 1792831444,
+      "samples": [
+        {
+          "at": 1792831444,
+          "views": null,
+          "reactions": null,
+          "rank": 11,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "9dc2295064b5",
+      "editorial": {
+        "title": "신천지 의혹 따지던 공수가 바뀌었다…국힘,민주당 조사 결과에 특검 요구",
+        "category": "시사",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813073",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "ppp-demands-special-counsel-democratic-party-shincheonji-disclosure-20261024",
+        "why": "정치 대화를 나누는 친구에게 보낼 공격·방어의 역전이다. 신천지 유착 공세를 받던 국민의힘이 이번엔 민주당 자체 조사 결과를 공개하고 특검을 받으라고 요구했다.",
+        "angle": "상대에게 정교유착 따지더니 우리 조사 결과는 공개할까 말까",
+        "why_now": "24일 국민의힘 대변인 논평 두 건에서 민주당의 조사 결과 공개 공방을 겨냥한 특검 요구가 새로 나왔다.",
+        "verified_at": 1792830440,
+        "published_at": 1792819001,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813073",
+            "note": "SBS 취재 본문에서24일 박성훈·조용술 대변인의 조사 결과 공개와 특검 요구 논평을 확인했다. 신천지 개입·유착이 사실이라는 수사 결론은 본문에 없다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813073",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "야당의 주장과 확인 사실을 구분한다. 실제 회의 고성 장면 미시청. 신천지 개입이나 유착을 사실로 단정하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-24",
+          "observation": "SBS 취재 본문에서24일 박성훈·조용술 대변인의 조사 결과 공개와 특검 요구 논평을 확인했다. 신천지 개입·유착이 사실이라는 수사 결론은 본문에 없다.",
+          "checked_materials": [],
+          "outline": [
+            "야당이 오늘 여당을 향해 요구한 조사 결과 공개",
+            "민주당이 좋아하는 특검을 하자는 조용술 논평의 되받아치기",
+            "확인된 것은 특검 요구 행동이며 유착 의혹은 미확정이라고 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813073"
+          }
+        ],
+        "excerpt": "",
+        "context": "24일 국민의힘 대변인 논평 두 건에서 민주당의 조사 결과 공개 공방을 겨냥한 특검 요구가 새로 나왔다.",
+        "fetched_at": 1792831444,
+        "parser_revision": 7
+      },
+      "curation_event_key": "ppp-demands-special-counsel-democratic-party-shincheonji-disclosure-20261024"
+    },
     "9fd30378d05d": {
       "source": "스타뉴스",
       "title": "7년 연속 한국시리즈 갔던 김태형, 롯데에선 7위 세 번…재계약 종료",
@@ -161755,205 +162568,7 @@
       ],
       "parser_revision": 3,
       "story_id": "bc4780228240"
-    },
-    "8badb4c4f3f0": {
-      "source": "커뮤니티 인기",
-      "title": "바타랑 통화하는데 애교개끼고 너무 사랑스러운 지예은",
-      "link": "https://www.issuelink.co.kr/community/go/theqoo/4378466957",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 62,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "8badb4c4f3f0"
-    },
-    "23c2fbd175ad": {
-      "source": "커뮤니티 인기",
-      "title": "어느 50대 아재의 당근 알바 구인",
-      "link": "https://www.fmkorea.com/10455713718",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 65,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "23c2fbd175ad"
-    },
-    "46ed195a934c": {
-      "source": "커뮤니티 인기",
-      "title": "개짜치는 결혼공지.jpg",
-      "link": "https://www.fmkorea.com/10455789309",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 67,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "46ed195a934c"
-    },
-    "9de1aaf0720c": {
-      "source": "커뮤니티 인기",
-      "title": "(사펑) ???: 젠장, 설정이 다 뭐냐",
-      "link": "https://www.issuelink.co.kr/community/go/ruliweb/77058677",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 68,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "9de1aaf0720c"
-    },
-    "5fb368733ae2": {
-      "source": "커뮤니티 인기",
-      "title": "아이폰 듀오 예약판매 엄청나네요",
-      "link": "https://www.issuelink.co.kr/community/go/clien/19279018",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 69,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "5fb368733ae2"
-    },
-    "28c97bd38d08": {
-      "source": "커뮤니티 인기",
-      "title": "잠시..",
-      "link": "https://www.issuelink.co.kr/community/go/bobae/300003444524",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 70,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "28c97bd38d08"
-    },
-    "7964c1d6b509": {
-      "source": "커뮤니티 인기",
-      "title": "\"보아하니 모두 사형으로 가도 되겠지요 짱구군?\"",
-      "link": "https://www.issuelink.co.kr/community/go/ruliweb/77058674",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 72,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "7964c1d6b509"
-    },
-    "7a88e3b91448": {
-      "source": "커뮤니티 인기",
-      "title": "대박 내성발톱 발견",
-      "link": "https://www.issuelink.co.kr/community/go/instiz/7914463",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 73,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "7a88e3b91448"
-    },
-    "c215e641560e": {
-      "source": "커뮤니티 인기",
-      "title": "솔직히 내로남불 좀 역겹네요",
-      "link": "https://www.issuelink.co.kr/community/go/clien/19279006",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 74,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "c215e641560e"
-    },
-    "8b1f03b1e1b6": {
-      "source": "커뮤니티 인기",
-      "title": "[울산 vs 부천] 어어어? 김승빈 옐로가 이미 있어요?! 퇴장입니다!!",
-      "link": "https://www.fmkorea.com/10456116782",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 75,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "8b1f03b1e1b6"
-    },
-    "1ee979bfa55f": {
-      "source": "커뮤니티 인기",
-      "title": "5060 남성들의 맘을 뒤흔든 41세 미모의 간호사",
-      "link": "https://www.fmkorea.com/10455719994",
-      "first_seen_at": 1792231730,
-      "last_seen_at": 1792231730,
-      "samples": [
-        {
-          "at": 1792231730,
-          "views": null,
-          "reactions": null,
-          "rank": 76,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 3,
-      "story_id": "1ee979bfa55f"
     }
   },
-  "updated_at": 1792829383
+  "updated_at": 1792831444
 }
