@@ -41,6 +41,7 @@ jobs:
         id: collect
         env:
           BTP_NO_PREHOUR_WAIT: "1"
+          BTP_REQUIRE_TEN: "1"
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           EXPECTED_TELEGRAM_CHAT_SHA256: eadd371c0bc22ff5c483c27bed108ad2e7494f2c3e3d8091305a592ce2cbbdc2

@@ -70,6 +70,8 @@ def inbox(pool, now):
             break
     return {"version": 2, "generated_at": now, "mode": "reference_ranked",
             "reference": "docs/btp-reference-20261023-20.md",
-            "budget": {"minutes": 10, "searches": 6, "opens": 24, "recommendations_target": 10},
+            "budget": {"initial_minutes": 10, "initial_searches": 6, "initial_opens": 24,
+                       "extension_searches": 4, "extension_opens": 12,
+                       "extend_until_target": True, "recommendations_target": 10},
             "source_errors": list(pool.get("errors", {})), "candidates": candidates, "reserves": reserves,
             "caution": "발견용. 실제 장면·원본·날짜·중복 검증 전. 상위10개를 상대선정하며 모두 최상급이라는 문턱을 만들지 않는다."}
