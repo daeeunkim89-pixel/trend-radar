@@ -1,5 +1,5 @@
 {
-  "updated_at": 1792840010,
+  "updated_at": 1792850914,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,65 +15,65 @@
     "requested_stories": 10,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026102411",
+    "hour_utc": "2026102414",
     "category_counts": {
-      "시사": 7,
-      "축구": 1,
-      "메이저 스포츠": 1,
-      "아이돌": 1
+      "시사": 6,
+      "축구": 2,
+      "메이저 스포츠": 0,
+      "아이돌": 2
     },
-    "research_queries": 12,
-    "opened_sources": 21,
+    "research_queries": 34,
+    "opened_sources": 20,
     "picks": [
       {
-        "title": "아이스크림 가격 놀리자 정준하 “한 컵7500원!”…유재석은 “우리 보물”",
-        "url": "https://news.nate.com/view/20261024n10880",
-        "event_key": "junha-icecream-price-joke-hangout-20261024"
+        "title": "94년생 중재 발언이 갈등설로…구성윤 “92·96 선수들에게 미안”",
+        "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015127",
+        "event_key": "koo-sung-yun-interview-editing-apology-20261024"
       },
       {
-        "title": "벤치클리어링 안 나가면100만원? 황재균 “화장실에서도 뛰어나가야”",
-        "url": "https://www.sportschosun.com/entertainment/2026-10-24/202610240100150920009826",
-        "event_key": "hwang-jae-gyun-bench-clearing-fine-anecdote-20261023"
+        "title": "AI 안경 찾아보라 했더니 장관도 오답…촬영 불빛은 스티커로 가렸다",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812752",
+        "event_key": "assembly-ai-glasses-demonstration-20261023"
       },
       {
-        "title": "리즈 엄마와 동갑인 전현무…졸업식 호텔뷔페 얘기엔 “좀 사셨네”",
-        "url": "https://www.xportsnews.com/article/2210899",
-        "event_key": "ive-liz-mother-same-age-jun-hyun-moo-call-20261023"
+        "title": "미화원 덮친 신발장,30분 만에 해체…경찰 무혐의 뒤 법원은 전원 유죄",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812741",
+        "event_key": "suwon-cleaner-shoe-cabinet-evidence-destruction-verdict-20261023"
       },
       {
-        "title": "AI로99점 받았다고 자랑했다가…600명 전원 대면 재시험",
-        "url": "https://v.daum.net/v/20261023195318627",
-        "event_key": "konkuk-ai-cheating-600-student-retest-20261023"
+        "title": "건강 걱정하는 주우재에 장원영 “기분 좋은 것도 중요하잖아요”",
+        "url": "https://plustar.donga.com/celeb/view.php?f=news%2Farticle%2Fall%2F20261024%2F134900927%2F1&idx=134900927&m=sports",
+        "event_key": "jang-won-young-joo-dessert-banter-20261023"
       },
       {
-        "title": "서울서 사고 낸 미국 외교관, 음주측정 거부…경찰 “측정 못 했다”",
-        "url": "https://news.tvchosun.com/site/data/html_dir/2026/10/23/2026102390166.html",
-        "event_key": "us-diplomat-namsan-crash-breath-test-refusal-20261023"
+        "title": "후배 자퇴 응원 듣던 백지영,딸 얘기엔 “죽어도 안 돼”…단서는 있었다",
+        "url": "https://www.xportsnews.com/article/2211009",
+        "event_key": "baek-ji-young-uspeer-daughter-dream-banter-20261024"
       },
       {
-        "title": "슈퍼카42대 공방에 황희찬 측 “원만 합의 녹취 있다…이후 돌변”",
-        "url": "https://news.nate.com/view/20261023n16144",
-        "event_key": "hwang-hee-chan-car-platform-recording-rebuttal-20261023"
+        "title": "“빨리 안 가?” 택시 목적지는 지구대로…삿대질 승객 벌금100만원",
+        "url": "https://www.newsis.com/view/NISX20261024_0003839514",
+        "event_key": "wonju-taxi-driver-threat-fine-20261024"
       },
       {
-        "title": "동료30명 일자리 걱정에 눈물…서은혜 “작가들 없으면 숨 막힌다”",
-        "url": "https://news.nate.com/view/20261024n04619",
-        "event_key": "seo-eun-hye-disabled-artists-employment-budget-reaction-20261023"
+        "title": "항공사는 안 뚫렸다는데 예약번호 유출…공통 협력사에서 샜다",
+        "url": "https://www.hankyung.com/article/2026102320511",
+        "event_key": "korean-asiana-amadeus-booking-data-breach-20261023"
       },
       {
-        "title": "치즈 이어 오징어까지…김신영·기안84가 다이어트 조언마다 엇갈린 이유",
-        "url": "https://news.nate.com/view/20261024n06296",
-        "event_key": "kim-shin-young-kian-diet-cheese-squid-banter-20261023"
+        "title": "허리 치료 갔다 심근파열 사망…수사 중엔 카페 앞 바윗돌까지",
+        "url": "https://www.tjb.co.kr/news07/reporter/view/id/105246",
+        "event_key": "acupuncture-heart-rupture-negligence-fine-disclosed-20261024"
       },
       {
-        "title": "다른 학부모 폭행 혐의 경찰관…이번엔112신고 자료 유출 수사도",
-        "url": "https://www.inews24.com/view/2018552",
-        "event_key": "police-parent-assault-112-data-leak-investigation-20261023"
+        "title": "“군대 안 간다” 논란 뒤 감독의 답…“성숙해졌다,태극마크 다시 생각해야”",
+        "url": "https://m.newspim.com/news/view/20261024000044",
+        "event_key": "jung-kyung-ho-response-lee-gi-hyuk-duty-20261024"
       },
       {
-        "title": "정교유착 공격받던 국힘,이번엔 민주당에 “신천지 조사 특검하자”",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813073",
-        "event_key": "ppp-demands-special-counsel-democratic-party-shincheonji-disclosure-20261024"
+        "title": "형의 보호자로 수당 관리했지만 열흘 방치…법원 징역3년",
+        "url": "https://www.mt.co.kr/index.php/society/2026/10/24/2026102409290230356",
+        "event_key": "disabled-brother-neglect-allowance-verdict-disclosed-20261024"
       }
     ]
   }
