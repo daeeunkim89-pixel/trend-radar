@@ -32,7 +32,7 @@ def publication(row):
                  if type(row.get(key)) is int), None)
 
 
-def inbox(pool, now):
+def _ranked_inbox(pool, now, max_age=12 * 3600):
     ranked, seen = [], set()
     for row in pool.get("items", []):
         url, title = row.get("link", ""), row.get("title", "")
@@ -40,8 +40,8 @@ def inbox(pool, now):
         published = publication(row)
         identity = re.sub(r"[^가-힣a-z0-9]", "", title.lower())
         if (not url or not identity or url in seen or identity in seen
-                or type(observed) is not int or not 0 <= now - observed <= 12 * 3600
-                or (type(published) is int and not 0 <= now - published <= 12 * 3600)):
+                or type(observed) is not int or not 0 <= now - observed <= max_age
+                or (type(published) is int and not 0 <= now - published <= max_age)):
             continue
         has_hook = bool(HOOK.search(title) or CONCRETE.search(title))
         if PROMO.search(title) and not has_hook:
@@ -75,3 +75,16 @@ def inbox(pool, now):
                        "extend_until_target": True, "recommendations_target": 10},
             "source_errors": list(pool.get("errors", {})), "candidates": candidates, "reserves": reserves,
             "caution": "발견용. 실제 장면·원본·날짜·중복 검증 전. 상위10개를 상대선정하며 모두 최상급이라는 문턱을 만들지 않는다."}
+
+
+def inbox(pool, now):
+    result = _ranked_inbox(pool, now)
+    older = [row for row in pool.get("items", [])
+             if type(publication(row)) is int and 12 * 3600 < now - publication(row) <= 48 * 3600]
+    extended = _ranked_inbox({"items": older}, now, 48 * 3600)["candidates"]
+    for item in extended:
+        item["freshness_policy"] = "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
+    result["extended_candidates"] = extended
+    result["budget"]["initial_freshness_hours"] = 12
+    result["budget"]["extended_freshness_hours"] = [24, 48]
+    return result

@@ -52,3 +52,21 @@ class QuickScanTests(unittest.TestCase):
         result = inbox({"items": rows}, NOW)
         self.assertEqual(len(result["candidates"]), 20)
         self.assertEqual({r["lane"] for r in result["candidates"]}, {"community"})
+
+    def test_thirteen_hour_original_is_only_an_explicit_extended_lead(self):
+        old = self.row("아이브 자막 반전", "evening", source_role="original",
+                       source_published_at=NOW - 13 * 3600)
+        result = inbox({"items": [old]}, NOW)
+        self.assertEqual(result["candidates"], [])
+        self.assertEqual(len(result["extended_candidates"]), 1)
+        item = result["extended_candidates"][0]
+        self.assertEqual(item["published_metadata"], NOW - 13 * 3600)
+        self.assertFalse(item["video_viewed"])
+        self.assertIn("미발송", item["freshness_policy"])
+
+    def test_extension_never_refreshes_a_two_day_old_original(self):
+        old = self.row("아이브 자막 반전", "old", source_role="original",
+                       source_published_at=NOW - 49 * 3600)
+        result = inbox({"items": [old]}, NOW)
+        self.assertEqual(result["candidates"], [])
+        self.assertEqual(result["extended_candidates"], [])
