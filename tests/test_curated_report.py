@@ -132,14 +132,14 @@ class EditorialEditionTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "single-message"):
             c.load_edition(self.path, HOUR, NOW)
 
-    def test_delivery_job_allows_full_preparation_wait_and_setup(self):
+    def test_delivery_job_is_bounded_and_never_sends_a_premature_empty_fallback(self):
         import re
-        target = HOUR + 3600
-        earliest = target - 60 * 60
-        self.assertEqual(prepared_target(hourly_key(target)[7:], earliest), target)
         workflow = (Path(__file__).resolve().parents[1] / ".github/workflows/delivery-request.yml").read_text()
         minutes = int(re.search(r"timeout-minutes:\s*(\d+)", workflow).group(1))
-        self.assertGreaterEqual(minutes * 60, target - earliest + 5 * 60)
+        self.assertLessEqual(minutes, 10)
+        self.assertIn('BTP_NO_PREHOUR_WAIT: "1"', workflow)
+        self.assertNotIn("  schedule:", workflow)
+        self.assertIn("paths: [data/report-request.json]", workflow)
 
     def test_missing_evidence_unopened_material_and_same_event_are_not_accepted(self):
         bad = []
@@ -386,7 +386,7 @@ class EditorialEditionTests(unittest.TestCase):
                 patch.object(candidate_snapshot, "enrich"), patch.object(candidate_snapshot, "atomic_json") as write, \
                 patch("monitor.TelegramClient") as client:
             self.assertEqual(candidate_snapshot.run(), 0)
-            self.assertEqual({call.args[0] for call in write.call_args_list}, {candidate_snapshot.DISCOVERY_HISTORY_FILE, candidate_snapshot.SNAPSHOT_FILE})
+            self.assertEqual({call.args[0] for call in write.call_args_list}, {candidate_snapshot.DISCOVERY_HISTORY_FILE, candidate_snapshot.SNAPSHOT_FILE, Path('data/review-inbox.json')})
             snapshot = [call.args[1] for call in write.call_args_list if call.args[0] == candidate_snapshot.SNAPSHOT_FILE][0]
             self.assertEqual(snapshot["status"], "degraded")
             self.assertIn("차단 소스", snapshot["errors"])

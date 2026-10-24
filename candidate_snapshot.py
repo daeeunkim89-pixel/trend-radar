@@ -8,6 +8,7 @@ from editorial import atomic_json, canonical_url, enrich, load_history, observe
 from monitor import collect
 from selection import context_candidates
 from sports_video import SOURCE as VIDEO_SOURCE, fetch_public_videos
+from quick_scan import inbox
 
 SNAPSHOT_FILE = Path("data/candidates.json")
 DISCOVERY_HISTORY_FILE = Path("data/discovery-history.json")
@@ -55,13 +56,13 @@ def run(min_refresh_seconds=0):
         data[VIDEO_SOURCE] = []
         errors[VIDEO_SOURCE] = str(error)[:180]
     stories, history = observe(data, history, now)
-    enrich(context_candidates(stories), history, now)
+    # Body/media inspection is reserved for the bounded editorial shortlist.
     items = []
     for story in stories:
         for row in story["members"]:
             item = {k: row[k] for k in ("source", "title", "link", "views", "reactions", "change", "rank")}
             item.update(observed_at=now, first_seen_at=row.get("first_seen_at", now), story_id=story["id"])
-            for k in ("content_kind", "listed_at", "discovery", "discovery_url", "discovery_observed_at", "discovery_timestamp_kind",
+            for k in ("topic_hint", "content_kind", "listed_at", "discovery", "discovery_url", "discovery_observed_at", "discovery_timestamp_kind",
                       "video_id", "video_section", "video_provider", "video_published_at", "video_viewed"):
                 if k in row:
                     item[k] = row[k]
@@ -78,6 +79,7 @@ def run(min_refresh_seconds=0):
                                "errors": errors, "counts": {k: len(v) for k, v in data.items()},
                                "fresh_count": fresh_count, "pool_count": len(pool),
                                "retained_count": sum(row["observed_at"] != now for row in pool), "items": pool})
+    atomic_json(Path("data/review-inbox.json"), inbox({"items": pool, "errors": errors}, now))
     print("BTP DISCOVERY ONLY", json.dumps({"candidates": fresh_count, "pool": len(pool), "counts": {k: len(v) for k, v in data.items()},
                                            "source_errors": list(errors), "status": status}, ensure_ascii=False))
     return 0 if items else 1

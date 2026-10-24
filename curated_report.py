@@ -339,6 +339,9 @@ def main(recover_hour=None, prepared_hour=None, picks_file=PICKS_FILE, expected_
         target = prepared_target(prepared_hour, now) if prepared_hour else recovery_target(recover_hour, now)
         if scheduled_fallback and (user_requested or prepared_hour):
             raise ValueError("A scheduled fallback is only for the current regular report hour")
+        if os.environ.get("BTP_NO_PREHOUR_WAIT") == "1" and target > now:
+            print("BTP NO WAIT: submit in the current report hour; no long-running pre-hour job")
+            return 2
         if not preview:
             require_report_slot(target, user_requested=user_requested)
             delivery_key = "user-curated-" + expected_sha256 if user_requested and isinstance(expected_sha256, str) else hourly_key(target)
