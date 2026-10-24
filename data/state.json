@@ -1,40 +1,29 @@
 {
-  "updated_at": 1792818644,
+  "updated_at": 1792829384,
   "status": "ok",
   "errors": {},
   "report": {
     "version": "btp-editorial-v10",
     "delivery": "sent",
     "messages": 1,
-    "stories": 2,
+    "stories": 0,
     "duplicates_excluded": 0,
     "ai": "chatgpt_web_research",
-    "missing": 8,
+    "missing": 10,
     "target_met": false,
-    "shortfall_reason": "검증 완료 2개·부족 8개. 다른 후보는 최초 공개 12시간 초과 또는 원본·실제 영상·날짜 확인 장애로 제외했습니다. 수집 734개와 검증 수는 다르며 전체 소재 부재를 뜻하지 않습니다.",
+    "shortfall_reason": "검증 완료 0개·부족 10개. 수집은 성공했으나 원문 접근 실패, 실제 영상·최초 공개·사건일 미확인과 12시간 초과로 제출 가능한 추천을 확보하지 못했습니다. 전체 소재 부재를 뜻하지 않습니다.",
     "requested_stories": 10,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026102405",
+    "hour_utc": "2026102408",
     "category_counts": {
-      "시사": 1,
+      "시사": 0,
       "축구": 0,
-      "메이저 스포츠": 1,
+      "메이저 스포츠": 0,
       "아이돌": 0
     },
     "research_queries": 6,
-    "opened_sources": 7,
-    "picks": [
-      {
-        "title": "7년 연속 한국시리즈 갔던 김태형, 롯데에선 7위 세 번…재계약 종료",
-        "url": "https://www.starnewskorea.com/sports/2026/10/24/2026102411190611370",
-        "event_key": "lotte-giants-kim-tae-hyung-no-contract-renewal-20261024"
-      },
-      {
-        "title": "담배 반출 적발 뒤 퇴사했는데…14개월 후 같은 회사에 신입 재입사",
-        "url": "https://www.kyeonggi.com/article/20261024580019",
-        "event_key": "incheon-airport-lost-cigarettes-resignation-rehire-audit-20261024"
-      }
-    ]
+    "opened_sources": 9,
+    "picks": []
   }
 }
