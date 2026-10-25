@@ -1,5 +1,5 @@
 {
-  "updated_at": 1792915519,
+  "updated_at": 1792926253,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,65 +15,65 @@
     "requested_stories": 10,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026102508",
+    "hour_utc": "2026102511",
     "category_counts": {
-      "시사": 8,
-      "축구": 1,
-      "메이저 스포츠": 1,
+      "시사": 6,
+      "축구": 2,
+      "메이저 스포츠": 2,
       "아이돌": 0
     },
-    "research_queries": 29,
-    "opened_sources": 27,
+    "research_queries": 40,
+    "opened_sources": 29,
     "picks": [
       {
-        "title": "부캉이 찍으러 배 띄웠다가…방송 보던 시청자 신고로 해경 적발",
-        "url": "https://www.newsis.com/view/NISX20261025_0003840100",
-        "event_key": "bukang-youtuber-security-port-filming-20261025"
+        "title": "부두는 지었는데 운영동은 첫 삽도 못 떠…관할권 싸움에 새만금항 개항 연기",
+        "url": "https://www.yna.co.kr/view/AKR20261025047600055",
+        "event_key": "saemangeum-port-opening-delay-jurisdiction-facilities-20261025"
       },
       {
-        "title": "음주 신고한다니 차에 돌아가 소주 한 병 더…‘술타기’도 징역형",
-        "url": "https://www.dailian.co.kr/news/view/1705764",
-        "event_key": "ulsan-extra-soju-breath-test-obstruction-verdict-20261025"
+        "title": "상대 팬 앞에서 고개 숙인17세…감사 인사 아닌 도발,경기 뒤엔 사과",
+        "url": "https://www.getfootballnewsgermany.com/2026/wael-mohya-stuttgart-fans-apology/",
+        "event_key": "wael-mohya-stuttgart-provocative-bow-apology-20261023"
       },
       {
-        "title": "1만8000원 야구표가24만원으로…매크로1366장 되판30대 적발",
-        "url": "https://mobile.newsis.com/view/NISX20261025_0003839873",
-        "event_key": "daegu-baseball-macro-1366-tickets-arrest-20261025"
+        "title": "‘이택근 롯데 단장’ 보도에 구단 “면접은 봤다,결정된 건 없다”",
+        "url": "https://www.mt.co.kr/sports/2026/10/25/2026102517444994366",
+        "event_key": "lotte-lee-taek-keun-gm-interview-no-decision-response-20261025"
       },
       {
-        "title": "아파트 가스 폭발로40여명 대피…체포된 남편은 “담배 불 붙이려 했다”",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813939",
-        "event_key": "incheon-apartment-gas-fire-arson-arrest-20261025"
+        "title": "가짜 판례 확인창은 만들었는데…법원 “AI 허위 인용 몇 건인지 통계 없다”",
+        "url": "https://www.fnnews.com/news/202610251828324930",
+        "event_key": "court-ai-fake-precedent-no-statistics-disclosure-20261025"
       },
       {
-        "title": "환자는 이송 중 사망했는데…과잉제압은 ‘치사’ 아닌 ‘치상’ 유죄",
-        "url": "https://www.yna.co.kr/view/AKR20261023159500061",
-        "event_key": "private-ambulance-restraint-injury-not-death-verdict-20261025"
+        "title": "같이 일해도 나는 ‘사업자’…5인 미만 위장 의심15만곳,수당 피하기 논란",
+        "url": "https://www.etnews.com/20261025000048",
+        "event_key": "disguised-under-five-workers-freelancer-tax-data-20261025"
       },
       {
-        "title": "검찰청은 문 닫았는데 표지판325개 그대로…바꿀 돈 없어 내년까지",
-        "url": "https://www.yna.co.kr/view/AKR20261024032200004",
-        "event_key": "prosecution-abolition-road-sign-budget-325-disclosure-20261025"
+        "title": "“리프트 못 타게 해” vs “기술훈련이었다”…국대 출신 코치 아동학대 수사",
+        "url": "https://m.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01118486645616528",
+        "event_key": "snowboard-coach-child-abuse-investigation-disclosure-20261025"
       },
       {
-        "title": "내년1월 코인 과세 또 미룬다?…청와대 잠정 결론,법 개정은 아직",
-        "url": "https://www.newsis.com/view/NISX20261025_0003839973",
-        "event_key": "presidential-office-crypto-tax-delay-tentative-20261025"
+        "title": "출소 뒤19년 지나 택배 자격 취소…최대20년 제한에 헌재6대3 갈렸다",
+        "url": "https://files.newsis.com/view/NISX20261023_0003838501",
+        "event_key": "constitutional-court-drug-record-parcel-driving-ban-20261025"
       },
       {
-        "title": "원양어선서 뛰어내린20대,바다에서4시간…구조 뒤 무단이탈 조사",
-        "url": "https://mobile.newsis.com/view/NISX20261025_0003839819",
-        "event_key": "busan-indonesian-seafarer-four-hours-drift-rescue-20261024"
+        "title": "9살에 역에 혼자 있다 강제수용…탈출해도 또 잡힌 아이,국가1.5억 배상",
+        "url": "https://nwww.newsis.com/view/NISX20261025_0003840028",
+        "event_key": "mokpo-dongmyeongwon-child-internment-compensation-20261025"
       },
       {
-        "title": "“군대 안 갑니다” 논란 뒤…정경호 “성숙해졌다,태극마크 책임 되새겨야”",
-        "url": "https://news.nate.com/view/20261025n01469",
-        "event_key": "jung-kyung-ho-response-lee-gi-hyuk-military-comment-20261024"
+        "title": "핼러윈 경찰복 샀다 벌금까지?…유사 제복·장비26일부터 집중단속",
+        "url": "https://biz.chosun.com/topics/topics_social/2026/10/25/6XXUMRG7GNCX7NC7SV7NMEYHDE/",
+        "event_key": "halloween-police-uniform-imitation-crackdown-20261025"
       },
       {
-        "title": "조국,김민석에 “성찰·사과하라”…보궐선거 안 열려 다행이라는 기류 직격",
-        "url": "https://www.dailian.co.kr/news/view/1705803",
-        "event_key": "cho-kuk-kim-min-seok-apology-demand-post-20261025"
+        "title": "라이벌 감독들도 콤파니에게 “쉬어라”…경기 전 보낸 문자에 경기 뒤 답장",
+        "url": "https://www.getfootballnewsgermany.com/2026/bundesliga-kompany-collapse/",
+        "event_key": "bundesliga-coaches-kompany-collapse-welfare-responses-20261025"
       }
     ]
   }
