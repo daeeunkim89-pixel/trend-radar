@@ -1,6 +1,839 @@
 {
   "version": 1,
   "items": {
+    "175ea9a18ffb": {
+      "source": "연합뉴스·교사 연구회 성명",
+      "title": "“강연 취소” 요구에 역사교사들 “우리가 판단,정치 개입 자제”",
+      "link": "https://www.yna.co.kr/view/AKR20261026151400061",
+      "first_seen_at": 1793012800,
+      "last_seen_at": 1793056064,
+      "samples": [
+        {
+          "at": 1793012800,
+          "views": null,
+          "reactions": null,
+          "rank": 11,
+          "rank_kind": null
+        },
+        {
+          "at": 1793056064,
+          "views": null,
+          "reactions": null,
+          "rank": 11,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "175ea9a18ffb",
+      "editorial": {
+        "title": "“강연 취소” 요구에 역사교사들 “우리가 판단,정치 개입 자제”",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261026151400061",
+        "source": "연합뉴스·교사 연구회 성명",
+        "kind": "article",
+        "event_key": "gyeonggi-history-teachers-joint-statement-lecture-autonomy-20261026",
+        "why": "교육 커뮤니티에 보낼 정면 반박. 강사 교체 요구가 커지자 현장 교사 연구회가 강연을 듣고 판단할 자율성을 강조하며 맞섰다.",
+        "angle": "황현필 강연 취소 요구 vs 역사교사 연구회의 “정쟁 소재 삼지 말라”",
+        "why_now": "새 사실은 26일 경기 초·중등 역사교육연구회 공동 성명. 28일 예정 강연은 아직 열리지 않았다.",
+        "verified_at": 1793055728,
+        "published_at": 1793003786,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261026151400061",
+            "note": "두 역사교육연구회의 26일 공동 성명과 “교사들이 듣고 판단” 발언, 다른 교사·학부모·교총·정당의 취소 요구를 본문에서 구분해 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261026151400061",
+            "label": "취재 본문·확인 근거",
+            "kind": "source"
+          }
+        ],
+        "caution": "예비. 일부 연구회 입장이지 모든 교사 입장 아님. 과거 발언은 원영상 미확인으로 재인용하지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-26",
+          "observation": "두 역사교육연구회의 26일 공동 성명과 “교사들이 듣고 판단” 발언, 다른 교사·학부모·교총·정당의 취소 요구를 본문에서 구분해 확인.",
+          "checked_materials": [],
+          "outline": [
+            "28일 예정 강연을 둘러싼 강사 교체·취소 요구 배경",
+            "26일 두 역사교육연구회의 정치 개입 자제·전문성 존중 성명",
+            "교사 전체의 단일 입장이 아님과 예정 강연 상태를 함께 표시"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "취재 본문·확인 근거",
+            "url": "https://www.yna.co.kr/view/AKR20261026151400061"
+          }
+        ],
+        "excerpt": "",
+        "context": "새 사실은 26일 경기 초·중등 역사교육연구회 공동 성명. 28일 예정 강연은 아직 열리지 않았다.",
+        "fetched_at": 1793056064,
+        "parser_revision": 7
+      },
+      "curation_event_key": "gyeonggi-history-teachers-joint-statement-lecture-autonomy-20261026"
+    },
+    "4fd2a563eb09": {
+      "source": "ORF 스포츠",
+      "title": "쐐기골 넣고 유니폼 벗었더니 퇴장…감독 “그건 해변에서”",
+      "link": "https://sport.orf.at/stories/3164057/",
+      "first_seen_at": 1793056064,
+      "last_seen_at": 1793056064,
+      "samples": [
+        {
+          "at": 1793056064,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "4fd2a563eb09",
+      "editorial": {
+        "title": "쐐기골 넣고 유니폼 벗었더니 퇴장…감독 “그건 해변에서”",
+        "category": "축구",
+        "url": "https://sport.orf.at/stories/3164057/",
+        "source": "ORF 스포츠",
+        "kind": "article",
+        "event_key": "alexander-prass-shirt-removal-second-yellow-leverkusen-20261025",
+        "why": "축구 친구에게 보낼 자폭 세리머니. 골로 승리를 굳힌 선수가 세리머니로 퇴장당하고 감독에게 해변 조언까지 들었다.",
+        "angle": "득점→상의 탈의→두 번째 경고…감독은 “상의 없이 다니는 건 해변에서”",
+        "why_now": "25일 현지 경기·경기 후 발언 공개. 미발송 48시간 범위에서 선발했다. 27일 국내 재기사를 최초 공개로 쓰지 않는다.",
+        "verified_at": 1793055728,
+        "published_at": 1792949160,
+        "evidence": [
+          {
+            "url": "https://sport.orf.at/stories/3164057/",
+            "note": "ORF 본문에서 프라스 89분 득점 뒤 상의 탈의로 경고 누적 퇴장, 일처 감독의 해변 비유, 크라마리치의 농담을 확인. 영상은 보지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://sport.orf.at/stories/3164057/",
+            "label": "취재 본문·확인 근거",
+            "kind": "source"
+          }
+        ],
+        "caution": "25일 경기. 탈의·퇴장은 본문 대조, 영상 미시청. 부상자 충돌을 웃음 소재로 쓰지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-25",
+          "observation": "ORF 본문에서 프라스 89분 득점 뒤 상의 탈의로 경고 누적 퇴장, 일처 감독의 해변 비유, 크라마리치의 농담을 확인. 영상은 보지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "89분 골을 넣은 프라스와 이미 있던 경고 한 장 설명",
+            "상의 탈의 뒤 경고 누적 퇴장이라는 정반대 보상",
+            "일처 “상의 없이 다니는 건 해변에서”…팀 승리와 개인 퇴장 분리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "취재 본문·확인 근거",
+            "url": "https://sport.orf.at/stories/3164057/"
+          }
+        ],
+        "excerpt": "",
+        "context": "25일 현지 경기·경기 후 발언 공개. 미발송 48시간 범위에서 선발했다. 27일 국내 재기사를 최초 공개로 쓰지 않는다.",
+        "fetched_at": 1793056064,
+        "parser_revision": 7
+      },
+      "curation_event_key": "alexander-prass-shirt-removal-second-yellow-leverkusen-20261025"
+    },
+    "faf6ec4be59d": {
+      "source": "연합뉴스 직접 제보 취재",
+      "title": "거래 2분 전에 대구에서 사용…바코드 잘랐는데 5만원 상품권 먹튀",
+      "link": "https://www.yna.co.kr/view/AKR20261026146900505?section=economy%2Fall",
+      "first_seen_at": 1793056064,
+      "last_seen_at": 1793056064,
+      "samples": [
+        {
+          "at": 1793056064,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "faf6ec4be59d",
+      "editorial": {
+        "title": "거래 2분 전에 대구에서 사용…바코드 잘랐는데 5만원 상품권 먹튀",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261026146900505?section=economy%2Fall",
+        "source": "연합뉴스 직접 제보 취재",
+        "kind": "article",
+        "event_key": "gift-coupon-partial-barcode-theft-report-platform-response-20261027",
+        "why": "중고거래하는 친구에게 바로 보낼 돈 피해. 서울에서 거래하던 쿠폰이 2분 먼저 대구에서 쓰여 판매자가 환불까지 했다.",
+        "angle": "바코드 지운 줄 알았는데…서울 거래 2분 전 대구에서 사용 완료",
+        "why_now": "27일 06시 정씨 제보와 당근의 탐지 개선 답변을 담은 취재가 공개됐다. 피해 발생일은 기사에서 특정하지 않았다.",
+        "verified_at": 1793055743,
+        "published_at": 1793048403,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261026146900505?section=economy%2Fall",
+            "note": "본문에서 5만원 쿠폰, 거래 성사 2분 전 대구 사용, 판매자 환불·신고, 당근의 바코드 탐지 개선 답변을 확인. 현장 사진으로 제시된 삽화는 AI 생성물이다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261026146900505?section=economy%2Fall",
+            "label": "취재 본문·확인 근거",
+            "kind": "source"
+          }
+        ],
+        "caution": "27일 취재 공개, 개별 피해 발생일 미상. AI 삽화는 실제 피해 사진으로 쓰지 않음. 도용 재현은 제외.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-27",
+          "observation": "본문에서 5만원 쿠폰, 거래 성사 2분 전 대구 사용, 판매자 환불·신고, 당근의 바코드 탐지 개선 답변을 확인. 현장 사진으로 제시된 삽화는 AI 생성물이다.",
+          "checked_materials": [],
+          "outline": [
+            "서울 판매자가 들은 “이미 사용된 쿠폰”이라는 구매자 항의",
+            "사용 기록은 거래 2분 전·대구 매장…판매자는 환불·신고",
+            "바코드 일부와 번호도 올리지 말라는 전문가 조언 및 당근 대응"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "취재 본문·확인 근거",
+            "url": "https://www.yna.co.kr/view/AKR20261026146900505?section=economy%2Fall"
+          }
+        ],
+        "excerpt": "",
+        "context": "27일 06시 정씨 제보와 당근의 탐지 개선 답변을 담은 취재가 공개됐다. 피해 발생일은 기사에서 특정하지 않았다.",
+        "fetched_at": 1793056064,
+        "parser_revision": 7
+      },
+      "curation_event_key": "gift-coupon-partial-barcode-theft-report-platform-response-20261027"
+    },
+    "542df28222c5": {
+      "source": "성시경 공식 채널·MHN",
+      "title": "노래하러 온 해원 “먹을텐데도 참 좋았을 텐데”…성시경도 인정",
+      "link": "https://www.youtube.com/watch?v=Vv1Ok2ni6VE",
+      "first_seen_at": 1793056064,
+      "last_seen_at": 1793056064,
+      "samples": [
+        {
+          "at": 1793056064,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "official",
+      "story_id": "542df28222c5",
+      "editorial": {
+        "title": "노래하러 온 해원 “먹을텐데도 참 좋았을 텐데”…성시경도 인정",
+        "category": "아이돌",
+        "url": "https://www.youtube.com/watch?v=Vv1Ok2ni6VE",
+        "source": "성시경 공식 채널·MHN",
+        "kind": "official",
+        "event_key": "nmixx-haewon-wished-for-mukbang-sung-si-kyung-20261026",
+        "why": "엔써 친구에게 보낼 소소한 출연 욕심. 노래 실력파로 소개된 해원이 노래 방송에서 먹방 출연을 아쉬워해 성시경까지 수긍했다.",
+        "angle": "믿고 듣는 걸그룹 소개 다음에 “먹을텐데도 참 좋았을 텐데ㅎㅎ”",
+        "why_now": "공식 채널 업로드 메타데이터는 26일 18:00:09 KST. 제작사 방송 캡처의 실제 자막을 이번 검토에서 확인했다.",
+        "verified_at": 1793055962,
+        "published_at": 1793005209,
+        "evidence": [
+          {
+            "url": "https://mhnse.com/news/articleView.html?idxno=1624889",
+            "note": "본문의 해원 먹방 희망 발언과 성시경 수긍을 대조. 제작사 방송 캡처 묶음의 해당 자막·표정을 실제 확인했다."
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=Vv1Ok2ni6VE",
+            "note": "공식 채널명·영상 제목·uploadDate 대조. 플레이어 로딩을 영상 시청으로 기록하지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://cdn.mhnse.com/mhnsports/2026/10/26222006/1624889_1-scaled.jpg",
+            "label": "해원 발언 실제 방송 캡처",
+            "kind": "image"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=Vv1Ok2ni6VE",
+            "label": "성시경 공식 원본 페이지",
+            "kind": "source"
+          },
+          {
+            "url": "https://mhnse.com/news/articleView.html?idxno=1624889",
+            "label": "대화 문맥 취재 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "방송 캡처·본문 대조만 확인. 전체 영상·음성 미시청이며 일본 팬 일반화 발언은 웃음 소재로 잘라 쓰지 않음.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-26",
+          "observation": "MHN의 방송 캡처 묶음에서 실력파 소개→해원 “먹을텐데도 참 좋았을 텐데ㅎㅎ” 자막과 멤버 표정을 직접 확인. 성시경 “그게 제일 좋은데”는 본문 인용 대조. 전체 영상·음성은 미시청.",
+          "checked_materials": [
+            "https://cdn.mhnse.com/mhnsports/2026/10/26222006/1624889_1-scaled.jpg"
+          ],
+          "outline": [
+            "“믿고 듣는 실력파 걸그룹 엔믹스”라는 소개 컷",
+            "해원에게 붙은 “먹을텐데도 참 좋았을 텐데ㅎㅎ” 자막 컷",
+            "성시경의 “그게 제일 좋은데” 답변을 본문 인용으로 붙여 먹방 욕심 회수"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [
+          {
+            "url": "https://cdn.mhnse.com/mhnsports/2026/10/26222006/1624889_1-scaled.jpg",
+            "label": "해원 발언 실제 방송 캡처",
+            "kind": "image"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "해원 발언 실제 방송 캡처",
+            "url": "https://cdn.mhnse.com/mhnsports/2026/10/26222006/1624889_1-scaled.jpg"
+          },
+          {
+            "label": "성시경 공식 원본 페이지",
+            "url": "https://www.youtube.com/watch?v=Vv1Ok2ni6VE"
+          },
+          {
+            "label": "대화 문맥 취재 본문",
+            "url": "https://mhnse.com/news/articleView.html?idxno=1624889"
+          }
+        ],
+        "excerpt": "",
+        "context": "공식 채널 업로드 메타데이터는 26일 18:00:09 KST. 제작사 방송 캡처의 실제 자막을 이번 검토에서 확인했다.",
+        "fetched_at": 1793056064,
+        "parser_revision": 7
+      },
+      "curation_event_key": "nmixx-haewon-wished-for-mukbang-sung-si-kyung-20261026"
+    },
+    "20691786f1de": {
+      "source": "스포츠조선·JYP 직접 답변",
+      "title": "JYP 지분 절반 인수 추진 보도…당사자는 “제안받은 적도 없다”",
+      "link": "https://www.sportschosun.com/entertainment/2026-10-26/202610260100166560010880",
+      "first_seen_at": 1793056064,
+      "last_seen_at": 1793056064,
+      "samples": [
+        {
+          "at": 1793056064,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "20691786f1de",
+      "editorial": {
+        "title": "JYP 지분 절반 인수 추진 보도…당사자는 “제안받은 적도 없다”",
+        "category": "시사",
+        "url": "https://www.sportschosun.com/entertainment/2026-10-26/202610260100166560010880",
+        "source": "스포츠조선·JYP 직접 답변",
+        "kind": "article",
+        "event_key": "jyp-denies-receiving-nexroc-share-acquisition-proposal-20261026",
+        "why": "트와이스·엔믹스 팬에게 보낼 엇갈린 이야기. 지분 25~50% 인수 추진 보도와 정작 회사가 받은 제안이 없다는 답변의 간극이 크다.",
+        "angle": "“지분 25~50% 인수 검토” 대 “관련 제안 받은 적 없다”",
+        "why_now": "26일 밤 지분 인수 추진 보도에 JYP가 직접 부인한 새 답변. 실제 인수나 협상 성사를 확인한 뉴스가 아니다.",
+        "verified_at": 1793055671,
+        "published_at": 1793019728,
+        "evidence": [
+          {
+            "url": "https://www.sportschosun.com/entertainment/2026-10-26/202610260100166560010880",
+            "note": "스포츠조선에 대한 JYP의 직접 답변 “당사는 지분 인수 관련 제안을 받은 적 없다”를 확인. 더 넥스록·SVCV의 25~50% 인수 검토는 앞선 보도 내용으로 구분."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.sportschosun.com/entertainment/2026-10-26/202610260100166560010880",
+            "label": "취재 본문·확인 근거",
+            "kind": "source"
+          }
+        ],
+        "caution": "공개매수·인수 확정 아님. 투자사 계획 보도와 JYP 답변을 각각 귀속하고 투자 권유로 쓰지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-26",
+          "observation": "스포츠조선에 대한 JYP의 직접 답변 “당사는 지분 인수 관련 제안을 받은 적 없다”를 확인. 더 넥스록·SVCV의 25~50% 인수 검토는 앞선 보도 내용으로 구분.",
+          "checked_materials": [],
+          "outline": [
+            "일본계 투자그룹의 25~50% 인수 추진 보도 소개",
+            "JYP의 “관련 제안 받은 적 없다” 답변을 같은 카드에 대비",
+            "인수·자금조달·실제 협상 확정과 구분해 아직 남은 사실 확인 표시"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "취재 본문·확인 근거",
+            "url": "https://www.sportschosun.com/entertainment/2026-10-26/202610260100166560010880"
+          }
+        ],
+        "excerpt": "",
+        "context": "26일 밤 지분 인수 추진 보도에 JYP가 직접 부인한 새 답변. 실제 인수나 협상 성사를 확인한 뉴스가 아니다.",
+        "fetched_at": 1793056064,
+        "parser_revision": 7
+      },
+      "curation_event_key": "jyp-denies-receiving-nexroc-share-acquisition-proposal-20261026"
+    },
+    "88b36177f28d": {
+      "source": "중부일보·소방노조 성명",
+      "title": "“시의원 지나가면 박수”…근무 중 소방관 의전 동원 의혹에 노조 반발",
+      "link": "https://www.joongboo.com/news/articleView.html?idxno=363740486",
+      "first_seen_at": 1793056064,
+      "last_seen_at": 1793056064,
+      "samples": [
+        {
+          "at": 1793056064,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "88b36177f28d",
+      "editorial": {
+        "title": "“시의원 지나가면 박수”…근무 중 소방관 의전 동원 의혹에 노조 반발",
+        "category": "시사",
+        "url": "https://www.joongboo.com/news/articleView.html?idxno=363740486",
+        "source": "중부일보·소방노조 성명",
+        "kind": "article",
+        "event_key": "incheon-fire-union-alleged-councilor-applause-protocol-20261026",
+        "why": "직장 단톡방에 보낼 황당한 의전. 출입구·계단·복도에 근무자를 세워 박수를 시켰다는 주장에 노조가 “정치인 들러리 아니다”로 맞섰다.",
+        "angle": "시의원 이동 동선마다 줄 서서 박수? 소방노조가 공개 반발",
+        "why_now": "19일 명예소방서장 행사를 둘러싼 26일 노조 성명과 대응 계획 공개가 새 사실이다. 행사일과 폭로일을 구분했다.",
+        "verified_at": 1793055671,
+        "published_at": 1792998720,
+        "evidence": [
+          {
+            "url": "https://www.joongboo.com/news/articleView.html?idxno=363740486",
+            "note": "26일 노조 성명 보도 본문에서 19일 행사·근무자 동원·이동 시 박수 지시 주장을 확인. 감찰 제보·고발 추진 방침이며 의혹의 독립 확정이나 유죄 판단은 아니다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.joongboo.com/news/articleView.html?idxno=363740486",
+            "label": "취재 본문·확인 근거",
+            "kind": "source"
+          }
+        ],
+        "caution": "19일 행사,26일 성명 공개. 동원·지시는 노조 주장, 상대 해명·감찰 결론은 해당 본문에서 미확인.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-26",
+          "observation": "26일 노조 성명 보도 본문에서 19일 행사·근무자 동원·이동 시 박수 지시 주장을 확인. 감찰 제보·고발 추진 방침이며 의혹의 독립 확정이나 유죄 판단은 아니다.",
+          "checked_materials": [],
+          "outline": [
+            "19일 시의원 1일 명예소방서장 행사라는 배경",
+            "노조가 주장한 출입구·계단·복도 줄서기와 박수 지시",
+            "“정치인의 들러리가 아니다” 성명과 감찰·고발 추진 방침"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "취재 본문·확인 근거",
+            "url": "https://www.joongboo.com/news/articleView.html?idxno=363740486"
+          }
+        ],
+        "excerpt": "",
+        "context": "19일 명예소방서장 행사를 둘러싼 26일 노조 성명과 대응 계획 공개가 새 사실이다. 행사일과 폭로일을 구분했다.",
+        "fetched_at": 1793056064,
+        "parser_revision": 7
+      },
+      "curation_event_key": "incheon-fire-union-alleged-councilor-applause-protocol-20261026"
+    },
+    "a353685f7e47": {
+      "source": "스포츠조선 현장 인터뷰",
+      "title": "네일 갑작스런 헤드샷 퇴장…몸 못 푼 정해영이 번 시간",
+      "link": "https://www.sportschosun.com/baseball/2026-10-26/202610260100166770010892",
+      "first_seen_at": 1793056064,
+      "last_seen_at": 1793056064,
+      "samples": [
+        {
+          "at": 1793056064,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "a353685f7e47",
+      "editorial": {
+        "title": "네일 갑작스런 헤드샷 퇴장…몸 못 푼 정해영이 번 시간",
+        "category": "메이저 스포츠",
+        "url": "https://www.sportschosun.com/baseball/2026-10-26/202610260100166770010892",
+        "source": "스포츠조선 현장 인터뷰",
+        "kind": "article",
+        "event_key": "kia-nail-headshot-ejection-jung-emergency-relief-manager-20261026",
+        "why": "야구 친구에게 공유할 벤치의 돌발 대처. 선발이 갑자기 퇴장하자 준비 못 한 마무리가 먼저 올라가 뒤 투수들의 준비 시간을 벌었다.",
+        "angle": "7회까지 갈 투구수였는데 5회 퇴장…몸 못 푼 정해영부터 올렸다",
+        "why_now": "26일 PO 1차전 종료 후 이범호 감독의 현장 문답에서 불펜 준비 상태와 선택 이유가 직접 공개됐다.",
+        "verified_at": 1793055692,
+        "published_at": 1793021140,
+        "evidence": [
+          {
+            "url": "https://www.sportschosun.com/baseball/2026-10-26/202610260100166770010892",
+            "note": "현장 문답에서 네일 5회 박승규 헤드샷 퇴장, 정해영은 몸을 풀지 않았음, 1실점으로 버텨 이의리·성영탁 준비 시간을 벌었다는 감독 설명을 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.sportschosun.com/baseball/2026-10-26/202610260100166770010892",
+            "label": "취재 본문·확인 근거",
+            "kind": "source"
+          }
+        ],
+        "caution": "부상 장면을 웃음거리로 쓰지 않음. 불펜 준비 상태는 감독 설명, 경기 영상은 미시청.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-26",
+          "observation": "현장 문답에서 네일 5회 박승규 헤드샷 퇴장, 정해영은 몸을 풀지 않았음, 1실점으로 버텨 이의리·성영탁 준비 시간을 벌었다는 감독 설명을 확인.",
+          "checked_materials": [],
+          "outline": [
+            "5회 갑작스런 헤드샷 퇴장으로 선발 계획이 바뀐 순간 설명",
+            "몸 못 푼 정해영을 먼저 투입…뒤에서 이의리·성영탁 준비",
+            "감독이 먼저 기록지를 확인했다는 문답과 1실점 버티기 결과"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "취재 본문·확인 근거",
+            "url": "https://www.sportschosun.com/baseball/2026-10-26/202610260100166770010892"
+          }
+        ],
+        "excerpt": "",
+        "context": "26일 PO 1차전 종료 후 이범호 감독의 현장 문답에서 불펜 준비 상태와 선택 이유가 직접 공개됐다.",
+        "fetched_at": 1793056064,
+        "parser_revision": 7
+      },
+      "curation_event_key": "kia-nail-headshot-ejection-jung-emergency-relief-manager-20261026"
+    },
+    "8ed2afa7f5b1": {
+      "source": "SBS 방송 본문·연합뉴스",
+      "title": "“언니 다음 대회 우승해”…0–3 뒤집은 김보미 “말 잘 듣는 언니 없지?”",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815724",
+      "first_seen_at": 1793056064,
+      "last_seen_at": 1793056064,
+      "samples": [
+        {
+          "at": 1793056064,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "8ed2afa7f5b1",
+      "editorial": {
+        "title": "“언니 다음 대회 우승해”…0–3 뒤집은 김보미 “말 잘 듣는 언니 없지?”",
+        "category": "메이저 스포츠",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815724",
+        "source": "SBS 방송 본문·연합뉴스",
+        "kind": "article",
+        "event_key": "kim-bo-mi-first-lpba-title-reverse-sweep-jung-su-bin-20261026",
+        "why": "친구 응원이 진짜 결과가 된 반전. 정수빈이 다음 대회 우승을 예언하자 김보미가 0–3을 4–3으로 뒤집고 “말 잘 듣는 언니”로 받아쳤다.",
+        "angle": "절친의 다음 대회 우승 예언→첫 3세트 패배→4세트 연속 승리",
+        "why_now": "25일 시작된 결승과 우승 인터뷰 공개를 48시간 범위로 검토했다. 26일 SBS 재보도를 처음 우승한 날로 바꾸지 않는다.",
+        "verified_at": 1793055692,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815724",
+            "note": "SBS 방송 본문의 정수빈 응원·김보미 답변과 역전 결과 대조. 영상 시청으로 기록하지 않음."
+          },
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261026021300007",
+            "note": "25일 열린 결승 일정, 0–3→4–3 및 63번째 투어 첫 우승 확인. 26일 보도 시각과 사건일을 구분."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815724",
+            "label": "취재 본문·확인 근거",
+            "kind": "source"
+          }
+        ],
+        "caution": "25일 결승 일정. 일부 매체는 26일 새벽 종료로 표현. 방송 대사는 본문 확인, 영상·음성 미시청.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-25",
+          "observation": "SBS 본문에서 정수빈의 다음 대회 우승 응원, 김보미 0–3→4–3과 “말 잘 듣는 언니” 답변을 확인. 연합뉴스에서 결승 일정이 25일임을 대조했다.",
+          "checked_materials": [],
+          "outline": [
+            "보름 전 정수빈 “보미 언니 다음 대회 꼭 우승” 응원 인용",
+            "첫 3세트 패배에서 4세트 연속 승리한 전후 대비",
+            "김보미 “이렇게 말 잘 듣는 언니가 어디 있냐” 우승 소감으로 회수"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "취재 본문·확인 근거",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815724"
+          }
+        ],
+        "excerpt": "",
+        "context": "25일 시작된 결승과 우승 인터뷰 공개를 48시간 범위로 검토했다. 26일 SBS 재보도를 처음 우승한 날로 바꾸지 않는다.",
+        "fetched_at": 1793056064,
+        "parser_revision": 7
+      },
+      "curation_event_key": "kim-bo-mi-first-lpba-title-reverse-sweep-jung-su-bin-20261026"
+    },
+    "354814f7627a": {
+      "source": "연합뉴스 법조 취재",
+      "title": "두 번 대법원 이겼는데 또 비자 거부…유승준 세 번째 소송도 대법으로",
+      "link": "https://www.yna.co.kr/view/AKR20261026161500004",
+      "first_seen_at": 1793056064,
+      "last_seen_at": 1793056064,
+      "samples": [
+        {
+          "at": 1793056064,
+          "views": null,
+          "reactions": null,
+          "rank": 8,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "354814f7627a",
+      "editorial": {
+        "title": "두 번 대법원 이겼는데 또 비자 거부…유승준 세 번째 소송도 대법으로",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261026161500004",
+        "source": "연합뉴스 법조 취재",
+        "kind": "article",
+        "event_key": "yoo-seung-jun-third-visa-lawsuit-consulate-appeal-20261026",
+        "why": "입국 논란을 아는 친구에게 보낼 제도적 반복. 두 번 최종 승소 뒤에도 재차 비자가 거절됐고 세 번째 소송마저 다시 대법원으로 간다.",
+        "angle": "대법원 승소 두 번→또 거부→세 번째 소송에도 총영사관 상고",
+        "why_now": "새 사실은 26일 LA총영사 측의 상고장 제출이다. 앞선 승소나 병역 이력을 새 사건으로 반복하지 않는다.",
+        "verified_at": 1793055692,
+        "published_at": 1793007941,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261026161500004",
+            "note": "법조 취재 본문에서 26일 LA총영사 측 상고장 제출, 세 번째 소송 1·2심 유씨 승소, 앞선 두 소송 최종 승소 후 비자 재거부 경위를 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261026161500004",
+            "label": "취재 본문·확인 근거",
+            "kind": "source"
+          }
+        ],
+        "caution": "상고 접수와 실제 비자 발급·입국 허용은 다름. 소송 결과를 예단하지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-26",
+          "observation": "법조 취재 본문에서 26일 LA총영사 측 상고장 제출, 세 번째 소송 1·2심 유씨 승소, 앞선 두 소송 최종 승소 후 비자 재거부 경위를 확인.",
+          "checked_materials": [],
+          "outline": [
+            "26일 LA총영사 측 상고장 제출로 세 번째 대법원 판단 예정",
+            "이전 두 번의 최종 승소 뒤에도 비자 거부가 반복된 경위",
+            "이번에도 비자가 이미 나왔거나 입국이 허용됐다는 뜻은 아니라는 결말"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "취재 본문·확인 근거",
+            "url": "https://www.yna.co.kr/view/AKR20261026161500004"
+          }
+        ],
+        "excerpt": "",
+        "context": "새 사실은 26일 LA총영사 측의 상고장 제출이다. 앞선 승소나 병역 이력을 새 사건으로 반복하지 않는다.",
+        "fetched_at": 1793056064,
+        "parser_revision": 7
+      },
+      "curation_event_key": "yoo-seung-jun-third-visa-lawsuit-consulate-appeal-20261026"
+    },
+    "77b1a78a2acf": {
+      "source": "연합뉴스·서대문경찰서",
+      "title": "빌라 창밖으로 불붙은 휴지…3시간 간격 차량 두 대에 불",
+      "link": "https://www.yna.co.kr/view/AKR20261026172000004",
+      "first_seen_at": 1793056064,
+      "last_seen_at": 1793056064,
+      "samples": [
+        {
+          "at": 1793056064,
+          "views": null,
+          "reactions": null,
+          "rank": 9,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "77b1a78a2acf",
+      "editorial": {
+        "title": "빌라 창밖으로 불붙은 휴지…3시간 간격 차량 두 대에 불",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261026172000004",
+        "source": "연합뉴스·서대문경찰서",
+        "kind": "article",
+        "event_key": "seodaemun-burning-toilet-paper-two-car-fires-disclosure-20261026",
+        "why": "동네 단톡방에 보낼 황당한 연속 방화 혐의. 같은 곳에서 3시간 만에 차가 또 타자 경찰이 우연한 화재가 아니라고 의심해 여성을 검거했다.",
+        "angle": "밤 10시10분 한 번,새벽 1시35분 또…창밖 불붙은 휴지",
+        "why_now": "화재는 10~11일, 경찰의 입건·수사 사실은 26일 공개됐다. 새 사건처럼 화재 날짜를 바꾸지 않는다.",
+        "verified_at": 1793055671,
+        "published_at": 1793019704,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261026172000004",
+            "note": "경찰의 26일 공개 내용에서 10일 22:10·11일 01:35 두 화재, 차량 두 대 피해·인명피해 없음, 30대 여성 방화 혐의 입건과 동기 수사 중임을 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261026172000004",
+            "label": "취재 본문·확인 근거",
+            "kind": "source"
+          }
+        ],
+        "caution": "화재 10~11일,26일 수사 공개. 피의자 혐의 단계이며 동기·정신상태를 추측하지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-26",
+          "observation": "경찰의 26일 공개 내용에서 10일 22:10·11일 01:35 두 화재, 차량 두 대 피해·인명피해 없음, 30대 여성 방화 혐의 입건과 동기 수사 중임을 확인.",
+          "checked_materials": [],
+          "outline": [
+            "10일 밤과 11일 새벽 같은 장소에서 반복된 차량 화재",
+            "창밖으로 던진 불붙은 두루마리 휴지라는 경찰의 혐의 설명",
+            "경찰 입건·인명피해 없음·동기 미확인까지 분리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "취재 본문·확인 근거",
+            "url": "https://www.yna.co.kr/view/AKR20261026172000004"
+          }
+        ],
+        "excerpt": "",
+        "context": "화재는 10~11일, 경찰의 입건·수사 사실은 26일 공개됐다. 새 사건처럼 화재 날짜를 바꾸지 않는다.",
+        "fetched_at": 1793056064,
+        "parser_revision": 7
+      },
+      "curation_event_key": "seodaemun-burning-toilet-paper-two-car-fires-disclosure-20261026"
+    },
+    "8f38c3eaf7a2": {
+      "source": "연합뉴스 국감 취재",
+      "title": "형기 끝나도 다시 격리? 보호수용 제안에 법무부 “법률 검토”",
+      "link": "https://www.yna.co.kr/view/AKR20261026163800004",
+      "first_seen_at": 1793056064,
+      "last_seen_at": 1793056064,
+      "samples": [
+        {
+          "at": 1793056064,
+          "views": null,
+          "reactions": null,
+          "rank": 10,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "8f38c3eaf7a2",
+      "editorial": {
+        "title": "형기 끝나도 다시 격리? 보호수용 제안에 법무부 “법률 검토”",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261026163800004",
+        "source": "연합뉴스 국감 취재",
+        "kind": "article",
+        "event_key": "justice-acting-minister-preventive-custody-options-hearing-20261026",
+        "why": "치안과 인권을 두고 이야기할 친구에게 보낼 실제 권리 쟁점. 형기를 마쳐도 다시 격리하는 제안과 이미 폐지된 보호감호의 논란이 충돌한다.",
+        "angle": "형기를 다 마친 뒤에도 격리하자는 제안…확정된 제도는 아니다",
+        "why_now": "26일 국감에서 곽규택 의원 제안과 이진수 대행의 법률 대안 검토 답변이 공개됐다. 시행 발표와 구별한다.",
+        "verified_at": 1793055728,
+        "published_at": 1793009628,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261026163800004",
+            "note": "26일 국감 문답에서 보호수용 필요 제안, 치료감호·보호수용 등 대안의 내부 법률 검토 답변, 과거 보호감호가 2005년 폐지된 배경을 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261026163800004",
+            "label": "취재 본문·확인 근거",
+            "kind": "source"
+          }
+        ],
+        "caution": "도입·시행 확정 아님. 제안·검토 단계와 과거 제도 구분, 구체 적용 대상·기간 미확정.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-26",
+          "observation": "26일 국감 문답에서 보호수용 필요 제안, 치료감호·보호수용 등 대안의 내부 법률 검토 답변, 과거 보호감호가 2005년 폐지된 배경을 확인.",
+          "checked_materials": [],
+          "outline": [
+            "형기 종료 뒤 재범 위험성이 높으면 격리하자는 제안 설명",
+            "곽규택 질문과 이진수 대행의 대안 법률 검토 답변 구분",
+            "2005년 폐지된 보호감호의 인권·이중처벌 논란과 현재 미확정 상태"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "취재 본문·확인 근거",
+            "url": "https://www.yna.co.kr/view/AKR20261026163800004"
+          }
+        ],
+        "excerpt": "",
+        "context": "26일 국감에서 곽규택 의원 제안과 이진수 대행의 법률 대안 검토 답변이 공개됐다. 시행 발표와 구별한다.",
+        "fetched_at": 1793056064,
+        "parser_revision": 7
+      },
+      "curation_event_key": "justice-acting-minister-preventive-custody-options-hearing-20261026"
+    },
     "ae78f2baf3a4": {
       "source": "롤코언니 가은이 원본",
       "title": "결혼반지 팔러 갔는데 “정품 아닐 확률90%”…정가은의 반응",
@@ -751,78 +1584,6 @@
         "parser_revision": 7
       },
       "curation_event_key": "major-crime-agency-information-organization-manual-hearing-20261026"
-    },
-    "175ea9a18ffb": {
-      "source": "연합뉴스",
-      "title": "강연 취소 요구에 역사 교사들 “정치개입 자제”…황현필 논란 새 반론",
-      "link": "https://www.yna.co.kr/view/AKR20261026151400061",
-      "first_seen_at": 1793012800,
-      "last_seen_at": 1793012800,
-      "samples": [
-        {
-          "at": 1793012800,
-          "views": null,
-          "reactions": null,
-          "rank": 11,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "175ea9a18ffb",
-      "editorial": {
-        "title": "강연 취소 요구에 역사 교사들 “정치개입 자제”…황현필 논란 새 반론",
-        "category": "시사",
-        "url": "https://www.yna.co.kr/view/AKR20261026151400061",
-        "source": "연합뉴스",
-        "kind": "article",
-        "event_key": "gyeonggi-history-teachers-joint-statement-lecture-autonomy-20261026",
-        "why": "역사교육·표현 문제를 얘기하는 지인에게 보낼 현장 교사 반론.편향 강사 교체 요구와 교육 자율성을 지켜달라는 새 성명이 맞선다.",
-        "angle": "정치권 강사 교체 요구에 교사 연구회가 답했다",
-        "why_now": "26일 초·중등 역사교육연구회가 공동 성명을 내고 정치 개입 자제를 촉구한 새 사실.과거 강의 발언을 새 영상으로 재유통하지 않는다.",
-        "verified_at": 1793012196,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261026151400061",
-            "note": "26일 두 연구회 공동성명과 회장 발언 본문 확인.일부교사·학부모·교총은 취소 요구,연구회는 전문성·자율성 존중 주장.교사 전체 의견으로 확대하지 않음."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261026151400061",
-            "label": "확인한 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "26일 새 공개 내용.최초 분 단위 시각 미확인.기사 본문 확인이며 영상 시청을 주장하지 않음.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-26",
-          "observation": "26일 두 연구회 공동성명과 회장 발언 본문 확인.일부교사·학부모·교총은 취소 요구,연구회는 전문성·자율성 존중 주장.교사 전체 의견으로 확대하지 않음.",
-          "checked_materials": [],
-          "outline": [
-            "28일 예정 강연을 둘러싼 취소·교체 요구",
-            "26일 두 교사 연구회의 “정치적 개입 자제” 성명",
-            "교사 내부의 다른 입장과 교육 자율성 쟁점을 함께 제시"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 본문",
-            "url": "https://www.yna.co.kr/view/AKR20261026151400061"
-          }
-        ],
-        "excerpt": "",
-        "context": "26일 초·중등 역사교육연구회가 공동 성명을 내고 정치 개입 자제를 촉구한 새 사실.과거 강의 발언을 새 영상으로 재유통하지 않는다.",
-        "fetched_at": 1793012800,
-        "parser_revision": 7
-      },
-      "curation_event_key": "gyeonggi-history-teachers-joint-statement-lecture-autonomy-20261026"
     },
     "2ca7734acff9": {
       "source": "연합뉴스",
@@ -23325,1624 +24086,7 @@
         "parser_revision": 7
       },
       "curation_event_key": "lee-kang-chul-kt-record-manager-contract-3years-3point4billion-20261019"
-    },
-    "896374f32955": {
-      "source": "스타뉴스",
-      "title": "공구는 성공했는데 질문했다가 혼났다…전소미의 2000명 단톡방",
-      "link": "https://www.starnewskorea.com/star/2026/10/20/2026102000221374761",
-      "first_seen_at": 1792449546,
-      "last_seen_at": 1792449546,
-      "samples": [
-        {
-          "at": 1792449546,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "896374f32955",
-      "editorial": {
-        "title": "공구는 성공했는데 질문했다가 혼났다…전소미의 2000명 단톡방",
-        "category": "아이돌",
-        "url": "https://www.starnewskorea.com/star/2026/10/20/2026102000221374761",
-        "source": "스타뉴스",
-        "kind": "article",
-        "event_key": "jeon-somi-groupbuy-chat-notice-story-20261019",
-        "why": "단톡방에서 '공지 읽었냐'는 말을 들어본 친구에게, 아이돌도 똑같이 당한 경험으로 보낼 소재다.",
-        "angle": "첫 장은 '공지를 읽으셨다면 그 질문은 X' 자막과 소미 표정, 다음 장은 구매 성공과 질문 실패의 대비.",
-        "why_now": "19일 유튜브에 새 공개된 경험담을 20일 보도·자막 사진으로 확인했다.",
-        "verified_at": 1792448891,
-        "published_at": 1792424580,
-        "evidence": [
-          {
-            "url": "https://www.starnewskorea.com/star/2026/10/20/2026102000221374761",
-            "note": "소미가 공구 구매에는 성공했지만 질문 뒤 공지를 읽으라는 답을 받았다고 설명한다. 사진에는 해당 자막과 99+ 메시지 이야기가 보인다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=640/21/2026/10/2026102000221374761_1.jpg",
-            "label": "공지 질문 자막",
-            "kind": "image"
-          },
-          {
-            "url": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=640/21/2026/10/2026102000221374761_2.jpg",
-            "label": "99+ 메시지 자막",
-            "kind": "image"
-          }
-        ],
-        "caution": "실제 채팅 원문이 아니라 영상 편집 자막이다. 경험 속 대화 날짜는 미확인이고 19일 새 공개된 이야기로 다룬다.",
-        "readiness": {
-          "mode": "scene",
-          "event_date": "2026-10-19",
-          "observation": "소미가 공구 구매에는 성공했지만 질문 뒤 공지를 읽으라는 답을 받았다고 설명한다. 사진에는 해당 자막과 99+ 메시지 이야기가 보인다.",
-          "checked_materials": [
-            "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=640/21/2026/10/2026102000221374761_1.jpg",
-            "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=640/21/2026/10/2026102000221374761_2.jpg"
-          ],
-          "outline": [
-            "확인한 '공지를 읽으셨다면' 자막 사진을 표지로 사용",
-            "구매는 다 성공→질문은 공지로 돌아온 대비 정리",
-            "약 2000명 채팅방과 여러 공지를 확인한 설명으로 마무리"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [
-          {
-            "url": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=640/21/2026/10/2026102000221374761_1.jpg",
-            "label": "공지 질문 자막",
-            "kind": "image"
-          },
-          {
-            "url": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=640/21/2026/10/2026102000221374761_2.jpg",
-            "label": "99+ 메시지 자막",
-            "kind": "image"
-          }
-        ],
-        "source_links": [
-          {
-            "label": "공지 질문 자막",
-            "url": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=640/21/2026/10/2026102000221374761_1.jpg"
-          },
-          {
-            "label": "99+ 메시지 자막",
-            "url": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=640/21/2026/10/2026102000221374761_2.jpg"
-          }
-        ],
-        "excerpt": "",
-        "context": "19일 유튜브에 새 공개된 경험담을 20일 보도·자막 사진으로 확인했다.",
-        "fetched_at": 1792449546,
-        "parser_revision": 7
-      },
-      "curation_event_key": "jeon-somi-groupbuy-chat-notice-story-20261019"
-    },
-    "f80a301dccc2": {
-      "source": "beIN SPORTS",
-      "title": "돌아온 매디슨이 넣었다…토트넘, 첫 승리로 꼴찌 탈출",
-      "link": "https://www.beinsports.com/en-asia/football/premier-league/articles/tottenham-3-1-coventry-city-maddison-marmoush-and-davies-snap-winless-run-2026-10-19",
-      "first_seen_at": 1792449546,
-      "last_seen_at": 1792449546,
-      "samples": [
-        {
-          "at": 1792449546,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "f80a301dccc2",
-      "editorial": {
-        "title": "돌아온 매디슨이 넣었다…토트넘, 첫 승리로 꼴찌 탈출",
-        "category": "축구",
-        "url": "https://www.beinsports.com/en-asia/football/premier-league/articles/tottenham-3-1-coventry-city-maddison-marmoush-and-davies-snap-winless-run-2026-10-19",
-        "source": "beIN SPORTS",
-        "kind": "article",
-        "event_key": "tottenham-coventry-first-win-maddison-kulusevski-return-20261019",
-        "why": "토트넘 팬에게 단순 승점 대신, 장기 부상 복귀 두 명이 실제 경기에 돌아온 변화를 함께 전한다.",
-        "angle": "첫 장은 6경기 무승→3대1 첫 승·16위, 다음 장은 매디슨 선발골과 쿨루셉스키 실제 복귀.",
-        "why_now": "한국시간 20일 새벽 경기 종료로 첫 승과 실제 복귀가 확정됐다. 이전 의료진 복귀 허가 소식과 다른 새 사실이다.",
-        "verified_at": 1792448816,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.beinsports.com/en-asia/football/premier-league/articles/tottenham-3-1-coventry-city-maddison-marmoush-and-davies-snap-winless-run-2026-10-19",
-            "note": "매디슨은 지난해 5월 이후 첫 공식전 선발에서 득점했고, 쿨루셉스키는 526일 만에 교체 출전했다. 토트넘은 3대1로 승리해 16위가 됐다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.beinsports.com/en-asia/football/premier-league/articles/tottenham-3-1-coventry-city-maddison-marmoush-and-davies-snap-winless-run-2026-10-19",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "경기 영상은 미시청이므로 득점·관중 반응 컷을 봤다고 쓰지 않는다. 휴대폰 금지 정책이 승리 원인이라는 인과는 만들지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-19",
-          "observation": "매디슨은 지난해 5월 이후 첫 공식전 선발에서 득점했고, 쿨루셉스키는 526일 만에 교체 출전했다. 토트넘은 3대1로 승리해 16위가 됐다.",
-          "checked_materials": [],
-          "outline": [
-            "6경기 무승과 이번 첫 승·16위 변화를 사실 카드로 대조",
-            "매디슨의 첫 복귀 선발 득점과 87분 쿨루셉스키 투입 정리",
-            "기존 복귀 허가와 이번 실제 출전의 차이를 명시"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://www.beinsports.com/en-asia/football/premier-league/articles/tottenham-3-1-coventry-city-maddison-marmoush-and-davies-snap-winless-run-2026-10-19"
-          }
-        ],
-        "excerpt": "",
-        "context": "한국시간 20일 새벽 경기 종료로 첫 승과 실제 복귀가 확정됐다. 이전 의료진 복귀 허가 소식과 다른 새 사실이다.",
-        "fetched_at": 1792449546,
-        "parser_revision": 7
-      },
-      "curation_event_key": "tottenham-coventry-first-win-maddison-kulusevski-return-20261019"
-    },
-    "656e9c0d9b81": {
-      "source": "국민일보",
-      "title": "내가 쓴 쇼핑 후기가 팔린다…삭제해도 외부 서버엔 남을 수 있다",
-      "link": "https://www.kmib.co.kr/article/20261019502174",
-      "first_seen_at": 1792449546,
-      "last_seen_at": 1792449546,
-      "samples": [
-        {
-          "at": 1792449546,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "656e9c0d9b81",
-      "editorial": {
-        "title": "내가 쓴 쇼핑 후기가 팔린다…삭제해도 외부 서버엔 남을 수 있다",
-        "category": "시사",
-        "url": "https://www.kmib.co.kr/article/20261019502174",
-        "source": "국민일보",
-        "kind": "article",
-        "event_key": "shopping-review-ai-crawling-resale-test-20261019",
-        "why": "사진 리뷰를 올리는 친구에게 자신이 올린 후기와 사진의 외부 유료 이용 문제를 알려줄 이유가 있다.",
-        "angle": "첫 장은 '무료로 쓴 후기→외부 업체 유료 데이터', 다음 장은 기자의 약 100건 추출 실험과 플랫폼 답변.",
-        "why_now": "19일 취재 실험을 담은 20일 자정 보도다. 새로 확인된 서비스 작동과 삭제 후 보관 문제가 핵심이다.",
-        "verified_at": 1792448920,
-        "published_at": 1792422060,
-        "evidence": [
-          {
-            "url": "https://www.kmib.co.kr/article/20261019502174",
-            "note": "기자가 상품 URL로 1분 이내 약 100건의 리뷰·사진 추출을 확인했다. 주요 쇼핑 플랫폼들은 외부 수집을 허용하지 않았다고 답했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.kmib.co.kr/article/20261019502174",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "취재로 확인한 서비스 사례다. 모든 리뷰 유출·전체 크롤링 위법 확정으로 일반화하지 않고 소비자·아동 사진을 재노출하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-19",
-          "observation": "기자가 상품 URL로 1분 이내 약 100건의 리뷰·사진 추출을 확인했다. 주요 쇼핑 플랫폼들은 외부 수집을 허용하지 않았다고 답했다.",
-          "checked_materials": [],
-          "outline": [
-            "후기 작성자와 데이터 판매 서비스 사이의 이용 구조를 도식화",
-            "약 100건 추출 실험과 플랫폼들의 비허용 답변 정리",
-            "외부 서버 잔존 가능성과 업체 반론을 함께 표시"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://www.kmib.co.kr/article/20261019502174"
-          }
-        ],
-        "excerpt": "",
-        "context": "19일 취재 실험을 담은 20일 자정 보도다. 새로 확인된 서비스 작동과 삭제 후 보관 문제가 핵심이다.",
-        "fetched_at": 1792449546,
-        "parser_revision": 7
-      },
-      "curation_event_key": "shopping-review-ai-crawling-resale-test-20261019"
-    },
-    "b57f3a8f9deb": {
-      "source": "AFP",
-      "title": "호날두 대표팀 이탈 징계 확정…30일 정지에 제재금 255유로",
-      "link": "https://www.afp.com/en/ronaldo-handed-30-day-suspension-after-walking-out-portugal",
-      "first_seen_at": 1792449546,
-      "last_seen_at": 1792449546,
-      "samples": [
-        {
-          "at": 1792449546,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "b57f3a8f9deb",
-      "editorial": {
-        "title": "호날두 대표팀 이탈 징계 확정…30일 정지에 제재금 255유로",
-        "category": "축구",
-        "url": "https://www.afp.com/en/ronaldo-handed-30-day-suspension-after-walking-out-portugal",
-        "source": "AFP",
-        "kind": "article",
-        "event_key": "ronaldo-portugal-walkout-fpf-30-day-sanction-20261019",
-        "why": "호날두 팬과 대표팀 기강 문제를 보는 축구 친구에게 스타도 받게 된 실제 징계와 복귀 가능 시점을 함께 보낼 소재다.",
-        "angle": "첫 장은 '30일 정지·255유로', 다음 장은 10월1일부터 소급 적용된다는 징계 구조.",
-        "why_now": "FPF가 현지 19일 처분을 발표했다. 과거 무단이탈 자체가 아니라 확정된 처분과 적용 기간이 새 사실이다.",
-        "verified_at": 1792449247,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.afp.com/en/ronaldo-handed-30-day-suspension-after-walking-out-portugal",
-            "note": "FPF는 대표팀 이탈에 30일 정지·255유로를 부과했다. AFP는 10월1일부터 적용돼 10월 말 정지가 끝난다고 보도했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.afp.com/en/ronaldo-handed-30-day-suspension-after-walking-out-portugal",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "제재금은 유로 원액을 사용한다. 향후 대표팀 발탁·출전 보장이나 징계가 전혀 없었다는 해석은 하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-19",
-          "observation": "FPF는 대표팀 이탈에 30일 정지·255유로를 부과했다. AFP는 10월1일부터 적용돼 10월 말 정지가 끝난다고 보도했다.",
-          "checked_materials": [],
-          "outline": [
-            "대표팀 이탈에 대한 확정 징계 수치 제시",
-            "10월1일 기산→10월 말 종료의 달력 카드",
-            "사과와 규정상 최소 처분이라는 근거를 분리해 정리"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://www.afp.com/en/ronaldo-handed-30-day-suspension-after-walking-out-portugal"
-          }
-        ],
-        "excerpt": "",
-        "context": "FPF가 현지 19일 처분을 발표했다. 과거 무단이탈 자체가 아니라 확정된 처분과 적용 기간이 새 사실이다.",
-        "fetched_at": 1792449546,
-        "parser_revision": 7
-      },
-      "curation_event_key": "ronaldo-portugal-walkout-fpf-30-day-sanction-20261019"
-    },
-    "54384bcce93f": {
-      "source": "Vogue·뉴시스",
-      "title": "헌트릭스가 한국 폐백 자리에서 모였다…이재, 결혼식 공개",
-      "link": "https://www.vogue.com/slideshow/ejae-and-samuel-kim-wedding",
-      "first_seen_at": 1792449546,
-      "last_seen_at": 1792449546,
-      "samples": [
-        {
-          "at": 1792449546,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "54384bcce93f",
-      "editorial": {
-        "title": "헌트릭스가 한국 폐백 자리에서 모였다…이재, 결혼식 공개",
-        "category": "아이돌",
-        "url": "https://www.vogue.com/slideshow/ejae-and-samuel-kim-wedding",
-        "source": "Vogue·뉴시스",
-        "kind": "article",
-        "event_key": "ejae-samuel-kim-seoul-wedding-reveal-20261019",
-        "why": "케데헌을 본 친구에게 무대의 세 목소리가 한국 전통 혼례 자리에서 다시 모인 실제 사진을 보낼 소재다.",
-        "angle": "한복 입은 이재를 레이 아미·오드리 누나가 안은 사진을 첫 장에, 서울로 옮긴 결혼식 설명을 다음 장에 둔다.",
-        "why_now": "17일 결혼식과 폐백 사진이 19일 보그에 새 공개됐고 20일 국내 보도로 확인됐다.",
-        "verified_at": 1792449298,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.vogue.com/slideshow/ejae-and-samuel-kim-wedding",
-            "note": "확인한 사진에서 한복 입은 이재를 레이 아미와 오드리 누나가 감싸 안고 웃는다. 보그의 당사자 설명은 두 사람의 참석을 확인한다."
-          },
-          {
-            "url": "https://www.newsis.com/view/NISX20261020_0003832466",
-            "note": "17일 서울 예식과 당초 11월 미국 계획 변경, 사무엘 김의 신원을 교차 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://assets.vogue.com/photos/6ad5f565156bc0adf375d7ee/master/w_1024%2Cc_limit/010%2520-%252011_2628.jpg",
-            "label": "한복과 세 사람의 포옹",
-            "kind": "image"
-          },
-          {
-            "url": "https://www.newsis.com/view/NISX20261020_0003832466",
-            "label": "국내 교차 확인",
-            "kind": "source"
-          }
-        ],
-        "caution": "가수 샘김과 동명이인인 사무엘 김이다. 사진은 폐백·환영 행사로 본식 당일 사진과 구분하며 재사용 권리는 별도 확인한다.",
-        "readiness": {
-          "mode": "scene",
-          "event_date": "2026-10-17",
-          "observation": "확인한 사진에서 한복 입은 이재를 레이 아미와 오드리 누나가 감싸 안고 웃는다. 보그의 당사자 설명은 두 사람의 참석을 확인한다.",
-          "checked_materials": [
-            "https://assets.vogue.com/photos/6ad5f565156bc0adf375d7ee/master/w_1024%2Cc_limit/010%2520-%252011_2628.jpg"
-          ],
-          "outline": [
-            "확인한 세 사람의 한복·포옹 사진으로 시작",
-            "17일 서울 결혼과 11월 미국 계획 변경을 설명",
-            "어린 시절 가족 공간을 예식장으로 택한 당사자 설명"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [
-          {
-            "url": "https://assets.vogue.com/photos/6ad5f565156bc0adf375d7ee/master/w_1024%2Cc_limit/010%2520-%252011_2628.jpg",
-            "label": "한복과 세 사람의 포옹",
-            "kind": "image"
-          }
-        ],
-        "source_links": [
-          {
-            "label": "한복과 세 사람의 포옹",
-            "url": "https://assets.vogue.com/photos/6ad5f565156bc0adf375d7ee/master/w_1024%2Cc_limit/010%2520-%252011_2628.jpg"
-          },
-          {
-            "label": "국내 교차 확인",
-            "url": "https://www.newsis.com/view/NISX20261020_0003832466"
-          }
-        ],
-        "excerpt": "",
-        "context": "17일 결혼식과 폐백 사진이 19일 보그에 새 공개됐고 20일 국내 보도로 확인됐다.",
-        "fetched_at": 1792449546,
-        "parser_revision": 7
-      },
-      "curation_event_key": "ejae-samuel-kim-seoul-wedding-reveal-20261019"
-    },
-    "8db9ec508c18": {
-      "source": "연합뉴스",
-      "title": "올림픽 3관왕도 32강·16강 탈락…한국 양궁의 국내 경쟁",
-      "link": "https://www.yna.co.kr/amp/view/AKR20261019144800007",
-      "first_seen_at": 1792449546,
-      "last_seen_at": 1792449546,
-      "samples": [
-        {
-          "at": 1792449546,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "8db9ec508c18",
-      "editorial": {
-        "title": "올림픽 3관왕도 32강·16강 탈락…한국 양궁의 국내 경쟁",
-        "category": "메이저 스포츠",
-        "url": "https://www.yna.co.kr/amp/view/AKR20261019144800007",
-        "source": "연합뉴스",
-        "kind": "article",
-        "event_key": "national-games-kim-woojin-lim-sihyeon-early-exits-20261019",
-        "why": "파리올림픽을 본 친구에게 세계 정상과 국내 대진의 차이를 구체적인 네 선수 탈락 단계로 보여줄 소재다.",
-        "angle": "첫 장은 올림픽 3관왕 두 명의 32강·16강 대조, 다음 장은 강채영·안산까지 탈락한 실제 대진.",
-        "why_now": "19일 전국체전 개인전에서 동반 조기 탈락이 확정됐다. 과거 대회 결과나 막연한 '국내가 더 어렵다' 재탕이 아니다.",
-        "verified_at": 1792449290,
-        "published_at": 1792395540,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/amp/view/AKR20261019144800007",
-            "note": "김우진은 김종호에게 32강 4대6, 임시현은 임하나에게 16강 2대6으로 졌다. 강채영 32강·안산 64강 탈락도 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/amp/view/AKR20261019144800007",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "사진은 과거 대회 자료이므로 이번 경기 장면으로 쓰지 않는다. 올림픽보다 객관적으로 난도가 높다는 통계적 단정은 하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-19",
-          "observation": "김우진은 김종호에게 32강 4대6, 임시현은 임하나에게 16강 2대6으로 졌다. 강채영 32강·안산 64강 탈락도 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "파리 3관왕 경력과 이번 개인전 탈락 단계를 나란히 배치",
-            "승리한 상대 이름·세트 점수로 국내 선수층을 설명",
-            "강채영·안산 탈락과 김제덕 8강 진출을 구분"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://www.yna.co.kr/amp/view/AKR20261019144800007"
-          }
-        ],
-        "excerpt": "",
-        "context": "19일 전국체전 개인전에서 동반 조기 탈락이 확정됐다. 과거 대회 결과나 막연한 '국내가 더 어렵다' 재탕이 아니다.",
-        "fetched_at": 1792449546,
-        "parser_revision": 7
-      },
-      "curation_event_key": "national-games-kim-woojin-lim-sihyeon-early-exits-20261019"
-    },
-    "0ea37200a2dd": {
-      "source": "뉴스핌",
-      "title": "AI 안경, 쓴 사람만 적발된 게 아니다…시립대 3년 응시 제한",
-      "link": "https://www.newspim.com/news/view/20261019001476",
-      "first_seen_at": 1792449546,
-      "last_seen_at": 1792449546,
-      "samples": [
-        {
-          "at": 1792449546,
-          "views": null,
-          "reactions": null,
-          "rank": 7,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "0ea37200a2dd",
-      "editorial": {
-        "title": "AI 안경, 쓴 사람만 적발된 게 아니다…시립대 3년 응시 제한",
-        "category": "시사",
-        "url": "https://www.newspim.com/news/view/20261019001476",
-        "source": "뉴스핌",
-        "kind": "article",
-        "event_key": "uos-smart-glasses-two-cases-audit-disclosure-20261019",
-        "why": "입시생·학부모 친구에게 평범한 안경처럼 보이는 기기의 시험 반입과 제재 범위를 구체적으로 알려줄 소재다.",
-        "angle": "첫 장은 '착용 1건+소지 1건', 다음 장은 시립대 퇴실·3년 응시 제한의 정확한 범위.",
-        "why_now": "10월3일 시험 사건이 19일 국감 자료로 새 공개됐다. 사건일을 오늘로 바꾸지 않고 공개된 두 사례를 다룬다.",
-        "verified_at": 1792449247,
-        "published_at": 1792406460,
-        "evidence": [
-          {
-            "url": "https://www.newspim.com/news/view/20261019001476",
-            "note": "서울시립대 자연계 논술에서 AI 안경 착용·소지 두 건이 적발됐으며 학교는 퇴실과 3년 응시 제한 조치를 했다는 자료가 공개됐다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.newspim.com/news/view/20261019001476",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "시립대에 대한 제한이다. 모든 대학 3년 금지나 실제 AI 정답 사용이 확인됐다고 확대하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-19",
-          "observation": "서울시립대 자연계 논술에서 AI 안경 착용·소지 두 건이 적발됐으며 학교는 퇴실과 3년 응시 제한 조치를 했다는 자료가 공개됐다.",
-          "checked_materials": [],
-          "outline": [
-            "착용과 단순 소지를 구별한 두 건의 사실 카드",
-            "10월3일 발생→19일 국감 공개 날짜 표시",
-            "시립대 응시 제한이라는 적용 범위를 마지막에 명시"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://www.newspim.com/news/view/20261019001476"
-          }
-        ],
-        "excerpt": "",
-        "context": "10월3일 시험 사건이 19일 국감 자료로 새 공개됐다. 사건일을 오늘로 바꾸지 않고 공개된 두 사례를 다룬다.",
-        "fetched_at": 1792449546,
-        "parser_revision": 7
-      },
-      "curation_event_key": "uos-smart-glasses-two-cases-audit-disclosure-20261019"
-    },
-    "acbdab11720e": {
-      "source": "미 DHS 공개 명령",
-      "title": "앱만 지우는 게 아니다…미 연방기관, 딥시크 기반 외부 서비스도 제거",
-      "link": "https://public-inspection.federalregister.gov/2026-21447.pdf",
-      "first_seen_at": 1792449546,
-      "last_seen_at": 1792449546,
-      "samples": [
-        {
-          "at": 1792449546,
-          "views": null,
-          "reactions": null,
-          "rank": 8,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "official",
-      "story_id": "acbdab11720e",
-      "editorial": {
-        "title": "앱만 지우는 게 아니다…미 연방기관, 딥시크 기반 외부 서비스도 제거",
-        "category": "시사",
-        "url": "https://public-inspection.federalregister.gov/2026-21447.pdf",
-        "source": "미 DHS 공개 명령",
-        "kind": "official",
-        "event_key": "deepseek-federal-civilian-third-party-removal-order-20261019",
-        "why": "업무용 AI를 쓰는 친구에게 서비스 이름뿐 아니라 기반 모델까지 제한 대상에 포함됐다는 변화를 전할 소재다.",
-        "angle": "첫 장은 '딥시크+딥시크 기반 제3자 서비스', 다음 장은 연방 민간기관 IT·조달의 제한 범위.",
-        "why_now": "19일 공개 열람된 DHS 명령 원문을 확인했다. 일부 기관의 과거 차단보다 넓은 제품·제3자 서비스 범위가 새 사실이다.",
-        "verified_at": 1792449312,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://public-inspection.federalregister.gov/2026-21447.pdf",
-            "note": "DHS 명령 공개본은 연방 민간기관 조달에서 딥시크 제품을 제외하고 관련 제품 및 딥시크 구현 기반 제3자 서비스를 IT에서 제거하도록 한다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://public-inspection.federalregister.gov/2026-21447.pdf",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "미국 일반 소비자 전면 금지가 아니다. 공개 열람본이며 관보 정식 게재는 현지 20일 예정이다. 모든 제품의 정보 유출을 확정하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-19",
-          "observation": "DHS 명령 공개본은 연방 민간기관 조달에서 딥시크 제품을 제외하고 관련 제품 및 딥시크 구현 기반 제3자 서비스를 IT에서 제거하도록 한다.",
-          "checked_materials": [],
-          "outline": [
-            "DHS 공개본의 직접 제품·제3자 서비스 범위를 나란히 정리",
-            "적용 대상을 연방 민간기관 IT·조달로 명시",
-            "19일 공개 열람·20일 관보 정식 게재 예정 상태 구분"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://public-inspection.federalregister.gov/2026-21447.pdf"
-          }
-        ],
-        "excerpt": "",
-        "context": "19일 공개 열람된 DHS 명령 원문을 확인했다. 일부 기관의 과거 차단보다 넓은 제품·제3자 서비스 범위가 새 사실이다.",
-        "fetched_at": 1792449546,
-        "parser_revision": 7
-      },
-      "curation_event_key": "deepseek-federal-civilian-third-party-removal-order-20261019"
-    },
-    "24984c63f771": {
-      "source": "서울신문",
-      "title": "위험 경고했던 삼전·하이닉스 레버리지 ETF…금감원장 '심사 서둘렀다'",
-      "link": "https://www.seoul.co.kr/news/economy/2026/10/19/20261019500283",
-      "first_seen_at": 1792449546,
-      "last_seen_at": 1792449546,
-      "samples": [
-        {
-          "at": 1792449546,
-          "views": null,
-          "reactions": null,
-          "rank": 9,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "24984c63f771",
-      "editorial": {
-        "title": "위험 경고했던 삼전·하이닉스 레버리지 ETF…금감원장 '심사 서둘렀다'",
-        "category": "시사",
-        "url": "https://www.seoul.co.kr/news/economy/2026/10/19/20261019500283",
-        "source": "서울신문",
-        "kind": "article",
-        "event_key": "fss-single-stock-leveraged-etf-review-expedition-admission-20261019",
-        "why": "해당 ETF를 아는 투자자에게 수익률 대신 상품 심사 순서와 일정 우선 여부를 따져볼 사실을 전한다.",
-        "angle": "첫 장은 위험 경고와 '상장 일정 맞춰 심사' 발언을 대비하고, 다음 장은 통상 절차와 이번 설명을 구분.",
-        "why_now": "19일 국감에서 이찬진 금감원장이 심사를 서두른 부분을 인정했다. 주가 변동이나 기존 IPO 이슈와 다른 새 답변이다.",
-        "verified_at": 1792448932,
-        "published_at": 1792397280,
-        "evidence": [
-          {
-            "url": "https://www.seoul.co.kr/news/economy/2026/10/19/20261019500283",
-            "note": "금감원장은 금융위가 제시한 상장 일정에 맞추려 심사를 빨리한 부분이 있다고 말했다. 거래소 예비심사 완료 전 등록 심사 진행도 질문받았다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.seoul.co.kr/news/economy/2026/10/19/20261019500283",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "심사 관련 당사자 설명이다. 위법 확정·투자 손실 규모·향후 수익 전망으로 확대하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-19",
-          "observation": "금감원장은 금융위가 제시한 상장 일정에 맞추려 심사를 빨리한 부분이 있다고 말했다. 거래소 예비심사 완료 전 등록 심사 진행도 질문받았다.",
-          "checked_materials": [],
-          "outline": [
-            "삼성전자·SK하이닉스 단일종목 레버리지 ETF 이름 명시",
-            "위험 우려와 심사를 서두른 부분 인정 발언 대비",
-            "통상 순서와 당사자 설명을 구분한 절차 카드"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://www.seoul.co.kr/news/economy/2026/10/19/20261019500283"
-          }
-        ],
-        "excerpt": "",
-        "context": "19일 국감에서 이찬진 금감원장이 심사를 서두른 부분을 인정했다. 주가 변동이나 기존 IPO 이슈와 다른 새 답변이다.",
-        "fetched_at": 1792449546,
-        "parser_revision": 7
-      },
-      "curation_event_key": "fss-single-stock-leveraged-etf-review-expedition-admission-20261019"
-    },
-    "9a264e31dd3e": {
-      "source": "인터풋볼",
-      "title": "선수가 괴롭힘 문제 제기하자…전남 '분리·퇴단 조치'",
-      "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=696718",
-      "first_seen_at": 1792449546,
-      "last_seen_at": 1792449546,
-      "samples": [
-        {
-          "at": 1792449546,
-          "views": null,
-          "reactions": null,
-          "rank": 10,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "9a264e31dd3e",
-      "editorial": {
-        "title": "선수가 괴롭힘 문제 제기하자…전남 '분리·퇴단 조치'",
-        "category": "축구",
-        "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=696718",
-        "source": "인터풋볼",
-        "kind": "article",
-        "event_key": "jeonnam-player-bullying-separation-exit-confirmation-20261019",
-        "why": "국내 축구 팬에게 익명 폭로만이 아니라 구단이 확인한 분리·퇴단 조치까지 이어진 선수 보호 문제를 전한다.",
-        "angle": "첫 장은 '공식 문제 제기→분리·퇴단 조치', 다음 장은 구단의 확인 발언과 미확정 영역.",
-        "why_now": "19일 구단 관계자의 조치 설명이 보도됐다. 선수 이름 추측이나 과거 소문을 추천하는 것이 아니다.",
-        "verified_at": 1792448816,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=696718",
-            "note": "구단 관계자는 선수 간 괴롭힘 문제 제기 이후 두 선수를 분리하고 퇴단 조치를 했다고 설명했다. 기사에는 절차 진행 표현도 함께 있다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=696718",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "선수 신원 추정과 무관한 자료 사진 사용을 피한다. 구단 조치 발언이며 형사 유죄 확정과 다르다. 퇴단 완료·진행 표현 차이를 보존한다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-19",
-          "observation": "구단 관계자는 선수 간 괴롭힘 문제 제기 이후 두 선수를 분리하고 퇴단 조치를 했다고 설명했다. 기사에는 절차 진행 표현도 함께 있다.",
-          "checked_materials": [],
-          "outline": [
-            "구단 확인 발언을 익명 관계 구조와 함께 제시",
-            "공식 문제 제기·분리·퇴단 조치 순서 정리",
-            "이름·사법 판단 미공개라는 한계 표시"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=696718"
-          }
-        ],
-        "excerpt": "",
-        "context": "19일 구단 관계자의 조치 설명이 보도됐다. 선수 이름 추측이나 과거 소문을 추천하는 것이 아니다.",
-        "fetched_at": 1792449546,
-        "parser_revision": 7
-      },
-      "curation_event_key": "jeonnam-player-bullying-separation-exit-confirmation-20261019"
-    },
-    "83f17b3c8e6b": {
-      "source": "스타뉴스",
-      "title": "출연자는 하네스, 바로 옆 직원은?…‘나혼산’ 번지 장면에 진정",
-      "link": "https://www.starnewskorea.com/broadcast-show/2026/10/19/2026101916061583363",
-      "first_seen_at": 1792413762,
-      "last_seen_at": 1792413762,
-      "samples": [
-        {
-          "at": 1792413762,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "83f17b3c8e6b",
-      "editorial": {
-        "title": "출연자는 하네스, 바로 옆 직원은?…‘나혼산’ 번지 장면에 진정",
-        "category": "시사",
-        "url": "https://www.starnewskorea.com/broadcast-show/2026/10/19/2026101916061583363",
-        "source": "스타뉴스",
-        "kind": "article",
-        "event_key": "i-live-alone-bungee-worker-safety-complaint-20261019",
-        "why": "예능을 본 시청자가 작업 현장의 안전 차이를 한눈에 비교할 수 있어, 방송 팬과 현장 근로자가 같은 사진을 두고 이야기할 이유가 있다.",
-        "angle": "방송 캡처의 출연자 하네스와 옆 직원 복장을 나란히 놓고, 다음 장에서 19일 진정 제기 보도를 설명한다.",
-        "why_now": "16일 방송 장면을 두고 19일 안전조치 관련 진정과 담당 부서 배정이 보도됐다.",
-        "verified_at": 1792413450,
-        "published_at": 1792394280,
-        "evidence": [
-          {
-            "url": "https://www.starnewskorea.com/broadcast-show/2026/10/19/2026101916061583363",
-            "note": "16일 구성환의 번지점프 방송 장면과 19일 국민신문고 진정 제기·강원지청 담당 부서 배정 보도를 읽었다."
-          },
-          {
-            "url": "https://www.starnewskorea.com/broadcast-show/2026/10/19/2026101916061583363",
-            "note": "원문 비교 사진을 직접 열었다. 출연자에게는 몸통·다리 하네스가 보이고 옆 직원의 겉옷에서는 같은 장비가 보이지 않는다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=640/21/2026/10/2026101916061583363_1.jpg",
-            "label": "확인한 방송 비교 사진",
-            "kind": "image"
-          },
-          {
-            "url": "https://www.starnewskorea.com/broadcast-show/2026/10/19/2026101916061583363",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "정지 사진만으로 장비 미착용·법 위반을 확정하지 않는다. 근로자 신분과 조사 착수 여부도 미확인이다.",
-        "readiness": {
-          "mode": "scene",
-          "event_date": "2026-10-16",
-          "observation": "방송 비교 사진에서 구성환의 하네스와 바로 옆 직원 복장이 대비된다. 19일 보도로 이 장면에 대한 안전 진정 제기 사실을 확인했다.",
-          "checked_materials": [
-            "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=640/21/2026/10/2026101916061583363_1.jpg"
-          ],
-          "outline": [
-            "방송 비교 사진 두 부분을 같은 크기로 배치하고 ‘출연자 / 옆 직원’만 표시한다.",
-            "하네스가 사진에 보이는 범위와 보이지 않는 범위를 구분한다.",
-            "19일 제기된 진정과 담당 부서 배정을 설명하고 위법 확정 전임을 적는다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [
-          {
-            "url": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=640/21/2026/10/2026101916061583363_1.jpg",
-            "label": "확인한 방송 비교 사진",
-            "kind": "image"
-          }
-        ],
-        "source_links": [
-          {
-            "label": "확인한 방송 비교 사진",
-            "url": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=640/21/2026/10/2026101916061583363_1.jpg"
-          },
-          {
-            "label": "확인한 원문",
-            "url": "https://www.starnewskorea.com/broadcast-show/2026/10/19/2026101916061583363"
-          }
-        ],
-        "excerpt": "",
-        "context": "16일 방송 장면을 두고 19일 안전조치 관련 진정과 담당 부서 배정이 보도됐다.",
-        "fetched_at": 1792413762,
-        "parser_revision": 7
-      },
-      "curation_event_key": "i-live-alone-bungee-worker-safety-complaint-20261019"
-    },
-    "a6cf6783e96c": {
-      "source": "UFC 한국 공식",
-      "title": "서서 맞은 유효타 0…‘유짓수’가 9전 전승을 끝냈다",
-      "link": "https://kr.ufc.com/news/yujissuui-cheos-pinisi-seungli",
-      "first_seen_at": 1792413762,
-      "last_seen_at": 1792413762,
-      "samples": [
-        {
-          "at": 1792413762,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "official",
-      "story_id": "a6cf6783e96c",
-      "editorial": {
-        "title": "서서 맞은 유효타 0…‘유짓수’가 9전 전승을 끝냈다",
-        "category": "메이저 스포츠",
-        "url": "https://kr.ufc.com/news/yujissuui-cheos-pinisi-seungli",
-        "source": "UFC 한국 공식",
-        "kind": "official",
-        "event_key": "yoo-soo-young-kovanchek-first-ufc-finish-20261018",
-        "why": "격투기 팬이 ‘한 대도 안 맞았다’의 정확한 범위와 83% 지배 시간을 함께 보여주며 한국 선수의 승리 방식을 설명할 수 있다.",
-        "angle": "‘상대 9승 0패→9승 1패’와 ‘스탠딩 유효 피격 0’을 큰 숫자로 놓고 컨트롤 시간과 첫 피니시로 잇는다.",
-        "why_now": "18일 승리를 UFC가 19일 공식 결과로 설명하며 6회 테이크다운·11분49초 컨트롤을 공개했다.",
-        "verified_at": 1792413428,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://kr.ufc.com/news/yujissuui-cheos-pinisi-seungli",
-            "note": "UFC 공식 본문에서 18일 유수영이 코반첵에게 3라운드 4분19초 기무라 승리, 자신의 UFC 첫 피니시였음을 확인했다."
-          },
-          {
-            "url": "https://kr.ufc.com/news/yujissuui-cheos-pinisi-seungli",
-            "note": "상대 경기 전 9승 무패, 테이크다운 6회, 컨트롤 11분49초 약83%, 스탠딩 유효 피격 0이라는 공식 설명을 읽었다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://kr.ufc.com/news/yujissuui-cheos-pinisi-seungli",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "경기 영상을 시청한 추천이 아니다. ‘유효타 0’은 스탠딩 한정이다. 원문의 ‘올해 첫 기무라’ 표현은 사용하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-18",
-          "observation": "한국 선수의 UFC 첫 피니시가 9승 무패 상대의 첫 패배가 됐다. 승리 방식과 지배 시간을 공식 수치로 제작할 수 있다.",
-          "checked_materials": [],
-          "outline": [
-            "상대의 9승0패→9승1패와 유수영 UFC 첫 피니시를 표시한다.",
-            "스탠딩 유효 피격0·테이크다운6회·컨트롤11분49초를 나눠 보여준다.",
-            "피니시 시각 3R4:19와 기무라 기술명을 설명하되 미확인 경기 컷을 제안하지 않는다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://kr.ufc.com/news/yujissuui-cheos-pinisi-seungli"
-          }
-        ],
-        "excerpt": "",
-        "context": "18일 승리를 UFC가 19일 공식 결과로 설명하며 6회 테이크다운·11분49초 컨트롤을 공개했다.",
-        "fetched_at": 1792413762,
-        "parser_revision": 7
-      },
-      "curation_event_key": "yoo-soo-young-kovanchek-first-ufc-finish-20261018"
-    },
-    "6eb13062b3fc": {
-      "source": "GOAL",
-      "title": "토트넘이 식탁에서 휴대폰을 치웠다…데제르비가 바꾼 규칙",
-      "link": "https://www.goal.com/en-us/lists/roberto-de-zerbi-tottenham-no-phone-policy/blt290e1782c2757533",
-      "first_seen_at": 1792413762,
-      "last_seen_at": 1792413762,
-      "samples": [
-        {
-          "at": 1792413762,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "6eb13062b3fc",
-      "editorial": {
-        "title": "토트넘이 식탁에서 휴대폰을 치웠다…데제르비가 바꾼 규칙",
-        "category": "축구",
-        "url": "https://www.goal.com/en-us/lists/roberto-de-zerbi-tottenham-no-phone-policy/blt290e1782c2757533",
-        "source": "GOAL",
-        "kind": "article",
-        "event_key": "tottenham-de-zerbi-phones-removed-team-meals-20261018",
-        "why": "토트넘 팬이 비싼 선수 영입 뒤에도 팀이 묶이지 않은 상황을 ‘밥 먹을 때 폰 금지’라는 생활 장면으로 친구에게 설명할 수 있다.",
-        "angle": "‘아침·점심·저녁 폰 금지’를 식탁 도식으로 보여주고, 감독이 든 새 선수 10명과 대화 부족을 붙인다.",
-        "why_now": "19일 보도에서 마르베야 합숙 때 세 끼 식사에서 휴대폰을 치운 실제 조치와 감독의 설명을 확인했다.",
-        "verified_at": 1792413437,
-        "published_at": 1792395120,
-        "evidence": [
-          {
-            "url": "https://www.goal.com/en-us/lists/roberto-de-zerbi-tottenham-no-phone-policy/blt290e1782c2757533",
-            "note": "합숙의 아침·점심·저녁 공동 식사에서 휴대폰을 치웠다는 데제르비의 설명과 새 영입 선수 10명 맥락을 읽었다."
-          },
-          {
-            "url": "https://www.goal.com/en-us/lists/roberto-de-zerbi-tottenham-no-phone-policy/blt290e1782c2757533",
-            "note": "선수들의 자유 외출은 허용했고 군대식 규칙은 아니라는 설명도 함께 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.goal.com/en-us/lists/roberto-de-zerbi-tottenham-no-phone-policy/blt290e1782c2757533",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "24시간 휴대폰 압수·군대식 합숙으로 바꾸지 않는다. 효과나 다음 경기 결과는 아직 확인되지 않았다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-18",
-          "observation": "데제르비가 마르베야 합숙에서 식사 중 휴대폰을 없애 선수 사이 대화를 늘리려 했다고 설명했다. 조치의 범위는 공동 식사다.",
-          "checked_materials": [],
-          "outline": [
-            "세 끼 식탁 도식에 휴대폰 금지 표시를 한다.",
-            "10명 영입 뒤 팀 대화를 늘리려 했다는 감독 설명을 요약한다.",
-            "자유시간 외출은 허용됐으며 경기력 개선 효과는 미확인이라고 구분한다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://www.goal.com/en-us/lists/roberto-de-zerbi-tottenham-no-phone-policy/blt290e1782c2757533"
-          }
-        ],
-        "excerpt": "",
-        "context": "19일 보도에서 마르베야 합숙 때 세 끼 식사에서 휴대폰을 치운 실제 조치와 감독의 설명을 확인했다.",
-        "fetched_at": 1792413762,
-        "parser_revision": 7
-      },
-      "curation_event_key": "tottenham-de-zerbi-phones-removed-team-meals-20261018"
-    },
-    "acad61d6f734": {
-      "source": "SBS",
-      "title": "하이닉스 손자회사도 상장?…금감원장은 ‘중복상장’ 판단",
-      "link": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008804989&plink=TOPNEWS",
-      "first_seen_at": 1792413762,
-      "last_seen_at": 1792413762,
-      "samples": [
-        {
-          "at": 1792413762,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "acad61d6f734",
-      "editorial": {
-        "title": "하이닉스 손자회사도 상장?…금감원장은 ‘중복상장’ 판단",
-        "category": "시사",
-        "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008804989&plink=TOPNEWS",
-        "source": "SBS",
-        "kind": "article",
-        "event_key": "solidigm-listing-fss-overlap-assessment-20261019",
-        "why": "하이닉스 주주가 자신이 가진 주식과 손자회사 상장의 관계를 지분 구조 한 장으로 확인해 다른 투자자에게 공유할 수 있다.",
-        "angle": "SK→스퀘어→하이닉스→AI컴퍼니→솔리다임 구조와 19일 금감원장의 판단을 한 장에 놓는다.",
-        "why_now": "솔리다임 해외 상장 추진에 대해 19일 국감에서 금감원장이 중복상장에 해당한다는 입장을 밝혔다.",
-        "verified_at": 1792412397,
-        "published_at": 1792408320,
-        "evidence": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008804989&plink=TOPNEWS",
-            "note": "SK하이닉스가 AI컴퍼니를 통해 보유한 솔리다임의 상장 추진과 5단계 지배구조 설명을 읽었다."
-          },
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008804989&plink=TOPNEWS",
-            "note": "19일 국정감사에서 이찬진 금융감독원장이 중복상장 해당 입장을 밝혔다. 상장 완료나 위법 판결이라는 보도는 아니다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008804989&plink=TOPNEWS",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "상장 완료·불법 확정으로 쓰지 않는다. 기업가치·조달액 전망과 향후 주가를 확정하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-19",
-          "observation": "하이닉스 손자회사 상장 추진이 기존 주주 보호와 중복상장 문제로 국감에서 다뤄졌고 금융감독원장의 판단이 새로 나왔다.",
-          "checked_materials": [],
-          "outline": [
-            "5단계 지배구조에서 현재 상장사와 솔리다임 추진을 다른 색으로 표시한다.",
-            "19일 금감원장 발언을 중복상장 ‘판단’으로 표시한다.",
-            "상장 추진과 확정·법적 위법 판단은 서로 다른 단계라고 정리한다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008804989&plink=TOPNEWS"
-          }
-        ],
-        "excerpt": "",
-        "context": "솔리다임 해외 상장 추진에 대해 19일 국감에서 금감원장이 중복상장에 해당한다는 입장을 밝혔다.",
-        "fetched_at": 1792413762,
-        "parser_revision": 7
-      },
-      "curation_event_key": "solidigm-listing-fss-overlap-assessment-20261019"
-    },
-    "9fdf202b314a": {
-      "source": "SBS",
-      "title": "6천 원 렌즈가 40만 원…‘수입품’ 포장까지 바꿨다",
-      "link": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008804164&plink=INTEREST",
-      "first_seen_at": 1792413762,
-      "last_seen_at": 1792413762,
-      "samples": [
-        {
-          "at": 1792413762,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "9fdf202b314a",
-      "editorial": {
-        "title": "6천 원 렌즈가 40만 원…‘수입품’ 포장까지 바꿨다",
-        "category": "시사",
-        "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008804164&plink=INTEREST",
-        "source": "SBS",
-        "kind": "article",
-        "event_key": "danyang-youth-myopia-lens-markup-repackaging-investigation-20261019",
-        "why": "안경을 맞추는 부모가 근시 억제 광고와 수입 브랜드 포장을 그대로 믿어도 되는지 가족에게 확인을 요청할 이유가 있다.",
-        "angle": "중국 취재 사례의 도매30위안→소매1980위안을 먼저 보여주고 포장 바꿔치기와 현지 조사 사실로 잇는다.",
-        "why_now": "19일 공개된 중국 현지 취재와 시장감독 부서의 조사·과장 광고 대응 내용이 확인됐다.",
-        "verified_at": 1792412397,
-        "published_at": 1792381320,
-        "evidence": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008804164&plink=INTEREST",
-            "note": "중국 장쑤성 단양의 취재 사례에서 청소년 근시 억제 렌즈 도매30위안과 소매1980위안, 수입 브랜드 포장 교체 설명을 읽었다."
-          },
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008804164&plink=INTEREST",
-            "note": "현지 시장감독 부서가 과장 광고·폭리 문제를 조사하고 처벌·추적한다는 보도를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008804164&plink=INTEREST",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "중국 취재 사례다. 한국 유통 렌즈 전부가 가짜이거나 검증된 모든 근시 억제 렌즈가 무효라고 일반화하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-19",
-          "observation": "현지 유통 취재에서 66배 가격 차이와 수입 브랜드 포장 교체가 드러났고 현지 감독 당국의 대응이 보도됐다.",
-          "checked_materials": [],
-          "outline": [
-            "중국 사례임을 표시한 뒤 30위안과1980위안을 비교한다.",
-            "수입 브랜드 포장 교체가 어떤 주장인지 취재 내용으로 설명한다.",
-            "현지 조사와 처벌 대응을 적고 한국 제품 전체에 대한 판단이 아님을 명시한다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008804164&plink=INTEREST"
-          }
-        ],
-        "excerpt": "",
-        "context": "19일 공개된 중국 현지 취재와 시장감독 부서의 조사·과장 광고 대응 내용이 확인됐다.",
-        "fetched_at": 1792413762,
-        "parser_revision": 7
-      },
-      "curation_event_key": "danyang-youth-myopia-lens-markup-repackaging-investigation-20261019"
-    },
-    "3e115a102c72": {
-      "source": "스포츠조선",
-      "title": "월드컵 탈락 뒤 떠난 가투소…라치오에선 구단 최초 기록",
-      "link": "https://www.chosun.com/sports/world-football/2026/10/19/MNQWEZLGMUZDMYRVMZRDENZRMU/",
-      "first_seen_at": 1792413762,
-      "last_seen_at": 1792413762,
-      "samples": [
-        {
-          "at": 1792413762,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "3e115a102c72",
-      "editorial": {
-        "title": "월드컵 탈락 뒤 떠난 가투소…라치오에선 구단 최초 기록",
-        "category": "축구",
-        "url": "https://www.chosun.com/sports/world-football/2026/10/19/MNQWEZLGMUZDMYRVMZRDENZRMU/",
-        "source": "스포츠조선",
-        "kind": "article",
-        "event_key": "gattuso-lazio-first-seven-six-wins-juventus-away-20261019",
-        "why": "이탈리아 대표팀 실패를 기억하는 축구 팬이 같은 감독의 클럽 성적표가 어떻게 뒤집혔는지 비교해서 보여줄 수 있다.",
-        "angle": "대표팀 월드컵 본선 진출 실패와 라치오 첫7경기6승1무를 대비하고 유벤투스 원정9년 만의 승리를 붙인다.",
-        "why_now": "19일 유벤투스 원정3-0 뒤 첫7경기6승을 달성한 라치오 첫 감독이라는 새 기록이 보도됐다.",
-        "verified_at": 1792412990,
-        "published_at": 1792370400,
-        "evidence": [
-          {
-            "url": "https://www.chosun.com/sports/world-football/2026/10/19/MNQWEZLGMUZDMYRVMZRDENZRMU/",
-            "note": "월드컵 본선 진출 실패 뒤 이탈리아 대표팀을 떠난 가투소가 라치오 첫7경기6승1무를 기록한 구단 최초 감독이라는 본문을 읽었다."
-          },
-          {
-            "url": "https://www.chosun.com/sports/world-football/2026/10/19/MNQWEZLGMUZDMYRVMZRDENZRMU/",
-            "note": "19일 한국시간 유벤투스 원정3-0, 2017년 이후9년 만의 해당 원정 승리, 승점19로 인테르와 동률이라는 내용을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.chosun.com/sports/world-football/2026/10/19/MNQWEZLGMUZDMYRVMZRDENZRMU/",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "골 장면을 시청한 추천은 아니다. 승점 동률을 단독1위나 우승 확정으로 바꾸지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-19",
-          "observation": "가투소의 라치오가 유벤투스 원정9년 만의 승리와 구단 첫 감독 기록을 동시에 만들며 대표팀 실패와 다른 출발을 보였다.",
-          "checked_materials": [],
-          "outline": [
-            "‘대표팀 본선 진출 실패’와 ‘라치오 첫7경기6승1무’를 두 열로 비교한다.",
-            "유벤투스 원정3-0과 직전 승리2017년을 표시한다.",
-            "승점19로 선두 인테르와 동률인 현재 경쟁 구도를 덧붙인다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://www.chosun.com/sports/world-football/2026/10/19/MNQWEZLGMUZDMYRVMZRDENZRMU/"
-          }
-        ],
-        "excerpt": "",
-        "context": "19일 유벤투스 원정3-0 뒤 첫7경기6승을 달성한 라치오 첫 감독이라는 새 기록이 보도됐다.",
-        "fetched_at": 1792413762,
-        "parser_revision": 7
-      },
-      "curation_event_key": "gattuso-lazio-first-seven-six-wins-juventus-away-20261019"
-    },
-    "0892a97f3952": {
-      "source": "아시아투데이",
-      "title": "러닝 신청해놨다면 확인…서울 대회 두 곳이 취소됐다",
-      "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261019010006140",
-      "first_seen_at": 1792413762,
-      "last_seen_at": 1792413762,
-      "samples": [
-        {
-          "at": 1792413762,
-          "views": null,
-          "reactions": null,
-          "rank": 7,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "0892a97f3952",
-      "editorial": {
-        "title": "러닝 신청해놨다면 확인…서울 대회 두 곳이 취소됐다",
-        "category": "메이저 스포츠",
-        "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261019010006140",
-        "source": "아시아투데이",
-        "kind": "article",
-        "event_key": "sportsseoul-half-cookierun-seoul-cancellations-20261019",
-        "why": "함께 대회를 신청한 러너가 동행인에게 바로 알려 출발·숙박·이동 계획을 바꿔야 하는 구체적인 생활 정보다.",
-        "angle": "스포츠서울 하프10월29일·쿠키런 인 서울10월25일 두 일정을 ‘취소’로 나란히 표시한다.",
-        "why_now": "19일 스포츠서울 하프 조직위가 취소를 알렸고 쿠키런 인 서울의 오프라인 취소도 함께 확인됐다.",
-        "verified_at": 1792412803,
-        "published_at": 1792393800,
-        "evidence": [
-          {
-            "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261019010006140",
-            "note": "스포츠서울 하프 조직위가19일 공식 인스타그램을 통해29일 목동종합운동장 출발 대회를 취소했다고 밝힌 보도를 읽었다."
-          },
-          {
-            "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261019010006140",
-            "note": "25일 어린이대공원 예정이던 용감한 쿠키런 인 서울도 오프라인 행사를 취소했으며 버추얼런은 준비 중이라는 설명을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261019010006140",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "서울 모든 마라톤 취소가 아니다. 환불 방식·버추얼런 확정 일정은 각 주최 측 안내를 추가 확인해야 한다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-19",
-          "observation": "서울에서 예정된 서로 다른 두 러닝 행사가 취소돼 참가 예정자의 일정 변경이 필요해졌다. 스포츠서울은 안전·운영 여건을 이유로 들었다.",
-          "checked_materials": [],
-          "outline": [
-            "대회명·기존 날짜·기존 장소를 두 줄로 놓고 모두취소 표시한다.",
-            "조직위가 밝힌 안전·교통통제·운영 여건을 요약한다.",
-            "각 대회 환불 공지 확인을 안내하고 버추얼런은 준비 단계라고 적는다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261019010006140"
-          }
-        ],
-        "excerpt": "",
-        "context": "19일 스포츠서울 하프 조직위가 취소를 알렸고 쿠키런 인 서울의 오프라인 취소도 함께 확인됐다.",
-        "fetched_at": 1792413762,
-        "parser_revision": 7
-      },
-      "curation_event_key": "sportsseoul-half-cookierun-seoul-cancellations-20261019"
-    },
-    "ff7e4ab8f177": {
-      "source": "SBS",
-      "title": "120만 원 든 분실물 챙겼는데 두 번 구제…법원은 뒤집었다",
-      "link": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008803856&plink=INTEREST",
-      "first_seen_at": 1792413762,
-      "last_seen_at": 1792413762,
-      "samples": [
-        {
-          "at": 1792413762,
-          "views": null,
-          "reactions": null,
-          "rank": 8,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "ff7e4ab8f177",
-      "editorial": {
-        "title": "120만 원 든 분실물 챙겼는데 두 번 구제…법원은 뒤집었다",
-        "category": "시사",
-        "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008803856&plink=INTEREST",
-        "source": "SBS",
-        "kind": "article",
-        "event_key": "srt-lost-property-dismissal-labor-board-court-reversal-disclosure-20261019",
-        "why": "직장인이 ‘돈을 챙긴 직원이 왜 복직 구제를 받았나’라는 질문을 가지고 노동위원회와 법원의 다른 판단을 동료에게 보여줄 수 있다.",
-        "angle": "‘노동위 구제→재심도 구제→법원 해임 정당’ 판단 순서를 분실물120만 원과 함께 도식화한다.",
-        "why_now": "19일 보도로 SRT 객실장의 분실물 보관·기소유예와 노동위 결정을 뒤집은 행정법원 판단이 구체적으로 알려졌다.",
-        "verified_at": 1792412397,
-        "published_at": 1792372740,
-        "evidence": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008803856&plink=INTEREST",
-            "note": "SRT 객실장이 현금120만 원·명품 지갑·무선 이어폰 등 분실물을 집에 보관했다가 회사에서 해임된 경위를 읽었다."
-          },
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008803856&plink=INTEREST",
-            "note": "지방·중앙 노동위원회의 구제 판단과 달리 서울행정법원이 회사 해임을 정당하다고 봤다는 보도를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008803856&plink=INTEREST",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "기소유예는 무죄 판결이 아니다. 정확한 선고일·확정 여부는 기사에서 확인되지 않아19일 새 보도 기준으로 다룬다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-19",
-          "observation": "19일 공개된 판결 보도에서 두 차례 노동위 구제와 법원의 해임 정당 판단이 대비된다. 직무상 신뢰를 이용한 분실물 보관이 쟁점이다.",
-          "checked_materials": [],
-          "outline": [
-            "분실물 현금120만 원과 회사 해임 사실을 제시한다.",
-            "지방노동위→중앙노동위→행정법원의 서로 다른 판단을 차례로 놓는다.",
-            "법원이 본 직무상 신뢰·고의성과 기소유예·해임 판단의 차이를 설명한다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008803856&plink=INTEREST"
-          }
-        ],
-        "excerpt": "",
-        "context": "19일 보도로 SRT 객실장의 분실물 보관·기소유예와 노동위 결정을 뒤집은 행정법원 판단이 구체적으로 알려졌다.",
-        "fetched_at": 1792413762,
-        "parser_revision": 7
-      },
-      "curation_event_key": "srt-lost-property-dismissal-labor-board-court-reversal-disclosure-20261019"
-    },
-    "f1718bac708d": {
-      "source": "경향신문",
-      "title": "문학동네 지분 매각 추진 중…대표도 이달 말 물러난다",
-      "link": "https://www.khan.co.kr/article/202610191505001",
-      "first_seen_at": 1792413762,
-      "last_seen_at": 1792413762,
-      "samples": [
-        {
-          "at": 1792413762,
-          "views": null,
-          "reactions": null,
-          "rank": 9,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "f1718bac708d",
-      "editorial": {
-        "title": "문학동네 지분 매각 추진 중…대표도 이달 말 물러난다",
-        "category": "시사",
-        "url": "https://www.khan.co.kr/article/202610191505001",
-        "source": "경향신문",
-        "kind": "article",
-        "event_key": "munhakdongne-kim-so-young-resignation-announcement-20261019",
-        "why": "문학동네 책을 읽는 독자가 익숙한 출판사의 창업주 지분과 경영진이 동시에 바뀌려는 상황을 독서 친구에게 설명할 수 있다.",
-        "angle": "‘창립자 지분41.5% 매각 추진’과 ‘김소영 대표10월 말 사임 계획’을 분리한 두 칸으로 만든다.",
-        "why_now": "문학동네가19일 직원들에게 대표 사임 계획을 알렸으며 임기 만료 전인 이번 달까지만 근무한다고 확인했다.",
-        "verified_at": 1792413379,
-        "published_at": 1792389900,
-        "evidence": [
-          {
-            "url": "https://www.khan.co.kr/article/202610191505001",
-            "note": "문학동네가19일 김소영 대표의 직원 대상 사임 계획 발표와 이달 말까지 근무한다는 내용을 확인했다."
-          },
-          {
-            "url": "https://www.khan.co.kr/article/202610191505001",
-            "note": "창립자 강병선의 지분41.5% 전량 매각은 추진 중이고 대표 사임의 구체적 이유는 공개되지 않았다는 본문을 읽었다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.khan.co.kr/article/202610191505001",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "매각 완료·인수자 확정으로 쓰지 않는다. 대표가 매각에 항의해 사임했다는 설명은 내부 추측이며 확인되지 않았다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-19",
-          "observation": "창립자 보유 지분 매각 추진이 진행되는 가운데 공동대표 중 김소영이 임기 만료 전 사임 계획을 공식적으로 알렸다.",
-          "checked_materials": [],
-          "outline": [
-            "친숙한 문학동네 이름과 ‘지분 매각 추진 / 대표 사임 계획’ 두 변화를 나눠 표시한다.",
-            "지분41.5%·이번 달까지 근무·공식 임기는내년 말이었다는 사실을 정리한다.",
-            "사임 이유 미공개·매각 미완료와 향후 이현자 단독대표 전망을 구분한다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://www.khan.co.kr/article/202610191505001"
-          }
-        ],
-        "excerpt": "",
-        "context": "문학동네가19일 직원들에게 대표 사임 계획을 알렸으며 임기 만료 전인 이번 달까지만 근무한다고 확인했다.",
-        "fetched_at": 1792413762,
-        "parser_revision": 7
-      },
-      "curation_event_key": "munhakdongne-kim-so-young-resignation-announcement-20261019"
-    },
-    "f1ff3febc4ad": {
-      "source": "SBS",
-      "title": "18년 만의 실종신고…그 전에 감사원 전수조사가 있었다",
-      "link": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008804036&plink=INTEREST",
-      "first_seen_at": 1792413762,
-      "last_seen_at": 1792413762,
-      "samples": [
-        {
-          "at": 1792413762,
-          "views": null,
-          "reactions": null,
-          "rank": 10,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "f1ff3febc4ad",
-      "editorial": {
-        "title": "18년 만의 실종신고…그 전에 감사원 전수조사가 있었다",
-        "category": "시사",
-        "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008804036&plink=INTEREST",
-        "source": "SBS",
-        "kind": "article",
-        "event_key": "seongnam-disabled-child-abandonment-delayed-report-disclosure-20261019",
-        "why": "보호자 신고만 기다려선 놓칠 수 있는 실종을 행정 조사로 뒤늦게 드러낸 사례라, 아동 보호와 공백을 가족·교사 사이에서 논의할 근거가 있다.",
-        "angle": "2008년 실종→2026년 장기 의료기록 공백 조사→18년 뒤 보호자 신고라는 순서를 먼저 보여준다.",
-        "why_now": "19일 보도에서 감사원의 의료기록 공백 전수조사 뒤 실종신고와 진술 번복이 드러난 수사 경위, 이달8일 송치 사실이 공개됐다.",
-        "verified_at": 1792412397,
-        "published_at": 1792385040,
-        "evidence": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008804036&plink=INTEREST",
-            "note": "2008년5월14일 지적장애가 있던6세 조용준 군을 보호자가 두고 갔으며 현재까지 찾지 못했다는 보도를 읽었다."
-          },
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008804036&plink=INTEREST",
-            "note": "감사원의 장기 진료기록 공백 전수조사 뒤 보호자가 실종신고했고, 허위 신고 관련 위계공무집행방해 혐의로10월8일 송치됐다는 경위를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008804036&plink=INTEREST",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "아이는 아직 발견되지 않았다.2008년 사건을 오늘 발생한 사건으로 쓰거나 송치를 유죄 확정으로 바꾸지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-08",
-          "observation": "감사원 전수조사로18년 전 아동 실종과 보호자의 뒤늦은 허위 신고 경위가 수사됐다.19일 상세 보도로 보호 공백이 드러났다.",
-          "checked_materials": [],
-          "outline": [
-            "2008년5월14일과2026년의18년 간격을 타임라인으로 제시한다.",
-            "감사원 전수조사→보호자의 실종신고→경찰의 진술 확인 순서를 설명한다.",
-            "10월8일 송치와 아동 미발견 상태를 구분하고 신원·현장 추측을 추가하지 않는다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008804036&plink=INTEREST"
-          }
-        ],
-        "excerpt": "",
-        "context": "19일 보도에서 감사원의 의료기록 공백 전수조사 뒤 실종신고와 진술 번복이 드러난 수사 경위, 이달8일 송치 사실이 공개됐다.",
-        "fetched_at": 1792413762,
-        "parser_revision": 7
-      },
-      "curation_event_key": "seongnam-disabled-child-abandonment-delayed-report-disclosure-20261019"
-    },
-    "cdf3b702da14": {
-      "source": "MBC",
-      "title": "‘계란 차액800억 세금’ 주장…정부가 법적 대응 검토한3건",
-      "link": "https://imnews.imbc.com/news/2026/econo/article/6859045_36932.html",
-      "first_seen_at": 1792413762,
-      "last_seen_at": 1792413762,
-      "samples": [
-        {
-          "at": 1792413762,
-          "views": null,
-          "reactions": null,
-          "rank": 11,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "cdf3b702da14",
-      "editorial": {
-        "title": "‘계란 차액800억 세금’ 주장…정부가 법적 대응 검토한3건",
-        "category": "시사",
-        "url": "https://imnews.imbc.com/news/2026/econo/article/6859045_36932.html",
-        "source": "MBC",
-        "kind": "article",
-        "event_key": "brazilian-egg-misinformation-mafra-legal-response-20261019",
-        "why": "계란 관련 영상을 가족에게 받았던 사람이 정부 반박과 고발 검토라는 실제 대응을 함께 보내며 사실 확인을 요청할 수 있다.",
-        "angle": "온라인의800억 주장을 ‘농식품부가 부인한 주장’으로 표시하고 다음 장에19일 대응 발표를 놓는다.",
-        "why_now": "농식품부가19일 악의성·심각성이 높은 게시물3건에 대한 고발 등 법적 절차 검토를 밝혔다.",
-        "verified_at": 1792413389,
-        "published_at": 1792395360,
-        "evidence": [
-          {
-            "url": "https://imnews.imbc.com/news/2026/econo/article/6859045_36932.html",
-            "note": "19일 농식품부가 브라질산 계란 수입 관련 허위 정보 확산에 대응하며 게시물3건의 고발 등 절차 추진을 검토한다는 내용을 읽었다."
-          },
-          {
-            "url": "https://imnews.imbc.com/news/2026/econo/article/6859045_36932.html",
-            "note": "수입·공급 차액800억 원을 세금으로 메웠다는 주장은 정부가 반박한 사례이며 검토는 실제 기소·유죄 판결과 다르다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://imnews.imbc.com/news/2026/econo/article/6859045_36932.html",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "정부 반박과 확정된 법원 판단을 구별한다.3건 전부가 계란 게시물이라는 뜻으로 쓰지 않고 미확인 영상을 재유포하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-19",
-          "observation": "식품 수입과 농지 조사 관련 온라인 게시물에 대해 정부가 법적 대응 검토를 새로 발표했다. 주장·정부 반박·절차 단계를 나눠 제작할 수 있다.",
-          "checked_materials": [],
-          "outline": [
-            "800억 원 주장에 ‘농식품부가 부인한 온라인 주장’ 표시를 붙인다.",
-            "19일 발표된 악의성·심각성 높은 게시물3건 대응 검토를 설명한다.",
-            "게시물 내용 확인과 고발 검토·기소·판결의 차이를 구분한다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://imnews.imbc.com/news/2026/econo/article/6859045_36932.html"
-          }
-        ],
-        "excerpt": "",
-        "context": "농식품부가19일 악의성·심각성이 높은 게시물3건에 대한 고발 등 법적 절차 검토를 밝혔다.",
-        "fetched_at": 1792413762,
-        "parser_revision": 7
-      },
-      "curation_event_key": "brazilian-egg-misinformation-mafra-legal-response-20261019"
     }
   },
-  "updated_at": 1793012800
+  "updated_at": 1793056064
 }
