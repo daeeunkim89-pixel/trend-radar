@@ -1,6 +1,822 @@
 {
   "version": 1,
   "items": {
+    "2ca7734acff9": {
+      "source": "연합뉴스",
+      "title": "숙소 이름·이용일·금액까지 유출…놀유니버스 고객정보 사과",
+      "link": "https://www.yna.co.kr/view/AKR20261026096800030",
+      "first_seen_at": 1792991595,
+      "last_seen_at": 1793002922,
+      "samples": [
+        {
+          "at": 1792991595,
+          "views": null,
+          "reactions": null,
+          "rank": 11,
+          "rank_kind": null
+        },
+        {
+          "at": 1793002922,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "2ca7734acff9",
+      "editorial": {
+        "title": "숙소 이름·이용일·금액까지 유출…놀유니버스 고객정보 사과",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261026096800030",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "nol-universe-interpark-domestic-booking-data-breach-disclosure-20261026",
+        "why": "숙소 예약한 친구에게 확인을 권할 생활 권리 소재. 연락처만이 아니라 어디에 언제 얼마에 묵는지까지 유출 항목에 들어갔다.",
+        "angle": "예약정보 유출에서 전화번호보다 민감한 여행 일정",
+        "why_now": "26일 구 인터파크투어 국내숙소 고객정보 유출을 새로 공지·사과했다.22일 직원정보 공지와 다른 고객 유출 사실을 구분한다.",
+        "verified_at": 1793002432,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261026096800030",
+            "note": "26일 공지 인용 본문 확인.2/15~9/8 구인터파크투어 국내숙소 예약 대상,이름·전화·이메일·상품명·금액·이용일 포함.항공·해외숙소·티켓·NOL 예약 제외."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261026096800030",
+            "label": "확인한 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "새 공개일26일, 최초 분 단위 시각 미확인. 본문 확인이며 영상 시청을 주장하지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-26",
+          "observation": "26일 공지 인용 본문 확인.2/15~9/8 구인터파크투어 국내숙소 예약 대상,이름·전화·이메일·상품명·금액·이용일 포함.항공·해외숙소·티켓·NOL 예약 제외.",
+          "checked_materials": [],
+          "outline": [
+            "2/15~9/8 구인터파크 국내숙소 예약이라는 대상 범위",
+            "상품명·금액·이용일까지 포함된 항목",
+            "항공·티켓·NOL 예약은 이번 대상 제외,의심 링크 주의"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 본문",
+            "url": "https://www.yna.co.kr/view/AKR20261026096800030"
+          }
+        ],
+        "excerpt": "",
+        "context": "26일 구 인터파크투어 국내숙소 고객정보 유출을 새로 공지·사과했다.22일 직원정보 공지와 다른 고객 유출 사실을 구분한다.",
+        "fetched_at": 1793002922,
+        "parser_revision": 7
+      },
+      "curation_event_key": "nol-universe-interpark-domestic-booking-data-breach-disclosure-20261026"
+    },
+    "ae066291f5a4": {
+      "source": "보배드림 당사자 원문",
+      "title": "신호대기 차를 뒤에서 박았는데…다음날 온 건 “청심환 드세요”",
+      "link": "https://www.bobaedream.co.kr/view?code=best&No=1042535",
+      "first_seen_at": 1793002922,
+      "last_seen_at": 1793002922,
+      "samples": [
+        {
+          "at": 1793002922,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "community",
+      "story_id": "ae066291f5a4",
+      "editorial": {
+        "title": "신호대기 차를 뒤에서 박았는데…다음날 온 건 “청심환 드세요”",
+        "category": "시사",
+        "url": "https://www.bobaedream.co.kr/view?code=best&No=1042535",
+        "source": "보배드림 당사자 원문",
+        "kind": "community",
+        "event_key": "rear-end-collision-driver-reassuring-text-bobaedream-20261025",
+        "why": "운전하는 친구에게 보낼 예상 밖의 대응. 보험료 걱정하며 사과한 가해 차주에게 피해 차주가 몸·차 이상 없으니 안전운전하라고 답했다.",
+        "angle": "사고 냈던 운전자가 오히려 위로받은 문자",
+        "why_now": "25일08:45 당사자가 올린 원문·문자 이미지를 확인.24일 사고와25일 답장을 구분한 미발송 사연이다.",
+        "verified_at": 1793002768,
+        "published_at": 1792885500,
+        "evidence": [
+          {
+            "url": "https://www.bobaedream.co.kr/view?code=best&No=1042535",
+            "note": "당사자 글과 첨부 문자 실제 확인.24일 사과 메시지 뒤25일08:25 차·몸 이상 없고 청심환 먹고 안전운전하라는 답장. 사고 사실은 작성자 설명이며 독립 수사 확인은 아님."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.bobaedream.co.kr/view?code=best&No=1042535",
+            "label": "확인한 본문",
+            "kind": "source"
+          },
+          {
+            "url": "https://file1.bobaedream.co.kr/bbs/freeb/2026/10/25/08/love1792885503_980968788.jpg",
+            "label": "사과와 답장 원본 캡처",
+            "kind": "image"
+          }
+        ],
+        "caution": "사고24일·답장/원문25일08:45 공개. 당사자 경험담과 실제 첨부 문자로 한정; 사고 조사·보험 종결까지 확인한 것은 아님.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-25",
+          "observation": "당사자 글과 첨부 문자 실제 확인.24일 사과 메시지 뒤25일08:25 차·몸 이상 없고 청심환 먹고 안전운전하라는 답장. 사고 사실은 작성자 설명이며 독립 수사 확인은 아님.",
+          "checked_materials": [
+            "https://file1.bobaedream.co.kr/bbs/freeb/2026/10/25/08/love1792885503_980968788.jpg"
+          ],
+          "outline": [
+            "24일 추돌 후 죄송하다며 보험 처리 협조하겠다는 긴 문자",
+            "25일 아침 상대가 보낸 “차도 이상없고 몸도 괜찮은거같네요”",
+            "“청심환먹고 안전운전 하세요”로 예상과 다른 마무리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [
+          {
+            "url": "https://file1.bobaedream.co.kr/bbs/freeb/2026/10/25/08/love1792885503_980968788.jpg",
+            "label": "사과와 답장 원본 캡처",
+            "kind": "image"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "확인한 본문",
+            "url": "https://www.bobaedream.co.kr/view?code=best&No=1042535"
+          },
+          {
+            "label": "사과와 답장 원본 캡처",
+            "url": "https://file1.bobaedream.co.kr/bbs/freeb/2026/10/25/08/love1792885503_980968788.jpg"
+          }
+        ],
+        "excerpt": "",
+        "context": "25일08:45 당사자가 올린 원문·문자 이미지를 확인.24일 사고와25일 답장을 구분한 미발송 사연이다.",
+        "fetched_at": 1793002922,
+        "parser_revision": 7
+      },
+      "curation_event_key": "rear-end-collision-driver-reassuring-text-bobaedream-20261025"
+    },
+    "c7cc9d91fc9d": {
+      "source": "스포츠조선 현장 취재",
+      "title": "최형우 “나를 빼는 게 맞다”…감독은 “수비 절대 놓지 마”",
+      "link": "https://www.sportschosun.com/baseball/2026-10-26/202610260100163620010671",
+      "first_seen_at": 1793002922,
+      "last_seen_at": 1793002922,
+      "samples": [
+        {
+          "at": 1793002922,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "c7cc9d91fc9d",
+      "editorial": {
+        "title": "최형우 “나를 빼는 게 맞다”…감독은 “수비 절대 놓지 마”",
+        "category": "메이저 스포츠",
+        "url": "https://www.sportschosun.com/baseball/2026-10-26/202610260100163620010671",
+        "source": "스포츠조선 현장 취재",
+        "kind": "article",
+        "event_key": "choi-hyung-woo-park-jin-man-defense-lineup-exchange-20261026",
+        "why": "야구팬끼리 보낼 베테랑과 감독의 밀당. 구자욱의 지명타자 복귀로 자리가 겹치자 본인은 백업을 택하고 감독은 수비 준비를 주문했다.",
+        "angle": "수비는 내 영역 아니라는 선수 vs 언제 나갈지 모른다는 감독",
+        "why_now": "25일 선수 발언에 이어26일 PO현장에서 감독이 오늘도 수비 준비를 얘기했다고 직접 답했다. 일반 라인업 발표보다 두 사람의 대응 차이를 다룬다.",
+        "verified_at": 1793002367,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.sportschosun.com/baseball/2026-10-26/202610260100163620010671",
+            "note": "26일 현장 취재 본문 확인.최형우25일 “나를 뺀 라인업이 맞다·수비는 내 영역 아니다”, 박진만26일 “언제 수비 나갈지 모른다·절대 내려놓지 말라”고 답변."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.sportschosun.com/baseball/2026-10-26/202610260100163620010671",
+            "label": "확인한 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "새 공개일26일, 최초 분 단위 시각 미확인. 본문 확인이며 영상 시청을 주장하지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-26",
+          "observation": "26일 현장 취재 본문 확인.최형우25일 “나를 뺀 라인업이 맞다·수비는 내 영역 아니다”, 박진만26일 “언제 수비 나갈지 모른다·절대 내려놓지 말라”고 답변.",
+          "checked_materials": [],
+          "outline": [
+            "구자욱 지명타자 복귀로 최형우가 백업이 된 사정",
+            "최형우의 “나를 뺀 라인업이 맞다”25일 발언",
+            "26일 감독의 “언제든 수비 나갈 수 있다” 답변"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 본문",
+            "url": "https://www.sportschosun.com/baseball/2026-10-26/202610260100163620010671"
+          }
+        ],
+        "excerpt": "",
+        "context": "25일 선수 발언에 이어26일 PO현장에서 감독이 오늘도 수비 준비를 얘기했다고 직접 답했다. 일반 라인업 발표보다 두 사람의 대응 차이를 다룬다.",
+        "fetched_at": 1793002922,
+        "parser_revision": 7
+      },
+      "curation_event_key": "choi-hyung-woo-park-jin-man-defense-lineup-exchange-20261026"
+    },
+    "318f8f089dc4": {
+      "source": "聯合報 현지 취재",
+      "title": "차 안 전기조리도 안 됐다…이다혜 차박에 대만 당국 위반 판단",
+      "link": "https://udn.com/news/story/7266/9836525",
+      "first_seen_at": 1793002922,
+      "last_seen_at": 1793002922,
+      "samples": [
+        {
+          "at": 1793002922,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "318f8f089dc4",
+      "editorial": {
+        "title": "차 안 전기조리도 안 됐다…이다혜 차박에 대만 당국 위반 판단",
+        "category": "시사",
+        "url": "https://udn.com/news/story/7266/9836525",
+        "source": "聯合報 현지 취재",
+        "kind": "article",
+        "event_key": "lee-da-hye-wuling-national-park-cooking-climbing-enforcement-20261025",
+        "why": "차박·여행 친구에게 보낼 허용구역의 함정. 불을 안 쓰고 차 안에서 조리해도 지정 취사구역 밖이면 안 된다는 당국 답변이 구체적이다.",
+        "angle": "“차 안·전기제품이면 괜찮다”가 통하지 않은 주차장",
+        "why_now": "25일 공원관리처가 영상 검토 후 규정 위반과 제재 방침을 밝혔다.24일 영상·4일 촬영과 새 당국 답변을 구분한다.",
+        "verified_at": 1793002500,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://udn.com/news/story/7266/9836525",
+            "note": "UDN 현지 취재 본문 확인.촬영10/4,영상10/24,당국 답변10/25. 비개방 산길/암벽과 비지정 주차장 취사 문제. 현장 취사 중단 권고에 따랐고 최고3000대만달러 가능."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://udn.com/news/story/7266/9836525",
+            "label": "확인한 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "영상 전체 미시청. 새 사실은25일 당국 판단이며 촬영은4일. 최대 과태료를 실제 부과액으로 단정하지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-25",
+          "observation": "UDN 현지 취재 본문 확인.촬영10/4,영상10/24,당국 답변10/25. 비개방 산길/암벽과 비지정 주차장 취사 문제. 현장 취사 중단 권고에 따랐고 최고3000대만달러 가능.",
+          "checked_materials": [],
+          "outline": [
+            "10/4촬영→10/24영상→10/25당국 답변 시간표",
+            "차 안 전기조리라도 비지정 취사구역은 금지라는 설명",
+            "현장 중단 권고 이행·최대 과태료와 실제 부과 확정을 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 본문",
+            "url": "https://udn.com/news/story/7266/9836525"
+          }
+        ],
+        "excerpt": "",
+        "context": "25일 공원관리처가 영상 검토 후 규정 위반과 제재 방침을 밝혔다.24일 영상·4일 촬영과 새 당국 답변을 구분한다.",
+        "fetched_at": 1793002922,
+        "parser_revision": 7
+      },
+      "curation_event_key": "lee-da-hye-wuling-national-park-cooking-climbing-enforcement-20261025"
+    },
+    "19d340a2f523": {
+      "source": "뉴시스",
+      "title": "400만원 원금 갚았는데…장동주 “연이율3911% 요구·협박” 고소",
+      "link": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261025_0003840233",
+      "first_seen_at": 1793002922,
+      "last_seen_at": 1793002922,
+      "samples": [
+        {
+          "at": 1793002922,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "19d340a2f523",
+      "editorial": {
+        "title": "400만원 원금 갚았는데…장동주 “연이율3911% 요구·협박” 고소",
+        "category": "시사",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261025_0003840233",
+        "source": "뉴시스",
+        "kind": "article",
+        "event_key": "jang-dong-joo-illegal-debt-collection-3911percent-disclosure-20261025",
+        "why": "돈 빌리는 지인에게 보낼 원금 상환 뒤의 반전. 며칠 늦었다며 연체비를 더 요구하고 가족·직장에 연락하겠다는 메시지를 받았다는 당사자 주장이다.",
+        "angle": "원금은 갚았는데 추심은 끝나지 않았다는 고소",
+        "why_now": "25일 공개된 고소·직접 진술 내용이다.9월3일 고소일과25일 공개일, 본인이 계산한 연이율과 확정 법적 판단을 분리한다.",
+        "verified_at": 1793002480,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261025_0003840233",
+            "note": "뉴시스25일 본문 확인.8월400만원 차입·같은달 원금 상환 후 추가 요구와 협박 주장,9/3고소.3911%는 요구받은 상환금으로 계산했다는 장동주 측 주장이다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261025_0003840233",
+            "label": "확인한 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "고소9/3·내용 공개10/25. 이율·협박은 당사자 주장, 범죄 확정 아님. 최초 공개 분 단위 미확인.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-25",
+          "observation": "뉴시스25일 본문 확인.8월400만원 차입·같은달 원금 상환 후 추가 요구와 협박 주장,9/3고소.3911%는 요구받은 상환금으로 계산했다는 장동주 측 주장이다.",
+          "checked_materials": [],
+          "outline": [
+            "400만원을 빌린 뒤 같은달 원금을 상환했다는 설명",
+            "연체비 요구와 “어머니 집·직장” 협박 주장",
+            "9월 고소의25일 공개:3911%는 당사자 산정이며 유죄 미확정"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 본문",
+            "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261025_0003840233"
+          }
+        ],
+        "excerpt": "",
+        "context": "25일 공개된 고소·직접 진술 내용이다.9월3일 고소일과25일 공개일, 본인이 계산한 연이율과 확정 법적 판단을 분리한다.",
+        "fetched_at": 1793002922,
+        "parser_revision": 7
+      },
+      "curation_event_key": "jang-dong-joo-illegal-debt-collection-3911percent-disclosure-20261025"
+    },
+    "bcc9d22d2db4": {
+      "source": "연합뉴스",
+      "title": "보관 한도400만원인데 받은 돈21.9억…영치금 기간별 제한 검토",
+      "link": "https://www.yna.co.kr/view/AKR20261026145000004",
+      "first_seen_at": 1793002922,
+      "last_seen_at": 1793002922,
+      "samples": [
+        {
+          "at": 1793002922,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "bcc9d22d2db4",
+      "editorial": {
+        "title": "보관 한도400만원인데 받은 돈21.9억…영치금 기간별 제한 검토",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261026145000004",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "yoon-couple-custody-deposit-period-limit-justice-response-20261026",
+        "why": "제도와 돈에 관심 있는 친구에게 보낼 숫자의 모순. 보관 한도400만원 밖의 돈은 개인예탁금으로 가는 구조에 법무장관 대행이 개선 필요성을 인정했다.",
+        "angle": "400만원 한도가 막지 못한 수십억원 입금",
+        "why_now": "26일 법사위 종합국감에서 장관 대행이 기간별 수령 한도를 정하는 대안을 답했다. 입금 총액 소개만 반복하지 않고 새 제도 대응을 다룬다.",
+        "verified_at": 1793002370,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261026145000004",
+            "note": "국감 질의·답변 본문 확인.윤석열19.5억·김건희2.4억 합계21.9억 집계,400만원 초과분 개인예탁금 송금 구조. 직무대행은 기간별 한도 입법 지원 입장."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261026145000004",
+            "label": "확인한 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "새 공개일26일, 최초 분 단위 시각 미확인. 본문 확인이며 영상 시청을 주장하지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-26",
+          "observation": "국감 질의·답변 본문 확인.윤석열19.5억·김건희2.4억 합계21.9억 집계,400만원 초과분 개인예탁금 송금 구조. 직무대행은 기간별 한도 입법 지원 입장.",
+          "checked_materials": [],
+          "outline": [
+            "영치금 합계21.9억원 vs 교정시설 보관400만원",
+            "초과분은 개인예탁금으로 송금되는 구조",
+            "기간별 수령 한도 입법 지원 답변:개정 완료는 아님"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 본문",
+            "url": "https://www.yna.co.kr/view/AKR20261026145000004"
+          }
+        ],
+        "excerpt": "",
+        "context": "26일 법사위 종합국감에서 장관 대행이 기간별 수령 한도를 정하는 대안을 답했다. 입금 총액 소개만 반복하지 않고 새 제도 대응을 다룬다.",
+        "fetched_at": 1793002922,
+        "parser_revision": 7
+      },
+      "curation_event_key": "yoon-couple-custody-deposit-period-limit-justice-response-20261026"
+    },
+    "2ec130c40ee5": {
+      "source": "연합뉴스",
+      "title": "27년 기다려 조례 바뀌었는데…구청이 둘로 나뉘며 보상 또 지연",
+      "link": "https://www.yna.co.kr/view/AKR20261026069251065",
+      "first_seen_at": 1793002922,
+      "last_seen_at": 1793002922,
+      "samples": [
+        {
+          "at": 1793002922,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "2ec130c40ee5",
+      "editorial": {
+        "title": "27년 기다려 조례 바뀌었는데…구청이 둘로 나뉘며 보상 또 지연",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261026069251065",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "inhyeon-fire-victim-compensation-district-split-vigil-20261026",
+        "why": "행정 책임과 생활 권리를 얘기하는 사람에게 보낼 구조적 모순. 알바생이라는 이유로 빠졌던 보상을 열었더니 분구 뒤 누가 부담할지 다투고 있다.",
+        "angle": "보상 문턱을 넘었는데 행정구역이 갈라졌다",
+        "why_now": "26일 유족이 노숙농성에 들어가자 제물포구가 연내 심의 착수를 약속한 새 대응이다.1999년 참사 자체를 신규 사고로 다루지 않는다.",
+        "verified_at": 1793002369,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261026069251065",
+            "note": "26일 기자회견·구청 답변 본문 확인.3월조례개정→7월분구 후 분담갈등→26일노숙농성.구청은 연내 심의 착수 약속,실제 지급 완료 아님."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261026069251065",
+            "label": "확인한 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "새 공개일26일, 최초 분 단위 시각 미확인. 본문 확인이며 영상 시청을 주장하지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-26",
+          "observation": "26일 기자회견·구청 답변 본문 확인.3월조례개정→7월분구 후 분담갈등→26일노숙농성.구청은 연내 심의 착수 약속,실제 지급 완료 아님.",
+          "checked_materials": [],
+          "outline": [
+            "아르바이트 종업원이라 보상에서 빠졌던17세 희생자",
+            "3월조례개정으로 근거 마련했지만7월분구 후 분담갈등",
+            "26일 농성과 연내 심의 착수 약속,보상 지급과 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 본문",
+            "url": "https://www.yna.co.kr/view/AKR20261026069251065"
+          }
+        ],
+        "excerpt": "",
+        "context": "26일 유족이 노숙농성에 들어가자 제물포구가 연내 심의 착수를 약속한 새 대응이다.1999년 참사 자체를 신규 사고로 다루지 않는다.",
+        "fetched_at": 1793002922,
+        "parser_revision": 7
+      },
+      "curation_event_key": "inhyeon-fire-victim-compensation-district-split-vigil-20261026"
+    },
+    "8c34bbbc8b69": {
+      "source": "연합뉴스",
+      "title": "김수현 측 “김새론 모친·이모 사칭 인물 등 송치”…부친은 불송치",
+      "link": "https://www.yna.co.kr/view/AKR20261026091500005",
+      "first_seen_at": 1793002922,
+      "last_seen_at": 1793002922,
+      "samples": [
+        {
+          "at": 1793002922,
+          "views": null,
+          "reactions": null,
+          "rank": 8,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "8c34bbbc8b69",
+      "editorial": {
+        "title": "김수현 측 “김새론 모친·이모 사칭 인물 등 송치”…부친은 불송치",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261026091500005",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "kim-soo-hyun-agency-announces-defamation-case-referrals-20261026",
+        "why": "이 사건을 지켜본 지인에게 보낼 수사 단계의 새 구분. 여러 인물이 송치됐다는 소속사 발표와 부친 불송치라는 서로 다른 결과를 함께 제시한다.",
+        "angle": "송치 발표를 유죄 확정과 섞지 않고 대상별로 나누기",
+        "why_now": "26일 소속사가 공식 입장에서 수사 처리 결과를 공개했다.과거 사생활 주장 재유포가 아니라 이번 발표의 범위·한계를 다룬다.",
+        "verified_at": 1793002368,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261026091500005",
+            "note": "골드메달리스트26일 입장을 인용한 본문 확인.모친·이모 사칭 인물·변호사·유튜버 송치 및 부친 불송치 주장.경찰 원문·유죄 판결은 독립 확인하지 못함."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261026091500005",
+            "label": "확인한 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "확인 사실은26일 공식 발표 내용. 송치 여부는 소속사 설명을 인용하며 독립 경찰 문서·유죄 확정으로 쓰지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-26",
+          "observation": "골드메달리스트26일 입장을 인용한 본문 확인.모친·이모 사칭 인물·변호사·유튜버 송치 및 부친 불송치 주장.경찰 원문·유죄 판결은 독립 확인하지 못함.",
+          "checked_materials": [],
+          "outline": [
+            "26일 소속사의 송치 발표라는 출처를 제목부터 명시",
+            "송치 대상과 부친 불송치를 구분",
+            "혐의별 수사 단계이며 유죄 확정 아니라는 한계"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 본문",
+            "url": "https://www.yna.co.kr/view/AKR20261026091500005"
+          }
+        ],
+        "excerpt": "",
+        "context": "26일 소속사가 공식 입장에서 수사 처리 결과를 공개했다.과거 사생활 주장 재유포가 아니라 이번 발표의 범위·한계를 다룬다.",
+        "fetched_at": 1793002922,
+        "parser_revision": 7
+      },
+      "curation_event_key": "kim-soo-hyun-agency-announces-defamation-case-referrals-20261026"
+    },
+    "afc3626eac3f": {
+      "source": "연합뉴스",
+      "title": "“한동훈 딸 수사무마 진상규명?”…중수청장 “필요” 답변",
+      "link": "https://www.yna.co.kr/view/AKR20261026085000004",
+      "first_seen_at": 1793002922,
+      "last_seen_at": 1793002922,
+      "samples": [
+        {
+          "at": 1793002922,
+          "views": null,
+          "reactions": null,
+          "rank": 9,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "afc3626eac3f",
+      "editorial": {
+        "title": "“한동훈 딸 수사무마 진상규명?”…중수청장 “필요” 답변",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261026085000004",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "kim-ji-yong-han-daughter-investigation-hearing-response-20261026",
+        "why": "정치·수사 형평성을 얘기하는 친구에게 보낼 실제 문답. 1년 안 논문9편 의문에 새 수사기관장이 고발장 검토 중이라고 답한 국감 현장이다.",
+        "angle": "의혹 재탕보다 새 기관장의 공개 답변에 초점",
+        "why_now": "26일 국감에서 진상규명 동의·일부 은폐처럼 보이는 부분·고발장 검토 답변이 나왔다.의혹이 입증되거나 기소된 것은 아니다.",
+        "verified_at": 1793002432,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261026085000004",
+            "note": "정춘생 의원의 수사 무마 진상규명 질문에 김지용청장이 동의.일부 그렇게 보이는 부분이 있다고 답하고 고발장 접수·검토 중이라고 설명한 본문 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261026085000004",
+            "label": "확인한 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "정치인 의혹과 기관장 답변의 구분. 수사무마·허위스펙이 확인된 사실로 단정하지 않음.최초 분 단위 공개시각 미확인.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-26",
+          "observation": "정춘생 의원의 수사 무마 진상규명 질문에 김지용청장이 동의.일부 그렇게 보이는 부분이 있다고 답하고 고발장 접수·검토 중이라고 설명한 본문 확인.",
+          "checked_materials": [],
+          "outline": [
+            "진상규명 필요 여부를 묻는26일 국감 질문",
+            "청장의 동의·일부 그렇게 보인다는 한정 답변",
+            "고발장 검토 단계,허위스펙·수사은폐 확정과 분리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 본문",
+            "url": "https://www.yna.co.kr/view/AKR20261026085000004"
+          }
+        ],
+        "excerpt": "",
+        "context": "26일 국감에서 진상규명 동의·일부 은폐처럼 보이는 부분·고발장 검토 답변이 나왔다.의혹이 입증되거나 기소된 것은 아니다.",
+        "fetched_at": 1793002922,
+        "parser_revision": 7
+      },
+      "curation_event_key": "kim-ji-yong-han-daughter-investigation-hearing-response-20261026"
+    },
+    "e489b1db0102": {
+      "source": "연합뉴스",
+      "title": "“퇴마 안 하면 가족에게 화”…합의 주장 기각한 징역5년 판결",
+      "link": "https://www.yna.co.kr/view/AKR20261026086300051",
+      "first_seen_at": 1793002922,
+      "last_seen_at": 1793002922,
+      "samples": [
+        {
+          "at": 1793002922,
+          "views": null,
+          "reactions": null,
+          "rank": 10,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "e489b1db0102",
+      "editorial": {
+        "title": "“퇴마 안 하면 가족에게 화”…합의 주장 기각한 징역5년 판결",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261026086300051",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "busan-shaman-exorcism-coercion-sexual-assault-verdict-20261026",
+        "why": "종교적 권위가 협박으로 바뀐 실제 사건. 가족에게 나쁜 일이 생긴다고 겁줬다는 판단과 합의된 관계라는 피고인 주장을 법원이 어떻게 구분했는지가 핵심이다.",
+        "angle": "퇴마 명분의 협박,법원은 합의 주장을 받아들이지 않았다",
+        "why_now": "26일 법원이 새 선고 내용을 공개.2024년 범행 장면을 신규처럼 다루지 않고 강압 판단과 징역5년의 이유를 다룬다.",
+        "verified_at": 1793002432,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261026086300051",
+            "note": "26일 부산지법동부지원 선고 공개 본문 확인.피고인은 일부 합의 관계 주장,재판부는 신앙 의존·위력·협박을 이용한 범행으로 공소사실 모두 인정.징역5년·취업제한5년."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261026086300051",
+            "label": "확인한 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "새 공개일26일, 최초 분 단위 시각 미확인. 본문 확인이며 영상 시청을 주장하지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-26",
+          "observation": "26일 부산지법동부지원 선고 공개 본문 확인.피고인은 일부 합의 관계 주장,재판부는 신앙 의존·위력·협박을 이용한 범행으로 공소사실 모두 인정.징역5년·취업제한5년.",
+          "checked_materials": [],
+          "outline": [
+            "퇴마를 거절하면 자신·가족에게 화가 온다는 협박 명분",
+            "합의 관계라는 피고인 주장과 법원의 판단 구분",
+            "징역5년·취업제한5년,피해자 특정·선정적 재현 제외"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 본문",
+            "url": "https://www.yna.co.kr/view/AKR20261026086300051"
+          }
+        ],
+        "excerpt": "",
+        "context": "26일 법원이 새 선고 내용을 공개.2024년 범행 장면을 신규처럼 다루지 않고 강압 판단과 징역5년의 이유를 다룬다.",
+        "fetched_at": 1793002922,
+        "parser_revision": 7
+      },
+      "curation_event_key": "busan-shaman-exorcism-coercion-sexual-assault-verdict-20261026"
+    },
+    "2c0e47a83afe": {
+      "source": "연합뉴스",
+      "title": "귀가 조치30분 뒤 강남대로 한복판…아침8시 경찰 다시 출동",
+      "link": "https://www.yna.co.kr/view/AKR20261026142800004",
+      "first_seen_at": 1793002922,
+      "last_seen_at": 1793002922,
+      "samples": [
+        {
+          "at": 1793002922,
+          "views": null,
+          "reactions": null,
+          "rank": 11,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "2c0e47a83afe",
+      "editorial": {
+        "title": "귀가 조치30분 뒤 강남대로 한복판…아침8시 경찰 다시 출동",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261026142800004",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "gangnam-road-intoxicated-woman-second-police-protection-20261026",
+        "why": "출근길 지인에게 보낼 돌발 사건.7시40분 다툼 신고로 귀가 조치됐다가8시13분 도로 신고로 다시 경찰이 나왔다.",
+        "angle": "같은 아침 두 번 출동한 경찰",
+        "why_now": "26일 아침 발생,26일 경찰 취재로 경위를 공개.사생활 추측·실연 단정 대신 확인된 두 차례 보호조치에 한정한다.",
+        "verified_at": 1793002368,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261026142800004",
+            "note": "7:40지인 다툼 신고 뒤 귀가조치,8:13강남대로 활보 신고·경찰3명5분여 뒤 인도 이동,지구대 보호 후 귀가.범죄 혐의점 없고 차량방해 없었다는 목격자 설명."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261026142800004",
+            "label": "확인한 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "새 공개일26일, 최초 분 단위 시각 미확인. 본문 확인이며 영상 시청을 주장하지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-26",
+          "observation": "7:40지인 다툼 신고 뒤 귀가조치,8:13강남대로 활보 신고·경찰3명5분여 뒤 인도 이동,지구대 보호 후 귀가.범죄 혐의점 없고 차량방해 없었다는 목격자 설명.",
+          "checked_materials": [],
+          "outline": [
+            "7:40다툼 신고 후 귀가 조치",
+            "8:13강남대로 신고로3명 출동·인도 이동",
+            "범죄 혐의점 없음,차량방해 단정·사생활 추측 금지"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 본문",
+            "url": "https://www.yna.co.kr/view/AKR20261026142800004"
+          }
+        ],
+        "excerpt": "",
+        "context": "26일 아침 발생,26일 경찰 취재로 경위를 공개.사생활 추측·실연 단정 대신 확인된 두 차례 보호조치에 한정한다.",
+        "fetched_at": 1793002922,
+        "parser_revision": 7
+      },
+      "curation_event_key": "gangnam-road-intoxicated-woman-second-police-protection-20261026"
+    },
     "b8f393ce35c4": {
       "source": "연합뉴스",
       "title": "AI로 820만 건 털었다…비전공자지만 모의해킹 경력 있었다",
@@ -766,78 +1582,6 @@
         "parser_revision": 7
       },
       "curation_event_key": "sejong-fake-warrant-phishing-31eok-arrests-20261026"
-    },
-    "2ca7734acff9": {
-      "source": "연합뉴스",
-      "title": "숙소 예약자·이용일·금액까지…놀유니버스 고객정보 유출 사과",
-      "link": "https://www.yna.co.kr/view/AKR20261026096800030",
-      "first_seen_at": 1792991595,
-      "last_seen_at": 1792991595,
-      "samples": [
-        {
-          "at": 1792991595,
-          "views": null,
-          "reactions": null,
-          "rank": 11,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "2ca7734acff9",
-      "editorial": {
-        "title": "숙소 예약자·이용일·금액까지…놀유니버스 고객정보 유출 사과",
-        "category": "시사",
-        "url": "https://www.yna.co.kr/view/AKR20261026096800030",
-        "source": "연합뉴스",
-        "kind": "article",
-        "event_key": "nol-universe-interpark-domestic-booking-data-breach-disclosure-20261026",
-        "why": "숙소 예약한 친구에게 확인을 권할 실생활 권리 손해. 이름·연락처뿐 아니라 어디에 언제 얼마에 묵는지 정보까지 포함됐다.",
-        "angle": "여행 예약정보 유출에서 전화번호보다 민감한 항목들",
-        "why_now": "26일 구 인터파크투어 국내숙소 예약고객 정보 유출을 공개·사과했다.22일 별도 직원정보 유출 공지와 분리해 확인했다.",
-        "verified_at": 1792991159,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261026096800030",
-            "note": "2/15~9/8 국내숙소 이용고객 대상이라고 공지 인용. 항목은 회원ID·예약자·이용자·전화·이메일·상품명·금액·이용일. 항공·해외숙소·티켓·NOL 예약은 제외."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261026096800030",
-            "label": "확인한 기사 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "26일 새 공개 사실. 최초 분 단위 시각은 미확인. 기사 본문을 확인했으며 영상 시청으로 간주하지 않음.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-26",
-          "observation": "2/15~9/8 국내숙소 이용고객 대상이라고 공지 인용. 항목은 회원ID·예약자·이용자·전화·이메일·상품명·금액·이용일. 항공·해외숙소·티켓·NOL 예약은 제외.",
-          "checked_materials": [],
-          "outline": [
-            "구 인터파크투어 국내숙소2/15~9/8 예약 대상 범위",
-            "이름·전화뿐 아니라 숙소 상품명·금액·이용일도 유출",
-            "항공·티켓·NOL 예약은 이번 대상 제외, 낯선 링크 주의"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 기사 본문",
-            "url": "https://www.yna.co.kr/view/AKR20261026096800030"
-          }
-        ],
-        "excerpt": "",
-        "context": "26일 구 인터파크투어 국내숙소 예약고객 정보 유출을 공개·사과했다.22일 별도 직원정보 유출 공지와 분리해 확인했다.",
-        "fetched_at": 1792991595,
-        "parser_revision": 7
-      },
-      "curation_event_key": "nol-universe-interpark-domestic-booking-data-breach-disclosure-20261026"
     },
     "7940d8fd8397": {
       "source": "연합뉴스",
@@ -24038,752 +24782,7 @@
         "parser_revision": 7
       },
       "curation_event_key": "jeju-flight-diversion-airline-compensation-responses-disclosure-20261019"
-    },
-    "e9703140f948": {
-      "source": "의학신문 현장 취재",
-      "title": "의사는 서울, 수술대는 상하이…870km 떨어져 진행한 동물 수술",
-      "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3014156",
-      "first_seen_at": 1792388105,
-      "last_seen_at": 1792388105,
-      "samples": [
-        {
-          "at": 1792388105,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "e9703140f948",
-      "editorial": {
-        "title": "의사는 서울, 수술대는 상하이…870km 떨어져 진행한 동물 수술",
-        "category": "시사",
-        "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014156",
-        "source": "의학신문 현장 취재",
-        "kind": "article",
-        "event_key": "kang-seok-ho-seoul-shanghai-870km-animal-remote-surgery-disclosure-20261019",
-        "why": "국경을 사이에 두고 의사의 손과 수술 기구가 연결되는 모습을 실제 사진으로 보여줘, 멀리 있는 의사에게 수술받는 미래를 친구에게 설명할 수 있다.",
-        "angle": "서울에서 조작하는 의사와 상하이 수술 화면을 첫 장에 나누고 870km와 동물 실증임을 함께 적는다.",
-        "why_now": "16일 코엑스 시연을 19일 현장 취재로 공개했다. 임상 진료용 로봇을 썼지만 사람을 수술한 사례는 아니다.",
-        "verified_at": 1792387843,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014156",
-            "note": "강석호 회장이 16일 서울에서 투마이 로봇으로 상하이 돼지 모델의 방광 일부를 절제·봉합한 시연이다. 사람 적용 전 전임상이며 책임·비용·보안이 과제로 제시됐다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://cdn.bosa.co.kr/news/photo/202610/3014156_415088_1123.jpg",
-            "label": "서울 조작·상하이 수술 사진",
-            "kind": "image"
-          },
-          {
-            "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014156",
-            "label": "현장 취재와 설명",
-            "kind": "source"
-          }
-        ],
-        "caution": "세계 최초 원격수술이나 사람 환자 수술이 아니다. 일반 환자가 현재 이용 가능한 진료 서비스라고 쓰지 않는다.",
-        "readiness": {
-          "mode": "scene",
-          "event_date": "2026-10-16",
-          "observation": "취재 사진에서 서울 콘솔에 앉아 조작하는 강석호와 상하이 의료진 연결 화면, 동물 조직에 닿은 수술 기구 화면을 확인했다. 현장 취재가 두 장소와 870km를 설명한다.",
-          "checked_materials": [
-            "https://cdn.bosa.co.kr/news/photo/202610/3014156_415088_1123.jpg"
-          ],
-          "outline": [
-            "실제 조작 사진과 수술 화면 분할: 서울 ↔ 상하이, 870km",
-            "16일 돼지 모델 부분방광절제·봉합 실증의 범위",
-            "사람 진료까지 남은 책임·현지 대응·보안 과제"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [
-          {
-            "url": "https://cdn.bosa.co.kr/news/photo/202610/3014156_415088_1123.jpg",
-            "label": "서울 조작·상하이 수술 사진",
-            "kind": "image"
-          }
-        ],
-        "source_links": [
-          {
-            "label": "서울 조작·상하이 수술 사진",
-            "url": "https://cdn.bosa.co.kr/news/photo/202610/3014156_415088_1123.jpg"
-          },
-          {
-            "label": "현장 취재와 설명",
-            "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014156"
-          }
-        ],
-        "excerpt": "",
-        "context": "16일 코엑스 시연을 19일 현장 취재로 공개했다. 임상 진료용 로봇을 썼지만 사람을 수술한 사례는 아니다.",
-        "fetched_at": 1792388105,
-        "parser_revision": 7
-      },
-      "curation_event_key": "kang-seok-ho-seoul-shanghai-870km-animal-remote-surgery-disclosure-20261019"
-    },
-    "03abef214d18": {
-      "source": "연합뉴스",
-      "title": "JMS 정명석, 확정 17년과 별개로 1심 33년…추가 피해자 16명 사건",
-      "link": "https://www.yna.co.kr/view/AKR20261019085552063",
-      "first_seen_at": 1792388105,
-      "last_seen_at": 1792388105,
-      "samples": [
-        {
-          "at": 1792388105,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "03abef214d18",
-      "editorial": {
-        "event_key": "jms-jung-myung-seok-separate-sixteen-victim-first-instance-33-years-20261019",
-        "title": "JMS 정명석, 확정 17년과 별개로 1심 33년…추가 피해자 16명 사건",
-        "category": "시사",
-        "url": "https://www.yna.co.kr/view/AKR20261019085552063",
-        "source": "연합뉴스",
-        "kind": "article",
-        "why": "이미 확정된 판결과 오늘의 별건 선고를 두 칸으로 놓으면 형량이 바뀐 것인지 혼동하는 독자에게 바로 설명할 수 있다.",
-        "angle": "기존 확정 17년과 오늘 별건 1심 33년을 첫 장에 비교하고 사건·심급 차이를 잇는다.",
-        "why_now": "19일 대전지법이 별도 피해자 16명 사건에 징역 33년을 선고한 새 판결이다.",
-        "verified_at": 1792385805,
-        "published_at": 1792379340,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261019085552063",
-            "note": "추가 피해자 16명 사건에 1심 징역 33년을 선고했다. 기존 대법원 확정 17년 사건과 별개이며 구형은 27년이었다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261019085552063",
-            "label": "본문 확인 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "1심은 확정이 아니다. 두 형량을 더해 확정 복역 기간이라고 쓰지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-19",
-          "observation": "추가 피해자 16명 사건에 1심 징역 33년을 선고했다. 기존 대법원 확정 17년 사건과 별개이며 구형은 27년이었다.",
-          "checked_materials": [],
-          "outline": [
-            "기존 사건 확정 17년 / 별건 오늘 1심 33년 비교",
-            "피해자 16명과 구형 27년·선고 33년",
-            "1심과 확정판결의 차이"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "본문 확인 원문",
-            "url": "https://www.yna.co.kr/view/AKR20261019085552063"
-          }
-        ],
-        "excerpt": "",
-        "context": "19일 대전지법이 별도 피해자 16명 사건에 징역 33년을 선고한 새 판결이다.",
-        "fetched_at": 1792388105,
-        "parser_revision": 7
-      },
-      "curation_event_key": "jms-jung-myung-seok-separate-sixteen-victim-first-instance-33-years-20261019"
-    },
-    "b8a032850c94": {
-      "source": "연합뉴스·감사원 감사 결과",
-      "title": "불합격인데 계속 관측…기상장비 177대 재검정 없이 사용",
-      "link": "https://www.yna.co.kr/view/AKR20261019008400001",
-      "first_seen_at": 1792388105,
-      "last_seen_at": 1792388105,
-      "samples": [
-        {
-          "at": 1792388105,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "b8a032850c94",
-      "editorial": {
-        "title": "불합격인데 계속 관측…기상장비 177대 재검정 없이 사용",
-        "category": "시사",
-        "url": "https://www.yna.co.kr/view/AKR20261019008400001",
-        "source": "연합뉴스·감사원 감사 결과",
-        "kind": "article",
-        "event_key": "weather-observation-177-failed-devices-audit-disclosure-20261019",
-        "why": "매일 예보를 보고 출근·외출을 결정하는 사람에게, 예보에 들어갈 관측값부터 검증이 비어 있었다는 구체적 문제를 보여준다.",
-        "angle": "첫 장은 불합격 177대와 재검정 없이 사용이라는 사실을 붙이고, 다음 장에서 관리기관과 감사 범위를 설명한다.",
-        "why_now": "19일 공개된 기상청 정기감사 결과로, 지난해 점검한 장비 관리 실태가 새로 확인됐다.",
-        "verified_at": 1792387843,
-        "published_at": 1792378800,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261019008400001",
-            "note": "전체 2만1,533대 중 7,402대 주요 정보가 누락됐고 불합격 177대가 재검정 없이 운영됐다. 감사원은 부정확한 관측자료 활용에 따른 예보 신뢰 저하를 우려했다."
-          },
-          {
-            "url": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03158646645614560",
-            "note": "감사는 지난해 10~11월 실시, 10월 1일 의결, 19일 발표다. 유관기관 장비에 대한 기상청 관리·감독 문제를 구분해 보도했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261019008400001",
-            "label": "감사 결과 보도",
-            "kind": "source"
-          }
-        ],
-        "caution": "최근 오보가 모두 이 장비 탓이라고 입증된 것은 아니다. 불합격 177대와 유효기간 만료 장비를 더해 중복 없는 총수처럼 쓰지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-19",
-          "observation": "예보의 입력이 되는 전국 관측장비에서 불합격 뒤 재검정 없는 운영과 관리정보 누락이 확인돼, 일상 예보의 자료 신뢰성을 점검할 구체적인 감사 결과가 공개됐다.",
-          "checked_materials": [],
-          "outline": [
-            "불합격 177대가 계속 쓰인 사실",
-            "232개 관측기관 장비 2만1,533대 중 정보 누락 7,402대",
-            "기상청에 관리·감독 개선 요구, 개별 오보 원인과는 구분"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "감사 결과 보도",
-            "url": "https://www.yna.co.kr/view/AKR20261019008400001"
-          }
-        ],
-        "excerpt": "",
-        "context": "19일 공개된 기상청 정기감사 결과로, 지난해 점검한 장비 관리 실태가 새로 확인됐다.",
-        "fetched_at": 1792388105,
-        "parser_revision": 7
-      },
-      "curation_event_key": "weather-observation-177-failed-devices-audit-disclosure-20261019"
-    },
-    "9431f6e34004": {
-      "source": "인벤·라이엇 게임즈",
-      "title": "6년 만에 돌아온 K/DA…미연·소연은 그대로, 두 목소리는 새로",
-      "link": "https://www.inven.co.kr/webzine/news/?news=322270",
-      "first_seen_at": 1792388105,
-      "last_seen_at": 1792388105,
-      "samples": [
-        {
-          "at": 1792388105,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "9431f6e34004",
-      "editorial": {
-        "event_key": "kda-firestarter-six-year-return-miyeon-soyeon-official-release-20261019",
-        "title": "6년 만에 돌아온 K/DA…미연·소연은 그대로, 두 목소리는 새로",
-        "category": "아이돌",
-        "url": "https://www.inven.co.kr/webzine/news/?news=322270",
-        "source": "인벤·라이엇 게임즈",
-        "kind": "article",
-        "why": "롤 팬과 여자아이돌 팬이 함께 아는 프로젝트의 긴 공백 종료와 보컬 교체를 한눈에 비교할 수 있다.",
-        "angle": "2020 ALL OUT과 2026 FIRESTARTER를 대비하고 미연·소연 유지와 새 보컬 두 명을 구분한다.",
-        "why_now": "19일 공식 리그 오브 레전드 사이트에서도 신곡 공개를 확인했다.",
-        "verified_at": 1792385805,
-        "published_at": 1792376040,
-        "evidence": [
-          {
-            "url": "https://www.inven.co.kr/webzine/news/?news=322270",
-            "note": "약 6년 만의 신곡에 미연·소연이 돌아오고 소피 파워스·미미 웹이 새로 합류했다. 공식 홈페이지에도 공개 소식이 올라왔다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.inven.co.kr/webzine/news/?news=322270",
-            "label": "본문 확인 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "MV는 직접 시청하지 않았다. 안무·반응을 묘사하지 않으며 21일 예정 EP를 이미 발매됐다고 쓰지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-19",
-          "observation": "약 6년 만의 신곡에 미연·소연이 돌아오고 소피 파워스·미미 웹이 새로 합류했다. 공식 홈페이지에도 공개 소식이 올라왔다.",
-          "checked_materials": [],
-          "outline": [
-            "2020 ALL OUT → 2026 FIRESTARTER",
-            "미연·소연 유지 / 소피 파워스·미미 웹 합류",
-            "공개된 신곡과 21일 예정 EP 일정 구분"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "본문 확인 원문",
-            "url": "https://www.inven.co.kr/webzine/news/?news=322270"
-          }
-        ],
-        "excerpt": "",
-        "context": "19일 공식 리그 오브 레전드 사이트에서도 신곡 공개를 확인했다.",
-        "fetched_at": 1792388105,
-        "parser_revision": 7
-      },
-      "curation_event_key": "kda-firestarter-six-year-return-miyeon-soyeon-official-release-20261019"
-    },
-    "2a777344591f": {
-      "source": "제네시스 공식 뉴스룸",
-      "title": "제네시스, 데뷔 첫해 WEC 첫 폴…예선 1·3위인데 본선은 무득점",
-      "link": "https://newsroom.genesis.com/genesis-magma-racing-celebrates-incredible-qualifying-performance-while-continuing-to-learn-in-the-race/",
-      "first_seen_at": 1792388105,
-      "last_seen_at": 1792388105,
-      "samples": [
-        {
-          "at": 1792388105,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "official",
-      "story_id": "2a777344591f",
-      "editorial": {
-        "title": "제네시스, 데뷔 첫해 WEC 첫 폴…예선 1·3위인데 본선은 무득점",
-        "category": "메이저 스포츠",
-        "url": "https://newsroom.genesis.com/genesis-magma-racing-celebrates-incredible-qualifying-performance-while-continuing-to-learn-in-the-race/",
-        "source": "제네시스 공식 뉴스룸",
-        "kind": "official",
-        "event_key": "genesis-magma-first-wec-pole-barcelona-race-result-20261018",
-        "why": "한국 자동차 브랜드가 세계 내구레이스 예선 맨 앞에 선 성과와 본선 결과의 차이를 자동차 팬이 아닌 사람도 읽을 수 있다.",
-        "angle": "예선 1·3위와 본선 16·11위를 첫 장에 대비하고, 폴 포지션이 우승과 다른 이유를 설명한다.",
-        "why_now": "17일 첫 폴 뒤 18일 본선까지 끝나 공식 팀 발표로 성과와 한계가 함께 확인됐다. 19일 국내 보도와 대조했다.",
-        "verified_at": 1792387843,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://newsroom.genesis.com/genesis-magma-racing-celebrates-incredible-qualifying-performance-while-continuing-to-learn-in-the-race/",
-            "note": "마티스 조베르의 17번이 팀 최초 폴, 19번은 예선 3위였다. 본선에서는 17번 16위·19번 11위로 마쳤고 19번은 득점권까지 약 0.5초 모자랐다."
-          },
-          {
-            "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014040",
-            "note": "19일 보도에서 첫 폴과 본선 결과를 확인했다. 팀은 젖은 노면 이탈·기술 문제·페널티를 설명했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://newsroom.genesis.com/genesis-magma-racing-celebrates-incredible-qualifying-performance-while-continuing-to-learn-in-the-race/",
-            "label": "팀 공식 결과·설명",
-            "kind": "source"
-          }
-        ],
-        "caution": "첫 폴은 예선 1위 출발권이며 첫 우승이 아니다. 시판 제네시스와 경주차의 성능을 동일시하지 않는다. 주행 영상은 미시청이다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-18",
-          "observation": "한국 브랜드의 WEC 진출 첫해에 최초 예선 1위를 얻은 역사적 성과가 확정됐다. 이어진 본선의 두 차량 무득점까지 공개돼 예선과 결승의 차이를 비교 카드로 완성할 수 있다.",
-          "checked_materials": [],
-          "outline": [
-            "17번 예선 1위·19번 3위 / 본선 16위·11위 비교",
-            "폴 포지션은 출발 순서: 우승과 구분",
-            "공식 설명의 노면 이탈·기술 문제·0.5초 부족"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "팀 공식 결과·설명",
-            "url": "https://newsroom.genesis.com/genesis-magma-racing-celebrates-incredible-qualifying-performance-while-continuing-to-learn-in-the-race/"
-          }
-        ],
-        "excerpt": "",
-        "context": "17일 첫 폴 뒤 18일 본선까지 끝나 공식 팀 발표로 성과와 한계가 함께 확인됐다. 19일 국내 보도와 대조했다.",
-        "fetched_at": 1792388105,
-        "parser_revision": 7
-      },
-      "curation_event_key": "genesis-magma-first-wec-pole-barcelona-race-result-20261018"
-    },
-    "b9ecb3a4e27c": {
-      "source": "SBS",
-      "title": "택시 바가지 신고 6,481건…행정처분은 3.1%",
-      "link": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008803267&plink=PLUS",
-      "first_seen_at": 1792388105,
-      "last_seen_at": 1792388105,
-      "samples": [
-        {
-          "at": 1792388105,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "b9ecb3a4e27c",
-      "editorial": {
-        "event_key": "seoul-foreign-tourist-taxi-overcharge-6481-penalty-rate-disclosure-20261019",
-        "title": "택시 바가지 신고 6,481건…행정처분은 3.1%",
-        "category": "시사",
-        "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008803267&plink=PLUS",
-        "source": "SBS",
-        "kind": "article",
-        "why": "한국 여행을 권하는 친구에게 요금 피해뿐 아니라 신고가 어떻게 처리되는지도 알려줄 실용적인 이유가 있다.",
-        "angle": "신고 6,481건과 처분 3.1%를 첫 장에 크게 놓고 자체 종결과 시의 설명을 다음 장에 붙인다.",
-        "why_now": "19일 공개된 2021년~2026년 8월 서울 외국인 관광객 택시 요금 신고 처리 자료다.",
-        "verified_at": 1792385805,
-        "published_at": 1792362000,
-        "evidence": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008803267&plink=PLUS",
-            "note": "신고 6,481건 중 행정처분 3.1%, 자체 종결 67.4%였다. 해당 종결 사유는 기타로 분류됐고 시는 위반 확인의 어려움 등을 설명했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008803267&plink=PLUS",
-            "label": "본문 확인 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "신고가 모두 입증된 위법은 아니다. 69만원 사례는 올해 6월이며 오늘의 새 사건이 아니다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-19",
-          "observation": "신고 6,481건 중 행정처분 3.1%, 자체 종결 67.4%였다. 해당 종결 사유는 기타로 분류됐고 시는 위반 확인의 어려움 등을 설명했다.",
-          "checked_materials": [],
-          "outline": [
-            "신고 수와 실제 처분 비율 비교",
-            "집계 기간·자체 종결 67.4%·기타 사유",
-            "서울시 설명과 신고·위법 확정의 차이"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "본문 확인 원문",
-            "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008803267&plink=PLUS"
-          }
-        ],
-        "excerpt": "",
-        "context": "19일 공개된 2021년~2026년 8월 서울 외국인 관광객 택시 요금 신고 처리 자료다.",
-        "fetched_at": 1792388105,
-        "parser_revision": 7
-      },
-      "curation_event_key": "seoul-foreign-tourist-taxi-overcharge-6481-penalty-rate-disclosure-20261019"
-    },
-    "87654c1563b1": {
-      "source": "연합뉴스",
-      "title": "두산 16년 단장 체제 종료…신임 정재훈은 동명이인 투수가 아니다",
-      "link": "https://www.yna.co.kr/view/AKR20261019076000007",
-      "first_seen_at": 1792388105,
-      "last_seen_at": 1792388105,
-      "samples": [
-        {
-          "at": 1792388105,
-          "views": null,
-          "reactions": null,
-          "rank": 7,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "87654c1563b1",
-      "editorial": {
-        "event_key": "doosan-bears-kim-tae-ryong-jung-jae-hoon-gm-change-20261019",
-        "title": "두산 16년 단장 체제 종료…신임 정재훈은 동명이인 투수가 아니다",
-        "category": "메이저 스포츠",
-        "url": "https://www.yna.co.kr/view/AKR20261019076000007",
-        "source": "연합뉴스",
-        "kind": "article",
-        "why": "두산 팬에게 선수 구성의 책임자가 바뀌는 확정 소식이며 익숙한 동명이인 투수와 혼동하기 쉬운 경력을 정리할 수 있다.",
-        "angle": "김태룡의 16년 체제와 신임 운영팀장 정재훈을 비교한 뒤 실제 선수·프런트 경력을 보여준다.",
-        "why_now": "19일 두산이 단장 교체를 공식 발표했다.",
-        "verified_at": 1792385805,
-        "published_at": 1792375860,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261019076000007",
-            "note": "2011~2026년 단장이던 김태룡은 자문역으로 옮기고 1981년생 정재훈 운영팀장이 신임 단장이 됐다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261019076000007",
-            "label": "본문 확인 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "신임은 1978년생 투수 정재훈과 다른 인물이다. 전 단장과 구단 관계가 완전히 끝났다고 쓰지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-19",
-          "observation": "2011~2026년 단장이던 김태룡은 자문역으로 옮기고 1981년생 정재훈 운영팀장이 신임 단장이 됐다.",
-          "checked_materials": [],
-          "outline": [
-            "2011~2026년 김태룡 단장 체제와 교체",
-            "1981년생 정재훈의 선수·분석·스카우트·운영 경력",
-            "김태룡은 자문역으로 이동"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "본문 확인 원문",
-            "url": "https://www.yna.co.kr/view/AKR20261019076000007"
-          }
-        ],
-        "excerpt": "",
-        "context": "19일 두산이 단장 교체를 공식 발표했다.",
-        "fetched_at": 1792388105,
-        "parser_revision": 7
-      },
-      "curation_event_key": "doosan-bears-kim-tae-ryong-jung-jae-hoon-gm-change-20261019"
-    },
-    "ca3f9ceb71a7": {
-      "source": "이데일리",
-      "title": "청문회 이어 국감도 불출석 사유서…이임생이 든 이유",
-      "link": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02945446645614560",
-      "first_seen_at": 1792388105,
-      "last_seen_at": 1792388105,
-      "samples": [
-        {
-          "at": 1792388105,
-          "views": null,
-          "reactions": null,
-          "rank": 8,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "ca3f9ceb71a7",
-      "editorial": {
-        "event_key": "lee-im-saeng-kfa-audit-nonattendance-notice-cambodia-training-20261019",
-        "title": "청문회 이어 국감도 불출석 사유서…이임생이 든 이유",
-        "category": "축구",
-        "url": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02945446645614560",
-        "source": "이데일리",
-        "kind": "article",
-        "why": "감독 선임 절차를 지켜본 축구 팬에게 책임자가 공개 질의에 다시 답할 수 있을지가 달린 소식이다.",
-        "angle": "21일 국감 일정과 캄보디아 팀 훈련을 든 불출석 사유를 첫 장에서 나란히 보여준다.",
-        "why_now": "19일 공개된 21일 국감 불출석 사유서가 새 사실이다.",
-        "verified_at": 1792385805,
-        "published_at": 1792375442,
-        "evidence": [
-          {
-            "url": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02945446645614560",
-            "note": "이임생 전 기술총괄이사는 캄보디아 나가월드 훈련과 3~4일 부재의 어려움을 이유로 21일 국감 불출석 사유서를 냈다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02945446645614560",
-            "label": "본문 확인 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "21일 국감은 아직 열리지 않았다. 해외 도피성 취업이라는 의원의 비판은 확정 사실이 아니다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-19",
-          "observation": "이임생 전 기술총괄이사는 캄보디아 나가월드 훈련과 3~4일 부재의 어려움을 이유로 21일 국감 불출석 사유서를 냈다.",
-          "checked_materials": [],
-          "outline": [
-            "21일 국감과 제출한 불출석 사유",
-            "홍명보 감독 선임 절차 질의·이전 청문회 불참 맥락",
-            "제출 사실과 의원 비판·향후 조치 구분"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "본문 확인 원문",
-            "url": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02945446645614560"
-          }
-        ],
-        "excerpt": "",
-        "context": "19일 공개된 21일 국감 불출석 사유서가 새 사실이다.",
-        "fetched_at": 1792388105,
-        "parser_revision": 7
-      },
-      "curation_event_key": "lee-im-saeng-kfa-audit-nonattendance-notice-cambodia-training-20261019"
-    },
-    "0022ae0fe848": {
-      "source": "삼성물산·에버랜드",
-      "title": "루이·후이바오 검역 중에도 볼 수 있다…마지막 공개는 12월 11일 예정",
-      "link": "https://news.samsungcnt.com/ko/%EC%A0%84%EC%B2%B4%EA%B8%B0%EC%82%AC/%EB%A6%AC%EC%A1%B0%ED%8A%B8%EB%B6%80%EB%AC%B8/2026-10-%EC%97%90%EB%B2%84%EB%9E%9C%EB%93%9C-%EC%8C%8D%EB%91%A5%EC%9D%B4-%ED%8C%90%EB%8B%A4-11%EC%9B%94-13%EC%9D%BC%EB%B6%80%ED%84%B0-%EC%A4%91%EA%B5%AD-%EC%9D%B4%EB%8F%99-%EC%A0%84-%EA%B2%80%EC%97%AD/",
-      "first_seen_at": 1792388105,
-      "last_seen_at": 1792388105,
-      "samples": [
-        {
-          "at": 1792388105,
-          "views": null,
-          "reactions": null,
-          "rank": 9,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "official",
-      "story_id": "0022ae0fe848",
-      "editorial": {
-        "event_key": "everland-rui-hui-bao-quarantine-final-public-viewing-plan-20261019",
-        "title": "루이·후이바오 검역 중에도 볼 수 있다…마지막 공개는 12월 11일 예정",
-        "category": "시사",
-        "url": "https://news.samsungcnt.com/ko/%EC%A0%84%EC%B2%B4%EA%B8%B0%EC%82%AC/%EB%A6%AC%EC%A1%B0%ED%8A%B8%EB%B6%80%EB%AC%B8/2026-10-%EC%97%90%EB%B2%84%EB%9E%9C%EB%93%9C-%EC%8C%8D%EB%91%A5%EC%9D%B4-%ED%8C%90%EB%8B%A4-11%EC%9B%94-13%EC%9D%BC%EB%B6%80%ED%84%B0-%EC%A4%91%EA%B5%AD-%EC%9D%B4%EB%8F%99-%EC%A0%84-%EA%B2%80%EC%97%AD/",
-        "source": "삼성물산·에버랜드",
-        "kind": "official",
-        "why": "마지막 관람을 계획하는 가족·친구가 실제 방문 날짜를 정할 수 있고 검역 시작부터 못 본다는 오해도 바로잡는다.",
-        "angle": "11월 13일 검역 시작과 12월 11일 마지막 공개 예정일을 달력으로 비교한다.",
-        "why_now": "19일 검역 중 제한적 공개 방침과 마지막 공개 예정일이 새로 안내됐다.",
-        "verified_at": 1792385805,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://news.samsungcnt.com/ko/%EC%A0%84%EC%B2%B4%EA%B8%B0%EC%82%AC/%EB%A6%AC%EC%A1%B0%ED%8A%B8%EB%B6%80%EB%AC%B8/2026-10-%EC%97%90%EB%B2%84%EB%9E%9C%EB%93%9C-%EC%8C%8D%EB%91%A5%EC%9D%B4-%ED%8C%90%EB%8B%A4-11%EC%9B%94-13%EC%9D%BC%EB%B6%80%ED%84%B0-%EC%A4%91%EA%B5%AD-%EC%9D%B4%EB%8F%99-%EC%A0%84-%EA%B2%80%EC%97%AD/",
-            "note": "11월 13일 검역 시작 뒤에도 제한적 공개를 유지한다. 마지막 공개는 12월 11일, 중국 이동은 12월 셋째 주 예정이며 상세는 미정이다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://news.samsungcnt.com/ko/%EC%A0%84%EC%B2%B4%EA%B8%B0%EC%82%AC/%EB%A6%AC%EC%A1%B0%ED%8A%B8%EB%B6%80%EB%AC%B8/2026-10-%EC%97%90%EB%B2%84%EB%9E%9C%EB%93%9C-%EC%8C%8D%EB%91%A5%EC%9D%B4-%ED%8C%90%EB%8B%A4-11%EC%9B%94-13%EC%9D%BC%EB%B6%80%ED%84%B0-%EC%A4%91%EA%B5%AD-%EC%9D%B4%EB%8F%99-%EC%A0%84-%EA%B2%80%EC%97%AD/",
-            "label": "본문 확인 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "세부 공개 일정은 변경될 수 있다. 정확한 출국일·중국 내 목적지는 미정이다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-19",
-          "observation": "11월 13일 검역 시작 뒤에도 제한적 공개를 유지한다. 마지막 공개는 12월 11일, 중국 이동은 12월 셋째 주 예정이며 상세는 미정이다.",
-          "checked_materials": [],
-          "outline": [
-            "11월 13일 검역 시작·제한적 관람",
-            "12월 11일 마지막 공개 예정",
-            "12월 셋째 주 이동 계획과 아직 미정인 사항"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "본문 확인 원문",
-            "url": "https://news.samsungcnt.com/ko/%EC%A0%84%EC%B2%B4%EA%B8%B0%EC%82%AC/%EB%A6%AC%EC%A1%B0%ED%8A%B8%EB%B6%80%EB%AC%B8/2026-10-%EC%97%90%EB%B2%84%EB%9E%9C%EB%93%9C-%EC%8C%8D%EB%91%A5%EC%9D%B4-%ED%8C%90%EB%8B%A4-11%EC%9B%94-13%EC%9D%BC%EB%B6%80%ED%84%B0-%EC%A4%91%EA%B5%AD-%EC%9D%B4%EB%8F%99-%EC%A0%84-%EA%B2%80%EC%97%AD/"
-          }
-        ],
-        "excerpt": "",
-        "context": "19일 검역 중 제한적 공개 방침과 마지막 공개 예정일이 새로 안내됐다.",
-        "fetched_at": 1792388105,
-        "parser_revision": 7
-      },
-      "curation_event_key": "everland-rui-hui-bao-quarantine-final-public-viewing-plan-20261019"
-    },
-    "9058d8c779fe": {
-      "source": "SBS",
-      "title": "신고받아 보관했던 흉기, 다시 반환…최충락 사건 전 경찰 대응 기록",
-      "link": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008803920&plink=TOPLINE",
-      "first_seen_at": 1792388105,
-      "last_seen_at": 1792388105,
-      "samples": [
-        {
-          "at": 1792388105,
-          "views": null,
-          "reactions": null,
-          "rank": 10,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "9058d8c779fe",
-      "editorial": {
-        "event_key": "choi-chung-rak-knife-return-police-response-records-disclosure-20261019",
-        "title": "신고받아 보관했던 흉기, 다시 반환…최충락 사건 전 경찰 대응 기록",
-        "category": "시사",
-        "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008803920&plink=TOPLINE",
-        "source": "SBS",
-        "kind": "article",
-        "why": "사전 흉기 신고 뒤 어떤 조치가 있었는지 시간순으로 보여주면 범행 장면 소비를 넘어 시민 안전 절차를 따질 수 있다.",
-        "angle": "9월 9일 보관·반환, 10월 6일 재압수, 13일 사건을 날짜별 카드로 놓는다.",
-        "why_now": "19일 의원실이 받은 경찰 대응 기록이 공개된 새 사실이다.",
-        "verified_at": 1792385805,
-        "published_at": 1792376940,
-        "evidence": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008803920&plink=TOPLINE",
-            "note": "경찰은 9월 9일 신고 뒤 흉기를 보관했다가 돌려줬고, 10월 6일 다시 임의제출 형태로 압수해 보호관찰 담당자에게 입건을 알렸다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008803920&plink=TOPLINE",
-            "label": "본문 확인 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "반환한 칼이 13일 범행에 쓰였다는 근거는 확인하지 못했다. 동일 흉기라고 연결하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-19",
-          "observation": "경찰은 9월 9일 신고 뒤 흉기를 보관했다가 돌려줬고, 10월 6일 다시 임의제출 형태로 압수해 보호관찰 담당자에게 입건을 알렸다.",
-          "checked_materials": [],
-          "outline": [
-            "9월 9일 신고·보관·반환",
-            "10월 6일 재압수·보호관찰소 통보",
-            "10월 13일 사건과 미확인 인과관계 구분"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "본문 확인 원문",
-            "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008803920&plink=TOPLINE"
-          }
-        ],
-        "excerpt": "",
-        "context": "19일 의원실이 받은 경찰 대응 기록이 공개된 새 사실이다.",
-        "fetched_at": 1792388105,
-        "parser_revision": 7
-      },
-      "curation_event_key": "choi-chung-rak-knife-return-police-response-records-disclosure-20261019"
     }
   },
-  "updated_at": 1792991595
+  "updated_at": 1793002922
 }
