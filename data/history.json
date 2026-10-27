@@ -1,6 +1,854 @@
 {
   "version": 1,
   "items": {
+    "9d778b13e68d": {
+      "source": "연합뉴스·카카오 직접 답변",
+      "title": "카카오 면접 먼저 보는 건 AI? 회사 “채용 담당자가 참고해 검토”",
+      "link": "https://www.yna.co.kr/view/AKR20261027179000017",
+      "first_seen_at": 1793099541,
+      "last_seen_at": 1793110128,
+      "samples": [
+        {
+          "at": 1793099541,
+          "views": null,
+          "reactions": null,
+          "rank": 11,
+          "rank_kind": null
+        },
+        {
+          "at": 1793110128,
+          "views": null,
+          "reactions": null,
+          "rank": 10,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "9d778b13e68d",
+      "editorial": {
+        "title": "카카오 면접 먼저 보는 건 AI? 회사 “채용 담당자가 참고해 검토”",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261027179000017",
+        "source": "연합뉴스·카카오 직접 답변",
+        "kind": "article",
+        "event_key": "kakao-ai-preinterview-personality-test-preparation-20261027",
+        "why": "취업 준비하는 친구에게 보낼 면접 문턱의 변화. AI면접 회사가 개인정보 위탁업체에 추가됐지만 회사는 AI가 최종 채용을 정하는 방식은 아니라고 설명했다.",
+        "angle": "AI 사전 인터뷰 준비→추가 면접 절차 아님…사람이 참고해 검토",
+        "why_now": "27일 개인정보 처리방침 개정과 회사 설명이 공개됐다. 이전 회차에 검토만 된 미발송 후보를 이번에 실제 재확인했다.",
+        "verified_at": 1793109710,
+        "published_at": 1793095765,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261027179000017",
+            "note": "본문에서 무하유·ORP연구소 위탁업체 추가,AI 사전 인터뷰·인성검사 준비,별도 절차 추가 없이 담당자가 참고해 검토할 계획이라는 답변을 확인. 적용 일정은 향후 공고 예정이다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261027179000017",
+            "label": "취재 본문·확인 근거",
+            "kind": "source"
+          }
+        ],
+        "caution": "도입 준비 단계,AI 단독 합불 판정·전면 시행 미확인. 실제 지원자 개인정보를 읽지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-27",
+          "observation": "본문에서 무하유·ORP연구소 위탁업체 추가,AI 사전 인터뷰·인성검사 준비,별도 절차 추가 없이 담당자가 참고해 검토할 계획이라는 답변을 확인. 적용 일정은 향후 공고 예정이다.",
+          "checked_materials": [],
+          "outline": [
+            "개인정보 위탁업체에 추가된 AI면접·인성검사 회사",
+            "기존 일부 사전 인터뷰 단계에 AI를 쓰려는 카카오 설명",
+            "AI 자동 합불 확정 아님…구체 적용 일정은 앞으로 공고"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "취재 본문·확인 근거",
+            "url": "https://www.yna.co.kr/view/AKR20261027179000017"
+          }
+        ],
+        "excerpt": "",
+        "context": "27일 개인정보 처리방침 개정과 회사 설명이 공개됐다. 이전 회차에 검토만 된 미발송 후보를 이번에 실제 재확인했다.",
+        "fetched_at": 1793110128,
+        "parser_revision": 7
+      },
+      "curation_event_key": "kakao-ai-preinterview-personality-test-preparation-20261027"
+    },
+    "73311ef2b83f": {
+      "source": "연합뉴스·KBL 직접 답변",
+      "title": "뛸 수 없는 선수가 위닝슛…KBL “오심 맞지만 재경기 불가”",
+      "link": "https://www.yna.co.kr/view/AKR20261027180100007",
+      "first_seen_at": 1793110128,
+      "last_seen_at": 1793110128,
+      "samples": [
+        {
+          "at": 1793110128,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "73311ef2b83f",
+      "editorial": {
+        "title": "뛸 수 없는 선수가 위닝슛…KBL “오심 맞지만 재경기 불가”",
+        "category": "메이저 스포츠",
+        "url": "https://www.yna.co.kr/view/AKR20261027180100007",
+        "source": "연합뉴스·KBL 직접 답변",
+        "kind": "article",
+        "event_key": "kbl-lg-sono-ineligible-resubstitution-winning-shot-error-20261027",
+        "why": "농구 친구에게 보낼 같은 코트 다른 잣대. 소노에는 막은 재교체를 LG에는 허용했고 그 선수가 결승골까지 넣었는데 재경기도 안 된다는 답이 나왔다.",
+        "angle": "소노 재교체는 제지→LG 윤원상은 재투입→결승골…KBL 오심 인정",
+        "why_now": "26일 경기 뒤27일 KBL이 규칙 위반을 인정하고 소노의 재경기 요구에 불가 입장을 밝힌 것이 새 사실이다.",
+        "verified_at": 1793109704,
+        "published_at": 1793096653,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261027180100007",
+            "note": "본문에서 경기 시계가 흐르지 않은 재교체 상황,소노 이재도 교체 제지와 LG 윤원상 허용의 차이,윤원상 결승골, KBL 오심 인정·20분 이의제기 규정에 따른 재경기 불가 답변을 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261027180100007",
+            "label": "취재 본문·확인 근거",
+            "kind": "source"
+          }
+        ],
+        "caution": "26일 경기·27일 공식 답변. 선수의 고의 부정행위로 몰지 않음. 영상 미시청,규정·상황은 본문과 KBL 답변 대조.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-27",
+          "observation": "본문에서 경기 시계가 흐르지 않은 재교체 상황,소노 이재도 교체 제지와 LG 윤원상 허용의 차이,윤원상 결승골, KBL 오심 인정·20분 이의제기 규정에 따른 재경기 불가 답변을 확인.",
+          "checked_materials": [],
+          "outline": [
+            "종료6초 전 교체 뒤 시계가 흐르지 않아 소노 재교체는 막힌 상황",
+            "같은 조건에서 LG 윤원상은 다시 들어와 종료3초 전 결승골",
+            "KBL은 오심 인정…소노 재경기 요구에는20분 규정 제시"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "취재 본문·확인 근거",
+            "url": "https://www.yna.co.kr/view/AKR20261027180100007"
+          }
+        ],
+        "excerpt": "",
+        "context": "26일 경기 뒤27일 KBL이 규칙 위반을 인정하고 소노의 재경기 요구에 불가 입장을 밝힌 것이 새 사실이다.",
+        "fetched_at": 1793110128,
+        "parser_revision": 7
+      },
+      "curation_event_key": "kbl-lg-sono-ineligible-resubstitution-winning-shot-error-20261027"
+    },
+    "cd5767b63306": {
+      "source": "OSEN·정준하하하 방송 캡처",
+      "title": "박명수 “얼굴만 빌려준 거지?”…정형돈 “내 지분25%,그래서 열심히”",
+      "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/27/GFSTOYLCMZQTCOLEMRSTOMZYGY/?outputType=amp",
+      "first_seen_at": 1793110128,
+      "last_seen_at": 1793110128,
+      "samples": [
+        {
+          "at": 1793110128,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "cd5767b63306",
+      "editorial": {
+        "title": "박명수 “얼굴만 빌려준 거지?”…정형돈 “내 지분25%,그래서 열심히”",
+        "category": "시사",
+        "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/27/GFSTOYLCMZQTCOLEMRSTOMZYGY/?outputType=amp",
+        "source": "OSEN·정준하하하 방송 캡처",
+        "kind": "article",
+        "event_key": "jung-hyung-don-pork-cutlet-shop-25-percent-share-banter-20261027",
+        "why": "무한도전 친구에게 보낼 장사판 티키타카. 가게 찾아온 형이 얼굴만 빌려줬냐고 찌르자 정형돈이 실제 투자 지분으로 바로 받아쳤다.",
+        "angle": "“네 돈 낸 거 아니고 얼굴만 빌려준 거지?”→“아니라니까!”→지분25%",
+        "why_now": "27일 정준하하하 공개 영상에서 나온 식당 방문 대화. 가게 개업 자체나 과거 돈가스 사업을 새 일로 반복하지 않는다.",
+        "verified_at": 1793109865,
+        "published_at": 1793102042,
+        "evidence": [
+          {
+            "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/27/GFSTOYLCMZQTCOLEMRSTOMZYGY/?outputType=amp",
+            "note": "실제4컷 캡처에서 박명수의 얼굴만 빌려줬냐는 질문,정형돈 “아니라니까!”,“도니 지분25%”,“몹시 열심히 하는 중” 자막을 확인. 본문에서 정준하의 만류와 정형돈의 답변 문맥 대조."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://biz.chosun.com/resizer/v2/GA3TAYRRGUZWCYRWMU3GMZBYGE.jpg?auth=63ba299708fd42ad02984cb80f92d8ca901c7432941afc6a7494126d17156c5b&height=1170&smart=true&width=530",
+            "label": "질문·반박·25% 연속 캡처",
+            "kind": "image"
+          },
+          {
+            "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/27/GFSTOYLCMZQTCOLEMRSTOMZYGY/?outputType=amp",
+            "label": "대화 문맥·공개일 대조",
+            "kind": "source"
+          }
+        ],
+        "caution": "방송 속 당사자 설명이며 법인 등기·투자계약은 미확인. 전체 영상·음성 미시청. 바지사장이라는 의혹을 사실로 쓰지 않음.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-27",
+          "observation": "실제4컷 캡처에서 박명수의 얼굴만 빌려줬냐는 질문,정형돈 “아니라니까!”,“도니 지분25%”,“몹시 열심히 하는 중” 자막을 확인. 본문에서 정준하의 만류와 정형돈의 답변 문맥 대조.",
+          "checked_materials": [
+            "https://biz.chosun.com/resizer/v2/GA3TAYRRGUZWCYRWMU3GMZBYGE.jpg?auth=63ba299708fd42ad02984cb80f92d8ca901c7432941afc6a7494126d17156c5b&height=1170&smart=true&width=530"
+          ],
+          "outline": [
+            "박명수가 식사하며 “네 돈 낸 거 아니고 얼굴만 빌려준 거지?”",
+            "정형돈 “아니라니까!” 뒤 제작진의 “도니 지분25%” 자막",
+            "“그러니까 이렇게 열심히 하는 거지”로 되받은 장사 의욕"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [
+          {
+            "url": "https://biz.chosun.com/resizer/v2/GA3TAYRRGUZWCYRWMU3GMZBYGE.jpg?auth=63ba299708fd42ad02984cb80f92d8ca901c7432941afc6a7494126d17156c5b&height=1170&smart=true&width=530",
+            "label": "질문·반박·25% 연속 캡처",
+            "kind": "image"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "질문·반박·25% 연속 캡처",
+            "url": "https://biz.chosun.com/resizer/v2/GA3TAYRRGUZWCYRWMU3GMZBYGE.jpg?auth=63ba299708fd42ad02984cb80f92d8ca901c7432941afc6a7494126d17156c5b&height=1170&smart=true&width=530"
+          },
+          {
+            "label": "대화 문맥·공개일 대조",
+            "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/27/GFSTOYLCMZQTCOLEMRSTOMZYGY/?outputType=amp"
+          }
+        ],
+        "excerpt": "",
+        "context": "27일 정준하하하 공개 영상에서 나온 식당 방문 대화. 가게 개업 자체나 과거 돈가스 사업을 새 일로 반복하지 않는다.",
+        "fetched_at": 1793110128,
+        "parser_revision": 7
+      },
+      "curation_event_key": "jung-hyung-don-pork-cutlet-shop-25-percent-share-banter-20261027"
+    },
+    "dad08fb60cd1": {
+      "source": "연합뉴스 현장 인터뷰·사진",
+      "title": "‘돌부처’도 아들 앞에선 활짝…오승환 “아들이 시구 선배라 같이 왔다”",
+      "link": "https://www.yna.co.kr/view/AKR20261027179100007",
+      "first_seen_at": 1793110128,
+      "last_seen_at": 1793110128,
+      "samples": [
+        {
+          "at": 1793110128,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "dad08fb60cd1",
+      "editorial": {
+        "title": "‘돌부처’도 아들 앞에선 활짝…오승환 “아들이 시구 선배라 같이 왔다”",
+        "category": "메이저 스포츠",
+        "url": "https://www.yna.co.kr/view/AKR20261027179100007",
+        "source": "연합뉴스 현장 인터뷰·사진",
+        "kind": "article",
+        "event_key": "oh-seung-hwan-son-joint-first-pitch-interview-20261027",
+        "why": "삼성 팬 친구에게 보낼 은퇴 뒤 반전. 무표정 마무리였던 오승환이 아들을 안고 웃으며 인터뷰하고,아들이 먼저 시구한 선배라 든든했다고 농담했다.",
+        "angle": "마운드의 돌부처→아들 품에 안고 웃는 아빠…“아들이 시구 선배”",
+        "why_now": "27일 PO2 시구 후 현장 인터뷰와 사진이 새로 공개됐다. 은퇴 자체나 가족의 사생활을 새 폭로로 쓰지 않는다.",
+        "verified_at": 1793109704,
+        "published_at": 1793095774,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261027179100007",
+            "note": "실제 사진에서 아들을 안고 활짝 웃는 오승환,이어 인터뷰 중 바닥에서 팔을 벌린 아들을 확인. “시구 선배라 같이 올라갔다”“패대기 안 쳐 다행”은 현장 본문 인용 대조. 투구 연속 동작 영상은 미시청."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://img5.yna.co.kr/etc/inner/KR/2026/10/27/AKR20261027179100007_01_i_P4.jpg",
+            "label": "아들 안고 웃는 현장 사진",
+            "kind": "image"
+          },
+          {
+            "url": "https://img6.yna.co.kr/etc/inner/KR/2026/10/27/AKR20261027179100007_02_i_P4.jpg",
+            "label": "인터뷰 중 아들 현장 사진",
+            "kind": "image"
+          },
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261027179100007",
+            "label": "시구 후 본인 발언",
+            "kind": "source"
+          }
+        ],
+        "caution": "공개 동반 행사 사진만 사용. 아들의 투구 실력·진로를 예측하지 않음. 본문 속 투구 동작 설명을 영상 시청으로 기록하지 않음.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-27",
+          "observation": "실제 사진에서 아들을 안고 활짝 웃는 오승환,이어 인터뷰 중 바닥에서 팔을 벌린 아들을 확인. “시구 선배라 같이 올라갔다”“패대기 안 쳐 다행”은 현장 본문 인용 대조. 투구 연속 동작 영상은 미시청.",
+          "checked_materials": [
+            "https://img5.yna.co.kr/etc/inner/KR/2026/10/27/AKR20261027179100007_01_i_P4.jpg",
+            "https://img6.yna.co.kr/etc/inner/KR/2026/10/27/AKR20261027179100007_02_i_P4.jpg"
+          ],
+          "outline": [
+            "파란 유니폼 차림으로 아들을 안고 활짝 웃는 인터뷰 사진",
+            "“서준이가 나보다 시구 선배”…아들과 동반한 이유를 본문 인용",
+            "인터뷰 중 바닥에 내려온 아들 사진과 “패대기 안 쳐 다행”이라는 아빠 농담"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [
+          {
+            "url": "https://img5.yna.co.kr/etc/inner/KR/2026/10/27/AKR20261027179100007_01_i_P4.jpg",
+            "label": "아들 안고 웃는 현장 사진",
+            "kind": "image"
+          },
+          {
+            "url": "https://img6.yna.co.kr/etc/inner/KR/2026/10/27/AKR20261027179100007_02_i_P4.jpg",
+            "label": "인터뷰 중 아들 현장 사진",
+            "kind": "image"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "아들 안고 웃는 현장 사진",
+            "url": "https://img5.yna.co.kr/etc/inner/KR/2026/10/27/AKR20261027179100007_01_i_P4.jpg"
+          },
+          {
+            "label": "인터뷰 중 아들 현장 사진",
+            "url": "https://img6.yna.co.kr/etc/inner/KR/2026/10/27/AKR20261027179100007_02_i_P4.jpg"
+          },
+          {
+            "label": "시구 후 본인 발언",
+            "url": "https://www.yna.co.kr/view/AKR20261027179100007"
+          }
+        ],
+        "excerpt": "",
+        "context": "27일 PO2 시구 후 현장 인터뷰와 사진이 새로 공개됐다. 은퇴 자체나 가족의 사생활을 새 폭로로 쓰지 않는다.",
+        "fetched_at": 1793110128,
+        "parser_revision": 7
+      },
+      "curation_event_key": "oh-seung-hwan-son-joint-first-pitch-interview-20261027"
+    },
+    "408b993cd86d": {
+      "source": "연합뉴스 PO2 현장 취재",
+      "title": "수비 걱정한42세 최형우가 보살…동료는 공을 기념구처럼 건넸다",
+      "link": "https://www.yna.co.kr/view/AKR20261027186800007",
+      "first_seen_at": 1793110128,
+      "last_seen_at": 1793110128,
+      "samples": [
+        {
+          "at": 1793110128,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "408b993cd86d",
+      "editorial": {
+        "title": "수비 걱정한42세 최형우가 보살…동료는 공을 기념구처럼 건넸다",
+        "category": "메이저 스포츠",
+        "url": "https://www.yna.co.kr/view/AKR20261027186800007",
+        "source": "연합뉴스 PO2 현장 취재",
+        "kind": "article",
+        "event_key": "choi-hyoung-woo-outfield-assist-commemorative-ball-po2-20261027",
+        "why": "야구 친구에게 보낼 걱정의 반전. 좌익수 수비를 우려하던 베테랑이 주자를2루에서 잡자 투수는 펄쩍 뛰고 동료는 공을 기념구처럼 돌려줬다.",
+        "angle": "“수비 과소평가” 감독 말→펜스 플레이·2루 보살→기념구 장난",
+        "why_now": "27일 PO2에서 나온 보살과 동료 반응,경기 후 취재를 확인. 최고령 기록만으로 고른 소재가 아니다.",
+        "verified_at": 1793109704,
+        "published_at": 1793106137,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261027186800007",
+            "note": "현장 본문에서6회 카스트로 펜스 직격 타구를 잡아2루 송구·아웃,후라도의 기쁨과 류지혁이 공을 기념구처럼 건넨 반응을 확인. 경기 전 수비 우려·감독 답변·8대3 승리 맥락을 대조."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261027186800007",
+            "label": "취재 본문·확인 근거",
+            "kind": "source"
+          }
+        ],
+        "caution": "동작·반응은 현장 기사 본문 대조,영상 미시청. 연속 프레임 관찰로 쓰지 않음. 기록·통상 스코어보다 구체 반전 중심.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-27",
+          "observation": "현장 본문에서6회 카스트로 펜스 직격 타구를 잡아2루 송구·아웃,후라도의 기쁨과 류지혁이 공을 기념구처럼 건넨 반응을 확인. 경기 전 수비 우려·감독 답변·8대3 승리 맥락을 대조.",
+          "checked_materials": [],
+          "outline": [
+            "좌익수 기용에 쏟아진 걱정과 감독의 “과소평가” 답변",
+            "6회 펜스 직격 타구 처리 뒤2루에서 카스트로 아웃",
+            "후라도는 펄쩍,류지혁은 기념구처럼 공 전달…수비 걱정을 뒤집은 결과"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "취재 본문·확인 근거",
+            "url": "https://www.yna.co.kr/view/AKR20261027186800007"
+          }
+        ],
+        "excerpt": "",
+        "context": "27일 PO2에서 나온 보살과 동료 반응,경기 후 취재를 확인. 최고령 기록만으로 고른 소재가 아니다.",
+        "fetched_at": 1793110128,
+        "parser_revision": 7
+      },
+      "curation_event_key": "choi-hyoung-woo-outfield-assist-commemorative-ball-po2-20261027"
+    },
+    "9b059986635e": {
+      "source": "연합뉴스 레고랜드 공판 취재",
+      "title": "도의회 볼 레고랜드 협약서 일부 삭제…최문순 “제가 명확히 지시”",
+      "link": "https://www.yna.co.kr/view/AKR20261027183200062",
+      "first_seen_at": 1793110128,
+      "last_seen_at": 1793110128,
+      "samples": [
+        {
+          "at": 1793110128,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "9b059986635e",
+      "editorial": {
+        "title": "도의회 볼 레고랜드 협약서 일부 삭제…최문순 “제가 명확히 지시”",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261027183200062",
+        "source": "연합뉴스 레고랜드 공판 취재",
+        "kind": "article",
+        "event_key": "choi-moon-soon-legoland-redacted-agreement-court-admission-20261027",
+        "why": "세금·행정 문제 얘기하는 친구에게 보낼 공개와 비밀의 충돌. 도의회에 보여줄 문서를 누가 지웠냐는 질문에 전 지사가 직접 지시했다고 법정에서 답했다.",
+        "angle": "“누가 삭제 지시?”→“제가 명확히”…비밀유지 의무라는 해명",
+        "why_now": "27일 공판에서 처음 확인한 직접 지시 진술과 해명이다.2018년 협약·2020년 논란을 오늘 새 사건으로 바꾸지 않는다.",
+        "verified_at": 1793109704,
+        "published_at": 1793099519,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261027183200062",
+            "note": "27일 증인신문 본문에서 도의회 열람용 MDA 일부 삭제를 본인이 지시했다는 진술,비밀유지 조항 때문이라는 설명,30.8%→3% 임대수익률 누락 쟁점을 확인. 기소 혐의와 법정 주장·확정 판결을 구분했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261027183200062",
+            "label": "취재 본문·확인 근거",
+            "kind": "source"
+          }
+        ],
+        "caution": "직접 지시는 본인 진술,배임·손실 혐의의 유죄 확정 아님. 과거 협약과27일 새 법정 답변을 구분.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-27",
+          "observation": "27일 증인신문 본문에서 도의회 열람용 MDA 일부 삭제를 본인이 지시했다는 진술,비밀유지 조항 때문이라는 설명,30.8%→3% 임대수익률 누락 쟁점을 확인. 기소 혐의와 법정 주장·확정 판결을 구분했다.",
+          "checked_materials": [],
+          "outline": [
+            "도의회 열람용 협약에서 불리한 내용이 빠진 경위에 대한 검사 질문",
+            "최문순 “제가 명확히 지시”…비밀유지협약을 지키려 했다는 설명",
+            "수익률 삭감·800억원 지급 문제와 아직 진행 중인 재판"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "취재 본문·확인 근거",
+            "url": "https://www.yna.co.kr/view/AKR20261027183200062"
+          }
+        ],
+        "excerpt": "",
+        "context": "27일 공판에서 처음 확인한 직접 지시 진술과 해명이다.2018년 협약·2020년 논란을 오늘 새 사건으로 바꾸지 않는다.",
+        "fetched_at": 1793110128,
+        "parser_revision": 7
+      },
+      "curation_event_key": "choi-moon-soon-legoland-redacted-agreement-court-admission-20261027"
+    },
+    "52d78ff4c561": {
+      "source": "연합뉴스·청주흥덕경찰서",
+      "title": "운전석에서 잠든 사람 깨웠다가…행인 매단 채200m 달린 음주차량",
+      "link": "https://www.yna.co.kr/view/AKR20261027186000064",
+      "first_seen_at": 1793110128,
+      "last_seen_at": 1793110128,
+      "samples": [
+        {
+          "at": 1793110128,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "52d78ff4c561",
+      "editorial": {
+        "title": "운전석에서 잠든 사람 깨웠다가…행인 매단 채200m 달린 음주차량",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261027186000064",
+        "source": "연합뉴스·청주흥덕경찰서",
+        "kind": "article",
+        "event_key": "cheongju-drunk-driver-drags-waking-passerby-200m-disclosure-20261027",
+        "why": "동네 단톡방에 보낼 황당한 도주. 멈춘 차에서 자던 운전자를 깨운 행인이 오히려 차량에 매달린 채 끌려가 다쳤다는 경찰 사건이다.",
+        "angle": "갓길 운전석에서 잠듦→깨우던 행인 매달고 질주→신고·추적 체포",
+        "why_now": "사건은25일21시30분,27일 경찰 입건·피해 경위가 새로 공개됐다. 기존 수원 음주 제지 시민 사건과 지역·피해자가 다르다.",
+        "verified_at": 1793109704,
+        "published_at": 1793104008,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261027186000064",
+            "note": "본문에서 청주 봉명동 정차 차량 운전석에서 잠든40대,깨우던30대 행인을 매단 채 약200m 주행,부상·신고·경찰 추적 현행범 체포를 확인. 기사 동기 인용에는 인물 표기 혼선이 있어 재인용하지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261027186000064",
+            "label": "취재 본문·확인 근거",
+            "kind": "source"
+          }
+        ],
+        "caution": "혐의 단계.27일 수사 공개,사건25일. 기사 속 진술 주체 표기 혼선으로 동기 인용 제외. 현장 영상 미시청.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-25",
+          "observation": "본문에서 청주 봉명동 정차 차량 운전석에서 잠든40대,깨우던30대 행인을 매단 채 약200m 주행,부상·신고·경찰 추적 현행범 체포를 확인. 기사 동기 인용에는 인물 표기 혼선이 있어 재인용하지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "25일 밤 청주 도로 갓길 차 안에서 잠든 운전자",
+            "깨우던 행인이 차량에 매달린 채 약200m 끌려간 경위",
+            "행인 부상·신고 뒤 경찰 추적 체포…별도 수원 사건과 분리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "취재 본문·확인 근거",
+            "url": "https://www.yna.co.kr/view/AKR20261027186000064"
+          }
+        ],
+        "excerpt": "",
+        "context": "사건은25일21시30분,27일 경찰 입건·피해 경위가 새로 공개됐다. 기존 수원 음주 제지 시민 사건과 지역·피해자가 다르다.",
+        "fetched_at": 1793110128,
+        "parser_revision": 7
+      },
+      "curation_event_key": "cheongju-drunk-driver-drags-waking-passerby-200m-disclosure-20261027"
+    },
+    "01865f17240f": {
+      "source": "연합뉴스 외통위 국감 취재",
+      "title": "“통폐합해도 고용 보장”이라더니12명 미고용…이젠 다른 기관 우선채용 협의",
+      "link": "https://www.yna.co.kr/view/AKR20261027187900371",
+      "first_seen_at": 1793110128,
+      "last_seen_at": 1793110128,
+      "samples": [
+        {
+          "at": 1793110128,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "01865f17240f",
+      "editorial": {
+        "title": "“통폐합해도 고용 보장”이라더니12명 미고용…이젠 다른 기관 우선채용 협의",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261027187900371",
+        "source": "연합뉴스 외통위 국감 취재",
+        "kind": "article",
+        "event_key": "overseas-korean-center-staff-unemployed-priority-hiring-hearing-20261027",
+        "why": "구조조정 겪는 직장인에게 보낼 약속과 현실의 간극. 고용승계용37자리 시험에437명이 몰려 기존 직원들이 떨어졌고,청장은 다른 기관 우선채용을 협의한다고 했다.",
+        "angle": "37명 고용승계용37자리→외부 지원 포함437명→남은12명 다른기관 협의",
+        "why_now": "27일 국감에서 최종 미고용12명과 KOICA·적십자사 등 협의 방침이 공개됐다. 과거 통합 자체의 단순 재보도가 아니다.",
+        "verified_at": 1793109751,
+        "published_at": 1793106882,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261027187900371",
+            "note": "본문에서 센터 직원 수에 맞춘37개 경력채용 직위·응시제한 없어437명 지원,최종 미고용12명,공무직 제안에 지원자 없었다는 설명,다른 공공기관 우선채용 협의 답변을 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261027187900371",
+            "label": "취재 본문·확인 근거",
+            "kind": "source"
+          }
+        ],
+        "caution": "새 일자리 확보·채용 확정 아님. 청장 설명과 의원 지적을 구분. 탈락 직원의 능력·사정 추측 금지.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-27",
+          "observation": "본문에서 센터 직원 수에 맞춘37개 경력채용 직위·응시제한 없어437명 지원,최종 미고용12명,공무직 제안에 지원자 없었다는 설명,다른 공공기관 우선채용 협의 답변을 확인.",
+          "checked_materials": [],
+          "outline": [
+            "통폐합해도 일자리·처우를 지키겠다는 정부 약속",
+            "고용승계용37자리 공개경쟁에437명 지원…기존 직원 미고용",
+            "청장 “공무직 제안에 지원 없었다”…타기관 우선채용 협의 중"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "취재 본문·확인 근거",
+            "url": "https://www.yna.co.kr/view/AKR20261027187900371"
+          }
+        ],
+        "excerpt": "",
+        "context": "27일 국감에서 최종 미고용12명과 KOICA·적십자사 등 협의 방침이 공개됐다. 과거 통합 자체의 단순 재보도가 아니다.",
+        "fetched_at": 1793110128,
+        "parser_revision": 7
+      },
+      "curation_event_key": "overseas-korean-center-staff-unemployed-priority-hiring-hearing-20261027"
+    },
+    "6066b17e5d50": {
+      "source": "OSEN·키즈웍스 입장문 전문",
+      "title": "헤이지니 전 직원 노동착취 폭로…회사 “연봉25% 인상,산재도 도왔다”",
+      "link": "https://osen.co.kr/article/G1112899145",
+      "first_seen_at": 1793110128,
+      "last_seen_at": 1793110128,
+      "samples": [
+        {
+          "at": 1793110128,
+          "views": null,
+          "reactions": null,
+          "rank": 8,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "6066b17e5d50",
+      "editorial": {
+        "title": "헤이지니 전 직원 노동착취 폭로…회사 “연봉25% 인상,산재도 도왔다”",
+        "category": "시사",
+        "url": "https://osen.co.kr/article/G1112899145",
+        "source": "OSEN·키즈웍스 입장문 전문",
+        "kind": "article",
+        "event_key": "heyjini-kidsworks-labor-allegations-official-rebuttal-20261027",
+        "why": "회사·크리에이터 업계 친구에게 보낼 정면 충돌. 과로·처우 폭로에 제작사는 연봉 인상·휴직 상여·노무사 소개를 들며 사실관계가 다르다고 반박했다.",
+        "angle": "전 직원 폭로→회사는 근무기간·25% 인상·산재 지원 내역 제시",
+        "why_now": "27일 키즈웍스가 공개한 새 공식 입장문 전문을 대조했다. 과거 근무 시기와 오늘 반박 공개를 구분한다.",
+        "verified_at": 1793109865,
+        "published_at": 1793087520,
+        "evidence": [
+          {
+            "url": "https://osen.co.kr/article/G1112899145",
+            "note": "공식 입장문 전문에서2017년9월~2018년12월 근무·2019년 휴직 중 퇴사라는 사측 설명,연봉25% 인상·상여·보증금 지원 주장,산재 신청을 막지 않고 노무사를 소개했다는 반박을 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://osen.co.kr/article/G1112899145",
+            "label": "취재 본문·확인 근거",
+            "kind": "source"
+          }
+        ],
+        "caution": "양측 주장 대립이며 계약·급여명세·산재 기록 독립 확인 전. 회사 입장문 공개를 의혹 해소·노동법 위반 확정으로 쓰지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-27",
+          "observation": "공식 입장문 전문에서2017년9월~2018년12월 근무·2019년 휴직 중 퇴사라는 사측 설명,연봉25% 인상·상여·보증금 지원 주장,산재 신청을 막지 않고 노무사를 소개했다는 반박을 확인.",
+          "checked_materials": [],
+          "outline": [
+            "과거 전 직원의 과로·처우 문제 제기라는 배경",
+            "회사가 제시한 근무기간·연봉 인상·휴직 중 지원 주장",
+            "산재 방해는 없었다는 입장과 당사자가 원하면 대화하겠다는 제안"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "취재 본문·확인 근거",
+            "url": "https://osen.co.kr/article/G1112899145"
+          }
+        ],
+        "excerpt": "",
+        "context": "27일 키즈웍스가 공개한 새 공식 입장문 전문을 대조했다. 과거 근무 시기와 오늘 반박 공개를 구분한다.",
+        "fetched_at": 1793110128,
+        "parser_revision": 7
+      },
+      "curation_event_key": "heyjini-kidsworks-labor-allegations-official-rebuttal-20261027"
+    },
+    "542502d5ea31": {
+      "source": "연합뉴스·병원·노조 발표",
+      "title": "내일부터 전면 파업 예고했던 서울대병원…밤9시 잠정합의",
+      "link": "https://www.yna.co.kr/view/AKR20261027187300530",
+      "first_seen_at": 1793110128,
+      "last_seen_at": 1793110128,
+      "samples": [
+        {
+          "at": 1793110128,
+          "views": null,
+          "reactions": null,
+          "rank": 9,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "542502d5ea31",
+      "editorial": {
+        "title": "내일부터 전면 파업 예고했던 서울대병원…밤9시 잠정합의",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261027187300530",
+        "source": "연합뉴스·병원·노조 발표",
+        "kind": "article",
+        "event_key": "seoul-national-university-hospital-strike-eve-tentative-deal-20261027",
+        "why": "병원 예약 있는 가족에게 보낼 막판 변화. 파업 하루 전 밤에 간호인력 충원·임금 등을 잠정 합의해 당장 진료 불안과 연결되는 결과가 나왔다.",
+        "angle": "28일 전면 파업 예고→27일21시 가조인…인력 충원 등 잠정합의",
+        "why_now": "27일21시 합의와 가조인식이 새 사실. 이전 파업 예고·쟁의투표와 오늘 결과를 분리했다.",
+        "verified_at": 1793109751,
+        "published_at": 1793105414,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261027187300530",
+            "note": "본문에서27일21시 가조인식,총액임금3.5% 인상·근로조건 개선·간호인력 충원·의료공공성 노력 항목을 확인. 노조가28일 전면파업을 예고했던 배경과 잠정합의 상태를 구분했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261027187300530",
+            "label": "취재 본문·확인 근거",
+            "kind": "source"
+          }
+        ],
+        "caution": "잠정합의이며 최종 인준·개별 예약 정상진료를 보장하지 않음. 임금 수치만으로 고른 소재가 아니라 파업 직전 변화 중심.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-27",
+          "observation": "본문에서27일21시 가조인식,총액임금3.5% 인상·근로조건 개선·간호인력 충원·의료공공성 노력 항목을 확인. 노조가28일 전면파업을 예고했던 배경과 잠정합의 상태를 구분했다.",
+          "checked_materials": [],
+          "outline": [
+            "28일부터 전면 파업을 예고했던 서울대병원 노조",
+            "하루 전 밤9시 병원·노조 잠정합의와 가조인",
+            "간호인력 충원·근로조건 개선 항목…개별 진료는 병원 안내 확인"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "취재 본문·확인 근거",
+            "url": "https://www.yna.co.kr/view/AKR20261027187300530"
+          }
+        ],
+        "excerpt": "",
+        "context": "27일21시 합의와 가조인식이 새 사실. 이전 파업 예고·쟁의투표와 오늘 결과를 분리했다.",
+        "fetched_at": 1793110128,
+        "parser_revision": 7
+      },
+      "curation_event_key": "seoul-national-university-hospital-strike-eve-tentative-deal-20261027"
+    },
+    "8ff2105ef602": {
+      "source": "연합뉴스 법조 취재",
+      "title": "삼성 EUV 기술 빼돌린 혐의…대학 산학협력단 연구원 불구속기소",
+      "link": "https://www.yna.co.kr/view/AKR20261027180900004",
+      "first_seen_at": 1793110128,
+      "last_seen_at": 1793110128,
+      "samples": [
+        {
+          "at": 1793110128,
+          "views": null,
+          "reactions": null,
+          "rank": 11,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "8ff2105ef602",
+      "editorial": {
+        "title": "삼성 EUV 기술 빼돌린 혐의…대학 산학협력단 연구원 불구속기소",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261027180900004",
+        "source": "연합뉴스 법조 취재",
+        "kind": "article",
+        "event_key": "samsung-euv-former-employee-university-researcher-indictment-20261027",
+        "why": "반도체·연구직 친구에게 보낼 기술 보안 사건. 삼성 재직 때 핵심 공정 정보를 유출한 혐의로 대학 산학협력단 연구원이 재판을 받게 됐다.",
+        "angle": "삼성 재직 때 EUV 핵심정보 유출 혐의→구속영장 기각 뒤 불구속기소",
+        "why_now": "26일 기소를27일 법조 취재로 공개했다. 기술 유출 발생일 자체는 기사에서 특정하지 않아 만들어 쓰지 않는다.",
+        "verified_at": 1793109704,
+        "published_at": 1793096745,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261027180900004",
+            "note": "본문에서 대학 산학협력단 연구원의 삼성 재직 당시 EUV 노광 공정 핵심 기술 유출 혐의,산업기술보호법 위반 불구속기소,앞선 구속영장 기각을 확인. 해외 수신자·금액·유죄 판단은 미공개."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261027180900004",
+            "label": "취재 본문·확인 근거",
+            "kind": "source"
+          }
+        ],
+        "caution": "예비. 기소 혐의이며 유죄 확정 아님. 유출 상대·손실액·발생일은 미확인. 영장 기각을 무혐의로 쓰지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-26",
+          "observation": "본문에서 대학 산학협력단 연구원의 삼성 재직 당시 EUV 노광 공정 핵심 기술 유출 혐의,산업기술보호법 위반 불구속기소,앞선 구속영장 기각을 확인. 해외 수신자·금액·유죄 판단은 미공개.",
+          "checked_materials": [],
+          "outline": [
+            "삼성전자 재직 중 다뤘던 EUV 핵심 공정 정보라는 배경",
+            "현재 대학 산학협력단 연구원인 인물의 무단 유출 혐의",
+            "구속영장 기각 뒤26일 불구속기소…이제 법정 판단 단계"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "취재 본문·확인 근거",
+            "url": "https://www.yna.co.kr/view/AKR20261027180900004"
+          }
+        ],
+        "excerpt": "",
+        "context": "26일 기소를27일 법조 취재로 공개했다. 기술 유출 발생일 자체는 기사에서 특정하지 않아 만들어 쓰지 않는다.",
+        "fetched_at": 1793110128,
+        "parser_revision": 7
+      },
+      "curation_event_key": "samsung-euv-former-employee-university-researcher-indictment-20261027"
+    },
     "22660cb0c24b": {
       "source": "연합뉴스 베이징 특파원",
       "title": "가장 웃긴 밈 물었더니 “중국 독재자”…음바페 中광고 줄줄이 취소",
@@ -720,78 +1568,6 @@
         "parser_revision": 7
       },
       "curation_event_key": "ulju-wildlife-capture-unpaid-bounties-audit-disclosure-20261027"
-    },
-    "9d778b13e68d": {
-      "source": "연합뉴스·카카오 직접 답변",
-      "title": "카카오 면접 먼저 보는 건 AI? 회사 “채용 담당자가 참고해 검토”",
-      "link": "https://www.yna.co.kr/view/AKR20261027179000017",
-      "first_seen_at": 1793099541,
-      "last_seen_at": 1793099541,
-      "samples": [
-        {
-          "at": 1793099541,
-          "views": null,
-          "reactions": null,
-          "rank": 11,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "9d778b13e68d",
-      "editorial": {
-        "title": "카카오 면접 먼저 보는 건 AI? 회사 “채용 담당자가 참고해 검토”",
-        "category": "시사",
-        "url": "https://www.yna.co.kr/view/AKR20261027179000017",
-        "source": "연합뉴스·카카오 직접 답변",
-        "kind": "article",
-        "event_key": "kakao-ai-preinterview-personality-test-preparation-20261027",
-        "why": "취업 준비하는 친구에게 보낼 면접 문턱의 변화. 개인정보 위탁업체에 AI면접 회사를 추가했지만 회사는 AI가 최종 채용을 정하는 방식은 아니라고 설명했다.",
-        "angle": "AI 사전 인터뷰 준비→별도 면접 추가 아님…사람이 참고해 검토",
-        "why_now": "27일 개인정보 처리방침 개정과 회사 설명을 취재한 새 보도. 실제 전면 시행일·자동 탈락제 도입으로 쓰지 않는다.",
-        "verified_at": 1793099212,
-        "published_at": 1793095765,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261027179000017",
-            "note": "본문에서 무하유·ORP연구소의 위탁업체 추가,AI 사전 인터뷰·인성검사 준비,별도 평가절차 추가 없이 담당자가 참고해 검토할 계획이라는 회사 답변을 확인. 적용 일정은 향후 공고 예정이다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261027179000017",
-            "label": "취재 본문·확인 근거",
-            "kind": "source"
-          }
-        ],
-        "caution": "예비. 도입 준비 단계이며 AI 단독 합불 판정·전면 시행을 확인한 것은 아님. 실제 개인정보 내용을 읽지 않음.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-27",
-          "observation": "본문에서 무하유·ORP연구소의 위탁업체 추가,AI 사전 인터뷰·인성검사 준비,별도 평가절차 추가 없이 담당자가 참고해 검토할 계획이라는 회사 답변을 확인. 적용 일정은 향후 공고 예정이다.",
-          "checked_materials": [],
-          "outline": [
-            "카카오 개인정보 처리방침에 추가된 AI면접·인성검사 위탁업체",
-            "기존 일부 사전 인터뷰 단계에 AI를 쓰려는 회사 설명",
-            "AI 자동 채용 확정 아님…구체 적용 시기는 향후 공고"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "취재 본문·확인 근거",
-            "url": "https://www.yna.co.kr/view/AKR20261027179000017"
-          }
-        ],
-        "excerpt": "",
-        "context": "27일 개인정보 처리방침 개정과 회사 설명을 취재한 새 보도. 실제 전면 시행일·자동 탈락제 도입으로 쓰지 않는다.",
-        "fetched_at": 1793099541,
-        "parser_revision": 7
-      },
-      "curation_event_key": "kakao-ai-preinterview-personality-test-preparation-20261027"
     },
     "dde5d5240b93": {
       "source": "연합뉴스 수사 취재",
@@ -25279,775 +26055,7 @@
         "parser_revision": 7
       },
       "curation_event_key": "knicks-sixers-opener-ticket-price-record-20261020"
-    },
-    "f27941845041": {
-      "source": "파이낸셜뉴스·스타뉴스",
-      "title": "잠실 최상단에 꽂힌 김도영 만루포…25년 전 우즈 기록과 나란히",
-      "link": "https://www.fnnews.com/news/202610201933137045",
-      "first_seen_at": 1792502725,
-      "last_seen_at": 1792502725,
-      "samples": [
-        {
-          "at": 1792502725,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "f27941845041",
-      "editorial": {
-        "title": "잠실 최상단에 꽂힌 김도영 만루포…25년 전 우즈 기록과 나란히",
-        "category": "메이저 스포츠",
-        "url": "https://www.fnnews.com/news/202610201933137045",
-        "source": "파이낸셜뉴스·스타뉴스",
-        "kind": "article",
-        "event_key": "kim-do-young-jamsil-grand-slam-postseason-distance-record-20261020",
-        "why": "KIA·LG 팬이 친구에게 같은 잠실에서 25년 전 기록과 맞먹은 만루포와 3-0→7-0 변화를 보여줄 수 있다.",
-        "angle": "확인한 김도영 포효 사진에 ‘PS 최장 타이 145m’를 놓고 트랙맨 145.8m와 공식 기록을 구분한다.",
-        "why_now": "20일 준PO 3차전 2회초 나온 만루포로, 오늘 19:27 현장 보도와 19:38 한국어 원문에서 기록과 사진을 확인했다.",
-        "verified_at": 1792502653,
-        "published_at": 1792492020,
-        "evidence": [
-          {
-            "url": "https://www.fnnews.com/news/202610201933137045",
-            "note": "20일19:38 한국어 본문: 공식 145m는 2000년 계측 이후 PS 최장 타이·준PO 최장, 트랙맨 145.8m는 별도 수치."
-          },
-          {
-            "url": "https://www.starnewskorea.com/sports/2026/10/20/2026102018003923961",
-            "note": "19:27 현장 본문: 2회초 1사 만루 홈런으로 3-0→7-0. 종전 PS 기록은 2001년 타이론 우즈; 번역문에 이름 오류가 있어 한국어 원문을 확인."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://image.fnnews.com/resource/media/image/2026/10/20/202610201931159465_l.jpg",
-            "label": "20일 만루포 뒤 포효 사진",
-            "kind": "image"
-          }
-        ],
-        "caution": "영상·배트 투척·타구 연속 프레임은 미시청. 공식 비거리 145m와 트랙맨145.8m를 혼용하지 않고 최종 승패는 별도 확인한다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-20",
-          "observation": "2회초 만루 홈런으로 KIA가 3-0에서 7-0으로 벌렸고, 공식145m가 2000년 이후 PS 최장 타이로 보도됐다. 당일 현장 사진에서 김도영이 양 주먹을 쥐고 포효하는 모습을 실제 확인했다.",
-          "checked_materials": [
-            "https://image.fnnews.com/resource/media/image/2026/10/20/202610201931159465_l.jpg"
-          ],
-          "outline": [
-            "확인한 포효 사진 + ‘25년 전 PS 최장 기록과 타이’",
-            "2회초 1사 만루, 3-0→7-0이라는 확인된 변화",
-            "공식145m·트랙맨145.8m를 분리하고 2001년 우즈145m와 비교"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [
-          {
-            "url": "https://image.fnnews.com/resource/media/image/2026/10/20/202610201931159465_l.jpg",
-            "label": "20일 만루포 뒤 포효 사진",
-            "kind": "image"
-          }
-        ],
-        "source_links": [
-          {
-            "label": "20일 만루포 뒤 포효 사진",
-            "url": "https://image.fnnews.com/resource/media/image/2026/10/20/202610201931159465_l.jpg"
-          }
-        ],
-        "excerpt": "",
-        "context": "20일 준PO 3차전 2회초 나온 만루포로, 오늘 19:27 현장 보도와 19:38 한국어 원문에서 기록과 사진을 확인했다.",
-        "fetched_at": 1792502725,
-        "parser_revision": 7
-      },
-      "curation_event_key": "kim-do-young-jamsil-grand-slam-postseason-distance-record-20261020"
-    },
-    "4de9a5a10fe9": {
-      "source": "맨체스터 유나이티드 공식",
-      "title": "코모 원정 앞둔 맨유, 훈련장에 8명 없었다…요로는 별도 징계",
-      "link": "https://www.manutd.com/en/news/training-update-from-carrington",
-      "first_seen_at": 1792502725,
-      "last_seen_at": 1792502725,
-      "samples": [
-        {
-          "at": 1792502725,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "official",
-      "story_id": "4de9a5a10fe9",
-      "editorial": {
-        "title": "코모 원정 앞둔 맨유, 훈련장에 8명 없었다…요로는 별도 징계",
-        "category": "축구",
-        "url": "https://www.manutd.com/en/news/training-update-from-carrington",
-        "source": "맨체스터 유나이티드 공식",
-        "kind": "official",
-        "event_key": "man-utd-eight-absent-training-before-como-20261020",
-        "why": "맨유 팬이 친구에게 코모전에서 수비·공격 선택지가 왜 좁아졌는지 공식 명단으로 설명할 수 있다.",
-        "angle": "구단이 밝힌 훈련 불참 8명과 별도 유럽대항전 징계 중인 요로를 나눠 놓고 ‘전원 결장 확정’과 구분한다.",
-        "why_now": "20일 영국 오전 공개 훈련 뒤 구단이 올린 새 공지를 직접 읽었다. 화면은 확인 시점 ‘3시간 전’이며 이전 리즈전 결과를 새 사건으로 바꾼 것이 아니다.",
-        "verified_at": 1792501785,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.manutd.com/en/news/training-update-from-carrington",
-            "note": "공식 본문 직접 확인: 헤븐·쇼·마르티네스·마이누·래시퍼드·셰슈코가 없었고 도르구·우가르테도 이탈 중. 요로는 유럽대항전 1경기 징계. 코모전 전원 결장은 확정하지 않았다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.manutd.com/en/news/training-update-from-carrington",
-            "label": "20일 공식 훈련 업데이트",
-            "kind": "source"
-          }
-        ],
-        "caution": "훈련 불참과 원정 제외·경기 결장을 동일시하지 않는다. 영상은 시청하지 않았고 회견은 영국18:30 예정으로 아직 확인 전이다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-20",
-          "observation": "구단은 코모전 전날 20일 공개 훈련에서 6명의 부재와 도르구·우가르테의 이탈을 알렸다. 수비수 요로는 별도로 유럽대항전 1경기 징계이며 유소년 아머·카마손이 훈련에 합류했다.",
-          "checked_materials": [],
-          "outline": [
-            "구단 발표에 근거한 ‘훈련 불참8명’과 ‘요로 징계’를 분리한 명단 카드",
-            "부상·질병·장기 이탈 등 본문에서 확인되는 사유만 구분",
-            "아머·카마손 합류와 코모전 일정, 경기 결장 전원 확정은 아니라는 주의"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "20일 공식 훈련 업데이트",
-            "url": "https://www.manutd.com/en/news/training-update-from-carrington"
-          }
-        ],
-        "excerpt": "",
-        "context": "20일 영국 오전 공개 훈련 뒤 구단이 올린 새 공지를 직접 읽었다. 화면은 확인 시점 ‘3시간 전’이며 이전 리즈전 결과를 새 사건으로 바꾼 것이 아니다.",
-        "fetched_at": 1792502725,
-        "parser_revision": 7
-      },
-      "curation_event_key": "man-utd-eight-absent-training-before-como-20261020"
-    },
-    "1f0f455689df": {
-      "source": "강원도민일보·연합뉴스",
-      "title": "KTX ‘예약 매크로’ 글 지운 AI전략위원…‘조회만 했다’ 해명",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2079306",
-      "first_seen_at": 1792502725,
-      "last_seen_at": 1792502725,
-      "samples": [
-        {
-          "at": 1792502725,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "1f0f455689df",
-      "editorial": {
-        "title": "KTX ‘예약 매크로’ 글 지운 AI전략위원…‘조회만 했다’ 해명",
-        "category": "시사",
-        "url": "https://www.kado.net/news/articleView.html?idxno=2079306",
-        "source": "강원도민일보·연합뉴스",
-        "kind": "article",
-        "event_key": "ai-strategy-committee-ktx-macro-deleted-post-clarification-20261020",
-        "why": "KTX 예매에 실패해 본 이용자가 친구에게 예약 공정성 문제와 당사자 해명을 함께 전달할 이유가 있다.",
-        "angle": "첫 장에 SNS의 ‘예약하기’ 표현과 ‘예약한 적 없다’는 해명을 나란히 놓고 확인된 범위를 구분한다.",
-        "why_now": "20일16:47 원송고에서 확인했던 당일 전화 해명을 독립 보도 본문으로 재확인했다. 몇 달 전 도구 제작이나 재게시 시각을 새 사실로 바꾸지 않는다.",
-        "verified_at": 1792502653,
-        "published_at": 1792482420,
-        "evidence": [
-          {
-            "url": "https://www.kado.net/news/articleView.html?idxno=2079306",
-            "note": "20일 공개된 독립 보도 본문 재확인: 매크로 글 삭제와 ‘좌석 체크만, 예약은 안 했다’는 해명. 화면 상단18:10 발행일은 기사 최초 공개 시각으로 쓰지 않는다."
-          },
-          {
-            "url": "https://www.yna.co.kr/amp/view/AKR20261020138500017",
-            "note": "앞선18시 원문 검토에서16:47 송고와 당일 전화 해명을 확인한 기록을 재사용. 이번 연합뉴스 재접근은 실패했으며 현재 사실은 독립 보도 본문에서 다시 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.kado.net/news/articleView.html?idxno=2079306",
-            "label": "매크로 글·삭제·해명 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "실제 예약·부정 예매·위법이 입증됐다고 쓰지 않는다. 미확인 SNS 캡처를 만들어 넣지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-20",
-          "observation": "공공 교통 예매 도구를 만들었다는 국가AI전략위원의 글이 삭제됐고 당사자는 20일 취재에 좌석 조회용이며 예약은 하지 않았다고 밝혔다. 예매 사용·규정 위반은 미확인이다.",
-          "checked_materials": [],
-          "outline": [
-            "‘예약하기’라는 SNS 표현 ↔ ‘예약한 적 없다’는 당일 해명을 글자로 대비",
-            "도구 제작·글 삭제·20일 전화 해명을 순서대로 정리",
-            "확인된 것은 좌석 조회 주장, 실제 예매·위반 여부는 미확인이라고 명시"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "매크로 글·삭제·해명 원문",
-            "url": "https://www.kado.net/news/articleView.html?idxno=2079306"
-          }
-        ],
-        "excerpt": "",
-        "context": "20일16:47 원송고에서 확인했던 당일 전화 해명을 독립 보도 본문으로 재확인했다. 몇 달 전 도구 제작이나 재게시 시각을 새 사실로 바꾸지 않는다.",
-        "fetched_at": 1792502725,
-        "parser_revision": 7
-      },
-      "curation_event_key": "ai-strategy-committee-ktx-macro-deleted-post-clarification-20261020"
-    },
-    "ba9ec01803bd": {
-      "source": "뉴스핌·동아일보",
-      "title": "삼전·하이닉스도 못 버텼다…코스피 3.73% 급락, 6개월여 최저",
-      "link": "https://www.newspim.com/news/view/20261020000964",
-      "first_seen_at": 1792502725,
-      "last_seen_at": 1792502725,
-      "samples": [
-        {
-          "at": 1792502725,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "ba9ec01803bd",
-      "editorial": {
-        "title": "삼전·하이닉스도 못 버텼다…코스피 3.73% 급락, 6개월여 최저",
-        "category": "시사",
-        "url": "https://www.newspim.com/news/view/20261020000964",
-        "source": "뉴스핌·동아일보",
-        "kind": "article",
-        "event_key": "kospi-close-5552-74-20261020",
-        "why": "삼성전자·SK하이닉스 주주가 친구에게 오늘 자신의 계좌만이 아니라 시장 전체가 얼마나 내려갔는지 보여줄 수 있다.",
-        "angle": "확인한 마감 전광판의 5,552.74·-3.73%를 첫 장에 놓고 삼전·하이닉스 하락률과 코스닥 종가를 비교한다.",
-        "why_now": "20일15:30에 확정된 종가와15:58 마감 기사 본문을 확인했다. 장중5500 하회와 종가5552.74를 구분한다.",
-        "verified_at": 1792501785,
-        "published_at": 1792479480,
-        "evidence": [
-          {
-            "url": "https://www.newspim.com/news/view/20261020000964",
-            "note": "15:58 본문:코스피5552.74(-215.27·3.73%),코스닥781.97(-3.33%),삼성전자-2.98%·SK하이닉스-4.23%. 전광판 사진에서도 양 지수와 하락률을 실제 확인."
-          },
-          {
-            "url": "https://www.donga.com/news/Economy/article/all/20261020/134875431/1",
-            "note": "16:46 본문 교차 확인:종가 기준4월7일 이후6개월여 최저. 장중5500 하회와 마감5552.74를 별도 구분. 원인 설명은 기자·전문가의 해석이다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://img.newspim.com/news/2026/10/20/261020155515459_w.jpg",
-            "label": "20일 마감 전광판 사진",
-            "kind": "image"
-          }
-        ],
-        "caution": "원인·반등·투자 수익을 단정하지 않는다. 사진 속 환율과 본문 환율의 시점이 달라 환율 수치는 카드에서 제외한다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-20",
-          "observation": "20일 코스피는215.27포인트 하락한5552.74(-3.73%)로 마감해4월7일 이후 최저가 됐다. 실제 전광판 사진에서 코스피와 코스닥781.97(-3.33%)을 읽었고 대형 반도체주 하락도 본문으로 확인했다.",
-          "checked_materials": [
-            "https://img.newspim.com/news/2026/10/20/261020155515459_w.jpg"
-          ],
-          "outline": [
-            "실제 전광판 사진 + 코스피5552.74·-3.73%",
-            "삼성전자-2.98%·SK하이닉스-4.23%·코스닥-3.33% 비교",
-            "6개월여 최저 종가라는 범위와 장중·마감 수치 차이, 전망·매수 권유 없이 마무리"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [
-          {
-            "url": "https://img.newspim.com/news/2026/10/20/261020155515459_w.jpg",
-            "label": "20일 마감 전광판 사진",
-            "kind": "image"
-          }
-        ],
-        "source_links": [
-          {
-            "label": "20일 마감 전광판 사진",
-            "url": "https://img.newspim.com/news/2026/10/20/261020155515459_w.jpg"
-          }
-        ],
-        "excerpt": "",
-        "context": "20일15:30에 확정된 종가와15:58 마감 기사 본문을 확인했다. 장중5500 하회와 종가5552.74를 구분한다.",
-        "fetched_at": 1792502725,
-        "parser_revision": 7
-      },
-      "curation_event_key": "kospi-close-5552-74-20261020"
-    },
-    "db4b9d6e273d": {
-      "source": "뉴시스·뉴스핌",
-      "title": "AI 안경 의심돼도 시험 끝난 뒤 검사…수능 새 대처요령의 딜레마",
-      "link": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833356",
-      "first_seen_at": 1792502725,
-      "last_seen_at": 1792502725,
-      "samples": [
-        {
-          "at": 1792502725,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "db4b9d6e273d",
-      "editorial": {
-        "title": "AI 안경 의심돼도 시험 끝난 뒤 검사…수능 새 대처요령의 딜레마",
-        "category": "시사",
-        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833356",
-        "source": "뉴시스·뉴스핌",
-        "kind": "article",
-        "event_key": "csat-smart-glasses-after-period-inspection-procedure-20261020",
-        "why": "수험생과 교사가 서로에게 부정행위 방지와 시험 방해 민원이 충돌하는 구체적인 검사 절차를 알려줄 수 있다.",
-        "angle": "‘의심 발견→즉시 검사가 아닌 교시 종료·문답지 수거 뒤’라는 확인 순서를 첫 장에서 보여준다.",
-        "why_now": "20일14:23 보도에서 교육부가 시도교육청에 보낸 세부 대처요령의 검사 시점을 확인했다.15일 공개된 반입 금지·응시 제한 자체의 재소개와 구분한다.",
-        "verified_at": 1792502295,
-        "published_at": 1792473805,
-        "evidence": [
-          {
-            "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833356",
-            "note": "20일14:23 본문:시험 중 의심은 즉시 확인하지 않고 종료령·문답지 수거 뒤 검사,시험 전에는 안경을 벗어 책상 위에 놓고 점검. 판단이 어려우면 다른 감독관·본부와 협의."
-          },
-          {
-            "url": "https://www.newspim.com/news/view/20261020000888",
-            "note": "15:15 본문에서 같은 검사 순서와 전교조의 판별 기준·감독관 보호 요구를 교차 확인. 단순 의심만으로 즉시 부정행위 확정이라고 쓰지 않는다."
-          },
-          {
-            "url": "https://mobile.newsis.com/view/NISX20261015_0003827660",
-            "note": "15일 유의사항 보도는 반입 금지·시험 무효·응시 제한이 중심. 이 오래된 제재를 오늘 새로 도입한 것으로 표현하지 않는다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833356",
-            "label": "20일 세부 검사 절차 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "스마트안경이 허용된다는 뜻이 아니다. 의심과 확인을 구분하고 반입금지·시험 제재를20일 새 법률로 소개하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-20",
-          "observation": "20일 공개 보도된 세부 대처요령은 시험 중 스마트안경 의심 시 관찰한 뒤 교시 종료·문답지 수거 후 확인하도록 했다. 시험 전 확인과는 절차가 다르며 교원단체는 판별 기준과 보호책을 요구했다.",
-          "checked_materials": [],
-          "outline": [
-            "의심 발견→관찰→교시 종료·문답지 수거→검사라는 실제 절차",
-            "시험 전 확인과 시험 중 의심의 처리 시점 차이",
-            "기존 제재와 구분해 설명하고,오인·미적발을 우려하는 교원단체 요구를 입장으로 명시"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "20일 세부 검사 절차 원문",
-            "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833356"
-          }
-        ],
-        "excerpt": "",
-        "context": "20일14:23 보도에서 교육부가 시도교육청에 보낸 세부 대처요령의 검사 시점을 확인했다.15일 공개된 반입 금지·응시 제한 자체의 재소개와 구분한다.",
-        "fetched_at": 1792502725,
-        "parser_revision": 7
-      },
-      "curation_event_key": "csat-smart-glasses-after-period-inspection-procedure-20261020"
-    },
-    "6100df49e598": {
-      "source": "Reuters 단독 취재",
-      "title": "로이터 “中 3사, 엔비디아 GPU 300만장 주문…납품은 불확실”",
-      "link": "https://www.reuters.com/business/retail-consumer/bytedance-alibaba-tencent-place-over-35-billion-worth-nvidia-chip-orders-2026-10-20/",
-      "first_seen_at": 1792502725,
-      "last_seen_at": 1792502725,
-      "samples": [
-        {
-          "at": 1792502725,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "6100df49e598",
-      "editorial": {
-        "title": "로이터 “中 3사, 엔비디아 GPU 300만장 주문…납품은 불확실”",
-        "category": "시사",
-        "url": "https://www.reuters.com/business/retail-consumer/bytedance-alibaba-tencent-place-over-35-billion-worth-nvidia-chip-orders-2026-10-20/",
-        "source": "Reuters 단독 취재",
-        "kind": "article",
-        "event_key": "reuters-china-three-tech-firms-rtx-pro-5500-orders-20261020",
-        "why": "엔비디아에 관심 있는 친구에게 거대한 주문 규모와 실제 납품·매출은 다르다는 점을 보여줄 수 있다.",
-        "angle": "‘300만장 넘게 주문↔물량 확보는 미정’이라는 로이터 취재 내용을 첫 장에 대비한다.",
-        "why_now": "20일18:04KST 처음 보도된 주문 규모다. 기존 수출규제나13일 별도 회사 공시를 새 사건으로 바꾸지 않는다.",
-        "verified_at": 1792502501,
-        "published_at": 1792487040,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/business/retail-consumer/bytedance-alibaba-tencent-place-over-35-billion-worth-nvidia-chip-orders-2026-10-20/",
-            "note": "복수 관계자를 인용한 단독:바이트댄스·알리바바·텐센트가300만장 넘게 주문,표시가격 합계350억달러 이상. 납품 보장 없음. 당사자들이 주문량을 공개 확인한 발표는 아니다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/business/retail-consumer/bytedance-alibaba-tencent-place-over-35-billion-worth-nvidia-chip-orders-2026-10-20/",
-            "label": "주문·공급 불확실성 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "취재 보도임을 표시한다. 확정 매출·대금 수령·전량 납품·규제 우회 성공으로 쓰지 않는다. 주문량의 회사 공개 확인은 없다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-20",
-          "observation": "로이터는20일 복수 관계자 취재로 중국3사의GPU300만장 초과 주문을 처음 보도했다. 표시가격 합계는350억달러 이상이지만 공급은 보장되지 않으며 기업의 주문량 공개 확인은 없다.",
-          "checked_materials": [],
-          "outline": [
-            "‘주문300만장 초과’와 ‘납품 불확실’을 같은 장에 표시",
-            "주문·표시가격 합계·실제 매출을 구분",
-            "복수 관계자 인용 보도라는 근거와 회사 공개 확인이 없는 한계를 명시"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "주문·공급 불확실성 원문",
-            "url": "https://www.reuters.com/business/retail-consumer/bytedance-alibaba-tencent-place-over-35-billion-worth-nvidia-chip-orders-2026-10-20/"
-          }
-        ],
-        "excerpt": "",
-        "context": "20일18:04KST 처음 보도된 주문 규모다. 기존 수출규제나13일 별도 회사 공시를 새 사건으로 바꾸지 않는다.",
-        "fetched_at": 1792502725,
-        "parser_revision": 7
-      },
-      "curation_event_key": "reuters-china-three-tech-firms-rtx-pro-5500-orders-20261020"
-    },
-    "bba287de1b95": {
-      "source": "뉴스핌·Reuters",
-      "title": "WTI 장중 110달러…5% 급등한 유가, 만기 계약은 따로 봐야",
-      "link": "https://www.newspim.com/news/view/20261020001206",
-      "first_seen_at": 1792502725,
-      "last_seen_at": 1792502725,
-      "samples": [
-        {
-          "at": 1792502725,
-          "views": null,
-          "reactions": null,
-          "rank": 7,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "bba287de1b95",
-      "editorial": {
-        "title": "WTI 장중 110달러…5% 급등한 유가, 만기 계약은 따로 봐야",
-        "category": "시사",
-        "url": "https://www.newspim.com/news/view/20261020001206",
-        "source": "뉴스핌·Reuters",
-        "kind": "article",
-        "event_key": "wti-november-contract-110-intraday-surge-20261020",
-        "why": "운전자·자영업자가 친구에게 오늘 급등한 원유 가격과 주유소 가격이 같은 비율로 즉시 뛰는 것은 아니라는 차이를 전달할 수 있다.",
-        "angle": "WTI11월물109.08달러·약5.2% 상승과 ‘현지20일 만기’를 같이 놓고 브렌트12월물과 구분한다.",
-        "why_now": "20일20:23 국내 보도의 새 장중 가격을 Reuters 본문의 같은 수치와 대조했다.18~19일 선박 공격이 오늘 처음 난 것처럼 쓰지 않는다.",
-        "verified_at": 1792501881,
-        "published_at": 1792495380,
-        "evidence": [
-          {
-            "url": "https://www.newspim.com/news/view/20261020001206",
-            "note": "20:23 본문:미 동부7:04 WTI11월물109.08달러(+5.23%),당일 만기. 이란의 선박 피격 주장은 별개이며 피해 규모는 미확인."
-          },
-          {
-            "url": "https://www.reuters.com/business/energy/oil-eases-markets-assess-potential-waiver-russian-energy-middle-east-supply-2026-10-20/",
-            "note": "Reuters 본문:WTI11월물 장중110·최근109.08(+5.2%),브렌트12월물은1120GMT(20:20KST)111.20(+1.5%). 새 장중 가격을 확인했으며 기사 최초00:58UTC와 구분했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/business/energy/oil-eases-markets-assess-potential-waiver-russian-energy-middle-east-supply-2026-10-20/",
-            "label": "만기·계약월 구분 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "주유소 가격5% 인상·공급 중단을 확정하지 않는다. 미검증 공격 주장을 사실로 쓰지 않고 만기 앞둔11월물과12월물을 혼용하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-20",
-          "observation": "20일 보도된 새 장중 가격에서 WTI11월물은109.08달러로 약5.2% 올랐고 장중110까지 상승했다. 현지20일 만기 계약이며 브렌트12월물111.20달러(+1.5%)와 다르다.",
-          "checked_materials": [],
-          "outline": [
-            "WTI11월물109.08달러·약5.2% 상승 + ‘현지20일 만기’ 표시",
-            "브렌트12월물111.20달러·1.5% 상승과 계약월·인용 시각을 구분",
-            "선물 계약월·만기와 국내 주유소 가격을 구분하고 공격·공급 차질의 불확실성 명시"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "만기·계약월 구분 원문",
-            "url": "https://www.reuters.com/business/energy/oil-eases-markets-assess-potential-waiver-russian-energy-middle-east-supply-2026-10-20/"
-          }
-        ],
-        "excerpt": "",
-        "context": "20일20:23 국내 보도의 새 장중 가격을 Reuters 본문의 같은 수치와 대조했다.18~19일 선박 공격이 오늘 처음 난 것처럼 쓰지 않는다.",
-        "fetched_at": 1792502725,
-        "parser_revision": 7
-      },
-      "curation_event_key": "wti-november-contract-110-intraday-surge-20261020"
-    },
-    "07850677128a": {
-      "source": "뉴스핌·방위사업청 발표",
-      "title": "옛 LIG넥스원에 ‘입찰 제한 2년’ 결정…회사는 법적 대응 예고",
-      "link": "https://www.newspim.com/news/view/20261020001218",
-      "first_seen_at": 1792502725,
-      "last_seen_at": 1792502725,
-      "samples": [
-        {
-          "at": 1792502725,
-          "views": null,
-          "reactions": null,
-          "rank": 8,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "07850677128a",
-      "editorial": {
-        "title": "옛 LIG넥스원에 ‘입찰 제한 2년’ 결정…회사는 법적 대응 예고",
-        "category": "시사",
-        "url": "https://www.newspim.com/news/view/20261020001218",
-        "source": "뉴스핌·방위사업청 발표",
-        "kind": "article",
-        "event_key": "dapa-lig-dna-two-year-bidding-ban-decision-20261020",
-        "why": "방산주 투자자와 납세자가 친구에게 과징금 대신2년 입찰 제한이 결정됐다는 실제 제재와 회사 반박을 함께 전달할 수 있다.",
-        "angle": "‘벌금으로 끝난 것이 아니라 입찰 제한24개월’이라는 새 결정을 첫 장에 놓고 형사재판 확정과 구분한다.",
-        "why_now": "20일 오후 방위사업계약심의위원회가 제재 방식을 의결한 새 사실이20:57 보도됐다.8월 기소나13일 국감 발언의 재포장이 아니다.",
-        "verified_at": 1792502295,
-        "published_at": 1792497420,
-        "evidence": [
-          {
-            "url": "https://www.newspim.com/news/view/20261020001218",
-            "note": "20일 오후 방사청 위원회는LIG D&A에24개월 입찰참가자격 제한을 의결. 회사는 기소만으로 제재했다며 집행정지 신청 등 대응을 예고. 행정제재와 형사상 유죄 확정은 다르다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.newspim.com/news/view/20261020001218",
-            "label": "의결 내용·회사 입장 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "형사 유죄 확정·모든 계약과 수출 중단·법원의 집행정지 인용으로 쓰지 않는다. 기존 사업별 영향과 실제 효력 범위는 별도 확인한다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-20",
-          "observation": "방사청은20일 오후 심의에서 뇌물·원가 부정 사건과 관련해LIG D&A의 입찰참가자격을24개월 제한하기로 의결했다고 밝혔다. 회사는 법적 절차가 진행 중이라며 집행정지 신청 등 대응을 예고했다.",
-          "checked_materials": [],
-          "outline": [
-            "과징금 대신 입찰 제한24개월을 의결한20일 새 결정",
-            "8월 기소→13일 국감→20일 행정제재의 서로 다른 단계",
-            "회사 측 유감·집행정지 신청 예고를 함께 싣고 형사 유죄·기존 사업 영향은 별도라고 명시"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "의결 내용·회사 입장 원문",
-            "url": "https://www.newspim.com/news/view/20261020001218"
-          }
-        ],
-        "excerpt": "",
-        "context": "20일 오후 방위사업계약심의위원회가 제재 방식을 의결한 새 사실이20:57 보도됐다.8월 기소나13일 국감 발언의 재포장이 아니다.",
-        "fetched_at": 1792502725,
-        "parser_revision": 7
-      },
-      "curation_event_key": "dapa-lig-dna-two-year-bidding-ban-decision-20261020"
-    },
-    "4e5ca5f4c114": {
-      "source": "국제신문·부산일보",
-      "title": "그물 넘어 돌아온 부캉이…이번엔 이중 그물로 바다에 보낸다",
-      "link": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261020.99099005818",
-      "first_seen_at": 1792502725,
-      "last_seen_at": 1792502725,
-      "samples": [
-        {
-          "at": 1792502725,
-          "views": null,
-          "reactions": null,
-          "rank": 9,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "4e5ca5f4c114",
-      "editorial": {
-        "title": "그물 넘어 돌아온 부캉이…이번엔 이중 그물로 바다에 보낸다",
-        "category": "시사",
-        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261020.99099005818",
-        "source": "국제신문·부산일보",
-        "kind": "article",
-        "event_key": "bukang-shark-third-release-operation-plan-20261020",
-        "why": "부캉이를 보러 갔거나 갈 친구에게 내일 구조 일정과 지난 실패를 보완한 방법이 무엇인지 전달할 이유가 있다.",
-        "angle": "첫 장에 ‘두 번 실패→21일 세 번째’와 본 그물·예비 그물 도식을 두고 바다 복귀가 아직 완료된 것은 아니라고 명시한다.",
-        "why_now": "20일 관계기관 회의에서21일 오후3차 구조를 결정한 새 계획과 보완 방식을17:07·18:20 원문으로 확인했다. 이전 방문객 집계의 재추천이 아니다.",
-        "verified_at": 1792502653,
-        "published_at": 1792483641,
-        "evidence": [
-          {
-            "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261020.99099005818",
-            "note": "20일17:07 본문:21일3차 외해 유도 결정, 폰툰 고정 그물과 수심이 깊어지는 구간의 예비 그물 등 새 실행계획."
-          },
-          {
-            "url": "https://www.busan.com/view/busan/view.php?code=2026102018170424150",
-            "note": "20일18:20 본문:그물 바닥 철제 보완, 폰툰과 예비 그물, 전문 다이버 투입 계획을 교차 확인. 실행·성공은 아직 미래다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.busan.com/view/busan/view.php?code=2026102018170424150",
-            "label": "새 구조 방식·일정 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "‘방류 성공’이라고 쓰지 않는다. 이전2차 작업 사진을 오늘 장면으로 표시하거나 방문객 증가만 새 사건으로 만들지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-20",
-          "observation": "20일 관계기관은21일 오후 부캉이를 바다로 유도하기로 정했다. 기존에 그물이 걸리고 상어가 돌아온 한계를 보완하려 폰툰·바닥 철제 보완·예비 그물과 다이버를 계획했다.",
-          "checked_materials": [],
-          "outline": [
-            "두 번의 실패 뒤21일3차 구조 결정이라는 새 사실",
-            "본 그물·폰툰·예비 그물의 역할을 본문 범위에서 간단한 도식으로 설명",
-            "전문 다이버·사전 조사·방문객 안전 계획, 아직 성공 여부는 미정이라고 마무리"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "새 구조 방식·일정 원문",
-            "url": "https://www.busan.com/view/busan/view.php?code=2026102018170424150"
-          }
-        ],
-        "excerpt": "",
-        "context": "20일 관계기관 회의에서21일 오후3차 구조를 결정한 새 계획과 보완 방식을17:07·18:20 원문으로 확인했다. 이전 방문객 집계의 재추천이 아니다.",
-        "fetched_at": 1792502725,
-        "parser_revision": 7
-      },
-      "curation_event_key": "bukang-shark-third-release-operation-plan-20261020"
-    },
-    "9e402673afc1": {
-      "source": "SBS·강원도민일보",
-      "title": "200m 떨어진 두 사무실서 7분 간격 화재…도주한 용의자 검거",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806560",
-      "first_seen_at": 1792502725,
-      "last_seen_at": 1792502725,
-      "samples": [
-        {
-          "at": 1792502725,
-          "views": null,
-          "reactions": null,
-          "rank": 10,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "9e402673afc1",
-      "editorial": {
-        "title": "200m 떨어진 두 사무실서 7분 간격 화재…도주한 용의자 검거",
-        "category": "시사",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806560",
-        "source": "SBS·강원도민일보",
-        "kind": "article",
-        "event_key": "yeoksam-two-office-arson-suspect-arrest-dongmyo-20261020",
-        "why": "강남 직장인과 서울 대중교통 이용자가 연쇄방화 혐의 용의자가 잡혔다는 사실과 미확인 동기 소문을 구별해 전달할 수 있다.",
-        "angle": "피해자 사진 대신 두 건물의 신고 시각과200m 간격을 첫 장에 놓고16:16 용의자 검거까지 확인된 동선만 정리한다.",
-        "why_now": "20일16:16 동묘앞역 인근에서70대 용의자를 검거했다는 새 사실이16:37 보도로 확인됐다. 부상자 수 갱신을 별도 사건으로 만든 것이 아니다.",
-        "verified_at": 1792502653,
-        "published_at": 1792481820,
-        "evidence": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806560",
-            "note": "16:37 작성 본문:11:54·12:01 약200m 거리 두 건물 화재,16:16 동묘앞역 인근 용의자 검거. 동기·두 화재의 관계는 수사 예정."
-          },
-          {
-            "url": "https://www.kado.net/news/articleView.html?idxno=2079304",
-            "note": "두 곳 모두 특허법인 사무실이었다는 본문과 검거 시각을 교차 확인. 같은 회사인지·구체적인 분쟁 동기는 확정하지 않는다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806560",
-            "label": "용의자 검거 확인 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "혐의·수사 단계다. 같은 특허법인이라고 단정하거나 소송 보복 등 미확인 동기·유죄·피해자 신원을 덧붙이지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-20",
-          "observation": "서울 역삼동 두 건물에서7분 간격으로 발생한 화재의 방화 혐의를 받는70대가16:16 동묘앞역 인근에서 체포됐다. 경찰은 범행 동기와 두 화재 연관성을 조사할 예정이다.",
-          "checked_materials": [],
-          "outline": [
-            "신명빌딩11:54→약200m→한양빌딩12:01이라는 확인된 사실",
-            "16:16 동묘앞역 인근 용의자 체포와 지하철 도주 보도를 구분해 정리",
-            "동기·두 화재 관계는 조사 중이며 혐의가 유죄 확정을 뜻하지 않는다고 명시"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "용의자 검거 확인 원문",
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806560"
-          }
-        ],
-        "excerpt": "",
-        "context": "20일16:16 동묘앞역 인근에서70대 용의자를 검거했다는 새 사실이16:37 보도로 확인됐다. 부상자 수 갱신을 별도 사건으로 만든 것이 아니다.",
-        "fetched_at": 1792502725,
-        "parser_revision": 7
-      },
-      "curation_event_key": "yeoksam-two-office-arson-suspect-arrest-dongmyo-20261020"
     }
   },
-  "updated_at": 1793099541
+  "updated_at": 1793110128
 }
