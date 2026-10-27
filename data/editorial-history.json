@@ -2,44 +2,6 @@
   "version": 1,
   "editions": [
     {
-      "hour_utc": "2026102008",
-      "at": 1792486056,
-      "delivery": "sent",
-      "delivery_key": "hourly-2026102008",
-      "picks": [
-        {
-          "title": "신입사원→아들→후계자…세라젬 창업주의 승계 선택",
-          "url": "https://www.yna.co.kr/view/AKR20261020068300030",
-          "event_key": "ceragem-employee-adoption-equity-succession-disclosure-20261020"
-        },
-        {
-          "title": "개인정보 털렸는데 현금 대신 VIP…신한·하나의 보상안",
-          "url": "https://www.kmib.co.kr/article/20261020500834",
-          "event_key": "shinhan-hana-breach-customer-vip-insurance-compensation-20261020"
-        },
-        {
-          "title": "표 1015장에 제시액만 7억2800만원…가을야구 암표 31명 수사 의뢰",
-          "url": "https://www.etoday.co.kr/news/view/2637987?trc=right_categori_news",
-          "event_key": "kbo-postseason-ticket-scalping-31-referrals-20261020"
-        },
-        {
-          "title": "월세만 적고 관리비는? 민간임대 신고에 관리비도 넣는다",
-          "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261020_0003833300",
-          "event_key": "private-rental-management-fee-contract-report-cabinet-20261020"
-        },
-        {
-          "title": "상장사 보안에 쓴 돈, 내년부터 매출 상관없이 공개한다",
-          "url": "https://www.newsis.com/view/NISX20261020_0003832677",
-          "event_key": "cybersecurity-disclosure-all-listed-companies-cabinet-20261020"
-        },
-        {
-          "title": "우크라 공관원 일부 철수…영사 인력은 전원 남는다",
-          "url": "https://www.yna.co.kr/view/AKR20261020112151504",
-          "event_key": "ukraine-korean-embassy-partial-personnel-withdrawal-20261020"
-        }
-      ]
-    },
-    {
       "hour_utc": "2026102014",
       "at": 1792504801,
       "delivery": "sent",
@@ -1982,6 +1944,64 @@
           "title": "구룡마을에 치솟은 불길…소방 대응 2단계·210명 투입",
           "url": "https://www.yna.co.kr/view/AKR20261027151651004?section=society%2Fall",
           "event_key": "seoul-guryong-village-fire-response-stage-two-20261027"
+        }
+      ]
+    },
+    {
+      "hour_utc": "2026102711",
+      "at": 1793099542,
+      "delivery": "sent",
+      "delivery_key": "hourly-2026102711",
+      "picks": [
+        {
+          "title": "가장 웃긴 밈 물었더니 “중국 독재자”…음바페 中광고 줄줄이 취소",
+          "url": "https://www.yna.co.kr/view/AKR20261027169500083",
+          "event_key": "mbappe-mao-meme-remarks-chinese-sponsors-end-contracts-20261027"
+        },
+        {
+          "title": "“게임 끝판왕”이라더니 실행하자 성능 제한…삼성 200억 과징금 불복",
+          "url": "https://www.yna.co.kr/view/AKR20261027087701002",
+          "event_key": "samsung-gos-deceptive-game-performance-ad-fine-rebuttal-20261027"
+        },
+        {
+          "title": "스토킹 피해자 이사했는데…접근금지 결정문이 새 주소를 알려줬다",
+          "url": "https://www.yna.co.kr/view/AKR20261027151900053",
+          "event_key": "daegu-stalking-protection-order-victim-address-exposed-20261027"
+        },
+        {
+          "title": "수탉 납치·살해미수 30년→15년…항소심 “확정적 살인 고의로 안 보여”",
+          "url": "https://www.newsis.com/view/NISX20261027_0003842947",
+          "event_key": "sutak-kidnapping-attempted-murder-appeal-sentences-reduced-20261027"
+        },
+        {
+          "title": "음주운전 막다 차에 밀렸는데…시민이 끝내 붙잡아 경찰에 인계",
+          "url": "https://www.yna.co.kr/view/AKR20261027167100061",
+          "event_key": "suwon-drunk-driver-pushes-citizen-who-stops-car-20261026"
+        },
+        {
+          "title": "尹 “미쳤다고 대통령 장기로 하나”…재판부는 “그럼 계엄 실익 있나”",
+          "url": "https://www.yna.co.kr/view/AKR20261027095851004",
+          "event_key": "yoon-martial-law-long-rule-denial-court-benefit-question-20261027"
+        },
+        {
+          "title": "공연장 허가 건물서 결혼식·무신고 뷔페…“폐쇄 멈춰달라”도 기각",
+          "url": "https://www.yna.co.kr/view/AKR20261027168800063",
+          "event_key": "daejeon-unregistered-wedding-buffet-closure-stay-denied-20261027"
+        },
+        {
+          "title": "여야 모두 “소아응급실 압수수색 사과하라”…경찰은 “안타깝다”",
+          "url": "https://www.yna.co.kr/view/AKR20261027166000530",
+          "event_key": "pediatric-emergency-room-search-police-response-hearing-20261027"
+        },
+        {
+          "title": "“국민 속였다” 유시민 고발…정작 李대통령은 처벌 원치 않아 종결",
+          "url": "https://www.yna.co.kr/view/AKR20261027171200004",
+          "event_key": "yoo-si-min-defamation-case-no-punishment-president-20261027"
+        },
+        {
+          "title": "멧돼지 잡아 농작물 지켰는데…2~3년 전 포상금 8446만원 아직 못 받아",
+          "url": "https://www.yna.co.kr/view/AKR20261027168200057",
+          "event_key": "ulju-wildlife-capture-unpaid-bounties-audit-disclosure-20261027"
         }
       ]
     }
