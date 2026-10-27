@@ -6,7 +6,7 @@
       "title": "“강연 취소” 요구에 역사교사들 “우리가 판단,정치 개입 자제”",
       "link": "https://www.yna.co.kr/view/AKR20261026151400061",
       "first_seen_at": 1793012800,
-      "last_seen_at": 1793056064,
+      "last_seen_at": 1793066925,
       "samples": [
         {
           "at": 1793012800,
@@ -20,6 +20,13 @@
           "views": null,
           "reactions": null,
           "rank": 11,
+          "rank_kind": null
+        },
+        {
+          "at": 1793066925,
+          "views": null,
+          "reactions": null,
+          "rank": 9,
           "rank_kind": null
         }
       ],
@@ -36,7 +43,7 @@
         "why": "교육 커뮤니티에 보낼 정면 반박. 강사 교체 요구가 커지자 현장 교사 연구회가 강연을 듣고 판단할 자율성을 강조하며 맞섰다.",
         "angle": "황현필 강연 취소 요구 vs 역사교사 연구회의 “정쟁 소재 삼지 말라”",
         "why_now": "새 사실은 26일 경기 초·중등 역사교육연구회 공동 성명. 28일 예정 강연은 아직 열리지 않았다.",
-        "verified_at": 1793055728,
+        "verified_at": 1793066506,
         "published_at": 1793003786,
         "evidence": [
           {
@@ -51,7 +58,7 @@
             "kind": "source"
           }
         ],
-        "caution": "예비. 일부 연구회 입장이지 모든 교사 입장 아님. 과거 발언은 원영상 미확인으로 재인용하지 않음.",
+        "caution": "일부 연구회 입장이지 모든 교사 입장 아님. 과거 발언은 원영상 미확인으로 재인용하지 않음.",
         "readiness": {
           "mode": "major_news",
           "event_date": "2026-10-26",
@@ -75,10 +82,665 @@
         ],
         "excerpt": "",
         "context": "새 사실은 26일 경기 초·중등 역사교육연구회 공동 성명. 28일 예정 강연은 아직 열리지 않았다.",
-        "fetched_at": 1793056064,
+        "fetched_at": 1793066925,
         "parser_revision": 7
       },
       "curation_event_key": "gyeonggi-history-teachers-joint-statement-lecture-autonomy-20261026"
+    },
+    "2c0e47a83afe": {
+      "source": "연합뉴스 경찰·목격자 취재",
+      "title": "경찰이 귀가시킨 지30분…강남대로에서 다시 보호된 만취 여성",
+      "link": "https://www.yna.co.kr/view/AKR20261026142800004",
+      "first_seen_at": 1793002922,
+      "last_seen_at": 1793066925,
+      "samples": [
+        {
+          "at": 1793002922,
+          "views": null,
+          "reactions": null,
+          "rank": 11,
+          "rank_kind": null
+        },
+        {
+          "at": 1793066925,
+          "views": null,
+          "reactions": null,
+          "rank": 10,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "2c0e47a83afe",
+      "editorial": {
+        "title": "경찰이 귀가시킨 지30분…강남대로에서 다시 보호된 만취 여성",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261026142800004",
+        "source": "연합뉴스 경찰·목격자 취재",
+        "kind": "article",
+        "event_key": "gangnam-road-intoxicated-woman-second-police-protection-20261026",
+        "why": "생활 커뮤니티에 공유할 반복 신고 소동. 지인과 다툼 뒤 경찰이 귀가시켰던 여성이30분 뒤 도로에서 발견돼 다시 보호됐다.",
+        "angle": "7시40분 귀가 조치→8시13분 도로 신고→경찰3명 보호",
+        "why_now": "26일 발생·취재 공개된 미발송 사건을24~48시간 확대 범위에서 확인했다. 오늘 새로 발생한 일로 쓰지 않는다.",
+        "verified_at": 1793066615,
+        "published_at": 1793000869,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261026142800004",
+            "note": "26일7시40분 지인과 다툼 뒤 귀가 조치,8시13분 도로 신고,경찰3명 출동 후5분여 만에 인도로 옮긴 경위 확인. 범죄 혐의점 없음·목격자 보행신호 설명도 대조."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261026142800004",
+            "label": "취재 본문·확인 근거",
+            "kind": "source"
+          }
+        ],
+        "caution": "26일 사건. 만취 상태의 개인을 조롱하지 않고 보호 조치 중심. 교통마비·연인 다툼 등 미확인 단정 금지.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-26",
+          "observation": "26일7시40분 지인과 다툼 뒤 귀가 조치,8시13분 도로 신고,경찰3명 출동 후5분여 만에 인도로 옮긴 경위 확인. 범죄 혐의점 없음·목격자 보행신호 설명도 대조.",
+          "checked_materials": [],
+          "outline": [
+            "7시40분 지인 다툼 신고 후 귀가 조치된 앞선 상황",
+            "8시13분 강남대로 신고로 다시 출동한 경찰의 보호 조치",
+            "범죄 혐의점 없음과 보행신호 중이었다는 목격자 설명"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "취재 본문·확인 근거",
+            "url": "https://www.yna.co.kr/view/AKR20261026142800004"
+          }
+        ],
+        "excerpt": "",
+        "context": "26일 발생·취재 공개된 미발송 사건을24~48시간 확대 범위에서 확인했다. 오늘 새로 발생한 일로 쓰지 않는다.",
+        "fetched_at": 1793066925,
+        "parser_revision": 7
+      },
+      "curation_event_key": "gangnam-road-intoxicated-woman-second-police-protection-20261026"
+    },
+    "6d65526866ea": {
+      "source": "연합뉴스·천안교도소",
+      "title": "출소자 짐 들어주다가…복역 중인 수형자가 정문 밖으로",
+      "link": "https://www.yna.co.kr/view/AKR20261027046700063?section=society%2Fall",
+      "first_seen_at": 1793066925,
+      "last_seen_at": 1793066925,
+      "samples": [
+        {
+          "at": 1793066925,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "6d65526866ea",
+      "editorial": {
+        "title": "출소자 짐 들어주다가…복역 중인 수형자가 정문 밖으로",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261027046700063?section=society%2Fall",
+        "source": "연합뉴스·천안교도소",
+        "kind": "article",
+        "event_key": "cheonan-prison-inmate-carries-released-person-bag-out-gate-disclosure-20261027",
+        "why": "동네 친구에게 보낼 황당한 관리 허점. 탈옥 작전이 아니라 출소자 짐을 도와주던 수형자가 교도관과 함께 정문을 지나갔다.",
+        "angle": "짐 들어주다 같이 출소할 뻔…교도소장이 막아 즉시 복귀",
+        "why_now": "8월 10일 발생한 일을 27일 교도소가 밝힌 취재다. 새 사실은 정문 통과 경위와 교도관 경고 조치 공개다.",
+        "verified_at": 1793066554,
+        "published_at": 1793061367,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261027046700063?section=society%2Fall",
+            "note": "27일 교도소 설명을 담은 본문에서 8월 10일 수형자의 정문 통과, 교도소장 제지 직후 복귀, 정문 근무 교도관 2명 경고를 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261027046700063?section=society%2Fall",
+            "label": "취재 본문·확인 근거",
+            "kind": "source"
+          }
+        ],
+        "caution": "발생일 8월10일,27일 취재 공개. 도주 성공·탈옥 의도라고 단정하지 않음. 영상 미확인.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-27",
+          "observation": "27일 교도소 설명을 담은 본문에서 8월 10일 수형자의 정문 통과, 교도소장 제지 직후 복귀, 정문 근무 교도관 2명 경고를 확인.",
+          "checked_materials": [],
+          "outline": [
+            "출소자 짐을 교도관과 나눠 들던 수형자라는 시작",
+            "제지 없이 정문 밖으로 나간 뒤 교도소장이 즉시 복귀시킨 경위",
+            "정문 근무자 2명 경고 및 직무 교육 강화 계획"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "취재 본문·확인 근거",
+            "url": "https://www.yna.co.kr/view/AKR20261027046700063?section=society%2Fall"
+          }
+        ],
+        "excerpt": "",
+        "context": "8월 10일 발생한 일을 27일 교도소가 밝힌 취재다. 새 사실은 정문 통과 경위와 교도관 경고 조치 공개다.",
+        "fetched_at": 1793066925,
+        "parser_revision": 7
+      },
+      "curation_event_key": "cheonan-prison-inmate-carries-released-person-bag-out-gate-disclosure-20261027"
+    },
+    "40dfb4cfc479": {
+      "source": "한스경제 직접 취재",
+      "title": "“308일 중 출근 26일” 비판받던 이동국…그날은 일본 출장 중",
+      "link": "https://www.hansbiz.co.kr/news/articleView.html?idxno=876364",
+      "first_seen_at": 1793066925,
+      "last_seen_at": 1793066925,
+      "samples": [
+        {
+          "at": 1793066925,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "40dfb4cfc479",
+      "editorial": {
+        "title": "“308일 중 출근 26일” 비판받던 이동국…그날은 일본 출장 중",
+        "category": "축구",
+        "url": "https://www.hansbiz.co.kr/news/articleView.html?idxno=876364",
+        "source": "한스경제 직접 취재",
+        "kind": "article",
+        "event_key": "lee-dong-gook-yongin-director-japan-business-trip-report-20261027",
+        "why": "국축 친구에게 보낼 숫자와 실제 업무의 간극. 출근 기록을 근거로 근태 비판을 받았지만 논란 당일에는 구단 일을 위해 일본에 있었다는 취재다.",
+        "angle": "사무실 출근 26일 논란 vs 국감 당일 요코하마 출장",
+        "why_now": "27일 06시 원 취재 본문에서 21~24일 출장 업무가 확인됐다. 옛 근태 논란만 반복하지 않고 새 업무 확인과 구분한다.",
+        "verified_at": 1793066672,
+        "published_at": 1793048400,
+        "evidence": [
+          {
+            "url": "https://www.hansbiz.co.kr/news/articleView.html?idxno=876364",
+            "note": "기자 원 취재 본문에서 21일 국감 지적과 21~24일 요코하마 출장, Y.S.C.C. 공동사업 논의 확인. 비상근 직책과 사무실 출근 기록이 전체 업무량과 같지 않다는 맥락."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.hansbiz.co.kr/news/articleView.html?idxno=876364",
+            "label": "취재 본문·확인 근거",
+            "kind": "source"
+          }
+        ],
+        "caution": "출장 확인은 전체 기간 근태의 면책 결론 아님. 구단 제공 자료·취재 내용이며 인수·사업 성과 확정 아님.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-27",
+          "observation": "기자 원 취재 본문에서 21일 국감 지적과 21~24일 요코하마 출장, Y.S.C.C. 공동사업 논의 확인. 비상근 직책과 사무실 출근 기록이 전체 업무량과 같지 않다는 맥락.",
+          "checked_materials": [],
+          "outline": [
+            "국감에서 제기된 308일 중 사무실 출근 26일이라는 수치",
+            "그날 진행 중이던 21~24일 요코하마 출장과 공동사업 논의",
+            "비상근 디렉터 업무·출근 기록을 구분하고 전체 근태 무혐의 판정과도 분리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "취재 본문·확인 근거",
+            "url": "https://www.hansbiz.co.kr/news/articleView.html?idxno=876364"
+          }
+        ],
+        "excerpt": "",
+        "context": "27일 06시 원 취재 본문에서 21~24일 출장 업무가 확인됐다. 옛 근태 논란만 반복하지 않고 새 업무 확인과 구분한다.",
+        "fetched_at": 1793066925,
+        "parser_revision": 7
+      },
+      "curation_event_key": "lee-dong-gook-yongin-director-japan-business-trip-report-20261027"
+    },
+    "79f335fad68f": {
+      "source": "연합뉴스·서경덕 공개 지적",
+      "title": "국가 비행 자격증에 뒤집힌 태극기? “문양도 건곤감리도 틀려”",
+      "link": "https://www.yna.co.kr/view/AKR20261027064000371?section=industry%2Fall",
+      "first_seen_at": 1793066925,
+      "last_seen_at": 1793066925,
+      "samples": [
+        {
+          "at": 1793066925,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "79f335fad68f",
+      "editorial": {
+        "title": "국가 비행 자격증에 뒤집힌 태극기? “문양도 건곤감리도 틀려”",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261027064000371?section=industry%2Fall",
+        "source": "연합뉴스·서경덕 공개 지적",
+        "kind": "article",
+        "event_key": "aviation-license-taegeuk-flag-design-error-public-disclosure-20261027",
+        "why": "자격증 가진 친구에게 보낼 황당한 검수 문제. 국가 자격증인데 태극 문양뿐 아니라 건곤감리까지 잘못됐다는 지적이 나왔다.",
+        "angle": "자격증은 국가 공인인데 태극기는 거꾸로?",
+        "why_now": "27일 서경덕 교수의 공개 지적과 수정 촉구가 새 사실이다. 지난9월 교과서 오류 사례와는 별개 사건으로 확인했다.",
+        "verified_at": 1793066554,
+        "published_at": 1793066016,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261027064000371?section=industry%2Fall",
+            "note": "27일 SNS 지적을 담은 본문에서 공단 발급 비행 관련 자격증 태극 문양·건곤감리 위치 오류와 수정 요구를 확인. 실제 자격증 이미지 세부는 직접 검증하지 못했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261027064000371?section=industry%2Fall",
+            "label": "취재 본문·확인 근거",
+            "kind": "source"
+          }
+        ],
+        "caution": "이미지 세부 직접 확인 못함. 서 교수의 공개 지적·시정 촉구를 귀속해 전달하며 공단 해명·수정 결과 미확인.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-27",
+          "observation": "27일 SNS 지적을 담은 본문에서 공단 발급 비행 관련 자격증 태극 문양·건곤감리 위치 오류와 수정 요구를 확인. 실제 자격증 이미지 세부는 직접 검증하지 못했다.",
+          "checked_materials": [],
+          "outline": [
+            "서 교수가 제기한 국가 자격증의 태극 문양·건곤감리 오류",
+            "누리꾼 제보를 받고 27일 공단에 시정 요구한 경위",
+            "수정 완료·전량 재발급 여부는 아직 확인되지 않았다고 표시"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "취재 본문·확인 근거",
+            "url": "https://www.yna.co.kr/view/AKR20261027064000371?section=industry%2Fall"
+          }
+        ],
+        "excerpt": "",
+        "context": "27일 서경덕 교수의 공개 지적과 수정 촉구가 새 사실이다. 지난9월 교과서 오류 사례와는 별개 사건으로 확인했다.",
+        "fetched_at": 1793066925,
+        "parser_revision": 7
+      },
+      "curation_event_key": "aviation-license-taegeuk-flag-design-error-public-disclosure-20261027"
+    },
+    "cb22963c09fe": {
+      "source": "SBS·뉴욕포스트 보도 대조",
+      "title": "LAFC 유니폼 관중이 손흥민에게 “니하오” 반복…회원권 박탈 요구도",
+      "link": "https://news.sbs.co.kr/news/endPage.do?newsId=N1008816092",
+      "first_seen_at": 1793066925,
+      "last_seen_at": 1793066925,
+      "samples": [
+        {
+          "at": 1793066925,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "cb22963c09fe",
+      "editorial": {
+        "title": "LAFC 유니폼 관중이 손흥민에게 “니하오” 반복…회원권 박탈 요구도",
+        "category": "축구",
+        "url": "https://news.sbs.co.kr/news/endPage.do?newsId=N1008816092",
+        "source": "SBS·뉴욕포스트 보도 대조",
+        "kind": "article",
+        "event_key": "son-heung-min-lafc-spectator-nihao-remarks-disclosure-20261027",
+        "why": "축구 친구에게 보낼 자기 팀 선수에 대한 황당한 대우. LAFC 옷을 입은 관중이 한국인 손흥민에게 중국어 인사를 반복해 비판을 받았다.",
+        "angle": "상대 팬도 아닌 LAFC 유니폼…손흥민에게 반복한 “니하오”",
+        "why_now": "26일 경기 뒤 벌어진 별도 관중 발언 사건을 27일 보도가 확인했다. 이미 보낸 경기 중 VAR 판정과 다른 사건이다.",
+        "verified_at": 1793066554,
+        "published_at": 1793054316,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?newsId=N1008816092",
+            "note": "SBS 본문에서 뉴욕포스트의 27일 한국시각 보도, 경기 후 LAFC 유니폼 관중의 반복 발언, 일부 팬의 시즌권 박탈 요구를 확인. 원 SNS 영상은 직접 시청하지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?newsId=N1008816092",
+            "label": "취재 본문·확인 근거",
+            "kind": "source"
+          }
+        ],
+        "caution": "원영상·음성 미시청,기사형 사실로 전달. 시즌권 보유·실제 박탈·관중 신원은 확인되지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-26",
+          "observation": "SBS 본문에서 뉴욕포스트의 27일 한국시각 보도, 경기 후 LAFC 유니폼 관중의 반복 발언, 일부 팬의 시즌권 박탈 요구를 확인. 원 SNS 영상은 직접 시청하지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "26일 LA더비 종료 뒤라는 시점과 경기 중 VAR 사건 분리",
+            "LAFC 유니폼 관중의 반복 발언에 대한 SBS·인용 매체 설명",
+            "팬들의 회원권 박탈 요구와 실제 구단 징계 결정을 구별"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "취재 본문·확인 근거",
+            "url": "https://news.sbs.co.kr/news/endPage.do?newsId=N1008816092"
+          }
+        ],
+        "excerpt": "",
+        "context": "26일 경기 뒤 벌어진 별도 관중 발언 사건을 27일 보도가 확인했다. 이미 보낸 경기 중 VAR 판정과 다른 사건이다.",
+        "fetched_at": 1793066925,
+        "parser_revision": 7
+      },
+      "curation_event_key": "son-heung-min-lafc-spectator-nihao-remarks-disclosure-20261027"
+    },
+    "fb7cbf0a6427": {
+      "source": "한국일보 피해자 직접 인터뷰",
+      "title": "출소한 전 남친이 진짜 찾아왔다…하루25만원 드는 사비 경호",
+      "link": "https://www.hankookilbo.com/news/article/A2026102510410000281",
+      "first_seen_at": 1793066925,
+      "last_seen_at": 1793066925,
+      "samples": [
+        {
+          "at": 1793066925,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "fb7cbf0a6427",
+      "editorial": {
+        "title": "출소한 전 남친이 진짜 찾아왔다…하루25만원 드는 사비 경호",
+        "category": "시사",
+        "url": "https://www.hankookilbo.com/news/article/A2026102510410000281",
+        "source": "한국일보 피해자 직접 인터뷰",
+        "kind": "article",
+        "event_key": "stalking-victim-private-security-costs-interview-20261027",
+        "why": "친구에게 보낼 안전 비용의 현실. 전 남친 출소를 앞두고 경호원을 고용했더니 실제 이틀째 집을 찾아왔고 경호원이 막았다는 증언이다.",
+        "angle": "피해자가 돈 내고 지켜야 하는 안전…8시간 경호 하루25만원 안팎",
+        "why_now": "26일 피해자 직접 인터뷰와 경호업체·경찰청 답변이 27일 04:30 취재로 공개됐다. 사건의 상세 일시는 익명 보도 범위만 쓴다.",
+        "verified_at": 1793066588,
+        "published_at": 1793043000,
+        "evidence": [
+          {
+            "url": "https://www.hankookilbo.com/news/article/A2026102510410000281",
+            "note": "26일 A씨 인터뷰에서 이달 중순 경호 고용 후 전 남친 방문·제지를 확인. 하루8시간25만원은 업계 통상 비용, 경찰 지원 기본7일·연장 가능 설명도 대조."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.hankookilbo.com/news/article/A2026102510410000281",
+            "label": "취재 본문·확인 근거",
+            "kind": "source"
+          }
+        ],
+        "caution": "방문 경위는 익명 피해자 증언. 25만원은 통상 견적이지 A씨 실제 지출 확정액 아님. 경찰 지원은 연장 가능.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-27",
+          "observation": "26일 A씨 인터뷰에서 이달 중순 경호 고용 후 전 남친 방문·제지를 확인. 하루8시간25만원은 업계 통상 비용, 경찰 지원 기본7일·연장 가능 설명도 대조.",
+          "checked_materials": [],
+          "outline": [
+            "출소 앞둔 전 남친 때문에 경호원을 나흘 고용한 A씨",
+            "경호 이틀째 실제 집에 찾아와 경호원이 제지했다는 인터뷰",
+            "업계 하루8시간25만원 비용과 경찰 지원 기간·연장 제도 비교"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "취재 본문·확인 근거",
+            "url": "https://www.hankookilbo.com/news/article/A2026102510410000281"
+          }
+        ],
+        "excerpt": "",
+        "context": "26일 피해자 직접 인터뷰와 경호업체·경찰청 답변이 27일 04:30 취재로 공개됐다. 사건의 상세 일시는 익명 보도 범위만 쓴다.",
+        "fetched_at": 1793066925,
+        "parser_revision": 7
+      },
+      "curation_event_key": "stalking-victim-private-security-costs-interview-20261027"
+    },
+    "75f3aff35207": {
+      "source": "연합뉴스 대법원 판결 취재",
+      "title": "“물에 들어가지 말라” 한마디도 없었다…임성근 징역3년 확정",
+      "link": "https://www.yna.co.kr/view/AKR20261027075800004?section=society%2Fall",
+      "first_seen_at": 1793066925,
+      "last_seen_at": 1793066925,
+      "samples": [
+        {
+          "at": 1793066925,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "75f3aff35207",
+      "editorial": {
+        "title": "“물에 들어가지 말라” 한마디도 없었다…임성근 징역3년 확정",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261027075800004?section=society%2Fall",
+        "source": "연합뉴스 대법원 판결 취재",
+        "kind": "article",
+        "event_key": "im-seong-geun-marine-search-death-supreme-court-final-20261027",
+        "why": "군복무한 친구에게 보낼 책임의 결론. 단순 현장 사고로 남지 않고 위험을 키운 수색 지시와 안전 의무 위반에 최상급 지휘관의 실형이 확정됐다.",
+        "angle": "구명조끼 없이 수중수색…사고1196일 뒤 확정된 징역3년",
+        "why_now": "새 사실은 27일 대법원 확정 판결이다. 2023년 사고·기존1심 선고를 오늘 새 사건처럼 바꾸지 않는다.",
+        "verified_at": 1793066588,
+        "published_at": 1793065674,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261027075800004?section=society%2Fall",
+            "note": "27일 대법원 원심 확정과 징역3년, 위험을 인지하고 가중한 지시라는 판단, 업무상과실치사상·명령위반 유죄를 본문 대조. 일부 명령위반 무죄 부분도 구분."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261027075800004?section=society%2Fall",
+            "label": "취재 본문·확인 근거",
+            "kind": "source"
+          }
+        ],
+        "caution": "채상병 사고 책임 사건 확정 판결. 수사외압 사건 전체의 결론으로 확대하지 않으며 일부 무죄 부분과 구분.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-27",
+          "observation": "27일 대법원 원심 확정과 징역3년, 위험을 인지하고 가중한 지시라는 판단, 업무상과실치사상·명령위반 유죄를 본문 대조. 일부 명령위반 무죄 부분도 구분.",
+          "checked_materials": [],
+          "outline": [
+            "2023년7월19일 수중수색 사고와 안전장비 미지급 배경",
+            "“물에 들어가지 말라”는 지시·안전조치가 없었다는 법원 판단",
+            "27일 대법원 징역3년 확정 및 별도 피고인·일부 무죄 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "취재 본문·확인 근거",
+            "url": "https://www.yna.co.kr/view/AKR20261027075800004?section=society%2Fall"
+          }
+        ],
+        "excerpt": "",
+        "context": "새 사실은 27일 대법원 확정 판결이다. 2023년 사고·기존1심 선고를 오늘 새 사건처럼 바꾸지 않는다.",
+        "fetched_at": 1793066925,
+        "parser_revision": 7
+      },
+      "curation_event_key": "im-seong-geun-marine-search-death-supreme-court-final-20261027"
+    },
+    "8e2aad01a99c": {
+      "source": "연합뉴스 대법원 판결 취재",
+      "title": "계엄 끝난 뒤 표지 만들고 서명받아…강의구 징역1년6개월 확정",
+      "link": "https://www.yna.co.kr/view/AKR20261027077700004?section=society%2Fall",
+      "first_seen_at": 1793066925,
+      "last_seen_at": 1793066925,
+      "samples": [
+        {
+          "at": 1793066925,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "8e2aad01a99c",
+      "editorial": {
+        "title": "계엄 끝난 뒤 표지 만들고 서명받아…강의구 징역1년6개월 확정",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261027077700004?section=society%2Fall",
+        "source": "연합뉴스 대법원 판결 취재",
+        "kind": "article",
+        "event_key": "kang-ui-gu-post-martial-law-document-supreme-court-final-20261027",
+        "why": "시사 친구에게 보낼 문서의 시간 역전. 계엄 해제 뒤 표지를 만들어 사전에 서명한 듯 꾸미고 나중에 폐기한 혐의에 실형이 확정됐다.",
+        "angle": "계엄은12월3일,표지·서명은12월6일…사후 서류의 결말",
+        "why_now": "새 사실은 27일 대법원이 원심을 확정한 것이다. 사후 문서 작성일과 최초 사건 보도를 현재로 바꾸지 않는다.",
+        "verified_at": 1793066588,
+        "published_at": 1793066095,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261027077700004?section=society%2Fall",
+            "note": "27일 허위공문서 작성·대통령기록물법 위반 등 실형 확정과 2024년12월6일 사후 표지 작성·서명 경위를 확인. 문서 행사 혐의는 무죄로 구분."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261027077700004?section=society%2Fall",
+            "label": "취재 본문·확인 근거",
+            "kind": "source"
+          }
+        ],
+        "caution": "모든 혐의 유죄 아님. 국무회의 심의를 거친 듯 꾸몄다는 부분·허위 문서 행사 무죄와 구분.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-27",
+          "observation": "27일 허위공문서 작성·대통령기록물법 위반 등 실형 확정과 2024년12월6일 사후 표지 작성·서명 경위를 확인. 문서 행사 혐의는 무죄로 구분.",
+          "checked_materials": [],
+          "outline": [
+            "2024년12월3일 계엄 뒤12월6일 표지·서명을 갖춘 경위",
+            "사후 작성이 알려지면 문제될 수 있다는 말 뒤 문서 폐기 혐의",
+            "27일 실형 확정과 문서 행사 등 무죄 판단을 나눠 표시"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "취재 본문·확인 근거",
+            "url": "https://www.yna.co.kr/view/AKR20261027077700004?section=society%2Fall"
+          }
+        ],
+        "excerpt": "",
+        "context": "새 사실은 27일 대법원이 원심을 확정한 것이다. 사후 문서 작성일과 최초 사건 보도를 현재로 바꾸지 않는다.",
+        "fetched_at": 1793066925,
+        "parser_revision": 7
+      },
+      "curation_event_key": "kang-ui-gu-post-martial-law-document-supreme-court-final-20261027"
+    },
+    "5e6b2173b9d1": {
+      "source": "연합뉴스 현장 취재",
+      "title": "“얼마나 더 사람이 떠나야 위기냐”…인제3천명,지방우대에 반발",
+      "link": "https://www.yna.co.kr/view/AKR20261027071700062?section=society%2Fall",
+      "first_seen_at": 1793066925,
+      "last_seen_at": 1793066925,
+      "samples": [
+        {
+          "at": 1793066925,
+          "views": null,
+          "reactions": null,
+          "rank": 8,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "5e6b2173b9d1",
+      "editorial": {
+        "title": "“얼마나 더 사람이 떠나야 위기냐”…인제3천명,지방우대에 반발",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261027071700062?section=society%2Fall",
+        "source": "연합뉴스 현장 취재",
+        "kind": "article",
+        "event_key": "inje-residents-protest-local-preference-index-20261027",
+        "why": "강원도 친구에게 보낼 생활 지원의 모순. 인구3만 접경지역이 춘천·원주와 같은 권역으로 묶이자 주민들이 우대가 아니라 차별이라며 거리로 나왔다.",
+        "angle": "인구3만 접경지역인데 춘천·원주와 같은2권역?",
+        "why_now": "27일 오전 주민 약3천명의 궐기대회와 직접 발언을 현장 취재에서 확인했다. 7·20일 분류 발표 자체의 재기사가 아니다.",
+        "verified_at": 1793066588,
+        "published_at": 1793065253,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261027071700062?section=society%2Fall",
+            "note": "27일 인제잔디구장 궐기대회와 군의장 직접 발언, 인구감소지역 제외·2권역 반발을 확인. 서울 직선거리와 실제 이동시간의 차이는 인제 측 산정방식 비판이다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261027071700062?section=society%2Fall",
+            "label": "취재 본문·확인 근거",
+            "kind": "source"
+          }
+        ],
+        "caution": "오후 국회 집회·삭발식과28일 일정은 예정. 정부 분류가 위법이라고 확정하지 않고 주민 주장과 구분.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-27",
+          "observation": "27일 인제잔디구장 궐기대회와 군의장 직접 발언, 인구감소지역 제외·2권역 반발을 확인. 서울 직선거리와 실제 이동시간의 차이는 인제 측 산정방식 비판이다.",
+          "checked_materials": [],
+          "outline": [
+            "27일 약3천명이 모인 궐기대회와 “얼마나 더 떠나야” 발언",
+            "인구 약3만 접경지역이 춘천·원주와 같은2권역인 분류 비교",
+            "상품권 지원 등 향후 차등 지원 우려와 분류 재검토 요구"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "취재 본문·확인 근거",
+            "url": "https://www.yna.co.kr/view/AKR20261027071700062?section=society%2Fall"
+          }
+        ],
+        "excerpt": "",
+        "context": "27일 오전 주민 약3천명의 궐기대회와 직접 발언을 현장 취재에서 확인했다. 7·20일 분류 발표 자체의 재기사가 아니다.",
+        "fetched_at": 1793066925,
+        "parser_revision": 7
+      },
+      "curation_event_key": "inje-residents-protest-local-preference-index-20261027"
     },
     "4fd2a563eb09": {
       "source": "ORF 스포츠",
@@ -2328,78 +2990,6 @@
         "parser_revision": 7
       },
       "curation_event_key": "busan-shaman-exorcism-coercion-sexual-assault-verdict-20261026"
-    },
-    "2c0e47a83afe": {
-      "source": "연합뉴스",
-      "title": "귀가 조치30분 뒤 강남대로 한복판…아침8시 경찰 다시 출동",
-      "link": "https://www.yna.co.kr/view/AKR20261026142800004",
-      "first_seen_at": 1793002922,
-      "last_seen_at": 1793002922,
-      "samples": [
-        {
-          "at": 1793002922,
-          "views": null,
-          "reactions": null,
-          "rank": 11,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "2c0e47a83afe",
-      "editorial": {
-        "title": "귀가 조치30분 뒤 강남대로 한복판…아침8시 경찰 다시 출동",
-        "category": "시사",
-        "url": "https://www.yna.co.kr/view/AKR20261026142800004",
-        "source": "연합뉴스",
-        "kind": "article",
-        "event_key": "gangnam-road-intoxicated-woman-second-police-protection-20261026",
-        "why": "출근길 지인에게 보낼 돌발 사건.7시40분 다툼 신고로 귀가 조치됐다가8시13분 도로 신고로 다시 경찰이 나왔다.",
-        "angle": "같은 아침 두 번 출동한 경찰",
-        "why_now": "26일 아침 발생,26일 경찰 취재로 경위를 공개.사생활 추측·실연 단정 대신 확인된 두 차례 보호조치에 한정한다.",
-        "verified_at": 1793002368,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261026142800004",
-            "note": "7:40지인 다툼 신고 뒤 귀가조치,8:13강남대로 활보 신고·경찰3명5분여 뒤 인도 이동,지구대 보호 후 귀가.범죄 혐의점 없고 차량방해 없었다는 목격자 설명."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261026142800004",
-            "label": "확인한 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "새 공개일26일, 최초 분 단위 시각 미확인. 본문 확인이며 영상 시청을 주장하지 않음.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-26",
-          "observation": "7:40지인 다툼 신고 뒤 귀가조치,8:13강남대로 활보 신고·경찰3명5분여 뒤 인도 이동,지구대 보호 후 귀가.범죄 혐의점 없고 차량방해 없었다는 목격자 설명.",
-          "checked_materials": [],
-          "outline": [
-            "7:40다툼 신고 후 귀가 조치",
-            "8:13강남대로 신고로3명 출동·인도 이동",
-            "범죄 혐의점 없음,차량방해 단정·사생활 추측 금지"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 본문",
-            "url": "https://www.yna.co.kr/view/AKR20261026142800004"
-          }
-        ],
-        "excerpt": "",
-        "context": "26일 아침 발생,26일 경찰 취재로 경위를 공개.사생활 추측·실연 단정 대신 확인된 두 차례 보호조치에 한정한다.",
-        "fetched_at": 1793002922,
-        "parser_revision": 7
-      },
-      "curation_event_key": "gangnam-road-intoxicated-woman-second-police-protection-20261026"
     },
     "b8f393ce35c4": {
       "source": "연합뉴스",
@@ -24088,5 +24678,5 @@
       "curation_event_key": "lee-kang-chul-kt-record-manager-contract-3years-3point4billion-20261019"
     }
   },
-  "updated_at": 1793056064
+  "updated_at": 1793066925
 }
