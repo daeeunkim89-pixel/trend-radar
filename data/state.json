@@ -1,5 +1,5 @@
 {
-  "updated_at": 1793175319,
+  "updated_at": 1793185715,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,65 +15,65 @@
     "requested_stories": 10,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026102808",
+    "hour_utc": "2026102811",
     "category_counts": {
-      "시사": 9,
+      "시사": 8,
       "축구": 0,
       "메이저 스포츠": 1,
-      "아이돌": 0
+      "아이돌": 1
     },
-    "research_queries": 40,
-    "opened_sources": 19,
+    "research_queries": 48,
+    "opened_sources": 20,
     "picks": [
       {
-        "title": "교체 안 되는 선수가 결승골…KBL “선수 자격 아닌 운영 실수”",
-        "url": "https://www.mksports.co.kr/news/breaking-news/12188473",
-        "event_key": "kbl-sono-lg-illegal-substitution-yoon-won-sang-winner-20261026"
+        "title": "한 번뿐인 줄 알았는데…설윤·배이,몰래 떡볶이→초밥60피스 자백",
+        "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/28/ME4WGNDGMJRWINBQMQ4DGOBWGE/",
+        "event_key": "nmixx-sullyoon-bae-secret-rose-tteokbokki-confession-20261028"
       },
       {
-        "title": "가스폭발에 달려가 LPG통2개 잠갔다…그 시민은 배우 윤대열",
-        "url": "https://www.yna.co.kr/view/AKR20261028149100065",
-        "event_key": "incheon-lpg-explosion-yoon-dae-yeol-valve-closure-20261027"
+        "title": "美사령관 면담까지 잡았는데…국방위원장 진성준 “비자 거부당했다”",
+        "url": "https://www.newsis.com/view/NISX20261028_0003845384",
+        "event_key": "jin-sung-joon-us-visa-refused-defence-delegation-20261028"
       },
       {
-        "title": "아들 게임 아이템 돌려달라며 초등생에 협박10번…아버지 벌금150만원",
-        "url": "https://www.yna.co.kr/view/AKR20261028110800053",
-        "event_key": "father-roblox-item-child-threat-ten-messages-fine-20261028"
+        "title": "다른 성별 동료 출입증에 자기 사진…전북대병원 직원 국회서 적발",
+        "url": "https://www.domin.co.kr/news/articleView.html?idxno=1573464&sc_section_code=S1N8",
+        "event_key": "jeonbuk-hospital-national-assembly-pass-photo-substitution-20261027"
       },
       {
-        "title": "“결국 시인했다”던 보도도 허위…주학년 소송1심,기자에2억 배상",
-        "url": "https://www.newsis.com/view/NISX20261028_0003845164",
-        "event_key": "ju-haknyeon-false-prostitution-report-civil-damages-20261028"
+        "title": "실종자와 연락도 안 했는데 “걱정 마세요”…허위종결 前경찰,법정서 인정",
+        "url": "https://biz.chosun.com/topics/law_firm/2026/10/28/UGHAIGW2MBC3JIPDMFNAX62SUU/?outputType=amp",
+        "event_key": "jeju-missing-person-false-closure-guilty-admission-first-hearing-20261028"
       },
       {
-        "title": "“의견 내세요” 통지보다 면허정지가 먼저…중앙행심위가 취소했다",
-        "url": "https://www.newsis.com/view/NISX20261028_0003844153",
-        "event_key": "acrc-driving-licence-suspension-premature-decision-cancelled-20261028"
+        "title": "월세30만원인데 관리비38만원…“이름표만 바꾼 임대료” 법 개정 추진",
+        "url": "https://www.inews24.com/view/2019411",
+        "event_key": "rent-30-maintenance-38-disclosure-cost-cap-bill-plan-20261027"
       },
       {
-        "title": "“대치동 집중력 영양제”라더니 일반식품…가장 많이 팔린 제품엔 카페인100mg",
-        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261028_0003844849",
-        "event_key": "mfds-student-focus-food-misleading-ad-23-vendors-20261028"
+        "title": "코인 분석에1405만원 냈더니 “회원 데려와”…해지도 환불도 거부",
+        "url": "https://www.dailian.co.kr/news/view/1707190",
+        "event_key": "ftc-crypto-analysis-members-recruitment-refund-refusal-case-20261028"
       },
       {
-        "title": "“중국산 테슬라는 왜 안 돼”…FSD 몰래 열었다가80명 송치",
-        "url": "https://www.hankyung.com/article/2026102786711",
-        "event_key": "tesla-fsd-unauthorised-activation-80-drivers-referral-20261027"
+        "title": "퇴근길 태워준다더니 인천→속초…실습생 “집에 가겠다 했는데도”",
+        "url": "https://www.inews24.com/view/2019939",
+        "event_key": "incheon-probationary-policewoman-unwanted-sokcho-trip-investigation-20261028"
       },
       {
-        "title": "주우재 “못 하는 요구 거절했더니”…돌아온 말은 “현장 태도 안 좋대”",
-        "url": "https://www.xportsnews.com/article/2212068",
-        "event_key": "joo-woo-jae-unfair-request-refusal-bad-attitude-backtalk-20261027"
+        "title": "실수한 미성년 선수를 불러 머리 때린 감독…배구연맹2년 자격정지",
+        "url": "https://www.xportsnews.com/article/2212554",
+        "event_key": "kazakhstan-volleyball-minor-assault-coach-two-year-ban-20261027"
       },
       {
-        "title": "“다른 결제도 허용”하지만 수수료26%…구글·애플637억 제재",
-        "url": "https://www.newsis.com/view/NISX20261028_0003845029",
-        "event_key": "google-apple-in-app-payment-fine-resolution-20261028"
+        "title": "“남자와 자면 계약 파기,신고 부탁”…여성전용 빌라의 찢긴 경고문",
+        "url": "https://www.newsis.com/view/NISX20261028_0003844032",
+        "event_key": "women-only-villa-no-men-overnight-termination-notice-20261027"
       },
       {
-        "title": "국민연금 합병 개입 분쟁,8년3개월 끝1530억…정부 “더 안 다툰다”",
-        "url": "https://www.hankyung.com/article/202610280674Y",
-        "event_key": "korea-elliott-remand-award-no-annulment-challenge-20261028"
+        "title": "“50일 아기가 숨을 안 쉬어요”…119 영상통화 따라 처치,한 달 만에 퇴원",
+        "url": "https://www.sankyungilbo.com/news/articleView.html?idxno=537193",
+        "event_key": "gyeonggi-119-video-guided-infant-cpr-discharge-disclosure-20261028"
       }
     ]
   }
