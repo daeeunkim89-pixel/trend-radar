@@ -1,6 +1,758 @@
 {
   "version": 1,
   "items": {
+    "e96da1589829": {
+      "source": "MK스포츠·KBL 관계자 직접 답변",
+      "title": "교체 안 되는 선수가 결승골…KBL “선수 자격 아닌 운영 실수”",
+      "link": "https://www.mksports.co.kr/news/breaking-news/12188473",
+      "first_seen_at": 1793175318,
+      "last_seen_at": 1793175318,
+      "samples": [
+        {
+          "at": 1793175318,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "e96da1589829",
+      "editorial": {
+        "title": "교체 안 되는 선수가 결승골…KBL “선수 자격 아닌 운영 실수”",
+        "category": "메이저 스포츠",
+        "url": "https://www.mksports.co.kr/news/breaking-news/12188473",
+        "source": "MK스포츠·KBL 관계자 직접 답변",
+        "kind": "article",
+        "event_key": "kbl-sono-lg-illegal-substitution-yoon-won-sang-winner-20261026",
+        "why": "농구 친구에게 보낼 황당한 승부의 뒤집힌 맥락. 같은 시점 소노 교체는 막고 LG 교체는 허용,그 선수가6초 전 결승골을 넣었다.",
+        "angle": "26일 경기 교체 오류에 대해28일 KBL이 심판진 등 징계·운영 실수 확인",
+        "why_now": "26일 경기 교체 오류에 대해28일 KBL이 심판진 등 징계·운영 실수 확인. 이번 미발송 후보의 행동·결과를 비교.",
+        "verified_at": 1793175026,
+        "published_at": 1793170549,
+        "evidence": [
+          {
+            "url": "https://www.mksports.co.kr/news/breaking-news/12188473",
+            "note": "본문에서26일 경기107-107 상황 김진유 교체 거부·윤원상 투입 뒤 종료6초 전 결승골 경과 확인. KBL은 등록 자격 문제가 아닌 교체 절차 오류라 설명,심판 전원·감독관·경기원 징계했다고 답변."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.mksports.co.kr/news/breaking-news/12188473",
+            "label": "실제 본문·확인 발언",
+            "kind": "source"
+          }
+        ],
+        "caution": "원영상 미시청·본문과KBL 답변 근거. 부정선수·매수로 쓰지 않음. 재경기 확정·징계 수위 미공개.26일 경기,28일 새 관계자 답변.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-26",
+          "observation": "본문에서26일 경기107-107 상황 김진유 교체 거부·윤원상 투입 뒤 종료6초 전 결승골 경과 확인. KBL은 등록 자격 문제가 아닌 교체 절차 오류라 설명,심판 전원·감독관·경기원 징계했다고 답변.",
+          "checked_materials": [],
+          "outline": [
+            "소노 김진유 교체는 막혔는데 LG 윤원상은 들어간 상황",
+            "시간이 흐르지 않아 양 팀 모두 교체할 수 없었다는 규정",
+            "윤원상 결승골 뒤 KBL은 운영 오류·징계 인정,재경기는 미결"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "실제 본문·확인 발언",
+            "url": "https://www.mksports.co.kr/news/breaking-news/12188473"
+          }
+        ],
+        "excerpt": "",
+        "context": "26일 경기 교체 오류에 대해28일 KBL이 심판진 등 징계·운영 실수 확인. 이번 미발송 후보의 행동·결과를 비교.",
+        "fetched_at": 1793175318,
+        "parser_revision": 7
+      },
+      "curation_event_key": "kbl-sono-lg-illegal-substitution-yoon-won-sang-winner-20261026"
+    },
+    "d14816b2f17a": {
+      "source": "연합뉴스·인천 서부경찰서 확인",
+      "title": "가스폭발에 달려가 LPG통2개 잠갔다…그 시민은 배우 윤대열",
+      "link": "https://www.yna.co.kr/view/AKR20261028149100065",
+      "first_seen_at": 1793175318,
+      "last_seen_at": 1793175318,
+      "samples": [
+        {
+          "at": 1793175318,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "d14816b2f17a",
+      "editorial": {
+        "title": "가스폭발에 달려가 LPG통2개 잠갔다…그 시민은 배우 윤대열",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261028149100065",
+        "source": "연합뉴스·인천 서부경찰서 확인",
+        "kind": "article",
+        "event_key": "incheon-lpg-explosion-yoon-dae-yeol-valve-closure-20261027",
+        "why": "동네 단톡방에 보낼 구체적인 기지. 폭발음을 듣고 도망치는 대신 가스통 위치를 아는 이웃이 밸브를 잠갔고 알고 보니 영화에서 보던 배우였다.",
+        "angle": "27일 폭발 때 추가 누출 막은 시민의 행동·신원을28일 경찰이 확인",
+        "why_now": "27일 폭발 때 추가 누출 막은 시민의 행동·신원을28일 경찰이 확인. 이번 미발송 후보의 행동·결과를 비교.",
+        "verified_at": 1793174800,
+        "published_at": 1793170809,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261028149100065",
+            "note": "경찰 취재 본문에서27일08:45 검단 마전동 폭발,인근 주민 윤대열이 열려 있던LPG통2개 밸브 잠근 뒤 신고한 경과 확인. 경찰은 계속 누출됐다면 위험했으며 추가 피해 예방했다고 설명."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261028149100065",
+            "label": "실제 본문·확인 발언",
+            "kind": "source"
+          }
+        ],
+        "caution": "현장영상 미시청·경찰 확인 본문 근거. 위험 현장 진입을 따라 하도록 권하지 않음. 사고27일·신원/행동 공개28일,폭발 원인은 조사 중.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-27",
+          "observation": "경찰 취재 본문에서27일08:45 검단 마전동 폭발,인근 주민 윤대열이 열려 있던LPG통2개 밸브 잠근 뒤 신고한 경과 확인. 경찰은 계속 누출됐다면 위험했으며 추가 피해 예방했다고 설명.",
+          "checked_materials": [],
+          "outline": [
+            "철거 중 폭발로 작업자·점주4명이 화상을 입은 배경",
+            "평소 가스통 위치를 알던 이웃이 밸브2개를 잠그고 신고",
+            "그 시민이 배우 윤대열이라는 경찰 확인과 추가 피해 예방 평가"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "실제 본문·확인 발언",
+            "url": "https://www.yna.co.kr/view/AKR20261028149100065"
+          }
+        ],
+        "excerpt": "",
+        "context": "27일 폭발 때 추가 누출 막은 시민의 행동·신원을28일 경찰이 확인. 이번 미발송 후보의 행동·결과를 비교.",
+        "fetched_at": 1793175318,
+        "parser_revision": 7
+      },
+      "curation_event_key": "incheon-lpg-explosion-yoon-dae-yeol-valve-closure-20261027"
+    },
+    "069a26645f7b": {
+      "source": "연합뉴스·대구지법 판결 취재",
+      "title": "아들 게임 아이템 돌려달라며 초등생에 협박10번…아버지 벌금150만원",
+      "link": "https://www.yna.co.kr/view/AKR20261028110800053",
+      "first_seen_at": 1793175318,
+      "last_seen_at": 1793175318,
+      "samples": [
+        {
+          "at": 1793175318,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "069a26645f7b",
+      "editorial": {
+        "title": "아들 게임 아이템 돌려달라며 초등생에 협박10번…아버지 벌금150만원",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261028110800053",
+        "source": "연합뉴스·대구지법 판결 취재",
+        "kind": "article",
+        "event_key": "father-roblox-item-child-threat-ten-messages-fine-20261028",
+        "why": "게임하는 친구와 부모에게 보낼 어른의 과잉 대응. 아이템 분쟁에 아버지가11세에게 열 번 협박하고 학교까지 찾아갔다가 아동학대 판단을 받았다.",
+        "angle": "28일 법원이 공개한 벌금150만원 판단:아이템 반환 수단으로 공포 이용",
+        "why_now": "28일 법원이 공개한 벌금150만원 판단:아이템 반환 수단으로 공포 이용. 이번 미발송 후보의 행동·결과를 비교.",
+        "verified_at": 1793175046,
+        "published_at": 1793163292,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261028110800053",
+            "note": "법원 취재 본문에서2025년8월13일 문자10회·21일 학교 정문에서 약5분 고성 확인.28일 공개 판결은 정서학대 아니라는 주장 배척,불안·공포를 아이템 반환 수단으로 삼았다고 판단."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261028110800053",
+            "label": "실제 본문·확인 발언",
+            "kind": "source"
+          }
+        ],
+        "caution": "아이템 절도는 아들의 말이며 확정 사실 아님. 아동 식별정보·협박 원문 확대 금지. 범행2025년8월,새 판결 공개28일·정확한 선고일 미상·확정 여부 미확인.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-28",
+          "observation": "법원 취재 본문에서2025년8월13일 문자10회·21일 학교 정문에서 약5분 고성 확인.28일 공개 판결은 정서학대 아니라는 주장 배척,불안·공포를 아이템 반환 수단으로 삼았다고 판단.",
+          "checked_materials": [],
+          "outline": [
+            "아들이 동급생에게 로블록스 아이템을 도둑맞았다고 말한 배경",
+            "모르는11세에게 집·학교에 찾아가겠다는 문자10회,학교 앞 고성",
+            "법원은 공포를 반환 수단으로 삼았다며 벌금150만원 선고"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "실제 본문·확인 발언",
+            "url": "https://www.yna.co.kr/view/AKR20261028110800053"
+          }
+        ],
+        "excerpt": "",
+        "context": "28일 법원이 공개한 벌금150만원 판단:아이템 반환 수단으로 공포 이용. 이번 미발송 후보의 행동·결과를 비교.",
+        "fetched_at": 1793175318,
+        "parser_revision": 7
+      },
+      "curation_event_key": "father-roblox-item-child-threat-ten-messages-fine-20261028"
+    },
+    "6093a64f3c8c": {
+      "source": "뉴시스·서울중앙지법 민사판결 취재",
+      "title": "“결국 시인했다”던 보도도 허위…주학년 소송1심,기자에2억 배상",
+      "link": "https://www.newsis.com/view/NISX20261028_0003845164",
+      "first_seen_at": 1793175318,
+      "last_seen_at": 1793175318,
+      "samples": [
+        {
+          "at": 1793175318,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "6093a64f3c8c",
+      "editorial": {
+        "title": "“결국 시인했다”던 보도도 허위…주학년 소송1심,기자에2억 배상",
+        "category": "시사",
+        "url": "https://www.newsis.com/view/NISX20261028_0003845164",
+        "source": "뉴시스·서울중앙지법 민사판결 취재",
+        "kind": "article",
+        "event_key": "ju-haknyeon-false-prostitution-report-civil-damages-20261028",
+        "why": "연예뉴스 공유하던 친구에게 보낼 사실검증의 반전. 소속사 대표의 말을 확인 없이 기사화했고 법원은 의혹과 시인 보도 모두 허위라고 판단했다.",
+        "angle": "23일 민사1심 판결의 구체 이유가28일 취재로 공개",
+        "why_now": "23일 민사1심 판결의 구체 이유가28일 취재로 공개. 이번 미발송 후보의 행동·결과를 비교.",
+        "verified_at": 1793174840,
+        "published_at": 1793173475,
+        "evidence": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261028_0003845164",
+            "note": "28일 법조 취재 본문에서23일 선고·10억원 청구 중2억원 인용 확인. 재판부는 의혹과 이를 시인했다는 보도 모두 허위,소속사 회장 말을 확인 없이 믿고 기사화했다고 판단. 별도 형사재판 진행 중."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261028_0003845164",
+            "label": "실제 본문·확인 발언",
+            "kind": "source"
+          }
+        ],
+        "caution": "판결일23일·구체 판결 이유 공개28일을 구별. 민사1심이며 확정 판결로 쓰지 않음. 허위로 판단된 의혹을 다시 사실처럼 제목·이미지로 재현하지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-23",
+          "observation": "28일 법조 취재 본문에서23일 선고·10억원 청구 중2억원 인용 확인. 재판부는 의혹과 이를 시인했다는 보도 모두 허위,소속사 회장 말을 확인 없이 믿고 기사화했다고 판단. 별도 형사재판 진행 중.",
+          "checked_materials": [],
+          "outline": [
+            "의혹 보도 뒤 팀 탈퇴·계약 해지가 발표됐던 배경",
+            "법원은 소속사 회장 주장만으로 단정한 보도와 시인 보도 모두 허위 판단",
+            "10억원 청구 중2억원 배상1심,형사재판은 별개로 진행"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "실제 본문·확인 발언",
+            "url": "https://www.newsis.com/view/NISX20261028_0003845164"
+          }
+        ],
+        "excerpt": "",
+        "context": "23일 민사1심 판결의 구체 이유가28일 취재로 공개. 이번 미발송 후보의 행동·결과를 비교.",
+        "fetched_at": 1793175318,
+        "parser_revision": 7
+      },
+      "curation_event_key": "ju-haknyeon-false-prostitution-report-civil-damages-20261028"
+    },
+    "ba9f98e764d1": {
+      "source": "뉴시스·국민권익위 중앙행심위 발표",
+      "title": "“의견 내세요” 통지보다 면허정지가 먼저…중앙행심위가 취소했다",
+      "link": "https://www.newsis.com/view/NISX20261028_0003844153",
+      "first_seen_at": 1793175318,
+      "last_seen_at": 1793175318,
+      "samples": [
+        {
+          "at": 1793175318,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "ba9f98e764d1",
+      "editorial": {
+        "title": "“의견 내세요” 통지보다 면허정지가 먼저…중앙행심위가 취소했다",
+        "category": "시사",
+        "url": "https://www.newsis.com/view/NISX20261028_0003844153",
+        "source": "뉴시스·국민권익위 중앙행심위 발표",
+        "kind": "article",
+        "event_key": "acrc-driving-licence-suspension-premature-decision-cancelled-20261028",
+        "why": "운전하는 친구에게 보낼 행정의 순서 역전. 의견을 받겠다는 통지를 보내기도 전에 이미 정지 결정을 해 놓아 처분이 취소됐다.",
+        "angle": "28일 중앙행심위 공개:사전통지·의견제출 기회를 건너뛴 정지처분 취소",
+        "why_now": "28일 중앙행심위 공개:사전통지·의견제출 기회를 건너뛴 정지처분 취소. 이번 미발송 후보의 행동·결과를 비교.",
+        "verified_at": 1793175026,
+        "published_at": 1793148113,
+        "evidence": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261028_0003844153",
+            "note": "본문에서A씨8월10일 면허정지 결정 뒤12일 사전통지서 발급,B씨8월11일 사전통지와 같은 날 결정 확인. 중앙행심위는 사전통지 절차 위반을 이유로 정지처분 취소했다고28일 발표."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261028_0003844153",
+            "label": "실제 본문·확인 발언",
+            "kind": "source"
+          }
+        ],
+        "caution": "새 사실은28일 재결 사례 공개,원래 위반행위가 없었다는 뜻 아님. 정지·취소 구별,개별 재결일 미공개. 모든 면허정지에 그대로 적용된다고 일반화하지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-28",
+          "observation": "본문에서A씨8월10일 면허정지 결정 뒤12일 사전통지서 발급,B씨8월11일 사전통지와 같은 날 결정 확인. 중앙행심위는 사전통지 절차 위반을 이유로 정지처분 취소했다고28일 발표.",
+          "checked_materials": [],
+          "outline": [
+            "8월12일 의견제출 통지서를 발급했는데 정지 결정은 이미10일",
+            "다른 사건도 통지한 당일 정지를 결정한 순서 문제",
+            "중앙행심위는 당사자 의견 기회를 보장하지 않았다며 처분 취소"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "실제 본문·확인 발언",
+            "url": "https://www.newsis.com/view/NISX20261028_0003844153"
+          }
+        ],
+        "excerpt": "",
+        "context": "28일 중앙행심위 공개:사전통지·의견제출 기회를 건너뛴 정지처분 취소. 이번 미발송 후보의 행동·결과를 비교.",
+        "fetched_at": 1793175318,
+        "parser_revision": 7
+      },
+      "curation_event_key": "acrc-driving-licence-suspension-premature-decision-cancelled-20261028"
+    },
+    "a0348a6ec9e9": {
+      "source": "뉴시스·식약처28일 브리핑",
+      "title": "“대치동 집중력 영양제”라더니 일반식품…가장 많이 팔린 제품엔 카페인100mg",
+      "link": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261028_0003844849",
+      "first_seen_at": 1793175318,
+      "last_seen_at": 1793175318,
+      "samples": [
+        {
+          "at": 1793175318,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "a0348a6ec9e9",
+      "editorial": {
+        "title": "“대치동 집중력 영양제”라더니 일반식품…가장 많이 팔린 제품엔 카페인100mg",
+        "category": "시사",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261028_0003844849",
+        "source": "뉴시스·식약처28일 브리핑",
+        "kind": "article",
+        "event_key": "mfds-student-focus-food-misleading-ad-23-vendors-20261028",
+        "why": "수험생 가족에게 보낼 광고와 실체의 차이. 집중력 기능성을 인정받은 영양제로 믿고 산 것이 캔디·당류가공품 등 일반식품이었다는 적발 결과다.",
+        "angle": "28일 식약처가23곳 부당광고 적발·고발 공개,판매액71억원",
+        "why_now": "28일 식약처가23곳 부당광고 적발·고발 공개,판매액71억원. 이번 미발송 후보의 행동·결과를 비교.",
+        "verified_at": 1793174756,
+        "published_at": 1793166783,
+        "evidence": [
+          {
+            "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261028_0003844849",
+            "note": "식약처 브리핑 본문에서23개 업소·41만박스71억원 판매 확인. 집중력 기능성 인정 제품 아닌 일반식품으로 부당광고. 판매량 최다 제품 한 포 카페인100mg,대웅제약2종 판매액56억원이라고 설명."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261028_0003844849",
+            "label": "실제 본문·확인 발언",
+            "kind": "source"
+          }
+        ],
+        "caution": "모든 제품이100mg·14배라는 뜻 아님. 행정처분 요청·고발 단계,유죄 확정 아님. 천연 원료도 카페인 총량에 포함된다는 브리핑 설명이며 개인 복용 조언 아님.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-28",
+          "observation": "식약처 브리핑 본문에서23개 업소·41만박스71억원 판매 확인. 집중력 기능성 인정 제품 아닌 일반식품으로 부당광고. 판매량 최다 제품 한 포 카페인100mg,대웅제약2종 판매액56억원이라고 설명.",
+          "checked_materials": [],
+          "outline": [
+            "수험생 영양제·집중력 향상 광고에 팔린41만박스",
+            "식약처는 기능성을 인정받지 않은 일반식품 광고라며23곳 적발",
+            "가장 많이 팔린 제품 카페인100mg,일부 제품 매입가 대비 최대14배"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "실제 본문·확인 발언",
+            "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261028_0003844849"
+          }
+        ],
+        "excerpt": "",
+        "context": "28일 식약처가23곳 부당광고 적발·고발 공개,판매액71억원. 이번 미발송 후보의 행동·결과를 비교.",
+        "fetched_at": 1793175318,
+        "parser_revision": 7
+      },
+      "curation_event_key": "mfds-student-focus-food-misleading-ad-23-vendors-20261028"
+    },
+    "ca87c552fab0": {
+      "source": "한국경제·서울경찰청 수사결과",
+      "title": "“중국산 테슬라는 왜 안 돼”…FSD 몰래 열었다가80명 송치",
+      "link": "https://www.hankyung.com/article/2026102786711",
+      "first_seen_at": 1793175318,
+      "last_seen_at": 1793175318,
+      "samples": [
+        {
+          "at": 1793175318,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "ca87c552fab0",
+      "editorial": {
+        "title": "“중국산 테슬라는 왜 안 돼”…FSD 몰래 열었다가80명 송치",
+        "category": "시사",
+        "url": "https://www.hankyung.com/article/2026102786711",
+        "source": "한국경제·서울경찰청 수사결과",
+        "kind": "article",
+        "event_key": "tesla-fsd-unauthorised-activation-80-drivers-referral-20261027",
+        "why": "테슬라 타는 친구에게 보낼 생산지 제한과 우회의 대가. 같은 기능을 쓰고 싶어 비인가 장치를 달았던 중국산 차주80명이 형사절차로 넘어갔다.",
+        "angle": "27일 경찰이80명·81대 적발·송치 공개,미발송24시간 범위에서 비교",
+        "why_now": "27일 경찰이80명·81대 적발·송치 공개,미발송24시간 범위에서 비교. 이번 미발송 후보의 행동·결과를 비교.",
+        "verified_at": 1793174840,
+        "published_at": 1793091668,
+        "evidence": [
+          {
+            "url": "https://www.hankyung.com/article/2026102786711",
+            "note": "27일 경찰 발표 취재 본문에서80명·81대 중국산 차량 비인가FSD 활성화 혐의 송치 확인. 미국산 일부만FTA특례로 허용,중국산 등77.6%는 제한. FSD는 상시 감독이 필요한 주행 보조라고 명시."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.hankyung.com/article/2026102786711",
+            "label": "실제 본문·확인 발언",
+            "kind": "source"
+          }
+        ],
+        "caution": "27일18:01 최초 보도,재게시를28일 사건으로 바꾸지 않음. 송치는 유죄 확정 아님. 완전자율주행으로 과장·장치 제작/구매/우회 방법 제공 금지.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-27",
+          "observation": "27일 경찰 발표 취재 본문에서80명·81대 중국산 차량 비인가FSD 활성화 혐의 송치 확인. 미국산 일부만FTA특례로 허용,중국산 등77.6%는 제한. FSD는 상시 감독이 필요한 주행 보조라고 명시.",
+          "checked_materials": [],
+          "outline": [
+            "같은 테슬라라도 생산지·인증 특례에 따라 FSD 사용이 갈린 배경",
+            "비인가 장치를 단80명·81대 적발,경찰은 불법 소프트웨어 변경 혐의 송치",
+            "테슬라는 기능 차단·업데이트,적합성 승인은 아직 검토 단계"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "실제 본문·확인 발언",
+            "url": "https://www.hankyung.com/article/2026102786711"
+          }
+        ],
+        "excerpt": "",
+        "context": "27일 경찰이80명·81대 적발·송치 공개,미발송24시간 범위에서 비교. 이번 미발송 후보의 행동·결과를 비교.",
+        "fetched_at": 1793175318,
+        "parser_revision": 7
+      },
+      "curation_event_key": "tesla-fsd-unauthorised-activation-80-drivers-referral-20261027"
+    },
+    "ec14ef927a1c": {
+      "source": "오늘의 주우재 공개 캡처·엑스포츠뉴스",
+      "title": "주우재 “못 하는 요구 거절했더니”…돌아온 말은 “현장 태도 안 좋대”",
+      "link": "https://www.xportsnews.com/article/2212068",
+      "first_seen_at": 1793175318,
+      "last_seen_at": 1793175318,
+      "samples": [
+        {
+          "at": 1793175318,
+          "views": null,
+          "reactions": null,
+          "rank": 8,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "ec14ef927a1c",
+      "editorial": {
+        "title": "주우재 “못 하는 요구 거절했더니”…돌아온 말은 “현장 태도 안 좋대”",
+        "category": "시사",
+        "url": "https://www.xportsnews.com/article/2212068",
+        "source": "오늘의 주우재 공개 캡처·엑스포츠뉴스",
+        "kind": "article",
+        "event_key": "joo-woo-jae-unfair-request-refusal-bad-attitude-backtalk-20261027",
+        "why": "직장 친구에게 보낼 거절하면 태도 문제가 되는 역설. 뒷담화 고민에 주우재가 자신의 거절→나쁜 평판 경험을 꺼내는 구체 대화다.",
+        "angle": "27일 고민상담 원공개,28일 취재와 공개 자막 캡처로 문맥 확인",
+        "why_now": "27일 고민상담 원공개,28일 취재와 공개 자막 캡처로 문맥 확인. 이번 미발송 후보의 행동·결과를 비교.",
+        "verified_at": 1793175026,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.xportsnews.com/article/2212068",
+            "note": "실제 캡처에서 뒷담화 사연과 “회사 생활의 일부”,“현장 담당자의 말도 안 되는 부당한 요구”→“현장에서 태도 안 좋다는 얘기” 자막·주우재 발화 모습 확인. 본문에서할 수 없는 영역이라 거절했던 앞뒤 대화 대조."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://image.xportsnews.com/contents/images/upload/article/2026/1027/1793108035351164.webp",
+            "label": "뒷담화 고민 실제 자막",
+            "kind": "image"
+          },
+          {
+            "url": "https://image.xportsnews.com/contents/images/upload/article/2026/1027/1793108041599790.webp",
+            "label": "부당한 요구·태도 평가 자막",
+            "kind": "image"
+          },
+          {
+            "url": "https://www.xportsnews.com/article/2212068",
+            "label": "거절 전후 대화 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "27일 원공개·시각은 날짜 정밀도,28일 기사로 새 사건처럼 쓰지 않음. 개인 경험 진술이며 상대 신원·요구 내용 미공개. 전체영상·음성 미시청,실제 캡처만 관찰.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-27",
+          "observation": "실제 캡처에서 뒷담화 사연과 “회사 생활의 일부”,“현장 담당자의 말도 안 되는 부당한 요구”→“현장에서 태도 안 좋다는 얘기” 자막·주우재 발화 모습 확인. 본문에서할 수 없는 영역이라 거절했던 앞뒤 대화 대조.",
+          "checked_materials": [
+            "https://image.xportsnews.com/contents/images/upload/article/2026/1027/1793108035351164.webp",
+            "https://image.xportsnews.com/contents/images/upload/article/2026/1027/1793108041599790.webp"
+          ],
+          "outline": [
+            "구독자가 뒷말 때문에 출근이 힘들다는 사연을 보낸 실제 화면",
+            "주우재가 현장 요구를 거절했다는 대화는 본문으로 연결",
+            "실제 자막 “현장에서 태도 안 좋다는 얘기”와 기본 매너 지키라는 응수"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [
+          {
+            "url": "https://image.xportsnews.com/contents/images/upload/article/2026/1027/1793108035351164.webp",
+            "label": "뒷담화 고민 실제 자막",
+            "kind": "image"
+          },
+          {
+            "url": "https://image.xportsnews.com/contents/images/upload/article/2026/1027/1793108041599790.webp",
+            "label": "부당한 요구·태도 평가 자막",
+            "kind": "image"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "뒷담화 고민 실제 자막",
+            "url": "https://image.xportsnews.com/contents/images/upload/article/2026/1027/1793108035351164.webp"
+          },
+          {
+            "label": "부당한 요구·태도 평가 자막",
+            "url": "https://image.xportsnews.com/contents/images/upload/article/2026/1027/1793108041599790.webp"
+          },
+          {
+            "label": "거절 전후 대화 본문",
+            "url": "https://www.xportsnews.com/article/2212068"
+          }
+        ],
+        "excerpt": "",
+        "context": "27일 고민상담 원공개,28일 취재와 공개 자막 캡처로 문맥 확인. 이번 미발송 후보의 행동·결과를 비교.",
+        "fetched_at": 1793175318,
+        "parser_revision": 7
+      },
+      "curation_event_key": "joo-woo-jae-unfair-request-refusal-bad-attitude-backtalk-20261027"
+    },
+    "0ed5bc86a4c5": {
+      "source": "뉴시스·방미통위 전체회의 의결",
+      "title": "“다른 결제도 허용”하지만 수수료26%…구글·애플637억 제재",
+      "link": "https://www.newsis.com/view/NISX20261028_0003845029",
+      "first_seen_at": 1793175318,
+      "last_seen_at": 1793175318,
+      "samples": [
+        {
+          "at": 1793175318,
+          "views": null,
+          "reactions": null,
+          "rank": 9,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "0ed5bc86a4c5",
+      "editorial": {
+        "title": "“다른 결제도 허용”하지만 수수료26%…구글·애플637억 제재",
+        "category": "시사",
+        "url": "https://www.newsis.com/view/NISX20261028_0003845029",
+        "source": "뉴시스·방미통위 전체회의 의결",
+        "kind": "article",
+        "event_key": "google-apple-in-app-payment-fine-resolution-20261028",
+        "why": "앱 구독·게임 결제하는 친구에게 보낼 형식적 선택권의 모순. 다른 결제를 열어줘도 높은 수수료·절차 때문에 사실상 자사 결제로 몰았다는 당국 판단이다.",
+        "angle": "28일 과징금637억1000만원·시정명령 의결,2023년 통지 뒤3년 걸린 결론",
+        "why_now": "28일 과징금637억1000만원·시정명령 의결,2023년 통지 뒤3년 걸린 결론. 이번 미발송 후보의 행동·결과를 비교.",
+        "verified_at": 1793175046,
+        "published_at": 1793172757,
+        "evidence": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261028_0003845029",
+            "note": "28일 의결 취재 본문에서구글429억원·애플208억1000만원 제재 확인. 제3자결제26%와PG비용·표시 제한·별도 앱 제출 등이 실질적 선택권 제한 근거. 국내 개발사만VAT포함 수수료 산정한 애플 차별도 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261028_0003845029",
+            "label": "실제 본문·확인 발언",
+            "kind": "source"
+          }
+        ],
+        "caution": "행정 제재 의결이며 이용자 환불·가격 인하 즉시 확정 아님.26%는 제3자 결제 관련 조건,모든 결제 수수료로 일반화 금지. 과거예고와28일 최종의결 구별.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-28",
+          "observation": "28일 의결 취재 본문에서구글429억원·애플208억1000만원 제재 확인. 제3자결제26%와PG비용·표시 제한·별도 앱 제출 등이 실질적 선택권 제한 근거. 국내 개발사만VAT포함 수수료 산정한 애플 차별도 확인.",
+          "checked_materials": [],
+          "outline": [
+            "다른 결제도 허용한다면서26%수수료와추가비용·절차 적용",
+            "애플은 국내 개발사에만VAT포함 금액으로수수료 산정했던 차별",
+            "3년 지연 끝637억1000만원 제재·시정명령,결제가격 인하는 아직 아님"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "실제 본문·확인 발언",
+            "url": "https://www.newsis.com/view/NISX20261028_0003845029"
+          }
+        ],
+        "excerpt": "",
+        "context": "28일 과징금637억1000만원·시정명령 의결,2023년 통지 뒤3년 걸린 결론. 이번 미발송 후보의 행동·결과를 비교.",
+        "fetched_at": 1793175318,
+        "parser_revision": 7
+      },
+      "curation_event_key": "google-apple-in-app-payment-fine-resolution-20261028"
+    },
+    "e1c27936b7a1": {
+      "source": "연합뉴스·법무부28일 발표",
+      "title": "국민연금 합병 개입 분쟁,8년3개월 끝1530억…정부 “더 안 다툰다”",
+      "link": "https://www.hankyung.com/article/202610280674Y",
+      "first_seen_at": 1793175318,
+      "last_seen_at": 1793175318,
+      "samples": [
+        {
+          "at": 1793175318,
+          "views": null,
+          "reactions": null,
+          "rank": 10,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "e1c27936b7a1",
+      "editorial": {
+        "title": "국민연금 합병 개입 분쟁,8년3개월 끝1530억…정부 “더 안 다툰다”",
+        "category": "시사",
+        "url": "https://www.hankyung.com/article/202610280674Y",
+        "source": "연합뉴스·법무부28일 발표",
+        "kind": "article",
+        "event_key": "korea-elliott-remand-award-no-annulment-challenge-20261028",
+        "why": "세금·연금 얘기하는 친구에게 보낼 뒤늦은 비용 청구서. 삼성 합병 의결권 개입으로 시작된 분쟁에서 정부가 일부 취소를 받아도 환송중재는 다시 배상책임을 인정했다.",
+        "angle": "28일 정부가취소소송 포기 결정 공개:원금·이자 등약1530억원 책임 수용",
+        "why_now": "28일 정부가취소소송 포기 결정 공개:원금·이자 등약1530억원 책임 수용. 이번 미발송 후보의 행동·결과를 비교.",
+        "verified_at": 1793174840,
+        "published_at": 1793164517,
+        "evidence": [
+          {
+            "url": "https://www.hankyung.com/article/202610280674Y",
+            "note": "법무부 발표 본문에서9월30일 환송중재 재차배상,약1530억원 원금·지연이자 등 확인. 정부는 판정문·추가 소송비용 검토 뒤28일 영국법원 취소소송 제기하지 않기로 발표. 구체 지급방안·액수는 논의 중."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.hankyung.com/article/202610280674Y",
+            "label": "실제 본문·확인 발언",
+            "kind": "source"
+          }
+        ],
+        "caution": "28일 새 사실은 정부의 소송 포기.9월30일 판정과 구별. 실제 지급 완료·정확 지급액 확정 아님. 엘리엇 측 후속 절차 여부는 이 본문에서 미확인.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-28",
+          "observation": "법무부 발표 본문에서9월30일 환송중재 재차배상,약1530억원 원금·지연이자 등 확인. 정부는 판정문·추가 소송비용 검토 뒤28일 영국법원 취소소송 제기하지 않기로 발표. 구체 지급방안·액수는 논의 중.",
+          "checked_materials": [],
+          "outline": [
+            "삼성 합병 때 국민연금 의결권 개입 문제로2018년 시작된 분쟁",
+            "정부가 일부 판정 취소를 받아도 환송중재는 다시 배상책임 인정",
+            "약1530억원 원금·이자 책임을 받아들이고 정부는 추가 소송 포기"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "실제 본문·확인 발언",
+            "url": "https://www.hankyung.com/article/202610280674Y"
+          }
+        ],
+        "excerpt": "",
+        "context": "28일 정부가취소소송 포기 결정 공개:원금·이자 등약1530억원 책임 수용. 이번 미발송 후보의 행동·결과를 비교.",
+        "fetched_at": 1793175318,
+        "parser_revision": 7
+      },
+      "curation_event_key": "korea-elliott-remand-award-no-annulment-challenge-20261028"
+    },
     "a67b50fc05fd": {
       "source": "SBS·축구협회 심판판정브리핑5호",
       "title": "얼굴 팔꿈치 가격에 옐로카드…축구협회 “퇴장감,VAR도 오심”",
@@ -25962,883 +26714,7 @@
         "parser_revision": 7
       },
       "curation_event_key": "korea-october-1-20-exports-record-chip-share-20261021"
-    },
-    "7ef75ffc0066": {
-      "source": "지효 공식 SNS·스타투데이",
-      "title": "JYP와 21년 동행 끝낸 지효…새 회사를 만들지만 트와이스는 계속",
-      "link": "https://www.mk.co.kr/news/musics/12181602",
-      "first_seen_at": 1792568404,
-      "last_seen_at": 1792568404,
-      "samples": [
-        {
-          "at": 1792568404,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "7ef75ffc0066",
-      "editorial": {
-        "title": "JYP와 21년 동행 끝낸 지효…새 회사를 만들지만 트와이스는 계속",
-        "category": "아이돌",
-        "url": "https://www.mk.co.kr/news/musics/12181602",
-        "source": "지효 공식 SNS·스타투데이",
-        "kind": "article",
-        "event_key": "jihyo-jyp-contract-ends-emithaus-established-remains-twice-20261021",
-        "why": "트와이스 팬과 직장인이 ‘21년 소속사 종료·회사 설립·팀 활동 유지’라는 세 갈래 변화를 한눈에 이해할 수 있다.",
-        "angle": "첫 장은 ‘JYP 21년 종료·EMITHAUS 설립’, 다음 장은 ‘트와이스를 떠나는 것은 아니다’를 대비한다.",
-        "why_now": "지효가 21일 정오 손편지로 계약 종료와 회사 설립, 트와이스 활동 지속을 처음 함께 밝혔다.",
-        "verified_at": 1792568359,
-        "published_at": 1792551611,
-        "evidence": [
-          {
-            "url": "https://www.mk.co.kr/news/musics/12181602",
-            "note": "13:20 기사에서 정오 공개된 손편지의 JYP 21년 여정 종료, EMITHAUS 설립, 트와이스 무대 지속 문구를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.mk.co.kr/news/musics/12181602",
-            "label": "손편지 인용 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "개인 계약 종료를 트와이스 탈퇴로 쓰지 않는다. 회사의 인력·투자·사업 범위는 공개되지 않았다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-21",
-          "observation": "지효가 JYP와 21년 동행을 끝내고 EMITHAUS를 세웠지만 트와이스 팀과 무대는 계속한다고 밝힌 공식 손편지를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "첫 장: ‘JYP 21년 종료’와 ‘EMITHAUS 설립’",
-            "2장: 새 회사 이름과 홀로서기",
-            "3장: ‘트와이스 탈퇴는 아니다’라는 핵심 반전"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "손편지 인용 본문",
-            "url": "https://www.mk.co.kr/news/musics/12181602"
-          }
-        ],
-        "excerpt": "",
-        "context": "지효가 21일 정오 손편지로 계약 종료와 회사 설립, 트와이스 활동 지속을 처음 함께 밝혔다.",
-        "fetched_at": 1792568404,
-        "parser_revision": 7
-      },
-      "curation_event_key": "jihyo-jyp-contract-ends-emithaus-established-remains-twice-20261021"
-    },
-    "6aeb0e482742": {
-      "source": "금감원 제출자료·연합뉴스",
-      "title": "두 달 반 만에 개인 손실 6조3130억…70대 계좌는 평균 2994만원",
-      "link": "https://www.yna.co.kr/view/AKR20261021089900008",
-      "first_seen_at": 1792568404,
-      "last_seen_at": 1792568404,
-      "samples": [
-        {
-          "at": 1792568404,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "6aeb0e482742",
-      "editorial": {
-        "title": "두 달 반 만에 개인 손실 6조3130억…70대 계좌는 평균 2994만원",
-        "category": "시사",
-        "url": "https://www.yna.co.kr/view/AKR20261021089900008",
-        "source": "금감원 제출자료·연합뉴스",
-        "kind": "article",
-        "event_key": "single-stock-etp-personal-losses-6point313-trillion-disclosure-20261021",
-        "why": "레버리지 투자자와 가족이 출시 두 달 반 뒤 드러난 총손실과 고령층 계좌당 손실을 구체적인 숫자로 비교할 수 있다.",
-        "angle": "첫 장은 ‘총 6조3130억·70대 평균 2994만원’, 다음 장은 실현손실과 평가손실을 나눠 보여준다.",
-        "why_now": "21일 국회 제출 금감원 자료로 출시 뒤 8월 14일까지의 연령별·실현 여부별 손실이 처음 공개됐다.",
-        "verified_at": 1792568359,
-        "published_at": 1792552620,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261021089900008",
-            "note": "10개 증권사 54만6000계좌의 총손실 6조3130억원, 실현손실 2조3242억원, 70대 이상 계좌당 약 2994만원을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261021089900008",
-            "label": "금감원 집계 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "총손실은 실현·평가손실 합계다. 자료만으로 손절·반대매매 원인을 확정하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-21",
-          "observation": "단일종목 ETP 출시 뒤 약 두 달 반 동안 개인 총손실 6조3130억원과 연령대별 계좌 수·손실액이 공개된 것을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "첫 장: 출시 두 달 반·총손실 6조3130억원",
-            "2장: 실현 2조3242억 대 평가 3조9888억",
-            "3장: 40대 총액 최대, 70대 계좌당 평균 최대"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "금감원 집계 본문",
-            "url": "https://www.yna.co.kr/view/AKR20261021089900008"
-          }
-        ],
-        "excerpt": "",
-        "context": "21일 국회 제출 금감원 자료로 출시 뒤 8월 14일까지의 연령별·실현 여부별 손실이 처음 공개됐다.",
-        "fetched_at": 1792568404,
-        "parser_revision": 7
-      },
-      "curation_event_key": "single-stock-etp-personal-losses-6point313-trillion-disclosure-20261021"
-    },
-    "637cd8e3848c": {
-      "source": "이투데이·연합뉴스",
-      "title": "출전했는데 한 번도 안 뛰었다…우상혁, 부상에 전국체전 7연패 도전 멈춤",
-      "link": "https://www.etoday.co.kr/news/view/2638314?trc=main_list_news",
-      "first_seen_at": 1792568404,
-      "last_seen_at": 1792568404,
-      "samples": [
-        {
-          "at": 1792568404,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "637cd8e3848c",
-      "editorial": {
-        "title": "출전했는데 한 번도 안 뛰었다…우상혁, 부상에 전국체전 7연패 도전 멈춤",
-        "category": "메이저 스포츠",
-        "url": "https://www.etoday.co.kr/news/view/2638314?trc=main_list_news",
-        "source": "이투데이·연합뉴스",
-        "kind": "article",
-        "event_key": "woo-sang-hyeok-national-games-zero-attempt-injury-streak-ends-20261021",
-        "why": "우상혁을 아는 스포츠 팬이 ‘결승 출전→도약 0회→6연속 우승 종료’라는 예상 밖 결과와 부상 이유를 바로 이해한다.",
-        "angle": "첫 장은 ‘기록 없음·도약 0회’, 다음 장은 아시안게임 동메달 뒤 공개된 발등 인대 파열과 회복 결정을 설명한다.",
-        "why_now": "21일 결승에서 첫 높이 1m90을 시도하지 않으면서 7회 연속 우승 도전이 실제로 끝났다.",
-        "verified_at": 1792568359,
-        "published_at": 1792548900,
-        "evidence": [
-          {
-            "url": "https://www.etoday.co.kr/news/view/2638314?trc=main_list_news",
-            "note": "11:15 본문에서 첫 높이 1m90을 시도하지 않아 기록 없이 마쳤고, 발등 인대 파열 악화를 막기 위한 결정임을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.etoday.co.kr/news/view/2638314?trc=main_list_news",
-            "label": "경기 결과 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "대표 사진은 아시안게임 자료사진이다. ‘6연패 보유’와 ‘7연패 도전’을 혼동하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-21",
-          "observation": "전국체전 남자 일반부 결승에 출전했지만 1m90부터 한 차례도 도약하지 않아 기록 없이 마친 사실과 부상 사유를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "첫 장: ‘결승 출전, 도약 0회’",
-            "2장: 2018년부터 이어진 6연속 우승",
-            "3장: 발등 인대 파열과 다음 시즌을 택한 이유"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "경기 결과 본문",
-            "url": "https://www.etoday.co.kr/news/view/2638314?trc=main_list_news"
-          }
-        ],
-        "excerpt": "",
-        "context": "21일 결승에서 첫 높이 1m90을 시도하지 않으면서 7회 연속 우승 도전이 실제로 끝났다.",
-        "fetched_at": 1792568404,
-        "parser_revision": 7
-      },
-      "curation_event_key": "woo-sang-hyeok-national-games-zero-attempt-injury-streak-ends-20261021"
-    },
-    "c3a1bf5b741b": {
-      "source": "인천지법·연합뉴스",
-      "title": "교사 사진으로 만든 딥페이크 성착취물…형사 3년 뒤 민사 배상 1770만원",
-      "link": "https://www.yna.co.kr/view/AKR20261021057800065",
-      "first_seen_at": 1792568404,
-      "last_seen_at": 1792568404,
-      "samples": [
-        {
-          "at": 1792568404,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "c3a1bf5b741b",
-      "editorial": {
-        "title": "교사 사진으로 만든 딥페이크 성착취물…형사 3년 뒤 민사 배상 1770만원",
-        "category": "시사",
-        "url": "https://www.yna.co.kr/view/AKR20261021057800065",
-        "source": "인천지법·연합뉴스",
-        "kind": "article",
-        "event_key": "deepfake-teacher-civil-damages-17point7m-student-20261021",
-        "why": "교사·학부모·학생이 딥페이크 범죄가 형사처벌 뒤 민사책임까지 이어진 실제 판결을 금액과 함께 공유할 수 있다.",
-        "angle": "첫 장은 ‘징역 3년 확정→민사 1770만원’, 다음 장은 피해교사의 청구와 법원의 일부 인용을 분리한다.",
-        "why_now": "21일 인천지법이 피해교사의 손해배상 청구를 일부 받아들인 새 판결이 공개됐다.",
-        "verified_at": 1792568359,
-        "published_at": 1792546020,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261021057800065",
-            "note": "가해자가 2024년 교사 등의 얼굴을 성착취물에 합성·유포해 징역 3년이 확정됐고, 법원이 1770만원 배상을 명령한 사실을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261021057800065",
-            "label": "판결 확인 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "피해자 신원을 노출하지 않는다. 기사 사진은 사건과 무관한 예방 유인물 자료사진이며 성착취 이미지를 쓰지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-21",
-          "observation": "가해학생의 징역 3년 확정 뒤 피해교사가 제기한 민사소송에서 법원이 1770만원 배상을 명령한 새 판결을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "첫 장: ‘형사 3년 확정 뒤 민사 1770만원’",
-            "2장: 교사 사진 합성·유포 사건의 범위",
-            "3장: 청구 7200만원 중 일부 인용과 의미"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "판결 확인 본문",
-            "url": "https://www.yna.co.kr/view/AKR20261021057800065"
-          }
-        ],
-        "excerpt": "",
-        "context": "21일 인천지법이 피해교사의 손해배상 청구를 일부 받아들인 새 판결이 공개됐다.",
-        "fetched_at": 1792568404,
-        "parser_revision": 7
-      },
-      "curation_event_key": "deepfake-teacher-civil-damages-17point7m-student-20261021"
-    },
-    "1a13e226788f": {
-      "source": "대한유도회 경위서·연합뉴스",
-      "title": "남자 명단 첫 장만 봤다…정수진 계체 실격 경위서가 드러낸 두 장면",
-      "link": "https://www.yna.co.kr/amp/view/AKR20261021022900001",
-      "first_seen_at": 1792568404,
-      "last_seen_at": 1792568404,
-      "samples": [
-        {
-          "at": 1792568404,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "1a13e226788f",
-      "editorial": {
-        "title": "남자 명단 첫 장만 봤다…정수진 계체 실격 경위서가 드러낸 두 장면",
-        "category": "메이저 스포츠",
-        "url": "https://www.yna.co.kr/amp/view/AKR20261021022900001",
-        "source": "대한유도회 경위서·연합뉴스",
-        "kind": "article",
-        "event_key": "judo-jeong-sujin-weighin-report-trainer-blame-timeline-discrepancy-20261021",
-        "why": "국가대표 팬이 선수의 실격을 개인 체중 실패가 아니라 명단 확인·식사 지시·공개 시점의 문제로 다시 보게 한다.",
-        "angle": "첫 장은 ‘남자 명단 첫 장만 확인’, 다음 장은 감독의 식사 지시와 선수 요청 시점 차이를 시간순으로 놓는다.",
-        "why_now": "21일 국회에 제출된 새 경위서와 선수 측 설명의 날짜 차이, 유도회가 당일 보고받았다는 사실이 공개됐다.",
-        "verified_at": 1792568359,
-        "published_at": 1792539480,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/amp/view/AKR20261021022900001",
-            "note": "경위서에 남자선수 명단 첫 장만 확인했다고 적혔고, 감독의 식사 지시·선수 공개 요청 시점·유도회 당일 인지 사실이 함께 보도됐다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/amp/view/AKR20261021022900001",
-            "label": "경위서 보도 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "경위서 책임 배분에 대한 비판은 의원 주장이다. 자료사진을 계체 당일 장면으로 표시하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-21",
-          "observation": "무작위 계체 명단의 첫 장에 있던 남자선수만 확인했고, 최종 판단 뒤 선수에게 식사를 지시했다는 경위서 내용을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "첫 장: ‘남자 명단 첫 장만 확인’",
-            "2장: 대상 아님 전달→식사→종료 15분 전 통보",
-            "3장: 선수의 공개 요청 시점과 경위서 기록 차이"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "경위서 보도 본문",
-            "url": "https://www.yna.co.kr/amp/view/AKR20261021022900001"
-          }
-        ],
-        "excerpt": "",
-        "context": "21일 국회에 제출된 새 경위서와 선수 측 설명의 날짜 차이, 유도회가 당일 보고받았다는 사실이 공개됐다.",
-        "fetched_at": 1792568404,
-        "parser_revision": 7
-      },
-      "curation_event_key": "judo-jeong-sujin-weighin-report-trainer-blame-timeline-discrepancy-20261021"
-    },
-    "5d2876b09f23": {
-      "source": "서울아산병원",
-      "title": "두피 80%를 잃은 6살 아이…한국 의료진은 ‘머리카락이 자랄 방법’을 택했다",
-      "link": "https://news.amc.seoul.kr/news/con/detail.do?cntId=12366",
-      "first_seen_at": 1792568404,
-      "last_seen_at": 1792568404,
-      "samples": [
-        {
-          "at": 1792568404,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "official",
-      "story_id": "5d2876b09f23",
-      "editorial": {
-        "title": "두피 80%를 잃은 6살 아이…한국 의료진은 ‘머리카락이 자랄 방법’을 택했다",
-        "category": "시사",
-        "url": "https://news.amc.seoul.kr/news/con/detail.do?cntId=12366",
-        "source": "서울아산병원",
-        "kind": "official",
-        "event_key": "kyrgyz-child-scalp-reconstruction-tissue-expansion-korea-20261021",
-        "why": "부모와 의료 종사자가 단순 구조담이 아니라 평생의 외형까지 고려한 수술 선택과 회복 결과를 함께 볼 수 있다.",
-        "angle": "첫 장은 퇴원 사진과 ‘두피 80% 손상→귀국’, 다음 장은 피부이식 대신 남은 두피를 두 달 넘게 확장한 이유다.",
-        "why_now": "서울아산병원이 21일 조직확장술 성공과 10월 15일 귀국 사실을 처음 공개했다.",
-        "verified_at": 1792568359,
-        "published_at": 1792541880,
-        "evidence": [
-          {
-            "url": "https://news.amc.seoul.kr/news/con/detail.do?cntId=12366",
-            "note": "두피 25×25cm·약 80% 손상, 7월 입국, 두 달 넘는 조직확장, 9월 29일 재건수술과 10월 15일 귀국을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://news.amc.seoul.kr/news/con/detail.do?cntId=12366",
-            "label": "병원 발표·퇴원 사진",
-            "kind": "source"
-          }
-        ],
-        "caution": "4월 사고 자체는 오래된 일이고 새 사실은 치료 성공 공개다. 상처 사진 대신 10월 14일 퇴원 사진을 우선한다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-21",
-          "observation": "남은 두피가 20%도 안 된 6세 아동에게 조직확장기 3개를 써 두개골을 덮고 건강하게 귀국시킨 결과를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "첫 장: 퇴원 사진과 ‘두피 80% 손상→귀국’",
-            "2장: 머리카락이 자랄 두피를 늘린 선택",
-            "3장: 7월 입국→9월 수술→10월 귀국"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "병원 발표·퇴원 사진",
-            "url": "https://news.amc.seoul.kr/news/con/detail.do?cntId=12366"
-          }
-        ],
-        "excerpt": "",
-        "context": "서울아산병원이 21일 조직확장술 성공과 10월 15일 귀국 사실을 처음 공개했다.",
-        "fetched_at": 1792568404,
-        "parser_revision": 7
-      },
-      "curation_event_key": "kyrgyz-child-scalp-reconstruction-tissue-expansion-korea-20261021"
-    },
-    "acee40f76388": {
-      "source": "한국경제·MBC",
-      "title": "대통령이 ‘제미나이에게 물어봤습니다’…AI 답변으로 중수청장 배석 논란 반박",
-      "link": "https://www.hankyung.com/article/2026102153277",
-      "first_seen_at": 1792568404,
-      "last_seen_at": 1792568404,
-      "samples": [
-        {
-          "at": 1792568404,
-          "views": null,
-          "reactions": null,
-          "rank": 7,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "acee40f76388",
-      "editorial": {
-        "title": "대통령이 ‘제미나이에게 물어봤습니다’…AI 답변으로 중수청장 배석 논란 반박",
-        "category": "시사",
-        "url": "https://www.hankyung.com/article/2026102153277",
-        "source": "한국경제·MBC",
-        "kind": "article",
-        "event_key": "president-lee-gemini-answer-cisc-chief-cabinet-meeting-rebuttal-20261021",
-        "why": "정치와 AI 이용자 모두가 대통령이 생성형 AI의 법률 답변을 공개 반박 근거로 쓴 장면을 친구에게 설명하기 쉽다.",
-        "angle": "첫 장은 실제 SNS 제목, 다음 장은 중수청장 국무회의 배석 쟁점과 대통령의 별도 입장을 구분한다.",
-        "why_now": "21일 오전 대통령이 자신의 X에 제미나이 답변과 후속 입장을 직접 공개했다.",
-        "verified_at": 1792568359,
-        "published_at": 1792542240,
-        "evidence": [
-          {
-            "url": "https://www.hankyung.com/article/2026102153277",
-            "note": "10:24 기사에서 대통령 SNS 제목과 공유된 제미나이 답변, 이어 올린 대통령의 직접 입장을 확인했다."
-          },
-          {
-            "url": "https://imnews.imbc.com/news/2026/politics/article/6859548_36911.html",
-            "note": "MBC 보도에서 배석 논란 배경과 구체적 사건 수사 지휘는 하지 않겠다는 설명을 교차 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.hankyung.com/article/2026102153277",
-            "label": "SNS 캡처와 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "제미나이 답변은 법원 판단이나 공식 법률해석이 아니다. ‘위헌적 억지’는 대통령 측 주장으로 귀속한다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-21",
-          "observation": "대통령이 X에 ‘제미나이에게 물어봤습니다’라는 글로 AI 법률 답변을 공유하고 배석 반대론을 반박한 사실을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "첫 장: ‘제미나이에게 물어봤습니다’",
-            "2장: 중수청장의 첫 국무회의 배석 쟁점",
-            "3장: AI 답변과 대통령 후속 설명 분리"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "SNS 캡처와 본문",
-            "url": "https://www.hankyung.com/article/2026102153277"
-          }
-        ],
-        "excerpt": "",
-        "context": "21일 오전 대통령이 자신의 X에 제미나이 답변과 후속 입장을 직접 공개했다.",
-        "fetched_at": 1792568404,
-        "parser_revision": 7
-      },
-      "curation_event_key": "president-lee-gemini-answer-cisc-chief-cabinet-meeting-rebuttal-20261021"
-    },
-    "785c5504a644": {
-      "source": "서울고법·뉴시스",
-      "title": "‘50억 클럽’은 또 무죄…박영수는 인정액 3억→2억에 형량 7년→6년",
-      "link": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261021_0003834984",
-      "first_seen_at": 1792568404,
-      "last_seen_at": 1792568404,
-      "samples": [
-        {
-          "at": 1792568404,
-          "views": null,
-          "reactions": null,
-          "rank": 8,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "785c5504a644",
-      "editorial": {
-        "title": "‘50억 클럽’은 또 무죄…박영수는 인정액 3억→2억에 형량 7년→6년",
-        "category": "시사",
-        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261021_0003834984",
-        "source": "서울고법·뉴시스",
-        "kind": "article",
-        "event_key": "park-young-soo-daejangdong-appeal-seven-to-six-years-20261021",
-        "why": "대장동 사건을 지켜본 독자가 ‘50억 약정 무죄 유지’와 별개로 어떤 돈이 유죄였고 왜 1년 감형됐는지 구분할 수 있다.",
-        "angle": "첫 장은 ‘50억 약정 무죄·징역 6년’, 다음 장은 수수 인정액 3억에서 2억원으로 줄어든 구조를 푼다.",
-        "why_now": "21일 항소심이 1심 판단 중 인정 금액과 형량을 바꾸고 보석 상태는 유지했다.",
-        "verified_at": 1792568359,
-        "published_at": 1792557382,
-        "evidence": [
-          {
-            "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261021_0003834984",
-            "note": "항소심이 변협 선거자금 2억원만 유죄로 인정해 징역 6년·벌금 2억원·추징 2억원을 선고하고 보석은 취소하지 않은 사실을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261021_0003834984",
-            "label": "항소심 선고 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "‘50억 약정’ 혐의는 1·2심 모두 무죄다. 확정판결로 쓰지 않고 불구속 상태 유지도 함께 적는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-21",
-          "observation": "항소심이 수수 인정액을 3억원에서 2억원으로 낮춰 징역 7년을 6년으로 감형하고 50억 약정은 무죄로 본 선고를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "첫 장: ‘50억 약정 무죄·징역 6년’",
-            "2장: 유죄 인정액 3억→2억",
-            "3장: 보석 유지와 확정 전 단계"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "항소심 선고 본문",
-            "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261021_0003834984"
-          }
-        ],
-        "excerpt": "",
-        "context": "21일 항소심이 1심 판단 중 인정 금액과 형량을 바꾸고 보석 상태는 유지했다.",
-        "fetched_at": 1792568404,
-        "parser_revision": 7
-      },
-      "curation_event_key": "park-young-soo-daejangdong-appeal-seven-to-six-years-20261021"
-    },
-    "9ef0f7a478d8": {
-      "source": "국가데이터처",
-      "title": "정규직 1만 늘 때 비정규직 10만3000명 늘었다…월급 격차 194만원",
-      "link": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156785961",
-      "first_seen_at": 1792568404,
-      "last_seen_at": 1792568404,
-      "samples": [
-        {
-          "at": 1792568404,
-          "views": null,
-          "reactions": null,
-          "rank": 9,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "official",
-      "story_id": "9ef0f7a478d8",
-      "editorial": {
-        "title": "정규직 1만 늘 때 비정규직 10만3000명 늘었다…월급 격차 194만원",
-        "category": "시사",
-        "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156785961",
-        "source": "국가데이터처",
-        "kind": "official",
-        "event_key": "korea-nonregular-workers-record-share-wage-gap-20261021",
-        "why": "직장인과 구직자가 전체 고용 증가의 구성과 정규·비정규직 월평균 임금 차이를 한 장에서 비교할 수 있다.",
-        "angle": "첫 장은 ‘정규직 +1만 대 비정규직 +10만3000’, 다음 장은 38.5% 비중과 근로시간 차이 주의를 붙인다.",
-        "why_now": "국가데이터처가 21일 2026년 8월 근로형태별 조사 결과를 공식 발표했다.",
-        "verified_at": 1792568359,
-        "published_at": 1792551600,
-        "evidence": [
-          {
-            "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156785961",
-            "note": "임금근로자 11만3000명 증가 중 정규직 1만명, 비정규직 10만3000명 증가와 비정규직 비중 38.5%를 확인했다."
-          },
-          {
-            "url": "https://www.sisaplusnews.com/news/articleView.html?idxno=50072",
-            "note": "정규직 월평균 405만2000원, 비정규직 211만2000원과 통계 작성 이후 최대 비중 보도를 교차 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156785961",
-            "label": "공식 통계 브리핑",
-            "kind": "source"
-          }
-        ],
-        "caution": "월평균 임금은 근로일수·근로시간을 보정하지 않았다. 같은 일의 동일 시간당 임금 격차로 표현하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-21",
-          "observation": "비정규직 867만1000명·비중 38.5%, 정규직 405만2000원 대 비정규직 211만2000원의 월평균 임금을 공식 발표에서 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "첫 장: 정규직 +1만 대 비정규직 +10만3000",
-            "2장: 비정규직 867만1000명·38.5%",
-            "3장: 월급 405만 대 211만, 근로시간 미보정 주의"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "공식 통계 브리핑",
-            "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156785961"
-          }
-        ],
-        "excerpt": "",
-        "context": "국가데이터처가 21일 2026년 8월 근로형태별 조사 결과를 공식 발표했다.",
-        "fetched_at": 1792568404,
-        "parser_revision": 7
-      },
-      "curation_event_key": "korea-nonregular-workers-record-share-wage-gap-20261021"
-    },
-    "f945d7ed3565": {
-      "source": "조선중앙통신·SBS",
-      "title": "김여정이 MDL 요새화 현장에 섰다…“경고사격 다음엔 즉시 반격”",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008808516",
-      "first_seen_at": 1792568404,
-      "last_seen_at": 1792568404,
-      "samples": [
-        {
-          "at": 1792568404,
-          "views": null,
-          "reactions": null,
-          "rank": 10,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "f945d7ed3565",
-      "editorial": {
-        "title": "김여정이 MDL 요새화 현장에 섰다…“경고사격 다음엔 즉시 반격”",
-        "category": "시사",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008808516",
-        "source": "조선중앙통신·SBS",
-        "kind": "article",
-        "event_key": "north-korea-kim-yo-jong-southern-border-fortification-inspection-20261021",
-        "why": "한국 독자가 군사분계선 공사에 북한 핵심 인사가 직접 등장하고 반격 지침까지 공개한 변화를 사진과 문장으로 바로 파악한다.",
-        "angle": "첫 장은 김여정의 현장 사진과 ‘국경 영구화’, 다음 장은 즉시 반격·새 화력진지 발언을 출처와 함께 정리한다.",
-        "why_now": "북한 매체가 21일 전날 현장 시찰 사진과 박정천·김여정의 새 지침성 발언을 공개했다.",
-        "verified_at": 1792568359,
-        "published_at": 1792566540,
-        "evidence": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008808516",
-            "note": "조선중앙통신 제공 현장 사진과 국경 영구화 공사, 실제 안전 위협 시 즉시 반격, 새 화력구분대 사격진지 발언을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008808516",
-            "label": "통신 사진·발언 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "현장 상황과 발언은 북한 매체 주장이다. 남측의 실제 도발이나 반격 발생으로 단정하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-21",
-          "observation": "박정천·김여정이 군사분계선 일대 요새화 공사 현장을 시찰한 사진과 ‘즉시 반격’·새 사격진지 발언 공개를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "첫 장: 김여정·박정천의 MDL 공사 현장 등장",
-            "2장: ‘국경 영구화’ 공사",
-            "3장: 즉시 반격·새 화력진지 발언과 출처 주의"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "통신 사진·발언 본문",
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008808516"
-          }
-        ],
-        "excerpt": "",
-        "context": "북한 매체가 21일 전날 현장 시찰 사진과 박정천·김여정의 새 지침성 발언을 공개했다.",
-        "fetched_at": 1792568404,
-        "parser_revision": 7
-      },
-      "curation_event_key": "north-korea-kim-yo-jong-southern-border-fortification-inspection-20261021"
-    },
-    "1eea939e2dc4": {
-      "source": "FT·Jerusalem Post",
-      "title": "네타냐후가 이란 대규모 공습을 준비시켰다…트럼프가 10월 작전을 막았다",
-      "link": "https://www.jpost.com/middle-east/iran-news/article-912360",
-      "first_seen_at": 1792568404,
-      "last_seen_at": 1792568404,
-      "samples": [
-        {
-          "at": 1792568404,
-          "views": null,
-          "reactions": null,
-          "rank": 11,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "1eea939e2dc4",
-      "editorial": {
-        "title": "네타냐후가 이란 대규모 공습을 준비시켰다…트럼프가 10월 작전을 막았다",
-        "category": "시사",
-        "url": "https://www.jpost.com/middle-east/iran-news/article-912360",
-        "source": "FT·Jerusalem Post",
-        "kind": "article",
-        "event_key": "netanyahu-iran-strike-plan-trump-blocked-october-offensive-report-20261021",
-        "why": "국제뉴스 독자가 이스라엘의 실제 다일 공습 준비와 미국의 제동이 어떻게 전면전 재개를 막았는지 한 번에 이해할 수 있다.",
-        "angle": "첫 장은 ‘10월 10일 주말 작전 준비→트럼프 반대’, 다음 장은 표적 범위와 향후 재개 가능성을 구분한다.",
-        "why_now": "FT가 21일 세 명의 소식통을 근거로 계획 규모와 취소 배경을 처음 보도했고 현지 매체가 이를 확인 보도했다.",
-        "verified_at": 1792568359,
-        "published_at": 1792555213,
-        "evidence": [
-          {
-            "url": "https://www.jpost.com/middle-east/iran-news/article-912360",
-            "note": "이스라엘군이 민간 인프라·핵시설·정권 표적을 포함한 다일 작전을 준비했고 트럼프 반대로 취소됐다는 FT 보도를 확인했다."
-          },
-          {
-            "url": "https://www.ft.com/content/eb4d1101-45ed-4d03-9beb-42f7c87a58ea",
-            "note": "FT 원보도의 제목과 21일 04:00 UTC 최초 공개 시각을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.jpost.com/middle-east/iran-news/article-912360",
-            "label": "확인 보도 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "세 소식통 기반 보도이며 양국의 공식 발표가 아니다. 향후 실제 공습 확정으로 쓰지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-21",
-          "observation": "10월 10일 주말을 겨냥한 이스라엘의 다일 공습 준비가 트럼프 반대로 실행되지 않았다는 새 보도를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "첫 장: ‘준비 완료, 그러나 취소’",
-            "2장: 민간 인프라·핵시설·정권 표적 범위",
-            "3장: 트럼프 제동 이유와 향후 불확실성"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인 보도 본문",
-            "url": "https://www.jpost.com/middle-east/iran-news/article-912360"
-          }
-        ],
-        "excerpt": "",
-        "context": "FT가 21일 세 명의 소식통을 근거로 계획 규모와 취소 배경을 처음 보도했고 현지 매체가 이를 확인 보도했다.",
-        "fetched_at": 1792568404,
-        "parser_revision": 7
-      },
-      "curation_event_key": "netanyahu-iran-strike-plan-trump-blocked-october-offensive-report-20261021"
-    },
-    "61dc745b74fb": {
-      "source": "선관위 특검·뉴시스",
-      "title": "‘부부 동반 외유 출장’ 수사…특검이 노태악 자택·선관위를 동시에 압수수색",
-      "link": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261021_0003834940",
-      "first_seen_at": 1792568404,
-      "last_seen_at": 1792568404,
-      "samples": [
-        {
-          "at": 1792568404,
-          "views": null,
-          "reactions": null,
-          "rank": 12,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "61dc745b74fb",
-      "editorial": {
-        "title": "‘부부 동반 외유 출장’ 수사…특검이 노태악 자택·선관위를 동시에 압수수색",
-        "category": "시사",
-        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261021_0003834940",
-        "source": "선관위 특검·뉴시스",
-        "kind": "article",
-        "event_key": "nec-special-prosecutor-roh-tae-ak-home-office-search-20261021",
-        "why": "유권자가 전 선관위원장의 출장 의혹이 단순 논란에서 휴대전화·출장 기록을 확보하는 강제수사로 바뀐 지점을 알 수 있다.",
-        "angle": "첫 장은 ‘자택·선관위 동시 압수수색’, 다음 장은 허위 출장보고서 정황과 적용 혐의를 분리한다.",
-        "why_now": "특검이 21일 오전 노태악 전 위원장 자택과 중앙선관위를 압수수색해 휴대전화와 출장 자료를 확보했다.",
-        "verified_at": 1792568359,
-        "published_at": 1792550968,
-        "evidence": [
-          {
-            "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261021_0003834940",
-            "note": "특검이 업무상 횡령·허위공문서 작성·행사 혐의로 자택과 선관위를 압수수색하고 휴대전화·출장 기록을 확보한 사실을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261021_0003834940",
-            "label": "특검 발표 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "압수수색은 혐의 유죄 확정이 아니다. 7194만원은 독일·에스토니아 출장 예산으로 범위를 명시한다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-21",
-          "observation": "특검이 노태악 전 위원장 자택과 중앙선관위를 압수수색해 휴대전화·출장 기록을 확보하고 허위 보고서 정황을 제시한 사실을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "첫 장: 자택·중앙선관위 동시 압수수색",
-            "2장: 휴대전화·출장 기록 확보",
-            "3장: 외유성 출장·허위 보고서 혐의와 무죄추정"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "특검 발표 본문",
-            "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261021_0003834940"
-          }
-        ],
-        "excerpt": "",
-        "context": "특검이 21일 오전 노태악 전 위원장 자택과 중앙선관위를 압수수색해 휴대전화와 출장 자료를 확보했다.",
-        "fetched_at": 1792568404,
-        "parser_revision": 7
-      },
-      "curation_event_key": "nec-special-prosecutor-roh-tae-ak-home-office-search-20261021"
     }
   },
-  "updated_at": 1793163826
+  "updated_at": 1793175318
 }
