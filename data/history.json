@@ -1,6 +1,738 @@
 {
   "version": 1,
   "items": {
+    "f9c9280b3671": {
+      "source": "연합뉴스·BBC 법적 징계 취재",
+      "title": "알바레스 몰래 접촉한 바르사…벌금은602유로,약90만원",
+      "link": "https://www.yna.co.kr/view/AKR20261028021200007",
+      "first_seen_at": 1793153199,
+      "last_seen_at": 1793153199,
+      "samples": [
+        {
+          "at": 1793153199,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "f9c9280b3671",
+      "editorial": {
+        "title": "알바레스 몰래 접촉한 바르사…벌금은602유로,약90만원",
+        "category": "축구",
+        "url": "https://www.yna.co.kr/view/AKR20261028021200007",
+        "source": "연합뉴스·BBC 법적 징계 취재",
+        "kind": "article",
+        "event_key": "barcelona-alvarez-unauthorised-approach-602-euro-fine-20261027",
+        "why": "축구 친구에게 보낼 사전 접촉의 가격. 계약 중인 공격수에게 몰래 접근한 사건의 결론이90만원 벌금이라 이적시장 규모와 대비가 크다.",
+        "angle": "무단 사전 접촉→FIFA 관할권 없음→스페인협회602유로 벌금",
+        "why_now": "실제 공개일과 사건일을 구별해 이번 회차 미발송 후보로 비교. 2026-10-27 공개·새 확인점은 무단 사전 접촉→FIFA 관할권 없음→스페인협회602유로 벌금",
+        "verified_at": 1793152884,
+        "published_at": 1793137440,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261028021200007",
+            "note": "BBC 원취재와 연합뉴스 본문에서 서면 통지 없는 접근·602유로 징계,FIFA 관할권 부인 확인. 알바레스는 잔류했고 팬들에게 과거 발언이 실수였다고 설명했다."
+          },
+          {
+            "url": "https://ca.sports.yahoo.com/news/barcelona-fined-503-over-approach-214438848.html",
+            "note": "BBC 원취재 본문·게시일27일21:44UTC 대조."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261028021200007",
+            "label": "본문·당사자 답변 근거",
+            "kind": "source"
+          }
+        ],
+        "caution": "영입 성사 아님. 벌금 확정 보도이며 국내 기사 시각을 최초 공개로 쓰지 않음. BBC27일21:44UTC 공개 대조,징계 결정 정확한 시각 미상.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-27",
+          "observation": "BBC 원취재와 연합뉴스 본문에서 서면 통지 없는 접근·602유로 징계,FIFA 관할권 부인 확인. 알바레스는 잔류했고 팬들에게 과거 발언이 실수였다고 설명했다.",
+          "checked_materials": [],
+          "outline": [
+            "2030년까지 아틀레티코 계약인데 바르사가 서면통지 없이 접촉",
+            "FIFA 제소는 관할권 없음…스페인협회 징계는602유로",
+            "잔류한 알바레스는 바르사 꿈 발언을 실수로 인정"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "본문·당사자 답변 근거",
+            "url": "https://www.yna.co.kr/view/AKR20261028021200007"
+          }
+        ],
+        "excerpt": "",
+        "context": "실제 공개일과 사건일을 구별해 이번 회차 미발송 후보로 비교. 2026-10-27 공개·새 확인점은 무단 사전 접촉→FIFA 관할권 없음→스페인협회602유로 벌금",
+        "fetched_at": 1793153199,
+        "parser_revision": 7
+      },
+      "curation_event_key": "barcelona-alvarez-unauthorised-approach-602-euro-fine-20261027"
+    },
+    "1b0ea5d3e06b": {
+      "source": "Tristan Kirk 법원 문서 취재·Yahoo",
+      "title": "벌금은 냈는데 면허증 사본 안 보내…히샬리송 결국 법원행",
+      "link": "https://sports.yahoo.com/articles/tottenham-outcast-richarlison-convicted-running-174037410.html",
+      "first_seen_at": 1793153199,
+      "last_seen_at": 1793153199,
+      "samples": [
+        {
+          "at": 1793153199,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "1b0ea5d3e06b",
+      "editorial": {
+        "title": "벌금은 냈는데 면허증 사본 안 보내…히샬리송 결국 법원행",
+        "category": "축구",
+        "url": "https://sports.yahoo.com/articles/tottenham-outcast-richarlison-convicted-running-174037410.html",
+        "source": "Tristan Kirk 법원 문서 취재·Yahoo",
+        "kind": "article",
+        "event_key": "richarlison-red-light-fine-licence-copy-omission-court-20261026",
+        "why": "토트넘 팬에게 보낼 황당한 서류 누락. 신호위반 자체보다 돈을 보내고도 면허증 사본 하나를 안 내 법원까지 간 과정이 포인트다.",
+        "angle": "교육 기회 거절→벌금 송금→면허증 사본 누락→기소·유죄",
+        "why_now": "실제 공개일과 사건일을 구별해 이번 회차 미발송 후보로 비교. 2026-10-26 공개·새 확인점은 교육 기회 거절→벌금 송금→면허증 사본 누락→기소·유죄",
+        "verified_at": 1793152964,
+        "published_at": 1793036400,
+        "evidence": [
+          {
+            "url": "https://sports.yahoo.com/articles/tottenham-outcast-richarlison-convicted-running-174037410.html",
+            "note": "26일17:40UTC 법원 문서 취재 본문 확인.4월15일 적색 신호1.5초 뒤 통과,지난주 비공개 심리. 재교육 미수락·벌금 송금 뒤 면허증 사본 미제출 때문에 절차가 완료되지 않아 기소됐다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://sports.yahoo.com/articles/tottenham-outcast-richarlison-convicted-running-174037410.html",
+            "label": "본문·당사자 답변 근거",
+            "kind": "source"
+          }
+        ],
+        "caution": "사건4월15일·재판지난주,새 공개26일17:40UTC로48시간 이내. 벌금만200파운드이며 총부담400파운드. 영상·운전 장면 미시청.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-26",
+          "observation": "26일17:40UTC 법원 문서 취재 본문 확인.4월15일 적색 신호1.5초 뒤 통과,지난주 비공개 심리. 재교육 미수락·벌금 송금 뒤 면허증 사본 미제출 때문에 절차가 완료되지 않아 기소됐다.",
+          "checked_materials": [],
+          "outline": [
+            "4월 신호위반 뒤 경찰이 재교육·벌금 종결 기회를 줬다",
+            "벌금은 보냈지만 면허증 사본을 안 내 절차 미완료",
+            "법원 벌금200파운드·벌점3점,비용120·부담금80파운드"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "본문·당사자 답변 근거",
+            "url": "https://sports.yahoo.com/articles/tottenham-outcast-richarlison-convicted-running-174037410.html"
+          }
+        ],
+        "excerpt": "",
+        "context": "실제 공개일과 사건일을 구별해 이번 회차 미발송 후보로 비교. 2026-10-26 공개·새 확인점은 교육 기회 거절→벌금 송금→면허증 사본 누락→기소·유죄",
+        "fetched_at": 1793153199,
+        "parser_revision": 7
+      },
+      "curation_event_key": "richarlison-red-light-fine-licence-copy-omission-court-20261026"
+    },
+    "225455204623": {
+      "source": "YTN 경찰 조사 취재",
+      "title": "골목에 버려진 시신…80대 집주인 “인형인 줄”,60대는 “시신 의심”",
+      "link": "https://www.ytn.co.kr/_ln/0103_202610281035163102",
+      "first_seen_at": 1793153199,
+      "last_seen_at": 1793153199,
+      "samples": [
+        {
+          "at": 1793153199,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "225455204623",
+      "editorial": {
+        "title": "골목에 버려진 시신…80대 집주인 “인형인 줄”,60대는 “시신 의심”",
+        "category": "시사",
+        "url": "https://www.ytn.co.kr/_ln/0103_202610281035163102",
+        "source": "YTN 경찰 조사 취재",
+        "kind": "article",
+        "event_key": "guro-body-dumping-suspects-doll-claim-conflict-20261028",
+        "why": "사건 단톡방에 보낼 서로 다른 진술. 버리라고 지시한 사람은 인형으로 알았다고 하고,실제로 옮긴 사람은 시신을 의심했다며 주장이 갈린다.",
+        "angle": "같은 유기 사건에서 집주인과 운반자의 인식 진술이 충돌",
+        "why_now": "실제 공개일과 사건일을 구별해 이번 회차 미발송 후보로 비교. 2026-10-28 공개·새 확인점은 같은 유기 사건에서 집주인과 운반자의 인식 진술이 충돌",
+        "verified_at": 1793152884,
+        "published_at": 1793151300,
+        "evidence": [
+          {
+            "url": "https://www.ytn.co.kr/_ln/0103_202610281035163102",
+            "note": "YTN 경찰 취재 본문에서22일 유기·27일 환경미화원 발견과체포,28일 공개된 양측 진술·영장 신청 방침 확인. 집주인은 처리 지시를 인정하되 인형으로 생각했다 주장,60대는 시신 의심했다고 진술."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.ytn.co.kr/_ln/0103_202610281035163102",
+            "label": "본문·당사자 답변 근거",
+            "kind": "source"
+          }
+        ],
+        "caution": "새 진술 공개가28일,유기를 오늘 발생으로 쓰지 않음. 살인·사인·신원 확정 아님. 영장 발부 아닌 신청 방침. 시신 사진·영상 미시청,고어 사용 금지.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-28",
+          "observation": "YTN 경찰 취재 본문에서22일 유기·27일 환경미화원 발견과체포,28일 공개된 양측 진술·영장 신청 방침 확인. 집주인은 처리 지시를 인정하되 인형으로 생각했다 주장,60대는 시신 의심했다고 진술.",
+          "checked_materials": [],
+          "outline": [
+            "쓰레기 더미에서27일 발견,실제 유기는22일이었다",
+            "80대 “인형이라 생각”과60대 “시신 의심”이라는 상반된 진술",
+            "경찰28일 영장 신청 방침·사망 원인과 시점 부검 예정"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "본문·당사자 답변 근거",
+            "url": "https://www.ytn.co.kr/_ln/0103_202610281035163102"
+          }
+        ],
+        "excerpt": "",
+        "context": "실제 공개일과 사건일을 구별해 이번 회차 미발송 후보로 비교. 2026-10-28 공개·새 확인점은 같은 유기 사건에서 집주인과 운반자의 인식 진술이 충돌",
+        "fetched_at": 1793153199,
+        "parser_revision": 7
+      },
+      "curation_event_key": "guro-body-dumping-suspects-doll-claim-conflict-20261028"
+    },
+    "25d91b1f61aa": {
+      "source": "일간경기·경기북부경찰청 구조 취재",
+      "title": "가짜 검사 말은 믿고 진짜 경찰 전화는 끊어…모텔서 사흘 ‘셀프감금’",
+      "link": "https://www.1gan.co.kr/news/articleView.html?idxno=414508",
+      "first_seen_at": 1793153199,
+      "last_seen_at": 1793153199,
+      "samples": [
+        {
+          "at": 1793153199,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "25d91b1f61aa",
+      "editorial": {
+        "title": "가짜 검사 말은 믿고 진짜 경찰 전화는 끊어…모텔서 사흘 ‘셀프감금’",
+        "category": "시사",
+        "url": "https://www.1gan.co.kr/news/articleView.html?idxno=414508",
+        "source": "일간경기·경기북부경찰청 구조 취재",
+        "kind": "article",
+        "event_key": "voice-phishing-self-confinement-rescue-3100-4200-20261028",
+        "why": "가족 단톡방에 보낼 사칭 범죄의 역전. 가짜 영장에 속아 스스로 모텔에 갇힌 피해자가 진짜 경찰도 의심했고,경찰이 추가 대출4200만원을 막았다.",
+        "angle": "3100만원 피해→진짜 경찰 의심→설득·구조로4200만원 추가 대출 차단",
+        "why_now": "실제 공개일과 사건일을 구별해 이번 회차 미발송 후보로 비교. 2026-10-28 공개·새 확인점은 3100만원 피해→진짜 경찰 의심→설득·구조로4200만원 추가 대출 차단",
+        "verified_at": 1793152928,
+        "published_at": 1793151143,
+        "evidence": [
+          {
+            "url": "https://www.1gan.co.kr/news/articleView.html?idxno=414508",
+            "note": "28일 경찰 공개 취재로22일 구조된 사건 확인. 30대가 악성 앱·사칭 영장에 속아3일 고립,이미3100만원 출금. 경찰은 이동 중 금융사 두 곳에 연락해 추가 대출 심사를 중단시켰다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.1gan.co.kr/news/articleView.html?idxno=414508",
+            "label": "본문·당사자 답변 근거",
+            "kind": "source"
+          }
+        ],
+        "caution": "구조 발생22일·28일 새 경찰 공개 취재. 피해자 탓하거나 심리 통제 방법을 재현하지 않음. 3100만원을 되찾았다고 쓰지 않음. 영상 미시청.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-28",
+          "observation": "28일 경찰 공개 취재로22일 구조된 사건 확인. 30대가 악성 앱·사칭 영장에 속아3일 고립,이미3100만원 출금. 경찰은 이동 중 금융사 두 곳에 연락해 추가 대출 심사를 중단시켰다.",
+          "checked_materials": [],
+          "outline": [
+            "사칭 검사 지시로 모텔에서 사흘간 외부와 단절",
+            "진짜 경찰 전화도 끊었지만 반복 설득 끝에 공조 출동",
+            "3100만원 회수는 실패,추가4200만원 대출은 막은 구별"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "본문·당사자 답변 근거",
+            "url": "https://www.1gan.co.kr/news/articleView.html?idxno=414508"
+          }
+        ],
+        "excerpt": "",
+        "context": "실제 공개일과 사건일을 구별해 이번 회차 미발송 후보로 비교. 2026-10-28 공개·새 확인점은 3100만원 피해→진짜 경찰 의심→설득·구조로4200만원 추가 대출 차단",
+        "fetched_at": 1793153199,
+        "parser_revision": 7
+      },
+      "curation_event_key": "voice-phishing-self-confinement-rescue-3100-4200-20261028"
+    },
+    "92da5dbf1f3e": {
+      "source": "한국경제·한국소비자원 조사",
+      "title": "“성인도 키6cm 컸다” 후기…변한 몸도 추천 의사도 AI로 만든 광고",
+      "link": "https://www.hankyung.com/article/2026102786721",
+      "first_seen_at": 1793153199,
+      "last_seen_at": 1793153199,
+      "samples": [
+        {
+          "at": 1793153199,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "92da5dbf1f3e",
+      "editorial": {
+        "title": "“성인도 키6cm 컸다” 후기…변한 몸도 추천 의사도 AI로 만든 광고",
+        "category": "시사",
+        "url": "https://www.hankyung.com/article/2026102786721",
+        "source": "한국경제·한국소비자원 조사",
+        "kind": "article",
+        "event_key": "kca-ai-fake-testimonials-experts-420-ad-blocks-20261027",
+        "why": "부모님·쇼츠 보는 친구에게 보낼 가짜 후기의 반전. 약 먹고 키 큰 인증이나 의사 추천을 믿었는데 몸 변화와 경험담 자체가 합성일 수 있다는 직접 적발이다.",
+        "angle": "성인 키 성장 인증→AI 조작 후기·가짜 전문가 광고420건 차단",
+        "why_now": "실제 공개일과 사건일을 구별해 이번 회차 미발송 후보로 비교. 2026-10-27 공개·새 확인점은 성인 키 성장 인증→AI 조작 후기·가짜 전문가 광고420건 차단",
+        "verified_at": 1793152872,
+        "published_at": 1793070000,
+        "evidence": [
+          {
+            "url": "https://www.hankyung.com/article/2026102786721",
+            "note": "본문에서 소비자원27일 공개 조사,체험후기 조작267건·전문가 사칭153건 확인. 성인 키6cm 성장·기미 제거 등을 내세운 허위 사례가 확인됐고 구글 협력으로420건 차단."
+          },
+          {
+            "url": "https://www.cstimes.com/news/articleView.html?idxno=725446",
+            "note": "27일12시 조사 공개·구글 차단·사례 유형 본문 대조."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.hankyung.com/article/2026102786721",
+            "label": "본문·당사자 답변 근거",
+            "kind": "source"
+          }
+        ],
+        "caution": "광고 원영상 실제 시청 아님,조사에서 확인된 허위 사례를 본문 근거로 소개. 모든 AI 광고가 불법이라는 뜻 아님.27일12시 공개 조사,재기사 시각을 최초로 안 씀.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-27",
+          "observation": "본문에서 소비자원27일 공개 조사,체험후기 조작267건·전문가 사칭153건 확인. 성인 키6cm 성장·기미 제거 등을 내세운 허위 사례가 확인됐고 구글 협력으로420건 차단.",
+          "checked_materials": [],
+          "outline": [
+            "성인도6cm 컸다는 인증 광고의 약속",
+            "AI 신체 변화·가짜 소비자 후기·가짜 전문가라는 적발 유형",
+            "420건 차단,전후 비교만으로 효능을 믿지 말라는 소비자원 경고"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "본문·당사자 답변 근거",
+            "url": "https://www.hankyung.com/article/2026102786721"
+          }
+        ],
+        "excerpt": "",
+        "context": "실제 공개일과 사건일을 구별해 이번 회차 미발송 후보로 비교. 2026-10-27 공개·새 확인점은 성인 키 성장 인증→AI 조작 후기·가짜 전문가 광고420건 차단",
+        "fetched_at": 1793153199,
+        "parser_revision": 7
+      },
+      "curation_event_key": "kca-ai-fake-testimonials-experts-420-ad-blocks-20261027"
+    },
+    "fadaa2a1d6ae": {
+      "source": "한국일보·실적발표 직접 발언",
+      "title": "자회사 상장에 주주 반발…SK하이닉스 대표 “기대 효과 어렵다”,IPO 중단",
+      "link": "https://www.hankookilbo.com/news/article/A2026102810080001740",
+      "first_seen_at": 1793153199,
+      "last_seen_at": 1793153199,
+      "samples": [
+        {
+          "at": 1793153199,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "fadaa2a1d6ae",
+      "editorial": {
+        "title": "자회사 상장에 주주 반발…SK하이닉스 대표 “기대 효과 어렵다”,IPO 중단",
+        "category": "시사",
+        "url": "https://www.hankookilbo.com/news/article/A2026102810080001740",
+        "source": "한국일보·실적발표 직접 발언",
+        "kind": "article",
+        "event_key": "sk-hynix-solidigm-ipo-stop-ceo-explanation-20261028",
+        "why": "주식 하는 친구에게 보낼 내 돈의 권리 문제. 자회사를 따로 상장하면 주주가치가 희석될 수 있다는 우려 뒤 대표가 직접 나서 추진 중단 이유를 설명했다.",
+        "angle": "외부 자본 조달 기대→이중상장 우려→대표가 직접 중단 이유 설명",
+        "why_now": "실제 공개일과 사건일을 구별해 이번 회차 미발송 후보로 비교. 2026-10-28 공개·새 확인점은 외부 자본 조달 기대→이중상장 우려→대표가 직접 중단 이유 설명",
+        "verified_at": 1793152850,
+        "published_at": 1793150820,
+        "evidence": [
+          {
+            "url": "https://www.hankookilbo.com/news/article/A2026102810080001740",
+            "note": "28일 콘퍼런스콜에서 곽노정 사장의 직접 설명 확인. 신규 시설 재원·주주환원 여력 확대를 기대했으나 시장 변동성과 반도체주 조정으로 프리IPO·IPO 검토 중단. 주주가치에 부합하는 투자 방안 추진 입장."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.hankookilbo.com/news/article/A2026102810080001740",
+            "label": "본문·당사자 답변 근거",
+            "kind": "source"
+          }
+        ],
+        "caution": "주주 반발만이 중단의 유일 원인이라고 단정하지 않음. 원인 설명은 대표에게 귀속. 향후 영구 상장 포기나 주가 수익 보장 아님. 음성 미청취.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-28",
+          "observation": "28일 콘퍼런스콜에서 곽노정 사장의 직접 설명 확인. 신규 시설 재원·주주환원 여력 확대를 기대했으나 시장 변동성과 반도체주 조정으로 프리IPO·IPO 검토 중단. 주주가치에 부합하는 투자 방안 추진 입장.",
+          "checked_materials": [],
+          "outline": [
+            "솔리다임 별도 상장 추진에 모회사 주주가치 훼손 우려",
+            "평소 콘콜 안 나오는 최고경영자가 직접 참석",
+            "시장 변동성 때문에 기대 효과 어렵다며 프리IPO·IPO 검토 중단"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "본문·당사자 답변 근거",
+            "url": "https://www.hankookilbo.com/news/article/A2026102810080001740"
+          }
+        ],
+        "excerpt": "",
+        "context": "실제 공개일과 사건일을 구별해 이번 회차 미발송 후보로 비교. 2026-10-28 공개·새 확인점은 외부 자본 조달 기대→이중상장 우려→대표가 직접 중단 이유 설명",
+        "fetched_at": 1793153199,
+        "parser_revision": 7
+      },
+      "curation_event_key": "sk-hynix-solidigm-ipo-stop-ceo-explanation-20261028"
+    },
+    "fb9b7b73397b": {
+      "source": "머니투데이·우유자조금관리위 조사",
+      "title": "저가커피라 수입 우유일 줄 알았는데…16곳 중15곳은 국산만 썼다",
+      "link": "https://v.daum.net/v/20261027144241583",
+      "first_seen_at": 1793153199,
+      "last_seen_at": 1793153199,
+      "samples": [
+        {
+          "at": 1793153199,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "fb9b7b73397b",
+      "editorial": {
+        "title": "저가커피라 수입 우유일 줄 알았는데…16곳 중15곳은 국산만 썼다",
+        "category": "시사",
+        "url": "https://v.daum.net/v/20261027144241583",
+        "source": "머니투데이·우유자조금관리위 조사",
+        "kind": "article",
+        "event_key": "budget-coffee-milk-domestic-15-of-16-survey-20261027",
+        "why": "카페 자주 가는 친구에게 보낼 가격 상식의 반전. 저렴한 라테 대부분이 국산 우유였고,혼용 브랜드도 기본 라테와 시그니처 제품을 다르게 썼다.",
+        "angle": "싼 라테=수입 우유 추측→16곳 사용 현황에서15곳 국산",
+        "why_now": "실제 공개일과 사건일을 구별해 이번 회차 미발송 후보로 비교. 2026-10-27 공개·새 확인점은 싼 라테=수입 우유 추측→16곳 사용 현황에서15곳 국산",
+        "verified_at": 1793152872,
+        "published_at": 1793079761,
+        "evidence": [
+          {
+            "url": "https://v.daum.net/v/20261027144241583",
+            "note": "27일 공개된 이달16브랜드 조사 본문 확인. 빽다방·메가·컴포즈 등15곳 국산,텐퍼센트는 기본 라테 국산·시그니처는 수입산 혼용. 가격 외 풍미·소비자 인식 고려한 업체 설명."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://v.daum.net/v/20261027144241583",
+            "label": "본문·당사자 답변 근거",
+            "kind": "source"
+          }
+        ],
+        "caution": "낙농업계 이해관계가 있는 단체 조사,전체 카페나 매장 전수조사 아님. 국산이 무조건 맛·안전 우수하다는 결론 아님. 자료사진은3월로 사건 장면 아님.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-27",
+          "observation": "27일 공개된 이달16브랜드 조사 본문 확인. 빽다방·메가·컴포즈 등15곳 국산,텐퍼센트는 기본 라테 국산·시그니처는 수입산 혼용. 가격 외 풍미·소비자 인식 고려한 업체 설명.",
+          "checked_materials": [],
+          "outline": [
+            "저가커피16브랜드의 실제 우유 조사",
+            "15곳 국산만,텐퍼센트는 메뉴에 따라 혼용",
+            "국산·수입산 우열 단정 대신 내가 마시는 메뉴 기준으로 표시"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "본문·당사자 답변 근거",
+            "url": "https://v.daum.net/v/20261027144241583"
+          }
+        ],
+        "excerpt": "",
+        "context": "실제 공개일과 사건일을 구별해 이번 회차 미발송 후보로 비교. 2026-10-27 공개·새 확인점은 싼 라테=수입 우유 추측→16곳 사용 현황에서15곳 국산",
+        "fetched_at": 1793153199,
+        "parser_revision": 7
+      },
+      "curation_event_key": "budget-coffee-milk-domestic-15-of-16-survey-20261027"
+    },
+    "2cc17b02fffa": {
+      "source": "YTN·제주경찰청 수사 브리핑",
+      "title": "믿었던 베팅 분석가가 모집책…판돈2.5% 받고 회원 붙잡았다",
+      "link": "https://www.ytn.co.kr/_ln/0115_202610280402599541",
+      "first_seen_at": 1793153199,
+      "last_seen_at": 1793153199,
+      "samples": [
+        {
+          "at": 1793153199,
+          "views": null,
+          "reactions": null,
+          "rank": 8,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "2cc17b02fffa",
+      "editorial": {
+        "title": "믿었던 베팅 분석가가 모집책…판돈2.5% 받고 회원 붙잡았다",
+        "category": "시사",
+        "url": "https://www.ytn.co.kr/_ln/0115_202610280402599541",
+        "source": "YTN·제주경찰청 수사 브리핑",
+        "kind": "article",
+        "event_key": "jeju-illegal-gambling-pickster-recruitment-490b-20261028",
+        "why": "스포츠 예측 커뮤니티 친구에게 보낼 이해관계의 반전. 적중 분석을 해주던 유명인이 사실 사이트가 회원을 잃지 않도록 판돈 일부를 받는 총판이었다는 경찰 수사다.",
+        "angle": "유명 픽스터 추천→베팅액2.5% 정산→불법 사이트 회원 유치·관리",
+        "why_now": "실제 공개일과 사건일을 구별해 이번 회차 미발송 후보로 비교. 2026-10-28 공개·새 확인점은 유명 픽스터 추천→베팅액2.5% 정산→불법 사이트 회원 유치·관리",
+        "verified_at": 1793152872,
+        "published_at": 1793122920,
+        "evidence": [
+          {
+            "url": "https://www.ytn.co.kr/_ln/0115_202610280402599541",
+            "note": "본문에서26개 사무실·17불법 사이트,총책 등12명 구속·62명 입건 확인. 경찰 인터뷰는 픽스터에게 베팅액2.5% 정산해 회원 이탈 막게 했다고 설명.164억원 추징보전·4명 추적 중."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.ytn.co.kr/_ln/0115_202610280402599541",
+            "label": "본문·당사자 답변 근거",
+            "kind": "source"
+          }
+        ],
+        "caution": "판돈4900억원을 순이익으로 쓰지 않음. 기소·유죄 확정 아님. 범행기간5년,이번 적발 공개는27~28일 범위. 실제 체포·파티 영상 미시청.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-28",
+          "observation": "본문에서26개 사무실·17불법 사이트,총책 등12명 구속·62명 입건 확인. 경찰 인터뷰는 픽스터에게 베팅액2.5% 정산해 회원 이탈 막게 했다고 설명.164억원 추징보전·4명 추적 중.",
+          "checked_materials": [],
+          "outline": [
+            "온라인 커뮤니티 유명 베팅 분석가가 총판으로 영입됐다",
+            "베팅액2.5%를 받아 회원이 떠나지 않게 관리했다는 경찰 설명",
+            "12명 구속·164억원 추징보전…추징 완료·유죄 확정과 구별"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "본문·당사자 답변 근거",
+            "url": "https://www.ytn.co.kr/_ln/0115_202610280402599541"
+          }
+        ],
+        "excerpt": "",
+        "context": "실제 공개일과 사건일을 구별해 이번 회차 미발송 후보로 비교. 2026-10-28 공개·새 확인점은 유명 픽스터 추천→베팅액2.5% 정산→불법 사이트 회원 유치·관리",
+        "fetched_at": 1793153199,
+        "parser_revision": 7
+      },
+      "curation_event_key": "jeju-illegal-gambling-pickster-recruitment-490b-20261028"
+    },
+    "e13581e13e5f": {
+      "source": "Yahoo·Sky Sports 인터뷰 본문 대조",
+      "title": "케인 “조용히 노력하라”에 저격 해석…본인은 “내 선수 생활의 지침”",
+      "link": "https://sports.yahoo.com/articles/hard-silence-let-success-noise-103700181.html",
+      "first_seen_at": 1793153199,
+      "last_seen_at": 1793153199,
+      "samples": [
+        {
+          "at": 1793153199,
+          "views": null,
+          "reactions": null,
+          "rank": 9,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "e13581e13e5f",
+      "editorial": {
+        "title": "케인 “조용히 노력하라”에 저격 해석…본인은 “내 선수 생활의 지침”",
+        "category": "축구",
+        "url": "https://sports.yahoo.com/articles/hard-silence-let-success-noise-103700181.html",
+        "source": "Yahoo·Sky Sports 인터뷰 본문 대조",
+        "kind": "article",
+        "event_key": "harry-kane-work-in-silence-quote-explanation-20261027",
+        "why": "축구 친구에게 보낼 우승자 한 줄과 해석의 간극. 야말·음바페를 겨냥했다는 해석과 달리 케인은 자신의 오랜 지침이라며 배경을 설명했다.",
+        "angle": "SNS 문구의 저격 해석→케인이 자기 커리어를 요약한 말이라고 설명",
+        "why_now": "실제 공개일과 사건일을 구별해 이번 회차 미발송 후보로 비교. 2026-10-27 공개·새 확인점은 SNS 문구의 저격 해석→케인이 자기 커리어를 요약한 말이라고 설명",
+        "verified_at": 1793152956,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://sports.yahoo.com/articles/hard-silence-let-success-noise-103700181.html",
+            "note": "27일 시상식 다음날 인터뷰 보도 본문에서 남들 안 보는 곳에서 노력한다는 설명 확인. 국내 일간스포츠 본문은 야말·음바페 저격 해석과 구분. 당사자가 특정인 저격을 인정한 적은 없다."
+          },
+          {
+            "url": "https://isplus.com/article/view/isp202610280008",
+            "note": "국내 본문에서 저격 추측과 당사자 설명 구분,28일06:54 재보도."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://sports.yahoo.com/articles/hard-silence-let-success-noise-103700181.html",
+            "label": "본문·당사자 답변 근거",
+            "kind": "source"
+          }
+        ],
+        "caution": "발롱도르 수상 그 자체의 기록 추천 아님. 저격을 확정하지 않음. 원음·영상 미시청,인터뷰 본문만 대조. 최초 공개27일·시각 정밀도 미상.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-27",
+          "observation": "27일 시상식 다음날 인터뷰 보도 본문에서 남들 안 보는 곳에서 노력한다는 설명 확인. 국내 일간스포츠 본문은 야말·음바페 저격 해석과 구분. 당사자가 특정인 저격을 인정한 적은 없다.",
+          "checked_materials": [],
+          "outline": [
+            "시상식 뒤 SNS에 남긴 조용히 노력하라는 문구",
+            "야말·음바페 저격이라는 해석은 주변의 추측으로 표시",
+            "케인은 오래 지켜온 자기 선수생활 지침이라고 설명"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "본문·당사자 답변 근거",
+            "url": "https://sports.yahoo.com/articles/hard-silence-let-success-noise-103700181.html"
+          }
+        ],
+        "excerpt": "",
+        "context": "실제 공개일과 사건일을 구별해 이번 회차 미발송 후보로 비교. 2026-10-27 공개·새 확인점은 SNS 문구의 저격 해석→케인이 자기 커리어를 요약한 말이라고 설명",
+        "fetched_at": 1793153199,
+        "parser_revision": 7
+      },
+      "curation_event_key": "harry-kane-work-in-silence-quote-explanation-20261027"
+    },
+    "d9c8096fb881": {
+      "source": "뉴시스·정부 연석회의 발표",
+      "title": "회사 망하면 퇴직금도 못 받을까…2028년100인 이상부터 밖에 쌓는다",
+      "link": "https://www.newsis.com/view/NISX20261028_0003844229",
+      "first_seen_at": 1793153199,
+      "last_seen_at": 1793153199,
+      "samples": [
+        {
+          "at": 1793153199,
+          "views": null,
+          "reactions": null,
+          "rank": 10,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "d9c8096fb881",
+      "editorial": {
+        "title": "회사 망하면 퇴직금도 못 받을까…2028년100인 이상부터 밖에 쌓는다",
+        "category": "시사",
+        "url": "https://www.newsis.com/view/NISX20261028_0003844229",
+        "source": "뉴시스·정부 연석회의 발표",
+        "kind": "article",
+        "event_key": "retirement-pay-external-funding-100-workers-2028-plan-20261028",
+        "why": "직장 단톡방에 보낼 월급 뒤의 권리. 회사 안에 남아 있던 퇴직급여를 밖에 적립하도록 바꾸는 계획이라 폐업·체불 걱정과 직접 연결된다.",
+        "angle": "퇴직금 체불 예방 위해2028년100인 이상부터 사외적립 단계 의무화",
+        "why_now": "실제 공개일과 사건일을 구별해 이번 회차 미발송 후보로 비교. 2026-10-28 공개·새 확인점은 퇴직금 체불 예방 위해2028년100인 이상부터 사외적립 단계 의무화",
+        "verified_at": 1793152884,
+        "published_at": 1793151985,
+        "evidence": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261028_0003844229",
+            "note": "28일 정부 회의 본문에서 내년 준비 뒤2028년100인 이상부터 단계 의무화 계획,기금형 도입·수탁자 책임·수급권 보호 방향 확인. 구체 기능강화안은29일 당정 뒤 공개 예정."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261028_0003844229",
+            "label": "본문·당사자 답변 근거",
+            "kind": "source"
+          }
+        ],
+        "caution": "정부 추진 방안이며 오늘 전 사업장에 법적 의무가 생긴 것이 아님. 단계별 세부 일정·법개정·수익률 보장 미확정. 재무 상담이나 투자 권유 아님.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-28",
+          "observation": "28일 정부 회의 본문에서 내년 준비 뒤2028년100인 이상부터 단계 의무화 계획,기금형 도입·수탁자 책임·수급권 보호 방향 확인. 구체 기능강화안은29일 당정 뒤 공개 예정.",
+          "checked_materials": [],
+          "outline": [
+            "회사 체불·도산 때 걱정되는 퇴직금의 보관 문제",
+            "2027년 준비,2028년100인 이상부터 외부 적립 단계 적용 계획",
+            "기금형 운용도 추진…구체안은29일 공개 예정"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "본문·당사자 답변 근거",
+            "url": "https://www.newsis.com/view/NISX20261028_0003844229"
+          }
+        ],
+        "excerpt": "",
+        "context": "실제 공개일과 사건일을 구별해 이번 회차 미발송 후보로 비교. 2026-10-28 공개·새 확인점은 퇴직금 체불 예방 위해2028년100인 이상부터 사외적립 단계 의무화",
+        "fetched_at": 1793153199,
+        "parser_revision": 7
+      },
+      "curation_event_key": "retirement-pay-external-funding-100-workers-2028-plan-20261028"
+    },
     "8ff2105ef602": {
       "source": "연합뉴스 법조 취재",
       "title": "삼성 EUV 기술 유출 혐의…대학 산학협력단 연구원 불구속기소",
@@ -26088,5 +26820,5 @@
       "curation_event_key": "seoul-personal-apartment-property-tax-2026-data-disclosure-20261021"
     }
   },
-  "updated_at": 1793142811
+  "updated_at": 1793153199
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": 1793142812,
+  "updated_at": 1793153201,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,65 +15,65 @@
     "requested_stories": 10,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026102723",
+    "hour_utc": "2026102802",
     "category_counts": {
-      "시사": 8,
-      "축구": 1,
-      "메이저 스포츠": 1,
+      "시사": 7,
+      "축구": 3,
+      "메이저 스포츠": 0,
       "아이돌": 0
     },
-    "research_queries": 29,
-    "opened_sources": 28,
+    "research_queries": 36,
+    "opened_sources": 23,
     "picks": [
       {
-        "title": "위조 백신증명서로4경기 빠졌던 자카…복귀 허용에 주장도 유지",
-        "url": "https://www.football.ch/sfv/news-seite/sfv-beruecksichtigt-granit-xhaka-und-breel-embolo-ab-november-wieder-fuer-das-nationalteam.aspx",
-        "event_key": "swiss-fa-xhaka-embolo-return-captain-retained-decision-20261027"
+        "title": "알바레스 몰래 접촉한 바르사…벌금은602유로,약90만원",
+        "url": "https://www.yna.co.kr/view/AKR20261028021200007",
+        "event_key": "barcelona-alvarez-unauthorised-approach-602-euro-fine-20261027"
       },
       {
-        "title": "329만원 폴더블 아이폰에 금…애플 “소수 제품 문제,교체 안내”",
-        "url": "https://files.newsis.com/view/NISX20261027_0003842253",
-        "event_key": "apple-iphone-duo-display-crack-acknowledgment-replacement-20261027"
+        "title": "벌금은 냈는데 면허증 사본 안 보내…히샬리송 결국 법원행",
+        "url": "https://sports.yahoo.com/articles/tottenham-outcast-richarlison-convicted-running-174037410.html",
+        "event_key": "richarlison-red-light-fine-licence-copy-omission-court-20261026"
       },
       {
-        "title": "“명세서 돌려주면 영장 반환”…영장 깔고 앉은86세,절도 판단 뒤집혔다",
-        "url": "https://www.yna.co.kr/view/AKR20261027166300004",
-        "event_key": "supreme-court-search-warrant-retention-not-automatically-theft-20261028"
+        "title": "골목에 버려진 시신…80대 집주인 “인형인 줄”,60대는 “시신 의심”",
+        "url": "https://www.ytn.co.kr/_ln/0103_202610281035163102",
+        "event_key": "guro-body-dumping-suspects-doll-claim-conflict-20261028"
       },
       {
-        "title": "우승하고 금발 싹 밀었다…KIA 출신 가뇽의 해맑은 삭발 세리머니",
-        "url": "https://news.nate.com/view/20261027n41266",
-        "event_key": "drew-gagnon-taiwan-title-head-shave-celebration-20261026"
+        "title": "가짜 검사 말은 믿고 진짜 경찰 전화는 끊어…모텔서 사흘 ‘셀프감금’",
+        "url": "https://www.1gan.co.kr/news/articleView.html?idxno=414508",
+        "event_key": "voice-phishing-self-confinement-rescue-3100-4200-20261028"
       },
       {
-        "title": "배우 집 앞 시위까지 번진 ‘암살자들’…허진호 “질문을 극대화한 영화”",
-        "url": "https://news.nate.com/view/20261028n03601",
-        "event_key": "hur-jin-ho-assassins-film-historical-debate-pd-notebook-response-20261027"
+        "title": "“성인도 키6cm 컸다” 후기…변한 몸도 추천 의사도 AI로 만든 광고",
+        "url": "https://www.hankyung.com/article/2026102786721",
+        "event_key": "kca-ai-fake-testimonials-experts-420-ad-blocks-20261027"
       },
       {
-        "title": "국민연금 이사장 “정확하게 인식하면서 질문”…위원장 항의에 국감 중단",
-        "url": "https://www.fnnews.com/news/202610280027501863",
-        "event_key": "national-pension-chair-questioning-remark-hearing-suspension-20261027"
+        "title": "자회사 상장에 주주 반발…SK하이닉스 대표 “기대 효과 어렵다”,IPO 중단",
+        "url": "https://www.hankookilbo.com/news/article/A2026102810080001740",
+        "event_key": "sk-hynix-solidigm-ipo-stop-ceo-explanation-20261028"
       },
       {
-        "title": "李 “도움 안 된다와 크게 도움 안 된다는 달라”…외국인 노동자 보도 정정 요구",
-        "url": "https://www.yna.co.kr/view/AKR20261028013200001",
-        "event_key": "lee-foreign-worker-remark-greatly-qualifier-correction-demand-20261028"
+        "title": "저가커피라 수입 우유일 줄 알았는데…16곳 중15곳은 국산만 썼다",
+        "url": "https://v.daum.net/v/20261027144241583",
+        "event_key": "budget-coffee-milk-domestic-15-of-16-survey-20261027"
       },
       {
-        "title": "할머니 장바구니 카트에 경찰까지…같은 짐도 서울20kg·경기10kg",
-        "url": "https://www.yna.co.kr/view/AKR20261026144400518",
-        "event_key": "bus-shopping-trolley-refusal-rules-local-differences-factcheck-20261028"
+        "title": "믿었던 베팅 분석가가 모집책…판돈2.5% 받고 회원 붙잡았다",
+        "url": "https://www.ytn.co.kr/_ln/0115_202610280402599541",
+        "event_key": "jeju-illegal-gambling-pickster-recruitment-490b-20261028"
       },
       {
-        "title": "은행 장애 배상1인당28원? 알고 보니 ‘저금통 자동모으기’ 미작동",
-        "url": "https://www.yna.co.kr/view/AKR20261027159800002",
-        "event_key": "bank-outage-compensation-28-won-savings-feature-context-20261028"
+        "title": "케인 “조용히 노력하라”에 저격 해석…본인은 “내 선수 생활의 지침”",
+        "url": "https://sports.yahoo.com/articles/hard-silence-let-success-noise-103700181.html",
+        "event_key": "harry-kane-work-in-silence-quote-explanation-20261027"
       },
       {
-        "title": "삼성 EUV 기술 유출 혐의…대학 산학협력단 연구원 불구속기소",
-        "url": "https://www.yna.co.kr/view/AKR20261027180900004",
-        "event_key": "samsung-euv-former-employee-university-researcher-indictment-20261027"
+        "title": "회사 망하면 퇴직금도 못 받을까…2028년100인 이상부터 밖에 쌓는다",
+        "url": "https://www.newsis.com/view/NISX20261028_0003844229",
+        "event_key": "retirement-pay-external-funding-100-workers-2028-plan-20261028"
       }
     ]
   }
