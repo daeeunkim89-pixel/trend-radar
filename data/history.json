@@ -1,6 +1,733 @@
 {
   "version": 1,
   "items": {
+    "2d6a9cd32b67": {
+      "source": "동행미디어 시대",
+      "title": "참사 비방362번에 실형…이태원 2차 가해 판결18건, 달라진 양형 이유",
+      "link": "https://www.sidae.com/article/2026102811552323724",
+      "first_seen_at": 1793250818,
+      "last_seen_at": 1793261158,
+      "samples": [
+        {
+          "at": 1793250818,
+          "views": null,
+          "reactions": null,
+          "rank": 11,
+          "rank_kind": null
+        },
+        {
+          "at": 1793261158,
+          "views": null,
+          "reactions": null,
+          "rank": 10,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "2d6a9cd32b67",
+      "editorial": {
+        "title": "참사 비방362번에 실형…이태원 2차 가해 판결18건, 달라진 양형 이유",
+        "category": "시사",
+        "url": "https://www.sidae.com/article/2026102811552323724",
+        "source": "동행미디어 시대",
+        "kind": "article",
+        "event_key": "itaewon-secondary-harm-18-verdict-analysis-20261029",
+        "why": "초기의 가해자 반성 중심 양형에서 유족과 사회 피해에 주목하는 판단으로 바뀐 과정이 구체 사례로 드러난다.",
+        "angle": "반성한다는 가해자보다 유족이 입은 피해로 시선 이동",
+        "why_now": "10/29 04:30 새 판결문 18건 분석 기사. 인용 선고는 2023~26년의 과거 판결이며 오늘 새 선고가 아니다.",
+        "verified_at": 1793260849,
+        "published_at": 1793215800,
+        "evidence": [
+          {
+            "url": "https://www.sidae.com/article/2026102811552323724",
+            "note": "분석 기사 본문에서 올해 6월 허위 주장 362회 게시 사건 징역 6개월과 8월 다른 사건 징역 1년을 구분했다. 판결문 18건 전체 원문은 직접 열람하지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.sidae.com/article/2026102811552323724",
+            "label": "확인한 취재 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "기사 분석 확인·판결문 전체 미열람. 혐오 표현 원문 재확산 금지.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-29",
+          "observation": "분석 기사 본문에서 올해 6월 허위 주장 362회 게시 사건 징역 6개월과 8월 다른 사건 징역 1년을 구분했다. 판결문 18건 전체 원문은 직접 열람하지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "오늘 새 판결이 아닌 18건 분석임을 첫 장에 명시",
+            "가해자 반성 중심에서 유족·사회 피해로 양형 이유 변화 소개",
+            "6월·8월의 다른 실형 사건을 날짜별로 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 취재 원문",
+            "url": "https://www.sidae.com/article/2026102811552323724"
+          }
+        ],
+        "excerpt": "",
+        "context": "10/29 04:30 새 판결문 18건 분석 기사. 인용 선고는 2023~26년의 과거 판결이며 오늘 새 선고가 아니다.",
+        "fetched_at": 1793261158,
+        "parser_revision": 7
+      },
+      "curation_event_key": "itaewon-secondary-harm-18-verdict-analysis-20261029"
+    },
+    "ecab97649980": {
+      "source": "매일경제",
+      "title": "600만~1000만원 FSD 옵션, 구현 안 돼도 환불 불가…차주 89명 패소",
+      "link": "https://www.mk.co.kr/news/society/12189671",
+      "first_seen_at": 1793261158,
+      "last_seen_at": 1793261158,
+      "samples": [
+        {
+          "at": 1793261158,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "ecab97649980",
+      "editorial": {
+        "title": "600만~1000만원 FSD 옵션, 구현 안 돼도 환불 불가…차주 89명 패소",
+        "category": "시사",
+        "url": "https://www.mk.co.kr/news/society/12189671",
+        "source": "매일경제",
+        "kind": "article",
+        "event_key": "tesla-hw3-fsd-option-refund-lawsuit-dismissed-20261029",
+        "why": "기능을 못 썼다는 소비자와 규제·기술 조건이 붙은 계약이라는 법원의 판단이 정면으로 갈린다.",
+        "angle": "옵션값은 미리 냈는데, 불확실성도 구매자가 감수?",
+        "why_now": "10/29 11:16:45 최초 보도·11:23:05 수정. 오늘 서울중앙지법 1심 선고다.",
+        "verified_at": 1793260831,
+        "published_at": 1793240205,
+        "evidence": [
+          {
+            "url": "https://www.mk.co.kr/news/society/12189671",
+            "note": "본문에서 차주 89명 청구 기각과 규제 승인·기술 발전을 조건으로 한 계약 판단을 확인했다. 일부 주행보조 기능은 제공됐으며 판결문 전체·확정 여부는 확인하지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.mk.co.kr/news/society/12189671",
+            "label": "확인한 취재 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "모든 FSD 기능 미제공 또는 판결 확정으로 쓰지 말 것.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-29",
+          "observation": "본문에서 차주 89명 청구 기각과 규제 승인·기술 발전을 조건으로 한 계약 판단을 확인했다. 일부 주행보조 기능은 제공됐으며 판결문 전체·확정 여부는 확인하지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "옵션 가격과 89명 환불 청구를 제시",
+            "소비자 주장과 불확정기한부 계약이라는 법원 판단을 대비",
+            "일부 기능 제공·HW3 적용 범위와 1심이라는 한계로 회수"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 취재 원문",
+            "url": "https://www.mk.co.kr/news/society/12189671"
+          }
+        ],
+        "excerpt": "",
+        "context": "10/29 11:16:45 최초 보도·11:23:05 수정. 오늘 서울중앙지법 1심 선고다.",
+        "fetched_at": 1793261158,
+        "parser_revision": 7
+      },
+      "curation_event_key": "tesla-hw3-fsd-option-refund-lawsuit-dismissed-20261029"
+    },
+    "a56e526b952a": {
+      "source": "SBS",
+      "title": "장관이 교체 권고한 황현필 강연 강행…객석 고성에 본인은 왜곡 부인",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008820881",
+      "first_seen_at": 1793261158,
+      "last_seen_at": 1793261158,
+      "samples": [
+        {
+          "at": 1793261158,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "a56e526b952a",
+      "editorial": {
+        "title": "장관이 교체 권고한 황현필 강연 강행…객석 고성에 본인은 왜곡 부인",
+        "category": "시사",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008820881",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "hwang-hyun-pil-gyeonggi-lecture-protest-response-20261028",
+        "why": "강사 교체 권고→강연 진행→객석 항의→당사자 반박으로 요청과 대응의 흐름이 완결된다.",
+        "angle": "교체 권고에도 열린 강연, 객석 항의와 연단 반박",
+        "why_now": "강연·집회는 10/28. SBS 취재 보도 10/29 12:43:02·수정 13:04:43을 확인했다.",
+        "verified_at": 1793260900,
+        "published_at": 1793245382,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008820881",
+            "note": "SBS 취재 본문에서 학부모 단체의 역사 왜곡 주장, 객석 고성, 황현필의 반박과 교육부 장관의 교체 권고를 확인했다. 기사 영상 전체는 시청하지 않았고 역사 해석의 진위는 판단하지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008820881",
+            "label": "확인한 취재 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "왜곡 여부를 확정하지 말고 주장·반박 구별. 영상 미시청.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-28",
+          "observation": "SBS 취재 본문에서 학부모 단체의 역사 왜곡 주장, 객석 고성, 황현필의 반박과 교육부 장관의 교체 권고를 확인했다. 기사 영상 전체는 시청하지 않았고 역사 해석의 진위는 판단하지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "교체 권고와 강연 강행의 순서를 날짜와 함께 제시",
+            "학부모 단체 주장과 황현필 반박을 발화자별로 구분",
+            "천안함 관련 발언 의혹도 본인이 부인했다는 범위만 설명"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 취재 원문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008820881"
+          }
+        ],
+        "excerpt": "",
+        "context": "강연·집회는 10/28. SBS 취재 보도 10/29 12:43:02·수정 13:04:43을 확인했다.",
+        "fetched_at": 1793261158,
+        "parser_revision": 7
+      },
+      "curation_event_key": "hwang-hyun-pil-gyeonggi-lecture-protest-response-20261028"
+    },
+    "c22a8ceefce9": {
+      "source": "SBS",
+      "title": "“사람 죽였다” 신고에 경찰31명·소방9명…살인은 없었다",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008820638",
+      "first_seen_at": 1793261158,
+      "last_seen_at": 1793261158,
+      "samples": [
+        {
+          "at": 1793261158,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "c22a8ceefce9",
+      "editorial": {
+        "title": "“사람 죽였다” 신고에 경찰31명·소방9명…살인은 없었다",
+        "category": "시사",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008820638",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "uijeongbu-false-murder-112-call-arrest-20261029",
+        "why": "관심을 받으려 했다는 허위 신고 하나가 40명의 출동으로 커진 황당한 인력 낭비가 직관적이다.",
+        "angle": "살인 자수 전화 → 40명 출동 → 살인 사건 없음",
+        "why_now": "허위 신고는 10/28 08:30경, 경찰 수사 공개 보도는 10/29 10:29:37.",
+        "verified_at": 1793260831,
+        "published_at": 1793237377,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008820638",
+            "note": "경찰 취재 본문에서 허위 112 신고, 경찰 31명·소방 9명·차량 11대 출동과 긴급체포를 확인했다. 동기는 피의자 진술이며 구속영장은 신청 방침 단계다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008820638",
+            "label": "확인한 취재 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "피의자 진술·혐의 단계. 실제 살인 사건으로 오인시키지 말 것.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-28",
+          "observation": "경찰 취재 본문에서 허위 112 신고, 경찰 31명·소방 9명·차량 11대 출동과 긴급체포를 확인했다. 동기는 피의자 진술이며 구속영장은 신청 방침 단계다.",
+          "checked_materials": [],
+          "outline": [
+            "자수 전화와 현장 확인 결과를 대비",
+            "경찰·소방 출동 규모를 나누어 표시",
+            "관심 부족 불만이라는 진술과 공무집행방해 수사 단계 제시"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 취재 원문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008820638"
+          }
+        ],
+        "excerpt": "",
+        "context": "허위 신고는 10/28 08:30경, 경찰 수사 공개 보도는 10/29 10:29:37.",
+        "fetched_at": 1793261158,
+        "parser_revision": 7
+      },
+      "curation_event_key": "uijeongbu-false-murder-112-call-arrest-20261029"
+    },
+    "6324911856a7": {
+      "source": "연합뉴스",
+      "title": "은퇴 소동 뒤 전원 재소집…모레노 “훈련보다 대화”, 손흥민 주장 유지",
+      "link": "https://www.yna.co.kr/view/AKR20261029150800007",
+      "first_seen_at": 1793261158,
+      "last_seen_at": 1793261158,
+      "samples": [
+        {
+          "at": 1793261158,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "6324911856a7",
+      "editorial": {
+        "title": "은퇴 소동 뒤 전원 재소집…모레노 “훈련보다 대화”, 손흥민 주장 유지",
+        "category": "축구",
+        "url": "https://www.yna.co.kr/view/AKR20261029150800007",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "moreno-press-conference-96line-son-recall-captain-20261029",
+        "why": "갈등설 뒤 첫 명단에서 네 선수를 모두 부르고 주장까지 유지한 감독의 구체적 답변이 한국 팬의 핵심 질문에 닿는다.",
+        "angle": "불화설의 네 사람 모두 재소집, 주장은 그대로",
+        "why_now": "10/29 오후 명단 발표 기자회견의 새 설명. 연합뉴스 현장 일문일답 15:33:20 공개.",
+        "verified_at": 1793260849,
+        "published_at": 1793255600,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261029150800007",
+            "note": "현장 일문일답 본문에서 직접 대면·선수 간 대화, 훈련보다 소통에 많은 시간을 썼다는 설명, 손흥민 주장 유지와 96라인 재소집을 확인했다. 사적 대화 내용과 실제 화해 여부는 공개되지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261029150800007",
+            "label": "확인한 취재 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "갈등 해소는 감독 설명. 선수 전원의 실제 화해를 확인한 것은 아님.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-29",
+          "observation": "현장 일문일답 본문에서 직접 대면·선수 간 대화, 훈련보다 소통에 많은 시간을 썼다는 설명, 손흥민 주장 유지와 96라인 재소집을 확인했다. 사적 대화 내용과 실제 화해 여부는 공개되지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "은퇴 소동 후 네 사람 재소집이라는 선택 제시",
+            "훈련보다 대화에 시간을 썼다는 감독 설명 연결",
+            "주장 유지와 사적 대화 비공개라는 확인 한계 명시"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 취재 원문",
+            "url": "https://www.yna.co.kr/view/AKR20261029150800007"
+          }
+        ],
+        "excerpt": "",
+        "context": "10/29 오후 명단 발표 기자회견의 새 설명. 연합뉴스 현장 일문일답 15:33:20 공개.",
+        "fetched_at": 1793261158,
+        "parser_revision": 7
+      },
+      "curation_event_key": "moreno-press-conference-96line-son-recall-captain-20261029"
+    },
+    "d0000b416553": {
+      "source": "뉴시스",
+      "title": "집 3채 동생에게 팔았다 다시 샀는데 돈 이동 0…비과세 명의신탁 의심",
+      "link": "https://www.fnnews.com/news/202610291102479439",
+      "first_seen_at": 1793261158,
+      "last_seen_at": 1793261158,
+      "samples": [
+        {
+          "at": 1793261158,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "d0000b416553",
+      "editorial": {
+        "title": "집 3채 동생에게 팔았다 다시 샀는데 돈 이동 0…비과세 명의신탁 의심",
+        "category": "시사",
+        "url": "https://www.fnnews.com/news/202610291102479439",
+        "source": "뉴시스",
+        "kind": "article",
+        "event_key": "molit-housing-abnormal-transactions-678-disclosure-20261029",
+        "why": "집이 서류상 오가는 사이 다른 집을 팔아 1주택 비과세를 노렸다는 구체 사례가 거래 건수보다 강하다.",
+        "angle": "집 3채를 넘겼다 되샀는데 실제 매매대금은 없었다",
+        "why_now": "10/29 국토부 이상거래 조사 결과 발표. 기사 11:02:48, 원 뉴시스 발표 보도는 11:00. 과거 거래의 새 조사 공개다.",
+        "verified_at": 1793260831,
+        "published_at": 1793239200,
+        "evidence": [
+          {
+            "url": "https://www.fnnews.com/news/202610291102479439",
+            "note": "조사 보도에서 작년 7월 아파트 3채를 동생에게 매도 후 올해 2월 재매수, 실제 대금 미지급과 그 사이 별도 아파트 매도를 확인했다. 명의신탁·탈세는 조사상 의심이며 확정 처분이 아니다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.fnnews.com/news/202610291102479439",
+            "label": "확인한 취재 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "위법 의심·통보 단계. 유죄·절세 성공으로 확정하지 말 것.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-29",
+          "observation": "조사 보도에서 작년 7월 아파트 3채를 동생에게 매도 후 올해 2월 재매수, 실제 대금 미지급과 그 사이 별도 아파트 매도를 확인했다. 명의신탁·탈세는 조사상 의심이며 확정 처분이 아니다.",
+          "checked_materials": [],
+          "outline": [
+            "3채 매도→별도 아파트 매도→3채 재매수 순서 설명",
+            "실제 대금이 움직이지 않았다는 조사 내용을 표시",
+            "678건 위법 의심거래 적발과 후속 기관 통보로 연결"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 취재 원문",
+            "url": "https://www.fnnews.com/news/202610291102479439"
+          }
+        ],
+        "excerpt": "",
+        "context": "10/29 국토부 이상거래 조사 결과 발표. 기사 11:02:48, 원 뉴시스 발표 보도는 11:00. 과거 거래의 새 조사 공개다.",
+        "fetched_at": 1793261158,
+        "parser_revision": 7
+      },
+      "curation_event_key": "molit-housing-abnormal-transactions-678-disclosure-20261029"
+    },
+    "d04e4aa5de43": {
+      "source": "아시아경제",
+      "title": "엄마는 총책·아들은 자금세탁…짝퉁 6093점 숨긴 비밀창고 적발",
+      "link": "https://www.asiae.co.kr/article/incidents-accidents/2026102909024687482",
+      "first_seen_at": 1793261158,
+      "last_seen_at": 1793261158,
+      "samples": [
+        {
+          "at": 1793261158,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "d04e4aa5de43",
+      "editorial": {
+        "title": "엄마는 총책·아들은 자금세탁…짝퉁 6093점 숨긴 비밀창고 적발",
+        "category": "시사",
+        "url": "https://www.asiae.co.kr/article/incidents-accidents/2026102909024687482",
+        "source": "아시아경제",
+        "kind": "article",
+        "event_key": "seongbuk-counterfeit-luxury-family-ring-referral-20261029",
+        "why": "가족·지인으로 역할을 나눈 유통 조직과 창고에 쌓인 가짜 명품이라는 구체적 구조가 잡힌다.",
+        "angle": "명품 비밀창고 뒤에는 엄마·아들의 역할 분담",
+        "why_now": "10/29 성북경찰서 송치 발표·10:02:38 보도. 범행은 2025/2~2026/2, 창고 적발은 올해 2/24다.",
+        "verified_at": 1793260831,
+        "published_at": 1793235758,
+        "evidence": [
+          {
+            "url": "https://www.asiae.co.kr/article/incidents-accidents/2026102909024687482",
+            "note": "경찰 취재 본문에서 총책 구속 송치, 아들의 영업·대금 세탁 역할과 위조품 6093점 압수를 확인했다. 355억원은 정품 시가 환산이며 실제 판매 수익과 다르다. 사진은 아직 직접 검토하지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.asiae.co.kr/article/incidents-accidents/2026102909024687482",
+            "label": "확인한 취재 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "355억은 정품 시가 환산. 실제 매출·범죄 확정액으로 쓰지 말 것.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-29",
+          "observation": "경찰 취재 본문에서 총책 구속 송치, 아들의 영업·대금 세탁 역할과 위조품 6093점 압수를 확인했다. 355억원은 정품 시가 환산이며 실제 판매 수익과 다르다. 사진은 아직 직접 검토하지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "가족·지인으로 꾸린 조직과 역할 분담 제시",
+            "6093점 압수와 정품 시가 환산 355억원을 구분",
+            "판매 수익 혐의와 기소 전 추징보전·송치 단계를 설명"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 취재 원문",
+            "url": "https://www.asiae.co.kr/article/incidents-accidents/2026102909024687482"
+          }
+        ],
+        "excerpt": "",
+        "context": "10/29 성북경찰서 송치 발표·10:02:38 보도. 범행은 2025/2~2026/2, 창고 적발은 올해 2/24다.",
+        "fetched_at": 1793261158,
+        "parser_revision": 7
+      },
+      "curation_event_key": "seongbuk-counterfeit-luxury-family-ring-referral-20261029"
+    },
+    "325aa1f63971": {
+      "source": "뉴시스",
+      "title": "전직 택시기사가 택시만 노렸다…자전거 고의 충돌7번, 신고한다면 도주",
+      "link": "https://www.newsis.com/view/NISX20261029_0003846101",
+      "first_seen_at": 1793261158,
+      "last_seen_at": 1793261158,
+      "samples": [
+        {
+          "at": 1793261158,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "325aa1f63971",
+      "editorial": {
+        "title": "전직 택시기사가 택시만 노렸다…자전거 고의 충돌7번, 신고한다면 도주",
+        "category": "시사",
+        "url": "https://www.newsis.com/view/NISX20261029_0003846101",
+        "source": "뉴시스",
+        "kind": "article",
+        "event_key": "daejeon-former-taxi-driver-bicycle-staged-crash-fraud-20261029",
+        "why": "택시기사의 현금 합의 심리를 아는 전직 기사가 동료 직업군을 노렸다는 모순과 신고하면 떠난 행동이 선명하다.",
+        "angle": "현금 합의엔 머물고, 경찰 신고한다면 사라졌다",
+        "why_now": "10/29 10:22:14 경찰 송치 발표 보도. 범행 2023년~이달·구속은 10/23으로 구분.",
+        "verified_at": 1793260831,
+        "published_at": 1793236934,
+        "evidence": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261029_0003846101",
+            "note": "경찰 취재 본문에서 자전거 고의 충돌 7차례·137만원, 신고 의사를 밝힌 4차례 현장 이탈, 과거 택시기사 경력을 확인했다. 재판 결과·실제 충돌 영상은 확인하지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261029_0003846101",
+            "label": "확인한 취재 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "경찰 발표의 피의사실. 피해 기사 전체 성향으로 일반화 금지.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-29",
+          "observation": "경찰 취재 본문에서 자전거 고의 충돌 7차례·137만원, 신고 의사를 밝힌 4차례 현장 이탈, 과거 택시기사 경력을 확인했다. 재판 결과·실제 충돌 영상은 확인하지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "자전거로 택시에 고의 충돌했다는 혐의 제시",
+            "전직 기사 경력과 현금 합의 심리 악용을 연결",
+            "신고 시 이탈한 대조와 구속 송치로 마무리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 취재 원문",
+            "url": "https://www.newsis.com/view/NISX20261029_0003846101"
+          }
+        ],
+        "excerpt": "",
+        "context": "10/29 10:22:14 경찰 송치 발표 보도. 범행 2023년~이달·구속은 10/23으로 구분.",
+        "fetched_at": 1793261158,
+        "parser_revision": 7
+      },
+      "curation_event_key": "daejeon-former-taxi-driver-bicycle-staged-crash-fraud-20261029"
+    },
+    "8d7bd7d908eb": {
+      "source": "SBS",
+      "title": "펨코 산후조리원 글 인용한 대통령…비판 나오자 “누가 지적했든 시정”",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821347",
+      "first_seen_at": 1793261158,
+      "last_seen_at": 1793261158,
+      "samples": [
+        {
+          "at": 1793261158,
+          "views": null,
+          "reactions": null,
+          "rank": 8,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "8d7bd7d908eb",
+      "editorial": {
+        "title": "펨코 산후조리원 글 인용한 대통령…비판 나오자 “누가 지적했든 시정”",
+        "category": "시사",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821347",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "lee-multicultural-postpartum-priority-femco-response-20261029",
+        "why": "커뮤니티 예약 순위 문제 제기가 대통령의 제도 검토와 출처 논쟁으로 옮겨가는 실제 요청·반응의 흐름이다.",
+        "angle": "펨코 글 → 우대 검토 예고 → 출처 논란에 대통령 재반박",
+        "why_now": "10/28 게시물 인용 후 10/29 오전 X 반박. SBS 보도 15:05:51·수정 16:31:17을 구별.",
+        "verified_at": 1793260900,
+        "published_at": 1793253951,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821347",
+            "note": "SBS 본문에서 산후조리원 예약 순위 글 인용과 오늘 X 발언을 확인했다. 지원 지속과 과잉 특혜 경계를 함께 언급했다. 원 X 게시물·조례·실제 폐지 결정은 확인하지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821347",
+            "label": "확인한 취재 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "우대 폐지 확정 아님. 제도 검토·정치적 반박 발언 보도.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-29",
+          "observation": "SBS 본문에서 산후조리원 예약 순위 글 인용과 오늘 X 발언을 확인했다. 지원 지속과 과잉 특혜 경계를 함께 언급했다. 원 X 게시물·조례·실제 폐지 결정은 확인하지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "산후조리원 예약 2순위 문제 제기와 제도 검토 예고 소개",
+            "지원 후퇴·커뮤니티 인용에 대한 비판을 비판으로 표시",
+            "차별 방지 지원은 유지하되 과잉은 시정한다는 답변으로 회수"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 취재 원문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821347"
+          }
+        ],
+        "excerpt": "",
+        "context": "10/28 게시물 인용 후 10/29 오전 X 반박. SBS 보도 15:05:51·수정 16:31:17을 구별.",
+        "fetched_at": 1793261158,
+        "parser_revision": 7
+      },
+      "curation_event_key": "lee-multicultural-postpartum-priority-femco-response-20261029"
+    },
+    "687226532d37": {
+      "source": "조선비즈",
+      "title": "선장은 징역·배는 몰수했는데…재판 안 받은 선주에 어선 반환 판결",
+      "link": "https://biz.chosun.com/topics/law_firm/2026/10/29/5K7KCT6IOFFSTGGTQUFI7CFW6A/",
+      "first_seen_at": 1793261158,
+      "last_seen_at": 1793261158,
+      "samples": [
+        {
+          "at": 1793261158,
+          "views": null,
+          "reactions": null,
+          "rank": 9,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "687226532d37",
+      "editorial": {
+        "title": "선장은 징역·배는 몰수했는데…재판 안 받은 선주에 어선 반환 판결",
+        "category": "시사",
+        "url": "https://biz.chosun.com/topics/law_firm/2026/10/29/5K7KCT6IOFFSTGGTQUFI7CFW6A/",
+        "source": "조선비즈",
+        "kind": "article",
+        "event_key": "chinese-fishing-vessels-owner-return-remand-report-20261029",
+        "why": "형사 몰수가 확정된 배도 다른 소유자의 권리는 별개라는 판단이 단속 상식과 충돌한다.",
+        "angle": "선장은 처벌했는데 배의 주인은 형사재판을 받지 않았다",
+        "why_now": "10/29 단독 취재 공개(메타 최초 13:38:55·본문 표시15:15). 판결은 10/14, 나포는 2022/10으로 과거 시점을 명시.",
+        "verified_at": 1793260900,
+        "published_at": 1793248735,
+        "evidence": [
+          {
+            "url": "https://biz.chosun.com/topics/law_firm/2026/10/29/5K7KCT6IOFFSTGGTQUFI7CFW6A/",
+            "note": "단독 취재 본문에서 어선 2척의 관리비 지급 조건부 반환, 몰수 효력이 피고인에 한정된다는 판단과 정부 상고 추진을 확인했다. 판결문 원문·상고 접수 여부는 직접 확인하지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://biz.chosun.com/topics/law_firm/2026/10/29/5K7KCT6IOFFSTGGTQUFI7CFW6A/",
+            "label": "확인한 취재 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "10/14 판결의 오늘 취재 공개. 무조건 반환·모든 나포선 적용 아님.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-14",
+          "observation": "단독 취재 본문에서 어선 2척의 관리비 지급 조건부 반환, 몰수 효력이 피고인에 한정된다는 판단과 정부 상고 추진을 확인했다. 판결문 원문·상고 접수 여부는 직접 확인하지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "2022년 나포·선장 처벌과 10/14 반환 판결을 분리",
+            "형사재판을 받지 않은 선주의 소유권이라는 이유 제시",
+            "관리비 지급 조건과 정부 상고 추진, 확정 전 상태를 함께 표시"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 취재 원문",
+            "url": "https://biz.chosun.com/topics/law_firm/2026/10/29/5K7KCT6IOFFSTGGTQUFI7CFW6A/"
+          }
+        ],
+        "excerpt": "",
+        "context": "10/29 단독 취재 공개(메타 최초 13:38:55·본문 표시15:15). 판결은 10/14, 나포는 2022/10으로 과거 시점을 명시.",
+        "fetched_at": 1793261158,
+        "parser_revision": 7
+      },
+      "curation_event_key": "chinese-fishing-vessels-owner-return-remand-report-20261029"
+    },
     "698be5856fc8": {
       "source": "엑스포츠뉴스",
       "title": "다이어트하다 운 예리…힘들어서가 아니라 식욕 줄어드는 게 싫어서",
@@ -759,78 +1486,6 @@
         "parser_revision": 7
       },
       "curation_event_key": "yoo-si-min-park-si-young-tv-lee-support-base-warning-20261028"
-    },
-    "2d6a9cd32b67": {
-      "source": "현장 취재 보도",
-      "title": "참사 비방 362번 올렸다가 실형…이태원 2차 가해 판결 18건의 변화",
-      "link": "https://www.sidae.com/article/2026102811552323724",
-      "first_seen_at": 1793250818,
-      "last_seen_at": 1793250818,
-      "samples": [
-        {
-          "at": 1793250818,
-          "views": null,
-          "reactions": null,
-          "rank": 11,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "2d6a9cd32b67",
-      "editorial": {
-        "title": "참사 비방 362번 올렸다가 실형…이태원 2차 가해 판결 18건의 변화",
-        "category": "시사",
-        "url": "https://www.sidae.com/article/2026102811552323724",
-        "source": "현장 취재 보도",
-        "kind": "article",
-        "event_key": "itaewon-secondary-harm-18-verdict-analysis-20261029",
-        "why": "초기의 가해자 반성 중심 양형에서 유족·사회 피해를 보는 판결로 바뀐 과정이 구체 사례로 드러난다.",
-        "angle": "처음엔 반성·전과, 이제는 유족과 사회에 남긴 피해",
-        "why_now": "10/29 04:30 새 판결문 18건 분석 보도. 인용 판결은 2023~26년 과거 선고이며 오늘 새 판결이 아님.",
-        "verified_at": 1793250290,
-        "published_at": 1793215800,
-        "evidence": [
-          {
-            "url": "https://www.sidae.com/article/2026102811552323724",
-            "note": "동행미디어 시대의 분석 본문에서 판결 18건, 올해 6월 362차례 허위 주장 게시 사건 징역 6개월, 8월 다른 사건 징역 1년을 구별했다. 판결문 원문 18건 전체는 직접 열람하지 않았다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.sidae.com/article/2026102811552323724",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "분석 기사 확인·판결문 전체 미열람. 혐오 표현 원문 재확산 금지.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-29",
-          "observation": "동행미디어 시대의 분석 본문에서 판결 18건, 올해 6월 362차례 허위 주장 게시 사건 징역 6개월, 8월 다른 사건 징역 1년을 구별했다. 판결문 원문 18건 전체는 직접 열람하지 않았다.",
-          "checked_materials": [],
-          "outline": [
-            "새 판결이 아니라 18건 분석 기사임을 첫 장에 표시",
-            "초기와 최근 판결의 양형 이유를 요약 비교",
-            "6월·8월의 서로 다른 실형 사례와 유족 피해를 설명"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://www.sidae.com/article/2026102811552323724"
-          }
-        ],
-        "excerpt": "",
-        "context": "10/29 04:30 새 판결문 18건 분석 보도. 인용 판결은 2023~26년 과거 선고이며 오늘 새 판결이 아님.",
-        "fetched_at": 1793250818,
-        "parser_revision": 7
-      },
-      "curation_event_key": "itaewon-secondary-harm-18-verdict-analysis-20261029"
     },
     "eeebfb1ef552": {
       "source": "OSEN·독일 현지 보도",
@@ -26966,727 +27621,7 @@
         "parser_revision": 7
       },
       "curation_event_key": "saka-quadriceps-injury-arteta-concern-20261022"
-    },
-    "d72c68a3d1c7": {
-      "source": "Reuters·한국은행",
-      "title": "기준금리 3.00% 동결…추가 인상 문은 열어뒀다",
-      "link": "https://www.reuters.com/world/asia-pacific/bank-korea-holds-rates-after-back-to-back-hikes-2026-10-22/",
-      "first_seen_at": 1792654021,
-      "last_seen_at": 1792654021,
-      "samples": [
-        {
-          "at": 1792654021,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "d72c68a3d1c7",
-      "editorial": {
-        "title": "기준금리 3.00% 동결…추가 인상 문은 열어뒀다",
-        "category": "시사",
-        "url": "https://www.reuters.com/world/asia-pacific/bank-korea-holds-rates-after-back-to-back-hikes-2026-10-22/",
-        "source": "Reuters·한국은행",
-        "kind": "article",
-        "event_key": "bok-holds-3-percent-growth-upgrade-future-hikes-20261022",
-        "why": "대출·예금에 바로 닿는 기준금리를 동결하면서 성장 전망을 올려 다음 인상 가능성을 남겼다.",
-        "angle": "3.00% 동결 뒤 성장률 상향과 11월 인상 전망을 대비한다.",
-        "why_now": "22일 두 차례 연속 인상 뒤 처음 동결하고 추가 긴축 가능성을 열어뒀다.",
-        "verified_at": 1792653865,
-        "published_at": 1792631220,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/world/asia-pacific/bank-korea-holds-rates-after-back-to-back-hikes-2026-10-22/",
-            "note": "3.00% 동결, 성장률 전망 상향, 향후 인상 방침을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/world/asia-pacific/bank-korea-holds-rates-after-back-to-back-hikes-2026-10-22/",
-            "label": "금리 결정·성장 전망",
-            "kind": "source"
-          }
-        ],
-        "caution": "11월 인상은 시장 전망이며 확정 결정이 아니다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "3.00% 동결, 성장률 전망 상향, 향후 인상 방침을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "첫 장: 기준금리 3.00% 동결",
-            "2장: 두 번 인상 뒤 멈춘 이유",
-            "3장: 성장 전망과 다음 인상"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "금리 결정·성장 전망",
-            "url": "https://www.reuters.com/world/asia-pacific/bank-korea-holds-rates-after-back-to-back-hikes-2026-10-22/"
-          }
-        ],
-        "excerpt": "",
-        "context": "22일 두 차례 연속 인상 뒤 처음 동결하고 추가 긴축 가능성을 열어뒀다.",
-        "fetched_at": 1792654021,
-        "parser_revision": 7
-      },
-      "curation_event_key": "bok-holds-3-percent-growth-upgrade-future-hikes-20261022"
-    },
-    "df9bfd5c89ed": {
-      "source": "Reuters·대만 CWA",
-      "title": "태풍 참피 반경 320km…대만·일본 항공편 225편 취소",
-      "link": "https://www.reuters.com/business/environment/taiwan-issues-land-warning-ahead-arrival-powerful-typhoon-champi-2026-10-22/",
-      "first_seen_at": 1792654021,
-      "last_seen_at": 1792654021,
-      "samples": [
-        {
-          "at": 1792654021,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "df9bfd5c89ed",
-      "editorial": {
-        "title": "태풍 참피 반경 320km…대만·일본 항공편 225편 취소",
-        "category": "시사",
-        "url": "https://www.reuters.com/business/environment/taiwan-issues-land-warning-ahead-arrival-powerful-typhoon-champi-2026-10-22/",
-        "source": "Reuters·대만 CWA",
-        "kind": "article",
-        "event_key": "typhoon-champi-taiwan-320km-radius-225-flights-20261022",
-        "why": "동아시아 초대형 태풍 규모와 실제 항공 차질을 숫자로 즉시 이해할 수 있다.",
-        "angle": "반경 320km·돌풍 227km/h 뒤 대만·일본 취소 규모를 잇는다.",
-        "why_now": "대만이 22일 육상 경보를 내리고 225편 이상 취소가 확인됐다.",
-        "verified_at": 1792653865,
-        "published_at": 1792642260,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/business/environment/taiwan-issues-land-warning-ahead-arrival-powerful-typhoon-champi-2026-10-22/",
-            "note": "CWA 기준 반경·풍속·경로와 항공편 취소를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/business/environment/taiwan-issues-land-warning-ahead-arrival-powerful-typhoon-champi-2026-10-22/",
-            "label": "태풍 경로·항공 차질",
-            "kind": "source"
-          }
-        ],
-        "caution": "경로와 강도는 22일 발표 시점 기준이다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "CWA 기준 반경·풍속·경로와 항공편 취소를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "첫 장: 반경 320km",
-            "2장: 항공편 225편 이상 취소",
-            "3장: 대만→일본 예상 경로"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "태풍 경로·항공 차질",
-            "url": "https://www.reuters.com/business/environment/taiwan-issues-land-warning-ahead-arrival-powerful-typhoon-champi-2026-10-22/"
-          }
-        ],
-        "excerpt": "",
-        "context": "대만이 22일 육상 경보를 내리고 225편 이상 취소가 확인됐다.",
-        "fetched_at": 1792654021,
-        "parser_revision": 7
-      },
-      "curation_event_key": "typhoon-champi-taiwan-320km-radius-225-flights-20261022"
-    },
-    "03d3b99e76c9": {
-      "source": "Reuters·대만 국가안전국",
-      "title": "시진핑 풍자 코미디언 폭행…대만, 중국 연계 조직범죄 조사",
-      "link": "https://www.reuters.com/world/china/taiwan-probes-organised-crime-links-chinas-transnational-repression-2026-10-22/",
-      "first_seen_at": 1792654021,
-      "last_seen_at": 1792654021,
-      "samples": [
-        {
-          "at": 1792654021,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "03d3b99e76c9",
-      "editorial": {
-        "title": "시진핑 풍자 코미디언 폭행…대만, 중국 연계 조직범죄 조사",
-        "category": "시사",
-        "url": "https://www.reuters.com/world/china/taiwan-probes-organised-crime-links-chinas-transnational-repression-2026-10-22/",
-        "source": "Reuters·대만 국가안전국",
-        "kind": "article",
-        "event_key": "taiwan-probes-china-linked-organised-crime-transnational-repression-20261022",
-        "why": "온라인 풍자에서 실제 폭행과 국가 간 탄압 의혹으로 번진 구조가 강하다.",
-        "angle": "코미디언 폭행 뒤 조직폭력망과 중국 자금 지시 여부 수사로 전개한다.",
-        "why_now": "대만 국가안전국장이 22일 중국 지시·자금 연계를 조사 대상으로 구체화했다.",
-        "verified_at": 1792653865,
-        "published_at": 1792636357,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/world/china/taiwan-probes-organised-crime-links-chinas-transnational-repression-2026-10-22/",
-            "note": "국가안전국 발언, 검찰 경고와 중국의 무응답을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/world/china/taiwan-probes-organised-crime-links-chinas-transnational-repression-2026-10-22/",
-            "label": "대만 당국 발언·조사",
-            "kind": "source"
-          }
-        ],
-        "caution": "중국의 지시·자금 제공은 조사 중인 의혹이다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "국가안전국 발언, 검찰 경고와 중국의 무응답을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "첫 장: 코미디언 폭행",
-            "2장: 조직폭력망 조사",
-            "3장: 중국 연계와 법 개정"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "대만 당국 발언·조사",
-            "url": "https://www.reuters.com/world/china/taiwan-probes-organised-crime-links-chinas-transnational-repression-2026-10-22/"
-          }
-        ],
-        "excerpt": "",
-        "context": "대만 국가안전국장이 22일 중국 지시·자금 연계를 조사 대상으로 구체화했다.",
-        "fetched_at": 1792654021,
-        "parser_revision": 7
-      },
-      "curation_event_key": "taiwan-probes-china-linked-organised-crime-transnational-repression-20261022"
-    },
-    "0d40040c98d1": {
-      "source": "Reuters·USDA",
-      "title": "살 파먹는 기생충, 미국 야생동물서 첫 확인",
-      "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-agriculture-dept-confirms-first-detection-new-world-screwworm-us-wildlife-2026-10-21/",
-      "first_seen_at": 1792654021,
-      "last_seen_at": 1792654021,
-      "samples": [
-        {
-          "at": 1792654021,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "0d40040c98d1",
-      "editorial": {
-        "title": "살 파먹는 기생충, 미국 야생동물서 첫 확인",
-        "category": "시사",
-        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-agriculture-dept-confirms-first-detection-new-world-screwworm-us-wildlife-2026-10-21/",
-        "source": "Reuters·USDA",
-        "kind": "article",
-        "event_key": "new-world-screwworm-first-us-wildlife-elk-beef-cow-20261021",
-        "why": "충격적인 생물학적 특성과 엘크·육우 확인, 소고기 공급 영향이 연결된다.",
-        "angle": "미 야생동물 첫 확인 뒤 엘크·육우와 20km 이동 제한을 보여준다.",
-        "why_now": "USDA가 21일 밤 텍사스 엘크에서 야생동물 첫 감염을 확인했다.",
-        "verified_at": 1792653865,
-        "published_at": 1792621083,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-agriculture-dept-confirms-first-detection-new-world-screwworm-us-wildlife-2026-10-21/",
-            "note": "엘크와 육우, 감염구역·이동 전 검사와 수입 중단을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-agriculture-dept-confirms-first-detection-new-world-screwworm-us-wildlife-2026-10-21/",
-            "label": "USDA 확인·방역 조치",
-            "kind": "source"
-          }
-        ],
-        "caution": "미국 내 최초 전체 사례가 아니라 야생동물 첫 확인이다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-21",
-          "observation": "엘크와 육우, 감염구역·이동 전 검사와 수입 중단을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "첫 장: 야생동물 첫 감염",
-            "2장: 엘크·육우 두 사례",
-            "3장: 20km 감염구역"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "USDA 확인·방역 조치",
-            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-agriculture-dept-confirms-first-detection-new-world-screwworm-us-wildlife-2026-10-21/"
-          }
-        ],
-        "excerpt": "",
-        "context": "USDA가 21일 밤 텍사스 엘크에서 야생동물 첫 감염을 확인했다.",
-        "fetched_at": 1792654021,
-        "parser_revision": 7
-      },
-      "curation_event_key": "new-world-screwworm-first-us-wildlife-elk-beef-cow-20261021"
-    },
-    "234845971474": {
-      "source": "Reuters·호주 연방법원",
-      "title": "호주서 메타 상대 첫 아동피해 집단소송",
-      "link": "https://www.reuters.com/world/asia-pacific/meta-sued-australia-class-action-over-alleged-social-media-harm-children-2026-10-22/",
-      "first_seen_at": 1792654021,
-      "last_seen_at": 1792654021,
-      "samples": [
-        {
-          "at": 1792654021,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "234845971474",
-      "editorial": {
-        "title": "호주서 메타 상대 첫 아동피해 집단소송",
-        "category": "시사",
-        "url": "https://www.reuters.com/world/asia-pacific/meta-sued-australia-class-action-over-alleged-social-media-harm-children-2026-10-22/",
-        "source": "Reuters·호주 연방법원",
-        "kind": "article",
-        "event_key": "australia-meta-child-harm-addiction-class-action-20261022",
-        "why": "추천 알고리즘이 미성년자 피해 책임으로 법정에 선 첫 사례다.",
-        "angle": "호주 첫 집단소송 뒤 8명 주장과 메타 반박을 병치한다.",
-        "why_now": "22일 미성년 시절 피해를 주장하는 8명을 대표한 소송이 공개됐다.",
-        "verified_at": 1792653865,
-        "published_at": 1792629240,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/world/asia-pacific/meta-sued-australia-class-action-over-alleged-social-media-harm-children-2026-10-22/",
-            "note": "법원·원고 수·청구 취지와 메타 반박을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/world/asia-pacific/meta-sued-australia-class-action-over-alleged-social-media-harm-children-2026-10-22/",
-            "label": "소장 요지·메타 반박",
-            "kind": "source"
-          }
-        ],
-        "caution": "원고 주장 단계이며 법적 책임은 확정되지 않았다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "법원·원고 수·청구 취지와 메타 반박을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "첫 장: 호주 첫 집단소송",
-            "2장: 원고 8명 주장",
-            "3장: 메타 반박"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "소장 요지·메타 반박",
-            "url": "https://www.reuters.com/world/asia-pacific/meta-sued-australia-class-action-over-alleged-social-media-harm-children-2026-10-22/"
-          }
-        ],
-        "excerpt": "",
-        "context": "22일 미성년 시절 피해를 주장하는 8명을 대표한 소송이 공개됐다.",
-        "fetched_at": 1792654021,
-        "parser_revision": 7
-      },
-      "curation_event_key": "australia-meta-child-harm-addiction-class-action-20261022"
-    },
-    "ecc26685de54": {
-      "source": "Reuters·UN Comtrade",
-      "title": "중국 ‘제조한 물’ 수출…물 장비 연 20억달러",
-      "link": "https://www.reuters.com/business/environment/china-bets-manufactured-water-wants-sell-it-world-2026-10-22/",
-      "first_seen_at": 1792654021,
-      "last_seen_at": 1792654021,
-      "samples": [
-        {
-          "at": 1792654021,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "ecc26685de54",
-      "editorial": {
-        "title": "중국 ‘제조한 물’ 수출…물 장비 연 20억달러",
-        "category": "시사",
-        "url": "https://www.reuters.com/business/environment/china-bets-manufactured-water-wants-sell-it-world-2026-10-22/",
-        "source": "Reuters·UN Comtrade",
-        "kind": "article",
-        "event_key": "china-manufactured-water-technology-exports-investment-20261022",
-        "why": "물을 자원에서 제조 산업으로 바꾸는 규모가 수출·투자 숫자로 선명하다.",
-        "angle": "물 장비 20억달러 수출 뒤 연 1.2조위안 투자를 잇는다.",
-        "why_now": "22일 중국 물 기술 수출과 국내 투자의 최신 규모가 공개됐다.",
-        "verified_at": 1792653865,
-        "published_at": 1792641780,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/business/environment/china-bets-manufactured-water-wants-sell-it-world-2026-10-22/",
-            "note": "수출액, 물 투자, 업체 출하량과 해외 사업을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/business/environment/china-bets-manufactured-water-wants-sell-it-world-2026-10-22/",
-            "label": "수출·투자 규모 자료",
-            "kind": "source"
-          }
-        ],
-        "caution": "군사비급 표현은 싱크탱크 비교다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "수출액, 물 투자, 업체 출하량과 해외 사업을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "첫 장: 수출 20억달러",
-            "2장: 투자 연 1.2조위안",
-            "3장: 중동·아프리카 사업"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "수출·투자 규모 자료",
-            "url": "https://www.reuters.com/business/environment/china-bets-manufactured-water-wants-sell-it-world-2026-10-22/"
-          }
-        ],
-        "excerpt": "",
-        "context": "22일 중국 물 기술 수출과 국내 투자의 최신 규모가 공개됐다.",
-        "fetched_at": 1792654021,
-        "parser_revision": 7
-      },
-      "curation_event_key": "china-manufactured-water-technology-exports-investment-20261022"
-    },
-    "de4ccbeb9072": {
-      "source": "Reuters Graphics",
-      "title": "유럽 산불 69만9천ha…사람 떠난 농촌이 불길 통로 됐다",
-      "link": "https://www.reuters.com/world/europe/how-europes-emptying-countryside-is-fuelling-new-wildfire-crisis-2026-10-22/",
-      "first_seen_at": 1792654021,
-      "last_seen_at": 1792654021,
-      "samples": [
-        {
-          "at": 1792654021,
-          "views": null,
-          "reactions": null,
-          "rank": 7,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "de4ccbeb9072",
-      "editorial": {
-        "title": "유럽 산불 69만9천ha…사람 떠난 농촌이 불길 통로 됐다",
-        "category": "시사",
-        "url": "https://www.reuters.com/world/europe/how-europes-emptying-countryside-is-fuelling-new-wildfire-crisis-2026-10-22/",
-        "source": "Reuters Graphics",
-        "kind": "article",
-        "event_key": "europe-wildfire-rural-abandonment-699000-hectares-20261022",
-        "why": "산불을 인구감소와 방치된 숲의 연속성으로 시각적으로 설명한다.",
-        "angle": "런던 4배 면적 뒤 농지가 연속 숲으로 바뀐 항공사진을 보여준다.",
-        "why_now": "22일 올해 피해와 스페인 최대 산불의 확산 구조가 새로 분석됐다.",
-        "verified_at": 1792653865,
-        "published_at": 1792645440,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/world/europe/how-europes-emptying-countryside-is-fuelling-new-wildfire-crisis-2026-10-22/",
-            "note": "피해면적, 토지 변화, 화재 병합·확산 경로를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/world/europe/how-europes-emptying-countryside-is-fuelling-new-wildfire-crisis-2026-10-22/",
-            "label": "위성·항공사진 분석",
-            "kind": "source"
-          }
-        ],
-        "caution": "농촌 이탈은 여러 원인 중 하나다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "피해면적, 토지 변화, 화재 병합·확산 경로를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "첫 장: 69만9천ha",
-            "2장: 농지→연속 숲",
-            "3장: 스페인 6만3천ha"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "위성·항공사진 분석",
-            "url": "https://www.reuters.com/world/europe/how-europes-emptying-countryside-is-fuelling-new-wildfire-crisis-2026-10-22/"
-          }
-        ],
-        "excerpt": "",
-        "context": "22일 올해 피해와 스페인 최대 산불의 확산 구조가 새로 분석됐다.",
-        "fetched_at": 1792654021,
-        "parser_revision": 7
-      },
-      "curation_event_key": "europe-wildfire-rural-abandonment-699000-hectares-20261022"
-    },
-    "790389aae366": {
-      "source": "Reuters·중국 응급관리부",
-      "title": "중국 자연재해 손실 42조원…562명 사망·실종",
-      "link": "https://www.reuters.com/business/environment/china-reports-30-billion-natural-disaster-losses-first-9-months-2026-10-22/",
-      "first_seen_at": 1792654021,
-      "last_seen_at": 1792654021,
-      "samples": [
-        {
-          "at": 1792654021,
-          "views": null,
-          "reactions": null,
-          "rank": 8,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "790389aae366",
-      "editorial": {
-        "title": "중국 자연재해 손실 42조원…562명 사망·실종",
-        "category": "시사",
-        "url": "https://www.reuters.com/business/environment/china-reports-30-billion-natural-disaster-losses-first-9-months-2026-10-22/",
-        "source": "Reuters·중국 응급관리부",
-        "kind": "article",
-        "event_key": "china-natural-disaster-losses-29-9b-562-dead-missing-20261022",
-        "why": "기후재난 누적 피해를 돈과 인명 두 숫자로 압축한다.",
-        "angle": "42조원 손실 뒤 태풍·홍수와 562명을 분리한다.",
-        "why_now": "중국 응급관리부가 22일 1~9월 집계를 발표했다.",
-        "verified_at": 1792653865,
-        "published_at": 1792645380,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/business/environment/china-reports-30-billion-natural-disaster-losses-first-9-months-2026-10-22/",
-            "note": "손실액, 재난 유형, 사망·실종 집계를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/business/environment/china-reports-30-billion-natural-disaster-losses-first-9-months-2026-10-22/",
-            "label": "중국 정부 누적 집계",
-            "kind": "source"
-          }
-        ],
-        "caution": "42조원은 299억달러의 대략적 환산이다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "손실액, 재난 유형, 사망·실종 집계를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "첫 장: 손실 1993.6억위안",
-            "2장: 태풍·홍수·지질재해",
-            "3장: 562명 사망·실종"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "중국 정부 누적 집계",
-            "url": "https://www.reuters.com/business/environment/china-reports-30-billion-natural-disaster-losses-first-9-months-2026-10-22/"
-          }
-        ],
-        "excerpt": "",
-        "context": "중국 응급관리부가 22일 1~9월 집계를 발표했다.",
-        "fetched_at": 1792654021,
-        "parser_revision": 7
-      },
-      "curation_event_key": "china-natural-disaster-losses-29-9b-562-dead-missing-20261022"
-    },
-    "1a6538548007": {
-      "source": "Reuters·ASX",
-      "title": "거래 장애 겪은 호주 거래소…규제로 1,500억원 더 묶었다",
-      "link": "https://www.reuters.com/business/finance/australias-asx-says-turning-point-reached-after-trading-outages-2026-10-22/",
-      "first_seen_at": 1792654021,
-      "last_seen_at": 1792654021,
-      "samples": [
-        {
-          "at": 1792654021,
-          "views": null,
-          "reactions": null,
-          "rank": 9,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "1a6538548007",
-      "editorial": {
-        "title": "거래 장애 겪은 호주 거래소…규제로 1,500억원 더 묶었다",
-        "category": "시사",
-        "url": "https://www.reuters.com/business/finance/australias-asx-says-turning-point-reached-after-trading-outages-2026-10-22/",
-        "source": "Reuters·ASX",
-        "kind": "article",
-        "event_key": "asx-trading-outages-extra-capital-turning-point-20261022",
-        "why": "거래소 시스템 실패가 실제 자본·배당 비용으로 돌아온 규모를 보여준다.",
-        "angle": "거래장애 대가 뒤 배당성향 85→75%를 잇는다.",
-        "why_now": "ASX 의장이 22일 규제 명령 이행과 낮춘 배당성향 유지를 밝혔다.",
-        "verified_at": 1792653865,
-        "published_at": 1792628460,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/business/finance/australias-asx-says-turning-point-reached-after-trading-outages-2026-10-22/",
-            "note": "장애, 추가자본 명령, 배당성향과 기술투자를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/business/finance/australias-asx-says-turning-point-reached-after-trading-outages-2026-10-22/",
-            "label": "주총 발언·규제 조치",
-            "kind": "source"
-          }
-        ],
-        "caution": "‘전환점’은 ASX 의장의 평가다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "장애, 추가자본 명령, 배당성향과 기술투자를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "첫 장: 추가자본 A$1.5억",
-            "2장: 배당 85→75%",
-            "3장: 기술개편 비용"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "주총 발언·규제 조치",
-            "url": "https://www.reuters.com/business/finance/australias-asx-says-turning-point-reached-after-trading-outages-2026-10-22/"
-          }
-        ],
-        "excerpt": "",
-        "context": "ASX 의장이 22일 규제 명령 이행과 낮춘 배당성향 유지를 밝혔다.",
-        "fetched_at": 1792654021,
-        "parser_revision": 7
-      },
-      "curation_event_key": "asx-trading-outages-extra-capital-turning-point-20261022"
-    },
-    "3e10d2aae84f": {
-      "source": "AP·Chronicle of Philanthropy",
-      "title": "거의 빈 GM 옛 본사에 1조4천억원…비영리 재개발",
-      "link": "https://apnews.com/article/dan-gilbert-detroit-renaissance-center-8a51ce0f6cf611196fc6130b5c4d2c3d",
-      "first_seen_at": 1792654021,
-      "last_seen_at": 1792654021,
-      "samples": [
-        {
-          "at": 1792654021,
-          "views": null,
-          "reactions": null,
-          "rank": 10,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "3e10d2aae84f",
-      "editorial": {
-        "title": "거의 빈 GM 옛 본사에 1조4천억원…비영리 재개발",
-        "category": "시사",
-        "url": "https://apnews.com/article/dan-gilbert-detroit-renaissance-center-8a51ce0f6cf611196fc6130b5c4d2c3d",
-        "source": "AP·Chronicle of Philanthropy",
-        "kind": "article",
-        "event_key": "dan-gilbert-1b-detroit-renaissance-center-nonprofit-20261021",
-        "why": "쇠락한 랜드마크·억만장자·비영리 구조·세금혜택이 충돌한다.",
-        "angle": "10억달러 출연 뒤 총 22억달러와 세제혜택 논쟁을 보여준다.",
-        "why_now": "21일 20:00 UTC 출연과 비영리 운영 구조가 공개됐다.",
-        "verified_at": 1792653865,
-        "published_at": 1792612814,
-        "evidence": [
-          {
-            "url": "https://apnews.com/article/dan-gilbert-detroit-renaissance-center-8a51ce0f6cf611196fc6130b5c4d2c3d",
-            "note": "출연액·총사업비·비영리 법인과 세제혜택을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://apnews.com/article/dan-gilbert-detroit-renaissance-center-8a51ce0f6cf611196fc6130b5c4d2c3d",
-            "label": "출연 규모·사업 구조",
-            "kind": "source"
-          }
-        ],
-        "caution": "17시 기준에 14초 차로 포함돼 최종 전 재확인한다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-21",
-          "observation": "출연액·총사업비·비영리 법인과 세제혜택을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "첫 장: 10억달러 출연",
-            "2장: 총 22억달러",
-            "3장: 세제혜택 논쟁"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "출연 규모·사업 구조",
-            "url": "https://apnews.com/article/dan-gilbert-detroit-renaissance-center-8a51ce0f6cf611196fc6130b5c4d2c3d"
-          }
-        ],
-        "excerpt": "",
-        "context": "21일 20:00 UTC 출연과 비영리 운영 구조가 공개됐다.",
-        "fetched_at": 1792654021,
-        "parser_revision": 7
-      },
-      "curation_event_key": "dan-gilbert-1b-detroit-renaissance-center-nonprofit-20261021"
     }
   },
-  "updated_at": 1793250818
+  "updated_at": 1793261158
 }
