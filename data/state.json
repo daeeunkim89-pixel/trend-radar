@@ -1,5 +1,5 @@
 {
-  "updated_at": 1793228954,
+  "updated_at": 1793239591,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,65 +15,65 @@
     "requested_stories": 10,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026102823",
+    "hour_utc": "2026102902",
     "category_counts": {
-      "시사": 10,
-      "축구": 0,
+      "시사": 9,
+      "축구": 1,
       "메이저 스포츠": 0,
       "아이돌": 0
     },
-    "research_queries": 48,
+    "research_queries": 40,
     "opened_sources": 17,
     "picks": [
       {
-        "title": "“강남아 저분 잡아줘!”…괌 동굴 여행 중 관광객 돕고 “괜찮아요”",
-        "url": "https://www.sportschosun.com/entertainment/2026-10-29/202610290100183890012431",
-        "event_key": "kangnam-guam-cave-tourist-rescue-video-20261028"
+        "title": "1분 밖에 있으랬더니 대기심 밀쳐…황희찬에 감독 “마음에 안 들었다”",
+        "url": "https://www.osen.co.kr/article/G1112900158",
+        "event_key": "hwang-hee-chan-fourth-official-push-cup-muslic-response-20261029"
       },
       {
-        "title": "밀린 임금 그대로인데 “처벌 원치 않음”…휴직 앞둔 감독관 위조 의혹",
-        "url": "https://www.ytn.co.kr/_ln/0103_202610281448296461",
-        "event_key": "labour-inspector-forged-nonpunishment-date-investigation-20261028"
+        "title": "TV 틀면 윤택인 이유…23개 채널 하루최대80회,재방료는 “4분의1”",
+        "url": "https://www.mt.co.kr/amp/entertainment/2026/10/29/2026102823432483528",
+        "event_key": "yoon-taek-natural-person-rerun-fee-quarter-banter-20261028"
       },
       {
-        "title": "공무원35명 연수에2662만원…논란 뒤 군비는530만원만 부담",
-        "url": "https://www.ytn.co.kr/_ln/0103_202610281005310403",
-        "event_key": "uiseong-official-trip-cost-reduced-public-share-20261028"
+        "title": "보험 파는 사람이 가짜 사고로4.9억…설계사 등29명 제재",
+        "url": "https://www.mt.co.kr/index.php/finance/2026/10/29/2026102910183052280",
+        "event_key": "insurance-workers-29-sanctions-fraud-489-million-20261029"
       },
       {
-        "title": "제목에 “크게” 넣었지만 사과는 거절…대통령 요구에 한겨레 국장 답변",
-        "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338062",
-        "event_key": "hankyoreh-editor-response-title-change-apology-refusal-20261028"
+        "title": "탱크보다 많이 넣었는데 보조금…부산 감사서26건 지적",
+        "url": "https://www.newsis.com/view/NISX20261029_0003845696",
+        "event_key": "busan-fuel-subsidy-tank-capacity-oversight-audit-20261029"
       },
       {
-        "title": "팬미팅 취소3주 뒤에도 환불 지연…김재중 측 “주최사 법적 대응”",
-        "url": "https://tvreport.co.kr/star/article/1086697/",
-        "event_key": "kim-jae-joong-chengdu-refund-delay-agency-legal-response-20261028"
+        "title": "돈 돌려주라는 판결 받고도4년째0원…분담금 계좌는 다른 회사 명의",
+        "url": "https://realty.chosun.com/site/data/html_dir/2026/10/28/2026102802943.html",
+        "event_key": "housing-cooperative-refund-winning-but-no-recovery-report-20261029"
       },
       {
-        "title": "270만원 낸 방이 사진과 다르다는데…“합의했다”는 플랫폼과 엇갈린 환불",
-        "url": "https://www.news2day.co.kr/article/20261028500360",
-        "event_key": "samsam-m2-different-room-refund-dispute-company-response-20261029"
+        "title": "회사 망하면 퇴직금도?…2028년부터 회사 밖 적립 의무화 추진",
+        "url": "https://www.yna.co.kr/view/AKR20261028184500530",
+        "event_key": "retirement-benefit-external-funding-2028-2030-plan-20261029"
       },
       {
-        "title": "도수치료3번 받았는데 기록은10번…공진단 비용 돌려 청구한 환자 벌금",
-        "url": "https://www.docdocdoc.co.kr/news/articleView.html?idxno=3044088",
-        "event_key": "manual-therapy-three-ten-false-record-insurance-fine-disclosed-20261029"
+        "title": "한국인9명 경상→현장서 일일이 만나니2명…스페인 열차 참사 확인 결과",
+        "url": "https://www.mt.co.kr/politics/2026/10/29/2026102908352078303",
+        "event_key": "spain-urda-train-collision-korean-passengers-confirmed-two-injured-20261029"
       },
       {
-        "title": "“고수익 알바” 따라갔더니 가짜 사고 공범…SNS로59명 모집",
-        "url": "https://www.yna.co.kr/view/AKR20261027043700004",
-        "event_key": "traffic-insurance-fraud-sns-recruitment-59-arrests-20261027"
+        "title": "수능에 스마트안경 쓰면 시험무효 넘어 형사고발…응시제한3년도 추진",
+        "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4115441",
+        "event_key": "csat-smart-glasses-criminal-referral-three-year-ban-plan-20261029"
       },
       {
-        "title": "계좌 막혀 물었더니 이미 징역5년1개월…파나히의 궐석 판결",
-        "url": "https://www.ytn.co.kr/_ln/0104_202610282041219314",
-        "event_key": "panahi-bank-account-freeze-in-absentia-five-years-disclosure-20261028"
+        "title": "“겁만 주려 했다”는데 유일한 출구 앞 방화…경찰,살인미수 추가",
+        "url": "https://www.newsis.com/view/NISX20261029_0003845882",
+        "event_key": "yeoksam-arson-sole-exit-gasoline-murder-attempt-referral-20261029"
       },
       {
-        "title": "개인인 줄 알았는데 사업자?…중고거래 판매자 구분·환불 절차 표준 생겼다",
-        "url": "https://www.newsis.com/view/NISX20261028_0003845019",
-        "event_key": "secondhand-platform-private-business-seller-dispute-standard-20261029"
+        "title": "편의점·무인점검33곳 적발…29곳은 소비기한 지난 제품 진열",
+        "url": "https://biz.chosun.com/distribution/food/2026/10/29/TPN4SLDOQ5AE3B4RT3EDMEKZHE/",
+        "event_key": "mfds-convenience-unmanned-store-expired-food-33-violations-20261029"
       }
     ]
   }
