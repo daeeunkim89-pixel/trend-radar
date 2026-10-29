@@ -2,64 +2,6 @@
   "version": 1,
   "editions": [
     {
-      "hour_utc": "2026102205",
-      "at": 1792645201,
-      "delivery": "sent",
-      "delivery_key": "hourly-2026102205",
-      "picks": [
-        {
-          "title": "공개 45분 만에 공격 수만건…PHP 취약점 공격은 결국 수백만건으로",
-          "url": "https://www.reuters.com/world/asia-pacific/cloudflare-sees-millions-exploit-attempts-after-php-disclosure-2026-10-22/",
-          "event_key": "php-cloudflare-millions-exploit-attempts-after-disclosure-20261022"
-        },
-        {
-          "title": "상어 ‘부캉이’ 34일 만에 수로 탈출…8시간·1.2km 유도 끝에 성공",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6859789_37012.html",
-          "event_key": "busan-shark-bukangi-third-rescue-canal-exit-20261022"
-        },
-        {
-          "title": "유가 110달러가 장바구니·주담대까지 번졌다",
-          "url": "https://www.reuters.com/business/energy/groceries-home-loans-high-oil-prices-permeate-daily-life-2026-10-21/",
-          "event_key": "oil-110-daily-life-mortgage-food-costs-20261022"
-        },
-        {
-          "title": "“녹지 훼손” 반대했는데…서울시 보고서엔 용산공원 60.1%가 도시화 지역",
-          "url": "https://www.khan.co.kr/article/202610220601001",
-          "event_key": "yongsan-park-seoul-60-percent-urbanized-report-disclosure-20261022"
-        },
-        {
-          "title": "AI에게 장보기를 맡긴다…월마트, 결제까지 하는 ‘에이전트 계정’ 공개",
-          "url": "https://www.reuters.com/business/finance/walmart-launches-tools-ai-agents-shop-customers-2026-10-21/",
-          "event_key": "walmart-ai-agent-shopping-profiles-gateway-20261021"
-        },
-        {
-          "title": "영국 의료보험 설계자를 27년 감시했다…MI5 비밀문서 공개",
-          "url": "https://www.reuters.com/world/uk/britains-mi5-spied-nhs-founder-bevan-secret-documents-show-2026-10-21/",
-          "event_key": "mi5-surveilled-nhs-founder-bevan-27-years-files-20261022"
-        },
-        {
-          "title": "사우디 킹파드 공항 피격…1명 사망·8명 부상",
-          "url": "https://apnews.com/article/riyadh-saudi-arabia-oil-facility-drones-01c03af3191263452376510a670e8bf7",
-          "event_key": "saudi-king-fahd-airport-attack-one-dead-eight-injured-20261021"
-        },
-        {
-          "title": "‘하나의 중국’ 넘어서…필리핀·대만, 해저케이블 공동 방어 모색",
-          "url": "https://www.reuters.com/world/china/philippines-exploring-deeper-cooperation-with-taiwan-protect-cables-2026-10-21/",
-          "event_key": "philippines-taiwan-undersea-cable-cooperation-20261021"
-        },
-        {
-          "title": "펜실베이니아 홍역 1,317명…백신 접종자는 4명뿐이었다",
-          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/pennsylvania-measles-cases-rise-1317-state-health-department-says-2026-10-21/",
-          "event_key": "pennsylvania-measles-1317-43-counties-20261021"
-        },
-        {
-          "title": "SAP 첫 분기 매출 100억유로…CEO “클라우드 이동의 주동력은 AI”",
-          "url": "https://www.reuters.com/world/europe/germanys-sap-tops-cloud-demand-forecasts-holds-yearly-operating-profit-outlook-2026-10-21/",
-          "event_key": "sap-first-10b-quarter-ai-cloud-backlog-20261021"
-        }
-      ]
-    },
-    {
       "hour_utc": "2026102208",
       "at": 1792656001,
       "delivery": "sent",
@@ -2118,6 +2060,64 @@
           "title": "편의점·무인점검33곳 적발…29곳은 소비기한 지난 제품 진열",
           "url": "https://biz.chosun.com/distribution/food/2026/10/29/TPN4SLDOQ5AE3B4RT3EDMEKZHE/",
           "event_key": "mfds-convenience-unmanned-store-expired-food-33-violations-20261029"
+        }
+      ]
+    },
+    {
+      "hour_utc": "2026102905",
+      "at": 1793250819,
+      "delivery": "sent",
+      "delivery_key": "hourly-2026102905",
+      "picks": [
+        {
+          "title": "다이어트하다 운 예리…힘들어서가 아니라 식욕 줄어드는 게 싫어서",
+          "url": "https://www.xportsnews.com/article/2212779",
+          "event_key": "yeri-nayeon-hiking-diet-appetite-conversation-20261028"
+        },
+        {
+          "title": "강아지 향해 휴대전화 던진 원장…견주에겐 계단 사고라 설명",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8697917",
+          "event_key": "dog-daycare-phone-throw-death-cctv-kbs-20261028"
+        },
+        {
+          "title": "유출 경고 받고도 대응 소홀…대교 65만명 정보 또 새고 32.55억 과징금",
+          "url": "https://www.fnnews.com/news/202610291101119626",
+          "event_key": "daekyo-repeat-data-breach-warning-penalty-20261029"
+        },
+        {
+          "title": "구자철이 감독 선임·수수료 좌우? 제주SK “개입·개인 이익 없었다”",
+          "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601257",
+          "event_key": "jeju-sk-kooja-cheol-advisor-allegations-club-rebuttal-20261029"
+        },
+        {
+          "title": "공사 준다며 기계부터 사달라…인테리어 업자 72명에 20억 노쇼 사기",
+          "url": "https://www.newsis.com/view/NISX20261029_0003846018",
+          "event_key": "cheongju-airline-impersonation-interior-proxy-purchase-fraud-20261029"
+        },
+        {
+          "title": "가짜 영장 소리 내 읽게 했다…81억 피싱 피해자 대부분 20·30대",
+          "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261029_0003846387",
+          "event_key": "vietnam-daedongdangyeol-franchise-phishing-54-arrests-20261029"
+        },
+        {
+          "title": "면허 없는 10대가 남의 면허증으로 렌터카…음주운전하다 펜스 충돌",
+          "url": "https://www.mt.co.kr/amp/society/2026/10/29/2026102909474790373",
+          "event_key": "magok-unlicensed-teen-stolen-license-rental-drunk-crash-20261029"
+        },
+        {
+          "title": "인사 안 했다는 이유로? 40대 입주민 폭행에 60대 관리소장 골절",
+          "url": "https://news.ifm.kr/news/articleView.html?idxno=482933",
+          "event_key": "guri-acheon-villa-manager-assault-no-greeting-investigation-20261029"
+        },
+        {
+          "title": "109시간 탄 쿠팡 물류센터…소방시설 정상·범죄 혐의 없이 수사 종결",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039224",
+          "event_key": "incheon-coupang32-fire-no-criminal-charges-investigation-result-20261029"
+        },
+        {
+          "title": "유시민, 李정부도 자기 기반 해체한다며 “극단적 경우 임기 못 채워” 경고",
+          "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261029_0003845776",
+          "event_key": "yoo-si-min-park-si-young-tv-lee-support-base-warning-20261028"
         }
       ]
     }

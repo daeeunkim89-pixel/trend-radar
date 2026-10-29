@@ -1,6 +1,837 @@
 {
   "version": 1,
   "items": {
+    "698be5856fc8": {
+      "source": "엑스포츠뉴스",
+      "title": "다이어트하다 운 예리…힘들어서가 아니라 식욕 줄어드는 게 싫어서",
+      "link": "https://www.xportsnews.com/article/2212779",
+      "first_seen_at": 1793250818,
+      "last_seen_at": 1793250818,
+      "samples": [
+        {
+          "at": 1793250818,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "698be5856fc8",
+      "editorial": {
+        "title": "다이어트하다 운 예리…힘들어서가 아니라 식욕 줄어드는 게 싫어서",
+        "category": "아이돌",
+        "url": "https://www.xportsnews.com/article/2212779",
+        "source": "엑스포츠뉴스",
+        "kind": "article",
+        "event_key": "yeri-nayeon-hiking-diet-appetite-conversation-20261028",
+        "why": "체중 감량 성공이 오히려 서럽다는 반전과 그 이유를 먼저 아는 나연의 절친 반응이 한 장에 잡힌다.",
+        "angle": "백숙 앞 예리의 먹는 낙 고백 → 나연이 짚어낸 뜻밖의 눈물 이유",
+        "why_now": "예리미즈 원본은 10/28 공개(기사 확인·시각 미확인), 10/29 13:40 보도. 미발송 24~48h 범위에서 채택.",
+        "verified_at": 1793250460,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.xportsnews.com/article/2212779",
+            "note": "기사 본문과 식사 대화 캡처 3장을 실제 확인했다. 예리의 식사 장면, 나연의 다이어트 시작 때 눈물 언급과 식욕 감소가 싫다는 자막이 보인다. 전체 영상·정확한 타임코드는 확인하지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://image.xportsnews.com/contents/images/upload/article/2026/1029/1793248376171685.webp",
+            "label": "식사 대화 실제 캡처",
+            "kind": "image"
+          },
+          {
+            "url": "https://image.xportsnews.com/contents/images/upload/article/2026/1029/1793248422079954.webp",
+            "label": "눈물 이유 실제 자막",
+            "kind": "image"
+          }
+        ],
+        "caution": "원본 10/28 시각 미확인·영상 재생 차단. 실제 캡처만 검토.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-28",
+          "observation": "기사 본문과 식사 대화 캡처 3장을 실제 확인했다. 예리의 식사 장면, 나연의 다이어트 시작 때 눈물 언급과 식욕 감소가 싫다는 자막이 보인다. 전체 영상·정확한 타임코드는 확인하지 않았다.",
+          "checked_materials": [
+            "https://image.xportsnews.com/contents/images/upload/article/2026/1029/1793248376171685.webp",
+            "https://image.xportsnews.com/contents/images/upload/article/2026/1029/1793248422079954.webp"
+          ],
+          "outline": [
+            "식사 캡처로 예리의 먹는 즐거움을 소개",
+            "다이어트가 힘들어서 운 것이냐는 예상과 나연의 반응을 대비",
+            "식욕이 사라지는 자신이 싫다는 반전으로 마무리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [
+          {
+            "url": "https://image.xportsnews.com/contents/images/upload/article/2026/1029/1793248376171685.webp",
+            "label": "식사 대화 실제 캡처",
+            "kind": "image"
+          },
+          {
+            "url": "https://image.xportsnews.com/contents/images/upload/article/2026/1029/1793248422079954.webp",
+            "label": "눈물 이유 실제 자막",
+            "kind": "image"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "식사 대화 실제 캡처",
+            "url": "https://image.xportsnews.com/contents/images/upload/article/2026/1029/1793248376171685.webp"
+          },
+          {
+            "label": "눈물 이유 실제 자막",
+            "url": "https://image.xportsnews.com/contents/images/upload/article/2026/1029/1793248422079954.webp"
+          }
+        ],
+        "excerpt": "",
+        "context": "예리미즈 원본은 10/28 공개(기사 확인·시각 미확인), 10/29 13:40 보도. 미발송 24~48h 범위에서 채택.",
+        "fetched_at": 1793250818,
+        "parser_revision": 7
+      },
+      "curation_event_key": "yeri-nayeon-hiking-diet-appetite-conversation-20261028"
+    },
+    "5dfadef57327": {
+      "source": "현장 취재 보도",
+      "title": "강아지 향해 휴대전화 던진 원장…견주에겐 계단 사고라 설명",
+      "link": "https://news.kbs.co.kr/news/view.do?ncd=8697917",
+      "first_seen_at": 1793250818,
+      "last_seen_at": 1793250818,
+      "samples": [
+        {
+          "at": 1793250818,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "5dfadef57327",
+      "editorial": {
+        "title": "강아지 향해 휴대전화 던진 원장…견주에겐 계단 사고라 설명",
+        "category": "시사",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8697917",
+        "source": "현장 취재 보도",
+        "kind": "article",
+        "event_key": "dog-daycare-phone-throw-death-cctv-kbs-20261028",
+        "why": "안전하게 맡긴 유치원에서 벌어진 행동과 CCTV 요구 뒤 바뀐 설명이 정면으로 충돌한다.",
+        "angle": "원장의 투척 보도 화면 → 계단에서 떨어졌다는 최초 설명",
+        "why_now": "사건은 10/12, 최초 확인 보도는 KBS 10/28 21:17:04. 새 CCTV 공개·견주 고발 보도이며 재기사 시각으로 바꾸지 않았다.",
+        "verified_at": 1793250558,
+        "published_at": 1793189824,
+        "evidence": [
+          {
+            "url": "https://news.kbs.co.kr/news/view.do?ncd=8697917",
+            "note": "KBS 원보도 전문과 인터뷰를 확인했다. 재인용된 실제 KBS 화면에서 원장의 뻗은 팔과 공중의 휴대전화·반려견을 확인했다. 사망은 본문 취재에 근거하며 전체 동영상을 시청하지 않았다."
+          },
+          {
+            "url": "https://www.fnnews.com/news/202610290637137161",
+            "note": "독립 보도 본문으로 수사 결론과 확인 한계를 교차 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://image.fnnews.com/resource/media/image/2026/10/29/202610290650521579_l.jpg",
+            "label": "KBS 투척 장면 보도 캡처",
+            "kind": "image"
+          }
+        ],
+        "caution": "사망은 KBS 취재 내용. 벌금형은 전망이며 확정 판결 아님.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-12",
+          "observation": "KBS 원보도 전문과 인터뷰를 확인했다. 재인용된 실제 KBS 화면에서 원장의 뻗은 팔과 공중의 휴대전화·반려견을 확인했다. 사망은 본문 취재에 근거하며 전체 동영상을 시청하지 않았다.",
+          "checked_materials": [
+            "https://image.fnnews.com/resource/media/image/2026/10/29/202610290650521579_l.jpg"
+          ],
+          "outline": [
+            "투척 직전후 보도 정지 화면을 출처와 함께 제시",
+            "사고 1시간 뒤 계단 사고 설명과 이틀 뒤 CCTV 요구를 시간순으로 대비",
+            "견주 고발과 영업 지속을 소개하되 형량은 아직 정해지지 않았다고 명시"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [
+          {
+            "url": "https://image.fnnews.com/resource/media/image/2026/10/29/202610290650521579_l.jpg",
+            "label": "KBS 투척 장면 보도 캡처",
+            "kind": "image"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "KBS 투척 장면 보도 캡처",
+            "url": "https://image.fnnews.com/resource/media/image/2026/10/29/202610290650521579_l.jpg"
+          }
+        ],
+        "excerpt": "",
+        "context": "사건은 10/12, 최초 확인 보도는 KBS 10/28 21:17:04. 새 CCTV 공개·견주 고발 보도이며 재기사 시각으로 바꾸지 않았다.",
+        "fetched_at": 1793250818,
+        "parser_revision": 7
+      },
+      "curation_event_key": "dog-daycare-phone-throw-death-cctv-kbs-20261028"
+    },
+    "291dca78796a": {
+      "source": "현장 취재 보도",
+      "title": "유출 경고 받고도 대응 소홀…대교 65만명 정보 또 새고 32.55억 과징금",
+      "link": "https://www.fnnews.com/news/202610291101119626",
+      "first_seen_at": 1793250818,
+      "last_seen_at": 1793250818,
+      "samples": [
+        {
+          "at": 1793250818,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "291dca78796a",
+      "editorial": {
+        "title": "유출 경고 받고도 대응 소홀…대교 65만명 정보 또 새고 32.55억 과징금",
+        "category": "시사",
+        "url": "https://www.fnnews.com/news/202610291101119626",
+        "source": "현장 취재 보도",
+        "kind": "article",
+        "event_key": "daekyo-repeat-data-breach-warning-penalty-20261029",
+        "why": "첫 침해 경고를 받았는데 같은 방식으로 재발했다는 원인과 소비자 피해 규모가 맞물린다.",
+        "angle": "보안 경고 → 미흡한 대응 → 같은 방식 재유출",
+        "why_now": "10/28 개인정보위 의결, 10/29 공개. 유출은 2024/8·2025/2의 과거 사고이고 새 사실은 제재·조사 결과다.",
+        "verified_at": 1793250327,
+        "published_at": 1793239272,
+        "evidence": [
+          {
+            "url": "https://www.fnnews.com/news/202610291101119626",
+            "note": "연합뉴스 원문 전재 본문에서 65만명, 32억5500만원, 관계사 서버 연결과 경고 후 대응 소홀을 확인했다. 개인정보 원본은 열람하지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.fnnews.com/news/202610291101119626",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "2024~25년 유출의 새 제재 발표. 오늘 새로 해킹된 사건 아님.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-29",
+          "observation": "연합뉴스 원문 전재 본문에서 65만명, 32억5500만원, 관계사 서버 연결과 경고 후 대응 소홀을 확인했다. 개인정보 원본은 열람하지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "두 차례 유출 시점과 보안 경고의 순서를 도식화",
+            "이름·생년월일·전화번호 등이 유출된 회원 규모 소개",
+            "과징금과 사고 대응체계 정비 명령으로 연결"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.fnnews.com/news/202610291101119626"
+          }
+        ],
+        "excerpt": "",
+        "context": "10/28 개인정보위 의결, 10/29 공개. 유출은 2024/8·2025/2의 과거 사고이고 새 사실은 제재·조사 결과다.",
+        "fetched_at": 1793250818,
+        "parser_revision": 7
+      },
+      "curation_event_key": "daekyo-repeat-data-breach-warning-penalty-20261029"
+    },
+    "5154ada22089": {
+      "source": "현장 취재 보도",
+      "title": "구자철이 감독 선임·수수료 좌우? 제주SK “개입·개인 이익 없었다”",
+      "link": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601257",
+      "first_seen_at": 1793250818,
+      "last_seen_at": 1793250818,
+      "samples": [
+        {
+          "at": 1793250818,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "5154ada22089",
+      "editorial": {
+        "title": "구자철이 감독 선임·수수료 좌우? 제주SK “개입·개인 이익 없었다”",
+        "category": "축구",
+        "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601257",
+        "source": "현장 취재 보도",
+        "kind": "article",
+        "event_key": "jeju-sk-kooja-cheol-advisor-allegations-club-rebuttal-20261029",
+        "why": "구단이 자문역에게 책임을 돌린 의혹에 공식 의사결정과 회계를 들며 정면 대응한다. 한국 팬이 따질 권한·돈 문제가 구체적이다.",
+        "angle": "자문역 개인 개입 의혹 ↔ 정식 구단 절차였다는 반박",
+        "why_now": "10/29 낮 구단 공식 SNS 반박을 인용한 12:58:07 현지 보도. 원 SNS 정확한 최초 게시분은 미확인.",
+        "verified_at": 1793250460,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601257",
+            "note": "현지 취재 본문의 구단 성명을 확인했다. 감독 선임 개입·개인 수수료 이익을 부인하고 뮌헨 제주 투어도 구단 추진 사안이라고 밝혔다. 원계약·회계자료와 의혹의 진위는 확인하지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601257",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "구단 반박을 확인한 것. 의혹 사실 또는 해명 입증으로 단정 금지.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-29",
+          "observation": "현지 취재 본문의 구단 성명을 확인했다. 감독 선임 개입·개인 수수료 이익을 부인하고 뮌헨 제주 투어도 구단 추진 사안이라고 밝혔다. 원계약·회계자료와 의혹의 진위는 확인하지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "의혹은 의혹으로 표시하고 구단 반박과 나란히 배치",
+            "선임 절차·수수료 귀속·뮌헨 투어를 구단 해명 범위에서 구분",
+            "추가 자료·법적 검토 예고를 전하고 결론을 유보"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601257"
+          }
+        ],
+        "excerpt": "",
+        "context": "10/29 낮 구단 공식 SNS 반박을 인용한 12:58:07 현지 보도. 원 SNS 정확한 최초 게시분은 미확인.",
+        "fetched_at": 1793250818,
+        "parser_revision": 7
+      },
+      "curation_event_key": "jeju-sk-kooja-cheol-advisor-allegations-club-rebuttal-20261029"
+    },
+    "c80fc971cf7d": {
+      "source": "현장 취재 보도",
+      "title": "공사 준다며 기계부터 사달라…인테리어 업자 72명에 20억 노쇼 사기",
+      "link": "https://www.newsis.com/view/NISX20261029_0003846018",
+      "first_seen_at": 1793250818,
+      "last_seen_at": 1793250818,
+      "samples": [
+        {
+          "at": 1793250818,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "c80fc971cf7d",
+      "editorial": {
+        "title": "공사 준다며 기계부터 사달라…인테리어 업자 72명에 20억 노쇼 사기",
+        "category": "시사",
+        "url": "https://www.newsis.com/view/NISX20261029_0003846018",
+        "source": "현장 취재 보도",
+        "kind": "article",
+        "event_key": "cheongju-airline-impersonation-interior-proxy-purchase-fraud-20261029",
+        "why": "일감을 따려다 공사도 시작 전에 가짜 납품업체로 돈을 보내는 거래 구조의 역전이 선명하다.",
+        "angle": "큰 공사 약속 → 대신 기계 구매 → 돈 받은 업체 잠적",
+        "why_now": "범행은 2~6월, 새 사실은 10/29 경찰의 일당 4명 송치 발표. 등록 09:57:44·수정 11:16:08을 구별.",
+        "verified_at": 1793250290,
+        "published_at": 1793235464,
+        "evidence": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261029_0003846018",
+            "note": "뉴시스 경찰 취재 본문에서 항공사 직원 사칭, 72명·20억여원, 허위 업체로의 대리구매 유도와 3명 구속 송치를 확인했다. 피해금 회수·유죄 확정은 확인되지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261029_0003846018",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "피의사실·송치 단계. 범행 기간과 발표일을 구별.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-29",
+          "observation": "뉴시스 경찰 취재 본문에서 항공사 직원 사칭, 72명·20억여원, 허위 업체로의 대리구매 유도와 3명 구속 송치를 확인했다. 피해금 회수·유죄 확정은 확인되지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "공사를 주겠다는 제안과 선구매 요구를 거래 순서로 설명",
+            "등록증·견적서로 안심시킨 뒤 잠적한 점을 짚기",
+            "4명 송치와 도주 일당 추적이라는 현재 수사 단계 제시"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.newsis.com/view/NISX20261029_0003846018"
+          }
+        ],
+        "excerpt": "",
+        "context": "범행은 2~6월, 새 사실은 10/29 경찰의 일당 4명 송치 발표. 등록 09:57:44·수정 11:16:08을 구별.",
+        "fetched_at": 1793250818,
+        "parser_revision": 7
+      },
+      "curation_event_key": "cheongju-airline-impersonation-interior-proxy-purchase-fraud-20261029"
+    },
+    "781894f75a09": {
+      "source": "현장 취재 보도",
+      "title": "가짜 영장 소리 내 읽게 했다…81억 피싱 피해자 대부분 20·30대",
+      "link": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261029_0003846387",
+      "first_seen_at": 1793250818,
+      "last_seen_at": 1793250818,
+      "samples": [
+        {
+          "at": 1793250818,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "781894f75a09",
+      "editorial": {
+        "title": "가짜 영장 소리 내 읽게 했다…81억 피싱 피해자 대부분 20·30대",
+        "category": "시사",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261029_0003846387",
+        "source": "현장 취재 보도",
+        "kind": "article",
+        "event_key": "vietnam-daedongdangyeol-franchise-phishing-54-arrests-20261029",
+        "why": "기관 사칭뿐 아니라 피해자에게 영장을 반복 낭독시키는 심리 압박과 젊은 피해자 비중이 통념을 깨뜨린다.",
+        "angle": "가짜 영장을 읽게 한 조직, 본사·하부팀까지 있었다",
+        "why_now": "10/29 12:00 서울경찰청 수사 결과 공개. 조직은 2024년 결성, 이번 54명 검거·37명 구속은 새 발표다.",
+        "verified_at": 1793250290,
+        "published_at": 1793242800,
+        "evidence": [
+          {
+            "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261029_0003846387",
+            "note": "본문에서 대동단결 조직, 피해자 110명·81억원, 20대 76명·30대 27명, 허위 영장 반복 낭독 압박과 54명 검거를 확인했다. 피해자 개인정보·범행 장비는 열람하지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261029_0003846387",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "경찰 발표의 혐의 내용. 구속은 유죄 확정과 다름.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-29",
+          "observation": "본문에서 대동단결 조직, 피해자 110명·81억원, 20대 76명·30대 27명, 허위 영장 반복 낭독 압박과 54명 검거를 확인했다. 피해자 개인정보·범행 장비는 열람하지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "영장 낭독을 강요하는 사칭 수법을 피해 예방 관점으로 소개",
+            "110명 중 103명이 20·30대라는 수사 결과 비교",
+            "본사와 하부팀 구조 및 37명 구속이라는 수사 결과로 끝내기"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261029_0003846387"
+          }
+        ],
+        "excerpt": "",
+        "context": "10/29 12:00 서울경찰청 수사 결과 공개. 조직은 2024년 결성, 이번 54명 검거·37명 구속은 새 발표다.",
+        "fetched_at": 1793250818,
+        "parser_revision": 7
+      },
+      "curation_event_key": "vietnam-daedongdangyeol-franchise-phishing-54-arrests-20261029"
+    },
+    "8b571e3aee4a": {
+      "source": "현장 취재 보도",
+      "title": "면허 없는 10대가 남의 면허증으로 렌터카…음주운전하다 펜스 충돌",
+      "link": "https://www.mt.co.kr/amp/society/2026/10/29/2026102909474790373",
+      "first_seen_at": 1793250818,
+      "last_seen_at": 1793250818,
+      "samples": [
+        {
+          "at": 1793250818,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "8b571e3aee4a",
+      "editorial": {
+        "title": "면허 없는 10대가 남의 면허증으로 렌터카…음주운전하다 펜스 충돌",
+        "category": "시사",
+        "url": "https://www.mt.co.kr/amp/society/2026/10/29/2026102909474790373",
+        "source": "현장 취재 보도",
+        "kind": "article",
+        "event_key": "magok-unlicensed-teen-stolen-license-rental-drunk-crash-20261029",
+        "why": "면허 없는 미성년자가 렌터카 운전석까지 들어간 신원 확인의 구멍과 음주 사고가 연결된다.",
+        "angle": "운전면허 없는 10대, 어떻게 렌터카를 빌렸나",
+        "why_now": "사고 10/29 00:30경 서울 마곡동, 최초 확인 기사 10:06:35. 동승자·인명피해 없다는 내용도 확인.",
+        "verified_at": 1793250327,
+        "published_at": 1793235995,
+        "evidence": [
+          {
+            "url": "https://www.mt.co.kr/amp/society/2026/10/29/2026102909474790373",
+            "note": "경찰·소방 취재 본문에서 습득한 타인 면허증 사용, 무면허·면허정지 수준 음주, 공사장 철제 펜스 충돌을 확인했다. 렌터카 업체 인증 절차와 영상은 확인하지 못했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.mt.co.kr/amp/society/2026/10/29/2026102909474790373",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "음주·공문서부정행사 조사 및 입건 예정. 인증 우회 방법 추정 금지.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-29",
+          "observation": "경찰·소방 취재 본문에서 습득한 타인 면허증 사용, 무면허·면허정지 수준 음주, 공사장 철제 펜스 충돌을 확인했다. 렌터카 업체 인증 절차와 영상은 확인하지 못했다.",
+          "checked_materials": [],
+          "outline": [
+            "무면허 미성년자의 렌터카 사고라는 조합 제시",
+            "타인 면허증 부정 사용과 음주 상태를 기사 확인 범위로 설명",
+            "경찰 조사·입건 예정이며 인명피해 없음을 함께 표시"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.mt.co.kr/amp/society/2026/10/29/2026102909474790373"
+          }
+        ],
+        "excerpt": "",
+        "context": "사고 10/29 00:30경 서울 마곡동, 최초 확인 기사 10:06:35. 동승자·인명피해 없다는 내용도 확인.",
+        "fetched_at": 1793250818,
+        "parser_revision": 7
+      },
+      "curation_event_key": "magok-unlicensed-teen-stolen-license-rental-drunk-crash-20261029"
+    },
+    "ea683a025739": {
+      "source": "현장 취재 보도",
+      "title": "인사 안 했다는 이유로? 40대 입주민 폭행에 60대 관리소장 골절",
+      "link": "https://news.ifm.kr/news/articleView.html?idxno=482933",
+      "first_seen_at": 1793250818,
+      "last_seen_at": 1793250818,
+      "samples": [
+        {
+          "at": 1793250818,
+          "views": null,
+          "reactions": null,
+          "rank": 8,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "ea683a025739",
+      "editorial": {
+        "title": "인사 안 했다는 이유로? 40대 입주민 폭행에 60대 관리소장 골절",
+        "category": "시사",
+        "url": "https://news.ifm.kr/news/articleView.html?idxno=482933",
+        "source": "현장 취재 보도",
+        "kind": "article",
+        "event_key": "guri-acheon-villa-manager-assault-no-greeting-investigation-20261029",
+        "why": "일상 인사 여부가 관리노동자 폭행·골절로 이어졌다는 경찰의 사건 설명이 황당한 권력관계를 드러낸다.",
+        "angle": "인사를 받으려던 입주민, 관리소장은 골절로 병원행",
+        "why_now": "사건 10/26 17:20경, 이번 새 사실은 10/29 구리경찰서 입건·조사 발표. 오늘 발생한 폭행으로 쓰지 않음.",
+        "verified_at": 1793250327,
+        "published_at": 1793238250,
+        "evidence": [
+          {
+            "url": "https://news.ifm.kr/news/articleView.html?idxno=482933",
+            "note": "경인방송 경찰 취재 본문에서 40대 입주민의 폭행·협박 혐의, 60대 관리소장 얼굴 골절을 확인했다. 인사 문제는 경찰이 보고 있는 동기이며 CCTV·피의자 진술은 미확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.ifm.kr/news/articleView.html?idxno=482933",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "동기는 경찰 추정. 유죄·정확한 폭행 전후 대사는 단정 금지.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-29",
+          "observation": "경인방송 경찰 취재 본문에서 40대 입주민의 폭행·협박 혐의, 60대 관리소장 얼굴 골절을 확인했다. 인사 문제는 경찰이 보고 있는 동기이며 CCTV·피의자 진술은 미확인.",
+          "checked_materials": [],
+          "outline": [
+            "날짜와 입주민·관리소장의 관계를 먼저 제시",
+            "인사 문제라는 경찰 추정 동기와 실제 골절 피해를 구분",
+            "불구속 입건·경위 조사 중이라는 현재 단계로 마무리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://news.ifm.kr/news/articleView.html?idxno=482933"
+          }
+        ],
+        "excerpt": "",
+        "context": "사건 10/26 17:20경, 이번 새 사실은 10/29 구리경찰서 입건·조사 발표. 오늘 발생한 폭행으로 쓰지 않음.",
+        "fetched_at": 1793250818,
+        "parser_revision": 7
+      },
+      "curation_event_key": "guri-acheon-villa-manager-assault-no-greeting-investigation-20261029"
+    },
+    "3cca78e35a87": {
+      "source": "현장 취재 보도",
+      "title": "109시간 탄 쿠팡 물류센터…소방시설 정상·범죄 혐의 없이 수사 종결",
+      "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039224",
+      "first_seen_at": 1793250818,
+      "last_seen_at": 1793250818,
+      "samples": [
+        {
+          "at": 1793250818,
+          "views": null,
+          "reactions": null,
+          "rank": 9,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "3cca78e35a87",
+      "editorial": {
+        "title": "109시간 탄 쿠팡 물류센터…소방시설 정상·범죄 혐의 없이 수사 종결",
+        "category": "시사",
+        "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039224",
+        "source": "현장 취재 보도",
+        "kind": "article",
+        "event_key": "incheon-coupang32-fire-no-criminal-charges-investigation-result-20261029",
+        "why": "장시간 대형 화재와 정상 작동한 소방시설, 특정 못한 최초 발화 제품이라는 조사 결과의 간극이 크다.",
+        "angle": "109시간 진화 뒤 돌아온 수사 결론: 위법 정황 못 찾았다",
+        "why_now": "화재는 7/18~22. 10/28 소방 합동조사·10/29 경찰 종결 발표가 새 사실. 재기사로 오래된 화재를 신규 취급하지 않음.",
+        "verified_at": 1793250481,
+        "published_at": 1793241720,
+        "evidence": [
+          {
+            "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039224",
+            "note": "기호일보와 매일경제 본문에서 소방시설 정상 작동·범죄 혐의 미발견 종결을 교차 확인했다. 리튬이온 배터리 발화 가능성은 있지만 훼손이 심해 최초 제품은 특정하지 못했다."
+          },
+          {
+            "url": "https://www.mk.co.kr/news/society/12189628",
+            "note": "독립 보도 본문으로 수사 결론과 확인 한계를 교차 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039224",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "발화 제품·정확한 원인 미특정. 무혐의를 모든 책임 면제로 확대 금지.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-29",
+          "observation": "기호일보와 매일경제 본문에서 소방시설 정상 작동·범죄 혐의 미발견 종결을 교차 확인했다. 리튬이온 배터리 발화 가능성은 있지만 훼손이 심해 최초 제품은 특정하지 못했다.",
+          "checked_materials": [],
+          "outline": [
+            "7월 화재와 10월 조사 발표 날짜를 분리",
+            "소방시설 정상·위법 미발견과 배터리 발화 가능성을 함께 표시",
+            "최초 제품 미특정 한계와 보관 안전기준 개선 추진 제시"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039224"
+          }
+        ],
+        "excerpt": "",
+        "context": "화재는 7/18~22. 10/28 소방 합동조사·10/29 경찰 종결 발표가 새 사실. 재기사로 오래된 화재를 신규 취급하지 않음.",
+        "fetched_at": 1793250818,
+        "parser_revision": 7
+      },
+      "curation_event_key": "incheon-coupang32-fire-no-criminal-charges-investigation-result-20261029"
+    },
+    "c122a4a2361f": {
+      "source": "현장 취재 보도",
+      "title": "유시민, 李정부도 자기 기반 해체한다며 “극단적 경우 임기 못 채워” 경고",
+      "link": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261029_0003845776",
+      "first_seen_at": 1793250818,
+      "last_seen_at": 1793250818,
+      "samples": [
+        {
+          "at": 1793250818,
+          "views": null,
+          "reactions": null,
+          "rank": 10,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "c122a4a2361f",
+      "editorial": {
+        "title": "유시민, 李정부도 자기 기반 해체한다며 “극단적 경우 임기 못 채워” 경고",
+        "category": "시사",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261029_0003845776",
+        "source": "현장 취재 보도",
+        "kind": "article",
+        "event_key": "yoo-si-min-park-si-young-tv-lee-support-base-warning-20261028",
+        "why": "범여권 논객이 자기 진영을 무너뜨리는 정권이라는 비유를 들며 대통령·당 대표를 함께 겨눈 실제 발언이다.",
+        "angle": "자기 집을 허무는 딱정벌레 비유가 향한 곳은 현 정부",
+        "why_now": "발언은 10/28 박시영TV, 정확한 업로드 시각은 미확인. 10/29 08:43:27 보도와 09:21:23 수정을 구분.",
+        "verified_at": 1793250558,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261029_0003845776",
+            "note": "뉴시스 본문에 인용된 발언과 조건부 경고를 확인했다. 박시영TV 전체 영상은 시청하지 않았다. 임기 미완주는 유시민의 극단적 가정이며 실제 탄핵 절차 개시 사실이 아니다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261029_0003845776",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "발언 보도 확인·영상 미시청. 탄핵 확정 또는 절차 개시로 쓰지 말 것.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-28",
+          "observation": "뉴시스 본문에 인용된 발언과 조건부 경고를 확인했다. 박시영TV 전체 영상은 시청하지 않았다. 임기 미완주는 유시민의 극단적 가정이며 실제 탄핵 절차 개시 사실이 아니다.",
+          "checked_materials": [],
+          "outline": [
+            "정부가 자기 지지 기반을 해체한다는 비유와 발언 출처 제시",
+            "임기를 못 채울 수도 있다는 발언의 극단적 경우 조건 보존",
+            "대통령·당 대표에 대한 비판과 사실 판단을 구별"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261029_0003845776"
+          }
+        ],
+        "excerpt": "",
+        "context": "발언은 10/28 박시영TV, 정확한 업로드 시각은 미확인. 10/29 08:43:27 보도와 09:21:23 수정을 구분.",
+        "fetched_at": 1793250818,
+        "parser_revision": 7
+      },
+      "curation_event_key": "yoo-si-min-park-si-young-tv-lee-support-base-warning-20261028"
+    },
+    "2d6a9cd32b67": {
+      "source": "현장 취재 보도",
+      "title": "참사 비방 362번 올렸다가 실형…이태원 2차 가해 판결 18건의 변화",
+      "link": "https://www.sidae.com/article/2026102811552323724",
+      "first_seen_at": 1793250818,
+      "last_seen_at": 1793250818,
+      "samples": [
+        {
+          "at": 1793250818,
+          "views": null,
+          "reactions": null,
+          "rank": 11,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "2d6a9cd32b67",
+      "editorial": {
+        "title": "참사 비방 362번 올렸다가 실형…이태원 2차 가해 판결 18건의 변화",
+        "category": "시사",
+        "url": "https://www.sidae.com/article/2026102811552323724",
+        "source": "현장 취재 보도",
+        "kind": "article",
+        "event_key": "itaewon-secondary-harm-18-verdict-analysis-20261029",
+        "why": "초기의 가해자 반성 중심 양형에서 유족·사회 피해를 보는 판결로 바뀐 과정이 구체 사례로 드러난다.",
+        "angle": "처음엔 반성·전과, 이제는 유족과 사회에 남긴 피해",
+        "why_now": "10/29 04:30 새 판결문 18건 분석 보도. 인용 판결은 2023~26년 과거 선고이며 오늘 새 판결이 아님.",
+        "verified_at": 1793250290,
+        "published_at": 1793215800,
+        "evidence": [
+          {
+            "url": "https://www.sidae.com/article/2026102811552323724",
+            "note": "동행미디어 시대의 분석 본문에서 판결 18건, 올해 6월 362차례 허위 주장 게시 사건 징역 6개월, 8월 다른 사건 징역 1년을 구별했다. 판결문 원문 18건 전체는 직접 열람하지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.sidae.com/article/2026102811552323724",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "분석 기사 확인·판결문 전체 미열람. 혐오 표현 원문 재확산 금지.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-29",
+          "observation": "동행미디어 시대의 분석 본문에서 판결 18건, 올해 6월 362차례 허위 주장 게시 사건 징역 6개월, 8월 다른 사건 징역 1년을 구별했다. 판결문 원문 18건 전체는 직접 열람하지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "새 판결이 아니라 18건 분석 기사임을 첫 장에 표시",
+            "초기와 최근 판결의 양형 이유를 요약 비교",
+            "6월·8월의 서로 다른 실형 사례와 유족 피해를 설명"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.sidae.com/article/2026102811552323724"
+          }
+        ],
+        "excerpt": "",
+        "context": "10/29 04:30 새 판결문 18건 분석 보도. 인용 판결은 2023~26년 과거 선고이며 오늘 새 판결이 아님.",
+        "fetched_at": 1793250818,
+        "parser_revision": 7
+      },
+      "curation_event_key": "itaewon-secondary-harm-18-verdict-analysis-20261029"
+    },
     "eeebfb1ef552": {
       "source": "OSEN·독일 현지 보도",
       "title": "1분 밖에 있으랬더니 대기심 밀쳐…황희찬에 감독 “마음에 안 들었다”",
@@ -26855,727 +27686,7 @@
         "parser_revision": 7
       },
       "curation_event_key": "dan-gilbert-1b-detroit-renaissance-center-nonprofit-20261021"
-    },
-    "09cc75a53bed": {
-      "source": "Reuters·Cloudflare",
-      "title": "공개 45분 만에 공격 수만건…PHP 취약점 공격은 결국 수백만건으로",
-      "link": "https://www.reuters.com/world/asia-pacific/cloudflare-sees-millions-exploit-attempts-after-php-disclosure-2026-10-22/",
-      "first_seen_at": 1792644468,
-      "last_seen_at": 1792644468,
-      "samples": [
-        {
-          "at": 1792644468,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "09cc75a53bed",
-      "editorial": {
-        "title": "공개 45분 만에 공격 수만건…PHP 취약점 공격은 결국 수백만건으로",
-        "category": "시사",
-        "url": "https://www.reuters.com/world/asia-pacific/cloudflare-sees-millions-exploit-attempts-after-php-disclosure-2026-10-22/",
-        "source": "Reuters·Cloudflare",
-        "kind": "article",
-        "event_key": "php-cloudflare-millions-exploit-attempts-after-disclosure-20261022",
-        "why": "웹사이트 운영자와 이용자 모두에게 공개된 취약점이 불과 몇 시간 만에 전 세계 공격으로 바뀌는 속도를 보여준다.",
-        "angle": "첫 장은 ‘45분 수만건→2시간 수십만건→현재 수백만건’, 다음 장은 유럽 정부 사이트·일본 금융서비스 중단과 긴급 패치를 잇는다.",
-        "why_now": "22일 04:08 UTC 로이터가 Cloudflare 관측치를 처음 보도해, 전날 취약점 공개보다 공격 규모가 크게 달라진 새 사실이다.",
-        "verified_at": 1792643595,
-        "published_at": 1792642116,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/world/asia-pacific/cloudflare-sees-millions-exploit-attempts-after-php-disclosure-2026-10-22/",
-            "note": "Cloudflare CEO는 공개 전 10시간 수천건이던 공격 시도가 공개 45분 뒤 수만건, 2시간 뒤 수십만건, 이후 수백만건으로 늘었다고 밝혔다. 유럽 정부 사이트와 일본 MUFG 일부 서비스 중단도 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/world/asia-pacific/cloudflare-sees-millions-exploit-attempts-after-php-disclosure-2026-10-22/",
-            "label": "로이터 원문·공격 시도 집계",
-            "kind": "source"
-          }
-        ],
-        "caution": "공격 시도 수를 성공한 침해 건수로 표현하지 않는다. 일부 서비스 중단은 예방 조치도 포함한다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "로이터 본문에서 Cloudflare 관측치의 시간대별 증가, PHP 긴급 패치, 유럽·일본의 대응을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "첫 장: 45분 수만건→2시간 수십만건→수백만건",
-            "2장: 유럽 정부 사이트·MUFG 일부 서비스 중단",
-            "3장: AI가 찾은 오래된 PHP 취약점과 긴급 업데이트"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "로이터 원문·공격 시도 집계",
-            "url": "https://www.reuters.com/world/asia-pacific/cloudflare-sees-millions-exploit-attempts-after-php-disclosure-2026-10-22/"
-          }
-        ],
-        "excerpt": "",
-        "context": "22일 04:08 UTC 로이터가 Cloudflare 관측치를 처음 보도해, 전날 취약점 공개보다 공격 규모가 크게 달라진 새 사실이다.",
-        "fetched_at": 1792644468,
-        "parser_revision": 7
-      },
-      "curation_event_key": "php-cloudflare-millions-exploit-attempts-after-disclosure-20261022"
-    },
-    "dbbb69c6007d": {
-      "source": "MBC·해양수산부",
-      "title": "상어 ‘부캉이’ 34일 만에 수로 탈출…8시간·1.2km 유도 끝에 성공",
-      "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6859789_37012.html",
-      "first_seen_at": 1792644468,
-      "last_seen_at": 1792644468,
-      "samples": [
-        {
-          "at": 1792644468,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "dbbb69c6007d",
-      "editorial": {
-        "title": "상어 ‘부캉이’ 34일 만에 수로 탈출…8시간·1.2km 유도 끝에 성공",
-        "category": "시사",
-        "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6859789_37012.html",
-        "source": "MBC·해양수산부",
-        "kind": "article",
-        "event_key": "busan-shark-bukangi-third-rescue-canal-exit-20261022",
-        "why": "도시 수로에 갇힌 상어를 시민과 잠수사가 장시간 유도해 바다로 돌려보낸 결과가 밝고 시각적인 장면 소재다.",
-        "angle": "첫 장은 ‘34일 만의 탈출’, 다음 장은 1.2km 그물 이동·수십 차례 되돌아감·8시간 실랑이를 순서대로 보여준다.",
-        "why_now": "세 번째 구조 시도가 성공한 결과와 작업 과정이 22일 아침 처음 정리됐다.",
-        "verified_at": 1792643595,
-        "published_at": 1792618860,
-        "evidence": [
-          {
-            "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6859789_37012.html",
-            "note": "마리나브릿지 방향으로 그물을 1.2km 옮겨 8시간 넘게 유도했고, 저녁 6시쯤 수로 밖으로 나왔다는 당국 설명을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6859789_37012.html",
-            "label": "확인한 원문·본문 사진",
-            "kind": "source"
-          }
-        ],
-        "caution": "완전히 먼바다로 돌아갔다고 단정하지 않는다. 제1부두 주변을 배회했고 재진입 가능성을 관찰 중이다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "본문·현장 사진·해수부 담당자 발언으로 구조 성공과 작업 순서를 확인했으나 동영상 프레임은 직접 재생하지 않았다.",
-          "checked_materials": [],
-          "outline": [
-            "첫 장: 34일 만에 수로 밖으로",
-            "2장: 1.2km 그물·8시간 유도",
-            "3장: 재진입 가능성 때문에 당분간 관찰"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문·본문 사진",
-            "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6859789_37012.html"
-          }
-        ],
-        "excerpt": "",
-        "context": "세 번째 구조 시도가 성공한 결과와 작업 과정이 22일 아침 처음 정리됐다.",
-        "fetched_at": 1792644468,
-        "parser_revision": 7
-      },
-      "curation_event_key": "busan-shark-bukangi-third-rescue-canal-exit-20261022"
-    },
-    "ceb64292cfcd": {
-      "source": "로이터 그래픽",
-      "title": "유가 110달러가 장바구니·주담대까지 번졌다",
-      "link": "https://www.reuters.com/business/energy/groceries-home-loans-high-oil-prices-permeate-daily-life-2026-10-21/",
-      "first_seen_at": 1792644468,
-      "last_seen_at": 1792644468,
-      "samples": [
-        {
-          "at": 1792644468,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "ceb64292cfcd",
-      "editorial": {
-        "title": "유가 110달러가 장바구니·주담대까지 번졌다",
-        "category": "시사",
-        "url": "https://www.reuters.com/business/energy/groceries-home-loans-high-oil-prices-permeate-daily-life-2026-10-21/",
-        "source": "로이터 그래픽",
-        "kind": "article",
-        "event_key": "oil-110-daily-life-mortgage-food-costs-20261022",
-        "why": "기름값이 교통비를 넘어 식품 포장·난방·주택대출로 번지는 경로가 생활 밀착형 카드뉴스가 된다.",
-        "angle": "첫 장은 유가 110달러와 디젤 최고가, 다음 장은 금리·식품·난방비로 이어지는 연쇄를 수치로 보여준다.",
-        "why_now": "22일 새벽 로이터가 최신 가격과 가계비용 데이터를 묶어 영향 경로를 처음 공개했다.",
-        "verified_at": 1792643595,
-        "published_at": 1792623840,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/business/energy/groceries-home-loans-high-oil-prices-permeate-daily-life-2026-10-21/",
-            "note": "유가 약 110달러, 영국·미국 디젤 최고가, 호주 평균 주택대출 연 3,900호주달러 증가와 미국 모기지 7.5%를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/business/energy/groceries-home-loans-high-oil-prices-permeate-daily-life-2026-10-21/",
-            "label": "확인한 원문·발행시각",
-            "kind": "source"
-          }
-        ],
-        "caution": "국가별 사례를 한국 물가나 대출금리로 직접 환산하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "본문의 그래픽 설명과 가격·대출·난방·포장비 수치를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "첫 장: 유가 110달러·디젤 최고가",
-            "2장: 연료→물가→금리 경로",
-            "3장: 호주 대출·미국 난방·식품 포장 사례"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문·발행시각",
-            "url": "https://www.reuters.com/business/energy/groceries-home-loans-high-oil-prices-permeate-daily-life-2026-10-21/"
-          }
-        ],
-        "excerpt": "",
-        "context": "22일 새벽 로이터가 최신 가격과 가계비용 데이터를 묶어 영향 경로를 처음 공개했다.",
-        "fetched_at": 1792644468,
-        "parser_revision": 7
-      },
-      "curation_event_key": "oil-110-daily-life-mortgage-food-costs-20261022"
-    },
-    "894e20638d55": {
-      "source": "경향신문·서울시 보고서",
-      "title": "“녹지 훼손” 반대했는데…서울시 보고서엔 용산공원 60.1%가 도시화 지역",
-      "link": "https://www.khan.co.kr/article/202610220601001",
-      "first_seen_at": 1792644468,
-      "last_seen_at": 1792644468,
-      "samples": [
-        {
-          "at": 1792644468,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "894e20638d55",
-      "editorial": {
-        "title": "“녹지 훼손” 반대했는데…서울시 보고서엔 용산공원 60.1%가 도시화 지역",
-        "category": "시사",
-        "url": "https://www.khan.co.kr/article/202610220601001",
-        "source": "경향신문·서울시 보고서",
-        "kind": "article",
-        "event_key": "yongsan-park-seoul-60-percent-urbanized-report-disclosure-20261022",
-        "why": "서울 핵심 주택공급 논쟁에서 시장 발언과 서울시 자체 자료가 충돌하는 숫자 중심 소재다.",
-        "angle": "첫 장은 ‘60.1% 도시화’, 다음 장은 주택 후보지와 겹치는 지도·2021년 낮은 보전가치 분류를 보여준다.",
-        "why_now": "국회가 서울시의 2009·2021년 보고서를 제출받아 22일 처음 공개했다.",
-        "verified_at": 1792643595,
-        "published_at": 1792616460,
-        "evidence": [
-          {
-            "url": "https://www.khan.co.kr/article/202610220601001",
-            "note": "2009년 보고서는 부지 60.1%를 도시화 지역, 39.9%를 녹지·오픈스페이스로 봤고 2021년 보고서는 후보지 일부를 보전가치 낮은 1등급으로 분류했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.khan.co.kr/article/202610220601001",
-            "label": "확인한 원문·본문 사진",
-            "kind": "source"
-          }
-        ],
-        "caution": "도시화 지역이라는 분류가 즉시 건축 가능하거나 오염 정화가 불필요하다는 뜻은 아니다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "본문·제공 지도 설명·서울시 보고서 수치와 서울시·정부의 상반된 입장을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "첫 장: 용산공원 60.1% ‘도시화 지역’",
-            "2장: 주택 후보지와 겹치는 서울시 지도",
-            "3장: 서울시 반대 논리와 정부 공급 논리"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문·본문 사진",
-            "url": "https://www.khan.co.kr/article/202610220601001"
-          }
-        ],
-        "excerpt": "",
-        "context": "국회가 서울시의 2009·2021년 보고서를 제출받아 22일 처음 공개했다.",
-        "fetched_at": 1792644468,
-        "parser_revision": 7
-      },
-      "curation_event_key": "yongsan-park-seoul-60-percent-urbanized-report-disclosure-20261022"
-    },
-    "40eeeb89734c": {
-      "source": "로이터",
-      "title": "AI에게 장보기를 맡긴다…월마트, 결제까지 하는 ‘에이전트 계정’ 공개",
-      "link": "https://www.reuters.com/business/finance/walmart-launches-tools-ai-agents-shop-customers-2026-10-21/",
-      "first_seen_at": 1792644468,
-      "last_seen_at": 1792644468,
-      "samples": [
-        {
-          "at": 1792644468,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "40eeeb89734c",
-      "editorial": {
-        "title": "AI에게 장보기를 맡긴다…월마트, 결제까지 하는 ‘에이전트 계정’ 공개",
-        "category": "시사",
-        "url": "https://www.reuters.com/business/finance/walmart-launches-tools-ai-agents-shop-customers-2026-10-21/",
-        "source": "로이터",
-        "kind": "article",
-        "event_key": "walmart-ai-agent-shopping-profiles-gateway-20261021",
-        "why": "AI가 추천을 넘어 실제 구매를 집행한다는 변화가 소비자에게 즉각적으로 이해되고 공유되기 쉽다.",
-        "angle": "첫 장은 ‘AI가 대신 결제’, 다음 장은 지출한도·승인·접근취소 안전장치와 아마존의 반대 전략을 대비한다.",
-        "why_now": "월마트가 21일 Agent Profiles와 Agent Gateway 출시 계획을 처음 공개했다.",
-        "verified_at": 1792643595,
-        "published_at": 1792617240,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/business/finance/walmart-launches-tools-ai-agents-shop-customers-2026-10-21/",
-            "note": "다음 달 Agent Profiles, 거래 추적·지출 한도·승인 설정, ChatGPT·Gemini·Muse 연동 게이트웨이를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/business/finance/walmart-launches-tools-ai-agents-shop-customers-2026-10-21/",
-            "label": "확인한 원문·발행시각",
-            "kind": "source"
-          }
-        ],
-        "caution": "AI가 카드정보를 직접 보는 것으로 표현하지 않는다. 카드정보 접근은 금지된다고 회사가 밝혔다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-21",
-          "observation": "로이터 본문에서 기능, 출시 시점, 결제 통제와 대상 계정을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "첫 장: ‘AI가 장보고 결제한다’",
-            "2장: 지출한도·승인·접근취소",
-            "3장: 월마트 개방 대 아마존 제한"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문·발행시각",
-            "url": "https://www.reuters.com/business/finance/walmart-launches-tools-ai-agents-shop-customers-2026-10-21/"
-          }
-        ],
-        "excerpt": "",
-        "context": "월마트가 21일 Agent Profiles와 Agent Gateway 출시 계획을 처음 공개했다.",
-        "fetched_at": 1792644468,
-        "parser_revision": 7
-      },
-      "curation_event_key": "walmart-ai-agent-shopping-profiles-gateway-20261021"
-    },
-    "b2da467bbffa": {
-      "source": "로이터",
-      "title": "영국 의료보험 설계자를 27년 감시했다…MI5 비밀문서 공개",
-      "link": "https://www.reuters.com/world/uk/britains-mi5-spied-nhs-founder-bevan-secret-documents-show-2026-10-21/",
-      "first_seen_at": 1792644468,
-      "last_seen_at": 1792644468,
-      "samples": [
-        {
-          "at": 1792644468,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "b2da467bbffa",
-      "editorial": {
-        "title": "영국 의료보험 설계자를 27년 감시했다…MI5 비밀문서 공개",
-        "category": "시사",
-        "url": "https://www.reuters.com/world/uk/britains-mi5-spied-nhs-founder-bevan-secret-documents-show-2026-10-21/",
-        "source": "로이터",
-        "kind": "article",
-        "event_key": "mi5-surveilled-nhs-founder-bevan-27-years-files-20261022",
-        "why": "국가의료체계 창시자와 정보기관 감시라는 예상 밖 대비가 역사·정치 독자 모두에게 강하다.",
-        "angle": "첫 장은 ‘NHS 창시자 27년 감시’, 다음 장은 공산당 연계 의심과 결국 ‘별것 없는 파일’이라는 결론을 뒤집기로 쓴다.",
-        "why_now": "영국 국립문서보관소가 비공개 MI5 파일을 22일 새로 공개했다.",
-        "verified_at": 1792643595,
-        "published_at": 1792623900,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/world/uk/britains-mi5-spied-nhs-founder-bevan-secret-documents-show-2026-10-21/",
-            "note": "1933년부터 1960년까지 감시, 공산당 협력 시도 거부 기록, 사후 검토의 ‘remarkably tame’ 평가를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/world/uk/britains-mi5-spied-nhs-founder-bevan-secret-documents-show-2026-10-21/",
-            "label": "확인한 원문·발행시각",
-            "kind": "source"
-          }
-        ],
-        "caution": "비번의 정치성향을 실제 소련 스파이 활동으로 단정하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "새로 기밀 해제된 문서의 감시 기간·이유·내부 결론을 로이터 본문에서 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "첫 장: NHS 창시자 27년 감시",
-            "2장: 의회 활동·동선·회의 추적",
-            "3장: ‘공산당 협력은 실패’와 허탈한 내부 결론"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문·발행시각",
-            "url": "https://www.reuters.com/world/uk/britains-mi5-spied-nhs-founder-bevan-secret-documents-show-2026-10-21/"
-          }
-        ],
-        "excerpt": "",
-        "context": "영국 국립문서보관소가 비공개 MI5 파일을 22일 새로 공개했다.",
-        "fetched_at": 1792644468,
-        "parser_revision": 7
-      },
-      "curation_event_key": "mi5-surveilled-nhs-founder-bevan-27-years-files-20261022"
-    },
-    "1ed6ef7afc64": {
-      "source": "AP·사우디 민간항공 당국",
-      "title": "사우디 킹파드 공항 피격…1명 사망·8명 부상",
-      "link": "https://apnews.com/article/riyadh-saudi-arabia-oil-facility-drones-01c03af3191263452376510a670e8bf7",
-      "first_seen_at": 1792644468,
-      "last_seen_at": 1792644468,
-      "samples": [
-        {
-          "at": 1792644468,
-          "views": null,
-          "reactions": null,
-          "rank": 7,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "1ed6ef7afc64",
-      "editorial": {
-        "title": "사우디 킹파드 공항 피격…1명 사망·8명 부상",
-        "category": "시사",
-        "url": "https://apnews.com/article/riyadh-saudi-arabia-oil-facility-drones-01c03af3191263452376510a670e8bf7",
-        "source": "AP·사우디 민간항공 당국",
-        "kind": "article",
-        "event_key": "saudi-king-fahd-airport-attack-one-dead-eight-injured-20261021",
-        "why": "민간 국제공항 공격과 인명피해가 확인된 즉시성이 큰 중동 안보 사건이다.",
-        "angle": "첫 장은 공항 위치와 1명 사망·8명 부상, 다음 장은 피해 평가 중이라는 제한된 확인 범위를 명확히 한다.",
-        "why_now": "사우디 민간항공 당국이 22일 새벽 인명피해를 처음 공식 확인했다.",
-        "verified_at": 1792643595,
-        "published_at": 1792612300,
-        "evidence": [
-          {
-            "url": "https://apnews.com/article/riyadh-saudi-arabia-oil-facility-drones-01c03af3191263452376510a670e8bf7",
-            "note": "AP 본문에서 사우디 민간항공 당국이 발표한 주민 1명 사망, 8명 부상, 물적 피해와 항공편 우회를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://apnews.com/article/riyadh-saudi-arabia-oil-facility-drones-01c03af3191263452376510a670e8bf7",
-            "label": "확인한 AP 원문·당국 발표",
-            "kind": "source"
-          }
-        ],
-        "caution": "공격 주체와 수단은 본문에서 확인되지 않았으므로 추정하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-21",
-          "observation": "AP 본문에서 사우디 민간항공 당국의 인명피해·물적 피해와 공격 주체 미확정 상태를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "첫 장: 킹파드 공항 피격·1명 사망",
-            "2장: 8명 부상과 위치",
-            "3장: 아직 확인되지 않은 공격 주체·수단"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 AP 원문·당국 발표",
-            "url": "https://apnews.com/article/riyadh-saudi-arabia-oil-facility-drones-01c03af3191263452376510a670e8bf7"
-          }
-        ],
-        "excerpt": "",
-        "context": "사우디 민간항공 당국이 22일 새벽 인명피해를 처음 공식 확인했다.",
-        "fetched_at": 1792644468,
-        "parser_revision": 7
-      },
-      "curation_event_key": "saudi-king-fahd-airport-attack-one-dead-eight-injured-20261021"
-    },
-    "16aca3483128": {
-      "source": "로이터",
-      "title": "‘하나의 중국’ 넘어서…필리핀·대만, 해저케이블 공동 방어 모색",
-      "link": "https://www.reuters.com/world/china/philippines-exploring-deeper-cooperation-with-taiwan-protect-cables-2026-10-21/",
-      "first_seen_at": 1792644468,
-      "last_seen_at": 1792644468,
-      "samples": [
-        {
-          "at": 1792644468,
-          "views": null,
-          "reactions": null,
-          "rank": 8,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "16aca3483128",
-      "editorial": {
-        "title": "‘하나의 중국’ 넘어서…필리핀·대만, 해저케이블 공동 방어 모색",
-        "category": "시사",
-        "url": "https://www.reuters.com/world/china/philippines-exploring-deeper-cooperation-with-taiwan-protect-cables-2026-10-21/",
-        "source": "로이터",
-        "kind": "article",
-        "event_key": "philippines-taiwan-undersea-cable-cooperation-20261021",
-        "why": "인터넷의 거의 전부를 운반하는 해저케이블과 남중국해 긴장을 연결해 한국 독자도 체감할 인프라 안보 소재다.",
-        "angle": "첫 장은 해저케이블 공동 방어, 다음 장은 하나의 중국 원칙과 회색지대 압박 사이의 딜레마를 보여준다.",
-        "why_now": "필리핀 외교관이 21일 대만과 지식공유·역량강화를 포함한 협력 검토를 처음 공개했다.",
-        "verified_at": 1792643595,
-        "published_at": 1792622640,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/world/china/philippines-exploring-deeper-cooperation-with-taiwan-protect-cables-2026-10-21/",
-            "note": "필리핀과 대만의 해저케이블 보호 협력 검토, Bashi 해협, 공동순찰 가능성 질문과 UN 역할 제안을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/world/china/philippines-exploring-deeper-cooperation-with-taiwan-protect-cables-2026-10-21/",
-            "label": "확인한 원문·발행시각",
-            "kind": "source"
-          }
-        ],
-        "caution": "공동순찰이 확정된 것은 아니다. ‘검토’와 ‘실행’을 구분한다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-21",
-          "observation": "로이터 본문에서 필리핀 외교관과 대만 대표 발언, 현재 협력 범위를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "첫 장: 해저케이블 공동 방어 모색",
-            "2장: 하나의 중국 원칙과 실용 협력",
-            "3장: 회색지대·공동순찰은 아직 검토 단계"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문·발행시각",
-            "url": "https://www.reuters.com/world/china/philippines-exploring-deeper-cooperation-with-taiwan-protect-cables-2026-10-21/"
-          }
-        ],
-        "excerpt": "",
-        "context": "필리핀 외교관이 21일 대만과 지식공유·역량강화를 포함한 협력 검토를 처음 공개했다.",
-        "fetched_at": 1792644468,
-        "parser_revision": 7
-      },
-      "curation_event_key": "philippines-taiwan-undersea-cable-cooperation-20261021"
-    },
-    "0ab0906e6574": {
-      "source": "로이터·펜실베이니아 보건당국",
-      "title": "펜실베이니아 홍역 1,317명…백신 접종자는 4명뿐이었다",
-      "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/pennsylvania-measles-cases-rise-1317-state-health-department-says-2026-10-21/",
-      "first_seen_at": 1792644468,
-      "last_seen_at": 1792644468,
-      "samples": [
-        {
-          "at": 1792644468,
-          "views": null,
-          "reactions": null,
-          "rank": 9,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "0ab0906e6574",
-      "editorial": {
-        "title": "펜실베이니아 홍역 1,317명…백신 접종자는 4명뿐이었다",
-        "category": "시사",
-        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/pennsylvania-measles-cases-rise-1317-state-health-department-says-2026-10-21/",
-        "source": "로이터·펜실베이니아 보건당국",
-        "kind": "article",
-        "event_key": "pennsylvania-measles-1317-43-counties-20261021",
-        "why": "확진 규모와 ‘접종자 4명’이라는 대비가 예방접종의 의미를 분명한 숫자로 전달한다.",
-        "angle": "첫 장은 1,317명·접종자 4명, 다음 장은 43개 카운티·입원 251명·사망 5명으로 확산 규모를 보여준다.",
-        "why_now": "주 보건당국이 21일 월요일보다 31명 늘어난 최신 집계를 공개했다.",
-        "verified_at": 1792643595,
-        "published_at": 1792612320,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/pennsylvania-measles-cases-rise-1317-state-health-department-says-2026-10-21/",
-            "note": "확진 1,317명, 43개 카운티, 입원 251명, 사망 5명, 접종자 4명을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/pennsylvania-measles-cases-rise-1317-state-health-department-says-2026-10-21/",
-            "label": "확인한 원문·발행시각",
-            "kind": "source"
-          }
-        ],
-        "caution": "개별 감염 원인이나 백신 효능 수치를 이 기사만으로 계산하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-21",
-          "observation": "로이터 본문의 주 보건당국 최신 집계와 발행시각을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "첫 장: 확진 1,317명·접종자 4명",
-            "2장: 43개 카운티로 확산",
-            "3장: 입원 251명·사망 5명"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문·발행시각",
-            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/pennsylvania-measles-cases-rise-1317-state-health-department-says-2026-10-21/"
-          }
-        ],
-        "excerpt": "",
-        "context": "주 보건당국이 21일 월요일보다 31명 늘어난 최신 집계를 공개했다.",
-        "fetched_at": 1792644468,
-        "parser_revision": 7
-      },
-      "curation_event_key": "pennsylvania-measles-1317-43-counties-20261021"
-    },
-    "188d3dfdfe43": {
-      "source": "로이터",
-      "title": "SAP 첫 분기 매출 100억유로…CEO “클라우드 이동의 주동력은 AI”",
-      "link": "https://www.reuters.com/world/europe/germanys-sap-tops-cloud-demand-forecasts-holds-yearly-operating-profit-outlook-2026-10-21/",
-      "first_seen_at": 1792644468,
-      "last_seen_at": 1792644468,
-      "samples": [
-        {
-          "at": 1792644468,
-          "views": null,
-          "reactions": null,
-          "rank": 10,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "188d3dfdfe43",
-      "editorial": {
-        "title": "SAP 첫 분기 매출 100억유로…CEO “클라우드 이동의 주동력은 AI”",
-        "category": "시사",
-        "url": "https://www.reuters.com/world/europe/germanys-sap-tops-cloud-demand-forecasts-holds-yearly-operating-profit-outlook-2026-10-21/",
-        "source": "로이터",
-        "kind": "article",
-        "event_key": "sap-first-10b-quarter-ai-cloud-backlog-20261021",
-        "why": "AI 열풍이 실제 기업용 소프트웨어 계약으로 이어진 규모를 매출·수주잔고 숫자로 보여준다.",
-        "angle": "첫 장은 첫 100억유로, 다음 장은 클라우드 매출 26%·수주잔고 26%와 AI 도입 구조를 보여준다.",
-        "why_now": "SAP가 21일 분기 실적과 연간 매출 전망 상단을 새로 발표했다.",
-        "verified_at": 1792643595,
-        "published_at": 1792614180,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/world/europe/germanys-sap-tops-cloud-demand-forecasts-holds-yearly-operating-profit-outlook-2026-10-21/",
-            "note": "분기 매출 최초 100억유로, 클라우드 매출 66.7억유로, 수주잔고 241.4억유로와 CEO 발언을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/world/europe/germanys-sap-tops-cloud-demand-forecasts-holds-yearly-operating-profit-outlook-2026-10-21/",
-            "label": "확인한 원문·발행시각",
-            "kind": "source"
-          }
-        ],
-        "caution": "AI만으로 전체 실적이 발생했다고 단정하지 않고 회사 설명과 실적 수치를 분리한다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-21",
-          "observation": "로이터 본문에서 분기 실적·전망·CEO와 CFO 발언을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "첫 장: 분기 매출 첫 100억유로",
-            "2장: 클라우드 매출·수주잔고 각 26% 증가",
-            "3장: AI가 계약 전환을 이끈다는 회사 설명"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문·발행시각",
-            "url": "https://www.reuters.com/world/europe/germanys-sap-tops-cloud-demand-forecasts-holds-yearly-operating-profit-outlook-2026-10-21/"
-          }
-        ],
-        "excerpt": "",
-        "context": "SAP가 21일 분기 실적과 연간 매출 전망 상단을 새로 발표했다.",
-        "fetched_at": 1792644468,
-        "parser_revision": 7
-      },
-      "curation_event_key": "sap-first-10b-quarter-ai-cloud-backlog-20261021"
     }
   },
-  "updated_at": 1793239589
+  "updated_at": 1793250818
 }
