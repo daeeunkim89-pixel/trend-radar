@@ -1,6 +1,831 @@
 {
   "version": 1,
   "items": {
+    "21aadcae9a2d": {
+      "source": "로이터 원문 대본",
+      "title": "집 팔고 배로 이사했는데…크루즈 멈추자 승객 “이젠 갈 곳 없다”",
+      "link": "https://www.marketscreener.com/news/nowhere-to-go-cruise-ship-disembarks-residents-as-fuel-prices-soar-ce785cd2d081ff23",
+      "first_seen_at": 1793283141,
+      "last_seen_at": 1793283141,
+      "samples": [
+        {
+          "at": 1793283141,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "21aadcae9a2d",
+      "editorial": {
+        "title": "집 팔고 배로 이사했는데…크루즈 멈추자 승객 “이젠 갈 곳 없다”",
+        "category": "시사",
+        "url": "https://www.marketscreener.com/news/nowhere-to-go-cruise-ship-disembarks-residents-as-fuel-prices-soar-ce785cd2d081ff23",
+        "source": "로이터 원문 대본",
+        "kind": "article",
+        "event_key": "villa-vie-odyssey-cambodia-disembarkation-resident-interviews-20261028",
+        "why": "집을 처분해 선실에 들어간 생활 계획이 연료비 급등과 운항 중단으로 무너졌다는 구체적인 돈·주거의 반전이다.",
+        "angle": "바다 위 영구 주택 약속 ↔ 캄보디아에서 갈 곳 잃은 거주자",
+        "why_now": "하선·중단 발표는 현지10/27. 채택 자료는10/28 새 현장 인터뷰 대본(14:29 EDT), 약20시간 전 공개.29일 재기사를 최초 공개로 쓰지 않음.",
+        "verified_at": 1793283066,
+        "published_at": 1793212140,
+        "evidence": [
+          {
+            "url": "https://www.marketscreener.com/news/nowhere-to-go-cruise-ship-disembarks-residents-as-fuel-prices-soar-ce785cd2d081ff23",
+            "note": "로이터 10/28 현장 인터뷰 대본에서 집을 팔고 배에 살던 사람들이 갈 곳이 없다는 Russ Borman의 증언과 회사의 연료비 증가 설명을 확인했다. 영상은 시청하지 않았고 원대본·국내 보도 본문을 대조했다."
+          },
+          {
+            "url": "https://view.asiae.co.kr/article/2026102908573241261",
+            "note": "203명 탑승, 장기 거주 선실 분양·임대 구조와 회사 설명을 본문 대조."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.marketscreener.com/news/nowhere-to-go-cruise-ship-disembarks-residents-as-fuel-prices-soar-ce785cd2d081ff23",
+            "label": "확인한 취재 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "27일 중단을 오늘 발생으로 쓰지 말 것. 전원 같은 금액 투자·파산 확정 아님.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-28",
+          "observation": "로이터 10/28 현장 인터뷰 대본에서 집을 팔고 배에 살던 사람들이 갈 곳이 없다는 Russ Borman의 증언과 회사의 연료비 증가 설명을 확인했다. 영상은 시청하지 않았고 원대본·국내 보도 본문을 대조했다.",
+          "checked_materials": [],
+          "outline": [
+            "10/28 새 거주자 인터뷰를 말한 사람과 함께 소개",
+            "27일 하선 통보·운항 중단과 집을 판 거주자의 손실 대비",
+            "연료비 상승은 회사 설명이며 구조조정·재출항은 미확정으로 표시"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 취재 원문",
+            "url": "https://www.marketscreener.com/news/nowhere-to-go-cruise-ship-disembarks-residents-as-fuel-prices-soar-ce785cd2d081ff23"
+          }
+        ],
+        "excerpt": "",
+        "context": "하선·중단 발표는 현지10/27. 채택 자료는10/28 새 현장 인터뷰 대본(14:29 EDT), 약20시간 전 공개.29일 재기사를 최초 공개로 쓰지 않음.",
+        "fetched_at": 1793283141,
+        "parser_revision": 7
+      },
+      "curation_event_key": "villa-vie-odyssey-cambodia-disembarkation-resident-interviews-20261028"
+    },
+    "349ad6cfc34e": {
+      "source": "연합뉴스",
+      "title": "기프티콘 쿠폰번호·환급계좌 유출 정황…확인된 쿠폰 폐기·재발송 예고",
+      "link": "https://www.yna.co.kr/amp/view/AKR20261029203900017",
+      "first_seen_at": 1793283141,
+      "last_seen_at": 1793283141,
+      "samples": [
+        {
+          "at": 1793283141,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "349ad6cfc34e",
+      "editorial": {
+        "title": "기프티콘 쿠폰번호·환급계좌 유출 정황…확인된 쿠폰 폐기·재발송 예고",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/amp/view/AKR20261029203900017",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "skplanet-gifticon-personal-data-leak-response-20261029",
+        "why": "선물로 받은 쿠폰과 환급계좌까지 노출될 수 있어 사용자의 당장 돈·개인정보와 연결된다. 폐기·재발송이라는 후속 행동도 있다.",
+        "angle": "받은 쿠폰은 어떻게 되나…유출 확인분 전부 교체 계획",
+        "why_now": "10/28 18:40 비정상 접근 탐지·차단,10/29 20:39 새 공개 보도. 현재 범위·대상은 조사 중.",
+        "verified_at": 1793282718,
+        "published_at": 1793273947,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/amp/view/AKR20261029203900017",
+            "note": "회사 취재 본문에서 이름·전화번호·쿠폰 일련번호·환급계좌 등 유출 추정과 조사 중 상태를 확인했다. 유출 확인 쿠폰 폐기·재발송, 실질 피해 전액 보상은 회사가 밝힌 계획이다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/amp/view/AKR20261029203900017",
+            "label": "확인한 취재 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "전체 이용자 유출·보상 완료로 단정 금지. 대상·규모 미확정.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-29",
+          "observation": "회사 취재 본문에서 이름·전화번호·쿠폰 일련번호·환급계좌 등 유출 추정과 조사 중 상태를 확인했다. 유출 확인 쿠폰 폐기·재발송, 실질 피해 전액 보상은 회사가 밝힌 계획이다.",
+          "checked_materials": [],
+          "outline": [
+            "쿠폰번호·환급계좌까지 포함된 유출 추정 항목 설명",
+            "탐지·차단과 규모 조사 중이라는 현재 상태 구분",
+            "확인 쿠폰 교체·실질 피해 보상 계획과 사칭 링크 주의 안내"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 취재 원문",
+            "url": "https://www.yna.co.kr/amp/view/AKR20261029203900017"
+          }
+        ],
+        "excerpt": "",
+        "context": "10/28 18:40 비정상 접근 탐지·차단,10/29 20:39 새 공개 보도. 현재 범위·대상은 조사 중.",
+        "fetched_at": 1793283141,
+        "parser_revision": 7
+      },
+      "curation_event_key": "skplanet-gifticon-personal-data-leak-response-20261029"
+    },
+    "57b31e175e45": {
+      "source": "뉴시스",
+      "title": "새 쫓으라 늘린 공항 인력인데…낮잠 의혹에 엽총·탄약도 방치 보도",
+      "link": "https://files.newsis.com/view/NISX20261029_0003846133",
+      "first_seen_at": 1793283141,
+      "last_seen_at": 1793283141,
+      "samples": [
+        {
+          "at": 1793283141,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "57b31e175e45",
+      "editorial": {
+        "title": "새 쫓으라 늘린 공항 인력인데…낮잠 의혹에 엽총·탄약도 방치 보도",
+        "category": "시사",
+        "url": "https://files.newsis.com/view/NISX20261029_0003846133",
+        "source": "뉴시스",
+        "kind": "article",
+        "event_key": "jeju-airport-bird-control-worker-neglect-gun-storage-allegations-20261028",
+        "why": "조류 충돌을 막아야 할 업무와 활주로 인근 낮잠·총기 보관 의혹이 정면으로 어긋난다.",
+        "angle": "2시간 차량 밖 관측 없었다는 보도, 총기는 출입문 옆",
+        "why_now": "최초 KBS 보도는10/28 날짜까지 확인. 뉴시스10/29 11:06 등록·13:51 수정과 구별, 미발송48시간 범위. 영상 촬영일은 미상.",
+        "verified_at": 1793282466,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://files.newsis.com/view/NISX20261029_0003846133",
+            "note": "뉴시스의 KBS 원취재 인용 본문에서 낮잠·차량 밖 관측 부재·총기와 탄약 방치 의혹을 확인했다. 본문은 남부공항서비스 감사 진행으로 적고 있다. 실제 원영상·감사 결과는 확인하지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://files.newsis.com/view/NISX20261029_0003846133",
+            "label": "확인한 취재 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "의혹·취재 보도 단계. 전체 직원으로 일반화 금지. 영상 직접 시청 아님.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-28",
+          "observation": "뉴시스의 KBS 원취재 인용 본문에서 낮잠·차량 밖 관측 부재·총기와 탄약 방치 의혹을 확인했다. 본문은 남부공항서비스 감사 진행으로 적고 있다. 실제 원영상·감사 결과는 확인하지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "조류 충돌 예방을 위한 인력 증원 목적 제시",
+            "근무·총기 보관 관련 의혹을 KBS 취재 인용으로 표시",
+            "감사 중인 상태와 원영상 미시청·촬영일 미상 명시"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 취재 원문",
+            "url": "https://files.newsis.com/view/NISX20261029_0003846133"
+          }
+        ],
+        "excerpt": "",
+        "context": "최초 KBS 보도는10/28 날짜까지 확인. 뉴시스10/29 11:06 등록·13:51 수정과 구별, 미발송48시간 범위. 영상 촬영일은 미상.",
+        "fetched_at": 1793283141,
+        "parser_revision": 7
+      },
+      "curation_event_key": "jeju-airport-bird-control-worker-neglect-gun-storage-allegations-20261028"
+    },
+    "fd18d522ddc0": {
+      "source": "연합뉴스·파이낸셜뉴스",
+      "title": "지능팀 출신 경찰이 상품권으로208억 세탁…수사 협조 공문만17차례",
+      "link": "https://www.fnnews.com/news/202610291102188040",
+      "first_seen_at": 1793283141,
+      "last_seen_at": 1793283141,
+      "samples": [
+        {
+          "at": 1793283141,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "fd18d522ddc0",
+      "editorial": {
+        "title": "지능팀 출신 경찰이 상품권으로208억 세탁…수사 협조 공문만17차례",
+        "category": "시사",
+        "url": "https://www.fnnews.com/news/202610291102188040",
+        "source": "연합뉴스·파이낸셜뉴스",
+        "kind": "article",
+        "event_key": "seoul-west-former-police-giftcard-208billion-won-laundering-sentence-20261029",
+        "why": "사기를 수사하던 전직 경찰과 피해금을 정상 상품권 거래로 꾸몄다는 유죄 판단의 모순이 선명하다.",
+        "angle": "범죄수익 몰랐다? 법원은17차례 수사 공문도 봤다",
+        "why_now": "10/29 서울서부지법1심 선고·당일11:02 연합뉴스 원취재 공개. 범행은2024년7~10월.",
+        "verified_at": 1793282718,
+        "published_at": 1793239339,
+        "evidence": [
+          {
+            "url": "https://www.fnnews.com/news/202610291102188040",
+            "note": "연합뉴스 법원 취재에서 전직 경찰 징역6년·보석 취소,166차례 약208억원 세탁 혐의와 정상 거래 주장을 배척한 근거를 확인했다. 구매 품목 미지정·차액 미정산·17차례 수사 공문을 법원이 고려했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.fnnews.com/news/202610291102188040",
+            "label": "확인한 취재 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "1심 판결이며 확정 여부 미확인.208억원 전부 개인 수익으로 쓰지 말 것.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-29",
+          "observation": "연합뉴스 법원 취재에서 전직 경찰 징역6년·보석 취소,166차례 약208억원 세탁 혐의와 정상 거래 주장을 배척한 근거를 확인했다. 구매 품목 미지정·차액 미정산·17차례 수사 공문을 법원이 고려했다.",
+          "checked_materials": [],
+          "outline": [
+            "전직 지능팀 경찰과 상품권업체 운영 경력 소개",
+            "정상 거래 주장과 재판부가 본 구체적 모순을 대비",
+            "6년1심·보석 취소와 확인 피해금102억은 전체208억과 구별"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 취재 원문",
+            "url": "https://www.fnnews.com/news/202610291102188040"
+          }
+        ],
+        "excerpt": "",
+        "context": "10/29 서울서부지법1심 선고·당일11:02 연합뉴스 원취재 공개. 범행은2024년7~10월.",
+        "fetched_at": 1793283141,
+        "parser_revision": 7
+      },
+      "curation_event_key": "seoul-west-former-police-giftcard-208billion-won-laundering-sentence-20261029"
+    },
+    "adb51f6ecaf8": {
+      "source": "뉴스락",
+      "title": "내 집을 회사 사택이라11억 받고, 실제론 제3자에28억 임대…빗썸 재수사",
+      "link": "https://www.newslock.co.kr/news/articleView.html?idxno=138913",
+      "first_seen_at": 1793283141,
+      "last_seen_at": 1793283141,
+      "samples": [
+        {
+          "at": 1793283141,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "adb51f6ecaf8",
+      "editorial": {
+        "title": "내 집을 회사 사택이라11억 받고, 실제론 제3자에28억 임대…빗썸 재수사",
+        "category": "시사",
+        "url": "https://www.newslock.co.kr/news/articleView.html?idxno=138913",
+        "source": "뉴스락",
+        "kind": "article",
+        "event_key": "bithumb-executive-housing-deposit-diversion-renewed-search-20261029",
+        "why": "같은 집에서 회사 보증금과 제3자 보증금을 받았다는 조사 내용이 돈의 흐름만으로 직관적인 모순을 만든다.",
+        "angle": "회사엔 사택 보증금, 집은 다른 사람에게 임대했다는 의혹",
+        "why_now": "최초 적발·고발은2025년3월. 새 요소는10/29 약1년7개월 만의 재압수수색으로14:59 원취재도 대조했다.",
+        "verified_at": 1793282558,
+        "published_at": 1793253554,
+        "evidence": [
+          {
+            "url": "https://www.newslock.co.kr/news/articleView.html?idxno=138913",
+            "note": "금감원 조사 인용 본문에서 사택 전체 지원116억원과 한 임원의 회사 보증금11억원·제3자 임대보증금28억원을 구분했다. 연합뉴스 본문에서 오늘 추가 쟁점 확인을 위한 압수수색을 대조했다."
+          },
+          {
+            "url": "https://www.yna.co.kr/amp/view/AKR20261029140200004",
+            "note": "오늘 재압수수색과 기존 수사 추가 쟁점 확인 목적을 독립 본문으로 대조."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.newslock.co.kr/news/articleView.html?idxno=138913",
+            "label": "확인한 취재 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "사적 유용 의혹 수사 단계.116억 전체 횡령·유죄 확정으로 쓰지 말 것.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-29",
+          "observation": "금감원 조사 인용 본문에서 사택 전체 지원116억원과 한 임원의 회사 보증금11억원·제3자 임대보증금28억원을 구분했다. 연합뉴스 본문에서 오늘 추가 쟁점 확인을 위한 압수수색을 대조했다.",
+          "checked_materials": [],
+          "outline": [
+            "전체116억원을 곧바로 횡령액으로 쓰지 않고 배경 설명",
+            "한 주택의 회사 보증금과 제3자 임대 구조를 의혹으로 제시",
+            "2025년 적발과 오늘 추가 압수수색을 시간순으로 분리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 취재 원문",
+            "url": "https://www.newslock.co.kr/news/articleView.html?idxno=138913"
+          }
+        ],
+        "excerpt": "",
+        "context": "최초 적발·고발은2025년3월. 새 요소는10/29 약1년7개월 만의 재압수수색으로14:59 원취재도 대조했다.",
+        "fetched_at": 1793283141,
+        "parser_revision": 7
+      },
+      "curation_event_key": "bithumb-executive-housing-deposit-diversion-renewed-search-20261029"
+    },
+    "a54fb60f2942": {
+      "source": "연합뉴스·파이낸셜뉴스",
+      "title": "뉴진스 감독판10억 배상 유지…2심은 “40억 전부 유효한 건 아니다”",
+      "link": "https://www.mt.co.kr/index.php/society/2026/10/29/2026102914211896316",
+      "first_seen_at": 1793283141,
+      "last_seen_at": 1793283141,
+      "samples": [
+        {
+          "at": 1793283141,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "a54fb60f2942",
+      "editorial": {
+        "title": "뉴진스 감독판10억 배상 유지…2심은 “40억 전부 유효한 건 아니다”",
+        "category": "아이돌",
+        "url": "https://www.mt.co.kr/index.php/society/2026/10/29/2026102914211896316",
+        "source": "연합뉴스·파이낸셜뉴스",
+        "kind": "article",
+        "event_key": "ador-dolphiners-eta-directors-cut-appeal-penalty-20261029",
+        "why": "배상액은 같은데 법원이 인정한 위약벌 범위가 달라진 반전이 있고, 구두 동의와 영상 계약의 차이를 설명할 수 있다.",
+        "angle": "결과는10억 동일,40억 위약벌을 보는 논리는 달라졌다",
+        "why_now": "10/29 항소심 선고·15:17 현장 취재 최초 등록 확인. 영상 게시 자체는2024년8월로 오늘 사건과 구분.",
+        "verified_at": 1793282746,
+        "published_at": 1793254666,
+        "evidence": [
+          {
+            "url": "https://www.mt.co.kr/index.php/society/2026/10/29/2026102914211896316",
+            "note": "법원 취재 본문에서 회사의10억원 지급 의무 유지와2심이40억원 위약벌 중10억원 범위만 유효하다고 본 이유를 확인했다. 신우석 개인 상대 청구와 저작권·명예훼손 주장을 계약상 위약벌과 구별했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.mt.co.kr/index.php/society/2026/10/29/2026102914211896316",
+            "label": "확인한 취재 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "뉴진스 멤버가10억원 배상하는 사건 아님. 확정 여부·판결문 전체 미확인.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-29",
+          "observation": "법원 취재 본문에서 회사의10억원 지급 의무 유지와2심이40억원 위약벌 중10억원 범위만 유효하다고 본 이유를 확인했다. 신우석 개인 상대 청구와 저작권·명예훼손 주장을 계약상 위약벌과 구별했다.",
+          "checked_materials": [],
+          "outline": [
+            "2024년 감독판 공개와 오늘2심을 분리",
+            "동일10억 결론과 달라진 위약벌 범위 판단을 대비",
+            "제작사 지급 의무와 신 감독 개인 청구 기각을 구별"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 취재 원문",
+            "url": "https://www.mt.co.kr/index.php/society/2026/10/29/2026102914211896316"
+          }
+        ],
+        "excerpt": "",
+        "context": "10/29 항소심 선고·15:17 현장 취재 최초 등록 확인. 영상 게시 자체는2024년8월로 오늘 사건과 구분.",
+        "fetched_at": 1793283141,
+        "parser_revision": 7
+      },
+      "curation_event_key": "ador-dolphiners-eta-directors-cut-appeal-penalty-20261029"
+    },
+    "67a1a0ebca93": {
+      "source": "뉴시스",
+      "title": "숯이라고 신고했는데 안쪽엔 위조담배20만갑…엑스레이에 덜미",
+      "link": "https://files.newsis.com/view/NISX20261029_0003846214",
+      "first_seen_at": 1793283141,
+      "last_seen_at": 1793283141,
+      "samples": [
+        {
+          "at": 1793283141,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "67a1a0ebca93",
+      "editorial": {
+        "title": "숯이라고 신고했는데 안쪽엔 위조담배20만갑…엑스레이에 덜미",
+        "category": "시사",
+        "url": "https://files.newsis.com/view/NISX20261029_0003846214",
+        "source": "뉴시스",
+        "kind": "article",
+        "event_key": "gwangju-customs-laos-fake-cigarettes-charcoal-declaration-referral-20261029",
+        "why": "정상 화물을 앞에 놓고 담배를 숨긴 포장과 숯이라는 신고가 검색기 화면 앞에서 뒤집힌다.",
+        "angle": "겉은 정상 화물,신고는 숯…내용물은9억원대 위조담배",
+        "why_now": "밀수 시도는1·3월. 오늘10/29 세관이 공개한 적발·송치 발표이며10:58 등록, 재게시를 새 밀수로 쓰지 않음.",
+        "verified_at": 1793282558,
+        "published_at": 1793239102,
+        "evidence": [
+          {
+            "url": "https://files.newsis.com/view/NISX20261029_0003846214",
+            "note": "세관 취재 본문에서 라오스발 광양항 컨테이너의 위조담배20만갑·시가9억원 적발과 송치 발표를 확인했다. 성공 보수는 건당2000만원을 제안받았다는 수사 내용이다. 실제 검색기 영상·사진은 직접 보지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://files.newsis.com/view/NISX20261029_0003846214",
+            "label": "확인한 취재 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "위조담배가 정상 유통 완료됐다고 쓰지 말 것. 세관 수사 결과 단계.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-29",
+          "observation": "세관 취재 본문에서 라오스발 광양항 컨테이너의 위조담배20만갑·시가9억원 적발과 송치 발표를 확인했다. 성공 보수는 건당2000만원을 제안받았다는 수사 내용이다. 실제 검색기 영상·사진은 직접 보지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "숯 수입 신고와 실제 적발 물품을 대비",
+            "컨테이너 안쪽 은닉과 엑스레이 이상 포착을 보도 범위로 설명",
+            "과거 시도와 오늘 송치 발표·피의사실을 구별"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 취재 원문",
+            "url": "https://files.newsis.com/view/NISX20261029_0003846214"
+          }
+        ],
+        "excerpt": "",
+        "context": "밀수 시도는1·3월. 오늘10/29 세관이 공개한 적발·송치 발표이며10:58 등록, 재게시를 새 밀수로 쓰지 않음.",
+        "fetched_at": 1793283141,
+        "parser_revision": 7
+      },
+      "curation_event_key": "gwangju-customs-laos-fake-cigarettes-charcoal-declaration-referral-20261029"
+    },
+    "314f2f15f0da": {
+      "source": "연합뉴스",
+      "title": "특검, 尹2심도 사형 구형…“군경이 자제한 공을 피고인에게 주면 안 돼”",
+      "link": "https://www.yna.co.kr/view/AKR20261029104552004",
+      "first_seen_at": 1793283141,
+      "last_seen_at": 1793283141,
+      "samples": [
+        {
+          "at": 1793283141,
+          "views": null,
+          "reactions": null,
+          "rank": 8,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "314f2f15f0da",
+      "editorial": {
+        "title": "특검, 尹2심도 사형 구형…“군경이 자제한 공을 피고인에게 주면 안 돼”",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261029104552004",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "yoon-insurrection-appeal-prosecution-death-request-20261029",
+        "why": "1심이 유리하게 본 현장 군경의 자제를 누구의 공으로 볼 것인지, 구형과 판결의 논쟁 지점이 구체적이다.",
+        "angle": "계엄이 짧게 끝난 이유를 피고인에게 유리하게 볼 수 있나",
+        "why_now": "오늘10/29 항소심 구형.13:12 종합 원취재 등록 확인, 최초 속보는12:06으로 확인한 공개 범위를 명시.",
+        "verified_at": 1793282524,
+        "published_at": 1793243160,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261029104552004",
+            "note": "연합뉴스 법원 취재에서 사형 구형과1심 무기징역을 확인했다. 군경의 자제·계엄 지속 시간에 관한1심 양형을 특검이 비판한 것이며2심 법원의 최종 판단이 아니다. 최후변론·선고는 남아 있다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261029104552004",
+            "label": "확인한 취재 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "구형을 사형 선고·확정으로 쓰지 말 것. 특검 주장과 재판부 판단 구분.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-29",
+          "observation": "연합뉴스 법원 취재에서 사형 구형과1심 무기징역을 확인했다. 군경의 자제·계엄 지속 시간에 관한1심 양형을 특검이 비판한 것이며2심 법원의 최종 판단이 아니다. 최후변론·선고는 남아 있다.",
+          "checked_materials": [],
+          "outline": [
+            "1심 무기징역과 오늘 검찰 사형 구형을 분리",
+            "현장 군경의 자제를 누구에게 유리한 사유로 볼지 특검 주장 제시",
+            "남은 최후변론·선고 절차와 아직2심 선고 전임을 표시"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 취재 원문",
+            "url": "https://www.yna.co.kr/view/AKR20261029104552004"
+          }
+        ],
+        "excerpt": "",
+        "context": "오늘10/29 항소심 구형.13:12 종합 원취재 등록 확인, 최초 속보는12:06으로 확인한 공개 범위를 명시.",
+        "fetched_at": 1793283141,
+        "parser_revision": 7
+      },
+      "curation_event_key": "yoon-insurrection-appeal-prosecution-death-request-20261029"
+    },
+    "c5252d15d6c5": {
+      "source": "뉴시스",
+      "title": "3717만개 주문 취소에6.3억 제재…셀트리온 “민사 분쟁,행정소송”",
+      "link": "https://www.newsis.com/view/NISX20261029_0003846367",
+      "first_seen_at": 1793283141,
+      "last_seen_at": 1793283141,
+      "samples": [
+        {
+          "at": 1793283141,
+          "views": null,
+          "reactions": null,
+          "rank": 9,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "c5252d15d6c5",
+      "editorial": {
+        "title": "3717만개 주문 취소에6.3억 제재…셀트리온 “민사 분쟁,행정소송”",
+        "category": "시사",
+        "url": "https://www.newsis.com/view/NISX20261029_0003846367",
+        "source": "뉴시스",
+        "kind": "article",
+        "event_key": "celltrion-diagnostic-kit-subcontract-cancellation-ftc-response-20261029",
+        "why": "발주받은 수천만 개 물량이 취소된 협력업체 손익과 이를 하도급 위반으로 본 당국·민사 분쟁이라는 회사의 충돌이 구체적이다.",
+        "angle": "협력사 책임 없는 취소라는 공정위,납기 지연이라는 회사",
+        "why_now": "발주·취소는2021~22년.10/29 공정위 새 제재와 같은 날 회사 행정소송 방침을 함께 확인. 첫 당일 공개는12시 보도도 확인.",
+        "verified_at": 1793282804,
+        "published_at": 1793242800,
+        "evidence": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261029_0003846367",
+            "note": "공정위 취재 본문에서3717만개 제조위탁 취소·서면 의무 위반과6억3000만원 제재를 확인했다. 회사는 공동사업 민사분쟁·납기 지연 피해를 주장하며 행정소송 계획을 발표했다. 양측 입장은 다르다."
+          },
+          {
+            "url": "https://www.newsis.com/view/NISX20261029_0003847250",
+            "note": "회사 홈페이지 입장문을 인용한 별도 취재 본문에서 행정소송 계획과 납기 지연 주장을 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261029_0003846367",
+            "label": "확인한 취재 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "공정위 처분과 회사 주장을 구분. 과징금을 협력사 배상금으로 쓰지 말 것.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-29",
+          "observation": "공정위 취재 본문에서3717만개 제조위탁 취소·서면 의무 위반과6억3000만원 제재를 확인했다. 회사는 공동사업 민사분쟁·납기 지연 피해를 주장하며 행정소송 계획을 발표했다. 양측 입장은 다르다.",
+          "checked_materials": [],
+          "outline": [
+            "제조 위탁·취소 물량과 서면 발급 문제를 구체화",
+            "공정위 판단과6.3억원 제재 내용을 제시",
+            "회사 반박·행정소송 계획과 민사 항소심 진행을 구별"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 취재 원문",
+            "url": "https://www.newsis.com/view/NISX20261029_0003846367"
+          }
+        ],
+        "excerpt": "",
+        "context": "발주·취소는2021~22년.10/29 공정위 새 제재와 같은 날 회사 행정소송 방침을 함께 확인. 첫 당일 공개는12시 보도도 확인.",
+        "fetched_at": 1793283141,
+        "parser_revision": 7
+      },
+      "curation_event_key": "celltrion-diagnostic-kit-subcontract-cancellation-ftc-response-20261029"
+    },
+    "ffbc29c95e63": {
+      "source": "OSEN",
+      "title": "어묵 바꿨다 “꼰대 남편” 된 김강우…아내가 나서 “선택은 늘 나였다”",
+      "link": "https://www.osen.co.kr/article/G1112899982",
+      "first_seen_at": 1793283141,
+      "last_seen_at": 1793283141,
+      "samples": [
+        {
+          "at": 1793283141,
+          "views": null,
+          "reactions": null,
+          "rank": 10,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "ffbc29c95e63",
+      "editorial": {
+        "title": "어묵 바꿨다 “꼰대 남편” 된 김강우…아내가 나서 “선택은 늘 나였다”",
+        "category": "시사",
+        "url": "https://www.osen.co.kr/article/G1112899982",
+        "source": "OSEN",
+        "kind": "article",
+        "event_key": "kim-kang-woo-fishcake-choice-comment-wife-response-20261028",
+        "why": "새우가 더 좋아 보여 바꿨다는 선택이 댓글 논란으로 번지자,아내가 평소 선택권은 자신에게 있었다고 받아친 소소한 반전이다.",
+        "angle": "댓글엔 상처받은 남편,웃으며 감싸는 아내",
+        "why_now": "원 유튜브 공개10/28 날짜 정밀도 확인·당일19:56 OSEN 보도.29일 재기사를 최초 공개로 바꾸지 않고48시간 범위 채택.",
+        "verified_at": 1793282853,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.osen.co.kr/article/G1112899982",
+            "note": "방송 캡처에서 김강우의 아 나 상처받았어 자막과 옆에서 웃는 아내를 실제 확인했다. 어묵 선택 경위·아내의 평소 선택권 해명은28일 OSEN과29일 뉴시스 본문을 대조했으며 동영상 전체는 미시청이다."
+          },
+          {
+            "url": "https://files.newsis.com/view/NISX20261029_0003847356",
+            "note": "원 방송10/28 게시일과 어묵·아내 해명 발언을 본문에서 독립 대조."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.osen.co.kr/article/G1112899982",
+            "label": "확인한 취재 원문",
+            "kind": "source"
+          },
+          {
+            "url": "https://img1.newsis.com/2026/10/29/NISI20261029_0002278013_web.jpg",
+            "label": "직접 확인한 방송 캡처",
+            "kind": "image"
+          }
+        ],
+        "caution": "캡처1장 확인·전체 영상 미시청. 실제 부부 불화로 과장 금지.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-28",
+          "observation": "방송 캡처에서 김강우의 아 나 상처받았어 자막과 옆에서 웃는 아내를 실제 확인했다. 어묵 선택 경위·아내의 평소 선택권 해명은28일 OSEN과29일 뉴시스 본문을 대조했으며 동영상 전체는 미시청이다.",
+          "checked_materials": [
+            "https://img1.newsis.com/2026/10/29/NISI20261029_0002278013_web.jpg"
+          ],
+          "outline": [
+            "실제 확인한 상처받았어 자막·아내 웃음 캡처로 시작",
+            "같은 가격이면 새우가 낫다는 남편 설명과 댓글 반응을 본문 인용",
+            "항상 선택권은 나였다는 아내 반응으로 마무리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [
+          {
+            "url": "https://img1.newsis.com/2026/10/29/NISI20261029_0002278013_web.jpg",
+            "label": "직접 확인한 방송 캡처",
+            "kind": "image"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "확인한 취재 원문",
+            "url": "https://www.osen.co.kr/article/G1112899982"
+          },
+          {
+            "label": "직접 확인한 방송 캡처",
+            "url": "https://img1.newsis.com/2026/10/29/NISI20261029_0002278013_web.jpg"
+          }
+        ],
+        "excerpt": "",
+        "context": "원 유튜브 공개10/28 날짜 정밀도 확인·당일19:56 OSEN 보도.29일 재기사를 최초 공개로 바꾸지 않고48시간 범위 채택.",
+        "fetched_at": 1793283141,
+        "parser_revision": 7
+      },
+      "curation_event_key": "kim-kang-woo-fishcake-choice-comment-wife-response-20261028"
+    },
+    "4b4b61498a22": {
+      "source": "인터풋볼",
+      "title": "수술 대신 쉬었던 세슈코,같은 정강이 부상 재발…내년1월까지 이탈 보도",
+      "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=697370",
+      "first_seen_at": 1793283141,
+      "last_seen_at": 1793283141,
+      "samples": [
+        {
+          "at": 1793283141,
+          "views": null,
+          "reactions": null,
+          "rank": 11,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "4b4b61498a22",
+      "editorial": {
+        "title": "수술 대신 쉬었던 세슈코,같은 정강이 부상 재발…내년1월까지 이탈 보도",
+        "category": "축구",
+        "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697370",
+        "source": "인터풋볼",
+        "kind": "article",
+        "event_key": "sesko-manchester-united-recurring-shin-injury-recovery-report-20261029",
+        "why": "수술 대신 휴식을 택한 뒤 같은 부위 문제가 재발했다는 치료 경과와 맨유 공격진의 공백을 연결할 수 있다.",
+        "angle": "쉬면 될 줄 알았던 정강이,복귀 시계는 다시 내년으로",
+        "why_now": "10/29 원 보도 인용 기사08:15 등록.24시간 확대한 미발송 후보. 수술 선택과 재발은 보도 내용이며 현재 공식 확정 아님.",
+        "verified_at": 1793282466,
+        "published_at": 1793229300,
+        "evidence": [
+          {
+            "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697370",
+            "note": "인터풋볼 본문에서 디애슬레틱·로마노의 정강이 부상 재발과최소 내년1월 결장 전망을 확인했다. 수술 대신 휴식 선택도 보도 범위이며 구단 의료 자료·공식 확정은 직접 확인하지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697370",
+            "label": "확인한 취재 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "의학적 진단·공식 복귀일 확정 아님. 부상 조롱·원인 단정 금지.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-29",
+          "observation": "인터풋볼 본문에서 디애슬레틱·로마노의 정강이 부상 재발과최소 내년1월 결장 전망을 확인했다. 수술 대신 휴식 선택도 보도 범위이며 구단 의료 자료·공식 확정은 직접 확인하지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "이전 부상과 수술 대신 휴식이라는 치료 선택 제시",
+            "같은 부위 재발과 장기 이탈 전망을 원 보도 출처와 함께 표시",
+            "정확한 복귀일·의학적 원인은 미확정으로 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 취재 원문",
+            "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697370"
+          }
+        ],
+        "excerpt": "",
+        "context": "10/29 원 보도 인용 기사08:15 등록.24시간 확대한 미발송 후보. 수술 선택과 재발은 보도 내용이며 현재 공식 확정 아님.",
+        "fetched_at": 1793283141,
+        "parser_revision": 7
+      },
+      "curation_event_key": "sesko-manchester-united-recurring-shin-injury-recovery-report-20261029"
+    },
     "d63f02e30c65": {
       "source": "시사의창",
       "title": "20년 할인 약속한 골프장, 일방 인상에 제동…추가 이용료 환급 판결",
@@ -26617,871 +27442,7 @@
         "parser_revision": 7
       },
       "curation_event_key": "steelers-cancel-paris-fan-bar-nfl-game-proceeds-protests-20261022"
-    },
-    "255542178696": {
-      "source": "경향신문·고용노동부",
-      "title": "“열심히 일한 기록 남기지 마” 지시 확인…쿠팡 산재 사건은 처벌 불가 결론",
-      "link": "https://www.khan.co.kr/article/202610221510001",
-      "first_seen_at": 1792675929,
-      "last_seen_at": 1792675929,
-      "samples": [
-        {
-          "at": 1792675929,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "255542178696",
-      "editorial": {
-        "title": "“열심히 일한 기록 남기지 마” 지시 확인…쿠팡 산재 사건은 처벌 불가 결론",
-        "category": "시사",
-        "url": "https://www.khan.co.kr/article/202610221510001",
-        "source": "경향신문·고용노동부",
-        "kind": "article",
-        "event_key": "coupang-industrial-accident-concealment-probe-result-20261022",
-        "why": "정부 수사로 지시 정황이 확인됐지만 공소시효와 법 적용 한계로 처벌하지 못한다는 결론이 충돌한다.",
-        "angle": "메시지 확인→CCTV 분석 정황→처벌 불가 결론을 시간순으로 묶는다.",
-        "why_now": "노동부가 22일 감독·수사 결과와 추가 산재 은폐 정황 2건의 수사 방침을 발표했다.",
-        "verified_at": 1792675734,
-        "published_at": 1792649400,
-        "evidence": [
-          {
-            "url": "https://www.khan.co.kr/article/202610221510001",
-            "note": "기사 본문에서 김범석 의장의 메시지, CCTV 분석 정황, 공소시효 판단과 205건 적발 결과를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.khan.co.kr/article/202610221510001",
-            "label": "본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "쿠팡은 전직 임원의 일방적 주장이라며 노동부 발표에 유감을 밝혔다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "기사 본문에서 김범석 의장의 메시지, CCTV 분석 정황, 공소시효 판단과 205건 적발 결과를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: 핵심 장면·수치",
-            "2장: 이전 상태와 달라진 점",
-            "3장: 결과와 지금의 영향"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "본문",
-            "url": "https://www.khan.co.kr/article/202610221510001"
-          }
-        ],
-        "excerpt": "",
-        "context": "노동부가 22일 감독·수사 결과와 추가 산재 은폐 정황 2건의 수사 방침을 발표했다.",
-        "fetched_at": 1792675929,
-        "parser_revision": 7
-      },
-      "curation_event_key": "coupang-industrial-accident-concealment-probe-result-20261022"
-    },
-    "c924e1b6278a": {
-      "source": "MBC뉴스·서울 송파경찰서",
-      "title": "“문제 풀어달라” 입력해 둔 AI 안경…국가자격시험 응시자 송치",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
-      "first_seen_at": 1792675929,
-      "last_seen_at": 1792675929,
-      "samples": [
-        {
-          "at": 1792675929,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "c924e1b6278a",
-      "editorial": {
-        "title": "“문제 풀어달라” 입력해 둔 AI 안경…국가자격시험 응시자 송치",
-        "category": "시사",
-        "url": "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
-        "source": "MBC뉴스·서울 송파경찰서",
-        "kind": "article",
-        "event_key": "ai-glasses-exam-cheating-police-referral-20261022",
-        "why": "일상형 기기가 실제 국가시험 부정행위 수단으로 쓰였고 감독관이 안경테의 렌즈와 표시등으로 적발했다.",
-        "angle": "AI 안경 사전 명령→시험장 촬영→감독관 적발→송치 순서로 구성한다.",
-        "why_now": "경찰이 22일 정보처리기사 시험 부정행위 혐의 수험생의 불구속 송치를 공개했다.",
-        "verified_at": 1792675734,
-        "published_at": 1792655040,
-        "evidence": [
-          {
-            "url": "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
-            "note": "본문에서 시험일, 적발 방식, 휴대전화 포렌식 결과와 공모·외부유출 정황 부재를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html",
-            "label": "본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "송치 단계이며 법원의 유죄 판단 전이다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "본문에서 시험일, 적발 방식, 휴대전화 포렌식 결과와 공모·외부유출 정황 부재를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: 핵심 장면·수치",
-            "2장: 이전 상태와 달라진 점",
-            "3장: 결과와 지금의 영향"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "본문",
-            "url": "https://imnews.imbc.com/news/2026/society/article/6859975_36918.html"
-          }
-        ],
-        "excerpt": "",
-        "context": "경찰이 22일 정보처리기사 시험 부정행위 혐의 수험생의 불구속 송치를 공개했다.",
-        "fetched_at": 1792675929,
-        "parser_revision": 7
-      },
-      "curation_event_key": "ai-glasses-exam-cheating-police-referral-20261022"
-    },
-    "11c03c052221": {
-      "source": "MBC뉴스·니혼게이자이",
-      "title": "일본 면세, 11월부터 ‘매장 즉시 할인’ 대신 출국 때 환급",
-      "link": "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
-      "first_seen_at": 1792675929,
-      "last_seen_at": 1792675929,
-      "samples": [
-        {
-          "at": 1792675929,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "11c03c052221",
-      "editorial": {
-        "title": "일본 면세, 11월부터 ‘매장 즉시 할인’ 대신 출국 때 환급",
-        "category": "시사",
-        "url": "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
-        "source": "MBC뉴스·니혼게이자이",
-        "kind": "article",
-        "event_key": "japan-tax-free-refund-at-departure-change-20261022",
-        "why": "일본 여행객이 모든 면세 매장에서 세금을 먼저 내고 출국 때 돌려받는 체감 큰 변화다.",
-        "angle": "현재 즉시면세→세금 포함 결제→공항·항만 반출 확인→환급으로 바뀌는 흐름을 보여준다.",
-        "why_now": "11월 시행을 앞두고 6만4천여 면세점에 적용되는 환급 방식이 22일 공개됐다.",
-        "verified_at": 1792675734,
-        "published_at": 1792658760,
-        "evidence": [
-          {
-            "url": "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
-            "note": "본문에서 시행 시점, 반출 확인, 현금·카드취소 환급과 구매한도·특수포장 의무 폐지를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html",
-            "label": "본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "공항 혼잡과 매장별 세부 운영은 시행 뒤 달라질 수 있다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "본문에서 시행 시점, 반출 확인, 현금·카드취소 환급과 구매한도·특수포장 의무 폐지를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: 핵심 장면·수치",
-            "2장: 이전 상태와 달라진 점",
-            "3장: 결과와 지금의 영향"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "본문",
-            "url": "https://imnews.imbc.com/news/2026/world/article/6859997_36926.html"
-          }
-        ],
-        "excerpt": "",
-        "context": "11월 시행을 앞두고 6만4천여 면세점에 적용되는 환급 방식이 22일 공개됐다.",
-        "fetched_at": 1792675929,
-        "parser_revision": 7
-      },
-      "curation_event_key": "japan-tax-free-refund-at-departure-change-20261022"
-    },
-    "1d4104b426cf": {
-      "source": "Reuters",
-      "title": "114구 만에 200점…해리 브룩, ODI 최단 더블센추리 신기록",
-      "link": "https://www.reuters.com/sports/cricket/englands-magnificent-brook-hits-fastest-odi-double-century-2026-10-22/",
-      "first_seen_at": 1792675929,
-      "last_seen_at": 1792675929,
-      "samples": [
-        {
-          "at": 1792675929,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "1d4104b426cf",
-      "editorial": {
-        "title": "114구 만에 200점…해리 브룩, ODI 최단 더블센추리 신기록",
-        "category": "메이저 스포츠",
-        "url": "https://www.reuters.com/sports/cricket/englands-magnificent-brook-hits-fastest-odi-double-century-2026-10-22/",
-        "source": "Reuters",
-        "kind": "article",
-        "event_key": "harry-brook-fastest-odi-double-century-20261022",
-        "why": "114구 만에 200점, 잉글랜드 최초 ODI 200점, 최종 202점이라는 기록이 한 장에 잡힌다.",
-        "angle": "114구 신기록→기존 117구 경신→202점·21포·10식스를 연속 카드로 전개한다.",
-        "why_now": "브룩이 22일 스리랑카전에서 ODI 역사상 가장 빠른 더블센추리를 기록했다.",
-        "verified_at": 1792675734,
-        "published_at": 1792673400,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/sports/cricket/englands-magnificent-brook-hits-fastest-odi-double-century-2026-10-22/",
-            "note": "Reuters 본문과 당일 경기 사진에서 114구 200점, 최종 202점, 잉글랜드 개인 최고점 경신을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/sports/cricket/englands-magnificent-brook-hits-fastest-odi-double-century-2026-10-22/",
-            "label": "본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "경기 전체 결과와 별개로 개인 타격 기록을 중심으로 다룬다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "Reuters 본문과 당일 경기 사진에서 114구 200점, 최종 202점, 잉글랜드 개인 최고점 경신을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: 핵심 장면·수치",
-            "2장: 이전 상태와 달라진 점",
-            "3장: 결과와 지금의 영향"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "본문",
-            "url": "https://www.reuters.com/sports/cricket/englands-magnificent-brook-hits-fastest-odi-double-century-2026-10-22/"
-          }
-        ],
-        "excerpt": "",
-        "context": "브룩이 22일 스리랑카전에서 ODI 역사상 가장 빠른 더블센추리를 기록했다.",
-        "fetched_at": 1792675929,
-        "parser_revision": 7
-      },
-      "curation_event_key": "harry-brook-fastest-odi-double-century-20261022"
-    },
-    "27bc1d9d4d98": {
-      "source": "Reuters·영국 정부",
-      "title": "영국, 20년 만에 대구경 무기 생산 재개…빈 공장이 8개월 만에 양산",
-      "link": "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
-      "first_seen_at": 1792675929,
-      "last_seen_at": 1792675929,
-      "samples": [
-        {
-          "at": 1792675929,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "27bc1d9d4d98",
-      "editorial": {
-        "title": "영국, 20년 만에 대구경 무기 생산 재개…빈 공장이 8개월 만에 양산",
-        "category": "시사",
-        "url": "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
-        "source": "Reuters·영국 정부",
-        "kind": "article",
-        "event_key": "uk-restarts-large-calibre-weapons-production-20-years-20261022",
-        "why": "20년 공백을 끝낸 재무장과 빈 공장의 8개월 전환이라는 변화가 크다.",
-        "angle": "20년 생산 공백→Telford 공장 재가동→120·155mm 체계와 100개 일자리로 전개한다.",
-        "why_now": "영국 정부가 22일 러시아 위협 대응을 이유로 대구경 무기 생산 재개를 발표했다.",
-        "verified_at": 1792675734,
-        "published_at": 1792670502,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
-            "note": "Reuters 본문에서 120mm·155mm 포신과 폐쇄기 생산, 8개월 내 완전 가동, 100개 일자리를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/",
-            "label": "본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "영국 국방비 3% 인상 시점은 아직 불확실하다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "Reuters 본문에서 120mm·155mm 포신과 폐쇄기 생산, 8개월 내 완전 가동, 100개 일자리를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: 핵심 장면·수치",
-            "2장: 이전 상태와 달라진 점",
-            "3장: 결과와 지금의 영향"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "본문",
-            "url": "https://www.reuters.com/business/aerospace-defense/uk-restarts-large-calibre-weapon-manufacturing-after-20-years-defence-push-2026-10-22/"
-          }
-        ],
-        "excerpt": "",
-        "context": "영국 정부가 22일 러시아 위협 대응을 이유로 대구경 무기 생산 재개를 발표했다.",
-        "fetched_at": 1792675929,
-        "parser_revision": 7
-      },
-      "curation_event_key": "uk-restarts-large-calibre-weapons-production-20-years-20261022"
-    },
-    "ab25c3f91c26": {
-      "source": "Reuters·ATP",
-      "title": "ATP, 선수에게 닿기 전 악성 댓글 23만4천건을 막았다",
-      "link": "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
-      "first_seen_at": 1792675929,
-      "last_seen_at": 1792675929,
-      "samples": [
-        {
-          "at": 1792675929,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "ab25c3f91c26",
-      "editorial": {
-        "title": "ATP, 선수에게 닿기 전 악성 댓글 23만4천건을 막았다",
-        "category": "메이저 스포츠",
-        "url": "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
-        "source": "Reuters·ATP",
-        "kind": "article",
-        "event_key": "atp-blocks-234000-abusive-comments-20261022",
-        "why": "남자 선수 85%가 온라인 학대를 겪었고 AI가 370만개 댓글을 분석해 23만4천건을 막았다는 수치가 강하다.",
-        "angle": "370만개 분석→28만4천건 탐지→82% 실시간 제거→23만4천건 차단으로 보여준다.",
-        "why_now": "ATP가 22일 Safe Sport 첫해 성과와 심각한 학대 16만2천건을 공개했다.",
-        "verified_at": 1792675734,
-        "published_at": 1792660736,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
-            "note": "Reuters 본문에서 분석·탐지·차단 수치와 AI moderation 운영 범위를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/",
-            "label": "본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "차단 수치는 ATP와 선수 채널 분석 범위다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "Reuters 본문에서 분석·탐지·차단 수치와 AI moderation 운영 범위를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: 핵심 장면·수치",
-            "2장: 이전 상태와 달라진 점",
-            "3장: 결과와 지금의 영향"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "본문",
-            "url": "https://www.reuters.com/sports/tennis/atp-blocks-234000-abusive-comments-reaching-players-fans-2026-10-22/"
-          }
-        ],
-        "excerpt": "",
-        "context": "ATP가 22일 Safe Sport 첫해 성과와 심각한 학대 16만2천건을 공개했다.",
-        "fetched_at": 1792675929,
-        "parser_revision": 7
-      },
-      "curation_event_key": "atp-blocks-234000-abusive-comments-20261022"
-    },
-    "85e7c54052bd": {
-      "source": "Reuters·MLB",
-      "title": "46년 만의 ‘무관 팀’ 월드시리즈…누가 이겨도 창단 첫 우승",
-      "link": "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
-      "first_seen_at": 1792675929,
-      "last_seen_at": 1792675929,
-      "samples": [
-        {
-          "at": 1792675929,
-          "views": null,
-          "reactions": null,
-          "rank": 7,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "85e7c54052bd",
-      "editorial": {
-        "title": "46년 만의 ‘무관 팀’ 월드시리즈…누가 이겨도 창단 첫 우승",
-        "category": "메이저 스포츠",
-        "url": "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
-        "source": "Reuters·MLB",
-        "kind": "article",
-        "event_key": "brewers-rays-first-title-world-series-20261022",
-        "why": "1980년 이후 처음으로 우승 경험 없는 두 팀이 만나 첫 챔피언이 반드시 탄생한다.",
-        "angle": "작은 시장 두 팀→밀워키 103승·다저스 스윕→탬파베이 반격→첫 우승 보장으로 구성한다.",
-        "why_now": "브루어스와 레이스의 월드시리즈 1차전을 하루 앞두고 대진의 역사성이 22일 공개됐다.",
-        "verified_at": 1792675734,
-        "published_at": 1792670549,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
-            "note": "Reuters 본문에서 1980년 이후 첫 무관 팀 맞대결, 팀 가치, 시즌·포스트시즌 성적을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/",
-            "label": "본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "경기 전 프리뷰이며 실제 우승 팀은 아직 정해지지 않았다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "Reuters 본문에서 1980년 이후 첫 무관 팀 맞대결, 팀 가치, 시즌·포스트시즌 성적을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: 핵심 장면·수치",
-            "2장: 이전 상태와 달라진 점",
-            "3장: 결과와 지금의 영향"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "본문",
-            "url": "https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/"
-          }
-        ],
-        "excerpt": "",
-        "context": "브루어스와 레이스의 월드시리즈 1차전을 하루 앞두고 대진의 역사성이 22일 공개됐다.",
-        "fetched_at": 1792675929,
-        "parser_revision": 7
-      },
-      "curation_event_key": "brewers-rays-first-title-world-series-20261022"
-    },
-    "c6105ee5355c": {
-      "source": "Reuters",
-      "title": "인도, 뉴질랜드의 225점을 뒤집었다…팀 역사상 최고 T20 추격승",
-      "link": "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
-      "first_seen_at": 1792675929,
-      "last_seen_at": 1792675929,
-      "samples": [
-        {
-          "at": 1792675929,
-          "views": null,
-          "reactions": null,
-          "rank": 8,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "c6105ee5355c",
-      "editorial": {
-        "title": "인도, 뉴질랜드의 225점을 뒤집었다…팀 역사상 최고 T20 추격승",
-        "category": "메이저 스포츠",
-        "url": "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
-        "source": "Reuters",
-        "kind": "article",
-        "event_key": "india-226-record-t20-chase-new-zealand-20261022",
-        "why": "94-1의 폭발적 출발 뒤 3명이 연달아 아웃됐지만 19.4오버에 226점을 완성한 흐름이 극적이다.",
-        "angle": "뉴질랜드 225-4→인도 93점 오프닝→중반 3연속 아웃→Dhir의 마무리로 전개한다.",
-        "why_now": "인도가 22일 뉴질랜드 원정에서 자국 최고 T20 추격 기록을 세웠다.",
-        "verified_at": 1792675734,
-        "published_at": 1792669680,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
-            "note": "Reuters 본문에서 225-4, 93점 오프닝, 3연속 아웃, 19.4오버 승리와 기록 의미를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/",
-            "label": "본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "크리켓 비주류 독자도 점수 변화가 보이도록 규칙 설명을 최소 보완한다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "Reuters 본문에서 225-4, 93점 오프닝, 3연속 아웃, 19.4오버 승리와 기록 의미를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: 핵심 장면·수치",
-            "2장: 이전 상태와 달라진 점",
-            "3장: 결과와 지금의 영향"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "본문",
-            "url": "https://www.reuters.com/sports/cricket/india-overcome-new-zealand-fightback-win-t20-opener-2026-10-22/"
-          }
-        ],
-        "excerpt": "",
-        "context": "인도가 22일 뉴질랜드 원정에서 자국 최고 T20 추격 기록을 세웠다.",
-        "fetched_at": 1792675929,
-        "parser_revision": 7
-      },
-      "curation_event_key": "india-226-record-t20-chase-new-zealand-20261022"
-    },
-    "0860bc3b44fe": {
-      "source": "Reuters·IMF·OECD",
-      "title": "IMF·OECD “AI가 국가·기업·청년 노동자의 격차를 더 벌릴 수 있다”",
-      "link": "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
-      "first_seen_at": 1792675929,
-      "last_seen_at": 1792675929,
-      "samples": [
-        {
-          "at": 1792675929,
-          "views": null,
-          "reactions": null,
-          "rank": 9,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "0860bc3b44fe",
-      "editorial": {
-        "title": "IMF·OECD “AI가 국가·기업·청년 노동자의 격차를 더 벌릴 수 있다”",
-        "category": "시사",
-        "url": "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
-        "source": "Reuters·IMF·OECD",
-        "kind": "article",
-        "event_key": "imf-oecd-ai-widen-rich-poor-young-worker-gap-20261022",
-        "why": "AI가 성장률을 높일 수 있다는 전망과 동시에 빈국·중소기업·초년 노동자가 뒤처질 수 있다는 반전이 크다.",
-        "angle": "성장률 +0.5% 가능성→40% 일자리 노출→초년 노동자의 경험 사다리 붕괴 위험으로 이어간다.",
-        "why_now": "IMF와 OECD 관계자가 22일 AI 도입 격차와 청년층 위험을 경고했다.",
-        "verified_at": 1792675734,
-        "published_at": 1792665692,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
-            "note": "Reuters 본문에서 IMF의 성장·일자리 노출 추정과 OECD의 생산성 범위, 초년 노동자 경고를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/",
-            "label": "본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "기관 추정치이며 실제 생산성 효과는 아직 제한적이라는 단서를 함께 둔다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "Reuters 본문에서 IMF의 성장·일자리 노출 추정과 OECD의 생산성 범위, 초년 노동자 경고를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: 핵심 장면·수치",
-            "2장: 이전 상태와 달라진 점",
-            "3장: 결과와 지금의 영향"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "본문",
-            "url": "https://www.reuters.com/business/finance/imf-oecd-warn-ai-could-widen-rich-poor-country-divide-2026-10-22/"
-          }
-        ],
-        "excerpt": "",
-        "context": "IMF와 OECD 관계자가 22일 AI 도입 격차와 청년층 위험을 경고했다.",
-        "fetched_at": 1792675929,
-        "parser_revision": 7
-      },
-      "curation_event_key": "imf-oecd-ai-widen-rich-poor-young-worker-gap-20261022"
-    },
-    "af220abe030c": {
-      "source": "연합뉴스·대법원",
-      "title": "대법원, 27일 김건희 추가 구속영장 심문…31일 만료 앞둬",
-      "link": "https://www.yna.co.kr/view/AKR20261022174200004",
-      "first_seen_at": 1792675929,
-      "last_seen_at": 1792675929,
-      "samples": [
-        {
-          "at": 1792675929,
-          "views": null,
-          "reactions": null,
-          "rank": 10,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "af220abe030c",
-      "editorial": {
-        "title": "대법원, 27일 김건희 추가 구속영장 심문…31일 만료 앞둬",
-        "category": "시사",
-        "url": "https://www.yna.co.kr/view/AKR20261022174200004",
-        "source": "연합뉴스·대법원",
-        "kind": "article",
-        "event_key": "kim-keon-hee-additional-detention-warrant-hearing-20261022",
-        "why": "구속 만료 직전 추가 영장 여부를 대법원이 직접 심문한다는 절차적 중요성이 크다.",
-        "angle": "31일 구속 만료→특검의 직권 발부 요청→27일 심문→발부 여부로 정리한다.",
-        "why_now": "대법원이 22일 심문 일정을 27일로 확정해 공개했다.",
-        "verified_at": 1792675734,
-        "published_at": 1792657980,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261022174200004",
-            "note": "연합뉴스 속보와 후속 보도에서 27일 심문 일정, 31일 만료, 특검 요청 배경을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261022174200004",
-            "label": "본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "심문 예정 단계이며 추가 영장 발부가 확정된 것은 아니다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "연합뉴스 속보와 후속 보도에서 27일 심문 일정, 31일 만료, 특검 요청 배경을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: 핵심 장면·수치",
-            "2장: 이전 상태와 달라진 점",
-            "3장: 결과와 지금의 영향"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "본문",
-            "url": "https://www.yna.co.kr/view/AKR20261022174200004"
-          }
-        ],
-        "excerpt": "",
-        "context": "대법원이 22일 심문 일정을 27일로 확정해 공개했다.",
-        "fetched_at": 1792675929,
-        "parser_revision": 7
-      },
-      "curation_event_key": "kim-keon-hee-additional-detention-warrant-hearing-20261022"
-    },
-    "3b0ed6667af1": {
-      "source": "Reuters·Tour de France",
-      "title": "2027 투르 드 프랑스, 15년 만에 가장 긴 타임트라이얼…여자부는 퓌드돔 결승",
-      "link": "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
-      "first_seen_at": 1792675929,
-      "last_seen_at": 1792675929,
-      "samples": [
-        {
-          "at": 1792675929,
-          "views": null,
-          "reactions": null,
-          "rank": 11,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "3b0ed6667af1",
-      "editorial": {
-        "title": "2027 투르 드 프랑스, 15년 만에 가장 긴 타임트라이얼…여자부는 퓌드돔 결승",
-        "category": "메이저 스포츠",
-        "url": "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
-        "source": "Reuters·Tour de France",
-        "kind": "article",
-        "event_key": "tour-de-france-2027-routes-time-trial-puy-de-dome-20261022",
-        "why": "남자 71km 타임트라이얼과 여자 퓌드돔 정상 결승이 동시에 공개돼 지도형 카드가 가능하다.",
-        "angle": "남자 38+33km→2012년 이후 최장→여자 런던 팀타임트라이얼→퓌드돔 결승으로 전개한다.",
-        "why_now": "2027 남녀 대회 전체 코스가 22일 공식 발표됐다.",
-        "verified_at": 1792675734,
-        "published_at": 1792665261,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
-            "note": "Reuters 본문에서 남자 3,479km·타임트라이얼 71km, 여자 1,156km·9개 스테이지를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/",
-            "label": "본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "2027년 예정 코스이며 실제 참가자·결과는 미정이다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "Reuters 본문에서 남자 3,479km·타임트라이얼 71km, 여자 1,156km·9개 스테이지를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: 핵심 장면·수치",
-            "2장: 이전 상태와 달라진 점",
-            "3장: 결과와 지금의 영향"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "본문",
-            "url": "https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/"
-          }
-        ],
-        "excerpt": "",
-        "context": "2027 남녀 대회 전체 코스가 22일 공식 발표됐다.",
-        "fetched_at": 1792675929,
-        "parser_revision": 7
-      },
-      "curation_event_key": "tour-de-france-2027-routes-time-trial-puy-de-dome-20261022"
-    },
-    "e7b101b853e5": {
-      "source": "Reuters·AIU",
-      "title": "도핑 2년 징계가 ‘가짜 처방전’ 때문에 6년으로 늘었다",
-      "link": "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
-      "first_seen_at": 1792675929,
-      "last_seen_at": 1792675929,
-      "samples": [
-        {
-          "at": 1792675929,
-          "views": null,
-          "reactions": null,
-          "rank": 12,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "e7b101b853e5",
-      "editorial": {
-        "title": "도핑 2년 징계가 ‘가짜 처방전’ 때문에 6년으로 늘었다",
-        "category": "메이저 스포츠",
-        "url": "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
-        "source": "Reuters·AIU",
-        "kind": "article",
-        "event_key": "ruti-aga-six-year-doping-ban-fake-prescription-20261022",
-        "why": "약물 양성보다 조사 방해와 가짜 처방전 때문에 징계가 세 배가 된 반전이 명확하다.",
-        "angle": "금지약물 양성 2년→허위 진술·가짜 처방전→추가 4년으로 구성한다.",
-        "why_now": "AIU가 22일 도쿄마라톤 우승자 루티 아가의 6년 징계를 발표했다.",
-        "verified_at": 1792675734,
-        "published_at": 1792668623,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
-            "note": "Reuters 본문에서 약물 종류, 기본 2년, 위조 처방전과 추가 4년, 징계 시작일을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/",
-            "label": "본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "선수 측 항소 여부는 본문에서 확인되지 않았다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "Reuters 본문에서 약물 종류, 기본 2년, 위조 처방전과 추가 4년, 징계 시작일을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: 핵심 장면·수치",
-            "2장: 이전 상태와 달라진 점",
-            "3장: 결과와 지금의 영향"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "본문",
-            "url": "https://www.reuters.com/sports/ethiopias-aga-handed-six-year-doping-ban-aiu-says-2026-10-22/"
-          }
-        ],
-        "excerpt": "",
-        "context": "AIU가 22일 도쿄마라톤 우승자 루티 아가의 6년 징계를 발표했다.",
-        "fetched_at": 1792675929,
-        "parser_revision": 7
-      },
-      "curation_event_key": "ruti-aga-six-year-doping-ban-fake-prescription-20261022"
     }
   },
-  "updated_at": 1793271807
+  "updated_at": 1793283141
 }
