@@ -1,508 +1,445 @@
 {
   "version": 2,
-  "hour_utc": "2026102905",
+  "hour_utc": "2026102908",
   "reviewer": "ChatGPT",
-  "generated_at": 1793250711,
+  "generated_at": 1793261037,
   "coverage": {
     "queries": [
-      "\"2026.10.29\" 축구 \"공식\" \"논란\" -음바페 -아스널 -황희찬",
-      "\"2026.10.29\" 아이브 에스파 \"유튜브\" -순위 -컴백",
-      "\"2026.10.29\" \"판결\" \"반전\" -윤석열 -오세훈",
-      "\"2026.10.29\" \"돈\" \"적발\" -보험 -유가",
-      "\"2026.10.29\" \"구속\" \"사기\" -보험 -역삼 -북한",
-      "\"2026.10.29\" \"여돌\" -순위",
-      "\"2026.10.29\" \"벌금\" \"선고\" -윤석열 -오세훈 -공진단 -김바다",
-      "\"2026.10.29\" \"축구\" \"웃음\"",
-      "\"2026.10.29\" \"강제\" \"환불\"",
-      "\"2026.10.29\" \"세슈코\" 부상",
-      "\"2026.10.29\" \"아이돌\" \"고백\" -순위",
-      "\"2026.10.29\" \"억\" \"빼돌\" -시세 -보험",
-      "\"2026.10.29\" \"법원\" \"뒤집\" -오세훈 -영장",
-      "\"2026.10.29\" \"관세청\" \"에르메스\"",
-      "\"2026.10.29\" \"울릉\" \"감금\"",
-      "\"2026.10.29\" \"법원\" \"무죄\" -오세훈 -내란 -김건희",
-      "\"2026.10.29\" \"반환\" -분담금 -계엄",
-      "\"2026.10.29\" \"황당\" \"발언\"",
-      "\"2026.10.29\" \"입건\" -역삼",
-      "\"2026.10.29\" \"차단\" \"유출\"",
-      "\"2026.10.29\" \"강아지\" \"휴대전화\"",
-      "\"2026.10.29\" \"구자철\" \"제주\" \"반박\"",
-      "\"2026.10.29\" \"레드벨벳\" \"유튜브\"",
-      "\"2026.10.29\" \"카리나\" \"실수\"",
-      "site.news.kbs.co.kr 2026.10.28 \"유치원\" \"휴대전화\" 강아지",
-      "\"예리미즈\" \"나연 언니랑 등산했어요\"",
-      "\"2026.10.29\" \"쿠팡\" \"입건\" 화재",
-      "\"제주SK\" \"2026.10.29\" \"개입\" 공식",
-      "\"2026.10.29\" \"유시민\" \"임기\"",
-      "\"2026.10.29\" \"헤이지니\" \"영수증\"",
-      "\"2026.10.29\" \"네이마르\" \"비니시우스\"",
-      "\"2026.10.29\" \"아이\" \"안내 방송\""
+      "\"2026.10.29\" \"모레노\" \"사과\"",
+      "\"2026.10.29\" \"아이돌\" \"실수\" -순위",
+      "\"2026.10.29\" \"황당\" -유시민 -세슈코",
+      "\"2026.10.29\" \"적발\" \"돈\" -보험 -노쇼 -대교",
+      "\"2026.10.29\" \"장원영\" \"말\"",
+      "\"2026.10.29\" \"에스파\" \"웃음\"",
+      "\"2026.10.29\" \"사기\" \"구속\" -노쇼 -보이스피싱",
+      "\"2026.10.29\" \"환불\" -주택 -헤이지니",
+      "\"2026.10.29\" \"선고\" \"벌금\" -오세훈 -윤석열 -공진단 -김바다",
+      "\"2026.10.29\" \"철회\" \"논란\"",
+      "\"2026.10.29\" \"아이브\" \"유튜브\" -순위 -컴백 -풀뱅",
+      "\"2026.10.29\" \"황당\" \"병원\"",
+      "\"2026.10.29\" \"법원\" \"반환\"",
+      "\"2026.10.29\" \"압수\" \"적발\" -보험 -노쇼",
+      "\"2026.10.29\" \"팬\" \"거절\" -강레오 -김재중 -박승수",
+      "\"2026.10.29\" \"유치원\" -애견 -강아지",
+      "\"2026.10.29\" \"설윤\" -씻어 -배이 -인기가요",
+      "\"2026.10.29\" \"르세라핌\" \"고백\"",
+      "\"2026.10.29\" \"장원영\" \"자막\"",
+      "\"2026.10.29\" \"강연\" \"고성\"",
+      "\"2026.10.29\" \"잼 어디\"",
+      "\"2026.10.29\" \"낚시\" \"살려주세요\"",
+      "\"2026.10.29\" \"카리나\" \"대화\" -뉴욕",
+      "\"2026.10.29\" \"허진호\" \"강연\"",
+      "\"낚시하다 사라진 20대\" \"2026\"",
+      "\"잼 어디 갔지\" \"2026\"",
+      "\"허진호\" \"뭐하냐\" 2026",
+      "\"2026.10.29\" \"엔믹스\" \"해원\" 유튜브",
+      "\"2026.10.29\" \"몰수\" \"중국\" 어선",
+      "\"2026.10.29\" \"화장실\" \"잠금\"",
+      "\"2026.10.29\" \"사칭\" -노쇼 -금감원 -피싱",
+      "\"2026.10.29\" \"교사\" \"체포\""
     ],
     "opened_urls": [
       "https://www.sidae.com/article/2026102811552323724",
-      "https://www.interfootball.co.kr/news/articleView.html?idxno=697370",
+      "https://www.chosun.com/sports/football/2026/10/29/742THGPGOBFPLOHAGJVYJTN6UI/",
       "https://www.instagram.com/bythepulse/",
-      "https://www.newsis.com/view/NISX20261029_0003845661",
-      "https://www.fnnews.com/news/202610291101119626",
-      "https://www.fnnews.com/news/202610290843330492",
-      "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261029_0003845776",
-      "https://news.ifm.kr/news/articleView.html?idxno=482933",
-      "https://world.kbs.co.kr/service/index.htm?lang=k",
-      "https://www.xportsnews.com/article/2212779",
-      "https://www.mt.co.kr/amp/society/2026/10/29/2026102909474790373",
-      "https://www.fnnews.com/news/202610290637137161",
-      "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261029_0003846387",
-      "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039224",
-      "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601257",
-      "https://www.newsis.com/view/NISX20261029_0003846018",
-      "https://news.kbs.co.kr/news/view.do?ncd=8697917",
-      "https://www.mk.co.kr/news/society/12189628",
-      "https://news.kbs.co.kr/news/view.do?ncd=8697465",
-      "https://image.xportsnews.com/contents/images/upload/article/2026/1029/1793248376171685.webp",
-      "https://image.xportsnews.com/contents/images/upload/article/2026/1029/1793248422079954.webp",
-      "https://image.xportsnews.com/contents/images/upload/article/2026/1029/1793248400015262.webp",
-      "https://image.fnnews.com/resource/media/image/2026/10/29/202610290650521579_l.jpg"
+      "https://www.fnnews.com/news/202610291102479439",
+      "https://www.yna.co.kr/view/AKR20261029150800007",
+      "https://biz.chosun.com/topics/law_firm/2026/10/29/5K7KCT6IOFFSTGGTQUFI7CFW6A/",
+      "https://www.mk.co.kr/news/society/12189671",
+      "https://www.newsis.com/view/NISX20261029_0003846101",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821347",
+      "https://www.asiae.co.kr/article/incidents-accidents/2026102909024687482",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008820881",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008820638",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008820490",
+      "https://www.sbs.co.kr/m?s=09",
+      "https://www.newsis.com/view/NISX20261029_0003846550",
+      "https://img.sbs.co.kr/newimg/news/20261029/202235971_1280.jpg"
     ],
     "unavailable": [
-      "경향신문 쿠팡 화재 AMP 403: 독립 원문 기호일보·매일경제로 전환",
-      "YouTube 예리미즈 원본 429: 반복 요청 없이 실제 공개 캡처·제작사 인용 기사 검토",
-      "Instagram @bythepulse 공개 페이지는 로그인 안내만 노출: 게시물 대조 불가; 공개 sent/uncertain 사건·URL 식별자 352건 대조"
+      "조선일보 모레노 기사 HTTP200이나 본문 미노출: 현장 연합뉴스 일문일답으로 전환",
+      "KBS 주민 수색 보도 404: 제외",
+      "Instagram 공개 프로필은 로그인 안내만 노출: 게시물 대조 불가; 공개 최근7일 sent/uncertain 362건 사건·URL·자료 식별자 대조"
     ]
   },
   "picks": [
     {
-      "title": "다이어트하다 운 예리…힘들어서가 아니라 식욕 줄어드는 게 싫어서",
-      "category": "아이돌",
-      "url": "https://www.xportsnews.com/article/2212779",
-      "source": "엑스포츠뉴스",
-      "kind": "article",
-      "event_key": "yeri-nayeon-hiking-diet-appetite-conversation-20261028",
-      "why": "체중 감량 성공이 오히려 서럽다는 반전과 그 이유를 먼저 아는 나연의 절친 반응이 한 장에 잡힌다.",
-      "angle": "백숙 앞 예리의 먹는 낙 고백 → 나연이 짚어낸 뜻밖의 눈물 이유",
-      "why_now": "예리미즈 원본은 10/28 공개(기사 확인·시각 미확인), 10/29 13:40 보도. 미발송 24~48h 범위에서 채택.",
-      "verified_at": 1793250460,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://www.xportsnews.com/article/2212779",
-          "note": "기사 본문과 식사 대화 캡처 3장을 실제 확인했다. 예리의 식사 장면, 나연의 다이어트 시작 때 눈물 언급과 식욕 감소가 싫다는 자막이 보인다. 전체 영상·정확한 타임코드는 확인하지 않았다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://image.xportsnews.com/contents/images/upload/article/2026/1029/1793248376171685.webp",
-          "label": "식사 대화 실제 캡처",
-          "kind": "image"
-        },
-        {
-          "url": "https://image.xportsnews.com/contents/images/upload/article/2026/1029/1793248422079954.webp",
-          "label": "눈물 이유 실제 자막",
-          "kind": "image"
-        }
-      ],
-      "caution": "원본 10/28 시각 미확인·영상 재생 차단. 실제 캡처만 검토.",
-      "readiness": {
-        "mode": "scene",
-        "event_date": "2026-10-28",
-        "observation": "기사 본문과 식사 대화 캡처 3장을 실제 확인했다. 예리의 식사 장면, 나연의 다이어트 시작 때 눈물 언급과 식욕 감소가 싫다는 자막이 보인다. 전체 영상·정확한 타임코드는 확인하지 않았다.",
-        "checked_materials": [
-          "https://image.xportsnews.com/contents/images/upload/article/2026/1029/1793248376171685.webp",
-          "https://image.xportsnews.com/contents/images/upload/article/2026/1029/1793248422079954.webp"
-        ],
-        "outline": [
-          "식사 캡처로 예리의 먹는 즐거움을 소개",
-          "다이어트가 힘들어서 운 것이냐는 예상과 나연의 반응을 대비",
-          "식욕이 사라지는 자신이 싫다는 반전으로 마무리"
-        ]
-      }
-    },
-    {
-      "title": "강아지 향해 휴대전화 던진 원장…견주에겐 계단 사고라 설명",
+      "title": "600만~1000만원 FSD 옵션, 구현 안 돼도 환불 불가…차주 89명 패소",
       "category": "시사",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8697917",
-      "source": "현장 취재 보도",
+      "url": "https://www.mk.co.kr/news/society/12189671",
+      "source": "매일경제",
       "kind": "article",
-      "event_key": "dog-daycare-phone-throw-death-cctv-kbs-20261028",
-      "why": "안전하게 맡긴 유치원에서 벌어진 행동과 CCTV 요구 뒤 바뀐 설명이 정면으로 충돌한다.",
-      "angle": "원장의 투척 보도 화면 → 계단에서 떨어졌다는 최초 설명",
-      "why_now": "사건은 10/12, 최초 확인 보도는 KBS 10/28 21:17:04. 새 CCTV 공개·견주 고발 보도이며 재기사 시각으로 바꾸지 않았다.",
-      "verified_at": 1793250558,
-      "published_at": 1793189824,
+      "event_key": "tesla-hw3-fsd-option-refund-lawsuit-dismissed-20261029",
+      "why": "기능을 못 썼다는 소비자와 규제·기술 조건이 붙은 계약이라는 법원의 판단이 정면으로 갈린다.",
+      "angle": "옵션값은 미리 냈는데, 불확실성도 구매자가 감수?",
+      "why_now": "10/29 11:16:45 최초 보도·11:23:05 수정. 오늘 서울중앙지법 1심 선고다.",
+      "verified_at": 1793260831,
+      "published_at": 1793240205,
       "evidence": [
         {
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8697917",
-          "note": "KBS 원보도 전문과 인터뷰를 확인했다. 재인용된 실제 KBS 화면에서 원장의 뻗은 팔과 공중의 휴대전화·반려견을 확인했다. 사망은 본문 취재에 근거하며 전체 동영상을 시청하지 않았다."
-        },
-        {
-          "url": "https://www.fnnews.com/news/202610290637137161",
-          "note": "독립 보도 본문으로 수사 결론과 확인 한계를 교차 확인."
+          "url": "https://www.mk.co.kr/news/society/12189671",
+          "note": "본문에서 차주 89명 청구 기각과 규제 승인·기술 발전을 조건으로 한 계약 판단을 확인했다. 일부 주행보조 기능은 제공됐으며 판결문 전체·확정 여부는 확인하지 않았다."
         }
       ],
       "materials": [
         {
-          "url": "https://image.fnnews.com/resource/media/image/2026/10/29/202610290650521579_l.jpg",
-          "label": "KBS 투척 장면 보도 캡처",
-          "kind": "image"
-        }
-      ],
-      "caution": "사망은 KBS 취재 내용. 벌금형은 전망이며 확정 판결 아님.",
-      "readiness": {
-        "mode": "scene",
-        "event_date": "2026-10-12",
-        "observation": "KBS 원보도 전문과 인터뷰를 확인했다. 재인용된 실제 KBS 화면에서 원장의 뻗은 팔과 공중의 휴대전화·반려견을 확인했다. 사망은 본문 취재에 근거하며 전체 동영상을 시청하지 않았다.",
-        "checked_materials": [
-          "https://image.fnnews.com/resource/media/image/2026/10/29/202610290650521579_l.jpg"
-        ],
-        "outline": [
-          "투척 직전후 보도 정지 화면을 출처와 함께 제시",
-          "사고 1시간 뒤 계단 사고 설명과 이틀 뒤 CCTV 요구를 시간순으로 대비",
-          "견주 고발과 영업 지속을 소개하되 형량은 아직 정해지지 않았다고 명시"
-        ]
-      }
-    },
-    {
-      "title": "유출 경고 받고도 대응 소홀…대교 65만명 정보 또 새고 32.55억 과징금",
-      "category": "시사",
-      "url": "https://www.fnnews.com/news/202610291101119626",
-      "source": "현장 취재 보도",
-      "kind": "article",
-      "event_key": "daekyo-repeat-data-breach-warning-penalty-20261029",
-      "why": "첫 침해 경고를 받았는데 같은 방식으로 재발했다는 원인과 소비자 피해 규모가 맞물린다.",
-      "angle": "보안 경고 → 미흡한 대응 → 같은 방식 재유출",
-      "why_now": "10/28 개인정보위 의결, 10/29 공개. 유출은 2024/8·2025/2의 과거 사고이고 새 사실은 제재·조사 결과다.",
-      "verified_at": 1793250327,
-      "published_at": 1793239272,
-      "evidence": [
-        {
-          "url": "https://www.fnnews.com/news/202610291101119626",
-          "note": "연합뉴스 원문 전재 본문에서 65만명, 32억5500만원, 관계사 서버 연결과 경고 후 대응 소홀을 확인했다. 개인정보 원본은 열람하지 않았다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.fnnews.com/news/202610291101119626",
-          "label": "확인한 원문",
+          "url": "https://www.mk.co.kr/news/society/12189671",
+          "label": "확인한 취재 원문",
           "kind": "source"
         }
       ],
-      "caution": "2024~25년 유출의 새 제재 발표. 오늘 새로 해킹된 사건 아님.",
+      "caution": "모든 FSD 기능 미제공 또는 판결 확정으로 쓰지 말 것.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-10-29",
-        "observation": "연합뉴스 원문 전재 본문에서 65만명, 32억5500만원, 관계사 서버 연결과 경고 후 대응 소홀을 확인했다. 개인정보 원본은 열람하지 않았다.",
+        "observation": "본문에서 차주 89명 청구 기각과 규제 승인·기술 발전을 조건으로 한 계약 판단을 확인했다. 일부 주행보조 기능은 제공됐으며 판결문 전체·확정 여부는 확인하지 않았다.",
         "checked_materials": [],
         "outline": [
-          "두 차례 유출 시점과 보안 경고의 순서를 도식화",
-          "이름·생년월일·전화번호 등이 유출된 회원 규모 소개",
-          "과징금과 사고 대응체계 정비 명령으로 연결"
+          "옵션 가격과 89명 환불 청구를 제시",
+          "소비자 주장과 불확정기한부 계약이라는 법원 판단을 대비",
+          "일부 기능 제공·HW3 적용 범위와 1심이라는 한계로 회수"
         ]
       }
     },
     {
-      "title": "구자철이 감독 선임·수수료 좌우? 제주SK “개입·개인 이익 없었다”",
+      "title": "장관이 교체 권고한 황현필 강연 강행…객석 고성에 본인은 왜곡 부인",
+      "category": "시사",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008820881",
+      "source": "SBS",
+      "kind": "article",
+      "event_key": "hwang-hyun-pil-gyeonggi-lecture-protest-response-20261028",
+      "why": "강사 교체 권고→강연 진행→객석 항의→당사자 반박으로 요청과 대응의 흐름이 완결된다.",
+      "angle": "교체 권고에도 열린 강연, 객석 항의와 연단 반박",
+      "why_now": "강연·집회는 10/28. SBS 취재 보도 10/29 12:43:02·수정 13:04:43을 확인했다.",
+      "verified_at": 1793260900,
+      "published_at": 1793245382,
+      "evidence": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008820881",
+          "note": "SBS 취재 본문에서 학부모 단체의 역사 왜곡 주장, 객석 고성, 황현필의 반박과 교육부 장관의 교체 권고를 확인했다. 기사 영상 전체는 시청하지 않았고 역사 해석의 진위는 판단하지 않았다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008820881",
+          "label": "확인한 취재 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "왜곡 여부를 확정하지 말고 주장·반박 구별. 영상 미시청.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-28",
+        "observation": "SBS 취재 본문에서 학부모 단체의 역사 왜곡 주장, 객석 고성, 황현필의 반박과 교육부 장관의 교체 권고를 확인했다. 기사 영상 전체는 시청하지 않았고 역사 해석의 진위는 판단하지 않았다.",
+        "checked_materials": [],
+        "outline": [
+          "교체 권고와 강연 강행의 순서를 날짜와 함께 제시",
+          "학부모 단체 주장과 황현필 반박을 발화자별로 구분",
+          "천안함 관련 발언 의혹도 본인이 부인했다는 범위만 설명"
+        ]
+      }
+    },
+    {
+      "title": "“사람 죽였다” 신고에 경찰31명·소방9명…살인은 없었다",
+      "category": "시사",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008820638",
+      "source": "SBS",
+      "kind": "article",
+      "event_key": "uijeongbu-false-murder-112-call-arrest-20261029",
+      "why": "관심을 받으려 했다는 허위 신고 하나가 40명의 출동으로 커진 황당한 인력 낭비가 직관적이다.",
+      "angle": "살인 자수 전화 → 40명 출동 → 살인 사건 없음",
+      "why_now": "허위 신고는 10/28 08:30경, 경찰 수사 공개 보도는 10/29 10:29:37.",
+      "verified_at": 1793260831,
+      "published_at": 1793237377,
+      "evidence": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008820638",
+          "note": "경찰 취재 본문에서 허위 112 신고, 경찰 31명·소방 9명·차량 11대 출동과 긴급체포를 확인했다. 동기는 피의자 진술이며 구속영장은 신청 방침 단계다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008820638",
+          "label": "확인한 취재 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "피의자 진술·혐의 단계. 실제 살인 사건으로 오인시키지 말 것.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-28",
+        "observation": "경찰 취재 본문에서 허위 112 신고, 경찰 31명·소방 9명·차량 11대 출동과 긴급체포를 확인했다. 동기는 피의자 진술이며 구속영장은 신청 방침 단계다.",
+        "checked_materials": [],
+        "outline": [
+          "자수 전화와 현장 확인 결과를 대비",
+          "경찰·소방 출동 규모를 나누어 표시",
+          "관심 부족 불만이라는 진술과 공무집행방해 수사 단계 제시"
+        ]
+      }
+    },
+    {
+      "title": "은퇴 소동 뒤 전원 재소집…모레노 “훈련보다 대화”, 손흥민 주장 유지",
       "category": "축구",
-      "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601257",
-      "source": "현장 취재 보도",
+      "url": "https://www.yna.co.kr/view/AKR20261029150800007",
+      "source": "연합뉴스",
       "kind": "article",
-      "event_key": "jeju-sk-kooja-cheol-advisor-allegations-club-rebuttal-20261029",
-      "why": "구단이 자문역에게 책임을 돌린 의혹에 공식 의사결정과 회계를 들며 정면 대응한다. 한국 팬이 따질 권한·돈 문제가 구체적이다.",
-      "angle": "자문역 개인 개입 의혹 ↔ 정식 구단 절차였다는 반박",
-      "why_now": "10/29 낮 구단 공식 SNS 반박을 인용한 12:58:07 현지 보도. 원 SNS 정확한 최초 게시분은 미확인.",
-      "verified_at": 1793250460,
-      "published_at": null,
+      "event_key": "moreno-press-conference-96line-son-recall-captain-20261029",
+      "why": "갈등설 뒤 첫 명단에서 네 선수를 모두 부르고 주장까지 유지한 감독의 구체적 답변이 한국 팬의 핵심 질문에 닿는다.",
+      "angle": "불화설의 네 사람 모두 재소집, 주장은 그대로",
+      "why_now": "10/29 오후 명단 발표 기자회견의 새 설명. 연합뉴스 현장 일문일답 15:33:20 공개.",
+      "verified_at": 1793260849,
+      "published_at": 1793255600,
       "evidence": [
         {
-          "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601257",
-          "note": "현지 취재 본문의 구단 성명을 확인했다. 감독 선임 개입·개인 수수료 이익을 부인하고 뮌헨 제주 투어도 구단 추진 사안이라고 밝혔다. 원계약·회계자료와 의혹의 진위는 확인하지 않았다."
+          "url": "https://www.yna.co.kr/view/AKR20261029150800007",
+          "note": "현장 일문일답 본문에서 직접 대면·선수 간 대화, 훈련보다 소통에 많은 시간을 썼다는 설명, 손흥민 주장 유지와 96라인 재소집을 확인했다. 사적 대화 내용과 실제 화해 여부는 공개되지 않았다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601257",
-          "label": "확인한 원문",
+          "url": "https://www.yna.co.kr/view/AKR20261029150800007",
+          "label": "확인한 취재 원문",
           "kind": "source"
         }
       ],
-      "caution": "구단 반박을 확인한 것. 의혹 사실 또는 해명 입증으로 단정 금지.",
+      "caution": "갈등 해소는 감독 설명. 선수 전원의 실제 화해를 확인한 것은 아님.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-10-29",
-        "observation": "현지 취재 본문의 구단 성명을 확인했다. 감독 선임 개입·개인 수수료 이익을 부인하고 뮌헨 제주 투어도 구단 추진 사안이라고 밝혔다. 원계약·회계자료와 의혹의 진위는 확인하지 않았다.",
+        "observation": "현장 일문일답 본문에서 직접 대면·선수 간 대화, 훈련보다 소통에 많은 시간을 썼다는 설명, 손흥민 주장 유지와 96라인 재소집을 확인했다. 사적 대화 내용과 실제 화해 여부는 공개되지 않았다.",
         "checked_materials": [],
         "outline": [
-          "의혹은 의혹으로 표시하고 구단 반박과 나란히 배치",
-          "선임 절차·수수료 귀속·뮌헨 투어를 구단 해명 범위에서 구분",
-          "추가 자료·법적 검토 예고를 전하고 결론을 유보"
+          "은퇴 소동 후 네 사람 재소집이라는 선택 제시",
+          "훈련보다 대화에 시간을 썼다는 감독 설명 연결",
+          "주장 유지와 사적 대화 비공개라는 확인 한계 명시"
         ]
       }
     },
     {
-      "title": "공사 준다며 기계부터 사달라…인테리어 업자 72명에 20억 노쇼 사기",
+      "title": "집 3채 동생에게 팔았다 다시 샀는데 돈 이동 0…비과세 명의신탁 의심",
       "category": "시사",
-      "url": "https://www.newsis.com/view/NISX20261029_0003846018",
-      "source": "현장 취재 보도",
+      "url": "https://www.fnnews.com/news/202610291102479439",
+      "source": "뉴시스",
       "kind": "article",
-      "event_key": "cheongju-airline-impersonation-interior-proxy-purchase-fraud-20261029",
-      "why": "일감을 따려다 공사도 시작 전에 가짜 납품업체로 돈을 보내는 거래 구조의 역전이 선명하다.",
-      "angle": "큰 공사 약속 → 대신 기계 구매 → 돈 받은 업체 잠적",
-      "why_now": "범행은 2~6월, 새 사실은 10/29 경찰의 일당 4명 송치 발표. 등록 09:57:44·수정 11:16:08을 구별.",
-      "verified_at": 1793250290,
-      "published_at": 1793235464,
+      "event_key": "molit-housing-abnormal-transactions-678-disclosure-20261029",
+      "why": "집이 서류상 오가는 사이 다른 집을 팔아 1주택 비과세를 노렸다는 구체 사례가 거래 건수보다 강하다.",
+      "angle": "집 3채를 넘겼다 되샀는데 실제 매매대금은 없었다",
+      "why_now": "10/29 국토부 이상거래 조사 결과 발표. 기사 11:02:48, 원 뉴시스 발표 보도는 11:00. 과거 거래의 새 조사 공개다.",
+      "verified_at": 1793260831,
+      "published_at": 1793239200,
       "evidence": [
         {
-          "url": "https://www.newsis.com/view/NISX20261029_0003846018",
-          "note": "뉴시스 경찰 취재 본문에서 항공사 직원 사칭, 72명·20억여원, 허위 업체로의 대리구매 유도와 3명 구속 송치를 확인했다. 피해금 회수·유죄 확정은 확인되지 않았다."
+          "url": "https://www.fnnews.com/news/202610291102479439",
+          "note": "조사 보도에서 작년 7월 아파트 3채를 동생에게 매도 후 올해 2월 재매수, 실제 대금 미지급과 그 사이 별도 아파트 매도를 확인했다. 명의신탁·탈세는 조사상 의심이며 확정 처분이 아니다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.newsis.com/view/NISX20261029_0003846018",
-          "label": "확인한 원문",
+          "url": "https://www.fnnews.com/news/202610291102479439",
+          "label": "확인한 취재 원문",
           "kind": "source"
         }
       ],
-      "caution": "피의사실·송치 단계. 범행 기간과 발표일을 구별.",
+      "caution": "위법 의심·통보 단계. 유죄·절세 성공으로 확정하지 말 것.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-10-29",
-        "observation": "뉴시스 경찰 취재 본문에서 항공사 직원 사칭, 72명·20억여원, 허위 업체로의 대리구매 유도와 3명 구속 송치를 확인했다. 피해금 회수·유죄 확정은 확인되지 않았다.",
+        "observation": "조사 보도에서 작년 7월 아파트 3채를 동생에게 매도 후 올해 2월 재매수, 실제 대금 미지급과 그 사이 별도 아파트 매도를 확인했다. 명의신탁·탈세는 조사상 의심이며 확정 처분이 아니다.",
         "checked_materials": [],
         "outline": [
-          "공사를 주겠다는 제안과 선구매 요구를 거래 순서로 설명",
-          "등록증·견적서로 안심시킨 뒤 잠적한 점을 짚기",
-          "4명 송치와 도주 일당 추적이라는 현재 수사 단계 제시"
+          "3채 매도→별도 아파트 매도→3채 재매수 순서 설명",
+          "실제 대금이 움직이지 않았다는 조사 내용을 표시",
+          "678건 위법 의심거래 적발과 후속 기관 통보로 연결"
         ]
       }
     },
     {
-      "title": "가짜 영장 소리 내 읽게 했다…81억 피싱 피해자 대부분 20·30대",
+      "title": "엄마는 총책·아들은 자금세탁…짝퉁 6093점 숨긴 비밀창고 적발",
       "category": "시사",
-      "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261029_0003846387",
-      "source": "현장 취재 보도",
+      "url": "https://www.asiae.co.kr/article/incidents-accidents/2026102909024687482",
+      "source": "아시아경제",
       "kind": "article",
-      "event_key": "vietnam-daedongdangyeol-franchise-phishing-54-arrests-20261029",
-      "why": "기관 사칭뿐 아니라 피해자에게 영장을 반복 낭독시키는 심리 압박과 젊은 피해자 비중이 통념을 깨뜨린다.",
-      "angle": "가짜 영장을 읽게 한 조직, 본사·하부팀까지 있었다",
-      "why_now": "10/29 12:00 서울경찰청 수사 결과 공개. 조직은 2024년 결성, 이번 54명 검거·37명 구속은 새 발표다.",
-      "verified_at": 1793250290,
-      "published_at": 1793242800,
+      "event_key": "seongbuk-counterfeit-luxury-family-ring-referral-20261029",
+      "why": "가족·지인으로 역할을 나눈 유통 조직과 창고에 쌓인 가짜 명품이라는 구체적 구조가 잡힌다.",
+      "angle": "명품 비밀창고 뒤에는 엄마·아들의 역할 분담",
+      "why_now": "10/29 성북경찰서 송치 발표·10:02:38 보도. 범행은 2025/2~2026/2, 창고 적발은 올해 2/24다.",
+      "verified_at": 1793260831,
+      "published_at": 1793235758,
       "evidence": [
         {
-          "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261029_0003846387",
-          "note": "본문에서 대동단결 조직, 피해자 110명·81억원, 20대 76명·30대 27명, 허위 영장 반복 낭독 압박과 54명 검거를 확인했다. 피해자 개인정보·범행 장비는 열람하지 않았다."
+          "url": "https://www.asiae.co.kr/article/incidents-accidents/2026102909024687482",
+          "note": "경찰 취재 본문에서 총책 구속 송치, 아들의 영업·대금 세탁 역할과 위조품 6093점 압수를 확인했다. 355억원은 정품 시가 환산이며 실제 판매 수익과 다르다. 사진은 아직 직접 검토하지 않았다."
         }
       ],
       "materials": [
         {
-          "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261029_0003846387",
-          "label": "확인한 원문",
+          "url": "https://www.asiae.co.kr/article/incidents-accidents/2026102909024687482",
+          "label": "확인한 취재 원문",
           "kind": "source"
         }
       ],
-      "caution": "경찰 발표의 혐의 내용. 구속은 유죄 확정과 다름.",
+      "caution": "355억은 정품 시가 환산. 실제 매출·범죄 확정액으로 쓰지 말 것.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-10-29",
-        "observation": "본문에서 대동단결 조직, 피해자 110명·81억원, 20대 76명·30대 27명, 허위 영장 반복 낭독 압박과 54명 검거를 확인했다. 피해자 개인정보·범행 장비는 열람하지 않았다.",
+        "observation": "경찰 취재 본문에서 총책 구속 송치, 아들의 영업·대금 세탁 역할과 위조품 6093점 압수를 확인했다. 355억원은 정품 시가 환산이며 실제 판매 수익과 다르다. 사진은 아직 직접 검토하지 않았다.",
         "checked_materials": [],
         "outline": [
-          "영장 낭독을 강요하는 사칭 수법을 피해 예방 관점으로 소개",
-          "110명 중 103명이 20·30대라는 수사 결과 비교",
-          "본사와 하부팀 구조 및 37명 구속이라는 수사 결과로 끝내기"
+          "가족·지인으로 꾸린 조직과 역할 분담 제시",
+          "6093점 압수와 정품 시가 환산 355억원을 구분",
+          "판매 수익 혐의와 기소 전 추징보전·송치 단계를 설명"
         ]
       }
     },
     {
-      "title": "면허 없는 10대가 남의 면허증으로 렌터카…음주운전하다 펜스 충돌",
+      "title": "전직 택시기사가 택시만 노렸다…자전거 고의 충돌7번, 신고한다면 도주",
       "category": "시사",
-      "url": "https://www.mt.co.kr/amp/society/2026/10/29/2026102909474790373",
-      "source": "현장 취재 보도",
+      "url": "https://www.newsis.com/view/NISX20261029_0003846101",
+      "source": "뉴시스",
       "kind": "article",
-      "event_key": "magok-unlicensed-teen-stolen-license-rental-drunk-crash-20261029",
-      "why": "면허 없는 미성년자가 렌터카 운전석까지 들어간 신원 확인의 구멍과 음주 사고가 연결된다.",
-      "angle": "운전면허 없는 10대, 어떻게 렌터카를 빌렸나",
-      "why_now": "사고 10/29 00:30경 서울 마곡동, 최초 확인 기사 10:06:35. 동승자·인명피해 없다는 내용도 확인.",
-      "verified_at": 1793250327,
-      "published_at": 1793235995,
+      "event_key": "daejeon-former-taxi-driver-bicycle-staged-crash-fraud-20261029",
+      "why": "택시기사의 현금 합의 심리를 아는 전직 기사가 동료 직업군을 노렸다는 모순과 신고하면 떠난 행동이 선명하다.",
+      "angle": "현금 합의엔 머물고, 경찰 신고한다면 사라졌다",
+      "why_now": "10/29 10:22:14 경찰 송치 발표 보도. 범행 2023년~이달·구속은 10/23으로 구분.",
+      "verified_at": 1793260831,
+      "published_at": 1793236934,
       "evidence": [
         {
-          "url": "https://www.mt.co.kr/amp/society/2026/10/29/2026102909474790373",
-          "note": "경찰·소방 취재 본문에서 습득한 타인 면허증 사용, 무면허·면허정지 수준 음주, 공사장 철제 펜스 충돌을 확인했다. 렌터카 업체 인증 절차와 영상은 확인하지 못했다."
+          "url": "https://www.newsis.com/view/NISX20261029_0003846101",
+          "note": "경찰 취재 본문에서 자전거 고의 충돌 7차례·137만원, 신고 의사를 밝힌 4차례 현장 이탈, 과거 택시기사 경력을 확인했다. 재판 결과·실제 충돌 영상은 확인하지 않았다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.mt.co.kr/amp/society/2026/10/29/2026102909474790373",
-          "label": "확인한 원문",
+          "url": "https://www.newsis.com/view/NISX20261029_0003846101",
+          "label": "확인한 취재 원문",
           "kind": "source"
         }
       ],
-      "caution": "음주·공문서부정행사 조사 및 입건 예정. 인증 우회 방법 추정 금지.",
+      "caution": "경찰 발표의 피의사실. 피해 기사 전체 성향으로 일반화 금지.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-10-29",
-        "observation": "경찰·소방 취재 본문에서 습득한 타인 면허증 사용, 무면허·면허정지 수준 음주, 공사장 철제 펜스 충돌을 확인했다. 렌터카 업체 인증 절차와 영상은 확인하지 못했다.",
+        "observation": "경찰 취재 본문에서 자전거 고의 충돌 7차례·137만원, 신고 의사를 밝힌 4차례 현장 이탈, 과거 택시기사 경력을 확인했다. 재판 결과·실제 충돌 영상은 확인하지 않았다.",
         "checked_materials": [],
         "outline": [
-          "무면허 미성년자의 렌터카 사고라는 조합 제시",
-          "타인 면허증 부정 사용과 음주 상태를 기사 확인 범위로 설명",
-          "경찰 조사·입건 예정이며 인명피해 없음을 함께 표시"
+          "자전거로 택시에 고의 충돌했다는 혐의 제시",
+          "전직 기사 경력과 현금 합의 심리 악용을 연결",
+          "신고 시 이탈한 대조와 구속 송치로 마무리"
         ]
       }
     },
     {
-      "title": "인사 안 했다는 이유로? 40대 입주민 폭행에 60대 관리소장 골절",
+      "title": "펨코 산후조리원 글 인용한 대통령…비판 나오자 “누가 지적했든 시정”",
       "category": "시사",
-      "url": "https://news.ifm.kr/news/articleView.html?idxno=482933",
-      "source": "현장 취재 보도",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821347",
+      "source": "SBS",
       "kind": "article",
-      "event_key": "guri-acheon-villa-manager-assault-no-greeting-investigation-20261029",
-      "why": "일상 인사 여부가 관리노동자 폭행·골절로 이어졌다는 경찰의 사건 설명이 황당한 권력관계를 드러낸다.",
-      "angle": "인사를 받으려던 입주민, 관리소장은 골절로 병원행",
-      "why_now": "사건 10/26 17:20경, 이번 새 사실은 10/29 구리경찰서 입건·조사 발표. 오늘 발생한 폭행으로 쓰지 않음.",
-      "verified_at": 1793250327,
-      "published_at": 1793238250,
+      "event_key": "lee-multicultural-postpartum-priority-femco-response-20261029",
+      "why": "커뮤니티 예약 순위 문제 제기가 대통령의 제도 검토와 출처 논쟁으로 옮겨가는 실제 요청·반응의 흐름이다.",
+      "angle": "펨코 글 → 우대 검토 예고 → 출처 논란에 대통령 재반박",
+      "why_now": "10/28 게시물 인용 후 10/29 오전 X 반박. SBS 보도 15:05:51·수정 16:31:17을 구별.",
+      "verified_at": 1793260900,
+      "published_at": 1793253951,
       "evidence": [
         {
-          "url": "https://news.ifm.kr/news/articleView.html?idxno=482933",
-          "note": "경인방송 경찰 취재 본문에서 40대 입주민의 폭행·협박 혐의, 60대 관리소장 얼굴 골절을 확인했다. 인사 문제는 경찰이 보고 있는 동기이며 CCTV·피의자 진술은 미확인."
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821347",
+          "note": "SBS 본문에서 산후조리원 예약 순위 글 인용과 오늘 X 발언을 확인했다. 지원 지속과 과잉 특혜 경계를 함께 언급했다. 원 X 게시물·조례·실제 폐지 결정은 확인하지 않았다."
         }
       ],
       "materials": [
         {
-          "url": "https://news.ifm.kr/news/articleView.html?idxno=482933",
-          "label": "확인한 원문",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821347",
+          "label": "확인한 취재 원문",
           "kind": "source"
         }
       ],
-      "caution": "동기는 경찰 추정. 유죄·정확한 폭행 전후 대사는 단정 금지.",
+      "caution": "우대 폐지 확정 아님. 제도 검토·정치적 반박 발언 보도.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-10-29",
-        "observation": "경인방송 경찰 취재 본문에서 40대 입주민의 폭행·협박 혐의, 60대 관리소장 얼굴 골절을 확인했다. 인사 문제는 경찰이 보고 있는 동기이며 CCTV·피의자 진술은 미확인.",
+        "observation": "SBS 본문에서 산후조리원 예약 순위 글 인용과 오늘 X 발언을 확인했다. 지원 지속과 과잉 특혜 경계를 함께 언급했다. 원 X 게시물·조례·실제 폐지 결정은 확인하지 않았다.",
         "checked_materials": [],
         "outline": [
-          "날짜와 입주민·관리소장의 관계를 먼저 제시",
-          "인사 문제라는 경찰 추정 동기와 실제 골절 피해를 구분",
-          "불구속 입건·경위 조사 중이라는 현재 단계로 마무리"
+          "산후조리원 예약 2순위 문제 제기와 제도 검토 예고 소개",
+          "지원 후퇴·커뮤니티 인용에 대한 비판을 비판으로 표시",
+          "차별 방지 지원은 유지하되 과잉은 시정한다는 답변으로 회수"
         ]
       }
     },
     {
-      "title": "109시간 탄 쿠팡 물류센터…소방시설 정상·범죄 혐의 없이 수사 종결",
+      "title": "선장은 징역·배는 몰수했는데…재판 안 받은 선주에 어선 반환 판결",
       "category": "시사",
-      "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039224",
-      "source": "현장 취재 보도",
+      "url": "https://biz.chosun.com/topics/law_firm/2026/10/29/5K7KCT6IOFFSTGGTQUFI7CFW6A/",
+      "source": "조선비즈",
       "kind": "article",
-      "event_key": "incheon-coupang32-fire-no-criminal-charges-investigation-result-20261029",
-      "why": "장시간 대형 화재와 정상 작동한 소방시설, 특정 못한 최초 발화 제품이라는 조사 결과의 간극이 크다.",
-      "angle": "109시간 진화 뒤 돌아온 수사 결론: 위법 정황 못 찾았다",
-      "why_now": "화재는 7/18~22. 10/28 소방 합동조사·10/29 경찰 종결 발표가 새 사실. 재기사로 오래된 화재를 신규 취급하지 않음.",
-      "verified_at": 1793250481,
-      "published_at": 1793241720,
+      "event_key": "chinese-fishing-vessels-owner-return-remand-report-20261029",
+      "why": "형사 몰수가 확정된 배도 다른 소유자의 권리는 별개라는 판단이 단속 상식과 충돌한다.",
+      "angle": "선장은 처벌했는데 배의 주인은 형사재판을 받지 않았다",
+      "why_now": "10/29 단독 취재 공개(메타 최초 13:38:55·본문 표시15:15). 판결은 10/14, 나포는 2022/10으로 과거 시점을 명시.",
+      "verified_at": 1793260900,
+      "published_at": 1793248735,
       "evidence": [
         {
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039224",
-          "note": "기호일보와 매일경제 본문에서 소방시설 정상 작동·범죄 혐의 미발견 종결을 교차 확인했다. 리튬이온 배터리 발화 가능성은 있지만 훼손이 심해 최초 제품은 특정하지 못했다."
-        },
-        {
-          "url": "https://www.mk.co.kr/news/society/12189628",
-          "note": "독립 보도 본문으로 수사 결론과 확인 한계를 교차 확인."
+          "url": "https://biz.chosun.com/topics/law_firm/2026/10/29/5K7KCT6IOFFSTGGTQUFI7CFW6A/",
+          "note": "단독 취재 본문에서 어선 2척의 관리비 지급 조건부 반환, 몰수 효력이 피고인에 한정된다는 판단과 정부 상고 추진을 확인했다. 판결문 원문·상고 접수 여부는 직접 확인하지 않았다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039224",
-          "label": "확인한 원문",
+          "url": "https://biz.chosun.com/topics/law_firm/2026/10/29/5K7KCT6IOFFSTGGTQUFI7CFW6A/",
+          "label": "확인한 취재 원문",
           "kind": "source"
         }
       ],
-      "caution": "발화 제품·정확한 원인 미특정. 무혐의를 모든 책임 면제로 확대 금지.",
+      "caution": "10/14 판결의 오늘 취재 공개. 무조건 반환·모든 나포선 적용 아님.",
       "readiness": {
         "mode": "major_news",
-        "event_date": "2026-10-29",
-        "observation": "기호일보와 매일경제 본문에서 소방시설 정상 작동·범죄 혐의 미발견 종결을 교차 확인했다. 리튬이온 배터리 발화 가능성은 있지만 훼손이 심해 최초 제품은 특정하지 못했다.",
+        "event_date": "2026-10-14",
+        "observation": "단독 취재 본문에서 어선 2척의 관리비 지급 조건부 반환, 몰수 효력이 피고인에 한정된다는 판단과 정부 상고 추진을 확인했다. 판결문 원문·상고 접수 여부는 직접 확인하지 않았다.",
         "checked_materials": [],
         "outline": [
-          "7월 화재와 10월 조사 발표 날짜를 분리",
-          "소방시설 정상·위법 미발견과 배터리 발화 가능성을 함께 표시",
-          "최초 제품 미특정 한계와 보관 안전기준 개선 추진 제시"
+          "2022년 나포·선장 처벌과 10/14 반환 판결을 분리",
+          "형사재판을 받지 않은 선주의 소유권이라는 이유 제시",
+          "관리비 지급 조건과 정부 상고 추진, 확정 전 상태를 함께 표시"
         ]
       }
     },
     {
-      "title": "유시민, 李정부도 자기 기반 해체한다며 “극단적 경우 임기 못 채워” 경고",
-      "category": "시사",
-      "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261029_0003845776",
-      "source": "현장 취재 보도",
-      "kind": "article",
-      "event_key": "yoo-si-min-park-si-young-tv-lee-support-base-warning-20261028",
-      "why": "범여권 논객이 자기 진영을 무너뜨리는 정권이라는 비유를 들며 대통령·당 대표를 함께 겨눈 실제 발언이다.",
-      "angle": "자기 집을 허무는 딱정벌레 비유가 향한 곳은 현 정부",
-      "why_now": "발언은 10/28 박시영TV, 정확한 업로드 시각은 미확인. 10/29 08:43:27 보도와 09:21:23 수정을 구분.",
-      "verified_at": 1793250558,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261029_0003845776",
-          "note": "뉴시스 본문에 인용된 발언과 조건부 경고를 확인했다. 박시영TV 전체 영상은 시청하지 않았다. 임기 미완주는 유시민의 극단적 가정이며 실제 탄핵 절차 개시 사실이 아니다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261029_0003845776",
-          "label": "확인한 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "발언 보도 확인·영상 미시청. 탄핵 확정 또는 절차 개시로 쓰지 말 것.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-28",
-        "observation": "뉴시스 본문에 인용된 발언과 조건부 경고를 확인했다. 박시영TV 전체 영상은 시청하지 않았다. 임기 미완주는 유시민의 극단적 가정이며 실제 탄핵 절차 개시 사실이 아니다.",
-        "checked_materials": [],
-        "outline": [
-          "정부가 자기 지지 기반을 해체한다는 비유와 발언 출처 제시",
-          "임기를 못 채울 수도 있다는 발언의 극단적 경우 조건 보존",
-          "대통령·당 대표에 대한 비판과 사실 판단을 구별"
-        ]
-      }
-    },
-    {
-      "title": "참사 비방 362번 올렸다가 실형…이태원 2차 가해 판결 18건의 변화",
+      "title": "참사 비방362번에 실형…이태원 2차 가해 판결18건, 달라진 양형 이유",
       "category": "시사",
       "url": "https://www.sidae.com/article/2026102811552323724",
-      "source": "현장 취재 보도",
+      "source": "동행미디어 시대",
       "kind": "article",
       "event_key": "itaewon-secondary-harm-18-verdict-analysis-20261029",
-      "why": "초기의 가해자 반성 중심 양형에서 유족·사회 피해를 보는 판결로 바뀐 과정이 구체 사례로 드러난다.",
-      "angle": "처음엔 반성·전과, 이제는 유족과 사회에 남긴 피해",
-      "why_now": "10/29 04:30 새 판결문 18건 분석 보도. 인용 판결은 2023~26년 과거 선고이며 오늘 새 판결이 아님.",
-      "verified_at": 1793250290,
+      "why": "초기의 가해자 반성 중심 양형에서 유족과 사회 피해에 주목하는 판단으로 바뀐 과정이 구체 사례로 드러난다.",
+      "angle": "반성한다는 가해자보다 유족이 입은 피해로 시선 이동",
+      "why_now": "10/29 04:30 새 판결문 18건 분석 기사. 인용 선고는 2023~26년의 과거 판결이며 오늘 새 선고가 아니다.",
+      "verified_at": 1793260849,
       "published_at": 1793215800,
       "evidence": [
         {
           "url": "https://www.sidae.com/article/2026102811552323724",
-          "note": "동행미디어 시대의 분석 본문에서 판결 18건, 올해 6월 362차례 허위 주장 게시 사건 징역 6개월, 8월 다른 사건 징역 1년을 구별했다. 판결문 원문 18건 전체는 직접 열람하지 않았다."
+          "note": "분석 기사 본문에서 올해 6월 허위 주장 362회 게시 사건 징역 6개월과 8월 다른 사건 징역 1년을 구분했다. 판결문 18건 전체 원문은 직접 열람하지 않았다."
         }
       ],
       "materials": [
         {
           "url": "https://www.sidae.com/article/2026102811552323724",
-          "label": "확인한 원문",
+          "label": "확인한 취재 원문",
           "kind": "source"
         }
       ],
-      "caution": "분석 기사 확인·판결문 전체 미열람. 혐오 표현 원문 재확산 금지.",
+      "caution": "기사 분석 확인·판결문 전체 미열람. 혐오 표현 원문 재확산 금지.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-10-29",
-        "observation": "동행미디어 시대의 분석 본문에서 판결 18건, 올해 6월 362차례 허위 주장 게시 사건 징역 6개월, 8월 다른 사건 징역 1년을 구별했다. 판결문 원문 18건 전체는 직접 열람하지 않았다.",
+        "observation": "분석 기사 본문에서 올해 6월 허위 주장 362회 게시 사건 징역 6개월과 8월 다른 사건 징역 1년을 구분했다. 판결문 18건 전체 원문은 직접 열람하지 않았다.",
         "checked_materials": [],
         "outline": [
-          "새 판결이 아니라 18건 분석 기사임을 첫 장에 표시",
-          "초기와 최근 판결의 양형 이유를 요약 비교",
-          "6월·8월의 서로 다른 실형 사례와 유족 피해를 설명"
+          "오늘 새 판결이 아닌 18건 분석임을 첫 장에 명시",
+          "가해자 반성 중심에서 유족·사회 피해로 양형 이유 변화 소개",
+          "6월·8월의 다른 실형 사건을 날짜별로 구분"
         ]
       }
     }
