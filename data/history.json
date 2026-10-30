@@ -1,6 +1,734 @@
 {
   "version": 1,
   "items": {
+    "369ecd822a77": {
+      "source": "뉴시스",
+      "title": "18억 집에172억 적는 실수…법원이 경매 입찰표부터 바꿨다",
+      "link": "https://www.newsis.com/view/NISX20261030_0003847834",
+      "first_seen_at": 1793369342,
+      "last_seen_at": 1793369342,
+      "samples": [
+        {
+          "at": 1793369342,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "369ecd822a77",
+      "editorial": {
+        "title": "18억 집에172억 적는 실수…법원이 경매 입찰표부터 바꿨다",
+        "category": "시사",
+        "url": "https://www.newsis.com/view/NISX20261030_0003847834",
+        "source": "뉴시스",
+        "kind": "article",
+        "event_key": "supreme-court-auction-bid-form-zero-error-revision-20261030",
+        "why": "숫자 하나 잘못 썼다가 보증금을 잃는 실제 생활 손해에 법원이 서식 자체를 고친 대응이다.",
+        "angle": "0 하나 더 쓴 실수,주의하라는 말 대신 입찰표를 바꿨다",
+        "why_now": "새 양식 발표10/30 09:45:41 취재,시행11/2.과거 오기 사례를 오늘 새 낙찰로 쓰지 않음.",
+        "verified_at": 1793368834,
+        "published_at": 1793321141,
+        "evidence": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261030_0003847834",
+            "note": "뉴시스 본문에서법원행정처의11/2 새 양식 시행·가격/보증금 칸의 좌우→상하 배치·공간 확대·0 추가 기재 경고를 확인했다.과거 오기 사례와 대금 미납 시 보증금 미반환 규정을 구분했다.양식 이미지 직접 열람은 하지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261030_0003847834",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "개별 과거 사례의 보증금 실제 몰수 여부는 미확인.오늘172억 낙찰 사건 아님.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-30",
+          "observation": "뉴시스 본문에서법원행정처의11/2 새 양식 시행·가격/보증금 칸의 좌우→상하 배치·공간 확대·0 추가 기재 경고를 확인했다.과거 오기 사례와 대금 미납 시 보증금 미반환 규정을 구분했다.양식 이미지 직접 열람은 하지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "과거 입찰가 오기로 생긴 보증금 손실 위험",
+            "가격과 보증금 칸을 위아래로 바꾼 새 서식",
+            "11/2 시행과 경고 문구로 회수"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.newsis.com/view/NISX20261030_0003847834"
+          }
+        ],
+        "excerpt": "",
+        "context": "새 양식 발표10/30 09:45:41 취재,시행11/2.과거 오기 사례를 오늘 새 낙찰로 쓰지 않음.",
+        "fetched_at": 1793369342,
+        "parser_revision": 7
+      },
+      "curation_event_key": "supreme-court-auction-bid-form-zero-error-revision-20261030"
+    },
+    "144d669a07f9": {
+      "source": "한국경제",
+      "title": "연3000만원 국제학교,퇴거 시한에도 수업…환불 날짜는 또 미뤘다",
+      "link": "https://www.hankyung.com/article/202610306420i",
+      "first_seen_at": 1793369342,
+      "last_seen_at": 1793369342,
+      "samples": [
+        {
+          "at": 1793369342,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "144d669a07f9",
+      "editorial": {
+        "title": "연3000만원 국제학교,퇴거 시한에도 수업…환불 날짜는 또 미뤘다",
+        "category": "시사",
+        "url": "https://www.hankyung.com/article/202610306420i",
+        "source": "한국경제",
+        "kind": "article",
+        "event_key": "incheon-unlicensed-school-eviction-refund-complaint-20261030",
+        "why": "비싼 국제학교 간판과 미인가·임대료 미납·환불 지연의 간극,퇴거 요구에 소송으로 맞서는 대응이 구체적이다.",
+        "angle": "퇴거하라는 날에도 수업,학부모 환불은 다음 달로",
+        "why_now": "새 퇴거 시한·학부모/교직원 고소10/30,원취재16:13:54 공개.10/23 국감과 이전 운영 논란은 배경이며 새 사건으로 바꾸지 않음.",
+        "verified_at": 1793368805,
+        "published_at": 1793344434,
+        "evidence": [
+          {
+            "url": "https://www.hankyung.com/article/202610306420i",
+            "note": "한경 본문에서L기관 연2200만~3000만원 학비·미인가·IGC 미납 임대료4억원 주장·30일 고소·환불 약속10/31→11/12 변경·기관의 가처분 대응 입장을 확인했다.고소장·임대차 계약서 직접 열람은 하지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.hankyung.com/article/202610306420i",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "사기 확정 아님.미환불·체불 약2억원은 피해 주장,임대료4억원은IGC 설명.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-30",
+          "observation": "한경 본문에서L기관 연2200만~3000만원 학비·미인가·IGC 미납 임대료4억원 주장·30일 고소·환불 약속10/31→11/12 변경·기관의 가처분 대응 입장을 확인했다.고소장·임대차 계약서 직접 열람은 하지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "학비와 정식 인가 여부의 차이",
+            "퇴거 시한 당일 수업 지속·가처분 예고",
+            "등록금 환불 연기와 고소,양측 입장 병기"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.hankyung.com/article/202610306420i"
+          }
+        ],
+        "excerpt": "",
+        "context": "새 퇴거 시한·학부모/교직원 고소10/30,원취재16:13:54 공개.10/23 국감과 이전 운영 논란은 배경이며 새 사건으로 바꾸지 않음.",
+        "fetched_at": 1793369342,
+        "parser_revision": 7
+      },
+      "curation_event_key": "incheon-unlicensed-school-eviction-refund-complaint-20261030"
+    },
+    "ede1d5630980": {
+      "source": "뉴시스",
+      "title": "이력서부터 면접 답변까지AI로…北 해킹조직은 가짜 개발자로 취업 노렸다",
+      "link": "https://files.newsis.com/view/NISX20261030_0003848377",
+      "first_seen_at": 1793369342,
+      "last_seen_at": 1793369342,
+      "samples": [
+        {
+          "at": 1793369342,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "ede1d5630980",
+      "editorial": {
+        "title": "이력서부터 면접 답변까지AI로…北 해킹조직은 가짜 개발자로 취업 노렸다",
+        "category": "시사",
+        "url": "https://files.newsis.com/view/NISX20261030_0003848377",
+        "source": "뉴시스",
+        "kind": "article",
+        "event_key": "microsoft-north-korea-ai-fake-developer-recruitment-report-20261029",
+        "why": "AI가 이메일 문구를 다듬는 수준을 넘어 가짜 회사·개발자 신분·입사 서류를 꾸미는 실제 위장 취업 수단이 된 구체성이 있다.",
+        "angle": "AI로 만든 완벽한 지원자,사람부터 가짜였다",
+        "why_now": "새 MS 보고서10/29 공개(정확 시각 미확인),뉴시스30일14:16:24 취재.6월 채용 위장·8~9월PDF 공격은 과거 사례다.",
+        "verified_at": 1793368819,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://files.newsis.com/view/NISX20261030_0003848377",
+            "note": "뉴시스 본문에서MS 새 보고서의 가짜 채용 회사·맞춤PDF100개 이상·AI 이력서/자기소개서/면접 답변·외국인 개발자 위장 취업 정황을 확인했다.MS 원보고서와 악성 자료 자체는 직접 열람하지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://files.newsis.com/view/NISX20261030_0003848377",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "MS 분석을 인용한 취재.이번 보고서에서 국내 취업 성공·피해 규모가 확정됐다고 쓰지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-29",
+          "observation": "뉴시스 본문에서MS 새 보고서의 가짜 채용 회사·맞춤PDF100개 이상·AI 이력서/자기소개서/면접 답변·외국인 개발자 위장 취업 정황을 확인했다.MS 원보고서와 악성 자료 자체는 직접 열람하지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "가짜 채용담당자와 가짜 구직자라는 양방향 접근",
+            "표적 맞춤 문서와 입사 서류를AI로 만든 정황",
+            "지원 이력·화상면접 교차검증 권고"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://files.newsis.com/view/NISX20261030_0003848377"
+          }
+        ],
+        "excerpt": "",
+        "context": "새 MS 보고서10/29 공개(정확 시각 미확인),뉴시스30일14:16:24 취재.6월 채용 위장·8~9월PDF 공격은 과거 사례다.",
+        "fetched_at": 1793369342,
+        "parser_revision": 7
+      },
+      "curation_event_key": "microsoft-north-korea-ai-fake-developer-recruitment-report-20261029"
+    },
+    "43906cacc20a": {
+      "source": "피플투데이",
+      "title": "기금은 없어졌는데 항공권에 낸1000원…오늘부터 돌려받는 창구 열렸다",
+      "link": "https://www.epeopletoday.com/news/articleView.html?idxno=22575",
+      "first_seen_at": 1793369342,
+      "last_seen_at": 1793369342,
+      "samples": [
+        {
+          "at": 1793369342,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "43906cacc20a",
+      "editorial": {
+        "title": "기금은 없어졌는데 항공권에 낸1000원…오늘부터 돌려받는 창구 열렸다",
+        "category": "시사",
+        "url": "https://www.epeopletoday.com/news/articleView.html?idxno=22575",
+        "source": "피플투데이",
+        "kind": "article",
+        "event_key": "mofa-disease-eradication-fund-1000won-refund-service-20261030",
+        "why": "항공권을 먼저 사 둔 사람에게만 남은 부담금이라는 발권일·출국일의 엇갈림과 직접 환급할 돈이 있다.",
+        "angle": "2025년 여행이면 전부가 아니다,항공권 산 날짜를 보자",
+        "why_now": "외교부 원공지10/29(날짜 정밀도),서비스 개시10/30 09:00.2025/1/1 기금 폐지와2024년 관광기금 차액 환급은 별개.",
+        "verified_at": 1793368805,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.epeopletoday.com/news/articleView.html?idxno=22575",
+            "note": "피플투데이 본문과 검색에 제공된 외교부 공식 보도자료 전문에서2025/1/1 이전 예매·발권/이후 출국한 내외국인·기납1000원 환급·30일09시 개시를 대조했다.공식 페이지 직접 열람은503/403,신청 화면 절차는 미확인."
+          },
+          {
+            "url": "https://www.mofa.go.kr/www/brd/m_4080/view.do?seq=377698",
+            "note": "10/29 공식 공지 전문을 검색 결과에서 대조.직접 접속은 실패했고 신청 절차는 확인하지 않음."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.epeopletoday.com/news/articleView.html?idxno=22575",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "환급 대행·개인정보 입력 없음.모든2025년 여행자 대상 아님.관광기금3000원과 혼동 금지.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-30",
+          "observation": "피플투데이 본문과 검색에 제공된 외교부 공식 보도자료 전문에서2025/1/1 이전 예매·발권/이후 출국한 내외국인·기납1000원 환급·30일09시 개시를 대조했다.공식 페이지 직접 열람은503/403,신청 화면 절차는 미확인.",
+          "checked_materials": [],
+          "outline": [
+            "기금 폐지 전 발권·폐지 후 출국한 경우라는 조건",
+            "국제질병퇴치기금1000원만 돌려받는 구조",
+            "외교부가 안내한 전용 누리집과 신청 확인"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.epeopletoday.com/news/articleView.html?idxno=22575"
+          }
+        ],
+        "excerpt": "",
+        "context": "외교부 원공지10/29(날짜 정밀도),서비스 개시10/30 09:00.2025/1/1 기금 폐지와2024년 관광기금 차액 환급은 별개.",
+        "fetched_at": 1793369342,
+        "parser_revision": 7
+      },
+      "curation_event_key": "mofa-disease-eradication-fund-1000won-refund-service-20261030"
+    },
+    "c865a34e3d9f": {
+      "source": "JTBC",
+      "title": "“출장 지쳤나요?” 물었더니…트럼프는 기자에게 몸 관리나 하라며 되받았다",
+      "link": "https://n.news.naver.com/article/437/0000518408",
+      "first_seen_at": 1793369342,
+      "last_seen_at": 1793369342,
+      "samples": [
+        {
+          "at": 1793369342,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "c865a34e3d9f",
+      "editorial": {
+        "title": "“출장 지쳤나요?” 물었더니…트럼프는 기자에게 몸 관리나 하라며 되받았다",
+        "category": "시사",
+        "url": "https://n.news.naver.com/article/437/0000518408",
+        "source": "JTBC",
+        "kind": "article",
+        "event_key": "trump-reuters-travel-cancellation-question-personal-insults-20261029",
+        "why": "일정 취소 이유를 묻는 질문이 기자 외모 공격으로 바뀌는 구체적 발언의 엇박자가 있다.",
+        "angle": "취소한 유세를 물었는데 답은 기자의 몸 상태였다",
+        "why_now": "발언·원취재는미국10/29(원발언 정확 시각 미확인),USA TODAY29일22:13UTC 취재·JTBC30일 저녁 후속.재게시 시각과 구분.",
+        "verified_at": 1793368833,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://n.news.naver.com/article/437/0000518408",
+            "note": "JTBC 본문 대사에서로이터 소속 확인 뒤 기자·매체 비난과 몸 관리 발언을 확인했다.실제 열람한 로이터 원취재 전재/USA TODAY 본문으로Kansas 취소·sick of traveling 질문 문맥도 대조했다.원영상 미시청,실제 건강 이상은 입증하지 않는다."
+          },
+          {
+            "url": "https://www.spokesman.com/stories/2026/oct/29/trump-cancels-weekend-rallies-plans-to-phone-in-to/",
+            "note": "질문 당사자 로이터 원취재 전재 본문에서유세 취소·이동 피로 질문과I feel perfect 발언 대조."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://n.news.naver.com/article/437/0000518408",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "질문을 질병 확진 제보로 바꾸지 않음.영상 직접 본 scene 아님,과거CNN 충돌을 이번 장면으로 섞지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-29",
+          "observation": "JTBC 본문 대사에서로이터 소속 확인 뒤 기자·매체 비난과 몸 관리 발언을 확인했다.실제 열람한 로이터 원취재 전재/USA TODAY 본문으로Kansas 취소·sick of traveling 질문 문맥도 대조했다.원영상 미시청,실제 건강 이상은 입증하지 않는다.",
+          "checked_materials": [],
+          "outline": [
+            "캔자스 유세 취소와 이동 피로를 묻는 질문",
+            "소속을 확인한 뒤 이어진 기자 인신공격",
+            "본인은 건강하다는 답과 몸 관리 발언의 대비"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://n.news.naver.com/article/437/0000518408"
+          }
+        ],
+        "excerpt": "",
+        "context": "발언·원취재는미국10/29(원발언 정확 시각 미확인),USA TODAY29일22:13UTC 취재·JTBC30일 저녁 후속.재게시 시각과 구분.",
+        "fetched_at": 1793369342,
+        "parser_revision": 7
+      },
+      "curation_event_key": "trump-reuters-travel-cancellation-question-personal-insults-20261029"
+    },
+    "237a1b190457": {
+      "source": "SBS",
+      "title": "젠슨 황 친분까지 스파이 의혹으로…中·당사자는 부인,엔비디아도 선 그었다",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823824",
+      "first_seen_at": 1793369342,
+      "last_seen_at": 1793369342,
+      "samples": [
+        {
+          "at": 1793369342,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "237a1b190457",
+      "editorial": {
+        "title": "젠슨 황 친분까지 스파이 의혹으로…中·당사자는 부인,엔비디아도 선 그었다",
+        "category": "시사",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823824",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "nyt-alice-huang-megaspeed-spy-allegation-denials-20261030",
+        "why": "CEO의 고객사 친분이 안보 의혹으로 번지고 당사자·기업·정부가 각기 반박하는 구체적인 충돌이다.",
+        "angle": "술자리 친분에서 스파이 의혹까지,확인된 건 어디까지인가",
+        "why_now": "NYT 최초 보도현지10/29(정확 시각 미확인),중국 반박과SBS30일20:49:08 취재.2024년부터 친분·조사와 이번 새 보도를 구분.",
+        "verified_at": 1793368848,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823824",
+            "note": "SBS 취재 본문에서NYT의 복수 소식통 인용 의혹·메가스피드의 수출통제 준수/조사 협조 반론·엔비디아의 다수 고객 접촉 설명·중국 외교부 반박을 확인했다.NYT 원문·수사 자료·보도 영상은 직접 확인하지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823824",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "스파이·밀반입 확정 금지.친분 사진 자체를 범죄 증거로 쓰지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-30",
+          "observation": "SBS 취재 본문에서NYT의 복수 소식통 인용 의혹·메가스피드의 수출통제 준수/조사 협조 반론·엔비디아의 다수 고객 접촉 설명·중국 외교부 반박을 확인했다.NYT 원문·수사 자료·보도 영상은 직접 확인하지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "NYT가 제기한 접근·회사 거래 의혹을 귀속",
+            "메가스피드와 엔비디아의 각각 다른 반론",
+            "중국 외교부 부인과 아직 의혹 단계라는 결론"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823824"
+          }
+        ],
+        "excerpt": "",
+        "context": "NYT 최초 보도현지10/29(정확 시각 미확인),중국 반박과SBS30일20:49:08 취재.2024년부터 친분·조사와 이번 새 보도를 구분.",
+        "fetched_at": 1793369342,
+        "parser_revision": 7
+      },
+      "curation_event_key": "nyt-alice-huang-megaspeed-spy-allegation-denials-20261030"
+    },
+    "19d059b6d585": {
+      "source": "머니투데이",
+      "title": "“항공사 인수하면 주식2.5배”…실제 회사는 대표 말고 직원도 없었다",
+      "link": "https://www.mt.co.kr/society/2026/10/30/2026103013552299553",
+      "first_seen_at": 1793369342,
+      "last_seen_at": 1793369342,
+      "samples": [
+        {
+          "at": 1793369342,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "19d059b6d585",
+      "editorial": {
+        "title": "“항공사 인수하면 주식2.5배”…실제 회사는 대표 말고 직원도 없었다",
+        "category": "시사",
+        "url": "https://www.mt.co.kr/society/2026/10/30/2026103013552299553",
+        "source": "머니투데이",
+        "kind": "article",
+        "event_key": "airline-acquisition-unlisted-stock-1927million-fraud-judgment-disclosure-20261030",
+        "why": "화려한 항공사 인수 계획과 자본금1000만원·직원 부재라는 법원이 확인한 실체가 정면으로 부딪친다.",
+        "angle": "2000원이5000원 된다는 주식,회사의 실제 모습",
+        "why_now": "새 판결 취재30일15:37:03 공개.선고는10/14,범행2018/4~2019/9.선고 당일이 아닌 상세 판결 취재 공개로 검토했고 그 이전 공개 여부는 확인 못 함.",
+        "verified_at": 1793368816,
+        "published_at": 1793342223,
+        "evidence": [
+          {
+            "url": "https://www.mt.co.kr/society/2026/10/30/2026103013552299553",
+            "note": "머니투데이 법원 취재 본문에서19억2700만원 주식대금 편취·항공사 인수/2.5배 가치 약속·자본금1000만원/직원 부재·징역4년을 확인했다.별도 무고 혐의 무죄도 구분했다.판결문 전체 미열람."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.mt.co.kr/society/2026/10/30/2026103013552299553",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "오늘 새 선고 아님.실제 항공사 인수 완료로 쓰지 않음.1심이며 확정 여부 미확인.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-14",
+          "observation": "머니투데이 법원 취재 본문에서19억2700만원 주식대금 편취·항공사 인수/2.5배 가치 약속·자본금1000만원/직원 부재·징역4년을 확인했다.별도 무고 혐의 무죄도 구분했다.판결문 전체 미열람.",
+          "checked_materials": [],
+          "outline": [
+            "항공사 인수와 주가 상승이라는 투자 권유",
+            "인적·물적 기반이 없었다는 법원 판단",
+            "사기 실형과 별도 무고 무죄의 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.mt.co.kr/society/2026/10/30/2026103013552299553"
+          }
+        ],
+        "excerpt": "",
+        "context": "새 판결 취재30일15:37:03 공개.선고는10/14,범행2018/4~2019/9.선고 당일이 아닌 상세 판결 취재 공개로 검토했고 그 이전 공개 여부는 확인 못 함.",
+        "fetched_at": 1793369342,
+        "parser_revision": 7
+      },
+      "curation_event_key": "airline-acquisition-unlisted-stock-1927million-fraud-judgment-disclosure-20261030"
+    },
+    "c847fa554948": {
+      "source": "파이낸셜뉴스",
+      "title": "“어깨 부딪혀 우발적으로”라더니…수사로 드러난 건 유흥비 노린 강도 혐의",
+      "link": "https://www.fnnews.com/news/202610301739340700",
+      "first_seen_at": 1793369342,
+      "last_seen_at": 1793369342,
+      "samples": [
+        {
+          "at": 1793369342,
+          "views": null,
+          "reactions": null,
+          "rank": 8,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "c847fa554948",
+      "editorial": {
+        "title": "“어깨 부딪혀 우발적으로”라더니…수사로 드러난 건 유흥비 노린 강도 혐의",
+        "category": "시사",
+        "url": "https://www.fnnews.com/news/202610301739340700",
+        "source": "파이낸셜뉴스",
+        "kind": "article",
+        "event_key": "gangbuk-stranger-robbery-murder-entertainment-money-indictment-20261030",
+        "why": "피의자가 댄 우발 범행 설명과CCTV·돈의 사용처를 대조한 수사 결론이 달라지는 반전이 있다.",
+        "angle": "우발적 시비라는 진술,CCTV에는 그 장면이 없었다",
+        "why_now": "새 구속기소·보완수사 결과10/30,파이낸셜뉴스18:51:54 취재.살해10/3·송치10/14와 오늘 기소를 구분.",
+        "verified_at": 1793369043,
+        "published_at": 1793353914,
+        "evidence": [
+          {
+            "url": "https://www.fnnews.com/news/202610301739340700",
+            "note": "파이낸셜뉴스 본문에서어깨 충돌 주장·CCTV에서 미확인·카드로 유흥비 결제·계좌/목격자 보완수사·강도살인 구속기소를 확인했다.CCTV 원영상·공소장 직접 확인은 하지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.fnnews.com/news/202610301739340700",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "유죄 확정 아님.동기는 수사기관 판단으로 귀속.범행 방법·피해자 사생활은 생략.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-30",
+          "observation": "파이낸셜뉴스 본문에서어깨 충돌 주장·CCTV에서 미확인·카드로 유흥비 결제·계좌/목격자 보완수사·강도살인 구속기소를 확인했다.CCTV 원영상·공소장 직접 확인은 하지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "피의자가 주장한 우발적 시비",
+            "CCTV 동선과 빼앗은 카드 사용처의 불일치",
+            "유흥비 목적이라는 공소청 판단과 새 기소"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.fnnews.com/news/202610301739340700"
+          }
+        ],
+        "excerpt": "",
+        "context": "새 구속기소·보완수사 결과10/30,파이낸셜뉴스18:51:54 취재.살해10/3·송치10/14와 오늘 기소를 구분.",
+        "fetched_at": 1793369342,
+        "parser_revision": 7
+      },
+      "curation_event_key": "gangbuk-stranger-robbery-murder-entertainment-money-indictment-20261030"
+    },
+    "cf51222056e3": {
+      "source": "뉴시스",
+      "title": "10년 간병한 쌍둥이 형 살해…법원은 돌봄 사정 참작해도 징역10년",
+      "link": "https://www.newsis.com/view/NISX20261030_0003847962",
+      "first_seen_at": 1793369342,
+      "last_seen_at": 1793369342,
+      "samples": [
+        {
+          "at": 1793369342,
+          "views": null,
+          "reactions": null,
+          "rank": 9,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "cf51222056e3",
+      "editorial": {
+        "title": "10년 간병한 쌍둥이 형 살해…법원은 돌봄 사정 참작해도 징역10년",
+        "category": "시사",
+        "url": "https://www.newsis.com/view/NISX20261030_0003847962",
+        "source": "뉴시스",
+        "kind": "article",
+        "event_key": "osan-twin-caregiver-brother-murder-ten-year-sentence-20261030",
+        "why": "돌봄 부담이라는 사정과 피해자가 믿던 가족에게 생명을 잃었다는 책임을 법원이 함께 판단한 구체적인 권리 충돌이다.",
+        "angle": "오래 간병한 가족이라는 사정이 살인의 면책은 아니었다",
+        "why_now": "새 선고10/30,뉴시스10:11:48 법정 취재.실제 범행5/22와 구분하며 오늘 발생한 살인으로 쓰지 않음.",
+        "verified_at": 1793368816,
+        "published_at": 1793322708,
+        "evidence": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261030_0003847962",
+            "note": "뉴시스 법정 취재에서10년 형 간병·검찰18년 구형·법원의 생명 침해 책임과 부양/판단 상태 참작·징역10년 선고를 확인했다.약물 부작용은 변호인 주장으로만 확인,판결문 전체 미열람."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261030_0003847962",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "장애·정신질환 일반을 범죄 원인으로 단정 금지.범행 수법·자해 방법은 생략.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-30",
+          "observation": "뉴시스 법정 취재에서10년 형 간병·검찰18년 구형·법원의 생명 침해 책임과 부양/판단 상태 참작·징역10년 선고를 확인했다.약물 부작용은 변호인 주장으로만 확인,판결문 전체 미열람.",
+          "checked_materials": [],
+          "outline": [
+            "10년간 형을 돌봤던 동생이라는 경위",
+            "믿고 의지한 가족에 의한 생명 침해라는 법원 판단",
+            "참작 사정과 징역10년을 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.newsis.com/view/NISX20261030_0003847962"
+          }
+        ],
+        "excerpt": "",
+        "context": "새 선고10/30,뉴시스10:11:48 법정 취재.실제 범행5/22와 구분하며 오늘 발생한 살인으로 쓰지 않음.",
+        "fetched_at": 1793369342,
+        "parser_revision": 7
+      },
+      "curation_event_key": "osan-twin-caregiver-brother-murder-ten-year-sentence-20261030"
+    },
+    "c4897c6aff41": {
+      "source": "한국경제",
+      "title": "17개월 딸 혼자 두고 출근…“돌볼 사람 없었다”는 친부 구속",
+      "link": "https://www.hankyung.com/article/2026103069617",
+      "first_seen_at": 1793369342,
+      "last_seen_at": 1793369342,
+      "samples": [
+        {
+          "at": 1793369342,
+          "views": null,
+          "reactions": null,
+          "rank": 10,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "c4897c6aff41",
+      "editorial": {
+        "title": "17개월 딸 혼자 두고 출근…“돌볼 사람 없었다”는 친부 구속",
+        "category": "시사",
+        "url": "https://www.hankyung.com/article/2026103069617",
+        "source": "한국경제",
+        "kind": "article",
+        "event_key": "pyeongtaek-infant-neglect-father-arrest-preliminary-autopsy-20261030",
+        "why": "보호자가 있다는 가정 안에서 실제 돌봄이 비어 있었고 병원·소방의 이상 징후 발견이 수사로 이어진 사건이다.",
+        "angle": "아빠가 돌보고 있었다는 집,아이에게 필요한 돌봄은 없었다",
+        "why_now": "새 영장 발부·국과수1차 소견10/30,한경18:21:22 공개.119 신고28일22시경과 구분.방임 기간은10여일로 근사다.",
+        "verified_at": 1793368805,
+        "published_at": 1793352082,
+        "evidence": [
+          {
+            "url": "https://www.hankyung.com/article/2026103069617",
+            "note": "한경 본문에서친부의 혼자 두고 출근/하루 두 번 분유 진술·병원/소방의 경찰 공동대응·30일 구속·영양 결핍 추정이라는1차 구두 부검 소견을 확인했다.정밀 감정서 미회신으로 최종 사인은 미확정이다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.hankyung.com/article/2026103069617",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "아동학대치사 혐의 단계.정밀 사인 확정·친모 유죄 단정 금지.신체 묘사와 사생활 생략.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-30",
+          "observation": "한경 본문에서친부의 혼자 두고 출근/하루 두 번 분유 진술·병원/소방의 경찰 공동대응·30일 구속·영양 결핍 추정이라는1차 구두 부검 소견을 확인했다.정밀 감정서 미회신으로 최종 사인은 미확정이다.",
+          "checked_materials": [],
+          "outline": [
+            "보호자 진술로 드러난 일상 돌봄 공백",
+            "병원과 소방이 요청한 경찰 공동대응",
+            "구속과 부검1차 추정·최종 판단의 차이"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.hankyung.com/article/2026103069617"
+          }
+        ],
+        "excerpt": "",
+        "context": "새 영장 발부·국과수1차 소견10/30,한경18:21:22 공개.119 신고28일22시경과 구분.방임 기간은10여일로 근사다.",
+        "fetched_at": 1793369342,
+        "parser_revision": 7
+      },
+      "curation_event_key": "pyeongtaek-infant-neglect-father-arrest-preliminary-autopsy-20261030"
+    },
     "84f4fcaa69d2": {
       "source": "아이뉴스24",
       "title": "“울릉도서30명 감금,경찰에 구조” 영상…군이 확인하니 그런 신고가 없었다",
@@ -28175,5 +28903,5 @@
       "curation_event_key": "incheon-airport-lost-cigarettes-resignation-rehire-audit-20261024"
     }
   },
-  "updated_at": 1793358398
+  "updated_at": 1793369342
 }

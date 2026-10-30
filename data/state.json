@@ -1,5 +1,5 @@
 {
-  "updated_at": 1793358399,
+  "updated_at": 1793369343,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,65 +15,65 @@
     "requested_stories": 10,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026103011",
+    "hour_utc": "2026103014",
     "category_counts": {
-      "시사": 7,
+      "시사": 10,
       "축구": 0,
-      "메이저 스포츠": 3,
+      "메이저 스포츠": 0,
       "아이돌": 0
     },
-    "research_queries": 30,
-    "opened_sources": 16,
+    "research_queries": 50,
+    "opened_sources": 23,
     "picks": [
       {
-        "title": "“울릉도서30명 감금,경찰에 구조” 영상…군이 확인하니 그런 신고가 없었다",
-        "url": "https://www.inews24.com/view/2020510",
-        "event_key": "ulleung-tour-confinement-video-denial-response-20261029"
+        "title": "18억 집에172억 적는 실수…법원이 경매 입찰표부터 바꿨다",
+        "url": "https://www.newsis.com/view/NISX20261030_0003847834",
+        "event_key": "supreme-court-auction-bid-form-zero-error-revision-20261030"
       },
       {
-        "title": "아파트 시설 예약했는데 개인정보가…자이 예약시스템 뚫려 입주민에 안내",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823648",
-        "event_key": "gs-xi-community-reservation-personal-data-breach-20261030"
+        "title": "연3000만원 국제학교,퇴거 시한에도 수업…환불 날짜는 또 미뤘다",
+        "url": "https://www.hankyung.com/article/202610306420i",
+        "event_key": "incheon-unlicensed-school-eviction-refund-complaint-20261030"
       },
       {
-        "title": "“사타구니 잡혔다” 항의한 럭비 선수…징계는 기각,신고자도 거짓말로 몰지 않았다",
-        "url": "https://www.xportsnews.com/article/2213426",
-        "event_key": "tadhg-furlong-disciplinary-complaint-dismissed-20261029"
+        "title": "이력서부터 면접 답변까지AI로…北 해킹조직은 가짜 개발자로 취업 노렸다",
+        "url": "https://files.newsis.com/view/NISX20261030_0003848377",
+        "event_key": "microsoft-north-korea-ai-fake-developer-recruitment-report-20261029"
       },
       {
-        "title": "4명137만원 내고 갔는데 중장비가 코스 옆에…골프장 “할인 적용,응대 개선”",
-        "url": "https://www.asiae.co.kr/article/2026102722444112450",
-        "event_key": "greenhill-golf-course-construction-customer-response-investigation-20261030"
+        "title": "기금은 없어졌는데 항공권에 낸1000원…오늘부터 돌려받는 창구 열렸다",
+        "url": "https://www.epeopletoday.com/news/articleView.html?idxno=22575",
+        "event_key": "mofa-disease-eradication-fund-1000won-refund-service-20261030"
       },
       {
-        "title": "조카며느리 허위 취업시키고 급여통장은 직접 관리…전 원장2심도 실형",
-        "url": "https://www.newsis.com/view/NISX20261030_0003848757",
-        "event_key": "choi-heung-jin-ghost-relative-payroll-bribery-appeal-20261030"
+        "title": "“출장 지쳤나요?” 물었더니…트럼프는 기자에게 몸 관리나 하라며 되받았다",
+        "url": "https://n.news.naver.com/article/437/0000518408",
+        "event_key": "trump-reuters-travel-cancellation-question-personal-insults-20261029"
       },
       {
-        "title": "비행기 타려다 손으로 발권…인천공항1200명 대기,복구돼도 여행 일정은 꼬였다",
-        "url": "https://www.inews24.com/view/2021081",
-        "event_key": "incheon-airport-arinc-travelsky-outage-restoration-20261030"
+        "title": "젠슨 황 친분까지 스파이 의혹으로…中·당사자는 부인,엔비디아도 선 그었다",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823824",
+        "event_key": "nyt-alice-huang-megaspeed-spy-allegation-denials-20261030"
       },
       {
-        "title": "공사장33m 천공기가 옆 아파트로…주민 보행로·펜스 덮쳤다",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823043",
-        "event_key": "gimhae-drilling-rig-collapse-adjacent-apartment-20261030"
+        "title": "“항공사 인수하면 주식2.5배”…실제 회사는 대표 말고 직원도 없었다",
+        "url": "https://www.mt.co.kr/society/2026/10/30/2026103013552299553",
+        "event_key": "airline-acquisition-unlisted-stock-1927million-fraud-judgment-disclosure-20261030"
       },
       {
-        "title": "립 바른 선수에게 협회장이 폭언?…일본배구협회장 “그런 대화 자체 없었다”",
-        "url": "https://www.xportsnews.com/article/2212916",
-        "event_key": "kawai-jva-fake-player-rebuke-video-denial-20261029"
+        "title": "“어깨 부딪혀 우발적으로”라더니…수사로 드러난 건 유흥비 노린 강도 혐의",
+        "url": "https://www.fnnews.com/news/202610301739340700",
+        "event_key": "gangbuk-stranger-robbery-murder-entertainment-money-indictment-20261030"
       },
       {
-        "title": "서장훈 조언엔 고집부리더니 판사 말엔 끄덕…“웃기네” 나온 챔피언 남편",
-        "url": "https://www.xportsnews.com/article/2213194",
-        "event_key": "divorce-camp-champion-couple-final-choice-judge-reaction-20261029"
+        "title": "10년 간병한 쌍둥이 형 살해…법원은 돌봄 사정 참작해도 징역10년",
+        "url": "https://www.newsis.com/view/NISX20261030_0003847962",
+        "event_key": "osan-twin-caregiver-brother-murder-ten-year-sentence-20261030"
       },
       {
-        "title": "입영 거부로 집행유예 받았는데 또 불응…재판까지 피한30대,이번엔 실형",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823145",
-        "event_key": "daegu-repeat-enlistment-refusal-one-year-prison-20261030"
+        "title": "17개월 딸 혼자 두고 출근…“돌볼 사람 없었다”는 친부 구속",
+        "url": "https://www.hankyung.com/article/2026103069617",
+        "event_key": "pyeongtaek-infant-neglect-father-arrest-preliminary-autopsy-20261030"
       }
     ]
   }
