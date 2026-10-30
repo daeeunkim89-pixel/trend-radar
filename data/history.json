@@ -1,6 +1,734 @@
 {
   "version": 1,
   "items": {
+    "d9e3e29baad5": {
+      "source": "연합뉴스",
+      "title": "변호사가3번 안 나간 학폭 소송…유족의 재개 요청,대법에서도 막혔다",
+      "link": "https://www.yna.co.kr/view/AKR20261030106800004",
+      "first_seen_at": 1793347607,
+      "last_seen_at": 1793347607,
+      "samples": [
+        {
+          "at": 1793347607,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "d9e3e29baad5",
+      "editorial": {
+        "title": "변호사가3번 안 나간 학폭 소송…유족의 재개 요청,대법에서도 막혔다",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261030106800004",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "kwon-lawyer-no-show-school-violence-lawsuit-final-closure-20261030",
+        "why": "변호사의 불출석 때문에 피해자 측 항소가 사라졌고,다시 다퉈달라는 요청마저 끝난 절차의 역설이 크다.",
+        "angle": "내 변호사가 안 나가서 끝난 재판,되돌릴 수 없었다",
+        "why_now": "10/30 대법 소송종료 확정,14:01 원취재 공개.2015년 피해·2016년 제소·2022년 불출석과 새 대법 결론을 구분.분 단위 공개시각.",
+        "verified_at": 1793347245,
+        "published_at": 1793336460,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261030106800004",
+            "note": "연합뉴스 법원 취재 본문에서3회 불출석에 따른 항소 취하 간주·소송종료 선언·대법 심리불속행 기각을 확인했다.권 변호사 상대6500만원 배상 사건은 별개다.판결문 전체는 미열람."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261030106800004",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "학폭 가해가 없다는 본안 확정 판단으로 쓰지 않음.변호사 배상 사건과 구별.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-30",
+          "observation": "연합뉴스 법원 취재 본문에서3회 불출석에 따른 항소 취하 간주·소송종료 선언·대법 심리불속행 기각을 확인했다.권 변호사 상대6500만원 배상 사건은 별개다.판결문 전체는 미열람.",
+          "checked_materials": [],
+          "outline": [
+            "변호사3차례 불출석으로 항소 취하 간주된 경위",
+            "유족의 재개 요청과 소송종료 선언",
+            "10/30 대법 확정과 변호사 상대 별도 배상 소송 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.yna.co.kr/view/AKR20261030106800004"
+          }
+        ],
+        "excerpt": "",
+        "context": "10/30 대법 소송종료 확정,14:01 원취재 공개.2015년 피해·2016년 제소·2022년 불출석과 새 대법 결론을 구분.분 단위 공개시각.",
+        "fetched_at": 1793347607,
+        "parser_revision": 7
+      },
+      "curation_event_key": "kwon-lawyer-no-show-school-violence-lawsuit-final-closure-20261030"
+    },
+    "9a8a88208d6f": {
+      "source": "뉴시스",
+      "title": "품절 디저트 후속작에서 대장균군…GS25,판매 중단·재고 폐기·환불 예고",
+      "link": "https://www.newsis.com/view/NISX20261030_0003848525",
+      "first_seen_at": 1793347607,
+      "last_seen_at": 1793347607,
+      "samples": [
+        {
+          "at": 1793347607,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "9a8a88208d6f",
+      "editorial": {
+        "title": "품절 디저트 후속작에서 대장균군…GS25,판매 중단·재고 폐기·환불 예고",
+        "category": "시사",
+        "url": "https://www.newsis.com/view/NISX20261030_0003848525",
+        "source": "뉴시스",
+        "kind": "article",
+        "event_key": "gs25-hanjeongseon-pistachio-ricecake-recall-20261030",
+        "why": "줄 서서 찾던 디저트의 후속 상품이 판매 중단·환불 대상으로 바뀌어 구매자의 행동과 돈 손익이 바로 걸린다.",
+        "angle": "냉장고에 있다면 제조일부터 확인할 찹쌀떡",
+        "why_now": "10/30 회수·판매중지 공개 및 GS25 대응.뉴시스14:50:34,앞선 한경14:29 취재와 대조.제조일10/23인80g 제품이며 오늘 제조 아님.",
+        "verified_at": 1793347361,
+        "published_at": 1793338140,
+        "evidence": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261030_0003848525",
+            "note": "뉴시스·한경의 취재 본문에서10/23 제조 피스타치오 제품의 대장균군 기준 부적합·판매 중단·재고 폐기·환불 예정 확인.식품안전정보원 공식 회수 목록에 제품·업체 등재를 대조했다."
+          },
+          {
+            "url": "https://www.xn--6j1bl6kbyhngc194dj3jtyk7ydotee6c.kr/page/main.do",
+            "note": "식품안전정보원 공식 회수·판매중지 목록에 한정선 피스타치오 찹쌀떡·로로에프엔비 등재 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261030_0003848525",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "모든 맛·모든 제조분이 회수 대상이라는 뜻 아님.대장균군을 식중독 확진으로 쓰지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-30",
+          "observation": "뉴시스·한경의 취재 본문에서10/23 제조 피스타치오 제품의 대장균군 기준 부적합·판매 중단·재고 폐기·환불 예정 확인.식품안전정보원 공식 회수 목록에 제품·업체 등재를 대조했다.",
+          "checked_materials": [],
+          "outline": [
+            "요거트 인기 뒤 나온 피스타치오 후속 상품 소개",
+            "10/23 제조분·80g과 기준 부적합 회수 대상 구분",
+            "판매 중단·재고 폐기와 구매자 환불 계획 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.newsis.com/view/NISX20261030_0003848525"
+          }
+        ],
+        "excerpt": "",
+        "context": "10/30 회수·판매중지 공개 및 GS25 대응.뉴시스14:50:34,앞선 한경14:29 취재와 대조.제조일10/23인80g 제품이며 오늘 제조 아님.",
+        "fetched_at": 1793347607,
+        "parser_revision": 7
+      },
+      "curation_event_key": "gs25-hanjeongseon-pistachio-ricecake-recall-20261030"
+    },
+    "36037fd3c369": {
+      "source": "YTN",
+      "title": "30만원에 낙찰돼도40만원어치 더 산다…무상교복 예산,반납 학교는2곳",
+      "link": "https://www.ytn.co.kr/_ln/0103_202610300542097007",
+      "first_seen_at": 1793347607,
+      "last_seen_at": 1793347607,
+      "samples": [
+        {
+          "at": 1793347607,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "36037fd3c369",
+      "editorial": {
+        "title": "30만원에 낙찰돼도40만원어치 더 산다…무상교복 예산,반납 학교는2곳",
+        "category": "시사",
+        "url": "https://www.ytn.co.kr/_ln/0103_202610300542097007",
+        "source": "YTN",
+        "kind": "article",
+        "event_key": "gyeonggi-free-uniform-budget-contract-topup-collusion-report-20261030",
+        "why": "싸게 낙찰받아도 여벌 계약으로 예산을 꽉 채운다는 구조가 경쟁 입찰과 비용 절감의 기대를 뒤집는다.",
+        "angle": "최저가로 뽑았는데 최종 지출은 똑같았다",
+        "why_now": "10/30 05:42 YTN 단독 원취재.2026학년도 예산 집행 분석이며30일 새 담합 판결이 아님.교복 제도 도입은2019년.",
+        "verified_at": 1793347300,
+        "published_at": 1793306520,
+        "evidence": [
+          {
+            "url": "https://www.ytn.co.kr/_ln/0103_202610300542097007",
+            "note": "YTN 취재 전문에서1300여 학교 중 반납2곳·변경 계약으로 여벌 구매·교육청 관계자 설명을 확인했다.지역 업체 담합은 취재상 정황이며 확정 유죄로 취급하지 않았다.방송 영상은 미시청."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.ytn.co.kr/_ln/0103_202610300542097007",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "여벌 교복이 제공된 지출.차액이 전부 횡령됐다는 뜻 아님.담합은 취재 정황.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-30",
+          "observation": "YTN 취재 전문에서1300여 학교 중 반납2곳·변경 계약으로 여벌 구매·교육청 관계자 설명을 확인했다.지역 업체 담합은 취재상 정황이며 확정 유죄로 취급하지 않았다.방송 영상은 미시청.",
+          "checked_materials": [],
+          "outline": [
+            "입찰 낙찰액과 학생당40만원 현물지원 구조",
+            "여벌 추가 계약으로 차액을 집행한 방식",
+            "담합 유인 지적과 교육청의 최대지원 설명 병기"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.ytn.co.kr/_ln/0103_202610300542097007"
+          }
+        ],
+        "excerpt": "",
+        "context": "10/30 05:42 YTN 단독 원취재.2026학년도 예산 집행 분석이며30일 새 담합 판결이 아님.교복 제도 도입은2019년.",
+        "fetched_at": 1793347607,
+        "parser_revision": 7
+      },
+      "curation_event_key": "gyeonggi-free-uniform-budget-contract-topup-collusion-report-20261030"
+    },
+    "71327202309f": {
+      "source": "머니투데이",
+      "title": "불륜 폭로해놓고 “불륜인지는 모르겠다”…양홍원 폭로자,인터뷰서 사과",
+      "link": "https://www.mt.co.kr/amp/society/2026/10/30/2026102923423962197",
+      "first_seen_at": 1793347607,
+      "last_seen_at": 1793347607,
+      "samples": [
+        {
+          "at": 1793347607,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "71327202309f",
+      "editorial": {
+        "title": "불륜 폭로해놓고 “불륜인지는 모르겠다”…양홍원 폭로자,인터뷰서 사과",
+        "category": "시사",
+        "url": "https://www.mt.co.kr/amp/society/2026/10/30/2026102923423962197",
+        "source": "머니투데이",
+        "kind": "article",
+        "event_key": "yang-hong-won-accuser-interview-admission-apology-20261029",
+        "why": "확신을 심어준 폭로자가 직접 본 것과 모르는 것을 나눠 말하고 일부 거짓 게시물까지 인정한 반전이다.",
+        "angle": "모텔에 들어간 건 봤다,그 안은 모른다는 폭로자",
+        "why_now": "새 인터뷰는10/29 그레이뉴스 공개,정확한 업로드 시각 미확인.10/30 05:10 원문 취재와 구분.10/23 최초 의혹을 신규 발생으로 쓰지 않음.",
+        "verified_at": 1793347244,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.mt.co.kr/amp/society/2026/10/30/2026102923423962197",
+            "note": "머니투데이의 인터뷰 취재 본문에서30만원 차용 요청·법률대리인 연락 갈등 주장·불륜 여부 모른다는 답변·돈 받았다는 게시물은 거짓이라는 인정을 확인했다.직접 영상 시청은 하지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.mt.co.kr/amp/society/2026/10/30/2026102923423962197",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "불륜 사실·전면 무고 어느 쪽도 확정 아님.30만원은 요청액,폭로 대가 확정 아님.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-29",
+          "observation": "머니투데이의 인터뷰 취재 본문에서30만원 차용 요청·법률대리인 연락 갈등 주장·불륜 여부 모른다는 답변·돈 받았다는 게시물은 거짓이라는 인정을 확인했다.직접 영상 시청은 하지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "폭로자가 봤다고 주장한 이동 장면의 범위",
+            "불륜 여부는 모른다는 새 인터뷰와 사과",
+            "거짓이라고 인정한 돈 수령 게시물과 나머지 주장 구별"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.mt.co.kr/amp/society/2026/10/30/2026102923423962197"
+          }
+        ],
+        "excerpt": "",
+        "context": "새 인터뷰는10/29 그레이뉴스 공개,정확한 업로드 시각 미확인.10/30 05:10 원문 취재와 구분.10/23 최초 의혹을 신규 발생으로 쓰지 않음.",
+        "fetched_at": 1793347607,
+        "parser_revision": 7
+      },
+      "curation_event_key": "yang-hong-won-accuser-interview-admission-apology-20261029"
+    },
+    "547bfbf81e5c": {
+      "source": "뉴시스",
+      "title": "실종자 찾으려 오피스텔 DNA 감식했더니…19년 미제 성폭행 용의자였다",
+      "link": "https://www.newsis.com/view/NISX20261030_0003848599",
+      "first_seen_at": 1793347607,
+      "last_seen_at": 1793347607,
+      "samples": [
+        {
+          "at": 1793347607,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "547bfbf81e5c",
+      "editorial": {
+        "title": "실종자 찾으려 오피스텔 DNA 감식했더니…19년 미제 성폭행 용의자였다",
+        "category": "시사",
+        "url": "https://www.newsis.com/view/NISX20261030_0003848599",
+        "source": "뉴시스",
+        "kind": "article",
+        "event_key": "gangseo-missing-person-dna-cold-case-indictment-20261030",
+        "why": "다른 사람의 실종을 찾던 전 호실 감식이19년 묵은 두 사건의 용의자를 찾아낸 수사 경로의 반전이다.",
+        "angle": "찾던 실종자 대신,오래된 사건의 DNA가 나왔다",
+        "why_now": "새 구속기소 발표10/30,기소10/29·검거10/15·송치10/23.2007년 범행과7월 실종수사를 오늘 사건으로 바꾸지 않음.첫 확인 MBN14:10,뉴시스15:26:46.",
+        "verified_at": 1793347269,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261030_0003848599",
+            "note": "뉴시스 발표 취재와 MBN 단독 본문에서오피스텔 전체 호실 DNA 감식·미제 사건 DNA 일치·두 사건 시인·29일 구속기소를 확인했다.실종 사건 가해자로 지목된 것은 아니다."
+          },
+          {
+            "url": "https://n.news.naver.com/article/057/0001975938",
+            "note": "MBN 단독 취재에서도7월 실종수사 DNA·15일 검거·23일 송치 경로 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261030_0003848599",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "기소·수사 발표 단계.실종 사건에도 가담했다거나 유죄 확정으로 쓰지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-30",
+          "observation": "뉴시스 발표 취재와 MBN 단독 본문에서오피스텔 전체 호실 DNA 감식·미제 사건 DNA 일치·두 사건 시인·29일 구속기소를 확인했다.실종 사건 가해자로 지목된 것은 아니다.",
+          "checked_materials": [],
+          "outline": [
+            "강서구 실종 사건을 찾던 전체 호실 감식",
+            "한 호실의 DNA와2007년 두 사건의 일치",
+            "검거·송치·29일 기소와30일 새 공개를 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.newsis.com/view/NISX20261030_0003848599"
+          }
+        ],
+        "excerpt": "",
+        "context": "새 구속기소 발표10/30,기소10/29·검거10/15·송치10/23.2007년 범행과7월 실종수사를 오늘 사건으로 바꾸지 않음.첫 확인 MBN14:10,뉴시스15:26:46.",
+        "fetched_at": 1793347607,
+        "parser_revision": 7
+      },
+      "curation_event_key": "gangseo-missing-person-dna-cold-case-indictment-20261030"
+    },
+    "99988334a40d": {
+      "source": "연합뉴스",
+      "title": "267만원 가방은 위법한 선물,남편 공모는 입증 안 돼…김기현 무죄·아내 벌금",
+      "link": "https://www.yna.co.kr/amp/view/AKR20261030122300004",
+      "first_seen_at": 1793347607,
+      "last_seen_at": 1793347607,
+      "samples": [
+        {
+          "at": 1793347607,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "99988334a40d",
+      "editorial": {
+        "title": "267만원 가방은 위법한 선물,남편 공모는 입증 안 돼…김기현 무죄·아내 벌금",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/amp/view/AKR20261030122300004",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "kim-gi-hyeon-spouse-luxury-bag-first-verdict-20261030",
+        "why": "같은 가방 전달에서 위법성은 인정하면서 부부의 공모 증명은 갈린 구체적인 판결 차이다.",
+        "angle": "위법한 선물이 맞아도 부부가 같은 판결을 받진 않았다",
+        "why_now": "10/30 1심 선고15:01 원취재 공개.가방 제공 혐의일은2023/3/17이며 새 선물 사건이 아니다.분 단위 시각.",
+        "verified_at": 1793347245,
+        "published_at": 1793340060,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/amp/view/AKR20261030122300004",
+            "note": "연합뉴스 법정 취재에서당대표 선거 지원 대가·대통령 직무 관련성 인정·아내500만원 벌금·남편 공모 증거 부족 무죄를 확인했다.특검 구형1년·6개월과 실제 선고를 구분했다.판결문 전체 미열람."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/amp/view/AKR20261030122300004",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "1심이며 확정 아님.선물이 합법이라는 판단도,부부 모두 무죄라는 판단도 아님.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-30",
+          "observation": "연합뉴스 법정 취재에서당대표 선거 지원 대가·대통령 직무 관련성 인정·아내500만원 벌금·남편 공모 증거 부족 무죄를 확인했다.특검 구형1년·6개월과 실제 선고를 구분했다.판결문 전체 미열람.",
+          "checked_materials": [],
+          "outline": [
+            "당대표 선거 지원 답례로 제공된267만원 가방",
+            "직무 관련성·위법성을 인정한 법원 판단",
+            "아내 벌금과 남편 공모 증명 부족 무죄를 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.yna.co.kr/amp/view/AKR20261030122300004"
+          }
+        ],
+        "excerpt": "",
+        "context": "10/30 1심 선고15:01 원취재 공개.가방 제공 혐의일은2023/3/17이며 새 선물 사건이 아니다.분 단위 시각.",
+        "fetched_at": 1793347607,
+        "parser_revision": 7
+      },
+      "curation_event_key": "kim-gi-hyeon-spouse-luxury-bag-first-verdict-20261030"
+    },
+    "e822348ed0cc": {
+      "source": "스타뉴스",
+      "title": "“나만 잘렸다”던 도경완의 복귀 편지…센터장 답도 “시청률 안 오르면 제거”",
+      "link": "https://www.starnewskorea.com/star/2026/10/30/2026103000243880109",
+      "first_seen_at": 1793347607,
+      "last_seen_at": 1793347607,
+      "samples": [
+        {
+          "at": 1793347607,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "e822348ed0cc",
+      "editorial": {
+        "title": "“나만 잘렸다”던 도경완의 복귀 편지…센터장 답도 “시청률 안 오르면 제거”",
+        "category": "시사",
+        "url": "https://www.starnewskorea.com/star/2026/10/30/2026103000243880109",
+        "source": "스타뉴스",
+        "kind": "article",
+        "event_key": "do-kyung-wan-pyeonstorang-center-chief-reply-20261029",
+        "why": "하차를 자책하던 방송인이 복귀 포부를 보내자 센터장이 같은 표현으로 받아친 왕복 대사가 완결된 웃음 포인트다.",
+        "angle": "복귀 감사 편지의 답장이 다시 해고 농담이었다",
+        "why_now": "원본 편스토랑7주년 방송10/29.10/30 07:00 스타뉴스 대사 취재와 구분.10/22 절약 방송을 새 장면으로 취급하지 않음.정확한 해당 대사 초단위 미확인.",
+        "verified_at": 1793347300,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.starnewskorea.com/star/2026/10/30/2026103000243880109",
+            "note": "스타뉴스 방송 취재 본문에서차트남 하차 설명·이상민은 잔류·장윤정의 미련 갖지 말라는 농담·붐이 대신 읽은 센터장 포상휴가/제거 코멘트를 확인했다.원방송 영상은 미시청."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.starnewskorea.com/star/2026/10/30/2026103000243880109",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "논란 때문에 하차했다는 인과 확인 없음.센터장 발언은 방송 속 농담.영상 미시청.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-29",
+          "observation": "스타뉴스 방송 취재 본문에서차트남 하차 설명·이상민은 잔류·장윤정의 미련 갖지 말라는 농담·붐이 대신 읽은 센터장 포상휴가/제거 코멘트를 확인했다.원방송 영상은 미시청.",
+          "checked_materials": [],
+          "outline": [
+            "차트남 하차 뒤 혼자 바뀌었다는 대화",
+            "편스토랑 복귀 감사·포상휴가를 제안한 편지",
+            "붐이 전한 센터장의 제거 농담으로 회수"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.starnewskorea.com/star/2026/10/30/2026103000243880109"
+          }
+        ],
+        "excerpt": "",
+        "context": "원본 편스토랑7주년 방송10/29.10/30 07:00 스타뉴스 대사 취재와 구분.10/22 절약 방송을 새 장면으로 취급하지 않음.정확한 해당 대사 초단위 미확인.",
+        "fetched_at": 1793347607,
+        "parser_revision": 7
+      },
+      "curation_event_key": "do-kyung-wan-pyeonstorang-center-chief-reply-20261029"
+    },
+    "9b66ef68acc9": {
+      "source": "뉴시스",
+      "title": "“공익 위한 공개” 주장했지만…피해자 신상 올린 변호사,2심서 법정구속",
+      "link": "https://www.newsis.com/view/NISX20261030_0003848168",
+      "first_seen_at": 1793347607,
+      "last_seen_at": 1793347607,
+      "samples": [
+        {
+          "at": 1793347607,
+          "views": null,
+          "reactions": null,
+          "rank": 8,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "9b66ef68acc9",
+      "editorial": {
+        "title": "“공익 위한 공개” 주장했지만…피해자 신상 올린 변호사,2심서 법정구속",
+        "category": "시사",
+        "url": "https://www.newsis.com/view/NISX20261030_0003848168",
+        "source": "뉴시스",
+        "kind": "article",
+        "event_key": "jung-chul-seung-victim-identity-appeal-custody-20261030",
+        "why": "법률대리인이 공개한 피해자 정보가 공익 행위라는 주장과 법원이 인정한2차 피해가 정면으로 충돌한다.",
+        "angle": "공익을 위한 글이라는 주장,법원은 피해자 공격으로 봤다",
+        "why_now": "새 항소심 병합 선고·법정구속10/30 11:29:54 공개.신상 게시2021/8·추행2023/3과 구분.1심 두 사건은 각각1년이었다.",
+        "verified_at": 1793347361,
+        "published_at": 1793327394,
+        "evidence": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261030_0003848168",
+            "note": "뉴시스 법원 취재 본문에서신상 특정 가능·공익 주장 배척·주요 혐의 유죄 유지·징역1년6개월·도주 우려 법정구속을 확인했다.강제추행치상 중 상해 부분 무죄는 구분했다.판결문 전체는 미열람."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261030_0003848168",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "피해자의 신상·세부 근무이력 재노출 금지.2심 결과이며 확정 여부 미확인.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-30",
+          "observation": "뉴시스 법원 취재 본문에서신상 특정 가능·공익 주장 배척·주요 혐의 유죄 유지·징역1년6개월·도주 우려 법정구속을 확인했다.강제추행치상 중 상해 부분 무죄는 구분했다.판결문 전체는 미열람.",
+          "checked_materials": [],
+          "outline": [
+            "SNS 공개 내용이 피해자를 특정할 수 있다는 판단",
+            "공익 목적 주장과 재판부의 배척 이유",
+            "병합2심 실형·구속과 상해 부분 무죄를 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.newsis.com/view/NISX20261030_0003848168"
+          }
+        ],
+        "excerpt": "",
+        "context": "새 항소심 병합 선고·법정구속10/30 11:29:54 공개.신상 게시2021/8·추행2023/3과 구분.1심 두 사건은 각각1년이었다.",
+        "fetched_at": 1793347607,
+        "parser_revision": 7
+      },
+      "curation_event_key": "jung-chul-seung-victim-identity-appeal-custody-20261030"
+    },
+    "5e36e63fafea": {
+      "source": "MBN",
+      "title": "트럭 넘어져 도로에 사과가 쏟아지자…학생·어르신들이 끝까지 주워 담았다",
+      "link": "https://n.news.naver.com/article/057/0001975937",
+      "first_seen_at": 1793347607,
+      "last_seen_at": 1793347607,
+      "samples": [
+        {
+          "at": 1793347607,
+          "views": null,
+          "reactions": null,
+          "rank": 9,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "5e36e63fafea",
+      "editorial": {
+        "title": "트럭 넘어져 도로에 사과가 쏟아지자…학생·어르신들이 끝까지 주워 담았다",
+        "category": "시사",
+        "url": "https://n.news.naver.com/article/057/0001975937",
+        "source": "MBN",
+        "kind": "article",
+        "event_key": "busan-yeonsan-apple-truck-citizen-cleanup-post-20261029",
+        "why": "과일이 쏟아진 도로로 시민들이 달려가 물건을 챙긴 게 아니라 경찰 정리가 끝날 때까지 도운 행동의 반전이다.",
+        "angle": "길바닥 사과를 보고 달려온 사람들의 목적",
+        "why_now": "사고는10/28 부산 연산역 인근.목격자 SNS 공개는10/29라는 MBN 본문을 확인했고 정확한 업로드 시각은 미확인.30일14:01 후속기사를 최초 사건으로 쓰지 않음.",
+        "verified_at": 1793347244,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://n.news.naver.com/article/057/0001975937",
+            "note": "MBN 본문에서스레드 목격자 게시·여러 시민의 사과 수거·경찰 도착 후 정리 종료까지 남은 경위를 확인했다.사진·영상은 직접 확인하지 않은 기사형이며 인명피해 없음은 목격 취재에 귀속한다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://n.news.naver.com/article/057/0001975937",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "원본 SNS 직접 열람·영상 시청 아님.목격 취재 범위,사고28일·게시29일 구별.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-28",
+          "observation": "MBN 본문에서스레드 목격자 게시·여러 시민의 사과 수거·경찰 도착 후 정리 종료까지 남은 경위를 확인했다.사진·영상은 직접 확인하지 않은 기사형이며 인명피해 없음은 목격 취재에 귀속한다.",
+          "checked_materials": [],
+          "outline": [
+            "28일 과일 트럭 전도와 사과가 흩어진 상황",
+            "학생·어르신 등 시민이 함께 수거한 목격 취재",
+            "경찰 정리 때까지 도운 결과와29일 게시 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://n.news.naver.com/article/057/0001975937"
+          }
+        ],
+        "excerpt": "",
+        "context": "사고는10/28 부산 연산역 인근.목격자 SNS 공개는10/29라는 MBN 본문을 확인했고 정확한 업로드 시각은 미확인.30일14:01 후속기사를 최초 사건으로 쓰지 않음.",
+        "fetched_at": 1793347607,
+        "parser_revision": 7
+      },
+      "curation_event_key": "busan-yeonsan-apple-truck-citizen-cleanup-post-20261029"
+    },
+    "ea4148db9b33": {
+      "source": "뉴시스",
+      "title": "중간 운영사 빼면 수수료33%→8~9%…휴게소 직계약,퇴직자단체도 제한",
+      "link": "https://files.newsis.com/view/NISX20261029_0003847045",
+      "first_seen_at": 1793347607,
+      "last_seen_at": 1793347607,
+      "samples": [
+        {
+          "at": 1793347607,
+          "views": null,
+          "reactions": null,
+          "rank": 10,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "ea4148db9b33",
+      "editorial": {
+        "title": "중간 운영사 빼면 수수료33%→8~9%…휴게소 직계약,퇴직자단체도 제한",
+        "category": "시사",
+        "url": "https://files.newsis.com/view/NISX20261029_0003847045",
+        "source": "뉴시스",
+        "kind": "article",
+        "event_key": "expressway-reststop-direct-contract-first-tender-20261030",
+        "why": "휴게소 가격 뒤에 붙는 중간 수수료를 줄이고 전관 참여까지 제한하는 실제 입찰 변화가 생활 돈 문제로 읽힌다.",
+        "angle": "휴게소 커피값을 내리려 계약 중간 단계를 없앤다",
+        "why_now": "10/30 10:00 새8곳 입찰 모집 공개.7월 개편방안과 구분.사업자12월 선정·내년 설 운영 계획이며 오늘 가격 인하 아님.",
+        "verified_at": 1793347362,
+        "published_at": 1793322000,
+        "evidence": [
+          {
+            "url": "https://files.newsis.com/view/NISX20261029_0003847045",
+            "note": "뉴시스의 국토부·도로공사 발표 취재 본문에서직계약 구조·수수료33%와8~9%(관리비 별도)·2000원 이하 커피 추진·전관 제한·도성회 철수를 확인했다.절감액의 소비자가격 반영은 계획이다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://files.newsis.com/view/NISX20261029_0003847045",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "전국 휴게소 일괄 인하 아님.2000원 커피는 계획,8~9%에는 관리비 별도.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-30",
+          "observation": "뉴시스의 국토부·도로공사 발표 취재 본문에서직계약 구조·수수료33%와8~9%(관리비 별도)·2000원 이하 커피 추진·전관 제한·도성회 철수를 확인했다.절감액의 소비자가격 반영은 계획이다.",
+          "checked_materials": [],
+          "outline": [
+            "도공→운영사→입점업체에서 직접 계약으로 변화",
+            "수수료 비교와 관리비 별도 조건",
+            "퇴직자단체 제한·8곳 시범·내년 설 시행 계획"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://files.newsis.com/view/NISX20261029_0003847045"
+          }
+        ],
+        "excerpt": "",
+        "context": "10/30 10:00 새8곳 입찰 모집 공개.7월 개편방안과 구분.사업자12월 선정·내년 설 운영 계획이며 오늘 가격 인하 아님.",
+        "fetched_at": 1793347607,
+        "parser_revision": 7
+      },
+      "curation_event_key": "expressway-reststop-direct-contract-first-tender-20261030"
+    },
     "014f17b69ed4": {
       "source": "MBC",
       "title": "게임에 쓴 이태원 참사 영상,유족 요구 뒤 삭제…액티비전 공식 사과",
@@ -27453,727 +28181,7 @@
         "parser_revision": 7
       },
       "curation_event_key": "india-october-pmi-growth-hiring-stalls-20261023"
-    },
-    "805c5a6f2430": {
-      "source": "경향신문·서울고법",
-      "title": "1심 유죄가 2심 무죄로 뒤집혔다…오세훈 시장직 상실 위기 벗어나",
-      "link": "https://www.khan.co.kr/article/202610231417001/amp",
-      "first_seen_at": 1792740602,
-      "last_seen_at": 1792740602,
-      "samples": [
-        {
-          "at": 1792740602,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "805c5a6f2430",
-      "editorial": {
-        "title": "1심 유죄가 2심 무죄로 뒤집혔다…오세훈 시장직 상실 위기 벗어나",
-        "category": "시사",
-        "url": "https://www.khan.co.kr/article/202610231417001/amp",
-        "source": "경향신문·서울고법",
-        "kind": "article",
-        "event_key": "oh-se-hoon-appeal-acquittal-political-funds-20261023",
-        "why": "1심에서 벌금 1천만원과 추징금 2천100만원을 선고받았던 오세훈 서울시장이 항소심에서 무죄를 받아 시장직 상실 위기에서 벗어났다.",
-        "angle": "여론조사비 3천300만원 대납 혐의→1심 벌금 1천만원→핵심 증언 신빙성 붕괴→피고인 3명 전원 무죄로 뒤집힌 흐름을 잡는다.",
-        "why_now": "서울고법이 23일 14시17분 한국시간 항소심 결과를 선고했고, 재판부가 명태균 진술을 믿기 어렵다고 본 구체적 이유가 공개됐다.",
-        "verified_at": 1792740400,
-        "published_at": 1792732620,
-        "evidence": [
-          {
-            "url": "https://www.khan.co.kr/article/202610231417001/amp",
-            "note": "경향신문 본문에서 오세훈·김한정·강철원 3명 전원 무죄, 1심 형량, 명태균 진술 신빙성을 배척한 재판부 판단을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.khan.co.kr/article/202610231417001/amp",
-            "label": "항소심 판결 보도",
-            "kind": "source"
-          }
-        ],
-        "caution": "항소심 판결이며 상고 여부와 대법원 확정 판단은 남아 있다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-23",
-          "observation": "판결 기사 본문에서 혐의 구조, 1심 유죄와 2심 무죄의 차이, 재판부가 핵심 증언을 배척한 이유를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: 여론조사비 대납 혐의와 1심 벌금 1천만원",
-            "2장: 핵심 증언의 추측·과장·기억 회피를 지적한 항소심",
-            "3장: 오세훈과 함께 기소된 2명까지 전원 무죄"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "항소심 판결 보도",
-            "url": "https://www.khan.co.kr/article/202610231417001/amp"
-          }
-        ],
-        "excerpt": "",
-        "context": "서울고법이 23일 14시17분 한국시간 항소심 결과를 선고했고, 재판부가 명태균 진술을 믿기 어렵다고 본 구체적 이유가 공개됐다.",
-        "fetched_at": 1792740602,
-        "parser_revision": 7
-      },
-      "curation_event_key": "oh-se-hoon-appeal-acquittal-political-funds-20261023"
-    },
-    "4854d7b9fa57": {
-      "source": "MBC·LH 자료",
-      "title": "국가대표 특공 당첨자 96%가 나홀로 청약…시세 차이는 최대 10억",
-      "link": "https://imnews.imbc.com/news/2026/econo/article/6860167_36932.html",
-      "first_seen_at": 1792740602,
-      "last_seen_at": 1792740602,
-      "samples": [
-        {
-          "at": 1792740602,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "4854d7b9fa57",
-      "editorial": {
-        "title": "국가대표 특공 당첨자 96%가 나홀로 청약…시세 차이는 최대 10억",
-        "category": "시사",
-        "url": "https://imnews.imbc.com/news/2026/econo/article/6860167_36932.html",
-        "source": "MBC·LH 자료",
-        "kind": "article",
-        "event_key": "korea-elite-athlete-housing-special-supply-96-percent-unopposed-20261023",
-        "why": "국가대표 우수선수 특별공급 23명 중 22명이 경쟁자 없이 당첨됐고, 실제 계약 아파트 한 곳은 분양가와 현재 실거래가 차이가 9억9천만원이었다.",
-        "angle": "국가대표 특공 34가구→당첨자 23명→22명 나홀로 청약→하남 한 채 시세차 9억9천만원 순으로 숫자 반전을 보여준다.",
-        "why_now": "MBC가 23일 10시09분 한국시간 LH 제출 자료를 바탕으로 2016~2026년 전체 현황과 계약·시세 차이를 처음 공개했다.",
-        "verified_at": 1792740400,
-        "published_at": 1792717740,
-        "evidence": [
-          {
-            "url": "https://imnews.imbc.com/news/2026/econo/article/6860167_36932.html",
-            "note": "MBC 본문에서 31개 단지 34가구, 당첨 23명 중 22명 단독 신청, 실제 계약 13건, 하남 사례의 4억7천만원→14억6천만원을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://imnews.imbc.com/news/2026/econo/article/6860167_36932.html",
-            "label": "MBC 단독·LH 자료",
-            "kind": "source"
-          }
-        ],
-        "caution": "특별공급 당첨 23명이 모두 계약한 것은 아니며 실제 계약은 13건이다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-23",
-          "observation": "LH 제출 자료를 인용한 MBC 본문에서 단독 청약 비율과 네 단지의 분양가 대비 시세 차이, 실제 계약 건수를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: 국가대표 우수선수 특별공급 10년간 34가구",
-            "2장: 당첨 23명 중 22명이 경쟁자 없는 나홀로 청약",
-            "3장: 하남 4억7천만원 분양가와 14억6천만원 실거래가 대비"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "MBC 단독·LH 자료",
-            "url": "https://imnews.imbc.com/news/2026/econo/article/6860167_36932.html"
-          }
-        ],
-        "excerpt": "",
-        "context": "MBC가 23일 10시09분 한국시간 LH 제출 자료를 바탕으로 2016~2026년 전체 현황과 계약·시세 차이를 처음 공개했다.",
-        "fetched_at": 1792740602,
-        "parser_revision": 7
-      },
-      "curation_event_key": "korea-elite-athlete-housing-special-supply-96-percent-unopposed-20261023"
-    },
-    "28302adafa06": {
-      "source": "Reuters·현지 연구진",
-      "title": "6만7천년 된 세계 최고 동굴벽화…산불이 800m 앞까지 왔다",
-      "link": "https://www.reuters.com/world/asia-pacific/worlds-oldest-cave-paintings-indonesia-under-threat-wildfires-2026-10-23/",
-      "first_seen_at": 1792740602,
-      "last_seen_at": 1792740602,
-      "samples": [
-        {
-          "at": 1792740602,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "28302adafa06",
-      "editorial": {
-        "title": "6만7천년 된 세계 최고 동굴벽화…산불이 800m 앞까지 왔다",
-        "category": "시사",
-        "url": "https://www.reuters.com/world/asia-pacific/worlds-oldest-cave-paintings-indonesia-under-threat-wildfires-2026-10-23/",
-        "source": "Reuters·현지 연구진",
-        "kind": "article",
-        "event_key": "indonesia-oldest-cave-art-wildfire-800-metres-20261023",
-        "why": "인도네시아 술라웨시의 6만7천800년 된 손도장 벽화와 5만1천200년 된 돼지 그림 인근까지 산불이 번져 열기와 그을음이 인류 최고(最古) 미술을 훼손할 수 있게 됐다.",
-        "angle": "6만7천800년 된 손도장→국립공원 270㏊ 소실→불길이 동굴 800m 앞까지 접근→열·그을음이 벽화를 지우는 원리를 보여준다.",
-        "why_now": "현장 소방관과 연구진이 23일 동굴 인근 화재 거리와 소실 면적, 벽화 훼손 위험을 공개했고 Reuters가 06시02분 UTC 보도했다.",
-        "verified_at": 1792740400,
-        "published_at": 1792735320,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/world/asia-pacific/worlds-oldest-cave-paintings-indonesia-under-threat-wildfires-2026-10-23/",
-            "note": "Reuters 본문에서 6만7천800년·5만1천200년 연대, 화재와 동굴 사이 800m, 국립공원 270㏊ 소실, 열과 그을음의 훼손 위험을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/world/asia-pacific/worlds-oldest-cave-paintings-indonesia-under-threat-wildfires-2026-10-23/",
-            "label": "벽화·산불 현장 보도",
-            "kind": "source"
-          }
-        ],
-        "caution": "동굴에 불이 직접 닿은 것은 아니며 연구진이 열과 연기 때문에 훼손이 빨라질 수 있다고 경고한 단계다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-23",
-          "observation": "Reuters 현장 기사에서 두 벽화의 연대, 화재 접근 거리와 소실 면적, 연구진이 설명한 열·그을음의 영향을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: 6만7천800년 된 손도장과 5만1천200년 된 돼지 그림",
-            "2장: 산불이 동굴 800m 앞까지 오고 국립공원 270㏊ 소실",
-            "3장: 불이 닿지 않아도 열은 부식을, 연기는 그을음을 남기는 위험"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "벽화·산불 현장 보도",
-            "url": "https://www.reuters.com/world/asia-pacific/worlds-oldest-cave-paintings-indonesia-under-threat-wildfires-2026-10-23/"
-          }
-        ],
-        "excerpt": "",
-        "context": "현장 소방관과 연구진이 23일 동굴 인근 화재 거리와 소실 면적, 벽화 훼손 위험을 공개했고 Reuters가 06시02분 UTC 보도했다.",
-        "fetched_at": 1792740602,
-        "parser_revision": 7
-      },
-      "curation_event_key": "indonesia-oldest-cave-art-wildfire-800-metres-20261023"
-    },
-    "c0826b161db0": {
-      "source": "Reuters·Field Level Media",
-      "title": "141경기 연속 20득점이 끝났다…SGA는 지시 기다리지 않고 스스로 벤치로",
-      "link": "https://www.reuters.com/sports/basketball/shai-gilgeous-alexanders-record-20-point-streak-ends-thunders-win-over-nuggets--flm-2026-10-23/",
-      "first_seen_at": 1792740602,
-      "last_seen_at": 1792740602,
-      "samples": [
-        {
-          "at": 1792740602,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "c0826b161db0",
-      "editorial": {
-        "title": "141경기 연속 20득점이 끝났다…SGA는 지시 기다리지 않고 스스로 벤치로",
-        "category": "메이저 스포츠",
-        "url": "https://www.reuters.com/sports/basketball/shai-gilgeous-alexanders-record-20-point-streak-ends-thunders-win-over-nuggets--flm-2026-10-23/",
-        "source": "Reuters·Field Level Media",
-        "kind": "article",
-        "event_key": "shai-141-game-20-point-streak-ends-self-bench-20261023",
-        "why": "샤이 길저스알렉산더가 4쿼터 10점을 몰아치고도 17점에 그쳤고, 상대가 벤치를 비우자 감독 지시도 기다리지 않고 스스로 나가 NBA 기록이 끝났다.",
-        "angle": "전반 7개 야투 전부 실패→4쿼터 10점 추격→2분 전 17점→상대 벤치 투입과 함께 스스로 벤치로 향한 결말을 잡는다.",
-        "why_now": "오클라호마시티-덴버전이 끝난 뒤 Reuters가 23일 04시58분 UTC 141경기 연속 20득점 기록 종료 과정과 본인 행동을 공개했다.",
-        "verified_at": 1792740400,
-        "published_at": 1792731480,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/sports/basketball/shai-gilgeous-alexanders-record-20-point-streak-ends-thunders-win-over-nuggets--flm-2026-10-23/",
-            "note": "Reuters 경기 본문에서 전반 0/7, 4쿼터 10점, 최종 17점, 141경기 기록과 경기 종료 2분 전 스스로 벤치로 향한 사실을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/sports/basketball/shai-gilgeous-alexanders-record-20-point-streak-ends-thunders-win-over-nuggets--flm-2026-10-23/",
-            "label": "경기 기록·전개",
-            "kind": "source"
-          }
-        ],
-        "caution": "선수의 벤치 이동 장면 자체는 직접 재생 확인하지 않아 기사·경기 기록 기반 카드뉴스로만 다룬다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-23",
-          "observation": "경기 기사에서 SGA의 전반·4쿼터 득점 흐름, 141경기 기록, 상대의 벤치 투입과 본인의 자진 교체 전후를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: 전반 야투 7개를 모두 놓치고 무득점",
-            "2장: 4쿼터 10점을 몰아쳤지만 17점에 멈춘 스코어",
-            "3장: 상대 벤치가 들어오자 감독 지시 전 스스로 나가며 끝난 141경기 기록"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "경기 기록·전개",
-            "url": "https://www.reuters.com/sports/basketball/shai-gilgeous-alexanders-record-20-point-streak-ends-thunders-win-over-nuggets--flm-2026-10-23/"
-          }
-        ],
-        "excerpt": "",
-        "context": "오클라호마시티-덴버전이 끝난 뒤 Reuters가 23일 04시58분 UTC 141경기 연속 20득점 기록 종료 과정과 본인 행동을 공개했다.",
-        "fetched_at": 1792740602,
-        "parser_revision": 7
-      },
-      "curation_event_key": "shai-141-game-20-point-streak-ends-self-bench-20261023"
-    },
-    "0366e91087c6": {
-      "source": "Reuters·인도네시아 경찰",
-      "title": "AIS 이상 포착해 세운 유조선…자루 58개에서 케타민 1.16톤",
-      "link": "https://www.reuters.com/world/asia-pacific/indonesia-seizes-116-tons-ketamine-police-chief-says-2026-10-23/",
-      "first_seen_at": 1792740602,
-      "last_seen_at": 1792740602,
-      "samples": [
-        {
-          "at": 1792740602,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "0366e91087c6",
-      "editorial": {
-        "title": "AIS 이상 포착해 세운 유조선…자루 58개에서 케타민 1.16톤",
-        "category": "시사",
-        "url": "https://www.reuters.com/world/asia-pacific/indonesia-seizes-116-tons-ketamine-police-chief-says-2026-10-23/",
-        "source": "Reuters·인도네시아 경찰",
-        "kind": "article",
-        "event_key": "indonesia-tanker-ais-anomaly-ketamine-116-ton-seizure-20261023",
-        "why": "인도네시아 당국이 선박 위치신호 이상을 추적해 몽골 선적 유조선을 세웠고 자루 58개에서 케타민 1.16톤을 압수했다.",
-        "angle": "AIS 이상 신호→말라카해협 항로 추적→유조선 검문→58자루·1.16톤·약 1억9천만달러 적발로 전개한다.",
-        "why_now": "인도네시아 경찰청장이 23일 압수 규모와 선박 항적·승선자 체포 내용을 발표했고 Reuters가 05시03분 UTC 보도했다.",
-        "verified_at": 1792740400,
-        "published_at": 1792731780,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/world/asia-pacific/indonesia-seizes-116-tons-ketamine-police-chief-says-2026-10-23/",
-            "note": "Reuters 본문에서 AIS 이상, 말레이시아 출항과 선박 간 환적 의심 항로, 58자루 1.16톤, 8명 체포와 약 1억9천만달러 가치를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/world/asia-pacific/indonesia-seizes-116-tons-ketamine-police-chief-says-2026-10-23/",
-            "label": "경찰청장 발표 보도",
-            "kind": "source"
-          }
-        ],
-        "caution": "선박 간 환적은 당국의 추정이며 수사·재판 전 단계다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-23",
-          "observation": "경찰청장 발표를 인용한 Reuters 본문에서 선박 항적, AIS 이상, 압수량·자루 수·체포 인원과 추정 가치를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: 자동식별장치 AIS에서 포착된 유조선의 이상",
-            "2장: 말레이시아 출항 뒤 말라카해협과 안다만해를 향한 항적",
-            "3장: 58자루에서 나온 케타민 1.16톤과 승선자 8명 체포"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "경찰청장 발표 보도",
-            "url": "https://www.reuters.com/world/asia-pacific/indonesia-seizes-116-tons-ketamine-police-chief-says-2026-10-23/"
-          }
-        ],
-        "excerpt": "",
-        "context": "인도네시아 경찰청장이 23일 압수 규모와 선박 항적·승선자 체포 내용을 발표했고 Reuters가 05시03분 UTC 보도했다.",
-        "fetched_at": 1792740602,
-        "parser_revision": 7
-      },
-      "curation_event_key": "indonesia-tanker-ais-anomaly-ketamine-116-ton-seizure-20261023"
-    },
-    "57127cebf9b7": {
-      "source": "Reuters·Kentik 분석",
-      "title": "북한 공식 사이트 40곳이 32시간 흔들렸다…베트남·베네수엘라발 트래픽 급증",
-      "link": "https://www.reuters.com/world/china/north-korean-internet-was-hit-by-ddos-cyberattack-network-monitoring-firm-says-2026-10-23/",
-      "first_seen_at": 1792740602,
-      "last_seen_at": 1792740602,
-      "samples": [
-        {
-          "at": 1792740602,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "57127cebf9b7",
-      "editorial": {
-        "title": "북한 공식 사이트 40곳이 32시간 흔들렸다…베트남·베네수엘라발 트래픽 급증",
-        "category": "시사",
-        "url": "https://www.reuters.com/world/china/north-korean-internet-was-hit-by-ddos-cyberattack-network-monitoring-firm-says-2026-10-23/",
-        "source": "Reuters·Kentik 분석",
-        "kind": "article",
-        "event_key": "north-korea-32-hour-ddos-forty-official-sites-20261023",
-        "why": "북한의 외무성·조선중앙통신을 포함한 공식 사이트 40곳 이상이 32시간 동안 간헐적으로 마비됐고, 같은 시각 베트남·베네수엘라 등에서 트래픽 파도가 관측됐다.",
-        "angle": "화요일 오전 11시 트래픽 급증→32시간 다중 파동→.kp 공식 사이트 40곳 이상 장애→분석업체의 디도스 판단과 공격자 미확정으로 정리한다.",
-        "why_now": "미국 네트워크 분석업체 Kentik이 이번 주 북한 인터넷 장애 데이터를 분석해 23일 Reuters에 설명했고 기사가 04시54분 UTC 공개됐다.",
-        "verified_at": 1792740400,
-        "published_at": 1792731240,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/world/china/north-korean-internet-was-hit-by-ddos-cyberattack-network-monitoring-firm-says-2026-10-23/",
-            "note": "Reuters 본문에서 트래픽 시작 시각·유입 지역, 32시간 다중 파동, 40개 이상 공식 사이트 장애와 분석 범위의 한계를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/world/china/north-korean-internet-was-hit-by-ddos-cyberattack-network-monitoring-firm-says-2026-10-23/",
-            "label": "Kentik 장애 분석",
-            "kind": "source"
-          }
-        ],
-        "caution": "Kentik은 전체 트래픽의 일부만 분석했으며 공격 주체는 확인되지 않았다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-23",
-          "observation": "Reuters 본문에서 Kentik의 트래픽 관측 수치·지역·장애 지속 시간과 공식 사이트 피해 범위, 공격자 미확정 한계를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: 화요일 오전 11시 북한망으로 급증한 해외 트래픽",
-            "2장: 32시간 동안 반복된 파동과 외무성·조선중앙통신 장애",
-            "3장: 공식 사이트 40곳 이상 피해, 디도스 판단과 공격자 미확정"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "Kentik 장애 분석",
-            "url": "https://www.reuters.com/world/china/north-korean-internet-was-hit-by-ddos-cyberattack-network-monitoring-firm-says-2026-10-23/"
-          }
-        ],
-        "excerpt": "",
-        "context": "미국 네트워크 분석업체 Kentik이 이번 주 북한 인터넷 장애 데이터를 분석해 23일 Reuters에 설명했고 기사가 04시54분 UTC 공개됐다.",
-        "fetched_at": 1792740602,
-        "parser_revision": 7
-      },
-      "curation_event_key": "north-korea-32-hour-ddos-forty-official-sites-20261023"
-    },
-    "faa4afd85c4b": {
-      "source": "Reuters·F1 기자회견",
-      "title": "42세 해밀턴을 더 뛰게 만든 이유…\"아프리카 GP 첫 경기는 가야지\"",
-      "link": "https://www.reuters.com/sports/formula1/hamilton-says-he-could-keep-going-now-that-african-race-is-planned-2026-10-22/",
-      "first_seen_at": 1792740602,
-      "last_seen_at": 1792740602,
-      "samples": [
-        {
-          "at": 1792740602,
-          "views": null,
-          "reactions": null,
-          "rank": 7,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "faa4afd85c4b",
-      "editorial": {
-        "title": "42세 해밀턴을 더 뛰게 만든 이유…\"아프리카 GP 첫 경기는 가야지\"",
-        "category": "메이저 스포츠",
-        "url": "https://www.reuters.com/sports/formula1/hamilton-says-he-could-keep-going-now-that-african-race-is-planned-2026-10-22/",
-        "source": "Reuters·F1 기자회견",
-        "kind": "article",
-        "event_key": "hamilton-africa-rwanda-grand-prix-retirement-20261022",
-        "why": "내년 1월 42세가 되는 해밀턴이 르완다의 2030년대 초 F1 개최 합의 때문에 '더 오래 남을 수밖에 없다'고 하자 20세 안토넬리가 최소 첫 경기는 뛰라고 거들었다.",
-        "angle": "1993년 뒤 끊긴 아프리카 F1→르완다 개최 합의→42세를 앞둔 해밀턴의 잔류 농담→20세 후배의 '첫 경기는 가야지'로 닫는다.",
-        "why_now": "미국 GP 기자회견에서 해밀턴이 은퇴 시점과 아프리카 GP를 직접 연결한 발언을 했고 Reuters가 22일 23시38분 UTC 공개했다.",
-        "verified_at": 1792740400,
-        "published_at": 1792712280,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/sports/formula1/hamilton-says-he-could-keep-going-now-that-african-race-is-planned-2026-10-22/",
-            "note": "Reuters 본문에서 해밀턴의 계약·나이, 르완다 개최 합의, 장기 잔류 발언과 안토넬리의 응수, 1993년 이후 아프리카 미개최를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/sports/formula1/hamilton-says-he-could-keep-going-now-that-african-race-is-planned-2026-10-22/",
-            "label": "해밀턴 발언 보도",
-            "kind": "source"
-          }
-        ],
-        "caution": "2030년대 초 개최 시점과 해밀턴의 실제 출전은 확정되지 않았고 르완다 개최에는 인권단체의 비판도 있다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "Reuters 본문에서 해밀턴과 안토넬리의 기자회견 문답, 르완다 합의 시기, 계약·나이와 아프리카 GP 공백을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: 아프리카 F1이 마지막으로 열린 1993년",
-            "2장: 르완다와 2030년대 초 개최에 합의한 F1",
-            "3장: 42세 해밀턴의 장기 잔류 발언과 20세 안토넬리의 맞장구"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "해밀턴 발언 보도",
-            "url": "https://www.reuters.com/sports/formula1/hamilton-says-he-could-keep-going-now-that-african-race-is-planned-2026-10-22/"
-          }
-        ],
-        "excerpt": "",
-        "context": "미국 GP 기자회견에서 해밀턴이 은퇴 시점과 아프리카 GP를 직접 연결한 발언을 했고 Reuters가 22일 23시38분 UTC 공개했다.",
-        "fetched_at": 1792740602,
-        "parser_revision": 7
-      },
-      "curation_event_key": "hamilton-africa-rwanda-grand-prix-retirement-20261022"
-    },
-    "55a3219a3378": {
-      "source": "Reuters·AFC 총회",
-      "title": "\"신뢰 위반\" 공개서한 뒤 지지 선언…AFC와 인판티노의 급화해",
-      "link": "https://www.reuters.com/sports/soccer/asian-football-confederation-boss-says-governing-body-will-back-fifa-president-2026-10-23/",
-      "first_seen_at": 1792740602,
-      "last_seen_at": 1792740602,
-      "samples": [
-        {
-          "at": 1792740602,
-          "views": null,
-          "reactions": null,
-          "rank": 8,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "55a3219a3378",
-      "editorial": {
-        "title": "\"신뢰 위반\" 공개서한 뒤 지지 선언…AFC와 인판티노의 급화해",
-        "category": "축구",
-        "url": "https://www.reuters.com/sports/soccer/asian-football-confederation-boss-says-governing-body-will-back-fifa-president-2026-10-23/",
-        "source": "Reuters·AFC 총회",
-        "kind": "article",
-        "event_key": "afc-salman-backs-infantino-after-trust-breach-letter-20261023",
-        "why": "FIFA 대회 상업권 매각안을 '근본적 신뢰 위반'이라며 공개 비판했던 AFC 회장이 인판티노 앞에서 아시아 전체의 연임 지지를 선언했고 인판티노도 그의 장기 집권을 공개 응원했다.",
-        "angle": "상업권 매각안 반대 공개서한→인판티노 사과→도쿄 총회에서 연임 지지→서로의 4선 도전을 치켜세운 장면으로 권력 화해를 보여준다.",
-        "why_now": "도쿄 AFC 임시총회에서 살만 회장과 인판티노가 직접 상호 지지 발언을 했고 Reuters가 23일 03시06분 UTC 공개했다.",
-        "verified_at": 1792740400,
-        "published_at": 1792724760,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/sports/soccer/asian-football-confederation-boss-says-governing-body-will-back-fifa-president-2026-10-23/",
-            "note": "Reuters 본문에서 과거 공동 공개서한, 인판티노 사과, 살만의 AFC 전체 지지 선언과 인판티노의 살만 지지 발언을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/sports/soccer/asian-football-confederation-boss-says-governing-body-will-back-fifa-president-2026-10-23/",
-            "label": "AFC 총회 발언 보도",
-            "kind": "source"
-          }
-        ],
-        "caution": "FIFA·AFC 회장 선거의 최종 후보와 결과는 아직 확정되지 않았다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-23",
-          "observation": "Reuters 본문에서 과거 반대 서한의 표현, 도쿄 총회의 상호 지지 직접 인용, 4선 일정과 UEFA의 반대 상황을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: FIFA 상업권 매각안을 '근본적 신뢰 위반'이라 비판한 AFC",
-            "2장: 도쿄 총회에서 인판티노 앞에 나온 아시아 전체 지지 선언",
-            "3장: 인판티노도 살만의 장기 집권을 치켜세운 상호 지원"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "AFC 총회 발언 보도",
-            "url": "https://www.reuters.com/sports/soccer/asian-football-confederation-boss-says-governing-body-will-back-fifa-president-2026-10-23/"
-          }
-        ],
-        "excerpt": "",
-        "context": "도쿄 AFC 임시총회에서 살만 회장과 인판티노가 직접 상호 지지 발언을 했고 Reuters가 23일 03시06분 UTC 공개했다.",
-        "fetched_at": 1792740602,
-        "parser_revision": 7
-      },
-      "curation_event_key": "afc-salman-backs-infantino-after-trust-breach-letter-20261023"
-    },
-    "67ade46d9bcf": {
-      "source": "Reuters·뉴질랜드 국방군",
-      "title": "뉴질랜드 군 수장이 사임하며 직접 밝힌 이유…\"지휘관 시절 부적절한 관계\"",
-      "link": "https://www.reuters.com/world/asia-pacific/new-zealands-top-military-officer-resigns-over-inappropriate-relationship-2026-10-23/",
-      "first_seen_at": 1792740602,
-      "last_seen_at": 1792740602,
-      "samples": [
-        {
-          "at": 1792740602,
-          "views": null,
-          "reactions": null,
-          "rank": 9,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "67ade46d9bcf",
-      "editorial": {
-        "title": "뉴질랜드 군 수장이 사임하며 직접 밝힌 이유…\"지휘관 시절 부적절한 관계\"",
-        "category": "시사",
-        "url": "https://www.reuters.com/world/asia-pacific/new-zealands-top-military-officer-resigns-over-inappropriate-relationship-2026-10-23/",
-        "source": "Reuters·뉴질랜드 국방군",
-        "kind": "article",
-        "event_key": "new-zealand-defence-chief-resigns-inappropriate-relationship-20261023",
-        "why": "뉴질랜드 국방군 최고 지휘관 토니 데이비스가 과거 부대 지휘관일 때의 '부적절한 관계'와 이를 밝히지 않은 판단 오류를 직접 인정하며 사임했다.",
-        "angle": "1984년 입대·2024년 최고직→과거 관계 미공개→본인의 책임 인정 사임문→국방장관의 '직 유지 불가' 판단으로 이어간다.",
-        "why_now": "뉴질랜드 국방군이 23일 데이비스의 사임문과 국방장관 입장을 공식 발표했고 Reuters가 03시49분 UTC 공개했다.",
-        "verified_at": 1792740400,
-        "published_at": 1792727340,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/world/asia-pacific/new-zealands-top-military-officer-resigns-over-inappropriate-relationship-2026-10-23/",
-            "note": "Reuters 본문에서 데이비스의 사임문, 지휘관 시절 관계와 미공개 인정, 국방장관의 직 유지 불가 판단과 직무대행 지정을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/world/asia-pacific/new-zealands-top-military-officer-resigns-over-inappropriate-relationship-2026-10-23/",
-            "label": "국방군 사임 발표",
-            "kind": "source"
-          }
-        ],
-        "caution": "관계의 상대·시기·구체 내용은 공개되지 않았으므로 추정하거나 선정적으로 확대하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-23",
-          "observation": "Reuters 본문에서 국방군이 공개한 데이비스의 직접 사임문과 국방장관 입장, 직무대행·재임 이력을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: 2024년 임명된 뉴질랜드 국방군 최고 지휘관",
-            "2장: 과거 지휘관 시절의 부적절한 관계와 미공개를 직접 인정",
-            "3장: 본인 사임과 국방장관의 '더는 유지할 수 없다' 판단"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "국방군 사임 발표",
-            "url": "https://www.reuters.com/world/asia-pacific/new-zealands-top-military-officer-resigns-over-inappropriate-relationship-2026-10-23/"
-          }
-        ],
-        "excerpt": "",
-        "context": "뉴질랜드 국방군이 23일 데이비스의 사임문과 국방장관 입장을 공식 발표했고 Reuters가 03시49분 UTC 공개했다.",
-        "fetched_at": 1792740602,
-        "parser_revision": 7
-      },
-      "curation_event_key": "new-zealand-defence-chief-resigns-inappropriate-relationship-20261023"
-    },
-    "6f2a8cf1e3a9": {
-      "source": "Reuters",
-      "title": "AI 투자 공포에 미 국채 10년물 금리 19bp 급락…SVB 사태 뒤 최대 움직임",
-      "link": "https://www.reuters.com/world/china/global-markets-view-europe-2026-10-23/",
-      "first_seen_at": 1792740602,
-      "last_seen_at": 1792740602,
-      "samples": [
-        {
-          "at": 1792740602,
-          "views": null,
-          "reactions": null,
-          "rank": 10,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "6f2a8cf1e3a9",
-      "editorial": {
-        "title": "AI 투자 공포에 미 국채 10년물 금리 19bp 급락…SVB 사태 뒤 최대 움직임",
-        "category": "시사",
-        "url": "https://www.reuters.com/world/china/global-markets-view-europe-2026-10-23/",
-        "source": "Reuters",
-        "kind": "article",
-        "event_key": "ai-capex-fear-us-ten-year-yield-19bp-drop-20261023",
-        "why": "Meta의 수천억달러 투자 언급과 CoreWeave 급락 뒤 안전자산 쏠림이 발생해 미 10년물 금리가 하루 19bp 내려갔다.",
-        "angle": "Meta 수천억달러 발언→주가 약 7% 하락→CoreWeave 10% 추가 하락→SVB 붕괴 뒤 가장 큰 국채 움직임으로 잇는다.",
-        "why_now": "Reuters가 23일 04시31분 UTC 밤사이 AI 자금조달 우려와 채권·외환 시장의 동시 반응을 정리해 공개했다.",
-        "verified_at": 1792740400,
-        "published_at": 1792729860,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/world/china/global-markets-view-europe-2026-10-23/",
-            "note": "Reuters 본문에서 10년물 금리 19bp 하락, 장기채 가격 2포인트 상승, Meta 약 7%·CoreWeave 10% 하락과 AI 투자비 추정치를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/world/china/global-markets-view-europe-2026-10-23/",
-            "label": "Reuters 시장 정리",
-            "kind": "source"
-          }
-        ],
-        "caution": "Reuters의 Morning Bid 해설이며 단일 사건 원인으로 확정한 보도가 아니다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-23",
-          "observation": "Reuters 시장 본문에서 AI 자금조달 우려, 관련주 낙폭, 미국 장기채 가격·수익률과 엔·스위스프랑 움직임을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: Meta의 수천억달러 AI 설비투자 언급",
-            "2장: Meta 약 7%·CoreWeave 10% 추가 하락",
-            "3장: 미 10년물 금리 19bp 급락과 안전자산 쏠림"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "Reuters 시장 정리",
-            "url": "https://www.reuters.com/world/china/global-markets-view-europe-2026-10-23/"
-          }
-        ],
-        "excerpt": "",
-        "context": "Reuters가 23일 04시31분 UTC 밤사이 AI 자금조달 우려와 채권·외환 시장의 동시 반응을 정리해 공개했다.",
-        "fetched_at": 1792740602,
-        "parser_revision": 7
-      },
-      "curation_event_key": "ai-capex-fear-us-ten-year-yield-19bp-drop-20261023"
     }
   },
-  "updated_at": 1793336959
+  "updated_at": 1793347607
 }
