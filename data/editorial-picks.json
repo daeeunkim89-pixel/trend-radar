@@ -1,553 +1,478 @@
 {
   "version": 2,
-  "hour_utc": "2026103002",
+  "hour_utc": "2026103005",
   "reviewer": "ChatGPT",
-  "generated_at": 1793326152,
+  "generated_at": 1793336882,
   "coverage": {
     "queries": [
-      "\"2026.10.30\" 축구 \"논란\" -모레노 -황희찬 -음바페",
-      "\"2026.10.30\" \"여돌\" -순위 -브랜드",
-      "\"2026.10.30\" \"적발\" -채용",
-      "\"2026.10.30\" \"뒤집\"",
-      "\"2026.10.30\" \"징역\" -윤석열 -햄버거 -계엄",
-      "\"2026.10.30\" \"황당\" -구인",
-      "\"2026.10.30\" \"환불\" -유니클로",
-      "\"2026.10.30\" \"아이돌\" \"유튜브\" -순위",
-      "\"2026.10.30\" \"김기현\" \"선고\"",
-      "\"2026.10.30\" \"햄버거\" \"선고\"",
-      "\"2026.10.30\" \"횡령\"",
-      "\"2026.10.30\" \"걸그룹\" \"실수\"",
-      "\"홈플러스\" \"희망퇴직도 취소\"",
-      "\"2026.10.30\" \"법원\" \"반환\" -테슬라 -신탁",
-      "\"2026.10.30\" \"체포\" -가미야마 -베이컨",
-      "\"2026.10.30\" \"아이브\" \"예능\"",
-      "\"2026.10.30\" \"지급\" \"취소\" -홈플러스 -김기현",
-      "\"2026.10.30\" \"교사\" \"벌금\"",
-      "\"2026.10.30\" \"오류\" 돈",
-      "\"2026.10.30\" \"퇴직금\" \"2030\"",
-      "\"2026.10.30\" \"구속\" \"사기\"",
-      "\"2026.10.30\" \"징역\" \"만원\" -윤석열",
-      "\"2026.10.30\" \"벌금\" -채용 -계엄",
-      "\"2026.10.30\" \"아이돌\" \"고백\"",
-      "\"2026.10.30\" \"정경미\" \"연극영화과\"",
-      "\"2026.10.29\" \"야마구치\" \"코트\"",
-      "\"2026.10.30\" \"하이록스\" \"사과\"",
-      "\"2026.10.30\" \"디마리아\" \"7년\"",
-      "\"2026.10.30\" \"20조\" \"18년\"",
-      "\"2026.10.29\" \"뮤지컬\" \"사과문\"",
-      "\"2026.10.30\" \"닭\" \"업체\"",
-      "\"2026.10.30\" \"부당\" \"법원\"",
-      "\"2026.10.30\" \"14층\" \"구한\"",
-      "\"2026.10.30\" \"5호선\" \"패딩\"",
-      "\"2026.10.30\" \"이봉주\" \"러닝크루\"",
-      "\"2026.10.29\" \"눈\" \"레슬링\"",
-      "\"14층\" \"올려줄게요\" \"2026\"",
-      "\"5호선\" \"패딩\" \"2026\"",
-      "\"디마리아\" \"디바니\" \"2026\"",
-      "\"Wietrzyk\" \"apology\" \"October\" \"2026\"",
-      "\"2026.10.29\" \"아이브\" \"유튜브\"",
-      "\"2026.10.29\" \"설윤\" \"자컨\"",
-      "\"2026.10.30\" \"카리나\" \"말\"",
-      "\"2026.10.29\" \"장원영\" \"웃음\"",
+      "\"2026.10.30\" \"구속\" -윤석열 -계엄",
       "\"2026.10.30\" \"무죄\" \"롯데리아\"",
-      "\"2026.10.30\" \"판결\" \"만원\" -윤석열 -계엄",
-      "\"2026.10.29\" \"방반말\" \"인기가요\"",
-      "\"2026.10.30\" \"학폭\" \"교장\"",
-      "\"불법조업\" \"몰수\" \"2026.10.29\"",
-      "\"디마리아\" \"세르히오\" \"2026.10.29\"",
-      "\"영덕\" \"순경\" \"감찰\" \"2026.10.29\"",
-      "\"J35HPQoniAQ\"",
-      "\"롯데리아 회동\" \"무죄\" \"2026.10.30\" 이유",
-      "\"2026.10.30\" \"부당\" \"수당\"",
-      "\"2026.10.30\" \"피해\" \"소변\" \"텀블러\"",
-      "\"디마리아\" \"디바니\" 징역",
-      "\"2026.10.30\" \"챗GPT\" \"약\" \"사망\"",
-      "\"2026.10.30\" \"인간 라바콘\"",
-      "\"2026.10.30\" \"축구\" \"벌금\" -황희찬 -네이마르",
-      "\"2026.10.30\" \"터너\" \"스미르노바\" 28",
-      "\"2026.10.30\" \"혼다\" \"2G\"",
-      "\"2026.10.29\" \"심판 수준\" \"징계\"",
-      "\"Sergio Divani\" \"October 29\" 2026",
-      "\"방반말\" \"민주\" \"윤아\" \"2026.10.30\"",
-      "\"マキノ\" \"2026年10月29日\" \"処分\"",
-      "\"ディバニ\" \"2026\" \"ディマリア\"",
-      "\"Sergio Divani\" \"2026\" \"condenado\"",
-      "\"인간 라바콘\" \"2026.10.29\"",
-      "site:jleague.jp \"2026/10/29\" \"槙野\"",
-      "site:myfc.co.jp \"20261029\" \"槙野\"",
-      "\"2026.10.29\" \"사건반장\" \"주차\"",
-      "\"2026.10.29\" \"보디가드\" \"피해\"",
-      "\"Di Maria\" \"Divani\" \"2026\" \"octubre\"",
-      "\"マキノ\" \"槙野\" \"2026\" \"29\" \"審判\" \"藤枝\"",
-      "\"정경미\" \"99학번\" \"29일\"",
-      "\"홈플러스\" \"희망퇴직\" \"29일\" \"16\"",
-      "Di Maria Sergio Divani menaces sept ans prison 29 octobre 2026",
-      "\"槙野智章監督\" \"2026/10/29\"",
-      "\"정경미\" \"99학번\" \"학원\"",
-      "\"주차\" \"60대\" \"사건반장\" \"29일\" \"2026\"",
-      "\"2026.10.30\" \"구리\" \"인사\" \"관리소장\"",
-      "\"2026.10.30\" \"현금\" \"반환\" -테슬라 -신탁",
-      "\"2026.10.30\" \"판결\" \"해고\"",
-      "\"KIA\" \"주자\" \"직선타\" \"2026.10.30\"",
-      "\"2026.10.29\" \"이호연\" \"병살\"",
-      "\"2026.10.30\" \"김민규\" \"실수\"",
-      "\"槙野\" \"2026年10月29日\" \"ハンド\" \"扇谷\""
+      "\"2026.10.30\" \"아이돌\" \"유튜브\"",
+      "\"2026.10.30\" \"축구\" \"침\"",
+      "\"2026.10.30\" \"환불\" -테슬라",
+      "\"2026.10.30\" \"적발\" -채용 -마약",
+      "\"2026.10.30\" \"걸그룹\" \"실수\"",
+      "\"2026.10.30\" \"황당\" -패딩 -희망퇴직",
+      "\"2026.10.30\" \"반환\" -신탁 -어선 -테슬라",
+      "\"2026.10.30\" \"부당\" \"법원\"",
+      "\"2026.10.30\" \"축구\" \"징계\" -황희찬 -마키노 -혼다",
+      "\"2026.10.30\" \"아이브\" \"고백\"",
+      "2026년 10월 30일 횡령 벌금 판결 돈",
+      "2026년 10월 30일 환불 거부 소비자",
+      "2026년 10월 30일 여돌 예능 말실수",
+      "2026년 10월 30일 축구 황당 감독",
+      "\"콜오브듀티\" \"이태원\" \"2026.10.30\" 사과",
+      "\"2026.10.30\" \"AI안경\" \"풀어\"",
+      "\"2026.10.30\" \"해킹\" \"자산\" \"프라뱅\"",
+      "\"아일릿\" \"인기가요\" \"방반말\" 2026",
+      "\"콜오브듀티\" \"머리 숙여\" \"삭제\"",
+      "\"2026.10.30\" \"300만원\" \"도박\"",
+      "\"2026.10.30\" \"수능\" \"스마트안경\"",
+      "\"2026.10.30\" \"아가씨\" \"약사\"",
+      "\"387차례\" \"2026\" \"도박\"",
+      "\"프라뱅\" \"2026.10.29\" \"전액\"",
+      "\"2026.10.30\" \"5세\" \"자폐\"",
+      "\"2026.10.30\" \"오송금\"",
+      "\"2026.10.30\" \"삼성물산\" \"손배\"",
+      "\"2026.10.30\" \"센터장\" \"사표\"",
+      "\"2026.10.30\" \"법원\" \"반환\" -테슬라 -신탁 -어선",
+      "\"2026.10.30\" \"해고\" \"법원\" -명태균",
+      "\"2026.10.30\" \"양홍원\" \"35만\"",
+      "\"2026.10.30\" \"사기\" \"반전\"",
+      "\"2026.10.30\" \"수능\" \"AI안경 끼고\"",
+      "\"2026.10.30\" \"부당\" \"해고\" 판결",
+      "\"양홍원\" \"인터뷰비\" \"35\"",
+      "\"삼성물산\" \"옛 주주\" \"2026.10.29\"",
+      "\"Dan Sullivan\" \"namesake\" \"October 29\" \"2026\"",
+      "\"2026.10.30\" \"벌금\" -계엄 -윤석열 -동덕 -도박",
+      "Jack Grealish Everton Newcastle disciplinary October 30 2026 BBC",
+      "\"2026.10.30\" \"양홍원\" \"거짓말\" \"인터뷰\"",
+      "\"2026.10.30\" \"하이브\" \"기소\"",
+      "\"2026.10.30\" \"소변\" \"텀블러\"",
+      "\"2026.10.30\" \"따라해볼레이\"",
+      "\"2026.10.30\" \"설윤\" \"말\" -식사 -삼시세끼",
+      "\"2026.10.30\" \"카리나\" \"주우재\"",
+      "\"2026.10.30\" \"민주\" \"윤아\" \"방지민\"",
+      "\"스마트안경 걸리면\" \"징역 5년\" MBC",
+      "\"스마트안경\" \"대응 계획\" site:moe.go.kr",
+      "\"그릴리시\" \"규정 위반\" \"2026.10.30\"",
+      "\"2026.10.30\" \"손흥민\" \"침\" 팬"
     ],
     "opened_urls": [
-      "https://myfc.co.jp/news/20261029/1193009/",
-      "https://www.newsis.com/view/NISX20261029_0003846672",
-      "https://www.youtube.com/watch?v=J35HPQoniAQ",
-      "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016084",
-      "https://biz.chosun.com/industry/business-venture/2026/10/30/T6W22B2TJFEQTAV45NZDZH7C5U/?outputType=amp",
-      "https://news.nate.com/view/20261030n08911",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822212",
-      "https://www.sidae.com/article/2026102909363590236",
-      "https://webzine.kookmin.ac.kr/webzine.php?mcode=14&scode=1&svolume=3&syear=2015",
-      "https://www.fnnews.com/news/202610291705156648",
-      "https://www.hankyung.com/article/2026102944857",
-      "https://www.xportsnews.com/article/2212838",
-      "https://www.leparisien.fr/sports/football/tirs-tete-de-cochon-et-menaces-sur-sa-fille-un-ultra-argentin-ecope-de-plus-de-7-ans-de-prison-pour-avoir-intimide-angel-di-maria-28-10-2026-J3K5AKP3EJEGVKPKSLEYYGE3ME.php",
-      "https://www.chosun.com/sports/baseball/2026/10/30/MY4TKODFMY2GKNJWGEZGIMRWHE/",
-      "https://www.fnnews.com/news/202610291624256724",
-      "https://www.fnnews.com/news/202610300751011797",
-      "https://files.newsis.com/view/NISX20261030_0003847657",
-      "https://www.xportsnews.com/article/2213252",
-      "https://www.newsis.com/view/NISX20261030_0003847558",
-      "https://mothership.sg/2026/10/hyrox-athlete-soiled-mid-race-apologises-comeback/",
-      "https://www.xportsnews.com/article/2213205",
-      "https://people.com/hyrox-world-champion-who-soiled-herself-announces-her-return-to-racing-12200271",
-      "https://prod.biz.chosun.com/distribution/channel/2026/10/29/VD7LNAEEORCAFNRGC2KDTXDRPU/",
-      "https://www.starnewskorea.com/star/2026/10/29/2026102919263016396",
-      "https://www.aptn.co.kr/news/articleView.html?idxno=113096",
+      "https://www.mk.co.kr/news/society/12191397",
+      "https://www.moe.go.kr/boardCnts/list.do?boardID=294&m=020402&s=moe",
+      "https://imnews.imbc.com/replay/2026/nwtoday/article/6861857_37013.html",
+      "https://www.newsis.com/view/NISX20261030_0003847845",
+      "https://www.yna.co.kr/view/AKR20261029111000053",
+      "https://www.osen.co.kr/article/G1112900743",
+      "https://www.chosun.com/sports/world-football/2026/10/30/GIZGMYJQGJSDKYZUMI4TGN3EGE/",
+      "https://www.instiz.net/pt/7919598",
+      "https://www.khan.co.kr/article/202610292116035",
+      "https://www.newsis.com/view/NISX20261030_0003848266",
+      "https://nwww.newsis.com/view/NISX20261030_0003847485",
+      "https://www.aljazeera.com/news/2026/10/29/trump-demands-alaska-candidates-be-removed-over-alleged-ballot-scheme",
+      "https://www.newsis.com/view/NISX20261030_0003848073",
+      "https://www.yna.co.kr/amp/view/AKR20261030078000530",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822876",
       "https://www.instagram.com/bythepulse/",
-      "https://www.xportsnews.com/article/2212998",
-      "https://www.jleague.jp/news/article/35233/?navicode=j2",
-      "https://bbs.ruliweb.com/community/board/300143/read/77201156",
-      "https://www.newsis.com/view/NISX20261030_0003847699",
-      "https://www.soccerdigestweb.com/news/detail/id%3D199077",
-      "https://www.kumanichi.com/articles/2052112",
-      "https://www.ajunews.com/view/20261030081328478",
-      "https://news.nate.com/view/20261029n19815",
-      "https://img1.newsis.com/2026/10/30/NISI20261030_0002278165_web.jpg",
-      "https://img1.newsis.com/2026/10/30/NISI20261030_0002278202_web.jpg"
+      "https://imnews.imbc.com/news/2026/society/article/6861915_36919.html",
+      "https://www.yna.co.kr/view/AKR20261029081600004",
+      "https://www.chosun.com/national/education/2026/10/30/UBISK372CZAOLA5LUAYEEL2RIE/",
+      "https://www.news1.kr/society/education/6337524",
+      "https://www.skysports.com/football/news/13605512/jack-grealish-dropped-by-everton-after-breaching-club-discipline-ahead-of-newcastle-carabao-cup-tie",
+      "https://www.dispatch.co.kr/2350024"
     ],
     "unavailable": [
-      "수집 정상 종료·새760개·누적3000,최신 inbox20 및 독립 원문으로 조사.펨코 직접·네이버 스포츠 영상 오류 경로는 전환",
-      "7일 실제 sent/uncertain372개 사건·URL 대조.이미 발송한 어선 반환·동일 축구 논란 제외.수집/보류는 발송으로 세지 않음",
-      "BTP 공개 Instagram은 로그인 안내만 확인돼 실제 게시 대조 불가.공개 발송 아카이브·history 기준 중복검사 유지",
-      "KBS 공식 방반말29일19:00 공개 메타데이터 확인.자막 요청200 빈 응답·영상 시청 미확인으로 선정 제외,RSS 재요청 없음",
-      "LeParisien HTTP 본문은 Site Unavailable이나 검색 도구 원문으로 AFP 기사 날짜·선고일 대조.판결문 자체 미열람",
-      "48시간 넘는 구인글·AI 약 중단 소송·레슬링27일 경기 재보도 제외.하이록스28일 SNS 분 단위 공개 미확정은 예비 미선정"
+      "수집 진입점1회 exit0·신규780개·pool3000·inbox20 확인.펨코 직접·네이버 스포츠 영상 오류는 독립 취재로 전환",
+      "최근7일 실제 sent/uncertain362개 사건·URL·자료 대조.이미 보낸 음바페·모레노·희망퇴직·정경미 등 제외",
+      "Instagram BTP 공개 페이지는 로그인 안내만 있어 실제 게시 대조 불가.공개 발송 아카이브와 receiver 중복검사를 유지",
+      "영상 직접 시청으로 승인한 scene은 없음.구체 발언·대응은 취재 본문으로 확인한 major_news이며 해당 한계를 각 항목에 기록",
+      "원문이 제목만 반환한 조선일보와 본문 제한 뉴스1은 다른 독립 보도·공식 자료로 전환.재열람 반복 없음",
+      "48시간 초과인 외제차 구인글·버스 끼임·프라뱅26일 공지를 재기사 날짜로 신규 처리하지 않음"
     ]
   },
   "picks": [
     {
-      "title": "400명 희망퇴직,퇴직 이틀 앞두고 취소…밀린 월급75%도 지급 미정",
+      "title": "게임에 쓴 이태원 참사 영상,유족 요구 뒤 삭제…액티비전 공식 사과",
       "category": "시사",
-      "url": "https://prod.biz.chosun.com/distribution/channel/2026/10/29/VD7LNAEEORCAFNRGC2KDTXDRPU/",
-      "source": "조선비즈",
+      "url": "https://imnews.imbc.com/news/2026/society/article/6861915_36919.html",
+      "source": "MBC",
       "kind": "article",
-      "event_key": "homeplus-voluntary-retirement-cancellation-wage75-delay-20261029",
-      "why": "위로금 없이도400명이 몰린 희망퇴직이 취소되고 재직자의 체불금 지급도 미뤄진 이중 반전이다.",
-      "angle": "떠나는 직원의 정산도,남은 직원의 월급도 못 주는 상황",
-      "why_now": "10/29 오후 새 취소 공지.원문 메타16:02:48 KST·검색 본문16:16 기재가 달라 분 단위 최초 공개 미확정.두 시각 모두24시간 이내.31일 퇴직·30일 체불금 지급 번복.",
-      "verified_at": 1793325851,
-      "published_at": null,
+      "event_key": "activision-itaewon-footage-removal-apology-20261030",
+      "why": "실제 참사 영상을 가상 전쟁 게임에 사용했다가 유족 항의와 보도 뒤 삭제를 약속한 구체적인 대응 변화다.",
+      "angle": "가상의 전쟁 장면에 현실의 참사를 넣었다가",
+      "why_now": "최초 논란 보도10/27과 별개로10/30 MBC에 보낸 새 입장문·삭제 약속.10:55 공개,11:03 수정과 구분.삭제 예정일11/12.",
+      "verified_at": 1793336562,
+      "published_at": 1793325300,
       "evidence": [
         {
-          "url": "https://prod.biz.chosun.com/distribution/channel/2026/10/29/VD7LNAEEORCAFNRGC2KDTXDRPU/",
-          "note": "원취재와 한국경제·파이낸셜뉴스 본문에서 희망퇴직 취소·고용관계 유지·8월 급여75% 지급 연기를 대조했다.신청400여명은 추산이며 일반 사직을 금지했다는 의미가 아니다."
-        },
-        {
-          "url": "https://www.hankyung.com/article/2026102944857",
-          "note": "퇴직 절차 취소 뒤 고용관계 유지와 체불급여 잔여75% 지급 연기를 독립 보도에서 대조."
+          "url": "https://imnews.imbc.com/news/2026/society/article/6861915_36919.html",
+          "note": "MBC가 받은 액티비전 입장문 본문에서 공식 사과·11/12 업데이트 삭제 계획·의도는 없었다는 해명을 확인했다.실제 게임 영상이나 업데이트를 실행한 것은 아니며 삭제 완료가 아니다."
         }
       ],
       "materials": [
         {
-          "url": "https://prod.biz.chosun.com/distribution/channel/2026/10/29/VD7LNAEEORCAFNRGC2KDTXDRPU/",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6861915_36919.html",
           "label": "확인한 원문 취재",
           "kind": "source"
         }
       ],
-      "caution": "일반 사직 금지 아님.청산·전 점포 단전 확정으로 확대 금지.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-29",
-        "observation": "원취재와 한국경제·파이낸셜뉴스 본문에서 희망퇴직 취소·고용관계 유지·8월 급여75% 지급 연기를 대조했다.신청400여명은 추산이며 일반 사직을 금지했다는 의미가 아니다.",
-        "checked_materials": [],
-        "outline": [
-          "위로금 없는 희망퇴직에400여명 신청한 배경",
-          "31일 퇴직 예정이29일 취소된 과정",
-          "급여 잔여75% 새 지급일도 미정이라는 실제 손익"
-        ]
-      }
-    },
-    {
-      "title": "“오심 맞다” 인정한 날,항의 감독은2경기 정지·벌금10만엔",
-      "category": "축구",
-      "url": "https://myfc.co.jp/news/20261029/1193009/",
-      "source": "후지에다MYFC 공식",
-      "kind": "article",
-      "event_key": "fujieda-makino-two-game-ban-jfa-handball-error-acknowledgment-20261029",
-      "why": "문제 삼은 판정은 오심으로 인정됐는데 항의 방식으로 감독이 징계받는 엇갈린 결론이 선명하다.",
-      "angle": "판정 비판은 맞았는데 징계는 감독에게 간 이유",
-      "why_now": "경기는10/24.새 사건은10/29 징계 발표·심판위원장 오심 인정.구단 공지는 날짜 정밀도,리그 명단은19:40 KST 공개.",
-      "verified_at": 1793325876,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://myfc.co.jp/news/20261029/1193009/",
-          "note": "후지에다 공식 공지에서2경기 벤치 정지·10만엔·공개 인터뷰 반복 비판을 가중 사유로 확인했다.공동통신 현장 취재는 같은 날 JFA 위원장의 핸드볼 오심 인정을 전한다.경기 영상은 미시청."
-        },
-        {
-          "url": "https://www.kumanichi.com/articles/2052112",
-          "note": "공동통신의10/29 브리핑 취재에서 JFA 심판위원장의 판정 오류 인정을 확인."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://myfc.co.jp/news/20261029/1193009/",
-          "label": "확인한 원문 취재",
-          "kind": "source"
-        }
-      ],
-      "caution": "오심 인정이 경기 결과 취소·징계 철회라는 뜻 아님.영상 미시청.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-29",
-        "observation": "후지에다 공식 공지에서2경기 벤치 정지·10만엔·공개 인터뷰 반복 비판을 가중 사유로 확인했다.공동통신 현장 취재는 같은 날 JFA 위원장의 핸드볼 오심 인정을 전한다.경기 영상은 미시청.",
-        "checked_materials": [],
-        "outline": [
-          "10/24 핸드볼 미선언에 대한 감독 비판 소개",
-          "10/29 JFA의 오심 인정과 별개인 항의 방식 징계 구별",
-          "1경기 기본에 공개 비판 가중1경기·벌금 결과 제시"
-        ]
-      }
-    },
-    {
-      "title": "사기 피의자 체포한 곳이 여경 집…집주인·검거 경찰까지 감찰",
-      "category": "시사",
-      "url": "https://www.fnnews.com/news/202610291705156648",
-      "source": "뉴시스·파이낸셜뉴스",
-      "kind": "article",
-      "event_key": "yeongdeok-police-officer-boyfriend-concealment-inspection-20261029",
-      "why": "체포영장 피의자가 현직 경찰 집에 있었고 그 경찰뿐 아니라 검거팀 대응까지 조사한다는 역전이다.",
-      "angle": "범인을 잡은 장소 때문에 경찰 두 쪽이 조사받는다",
-      "why_now": "체포는지난7월.새 공개는10/29 17:05 뉴시스 단독 감찰 취재.30일 재기사·수집 시각을 최초 공개로 바꾸지 않았다.",
-      "verified_at": 1793325725,
-      "published_at": 1793261117,
-      "evidence": [
-        {
-          "url": "https://www.fnnews.com/news/202610291705156648",
-          "note": "뉴시스 원취재 본문에서 여경 자택의 남자친구 체포·임시 부서 이동·검거 수사관 대응 감찰을 확인했다.인지·은닉은 조사 중인 의혹이며 여경은 범행을 몰랐다고 해명했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.fnnews.com/news/202610291705156648",
-          "label": "확인한 원문 취재",
-          "kind": "source"
-        }
-      ],
-      "caution": "여경의 은닉·공범 확정 아님.체포는7월,새 공개는 감찰 취재.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-29",
-        "observation": "뉴시스 원취재 본문에서 여경 자택의 남자친구 체포·임시 부서 이동·검거 수사관 대응 감찰을 확인했다.인지·은닉은 조사 중인 의혹이며 여경은 범행을 몰랐다고 해명했다.",
-        "checked_materials": [],
-        "outline": [
-          "지난7월 체포 장소와 집주인의 경찰 신분 제시",
-          "은닉 인지 여부와 검거팀의 적절한 조치 여부를 구분",
-          "피의자 재판과 여경 감찰·해명을 각각 정리"
-        ]
-      }
-    },
-    {
-      "title": "소방서 말대로 일찍 보수했더니 과태료500만원…법원 “벌할 수 없다”",
-      "category": "시사",
-      "url": "https://www.aptn.co.kr/news/articleView.html?idxno=113096",
-      "source": "아파트관리신문",
-      "kind": "article",
-      "event_key": "suwon-apartment-early-fire-repair-plan-fine-cancelled-20261030",
-      "why": "소방 명령을 따랐는데 수선계획보다 이르다는 이유로 과태료를 받은 모순과 취소 결론이 완결된다.",
-      "angle": "늦게 고친 것도 아닌데 벌금처럼 날아온500만원",
-      "why_now": "10/30 08:16 판결 취재 공개.명령2022/9/14·공사대금2022~23·과태료2024/7/17이며 항고심 결정일은 본문 미기재.",
-      "verified_at": 1793325725,
-      "published_at": 1793315760,
-      "evidence": [
-        {
-          "url": "https://www.aptn.co.kr/news/articleView.html?idxno=113096",
-          "note": "취재 본문에서 안산시500만원→1심 이의 후200만원→항고심 불처분 경과를 확인했다.예정2026년보다 먼저 수선했을 뿐,보수하지 않은 자를 처벌하는 규정을 확장할 수 없다는 판단이다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.aptn.co.kr/news/articleView.html?idxno=113096",
-          "label": "확인한 원문 취재",
-          "kind": "source"
-        }
-      ],
-      "caution": "형사 벌금 아닌 과태료.모든 장기수선계획 위반 면제 판결 아님.",
+      "caution": "삭제 완료 아님.참사 영상 재노출 없이 회사 대응을 중심으로 제작.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-10-30",
-        "observation": "취재 본문에서 안산시500만원→1심 이의 후200만원→항고심 불처분 경과를 확인했다.예정2026년보다 먼저 수선했을 뿐,보수하지 않은 자를 처벌하는 규정을 확장할 수 없다는 판단이다.",
+        "observation": "MBC가 받은 액티비전 입장문 본문에서 공식 사과·11/12 업데이트 삭제 계획·의도는 없었다는 해명을 확인했다.실제 게임 영상이나 업데이트를 실행한 것은 아니며 삭제 완료가 아니다.",
         "checked_materials": [],
         "outline": [
-          "소방서 명령에 따라 수선시기보다 먼저 공사한 배경",
-          "시500만원·법원200만원으로 이어진 과태료 경과",
-          "항고심이 계획보다 이른 보수를 처벌 대상에서 뺀 이유"
+          "가상 한반도 전쟁 게임에 실제 참사 영상이 쓰인 논란 제시",
+          "유족·시민단체 요구 뒤 나온30일 회사 사과 설명",
+          "11/12 업데이트 삭제 예정과 현재 미완료 상태 구분"
         ]
       }
     },
     {
-      "title": "친정팀 복귀 막으려 가족 협박…라이벌 극성팬7년6개월 선고",
+      "title": "팀 명단 내놓고 “규율 위반 제외” 따로 공지…그릴리시에게 무슨 일이",
       "category": "축구",
-      "url": "https://www.xportsnews.com/article/2212998",
-      "source": "엑스포츠뉴스·AFP",
+      "url": "https://www.skysports.com/football/news/13605512/jack-grealish-dropped-by-everton-after-breaching-club-discipline-ahead-of-newcastle-carabao-cup-tie",
+      "source": "Sky Sports",
       "kind": "article",
-      "event_key": "di-maria-family-threats-sergio-di-vanni-sentenced-20261028",
-      "why": "축구 라이벌 의식이 가족 협박으로 번졌다가 실형을 받은 구체적 행동과 결과가 있다.",
-      "angle": "선수 영입을 막겠다며 여동생 사무실에 둔 돼지머리",
-      "why_now": "범행2024년,새 선고는아르헨티나10/28.르파리지앵·AFP 원취재28일22:36 프랑스시간=29일06:36 KST 확인,48시간 이내.",
-      "verified_at": 1793325487,
-      "published_at": 1793223360,
+      "event_key": "everton-grealish-club-discipline-omission-newcastle-20261029",
+      "why": "단순 부상 결장이 아니라 구단이 규율 위반을 공개하고 감독도 구단 결정을 지지한 구체적 돌발 상황이다.",
+      "angle": "명단에서 빠진 스타,구단은 이유까지 공개했다",
+      "why_now": "영국10/29 경기 전 제외 발표.첫 확인 Sky19:12 UK와23:39 갱신을 구분.한국시간30일 새벽 사건이며 다음 경기 복귀는 미정.",
+      "verified_at": 1793336637,
+      "published_at": null,
       "evidence": [
         {
-          "url": "https://www.xportsnews.com/article/2212998",
-          "note": "한국 기사와 검색 도구로 확인한 르파리지앵·AFP 원문을 대조해 선고일·7년6개월·위협 수단을 확인했다.400만페소는 실행책 대가 약속에 관한 검찰 주장이다.법원 판결문·범행 영상은 미확인."
+          "url": "https://www.skysports.com/football/news/13605512/jack-grealish-dropped-by-everton-after-breaching-club-discipline-ahead-of-newcastle-carabao-cup-tie",
+          "note": "Sky 현장 취재에서 규율 위반 제외 공지와 모예스의 지지·추가 설명 거부를 확인했다.훈련 불참은 Sky 기자의 취재 내용이며 구단은 구체 경위를 공개하지 않았다.영상·인터뷰 음성은 미시청."
         }
       ],
       "materials": [
         {
-          "url": "https://www.xportsnews.com/article/2212998",
+          "url": "https://www.skysports.com/football/news/13605512/jack-grealish-dropped-by-everton-after-breaching-club-discipline-ahead-of-newcastle-carabao-cup-tie",
           "label": "확인한 원문 취재",
           "kind": "source"
         }
       ],
-      "caution": "실행책 대가 약속은 검찰 주장.가족 신상·잔혹 이미지 노출 절제.",
+      "caution": "술자리·벌금·임대 해지 확정으로 확대 금지.훈련 불참은 Sky 보도.",
       "readiness": {
         "mode": "major_news",
-        "event_date": "2026-10-28",
-        "observation": "한국 기사와 검색 도구로 확인한 르파리지앵·AFP 원문을 대조해 선고일·7년6개월·위협 수단을 확인했다.400만페소는 실행책 대가 약속에 관한 검찰 주장이다.법원 판결문·범행 영상은 미확인.",
+        "event_date": "2026-10-30",
+        "observation": "Sky 현장 취재에서 규율 위반 제외 공지와 모예스의 지지·추가 설명 거부를 확인했다.훈련 불참은 Sky 기자의 취재 내용이며 구단은 구체 경위를 공개하지 않았다.영상·인터뷰 음성은 미시청.",
         "checked_materials": [],
         "outline": [
-          "로사리오 복귀를 막으려 가족을 겨냥한 위협 경위",
-          "총격과 여동생 사무실 돼지머리 협박을 필요한 범위만 설명",
-          "의뢰자 실형·실행책 별도 처벌·선수의 이후 복귀 구분"
+          "명단 제외 뒤 구단이 규율 위반을 공개한 순서 제시",
+          "훈련 불참이라는 취재와 구단의 공식 발표 범위 구별",
+          "감독의 지지·복귀 여부 비공개로 현재 결과 정리"
         ]
       }
     },
     {
-      "title": "시위 찍으러 대학 후문 들어간 유튜버,건물 안 안 갔어도 벌금50만원",
+      "title": "특검은5~7년 구형,법원은8명 전원 무죄…“위법한 계엄 인식 입증 부족”",
       "category": "시사",
-      "url": "https://www.newsis.com/view/NISX20261030_0003847558",
+      "url": "https://www.newsis.com/view/NISX20261030_0003848266",
       "source": "뉴시스",
       "kind": "article",
-      "event_key": "dongduk-youtuber-restricted-campus-entry-fine-disclosed-20261030",
-      "why": "누구나 들어가는 대학이라는 인식과 출입 통제된 교정의 법적 경계,낮은 벌금 이유가 구체적이다.",
-      "angle": "촬영만 했고 건물 밖이었다는 사정은 어디까지 참작됐나",
-      "why_now": "10/30 08:16:36 법조 취재 최초 확인,08:20 수정과 구분.침입2024/11/14·1심 선고2026/10/14를 오늘 사건으로 쓰지 않음.",
-      "verified_at": 1793325487,
-      "published_at": 1793315796,
+      "event_key": "lotteria-meeting-eight-military-officers-first-trial-acquittal-20261030",
+      "why": "계엄에 실제 역할이 있었는지와 위법성·국헌문란 목적을 인식했는지가 갈린 구형·선고의 반전이다.",
+      "angle": "명령을 받고 움직였다는 사실만으로 유죄가 되지 않은 이유",
+      "why_now": "10/30 오전1심 선고.10:44 속보·10:54 이유 취재가 먼저이며12:21 종합과12:35 수정은 최초 선고 공개 시각이 아니다.범행 혐의는2024/12/3.",
+      "verified_at": 1793336499,
+      "published_at": 1793324640,
       "evidence": [
         {
-          "url": "https://www.newsis.com/view/NISX20261030_0003847558",
-          "note": "출입 통제 바리케이드·출입증 절차가 있던 학교 부지에 들어가 건조물침입이 성립한 취재를 확인했다.건물 내부 미진입·별도 범죄 목적 없음·초범은 양형 참작으로 구분했다."
+          "url": "https://www.newsis.com/view/NISX20261030_0003848266",
+          "note": "법원 취재 본문에서8명 전원 무죄·사전 인지와 국헌문란 목적 증명 부족·일부 이의 제기와 복귀 명령 판단을 확인했다.특검의 좁은 해석이라는 반박도 구별했다.판결문 전체는 미열람."
         }
       ],
       "materials": [
         {
-          "url": "https://www.newsis.com/view/NISX20261030_0003847558",
+          "url": "https://www.newsis.com/view/NISX20261030_0003848266",
           "label": "확인한 원문 취재",
           "kind": "source"
         }
       ],
-      "caution": "촬영 자체가 범죄라는 판결 아님.1심 선고이며 확정 여부 미확인.",
+      "caution": "1심 결과이며 확정 무죄 아님.계엄 전체가 적법하다는 판결 아님.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-10-30",
-        "observation": "출입 통제 바리케이드·출입증 절차가 있던 학교 부지에 들어가 건조물침입이 성립한 취재를 확인했다.건물 내부 미진입·별도 범죄 목적 없음·초범은 양형 참작으로 구분했다.",
+        "observation": "법원 취재 본문에서8명 전원 무죄·사전 인지와 국헌문란 목적 증명 부족·일부 이의 제기와 복귀 명령 판단을 확인했다.특검의 좁은 해석이라는 반박도 구별했다.판결문 전체는 미열람.",
         "checked_materials": [],
         "outline": [
-          "시위 현장 촬영을 위해 통제된 후문으로 들어간 경위",
-          "건물 밖 부지라도 통제 의사가 표시됐다는 유죄 이유",
-          "촬영 외 범죄 목적 없음 등50만원 양형 이유 제시"
+          "비상계엄 당일 회동·출동 등의 혐의와5~7년 구형 제시",
+          "재판부가 구별한 위법성 인식·국헌문란 목적 설명",
+          "1심 무죄 결과와 특검의 반발 병기"
         ]
       }
     },
     {
-      "title": "외주비 끊자 회사 시스템 차단…임원의20만달러 거래도 재판으로",
+      "title": "시리얼에 대마 숨기고 퀵으로 여러 번 옮겼는데…세관은 이미 알고 추적",
       "category": "시사",
-      "url": "https://biz.chosun.com/industry/business-venture/2026/10/30/T6W22B2TJFEQTAV45NZDZH7C5U/?outputType=amp",
-      "source": "조선비즈",
-      "kind": "article",
-      "event_key": "daedong-usa-ki-finance-erp-outsourcing-self-dealing-court-review-20261030",
-      "why": "업무를 맡긴 업체가 대금 분쟁 중 발주사의 ERP를 막고 임원의 이해관계까지 재판에 간 구체적 돈·통제권 사건이다.",
-      "angle": "외주업체가 우리 회사 결제 시스템 열쇠까지 쥐고 있었다",
-      "why_now": "원문 메타 최초29일10:24:41 KST·본문30일 취재로 불일치함을 기록.미국 결정 정확한 날짜 미기재.두 시점 모두48시간 이내.",
-      "verified_at": 1793325454,
-      "published_at": 1793237081,
-      "evidence": [
-        {
-          "url": "https://biz.chosun.com/industry/business-venture/2026/10/30/T6W22B2TJFEQTAV45NZDZH7C5U/?outputType=amp",
-          "note": "조선비즈 본문에서 대금 지급 거부 뒤 ERP 차단·복구 가처분 기각·합의 해결 경위를 확인했다.전 경영진20만달러가 대여인지 지분인지 다툼은 본안으로,횡령 주장은 요건 불충족으로 구별했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://biz.chosun.com/industry/business-venture/2026/10/30/T6W22B2TJFEQTAV45NZDZH7C5U/?outputType=amp",
-          "label": "확인한 원문 취재",
-          "kind": "source"
-        }
-      ],
-      "caution": "사익 편취 확정 아님.시스템 차단은 합의 해결,현재 진행형 아님.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-30",
-        "observation": "조선비즈 본문에서 대금 지급 거부 뒤 ERP 차단·복구 가처분 기각·합의 해결 경위를 확인했다.전 경영진20만달러가 대여인지 지분인지 다툼은 본안으로,횡령 주장은 요건 불충족으로 구별했다.",
-        "checked_materials": [],
-        "outline": [
-          "외주계약 뒤 경영진 교체와 대금 지급 중단 경위",
-          "ERP 접근 차단과 복구 가처분 기각·이후 합의 설명",
-          "20만달러 이해충돌 심리와 횡령 주장 배척을 나눠 제시"
-        ]
-      }
-    },
-    {
-      "title": "“차 대려고 서 있다” 주차칸 막은 두 사람,경찰 부르자 떠났다",
-      "category": "시사",
-      "url": "https://files.newsis.com/view/NISX20261030_0003847657",
-      "source": "뉴시스·JTBC",
-      "kind": "article",
-      "event_key": "incheon-two-men-parking-space-human-cones-jtbc-disclosure-20261029",
-      "why": "차보다 먼저 서 있었다며 주차칸을 지키다가 신고 뒤 떠나는 행동과 말의 대조가 즉시 이해된다.",
-      "angle": "자동차 주차칸을 사람 두 명이 맡아두면 선착순인가",
-      "why_now": "첫 확인 공개는10/29 JTBC 사건반장 방송,30일10:00 뉴시스 후속.주차 분쟁 실제 촬영일·방송의 분 단위 공개는 미기재.",
-      "verified_at": 1793325769,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://files.newsis.com/view/NISX20261030_0003847657",
-          "note": "뉴시스의 방송 취재 본문과 실제 보도 캡처 사진을 확인했다.정지 사진의 차량·인영·대화 자막은 확인했지만 전체 영상·음성을 시청하지 않았다.신고 후 떠난 경과와 경찰 전달은 제보 보도다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://files.newsis.com/view/NISX20261030_0003847657",
-          "label": "확인한 원문 취재",
-          "kind": "source"
-        },
-        {
-          "url": "https://img1.newsis.com/2026/10/30/NISI20261030_0002278202_web.jpg",
-          "label": "방송 보도 캡처",
-          "kind": "image"
-        }
-      ],
-      "caution": "제보·방송 취재 기반.체포·처벌 확인 안 됨.전체 영상 미시청.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-29",
-        "observation": "뉴시스의 방송 취재 본문과 실제 보도 캡처 사진을 확인했다.정지 사진의 차량·인영·대화 자막은 확인했지만 전체 영상·음성을 시청하지 않았다.신고 후 떠난 경과와 경찰 전달은 제보 보도다.",
-        "checked_materials": [
-          "https://img1.newsis.com/2026/10/30/NISI20261030_0002278202_web.jpg"
-        ],
-        "outline": [
-          "빈 주차칸에 서서 차를 막는 상황 제시",
-          "차 대려고 서 있다는 항변과 차가 먼저라는 반박 대비",
-          "경찰 신고 뒤 떠났다는 제보 경과와 처벌 미확인 구별"
-        ]
-      }
-    },
-    {
-      "title": "“전공도 아닌데?” 논란에 정경미가 꺼낸 답은 “연극영화과99학번”",
-      "category": "시사",
-      "url": "https://www.xportsnews.com/article/2213252",
-      "source": "엑스포츠뉴스",
-      "kind": "article",
-      "event_key": "jung-kyung-mi-musical-academy-expertise-response-20261030",
-      "why": "학원 원장의 전문성을 겨냥한 말에 본인 전공과 강사진을 공개하고 학번으로 응수한 구체적 대처다.",
-      "angle": "전공자가 아니라는 비판,대학은 이미99학번 동문으로 소개했다",
-      "why_now": "새 답변의29~30일 공개를 취재한30일08:53 보도.다른 매체는29일 게시로 기재해 정확한 SNS 시각은 확정하지 않음.28일 영상과 별개.",
-      "verified_at": 1793325507,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://www.xportsnews.com/article/2213252",
-          "note": "엑스포츠·TV리포트의 실제 답변 취재와 국민대 공식 웹진의 연극영화전공99 표기를 대조했다.영어 구사 능력·원장의 직접 수업 여부까지 증명된 것은 아니며 개인 게시물 영상은 직접 보지 않았다."
-        },
-        {
-          "url": "https://webzine.kookmin.ac.kr/webzine.php?mcode=14&scode=1&svolume=3&syear=2015",
-          "note": "국민대2015년 웹진의 정경미 연극영화전공99 표기를 직접 확인.현재 사건 시각 자료로 사용하지 않음."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.xportsnews.com/article/2213252",
-          "label": "확인한 원문 취재",
-          "kind": "source"
-        }
-      ],
-      "caution": "영어 능력·자격 검증 아님.SNS 게시일29/30 보도 차이 있음.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-30",
-        "observation": "엑스포츠·TV리포트의 실제 답변 취재와 국민대 공식 웹진의 연극영화전공99 표기를 대조했다.영어 구사 능력·원장의 직접 수업 여부까지 증명된 것은 아니며 개인 게시물 영상은 직접 보지 않았다.",
-        "checked_materials": [],
-        "outline": [
-          "영어 뮤지컬 학원 전문성 논란의 주장을 사실과 구분",
-          "본인이 전공·강사진을 밝힌 답변과99학번 응수 소개",
-          "국민대 기존 동문 자료 확인과 영어 능력 판단의 한계 제시"
-        ]
-      }
-    },
-    {
-      "title": "패딩 충전재 쏟아진 출근길 사진…“누가 그었나” 원인은 아직 미확인",
-      "category": "시사",
-      "url": "https://www.newsis.com/view/NISX20261030_0003847699",
+      "url": "https://www.newsis.com/view/NISX20261030_0003848073",
       "source": "뉴시스",
       "kind": "article",
-      "event_key": "seoul-line5-torn-padding-knit-sns-claim-20261029",
-      "why": "겉옷뿐 아니라 니트까지 훼손됐다는 당사자 주장과 공개 사진의 구체성,원인 미확인의 차이를 보여줄 수 있다.",
-      "angle": "찢어진 옷은 보인다…누가·어디서·어떻게는 별도 확인",
-      "why_now": "10/29 스레드 게시·당일 출근길이라는 작성자 설명.정확한 게시시각 미확인.30일08:04 첫 확인 기사와08:55 뉴시스 후속을 구별.",
-      "verified_at": 1793325876,
-      "published_at": null,
+      "event_key": "incheon-customs-cannabis-cereal-controlled-delivery-20261030",
+      "why": "추적을 피하려 배달을 여러 번 쪼갰지만 세관은 통관 단계부터 알고 경로를 쫓았다는 명확한 반전이다.",
+      "angle": "쪼개 옮길수록 수사망에서 벗어난다고 생각했지만",
+      "why_now": "10/30 11:01:17 인천공항세관 검거 발표 취재,11:36 수정과 구분.실제 밀수·체포 날짜는 본문 미기재이며 오늘 체포로 쓰지 않음.",
+      "verified_at": 1793336500,
+      "published_at": 1793325677,
       "evidence": [
         {
-          "url": "https://www.newsis.com/view/NISX20261030_0003847699",
-          "note": "뉴시스 본문·아주경제를 대조하고 검은 패딩 겉감이 여러 곳 찢겨 흰 충전재가 나온 사진을 직접 봤다.칼 사용·고의 범행·범인·신고 완료는 확인되지 않았다.니트 훼손은 작성자 설명 범위다."
-        },
-        {
-          "url": "https://www.ajunews.com/view/20261030081328478",
-          "note": "훼손 사진과 작성자 의심을 확인하고 걸림 사고 가능성도 보도한 본문 대조."
+          "url": "https://www.newsis.com/view/NISX20261030_0003848073",
+          "note": "세관 취재 본문에서 시리얼에 숨긴 대마226g·반복 퀵 이동·통관 적발 후 통제배달·주거지 필로폰 발견을 확인했다.기소·유죄 판결 단계는 아니다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.newsis.com/view/NISX20261030_0003847699",
+          "url": "https://www.newsis.com/view/NISX20261030_0003848073",
           "label": "확인한 원문 취재",
           "kind": "source"
-        },
-        {
-          "url": "https://img1.newsis.com/2026/10/30/NISI20261030_0002278165_web.jpg",
-          "label": "직접 확인한 훼손 사진",
-          "kind": "image"
         }
       ],
-      "caution": "고의 범행·연쇄 테러 확정 아님.사진으로 원인·장소 판별 불가.",
+      "caution": "수사기관 발표·혐의 단계.오늘 밀수하거나 오늘 체포했다는 뜻 아님.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-30",
+        "observation": "세관 취재 본문에서 시리얼에 숨긴 대마226g·반복 퀵 이동·통관 적발 후 통제배달·주거지 필로폰 발견을 확인했다.기소·유죄 판결 단계는 아니다.",
+        "checked_materials": [],
+        "outline": [
+          "시리얼에 숨긴 우편물과 추적 회피 의도 소개",
+          "세관이 통관 때 먼저 적발한 사실로 시점 반전",
+          "통제배달 역추적 끝 검거와 추가 압수 결과 정리"
+        ]
+      }
+    },
+    {
+      "title": "부서 옮긴 뒤 남아 있던 접근권한…기밀51차례 다운로드 혐의로 기소",
+      "category": "시사",
+      "url": "https://www.dispatch.co.kr/2350024",
+      "source": "디스패치",
+      "kind": "article",
+      "event_key": "ador-former-executive-hybe-files51-summary-indictment-disclosed-20261030",
+      "why": "전적 뒤에도 남은 접근권한을 이용한 자료 다운로드가 실제 형사 절차로 이어진 구체적인 권한·정보 사건이다.",
+      "angle": "회사 옮겼는데 폴더 열쇠는 남아 있었다",
+      "why_now": "약식기소는10/15,다운로드는2024/4/8.10/30 09:00 첫 확인 취재·10:50 상세 보도를 오늘 범행으로 쓰지 않음.",
+      "verified_at": 1793336620,
+      "published_at": null,
+      "evidence": [
+        {
+          "url": "https://www.dispatch.co.kr/2350024",
+          "note": "디스패치의 공소내용 취재와 뉴시스 본문에서 전 어도어 부대표의51차례 자료 다운로드·벌금500만원 약식기소를 대조했다.정당한 접근권한 침해는 공소 측 판단이며 벌금 확정이 아니다."
+        },
+        {
+          "url": "https://nwww.newsis.com/view/NISX20261030_0003847485",
+          "note": "09:00 공개된 법조 취재에서 동일 기소와 자료 범위를 대조."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.dispatch.co.kr/2350024",
+          "label": "확인한 원문 취재",
+          "kind": "source"
+        }
+      ],
+      "caution": "500만원은 공소 측 청구액.유죄 확정이나 민희진 본인 기소 아님.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-30",
+        "observation": "디스패치의 공소내용 취재와 뉴시스 본문에서 전 어도어 부대표의51차례 자료 다운로드·벌금500만원 약식기소를 대조했다.정당한 접근권한 침해는 공소 측 판단이며 벌금 확정이 아니다.",
+        "checked_materials": [],
+        "outline": [
+          "하이브에서 어도어로 옮긴 뒤 남은 개인 접근권한 설명",
+          "2024년4월 다운로드 자료와51차례 공소내용 제시",
+          "10월 약식기소와 아직 남은 법원 판단을 구분"
+        ]
+      }
+    },
+    {
+      "title": "상대 후보와 같은 이름을 영입했나…알래스카 주지사,선거 수사 지시",
+      "category": "시사",
+      "url": "https://www.aljazeera.com/news/2026/10/29/trump-demands-alaska-candidates-be-removed-over-alleged-ballot-scheme",
+      "source": "AFP·Al Jazeera",
+      "kind": "article",
+      "event_key": "alaska-governor-probe-namesake-sullivan-candidate-20261029",
+      "why": "투표용지에 동명이인을 올려 표를 나눴다는 의혹과 주지사의 수사 지시가 이름 하나의 구체적인 선거 전술로 연결된다.",
+      "angle": "댄 설리번 옆에 또 다른 설리번,우연일까 전략일까",
+      "why_now": "새 사건은미국10/29 주지사의 조사 지시.동명이인 출마·6월 조사 자체와 구분.기사29일 날짜 정밀도로 확인,48시간 이내.",
+      "verified_at": 1793336620,
+      "published_at": null,
+      "evidence": [
+        {
+          "url": "https://www.aljazeera.com/news/2026/10/29/trump-demands-alaska-candidates-be-removed-over-alleged-ballot-scheme",
+          "note": "AFP 본문에서 주지사의 조사 지시·NYT의 문건과 메시지 취재 주장·당사자의 독립 출마 주장을 구분했다.투표용지에는 현역·공화당 표기가 있고 후보 영입 자체가 곧 불법은 아니라는 설명을 확인했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.aljazeera.com/news/2026/10/29/trump-demands-alaska-candidates-be-removed-over-alleged-ballot-scheme",
+          "label": "확인한 원문 취재",
+          "kind": "source"
+        }
+      ],
+      "caution": "영입 의혹·범죄 여부는 조사 중.동명이인이라는 이유로 출마 불법 아님.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-10-29",
-        "observation": "뉴시스 본문·아주경제를 대조하고 검은 패딩 겉감이 여러 곳 찢겨 흰 충전재가 나온 사진을 직접 봤다.칼 사용·고의 범행·범인·신고 완료는 확인되지 않았다.니트 훼손은 작성자 설명 범위다.",
-        "checked_materials": [
-          "https://img1.newsis.com/2026/10/30/NISI20261030_0002278165_web.jpg"
-        ],
+        "observation": "AFP 본문에서 주지사의 조사 지시·NYT의 문건과 메시지 취재 주장·당사자의 독립 출마 주장을 구분했다.투표용지에는 현역·공화당 표기가 있고 후보 영입 자체가 곧 불법은 아니라는 설명을 확인했다.",
+        "checked_materials": [],
         "outline": [
-          "공개 사진에서 실제 보이는 패딩 훼손을 제시",
-          "지하철5호선 출근길이었다는 작성자 설명 분리",
-          "고의 공격인지 걸려 찢어진 것인지 미확인 상태로 마무리"
+          "투표용지에 등장한 비슷한 두 후보 이름과 구별 표기 제시",
+          "표 분산 영입 의혹과 캠프·후보 해명을 각각 귀속",
+          "주지사의29일 조사 지시와 범죄 확정 아님을 정리"
+        ]
+      }
+    },
+    {
+      "title": "냉장고 생선 없던 이유가 아내 탓? 차예련은 다른 냉장고서 꺼냈다",
+      "category": "시사",
+      "url": "https://www.osen.co.kr/article/G1112900743",
+      "source": "OSEN",
+      "kind": "article",
+      "event_key": "cha-ye-ryun-joo-sang-wook-fridge-fishing-excuse-20261029",
+      "why": "낚시를 안 보내줘 생선이 없다던 남편의 핑계가 다른 냉장고 속 실제 해산물로 회수되는 짧은 웃음 포인트다.",
+      "angle": "“마누라가 보내줘야”라는 말 뒤 나온 무늬오징어",
+      "why_now": "원본 유튜브 공개10/29,정확한 업로드 시각 미확인.10/30 07:29 현장 대사 취재와 구분.48시간 이내 전날 공개 영상 소재.",
+      "verified_at": 1793336562,
+      "published_at": null,
+      "evidence": [
+        {
+          "url": "https://www.osen.co.kr/article/G1112900743",
+          "note": "OSEN의 원본 대사 취재 본문에서 주상욱의 낚시 핑계·차예련의 다른 냉장고 해산물·통영에서 잡은 것이라는 설명을 확인했다.원본 동영상은 직접 시청하지 않은 기사형 검토다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.osen.co.kr/article/G1112900743",
+          "label": "확인한 원문 취재",
+          "kind": "source"
+        }
+      ],
+      "caution": "부부의 방송 농담.실제 낚시 금지 갈등으로 단정 금지.영상 미시청.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-29",
+        "observation": "OSEN의 원본 대사 취재 본문에서 주상욱의 낚시 핑계·차예련의 다른 냉장고 해산물·통영에서 잡은 것이라는 설명을 확인했다.원본 동영상은 직접 시청하지 않은 기사형 검토다.",
+        "checked_materials": [],
+        "outline": [
+          "냉부해 냉장고에 생선이 없었다는 오해 소개",
+          "낚시 허락을 못 받았다는 남편의 농담 제시",
+          "다른 냉장고의 실제 해산물을 꺼낸 취재 설명으로 회수"
+        ]
+      }
+    },
+    {
+      "title": "군사경찰 생활반에서 스마트폰 도박387회…3122만원 베팅 뒤 벌금형",
+      "category": "시사",
+      "url": "https://www.yna.co.kr/view/AKR20261029111000053",
+      "source": "연합뉴스",
+      "kind": "article",
+      "event_key": "naval-military-police-smartphone-gambling387-sentence-20261029",
+      "why": "군사경찰 소속 병사가 생활반에서 휴대전화로 반복 도박한 행동과 실제 양형 이유가 충돌한다.",
+      "angle": "부대 안 군사경찰도 끊지 못한 스마트폰 베팅",
+      "why_now": "10/29 13:30:24 법원 취재 공개.복무 중 범행은 과거이며 정확한 선고일은 본문 미기재.24시간을 넘어48시간 범위 채택.",
+      "verified_at": 1793336578,
+      "published_at": 1793248224,
+      "evidence": [
+        {
+          "url": "https://www.yna.co.kr/view/AKR20261029111000053",
+          "note": "연합뉴스 원취재에서 군사경찰대 생활반·스마트폰·387회·3122만6000원과300만원 벌금 선고를 확인했다.베팅 누적액이지 손실액이 아니며 자백·재범 방지 다짐을 양형 사유로 구분했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.yna.co.kr/view/AKR20261029111000053",
+          "label": "확인한 원문 취재",
+          "kind": "source"
+        }
+      ],
+      "caution": "3122만원 전액 손실이라는 뜻 아님.범행 시기와 새 판결 취재 구분.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-29",
+        "observation": "연합뉴스 원취재에서 군사경찰대 생활반·스마트폰·387회·3122만6000원과300만원 벌금 선고를 확인했다.베팅 누적액이지 손실액이 아니며 자백·재범 방지 다짐을 양형 사유로 구분했다.",
+        "checked_materials": [],
+        "outline": [
+          "군사경찰대 생활반에서 휴대전화로 베팅한 구체적 경위",
+          "반복 횟수와 누적 입금·베팅액을 손실과 구분",
+          "벌금형과 자백 등 법원의 참작 사유 정리"
+        ]
+      }
+    },
+    {
+      "title": "매출 큰 회사 주식3주를1주로? 합병 손실 소송,6년 만에 주주 패소",
+      "category": "시사",
+      "url": "https://www.yna.co.kr/view/AKR20261029081600004",
+      "source": "연합뉴스",
+      "kind": "article",
+      "event_key": "samsung-ct-merger-individual-shareholders-damages-dismissal-20261029",
+      "why": "합병 비율0.35대1로 손해를 봤다는 주주들의 주장과 자산 크기만으로 불공정은 아니라는 판단이 구체적 돈 손익으로 갈린다.",
+      "angle": "3주가1주가 된 합병,법원이 불공정을 인정하지 않은 이유",
+      "why_now": "합병2015년·제소2020년.새 선고는10/29이며 첫 확인10:51 연합뉴스 취재,21:16 경향 후속과 구분.48시간 범위에서 채택.",
+      "verified_at": 1793336874,
+      "published_at": 1793238660,
+      "evidence": [
+        {
+          "url": "https://www.yna.co.kr/view/AKR20261029081600004",
+          "note": "연합뉴스의 법원 취재 본문에서26명 개인주주의 손해배상 청구 기각과 합병의 사업상 목적·법정 평가 방식 판단을 확인했다.형사판결과 별개인 민사1심이고 주가 손실 자체가 없었다는 뜻은 아니다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.yna.co.kr/view/AKR20261029081600004",
+          "label": "확인한 원문 취재",
+          "kind": "source"
+        }
+      ],
+      "caution": "민사1심 결과.투자 손실이 없었다거나 합병 관련 모든 쟁점 종결 아님.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-29",
+        "observation": "연합뉴스의 법원 취재 본문에서26명 개인주주의 손해배상 청구 기각과 합병의 사업상 목적·법정 평가 방식 판단을 확인했다.형사판결과 별개인 민사1심이고 주가 손실 자체가 없었다는 뜻은 아니다.",
+        "checked_materials": [],
+        "outline": [
+          "2015년 합병 비율과 주주들의 가치 하락 주장 제시",
+          "6년 소송 뒤 나온 사업상 목적·평가 방식 판단 소개",
+          "민사1심 청구 기각과 확정 여부·주가 손실을 구분"
+        ]
+      }
+    },
+    {
+      "title": "“넘어져 다쳤다” 부인했지만…말 못하는5세 아이의 상처가 증거 됐다",
+      "category": "시사",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822876",
+      "source": "SBS",
+      "kind": "article",
+      "event_key": "hongseong-autistic-child-girlfriend-daughter-abuse-conviction-20261030",
+      "why": "진술하기 어려운 아동의 상처를 사고라고 부인한 설명이 신체 손상·법의학 의견을 통해 뒤집힌 구체적 사건이다.",
+      "angle": "피해자가 말을 못해도 상처의 경위는 사라지지 않았다",
+      "why_now": "폭행은2025년7~9월,오늘 발생한 사건 아님.새 판결 취재10/30 11:02:36 공개,13:30 수정과 구분.정확한 선고일은 본문 미기재.",
+      "verified_at": 1793336577,
+      "published_at": 1793325756,
+      "evidence": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822876",
+          "note": "SBS 법원 취재 본문에서 징역2년6개월·장애인기관3년 취업제한·법의학 자문과 사고 주장 배척을 확인했다.도구 특정이 안 된 특수상해·특수폭행 부분 무죄와 나머지 유죄를 구분했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822876",
+          "label": "확인한 원문 취재",
+          "kind": "source"
+        }
+      ],
+      "caution": "판결 취재 기반.도구 특정 부분 무죄를 전체 무죄·모든 혐의 유죄로 바꾸지 않음.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-30",
+        "observation": "SBS 법원 취재 본문에서 징역2년6개월·장애인기관3년 취업제한·법의학 자문과 사고 주장 배척을 확인했다.도구 특정이 안 된 특수상해·특수폭행 부분 무죄와 나머지 유죄를 구분했다.",
+        "checked_materials": [],
+        "outline": [
+          "교통사고·넘어짐이었다는 피고인과 친모의 주장 귀속",
+          "혼자 다쳤다고 보기 어렵다는 법의학 자문·상처 시점 설명",
+          "실형 선고와 도구 특정 불가 부분 무죄·친모 별도 재판 구분"
         ]
       }
     }
