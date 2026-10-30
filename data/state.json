@@ -1,5 +1,5 @@
 {
-  "updated_at": 1793369343,
+  "updated_at": 1793401568,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,65 +15,65 @@
     "requested_stories": 10,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026103014",
+    "hour_utc": "2026103023",
     "category_counts": {
-      "시사": 10,
-      "축구": 0,
+      "시사": 9,
+      "축구": 1,
       "메이저 스포츠": 0,
       "아이돌": 0
     },
-    "research_queries": 50,
-    "opened_sources": 23,
+    "research_queries": 36,
+    "opened_sources": 17,
     "picks": [
       {
-        "title": "18억 집에172억 적는 실수…법원이 경매 입찰표부터 바꿨다",
-        "url": "https://www.newsis.com/view/NISX20261030_0003847834",
-        "event_key": "supreme-court-auction-bid-form-zero-error-revision-20261030"
+        "title": "지소연 “내 말 안 들으려면A매치150경기 뛰고 와야죠”…주장은 안 맡는 이유",
+        "url": "https://www.hankookilbo.com/news/article/amp/A2026103014500000918",
+        "event_key": "ji-so-yun-exclusive-interview-captain-without-armband-20261031"
       },
       {
-        "title": "연3000만원 국제학교,퇴거 시한에도 수업…환불 날짜는 또 미뤘다",
-        "url": "https://www.hankyung.com/article/202610306420i",
-        "event_key": "incheon-unlicensed-school-eviction-refund-complaint-20261030"
+        "title": "“가족10명 데려와 건보 혜택” 글…법무부가 조사하니 그런 사례 없었다",
+        "url": "https://www.newsis.com/view/NISX20261030_0003848026",
+        "event_key": "moj-e7-ten-family-health-insurance-rumor-rebuttal-20261030"
       },
       {
-        "title": "이력서부터 면접 답변까지AI로…北 해킹조직은 가짜 개발자로 취업 노렸다",
-        "url": "https://files.newsis.com/view/NISX20261030_0003848377",
-        "event_key": "microsoft-north-korea-ai-fake-developer-recruitment-report-20261029"
+        "title": "떨어진 오징어를 다시 밥 위에…기안84 설명에 유리 “왜 안 아파?”",
+        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16264276",
+        "event_key": "kian84-yuri-jeju-birthday-squid-towel-banter-20261030"
       },
       {
-        "title": "기금은 없어졌는데 항공권에 낸1000원…오늘부터 돌려받는 창구 열렸다",
-        "url": "https://www.epeopletoday.com/news/articleView.html?idxno=22575",
-        "event_key": "mofa-disease-eradication-fund-1000won-refund-service-20261030"
+        "title": "보관하던 상품권이 이미 사용됐다고?…G마켓 “피해 확인되면 전액 보상”",
+        "url": "https://biz.chosun.com/distribution/channel/2026/10/30/KQYUW2ZXWND6BK5RG7AFAITOO4/",
+        "event_key": "gmarket-ecoupon-pin-unauthorized-use-security-response-20261030"
       },
       {
-        "title": "“출장 지쳤나요?” 물었더니…트럼프는 기자에게 몸 관리나 하라며 되받았다",
-        "url": "https://n.news.naver.com/article/437/0000518408",
-        "event_key": "trump-reuters-travel-cancellation-question-personal-insults-20261029"
+        "title": "미군 시설6곳 냉동고가 함께 해동…단순 고장 아닌 사이버 공격 가능성 수사",
+        "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261030601009",
+        "event_key": "us-military-six-commissary-freezer-outages-cyber-probe-20261029"
       },
       {
-        "title": "젠슨 황 친분까지 스파이 의혹으로…中·당사자는 부인,엔비디아도 선 그었다",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823824",
-        "event_key": "nyt-alice-huang-megaspeed-spy-allegation-denials-20261030"
+        "title": "예측시장에 맡긴 돈이 빠졌다…폴리마켓,협력업체 해킹 뒤 환불 약속",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442069",
+        "event_key": "polymarket-debugbear-third-party-breach-refund-20261029"
       },
       {
-        "title": "“항공사 인수하면 주식2.5배”…실제 회사는 대표 말고 직원도 없었다",
-        "url": "https://www.mt.co.kr/society/2026/10/30/2026103013552299553",
-        "event_key": "airline-acquisition-unlisted-stock-1927million-fraud-judgment-disclosure-20261030"
+        "title": "고의 충돌72번,보험금 막히자 “뉴스에 날 것”…수사 중에도 사고 냈다",
+        "url": "https://www.fnnews.com/news/202610300934253732",
+        "event_key": "changwon-deliberate-collision-72-insurance-fraud-court-report-20261031"
       },
       {
-        "title": "“어깨 부딪혀 우발적으로”라더니…수사로 드러난 건 유흥비 노린 강도 혐의",
-        "url": "https://www.fnnews.com/news/202610301739340700",
-        "event_key": "gangbuk-stranger-robbery-murder-entertainment-money-indictment-20261030"
+        "title": "주차장서2대,아래층서2대,도망치다3대…음주 차량에7대가 부서졌다",
+        "url": "https://www.newsis.com/view/NISX20261030_0003848436",
+        "event_key": "uijeongbu-drunk-parking-seven-cars-police-flight-judgment-20261031"
       },
       {
-        "title": "10년 간병한 쌍둥이 형 살해…법원은 돌봄 사정 참작해도 징역10년",
-        "url": "https://www.newsis.com/view/NISX20261030_0003847962",
-        "event_key": "osan-twin-caregiver-brother-murder-ten-year-sentence-20261030"
+        "title": "보육원 앞에 아기 두고 갔던 연인…법원은 이후 양육 의지도 함께 봤다",
+        "url": "https://www.fnnews.com/news/202610310600591559",
+        "event_key": "daejeon-newborn-abandonment-couple-suspended-sentence-20261031"
       },
       {
-        "title": "17개월 딸 혼자 두고 출근…“돌볼 사람 없었다”는 친부 구속",
-        "url": "https://www.hankyung.com/article/2026103069617",
-        "event_key": "pyeongtaek-infant-neglect-father-arrest-preliminary-autopsy-20261030"
+        "title": "동료에게 흉기 휘두른 역무원 구속…가족은 “보직 이동 요청했었다” 주장",
+        "url": "https://www.newsis.com/view/NISX20261030_0003848589",
+        "event_key": "wondang-station-colleague-attack-arrest-transfer-request-20261030"
       }
     ]
   }
