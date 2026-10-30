@@ -1,6 +1,730 @@
 {
   "version": 1,
   "items": {
+    "014f17b69ed4": {
+      "source": "MBC",
+      "title": "게임에 쓴 이태원 참사 영상,유족 요구 뒤 삭제…액티비전 공식 사과",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6861915_36919.html",
+      "first_seen_at": 1793336959,
+      "last_seen_at": 1793336959,
+      "samples": [
+        {
+          "at": 1793336959,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "014f17b69ed4",
+      "editorial": {
+        "title": "게임에 쓴 이태원 참사 영상,유족 요구 뒤 삭제…액티비전 공식 사과",
+        "category": "시사",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6861915_36919.html",
+        "source": "MBC",
+        "kind": "article",
+        "event_key": "activision-itaewon-footage-removal-apology-20261030",
+        "why": "실제 참사 영상을 가상 전쟁 게임에 사용했다가 유족 항의와 보도 뒤 삭제를 약속한 구체적인 대응 변화다.",
+        "angle": "가상의 전쟁 장면에 현실의 참사를 넣었다가",
+        "why_now": "최초 논란 보도10/27과 별개로10/30 MBC에 보낸 새 입장문·삭제 약속.10:55 공개,11:03 수정과 구분.삭제 예정일11/12.",
+        "verified_at": 1793336562,
+        "published_at": 1793325300,
+        "evidence": [
+          {
+            "url": "https://imnews.imbc.com/news/2026/society/article/6861915_36919.html",
+            "note": "MBC가 받은 액티비전 입장문 본문에서 공식 사과·11/12 업데이트 삭제 계획·의도는 없었다는 해명을 확인했다.실제 게임 영상이나 업데이트를 실행한 것은 아니며 삭제 완료가 아니다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://imnews.imbc.com/news/2026/society/article/6861915_36919.html",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "삭제 완료 아님.참사 영상 재노출 없이 회사 대응을 중심으로 제작.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-30",
+          "observation": "MBC가 받은 액티비전 입장문 본문에서 공식 사과·11/12 업데이트 삭제 계획·의도는 없었다는 해명을 확인했다.실제 게임 영상이나 업데이트를 실행한 것은 아니며 삭제 완료가 아니다.",
+          "checked_materials": [],
+          "outline": [
+            "가상 한반도 전쟁 게임에 실제 참사 영상이 쓰인 논란 제시",
+            "유족·시민단체 요구 뒤 나온30일 회사 사과 설명",
+            "11/12 업데이트 삭제 예정과 현재 미완료 상태 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://imnews.imbc.com/news/2026/society/article/6861915_36919.html"
+          }
+        ],
+        "excerpt": "",
+        "context": "최초 논란 보도10/27과 별개로10/30 MBC에 보낸 새 입장문·삭제 약속.10:55 공개,11:03 수정과 구분.삭제 예정일11/12.",
+        "fetched_at": 1793336959,
+        "parser_revision": 7
+      },
+      "curation_event_key": "activision-itaewon-footage-removal-apology-20261030"
+    },
+    "84a349f8b00a": {
+      "source": "Sky Sports",
+      "title": "팀 명단 내놓고 “규율 위반 제외” 따로 공지…그릴리시에게 무슨 일이",
+      "link": "https://www.skysports.com/football/news/13605512/jack-grealish-dropped-by-everton-after-breaching-club-discipline-ahead-of-newcastle-carabao-cup-tie",
+      "first_seen_at": 1793336959,
+      "last_seen_at": 1793336959,
+      "samples": [
+        {
+          "at": 1793336959,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "84a349f8b00a",
+      "editorial": {
+        "title": "팀 명단 내놓고 “규율 위반 제외” 따로 공지…그릴리시에게 무슨 일이",
+        "category": "축구",
+        "url": "https://www.skysports.com/football/news/13605512/jack-grealish-dropped-by-everton-after-breaching-club-discipline-ahead-of-newcastle-carabao-cup-tie",
+        "source": "Sky Sports",
+        "kind": "article",
+        "event_key": "everton-grealish-club-discipline-omission-newcastle-20261029",
+        "why": "단순 부상 결장이 아니라 구단이 규율 위반을 공개하고 감독도 구단 결정을 지지한 구체적 돌발 상황이다.",
+        "angle": "명단에서 빠진 스타,구단은 이유까지 공개했다",
+        "why_now": "영국10/29 경기 전 제외 발표.첫 확인 Sky19:12 UK와23:39 갱신을 구분.한국시간30일 새벽 사건이며 다음 경기 복귀는 미정.",
+        "verified_at": 1793336637,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.skysports.com/football/news/13605512/jack-grealish-dropped-by-everton-after-breaching-club-discipline-ahead-of-newcastle-carabao-cup-tie",
+            "note": "Sky 현장 취재에서 규율 위반 제외 공지와 모예스의 지지·추가 설명 거부를 확인했다.훈련 불참은 Sky 기자의 취재 내용이며 구단은 구체 경위를 공개하지 않았다.영상·인터뷰 음성은 미시청."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.skysports.com/football/news/13605512/jack-grealish-dropped-by-everton-after-breaching-club-discipline-ahead-of-newcastle-carabao-cup-tie",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "술자리·벌금·임대 해지 확정으로 확대 금지.훈련 불참은 Sky 보도.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-30",
+          "observation": "Sky 현장 취재에서 규율 위반 제외 공지와 모예스의 지지·추가 설명 거부를 확인했다.훈련 불참은 Sky 기자의 취재 내용이며 구단은 구체 경위를 공개하지 않았다.영상·인터뷰 음성은 미시청.",
+          "checked_materials": [],
+          "outline": [
+            "명단 제외 뒤 구단이 규율 위반을 공개한 순서 제시",
+            "훈련 불참이라는 취재와 구단의 공식 발표 범위 구별",
+            "감독의 지지·복귀 여부 비공개로 현재 결과 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.skysports.com/football/news/13605512/jack-grealish-dropped-by-everton-after-breaching-club-discipline-ahead-of-newcastle-carabao-cup-tie"
+          }
+        ],
+        "excerpt": "",
+        "context": "영국10/29 경기 전 제외 발표.첫 확인 Sky19:12 UK와23:39 갱신을 구분.한국시간30일 새벽 사건이며 다음 경기 복귀는 미정.",
+        "fetched_at": 1793336959,
+        "parser_revision": 7
+      },
+      "curation_event_key": "everton-grealish-club-discipline-omission-newcastle-20261029"
+    },
+    "a5a117e07a6e": {
+      "source": "뉴시스",
+      "title": "특검은5~7년 구형,법원은8명 전원 무죄…“위법한 계엄 인식 입증 부족”",
+      "link": "https://www.newsis.com/view/NISX20261030_0003848266",
+      "first_seen_at": 1793336959,
+      "last_seen_at": 1793336959,
+      "samples": [
+        {
+          "at": 1793336959,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "a5a117e07a6e",
+      "editorial": {
+        "title": "특검은5~7년 구형,법원은8명 전원 무죄…“위법한 계엄 인식 입증 부족”",
+        "category": "시사",
+        "url": "https://www.newsis.com/view/NISX20261030_0003848266",
+        "source": "뉴시스",
+        "kind": "article",
+        "event_key": "lotteria-meeting-eight-military-officers-first-trial-acquittal-20261030",
+        "why": "계엄에 실제 역할이 있었는지와 위법성·국헌문란 목적을 인식했는지가 갈린 구형·선고의 반전이다.",
+        "angle": "명령을 받고 움직였다는 사실만으로 유죄가 되지 않은 이유",
+        "why_now": "10/30 오전1심 선고.10:44 속보·10:54 이유 취재가 먼저이며12:21 종합과12:35 수정은 최초 선고 공개 시각이 아니다.범행 혐의는2024/12/3.",
+        "verified_at": 1793336499,
+        "published_at": 1793324640,
+        "evidence": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261030_0003848266",
+            "note": "법원 취재 본문에서8명 전원 무죄·사전 인지와 국헌문란 목적 증명 부족·일부 이의 제기와 복귀 명령 판단을 확인했다.특검의 좁은 해석이라는 반박도 구별했다.판결문 전체는 미열람."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261030_0003848266",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "1심 결과이며 확정 무죄 아님.계엄 전체가 적법하다는 판결 아님.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-30",
+          "observation": "법원 취재 본문에서8명 전원 무죄·사전 인지와 국헌문란 목적 증명 부족·일부 이의 제기와 복귀 명령 판단을 확인했다.특검의 좁은 해석이라는 반박도 구별했다.판결문 전체는 미열람.",
+          "checked_materials": [],
+          "outline": [
+            "비상계엄 당일 회동·출동 등의 혐의와5~7년 구형 제시",
+            "재판부가 구별한 위법성 인식·국헌문란 목적 설명",
+            "1심 무죄 결과와 특검의 반발 병기"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.newsis.com/view/NISX20261030_0003848266"
+          }
+        ],
+        "excerpt": "",
+        "context": "10/30 오전1심 선고.10:44 속보·10:54 이유 취재가 먼저이며12:21 종합과12:35 수정은 최초 선고 공개 시각이 아니다.범행 혐의는2024/12/3.",
+        "fetched_at": 1793336959,
+        "parser_revision": 7
+      },
+      "curation_event_key": "lotteria-meeting-eight-military-officers-first-trial-acquittal-20261030"
+    },
+    "7818fc22ced1": {
+      "source": "뉴시스",
+      "title": "시리얼에 대마 숨기고 퀵으로 여러 번 옮겼는데…세관은 이미 알고 추적",
+      "link": "https://www.newsis.com/view/NISX20261030_0003848073",
+      "first_seen_at": 1793336959,
+      "last_seen_at": 1793336959,
+      "samples": [
+        {
+          "at": 1793336959,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "7818fc22ced1",
+      "editorial": {
+        "title": "시리얼에 대마 숨기고 퀵으로 여러 번 옮겼는데…세관은 이미 알고 추적",
+        "category": "시사",
+        "url": "https://www.newsis.com/view/NISX20261030_0003848073",
+        "source": "뉴시스",
+        "kind": "article",
+        "event_key": "incheon-customs-cannabis-cereal-controlled-delivery-20261030",
+        "why": "추적을 피하려 배달을 여러 번 쪼갰지만 세관은 통관 단계부터 알고 경로를 쫓았다는 명확한 반전이다.",
+        "angle": "쪼개 옮길수록 수사망에서 벗어난다고 생각했지만",
+        "why_now": "10/30 11:01:17 인천공항세관 검거 발표 취재,11:36 수정과 구분.실제 밀수·체포 날짜는 본문 미기재이며 오늘 체포로 쓰지 않음.",
+        "verified_at": 1793336500,
+        "published_at": 1793325677,
+        "evidence": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261030_0003848073",
+            "note": "세관 취재 본문에서 시리얼에 숨긴 대마226g·반복 퀵 이동·통관 적발 후 통제배달·주거지 필로폰 발견을 확인했다.기소·유죄 판결 단계는 아니다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261030_0003848073",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "수사기관 발표·혐의 단계.오늘 밀수하거나 오늘 체포했다는 뜻 아님.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-30",
+          "observation": "세관 취재 본문에서 시리얼에 숨긴 대마226g·반복 퀵 이동·통관 적발 후 통제배달·주거지 필로폰 발견을 확인했다.기소·유죄 판결 단계는 아니다.",
+          "checked_materials": [],
+          "outline": [
+            "시리얼에 숨긴 우편물과 추적 회피 의도 소개",
+            "세관이 통관 때 먼저 적발한 사실로 시점 반전",
+            "통제배달 역추적 끝 검거와 추가 압수 결과 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.newsis.com/view/NISX20261030_0003848073"
+          }
+        ],
+        "excerpt": "",
+        "context": "10/30 11:01:17 인천공항세관 검거 발표 취재,11:36 수정과 구분.실제 밀수·체포 날짜는 본문 미기재이며 오늘 체포로 쓰지 않음.",
+        "fetched_at": 1793336959,
+        "parser_revision": 7
+      },
+      "curation_event_key": "incheon-customs-cannabis-cereal-controlled-delivery-20261030"
+    },
+    "92512d9401b4": {
+      "source": "디스패치",
+      "title": "부서 옮긴 뒤 남아 있던 접근권한…기밀51차례 다운로드 혐의로 기소",
+      "link": "https://www.dispatch.co.kr/2350024",
+      "first_seen_at": 1793336959,
+      "last_seen_at": 1793336959,
+      "samples": [
+        {
+          "at": 1793336959,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "92512d9401b4",
+      "editorial": {
+        "title": "부서 옮긴 뒤 남아 있던 접근권한…기밀51차례 다운로드 혐의로 기소",
+        "category": "시사",
+        "url": "https://www.dispatch.co.kr/2350024",
+        "source": "디스패치",
+        "kind": "article",
+        "event_key": "ador-former-executive-hybe-files51-summary-indictment-disclosed-20261030",
+        "why": "전적 뒤에도 남은 접근권한을 이용한 자료 다운로드가 실제 형사 절차로 이어진 구체적인 권한·정보 사건이다.",
+        "angle": "회사 옮겼는데 폴더 열쇠는 남아 있었다",
+        "why_now": "약식기소는10/15,다운로드는2024/4/8.10/30 09:00 첫 확인 취재·10:50 상세 보도를 오늘 범행으로 쓰지 않음.",
+        "verified_at": 1793336620,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.dispatch.co.kr/2350024",
+            "note": "디스패치의 공소내용 취재와 뉴시스 본문에서 전 어도어 부대표의51차례 자료 다운로드·벌금500만원 약식기소를 대조했다.정당한 접근권한 침해는 공소 측 판단이며 벌금 확정이 아니다."
+          },
+          {
+            "url": "https://nwww.newsis.com/view/NISX20261030_0003847485",
+            "note": "09:00 공개된 법조 취재에서 동일 기소와 자료 범위를 대조."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.dispatch.co.kr/2350024",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "500만원은 공소 측 청구액.유죄 확정이나 민희진 본인 기소 아님.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-30",
+          "observation": "디스패치의 공소내용 취재와 뉴시스 본문에서 전 어도어 부대표의51차례 자료 다운로드·벌금500만원 약식기소를 대조했다.정당한 접근권한 침해는 공소 측 판단이며 벌금 확정이 아니다.",
+          "checked_materials": [],
+          "outline": [
+            "하이브에서 어도어로 옮긴 뒤 남은 개인 접근권한 설명",
+            "2024년4월 다운로드 자료와51차례 공소내용 제시",
+            "10월 약식기소와 아직 남은 법원 판단을 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.dispatch.co.kr/2350024"
+          }
+        ],
+        "excerpt": "",
+        "context": "약식기소는10/15,다운로드는2024/4/8.10/30 09:00 첫 확인 취재·10:50 상세 보도를 오늘 범행으로 쓰지 않음.",
+        "fetched_at": 1793336959,
+        "parser_revision": 7
+      },
+      "curation_event_key": "ador-former-executive-hybe-files51-summary-indictment-disclosed-20261030"
+    },
+    "1bfe6aa85642": {
+      "source": "AFP·Al Jazeera",
+      "title": "상대 후보와 같은 이름을 영입했나…알래스카 주지사,선거 수사 지시",
+      "link": "https://www.aljazeera.com/news/2026/10/29/trump-demands-alaska-candidates-be-removed-over-alleged-ballot-scheme",
+      "first_seen_at": 1793336959,
+      "last_seen_at": 1793336959,
+      "samples": [
+        {
+          "at": 1793336959,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "1bfe6aa85642",
+      "editorial": {
+        "title": "상대 후보와 같은 이름을 영입했나…알래스카 주지사,선거 수사 지시",
+        "category": "시사",
+        "url": "https://www.aljazeera.com/news/2026/10/29/trump-demands-alaska-candidates-be-removed-over-alleged-ballot-scheme",
+        "source": "AFP·Al Jazeera",
+        "kind": "article",
+        "event_key": "alaska-governor-probe-namesake-sullivan-candidate-20261029",
+        "why": "투표용지에 동명이인을 올려 표를 나눴다는 의혹과 주지사의 수사 지시가 이름 하나의 구체적인 선거 전술로 연결된다.",
+        "angle": "댄 설리번 옆에 또 다른 설리번,우연일까 전략일까",
+        "why_now": "새 사건은미국10/29 주지사의 조사 지시.동명이인 출마·6월 조사 자체와 구분.기사29일 날짜 정밀도로 확인,48시간 이내.",
+        "verified_at": 1793336620,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.aljazeera.com/news/2026/10/29/trump-demands-alaska-candidates-be-removed-over-alleged-ballot-scheme",
+            "note": "AFP 본문에서 주지사의 조사 지시·NYT의 문건과 메시지 취재 주장·당사자의 독립 출마 주장을 구분했다.투표용지에는 현역·공화당 표기가 있고 후보 영입 자체가 곧 불법은 아니라는 설명을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.aljazeera.com/news/2026/10/29/trump-demands-alaska-candidates-be-removed-over-alleged-ballot-scheme",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "영입 의혹·범죄 여부는 조사 중.동명이인이라는 이유로 출마 불법 아님.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-29",
+          "observation": "AFP 본문에서 주지사의 조사 지시·NYT의 문건과 메시지 취재 주장·당사자의 독립 출마 주장을 구분했다.투표용지에는 현역·공화당 표기가 있고 후보 영입 자체가 곧 불법은 아니라는 설명을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "투표용지에 등장한 비슷한 두 후보 이름과 구별 표기 제시",
+            "표 분산 영입 의혹과 캠프·후보 해명을 각각 귀속",
+            "주지사의29일 조사 지시와 범죄 확정 아님을 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.aljazeera.com/news/2026/10/29/trump-demands-alaska-candidates-be-removed-over-alleged-ballot-scheme"
+          }
+        ],
+        "excerpt": "",
+        "context": "새 사건은미국10/29 주지사의 조사 지시.동명이인 출마·6월 조사 자체와 구분.기사29일 날짜 정밀도로 확인,48시간 이내.",
+        "fetched_at": 1793336959,
+        "parser_revision": 7
+      },
+      "curation_event_key": "alaska-governor-probe-namesake-sullivan-candidate-20261029"
+    },
+    "a1fc15f4bb2d": {
+      "source": "OSEN",
+      "title": "냉장고 생선 없던 이유가 아내 탓? 차예련은 다른 냉장고서 꺼냈다",
+      "link": "https://www.osen.co.kr/article/G1112900743",
+      "first_seen_at": 1793336959,
+      "last_seen_at": 1793336959,
+      "samples": [
+        {
+          "at": 1793336959,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "a1fc15f4bb2d",
+      "editorial": {
+        "title": "냉장고 생선 없던 이유가 아내 탓? 차예련은 다른 냉장고서 꺼냈다",
+        "category": "시사",
+        "url": "https://www.osen.co.kr/article/G1112900743",
+        "source": "OSEN",
+        "kind": "article",
+        "event_key": "cha-ye-ryun-joo-sang-wook-fridge-fishing-excuse-20261029",
+        "why": "낚시를 안 보내줘 생선이 없다던 남편의 핑계가 다른 냉장고 속 실제 해산물로 회수되는 짧은 웃음 포인트다.",
+        "angle": "“마누라가 보내줘야”라는 말 뒤 나온 무늬오징어",
+        "why_now": "원본 유튜브 공개10/29,정확한 업로드 시각 미확인.10/30 07:29 현장 대사 취재와 구분.48시간 이내 전날 공개 영상 소재.",
+        "verified_at": 1793336562,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.osen.co.kr/article/G1112900743",
+            "note": "OSEN의 원본 대사 취재 본문에서 주상욱의 낚시 핑계·차예련의 다른 냉장고 해산물·통영에서 잡은 것이라는 설명을 확인했다.원본 동영상은 직접 시청하지 않은 기사형 검토다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.osen.co.kr/article/G1112900743",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "부부의 방송 농담.실제 낚시 금지 갈등으로 단정 금지.영상 미시청.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-29",
+          "observation": "OSEN의 원본 대사 취재 본문에서 주상욱의 낚시 핑계·차예련의 다른 냉장고 해산물·통영에서 잡은 것이라는 설명을 확인했다.원본 동영상은 직접 시청하지 않은 기사형 검토다.",
+          "checked_materials": [],
+          "outline": [
+            "냉부해 냉장고에 생선이 없었다는 오해 소개",
+            "낚시 허락을 못 받았다는 남편의 농담 제시",
+            "다른 냉장고의 실제 해산물을 꺼낸 취재 설명으로 회수"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.osen.co.kr/article/G1112900743"
+          }
+        ],
+        "excerpt": "",
+        "context": "원본 유튜브 공개10/29,정확한 업로드 시각 미확인.10/30 07:29 현장 대사 취재와 구분.48시간 이내 전날 공개 영상 소재.",
+        "fetched_at": 1793336959,
+        "parser_revision": 7
+      },
+      "curation_event_key": "cha-ye-ryun-joo-sang-wook-fridge-fishing-excuse-20261029"
+    },
+    "05f1642e3f93": {
+      "source": "연합뉴스",
+      "title": "군사경찰 생활반에서 스마트폰 도박387회…3122만원 베팅 뒤 벌금형",
+      "link": "https://www.yna.co.kr/view/AKR20261029111000053",
+      "first_seen_at": 1793336959,
+      "last_seen_at": 1793336959,
+      "samples": [
+        {
+          "at": 1793336959,
+          "views": null,
+          "reactions": null,
+          "rank": 8,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "05f1642e3f93",
+      "editorial": {
+        "title": "군사경찰 생활반에서 스마트폰 도박387회…3122만원 베팅 뒤 벌금형",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261029111000053",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "naval-military-police-smartphone-gambling387-sentence-20261029",
+        "why": "군사경찰 소속 병사가 생활반에서 휴대전화로 반복 도박한 행동과 실제 양형 이유가 충돌한다.",
+        "angle": "부대 안 군사경찰도 끊지 못한 스마트폰 베팅",
+        "why_now": "10/29 13:30:24 법원 취재 공개.복무 중 범행은 과거이며 정확한 선고일은 본문 미기재.24시간을 넘어48시간 범위 채택.",
+        "verified_at": 1793336578,
+        "published_at": 1793248224,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261029111000053",
+            "note": "연합뉴스 원취재에서 군사경찰대 생활반·스마트폰·387회·3122만6000원과300만원 벌금 선고를 확인했다.베팅 누적액이지 손실액이 아니며 자백·재범 방지 다짐을 양형 사유로 구분했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261029111000053",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "3122만원 전액 손실이라는 뜻 아님.범행 시기와 새 판결 취재 구분.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-29",
+          "observation": "연합뉴스 원취재에서 군사경찰대 생활반·스마트폰·387회·3122만6000원과300만원 벌금 선고를 확인했다.베팅 누적액이지 손실액이 아니며 자백·재범 방지 다짐을 양형 사유로 구분했다.",
+          "checked_materials": [],
+          "outline": [
+            "군사경찰대 생활반에서 휴대전화로 베팅한 구체적 경위",
+            "반복 횟수와 누적 입금·베팅액을 손실과 구분",
+            "벌금형과 자백 등 법원의 참작 사유 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.yna.co.kr/view/AKR20261029111000053"
+          }
+        ],
+        "excerpt": "",
+        "context": "10/29 13:30:24 법원 취재 공개.복무 중 범행은 과거이며 정확한 선고일은 본문 미기재.24시간을 넘어48시간 범위 채택.",
+        "fetched_at": 1793336959,
+        "parser_revision": 7
+      },
+      "curation_event_key": "naval-military-police-smartphone-gambling387-sentence-20261029"
+    },
+    "26472533b8d0": {
+      "source": "연합뉴스",
+      "title": "매출 큰 회사 주식3주를1주로? 합병 손실 소송,6년 만에 주주 패소",
+      "link": "https://www.yna.co.kr/view/AKR20261029081600004",
+      "first_seen_at": 1793336959,
+      "last_seen_at": 1793336959,
+      "samples": [
+        {
+          "at": 1793336959,
+          "views": null,
+          "reactions": null,
+          "rank": 9,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "26472533b8d0",
+      "editorial": {
+        "title": "매출 큰 회사 주식3주를1주로? 합병 손실 소송,6년 만에 주주 패소",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261029081600004",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "samsung-ct-merger-individual-shareholders-damages-dismissal-20261029",
+        "why": "합병 비율0.35대1로 손해를 봤다는 주주들의 주장과 자산 크기만으로 불공정은 아니라는 판단이 구체적 돈 손익으로 갈린다.",
+        "angle": "3주가1주가 된 합병,법원이 불공정을 인정하지 않은 이유",
+        "why_now": "합병2015년·제소2020년.새 선고는10/29이며 첫 확인10:51 연합뉴스 취재,21:16 경향 후속과 구분.48시간 범위에서 채택.",
+        "verified_at": 1793336874,
+        "published_at": 1793238660,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261029081600004",
+            "note": "연합뉴스의 법원 취재 본문에서26명 개인주주의 손해배상 청구 기각과 합병의 사업상 목적·법정 평가 방식 판단을 확인했다.형사판결과 별개인 민사1심이고 주가 손실 자체가 없었다는 뜻은 아니다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261029081600004",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "민사1심 결과.투자 손실이 없었다거나 합병 관련 모든 쟁점 종결 아님.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-29",
+          "observation": "연합뉴스의 법원 취재 본문에서26명 개인주주의 손해배상 청구 기각과 합병의 사업상 목적·법정 평가 방식 판단을 확인했다.형사판결과 별개인 민사1심이고 주가 손실 자체가 없었다는 뜻은 아니다.",
+          "checked_materials": [],
+          "outline": [
+            "2015년 합병 비율과 주주들의 가치 하락 주장 제시",
+            "6년 소송 뒤 나온 사업상 목적·평가 방식 판단 소개",
+            "민사1심 청구 기각과 확정 여부·주가 손실을 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.yna.co.kr/view/AKR20261029081600004"
+          }
+        ],
+        "excerpt": "",
+        "context": "합병2015년·제소2020년.새 선고는10/29이며 첫 확인10:51 연합뉴스 취재,21:16 경향 후속과 구분.48시간 범위에서 채택.",
+        "fetched_at": 1793336959,
+        "parser_revision": 7
+      },
+      "curation_event_key": "samsung-ct-merger-individual-shareholders-damages-dismissal-20261029"
+    },
+    "028008a0a286": {
+      "source": "SBS",
+      "title": "“넘어져 다쳤다” 부인했지만…말 못하는5세 아이의 상처가 증거 됐다",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822876",
+      "first_seen_at": 1793336959,
+      "last_seen_at": 1793336959,
+      "samples": [
+        {
+          "at": 1793336959,
+          "views": null,
+          "reactions": null,
+          "rank": 10,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "028008a0a286",
+      "editorial": {
+        "title": "“넘어져 다쳤다” 부인했지만…말 못하는5세 아이의 상처가 증거 됐다",
+        "category": "시사",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822876",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "hongseong-autistic-child-girlfriend-daughter-abuse-conviction-20261030",
+        "why": "진술하기 어려운 아동의 상처를 사고라고 부인한 설명이 신체 손상·법의학 의견을 통해 뒤집힌 구체적 사건이다.",
+        "angle": "피해자가 말을 못해도 상처의 경위는 사라지지 않았다",
+        "why_now": "폭행은2025년7~9월,오늘 발생한 사건 아님.새 판결 취재10/30 11:02:36 공개,13:30 수정과 구분.정확한 선고일은 본문 미기재.",
+        "verified_at": 1793336577,
+        "published_at": 1793325756,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822876",
+            "note": "SBS 법원 취재 본문에서 징역2년6개월·장애인기관3년 취업제한·법의학 자문과 사고 주장 배척을 확인했다.도구 특정이 안 된 특수상해·특수폭행 부분 무죄와 나머지 유죄를 구분했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822876",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "판결 취재 기반.도구 특정 부분 무죄를 전체 무죄·모든 혐의 유죄로 바꾸지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-30",
+          "observation": "SBS 법원 취재 본문에서 징역2년6개월·장애인기관3년 취업제한·법의학 자문과 사고 주장 배척을 확인했다.도구 특정이 안 된 특수상해·특수폭행 부분 무죄와 나머지 유죄를 구분했다.",
+          "checked_materials": [],
+          "outline": [
+            "교통사고·넘어짐이었다는 피고인과 친모의 주장 귀속",
+            "혼자 다쳤다고 보기 어렵다는 법의학 자문·상처 시점 설명",
+            "실형 선고와 도구 특정 불가 부분 무죄·친모 별도 재판 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822876"
+          }
+        ],
+        "excerpt": "",
+        "context": "폭행은2025년7~9월,오늘 발생한 사건 아님.새 판결 취재10/30 11:02:36 공개,13:30 수정과 구분.정확한 선고일은 본문 미기재.",
+        "fetched_at": 1793336959,
+        "parser_revision": 7
+      },
+      "curation_event_key": "hongseong-autistic-child-girlfriend-daughter-abuse-conviction-20261030"
+    },
     "c956950d2fab": {
       "source": "조선비즈",
       "title": "400명 희망퇴직,퇴직 이틀 앞두고 취소…밀린 월급75%도 지급 미정",
@@ -27449,748 +28173,7 @@
         "parser_revision": 7
       },
       "curation_event_key": "ai-capex-fear-us-ten-year-yield-19bp-drop-20261023"
-    },
-    "6c1de42bb681": {
-      "source": "Reuters·ABC",
-      "title": "생중계하던 기자, 물에 잠기던 차로 헤엄쳐 들어가 운전자를 꺼냈다",
-      "link": "https://www.reuters.com/business/environment/australian-tv-reporter-recalls-terrifying-rescue-man-sinking-car-2026-10-23/",
-      "first_seen_at": 1792730205,
-      "last_seen_at": 1792730205,
-      "samples": [
-        {
-          "at": 1792730205,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "6c1de42bb681",
-      "editorial": {
-        "title": "생중계하던 기자, 물에 잠기던 차로 헤엄쳐 들어가 운전자를 꺼냈다",
-        "category": "시사",
-        "url": "https://www.reuters.com/business/environment/australian-tv-reporter-recalls-terrifying-rescue-man-sinking-car-2026-10-23/",
-        "source": "Reuters·ABC",
-        "kind": "article",
-        "event_key": "australia-reporter-rescues-driver-sinking-car-interview-20261023",
-        "why": "침수 현장을 전하던 기자가 카메라 앞을 벗어나 물속으로 뛰어들었고, 차가 완전히 잠기기 직전 운전자를 끌어냈다.",
-        "angle": "도로를 건너는 4륜차→시동이 꺼지고 가라앉는 차→기자와 시민이 헤엄치는 38초 영상→구조 직후 포옹으로 잇는다.",
-        "why_now": "Reuters가 23일 00시54분 UTC 구조 기자의 첫 회고와 구조 직전·직후를 새로 공개했다.",
-        "verified_at": 1792729884,
-        "published_at": 1792716840,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/business/environment/australian-tv-reporter-recalls-terrifying-rescue-man-sinking-car-2026-10-23/",
-            "note": "Reuters 본문에서 차가 멈춰 가라앉기 시작한 뒤 기자와 시민이 운전자를 꺼냈고 직후 차가 완전히 잠긴 사실과 기자 인터뷰를 확인했다."
-          },
-          {
-            "url": "https://www.abc.net.au/news/2026-10-22/abc-reporter-and-bystander-rescue-man-from-floodwaters/107297094",
-            "note": "ABC의 38초 원본 영상 페이지에서 두 사람이 침수 차량 위로 접근해 운전자를 구조하는 연속 장면을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.abc.net.au/news/2026-10-22/abc-reporter-and-bystander-rescue-man-from-floodwaters/107297094",
-            "label": "38초 원본 영상",
-            "kind": "video"
-          },
-          {
-            "url": "https://www.reuters.com/business/environment/australian-tv-reporter-recalls-terrifying-rescue-man-sinking-car-2026-10-23/",
-            "label": "구조 기자 인터뷰",
-            "kind": "source"
-          }
-        ],
-        "caution": "구조 장면은 22일 발생했고, 이번 새 사실은 23일 공개된 구조 기자의 회고다.",
-        "readiness": {
-          "mode": "scene",
-          "event_date": "2026-10-22",
-          "observation": "차가 급류에서 가라앉자 기자와 시민이 헤엄쳐 접근해 운전자를 빼낸 뒤 차가 완전히 잠기는 연속 장면을 확인했다.",
-          "checked_materials": [
-            "https://www.abc.net.au/news/2026-10-22/abc-reporter-and-bystander-rescue-man-from-floodwaters/107297094"
-          ],
-          "outline": [
-            "1장: 홍수 도로를 건너다 멈춘 4륜차",
-            "2장: 기자와 시민이 물로 뛰어들어 차 위에 올라가는 38초 장면",
-            "3장: 운전자를 꺼낸 직후 완전히 잠긴 차량과 구조 뒤 포옹"
-          ]
-        }
-      },
-      "detail": {
-        "format": "원본 영상",
-        "media": [
-          {
-            "url": "https://www.abc.net.au/news/2026-10-22/abc-reporter-and-bystander-rescue-man-from-floodwaters/107297094",
-            "label": "38초 원본 영상",
-            "kind": "video"
-          }
-        ],
-        "source_links": [
-          {
-            "label": "38초 원본 영상",
-            "url": "https://www.abc.net.au/news/2026-10-22/abc-reporter-and-bystander-rescue-man-from-floodwaters/107297094"
-          },
-          {
-            "label": "구조 기자 인터뷰",
-            "url": "https://www.reuters.com/business/environment/australian-tv-reporter-recalls-terrifying-rescue-man-sinking-car-2026-10-23/"
-          }
-        ],
-        "excerpt": "",
-        "context": "Reuters가 23일 00시54분 UTC 구조 기자의 첫 회고와 구조 직전·직후를 새로 공개했다.",
-        "fetched_at": 1792730205,
-        "parser_revision": 7
-      },
-      "curation_event_key": "australia-reporter-rescues-driver-sinking-car-interview-20261023"
-    },
-    "bc6280efc36a": {
-      "source": "Reuters·FIA",
-      "title": "F1 수장 “중동 레이스 예정대로”…사인츠 “지금 확신은 너무 이르다”",
-      "link": "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
-      "first_seen_at": 1792730205,
-      "last_seen_at": 1792730205,
-      "samples": [
-        {
-          "at": 1792730205,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "bc6280efc36a",
-      "editorial": {
-        "title": "F1 수장 “중동 레이스 예정대로”…사인츠 “지금 확신은 너무 이르다”",
-        "category": "메이저 스포츠",
-        "url": "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
-        "source": "Reuters·FIA",
-        "kind": "article",
-        "event_key": "sainz-calls-f1-middle-east-race-certainty-premature-20261022",
-        "why": "FIA 회장의 낙관과 현역 드라이버 대표의 불안이 정면 충돌했고, 대체지 이몰라에는 ‘제설차가 필요할 수도’라는 농담까지 나왔다.",
-        "angle": "FIA ‘예정대로’→사인츠 ‘확신 이르다’→이몰라 대체안→피아스트리의 제설차 농담으로 마무리한다.",
-        "why_now": "미국 GP 기자회견에서 22일 드라이버들이 카타르·아부다비 개최 불안을 직접 밝혔다.",
-        "verified_at": 1792729884,
-        "published_at": 1792699779,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
-            "note": "Reuters 본문에서 FIA의 강행 입장, 사인츠의 ‘premature’ 발언, 이몰라 대체안과 피아스트리의 제설차 발언을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/",
-            "label": "원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "카타르·아부다비 일정은 현재 유지 중이며 취소가 확정된 것은 아니다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "Reuters 본문에서 FIA의 강행 입장, 사인츠의 ‘premature’ 발언, 이몰라 대체안과 피아스트리의 제설차 발언을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: FIA 회장 ‘중동 레이스는 열린다’",
-            "2장: 드라이버 대표 사인츠 ‘지금 확신은 이르다’",
-            "3장: 대체지 이몰라 얘기에 나온 ‘제설차’ 농담"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "원문",
-            "url": "https://www.reuters.com/sports/formula1/sainz-says-talk-f1-racing-middle-east-is-premature-2026-10-22/"
-          }
-        ],
-        "excerpt": "",
-        "context": "미국 GP 기자회견에서 22일 드라이버들이 카타르·아부다비 개최 불안을 직접 밝혔다.",
-        "fetched_at": 1792730205,
-        "parser_revision": 7
-      },
-      "curation_event_key": "sainz-calls-f1-middle-east-race-certainty-premature-20261022"
-    },
-    "16645e4bbd71": {
-      "source": "Reuters",
-      "title": "혈전 발견 뒤에도 경기 뛴 허츠…감독은 “더 답하지 않겠다”",
-      "link": "https://www.reuters.com/sports/eagles-nick-sirianni-sidesteps-jalen-hurts-queries--flm-2026-10-22/",
-      "first_seen_at": 1792730205,
-      "last_seen_at": 1792730205,
-      "samples": [
-        {
-          "at": 1792730205,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "16645e4bbd71",
-      "editorial": {
-        "title": "혈전 발견 뒤에도 경기 뛴 허츠…감독은 “더 답하지 않겠다”",
-        "category": "메이저 스포츠",
-        "url": "https://www.reuters.com/sports/eagles-nick-sirianni-sidesteps-jalen-hurts-queries--flm-2026-10-22/",
-        "source": "Reuters",
-        "kind": "article",
-        "event_key": "jalen-hurts-blood-clot-clearance-sirianni-refuses-questions-20261022",
-        "why": "혈전이 발견된 선수를 런던 경기에 내보낸 경위를 선수노조가 조사하자, 감독은 건강을 걱정한다면서도 관련 질문을 더 받지 않겠다고 했다.",
-        "angle": "혈전 발견→런던 경기 출전 허가→NFL의 절차 준수 주장→시리애니의 답변 거부 순서다.",
-        "why_now": "Reuters가 22일 19시45분 UTC 감독의 공개 답변 거부와 선수노조 조사 요구를 보도했다.",
-        "verified_at": 1792729884,
-        "published_at": 1792698300,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/sports/eagles-nick-sirianni-sidesteps-jalen-hurts-queries--flm-2026-10-22/",
-            "note": "Reuters 본문에서 superficial blood clot 발견 뒤 런던 경기 출전 허가, NFLPA 조사 요구, 시리애니의 답변 거부를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/sports/eagles-nick-sirianni-sidesteps-jalen-hurts-queries--flm-2026-10-22/",
-            "label": "감독 발언 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "NFL은 절차를 지켰다고 주장하며 혈전의 구체적 의학 판단은 공개되지 않았다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "혈전 발견 뒤 출전 허가를 둘러싼 선수노조 조사 요구와 감독의 공개 답변 거부를 Reuters 본문에서 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: 혈전이 발견된 쿼터백이 런던 경기를 뛴 사실",
-            "2장: NFL·의료진의 ‘필요 절차 준수’ 방어",
-            "3장: 선수노조 조사 요구 뒤 감독의 ‘더 답하지 않겠다’ 발언"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "감독 발언 원문",
-            "url": "https://www.reuters.com/sports/eagles-nick-sirianni-sidesteps-jalen-hurts-queries--flm-2026-10-22/"
-          }
-        ],
-        "excerpt": "",
-        "context": "Reuters가 22일 19시45분 UTC 감독의 공개 답변 거부와 선수노조 조사 요구를 보도했다.",
-        "fetched_at": 1792730205,
-        "parser_revision": 7
-      },
-      "curation_event_key": "jalen-hurts-blood-clot-clearance-sirianni-refuses-questions-20261022"
-    },
-    "c15e8e5326ce": {
-      "source": "Reuters·SpaceX 공시",
-      "title": "머스크는 협상에서 빠졌다는데…테슬라·스페이스X 합병은 결국 머스크 승인이 필요",
-      "link": "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/",
-      "first_seen_at": 1792730205,
-      "last_seen_at": 1792730205,
-      "samples": [
-        {
-          "at": 1792730205,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "c15e8e5326ce",
-      "editorial": {
-        "title": "머스크는 협상에서 빠졌다는데…테슬라·스페이스X 합병은 결국 머스크 승인이 필요",
-        "category": "시사",
-        "url": "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/",
-        "source": "Reuters·SpaceX 공시",
-        "kind": "article",
-        "event_key": "spacex-tesla-merger-musk-recusal-approval-paradox-20261022",
-        "why": "이해충돌 때문에 협상에서 물러난 당사자가 지배주주라 최종 합병 승인권을 쥔 모순이 공시로 드러났다.",
-        "angle": "머스크의 ‘좋은 생각’ 발언→특별위원회 협상→본인 회피→지배주주 승인 필수 공시로 반전을 만든다.",
-        "why_now": "SpaceX가 22일 규제 공시에서 잠재적 합병의 승인 구조를 처음 명시했다.",
-        "verified_at": 1792729884,
-        "published_at": 1792702191,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/",
-            "note": "Reuters 본문에서 머스크의 협상 회피, 특별위원회 구성, 이사회와 지배주주 승인이 모두 필요하다는 공시를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/",
-            "label": "원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "합병은 논의 단계이며 특별위원회가 아직 어떤 결정도 내리지 않았다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "Reuters 본문에서 머스크의 협상 회피, 특별위원회 구성, 이사회와 지배주주 승인이 모두 필요하다는 공시를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: ‘합병은 좋은 생각’이라는 머스크 발언",
-            "2장: 이해충돌로 협상에서 빠진 머스크",
-            "3장: 그런데 최종 단계에는 지배주주 머스크 승인이 필요"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "원문",
-            "url": "https://www.reuters.com/legal/transactional/spacex-says-tesla-merger-would-need-musks-approval-2026-10-22/"
-          }
-        ],
-        "excerpt": "",
-        "context": "SpaceX가 22일 규제 공시에서 잠재적 합병의 승인 구조를 처음 명시했다.",
-        "fetched_at": 1792730205,
-        "parser_revision": 7
-      },
-      "curation_event_key": "spacex-tesla-merger-musk-recusal-approval-paradox-20261022"
-    },
-    "7b8f57df00ef": {
-      "source": "Reuters·Migration Policy Institute",
-      "title": "트럼프 18개월 추방 98만명…범죄 전력자는 전체의 20%",
-      "link": "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
-      "first_seen_at": 1792730205,
-      "last_seen_at": 1792730205,
-      "samples": [
-        {
-          "at": 1792730205,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "7b8f57df00ef",
-      "editorial": {
-        "title": "트럼프 18개월 추방 98만명…범죄 전력자는 전체의 20%",
-        "category": "시사",
-        "url": "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
-        "source": "Reuters·Migration Policy Institute",
-        "kind": "article",
-        "event_key": "trump-980000-deportations-only-20-percent-convictions-20261022",
-        "why": "‘치안’을 내세운 대규모 추방에서 범죄 유죄 전력이 있는 사람은 다섯 명 중 한 명뿐이었다는 수치가 논쟁을 만든다.",
-        "angle": "98만명 총추방→유죄 전력 20%→2년 이상 거주자 중 무전과 71%→과거 정부와 비교로 간다.",
-        "why_now": "전 DHS 통계 책임자가 작성한 18개월 분석 보고서가 22일 공개됐다.",
-        "verified_at": 1792729884,
-        "published_at": 1792706187,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
-            "note": "Reuters 본문에서 98만명, 유죄 전력자 20%, 장기 거주 추방자 중 무전과 71%와 분류별 수치를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/",
-            "label": "원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "수치는 정부 발표가 아니라 이민정책연구소가 DHS 데이터를 분석한 결과다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "Reuters 본문에서 98만명, 유죄 전력자 20%, 장기 거주 추방자 중 무전과 71%와 분류별 수치를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: 18개월 추방 98만명",
-            "2장: 범죄 유죄 전력은 20%라는 반전",
-            "3장: 2년 이상 거주 추방자 중 71%는 유죄 전력 없음"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "원문",
-            "url": "https://www.reuters.com/legal/government/trump-administration-oversaw-980000-deportations-during-first-18-months-2026-10-22/"
-          }
-        ],
-        "excerpt": "",
-        "context": "전 DHS 통계 책임자가 작성한 18개월 분석 보고서가 22일 공개됐다.",
-        "fetched_at": 1792730205,
-        "parser_revision": 7
-      },
-      "curation_event_key": "trump-980000-deportations-only-20-percent-convictions-20261022"
-    },
-    "0a8bb6215681": {
-      "source": "Reuters·SEC 공시",
-      "title": "미국산 희토류 자석 공장, 물량 90%를 사기로 한 GM이 계약을 끊었다",
-      "link": "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
-      "first_seen_at": 1792730205,
-      "last_seen_at": 1792730205,
-      "samples": [
-        {
-          "at": 1792730205,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "0a8bb6215681",
-      "editorial": {
-        "title": "미국산 희토류 자석 공장, 물량 90%를 사기로 한 GM이 계약을 끊었다",
-        "category": "시사",
-        "url": "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
-        "source": "Reuters·SEC 공시",
-        "kind": "article",
-        "event_key": "gm-terminates-vac-us-rare-earth-magnet-deal-90-percent-20261022",
-        "why": "중국 의존을 줄이겠다며 만든 5억달러 공장의 최대 고객이 돌연 빠져 ‘탈중국 공급망’의 민낯이 드러났다.",
-        "angle": "5억달러 공장→생산량 90% GM 공급 계약→GM 해지→중재와 인수가격 조정 가능성으로 전개한다.",
-        "why_now": "SEC 문서와 관계자 확인을 통해 22일 계약 해지와 분쟁이 처음 보도됐다.",
-        "verified_at": 1792729884,
-        "published_at": 1792705271,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
-            "note": "Reuters 본문에서 연 2천톤 공장 생산량의 90%를 GM이 사기로 했고 해지 뒤 VAC가 중재를 제기한 사실을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/",
-            "label": "원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "계약 해지 이유와 중재 세부 내용은 비공개다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "Reuters 본문에서 연 2천톤 공장 생산량의 90%를 GM이 사기로 했고 해지 뒤 VAC가 중재를 제기한 사실을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: ‘미국산 희토류 자석’ 5억달러 공장",
-            "2장: 물량 90%를 사기로 한 GM 계약",
-            "3장: GM 해지·중재 돌입, 탈중국 계획에 생긴 구멍"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "원문",
-            "url": "https://www.reuters.com/legal/litigation/gm-cancels-deal-with-new-us-rare-earth-magnet-plant-documents-say-2026-10-22/"
-          }
-        ],
-        "excerpt": "",
-        "context": "SEC 문서와 관계자 확인을 통해 22일 계약 해지와 분쟁이 처음 보도됐다.",
-        "fetched_at": 1792730205,
-        "parser_revision": 7
-      },
-      "curation_event_key": "gm-terminates-vac-us-rare-earth-magnet-deal-90-percent-20261022"
-    },
-    "14cd531002f5": {
-      "source": "Reuters",
-      "title": "체포 사망 의혹에 도로 막고 타이어 불태워…튀니지 세 도시서 경찰과 충돌",
-      "link": "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
-      "first_seen_at": 1792730205,
-      "last_seen_at": 1792730205,
-      "samples": [
-        {
-          "at": 1792730205,
-          "views": null,
-          "reactions": null,
-          "rank": 7,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "14cd531002f5",
-      "editorial": {
-        "title": "체포 사망 의혹에 도로 막고 타이어 불태워…튀니지 세 도시서 경찰과 충돌",
-        "category": "시사",
-        "url": "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
-        "source": "Reuters",
-        "kind": "article",
-        "event_key": "tunisia-three-city-police-protester-clashes-detention-deaths-20261022",
-        "why": "한 남성이 체포 뒤 숨졌다는 유족 주장으로 시작된 항의가 수도 외곽과 남부 두 도시까지 번졌고, 경찰은 최루탄으로 맞섰다.",
-        "angle": "체포 뒤 사망 의혹→불타는 타이어와 막힌 도로→돌을 던지는 시위대→세 도시 동시 충돌로 구성한다.",
-        "why_now": "Reuters가 22일 22시21분 UTC 수도 외곽과 남부 두 도시의 동시 충돌을 처음 묶어 공개했다.",
-        "verified_at": 1792729884,
-        "published_at": 1792707660,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
-            "note": "Reuters 본문에서 도로 봉쇄·타이어 방화·투석과 경찰의 최루탄 대응, 세 도시 동시 충돌을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/",
-            "label": "현장 보도",
-            "kind": "source"
-          }
-        ],
-        "caution": "사망 원인은 유족과 현지 보도 설명이 엇갈리며 수사 결론이 나오지 않았다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "체포 뒤 사망 의혹과 의료 대응 불만이 겹치며 수도 외곽·제베니아나·아가렙에서 경찰과 시위대가 충돌한 사실을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: 체포 뒤 숨졌다는 유족 주장과 경찰 책임 요구",
-            "2장: 막힌 도로·불타는 타이어·투석 장면",
-            "3장: 경찰 최루탄 대응과 세 도시로 번진 충돌"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "현장 보도",
-            "url": "https://www.reuters.com/world/africa/tunisian-police-clash-with-protesters-capital-day-heightened-tensions-2026-10-22/"
-          }
-        ],
-        "excerpt": "",
-        "context": "Reuters가 22일 22시21분 UTC 수도 외곽과 남부 두 도시의 동시 충돌을 처음 묶어 공개했다.",
-        "fetched_at": 1792730205,
-        "parser_revision": 7
-      },
-      "curation_event_key": "tunisia-three-city-police-protester-clashes-detention-deaths-20261022"
-    },
-    "97eaaf9edcc9": {
-      "source": "Reuters·Science",
-      "title": "문진부터 검사 순서까지 정하는 AI…복잡한 진단에서 일반의 정확도의 두 배",
-      "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
-      "first_seen_at": 1792730205,
-      "last_seen_at": 1792730205,
-      "samples": [
-        {
-          "at": 1792730205,
-          "views": null,
-          "reactions": null,
-          "rank": 8,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "97eaaf9edcc9",
-      "editorial": {
-        "title": "문진부터 검사 순서까지 정하는 AI…복잡한 진단에서 일반의 정확도의 두 배",
-        "category": "시사",
-        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
-        "source": "Reuters·Science",
-        "kind": "article",
-        "event_key": "microsoft-sequential-diagnostic-ai-twice-general-physicians-20261023",
-        "why": "증상을 한꺼번에 넣는 AI가 아니라 무엇을 묻고 어떤 검사를 다음에 할지 스스로 순서를 짰고, 희귀·복잡 사례에서 일반의보다 두 배 넘게 정확했다.",
-        "angle": "환자 질문 선택→검사 주문→결과에 따라 다음 검사 결정→의사와 정확도·비용 비교 순서다.",
-        "why_now": "Reuters가 23일 00시34분 UTC Science 게재 연구와 실제 응급실 분류 후속시험 계획을 공개했다.",
-        "verified_at": 1792729884,
-        "published_at": 1792715685,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
-            "note": "Reuters 본문에서 300여 복잡 사례, 일반의 대비 두 배 이상 정확도, 순차 문진·검사 설계와 응급실 후속시험 계획을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
-            "label": "연구 보도",
-            "kind": "source"
-          }
-        ],
-        "caution": "300여 고난도 사례 중심 연구이며 실제 진료 현장 성능과 안전성은 추가 시험이 필요하다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-22",
-          "observation": "AI가 문진·검사 순서를 단계적으로 설계해 복잡 진단에서 일반의보다 두 배 넘게 정확했다는 연구 결과를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: ‘한꺼번에 답하기’ 대신 다음 질문을 고르는 AI",
-            "2장: 검사 결과마다 가설을 바꾸고 추가 검사를 주문하는 구조",
-            "3장: 300여 복잡 사례에서 일반의 대비 두 배 이상 정확도"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "연구 보도",
-            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/"
-          }
-        ],
-        "excerpt": "",
-        "context": "Reuters가 23일 00시34분 UTC Science 게재 연구와 실제 응급실 분류 후속시험 계획을 공개했다.",
-        "fetched_at": 1792730205,
-        "parser_revision": 7
-      },
-      "curation_event_key": "microsoft-sequential-diagnostic-ai-twice-general-physicians-20261023"
-    },
-    "585497f217b3": {
-      "source": "Reuters",
-      "title": "“골프 치다 손이 뻣뻣했다”…NFL 명예의 전당 폴크, 파킨슨병 공개",
-      "link": "https://www.reuters.com/sports/hall-famer-marshall-faulk-reveals-parkinsons-diagnosis--flm-2026-10-23/",
-      "first_seen_at": 1792730205,
-      "last_seen_at": 1792730205,
-      "samples": [
-        {
-          "at": 1792730205,
-          "views": null,
-          "reactions": null,
-          "rank": 9,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "585497f217b3",
-      "editorial": {
-        "title": "“골프 치다 손이 뻣뻣했다”…NFL 명예의 전당 폴크, 파킨슨병 공개",
-        "category": "메이저 스포츠",
-        "url": "https://www.reuters.com/sports/hall-famer-marshall-faulk-reveals-parkinsons-diagnosis--flm-2026-10-23/",
-        "source": "Reuters",
-        "kind": "article",
-        "event_key": "marshall-faulk-parkinsons-18-months-diagnosis-reveal-20261023",
-        "why": "NFL 레전드가 골프 중 손 뻣뻣함을 첫 신호로 느꼈고, 18개월간 치료해 일상을 유지해온 사실을 처음 공개했다.",
-        "angle": "골프 중 손 뻣뻣함→검사 권유→파킨슨병 진단→약물로 일상 유지와 조기검진 당부로 잇는다.",
-        "why_now": "Reuters가 23일 01시17분 UTC 폴크의 진단 공개와 18개월 치료 경과를 전했다.",
-        "verified_at": 1792729884,
-        "published_at": 1792718220,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/sports/hall-famer-marshall-faulk-reveals-parkinsons-diagnosis--flm-2026-10-23/",
-            "note": "Reuters 본문에서 골프 중 손 뻣뻣함, 파킨슨병 진단, 약물 치료 뒤 일상 유지와 조기검진 당부를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/sports/hall-famer-marshall-faulk-reveals-parkinsons-diagnosis--flm-2026-10-23/",
-            "label": "진단 공개 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "개인 진단 경험이며 일반적인 의학적 조언으로 확대하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-23",
-          "observation": "폴크가 골프 중 손 뻣뻣함을 계기로 진단받고 18개월간 치료 중이라는 본인 공개 내용을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: 골프 중 처음 느낀 손의 뻣뻣함",
-            "2장: 정기검진에서 추가 검사를 권유받아 파킨슨병 확인",
-            "3장: 약물 치료 뒤 일상 유지와 ‘증상을 미루지 말라’는 당부"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "진단 공개 원문",
-            "url": "https://www.reuters.com/sports/hall-famer-marshall-faulk-reveals-parkinsons-diagnosis--flm-2026-10-23/"
-          }
-        ],
-        "excerpt": "",
-        "context": "Reuters가 23일 01시17분 UTC 폴크의 진단 공개와 18개월 치료 경과를 전했다.",
-        "fetched_at": 1792730205,
-        "parser_revision": 7
-      },
-      "curation_event_key": "marshall-faulk-parkinsons-18-months-diagnosis-reveal-20261023"
-    },
-    "ef5d94b4add9": {
-      "source": "Reuters·HD현대",
-      "title": "HD현대, 미국에 새 조선소 짓는다…2029년 가동·일자리 3천개",
-      "link": "https://www.reuters.com/world/asia-pacific/hd-hyundai-build-us-shipyard-with-kiewit-create-3000-jobs-2026-10-23/",
-      "first_seen_at": 1792730205,
-      "last_seen_at": 1792730205,
-      "samples": [
-        {
-          "at": 1792730205,
-          "views": null,
-          "reactions": null,
-          "rank": 10,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "ef5d94b4add9",
-      "editorial": {
-        "title": "HD현대, 미국에 새 조선소 짓는다…2029년 가동·일자리 3천개",
-        "category": "시사",
-        "url": "https://www.reuters.com/world/asia-pacific/hd-hyundai-build-us-shipyard-with-kiewit-create-3000-jobs-2026-10-23/",
-        "source": "Reuters·HD현대",
-        "kind": "article",
-        "event_key": "hd-hyundai-kiewit-us-shipyard-3000-jobs-20261023",
-        "why": "한국 조선사가 미국 현지에 새 조선소를 짓고 상선뿐 아니라 군수지원선까지 보겠다고 공식화했다.",
-        "angle": "내년 착공→2029년 가동→미국 일자리 3천개→상선·군수지원선 두 시장 진입으로 구성한다.",
-        "why_now": "HD현대가 23일 Kiewit과의 조선소 건설 계약과 가동 시점·고용 규모를 발표했다.",
-        "verified_at": 1792729884,
-        "published_at": 1792716964,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/world/asia-pacific/hd-hyundai-build-us-shipyard-with-kiewit-create-3000-jobs-2026-10-23/",
-            "note": "Reuters 본문에서 2027년 착공, 2029년 가동, 미국 일자리 약 3천개와 상선·군수지원선 계획을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/world/asia-pacific/hd-hyundai-build-us-shipyard-with-kiewit-create-3000-jobs-2026-10-23/",
-            "label": "계약 발표",
-            "kind": "source"
-          }
-        ],
-        "caution": "부지·투자액 등 세부 조건은 기사에 공개되지 않았다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-23",
-          "observation": "HD현대와 Kiewit이 미국 조선소를 내년 착공해 2029년 가동하고 약 3천명을 고용한다는 발표를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "1장: HD현대·Kiewit의 미국 조선소 건설 계약",
-            "2장: 2027년 착공·2029년 가동 일정",
-            "3장: 3천개 일자리와 상선·군수지원선 진출 계획"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "계약 발표",
-            "url": "https://www.reuters.com/world/asia-pacific/hd-hyundai-build-us-shipyard-with-kiewit-create-3000-jobs-2026-10-23/"
-          }
-        ],
-        "excerpt": "",
-        "context": "HD현대가 23일 Kiewit과의 조선소 건설 계약과 가동 시점·고용 규모를 발표했다.",
-        "fetched_at": 1792730205,
-        "parser_revision": 7
-      },
-      "curation_event_key": "hd-hyundai-kiewit-us-shipyard-3000-jobs-20261023"
     }
   },
-  "updated_at": 1793326273
+  "updated_at": 1793336959
 }
