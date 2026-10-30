@@ -1,5 +1,5 @@
 {
-  "updated_at": 1793347608,
+  "updated_at": 1793358399,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,65 +15,65 @@
     "requested_stories": 10,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026103008",
+    "hour_utc": "2026103011",
     "category_counts": {
-      "시사": 10,
+      "시사": 7,
       "축구": 0,
-      "메이저 스포츠": 0,
+      "메이저 스포츠": 3,
       "아이돌": 0
     },
-    "research_queries": 54,
-    "opened_sources": 24,
+    "research_queries": 30,
+    "opened_sources": 16,
     "picks": [
       {
-        "title": "변호사가3번 안 나간 학폭 소송…유족의 재개 요청,대법에서도 막혔다",
-        "url": "https://www.yna.co.kr/view/AKR20261030106800004",
-        "event_key": "kwon-lawyer-no-show-school-violence-lawsuit-final-closure-20261030"
+        "title": "“울릉도서30명 감금,경찰에 구조” 영상…군이 확인하니 그런 신고가 없었다",
+        "url": "https://www.inews24.com/view/2020510",
+        "event_key": "ulleung-tour-confinement-video-denial-response-20261029"
       },
       {
-        "title": "품절 디저트 후속작에서 대장균군…GS25,판매 중단·재고 폐기·환불 예고",
-        "url": "https://www.newsis.com/view/NISX20261030_0003848525",
-        "event_key": "gs25-hanjeongseon-pistachio-ricecake-recall-20261030"
+        "title": "아파트 시설 예약했는데 개인정보가…자이 예약시스템 뚫려 입주민에 안내",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823648",
+        "event_key": "gs-xi-community-reservation-personal-data-breach-20261030"
       },
       {
-        "title": "30만원에 낙찰돼도40만원어치 더 산다…무상교복 예산,반납 학교는2곳",
-        "url": "https://www.ytn.co.kr/_ln/0103_202610300542097007",
-        "event_key": "gyeonggi-free-uniform-budget-contract-topup-collusion-report-20261030"
+        "title": "“사타구니 잡혔다” 항의한 럭비 선수…징계는 기각,신고자도 거짓말로 몰지 않았다",
+        "url": "https://www.xportsnews.com/article/2213426",
+        "event_key": "tadhg-furlong-disciplinary-complaint-dismissed-20261029"
       },
       {
-        "title": "불륜 폭로해놓고 “불륜인지는 모르겠다”…양홍원 폭로자,인터뷰서 사과",
-        "url": "https://www.mt.co.kr/amp/society/2026/10/30/2026102923423962197",
-        "event_key": "yang-hong-won-accuser-interview-admission-apology-20261029"
+        "title": "4명137만원 내고 갔는데 중장비가 코스 옆에…골프장 “할인 적용,응대 개선”",
+        "url": "https://www.asiae.co.kr/article/2026102722444112450",
+        "event_key": "greenhill-golf-course-construction-customer-response-investigation-20261030"
       },
       {
-        "title": "실종자 찾으려 오피스텔 DNA 감식했더니…19년 미제 성폭행 용의자였다",
-        "url": "https://www.newsis.com/view/NISX20261030_0003848599",
-        "event_key": "gangseo-missing-person-dna-cold-case-indictment-20261030"
+        "title": "조카며느리 허위 취업시키고 급여통장은 직접 관리…전 원장2심도 실형",
+        "url": "https://www.newsis.com/view/NISX20261030_0003848757",
+        "event_key": "choi-heung-jin-ghost-relative-payroll-bribery-appeal-20261030"
       },
       {
-        "title": "267만원 가방은 위법한 선물,남편 공모는 입증 안 돼…김기현 무죄·아내 벌금",
-        "url": "https://www.yna.co.kr/amp/view/AKR20261030122300004",
-        "event_key": "kim-gi-hyeon-spouse-luxury-bag-first-verdict-20261030"
+        "title": "비행기 타려다 손으로 발권…인천공항1200명 대기,복구돼도 여행 일정은 꼬였다",
+        "url": "https://www.inews24.com/view/2021081",
+        "event_key": "incheon-airport-arinc-travelsky-outage-restoration-20261030"
       },
       {
-        "title": "“나만 잘렸다”던 도경완의 복귀 편지…센터장 답도 “시청률 안 오르면 제거”",
-        "url": "https://www.starnewskorea.com/star/2026/10/30/2026103000243880109",
-        "event_key": "do-kyung-wan-pyeonstorang-center-chief-reply-20261029"
+        "title": "공사장33m 천공기가 옆 아파트로…주민 보행로·펜스 덮쳤다",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823043",
+        "event_key": "gimhae-drilling-rig-collapse-adjacent-apartment-20261030"
       },
       {
-        "title": "“공익 위한 공개” 주장했지만…피해자 신상 올린 변호사,2심서 법정구속",
-        "url": "https://www.newsis.com/view/NISX20261030_0003848168",
-        "event_key": "jung-chul-seung-victim-identity-appeal-custody-20261030"
+        "title": "립 바른 선수에게 협회장이 폭언?…일본배구협회장 “그런 대화 자체 없었다”",
+        "url": "https://www.xportsnews.com/article/2212916",
+        "event_key": "kawai-jva-fake-player-rebuke-video-denial-20261029"
       },
       {
-        "title": "트럭 넘어져 도로에 사과가 쏟아지자…학생·어르신들이 끝까지 주워 담았다",
-        "url": "https://n.news.naver.com/article/057/0001975937",
-        "event_key": "busan-yeonsan-apple-truck-citizen-cleanup-post-20261029"
+        "title": "서장훈 조언엔 고집부리더니 판사 말엔 끄덕…“웃기네” 나온 챔피언 남편",
+        "url": "https://www.xportsnews.com/article/2213194",
+        "event_key": "divorce-camp-champion-couple-final-choice-judge-reaction-20261029"
       },
       {
-        "title": "중간 운영사 빼면 수수료33%→8~9%…휴게소 직계약,퇴직자단체도 제한",
-        "url": "https://files.newsis.com/view/NISX20261029_0003847045",
-        "event_key": "expressway-reststop-direct-contract-first-tender-20261030"
+        "title": "입영 거부로 집행유예 받았는데 또 불응…재판까지 피한30대,이번엔 실형",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823145",
+        "event_key": "daegu-repeat-enlistment-refusal-one-year-prison-20261030"
       }
     ]
   }
