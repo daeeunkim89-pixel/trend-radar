@@ -1,459 +1,556 @@
 {
   "version": 2,
-  "hour_utc": "2026103102",
+  "hour_utc": "2026103105",
   "reviewer": "ChatGPT",
-  "generated_at": 1793412259,
+  "generated_at": 1793422955,
   "coverage": {
     "queries": [
-      "\"2026.10.31\" 축구 \"논란\" -음바페 -황희찬 -모레노 -지소연",
-      "\"2026.10.31\" \"아이돌\" \"유튜브\"",
-      "\"2026.10.31\" \"반전\" -연금 -증여",
-      "\"2026.10.31\" \"황당\" -복장 -변호사",
-      "\"2026.10.31\" \"환불\" -콘서트 -투어 -이벤트 -교보 -상품상세",
-      "\"2026.10.31\" \"벌금\" -음주 -주차장",
-      "\"2026.10.31\" \"김민\" \"집주인\"",
-      "\"2026.10.31\" \"사기\" \"알고\"",
-      "\"2026.10.31\" \"어린이\" \"금지\"",
-      "\"2026.10.31\" \"구속\" \"전 연인\"",
-      "\"2026.10.30\" \"라이엇\" \"리프트바운드\" \"사과\"",
-      "\"2026.10.31\" \"판결\" \"취소\" -약식 -벌금",
-      "\"2026.10.31\" \"실수\" -주식 -운세 -음주 -김민",
-      "\"2026.10.31\" \"퇴거\" -국제학교",
-      "\"2026.10.31\" \"기막힌\" -드라마",
-      "\"2026.10.31\" \"라이엇게임즈\" 사과",
-      "\"라이엇게임즈\" \"리프트바운드\" \"판매 혼선\"",
-      "\"필기시험 30번\" \"87\" \"2026\"",
-      "\"2026.10.30\" \"고양이\" \"오늘의 영웅\"",
-      "\"2026.10.31\" \"투표지\" \"50만원\"",
-      "\"Michael Pingel\" \"October\" \"2026\" car",
-      "\"유감독\" \"오사카\" \"가짜\" \"2026\"",
-      "\"2026.10.31\" \"무면허\" \"87m\"",
-      "\"2026.10.30\" \"고양이가\" \"불\" 주인",
-      "\"2026.10.31\" \"압수\" \"변장\"",
-      "\"2026.10.30\" \"고양이\" \"깨워\"",
-      "\"2026.10.31\" \"노치\" \"애플\"",
-      "\"2026.10.30\" \"공식\" \"여돌\" \"자컨\"",
-      "\"일어나라옹\" \"13년\"",
-      "\"포켓몬 구독자님들 도와주세요\"",
-      "\"2026.10.31\" \"포상금\" \"2560\"",
-      "\"2026.10.30\" \"치킨\" \"포장할인\"",
-      "\"JgWhNisdb30\"",
-      "\"нэг байрыг 65\" \"2026\"",
-      "\"아파트 한 채를 65명\"",
-      "\"2026.10.31\" \"기소\" \"누명\"",
-      "\"2026.10.30\" \"성능미달\" \"140억\"",
-      "\"선관위\" \"장비\" \"압수수색\" \"2026.10.30\"",
-      "\"2026.10.31\" \"형량\" \"줄었\"",
-      "\"2026.10.30\" \"치킨\" \"건당\""
+      "\"2026.10.31\" 축구 \"논란\" -황희찬 -음바페 -모레노 -지소연 -가디언",
+      "\"2026.10.31\" \"아이브\" \"유튜브\"",
+      "\"2026.10.31\" \"반전\" -연금 -무면허 -포상금",
+      "\"2026.10.31\" \"황당\" -복장 -약식 -필기 -김민",
+      "\"2026.10.31\" \"헬스장\" \"못\"",
+      "\"2026.10.31\" \"환불\" -포켓몬 -리프트 -GS25 -콘서트 -약식",
+      "\"2026.10.31\" \"아파트\" \"갑질\"",
+      "\"2026.10.31\" \"엔믹스\" 예능",
+      "\"아파트 헬스장\" \"내 돈 내고\"",
+      "\"2026.10.31\" \"이메일\" \"오발송\"",
+      "\"2026.10.31\" \"포르쉐\" \"사고\"",
+      "\"2026.10.31\" \"징역\" \"반전\" -무면허 -주차장",
+      "\"2026.10.31\" \"디아즈\" \"공격\"",
+      "\"2026.10.31\" 축구 \"포르쉐\"",
+      "\"2026.10.31\" \"영흥도\" 화재",
+      "\"2026.10.31\" \"아이돌\" \"대처\"",
+      "디아즈 가족 공격 중단 2026 10 31",
+      "2026 10 31 아르테타 디즈니랜드 16세 발길질",
+      "리즈 두리안 2026 10 30 아이브 공식",
+      "2026 10 31 경찰 응급실 압수수색 사진 공개",
+      "\"2026.10.31\" \"아르테타\" \"디즈니랜드\"",
+      "\"2026.10.31\" \"실수\" \"아이브\"",
+      "\"2026.10.30\" \"르세라핌\" \"유튜브\"",
+      "\"2026.10.31\" \"반전\" \"사기\"",
+      "\"2026.10.31\" \"봉투\" 벌금",
+      "\"2026.10.31\" \"거절\" -황희찬 -음바페 -비자 -계약",
+      "\"2026.10.31\" \"영장 기각되자\"",
+      "\"2026.10.31\" \"발길질\" \"아스널\"",
+      "\"론 하퍼\" \"AI\" \"2026\" \"10\"",
+      "\"리즈\" \"두리안\" \"2026\" \"30\"",
+      "\"2026.10.31\" \"국밥\" \"물티슈\"",
+      "\"2026.10.31\" \"성심당\" \"시각장애\"",
+      "\"Ron Harper\" \"AI\" \"October 30, 2026\"",
+      "\"디즈니랜드\" \"다우먼\" \"30일\"",
+      "\"동결건조 두리안\" \"리즈\"",
+      "\"국밥에\" \"물티슈\" \"2026\"",
+      "\"동결건조 두리안 먹은 아이브\" site:theqoo.net",
+      "\"풍향중 후일담은 핑계고\" youtube",
+      "\"혼자 여자친구 선물 사러 대전까지\" youtube",
+      "\"Ron Harper\" \"Lola\" site:totalprosports.com",
+      "Arteta Disneyland Dowman October 30 2026",
+      "\"2026.10.31\" \"지석진\" \"버블\"",
+      "\"모먹티비\" \"EP.36\" \"리즈\"",
+      "\"2026.10.31\" \"보상\" -포상금 -비자",
+      "\"2026.10.31\" \"황당\" -김민 -황희찬 -필기 -복장 -약식 -다우먼 -스쿠터",
+      "\"2026.10.31\" \"불법\" \"매크로\"",
+      "\"2026.10.31\" \"환불\" \"거절\" -포켓몬 -리프트 -비자",
+      "\"2026.10.31\" \"현백코어\"",
+      "\"매크로\" \"입장권\" \"2026.10.31\" \"600\"",
+      "\"김주형\" \"캠벨\" \"2026.10.31\" 벌타",
+      "\"2026.10.31\" \"보안\" \"협회\""
     ],
     "opened_urls": [
-      "https://n.news.naver.com/article/009/0005756887",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824103",
-      "https://www.inews24.com/view/2021097",
-      "https://www.starnewskorea.com/sports/2026/10/31/2026103020585441819",
+      "https://www.mt.co.kr/estate/2026/10/30/2026102714141348668",
+      "https://m.thescore.com/news/3639400/arteta-fires-disneyland-warning-at-arsenals-dowman-after-red-card",
       "https://www.fnnews.com/news/202610310701103530",
-      "https://www.mt.co.kr/society/2026/10/30/2026103016534077581",
-      "https://www.youtube.com/watch?v=JgWhNisdb30",
+      "https://www.fnnews.com/news/202610310945311271",
       "https://www.instagram.com/bythepulse/",
-      "https://www.gametoc.co.kr/news/articleView.html?idxno=112642",
-      "https://himongolianews.net/mongolia-police-warn-apartment-sold-to-65-buyers/",
-      "https://www.xportsnews.com/article/2213725",
-      "https://www.gametoc.co.kr/news/articleView.html?idxno=112643",
-      "https://biz.chosun.com/entertainment/enter_general/2026/10/31/ME4DCM3EGFTDQNDFGE3GKZTEGA/",
-      "https://www.newstnt.com/news/articleView.html?idxno=726034",
-      "https://www.inews24.com/view/2021088"
+      "https://www.mt.co.kr/future/2026/10/31/2026103109573829581",
+      "https://www.xportsnews.com/article/2213489",
+      "https://www.instiz.net/pt/7919898",
+      "https://www.mt.co.kr/amp/future/2026/10/31/2026103109573829581",
+      "https://www.newspim.com/news/view/20261031000031",
+      "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01082406645618496",
+      "https://www.mt.co.kr/sports/2026/10/31/202610310805775400O",
+      "https://www.asiae.co.kr/article/2026103109304386930",
+      "https://www.hankookilbo.com/news/article/amp/A2026103111400002786",
+      "https://www.xportsnews.com/article/2213768",
+      "https://www.news1.kr/local/incheon/6338518",
+      "https://www.osen.co.kr/article/G1112901707",
+      "https://www.jnilbo.com/news/articleView.html?idxno=90000078327",
+      "https://news.nate.com/view/20261031n06152",
+      "https://www.instiz.net/pt/7919867",
+      "https://prod.beinsports.com/en-au/football/premier-league/articles-video/arteta-defends-reaction-to-dowman-red-card-2026-10-30",
+      "https://news.nate.com/view/20261030n34934",
+      "https://www.ibtimes.co.uk/ron-harper-ai-volleyball-personality-jokes-1829001",
+      "https://www.fnnews.com/news/202610311010348535",
+      "https://www.daejonilbo.com/news/articleView.html?idxno=2310451"
     ],
     "unavailable": [
-      "main 체크아웃·수집 진입점1회 exit0.직전 정상공개 snapshot age351초로480초 이내 재사용 확인 후검토함20/extended12 확인",
-      "최근7일 실제sent/uncertain392개 사건·URL·자료 대조.수집·보류 후보는 발송으로 제외하지 않음",
-      "BTP Instagram 공개 페이지는로그인 안내만 반환해 실제 게시 대조 한계.공개 sent/uncertain 아카이브와receiver 중복검사 유지",
-      "전부major_news이며 기사 본문 사실/주장과 미확인 한계를 기록.영상·사진을 직접 봤다는scene 승인 없음",
-      "NFL 차량돌진은원취재10/26,몽골65명 중복분양은10/27로48시간 초과 제외.새 한국어 재기사를 원공개로 바꾸지 않음",
-      "포켓몬 원영상공개30일18:10:12를YouTube publishDate로 확인.플레이어 로딩은 시청으로 취급하지 않음.매체 HTML 추가확인1회 시간초과는 반복하지 않음"
+      "main 체크아웃후지정수집진입점1회exit0.의존성설치·재검사뒤같은인터프리터수집.새공개스냅샷733후보/검토함20·예비10·확장20확인",
+      "최근7일실제sent/uncertain402개사건·URL·자료대조.진성준새비자발급은기발송동일사건으로제외.수집·보류는발송이력으로제외하지않음",
+      "BTP Instagram 공개페이지는로그인안내만반환하여실제게재대조한계.공개sent/uncertain기록과수신기최종중복검사를유지",
+      "아이브리즈모먹티비공식원본xiIyXP1nDCk 공개30일22:00:18KST확인.11:25두리안챕터는설명문만확인했고자막응답은빈값.실제장면미검증이라추천제외",
+      "열쇠·기표소·매크로의과거행위와31일새법원/경찰취재공개를구분.교차증여는1월결정재구성이라제외",
+      "모든선정은major_news.본문확인사실·당사자주장·전언을분리하고직접영상시청을주장하지않음.정밀원공개시각미확인시그한계를기재"
     ]
   },
   "picks": [
     {
-      "title": "“가짜인 줄 모르고 팔았다”…일본 카드샵은46만원 카드 환불도 거부했다는 사연",
-      "category": "시사",
-      "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=112643",
-      "source": "게임톡",
-      "kind": "article",
-      "event_key": "osaka-pokemon-counterfeit-card-refund-refusal-yugamdok-20261030",
-      "why": "가품 판매의 고의가 없었다는 해명과 환불 자체도 거부하는 대응이 충돌하고 한국 구매자가 직접 일본까지 다시 갔다는 구체성이 있다.",
-      "angle": "가짜인 줄 몰랐다는 설명,왜 교환까지 안 되나",
-      "why_now": "원영상 유감독10/30 18:10:12KST 게시를YouTube publishDate로 확인.게임톡31일03:54:38 후속.구매는영상 약2주 전,방문 정확한 날짜 미기재.",
-      "verified_at": 1793412006,
-      "published_at": 1793351412,
-      "evidence": [
-        {
-          "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=112643",
-          "note": "게임톡 본문에서5만5000엔 중국판 피카츄·구매 증빙/가품 확인서 준비·직원들의 가품 판단/동일 물품 증명 불가 해명·미환불 결말을 확인했다.YouTube에서작성자·게시시각만 확인했고 원영상/카드 실물 감정은 하지 않았다."
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=JgWhNisdb30",
-          "note": "공개 페이지에서원작성자 유감독·publishDate2026-10-30T02:10:12-07:00 대조.장면 시청은 하지 않음."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=112643",
-          "label": "확인한 원문 취재",
-          "kind": "source"
-        }
-      ],
-      "caution": "유튜버 주장과매장 발언을 전한 기사형.법적 사기 확정·정품 감정 직접 실시로 쓰지 않음.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-30",
-        "observation": "게임톡 본문에서5만5000엔 중국판 피카츄·구매 증빙/가품 확인서 준비·직원들의 가품 판단/동일 물품 증명 불가 해명·미환불 결말을 확인했다.YouTube에서작성자·게시시각만 확인했고 원영상/카드 실물 감정은 하지 않았다.",
-        "checked_materials": [],
-        "outline": [
-          "가품이라고 판단한 카드와 구매 증빙을 들고 재방문",
-          "고의 없음·동일 상품 증명 불가라는 매장 측 설명",
-          "교환/환불 거부와 소비자센터 제기 계획"
-        ]
-      }
-    },
-    {
-      "title": "한정판 공지 기다렸는데 판매부터?…라이엇,안내 누락 인정하고 사과",
-      "category": "시사",
-      "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=112642",
-      "source": "게임톡",
-      "kind": "article",
-      "event_key": "riot-riftbound-kda-popup-sale-notice-apology-20261030",
-      "why": "20만원 한정판 구매 기회를 두고 안내를 기다린 사람만 놓쳤다는 불만에 회사가 공지 누락을 인정한 구체적 소비자 손익 문제다.",
-      "angle": "다음 공지 기다리라더니 추가 안내가 없었다",
-      "why_now": "공식 사과10/30(게시 정확 시각 미확인),게임톡23:43:08 취재.후속 판매 안내는31일~11/1 대상이며 실제 개선 결과는 미확인.",
-      "verified_at": 1793412065,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=112642",
-          "note": "게임톡 본문에서K/DA 쿠튀르20만원·1인1개 안내·추가 일정/웨이팅 공지 미이행을 인정한30일 사과문·후속 운영 공지 약속을 확인했다.사재기 의혹은 이용자 주장이고 회사가 별도 입장을 내지 않았다고 구분했다.공식SNS 직접 미열람."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=112642",
-          "label": "확인한 원문 취재",
-          "kind": "source"
-        }
-      ],
-      "caution": "대량 구매·사재기 확정 금지.회사 사과 범위는 판매 안내/운영 혼선이다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-30",
-        "observation": "게임톡 본문에서K/DA 쿠튀르20만원·1인1개 안내·추가 일정/웨이팅 공지 미이행을 인정한30일 사과문·후속 운영 공지 약속을 확인했다.사재기 의혹은 이용자 주장이고 회사가 별도 입장을 내지 않았다고 구분했다.공식SNS 직접 미열람.",
-        "checked_materials": [],
-        "outline": [
-          "한정판 구매 일정·대기 공지를 기다린 이용자 불만",
-          "라이엇이 인정한 추가 안내 누락",
-          "후속 운영 안내 약속과 사재기 의혹 미확인 구분"
-        ]
-      }
-    },
-    {
-      "title": "집 공개해 화제 됐는데…김민 “모르는 사람들이 계속 와”",
-      "category": "시사",
-      "url": "https://www.xportsnews.com/article/2213725",
-      "source": "엑스포츠뉴스",
-      "kind": "article",
-      "event_key": "kim-min-dongducheon-house-uninvited-visitors-disclosure-20261030",
-      "why": "자연인 집 공개로 얻은 인기 뒤에 낯선 사람이 실제 집까지 찾아온다는 당사자 고충이 있어 방송과 사생활의 충돌이 선명하다.",
-      "angle": "방송에서 본 집이 방문 허락은 아니었다",
-      "why_now": "원방송10/30 23:10 시작,해당 대화31일00:08:46 기사 공개.집 최초 공개 방송과 이번 새 고충 발언 구분.방문 발생일·촬영일은 미기재.",
-      "verified_at": 1793412004,
-      "published_at": 1793372926,
-      "evidence": [
-        {
-          "url": "https://www.xportsnews.com/article/2213725",
-          "note": "엑스포츠 방송 취재 본문에서김민이 정비소 집주인 형에게계속 온다고 답하고,전현무가모르는 사람들이냐고 재확인하자 고개를 끄덕였다는 대화를 확인했다.방문 피해 기록·원방송 영상은 직접 열람하지 않았다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.xportsnews.com/article/2213725",
-          "label": "확인한 원문 취재",
-          "kind": "source"
-        }
-      ],
-      "caution": "당사자 방송 발언에 근거.집 주소·동선·방문 방법은 제시하지 않음.스토킹 유죄 단정 금지.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-30",
-        "observation": "엑스포츠 방송 취재 본문에서김민이 정비소 집주인 형에게계속 온다고 답하고,전현무가모르는 사람들이냐고 재확인하자 고개를 끄덕였다는 대화를 확인했다.방문 피해 기록·원방송 영상은 직접 열람하지 않았다.",
-        "checked_materials": [],
-        "outline": [
-          "집주인 형이 방문객이 아직 많냐고 묻는 상황",
-          "김민의계속 온다는 답과전현무의 재확인",
-          "주거 공간 공개 뒤 생긴 사생활 부담"
-        ]
-      }
-    },
-    {
-      "title": "벌금700만→500만원 줄었는데 취업제한5년 추가…불복 재판의 반전",
-      "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824103",
-      "source": "SBS",
-      "kind": "article",
-      "event_key": "supreme-court-summary-order-employment-restriction-appeal-20261031",
-      "why": "벌금은 낮아졌지만 처음에는 없던5년 취업제한이 붙었고,형을 더 무겁게 못 한다는 원칙과도 양립한다는 판단이 예상 밖이다.",
-      "angle": "약식명령에 불복했더니 취업제한이 새로 붙었다",
-      "why_now": "새 대법원 판결 취재31일07:17:14.약식명령2024년8월,대법원 선고 정확한 일자는 본문 미기재.오늘 범행·오늘 선고로 바꾸지 않음.",
-      "verified_at": 1793412004,
-      "published_at": 1793398634,
-      "evidence": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824103",
-          "note": "SBS 법원 취재 본문에서약식700만원/40시간→정식500만원/24시간+관련기관 취업제한5년·형종 상향 금지 위반 주장 기각·취업제한은 보안처분이라는 대법원 판단을 확인했다.판결문 전체·사건번호 미열람."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824103",
-          "label": "확인한 원문 취재",
-          "kind": "source"
-        }
-      ],
-      "caution": "모든 불복 사건의 처분이 늘어난다는 일반화 금지.관련기관에 한정된 취업제한이며 전 직종 금지 아님.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-31",
-        "observation": "SBS 법원 취재 본문에서약식700만원/40시간→정식500만원/24시간+관련기관 취업제한5년·형종 상향 금지 위반 주장 기각·취업제한은 보안처분이라는 대법원 판단을 확인했다.판결문 전체·사건번호 미열람.",
-        "checked_materials": [],
-        "outline": [
-          "약식명령에 불복해 정식재판을 청구한 경위",
-          "벌금·교육시간 감소와취업제한 추가의 차이",
-          "보안처분과형벌 종류를 구분한 대법원 판단"
-        ]
-      }
-    },
-    {
-      "title": "신고 대상은 무죄 확정됐는데…선거 포상금2560만원 중 돌려받은 건250만원",
-      "category": "시사",
-      "url": "https://www.newstnt.com/news/articleView.html?idxno=726034",
-      "source": "뉴스티앤티",
-      "kind": "article",
-      "event_key": "election-crime-reward-acquittal-recovery-data-20261030",
-      "why": "무죄인데도 먼저 지급한 포상금 대부분이 남았고 법 신설 전 지급분은 환수 대상조차 아니라는 제도적 엇갈림이다.",
-      "angle": "무죄 판결 뒤에도 신고 포상금은 그대로였다",
-      "why_now": "새 의원실 자료 공개10/30(정확 시각 미확인),뉴스티앤티31일05:00 취재.2020~25 지급 내역/과거 개별 무죄 사건과 이번 데이터 공개를 구분.",
-      "verified_at": 1793412035,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://www.newstnt.com/news/articleView.html?idxno=726034",
-          "note": "뉴스티앤티 본문에서박정현 의원의 선관위 제출자료 인용·무죄5건2560만원/환수1건250만원·남은2310만원 중2250만원은 환수 조항 신설 전 지급·60만원은 징수 위탁을 확인했다.원통계표 직접 미열람."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.newstnt.com/news/articleView.html?idxno=726034",
-          "label": "확인한 원문 취재",
-          "kind": "source"
-        }
-      ],
-      "caution": "무죄가 곧 고의 허위신고라는 뜻 아님.자료 공개·의원 제안을 확정 제도 변경으로 쓰지 않음.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-30",
-        "observation": "뉴스티앤티 본문에서박정현 의원의 선관위 제출자료 인용·무죄5건2560만원/환수1건250만원·남은2310만원 중2250만원은 환수 조항 신설 전 지급·60만원은 징수 위탁을 확인했다.원통계표 직접 미열람.",
-        "checked_materials": [],
-        "outline": [
-          "판결 전에 지급한 포상금과이후 무죄 확정",
-          "환수 불가 과거 지급분·미납60만원의 다른 이유",
-          "의원실이 제안한 지급 시기 조정과 반론 필요성"
-        ]
-      }
-    },
-    {
-      "title": "암산은 순식간인데 배달 벨에서 삐끗…이세돌이 배운 건5초 눈맞춤",
+      "title": "벙커에서 서로 남의 공을 쳤다…김주형·캠벨 나란히2벌타",
       "category": "메이저 스포츠",
-      "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/31/ME4DCM3EGFTDQNDFGE3GKZTEGA/",
-      "source": "OSEN",
+      "url": "https://www.newspim.com/news/view/20261031000031",
+      "source": "뉴스핌",
       "kind": "article",
-      "event_key": "lee-sedol-yogurt-delivery-eye-contact-work-show-20261030",
-      "why": "복잡한 수는 즉시 계산하는 바둑 천재가 주소·벨 금지 수칙과손님 눈맞춤에 막히는 능력의 뜻밖의 대비가 웃음 포인트다.",
-      "angle": "수싸움 고수에게 더 어려웠던 건 손님 눈 바라보기",
-      "why_now": "원방송KBS2 10/30 20:30,OSEN 취재 전재31일07:57:50 공개.녹화일 미기재,이번 방송 공개일과 구분.어린 시절 회상은 과거 사실.",
-      "verified_at": 1793412036,
-      "published_at": null,
+      "event_key": "kim-joo-hyung-brian-campbell-wrong-ball-bunker-20261031",
+      "why": "한 명의 실수를 상대도 똑같이 반복해 둘 다 다시 치고 벌타까지 받는 황당한 교차 실수다.",
+      "angle": "내 공인 줄 알고 쳤는데 상대도 내 공을 쳤다",
+      "why_now": "경기31일KST,뉴스핌08:52 첫 취재 공개 확인.원중계의 정확한 공개 시각 미확인.수집 시각을 경기 시각으로 사용하지 않음.",
+      "verified_at": 1793422578,
+      "published_at": 1793404320,
       "evidence": [
         {
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/31/ME4DCM3EGFTDQNDFGE3GKZTEGA/",
-          "note": "OSEN 방송 취재 전재 본문에서단체 주문 암산·주소 찾기/벨 금지 실수·조혜련의손님5초 눈맞춤 지도·둘이 장사하자는 반응을 확인했다.영상 직접 미시청,방송 제작진 자료 기반 기사형이다."
+          "url": "https://www.newspim.com/news/view/20261031000031",
+          "note": "본문에서멕시코오픈2R 마지막9번홀 그린 앞 벙커에서각자 상대 공을 쳐2벌타·자기 공으로 재플레이·둘 다 더블보기한 사실을 확인했다.김주형은직전17홀 보기 없이5타 줄였다.원중계·스코어카드 직접 확인은 아님."
         }
       ],
       "materials": [
         {
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/31/ME4DCM3EGFTDQNDFGE3GKZTEGA/",
+          "url": "https://www.newspim.com/news/view/20261031000031",
           "label": "확인한 원문 취재",
           "kind": "source"
         }
       ],
-      "caution": "실제 직장 징계·전업 선언 아님.방송 상황과 농담을 능력 전체 비하로 확대 금지.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-30",
-        "observation": "OSEN 방송 취재 전재 본문에서단체 주문 암산·주소 찾기/벨 금지 실수·조혜련의손님5초 눈맞춤 지도·둘이 장사하자는 반응을 확인했다.영상 직접 미시청,방송 제작진 자료 기반 기사형이다.",
-        "checked_materials": [],
-        "outline": [
-          "요구르트 대면 판매에서 보인 빠른 계산",
-          "배달 주소·벨 금지 수칙에서 생긴 실수",
-          "조혜련의5초 눈맞춤 지도와함께 일한 반응"
-        ]
-      }
-    },
-    {
-      "title": "“필기30번 넘게 떨어져서”…87m 무면허 운전에 실형 나온 이유",
-      "category": "시사",
-      "url": "https://n.news.naver.com/article/009/0005756887",
-      "source": "매일경제",
-      "kind": "article",
-      "event_key": "chungju-repeat-unlicensed-87m-driving-six-month-sentence-20261031",
-      "why": "87m라는 짧은 거리와6개월 실형 사이에 숨은 반복 처벌·집행유예 중 재범이라는 맥락이 전형적인 반전을 만든다.",
-      "angle": "짧게 운전해서가 아니라,선처 뒤에도 또 운전해서였다",
-      "why_now": "새 법원 취재31일 공개(정확 시각은원문에서 미확인).범행4월,선고는최근으로만 기재.기사 수집 시각을 선고일로 쓰지 않음.",
-      "verified_at": 1793412042,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://n.news.naver.com/article/009/0005756887",
-          "note": "매일경제 연합뉴스 인용 본문에서생계/면허 필기30여회 불합격이라는 피고인 주장·반복 무면허 전력·동종 집행유예 중 재범·징역6개월 이유를 확인했다.본문은80m가량으로 근사,제목87m와 정밀도를 구분했다.판결문 미열람."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://n.news.naver.com/article/009/0005756887",
-          "label": "확인한 원문 취재",
-          "kind": "source"
-        }
-      ],
-      "caution": "시험을 못 붙었다는 이유로 처벌한 것 아님.거리·생계는피고인 설명이며 정당화 사유로 단정 금지.",
+      "caution": "뉴스핌 본문 취재 확인. 원중계 직접 시청은 아님. 고의로 공을 바꿨다는 추정 금지.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-10-31",
-        "observation": "매일경제 연합뉴스 인용 본문에서생계/면허 필기30여회 불합격이라는 피고인 주장·반복 무면허 전력·동종 집행유예 중 재범·징역6개월 이유를 확인했다.본문은80m가량으로 근사,제목87m와 정밀도를 구분했다.판결문 미열람.",
+        "observation": "본문에서멕시코오픈2R 마지막9번홀 그린 앞 벙커에서각자 상대 공을 쳐2벌타·자기 공으로 재플레이·둘 다 더블보기한 사실을 확인했다.김주형은직전17홀 보기 없이5타 줄였다.원중계·스코어카드 직접 확인은 아님.",
         "checked_materials": [],
         "outline": [
-          "차량 이동을 위해 짧은 구간 운전했다는 선처 호소",
-          "필기시험 반복 불합격과기존 무면허 처벌 전력",
-          "집행유예 중 재범을 강조한 법원의 실형 이유"
+          "두 공이 나란히 놓인 벙커 상황",
+          "김주형과캠벨이서로 상대 공을 쳤다는 대칭 반전",
+          "각각2벌타 후 자기 공으로 다시 쳐더블보기"
         ]
       }
     },
     {
-      "title": "“머리 쥐어뜯어 깨웠다”…집에 연기 차자 고양이가 주인 깨웠다는 사연",
+      "title": "보안점검 메일에 개인정보 엑셀 첨부…벤처캐피탈협회 공식 사과",
       "category": "시사",
-      "url": "https://www.inews24.com/view/2021097",
-      "source": "아이뉴스24",
-      "kind": "article",
-      "event_key": "cat-owner-fire-wakeup-threads-account-20261030",
-      "why": "평소 밥만 먹는 반려묘가 집의 연기 속에서 주인을 깨우고 간식 포상까지 받았다는 짧고 완결된 역할 반전이다.",
-      "angle": "13년 밥값 오늘 다 했다는 주인의 간식 포상",
-      "why_now": "당사자 스레드 게시10/30(정확 시각 미확인),취재20:23:25.게시자의오늘 표현 외 실제 화재 정확 시각·신고 기록은 미확인.",
-      "verified_at": 1793412083,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://www.inews24.com/view/2021097",
-          "note": "아이뉴스24 본문에서작성자의 머리를 쥐어뜯어 깨웠다는 설명·타버린 종이상자 사진 게시·고양이에게 간식을 줬다는 후속 게시를 확인했다.원게시물 사진/영상·소방 기록은 직접 확인하지 않은 사연 취재다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.inews24.com/view/2021097",
-          "label": "확인한 원문 취재",
-          "kind": "source"
-        }
-      ],
-      "caution": "실제 화재 원인·구조 효과는 독립 확인 못 함.기사 속 당사자 사연으로 귀속,원영상 시청 아님.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-30",
-        "observation": "아이뉴스24 본문에서작성자의 머리를 쥐어뜯어 깨웠다는 설명·타버린 종이상자 사진 게시·고양이에게 간식을 줬다는 후속 게시를 확인했다.원게시물 사진/영상·소방 기록은 직접 확인하지 않은 사연 취재다.",
-        "checked_materials": [],
-        "outline": [
-          "연기 찬 집에서 고양이가 깨웠다는 작성자 설명",
-          "13년 밥값을 했다는 말과상자 피해 설명",
-          "간식 포상 후속으로 회수"
-        ]
-      }
-    },
-    {
-      "title": "치킨2마리 포장했는데 할인은2000원…“그럼 따로 주문”에 갈린 반응",
-      "category": "시사",
-      "url": "https://www.inews24.com/view/2021088",
-      "source": "아이뉴스24",
-      "kind": "article",
-      "event_key": "chicken-takeout-discount-per-order-per-item-dispute-20261030",
-      "why": "같은 치킨을 두 번 주문하면 할인도 두 번인지,매장과 단골이 서로 다르게 해석하는 생활 돈 문제라 의견이 바로 갈린다.",
-      "angle": "포장 할인은 마리당인가,주문 한 번당인가",
-      "why_now": "원사연 스레드10/30(정확 시각 미확인),아이뉴스24 19:13:48 취재.실제 구매일·매장 약관은 미확인,당사자 사연과 제도 판정을 구분.",
-      "verified_at": 1793412119,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://www.inews24.com/view/2021088",
-          "note": "아이뉴스24 본문에서두 마리 구매/2000원 할인·따로 주문하겠다는 작성자의 대응·배달비 비유와메뉴당 할인으로 바꿨다는 자영업자 반응을 확인했다.매장 반론·약관·영수증 직접 열람은 하지 않았다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.inews24.com/view/2021088",
-          "label": "확인한 원문 취재",
-          "kind": "source"
-        }
-      ],
-      "caution": "매장 불법·소비자 진상으로 단정 금지.프랜차이즈 전체 정책 아님.상호 추정 금지.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-30",
-        "observation": "아이뉴스24 본문에서두 마리 구매/2000원 할인·따로 주문하겠다는 작성자의 대응·배달비 비유와메뉴당 할인으로 바꿨다는 자영업자 반응을 확인했다.매장 반론·약관·영수증 직접 열람은 하지 않았다.",
-        "checked_materials": [],
-        "outline": [
-          "작성자가 기대한4000원과실제2000원의 차이",
-          "그럼따로 주문하겠다는 대응",
-          "건당 할인·메뉴당 할인이라는 의견을 나란히 소개"
-        ]
-      }
-    },
-    {
-      "title": "성능 미달 알면서 합격 처리했나…140억대 선거 장비 납품 의혹 압수수색",
-      "category": "시사",
-      "url": "https://www.mt.co.kr/society/2026/10/30/2026103016534077581",
+      "url": "https://www.mt.co.kr/future/2026/10/31/2026103109573829581",
       "source": "머니투데이",
       "kind": "article",
-      "event_key": "election-commission-equipment-performance-failed-procurement-raid-20261030",
-      "why": "절반 넘는 장비가 기준을 못 채웠는데 합격으로 처리해 전량 납품됐다는 의혹은 검사 절차가 거꾸로 작동한 구체적인 모순이다.",
-      "angle": "성능 검사는 했는데 불합격 장비가 합격했다는 의혹",
-      "why_now": "새 압수수색10/30 09:10쯤,머니투데이17:10:53 공개.뉴스1 16:33 보도 대조.옛 장비 납품·투표용지 사건 전체와 이번 새 납품 수사를 구분.",
-      "verified_at": 1793412145,
-      "published_at": 1793347853,
+      "event_key": "kvca-security-check-email-wrong-attachment-disclosure-20261030",
+      "why": "해킹을 막으려던 보안점검 메일 자체가 개인정보 유출 경로가 됐고, 삭제 확인서까지 받게 된 모순이다.",
+      "angle": "보안 강화 메일에 개인정보 원자료를 잘못 붙였다",
+      "why_now": "오발송28일10:18,당일 인지·29일 삭제확인.새 정보주체 통지·공식사과30일(시각 미확인),원취재31일10:32.발생과공개를 구분.",
+      "verified_at": 1793422689,
+      "published_at": 1793410320,
       "evidence": [
         {
-          "url": "https://www.mt.co.kr/society/2026/10/30/2026103016534077581",
-          "note": "머니투데이 원취재 본문에서선관위·전현직 직원 집2곳 압수수색·업무상배임 혐의·절반 이상 성능 미달을 알고도 합격 처리했다는 특검 설명·140억여원 전량 납품 정황을 확인했다.영장·장비 시험 성적서 미열람."
+          "url": "https://www.mt.co.kr/future/2026/10/31/2026103109573829581",
+          "note": "머니투데이 본문에서186명에게 보안 취약점 현황 파악 메일을 보내며 개인정보 파일을 오첨부한 경위·30일 통지와사과·배포양식과원자료 분리 대책을 확인했다.통지문 원본과파일은 열람하지 않았다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.mt.co.kr/society/2026/10/30/2026103016534077581",
+          "url": "https://www.mt.co.kr/future/2026/10/31/2026103109573829581",
           "label": "확인한 원문 취재",
           "kind": "source"
         }
       ],
-      "caution": "수사 단계로 배임 확정·선거 조작 입증 아님.140억 전체가 성능 미달 금액이라는 단정도 금지.",
+      "caution": "186명은 메일 수신자 수. 피해자 전체 수로 단정 금지. 오발송28일·공식 사과30일을 구분.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-10-30",
-        "observation": "머니투데이 원취재 본문에서선관위·전현직 직원 집2곳 압수수색·업무상배임 혐의·절반 이상 성능 미달을 알고도 합격 처리했다는 특검 설명·140억여원 전량 납품 정황을 확인했다.영장·장비 시험 성적서 미열람.",
+        "observation": "머니투데이 본문에서186명에게 보안 취약점 현황 파악 메일을 보내며 개인정보 파일을 오첨부한 경위·30일 통지와사과·배포양식과원자료 분리 대책을 확인했다.통지문 원본과파일은 열람하지 않았다.",
         "checked_materials": [],
         "outline": [
-          "장비성능평가에서 기준 미달이었다는 특검 주장",
-          "합격 처리와140억여원 전량 납품 정황",
-          "압수수색과관련자 책임 조사 계획"
+          "보안점검 양식 대신 개인정보 엑셀 발송",
+          "회원사 제보 뒤삭제·재전송 금지 확인서 요청",
+          "30일 통지와공식사과,양식·원자료 분리 대책"
+        ]
+      }
+    },
+    {
+      "title": "NBA5회 우승 하퍼,AI 배구 캐릭터에 댓글…“몰랐는지”는 미확인",
+      "category": "메이저 스포츠",
+      "url": "https://www.ibtimes.co.uk/ron-harper-ai-volleyball-personality-jokes-1829001",
+      "source": "IBTimes UK",
+      "kind": "article",
+      "event_key": "ron-harper-ai-volleyball-comment-shared-20261030",
+      "why": "NBA 레전드가 AI 캐릭터에 남긴 공개 댓글로 놀림받는 현실과 가상의 반전이다.",
+      "angle": "댓글은 사실, AI에 속았다는 판정은 팬들의 해석",
+      "why_now": "공개 댓글 캡처 확산30일(정확시각 미확인).IBTimes 원취재30일11:28UTC=20:28KST 확인.31일한국 재기사를 최초 공개로 쓰지 않음.",
+      "verified_at": 1793422738,
+      "published_at": 1793359681,
+      "evidence": [
+        {
+          "url": "https://www.ibtimes.co.uk/ron-harper-ai-volleyball-personality-jokes-1829001",
+          "note": "IBTimes 본문에서가상 배구 인터뷰에하퍼가 You said it... 댓글을 남겼고Hater Report가30일 캡처를 공유한 경위를 확인했다.기사는AI인지 알았는지·농담이었는지 하퍼 설명이 없다고 명시한다.원댓글·영상 직접 확인 아님."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.ibtimes.co.uk/ron-harper-ai-volleyball-personality-jokes-1829001",
+          "label": "확인한 원문 취재",
+          "kind": "source"
+        }
+      ],
+      "caution": "AI임을 몰랐는지·농담인지 미확인. 실존 배구 선수로 소개하거나 속았다고 확정하지 않음.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-30",
+        "observation": "IBTimes 본문에서가상 배구 인터뷰에하퍼가 You said it... 댓글을 남겼고Hater Report가30일 캡처를 공유한 경위를 확인했다.기사는AI인지 알았는지·농담이었는지 하퍼 설명이 없다고 명시한다.원댓글·영상 직접 확인 아님.",
+        "checked_materials": [],
+        "outline": [
+          "가상선수 인터뷰에달린하퍼의짧은 공개 댓글",
+          "캡처 공유 뒤팬들의AI 작업 조롱",
+          "AI임을 몰랐다는 단정은멈추기"
+        ]
+      }
+    },
+    {
+      "title": "디아즈,가족 악플 공개하며 “앞으로 요구하지 말라…변호사와 얘기”",
+      "category": "메이저 스포츠",
+      "url": "https://www.mt.co.kr/sports/2026/10/31/202610310805775400O",
+      "source": "OSEN/머니투데이",
+      "kind": "article",
+      "event_key": "samsung-diaz-family-abuse-sns-response-20261030",
+      "why": "경기 부진 비판이 가족 계정까지 넘어가자 선수가 공개적으로 팬 응대의 선을 그었다.",
+      "angle": "야구는 선수가 했는데 가족까지 공격받았다",
+      "why_now": "30일PO4차전 뒤SNS 공개·계정닫았다 재개(정확 시각 미확인).OSEN취재31일09:15 전재 확인.6월의이전 호소와 이번 새 글을구분.",
+      "verified_at": 1793422689,
+      "published_at": 1793405700,
+      "evidence": [
+        {
+          "url": "https://www.mt.co.kr/sports/2026/10/31/202610310805775400O",
+          "note": "OSEN 전재 본문에서30일 경기 뒤디아즈가자신과아내 대상 악성댓글을 공개하고가족공격 중단·앞으로요구하지말라는당부·변호사를 통한소통을 언급한 사실을 확인했다.원인스타스토리 직접 열람은 아님."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.mt.co.kr/sports/2026/10/31/202610310805775400O",
+          "label": "확인한 원문 취재",
+          "kind": "source"
+        }
+      ],
+      "caution": "당사자의 새 SNS 글을 취재한 기사. 원스토리 미열람. 가족 건강 악화의 의학적 인과는 미확인.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-30",
+        "observation": "OSEN 전재 본문에서30일 경기 뒤디아즈가자신과아내 대상 악성댓글을 공개하고가족공격 중단·앞으로요구하지말라는당부·변호사를 통한소통을 언급한 사실을 확인했다.원인스타스토리 직접 열람은 아님.",
+        "checked_materials": [],
+        "outline": [
+          "30일경기후가족 대상악성댓글 공개",
+          "팬 응대요구를삼가고변호사와대화하라는새 글",
+          "선수비판과가족공격의경계를묻기"
+        ]
+      }
+    },
+    {
+      "title": "지석진 “광고 많이 들어오는데 무산”…그 광고 찍은 양세찬의 한마디",
+      "category": "시사",
+      "url": "https://www.xportsnews.com/article/2213768",
+      "source": "엑스포츠뉴스",
+      "kind": "article",
+      "event_key": "pinggyego-ji-seok-jin-ad-fee-yang-se-chan-20261031",
+      "why": "광고가 무산된다는 선배 앞에 그 광고를 대신 찍은 후배가 앉아 있어 이유까지 바로 회수되는 예능 반전이다.",
+      "angle": "광고료를 많이 불렀더니 옆자리 후배가 찍었다",
+      "why_now": "뜬뜬풍향중후일담31일공개(기사날짜확인·공식정밀시각미확인),기사11:34:06.촬영일미공개.예고·등록시각과본편공개일을혼동하지않음.",
+      "verified_at": 1793422717,
+      "published_at": 1793414046,
+      "evidence": [
+        {
+          "url": "https://www.xportsnews.com/article/2213768",
+          "note": "본문에서지석진이최종단계광고무산을말하자양세찬이광고료를낮추라했고,지석진도자신이거절한광고를양세찬이찍었다고인정한대화를확인했다.광고주발언은양세찬의전언,공식영상시청아님."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.xportsnews.com/article/2213768",
+          "label": "확인한 원문 취재",
+          "kind": "source"
+        }
+      ],
+      "caution": "본문 속 예능 대화 확인. 정확한 광고료·계약서는 미확인. 광고주 발언은 양세찬의 전언.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-31",
+        "observation": "본문에서지석진이최종단계광고무산을말하자양세찬이광고료를낮추라했고,지석진도자신이거절한광고를양세찬이찍었다고인정한대화를확인했다.광고주발언은양세찬의전언,공식영상시청아님.",
+        "checked_materials": [],
+        "outline": [
+          "이성민의광고촬영축하로시작",
+          "자꾸최종무산된다는지석진의푸념",
+          "양세찬의가격지적과지석진의인정으로반전"
+        ]
+      }
+    },
+    {
+      "title": "새 아파트 헬스장은 완공됐는데 수개월째 잠금…주민은 외부에 또 돈",
+      "category": "시사",
+      "url": "https://www.mt.co.kr/estate/2026/10/30/2026102714141348668",
+      "source": "머니투데이",
+      "kind": "article",
+      "event_key": "new-apartment-community-gym-opening-cost-delay-report-20261030",
+      "why": "집 앞에 완성된 시설을 두고도 운영비 분담이 안 돼 외부 헬스장에 더 비싼 돈을 내는 생활의 모순이다.",
+      "angle": "시설 완공과 운영 시작 사이에 숨은 돈싸움",
+      "why_now": "현장취재30일04:30 최초공개·09:15갱신.29일업계확인,익명입주민은상반기입주후수개월지연.현재새취재이며개별단지발생정확일미확인.",
+      "verified_at": 1793422679,
+      "published_at": 1793302200,
+      "evidence": [
+        {
+          "url": "https://www.mt.co.kr/estate/2026/10/30/2026102714141348668",
+          "note": "머니투데이본문에서입대위구성과운영방식·인건비분담지연으로시설을못쓰는익명입주민사례,사전업체선정으로순차개장한반포단지의대조사례를확인했다.단지계약서·장부·주민현장직접확인은아님."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.mt.co.kr/estate/2026/10/30/2026102714141348668",
+          "label": "확인한 원문 취재",
+          "kind": "source"
+        }
+      ],
+      "caution": "익명 단지의 현장 취재. 모든 신축 단지로 일반화 금지. 반포 대조 사례와 폐쇄 단지를 혼동하지 않음.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-30",
+        "observation": "머니투데이본문에서입대위구성과운영방식·인건비분담지연으로시설을못쓰는익명입주민사례,사전업체선정으로순차개장한반포단지의대조사례를확인했다.단지계약서·장부·주민현장직접확인은아님.",
+        "checked_materials": [],
+        "outline": [
+          "사전점검에서본헬스장이입주후수개월폐쇄",
+          "이용자수는적어도인건비·전기료는발생",
+          "입주전운영업체선정·순차개장한대조사례"
+        ]
+      }
+    },
+    {
+      "title": "PO표50여장 매크로로 사들여3~6배 되팔았다…600만원 챙긴10대 검거",
+      "category": "메이저 스포츠",
+      "url": "https://www.fnnews.com/news/202610310945311271",
+      "source": "연합뉴스/파이낸셜뉴스",
+      "kind": "article",
+      "event_key": "busan-postseason-macro-50-tickets-teen-arrest-announced-20261031",
+      "why": "팬들은 표를 못 구하는데 한 사람이50여장을 선점해 몇 배로 되팔았다는 손익과 단속 결과가 구체적이다.",
+      "angle": "12차례 선점하고9차례 되팔아600만원",
+      "why_now": "경찰발표·연합뉴스원취재31일09:45.구매15~16일,검거28일은한국일보본문대조.새수사공개와과거매매일을구분.",
+      "verified_at": 1793422862,
+      "published_at": 1793407531,
+      "evidence": [
+        {
+          "url": "https://www.fnnews.com/news/202610310945311271",
+          "note": "연합뉴스전재본문에서부산경찰의10대검거발표·매크로12회50여장구매·9회3~6배재판매·약600만원수익을확인했다.한국일보는검거28일이라고기재.압수자료·매매내역직접열람아님."
+        },
+        {
+          "url": "https://www.hankookilbo.com/news/article/amp/A2026103111400002786",
+          "note": "동일사건검거일28일·19세대학생·업무방해혐의를추가취재한본문대조"
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.fnnews.com/news/202610310945311271",
+          "label": "확인한 원문 취재",
+          "kind": "source"
+        }
+      ],
+      "caution": "수사 혐의 단계. 10/25 대구30대1366장 사건과 별개. 매매15~16일·검거28일·발표31일.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-31",
+        "observation": "연합뉴스전재본문에서부산경찰의10대검거발표·매크로12회50여장구매·9회3~6배재판매·약600만원수익을확인했다.한국일보는검거28일이라고기재.압수자료·매매내역직접열람아님.",
+        "checked_materials": [],
+        "outline": [
+          "일반팬과경쟁한매크로50여장선점",
+          "3~6배가격·9회판매로600만원수익혐의",
+          "31일새경찰발표와문체부후속조치예정"
+        ]
+      }
+    },
+    {
+      "title": "16세 다우먼 감싸라는 비판에 아르테타 “여긴 디즈니랜드 아니다”",
+      "category": "축구",
+      "url": "https://m.thescore.com/news/3639400/arteta-fires-disneyland-warning-at-arsenals-dowman-after-red-card",
+      "source": "AFP/theScore",
+      "kind": "article",
+      "event_key": "arteta-defends-dowman-treatment-friday-press-conference-20261030",
+      "why": "16세 유망주에게 가혹하다는 비판에 감독이 보호와 공정한 경쟁 기준을 함께 요구한 새 발언이다.",
+      "angle": "보호는 하지만 다른 선수처럼 뛸 자격을 증명해야 한다",
+      "why_now": "새기자회견30일현지금요일·AFP취재30일(정밀시각미확인).퇴장경기는27일현지의배경이며오늘일어난퇴장으로재포장하지않음.",
+      "verified_at": 1793422808,
+      "published_at": null,
+      "evidence": [
+        {
+          "url": "https://m.thescore.com/news/3639400/arteta-fires-disneyland-warning-at-arsenals-dowman-after-red-card",
+          "note": "AFP전재본문에서아르테타가30일기자회견에서디즈니랜드비유·16세도동일기준요구·다우먼과전날대화해문제없다는설명을한내용을확인했다.회견영상직접시청아님.기존퇴장경기는배경으로만검토."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://m.thescore.com/news/3639400/arteta-fires-disneyland-warning-at-arsenals-dowman-after-red-card",
+          "label": "확인한 원문 취재",
+          "kind": "source"
+        }
+      ],
+      "caution": "30일 새 기자회견의 AFP 취재. 퇴장 경기는27일 배경. 회견 영상 시청·선수와 불화 확정 아님.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-30",
+        "observation": "AFP전재본문에서아르테타가30일기자회견에서디즈니랜드비유·16세도동일기준요구·다우먼과전날대화해문제없다는설명을한내용을확인했다.회견영상직접시청아님.기존퇴장경기는배경으로만검토.",
+        "checked_materials": [],
+        "outline": [
+          "16세선수에게가혹하다는지적의배경",
+          "보호와동일기준을함께요구한새회견답변",
+          "전날대화했고관계문제없다는설명"
+        ]
+      }
+    },
+    {
+      "title": "“내 오토바이 열쇠로 우연히 시동”…스쿠터 열쇠 절도범 변명 기각",
+      "category": "시사",
+      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000078327",
+      "source": "연합뉴스/전남일보",
+      "kind": "article",
+      "event_key": "chuncheon-scooter-key-theft-own-key-defense-sentence-20261031",
+      "why": "남의 스쿠터에 시동이 걸린 이유를 우연이라고 하자 법원이 열쇠의 기능으로 반박하는 황당한 공방이다.",
+      "angle": "우연히 시동이 걸렸다는 말을 법원은 믿지 않았다",
+      "why_now": "새법원취재31일09:14:22전재확인.범행8월,선고정확일미기재.31일이범행일·판결선고일이라고쓰지않음.",
+      "verified_at": 1793422677,
+      "published_at": 1793405662,
+      "evidence": [
+        {
+          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000078327",
+          "note": "연합뉴스전재본문에서절도부인주장과법원의배척이유·출소한달이내재범·징역1년6개월을확인했다.절도뿐아니라공무원위협·손괴·침입도함께재판받은사건이다.판결문미열람."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000078327",
+          "label": "확인한 원문 취재",
+          "kind": "source"
+        }
+      ],
+      "caution": "새 법원 취재31일, 범행8월. 절도 외 공무원 위협·손괴·침입도 함께 재판받은 사건.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-31",
+        "observation": "연합뉴스전재본문에서절도부인주장과법원의배척이유·출소한달이내재범·징역1년6개월을확인했다.절도뿐아니라공무원위협·손괴·침입도함께재판받은사건이다.판결문미열람.",
+        "checked_materials": [],
+        "outline": [
+          "전동스쿠터에꽂힌열쇠를훔친공소사실",
+          "자기열쇠로우연히시동됐다는피고인주장",
+          "열쇠특성상납득어렵다는법원반박"
+        ]
+      }
+    },
+    {
+      "title": "“거품키스 애드리브예요?” 묻자 이서진 정색…김광규 “거품 말이야”",
+      "category": "시사",
+      "url": "https://www.osen.co.kr/article/G1112901707",
+      "source": "OSEN",
+      "kind": "article",
+      "event_key": "biseojin-ha-ji-won-coffee-foam-kiss-adlib-misunderstanding-20261030",
+      "why": "키스와 거품을 각자 다르게 이해해 아슬아슬한 질문으로 튀었다가 바로 정정되는 예능 반전이다.",
+      "angle": "김광규가 궁금했던 건 키스가 아니라 거품이었다",
+      "why_now": "새방송30일SBS비서진(정밀방송시각미확인),OSEN취재31일08:32.옛시크릿가든장면이아닌이번새출연자문답을검토.",
+      "verified_at": 1793422846,
+      "published_at": 1793403120,
+      "evidence": [
+        {
+          "url": "https://www.osen.co.kr/article/G1112901707",
+          "note": "OSEN본문에서김광규의애드리브질문·이서진과하지원반응·거품을묻힌것을물었다는정정·대본에있었다는하지원설명을확인했다.원방송직접시청아님,대본실물미열람."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.osen.co.kr/article/G1112901707",
+          "label": "확인한 원문 취재",
+          "kind": "source"
+        }
+      ],
+      "caution": "본문 속 새 방송 문답 확인. 실제 성추행·애드리브 키스가 있었다는 오해 금지. 원방송 시청 아님.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-30",
+        "observation": "OSEN본문에서김광규의애드리브질문·이서진과하지원반응·거품을묻힌것을물었다는정정·대본에있었다는하지원설명을확인했다.원방송직접시청아님,대본실물미열람.",
+        "checked_materials": [],
+        "outline": [
+          "시크릿가든거품장면비하인드질문",
+          "키스가애드리브라는뜻으로받아들인반응",
+          "거품질문이었다는정정과대본설명으로회수"
+        ]
+      }
+    },
+    {
+      "title": "개표 끝난 다음날 단톡방에 올린 투표지…벌금50만원",
+      "category": "시사",
+      "url": "https://www.fnnews.com/news/202610310701103530",
+      "source": "연합뉴스/파이낸셜뉴스",
+      "kind": "article",
+      "event_key": "daegu-voted-ballot-photo-next-day-chat-fine-report-20261031",
+      "why": "선거가 끝난 뒤 올려도 투표 비밀 문제가 남는다는 시점의 반전과 실제 벌금이 있는 권리 소재다.",
+      "angle": "이미 끝난 선거인데 투표지 사진은 왜 문제됐나",
+      "why_now": "새법원취재31일07:01:14.촬영6/3·공유6/4이며선고일정확일미기재.과거행위에대한새재판보도를검토.",
+      "verified_at": 1793422577,
+      "published_at": 1793397674,
+      "evidence": [
+        {
+          "url": "https://www.fnnews.com/news/202610310701103530",
+          "note": "연합뉴스본문에서6/3기표소사진촬영·6/4 09:14단톡방게시·벌금50만원을확인했다.법원은정치적영향의도는없어보여양형에고려했다고설명했다.판결문직접열람아님."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.fnnews.com/news/202610310701103530",
+          "label": "확인한 원문 취재",
+          "kind": "source"
+        }
+      ],
+      "caution": "새 법원 취재31일, 촬영·공유6월. 투표소 밖 단순 인증과 기표된 투표지 촬영을 구분.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-31",
+        "observation": "연합뉴스본문에서6/3기표소사진촬영·6/4 09:14단톡방게시·벌금50만원을확인했다.법원은정치적영향의도는없어보여양형에고려했다고설명했다.판결문직접열람아님.",
+        "checked_materials": [],
+        "outline": [
+          "기표소에서자기투표지를사진으로저장",
+          "개표종료뒤다음날단톡방게시",
+          "법원이처벌과영향의도없는점을함께판단"
+        ]
+      }
+    },
+    {
+      "title": "촬영거절 방송 논란 뒤 새회차서도 “미리 섭외 안 한다” 전현무",
+      "category": "시사",
+      "url": "https://news.nate.com/view/20261030n34934",
+      "source": "뉴스엔/네이트",
+      "kind": "article",
+      "event_key": "jun-hyun-moo-plan-new-episode-no-prior-booking-20261030",
+      "why": "가게 촬영 거절권 논란이 생긴 프로그램이 새 회차에서도 즉석 섭외 방식을 강조해 선택권을 묻게 한다.",
+      "angle": "이번에는 허락받았다…사전 섭외 없다는 설명은 계속",
+      "why_now": "새방송30일전현무계획4 18회,기사30일공개(정밀기사시각미확인).23일촬영거절식당은배경이며새거절사건으로쓰지않음.",
+      "verified_at": 1793422678,
+      "published_at": null,
+      "evidence": [
+        {
+          "url": "https://news.nate.com/view/20261030n34934",
+          "note": "뉴스엔본문에서새회차국숫집방문중전현무의사전섭외없다는설명·네명촬영허락요청·사장수락을확인했다.23일거절장면논란은배경대조만했고이번에거절을무시한것은아니다.원방송시청아님."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://news.nate.com/view/20261030n34934",
+          "label": "확인한 원문 취재",
+          "kind": "source"
+        }
+      ],
+      "caution": "새 회차는 촬영 허락받음. 과거 거절 장면을 새 사건으로 재포장하거나 이번에 강행했다고 쓰지 않음.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-30",
+        "observation": "뉴스엔본문에서새회차국숫집방문중전현무의사전섭외없다는설명·네명촬영허락요청·사장수락을확인했다.23일거절장면논란은배경대조만했고이번에거절을무시한것은아니다.원방송시청아님.",
+        "checked_materials": [],
+        "outline": [
+          "사전섭외없이간다는새회차설명",
+          "네명먹는촬영허락을직접문의",
+          "이번에는사장수락,과거논란과구분"
         ]
       }
     }
