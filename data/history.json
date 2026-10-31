@@ -1,6 +1,877 @@
 {
   "version": 1,
   "items": {
+    "fb7f47fb7079": {
+      "source": "연합뉴스/파이낸셜뉴스",
+      "title": "개표 끝난 다음날 단톡방에 올린 투표지…벌금50만원",
+      "link": "https://www.fnnews.com/news/202610310701103530",
+      "first_seen_at": 1793423079,
+      "last_seen_at": 1793433788,
+      "samples": [
+        {
+          "at": 1793423079,
+          "views": null,
+          "reactions": null,
+          "rank": 11,
+          "rank_kind": null
+        },
+        {
+          "at": 1793433788,
+          "views": null,
+          "reactions": null,
+          "rank": 8,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "fb7f47fb7079",
+      "editorial": {
+        "title": "개표 끝난 다음날 단톡방에 올린 투표지…벌금50만원",
+        "category": "시사",
+        "url": "https://www.fnnews.com/news/202610310701103530",
+        "source": "연합뉴스/파이낸셜뉴스",
+        "kind": "article",
+        "event_key": "daegu-voted-ballot-photo-next-day-chat-fine-report-20261031",
+        "why": "선거가 끝난 뒤 올렸어도 투표 비밀 문제가 남는다는 시점의 반전과 실제 벌금이 있는 권리 소재다.",
+        "angle": "이미 끝난 선거인데 투표지 사진은 왜 문제됐나",
+        "why_now": "새 법원 취재31일07:01:14.촬영6/3·공유6/4이며 선고 정확일 미기재.과거 행위와 새 재판 취재를 구분.",
+        "verified_at": 1793433445,
+        "published_at": 1793397674,
+        "evidence": [
+          {
+            "url": "https://www.fnnews.com/news/202610310701103530",
+            "note": "연합뉴스 본문에서6/3 기표소 사진 촬영·6/4 09:14 단톡방 게시·벌금50만원을 확인했다.법원은 개표 종료 뒤 게시라 정치적 영향 의도는 없어 보인다고 양형에 고려했다.판결문 직접 열람 아님."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.fnnews.com/news/202610310701103530",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "투표 인증사진 전체 금지로 일반화 금지.투표소 밖 단순 인증과 기표된 투표지 사진을 구분.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-31",
+          "observation": "연합뉴스 본문에서6/3 기표소 사진 촬영·6/4 09:14 단톡방 게시·벌금50만원을 확인했다.법원은 개표 종료 뒤 게시라 정치적 영향 의도는 없어 보인다고 양형에 고려했다.판결문 직접 열람 아님.",
+          "checked_materials": [],
+          "outline": [
+            "기표소에서 자기 투표지를 촬영",
+            "개표 종료 뒤 다음날 단톡방 게시",
+            "법원이 처벌과 영향 의도 부재를 함께 판단"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.fnnews.com/news/202610310701103530"
+          }
+        ],
+        "excerpt": "",
+        "context": "새 법원 취재31일07:01:14.촬영6/3·공유6/4이며 선고 정확일 미기재.과거 행위와 새 재판 취재를 구분.",
+        "fetched_at": 1793433788,
+        "parser_revision": 7
+      },
+      "curation_event_key": "daegu-voted-ballot-photo-next-day-chat-fine-report-20261031"
+    },
+    "b4a209cf1910": {
+      "source": "시사저널",
+      "title": "순방 잦다는 비판에 李 “돼지 눈엔 돼지만”…링거·코피까지 언급",
+      "link": "https://www.sisajournal.com/news/articleView.html?idxno=392413",
+      "first_seen_at": 1793433788,
+      "last_seen_at": 1793433788,
+      "samples": [
+        {
+          "at": 1793433788,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "b4a209cf1910",
+      "editorial": {
+        "title": "순방 잦다는 비판에 李 “돼지 눈엔 돼지만”…링거·코피까지 언급",
+        "category": "시사",
+        "url": "https://www.sisajournal.com/news/articleView.html?idxno=392413",
+        "source": "시사저널",
+        "kind": "article",
+        "event_key": "lee-jae-myung-overseas-trip-criticism-x-reply-20261031",
+        "why": "관광이라는 야당 공세에 대통령이 직접 강한 비유로 맞받아친 새 SNS 발언이라 말의 수위와 공방이 선명하다.",
+        "angle": "해외순방 비판에 대통령이 직접 꺼낸 돼지 비유",
+        "why_now": "당사자 X 새 글31일(정확 게시시각 미확인),시사저널13:48:02 취재.29일 국감·30일 설명은 배경,새 발언과 구분.",
+        "verified_at": 1793433492,
+        "published_at": 1793422082,
+        "evidence": [
+          {
+            "url": "https://www.sisajournal.com/news/articleView.html?idxno=392413",
+            "note": "기사 본문에서 네티즌 글 재게시와 대통령의 순방 업무강도 주장·돼지 비유·특정 전직 대통령 실명은 밝히지 않은 점을 확인했다.원 X 게시물 직접 열람은 아님.비판 측 국감 발언도 함께 대조했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.sisajournal.com/news/articleView.html?idxno=392413",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "링거·코피는 본인 주장으로 귀속.누구를 돼지라 지칭했다고 단정 금지.순방 성과 우열을 검증한 기사 아님.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-31",
+          "observation": "기사 본문에서 네티즌 글 재게시와 대통령의 순방 업무강도 주장·돼지 비유·특정 전직 대통령 실명은 밝히지 않은 점을 확인했다.원 X 게시물 직접 열람은 아님.비판 측 국감 발언도 함께 대조했다.",
+          "checked_materials": [],
+          "outline": [
+            "해외순방이 잦다는 야당 비판",
+            "대통령이 업무강도와 기자단을 근거로 반박",
+            "돼지 비유의 수위와 특정 실명 미언급을 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.sisajournal.com/news/articleView.html?idxno=392413"
+          }
+        ],
+        "excerpt": "",
+        "context": "당사자 X 새 글31일(정확 게시시각 미확인),시사저널13:48:02 취재.29일 국감·30일 설명은 배경,새 발언과 구분.",
+        "fetched_at": 1793433788,
+        "parser_revision": 7
+      },
+      "curation_event_key": "lee-jae-myung-overseas-trip-criticism-x-reply-20261031"
+    },
+    "c1abe0e8dfca": {
+      "source": "The Standard",
+      "title": "포로 조기복귀 판단에 데제르비 “실수했을 수도…의료진만 아닌 나도”",
+      "link": "https://www.standard.co.uk/sport/football/tottenham-injury-news-de-zerbi-porro-udogie-mistake-b1302980.html",
+      "first_seen_at": 1793433788,
+      "last_seen_at": 1793433788,
+      "samples": [
+        {
+          "at": 1793433788,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "c1abe0e8dfca",
+      "editorial": {
+        "title": "포로 조기복귀 판단에 데제르비 “실수했을 수도…의료진만 아닌 나도”",
+        "category": "축구",
+        "url": "https://www.standard.co.uk/sport/football/tottenham-injury-news-de-zerbi-porro-udogie-mistake-b1302980.html",
+        "source": "The Standard",
+        "kind": "article",
+        "event_key": "de-zerbi-porro-early-return-shared-mistake-admission-20261030",
+        "why": "부상 책임을 의료진에 떠넘길 법한 질문에 감독이 자기와 코치진도 함께 판단했다고 선을 긋는 구체적인 답변이다.",
+        "angle": "의료진 탓이 아니라 나도 함께 결정했다",
+        "why_now": "새 기자회견30일 현지,Standard 원취재30일15:32:46UTC=31일00:32:46KST.과거 포로 부상 자체를 새 사건으로 재추천하지 않음.",
+        "verified_at": 1793433530,
+        "published_at": 1793374366,
+        "evidence": [
+          {
+            "url": "https://www.standard.co.uk/sport/football/tottenham-injury-news-de-zerbi-porro-udogie-mistake-b1302980.html",
+            "note": "Standard 본문에서 포로의 복귀를 서두른 결정에 실수가 있었을 수 있고 자신과 스태프도 함께 결정했다는 데제르비의 새 발언을 확인했다.우도기의 지속적인 훈련 불가 설명과 구분했다.회견영상·의료기록 미열람."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.standard.co.uk/sport/football/tottenham-injury-news-de-zerbi-porro-udogie-mistake-b1302980.html",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "의료과실 확정 아님.Maybe라는 유보 표현 유지.기사의 과거 이적연도 등 주변 숫자는 별도 인용하지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-30",
+          "observation": "Standard 본문에서 포로의 복귀를 서두른 결정에 실수가 있었을 수 있고 자신과 스태프도 함께 결정했다는 데제르비의 새 발언을 확인했다.우도기의 지속적인 훈련 불가 설명과 구분했다.회견영상·의료기록 미열람.",
+          "checked_materials": [],
+          "outline": [
+            "포로를 일찍 투입했다는 과거 판단의 배경",
+            "의료진만의 책임이 아니라는 새 답변",
+            "감독 자신과 코치진도 포함한 공동 책임 인정"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.standard.co.uk/sport/football/tottenham-injury-news-de-zerbi-porro-udogie-mistake-b1302980.html"
+          }
+        ],
+        "excerpt": "",
+        "context": "새 기자회견30일 현지,Standard 원취재30일15:32:46UTC=31일00:32:46KST.과거 포로 부상 자체를 새 사건으로 재추천하지 않음.",
+        "fetched_at": 1793433788,
+        "parser_revision": 7
+      },
+      "curation_event_key": "de-zerbi-porro-early-return-shared-mistake-admission-20261030"
+    },
+    "eb244804004d": {
+      "source": "스타뉴스",
+      "title": "비행기 탈 때 처음 모였다…합동훈련도 못 한 연합팀의 韓대회 결승행",
+      "link": "https://www.starnewskorea.com/sports/2026/10/31/2026103016440796276",
+      "first_seen_at": 1793433788,
+      "last_seen_at": 1793433788,
+      "samples": [
+        {
+          "at": 1793433788,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "eb244804004d",
+      "editorial": {
+        "title": "비행기 탈 때 처음 모였다…합동훈련도 못 한 연합팀의 韓대회 결승행",
+        "category": "메이저 스포츠",
+        "url": "https://www.starnewskorea.com/sports/2026/10/31/2026103016440796276",
+        "source": "스타뉴스",
+        "kind": "article",
+        "event_key": "long-beach-independent-composite-team-first-met-plane-interview-20261030",
+        "why": "한 구단처럼 보였던 팀이 사실 비행기에서 처음 만난 여러 구단 선수들이었다는 정체 반전과 한국 팬의 비교 포인트가 있다.",
+        "angle": "한국행 비행기에서 처음 모인 선수들이 한 팀이었다",
+        "why_now": "감독 인터뷰·준결승30일,취재31일 공개(기사 정밀시각 미확인).결승 전 인터뷰로11경기 무패는 당시 기록,31일 결승 결과로 제시하지 않음.",
+        "verified_at": 1793433444,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.starnewskorea.com/sports/2026/10/31/2026103016440796276",
+            "note": "스타뉴스 현장 인터뷰에서 멕시코팀 불참으로 생긴 기회·여러 독립리그 구단 연합 구성·비행기에 오를 때 처음 모였고 합동훈련 기회 없었다는 감독 설명을 확인했다.나이·경험 차이를 인정한 대목도 읽었다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.starnewskorea.com/sports/2026/10/31/2026103016440796276",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "독립리그 단일 구단의 정규 선수단으로 오인 금지.한국 야구 전체가 열세라는 일반화 금지.결승 결과 미반영.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-30",
+          "observation": "스타뉴스 현장 인터뷰에서 멕시코팀 불참으로 생긴 기회·여러 독립리그 구단 연합 구성·비행기에 오를 때 처음 모였고 합동훈련 기회 없었다는 감독 설명을 확인했다.나이·경험 차이를 인정한 대목도 읽었다.",
+          "checked_materials": [],
+          "outline": [
+            "멕시코팀 불참 뒤 급히 구성된 연합팀",
+            "한국행 비행기에 오를 때 첫 집결했다는 감독 설명",
+            "한국 어린 선수들과 나이·경험 차이가 있다는 단서"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.starnewskorea.com/sports/2026/10/31/2026103016440796276"
+          }
+        ],
+        "excerpt": "",
+        "context": "감독 인터뷰·준결승30일,취재31일 공개(기사 정밀시각 미확인).결승 전 인터뷰로11경기 무패는 당시 기록,31일 결승 결과로 제시하지 않음.",
+        "fetched_at": 1793433788,
+        "parser_revision": 7
+      },
+      "curation_event_key": "long-beach-independent-composite-team-first-met-plane-interview-20261030"
+    },
+    "689f57d36484": {
+      "source": "아시아경제",
+      "title": "홍대 펜스 끊기자 보행자 뒤엉켰다…이태원엔 장갑차까지",
+      "link": "https://www.asiae.co.kr/article/social-general/2026103023462536658",
+      "first_seen_at": 1793433788,
+      "last_seen_at": 1793433788,
+      "samples": [
+        {
+          "at": 1793433788,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "689f57d36484",
+      "editorial": {
+        "title": "홍대 펜스 끊기자 보행자 뒤엉켰다…이태원엔 장갑차까지",
+        "category": "시사",
+        "url": "https://www.asiae.co.kr/article/social-general/2026103023462536658",
+        "source": "아시아경제",
+        "kind": "article",
+        "event_key": "halloween-hongdae-fence-gap-itaewon-security-field-report-20261030",
+        "why": "우측통행을 시켜도 사진 찍는 지점과 클럽 대기 줄에서 흐름이 끊겨 현장 대응이 필요한 구체적인 생활 안전 장면이다.",
+        "angle": "펜스가 끝난 곳에서 통행 흐름도 끊겼다",
+        "why_now": "현장 취재30일21~22시KST,원기사31일00:21:38 공개.31일 밤 상황 예측과30일 실제 관찰을 혼동하지 않음.",
+        "verified_at": 1793433574,
+        "published_at": 1793373698,
+        "evidence": [
+          {
+            "url": "https://www.asiae.co.kr/article/social-general/2026103023462536658",
+            "note": "아시아경제 기자의 현장 취재 본문에서 펜스 끝 버스킹존의 혼잡·클럽 줄로 좁아진 보행공간·경찰의 긴급 펜스 설치를 확인했다.이태원 장갑차·경찰견과 시민 반응도 읽었다.기사 사진·영상을 직접 봤다는 검증 아님."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.asiae.co.kr/article/social-general/2026103023462536658",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "9.2만명은30일22시 홍대 일대 경찰 추산.오늘 인원·사고 발생으로 쓰지 않음.안전 확보를 확정하는 보도 아님.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-30",
+          "observation": "아시아경제 기자의 현장 취재 본문에서 펜스 끝 버스킹존의 혼잡·클럽 줄로 좁아진 보행공간·경찰의 긴급 펜스 설치를 확인했다.이태원 장갑차·경찰견과 시민 반응도 읽었다.기사 사진·영상을 직접 봤다는 검증 아님.",
+          "checked_materials": [],
+          "outline": [
+            "우측통행이 유지되다가 버스킹존에서 끊기는 흐름",
+            "클럽 대기 줄 때문에 차도로 내려온 보행자",
+            "긴급 동선 분리와 이태원 대비 상황"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.asiae.co.kr/article/social-general/2026103023462536658"
+          }
+        ],
+        "excerpt": "",
+        "context": "현장 취재30일21~22시KST,원기사31일00:21:38 공개.31일 밤 상황 예측과30일 실제 관찰을 혼동하지 않음.",
+        "fetched_at": 1793433788,
+        "parser_revision": 7
+      },
+      "curation_event_key": "halloween-hongdae-fence-gap-itaewon-security-field-report-20261030"
+    },
+    "f74114e63c29": {
+      "source": "SBS/연합뉴스",
+      "title": "경찰 오자 소주 마시며 “어떻게 할 거냐”…정리 뒤 또 운전한20대",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824206",
+      "first_seen_at": 1793433788,
+      "last_seen_at": 1793433788,
+      "samples": [
+        {
+          "at": 1793433788,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "f74114e63c29",
+      "editorial": {
+        "title": "경찰 오자 소주 마시며 “어떻게 할 거냐”…정리 뒤 또 운전한20대",
+        "category": "시사",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824206",
+        "source": "SBS/연합뉴스",
+        "kind": "article",
+        "event_key": "pyeongtaek-road-rage-post-crash-drinking-repeat-driving-verdict-20261031",
+        "why": "보복운전 사고 뒤 측정을 방해하려고 술을 마시고,현장 정리가 끝나자 또 운전해 적발된 연속 행동이 황당하다.",
+        "angle": "경찰 앞에서 마신 술,그 상태로 다시 잡은 운전대",
+        "why_now": "새 법원 취재31일09:42 공개.범행3/26 새벽이며 선고 정확일은 기사 미기재.사고가 오늘 일어났다고 쓰지 않음.",
+        "verified_at": 1793433469,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824206",
+            "note": "SBS 연합뉴스 인용 본문에서1.1㎞ 보복운전·충돌 뒤 편의점 소주 구매·측정 방해·현장 정리 뒤0.178% 상태 재운전·징역1년을 확인했다.판결문과 블랙박스 영상은 직접 열람하지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824206",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "술타기 방법 안내보다 실제 행동과 처벌 결말에 초점.징역1년은 보복운전·손괴·측정방해 등 함께 판단한 결과.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-31",
+          "observation": "SBS 연합뉴스 인용 본문에서1.1㎞ 보복운전·충돌 뒤 편의점 소주 구매·측정 방해·현장 정리 뒤0.178% 상태 재운전·징역1년을 확인했다.판결문과 블랙박스 영상은 직접 열람하지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "째려봤다는 이유의 추격·급정거 사고",
+            "경찰 출동 뒤 소주를 사 마신 대응",
+            "현장 정리 뒤 재운전으로 이어진 결말"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824206"
+          }
+        ],
+        "excerpt": "",
+        "context": "새 법원 취재31일09:42 공개.범행3/26 새벽이며 선고 정확일은 기사 미기재.사고가 오늘 일어났다고 쓰지 않음.",
+        "fetched_at": 1793433788,
+        "parser_revision": 7
+      },
+      "curation_event_key": "pyeongtaek-road-rage-post-crash-drinking-repeat-driving-verdict-20261031"
+    },
+    "2583f879b8d0": {
+      "source": "엑스포츠뉴스",
+      "title": "정석원 “초반 말썽 피웠다”…백지영이 “평소 그런 사람이었다면” 꺼낸 답",
+      "link": "https://www.xportsnews.com/article/2213807",
+      "first_seen_at": 1793433788,
+      "last_seen_at": 1793433788,
+      "samples": [
+        {
+          "at": 1793433788,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "2583f879b8d0",
+      "editorial": {
+        "title": "정석원 “초반 말썽 피웠다”…백지영이 “평소 그런 사람이었다면” 꺼낸 답",
+        "category": "시사",
+        "url": "https://www.xportsnews.com/article/2213807",
+        "source": "엑스포츠뉴스",
+        "kind": "article",
+        "event_key": "baek-ji-young-jung-seok-won-couple-new-video-response-20261031",
+        "why": "남편이 잘못을 인정한 자리에서 아내가 무조건 용서한 것이 아니라 평소 알던 사람이라 보듬었다고 선을 긋는 새 대화다.",
+        "angle": "무조건 보듬은 게 아니라 어떤 사람인지 알았다는 답",
+        "why_now": "본인 유튜브31일 새 공개(정확 게시시각 미확인),기사15:12:51.2018년 처벌은 배경이며 새 범죄·새 법원 결론으로 포장하지 않음.",
+        "verified_at": 1793433490,
+        "published_at": 1793427171,
+        "evidence": [
+          {
+            "url": "https://www.xportsnews.com/article/2213807",
+            "note": "본문에서 선우용여와 부부가 결혼 초 갈등을 이야기하고,정석원이 잘못을 인정하자 백지영이 평소의 사람됨을 알아 보듬었다고 답한 내용을 확인했다.본인 채널 영상 직접 시청은 아님."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.xportsnews.com/article/2213807",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "본인들의 새 문답으로 귀속.사법적 면책·마약 옹호로 확대 해석 금지.과거 유죄 사건을 오늘 사건으로 쓰지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-31",
+          "observation": "본문에서 선우용여와 부부가 결혼 초 갈등을 이야기하고,정석원이 잘못을 인정하자 백지영이 평소의 사람됨을 알아 보듬었다고 답한 내용을 확인했다.본인 채널 영상 직접 시청은 아님.",
+          "checked_materials": [],
+          "outline": [
+            "부부가 초반 갈등과 방황을 인정",
+            "정석원이 말썽을 피웠다고 직접 표현",
+            "평소 어떤 사람인지 알았다는 백지영의 설명"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.xportsnews.com/article/2213807"
+          }
+        ],
+        "excerpt": "",
+        "context": "본인 유튜브31일 새 공개(정확 게시시각 미확인),기사15:12:51.2018년 처벌은 배경이며 새 범죄·새 법원 결론으로 포장하지 않음.",
+        "fetched_at": 1793433788,
+        "parser_revision": 7
+      },
+      "curation_event_key": "baek-ji-young-jung-seok-won-couple-new-video-response-20261031"
+    },
+    "5559eef637ef": {
+      "source": "뉴스엔",
+      "title": "촬영거절 식당 방송 논란 뒤에도 “사전 섭외 안 한다”…새 회차 전현무",
+      "link": "https://www.newsen.com/news_view.php?uid=202610301959546110",
+      "first_seen_at": 1793433788,
+      "last_seen_at": 1793433788,
+      "samples": [
+        {
+          "at": 1793433788,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "5559eef637ef",
+      "editorial": {
+        "title": "촬영거절 식당 방송 논란 뒤에도 “사전 섭외 안 한다”…새 회차 전현무",
+        "category": "시사",
+        "url": "https://www.newsen.com/news_view.php?uid=202610301959546110",
+        "source": "뉴스엔",
+        "kind": "article",
+        "event_key": "jun-hyun-moo-plan-new-episode-no-prior-booking-20261030",
+        "why": "가게 선택권 논란이 생긴 프로그램이 새 회차에서도 즉석 섭외 방식을 강조해 방송 편의와 가게 권리를 묻게 한다.",
+        "angle": "이번엔 허락받았다…사전 섭외 없다는 설명은 계속",
+        "why_now": "새 방송30일 전현무계획4 18회,뉴스엔 원문30일21:40:30 공개.23일 거절 식당은 배경이며 새 거절 사건으로 다루지 않음.",
+        "verified_at": 1793433571,
+        "published_at": 1793364030,
+        "evidence": [
+          {
+            "url": "https://www.newsen.com/news_view.php?uid=202610301959546110",
+            "note": "뉴스엔 원문 본문에서 새 국숫집 방문 중 사전 섭외 없이 간다는 설명·네명 촬영 허락 요청·점주 수락을 확인했다.이번에 거절을 무시한 것은 아니다.23일 논란은 배경 대조만 했다.원방송 직접 시청 아님."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.newsen.com/news_view.php?uid=202610301959546110",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "새 사과·새 거절·촬영 강행으로 쓰지 않음.논란 때문에 이 말을 했다는 의도 추정 금지.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-30",
+          "observation": "뉴스엔 원문 본문에서 새 국숫집 방문 중 사전 섭외 없이 간다는 설명·네명 촬영 허락 요청·점주 수락을 확인했다.이번에 거절을 무시한 것은 아니다.23일 논란은 배경 대조만 했다.원방송 직접 시청 아님.",
+          "checked_materials": [],
+          "outline": [
+            "사전 섭외 없이 방문한다는 새 회차 설명",
+            "촬영 허락을 묻고 점주가 수락한 실제 진행",
+            "이전 촬영 거절권 논란과 이번 허락을 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.newsen.com/news_view.php?uid=202610301959546110"
+          }
+        ],
+        "excerpt": "",
+        "context": "새 방송30일 전현무계획4 18회,뉴스엔 원문30일21:40:30 공개.23일 거절 식당은 배경이며 새 거절 사건으로 다루지 않음.",
+        "fetched_at": 1793433788,
+        "parser_revision": 7
+      },
+      "curation_event_key": "jun-hyun-moo-plan-new-episode-no-prior-booking-20261030"
+    },
+    "4193236e54a6": {
+      "source": "SBS/연합뉴스",
+      "title": "“나 감방서 나왔다” 출소 나흘 만에 슈퍼 위협…경찰 경고에도 반복",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824204",
+      "first_seen_at": 1793433788,
+      "last_seen_at": 1793433788,
+      "samples": [
+        {
+          "at": 1793433788,
+          "views": null,
+          "reactions": null,
+          "rank": 9,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "4193236e54a6",
+      "editorial": {
+        "title": "“나 감방서 나왔다” 출소 나흘 만에 슈퍼 위협…경찰 경고에도 반복",
+        "category": "시사",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824204",
+        "source": "SBS/연합뉴스",
+        "kind": "article",
+        "event_key": "chuncheon-four-days-after-release-supermarket-stalking-sentence-20261031",
+        "why": "출소했다는 사실을 위협의 말로 쓰고 경찰 경고 뒤에도 되찾아간 행동이 다시 실형으로 돌아오는 사건이다.",
+        "angle": "감방에서 나왔다는 인사가 또 감방으로 이어졌다",
+        "why_now": "새 법원 취재31일09:35:07 공개.첫 방문6월,반복7~8월,선고 정확일 미기재.갱신13:29를 최초 기사 시각으로 사용하지 않음.",
+        "verified_at": 1793433444,
+        "published_at": 1793406907,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824204",
+            "note": "본문에서 출소 나흘 뒤 슈퍼 점주 위협·잠근 문 발로 차기·경찰 경고와 분리 뒤 반복 방문·징역1년 및 치료40시간을 확인했다.다른 피해자 주소 유출 사건과 별개.판결문·CCTV 직접 열람 아님."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824204",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "피해자 신원·가게 위치 추정 금지.기사 사진은 사건 현장 아닌 자료 사진.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-31",
+          "observation": "본문에서 출소 나흘 뒤 슈퍼 점주 위협·잠근 문 발로 차기·경찰 경고와 분리 뒤 반복 방문·징역1년 및 치료40시간을 확인했다.다른 피해자 주소 유출 사건과 별개.판결문·CCTV 직접 열람 아님.",
+          "checked_materials": [],
+          "outline": [
+            "출소 나흘 만에 점주에게 꺼낸 위협",
+            "경찰 경고에도 반복 방문",
+            "피해 회복 없었다는 법원의 실형 이유"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824204"
+          }
+        ],
+        "excerpt": "",
+        "context": "새 법원 취재31일09:35:07 공개.첫 방문6월,반복7~8월,선고 정확일 미기재.갱신13:29를 최초 기사 시각으로 사용하지 않음.",
+        "fetched_at": 1793433788,
+        "parser_revision": 7
+      },
+      "curation_event_key": "chuncheon-four-days-after-release-supermarket-stalking-sentence-20261031"
+    },
+    "2d0bd22318de": {
+      "source": "뉴시스/파이낸셜뉴스",
+      "title": "누수 보상 받고 수리 안 했다…옛 피해 섞어5504만원 또 청구한70대",
+      "link": "https://www.fnnews.com/news/202610310703445198",
+      "first_seen_at": 1793433788,
+      "last_seen_at": 1793433788,
+      "samples": [
+        {
+          "at": 1793433788,
+          "views": null,
+          "reactions": null,
+          "rank": 10,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "2d0bd22318de",
+      "editorial": {
+        "title": "누수 보상 받고 수리 안 했다…옛 피해 섞어5504만원 또 청구한70대",
+        "category": "시사",
+        "url": "https://www.fnnews.com/news/202610310703445198",
+        "source": "뉴시스/파이낸셜뉴스",
+        "kind": "article",
+        "event_key": "incheon-unrepaired-water-leak-old-damage-new-claim-fraud-20261031",
+        "why": "이전 보상금은 받았는데 피해를 그대로 둔 채 새 누수 피해처럼 섞어 또 청구했다는 수법과 미수 결말이 구체적이다.",
+        "angle": "수리 안 한 옛 누수 피해가 새 청구서에 다시 등장했다",
+        "why_now": "뉴시스 새 법원 취재31일07:00·전재07:03:47.청구2025/5/19,기존 피해2024/1/29.선고 정확일 미기재,새 범행으로 쓰지 않음.",
+        "verified_at": 1793433573,
+        "published_at": 1793397827,
+        "evidence": [
+          {
+            "url": "https://www.fnnews.com/news/202610310703445198",
+            "note": "뉴시스 전재 본문에서 기존 누수 보상1280만원 뒤 미복구·기존/새 피해 구분 안 된 사진 기반 견적서로5504만8000원 청구·보험사 지급 거절로 미수·정식재판에서도 벌금200만원 유지한 사실을 확인했다.원사진·판결문 미열람."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.fnnews.com/news/202610310703445198",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "5504만원을 실제 받아 챙긴 사건 아님.피해 전액이 새 누수라는 주장은 법원에서 배척됨.일반 보험 청구 조언 아님.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-31",
+          "observation": "뉴시스 전재 본문에서 기존 누수 보상1280만원 뒤 미복구·기존/새 피해 구분 안 된 사진 기반 견적서로5504만8000원 청구·보험사 지급 거절로 미수·정식재판에서도 벌금200만원 유지한 사실을 확인했다.원사진·판결문 미열람.",
+          "checked_materials": [],
+          "outline": [
+            "이전 누수 보상 뒤 수리하지 않은 피해",
+            "옛 피해와 새 피해가 섞인 사진으로 재청구",
+            "보험사가 거절해 미수,정식재판도 벌금 유지"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.fnnews.com/news/202610310703445198"
+          }
+        ],
+        "excerpt": "",
+        "context": "뉴시스 새 법원 취재31일07:00·전재07:03:47.청구2025/5/19,기존 피해2024/1/29.선고 정확일 미기재,새 범행으로 쓰지 않음.",
+        "fetched_at": 1793433788,
+        "parser_revision": 7
+      },
+      "curation_event_key": "incheon-unrepaired-water-leak-old-damage-new-claim-fraud-20261031"
+    },
+    "c54a65d7feaa": {
+      "source": "뉴스1/파이낸셜뉴스",
+      "title": "22명 탄 낚싯배 화재…진화 나선 해경까지 연기 마셔 병원으로",
+      "link": "https://www.fnnews.com/news/202610311010348535",
+      "first_seen_at": 1793433788,
+      "last_seen_at": 1793433788,
+      "samples": [
+        {
+          "at": 1793433788,
+          "views": null,
+          "reactions": null,
+          "rank": 11,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "c54a65d7feaa",
+      "editorial": {
+        "title": "22명 탄 낚싯배 화재…진화 나선 해경까지 연기 마셔 병원으로",
+        "category": "시사",
+        "url": "https://www.fnnews.com/news/202610311010348535",
+        "source": "뉴스1/파이낸셜뉴스",
+        "kind": "article",
+        "event_key": "yeongheung-fishing-boat-fire-rescuers-smoke-inhalation-20261031",
+        "why": "낚시 나간 바다에서 불이 나 구조·진화에 나선 사람까지 다친 상황과 빠른 진압의 전후가 구체적인 사건이다.",
+        "angle": "불난 배의 선장과 진화하던 해경이 함께 병원으로",
+        "why_now": "발생31일06:51 신고,07:22 진화.뉴스1 원취재31일10:10 확인.정밀 최초 구조자료 게시시각 미확인.",
+        "verified_at": 1793433458,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.fnnews.com/news/202610311010348535",
+            "note": "뉴스1 전재 본문에서22명 승선·선장과 해경 등4명 연기 흡입·생명 지장 없음·신고31분 뒤 진화·합선 추정과 원인조사 진행을 확인했다.구조영상 직접 시청 아님."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.fnnews.com/news/202610311010348535",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "합선은 잠정 추정이며 확정 원인 아님.사망사고처럼 쓰지 않음.실제 영상 시청 검증 아님.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-31",
+          "observation": "뉴스1 전재 본문에서22명 승선·선장과 해경 등4명 연기 흡입·생명 지장 없음·신고31분 뒤 진화·합선 추정과 원인조사 진행을 확인했다.구조영상 직접 시청 아님.",
+          "checked_materials": [],
+          "outline": [
+            "22명이 탄 낚싯배에서 발생한 불",
+            "선장과 진화 인력까지 연기 흡입",
+            "31분 뒤 진화와 아직 조사 중인 원인"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.fnnews.com/news/202610311010348535"
+          }
+        ],
+        "excerpt": "",
+        "context": "발생31일06:51 신고,07:22 진화.뉴스1 원취재31일10:10 확인.정밀 최초 구조자료 게시시각 미확인.",
+        "fetched_at": 1793433788,
+        "parser_revision": 7
+      },
+      "curation_event_key": "yeongheung-fishing-boat-fire-rescuers-smoke-inhalation-20261031"
+    },
+    "78eec9bf38c4": {
+      "source": "뉴스1/파이낸셜뉴스",
+      "title": "전조등이 얼굴 비췄다고 차 막고 손날치기…운전자 폭행50대 실형",
+      "link": "https://www.fnnews.com/news/202610310900388676",
+      "first_seen_at": 1793433788,
+      "last_seen_at": 1793433788,
+      "samples": [
+        {
+          "at": 1793433788,
+          "views": null,
+          "reactions": null,
+          "rank": 12,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "78eec9bf38c4",
+      "editorial": {
+        "title": "전조등이 얼굴 비췄다고 차 막고 손날치기…운전자 폭행50대 실형",
+        "category": "시사",
+        "url": "https://www.fnnews.com/news/202610310900388676",
+        "source": "뉴스1/파이낸셜뉴스",
+        "kind": "article",
+        "event_key": "busan-headlight-face-driver-assault-repeat-offender-sentence-20261031",
+        "why": "차의 불빛이 얼굴에 닿았다는 이유로 차를 막고 질문한 운전자를 때렸다는 반응의 불균형이 뚜렷하다.",
+        "angle": "왜 그러세요 물은 운전자에게 돌아온 손날치기",
+        "why_now": "뉴스1 새 법원 취재31일09:00:41 전재.범행2/9 17:15,선고 정확일 미기재.옛 범행을 새 현장 사건으로 다루지 않음.",
+        "verified_at": 1793433573,
+        "published_at": 1793404841,
+        "evidence": [
+          {
+            "url": "https://www.fnnews.com/news/202610310900388676",
+            "note": "뉴스1 본문에서 차량을 막고 운전자의 뺨·목을 가격한 경위·누범기간·반복 처벌 전력·피해자 용서 못 받은 점·징역6개월을 확인했다.택시인지 본문 미명시로 일반 운전자로만 기록.판결문 미열람."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.fnnews.com/news/202610310900388676",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "운전자 직업·차종 추정 금지.출소 나흘 뒤 슈퍼 스토킹 사건과 지역·범죄·수량을 구분.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-31",
+          "observation": "뉴스1 본문에서 차량을 막고 운전자의 뺨·목을 가격한 경위·누범기간·반복 처벌 전력·피해자 용서 못 받은 점·징역6개월을 확인했다.택시인지 본문 미명시로 일반 운전자로만 기록.판결문 미열람.",
+          "checked_materials": [],
+          "outline": [
+            "전조등 불빛에 화가 나 차량을 가로막기",
+            "창문 열고 묻는 운전자를 폭행",
+            "누범과 반복 전력을 고려한 실형"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.fnnews.com/news/202610310900388676"
+          }
+        ],
+        "excerpt": "",
+        "context": "뉴스1 새 법원 취재31일09:00:41 전재.범행2/9 17:15,선고 정확일 미기재.옛 범행을 새 현장 사건으로 다루지 않음.",
+        "fetched_at": 1793433788,
+        "parser_revision": 7
+      },
+      "curation_event_key": "busan-headlight-face-driver-assault-repeat-offender-sentence-20261031"
+    },
     "f30f05c558fa": {
       "source": "뉴스핌",
       "title": "벙커에서 서로 남의 공을 쳤다…김주형·캠벨 나란히2벌타",
@@ -724,78 +1595,6 @@
         "parser_revision": 7
       },
       "curation_event_key": "biseojin-ha-ji-won-coffee-foam-kiss-adlib-misunderstanding-20261030"
-    },
-    "fb7f47fb7079": {
-      "source": "연합뉴스/파이낸셜뉴스",
-      "title": "개표 끝난 다음날 단톡방에 올린 투표지…벌금50만원",
-      "link": "https://www.fnnews.com/news/202610310701103530",
-      "first_seen_at": 1793423079,
-      "last_seen_at": 1793423079,
-      "samples": [
-        {
-          "at": 1793423079,
-          "views": null,
-          "reactions": null,
-          "rank": 11,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "fb7f47fb7079",
-      "editorial": {
-        "title": "개표 끝난 다음날 단톡방에 올린 투표지…벌금50만원",
-        "category": "시사",
-        "url": "https://www.fnnews.com/news/202610310701103530",
-        "source": "연합뉴스/파이낸셜뉴스",
-        "kind": "article",
-        "event_key": "daegu-voted-ballot-photo-next-day-chat-fine-report-20261031",
-        "why": "선거가 끝난 뒤 올려도 투표 비밀 문제가 남는다는 시점의 반전과 실제 벌금이 있는 권리 소재다.",
-        "angle": "이미 끝난 선거인데 투표지 사진은 왜 문제됐나",
-        "why_now": "새법원취재31일07:01:14.촬영6/3·공유6/4이며선고일정확일미기재.과거행위에대한새재판보도를검토.",
-        "verified_at": 1793422577,
-        "published_at": 1793397674,
-        "evidence": [
-          {
-            "url": "https://www.fnnews.com/news/202610310701103530",
-            "note": "연합뉴스본문에서6/3기표소사진촬영·6/4 09:14단톡방게시·벌금50만원을확인했다.법원은정치적영향의도는없어보여양형에고려했다고설명했다.판결문직접열람아님."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.fnnews.com/news/202610310701103530",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "새 법원 취재31일, 촬영·공유6월. 투표소 밖 단순 인증과 기표된 투표지 촬영을 구분.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-31",
-          "observation": "연합뉴스본문에서6/3기표소사진촬영·6/4 09:14단톡방게시·벌금50만원을확인했다.법원은정치적영향의도는없어보여양형에고려했다고설명했다.판결문직접열람아님.",
-          "checked_materials": [],
-          "outline": [
-            "기표소에서자기투표지를사진으로저장",
-            "개표종료뒤다음날단톡방게시",
-            "법원이처벌과영향의도없는점을함께판단"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.fnnews.com/news/202610310701103530"
-          }
-        ],
-        "excerpt": "",
-        "context": "새법원취재31일07:01:14.촬영6/3·공유6/4이며선고일정확일미기재.과거행위에대한새재판보도를검토.",
-        "fetched_at": 1793423079,
-        "parser_revision": 7
-      },
-      "curation_event_key": "daegu-voted-ballot-photo-next-day-chat-fine-report-20261031"
     },
     "c2cc2ba007d3": {
       "source": "뉴스엔/네이트",
@@ -31069,155 +31868,7 @@
         "parser_revision": 7
       },
       "curation_event_key": "sbs-newstory-thirties-return-to-civil-service-exam-20261024"
-    },
-    "9fd30378d05d": {
-      "source": "스타뉴스",
-      "title": "7년 연속 한국시리즈 갔던 김태형, 롯데에선 7위 세 번…재계약 종료",
-      "link": "https://www.starnewskorea.com/sports/2026/10/24/2026102411190611370",
-      "first_seen_at": 1792818643,
-      "last_seen_at": 1792818643,
-      "samples": [
-        {
-          "at": 1792818643,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "9fd30378d05d",
-      "editorial": {
-        "title": "7년 연속 한국시리즈 갔던 김태형, 롯데에선 7위 세 번…재계약 종료",
-        "category": "메이저 스포츠",
-        "url": "https://www.starnewskorea.com/sports/2026/10/24/2026102411190611370",
-        "source": "스타뉴스",
-        "kind": "article",
-        "event_key": "lotte-giants-kim-tae-hyung-no-contract-renewal-20261024",
-        "why": "롯데 팬이 야구 친구에게 보낼 명장 영입의 결말. 두산 7년 연속 한국시리즈와 롯데 3년 연속 7위의 대비에 오늘 재계약 종료가 확정됐다.",
-        "angle": "두산에선 KS 7년 연속, 롯데에선 7위 세 번이라는 대비 뒤 구단의 재계약 종료 발표를 붙인다.",
-        "why_now": "24일 오전 롯데 관계자가 계약 만료와 재계약 미체결, 차기 감독 선임 절차를 밝혔다. 과거 성적만 반복하는 소재가 아니다.",
-        "verified_at": 1792818450,
-        "published_at": 1792807860,
-        "evidence": [
-          {
-            "url": "https://biz.chosun.com/sports/baseball/2026/10/24/GI3DOYTGGQ4DMMZYHFSDQMRSGQ/",
-            "note": "입력 24일 11:11의 공식발표 보도 본문 확인. 13:03 갱신 시각이나 스타뉴스 11:31 전재 시각을 최초 공개로 바꾸지 않음."
-          },
-          {
-            "url": "https://www.starnewskorea.com/sports/2026/10/24/2026102411190611370",
-            "note": "11:31 발행. 구단 관계자의 24일 재계약 미체결 발표, 세 시즌 7위와 두산 시절 7년 연속 KS 진출을 본문에서 확인."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.starnewskorea.com/sports/2026/10/24/2026102411190611370",
-            "label": "구단 발표 인용 보도",
-            "kind": "source"
-          }
-        ],
-        "caution": "경질이 아니라 계약 만료·재계약 종료. 차기 감독은 미정. 팬 반응·영상은 확인하지 않았다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-24",
-          "observation": "본문에서 구단 관계자의 재계약 미체결 발언을 확인했다. 선임된 차기 감독이 있다는 내용은 없다.",
-          "checked_materials": [],
-          "outline": [
-            "두산 시절 7년 연속 한국시리즈와 롯데 3년 연속 7위를 나란히 제시",
-            "24일 구단의 계약 만료·재계약 미체결 발표",
-            "차기 감독 선임은 진행 중이라는 현재 확정 범위로 마무리"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "구단 발표 인용 보도",
-            "url": "https://www.starnewskorea.com/sports/2026/10/24/2026102411190611370"
-          }
-        ],
-        "excerpt": "",
-        "context": "24일 오전 롯데 관계자가 계약 만료와 재계약 미체결, 차기 감독 선임 절차를 밝혔다. 과거 성적만 반복하는 소재가 아니다.",
-        "fetched_at": 1792818643,
-        "parser_revision": 7
-      },
-      "curation_event_key": "lotte-giants-kim-tae-hyung-no-contract-renewal-20261024"
-    },
-    "4bb89c98c4ea": {
-      "source": "경기일보",
-      "title": "담배 반출 적발 뒤 퇴사했는데…14개월 후 같은 회사에 신입 재입사",
-      "link": "https://www.kyeonggi.com/article/20261024580019",
-      "first_seen_at": 1792818643,
-      "last_seen_at": 1792818643,
-      "samples": [
-        {
-          "at": 1792818643,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "4bb89c98c4ea",
-      "editorial": {
-        "title": "담배 반출 적발 뒤 퇴사했는데…14개월 후 같은 회사에 신입 재입사",
-        "category": "시사",
-        "url": "https://www.kyeonggi.com/article/20261024580019",
-        "source": "경기일보",
-        "kind": "article",
-        "event_key": "incheon-airport-lost-cigarettes-resignation-rehire-audit-20261024",
-        "why": "직장인이 동료에게 보낼 황당한 인사 사례. 감사 전 퇴사로 징계 이력이 남지 않았고 같은 회사가 과거 근무 이력조차 놓친 채 다시 뽑았다.",
-        "angle": "담배 3보루 반출 적발→감사 직전 퇴사→14개월 뒤 같은 회사 신입이라는 세 단계가 첫 장의 핵심이다.",
-        "why_now": "24일 황희 의원이 제출받은 공항공사 자료로 드러난 인사·감사 허점. 적발·재입사 자체는 2024~2025년이고 오늘은 자료 공개 보도다.",
-        "verified_at": 1792818450,
-        "published_at": 1792798380,
-        "evidence": [
-          {
-            "url": "https://www.kyeonggi.com/article/20261024580019",
-            "note": "승인 2026-10-24 08:33. 24일 공개된 국회 제출자료, 2024년 3월 적발·4월 퇴사, 2025년 6월 재입사·12월 감봉 6개월을 본문에서 확인."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.kyeonggi.com/article/20261024580019",
-            "label": "국회 제출자료 취재 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "2024~2025년 사건의 오늘 공개된 감사 허점이다. 절도 유죄 확정·해고라고 쓰지 않는다. 원자료 파일은 미확인.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-24",
-          "observation": "취재 원문에서 24일 자료 공개 사실과 실제 사건 연혁, 감봉 처분 및 미개정 규정 문제를 확인했다. 현장 영상은 없다.",
-          "checked_materials": [],
-          "outline": [
-            "2024년 담배 3보루 반출 적발과 감사 전 자진 퇴사",
-            "2025년 경력 누락 상태로 같은 회사에 신입 재입사",
-            "뒤늦은 감봉과 아직 고치지 않은 규정 문제를 24일 공개자료로 연결"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "국회 제출자료 취재 원문",
-            "url": "https://www.kyeonggi.com/article/20261024580019"
-          }
-        ],
-        "excerpt": "",
-        "context": "24일 황희 의원이 제출받은 공항공사 자료로 드러난 인사·감사 허점. 적발·재입사 자체는 2024~2025년이고 오늘은 자료 공개 보도다.",
-        "fetched_at": 1792818643,
-        "parser_revision": 7
-      },
-      "curation_event_key": "incheon-airport-lost-cigarettes-resignation-rehire-audit-20261024"
     }
   },
-  "updated_at": 1793423079
+  "updated_at": 1793433788
 }
