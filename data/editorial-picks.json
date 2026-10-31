@@ -1,542 +1,574 @@
 {
   "version": 2,
-  "hour_utc": "2026103108",
+  "hour_utc": "2026103111",
   "reviewer": "ChatGPT",
-  "generated_at": 1793433703,
+  "generated_at": 1793445155,
   "coverage": {
     "queries": [
-      "\"2026.10.31\" 축구 \"논란\" -황희찬 -음바페 -다우먼 -모레노",
-      "\"2026.10.31\" 아이돌 \"실수\"",
-      "\"2026.10.31\" \"황당\" -벌타 -스쿠터 -필기",
-      "\"2026.10.31\" \"반전\" -비자 -디아즈",
-      "\"2026.10.31\" \"환불\" -포켓몬 -비자",
-      "\"2026.10.31\" \"아이브\" \"리즈\" -두리안",
-      "\"2026.10.31\" \"벌금\" -기표 -무면허 -스쿠터",
-      "\"2026.10.31\" \"국밥\" \"물티슈\"",
-      "\"2026.10.31\" \"출소\" \"나흘\"",
-      "\"2026.10.31\" \"국밥\" \"CCTV\"",
-      "\"2026.10.31\" \"할인\" \"사장\"",
-      "\"2026.10.31\" \"환불\" \"사기\" -학교 -포켓몬",
-      "\"2026.10.31\" \"술 타기\"",
-      "\"2026.10.31\" \"미용실\" \"계약\"",
-      "\"2026.10.31\" \"엔믹스\" \"말했다\"",
-      "\"2026.10.31\" \"국밥\" \"물티슈 넣고\"",
-      "\"2026.10.31\" \"헤어디자이너\"",
-      "\"2026.10.31\" \"부당\" \"반환\"",
-      "\"2026.10.31\" \"국밥\" \"물티슈\" 사장",
-      "\"2026.10.31\" \"하츠투하츠\" 예능",
-      "\"2026.10.31\" \"돼지\" \"순방\"",
-      "\"2026.10.31\" \"미용실\" \"위약금\"",
-      "\"국밥\" \"물티슈\" \"CCTV\"",
-      "\"2026.10.31\" \"정석원\" \"말썽\"",
-      "\"2026.10.31\" \"이영지\" \"말\"",
-      "\"2026.10.31\" \"우기\" 예능",
-      "\"2026.10.30\" \"엔믹스\" \"실수\"",
-      "\"2026.10.31\" \"카리나\" \"유튜브\"",
-      "2026 10 30 31 걸그룹 예능 폭소 대처 발언 -시청률 -예고 -놀토",
-      "2026 10 31 황당 손님 할인 사장 -봉투 -기표",
-      "2026 10 31 전현무 섭외 국수 사장",
-      "2026 10 31 영철 학력 해명",
-      "De Zerbi Pedro Porro injury mistake October 30 2026",
-      "\"영철\" \"학력\" \"2026.10.31\"",
-      "\"국밥\" \"물티슈\" \"2026-10-31\"",
-      "\"2026.10.31\" \"손흥민\" \"VAR\" 골 인정",
-      "\"2026.10.31\" \"택시\" \"징역 6개월\"",
-      "\"2026.10.31\" \"죽는다\" \"장난\"",
-      "\"2026.10.31\" \"벌금\" \"버스\"",
-      "\"2026.10.31\" \"감독\" \"주차\" 사고",
-      "\"2026.10.31\" \"전조등\" \"폭행\"",
-      "\"2026.10.31\" \"누수\" \"5500\"",
-      "\"2026.10.31\" \"홍대\" \"우측통행\"",
-      "\"2026.10.31\" \"여자\" \"임금\""
+      "\"2026.10.31\" \"박승수\" \"마이콜\"",
+      "\"2026.10.31\" \"손흥민\" \"요시다\"",
+      "\"2026.10.31\" \"음바페\" 중국",
+      "\"2026.10.31\" \"리즈\" \"두리안\"",
+      "\"2026.10.31\" \"그릴리시\"",
+      "\"2026.10.31\" \"메시\" \"발롱도르\" 투표",
+      "\"2026.10.31\" \"케인\" \"투표\"",
+      "\"2026.10.31\" \"엔믹스\" \"놀토\"",
+      "\"2026.10.31\" \"축구\" \"웃음\"",
+      "\"2026.10.31\" \"호날두\"",
+      "\"2026.10.31\" \"야말\" \"발언\"",
+      "\"2026.10.31\" \"뉴캐슬\" \"세리머니\"",
+      "\"2026.10.31\" \"박기량\" \"아이디\"",
+      "\"2026.10.31\" \"삼성\" \"9연승\"",
+      "\"2026.10.31\" \"노시환\" \"307억\"",
+      "\"2026.10.31\" \"세징야\" \"이정효\"",
+      "\"동결건조 두리안 먹은\" \"theqoo.net/square/\"",
+      "\"놀라운 토요일\" \"2026.10.31\" \"설윤\" \"사과\"",
+      "\"2026.10.31\" \"이정효\" \"세징야\" \"2-2\"",
+      "\"2026.10.31\" \"캐릭\" \"신입생\"",
+      "\"2026.10.31\" \"케인\" \"저격\"",
+      "\"2026.10.31\" \"맨유\" \"열차\"",
+      "\"2026.10.31\" \"토트넘\" \"레비\"",
+      "\"2026.10.31\" \"야구\" \"배지환\" \"반지\"",
+      "Manchester United seven minutes train boos Carrick October 30 2026 Mirror",
+      "손흥민 USA TODAY 2026 10 30 첫 골 인정 인터뷰",
+      "배지환 4경기 우승반지 2026 10 30",
+      "밀워키 우승 퍼레이드 2026 10 30 학교 휴교",
+      "\"배지환\" \"우승\" \"반지\" \"2026.10.30\"",
+      "\"밀워키\" \"퍼레이드\" \"2026.10.30\"",
+      "\"2026.10.31\" \"미연\" \"우기\"",
+      "\"2026.10.31\" \"장원영\" \"안유진\" 웃음",
+      "\"2026.10.31\" \"미연\" \"우기\" 웃음",
+      "\"2026.10.31\" \"안유진\" 예능",
+      "\"2026.10.31\" \"카리나\" \"닝닝\"",
+      "\"2026.10.31\" \"리즈\" \"두리안\"",
+      "\"리즈\" \"두리안\" \"2026\" 쑥쑥",
+      "\"2026.10.31\" \"츠키\" \"허경환\"",
+      "\"2026.10.31\" \"해원\" 웃음",
+      "\"2026.10.30\" \"윈터\" \"카리나\" 웃음",
+      "\"엔믹스\" \"1위 소원\" \"2026\"",
+      "\"츠키\" \"허경환\" \"2026\" 발음",
+      "\"2026.10.31\" \"김종국\" \"놀면\"",
+      "\"2026.10.31\" \"발롱도르\" \"나스리\"",
+      "\"손흥민\" \"USA TODAY\" \"October 30\" 2026",
+      "\"휴교령까지\" \"75만명\" \"밀워키\"",
+      "\"2026.10.31\" \"기안84\" \"팬티\"",
+      "\"2026.10.31\" \"태연\" \"미혼\"",
+      "\"2026.10.31\" \"하하\" \"유재석\"",
+      "\"2026.10.31\" \"이상민\" \"빚\"",
+      "\"2026.10.31\" \"모레노\" \"면담\"",
+      "\"2026.10.30\" \"나스리\" \"팟캐스트\"",
+      "\"세계 1위까지 딱 1점\" \"츠베레프\"",
+      "\"2026.10.31\" \"BTS\" \"흉상\"",
+      "\"2026.10.31\" \"르브론\" \"골프\"",
+      "\"2026.10.31\" \"밀워키\" \"105\"",
+      "Zverev Griekspoor Vienna towel electronic board 30 October 2026 world number one",
+      "Neto BTS \"TMC\" \"30\" \"2026\" estátua",
+      "\"손흥민\" \"USA투데이\" \"30일\"",
+      "\"발롱도르\" \"독일 기자\" \"2026\" \"30일\"",
+      "site:mlb.com/news \"Brewers\" \"happiest traffic\" \"2026\"",
+      "site:mlb.com/news \"Brewers\" \"750,000\" \"2026\"",
+      "\"Craque Neto\" \"se desculpa\" \"30/10/2026\"",
+      "\"NMIXX\" \"261030\" \"1위\" \"앵콜\""
     ],
     "opened_urls": [
-      "https://www.fnnews.com/news/202610310900256130",
-      "https://www.xportsnews.com/article/2213807",
-      "https://www.newsen.com/news_view.php?uid=202610301959546110",
-      "https://www.fnnews.com/news/202610310703445198",
-      "https://news.nate.com/view/20261031n02415",
-      "https://www.fnnews.com/news/202610310701103530",
-      "https://www.standard.co.uk/sport/football/tottenham-injury-news-de-zerbi-porro-udogie-mistake-b1302980.html",
-      "https://www.instagram.com/bythepulse/",
-      "https://news.nate.com/view/20261031n06483",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824204",
-      "https://www.newsis.com/soci/list/?cid=10200&page=1&scid=10203",
+      "https://www.starnewskorea.com/sports/2026/10/31/2026103109290489614",
+      "https://famososecelebridades.com.br/noticias/craque-neto-critica-o-bts-ao-vivo-no-donos-da-bola-veja-o-video.phtml",
+      "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016715",
+      "https://www.erstebank-open.com/en/news/storys/zverev-griekspoor-vienna-2026-thursday/",
+      "https://www.interfootball.co.kr/news/articleView.html?idxno=697514",
+      "https://tmc.com.br/entretenimento/craque-neto-se-desculpa-com-fas-do-bts/",
+      "https://www.sport1.de/news/tennis/atp/2026/10/kuriose-panne-vor-zverev-kroenung-zur-nummer-eins",
+      "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016717",
+      "https://www.aol.co.uk/articles/man-utd-flops-booed-passengers-195548000.html",
       "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553661844",
-      "https://www.asiae.co.kr/article/social-general/2026103023462536658",
-      "https://www.topstarnews.net/news/articleView.html?idxno=16264362",
-      "https://www.starnewskorea.com/sports/2026/10/31/2026103016440796276",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824206",
-      "https://www.newsis.com/view/NISX20261031_0003849255",
-      "https://news.nate.com/view/20261030n34934",
-      "https://www.fnnews.com/news/202610310900388676",
-      "https://www.fnnews.com/news/202610311010348535",
-      "https://www.sisajournal.com/news/articleView.html?idxno=392413",
-      "https://news.nate.com/view/20261031n06117"
+      "https://stoo.com/article.php?aid=109632940072",
+      "https://www.instiz.net/pt/7920121",
+      "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100105",
+      "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016671",
+      "https://www.instiz.net/pt/7920116",
+      "https://www.metropoles.com/celebridades/craque-neto-pede-desculpas-apos-criticas-por-fala-sobre-bts-cantam-bem",
+      "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016680",
+      "https://www.mt.co.kr/entertainment/2026/10/31/2026103107364311039",
+      "https://tmc.com.br/entretenimento/craque-neto-critica-bts-donos-bola-xenofobia-fas/",
+      "https://www.mlb.com/news/milwaukee-public-schools-to-close-for-brewers-championship-parade",
+      "https://www.mlb.com/news/brewers-world-series-parade-2026",
+      "https://mhnse.com/news/articleView.html?idxno=1645672",
+      "https://www.interfootball.co.kr/news/articleView.html?idxno=697512",
+      "https://www.mlb.com/news/brewers-2026-world-series-championship-parade",
+      "https://www.starnewskorea.com/sports/2026/10/31/2026103106203815637",
+      "https://www.chosun.com/sports/world-football/2026/10/31/GRTDOOBVGVRTANRXGEZDAOJRMU/",
+      "https://www.bobaedream.co.kr/view?code=best&No=1044189",
+      "https://www.xportsnews.com/article/2213845",
+      "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016466",
+      "https://www.topstarnews.net/news/articleView.html?idxno=16264039",
+      "https://www.ytn.co.kr/_ln/0107_202610311709383822",
+      "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100104",
+      "https://www.youtube.com/watch?v=xiIyXP1nDCk",
+      "https://btcdn.etoland.co.kr/static/media/star02/2026/1031/8b625491-aeb1-4cea-b542-2f0d6bc2f9f9_424123.mp4",
+      "https://etoland.co.kr/hit/star02/view/아이브-두리안-먹고-개큰-충격먹은-리즈-9544144?filter=latest"
     ],
     "unavailable": [
-      "최신main checkout후지정진입점1회exit0.의존성설치·재검사후age207초정상snapshot재사용.검토함20·예비10·확장20 확인",
-      "최근7일sent/uncertain410개사건·URL·자료대조.미발송예비였던기표소·전현무는발송이력으로제외하지않음",
-      "네이트3개후보503·시간초과는반복요청하지않고독립취재로전환.뉴스엔원문은정상200의문자encoding을교정해본문확인",
-      "여돌공식·본인자컨관련검색확대했으나이회차의핵심장면미검증.예고·패션사진·제목만으로scene승인하지않음",
-      "BTP Instagram공개페이지로그인안내만확인.실제게시대조제한을공개sent/uncertain보호및receiver중복검사로보완",
-      "전부major_news로본문사실·발언·검증한계기재.미용실8월20일판결소개·양양1991년재구성은오래된원자료위험으로제외.기발송아르테타·황희찬·골프·디아즈등재기사제외"
+      "최신 main bd102e9의 필수3문서와 최신 콘텐츠 적합성 문서 선행 확인. 지정 수집 진입점1회 exit0, 새 snapshot798개·pool3000, 검토함20·예비10·확장20 확인.",
+      "직접 조사 보조 Python의 기본 인터프리터 requests 부재1회 확인 뒤 이미 준비된 collector-runtime으로 전환. 수집 진입점 실패와 소재0개로 혼동하지 않음.",
+      "최근7일 실제 sent/uncertain410개와 현재 이력·내용키 대조. 기안84 오징어·수건, 모레노96라인·황희찬, 기존 BTP 발롱28점·음바페 중국 등 같은 공개 사실 제외.",
+      "수집 partial은 펨코 직접·네이버 스포츠, 스포츠 영상 수집0. 공식 RSS404 반복 없이 공개 원본·제작사 페이지와 접근 가능한 클립을 직접 확인.",
+      "리즈 공개 클립의2초 간격 실제8프레임과 화면 자막 확인. 공식 원본 publishDate·11:25 챕터와 대조. 음성·전체영상 시청 주장 안 함.",
+      "SPORT1·TMC·대회 공식·MLB 원문을 직접 열어 재기사 이전 원자료 확인. Famosos403·추정 MLB 링크404는 반복하지 않고 정상 원문으로 전환.",
+      "박승수 마이콜은 지난해8월 인터뷰 재활용으로 제외. 츠키 발음 원본은48시간 초과. 손흥민 골취소 인터뷰는 새 최초 발언 시각 불확실로 제외.",
+      "최신 BTP 분석의 실제 게재12개와 캡션·정체성 기준 대조. 모든 게시물·모든 영상을 본다는 주장 없이 확인 가능한 같은 사건을 보호."
     ]
   },
   "picks": [
     {
-      "title": "순방 잦다는 비판에 李 “돼지 눈엔 돼지만”…링거·코피까지 언급",
-      "category": "시사",
-      "url": "https://www.sisajournal.com/news/articleView.html?idxno=392413",
-      "source": "시사저널",
-      "kind": "article",
-      "event_key": "lee-jae-myung-overseas-trip-criticism-x-reply-20261031",
-      "why": "관광이라는 야당 공세에 대통령이 직접 강한 비유로 맞받아친 새 SNS 발언이라 말의 수위와 공방이 선명하다.",
-      "angle": "해외순방 비판에 대통령이 직접 꺼낸 돼지 비유",
-      "why_now": "당사자 X 새 글31일(정확 게시시각 미확인),시사저널13:48:02 취재.29일 국감·30일 설명은 배경,새 발언과 구분.",
-      "verified_at": 1793433492,
-      "published_at": 1793422082,
-      "evidence": [
-        {
-          "url": "https://www.sisajournal.com/news/articleView.html?idxno=392413",
-          "note": "기사 본문에서 네티즌 글 재게시와 대통령의 순방 업무강도 주장·돼지 비유·특정 전직 대통령 실명은 밝히지 않은 점을 확인했다.원 X 게시물 직접 열람은 아님.비판 측 국감 발언도 함께 대조했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.sisajournal.com/news/articleView.html?idxno=392413",
-          "label": "확인한 원문 취재",
-          "kind": "source"
-        }
-      ],
-      "caution": "링거·코피는 본인 주장으로 귀속.누구를 돼지라 지칭했다고 단정 금지.순방 성과 우열을 검증한 기사 아님.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-31",
-        "observation": "기사 본문에서 네티즌 글 재게시와 대통령의 순방 업무강도 주장·돼지 비유·특정 전직 대통령 실명은 밝히지 않은 점을 확인했다.원 X 게시물 직접 열람은 아님.비판 측 국감 발언도 함께 대조했다.",
-        "checked_materials": [],
-        "outline": [
-          "해외순방이 잦다는 야당 비판",
-          "대통령이 업무강도와 기자단을 근거로 반박",
-          "돼지 비유의 수위와 특정 실명 미언급을 구분"
-        ]
-      }
-    },
-    {
-      "title": "포로 조기복귀 판단에 데제르비 “실수했을 수도…의료진만 아닌 나도”",
+      "title": "맨유 기다리느라 열차 7분 지연…선수는 야유, 캐릭은 환호",
       "category": "축구",
-      "url": "https://www.standard.co.uk/sport/football/tottenham-injury-news-de-zerbi-porro-udogie-mistake-b1302980.html",
-      "source": "The Standard",
+      "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697514",
+      "source": "인터풋볼/미러",
       "kind": "article",
-      "event_key": "de-zerbi-porro-early-return-shared-mistake-admission-20261030",
-      "why": "부상 책임을 의료진에 떠넘길 법한 질문에 감독이 자기와 코치진도 함께 판단했다고 선을 긋는 구체적인 답변이다.",
-      "angle": "의료진 탓이 아니라 나도 함께 결정했다",
-      "why_now": "새 기자회견30일 현지,Standard 원취재30일15:32:46UTC=31일00:32:46KST.과거 포로 부상 자체를 새 사건으로 재추천하지 않음.",
-      "verified_at": 1793433530,
-      "published_at": 1793374366,
+      "event_key": "man-united-stockport-train-delay-player-boos-carrick-cheers-20261030",
+      "why": "경기장 밖 일반 열차에서도 선수와 감독의 대접이 갈린다는 맨유 팬의 새 놀림거리다.",
+      "angle": "열차까지 늦춘 맨유, 감독에게만 환호",
+      "why_now": "이동은 30일 영국 현지. 미러 원취재는 30일19:55UTC(31일04:55KST) AOL 전재 날짜와 대조. 한국 후속은31일13:00.",
+      "verified_at": 1793444877,
+      "published_at": 1793419210,
       "evidence": [
         {
-          "url": "https://www.standard.co.uk/sport/football/tottenham-injury-news-de-zerbi-porro-udogie-mistake-b1302980.html",
-          "note": "Standard 본문에서 포로의 복귀를 서두른 결정에 실수가 있었을 수 있고 자신과 스태프도 함께 결정했다는 데제르비의 새 발언을 확인했다.우도기의 지속적인 훈련 불가 설명과 구분했다.회견영상·의료기록 미열람."
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697514",
+          "note": "기사 본문에서 도로 정체→스톡포트역 도착 지연→열차 약7분 대기→일부 선수 야유와 캐릭 환호를 확인했다. 열차 내부 영상이나 승객 인터뷰를 직접 본 검증은 아니다."
+        },
+        {
+          "url": "https://www.aol.co.uk/articles/man-utd-flops-booed-passengers-195548000.html",
+          "note": "미러 Nathan Ridley의 AOL 전재 본문에서30일19:55UTC 게시·스톡포트역 지연과 야유/환호 차이를 대조."
         }
       ],
       "materials": [
         {
-          "url": "https://www.standard.co.uk/sport/football/tottenham-injury-news-de-zerbi-porro-udogie-mistake-b1302980.html",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697514",
           "label": "확인한 원문 취재",
           "kind": "source"
         }
       ],
-      "caution": "의료과실 확정 아님.Maybe라는 유보 표현 유지.기사의 과거 이적연도 등 주변 숫자는 별도 인용하지 않음.",
+      "caution": "미러 인용 보도이며 현장 영상 미시청. 지연은 약7분으로 귀속, 승객 전체의 뜻으로 일반화 금지.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-10-30",
-        "observation": "Standard 본문에서 포로의 복귀를 서두른 결정에 실수가 있었을 수 있고 자신과 스태프도 함께 결정했다는 데제르비의 새 발언을 확인했다.우도기의 지속적인 훈련 불가 설명과 구분했다.회견영상·의료기록 미열람.",
+        "observation": "기사 본문에서 도로 정체→스톡포트역 도착 지연→열차 약7분 대기→일부 선수 야유와 캐릭 환호를 확인했다. 열차 내부 영상이나 승객 인터뷰를 직접 본 검증은 아니다.",
         "checked_materials": [],
         "outline": [
-          "포로를 일찍 투입했다는 과거 판단의 배경",
-          "의료진만의 책임이 아니라는 새 답변",
-          "감독 자신과 코치진도 포함한 공동 책임 인정"
+          "버스가 정체에 갇혀 역에 늦게 도착",
+          "승객을 태운 열차가 선수단을 기다림",
+          "선수 야유와 감독 환호라는 엇갈린 반응"
         ]
       }
     },
     {
-      "title": "비행기 탈 때 처음 모였다…합동훈련도 못 한 연합팀의 韓대회 결승행",
+      "title": "ASMR 하러 온 리즈, 두리안 한입에 “원래 맛이 이래요?”",
+      "category": "아이돌",
+      "url": "https://www.youtube.com/watch?v=xiIyXP1nDCk",
+      "source": "쑥쑥 SsookSsook",
+      "kind": "official",
+      "event_key": "ive-liz-yang-sechan-freeze-dried-durian-reaction-momeoktv-20261030",
+      "why": "조용한 먹방을 하던 리즈와 양세찬이 동시에 얼굴을 찡그리는 반응 자체로 웃음이 회수된다.",
+      "angle": "ASMR을 멈춰 세운 두리안 한입",
+      "why_now": "쑥쑥 원본 최초 공개30일22:00:18KST, 공식 publishDate 확인. 11:25 두리안 챕터와 커뮤니티16초 클립의 실제 연속 프레임 대조. 촬영일 미공개.",
+      "verified_at": 1793444756,
+      "published_at": 1793365218,
+      "evidence": [
+        {
+          "url": "https://www.youtube.com/watch?v=xiIyXP1nDCk",
+          "note": "공개16초 클립에서2초 간격8프레임을 직접 확인했다. 두 사람이 입을 벌리고 얼굴을 찡그린 뒤 리즈가 손으로 입을 가린다. 화면 자막의 “원래 맛이 이래요 이거? 어머” 확인. 음성 청취·전체 영상 시청은 아니다."
+        },
+        {
+          "url": "https://btcdn.etoland.co.kr/static/media/star02/2026/1031/8b625491-aeb1-4cea-b542-2f0d6bc2f9f9_424123.mp4",
+          "note": "다운로드한 실제 클립의2초 간격 연속 프레임8장으로 표정과 화면 자막 확인. 정지 썸네일 검증 아님."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://btcdn.etoland.co.kr/static/media/star02/2026/1031/8b625491-aeb1-4cea-b542-2f0d6bc2f9f9_424123.mp4",
+          "label": "직접 확인한16초 클립",
+          "kind": "video"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=xiIyXP1nDCk",
+          "label": "공식 원본11:25부터",
+          "kind": "source"
+        }
+      ],
+      "caution": "클립 연속 프레임·화면 자막 확인, 음성 미청취. 상업 이용 금지 고지 있어 원본 사용 허락 별도 필요.",
+      "readiness": {
+        "mode": "scene",
+        "event_date": "2026-10-30",
+        "observation": "공개16초 클립에서2초 간격8프레임을 직접 확인했다. 두 사람이 입을 벌리고 얼굴을 찡그린 뒤 리즈가 손으로 입을 가린다. 화면 자막의 “원래 맛이 이래요 이거? 어머” 확인. 음성 청취·전체 영상 시청은 아니다.",
+        "checked_materials": [
+          "https://btcdn.etoland.co.kr/static/media/star02/2026/1031/8b625491-aeb1-4cea-b542-2f0d6bc2f9f9_424123.mp4"
+        ],
+        "outline": [
+          "11:25 동결건조 두리안 구간으로 진입",
+          "동시에 찡그리는 두 사람의 연속 표정",
+          "리즈의 원래 맛 질문 자막으로 회수"
+        ]
+      }
+    },
+    {
+      "title": "BTS “노래 못한다”던 네투, 다음 날 “잘하네…오늘 공연 간다”",
+      "category": "축구",
+      "url": "https://tmc.com.br/entretenimento/craque-neto-se-desculpa-com-fas-do-bts/",
+      "source": "TMC",
+      "kind": "article",
+      "event_key": "craque-neto-bts-apology-concert-attendance-pledge-20261030",
+      "why": "교통 체증에 BTS를 욕하던 축구 레전드가 사과하고 직접 공연에 가겠다는 후속 반전이다.",
+      "angle": "노래 못한다더니, 이번엔 BTS 공연에 가겠다고",
+      "why_now": "사과 방송30일 브라질 현지. TMC 원취재30일18:01:44UTC=31일03:01:44KST. 전날 비판은 배경이며 새 사과와 방문 예고를 추천.",
+      "verified_at": 1793444923,
+      "published_at": 1793383304,
+      "evidence": [
+        {
+          "url": "https://tmc.com.br/entretenimento/craque-neto-se-desculpa-com-fas-do-bts/",
+          "note": "TMC 사과 보도 본문에서 BTS를 몰랐다·노래를 잘한다·용서해 달라·오늘 공연장에 가겠다는 발언을 읽었다. 앞선 비판 보도와 대조했다. 방송 클립 음성·실제 공연 참석 여부는 직접 확인하지 않았다."
+        },
+        {
+          "url": "https://tmc.com.br/entretenimento/craque-neto-critica-bts-donos-bola-xenofobia-fas/",
+          "note": "전날 비판과 흉상 철거 청원을 다룬 선행 보도 본문을 대조. 사과 전 상태로 끝내지 않음."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://tmc.com.br/entretenimento/craque-neto-se-desculpa-com-fas-do-bts/",
+          "label": "확인한 원문 취재",
+          "kind": "source"
+        }
+      ],
+      "caution": "공연 참석은 본인 예고이며 실제 방문 확인 아님. 한국어 인용은 포르투갈어 보도 번역. 영상 미시청.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-30",
+        "observation": "TMC 사과 보도 본문에서 BTS를 몰랐다·노래를 잘한다·용서해 달라·오늘 공연장에 가겠다는 발언을 읽었다. 앞선 비판 보도와 대조했다. 방송 클립 음성·실제 공연 참석 여부는 직접 확인하지 않았다.",
+        "checked_materials": [],
+        "outline": [
+          "교통 혼잡을 이유로 BTS를 비난한 전날 방송",
+          "몰랐는데 노래를 잘하더라는 사과",
+          "오늘 공연장에 가겠다는 본인 예고"
+        ]
+      }
+    },
+    {
+      "title": "세계1위까지 한 점…스매시에 고장 난 광고판, 수건 덮고 경기 재개",
       "category": "메이저 스포츠",
-      "url": "https://www.starnewskorea.com/sports/2026/10/31/2026103016440796276",
+      "url": "https://www.sport1.de/news/tennis/atp/2026/10/kuriose-panne-vor-zverev-kroenung-zur-nummer-eins",
+      "source": "SPORT1",
+      "kind": "article",
+      "event_key": "zverev-vienna-match-point-broken-led-board-towel-fix-20261029",
+      "why": "역사적인 한 점 직전에 심판이 두드리고 상대가 발로 차다 결국 수건으로 덮는 해결이 웃음 포인트다.",
+      "angle": "세계1위까지 한 점, 광고판은 수건으로 해결",
+      "why_now": "경기29일 빈 현지(30일KST). SPORT1 원취재29일20:37:17UTC=30일05:37:17KST. 최초 공개가48시간 이내이며31일 한국 재기사 시각으로 바꾸지 않음.",
+      "verified_at": 1793444893,
+      "published_at": 1793306237,
+      "evidence": [
+        {
+          "url": "https://www.sport1.de/news/tennis/atp/2026/10/kuriose-panne-vor-zverev-kroenung-zur-nummer-eins",
+          "note": "SPORT1 본문에서 매치포인트를 만든 스매시→전자판 고장→심판의 손 두드림·그릭스푸어의 발차기→빨간 수건으로 가린 뒤 에이스로 종료를 확인했다. 대회 공식 기사로 상대·결과·차기랭킹1위 확정 대조. 동작 영상 미시청."
+        },
+        {
+          "url": "https://www.erstebank-open.com/en/news/storys/zverev-griekspoor-vienna-2026-thursday/",
+          "note": "대회 공식 본문에서29일 경기와6-4·7-5 승리 및11월2일1위 등극 예정 확인."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.sport1.de/news/tennis/atp/2026/10/kuriose-panne-vor-zverev-kroenung-zur-nummer-eins",
+          "label": "확인한 원문 취재",
+          "kind": "source"
+        }
+      ],
+      "caution": "기사 본문 검증이며 동작 영상 미시청. 랭킹1위는11월2일 발표 예정, 이미 공식 랭킹 변경됐다고 쓰지 않음.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-29",
+        "observation": "SPORT1 본문에서 매치포인트를 만든 스매시→전자판 고장→심판의 손 두드림·그릭스푸어의 발차기→빨간 수건으로 가린 뒤 에이스로 종료를 확인했다. 대회 공식 기사로 상대·결과·차기랭킹1위 확정 대조. 동작 영상 미시청.",
+        "checked_materials": [],
+        "outline": [
+          "1위 확정까지 단 한 점 남은 순간",
+          "고장 난 광고판을 손과 발로 고치려는 시도",
+          "수건으로 덮고 서브 에이스로 경기 종료"
+        ]
+      }
+    },
+    {
+      "title": "307억 계약에 ML 조항 넣더니…노시환, 실제 포스팅 요청",
+      "category": "메이저 스포츠",
+      "url": "https://www.ytn.co.kr/_ln/0107_202610311709383822",
+      "source": "YTN",
+      "kind": "article",
+      "event_key": "noh-si-hwan-hanwha-307-billion-won-contract-mlb-posting-request-20261031",
+      "why": "역대 최대 계약을 맺은 타자가 계약 속 미국 진출 조항을 실제로 꺼냈다는 한국 야구 팬의 새 관심사다.",
+      "angle": "307억 계약 뒤, 실제로 꺼낸 메이저리그 조항",
+      "why_now": "KBO의 MLB 사무국 포스팅 요청 발표31일, 정확 최초 발표시각 미확인. YTN 원취재31일17:09 공개.2월 계약 체결 자체를 새 소식으로 제시하지 않음.",
+      "verified_at": 1793444535,
+      "published_at": 1793434140,
+      "evidence": [
+        {
+          "url": "https://www.ytn.co.kr/_ln/0107_202610311709383822",
+          "note": "YTN 본문에서 한화 요청에 따른 KBO 포스팅 요청·고지 다음날부터30일 협상·11년307억원 계약의ML 진출 조항을 확인했다. MLB 계약 체결이나307억원 실제 포기가 확정됐다는 보도는 아니다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.ytn.co.kr/_ln/0107_202610311709383822",
+          "label": "확인한 원문 취재",
+          "kind": "source"
+        }
+      ],
+      "caution": "포스팅 요청과 MLB 계약은 구분.307억원을 이미 포기했다는 단정 금지. 계약서·KBO 원문 미열람.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-31",
+        "observation": "YTN 본문에서 한화 요청에 따른 KBO 포스팅 요청·고지 다음날부터30일 협상·11년307억원 계약의ML 진출 조항을 확인했다. MLB 계약 체결이나307억원 실제 포기가 확정됐다는 보도는 아니다.",
+        "checked_materials": [],
+        "outline": [
+          "2월 맺은11년307억원 계약 속ML 조항",
+          "한화 요청에 따라 KBO가 실제 포스팅 요청",
+          "고지 후30일 협상, 성사 여부는 아직 미정"
+        ]
+      }
+    },
+    {
+      "title": "이기면 승격 확정인데…이정효는 관중석, 수원은 2-0을 놓쳤다",
+      "category": "축구",
+      "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016715",
+      "source": "SPOTV NEWS",
+      "kind": "article",
+      "event_key": "suwon-daegu-two-goal-lead-draw-promotion-delay-lee-suspended-20261031",
+      "why": "수원 팬이 기다린 승격 확정 기회에 감독은 징계로 관중석에 있고 두 골 우위까지 사라진 새 경기의 결말이다.",
+      "angle": "승격 축포 앞두고, 두 골 차가 사라졌다",
+      "why_now": "경기31일16:30KST 시작, 종료 뒤 현장 기자회견18:59:28 공개. 당일 새 경기·새 코치 발언으로 검토. 경기 영상 최초 공개 정밀시각은 미확인.",
+      "verified_at": 1793444573,
+      "published_at": 1793440768,
+      "evidence": [
+        {
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016715",
+          "note": "SPOTV 현장 본문에서 이랜드 패배로 수원 승리 시 조기 승격 확정 가능·대구전2-0에서2-2·이정효 경고누적 징계·마철준 코치의 분위기에 흔들린 것은 사실이라는 답변을 확인했다. 실제 경기 영상 미시청."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016715",
+          "label": "확인한 원문 취재",
+          "kind": "source"
+        }
+      ],
+      "caution": "기사형 사실 카드. 승격 실패 확정이 아니라 조기 확정 기회를 놓친 것. 팬 전체 책임으로 해석 금지.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-31",
+        "observation": "SPOTV 현장 본문에서 이랜드 패배로 수원 승리 시 조기 승격 확정 가능·대구전2-0에서2-2·이정효 경고누적 징계·마철준 코치의 분위기에 흔들린 것은 사실이라는 답변을 확인했다. 실제 경기 영상 미시청.",
+        "checked_materials": [],
+        "outline": [
+          "이랜드 패배로 열린 조기 승격 확정 기회",
+          "징계 중인 감독과2골 리드의 상황",
+          "동점 허용 뒤 코치가 인정한 분위기 영향"
+        ]
+      }
+    },
+    {
+      "title": "5년 연속 꼴찌가 개막9연승…서울 삼성, KBL 처음으로 1라운드 전승",
+      "category": "메이저 스포츠",
+      "url": "https://www.starnewskorea.com/sports/2026/10/31/2026103106203815637",
       "source": "스타뉴스",
       "kind": "article",
-      "event_key": "long-beach-independent-composite-team-first-met-plane-interview-20261030",
-      "why": "한 구단처럼 보였던 팀이 사실 비행기에서 처음 만난 여러 구단 선수들이었다는 정체 반전과 한국 팬의 비교 포인트가 있다.",
-      "angle": "한국행 비행기에서 처음 모인 선수들이 한 팀이었다",
-      "why_now": "감독 인터뷰·준결승30일,취재31일 공개(기사 정밀시각 미확인).결승 전 인터뷰로11경기 무패는 당시 기록,31일 결승 결과로 제시하지 않음.",
-      "verified_at": 1793433444,
-      "published_at": null,
+      "event_key": "seoul-samsung-five-last-place-seasons-first-opening-nine-wins-20261030",
+      "why": "오랫동안 꼴찌 밈이던 팀이 리그 최초 기록의 주인공이 된 대비가 농구 팬에게 바로 전달된다.",
+      "angle": "5년 꼴찌가, 이번엔 리그 최초가 됐다",
+      "why_now": "기록 달성 경기30일KST 저녁. 스타뉴스31일07:11:46KST 공개(메타22:11:46UTC). 경기 종료 정밀시각·최초 기록 공지시각은 미확인.",
+      "verified_at": 1793444535,
+      "published_at": 1793398306,
       "evidence": [
         {
-          "url": "https://www.starnewskorea.com/sports/2026/10/31/2026103016440796276",
-          "note": "스타뉴스 현장 인터뷰에서 멕시코팀 불참으로 생긴 기회·여러 독립리그 구단 연합 구성·비행기에 오를 때 처음 모였고 합동훈련 기회 없었다는 감독 설명을 확인했다.나이·경험 차이를 인정한 대목도 읽었다."
+          "url": "https://www.starnewskorea.com/sports/2026/10/31/2026103106203815637",
+          "note": "본문에서5시즌 연속 최하위·개막9연승과 첫1라운드 전승·소노전3쿼터 실책9개와 맥컬러 퇴장 뒤 역전 위기 극복을 확인했다. 김상식의 꿈만 같다는 소감도 읽었다. 경기 영상·공식 기록표 직접 열람은 아니다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.starnewskorea.com/sports/2026/10/31/2026103016440796276",
+          "url": "https://www.starnewskorea.com/sports/2026/10/31/2026103106203815637",
           "label": "확인한 원문 취재",
           "kind": "source"
         }
       ],
-      "caution": "독립리그 단일 구단의 정규 선수단으로 오인 금지.한국 야구 전체가 열세라는 일반화 금지.결승 결과 미반영.",
+      "caution": "시즌 우승 확정 아님. 경기·기록은 기사 본문 검증이며 영상 미시청. 일반 승리 소식보다 과거와 신기록 대비에 초점.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-10-30",
-        "observation": "스타뉴스 현장 인터뷰에서 멕시코팀 불참으로 생긴 기회·여러 독립리그 구단 연합 구성·비행기에 오를 때 처음 모였고 합동훈련 기회 없었다는 감독 설명을 확인했다.나이·경험 차이를 인정한 대목도 읽었다.",
+        "observation": "본문에서5시즌 연속 최하위·개막9연승과 첫1라운드 전승·소노전3쿼터 실책9개와 맥컬러 퇴장 뒤 역전 위기 극복을 확인했다. 김상식의 꿈만 같다는 소감도 읽었다. 경기 영상·공식 기록표 직접 열람은 아니다.",
         "checked_materials": [],
         "outline": [
-          "멕시코팀 불참 뒤 급히 구성된 연합팀",
-          "한국행 비행기에 오를 때 첫 집결했다는 감독 설명",
-          "한국 어린 선수들과 나이·경험 차이가 있다는 단서"
+          "5년 연속 최하위라는 팬들의 익숙한 과거",
+          "퇴장과 역전 위기를 넘긴 소노전",
+          "KBL 최초 개막9연승·1라운드 전승"
         ]
       }
     },
     {
-      "title": "홍대 펜스 끊기자 보행자 뒤엉켰다…이태원엔 장갑차까지",
+      "title": "김광규를 “얘”라 부른 유재석…돌아온 말 “너도 서진이 닮아가냐”",
       "category": "시사",
-      "url": "https://www.asiae.co.kr/article/social-general/2026103023462536658",
-      "source": "아시아경제",
-      "kind": "article",
-      "event_key": "halloween-hongdae-fence-gap-itaewon-security-field-report-20261030",
-      "why": "우측통행을 시켜도 사진 찍는 지점과 클럽 대기 줄에서 흐름이 끊겨 현장 대응이 필요한 구체적인 생활 안전 장면이다.",
-      "angle": "펜스가 끝난 곳에서 통행 흐름도 끊겼다",
-      "why_now": "현장 취재30일21~22시KST,원기사31일00:21:38 공개.31일 밤 상황 예측과30일 실제 관찰을 혼동하지 않음.",
-      "verified_at": 1793433574,
-      "published_at": 1793373698,
-      "evidence": [
-        {
-          "url": "https://www.asiae.co.kr/article/social-general/2026103023462536658",
-          "note": "아시아경제 기자의 현장 취재 본문에서 펜스 끝 버스킹존의 혼잡·클럽 줄로 좁아진 보행공간·경찰의 긴급 펜스 설치를 확인했다.이태원 장갑차·경찰견과 시민 반응도 읽었다.기사 사진·영상을 직접 봤다는 검증 아님."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.asiae.co.kr/article/social-general/2026103023462536658",
-          "label": "확인한 원문 취재",
-          "kind": "source"
-        }
-      ],
-      "caution": "9.2만명은30일22시 홍대 일대 경찰 추산.오늘 인원·사고 발생으로 쓰지 않음.안전 확보를 확정하는 보도 아님.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-30",
-        "observation": "아시아경제 기자의 현장 취재 본문에서 펜스 끝 버스킹존의 혼잡·클럽 줄로 좁아진 보행공간·경찰의 긴급 펜스 설치를 확인했다.이태원 장갑차·경찰견과 시민 반응도 읽었다.기사 사진·영상을 직접 봤다는 검증 아님.",
-        "checked_materials": [],
-        "outline": [
-          "우측통행이 유지되다가 버스킹존에서 끊기는 흐름",
-          "클럽 대기 줄 때문에 차도로 내려온 보행자",
-          "긴급 동선 분리와 이태원 대비 상황"
-        ]
-      }
-    },
-    {
-      "title": "경찰 오자 소주 마시며 “어떻게 할 거냐”…정리 뒤 또 운전한20대",
-      "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824206",
-      "source": "SBS/연합뉴스",
-      "kind": "article",
-      "event_key": "pyeongtaek-road-rage-post-crash-drinking-repeat-driving-verdict-20261031",
-      "why": "보복운전 사고 뒤 측정을 방해하려고 술을 마시고,현장 정리가 끝나자 또 운전해 적발된 연속 행동이 황당하다.",
-      "angle": "경찰 앞에서 마신 술,그 상태로 다시 잡은 운전대",
-      "why_now": "새 법원 취재31일09:42 공개.범행3/26 새벽이며 선고 정확일은 기사 미기재.사고가 오늘 일어났다고 쓰지 않음.",
-      "verified_at": 1793433469,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824206",
-          "note": "SBS 연합뉴스 인용 본문에서1.1㎞ 보복운전·충돌 뒤 편의점 소주 구매·측정 방해·현장 정리 뒤0.178% 상태 재운전·징역1년을 확인했다.판결문과 블랙박스 영상은 직접 열람하지 않았다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824206",
-          "label": "확인한 원문 취재",
-          "kind": "source"
-        }
-      ],
-      "caution": "술타기 방법 안내보다 실제 행동과 처벌 결말에 초점.징역1년은 보복운전·손괴·측정방해 등 함께 판단한 결과.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-31",
-        "observation": "SBS 연합뉴스 인용 본문에서1.1㎞ 보복운전·충돌 뒤 편의점 소주 구매·측정 방해·현장 정리 뒤0.178% 상태 재운전·징역1년을 확인했다.판결문과 블랙박스 영상은 직접 열람하지 않았다.",
-        "checked_materials": [],
-        "outline": [
-          "째려봤다는 이유의 추격·급정거 사고",
-          "경찰 출동 뒤 소주를 사 마신 대응",
-          "현장 정리 뒤 재운전으로 이어진 결말"
-        ]
-      }
-    },
-    {
-      "title": "정석원 “초반 말썽 피웠다”…백지영이 “평소 그런 사람이었다면” 꺼낸 답",
-      "category": "시사",
-      "url": "https://www.xportsnews.com/article/2213807",
+      "url": "https://www.xportsnews.com/article/2213845",
       "source": "엑스포츠뉴스",
       "kind": "article",
-      "event_key": "baek-ji-young-jung-seok-won-couple-new-video-response-20261031",
-      "why": "남편이 잘못을 인정한 자리에서 아내가 무조건 용서한 것이 아니라 평소 알던 사람이라 보듬었다고 선을 긋는 새 대화다.",
-      "angle": "무조건 보듬은 게 아니라 어떤 사람인지 알았다는 답",
-      "why_now": "본인 유튜브31일 새 공개(정확 게시시각 미확인),기사15:12:51.2018년 처벌은 배경이며 새 범죄·새 법원 결론으로 포장하지 않음.",
-      "verified_at": 1793433490,
-      "published_at": 1793427171,
+      "event_key": "yoo-jae-suk-kim-kwang-kyu-kid-address-lee-seo-jin-banter-20261031",
+      "why": "비서진 속 형 대접 농담이 다른 방송까지 넘어와 김광규가 이서진을 소환하는 대사로 회수된다.",
+      "angle": "일일 비서가 형을 “얘”라고 불렀다",
+      "why_now": "31일18:30 시작한 놀면 뭐하니 본방의 새 대화. 엑스포츠 원취재19:03:40 공개. 촬영일·해당 대사 방송 분초는 미공개/미확인. 예고 기사가 아닌 본방 취재.",
+      "verified_at": 1793444840,
+      "published_at": 1793441020,
       "evidence": [
         {
-          "url": "https://www.xportsnews.com/article/2213807",
-          "note": "본문에서 선우용여와 부부가 결혼 초 갈등을 이야기하고,정석원이 잘못을 인정하자 백지영이 평소의 사람됨을 알아 보듬었다고 답한 내용을 확인했다.본인 채널 영상 직접 시청은 아님."
+          "url": "https://www.xportsnews.com/article/2213845",
+          "note": "본문에서 주우재가 리센느 편 눈물을 언급→유재석의 얘가 언제→김광규의 너도 서진이 닮아가냐와 멱살 농담→어려 보여서라는 수습을 확인했다. 실제 방송 구간 영상은 보지 않았다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.xportsnews.com/article/2213807",
+          "url": "https://www.xportsnews.com/article/2213845",
           "label": "확인한 원문 취재",
           "kind": "source"
         }
       ],
-      "caution": "본인들의 새 문답으로 귀속.사법적 면책·마약 옹호로 확대 해석 금지.과거 유죄 사건을 오늘 사건으로 쓰지 않음.",
+      "caution": "본문 대사로 제작하는 사실 카드. 멱살은 예능 농담 맥락, 실제 불화로 쓰지 않음. 영상 미시청.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-10-31",
-        "observation": "본문에서 선우용여와 부부가 결혼 초 갈등을 이야기하고,정석원이 잘못을 인정하자 백지영이 평소의 사람됨을 알아 보듬었다고 답한 내용을 확인했다.본인 채널 영상 직접 시청은 아님.",
+        "observation": "본문에서 주우재가 리센느 편 눈물을 언급→유재석의 얘가 언제→김광규의 너도 서진이 닮아가냐와 멱살 농담→어려 보여서라는 수습을 확인했다. 실제 방송 구간 영상은 보지 않았다.",
         "checked_materials": [],
         "outline": [
-          "부부가 초반 갈등과 방황을 인정",
-          "정석원이 말썽을 피웠다고 직접 표현",
-          "평소 어떤 사람인지 알았다는 백지영의 설명"
+          "비서가 돼준다는 명분으로 시작한 만남",
+          "유재석이 형을 얘라고 부른 대목",
+          "이서진 소환과 어려 보여서라는 수습"
         ]
       }
     },
     {
-      "title": "촬영거절 식당 방송 논란 뒤에도 “사전 섭외 안 한다”…새 회차 전현무",
-      "category": "시사",
-      "url": "https://www.newsen.com/news_view.php?uid=202610301959546110",
-      "source": "뉴스엔",
+      "title": "우승 퍼레이드에 학교도 휴교…밀워키 경찰 추산75만명 운집",
+      "category": "메이저 스포츠",
+      "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016671",
+      "source": "SPOTV NEWS/MLB",
       "kind": "article",
-      "event_key": "jun-hyun-moo-plan-new-episode-no-prior-booking-20261030",
-      "why": "가게 선택권 논란이 생긴 프로그램이 새 회차에서도 즉석 섭외 방식을 강조해 방송 편의와 가게 권리를 묻게 한다.",
-      "angle": "이번엔 허락받았다…사전 섭외 없다는 설명은 계속",
-      "why_now": "새 방송30일 전현무계획4 18회,뉴스엔 원문30일21:40:30 공개.23일 거절 식당은 배경이며 새 거절 사건으로 다루지 않음.",
-      "verified_at": 1793433571,
-      "published_at": 1793364030,
+      "event_key": "brewers-championship-parade-school-closure-750000-police-estimate-20261030",
+      "why": "우승 소식의 반복이 아니라 학교 문까지 닫고 도시가 퍼레이드에 합류한 팬 문화의 구체적인 후속이다.",
+      "angle": "야구팀 우승하자, 학교까지 쉬었다",
+      "why_now": "퍼레이드30일 미국 중부 현지(31일KST). MLB 현장 원취재30일 현지 공개, 정밀 최초 게시시각 미확인. SPOTV31일10:14 후속.29일 우승 자체와 구분.",
+      "verified_at": 1793444813,
+      "published_at": 1793409240,
       "evidence": [
         {
-          "url": "https://www.newsen.com/news_view.php?uid=202610301959546110",
-          "note": "뉴스엔 원문 본문에서 새 국숫집 방문 중 사전 섭외 없이 간다는 설명·네명 촬영 허락 요청·점주 수락을 확인했다.이번에 거절을 무시한 것은 아니다.23일 논란은 배경 대조만 했다.원방송 직접 시청 아님."
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016671",
+          "note": "SPOTV 현장 인용 본문에서 공립학교 휴교·밀워키 경찰의75만명 초과 추산·선수와 팬의 축하 행사를 확인했다. MLB 학교 휴교 원문도 대조했다. 현장 영상 시청·군중 독립 계수는 하지 않았다."
+        },
+        {
+          "url": "https://www.mlb.com/news/milwaukee-public-schools-to-close-for-brewers-championship-parade",
+          "note": "MLB 본문에서 MPS가 행사 운영·안전 영향을 이유로 학교와 교육청 휴무를 발표했다고 확인."
+        },
+        {
+          "url": "https://www.mlb.com/news/brewers-2026-world-series-championship-parade",
+          "note": "MLB 원취재 본문에서 실제30일 현지 퍼레이드·학교 휴교·경찰75만명 초과 추산을 추가 대조. 영상 미시청."
         }
       ],
       "materials": [
         {
-          "url": "https://www.newsen.com/news_view.php?uid=202610301959546110",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016671",
           "label": "확인한 원문 취재",
           "kind": "source"
         }
       ],
-      "caution": "새 사과·새 거절·촬영 강행으로 쓰지 않음.논란 때문에 이 말을 했다는 의도 추정 금지.",
+      "caution": "75만명은 경찰 추산, 독립 집계 아님. 우승 경기와 별개인 새 퍼레이드. 사진·영상 직접 검증 아님.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-10-30",
-        "observation": "뉴스엔 원문 본문에서 새 국숫집 방문 중 사전 섭외 없이 간다는 설명·네명 촬영 허락 요청·점주 수락을 확인했다.이번에 거절을 무시한 것은 아니다.23일 논란은 배경 대조만 했다.원방송 직접 시청 아님.",
+        "observation": "SPOTV와 MLB 원취재 본문을 직접 읽어 실제30일 현지 퍼레이드·공립학교 휴교·경찰의75만명 초과 추산을 대조했다. MLB의 선행 휴교 안내에서는 운영·안전상의 이유도 확인했다. 현장 영상 시청·군중 독립 계수는 하지 않았다.",
         "checked_materials": [],
         "outline": [
-          "사전 섭외 없이 방문한다는 새 회차 설명",
-          "촬영 허락을 묻고 점주가 수락한 실제 진행",
-          "이전 촬영 거절권 논란과 이번 허락을 구분"
+          "첫 월드시리즈 우승 뒤 예정된 퍼레이드",
+          "행사 운영·안전을 이유로 공립학교 휴교",
+          "경찰 추산75만명 이상이 모인 축하 행사"
         ]
       }
     },
     {
-      "title": "개표 끝난 다음날 단톡방에 올린 투표지…벌금50만원",
-      "category": "시사",
-      "url": "https://www.fnnews.com/news/202610310701103530",
-      "source": "연합뉴스/파이낸셜뉴스",
+      "title": "인간극장에서 빌었던 소원…엔믹스, “뮤뱅1위 정말 이뤄졌다”",
+      "category": "아이돌",
+      "url": "https://stoo.com/article.php?aid=109632940072",
+      "source": "스포츠투데이",
       "kind": "article",
-      "event_key": "daegu-voted-ballot-photo-next-day-chat-fine-report-20261031",
-      "why": "선거가 끝난 뒤 올렸어도 투표 비밀 문제가 남는다는 시점의 반전과 실제 벌금이 있는 권리 소재다.",
-      "angle": "이미 끝난 선거인데 투표지 사진은 왜 문제됐나",
-      "why_now": "새 법원 취재31일07:01:14.촬영6/3·공유6/4이며 선고 정확일 미기재.과거 행위와 새 재판 취재를 구분.",
-      "verified_at": 1793433445,
-      "published_at": 1793397674,
+      "event_key": "nmixx-haewon-birthday-wish-music-bank-win-human-theater-wish-payoff-20261030",
+      "why": "긴 소원이라는 노래로 1위를 한 뒤 자컨에서 빌었던 소원을 직접 회수한 해원의 대사가 팬에게 작지만 완결된 이야기다.",
+      "angle": "긴 소원 부르더니, 빌었던 소원이 이뤄졌다",
+      "why_now": "새 수상 소감30일 뮤직뱅크 본방. 최초 확인 기사30일18:45, 스포츠투데이19:02. 자컨 소원 장면의 예전 날짜를 신규 공개로 바꾸지 않고 이번 수상 대사를 추천.",
+      "verified_at": 1793444804,
+      "published_at": 1793354520,
       "evidence": [
         {
-          "url": "https://www.fnnews.com/news/202610310701103530",
-          "note": "연합뉴스 본문에서6/3 기표소 사진 촬영·6/4 09:14 단톡방 게시·벌금50만원을 확인했다.법원은 개표 종료 뒤 게시라 정치적 영향 의도는 없어 보인다고 양형에 고려했다.판결문 직접 열람 아님."
+          "url": "https://stoo.com/article.php?aid=109632940072",
+          "note": "스포츠투데이 본문에서 해원이 아이돌 인간극장에서 뮤직뱅크1위 소원을 빌었는데 이뤄졌다고 말하고 함께 소원 빌어준 앤써에게 감사했다고 확인했다. 수상은7775점. 자컨·앙코르 영상 직접 시청은 아니다."
+        },
+        {
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16264039",
+          "note": "30일18:45 본방 취재로1위 결과와 해원의 소원 발언 독립 대조."
         }
       ],
       "materials": [
         {
-          "url": "https://www.fnnews.com/news/202610310701103530",
+          "url": "https://stoo.com/article.php?aid=109632940072",
           "label": "확인한 원문 취재",
           "kind": "source"
         }
       ],
-      "caution": "투표 인증사진 전체 금지로 일반화 금지.투표소 밖 단순 인증과 기표된 투표지 사진을 구분.",
+      "caution": "수상 소감 기사 본문 확인, 자컨·앙코르 영상 미시청. 과거 소원 장면을 이번 새 장면처럼 사용하지 않음.",
       "readiness": {
         "mode": "major_news",
-        "event_date": "2026-10-31",
-        "observation": "연합뉴스 본문에서6/3 기표소 사진 촬영·6/4 09:14 단톡방 게시·벌금50만원을 확인했다.법원은 개표 종료 뒤 게시라 정치적 영향 의도는 없어 보인다고 양형에 고려했다.판결문 직접 열람 아님.",
+        "event_date": "2026-10-30",
+        "observation": "스포츠투데이 본문에서 해원이 아이돌 인간극장에서 뮤직뱅크1위 소원을 빌었는데 이뤄졌다고 말하고 함께 소원 빌어준 앤써에게 감사했다고 확인했다. 수상은7775점. 자컨·앙코르 영상 직접 시청은 아니다.",
         "checked_materials": [],
         "outline": [
-          "기표소에서 자기 투표지를 촬영",
-          "개표 종료 뒤 다음날 단톡방 게시",
-          "법원이 처벌과 영향 의도 부재를 함께 판단"
+          "이전 자컨에서 빌었던 뮤직뱅크1위 소원",
+          "긴 소원으로 실제1위를 받은 이번 방송",
+          "해원이 자컨 소원을 다시 꺼낸 감사 대사"
         ]
       }
     },
     {
-      "title": "“나 감방서 나왔다” 출소 나흘 만에 슈퍼 위협…경찰 경고에도 반복",
-      "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824204",
-      "source": "SBS/연합뉴스",
+      "title": "4경기 뛴 배지환도 우승반지?…2경기 후 방출된 선수까지 수령 전망",
+      "category": "메이저 스포츠",
+      "url": "https://mhnse.com/news/articleView.html?idxno=1645672",
+      "source": "MHN",
       "kind": "article",
-      "event_key": "chuncheon-four-days-after-release-supermarket-stalking-sentence-20261031",
-      "why": "출소했다는 사실을 위협의 말로 쓰고 경찰 경고 뒤에도 되찾아간 행동이 다시 실형으로 돌아오는 사건이다.",
-      "angle": "감방에서 나왔다는 인사가 또 감방으로 이어졌다",
-      "why_now": "새 법원 취재31일09:35:07 공개.첫 방문6월,반복7~8월,선고 정확일 미기재.갱신13:29를 최초 기사 시각으로 사용하지 않음.",
-      "verified_at": 1793433444,
-      "published_at": 1793406907,
-      "evidence": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824204",
-          "note": "본문에서 출소 나흘 뒤 슈퍼 점주 위협·잠근 문 발로 차기·경찰 경고와 분리 뒤 반복 방문·징역1년 및 치료40시간을 확인했다.다른 피해자 주소 유출 사건과 별개.판결문·CCTV 직접 열람 아님."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824204",
-          "label": "확인한 원문 취재",
-          "kind": "source"
-        }
-      ],
-      "caution": "피해자 신원·가게 위치 추정 금지.기사 사진은 사건 현장 아닌 자료 사진.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-31",
-        "observation": "본문에서 출소 나흘 뒤 슈퍼 점주 위협·잠근 문 발로 차기·경찰 경고와 분리 뒤 반복 방문·징역1년 및 치료40시간을 확인했다.다른 피해자 주소 유출 사건과 별개.판결문·CCTV 직접 열람 아님.",
-        "checked_materials": [],
-        "outline": [
-          "출소 나흘 만에 점주에게 꺼낸 위협",
-          "경찰 경고에도 반복 방문",
-          "피해 회복 없었다는 법원의 실형 이유"
-        ]
-      }
-    },
-    {
-      "title": "누수 보상 받고 수리 안 했다…옛 피해 섞어5504만원 또 청구한70대",
-      "category": "시사",
-      "url": "https://www.fnnews.com/news/202610310703445198",
-      "source": "뉴시스/파이낸셜뉴스",
-      "kind": "article",
-      "event_key": "incheon-unrepaired-water-leak-old-damage-new-claim-fraud-20261031",
-      "why": "이전 보상금은 받았는데 피해를 그대로 둔 채 새 누수 피해처럼 섞어 또 청구했다는 수법과 미수 결말이 구체적이다.",
-      "angle": "수리 안 한 옛 누수 피해가 새 청구서에 다시 등장했다",
-      "why_now": "뉴시스 새 법원 취재31일07:00·전재07:03:47.청구2025/5/19,기존 피해2024/1/29.선고 정확일 미기재,새 범행으로 쓰지 않음.",
-      "verified_at": 1793433573,
-      "published_at": 1793397827,
-      "evidence": [
-        {
-          "url": "https://www.fnnews.com/news/202610310703445198",
-          "note": "뉴시스 전재 본문에서 기존 누수 보상1280만원 뒤 미복구·기존/새 피해 구분 안 된 사진 기반 견적서로5504만8000원 청구·보험사 지급 거절로 미수·정식재판에서도 벌금200만원 유지한 사실을 확인했다.원사진·판결문 미열람."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.fnnews.com/news/202610310703445198",
-          "label": "확인한 원문 취재",
-          "kind": "source"
-        }
-      ],
-      "caution": "5504만원을 실제 받아 챙긴 사건 아님.피해 전액이 새 누수라는 주장은 법원에서 배척됨.일반 보험 청구 조언 아님.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-31",
-        "observation": "뉴시스 전재 본문에서 기존 누수 보상1280만원 뒤 미복구·기존/새 피해 구분 안 된 사진 기반 견적서로5504만8000원 청구·보험사 지급 거절로 미수·정식재판에서도 벌금200만원 유지한 사실을 확인했다.원사진·판결문 미열람.",
-        "checked_materials": [],
-        "outline": [
-          "이전 누수 보상 뒤 수리하지 않은 피해",
-          "옛 피해와 새 피해가 섞인 사진으로 재청구",
-          "보험사가 거절해 미수,정식재판도 벌금 유지"
-        ]
-      }
-    },
-    {
-      "title": "22명 탄 낚싯배 화재…진화 나선 해경까지 연기 마셔 병원으로",
-      "category": "시사",
-      "url": "https://www.fnnews.com/news/202610311010348535",
-      "source": "뉴스1/파이낸셜뉴스",
-      "kind": "article",
-      "event_key": "yeongheung-fishing-boat-fire-rescuers-smoke-inhalation-20261031",
-      "why": "낚시 나간 바다에서 불이 나 구조·진화에 나선 사람까지 다친 상황과 빠른 진압의 전후가 구체적인 사건이다.",
-      "angle": "불난 배의 선장과 진화하던 해경이 함께 병원으로",
-      "why_now": "발생31일06:51 신고,07:22 진화.뉴스1 원취재31일10:10 확인.정밀 최초 구조자료 게시시각 미확인.",
-      "verified_at": 1793433458,
+      "event_key": "bae-ji-hwan-championship-ring-eligibility-after-brewers-title-20261030",
+      "why": "포스트시즌 명단에 없던 한국 선수에게도 반지가 갈 수 있다는 규정 밖 구단 재량의 의외성이 있다.",
+      "angle": "4경기만 뛰어도, 우승반지가 올 수 있다",
+      "why_now": "현지 새 반지 전망 보도30일KST, MHN30일 공개(정밀시각 미확인).8월 출전·29일 우승은 배경.배지환 수령 공식 발표가 아니라 새 우승 뒤 지급 가능성 검토로 예비.",
+      "verified_at": 1793444743,
       "published_at": null,
       "evidence": [
         {
-          "url": "https://www.fnnews.com/news/202610311010348535",
-          "note": "뉴스1 전재 본문에서22명 승선·선장과 해경 등4명 연기 흡입·생명 지장 없음·신고31분 뒤 진화·합선 추정과 원인조사 진행을 확인했다.구조영상 직접 시청 아님."
+          "url": "https://mhnse.com/news/articleView.html?idxno=1645672",
+          "note": "MHN 본문에서 배지환의4경기 출전·포스트시즌 미등록·맥컬러스2경기 후 방출과 반지 전망·지급 여부는 구단 결정이며 아직 개별 대상 공식 발표 없음을 확인했다. 지급 확정 자료는 없다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.fnnews.com/news/202610311010348535",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1645672",
           "label": "확인한 원문 취재",
           "kind": "source"
         }
       ],
-      "caution": "합선은 잠정 추정이며 확정 원인 아님.사망사고처럼 쓰지 않음.실제 영상 시청 검증 아님.",
+      "caution": "예비 후보. 반지 수령 확정 아님.10월18일의 조건부 전망 기사와 구분하며 실제 지급 결정이 나왔다고 쓰지 않음.",
       "readiness": {
         "mode": "major_news",
-        "event_date": "2026-10-31",
-        "observation": "뉴스1 전재 본문에서22명 승선·선장과 해경 등4명 연기 흡입·생명 지장 없음·신고31분 뒤 진화·합선 추정과 원인조사 진행을 확인했다.구조영상 직접 시청 아님.",
+        "event_date": "2026-10-30",
+        "observation": "MHN 본문에서 배지환의4경기 출전·포스트시즌 미등록·맥컬러스2경기 후 방출과 반지 전망·지급 여부는 구단 결정이며 아직 개별 대상 공식 발표 없음을 확인했다. 지급 확정 자료는 없다.",
         "checked_materials": [],
         "outline": [
-          "22명이 탄 낚싯배에서 발생한 불",
-          "선장과 진화 인력까지 연기 흡입",
-          "31분 뒤 진화와 아직 조사 중인 원인"
-        ]
-      }
-    },
-    {
-      "title": "전조등이 얼굴 비췄다고 차 막고 손날치기…운전자 폭행50대 실형",
-      "category": "시사",
-      "url": "https://www.fnnews.com/news/202610310900388676",
-      "source": "뉴스1/파이낸셜뉴스",
-      "kind": "article",
-      "event_key": "busan-headlight-face-driver-assault-repeat-offender-sentence-20261031",
-      "why": "차의 불빛이 얼굴에 닿았다는 이유로 차를 막고 질문한 운전자를 때렸다는 반응의 불균형이 뚜렷하다.",
-      "angle": "왜 그러세요 물은 운전자에게 돌아온 손날치기",
-      "why_now": "뉴스1 새 법원 취재31일09:00:41 전재.범행2/9 17:15,선고 정확일 미기재.옛 범행을 새 현장 사건으로 다루지 않음.",
-      "verified_at": 1793433573,
-      "published_at": 1793404841,
-      "evidence": [
-        {
-          "url": "https://www.fnnews.com/news/202610310900388676",
-          "note": "뉴스1 본문에서 차량을 막고 운전자의 뺨·목을 가격한 경위·누범기간·반복 처벌 전력·피해자 용서 못 받은 점·징역6개월을 확인했다.택시인지 본문 미명시로 일반 운전자로만 기록.판결문 미열람."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.fnnews.com/news/202610310900388676",
-          "label": "확인한 원문 취재",
-          "kind": "source"
-        }
-      ],
-      "caution": "운전자 직업·차종 추정 금지.출소 나흘 뒤 슈퍼 스토킹 사건과 지역·범죄·수량을 구분.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-31",
-        "observation": "뉴스1 본문에서 차량을 막고 운전자의 뺨·목을 가격한 경위·누범기간·반복 처벌 전력·피해자 용서 못 받은 점·징역6개월을 확인했다.택시인지 본문 미명시로 일반 운전자로만 기록.판결문 미열람.",
-        "checked_materials": [],
-        "outline": [
-          "전조등 불빛에 화가 나 차량을 가로막기",
-          "창문 열고 묻는 운전자를 폭행",
-          "누범과 반복 전력을 고려한 실형"
+          "4경기 출전 뒤 마이너로 내려간 배지환",
+          "2경기 뒤 떠난 선수도 반지를 받을 수 있다는 새 전망",
+          "구단 재량이며 대상 확정은 아직 없다는 한계"
         ]
       }
     }
