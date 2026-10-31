@@ -1,6 +1,874 @@
 {
   "version": 1,
   "items": {
+    "f30f05c558fa": {
+      "source": "뉴스핌",
+      "title": "벙커에서 서로 남의 공을 쳤다…김주형·캠벨 나란히2벌타",
+      "link": "https://www.newspim.com/news/view/20261031000031",
+      "first_seen_at": 1793423079,
+      "last_seen_at": 1793423079,
+      "samples": [
+        {
+          "at": 1793423079,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "f30f05c558fa",
+      "editorial": {
+        "title": "벙커에서 서로 남의 공을 쳤다…김주형·캠벨 나란히2벌타",
+        "category": "메이저 스포츠",
+        "url": "https://www.newspim.com/news/view/20261031000031",
+        "source": "뉴스핌",
+        "kind": "article",
+        "event_key": "kim-joo-hyung-brian-campbell-wrong-ball-bunker-20261031",
+        "why": "한 명의 실수를 상대도 똑같이 반복해 둘 다 다시 치고 벌타까지 받는 황당한 교차 실수다.",
+        "angle": "내 공인 줄 알고 쳤는데 상대도 내 공을 쳤다",
+        "why_now": "경기31일KST,뉴스핌08:52 첫 취재 공개 확인.원중계의 정확한 공개 시각 미확인.수집 시각을 경기 시각으로 사용하지 않음.",
+        "verified_at": 1793422578,
+        "published_at": 1793404320,
+        "evidence": [
+          {
+            "url": "https://www.newspim.com/news/view/20261031000031",
+            "note": "본문에서멕시코오픈2R 마지막9번홀 그린 앞 벙커에서각자 상대 공을 쳐2벌타·자기 공으로 재플레이·둘 다 더블보기한 사실을 확인했다.김주형은직전17홀 보기 없이5타 줄였다.원중계·스코어카드 직접 확인은 아님."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.newspim.com/news/view/20261031000031",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "뉴스핌 본문 취재 확인. 원중계 직접 시청은 아님. 고의로 공을 바꿨다는 추정 금지.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-31",
+          "observation": "본문에서멕시코오픈2R 마지막9번홀 그린 앞 벙커에서각자 상대 공을 쳐2벌타·자기 공으로 재플레이·둘 다 더블보기한 사실을 확인했다.김주형은직전17홀 보기 없이5타 줄였다.원중계·스코어카드 직접 확인은 아님.",
+          "checked_materials": [],
+          "outline": [
+            "두 공이 나란히 놓인 벙커 상황",
+            "김주형과캠벨이서로 상대 공을 쳤다는 대칭 반전",
+            "각각2벌타 후 자기 공으로 다시 쳐더블보기"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.newspim.com/news/view/20261031000031"
+          }
+        ],
+        "excerpt": "",
+        "context": "경기31일KST,뉴스핌08:52 첫 취재 공개 확인.원중계의 정확한 공개 시각 미확인.수집 시각을 경기 시각으로 사용하지 않음.",
+        "fetched_at": 1793423079,
+        "parser_revision": 7
+      },
+      "curation_event_key": "kim-joo-hyung-brian-campbell-wrong-ball-bunker-20261031"
+    },
+    "7944f7d37037": {
+      "source": "머니투데이",
+      "title": "보안점검 메일에 개인정보 엑셀 첨부…벤처캐피탈협회 공식 사과",
+      "link": "https://www.mt.co.kr/future/2026/10/31/2026103109573829581",
+      "first_seen_at": 1793423079,
+      "last_seen_at": 1793423079,
+      "samples": [
+        {
+          "at": 1793423079,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "7944f7d37037",
+      "editorial": {
+        "title": "보안점검 메일에 개인정보 엑셀 첨부…벤처캐피탈협회 공식 사과",
+        "category": "시사",
+        "url": "https://www.mt.co.kr/future/2026/10/31/2026103109573829581",
+        "source": "머니투데이",
+        "kind": "article",
+        "event_key": "kvca-security-check-email-wrong-attachment-disclosure-20261030",
+        "why": "해킹을 막으려던 보안점검 메일 자체가 개인정보 유출 경로가 됐고, 삭제 확인서까지 받게 된 모순이다.",
+        "angle": "보안 강화 메일에 개인정보 원자료를 잘못 붙였다",
+        "why_now": "오발송28일10:18,당일 인지·29일 삭제확인.새 정보주체 통지·공식사과30일(시각 미확인),원취재31일10:32.발생과공개를 구분.",
+        "verified_at": 1793422689,
+        "published_at": 1793410320,
+        "evidence": [
+          {
+            "url": "https://www.mt.co.kr/future/2026/10/31/2026103109573829581",
+            "note": "머니투데이 본문에서186명에게 보안 취약점 현황 파악 메일을 보내며 개인정보 파일을 오첨부한 경위·30일 통지와사과·배포양식과원자료 분리 대책을 확인했다.통지문 원본과파일은 열람하지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.mt.co.kr/future/2026/10/31/2026103109573829581",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "186명은 메일 수신자 수. 피해자 전체 수로 단정 금지. 오발송28일·공식 사과30일을 구분.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-30",
+          "observation": "머니투데이 본문에서186명에게 보안 취약점 현황 파악 메일을 보내며 개인정보 파일을 오첨부한 경위·30일 통지와사과·배포양식과원자료 분리 대책을 확인했다.통지문 원본과파일은 열람하지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "보안점검 양식 대신 개인정보 엑셀 발송",
+            "회원사 제보 뒤삭제·재전송 금지 확인서 요청",
+            "30일 통지와공식사과,양식·원자료 분리 대책"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.mt.co.kr/future/2026/10/31/2026103109573829581"
+          }
+        ],
+        "excerpt": "",
+        "context": "오발송28일10:18,당일 인지·29일 삭제확인.새 정보주체 통지·공식사과30일(시각 미확인),원취재31일10:32.발생과공개를 구분.",
+        "fetched_at": 1793423079,
+        "parser_revision": 7
+      },
+      "curation_event_key": "kvca-security-check-email-wrong-attachment-disclosure-20261030"
+    },
+    "3ea78f6df7e7": {
+      "source": "IBTimes UK",
+      "title": "NBA5회 우승 하퍼,AI 배구 캐릭터에 댓글…“몰랐는지”는 미확인",
+      "link": "https://www.ibtimes.co.uk/ron-harper-ai-volleyball-personality-jokes-1829001",
+      "first_seen_at": 1793423079,
+      "last_seen_at": 1793423079,
+      "samples": [
+        {
+          "at": 1793423079,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "3ea78f6df7e7",
+      "editorial": {
+        "title": "NBA5회 우승 하퍼,AI 배구 캐릭터에 댓글…“몰랐는지”는 미확인",
+        "category": "메이저 스포츠",
+        "url": "https://www.ibtimes.co.uk/ron-harper-ai-volleyball-personality-jokes-1829001",
+        "source": "IBTimes UK",
+        "kind": "article",
+        "event_key": "ron-harper-ai-volleyball-comment-shared-20261030",
+        "why": "NBA 레전드가 AI 캐릭터에 남긴 공개 댓글로 놀림받는 현실과 가상의 반전이다.",
+        "angle": "댓글은 사실, AI에 속았다는 판정은 팬들의 해석",
+        "why_now": "공개 댓글 캡처 확산30일(정확시각 미확인).IBTimes 원취재30일11:28UTC=20:28KST 확인.31일한국 재기사를 최초 공개로 쓰지 않음.",
+        "verified_at": 1793422738,
+        "published_at": 1793359681,
+        "evidence": [
+          {
+            "url": "https://www.ibtimes.co.uk/ron-harper-ai-volleyball-personality-jokes-1829001",
+            "note": "IBTimes 본문에서가상 배구 인터뷰에하퍼가 You said it... 댓글을 남겼고Hater Report가30일 캡처를 공유한 경위를 확인했다.기사는AI인지 알았는지·농담이었는지 하퍼 설명이 없다고 명시한다.원댓글·영상 직접 확인 아님."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.ibtimes.co.uk/ron-harper-ai-volleyball-personality-jokes-1829001",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "AI임을 몰랐는지·농담인지 미확인. 실존 배구 선수로 소개하거나 속았다고 확정하지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-30",
+          "observation": "IBTimes 본문에서가상 배구 인터뷰에하퍼가 You said it... 댓글을 남겼고Hater Report가30일 캡처를 공유한 경위를 확인했다.기사는AI인지 알았는지·농담이었는지 하퍼 설명이 없다고 명시한다.원댓글·영상 직접 확인 아님.",
+          "checked_materials": [],
+          "outline": [
+            "가상선수 인터뷰에달린하퍼의짧은 공개 댓글",
+            "캡처 공유 뒤팬들의AI 작업 조롱",
+            "AI임을 몰랐다는 단정은멈추기"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.ibtimes.co.uk/ron-harper-ai-volleyball-personality-jokes-1829001"
+          }
+        ],
+        "excerpt": "",
+        "context": "공개 댓글 캡처 확산30일(정확시각 미확인).IBTimes 원취재30일11:28UTC=20:28KST 확인.31일한국 재기사를 최초 공개로 쓰지 않음.",
+        "fetched_at": 1793423079,
+        "parser_revision": 7
+      },
+      "curation_event_key": "ron-harper-ai-volleyball-comment-shared-20261030"
+    },
+    "0c2b64036861": {
+      "source": "OSEN/머니투데이",
+      "title": "디아즈,가족 악플 공개하며 “앞으로 요구하지 말라…변호사와 얘기”",
+      "link": "https://www.mt.co.kr/sports/2026/10/31/202610310805775400O",
+      "first_seen_at": 1793423079,
+      "last_seen_at": 1793423079,
+      "samples": [
+        {
+          "at": 1793423079,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "0c2b64036861",
+      "editorial": {
+        "title": "디아즈,가족 악플 공개하며 “앞으로 요구하지 말라…변호사와 얘기”",
+        "category": "메이저 스포츠",
+        "url": "https://www.mt.co.kr/sports/2026/10/31/202610310805775400O",
+        "source": "OSEN/머니투데이",
+        "kind": "article",
+        "event_key": "samsung-diaz-family-abuse-sns-response-20261030",
+        "why": "경기 부진 비판이 가족 계정까지 넘어가자 선수가 공개적으로 팬 응대의 선을 그었다.",
+        "angle": "야구는 선수가 했는데 가족까지 공격받았다",
+        "why_now": "30일PO4차전 뒤SNS 공개·계정닫았다 재개(정확 시각 미확인).OSEN취재31일09:15 전재 확인.6월의이전 호소와 이번 새 글을구분.",
+        "verified_at": 1793422689,
+        "published_at": 1793405700,
+        "evidence": [
+          {
+            "url": "https://www.mt.co.kr/sports/2026/10/31/202610310805775400O",
+            "note": "OSEN 전재 본문에서30일 경기 뒤디아즈가자신과아내 대상 악성댓글을 공개하고가족공격 중단·앞으로요구하지말라는당부·변호사를 통한소통을 언급한 사실을 확인했다.원인스타스토리 직접 열람은 아님."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.mt.co.kr/sports/2026/10/31/202610310805775400O",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "당사자의 새 SNS 글을 취재한 기사. 원스토리 미열람. 가족 건강 악화의 의학적 인과는 미확인.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-30",
+          "observation": "OSEN 전재 본문에서30일 경기 뒤디아즈가자신과아내 대상 악성댓글을 공개하고가족공격 중단·앞으로요구하지말라는당부·변호사를 통한소통을 언급한 사실을 확인했다.원인스타스토리 직접 열람은 아님.",
+          "checked_materials": [],
+          "outline": [
+            "30일경기후가족 대상악성댓글 공개",
+            "팬 응대요구를삼가고변호사와대화하라는새 글",
+            "선수비판과가족공격의경계를묻기"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.mt.co.kr/sports/2026/10/31/202610310805775400O"
+          }
+        ],
+        "excerpt": "",
+        "context": "30일PO4차전 뒤SNS 공개·계정닫았다 재개(정확 시각 미확인).OSEN취재31일09:15 전재 확인.6월의이전 호소와 이번 새 글을구분.",
+        "fetched_at": 1793423079,
+        "parser_revision": 7
+      },
+      "curation_event_key": "samsung-diaz-family-abuse-sns-response-20261030"
+    },
+    "3eceb2134052": {
+      "source": "엑스포츠뉴스",
+      "title": "지석진 “광고 많이 들어오는데 무산”…그 광고 찍은 양세찬의 한마디",
+      "link": "https://www.xportsnews.com/article/2213768",
+      "first_seen_at": 1793423079,
+      "last_seen_at": 1793423079,
+      "samples": [
+        {
+          "at": 1793423079,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "3eceb2134052",
+      "editorial": {
+        "title": "지석진 “광고 많이 들어오는데 무산”…그 광고 찍은 양세찬의 한마디",
+        "category": "시사",
+        "url": "https://www.xportsnews.com/article/2213768",
+        "source": "엑스포츠뉴스",
+        "kind": "article",
+        "event_key": "pinggyego-ji-seok-jin-ad-fee-yang-se-chan-20261031",
+        "why": "광고가 무산된다는 선배 앞에 그 광고를 대신 찍은 후배가 앉아 있어 이유까지 바로 회수되는 예능 반전이다.",
+        "angle": "광고료를 많이 불렀더니 옆자리 후배가 찍었다",
+        "why_now": "뜬뜬풍향중후일담31일공개(기사날짜확인·공식정밀시각미확인),기사11:34:06.촬영일미공개.예고·등록시각과본편공개일을혼동하지않음.",
+        "verified_at": 1793422717,
+        "published_at": 1793414046,
+        "evidence": [
+          {
+            "url": "https://www.xportsnews.com/article/2213768",
+            "note": "본문에서지석진이최종단계광고무산을말하자양세찬이광고료를낮추라했고,지석진도자신이거절한광고를양세찬이찍었다고인정한대화를확인했다.광고주발언은양세찬의전언,공식영상시청아님."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.xportsnews.com/article/2213768",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "본문 속 예능 대화 확인. 정확한 광고료·계약서는 미확인. 광고주 발언은 양세찬의 전언.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-31",
+          "observation": "본문에서지석진이최종단계광고무산을말하자양세찬이광고료를낮추라했고,지석진도자신이거절한광고를양세찬이찍었다고인정한대화를확인했다.광고주발언은양세찬의전언,공식영상시청아님.",
+          "checked_materials": [],
+          "outline": [
+            "이성민의광고촬영축하로시작",
+            "자꾸최종무산된다는지석진의푸념",
+            "양세찬의가격지적과지석진의인정으로반전"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.xportsnews.com/article/2213768"
+          }
+        ],
+        "excerpt": "",
+        "context": "뜬뜬풍향중후일담31일공개(기사날짜확인·공식정밀시각미확인),기사11:34:06.촬영일미공개.예고·등록시각과본편공개일을혼동하지않음.",
+        "fetched_at": 1793423079,
+        "parser_revision": 7
+      },
+      "curation_event_key": "pinggyego-ji-seok-jin-ad-fee-yang-se-chan-20261031"
+    },
+    "7f0095df3d54": {
+      "source": "머니투데이",
+      "title": "새 아파트 헬스장은 완공됐는데 수개월째 잠금…주민은 외부에 또 돈",
+      "link": "https://www.mt.co.kr/estate/2026/10/30/2026102714141348668",
+      "first_seen_at": 1793423079,
+      "last_seen_at": 1793423079,
+      "samples": [
+        {
+          "at": 1793423079,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "7f0095df3d54",
+      "editorial": {
+        "title": "새 아파트 헬스장은 완공됐는데 수개월째 잠금…주민은 외부에 또 돈",
+        "category": "시사",
+        "url": "https://www.mt.co.kr/estate/2026/10/30/2026102714141348668",
+        "source": "머니투데이",
+        "kind": "article",
+        "event_key": "new-apartment-community-gym-opening-cost-delay-report-20261030",
+        "why": "집 앞에 완성된 시설을 두고도 운영비 분담이 안 돼 외부 헬스장에 더 비싼 돈을 내는 생활의 모순이다.",
+        "angle": "시설 완공과 운영 시작 사이에 숨은 돈싸움",
+        "why_now": "현장취재30일04:30 최초공개·09:15갱신.29일업계확인,익명입주민은상반기입주후수개월지연.현재새취재이며개별단지발생정확일미확인.",
+        "verified_at": 1793422679,
+        "published_at": 1793302200,
+        "evidence": [
+          {
+            "url": "https://www.mt.co.kr/estate/2026/10/30/2026102714141348668",
+            "note": "머니투데이본문에서입대위구성과운영방식·인건비분담지연으로시설을못쓰는익명입주민사례,사전업체선정으로순차개장한반포단지의대조사례를확인했다.단지계약서·장부·주민현장직접확인은아님."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.mt.co.kr/estate/2026/10/30/2026102714141348668",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "익명 단지의 현장 취재. 모든 신축 단지로 일반화 금지. 반포 대조 사례와 폐쇄 단지를 혼동하지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-30",
+          "observation": "머니투데이본문에서입대위구성과운영방식·인건비분담지연으로시설을못쓰는익명입주민사례,사전업체선정으로순차개장한반포단지의대조사례를확인했다.단지계약서·장부·주민현장직접확인은아님.",
+          "checked_materials": [],
+          "outline": [
+            "사전점검에서본헬스장이입주후수개월폐쇄",
+            "이용자수는적어도인건비·전기료는발생",
+            "입주전운영업체선정·순차개장한대조사례"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.mt.co.kr/estate/2026/10/30/2026102714141348668"
+          }
+        ],
+        "excerpt": "",
+        "context": "현장취재30일04:30 최초공개·09:15갱신.29일업계확인,익명입주민은상반기입주후수개월지연.현재새취재이며개별단지발생정확일미확인.",
+        "fetched_at": 1793423079,
+        "parser_revision": 7
+      },
+      "curation_event_key": "new-apartment-community-gym-opening-cost-delay-report-20261030"
+    },
+    "47ad6aaffb4d": {
+      "source": "연합뉴스/파이낸셜뉴스",
+      "title": "PO표50여장 매크로로 사들여3~6배 되팔았다…600만원 챙긴10대 검거",
+      "link": "https://www.fnnews.com/news/202610310945311271",
+      "first_seen_at": 1793423079,
+      "last_seen_at": 1793423079,
+      "samples": [
+        {
+          "at": 1793423079,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "47ad6aaffb4d",
+      "editorial": {
+        "title": "PO표50여장 매크로로 사들여3~6배 되팔았다…600만원 챙긴10대 검거",
+        "category": "메이저 스포츠",
+        "url": "https://www.fnnews.com/news/202610310945311271",
+        "source": "연합뉴스/파이낸셜뉴스",
+        "kind": "article",
+        "event_key": "busan-postseason-macro-50-tickets-teen-arrest-announced-20261031",
+        "why": "팬들은 표를 못 구하는데 한 사람이50여장을 선점해 몇 배로 되팔았다는 손익과 단속 결과가 구체적이다.",
+        "angle": "12차례 선점하고9차례 되팔아600만원",
+        "why_now": "경찰발표·연합뉴스원취재31일09:45.구매15~16일,검거28일은한국일보본문대조.새수사공개와과거매매일을구분.",
+        "verified_at": 1793422862,
+        "published_at": 1793407531,
+        "evidence": [
+          {
+            "url": "https://www.fnnews.com/news/202610310945311271",
+            "note": "연합뉴스전재본문에서부산경찰의10대검거발표·매크로12회50여장구매·9회3~6배재판매·약600만원수익을확인했다.한국일보는검거28일이라고기재.압수자료·매매내역직접열람아님."
+          },
+          {
+            "url": "https://www.hankookilbo.com/news/article/amp/A2026103111400002786",
+            "note": "동일사건검거일28일·19세대학생·업무방해혐의를추가취재한본문대조"
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.fnnews.com/news/202610310945311271",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "수사 혐의 단계. 10/25 대구30대1366장 사건과 별개. 매매15~16일·검거28일·발표31일.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-31",
+          "observation": "연합뉴스전재본문에서부산경찰의10대검거발표·매크로12회50여장구매·9회3~6배재판매·약600만원수익을확인했다.한국일보는검거28일이라고기재.압수자료·매매내역직접열람아님.",
+          "checked_materials": [],
+          "outline": [
+            "일반팬과경쟁한매크로50여장선점",
+            "3~6배가격·9회판매로600만원수익혐의",
+            "31일새경찰발표와문체부후속조치예정"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.fnnews.com/news/202610310945311271"
+          }
+        ],
+        "excerpt": "",
+        "context": "경찰발표·연합뉴스원취재31일09:45.구매15~16일,검거28일은한국일보본문대조.새수사공개와과거매매일을구분.",
+        "fetched_at": 1793423079,
+        "parser_revision": 7
+      },
+      "curation_event_key": "busan-postseason-macro-50-tickets-teen-arrest-announced-20261031"
+    },
+    "c02128e4477d": {
+      "source": "AFP/theScore",
+      "title": "16세 다우먼 감싸라는 비판에 아르테타 “여긴 디즈니랜드 아니다”",
+      "link": "https://m.thescore.com/news/3639400/arteta-fires-disneyland-warning-at-arsenals-dowman-after-red-card",
+      "first_seen_at": 1793423079,
+      "last_seen_at": 1793423079,
+      "samples": [
+        {
+          "at": 1793423079,
+          "views": null,
+          "reactions": null,
+          "rank": 8,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "c02128e4477d",
+      "editorial": {
+        "title": "16세 다우먼 감싸라는 비판에 아르테타 “여긴 디즈니랜드 아니다”",
+        "category": "축구",
+        "url": "https://m.thescore.com/news/3639400/arteta-fires-disneyland-warning-at-arsenals-dowman-after-red-card",
+        "source": "AFP/theScore",
+        "kind": "article",
+        "event_key": "arteta-defends-dowman-treatment-friday-press-conference-20261030",
+        "why": "16세 유망주에게 가혹하다는 비판에 감독이 보호와 공정한 경쟁 기준을 함께 요구한 새 발언이다.",
+        "angle": "보호는 하지만 다른 선수처럼 뛸 자격을 증명해야 한다",
+        "why_now": "새기자회견30일현지금요일·AFP취재30일(정밀시각미확인).퇴장경기는27일현지의배경이며오늘일어난퇴장으로재포장하지않음.",
+        "verified_at": 1793422808,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://m.thescore.com/news/3639400/arteta-fires-disneyland-warning-at-arsenals-dowman-after-red-card",
+            "note": "AFP전재본문에서아르테타가30일기자회견에서디즈니랜드비유·16세도동일기준요구·다우먼과전날대화해문제없다는설명을한내용을확인했다.회견영상직접시청아님.기존퇴장경기는배경으로만검토."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://m.thescore.com/news/3639400/arteta-fires-disneyland-warning-at-arsenals-dowman-after-red-card",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "30일 새 기자회견의 AFP 취재. 퇴장 경기는27일 배경. 회견 영상 시청·선수와 불화 확정 아님.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-30",
+          "observation": "AFP전재본문에서아르테타가30일기자회견에서디즈니랜드비유·16세도동일기준요구·다우먼과전날대화해문제없다는설명을한내용을확인했다.회견영상직접시청아님.기존퇴장경기는배경으로만검토.",
+          "checked_materials": [],
+          "outline": [
+            "16세선수에게가혹하다는지적의배경",
+            "보호와동일기준을함께요구한새회견답변",
+            "전날대화했고관계문제없다는설명"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://m.thescore.com/news/3639400/arteta-fires-disneyland-warning-at-arsenals-dowman-after-red-card"
+          }
+        ],
+        "excerpt": "",
+        "context": "새기자회견30일현지금요일·AFP취재30일(정밀시각미확인).퇴장경기는27일현지의배경이며오늘일어난퇴장으로재포장하지않음.",
+        "fetched_at": 1793423079,
+        "parser_revision": 7
+      },
+      "curation_event_key": "arteta-defends-dowman-treatment-friday-press-conference-20261030"
+    },
+    "4df8565be227": {
+      "source": "연합뉴스/전남일보",
+      "title": "“내 오토바이 열쇠로 우연히 시동”…스쿠터 열쇠 절도범 변명 기각",
+      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000078327",
+      "first_seen_at": 1793423079,
+      "last_seen_at": 1793423079,
+      "samples": [
+        {
+          "at": 1793423079,
+          "views": null,
+          "reactions": null,
+          "rank": 9,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "4df8565be227",
+      "editorial": {
+        "title": "“내 오토바이 열쇠로 우연히 시동”…스쿠터 열쇠 절도범 변명 기각",
+        "category": "시사",
+        "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000078327",
+        "source": "연합뉴스/전남일보",
+        "kind": "article",
+        "event_key": "chuncheon-scooter-key-theft-own-key-defense-sentence-20261031",
+        "why": "남의 스쿠터에 시동이 걸린 이유를 우연이라고 하자 법원이 열쇠의 기능으로 반박하는 황당한 공방이다.",
+        "angle": "우연히 시동이 걸렸다는 말을 법원은 믿지 않았다",
+        "why_now": "새법원취재31일09:14:22전재확인.범행8월,선고정확일미기재.31일이범행일·판결선고일이라고쓰지않음.",
+        "verified_at": 1793422677,
+        "published_at": 1793405662,
+        "evidence": [
+          {
+            "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000078327",
+            "note": "연합뉴스전재본문에서절도부인주장과법원의배척이유·출소한달이내재범·징역1년6개월을확인했다.절도뿐아니라공무원위협·손괴·침입도함께재판받은사건이다.판결문미열람."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000078327",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "새 법원 취재31일, 범행8월. 절도 외 공무원 위협·손괴·침입도 함께 재판받은 사건.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-31",
+          "observation": "연합뉴스전재본문에서절도부인주장과법원의배척이유·출소한달이내재범·징역1년6개월을확인했다.절도뿐아니라공무원위협·손괴·침입도함께재판받은사건이다.판결문미열람.",
+          "checked_materials": [],
+          "outline": [
+            "전동스쿠터에꽂힌열쇠를훔친공소사실",
+            "자기열쇠로우연히시동됐다는피고인주장",
+            "열쇠특성상납득어렵다는법원반박"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000078327"
+          }
+        ],
+        "excerpt": "",
+        "context": "새법원취재31일09:14:22전재확인.범행8월,선고정확일미기재.31일이범행일·판결선고일이라고쓰지않음.",
+        "fetched_at": 1793423079,
+        "parser_revision": 7
+      },
+      "curation_event_key": "chuncheon-scooter-key-theft-own-key-defense-sentence-20261031"
+    },
+    "4fcf396a96eb": {
+      "source": "OSEN",
+      "title": "“거품키스 애드리브예요?” 묻자 이서진 정색…김광규 “거품 말이야”",
+      "link": "https://www.osen.co.kr/article/G1112901707",
+      "first_seen_at": 1793423079,
+      "last_seen_at": 1793423079,
+      "samples": [
+        {
+          "at": 1793423079,
+          "views": null,
+          "reactions": null,
+          "rank": 10,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "4fcf396a96eb",
+      "editorial": {
+        "title": "“거품키스 애드리브예요?” 묻자 이서진 정색…김광규 “거품 말이야”",
+        "category": "시사",
+        "url": "https://www.osen.co.kr/article/G1112901707",
+        "source": "OSEN",
+        "kind": "article",
+        "event_key": "biseojin-ha-ji-won-coffee-foam-kiss-adlib-misunderstanding-20261030",
+        "why": "키스와 거품을 각자 다르게 이해해 아슬아슬한 질문으로 튀었다가 바로 정정되는 예능 반전이다.",
+        "angle": "김광규가 궁금했던 건 키스가 아니라 거품이었다",
+        "why_now": "새방송30일SBS비서진(정밀방송시각미확인),OSEN취재31일08:32.옛시크릿가든장면이아닌이번새출연자문답을검토.",
+        "verified_at": 1793422846,
+        "published_at": 1793403120,
+        "evidence": [
+          {
+            "url": "https://www.osen.co.kr/article/G1112901707",
+            "note": "OSEN본문에서김광규의애드리브질문·이서진과하지원반응·거품을묻힌것을물었다는정정·대본에있었다는하지원설명을확인했다.원방송직접시청아님,대본실물미열람."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.osen.co.kr/article/G1112901707",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "본문 속 새 방송 문답 확인. 실제 성추행·애드리브 키스가 있었다는 오해 금지. 원방송 시청 아님.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-30",
+          "observation": "OSEN본문에서김광규의애드리브질문·이서진과하지원반응·거품을묻힌것을물었다는정정·대본에있었다는하지원설명을확인했다.원방송직접시청아님,대본실물미열람.",
+          "checked_materials": [],
+          "outline": [
+            "시크릿가든거품장면비하인드질문",
+            "키스가애드리브라는뜻으로받아들인반응",
+            "거품질문이었다는정정과대본설명으로회수"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.osen.co.kr/article/G1112901707"
+          }
+        ],
+        "excerpt": "",
+        "context": "새방송30일SBS비서진(정밀방송시각미확인),OSEN취재31일08:32.옛시크릿가든장면이아닌이번새출연자문답을검토.",
+        "fetched_at": 1793423079,
+        "parser_revision": 7
+      },
+      "curation_event_key": "biseojin-ha-ji-won-coffee-foam-kiss-adlib-misunderstanding-20261030"
+    },
+    "fb7f47fb7079": {
+      "source": "연합뉴스/파이낸셜뉴스",
+      "title": "개표 끝난 다음날 단톡방에 올린 투표지…벌금50만원",
+      "link": "https://www.fnnews.com/news/202610310701103530",
+      "first_seen_at": 1793423079,
+      "last_seen_at": 1793423079,
+      "samples": [
+        {
+          "at": 1793423079,
+          "views": null,
+          "reactions": null,
+          "rank": 11,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "fb7f47fb7079",
+      "editorial": {
+        "title": "개표 끝난 다음날 단톡방에 올린 투표지…벌금50만원",
+        "category": "시사",
+        "url": "https://www.fnnews.com/news/202610310701103530",
+        "source": "연합뉴스/파이낸셜뉴스",
+        "kind": "article",
+        "event_key": "daegu-voted-ballot-photo-next-day-chat-fine-report-20261031",
+        "why": "선거가 끝난 뒤 올려도 투표 비밀 문제가 남는다는 시점의 반전과 실제 벌금이 있는 권리 소재다.",
+        "angle": "이미 끝난 선거인데 투표지 사진은 왜 문제됐나",
+        "why_now": "새법원취재31일07:01:14.촬영6/3·공유6/4이며선고일정확일미기재.과거행위에대한새재판보도를검토.",
+        "verified_at": 1793422577,
+        "published_at": 1793397674,
+        "evidence": [
+          {
+            "url": "https://www.fnnews.com/news/202610310701103530",
+            "note": "연합뉴스본문에서6/3기표소사진촬영·6/4 09:14단톡방게시·벌금50만원을확인했다.법원은정치적영향의도는없어보여양형에고려했다고설명했다.판결문직접열람아님."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.fnnews.com/news/202610310701103530",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "새 법원 취재31일, 촬영·공유6월. 투표소 밖 단순 인증과 기표된 투표지 촬영을 구분.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-31",
+          "observation": "연합뉴스본문에서6/3기표소사진촬영·6/4 09:14단톡방게시·벌금50만원을확인했다.법원은정치적영향의도는없어보여양형에고려했다고설명했다.판결문직접열람아님.",
+          "checked_materials": [],
+          "outline": [
+            "기표소에서자기투표지를사진으로저장",
+            "개표종료뒤다음날단톡방게시",
+            "법원이처벌과영향의도없는점을함께판단"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.fnnews.com/news/202610310701103530"
+          }
+        ],
+        "excerpt": "",
+        "context": "새법원취재31일07:01:14.촬영6/3·공유6/4이며선고일정확일미기재.과거행위에대한새재판보도를검토.",
+        "fetched_at": 1793423079,
+        "parser_revision": 7
+      },
+      "curation_event_key": "daegu-voted-ballot-photo-next-day-chat-fine-report-20261031"
+    },
+    "c2cc2ba007d3": {
+      "source": "뉴스엔/네이트",
+      "title": "촬영거절 방송 논란 뒤 새회차서도 “미리 섭외 안 한다” 전현무",
+      "link": "https://news.nate.com/view/20261030n34934",
+      "first_seen_at": 1793423079,
+      "last_seen_at": 1793423079,
+      "samples": [
+        {
+          "at": 1793423079,
+          "views": null,
+          "reactions": null,
+          "rank": 12,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "c2cc2ba007d3",
+      "editorial": {
+        "title": "촬영거절 방송 논란 뒤 새회차서도 “미리 섭외 안 한다” 전현무",
+        "category": "시사",
+        "url": "https://news.nate.com/view/20261030n34934",
+        "source": "뉴스엔/네이트",
+        "kind": "article",
+        "event_key": "jun-hyun-moo-plan-new-episode-no-prior-booking-20261030",
+        "why": "가게 촬영 거절권 논란이 생긴 프로그램이 새 회차에서도 즉석 섭외 방식을 강조해 선택권을 묻게 한다.",
+        "angle": "이번에는 허락받았다…사전 섭외 없다는 설명은 계속",
+        "why_now": "새방송30일전현무계획4 18회,기사30일공개(정밀기사시각미확인).23일촬영거절식당은배경이며새거절사건으로쓰지않음.",
+        "verified_at": 1793422678,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://news.nate.com/view/20261030n34934",
+            "note": "뉴스엔본문에서새회차국숫집방문중전현무의사전섭외없다는설명·네명촬영허락요청·사장수락을확인했다.23일거절장면논란은배경대조만했고이번에거절을무시한것은아니다.원방송시청아님."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.nate.com/view/20261030n34934",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "새 회차는 촬영 허락받음. 과거 거절 장면을 새 사건으로 재포장하거나 이번에 강행했다고 쓰지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-30",
+          "observation": "뉴스엔본문에서새회차국숫집방문중전현무의사전섭외없다는설명·네명촬영허락요청·사장수락을확인했다.23일거절장면논란은배경대조만했고이번에거절을무시한것은아니다.원방송시청아님.",
+          "checked_materials": [],
+          "outline": [
+            "사전섭외없이간다는새회차설명",
+            "네명먹는촬영허락을직접문의",
+            "이번에는사장수락,과거논란과구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://news.nate.com/view/20261030n34934"
+          }
+        ],
+        "excerpt": "",
+        "context": "새방송30일전현무계획4 18회,기사30일공개(정밀기사시각미확인).23일촬영거절식당은배경이며새거절사건으로쓰지않음.",
+        "fetched_at": 1793423079,
+        "parser_revision": 7
+      },
+      "curation_event_key": "jun-hyun-moo-plan-new-episode-no-prior-booking-20261030"
+    },
     "a93c1fbccafb": {
       "source": "게임톡",
       "title": "“가짜인 줄 모르고 팔았다”…일본 카드샵은46만원 카드 환불도 거부했다는 사연",
@@ -30351,5 +31219,5 @@
       "curation_event_key": "incheon-airport-lost-cigarettes-resignation-rehire-audit-20261024"
     }
   },
-  "updated_at": 1793412327
+  "updated_at": 1793423079
 }

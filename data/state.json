@@ -1,5 +1,5 @@
 {
-  "updated_at": 1793412333,
+  "updated_at": 1793423080,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,65 +15,65 @@
     "requested_stories": 10,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026103102",
+    "hour_utc": "2026103105",
     "category_counts": {
-      "시사": 9,
-      "축구": 0,
-      "메이저 스포츠": 1,
+      "시사": 5,
+      "축구": 1,
+      "메이저 스포츠": 4,
       "아이돌": 0
     },
-    "research_queries": 40,
-    "opened_sources": 15,
+    "research_queries": 51,
+    "opened_sources": 25,
     "picks": [
       {
-        "title": "“가짜인 줄 모르고 팔았다”…일본 카드샵은46만원 카드 환불도 거부했다는 사연",
-        "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=112643",
-        "event_key": "osaka-pokemon-counterfeit-card-refund-refusal-yugamdok-20261030"
+        "title": "벙커에서 서로 남의 공을 쳤다…김주형·캠벨 나란히2벌타",
+        "url": "https://www.newspim.com/news/view/20261031000031",
+        "event_key": "kim-joo-hyung-brian-campbell-wrong-ball-bunker-20261031"
       },
       {
-        "title": "한정판 공지 기다렸는데 판매부터?…라이엇,안내 누락 인정하고 사과",
-        "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=112642",
-        "event_key": "riot-riftbound-kda-popup-sale-notice-apology-20261030"
+        "title": "보안점검 메일에 개인정보 엑셀 첨부…벤처캐피탈협회 공식 사과",
+        "url": "https://www.mt.co.kr/future/2026/10/31/2026103109573829581",
+        "event_key": "kvca-security-check-email-wrong-attachment-disclosure-20261030"
       },
       {
-        "title": "집 공개해 화제 됐는데…김민 “모르는 사람들이 계속 와”",
-        "url": "https://www.xportsnews.com/article/2213725",
-        "event_key": "kim-min-dongducheon-house-uninvited-visitors-disclosure-20261030"
+        "title": "NBA5회 우승 하퍼,AI 배구 캐릭터에 댓글…“몰랐는지”는 미확인",
+        "url": "https://www.ibtimes.co.uk/ron-harper-ai-volleyball-personality-jokes-1829001",
+        "event_key": "ron-harper-ai-volleyball-comment-shared-20261030"
       },
       {
-        "title": "벌금700만→500만원 줄었는데 취업제한5년 추가…불복 재판의 반전",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824103",
-        "event_key": "supreme-court-summary-order-employment-restriction-appeal-20261031"
+        "title": "디아즈,가족 악플 공개하며 “앞으로 요구하지 말라…변호사와 얘기”",
+        "url": "https://www.mt.co.kr/sports/2026/10/31/202610310805775400O",
+        "event_key": "samsung-diaz-family-abuse-sns-response-20261030"
       },
       {
-        "title": "신고 대상은 무죄 확정됐는데…선거 포상금2560만원 중 돌려받은 건250만원",
-        "url": "https://www.newstnt.com/news/articleView.html?idxno=726034",
-        "event_key": "election-crime-reward-acquittal-recovery-data-20261030"
+        "title": "지석진 “광고 많이 들어오는데 무산”…그 광고 찍은 양세찬의 한마디",
+        "url": "https://www.xportsnews.com/article/2213768",
+        "event_key": "pinggyego-ji-seok-jin-ad-fee-yang-se-chan-20261031"
       },
       {
-        "title": "암산은 순식간인데 배달 벨에서 삐끗…이세돌이 배운 건5초 눈맞춤",
-        "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/31/ME4DCM3EGFTDQNDFGE3GKZTEGA/",
-        "event_key": "lee-sedol-yogurt-delivery-eye-contact-work-show-20261030"
+        "title": "새 아파트 헬스장은 완공됐는데 수개월째 잠금…주민은 외부에 또 돈",
+        "url": "https://www.mt.co.kr/estate/2026/10/30/2026102714141348668",
+        "event_key": "new-apartment-community-gym-opening-cost-delay-report-20261030"
       },
       {
-        "title": "“필기30번 넘게 떨어져서”…87m 무면허 운전에 실형 나온 이유",
-        "url": "https://n.news.naver.com/article/009/0005756887",
-        "event_key": "chungju-repeat-unlicensed-87m-driving-six-month-sentence-20261031"
+        "title": "PO표50여장 매크로로 사들여3~6배 되팔았다…600만원 챙긴10대 검거",
+        "url": "https://www.fnnews.com/news/202610310945311271",
+        "event_key": "busan-postseason-macro-50-tickets-teen-arrest-announced-20261031"
       },
       {
-        "title": "“머리 쥐어뜯어 깨웠다”…집에 연기 차자 고양이가 주인 깨웠다는 사연",
-        "url": "https://www.inews24.com/view/2021097",
-        "event_key": "cat-owner-fire-wakeup-threads-account-20261030"
+        "title": "16세 다우먼 감싸라는 비판에 아르테타 “여긴 디즈니랜드 아니다”",
+        "url": "https://m.thescore.com/news/3639400/arteta-fires-disneyland-warning-at-arsenals-dowman-after-red-card",
+        "event_key": "arteta-defends-dowman-treatment-friday-press-conference-20261030"
       },
       {
-        "title": "치킨2마리 포장했는데 할인은2000원…“그럼 따로 주문”에 갈린 반응",
-        "url": "https://www.inews24.com/view/2021088",
-        "event_key": "chicken-takeout-discount-per-order-per-item-dispute-20261030"
+        "title": "“내 오토바이 열쇠로 우연히 시동”…스쿠터 열쇠 절도범 변명 기각",
+        "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000078327",
+        "event_key": "chuncheon-scooter-key-theft-own-key-defense-sentence-20261031"
       },
       {
-        "title": "성능 미달 알면서 합격 처리했나…140억대 선거 장비 납품 의혹 압수수색",
-        "url": "https://www.mt.co.kr/society/2026/10/30/2026103016534077581",
-        "event_key": "election-commission-equipment-performance-failed-procurement-raid-20261030"
+        "title": "“거품키스 애드리브예요?” 묻자 이서진 정색…김광규 “거품 말이야”",
+        "url": "https://www.osen.co.kr/article/G1112901707",
+        "event_key": "biseojin-ha-ji-won-coffee-foam-kiss-adlib-misunderstanding-20261030"
       }
     ]
   }
