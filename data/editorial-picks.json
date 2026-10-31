@@ -1,491 +1,583 @@
 {
   "version": 2,
-  "hour_utc": "2026103114",
+  "hour_utc": "2026103123",
   "reviewer": "ChatGPT",
-  "generated_at": 1793455563,
+  "generated_at": 1793488098,
   "coverage": {
     "queries": [
-      "\"2026.10.31\" \"첼시\" \"맨유\"",
-      "\"2026.10.31\" \"설윤\" \"놀토\"",
-      "\"2026.10.31\" \"손흥민\" \"인터뷰\"",
-      "\"2026.10.31\" \"레알\" \"야말\"",
-      "\"2026.10.31\" \"축구\" \"황당\"",
-      "\"2026.10.31\" \"아일릿\" \"사과\"",
-      "\"2026.10.31\" \"케인\" \"카카\"",
-      "\"2026.10.31\" \"유재석\" \"김광규\" \"국수\"",
-      "\"2026.10.31\" \"틸레만스\" \"캐릭\"",
-      "\"2026.10.31\" \"르브론\" \"트럼프\"",
-      "\"2026.10.31\" \"놀토\" \"릴리\" \"서운\"",
-      "\"2026.10.31\" \"축구\" \"반박\"",
-      "\"르브론\" \"골프 스윙\" \"2026\"",
-      "\"틸레만스\" \"캐릭\" \"2026.10.31\"",
-      "\"2026.10.31\" \"놀토\" \"사과했다\"",
-      "\"2026.10.31\" \"괴물\" \"포스터\"",
-      "\"2026.10.31\" \"틸레만스\" 인터뷰",
-      "\"2026.10.31\" \"원희\" \"붐\"",
-      "\"2026.10.31\" \"트럼프\" \"1000달러\"",
-      "\"2026.10.31\" \"괴물\" \"20주년\" 포스터",
-      "\"데제르비\" \"마페\" \"80m\" \"2026\"",
-      "\"2026.10.31\" \"축구\" \"징계\" \"방송\"",
-      "\"2026.10.31\" \"릴리\" \"붐\" \"서운함\"",
-      "\"2026.10.31\" \"원희\" \"놀토\" \"태연\"",
-      "De Zerbi Mape \"80\" \"two weeks\" October 2026",
-      "Kulusevski wife seven eight cartilage wedding October 30 2026",
-      "Kompany \"not allowed\" \"football\" October 30 2026 Danks",
-      "Adriana Caballero Ameliano dress code October 2026",
-      "Chelsea Manchester United October 31 2026 red card Carrick 2-0",
-      "\"Kaka\" \"Kane\" \"Gazzetta\" \"October\" \"2026\"",
-      "\"Kulusevski\" \"interview\" \"October 30, 2026\" cartilage",
-      "\"Kompany\" \"Danks\" \"October 30, 2026\" \"talk\"",
-      "\"2026.10.31\" \"로또\" \"1등\" \"명\"",
-      "\"2026.10.31\" \"데제르비\" \"페르난데스\"",
-      "\"2026.10.31\" \"트럼프\" \"수표\"",
-      "\"2026.10.31\" \"축구\" \"경고\" \"82초\"",
-      "Kulusevski \"cartilage\" \"October\" \"2026\" interview Tottenham",
-      "\"Youri\" \"Carrick\" \"TNT\" \"2026\" \"October 30\"",
-      "\"Martinez\" \"82 seconds\" \"2026\" Chelsea",
-      "\"괴물\" \"20주년\" \"일월오봉도\"",
-      "site:tottenhamhotspur.com \"Kulusevski\" \"29 October 2026\"",
-      "\"2026.10.31\" \"아이패드\" \"손 모양\"",
-      "\"2026.10.31\" \"김연경\" \"표승주\" \"이나연\"",
-      "\"2026.10.31\" \"로또\" \"같은\" \"번호\"",
-      "\"The Host\" \"poster\" \"October 30, 2026\"",
-      "\"괴물\" \"20주년\" \"포스터\" \"30일\"",
-      "\"Kulusevski\" \"I told my mother\" site:tottenhamhotspur.com",
-      "\"2026.10.31\" \"김연경\" \"미방분\"",
-      "\"2026.10.31\" \"대변\" \"사과\" 선수",
-      "\"2026.10.31\" \"김종국\" \"웃음\"",
-      "\"2026.10.31\" \"전현무\" \"이찬원\"",
-      "\"2026.10.31\" \"트럼프\" \"성인\" \"달러\"",
-      "\"Kulusevski\" \"I told my mother\" \"tottenhamhotspur.com\"",
-      "\"Kulusevski\" \"29 October\" \"2026\" \"interview\"",
-      "\"Kaka\" \"Kane\" \"31 ottobre 2026\"",
-      "\"트럼프\" \"한국\" \"5000달러\" \"2026.10.31\"",
-      "Kulusevski reveals injury \"29\" \"October\" \"Spurs\" 2026 official",
-      "\"Dejan\" \"mother\" site:tottenhamhotspur.com/news/2026/october",
-      "\"Kulusevski\" \"My wife is my idol\"",
-      "\"Kaka\" \"Kane\" \"Gazzetta\" \"31\""
+      "\"2026.11.01\" \"캐릭\" \"경질\"",
+      "\"2026.11.01\" \"토트넘\" \"데제르비\"",
+      "\"2026.11.01\" \"아이돌\" \"놀토\"",
+      "\"2026.11.01\" \"홀란\"",
+      "\"2026.11.01\" \"캐릭\" \"팬\" 발언",
+      "\"2026.11.01\" \"토트넘\" \"페널티\"",
+      "\"2026.11.01\" \"바르셀로나\" \"퇴장\"",
+      "\"2026.11.01\" \"릴리\" \"설윤\"",
+      "Manchester United Carrick Chelsea October 31 2026 post match blame players",
+      "Tottenham Crystal Palace October 31 2026 red card",
+      "Liverpool Arsenal October 31 2026 controversy",
+      "Bayern Dortmund October 31 2026 Kane celebration",
+      "\"아일릿 원희\" \"삼촌들\" \"2026\" \"10\" \"31\"",
+      "\"2026.11.01\" \"축구\" \"황당\"",
+      "\"2026.11.01\" \"아이돌\" \"폭소\"",
+      "\"2026.11.01\" \"바르셀로나\" \"퇴장\"",
+      "\"October 31, 2026\" football Arsenal Liverpool Slot controversial",
+      "\"October 31, 2026\" football Barcelona Alaves red card",
+      "\"원희\" \"너무 신났는데요\" 뉴스1",
+      "\"2026.11.01\" \"손흥민\"",
+      "\"October 31 2026\" \"Guardiola\" \"Haaland\"",
+      "\"October 31 2026\" \"Milan\" \"Inter\" controversial",
+      "\"2026.11.01\" \"유재석\" \"폭소\"",
+      "\"2026.10.31\" \"카리나\" \"말\"",
+      "\"2026.10.31\" \"산리오\" \"협업\"",
+      "\"2026.11.01\" \"트럼프\" \"저공\"",
+      "\"2026.10.31\" \"리센느\" \"경찰대\"",
+      "\"2026.11.01\" \"놀뭐\" \"허경환\"",
+      "\"2026.11.01\" \"릴리\" \"놀토\"",
+      "\"2026.10.31\" \"아이돌\" \"실수\"",
+      "\"2026.10.31\" \"허경환\" \"발동작\"",
+      "\"2026.10.31\" \"트럼프\" \"사탕\"",
+      "\"October 31 2026\" \"Milan\" \"Allegri\" \"joke\"",
+      "\"2026.11.01\" \"케인\" \"김민재\"",
+      "\"2026.11.01\" \"김연경\"",
+      "\"2026.10.31\" \"에어팟\" \"타임\"",
+      "\"원희\" \"정답 스틸\" \"2026\"",
+      "\"허경환\" \"발동작\" \"2026\"",
+      "\"산리오\" \"비반트\" \"중단\"",
+      "\"2026.11.01\" \"하하\" \"주우재\"",
+      "\"원희\" \"정답\" \"파랑\" \"10월 31일\"",
+      "\"October 31 2026\" \"Allegri\" \"Modric\"",
+      "\"October 31 2026\" \"tennis\" \"Vienna\" \"Sinner\"",
+      "\"2026.11.01\" \"정국\" \"진\"",
+      "\"2026.11.01\" \"유재석\"",
+      "\"2026.11.01\" \"전참시\"",
+      "\"2026.10.31\" \"하츠투하츠\" \"이안\"",
+      "\"2026.10.31\" \"IVE\" \"초능력\"",
+      "\"Chivu\" \"derby\" \"October 31, 2026\"",
+      "\"Messi\" \"Kopa\" \"third\" \"October 31\" \"2026\"",
+      "\"폴란드\" \"대통령\" \"몸싸움\" \"2026\" \"31\"",
+      "\"원희\" \"6338740\"",
+      "\"원희\" \"너무 신났는데요\" -site:news1.kr -site:donga.com -site:korea.stream",
+      "\"2026\" \"10\" \"31\" \"Maza\" \"Messi\" \"Equipe\"",
+      "\"2026.10.31\" \"캡스\" \"한화생명\"",
+      "\"2026.11.01\" \"릴리\" \"왜 안\"",
+      "Zverev \"Do you think it's normal\" balls Vienna \"2026\"",
+      "\"Messi\" \"Maza\" \"Kopa\" \"2026\" site:lequipe.fr",
+      "\"Wonhee\" \"October 31\" \"2026\" \"snacks\"",
+      "\"2026.11.01\" \"이승철\" \"강호동\"",
+      "\"2026\" \"October 31\" \"NBA\" \"costume\"",
+      "\"2026.11.01\" \"이승철\" \"술친구\"",
+      "\"2026.10.31\" \"릴리\" \"왜 안 넣어\"",
+      "\"2026.10.31\" \"이강인\" \"마케팅\"",
+      "Lendeborg costume \"only\" \"size\" \"2026\"",
+      "Lendeborg \"Michael Myers\" \"October 30, 2026\" NBC",
+      "\"Maza\" \"Messi\" \"31 octobre 2026\" Kopa vote",
+      "Tottenham Van Hecke \"ground\" \"header\" \"October 31\""
     ],
     "opened_urls": [
-      "https://hayters.com/two-weeks-ago-he-was-a-disaster-signing-de-zerbi-responds-to-recent-fernandes-praise/",
-      "https://www.xportsnews.com/article/2213846",
-      "https://www.theguardian.com/football/live/2026/oct/31/chelsea-v-manchester-united-premier-league-live",
-      "https://www.thesun.ie/sport/17845970/dejan-kulusevski-mum-football-quit-injury-tottenham/",
-      "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016496",
-      "https://biz.chosun.com/sports/football/2026/10/31/GE4DSYZXMI4GKMLCHBRDCOLGMU/",
-      "https://www.bbc.com/sport/football",
-      "https://sports.khan.co.kr/article/202610312046003",
-      "https://www.mt.co.kr/sports/2026/10/31/2026103020273665476",
-      "https://www.aol.co.uk/articles/youri-tielemans-sends-message-board-080644000.html",
-      "https://www.gazzetta.it/en/football/teams/milan/news/31-10-2026/kaka-interview-the-derby-milan-and_amp.shtml",
-      "https://www.news1.kr/world/usa-canada/6338532",
-      "https://tvreport.co.kr/broadcast/article/1087411/amp/",
-      "https://mhnse.com/news/articleView.html?idxno=1645672",
-      "https://www.interfootball.co.kr/news/articleView.html?idxno=697510",
-      "https://www.fnnews.com/news/202610312053364207",
-      "https://files.newsis.com/view/NISX20261031_0003849303",
-      "https://www.sportsnet.ca/bundesliga/article/bayerns-kompany-not-involved-in-plans-for-dortmund-game-after-leaving-hospital/",
-      "https://www.aol.co.uk/articles/tottenham-star-dejan-kulusevski-made-224130000.html",
-      "https://bbs.ruliweb.com/community/board/300143/read/77227154",
-      "https://news.tf.co.kr/read/world/2383276.htm"
+      "https://bbs.ruliweb.com/community/board/300143/read/77229346",
+      "https://www.tottenhamhotspur.com/news/1182980/spurs-2-0-palace-roberto-de-zerbis-verdict",
+      "https://www.sportschau.de/fussball/bundesliga/bayern-und-kane-feiern-sich-gegen-bvb-zu-frueh%2Cspielbericht-bayern-muenchen-borussia-dortmund-112.html",
+      "https://www.xportsnews.com/article/2213887",
+      "https://www.bundesliga.com/en/bundesliga/news/bayern-munich-borussia-dortmund-match-report-highlights-matchday-8-kane-guirassy-silva-39815",
+      "https://www.standard.co.uk/sport/football/man-utd-carrick-sack-future-chelsea-fc-b1303079.html",
+      "https://football-italia.net/calhanoglu-inter-must-avoid-milan-provocation/",
+      "https://files.newsis.com/view/NISX20261031_0003849435",
+      "https://www.aol.com/articles/warriors-rookie-embraces-never-back-012122000.html",
+      "https://sports.yahoo.com/articles/warriors-yaxel-lendeborg-embraces-halloween-024304307.html",
+      "https://prod.beinsports.com/en-au/football/premier-league/articles/mbeumo-defends-players-after-another-united-defeat-2026-10-31",
+      "https://www.tageblatt.de/Nachrichten/Zverev-schimpft-ueber-Baelle-und-verpasst-Traumfinale-in-Wien-781289.html",
+      "https://www.newsis.com/view/NISX20261031_0003849446",
+      "https://www.cpfc.co.uk/news/match-reports/report-highlights-palace-tottenham-spurs-october-2026/",
+      "https://www.ytn.co.kr/_ln/0104_202611010441048498",
+      "https://www.newspub.kr/content?aid=6863d4e8ce080a6be2a8b0e9&category=3&dark=0&mid=6863d50be0fc5b5c40aaee65&nid=6ae5dcf35142357afca77ebc",
+      "https://www.yna.co.kr/view/AKR20261031027851009",
+      "https://theqoo.net/4391686120",
+      "https://sports.yahoo.com/articles/warriors-rookie-embraces-never-back-012122301.html",
+      "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=AKR20261031027851009",
+      "https://www.donga.com/news/Entertainment/article/all/20261101/134942952/1",
+      "https://www.dzfoot.com/equipes-nationales/verts-apres-demblele-un-autre-ballon-dor-vote-pour-maza-301666.html",
+      "https://gall.dcinside.com/board/view/?id=dcbest&no=474629",
+      "https://www.news1.kr/entertain/broadcast-tv/6338740",
+      "https://www.instagram.com/p/DfJmSZhEVoo/embed/captioned/",
+      "https://www.tenasia.co.kr/article/2026103176994",
+      "https://worldsoccertalk.com/news/who-did-lionel-messi-vote-for-in-the-kopa-trophy-his-ballot-and-a-surprise-third-pick/",
+      "https://sports.yahoo.com/articles/zverev-misses-vienna-open-final-191834746.html",
+      "https://football-italia.net/serie-a-milan-3-1-inter-diego-moreira-derby/",
+      "https://www.starnewskorea.com/star/2026/11/01/2026110107324424120",
+      "https://theqoo.net/4391636037"
     ],
     "unavailable": [
-      "최신 main d2a2d7d 필수3문서·최신 콘텐츠 적합성 문서 선행 확인. 지정 진입점1회 exit0, 의존성 설치·재검사 뒤 새 snapshot816개·pool3000.",
-      "수집 완료 뒤 fresh review-inbox 후보20·예비10·확장20 확인. 완료 전 읽힌 이전 검토함은 선정 근거로 사용하지 않음.",
-      "최근7일 실제 sent/uncertain 보호410개와 공개 BTP 최신12개 분석 대조. 미발송 예비 배지환은 실제 발송 이력으로 제외하지 않음.",
-      "펨코 직접·네이버 스포츠 영상 수집 partial, 영상0. 공식 RSS404 반복하지 않고 기자회견 원취재·본방 취재·독립 원문으로 확대.",
-      "SPORTS KHAN403·SPORTSNET403·SUN 기기 검증벽은 반복하지 않고 원매체 가제타·정상 한국 취재·AOL 전재로 전환.",
-      "르브론 국가 동작과 바클리 발언, 파라과이 복장 규정은 최초 공개48시간 초과로 제외. 괴물 포스터28일 최초 자료도 제외.",
-      "쿨루셉스키 구단 인터뷰는 정밀 최초 공개시각 확인이 부족해 최종 제외. 예고만 있는 김연경 방송을 실제 경기로 추천하지 않음.",
-      "scene 승인 없음. 전부 기사 본문의 구체 발언·기록과 검증 한계를 적었고 영상 시청을 주장하지 않음."
+      "최신main e3ca595 기준필수3문서와10/31추가품질교정읽음.수집진입점1회정상exit0,setup설치/재검사후564후보공개스냅샷23:02:09UTC갱신확인",
+      "최근7일실제sent/uncertain410개와최신state.report10개사건·정규화URL·자료대조.수집/보류는발송제외근거로쓰지않음",
+      "네이트3곳503·네이버영상수집시간초과는소재0과구분.공식YouTube RSS404재시도안함.독립취재원문으로전환",
+      "산리오협업중단은10/28,백악관저공비행은10/29미국17:45원공개로48시간초과제외.새재기사시각으로대체하지않음",
+      "전부기사형major_news.원영상시청한scene승인없음.뉴스1본문은접근가능전재로검증,NBA공식공개캡션직접대조",
+      "BTP실제게재12개는최신품질문서의식별자·사건기준대조.이번직접Instagram본계정전체게재열람은미실시.수신기최종중복제거/정확10개유지"
     ]
   },
   "picks": [
     {
-      "title": "첫 경고 받고82초…마르티네스, 페널티킥 내주고 경고 누적 퇴장",
+      "title": "발롱도르 축하 파티 열린 날…케인은 PK 골대, 뮌헨은89분 동점골",
       "category": "축구",
-      "url": "https://www.theguardian.com/football/live/2026/oct/31/chelsea-v-manchester-united-premier-league-live",
-      "source": "The Guardian",
+      "url": "https://www.sportschau.de/fussball/bundesliga/bayern-und-kane-feiern-sich-gegen-bvb-zu-frueh%2Cspielbericht-bayern-muenchen-borussia-dortmund-112.html",
+      "source": "Sportschau",
       "kind": "article",
-      "event_key": "lisandro-martinez-two-bookings-82-seconds-chelsea-20261031",
-      "why": "감독 거취가 걸린 맨유 경기에서 수비수가 순식간에 두 번 경고를 받는 구체적인 자멸 장면이다.",
-      "angle": "첫 옐로카드 뒤82초, 두 번째 옐로카드",
-      "why_now": "31일 첼시전 현장 라이브63분 항목의 새 사건. 최초 라이브 시작11:00UTC와 사건 발생 시각은 구분, 검토 시70분까지 반영된 본문 확인. 경기 종료 결과는 추천하지 않음.",
-      "verified_at": 1793455304,
-      "published_at": 1793444400,
+      "event_key": "kane-ballon-dor-home-honour-penalty-bar-dortmund-20261031",
+      "why": "수상 축하의 주인공이 페널티킥을 놓치고 승리까지 막판에 놓치는 하루의 반전이 선명하다.",
+      "angle": "트로피 들고 입장한 주인공에게 찾아온 경기의 반전",
+      "why_now": "경기10/31 현지 저녁(KST11/1 새벽).축하행사도 당일 경기 직전.Sportschau31일 보도·21:36 갱신,최초 중계/기사 시각은 분 단위 미확인.",
+      "verified_at": 1793487791,
+      "published_at": null,
       "evidence": [
         {
-          "url": "https://www.theguardian.com/football/live/2026/oct/31/chelsea-v-manchester-united-premier-league-live",
-          "note": "가디언 라이브59~64분 기록에서 첫 경고 뒤82초 만의 추가 경고·VAR 페널티킥·퇴장을 확인했다. 현장 기자의 기록이며 실제 경기 영상은 시청하지 않았다."
+          "url": "https://www.sportschau.de/fussball/bundesliga/bayern-und-kane-feiern-sich-gegen-bvb-zu-frueh%2Cspielbericht-bayern-muenchen-borussia-dortmund-112.html",
+          "note": "Sportschau 경기 취재 본문에서가족과 트로피를 동반한 경기 전 축하·케인55분 PK 크로스바·이후 실점에 연결된 패스 실수·66분 도움·89분 실바 동점골을 확인했다.원경기 영상 직접 미시청."
         }
       ],
       "materials": [
         {
-          "url": "https://www.theguardian.com/football/live/2026/oct/31/chelsea-v-manchester-united-premier-league-live",
+          "url": "https://www.sportschau.de/fussball/bundesliga/bayern-und-kane-feiern-sich-gegen-bvb-zu-frueh%2Cspielbericht-bayern-muenchen-borussia-dortmund-112.html",
           "label": "확인한 원문 취재",
           "kind": "source"
         }
       ],
-      "caution": "현장 문자 기록 검증, 영상 미시청.82초는 기자 기록. 종료 전 확인본으로 최종 스코어·경질 여부 단정 금지.",
+      "caution": "실축만으로 패전 책임을 씌우지 않음.2-2 무승부이며 영상 시청한scene 승인 아님.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-10-31",
-        "observation": "가디언 라이브59~64분 기록에서 첫 경고 뒤82초 만의 추가 경고·VAR 페널티킥·퇴장을 확인했다. 현장 기자의 기록이며 실제 경기 영상은 시청하지 않았다.",
+        "observation": "Sportschau 경기 취재 본문에서가족과 트로피를 동반한 경기 전 축하·케인55분 PK 크로스바·이후 실점에 연결된 패스 실수·66분 도움·89분 실바 동점골을 확인했다.원경기 영상 직접 미시청.",
         "checked_materials": [],
         "outline": [
-          "첫 경고",
-          "82초 뒤 추가 경고와 퇴장",
-          "페널티킥까지 내준 결말"
+          "수상 축하와가족 동반 입장",
+          "PK 크로스바 실축과이후 도움",
+          "89분 동점골로 끝난 하루"
         ]
       }
     },
     {
-      "title": "2주 전엔8000만짜리 실패라더니…데제르비 “한 경기 잘하면 모드리치냐”",
-      "category": "축구",
-      "url": "https://hayters.com/two-weeks-ago-he-was-a-disaster-signing-de-zerbi-responds-to-recent-fernandes-praise/",
-      "source": "Hayters",
-      "kind": "article",
-      "event_key": "de-zerbi-mateus-fernandes-disaster-signing-modric-media-narrative-20261030",
-      "why": "거품이라던 선수가 한 경기 뒤 모드리치가 되는 평가 속도를 감독이 직접 비꼬는 대사다.",
-      "angle": "실패 영입에서 모드리치까지, 걸린 시간은 한 경기",
-      "why_now": "팰리스전 전 기자회견30일 영국 현지. Hayters 원취재30일22:30UTC=31일07:30KST 최초 확인. 첼시전 자체는 과거 배경.",
-      "verified_at": 1793455282,
-      "published_at": 1793399400,
-      "evidence": [
-        {
-          "url": "https://hayters.com/two-weeks-ago-he-was-a-disaster-signing-de-zerbi-responds-to-recent-fernandes-praise/",
-          "note": "Hayters 원취재 본문에서2주 전 실패 영입 평가와 첼시전 뒤 모드리치 비교를 대조한 감독 발언을 읽었다. 본인은 전후 같은 좋은 선수라고 강조했다. 회견 영상·음성 미시청."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://hayters.com/two-weeks-ago-he-was-a-disaster-signing-de-zerbi-responds-to-recent-fernandes-praise/",
-          "label": "확인한 원문 취재",
-          "kind": "source"
-        }
-      ],
-      "caution": "8000만은 감독 발언 속 수치. 매체 평가의 변덕을 비판한 말이며 선수를 감독이 실패작이라고 평가한 것 아님.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-30",
-        "observation": "Hayters 원취재 본문에서2주 전 실패 영입 평가와 첼시전 뒤 모드리치 비교를 대조한 감독 발언을 읽었다. 본인은 전후 같은 좋은 선수라고 강조했다. 회견 영상·음성 미시청.",
-        "checked_materials": [],
-        "outline": [
-          "2주 전의 실패 영입 평가",
-          "한 경기 뒤 모드리치 비교",
-          "전후 같은 선수라는 감독의 답"
-        ]
-      }
-    },
-    {
-      "title": "콤파니 퇴원했는데도 “축구 얘기 금지”…코치들에게 내려온 지시",
-      "category": "축구",
-      "url": "https://biz.chosun.com/sports/football/2026/10/31/GE4DSYZXMI4GKMLCHBRDCOLGMU/",
-      "source": "OSEN/조선비즈",
-      "kind": "article",
-      "event_key": "bayern-danks-no-football-discussion-kompany-recovery-instructions-20261030",
-      "why": "감독이 쉬도록 전화와 방문에서조차 축구 이야기를 막는 구단의 구체적인 대처가 팬의 관심을 끈다.",
-      "angle": "감독이 물어봐도, 축구 얘기는 하지 마",
-      "why_now": "도르트문트전 전 댕크스 회견30일 현지, AP30일 취재와 대조. OSEN31일17:55 후속. 지난주 쓰러진 사건 자체의 재추천 아님.",
-      "verified_at": 1793455235,
-      "published_at": 1793436900,
-      "evidence": [
-        {
-          "url": "https://biz.chosun.com/sports/football/2026/10/31/GE4DSYZXMI4GKMLCHBRDCOLGMU/",
-          "note": "OSEN 본문에서 댕크스가 에베를·프로인트에게 축구 관련 대화를 시작하지 말라는 지시를 받았다는 답변을 확인했다. AP 보도의 휴식·가족 시간 우선 설명과 대조. 회견 영상·의료기록 미열람."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://biz.chosun.com/sports/football/2026/10/31/GE4DSYZXMI4GKMLCHBRDCOLGMU/",
-          "label": "확인한 원문 취재",
-          "kind": "source"
-        }
-      ],
-      "caution": "진단·복귀 시기 추정 금지. 치료 효과를 검증한 자료 아님. 새 코치 발언을 본문으로 확인, 회견 영상 미시청.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-30",
-        "observation": "OSEN 본문에서 댕크스가 에베를·프로인트에게 축구 관련 대화를 시작하지 말라는 지시를 받았다는 답변을 확인했다. AP 보도의 휴식·가족 시간 우선 설명과 대조. 회견 영상·의료기록 미열람.",
-        "checked_materials": [],
-        "outline": [
-          "퇴원 뒤 자택 회복 중인 감독",
-          "경기 준비·전술 논의를 막은 구단 지시",
-          "건강과 가족 시간에 집중시키겠다는 이유"
-        ]
-      }
-    },
-    {
-      "title": "케인 발롱도르 논쟁에 카카 “옳은 선택…야말은 기대만큼 결정적이지 않았다”",
-      "category": "축구",
-      "url": "https://www.gazzetta.it/en/football/teams/milan/news/31-10-2026/kaka-interview-the-derby-milan-and_amp.shtml",
-      "source": "La Gazzetta dello Sport",
-      "kind": "article",
-      "event_key": "kaka-gazzetta-kane-ballon-dor-fair-choice-yamal-mbappe-interview-20261031",
-      "why": "이미 끝난 수상의 재보도가 아니라 전 수상자가 음바페·야말의 아쉬운 점을 직접 비교한 새 평가다.",
-      "angle": "전 수상자 카카가 본, 케인이 받아야 했던 이유",
-      "why_now": "가제타 독점 인터뷰31일 공개. 영문판 최초 메타07:16:19UTC=16:16:19KST, 이탈리아어 원문 정밀 공개시각 미확인.27일 수상과 구분.",
-      "verified_at": 1793455303,
-      "published_at": 1793430979,
-      "evidence": [
-        {
-          "url": "https://www.gazzetta.it/en/football/teams/milan/news/31-10-2026/kaka-interview-the-derby-milan-and_amp.shtml",
-          "note": "가제타 인터뷰의 발롱도르 문답을 읽었다. 케인의 시즌·바이에른 기여와 우승, 음바페의 팀 성과 부족, 야말의 기대 대비 결정력을 비교했다. 원매체 영문판은 AI 번역 고지가 있어 표현의 한계를 기록한다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.gazzetta.it/en/football/teams/milan/news/31-10-2026/kaka-interview-the-derby-milan-and_amp.shtml",
-          "label": "확인한 원문 취재",
-          "kind": "source"
-        }
-      ],
-      "caution": "카카의 견해이며 객관적 판정 아님. 원매체 영문 AI 번역판 확인, 한국어는 그 번역. 수상 점수 재추천 아님.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-31",
-        "observation": "가제타 인터뷰의 발롱도르 문답을 읽었다. 케인의 시즌·바이에른 기여와 우승, 음바페의 팀 성과 부족, 야말의 기대 대비 결정력을 비교했다. 원매체 영문판은 AI 번역 고지가 있어 표현의 한계를 기록한다.",
-        "checked_materials": [],
-        "outline": [
-          "발롱도르 결과가 옳았다는 카카의 답",
-          "케인의 시즌 전체 기여",
-          "음바페·야말에게 아쉬웠던 점"
-        ]
-      }
-    },
-    {
-      "title": "“캐릭 때문에 맨유 왔다”…틸레만스, 경질설에 “변화 원하지 않아”",
-      "category": "축구",
-      "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697510",
-      "source": "인터풋볼/TNT",
-      "kind": "article",
-      "event_key": "tielemans-tnt-backs-carrick-no-sudden-change-20261030",
-      "why": "주축들의 공개 불만 속에서 신입생은 감독 때문에 이적했다며 정반대 입장을 내놓은 새 인터뷰다.",
-      "angle": "시끄러운 맨유에서, 신입생이 감독을 지지한 이유",
-      "why_now": "TNT 인터뷰30일 영국 현지 공개, 한국 후속31일11:21. 정확한 TNT 최초 업로드시각 미확인. 첼시전 전 발언이며 경기 뒤 반응으로 쓰지 않음.",
-      "verified_at": 1793455253,
-      "published_at": 1793413260,
-      "evidence": [
-        {
-          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697510",
-          "note": "인터풋볼 본문과 미러 AOL 전재에서 캐릭이 원했기 때문에 이적·잔류해 기쁨·더 혼란스러운 급변을 원하지 않는다는 틸레만스 발언을 확인했다. 선수단 전체의 실제 동의 여부와 인터뷰 영상은 확인하지 않았다."
-        },
-        {
-          "url": "https://www.aol.co.uk/articles/youri-tielemans-sends-message-board-080644000.html",
-          "note": "미러 전재 본문으로 감독 영입 이유·급변 반대 발언을 독립 대조."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697510",
-          "label": "확인한 원문 취재",
-          "kind": "source"
-        }
-      ],
-      "caution": "선수단 전체의 확정 입장이 아니라 틸레만스의 설명. 경기 전 인터뷰를 경기 후 대응으로 오인 금지.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-30",
-        "observation": "인터풋볼 본문과 미러 AOL 전재에서 캐릭이 원했기 때문에 이적·잔류해 기쁨·더 혼란스러운 급변을 원하지 않는다는 틸레만스 발언을 확인했다. 선수단 전체의 실제 동의 여부와 인터뷰 영상은 확인하지 않았다.",
-        "checked_materials": [],
-        "outline": [
-          "캐릭이 원했기 때문에 왔다는 이적 이유",
-          "경질설에도 감독이 남아 기쁘다는 입장",
-          "변화보다 안정이 필요하다는 본인 주장"
-        ]
-      }
-    },
-    {
-      "title": "5000달러 준다는 트럼프 “부부가1만달러 들고 한국 가면 안 돼”",
-      "category": "시사",
-      "url": "https://files.newsis.com/view/NISX20261031_0003849303",
-      "source": "뉴시스",
-      "kind": "article",
-      "event_key": "trump-daytona-dividend-5000-domestic-spending-south-korea-20261030",
-      "why": "돈을 주겠다는 선거 약속에 한국 여행은 안 된다는 구체적인 사용처 조건까지 붙여 한국 독자와 연결된다.",
-      "angle": "돈은 주겠다, 그런데 한국 여행은 안 된다",
-      "why_now": "30일 현지 데이토나비치 유세의 새 해외 사용 제한 발언. 뉴시스31일15:17:16 취재.9월 배당 공약 최초 발표와 이번 한국 언급을 구분.",
-      "verified_at": 1793455407,
-      "published_at": 1793427436,
-      "evidence": [
-        {
-          "url": "https://files.newsis.com/view/NISX20261031_0003849303",
-          "note": "뉴시스 본문에서 양원 승리시 성인5000달러 공약·미국 내 사용 조건·부부가1만달러 들고 중국·일본·한국에 가면 안 된다는 예시를 확인했다. 실제 지급·사용 제한 제도가 시행됐다는 보도는 아니다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://files.newsis.com/view/NISX20261031_0003849303",
-          "label": "확인한 원문 취재",
-          "kind": "source"
-        }
-      ],
-      "caution": "정치인의 공약·주장으로 귀속. 지급 확정이나 한국 여행 금지 법 시행 아님. 유세 영상 직접 시청하지 않음.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-30",
-        "observation": "뉴시스 본문에서 양원 승리시 성인5000달러 공약·미국 내 사용 조건·부부가1만달러 들고 중국·일본·한국에 가면 안 된다는 예시를 확인했다. 실제 지급·사용 제한 제도가 시행됐다는 보도는 아니다.",
-        "checked_materials": [],
-        "outline": [
-          "양원 승리 조건으로 내건5000달러",
-          "부부1만달러의 해외여행 예시",
-          "미국 내 사용 조건과 미확정 재원"
-        ]
-      }
-    },
-    {
-      "title": "설윤·윤아가 동향·동갑 얘기하는데…신동엽 “나도 충북 제천”",
+      "title": "원희 팀 답은 순서만 틀렸는데…삼촌들은 두 번 주워 먹고 “가만히 있으면 이겨”",
       "category": "아이돌",
-      "url": "https://www.fnnews.com/news/202610312053364207",
-      "source": "뉴스1/파이낸셜뉴스",
+      "url": "https://www.news1.kr/entertain/broadcast-tv/6338740",
+      "source": "뉴스1",
       "kind": "article",
-      "event_key": "sullyoon-yunah-hometown-same-age-shin-dong-yup-jecheon-nolto-20261031",
-      "why": "또래 여돌 둘이 공통점을 찾는 대화에 신동엽이 고향만으로 끼어드는 짧은 농담이 회수된다.",
-      "angle": "또래 여돌의 친목 타임에 끼어든 충청도 선배",
-      "why_now": "31일19:30 시작 놀토 본방 대화. 뉴스1 최초 확인 본방 기사20:53:36KST, 촬영일과 해당 대사 정확 분초는 미공개. 예고를 본방으로 쓰지 않음.",
-      "verified_at": 1793455234,
-      "published_at": 1793447616,
+      "event_key": "wonhee-snack-word-order-stolen-answers-uncles-retort-nolto-20261031",
+      "why": "정답 단어를 알아도 순서 때문에 뺏기고,신난 상대 팀에 원희가 받아치는 짧고 완결된 예능 상황이다.",
+      "angle": "과자 이름 순서만 뒤집었더니 삼촌들 연속 정답",
+      "why_now": "원방송10/31 19:30KST 시작,해당 게임의 최초 공개 분 단위 미확인.뉴스1 21:14:09 취재·전재 본문 대조.촬영일 미기재.",
+      "verified_at": 1793487810,
+      "published_at": null,
       "evidence": [
         {
-          "url": "https://www.fnnews.com/news/202610312053364207",
-          "note": "뉴스1 본방 취재에서 윤아가 설윤과 동갑·1월생·충청도 출신 공통점을 말한 뒤 신동엽이 나도 충북 제천이라고 끼어든 대사를 확인했다. TV리포트의 본방 취재도 대조. 실제 방송 영상 미시청."
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6338740",
+          "note": "뉴스1 원문은 요약만 노출,뉴스펍 전재 본문에서초코송이말차/와사비새우깡 순서 정정으로 상대팀 연속 정답·넉살의가만히 있으면 이겨·원희의삼촌들 너무 신났는데요 대꾸를 확인했다.원방송 영상 미시청."
         },
         {
-          "url": "https://tvreport.co.kr/broadcast/article/1087411/amp/",
-          "note": "동일 본방의 멤버 대화와 칭찬을 확인. 예고 기사와 구분."
+          "url": "https://www.newspub.kr/content?aid=6863d4e8ce080a6be2a8b0e9&category=3&dark=0&mid=6863d50be0fc5b5c40aaee65&nid=6ae5dcf35142357afca77ebc",
+          "note": "뉴스1 방송 취재 전재의실제 본문 전체로게임 진행과대꾸 대조.전재 시각을 방송 최초 공개로 쓰지 않음."
         }
       ],
       "materials": [
         {
-          "url": "https://www.fnnews.com/news/202610312053364207",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6338740",
           "label": "확인한 원문 취재",
           "kind": "source"
         }
       ],
-      "caution": "본문 대사로 검증한 기사형 소재, 방송 영상 미시청. 신동엽까지 동갑이라는 의미로 편집하지 않음.",
+      "caution": "실제 부정행위·갈등 아님.예능 게임의 장난이며 별도 발송한 동향·동갑 토크와 다른 대화다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-10-31",
-        "observation": "뉴스1 본방 취재에서 윤아가 설윤과 동갑·1월생·충청도 출신 공통점을 말한 뒤 신동엽이 나도 충북 제천이라고 끼어든 대사를 확인했다. TV리포트의 본방 취재도 대조. 실제 방송 영상 미시청.",
+        "observation": "뉴스1 원문은 요약만 노출,뉴스펍 전재 본문에서초코송이말차/와사비새우깡 순서 정정으로 상대팀 연속 정답·넉살의가만히 있으면 이겨·원희의삼촌들 너무 신났는데요 대꾸를 확인했다.원방송 영상 미시청.",
         "checked_materials": [],
         "outline": [
-          "친해지고 싶은 상대로 설윤을 꼽은 윤아",
-          "동갑·생월·고향의 공통점",
-          "신동엽의 충북 제천 끼어들기"
+          "말차초코송이 대신초코송이말차가 정답",
+          "새우깡와사비도 순서 바꿔 상대팀 득점",
+          "넉살의자축과원희의대꾸"
         ]
       }
     },
     {
-      "title": "4경기 뛴 배지환도 우승반지?…2경기 후 떠난 선수까지 수령 전망",
-      "category": "메이저 스포츠",
-      "url": "https://mhnse.com/news/articleView.html?idxno=1645672",
-      "source": "MHN",
-      "kind": "article",
-      "event_key": "bae-ji-hwan-championship-ring-eligibility-after-brewers-title-20261030",
-      "why": "포스트시즌 명단에 없던 한국 선수에게도 반지가 갈 수 있다는 구단 재량의 의외성이 있다.",
-      "angle": "4경기만 뛰어도, 우승반지가 올 수 있다",
-      "why_now": "현지 새 반지 전망30일KST, MHN 원기사30일10:35:32KST.8월 출전·29일 우승은 배경. 지난 회차 예비였으나 실제 발송 안 된 점 확인.",
-      "verified_at": 1793455305,
-      "published_at": 1793324132,
-      "evidence": [
-        {
-          "url": "https://mhnse.com/news/articleView.html?idxno=1645672",
-          "note": "MHN 본문에서 배지환4경기·포스트시즌 미등록·2경기 후 떠난 맥컬러스의 새 반지 전망·지급은 구단 재량·개별 대상 미발표를 확인했다. 구단의 지급 확정 자료는 없다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://mhnse.com/news/articleView.html?idxno=1645672",
-          "label": "확인한 원문 취재",
-          "kind": "source"
-        }
-      ],
-      "caution": "반지 수령 확정 아님.10월18일 조건부 전망과 구분하며 새 우승 뒤30일 현지 전망을 검토.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-30",
-        "observation": "MHN 본문에서 배지환4경기·포스트시즌 미등록·2경기 후 떠난 맥컬러스의 새 반지 전망·지급은 구단 재량·개별 대상 미발표를 확인했다. 구단의 지급 확정 자료는 없다.",
-        "checked_materials": [],
-        "outline": [
-          "정규시즌4경기만 뛴 배지환",
-          "더 적게 뛴 선수도 대상이 될 수 있다는 전망",
-          "지급은 구단 결정이며 아직 미확정"
-        ]
-      }
-    },
-    {
-      "title": "“근처로 이사 와요” 했더니 이미 샀다…김광규 “서울 집까지28년”",
+      "title": "동생과 식단·휴대폰까지 통제한 합숙…이찬혁은 몰래 삼각김밥 먹었다",
       "category": "시사",
-      "url": "https://www.xportsnews.com/article/2213846",
+      "url": "https://www.xportsnews.com/article/2213887",
       "source": "엑스포츠뉴스",
       "kind": "article",
-      "event_key": "kim-kwang-kyu-yeonhui-house-purchase-loan-reveal-nolmwo-20261031",
-      "why": "송도 집으로 익숙한 김광규가 이사 권유에 이미 서울 집을 샀다고 답하는 새 근황과 대사 반전이다.",
-      "angle": "이사 오라 했더니, 이미 서울 집을 샀다",
-      "why_now": "31일 놀면 뭐하니 본방의 새 주택 매수 공개. 본방 기사19:17:21KST. 사전 공개 예고31일13:52도 있어 본방을 최초 공개라고 단정하지 않음. 실제 계약일 미공개.",
-      "verified_at": 1793455252,
-      "published_at": 1793441841,
+      "event_key": "akmu-suhyun-lifestyle-camp-chanhyuk-secret-convenience-food-reveal-20261031",
+      "why": "동생을 위해 엄격한 규칙을 만든 오빠가 먼저 몰래 편의점 음식을 먹었다는 매니저 폭로로 감동 뒤 웃음이 회수된다.",
+      "angle": "엄격한 합숙의설계자에게도 참기 힘든 편의점",
+      "why_now": "새 공개 전참시10/31 23:10KST 시작,11/1 00:29:38 기사.합숙 자체는2026/1/1 시작한 과거 일화로 구분.해당 폭로의 방송 내 시각 미확인.",
+      "verified_at": 1793487893,
+      "published_at": null,
       "evidence": [
         {
-          "url": "https://www.xportsnews.com/article/2213846",
-          "note": "엑스포츠 본문에서 허경환의 이사 권유→이미 이사했다는 답→대출받은 연희동 매수 공개→서울 집 사는데28년 걸렸다는 말과 상암 접근성 대화를 확인했다. 등기·대출서류·방송 영상 미열람."
+          "url": "https://www.xportsnews.com/article/2213887",
+          "note": "엑스포츠 방송 취재 본문에서가평 합숙·식단/운동·휴대폰 사용 제한·이찬혁의삼각김밥/핫바 몰래 구매 요청이라는 매니저 폭로·이수현 반응·어쨌든 잘됐잖아 대꾸를 확인했다.원방송 영상 미시청."
         }
       ],
       "materials": [
         {
-          "url": "https://www.xportsnews.com/article/2213846",
+          "url": "https://www.xportsnews.com/article/2213887",
           "label": "확인한 원문 취재",
           "kind": "source"
         }
       ],
-      "caution": "생애 첫 자가라는 뜻 아님. 이전 송도 집과 서울 주택을 구분. 실제 매수가·계약일·보유 주택 수 추정 금지.",
+      "caution": "합숙은과거 회상이고 이번 공개와 구분.슬럼프 치료 효과·의학적 처방으로 일반화 금지.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-10-31",
-        "observation": "엑스포츠 본문에서 허경환의 이사 권유→이미 이사했다는 답→대출받은 연희동 매수 공개→서울 집 사는데28년 걸렸다는 말과 상암 접근성 대화를 확인했다. 등기·대출서류·방송 영상 미열람.",
+        "observation": "엑스포츠 방송 취재 본문에서가평 합숙·식단/운동·휴대폰 사용 제한·이찬혁의삼각김밥/핫바 몰래 구매 요청이라는 매니저 폭로·이수현 반응·어쨌든 잘됐잖아 대꾸를 확인했다.원방송 영상 미시청.",
         "checked_materials": [],
         "outline": [
-          "근처로 이사 오라는 허경환의 말",
-          "이미 연희동 집을 매수했다는 공개",
-          "송도 이동거리와 서울 집28년의 소감"
+          "동생 건강 회복을 위한 합숙 규칙",
+          "매니저가 폭로한오빠의편의점 일탈",
+          "처음 안 동생의반응과오빠의능청"
         ]
       }
     },
     {
-      "title": "바이낸스 해킹 질문에 트럼프 “돈을 볼 수도 없다…암호화폐 위험할 수 있어”",
-      "category": "시사",
-      "url": "https://news.tf.co.kr/read/world/2383276.htm",
-      "source": "더팩트",
+      "title": "헤더 막히고 쓰러졌는데…판헤케는 바닥에서 머리로 한 번 더 넣었다",
+      "category": "축구",
+      "url": "https://www.tottenhamhotspur.com/news/1182980/spurs-2-0-palace-roberto-de-zerbis-verdict",
+      "source": "토트넘 공식",
       "kind": "article",
-      "event_key": "trump-binance-hack-north-korea-unknown-crypto-risk-remarks-20261030",
-      "why": "세계 최대 코인거래소 해킹 질문에 대통령이 직접 돈이 보이지 않는다는 불안을 꺼낸 구체적인 발언이다.",
-      "angle": "8조원대 해킹 질문에, 대통령이 꺼낸 “돈이 안 보인다”",
-      "why_now": "30일 현지 백악관 질의응답의 새 발언. 더힐 등30일 보도 인용, 더팩트31일15:09:40 확인.29일 해킹 자체의 재추천이 아님.",
-      "verified_at": 1793455362,
-      "published_at": 1793426980,
+      "event_key": "van-hecke-ground-rebound-header-palace-20261031",
+      "why": "높이 뛰는 헤더 다음 바닥에서의 헤더라는 비정상적인 자세의 득점 과정 자체가 포인트다.",
+      "angle": "일어나기 전에 머리부터 다시 쓴 수비수",
+      "why_now": "경기10/31 영국17:30 시작(KST11/1 02:30).73분 득점·경기 후 구단 원문 공개.페이지 상대시간만 노출,정확 게시 분 단위 미확인.",
+      "verified_at": 1793487789,
+      "published_at": null,
       "evidence": [
         {
-          "url": "https://news.tf.co.kr/read/world/2383276.htm",
-          "note": "더팩트 본문에서 북한 배후 질문에 모른다·살펴본다, 다른 사람이 돈을 다루고 돈을 볼 수도 없어 암호화폐가 위험할 수 있다는 답, 회수 상황은 지켜보겠다는 유보를 확인했다. 백악관 원영상·자산 회수 장부 미열람."
+          "url": "https://www.tottenhamhotspur.com/news/1182980/spurs-2-0-palace-roberto-de-zerbis-verdict",
+          "note": "토트넘 공식 본문에서판헤케 첫 헤더를 헨더슨이 크로스바로 쳐낸 뒤 바닥에 있던 판헤케가 머리로 다시 넣었다는73분 경위를 확인했다.원경기 영상 직접 미시청,기록·구단 묘사 기반 기사형."
         }
       ],
       "materials": [
         {
-          "url": "https://news.tf.co.kr/read/world/2383276.htm",
+          "url": "https://www.tottenhamhotspur.com/news/1182980/spurs-2-0-palace-roberto-de-zerbis-verdict",
           "label": "확인한 원문 취재",
           "kind": "source"
         }
       ],
-      "caution": "북한 소행 확정 아님. 피해·회수액은 인용 보도 수치이며 독립 감사하지 않음. 금융 추천이 아닌 실제 발언 소개.",
+      "caution": "앉은 자세의 정확한 몸동작을 직접 본 것으로 쓰지 않음.결과2-0 자체보다 득점 과정이 소재다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-31",
+        "observation": "토트넘 공식 본문에서판헤케 첫 헤더를 헨더슨이 크로스바로 쳐낸 뒤 바닥에 있던 판헤케가 머리로 다시 넣었다는73분 경위를 확인했다.원경기 영상 직접 미시청,기록·구단 묘사 기반 기사형.",
+        "checked_materials": [],
+        "outline": [
+          "페르난데스 크로스와첫 헤더",
+          "골키퍼 선방 뒤크로스바와낙구",
+          "바닥에서머리로재차 득점"
+        ]
+      }
+    },
+    {
+      "title": "“좋은 티야” 항변한 주우재…유재석 “내 건1만2000원”에 동료들까지 합세",
+      "category": "시사",
+      "url": "https://files.newsis.com/view/NISX20261031_0003849435",
+      "source": "뉴시스",
+      "kind": "article",
+      "event_key": "joo-woo-jae-luxury-shirt-yoo-jae-suk-12000-won-teasing-20261031",
+      "why": "모델이 좋은 옷을 입었다고 항변할수록 동료들이 늘어남·색을 지적하는 꼬리물기 농담이 이어진다.",
+      "angle": "명품 티 방어하다가 네 명의잔소리를 받은 모델",
+      "why_now": "원방송 놀면뭐하니10/31 저녁(해당 대화 분 단위 미확인).뉴시스11/1 05:00 취재.김광규 집/호칭 토크와별도 상황.",
+      "verified_at": 1793487858,
+      "published_at": null,
+      "evidence": [
+        {
+          "url": "https://files.newsis.com/view/NISX20261031_0003849435",
+          "note": "뉴시스 본문에서주우재의좋은 티라는 항변·허경환의옷이 울었다는 지적·유재석의1만2000원 옷 가격·하하의늘어났다는 거들기를 확인했다.명품 구매 영수증·원방송 영상 직접 미확인."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://files.newsis.com/view/NISX20261031_0003849435",
+          "label": "확인한 원문 취재",
+          "kind": "source"
+        }
+      ],
+      "caution": "실제 불화나명품 품질 검사 아님.같은 방송의 별도 대사·상황만 다룬다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-31",
+        "observation": "뉴시스 본문에서주우재의좋은 티라는 항변·허경환의옷이 울었다는 지적·유재석의1만2000원 옷 가격·하하의늘어났다는 거들기를 확인했다.명품 구매 영수증·원방송 영상 직접 미확인.",
+        "checked_materials": [],
+        "outline": [
+          "주우재의의상 불만과유재석의지적",
+          "좋은 티라는항변에허경환까지합세",
+          "1만2000원 옷으로비교하는유재석"
+        ]
+      }
+    },
+    {
+      "title": "순방 끊고 돌아온 폴란드 대통령…헌재 입구에서 재판관들과 몸싸움",
+      "category": "시사",
+      "url": "https://www.yna.co.kr/view/AKR20261031027851009",
+      "source": "연합뉴스",
+      "kind": "article",
+      "event_key": "poland-nawrocki-constitutional-court-judges-physical-confrontation-20261030",
+      "why": "헌재 운영권 다툼이 대통령의 직접 진입과 몸싸움으로 번진 구체 행동,양측 정당화가 충돌한다.",
+      "angle": "복싱 경력 대통령의헌재 출입이몸싸움으로",
+      "why_now": "현지10/30 직무정지·대통령 귀국/충돌,31일 새벽 성명.연합뉴스31일20:00:50KST 종합.최초 현지 보도·공개 영상 시각은 정확 분 미확인.",
+      "verified_at": 1793487901,
+      "published_at": 1793444450,
+      "evidence": [
+        {
+          "url": "https://www.yna.co.kr/view/AKR20261031027851009",
+          "note": "연합뉴스 본문에서소장 직무정지·순방 중단 귀국·헌재 진입 중 재판관들과 몸싸움·대통령실의출입 방해 주장·법무부의수사 방침을 확인했다.원충돌 영상·법적 권한 원문 직접 미열람."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.yna.co.kr/view/AKR20261031027851009",
+          "label": "확인한 원문 취재",
+          "kind": "source"
+        }
+      ],
+      "caution": "쿠데타는야권 주장으로 귀속.복싱 경기·주먹질로 단정 금지.영상 직접 시청 아님.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-10-30",
-        "observation": "더팩트 본문에서 북한 배후 질문에 모른다·살펴본다, 다른 사람이 돈을 다루고 돈을 볼 수도 없어 암호화폐가 위험할 수 있다는 답, 회수 상황은 지켜보겠다는 유보를 확인했다. 백악관 원영상·자산 회수 장부 미열람.",
+        "observation": "연합뉴스 본문에서소장 직무정지·순방 중단 귀국·헌재 진입 중 재판관들과 몸싸움·대통령실의출입 방해 주장·법무부의수사 방침을 확인했다.원충돌 영상·법적 권한 원문 직접 미열람.",
         "checked_materials": [],
         "outline": [
-          "북한 배후설을 묻는 질문",
-          "모른다며 조사 상황을 언급한 답",
-          "암호화폐 위험과 회수 전망에 대한 유보"
+          "헌재소장 직무정지와순방 중단 귀국",
+          "입구에서대통령·재판관들의물리적 대립",
+          "출입 방해 vs재판관 공격이라는상반된 주장"
+        ]
+      }
+    },
+    {
+      "title": "9경기 무승 뒤에도 “다음 경기 지휘?” “네”…퇴장 선수 탓도 안 한 캐릭",
+      "category": "축구",
+      "url": "https://www.standard.co.uk/sport/football/man-utd-carrick-sack-future-chelsea-fc-b1303079.html",
+      "source": "더스탠더드",
+      "kind": "article",
+      "event_key": "carrick-post-chelsea-roma-remain-yes-martinez-not-let-down-response-20261031",
+      "why": "마지막 기회라는 시선 속 패배 뒤에도 본인 거취에는긍정,퇴장 선수가실망시켰냐는질문에는부정하는짧은답이대조된다.",
+      "angle": "유임도 네 글자,선수 탓도 하지 않은경기 후 답변",
+      "why_now": "TNT 경기 후 인터뷰10/31 영국 낮.더스탠더드15:45:55UTC(11/1 00:45:55KST) 공개.이미발송한 경기 중82초퇴장과구별되는새답변.",
+      "verified_at": 1793487789,
+      "published_at": 1793461555,
+      "evidence": [
+        {
+          "url": "https://www.standard.co.uk/sport/football/man-utd-carrick-sack-future-chelsea-fc-b1303079.html",
+          "note": "더스탠더드 본문에서로마전에도지휘하냐는질문에Yeah·마르티네스에게실망했냐는질문에No·경기후팬반응을확인했다.TNT인터뷰영상직접미시청.기사는Sunday로요일오기,실제경기31일토요일구단자료와구별."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.standard.co.uk/sport/football/man-utd-carrick-sack-future-chelsea-fc-b1303079.html",
+          "label": "확인한 원문 취재",
+          "kind": "source"
+        }
+      ],
+      "caution": "구단의유임확정공지가아닌캐릭본인의답.이미발송한퇴장장면을새사건으로재포장하지않음.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-31",
+        "observation": "더스탠더드 본문에서로마전에도지휘하냐는질문에Yeah·마르티네스에게실망했냐는질문에No·경기후팬반응을확인했다.TNT인터뷰영상직접미시청.기사는Sunday로요일오기,실제경기31일토요일구단자료와구별.",
+        "checked_materials": [],
+        "outline": [
+          "첼시전뒤다음경기거취질문",
+          "유임예상에짧게긍정한캐릭",
+          "퇴장선수탓은거부한답변"
+        ]
+      }
+    },
+    {
+      "title": "세계1위 확정했는데 결승은 탈락…즈베레프는 공 들고 “이게 정상이냐”",
+      "category": "메이저 스포츠",
+      "url": "https://www.tageblatt.de/Nachrichten/Zverev-schimpft-ueber-Baelle-und-verpasst-Traumfinale-in-Wien-781289.html",
+      "source": "dpa/타게블라트",
+      "kind": "article",
+      "event_key": "zverev-vienna-semifinal-balls-complaint-de-minaur-20261031",
+      "why": "세계1위 등극을앞둔선수가준결승에서탈락하고심판앞에공을내밀며장비에항의한구체행동이있다.",
+      "angle": "랭킹1위의날과대회우승의날은달랐다",
+      "why_now": "빈준결승10/31 현지. dpa전재31일19:55CET(11/1 03:55KST).항의순간의첫클립공개분미확인.전날LED보드파손과다른경기/행동.",
+      "verified_at": 1793487933,
+      "published_at": null,
+      "evidence": [
+        {
+          "url": "https://www.tageblatt.de/Nachrichten/Zverev-schimpft-ueber-Baelle-und-verpasst-Traumfinale-in-Wien-781289.html",
+          "note": "dpa전재본문에서드미노전4-6/6-1/6-7패배·심판앞에공을들고정상적인대회공이냐고반복항의·월요일랭킹1위예정을확인했다.원클립직접미시청,공결함실측자료없음."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.tageblatt.de/Nachrichten/Zverev-schimpft-ueber-Baelle-und-verpasst-Traumfinale-in-Wien-781289.html",
+          "label": "확인한 원문 취재",
+          "kind": "source"
+        }
+      ],
+      "caution": "공이불량이었다는확정아님.선수의불만에귀속.기존발송LED파손행동반복아님.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-31",
+        "observation": "dpa전재본문에서드미노전4-6/6-1/6-7패배·심판앞에공을들고정상적인대회공이냐고반복항의·월요일랭킹1위예정을확인했다.원클립직접미시청,공결함실측자료없음.",
+        "checked_materials": [],
+        "outline": [
+          "이미확정한차기세계1위",
+          "준결승중심판앞공항의",
+          "드미노승리와결승진출실패"
+        ]
+      }
+    },
+    {
+      "title": "돈치치 재대결 앞두고 살인마 분장…신인 해명은 “내 사이즈가 이것뿐”",
+      "category": "메이저 스포츠",
+      "url": "https://sports.yahoo.com/articles/warriors-yaxel-lendeborg-embraces-halloween-024304307.html",
+      "source": "USA TODAY/Yahoo",
+      "kind": "article",
+      "event_key": "yaxel-lendeborg-michael-myers-costume-only-size-explanation-20261030",
+      "why": "라이벌위협처럼보인살인마분장의실제이유가배송실패와매장사이즈였다는본인설명이반전을만든다.",
+      "angle": "무서운분장뒤에있던현실적인재고사정",
+      "why_now": "분장입장미국10/30 저녁(KST31일오전),경기후새설명.USA TODAY전재31일02:43UTC표시,본문경기후갱신분의정확시각미확인.NBA공식캡션31일대조.",
+      "verified_at": 1793487977,
+      "published_at": null,
+      "evidence": [
+        {
+          "url": "https://sports.yahoo.com/articles/warriors-yaxel-lendeborg-embraces-halloween-024304307.html",
+          "note": "USA TODAY전재본문에서닉캐넌의상배송이늦어매장에갔고맞는사이즈가이것뿐이었다는린드보그설명을확인했다.NBA공식공개embed캡션도동일설명.원영상직접미시청."
+        },
+        {
+          "url": "https://www.instagram.com/p/DfJmSZhEVoo/embed/captioned/",
+          "note": "NBA·워리어스공동계정공개캡션의본인사이즈발언직접열람.캡션확인을영상시청으로기록하지않음."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://sports.yahoo.com/articles/warriors-yaxel-lendeborg-embraces-halloween-024304307.html",
+          "label": "확인한 원문 취재",
+          "kind": "source"
+        }
+      ],
+      "caution": "돈치치협박의도로단정금지.본인설명은분장사정이다.이미발송여부와무관하게역전승기록재탕하지않음.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-30",
+        "observation": "USA TODAY전재본문에서닉캐넌의상배송이늦어매장에갔고맞는사이즈가이것뿐이었다는린드보그설명을확인했다.NBA공식공개embed캡션도동일설명.원영상직접미시청.",
+        "checked_materials": [],
+        "outline": [
+          "돈치치와재대결앞둔마이클마이어스분장",
+          "원래주문한의상배송실패",
+          "매장에맞는사이즈가이것뿐이라는설명"
+        ]
+      }
+    },
+    {
+      "title": "27명 중 메시만 찍었다…마자의 코파 트로피1점은 메시의3순위 표",
+      "category": "축구",
+      "url": "https://worldsoccertalk.com/news/who-did-lionel-messi-vote-for-in-the-kopa-trophy-his-ballot-and-a-surprise-third-pick/",
+      "source": "World Soccer Talk",
+      "kind": "article",
+      "event_key": "messi-kopa-trophy-ibrahim-maza-only-point-ballot-disclosure-20261031",
+      "why": "최종9위의단1점이메시에게서왔다는투표공개의숨은연결고리가있어통상순위나유명인이름만있는소재와다르다.",
+      "angle": "코파트로피1점의출처를열어봤더니메시",
+      "why_now": "투표내역새공개10/31(원표공개정확분미확인).WST31일16:43:26UTC취재.시상식10/26과구분,이번선정은새로공개된개별투표.",
+      "verified_at": 1793487900,
+      "published_at": 1793465006,
+      "evidence": [
+        {
+          "url": "https://worldsoccertalk.com/news/who-did-lionel-messi-vote-for-in-the-kopa-trophy-his-ballot-and-a-surprise-third-pick/",
+          "note": "WST본문에서메시가야말1순위/쿠바르시2순위/마자3순위·27명중마자선택유일·1점으로9위라는보도를확인했다.레키프원투표표직접미열람,독립원표감정아님."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://worldsoccertalk.com/news/who-did-lionel-messi-vote-for-in-the-kopa-trophy-his-ballot-and-a-surprise-third-pick/",
+          "label": "확인한 원문 취재",
+          "kind": "source"
+        }
+      ],
+      "caution": "메시가마자를전체최고유망주로선정한것아님.3순위이며선택이유를월드컵인연으로단정하지않음.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-31",
+        "observation": "WST본문에서메시가야말1순위/쿠바르시2순위/마자3순위·27명중마자선택유일·1점으로9위라는보도를확인했다.레키프원투표표직접미열람,독립원표감정아님.",
+        "checked_materials": [],
+        "outline": [
+          "메시의1·2순위바르사선수들",
+          "3순위에서나온알제리미드필더마자",
+          "27명중유일표와최종1점의연결"
+        ]
+      }
+    },
+    {
+      "title": "“결혼하니 먼저 끊을 게 호동”…이승철이 해명한20년 손절설",
+      "category": "시사",
+      "url": "https://www.newsis.com/view/NISX20261031_0003849446",
+      "source": "뉴시스",
+      "kind": "article",
+      "event_key": "lee-seung-chul-kang-ho-dong-marriage-drinking-friend-distance-reveal-20261031",
+      "why": "오랜손절설을꺼낸강호동에게이승철이술친구를끊어야했다며이유를돌려주는대사반전이있다.",
+      "angle": "인연을끊은게아니라술자리를줄였다는해명",
+      "why_now": "아는형님10/31 방송새대화.뉴시스11/1 05:00취재.결혼·연락감소는20년전일화이며오늘손절선언아님.",
+      "verified_at": 1793487949,
+      "published_at": null,
+      "evidence": [
+        {
+          "url": "https://www.newsis.com/view/NISX20261031_0003849446",
+          "note": "뉴시스본문에서강호동의20년전손절기사서운함·그런적없다는이승철답·만나면술을너무마셔집에기어들어왔다는설명·결혼후술친구부터끊었다는농담을확인했다.원방송미시청."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.newsis.com/view/NISX20261031_0003849446",
+          "label": "확인한 원문 취재",
+          "kind": "source"
+        }
+      ],
+      "caution": "실제절교나현재불화확정아님.과거음주경험회상과방송농담으로귀속.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-31",
+        "observation": "뉴시스본문에서강호동의20년전손절기사서운함·그런적없다는이승철답·만나면술을너무마셔집에기어들어왔다는설명·결혼후술친구부터끊었다는농담을확인했다.원방송미시청.",
+        "checked_materials": [],
+        "outline": [
+          "손절기사서운함을꺼낸강호동",
+          "손절은부정한이승철",
+          "결혼뒤술친구부터끊었다는농담"
+        ]
+      }
+    },
+    {
+      "title": "밀라노 더비 PK 줬다가 취소…VAR 보니 공 맞은 곳은 손 아닌 가슴",
+      "category": "축구",
+      "url": "https://football-italia.net/serie-a-milan-3-1-inter-diego-moreira-derby/",
+      "source": "Football Italia",
+      "kind": "article",
+      "event_key": "milan-inter-gila-chest-handball-penalty-reversed-var-20261031",
+      "why": "더비75분긴장상황에서핸드볼페널티가가슴접촉확인으로취소되는구체적판정반전이다.",
+      "angle": "페널티선언뒤VAR에서바뀐접촉부위",
+      "why_now": "경기10/31 이탈리아20:45(KST11/1 04:45)시작·75분상황.취재31일21:43:24UTC,22:37갱신을최초공개로바꾸지않음.",
+      "verified_at": 1793487829,
+      "published_at": 1793483004,
+      "evidence": [
+        {
+          "url": "https://football-italia.net/serie-a-milan-3-1-inter-diego-moreira-derby/",
+          "note": "Football Italia현장경기본문에서75분미키타리안크로스에질라핸드볼PK선언·VAR이가슴정면접촉임을보여판정변경이라는경위를확인했다.원장면직접미시청."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://football-italia.net/serie-a-milan-3-1-inter-diego-moreira-derby/",
+          "label": "확인한 원문 취재",
+          "kind": "source"
+        }
+      ],
+      "caution": "매수·고의오심단정금지.실제영상검증아닌현장취재본문기반예비.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-31",
+        "observation": "Football Italia현장경기본문에서75분미키타리안크로스에질라핸드볼PK선언·VAR이가슴정면접촉임을보여판정변경이라는경위를확인했다.원장면직접미시청.",
+        "checked_materials": [],
+        "outline": [
+          "인터가추격하는더비후반",
+          "주심의핸드볼페널티선언",
+          "VAR이가슴접촉확인해판정변경"
         ]
       }
     }
