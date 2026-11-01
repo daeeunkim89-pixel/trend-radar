@@ -3,10 +3,10 @@
   "items": {
     "6c9e3e14ea9a": {
       "source": "Türkiye Today",
-      "title": "살라 불화설에 협회가 튀르키예까지? “대표단 파견 검토” 현지 보도",
+      "title": "살라 교체 뒤 불화설…이집트 협회, 튀르키예 방문 검토 보도",
       "link": "https://www.turkiyetoday.com/sports/egypt-considers-sending-delegation-to-trabzon-amid-mohamed-salah-dispute-3231403",
       "first_seen_at": 1793520707,
-      "last_seen_at": 1793531213,
+      "last_seen_at": 1793542283,
       "samples": [
         {
           "at": 1793520707,
@@ -21,46 +21,53 @@
           "reactions": null,
           "rank": 11,
           "rank_kind": null
+        },
+        {
+          "at": 1793542283,
+          "views": null,
+          "reactions": null,
+          "rank": 12,
+          "rank_kind": null
         }
       ],
       "parser_revision": 7,
       "content_kind": "article",
       "story_id": "6c9e3e14ea9a",
       "editorial": {
-        "title": "살라 불화설에 협회가 튀르키예까지? “대표단 파견 검토” 현지 보도",
+        "title": "살라 교체 뒤 불화설…이집트 협회, 튀르키예 방문 검토 보도",
         "category": "축구",
         "url": "https://www.turkiyetoday.com/sports/egypt-considers-sending-delegation-to-trabzon-amid-mohamed-salah-dispute-3231403",
         "source": "Türkiye Today",
         "kind": "article",
         "event_key": "egypt-federation-trabzon-delegation-considered-salah-hassan-20261031",
-        "why": "대표팀 스타와 감독 갈등을 풀려고 소속팀이 있는 나라에 협회 관계자가 가는 방안까지 보도됐다는 새 후속이다.",
-        "angle": "살라 교체 논쟁 뒤 나온 해외 중재 방문설",
-        "why_now": "Türkiye Today10/31 13:14GMT+3 최초취재. 과거 앙골라전 교체·남수단전 결장은 배경이고 이번 파견검토 보도와 구분.",
-        "verified_at": 1793530856,
+        "why": "대표팀 교체 논란이 선수의 소속팀 도시까지 찾아가 풀어야 한다는 중재 검토설로 확장됐다.",
+        "angle": "협회 중재설과 미확정이라는 확인 한계",
+        "why_now": "TürkiyeToday10/31 13:14GMT+3 최초 기사. 과거 A매치 교체는 배경. Fanatik 선행·Tharwat 발언 최초분 미확인,48시간 내 공개 보도.",
+        "verified_at": 1793542141,
         "published_at": 1793441640,
         "evidence": [
           {
             "url": "https://www.turkiyetoday.com/sports/egypt-considers-sending-delegation-to-trabzon-amid-mohamed-salah-dispute-3231403",
-            "note": "Türkiye Today 본문에서 Fanatik과 이집트 교수 발언을 근거로 아부리다·아잠이 중재에 관여하며 트라브존 방문을 검토한다는 보도를 확인. 같은 본문은 공식결정·실행 미확인이라고 명시."
+            "note": "TürkiyeToday 본문에서 Tharwat 주장의 협회장·임원 관여와 트라브존 방문 검토, 공식 결정 미확정을 확인. 협회 직접 발표·당사자 원발언 미열람."
           }
         ],
         "materials": [
           {
             "url": "https://www.turkiyetoday.com/sports/egypt-considers-sending-delegation-to-trabzon-amid-mohamed-salah-dispute-3231403",
-            "label": "확인한 원문 취재",
+            "label": "기사 본문 확인·사실 카드",
             "kind": "source"
           }
         ],
-        "caution": "살라·감독 불화 및 대표단 출국 확정 아님. 제3자에 근거한 현지 보도로 귀속.",
+        "caution": "대표단 파견 확정·살라 대표팀 은퇴로 쓰지 않음. 불화 자체도 보도와 제3자 주장에 귀속.",
         "readiness": {
           "mode": "major_news",
           "event_date": "2026-10-31",
-          "observation": "Türkiye Today 본문에서 Fanatik과 이집트 교수 발언을 근거로 아부리다·아잠이 중재에 관여하며 트라브존 방문을 검토한다는 보도를 확인. 같은 본문은 공식결정·실행 미확인이라고 명시.",
+          "observation": "TürkiyeToday 본문에서 Tharwat 주장의 협회장·임원 관여와 트라브존 방문 검토, 공식 결정 미확정을 확인. 협회 직접 발표·당사자 원발언 미열람.",
           "checked_materials": [],
           "outline": [
-            "살라 교체와 불화설이라는 배경",
-            "협회가 트라브존 방문을 검토한다는 취재",
-            "공식 확정이나 실제 방문 여부는 미확인"
+            "살라와 감독의 대표팀 교체 관련 불화설",
+            "소속팀 도시 방문을 검토한다는 주장",
+            "확정 일정·공식 결정은 없다는 보도"
           ]
         }
       },
@@ -69,16 +76,808 @@
         "media": [],
         "source_links": [
           {
-            "label": "확인한 원문 취재",
+            "label": "기사 본문 확인·사실 카드",
             "url": "https://www.turkiyetoday.com/sports/egypt-considers-sending-delegation-to-trabzon-amid-mohamed-salah-dispute-3231403"
           }
         ],
         "excerpt": "",
-        "context": "Türkiye Today10/31 13:14GMT+3 최초취재. 과거 앙골라전 교체·남수단전 결장은 배경이고 이번 파견검토 보도와 구분.",
-        "fetched_at": 1793531213,
+        "context": "TürkiyeToday10/31 13:14GMT+3 최초 기사. 과거 A매치 교체는 배경. Fanatik 선행·Tharwat 발언 최초분 미확인,48시간 내 공개 보도.",
+        "fetched_at": 1793542283,
         "parser_revision": 7
       },
       "curation_event_key": "egypt-federation-trabzon-delegation-considered-salah-hassan-20261031"
+    },
+    "7750f04cae7f": {
+      "source": "스포츠경향",
+      "title": "“집이 불타서 사라진 연기”에 릴리 “연기 안 해도 되겠는데”…자컨 해당 구간 삭제 보도",
+      "link": "https://sports.khan.co.kr/article/202610311832003",
+      "first_seen_at": 1793542283,
+      "last_seen_at": 1793542283,
+      "samples": [
+        {
+          "at": 1793542283,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "7750f04cae7f",
+      "editorial": {
+        "title": "“집이 불타서 사라진 연기”에 릴리 “연기 안 해도 되겠는데”…자컨 해당 구간 삭제 보도",
+        "category": "아이돌",
+        "url": "https://sports.khan.co.kr/article/202610311832003",
+        "source": "스포츠경향",
+        "kind": "article",
+        "event_key": "nmixx-lily-fire-acting-prompt-scene-deletion-reported-20261031",
+        "why": "산불을 겪은 멤버에게 화재 상황극을 제시했다는 논란이 실제 영상 편집으로 이어졌다는 새 후속이다.",
+        "angle": "원영상 재추천보다 문제 구간 삭제라는 후속",
+        "why_now": "새 후속은10/31 18:32KST 기사에 확인된 구간 삭제 보도. 원영상10/30·과거 산불2009년은 배경. 삭제 최초분·원영상 업로드분 미확인.",
+        "verified_at": 1793542141,
+        "published_at": 1793439120,
+        "evidence": [
+          {
+            "url": "https://sports.khan.co.kr/article/202610311832003",
+            "note": "스포츠경향 본문에서 화재 연기 주제·릴리의 연기 안 해도 되겠다는 말·멤버들의 항의·문제 구간 삭제 보도를 확인. 원영상과 삭제 전후 프레임 직접 미시청."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://sports.khan.co.kr/article/202610311832003",
+            "label": "기사 본문 확인·사실 카드",
+            "kind": "source"
+          }
+        ],
+        "caution": "제작진 고의·현재 심리상태 추정 금지. 삭제 자체도 기사에 귀속하며 직접 전후 검증한 장면으로 쓰지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-31",
+          "observation": "스포츠경향 본문에서 화재 연기 주제·릴리의 연기 안 해도 되겠다는 말·멤버들의 항의·문제 구간 삭제 보도를 확인. 원영상과 삭제 전후 프레임 직접 미시청.",
+          "checked_materials": [],
+          "outline": [
+            "산불 경험이 있던 릴리라는 배경",
+            "제시된 화재 연기 주제와 답",
+            "10/31 보도에 확인된 삭제 후속"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "기사 본문 확인·사실 카드",
+            "url": "https://sports.khan.co.kr/article/202610311832003"
+          }
+        ],
+        "excerpt": "",
+        "context": "새 후속은10/31 18:32KST 기사에 확인된 구간 삭제 보도. 원영상10/30·과거 산불2009년은 배경. 삭제 최초분·원영상 업로드분 미확인.",
+        "fetched_at": 1793542283,
+        "parser_revision": 7
+      },
+      "curation_event_key": "nmixx-lily-fire-acting-prompt-scene-deletion-reported-20261031"
+    },
+    "7cd2de7f211d": {
+      "source": "TNT Sports",
+      "title": "해트트릭 앞두고 야말 교체한 플릭 “두 골 넣으면 빼기 더 쉽다”",
+      "link": "https://www.tntsports.co.uk/football/la-liga/2026-2027/hansi-flick-pep-guardiola-luis-enrique-new-barcelona-record-alaves-win-lamine-yamal_sto23351145/story.shtml",
+      "first_seen_at": 1793542283,
+      "last_seen_at": 1793542283,
+      "samples": [
+        {
+          "at": 1793542283,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "7cd2de7f211d",
+      "editorial": {
+        "title": "해트트릭 앞두고 야말 교체한 플릭 “두 골 넣으면 빼기 더 쉽다”",
+        "category": "축구",
+        "url": "https://www.tntsports.co.uk/football/la-liga/2026-2027/hansi-flick-pep-guardiola-luis-enrique-new-barcelona-record-alaves-win-lamine-yamal_sto23351145/story.shtml",
+        "source": "TNT Sports",
+        "kind": "article",
+        "event_key": "flick-yamal-two-goals-easier-substitution-halftime-agreement-20261031",
+        "why": "골을 넣으면 더 뛰고 싶을 법한 공격수에게 오히려 두 골을 넣었기에 교체하기 쉬웠다는 감독의 설명이 붙었다.",
+        "angle": "해트트릭 기회와 출전시간 관리의 반대 관점",
+        "why_now": "10/31 바르셀로나 현지 알라베스전 뒤 새 기자회견. TNT11/1 기사, ESPN 최초31일19:38ET 표기 대조. 정확 발화분 미확인.",
+        "verified_at": 1793542141,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.tntsports.co.uk/football/la-liga/2026-2027/hansi-flick-pep-guardiola-luis-enrique-new-barcelona-record-alaves-win-lamine-yamal_sto23351145/story.shtml",
+            "note": "TNT 본문에서 야말 두 골 뒤 후반 교체·플릭의 두 골 넣으면 나오기 쉽다는 말·하프타임에 시간관리를 논의했다는 설명 확인. 실제 기자회견·표정 미시청."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.tntsports.co.uk/football/la-liga/2026-2027/hansi-flick-pep-guardiola-luis-enrique-new-barcelona-record-alaves-win-lamine-yamal_sto23351145/story.shtml",
+            "label": "기사 본문 확인·사실 카드",
+            "kind": "source"
+          }
+        ],
+        "caution": "야말이 실제로 불만을 터뜨렸다고 쓰지 않음. 해트트릭 방해·둘의 불화로 과장 금지.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-31",
+          "observation": "TNT 본문에서 야말 두 골 뒤 후반 교체·플릭의 두 골 넣으면 나오기 쉽다는 말·하프타임에 시간관리를 논의했다는 설명 확인. 실제 기자회견·표정 미시청.",
+          "checked_materials": [],
+          "outline": [
+            "두 골을 넣고 교체된 야말",
+            "두 골이면 빼기 쉽다는 플릭 설명",
+            "하프타임에 먼저 논의한 출전시간 관리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "기사 본문 확인·사실 카드",
+            "url": "https://www.tntsports.co.uk/football/la-liga/2026-2027/hansi-flick-pep-guardiola-luis-enrique-new-barcelona-record-alaves-win-lamine-yamal_sto23351145/story.shtml"
+          }
+        ],
+        "excerpt": "",
+        "context": "10/31 바르셀로나 현지 알라베스전 뒤 새 기자회견. TNT11/1 기사, ESPN 최초31일19:38ET 표기 대조. 정확 발화분 미확인.",
+        "fetched_at": 1793542283,
+        "parser_revision": 7
+      },
+      "curation_event_key": "flick-yamal-two-goals-easier-substitution-halftime-agreement-20261031"
+    },
+    "98541c4eadc2": {
+      "source": "뉴스엔",
+      "title": "팔 꺾였다가 판정 뒤 환호…허미미 “아픈 척하다가 괜찮은 거다”",
+      "link": "https://www.newsen.com/news_view.php?code=100100&uid=202611011953366110",
+      "first_seen_at": 1793542283,
+      "last_seen_at": 1793542283,
+      "samples": [
+        {
+          "at": 1793542283,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "98541c4eadc2",
+      "editorial": {
+        "title": "팔 꺾였다가 판정 뒤 환호…허미미 “아픈 척하다가 괜찮은 거다”",
+        "category": "메이저 스포츠",
+        "url": "https://www.newsen.com/news_view.php?code=100100&uid=202611011953366110",
+        "source": "뉴스엔",
+        "kind": "article",
+        "event_key": "huh-mi-mi-penalty-pain-appeal-then-cheer-new-explanation-20261101",
+        "why": "아프지만 괜찮음을 증명했다는 당시 중계와 본인의 경기 운영 설명이 새 방송에서 다르게 회수됐다.",
+        "angle": "부상투혼 중계에 더해진 본인의 새 설명",
+        "why_now": "새 발언11/1 20:50KST 냉부95회, 뉴스엔21:18:48 취재. 원준결승은 아시안게임 과거 경기, 정확 경기일·발언분 미확인.",
+        "verified_at": 1793542141,
+        "published_at": 1793535528,
+        "evidence": [
+          {
+            "url": "https://www.newsen.com/news_view.php?code=100100&uid=202611011953366110",
+            "note": "뉴스엔 본문에서 상대 지도가 이미2개·팔이 꺾인 상황·괜찮아진 뒤에도 있다가 지도 판정에 환호했다는 허미미 답과 캐스터 설명 확인. 경기·방송 영상 직접 미시청."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.newsen.com/news_view.php?code=100100&uid=202611011953366110",
+            "label": "기사 본문 확인·사실 카드",
+            "kind": "source"
+          }
+        ],
+        "caution": "실제 반칙이 없었다거나 부상을 전부 조작했다는 결론 금지. 새 회상 발언과 과거 경기 분리.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-01",
+          "observation": "뉴스엔 본문에서 상대 지도가 이미2개·팔이 꺾인 상황·괜찮아진 뒤에도 있다가 지도 판정에 환호했다는 허미미 답과 캐스터 설명 확인. 경기·방송 영상 직접 미시청.",
+          "checked_materials": [],
+          "outline": [
+            "상대에게 지도2개가 있던 준결승 상황",
+            "팔이 꺾인 뒤 괜찮아졌다는 본인 설명",
+            "판정 뒤 환호와 당시 중계의 대비"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "기사 본문 확인·사실 카드",
+            "url": "https://www.newsen.com/news_view.php?code=100100&uid=202611011953366110"
+          }
+        ],
+        "excerpt": "",
+        "context": "새 발언11/1 20:50KST 냉부95회, 뉴스엔21:18:48 취재. 원준결승은 아시안게임 과거 경기, 정확 경기일·발언분 미확인.",
+        "fetched_at": 1793542283,
+        "parser_revision": 7
+      },
+      "curation_event_key": "huh-mi-mi-penalty-pain-appeal-then-cheer-new-explanation-20261101"
+    },
+    "3e01d01bdab7": {
+      "source": "스포츠조선",
+      "title": "두 명 퇴장·0-1 패배 뒤…팬이 심판 향해 던진 건 목발",
+      "link": "https://www.sportschosun.com/football/2026-11-01/202611010100003360000104",
+      "first_seen_at": 1793542283,
+      "last_seen_at": 1793542283,
+      "samples": [
+        {
+          "at": 1793542283,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "3e01d01bdab7",
+      "editorial": {
+        "title": "두 명 퇴장·0-1 패배 뒤…팬이 심판 향해 던진 건 목발",
+        "category": "축구",
+        "url": "https://www.sportschosun.com/football/2026-11-01/202611010100003360000104",
+        "source": "스포츠조선",
+        "kind": "article",
+        "event_key": "oldham-crawley-supporter-crutch-thrown-referee-20261031",
+        "why": "항의 도구가 목발이었다는 구체적인 돌발 행동과 심판을 맞히지 않았다는 결과가 짧게 완결된다.",
+        "angle": "판정 불만이 목발 투척으로 번진 경기 후 사건",
+        "why_now": "올덤-크롤리10/31 영국 경기(KST11/1). 더선31일 최초 영상 취재 단서, 한국 기사11/1 13:57. 정확 최초 영상분 미확인.",
+        "verified_at": 1793542141,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.sportschosun.com/football/2026-11-01/202611010100003360000104",
+            "note": "스포츠조선 본문에서 올덤2명 퇴장·0-1패·경기 뒤 데이비드 록 주심에게 팬이 목발을 던졌으나 맞히지 않았다는 취재 확인. 더선 원영상 직접 미시청."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.sportschosun.com/football/2026-11-01/202611010100003360000104",
+            "label": "기사 본문 확인·사실 카드",
+            "kind": "source"
+          }
+        ],
+        "caution": "팬 신원·장애 여부·구단 징계 확정하지 않음. 감독의 팬 칭찬을 투척 옹호로 연결하지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-31",
+          "observation": "스포츠조선 본문에서 올덤2명 퇴장·0-1패·경기 뒤 데이비드 록 주심에게 팬이 목발을 던졌으나 맞히지 않았다는 취재 확인. 더선 원영상 직접 미시청.",
+          "checked_materials": [],
+          "outline": [
+            "두 명이 퇴장당한 올덤 경기",
+            "떠나는 주심에게 날아간 목발이라는 보도",
+            "심판 피격은 없었고 처분은 미확인"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "기사 본문 확인·사실 카드",
+            "url": "https://www.sportschosun.com/football/2026-11-01/202611010100003360000104"
+          }
+        ],
+        "excerpt": "",
+        "context": "올덤-크롤리10/31 영국 경기(KST11/1). 더선31일 최초 영상 취재 단서, 한국 기사11/1 13:57. 정확 최초 영상분 미확인.",
+        "fetched_at": 1793542283,
+        "parser_revision": 7
+      },
+      "curation_event_key": "oldham-crawley-supporter-crutch-thrown-referee-20261031"
+    },
+    "d558a4976e96": {
+      "source": "MHN",
+      "title": "입사는 내가 선배인데 숟가락은 나만…최강창민이 김희철 얄미웠던 이유",
+      "link": "https://mhnse.com/news/articleView.html?idxno=1659107",
+      "first_seen_at": 1793542283,
+      "last_seen_at": 1793542283,
+      "samples": [
+        {
+          "at": 1793542283,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "d558a4976e96",
+      "editorial": {
+        "title": "입사는 내가 선배인데 숟가락은 나만…최강창민이 김희철 얄미웠던 이유",
+        "category": "시사",
+        "url": "https://mhnse.com/news/articleView.html?idxno=1659107",
+        "source": "MHN",
+        "kind": "article",
+        "event_key": "changmin-heechul-trainee-seniority-spoon-setting-complaint-20261101",
+        "why": "입사 순서대로 깍듯해야 한다고 배운 선배가 식사를 준비할 때 나이 많은 후배는 형들과 어울렸다는 예능 회상이다.",
+        "angle": "연습생 선배와 나이 많은 후배 사이의 숟가락 세팅",
+        "why_now": "11/1 21시 미우새 새 방송 발언. 스타뉴스21:33 선행취재·MHN본문 대조. 과거 연습생 시절 사건일·녹화일·정확 최초 발화분 미확인.",
+        "verified_at": 1793542141,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://mhnse.com/news/articleView.html?idxno=1659107",
+            "note": "MHN 본문에서 최강창민이 입사 선배·자신은 숟가락 세팅·김희철은 선배들과 어울렸다는 회상과 너스레도 능력이라는 답 확인. 원방송 미시청."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://mhnse.com/news/articleView.html?idxno=1659107",
+            "label": "기사 본문 확인·사실 카드",
+            "kind": "source"
+          }
+        ],
+        "caution": "현재 갑질·실제 불화로 단정 금지. 가족·아들 일화를 별도 소재로 분할하지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-01",
+          "observation": "MHN 본문에서 최강창민이 입사 선배·자신은 숟가락 세팅·김희철은 선배들과 어울렸다는 회상과 너스레도 능력이라는 답 확인. 원방송 미시청.",
+          "checked_materials": [],
+          "outline": [
+            "입사 순서로는 최강창민이 선배",
+            "숟가락 세팅 중 형들과 어울린 김희철",
+            "너스레도 능력이라고 돌아본 창민"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "기사 본문 확인·사실 카드",
+            "url": "https://mhnse.com/news/articleView.html?idxno=1659107"
+          }
+        ],
+        "excerpt": "",
+        "context": "11/1 21시 미우새 새 방송 발언. 스타뉴스21:33 선행취재·MHN본문 대조. 과거 연습생 시절 사건일·녹화일·정확 최초 발화분 미확인.",
+        "fetched_at": 1793542283,
+        "parser_revision": 7
+      },
+      "curation_event_key": "changmin-heechul-trainee-seniority-spoon-setting-complaint-20261101"
+    },
+    "97fe1e8daac9": {
+      "source": "싱글리스트",
+      "title": "조나단 “비웨사랑 달리기 차이 별로 안 나”…국대 답은 “굳이 말로 해야 하나요?”",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=778096",
+      "first_seen_at": 1793542283,
+      "last_seen_at": 1793542283,
+      "samples": [
+        {
+          "at": 1793542283,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "97fe1e8daac9",
+      "editorial": {
+        "title": "조나단 “비웨사랑 달리기 차이 별로 안 나”…국대 답은 “굳이 말로 해야 하나요?”",
+        "category": "메이저 스포츠",
+        "url": "https://www.slist.kr/news/articleView.html?idxno=778096",
+        "source": "싱글리스트",
+        "kind": "article",
+        "event_key": "jonathan-biwsah-running-close-claim-do-we-need-to-say-retort-20261101",
+        "why": "국가대표와 비슷하게 달렸다는 방송인의 허세에 당사자가 설명할 필요도 없다는 반응으로 받아치는 실제 문답이다.",
+        "angle": "달리기 자신감과 국가대표의 담담한 답",
+        "why_now": "냉부11/1 20:50KST 방송, 싱글리스트21:17 본문. 과거 달리기·축하DM은 배경, 새로 공개된 영상통화 문답. 녹화일·발화분 미확인.",
+        "verified_at": 1793542141,
+        "published_at": 1793535420,
+        "evidence": [
+          {
+            "url": "https://www.slist.kr/news/articleView.html?idxno=778096",
+            "note": "싱글리스트 본문에서 조나단이 달리러 간다는 통화·비웨사와 차이가 안 났다는 말·사실인지 묻자 굳이 말로 해야 하냐는 비웨사 답 확인. 방송 직접 미시청."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.slist.kr/news/articleView.html?idxno=778096",
+            "label": "기사 본문 확인·사실 카드",
+            "kind": "source"
+          }
+        ],
+        "caution": "실제 달리기 기록 차이를 측정한 자료 아님. 같은 통화의 DM 농담을 또 한 소재로 나누지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-01",
+          "observation": "싱글리스트 본문에서 조나단이 달리러 간다는 통화·비웨사와 차이가 안 났다는 말·사실인지 묻자 굳이 말로 해야 하냐는 비웨사 답 확인. 방송 직접 미시청.",
+          "checked_materials": [],
+          "outline": [
+            "영상통화 중 달리러 간다는 조나단",
+            "국가대표와 차이가 별로 없다는 자평",
+            "굳이 말로 해야 하냐는 비웨사 반응"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "기사 본문 확인·사실 카드",
+            "url": "https://www.slist.kr/news/articleView.html?idxno=778096"
+          }
+        ],
+        "excerpt": "",
+        "context": "냉부11/1 20:50KST 방송, 싱글리스트21:17 본문. 과거 달리기·축하DM은 배경, 새로 공개된 영상통화 문답. 녹화일·발화분 미확인.",
+        "fetched_at": 1793542283,
+        "parser_revision": 7
+      },
+      "curation_event_key": "jonathan-biwsah-running-close-claim-do-we-need-to-say-retort-20261101"
+    },
+    "662cd701846c": {
+      "source": "Pro Football Network",
+      "title": "심판 비판에 2만5000달러…맥키니 “돈 충분히 버니까 괜찮다”",
+      "link": "https://www.profootballnetwork.com/nfl-fans-react-packers-safety-fined-25000-criticizing-officials/",
+      "first_seen_at": 1793542283,
+      "last_seen_at": 1793542283,
+      "samples": [
+        {
+          "at": 1793542283,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "662cd701846c",
+      "editorial": {
+        "title": "심판 비판에 2만5000달러…맥키니 “돈 충분히 버니까 괜찮다”",
+        "category": "메이저 스포츠",
+        "url": "https://www.profootballnetwork.com/nfl-fans-react-packers-safety-fined-25000-criticizing-officials/",
+        "source": "Pro Football Network",
+        "kind": "article",
+        "event_key": "xavier-mckinney25000-fine-criticism-make-enough-money-response-20261031",
+        "why": "벌금을 각오하고 심판을 비판한 선수가 실제 벌금 확인 뒤에도 돈은 충분히 번다며 물러서지 않은 새 반응이다.",
+        "angle": "벌금 맞아도 발언을 거두지 않은 선수",
+        "why_now": "원판정은 과거7주차. 이번 벌금 공개·반응은10/31 보도·팬 반응, PFN11/1 01:41EDT. 최초 징계 통지분·반응 발화분 미확인.",
+        "verified_at": 1793542141,
+        "published_at": 1793511660,
+        "evidence": [
+          {
+            "url": "https://www.profootballnetwork.com/nfl-fans-react-packers-safety-fined-25000-criticizing-officials/",
+            "note": "PFN 본문에서 맥키니 심판 비판 뒤2만5000달러 벌금·본인 확인과 충분히 버니 괜찮다는 답·심판조 다음 배정 변경 보도 확인. 리그 원처분·원인터뷰 직접 미열람."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.profootballnetwork.com/nfl-fans-react-packers-safety-fined-25000-criticizing-officials/",
+            "label": "기사 본문 확인·사실 카드",
+            "kind": "source"
+          }
+        ],
+        "caution": "심판 오심·편파 자체가 공식 인정됐다고 쓰지 않음. 팬 댓글을 전체 여론으로 일반화 금지.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-31",
+          "observation": "PFN 본문에서 맥키니 심판 비판 뒤2만5000달러 벌금·본인 확인과 충분히 버니 괜찮다는 답·심판조 다음 배정 변경 보도 확인. 리그 원처분·원인터뷰 직접 미열람.",
+          "checked_materials": [],
+          "outline": [
+            "심판 판정을 공개 비판한 맥키니",
+            "실제로 부과됐다고 확인한 벌금",
+            "돈은 충분히 번다는 본인 반응"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "기사 본문 확인·사실 카드",
+            "url": "https://www.profootballnetwork.com/nfl-fans-react-packers-safety-fined-25000-criticizing-officials/"
+          }
+        ],
+        "excerpt": "",
+        "context": "원판정은 과거7주차. 이번 벌금 공개·반응은10/31 보도·팬 반응, PFN11/1 01:41EDT. 최초 징계 통지분·반응 발화분 미확인.",
+        "fetched_at": 1793542283,
+        "parser_revision": 7
+      },
+      "curation_event_key": "xavier-mckinney25000-fine-criticism-make-enough-money-response-20261031"
+    },
+    "e129e621e17d": {
+      "source": "Salt Lake Tribune",
+      "title": "두 번 돌려보고도 터치다운…경기 뒤 Big12 “점수 주면 안 됐다”",
+      "link": "https://www.sltrib.com/sports/byu-cougars/2026/11/01/another-controversial-call-goes/",
+      "first_seen_at": 1793542283,
+      "last_seen_at": 1793542283,
+      "samples": [
+        {
+          "at": 1793542283,
+          "views": null,
+          "reactions": null,
+          "rank": 8,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "e129e621e17d",
+      "editorial": {
+        "title": "두 번 돌려보고도 터치다운…경기 뒤 Big12 “점수 주면 안 됐다”",
+        "category": "메이저 스포츠",
+        "url": "https://www.sltrib.com/sports/byu-cougars/2026/11/01/another-controversial-call-goes/",
+        "source": "Salt Lake Tribune",
+        "kind": "article",
+        "event_key": "byu-arizona-state-double-review-incorrect-touchdown-big12-admission-20261031",
+        "why": "비디오 판독을 거듭해 인정한 점수가 경기 종료 뒤 잘못된 규칙 적용이었다고 발표된 구체적인 역전이다.",
+        "angle": "판독이 오심을 바로잡지 못한 뒤늦은 인정",
+        "why_now": "BYU-ASU10/31 현지 경기·당일밤 협회성명. Yahoo11/1 04:05UTC 선행취재, SLTrib11/1 기사. 정확 성명 최초분 미확인.",
+        "verified_at": 1793542141,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.sltrib.com/sports/byu-cougars/2026/11/01/another-controversial-call-goes/",
+            "note": "SLTrib 본문에서 1쿼터11:27 펌블 회수 뒤 터치다운·ASU 감독 항의 후 재판독·Big12가 올바른 판정은2야드서3rd-and-goal이었다고 인정한 성명 확인. 중계 미시청."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.sltrib.com/sports/byu-cougars/2026/11/01/another-controversial-call-goes/",
+            "label": "기사 본문 확인·사실 카드",
+            "kind": "source"
+          }
+        ],
+        "caution": "27-20 결과가 취소됐거나 승패가 뒤집혔다고 쓰지 않음. 과거 다른경기 오심과 이번 오류를 구분.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-31",
+          "observation": "SLTrib 본문에서 1쿼터11:27 펌블 회수 뒤 터치다운·ASU 감독 항의 후 재판독·Big12가 올바른 판정은2야드서3rd-and-goal이었다고 인정한 성명 확인. 중계 미시청.",
+          "checked_materials": [],
+          "outline": [
+            "펌블 회수 뒤 인정한 BYU 터치다운",
+            "항의와 두 번째 비디오 판독",
+            "경기 뒤 나온 Big12 규칙 적용 오류 인정"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "기사 본문 확인·사실 카드",
+            "url": "https://www.sltrib.com/sports/byu-cougars/2026/11/01/another-controversial-call-goes/"
+          }
+        ],
+        "excerpt": "",
+        "context": "BYU-ASU10/31 현지 경기·당일밤 협회성명. Yahoo11/1 04:05UTC 선행취재, SLTrib11/1 기사. 정확 성명 최초분 미확인.",
+        "fetched_at": 1793542283,
+        "parser_revision": 7
+      },
+      "curation_event_key": "byu-arizona-state-double-review-incorrect-touchdown-big12-admission-20261031"
+    },
+    "dac3f6e7ed31": {
+      "source": "한국일보",
+      "title": "20년 만에 롯데 돌아온 이동욱 “그대로인 건 조지훈 응원단장뿐”",
+      "link": "https://www.hankookilbo.com/news/article/amp/A2026110108520002884",
+      "first_seen_at": 1793542283,
+      "last_seen_at": 1793542283,
+      "samples": [
+        {
+          "at": 1793542283,
+          "views": null,
+          "reactions": null,
+          "rank": 9,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "dac3f6e7ed31",
+      "editorial": {
+        "title": "20년 만에 롯데 돌아온 이동욱 “그대로인 건 조지훈 응원단장뿐”",
+        "category": "메이저 스포츠",
+        "url": "https://www.hankookilbo.com/news/article/amp/A2026110108520002884",
+        "source": "한국일보",
+        "kind": "article",
+        "event_key": "lee-dong-wook-lotte-return20years-only-cho-ji-hoon-unchanged-20261031",
+        "why": "강산이 두 번 바뀐 귀환에서 선수나 감독 대신 응원단장만 그대로라는 실제 한마디가 롯데팬의 오랜 시간을 건드린다.",
+        "angle": "20년 사이 그대로 남은 응원단장이라는 농담",
+        "why_now": "10/31 부산 취임식 새 발언. 이데일리31일15:40 선행취재, 한국일보11/1 09:05. 정확 발언분 미확인.",
+        "verified_at": 1793542141,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.hankookilbo.com/news/article/amp/A2026110108520002884",
+            "note": "한국일보 본문에서20년 만에 귀환·강산이 두 번 변했지만 코치 때 처음 시작한 조지훈 단장만 그대로라는 본인 발언 확인. 취임식 원영상 미시청."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.hankookilbo.com/news/article/amp/A2026110108520002884",
+            "label": "기사 본문 확인·사실 카드",
+            "kind": "source"
+          }
+        ],
+        "caution": "다른 모든 직원이 실제 교체됐다는 인사 통계로 쓰지 않음. 본인의 소회·농담.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-31",
+          "observation": "한국일보 본문에서20년 만에 귀환·강산이 두 번 변했지만 코치 때 처음 시작한 조지훈 단장만 그대로라는 본인 발언 확인. 취임식 원영상 미시청.",
+          "checked_materials": [],
+          "outline": [
+            "2006년 떠났다가 감독으로 돌아온 이동욱",
+            "강산 두 번 변했다는 인사",
+            "조지훈만 그대로라는 새 취임식 발언"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "기사 본문 확인·사실 카드",
+            "url": "https://www.hankookilbo.com/news/article/amp/A2026110108520002884"
+          }
+        ],
+        "excerpt": "",
+        "context": "10/31 부산 취임식 새 발언. 이데일리31일15:40 선행취재, 한국일보11/1 09:05. 정확 발언분 미확인.",
+        "fetched_at": 1793542283,
+        "parser_revision": 7
+      },
+      "curation_event_key": "lee-dong-wook-lotte-return20years-only-cho-ji-hoon-unchanged-20261031"
+    },
+    "e1093f72e1c8": {
+      "source": "엑스포츠뉴스",
+      "title": "월드컵 부상으로 혼자 돌아온 조유민…소연, 그 시련 중 찾아온 아들 공개",
+      "link": "https://www.xportsnews.com/article/2214121",
+      "first_seen_at": 1793542283,
+      "last_seen_at": 1793542283,
+      "samples": [
+        {
+          "at": 1793542283,
+          "views": null,
+          "reactions": null,
+          "rank": 10,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "e1093f72e1c8",
+      "editorial": {
+        "title": "월드컵 부상으로 혼자 돌아온 조유민…소연, 그 시련 중 찾아온 아들 공개",
+        "category": "축구",
+        "url": "https://www.xportsnews.com/article/2214121",
+        "source": "엑스포츠뉴스",
+        "kind": "article",
+        "event_key": "soyeon-cho-yu-min-pregnancy-worldcup-injury-fourth-anniversary-20261101",
+        "why": "첫 월드컵 이후 두 번째 대회를 준비하다 다친 국대 선수의 이야기에 부부가 새 생명을 만났다는 실제 후속이 붙었다.",
+        "angle": "결혼4주년에 직접 밝힌 부상 이후의 가족 소식",
+        "why_now": "11/1 소연 SNS 새 발표. 뉴스1 19:55 선행취재, 엑스포츠20:48 글 전문. 부상은 과거 월드컵 배경·임신 확인일·정확SNS분 미공개.",
+        "verified_at": 1793542141,
+        "published_at": 1793533680,
+        "evidence": [
+          {
+            "url": "https://www.xportsnews.com/article/2214121",
+            "note": "엑스포츠 본문·전문에서 결혼4주년 발표·남편이 미국 본선 경기 부상 뒤 홀로 귀국한 시련·그중 찾아온 아이와 아들맘 해시태그 확인. 원SNS사진 직접 미확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.xportsnews.com/article/2214121",
+            "label": "기사 본문 확인·사실 카드",
+            "kind": "source"
+          }
+        ],
+        "caution": "현재 임신 주수·출산 예정일 추정 금지. 부상과 임신의 인과·치료 효과로 쓰지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-01",
+          "observation": "엑스포츠 본문·전문에서 결혼4주년 발표·남편이 미국 본선 경기 부상 뒤 홀로 귀국한 시련·그중 찾아온 아이와 아들맘 해시태그 확인. 원SNS사진 직접 미확인.",
+          "checked_materials": [],
+          "outline": [
+            "월드컵 앞두고 기다렸던 부부",
+            "부상으로 먼저 돌아온 남편의 시련",
+            "결혼4주년에 공개한 첫아이 소식"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "기사 본문 확인·사실 카드",
+            "url": "https://www.xportsnews.com/article/2214121"
+          }
+        ],
+        "excerpt": "",
+        "context": "11/1 소연 SNS 새 발표. 뉴스1 19:55 선행취재, 엑스포츠20:48 글 전문. 부상은 과거 월드컵 배경·임신 확인일·정확SNS분 미공개.",
+        "fetched_at": 1793542283,
+        "parser_revision": 7
+      },
+      "curation_event_key": "soyeon-cho-yu-min-pregnancy-worldcup-injury-fourth-anniversary-20261101"
+    },
+    "445333e259ff": {
+      "source": "뉴스엔",
+      "title": "“빌려줄 수 있는 만큼만”…김지선 답은 “여기저기 꾸지 마, 내가1억 보낼게”",
+      "link": "https://www.newsen.com/news_view.php?uid=202611010801022310",
+      "first_seen_at": 1793542283,
+      "last_seen_at": 1793542283,
+      "samples": [
+        {
+          "at": 1793542283,
+          "views": null,
+          "reactions": null,
+          "rank": 11,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "445333e259ff",
+      "editorial": {
+        "title": "“빌려줄 수 있는 만큼만”…김지선 답은 “여기저기 꾸지 마, 내가1억 보낼게”",
+        "category": "시사",
+        "url": "https://www.newsen.com/news_view.php?uid=202611010801022310",
+        "source": "뉴스엔",
+        "kind": "article",
+        "event_key": "lee-kyung-sil-kim-ji-sun1hundred-million-loan-message-recollection-20261031",
+        "why": "일부만 부탁한 선배에게 다른 곳에 손 벌리지 말라며 부족한 금액 전부를 빌려준 실제 답장이 회수된다.",
+        "angle": "필요한 일부만 부탁했는데 돌아온 전액 지원",
+        "why_now": "10/31 지식인사이드 새 대화 공개. 뉴스엔11/1 08:59:17 취재. 돈을 빌린 일은 과거 회상, 원영상 공개 정확분·대여일 미확인.",
+        "verified_at": 1793542141,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.newsen.com/news_view.php?uid=202611010801022310",
+            "note": "뉴스엔 본문에서 부족금1억원 중 가능한 만큼 부탁·김지선이1억원 전부 보내겠다는 문자·약1년에 걸쳐 갚았다는 이경실 회상 확인. 원영상·거래기록 미열람."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.newsen.com/news_view.php?uid=202611010801022310",
+            "label": "기사 본문 확인·사실 카드",
+            "kind": "source"
+          }
+        ],
+        "caution": "증여가 아니라 대여. 아파트 경매 발생·취하 연도는 기사별 회상 차이 있어 새 대화와 분리.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-31",
+          "observation": "뉴스엔 본문에서 부족금1억원 중 가능한 만큼 부탁·김지선이1억원 전부 보내겠다는 문자·약1년에 걸쳐 갚았다는 이경실 회상 확인. 원영상·거래기록 미열람.",
+          "checked_materials": [],
+          "outline": [
+            "집 문제 해결금 중1억원 부족",
+            "부탁한 일부보다 큰 전액 대여 답장",
+            "약1년 걸려 모두 갚았다는 회상"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "기사 본문 확인·사실 카드",
+            "url": "https://www.newsen.com/news_view.php?uid=202611010801022310"
+          }
+        ],
+        "excerpt": "",
+        "context": "10/31 지식인사이드 새 대화 공개. 뉴스엔11/1 08:59:17 취재. 돈을 빌린 일은 과거 회상, 원영상 공개 정확분·대여일 미확인.",
+        "fetched_at": 1793542283,
+        "parser_revision": 7
+      },
+      "curation_event_key": "lee-kyung-sil-kim-ji-sun1hundred-million-loan-message-recollection-20261031"
     },
     "a74364bb350a": {
       "source": "MHN",
@@ -30423,727 +31222,7 @@
         "parser_revision": 7
       },
       "curation_event_key": "unsafe-machinery-stop-order-102-delays-audit-disclosure-20261026"
-    },
-    "7bc406821d6e": {
-      "source": "경북일보·대구지법 취재",
-      "title": "뇌출혈 아버지 명의 땅10억 넘게 빼돌린 아들…형제 절반은 처벌 반대",
-      "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4088323",
-      "first_seen_at": 1792937249,
-      "last_seen_at": 1792937249,
-      "samples": [
-        {
-          "at": 1792937249,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "7bc406821d6e",
-      "editorial": {
-        "title": "뇌출혈 아버지 명의 땅10억 넘게 빼돌린 아들…형제 절반은 처벌 반대",
-        "category": "시사",
-        "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4088323",
-        "source": "경북일보·대구지법 취재",
-        "kind": "article",
-        "event_key": "son-forged-father-property-transfer-verdict-20261025",
-        "why": "의사표현 못 하는 아버지의 인감·증여 서류를 아들이 만들었다. 형제들마저 처벌 찬반으로 반씩 갈린 결과가 가족 돈 문제의 구체적인 충돌이다.",
-        "angle": "아버지 서류 위조와 갈라진 공동상속인들",
-        "why_now": "새 사건·발언·원취재 공개 2026-10-25. 최초공개 시분 미확인으로 null,수집·갱신 시각으로 대체하지 않음.",
-        "verified_at": 1792936943,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4088323",
-            "note": "25일 법원 발표 취재 본문에서2022년 뇌출혈 뒤 인감위임장·증여계약서 위조로10억원 초과 토지 명의이전,징역1년2개월 확인.공동상속인4명중2명 처벌원함·2명반대,미처분 토지 원상회복 가능성 양형참작."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4088323",
-            "label": "직접 확인한 취재 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "범행2022년·새 판결 발표25일. 정확 선고일·최초공개 시분 미확인. 상속인 전원 동의·토지 몰수·회복 완료로 쓰지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-25",
-          "observation": "25일 법원 발표 취재 본문에서2022년 뇌출혈 뒤 인감위임장·증여계약서 위조로10억원 초과 토지 명의이전,징역1년2개월 확인.공동상속인4명중2명 처벌원함·2명반대,미처분 토지 원상회복 가능성 양형참작.",
-          "checked_materials": [],
-          "outline": [
-            "아버지 의사능력 상실 뒤 작성된 인감·증여 서류",
-            "10억원 넘는 땅이 아들 명의로 넘어간 과정",
-            "상속인4명 중2명만 엄벌 요구한 양형 사정"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "직접 확인한 취재 본문",
-            "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4088323"
-          }
-        ],
-        "excerpt": "",
-        "context": "새 사건·발언·원취재 공개 2026-10-25. 최초공개 시분 미확인으로 null,수집·갱신 시각으로 대체하지 않음.",
-        "fetched_at": 1792937249,
-        "parser_revision": 7
-      },
-      "curation_event_key": "son-forged-father-property-transfer-verdict-20261025"
-    },
-    "519844d60f45": {
-      "source": "SBS 피해자·경찰 단독취재",
-      "title": "“겁주려 했다” 방화범…유일한 출구 막힌 피해자 가족은 “이게 살인미수 아니면”",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814030",
-      "first_seen_at": 1792937249,
-      "last_seen_at": 1792937249,
-      "samples": [
-        {
-          "at": 1792937249,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "519844d60f45",
-      "editorial": {
-        "title": "“겁주려 했다” 방화범…유일한 출구 막힌 피해자 가족은 “이게 살인미수 아니면”",
-        "category": "시사",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814030",
-        "source": "SBS 피해자·경찰 단독취재",
-        "kind": "article",
-        "event_key": "yeoksam-serial-arson-new-victim-interview-intent-investigation-20261025",
-        "why": "출구에 불을 놓고도 겁주려 했다는 말과 가족의 반문이 정면충돌한다. 새로 공개된 피해자 인터뷰와 살해 고의를 조사하겠다는 경찰 대응이 핵심이다.",
-        "angle": "유일한 출입구 방화와 살인미수 혐의 적용 논쟁",
-        "why_now": "새 사건·발언·원취재 공개 2026-10-25. 기사 최초등록과 실제 사건·선고 시점은 구별했다.",
-        "verified_at": 1792936760,
-        "published_at": 1792927895,
-        "evidence": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814030",
-            "note": "25일 새 취재 본문에서피의자 겁주려 했다는 진술,피해 직원·아내의 살인미수 적용 요구,4년전 위협 피해 주장 확인.경찰은 현존건조물방화치상 적용·프로파일러 투입해 살해 고의 집중조사 방침."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814030",
-            "label": "직접 확인한 취재 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "원사건20일·새 피해자 인터뷰25일20:31. CCTV 미시청·인용 취재본문만 확인한 기사형. 살해 고의·살인미수 확정으로 단정 금지.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-25",
-          "observation": "25일 새 취재 본문에서피의자 겁주려 했다는 진술,피해 직원·아내의 살인미수 적용 요구,4년전 위협 피해 주장 확인.경찰은 현존건조물방화치상 적용·프로파일러 투입해 살해 고의 집중조사 방침.",
-          "checked_materials": [],
-          "outline": [
-            "겁주려 했고 살해 의도는 없었다는 피의자 진술",
-            "유일한 출입구였다는 피해자 측의 반문",
-            "프로파일러 조사 뒤 살인미수 적용 결정하겠다는 경찰"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "직접 확인한 취재 본문",
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814030"
-          }
-        ],
-        "excerpt": "",
-        "context": "새 사건·발언·원취재 공개 2026-10-25. 기사 최초등록과 실제 사건·선고 시점은 구별했다.",
-        "fetched_at": 1792937249,
-        "parser_revision": 7
-      },
-      "curation_event_key": "yeoksam-serial-arson-new-victim-interview-intent-investigation-20261025"
-    },
-    "e63feb9673af": {
-      "source": "OSEN·핑계고 발언 전재",
-      "title": "게임 광고료보다 현질 더 한 규현…유재석 “게임 회사는 모델 써서 남았다”",
-      "link": "https://www.koreadaily.com/article/20261025015130610",
-      "first_seen_at": 1792937249,
-      "last_seen_at": 1792937249,
-      "samples": [
-        {
-          "at": 1792937249,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "e63feb9673af",
-      "editorial": {
-        "title": "게임 광고료보다 현질 더 한 규현…유재석 “게임 회사는 모델 써서 남았다”",
-        "category": "시사",
-        "url": "https://www.koreadaily.com/article/20261025015130610",
-        "source": "OSEN·핑계고 발언 전재",
-        "kind": "article",
-        "event_key": "kyuhyun-game-ad-fee-spending-changmin-card-call-20261024",
-        "why": "광고 모델에게 준 돈이 결제로 더 많이 돌아왔다는 역전이 한 문장으로 웃긴다. 카드 도난을 의심받은 최강창민의 별도 경험까지 실제 대화로 회수된다.",
-        "angle": "광고 모델이 광고료보다 많이 쓴 게임 회사의 수익",
-        "why_now": "새 사건·발언·원취재 공개 2026-10-24. 최초공개 시분 미확인으로 null,수집·갱신 시각으로 대체하지 않음.",
-        "verified_at": 1792936848,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.koreadaily.com/article/20261025015130610",
-            "note": "24일 뜬뜬 공개 콘텐츠를 취재한 본문에서규현의 광고료보다 현질을 더 했다는 발언과 유재석의 회사는 남았다는 반응 확인.최강창민은 건설 대기시간을 돈으로 샀고 해외결제 도난확인 연락을 받았다고 설명."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.koreadaily.com/article/20261025015130610",
-            "label": "직접 확인한 취재 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "원콘텐츠24일 공개·과거 경험담. 정확 최초공개 시분 미확인,48시간 이내. 원영상 미시청·취재본문 발언만 검증. 실제 지출액 추정 금지.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-24",
-          "observation": "24일 뜬뜬 공개 콘텐츠를 취재한 본문에서규현의 광고료보다 현질을 더 했다는 발언과 유재석의 회사는 남았다는 반응 확인.최강창민은 건설 대기시간을 돈으로 샀고 해외결제 도난확인 연락을 받았다고 설명.",
-          "checked_materials": [],
-          "outline": [
-            "게임 모델이 된 뒤 광고료보다 더 결제했다는 규현",
-            "유재석의 게임 회사는 모델 써서 남았다는 답변",
-            "카드사 확인전화에 본인이 맞다고 답했다는 최강창민"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "직접 확인한 취재 본문",
-            "url": "https://www.koreadaily.com/article/20261025015130610"
-          }
-        ],
-        "excerpt": "",
-        "context": "새 사건·발언·원취재 공개 2026-10-24. 최초공개 시분 미확인으로 null,수집·갱신 시각으로 대체하지 않음.",
-        "fetched_at": 1792937249,
-        "parser_revision": 7
-      },
-      "curation_event_key": "kyuhyun-game-ad-fee-spending-changmin-card-call-20261024"
-    },
-    "cf83d4ed609f": {
-      "source": "OSEN·BBC 기자회견 인용",
-      "title": "7경기 못 이긴 맨유,‘감독도 못 다룰 팀?’ 질문에 캐릭의 답은 “아니다”",
-      "link": "https://www.mt.co.kr/sports/2026/10/25/202610251449777562O",
-      "first_seen_at": 1792937249,
-      "last_seen_at": 1792937249,
-      "samples": [
-        {
-          "at": 1792937249,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "cf83d4ed609f",
-      "editorial": {
-        "title": "7경기 못 이긴 맨유,‘감독도 못 다룰 팀?’ 질문에 캐릭의 답은 “아니다”",
-        "category": "축구",
-        "url": "https://www.mt.co.kr/sports/2026/10/25/202610251449777562O",
-        "source": "OSEN·BBC 기자회견 인용",
-        "kind": "article",
-        "event_key": "carrick-pre-bournemouth-unmanageable-question-response-20261024",
-        "why": "감독의 무덤이라는 질문에 길게 핑계를 대지 않고 부인했다. 다 뛰지 않는다고 비난하지 말라는 반박과100% 선수 신뢰가 부진한 현실과 부딪친다.",
-        "angle": "감독이 관리 불가능한 구단인가라는 질문과 짧은 부인",
-        "why_now": "새 사건·발언·원취재 공개 2026-10-24. 최초공개 시분 미확인으로 null,수집·갱신 시각으로 대체하지 않음.",
-        "verified_at": 1792936771,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.mt.co.kr/sports/2026/10/25/202610251449777562O",
-            "note": "본문에서본머스전 전 기자회견의 관리불가 질문에 No,단순 주행량으로 판단하지 말라·반드시 압박해야 승리하는 건 아니라는 반박과 선수100%신뢰 발언 확인.새 기자회견은24일 영국 보도 확인."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.mt.co.kr/sports/2026/10/25/202610251449777562O",
-            "label": "직접 확인한 취재 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "새 사실은24일 본머스전 전 회견·25일 국내기사.22일 브루노 전술공방은 배경만. 최초발언 시분 미확인. 영상·BBC 원문 미확인·경질 확정 아님.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-24",
-          "observation": "본문에서본머스전 전 기자회견의 관리불가 질문에 No,단순 주행량으로 판단하지 말라·반드시 압박해야 승리하는 건 아니라는 반박과 선수100%신뢰 발언 확인.새 기자회견은24일 영국 보도 확인.",
-          "checked_materials": [],
-          "outline": [
-            "7경기 무승 뒤 나온 관리 불가능한 팀이라는 질문",
-            "아니다라는 답과 주행량·압박 비판에 대한 반론",
-            "선수100% 신뢰와 다음 경기 달라져야 한다는 요구"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "직접 확인한 취재 본문",
-            "url": "https://www.mt.co.kr/sports/2026/10/25/202610251449777562O"
-          }
-        ],
-        "excerpt": "",
-        "context": "새 사건·발언·원취재 공개 2026-10-24. 최초공개 시분 미확인으로 null,수집·갱신 시각으로 대체하지 않음.",
-        "fetched_at": 1792937249,
-        "parser_revision": 7
-      },
-      "curation_event_key": "carrick-pre-bournemouth-unmanageable-question-response-20261024"
-    },
-    "ec7e3bbf9118": {
-      "source": "연합뉴스 법조취재",
-      "title": "담합 자수는 어디로?…공소청도 중수청도 ‘우리가 접수’,감면제도 혼선",
-      "link": "https://www.yna.co.kr/view/AKR20261025049500004",
-      "first_seen_at": 1792937249,
-      "last_seen_at": 1792937249,
-      "samples": [
-        {
-          "at": 1792937249,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "ec7e3bbf9118",
-      "editorial": {
-        "title": "담합 자수는 어디로?…공소청도 중수청도 ‘우리가 접수’,감면제도 혼선",
-        "category": "시사",
-        "url": "https://www.yna.co.kr/view/AKR20261025049500004",
-        "source": "연합뉴스 법조취재",
-        "kind": "article",
-        "event_key": "leniency-prosecution-investigation-agencies-competing-intake-20261025",
-        "why": "잘못을 먼저 털어놓으면 감형해주는 제도인데 어느 기관에 가야 하는지부터 겹친다. 수사·기소 분리 뒤 원본 접수와 최종 감면을 둘러싼 실제 절차의 모순이다.",
-        "angle": "형벌 감면 자진신고를 두 기관이 동시에 접수하는 혼선",
-        "why_now": "새 사건·발언·원취재 공개 2026-10-25. 최초공개 시분 미확인으로 null,수집·갱신 시각으로 대체하지 않음.",
-        "verified_at": 1792936720,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261025049500004",
-            "note": "25일 원취재에서공소청16일 개정 예규의 자진신고 접수·원본 수사기관 송부·최종감면 판단 절차 확인.중수청도 최근 신청절차 확정·접수 방침 내부공지한 사실 보도와 운용주체 혼선 확인."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261025049500004",
-            "label": "직접 확인한 취재 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "예규개정16일·새 운용충돌 취재25일20:45. 최초공개 시분 미확인. 어느 기관 접수도 무효라는 뜻 아님. 원예규·내부공지 직접열람 미확인.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-25",
-          "observation": "25일 원취재에서공소청16일 개정 예규의 자진신고 접수·원본 수사기관 송부·최종감면 판단 절차 확인.중수청도 최근 신청절차 확정·접수 방침 내부공지한 사실 보도와 운용주체 혼선 확인.",
-          "checked_materials": [],
-          "outline": [
-            "담합 자진신고에 형벌 감면을 주는 제도 한 줄",
-            "공소청 접수 뒤 중수청 수사·공소청 감면 판단 계획",
-            "중수청도 직접 접수하기로 한 겹치는 절차"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "직접 확인한 취재 본문",
-            "url": "https://www.yna.co.kr/view/AKR20261025049500004"
-          }
-        ],
-        "excerpt": "",
-        "context": "새 사건·발언·원취재 공개 2026-10-25. 최초공개 시분 미확인으로 null,수집·갱신 시각으로 대체하지 않음.",
-        "fetched_at": 1792937249,
-        "parser_revision": 7
-      },
-      "curation_event_key": "leniency-prosecution-investigation-agencies-competing-intake-20261025"
-    },
-    "2d07350e7368": {
-      "source": "연합뉴스·창원지법 취재",
-      "title": "대출 실적 쌓는다며4.8억을 상품권으로…배심원7명은 전원 유죄 판단",
-      "link": "https://www.yna.co.kr/amp/view/AKR20261023152400052",
-      "first_seen_at": 1792937249,
-      "last_seen_at": 1792937249,
-      "samples": [
-        {
-          "at": 1792937249,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "2d07350e7368",
-      "editorial": {
-        "title": "대출 실적 쌓는다며4.8억을 상품권으로…배심원7명은 전원 유죄 판단",
-        "category": "시사",
-        "url": "https://www.yna.co.kr/amp/view/AKR20261023152400052",
-        "source": "연합뉴스·창원지법 취재",
-        "kind": "article",
-        "event_key": "voice-phishing-cheque-gift-certificates-jury-conviction-20261025",
-        "why": "길에서 받은 수표를 내 계좌에 넣고 상품권으로 돌려주는 일이 대출 준비라는 설명이었다. 본인은 몰랐다지만 사업 경험을 본 법원과 배심원은 다른 결론을 냈다.",
-        "angle": "소상공인 대출용 거래실적 주장과 상품권 세탁의 차이",
-        "why_now": "새 사건·발언·원취재 공개 2026-10-25. 최초공개 시분 미확인으로 null,수집·갱신 시각으로 대체하지 않음.",
-        "verified_at": 1792936943,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/amp/view/AKR20261023152400052",
-            "note": "25일 법원 발표 원문에서지난해9월 피해자4명 약4억8000만원 수표를 받아 상품권으로 전환·전달한 행위 확인.피고인은 정책대출 거래실적 설명을 믿었다고 항변,배심원7명 만장일치 유죄·징역3년."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/amp/view/AKR20261023152400052",
-            "label": "직접 확인한 취재 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "범행2025년9월·새 판결 발표25일. 정확 선고일·최초공개 시분 미확인. 피고인의 몰랐다는 말은 배척된 주장. 상품권 구매 자체가 불법 아님.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-25",
-          "observation": "25일 법원 발표 원문에서지난해9월 피해자4명 약4억8000만원 수표를 받아 상품권으로 전환·전달한 행위 확인.피고인은 정책대출 거래실적 설명을 믿었다고 항변,배심원7명 만장일치 유죄·징역3년.",
-          "checked_materials": [],
-          "outline": [
-            "길에서 조직원에게 수표를 받아 본인 계좌로 입금",
-            "상품권으로 다시 넘기면 대출된다는 설명을 믿었다는 항변",
-            "통상 대출절차가 아니라며 유죄로 본 배심원·법원"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "직접 확인한 취재 본문",
-            "url": "https://www.yna.co.kr/amp/view/AKR20261023152400052"
-          }
-        ],
-        "excerpt": "",
-        "context": "새 사건·발언·원취재 공개 2026-10-25. 최초공개 시분 미확인으로 null,수집·갱신 시각으로 대체하지 않음.",
-        "fetched_at": 1792937249,
-        "parser_revision": 7
-      },
-      "curation_event_key": "voice-phishing-cheque-gift-certificates-jury-conviction-20261025"
-    },
-    "b32ad81a0cef": {
-      "source": "연합뉴스 경찰현장 취재",
-      "title": "체포했는데 미란다 원칙부터 난감…통역기는 예산 심사서 탈락",
-      "link": "https://www.yna.co.kr/view/AKR20261024045400004",
-      "first_seen_at": 1792937249,
-      "last_seen_at": 1792937249,
-      "samples": [
-        {
-          "at": 1792937249,
-          "views": null,
-          "reactions": null,
-          "rank": 7,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "b32ad81a0cef",
-      "editorial": {
-        "title": "체포했는데 미란다 원칙부터 난감…통역기는 예산 심사서 탈락",
-        "category": "시사",
-        "url": "https://www.yna.co.kr/view/AKR20261024045400004",
-        "source": "연합뉴스 경찰현장 취재",
-        "kind": "article",
-        "event_key": "police-foreign-language-miranda-translation-budget-gap-20261025",
-        "why": "체포한 사람에게 이유를 전해야 하는데 바로 통역할 사람이 없다. 밤낮 부를 민간인도,보급하려던 기계 예산도 부족하다는 현장의 빈틈이 구체적이다.",
-        "angle": "현장 고지는 당장 필요하지만 기계 보급 예산은 불인정",
-        "why_now": "새 사건·발언·원취재 공개 2026-10-25. 최초공개 시분 미확인으로 null,수집·갱신 시각으로 대체하지 않음.",
-        "verified_at": 1792936720,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261024045400004",
-            "note": "25일 경찰 취재본문에서민간인 통역요원은 건별 섭외·당일 어려우면 익일조사,현장 미란다 고지엔 앱·기기 의존 확인.폐쇄형 통역기 전국보급 예산은 일반통역기와 차별성 불분명 이유로 미반영.차세대112 AI통역은 구축중."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261024045400004",
-            "label": "직접 확인한 취재 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "25일 새 경찰현장 취재. 외국인 전체를 범죄와 연결 금지. 모국어 고지 없으면 모든 체포 무효라는 뜻 아님. AI시스템 완성·전국도입으로 쓰지 않음.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-25",
-          "observation": "25일 경찰 취재본문에서민간인 통역요원은 건별 섭외·당일 어려우면 익일조사,현장 미란다 고지엔 앱·기기 의존 확인.폐쇄형 통역기 전국보급 예산은 일반통역기와 차별성 불분명 이유로 미반영.차세대112 AI통역은 구축중.",
-          "checked_materials": [],
-          "outline": [
-            "조사할 때마다 민간인 통역요원을 섭외하는 경찰",
-            "현장에서 체포 이유를 바로 알려야 하는 난점",
-            "일반 기기와 차별성 부족으로 보급예산이 반영 안 된 사유"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "직접 확인한 취재 본문",
-            "url": "https://www.yna.co.kr/view/AKR20261024045400004"
-          }
-        ],
-        "excerpt": "",
-        "context": "새 사건·발언·원취재 공개 2026-10-25. 최초공개 시분 미확인으로 null,수집·갱신 시각으로 대체하지 않음.",
-        "fetched_at": 1792937249,
-        "parser_revision": 7
-      },
-      "curation_event_key": "police-foreign-language-miranda-translation-budget-gap-20261025"
-    },
-    "2ba04ec3b628": {
-      "source": "연합뉴스·직장갑질119 조사",
-      "title": "2년 버티면 정규직?…기간제35% ‘계약 해지 빌미로 부당지시·괴롭힘’",
-      "link": "https://www.yna.co.kr/view/AKR20261025005600004",
-      "first_seen_at": 1792937249,
-      "last_seen_at": 1792937249,
-      "samples": [
-        {
-          "at": 1792937249,
-          "views": null,
-          "reactions": null,
-          "rank": 8,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "2ba04ec3b628",
-      "editorial": {
-        "title": "2년 버티면 정규직?…기간제35% ‘계약 해지 빌미로 부당지시·괴롭힘’",
-        "category": "시사",
-        "url": "https://www.yna.co.kr/view/AKR20261025005600004",
-        "source": "연합뉴스·직장갑질119 조사",
-        "kind": "article",
-        "event_key": "fixed-term-workers-contract-threats-conversion-survey-20261025",
-        "why": "정규직을 기다리는 계약서가 부당한 일을 참게 하는 수단이 됐다. 재계약 불이익 때문에 문제제기를 못 했다는 응답과 기간 연장 특례 논쟁을 함께 보여줄 수 있다.",
-        "angle": "계약 종료가 무서워 부당한 일을 말 못 하는 구조",
-        "why_now": "새 사건·발언·원취재 공개 2026-10-25. 최초공개 시분 미확인으로 null,수집·갱신 시각으로 대체하지 않음.",
-        "verified_at": 1792936906,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261025005600004",
-            "note": "25일 발표 조사본문 확인.전체1000명중 기간제 경험463명,같은직장 정규직전환14.7%,계약해지 빌미 부당지시·괴롭힘35.4%,불이익 탓 문제제기 못함65.4%.사용기간2→4년 특례안에 단체가 권리후퇴 우려 제기."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261025005600004",
-            "label": "직접 확인한 취재 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "조사9월1~7일·결과발표25일12:00. 기간제 경험463명 응답이며 전체국민 통계 아님.4년 특례는 법안·시행 확정 아님. 최초발표 시분 미확인.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-25",
-          "observation": "25일 발표 조사본문 확인.전체1000명중 기간제 경험463명,같은직장 정규직전환14.7%,계약해지 빌미 부당지시·괴롭힘35.4%,불이익 탓 문제제기 못함65.4%.사용기간2→4년 특례안에 단체가 권리후퇴 우려 제기.",
-          "checked_materials": [],
-          "outline": [
-            "계약 해지·불이익 탓 문제제기 못 했다는65.4%",
-            "계약 해지를 빌미로 괴롭힘·부당지시 경험35.4%",
-            "2→4년 사용기간 특례 논의에 대한 단체의 반대 이유"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "직접 확인한 취재 본문",
-            "url": "https://www.yna.co.kr/view/AKR20261025005600004"
-          }
-        ],
-        "excerpt": "",
-        "context": "새 사건·발언·원취재 공개 2026-10-25. 최초공개 시분 미확인으로 null,수집·갱신 시각으로 대체하지 않음.",
-        "fetched_at": 1792937249,
-        "parser_revision": 7
-      },
-      "curation_event_key": "fixed-term-workers-contract-threats-conversion-survey-20261025"
-    },
-    "7037b7c8eb76": {
-      "source": "연합뉴스·청년 공론장 현장취재",
-      "title": "“남성도 성별 때문에 힘들다”…여군 시스템 지적에 “장병 대우로 봐야” 반박",
-      "link": "https://www.yna.co.kr/view/AKR20261025039600530",
-      "first_seen_at": 1792937249,
-      "last_seen_at": 1792937249,
-      "samples": [
-        {
-          "at": 1792937249,
-          "views": null,
-          "reactions": null,
-          "rank": 9,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "7037b7c8eb76",
-      "editorial": {
-        "title": "“남성도 성별 때문에 힘들다”…여군 시스템 지적에 “장병 대우로 봐야” 반박",
-        "category": "시사",
-        "url": "https://www.yna.co.kr/view/AKR20261025039600530",
-        "source": "연합뉴스·청년 공론장 현장취재",
-        "kind": "article",
-        "event_key": "youth-gender-equality-forum-male-military-care-debate-20261025",
-        "why": "성평등정책 자리에서 군 복무와 남성 육아휴직을 논했고 참가자끼리 해법도 달랐다. 같은 어려움을 성별 문제로 볼지 장병 대우로 볼지 실제 대화가 있다.",
-        "angle": "남성도 성평등정책 대상인지 놓고 나온 군복무·육아휴직 이야기",
-        "why_now": "새 사건·발언·원취재 공개 2026-10-25. 최초공개 시분 미확인으로 null,수집·갱신 시각으로 대체하지 않음.",
-        "verified_at": 1792936829,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261025039600530",
-            "note": "25일 연세대 공론장97명 현장취재 확인.군청력 손상 경험·남성육아휴직 장벽 사례,여군20%여도 시스템 부족 발언에 군복무는 장병대우로 봐야 한다는 반론.장관은 남녀를 가르기보다 성별 제약 해소 강조."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261025039600530",
-            "label": "직접 확인한 취재 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "실제행사·새 발언25일.97명 참가자 응답을 청년 전체 여론으로 확대 금지. 여성징병은 참가자 제안·정부 도입방침 아님. 사진은 설명만 확인.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-25",
-          "observation": "25일 연세대 공론장97명 현장취재 확인.군청력 손상 경험·남성육아휴직 장벽 사례,여군20%여도 시스템 부족 발언에 군복무는 장병대우로 봐야 한다는 반론.장관은 남녀를 가르기보다 성별 제약 해소 강조.",
-          "checked_materials": [],
-          "outline": [
-            "군 복무로 청력이 나빠졌다는 참가자 경험",
-            "여군 시스템 부족 지적과 장병 대우로 보자는 반론",
-            "남성 돌봄 장벽과 남녀 제약을 함께 풀자는 장관 발언"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "직접 확인한 취재 본문",
-            "url": "https://www.yna.co.kr/view/AKR20261025039600530"
-          }
-        ],
-        "excerpt": "",
-        "context": "새 사건·발언·원취재 공개 2026-10-25. 최초공개 시분 미확인으로 null,수집·갱신 시각으로 대체하지 않음.",
-        "fetched_at": 1792937249,
-        "parser_revision": 7
-      },
-      "curation_event_key": "youth-gender-equality-forum-male-military-care-debate-20261025"
-    },
-    "ffba2db3199c": {
-      "source": "연합뉴스 현장·원로정치인 발언",
-      "title": "여야가 빈소에 같이 있자…김부겸 “그게 어색한 게 정치가 제자리 아닌 것”",
-      "link": "https://www.yna.co.kr/view/AKR20261025022553001",
-      "first_seen_at": 1792937249,
-      "last_seen_at": 1792937249,
-      "samples": [
-        {
-          "at": 1792937249,
-          "views": null,
-          "reactions": null,
-          "rank": 10,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "ffba2db3199c",
-      "editorial": {
-        "title": "여야가 빈소에 같이 있자…김부겸 “그게 어색한 게 정치가 제자리 아닌 것”",
-        "category": "시사",
-        "url": "https://www.yna.co.kr/view/AKR20261025022553001",
-        "source": "연합뉴스 현장·원로정치인 발언",
-        "kind": "article",
-        "event_key": "kim-bu-gyeom-lee-nak-yon-funeral-cross-party-rebuke-20261025",
-        "why": "당연한 공동 조문이 신기한 일이 된 정치에 현장에서 반문이 나왔다. 지금 여야는 원수 중 원수라는 말과 옛 떡국500그릇 일화의 대비가 실제 대화로 이어진다.",
-        "angle": "함께 조문한 여야를 보며 지금 정치에 던진 원로들의 반문",
-        "why_now": "새 사건·발언·원취재 공개 2026-10-25. 최초공개 시분 미확인으로 null,수집·갱신 시각으로 대체하지 않음.",
-        "verified_at": 1792936760,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261025022553001",
-            "note": "25일 조문현장 본문에서김부겸이 여야 한자리가 어색한 것은 정치가 제자리에 안 섰다는 발언 확인.이낙연은 최형우 집 떡국500그릇 일화와 당시 경쟁·협조를 회고하며 지금 여야는 원수 중 원수라고 비판."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261025022553001",
-            "label": "직접 확인한 취재 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "새 사실은25일 조문현장 발언이며 별세 소식 반복 아님.22:22는 종합 갱신시각·각 발언 최초시분 미확인. 과거 일화는 회고로 표시,영상 미시청.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-25",
-          "observation": "25일 조문현장 본문에서김부겸이 여야 한자리가 어색한 것은 정치가 제자리에 안 섰다는 발언 확인.이낙연은 최형우 집 떡국500그릇 일화와 당시 경쟁·협조를 회고하며 지금 여야는 원수 중 원수라고 비판.",
-          "checked_materials": [],
-          "outline": [
-            "여야가 한자리에 모였다는 기자의 질문",
-            "그게 어색한 현실부터 지적한 김부겸의 답",
-            "떡국500그릇 일화와 지금 여야는 원수라는 이낙연의 대비"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "직접 확인한 취재 본문",
-            "url": "https://www.yna.co.kr/view/AKR20261025022553001"
-          }
-        ],
-        "excerpt": "",
-        "context": "새 사건·발언·원취재 공개 2026-10-25. 최초공개 시분 미확인으로 null,수집·갱신 시각으로 대체하지 않음.",
-        "fetched_at": 1792937249,
-        "parser_revision": 7
-      },
-      "curation_event_key": "kim-bu-gyeom-lee-nak-yon-funeral-cross-party-rebuke-20261025"
     }
   },
-  "updated_at": 1793531213
+  "updated_at": 1793542283
 }
