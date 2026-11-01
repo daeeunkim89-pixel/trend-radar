@@ -1,6 +1,835 @@
 {
   "version": 1,
   "items": {
+    "5f076745c6a0": {
+      "source": "AP",
+      "title": "빌라가 법적 대응 예고하자…캐러거 “농담이었지만 표현이 잘못됐다” 사과",
+      "link": "https://apnews.com/article/c81930def785f9029fc18c83c2ce2231",
+      "first_seen_at": 1793509634,
+      "last_seen_at": 1793509634,
+      "samples": [
+        {
+          "at": 1793509634,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "5f076745c6a0",
+      "editorial": {
+        "title": "빌라가 법적 대응 예고하자…캐러거 “농담이었지만 표현이 잘못됐다” 사과",
+        "category": "축구",
+        "url": "https://apnews.com/article/c81930def785f9029fc18c83c2ce2231",
+        "source": "AP",
+        "kind": "article",
+        "event_key": "carragher-new-apology-villa-owners-fans-clumsy-wrong-20261031",
+        "why": "이미 알려진 법적 대응 뒤에 당사자의 실제 사과문이 나왔다. 농담이었다는 설명과 표현이 잘못됐다는 인정이 함께 있다.",
+        "angle": "법적 대응 자체가 아니라 캐러거가 새로 내놓은 사과",
+        "why_now": "사과문 X 공개10/31, 최초 분 미확인. AP31일13:17:27UTC 취재.10/30 빌라 법적대응은 기발송 배경과 구분.",
+        "verified_at": 1793509104,
+        "published_at": 1793452647,
+        "evidence": [
+          {
+            "url": "https://apnews.com/article/c81930def785f9029fc18c83c2ce2231",
+            "note": "AP 본문에서10/31 캐러거가 구단주·팬들에게 사과하고 자신의 언어가 서툴고 잘못됐다고 인정한 문구, 농담이었지만 그렇게 전달되지 않았음을 이해한다는 설명을 확인. X 원문 직접 열람은 미실시."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://apnews.com/article/c81930def785f9029fc18c83c2ce2231",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "소송 제기·합의·법적책임 인정으로 확대하지 않음. 전날 구단 성명 반복과 구분.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-31",
+          "observation": "AP 본문에서10/31 캐러거가 구단주·팬들에게 사과하고 자신의 언어가 서툴고 잘못됐다고 인정한 문구, 농담이었지만 그렇게 전달되지 않았음을 이해한다는 설명을 확인. X 원문 직접 열람은 미실시.",
+          "checked_materials": [],
+          "outline": [
+            "빌라의 전날 법적대응 예고",
+            "캐러거의 새 사과문",
+            "농담이었다는 설명과 잘못된 표현 인정"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://apnews.com/article/c81930def785f9029fc18c83c2ce2231"
+          }
+        ],
+        "excerpt": "",
+        "context": "사과문 X 공개10/31, 최초 분 미확인. AP31일13:17:27UTC 취재.10/30 빌라 법적대응은 기발송 배경과 구분.",
+        "fetched_at": 1793509634,
+        "parser_revision": 7
+      },
+      "curation_event_key": "carragher-new-apology-villa-owners-fans-clumsy-wrong-20261031"
+    },
+    "2c4dc6b6f093": {
+      "source": "Formula 1",
+      "title": "해밀턴, 0.009초 차로 페라리 첫 폴…“멕시코에서 처음인가?” 했는데 아니었다",
+      "link": "https://www.formula1.com/en/latest/article/wow-hamilton-reacts-to-special-maiden-pole-with-ferrari-at-mexico-city-gp.1S7nqyX2uIPgZomeRkneq4",
+      "first_seen_at": 1793509634,
+      "last_seen_at": 1793509634,
+      "samples": [
+        {
+          "at": 1793509634,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "2c4dc6b6f093",
+      "editorial": {
+        "title": "해밀턴, 0.009초 차로 페라리 첫 폴…“멕시코에서 처음인가?” 했는데 아니었다",
+        "category": "메이저 스포츠",
+        "url": "https://www.formula1.com/en/latest/article/wow-hamilton-reacts-to-special-maiden-pole-with-ferrari-at-mexico-city-gp.1S7nqyX2uIPgZomeRkneq4",
+        "source": "Formula 1",
+        "kind": "article",
+        "event_key": "hamilton-ferrari-first-pole-mexico-nine-thousandths-forgot-2016-20261031",
+        "why": "3년 만의 폴과 페라리 첫 폴을 잡고 정작 이 서킷에서 과거 폴을 차지했는지 기억 못 한 반응을 공식 취재가 바로잡는다.",
+        "angle": "0.009초의 복귀와 본인도 헷갈린 멕시코 첫 폴",
+        "why_now": "멕시코 예선10/31 현지15시 시작(KST11/1 06시). 공식 F1 최초취재31일23:34UTC. 해당 반응은 세션 직후.",
+        "verified_at": 1793509104,
+        "published_at": 1793489640,
+        "evidence": [
+          {
+            "url": "https://www.formula1.com/en/latest/article/wow-hamilton-reacts-to-special-maiden-pole-with-ferrari-at-mexico-city-gp.1S7nqyX2uIPgZomeRkneq4",
+            "note": "F1 공식 본문에서 러셀보다0.009초 빠른1분16초514·페라리 첫 폴·2023년 이후 첫 폴을 확인. 해밀턴이 이곳 첫 폴인지 모르겠다고 말한 뒤 기사가2016년 폴을 상기한다. 원회견영상 직접 미시청."
+          },
+          {
+            "url": "https://www.fia.com/news/f1-hamilton-claims-first-ferrari-pole-position-thrilling-mexico-city-qualifying",
+            "note": "FIA 공식 예선 결과와0.009초 차 대조."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.formula1.com/en/latest/article/wow-hamilton-reacts-to-special-maiden-pole-with-ferrari-at-mexico-city-gp.1S7nqyX2uIPgZomeRkneq4",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "폴포지션은 예선1위이며 결승 우승 아님. 경기 후 예정 결과를 미리 쓰지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-31",
+          "observation": "F1 공식 본문에서 러셀보다0.009초 빠른1분16초514·페라리 첫 폴·2023년 이후 첫 폴을 확인. 해밀턴이 이곳 첫 폴인지 모르겠다고 말한 뒤 기사가2016년 폴을 상기한다. 원회견영상 직접 미시청.",
+          "checked_materials": [],
+          "outline": [
+            "0.009초 차 예선1위",
+            "멕시코 첫 폴인지 헷갈린 해밀턴",
+            "2016년에도 폴이었다는 공식 기사 확인"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.formula1.com/en/latest/article/wow-hamilton-reacts-to-special-maiden-pole-with-ferrari-at-mexico-city-gp.1S7nqyX2uIPgZomeRkneq4"
+          }
+        ],
+        "excerpt": "",
+        "context": "멕시코 예선10/31 현지15시 시작(KST11/1 06시). 공식 F1 최초취재31일23:34UTC. 해당 반응은 세션 직후.",
+        "fetched_at": 1793509634,
+        "parser_revision": 7
+      },
+      "curation_event_key": "hamilton-ferrari-first-pole-mexico-nine-thousandths-forgot-2016-20261031"
+    },
+    "8f5d2f897e6a": {
+      "source": "Managing Madrid/Yahoo",
+      "title": "“수비적 감독이었잖아요” 묻자 무리뉴 “그게100점·120골이면 또 하고 싶다”",
+      "link": "https://sports.yahoo.com/articles/mourinho-being-defensive-gets-100-142615642.html",
+      "first_seen_at": 1793509634,
+      "last_seen_at": 1793509634,
+      "samples": [
+        {
+          "at": 1793509634,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "8f5d2f897e6a",
+      "editorial": {
+        "title": "“수비적 감독이었잖아요” 묻자 무리뉴 “그게100점·120골이면 또 하고 싶다”",
+        "category": "축구",
+        "url": "https://sports.yahoo.com/articles/mourinho-being-defensive-gets-100-142615642.html",
+        "source": "Managing Madrid/Yahoo",
+        "kind": "article",
+        "event_key": "mourinho-defensive-label-100-points120-goals-response-20261031",
+        "why": "전술 수비적이라는 질문을 자기 과거 성적에 연결해 되받는 무리뉴 특유의 새 기자회견 답변이다.",
+        "angle": "수비적이란 평가에 득점과 승점으로 되받은 답",
+        "why_now": "10/31 산탄데르전 사전회견. Managing Madrid 최초취재31일14:26UTC, Yahoo 동시 전재 표기 대조. 과거 성적 자체의 새 기록 아님.",
+        "verified_at": 1793509297,
+        "published_at": 1793456760,
+        "evidence": [
+          {
+            "url": "https://sports.yahoo.com/articles/mourinho-being-defensive-gets-100-142615642.html",
+            "note": "Managing Madrid 회견 문답 본문에서 과거보다 용감해졌느냐는 질문, 수비적으로100승점·120골이면 행복하겠다는 답을 확인. Yahoo 전재 시각 대조. 원영상 직접 미시청."
+          },
+          {
+            "url": "https://www.managingmadrid.com/real-madrid-cf-la-liga/114869/mourinho-if-being-defensive-gets-you-100-points-and-120-goals-im-happy-to-be-defensive",
+            "note": "웹 본문 문답 확인. 일반HTTP403은 반복하지 않고 접근 가능한 웹 본문과 Yahoo 전재로 대조."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://sports.yahoo.com/articles/mourinho-being-defensive-gets-100-142615642.html",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "실제 과거득점 통계를 이번시즌 성적으로 쓰지 않음. 무리뉴의 회견 표현으로 귀속.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-31",
+          "observation": "Managing Madrid 회견 문답 본문에서 과거보다 용감해졌느냐는 질문, 수비적으로100승점·120골이면 행복하겠다는 답을 확인. Yahoo 전재 시각 대조. 원영상 직접 미시청.",
+          "checked_materials": [],
+          "outline": [
+            "과거 수비적이었다는 질문",
+            "100승점·120골을 끌어온 무리뉴",
+            "비판에 흔들리지 않는다는 설명"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://sports.yahoo.com/articles/mourinho-being-defensive-gets-100-142615642.html"
+          }
+        ],
+        "excerpt": "",
+        "context": "10/31 산탄데르전 사전회견. Managing Madrid 최초취재31일14:26UTC, Yahoo 동시 전재 표기 대조. 과거 성적 자체의 새 기록 아님.",
+        "fetched_at": 1793509634,
+        "parser_revision": 7
+      },
+      "curation_event_key": "mourinho-defensive-label-100-points120-goals-response-20261031"
+    },
+    "d9cd230e2aaf": {
+      "source": "MMA Fighting/Yahoo",
+      "title": "벨트 되찾은 카넬로의 농담…“아내가 우승 못하면 집에 오지 말랬다”",
+      "link": "https://sports.yahoo.com/articles/canelo-alvarez-wins-decision-over-231903874.html",
+      "first_seen_at": 1793509634,
+      "last_seen_at": 1793509634,
+      "samples": [
+        {
+          "at": 1793509634,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "d9cd230e2aaf",
+      "editorial": {
+        "title": "벨트 되찾은 카넬로의 농담…“아내가 우승 못하면 집에 오지 말랬다”",
+        "category": "메이저 스포츠",
+        "url": "https://sports.yahoo.com/articles/canelo-alvarez-wins-decision-over-231903874.html",
+        "source": "MMA Fighting/Yahoo",
+        "kind": "article",
+        "event_key": "canelo-mbilli-title-return-wife-do-not-come-home-joke-20261031",
+        "why": "타이틀 탈환이라는 결과보다 승리 직후 꺼낸 아내의 귀가금지 농담이 익숙한 강자에게 생활형 반전을 준다.",
+        "angle": "집에 돌아오려면 챔피언 벨트부터",
+        "why_now": "리야드10/31 경기 뒤 인터뷰. MMA Fighting31일23:19UTC 최초취재 및 Yahoo 전재 대조. 아내 발언의 실제 날짜는 미공개.",
+        "verified_at": 1793509318,
+        "published_at": 1793488743,
+        "evidence": [
+          {
+            "url": "https://sports.yahoo.com/articles/canelo-alvarez-wins-decision-over-231903874.html",
+            "note": "MMA Fighting 본문에서 음빌리전 만장일치 판정으로 WBC 타이틀을 되찾은 결과와, 아내가 벨트 없이 귀가하지 말라고 했다는 본인의 경기 후 농담을 확인. 인터뷰 음성 직접 미청취."
+          },
+          {
+            "url": "https://www.mmafighting.com/boxing/518791/canelo-alvarez-wins-decision-over-undefeated-christian-mbilli-to-become-champion-again",
+            "note": "웹 기사 본문에서 경기결과·아내 관련 농담 문장 직접 확인. 영상시청 아님."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://sports.yahoo.com/articles/canelo-alvarez-wins-decision-over-231903874.html",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "실제 부부 갈등이나 아내의 공식 성명 아님. 판정 조작 등 확인되지 않은 의혹은 제외.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-31",
+          "observation": "MMA Fighting 본문에서 음빌리전 만장일치 판정으로 WBC 타이틀을 되찾은 결과와, 아내가 벨트 없이 귀가하지 말라고 했다는 본인의 경기 후 농담을 확인. 인터뷰 음성 직접 미청취.",
+          "checked_materials": [],
+          "outline": [
+            "타이틀을 되찾은 경기 직후",
+            "벨트 없으면 귀가금지였다는 농담",
+            "2주 휴가 뒤 훈련 복귀 계획"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://sports.yahoo.com/articles/canelo-alvarez-wins-decision-over-231903874.html"
+          }
+        ],
+        "excerpt": "",
+        "context": "리야드10/31 경기 뒤 인터뷰. MMA Fighting31일23:19UTC 최초취재 및 Yahoo 전재 대조. 아내 발언의 실제 날짜는 미공개.",
+        "fetched_at": 1793509634,
+        "parser_revision": 7
+      },
+      "curation_event_key": "canelo-mbilli-title-return-wife-do-not-come-home-joke-20261031"
+    },
+    "6a8c179d2d74": {
+      "source": "스포츠경향",
+      "title": "제니가 고른 핼러윈 캐릭터는 ‘분노의 질주2’ 수키…보라·핑크 그대로",
+      "link": "https://news.nate.com/view/20261101n03832",
+      "first_seen_at": 1793509634,
+      "last_seen_at": 1793509634,
+      "samples": [
+        {
+          "at": 1793509634,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "6a8c179d2d74",
+      "editorial": {
+        "title": "제니가 고른 핼러윈 캐릭터는 ‘분노의 질주2’ 수키…보라·핑크 그대로",
+        "category": "아이돌",
+        "url": "https://news.nate.com/view/20261101n03832",
+        "source": "스포츠경향",
+        "kind": "article",
+        "event_key": "jennie-halloween-suki-2fast2furious-aidan-photo-20261101",
+        "why": "이름만 빌린 분장과 달리 알려진 영화 속 수키의 보라색 상의·핑크 의상을 재현한 실제 공개 사진이라는 팬 비교 포인트가 있다.",
+        "angle": "2003년 영화 캐릭터가 제니의 새 핼러윈 사진으로 돌아왔다",
+        "why_now": "파티는 LA10/30 현지. 사진작가 에이단 자미리 스토리 최초공개11/1로 취재, 정확분·원계정표시시간 미확인. 경향 취재11/1 09:38KST.",
+        "verified_at": 1793509255,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://news.nate.com/view/20261101n03832",
+            "note": "스포츠경향 본문에서 데본 아오키의 수키 재현이라고 설명한 점 확인. 작가 SNS 출처의 실제 기사사진도 열어 제니의 보라 크롭톱·핑크 팬츠와 동반 인물 포즈를 직접 확인. 영상시청은 아님."
+          },
+          {
+            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/kz/2026/11/01/news-p.v1.20261101.720bcb3a47ed43a18238e343d528a04f_P1.png",
+            "note": "기사에 실린 에이단 자미리 SNS 출처 실제 사진을 다운로드해 직접 열람."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.nate.com/view/20261101n03832",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          },
+          {
+            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/kz/2026/11/01/news-p.v1.20261101.720bcb3a47ed43a18238e343d528a04f_P1.png",
+            "label": "직접 확인한 공개사진",
+            "kind": "image"
+          }
+        ],
+        "caution": "원본 스토리 직접 열람은 미실시. 과거 작품 출연·새 영화 캐스팅으로 오해시키지 않음.",
+        "readiness": {
+          "mode": "scene",
+          "event_date": "2026-10-30",
+          "observation": "스포츠경향 본문에서 데본 아오키의 수키 재현이라고 설명한 점 확인. 작가 SNS 출처의 실제 기사사진도 열어 제니의 보라 크롭톱·핑크 팬츠와 동반 인물 포즈를 직접 확인. 영상시청은 아님.",
+          "checked_materials": [
+            "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/kz/2026/11/01/news-p.v1.20261101.720bcb3a47ed43a18238e343d528a04f_P1.png"
+          ],
+          "outline": [
+            "원작 수키의 색 조합 소개",
+            "실제로 확인한 제니의 공개 사진",
+            "작가가 공개한 파티 사진이라는 맥락"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [
+          {
+            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/kz/2026/11/01/news-p.v1.20261101.720bcb3a47ed43a18238e343d528a04f_P1.png",
+            "label": "직접 확인한 공개사진",
+            "kind": "image"
+          }
+        ],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://news.nate.com/view/20261101n03832"
+          },
+          {
+            "label": "직접 확인한 공개사진",
+            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/kz/2026/11/01/news-p.v1.20261101.720bcb3a47ed43a18238e343d528a04f_P1.png"
+          }
+        ],
+        "excerpt": "",
+        "context": "파티는 LA10/30 현지. 사진작가 에이단 자미리 스토리 최초공개11/1로 취재, 정확분·원계정표시시간 미확인. 경향 취재11/1 09:38KST.",
+        "fetched_at": 1793509634,
+        "parser_revision": 7
+      },
+      "curation_event_key": "jennie-halloween-suki-2fast2furious-aidan-photo-20261101"
+    },
+    "f6d8410a026f": {
+      "source": "엑스포츠뉴스",
+      "title": "20년 팬사이트 닫힌 지3주…탑이 직접 “상처받은 팬들께 사과”",
+      "link": "https://news.nate.com/view/20261101n06040",
+      "first_seen_at": 1793509634,
+      "last_seen_at": 1793509634,
+      "samples": [
+        {
+          "at": 1793509634,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "f6d8410a026f",
+      "editorial": {
+        "title": "20년 팬사이트 닫힌 지3주…탑이 직접 “상처받은 팬들께 사과”",
+        "category": "시사",
+        "url": "https://news.nate.com/view/20261101n06040",
+        "source": "엑스포츠뉴스",
+        "kind": "article",
+        "event_key": "top-personal-apology-choidot-closure-three-weeks-20261101",
+        "why": "소속사 답변으로 끝난 줄 알았던 팬사이트 폐쇄에 본인이 뒤늦게 장문을 올린 실제 새 후속이다.",
+        "angle": "팬사이트 종료보다 새로 공개된 탑 본인의 사과",
+        "why_now": "탑 계정11/1 새 사과문 공개, 정확 최초분 미확인. 엑스포츠11/1 11:39KST 취재. 팬사이트 종료10/9는 과거 배경.",
+        "verified_at": 1793509255,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://news.nate.com/view/20261101n06040",
+            "note": "엑스포츠 본문에 전재된 사과문에서 팬들의20년 노력에 감사, 신중하느라 늦었다는 설명, 오해와 상처를 입은 운영진·팬들에게 직접 사과한 내용을 확인. 원SNS 계정 직접 열람은 미실시."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.nate.com/view/20261101n06040",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "팬의 주장과 본인 사과를 구분. 팬사이트 복귀·갈등 해결을 확정하지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-01",
+          "observation": "엑스포츠 본문에 전재된 사과문에서 팬들의20년 노력에 감사, 신중하느라 늦었다는 설명, 오해와 상처를 입은 운영진·팬들에게 직접 사과한 내용을 확인. 원SNS 계정 직접 열람은 미실시.",
+          "checked_materials": [],
+          "outline": [
+            "20년 팬사이트의10/9 운영 종료",
+            "소속사 사과 뒤3주 만의 본인 글",
+            "팬들의 노력이 오해로 남지 않기를 바란다는 설명"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://news.nate.com/view/20261101n06040"
+          }
+        ],
+        "excerpt": "",
+        "context": "탑 계정11/1 새 사과문 공개, 정확 최초분 미확인. 엑스포츠11/1 11:39KST 취재. 팬사이트 종료10/9는 과거 배경.",
+        "fetched_at": 1793509634,
+        "parser_revision": 7
+      },
+      "curation_event_key": "top-personal-apology-choidot-closure-three-weeks-20261101"
+    },
+    "5d820a894aba": {
+      "source": "뉴시스",
+      "title": "유재석에게 스마트폰 받은 김광규 “케이스도”…해주겠다니 “편집하자”",
+      "link": "https://mobile.newsis.com/view/NISX20261031_0003849420",
+      "first_seen_at": 1793509634,
+      "last_seen_at": 1793509634,
+      "samples": [
+        {
+          "at": 1793509634,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "5d820a894aba",
+      "editorial": {
+        "title": "유재석에게 스마트폰 받은 김광규 “케이스도”…해주겠다니 “편집하자”",
+        "category": "시사",
+        "url": "https://mobile.newsis.com/view/NISX20261031_0003849420",
+        "source": "뉴시스",
+        "kind": "article",
+        "event_key": "kim-gwang-kyu-yoo-jae-suk-gift-phone-case-edit-joke-20261031",
+        "why": "선물을 자랑하다 케이스까지 요구한 뒤 상대가 바로 수락하자 본인이 상도덕 없다고 수습하는 대사 회수가 있다.",
+        "angle": "휴대폰 선물 다음 요구에 본인이 먼저 편집 요청",
+        "why_now": "놀면뭐하니10/31 방송 새 대사. 뉴시스11/1 00:00KST 취재. 스마트폰 선물일 자체는 미기재, 이번 케이스 대화와 구분.",
+        "verified_at": 1793509317,
+        "published_at": 1793458800,
+        "evidence": [
+          {
+            "url": "https://mobile.newsis.com/view/NISX20261031_0003849420",
+            "note": "뉴시스 본문에서 유재석의 스마트폰 선물 자랑→케이스도 해달라는 요구→유재석 수락→농담이고 너무 상도덕 없으니 편집하자는 김광규 답을 확인. 방송 원영상 직접 미시청."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://mobile.newsis.com/view/NISX20261031_0003849420",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "진짜 추가선물 강요나 불화로 쓰지 않음. 기존 집 공개·호칭·티셔츠와 다른 새 대화.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-31",
+          "observation": "뉴시스 본문에서 유재석의 스마트폰 선물 자랑→케이스도 해달라는 요구→유재석 수락→농담이고 너무 상도덕 없으니 편집하자는 김광규 답을 확인. 방송 원영상 직접 미시청.",
+          "checked_materials": [],
+          "outline": [
+            "유재석의 최신폰 선물을 자랑",
+            "케이스도 부탁한 김광규",
+            "해주겠다는 답에 스스로 편집 요청"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://mobile.newsis.com/view/NISX20261031_0003849420"
+          }
+        ],
+        "excerpt": "",
+        "context": "놀면뭐하니10/31 방송 새 대사. 뉴시스11/1 00:00KST 취재. 스마트폰 선물일 자체는 미기재, 이번 케이스 대화와 구분.",
+        "fetched_at": 1793509634,
+        "parser_revision": 7
+      },
+      "curation_event_key": "kim-gwang-kyu-yoo-jae-suk-gift-phone-case-edit-joke-20261031"
+    },
+    "7156bad652d2": {
+      "source": "JTBC",
+      "title": "“5000달러 주겠다, 단 한국 가서 쓰지 마라”…트럼프의 배당금 조건",
+      "link": "https://n.news.naver.com/article/437/0000518506",
+      "first_seen_at": 1793509634,
+      "last_seen_at": 1793509634,
+      "samples": [
+        {
+          "at": 1793509634,
+          "views": null,
+          "reactions": null,
+          "rank": 8,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "7156bad652d2",
+      "editorial": {
+        "title": "“5000달러 주겠다, 단 한국 가서 쓰지 마라”…트럼프의 배당금 조건",
+        "category": "시사",
+        "url": "https://n.news.naver.com/article/437/0000518506",
+        "source": "JTBC",
+        "kind": "article",
+        "event_key": "trump-renewed5000-dividend-no-spending-korea-daytona-20261030",
+        "why": "선거 승리 시 현금을 주겠다는 공약에 한국 여행에 쓰면 안 된다는 구체적 조건을 붙인 실제 발언이다.",
+        "angle": "부부1만달러를 한국에서 못 쓰게 하겠다는 유세 발언",
+        "why_now": "10/30 현지 플로리다 데이토나비치 유세 재언급을 국제뉴스 본문으로 대조. 정확 최초 영상공개분 미확인. JTBC10/31 저녁 보도, 공약 최초 제안은9월.",
+        "verified_at": 1793509254,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://n.news.naver.com/article/437/0000518506",
+            "note": "JTBC 본문 실제 인용에서 공화당 상하원 승리 조건5천달러 지급과 중국·일본·한국에서 쓰면 안 된다는 말을 확인. 국제뉴스 본문으로10/30 유세 장소·날짜 대조. 원유세영상 미시청."
+          },
+          {
+            "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738610",
+            "note": "10/30 데이토나비치 유세에서 재언급한 공약과 한국 포함 해외 소비 금지 조건 대조."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://n.news.naver.com/article/437/0000518506",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "지급 확정·현행 사용금지 제도 아님. 제시 재원은 당사자 주장이고 실현 여부 불명확.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-30",
+          "observation": "JTBC 본문 실제 인용에서 공화당 상하원 승리 조건5천달러 지급과 중국·일본·한국에서 쓰면 안 된다는 말을 확인. 국제뉴스 본문으로10/30 유세 장소·날짜 대조. 원유세영상 미시청.",
+          "checked_materials": [],
+          "outline": [
+            "선거 승리 조건의 현금 약속",
+            "한국 등 해외에서 쓰지 말라는 조건",
+            "재원·의회승인과 통제방식이 불확실한 공약"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://n.news.naver.com/article/437/0000518506"
+          }
+        ],
+        "excerpt": "",
+        "context": "10/30 현지 플로리다 데이토나비치 유세 재언급을 국제뉴스 본문으로 대조. 정확 최초 영상공개분 미확인. JTBC10/31 저녁 보도, 공약 최초 제안은9월.",
+        "fetched_at": 1793509634,
+        "parser_revision": 7
+      },
+      "curation_event_key": "trump-renewed5000-dividend-no-spending-korea-daytona-20261030"
+    },
+    "bf50809c4caa": {
+      "source": "스포츠동아",
+      "title": "제주 가는 표만 산 김동현…돌아올 표 없어 공항에서 포기, 숙소32만원 날렸다",
+      "link": "https://news.nate.com/view/20261101n00466",
+      "first_seen_at": 1793509634,
+      "last_seen_at": 1793509634,
+      "samples": [
+        {
+          "at": 1793509634,
+          "views": null,
+          "reactions": null,
+          "rank": 9,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "bf50809c4caa",
+      "editorial": {
+        "title": "제주 가는 표만 산 김동현…돌아올 표 없어 공항에서 포기, 숙소32만원 날렸다",
+        "category": "시사",
+        "url": "https://news.nate.com/view/20261101n00466",
+        "source": "스포츠동아",
+        "kind": "article",
+        "event_key": "kim-dong-hyun-unplanned-jeju-no-return-ticket32man-loss-20261031",
+        "why": "계획형이라는 사람이 즉흥 여행을 나섰다가 돌아올 표를 안 산 탓에 제주에 한 발도 못 디딘 채 예약금만 잃는 완결된 허당 이야기다.",
+        "angle": "제주 왕복 대신 롯데월드·호텔로 바뀐 즉흥 여행",
+        "why_now": "동현이넷10/31 영상 최초공개, 정확분 미확인. 여행 촬영일 미기재. 스포츠동아11/1 취재를 영상 첫 공개로 대체하지 않음.",
+        "verified_at": 1793509487,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://news.nate.com/view/20261101n00466",
+            "note": "스포츠동아 본문에서 이동 중 편도표·32만원 숙소 예약→공항서 귀경편 매진 확인→제주행 포기→숙소 환불 실패→롯데월드행 경위를 확인. 원영상 직접 미시청."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.nate.com/view/20261101n00466",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "아파트 매입은 별개 배경으로 제외. 실제 환불규정 일반화·자녀 비난 금지.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-31",
+          "observation": "스포츠동아 본문에서 이동 중 편도표·32만원 숙소 예약→공항서 귀경편 매진 확인→제주행 포기→숙소 환불 실패→롯데월드행 경위를 확인. 원영상 직접 미시청.",
+          "checked_materials": [],
+          "outline": [
+            "택시에서 제주행 표와 숙소 예약",
+            "돌아오는 항공편 매진 확인",
+            "제주 대신 놀이공원, 숙소32만원 환불 실패"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://news.nate.com/view/20261101n00466"
+          }
+        ],
+        "excerpt": "",
+        "context": "동현이넷10/31 영상 최초공개, 정확분 미확인. 여행 촬영일 미기재. 스포츠동아11/1 취재를 영상 첫 공개로 대체하지 않음.",
+        "fetched_at": 1793509634,
+        "parser_revision": 7
+      },
+      "curation_event_key": "kim-dong-hyun-unplanned-jeju-no-return-ticket32man-loss-20261031"
+    },
+    "1228b100e3aa": {
+      "source": "JTBC",
+      "title": "단골이 국밥에 물티슈 넣고 항의…CCTV 본 사장 부부는 “오죽하면 그랬겠냐”",
+      "link": "https://n.news.naver.com/article/437/0000518459",
+      "first_seen_at": 1793509634,
+      "last_seen_at": 1793509634,
+      "samples": [
+        {
+          "at": 1793509634,
+          "views": null,
+          "reactions": null,
+          "rank": 10,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "1228b100e3aa",
+      "editorial": {
+        "title": "단골이 국밥에 물티슈 넣고 항의…CCTV 본 사장 부부는 “오죽하면 그랬겠냐”",
+        "category": "시사",
+        "url": "https://n.news.naver.com/article/437/0000518459",
+        "source": "JTBC",
+        "kind": "article",
+        "event_key": "gukbap-regular-wet-wipe-complaint-cctv-owners-forgive-20261030",
+        "why": "음식값을 받지 않고 사과한 뒤 CCTV로 단골의 행동을 알아냈는데도 가게 부부는 신고를 말렸다는 반응까지 있다.",
+        "angle": "CCTV 반전 다음에 이어진 사장 부부의 뜻밖의 답",
+        "why_now": "사건10/28 인천 구월동. 최초 방송 공개 JTBC 사건반장10/30, 정확분 미확인. 기사10/31은 재취재이고 최초공개시각 아님.",
+        "verified_at": 1793509246,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://n.news.naver.com/article/437/0000518459",
+            "note": "JTBC 본문에서 CCTV에 손님이 숨겨둔 물티슈를 국밥에 넣는 모습이 포착됐다는 보도, 사과하고 음식값을 안 받은 장모, 이름을 아는 단골, 신고를 말린 부부의 답을 확인. CCTV 직접 시청 아님."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://n.news.naver.com/article/437/0000518459",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "제보자 가족 설명과 방송 보도에 귀속. 손님 신원·동기·형사처벌 확정 금지.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-10-28",
+          "observation": "JTBC 본문에서 CCTV에 손님이 숨겨둔 물티슈를 국밥에 넣는 모습이 포착됐다는 보도, 사과하고 음식값을 안 받은 장모, 이름을 아는 단골, 신고를 말린 부부의 답을 확인. CCTV 직접 시청 아님.",
+          "checked_materials": [],
+          "outline": [
+            "이물질 항의에 사과하고 돈도 안 받은 가게",
+            "CCTV에서 나온 단골의 행동이라는 보도",
+            "오죽하면 그랬겠냐며 신고를 말렸다는 제보"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://n.news.naver.com/article/437/0000518459"
+          }
+        ],
+        "excerpt": "",
+        "context": "사건10/28 인천 구월동. 최초 방송 공개 JTBC 사건반장10/30, 정확분 미확인. 기사10/31은 재취재이고 최초공개시각 아님.",
+        "fetched_at": 1793509634,
+        "parser_revision": 7
+      },
+      "curation_event_key": "gukbap-regular-wet-wipe-complaint-cctv-owners-forgive-20261030"
+    },
+    "f1c449b06b45": {
+      "source": "엑스포츠뉴스",
+      "title": "하희라가 새 구두 사준대도 거절…최수종 “두 켤레, 30년째 밑창만 교체”",
+      "link": "https://www.xportsnews.com/article/2213910",
+      "first_seen_at": 1793509634,
+      "last_seen_at": 1793509634,
+      "samples": [
+        {
+          "at": 1793509634,
+          "views": null,
+          "reactions": null,
+          "rank": 11,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "f1c449b06b45",
+      "editorial": {
+        "title": "하희라가 새 구두 사준대도 거절…최수종 “두 켤레, 30년째 밑창만 교체”",
+        "category": "시사",
+        "url": "https://www.xportsnews.com/article/2213910",
+        "source": "엑스포츠뉴스",
+        "kind": "article",
+        "event_key": "choi-soo-jong-two-pairs-shoes30-years-soles-wife-gift-preview-20261101",
+        "why": "짠남자 김종국도 놀랐다는 장수 연예인의 절약 포인트가 두 켤레·30년 밑창 교체라는 구체적 선택으로 드러난다.",
+        "angle": "배우자 선물까지 거절한다는 새 제작진 공개 발언",
+        "why_now": "KBS 옥문아11/3 방송의 사전 공개 자료11/1, 엑스포츠09:24:48KST 취재. 녹화일 미기재. 이미 방송·직접 시청한 대사로 쓰지 않음.",
+        "verified_at": 1793509246,
+        "published_at": 1793492688,
+        "evidence": [
+          {
+            "url": "https://www.xportsnews.com/article/2213910",
+            "note": "엑스포츠 제작진 공개자료 본문에서 구두 두 켤레의 밑창을30년째 갈아 쓰고 하희라의 새 구두 제안도 거절했다는 최수종 설명을 확인. 원녹화·실물 구두 확인은 미실시."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.xportsnews.com/article/2213910",
+            "label": "확인한 원문 취재",
+            "kind": "source"
+          }
+        ],
+        "caution": "11/3 방송 전 예고자료임을 명시. 녹화일·실물 검증 미확인, 절약 효과 수치 추정 금지.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-01",
+          "observation": "엑스포츠 제작진 공개자료 본문에서 구두 두 켤레의 밑창을30년째 갈아 쓰고 하희라의 새 구두 제안도 거절했다는 최수종 설명을 확인. 원녹화·실물 구두 확인은 미실시.",
+          "checked_materials": [],
+          "outline": [
+            "두 켤레만 있다는 제작진 공개 발언",
+            "30년째 밑창을 교체한다는 설명",
+            "배우자의 새 구두 선물도 거절한다는 대목"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 취재",
+            "url": "https://www.xportsnews.com/article/2213910"
+          }
+        ],
+        "excerpt": "",
+        "context": "KBS 옥문아11/3 방송의 사전 공개 자료11/1, 엑스포츠09:24:48KST 취재. 녹화일 미기재. 이미 방송·직접 시청한 대사로 쓰지 않음.",
+        "fetched_at": 1793509634,
+        "parser_revision": 7
+      },
+      "curation_event_key": "choi-soo-jong-two-pairs-shoes30-years-soles-wife-gift-preview-20261101"
+    },
     "aa113251d16b": {
       "source": "뉴시스",
       "title": "“결혼하니 먼저 끊을 게 호동”…이승철이 해명한20년 손절설",
@@ -30987,844 +31816,7 @@
         "parser_revision": 7
       },
       "curation_event_key": "preschool-english-academy-abuse-appeal-disclosed-20261025"
-    },
-    "725e1189dc1b": {
-      "source": "MBC 뉴스데스크",
-      "title": "체불임금 찾아준다더니2100만원 누락…업주는 그 감독 결과로 지급 미뤘다",
-      "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6860473_37004.html",
-      "first_seen_at": 1792894575,
-      "last_seen_at": 1792894575,
-      "samples": [
-        {
-          "at": 1792894575,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "725e1189dc1b",
-      "editorial": {
-        "title": "체불임금 찾아준다더니2100만원 누락…업주는 그 감독 결과로 지급 미뤘다",
-        "category": "시사",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6860473_37004.html",
-        "source": "MBC 뉴스데스크",
-        "kind": "article",
-        "event_key": "labor-inspection-omits-foreign-worker-21m-wages-20261024",
-        "why": "월급 못 받은 지인에게 보낼 황당한 역전이다. 피해자를 빼고 끝낸 근로감독 결과가 오히려 업주의 지급 지연 근거로 쓰였다.",
-        "angle": "피해자 빠진 근로감독이 업주의 방패로",
-        "why_now": "원본 사건/새 취재 확인일 2026-10-24. 새 취재 최초등록시각을 기록했다. 사건의 과거 경과와 구분한다.",
-        "verified_at": 1792893875,
-        "published_at": 1792840327,
-        "evidence": [
-          {
-            "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6860473_37004.html",
-            "note": "MBC 취재본문에서65명·5100만원 시정 홍보,외국인 유학생 누락,다른 노동청에는 계약서 제출,출퇴근장부 재검증2100만원 확인. 노동청은 사측 자료 위주 조사라고 답했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6860473_37004.html",
-            "label": "직접 확인한 취재 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "사건 경과는올해1월 감독부터. 새 취재공개24일20:12. 영상미시청,본문 확인. 모든 근로감독의 문제로 일반화 금지.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-24",
-          "observation": "MBC 취재본문에서65명·5100만원 시정 홍보,외국인 유학생 누락,다른 노동청에는 계약서 제출,출퇴근장부 재검증2100만원 확인. 노동청은 사측 자료 위주 조사라고 답했다.",
-          "checked_materials": [],
-          "outline": [
-            "근로계약서가 없어 제외했다는 노동청 설명",
-            "다른 노동청에 이미 제출된 계약서와2100만원 재검증",
-            "업주가 감독 결과를 내세워 지급을 미루는 결과"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "직접 확인한 취재 본문",
-            "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6860473_37004.html"
-          }
-        ],
-        "excerpt": "",
-        "context": "원본 사건/새 취재 확인일 2026-10-24. 새 취재 최초등록시각을 기록했다. 사건의 과거 경과와 구분한다.",
-        "fetched_at": 1792894575,
-        "parser_revision": 7
-      },
-      "curation_event_key": "labor-inspection-omits-foreign-worker-21m-wages-20261024"
-    },
-    "4e7905700849": {
-      "source": "뉴스엔·MBN 방송 캡처",
-      "title": "아이브까지 부탁했지만 “저희는 안 해요”…74세 사장님의 촬영 거절 이유",
-      "link": "https://www.newsen.com/news_view.php?uid=202610232015416110",
-      "first_seen_at": 1792894575,
-      "last_seen_at": 1792894575,
-      "samples": [
-        {
-          "at": 1792894575,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "4e7905700849",
-      "editorial": {
-        "title": "아이브까지 부탁했지만 “저희는 안 해요”…74세 사장님의 촬영 거절 이유",
-        "category": "아이돌",
-        "url": "https://www.newsen.com/news_view.php?uid=202610232015416110",
-        "source": "뉴스엔·MBN 방송 캡처",
-        "kind": "article",
-        "event_key": "jeon-hyun-moo-plan-ive-restaurant-filming-refusal-20261023",
-        "why": "맛집 방송이면 좋아할 거란 기대가 뒤집힌다. 손님을 더 받을 체력이 없다는 사장님과 계단을 내려오며 진짜 리얼임을 인정하는 아이브의 반응이 이어진다.",
-        "angle": "방송 출연보다 감당 가능한 장사를 택한 사장님",
-        "why_now": "원본 사건/새 취재 확인일 2026-10-23. 정확 최초공개 시분은 미확인으로 null. 당일 방송·취재 날짜를 확인했고 재기사 시각으로 바꾸지 않았다.",
-        "verified_at": 1792894096,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.newsen.com/news_view.php?uid=202610232015416110",
-            "note": "실제 방송 캡처에서사장의 손을 든 거절·방송 나가면 너무 힘들다는 자막,가을의 반응,계단을 내려오며 리얼이지/와 진짜네 자막을 연속 확인.23일 방송임은 취재본문 대조."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://photo.newsen.com/news_photo/2026/10/23/202610232015416110_1.jpg",
-            "label": "실제 확인한 방송 캡처1",
-            "kind": "image"
-          },
-          {
-            "url": "https://photo.newsen.com/news_photo/2026/10/23/202610232015416110_2.jpg",
-            "label": "실제 확인한 방송 캡처2",
-            "kind": "image"
-          },
-          {
-            "url": "https://www.newsen.com/news_view.php?uid=202610232015416110",
-            "label": "직접 확인한 취재 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "23일 방송·장면의 정확한 시분 미표기.24일06:20 기사와 구분. 캡처 확인,전체영상 미시청. 거절한 업주 비난·추가 방문 유도 금지.",
-        "readiness": {
-          "mode": "scene",
-          "event_date": "2026-10-23",
-          "observation": "실제 방송 캡처에서사장의 손을 든 거절·방송 나가면 너무 힘들다는 자막,가을의 반응,계단을 내려오며 리얼이지/와 진짜네 자막을 연속 확인.23일 방송임은 취재본문 대조.",
-          "checked_materials": [
-            "https://photo.newsen.com/news_photo/2026/10/23/202610232015416110_1.jpg",
-            "https://photo.newsen.com/news_photo/2026/10/23/202610232015416110_2.jpg"
-          ],
-          "outline": [
-            "사장님이 손을 들며 저희는 안 해요라고 한 컷",
-            "방송 나가면 너무 힘들어요라는 거절 이유",
-            "식당을 나오는 계단에서 리얼이지→와 진짜네"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [
-          {
-            "url": "https://photo.newsen.com/news_photo/2026/10/23/202610232015416110_1.jpg",
-            "label": "실제 확인한 방송 캡처1",
-            "kind": "image"
-          },
-          {
-            "url": "https://photo.newsen.com/news_photo/2026/10/23/202610232015416110_2.jpg",
-            "label": "실제 확인한 방송 캡처2",
-            "kind": "image"
-          }
-        ],
-        "source_links": [
-          {
-            "label": "실제 확인한 방송 캡처1",
-            "url": "https://photo.newsen.com/news_photo/2026/10/23/202610232015416110_1.jpg"
-          },
-          {
-            "label": "실제 확인한 방송 캡처2",
-            "url": "https://photo.newsen.com/news_photo/2026/10/23/202610232015416110_2.jpg"
-          },
-          {
-            "label": "직접 확인한 취재 본문",
-            "url": "https://www.newsen.com/news_view.php?uid=202610232015416110"
-          }
-        ],
-        "excerpt": "",
-        "context": "원본 사건/새 취재 확인일 2026-10-23. 정확 최초공개 시분은 미확인으로 null. 당일 방송·취재 날짜를 확인했고 재기사 시각으로 바꾸지 않았다.",
-        "fetched_at": 1792894575,
-        "parser_revision": 7
-      },
-      "curation_event_key": "jeon-hyun-moo-plan-ive-restaurant-filming-refusal-20261023"
-    },
-    "179f50b8e5d5": {
-      "source": "MBC 뉴스데스크",
-      "title": "휴대폰에 불법촬영물 있다고 신고했는데…“증거는 진술뿐” 불송치",
-      "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6860331_37004.html",
-      "first_seen_at": 1792894575,
-      "last_seen_at": 1792894575,
-      "samples": [
-        {
-          "at": 1792894575,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "179f50b8e5d5",
-      "editorial": {
-        "title": "휴대폰에 불법촬영물 있다고 신고했는데…“증거는 진술뿐” 불송치",
-        "category": "시사",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6860331_37004.html",
-        "source": "MBC 뉴스데스크",
-        "kind": "article",
-        "event_key": "police-fail-phone-cctv-seizure-sexual-violence-report-20261023",
-        "why": "증거를 확보하지 않은 뒤 증거가 부족하다고 한 수사 순서가 공유 포인트다. 검찰 보완수사 지시와 담당자 교체까지 확인되는 구체적 권리 문제다.",
-        "angle": "확보 안 한 증거를 두고 증거 부족이라는 결론",
-        "why_now": "원본 사건/새 취재 확인일 2026-10-23. 새 취재 최초등록시각을 기록했다. 사건의 과거 경과와 구분한다.",
-        "verified_at": 1792894029,
-        "published_at": 1792753675,
-        "evidence": [
-          {
-            "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6860331_37004.html",
-            "note": "취재본문에서휴대폰 임의제출 거부 뒤 미확보,CCTV 미확보,진술뿐이라는 강간혐의 불송치 사유,검찰 보완수사 지시·담당자 교체 확인.2차가해 발언은 피해자 주장과 수사관 부인을 함께 확인."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6860331_37004.html",
-            "label": "직접 확인한 취재 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "피해 주장은확정판결과 구분. 사건은올해2월 이후,새 취재23일20:07. 영상미시청. 피해자 신상·불법촬영물 노출 금지.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-23",
-          "observation": "취재본문에서휴대폰 임의제출 거부 뒤 미확보,CCTV 미확보,진술뿐이라는 강간혐의 불송치 사유,검찰 보완수사 지시·담당자 교체 확인.2차가해 발언은 피해자 주장과 수사관 부인을 함께 확인.",
-          "checked_materials": [],
-          "outline": [
-            "휴대폰에 다른 피해자 자료도 있다고 신고한 경위",
-            "휴대폰·CCTV를 확보하지 않은 뒤의 불송치 이유",
-            "검찰 보완수사 지시와 담당자 교체"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "직접 확인한 취재 본문",
-            "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6860331_37004.html"
-          }
-        ],
-        "excerpt": "",
-        "context": "원본 사건/새 취재 확인일 2026-10-23. 새 취재 최초등록시각을 기록했다. 사건의 과거 경과와 구분한다.",
-        "fetched_at": 1792894575,
-        "parser_revision": 7
-      },
-      "curation_event_key": "police-fail-phone-cctv-seizure-sexual-violence-report-20261023"
-    },
-    "a61e0d050dea": {
-      "source": "뉴스엔·KBS 살림남 캡처",
-      "title": "볶음면3개가 기본인 설윤…“국물이 없잖아요”라는 설명에 표정이 멈췄다",
-      "link": "https://news.nate.com/view/20261025n01742",
-      "first_seen_at": 1792894575,
-      "last_seen_at": 1792894575,
-      "samples": [
-        {
-          "at": 1792894575,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "a61e0d050dea",
-      "editorial": {
-        "title": "볶음면3개가 기본인 설윤…“국물이 없잖아요”라는 설명에 표정이 멈췄다",
-        "category": "아이돌",
-        "url": "https://news.nate.com/view/20261025n01742",
-        "source": "뉴스엔·KBS 살림남 캡처",
-        "kind": "article",
-        "event_key": "nmixx-sullyoon-three-noodles-no-soup-banter-20261024",
-        "why": "면 좋아하는 친구에게 보낼 식사량 기준의 차이다. 볶음면3개에 놀란 출연진에게 국물이 없다는 설명이 돌아와 반응 컷까지 바로 회수된다.",
-        "angle": "볶음면3개라는 양보다 국물 없다는 설명이 웃음",
-        "why_now": "원본 사건/새 취재 확인일 2026-10-24. 정확 최초공개 시분은 미확인으로 null. 당일 방송·취재 날짜를 확인했고 재기사 시각으로 바꾸지 않았다.",
-        "verified_at": 1792894014,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://news.nate.com/view/20261025n01742",
-            "note": "실제 KBS 방송 연속 캡처에서볶음면은 가볍게3개 자막과 출연진의 놀란 표정,설윤의 국물이 없잖아요 자막을 확인.24일 방송 및 피자5~6조각 설명은 기사본문 대조."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/nn/2026/10/25/202610250531132110_1.jpg",
-            "label": "실제 확인한 방송 캡처1",
-            "kind": "image"
-          },
-          {
-            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/nn/2026/10/25/202610250531132110_2.jpg",
-            "label": "실제 확인한 방송 캡처2",
-            "kind": "image"
-          },
-          {
-            "url": "https://news.nate.com/view/20261025n01742",
-            "label": "직접 확인한 취재 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "24일 방송·장면 시분 미확인.25일05:31 기사시각을 최초공개로 대입 안함. 캡처만 확인. 체형 비하·섭식 권장으로 쓰지 않는다.",
-        "readiness": {
-          "mode": "scene",
-          "event_date": "2026-10-24",
-          "observation": "실제 KBS 방송 연속 캡처에서볶음면은 가볍게3개 자막과 출연진의 놀란 표정,설윤의 국물이 없잖아요 자막을 확인.24일 방송 및 피자5~6조각 설명은 기사본문 대조.",
-          "checked_materials": [
-            "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/nn/2026/10/25/202610250531132110_1.jpg",
-            "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/nn/2026/10/25/202610250531132110_2.jpg"
-          ],
-          "outline": [
-            "볶음면은 가볍게3개 자막과 상대의 놀란 표정",
-            "설윤의 국물이 없잖아요 설명 컷",
-            "마르고 잘 먹고 닮은 우리라는 옆자리의 맞장구 자막"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [
-          {
-            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/nn/2026/10/25/202610250531132110_1.jpg",
-            "label": "실제 확인한 방송 캡처1",
-            "kind": "image"
-          },
-          {
-            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/nn/2026/10/25/202610250531132110_2.jpg",
-            "label": "실제 확인한 방송 캡처2",
-            "kind": "image"
-          }
-        ],
-        "source_links": [
-          {
-            "label": "실제 확인한 방송 캡처1",
-            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/nn/2026/10/25/202610250531132110_1.jpg"
-          },
-          {
-            "label": "실제 확인한 방송 캡처2",
-            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/nn/2026/10/25/202610250531132110_2.jpg"
-          },
-          {
-            "label": "직접 확인한 취재 본문",
-            "url": "https://news.nate.com/view/20261025n01742"
-          }
-        ],
-        "excerpt": "",
-        "context": "원본 사건/새 취재 확인일 2026-10-24. 정확 최초공개 시분은 미확인으로 null. 당일 방송·취재 날짜를 확인했고 재기사 시각으로 바꾸지 않았다.",
-        "fetched_at": 1792894575,
-        "parser_revision": 7
-      },
-      "curation_event_key": "nmixx-sullyoon-three-noodles-no-soup-banter-20261024"
-    },
-    "6410408e0a66": {
-      "source": "뉴스엔·tvN 놀토 캡처",
-      "title": "“행복한 꼴뚜기?” 태연이 사과했는데…정답은 “행복한 꼴통”",
-      "link": "https://news.nate.com/view/20261024n11594",
-      "first_seen_at": 1792894575,
-      "last_seen_at": 1792894575,
-      "samples": [
-        {
-          "at": 1792894575,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "6410408e0a66",
-      "editorial": {
-        "title": "“행복한 꼴뚜기?” 태연이 사과했는데…정답은 “행복한 꼴통”",
-        "category": "아이돌",
-        "url": "https://news.nate.com/view/20261024n11594",
-        "source": "뉴스엔·tvN 놀토 캡처",
-        "kind": "article",
-        "event_key": "taeyeon-ingyu-happy-squid-wrong-abbreviation-20261024",
-        "why": "줄임말 맞히기에서 오답보다 정답이 더 센 반전이다. 인규가 책상에 엎드린 웃음과 행복한 꼴통 공개까지 한 묶음으로 전할 수 있다.",
-        "angle": "사과한 오답 뒤에 나온 더 센 정답",
-        "why_now": "원본 사건/새 취재 확인일 2026-10-24. 정확 최초공개 시분은 미확인으로 null. 당일 방송·취재 날짜를 확인했고 재기사 시각으로 바꾸지 않았다.",
-        "verified_at": 1792894006,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://news.nate.com/view/20261024n11594",
-            "note": "실제 캡처에서태연의 행꼴 자막,인규가 책상에 엎드린 웃음·K.O.,기습 무례,행복한 꼴통이라고와 시미즈 설명 자막 확인.꼴뚜기 답·죄송해요 사과 대사는 기사본문 대조."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/nn/2026/10/24/202610242023081710_1.jpg",
-            "label": "실제 확인한 방송 캡처1",
-            "kind": "image"
-          },
-          {
-            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/nn/2026/10/24/202610242023081710_2.jpg",
-            "label": "실제 확인한 방송 캡처2",
-            "kind": "image"
-          },
-          {
-            "url": "https://news.nate.com/view/20261024n11594",
-            "label": "직접 확인한 취재 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "24일 방송·정확 장면시분 미확인. 실제 캡처와 기사 대사를 구분,영상 미시청. 장난 맥락을 잘라 진짜 갈등·피해 호소로 만들지 않는다.",
-        "readiness": {
-          "mode": "scene",
-          "event_date": "2026-10-24",
-          "observation": "실제 캡처에서태연의 행꼴 자막,인규가 책상에 엎드린 웃음·K.O.,기습 무례,행복한 꼴통이라고와 시미즈 설명 자막 확인.꼴뚜기 답·죄송해요 사과 대사는 기사본문 대조.",
-          "checked_materials": [
-            "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/nn/2026/10/24/202610242023081710_1.jpg",
-            "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/nn/2026/10/24/202610242023081710_2.jpg"
-          ],
-          "outline": [
-            "행꼴을 듣고 답을 찾는 태연의 컷",
-            "기습 무례와 K.O. 자막이 붙은 인규 반응",
-            "행복한 꼴통이라는 정답과 하고 싶은 대로 한다는 설명"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [
-          {
-            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/nn/2026/10/24/202610242023081710_1.jpg",
-            "label": "실제 확인한 방송 캡처1",
-            "kind": "image"
-          },
-          {
-            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/nn/2026/10/24/202610242023081710_2.jpg",
-            "label": "실제 확인한 방송 캡처2",
-            "kind": "image"
-          }
-        ],
-        "source_links": [
-          {
-            "label": "실제 확인한 방송 캡처1",
-            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/nn/2026/10/24/202610242023081710_1.jpg"
-          },
-          {
-            "label": "실제 확인한 방송 캡처2",
-            "url": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/nn/2026/10/24/202610242023081710_2.jpg"
-          },
-          {
-            "label": "직접 확인한 취재 본문",
-            "url": "https://news.nate.com/view/20261024n11594"
-          }
-        ],
-        "excerpt": "",
-        "context": "원본 사건/새 취재 확인일 2026-10-24. 정확 최초공개 시분은 미확인으로 null. 당일 방송·취재 날짜를 확인했고 재기사 시각으로 바꾸지 않았다.",
-        "fetched_at": 1792894575,
-        "parser_revision": 7
-      },
-      "curation_event_key": "taeyeon-ingyu-happy-squid-wrong-abbreviation-20261024"
-    },
-    "224af217a3b3": {
-      "source": "MBC 뉴스데스크",
-      "title": "공무원3000명 세종으로 보내는데…기존 임대는 만실,새 집은2030년",
-      "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6860475_37004.html",
-      "first_seen_at": 1792894575,
-      "last_seen_at": 1792894575,
-      "samples": [
-        {
-          "at": 1792894575,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "224af217a3b3",
-      "editorial": {
-        "title": "공무원3000명 세종으로 보내는데…기존 임대는 만실,새 집은2030년",
-        "category": "시사",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6860475_37004.html",
-        "source": "MBC 뉴스데스크",
-        "kind": "article",
-        "event_key": "sejong-civil-servant-relocation-housing-gap-report-20261024",
-        "why": "이사 명령은 내년인데 들어갈 집은 몇 년 뒤라는 생활 모순이다. 임대주택이 있어도 소득 요건 때문에 곧바로 입주할 수 없는 조건까지 구체적이다.",
-        "angle": "먼저 이사 올3000명과 뒤늦게 생기는 집",
-        "why_now": "원본 사건/새 취재 확인일 2026-10-24. 새 취재 최초등록시각을 기록했다. 사건의 과거 경과와 구분한다.",
-        "verified_at": 1792893974,
-        "published_at": 1792840620,
-        "evidence": [
-          {
-            "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6860475_37004.html",
-            "note": "본문에서내년 상반기3000명 이전,기존 공무원 임대2000가구 만실·추가공급 빨라도2030년,내년 신규공급은 임대2300가구이고 공무원 입주에는 법령개정 필요함을 확인."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6860475_37004.html",
-            "label": "직접 확인한 취재 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "24일20:17 원공개·25일수정 구분. 주택 전체공급0이라고 쓰면 안 됨. 소득요건·법령개정 필요 및 세종시 장기공급 문제없다는 입장 유지.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-24",
-          "observation": "본문에서내년 상반기3000명 이전,기존 공무원 임대2000가구 만실·추가공급 빨라도2030년,내년 신규공급은 임대2300가구이고 공무원 입주에는 법령개정 필요함을 확인.",
-          "checked_materials": [],
-          "outline": [
-            "내년 상반기3000명 이전 일정",
-            "신규 임대2300가구도 소득요건 때문에 바로 못 들어가는 조건",
-            "기존 공무원 임대 만실과 추가공급2030년의 간극"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "직접 확인한 취재 본문",
-            "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6860475_37004.html"
-          }
-        ],
-        "excerpt": "",
-        "context": "원본 사건/새 취재 확인일 2026-10-24. 새 취재 최초등록시각을 기록했다. 사건의 과거 경과와 구분한다.",
-        "fetched_at": 1792894575,
-        "parser_revision": 7
-      },
-      "curation_event_key": "sejong-civil-servant-relocation-housing-gap-report-20261024"
-    },
-    "a92f6d5020f7": {
-      "source": "SBS·KBS 일요진단 발언",
-      "title": "조사 거부해도 과태료뿐? 공정위원장 “전체 매출1% 과징금으로”",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813648",
-      "first_seen_at": 1792894575,
-      "last_seen_at": 1792894575,
-      "samples": [
-        {
-          "at": 1792894575,
-          "views": null,
-          "reactions": null,
-          "rank": 7,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "a92f6d5020f7",
-      "editorial": {
-        "title": "조사 거부해도 과태료뿐? 공정위원장 “전체 매출1% 과징금으로”",
-        "category": "시사",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813648",
-        "source": "SBS·KBS 일요진단 발언",
-        "kind": "article",
-        "event_key": "joo-byeong-ki-proposes-one-percent-turnover-obstruction-fine-20261025",
-        "why": "조사를 막는 편이 싸다면 어떡하느냐는 제도의 빈틈이다. 쿠팡 조사 불응에 강제수사권보다 돈으로 제재하겠다는 위원장의 선택이 명확하다.",
-        "angle": "과태료만 가능한 조사 방해에 매출1% 과징금 제안",
-        "why_now": "원본 사건/새 취재 확인일 2026-10-25. 새 취재 최초등록시각을 기록했다. 사건의 과거 경과와 구분한다.",
-        "verified_at": 1792893875,
-        "published_at": 1792888866,
-        "evidence": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813648",
-            "note": "SBS본문에서25일 KBS출연 발언,쿠팡 관련 대규모유통업법 조사방해는 현행 과태료만 가능,법개정으로 과징금·이행강제금 도입과 전체매출1% 수준 제안 확인."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813648",
-            "label": "직접 확인한 취재 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "25일 방송발언,정확 발언시분 미확인·SBS09:41 취재. 법개정 제안이지 시행·확정 과징금 아님. KBS영상은 미시청.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-25",
-          "observation": "SBS본문에서25일 KBS출연 발언,쿠팡 관련 대규모유통업법 조사방해는 현행 과태료만 가능,법개정으로 과징금·이행강제금 도입과 전체매출1% 수준 제안 확인.",
-          "checked_materials": [],
-          "outline": [
-            "조사 불응에도 해당법상 과태료만 가능한 현행구조",
-            "전체매출1% 정도 과징금을 제시한 직접발언",
-            "강제수사권 확대보다 행정제재 강화라는 선택"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "직접 확인한 취재 본문",
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813648"
-          }
-        ],
-        "excerpt": "",
-        "context": "원본 사건/새 취재 확인일 2026-10-25. 새 취재 최초등록시각을 기록했다. 사건의 과거 경과와 구분한다.",
-        "fetched_at": 1792894575,
-        "parser_revision": 7
-      },
-      "curation_event_key": "joo-byeong-ki-proposes-one-percent-turnover-obstruction-fine-20261025"
-    },
-    "63799a2c0126": {
-      "source": "뉴시스·MBC 방송 캡처",
-      "title": "“목감기인데 쓰러진 줄 안다”…유재석 걱정하던 정준하의 엇나간 조언",
-      "link": "https://www.newsis.com/view/?id=NISX20261024_0003839691",
-      "first_seen_at": 1792894575,
-      "last_seen_at": 1792894575,
-      "samples": [
-        {
-          "at": 1792894575,
-          "views": null,
-          "reactions": null,
-          "rank": 8,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "63799a2c0126",
-      "editorial": {
-        "title": "“목감기인데 쓰러진 줄 안다”…유재석 걱정하던 정준하의 엇나간 조언",
-        "category": "시사",
-        "url": "https://www.newsis.com/view/?id=NISX20261024_0003839691",
-        "source": "뉴시스·MBC 방송 캡처",
-        "kind": "article",
-        "event_key": "yoo-jae-suk-cold-collapse-rumor-junha-banter-20261024",
-        "why": "안 쓰러졌다고 해명하는데 쓰러지지 말라고 밥부터 권하는 티키타카다. 건강 이상설의 사실관계와 정준하의 엇나간 걱정이 함께 정리된다.",
-        "angle": "목감기 해명에 돌아온 쓰러지지 말라는 조언",
-        "why_now": "원본 사건/새 취재 확인일 2026-10-24. 정확 최초공개 시분은 미확인으로 null. 당일 방송·취재 날짜를 확인했고 재기사 시각으로 바꾸지 않았다.",
-        "verified_at": 1792894018,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.newsis.com/view/?id=NISX20261024_0003839691",
-            "note": "실제 MBC 제공 방송 캡처의 나도 목감기인데 사람들이 쓰러진 줄 알아 자막 확인.기사본문에서한달째 걱정문자,정준하의 많이 먹어와 유재석의 안 쓰러졌다니까 응답 대조."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://img1.newsis.com/2026/10/24/NISI20261024_0002272909_web.jpg",
-            "label": "실제 확인한 방송 캡처1",
-            "kind": "image"
-          },
-          {
-            "url": "https://www.newsis.com/view/?id=NISX20261024_0003839691",
-            "label": "직접 확인한 취재 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "녹화취소 자체는9월22일,이번해명·농담은24일 방송. 캡처1장 확인·뒤의 응답은 기사본문 확인이며 영상시청으로 쓰지 않는다.",
-        "readiness": {
-          "mode": "scene",
-          "event_date": "2026-10-24",
-          "observation": "실제 MBC 제공 방송 캡처의 나도 목감기인데 사람들이 쓰러진 줄 알아 자막 확인.기사본문에서한달째 걱정문자,정준하의 많이 먹어와 유재석의 안 쓰러졌다니까 응답 대조.",
-          "checked_materials": [
-            "https://img1.newsis.com/2026/10/24/NISI20261024_0002272909_web.jpg"
-          ],
-          "outline": [
-            "목감기를 쓰러짐으로 안다는 실제 자막 컷",
-            "한달째 문자가 온다는 설명은 기사대사로 연결",
-            "정준하의 많이 먹어→안 쓰러졌다니까를 기사인용 카드로 회수"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [
-          {
-            "url": "https://img1.newsis.com/2026/10/24/NISI20261024_0002272909_web.jpg",
-            "label": "실제 확인한 방송 캡처1",
-            "kind": "image"
-          }
-        ],
-        "source_links": [
-          {
-            "label": "실제 확인한 방송 캡처1",
-            "url": "https://img1.newsis.com/2026/10/24/NISI20261024_0002272909_web.jpg"
-          },
-          {
-            "label": "직접 확인한 취재 본문",
-            "url": "https://www.newsis.com/view/?id=NISX20261024_0003839691"
-          }
-        ],
-        "excerpt": "",
-        "context": "원본 사건/새 취재 확인일 2026-10-24. 정확 최초공개 시분은 미확인으로 null. 당일 방송·취재 날짜를 확인했고 재기사 시각으로 바꾸지 않았다.",
-        "fetched_at": 1792894575,
-        "parser_revision": 7
-      },
-      "curation_event_key": "yoo-jae-suk-cold-collapse-rumor-junha-banter-20261024"
-    },
-    "1291aab78495": {
-      "source": "헤드라인제주·제주소방안전본부",
-      "title": "제주 착륙 앞두고 좌석 밑에서 연기…꺼내려던 승객은 화상",
-      "link": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601007",
-      "first_seen_at": 1792894575,
-      "last_seen_at": 1792894575,
-      "samples": [
-        {
-          "at": 1792894575,
-          "views": null,
-          "reactions": null,
-          "rank": 9,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "1291aab78495",
-      "editorial": {
-        "title": "제주 착륙 앞두고 좌석 밑에서 연기…꺼내려던 승객은 화상",
-        "category": "시사",
-        "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601007",
-        "source": "헤드라인제주·제주소방안전본부",
-        "kind": "article",
-        "event_key": "hong-kong-express-uo676-powerbank-smoke-burn-20261025",
-        "why": "여행 가방에 넣는 보조배터리가 어디서 위험해질지 바로 떠올리게 한다. 좌석 밑 연기→꺼내다 화상→승무원 격납 대응이라는 실제 과정이 완결돼 있다.",
-        "angle": "좌석 밑 가방의 보조배터리와 승무원의 대응",
-        "why_now": "원본 사건/새 취재 확인일 2026-10-25. 정확 최초공개 시분은 미확인으로 null. 당일 방송·취재 날짜를 확인했고 재기사 시각으로 바꾸지 않았다.",
-        "verified_at": 1792894163,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601007",
-            "note": "소방본부 취재본문에서25일06:22 홍콩발 제주행UO676 신고,좌석밑가방 배터리 연기·꺼내던50대승객 손 화상,승무원 내열격납가방 침수조치,착륙후 추가위험 없음 확인."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601007",
-            "label": "직접 확인한 취재 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "25일06:22 신고·10:17 취재보도 구분,최초공개 시분은미확인. 기내영상 미시청. 폭발·기종결함·특정제품 원인으로 단정 금지.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-25",
-          "observation": "소방본부 취재본문에서25일06:22 홍콩발 제주행UO676 신고,좌석밑가방 배터리 연기·꺼내던50대승객 손 화상,승무원 내열격납가방 침수조치,착륙후 추가위험 없음 확인.",
-          "checked_materials": [],
-          "outline": [
-            "착륙을 앞두고 좌석밑 가방에서 난 연기",
-            "배터리를 꺼내려던 승객의 손 화상",
-            "승무원 격납가방·침수 조치 뒤 추가위험 없음 확인"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "직접 확인한 취재 본문",
-            "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601007"
-          }
-        ],
-        "excerpt": "",
-        "context": "원본 사건/새 취재 확인일 2026-10-25. 정확 최초공개 시분은 미확인으로 null. 당일 방송·취재 날짜를 확인했고 재기사 시각으로 바꾸지 않았다.",
-        "fetched_at": 1792894575,
-        "parser_revision": 7
-      },
-      "curation_event_key": "hong-kong-express-uo676-powerbank-smoke-burn-20261025"
-    },
-    "6ab658fb5ea4": {
-      "source": "파이낸셜뉴스·한국경제",
-      "title": "수동1등3장이 한 가게에서…109억원 한 사람 몫인지는 아직 모른다",
-      "link": "https://www.fnnews.com/news/202610242152213020",
-      "first_seen_at": 1792894575,
-      "last_seen_at": 1792894575,
-      "samples": [
-        {
-          "at": 1792894575,
-          "views": null,
-          "reactions": null,
-          "rank": 10,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "6ab658fb5ea4",
-      "editorial": {
-        "title": "수동1등3장이 한 가게에서…109억원 한 사람 몫인지는 아직 모른다",
-        "category": "시사",
-        "url": "https://www.fnnews.com/news/202610242152213020",
-        "source": "파이낸셜뉴스·한국경제",
-        "kind": "article",
-        "event_key": "lotto-1247-three-manual-first-prizes-same-store-20261024",
-        "why": "같은 번호를 여러 장 사는 친구에게 보낼 현실판 만약이다. 당첨번호 나열보다 한 가게에서 수동3장이 동시에 나온 사실과 동일인 미확인을 분리하는 데 재미가 있다.",
-        "angle": "확인된 같은 가게3장과 미확인인 같은 사람",
-        "why_now": "원본 사건/새 취재 확인일 2026-10-24. 정확 최초공개 시분은 미확인으로 null. 당일 방송·취재 날짜를 확인했고 재기사 시각으로 바꾸지 않았다.",
-        "verified_at": 1792894252,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.fnnews.com/news/202610242152213020",
-            "note": "24일 추첨 취재본문에서1등8건·각36억3743만9250원,화성 올인에서 수동3건 확인.한국경제 본문은 같은 사람이3장을 샀는지는 확인되지 않았다고 명시해 대조."
-          },
-          {
-            "url": "https://www.hankyung.com/article/2026102528537",
-            "note": "같은 판매점에서 수동3장 당첨은 확인되나 동일 구매자인지는 미확인이라는 본문을 대조했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.fnnews.com/news/202610242152213020",
-            "label": "직접 확인한 취재 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "24일 추첨·당일21:53 보도 확인,정확 최초결과공개 시분 미확인. 동행복권 직접페이지503.109억 독식 확정·당첨전략·구매추천 금지.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-24",
-          "observation": "24일 추첨 취재본문에서1등8건·각36억3743만9250원,화성 올인에서 수동3건 확인.한국경제 본문은 같은 사람이3장을 샀는지는 확인되지 않았다고 명시해 대조.",
-          "checked_materials": [],
-          "outline": [
-            "1등 수동3장이 전부 같은 판매점에서 나온 사실",
-            "3장 합계는 약109억원이라는 계산",
-            "구매자가 같은 사람인지는 미확인이라는 경계"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "직접 확인한 취재 본문",
-            "url": "https://www.fnnews.com/news/202610242152213020"
-          }
-        ],
-        "excerpt": "",
-        "context": "원본 사건/새 취재 확인일 2026-10-24. 정확 최초공개 시분은 미확인으로 null. 당일 방송·취재 날짜를 확인했고 재기사 시각으로 바꾸지 않았다.",
-        "fetched_at": 1792894575,
-        "parser_revision": 7
-      },
-      "curation_event_key": "lotto-1247-three-manual-first-prizes-same-store-20261024"
     }
   },
-  "updated_at": 1793499066
+  "updated_at": 1793509634
 }
