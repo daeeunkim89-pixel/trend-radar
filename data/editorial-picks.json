@@ -1,512 +1,572 @@
 {
   "version": 2,
-  "hour_utc": "2026110111",
+  "hour_utc": "2026110114",
   "reviewer": "ChatGPT",
-  "generated_at": 1793531031,
+  "generated_at": 1793542141,
   "coverage": {
     "queries": [
-      "\"2026.11.01\" \"축구\" \"인터뷰\" \"18\"",
-      "\"2026.11.01\" \"유재석\" \"런닝맨\"",
-      "\"2026.11.01\" \"여돌\" \"대사\"",
-      "\"2026.11.01\" \"아이브\" \"유진\"",
-      "\"November 1, 2026\" \"Hirakawa\" \"Haas\"",
-      "\"November 1, 2026\" \"Erosa\" \"retire\"",
-      "\"2026.11.01\" \"김민종\" \"김종국\" \"런닝맨\"",
-      "\"2026.11.01\" \"윈터\" \"말\"",
-      "여자 아이돌 오늘 해원 규진 유나 2026 11 1 예능 대사",
-      "아이브 장원영 안유진 11월 1일 2026 인터뷰",
-      "\"2026.11.01\" \"김종민\" \"1박\"",
-      "\"2026.11.01\" \"김숙\" \"500\"",
-      "\"November 1, 2026\" football \"referee\" controversy",
-      "\"November 1, 2026\" \"Manchester United\" \"Keane\"",
-      "\"2026.11.01\" \"황당\" \"축구\" \"퇴장\"",
-      "\"2026.11.01\" \"솔라\" \"선미\"",
-      "\"2026.11.01\" \"아일릿\" \"손지창\"",
-      "\"2026.11.01\" \"라리가\" \"심판\" \"인터뷰\"",
-      "\"2026.11.01\" \"김민종\" \"손지창\"",
-      "\"2026.11.01\" \"정호영\" \"양치승\"",
-      "\"LaLiga\" \"referees\" \"500,000\" \"October\" \"2026\" interviews",
-      "\"Historic decision for referees in La Liga\"",
-      "Japan tax free refund November 1 2026 90 days official",
-      "\"2026.11.01\" \"손지창\" \"무례했다\"",
-      "\"2026.11.01\" \"축구\" \"강등\" \"관중\"",
-      "\"2026.11.01\" \"아일릿\" \"60\"",
-      "\"2026.11.01\" \"라리가\" \"심판 인터뷰\"",
-      "\"November 1, 2026\" \"Coleman\" \"referee\" On3",
-      "\"2026.11.01\" \"홍준표\" \"1억\"",
-      "\"2026.11.01\" \"후라도\" \"DM\"",
-      "\"2026.11.01\" \"후라도\" \"인스타그램\"",
-      "\"2026.11.01\" \"살라\" \"아부\"",
-      "\"Julian Erosa\" \"retires\" \"October 31, 2026\" \"MMA Junkie\"",
-      "\"Julian Erosa\" \"retirement\" \"2026\" \"family\"",
-      "\"Ronald Araujo\" \"just a solution\" \"2026\"",
-      "\"2026.11.01\" \"정호영\" \"형이라고\" \"방송\"",
-      "\"November 1, 2026\" \"Rashford\" \"Flick\"",
-      "\"November 1, 2026\" \"Guardiola\" \"joke\"",
-      "\"November 1, 2026\" \"Salah\" \"Abu Rida\"",
-      "\"November 1, 2026\" \"Mourinho\" \"Vinicius\""
+      "축구 2026.11.01 감독 발언 손흥민 퇴장",
+      "아이돌 2026.11.01 카리나 장원영 예능",
+      "football November 1 2026 controversy interview",
+      "2026.11.01 축구 분노",
+      "2026.11.01 장원영 말",
+      "2026.11.01 카리나 유튜브",
+      "football November 1 2026 said referee",
+      "November 1 2026 McClean poppy Guardian",
+      "2026.11.01 안유진 예능",
+      "2026.11.01 엔믹스 웃음",
+      "2026.11.01 미우새 김종국",
+      "site.theguardian.com/football/2026/nov/01 McClean poppy",
+      "2026.11.01 장원영 이유",
+      "2026.11.01 리버풀 슬롯 인터뷰",
+      "2026.11.01 목발",
+      "2026.11.01 인쿠시 방출",
+      "2026.11.01 최강창민 김희철",
+      "2026.11.01 냉부 허미미",
+      "2026.11.01 소연 조유민 임신",
+      "2026.11.01 이동욱 조지훈",
+      "Salah delegation Tharwat October31",
+      "Big12 11:27 2026 Moa",
+      "2026.11.01 릴리 삭제",
+      "NMIXX Lily deleted October31 2026",
+      "Flick easier sub Yamal 2026",
+      "2026.11.01 비웨사 굳이",
+      "인쿠시 라면 햄버거 끊었다",
+      "2026.11.01 미연 웃음",
+      "2026.11.01 르세라핌 유튜브",
+      "site.slist.kr/news/articleView.html?idxno=778096 맥주",
+      "2026.11.01 윈터 웃음",
+      "2026.11.01 이재명 오빠",
+      "2026.11.01 장원영 사람 이유",
+      "2026.11.01 하츠투하츠 예능",
+      "2026.11.01 박승수 라면",
+      "2026.11.01 오상욱 김풍",
+      "2026.11.01 장원영 말 이유",
+      "2026.11.01 카리나 유튜브",
+      "2026.11.01 장원영 사람 이유",
+      "2026.11.01 윈터 말",
+      "2026.11.01 하츠투하츠 예능",
+      "2026.11.01 손흥민 새 인터뷰",
+      "2026.11.01 냉부 허미미",
+      "2026.11.01 박승수 라면",
+      "2026.11.01 최강창민 김희철",
+      "2026.11.01 캐릭 오명",
+      "2026.11.01 장도연 사나",
+      "site.profootballnetwork.com/nfl-fans-react-packers-safety-fined-25000-criticizing-officials McKinney",
+      "site.bbc.com/sport/football Carrick stigma 2026",
+      "올덤 목발 2026",
+      "인쿠시 라면 햄버거 11월1일",
+      "2026.11.01 김연경 마음",
+      "site.espn.com/soccer/story/_/id/50336265",
+      "2026.11.01 안정환 오상욱",
+      "Alonso Estevao No discussion 2026",
+      "2026.11.01 지수 냉장고",
+      "2026.11.01 신인감독2 라면",
+      "2026.11.01 윈터 웃",
+      "2026.11.01 이재명 오빠",
+      "2026.11.01 인쿠시 김연경 끊었다",
+      "2026.11.01 아이브 대답",
+      "2026.11.01 미연 웃음",
+      "2026.11.01 르세라핌 유튜브",
+      "이경실 김지선1억2026 31일",
+      "Oldham crutch October31 2026",
+      "Big12 11:27 2026 Moa",
+      "site.isplus.com 인쿠시 끊었다",
+      "인쿠시 라면햄버거도끊었다 일간스포츠",
+      "2026.11.01 비웨사 조나단 취중",
+      "2026.11.01 정애연 엄마 속옷",
+      "2026.11.01 오상욱 김풍",
+      "2026.11.01 조나단 다니엘 형 문자",
+      "site.espn.com Carrick stigma Oct31 2026",
+      "site.theguardian.com Oldham crutch 2026",
+      "2026.11.01 야말 교체",
+      "2026.11.01 리사 댓글",
+      "릴리 트라우마 2026 엔믹스",
+      "엔믹스 릴리 화재 삭제2026.10.31",
+      "플릭 두골 교체2026.11.01",
+      "Flick Yamal easier Oct31 2026",
+      "릴리 붐 서운2026.10.31",
+      "엔믹스 집이불타서 삭제31일"
     ],
     "opened_urls": [
-      "https://tvreport.co.kr/broadcast/article/1087548/amp/",
-      "https://tvreport.co.kr/broadcast/article/1087538/amp/",
-      "https://mlbpark.donga.com/mp/b.php?b=kbotown&id=202611010119820624&m=view",
-      "https://www.liverpoolfc.com/news/ronald-araujo-interview-liverpool-v-arsenal-room-for-improvement-and-header-tackle",
-      "https://n.news.naver.com/article/028/0002830107",
-      "https://www.aol.com/articles/referee-accidentally-sends-east-carolina-002207000.html",
-      "https://tvreport.co.kr/broadcast/article/1087558/amp/",
-      "https://sports.yahoo.com/articles/julian-erosa-retires-ufc-vegas-021852442.html",
-      "https://www.turkiyetoday.com/sports/egypt-considers-sending-delegation-to-trabzon-amid-mohamed-salah-dispute-3231403",
-      "https://www.xportsnews.com/article/2214102",
-      "https://www.aol.com/articles/east-carolina-freshman-sustains-fractured-000307000.html",
-      "https://sports.yahoo.com/news/east-carolina-freshman-sustains-fractured-fibula-from-accidental-slide-tackle-by-ref-000307008.html",
-      "https://www.aol.co.uk/articles/played-ronaldo-messi-rooney-one-060000000.html",
-      "https://mhnse.com/news/articleView.html?idxno=1658311",
-      "https://tvreport.co.kr/broadcast/article/1087427/amp/",
-      "https://uk.sports.yahoo.com/news/ufc-vegas-123-video-julian-231723135.html",
-      "https://www.ufc.com/news/bonus-coverage-ufc-fight-night-moicano-vs-nolan",
-      "https://www.aol.com/articles/julian-erosa-retires-ufc-vegas-021852000.html",
-      "https://www.xportsnews.com/article/2214105",
-      "https://origin-zh9p7m-www.afp.com/en/ocon-denies-reports-altercation-after-being-dumped-haas"
+      "https://sports.khan.co.kr/article/202610311832003",
+      "https://www.tntsports.co.uk/football/la-liga/2026-2027/hansi-flick-pep-guardiola-luis-enrique-new-barcelona-record-alaves-win-lamine-yamal_sto23351145/story.shtml",
+      "https://www.newsen.com/news_view.php?code=100100&uid=202611011953366110",
+      "https://www.sportschosun.com/football/2026-11-01/202611010100003360000104",
+      "https://mhnse.com/news/articleView.html?idxno=1659107",
+      "https://www.slist.kr/news/articleView.html?idxno=778096",
+      "https://www.profootballnetwork.com/nfl-fans-react-packers-safety-fined-25000-criticizing-officials/",
+      "https://www.sltrib.com/sports/byu-cougars/2026/11/01/another-controversial-call-goes/",
+      "https://www.hankookilbo.com/news/article/amp/A2026110108520002884",
+      "https://www.xportsnews.com/article/2214121",
+      "https://www.newsen.com/news_view.php?uid=202611010801022310",
+      "https://www.turkiyetoday.com/sports/egypt-considers-sending-delegation-to-trabzon-amid-mohamed-salah-dispute-3231403"
     ],
     "unavailable": [
-      "최신main4c4fdf에서 필수3문서·10/31 실제게재품질보정 읽음. main체크아웃후수집진입점1회exit0,의존성준비·재검사·동일인터프리터수집,584후보갱신뒤inbox열람",
-      "최근7일실제sent/uncertain410건 사건키·정규화URL·자료와BTP문서12게재대조. 노시환·바이낸스보전·사네·모이카노판정등기발송제외. 보류예비는발송으로제외안함",
-      "12시간우선뒤미발송24/48시간확대. 아라우호원수비10/25와새인터뷰10/31 09:57UTC를JSON-LD로구분. 원수비클립재추천아님",
-      "여돌공개예능에서원희의아침식사/업무문답확인. Kim종국·김종민·딘딘은이번당일새문답. 원영상미시청을본문검증과혼동하지않음",
-      "UFC공식보너스원문이은퇴경기확인. 플레이어지역제한은우회안함. Yahoo본문불가시AOL독립본문·공식기사로전환,단순플레이어를시청으로쓰지않음",
-      "수집정상exit0이나네이트스포츠/연예/국내해외축구목록실패포함degraded. 이장애를소재0개로취급안함. 펨코보호·인스티즈403·영상수집실패별도기록",
-      "일본면세제도원자료수개월전·라리가심판인터뷰정책10/29~30선행으로새기사시각대체안함. 후라도DM은독립원문부족해제외. 홍준표는31일새회상만선정",
-      "BTP실제게재는확인가능문서12게시물기준. 계정전체직접열람미실시. version2·production정확10개·needs_more_research·불명확발송잠금유지"
+      "최신main4562f6 필수3문서와10/31 실제BTP게재 분석 읽음. checkout 뒤 수집 진입점1회 실행 exit2: 의존성 설치 실패로 수집 미시도. 반복하지 않음",
+      "수집환경 실패는 소재0개가 아님. 공개inbox generated_at1793520895 재사용·최근7일sent/uncertain410 식별자 추림 뒤 독립 조사",
+      "일반HTTP4원문 시간초과·웹open5건 오류. 같은 URL 재시도 안 함. 검색도구가 반환한 기사 본문 단락·전문으로 사실 검토; 단순 제목 요약과 구분",
+      "열람목록은 검색도구에서 본문을 읽은12원문. 직접HTTP200이나 영상시청을 주장하지 않음. 실패 열람과 원문 발견 경로는 별도 기록",
+      "최초12시간 우선·부족시미발송24/48 확대. 릴리는30일 원영상이 아닌31일 구간삭제 보도 후속. 옛 맥클린 인터뷰10/17·박승수10/27 제외",
+      "같은사람 새사실과 동일사건 구분. 캐릭 같은 첼시전 회견 후속은 기발송과 겹칠 소지 있어 제외. 마르티네스82초·제니수키·붐리믹스 제외",
+      "아이돌 원본채널·제작사·예능 대사 검색 확장. RSS404 경로 요청 안 함. 릴리 영상/삭제 전후 직접 확인 못해 기사형으로 한정",
+      "BTP 확인가능게재는 최신품질문서12개와 지난 회차 실제 발송. 계정전체 직접확인 주장 안 함. production 정확10개/불명확잠금 유지"
     ]
   },
   "picks": [
     {
-      "title": "“한눈팔면 사고 난다”는 손지창에 원희 “지금 현장이 아니잖아요”",
+      "title": "“집이 불타서 사라진 연기”에 릴리 “연기 안 해도 되겠는데”…자컨 해당 구간 삭제 보도",
       "category": "아이돌",
-      "url": "https://mhnse.com/news/articleView.html?idxno=1658311",
+      "url": "https://sports.khan.co.kr/article/202610311832003",
+      "source": "스포츠경향",
+      "kind": "article",
+      "event_key": "nmixx-lily-fire-acting-prompt-scene-deletion-reported-20261031",
+      "why": "산불을 겪은 멤버에게 화재 상황극을 제시했다는 논란이 실제 영상 편집으로 이어졌다는 새 후속이다.",
+      "angle": "원영상 재추천보다 문제 구간 삭제라는 후속",
+      "why_now": "새 후속은10/31 18:32KST 기사에 확인된 구간 삭제 보도. 원영상10/30·과거 산불2009년은 배경. 삭제 최초분·원영상 업로드분 미확인.",
+      "verified_at": 1793542141,
+      "published_at": 1793439120,
+      "evidence": [
+        {
+          "url": "https://sports.khan.co.kr/article/202610311832003",
+          "note": "스포츠경향 본문에서 화재 연기 주제·릴리의 연기 안 해도 되겠다는 말·멤버들의 항의·문제 구간 삭제 보도를 확인. 원영상과 삭제 전후 프레임 직접 미시청."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://sports.khan.co.kr/article/202610311832003",
+          "label": "기사 본문 확인·사실 카드",
+          "kind": "source"
+        }
+      ],
+      "caution": "제작진 고의·현재 심리상태 추정 금지. 삭제 자체도 기사에 귀속하며 직접 전후 검증한 장면으로 쓰지 않음.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-31",
+        "observation": "스포츠경향 본문에서 화재 연기 주제·릴리의 연기 안 해도 되겠다는 말·멤버들의 항의·문제 구간 삭제 보도를 확인. 원영상과 삭제 전후 프레임 직접 미시청.",
+        "checked_materials": [],
+        "outline": [
+          "산불 경험이 있던 릴리라는 배경",
+          "제시된 화재 연기 주제와 답",
+          "10/31 보도에 확인된 삭제 후속"
+        ]
+      }
+    },
+    {
+      "title": "해트트릭 앞두고 야말 교체한 플릭 “두 골 넣으면 빼기 더 쉽다”",
+      "category": "축구",
+      "url": "https://www.tntsports.co.uk/football/la-liga/2026-2027/hansi-flick-pep-guardiola-luis-enrique-new-barcelona-record-alaves-win-lamine-yamal_sto23351145/story.shtml",
+      "source": "TNT Sports",
+      "kind": "article",
+      "event_key": "flick-yamal-two-goals-easier-substitution-halftime-agreement-20261031",
+      "why": "골을 넣으면 더 뛰고 싶을 법한 공격수에게 오히려 두 골을 넣었기에 교체하기 쉬웠다는 감독의 설명이 붙었다.",
+      "angle": "해트트릭 기회와 출전시간 관리의 반대 관점",
+      "why_now": "10/31 바르셀로나 현지 알라베스전 뒤 새 기자회견. TNT11/1 기사, ESPN 최초31일19:38ET 표기 대조. 정확 발화분 미확인.",
+      "verified_at": 1793542141,
+      "published_at": null,
+      "evidence": [
+        {
+          "url": "https://www.tntsports.co.uk/football/la-liga/2026-2027/hansi-flick-pep-guardiola-luis-enrique-new-barcelona-record-alaves-win-lamine-yamal_sto23351145/story.shtml",
+          "note": "TNT 본문에서 야말 두 골 뒤 후반 교체·플릭의 두 골 넣으면 나오기 쉽다는 말·하프타임에 시간관리를 논의했다는 설명 확인. 실제 기자회견·표정 미시청."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.tntsports.co.uk/football/la-liga/2026-2027/hansi-flick-pep-guardiola-luis-enrique-new-barcelona-record-alaves-win-lamine-yamal_sto23351145/story.shtml",
+          "label": "기사 본문 확인·사실 카드",
+          "kind": "source"
+        }
+      ],
+      "caution": "야말이 실제로 불만을 터뜨렸다고 쓰지 않음. 해트트릭 방해·둘의 불화로 과장 금지.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-31",
+        "observation": "TNT 본문에서 야말 두 골 뒤 후반 교체·플릭의 두 골 넣으면 나오기 쉽다는 말·하프타임에 시간관리를 논의했다는 설명 확인. 실제 기자회견·표정 미시청.",
+        "checked_materials": [],
+        "outline": [
+          "두 골을 넣고 교체된 야말",
+          "두 골이면 빼기 쉽다는 플릭 설명",
+          "하프타임에 먼저 논의한 출전시간 관리"
+        ]
+      }
+    },
+    {
+      "title": "팔 꺾였다가 판정 뒤 환호…허미미 “아픈 척하다가 괜찮은 거다”",
+      "category": "메이저 스포츠",
+      "url": "https://www.newsen.com/news_view.php?code=100100&uid=202611011953366110",
+      "source": "뉴스엔",
+      "kind": "article",
+      "event_key": "huh-mi-mi-penalty-pain-appeal-then-cheer-new-explanation-20261101",
+      "why": "아프지만 괜찮음을 증명했다는 당시 중계와 본인의 경기 운영 설명이 새 방송에서 다르게 회수됐다.",
+      "angle": "부상투혼 중계에 더해진 본인의 새 설명",
+      "why_now": "새 발언11/1 20:50KST 냉부95회, 뉴스엔21:18:48 취재. 원준결승은 아시안게임 과거 경기, 정확 경기일·발언분 미확인.",
+      "verified_at": 1793542141,
+      "published_at": 1793535528,
+      "evidence": [
+        {
+          "url": "https://www.newsen.com/news_view.php?code=100100&uid=202611011953366110",
+          "note": "뉴스엔 본문에서 상대 지도가 이미2개·팔이 꺾인 상황·괜찮아진 뒤에도 있다가 지도 판정에 환호했다는 허미미 답과 캐스터 설명 확인. 경기·방송 영상 직접 미시청."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.newsen.com/news_view.php?code=100100&uid=202611011953366110",
+          "label": "기사 본문 확인·사실 카드",
+          "kind": "source"
+        }
+      ],
+      "caution": "실제 반칙이 없었다거나 부상을 전부 조작했다는 결론 금지. 새 회상 발언과 과거 경기 분리.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-01",
+        "observation": "뉴스엔 본문에서 상대 지도가 이미2개·팔이 꺾인 상황·괜찮아진 뒤에도 있다가 지도 판정에 환호했다는 허미미 답과 캐스터 설명 확인. 경기·방송 영상 직접 미시청.",
+        "checked_materials": [],
+        "outline": [
+          "상대에게 지도2개가 있던 준결승 상황",
+          "팔이 꺾인 뒤 괜찮아졌다는 본인 설명",
+          "판정 뒤 환호와 당시 중계의 대비"
+        ]
+      }
+    },
+    {
+      "title": "두 명 퇴장·0-1 패배 뒤…팬이 심판 향해 던진 건 목발",
+      "category": "축구",
+      "url": "https://www.sportschosun.com/football/2026-11-01/202611010100003360000104",
+      "source": "스포츠조선",
+      "kind": "article",
+      "event_key": "oldham-crawley-supporter-crutch-thrown-referee-20261031",
+      "why": "항의 도구가 목발이었다는 구체적인 돌발 행동과 심판을 맞히지 않았다는 결과가 짧게 완결된다.",
+      "angle": "판정 불만이 목발 투척으로 번진 경기 후 사건",
+      "why_now": "올덤-크롤리10/31 영국 경기(KST11/1). 더선31일 최초 영상 취재 단서, 한국 기사11/1 13:57. 정확 최초 영상분 미확인.",
+      "verified_at": 1793542141,
+      "published_at": null,
+      "evidence": [
+        {
+          "url": "https://www.sportschosun.com/football/2026-11-01/202611010100003360000104",
+          "note": "스포츠조선 본문에서 올덤2명 퇴장·0-1패·경기 뒤 데이비드 록 주심에게 팬이 목발을 던졌으나 맞히지 않았다는 취재 확인. 더선 원영상 직접 미시청."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.sportschosun.com/football/2026-11-01/202611010100003360000104",
+          "label": "기사 본문 확인·사실 카드",
+          "kind": "source"
+        }
+      ],
+      "caution": "팬 신원·장애 여부·구단 징계 확정하지 않음. 감독의 팬 칭찬을 투척 옹호로 연결하지 않음.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-31",
+        "observation": "스포츠조선 본문에서 올덤2명 퇴장·0-1패·경기 뒤 데이비드 록 주심에게 팬이 목발을 던졌으나 맞히지 않았다는 취재 확인. 더선 원영상 직접 미시청.",
+        "checked_materials": [],
+        "outline": [
+          "두 명이 퇴장당한 올덤 경기",
+          "떠나는 주심에게 날아간 목발이라는 보도",
+          "심판 피격은 없었고 처분은 미확인"
+        ]
+      }
+    },
+    {
+      "title": "입사는 내가 선배인데 숟가락은 나만…최강창민이 김희철 얄미웠던 이유",
+      "category": "시사",
+      "url": "https://mhnse.com/news/articleView.html?idxno=1659107",
       "source": "MHN",
       "kind": "article",
-      "event_key": "wonhee-son-ji-chang-breakfast-workplace-not-event-site-retort-20261101",
-      "why": "밥을 주자마자 업무 얘기하는 사장의 현장 안전 해명에 원희가 지금은 현장이 아니라고 받아치는 실제 문답이 있다.",
-      "angle": "현장 안전과 직원 아침식사 시간을 구분한 원희",
-      "why_now": "사당귀11/1 16:40KST 방송 중 새 문답. MHN 당일 취재, 정확 대사·기사 최초분 미확인. 과거 놀토 대사와 구분.",
-      "verified_at": 1793530789,
+      "event_key": "changmin-heechul-trainee-seniority-spoon-setting-complaint-20261101",
+      "why": "입사 순서대로 깍듯해야 한다고 배운 선배가 식사를 준비할 때 나이 많은 후배는 형들과 어울렸다는 예능 회상이다.",
+      "angle": "연습생 선배와 나이 많은 후배 사이의 숟가락 세팅",
+      "why_now": "11/1 21시 미우새 새 방송 발언. 스타뉴스21:33 선행취재·MHN본문 대조. 과거 연습생 시절 사건일·녹화일·정확 최초 발화분 미확인.",
+      "verified_at": 1793542141,
       "published_at": null,
       "evidence": [
         {
-          "url": "https://mhnse.com/news/articleView.html?idxno=1658311",
-          "note": "MHN 본문에서 직원 아침식사 직후 피드백·원희의 갑 버튼·손지창의 현장 한눈팔면 사고 발언·지금 현장이 아니잖아요라는 답을 확인. 방송 원영상·표정 직접 미시청."
-        },
-        {
-          "url": "https://tvreport.co.kr/broadcast/article/1087538/amp/",
-          "note": "같은 방송의 직원 소통 방식과 원희·민주 첫인상 대사 본문 대조."
+          "url": "https://mhnse.com/news/articleView.html?idxno=1659107",
+          "note": "MHN 본문에서 최강창민이 입사 선배·자신은 숟가락 세팅·김희철은 선배들과 어울렸다는 회상과 너스레도 능력이라는 답 확인. 원방송 미시청."
         }
       ],
       "materials": [
         {
-          "url": "https://mhnse.com/news/articleView.html?idxno=1658311",
-          "label": "확인한 원문 취재",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1659107",
+          "label": "기사 본문 확인·사실 카드",
           "kind": "source"
         }
       ],
-      "caution": "실제 근로법 위반 판정이나 불화 확정 아님. 방송의 문답과 취재에 귀속.",
+      "caution": "현재 갑질·실제 불화로 단정 금지. 가족·아들 일화를 별도 소재로 분할하지 않음.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-01",
-        "observation": "MHN 본문에서 직원 아침식사 직후 피드백·원희의 갑 버튼·손지창의 현장 한눈팔면 사고 발언·지금 현장이 아니잖아요라는 답을 확인. 방송 원영상·표정 직접 미시청.",
+        "observation": "MHN 본문에서 최강창민이 입사 선배·자신은 숟가락 세팅·김희철은 선배들과 어울렸다는 회상과 너스레도 능력이라는 답 확인. 원방송 미시청.",
         "checked_materials": [],
         "outline": [
-          "직원 식사 직후 시작한 업무 피드백",
-          "현장 안전을 이유로 든 손지창",
-          "지금 현장은 아니라는 원희 답"
+          "입사 순서로는 최강창민이 선배",
+          "숟가락 세팅 중 형들과 어울린 김희철",
+          "너스레도 능력이라고 돌아본 창민"
         ]
       }
     },
     {
-      "title": "주말 도중 시트 잃은 오콩 “몸싸움 없었다”…하스는 교체 이유 미공개",
+      "title": "조나단 “비웨사랑 달리기 차이 별로 안 나”…국대 답은 “굳이 말로 해야 하나요?”",
       "category": "메이저 스포츠",
-      "url": "https://origin-zh9p7m-www.afp.com/en/ocon-denies-reports-altercation-after-being-dumped-haas",
-      "source": "AFP",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=778096",
+      "source": "싱글리스트",
       "kind": "article",
-      "event_key": "ocon-midweekend-haas-replacement-physical-violence-denial-20261031",
-      "why": "이미 연습주행까지 한 정규 드라이버가 갑자기 교체되고, 당사자가 폭력설을 부인한 성명을 내는 이례적인 진행이다.",
-      "angle": "실제 교체와 폭력설 부인은 확인되지만 교체 이유는 별개",
-      "why_now": "금요일10/30 연습 후 토요일10/31 멕시코 현지 교체·본인 성명. AFP11/1 01:46 게시, 표시 시간대 미기재. 정확 성명 최초분 미확인.",
-      "verified_at": 1793530739,
-      "published_at": null,
+      "event_key": "jonathan-biwsah-running-close-claim-do-we-need-to-say-retort-20261101",
+      "why": "국가대표와 비슷하게 달렸다는 방송인의 허세에 당사자가 설명할 필요도 없다는 반응으로 받아치는 실제 문답이다.",
+      "angle": "달리기 자신감과 국가대표의 담담한 답",
+      "why_now": "냉부11/1 20:50KST 방송, 싱글리스트21:17 본문. 과거 달리기·축하DM은 배경, 새로 공개된 영상통화 문답. 녹화일·발화분 미확인.",
+      "verified_at": 1793542141,
+      "published_at": 1793535420,
       "evidence": [
         {
-          "url": "https://origin-zh9p7m-www.afp.com/en/ocon-denies-reports-altercation-after-being-dumped-haas",
-          "note": "AFP 본문에서 오콩이31일 히라카와로 교체됨·팀이 이유를 설명하지 않음·견해차 논의는 있었지만 물리적 폭력 주장은 단호히 부인한다는 본인 성명을 확인. 원성명·팀라디오 음성 직접 미열람."
+          "url": "https://www.slist.kr/news/articleView.html?idxno=778096",
+          "note": "싱글리스트 본문에서 조나단이 달리러 간다는 통화·비웨사와 차이가 안 났다는 말·사실인지 묻자 굳이 말로 해야 하냐는 비웨사 답 확인. 방송 직접 미시청."
         }
       ],
       "materials": [
         {
-          "url": "https://origin-zh9p7m-www.afp.com/en/ocon-denies-reports-altercation-after-being-dumped-haas",
-          "label": "확인한 원문 취재",
+          "url": "https://www.slist.kr/news/articleView.html?idxno=778096",
+          "label": "기사 본문 확인·사실 카드",
           "kind": "source"
         }
       ],
-      "caution": "몸싸움·폭행 사실로 단정 금지. 내년 교체 발표와 이번 주말 교체는 다름.",
+      "caution": "실제 달리기 기록 차이를 측정한 자료 아님. 같은 통화의 DM 농담을 또 한 소재로 나누지 않음.",
       "readiness": {
         "mode": "major_news",
-        "event_date": "2026-10-31",
-        "observation": "AFP 본문에서 오콩이31일 히라카와로 교체됨·팀이 이유를 설명하지 않음·견해차 논의는 있었지만 물리적 폭력 주장은 단호히 부인한다는 본인 성명을 확인. 원성명·팀라디오 음성 직접 미열람.",
+        "event_date": "2026-11-01",
+        "observation": "싱글리스트 본문에서 조나단이 달리러 간다는 통화·비웨사와 차이가 안 났다는 말·사실인지 묻자 굳이 말로 해야 하냐는 비웨사 답 확인. 방송 직접 미시청.",
         "checked_materials": [],
         "outline": [
-          "금요일 두 연습 세션까지 주행한 오콩",
-          "토요일 정규 드라이버 급교체",
-          "폭력설은 부인한 당사자 성명"
+          "영상통화 중 달리러 간다는 조나단",
+          "국가대표와 차이가 별로 없다는 자평",
+          "굳이 말로 해야 하냐는 비웨사 반응"
         ]
       }
     },
     {
-      "title": "그 머리 태클 왜 했냐고 묻자…아라우호 “누워 있었고 공이 거기 있어서”",
+      "title": "심판 비판에 2만5000달러…맥키니 “돈 충분히 버니까 괜찮다”",
+      "category": "메이저 스포츠",
+      "url": "https://www.profootballnetwork.com/nfl-fans-react-packers-safety-fined-25000-criticizing-officials/",
+      "source": "Pro Football Network",
+      "kind": "article",
+      "event_key": "xavier-mckinney25000-fine-criticism-make-enough-money-response-20261031",
+      "why": "벌금을 각오하고 심판을 비판한 선수가 실제 벌금 확인 뒤에도 돈은 충분히 번다며 물러서지 않은 새 반응이다.",
+      "angle": "벌금 맞아도 발언을 거두지 않은 선수",
+      "why_now": "원판정은 과거7주차. 이번 벌금 공개·반응은10/31 보도·팬 반응, PFN11/1 01:41EDT. 최초 징계 통지분·반응 발화분 미확인.",
+      "verified_at": 1793542141,
+      "published_at": 1793511660,
+      "evidence": [
+        {
+          "url": "https://www.profootballnetwork.com/nfl-fans-react-packers-safety-fined-25000-criticizing-officials/",
+          "note": "PFN 본문에서 맥키니 심판 비판 뒤2만5000달러 벌금·본인 확인과 충분히 버니 괜찮다는 답·심판조 다음 배정 변경 보도 확인. 리그 원처분·원인터뷰 직접 미열람."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.profootballnetwork.com/nfl-fans-react-packers-safety-fined-25000-criticizing-officials/",
+          "label": "기사 본문 확인·사실 카드",
+          "kind": "source"
+        }
+      ],
+      "caution": "심판 오심·편파 자체가 공식 인정됐다고 쓰지 않음. 팬 댓글을 전체 여론으로 일반화 금지.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-31",
+        "observation": "PFN 본문에서 맥키니 심판 비판 뒤2만5000달러 벌금·본인 확인과 충분히 버니 괜찮다는 답·심판조 다음 배정 변경 보도 확인. 리그 원처분·원인터뷰 직접 미열람.",
+        "checked_materials": [],
+        "outline": [
+          "심판 판정을 공개 비판한 맥키니",
+          "실제로 부과됐다고 확인한 벌금",
+          "돈은 충분히 번다는 본인 반응"
+        ]
+      }
+    },
+    {
+      "title": "두 번 돌려보고도 터치다운…경기 뒤 Big12 “점수 주면 안 됐다”",
+      "category": "메이저 스포츠",
+      "url": "https://www.sltrib.com/sports/byu-cougars/2026/11/01/another-controversial-call-goes/",
+      "source": "Salt Lake Tribune",
+      "kind": "article",
+      "event_key": "byu-arizona-state-double-review-incorrect-touchdown-big12-admission-20261031",
+      "why": "비디오 판독을 거듭해 인정한 점수가 경기 종료 뒤 잘못된 규칙 적용이었다고 발표된 구체적인 역전이다.",
+      "angle": "판독이 오심을 바로잡지 못한 뒤늦은 인정",
+      "why_now": "BYU-ASU10/31 현지 경기·당일밤 협회성명. Yahoo11/1 04:05UTC 선행취재, SLTrib11/1 기사. 정확 성명 최초분 미확인.",
+      "verified_at": 1793542141,
+      "published_at": null,
+      "evidence": [
+        {
+          "url": "https://www.sltrib.com/sports/byu-cougars/2026/11/01/another-controversial-call-goes/",
+          "note": "SLTrib 본문에서 1쿼터11:27 펌블 회수 뒤 터치다운·ASU 감독 항의 후 재판독·Big12가 올바른 판정은2야드서3rd-and-goal이었다고 인정한 성명 확인. 중계 미시청."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.sltrib.com/sports/byu-cougars/2026/11/01/another-controversial-call-goes/",
+          "label": "기사 본문 확인·사실 카드",
+          "kind": "source"
+        }
+      ],
+      "caution": "27-20 결과가 취소됐거나 승패가 뒤집혔다고 쓰지 않음. 과거 다른경기 오심과 이번 오류를 구분.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-31",
+        "observation": "SLTrib 본문에서 1쿼터11:27 펌블 회수 뒤 터치다운·ASU 감독 항의 후 재판독·Big12가 올바른 판정은2야드서3rd-and-goal이었다고 인정한 성명 확인. 중계 미시청.",
+        "checked_materials": [],
+        "outline": [
+          "펌블 회수 뒤 인정한 BYU 터치다운",
+          "항의와 두 번째 비디오 판독",
+          "경기 뒤 나온 Big12 규칙 적용 오류 인정"
+        ]
+      }
+    },
+    {
+      "title": "20년 만에 롯데 돌아온 이동욱 “그대로인 건 조지훈 응원단장뿐”",
+      "category": "메이저 스포츠",
+      "url": "https://www.hankookilbo.com/news/article/amp/A2026110108520002884",
+      "source": "한국일보",
+      "kind": "article",
+      "event_key": "lee-dong-wook-lotte-return20years-only-cho-ji-hoon-unchanged-20261031",
+      "why": "강산이 두 번 바뀐 귀환에서 선수나 감독 대신 응원단장만 그대로라는 실제 한마디가 롯데팬의 오랜 시간을 건드린다.",
+      "angle": "20년 사이 그대로 남은 응원단장이라는 농담",
+      "why_now": "10/31 부산 취임식 새 발언. 이데일리31일15:40 선행취재, 한국일보11/1 09:05. 정확 발언분 미확인.",
+      "verified_at": 1793542141,
+      "published_at": null,
+      "evidence": [
+        {
+          "url": "https://www.hankookilbo.com/news/article/amp/A2026110108520002884",
+          "note": "한국일보 본문에서20년 만에 귀환·강산이 두 번 변했지만 코치 때 처음 시작한 조지훈 단장만 그대로라는 본인 발언 확인. 취임식 원영상 미시청."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.hankookilbo.com/news/article/amp/A2026110108520002884",
+          "label": "기사 본문 확인·사실 카드",
+          "kind": "source"
+        }
+      ],
+      "caution": "다른 모든 직원이 실제 교체됐다는 인사 통계로 쓰지 않음. 본인의 소회·농담.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-10-31",
+        "observation": "한국일보 본문에서20년 만에 귀환·강산이 두 번 변했지만 코치 때 처음 시작한 조지훈 단장만 그대로라는 본인 발언 확인. 취임식 원영상 미시청.",
+        "checked_materials": [],
+        "outline": [
+          "2006년 떠났다가 감독으로 돌아온 이동욱",
+          "강산 두 번 변했다는 인사",
+          "조지훈만 그대로라는 새 취임식 발언"
+        ]
+      }
+    },
+    {
+      "title": "월드컵 부상으로 혼자 돌아온 조유민…소연, 그 시련 중 찾아온 아들 공개",
       "category": "축구",
-      "url": "https://www.liverpoolfc.com/news/ronald-araujo-interview-liverpool-v-arsenal-room-for-improvement-and-header-tackle",
-      "source": "Liverpool FC",
-      "kind": "article",
-      "event_key": "araujo-new-interview-head-tackle-just-solution-explanation-20261031",
-      "why": "팬이 이미 아는 기묘한 수비에 본인이 거창한 기술이 아니라 누운 상태에서 쓸 수 있는 해결책이었다고 담담히 설명한 새 인터뷰다.",
-      "angle": "옛 클립 재탕 대신 본인의 새 설명",
-      "why_now": "리버풀 공식 인터뷰 최초10/31 09:57UTC(JSON-LD datePublished 대조). 원수비는10/25 브라이턴전이며 이번 추천은31일 새 답변. 촬영일 미기재.",
-      "verified_at": 1793530821,
-      "published_at": 1793440620,
-      "evidence": [
-        {
-          "url": "https://www.liverpoolfc.com/news/ronald-araujo-interview-liverpool-v-arsenal-room-for-improvement-and-header-tackle",
-          "note": "리버풀 공식 본문에서 머리 태클을 묻자 바닥에 누워 있었고 공이 거기 있어 머리를 썼다는 설명·팀에 도움 되는 무엇이든 해야 한다는 새 답을 확인.10/25 원영상 직접 미시청."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.liverpoolfc.com/news/ronald-araujo-interview-liverpool-v-arsenal-room-for-improvement-and-header-tackle",
-          "label": "확인한 원문 취재",
-          "kind": "source"
-        }
-      ],
-      "caution": "10/25 장면을 새 영상으로 추천하지 않음. 본인 설명과 원경기 날짜를 분리한 사실 카드.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-31",
-        "observation": "리버풀 공식 본문에서 머리 태클을 묻자 바닥에 누워 있었고 공이 거기 있어 머리를 썼다는 설명·팀에 도움 되는 무엇이든 해야 한다는 새 답을 확인.10/25 원영상 직접 미시청.",
-        "checked_materials": [],
-        "outline": [
-          "이미 알려진 머리 수비 장면이라는 배경",
-          "왜 머리를 썼는지 본인에게 한 질문",
-          "그저 해결책이었다는 새 인터뷰 답"
-        ]
-      }
-    },
-    {
-      "title": "이정영 꺾고도 떠났다…에로사, 가족 앞 마지막 UFC 경기를 KO로 마무리",
-      "category": "메이저 스포츠",
-      "url": "https://www.ufc.com/news/bonus-coverage-ufc-fight-night-moicano-vs-nolan",
-      "source": "UFC",
-      "kind": "article",
-      "event_key": "julian-erosa-retirement-fight-ko-lee-family-final-octagon-20261031",
-      "why": "이겨도 마지막이라고 정한 베테랑이 한국 선수와의 경기에서 승리한 뒤 실제로 은퇴를 실행한 새 결말이다.",
-      "angle": "승리도 은퇴 결정을 바꾸지 않은 마지막 경기",
-      "why_now": "UFC Vegas123 10/31 라스베이거스(KST11/1). MMA Junkie 취재31일23:17UTC, UFC 보너스 기사11/1. 사전 은퇴예고는 과거 배경, 이번 실제 은퇴와 구분.",
-      "verified_at": 1793530898,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://www.ufc.com/news/bonus-coverage-ufc-fight-night-moicano-vs-nolan",
-          "note": "UFC 공식 본문에서 이정영 상대2분 이내 KO·가족 응원 속 마지막 옥타곤·퍼포먼스 보너스 대상으로 명시한 점을 확인. MMA Junkie 전재로 은퇴경기와1R1분31초 결과 대조. 원영상은 지역제한으로 미시청."
-        },
-        {
-          "url": "https://uk.sports.yahoo.com/news/ufc-vegas-123-video-julian-231723135.html",
-          "note": "MMA Junkie31일23:17UTC 게시·1분31초 KO 은퇴경기 취재 전재 확인. 원영상 시청 아님."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.ufc.com/news/bonus-coverage-ufc-fight-night-moicano-vs-nolan",
-          "label": "확인한 원문 취재",
-          "kind": "source"
-        }
-      ],
-      "caution": "한국 선수 패배 조롱 금지. 승리 후 충동 은퇴가 아니라 사전 결정의 실행. 보너스 금액은 미기재.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-31",
-        "observation": "UFC 공식 본문에서 이정영 상대2분 이내 KO·가족 응원 속 마지막 옥타곤·퍼포먼스 보너스 대상으로 명시한 점을 확인. MMA Junkie 전재로 은퇴경기와1R1분31초 결과 대조. 원영상은 지역제한으로 미시청.",
-        "checked_materials": [],
-        "outline": [
-          "한국 선수 이정영과의 마지막 경기",
-          "승리 뒤에도 유지한 은퇴 결정",
-          "가족과 함께 마무리한 경력이라는 공식 취재"
-        ]
-      }
-    },
-    {
-      "title": "김종국 “왜 하하만 홍보해줘?”…하하 “난 이렇게 해도 잘 안돼”",
-      "category": "시사",
-      "url": "https://tvreport.co.kr/broadcast/article/1087548/amp/",
-      "source": "TV리포트",
-      "kind": "article",
-      "event_key": "kim-jong-kook-haha-promotion-complaint-even-with-help-joke-20261101",
-      "why": "차별처럼 시작한 서운함에 상대가 지원을 받아도 안 된다고 자조하고 제작진 자막까지 해명하는 티키타카가 있다.",
-      "angle": "홍보 지원을 따진 말에 돌아온 하하의 자조",
-      "why_now": "런닝맨11/1 18:10KST 방송 새 오프닝. TV리포트 당일 방송취재. 정확 대사 최초분 미확인. 신곡 발매 자체는 추천 아님.",
-      "verified_at": 1793530739,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://tvreport.co.kr/broadcast/article/1087548/amp/",
-          "note": "TV리포트 본문에서 김종국의 하하만 공연·앨범 챙긴다는 말·양세찬의 형은 잘 된다는 답·하하의 이렇게 해도 안 된다는 자조·제작진 홍보했었다는 자막 설명 확인. 방송 미시청."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://tvreport.co.kr/broadcast/article/1087548/amp/",
-          "label": "확인한 원문 취재",
-          "kind": "source"
-        }
-      ],
-      "caution": "실제 제작진 차별·불화 확정 아님. 신곡 홍보물 자체보다 실제 문답 중심.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-01",
-        "observation": "TV리포트 본문에서 김종국의 하하만 공연·앨범 챙긴다는 말·양세찬의 형은 잘 된다는 답·하하의 이렇게 해도 안 된다는 자조·제작진 홍보했었다는 자막 설명 확인. 방송 미시청.",
-        "checked_materials": [],
-        "outline": [
-          "왜 하하만 챙기냐는 김종국",
-          "형은 잘 된다는 양세찬",
-          "이렇게 도와줘도 안 된다는 하하와 제작진 해명"
-        ]
-      }
-    },
-    {
-      "title": "“주식 한 번도 안 했다”던 홍준표…“변호사에게 속아1.3억 날린 적은 있다”",
-      "category": "시사",
-      "url": "https://n.news.naver.com/article/028/0002830107",
-      "source": "한겨레",
-      "kind": "article",
-      "event_key": "hong-joon-pyo-listed-shares-never-venture-loss-lawyer-confession-20261031",
-      "why": "주식 경험이 없다는 말의 범위를 상장주식으로 좁혀 설명하며 변호사도 사기를 당했지만 창피해 말 못 했다는 회상을 새로 공개했다.",
-      "angle": "상장주식 거래와 과거 비상장 투자를 구분한 본인 해명",
-      "why_now": "새 페이스북 글10/31, 정확 최초분 미확인. 아이뉴스31일18:43 선행보도 대조. 실제 투자손실은2000년4월 회상이며 새 손실 아님.",
-      "verified_at": 1793530857,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://n.news.naver.com/article/028/0002830107",
-          "note": "한겨레 본문에 인용된31일 글에서 상장주식은 산 적 없다는 말·2000년 비상장회사1.3억원 투자 전액 손실 회상·피해 변호사들이 창피해 쉬쉬했다는 설명 확인. 원SNS·수사기록 직접 미열람."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://n.news.naver.com/article/028/0002830107",
-          "label": "확인한 원문 취재",
-          "kind": "source"
-        }
-      ],
-      "caution": "사기 피해와 다른 변호사들50억원은 본인 주장. 오늘 손실·판결로 쓰지 않음. 투자 조언 아님.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-31",
-        "observation": "한겨레 본문에 인용된31일 글에서 상장주식은 산 적 없다는 말·2000년 비상장회사1.3억원 투자 전액 손실 회상·피해 변호사들이 창피해 쉬쉬했다는 설명 확인. 원SNS·수사기록 직접 미열람.",
-        "checked_materials": [],
-        "outline": [
-          "상장주식은 안 샀다는 범위 설명",
-          "26년 전 비상장 투자 실패 회상",
-          "변호사가 속았다는 소문이 두려웠다는 말"
-        ]
-      }
-    },
-    {
-      "title": "아이에게 한 조각 양보하겠냐 묻자…예비 아빠 김종민 “나눠 먹어야지”",
-      "category": "시사",
-      "url": "https://www.xportsnews.com/article/2214105",
+      "url": "https://www.xportsnews.com/article/2214121",
       "source": "엑스포츠뉴스",
       "kind": "article",
-      "event_key": "kim-jong-min-child-one-piece-food-share-not-sacrifice-joke-20261101",
-      "why": "아이를 위해 혼자 굶겠다는 정답을 유도한 질문에 나눔을 가르치겠다는 다른 답이 돌아오는 완결된 대사다.",
-      "angle": "아빠의 희생 질문을 나눔 교육으로 돌린 답",
-      "why_now": "1박2일11/1 18:10KST 방송. 사전자료15:56에 질문 예고, 실제 나눠먹겠다는 답은 방송 후19:30 취재. 녹화일·정확 대사분 미확인.",
-      "verified_at": 1793530754,
-      "published_at": 1793529000,
+      "event_key": "soyeon-cho-yu-min-pregnancy-worldcup-injury-fourth-anniversary-20261101",
+      "why": "첫 월드컵 이후 두 번째 대회를 준비하다 다친 국대 선수의 이야기에 부부가 새 생명을 만났다는 실제 후속이 붙었다.",
+      "angle": "결혼4주년에 직접 밝힌 부상 이후의 가족 소식",
+      "why_now": "11/1 소연 SNS 새 발표. 뉴스1 19:55 선행취재, 엑스포츠20:48 글 전문. 부상은 과거 월드컵 배경·임신 확인일·정확SNS분 미공개.",
+      "verified_at": 1793542141,
+      "published_at": 1793533680,
       "evidence": [
         {
-          "url": "https://www.xportsnews.com/article/2214105",
-          "note": "엑스포츠 본문에서 딘딘의 예비아빠 희생 제안·음식 한 조각이라면 아이에게 양보할 거냐는 질문·나눠 먹으며 나눔을 가르치겠다는 김종민 답을 확인. 원영상 미시청."
+          "url": "https://www.xportsnews.com/article/2214121",
+          "note": "엑스포츠 본문·전문에서 결혼4주년 발표·남편이 미국 본선 경기 부상 뒤 홀로 귀국한 시련·그중 찾아온 아이와 아들맘 해시태그 확인. 원SNS사진 직접 미확인."
         }
       ],
       "materials": [
         {
-          "url": "https://www.xportsnews.com/article/2214105",
-          "label": "확인한 원문 취재",
+          "url": "https://www.xportsnews.com/article/2214121",
+          "label": "기사 본문 확인·사실 카드",
           "kind": "source"
         }
       ],
-      "caution": "미래 실제 양육 행동·자녀 방임으로 과장 금지. 방송 가정문과 농담.",
+      "caution": "현재 임신 주수·출산 예정일 추정 금지. 부상과 임신의 인과·치료 효과로 쓰지 않음.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-01",
-        "observation": "엑스포츠 본문에서 딘딘의 예비아빠 희생 제안·음식 한 조각이라면 아이에게 양보할 거냐는 질문·나눠 먹으며 나눔을 가르치겠다는 김종민 답을 확인. 원영상 미시청.",
+        "observation": "엑스포츠 본문·전문에서 결혼4주년 발표·남편이 미국 본선 경기 부상 뒤 홀로 귀국한 시련·그중 찾아온 아이와 아들맘 해시태그 확인. 원SNS사진 직접 미확인.",
         "checked_materials": [],
         "outline": [
-          "아빠가 되니 희생해보라는 멤버",
-          "음식 한 조각 가정 질문",
-          "나눔 교육을 꺼낸 김종민 답"
+          "월드컵 앞두고 기다렸던 부부",
+          "부상으로 먼저 돌아온 남편의 시련",
+          "결혼4주년에 공개한 첫아이 소식"
         ]
       }
     },
     {
-      "title": "상대 선수도 아닌 심판과 충돌…ECU 콜먼, 경기 도중 병원 이송",
-      "category": "메이저 스포츠",
-      "url": "https://www.aol.com/articles/referee-accidentally-sends-east-carolina-002207000.html",
-      "source": "AOL",
+      "title": "“빌려줄 수 있는 만큼만”…김지선 답은 “여기저기 꾸지 마, 내가1억 보낼게”",
+      "category": "시사",
+      "url": "https://www.newsen.com/news_view.php?uid=202611010801022310",
+      "source": "뉴스엔",
       "kind": "article",
-      "event_key": "east-carolina-david-coleman-referee-slip-collision-hospital-20261031",
-      "why": "경기를 통제하는 심판이 이동 중 미끄러져 선수의 다리에 충돌했다는 뜻밖의 사고 원인이 짧고 구체적이다.",
-      "angle": "선수끼리 태클한 상황이 아니었다",
-      "why_now": "ECU-템플10/31 현지 경기 도중. Yahoo Staff 취재11/1 00:09UTC, AOL00:22갱신. 정확 최초 중계분 미확인, 이송은 경기 당일.",
-      "verified_at": 1793530835,
+      "event_key": "lee-kyung-sil-kim-ji-sun1hundred-million-loan-message-recollection-20261031",
+      "why": "일부만 부탁한 선배에게 다른 곳에 손 벌리지 말라며 부족한 금액 전부를 빌려준 실제 답장이 회수된다.",
+      "angle": "필요한 일부만 부탁했는데 돌아온 전액 지원",
+      "why_now": "10/31 지식인사이드 새 대화 공개. 뉴스엔11/1 08:59:17 취재. 돈을 빌린 일은 과거 회상, 원영상 공개 정확분·대여일 미확인.",
+      "verified_at": 1793542141,
       "published_at": null,
       "evidence": [
         {
-          "url": "https://www.aol.com/articles/referee-accidentally-sends-east-carolina-002207000.html",
-          "note": "AOL 본문에서 플레이 사이 심판이 이동하다 미끄러져 데이비드 콜먼 주니어 오른다리에 충돌·부축받아 퇴장·ESPN이 병원 이송을 전한 내용을 확인. 원중계 영상 미시청."
-        },
-        {
-          "url": "https://sports.yahoo.com/news/east-carolina-freshman-sustains-fractured-fibula-from-accidental-slide-tackle-by-ref-000307008.html",
-          "note": "Yahoo 별도 취재00:09UTC 게시, 심판 충돌 사건 대조."
+          "url": "https://www.newsen.com/news_view.php?uid=202611010801022310",
+          "note": "뉴스엔 본문에서 부족금1억원 중 가능한 만큼 부탁·김지선이1억원 전부 보내겠다는 문자·약1년에 걸쳐 갚았다는 이경실 회상 확인. 원영상·거래기록 미열람."
         }
       ],
       "materials": [
         {
-          "url": "https://www.aol.com/articles/referee-accidentally-sends-east-carolina-002207000.html",
-          "label": "확인한 원문 취재",
+          "url": "https://www.newsen.com/news_view.php?uid=202611010801022310",
+          "label": "기사 본문 확인·사실 카드",
           "kind": "source"
         }
       ],
-      "caution": "고의 태클로 쓰지 않음. 비골 골절 가능성 보도와 확정 진단은 구분, 복귀 기간 미확인.",
+      "caution": "증여가 아니라 대여. 아파트 경매 발생·취하 연도는 기사별 회상 차이 있어 새 대화와 분리.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-10-31",
-        "observation": "AOL 본문에서 플레이 사이 심판이 이동하다 미끄러져 데이비드 콜먼 주니어 오른다리에 충돌·부축받아 퇴장·ESPN이 병원 이송을 전한 내용을 확인. 원중계 영상 미시청.",
+        "observation": "뉴스엔 본문에서 부족금1억원 중 가능한 만큼 부탁·김지선이1억원 전부 보내겠다는 문자·약1년에 걸쳐 갚았다는 이경실 회상 확인. 원영상·거래기록 미열람.",
         "checked_materials": [],
         "outline": [
-          "다음 수비를 준비하던 선수",
-          "미끄러진 심판의 충돌이라는 취재",
-          "부축 퇴장과 병원 이송"
+          "집 문제 해결금 중1억원 부족",
+          "부탁한 일부보다 큰 전액 대여 답장",
+          "약1년 걸려 모두 갚았다는 회상"
         ]
       }
     },
     {
-      "title": "두 살 동생인데 “이제 호영이 형”…양치승이 바꿔 부르겠다는 이유",
-      "category": "시사",
-      "url": "https://tvreport.co.kr/broadcast/article/1087427/amp/",
-      "source": "TV리포트",
-      "kind": "article",
-      "event_key": "yang-chi-seung-jung-ho-young-two-years-younger-rich-brother-joke-20261101",
-      "why": "같이 저가 맛집을 다니던 두 사람 사이에서 미국 진출로 위상이 달라지자 나이보다 성공을 기준으로 형이라 부르는 실제 농담이다.",
-      "angle": "나이보다 성공을 따른 형·동생 역전 농담",
-      "why_now": "사당귀11/1 방송. 사전 공개자료11/1 08:03 선행 취재, TV리포트 당일 공개. 녹화일·대사 최초분 미기재. 미리 공개된 말과 실제 방송 시청은 구분.",
-      "verified_at": 1793530784,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://tvreport.co.kr/broadcast/article/1087427/amp/",
-          "note": "TV리포트 제작진 공개자료 본문에서 빵집 운영 근황·미국 진출한2살 연하 정호영에게 형이라고 부르겠다는 양치승의 말·지난 거지투어와의 관계 확인. 원방송 미시청."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://tvreport.co.kr/broadcast/article/1087427/amp/",
-          "label": "확인한 원문 취재",
-          "kind": "source"
-        }
-      ],
-      "caution": "실제 나이관계 변경이나 금전 거래 아님. 과거 치킨3초룰을 새 장면으로 쓰지 않음.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-01",
-        "observation": "TV리포트 제작진 공개자료 본문에서 빵집 운영 근황·미국 진출한2살 연하 정호영에게 형이라고 부르겠다는 양치승의 말·지난 거지투어와의 관계 확인. 원방송 미시청.",
-        "checked_materials": [],
-        "outline": [
-          "함께 저가 맛집을 다닌 두 사람",
-          "정호영의 미국 진출 근황",
-          "이제 형이라 부르겠다는 양치승 농담"
-        ]
-      }
-    },
-    {
-      "title": "돈 써서 김종민 찾았는데 눈앞서 엇갈려…딘딘 “오늘만 하차해도 돼요?”",
-      "category": "시사",
-      "url": "https://www.xportsnews.com/article/2214102",
-      "source": "엑스포츠뉴스",
-      "kind": "article",
-      "event_key": "din-din-taxi-no-disembark-rule-misses-kim-jong-min-20261101",
-      "why": "찾으러 가려고 유료 찬스까지 썼는데 택시 중도하차 금지 규칙 때문에 눈앞의 상대를 놓쳐 하차 농담이 실제 규칙과 겹친다.",
-      "angle": "택시 하차 금지가 프로그램 하차 농담으로 이어졌다",
-      "why_now": "1박2일11/1 방송 중 미션. 사전15:56 예고는 이유 미공개, 엑스포츠19:16 첫취재에 구체 규칙·하차 농담 확인. 정확 장면분·녹화일 미확인.",
-      "verified_at": 1793530754,
-      "published_at": 1793528160,
-      "evidence": [
-        {
-          "url": "https://www.xportsnews.com/article/2214102",
-          "note": "엑스포츠 본문에서 금화로 얻은 택시 찬스·김종민 위치 확인·중도하차 불가 규칙·다른 차로 지나간 김종민을 놓친 뒤 오늘만 하차해도 되냐는 딘딘 답 확인. 원영상 미시청."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.xportsnews.com/article/2214102",
-          "label": "확인한 원문 취재",
-          "kind": "source"
-        }
-      ],
-      "caution": "실제 하차 선언·제작진 갈등 아님. 김종민 육아 가정문과 다른 미션 사건.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-01",
-        "observation": "엑스포츠 본문에서 금화로 얻은 택시 찬스·김종민 위치 확인·중도하차 불가 규칙·다른 차로 지나간 김종민을 놓친 뒤 오늘만 하차해도 되냐는 딘딘 답 확인. 원영상 미시청.",
-        "checked_materials": [],
-        "outline": [
-          "금화를 써서 얻은 택시 찬스",
-          "상대를 찾고도 내릴 수 없던 규칙",
-          "프로그램 하차를 꺼낸 딘딘 농담"
-        ]
-      }
-    },
-    {
-      "title": "살라 불화설에 협회가 튀르키예까지? “대표단 파견 검토” 현지 보도",
+      "title": "살라 교체 뒤 불화설…이집트 협회, 튀르키예 방문 검토 보도",
       "category": "축구",
       "url": "https://www.turkiyetoday.com/sports/egypt-considers-sending-delegation-to-trabzon-amid-mohamed-salah-dispute-3231403",
       "source": "Türkiye Today",
       "kind": "article",
       "event_key": "egypt-federation-trabzon-delegation-considered-salah-hassan-20261031",
-      "why": "대표팀 스타와 감독 갈등을 풀려고 소속팀이 있는 나라에 협회 관계자가 가는 방안까지 보도됐다는 새 후속이다.",
-      "angle": "살라 교체 논쟁 뒤 나온 해외 중재 방문설",
-      "why_now": "Türkiye Today10/31 13:14GMT+3 최초취재. 과거 앙골라전 교체·남수단전 결장은 배경이고 이번 파견검토 보도와 구분.",
-      "verified_at": 1793530856,
+      "why": "대표팀 교체 논란이 선수의 소속팀 도시까지 찾아가 풀어야 한다는 중재 검토설로 확장됐다.",
+      "angle": "협회 중재설과 미확정이라는 확인 한계",
+      "why_now": "TürkiyeToday10/31 13:14GMT+3 최초 기사. 과거 A매치 교체는 배경. Fanatik 선행·Tharwat 발언 최초분 미확인,48시간 내 공개 보도.",
+      "verified_at": 1793542141,
       "published_at": 1793441640,
       "evidence": [
         {
           "url": "https://www.turkiyetoday.com/sports/egypt-considers-sending-delegation-to-trabzon-amid-mohamed-salah-dispute-3231403",
-          "note": "Türkiye Today 본문에서 Fanatik과 이집트 교수 발언을 근거로 아부리다·아잠이 중재에 관여하며 트라브존 방문을 검토한다는 보도를 확인. 같은 본문은 공식결정·실행 미확인이라고 명시."
+          "note": "TürkiyeToday 본문에서 Tharwat 주장의 협회장·임원 관여와 트라브존 방문 검토, 공식 결정 미확정을 확인. 협회 직접 발표·당사자 원발언 미열람."
         }
       ],
       "materials": [
         {
           "url": "https://www.turkiyetoday.com/sports/egypt-considers-sending-delegation-to-trabzon-amid-mohamed-salah-dispute-3231403",
-          "label": "확인한 원문 취재",
+          "label": "기사 본문 확인·사실 카드",
           "kind": "source"
         }
       ],
-      "caution": "살라·감독 불화 및 대표단 출국 확정 아님. 제3자에 근거한 현지 보도로 귀속.",
+      "caution": "대표단 파견 확정·살라 대표팀 은퇴로 쓰지 않음. 불화 자체도 보도와 제3자 주장에 귀속.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-10-31",
-        "observation": "Türkiye Today 본문에서 Fanatik과 이집트 교수 발언을 근거로 아부리다·아잠이 중재에 관여하며 트라브존 방문을 검토한다는 보도를 확인. 같은 본문은 공식결정·실행 미확인이라고 명시.",
+        "observation": "TürkiyeToday 본문에서 Tharwat 주장의 협회장·임원 관여와 트라브존 방문 검토, 공식 결정 미확정을 확인. 협회 직접 발표·당사자 원발언 미열람.",
         "checked_materials": [],
         "outline": [
-          "살라 교체와 불화설이라는 배경",
-          "협회가 트라브존 방문을 검토한다는 취재",
-          "공식 확정이나 실제 방문 여부는 미확인"
+          "살라와 감독의 대표팀 교체 관련 불화설",
+          "소속팀 도시 방문을 검토한다는 주장",
+          "확정 일정·공식 결정은 없다는 보도"
         ]
       }
     }
