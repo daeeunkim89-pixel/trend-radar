@@ -1,494 +1,449 @@
 {
   "version": 2,
-  "hour_utc": "2026110214",
+  "hour_utc": "2026110223",
   "reviewer": "ChatGPT",
-  "generated_at": 1793631135,
+  "generated_at": 1793660866,
   "coverage": {
     "queries": [
-      "\"2026.11.02\" \"축구\" \"발언\" \"조롱\"",
-      "\"2026.11.02\" \"아이돌\" \"유튜브\" \"웃음\"",
-      "\"2026.11.02\" \"김종국\" \"폭로\"",
-      "\"2026.11.02\" \"대통령\" \"돼지\"",
-      "\"2026.11.02\" \"로이 킨\"",
-      "\"2026.11.02\" \"모예스\" \"펍\"",
-      "\"2026.11.02\" \"에스파\" \"윈터\"",
-      "\"2026.11.02\" \"아일릿\" \"유튜브\"",
-      "\"그릴리시\" \"2026.11.02\" \"훈련\"",
-      "\"2026.11.02\" \"모예스\" \"술\"",
-      "\"2026.11.02\" \"손흥민\" \"인터뷰\" \"패배\"",
-      "\"2026.11.02\" \"아이브\" \"예능\"",
-      "\"2026.11.02\" \"장원영\" \"말했다\"",
-      "\"2026.11.02\" \"설윤\" \"말했다\"",
-      "\"2026.11.02\" \"르세라핌\" \"웃음\"",
-      "\"2026.11.02\" \"김준호\" \"김지민\" \"반전\"",
-      "\"2026.11.02\" \"판 다이크\" \"50대\"",
-      "\"2026.11.02\" \"태국축구협회\" \"조사\"",
-      "\"2026.11.02\" \"화성\" \"우주\" \"응원\"",
-      "\"2026.11.02\" \"미연\" \"예능\"",
-      "\"2026.11.02\" \"무리뉴\" \"규칙\"",
-      "\"2026.11.02\" \"이세돌\" \"딸\"",
-      "\"2026.11.02\" \"안유진\" \"유튜브\"",
-      "\"2026.11.02\" \"이은미\" \"수사관\"",
-      "\"2026.11.02\" \"혜리\" \"말했다\"",
-      "\"2026.11.02\" \"배이\" \"해원\"",
-      "\"2026.11.02\" \"사쿠라\" \"발언\"",
-      "\"2026.11.02\" \"이기택\" \"김종민\" \"배신\"",
-      "Haley Stevens endorses Mike Rogers November 1 2026 Reuters Michigan",
-      "Trump Mr Veto New York Post podcast November 1 2026",
-      "Bellingham 50 goals 154 games November 1 2026 Real Madrid official",
-      "Madam Pang Park Hang seo racism investigation November 2 2026",
-      "\"2026.11.02\" \"심수봉\" \"사과\" \"원주\"",
-      "\"2026.11.02\" \"김원효\" \"2억\" \"유튜브\"",
-      "\"2026.11.02\" \"사나\" \"유튜브\"",
-      "\"2026.11.02\" \"조이\" \"웬디\" \"예능\"",
-      "\"박기량\" \"여자알몸\" \"2026\"",
-      "\"2026.11.02\" \"카카오톡\" \"오류\"",
-      "\"2026.11.02\" \"여돌\" \"자컨\"",
-      "\"2026.11.02\" \"리사\" \"웃음\"",
-      "\"2026.11.02\" \"최불암\" \"소맥\" \"식당\"",
-      "\"2026.11.02\" \"김민종\" \"칼\" \"목살\"",
-      "\"2026.11.02\" \"한화\" \"노시환\" \"307\"",
-      "\"2026.11.02\" \"FIFA\" \"나이지리아\" \"선수\"",
-      "F1 November 2 2026 Mexico race bizarre team orders penalty",
-      "\"2026.11.02\" \"맥스\" \"해밀턴\" \"벌금\"",
-      "\"2026.11.02\" \"김연경\" \"표승주\" \"웃음\"",
-      "\"2026.11.02\" \"한동훈\" \"발언\" \"박지원\"",
-      "George Russell 5000 fine media duties Mexico November 2 2026 Wolff",
-      "\"Gasly\" \"Colapinto\" \"penalties\" \"November 2, 2026\""
+      "\"2026.11.03\" \"손흥민\"",
+      "\"2026.11.03\" \"맨유\"",
+      "\"2026.11.02\" \"카리나\" \"말했다\"",
+      "\"2026.11.02\" \"안유진\" \"웃음\"",
+      "\"2026.11.03\" \"축구\" \"말했다\"",
+      "\"2026.11.02\" \"장원영\" \"예능\"",
+      "\"2026.11.02\" \"엔믹스\" \"해원\"",
+      "\"2026.11.02\" \"핑계고\" \"이성민\"",
+      "\"2026.11.03\" \"아시안컵\" 연기",
+      "\"2026.11.02\" \"김상식\" \"한국\"",
+      "\"2026.11.02\" \"지예은\" \"신동엽\"",
+      "\"2026.11.02\" \"곽튜브\" \"배추밭\"",
+      "\"2026.11.03\" \"아이돌\" \"말했다\"",
+      "\"2026.11.02\" \"권은비\" \"최예나\"",
+      "\"2026.11.02\" \"김원효\" \"2억\"",
+      "\"2026.11.02\" \"음바페\" \"어린 팬\"",
+      "\"November 2, 2026\" football \"apologised\"",
+      "\"November 2, 2026\" \"football\" \"joked\"",
+      "\"2026.11.03\" \"리버풀\"",
+      "\"2026.11.02\" \"카리나\" \"닝닝\"",
+      "\"2026.11.03\" \"아이브\" \"소방관\"",
+      "\"2026.11.02\" \"김원효\" \"2억\" \"통장\"",
+      "\"2026.11.02\" \"김상식\" \"이겨보고\"",
+      "\"2026.11.02\" \"로어리\" \"14세\"",
+      "\"2026.11.02\" \"윈터\" \"말했다\"",
+      "\"2026.11.02\" \"레이\" \"예능\"",
+      "\"2026.11.03\" \"트럼프\" \"파이프라인\"",
+      "\"2026.11.02\" \"공군\" \"군악대\" \"감사\"",
+      "\"다이제\" \"가을\" \"2026\"",
+      "\"Aston Villa\" \"drop\" \"Carragher\" \"November 2\" BBC",
+      "\"군악대\" \"기차놀이\" \"2026.11.02\" SBS",
+      "\"Aaron Donald\" \"blunder\" \"November 2, 2026\"",
+      "\"Aaron Donald\" \"fumbled\" \"November 2, 2026\"",
+      "\"Kim Sang-sik\" \"November 2, 2026\" Korea interview",
+      "\"김상식\" \"지금\" \"한국도 한 번\"",
+      "\"트럼프\" \"미스터 거부권\" \"11월 1일\"",
+      "\"2026.11.03\" \"태연\"",
+      "\"2026.11.02\" \"김채원\" \"말했다\"",
+      "\"2026.11.02\" \"최예나\" \"은비야\"",
+      "\"2026.11.02\" \"미연\" \"웃음\"",
+      "site:news.sbs.co.kr \"2026.11.02\" \"군악대\"",
+      "\"Kim Sang-sik\" \"Korea\" \"OSEN\" \"2026\" November",
+      "\"2026.11.02\" \"미스터 비토\" \"뉴욕포스트\"",
+      "\"2026.11.02\" \"김원효\" \"이혼\" \"2억\"",
+      "\"2026.11.03\" 축구 발언 논란",
+      "\"2026.11.02\" \"아이돌\" \"유튜브\" 웃음",
+      "\"2026.11.03\" \"황당\" 사건",
+      "\"2026.11.03\" \"트럼프\" 발언"
     ],
     "opened_urls": [
-      "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/declaraciones-post-racing-rm-j11-liga-01-11-2026",
-      "https://www.interfootball.co.kr/news/articleView.html?idxno=697626",
-      "https://hwaseongfc.com/news/release.php?boardid=news&idx=446&mode=view",
-      "https://www.xportsnews.com/article/2214431",
-      "https://www.xportsnews.com/article/2214114",
-      "https://www.ytn.co.kr/_ln/0101_202611021609235803",
-      "https://abcnews.com/amp/Politics/democratic-rep-haley-stevens-endorses-gop-candidate-mike/story?id=137752255",
-      "https://www.spochoo.com/news/articleView.html?idxno=131679",
-      "https://tv.edaily.co.kr/News/NewsRead?Kind=257&NewsId=03316086645641784",
-      "https://news.sbs.co.kr/english/article.do?news_id=N1008827159",
-      "https://www.formula1.com/en/latest/article/piastri-loses-p7-after-being-handed-post-race-penalty-at-mexico-city-gp.5dk3wHeak2yu7xWF0OhsRt",
-      "https://media.alpinecars.com/2026-formula-one-mexico-city-grand-prix-sunday/?lang=fra",
-      "https://www.the-race.com/formula-1/double-penalty-costs-alpine-all-its-mexican-gp-points/",
-      "https://www.reuters.com/sports/formula1/distraught-russell-excused-media-duties-after-antonelli-takes-f1-title-2026-11-02/",
-      "https://www.besteleven.com/news/articleView.html?idxno=313692",
-      "https://www.besteleven.com/news/articleView.html?idxno=313691",
-      "https://www.besteleven.com/news/articleView.html?idxno=313688",
-      "https://www.tenasia.co.kr/article/2026110212884",
-      "https://files.newsis.com/view/NISX20261102_0003850320",
-      "https://www.aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers",
-      "https://files.newsis.com/view/NISX20261102_0003850642",
-      "https://askthestewards.com/documents/456757"
+      "https://www.thisisanfield.com/2026/11/aston-villa-back-down-legal-action-jamie-carragher-apology/",
+      "https://www.xportsnews.com/article/2214439",
+      "https://www.xportsnews.com/article/2214430",
+      "https://www4.osen.co.kr/article/G1112902806",
+      "https://sports.yahoo.com/articles/aaron-donald-embarrassing-blunder-rams-014945678.html",
+      "https://www.interfootball.co.kr/news/articleView.html?idxno=697678",
+      "https://gall.dcinside.com/board/view/?id=dcbest&no=475069",
+      "https://www.aol.com/articles/villa-drop-legal-action-threat-114909000.html",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827222",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825673",
+      "https://biz.chosun.com/sports/baseball/2026/11/02/GZSDCNBYMI3DOY3BGJSDGYTBGY/?outputType=amp",
+      "https://www.aol.com/articles/aaron-donald-embarrassing-blunder-rams-014945000.html",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827040"
     ],
     "unavailable": [
-      "공식 YouTube RSS 404 경로는 재요청하지 않음. 영상 실제 시청 없이 기사형 본문 검증만 사용.",
-      "펨코·인스티즈 등 일부 수집 오류. 수집 종료0·공개 스냅샷 갱신 확인. 독립 기사 원문으로 보완."
+      "수집 진입점 1회 정상 완료·공개 스냅샷 generated_at1793660589 갱신. 일부 사이트403/503은 소재0개와 구분.",
+      "최근7일 실제sent/uncertain 420개 식별자와 동일 사건·URL 대조. BTP 실제 게재 확인범위는 최신 적합성 문서와 사용자 최근 게시 맥락에 한정.",
+      "모든 최종 후보는 본문 기반 기사형. 실제 영상 시청·원본 이미지 확인 주장을 하지 않음.",
+      "가을 다이제는10/29 원공개로48시간 초과 제외. 풍향중10/31 원본도48시간 초과 제외. 기존 음바페 아이 위로·무리뉴·마르티네스퇴장 중복 제외."
     ]
   },
   "picks": [
     {
-      "title": "박항서 ‘김치맨’ 사건, 마담 팡이 직접 조사 지시…태국협회 나섰다",
+      "title": "사과받은 빌라, 캐러거 법적 대응 철회…실제 소송은 시작 안 했다",
       "category": "축구",
-      "url": "https://www.besteleven.com/news/articleView.html?idxno=313692",
-      "source": "베스트일레븐·SBS",
+      "url": "https://www.aol.com/articles/villa-drop-legal-action-threat-114909000.html",
+      "source": "BBC 취재·AOL",
       "kind": "article",
-      "event_key": "thai-fa-park-racism-investigation-madam-pang-order-20261102",
-      "why": "한국 감독을 향한 인종차별 논란이 협회 조사로 이어진 새 후속이다.",
-      "angle": "기존 모욕 장면 대신 협회 조사 착수와 징계 미확정을 구분한다.",
-      "why_now": "사건 11/1 태국 현지. 새 조사 착수 11/2 공개(분 미상). SBS 후속 기사 11/2 21:23 KST는 최초 성명 시각으로 대체하지 않음.",
-      "verified_at": 1793631135,
+      "event_key": "villa-drops-carragher-legal-threat-after-apology-20261102",
+      "why": "BTP가 다뤘던 구단 서열 발언 논란에서 법적 대응을 접는 새 결론이다.",
+      "angle": "사과 재탕 대신 11/2 구단의 대응 철회와 미제소 상태를 첫 장에 둔다.",
+      "why_now": "새 철회 확인 11/2 영국 현지. 최초 확인 BBC 배포 11:49 UTC, AOL 수정 12:01은 최초 공개 시각과 구분.",
+      "verified_at": 1793660866,
       "published_at": null,
       "evidence": [
         {
-          "url": "https://www.besteleven.com/news/articleView.html?idxno=313692",
-          "note": "기사 본문에서 태국협회 규탄 성명·자료 수집과 징계 검토, 마담 팡의 조사 지시를 확인했다. SBS는 구단이 협회에 신고했고 조사가 시작됐다고 보도했다. 원본 관중 영상은 시청하지 않았다."
-        },
-        {
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008827159",
-          "note": "구단의 신고와 태국협회 조사 착수 보도 확인. 11/2 21:23 KST 기사 시각."
+          "url": "https://www.aol.com/articles/villa-drop-legal-action-threat-114909000.html",
+          "note": "BBC 기자 본문에서 빌라가 캐러거의 사과 뒤 법적 대응 위협을 끝냈고 실제 소송은 제기하지 않았다는 취재를 확인했다. 기존 10/31 사과는 배경이며 새 사실은 구단의 철회다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.besteleven.com/news/articleView.html?idxno=313692",
+          "url": "https://www.aol.com/articles/villa-drop-legal-action-threat-114909000.html",
           "label": "본문 확인·사실 카드",
           "kind": "source"
         }
       ],
-      "caution": "관중 모욕 장면 재탕 금지. 벌금·홈구장 제재는 가능성이지 확정 처분이 아니다.",
+      "caution": "철회가 소송 취하 판결이나 캐러거의 승소라는 뜻은 아니다. 공식 소송 서류는 미열람.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-02",
-        "observation": "기사 본문에서 태국협회 규탄 성명·자료 수집과 징계 검토, 마담 팡의 조사 지시를 확인했다. SBS는 구단이 협회에 신고했고 조사가 시작됐다고 보도했다. 원본 관중 영상은 시청하지 않았다.",
+        "observation": "BBC 기자 본문에서 빌라가 캐러거의 사과 뒤 법적 대응 위협을 끝냈고 실제 소송은 제기하지 않았다는 취재를 확인했다. 기존 10/31 사과는 배경이며 새 사실은 구단의 철회다.",
         "checked_materials": [],
         "outline": [
-          "한국 감독 모욕 논란에 협회가 움직인 새 후속",
-          "자료 수집·조사 착수와 확정 징계 구분"
+          "사과 재탕 대신 11/2 구단의 대응 철회와 미제소 상태를 첫 장에 둔다.",
+          "철회가 소송 취하 판결이나 캐러거의 승소라는 뜻은 아니다. 공식 소송 서류는 미열람."
         ]
       }
     },
     {
-      "title": "지단 기록 넘은 벨링엄, 동료 골엔 “그렇게 슛하는 줄 몰랐다”",
+      "title": "6세에 숨진 선덜랜드 팬 사진으로 조롱…14세 관중 경찰 자진 출석",
       "category": "축구",
-      "url": "https://www.besteleven.com/news/articleView.html?idxno=313691",
-      "source": "레알 공식·베스트일레븐",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825673",
+      "source": "SBS·뉴시스",
       "kind": "article",
-      "event_key": "bellingham-real-madrid-50-goals-zidane-73-fewer-games-20261101",
-      "why": "자기 50골보다 동료의 뜻밖의 슈팅에 놀란 당사자 반응을 레알 팬 맥락으로 읽을 수 있다.",
-      "angle": "공식 인터뷰의 디오망데 슈팅 반응을 먼저 두고 지단과의 득점 비교는 배경으로 쓴다.",
-      "why_now": "경기 11/1 스페인 현지. 레알 공식 인터뷰 최초 공개 11/1(날짜 정밀도, 시각 미상). 11/2 기사는 후속 해설.",
-      "verified_at": 1793631135,
+      "event_key": "bradley-lowery-photo-taunt-14-year-old-voluntary-police-20261101",
+      "why": "디포와 함께했던 유명 어린 팬을 조롱 도구로 삼은 행동에 가족과 경찰이 대응했다.",
+      "angle": "경기장 놀림의 선을 묻는 가족 입장과 미성년자 자진 출석을 함께 둔다.",
+      "why_now": "경기·영상 공개 11/1 KST로 SBS 보도(최초 업로드 분 미상). SBS 기사 11/2 09:16은 후속 보도. 2017년 사망 사건과 구분.",
+      "verified_at": 1793660866,
       "published_at": null,
       "evidence": [
         {
-          "url": "https://www.besteleven.com/news/articleView.html?idxno=313691",
-          "note": "레알 공식 인터뷰 본문에서 벨링엄이 디오망데 골에 그렇게 슛할 줄 몰랐다는 반응을 보인 대목과 자기 구단 50골 소감을 확인했다. 기사는 지단과의 득점 차이를 설명한다. 실제 영상은 미시청."
-        },
-        {
-          "url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/declaraciones-post-racing-rm-j11-liga-01-11-2026",
-          "note": "공식 인터뷰 본문에서 디오망데 슈팅에 놀랐다는 반응과 50골 소감 확인. 영어판 AI 번역 고지 있음."
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825673",
+          "note": "본문에서 로어리 사진을 이용한 관중 행동 보도, 14세 소년 자진 출석·조사 예정이라는 경찰 설명, 어머니가 소년을 향한 증오는 원치 않는다는 입장을 확인했다. 영상 직접 시청 없음."
         }
       ],
       "materials": [
         {
-          "url": "https://www.besteleven.com/news/articleView.html?idxno=313691",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825673",
           "label": "본문 확인·사실 카드",
           "kind": "source"
         }
       ],
-      "caution": "공식 영문은 AI 번역 고지가 있어 한국어는 취지 번역. 실제 말투·표정 미확인. 선수 우열로 확대 금지.",
+      "caution": "조사 예정이며 유죄 확정 아님. 미성년자 신상·얼굴 확산 금지. 실제 영상 봤다고 쓰지 않는다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-01",
-        "observation": "레알 공식 인터뷰 본문에서 벨링엄이 디오망데 골에 그렇게 슛할 줄 몰랐다는 반응을 보인 대목과 자기 구단 50골 소감을 확인했다. 기사는 지단과의 득점 차이를 설명한다. 실제 영상은 미시청.",
+        "observation": "본문에서 로어리 사진을 이용한 관중 행동 보도, 14세 소년 자진 출석·조사 예정이라는 경찰 설명, 어머니가 소년을 향한 증오는 원치 않는다는 입장을 확인했다. 영상 직접 시청 없음.",
         "checked_materials": [],
         "outline": [
-          "디오망데 슈팅에 놀란 동료 벨링엄의 공식 반응",
-          "자신도 지단의 구단 득점을 넘은 날이라는 배경"
+          "경기장 놀림의 선을 묻는 가족 입장과 미성년자 자진 출석을 함께 둔다.",
+          "조사 예정이며 유죄 확정 아님. 미성년자 신상·얼굴 확산 금지. 실제 영상 봤다고 쓰지 않는다."
         ]
       }
     },
     {
-      "title": "홈구장 공사하니 화성에 응원 궤도…직원이 AI로 만든 화성FC 우주",
+      "title": "아놀드 리버풀 복귀설에 로마노 “진지한 대화조차 없었다”",
       "category": "축구",
-      "url": "https://hwaseongfc.com/news/release.php?boardid=news&idx=446&mode=view",
-      "source": "화성FC 공식",
+      "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697678",
+      "source": "인터풋볼",
       "kind": "article",
-      "event_key": "hwaseong-fc-staff-ai-mars-cheering-constellations-20261102",
-      "why": "홈구장 공사에 도시 이름 ‘화성’을 살린 직원의 응원 웹사이트 대응이 구체적이다.",
-      "angle": "응원 10개가 모이면 선수 별자리로 바뀌는 웹상의 우주를 보여줄 사실 카드.",
-      "why_now": "구단 공식 보도자료 최초 공개 11/2(날짜만 제공, 분 미상). 2027 전국체전 대비 홈구장 보수 관련 새 서비스.",
-      "verified_at": 1793631135,
+      "event_key": "romano-alexander-arnold-liverpool-return-denial-20261102",
+      "why": "팬들이 아는 이적 선택에 정반대 복귀설이 붙었고 취재 기자가 구체적으로 부인했다.",
+      "angle": "이미 진행 중인 협상처럼 포장된 소문과 기자의 무협상 설명을 대비한다.",
+      "why_now": "로마노 SNS 발언 11/2 현지로 기사 명시(원 게시 분 미확인). 기사 11/3 01:05 KST. 복귀설 자체의 최초 제기 시각은 미확인.",
+      "verified_at": 1793660866,
       "published_at": null,
       "evidence": [
         {
-          "url": "https://hwaseongfc.com/news/release.php?boardid=news&idx=446&mode=view",
-          "note": "공식 보도자료 본문에서 직원의 AI 활용 제작, 화성 궤도 응원 메시지, 10개 누적 시 선수 별자리 연출을 확인했다. 실제 우주 송출이 아니라 웹사이트 기능이다. 사이트 작동 영상은 미확인."
-        },
-        {
-          "url": "https://www.besteleven.com/news/articleView.html?idxno=313688",
-          "note": "구단 직원이 AI로 제작한 응원 사이트와 10개 메시지 별자리 전환 설명을 본문에서 교차 확인."
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697678",
+          "note": "기사 본문에서 로마노가 리버풀과의 구체적 대화 부재, 구단·선수의 1월 이적 계획 부재를 전했다는 내용을 확인했다. 기자 취재 주장으로 귀속하며 원 SNS·영상은 미열람."
         }
       ],
       "materials": [
         {
-          "url": "https://hwaseongfc.com/news/release.php?boardid=news&idx=446&mode=view",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697678",
           "label": "본문 확인·사실 카드",
           "kind": "source"
         }
       ],
-      "caution": "웹상의 연출이다. 실제 우주 전송이나 팬 참여량을 확인했다고 쓰지 않는다.",
+      "caution": "공식 구단 잔류 발표가 아니라 로마노 취재 설명이다. 미래 이적 가능성 전체를 단정하지 않는다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-02",
-        "observation": "공식 보도자료 본문에서 직원의 AI 활용 제작, 화성 궤도 응원 메시지, 10개 누적 시 선수 별자리 연출을 확인했다. 실제 우주 송출이 아니라 웹사이트 기능이다. 사이트 작동 영상은 미확인.",
+        "observation": "기사 본문에서 로마노가 리버풀과의 구체적 대화 부재, 구단·선수의 1월 이적 계획 부재를 전했다는 내용을 확인했다. 기자 취재 주장으로 귀속하며 원 SNS·영상은 미열람.",
         "checked_materials": [],
         "outline": [
-          "홈구장 보수로 멀어질 팬들을 위한 응원 공간",
-          "화성 지명 장난과 응원 10개가 만드는 선수 별자리"
+          "이미 진행 중인 협상처럼 포장된 소문과 기자의 무협상 설명을 대비한다.",
+          "공식 구단 잔류 발표가 아니라 로마노 취재 설명이다. 미래 이적 가능성 전체를 단정하지 않는다."
         ]
       }
     },
     {
-      "title": "무대 몰입했다가 약물검사까지…이은미 ‘음성인데 재검 요구받았다’",
+      "title": "베트남 이끄는 김상식 “아시안컵에서 한국도 한 번 이기고 싶다”",
+      "category": "축구",
+      "url": "https://biz.chosun.com/sports/baseball/2026/11/02/GZSDCNBYMI3DOY3BGJSDGYTBGY/?outputType=amp",
+      "source": "OSEN 직접 인터뷰",
+      "kind": "article",
+      "event_key": "kim-sang-sik-osen-interview-wants-beat-korea-20261102",
+      "why": "전북 출신 한국 감독이 베트남을 이끌고 조국을 꺾겠다는 당사자 목표가 국축 팬 맥락에 붙는다.",
+      "angle": "애국심 논쟁을 만들지 말고 상대 팀 감독으로서의 승부욕을 인용한다.",
+      "why_now": "OSEN 직접 인터뷰 취재 공개 11/2 22:43 KST 확인. 실제 인터뷰 촬영일과 유튜브판 최초 게시 분은 미공개·미확인.",
+      "verified_at": 1793660866,
+      "published_at": null,
+      "evidence": [
+        {
+          "url": "https://biz.chosun.com/sports/baseball/2026/11/02/GZSDCNBYMI3DOY3BGJSDGYTBGY/?outputType=amp",
+          "note": "OSEN의 본인 인터뷰 기사 본문에서 한국도 이기고 싶다는 목표와 박항서 뒤를 잇는 부담, 전북의 우승·실패 경험을 말한 내용을 확인했다. 유튜브 영상을 직접 시청하지 않았다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://biz.chosun.com/sports/baseball/2026/11/02/GZSDCNBYMI3DOY3BGJSDGYTBGY/?outputType=amp",
+          "label": "본문 확인·사실 카드",
+          "kind": "source"
+        }
+      ],
+      "caution": "공개일은 인터뷰 기사 기준이며 실제 발언일 단정 금지. 한국 비하나 승리 확약으로 과장하지 않는다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-02",
+        "observation": "OSEN의 본인 인터뷰 기사 본문에서 한국도 이기고 싶다는 목표와 박항서 뒤를 잇는 부담, 전북의 우승·실패 경험을 말한 내용을 확인했다. 유튜브 영상을 직접 시청하지 않았다.",
+        "checked_materials": [],
+        "outline": [
+          "애국심 논쟁을 만들지 말고 상대 팀 감독으로서의 승부욕을 인용한다.",
+          "공개일은 인터뷰 기사 기준이며 실제 발언일 단정 금지. 한국 비하나 승리 확약으로 과장하지 않는다."
+        ]
+      }
+    },
+    {
+      "title": "사회는 유재석, 신동엽은?…지예은의 수습 “선배님은 아버지”",
       "category": "아이돌",
-      "url": "https://www.xportsnews.com/article/2214431",
-      "source": "엑스포츠뉴스·텐아시아",
+      "url": "https://www.xportsnews.com/article/2214439",
+      "source": "엑스포츠·머니투데이",
       "kind": "article",
-      "event_key": "lee-eun-mi-performance-drug-test-retest-recollection-20261102",
-      "why": "평소 극I인 가수가 무대에서 달라져 겪었다는 황당한 오해의 반전이 있다.",
-      "angle": "본인의 과거 회고임을 표시하고 무대 몰입과 음성 재검 일화를 연결한다.",
-      "why_now": "성시경 ‘부를텐데’ 원본 최초 공개 11/2(분 미확인). 첫 확인 기사 11/2 19:37 KST. 실제 과거 검사일 미공개.",
-      "verified_at": 1793631135,
+      "event_key": "ji-ye-eun-wedding-host-yoo-jae-suk-shin-father-joke-20261102",
+      "why": "두 예능 선배 사이 사회자 질문을 아버지 역할로 받아친 실제 대화가 회수된다.",
+      "angle": "신동엽 앞에서 사회자 이름을 말한 뒤 아버지라고 수습한 대화 카드.",
+      "why_now": "스튜디오 모닥 ‘뭐하지예은’ 첫 공개 11/2(분 미상), 기사 20:46 KST. 런닝맨 부분은 10월 촬영으로 공개일과 구분.",
+      "verified_at": 1793660866,
       "published_at": null,
       "evidence": [
         {
-          "url": "https://www.xportsnews.com/article/2214431",
-          "note": "본문에서 이은미가 무대 몰입 때문에 여러 차례 검사를 받았고 음성 뒤 재검도 요구받았다고 회고한 내용을 확인했다. 수사관 표정 설명은 본인의 해석이다. 원본 영상을 직접 시청하지 않았다."
-        },
-        {
-          "url": "https://www.tenasia.co.kr/article/2026110212884",
-          "note": "같은 11/2 공개분에 나온 과거 검사 회고 교차 확인. 기사형이며 영상 직접 확인 없음."
+          "url": "https://www.xportsnews.com/article/2214439",
+          "note": "기사 본문에서 김원훈의 사회자 질문, 유재석 이름, 신동엽을 아버지라고 수습한 지예은과 바타도 알고 있느냐는 신동엽의 농담을 확인했다. 영상 실제 시청 없음."
         }
       ],
       "materials": [
         {
-          "url": "https://www.xportsnews.com/article/2214431",
+          "url": "https://www.xportsnews.com/article/2214439",
           "label": "본문 확인·사실 카드",
           "kind": "source"
         }
       ],
-      "caution": "본인의 과거 검사 회고이며 기록 독립 확인 없음. 현재 약물 의혹·수사관의 실제 대사로 쓰지 않는다.",
+      "caution": "실제 갈등·사회자 다툼으로 쓰지 않는다. 표정·몸짓은 직접 확인하지 않아 제목의 근거로 삼지 않는다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-02",
-        "observation": "본문에서 이은미가 무대 몰입 때문에 여러 차례 검사를 받았고 음성 뒤 재검도 요구받았다고 회고한 내용을 확인했다. 수사관 표정 설명은 본인의 해석이다. 원본 영상을 직접 시청하지 않았다.",
+        "observation": "기사 본문에서 김원훈의 사회자 질문, 유재석 이름, 신동엽을 아버지라고 수습한 지예은과 바타도 알고 있느냐는 신동엽의 농담을 확인했다. 영상 실제 시청 없음.",
         "checked_materials": [],
         "outline": [
-          "평소 극I, 음악이 시작되면 전혀 달라진다는 본인 설명",
-          "음성 결과에도 재검을 요구받았다는 과거 회고"
+          "신동엽 앞에서 사회자 이름을 말한 뒤 아버지라고 수습한 대화 카드.",
+          "실제 갈등·사회자 다툼으로 쓰지 않는다. 표정·몸짓은 직접 확인하지 않아 제목의 근거로 삼지 않는다."
         ]
       }
     },
     {
-      "title": "막내 먹고 싶던 디저트 뺏고 남긴 김종민…‘그럴 거면 절 주셔야죠’",
+      "title": "세계 돌던 곽튜브의 첫 여행은 배추밭…친구 집 찾아갔다가 생긴 일",
       "category": "아이돌",
-      "url": "https://www.xportsnews.com/article/2214114",
-      "source": "엑스포츠뉴스",
+      "url": "https://www.xportsnews.com/article/2214430",
+      "source": "엑스포츠·OSEN",
       "kind": "article",
-      "event_key": "igi-taek-kim-jongmin-dessert-auction-leftovers-20261101",
-      "why": "막내 몰아주기 분위기를 31개 입찰로 깨고 음식까지 남긴 예능의 작은 배신이다.",
-      "angle": "20개 대 31개의 경매 결과와 남긴 디저트에 대한 막내 반응을 연결한다.",
-      "why_now": "KBS2 1박2일 최초 방송 11/1 저녁 KST(정확한 장면 송출 분 미상). 기사 11/2 06:24. 촬영일 미공개.",
-      "verified_at": 1793631135,
+      "event_key": "kwaktube-first-trip-geojedo-cabbage-field-recollection-20261102",
+      "why": "여행 유튜버가 가장 기억에 남는 여행으로 꼽은 가출과 배추밭 숙박의 기대 밖 출발이다.",
+      "angle": "친구 집을 찾아갔는데 밖에서 자게 된 경위와 여행의 해방감으로 회수한다.",
+      "why_now": "TEO ‘수다물 초과’ 최초 공개 11/2(분 미상). 첫 확인 기사 19:31 KST. 실제 일화는 고1 때이며 당시 날짜 미공개.",
+      "verified_at": 1793660866,
       "published_at": null,
       "evidence": [
         {
-          "url": "https://www.xportsnews.com/article/2214114",
-          "note": "기사 본문에서 쑥초코파이·라떼 경매에 이기택 20개, 김종민 31개를 써 낙찰된 뒤 김종민이 남겼고 이기택이 항의한 내용을 확인했다. 방송 영상은 직접 시청하지 않았다."
+          "url": "https://www.xportsnews.com/article/2214430",
+          "note": "본문에서 고1 자퇴 문제 뒤 거제도 친구를 찾아갔지만 친구 사정으로 밖에서 잤다는 회고, 배추밭의 해방감, 3박4일 만의 귀가를 확인했다. 오늘 새 공개 회고이며 원 영상 미시청."
         }
       ],
       "materials": [
         {
-          "url": "https://www.xportsnews.com/article/2214114",
+          "url": "https://www.xportsnews.com/article/2214430",
           "label": "본문 확인·사실 카드",
           "kind": "source"
         }
       ],
-      "caution": "예능 경매 상황이다. 사적 불화나 실제 음식 절도로 확대하지 않는다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-01",
-        "observation": "기사 본문에서 쑥초코파이·라떼 경매에 이기택 20개, 김종민 31개를 써 낙찰된 뒤 김종민이 남겼고 이기택이 항의한 내용을 확인했다. 방송 영상은 직접 시청하지 않았다.",
-        "checked_materials": [],
-        "outline": [
-          "막내 몫으로 기대했던 디저트를 가져간 맏형",
-          "남긴 걸 알고 나온 ‘그럴 거면 절 주셔야죠’"
-        ]
-      }
-    },
-    {
-      "title": "‘돼지’는 격 떨어지고 한자는 괜찮나…이 대통령, 소·닭·말까지 반문",
-      "category": "시사",
-      "url": "https://www.ytn.co.kr/_ln/0101_202611021609235803",
-      "source": "YTN·뉴시스",
-      "kind": "article",
-      "event_key": "lee-president-chinese-idiom-pig-cow-chicken-horse-response-20261102",
-      "why": "돼지 표현 비판에 한자와 소·닭·말을 끌어온 새로운 대응의 논리가 구체적이다.",
-      "angle": "기존 돼지 발언을 재탕하지 말고 11/2 새 반박의 동물·한자 비교에 집중한다.",
-      "why_now": "새 SNS 반박 최초 공개 11/2 오전 KST(분 미상). 뉴시스 첫 확인 보도 09:27:22, YTN 해설 16:09.",
-      "verified_at": 1793631135,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://www.ytn.co.kr/_ln/0101_202611021609235803",
-          "note": "YTN 본문에서 대통령이 한문이면 권위가 생기느냐며 마이동풍·조족지혈·우이독경과 소·닭·말을 든 새 반박을 확인했다. 이는 본인의 주장이다. SNS 원본 화면과 영상은 직접 확인하지 않았다."
-        },
-        {
-          "url": "https://files.newsis.com/view/NISX20261102_0003850320",
-          "note": "11/2 오전 새 SNS 반박 내용과 보도 시각 교차 확인."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.ytn.co.kr/_ln/0101_202611021609235803",
-          "label": "본문 확인·사실 카드",
-          "kind": "source"
-        }
-      ],
-      "caution": "10/31 돼지 발언과 11/2 새 반박을 구분한다. 대통령·야당 주장을 객관적 판정으로 쓰지 않는다.",
+      "caution": "과거 회고를 오늘 가출 사건으로 쓰지 않는다. 친구가 쫓겼다는 사정은 본인 설명이며 범죄로 단정 금지.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-02",
-        "observation": "YTN 본문에서 대통령이 한문이면 권위가 생기느냐며 마이동풍·조족지혈·우이독경과 소·닭·말을 든 새 반박을 확인했다. 이는 본인의 주장이다. SNS 원본 화면과 영상은 직접 확인하지 않았다.",
+        "observation": "본문에서 고1 자퇴 문제 뒤 거제도 친구를 찾아갔지만 친구 사정으로 밖에서 잤다는 회고, 배추밭의 해방감, 3박4일 만의 귀가를 확인했다. 오늘 새 공개 회고이며 원 영상 미시청.",
         "checked_materials": [],
         "outline": [
-          "야당의 표현 품격 비판 뒤 나온 새 SNS 답변",
-          "한자성어 속 소·닭·말로 되물은 논리"
+          "친구 집을 찾아갔는데 밖에서 자게 된 경위와 여행의 해방감으로 회수한다.",
+          "과거 회고를 오늘 가출 사건으로 쓰지 않는다. 친구가 쫓겼다는 사정은 본인 설명이며 범죄로 단정 금지."
         ]
       }
     },
     {
-      "title": "민주당 경선서 지더니 공화당 후보 지지…‘내 캠프에 오지 말라더라’",
-      "category": "시사",
-      "url": "https://abcnews.com/amp/Politics/democratic-rep-haley-stevens-endorses-gop-candidate-mike/story?id=137752255",
-      "source": "ABC News·AP",
+      "title": "매년 샤넬백 사는 김원효…이유는 15년째 지키는 혼인서약",
+      "category": "아이돌",
+      "url": "https://www4.osen.co.kr/article/G1112902806",
+      "source": "OSEN·KBS 방송 취재",
       "kind": "article",
-      "event_key": "haley-stevens-endorses-mike-rogers-after-el-sayed-dispute-20261101",
-      "why": "같은 당 후보 지지에서 상대 당 지지로 뒤집힌 행동과 당사자의 이유가 명확하다.",
-      "angle": "당적 변경이 아니라 상원 후보 지지 전환이라는 차이를 짚는다.",
-      "why_now": "공개 지지 전환 11/1 미국 현지, 원본 SNS 영상 시각 미상. ABC 표시 11/1 18:41 ET는 기사 표시 시각이며 최초 게시로 단정하지 않음.",
-      "verified_at": 1793631135,
+      "event_key": "kim-won-hyo-annual-chanel-bag-marriage-vow-20261102",
+      "why": "명품 소비 자랑에서 끝나지 않고 결혼 때 한 약속을 지킨다는 이유로 회수된다.",
+      "angle": "1억 숫자보다 결혼식 1780번 진행하며 들은 혼인서약을 본인은 지킨다는 답.",
+      "why_now": "해당 사실은 11/2 오전 예고 기사 07:39부터 공개 확인(이보다 이른 최초 분 미확인). 본방 11/2 21:30, OSEN 21:53은 새 최초 공개가 아님.",
+      "verified_at": 1793660866,
       "published_at": null,
       "evidence": [
         {
-          "url": "https://abcnews.com/amp/Politics/democratic-rep-haley-stevens-endorses-gop-candidate-mike/story?id=137752255",
-          "note": "ABC 본문에서 민주당 현역 스티븐스의 공화당 로저스 지지와 ‘환영하지 않는다’는 상대 캠프 설명을 확인했다. 지난주까지 민주당 후보를 지지했다고도 보도했다. 영상은 시청하지 않았다."
-        },
-        {
-          "url": "https://www.aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers",
-          "note": "AP 보도를 통해 11/1 지지 전환 사실과 민주당 내 반응을 교차 확인."
+          "url": "https://www4.osen.co.kr/article/G1112902806",
+          "note": "방송 취재 본문에서 매년 명품백을 선물하는 이유가 혼인서약이었다는 설명과 누적 억대라는 본인의 주장을 확인했다. 구매 내역이나 실제 영상을 직접 확인한 것은 아니다."
         }
       ],
       "materials": [
         {
-          "url": "https://abcnews.com/amp/Politics/democratic-rep-haley-stevens-endorses-gop-candidate-mike/story?id=137752255",
+          "url": "https://www4.osen.co.kr/article/G1112902806",
           "label": "본문 확인·사실 카드",
           "kind": "source"
         }
       ],
-      "caution": "탈당·공화당 입당으로 쓰지 않는다. 배제 경위는 스티븐스의 설명임을 밝힌다.",
+      "caution": "실제 영수증으로 검증한 금액 아님. 모든 배우자에게 같은 소비를 요구하는 일반론으로 쓰지 않는다.",
       "readiness": {
         "mode": "major_news",
-        "event_date": "2026-11-01",
-        "observation": "ABC 본문에서 민주당 현역 스티븐스의 공화당 로저스 지지와 ‘환영하지 않는다’는 상대 캠프 설명을 확인했다. 지난주까지 민주당 후보를 지지했다고도 보도했다. 영상은 시청하지 않았다.",
+        "event_date": "2026-11-02",
+        "observation": "방송 취재 본문에서 매년 명품백을 선물하는 이유가 혼인서약이었다는 설명과 누적 억대라는 본인의 주장을 확인했다. 구매 내역이나 실제 영상을 직접 확인한 것은 아니다.",
         "checked_materials": [],
         "outline": [
-          "경선 패배 후 같은 당 지지에서 상대 당 지지로 전환",
-          "캠프에서 밀려났다는 본인 설명과 당내 반발"
+          "1억 숫자보다 결혼식 1780번 진행하며 들은 혼인서약을 본인은 지킨다는 답.",
+          "실제 영수증으로 검증한 금액 아님. 모든 배우자에게 같은 소비를 요구하는 일반론으로 쓰지 않는다."
         ]
       }
     },
     {
-      "title": "‘장지 5분 거리, 소맥 무료’…최불암 추모로 식당 홍보한 업주",
-      "category": "시사",
-      "url": "https://tv.edaily.co.kr/News/NewsRead?Kind=257&NewsId=03316086645641784",
-      "source": "이데일리·뉴시스",
-      "kind": "article",
-      "event_key": "choi-bul-am-funeral-nearby-restaurant-free-alcohol-promotion-20261101",
-      "why": "추모 글에 무료 술과 맛집 태그를 붙이고 광고가 아니라고 해명한 모순이 있다.",
-      "angle": "게시문 문구와 업주의 해명을 나란히 두고 유족 의사와 분리한다.",
-      "why_now": "식당 SNS 최초 게시 11/1 KST(분 미상). 11/2 첫 확인 기사 10:42, 이데일리 입력 14:05:41·수정 14:16:08은 후속 보도 시각.",
-      "verified_at": 1793631135,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://tv.edaily.co.kr/News/NewsRead?Kind=257&NewsId=03316086645641784",
-          "note": "본문에서 장지 인근 식당이 11/2~8 소주·맥주 각 1병 무료와 맛집 태그를 붙인 게시글, 장사 목적이 아니라는 댓글 해명을 확인했다. 원 게시물·사진을 직접 확인한 것은 아니다."
-        },
-        {
-          "url": "https://files.newsis.com/view/NISX20261102_0003850642",
-          "note": "11/1 식당 게시와 무료 주류 안내·해명 내용 독립 보도 교차 확인."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://tv.edaily.co.kr/News/NewsRead?Kind=257&NewsId=03316086645641784",
-          "label": "본문 확인·사실 카드",
-          "kind": "source"
-        }
-      ],
-      "caution": "실제 행사 실행·유족 동의 미확인. 식당 신상 확산이나 불매 선동 없이 공개된 대응만 다룬다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-01",
-        "observation": "본문에서 장지 인근 식당이 11/2~8 소주·맥주 각 1병 무료와 맛집 태그를 붙인 게시글, 장사 목적이 아니라는 댓글 해명을 확인했다. 원 게시물·사진을 직접 확인한 것은 아니다.",
-        "checked_materials": [],
-        "outline": [
-          "추모문에 붙은 무료 술·장지 5분·맛집 문구",
-          "광고 목적을 부인하며 부정적 이용자는 사양한다는 해명"
-        ]
-      }
-    },
-    {
-      "title": "남의 페널티로 7·9위 됐다가 본인 페널티에 무득점…알핀의 이중 반전",
+      "title": "첫 터치다운 눈앞인데 공을 밖으로…도널드에 감독도 놀림 예고",
       "category": "메이저 스포츠",
-      "url": "https://www.the-race.com/formula-1/double-penalty-costs-alpine-all-its-mexican-gp-points/",
-      "source": "The Race·알핀 공식",
+      "url": "https://www.aol.com/articles/aaron-donald-embarrassing-blunder-rams-014945000.html",
+      "source": "California Post·AOL",
       "kind": "article",
-      "event_key": "alpine-double-yellow-penalties-lose-both-mexico-points-20261102",
-      "why": "타인 페널티로 늘어난 포인트를 자기 위반 두 건으로 전부 잃는 역전이 있다.",
-      "angle": "통상 순위 대신 잠정 8점이 사라지는 페널티의 순서를 설명한다.",
-      "why_now": "경기 11/1 멕시코 현지·11/2 KST. 경기 후 판정 최초 공개 정확한 분 미확인. 알핀 공식 성명 11/2 날짜 정밀도.",
-      "verified_at": 1793631135,
+      "event_key": "aaron-donald-missed-fumble-recovery-mcvay-joke-20261101",
+      "why": "수비 거물의 첫 득점 기회가 공 소유권조차 못 얻는 실수로 끝나고 감독 농담으로 회수된다.",
+      "angle": "영상 감상 대신 기사의 실수 경위와 맥베이의 경기 후 반응을 사실 카드로.",
+      "why_now": "경기·현장 반응 11/1 미국 현지. 관련 최초 확인 기사 11/2 00:36 UTC, 선택 기사 01:49·AOL 수정03:16은 최초 장면 시각 아님.",
+      "verified_at": 1793660866,
       "published_at": null,
       "evidence": [
         {
-          "url": "https://www.the-race.com/formula-1/double-penalty-costs-alpine-all-its-mexican-gp-points/",
-          "note": "기사 본문에서 8·10위 체커 뒤 피아스트리 제재로 잠정 7·9위가 됐다가 두 알핀 드라이버의 황기 위반으로 모두 포인트권을 벗어난 과정을 확인했다. 공식 팀 성명의 사과도 확인. 레이스 미시청."
-        },
-        {
-          "url": "https://media.alpinecars.com/2026-formula-one-mexico-city-grand-prix-sunday/?lang=fra",
-          "note": "11/2 공식 성명 본문에서 두 선수의 황기 위반 페널티와 포인트 상실·사과 확인. 세부 최종 순위는 기사와 차이 있어 제외."
+          "url": "https://www.aol.com/articles/aaron-donald-embarrassing-blunder-rams-014945000.html",
+          "note": "기사 본문에서 도널드가 펌블 공을 잡으려다 놓치고 밖으로 쳐내 상대가 소유권을 유지한 경위와 맥베이의 놀리겠다는 경기 후 발언을 확인했다. 경기 영상은 직접 보지 않았다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.the-race.com/formula-1/double-penalty-costs-alpine-all-its-mexican-gp-points/",
+          "url": "https://www.aol.com/articles/aaron-donald-embarrassing-blunder-rams-014945000.html",
           "label": "본문 확인·사실 카드",
           "kind": "source"
         }
       ],
-      "caution": "보도와 팀 성명의 최종 세부 순위가 달라 숫자 단정 제외. 두 선수의 포인트 상실은 일치한다.",
+      "caution": "기자의 선수 속마음 추정은 직접 발언으로 인용하지 않는다. 실제 넘어짐·표정 분석은 하지 않는다.",
       "readiness": {
         "mode": "major_news",
-        "event_date": "2026-11-02",
-        "observation": "기사 본문에서 8·10위 체커 뒤 피아스트리 제재로 잠정 7·9위가 됐다가 두 알핀 드라이버의 황기 위반으로 모두 포인트권을 벗어난 과정을 확인했다. 공식 팀 성명의 사과도 확인. 레이스 미시청.",
+        "event_date": "2026-11-01",
+        "observation": "기사 본문에서 도널드가 펌블 공을 잡으려다 놓치고 밖으로 쳐내 상대가 소유권을 유지한 경위와 맥베이의 놀리겠다는 경기 후 발언을 확인했다. 경기 영상은 직접 보지 않았다.",
         "checked_materials": [],
         "outline": [
-          "남의 페널티로 늘어난 잠정 8점",
-          "콜라핀토·가슬리 황기 위반 제재로 포인트 전부 소멸"
+          "영상 감상 대신 기사의 실수 경위와 맥베이의 경기 후 반응을 사실 카드로.",
+          "기자의 선수 속마음 추정은 직접 발언으로 인용하지 않는다. 실제 넘어짐·표정 분석은 하지 않는다."
         ]
       }
     },
     {
-      "title": "팀은 인터뷰 쉬라 했는데 FIA는 5000유로…벌금 받은 메르세데스",
-      "category": "메이저 스포츠",
-      "url": "https://askthestewards.com/documents/456757",
-      "source": "FIA 결정문 전사·Reuters",
+      "title": "선거 지면 ‘미스터 거부권’…트럼프가 꺼낸 패배 대비책",
+      "category": "시사",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827222",
+      "source": "SBS·한국일보",
       "kind": "article",
-      "event_key": "russell-mercedes-excused-media-fia-team-fine-20261102",
-      "why": "상심한 드라이버를 배려한 팀의 판단이 팀 벌금으로 돌아온 규정 충돌이다.",
-      "angle": "러셀 개인 벌금이 아니라 참가 팀에 부과된 5000유로임을 짚는다.",
-      "why_now": "경기·불참 11/1 멕시코 현지. 결정문 문서83 작성 19:32 현지(최초 온라인 게시 시각 아님). 최초 게시 분 미상, Reuters 기사 11/2 02:01 UTC.",
-      "verified_at": 1793631135,
+      "event_key": "trump-mr-veto-democratic-congress-podcast-preview-20261101",
+      "why": "선거 결과로 달라질 의회에 대통령이 예고한 거부권 대응이 직접적인 정치적 충돌이다.",
+      "angle": "선거 패배 확정이 아니라 패배 상황을 가정해 내놓은 자칭 별명과 대응.",
+      "why_now": "뉴욕포스트 인터뷰 내용·예고 11/1 미국 현지 최초 공개 보도(분 미상). SBS 11/3 00:49는 후속. 팟캐스트 본편·예고 공개 구분.",
+      "verified_at": 1793660866,
       "published_at": null,
       "evidence": [
         {
-          "url": "https://askthestewards.com/documents/456757",
-          "note": "결정문 전사에서 러셀의 경기 후 미디어 의무 불참, 팀 관계자 전화 진술, 참가자에게 5000유로 벌금 부과를 확인했다. Reuters는 볼프가 상심한 러셀에게 면제를 허용했다고 보도했다. 영상 미시청."
-        },
-        {
-          "url": "https://www.reuters.com/sports/formula1/distraught-russell-excused-media-duties-after-antonelli-takes-f1-title-2026-11-02/",
-          "note": "볼프가 상심한 러셀의 미디어 의무 불참을 허용했고 팀에 5000유로가 부과됐다는 Reuters 기사 본문 확인."
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827222",
+          "note": "SBS 본문과 독립 보도에서 민주당이 의회를 장악할 경우 적극적 거부권을 행사하겠다는 트럼프 발언을 확인했다. 실제 선거 결과나 거부권 행사가 아니라 조건부 계획이다. 영상 미시청."
         }
       ],
       "materials": [
         {
-          "url": "https://askthestewards.com/documents/456757",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827222",
           "label": "본문 확인·사실 카드",
           "kind": "source"
         }
       ],
-      "caution": "팀에 부과된 벌금이며 납부 완료 미확인. 결정문 작성 시각은 최초 공개 시각이 아니다.",
+      "caution": "민주당 승리·모든 법안 자동 폐기 확정으로 쓰지 않는다. 실제 제도 적용 해설은 별도 확인이 필요하다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-01",
+        "observation": "SBS 본문과 독립 보도에서 민주당이 의회를 장악할 경우 적극적 거부권을 행사하겠다는 트럼프 발언을 확인했다. 실제 선거 결과나 거부권 행사가 아니라 조건부 계획이다. 영상 미시청.",
+        "checked_materials": [],
+        "outline": [
+          "선거 패배 확정이 아니라 패배 상황을 가정해 내놓은 자칭 별명과 대응.",
+          "민주당 승리·모든 법안 자동 폐기 확정으로 쓰지 않는다. 실제 제도 적용 해설은 별도 확인이 필요하다."
+        ]
+      }
+    },
+    {
+      "title": "군악대 부른 음주 간담회, 한 곳만 아니었다…국방부 감사 착수",
+      "category": "시사",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827040",
+      "source": "SBS 단독·국방부 브리핑",
+      "kind": "article",
+      "event_key": "air-force-all-wings-drinking-meetings-defense-audit-20261102",
+      "why": "소통 명목으로 음주 만찬과 군악대 동원이 이어졌다는 취재에 감사 지시가 붙는 구체적 후속이다.",
+      "angle": "행사 취지·군악대 동원 규정·일과시간 침해 여부라는 감사 쟁점을 대비한다.",
+      "why_now": "최초 영상 보도11/1 20:12 KST, 새 전 비행단 취재11/2 20:33. 실제 문제 행사4/29, 감사 지시11/2를 구분. 기사 수정20:56은 최초 아님.",
+      "verified_at": 1793660866,
+      "published_at": null,
+      "evidence": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827040",
+          "note": "SBS 본문에서 음주 간담회가 모든 비행단에서 열렸다는 추가 취재와 국방부의 감사 지시, 군악대 동원·일과시간 침해 여부를 살핀다는 방침을 확인했다. 원영상 직접 시청 없음."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827040",
+          "label": "본문 확인·사실 카드",
+          "kind": "source"
+        }
+      ],
+      "caution": "전 비행단의 위법이 확정됐다는 뜻 아님. 공군의 공식행사·일과후 만찬 해명과 감사 중임을 함께 표시.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-02",
-        "observation": "결정문 전사에서 러셀의 경기 후 미디어 의무 불참, 팀 관계자 전화 진술, 참가자에게 5000유로 벌금 부과를 확인했다. Reuters는 볼프가 상심한 러셀에게 면제를 허용했다고 보도했다. 영상 미시청.",
+        "observation": "SBS 본문에서 음주 간담회가 모든 비행단에서 열렸다는 추가 취재와 국방부의 감사 지시, 군악대 동원·일과시간 침해 여부를 살핀다는 방침을 확인했다. 원영상 직접 시청 없음.",
         "checked_materials": [],
         "outline": [
-          "팀이 미디어 의무를 쉬도록 허용한 경위",
-          "참가 팀에 돌아온 5000유로 벌금"
+          "행사 취지·군악대 동원 규정·일과시간 침해 여부라는 감사 쟁점을 대비한다.",
+          "전 비행단의 위법이 확정됐다는 뜻 아님. 공군의 공식행사·일과후 만찬 해명과 감사 중임을 함께 표시."
         ]
       }
     }
