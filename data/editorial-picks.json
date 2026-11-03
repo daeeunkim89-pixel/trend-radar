@@ -1,455 +1,466 @@
 {
   "version": 2,
-  "hour_utc": "2026110302",
+  "hour_utc": "2026110305",
   "reviewer": "ChatGPT",
-  "generated_at": 1793671910,
+  "generated_at": 1793682602,
   "coverage": {
     "queries": [
-      "\"2026.11.03\" \"축구\" \"발언\"",
-      "\"2026.11.03\" \"아이돌\" \"유튜브\"",
-      "\"2026.11.03\" \"카리나\"",
-      "\"2026.11.03\" \"트럼프\" \"농담\"",
-      "\"2026.11.03\" \"호날두\" \"말했다\"",
-      "\"2026.11.03\" \"그리즈만\" \"5시간\"",
-      "\"2026.11.03\" \"맨유\" \"기자회견\"",
-      "\"2026.11.03\" \"카카오\" \"논란\"",
-      "\"November 3, 2026\" football \"said\" \"Carrick\"",
-      "\"November 2, 2026\" \"Hamilton\" \"serious talks\"",
-      "\"2026.11.03\" \"장원영\" \"말했다\"",
-      "\"2026.11.03\" \"JTBC\" \"빵\"",
-      "\"2026.11.03\" \"아이돌\" \"고백\"",
-      "\"2026.11.03\" \"박세리\" \"월급\"",
-      "\"2026.11.03\" \"김원효\" \"전재산\"",
-      "\"2026.11.03\" \"손흥민\" \"계약\"",
-      "\"2026.11.03\" \"아이브\" \"유튜브\"",
-      "\"2026.11.03\" \"엔믹스\" \"예능\"",
-      "\"2026.11.03\" \"김원효\" \"통장\"",
-      "\"2026.11.03\" \"주차\" \"의원\"",
-      "\"2026.11.03\" \"이찬혁\" \"성\" \"입사\"",
-      "\"2026.11.03\" \"의원 차\" \"딱지\"",
-      "\"2026.11.03\" \"아이찡\" \"빚투\"",
-      "\"2026.11.03\" \"김종국\" \"집밥\"",
-      "\"이찬혁\" \"성 겹치면\"",
-      "\"의원 차까지\" \"딱지\"",
-      "\"2026.11.03\" \"해원\" \"말했다\"",
-      "\"2026.11.03\" \"인물\" \"황당\"",
-      "\"2026.11.03\" \"존박\" \"랩\"",
-      "\"2026.11.03\" \"로이킴\" \"추락\"",
-      "\"2026.11.03\" \"사나\" \"유튜브\"",
-      "\"2026.11.03\" \"김유정\" \"회장\"",
-      "\"존박\" \"사태 긴급 회의\" \"2026\"",
-      "\"Carrick\" \"crazy\" \"November 2, 2026\"",
-      "\"Griezmann\" \"Téléfoot\" \"1 novembre 2026\"",
-      "\"2026.11.03\" \"사쿠라\" \"예능\"",
-      "\"2026.11.03\" \"우크라이나\" \"경보\" \"해킹\"",
-      "\"2026.11.03\" \"존박\" \"현타\" \"930\"",
-      "\"2026.11.03\" \"하츠투하츠\" \"유튜브\"",
-      "\"2026.11.03\" \"닝닝\" \"발언\"",
-      "\"November 3, 2026\" football \"bizarre\"",
-      "\"2026.11.03\" \"주식\" \"다음날\" \"2028\"",
-      "\"2026.11.03\" \"윤영미\" \"26억\"",
-      "\"존박 맥도날드 사태 긴급 회의\" youtube",
-      "\"거미\" \"누군 술 먹고\" \"2026.11.02\"",
-      "\"존박 맥도날드 사태 긴급 회의\" site:youtube.com/watch",
-      "\"2026.11.03\" \"이란\" \"해킹\" \"경보\" AP",
-      "site:manutd.com \"Carrick\" \"crazy\" \"2026\"",
-      "site:krx.co.kr \"2028\" \"결제주기\" \"2026\"",
-      "\"존박 맥도날드 사태 긴급 회의(2026.10.29.)\" \"11월\"",
-      "site:apnews.com \"Ukraine\" \"alerts\" \"November 2, 2026\"",
-      "site:kyivindependent.com \"2026\" \"Air Alert\" hacked"
+      "축구 \"2026.11.03\" \"감독\" \"논란\"",
+      "\"2026.11.03\" \"아이브\" OR \"카리나\" OR \"엔믹스\" 예능",
+      "\"2026.11.03\" \"손흥민\" 인터뷰",
+      "\"2026.11.03\" \"김종국\" OR \"유재석\" 해명",
+      "Kane Ballon Champions November 2 2026 swap",
+      "\"아이브\" \"2026.11.03\" 예능 웃음",
+      "\"2026.11.03\" 축구 \"황희찬\" 해명",
+      "\"2026.11.03\" \"장원영\" OR \"안유진\" OR \"카리나\" OR \"해원\"",
+      "\"2026.11.03\" \"토트넘\" \"프랭크\"",
+      "\"2026.11.03\" \"민호\" \"실격\"",
+      "\"2026.11.03\" \"호날두\" OR \"음바페\" 발언",
+      "football November 2 2026 joked Tottenham",
+      "football November 2 2026 Mourinho joke",
+      "\"2026.11.03\" \"미미\" OR \"혜리\" OR \"나연\" 유튜브",
+      "\"2026.11.03\" \"이수지\" OR \"풍자\" OR \"주우재\"",
+      "\"2026.11.03\" \"에스파\" 웃음",
+      "\"2026.11.02\" \"엔믹스\" \"해원\" 예능",
+      "\"2026.11.03\" \"맨유\" \"무리뉴\"",
+      "\"2026.11.03\" \"노쇼\" OR \"반전\" OR \"황당\"",
+      "\"2026.11.03\" \"황당\" \"정치\"",
+      "\"2026.11.03\" \"문세윤\" \"개세모\"",
+      "\"2026.11.03\" \"마이클 만\" 사격장",
+      "\"2026.11.03\" \"축구\" \"술\"",
+      "\"마두에케\" \"맥 알리스터\" \"2026.11.03\"",
+      "\"무리뉴\" \"규칙\" \"2026.11.02\"",
+      "\"UFC\" \"불이 꺼졌다\" 2026",
+      "\"음바페\" \"추아메니는\" \"2026.11.02\"",
+      "\"마두에케\" \"알리스터\" \"일부러\" 2026 11",
+      "\"음바페\" \"슛 맞은\" \"2026\"",
+      "\"역대급 비매너\" \"숨고\" \"2026.11.03\"",
+      "\"젝스키스\" \"객실 가격\"",
+      "\"2026.11.03\" \"어른도 못 읽겠네\"",
+      "\"2026.11.03\" \"쓰레기 실명제\"",
+      "\"2026.11.03\" \"김정은 갈아\"",
+      "\"2026.11.03\" \"이효리\" 정신과",
+      "\"리센느\" \"원이\" \"세탁\" \"2026\"",
+      "\"2026.11.03\" \"손흥민\" \"96\" \"면담\"",
+      "\"2026.11.03\" \"김연아\" \"뒤집힌\"",
+      "\"2026.11.03\" \"마이클 만\" \"다리\"",
+      "\"개세모\" \"김준현\" \"11월 2일\" 2026",
+      "\"마두에케\" \"맥 알리스터\" \"2026\" \"11월 2일\"",
+      "\"올림픽 상장\" \"2026\" \"11월 2일\" 유영",
+      "\"쓰레기 실명제\" \"말바우\" \"11월\"",
+      "\"니키 버트\" \"마르티네스\" \"2026.11.03\"",
+      "\"조니 워커\" \"동생\" \"2026.11.03\"",
+      "\"2026.11.03\" \"르세라핌\" 유튜브",
+      "\"2026.11.03\" \"아이브\" \"자컨\"",
+      "Johnny Walker brother Valter fight November 2026 MMA Fighting",
+      "Nicky Butt Lisandro Martinez Football Uncensored November 2026",
+      "site.koreaskating.or.kr 2026 상장",
+      "site.fcbayern.com 2026 11 Kane Ballon Champions",
+      "site.mmafighting.com Would Johnny Walker fight brother 2026",
+      "site.youtube.com Football Uncensored Martinez Butt November 2",
+      "종량제 문전배출 실명제 28일 2026",
+      "$$AN他 2026",
+      "동생하곤 안 싸워 조니 워커 헤럴드경제"
     ],
     "opened_urls": [
-      "https://www.xportsnews.com/article/2214448",
-      "https://www.mt.co.kr/index.php/society/2026/11/03/2026110305591610265",
-      "https://www.mt.co.kr/index.php/entertainment/2026/11/03/2026110222302684703",
-      "https://www.insight.co.kr/news/580343",
-      "https://www.newscj.com/news/articleView.html?idxno=3445369",
-      "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261103_0003851833",
-      "https://www.sportschosun.com/entertainment/2026-11-02/202611020100014520001290",
-      "https://biz.chosun.com/entertainment/enter_general/2026/11/02/GZRDAZRXGQZTCYLBMZTDEM3GMI/?outputType=amp",
-      "https://www.mt.co.kr/stock/2026/11/03/2026110222393327797",
-      "https://www.newsis.com/view/NISX20261103_0003851816",
-      "https://www.aol.com/articles/michael-carrick-issues-sack-statement-134700000.html",
-      "https://www.tf1.fr/tf1/telefoot/videos/grand-format-griezmann-sa-nouvelle-vie-a-orlando-75783938.html",
-      "https://kyivindependent.com/zelensky-confirms-ukraine-targeted-russian-emergency-alert-systems-in-retaliatory-hack/",
-      "https://www.soccernews.com/carrick-has-no-questions-over-commitment-of-man-utd-players/407442/"
+      "https://news.nate.com/view/20261102n25938",
+      "https://news.nate.com/view/20261102n18186",
+      "https://news.nate.com/view/20261103n03298",
+      "https://news.nate.com/view/20261103n03352",
+      "https://news.nate.com/view/20261103n03058",
+      "https://news.nate.com/view/20261103n07561",
+      "https://news.nate.com/view/20261103n11322",
+      "https://news.nate.com/view/20261103n00581",
+      "https://www.mt.co.kr/index.php/society/2026/11/03/2026110310460015030",
+      "https://mobile.newsis.com/view.html?ar_id=NISX20261103_0003852323",
+      "https://www.mt.co.kr/society/2026/11/03/2026110309345862827",
+      "https://www.xportsnews.com/article/2214489",
+      "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017095",
+      "https://www.gpkorea.com/news/articleView.html?idxno=148229",
+      "https://www.newsen.com/news_view.php?uid=202611021314405710",
+      "https://www.soccernews.com/kane-id-swap-next-ballon-dor-for-a-champions-league-triumph/407459/",
+      "https://www.aol.co.uk/articles/nicky-butt-demands-lisandro-martinez-213143000.html",
+      "https://www.starnewskorea.com/music/2026/11/02/2026110219045050684",
+      "https://www.osen.co.kr/all?date=20261103",
+      "https://www.newsen.com/news_view.php?code=100100&uid=202611021231466310",
+      "https://mbiz.heraldcorp.com/article/10923476?sec=013"
     ],
     "unavailable": [
-      "최신main 수집1회 exit0, 공개 review-inbox generated_at1793671510 갱신. 일부403/503은 수집 소재0개와 구분.",
-      "최근7일 실제sent/uncertain420개 사건·URL·자료를 대조. 수집·보류만 된 항목은 발송으로 제외하지 않음.",
-      "최종10개 모두 본문 기반major_news. 영상·사진을 실제 시청한scene으로 승인하지 않음.",
-      "소미10/29영상·제나10/28영상·로이킴10/29추락·악뮤10/31방송·10/19구의회 발언은48시간 초과 원공개로 제외. 새 기사 날짜로 바꾸지 않음.",
-      "공식TF1 클립은 공개일 메타데이터만 확인하고403 뒤 재시도하지 않음. YouTube RSS404 반복 없음. BTP 신규 게시 대조는 공개 적합성 분석과 최근 사용자 게시 맥락 범위."
+      "공식 YouTube RSS 404 경로 재요청 안 함",
+      "MMA Fighting 원문 HTTP403·Yahoo429, 독립 헤럴드 본문으로 전환",
+      "Football Uncensored 유튜브 로딩 제한, 원문 인용 기사 확인",
+      "리센느 무대와 직후 해명10/31로48시간초과 제외",
+      "UFC 정전10/31 경기48시간초과 제외"
     ]
   },
   "picks": [
     {
-      "title": "5시간 기다린 프랑스 취재진에 그리즈만 “아무와도 얘기하고 싶지 않다”",
+      "title": "발롱도르 받은 케인, 다음 상과 바꾸고 싶은 건 챔스 우승",
       "category": "축구",
-      "url": "https://www.xportsnews.com/article/2214448",
-      "source": "엑스포츠·TF1 공개 정보",
+      "url": "https://www.soccernews.com/kane-id-swap-next-ballon-dor-for-a-champions-league-triumph/407459/",
+      "source": "Stats Perform 직접 회견 보도",
       "kind": "article",
-      "event_key": "griezmann-telefoot-orlando-five-hour-wait-interview-refusal-20261101",
-      "why": "미국 생활은 행복하다면서 프랑스 인터뷰는 정중히 거절한 전 국가대표의 거리두기다.",
-      "angle": "5시간 대기와 짧은 감사·거절 발언을 나란히 두고 동기는 단정하지 않는다.",
-      "why_now": "원본 Téléfoot 11/1 프랑스 오전 방송(11시 시작, 해당 구간 분 미상). 공식 클립11:54 CET 게시 확인. 한국 기사11/3은 최초 공개 아님.",
-      "verified_at": 1793671910,
+      "event_key": "kane-next-ballon-dor-for-champions-league-press-conference-20261102",
+      "why": "개인 최고상을 받은 직후에도 남은 챔스 트로피를 고른 답변이 케인의 긴 무관 서사와 맞물린다.",
+      "angle": "이번 수상 취소가 아니라 다음 발롱도르보다 팀 우승을 원한다는 새 답변.",
+      "why_now": "회견11/2 마드리드, Stats Perform11/2 최초 게시(분 미표시). BBC 동시취재 보도11/2 22:13 UTC 확인. 수상식은 지난주 배경.",
+      "verified_at": 1793682602,
       "published_at": null,
       "evidence": [
         {
-          "url": "https://www.xportsnews.com/article/2214448",
-          "note": "기사 본문에서 행복하다는 근황·감사 뒤 누구와도 더 말하고 싶지 않다는 그리즈만의 답과 5시간 기다렸다는 취재진 상황을 확인했다. TF1 클립 공개 정보만 대조했고 영상은 시청하지 않았다."
+          "url": "https://www.soccernews.com/kane-id-swap-next-ballon-dor-for-a-champions-league-triumph/407459/",
+          "note": "본문에서 다음 발롱도르와 챔스 우승을 교환하겠다는 답변, 팀 우승이 뛰는 이유라는 설명, 둘 다 얻을 가능성도 있다는 말을 확인했다. 영상은 미시청."
         }
       ],
       "materials": [
         {
-          "url": "https://www.xportsnews.com/article/2214448",
+          "url": "https://www.soccernews.com/kane-id-swap-next-ballon-dor-for-a-champions-league-triumph/407459/",
           "label": "본문 확인·사실 카드",
           "kind": "source"
         }
       ],
-      "caution": "언론을 싫어한다는 속마음은 추정이다. 리자라쥐 해석과 본인 발언을 구분. 실제 표정·동작 분석 없음.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-01",
-        "observation": "기사 본문에서 행복하다는 근황·감사 뒤 누구와도 더 말하고 싶지 않다는 그리즈만의 답과 5시간 기다렸다는 취재진 상황을 확인했다. TF1 클립 공개 정보만 대조했고 영상은 시청하지 않았다.",
-        "checked_materials": [],
-        "outline": [
-          "5시간 대기와 짧은 감사·거절 발언을 나란히 두고 동기는 단정하지 않는다.",
-          "언론을 싫어한다는 속마음은 추정이다. 리자라쥐 해석과 본인 발언을 구분. 실제 표정·동작 분석 없음."
-        ]
-      }
-    },
-    {
-      "title": "9경기 무승 캐릭 “미쳤다고 하겠지만, 다음 경기가 정말 기다려진다”",
-      "category": "축구",
-      "url": "https://www.soccernews.com/carrick-has-no-questions-over-commitment-of-man-utd-players/407442/",
-      "source": "Stats Perform·맨유 회견",
-      "kind": "article",
-      "event_key": "carrick-pre-roma-press-conference-crazy-looking-forward-20261102",
-      "why": "경질 압박을 받는 감독이 다음 경기를 기다린다는 직접 반응이 성적과 부딪친다.",
-      "angle": "10/31 경기 후 답변이 아니라 11/2 로마전 사전 회견의 새 반응에 집중한다.",
-      "why_now": "새 회견·맨유 공개11/2 영국 현지(원 게시 분 미확인). Stats Perform11/2 기사. 10/31 첼시전 직후 회견과 다른 자료.",
-      "verified_at": 1793671910,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://www.soccernews.com/carrick-has-no-questions-over-commitment-of-man-utd-players/407442/",
-          "note": "Stats Perform 본문에서 캐릭이 성적 때문에 미쳤다고 생각할 수 있겠지만 로마전이 정말 기다려진다고 답한 내용과 선수 헌신을 의심하지 않는다는 답을 확인했다. 맨유 회견 영상은 미시청."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.soccernews.com/carrick-has-no-questions-over-commitment-of-man-utd-players/407442/",
-          "label": "본문 확인·사실 카드",
-          "kind": "source"
-        }
-      ],
-      "caution": "경질 확정·라커룸 실제 분위기 확인으로 쓰지 않는다. 헌신과 분위기는 감독의 설명이다.",
+      "caution": "이미 받은 트로피를 실제 반납한다는 뜻이 아니다. 발언 취지를 요약한 표지다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-02",
-        "observation": "Stats Perform 본문에서 캐릭이 성적 때문에 미쳤다고 생각할 수 있겠지만 로마전이 정말 기다려진다고 답한 내용과 선수 헌신을 의심하지 않는다는 답을 확인했다. 맨유 회견 영상은 미시청.",
+        "observation": "본문에서 다음 발롱도르와 챔스 우승을 교환하겠다는 답변, 팀 우승이 뛰는 이유라는 설명, 둘 다 얻을 가능성도 있다는 말을 확인했다. 영상은 미시청.",
         "checked_materials": [],
         "outline": [
-          "10/31 경기 후 답변이 아니라 11/2 로마전 사전 회견의 새 반응에 집중한다.",
-          "경질 확정·라커룸 실제 분위기 확인으로 쓰지 않는다. 헌신과 분위기는 감독의 설명이다."
+          "이번 수상 취소가 아니라 다음 발롱도르보다 팀 우승을 원한다는 새 답변.",
+          "이미 받은 트로피를 실제 반납한다는 뜻이 아니다. 발언 취지를 요약한 표지다."
         ]
       }
     },
     {
-      "title": "랩 주문은 800만, 신곡 홍보는 20만도 안 돼…존박의 긴급회의",
-      "category": "아이돌",
-      "url": "https://www.sportschosun.com/entertainment/2026-11-02/202611020100014520001290",
-      "source": "스포츠조선·본인 채널 취재",
+      "title": "마두에케 “나 퇴장시키려 도발”…캐러거도 리버풀 후배에 쓴소리",
+      "category": "축구",
+      "url": "https://news.nate.com/view/20261103n03298",
+      "source": "베스트일레븐·영국 보도 인용",
       "kind": "article",
-      "event_key": "john-park-emergency-meeting-rap-viral-versus-single-promo-20261102",
-      "why": "발라더 본업 홍보보다 햄버거 주문 랩이 터져 랩을 더 할지 고민하는 반전이 있다.",
-      "angle": "오래된 주문 영상을 재탕하지 않고 새 긴급회의의 본인 당혹감과 조회수 비교로 회수한다.",
-      "why_now": "새 회의 영상 최초 공개11/2 KST(분 미확인). 제목 속2026.10.29는 공개일과 구분, 게시일11/2를 기사·영상목록 대조. 주문 원영상10/23은 배경.",
-      "verified_at": 1793671910,
+      "event_key": "madueke-mac-allister-red-card-provocation-carragher-response-20261102",
+      "why": "리버풀 출신 캐러거가 자기 팀 선수 대신 상대의 퇴장 회피를 반긴 구체적 반응이다.",
+      "angle": "퇴장 유도라는 마두에케 주장과 캐러거의 비판을 각자 발언으로 묶는다.",
+      "why_now": "경기11/2 새벽KST, 경기 뒤 발언. 첫 확인 국내 기사11/3 07:10KST. 인터뷰 최초 공개 분은 미확인(경기 뒤~기사 사이).",
+      "verified_at": 1793682602,
       "published_at": null,
       "evidence": [
         {
-          "url": "https://www.sportschosun.com/entertainment/2026-11-02/202611020100014520001290",
-          "note": "본문에서 본업 프로모션20만 미만과 주문 랩800만을 비교한 존박의 당혹감, 랩 음원 유혹에 선을 긋다가 조회수 때문에 다시 고민한 대화를 확인했다. 원영상 실제 시청 없음."
+          "url": "https://news.nate.com/view/20261103n03298",
+          "note": "본문에서 머리를 맞댄 신경전 뒤 맥 알리스터가 쓰러졌고 추가 경고는 없었다는 보도, 마두에케의 도발 주장, 캐러거가 퇴장 안 나와 기뻤다고 한 말을 확인. 실제 영상 미시청."
         }
       ],
       "materials": [
         {
-          "url": "https://www.sportschosun.com/entertainment/2026-11-02/202611020100014520001290",
+          "url": "https://news.nate.com/view/20261103n03298",
           "label": "본문 확인·사실 카드",
           "kind": "source"
         }
       ],
-      "caution": "조회수는 당시 본인 확인·기사 기준이며 현재 수치 아님. 새 회의와10/23 주문 영상의 날짜를 섞지 않는다.",
+      "caution": "고의 도발은 당사자의 해석이다. VAR의 실제 판단 이유는 확인하지 못했다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-02",
-        "observation": "본문에서 본업 프로모션20만 미만과 주문 랩800만을 비교한 존박의 당혹감, 랩 음원 유혹에 선을 긋다가 조회수 때문에 다시 고민한 대화를 확인했다. 원영상 실제 시청 없음.",
+        "observation": "본문에서 머리를 맞댄 신경전 뒤 맥 알리스터가 쓰러졌고 추가 경고는 없었다는 보도, 마두에케의 도발 주장, 캐러거가 퇴장 안 나와 기뻤다고 한 말을 확인. 실제 영상 미시청.",
         "checked_materials": [],
         "outline": [
-          "오래된 주문 영상을 재탕하지 않고 새 긴급회의의 본인 당혹감과 조회수 비교로 회수한다.",
-          "조회수는 당시 본인 확인·기사 기준이며 현재 수치 아님. 새 회의와10/23 주문 영상의 날짜를 섞지 않는다."
+          "퇴장 유도라는 마두에케 주장과 캐러거의 비판을 각자 발언으로 묶는다.",
+          "고의 도발은 당사자의 해석이다. VAR의 실제 판단 이유는 확인하지 못했다."
         ]
       }
     },
     {
-      "title": "최수종 “보일러 낮췄다 혼났다”…김종국 “벌써 트세요?”",
-      "category": "아이돌",
-      "url": "https://www.newscj.com/news/articleView.html?idxno=3445369",
-      "source": "KBS 제공 자료·천지일보",
+      "title": "“영입 안 한다고? 네가 먼저 교체될걸”…버트의 마르티네스 저격",
+      "category": "축구",
+      "url": "https://www.aol.co.uk/articles/nicky-butt-demands-lisandro-martinez-213143000.html",
+      "source": "Mirror 원취재·Football Uncensored 인용",
       "kind": "article",
-      "event_key": "choi-soo-jong-boiler-temperature-kim-jong-kook-already-heating-preview-20261103",
-      "why": "사랑꾼으로 알려진 최수종의 절약 일화에 김종국이 더한 한마디가 기존 캐릭터와 맞물린다.",
-      "angle": "보일러를 낮춘 일화와 벌써 켜느냐는 반문으로 절약왕 대화를 회수한다.",
-      "why_now": "KBS 제작진 사전 공개 취재11/3 오전(최초 제공 분 미공개), 기사08:43 KST. 본방은11/3 20:30 예정이라 시청 완료로 쓰지 않음.",
-      "verified_at": 1793671910,
+      "event_key": "nicky-butt-martinez-first-replaced-transfer-criticism-20261102",
+      "why": "전력 보강을 요구한 수비수에게 새 선수가 오면 본인이 먼저 밀려난다고 되받은 말이 강하다.",
+      "angle": "첼시전 퇴장 재탕 대신 선수 영입 불만에 대한 버트의 새 반박을 첫 장에 둔다.",
+      "why_now": "Football Uncensored 새 출연분11/2 공개 확인 범위(정확 업로드 분 미확인). Mirror원문 재배포11/2 21:31UTC, 선행 보도20:53UTC. 경기10/31은 배경.",
+      "verified_at": 1793682602,
       "published_at": null,
       "evidence": [
         {
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3445369",
-          "note": "제작진 제공 기사 본문에서 최수종이 보일러 온도를 낮췄다가 혼났다는 일화와 김종국의 벌써 켜느냐는 반문을 확인했다. 공개된 사전 발언 자료이며 본방·영상 시청 없음."
+          "url": "https://www.aol.co.uk/articles/nicky-butt-demands-lisandro-martinez-213143000.html",
+          "note": "Mirror 본문에서 버트가 선수 영입을 요구하기 전에 본인 경기력을 돌아봐야 하며 영입하면 가장 먼저 대체될 선수라고 비판한 발언을 확인. 원 영상 링크는 열람 제한, 시청하지 않음."
         }
       ],
       "materials": [
         {
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3445369",
+          "url": "https://www.aol.co.uk/articles/nicky-butt-demands-lisandro-martinez-213143000.html",
           "label": "본문 확인·사실 카드",
           "kind": "source"
         }
       ],
-      "caution": "실제 부부 갈등으로 확대하지 않는다. 제목은 발언 취지를 줄인 편집문구. 오늘 방송을 이미 봤다고 쓰지 않는다.",
+      "caution": "퇴출은 버트의 의견이며 구단 결정이 아니다. 선수의 속마음·라커룸 반응도 버트 해석으로 귀속.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-02",
+        "observation": "Mirror 본문에서 버트가 선수 영입을 요구하기 전에 본인 경기력을 돌아봐야 하며 영입하면 가장 먼저 대체될 선수라고 비판한 발언을 확인. 원 영상 링크는 열람 제한, 시청하지 않음.",
+        "checked_materials": [],
+        "outline": [
+          "첼시전 퇴장 재탕 대신 선수 영입 불만에 대한 버트의 새 반박을 첫 장에 둔다.",
+          "퇴출은 버트의 의견이며 구단 결정이 아니다. 선수의 속마음·라커룸 반응도 버트 해석으로 귀속."
+        ]
+      }
+    },
+    {
+      "title": "같은 UFC 헤비급 형제지만…워커 “동생과 싸우라고? 미쳤냐”",
+      "category": "메이저 스포츠",
+      "url": "https://mbiz.heraldcorp.com/article/10923476?sec=013",
+      "source": "헤럴드경제·MMA Fighting 직접 인터뷰 인용",
+      "kind": "article",
+      "event_key": "johnny-walker-refuses-valter-brother-fight-20261102",
+      "why": "두 형제가 같은 체급에 있어 생긴 매치업 질문을 형이 혈연과 격투기의 폭력성으로 잘라낸 답변이다.",
+      "angle": "팬이 상상한 형제 대결과 본인의 단호한 거절을 대비.",
+      "why_now": "MMA Fighting 최초공개11/2 09:00EST=23:00KST. 실제 인터뷰 녹화일은 미확인.",
+      "verified_at": 1793682602,
+      "published_at": null,
+      "evidence": [
+        {
+          "url": "https://mbiz.heraldcorp.com/article/10923476?sec=013",
+          "note": "헤럴드 본문에서 동생과는 싸우지 않겠다는 답변과 격투기의 폭력성 때문에 가족을 상대할 수 없다는 설명을 확인. MMA원문은403, 영상 미시청. 원 매체 최초 게시 시각은 검색 메타데이터와 재배포를 대조."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://mbiz.heraldcorp.com/article/10923476?sec=013",
+          "label": "본문 확인·사실 카드",
+          "kind": "source"
+        }
+      ],
+      "caution": "형제 불화가 새로 확정됐거나 실제 맞대결이 편성된 게 아니다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-02",
+        "observation": "헤럴드 본문에서 동생과는 싸우지 않겠다는 답변과 격투기의 폭력성 때문에 가족을 상대할 수 없다는 설명을 확인. MMA원문은403, 영상 미시청. 원 매체 최초 게시 시각은 검색 메타데이터와 재배포를 대조.",
+        "checked_materials": [],
+        "outline": [
+          "팬이 상상한 형제 대결과 본인의 단호한 거절을 대비.",
+          "형제 불화가 새로 확정됐거나 실제 맞대결이 편성된 게 아니다."
+        ]
+      }
+    },
+    {
+      "title": "젝키 디너쇼 90만원?…주최 측 “그건 호텔 객실 가격”",
+      "category": "아이돌",
+      "url": "https://www.starnewskorea.com/music/2026/11/02/2026110219045050684",
+      "source": "스타뉴스·주최사 공식 입장",
+      "kind": "article",
+      "event_key": "sechskies-dinner-show-room-price-not-ticket-clarification-20261102",
+      "why": "90만원 표가 공연 티켓이 아니라 객실 가격 예시였다는 주최사 설명이 팬의 돈 문제를 바로잡는다.",
+      "angle": "고가 티켓 논란과 객실·티켓 구분을 나란히 보여준다.",
+      "why_now": "주최사 공식 해명11/2KST(배포 분 미확인), 기사11/2 19:27KST. 공연12/15~16은 미래 일정.",
+      "verified_at": 1793682602,
+      "published_at": null,
+      "evidence": [
+        {
+          "url": "https://www.starnewskorea.com/music/2026/11/02/2026110219045050684",
+          "note": "본문에서 45만4000·56만8400·89만8400원은 호텔 객실 가격 예시였다는 주최사 설명과 음악·토크·디너·숙박 결합 행사임을 확인했다. 실제 안내 이미지 상세·최종 티켓 판매가는 독립 확인 못함."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.starnewskorea.com/music/2026/11/02/2026110219045050684",
+          "label": "본문 확인·사실 카드",
+          "kind": "source"
+        }
+      ],
+      "caution": "해명으로 실제 티켓 가격이 싸다고 결론 내리지 않는다. 세 멤버 행사와 완전체 복귀를 구분.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-02",
+        "observation": "본문에서 45만4000·56만8400·89만8400원은 호텔 객실 가격 예시였다는 주최사 설명과 음악·토크·디너·숙박 결합 행사임을 확인했다. 실제 안내 이미지 상세·최종 티켓 판매가는 독립 확인 못함.",
+        "checked_materials": [],
+        "outline": [
+          "고가 티켓 논란과 객실·티켓 구분을 나란히 보여준다.",
+          "해명으로 실제 티켓 가격이 싸다고 결론 내리지 않는다. 세 멤버 행사와 완전체 복귀를 구분."
+        ]
+      }
+    },
+    {
+      "title": "“시험 말고 스카우트돼야지”…유재석 나오자 문세윤 태세 전환",
+      "category": "아이돌",
+      "url": "https://www.gpkorea.com/news/articleView.html?idxno=148229",
+      "source": "지피코리아·비보티비 개세모2",
+      "kind": "article",
+      "event_key": "moon-se-yoon-special-recruit-yoo-jae-suk-u-turn-gaesemo-20261102",
+      "why": "특채 자부심을 내세우다 공채 유재석 앞에서 대우받고 들어오셨어야 했다고 수습하는 농담이 완결된다.",
+      "angle": "특채 주장→유재석 언급→시험 왜 보셨냐는 수습의 세 문장.",
+      "why_now": "비보티비 개세모2 11/2 18:00KST 공개(당일 제작사 예고 대조), 기사11/3 09:32. 녹화일 미확인.",
+      "verified_at": 1793682602,
+      "published_at": null,
+      "evidence": [
+        {
+          "url": "https://www.gpkorea.com/news/articleView.html?idxno=148229",
+          "note": "본문에서 문세윤의 시험 말고 스카우트 발언, 공채 유재석 언급 뒤 대우받고 들어오셨어야 한다는 답변을 확인. 제작사 당일 공개 예고도 대조. 원 영상은 미시청."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.gpkorea.com/news/articleView.html?idxno=148229",
+          "label": "본문 확인·사실 카드",
+          "kind": "source"
+        }
+      ],
+      "caution": "실제 채용제도 비판이나 진지한 선후배 갈등으로 확대하지 않는다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-02",
+        "observation": "본문에서 문세윤의 시험 말고 스카우트 발언, 공채 유재석 언급 뒤 대우받고 들어오셨어야 한다는 답변을 확인. 제작사 당일 공개 예고도 대조. 원 영상은 미시청.",
+        "checked_materials": [],
+        "outline": [
+          "특채 주장→유재석 언급→시험 왜 보셨냐는 수습의 세 문장.",
+          "실제 채용제도 비판이나 진지한 선후배 갈등으로 확대하지 않는다."
+        ]
+      }
+    },
+    {
+      "title": "술 고민 커플에 이효리 “나도 정신과, 건강검진하듯 간다”",
+      "category": "아이돌",
+      "url": "https://www.xportsnews.com/article/2214489",
+      "source": "엑스포츠뉴스·JTBC 방송 발언",
+      "kind": "article",
+      "event_key": "lee-hyori-routine-psychiatry-health-check-dating-war-20261102",
+      "why": "문제없다며 버티는 커플에게 본인도 검진처럼 간다며 문턱을 낮추는 직접 답변이 있다.",
+      "angle": "커플의 질환 진단 대신 이효리의 본인 경험과 확인 권유를 전달.",
+      "why_now": "JTBC 연애전쟁11/2 방송, 첫 확인 기사11/3 05:25OSEN·07:35엑스포츠. 정확 발언 방송 분 미확인.",
+      "verified_at": 1793682602,
+      "published_at": null,
+      "evidence": [
+        {
+          "url": "https://www.xportsnews.com/article/2214489",
+          "note": "본문에서 이효리가 큰 일상 지장 없이도 정신과를 건강검진처럼 간다고 설명하고 둘이 병원에 가 보라고 권한 말을 확인. 실제 영상 미시청."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.xportsnews.com/article/2214489",
+          "label": "본문 확인·사실 카드",
+          "kind": "source"
+        }
+      ],
+      "caution": "안타까운 투병·정신질환 확진이라고 쓰지 않는다. 개인 경험 발언이며 의학적 효과를 보증하지 않는다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-02",
+        "observation": "본문에서 이효리가 큰 일상 지장 없이도 정신과를 건강검진처럼 간다고 설명하고 둘이 병원에 가 보라고 권한 말을 확인. 실제 영상 미시청.",
+        "checked_materials": [],
+        "outline": [
+          "커플의 질환 진단 대신 이효리의 본인 경험과 확인 권유를 전달.",
+          "안타까운 투병·정신질환 확진이라고 쓰지 않는다. 개인 경험 발언이며 의학적 효과를 보증하지 않는다."
+        ]
+      }
+    },
+    {
+      "title": "산타 모집을 아이들 몰래…아파트 안내문이 암호가 됐다",
+      "category": "시사",
+      "url": "https://www.mt.co.kr/index.php/society/2026/11/03/2026110310460015030",
+      "source": "머니투데이·입주민 게시물 취재",
+      "kind": "article",
+      "event_key": "goyang-apartment-santa-coded-recruitment-notice-post-20261103",
+      "why": "산타의 정체를 숨기려고 부모까지 해독해야 하는 공지문의 실제 문구가 웃음을 회수한다.",
+      "angle": "산타 모집을 달러기호·한자·영어로 바꾼 문구를 사실 카드로 재구성.",
+      "why_now": "개인 인스타 게시11/3KST(분 미확인), 기사11/3 11:22KST. 공고 부착일은 미확인, 새 온라인 공개와 구분.",
+      "verified_at": 1793682602,
+      "published_at": null,
+      "evidence": [
+        {
+          "url": "https://www.mt.co.kr/index.php/society/2026/11/03/2026110310460015030",
+          "note": "본문에서 산타를 $$AN他, 선물을 선WATER로 적고 글 읽는 아이들이 눈치채지 못하게 썼다는 안내 문구를 확인했다. 원 공고 사진 자체는 별도 시각 검증 안 함."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.mt.co.kr/index.php/society/2026/11/03/2026110310460015030",
+          "label": "본문 확인·사실 카드",
+          "kind": "source"
+        }
+      ],
+      "caution": "직접 본 공고 사진이라고 쓰지 않는다. 특정 게시물이 이 발상의 최초 사례라고 단정하지 않는다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-03",
-        "observation": "제작진 제공 기사 본문에서 최수종이 보일러 온도를 낮췄다가 혼났다는 일화와 김종국의 벌써 켜느냐는 반문을 확인했다. 공개된 사전 발언 자료이며 본방·영상 시청 없음.",
+        "observation": "본문에서 산타를 $$AN他, 선물을 선WATER로 적고 글 읽는 아이들이 눈치채지 못하게 썼다는 안내 문구를 확인했다. 원 공고 사진 자체는 별도 시각 검증 안 함.",
         "checked_materials": [],
         "outline": [
-          "보일러를 낮춘 일화와 벌써 켜느냐는 반문으로 절약왕 대화를 회수한다.",
-          "실제 부부 갈등으로 확대하지 않는다. 제목은 발언 취지를 줄인 편집문구. 오늘 방송을 이미 봤다고 쓰지 않는다."
+          "산타 모집을 달러기호·한자·영어로 바꾼 문구를 사실 카드로 재구성.",
+          "직접 본 공고 사진이라고 쓰지 않는다. 특정 게시물이 이 발상의 최초 사례라고 단정하지 않는다."
         ]
       }
     },
     {
-      "title": "은퇴한 박세리도 매달 첫째 주엔 숨이 턱…“1일마다 월급이 나간다”",
+      "title": "쓰레기에 이름·주소 쓴다고?…원주시 “시행도 도입 계획도 없다”",
+      "category": "시사",
+      "url": "https://mobile.newsis.com/view.html?ar_id=NISX20261103_0003852323",
+      "source": "뉴시스·원주시 자원순환과 직접 통화",
+      "kind": "article",
+      "event_key": "wonju-denies-trash-bag-name-address-policy-viral-post-20261103",
+      "why": "개인정보를 쓰라는 바이럴 사진에 지자체가 실제 시행하지 않는다고 답한 반전이다.",
+      "angle": "전국 실명제 도입이라는 확산 주장과 원주시 직접 답변을 구분.",
+      "why_now": "문제 스레드 게시와 뉴시스 직접 확인11/3KST(게시 분 미확인). 사진 촬영일은 미확인. 타 지역 기존 제도는 배경만.",
+      "verified_at": 1793682602,
+      "published_at": null,
+      "evidence": [
+        {
+          "url": "https://mobile.newsis.com/view.html?ar_id=NISX20261103_0003852323",
+          "note": "본문에서 원주시 자원순환과가 실명제 미시행·도입 계획 없음이라고 답한 부분을 확인했다. 광주 북구는 개인정보 대신 상가 번호를 쓰는 별개 제도로 설명됨. 원 사진 진위는 독립 검증 못함."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://mobile.newsis.com/view.html?ar_id=NISX20261103_0003852323",
+          "label": "본문 확인·사실 카드",
+          "kind": "source"
+        }
+      ],
+      "caution": "사진 조작 주체를 단정하지 않는다. 기사 속 타지역 시행 예정일은 과거 보도와 불일치해 추천에서 제외.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-03",
+        "observation": "본문에서 원주시 자원순환과가 실명제 미시행·도입 계획 없음이라고 답한 부분을 확인했다. 광주 북구는 개인정보 대신 상가 번호를 쓰는 별개 제도로 설명됨. 원 사진 진위는 독립 검증 못함.",
+        "checked_materials": [],
+        "outline": [
+          "전국 실명제 도입이라는 확산 주장과 원주시 직접 답변을 구분.",
+          "사진 조작 주체를 단정하지 않는다. 기사 속 타지역 시행 예정일은 과거 보도와 불일치해 추천에서 제외."
+        ]
+      }
+    },
+    {
+      "title": "9위라 못 받았던 상장…김예림, 4년 뒤 올림픽 8위로",
       "category": "메이저 스포츠",
-      "url": "https://www.mt.co.kr/index.php/entertainment/2026/11/03/2026110222302684703",
-      "source": "머니투데이·tvN STORY 취재",
+      "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017095",
+      "source": "스포티비뉴스·대한빙상경기연맹 발표",
       "kind": "article",
-      "event_key": "pak-se-ri-retirement-business-payday-first-week-burden-20261102",
-      "why": "스포츠 전설의 은퇴 후 삶이 직원 월급일과 세금이라는 익숙한 현실로 연결된다.",
-      "angle": "은퇴 유망주 육성 이야기에서 매달1일 급여 부담으로 꺾이는 대화 구조.",
-      "why_now": "원방송 남겨서 뭐하게65회11/2 KST(해당 발언 분 미확인). 기사11/3 06:35는 후속. 실제 은퇴·사업 시작일과 새 회고 공개를 구분.",
-      "verified_at": 1793671910,
+      "event_key": "kim-ye-lim-young-you-olympic-diploma-redistribution-announced-20261102",
+      "why": "도핑 실격 후 한 계단 상승이 8위까지 주는 상장의 경계를 넘어선 실제 권리 변화다.",
+      "angle": "같은 연기인데 9위→8위로 상장을 받게 된 김예림의 새 결과에 집중.",
+      "why_now": "연맹 대외 발표11/2KST(분 미확인), 기사11/3 08:58. IOC서한10/30·2022경기는 과거 배경이며 오늘 결정으로 바꾸지 않는다.",
+      "verified_at": 1793682602,
       "published_at": null,
       "evidence": [
         {
-          "url": "https://www.mt.co.kr/index.php/entertainment/2026/11/03/2026110222302684703",
-          "note": "본문에서 이영자의 한 달 중 언제 숨이 막히냐는 질문에 박세리가 첫째 주·1일 급여·세금 부담을 말한 답을 확인했다. 운영 장부나 실제 방송 영상을 직접 확인하지 않았다."
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017095",
+          "note": "본문에서 연맹11/2발표, IOC10/30서한, 유영6→5위·김예림9→8위 및1~8위상장 재배분을 확인했다. 원 서한은 미열람."
         }
       ],
       "materials": [
         {
-          "url": "https://www.mt.co.kr/index.php/entertainment/2026/11/03/2026110222302684703",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017095",
           "label": "본문 확인·사실 카드",
           "kind": "source"
         }
       ],
-      "caution": "재정난·임금체불·파산으로 확대 금지. 방송하는 유일한 이유라고 단정하지 않는다.",
+      "caution": "김연아의 과거 발언이 결정을 이끌었다는 인과는 확인되지 않아 제외. 새 금메달·메달 획득이 아니다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-02",
-        "observation": "본문에서 이영자의 한 달 중 언제 숨이 막히냐는 질문에 박세리가 첫째 주·1일 급여·세금 부담을 말한 답을 확인했다. 운영 장부나 실제 방송 영상을 직접 확인하지 않았다.",
+        "observation": "본문에서 연맹11/2발표, IOC10/30서한, 유영6→5위·김예림9→8위 및1~8위상장 재배분을 확인했다. 원 서한은 미열람.",
         "checked_materials": [],
         "outline": [
-          "은퇴 유망주 육성 이야기에서 매달1일 급여 부담으로 꺾이는 대화 구조.",
-          "재정난·임금체불·파산으로 확대 금지. 방송하는 유일한 이유라고 단정하지 않는다."
-        ]
-      }
-    },
-    {
-      "title": "김원효 “집안 전 재산 말고 내 돈”…2억 투자 손실 보도에 선 그었다",
-      "category": "아이돌",
-      "url": "https://www.insight.co.kr/news/580343",
-      "source": "인사이트·KBS 방송 취재",
-      "kind": "article",
-      "event_key": "kim-won-hyo-investment-loss-personal-not-household-assets-clarification-20261102",
-      "why": "전 재산0원이라는 자극적 표현을 당사자가 집안 돈과 자신의 돈으로 구분한 해명이 구체적이다.",
-      "angle": "샤넬백 선물과 다른 투자 실패·신뢰 회복 발언을 본인 설명으로 정리한다.",
-      "why_now": "말자쇼 새 방송11/2 밤 KST(정확 구간 분 미확인). 선택 기사11/3 09:42. 실제 투자 손실 발생일은 미공개, 기존 손실 보도 시각과 구분.",
-      "verified_at": 1793671910,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://www.insight.co.kr/news/580343",
-          "note": "본문에서 김원효가 집안 전체 재산이 아니라 자기 돈2억이 사라졌다는 뜻이라고 바로잡고 아내와의 신뢰가 깨졌다가 노력으로 채웠다고 회고한 내용을 확인했다. 영상·계좌 내역 미열람."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.insight.co.kr/news/580343",
-          "label": "본문 확인·사실 카드",
-          "kind": "source"
-        }
-      ],
-      "caution": "새 이혼·새 투자 사고가 아니다. 과거 손실에 대한 이번 해명이며 금액은 본인 설명. 기존 선물 소재 재탕 금지.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-02",
-        "observation": "본문에서 김원효가 집안 전체 재산이 아니라 자기 돈2억이 사라졌다는 뜻이라고 바로잡고 아내와의 신뢰가 깨졌다가 노력으로 채웠다고 회고한 내용을 확인했다. 영상·계좌 내역 미열람.",
-        "checked_materials": [],
-        "outline": [
-          "샤넬백 선물과 다른 투자 실패·신뢰 회복 발언을 본인 설명으로 정리한다.",
-          "새 이혼·새 투자 사고가 아니다. 과거 손실에 대한 이번 해명이며 금액은 본인 설명. 기존 선물 소재 재탕 금지."
-        ]
-      }
-    },
-    {
-      "title": "조정석 “누구는 술 먹고…”에 거미 “오빠 갔을 땐 내가 하잖아요”",
-      "category": "아이돌",
-      "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/02/GZRDAZRXGQZTCYLBMZTDEM3GMI/?outputType=amp",
-      "source": "OSEN·짠한형 취재",
-      "kind": "article",
-      "event_key": "gummy-jo-jung-suk-childcare-drinking-show-reply-20261102",
-      "why": "배우 남편의 육아 투덜거림이 서로 촬영 갈 때 바뀌는 역할 이야기로 바로 회수된다.",
-      "angle": "불화가 아니라 같은 방송에 나갈 때 서로 육아를 맡는 부부 농담을 담는다.",
-      "why_now": "짠한형 새 영상 최초 공개11/2 KST(분 미확인), OSEN 기사20:54. 실제 부부 대화·녹화 날짜는 미공개.",
-      "verified_at": 1793671910,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/02/GZRDAZRXGQZTCYLBMZTDEM3GMI/?outputType=amp",
-          "note": "본문에서 촬영 중 남편이 아이들을 돌본다는 거미의 설명과 술자리 촬영을 두고 투덜댄 남편에게 반대로 자신도 맡지 않느냐고 답했다는 회고를 확인했다. 원영상 직접 시청 없음."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/02/GZRDAZRXGQZTCYLBMZTDEM3GMI/?outputType=amp",
-          "label": "본문 확인·사실 카드",
-          "kind": "source"
-        }
-      ],
-      "caution": "조정석의 현장 직접 인터뷰가 아니라 거미가 옮긴 대화다. 불화·독박육아 방치로 단정하지 않는다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-02",
-        "observation": "본문에서 촬영 중 남편이 아이들을 돌본다는 거미의 설명과 술자리 촬영을 두고 투덜댄 남편에게 반대로 자신도 맡지 않느냐고 답했다는 회고를 확인했다. 원영상 직접 시청 없음.",
-        "checked_materials": [],
-        "outline": [
-          "불화가 아니라 같은 방송에 나갈 때 서로 육아를 맡는 부부 농담을 담는다.",
-          "조정석의 현장 직접 인터뷰가 아니라 거미가 옮긴 대화다. 불화·독박육아 방치로 단정하지 않는다."
-        ]
-      }
-    },
-    {
-      "title": "링컨 반사연못을 ‘트럼프 연못’으로?…유세 중 농담이라 수습",
-      "category": "시사",
-      "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261103_0003851833",
-      "source": "뉴시스 워싱턴 현장 취재",
-      "kind": "article",
-      "event_key": "trump-lincoln-reflecting-pool-renaming-joke-final-rally-20261102",
-      "why": "선거 마지막 유세에서 연못 개보수 자랑과 자기 이름 붙이기 농담이 튀어나온 구체 행동이다.",
-      "angle": "20여분 개보수 자랑 뒤 개명 검토 발언과 농담이라는 수습을 함께 둔다.",
-      "why_now": "공개 유세11/2 워싱턴 현지(정확 발언 분 미확인), 뉴시스11/3 06:28:20 KST 취재. 전 회차 미스터 비토 팟캐스트와 다른 새 행사.",
-      "verified_at": 1793671910,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261103_0003851833",
-          "note": "현장 취재 본문에서 트럼프가 반사연못 개보수를 자랑하고 자기 이름으로 바꾸는 것을 검토한다고 했다가 농담이라고 수습한 내용을 확인했다. 연설 실제 영상은 직접 시청하지 않았다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261103_0003851833",
-          "label": "본문 확인·사실 카드",
-          "kind": "source"
-        }
-      ],
-      "caution": "실제 개명 행정 결정이 아니다. 대통령의 농담을 확정 계획·공식 명칭 변경으로 쓰지 않는다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-02",
-        "observation": "현장 취재 본문에서 트럼프가 반사연못 개보수를 자랑하고 자기 이름으로 바꾸는 것을 검토한다고 했다가 농담이라고 수습한 내용을 확인했다. 연설 실제 영상은 직접 시청하지 않았다.",
-        "checked_materials": [],
-        "outline": [
-          "20여분 개보수 자랑 뒤 개명 검토 발언과 농담이라는 수습을 함께 둔다.",
-          "실제 개명 행정 결정이 아니다. 대통령의 농담을 확정 계획·공식 명칭 변경으로 쓰지 않는다."
-        ]
-      }
-    },
-    {
-      "title": "서로 ‘핵 공격’ 가짜 경보…젤렌스키 “러시아 시스템에 보복했다”",
-      "category": "시사",
-      "url": "https://kyivindependent.com/zelensky-confirms-ukraine-targeted-russian-emergency-alert-systems-in-retaliatory-hack/",
-      "source": "키이우 인디펜던트·PBS 인용",
-      "kind": "article",
-      "event_key": "zelensky-confirms-russian-alert-app-retaliatory-hack-pbs-20261102",
-      "why": "국민을 지키는 경보 앱이 공포를 뿌리는 도구로 뒤집히고 대통령이 보복을 언급한 새 후속이다.",
-      "angle": "가짜 경보 피해와 대통령의 보복 인정 발언을 구분해 적는다.",
-      "why_now": "초기 해킹11/1 우크라23시대·러시아11/2새벽. 새 PBS 발언11/2 현지, KI 최초 표시11/3 01:06(사이트 현지시각). 한국 재기사 시각으로 바꾸지 않음.",
-      "verified_at": 1793671910,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://kyivindependent.com/zelensky-confirms-ukraine-targeted-russian-emergency-alert-systems-in-retaliatory-hack/",
-          "note": "KI 본문에서 젤렌스키가 PBS에 러시아의 민간인 공격에 대응했다고 말한 대목과 양국 앱의 가짜 핵 경보·서비스 중단 설명을 확인했다. 해킹 주체를 독립 포렌식으로 확인하지는 않았다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://kyivindependent.com/zelensky-confirms-ukraine-targeted-russian-emergency-alert-systems-in-retaliatory-hack/",
-          "label": "본문 확인·사실 카드",
-          "kind": "source"
-        }
-      ],
-      "caution": "러시아 배후는 젤렌스키의 주장으로 귀속. 실제 핵 공격이 아니다. 직접 해킹·앱 접속·영상 시청 없음.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-02",
-        "observation": "KI 본문에서 젤렌스키가 PBS에 러시아의 민간인 공격에 대응했다고 말한 대목과 양국 앱의 가짜 핵 경보·서비스 중단 설명을 확인했다. 해킹 주체를 독립 포렌식으로 확인하지는 않았다.",
-        "checked_materials": [],
-        "outline": [
-          "가짜 경보 피해와 대통령의 보복 인정 발언을 구분해 적는다.",
-          "러시아 배후는 젤렌스키의 주장으로 귀속. 실제 핵 공격이 아니다. 직접 해킹·앱 접속·영상 시청 없음."
-        ]
-      }
-    },
-    {
-      "title": "마라톤 빵 소비기한이 오늘까지?…업체 “당일 먹으라고 적었다”",
-      "category": "시사",
-      "url": "https://www.mt.co.kr/index.php/society/2026/11/03/2026110305591610265",
-      "source": "머니투데이·업체 해명 취재",
-      "kind": "article",
-      "event_key": "jtbc-marathon-mirukku-bread-same-day-expiry-explanation-20261101-race",
-      "why": "재고 처리 의심에 오히려 식감 개선용 급랭·당일 섭취 안내였다는 설명이 맞붙는다.",
-      "angle": "소비기한 표기의 오해와 업체가 밝힌 제조·해동 방식, 미확인 한계를 담는다.",
-      "why_now": "대회11/1 KST, 이후 업체 해명 공개(정확 게시일·분 미확인), 첫 확인 기사11/3 06:06. 대회 뒤 공개된 이번 해명과 과거2025후원 이력을 구분.",
-      "verified_at": 1793671910,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://www.mt.co.kr/index.php/society/2026/11/03/2026110305591610265",
-          "note": "본문에서 급랭·냉동 보관 후 제공했고 해동 뒤 당일 섭취를 안내하려 소비기한을 행사일로 썼다는 업체 설명을 확인했다. 생산·출고 CCTV 보유 주장까지이며 CCTV·실물은 미열람."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.mt.co.kr/index.php/society/2026/11/03/2026110305591610265",
-          "label": "본문 확인·사실 카드",
-          "kind": "source"
-        }
-      ],
-      "caution": "해명은 업체 주장으로 귀속. 품질·위법 여부가 검증됐다고 쓰지 않는다. 원 게시 시각을 기사 시각으로 대체 금지.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-01",
-        "observation": "본문에서 급랭·냉동 보관 후 제공했고 해동 뒤 당일 섭취를 안내하려 소비기한을 행사일로 썼다는 업체 설명을 확인했다. 생산·출고 CCTV 보유 주장까지이며 CCTV·실물은 미열람.",
-        "checked_materials": [],
-        "outline": [
-          "소비기한 표기의 오해와 업체가 밝힌 제조·해동 방식, 미확인 한계를 담는다.",
-          "해명은 업체 주장으로 귀속. 품질·위법 여부가 검증됐다고 쓰지 않는다. 원 게시 시각을 기사 시각으로 대체 금지."
+          "같은 연기인데 9위→8위로 상장을 받게 된 김예림의 새 결과에 집중.",
+          "김연아의 과거 발언이 결정을 이끌었다는 인과는 확인되지 않아 제외. 새 금메달·메달 획득이 아니다."
         ]
       }
     }
