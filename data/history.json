@@ -1,6 +1,716 @@
 {
   "version": 1,
   "items": {
+    "e813484e91fe": {
+      "source": "Stats Perform 직접 회견 보도",
+      "title": "발롱도르 받은 케인, 다음 상과 바꾸고 싶은 건 챔스 우승",
+      "link": "https://www.soccernews.com/kane-id-swap-next-ballon-dor-for-a-champions-league-triumph/407459/",
+      "first_seen_at": 1793682710,
+      "last_seen_at": 1793682710,
+      "samples": [
+        {
+          "at": 1793682710,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "e813484e91fe",
+      "editorial": {
+        "title": "발롱도르 받은 케인, 다음 상과 바꾸고 싶은 건 챔스 우승",
+        "category": "축구",
+        "url": "https://www.soccernews.com/kane-id-swap-next-ballon-dor-for-a-champions-league-triumph/407459/",
+        "source": "Stats Perform 직접 회견 보도",
+        "kind": "article",
+        "event_key": "kane-next-ballon-dor-for-champions-league-press-conference-20261102",
+        "why": "개인 최고상을 받은 직후에도 남은 챔스 트로피를 고른 답변이 케인의 긴 무관 서사와 맞물린다.",
+        "angle": "이번 수상 취소가 아니라 다음 발롱도르보다 팀 우승을 원한다는 새 답변.",
+        "why_now": "회견11/2 마드리드, Stats Perform11/2 최초 게시(분 미표시). BBC 동시취재 보도11/2 22:13 UTC 확인. 수상식은 지난주 배경.",
+        "verified_at": 1793682602,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.soccernews.com/kane-id-swap-next-ballon-dor-for-a-champions-league-triumph/407459/",
+            "note": "본문에서 다음 발롱도르와 챔스 우승을 교환하겠다는 답변, 팀 우승이 뛰는 이유라는 설명, 둘 다 얻을 가능성도 있다는 말을 확인했다. 영상은 미시청."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.soccernews.com/kane-id-swap-next-ballon-dor-for-a-champions-league-triumph/407459/",
+            "label": "본문 확인·사실 카드",
+            "kind": "source"
+          }
+        ],
+        "caution": "이미 받은 트로피를 실제 반납한다는 뜻이 아니다. 발언 취지를 요약한 표지다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-02",
+          "observation": "본문에서 다음 발롱도르와 챔스 우승을 교환하겠다는 답변, 팀 우승이 뛰는 이유라는 설명, 둘 다 얻을 가능성도 있다는 말을 확인했다. 영상은 미시청.",
+          "checked_materials": [],
+          "outline": [
+            "이번 수상 취소가 아니라 다음 발롱도르보다 팀 우승을 원한다는 새 답변.",
+            "이미 받은 트로피를 실제 반납한다는 뜻이 아니다. 발언 취지를 요약한 표지다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "본문 확인·사실 카드",
+            "url": "https://www.soccernews.com/kane-id-swap-next-ballon-dor-for-a-champions-league-triumph/407459/"
+          }
+        ],
+        "excerpt": "",
+        "context": "회견11/2 마드리드, Stats Perform11/2 최초 게시(분 미표시). BBC 동시취재 보도11/2 22:13 UTC 확인. 수상식은 지난주 배경.",
+        "fetched_at": 1793682710,
+        "parser_revision": 7
+      },
+      "curation_event_key": "kane-next-ballon-dor-for-champions-league-press-conference-20261102"
+    },
+    "50c6d149c3cc": {
+      "source": "베스트일레븐·영국 보도 인용",
+      "title": "마두에케 “나 퇴장시키려 도발”…캐러거도 리버풀 후배에 쓴소리",
+      "link": "https://news.nate.com/view/20261103n03298",
+      "first_seen_at": 1793682710,
+      "last_seen_at": 1793682710,
+      "samples": [
+        {
+          "at": 1793682710,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "50c6d149c3cc",
+      "editorial": {
+        "title": "마두에케 “나 퇴장시키려 도발”…캐러거도 리버풀 후배에 쓴소리",
+        "category": "축구",
+        "url": "https://news.nate.com/view/20261103n03298",
+        "source": "베스트일레븐·영국 보도 인용",
+        "kind": "article",
+        "event_key": "madueke-mac-allister-red-card-provocation-carragher-response-20261102",
+        "why": "리버풀 출신 캐러거가 자기 팀 선수 대신 상대의 퇴장 회피를 반긴 구체적 반응이다.",
+        "angle": "퇴장 유도라는 마두에케 주장과 캐러거의 비판을 각자 발언으로 묶는다.",
+        "why_now": "경기11/2 새벽KST, 경기 뒤 발언. 첫 확인 국내 기사11/3 07:10KST. 인터뷰 최초 공개 분은 미확인(경기 뒤~기사 사이).",
+        "verified_at": 1793682602,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://news.nate.com/view/20261103n03298",
+            "note": "본문에서 머리를 맞댄 신경전 뒤 맥 알리스터가 쓰러졌고 추가 경고는 없었다는 보도, 마두에케의 도발 주장, 캐러거가 퇴장 안 나와 기뻤다고 한 말을 확인. 실제 영상 미시청."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.nate.com/view/20261103n03298",
+            "label": "본문 확인·사실 카드",
+            "kind": "source"
+          }
+        ],
+        "caution": "고의 도발은 당사자의 해석이다. VAR의 실제 판단 이유는 확인하지 못했다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-02",
+          "observation": "본문에서 머리를 맞댄 신경전 뒤 맥 알리스터가 쓰러졌고 추가 경고는 없었다는 보도, 마두에케의 도발 주장, 캐러거가 퇴장 안 나와 기뻤다고 한 말을 확인. 실제 영상 미시청.",
+          "checked_materials": [],
+          "outline": [
+            "퇴장 유도라는 마두에케 주장과 캐러거의 비판을 각자 발언으로 묶는다.",
+            "고의 도발은 당사자의 해석이다. VAR의 실제 판단 이유는 확인하지 못했다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "본문 확인·사실 카드",
+            "url": "https://news.nate.com/view/20261103n03298"
+          }
+        ],
+        "excerpt": "",
+        "context": "경기11/2 새벽KST, 경기 뒤 발언. 첫 확인 국내 기사11/3 07:10KST. 인터뷰 최초 공개 분은 미확인(경기 뒤~기사 사이).",
+        "fetched_at": 1793682710,
+        "parser_revision": 7
+      },
+      "curation_event_key": "madueke-mac-allister-red-card-provocation-carragher-response-20261102"
+    },
+    "a1ed4a991924": {
+      "source": "Mirror 원취재·Football Uncensored 인용",
+      "title": "“영입 안 한다고? 네가 먼저 교체될걸”…버트의 마르티네스 저격",
+      "link": "https://www.aol.co.uk/articles/nicky-butt-demands-lisandro-martinez-213143000.html",
+      "first_seen_at": 1793682710,
+      "last_seen_at": 1793682710,
+      "samples": [
+        {
+          "at": 1793682710,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "a1ed4a991924",
+      "editorial": {
+        "title": "“영입 안 한다고? 네가 먼저 교체될걸”…버트의 마르티네스 저격",
+        "category": "축구",
+        "url": "https://www.aol.co.uk/articles/nicky-butt-demands-lisandro-martinez-213143000.html",
+        "source": "Mirror 원취재·Football Uncensored 인용",
+        "kind": "article",
+        "event_key": "nicky-butt-martinez-first-replaced-transfer-criticism-20261102",
+        "why": "전력 보강을 요구한 수비수에게 새 선수가 오면 본인이 먼저 밀려난다고 되받은 말이 강하다.",
+        "angle": "첼시전 퇴장 재탕 대신 선수 영입 불만에 대한 버트의 새 반박을 첫 장에 둔다.",
+        "why_now": "Football Uncensored 새 출연분11/2 공개 확인 범위(정확 업로드 분 미확인). Mirror원문 재배포11/2 21:31UTC, 선행 보도20:53UTC. 경기10/31은 배경.",
+        "verified_at": 1793682602,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.aol.co.uk/articles/nicky-butt-demands-lisandro-martinez-213143000.html",
+            "note": "Mirror 본문에서 버트가 선수 영입을 요구하기 전에 본인 경기력을 돌아봐야 하며 영입하면 가장 먼저 대체될 선수라고 비판한 발언을 확인. 원 영상 링크는 열람 제한, 시청하지 않음."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.aol.co.uk/articles/nicky-butt-demands-lisandro-martinez-213143000.html",
+            "label": "본문 확인·사실 카드",
+            "kind": "source"
+          }
+        ],
+        "caution": "퇴출은 버트의 의견이며 구단 결정이 아니다. 선수의 속마음·라커룸 반응도 버트 해석으로 귀속.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-02",
+          "observation": "Mirror 본문에서 버트가 선수 영입을 요구하기 전에 본인 경기력을 돌아봐야 하며 영입하면 가장 먼저 대체될 선수라고 비판한 발언을 확인. 원 영상 링크는 열람 제한, 시청하지 않음.",
+          "checked_materials": [],
+          "outline": [
+            "첼시전 퇴장 재탕 대신 선수 영입 불만에 대한 버트의 새 반박을 첫 장에 둔다.",
+            "퇴출은 버트의 의견이며 구단 결정이 아니다. 선수의 속마음·라커룸 반응도 버트 해석으로 귀속."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "본문 확인·사실 카드",
+            "url": "https://www.aol.co.uk/articles/nicky-butt-demands-lisandro-martinez-213143000.html"
+          }
+        ],
+        "excerpt": "",
+        "context": "Football Uncensored 새 출연분11/2 공개 확인 범위(정확 업로드 분 미확인). Mirror원문 재배포11/2 21:31UTC, 선행 보도20:53UTC. 경기10/31은 배경.",
+        "fetched_at": 1793682710,
+        "parser_revision": 7
+      },
+      "curation_event_key": "nicky-butt-martinez-first-replaced-transfer-criticism-20261102"
+    },
+    "de58dab28def": {
+      "source": "헤럴드경제·MMA Fighting 직접 인터뷰 인용",
+      "title": "같은 UFC 헤비급 형제지만…워커 “동생과 싸우라고? 미쳤냐”",
+      "link": "https://mbiz.heraldcorp.com/article/10923476?sec=013",
+      "first_seen_at": 1793682710,
+      "last_seen_at": 1793682710,
+      "samples": [
+        {
+          "at": 1793682710,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "de58dab28def",
+      "editorial": {
+        "title": "같은 UFC 헤비급 형제지만…워커 “동생과 싸우라고? 미쳤냐”",
+        "category": "메이저 스포츠",
+        "url": "https://mbiz.heraldcorp.com/article/10923476?sec=013",
+        "source": "헤럴드경제·MMA Fighting 직접 인터뷰 인용",
+        "kind": "article",
+        "event_key": "johnny-walker-refuses-valter-brother-fight-20261102",
+        "why": "두 형제가 같은 체급에 있어 생긴 매치업 질문을 형이 혈연과 격투기의 폭력성으로 잘라낸 답변이다.",
+        "angle": "팬이 상상한 형제 대결과 본인의 단호한 거절을 대비.",
+        "why_now": "MMA Fighting 최초공개11/2 09:00EST=23:00KST. 실제 인터뷰 녹화일은 미확인.",
+        "verified_at": 1793682602,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://mbiz.heraldcorp.com/article/10923476?sec=013",
+            "note": "헤럴드 본문에서 동생과는 싸우지 않겠다는 답변과 격투기의 폭력성 때문에 가족을 상대할 수 없다는 설명을 확인. MMA원문은403, 영상 미시청. 원 매체 최초 게시 시각은 검색 메타데이터와 재배포를 대조."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://mbiz.heraldcorp.com/article/10923476?sec=013",
+            "label": "본문 확인·사실 카드",
+            "kind": "source"
+          }
+        ],
+        "caution": "형제 불화가 새로 확정됐거나 실제 맞대결이 편성된 게 아니다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-02",
+          "observation": "헤럴드 본문에서 동생과는 싸우지 않겠다는 답변과 격투기의 폭력성 때문에 가족을 상대할 수 없다는 설명을 확인. MMA원문은403, 영상 미시청. 원 매체 최초 게시 시각은 검색 메타데이터와 재배포를 대조.",
+          "checked_materials": [],
+          "outline": [
+            "팬이 상상한 형제 대결과 본인의 단호한 거절을 대비.",
+            "형제 불화가 새로 확정됐거나 실제 맞대결이 편성된 게 아니다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "본문 확인·사실 카드",
+            "url": "https://mbiz.heraldcorp.com/article/10923476?sec=013"
+          }
+        ],
+        "excerpt": "",
+        "context": "MMA Fighting 최초공개11/2 09:00EST=23:00KST. 실제 인터뷰 녹화일은 미확인.",
+        "fetched_at": 1793682710,
+        "parser_revision": 7
+      },
+      "curation_event_key": "johnny-walker-refuses-valter-brother-fight-20261102"
+    },
+    "f1e5945b2549": {
+      "source": "스타뉴스·주최사 공식 입장",
+      "title": "젝키 디너쇼 90만원?…주최 측 “그건 호텔 객실 가격”",
+      "link": "https://www.starnewskorea.com/music/2026/11/02/2026110219045050684",
+      "first_seen_at": 1793682710,
+      "last_seen_at": 1793682710,
+      "samples": [
+        {
+          "at": 1793682710,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "f1e5945b2549",
+      "editorial": {
+        "title": "젝키 디너쇼 90만원?…주최 측 “그건 호텔 객실 가격”",
+        "category": "아이돌",
+        "url": "https://www.starnewskorea.com/music/2026/11/02/2026110219045050684",
+        "source": "스타뉴스·주최사 공식 입장",
+        "kind": "article",
+        "event_key": "sechskies-dinner-show-room-price-not-ticket-clarification-20261102",
+        "why": "90만원 표가 공연 티켓이 아니라 객실 가격 예시였다는 주최사 설명이 팬의 돈 문제를 바로잡는다.",
+        "angle": "고가 티켓 논란과 객실·티켓 구분을 나란히 보여준다.",
+        "why_now": "주최사 공식 해명11/2KST(배포 분 미확인), 기사11/2 19:27KST. 공연12/15~16은 미래 일정.",
+        "verified_at": 1793682602,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.starnewskorea.com/music/2026/11/02/2026110219045050684",
+            "note": "본문에서 45만4000·56만8400·89만8400원은 호텔 객실 가격 예시였다는 주최사 설명과 음악·토크·디너·숙박 결합 행사임을 확인했다. 실제 안내 이미지 상세·최종 티켓 판매가는 독립 확인 못함."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.starnewskorea.com/music/2026/11/02/2026110219045050684",
+            "label": "본문 확인·사실 카드",
+            "kind": "source"
+          }
+        ],
+        "caution": "해명으로 실제 티켓 가격이 싸다고 결론 내리지 않는다. 세 멤버 행사와 완전체 복귀를 구분.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-02",
+          "observation": "본문에서 45만4000·56만8400·89만8400원은 호텔 객실 가격 예시였다는 주최사 설명과 음악·토크·디너·숙박 결합 행사임을 확인했다. 실제 안내 이미지 상세·최종 티켓 판매가는 독립 확인 못함.",
+          "checked_materials": [],
+          "outline": [
+            "고가 티켓 논란과 객실·티켓 구분을 나란히 보여준다.",
+            "해명으로 실제 티켓 가격이 싸다고 결론 내리지 않는다. 세 멤버 행사와 완전체 복귀를 구분."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "본문 확인·사실 카드",
+            "url": "https://www.starnewskorea.com/music/2026/11/02/2026110219045050684"
+          }
+        ],
+        "excerpt": "",
+        "context": "주최사 공식 해명11/2KST(배포 분 미확인), 기사11/2 19:27KST. 공연12/15~16은 미래 일정.",
+        "fetched_at": 1793682710,
+        "parser_revision": 7
+      },
+      "curation_event_key": "sechskies-dinner-show-room-price-not-ticket-clarification-20261102"
+    },
+    "5a9aaa61bdee": {
+      "source": "지피코리아·비보티비 개세모2",
+      "title": "“시험 말고 스카우트돼야지”…유재석 나오자 문세윤 태세 전환",
+      "link": "https://www.gpkorea.com/news/articleView.html?idxno=148229",
+      "first_seen_at": 1793682710,
+      "last_seen_at": 1793682710,
+      "samples": [
+        {
+          "at": 1793682710,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "5a9aaa61bdee",
+      "editorial": {
+        "title": "“시험 말고 스카우트돼야지”…유재석 나오자 문세윤 태세 전환",
+        "category": "아이돌",
+        "url": "https://www.gpkorea.com/news/articleView.html?idxno=148229",
+        "source": "지피코리아·비보티비 개세모2",
+        "kind": "article",
+        "event_key": "moon-se-yoon-special-recruit-yoo-jae-suk-u-turn-gaesemo-20261102",
+        "why": "특채 자부심을 내세우다 공채 유재석 앞에서 대우받고 들어오셨어야 했다고 수습하는 농담이 완결된다.",
+        "angle": "특채 주장→유재석 언급→시험 왜 보셨냐는 수습의 세 문장.",
+        "why_now": "비보티비 개세모2 11/2 18:00KST 공개(당일 제작사 예고 대조), 기사11/3 09:32. 녹화일 미확인.",
+        "verified_at": 1793682602,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.gpkorea.com/news/articleView.html?idxno=148229",
+            "note": "본문에서 문세윤의 시험 말고 스카우트 발언, 공채 유재석 언급 뒤 대우받고 들어오셨어야 한다는 답변을 확인. 제작사 당일 공개 예고도 대조. 원 영상은 미시청."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.gpkorea.com/news/articleView.html?idxno=148229",
+            "label": "본문 확인·사실 카드",
+            "kind": "source"
+          }
+        ],
+        "caution": "실제 채용제도 비판이나 진지한 선후배 갈등으로 확대하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-02",
+          "observation": "본문에서 문세윤의 시험 말고 스카우트 발언, 공채 유재석 언급 뒤 대우받고 들어오셨어야 한다는 답변을 확인. 제작사 당일 공개 예고도 대조. 원 영상은 미시청.",
+          "checked_materials": [],
+          "outline": [
+            "특채 주장→유재석 언급→시험 왜 보셨냐는 수습의 세 문장.",
+            "실제 채용제도 비판이나 진지한 선후배 갈등으로 확대하지 않는다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "본문 확인·사실 카드",
+            "url": "https://www.gpkorea.com/news/articleView.html?idxno=148229"
+          }
+        ],
+        "excerpt": "",
+        "context": "비보티비 개세모2 11/2 18:00KST 공개(당일 제작사 예고 대조), 기사11/3 09:32. 녹화일 미확인.",
+        "fetched_at": 1793682710,
+        "parser_revision": 7
+      },
+      "curation_event_key": "moon-se-yoon-special-recruit-yoo-jae-suk-u-turn-gaesemo-20261102"
+    },
+    "10587d635454": {
+      "source": "엑스포츠뉴스·JTBC 방송 발언",
+      "title": "술 고민 커플에 이효리 “나도 정신과, 건강검진하듯 간다”",
+      "link": "https://www.xportsnews.com/article/2214489",
+      "first_seen_at": 1793682710,
+      "last_seen_at": 1793682710,
+      "samples": [
+        {
+          "at": 1793682710,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "10587d635454",
+      "editorial": {
+        "title": "술 고민 커플에 이효리 “나도 정신과, 건강검진하듯 간다”",
+        "category": "아이돌",
+        "url": "https://www.xportsnews.com/article/2214489",
+        "source": "엑스포츠뉴스·JTBC 방송 발언",
+        "kind": "article",
+        "event_key": "lee-hyori-routine-psychiatry-health-check-dating-war-20261102",
+        "why": "문제없다며 버티는 커플에게 본인도 검진처럼 간다며 문턱을 낮추는 직접 답변이 있다.",
+        "angle": "커플의 질환 진단 대신 이효리의 본인 경험과 확인 권유를 전달.",
+        "why_now": "JTBC 연애전쟁11/2 방송, 첫 확인 기사11/3 05:25OSEN·07:35엑스포츠. 정확 발언 방송 분 미확인.",
+        "verified_at": 1793682602,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.xportsnews.com/article/2214489",
+            "note": "본문에서 이효리가 큰 일상 지장 없이도 정신과를 건강검진처럼 간다고 설명하고 둘이 병원에 가 보라고 권한 말을 확인. 실제 영상 미시청."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.xportsnews.com/article/2214489",
+            "label": "본문 확인·사실 카드",
+            "kind": "source"
+          }
+        ],
+        "caution": "안타까운 투병·정신질환 확진이라고 쓰지 않는다. 개인 경험 발언이며 의학적 효과를 보증하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-02",
+          "observation": "본문에서 이효리가 큰 일상 지장 없이도 정신과를 건강검진처럼 간다고 설명하고 둘이 병원에 가 보라고 권한 말을 확인. 실제 영상 미시청.",
+          "checked_materials": [],
+          "outline": [
+            "커플의 질환 진단 대신 이효리의 본인 경험과 확인 권유를 전달.",
+            "안타까운 투병·정신질환 확진이라고 쓰지 않는다. 개인 경험 발언이며 의학적 효과를 보증하지 않는다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "본문 확인·사실 카드",
+            "url": "https://www.xportsnews.com/article/2214489"
+          }
+        ],
+        "excerpt": "",
+        "context": "JTBC 연애전쟁11/2 방송, 첫 확인 기사11/3 05:25OSEN·07:35엑스포츠. 정확 발언 방송 분 미확인.",
+        "fetched_at": 1793682710,
+        "parser_revision": 7
+      },
+      "curation_event_key": "lee-hyori-routine-psychiatry-health-check-dating-war-20261102"
+    },
+    "0be4914989dc": {
+      "source": "머니투데이·입주민 게시물 취재",
+      "title": "산타 모집을 아이들 몰래…아파트 안내문이 암호가 됐다",
+      "link": "https://www.mt.co.kr/index.php/society/2026/11/03/2026110310460015030",
+      "first_seen_at": 1793682710,
+      "last_seen_at": 1793682710,
+      "samples": [
+        {
+          "at": 1793682710,
+          "views": null,
+          "reactions": null,
+          "rank": 8,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "0be4914989dc",
+      "editorial": {
+        "title": "산타 모집을 아이들 몰래…아파트 안내문이 암호가 됐다",
+        "category": "시사",
+        "url": "https://www.mt.co.kr/index.php/society/2026/11/03/2026110310460015030",
+        "source": "머니투데이·입주민 게시물 취재",
+        "kind": "article",
+        "event_key": "goyang-apartment-santa-coded-recruitment-notice-post-20261103",
+        "why": "산타의 정체를 숨기려고 부모까지 해독해야 하는 공지문의 실제 문구가 웃음을 회수한다.",
+        "angle": "산타 모집을 달러기호·한자·영어로 바꾼 문구를 사실 카드로 재구성.",
+        "why_now": "개인 인스타 게시11/3KST(분 미확인), 기사11/3 11:22KST. 공고 부착일은 미확인, 새 온라인 공개와 구분.",
+        "verified_at": 1793682602,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.mt.co.kr/index.php/society/2026/11/03/2026110310460015030",
+            "note": "본문에서 산타를 $$AN他, 선물을 선WATER로 적고 글 읽는 아이들이 눈치채지 못하게 썼다는 안내 문구를 확인했다. 원 공고 사진 자체는 별도 시각 검증 안 함."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.mt.co.kr/index.php/society/2026/11/03/2026110310460015030",
+            "label": "본문 확인·사실 카드",
+            "kind": "source"
+          }
+        ],
+        "caution": "직접 본 공고 사진이라고 쓰지 않는다. 특정 게시물이 이 발상의 최초 사례라고 단정하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-03",
+          "observation": "본문에서 산타를 $$AN他, 선물을 선WATER로 적고 글 읽는 아이들이 눈치채지 못하게 썼다는 안내 문구를 확인했다. 원 공고 사진 자체는 별도 시각 검증 안 함.",
+          "checked_materials": [],
+          "outline": [
+            "산타 모집을 달러기호·한자·영어로 바꾼 문구를 사실 카드로 재구성.",
+            "직접 본 공고 사진이라고 쓰지 않는다. 특정 게시물이 이 발상의 최초 사례라고 단정하지 않는다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "본문 확인·사실 카드",
+            "url": "https://www.mt.co.kr/index.php/society/2026/11/03/2026110310460015030"
+          }
+        ],
+        "excerpt": "",
+        "context": "개인 인스타 게시11/3KST(분 미확인), 기사11/3 11:22KST. 공고 부착일은 미확인, 새 온라인 공개와 구분.",
+        "fetched_at": 1793682710,
+        "parser_revision": 7
+      },
+      "curation_event_key": "goyang-apartment-santa-coded-recruitment-notice-post-20261103"
+    },
+    "5fe788edb90e": {
+      "source": "뉴시스·원주시 자원순환과 직접 통화",
+      "title": "쓰레기에 이름·주소 쓴다고?…원주시 “시행도 도입 계획도 없다”",
+      "link": "https://mobile.newsis.com/view.html?ar_id=NISX20261103_0003852323",
+      "first_seen_at": 1793682710,
+      "last_seen_at": 1793682710,
+      "samples": [
+        {
+          "at": 1793682710,
+          "views": null,
+          "reactions": null,
+          "rank": 9,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "5fe788edb90e",
+      "editorial": {
+        "title": "쓰레기에 이름·주소 쓴다고?…원주시 “시행도 도입 계획도 없다”",
+        "category": "시사",
+        "url": "https://mobile.newsis.com/view.html?ar_id=NISX20261103_0003852323",
+        "source": "뉴시스·원주시 자원순환과 직접 통화",
+        "kind": "article",
+        "event_key": "wonju-denies-trash-bag-name-address-policy-viral-post-20261103",
+        "why": "개인정보를 쓰라는 바이럴 사진에 지자체가 실제 시행하지 않는다고 답한 반전이다.",
+        "angle": "전국 실명제 도입이라는 확산 주장과 원주시 직접 답변을 구분.",
+        "why_now": "문제 스레드 게시와 뉴시스 직접 확인11/3KST(게시 분 미확인). 사진 촬영일은 미확인. 타 지역 기존 제도는 배경만.",
+        "verified_at": 1793682602,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://mobile.newsis.com/view.html?ar_id=NISX20261103_0003852323",
+            "note": "본문에서 원주시 자원순환과가 실명제 미시행·도입 계획 없음이라고 답한 부분을 확인했다. 광주 북구는 개인정보 대신 상가 번호를 쓰는 별개 제도로 설명됨. 원 사진 진위는 독립 검증 못함."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://mobile.newsis.com/view.html?ar_id=NISX20261103_0003852323",
+            "label": "본문 확인·사실 카드",
+            "kind": "source"
+          }
+        ],
+        "caution": "사진 조작 주체를 단정하지 않는다. 기사 속 타지역 시행 예정일은 과거 보도와 불일치해 추천에서 제외.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-03",
+          "observation": "본문에서 원주시 자원순환과가 실명제 미시행·도입 계획 없음이라고 답한 부분을 확인했다. 광주 북구는 개인정보 대신 상가 번호를 쓰는 별개 제도로 설명됨. 원 사진 진위는 독립 검증 못함.",
+          "checked_materials": [],
+          "outline": [
+            "전국 실명제 도입이라는 확산 주장과 원주시 직접 답변을 구분.",
+            "사진 조작 주체를 단정하지 않는다. 기사 속 타지역 시행 예정일은 과거 보도와 불일치해 추천에서 제외."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "본문 확인·사실 카드",
+            "url": "https://mobile.newsis.com/view.html?ar_id=NISX20261103_0003852323"
+          }
+        ],
+        "excerpt": "",
+        "context": "문제 스레드 게시와 뉴시스 직접 확인11/3KST(게시 분 미확인). 사진 촬영일은 미확인. 타 지역 기존 제도는 배경만.",
+        "fetched_at": 1793682710,
+        "parser_revision": 7
+      },
+      "curation_event_key": "wonju-denies-trash-bag-name-address-policy-viral-post-20261103"
+    },
+    "fcc817770c4c": {
+      "source": "스포티비뉴스·대한빙상경기연맹 발표",
+      "title": "9위라 못 받았던 상장…김예림, 4년 뒤 올림픽 8위로",
+      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017095",
+      "first_seen_at": 1793682710,
+      "last_seen_at": 1793682710,
+      "samples": [
+        {
+          "at": 1793682710,
+          "views": null,
+          "reactions": null,
+          "rank": 10,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "fcc817770c4c",
+      "editorial": {
+        "title": "9위라 못 받았던 상장…김예림, 4년 뒤 올림픽 8위로",
+        "category": "메이저 스포츠",
+        "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017095",
+        "source": "스포티비뉴스·대한빙상경기연맹 발표",
+        "kind": "article",
+        "event_key": "kim-ye-lim-young-you-olympic-diploma-redistribution-announced-20261102",
+        "why": "도핑 실격 후 한 계단 상승이 8위까지 주는 상장의 경계를 넘어선 실제 권리 변화다.",
+        "angle": "같은 연기인데 9위→8위로 상장을 받게 된 김예림의 새 결과에 집중.",
+        "why_now": "연맹 대외 발표11/2KST(분 미확인), 기사11/3 08:58. IOC서한10/30·2022경기는 과거 배경이며 오늘 결정으로 바꾸지 않는다.",
+        "verified_at": 1793682602,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017095",
+            "note": "본문에서 연맹11/2발표, IOC10/30서한, 유영6→5위·김예림9→8위 및1~8위상장 재배분을 확인했다. 원 서한은 미열람."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017095",
+            "label": "본문 확인·사실 카드",
+            "kind": "source"
+          }
+        ],
+        "caution": "김연아의 과거 발언이 결정을 이끌었다는 인과는 확인되지 않아 제외. 새 금메달·메달 획득이 아니다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-02",
+          "observation": "본문에서 연맹11/2발표, IOC10/30서한, 유영6→5위·김예림9→8위 및1~8위상장 재배분을 확인했다. 원 서한은 미열람.",
+          "checked_materials": [],
+          "outline": [
+            "같은 연기인데 9위→8위로 상장을 받게 된 김예림의 새 결과에 집중.",
+            "김연아의 과거 발언이 결정을 이끌었다는 인과는 확인되지 않아 제외. 새 금메달·메달 획득이 아니다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "본문 확인·사실 카드",
+            "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017095"
+          }
+        ],
+        "excerpt": "",
+        "context": "연맹 대외 발표11/2KST(분 미확인), 기사11/3 08:58. IOC서한10/30·2022경기는 과거 배경이며 오늘 결정으로 바꾸지 않는다.",
+        "fetched_at": 1793682710,
+        "parser_revision": 7
+      },
+      "curation_event_key": "kim-ye-lim-young-you-olympic-diploma-redistribution-announced-20261102"
+    },
     "f2b2f4a9dca9": {
       "source": "엑스포츠·TF1 공개 정보",
       "title": "5시간 기다린 프랑스 취재진에 그리즈만 “아무와도 얘기하고 싶지 않다”",
@@ -30931,748 +31641,7 @@
         "parser_revision": 7
       },
       "curation_event_key": "seoul-guryong-village-fire-response-stage-two-20261027"
-    },
-    "3833f6a489bf": {
-      "source": "OSEN 현장 취재·머니투데이",
-      "title": "MVP 감자칩5박스 받았는데…카스트로 “사람들이 다 가져가 하나도 없다”",
-      "link": "https://www.mt.co.kr/sports/2026/10/27/202610262239772620O",
-      "first_seen_at": 1793077696,
-      "last_seen_at": 1793077696,
-      "samples": [
-        {
-          "at": 1793077696,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "3833f6a489bf",
-      "editorial": {
-        "title": "MVP 감자칩5박스 받았는데…카스트로 “사람들이 다 가져가 하나도 없다”",
-        "category": "메이저 스포츠",
-        "url": "https://www.mt.co.kr/sports/2026/10/27/202610262239772620O",
-        "source": "OSEN 현장 취재·머니투데이",
-        "kind": "article",
-        "event_key": "castro-playoff-mvp-potato-chip-prize-locker-teammates-20261026",
-        "why": "야구 친구에게 보낼 MVP의 귀여운 고충. 대형 과자봉지를 메고 상은 받았는데 인터뷰가 끝나니 라커의 감자칩이 하나도 없었다는 본인의 농담이다.",
-        "angle": "홈런 친 MVP에게 감자칩5박스…인터뷰 다녀오니0개?",
-        "why_now": "26일 경기 후 수상·인터뷰가 공개됐고27일 현장 취재 본문과 실제 시상 사진을 확인했다. 일반 경기 결과가 아닌 상품 뒷이야기다.",
-        "verified_at": 1793077607,
-        "published_at": 1793027400,
-        "evidence": [
-          {
-            "url": "https://www.mt.co.kr/sports/2026/10/27/202610262239772620O",
-            "note": "OSEN 실제 사진에서 카스트로가 대형 감자칩 봉지 모형을 메고 웃는 시상 모습을 직접 확인. 본문에서 감자칩5박스와 “사람들이 다 들고 가서 하나도 없다”는 본인 인터뷰를 대조. 음성·영상은 미시청."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://menu.mt.co.kr/cdn-cgi/image/f=webp/mobile/osen/data/2026/10/26/202610262239772620_4.jpg",
-            "label": "실제 감자칩 시상 사진",
-            "kind": "image"
-          },
-          {
-            "url": "https://www.mt.co.kr/sports/2026/10/27/202610262239772620O",
-            "label": "현장 인터뷰 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "시상 사진·본문 인터뷰 대조만 확인. 도난 사건으로 쓰지 않으며 동료 개인을 범인처럼 특정하지 않음.",
-        "readiness": {
-          "mode": "scene",
-          "event_date": "2026-10-26",
-          "observation": "OSEN 실제 사진에서 카스트로가 대형 감자칩 봉지 모형을 메고 웃는 시상 모습을 직접 확인. 본문에서 감자칩5박스와 “사람들이 다 들고 가서 하나도 없다”는 본인 인터뷰를 대조. 음성·영상은 미시청.",
-          "checked_materials": [
-            "https://menu.mt.co.kr/cdn-cgi/image/f=webp/mobile/osen/data/2026/10/26/202610262239772620_4.jpg"
-          ],
-          "outline": [
-            "대형 감자칩 봉지를 멘 실제 카스트로 시상 사진",
-            "MVP·타격감상과 별도로 받은 감자칩5박스라는 상품 설명",
-            "“인터뷰 끝나고 가보니 하나도 없다” 본문 발언을 인용해 회수"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [
-          {
-            "url": "https://menu.mt.co.kr/cdn-cgi/image/f=webp/mobile/osen/data/2026/10/26/202610262239772620_4.jpg",
-            "label": "실제 감자칩 시상 사진",
-            "kind": "image"
-          }
-        ],
-        "source_links": [
-          {
-            "label": "실제 감자칩 시상 사진",
-            "url": "https://menu.mt.co.kr/cdn-cgi/image/f=webp/mobile/osen/data/2026/10/26/202610262239772620_4.jpg"
-          },
-          {
-            "label": "현장 인터뷰 원문",
-            "url": "https://www.mt.co.kr/sports/2026/10/27/202610262239772620O"
-          }
-        ],
-        "excerpt": "",
-        "context": "26일 경기 후 수상·인터뷰가 공개됐고27일 현장 취재 본문과 실제 시상 사진을 확인했다. 일반 경기 결과가 아닌 상품 뒷이야기다.",
-        "fetched_at": 1793077696,
-        "parser_revision": 7
-      },
-      "curation_event_key": "castro-playoff-mvp-potato-chip-prize-locker-teammates-20261026"
-    },
-    "82055a27d006": {
-      "source": "연합뉴스 국감 취재",
-      "title": "마사지 안 고르면 산후조리원 예약도 못 한다? 장관 “조사·공개”",
-      "link": "https://www.yna.co.kr/view/AKR20261027091151530?section=society%2Fall",
-      "first_seen_at": 1793077696,
-      "last_seen_at": 1793077696,
-      "samples": [
-        {
-          "at": 1793077696,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "82055a27d006",
-      "editorial": {
-        "title": "마사지 안 고르면 산후조리원 예약도 못 한다? 장관 “조사·공개”",
-        "category": "시사",
-        "url": "https://www.yna.co.kr/view/AKR20261027091151530?section=society%2Fall",
-        "source": "연합뉴스 국감 취재",
-        "kind": "article",
-        "event_key": "postpartum-center-massage-bundling-fees-probe-response-20261027",
-        "why": "출산 준비하는 친구에게 보낼 선택 아닌 선택. 일부 조리원이 비싼 마사지를 선택해야 예약을 받는다는 지적에 장관이 부가서비스 가격 조사·공개를 약속했다.",
-        "angle": "예약하려면 고가 마사지도 골라야 한다는 지적…선택 서비스 맞나?",
-        "why_now": "27일 국감에서 예약 연계 문제 지적과 장관의 조사·정보 공개 답변이 새로 나왔다. 실제 조사 완료·제재 발표와 구분한다.",
-        "verified_at": 1793077217,
-        "published_at": 1793073994,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261027091151530?section=society%2Fall",
-            "note": "백선희 의원의 일부 조리원 고가 부가서비스 예약 연계 지적, 정은경 장관의 요금 조사·공개 및 소비자기관·공정위 협의 답변을 본문 확인."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261027091151530?section=society%2Fall",
-            "label": "취재 본문·확인 근거",
-            "kind": "source"
-          }
-        ],
-        "caution": "일부 조리원 관행은 의원 지적. 조사 결과·위법 확정·전면 가격 통제가 이미 이뤄졌다고 쓰지 않음.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-27",
-          "observation": "백선희 의원의 일부 조리원 고가 부가서비스 예약 연계 지적, 정은경 장관의 요금 조사·공개 및 소비자기관·공정위 협의 답변을 본문 확인.",
-          "checked_materials": [],
-          "outline": [
-            "의원이 지적한 마사지 선택과 예약 접수의 연결",
-            "현재 조리원 기본 요금 조사는 있지만 부가서비스 조사는 빠졌다는 지적",
-            "장관의 조사·정보 공개 약속과 불공정거래 개선 협의 답변"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "취재 본문·확인 근거",
-            "url": "https://www.yna.co.kr/view/AKR20261027091151530?section=society%2Fall"
-          }
-        ],
-        "excerpt": "",
-        "context": "27일 국감에서 예약 연계 문제 지적과 장관의 조사·정보 공개 답변이 새로 나왔다. 실제 조사 완료·제재 발표와 구분한다.",
-        "fetched_at": 1793077696,
-        "parser_revision": 7
-      },
-      "curation_event_key": "postpartum-center-massage-bundling-fees-probe-response-20261027"
-    },
-    "a81fa4a22fc3": {
-      "source": "연합뉴스·강원경찰청",
-      "title": "“물이 차오른다,백마고지 방면”…짧은 말로 찾은 침수 트럭",
-      "link": "https://www.yna.co.kr/view/AKR20261027077600062?section=society%2Fall",
-      "first_seen_at": 1793077696,
-      "last_seen_at": 1793077696,
-      "samples": [
-        {
-          "at": 1793077696,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "a81fa4a22fc3",
-      "editorial": {
-        "title": "“물이 차오른다,백마고지 방면”…짧은 말로 찾은 침수 트럭",
-        "category": "시사",
-        "url": "https://www.yna.co.kr/view/AKR20261027077600062?section=society%2Fall",
-        "source": "연합뉴스·강원경찰청",
-        "kind": "article",
-        "event_key": "cheorwon-reservoir-truck-rescue-baekma-location-clue-disclosure-20261027",
-        "why": "친구에게 보낼 한마디 단서의 반전. 위치도 못 말하던 운전자의 “백마고지 방면”만 듣고 경찰이 저수지 속 트럭을 찾아 창문을 깼다.",
-        "angle": "주소 대신 “백마고지 방면”…잠긴 운전석을 찾아낸 순찰차3대",
-        "why_now": "구조는9월13일,27일 경찰 공개 취재에서 경위와 구조자 발언을 확인했다. 오늘 난 사고로 바꾸지 않는다.",
-        "verified_at": 1793077217,
-        "published_at": 1793066997,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261027077600062?section=society%2Fall",
-            "note": "경찰 공개 본문에서9월13일 신고·위치 단서,순찰차3대 수색,조수석 창문 파손 후 경찰 진입·119구조대 구조를 확인. 경찰과119의 역할을 나눠 기록했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261027077600062?section=society%2Fall",
-            "label": "취재 본문·확인 근거",
-            "kind": "source"
-          }
-        ],
-        "caution": "9월13일 사건,27일 경위 공개. 경찰 혼자 최종 구조했다고 쓰지 않고119역할 구분. 영상 미확인.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-27",
-          "observation": "경찰 공개 본문에서9월13일 신고·위치 단서,순찰차3대 수색,조수석 창문 파손 후 경찰 진입·119구조대 구조를 확인. 경찰과119의 역할을 나눠 기록했다.",
-          "checked_materials": [],
-          "outline": [
-            "위치를 못 밝히던70대 운전자의 “백마고지 방면” 신고",
-            "순찰차3대가 대마리 일대에서 찾은 저수지 속 포터",
-            "경찰의 창문 파손·상태 확인 뒤119가 운전자를 구조한 순서"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "취재 본문·확인 근거",
-            "url": "https://www.yna.co.kr/view/AKR20261027077600062?section=society%2Fall"
-          }
-        ],
-        "excerpt": "",
-        "context": "구조는9월13일,27일 경찰 공개 취재에서 경위와 구조자 발언을 확인했다. 오늘 난 사고로 바꾸지 않는다.",
-        "fetched_at": 1793077696,
-        "parser_revision": 7
-      },
-      "curation_event_key": "cheorwon-reservoir-truck-rescue-baekma-location-clue-disclosure-20261027"
-    },
-    "8b2fc3522763": {
-      "source": "포포투 하노이 직접 인터뷰",
-      "title": "우승 뒤 황문기 부상 비판받은 김진수 “분명 내 잘못,수술 뒤 직접 사과”",
-      "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99910",
-      "first_seen_at": 1793077696,
-      "last_seen_at": 1793077696,
-      "samples": [
-        {
-          "at": 1793077696,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "8b2fc3522763",
-      "editorial": {
-        "title": "우승 뒤 황문기 부상 비판받은 김진수 “분명 내 잘못,수술 뒤 직접 사과”",
-        "category": "축구",
-        "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99910",
-        "source": "포포투 하노이 직접 인터뷰",
-        "kind": "article",
-        "event_key": "kim-jin-su-apology-hwang-mun-gi-injury-hanoi-interview-20261027",
-        "why": "국축 친구에게 보낼 당사자의 직접 답변. 우승한 팀 주장에게 쏟아진 부상 책임 비판에 본인이 잘못을 인정하고 통화·병문안 약속까지 밝혔다.",
-        "angle": "“고의는 아니지만 분명 내 잘못”…라커룸 통화와 병문안 약속",
-        "why_now": "26일 하노이 훈련 후 진행된 인터뷰가27일13:15 처음 확인된 원 취재로 공개됐다. 지난 주말 충돌 장면 재기사가 아니다.",
-        "verified_at": 1793077217,
-        "published_at": 1793074515,
-        "evidence": [
-          {
-            "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99910",
-            "note": "포포투 직접 문답에서 본인의 잘못 인정,황문기·정경호 감독 통화,수술 후 병문안 약속을 확인. 고의 부인과 책임 인정 발언을 함께 남겼다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99910",
-            "label": "취재 본문·확인 근거",
-            "kind": "source"
-          }
-        ],
-        "caution": "사과·통화 경위는 본인 설명. 고의 가해 확정·병문안 완료라고 쓰지 않으며 가족 악성댓글을 정당화하지 않음.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-26",
-          "observation": "포포투 직접 문답에서 본인의 잘못 인정,황문기·정경호 감독 통화,수술 후 병문안 약속을 확인. 고의 부인과 책임 인정 발언을 함께 남겼다.",
-          "checked_materials": [],
-          "outline": [
-            "강원전 경합 뒤 황문기 부상으로 비판받은 배경",
-            "김진수 “고의 아니지만 잘못” 및 라커룸 전화 사과 설명",
-            "수술 뒤 직접 만나 다시 사과하겠다는 약속과 아직 예정인 병문안"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "취재 본문·확인 근거",
-            "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99910"
-          }
-        ],
-        "excerpt": "",
-        "context": "26일 하노이 훈련 후 진행된 인터뷰가27일13:15 처음 확인된 원 취재로 공개됐다. 지난 주말 충돌 장면 재기사가 아니다.",
-        "fetched_at": 1793077696,
-        "parser_revision": 7
-      },
-      "curation_event_key": "kim-jin-su-apology-hwang-mun-gi-injury-hanoi-interview-20261027"
-    },
-    "b0674327d309": {
-      "source": "연합뉴스 직접 취재",
-      "title": "김해공항 줄 서다 가방에 불…소화기 가져온 옆 승객이 진화",
-      "link": "https://www.yna.co.kr/view/AKR20261027083600051?section=industry%2Fall",
-      "first_seen_at": 1793077696,
-      "last_seen_at": 1793077696,
-      "samples": [
-        {
-          "at": 1793077696,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "b0674327d309",
-      "editorial": {
-        "title": "김해공항 줄 서다 가방에 불…소화기 가져온 옆 승객이 진화",
-        "category": "시사",
-        "url": "https://www.yna.co.kr/view/AKR20261027083600051?section=industry%2Fall",
-        "source": "연합뉴스 직접 취재",
-        "kind": "article",
-        "event_key": "gimhae-airport-checkin-powerbank-fire-passenger-extinguishes-disclosure-20261027",
-        "why": "여행 친구에게 보낼 탑승 전의 아찔한 상황. 비행기 안이 아니라 체크인 줄에서 충전하던 가방이 타자 옆 승객이 소화기를 가져와 껐다.",
-        "angle": "탑승하기도 전에 가방 발화…함께 줄 서던 승객이 껐다",
-        "why_now": "화재는23일19:30,27일 직접 취재로 뒤늦게 경위·목격자·항공사 답변이 공개됐다. 다른 공항 배터리 사고와 분리한다.",
-        "verified_at": 1793077217,
-        "published_at": 1793068347,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261027083600051?section=industry%2Fall",
-            "note": "27일 취재 본문에서23일 체크인 줄 가방 속 충전 중 배터리 발화,승객 진화,직원의 관계기관 신고 설명과 소화기 배치에 대한 공항 측 답변을 대조."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261027083600051?section=industry%2Fall",
-            "label": "취재 본문·확인 근거",
-            "kind": "source"
-          }
-        ],
-        "caution": "23일 사고,27일 취재 공개. 직원 방치·소화기 미비를 단정하지 않음. 인천공항 빵봉지 방화와 다른 사건.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-27",
-          "observation": "27일 취재 본문에서23일 체크인 줄 가방 속 충전 중 배터리 발화,승객 진화,직원의 관계기관 신고 설명과 소화기 배치에 대한 공항 측 답변을 대조.",
-          "checked_materials": [],
-          "outline": [
-            "23일 김해공항 국제선 체크인 줄에서 충전 중 가방 발화",
-            "옆 승객이 소화기를 가져와 진화했다는 목격자 설명",
-            "항공사의 즉시 신고·매뉴얼 조치 주장과 공항 소화기 배치 답변"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "취재 본문·확인 근거",
-            "url": "https://www.yna.co.kr/view/AKR20261027083600051?section=industry%2Fall"
-          }
-        ],
-        "excerpt": "",
-        "context": "화재는23일19:30,27일 직접 취재로 뒤늦게 경위·목격자·항공사 답변이 공개됐다. 다른 공항 배터리 사고와 분리한다.",
-        "fetched_at": 1793077696,
-        "parser_revision": 7
-      },
-      "curation_event_key": "gimhae-airport-checkin-powerbank-fire-passenger-extinguishes-disclosure-20261027"
-    },
-    "71c4b09501ce": {
-      "source": "연합뉴스 법원 현장 취재",
-      "title": "정계 떠난 홍준표,측근 영장심사 변호…“저런 식이면 연말에 돌아갈 수도”",
-      "link": "https://www.yna.co.kr/view/AKR20261027066551053?section=society%2Fall",
-      "first_seen_at": 1793077696,
-      "last_seen_at": 1793077696,
-      "samples": [
-        {
-          "at": 1793077696,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "71c4b09501ce",
-      "editorial": {
-        "title": "정계 떠난 홍준표,측근 영장심사 변호…“저런 식이면 연말에 돌아갈 수도”",
-        "category": "시사",
-        "url": "https://www.yna.co.kr/view/AKR20261027066551053?section=society%2Fall",
-        "source": "연합뉴스 법원 현장 취재",
-        "kind": "article",
-        "event_key": "hong-joon-pyo-defends-aides-warrant-hearing-return-remark-20261027",
-        "why": "시사 친구에게 보낼 은퇴 정치인의 역할 반전. 측근 영장심사에 정치인이 아닌 변호인으로 와 직접 변론하고 정계 복귀 가능성까지 언급했다.",
-        "angle": "은퇴한 전 시장이 법정 변호인으로…“내 직원이잖아”",
-        "why_now": "27일 법정 출석·변론 뒤 직접 발언이 새 사실이다. 구속 여부와 수사 의혹의 유무죄는 아직 결론 나지 않았다.",
-        "verified_at": 1793077217,
-        "published_at": 1793076754,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261027066551053?section=society%2Fall",
-            "note": "현장 본문에서27일 측근2명 영장심사 변호인 참석,실제 거래 증거 제출 주장,경찰 수사 비판과 “연말에 다시 돌아가는 수” 발언을 확인."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261027066551053?section=society%2Fall",
-            "label": "취재 본문·확인 근거",
-            "kind": "source"
-          }
-        ],
-        "caution": "가공 거래 여부는 경찰 혐의와 당사자 반박이 대립. 복귀 확정·측근 구속 확정으로 쓰지 않음.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-27",
-          "observation": "현장 본문에서27일 측근2명 영장심사 변호인 참석,실제 거래 증거 제출 주장,경찰 수사 비판과 “연말에 다시 돌아가는 수” 발언을 확인.",
-          "checked_materials": [],
-          "outline": [
-            "측근 정치자금 사건 영장심사에 변호인 자격으로 출석",
-            "“내 직원이잖아” 출석 이유와 실제 거래였다는 변론 주장",
-            "“연말에 다시 돌아가는 수” 발언을 복귀 확정 발표와 구분"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "취재 본문·확인 근거",
-            "url": "https://www.yna.co.kr/view/AKR20261027066551053?section=society%2Fall"
-          }
-        ],
-        "excerpt": "",
-        "context": "27일 법정 출석·변론 뒤 직접 발언이 새 사실이다. 구속 여부와 수사 의혹의 유무죄는 아직 결론 나지 않았다.",
-        "fetched_at": 1793077696,
-        "parser_revision": 7
-      },
-      "curation_event_key": "hong-joon-pyo-defends-aides-warrant-hearing-return-remark-20261027"
-    },
-    "18b830b0fdf9": {
-      "source": "연합뉴스 경찰 취재",
-      "title": "음주운전 적발된 현직 서울고법 판사…오늘 불구속 송치",
-      "link": "https://www.yna.co.kr/view/AKR20261027099500004?section=society%2Fall",
-      "first_seen_at": 1793077696,
-      "last_seen_at": 1793077696,
-      "samples": [
-        {
-          "at": 1793077696,
-          "views": null,
-          "reactions": null,
-          "rank": 7,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "18b830b0fdf9",
-      "editorial": {
-        "title": "음주운전 적발된 현직 서울고법 판사…오늘 불구속 송치",
-        "category": "시사",
-        "url": "https://www.yna.co.kr/view/AKR20261027099500004?section=society%2Fall",
-        "source": "연합뉴스 경찰 취재",
-        "kind": "article",
-        "event_key": "seoul-high-court-judge-drink-driving-referral-20261027",
-        "why": "사회 이슈 친구에게 보낼 법을 판단하는 직업과 실제 혐의의 모순. 현직 고법 판사가 면허정지 수준 음주운전 혐의로 수사기관에 넘겨졌다.",
-        "angle": "판결하는 고법 판사 본인이 음주운전 혐의로 송치",
-        "why_now": "적발은9월9일,새 사실은27일 서울중앙지방공소청 불구속 송치다. 새 발생 사고나 유죄 확정으로 다루지 않는다.",
-        "verified_at": 1793077217,
-        "published_at": 1793072729,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261027099500004?section=society%2Fall",
-            "note": "경찰 취재 본문에서 서울고법 판사27일 불구속 송치,9월9일06시경 서초구 음주운전 혐의,혈중알코올농도 면허정지 수준 설명을 확인."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261027099500004?section=society%2Fall",
-            "label": "취재 본문·확인 근거",
-            "kind": "source"
-          }
-        ],
-        "caution": "송치는 유죄 확정 아님. 판사 이름·혈중농도 수치·특정 판결 이력은 미공개로 추정하지 않음.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-27",
-          "observation": "경찰 취재 본문에서 서울고법 판사27일 불구속 송치,9월9일06시경 서초구 음주운전 혐의,혈중알코올농도 면허정지 수준 설명을 확인.",
-          "checked_materials": [],
-          "outline": [
-            "현직 서울고법 판사라는 신분과 음주운전 혐의",
-            "9월9일 적발과27일 불구속 송치의 시간 구분",
-            "면허정지 수준 설명 및 아직 유죄 확정이 아닌 수사 단계"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "취재 본문·확인 근거",
-            "url": "https://www.yna.co.kr/view/AKR20261027099500004?section=society%2Fall"
-          }
-        ],
-        "excerpt": "",
-        "context": "적발은9월9일,새 사실은27일 서울중앙지방공소청 불구속 송치다. 새 발생 사고나 유죄 확정으로 다루지 않는다.",
-        "fetched_at": 1793077696,
-        "parser_revision": 7
-      },
-      "curation_event_key": "seoul-high-court-judge-drink-driving-referral-20261027"
-    },
-    "e598c18a127a": {
-      "source": "NH농협은행 분석·디지털타임스",
-      "title": "월급 통장 하루 뒤57%,한 달 뒤3%…“스쳐가는 월급” 실제 잔액 분석",
-      "link": "https://n.news.naver.com/article/029/0003055412",
-      "first_seen_at": 1793077696,
-      "last_seen_at": 1793077696,
-      "samples": [
-        {
-          "at": 1793077696,
-          "views": null,
-          "reactions": null,
-          "rank": 8,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "e598c18a127a",
-      "editorial": {
-        "title": "월급 통장 하루 뒤57%,한 달 뒤3%…“스쳐가는 월급” 실제 잔액 분석",
-        "category": "시사",
-        "url": "https://n.news.naver.com/article/029/0003055412",
-        "source": "NH농협은행 분석·디지털타임스",
-        "kind": "article",
-        "event_key": "nh-bank-salary-account-outflow-analysis-20261027",
-        "why": "직장인 친구에게 보낼 통장 공감. 월급 받은 다음 날부터 잔액이 급격히 줄지만 이 돈이 전부 소비로 증발했다는 뜻은 아니라는 점까지 짚는다.",
-        "angle": "월급날100→다음날57→한달뒤3…내 통장만 그런 게 아니었다?",
-        "why_now": "27일 공개된 NH농협은행 상반기 급여 이체 고객 분석을 확인했다. 거시 경제지표가 아닌 실제 월급통장의 유출 흐름이다.",
-        "verified_at": 1793077262,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://n.news.naver.com/article/029/0003055412",
-            "note": "NH급여 고객 조건·기간·급여 대비 잔액 비율 확인. 잔액 기준 연령별 비율과 급여 대비 비율 구분."
-          },
-          {
-            "url": "https://www.slist.kr/news/articleView.html?idxno=776554",
-            "note": "27일06:56 공개된 독립 본문에서 NH분석 당일 공개와57% 잔액·3% 잔액 수치 대조."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://n.news.naver.com/article/029/0003055412",
-            "label": "취재 본문·확인 근거",
-            "kind": "source"
-          }
-        ],
-        "caution": "NH급여 고객 표본. 잔액 감소를 전부 소비·자산손실로 단정하지 않으며20대 잔액 기준 비율과 혼용 금지.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-27",
-          "observation": "세후100만원 이상 급여 고객의1~6월 데이터에서 급여 대비 잔액이 하루 뒤57%,닷새35%,열흘22%,한달3%라는 본문을 확인. 전체 자산·소비액과 통장 잔액은 다르다.",
-          "checked_materials": [],
-          "outline": [
-            "급여를 기준100으로 두고 하루 뒤57만 남는 통장 흐름",
-            "닷새35·열흘22·한달3이라는 월급 대비 잔액 비교",
-            "저축·이체 포함 여부를 단정할 수 없어 소비·낭비와 구분"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "취재 본문·확인 근거",
-            "url": "https://n.news.naver.com/article/029/0003055412"
-          }
-        ],
-        "excerpt": "",
-        "context": "27일 공개된 NH농협은행 상반기 급여 이체 고객 분석을 확인했다. 거시 경제지표가 아닌 실제 월급통장의 유출 흐름이다.",
-        "fetched_at": 1793077696,
-        "parser_revision": 7
-      },
-      "curation_event_key": "nh-bank-salary-account-outflow-analysis-20261027"
-    },
-    "933c25e0fe94": {
-      "source": "연합뉴스·이태원특조위 중간보고",
-      "title": "“재난부처 될까” 지시55분 전파 안 했다? 이태원 특조위 새 조사",
-      "link": "https://www.yna.co.kr/view/AKR20261027106100004?section=society%2Fall",
-      "first_seen_at": 1793077696,
-      "last_seen_at": 1793077696,
-      "samples": [
-        {
-          "at": 1793077696,
-          "views": null,
-          "reactions": null,
-          "rank": 9,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "933c25e0fe94",
-      "editorial": {
-        "title": "“재난부처 될까” 지시55분 전파 안 했다? 이태원 특조위 새 조사",
-        "category": "시사",
-        "url": "https://www.yna.co.kr/view/AKR20261027106100004?section=society%2Fall",
-        "source": "연합뉴스·이태원특조위 중간보고",
-        "kind": "article",
-        "event_key": "itaewon-special-commission-delayed-instructions-interim-findings-20261027",
-        "why": "시사 친구에게 보낼 재난 대응의 구체적 모순. 지시를 빨리 전해야 할 상황실에서 책임 부처가 될까 걱정했다는 발언을 조사위가 제시했다.",
-        "angle": "대통령 지시55분 미전파…“행안부가 재난부처가 될 것 같다” 발언 주장",
-        "why_now": "27일 중간보고회에서 조사 결과·확보 진술이 공개됐다.2022년 참사 자체나 예정된12월 조사를 이미 끝난 것처럼 쓰지 않는다.",
-        "verified_at": 1793077453,
-        "published_at": 1793076853,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261027106100004?section=society%2Fall",
-            "note": "특조위의27일 발표에서 장관 보고43분 지연·대통령 지시55분 미전파와 당시 상황실 발언 주장을 확인. 중대본 결정 회의와 첫 회의 시각 차이도 대조."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261027106100004?section=society%2Fall",
-            "label": "취재 본문·확인 근거",
-            "kind": "source"
-          }
-        ],
-        "caution": "특조위 중간 조사·확보 진술 단계. 개별 발언·의혹을 확정 판결처럼 쓰지 않으며 본인 답변 미확인.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-27",
-          "observation": "특조위의27일 발표에서 장관 보고43분 지연·대통령 지시55분 미전파와 당시 상황실 발언 주장을 확인. 중대본 결정 회의와 첫 회의 시각 차이도 대조.",
-          "checked_materials": [],
-          "outline": [
-            "상황실 인지22:48에서 장관 첫 보고까지43분이라는 조사 결과",
-            "대통령 지시55분 미전파와 “재난부처” 발언을 특조위 주장으로 귀속",
-            "윤석열·이상민12월 직접 조사 계획과 아직 남은 검증 단계"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "취재 본문·확인 근거",
-            "url": "https://www.yna.co.kr/view/AKR20261027106100004?section=society%2Fall"
-          }
-        ],
-        "excerpt": "",
-        "context": "27일 중간보고회에서 조사 결과·확보 진술이 공개됐다.2022년 참사 자체나 예정된12월 조사를 이미 끝난 것처럼 쓰지 않는다.",
-        "fetched_at": 1793077696,
-        "parser_revision": 7
-      },
-      "curation_event_key": "itaewon-special-commission-delayed-instructions-interim-findings-20261027"
-    },
-    "c5aaa50ca683": {
-      "source": "연합뉴스·법무부 언론 공지",
-      "title": "전자발찌 위반 송치 늘자 “관리 부실”…법무부는 “단속 강화 결과”",
-      "link": "https://www.yna.co.kr/view/AKR20261027093300004?section=society%2Fall",
-      "first_seen_at": 1793077696,
-      "last_seen_at": 1793077696,
-      "samples": [
-        {
-          "at": 1793077696,
-          "views": null,
-          "reactions": null,
-          "rank": 10,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "c5aaa50ca683",
-      "editorial": {
-        "title": "전자발찌 위반 송치 늘자 “관리 부실”…법무부는 “단속 강화 결과”",
-        "category": "시사",
-        "url": "https://www.yna.co.kr/view/AKR20261027093300004?section=society%2Fall",
-        "source": "연합뉴스·법무부 언론 공지",
-        "kind": "article",
-        "event_key": "justice-ministry-electronic-monitoring-violation-statistics-rebuttal-20261026",
-        "why": "통계 논쟁을 공유할 친구에게 보낼 반대 해석. 전자발찌 위반 증가를 관리 실패로 보는 지적에 정부는 위반을 더 찾아낸 성과라고 맞섰다.",
-        "angle": "송치 증가=범죄 폭증? 법무부 “단속해 빠짐없이 넘긴 결과”",
-        "why_now": "26일 법무부 언론 공지가27일 취재 본문에서 확인됐다. 미발송24/48시간 범위로 검토하며 재기사 시각을 최초 공개로 바꾸지 않는다.",
-        "verified_at": 1793077262,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261027093300004?section=society%2Fall",
-            "note": "고위험 비율30→15% 하향 뒤 범죄 증가 보도에 법무부가26일 반박. 준수사항 위반 송치와 성폭력 동종 재범을 구분하고 각각의 정부 설명을 확인."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261027093300004?section=society%2Fall",
-            "label": "취재 본문·확인 근거",
-            "kind": "source"
-          }
-        ],
-        "caution": "정부 반박의 타당성을 독립 검증한 것은 아님. 준수사항 위반 송치와 모든 재범을 혼용하지 않음.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-26",
-          "observation": "고위험 비율30→15% 하향 뒤 범죄 증가 보도에 법무부가26일 반박. 준수사항 위반 송치와 성폭력 동종 재범을 구분하고 각각의 정부 설명을 확인.",
-          "checked_materials": [],
-          "outline": [
-            "고위험 비율 하향 뒤 위반 증가라는 앞선 보도 지적",
-            "법무부의 전담수사팀 단속 강화·송치 확대 설명",
-            "성폭력 동종 재범과 장치 훼손·준수사항 위반을 같은 통계로 섞지 않기"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "취재 본문·확인 근거",
-            "url": "https://www.yna.co.kr/view/AKR20261027093300004?section=society%2Fall"
-          }
-        ],
-        "excerpt": "",
-        "context": "26일 법무부 언론 공지가27일 취재 본문에서 확인됐다. 미발송24/48시간 범위로 검토하며 재기사 시각을 최초 공개로 바꾸지 않는다.",
-        "fetched_at": 1793077696,
-        "parser_revision": 7
-      },
-      "curation_event_key": "justice-ministry-electronic-monitoring-violation-statistics-rebuttal-20261026"
     }
   },
-  "updated_at": 1793671979
+  "updated_at": 1793682710
 }
