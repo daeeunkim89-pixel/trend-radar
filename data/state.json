@@ -1,5 +1,5 @@
 {
-  "updated_at": 1793770598,
+  "updated_at": 1793772194,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026110405",
+    "hour_utc": "2026110406",
     "category_counts": {
-      "시사": 2,
-      "축구": 3,
-      "메이저 스포츠": 0,
+      "시사": 0,
+      "축구": 4,
+      "메이저 스포츠": 1,
       "아이돌": 0
     },
-    "research_queries": 27,
-    "opened_sources": 12,
+    "research_queries": 14,
+    "opened_sources": 7,
     "picks": [
       {
-        "title": "17분 만에 4골…PSG, 비야레알 6대0 완파하며 챔스 기록 경신",
-        "url": "https://www.psg.fr/matchs/football-masculin/20262027/villarreal-vs-paris-2026-11-03",
-        "event_key": "psg-villarreal-ucl-four-goals-16m02-6-0-20261103"
+        "title": "9경기 무승 끊은 맨유…쿠냐 멀티골로 로마에 0대2→3대2 역전",
+        "url": "https://www.skysports.com/football/news/13607206/man-utd-3-2-roma-matheus-cunha-scores-two-and-is-sent-off-in-wild-comeback-to-end-nine-game-winless-run",
+        "event_key": "manutd-roma-ucl-comeback-cunha-brace-red-nine-winless-ended-20261103"
       },
       {
-        "title": "김민재·이강인 챔스 맞대결…뮌헨, 아틀레티코 원정서 2대0 승리",
-        "url": "https://news.tf.co.kr/read/soccer/2384474.htm",
-        "event_key": "bayern-atletico-ucl-kim-lee-korean-derby-2-0-20261103"
+        "title": "아시안컵 연기 여파…일본 언론 ‘모리야스, 대회 못 치르고 연말 퇴임 전망’",
+        "url": "https://www.newspim.com/news/view/20261104000966",
+        "event_key": "moriyasu-year-end-departure-projection-after-asian-cup-delay-20261104"
       },
       {
-        "title": "강등 뒤에도 2부 8위…웨스트햄, 누누 감독 경질",
-        "url": "https://www.skysports.com/football/news/13606997/west-ham-nuno-espirito-santo-sacked-by-hammers-with-club-sitting-in-eighth-place-in-the-championship",
-        "event_key": "west-ham-nuno-espirito-santo-sacked-20261103"
+        "title": "시애틀, 감독 경험 없는 36세 캔즐러 선임…MLB 두 번째 30대 사령탑",
+        "url": "https://www.yna.co.kr/amp/view/AKR20261104034100007",
+        "event_key": "seattle-mariners-jason-kanzler-manager-hired-20261103"
       },
       {
-        "title": "NBC “민주당, 美 상·하원 다수당 모두 탈환” 예측",
-        "url": "https://www.newsis.com/view/NISX20261104_0003854506",
-        "event_key": "us-midterms-nbc-projects-democrats-house-senate-majorities-20261104"
+        "title": "야말, 챔스 10대 최다득점 기록…바르사, 빌라의 전승 행진 저지",
+        "url": "https://www.fcbarcelona.com/en/news/4603860/fc-barcelona-3-0-aston-villa-three-goals-three-points",
+        "event_key": "barcelona-villa-ucl-yamal-teen-scoring-record-3-0-20261103"
       },
       {
-        "title": "대통령 부부 포함 168명 정보 유출…경찰 정식 수사·여권 재발급",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008829317",
-        "event_key": "presidential-flight-168-data-leak-police-investigation-passport-reissue-20261103"
+        "title": "리버풀 그라벤베르흐 발뒤꿈치 골절…챔스 원정 제외·복귀일 미정",
+        "url": "https://www.liverpoolfc.com/news/andoni-iraola-explains-ryan-gravenberch-injury-and-timeframe",
+        "event_key": "liverpool-gravenberch-heel-fracture-fenerbahce-excluded-20261103"
       }
     ]
   }
