@@ -1,5 +1,5 @@
 {
-  "updated_at": 1793783405,
+  "updated_at": 1793786753,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026110409",
+    "hour_utc": "2026110410",
     "category_counts": {
-      "시사": 2,
-      "축구": 2,
-      "메이저 스포츠": 1,
+      "시사": 3,
+      "축구": 0,
+      "메이저 스포츠": 2,
       "아이돌": 0
     },
-    "research_queries": 22,
+    "research_queries": 30,
     "opened_sources": 7,
     "picks": [
       {
-        "title": "살리바, 월드컵 부상 뒤 복귀 준비 끝…아르테타 ‘출전 가능’",
-        "url": "https://arseblog.news/2026/11/arteta-saliba-ready-to-go-after-three-month-absence/",
-        "event_key": "arsenal-saliba-full-training-match-ready-arteta-20261103"
+        "title": "MLB, 샐러리캡 2028년 도입 제안…선수노조는 여전히 반대",
+        "url": "https://frontofficesports.com/article/mlb-raises-salary-cap-offer-pushes-start-back-to-2028/",
+        "event_key": "mlb-salary-cap-floor-2028-delay-raised-proposal-20261103"
       },
       {
-        "title": "아시안컵 연기 여파…축구협회 ‘모레노 정식 계약은 차기 집행부 몫’",
-        "url": "https://www.yna.co.kr/view/AKR20261103167700007",
-        "event_key": "kfa-moreno-contract-next-executive-after-asian-cup-delay-20261103"
+        "title": "하스, 오콘 남은 시즌도 출전 제외…카마라 브라질서 F1 데뷔",
+        "url": "https://www.formula1.com/en/latest/article/f2-racer-camara-to-make-f1-debut-at-sao-paulo-grand-prix-as-haas-confirm-ocon-will-not-return.12Qa0tpaMZ9kgnEuGJBKFp",
+        "event_key": "haas-ocon-no-return-rest-season-camara-brazil-debut-confirmed-20261103"
       },
       {
-        "title": "39세 조코비치, 파리 마스터스 최고령 승리…파이널스 도전 이어간다",
-        "url": "https://www.abc.net.au/news/2026-11-04/tennis-djokovic-oldest-winner-paris-masters-hijikata-clash-next/107343944",
-        "event_key": "djokovic-paris-masters-oldest-match-win-vacherot-20261103"
+        "title": "821조 예산 심사 첫날…162조 미래대응기금 놓고 여야 충돌",
+        "url": "https://www.m-i.kr/news/articleView.html?idxno=2014284",
+        "event_key": "korea-budget-hearing-future-response-fund-162trillion-clash-20261104"
       },
       {
-        "title": "‘조작기소 특검법’ 법사소위 통과…공소취소권 조항은 삭제",
-        "url": "https://www.yna.co.kr/view/AKR20261104138600001",
-        "event_key": "fabricated-prosecution-special-counsel-bill-subcommittee-passed-20261104"
+        "title": "김여정, 해킹 배후 지목에 재반발…‘대화는 선택지, 국익과는 별개’",
+        "url": "https://www.yna.co.kr/view/AKR20261104012300504",
+        "event_key": "kim-yo-jong-second-binance-statement-dialogue-conditional-20261104"
       },
       {
-        "title": "드라마 산업 12개 단체 ‘고사 위기’…5년간 1조원 지원 요구",
-        "url": "https://www.yna.co.kr/view/AKR20261104094500005",
-        "event_key": "k-drama-twelve-industry-groups-five-year-trillion-support-demand-20261104"
+        "title": "미·러·우크라 3자 종전협상 재개 예정…전력시설 공방은 계속",
+        "url": "https://peacemaker.seoul.co.kr/news/international/2026/11/04/20261104014008",
+        "event_key": "us-russia-ukraine-abu-dhabi-talks-nov10-11-new-attacks-20261103"
       }
     ]
   }
