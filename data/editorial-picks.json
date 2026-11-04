@@ -1,532 +1,65 @@
 {
   "version": 2,
-  "hour_utc": "2026110314",
+  "hour_utc": "2026110404",
   "reviewer": "ChatGPT",
-  "generated_at": 1793714997,
+  "generated_at": 1793765465,
   "coverage": {
     "queries": [
-      "\"2026.11.03\" \"축구\" \"유튜브\"",
-      "\"2026.11.03\" \"아이브\" \"예능\"",
-      "\"2026.11.03\" \"이종석\" \"장도연\"",
-      "\"November 3, 2026\" football interview controversy",
-      "\"2026.11.03\" \"유재석\" \"러닝\"",
-      "\"2026.11.03\" \"에스파\" \"닝닝\" 예능",
-      "\"2026.11.03\" \"트럼프\" \"선제 사면\"",
-      "\"2026.11.03\" \"축구\" \"분노\"",
-      "\"2026.11.03\" \"엔믹스\" \"해원\"",
-      "\"2026.11.03\" \"카리나\" \"말했다\"",
-      "\"2026.11.03\" \"안정환\" \"삭제\"",
-      "\"2026.11.03\" \"유튜브\" \"21:\"",
-      "\"2026.11.03\" \"축구\" \"20:\"",
-      "\"2026.11.03\" \"여자\" \"반전\"",
-      "\"2026.11.03\" \"대통령\" \"SNS\" \"제한\"",
-      "정동영 \"내가 피해자\" \"2026\" \"11월 3일\" 팩트체크",
-      "\"2026년 11월 3일\" \"벨리칙\"",
-      "\"Jesus de Miguel\" \"Owono\" November 2026",
-      "\"2026\" \"11월 3일\" 걸그룹 웃음 자컨",
-      "site.cdtenerife.es \"2026\" \"Jesús de Miguel\" \"3\"",
-      "\"2026.11.03\" \"아이브\" \"말\"",
-      "\"2026.11.03\" \"에스파\" \"웃음\"",
-      "\"2026.11.03\" \"정동영\" \"피해자\"",
-      "\"2026.11.03\" \"엔믹스\" \"집\"",
-      "\"2026.11.03\" \"카리나\" \"말\"",
-      "\"2026.11.03\" \"권은비\" \"최예나\"",
-      "\"Jason Cundy\" \"Everton\" \"November 3, 2026\"",
-      "\"Jason Cundy\" \"Everton\" \"November 2026\" insignificant Newcastle",
-      "\"2026.11.03\" \"130억\" \"복권\"",
-      "\"2026.11.03\" \"예나\" \"은비야\"",
-      "\"2026.11.03\" \"소득세\" \"32%\"",
-      "\"Sebastien Bassong\" \"£7\" \"November\" \"2026\"",
-      "\"2026.11.03\" \"역삼동\" \"이유\" \"방화\"",
-      "\"2026.11.03\" \"쏘나타\" \"BMW\"",
-      "site:instagram.com/bythepulse \"11월\"",
-      "\"2026.11.03\" \"박기량\" \"아이디\"",
-      "\"2026.11.03\" \"리센느\" \"실수\"",
-      "\"2026.11.03\" \"고소영\" \"돈\"",
-      "\"2026.11.03\" \"유병권\" \"김수미\"",
-      "박기량 아이디 여자알몸 오류 2026 11 3",
-      "박기량 네이버 여자알몸 11월3일",
-      "\"2026.11.03\" \"황보라\" \"5만원\"",
-      "\"2026.11.03\" \"릴리\" \"라디오스타\"",
-      "\"장동건 고소영 부부가 한 달에 한 번씩 간다는 짜장면 없는 중국집\"",
-      "\"몽클레어? 5만원!\" \"황보라\" \"2026\"",
-      "\"유병권\" \"김수미\" \"11월 3일\" \"MBC\"",
-      "\"bythepulse\" \"2026\" \"11월 3일\""
+      "스포츠 2026년 11월 4일 우승 확정 주요 뉴스",
+      "2026년 11월 4일 미국 중간선거 결과",
+      "\"2026.11.04\" \"챔피언스리그\"",
+      "\"2026.11.04\" \"한국시리즈\" \"8-7\""
     ],
     "opened_urls": [
-      "https://www.profootballnetwork.com/packers-matt-lafleur-josh-jacobs-celebration/",
-      "https://sports.yahoo.com/articles/jason-cundy-reacts-distasteful-everton-073000638.html",
-      "https://www.aol.com/articles/bill-belichick-gets-cranky-reporter-230240000.html",
-      "https://www.caughtoffside.com/2026/11/02/andy-madley-gabriel-tunnel-conversation-liverpool-arsenal/?noamp=mobile",
-      "https://www.tenasia.co.kr/article/2026110316564",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827278",
-      "https://www.clubdeportivotenerife.es/noticias/comunicado-oficial-fallecimiento-de-jesus-de-miguel",
-      "https://rfef.es/es/noticias/la-rfef-suspende-la-jornada-de-futbol-de-este-3-de-noviembre-tras-el-fallecimiento-de",
-      "https://news.einfomax.co.kr/news/articleView.html?idxno=4442747",
-      "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017337",
-      "https://www.itv.com/news/london/2026-11-02/ex-spurs-star-sebastien-bassong-convicted-of-dodging-7-tube-fare",
-      "https://uk.sports.yahoo.com/news/jason-cundy-reacts-distasteful-everton-073000638.html",
-      "https://www.reuters.com/sports/soccer/tenerife-striker-jesus-de-miguel-dies-after-collision-match-2026-11-03/",
-      "https://www.xportsnews.com/article/2214881",
-      "https://www.starnewskorea.com/broadcast-show/2026/11/03/2026110313274186635",
-      "https://www.xportsnews.com/article/2214944",
-      "https://www.fifpro.org/en/articles/2026/11/who-is-in-the-running-for-the-2026-fifpro-mens-world-11",
-      "https://www.osen.co.kr/article/G1112903291",
-      "https://www1.osen.co.kr/article/G1112903356",
-      "https://www.mt.co.kr/politics/2026/11/03/2026110312180821814",
-      "https://www.instagram.com/bythepulse/",
-      "https://www.youtube.com/@NMIXXOfficial/videos",
-      "https://www.youtube.com/@IVEstarship/videos"
+      "https://www.news1.kr/sports/baseball/6342043",
+      "https://www.mt.co.kr/sports/2026/11/04/2026110318283455560",
+      "https://www.koreabaseball.com/MediaNews/News/BreakingNews/List.aspx?tag=TBO"
     ],
     "unavailable": [
-      "공식 YouTube /videos 공개목록은 텍스트 영상정보를 제공하지 않아 장면 시청으로 간주하지 않음",
-      "BTP Instagram 프로필 공개 열람 throttled: 최근 확인 가능한 게시물·7일 실제발송 이력과 대조",
-      "RFEF 공지 원문 HTTP403: 반복요청하지 않고 테네리페 공식성명으로 확인",
-      "Yahoo 열람은 목록 제목만 반환: 검색 도구가 반환한 기사 전체 본문을 읽고 인용 발언·기자 의견 구분"
+      "네이트 해당 본문 접근 실패",
+      "TV조선 해당 기사 열람 실패",
+      "조선일보 원문에 iframe만 표시되어 본문 근거로 쓰지 않음"
     ]
   },
   "picks": [
     {
-      "title": "7파운드 아끼려 남의 교통패스 쓴 전 토트넘 선수…청구서는 565파운드",
-      "category": "축구",
-      "url": "https://www.itv.com/news/london/2026-11-02/ex-spurs-star-sebastien-bassong-convicted-of-dodging-7-tube-fare",
-      "source": "ITV News·법원문서 보도",
-      "kind": "article",
-      "event_key": "bassong-tube-fare-court-documents-first-reported-20261102",
-      "why": "친구의 전 여자친구 명의 패스로 개찰구를 통과한 바송. 7파운드 요금이 벌금·소송비 등을 합쳐 565파운드가 됐다.",
-      "angle": "7파운드 무임승차 → 565파운드 청구서",
-      "why_now": "법원문서 새 보도 확인 11/2 GMT(최초 분 미확인). ITV 11/2 22:17 GMT. 적발은 5/2, 유죄판결은 10/30로 새 사건과 구분.",
-      "verified_at": 1793714997,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://www.itv.com/news/london/2026-11-02/ex-spurs-star-sebastien-bassong-convicted-of-dodging-7-tube-fare",
-          "note": "ITV 본문에서 남의 직원 지정 패스 사용, 5/2 적발, 10/30 판결을 확인. 벌금220+요금7+비용250+부담금88=565파운드. 생활고 설명은 동행인의 진술이며 바송의 현재 재산을 입증하지 않는다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.itv.com/news/london/2026-11-02/ex-spurs-star-sebastien-bassong-convicted-of-dodging-7-tube-fare",
-          "label": "본문 확인·사실 카드",
-          "kind": "source"
-        }
-      ],
-      "caution": "법원문서를 인용한 기사형. 10/30 판결의 11/2 새 보도이며 파산 단정 금지.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-10-30",
-        "observation": "ITV 본문에서 남의 직원 지정 패스 사용, 5/2 적발, 10/30 판결을 확인. 벌금220+요금7+비용250+부담금88=565파운드. 생활고 설명은 동행인의 진술이며 바송의 현재 재산을 입증하지 않는다.",
-        "checked_materials": [],
-        "outline": [
-          "7파운드 무임승차 → 565파운드 청구서",
-          "법원문서를 인용한 기사형. 10/30 판결의 11/2 새 보도이며 파산 단정 금지."
-        ]
-      }
-    },
-    {
-      "title": "에버턴 잘했다면서…쿤디는 ‘악취처럼 머문다’는 말도 안 거뒀다",
-      "category": "축구",
-      "url": "https://uk.sports.yahoo.com/news/jason-cundy-reacts-distasteful-everton-073000638.html",
-      "source": "Yahoo Sports·Sports Bar 인용",
-      "kind": "article",
-      "event_key": "cundy-sports-bar-everton-outstanding-bad-smell-double-down-20261102",
-      "why": "에버턴을 깎아내렸던 진행자에게 승리 뒤 다시 묻자, 훌륭했다는 칭찬과 종전 비하를 한 답변에 함께 내놨다.",
-      "angle": "오늘은 훌륭했다. 그런데 내 비하도 그대로다?",
-      "why_now": "새 발언은 영국 11/2 Sports Bar 방송(첫 방송 분 미확인). 기사 11/3 07:30 UTC. 9월 최초 비하를 새 발언으로 바꾸지 않음.",
-      "verified_at": 1793714997,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://uk.sports.yahoo.com/news/jason-cundy-reacts-distasteful-everton-073000638.html",
-          "note": "검색 도구가 제공한 기사 전체 본문에서 오하라의 재질문과 쿤디의 ‘stand by it’·‘outstanding tonight’ 답변을 확인. 유럽대회 진출하면 평가가 바뀔 것이라는 부분은 기자 해석이다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://uk.sports.yahoo.com/news/jason-cundy-reacts-distasteful-everton-073000638.html",
-          "label": "본문 확인·사실 카드",
-          "kind": "source"
-        }
-      ],
-      "caution": "기사 본문 인용을 번역·요약한 사실 카드. 라디오 청취·경기 시청은 아님.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-02",
-        "observation": "검색 도구가 제공한 기사 전체 본문에서 오하라의 재질문과 쿤디의 ‘stand by it’·‘outstanding tonight’ 답변을 확인. 유럽대회 진출하면 평가가 바뀔 것이라는 부분은 기자 해석이다.",
-        "checked_materials": [],
-        "outline": [
-          "오늘은 훌륭했다. 그런데 내 비하도 그대로다?",
-          "기사 본문 인용을 번역·요약한 사실 카드. 라디오 청취·경기 시청은 아님."
-        ]
-      }
-    },
-    {
-      "title": "경기 중 충돌 뒤 숨진 헤수스 데 미겔…테네리페가 공식 발표했다",
-      "category": "축구",
-      "url": "https://www.clubdeportivotenerife.es/noticias/comunicado-oficial-fallecimiento-de-jesus-de-miguel",
-      "source": "CD Tenerife 공식 성명",
-      "kind": "official",
-      "event_key": "tenerife-official-de-miguel-death-announcement-20261103",
-      "why": "전날 경기 충돌로 병원에 이송됐던 선수의 사망을 구단이 직접 알렸다. 사고 영상 재유행과 구분되는 새 공식 후속이다.",
-      "angle": "전날 충돌 뒤, 구단이 전한 가장 슬픈 후속",
-      "why_now": "공식 성명 최초 공개일 11/3(게시 분 미표시). 성명이 밝힌 사망 시각은 11/3 08:00 현지이며 게시 시각으로 사용하지 않음.",
-      "verified_at": 1793714997,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://www.clubdeportivotenerife.es/noticias/comunicado-oficial-fallecimiento-de-jesus-de-miguel",
-          "note": "공식 홈페이지 성명 전문에서 11/3 08:00 사망 발표와 가족의 사생활 존중 요청을 읽음. 충돌은 11/2 경기라는 독립 보도와 대조. 사망 원인에 관한 상세 의료기록은 공개되지 않았다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.clubdeportivotenerife.es/noticias/comunicado-oficial-fallecimiento-de-jesus-de-miguel",
-          "label": "본문 확인·사실 카드",
-          "kind": "source"
-        }
-      ],
-      "caution": "구단 성명 본문 확인. 사망 시각과 게시 시각 구분, 영상 미시청·고의성 단정 금지.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-03",
-        "observation": "공식 홈페이지 성명 전문에서 11/3 08:00 사망 발표와 가족의 사생활 존중 요청을 읽음. 충돌은 11/2 경기라는 독립 보도와 대조. 사망 원인에 관한 상세 의료기록은 공개되지 않았다.",
-        "checked_materials": [],
-        "outline": [
-          "전날 충돌 뒤, 구단이 전한 가장 슬픈 후속",
-          "구단 성명 본문 확인. 사망 시각과 게시 시각 구분, 영상 미시청·고의성 단정 금지."
-        ]
-      }
-    },
-    {
-      "title": "결별 질문 받은 벨리칙의 역질문…‘이제 가십지에서 일해요?’",
+      "title": "8대0이 8대7까지…KT, 삼성 잡고 한국시리즈 첫판 승리",
       "category": "메이저 스포츠",
-      "url": "https://www.aol.com/articles/bill-belichick-gets-cranky-reporter-230240000.html",
-      "source": "HuffPost·AOL 본문",
+      "url": "https://www.news1.kr/sports/baseball/6342043",
+      "source": "뉴스1·현장 취재",
       "kind": "article",
-      "event_key": "belichick-nov2-presser-tabloid-response-hudson-breakup-20261102",
-      "why": "팀 기자회견에서 사생활 질문이 나오자 감독이 질문자의 매체 성격부터 되물었다. 과거 결별 자체보다 새 받아치기가 포인트다.",
-      "angle": "팀 기자회견에 날아온 결별 질문, 감독의 역공",
-      "why_now": "새 답변은 미국 11/2 기자회견. 당일 기자 X 클립 공개 확인(첫 분 미확정). AOL 11/3 00:09 UTC는 갱신 시각이며 최초 공개로 쓰지 않음.",
-      "verified_at": 1793714997,
+      "event_key": "kbo-korean-series-2026-game1-kt-samsung-8-7-20261103",
+      "why": "우승이 걸린 한국시리즈 첫판. 8점 차가 한 점 차까지 줄어든 승부라 양 팀 팬이 바로 반응할 큰 경기다.",
+      "angle": "8대0→8대7 스코어 변화를 크게 놓고, KT의 1차전 승리로 마무리한다.",
+      "why_now": "11월3일 한국시리즈 1차전 결과를 11월4일 오전 보도로 확인했다. 평범한 인터뷰보다 우승 경쟁 자체를 다룬다.",
+      "verified_at": 1793765465,
       "published_at": null,
       "evidence": [
         {
-          "url": "https://www.aol.com/articles/bill-belichick-gets-cranky-reporter-230240000.html",
-          "note": "AOL 본문에서 WRAL 브라이언 머피가 결별 보도와 팀에 미칠 영향을 묻자 ‘Do you work for a tabloid now?’라고 답하고 사생활 언급을 거절했다는 인용을 읽음. 결별은 작년 말이라는 보도와 구별."
+          "url": "https://www.news1.kr/sports/baseball/6342043",
+          "note": "현장 취재 기사와 경기 사진 설명에서 11월3일 KS1차전 KT의 8대7 승리, 8대0에서 한 점 차까지 추격한 흐름을 확인했다."
+        },
+        {
+          "url": "https://www.mt.co.kr/sports/2026/11/04/2026110318283455560",
+          "note": "본문에서 6회까지 KT가 8대0, 삼성의 7회5점·8회2점 추격, 최종 KT 8대7 승리를 대조했다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.aol.com/articles/bill-belichick-gets-cranky-reporter-230240000.html",
-          "label": "본문 확인·사실 카드",
+          "url": "https://www.news1.kr/sports/baseball/6342043",
+          "label": "현장 보도·경기 사진",
           "kind": "source"
         }
       ],
-      "caution": "영문 발언을 번역한 기사형. 기자회견 영상은 미시청, 결별 시점은 새 사건 아님.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-02",
-        "observation": "AOL 본문에서 WRAL 브라이언 머피가 결별 보도와 팀에 미칠 영향을 묻자 ‘Do you work for a tabloid now?’라고 답하고 사생활 언급을 거절했다는 인용을 읽음. 결별은 작년 말이라는 보도와 구별.",
-        "checked_materials": [],
-        "outline": [
-          "팀 기자회견에 날아온 결별 질문, 감독의 역공",
-          "영문 발언을 번역한 기사형. 기자회견 영상은 미시청, 결별 시점은 새 사건 아님."
-        ]
-      }
-    },
-    {
-      "title": "‘북한에 27살 딸’ 피해 호소에 정동영이 짚은 건…‘방북은 21년 전’",
-      "category": "시사",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442747",
-      "source": "연합인포맥스 국무회의 보도",
-      "kind": "article",
-      "event_key": "chung-dong-young-cabinet-fake-daughter-age-mismatch-exchange-20261103",
-      "why": "허위 영상 피해를 설명하다가 방북 시점과 딸 나이가 안 맞는다고 답한 실제 문답. 대통령의 ‘이름은 뭐래요’ 질문까지 붙었다.",
-      "angle": "27살 딸이라는데, 평양에 간 건 21년 전",
-      "why_now": "11/3 국무회의 새 발언. 확인한 보도 최초 입력 11/3 12:05 KST, 수정 12:14. 회의 중 최초 발언 분은 미확인.",
-      "verified_at": 1793714997,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442747",
-          "note": "본문에서 정 장관의 허위 영상 피해·형사고소 설명, 대통령의 이름 질문, 정 장관의 방북 21년 전이라는 답변을 확인. 북한 딸 주장은 검증된 사실이 아니라 당사자가 부인한 허위 주장으로 소개된 것."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442747",
-          "label": "본문 확인·사실 카드",
-          "kind": "source"
-        }
-      ],
-      "caution": "허위 주장을 사실처럼 표지화 금지. 국무회의 기사 문답 확인이며 영상 시청은 아님.",
+      "caution": "",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-03",
-        "observation": "본문에서 정 장관의 허위 영상 피해·형사고소 설명, 대통령의 이름 질문, 정 장관의 방북 21년 전이라는 답변을 확인. 북한 딸 주장은 검증된 사실이 아니라 당사자가 부인한 허위 주장으로 소개된 것.",
+        "observation": "KT가 한국시리즈 1차전에서 삼성을 8대7로 이겼다. 8대0 리드 뒤 삼성에 7점을 내줬지만 첫 승을 지켰다. 영상은 시청하지 않았으며 확인한 보도로 사실 카드를 제안한다.",
         "checked_materials": [],
         "outline": [
-          "27살 딸이라는데, 평양에 간 건 21년 전",
-          "허위 주장을 사실처럼 표지화 금지. 국무회의 기사 문답 확인이며 영상 시청은 아님."
-        ]
-      }
-    },
-    {
-      "title": "몽클레어는 5만원에 팔았는데…황보라가 끝내 못 판 건 카시트",
-      "category": "아이돌",
-      "url": "https://www.xportsnews.com/article/2214944",
-      "source": "엑스포츠뉴스·보라이어티 인용",
-      "kind": "article",
-      "event_key": "hwang-bo-ra-boraiety-flea-market-moncler-sold-car-seat-unsold-20261103",
-      "why": "진품이냐는 질문까지 나온 명품 패딩은 바로 팔렸지만, 정작 처음 팔려고 챙긴 카시트는 남았다. 장터 성공 뒤 작은 반전이 회수된다.",
-      "angle": "명품 패딩 완판, 정작 팔려던 카시트는 귀가",
-      "why_now": "원본 자컨 공개는 11/3 KST(최초 분 미확인). 확인 기사 11/3 19:41. 장터 촬영일 미상이며 영상 공개일과 구분.",
-      "verified_at": 1793714997,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://www.xportsnews.com/article/2214944",
-          "note": "기사 본문에서 패딩 5만원 판매와 진품 확인 문답, 카시트는 끝내 못 팔고 철수했다는 후반부를 읽음. 카시트 25만원 정가·15만원 중고 시세·5만원 제안은 서로 다른 가격으로 구분한다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.xportsnews.com/article/2214944",
-          "label": "본문 확인·사실 카드",
-          "kind": "source"
-        }
-      ],
-      "caution": "자컨을 인용한 기사형. 실제 영상·판매 장면 미시청, 촬영일과 제품 진품 감정은 미검증.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-03",
-        "observation": "기사 본문에서 패딩 5만원 판매와 진품 확인 문답, 카시트는 끝내 못 팔고 철수했다는 후반부를 읽음. 카시트 25만원 정가·15만원 중고 시세·5만원 제안은 서로 다른 가격으로 구분한다.",
-        "checked_materials": [],
-        "outline": [
-          "명품 패딩 완판, 정작 팔려던 카시트는 귀가",
-          "자컨을 인용한 기사형. 실제 영상·판매 장면 미시청, 촬영일과 제품 진품 감정은 미검증."
-        ]
-      }
-    },
-    {
-      "title": "선거 지면 조사받을 참모들? 트럼프는 ‘필요하면 선제 사면’ 답했다",
-      "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827278",
-      "source": "SBS·뉴욕포스트 팟캐스트 인용",
-      "kind": "article",
-      "event_key": "trump-nypost-podcast-conditional-preemptive-pardons-aides-20261102",
-      "why": "선거 결과가 나오기도 전에 상대 당의 조사와 측근 사면을 연결한 당사자 답변. 각료뿐 아니라 머스크도 해당하느냐는 질문에 긍정했다.",
-      "angle": "선거 전부터 나온 측근 선제 사면 카드",
-      "why_now": "최초 공개 확인은 뉴욕포스트 11/2 현지 팟캐스트 보도(첫 분·녹음일 미확인). SBS 입력 11/3 04:09 KST는 한국 보도 시각.",
-      "verified_at": 1793714997,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827278",
-          "note": "SBS 본문에서 민주당 의회 장악·행정부 조사라는 가정에 ‘필요하다면’ 사면하겠다는 답과 각료·머스크를 포함하느냐는 질문에 긍정한 대목 확인. 실제 사면 명령이 발표됐다는 내용은 아니다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827278",
-          "label": "본문 확인·사실 카드",
-          "kind": "source"
-        }
-      ],
-      "caution": "보도 본문 확인·팟캐스트 미청취. 조건부 발언이며 실제 사면 또는 선거 결과로 쓰지 않음.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-02",
-        "observation": "SBS 본문에서 민주당 의회 장악·행정부 조사라는 가정에 ‘필요하다면’ 사면하겠다는 답과 각료·머스크를 포함하느냐는 질문에 긍정한 대목 확인. 실제 사면 명령이 발표됐다는 내용은 아니다.",
-        "checked_materials": [],
-        "outline": [
-          "선거 전부터 나온 측근 선제 사면 카드",
-          "보도 본문 확인·팟캐스트 미청취. 조건부 발언이며 실제 사면 또는 선거 결과로 쓰지 않음."
-        ]
-      }
-    },
-    {
-      "title": "발목 다친 동생 위로하다가…유재석·유연석의 부상 자랑이 시작됐다",
-      "category": "아이돌",
-      "url": "https://www.tenasia.co.kr/article/2026110316564",
-      "source": "텐아시아·SBS 공개자료",
-      "kind": "article",
-      "event_key": "whenever-possible-yoo-jae-suk-yeon-seok-yang-injury-oneupmanship-preview-20261103",
-      "why": "양세종의 발목 골절 얘기에 유연석은 자고 일어나도 부상이라 받고, 유재석은 러닝하면 무릎이 나간다며 한술 더 뜬다.",
-      "angle": "동생 위로하러 왔다가 형들 부상 배틀",
-      "why_now": "SBS 11/3 공개 예고자료를 보도한 기사 08:29 KST. 원자료 최초 분·녹화일 미상. 11/3 본방송을 이미 시청한 것으로 쓰지 않음.",
-      "verified_at": 1793714997,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://www.tenasia.co.kr/article/2026110316564",
-          "note": "본문의 양세종 발목 골절 후 관리→유연석 ‘자고 일어나면 부상’→유재석 러닝·무릎 농담 순서를 확인. 방송 장면이 아닌 SBS 제공 사전자료에 인용된 대사로만 검증했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.tenasia.co.kr/article/2026110316564",
-          "label": "본문 확인·사실 카드",
-          "kind": "source"
-        }
-      ],
-      "caution": "방송 예고자료를 읽은 기사형. 영상 미시청, 개인 농담을 러닝 일반의 의학적 결론으로 쓰지 않음.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-03",
-        "observation": "본문의 양세종 발목 골절 후 관리→유연석 ‘자고 일어나면 부상’→유재석 러닝·무릎 농담 순서를 확인. 방송 장면이 아닌 SBS 제공 사전자료에 인용된 대사로만 검증했다.",
-        "checked_materials": [],
-        "outline": [
-          "동생 위로하러 왔다가 형들 부상 배틀",
-          "방송 예고자료를 읽은 기사형. 영상 미시청, 개인 농담을 러닝 일반의 의학적 결론으로 쓰지 않음."
-        ]
-      }
-    },
-    {
-      "title": "김수미 흉내 냈다가 계약서 받은 후배…출연료 협상도 스승이 챙겼다",
-      "category": "아이돌",
-      "url": "https://www.starnewskorea.com/broadcast-show/2026/11/03/2026110313274186635",
-      "source": "스타뉴스·MBC 공개자료",
-      "kind": "article",
-      "event_key": "yoo-byung-kwon-kim-soo-mi-imitation-contract-fees-mbc-preview-20261103",
-      "why": "성대모사로 본인을 만난 신인에게 첫 녹화 뒤 계약서를 내밀고, 이후 행사 출연료까지 챙겼다는 구체적인 관계의 반전이다.",
-      "angle": "본인을 흉내 낸 후배에게 김수미가 내민 계약서",
-      "why_now": "MBC 11/3 사전 공개자료. 스타뉴스 입력 13:32 KST(원자료 첫 분 미확인), 11/4 방송 예정. 과거 첫 만남 날짜는 미상.",
-      "verified_at": 1793714997,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://www.starnewskorea.com/broadcast-show/2026/11/03/2026110313274186635",
-          "note": "본문에서 스타킹 첫 녹화 뒤 김수미가 함께 일하자며 계약서를 제안했다는 회고와 15년 인연·출연료 협상 도움을 확인. 11/3 새 공개된 과거 회고이며 당시 계약서 원본은 보지 않았다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.starnewskorea.com/broadcast-show/2026/11/03/2026110313274186635",
-          "label": "본문 확인·사실 카드",
-          "kind": "source"
-        }
-      ],
-      "caution": "MBC 사전자료의 회고 내용 확인. 과거 사건을 오늘 일로 쓰지 않으며 계약서·방송 영상 미확인.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-03",
-        "observation": "본문에서 스타킹 첫 녹화 뒤 김수미가 함께 일하자며 계약서를 제안했다는 회고와 15년 인연·출연료 협상 도움을 확인. 11/3 새 공개된 과거 회고이며 당시 계약서 원본은 보지 않았다.",
-        "checked_materials": [],
-        "outline": [
-          "본인을 흉내 낸 후배에게 김수미가 내민 계약서",
-          "MBC 사전자료의 회고 내용 확인. 과거 사건을 오늘 일로 쓰지 않으며 계약서·방송 영상 미확인."
-        ]
-      }
-    },
-    {
-      "title": "돈 모으려고 일하는 게 아니라…고소영 ‘돈 쓸 시간 없게 일해야’",
-      "category": "아이돌",
-      "url": "https://www.xportsnews.com/article/2214881",
-      "source": "엑스포츠뉴스·고소영 자컨 인용",
-      "kind": "article",
-      "event_key": "ko-so-young-nov3-vlog-work-less-spend-more-self-deprecating-comment-20261103",
-      "why": "통장에 출연료 들어오던 재미를 얘기하다, 일을 쉬니 돈을 너무 쓴다는 셀프디스로 끝났다. 바빠서 못 썼다는 의외의 절약 논리다.",
-      "angle": "고소영의 절약법: 돈 쓸 시간부터 없애기",
-      "why_now": "자컨 최초 공개일 11/3 KST(분 미확인). 기사 입력 18:58. 과거 출연료 회상과 이날 새 공개된 농담을 구분하며 촬영일은 미상.",
-      "verified_at": 1793714997,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://www.xportsnews.com/article/2214881",
-          "note": "본문에서 MBC 구내식당·통장 정리 회상과 일을 쉬며 지출이 늘었다는 발언, 돈 쓸 시간이 없도록 일해야 한다는 마무리 확인. 실제 재산이나 수입·지출 수치는 확인한 바 없다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.xportsnews.com/article/2214881",
-          "label": "본문 확인·사실 카드",
-          "kind": "source"
-        }
-      ],
-      "caution": "자컨 인용 기사 본문 확인·영상 미시청. 사생활 재산 추정 없이 당사자의 셀프디스만 사용.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-03",
-        "observation": "본문에서 MBC 구내식당·통장 정리 회상과 일을 쉬며 지출이 늘었다는 발언, 돈 쓸 시간이 없도록 일해야 한다는 마무리 확인. 실제 재산이나 수입·지출 수치는 확인한 바 없다.",
-        "checked_materials": [],
-        "outline": [
-          "고소영의 절약법: 돈 쓸 시간부터 없애기",
-          "자컨 인용 기사 본문 확인·영상 미시청. 사생활 재산 추정 없이 당사자의 셀프디스만 사용."
-        ]
-      }
-    },
-    {
-      "title": "문제 된 터치다운 세리머니…감독은 ‘영상 보고 알았다, 따로 얘기했다’",
-      "category": "메이저 스포츠",
-      "url": "https://www.profootballnetwork.com/packers-matt-lafleur-josh-jacobs-celebration/",
-      "source": "PFSN 기자회견 인용",
-      "kind": "article",
-      "event_key": "lafleur-nov2-presser-jacobs-celebration-private-conversation-20261102",
-      "why": "수갑을 흉내 냈다는 논란에 선수가 찬송가 표현이라 해명한 뒤, 감독은 뒤늦게 영상을 보고 선수와 대화했다고 새로 밝혔다.",
-      "angle": "선수는 찬송가라 했고 감독은 따로 불렀다",
-      "why_now": "새 발언 최초 공개 확인은 기자의 11/2 현지 기자회견 클립(분 미확인). 기사 11/3 01:12 EST. 10/29 세리머니와 10/30 해명은 과거 맥락.",
-      "verified_at": 1793714997,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://www.profootballnetwork.com/packers-matt-lafleur-josh-jacobs-celebration/",
-          "note": "본문에서 라플루어의 ‘saw the tape’·대화 비공개 인용과 11/2 기자 클립 일자를 확인. 선수가 수갑 의미를 부인했다는 맥락을 함께 읽음. 감독의 실제 대화 내용·징계 결정은 공개되지 않았다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.profootballnetwork.com/packers-matt-lafleur-josh-jacobs-celebration/",
-          "label": "본문 확인·사실 카드",
-          "kind": "source"
-        }
-      ],
-      "caution": "새 기자회견 기사형. 옛 세리머니를 신작으로 쓰지 않음, 수갑 의도·폭행 혐의 단정 금지.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-02",
-        "observation": "본문에서 라플루어의 ‘saw the tape’·대화 비공개 인용과 11/2 기자 클립 일자를 확인. 선수가 수갑 의미를 부인했다는 맥락을 함께 읽음. 감독의 실제 대화 내용·징계 결정은 공개되지 않았다.",
-        "checked_materials": [],
-        "outline": [
-          "선수는 찬송가라 했고 감독은 따로 불렀다",
-          "새 기자회견 기사형. 옛 세리머니를 신작으로 쓰지 않음, 수갑 의도·폭행 혐의 단정 금지."
-        ]
-      }
-    },
-    {
-      "title": "팬 투표도 아닌데 메시·호날두 둘 다…선수들이 뽑은 월드11 후보",
-      "category": "축구",
-      "url": "https://www.fifpro.org/en/articles/2026/11/who-is-in-the-running-for-the-2026-fifpro-mens-world-11",
-      "source": "FIFPRO 공식 후보명단",
-      "kind": "official",
-      "event_key": "fifpro-2026-mens-world11-finalists-player-vote-20261102",
-      "why": "인기투표라는 반응이 나오기 쉬운 두 이름이 남았지만, 공식 자료는 1만9806명의 현역 선수 투표라고 밝힌다. 아시아 선수는 후보 26명에 없다.",
-      "angle": "팬이 아니라 선수들이 뽑은 메시·호날두",
-      "why_now": "공식 최초 공개일 11/2(분 미표시). 한국 11/3 재기사 시각으로 바꾸지 않음. 최종11은 11/9 발표 예정이며 지금은 후보26.",
-      "verified_at": 1793714997,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://www.fifpro.org/en/articles/2026/11/who-is-in-the-running-for-the-2026-fifpro-mens-world-11",
-          "note": "공식 본문에서 남자선수 19,806명·73개국 투표, 후보26과 메시·호날두 이름을 대조. 평가기간 2025/8/4~2026/7/19·30경기 요건 확인. 후보26의 국적을 읽어 아시아 국적 없음도 대조했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.fifpro.org/en/articles/2026/11/who-is-in-the-running-for-the-2026-fifpro-mens-world-11",
-          "label": "본문 확인·사실 카드",
-          "kind": "source"
-        }
-      ],
-      "caution": "공식 후보자료 확인. 최종 수상 아님, 팬투표 아님. 전체 남녀 합산 투표수와 남자 투표수 구분.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-02",
-        "observation": "공식 본문에서 남자선수 19,806명·73개국 투표, 후보26과 메시·호날두 이름을 대조. 평가기간 2025/8/4~2026/7/19·30경기 요건 확인. 후보26의 국적을 읽어 아시아 국적 없음도 대조했다.",
-        "checked_materials": [],
-        "outline": [
-          "팬이 아니라 선수들이 뽑은 메시·호날두",
-          "공식 후보자료 확인. 최종 수상 아님, 팬투표 아님. 전체 남녀 합산 투표수와 남자 투표수 구분."
+          "첫 장: 8대0→8대7과 ‘KT, 한국시리즈 첫판 승리’를 함께 배치한다.",
+          "다음 장: 삼성의 7회5점·8회2점 추격과 KT의 최종8대7 승리를 짧게 정리한다."
         ]
       }
     }
