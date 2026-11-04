@@ -46,6 +46,10 @@ def run(path=REQUEST_FILE, now=None, sender=None, picks_file=Path("data/editoria
         expected = {"version", "hour_utc"} | ({"editorial_sha256"} if request["version"] in (2, 3) else set())
         if request["version"] == 3:
             expected.add("mode")
+            if "requested_stories" in request:
+                expected.add("requested_stories")
+                if type(request["requested_stories"]) is not int or not 1 <= request["requested_stories"] <= 5:
+                    raise ValueError("Invalid explicitly requested story count")
             if request.get("mode") != "user_requested":
                 raise ValueError("An on-demand edition requires an explicit user request")
         if set(request) != expected:
@@ -73,7 +77,8 @@ def run(path=REQUEST_FILE, now=None, sender=None, picks_file=Path("data/editoria
     if request["version"] == 2:
         return sender(prepared_hour=request["hour_utc"], expected_sha256=request["editorial_sha256"])
     if request["version"] == 3:
-        return sender(recover_hour=request["hour_utc"], expected_sha256=request["editorial_sha256"], user_requested=True)
+        count = {"requested_stories": request["requested_stories"]} if "requested_stories" in request else {}
+        return sender(recover_hour=request["hour_utc"], expected_sha256=request["editorial_sha256"], user_requested=True, **count)
     return sender(recover_hour=request["hour_utc"])
 
 
