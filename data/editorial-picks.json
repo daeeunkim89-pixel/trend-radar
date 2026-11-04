@@ -1,217 +1,230 @@
 {
   "version": 2,
-  "hour_utc": "2026110407",
+  "hour_utc": "2026110408",
   "reviewer": "ChatGPT",
-  "generated_at": 1793775888,
+  "generated_at": 1793779520,
   "coverage": {
     "queries": [
-      "2026년 11월 4일 16시 스포츠 주요 뉴스 노시환 김하성",
-      "2026년 11월 4일 15시 주요 뉴스 대형 정부",
-      "November 4 2026 major sports news injury contract tennis NBA",
-      "2026.11.04 윤석열 항소심 선고 397억 결과",
-      "2026.11.04 김하성 퀄리파잉 오퍼 못 받아",
-      "2026.11.04 최예인 세계선수권 신청 누락",
-      "November 3 2026 Kawhi Leonard Raptors knee swelling week official",
-      "2026 11월 4일 오타니 MVP 최종 후보",
-      "2026 11월 4일 윤석열 선거법 2심 징역 집행유예 14시",
-      "November 3 2026 Ohtani MVP finalists official",
-      "2026 11월 4일 합참 북한 탄도미사일"
+      "2026년 11월 4일 17시 스포츠 주요 뉴스 확정",
+      "November 4 2026 football manager sacked injury major news",
+      "2026년 11월 4일 트럼프 중간선거 결과 수용 민주당 협력",
+      "2026년 11월 4일 오타니 MVP 최종 후보",
+      "November 4 2026 Alcaraz Sinner ATP finals injury withdrawal",
+      "November 3 2026 Baleba hamstring injury six weeks Manchester United",
+      "2026년 11월 4일 스포츠 중징계 감독 계약 공식",
+      "2026년 11월 4일 김연경 배구 주요 부상",
+      "2026년 11월 4일 스포츠 주요 뉴스 최동원 사망 징계 부상",
+      "2026년 11월 4일 쿠팡 영업손실 6423억원",
+      "November 4 2026 major sports news FIFA ban crisis",
+      "November 4 2026 Djokovic Vacherot Paris oldest",
+      "2026 11 4 최동원 대한민국 스포츠영웅 대한체육회 선정",
+      "2026 11 4 트럼프 결과 수용 민주당 협력 NYT",
+      "November 3 2026 Carlos Baleba Carrick hamstring confirmed",
+      "Coupang third quarter 2026 results November 3 2026 operating loss"
     ],
     "opened_urls": [
-      "https://www.yna.co.kr/amp/view/AKR20261104120300004",
-      "https://www.yna.co.kr/view/AKR20261103076000007",
-      "https://www.mk.co.kr/news/society/12195327",
-      "https://www.yna.co.kr/view/AKR20261104055151504",
-      "https://toronto.citynews.ca/2026/11/03/raptors-leonard-begins-return-to-play-process-will-be-re-evaluated-in-one-week/"
+      "https://www.sportsmole.co.uk/football/man-utd/injury-news/news/baleba-update-carrick-confirms-hamstring-injury-as-return-timeline-assessed_608361.html",
+      "https://www.yna.co.kr/view/AKR20261103056400007",
+      "https://www.newspim.com/news/view/20261103000408",
+      "https://www.yna.co.kr/view/AKR20261104062800007",
+      "https://www.yna.co.kr/view/AKR20261104096651071",
+      "https://news.tvchosun.com/site/data/html_dir/2026/11/04/2026110490158.html",
+      "https://www.sec.gov/Archives/edgar/data/1834584/000183458426000084/cpng-09302026ex991.htm",
+      "https://www.inews24.com/view/2022305"
     ],
     "unavailable": [
-      "Sportsnet 원문403: 우회하지 않고 같은 기자의 CityNews 게재 본문 확인",
-      "일부 연합뉴스 웹 열람 실패: 공개 표준 HTTP로 본문 확인"
+      "맨유 공식 페이지 본문 미노출: 검색문과 독립 후속 본문으로 확인",
+      "일부 연합 웹 열람 실패: 공개 HTML의 실제 기사 본문 확인",
+      "수집 일부 소스 오류: 펨코 직접·인스티즈 이슈·네이버 스포츠 영상"
     ]
   },
   "picks": [
     {
-      "title": "저장 버튼 누락 추정…사격 최예인 세계선수권 개인·한국 단체전 출전 무산",
-      "category": "메이저 스포츠",
-      "url": "https://www.mk.co.kr/news/society/12195327",
-      "source": "매일경제·사격연맹 설명",
+      "title": "맨유 반등에 부상 악재…캐릭, 발레바 햄스트링 손상 확인",
+      "category": "축구",
+      "url": "https://www.sportsmole.co.uk/football/man-utd/injury-news/news/baleba-update-carrick-confirms-hamstring-injury-as-return-timeline-assessed_608361.html",
+      "source": "Sports Mole·맨유",
       "kind": "article",
-      "event_key": "issf-choi-ye-in-accreditation-omission-team-entry-lost-20261103",
-      "why": "국가대표가 도하까지 갔지만 연맹의 등록 누락으로 사대에 서지 못했다. 한 선수의 피해가 한국 여자 공기소총 단체전 불참으로 이어졌다.",
-      "angle": "등록 누락 하나가 개인전과 단체전을 막았다",
-      "why_now": "사건 11/3 KST. 최초 보도 확인일도 11/3(분 미확인), 매경 입력 21:44. 11/4 재기사 시각으로 바꾸지 않음.",
-      "verified_at": 1793775888,
+      "event_key": "manutd-baleba-hamstring-confirmed-carrick-assessment-20261103",
+      "why": "주전 중원 이탈 가능성이 맨유의 반등과 향후 전력 구상에 직접 영향을 준다.",
+      "angle": "감독이 확인한 햄스트링 문제와 아직 정해지지 않은 복귀 시점을 분리한다.",
+      "why_now": "경기·감독 발언은 영국 11/3. 후속 기사 최초 11/4 00:41(매체 표기, 시간대 미명시). 앞선 로마전 결과와 달리 새 부상 확인을 검토했다.",
+      "verified_at": 1793779520,
       "published_at": null,
       "evidence": [
         {
-          "url": "https://www.mk.co.kr/news/society/12195327",
-          "note": "본문에서 AD 카드 신청 누락, 현지 추가 등록 실패, 단체전 최소3명 미충족을 확인. 저장 버튼을 누르지 않았다는 것은 연맹의 추정이며 담당 직원 대기발령 설명을 읽음."
+          "url": "https://www.sportsmole.co.uk/football/man-utd/injury-news/news/baleba-update-carrick-confirms-hamstring-injury-as-return-timeline-assessed_608361.html",
+          "note": "캐릭은 경기 뒤 발레바의 햄스트링 문제를 확인하고 며칠 더 평가해야 한다고 말했다. 초기 상태가 좋지 않다면서도 구체적인 복귀 기간은 제시하지 않았다. 기사 본문과 공식 발표 검색문을 대조했고 영상은 시청하지 않았다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.mk.co.kr/news/society/12195327",
-          "label": "확인한 본문·사실 카드",
+          "url": "https://www.sportsmole.co.uk/football/man-utd/injury-news/news/baleba-update-carrick-confirms-hamstring-injury-as-return-timeline-assessed_608361.html",
+          "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "기사 본문 확인. 저장 버튼 누락은 연맹 추정이며 시스템 로그 직접 확인 아님.",
+      "caution": "손상 등급·결장 기간은 미확정. 기사에 나온 일반적인 3~6주 회복 예시를 실제 진단으로 쓰지 않는다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-03",
-        "observation": "본문에서 AD 카드 신청 누락, 현지 추가 등록 실패, 단체전 최소3명 미충족을 확인. 저장 버튼을 누르지 않았다는 것은 연맹의 추정이며 담당 직원 대기발령 설명을 읽음.",
+        "observation": "캐릭은 경기 뒤 발레바의 햄스트링 문제를 확인하고 며칠 더 평가해야 한다고 말했다. 초기 상태가 좋지 않다면서도 구체적인 복귀 기간은 제시하지 않았다. 기사 본문과 공식 발표 검색문을 대조했고 영상은 시청하지 않았다.",
         "checked_materials": [],
         "outline": [
-          "등록 누락 하나가 개인전과 단체전을 막았다",
-          "기사 본문 확인. 저장 버튼 누락은 연맹 추정이며 시스템 로그 직접 확인 아님."
+          "감독이 확인한 햄스트링 문제와 아직 정해지지 않은 복귀 시점을 분리한다.",
+          "손상 등급·결장 기간은 미확정. 기사에 나온 일반적인 3~6주 회복 예시를 실제 진단으로 쓰지 않는다."
         ]
       }
     },
     {
-      "title": "김하성, 애틀랜타 QO 못 받았다…영입 구단 지명권 부담 없이 FA 협상",
+      "title": "오타니, 5번째 MVP 도전…최종 3인에 ‘40-40’ 크로암스트롱",
       "category": "메이저 스포츠",
-      "url": "https://www.yna.co.kr/view/AKR20261103076000007",
-      "source": "연합뉴스·MLB 발표 보도",
+      "url": "https://www.yna.co.kr/view/AKR20261103056400007",
+      "source": "연합뉴스·뉴스핌",
       "kind": "article",
-      "event_key": "kim-ha-seong-atlanta-no-qualifying-offer-free-agency-20261103",
-      "why": "한국인 메이저리거의 다음 계약 조건이 달라졌다. 고액 단년 제안은 없었지만 영입 구단의 보상 지명권 부담도 없어 FA 행선지에 영향을 준다.",
-      "angle": "QO 미제안으로 달라진 김하성 FA 조건",
-      "why_now": "QO 명단 최초 공개 확인일 11/3 KST(미국 현지 11/2, 첫 분 미확인). 연합뉴스 첫 입력 11/3 10:39. 48시간 내 미발송 원본으로 확대 검토.",
-      "verified_at": 1793775888,
+      "event_key": "mlb-nl-mvp-finalists-ohtani-crow-armstrong-turang-20261103",
+      "why": "MLB 최고 개인상 최종 후보가 확정되면서 오타니의 연속 수상 도전과 새 경쟁 구도가 정해졌다.",
+      "angle": "최종 후보 3명 발표를 먼저 보여주고, 모의 투표와 실제 수상을 구분한다.",
+      "why_now": "MLB 최종 후보 공개는 11/3 KST(분 미확인), 연합 최초 보도 11/3 09:55 KST. 미발송 원본을 48시간 범위로 확장해 검토했다.",
+      "verified_at": 1793779520,
       "published_at": null,
       "evidence": [
         {
-          "url": "https://www.yna.co.kr/view/AKR20261103076000007",
-          "note": "본문에서 김하성이 QO를 받지 않았고 이번 QO 금액은 2315만달러라는 점 확인. 김하성을 영입하는 구단의 지명권 손실 부담이 없으며 애틀랜타 재계약 가능성도 남아 있다고 명시."
+          "url": "https://www.yna.co.kr/view/AKR20261103056400007",
+          "note": "NL MVP 최종 후보는 오타니·크로암스트롱·투랑 3명이다. 크로암스트롱은 마지막 MLB닷컴 모의 투표에서 38명 전원의 1위 표를 받았다. 실제 MVP 발표는 11/13 KST로 보도됐다. 두 매체 본문을 확인했다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.yna.co.kr/view/AKR20261103076000007",
-          "label": "확인한 본문·사실 카드",
+          "url": "https://www.yna.co.kr/view/AKR20261103056400007",
+          "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "본문 확인 기사형. 방출·결별 확정이나 FA 계약 성사로 해석하지 않음.",
+      "caution": "모의 투표 만장일치는 실제 BBWAA 수상 결과가 아니다. 후보 선정과 수상 확정을 혼동하지 않는다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-03",
-        "observation": "본문에서 김하성이 QO를 받지 않았고 이번 QO 금액은 2315만달러라는 점 확인. 김하성을 영입하는 구단의 지명권 손실 부담이 없으며 애틀랜타 재계약 가능성도 남아 있다고 명시.",
+        "observation": "NL MVP 최종 후보는 오타니·크로암스트롱·투랑 3명이다. 크로암스트롱은 마지막 MLB닷컴 모의 투표에서 38명 전원의 1위 표를 받았다. 실제 MVP 발표는 11/13 KST로 보도됐다. 두 매체 본문을 확인했다.",
         "checked_materials": [],
         "outline": [
-          "QO 미제안으로 달라진 김하성 FA 조건",
-          "본문 확인 기사형. 방출·결별 확정이나 FA 계약 성사로 해석하지 않음."
+          "최종 후보 3명 발표를 먼저 보여주고, 모의 투표와 실제 수상을 구분한다.",
+          "모의 투표 만장일치는 실제 BBWAA 수상 결과가 아니다. 후보 선정과 수상 확정을 혼동하지 않는다."
         ]
       }
     },
     {
-      "title": "레너드, 왼 무릎 치료 마치고 복귀 절차…토론토 ‘일주일 뒤 재평가’",
+      "title": "최동원, 야구 선수 최초 대한민국 스포츠영웅 선정",
       "category": "메이저 스포츠",
-      "url": "https://toronto.citynews.ca/2026/11/03/raptors-leonard-begins-return-to-play-process-will-be-re-evaluated-in-one-week/",
-      "source": "CityNews·구단 성명 인용",
+      "url": "https://www.yna.co.kr/view/AKR20261104062800007",
+      "source": "연합뉴스·대한체육회",
       "kind": "article",
-      "event_key": "raptors-kawhi-leonard-treatment-complete-return-process-week-reevaluation-20261103",
-      "why": "토론토로 돌아온 핵심 스타가 두 경기만 뛴 뒤 결장 중이다. 구단은 치료 종료를 알렸지만 복귀전 대신 일주일 뒤 재평가를 예고했다.",
-      "angle": "치료 종료와 경기 복귀는 다르다는 토론토 발표",
-      "why_now": "새 구단 성명은 11/3 현지 공개(최초 분 미확인). 원문 게시 11/3 20:42 ET. 10/25 결장 시작이나 10/27 최초 부상 공지와 구별되는 후속.",
-      "verified_at": 1793775888,
+      "event_key": "choi-dong-won-first-baseball-korea-sports-hero-announced-20261104",
+      "why": "한국 야구를 대표하는 인물이 종목 최초로 국가 체육계의 역사적 기념 대상에 올랐다.",
+      "angle": "야구 첫 선정이라는 새 결정에서 시작해 1984년 한국시리즈 4승의 의미를 연결한다.",
+      "why_now": "선정 심의는 10/27, 대한체육회 공식 공개는 11/4(분 미확인). 연합 최초 보도 11/4 10:17 KST. 과거 기록 재탕이 아닌 새 선정 발표다.",
+      "verified_at": 1793779520,
       "published_at": null,
       "evidence": [
         {
-          "url": "https://toronto.citynews.ca/2026/11/03/raptors-leonard-begins-return-to-play-process-will-be-re-evaluated-in-one-week/",
-          "note": "기사 본문에 인용된 구단 성명에서 왼 무릎 부종 치료 종료·토론토 복귀 절차 시작·일주일 뒤 경과 발표를 확인. 11/16주 복귀 가능성은 기자 추론이므로 추천 사실에서 제외."
+          "url": "https://www.yna.co.kr/view/AKR20261104062800007",
+          "note": "대한체육회가 최동원을 2026 스포츠영웅으로 선정했다고 4일 발표했다. 야구 선수 최초이며 박신자·차범근에 이은 구기 종목 세 번째다. 12월 헌액식 예정이라는 본문을 확인했다. 선정 심의일과 공개일을 구분했다."
         }
       ],
       "materials": [
         {
-          "url": "https://toronto.citynews.ca/2026/11/03/raptors-leonard-begins-return-to-play-process-will-be-re-evaluated-in-one-week/",
-          "label": "확인한 본문·사실 카드",
+          "url": "https://www.yna.co.kr/view/AKR20261104062800007",
+          "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "구단 성명 인용 본문 확인. 복귀 날짜·장기 결장 기간은 확정하지 않음.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-03",
-        "observation": "기사 본문에 인용된 구단 성명에서 왼 무릎 부종 치료 종료·토론토 복귀 절차 시작·일주일 뒤 경과 발표를 확인. 11/16주 복귀 가능성은 기자 추론이므로 추천 사실에서 제외.",
-        "checked_materials": [],
-        "outline": [
-          "치료 종료와 경기 복귀는 다르다는 토론토 발표",
-          "구단 성명 인용 본문 확인. 복귀 날짜·장기 결장 기간은 확정하지 않음."
-        ]
-      }
-    },
-    {
-      "title": "윤석열 선거법 2심도 징역형 집유…확정되면 국힘 397억원 반환",
-      "category": "시사",
-      "url": "https://www.yna.co.kr/amp/view/AKR20261104120300004",
-      "source": "연합뉴스 법정 보도",
-      "kind": "article",
-      "event_key": "yoon-election-law-appeal-conviction-suspended-sentence-397-eok-20261104",
-      "why": "전직 대통령의 대선 허위 발언 사건 항소심이 1심 유죄를 유지했다. 판결 확정 여부가 국민의힘 선거비용 397억원 반환과 직결된다.",
-      "angle": "2심 유죄 유지와 397억원 반환의 확정 조건",
-      "why_now": "새 항소심 선고는 11/4 14:00 KST 시작 공판. 확인한 결과 기사 첫 송고 14:47. 최초 속보 분은 미확인, 1심과 별도 새 판결.",
-      "verified_at": 1793775888,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://www.yna.co.kr/amp/view/AKR20261104120300004",
-          "note": "본문에서 서울고법이 항소 기각, 징역1년6개월·집행유예3년을 유지한 사실을 확인. 선거비용 반환은 이 형이 최종 확정되는 경우라는 조건을 명시. 한겨레 결과 보도와 대조."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.yna.co.kr/amp/view/AKR20261104120300004",
-          "label": "확인한 본문·사실 카드",
-          "kind": "source"
-        }
-      ],
-      "caution": "법정 보도 본문 확인. 대법 확정·현재 397억원 반환 완료로 쓰지 않음.",
+      "caution": "10/27 심의와 11/4 공개를 구분한다. 12월 헌액식은 예정이며 과거 경기 영상을 새로 확인한 것은 아니다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-04",
-        "observation": "본문에서 서울고법이 항소 기각, 징역1년6개월·집행유예3년을 유지한 사실을 확인. 선거비용 반환은 이 형이 최종 확정되는 경우라는 조건을 명시. 한겨레 결과 보도와 대조.",
+        "observation": "대한체육회가 최동원을 2026 스포츠영웅으로 선정했다고 4일 발표했다. 야구 선수 최초이며 박신자·차범근에 이은 구기 종목 세 번째다. 12월 헌액식 예정이라는 본문을 확인했다. 선정 심의일과 공개일을 구분했다.",
         "checked_materials": [],
         "outline": [
-          "2심 유죄 유지와 397억원 반환의 확정 조건",
-          "법정 보도 본문 확인. 대법 확정·현재 397억원 반환 완료로 쓰지 않음."
+          "야구 첫 선정이라는 새 결정에서 시작해 1984년 한국시리즈 4승의 의미를 연결한다.",
+          "10/27 심의와 11/4 공개를 구분한다. 12월 헌액식은 예정이며 과거 경기 영상을 새로 확인한 것은 아니다."
         ]
       }
     },
     {
-      "title": "합참 ‘북한 선덕서 동해로 미사일 수 발’…탄도미사일 여부 분석 중",
+      "title": "트럼프, 선거 결과 수용…민주당 협력 말하면서 거부권도 예고",
       "category": "시사",
-      "url": "https://www.yna.co.kr/view/AKR20261104055151504",
-      "source": "연합뉴스·합참 발표 인용",
+      "url": "https://www.yna.co.kr/view/AKR20261104096651071",
+      "source": "연합뉴스·TV조선",
       "kind": "article",
-      "event_key": "north-korea-sondok-east-sea-multiple-missiles-jcs-20261104",
-      "why": "북한이 동해상으로 여러 발을 발사해 한미가 탐지·추적했다. 한국 안보에 직접 영향을 주는 새 군사 동향이며 무기 종류는 아직 확정되지 않았다.",
-      "angle": "여러 발 발사는 확인, 무기 종류는 분석 중",
-      "why_now": "발사는 11/4 오전 KST. 합참 당일 최초 공지 분은 미확인. 확인 기사 12:12는 종합 보도 송고이며 첫 공개 시각으로 대체하지 않음.",
-      "verified_at": 1793775888,
+      "event_key": "trump-midterm-result-acceptance-cooperation-veto-response-20261103",
+      "why": "미 의회 권력 변화 뒤 대통령의 수용·협상·거부권 방침은 남은 임기와 한미 현안에 영향을 줄 주요 후속이다.",
+      "angle": "선거 결과 수용과 거부권 예고를 나란히 놓고 실제 협력은 향후 과제로 남긴다.",
+      "why_now": "발언은 미국 11/3 밤. NYT 전화 인터뷰는 22:30경 EST(11/4 12:30 KST), 최초 공개 분은 미확인. 초기 보도 13:24, 종합 15:38 KST. 앞선 개표 전망과 구분되는 대통령 대응이다.",
+      "verified_at": 1793779520,
       "published_at": null,
       "evidence": [
         {
-          "url": "https://www.yna.co.kr/view/AKR20261104055151504",
-          "note": "본문에서 합참이 함경남도 선덕 일대의 미사일 수 발을 포착했다는 발표를 확인. 제원·사거리·탄도미사일 여부를 정밀 분석 중이라고 명시하며 과거 10/31 시험 사진과 구분."
+          "url": "https://www.yna.co.kr/view/AKR20261104096651071",
+          "note": "NYT·폭스 인터뷰를 인용한 본문에서 결과 수용·민주당 협력 의사와 민주당 법안에 거부권을 행사하겠다는 발언을 확인했다. 각료 교체가 없을 것이라는 입장도 보도됐다. 원 인터뷰 전체를 직접 청취하지는 않았다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.yna.co.kr/view/AKR20261104055151504",
-          "label": "확인한 본문·사실 카드",
+          "url": "https://www.yna.co.kr/view/AKR20261104096651071",
+          "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "합참 발표 인용 기사 본문 확인. 탄도미사일·정확한 발수·의도는 단정하지 않음.",
+      "caution": "선거 결과·의석 확정 자체를 재추천하지 않는다. 협력은 대통령 의향이며 실제 합의나 정책 변경이 확정된 것은 아니다.",
       "readiness": {
         "mode": "major_news",
-        "event_date": "2026-11-04",
-        "observation": "본문에서 합참이 함경남도 선덕 일대의 미사일 수 발을 포착했다는 발표를 확인. 제원·사거리·탄도미사일 여부를 정밀 분석 중이라고 명시하며 과거 10/31 시험 사진과 구분.",
+        "event_date": "2026-11-03",
+        "observation": "NYT·폭스 인터뷰를 인용한 본문에서 결과 수용·민주당 협력 의사와 민주당 법안에 거부권을 행사하겠다는 발언을 확인했다. 각료 교체가 없을 것이라는 입장도 보도됐다. 원 인터뷰 전체를 직접 청취하지는 않았다.",
         "checked_materials": [],
         "outline": [
-          "여러 발 발사는 확인, 무기 종류는 분석 중",
-          "합참 발표 인용 기사 본문 확인. 탄도미사일·정확한 발수·의도는 단정하지 않음."
+          "선거 결과 수용과 거부권 예고를 나란히 놓고 실제 협력은 향후 과제로 남긴다.",
+          "선거 결과·의석 확정 자체를 재추천하지 않는다. 협력은 대통령 의향이며 실제 합의나 정책 변경이 확정된 것은 아니다."
+        ]
+      }
+    },
+    {
+      "title": "쿠팡 3분기 6423억 적자…화재 비용 빼도 2883억 손실",
+      "category": "시사",
+      "url": "https://www.sec.gov/Archives/edgar/data/1834584/000183458426000084/cpng-09302026ex991.htm",
+      "source": "쿠팡 SEC 공시·아이뉴스24",
+      "kind": "official",
+      "event_key": "coupang-q3-2026-loss-fire-excluded-20261103",
+      "why": "국내 최대 전자상거래 기업의 연속 적자와 화재 비용을 빼도 남는 손실은 소비·유통 산업의 주요 변화다.",
+      "angle": "전체 영업손실과 화재 비용 제외 손실을 비교해 일회성 비용만의 문제인지 짚는다.",
+      "why_now": "실적 공개는 미국 11/3(원문 분 미명시), 대상 기간은 7~9월. 국내 기사 최초 11/4 06:56 KST, 수정 07:06. 공시 원문 수치를 직접 확인했다.",
+      "verified_at": 1793779520,
+      "published_at": null,
+      "evidence": [
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/1834584/000183458426000084/cpng-09302026ex991.htm",
+          "note": "SEC 실적 발표문에서 매출 99억6200만달러, 영업손실 4억5000만달러, 화재 비용 제외 영업손실 2억200만달러를 확인했다. 국내 기사는 분기 평균 환율로 각각 약 6423억원·2883억원으로 환산했다."
+        },
+        {
+          "url": "https://www.inews24.com/view/2022305",
+          "note": "최초 11/4 06:56 KST. 환산 손실 약6423억원, 화재 제외 약2883억원. 3개 분기 연속 적자와 비GAAP 조정 수치 확인."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/1834584/000183458426000084/cpng-09302026ex991.htm",
+          "label": "확인한 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "달러 공시와 원화 환산을 구분한다. 화재 제외 수치는 회사의 비GAAP 조정치이며 적자를 특정 원인 하나로 단정하지 않는다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-03",
+        "observation": "SEC 실적 발표문에서 매출 99억6200만달러, 영업손실 4억5000만달러, 화재 비용 제외 영업손실 2억200만달러를 확인했다. 국내 기사는 분기 평균 환율로 각각 약 6423억원·2883억원으로 환산했다.",
+        "checked_materials": [],
+        "outline": [
+          "전체 영업손실과 화재 비용 제외 손실을 비교해 일회성 비용만의 문제인지 짚는다.",
+          "달러 공시와 원화 환산을 구분한다. 화재 제외 수치는 회사의 비GAAP 조정치이며 적자를 특정 원인 하나로 단정하지 않는다."
         ]
       }
     }
