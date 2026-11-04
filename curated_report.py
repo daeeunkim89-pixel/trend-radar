@@ -245,8 +245,8 @@ def build_stories(edition, history, now):
     return sorted(stories, key=lambda s: s["editorial_order"]), history
 
 
-def render_edition(stories, target, empty_reason, excluded=0):
-    if len(stories) > REPORT_PICKS:
+def render_edition(stories, target, empty_reason, excluded=0, required=REPORT_PICKS):
+    if len(stories) > required:
         raise ValueError("Select five recommendations before rendering")
 
     def short(value, maximum):
@@ -254,9 +254,9 @@ def render_edition(stories, target, empty_reason, excluded=0):
 
     # Keep five usable summaries in one message; full text and evidence remain in /info.
     for title_size, why_size, angle_size, caution_size in ((72, 70, 64, 55), (60, 55, 50, 40), (48, 42, 38, 28)):
-        lines = [f"<b>⚡ btp · 추천 {len(stories)}/{REPORT_PICKS} · {stamp(target)}</b>"]
+        lines = [f"<b>⚡ btp · 추천 {len(stories)}/{required} · {stamp(target)}</b>"]
         if not stories:
-            lines += [f"이번 보고에서 검증을 마친 새 소재: 0개 · 목표 {REPORT_PICKS}개 · 부족 {REPORT_PICKS}개", html.escape(empty_reason or "검증·중복 제외 후 새 소재가 없습니다.")]
+            lines += [f"이번 보고에서 검증을 마친 새 소재: 0개 · 목표 {required}개 · 부족 {required}개", html.escape(empty_reason or "검증·중복 제외 후 새 소재가 없습니다.")]
         else:
             for i, story in enumerate(stories, 1):
                 p = story["editorial"]
@@ -269,8 +269,8 @@ def render_edition(stories, target, empty_reason, excluded=0):
                     lines.append("자료: " + link(m["label"], m["url"]))
                 if p["caution"]:
                     lines.append("확인: " + html.escape(short(p["caution"], caution_size)))
-            if len(stories) < REPORT_PICKS:
-                lines += ["", f"{REPORT_PICKS}개 중 {len(stories)}개 확보 · 부족 {REPORT_PICKS - len(stories)}개: " + html.escape(short(empty_reason or "검증·중복 제외 후 새 소재가 부족했습니다.", 100))]
+            if len(stories) < required:
+                lines += ["", f"{required}개 중 {len(stories)}개 확보 · 부족 {required - len(stories)}개: " + html.escape(short(empty_reason or "검증·중복 제외 후 새 소재가 부족했습니다.", 100))]
             lines += ["", "전체 제목·검증·제작 <code>/info 1</code> · 선정 <code>/pick 1</code>"]
         if excluded:
             lines.append(f"기존 발송·같은 사건 {excluded}개 제외")
@@ -322,35 +322,39 @@ def previous_decision(delivery_key):
     return None
 
 
-def record_attempt(target, status, ready=0, excluded=0, user_requested=False, reason_code=""):
+def record_attempt(target, status, ready=0, excluded=0, user_requested=False, reason_code="", required=REPORT_PICKS):
     """Public, credential-free outcome; never overwrite the last confirmed send."""
     atomic_json(ATTEMPT_FILE, {"version": 1, "updated_at": int(time.time()),
                              "hour_utc": hourly_key(target)[7:], "status": status,
-                             "ready": ready, "required": REPORT_PICKS,
-                             "missing": max(0, REPORT_PICKS - ready),
+                             "ready": ready, "required": required,
+                             "missing": max(0, required - ready),
                              "duplicates_excluded": excluded,
                              "reason_code": reason_code,
                              "trigger": "user_requested" if user_requested else "scheduled"})
 
 
-def hold_incomplete(target, stories, excluded=0, user_requested=False):
+def hold_incomplete(target, stories, excluded=0, user_requested=False, required=REPORT_PICKS):
     """Production must request more research before recording or locking a short edition."""
-    if os.environ.get("BTP_REQUIRE_COMPLETE", os.environ.get("BTP_REQUIRE_TEN")) != "1" or len(stories) >= REPORT_PICKS:
+    if os.environ.get("BTP_REQUIRE_COMPLETE", os.environ.get("BTP_REQUIRE_TEN")) != "1" or len(stories) >= required:
         return False
     ready = len(stories)
     record_attempt(target, "needs_more_research", ready, excluded, user_requested,
-                   reason_code="verified_count_under_target")
+                   reason_code="verified_count_under_target", required=required)
     print("BTP MORE RESEARCH REQUIRED", json.dumps(
-        {"ready": ready, "required": REPORT_PICKS, "missing": REPORT_PICKS - ready,
+        {"ready": ready, "required": required, "missing": required - ready,
          "duplicates_excluded": excluded, "delivery_attempted": False}))
     return True
 
 
 def main(recover_hour=None, prepared_hour=None, picks_file=PICKS_FILE, expected_sha256=None, preview=False,
-         user_requested=False, scheduled_fallback=False):
+         user_requested=False, scheduled_fallback=False, requested_stories=REPORT_PICKS):
     now = int(time.time())
     delivery_attempted = False
+    required = REPORT_PICKS
     try:
+        if type(requested_stories) is not int or not 1 <= requested_stories <= REPORT_PICKS or (not user_requested and requested_stories != REPORT_PICKS):
+            raise ValueError("Only an explicit on-demand request may change the story count")
+        required = requested_stories
         target = prepared_target(prepared_hour, now) if prepared_hour else recovery_target(recover_hour, now)
         if scheduled_fallback and (user_requested or prepared_hour):
             raise ValueError("A scheduled fallback is only for the current regular report hour")
@@ -366,7 +370,7 @@ def main(recover_hour=None, prepared_hour=None, picks_file=PICKS_FILE, expected_
                 status = ("delivery_uncertain" if previous["delivery"] == "uncertain"
                           else "already_sent")
                 record_attempt(target, status, ready, user_requested=user_requested,
-                               reason_code="recorded_" + previous["delivery"])
+                               reason_code="recorded_" + previous["delivery"], required=required)
                 print("BTP EDITORIAL RECORDED:", status)
                 return 0 if status == "already_sent" else 1
         edition = (load_progress_edition(target, now) if scheduled_fallback
@@ -380,15 +384,15 @@ def main(recover_hour=None, prepared_hour=None, picks_file=PICKS_FILE, expected_
         stories, history = build_stories(edition, history, now)
         stories = same_event_filter(stories)
         if preview:
-            parts = render_edition(stories[:REPORT_PICKS], target, edition["empty_reason"])
+            parts = render_edition(stories[:required], target, edition["empty_reason"], required=required)
             print("BTP EDITORIAL PREVIEW ONLY: no Telegram calls or state writes")
             print(parts[0])
             return 0
-        if hold_incomplete(target, stories, user_requested=user_requested):
+        if hold_incomplete(target, stories, user_requested=user_requested, required=required):
             return 3
         # Do not hold a verified HTTP connection idle throughout the preparation wait.
         if not wait_for_target(target):
-            record_attempt(target, "missed_window", len(stories), user_requested=user_requested)
+            record_attempt(target, "missed_window", len(stories), user_requested=user_requested, required=required)
             print("BTP EDITORIAL EXPIRED: no past-hour report sent")
             return 2
         if not scheduled_fallback:
@@ -401,7 +405,7 @@ def main(recover_hour=None, prepared_hour=None, picks_file=PICKS_FILE, expected_
         private = PrivateState(token, chat)
         previous = private.data.get("reports", {}).get(delivery_key, {})
         if previous.get("done") or previous.get("message_ids"):
-            record_attempt(target, "already_sent", len(previous.get("numbers", {})), user_requested=user_requested)
+            record_attempt(target, "already_sent", len(previous.get("numbers", {})), user_requested=user_requested, required=required)
             print("BTP EDITORIAL ALREADY_SENT: requested delivery ledger is complete")
             return 0
         if previous.get("uncertain"):
@@ -410,9 +414,9 @@ def main(recover_hour=None, prepared_hour=None, picks_file=PICKS_FILE, expected_
         stories = unreported_stories(stories, history, private, now)
         excluded = before - len(stories)
         stories = stories[:REPORT_PICKS]
-        if hold_incomplete(target, stories, excluded, user_requested):
+        if hold_incomplete(target, stories, excluded, user_requested, required=required):
             return 3
-        parts = render_edition(stories, target, edition["empty_reason"], excluded)
+        parts = render_edition(stories, target, edition["empty_reason"], excluded, required=required)
         # Verification/retries can consume time too; never deliver an expired review/hour.
         recovery_target(hourly_key(target)[7:], int(time.time()))
         if not scheduled_fallback:
@@ -431,9 +435,9 @@ def main(recover_hour=None, prepared_hour=None, picks_file=PICKS_FILE, expected_
                   "stories": len(stories), "duplicates_excluded": excluded,
                   "ai": ("chatgpt_reviewed_progress" if edition["picks"] else "scheduled_status_only")
                         if scheduled_fallback else "chatgpt_web_research",
-                  "missing": max(0, REPORT_PICKS - len(stories)), "target_met": len(stories) == REPORT_PICKS,
-                  "shortfall_reason": edition["empty_reason"] if len(stories) < REPORT_PICKS else "",
-                  "requested_stories": REPORT_PICKS,
+                  "missing": max(0, required - len(stories)), "target_met": len(stories) == required,
+                  "shortfall_reason": edition["empty_reason"] if len(stories) < required else "",
+                  "requested_stories": required,
                   "reviewed_edition_version": edition["version"],
                   "trigger": "user_requested" if user_requested else "scheduled_fallback" if scheduled_fallback else "hourly", "hour_utc": hourly_key(target)[7:],
                   "category_counts": {c: sum(s["category"] == c for s in stories) for c in CATEGORIES},
@@ -442,7 +446,7 @@ def main(recover_hour=None, prepared_hour=None, picks_file=PICKS_FILE, expected_
                   "picks": [{"title": s["lead"]["title"], "url": s["lead"]["link"],
                              "event_key": s["editorial"]["event_key"]} for s in stories]}
         atomic_json(STATE_FILE, {"updated_at": int(time.time()), "status": "ok", "errors": {}, "report": report})
-        record_attempt(target, report["delivery"], len(stories), excluded, user_requested)
+        record_attempt(target, report["delivery"], len(stories), excluded, user_requested, required=required)
         print("BTP EDITORIAL REPORT", json.dumps({k: v for k, v in report.items() if k != "picks"}, ensure_ascii=False))
         return 0
     except (ValueError, OSError, TypeError, TelegramError) as error:
@@ -451,9 +455,9 @@ def main(recover_hour=None, prepared_hour=None, picks_file=PICKS_FILE, expected_
             record_decision(stories, target, int(time.time()), "uncertain", locals().get("delivery_key"))
         if not preview and "target" in locals():
             status = "delivery_uncertain" if isinstance(error, DeliveryUncertain) else "delivery_failed"
-            ready = min(REPORT_PICKS, len(locals().get("stories", [])))
+            ready = min(required, len(locals().get("stories", [])))
             record_attempt(target, status, ready, user_requested=user_requested,
-                           reason_code=getattr(error, "code", type(error).__name__))
+                           reason_code=getattr(error, "code", type(error).__name__), required=required)
         print("BTP EDITORIAL DELIVERY_UNCERTAIN:" if isinstance(error, DeliveryUncertain) else "BTP EDITORIAL FAILED:", str(error))
         return 1
 
