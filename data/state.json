@@ -1,5 +1,5 @@
 {
-  "updated_at": 1793775982,
+  "updated_at": 1793779596,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026110407",
+    "hour_utc": "2026110408",
     "category_counts": {
       "시사": 2,
-      "축구": 0,
-      "메이저 스포츠": 3,
+      "축구": 1,
+      "메이저 스포츠": 2,
       "아이돌": 0
     },
-    "research_queries": 11,
-    "opened_sources": 5,
+    "research_queries": 16,
+    "opened_sources": 8,
     "picks": [
       {
-        "title": "저장 버튼 누락 추정…사격 최예인 세계선수권 개인·한국 단체전 출전 무산",
-        "url": "https://www.mk.co.kr/news/society/12195327",
-        "event_key": "issf-choi-ye-in-accreditation-omission-team-entry-lost-20261103"
+        "title": "맨유 반등에 부상 악재…캐릭, 발레바 햄스트링 손상 확인",
+        "url": "https://www.sportsmole.co.uk/football/man-utd/injury-news/news/baleba-update-carrick-confirms-hamstring-injury-as-return-timeline-assessed_608361.html",
+        "event_key": "manutd-baleba-hamstring-confirmed-carrick-assessment-20261103"
       },
       {
-        "title": "김하성, 애틀랜타 QO 못 받았다…영입 구단 지명권 부담 없이 FA 협상",
-        "url": "https://www.yna.co.kr/view/AKR20261103076000007",
-        "event_key": "kim-ha-seong-atlanta-no-qualifying-offer-free-agency-20261103"
+        "title": "오타니, 5번째 MVP 도전…최종 3인에 ‘40-40’ 크로암스트롱",
+        "url": "https://www.yna.co.kr/view/AKR20261103056400007",
+        "event_key": "mlb-nl-mvp-finalists-ohtani-crow-armstrong-turang-20261103"
       },
       {
-        "title": "레너드, 왼 무릎 치료 마치고 복귀 절차…토론토 ‘일주일 뒤 재평가’",
-        "url": "https://toronto.citynews.ca/2026/11/03/raptors-leonard-begins-return-to-play-process-will-be-re-evaluated-in-one-week/",
-        "event_key": "raptors-kawhi-leonard-treatment-complete-return-process-week-reevaluation-20261103"
+        "title": "최동원, 야구 선수 최초 대한민국 스포츠영웅 선정",
+        "url": "https://www.yna.co.kr/view/AKR20261104062800007",
+        "event_key": "choi-dong-won-first-baseball-korea-sports-hero-announced-20261104"
       },
       {
-        "title": "윤석열 선거법 2심도 징역형 집유…확정되면 국힘 397억원 반환",
-        "url": "https://www.yna.co.kr/amp/view/AKR20261104120300004",
-        "event_key": "yoon-election-law-appeal-conviction-suspended-sentence-397-eok-20261104"
+        "title": "트럼프, 선거 결과 수용…민주당 협력 말하면서 거부권도 예고",
+        "url": "https://www.yna.co.kr/view/AKR20261104096651071",
+        "event_key": "trump-midterm-result-acceptance-cooperation-veto-response-20261103"
       },
       {
-        "title": "합참 ‘북한 선덕서 동해로 미사일 수 발’…탄도미사일 여부 분석 중",
-        "url": "https://www.yna.co.kr/view/AKR20261104055151504",
-        "event_key": "north-korea-sondok-east-sea-multiple-missiles-jcs-20261104"
+        "title": "쿠팡 3분기 6423억 적자…화재 비용 빼도 2883억 손실",
+        "url": "https://www.sec.gov/Archives/edgar/data/1834584/000183458426000084/cpng-09302026ex991.htm",
+        "event_key": "coupang-q3-2026-loss-fire-excluded-20261103"
       }
     ]
   }
