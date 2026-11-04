@@ -1,79 +1,34 @@
 {
-  "updated_at": 1793715132,
+  "updated_at": 1793765816,
   "status": "ok",
   "errors": {},
   "report": {
     "version": "btp-editorial-v10",
     "delivery": "sent",
     "messages": 1,
-    "stories": 10,
+    "stories": 1,
     "duplicates_excluded": 0,
     "ai": "chatgpt_web_research",
     "missing": 0,
     "target_met": true,
     "shortfall_reason": "",
-    "requested_stories": 10,
+    "requested_stories": 1,
     "reviewed_edition_version": 2,
-    "trigger": "hourly",
-    "hour_utc": "2026110314",
+    "trigger": "user_requested",
+    "hour_utc": "2026110404",
     "category_counts": {
-      "시사": 2,
-      "축구": 3,
+      "시사": 0,
+      "축구": 0,
       "메이저 스포츠": 1,
-      "아이돌": 4
+      "아이돌": 0
     },
-    "research_queries": 47,
-    "opened_sources": 23,
+    "research_queries": 4,
+    "opened_sources": 3,
     "picks": [
       {
-        "title": "7파운드 아끼려 남의 교통패스 쓴 전 토트넘 선수…청구서는 565파운드",
-        "url": "https://www.itv.com/news/london/2026-11-02/ex-spurs-star-sebastien-bassong-convicted-of-dodging-7-tube-fare",
-        "event_key": "bassong-tube-fare-court-documents-first-reported-20261102"
-      },
-      {
-        "title": "에버턴 잘했다면서…쿤디는 ‘악취처럼 머문다’는 말도 안 거뒀다",
-        "url": "https://uk.sports.yahoo.com/news/jason-cundy-reacts-distasteful-everton-073000638.html",
-        "event_key": "cundy-sports-bar-everton-outstanding-bad-smell-double-down-20261102"
-      },
-      {
-        "title": "경기 중 충돌 뒤 숨진 헤수스 데 미겔…테네리페가 공식 발표했다",
-        "url": "https://www.clubdeportivotenerife.es/noticias/comunicado-oficial-fallecimiento-de-jesus-de-miguel",
-        "event_key": "tenerife-official-de-miguel-death-announcement-20261103"
-      },
-      {
-        "title": "결별 질문 받은 벨리칙의 역질문…‘이제 가십지에서 일해요?’",
-        "url": "https://www.aol.com/articles/bill-belichick-gets-cranky-reporter-230240000.html",
-        "event_key": "belichick-nov2-presser-tabloid-response-hudson-breakup-20261102"
-      },
-      {
-        "title": "‘북한에 27살 딸’ 피해 호소에 정동영이 짚은 건…‘방북은 21년 전’",
-        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442747",
-        "event_key": "chung-dong-young-cabinet-fake-daughter-age-mismatch-exchange-20261103"
-      },
-      {
-        "title": "몽클레어는 5만원에 팔았는데…황보라가 끝내 못 판 건 카시트",
-        "url": "https://www.xportsnews.com/article/2214944",
-        "event_key": "hwang-bo-ra-boraiety-flea-market-moncler-sold-car-seat-unsold-20261103"
-      },
-      {
-        "title": "선거 지면 조사받을 참모들? 트럼프는 ‘필요하면 선제 사면’ 답했다",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827278",
-        "event_key": "trump-nypost-podcast-conditional-preemptive-pardons-aides-20261102"
-      },
-      {
-        "title": "발목 다친 동생 위로하다가…유재석·유연석의 부상 자랑이 시작됐다",
-        "url": "https://www.tenasia.co.kr/article/2026110316564",
-        "event_key": "whenever-possible-yoo-jae-suk-yeon-seok-yang-injury-oneupmanship-preview-20261103"
-      },
-      {
-        "title": "김수미 흉내 냈다가 계약서 받은 후배…출연료 협상도 스승이 챙겼다",
-        "url": "https://www.starnewskorea.com/broadcast-show/2026/11/03/2026110313274186635",
-        "event_key": "yoo-byung-kwon-kim-soo-mi-imitation-contract-fees-mbc-preview-20261103"
-      },
-      {
-        "title": "돈 모으려고 일하는 게 아니라…고소영 ‘돈 쓸 시간 없게 일해야’",
-        "url": "https://www.xportsnews.com/article/2214881",
-        "event_key": "ko-so-young-nov3-vlog-work-less-spend-more-self-deprecating-comment-20261103"
+        "title": "8대0이 8대7까지…KT, 삼성 잡고 한국시리즈 첫판 승리",
+        "url": "https://www.news1.kr/sports/baseball/6342043",
+        "event_key": "kbo-korean-series-2026-game1-kt-samsung-8-7-20261103"
       }
     ]
   }
