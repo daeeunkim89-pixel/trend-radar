@@ -1,230 +1,232 @@
 {
   "version": 2,
-  "hour_utc": "2026110408",
+  "hour_utc": "2026110409",
   "reviewer": "ChatGPT",
-  "generated_at": 1793779520,
+  "generated_at": 1793783302,
   "coverage": {
     "queries": [
-      "2026년 11월 4일 17시 스포츠 주요 뉴스 확정",
-      "November 4 2026 football manager sacked injury major news",
-      "2026년 11월 4일 트럼프 중간선거 결과 수용 민주당 협력",
-      "2026년 11월 4일 오타니 MVP 최종 후보",
-      "November 4 2026 Alcaraz Sinner ATP finals injury withdrawal",
-      "November 3 2026 Baleba hamstring injury six weeks Manchester United",
-      "2026년 11월 4일 스포츠 중징계 감독 계약 공식",
-      "2026년 11월 4일 김연경 배구 주요 부상",
-      "2026년 11월 4일 스포츠 주요 뉴스 최동원 사망 징계 부상",
-      "2026년 11월 4일 쿠팡 영업손실 6423억원",
-      "November 4 2026 major sports news FIFA ban crisis",
-      "November 4 2026 Djokovic Vacherot Paris oldest",
-      "2026 11 4 최동원 대한민국 스포츠영웅 대한체육회 선정",
-      "2026 11 4 트럼프 결과 수용 민주당 협력 NYT",
-      "November 3 2026 Carlos Baleba Carrick hamstring confirmed",
-      "Coupang third quarter 2026 results November 3 2026 operating loss"
+      "2026년 11월 4일 18시 스포츠 주요 뉴스",
+      "November 4 2026 football breaking transfer sacked injury",
+      "2026년 11월 4일 아시안컵 연기 축구협회 모레노",
+      "2026년 11월 4일 대형 뉴스 오후 확정",
+      "2026년 11월 4일 스포츠 징계 부상 확정 농구 배구 야구",
+      "November 4 2026 sports Reuters NBA baseball tennis major",
+      "2026년 11월 4일 조작기소 특검 출범",
+      "2026년 11월 4일 손흥민 LAFC 플레이오프",
+      "2026년 11월 4일 site:yna.co.kr 스포츠",
+      "2026년 11월 4일 site:yna.co.kr 특검 출범",
+      "November 4 2026 Scott Parker West Ham appointed official",
+      "2026년 11월 4일 미국 이란 전쟁 주요 뉴스",
+      "2026년 11월 4일 스포츠 세계선수권 결승 금메달",
+      "November 4 2026 sports ban FIFA IOC official",
+      "2026년 11월 4일 site:yna.co.kr 경제 대책 발표",
+      "2026년 11월 4일 조작기소 특검 법사위 통과",
+      "2026년 11월 4일 드라마 제작 12개 단체 1조원 지원",
+      "2026년 11월 4일 예결위 820조 9천억원 162조",
+      "2026 November 3 champions league Arsenal Inter Real Madrid major injury",
+      "2026년 11월 4일 대법관 재제청 대통령 거부",
+      "November 3 2026 Saliba returns training four months Arsenal official",
+      "2026년 11월 4일 살리바 훈련 복귀"
     ],
     "opened_urls": [
-      "https://www.sportsmole.co.uk/football/man-utd/injury-news/news/baleba-update-carrick-confirms-hamstring-injury-as-return-timeline-assessed_608361.html",
-      "https://www.yna.co.kr/view/AKR20261103056400007",
-      "https://www.newspim.com/news/view/20261103000408",
-      "https://www.yna.co.kr/view/AKR20261104062800007",
-      "https://www.yna.co.kr/view/AKR20261104096651071",
-      "https://news.tvchosun.com/site/data/html_dir/2026/11/04/2026110490158.html",
-      "https://www.sec.gov/Archives/edgar/data/1834584/000183458426000084/cpng-09302026ex991.htm",
-      "https://www.inews24.com/view/2022305"
+      "https://arseblog.news/2026/11/arteta-saliba-ready-to-go-after-three-month-absence/",
+      "https://www.yna.co.kr/view/AKR20261103167700007",
+      "https://www.abc.net.au/news/2026-11-04/tennis-djokovic-oldest-winner-paris-masters-hijikata-clash-next/107343944",
+      "https://www.yna.co.kr/view/AKR20261104138600001",
+      "https://www.yna.co.kr/view/AKR20261104094500005",
+      "https://www.yna.co.kr/view/AKR20261103150800001",
+      "https://www.xportsnews.com/article/2215154"
     ],
     "unavailable": [
-      "맨유 공식 페이지 본문 미노출: 검색문과 독립 후속 본문으로 확인",
-      "일부 연합 웹 열람 실패: 공개 HTML의 실제 기사 본문 확인",
-      "수집 일부 소스 오류: 펨코 직접·인스티즈 이슈·네이버 스포츠 영상"
+      "일부 연합 검색 열람 실패: 공개 HTML 실제 기사 본문 확인",
+      "로이터 살리바 원문 접근 실패: 회견 상세 인용 본문으로 대조",
+      "PL 페이지 본문 미노출",
+      "수집 소스 일부 실패: 펨코 직접·인스티즈 이슈·네이버 스포츠 영상"
     ]
   },
   "picks": [
     {
-      "title": "맨유 반등에 부상 악재…캐릭, 발레바 햄스트링 손상 확인",
+      "title": "살리바, 월드컵 부상 뒤 복귀 준비 끝…아르테타 ‘출전 가능’",
       "category": "축구",
-      "url": "https://www.sportsmole.co.uk/football/man-utd/injury-news/news/baleba-update-carrick-confirms-hamstring-injury-as-return-timeline-assessed_608361.html",
-      "source": "Sports Mole·맨유",
+      "url": "https://arseblog.news/2026/11/arteta-saliba-ready-to-go-after-three-month-absence/",
+      "source": "Arseblog·로이터",
       "kind": "article",
-      "event_key": "manutd-baleba-hamstring-confirmed-carrick-assessment-20261103",
-      "why": "주전 중원 이탈 가능성이 맨유의 반등과 향후 전력 구상에 직접 영향을 준다.",
-      "angle": "감독이 확인한 햄스트링 문제와 아직 정해지지 않은 복귀 시점을 분리한다.",
-      "why_now": "경기·감독 발언은 영국 11/3. 후속 기사 최초 11/4 00:41(매체 표기, 시간대 미명시). 앞선 로마전 결과와 달리 새 부상 확인을 검토했다.",
-      "verified_at": 1793779520,
+      "event_key": "arsenal-saliba-full-training-match-ready-arteta-20261103",
+      "why": "아스널 핵심 수비수가 장기 공백 끝에 실전 복귀 준비를 마쳐 우승 경쟁과 수비진 운영에 영향을 준다.",
+      "angle": "월드컵 뒤 공백에서 비공개 경기 45분 소화·출전 가능 판단으로 이어진 변화를 보여준다.",
+      "why_now": "훈련 복귀·감독 회견은 영국 11/3. 해당 기사 최초 공개 11/3(분 미명시), 로이터 훈련 보도는 11/3 14:06 UTC. 48시간 안 미발송 발표를 검토했다.",
+      "verified_at": 1793783302,
       "published_at": null,
       "evidence": [
         {
-          "url": "https://www.sportsmole.co.uk/football/man-utd/injury-news/news/baleba-update-carrick-confirms-hamstring-injury-as-return-timeline-assessed_608361.html",
-          "note": "캐릭은 경기 뒤 발레바의 햄스트링 문제를 확인하고 며칠 더 평가해야 한다고 말했다. 초기 상태가 좋지 않다면서도 구체적인 복귀 기간은 제시하지 않았다. 기사 본문과 공식 발표 검색문을 대조했고 영상은 시청하지 않았다."
+          "url": "https://arseblog.news/2026/11/arteta-saliba-ready-to-go-after-three-month-absence/",
+          "note": "아르테타는 살리바가 지난주 비공개 경기에서 45분을 뛰었고 이제 출전할 준비가 됐다고 말했다. 3일 1군 전체 훈련에 참여했으며 슬라비아 프라하전 명단에 포함됐다. 회견을 인용한 본문을 확인했으며 실제 복귀 출전은 아직 확인하지 않았다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.sportsmole.co.uk/football/man-utd/injury-news/news/baleba-update-carrick-confirms-hamstring-injury-as-return-timeline-assessed_608361.html",
+          "url": "https://arseblog.news/2026/11/arteta-saliba-ready-to-go-after-three-month-absence/",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "손상 등급·결장 기간은 미확정. 기사에 나온 일반적인 3~6주 회복 예시를 실제 진단으로 쓰지 않는다.",
+      "caution": "훈련·명단 복귀와 공식 경기 출전을 구분한다. 선발이나 출전 시간이 확정된 것은 아니다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-03",
-        "observation": "캐릭은 경기 뒤 발레바의 햄스트링 문제를 확인하고 며칠 더 평가해야 한다고 말했다. 초기 상태가 좋지 않다면서도 구체적인 복귀 기간은 제시하지 않았다. 기사 본문과 공식 발표 검색문을 대조했고 영상은 시청하지 않았다.",
+        "observation": "아르테타는 살리바가 지난주 비공개 경기에서 45분을 뛰었고 이제 출전할 준비가 됐다고 말했다. 3일 1군 전체 훈련에 참여했으며 슬라비아 프라하전 명단에 포함됐다. 회견을 인용한 본문을 확인했으며 실제 복귀 출전은 아직 확인하지 않았다.",
         "checked_materials": [],
         "outline": [
-          "감독이 확인한 햄스트링 문제와 아직 정해지지 않은 복귀 시점을 분리한다.",
-          "손상 등급·결장 기간은 미확정. 기사에 나온 일반적인 3~6주 회복 예시를 실제 진단으로 쓰지 않는다."
+          "월드컵 뒤 공백에서 비공개 경기 45분 소화·출전 가능 판단으로 이어진 변화를 보여준다.",
+          "훈련·명단 복귀와 공식 경기 출전을 구분한다. 선발이나 출전 시간이 확정된 것은 아니다."
         ]
       }
     },
     {
-      "title": "오타니, 5번째 MVP 도전…최종 3인에 ‘40-40’ 크로암스트롱",
-      "category": "메이저 스포츠",
-      "url": "https://www.yna.co.kr/view/AKR20261103056400007",
-      "source": "연합뉴스·뉴스핌",
+      "title": "아시안컵 연기 여파…축구협회 ‘모레노 정식 계약은 차기 집행부 몫’",
+      "category": "축구",
+      "url": "https://www.yna.co.kr/view/AKR20261103167700007",
+      "source": "연합뉴스",
       "kind": "article",
-      "event_key": "mlb-nl-mvp-finalists-ohtani-crow-armstrong-turang-20261103",
-      "why": "MLB 최고 개인상 최종 후보가 확정되면서 오타니의 연속 수상 도전과 새 경쟁 구도가 정해졌다.",
-      "angle": "최종 후보 3명 발표를 먼저 보여주고, 모의 투표와 실제 수상을 구분한다.",
-      "why_now": "MLB 최종 후보 공개는 11/3 KST(분 미확인), 연합 최초 보도 11/3 09:55 KST. 미발송 원본을 48시간 범위로 확장해 검토했다.",
-      "verified_at": 1793779520,
+      "event_key": "kfa-moreno-contract-next-executive-after-asian-cup-delay-20261103",
+      "why": "대표팀 감독 계약 만료와 협회장 공백이 겹쳐 한국 축구의 차기 지휘 체계에 직접 영향을 준다.",
+      "angle": "11월 27일 계약 종료와 차기 집행부 선임 사이 공백을 협회 관계자 발언으로 짚는다.",
+      "why_now": "협회 관계자의 11/3 전화 발언. 원문 최초 11/3 17:37 KST. 아시안컵 연기 자체·일본 감독 전망과 다른 한국 대표팀 계약 대응을 검토했다.",
+      "verified_at": 1793783302,
       "published_at": null,
       "evidence": [
         {
-          "url": "https://www.yna.co.kr/view/AKR20261103056400007",
-          "note": "NL MVP 최종 후보는 오타니·크로암스트롱·투랑 3명이다. 크로암스트롱은 마지막 MLB닷컴 모의 투표에서 38명 전원의 1위 표를 받았다. 실제 MVP 발표는 11/13 KST로 보도됐다. 두 매체 본문을 확인했다."
+          "url": "https://www.yna.co.kr/view/AKR20261103167700007",
+          "note": "협회 관계자는 11월 6경기 평가 내용을 이사회에 알리되 차기 사령탑 선정은 다음 집행부에 넘기는 것이 최선이라고 말했다. 모레노의 임시 지위를 당분간 인정하는 방안도 언급했다. 익명 관계자 인용 본문에서 확인했다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.yna.co.kr/view/AKR20261103056400007",
+          "url": "https://www.yna.co.kr/view/AKR20261103167700007",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "모의 투표 만장일치는 실제 BBWAA 수상 결과가 아니다. 후보 선정과 수상 확정을 혼동하지 않는다.",
+      "caution": "모레노 퇴임·재계약 불발이 확정된 것은 아니다. 대회 세부 날짜는 기사끼리 달라 단정하지 않는다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-03",
-        "observation": "NL MVP 최종 후보는 오타니·크로암스트롱·투랑 3명이다. 크로암스트롱은 마지막 MLB닷컴 모의 투표에서 38명 전원의 1위 표를 받았다. 실제 MVP 발표는 11/13 KST로 보도됐다. 두 매체 본문을 확인했다.",
+        "observation": "협회 관계자는 11월 6경기 평가 내용을 이사회에 알리되 차기 사령탑 선정은 다음 집행부에 넘기는 것이 최선이라고 말했다. 모레노의 임시 지위를 당분간 인정하는 방안도 언급했다. 익명 관계자 인용 본문에서 확인했다.",
         "checked_materials": [],
         "outline": [
-          "최종 후보 3명 발표를 먼저 보여주고, 모의 투표와 실제 수상을 구분한다.",
-          "모의 투표 만장일치는 실제 BBWAA 수상 결과가 아니다. 후보 선정과 수상 확정을 혼동하지 않는다."
+          "11월 27일 계약 종료와 차기 집행부 선임 사이 공백을 협회 관계자 발언으로 짚는다.",
+          "모레노 퇴임·재계약 불발이 확정된 것은 아니다. 대회 세부 날짜는 기사끼리 달라 단정하지 않는다."
         ]
       }
     },
     {
-      "title": "최동원, 야구 선수 최초 대한민국 스포츠영웅 선정",
+      "title": "39세 조코비치, 파리 마스터스 최고령 승리…파이널스 도전 이어간다",
       "category": "메이저 스포츠",
-      "url": "https://www.yna.co.kr/view/AKR20261104062800007",
-      "source": "연합뉴스·대한체육회",
+      "url": "https://www.abc.net.au/news/2026-11-04/tennis-djokovic-oldest-winner-paris-masters-hijikata-clash-next/107343944",
+      "source": "ABC·AAP",
       "kind": "article",
-      "event_key": "choi-dong-won-first-baseball-korea-sports-hero-announced-20261104",
-      "why": "한국 야구를 대표하는 인물이 종목 최초로 국가 체육계의 역사적 기념 대상에 올랐다.",
-      "angle": "야구 첫 선정이라는 새 결정에서 시작해 1984년 한국시리즈 4승의 의미를 연결한다.",
-      "why_now": "선정 심의는 10/27, 대한체육회 공식 공개는 11/4(분 미확인). 연합 최초 보도 11/4 10:17 KST. 과거 기록 재탕이 아닌 새 선정 발표다.",
-      "verified_at": 1793779520,
+      "event_key": "djokovic-paris-masters-oldest-match-win-vacherot-20261103",
+      "why": "세계 테니스의 대표 스타가 대회 최고령 승리 기록을 세우며 시즌 최종전 출전 경쟁을 이어갔다.",
+      "angle": "어깨 치료와 역전승을 거쳐 대회 최고령 승자가 된 결과를 먼저 전한다.",
+      "why_now": "경기는 파리 현지 11/3. ABC 최초 기사 11/4 07:16(페이지 표기, 시간대 미명시). 첫 공개 분은 특정하지 못했으며 경기 당일 원본 보도를 확인했다.",
+      "verified_at": 1793783302,
       "published_at": null,
       "evidence": [
         {
-          "url": "https://www.yna.co.kr/view/AKR20261104062800007",
-          "note": "대한체육회가 최동원을 2026 스포츠영웅으로 선정했다고 4일 발표했다. 야구 선수 최초이며 박신자·차범근에 이은 구기 종목 세 번째다. 12월 헌액식 예정이라는 본문을 확인했다. 선정 심의일과 공개일을 구분했다."
+          "url": "https://www.abc.net.au/news/2026-11-04/tennis-djokovic-oldest-winner-paris-masters-hijikata-clash-next/107343944",
+          "note": "조코비치는 바슈로에게 첫 세트를 내준 뒤 6-7, 7-5, 6-1로 역전해 39세에 파리 마스터스 역대 최고령 경기 승자가 됐다. 경기 중 어깨 치료를 받았다는 본문과 파이널스 출전 경쟁 지속을 확인했다. 경기 영상은 시청하지 않았다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.yna.co.kr/view/AKR20261104062800007",
+          "url": "https://www.abc.net.au/news/2026-11-04/tennis-djokovic-oldest-winner-paris-masters-hijikata-clash-next/107343944",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "10/27 심의와 11/4 공개를 구분한다. 12월 헌액식은 예정이며 과거 경기 영상을 새로 확인한 것은 아니다.",
+      "caution": "대회 최고령 ‘경기 승리’이며 우승 기록이 아니다. 파이널스 출전 확정으로 쓰지 않는다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-03",
+        "observation": "조코비치는 바슈로에게 첫 세트를 내준 뒤 6-7, 7-5, 6-1로 역전해 39세에 파리 마스터스 역대 최고령 경기 승자가 됐다. 경기 중 어깨 치료를 받았다는 본문과 파이널스 출전 경쟁 지속을 확인했다. 경기 영상은 시청하지 않았다.",
+        "checked_materials": [],
+        "outline": [
+          "어깨 치료와 역전승을 거쳐 대회 최고령 승자가 된 결과를 먼저 전한다.",
+          "대회 최고령 ‘경기 승리’이며 우승 기록이 아니다. 파이널스 출전 확정으로 쓰지 않는다."
+        ]
+      }
+    },
+    {
+      "title": "‘조작기소 특검법’ 법사소위 통과…공소취소권 조항은 삭제",
+      "category": "시사",
+      "url": "https://www.yna.co.kr/view/AKR20261104138600001",
+      "source": "연합뉴스",
+      "kind": "article",
+      "event_key": "fabricated-prosecution-special-counsel-bill-subcommittee-passed-20261104",
+      "why": "대통령 관련 재판과 전 정부 수사 전반을 다루는 대형 특검 법안이 실제 입법 절차를 통과했다.",
+      "angle": "소위 통과와 공소취소권 문구 삭제라는 두 변화를 구분해 제시한다.",
+      "why_now": "국회 법사소위 의결은 11/4(정확한 분 미확인), 원문 최초 16:09 KST. 5일 본회의 처리는 당시 여당 계획으로 보도됐다.",
+      "verified_at": 1793783302,
+      "published_at": null,
+      "evidence": [
+        {
+          "url": "https://www.yna.co.kr/view/AKR20261104138600001",
+          "note": "법사위 법안심사1소위가 특검법안을 수정 의결했다. 특검이 공소 유지 여부를 결정할 수 있도록 한 조항이 삭제되고 수사 대상이 조정됐다. 국민의힘은 반발해 퇴장했다. 여야 입장과 소위 처리 사실을 기사 본문에서 구분했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.yna.co.kr/view/AKR20261104138600001",
+          "label": "확인한 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "소위 통과를 본회의 통과·법 시행으로 쓰지 않는다. 조작기소 의혹이 사실로 확정된 것은 아니다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-04",
-        "observation": "대한체육회가 최동원을 2026 스포츠영웅으로 선정했다고 4일 발표했다. 야구 선수 최초이며 박신자·차범근에 이은 구기 종목 세 번째다. 12월 헌액식 예정이라는 본문을 확인했다. 선정 심의일과 공개일을 구분했다.",
+        "observation": "법사위 법안심사1소위가 특검법안을 수정 의결했다. 특검이 공소 유지 여부를 결정할 수 있도록 한 조항이 삭제되고 수사 대상이 조정됐다. 국민의힘은 반발해 퇴장했다. 여야 입장과 소위 처리 사실을 기사 본문에서 구분했다.",
         "checked_materials": [],
         "outline": [
-          "야구 첫 선정이라는 새 결정에서 시작해 1984년 한국시리즈 4승의 의미를 연결한다.",
-          "10/27 심의와 11/4 공개를 구분한다. 12월 헌액식은 예정이며 과거 경기 영상을 새로 확인한 것은 아니다."
+          "소위 통과와 공소취소권 문구 삭제라는 두 변화를 구분해 제시한다.",
+          "소위 통과를 본회의 통과·법 시행으로 쓰지 않는다. 조작기소 의혹이 사실로 확정된 것은 아니다."
         ]
       }
     },
     {
-      "title": "트럼프, 선거 결과 수용…민주당 협력 말하면서 거부권도 예고",
+      "title": "드라마 산업 12개 단체 ‘고사 위기’…5년간 1조원 지원 요구",
       "category": "시사",
-      "url": "https://www.yna.co.kr/view/AKR20261104096651071",
-      "source": "연합뉴스·TV조선",
+      "url": "https://www.yna.co.kr/view/AKR20261104094500005",
+      "source": "연합뉴스",
       "kind": "article",
-      "event_key": "trump-midterm-result-acceptance-cooperation-veto-response-20261103",
-      "why": "미 의회 권력 변화 뒤 대통령의 수용·협상·거부권 방침은 남은 임기와 한미 현안에 영향을 줄 주요 후속이다.",
-      "angle": "선거 결과 수용과 거부권 예고를 나란히 놓고 실제 협력은 향후 과제로 남긴다.",
-      "why_now": "발언은 미국 11/3 밤. NYT 전화 인터뷰는 22:30경 EST(11/4 12:30 KST), 최초 공개 분은 미확인. 초기 보도 13:24, 종합 15:38 KST. 앞선 개표 전망과 구분되는 대통령 대응이다.",
-      "verified_at": 1793779520,
+      "event_key": "k-drama-twelve-industry-groups-five-year-trillion-support-demand-20261104",
+      "why": "제작사·방송사·작가·스태프 단체가 함께 일자리와 IP 수익 구조 문제를 제기한 산업 전체 사안이다.",
+      "angle": "연예인 근황이 아닌 제작 일자리 축소와 1조원 지원 요구의 구조를 설명한다.",
+      "why_now": "12개 단체 공동 회견은 11/4 오전(분 미확인). 원문 최초 11/4 14:13 KST. 과거 제작 감소 수치와 이날 새 공동 요구를 분리했다.",
+      "verified_at": 1793783302,
       "published_at": null,
       "evidence": [
         {
-          "url": "https://www.yna.co.kr/view/AKR20261104096651071",
-          "note": "NYT·폭스 인터뷰를 인용한 본문에서 결과 수용·민주당 협력 의사와 민주당 법안에 거부권을 행사하겠다는 발언을 확인했다. 각료 교체가 없을 것이라는 입장도 보도됐다. 원 인터뷰 전체를 직접 청취하지는 않았다."
+          "url": "https://www.yna.co.kr/view/AKR20261104094500005",
+          "note": "12개 제작·창작자 단체가 공동 회견에서 중장기 1조원 지원체계를 요구했다. 연간 2000억원씩 5년 지원하고 방송사·플랫폼도 제작비를 분담하자는 제안이다. 제작 편수 감소와 IP 수익 공유 문제는 단체들의 집계·주장임을 확인했다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.yna.co.kr/view/AKR20261104096651071",
+          "url": "https://www.yna.co.kr/view/AKR20261104094500005",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "선거 결과·의석 확정 자체를 재추천하지 않는다. 협력은 대통령 의향이며 실제 합의나 정책 변경이 확정된 것은 아니다.",
+      "caution": "정부가 1조원 지원을 결정한 것이 아니다. 제작 감소·고사 위기 평가는 업계 집계와 주장이다.",
       "readiness": {
         "mode": "major_news",
-        "event_date": "2026-11-03",
-        "observation": "NYT·폭스 인터뷰를 인용한 본문에서 결과 수용·민주당 협력 의사와 민주당 법안에 거부권을 행사하겠다는 발언을 확인했다. 각료 교체가 없을 것이라는 입장도 보도됐다. 원 인터뷰 전체를 직접 청취하지는 않았다.",
+        "event_date": "2026-11-04",
+        "observation": "12개 제작·창작자 단체가 공동 회견에서 중장기 1조원 지원체계를 요구했다. 연간 2000억원씩 5년 지원하고 방송사·플랫폼도 제작비를 분담하자는 제안이다. 제작 편수 감소와 IP 수익 공유 문제는 단체들의 집계·주장임을 확인했다.",
         "checked_materials": [],
         "outline": [
-          "선거 결과 수용과 거부권 예고를 나란히 놓고 실제 협력은 향후 과제로 남긴다.",
-          "선거 결과·의석 확정 자체를 재추천하지 않는다. 협력은 대통령 의향이며 실제 합의나 정책 변경이 확정된 것은 아니다."
-        ]
-      }
-    },
-    {
-      "title": "쿠팡 3분기 6423억 적자…화재 비용 빼도 2883억 손실",
-      "category": "시사",
-      "url": "https://www.sec.gov/Archives/edgar/data/1834584/000183458426000084/cpng-09302026ex991.htm",
-      "source": "쿠팡 SEC 공시·아이뉴스24",
-      "kind": "official",
-      "event_key": "coupang-q3-2026-loss-fire-excluded-20261103",
-      "why": "국내 최대 전자상거래 기업의 연속 적자와 화재 비용을 빼도 남는 손실은 소비·유통 산업의 주요 변화다.",
-      "angle": "전체 영업손실과 화재 비용 제외 손실을 비교해 일회성 비용만의 문제인지 짚는다.",
-      "why_now": "실적 공개는 미국 11/3(원문 분 미명시), 대상 기간은 7~9월. 국내 기사 최초 11/4 06:56 KST, 수정 07:06. 공시 원문 수치를 직접 확인했다.",
-      "verified_at": 1793779520,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://www.sec.gov/Archives/edgar/data/1834584/000183458426000084/cpng-09302026ex991.htm",
-          "note": "SEC 실적 발표문에서 매출 99억6200만달러, 영업손실 4억5000만달러, 화재 비용 제외 영업손실 2억200만달러를 확인했다. 국내 기사는 분기 평균 환율로 각각 약 6423억원·2883억원으로 환산했다."
-        },
-        {
-          "url": "https://www.inews24.com/view/2022305",
-          "note": "최초 11/4 06:56 KST. 환산 손실 약6423억원, 화재 제외 약2883억원. 3개 분기 연속 적자와 비GAAP 조정 수치 확인."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.sec.gov/Archives/edgar/data/1834584/000183458426000084/cpng-09302026ex991.htm",
-          "label": "확인한 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "달러 공시와 원화 환산을 구분한다. 화재 제외 수치는 회사의 비GAAP 조정치이며 적자를 특정 원인 하나로 단정하지 않는다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-03",
-        "observation": "SEC 실적 발표문에서 매출 99억6200만달러, 영업손실 4억5000만달러, 화재 비용 제외 영업손실 2억200만달러를 확인했다. 국내 기사는 분기 평균 환율로 각각 약 6423억원·2883억원으로 환산했다.",
-        "checked_materials": [],
-        "outline": [
-          "전체 영업손실과 화재 비용 제외 손실을 비교해 일회성 비용만의 문제인지 짚는다.",
-          "달러 공시와 원화 환산을 구분한다. 화재 제외 수치는 회사의 비GAAP 조정치이며 적자를 특정 원인 하나로 단정하지 않는다."
+          "연예인 근황이 아닌 제작 일자리 축소와 1조원 지원 요구의 구조를 설명한다.",
+          "정부가 1조원 지원을 결정한 것이 아니다. 제작 감소·고사 위기 평가는 업계 집계와 주장이다."
         ]
       }
     }
