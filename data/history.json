@@ -1,6 +1,361 @@
 {
   "version": 1,
   "items": {
+    "7a2e7114dd16": {
+      "source": "매일경제·사격연맹 설명",
+      "title": "저장 버튼 누락 추정…사격 최예인 세계선수권 개인·한국 단체전 출전 무산",
+      "link": "https://www.mk.co.kr/news/society/12195327",
+      "first_seen_at": 1793775981,
+      "last_seen_at": 1793775981,
+      "samples": [
+        {
+          "at": 1793775981,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "7a2e7114dd16",
+      "editorial": {
+        "title": "저장 버튼 누락 추정…사격 최예인 세계선수권 개인·한국 단체전 출전 무산",
+        "category": "메이저 스포츠",
+        "url": "https://www.mk.co.kr/news/society/12195327",
+        "source": "매일경제·사격연맹 설명",
+        "kind": "article",
+        "event_key": "issf-choi-ye-in-accreditation-omission-team-entry-lost-20261103",
+        "why": "국가대표가 도하까지 갔지만 연맹의 등록 누락으로 사대에 서지 못했다. 한 선수의 피해가 한국 여자 공기소총 단체전 불참으로 이어졌다.",
+        "angle": "등록 누락 하나가 개인전과 단체전을 막았다",
+        "why_now": "사건 11/3 KST. 최초 보도 확인일도 11/3(분 미확인), 매경 입력 21:44. 11/4 재기사 시각으로 바꾸지 않음.",
+        "verified_at": 1793775888,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.mk.co.kr/news/society/12195327",
+            "note": "본문에서 AD 카드 신청 누락, 현지 추가 등록 실패, 단체전 최소3명 미충족을 확인. 저장 버튼을 누르지 않았다는 것은 연맹의 추정이며 담당 직원 대기발령 설명을 읽음."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.mk.co.kr/news/society/12195327",
+            "label": "확인한 본문·사실 카드",
+            "kind": "source"
+          }
+        ],
+        "caution": "기사 본문 확인. 저장 버튼 누락은 연맹 추정이며 시스템 로그 직접 확인 아님.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-03",
+          "observation": "본문에서 AD 카드 신청 누락, 현지 추가 등록 실패, 단체전 최소3명 미충족을 확인. 저장 버튼을 누르지 않았다는 것은 연맹의 추정이며 담당 직원 대기발령 설명을 읽음.",
+          "checked_materials": [],
+          "outline": [
+            "등록 누락 하나가 개인전과 단체전을 막았다",
+            "기사 본문 확인. 저장 버튼 누락은 연맹 추정이며 시스템 로그 직접 확인 아님."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 본문·사실 카드",
+            "url": "https://www.mk.co.kr/news/society/12195327"
+          }
+        ],
+        "excerpt": "",
+        "context": "사건 11/3 KST. 최초 보도 확인일도 11/3(분 미확인), 매경 입력 21:44. 11/4 재기사 시각으로 바꾸지 않음.",
+        "fetched_at": 1793775981,
+        "parser_revision": 7
+      },
+      "curation_event_key": "issf-choi-ye-in-accreditation-omission-team-entry-lost-20261103"
+    },
+    "3be7a7f7796d": {
+      "source": "연합뉴스·MLB 발표 보도",
+      "title": "김하성, 애틀랜타 QO 못 받았다…영입 구단 지명권 부담 없이 FA 협상",
+      "link": "https://www.yna.co.kr/view/AKR20261103076000007",
+      "first_seen_at": 1793775981,
+      "last_seen_at": 1793775981,
+      "samples": [
+        {
+          "at": 1793775981,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "3be7a7f7796d",
+      "editorial": {
+        "title": "김하성, 애틀랜타 QO 못 받았다…영입 구단 지명권 부담 없이 FA 협상",
+        "category": "메이저 스포츠",
+        "url": "https://www.yna.co.kr/view/AKR20261103076000007",
+        "source": "연합뉴스·MLB 발표 보도",
+        "kind": "article",
+        "event_key": "kim-ha-seong-atlanta-no-qualifying-offer-free-agency-20261103",
+        "why": "한국인 메이저리거의 다음 계약 조건이 달라졌다. 고액 단년 제안은 없었지만 영입 구단의 보상 지명권 부담도 없어 FA 행선지에 영향을 준다.",
+        "angle": "QO 미제안으로 달라진 김하성 FA 조건",
+        "why_now": "QO 명단 최초 공개 확인일 11/3 KST(미국 현지 11/2, 첫 분 미확인). 연합뉴스 첫 입력 11/3 10:39. 48시간 내 미발송 원본으로 확대 검토.",
+        "verified_at": 1793775888,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261103076000007",
+            "note": "본문에서 김하성이 QO를 받지 않았고 이번 QO 금액은 2315만달러라는 점 확인. 김하성을 영입하는 구단의 지명권 손실 부담이 없으며 애틀랜타 재계약 가능성도 남아 있다고 명시."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261103076000007",
+            "label": "확인한 본문·사실 카드",
+            "kind": "source"
+          }
+        ],
+        "caution": "본문 확인 기사형. 방출·결별 확정이나 FA 계약 성사로 해석하지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-03",
+          "observation": "본문에서 김하성이 QO를 받지 않았고 이번 QO 금액은 2315만달러라는 점 확인. 김하성을 영입하는 구단의 지명권 손실 부담이 없으며 애틀랜타 재계약 가능성도 남아 있다고 명시.",
+          "checked_materials": [],
+          "outline": [
+            "QO 미제안으로 달라진 김하성 FA 조건",
+            "본문 확인 기사형. 방출·결별 확정이나 FA 계약 성사로 해석하지 않음."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 본문·사실 카드",
+            "url": "https://www.yna.co.kr/view/AKR20261103076000007"
+          }
+        ],
+        "excerpt": "",
+        "context": "QO 명단 최초 공개 확인일 11/3 KST(미국 현지 11/2, 첫 분 미확인). 연합뉴스 첫 입력 11/3 10:39. 48시간 내 미발송 원본으로 확대 검토.",
+        "fetched_at": 1793775981,
+        "parser_revision": 7
+      },
+      "curation_event_key": "kim-ha-seong-atlanta-no-qualifying-offer-free-agency-20261103"
+    },
+    "0ecf7c50f798": {
+      "source": "CityNews·구단 성명 인용",
+      "title": "레너드, 왼 무릎 치료 마치고 복귀 절차…토론토 ‘일주일 뒤 재평가’",
+      "link": "https://toronto.citynews.ca/2026/11/03/raptors-leonard-begins-return-to-play-process-will-be-re-evaluated-in-one-week/",
+      "first_seen_at": 1793775981,
+      "last_seen_at": 1793775981,
+      "samples": [
+        {
+          "at": 1793775981,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "0ecf7c50f798",
+      "editorial": {
+        "title": "레너드, 왼 무릎 치료 마치고 복귀 절차…토론토 ‘일주일 뒤 재평가’",
+        "category": "메이저 스포츠",
+        "url": "https://toronto.citynews.ca/2026/11/03/raptors-leonard-begins-return-to-play-process-will-be-re-evaluated-in-one-week/",
+        "source": "CityNews·구단 성명 인용",
+        "kind": "article",
+        "event_key": "raptors-kawhi-leonard-treatment-complete-return-process-week-reevaluation-20261103",
+        "why": "토론토로 돌아온 핵심 스타가 두 경기만 뛴 뒤 결장 중이다. 구단은 치료 종료를 알렸지만 복귀전 대신 일주일 뒤 재평가를 예고했다.",
+        "angle": "치료 종료와 경기 복귀는 다르다는 토론토 발표",
+        "why_now": "새 구단 성명은 11/3 현지 공개(최초 분 미확인). 원문 게시 11/3 20:42 ET. 10/25 결장 시작이나 10/27 최초 부상 공지와 구별되는 후속.",
+        "verified_at": 1793775888,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://toronto.citynews.ca/2026/11/03/raptors-leonard-begins-return-to-play-process-will-be-re-evaluated-in-one-week/",
+            "note": "기사 본문에 인용된 구단 성명에서 왼 무릎 부종 치료 종료·토론토 복귀 절차 시작·일주일 뒤 경과 발표를 확인. 11/16주 복귀 가능성은 기자 추론이므로 추천 사실에서 제외."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://toronto.citynews.ca/2026/11/03/raptors-leonard-begins-return-to-play-process-will-be-re-evaluated-in-one-week/",
+            "label": "확인한 본문·사실 카드",
+            "kind": "source"
+          }
+        ],
+        "caution": "구단 성명 인용 본문 확인. 복귀 날짜·장기 결장 기간은 확정하지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-03",
+          "observation": "기사 본문에 인용된 구단 성명에서 왼 무릎 부종 치료 종료·토론토 복귀 절차 시작·일주일 뒤 경과 발표를 확인. 11/16주 복귀 가능성은 기자 추론이므로 추천 사실에서 제외.",
+          "checked_materials": [],
+          "outline": [
+            "치료 종료와 경기 복귀는 다르다는 토론토 발표",
+            "구단 성명 인용 본문 확인. 복귀 날짜·장기 결장 기간은 확정하지 않음."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 본문·사실 카드",
+            "url": "https://toronto.citynews.ca/2026/11/03/raptors-leonard-begins-return-to-play-process-will-be-re-evaluated-in-one-week/"
+          }
+        ],
+        "excerpt": "",
+        "context": "새 구단 성명은 11/3 현지 공개(최초 분 미확인). 원문 게시 11/3 20:42 ET. 10/25 결장 시작이나 10/27 최초 부상 공지와 구별되는 후속.",
+        "fetched_at": 1793775981,
+        "parser_revision": 7
+      },
+      "curation_event_key": "raptors-kawhi-leonard-treatment-complete-return-process-week-reevaluation-20261103"
+    },
+    "5c8ac0b83cb8": {
+      "source": "연합뉴스 법정 보도",
+      "title": "윤석열 선거법 2심도 징역형 집유…확정되면 국힘 397억원 반환",
+      "link": "https://www.yna.co.kr/amp/view/AKR20261104120300004",
+      "first_seen_at": 1793775981,
+      "last_seen_at": 1793775981,
+      "samples": [
+        {
+          "at": 1793775981,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "5c8ac0b83cb8",
+      "editorial": {
+        "title": "윤석열 선거법 2심도 징역형 집유…확정되면 국힘 397억원 반환",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/amp/view/AKR20261104120300004",
+        "source": "연합뉴스 법정 보도",
+        "kind": "article",
+        "event_key": "yoon-election-law-appeal-conviction-suspended-sentence-397-eok-20261104",
+        "why": "전직 대통령의 대선 허위 발언 사건 항소심이 1심 유죄를 유지했다. 판결 확정 여부가 국민의힘 선거비용 397억원 반환과 직결된다.",
+        "angle": "2심 유죄 유지와 397억원 반환의 확정 조건",
+        "why_now": "새 항소심 선고는 11/4 14:00 KST 시작 공판. 확인한 결과 기사 첫 송고 14:47. 최초 속보 분은 미확인, 1심과 별도 새 판결.",
+        "verified_at": 1793775888,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/amp/view/AKR20261104120300004",
+            "note": "본문에서 서울고법이 항소 기각, 징역1년6개월·집행유예3년을 유지한 사실을 확인. 선거비용 반환은 이 형이 최종 확정되는 경우라는 조건을 명시. 한겨레 결과 보도와 대조."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/amp/view/AKR20261104120300004",
+            "label": "확인한 본문·사실 카드",
+            "kind": "source"
+          }
+        ],
+        "caution": "법정 보도 본문 확인. 대법 확정·현재 397억원 반환 완료로 쓰지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-04",
+          "observation": "본문에서 서울고법이 항소 기각, 징역1년6개월·집행유예3년을 유지한 사실을 확인. 선거비용 반환은 이 형이 최종 확정되는 경우라는 조건을 명시. 한겨레 결과 보도와 대조.",
+          "checked_materials": [],
+          "outline": [
+            "2심 유죄 유지와 397억원 반환의 확정 조건",
+            "법정 보도 본문 확인. 대법 확정·현재 397억원 반환 완료로 쓰지 않음."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 본문·사실 카드",
+            "url": "https://www.yna.co.kr/amp/view/AKR20261104120300004"
+          }
+        ],
+        "excerpt": "",
+        "context": "새 항소심 선고는 11/4 14:00 KST 시작 공판. 확인한 결과 기사 첫 송고 14:47. 최초 속보 분은 미확인, 1심과 별도 새 판결.",
+        "fetched_at": 1793775981,
+        "parser_revision": 7
+      },
+      "curation_event_key": "yoon-election-law-appeal-conviction-suspended-sentence-397-eok-20261104"
+    },
+    "2e2645aaeed8": {
+      "source": "연합뉴스·합참 발표 인용",
+      "title": "합참 ‘북한 선덕서 동해로 미사일 수 발’…탄도미사일 여부 분석 중",
+      "link": "https://www.yna.co.kr/view/AKR20261104055151504",
+      "first_seen_at": 1793775981,
+      "last_seen_at": 1793775981,
+      "samples": [
+        {
+          "at": 1793775981,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "2e2645aaeed8",
+      "editorial": {
+        "title": "합참 ‘북한 선덕서 동해로 미사일 수 발’…탄도미사일 여부 분석 중",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261104055151504",
+        "source": "연합뉴스·합참 발표 인용",
+        "kind": "article",
+        "event_key": "north-korea-sondok-east-sea-multiple-missiles-jcs-20261104",
+        "why": "북한이 동해상으로 여러 발을 발사해 한미가 탐지·추적했다. 한국 안보에 직접 영향을 주는 새 군사 동향이며 무기 종류는 아직 확정되지 않았다.",
+        "angle": "여러 발 발사는 확인, 무기 종류는 분석 중",
+        "why_now": "발사는 11/4 오전 KST. 합참 당일 최초 공지 분은 미확인. 확인 기사 12:12는 종합 보도 송고이며 첫 공개 시각으로 대체하지 않음.",
+        "verified_at": 1793775888,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261104055151504",
+            "note": "본문에서 합참이 함경남도 선덕 일대의 미사일 수 발을 포착했다는 발표를 확인. 제원·사거리·탄도미사일 여부를 정밀 분석 중이라고 명시하며 과거 10/31 시험 사진과 구분."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261104055151504",
+            "label": "확인한 본문·사실 카드",
+            "kind": "source"
+          }
+        ],
+        "caution": "합참 발표 인용 기사 본문 확인. 탄도미사일·정확한 발수·의도는 단정하지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-04",
+          "observation": "본문에서 합참이 함경남도 선덕 일대의 미사일 수 발을 포착했다는 발표를 확인. 제원·사거리·탄도미사일 여부를 정밀 분석 중이라고 명시하며 과거 10/31 시험 사진과 구분.",
+          "checked_materials": [],
+          "outline": [
+            "여러 발 발사는 확인, 무기 종류는 분석 중",
+            "합참 발표 인용 기사 본문 확인. 탄도미사일·정확한 발수·의도는 단정하지 않음."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 본문·사실 카드",
+            "url": "https://www.yna.co.kr/view/AKR20261104055151504"
+          }
+        ],
+        "excerpt": "",
+        "context": "발사는 11/4 오전 KST. 합참 당일 최초 공지 분은 미확인. 확인 기사 12:12는 종합 보도 송고이며 첫 공개 시각으로 대체하지 않음.",
+        "fetched_at": 1793775981,
+        "parser_revision": 7
+      },
+      "curation_event_key": "north-korea-sondok-east-sea-multiple-missiles-jcs-20261104"
+    },
     "2f49e53f1ae5": {
       "source": "Sky Sports 경기 보도",
       "title": "9경기 무승 끊은 맨유…쿠냐 멀티골로 로마에 0대2→3대2 역전",
@@ -30149,5 +30504,5 @@
       "curation_event_key": "korea-elliott-remand-award-no-annulment-challenge-20261028"
     }
   },
-  "updated_at": 1793772193
+  "updated_at": 1793775981
 }

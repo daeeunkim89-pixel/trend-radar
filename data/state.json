@@ -1,5 +1,5 @@
 {
-  "updated_at": 1793772194,
+  "updated_at": 1793775982,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026110406",
+    "hour_utc": "2026110407",
     "category_counts": {
-      "시사": 0,
-      "축구": 4,
-      "메이저 스포츠": 1,
+      "시사": 2,
+      "축구": 0,
+      "메이저 스포츠": 3,
       "아이돌": 0
     },
-    "research_queries": 14,
-    "opened_sources": 7,
+    "research_queries": 11,
+    "opened_sources": 5,
     "picks": [
       {
-        "title": "9경기 무승 끊은 맨유…쿠냐 멀티골로 로마에 0대2→3대2 역전",
-        "url": "https://www.skysports.com/football/news/13607206/man-utd-3-2-roma-matheus-cunha-scores-two-and-is-sent-off-in-wild-comeback-to-end-nine-game-winless-run",
-        "event_key": "manutd-roma-ucl-comeback-cunha-brace-red-nine-winless-ended-20261103"
+        "title": "저장 버튼 누락 추정…사격 최예인 세계선수권 개인·한국 단체전 출전 무산",
+        "url": "https://www.mk.co.kr/news/society/12195327",
+        "event_key": "issf-choi-ye-in-accreditation-omission-team-entry-lost-20261103"
       },
       {
-        "title": "아시안컵 연기 여파…일본 언론 ‘모리야스, 대회 못 치르고 연말 퇴임 전망’",
-        "url": "https://www.newspim.com/news/view/20261104000966",
-        "event_key": "moriyasu-year-end-departure-projection-after-asian-cup-delay-20261104"
+        "title": "김하성, 애틀랜타 QO 못 받았다…영입 구단 지명권 부담 없이 FA 협상",
+        "url": "https://www.yna.co.kr/view/AKR20261103076000007",
+        "event_key": "kim-ha-seong-atlanta-no-qualifying-offer-free-agency-20261103"
       },
       {
-        "title": "시애틀, 감독 경험 없는 36세 캔즐러 선임…MLB 두 번째 30대 사령탑",
-        "url": "https://www.yna.co.kr/amp/view/AKR20261104034100007",
-        "event_key": "seattle-mariners-jason-kanzler-manager-hired-20261103"
+        "title": "레너드, 왼 무릎 치료 마치고 복귀 절차…토론토 ‘일주일 뒤 재평가’",
+        "url": "https://toronto.citynews.ca/2026/11/03/raptors-leonard-begins-return-to-play-process-will-be-re-evaluated-in-one-week/",
+        "event_key": "raptors-kawhi-leonard-treatment-complete-return-process-week-reevaluation-20261103"
       },
       {
-        "title": "야말, 챔스 10대 최다득점 기록…바르사, 빌라의 전승 행진 저지",
-        "url": "https://www.fcbarcelona.com/en/news/4603860/fc-barcelona-3-0-aston-villa-three-goals-three-points",
-        "event_key": "barcelona-villa-ucl-yamal-teen-scoring-record-3-0-20261103"
+        "title": "윤석열 선거법 2심도 징역형 집유…확정되면 국힘 397억원 반환",
+        "url": "https://www.yna.co.kr/amp/view/AKR20261104120300004",
+        "event_key": "yoon-election-law-appeal-conviction-suspended-sentence-397-eok-20261104"
       },
       {
-        "title": "리버풀 그라벤베르흐 발뒤꿈치 골절…챔스 원정 제외·복귀일 미정",
-        "url": "https://www.liverpoolfc.com/news/andoni-iraola-explains-ryan-gravenberch-injury-and-timeframe",
-        "event_key": "liverpool-gravenberch-heel-fracture-fenerbahce-excluded-20261103"
+        "title": "합참 ‘북한 선덕서 동해로 미사일 수 발’…탄도미사일 여부 분석 중",
+        "url": "https://www.yna.co.kr/view/AKR20261104055151504",
+        "event_key": "north-korea-sondok-east-sea-multiple-missiles-jcs-20261104"
       }
     ]
   }
