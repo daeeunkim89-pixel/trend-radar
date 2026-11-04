@@ -1,223 +1,217 @@
 {
   "version": 2,
-  "hour_utc": "2026110406",
+  "hour_utc": "2026110407",
   "reviewer": "ChatGPT",
-  "generated_at": 1793772100,
+  "generated_at": 1793775888,
   "coverage": {
     "queries": [
-      "November 4 2026 football major injury transfer Champions League news",
-      "November 3 2026 NFL trade deadline deals confirmed",
-      "2026년 11월 4일 스포츠 주요 뉴스 계약 감독",
-      "2026년 11월 4일 주요 뉴스 정부 대형",
-      "모리야스 2026 11월 4일 퇴임 일본 감독",
-      "Mariners Jason Kanzler named manager November 3 2026 official",
-      "2026 11월 4일 기준금리 정부 전국 제도 발표",
-      "Manchester United Roma November 3 2026 Cunha sent off nine winless",
-      "2026 11월 4일 모리야스 퇴임 일본축구협회 공식",
-      "November 3 2026 Barcelona Villa Raphinha 3-0 official",
-      "2026년 11월 4일 북한 미사일 발사 국회 주요",
-      "Gravenberch heel fracture Fenerbahce November 3 2026 Liverpool official",
-      "모리야스 퇴임 2026 11 4 일본 대표팀 연말",
-      "November 3 2026 Seattle Mariners Jason Kanzler three year contract"
+      "2026년 11월 4일 16시 스포츠 주요 뉴스 노시환 김하성",
+      "2026년 11월 4일 15시 주요 뉴스 대형 정부",
+      "November 4 2026 major sports news injury contract tennis NBA",
+      "2026.11.04 윤석열 항소심 선고 397억 결과",
+      "2026.11.04 김하성 퀄리파잉 오퍼 못 받아",
+      "2026.11.04 최예인 세계선수권 신청 누락",
+      "November 3 2026 Kawhi Leonard Raptors knee swelling week official",
+      "2026 11월 4일 오타니 MVP 최종 후보",
+      "2026 11월 4일 윤석열 선거법 2심 징역 집행유예 14시",
+      "November 3 2026 Ohtani MVP finalists official",
+      "2026 11월 4일 합참 북한 탄도미사일"
     ],
     "opened_urls": [
-      "https://www.newspim.com/news/view/20261104000966",
-      "https://www.yna.co.kr/amp/view/AKR20261104034100007",
-      "https://www.uefa.com/uefachampionsleague/news/02ab-21fc4afdbe57-11bbecf54b40-1000--champions-league-round-up-paris-remain-perfect-as-barcelo/",
-      "https://www.liverpoolfc.com/news/andoni-iraola-explains-ryan-gravenberch-injury-and-timeframe",
-      "https://www.liverpoolfc.com/news/ryan-gravenberch-injury-update",
-      "https://www.skysports.com/football/news/13607206/man-utd-3-2-roma-matheus-cunha-scores-two-and-is-sent-off-in-wild-comeback-to-end-nine-game-winless-run",
-      "https://www.fcbarcelona.com/en/news/4603860/fc-barcelona-3-0-aston-villa-three-goals-three-points"
+      "https://www.yna.co.kr/amp/view/AKR20261104120300004",
+      "https://www.yna.co.kr/view/AKR20261103076000007",
+      "https://www.mk.co.kr/news/society/12195327",
+      "https://www.yna.co.kr/view/AKR20261104055151504",
+      "https://toronto.citynews.ca/2026/11/03/raptors-leonard-begins-return-to-play-process-will-be-re-evaluated-in-one-week/"
     ],
     "unavailable": [
-      "Reuters 원문401: 재요청 중단 후 리버풀 공식 발표로 확인",
-      "KIRO 원문 지역 제한: 우회하지 않고 연합뉴스 본문으로 확인",
-      "맨유 공식 페이지는 본문 없는 UI만 노출: Sky 본문·UEFA 공식 결과 대조"
+      "Sportsnet 원문403: 우회하지 않고 같은 기자의 CityNews 게재 본문 확인",
+      "일부 연합뉴스 웹 열람 실패: 공개 표준 HTTP로 본문 확인"
     ]
   },
   "picks": [
     {
-      "title": "9경기 무승 끊은 맨유…쿠냐 멀티골로 로마에 0대2→3대2 역전",
-      "category": "축구",
-      "url": "https://www.skysports.com/football/news/13607206/man-utd-3-2-roma-matheus-cunha-scores-two-and-is-sent-off-in-wild-comeback-to-end-nine-game-winless-run",
-      "source": "Sky Sports 경기 보도",
+      "title": "저장 버튼 누락 추정…사격 최예인 세계선수권 개인·한국 단체전 출전 무산",
+      "category": "메이저 스포츠",
+      "url": "https://www.mk.co.kr/news/society/12195327",
+      "source": "매일경제·사격연맹 설명",
       "kind": "article",
-      "event_key": "manutd-roma-ucl-comeback-cunha-brace-red-nine-winless-ended-20261103",
-      "why": "벼랑 끝 맨유가 챔피언스리그에서 두 골 차를 뒤집었다. 결승골의 주인공 쿠냐는 퇴장까지 당했지만 팀은 54일 만에 승리했다.",
-      "angle": "무승 탈출을 만든 쿠냐의 두 골과 퇴장",
-      "why_now": "경기·첫 결과 공개 11/3 영국 밤(최초 분 미확인), 한국 11/4 새벽. Sky 최초 보도 확인 22:16 UK, 현재 23:48은 갱신 시각.",
-      "verified_at": 1793772100,
+      "event_key": "issf-choi-ye-in-accreditation-omission-team-entry-lost-20261103",
+      "why": "국가대표가 도하까지 갔지만 연맹의 등록 누락으로 사대에 서지 못했다. 한 선수의 피해가 한국 여자 공기소총 단체전 불참으로 이어졌다.",
+      "angle": "등록 누락 하나가 개인전과 단체전을 막았다",
+      "why_now": "사건 11/3 KST. 최초 보도 확인일도 11/3(분 미확인), 매경 입력 21:44. 11/4 재기사 시각으로 바꾸지 않음.",
+      "verified_at": 1793775888,
       "published_at": null,
       "evidence": [
         {
-          "url": "https://www.skysports.com/football/news/13607206/man-utd-3-2-roma-matheus-cunha-scores-two-and-is-sent-off-in-wild-comeback-to-end-nine-game-winless-run",
-          "note": "본문에서 전반 0대2, 브루누 재시도 페널티킥, 쿠냐 두 골, 두 번째 경고 퇴장과 9경기 무승 종료를 확인. 경기 영상은 보지 않았다."
+          "url": "https://www.mk.co.kr/news/society/12195327",
+          "note": "본문에서 AD 카드 신청 누락, 현지 추가 등록 실패, 단체전 최소3명 미충족을 확인. 저장 버튼을 누르지 않았다는 것은 연맹의 추정이며 담당 직원 대기발령 설명을 읽음."
         }
       ],
       "materials": [
         {
-          "url": "https://www.skysports.com/football/news/13607206/man-utd-3-2-roma-matheus-cunha-scores-two-and-is-sent-off-in-wild-comeback-to-end-nine-game-winless-run",
+          "url": "https://www.mk.co.kr/news/society/12195327",
           "label": "확인한 본문·사실 카드",
           "kind": "source"
         }
       ],
-      "caution": "본문 확인 기사형. 승리로 감독 유임이 확정됐다고 단정하지 않음.",
+      "caution": "기사 본문 확인. 저장 버튼 누락은 연맹 추정이며 시스템 로그 직접 확인 아님.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-03",
-        "observation": "본문에서 전반 0대2, 브루누 재시도 페널티킥, 쿠냐 두 골, 두 번째 경고 퇴장과 9경기 무승 종료를 확인. 경기 영상은 보지 않았다.",
+        "observation": "본문에서 AD 카드 신청 누락, 현지 추가 등록 실패, 단체전 최소3명 미충족을 확인. 저장 버튼을 누르지 않았다는 것은 연맹의 추정이며 담당 직원 대기발령 설명을 읽음.",
         "checked_materials": [],
         "outline": [
-          "무승 탈출을 만든 쿠냐의 두 골과 퇴장",
-          "본문 확인 기사형. 승리로 감독 유임이 확정됐다고 단정하지 않음."
+          "등록 누락 하나가 개인전과 단체전을 막았다",
+          "기사 본문 확인. 저장 버튼 누락은 연맹 추정이며 시스템 로그 직접 확인 아님."
         ]
       }
     },
     {
-      "title": "아시안컵 연기 여파…일본 언론 ‘모리야스, 대회 못 치르고 연말 퇴임 전망’",
-      "category": "축구",
-      "url": "https://www.newspim.com/news/view/20261104000966",
-      "source": "뉴스핌·일본 언론 인용",
+      "title": "김하성, 애틀랜타 QO 못 받았다…영입 구단 지명권 부담 없이 FA 협상",
+      "category": "메이저 스포츠",
+      "url": "https://www.yna.co.kr/view/AKR20261103076000007",
+      "source": "연합뉴스·MLB 발표 보도",
       "kind": "article",
-      "event_key": "moriyasu-year-end-departure-projection-after-asian-cup-delay-20261104",
-      "why": "아시안컵 연기가 일본 대표팀 사령탑 승계 계획까지 흔들었다. 대회 연기 자체와 구분되는 일본 감독 거취의 새 보도다.",
-      "angle": "아시안컵 연기가 감독 교체 일정까지 흔든다",
-      "why_now": "일본 언론 첫 보도 확인일 11/4(분 미확인). 뉴스핌 입력 11/4 14:36 KST. 당일 새 거취 전망이며 퇴임 공식 발표가 아님.",
-      "verified_at": 1793772100,
+      "event_key": "kim-ha-seong-atlanta-no-qualifying-offer-free-agency-20261103",
+      "why": "한국인 메이저리거의 다음 계약 조건이 달라졌다. 고액 단년 제안은 없었지만 영입 구단의 보상 지명권 부담도 없어 FA 행선지에 영향을 준다.",
+      "angle": "QO 미제안으로 달라진 김하성 FA 조건",
+      "why_now": "QO 명단 최초 공개 확인일 11/3 KST(미국 현지 11/2, 첫 분 미확인). 연합뉴스 첫 입력 11/3 10:39. 48시간 내 미발송 원본으로 확대 검토.",
+      "verified_at": 1793775888,
       "published_at": null,
       "evidence": [
         {
-          "url": "https://www.newspim.com/news/view/20261104000966",
-          "note": "본문은 닛칸스포츠·스포니치가 모리야스의 연내 퇴임 가능성이 높아졌다고 보도했다고 명시한다. 단기 계약과 후임 체제 일정 설명을 읽었으나 일본 원문·협회 계약서는 미확인."
+          "url": "https://www.yna.co.kr/view/AKR20261103076000007",
+          "note": "본문에서 김하성이 QO를 받지 않았고 이번 QO 금액은 2315만달러라는 점 확인. 김하성을 영입하는 구단의 지명권 손실 부담이 없으며 애틀랜타 재계약 가능성도 남아 있다고 명시."
         }
       ],
       "materials": [
         {
-          "url": "https://www.newspim.com/news/view/20261104000966",
+          "url": "https://www.yna.co.kr/view/AKR20261103076000007",
           "label": "확인한 본문·사실 카드",
           "kind": "source"
         }
       ],
-      "caution": "일본 언론을 인용한 전망 기사. 퇴임 확정·협회 공식 발표로 쓰지 않음.",
+      "caution": "본문 확인 기사형. 방출·결별 확정이나 FA 계약 성사로 해석하지 않음.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-03",
+        "observation": "본문에서 김하성이 QO를 받지 않았고 이번 QO 금액은 2315만달러라는 점 확인. 김하성을 영입하는 구단의 지명권 손실 부담이 없으며 애틀랜타 재계약 가능성도 남아 있다고 명시.",
+        "checked_materials": [],
+        "outline": [
+          "QO 미제안으로 달라진 김하성 FA 조건",
+          "본문 확인 기사형. 방출·결별 확정이나 FA 계약 성사로 해석하지 않음."
+        ]
+      }
+    },
+    {
+      "title": "레너드, 왼 무릎 치료 마치고 복귀 절차…토론토 ‘일주일 뒤 재평가’",
+      "category": "메이저 스포츠",
+      "url": "https://toronto.citynews.ca/2026/11/03/raptors-leonard-begins-return-to-play-process-will-be-re-evaluated-in-one-week/",
+      "source": "CityNews·구단 성명 인용",
+      "kind": "article",
+      "event_key": "raptors-kawhi-leonard-treatment-complete-return-process-week-reevaluation-20261103",
+      "why": "토론토로 돌아온 핵심 스타가 두 경기만 뛴 뒤 결장 중이다. 구단은 치료 종료를 알렸지만 복귀전 대신 일주일 뒤 재평가를 예고했다.",
+      "angle": "치료 종료와 경기 복귀는 다르다는 토론토 발표",
+      "why_now": "새 구단 성명은 11/3 현지 공개(최초 분 미확인). 원문 게시 11/3 20:42 ET. 10/25 결장 시작이나 10/27 최초 부상 공지와 구별되는 후속.",
+      "verified_at": 1793775888,
+      "published_at": null,
+      "evidence": [
+        {
+          "url": "https://toronto.citynews.ca/2026/11/03/raptors-leonard-begins-return-to-play-process-will-be-re-evaluated-in-one-week/",
+          "note": "기사 본문에 인용된 구단 성명에서 왼 무릎 부종 치료 종료·토론토 복귀 절차 시작·일주일 뒤 경과 발표를 확인. 11/16주 복귀 가능성은 기자 추론이므로 추천 사실에서 제외."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://toronto.citynews.ca/2026/11/03/raptors-leonard-begins-return-to-play-process-will-be-re-evaluated-in-one-week/",
+          "label": "확인한 본문·사실 카드",
+          "kind": "source"
+        }
+      ],
+      "caution": "구단 성명 인용 본문 확인. 복귀 날짜·장기 결장 기간은 확정하지 않음.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-03",
+        "observation": "기사 본문에 인용된 구단 성명에서 왼 무릎 부종 치료 종료·토론토 복귀 절차 시작·일주일 뒤 경과 발표를 확인. 11/16주 복귀 가능성은 기자 추론이므로 추천 사실에서 제외.",
+        "checked_materials": [],
+        "outline": [
+          "치료 종료와 경기 복귀는 다르다는 토론토 발표",
+          "구단 성명 인용 본문 확인. 복귀 날짜·장기 결장 기간은 확정하지 않음."
+        ]
+      }
+    },
+    {
+      "title": "윤석열 선거법 2심도 징역형 집유…확정되면 국힘 397억원 반환",
+      "category": "시사",
+      "url": "https://www.yna.co.kr/amp/view/AKR20261104120300004",
+      "source": "연합뉴스 법정 보도",
+      "kind": "article",
+      "event_key": "yoon-election-law-appeal-conviction-suspended-sentence-397-eok-20261104",
+      "why": "전직 대통령의 대선 허위 발언 사건 항소심이 1심 유죄를 유지했다. 판결 확정 여부가 국민의힘 선거비용 397억원 반환과 직결된다.",
+      "angle": "2심 유죄 유지와 397억원 반환의 확정 조건",
+      "why_now": "새 항소심 선고는 11/4 14:00 KST 시작 공판. 확인한 결과 기사 첫 송고 14:47. 최초 속보 분은 미확인, 1심과 별도 새 판결.",
+      "verified_at": 1793775888,
+      "published_at": null,
+      "evidence": [
+        {
+          "url": "https://www.yna.co.kr/amp/view/AKR20261104120300004",
+          "note": "본문에서 서울고법이 항소 기각, 징역1년6개월·집행유예3년을 유지한 사실을 확인. 선거비용 반환은 이 형이 최종 확정되는 경우라는 조건을 명시. 한겨레 결과 보도와 대조."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.yna.co.kr/amp/view/AKR20261104120300004",
+          "label": "확인한 본문·사실 카드",
+          "kind": "source"
+        }
+      ],
+      "caution": "법정 보도 본문 확인. 대법 확정·현재 397억원 반환 완료로 쓰지 않음.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-04",
-        "observation": "본문은 닛칸스포츠·스포니치가 모리야스의 연내 퇴임 가능성이 높아졌다고 보도했다고 명시한다. 단기 계약과 후임 체제 일정 설명을 읽었으나 일본 원문·협회 계약서는 미확인.",
+        "observation": "본문에서 서울고법이 항소 기각, 징역1년6개월·집행유예3년을 유지한 사실을 확인. 선거비용 반환은 이 형이 최종 확정되는 경우라는 조건을 명시. 한겨레 결과 보도와 대조.",
         "checked_materials": [],
         "outline": [
-          "아시안컵 연기가 감독 교체 일정까지 흔든다",
-          "일본 언론을 인용한 전망 기사. 퇴임 확정·협회 공식 발표로 쓰지 않음."
+          "2심 유죄 유지와 397억원 반환의 확정 조건",
+          "법정 보도 본문 확인. 대법 확정·현재 397억원 반환 완료로 쓰지 않음."
         ]
       }
     },
     {
-      "title": "시애틀, 감독 경험 없는 36세 캔즐러 선임…MLB 두 번째 30대 사령탑",
-      "category": "메이저 스포츠",
-      "url": "https://www.yna.co.kr/amp/view/AKR20261104034100007",
-      "source": "연합뉴스·구단 발표 보도",
+      "title": "합참 ‘북한 선덕서 동해로 미사일 수 발’…탄도미사일 여부 분석 중",
+      "category": "시사",
+      "url": "https://www.yna.co.kr/view/AKR20261104055151504",
+      "source": "연합뉴스·합참 발표 인용",
       "kind": "article",
-      "event_key": "seattle-mariners-jason-kanzler-manager-hired-20261103",
-      "why": "가을야구 탈락 뒤 감독을 바꾼 시애틀이 경험 많은 사령탑 대신 36세 육성 책임자를 선택했다. 구단 운영 방향을 바꿀 인선이다.",
-      "angle": "감독 경험보다 육성·소통에 베팅한 시애틀",
-      "why_now": "구단 발표는 11/3 미국 현지, 첫 보도 확인 11/3 08:49 PST는 선임 예정 단계. 공식 선임 보도 09:20 PST 확인, 연합뉴스 11/4 09:03 KST.",
-      "verified_at": 1793772100,
+      "event_key": "north-korea-sondok-east-sea-multiple-missiles-jcs-20261104",
+      "why": "북한이 동해상으로 여러 발을 발사해 한미가 탐지·추적했다. 한국 안보에 직접 영향을 주는 새 군사 동향이며 무기 종류는 아직 확정되지 않았다.",
+      "angle": "여러 발 발사는 확인, 무기 종류는 분석 중",
+      "why_now": "발사는 11/4 오전 KST. 합참 당일 최초 공지 분은 미확인. 확인 기사 12:12는 종합 보도 송고이며 첫 공개 시각으로 대체하지 않음.",
+      "verified_at": 1793775888,
       "published_at": null,
       "evidence": [
         {
-          "url": "https://www.yna.co.kr/amp/view/AKR20261104034100007",
-          "note": "연합뉴스 본문에서 시애틀이 캔즐러를 선임했고 컵스 선수 육성 이사 경력·감독 경험 부재·단장의 면접 평가를 확인. 댄 윌슨 경질 배경과 76승86패도 읽음."
+          "url": "https://www.yna.co.kr/view/AKR20261104055151504",
+          "note": "본문에서 합참이 함경남도 선덕 일대의 미사일 수 발을 포착했다는 발표를 확인. 제원·사거리·탄도미사일 여부를 정밀 분석 중이라고 명시하며 과거 10/31 시험 사진과 구분."
         }
       ],
       "materials": [
         {
-          "url": "https://www.yna.co.kr/amp/view/AKR20261104034100007",
+          "url": "https://www.yna.co.kr/view/AKR20261104055151504",
           "label": "확인한 본문·사실 카드",
           "kind": "source"
         }
       ],
-      "caution": "구단 발표를 인용한 본문 확인. 계약 기간·금액은 확인되지 않아 제외.",
+      "caution": "합참 발표 인용 기사 본문 확인. 탄도미사일·정확한 발수·의도는 단정하지 않음.",
       "readiness": {
         "mode": "major_news",
-        "event_date": "2026-11-03",
-        "observation": "연합뉴스 본문에서 시애틀이 캔즐러를 선임했고 컵스 선수 육성 이사 경력·감독 경험 부재·단장의 면접 평가를 확인. 댄 윌슨 경질 배경과 76승86패도 읽음.",
+        "event_date": "2026-11-04",
+        "observation": "본문에서 합참이 함경남도 선덕 일대의 미사일 수 발을 포착했다는 발표를 확인. 제원·사거리·탄도미사일 여부를 정밀 분석 중이라고 명시하며 과거 10/31 시험 사진과 구분.",
         "checked_materials": [],
         "outline": [
-          "감독 경험보다 육성·소통에 베팅한 시애틀",
-          "구단 발표를 인용한 본문 확인. 계약 기간·금액은 확인되지 않아 제외."
-        ]
-      }
-    },
-    {
-      "title": "야말, 챔스 10대 최다득점 기록…바르사, 빌라의 전승 행진 저지",
-      "category": "축구",
-      "url": "https://www.fcbarcelona.com/en/news/4603860/fc-barcelona-3-0-aston-villa-three-goals-three-points",
-      "source": "FC Barcelona 공식 경기 보도",
-      "kind": "official",
-      "event_key": "barcelona-villa-ucl-yamal-teen-scoring-record-3-0-20261103",
-      "why": "바르사가 전승 중인 빌라를 잡아 승점 9로 따라붙었고 야말은 10대 챔스 최다득점 기록을 세웠다. 주요 팀 판도와 역사적 기록이 겹친 경기다.",
-      "angle": "빌라의 전승을 멈춘 바르사와 야말의 새 기록",
-      "why_now": "경기는 11/3 스페인 현지 밤, 첫 결과 공개도 경기 종료 직후(분 미확인). 구단 원문 상대시각 표기만 확인. 한국 11/4 새벽의 새 결과.",
-      "verified_at": 1793772100,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://www.fcbarcelona.com/en/news/4603860/fc-barcelona-3-0-aston-villa-three-goals-three-points",
-          "note": "구단 본문에서 3대0 승리, 야말 선제골과 20세 미만 챔스 최다득점 기록, 하피냐 두 골과 승점9를 확인. UEFA 공식 종합 보도와 결과·기록을 대조했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.fcbarcelona.com/en/news/4603860/fc-barcelona-3-0-aston-villa-three-goals-three-points",
-          "label": "확인한 본문·사실 카드",
-          "kind": "source"
-        }
-      ],
-      "caution": "공식 본문 확인·영상 미시청. 10대 기록을 챔스 전체 최다득점으로 확대하지 않음.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-03",
-        "observation": "구단 본문에서 3대0 승리, 야말 선제골과 20세 미만 챔스 최다득점 기록, 하피냐 두 골과 승점9를 확인. UEFA 공식 종합 보도와 결과·기록을 대조했다.",
-        "checked_materials": [],
-        "outline": [
-          "빌라의 전승을 멈춘 바르사와 야말의 새 기록",
-          "공식 본문 확인·영상 미시청. 10대 기록을 챔스 전체 최다득점으로 확대하지 않음."
-        ]
-      }
-    },
-    {
-      "title": "리버풀 그라벤베르흐 발뒤꿈치 골절…챔스 원정 제외·복귀일 미정",
-      "category": "축구",
-      "url": "https://www.liverpoolfc.com/news/andoni-iraola-explains-ryan-gravenberch-injury-and-timeframe",
-      "source": "Liverpool FC 공식 부상 발표",
-      "kind": "official",
-      "event_key": "liverpool-gravenberch-heel-fracture-fenerbahce-excluded-20261103",
-      "why": "리버풀 주전 중원의 골절이 확인돼 챔스 원정 전력에 공백이 생겼다. 감독도 주말 복귀를 장담하지 못하고 통증을 매일 확인한다고 밝혔다.",
-      "angle": "원정 명단에서 빠진 주전, 감독이 밝힌 골절",
-      "why_now": "최초 원정 제외 발표 11/3(기사 최초 분 미확인), 이후 같은 날 기자회견에서 골절 설명. 구단은 상대시각 표기. 11/4 수집 시각으로 바꾸지 않음.",
-      "verified_at": 1793772100,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://www.liverpoolfc.com/news/andoni-iraola-explains-ryan-gravenberch-injury-and-timeframe",
-          "note": "구단 본문에서 감독이 발뒤꿈치 골절이라고 설명했고 통증에 따라 매일 상태를 확인한다고 확인. 원정 제외 공식 공지와 대조. 주말 복귀는 가능성일 뿐 확정되지 않았다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.liverpoolfc.com/news/andoni-iraola-explains-ryan-gravenberch-injury-and-timeframe",
-          "label": "확인한 본문·사실 카드",
-          "kind": "source"
-        }
-      ],
-      "caution": "공식 본문 확인·기자회견 영상 미시청. 장기 결장 기간·발생 날짜는 미확인.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-03",
-        "observation": "구단 본문에서 감독이 발뒤꿈치 골절이라고 설명했고 통증에 따라 매일 상태를 확인한다고 확인. 원정 제외 공식 공지와 대조. 주말 복귀는 가능성일 뿐 확정되지 않았다.",
-        "checked_materials": [],
-        "outline": [
-          "원정 명단에서 빠진 주전, 감독이 밝힌 골절",
-          "공식 본문 확인·기자회견 영상 미시청. 장기 결장 기간·발생 날짜는 미확인."
+          "여러 발 발사는 확인, 무기 종류는 분석 중",
+          "합참 발표 인용 기사 본문 확인. 탄도미사일·정확한 발수·의도는 단정하지 않음."
         ]
       }
     }
