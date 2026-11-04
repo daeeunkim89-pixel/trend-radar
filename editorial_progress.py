@@ -6,7 +6,7 @@ from collections import Counter
 from datetime import datetime
 from pathlib import Path
 
-from curated_report import CATEGORIES, load_edition, public_url, text
+from curated_report import CATEGORIES, REPORT_PICKS, load_edition, public_url, text
 from editorial import atomic_json, canonical_url
 from report_timing import KST, require_report_slot
 
@@ -72,7 +72,7 @@ def summarize(pool, progress, history, now, limit=24):
         if source_counts[row["source"]] < 3 and len(preview) < limit:
             preview.append({k: row[k] for k in ("source", "title", "link", "observed_at")})
             source_counts[row["source"]] += 1
-    return {"reviewed_available": len(ready), "missing": max(0, 10 - len(ready)),
+    return {"reviewed_available": len(ready), "missing": max(0, REPORT_PICKS - len(ready)),
             "resume": ready + unfinished, "rejected": rejected,
             "unreviewed_count": len(pending), "unreviewed_sample": preview,
             "latest_attempt": progress.get("attempts", [])[-1:]}
@@ -106,12 +106,12 @@ def save_progress(path, hour, now, history, notes=(), edition=None, stage=None):
                 "recorded_at": now, "pick": pick, "coverage": edition["coverage"]}
     progress["items"] = sorted(rows.values(), key=lambda r: r["recorded_at"], reverse=True)[:300]
     summary = summarize({"items": []}, progress, history, now)
-    status = stage or ("review_complete" if summary["reviewed_available"] >= 10 else "research_incomplete")
+    status = stage or ("review_complete" if summary["reviewed_available"] >= REPORT_PICKS else "research_incomplete")
     if status not in {"researching", "research_incomplete", "review_complete", "submitted"}:
         raise ValueError("Research progress cannot claim Telegram delivery")
     if status == "review_complete" and summary["missing"]:
         raise ValueError("Fewer than ten fresh, not-publicly-sent reviews")
-    attempt = {"hour_utc": hour, "at": now, "status": status, "required": 10,
+    attempt = {"hour_utc": hour, "at": now, "status": status, "required": REPORT_PICKS,
                "ready": summary["reviewed_available"], "missing": summary["missing"],
                "unfinished": len(summary["resume"]) - summary["reviewed_available"]}
     progress["attempts"] = [a for a in progress.get("attempts", [])

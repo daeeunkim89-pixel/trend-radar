@@ -2,8 +2,8 @@ name: Trend Radar
 
 on:
   schedule:
-    # One inexpensive refresh before each three-hour editorial check.
-    - cron: "55 1,4,7,10,13,22 * * *"
+    # One inexpensive refresh before each hourly daytime editorial check.
+    - cron: "55 0-13,22-23 * * *"
   workflow_dispatch:
   push:
     branches: [main]

@@ -99,6 +99,16 @@ class EditorialEditionTests(unittest.TestCase):
         self.assertIn(value["picks"][0]["readiness"]["observation"], info)
         self.assertIn(value["picks"][0]["readiness"]["outline"][1], info)
 
+    def test_new_reviews_exclude_idol_lane_but_major_entertainment_issue_can_be_current_affairs(self):
+        value = self.production_edition("major_news")
+        value["picks"][0]["category"] = "아이돌"
+        self.write(value)
+        with self.assertRaisesRegex(ValueError, "major public-interest"):
+            c.load_edition(self.path, HOUR, NOW)
+        value["picks"][0]["category"] = "시사"
+        self.write(value)
+        self.assertEqual(c.load_edition(self.path, HOUR, NOW)["picks"][0]["category"], "시사")
+
     def test_uninspected_scene_cannot_pass_as_ready_via_a_source_link(self):
         bad = []
         value = self.production_edition(); value["picks"][0]["readiness"]["checked_materials"] = []; bad.append(value)
@@ -154,7 +164,7 @@ class EditorialEditionTests(unittest.TestCase):
                 c.load_edition(self.path, HOUR, NOW)
 
     def test_maximum_edition_stays_one_message_and_escapes_html(self):
-        value = edition([pick(i) for i in range(10)])
+        value = edition([pick(i) for i in range(5)])
         for number, p in enumerate(value["picks"]):
             p.update(title=f"<b>{number} " + "제" * 75, why="이" * 180, angle="각" * 150, caution="주" * 150)
         self.write(value)
@@ -162,21 +172,21 @@ class EditorialEditionTests(unittest.TestCase):
         parts = c.render_edition(stories, HOUR, "")
         self.assertEqual(len(parts), 1)
         self.assertIn("&lt;b&gt;", parts[0])
-        self.assertIn("추천 10/10", parts[0])
+        self.assertIn("추천 5/5", parts[0])
         self.assertLessEqual(e.message_units(parts[0]), 3900)
 
-    def test_ten_recommendations_with_emoji_fit_and_full_details_survive_compaction(self):
-        value = edition([pick(i) for i in range(10)])
+    def test_five_recommendations_with_emoji_fit_and_full_details_survive_compaction(self):
+        value = edition([pick(i) for i in range(5)])
         for number, p in enumerate(value["picks"]):
             p.update(title=f"{number} " + "⚽" * 85, why="🔥" * 180, angle="🎬" * 150, caution="❗" * 150)
         stories, history = c.build_stories(value, EMPTY, NOW)
         parts = c.render_edition(stories, HOUR, "")
         self.assertLessEqual(e.message_units(parts[0]), 3900)
-        self.assertIn("10/10", parts[0])
+        self.assertIn("5/5", parts[0])
         record = history["items"][stories[0]["lead"]["item_id"]]
         self.assertIn(value["picks"][0]["why"], e.render_info(record, stories[0]["id"]))
 
-    def test_reviewed_reserves_fill_ten_slots_after_content_deduplication(self):
+    def test_reviewed_reserves_fill_five_slots_after_content_deduplication(self):
         value = edition([pick(i) for i in range(16)])
         self.write(value)
         private = PrivateState("synthetic-token", "-123456", self.directory / "reserves.enc")
@@ -188,16 +198,16 @@ class EditorialEditionTests(unittest.TestCase):
             self.assertEqual(c.main(recover_hour=HOUR_TEXT, picks_file=self.path), 0)
             client.send.assert_called_once()
             saved = [call.args[1] for call in write.call_args_list if call.args[0] == c.STATE_FILE][0]
-            self.assertEqual(saved["report"]["stories"], 10)
+            self.assertEqual(saved["report"]["stories"], 5)
             self.assertEqual(saved["report"]["duplicates_excluded"], 6)
-            self.assertEqual(len(private.data["reports"][hourly_key(HOUR)]["numbers"]), 10)
+            self.assertEqual(len(private.data["reports"][hourly_key(HOUR)]["numbers"]), 5)
 
-    def test_short_edition_reports_actual_count_instead_of_claiming_ten(self):
+    def test_short_edition_reports_actual_count_instead_of_claiming_five(self):
         stories, _ = c.build_stories(edition([pick(1), pick(2)]), EMPTY, NOW)
         message = c.render_edition(stories, HOUR, "핵심 자료를 확인한 새 후보가 부족했습니다.")[0]
-        self.assertIn("추천 2/10", message)
-        self.assertIn("10개 중 2개 확보", message)
-        self.assertNotIn("추천 10/10", message)
+        self.assertIn("추천 2/5", message)
+        self.assertIn("5개 중 2개 확보", message)
+        self.assertNotIn("추천 5/5", message)
 
     def test_pinned_hash_catches_edits_after_request_and_preview_never_connects(self):
         self.write(edition())
@@ -225,7 +235,7 @@ class EditorialEditionTests(unittest.TestCase):
         self.assertEqual(len(c.same_event_filter(together)), 1)
 
     def test_actual_delivery_once_then_no_second_send_and_no_mock_counts_as_status(self):
-        self.write(edition([pick(i) for i in range(10)]))
+        self.write(edition([pick(i) for i in range(5)]))
         private = PrivateState("synthetic-token", "-123456", self.directory / "editor.enc")
         client = Mock(send=Mock(return_value=123))
         with patch.object(c.time, "time", return_value=NOW), patch.object(c, "load_history", return_value=EMPTY), \
@@ -236,13 +246,13 @@ class EditorialEditionTests(unittest.TestCase):
             saved = [call.args[1] for call in write.call_args_list if call.args[0] == c.STATE_FILE]
             self.assertEqual(saved[0]["report"]["delivery"], "sent")
             self.assertEqual(saved[0]["report"]["ai"], "chatgpt_web_research")
-            self.assertEqual(len(private.data["reports"][hourly_key(HOUR)]["numbers"]), 10)
+            self.assertEqual(len(private.data["reports"][hourly_key(HOUR)]["numbers"]), 5)
             self.assertEqual(private.data["reports"][hourly_key(HOUR)]["numbers"]["1"], e.item_id(pick(0)["url"]))
             self.assertEqual(c.main(recover_hour=HOUR_TEXT, picks_file=self.path), 0)
             client.send.assert_called_once()
 
     def test_uncertain_delivery_cannot_be_automatically_retried(self):
-        self.write(edition([pick(i) for i in range(10)]))
+        self.write(edition([pick(i) for i in range(5)]))
         private = PrivateState("synthetic-token", "-123456", self.directory / "editor.enc")
         client = Mock(send=Mock(side_effect=DeliveryUncertain("synthetic uncertain result")))
         with patch.object(c.time, "time", return_value=NOW), patch.object(c, "load_history", return_value=EMPTY), \
@@ -253,7 +263,7 @@ class EditorialEditionTests(unittest.TestCase):
             client.send.assert_called_once()
 
     def test_explicit_on_demand_edition_sends_once_without_reopening_hourly_ledger(self):
-        self.write(edition([pick(i) for i in range(10)]))
+        self.write(edition([pick(i) for i in range(5)]))
         digest = hashlib.sha256(self.path.read_bytes()).hexdigest()
         private = PrivateState("synthetic-token", "-123456", self.directory / "manual.enc")
         private.data["reports"][hourly_key(HOUR)] = {"done": True, "message_ids": [100],
@@ -272,7 +282,7 @@ class EditorialEditionTests(unittest.TestCase):
             self.assertTrue(private.data["reports"]["user-curated-" + digest]["done"])
 
     def test_on_demand_request_is_pinned_current_hour_and_preserves_content_deduplication(self):
-        self.write(edition([pick(i) for i in range(10)]))
+        self.write(edition([pick(i) for i in range(5)]))
         digest = hashlib.sha256(self.path.read_bytes()).hexdigest()
         request = {"version": 3, "mode": "user_requested", "hour_utc": HOUR_TEXT, "editorial_sha256": digest}
         request_path = self.directory / "manual-request.json"
@@ -294,7 +304,7 @@ class EditorialEditionTests(unittest.TestCase):
             self.assertIn("0개", client.send.call_args.args[0])
 
     def test_underfilled_review_sends_actual_count_and_shortfall_once(self):
-        for count in (0, 4, 6, 9):
+        for count in (0, 1, 3, 4):
             with self.subTest(count=count):
                 self.write(edition([pick(i) for i in range(count)]))
                 private = PrivateState("synthetic-token", "-123456", self.directory / f"partial-{count}.enc")
@@ -305,14 +315,14 @@ class EditorialEditionTests(unittest.TestCase):
                     self.assertEqual(c.main(recover_hour=HOUR_TEXT, picks_file=self.path), 0)
                     client.send.assert_called_once()
                     saved = [call.args[1]["report"] for call in write.call_args_list if call.args[0] == c.STATE_FILE][0]
-                    self.assertEqual((saved["stories"], saved["missing"], saved["messages"]), (count, 10-count, 1))
+                    self.assertEqual((saved["stories"], saved["missing"], saved["messages"]), (count, 5-count, 1))
                     self.assertFalse(saved["target_met"])
                     self.assertTrue(private.data["reports"][hourly_key(HOUR)]["done"])
                     self.assertEqual(c.main(recover_hour=HOUR_TEXT, picks_file=self.path), 0)
                     client.send.assert_called_once()
 
     def test_duplicate_filter_shortfall_sends_only_new_material_and_seals_hour(self):
-        self.write(edition([pick(i) for i in range(13)]))
+        self.write(edition([pick(i) for i in range(8)]))
         private = PrivateState("synthetic-token", "-123456", self.directory / "shortfall.enc")
         client = Mock(send=Mock(return_value=124))
         with patch.object(c.time, "time", return_value=NOW), patch.object(c, "load_history", return_value=EMPTY), \
@@ -323,11 +333,11 @@ class EditorialEditionTests(unittest.TestCase):
             client.send.assert_called_once()
             self.assertTrue(private.data["reports"][hourly_key(HOUR)]["done"])
             attempt = [call.args[1] for call in write.call_args_list if call.args[0] == c.ATTEMPT_FILE][0]
-            self.assertEqual((attempt["ready"], attempt["missing"], attempt["duplicates_excluded"]), (9, 1, 4))
+            self.assertEqual((attempt["ready"], attempt["missing"], attempt["duplicates_excluded"]), (4, 1, 4))
             self.assertEqual(attempt["status"], "sent")
 
     def test_review_expiring_while_waiting_for_the_hour_cannot_be_sent(self):
-        self.write(edition([pick(i) for i in range(10)]))
+        self.write(edition([pick(i) for i in range(5)]))
         private = PrivateState("synthetic-token", "-123456", self.directory / "expired.enc")
         client = Mock()
         clock = Mock(return_value=NOW)

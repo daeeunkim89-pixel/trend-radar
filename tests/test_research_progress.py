@@ -76,12 +76,12 @@ class ResearchContinuityTests(unittest.TestCase):
             attempt = progress.save_progress(path, "2026101902", NOW, {}, [note()])
             saved = json.loads(path.read_text())
             self.assertEqual((attempt["status"], attempt["ready"], attempt["missing"], attempt["unfinished"]),
-                             ("research_incomplete", 0, 10, 1))
+                             ("research_incomplete", 0, 5, 1))
             self.assertEqual(saved["items"][0]["next_action"], note()["next_action"])
             self.assertNotIn("pick", saved["items"][0])
             submitted = progress.save_progress(path, "2026101902", NOW, {}, stage="submitted")
             self.assertEqual(submitted["status"], "submitted")
-            self.assertEqual(submitted["missing"], 10)
+            self.assertEqual(submitted["missing"], 5)
             with self.assertRaises(ValueError):
                 progress.save_progress(path, "2026101902", NOW, {}, [dict(note(), status="reviewed")])
 

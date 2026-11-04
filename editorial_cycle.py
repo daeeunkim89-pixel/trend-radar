@@ -1,4 +1,4 @@
-"""Read-only guide for hourly research and the six approved BTP reports."""
+"""Read-only guide for hourly research and the hourly daytime BTP reports."""
 import json
 import time
 from datetime import datetime

@@ -13,7 +13,7 @@ from bs4 import BeautifulSoup
 from playwright.sync_api import TimeoutError as PlaywrightTimeoutError, sync_playwright
 
 from editorial import HISTORY_FILE, atomic_json, canonical_url, digest_numbers, enrich, load_history, observe, render_digest
-from discovery import DISCOVERY_LIMIT, fetch_community, fetch_entertainment, fetch_football, parse_nate_topic
+from discovery import DISCOVERY_LIMIT, fetch_community, fetch_football, parse_nate_topic
 from communities import BOARD_URLS, COMMUNITY_LIMIT, fetch_board, is_community
 from fmkorea_indirect import INDIRECT_LIMIT, fetch_fmkorea_indirect
 from selection import CATEGORIES, context_candidates, select_stories
@@ -404,7 +404,6 @@ def collect(history=None, *, include_fmkorea_direct=True):
         "펨코 포텐": fetch_fmkorea,
         "펨코 간접": lambda: fetch_fmkorea_indirect(lambda url: get_html(url, desktop=True), history),
         "국내·해외축구": lambda: fetch_football(get_html),
-        "네이트 연예": lambda: fetch_entertainment(get_html),
         "커뮤니티 인기": lambda: fetch_community(lambda url: get_html(url, desktop=True)),
     }
     if not include_fmkorea_direct:

@@ -39,7 +39,7 @@ class ReportRequestTests(unittest.TestCase):
             self.assertEqual(run(self.path, HOUR + 100, self.sender), 2)
         self.sender.assert_not_called()
 
-    def test_regular_reports_allow_only_the_six_korean_daytime_slots(self):
+    def test_regular_reports_allow_only_the_hourly_korean_daytime_slots(self):
         from datetime import datetime, timedelta, timezone
         local = datetime(2026, 10, 19, tzinfo=timezone(timedelta(hours=9)))
         for hour in range(24):
@@ -48,7 +48,7 @@ class ReportRequestTests(unittest.TestCase):
             self.write(request)
             self.sender.reset_mock()
             result = run(self.path, target + 10, self.sender)
-            if hour in (8, 11, 14, 17, 20, 23):
+            if hour in range(8, 24):
                 self.assertEqual(result, 0); self.sender.assert_called_once()
             else:
                 self.assertEqual(result, 2); self.sender.assert_not_called()
