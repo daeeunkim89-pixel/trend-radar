@@ -68,7 +68,7 @@ class ScheduledFallbackTests(unittest.TestCase):
                 client.send.assert_called_once()
                 report = json.loads(c.STATE_FILE.read_text())["report"]
                 self.assertEqual((report["stories"], report["messages"]), (int(available), 1))
-                self.assertEqual(report["missing"], 10-int(available))
+                self.assertEqual(report["missing"], 5-int(available))
                 self.assertEqual(report["trigger"], "scheduled_fallback")
                 self.assertTrue(private.data["reports"][hourly_key(HOUR)]["done"])
 
@@ -79,7 +79,7 @@ class ScheduledFallbackTests(unittest.TestCase):
         sender.assert_called_once_with(recover_hour=HOUR_TEXT, scheduled_fallback=True)
         sender.reset_mock()
         self.assertEqual(report_request.run(path, HOUR+3600+100, sender, scheduled_check=True), 0)
-        sender.assert_not_called()
+        sender.assert_called_once()
 
     def test_uncertain_status_report_is_not_retried(self):
         private = PrivateState("synthetic-token", "-123456", self.path / "uncertain.enc")

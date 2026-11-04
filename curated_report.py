@@ -24,8 +24,8 @@ DECISIONS_FILE = Path("data/editorial-history.json")
 ATTEMPT_FILE = Path("data/editorial-status.json")
 PROGRESS_FILE = Path("data/editorial-progress.json")
 CATEGORIES = ("시사", "축구", "메이저 스포츠", "아이돌")
-MAX_PICKS = 20  # Ten recommendations plus reviewed reserves for content deduplication.
-REPORT_PICKS = 10
+MAX_PICKS = 20  # Five recommendations plus reviewed reserves for content deduplication.
+REPORT_PICKS = 5
 MAX_BYTES = 100_000
 
 
@@ -115,6 +115,8 @@ def validate_edition(edition, target, now):
             p[name] = text(p[name], maximum, name, empty=name == "caution")
         if p["category"] not in CATEGORIES or p["kind"] not in {"community", "social", "official", "article"}:
             raise ValueError("Invalid editorial category or source kind")
+        if edition["version"] == 2 and p["category"] == "아이돌":
+            raise ValueError("Entertainment is only eligible as major public-interest news, category 시사")
         p["url"] = public_url(p["url"])
         p["event_key"] = p["event_key"].lower()
         timestamp(p["verified_at"], now, "verified_at", 75 * 60)
@@ -245,16 +247,16 @@ def build_stories(edition, history, now):
 
 def render_edition(stories, target, empty_reason, excluded=0):
     if len(stories) > REPORT_PICKS:
-        raise ValueError("Select ten recommendations before rendering")
+        raise ValueError("Select five recommendations before rendering")
 
     def short(value, maximum):
         return value if len(value) <= maximum else value[:maximum - 1].rstrip() + "…"
 
-    # Keep ten usable summaries in one message; full text and evidence remain in /info.
+    # Keep five usable summaries in one message; full text and evidence remain in /info.
     for title_size, why_size, angle_size, caution_size in ((72, 70, 64, 55), (60, 55, 50, 40), (48, 42, 38, 28)):
         lines = [f"<b>⚡ btp · 추천 {len(stories)}/{REPORT_PICKS} · {stamp(target)}</b>"]
         if not stories:
-            lines += ["이번 보고에서 검증을 마친 새 소재: 0개 · 목표 10개 · 부족 10개", html.escape(empty_reason or "검증·중복 제외 후 새 소재가 없습니다.")]
+            lines += [f"이번 보고에서 검증을 마친 새 소재: 0개 · 목표 {REPORT_PICKS}개 · 부족 {REPORT_PICKS}개", html.escape(empty_reason or "검증·중복 제외 후 새 소재가 없습니다.")]
         else:
             for i, story in enumerate(stories, 1):
                 p = story["editorial"]
@@ -268,7 +270,7 @@ def render_edition(stories, target, empty_reason, excluded=0):
                 if p["caution"]:
                     lines.append("확인: " + html.escape(short(p["caution"], caution_size)))
             if len(stories) < REPORT_PICKS:
-                lines += ["", f"10개 중 {len(stories)}개 확보 · 부족 {REPORT_PICKS - len(stories)}개: " + html.escape(short(empty_reason or "검증·중복 제외 후 새 소재가 부족했습니다.", 100))]
+                lines += ["", f"{REPORT_PICKS}개 중 {len(stories)}개 확보 · 부족 {REPORT_PICKS - len(stories)}개: " + html.escape(short(empty_reason or "검증·중복 제외 후 새 소재가 부족했습니다.", 100))]
             lines += ["", "전체 제목·검증·제작 <code>/info 1</code> · 선정 <code>/pick 1</code>"]
         if excluded:
             lines.append(f"기존 발송·같은 사건 {excluded}개 제외")
@@ -333,11 +335,11 @@ def record_attempt(target, status, ready=0, excluded=0, user_requested=False, re
 
 def hold_incomplete(target, stories, excluded=0, user_requested=False):
     """Production must request more research before recording or locking a short edition."""
-    if os.environ.get("BTP_REQUIRE_TEN") != "1" or len(stories) >= REPORT_PICKS:
+    if os.environ.get("BTP_REQUIRE_COMPLETE", os.environ.get("BTP_REQUIRE_TEN")) != "1" or len(stories) >= REPORT_PICKS:
         return False
     ready = len(stories)
     record_attempt(target, "needs_more_research", ready, excluded, user_requested,
-                   reason_code="verified_count_under_ten")
+                   reason_code="verified_count_under_target")
     print("BTP MORE RESEARCH REQUIRED", json.dumps(
         {"ready": ready, "required": REPORT_PICKS, "missing": REPORT_PICKS - ready,
          "duplicates_excluded": excluded, "delivery_attempted": False}))

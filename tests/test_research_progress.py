@@ -76,12 +76,12 @@ class ResearchContinuityTests(unittest.TestCase):
             attempt = progress.save_progress(path, "2026101902", NOW, {}, [note()])
             saved = json.loads(path.read_text())
             self.assertEqual((attempt["status"], attempt["ready"], attempt["missing"], attempt["unfinished"]),
-                             ("research_incomplete", 0, 10, 1))
+                             ("research_incomplete", 0, 5, 1))
             self.assertEqual(saved["items"][0]["next_action"], note()["next_action"])
             self.assertNotIn("pick", saved["items"][0])
             submitted = progress.save_progress(path, "2026101902", NOW, {}, stage="submitted")
             self.assertEqual(submitted["status"], "submitted")
-            self.assertEqual(submitted["missing"], 10)
+            self.assertEqual(submitted["missing"], 5)
             with self.assertRaises(ValueError):
                 progress.save_progress(path, "2026101902", NOW, {}, [dict(note(), status="reviewed")])
 
@@ -99,11 +99,11 @@ class ResearchContinuityTests(unittest.TestCase):
             path = Path(tmp) / "progress.json"
             edition = {"version": 2, "coverage": {"opened_urls": ["https://example.org/posts/2"]},
                        "picks": [{"event_key": "event-2", "url": "https://example.org/posts/2", "title": "확인 완료 후보",
-                                  "category": "아이돌", "verified_at": NOW - 30}]}
+                                  "category": "시사", "verified_at": NOW - 30}]}
             progress.save_progress(path, "2026101902", NOW, {}, [note()], edition)
             attempt = progress.save_progress(path, "2026101905", NOW + 60, {}, [note(3, "needs_date")])
             saved = json.loads(path.read_text())
-            self.assertEqual((attempt["ready"], attempt["missing"], attempt["unfinished"]), (1, 9, 2))
+            self.assertEqual((attempt["ready"], attempt["missing"], attempt["unfinished"]), (1, 4, 2))
             self.assertEqual(next(r["pick"]["verified_at"] for r in saved["items"] if r["status"] == "reviewed"), NOW - 30)
             self.assertEqual(len(saved["attempts"]), 2)
 

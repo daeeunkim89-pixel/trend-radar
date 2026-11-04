@@ -3,16 +3,16 @@ import time
 from datetime import datetime, timedelta, timezone
 
 
-REPORT_HOURS_KST = (8, 11, 14, 17, 20, 23)
+REPORT_HOURS_KST = tuple(range(8, 24))
 PREPARATION_SECONDS = 60 * 60
 KST = timezone(timedelta(hours=9))
 
 
 def require_report_slot(target, user_requested=False):
-    """Regular editions run only at the six user-approved Korean report hours."""
+    """Regular editions run only at the user-approved hourly Korean daytime slots."""
     local = datetime.fromtimestamp(target, KST)
     if not user_requested and (local.hour not in REPORT_HOURS_KST or local.minute or local.second):
-        raise ValueError("Regular BTP report is outside 08/11/14/17/20/23 KST")
+        raise ValueError("Regular BTP report is outside hourly 08-23 KST")
     return target
 
 

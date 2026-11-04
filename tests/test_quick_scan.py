@@ -1,72 +1,59 @@
 import unittest
 from quick_scan import inbox
-
 NOW = 1792764000
-
 
 class QuickScanTests(unittest.TestCase):
     def row(self, title, suffix, **fields):
         return dict(title=title, link="https://example.org/" + suffix, observed_at=NOW, **fields)
 
-    def test_bounded_shortlist_and_reserves_do_not_claim_verification(self):
-        rows = [self.row(title + str(i), str(i)) for i, title in enumerate(
-            ["축구 실수", "에스파 자막", "황당한 사건"] * 20)]
-        result = inbox({"items": rows}, NOW)
-        self.assertEqual(len(result["candidates"]), 20)
-        self.assertEqual(len(result["reserves"]), 10)
-        self.assertEqual(result["budget"]["recommendations_target"], 10)
-        self.assertEqual({r["lane"] for r in result["candidates"]}, {"football", "idol", "community"})
-        self.assertTrue(all(not r["video_viewed"] and r["published_metadata"] is None
-                            for r in result["candidates"]))
+    def test_sports_major_news_precedes_small_incidents_and_fan_banter(self):
+        rows = [self.row("황당한 도로 시비 벌금", "minor"),
+                self.row("토트넘 훈련 중 농담", "banter"),
+                self.row("전국 통신망 대규모 마비", "public"),
+                self.row("축구 월드컵 우승 확정", "sport")]
+        out = inbox({"items": rows}, NOW)
+        self.assertEqual([r["url"].rsplit("/", 1)[-1] for r in out["candidates"]],
+                         ["sport", "public", "banter", "minor"])
+        self.assertEqual(out["budget"]["recommendations_target"], 5)
+        self.assertTrue(out["budget"]["extend_until_target"])
 
-    def test_known_old_publication_is_not_refreshed_by_a_new_observation(self):
-        rows = [self.row("축구 실수", "old", video_published_at=NOW - 13 * 3600),
-                dict(self.row("에스파 자막", "future"), observed_at=NOW + 1),
-                self.row("황당한 사건", "listed", listed_at=NOW - 13 * 3600),
-                self.row("아이브 자막", "source", source_published_at=NOW - 13 * 3600),
-                self.row("아이브 실수", "missing-source", source_published_at=None, video_published_at=NOW - 13 * 3600)]
-        self.assertEqual(inbox({"items": rows}, NOW)["candidates"], [])
-
-    def test_specific_action_beats_generic_official_video_and_promo(self):
-        rows = [self.row("아이브 Concept Photo", "promo", source_role="original"),
-                self.row("토트넘 훈련", "training", source_role="original"),
-                self.row("인천공항 빵 봉지에 불 시민이 소화기로 진화", "fire"),
-                self.row("월급 50% 지급 선수협 항의", "salary")]
+    def test_entertainment_details_are_excluded_and_major_public_issue_stays_a_lead(self):
+        rows = [self.row("아이브 자막 반전", "subtitles"),
+                self.row("에스파 화보 공개", "photo"),
+                self.row("유명 배우 예능 농담", "show", source="네이트 연예"),
+                self.row("엔터 산업 대규모 임금 체불 정부 조사", "major", source="네이트 연예")]
         result = inbox({"items": rows}, NOW)["candidates"]
-        self.assertEqual([r["url"].rsplit("/", 1)[-1] for r in result], ["fire", "salary", "training"])
+        self.assertEqual([r["url"].rsplit("/", 1)[-1] for r in result], ["major"])
+        self.assertEqual(result[0]["lane"], "current_affairs")
+        self.assertFalse(result[0]["video_viewed"])
 
-    def test_original_wins_for_equally_specific_leads_without_domain_trust(self):
-        rows = [dict(self.row("여돌 농담 1", "reupload"), link="https://www.youtube.com/watch?v=abcdefghijk"),
-                self.row("여돌 농담 2", "official", source_role="original")]
+    def test_original_only_wins_ties_without_inventing_ownership(self):
+        rows = [dict(self.row("축구 월드컵 우승 확정", "repost"), link="https://www.youtube.com/watch?v=abcdefghijk"),
+                self.row("축구 월드컵 우승 확정 발표", "official", source_role="original")]
         result = inbox({"items": rows}, NOW)["candidates"]
         self.assertTrue(result[0]["url"].endswith("/official"))
-        self.assertEqual(result[0]["source_role"], "original")
         self.assertEqual(result[1]["source_role"], "lead")
 
-    def test_same_title_across_reposts_has_only_one_research_slot(self):
-        rows = [self.row("아이브 자막 변경!", "first"), self.row("아이브 자막 변경", "repost")]
+    def test_shortlist_is_bounded_without_claiming_verification(self):
+        rows = [self.row("축구 우승 확정 " + str(i), str(i)) for i in range(60)]
+        result = inbox({"items": rows}, NOW)
+        self.assertEqual((len(result["candidates"]), len(result["reserves"])), (20, 10))
+        self.assertTrue(all(not r["video_viewed"] and r["published_metadata"] is None for r in result["candidates"]))
+
+    def test_same_title_reposts_only_take_one_slot(self):
+        rows = [self.row("축구 우승 확정!", "first"), self.row("축구 우승 확정", "repost")]
         self.assertEqual(len(inbox({"items": rows}, NOW)["candidates"]), 1)
 
-    def test_research_lanes_are_not_forced_publication_quotas(self):
-        rows = [self.row("황당한 재입사 적발 " + str(i), str(i)) for i in range(25)]
+    def test_known_old_publication_never_becomes_new_on_observation(self):
+        for key in ("source_published_at", "video_published_at", "listed_at"):
+            row = self.row("축구 월드컵 우승 확정", key, **{key: NOW-13*3600})
+            result = inbox({"items": [row]}, NOW)
+            self.assertEqual(result["candidates"], [])
+            self.assertEqual(result["extended_candidates"][0]["published_metadata"], NOW-13*3600)
+
+    def test_future_and_older_than_two_days_are_excluded(self):
+        rows = [dict(self.row("축구 우승", "future"), observed_at=NOW+1),
+                self.row("축구 우승", "old", source_published_at=NOW-49*3600)]
         result = inbox({"items": rows}, NOW)
-        self.assertEqual(len(result["candidates"]), 20)
-        self.assertEqual({r["lane"] for r in result["candidates"]}, {"community"})
-
-    def test_thirteen_hour_original_is_only_an_explicit_extended_lead(self):
-        old = self.row("아이브 자막 반전", "evening", source_role="original",
-                       source_published_at=NOW - 13 * 3600)
-        result = inbox({"items": [old]}, NOW)
-        self.assertEqual(result["candidates"], [])
-        self.assertEqual(len(result["extended_candidates"]), 1)
-        item = result["extended_candidates"][0]
-        self.assertEqual(item["published_metadata"], NOW - 13 * 3600)
-        self.assertFalse(item["video_viewed"])
-        self.assertIn("미발송", item["freshness_policy"])
-
-    def test_extension_never_refreshes_a_two_day_old_original(self):
-        old = self.row("아이브 자막 반전", "old", source_role="original",
-                       source_published_at=NOW - 49 * 3600)
-        result = inbox({"items": [old]}, NOW)
         self.assertEqual(result["candidates"], [])
         self.assertEqual(result["extended_candidates"], [])
