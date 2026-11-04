@@ -7,8 +7,6 @@ from urllib.parse import urlsplit
 
 FOOTBALL = re.compile(r"축구|손흥민|김민재|이강인|맨유|맨시티|아스[널날]|토트넘|레알|바르셀로나|K리그|football|soccer", re.I)
 IDOL = re.compile(r"여돌|걸그룹|여자.?아이돌|레드벨벳|블랙핑크|트와이스|아이브|에스파|르세라핌|뉴진스|엔믹스|아일릿|베이비몬스터|키스오브라이프|스테이씨|하츠투하츠|장원영|안유진|카리나|윈터", re.I)
-HOOK = re.compile(r"실수|돌발|대처|반전|자막|농담|웃|ㅋㅋ|논란|퇴장|충돌|황당|번복|항의|말실수|사과|반박|거부|banter|joke|bizarre|mistake", re.I)
-CONCRETE = re.compile(r"실종|사라진|기름띠|방화|빵.?봉지|소화기|진화|제압|임금|월급|체불|명의신탁|세금|배상|징역|구형|선고|구조|재입사|적발|자막|대처|농담|말실수|뒤집|cancel|rescue|walkout", re.I)
 PROMO = re.compile(r"teaser|concept photo|mood film|track list|highlight medley|예약.?판매|공항패션|화보|그라비아|운세|실거래가|종목.?추천", re.I)
 
 

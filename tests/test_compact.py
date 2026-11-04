@@ -83,7 +83,7 @@ class CompactReportTests(unittest.TestCase):
         self.assertIn("python monitor.py --preview", preview)
         self.assertNotIn("push:", connection)
         self.assertNotIn("'sendMessage'", connection)
-        self.assertIn('cron: "55 1,4,7,10,13,22 * * *"', scheduled)
+        self.assertIn('cron: "55 0-13,22-23 * * *"', scheduled)
         self.assertNotIn('"data/editorial-progress.json"', scheduled)
         self.assertNotIn('      - "data/candidates.json"', scheduled)
         self.assertIn("python -u candidate_snapshot.py", scheduled)

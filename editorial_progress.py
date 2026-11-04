@@ -79,7 +79,7 @@ def summarize(pool, progress, history, now, limit=24):
 
 
 def save_progress(path, hour, now, history, notes=(), edition=None, stage=None):
-    """Persist work even when fewer than ten picks are ready; never request delivery."""
+    """Persist work even when fewer than five picks are ready; never request delivery."""
     datetime.strptime(hour, "%Y%m%d%H")
     if len(hour) != 10:
         raise ValueError("Invalid research hour")
@@ -110,7 +110,7 @@ def save_progress(path, hour, now, history, notes=(), edition=None, stage=None):
     if status not in {"researching", "research_incomplete", "review_complete", "submitted"}:
         raise ValueError("Research progress cannot claim Telegram delivery")
     if status == "review_complete" and summary["missing"]:
-        raise ValueError("Fewer than ten fresh, not-publicly-sent reviews")
+        raise ValueError("Fewer than five fresh, not-publicly-sent reviews")
     attempt = {"hour_utc": hour, "at": now, "status": status, "required": REPORT_PICKS,
                "ready": summary["reviewed_available"], "missing": summary["missing"],
                "unfinished": len(summary["resume"]) - summary["reviewed_available"]}

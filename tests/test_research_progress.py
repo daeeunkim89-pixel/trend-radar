@@ -99,11 +99,11 @@ class ResearchContinuityTests(unittest.TestCase):
             path = Path(tmp) / "progress.json"
             edition = {"version": 2, "coverage": {"opened_urls": ["https://example.org/posts/2"]},
                        "picks": [{"event_key": "event-2", "url": "https://example.org/posts/2", "title": "확인 완료 후보",
-                                  "category": "아이돌", "verified_at": NOW - 30}]}
+                                  "category": "시사", "verified_at": NOW - 30}]}
             progress.save_progress(path, "2026101902", NOW, {}, [note()], edition)
             attempt = progress.save_progress(path, "2026101905", NOW + 60, {}, [note(3, "needs_date")])
             saved = json.loads(path.read_text())
-            self.assertEqual((attempt["ready"], attempt["missing"], attempt["unfinished"]), (1, 9, 2))
+            self.assertEqual((attempt["ready"], attempt["missing"], attempt["unfinished"]), (1, 4, 2))
             self.assertEqual(next(r["pick"]["verified_at"] for r in saved["items"] if r["status"] == "reviewed"), NOW - 30)
             self.assertEqual(len(saved["attempts"]), 2)
 
