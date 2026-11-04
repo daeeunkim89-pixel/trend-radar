@@ -1,5 +1,5 @@
 {
-  "updated_at": 1793794308,
+  "updated_at": 1793797912,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026110412",
+    "hour_utc": "2026110413",
     "category_counts": {
-      "시사": 3,
-      "축구": 1,
-      "메이저 스포츠": 1,
+      "시사": 1,
+      "축구": 2,
+      "메이저 스포츠": 2,
       "아이돌": 0
     },
-    "research_queries": 20,
-    "opened_sources": 6,
+    "research_queries": 24,
+    "opened_sources": 8,
     "picks": [
       {
-        "title": "폰세카, 시즌 중 리옹 떠나 스포르팅으로…구단은 ‘예상 못한 결정’",
-        "url": "https://www.channelnewsasia.com/sport/fonseca-leaves-lyon-become-sporting-coach-6523726",
-        "event_key": "lyon-fonseca-official-departure-sporting-5million-20261104"
+        "title": "나달, 레알 마드리드 이사회 합류 추진…구단이 총회 추인 안건 올렸다",
+        "url": "https://www.realmadrid.com/en-US/news/club/announcements/comunicado-oficial-rafael-nadal-04-11-2026",
+        "event_key": "real-madrid-nadal-board-appointment-ratification-proposal-20261104"
       },
       {
-        "title": "CAS는 복귀 허용했지만 캐나다는 거부…러시아 주니어 하키팀 출전 차단",
-        "url": "https://www.investing.com/news/world-news/canada-will-not-let-russians-compete-at-ice-hockey-tournament-says-carney-4996856",
-        "event_key": "canada-carney-bars-russia-belarus-world-juniors-20261103"
+        "title": "세 번 따라붙은 포항, 감바와 3대3…ACLE 3연패 뒤 첫 승점",
+        "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017723",
+        "event_key": "pohang-gamba-three-comebacks-first-acle-point-20261104"
       },
       {
-        "title": "중앙일보에 5200억원 투입…다우키움·CJ·신세계 인수 계약 앞뒀다",
-        "url": "https://prod.biz.chosun.com/stock/stock_general/2026/11/04/RYSQUKYR2JGWDCNFOBQJANECGM/",
-        "event_key": "joongang-520billion-consortium-board-approval-20261104"
+        "title": "토요타, WRC 두 팀·두 차종 체제로…로반페레·타낙 복귀 확정",
+        "url": "https://toyotagazooracing.com/pressrelease/2026/1103-01/",
+        "event_key": "toyota-two-teams-celica-yaris-rovanpera-tanak-wrc-2027-announced-20261103"
       },
       {
-        "title": "호반, 조원태 측 제치고 한진칼 최대주주…0.11%p 차이",
-        "url": "https://biz.chosun.com/industry/company/2026/11/04/LY2PPSEACJABFOXU7K3XNMXPXA/?outputType=amp",
-        "event_key": "hanjinkal-hoban-largest-shareholder-disclosure-20261104"
+        "title": "美 올림픽위원회, 상업법인 외부 투자 추진…LA28 이후 수익 구조 바꾼다",
+        "url": "https://www.channelnewsasia.com/sport/us-committee-seeks-outside-investors-new-commercial-venture-6517641",
+        "event_key": "usopc-usopv-commercial-venture-outside-investment-plan-20261103"
       },
       {
-        "title": "경찰, 강호동 농협중앙회장 구속영장 신청…1억원 뇌물 혐의",
-        "url": "https://web3.newspim.com/news/view/20261104001358",
-        "event_key": "nonghyup-chair-kang-ho-dong-police-arrest-warrant-20261103"
+        "title": "‘조작기소 특검법’ 소위 이어 법사위 전체회의 통과…본회의 처리 추진",
+        "url": "https://www.yna.co.kr/view/AKR20261104171000001",
+        "event_key": "fabricated-prosecution-special-counsel-bill-full-committee-passed-20261104"
       }
     ]
   }
