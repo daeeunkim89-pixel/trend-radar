@@ -1,6 +1,369 @@
 {
   "version": 1,
   "items": {
+    "36d330e434dd": {
+      "source": "PSG 공식 경기 기록",
+      "title": "17분 만에 4골…PSG, 비야레알 6대0 완파하며 챔스 기록 경신",
+      "link": "https://www.psg.fr/matchs/football-masculin/20262027/villarreal-vs-paris-2026-11-03",
+      "first_seen_at": 1793770598,
+      "last_seen_at": 1793770598,
+      "samples": [
+        {
+          "at": 1793770598,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "official",
+      "story_id": "36d330e434dd",
+      "editorial": {
+        "title": "17분 만에 4골…PSG, 비야레알 6대0 완파하며 챔스 기록 경신",
+        "category": "축구",
+        "url": "https://www.psg.fr/matchs/football-masculin/20262027/villarreal-vs-paris-2026-11-03",
+        "source": "PSG 공식 경기 기록",
+        "kind": "official",
+        "event_key": "psg-villarreal-ucl-four-goals-16m02-6-0-20261103",
+        "why": "챔피언스리그에서 16분2초 만에 4골을 넣은 기록 경기. 유명 구단의 대승과 기록이 한 장에 잡힌다.",
+        "angle": "9·12·13·17분 득점과 최종6대0을 크게 배치한다.",
+        "why_now": "현지11월3일 경기, 한국시간4일 새벽 결과. 구단 공식 기록과 경기 보고서를 이번에 확인했다.",
+        "evidence": [
+          {
+            "url": "https://www.psg.fr/matchs/football-masculin/20262027/villarreal-vs-paris-2026-11-03",
+            "note": "공식 경기센터에서 득점 시각과 비야레알0-6PSG 종료 결과 확인."
+          },
+          {
+            "url": "https://www.psg.fr/content/compte-rendu-paris-soffre-une-victoire-record-a-villarreal-cf-paris-saint-germain-uefa-champions-league-2026-2027",
+            "note": "구단 보고서에서16분2초 만에4골을 넣은 대회 기록,6대0 구단 UCL 원정 최다 점수차 승리를 확인."
+          }
+        ],
+        "verified_at": 1793770419,
+        "published_at": null,
+        "materials": [
+          {
+            "url": "https://www.psg.fr/matchs/football-masculin/20262027/villarreal-vs-paris-2026-11-03",
+            "label": "검증한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-03",
+          "observation": "PSG 공식 기록에서 9·12·13·17분 득점과6대0 최종 결과를 확인했다. 보고서는16분2초 만의4골을 대회 최단 기록으로 설명한다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장:17분4골·최종6대0 스코어.",
+            "다음 장:9·12·13·17분 득점 순서와16분2초 기록을 정리한다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "검증한 원문",
+            "url": "https://www.psg.fr/matchs/football-masculin/20262027/villarreal-vs-paris-2026-11-03"
+          }
+        ],
+        "excerpt": "",
+        "context": "현지11월3일 경기, 한국시간4일 새벽 결과. 구단 공식 기록과 경기 보고서를 이번에 확인했다.",
+        "fetched_at": 1793770598,
+        "parser_revision": 7
+      },
+      "curation_event_key": "psg-villarreal-ucl-four-goals-16m02-6-0-20261103"
+    },
+    "32593ed5b724": {
+      "source": "바이에른 공식·더팩트",
+      "title": "김민재·이강인 챔스 맞대결…뮌헨, 아틀레티코 원정서 2대0 승리",
+      "link": "https://news.tf.co.kr/read/soccer/2384474.htm",
+      "first_seen_at": 1793770598,
+      "last_seen_at": 1793770598,
+      "samples": [
+        {
+          "at": 1793770598,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "32593ed5b724",
+      "editorial": {
+        "title": "김민재·이강인 챔스 맞대결…뮌헨, 아틀레티코 원정서 2대0 승리",
+        "category": "축구",
+        "url": "https://news.tf.co.kr/read/soccer/2384474.htm",
+        "source": "바이에른 공식·더팩트",
+        "kind": "article",
+        "event_key": "bayern-atletico-ucl-kim-lee-korean-derby-2-0-20261103",
+        "why": "한국 대표팀 핵심 두 선수가 챔피언스리그에서 맞붙었다. 주요 구단 승부와 한국 독자의 관심이 겹친다.",
+        "angle": "김민재·이강인 맞대결과2대0 결과를 전면에 놓는다.",
+        "why_now": "한국시간11월4일 새벽 UCL4차전 결과. 공식 구단 보고서와 국내 본문에서 경기·교체 출전을 대조했다.",
+        "evidence": [
+          {
+            "url": "https://fcbayern.com/de/news/spielberichte/2026/11/spielbericht-champions-league-atletico-madrid-fc-bayern",
+            "note": "11월3일 현지 UCL 원정2대0 승리,54분 칼·74분 라이머 득점 확인."
+          },
+          {
+            "url": "https://news.tf.co.kr/read/soccer/2384474.htm",
+            "note": "한국시간4일 경기, 이강인 후반14분·김민재 후반34분 교체 출전과 맞대결 확인."
+          }
+        ],
+        "verified_at": 1793770419,
+        "published_at": null,
+        "materials": [
+          {
+            "url": "https://news.tf.co.kr/read/soccer/2384474.htm",
+            "label": "검증한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-04",
+          "observation": "공식 보고서는 뮌헨의 원정2대0 승리와 칼·라이머 득점을 확인한다. 더팩트 본문은 이강인과 김민재가 후반 교체 출전해 맞붙었다고 보도한다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장:두 한국 선수와 아틀레티코0-2뮌헨 결과.",
+            "다음 장:칼·라이머 득점과 후반 교체 맞대결을 간단히 정리한다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "검증한 원문",
+            "url": "https://news.tf.co.kr/read/soccer/2384474.htm"
+          }
+        ],
+        "excerpt": "",
+        "context": "한국시간11월4일 새벽 UCL4차전 결과. 공식 구단 보고서와 국내 본문에서 경기·교체 출전을 대조했다.",
+        "fetched_at": 1793770598,
+        "parser_revision": 7
+      },
+      "curation_event_key": "bayern-atletico-ucl-kim-lee-korean-derby-2-0-20261103"
+    },
+    "7a4af32bf57c": {
+      "source": "Sky Sports",
+      "title": "강등 뒤에도 2부 8위…웨스트햄, 누누 감독 경질",
+      "link": "https://www.skysports.com/football/news/13606997/west-ham-nuno-espirito-santo-sacked-by-hammers-with-club-sitting-in-eighth-place-in-the-championship",
+      "first_seen_at": 1793770598,
+      "last_seen_at": 1793770598,
+      "samples": [
+        {
+          "at": 1793770598,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "7a4af32bf57c",
+      "editorial": {
+        "title": "강등 뒤에도 2부 8위…웨스트햄, 누누 감독 경질",
+        "category": "축구",
+        "url": "https://www.skysports.com/football/news/13606997/west-ham-nuno-espirito-santo-sacked-by-hammers-with-club-sitting-in-eighth-place-in-the-championship",
+        "source": "Sky Sports",
+        "kind": "article",
+        "event_key": "west-ham-nuno-espirito-santo-sacked-20261103",
+        "why": "프리미어리그 복귀를 노리는 웨스트햄의 감독 교체. 단순 인터뷰가 아닌 구단 운영의 확정 변화다.",
+        "angle": "‘강등→2부8위→누누 경질’로 상황을 한눈에 보여준다.",
+        "why_now": "11월3일 결별 발표. 미발송24~48시간 후보 범위에서 선정했으며 오늘 새 발표로 바꾸지 않는다.",
+        "evidence": [
+          {
+            "url": "https://www.skysports.com/football/news/13606997/west-ham-nuno-espirito-santo-sacked-by-hammers-with-club-sitting-in-eighth-place-in-the-championship",
+            "note": "11월3일자 본문에서 누누 경질·2부8위·구단이 변화 필요성을 설명한 성명과 후임 영입 진행 상태 확인."
+          }
+        ],
+        "caution": "11월3일 발표. 파커 후임 선임은 이 출처에서 확정되지 않았다.",
+        "verified_at": 1793770419,
+        "published_at": null,
+        "materials": [
+          {
+            "url": "https://www.skysports.com/football/news/13606997/west-ham-nuno-espirito-santo-sacked-by-hammers-with-club-sitting-in-eighth-place-in-the-championship",
+            "label": "검증한 원문",
+            "kind": "source"
+          }
+        ],
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-03",
+          "observation": "Sky Sports 본문은 챔피언십13경기 만의 누누 경질,리그8위,구단의 감독 영입 절차 진행을 확인한다. 스콧 파커 선임은 당시 임박 보도여서 확정으로 쓰지 않는다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장:누누 경질과 현재2부8위.",
+            "다음 장:승격 목표의 구단이 감독 교체에 나섰다는 확인 사실만 정리한다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "검증한 원문",
+            "url": "https://www.skysports.com/football/news/13606997/west-ham-nuno-espirito-santo-sacked-by-hammers-with-club-sitting-in-eighth-place-in-the-championship"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월3일 결별 발표. 미발송24~48시간 후보 범위에서 선정했으며 오늘 새 발표로 바꾸지 않는다.",
+        "fetched_at": 1793770598,
+        "parser_revision": 7
+      },
+      "curation_event_key": "west-ham-nuno-espirito-santo-sacked-20261103"
+    },
+    "bf5403b8574e": {
+      "source": "뉴시스·NBC 예측 인용",
+      "title": "NBC “민주당, 美 상·하원 다수당 모두 탈환” 예측",
+      "link": "https://www.newsis.com/view/NISX20261104_0003854506",
+      "first_seen_at": 1793770598,
+      "last_seen_at": 1793770598,
+      "samples": [
+        {
+          "at": 1793770598,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "bf5403b8574e",
+      "editorial": {
+        "title": "NBC “민주당, 美 상·하원 다수당 모두 탈환” 예측",
+        "category": "시사",
+        "url": "https://www.newsis.com/view/NISX20261104_0003854506",
+        "source": "뉴시스·NBC 예측 인용",
+        "kind": "article",
+        "event_key": "us-midterms-nbc-projects-democrats-house-senate-majorities-20261104",
+        "why": "미국 의회 권력과 트럼프 후반기 국정 운영이 걸린 선거. 스포츠 밖에서도 첫 장에 올릴 만한 국제 주요 뉴스다.",
+        "angle": "‘美 의회 권력 교체 전망’과 NBC 예측임을 함께 표시한다.",
+        "why_now": "11월4일13:44 뉴시스가 NBC의 양원 다수당 예측을 보도했다. 앞선 단순 개표 우세 기사보다 진전된 소식이다.",
+        "evidence": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261104_0003854506",
+            "note": "13:44 본문에서 NBC의 양원 다수당 탈환 예측과 최종 의석수가 추가 개표에 따라 달라질 수 있다는 설명 확인."
+          }
+        ],
+        "caution": "방송사의 당선 예측이며 공식 최종 집계·인증 완료가 아니다.",
+        "verified_at": 1793770419,
+        "published_at": null,
+        "materials": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261104_0003854506",
+            "label": "검증한 원문",
+            "kind": "source"
+          }
+        ],
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-04",
+          "observation": "뉴시스13:44 본문에서 NBC가 민주당의 하원·상원 다수당 탈환을 예측했다고 보도한 사실을 확인했다. 공식 최종 집계나 인증 완료로 표현하지 않는다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장:NBC의 민주당 상·하원 다수당 탈환 예측.",
+            "다음 장:양원 권한 변화가 트럼프 행정부 견제에 미칠 영향을 사실·전망으로 나눠 설명한다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "검증한 원문",
+            "url": "https://www.newsis.com/view/NISX20261104_0003854506"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월4일13:44 뉴시스가 NBC의 양원 다수당 예측을 보도했다. 앞선 단순 개표 우세 기사보다 진전된 소식이다.",
+        "fetched_at": 1793770598,
+        "parser_revision": 7
+      },
+      "curation_event_key": "us-midterms-nbc-projects-democrats-house-senate-majorities-20261104"
+    },
+    "97f624eea32f": {
+      "source": "SBS 단독 취재",
+      "title": "대통령 부부 포함 168명 정보 유출…경찰 정식 수사·여권 재발급",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008829317",
+      "first_seen_at": 1793770598,
+      "last_seen_at": 1793770598,
+      "samples": [
+        {
+          "at": 1793770598,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "97f624eea32f",
+      "editorial": {
+        "title": "대통령 부부 포함 168명 정보 유출…경찰 정식 수사·여권 재발급",
+        "category": "시사",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008829317",
+        "source": "SBS 단독 취재",
+        "kind": "article",
+        "event_key": "presidential-flight-168-data-leak-police-investigation-passport-reissue-20261103",
+        "why": "대통령 순방단 전체의 신원정보와 국가 보안 관리가 걸린 사건. 일상적 개인정보 사고보다 파장이 크다.",
+        "angle": "168명 유출과 정식 수사·여권 재발급을 핵심으로 놓는다.",
+        "why_now": "11월4일06:29 보도에서 전날 긴급회의와 정식 수사 전환·재발급 조치를 확인했다. 최초 파일 유출 시점과 구별한다.",
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008829317",
+            "note": "본문에서168명 규모와11월3일 긴급회의·정식 수사 전환·여권 재발급 조치를 확인.6월 파일 작성·업로드와 최신 대응을 구분."
+          }
+        ],
+        "caution": "벨기에 전달 과정에서 유출됐다는 경위는 조사 중이며 확정이 아니다.",
+        "verified_at": 1793770419,
+        "published_at": null,
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008829317",
+            "label": "검증한 원문",
+            "kind": "source"
+          }
+        ],
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-03",
+          "observation": "SBS 본문은 공군1호기 탑승자168명 정보가 담긴 파일 유출,전날 긴급회의,경찰 정식 수사 전환과 여권 재발급 조치를 보도한다. 벨기에 전달 중 유출 경로는 수사 가설이다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장:대통령 부부 포함168명 정보 유출·정식 수사.",
+            "다음 장:여권 재발급과 경위 조사. 실제 식별번호나 유출 파일은 사용하지 않는다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "검증한 원문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008829317"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월4일06:29 보도에서 전날 긴급회의와 정식 수사 전환·재발급 조치를 확인했다. 최초 파일 유출 시점과 구별한다.",
+        "fetched_at": 1793770598,
+        "parser_revision": 7
+      },
+      "curation_event_key": "presidential-flight-168-data-leak-police-investigation-passport-reissue-20261103"
+    },
     "7ba537d61a9c": {
       "source": "뉴스1·현장 취재",
       "title": "8대0이 8대7까지…KT, 삼성 잡고 한국시리즈 첫판 승리",
@@ -29429,763 +29792,7 @@
         "parser_revision": 7
       },
       "curation_event_key": "korea-elliott-remand-award-no-annulment-challenge-20261028"
-    },
-    "a67b50fc05fd": {
-      "source": "SBS·축구협회 심판판정브리핑5호",
-      "title": "얼굴 팔꿈치 가격에 옐로카드…축구협회 “퇴장감,VAR도 오심”",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008818647",
-      "first_seen_at": 1793163826,
-      "last_seen_at": 1793163826,
-      "samples": [
-        {
-          "at": 1793163826,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "a67b50fc05fd",
-      "editorial": {
-        "title": "얼굴 팔꿈치 가격에 옐로카드…축구협회 “퇴장감,VAR도 오심”",
-        "category": "축구",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008818647",
-        "source": "SBS·축구협회 심판판정브리핑5호",
-        "kind": "article",
-        "event_key": "suwon-ko-jong-hyeon-elbow-yellow-var-error-confirmed-20261028",
-        "why": "국축 친구에게 보낼 판정의 반전. 공과 무관한 안면 가격인데 경고로 끝나고 VAR도 개입하지 않았다는 장면이 협회의 공식 오심 결론으로 확인됐다.",
-        "angle": "25일 경기 판정에 대해28일 협회가 주심·VAR 판단 모두 오심 인정",
-        "why_now": "25일 경기 판정에 대해28일 협회가 주심·VAR 판단 모두 오심 인정 실제 사건일·최초 공개와 기사 시각을 구별해 이번 미발송 후보로 비교.",
-        "verified_at": 1793163470,
-        "published_at": 1793151865,
-        "evidence": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008818647",
-            "note": "본문에서28일 협회 브리핑5호의 직접 인용 확인.25일 성남전 전반23분 고종현 팔꿈치 가격을 난폭한 행위로 분류,경고 아닌 퇴장 적절·VAR 온필드리뷰 권고 필요라고 결론."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008818647",
-            "label": "본문·발표·답변 확인",
-            "kind": "source"
-          }
-        ],
-        "caution": "새 사실은28일 공식 평가. 경기 원영상 미시청,본문의 장면 설명과 협회 규칙 판단만 확인. 사후징계·경기 결과 변경 확정 아님. 심판 고의·매수 주장 금지.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-28",
-          "observation": "본문에서28일 협회 브리핑5호의 직접 인용 확인.25일 성남전 전반23분 고종현 팔꿈치 가격을 난폭한 행위로 분류,경고 아닌 퇴장 적절·VAR 온필드리뷰 권고 필요라고 결론.",
-          "checked_materials": [],
-          "outline": [
-            "25일 성남전 팔꿈치 가격에 현장 경고 판정이라는 배경",
-            "협회 “볼 경합과 무관,퇴장이 적절” 공식 결론",
-            "VAR도 명백한 오류에 온필드리뷰 권고했어야 한다고 인정"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "본문·발표·답변 확인",
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008818647"
-          }
-        ],
-        "excerpt": "",
-        "context": "25일 경기 판정에 대해28일 협회가 주심·VAR 판단 모두 오심 인정 실제 사건일·최초 공개와 기사 시각을 구별해 이번 미발송 후보로 비교.",
-        "fetched_at": 1793163826,
-        "parser_revision": 7
-      },
-      "curation_event_key": "suwon-ko-jong-hyeon-elbow-yellow-var-error-confirmed-20261028"
-    },
-    "ab278d88bea3": {
-      "source": "뉴스핌·TNT Sports 현장 취재",
-      "title": "킥오프2분 만에 드론으로 중단…아스널은16세 퇴장 끝4부팀에 탈락",
-      "link": "https://www.newspim.com/news/view/20261028000234",
-      "first_seen_at": 1793163826,
-      "last_seen_at": 1793163826,
-      "samples": [
-        {
-          "at": 1793163826,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "ab278d88bea3",
-      "editorial": {
-        "title": "킥오프2분 만에 드론으로 중단…아스널은16세 퇴장 끝4부팀에 탈락",
-        "category": "축구",
-        "url": "https://www.newspim.com/news/view/20261028000234",
-        "source": "뉴스핌·TNT Sports 현장 취재",
-        "kind": "article",
-        "event_key": "fleetwood-arsenal-drone-delay-dowman-red-cup-upset-20261027",
-        "why": "축구 단톡방에 보낼 꼬인 밤의 서사. 드론으로 경기 시작부터 멈추더니 유망주 보복성 반응으로 퇴장,끝내4부팀 승부차기 제물이 됐다.",
-        "angle": "27일 영국 경기의 드론 중단·다우먼 퇴장·4부팀 사상 첫8강",
-        "why_now": "27일 영국 경기의 드론 중단·다우먼 퇴장·4부팀 사상 첫8강 실제 사건일·최초 공개와 기사 시각을 구별해 이번 미발송 후보로 비교.",
-        "verified_at": 1793163470,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.newspim.com/news/view/20261028000234",
-            "note": "국내 본문과 TNT 취재 대조. 시작2분 안에 드론으로 약8분 중단,다우먼이 경기 막판 발길질로 퇴장.1-1 뒤 승부차기3-5,기마랑이스 실축·플리트우드8강 확인."
-          },
-          {
-            "url": "https://www.tntsports.co.uk/football/league-cup/2026-2027/arsenal-fleetwood-town-drone_sto23349827/story.shtml",
-            "note": "현장 본문에서 약8분 중단·퇴장·승부차기 실제 경과 대조."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.newspim.com/news/view/20261028000234",
-            "label": "본문·발표·답변 확인",
-            "kind": "source"
-          }
-        ],
-        "caution": "현지27일 경기·한국28일 보도. 원영상 미시청,실제 현장 취재 본문 근거. 드론이 패배 원인이라고 단정하지 않음. 국내 기사 연장 표현은 TNT의 정규시간 뒤 승부차기 설명을 우선.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-27",
-          "observation": "국내 본문과 TNT 취재 대조. 시작2분 안에 드론으로 약8분 중단,다우먼이 경기 막판 발길질로 퇴장.1-1 뒤 승부차기3-5,기마랑이스 실축·플리트우드8강 확인.",
-          "checked_materials": [],
-          "outline": [
-            "드론 때문에 킥오프 직후 약8분 중단,선수들은 다시 몸을 데웠다",
-            "동점 뒤 다우먼의 발길질 퇴장으로 수적 열세",
-            "기마랑이스 킥이 막히고4부 플리트우드가5-3으로 첫8강"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "본문·발표·답변 확인",
-            "url": "https://www.newspim.com/news/view/20261028000234"
-          }
-        ],
-        "excerpt": "",
-        "context": "27일 영국 경기의 드론 중단·다우먼 퇴장·4부팀 사상 첫8강 실제 사건일·최초 공개와 기사 시각을 구별해 이번 미발송 후보로 비교.",
-        "fetched_at": 1793163826,
-        "parser_revision": 7
-      },
-      "curation_event_key": "fleetwood-arsenal-drone-delay-dowman-red-cup-upset-20261027"
-    },
-    "67ecf3fa3812": {
-      "source": "뉴시스·복권위원회 공개 제재",
-      "title": "전자복권1등,구간마다1장씩…알고도 숨기고 점검 앞두고 메일 삭제",
-      "link": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261027_0003842125",
-      "first_seen_at": 1793163826,
-      "last_seen_at": 1793163826,
-      "samples": [
-        {
-          "at": 1793163826,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "67ecf3fa3812",
-      "editorial": {
-        "title": "전자복권1등,구간마다1장씩…알고도 숨기고 점검 앞두고 메일 삭제",
-        "category": "시사",
-        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261027_0003842125",
-        "source": "뉴시스·복권위원회 공개 제재",
-        "kind": "article",
-        "event_key": "triple-luck-first-prize-distribution-concealment-additional-penalty-20261027",
-        "why": "복권 사는 친구에게 보낼 랜덤의 숨은 조건. 전체 확률은 같아도 초반에1등이 몰릴 수 없게 배치했고,관리자가 알면서 보고하지 않은 데 추가 제재가 붙었다.",
-        "angle": "26일 의결·27일 공개:배치 구조 미보고와 메일 삭제로추가3000만원",
-        "why_now": "26일 의결·27일 공개:배치 구조 미보고와 메일 삭제로추가3000만원 실제 사건일·최초 공개와 기사 시각을 구별해 이번 미발송 후보로 비교.",
-        "verified_at": 1793163529,
-        "published_at": 1793062800,
-        "evidence": [
-          {
-            "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261027_0003842125",
-            "note": "복권위 취재 본문에서1500만장4구간에1등 한 장씩 배치한 구조,전체1등확률375만분의1유지 확인.2025년7월 배치 제한 개선,2024년내부인지 미보고·현장점검 전메일삭제로추가위약벌3000만원·감사청구."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261027_0003842125",
-            "label": "본문·발표·답변 확인",
-            "kind": "source"
-          }
-        ],
-        "caution": "27일10시 새 제재 공개,복권시스템이 지금도 옛 방식이라는 뜻 아님. 전체 당첨확률 조작·로또 추첨 조작으로 확대 금지. 위약벌 총6000만원 중 이번추가3000만원 구별.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-27",
-          "observation": "복권위 취재 본문에서1500만장4구간에1등 한 장씩 배치한 구조,전체1등확률375만분의1유지 확인.2025년7월 배치 제한 개선,2024년내부인지 미보고·현장점검 전메일삭제로추가위약벌3000만원·감사청구.",
-          "checked_materials": [],
-          "outline": [
-            "완전 무작위와 달리 판매구간마다1등을 나눠놓은 옛 구조",
-            "2024년 내부에서 알고도 미보고,점검 앞두고 메일 삭제 확인",
-            "구조는2025년 개선,이번엔 은폐 책임에 추가3000만원·감사청구"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "본문·발표·답변 확인",
-            "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261027_0003842125"
-          }
-        ],
-        "excerpt": "",
-        "context": "26일 의결·27일 공개:배치 구조 미보고와 메일 삭제로추가3000만원 실제 사건일·최초 공개와 기사 시각을 구별해 이번 미발송 후보로 비교.",
-        "fetched_at": 1793163826,
-        "parser_revision": 7
-      },
-      "curation_event_key": "triple-luck-first-prize-distribution-concealment-additional-penalty-20261027"
-    },
-    "b6b0fa2cbc2e": {
-      "source": "성시경 부를텐데 공개 캡처·엑스포츠뉴스",
-      "title": "설윤 “캠핑 가서 고기”…남친 농담에 손사래,해원 “이런 답변 처음”",
-      "link": "https://www.xportsnews.com/article/2212383",
-      "first_seen_at": 1793163826,
-      "last_seen_at": 1793163826,
-      "samples": [
-        {
-          "at": 1793163826,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "b6b0fa2cbc2e",
-      "editorial": {
-        "title": "설윤 “캠핑 가서 고기”…남친 농담에 손사래,해원 “이런 답변 처음”",
-        "category": "아이돌",
-        "url": "https://www.xportsnews.com/article/2212383",
-        "source": "성시경 부를텐데 공개 캡처·엑스포츠뉴스",
-        "kind": "article",
-        "event_key": "nmixx-sullyoon-camping-boyfriend-joke-haewon-response-20261026",
-        "why": "여돌 예능 보는 친구에게 보낼 예상 밖의 응수. 먹고 싶은 것 묻다가 남친 농담으로 튀고,설윤의 부인과 해원의 받아치기가 한 장면으로 이어진다.",
-        "angle": "26일 공개된 부를텐데 대화와 반응,28일 기사로 논쟁 재조명",
-        "why_now": "26일 공개된 부를텐데 대화와 반응,28일 기사로 논쟁 재조명 실제 사건일·최초 공개와 기사 시각을 구별해 이번 미발송 후보로 비교.",
-        "verified_at": 1793163460,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.xportsnews.com/article/2212383",
-            "note": "기사 본문에서700만원으로 먹고 싶은 것→설윤 캠핑고기→성시경 남친농담 문맥 확인. 실제 두 캡처에서 설윤의 손사래와 “진짜 아닙니다” 자막,해원의 웃음과 “이런 답변 처음 들어봐” 자막을 관찰. 전체영상·성시경 발화 음성은 미시청."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://image.xportsnews.com/contents/images/upload/article/2026/1028/1793150048195972.webp",
-            "label": "설윤 부인 자막·손사래",
-            "kind": "image"
-          },
-          {
-            "url": "https://image.xportsnews.com/contents/images/upload/article/2026/1028/1793150598626822.webp",
-            "label": "해원 반응·실제 자막",
-            "kind": "image"
-          },
-          {
-            "url": "https://www.xportsnews.com/article/2212383",
-            "label": "앞뒤 질문·문맥 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "원공개26일,날짜만 확인·분 단위 시각 미상. 일부 기사27일 표기보다26일 원공개 보도들을 대조. 연애 사실로 쓰지 않음. 농담 비판·옹호는 엇갈림. 전체 영상 시청으로 쓰지 않음.",
-        "readiness": {
-          "mode": "scene",
-          "event_date": "2026-10-26",
-          "observation": "기사 본문에서700만원으로 먹고 싶은 것→설윤 캠핑고기→성시경 남친농담 문맥 확인. 실제 두 캡처에서 설윤의 손사래와 “진짜 아닙니다” 자막,해원의 웃음과 “이런 답변 처음 들어봐” 자막을 관찰. 전체영상·성시경 발화 음성은 미시청.",
-          "checked_materials": [
-            "https://image.xportsnews.com/contents/images/upload/article/2026/1028/1793150048195972.webp",
-            "https://image.xportsnews.com/contents/images/upload/article/2026/1028/1793150598626822.webp"
-          ],
-          "outline": [
-            "700만원으로 무엇을 먹고 싶냐는 질문과 설윤의 캠핑 답변은 본문 근거",
-            "직접 확인한 설윤 손사래·“진짜 아닙니다” 자막 캡처",
-            "해원의 웃음·“이런 답변 처음” 실제 캡처로 회수"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [
-          {
-            "url": "https://image.xportsnews.com/contents/images/upload/article/2026/1028/1793150048195972.webp",
-            "label": "설윤 부인 자막·손사래",
-            "kind": "image"
-          },
-          {
-            "url": "https://image.xportsnews.com/contents/images/upload/article/2026/1028/1793150598626822.webp",
-            "label": "해원 반응·실제 자막",
-            "kind": "image"
-          }
-        ],
-        "source_links": [
-          {
-            "label": "설윤 부인 자막·손사래",
-            "url": "https://image.xportsnews.com/contents/images/upload/article/2026/1028/1793150048195972.webp"
-          },
-          {
-            "label": "해원 반응·실제 자막",
-            "url": "https://image.xportsnews.com/contents/images/upload/article/2026/1028/1793150598626822.webp"
-          },
-          {
-            "label": "앞뒤 질문·문맥 본문",
-            "url": "https://www.xportsnews.com/article/2212383"
-          }
-        ],
-        "excerpt": "",
-        "context": "26일 공개된 부를텐데 대화와 반응,28일 기사로 논쟁 재조명 실제 사건일·최초 공개와 기사 시각을 구별해 이번 미발송 후보로 비교.",
-        "fetched_at": 1793163826,
-        "parser_revision": 7
-      },
-      "curation_event_key": "nmixx-sullyoon-camping-boyfriend-joke-haewon-response-20261026"
-    },
-    "3216468a6853": {
-      "source": "머니투데이·뉴스1 행정판결 취재",
-      "title": "15세 승객 성희롱하고 “가족 생계”…법원 “개인택시 면허취소 정당”",
-      "link": "https://www.mt.co.kr/amp/society/2026/10/28/2026102810480965639",
-      "first_seen_at": 1793163826,
-      "last_seen_at": 1793163826,
-      "samples": [
-        {
-          "at": 1793163826,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "3216468a6853",
-      "editorial": {
-        "title": "15세 승객 성희롱하고 “가족 생계”…법원 “개인택시 면허취소 정당”",
-        "category": "시사",
-        "url": "https://www.mt.co.kr/amp/society/2026/10/28/2026102810480965639",
-        "source": "머니투데이·뉴스1 행정판결 취재",
-        "kind": "article",
-        "event_key": "taxi-teen-sexual-abuse-business-licence-revocation-upheld-20261028",
-        "why": "부모·대중교통 단톡방에 보낼 공익 판단. 유죄 뒤 자격만 취소하면 된다며 개인택시 사업권을 지키려 했지만,법원은 승객 안전이 더 크다고 봤다.",
-        "angle": "28일 공개된 행정소송 결론:가족 생계 주장에도 사업면허 취소 유지",
-        "why_now": "28일 공개된 행정소송 결론:가족 생계 주장에도 사업면허 취소 유지 실제 사건일·최초 공개와 기사 시각을 구별해 이번 미발송 후보로 비교.",
-        "verified_at": 1793163564,
-        "published_at": 1793149200,
-        "evidence": [
-          {
-            "url": "https://www.mt.co.kr/amp/society/2026/10/28/2026102810480965639",
-            "note": "본문에서2022년 범행·2024년 형사 확정과 이번 행정판결 구별. 배우자 투병·20년 경력·유일 생계 주장에도 법원은 승객 안전 공익이 크다며 청구 기각. 개인택시 사업면허와 운전자격은 별개 쟁점."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.mt.co.kr/amp/society/2026/10/28/2026102810480965639",
-            "label": "본문·발표·답변 확인",
-            "kind": "source"
-          }
-        ],
-        "caution": "미성년 피해자의 성적 질문을 자극적으로 재현하지 않음. 형사 사건이 오늘 발생한 것 아님. 새 행정판결 선고일 정확한 날짜 미상,28일 공개 취재. 상급심 확정 여부 미확인.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-28",
-          "observation": "본문에서2022년 범행·2024년 형사 확정과 이번 행정판결 구별. 배우자 투병·20년 경력·유일 생계 주장에도 법원은 승객 안전 공익이 크다며 청구 기각. 개인택시 사업면허와 운전자격은 별개 쟁점.",
-          "checked_materials": [],
-          "outline": [
-            "형사 유죄 확정 뒤 운전자격과 사업면허 모두 취소라는 배경",
-            "가족 생계·배우자 투병을 들어 사업면허만은 유지해달라는 청구",
-            "법원은 승객 안전을 앞세워 취소 유지"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "본문·발표·답변 확인",
-            "url": "https://www.mt.co.kr/amp/society/2026/10/28/2026102810480965639"
-          }
-        ],
-        "excerpt": "",
-        "context": "28일 공개된 행정소송 결론:가족 생계 주장에도 사업면허 취소 유지 실제 사건일·최초 공개와 기사 시각을 구별해 이번 미발송 후보로 비교.",
-        "fetched_at": 1793163826,
-        "parser_revision": 7
-      },
-      "curation_event_key": "taxi-teen-sexual-abuse-business-licence-revocation-upheld-20261028"
-    },
-    "61c664645b21": {
-      "source": "이데일리·대신증권 공식 설명",
-      "title": "정상서비스처럼 보인6만 신호…대신증권 고객3만8490명 정보 유출",
-      "link": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03601446645617512",
-      "first_seen_at": 1793163826,
-      "last_seen_at": 1793163826,
-      "samples": [
-        {
-          "at": 1793163826,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "61c664645b21",
-      "editorial": {
-        "title": "정상서비스처럼 보인6만 신호…대신증권 고객3만8490명 정보 유출",
-        "category": "시사",
-        "url": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03601446645617512",
-        "source": "이데일리·대신증권 공식 설명",
-        "kind": "article",
-        "event_key": "daishin-securities-customer-data-breach-38490-disclosure-20261028",
-        "why": "증권앱 쓰는 친구에게 보낼 계좌 밖 보안 문제. 핵심거래시스템은 멀쩡해도 외부 연계서버에서 정상서비스로 가장한 요청이 들어와 수만명 정보가 유출됐다.",
-        "angle": "17일 이상징후→열흘 전수조사→28일 고객정보 유출 공개·개별 안내",
-        "why_now": "17일 이상징후→열흘 전수조사→28일 고객정보 유출 공개·개별 안내 실제 사건일·최초 공개와 기사 시각을 구별해 이번 미발송 후보로 비교.",
-        "verified_at": 1793163460,
-        "published_at": 1793147742,
-        "evidence": [
-          {
-            "url": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03601446645617512",
-            "note": "본문에서17일 비대면 계좌개설 연계서버 이상 접근 탐지,6만여 신호 전수조사·38490명8항목 유출 확인. 이름·이메일·주소 등이 포함되며 일부 계좌·휴대폰 항목은 암호화됐다고 회사 설명."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03601446645617512",
-            "label": "본문·발표·답변 확인",
-            "kind": "source"
-          }
-        ],
-        "caution": "28일 공개,실제 침입 징후17일. 계좌 돈이 빠져나갔다고 단정하지 않음. 회사 설명과 독립 확인 구별. 개인정보 실제 값·계좌번호를 열람하거나 기재하지 않음.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-28",
-          "observation": "본문에서17일 비대면 계좌개설 연계서버 이상 접근 탐지,6만여 신호 전수조사·38490명8항목 유출 확인. 이름·이메일·주소 등이 포함되며 일부 계좌·휴대폰 항목은 암호화됐다고 회사 설명.",
-          "checked_materials": [],
-          "outline": [
-            "정상서비스로 가장했던6만여 신호를 열흘간 조사",
-            "고객3만8490명·8항목 유출이라는 새 확인",
-            "회사는 핵심시스템 접근·2차 피해 정황 없다고 설명,대상자 개별 안내"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "본문·발표·답변 확인",
-            "url": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03601446645617512"
-          }
-        ],
-        "excerpt": "",
-        "context": "17일 이상징후→열흘 전수조사→28일 고객정보 유출 공개·개별 안내 실제 사건일·최초 공개와 기사 시각을 구별해 이번 미발송 후보로 비교.",
-        "fetched_at": 1793163826,
-        "parser_revision": 7
-      },
-      "curation_event_key": "daishin-securities-customer-data-breach-38490-disclosure-20261028"
-    },
-    "d4f59934fe4c": {
-      "source": "머니투데이 주민 사연 취재·공개 Threads",
-      "title": "밤10시 “초1 아이 안 들어와”…5000세대 이웃들,월패드·자전거 사진으로 찾았다",
-      "link": "https://www.mt.co.kr/society/2026/10/28/2026102809401559010",
-      "first_seen_at": 1793163826,
-      "last_seen_at": 1793163826,
-      "samples": [
-        {
-          "at": 1793163826,
-          "views": null,
-          "reactions": null,
-          "rank": 7,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "d4f59934fe4c",
-      "editorial": {
-        "title": "밤10시 “초1 아이 안 들어와”…5000세대 이웃들,월패드·자전거 사진으로 찾았다",
-        "category": "시사",
-        "url": "https://www.mt.co.kr/society/2026/10/28/2026102809401559010",
-        "source": "머니투데이 주민 사연 취재·공개 Threads",
-        "kind": "article",
-        "event_key": "apartment-neighbours-missing-child-pink-bicycle-found-20261026",
-        "why": "가족 단톡방에 보낼 구체적인 공동체 행동. 방송 한 번에 주민들이 집에서 CCTV를 확인하고 밖으로 나섰고,분홍 자전거 사진에 부모가 맞다고 답하며 끝난다.",
-        "angle": "26일22시경 발생,28일 주민 사연 취재로수색→발견의 과정 확인",
-        "why_now": "26일22시경 발생,28일 주민 사연 취재로수색→발견의 과정 확인 실제 사건일·최초 공개와 기사 시각을 구별해 이번 미발송 후보로 비교.",
-        "verified_at": 1793163529,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.mt.co.kr/society/2026/10/28/2026102809401559010",
-            "note": "본문에서26일 밤10시경 방송 뒤 주민들의 월패드 확인·단톡방 사진 공유·구역별 수색,분홍 자전거 단서와 발견 사진에 부모가 확인한 결과를 확인. 원글 사진 자체는 미관찰,주민 설명에 귀속."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.mt.co.kr/society/2026/10/28/2026102809401559010",
-            "label": "본문·발표·답변 확인",
-            "kind": "source"
-          }
-        ],
-        "caution": "5000세대 전원 참여 뜻 아님. 아이·주거지 식별정보 노출 금지. 납치 사건으로 쓰지 않음. 원사연 최초 게시시각 미상이나 사건26일22시 이후로현재48시간 안,기사28일을 사건일로 바꾸지 않음.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-26",
-          "observation": "본문에서26일 밤10시경 방송 뒤 주민들의 월패드 확인·단톡방 사진 공유·구역별 수색,분홍 자전거 단서와 발견 사진에 부모가 확인한 결과를 확인. 원글 사진 자체는 미관찰,주민 설명에 귀속.",
-          "checked_materials": [],
-          "outline": [
-            "초1 여아 미귀가 방송에 주민들이 창밖·월패드를 확인",
-            "분홍 자전거 단서를 공유하고 단지별로 직접 수색",
-            "한 주민이 올린 발견 사진에 부모가 맞다고 확인하며 마무리"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "본문·발표·답변 확인",
-            "url": "https://www.mt.co.kr/society/2026/10/28/2026102809401559010"
-          }
-        ],
-        "excerpt": "",
-        "context": "26일22시경 발생,28일 주민 사연 취재로수색→발견의 과정 확인 실제 사건일·최초 공개와 기사 시각을 구별해 이번 미발송 후보로 비교.",
-        "fetched_at": 1793163826,
-        "parser_revision": 7
-      },
-      "curation_event_key": "apartment-neighbours-missing-child-pink-bicycle-found-20261026"
-    },
-    "82e14a58114e": {
-      "source": "연합뉴스·아주대병원 직접 확인",
-      "title": "압수수색 뒤 아주대 소아응급9명 중7명 사직 의사…병원 “아직 그만둔 사람 없다”",
-      "link": "https://www.hankyung.com/article/202610289968Y",
-      "first_seen_at": 1793163826,
-      "last_seen_at": 1793163826,
-      "samples": [
-        {
-          "at": 1793163826,
-          "views": null,
-          "reactions": null,
-          "rank": 8,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "82e14a58114e",
-      "editorial": {
-        "title": "압수수색 뒤 아주대 소아응급9명 중7명 사직 의사…병원 “아직 그만둔 사람 없다”",
-        "category": "시사",
-        "url": "https://www.hankyung.com/article/202610289968Y",
-        "source": "연합뉴스·아주대병원 직접 확인",
-        "kind": "article",
-        "event_key": "ajou-pediatric-emergency-seven-doctors-intent-resign-confirmation-20261028",
-        "why": "아이 키우는 단톡방에 보낼 의료공백 우려와 사실 구분.9명 중7명이 그만두겠다고 했지만 아직 제출·수리는 안 됐다는 병원의 확인이 핵심이다.",
-        "angle": "27일 밤 사직 의사 공개 뒤28일 병원이9명 중7명·퇴사0명 확인",
-        "why_now": "27일 밤 사직 의사 공개 뒤28일 병원이9명 중7명·퇴사0명 확인 실제 사건일·최초 공개와 기사 시각을 구별해 이번 미발송 후보로 비교.",
-        "verified_at": 1793163564,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.hankyung.com/article/202610289968Y",
-            "note": "직접 병원 확인 본문에서전문의9명 중7명 사직 의사,아직 사직서 제출·수리·실제 퇴사 없음 확인. 의료계는 진료방해 주장,경찰은 사전협의·빈 진료실에서 최소범위 적법 집행 입장."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.hankyung.com/article/202610289968Y",
-            "label": "본문·발표·답변 확인",
-            "kind": "source"
-          }
-        ],
-        "caution": "이미 센터 폐쇄·진료 중단했다고 쓰지 않음. 환아 사망 원인·의료과실 확정 아님.27일 국감 말미 사직 의사 공개,28일 새 병원 확인. 사직 실행 여부는 미확정.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-28",
-          "observation": "직접 병원 확인 본문에서전문의9명 중7명 사직 의사,아직 사직서 제출·수리·실제 퇴사 없음 확인. 의료계는 진료방해 주장,경찰은 사전협의·빈 진료실에서 최소범위 적법 집행 입장.",
-          "checked_materials": [],
-          "outline": [
-            "압수수색 논쟁 뒤 사직 의사 밝힌 소아응급 전문의7명",
-            "병원이 전체9명 중7명이라 확인,아직 퇴사한 사람 없음",
-            "의료계 진료방해 주장과 경찰 적법 집행 해명을 함께 표시"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "본문·발표·답변 확인",
-            "url": "https://www.hankyung.com/article/202610289968Y"
-          }
-        ],
-        "excerpt": "",
-        "context": "27일 밤 사직 의사 공개 뒤28일 병원이9명 중7명·퇴사0명 확인 실제 사건일·최초 공개와 기사 시각을 구별해 이번 미발송 후보로 비교.",
-        "fetched_at": 1793163826,
-        "parser_revision": 7
-      },
-      "curation_event_key": "ajou-pediatric-emergency-seven-doctors-intent-resign-confirmation-20261028"
-    },
-    "5053ed39dd11": {
-      "source": "뉴시스·경찰청 국수본 발표",
-      "title": "의원이 차명업체 세워 군청과28건 계약…경찰,지역 유착비리 수사 확대",
-      "link": "https://www.newsis.com/view/NISX20261028_0003844549",
-      "first_seen_at": 1793163826,
-      "last_seen_at": 1793163826,
-      "samples": [
-        {
-          "at": 1793163826,
-          "views": null,
-          "reactions": null,
-          "rank": 9,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "5053ed39dd11",
-      "editorial": {
-        "title": "의원이 차명업체 세워 군청과28건 계약…경찰,지역 유착비리 수사 확대",
-        "category": "시사",
-        "url": "https://www.newsis.com/view/NISX20261028_0003844549",
-        "source": "뉴시스·경찰청 국수본 발표",
-        "kind": "article",
-        "event_key": "police-local-corruption-nominee-company-28-contracts-disclosure-20261028",
-        "why": "지역 사는 친구에게 보낼 세금의 모순. 예산을 감시할 의원이 차명 업체로 군청 계약을 따냈다는 구체 사례가 공직사회 유착 단속에서 공개됐다.",
-        "angle": "28일 단속결과 공개:차명업체 수의계약 사례·법조군경찰까지2차 확대",
-        "why_now": "28일 단속결과 공개:차명업체 수의계약 사례·법조군경찰까지2차 확대 실제 사건일·최초 공개와 기사 시각을 구별해 이번 미발송 후보로 비교.",
-        "verified_at": 1793163490,
-        "published_at": 1793159064,
-        "evidence": [
-          {
-            "url": "https://www.newsis.com/view/NISX20261028_0003844549",
-            "note": "본문에서기초의원이 차명 업체로군청과5800만원28건 수의계약 체결한 사건 확인. 별도 사례는 납품업체 선정 대가4억5000만원 리베이트20명 검거3명 구속. 경찰은11월부터대상을지역공직사회 전반으로 확대."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.newsis.com/view/NISX20261028_0003844549",
-            "label": "본문·발표·답변 확인",
-            "kind": "source"
-          }
-        ],
-        "caution": "검거·수사 내용이며 유죄 확정 아님. 개별 계약 체결일·이전 개별사건 공개 여부는 미공개,이번28일 종합결과의 구체사례로소개. 두 사건의 인물·금액을 합치지 않음.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-28",
-          "observation": "본문에서기초의원이 차명 업체로군청과5800만원28건 수의계약 체결한 사건 확인. 별도 사례는 납품업체 선정 대가4억5000만원 리베이트20명 검거3명 구속. 경찰은11월부터대상을지역공직사회 전반으로 확대.",
-          "checked_materials": [],
-          "outline": [
-            "예산 감시할 기초의원이 차명업체로군청과28건 수의계약",
-            "별도 리베이트 사건20명 검거·3명 구속은 다른 사건으로 구분",
-            "11월부터법조·군·경찰·교육까지단속확대,인사·계약 브로커도수사"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "본문·발표·답변 확인",
-            "url": "https://www.newsis.com/view/NISX20261028_0003844549"
-          }
-        ],
-        "excerpt": "",
-        "context": "28일 단속결과 공개:차명업체 수의계약 사례·법조군경찰까지2차 확대 실제 사건일·최초 공개와 기사 시각을 구별해 이번 미발송 후보로 비교.",
-        "fetched_at": 1793163826,
-        "parser_revision": 7
-      },
-      "curation_event_key": "police-local-corruption-nominee-company-28-contracts-disclosure-20261028"
-    },
-    "407a4fa266af": {
-      "source": "연합뉴스 현장 취재·선관위특검",
-      "title": "봉쇄됐던 올림픽공원 경기장 문 열렸다…247만장 투표지 공개검증",
-      "link": "https://www.yna.co.kr/view/AKR20261028046300004",
-      "first_seen_at": 1793163826,
-      "last_seen_at": 1793163826,
-      "samples": [
-        {
-          "at": 1793163826,
-          "views": null,
-          "reactions": null,
-          "rank": 10,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "407a4fa266af",
-      "editorial": {
-        "title": "봉쇄됐던 올림픽공원 경기장 문 열렸다…247만장 투표지 공개검증",
-        "category": "시사",
-        "url": "https://www.yna.co.kr/view/AKR20261028046300004",
-        "source": "연합뉴스 현장 취재·선관위특검",
-        "kind": "article",
-        "event_key": "election-paper-public-verification-stadium-entry-20261028",
-        "why": "정치 친구에게 보낼 소문에서 실물 검증으로의 전환. 막혀 있던 경기장에 특검과참관단이 들어갔고,핵심은 결과 단정이 아니라247만장 실물 확인이 시작됐다는 점이다.",
-        "angle": "28일 오전 경기장 진입·투표지 무결성 공개검증 착수",
-        "why_now": "28일 오전 경기장 진입·투표지 무결성 공개검증 착수 실제 사건일·최초 공개와 기사 시각을 구별해 이번 미발송 후보로 비교.",
-        "verified_at": 1793163470,
-        "published_at": 1793147190,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261028046300004",
-            "note": "본문에서경찰 진입로 확보 뒤8시28분 특검 진입,국회참관단·기자 순차입장과247만장 검증 계획 확인.투표지 증감·위조 여부·장비서류 오류 확인 목적이며선거법상 재검표와구별."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261028046300004",
-            "label": "본문·발표·답변 확인",
-            "kind": "source"
-          }
-        ],
-        "caution": "선거부정 입증·개표결과 변경으로쓰지 않음. 임의검증과선거법상재검표 구별. 본문 이후진행결과 미확인. 현장영상미시청.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-28",
-          "observation": "본문에서경찰 진입로 확보 뒤8시28분 특검 진입,국회참관단·기자 순차입장과247만장 검증 계획 확인.투표지 증감·위조 여부·장비서류 오류 확인 목적이며선거법상 재검표와구별.",
-          "checked_materials": [],
-          "outline": [
-            "텐트 철거·통로 확보 뒤잠겨 있던 경기장 문이 열렸다",
-            "특검·선관위직원·국회참관단·기자가 순차 입장",
-            "247만장 증감·무결성 확인은 시작,부정·정상 결론은 아직"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "본문·발표·답변 확인",
-            "url": "https://www.yna.co.kr/view/AKR20261028046300004"
-          }
-        ],
-        "excerpt": "",
-        "context": "28일 오전 경기장 진입·투표지 무결성 공개검증 착수 실제 사건일·최초 공개와 기사 시각을 구별해 이번 미발송 후보로 비교.",
-        "fetched_at": 1793163826,
-        "parser_revision": 7
-      },
-      "curation_event_key": "election-paper-public-verification-stadium-entry-20261028"
     }
   },
-  "updated_at": 1793765815
+  "updated_at": 1793770598
 }
