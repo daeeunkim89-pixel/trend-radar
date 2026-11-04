@@ -1,5 +1,5 @@
 {
-  "updated_at": 1793790532,
+  "updated_at": 1793794308,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026110411",
+    "hour_utc": "2026110412",
     "category_counts": {
       "시사": 3,
       "축구": 1,
       "메이저 스포츠": 1,
       "아이돌": 0
     },
-    "research_queries": 16,
+    "research_queries": 20,
     "opened_sources": 6,
     "picks": [
       {
-        "title": "웨스트햄, 파커 감독 선임 확정…승격 이끈 세 구단 경험에 맡긴다",
-        "url": "https://www.the42.ie/scott-parker-new-west-ham-captain-7214825-Nov2026/",
-        "event_key": "west-ham-scott-parker-appointed-two-half-year-contract-20261104"
+        "title": "폰세카, 시즌 중 리옹 떠나 스포르팅으로…구단은 ‘예상 못한 결정’",
+        "url": "https://www.channelnewsasia.com/sport/fonseca-leaves-lyon-become-sporting-coach-6523726",
+        "event_key": "lyon-fonseca-official-departure-sporting-5million-20261104"
       },
       {
-        "title": "욘 람 ‘켑카와 같은 제재라면 감수’…PGA 복귀 희망 드러냈다",
-        "url": "https://frontofficesports.com/article/jon-rahm-liv-golf-koepka-deal-return-pga-tour/",
-        "event_key": "jon-rahm-willing-koepka-style-penalties-pga-return-20261103"
+        "title": "CAS는 복귀 허용했지만 캐나다는 거부…러시아 주니어 하키팀 출전 차단",
+        "url": "https://www.investing.com/news/world-news/canada-will-not-let-russians-compete-at-ice-hockey-tournament-says-carney-4996856",
+        "event_key": "canada-carney-bars-russia-belarus-world-juniors-20261103"
       },
       {
-        "title": "트럼프 ‘이스라엘 연 40억달러 원조 연말 중단 합의’…집행 방식은 불명확",
-        "url": "https://ir.newspim.com/news/view/20261104000001",
-        "event_key": "trump-israel-four-billion-aid-year-end-stop-claim-20261103"
+        "title": "중앙일보에 5200억원 투입…다우키움·CJ·신세계 인수 계약 앞뒀다",
+        "url": "https://prod.biz.chosun.com/stock/stock_general/2026/11/04/RYSQUKYR2JGWDCNFOBQJANECGM/",
+        "event_key": "joongang-520billion-consortium-board-approval-20261104"
       },
       {
-        "title": "벤츠 배터리 제조사 허위 안내…차주 142명에 1인당 400만원 배상 조정",
-        "url": "https://www.yna.co.kr/view/AKR20261104112400030",
-        "event_key": "benz-farasis-battery-disclosure-142-owners-4million-compensation-public-20261104"
+        "title": "호반, 조원태 측 제치고 한진칼 최대주주…0.11%p 차이",
+        "url": "https://biz.chosun.com/industry/company/2026/11/04/LY2PPSEACJABFOXU7K3XNMXPXA/?outputType=amp",
+        "event_key": "hanjinkal-hoban-largest-shareholder-disclosure-20261104"
       },
       {
-        "title": "선관위 특검 ‘투표록 사후 위변조 정황’…중앙·서울 선관위 압수수색",
-        "url": "https://www.yna.co.kr/view/AKR20261104088452004",
-        "event_key": "election-special-counsel-voting-record-forgery-new-raid-20261104"
+        "title": "경찰, 강호동 농협중앙회장 구속영장 신청…1억원 뇌물 혐의",
+        "url": "https://web3.newspim.com/news/view/20261104001358",
+        "event_key": "nonghyup-chair-kang-ho-dong-police-arrest-warrant-20261103"
       }
     ]
   }
