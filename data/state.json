@@ -1,5 +1,5 @@
 {
-  "updated_at": 1793801118,
+  "updated_at": 1793833549,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026110414",
+    "hour_utc": "2026110423",
     "category_counts": {
       "시사": 1,
-      "축구": 1,
-      "메이저 스포츠": 3,
+      "축구": 2,
+      "메이저 스포츠": 2,
       "아이돌": 0
     },
-    "research_queries": 17,
-    "opened_sources": 6,
+    "research_queries": 23,
+    "opened_sources": 7,
     "picks": [
       {
-        "title": "삼성, 연장 12회 끝 KT 3대2 제압…한국시리즈 1승1패 원점",
-        "url": "https://www.osen.co.kr/article/G1112904273",
-        "event_key": "kbo-korean-series-game2-samsung-kt-3-2-12innings-20261104"
+        "title": "첫 챔스 시즌에 원정 9대1…파브레가스의 코모, 역대 최다 골 차 타이",
+        "url": "https://football-italia.net/ucl-rc-lens-1-9-como-douvikas-historic-victory/",
+        "event_key": "como-lens-9-1-ucl-record-eight-goal-away-win-20261104"
       },
       {
-        "title": "20년 지휘봉 내려놓는 슈미트…하이덴하임과 올 시즌 끝 결별",
-        "url": "https://www.fc-heidenheim.de/news/detail/eine-einzigartige-ara-endet-im-sommer-gemeinsam-das-letzte-kapitel-schreiben",
-        "event_key": "heidenheim-frank-schmidt-no-contract-renewal-leave-summer-2027-announcement-20261103"
+        "title": "두 번 앞서고도 2대3…리버풀, 페네르바체에 역전패하며 챔스 3연승 끝",
+        "url": "https://www.channelnewsasia.com/sport/valverde-rescues-real-liverpool-lose-fenerbahce-6525381",
+        "event_key": "fenerbahce-liverpool-3-2-two-leads-lost-ucl-first-defeat-20261104"
       },
       {
-        "title": "종료 2분39초 전 0대4→연장 5대4…위니펙, NHL 대역전",
-        "url": "https://www.sportsnet.ca/nhl/article/jets-stun-canadiens-with-five-late-goals-to-snap-nine-game-skid/",
-        "event_key": "winnipeg-montreal-four-goal-126seconds-overtime-comeback-20261103"
+        "title": "파리 체조 메달리스트 바르보수, 소재지 정보 의무 위반으로 2년 출전 정지",
+        "url": "https://gymnastics-now.com/ana-barbosu-suspended-two-years-for-whereabouts-violation/",
+        "event_key": "ana-barbosu-cas-two-year-whereabouts-sanction-decision-20261104"
       },
       {
-        "title": "우크라 반부패 수사, 정보기관·경찰·검찰 고위직으로 확대…사기 조직 비호 의혹",
-        "url": "https://d2233.cms.socastsrm.com/2026/11/04/ukraines-anti-graft-police-target-senior-officials-in-major-fraud-probe/",
-        "event_key": "ukraine-callcentre-sbu-police-prosecutors-bribe-probe-expanded-20261104"
+        "title": "오페타이아, 헤비급 올라 와일더와 붙는다…퓨리–조슈아 대회 대진 추가",
+        "url": "https://www.netflix.com/tudum/features/fury-joshua-full-fight-card-news-updates",
+        "event_key": "wilder-opetaia-heavyweight-fury-joshua-undercard-announced-20261104"
       },
       {
-        "title": "러시아 복귀 갈등, 후원사로 번졌다…스코다 ‘출전하면 후원 재검토’",
-        "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/11/04/ice-hockey-world-championship-main-sponsor-skoda-to-reassess-backing-if-russia-plays",
-        "event_key": "skoda-world-hockey-championship-sponsorship-reassessment-russia-statement-20261104"
+        "title": "美 민주 지도부 ‘관세 멈추고 이란전 끝내겠다’…선거 뒤 정책 대결 예고",
+        "url": "https://web3.newspim.com/news/view/20261105000024",
+        "event_key": "jeffries-schumer-post-midterms-iran-tariff-healthcare-agenda-20261104"
       }
     ]
   }
