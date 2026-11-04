@@ -1,228 +1,279 @@
 {
   "version": 2,
-  "hour_utc": "2026110412",
+  "hour_utc": "2026110413",
   "reviewer": "ChatGPT",
-  "generated_at": 1793794203,
+  "generated_at": 1793797807,
   "coverage": {
     "queries": [
-      "2026년 11월 4일 21시 스포츠 주요 뉴스",
-      "November 4 2026 sports major breaking official",
-      "2026년 11월 4일 중앙일보 다우 CJ 매각 5200억",
-      "2026년 11월 4일 한진칼 호반건설 최대주주",
-      "November 4 2026 Canada Russia Belarus world juniors entry ban Carney",
-      "November 4 2026 football confirmed major injury retirement ban",
-      "2026년 11월 4일 한국시리즈 2차전 결과",
-      "2026년 11월 4일 스포츠 은퇴 감독 선임 확정",
-      "2026년 11월 4일 올림픽 축구 예선 연기 AFC",
-      "November 4 2026 sports Reuters contract injury major news",
-      "2026년 11월 4일 농협중앙회장 구속영장 1억원",
-      "2026년 11월 4일 축구 징계 승부조작",
+      "2026년 11월 4일 22시 스포츠 주요 뉴스 확정",
+      "November 4 2026 Reuters sport latest injury appointed contract",
+      "2026년 11월 4일 속보 주요 뉴스 21시 22시",
+      "November 4 2026 football official suspension retirement injury",
+      "2026년 11월 4일 한국시리즈 2차전 삼성 KT 결과",
+      "Nadal Real Madrid board November 4 2026 official",
+      "site:realmadrid.com \"Nadal\" \"04-11-2026\" comunicado",
+      "Rovanpera returns WRC Toyota November 3 2026 official",
+      "US Olympic committee outside investors commercial venture November 3 2026 Reuters",
+      "2026년 11월 4일 한국시리즈 2차전 승리 21시",
+      "Ligue 1 launches 2027 2032 rights tender November 3 2026 official LFP",
+      "2026년 11월 4일 한국시리즈 2차전 끝내기",
+      "November 4 2026 Reuters Trump Xi trade Iran major latest",
+      "November 3 2026 Glenn Maxwell international retirement official cricket Australia",
+      "\"조작기소\" \"21:10\" \"2026-11-04\" 법사위",
+      "\"US Committee seeks outside investors\" \"2026\" November 3",
+      "\"US Committee seeks outside investors for new commercial venture\" site:channelnewsasia.com/sport",
+      "\"조작기소 특검법안\" \"법사위\" \"2026-11-04 21\" 연합뉴스 종합",
+      "2026년 11월 4일 한국시리즈 2차전 승리 연장 10회",
+      "2026년 11월 4일 FC서울 비엣텔 결과 ACL",
       "2026년 11월 4일 포항 감바 오사카 결과",
-      "2026년 11월 4일 FC서울 비엣텔 결과",
-      "November 4 2026 football Reuters news \"said\"",
-      "2026년 11월 4일 주요 스포츠 확정 발표 계약",
-      "Paulo Fonseca Sporting November 4 2026 official Lyon",
-      "Infantino Maduro ineligible November 4 2026 FIFA Reuters",
-      "\"Fonseca leaves Lyon\" \"2026\" November 4",
-      "\"Infantino\" \"November 3, 2026\" FairSquare FIFA 2022"
+      "2026년 11월 4일 대형 뉴스 21시 22시 속보",
+      "\"포항\" \"감바\" \"2026.11.04\" \"첫 승점\"",
+      "\"포항\" \"김광원\" \"2026-11-04\" 3-3"
     ],
     "opened_urls": [
-      "https://www.channelnewsasia.com/sport/fonseca-leaves-lyon-become-sporting-coach-6523726",
-      "https://www.investing.com/news/world-news/canada-will-not-let-russians-compete-at-ice-hockey-tournament-says-carney-4996856",
-      "https://prod.biz.chosun.com/stock/stock_general/2026/11/04/RYSQUKYR2JGWDCNFOBQJANECGM/",
-      "https://biz.chosun.com/industry/company/2026/11/04/LY2PPSEACJABFOXU7K3XNMXPXA/?outputType=amp",
-      "https://web3.newspim.com/news/view/20261104001358",
-      "https://theannapurnaexpress.com/story/68499/"
+      "https://www.realmadrid.com/en-US/news/club/announcements/comunicado-oficial-rafael-nadal-04-11-2026",
+      "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017723",
+      "https://toyotagazooracing.com/pressrelease/2026/1103-01/",
+      "https://www.channelnewsasia.com/sport/us-committee-seeks-outside-investors-new-commercial-venture-6517641",
+      "https://www.yna.co.kr/view/AKR20261104171000001",
+      "https://www.lfp.fr/article/lfp-launches-call-for-bids-for-ligue-1-audiovisual-rights-for-the-2027-2032-period",
+      "https://www.yna.co.kr/view/AKR20261104179200007",
+      "https://www.hani.co.kr/arti/politics/assembly/1285845.html"
     ],
     "unavailable": [
-      "Reuters 직접 열람 실패: 접근 가능한 CNA·Investing.com 전재 본문으로 확인",
-      "중앙일보 직접 열람 실패: 공시를 인용한 조선비즈 본문으로 확인",
-      "FIFA 후보: 새 기사와 달리 회원국 서신은 10월30일이라 48시간 초과로 제외"
+      "웹 열람 도구 오류: 나달·법사위·포항 기사는 공개 원문 HTTP 본문으로 확인",
+      "WIKY Reuters 전재 403: CNA 전재 본문으로 대체",
+      "맥스웰 은퇴는 ICC 원문 날짜 11월2일·후속 기사 3일이 엇갈려 선정 제외"
     ]
   },
   "picks": [
     {
-      "title": "폰세카, 시즌 중 리옹 떠나 스포르팅으로…구단은 ‘예상 못한 결정’",
+      "title": "나달, 레알 마드리드 이사회 합류 추진…구단이 총회 추인 안건 올렸다",
       "category": "축구",
-      "url": "https://www.channelnewsasia.com/sport/fonseca-leaves-lyon-become-sporting-coach-6523726",
+      "url": "https://www.realmadrid.com/en-US/news/club/announcements/comunicado-oficial-rafael-nadal-04-11-2026",
+      "source": "레알 마드리드 공식",
+      "kind": "official",
+      "event_key": "real-madrid-nadal-board-appointment-ratification-proposal-20261104",
+      "why": "테니스 전설이 세계적 축구 구단 운영에 참여하는 이사회 제안이 공식화됐다.",
+      "angle": "코트 떠난 나달, 이제 레알 이사회로",
+      "why_now": "11월4일 이사회 결정. 공식 페이지 datePublished는 10:34 UTC(19:34 KST), 수정은 11:34 UTC로 구분했다. 총회 추인은 아직 남았다.",
+      "verified_at": 1793797589,
+      "published_at": 1793788440,
+      "evidence": [
+        {
+          "url": "https://www.realmadrid.com/en-US/news/club/announcements/comunicado-oficial-rafael-nadal-04-11-2026",
+          "note": "구단 성명에서 나달을 새 이사로 임명하는 안건을 대의원 총회 추인에 부치기로 한 11월4일 이사회 결정을 확인했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.realmadrid.com/en-US/news/club/announcements/comunicado-oficial-rafael-nadal-04-11-2026",
+          "label": "공식 발표 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "총회 추인 전이다. 회장 취임·차기 회장 확정으로 쓰지 않는다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-04",
+        "observation": "구단 성명에서 나달을 새 이사로 임명하는 안건을 대의원 총회 추인에 부치기로 한 11월4일 이사회 결정을 확인했다.",
+        "checked_materials": [],
+        "outline": [
+          "코트 떠난 나달, 이제 레알 이사회로",
+          "총회 추인 전이다. 회장 취임·차기 회장 확정으로 쓰지 않는다."
+        ]
+      }
+    },
+    {
+      "title": "세 번 따라붙은 포항, 감바와 3대3…ACLE 3연패 뒤 첫 승점",
+      "category": "축구",
+      "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017723",
+      "source": "스포티비뉴스",
+      "kind": "article",
+      "event_key": "pohang-gamba-three-comebacks-first-acle-point-20261104",
+      "why": "아시아 최상위 대회 3연패 팀이 세 차례 열세를 되돌려 4연패를 막았다.",
+      "angle": "0대1·1대2·2대3을 모두 따라잡은 포항",
+      "why_now": "경기 11월4일 19:00 KST 시작. 현장 기사 최초 20:51 KST. 연합뉴스 20:54 전적과 최종 3대3·김광원 막판 동점골을 교차 확인했다.",
+      "verified_at": 1793797730,
+      "published_at": null,
+      "evidence": [
+        {
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017723",
+          "note": "현장 기사에서 완델손·조르지·김광원의 세 차례 동점골과 올 시즌 ACLE 첫 승점을 확인했다. 연합뉴스 전적에서도 3대3과 득점자를 확인했다."
+        },
+        {
+          "url": "https://www.yna.co.kr/view/AKR20261104179200007",
+          "note": "전적 기사에서 최종 3대3, 포항 득점 완델손·조르지·김광원을 교차 확인."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017723",
+          "label": "확인한 기사 본문",
+          "kind": "source"
+        }
+      ],
+      "caution": "기사·전적 검증이며 영상 시청 아님. 승리·토너먼트 진출 확정으로 표현하지 않는다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-04",
+        "observation": "현장 기사에서 완델손·조르지·김광원의 세 차례 동점골과 올 시즌 ACLE 첫 승점을 확인했다. 연합뉴스 전적에서도 3대3과 득점자를 확인했다.",
+        "checked_materials": [],
+        "outline": [
+          "0대1·1대2·2대3을 모두 따라잡은 포항",
+          "기사·전적 검증이며 영상 시청 아님. 승리·토너먼트 진출 확정으로 표현하지 않는다."
+        ]
+      }
+    },
+    {
+      "title": "토요타, WRC 두 팀·두 차종 체제로…로반페레·타낙 복귀 확정",
+      "category": "메이저 스포츠",
+      "url": "https://toyotagazooracing.com/pressrelease/2026/1103-01/",
+      "source": "TOYOTA GAZOO Racing",
+      "kind": "official",
+      "event_key": "toyota-two-teams-celica-yaris-rovanpera-tanak-wrc-2027-announced-20261103",
+      "why": "세계 챔피언들의 복귀와 최강 제조사의 두 팀 개편이 새 규정 시즌 판도를 바꾼다.",
+      "angle": "챔피언 둘이 돌아온다…토요타는 셀리카·야리스 두 팀",
+      "why_now": "공식 발표 11월3일(날짜 정밀도, 최초 분 단위 시각 미공개). 2027년 두 팀·두 차종과 복귀 명단 발표이며 실제 레이스 복귀는 내년이다.",
+      "verified_at": 1793797591,
+      "published_at": null,
+      "evidence": [
+        {
+          "url": "https://toyotagazooracing.com/pressrelease/2026/1103-01/",
+          "note": "팀 공식 보도자료에서 GR Celica Rally1·GR Yaris Rally1 두 차종의 두 팀, 타낙 복귀, 로반페레의 일부 라운드 출전을 확인했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://toyotagazooracing.com/pressrelease/2026/1103-01/",
+          "label": "공식 발표 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "로반페레는 풀시즌 아닌 일부 대회 출전이다. 신차 상세 사양은 추가 공개 예정.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-03",
+        "observation": "팀 공식 보도자료에서 GR Celica Rally1·GR Yaris Rally1 두 차종의 두 팀, 타낙 복귀, 로반페레의 일부 라운드 출전을 확인했다.",
+        "checked_materials": [],
+        "outline": [
+          "챔피언 둘이 돌아온다…토요타는 셀리카·야리스 두 팀",
+          "로반페레는 풀시즌 아닌 일부 대회 출전이다. 신차 상세 사양은 추가 공개 예정."
+        ]
+      }
+    },
+    {
+      "title": "美 올림픽위원회, 상업법인 외부 투자 추진…LA28 이후 수익 구조 바꾼다",
+      "category": "메이저 스포츠",
+      "url": "https://www.channelnewsasia.com/sport/us-committee-seeks-outside-investors-new-commercial-venture-6517641",
       "source": "Reuters/CNA",
       "kind": "article",
-      "event_key": "lyon-fonseca-official-departure-sporting-5million-20261104",
-      "why": "리그 3위 팀의 감독이 시즌 중 이동하고 리옹이 공개적으로 유감을 표했다.",
-      "angle": "리옹의 ‘예상 못한 결정’ 성명과 500만유로 보상금",
-      "why_now": "리옹 발표 11월4일. CNA 기사 11월4일 18:33 표기(사이트 시간대 명시 없음); 발표 최초 분 단위 시각 미확인. 11월2일 이적설과 구별한 공식 이탈 확인이다.",
-      "verified_at": 1793794280,
+      "event_key": "usopc-usopv-commercial-venture-outside-investment-plan-20261103",
+      "why": "올림픽 선수 지원 재원과 국가위원회의 상업권 운영 구조에 민간 자본이 들어올 수 있다.",
+      "angle": "미국 올림픽 상업권에도 외부 자본 진입 추진",
+      "why_now": "새 Reuters 보도 11월3일 16:41 UTC(4일 01:41 KST). 계획은 수개월 전부터 논의. 신규 취재의 투자 추진·CEO 설명을 검토했으며 법인 설립·매각 완료 보도는 아니다.",
+      "verified_at": 1793797647,
       "published_at": null,
       "evidence": [
         {
-          "url": "https://www.channelnewsasia.com/sport/fonseca-leaves-lyon-become-sporting-coach-6523726",
-          "note": "CNA의 Reuters 본문에서 리옹 발표에 따른 감독 이탈, 스포르팅의 500만유로 지급, 마시엘 임시 지휘를 확인했다."
+          "url": "https://www.channelnewsasia.com/sport/us-committee-seeks-outside-investors-new-commercial-venture-6517641",
+          "note": "Reuters 전재 본문에서 소식통 2명의 지분 매각 추진 설명, USOPV 관련 회의록, CEO의 LA28 이후 전환 설명, 위원회의 상업적 선택지 검토 성명을 확인했다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.channelnewsasia.com/sport/fonseca-leaves-lyon-become-sporting-coach-6523726",
+          "url": "https://www.channelnewsasia.com/sport/us-committee-seeks-outside-investors-new-commercial-venture-6517641",
           "label": "확인한 기사 본문",
           "kind": "source"
         }
       ],
-      "caution": "구단 성명은 기사 인용으로 확인. 스포르팅 계약 원문·기간은 미확인. 영상 시청 아님.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-04",
-        "observation": "CNA의 Reuters 본문에서 리옹 발표에 따른 감독 이탈, 스포르팅의 500만유로 지급, 마시엘 임시 지휘를 확인했다.",
-        "checked_materials": [],
-        "outline": [
-          "리옹의 ‘예상 못한 결정’ 성명과 500만유로 보상금",
-          "구단 성명은 기사 인용으로 확인. 스포르팅 계약 원문·기간은 미확인. 영상 시청 아님."
-        ]
-      }
-    },
-    {
-      "title": "CAS는 복귀 허용했지만 캐나다는 거부…러시아 주니어 하키팀 출전 차단",
-      "category": "메이저 스포츠",
-      "url": "https://www.investing.com/news/world-news/canada-will-not-let-russians-compete-at-ice-hockey-tournament-says-carney-4996856",
-      "source": "Reuters/Investing.com",
-      "kind": "article",
-      "event_key": "canada-carney-bars-russia-belarus-world-juniors-20261103",
-      "why": "복귀 판정과 개최국 입국 방침이 충돌해 세계대회 참가 자체가 막힌다.",
-      "angle": "‘복귀 판정’ 뒤 개최국의 ‘대표팀은 못 온다’",
-      "why_now": "카니 발언은 현지 11월3일. 기사 최초 11월3일 17:49 표기(사이트 시간대 불명); 22:18은 갱신 시각. 발언 최초 공개 분 단위 시각 미확인.",
-      "verified_at": 1793794200,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://www.investing.com/news/world-news/canada-will-not-let-russians-compete-at-ice-hockey-tournament-says-carney-4996856",
-          "note": "Reuters 본문에서 카니의 안티과 회견 발언, 러시아·벨라루스 국가대표의 캐나다 대회 불허 방침과 CAS 복귀 판정의 충돌을 확인했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.investing.com/news/world-news/canada-will-not-let-russians-compete-at-ice-hockey-tournament-says-carney-4996856",
-          "label": "확인한 기사 본문",
-          "kind": "source"
-        }
-      ],
-      "caution": "국가대표 출전 방침이다. 모든 러시아 개인 선수 입국 금지나 CAS 판정 취소로 쓰지 않는다.",
+      "caution": "투자자·가격·거래 확정 아님. 익명 취재와 기관 성명을 구분하고 CEO도 세부 구조는 진행 중이라 밝혔다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-03",
-        "observation": "Reuters 본문에서 카니의 안티과 회견 발언, 러시아·벨라루스 국가대표의 캐나다 대회 불허 방침과 CAS 복귀 판정의 충돌을 확인했다.",
+        "observation": "Reuters 전재 본문에서 소식통 2명의 지분 매각 추진 설명, USOPV 관련 회의록, CEO의 LA28 이후 전환 설명, 위원회의 상업적 선택지 검토 성명을 확인했다.",
         "checked_materials": [],
         "outline": [
-          "‘복귀 판정’ 뒤 개최국의 ‘대표팀은 못 온다’",
-          "국가대표 출전 방침이다. 모든 러시아 개인 선수 입국 금지나 CAS 판정 취소로 쓰지 않는다."
+          "미국 올림픽 상업권에도 외부 자본 진입 추진",
+          "투자자·가격·거래 확정 아님. 익명 취재와 기관 성명을 구분하고 CEO도 세부 구조는 진행 중이라 밝혔다."
         ]
       }
     },
     {
-      "title": "중앙일보에 5200억원 투입…다우키움·CJ·신세계 인수 계약 앞뒀다",
+      "title": "‘조작기소 특검법’ 소위 이어 법사위 전체회의 통과…본회의 처리 추진",
       "category": "시사",
-      "url": "https://prod.biz.chosun.com/stock/stock_general/2026/11/04/RYSQUKYR2JGWDCNFOBQJANECGM/",
-      "source": "조선비즈",
+      "url": "https://www.yna.co.kr/view/AKR20261104171000001",
+      "source": "연합뉴스·한겨레",
       "kind": "article",
-      "event_key": "joongang-520billion-consortium-board-approval-20261104",
-      "why": "주요 신문의 소유 구조가 바뀌고 기존 대주주 지분이 4%대로 희석되는 거래다.",
-      "angle": "5200억원 신주 투자로 바뀌는 중앙일보 소유 구조",
-      "why_now": "이사회 결정·공시 11월4일. 확인 기사 최초 17:53 KST, 18:20 갱신. 최초 공시 분 단위 시각 미확인. 11월5일 계약·12월23일 종결은 예정이다.",
-      "verified_at": 1793794200,
+      "event_key": "fabricated-prosecution-special-counsel-bill-full-committee-passed-20261104",
+      "why": "대통령 관련 수사와 특검 제도를 둘러싼 법안이 상임위 관문을 넘어 본회의 쟁점이 됐다.",
+      "angle": "소위 통과 뒤 새 단계…법사위 전체회의도 의결",
+      "why_now": "11월4일 밤 전체회의 의결이 새 사실. 연합뉴스 최초 21:10 KST. 앞서 발송한 17시대 소위 통과와 구분한다. 한겨레 본문은 21:24 수정 표기이며 최초 공개로 쓰지 않았다.",
+      "verified_at": 1793797644,
       "published_at": null,
       "evidence": [
         {
-          "url": "https://prod.biz.chosun.com/stock/stock_general/2026/11/04/RYSQUKYR2JGWDCNFOBQJANECGM/",
-          "note": "본문에서 다우기술 1900억원·사람인 714억원 신주 취득 결정, 전체 5200억원 투자, 기존 지분 희석 및 거래 선행조건을 확인했다."
+          "url": "https://www.yna.co.kr/view/AKR20261104171000001",
+          "note": "연합뉴스 속보와 한겨레 본문에서 이날 밤 전체회의 의결, 국민의힘 표결 불참·퇴장, 이르면 5일 본회의 처리 추진을 확인했다."
+        },
+        {
+          "url": "https://www.hani.co.kr/arti/politics/assembly/1285845.html",
+          "note": "전체회의 의결·야당 표결 불참·본회의 추진을 본문 확인. 공소취소 권한 삭제는 앞선 소위 단계부터 알려진 내용으로 새 사실과 구분."
         }
       ],
       "materials": [
         {
-          "url": "https://prod.biz.chosun.com/stock/stock_general/2026/11/04/RYSQUKYR2JGWDCNFOBQJANECGM/",
+          "url": "https://www.yna.co.kr/view/AKR20261104171000001",
           "label": "확인한 기사 본문",
           "kind": "source"
         }
       ],
-      "caution": "인수 완료가 아니다. 계약·거래 종결은 예정이며 기업결합 승인·법원 인가 등 선행조건이 남았다.",
+      "caution": "법률 제정·본회의 통과가 아니다. ‘조작기소’는 법안 명칭·수사 대상 의혹이며 사실 확정이 아니다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-04",
-        "observation": "본문에서 다우기술 1900억원·사람인 714억원 신주 취득 결정, 전체 5200억원 투자, 기존 지분 희석 및 거래 선행조건을 확인했다.",
+        "observation": "연합뉴스 속보와 한겨레 본문에서 이날 밤 전체회의 의결, 국민의힘 표결 불참·퇴장, 이르면 5일 본회의 처리 추진을 확인했다.",
         "checked_materials": [],
         "outline": [
-          "5200억원 신주 투자로 바뀌는 중앙일보 소유 구조",
-          "인수 완료가 아니다. 계약·거래 종결은 예정이며 기업결합 승인·법원 인가 등 선행조건이 남았다."
+          "소위 통과 뒤 새 단계…법사위 전체회의도 의결",
+          "법률 제정·본회의 통과가 아니다. ‘조작기소’는 법안 명칭·수사 대상 의혹이며 사실 확정이 아니다."
         ]
       }
     },
     {
-      "title": "호반, 조원태 측 제치고 한진칼 최대주주…0.11%p 차이",
-      "category": "시사",
-      "url": "https://biz.chosun.com/industry/company/2026/11/04/LY2PPSEACJABFOXU7K3XNMXPXA/?outputType=amp",
-      "source": "조선비즈",
-      "kind": "article",
-      "event_key": "hanjinkal-hoban-largest-shareholder-disclosure-20261104",
-      "why": "대한항공 그룹 지주사의 최대주주가 바뀌었고 조원태 측은 추가 매입으로 대응한다.",
-      "angle": "20.69% 대 20.58%…최대주주 바뀐 한진칼",
-      "why_now": "한진칼 변경 공시 11월4일. 기사 최초 18:25 KST, 본문 갱신 21:07. 11월2일 호반 주장과 구별한 이날 공시 확인. 공시 최초 분 단위 시각 미확인.",
-      "verified_at": 1793794200,
+      "title": "리그1, 5년 중계권 통매각 입찰…전 경기 권리·자체 OTT 독점 유통 두 안",
+      "category": "축구",
+      "url": "https://www.lfp.fr/article/lfp-launches-call-for-bids-for-ligue-1-audiovisual-rights-for-the-2027-2032-period",
+      "source": "프랑스프로축구연맹 LFP",
+      "kind": "official",
+      "event_key": "lfp-ligue1-domestic-rights-tender-2027-2032-open-20261103",
+      "why": "리그 전체의 5시즌 중계 수익과 시청 접근성을 정할 사업 모델 선택이 시작됐다.",
+      "angle": "프랑스 리그1 전 경기, 한 묶음으로 입찰한다",
+      "why_now": "LFP 공식 발표·입찰 개시 11월3일(날짜 정밀도, 최초 분 단위 시각 미공개). 12월3일 마감. 2027/28~2031/32 국내 중계권 대상이다.",
+      "verified_at": 1793797645,
       "published_at": null,
       "evidence": [
         {
-          "url": "https://biz.chosun.com/industry/company/2026/11/04/LY2PPSEACJABFOXU7K3XNMXPXA/?outputType=amp",
-          "note": "본문에서 한진칼 최대주주가 호반건설 외 3인으로 변경된 공시, 지분 20.69% 대 20.58%, 조원태 측 32만5000주 추가 매입 계획을 확인했다."
+          "url": "https://www.lfp.fr/article/lfp-launches-call-for-bids-for-ligue-1-audiovisual-rights-for-the-2027-2032-period",
+          "note": "LFP 원문에서 전 경기 단일 패키지, 방송권 인수 또는 Ligue1+ 독점 유통의 두 구성, 11월3일~12월3일 입찰 기간을 확인했다."
         }
       ],
       "materials": [
         {
-          "url": "https://biz.chosun.com/industry/company/2026/11/04/LY2PPSEACJABFOXU7K3XNMXPXA/?outputType=amp",
-          "label": "확인한 기사 본문",
+          "url": "https://www.lfp.fr/article/lfp-launches-call-for-bids-for-ligue-1-audiovisual-rights-for-the-2027-2032-period",
+          "label": "공식 발표 원문",
           "kind": "source"
         }
       ],
-      "caution": "최대주주 변경이 경영권 인수 완료를 뜻하지 않는다. 조원태 측 12월 초 매입은 계획이다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-04",
-        "observation": "본문에서 한진칼 최대주주가 호반건설 외 3인으로 변경된 공시, 지분 20.69% 대 20.58%, 조원태 측 32만5000주 추가 매입 계획을 확인했다.",
-        "checked_materials": [],
-        "outline": [
-          "20.69% 대 20.58%…최대주주 바뀐 한진칼",
-          "최대주주 변경이 경영권 인수 완료를 뜻하지 않는다. 조원태 측 12월 초 매입은 계획이다."
-        ]
-      }
-    },
-    {
-      "title": "경찰, 강호동 농협중앙회장 구속영장 신청…1억원 뇌물 혐의",
-      "category": "시사",
-      "url": "https://web3.newspim.com/news/view/20261104001358",
-      "source": "뉴스핌",
-      "kind": "article",
-      "event_key": "nonghyup-chair-kang-ho-dong-police-arrest-warrant-20261103",
-      "why": "농협중앙회장의 거래업체 금품 수수 의혹 수사가 신병 확보 절차로 확대됐다.",
-      "angle": "회장 선거 전후 1억원 의혹…경찰이 영장 신청",
-      "why_now": "경찰 신청일은 11월3일(본문 ‘전날’). 확인 기사 최초 11월4일 19:12 KST. 신청 사실 최초 공개 분 단위 시각 미확인. AI 요약의 4일 신청 표기는 채택하지 않았다.",
-      "verified_at": 1793794200,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://web3.newspim.com/news/view/20261104001358",
-          "note": "기사 본문에서 경찰의 전날 영장 신청, 회장 선거 전후 업체 대표에게 두 차례 1억원을 받았다는 혐의, 법원 청구 전 상태를 확인했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://web3.newspim.com/news/view/20261104001358",
-          "label": "확인한 기사 본문",
-          "kind": "source"
-        }
-      ],
-      "caution": "혐의 단계로 유죄 확정 아님. 경찰 신청이며 법원 영장 발부·구속 완료로 쓰지 않는다.",
+      "caution": "프랑스 국내 중계권 입찰이다. 낙찰·판매 금액 확정이나 한국 중계권 변경으로 쓰지 않는다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-03",
-        "observation": "기사 본문에서 경찰의 전날 영장 신청, 회장 선거 전후 업체 대표에게 두 차례 1억원을 받았다는 혐의, 법원 청구 전 상태를 확인했다.",
+        "observation": "LFP 원문에서 전 경기 단일 패키지, 방송권 인수 또는 Ligue1+ 독점 유통의 두 구성, 11월3일~12월3일 입찰 기간을 확인했다.",
         "checked_materials": [],
         "outline": [
-          "회장 선거 전후 1억원 의혹…경찰이 영장 신청",
-          "혐의 단계로 유죄 확정 아님. 경찰 신청이며 법원 영장 발부·구속 완료로 쓰지 않는다."
+          "프랑스 리그1 전 경기, 한 묶음으로 입찰한다",
+          "프랑스 국내 중계권 입찰이다. 낙찰·판매 금액 확정이나 한국 중계권 변경으로 쓰지 않는다."
         ]
       }
     }
