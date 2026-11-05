@@ -1,5 +1,5 @@
 {
-  "updated_at": 1793855417,
+  "updated_at": 1793862412,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026110505",
+    "hour_utc": "2026110507",
     "category_counts": {
-      "시사": 2,
-      "축구": 1,
+      "시사": 3,
+      "축구": 0,
       "메이저 스포츠": 2,
       "아이돌": 0
     },
-    "research_queries": 28,
-    "opened_sources": 6,
+    "research_queries": 20,
+    "opened_sources": 8,
     "picks": [
       {
-        "title": "리버풀 구단주 FSG, 캐딜락 F1 지분 인수 협상 보도",
-        "url": "https://www.thisisanfield.com/2026/11/liverpool-owners-fsg-f1-team-for-over-2bn/",
-        "event_key": "fsg-cadillac-f1-majority-stake-talks-reported-20261104"
+        "title": "LIV 호주 대회도 흔들…주총리 “내년 쿠용가 개최 어려워 보인다”",
+        "url": "https://www.channelnewsasia.com/sport/game-set-and-match-australia-casts-doubt-liv-return-amid-financial-uncertainty-6526256",
+        "event_key": "south-australia-premier-liv-kooyonga-2027-event-doubt-20261105"
       },
       {
-        "title": "윌리엄스 첫 F1 챔피언 앨런 존스 별세…향년 80세",
-        "url": "https://www.channelnewsasia.com/sport/australian-f1-world-champion-alan-jones-dies-aged-80-6526221",
-        "event_key": "alan-jones-death-family-statement-20261105"
+        "title": "자기 경기 전 ATP 파이널스행 확정…필스, 프랑스 선수로 10년 만",
+        "url": "https://www.channelnewsasia.com/sport/frenchman-fils-reaches-atp-finals-first-time-6524431",
+        "event_key": "arthur-fils-first-atp-finals-qualification-halys-tiafoe-20261104"
       },
       {
-        "title": "페네르바체, 리버풀전 직전 엠레 감독 선임…18개월 계약 보도",
-        "url": "https://www.thisisanfield.com/2026/11/fenerbahce-appoint-new-manager-emre-belozoglu/",
-        "event_key": "fenerbahce-emre-belozoglu-head-coach-appointed-20261103"
+        "title": "‘조작기소 특검법’ 본회의 상정…국힘, 무제한 토론 돌입",
+        "url": "https://www.newsis.com/view/NISX20261105_0003856223",
+        "event_key": "fabricated-prosecution-bill-plenary-tabled-filibuster-started-20261105"
       },
       {
-        "title": "금융권 37개사 정보유출 47만3000건…580개사 전수점검",
-        "url": "https://www.newsis.com/view/NISX20261105_0003855515",
-        "event_key": "financial-cyber-incidents-37-firms-473000-records-580-audit-20261105"
+        "title": "정부 정보공개포털서 주민번호·암 진단 정보 노출…원문 다운로드 중단",
+        "url": "https://www.newspim.com/news/view/20261105001114",
+        "event_key": "government-open-portal-sensitive-data-exposure-download-suspension-20261105"
       },
       {
-        "title": "밴스 “이란전이 패인”…중간선거 참패 뒤 전쟁 옹호와 거리두기",
-        "url": "https://www.wdbo.com/news/politics/vance-tries-distance/GW5W5XULY4YT3BBUUIMH7SAZI4/",
-        "event_key": "vance-post-midterms-iran-war-blame-public-post-20261104"
+        "title": "공화당서도 헤그세스 탄핵 표결 추진…국방장관에 전쟁 책임론",
+        "url": "https://www.newsis.com/view/NISX20261105_0003855824",
+        "event_key": "massie-hegseth-impeachment-vote-plan-post-midterms-20261104"
       }
     ]
   }
