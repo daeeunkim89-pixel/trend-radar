@@ -3,10 +3,10 @@
   "items": {
     "9d8692c2787e": {
       "source": "연합뉴스",
-      "title": "“직무상 비밀”만으론 정보 비공개 못 하게…정보공개법 개정안 예고",
+      "title": "“직무상 비밀”만으론 비공개 못 한다…정보공개법 개정 추진",
       "link": "https://www.yna.co.kr/amp/view/AKR20261105081100530",
       "first_seen_at": 1793862411,
-      "last_seen_at": 1793869774,
+      "last_seen_at": 1793873485,
       "samples": [
         {
           "at": 1793862411,
@@ -21,45 +21,52 @@
           "reactions": null,
           "rank": 6,
           "rank_kind": null
+        },
+        {
+          "at": 1793873485,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
         }
       ],
       "parser_revision": 7,
       "content_kind": "article",
       "story_id": "9d8692c2787e",
       "editorial": {
-        "title": "“직무상 비밀”만으론 정보 비공개 못 하게…정보공개법 개정안 예고",
+        "title": "“직무상 비밀”만으론 비공개 못 한다…정보공개법 개정 추진",
         "category": "시사",
         "url": "https://www.yna.co.kr/amp/view/AKR20261105081100530",
         "source": "연합뉴스",
         "kind": "article",
         "event_key": "information-disclosure-law-nondisclosure-grounds-bill-announced-20261105",
-        "why": "공공기관의 정보 거부 사유와 시민 이의신청 절차를 바꾸는 전국적 개편안이다.",
-        "angle": "비공개 기준 구체화→부존재 결정 이의신청 확대",
-        "why_now": "5일 발표, 기사 최초12:00:02 KST. 입법예고6일~12월16일. 전 회차 예비였고 실제 미발송이다.",
-        "verified_at": 1793869420,
+        "why": "공공기관의 비공개 관행과 국민의 이의신청 권리를 함께 바꾸는 전국 단위 제도안이다.",
+        "angle": "막연한 비밀 사유 제한 → 이의신청 확대",
+        "why_now": "4일 설명회 뒤 5일 행안부 발표를 기사에서 확인. 6일~12월 16일 입법예고 계획이며 원문은 5일 12:00:02 KST 게시.",
+        "verified_at": 1793873250,
         "published_at": 1793847602,
         "evidence": [
           {
             "url": "https://www.yna.co.kr/amp/view/AKR20261105081100530",
-            "note": "본문에서 일반 비밀엄수 의무만으로 비공개할 수 없도록 명확히 하는 개정안 발표를 확인했다."
+            "note": "일반적 비밀엄수 의무만으로 비공개할 수 없도록 하고 정보 부존재 결정에도 이의신청을 허용하는 개정안이다."
           }
         ],
         "materials": [
           {
             "url": "https://www.yna.co.kr/amp/view/AKR20261105081100530",
-            "label": "확인한 기사 본문",
+            "label": "확인한 원문",
             "kind": "source"
           }
         ],
-        "caution": "입법예고안이며 시행 완료가 아니다. 포털 노출 사고와 별개 발표다.",
+        "caution": "개정안 발표 단계이며 시행 확정이 아니다. 반복·악성 청구 제한에도 의견 제출·심의 절차를 둔다.",
         "readiness": {
           "mode": "major_news",
           "event_date": "2026-11-05",
-          "observation": "본문에서 일반 비밀엄수 의무만으로 비공개할 수 없도록 명확히 하는 개정안 발표를 확인했다.",
+          "observation": "일반적 비밀엄수 의무만으로 비공개할 수 없도록 하고 정보 부존재 결정에도 이의신청을 허용하는 개정안이다.",
           "checked_materials": [],
           "outline": [
-            "비공개 판단 기준 개정안 제시",
-            "이의신청 확대와 반복청구 제한 병기"
+            "공공기관의 비공개 사유 구체화",
+            "불복권 확대와 입법예고 일정"
           ]
         }
       },
@@ -68,16 +75,371 @@
         "media": [],
         "source_links": [
           {
-            "label": "확인한 기사 본문",
+            "label": "확인한 원문",
             "url": "https://www.yna.co.kr/amp/view/AKR20261105081100530"
           }
         ],
         "excerpt": "",
-        "context": "5일 발표, 기사 최초12:00:02 KST. 입법예고6일~12월16일. 전 회차 예비였고 실제 미발송이다.",
-        "fetched_at": 1793869774,
+        "context": "4일 설명회 뒤 5일 행안부 발표를 기사에서 확인. 6일~12월 16일 입법예고 계획이며 원문은 5일 12:00:02 KST 게시.",
+        "fetched_at": 1793873485,
         "parser_revision": 7
       },
       "curation_event_key": "information-disclosure-law-nondisclosure-grounds-bill-announced-20261105"
+    },
+    "adb95438949b": {
+      "source": "CNA·Reuters",
+      "title": "케인, 뮌헨과 2029년까지 재계약 확정…구단이 발표",
+      "link": "https://www.channelnewsasia.com/sport/ballon-dor-winner-kane-signs-bayern-extension-until-2029-6527011",
+      "first_seen_at": 1793873485,
+      "last_seen_at": 1793873485,
+      "samples": [
+        {
+          "at": 1793873485,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "adb95438949b",
+      "editorial": {
+        "title": "케인, 뮌헨과 2029년까지 재계약 확정…구단이 발표",
+        "category": "축구",
+        "url": "https://www.channelnewsasia.com/sport/ballon-dor-winner-kane-signs-bayern-extension-until-2029-6527011",
+        "source": "CNA·Reuters",
+        "kind": "article",
+        "event_key": "bayern-harry-kane-contract-extension-until-2029-announced-20261105",
+        "why": "발롱도르 수상 공격수의 거취가 확정돼 뮌헨의 장기 전력 구상이 선명해졌다.",
+        "angle": "2029년까지 동행 확정 → 구단·선수 발표",
+        "why_now": "5일 구단 발표. 확인한 Reuters/CNA 기사 최초 게시 18:11:57 KST. 구단 원발표의 정확한 분은 미확인.",
+        "verified_at": 1793873183,
+        "published_at": 1793869917,
+        "evidence": [
+          {
+            "url": "https://www.channelnewsasia.com/sport/ballon-dor-winner-kane-signs-bayern-extension-until-2029-6527011",
+            "note": "본문에서 구단 발표에 따른 계약 만료일 2029년 6월 30일과 케인의 잔류 의사를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.channelnewsasia.com/sport/ballon-dor-winner-kane-signs-bayern-extension-until-2029-6527011",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "계약금·연봉은 비공개. 원칙적 합의 보도와 오늘의 공식 체결 확정을 구분한다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "본문에서 구단 발표에 따른 계약 만료일 2029년 6월 30일과 케인의 잔류 의사를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "계약 기간 2029년 6월 30일까지",
+            "구단·선수의 잔류 발표와 전력 구상"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.channelnewsasia.com/sport/ballon-dor-winner-kane-signs-bayern-extension-until-2029-6527011"
+          }
+        ],
+        "excerpt": "",
+        "context": "5일 구단 발표. 확인한 Reuters/CNA 기사 최초 게시 18:11:57 KST. 구단 원발표의 정확한 분은 미확인.",
+        "fetched_at": 1793873485,
+        "parser_revision": 7
+      },
+      "curation_event_key": "bayern-harry-kane-contract-extension-until-2029-announced-20261105"
+    },
+    "8570f0d37a18": {
+      "source": "경향신문",
+      "title": "쿠팡 4236억원 과징금 효력 유지…시정명령만 잠정 중단",
+      "link": "https://www.khan.co.kr/article/202611051807001",
+      "first_seen_at": 1793873485,
+      "last_seen_at": 1793873485,
+      "samples": [
+        {
+          "at": 1793873485,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "8570f0d37a18",
+      "editorial": {
+        "title": "쿠팡 4236억원 과징금 효력 유지…시정명령만 잠정 중단",
+        "category": "시사",
+        "url": "https://www.khan.co.kr/article/202611051807001",
+        "source": "경향신문",
+        "kind": "article",
+        "event_key": "coupang-data-breach-fine-stay-rejected-corrective-orders-stayed-20261105",
+        "why": "대규모 개인정보 유출 제재의 금전 부담을 유지한 법원 결정이다.",
+        "angle": "과징금은 유지, 시정명령은 정지 → 갈린 결정",
+        "why_now": "5일 법원 결정. 경향 원문 18:07 KST 게시·18:10 수정. 최초 속보 시각은 이보다 앞서므로 동일시하지 않는다.",
+        "verified_at": 1793873296,
+        "published_at": 1793869620,
+        "evidence": [
+          {
+            "url": "https://www.khan.co.kr/article/202611051807001",
+            "note": "법원은 4235억7500만원 과징금 집행정지를 기각하고 시정명령·공표 관련 처분만 잠정 정지했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.khan.co.kr/article/202611051807001",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "본안 최종 판결이 아니다. 일부 인용을 과징금까지 정지된 것으로 쓰지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "법원은 4235억7500만원 과징금 집행정지를 기각하고 시정명령·공표 관련 처분만 잠정 정지했다.",
+          "checked_materials": [],
+          "outline": [
+            "4235억7500만원 과징금 효력 유지",
+            "정지된 시정명령과 본안 판단 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.khan.co.kr/article/202611051807001"
+          }
+        ],
+        "excerpt": "",
+        "context": "5일 법원 결정. 경향 원문 18:07 KST 게시·18:10 수정. 최초 속보 시각은 이보다 앞서므로 동일시하지 않는다.",
+        "fetched_at": 1793873485,
+        "parser_revision": 7
+      },
+      "curation_event_key": "coupang-data-breach-fine-stay-rejected-corrective-orders-stayed-20261105"
+    },
+    "9b507cd6e6f3": {
+      "source": "Znews",
+      "title": "박항서 인종차별 후속…태국 협회, 팬 2명 등 소환 조사 계획",
+      "link": "https://znews.vn/lien-doan-bong-da-thai-lan-trieu-tap-hlv-park-len-giai-trinh-post1694079.html",
+      "first_seen_at": 1793873485,
+      "last_seen_at": 1793873485,
+      "samples": [
+        {
+          "at": 1793873485,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "9b507cd6e6f3",
+      "editorial": {
+        "title": "박항서 인종차별 후속…태국 협회, 팬 2명 등 소환 조사 계획",
+        "category": "축구",
+        "url": "https://znews.vn/lien-doan-bong-da-thai-lan-trieu-tap-hlv-park-len-giai-trinh-post1694079.html",
+        "source": "Znews",
+        "kind": "article",
+        "event_key": "fat-park-hang-seo-baggio-two-fans-summons-plan-reported-20261104",
+        "why": "한국인 감독·선수 대상 인종차별 사건이 구체적인 징계 심의 절차로 이어졌다.",
+        "angle": "팬 2명·감독·바지오 진술 청취 계획",
+        "why_now": "11월 1일 언쟁·2일 협회 성명은 배경. 새 소환 계획은 4일 Znews 보도에서 확인했다. 태국 원보도 최초 공개 분은 미확인.",
+        "verified_at": 1793873419,
+        "published_at": 1793764680,
+        "evidence": [
+          {
+            "url": "https://znews.vn/lien-doan-bong-da-thai-lan-trieu-tap-hlv-park-len-giai-trinh-post1694079.html",
+            "note": "Znews는 Ball Thai Stand를 인용해 FAT가 팬 2명·박항서·바지오의 진술을 들은 뒤 징계를 검토할 예정이라고 보도했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://znews.vn/lien-doan-bong-da-thai-lan-trieu-tap-hlv-park-len-giai-trinh-post1694079.html",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "4일은 소환 계획 보도일이며 실제 소환일은 미상. 징계 확정·조사 완료로 쓰지 않는다. 영상 미시청.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-04",
+          "observation": "Znews는 Ball Thai Stand를 인용해 FAT가 팬 2명·박항서·바지오의 진술을 들은 뒤 징계를 검토할 예정이라고 보도했다.",
+          "checked_materials": [],
+          "outline": [
+            "기존 차별 사건과 새 소환 계획 분리",
+            "진술 대상과 징계 미확정 상태"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://znews.vn/lien-doan-bong-da-thai-lan-trieu-tap-hlv-park-len-giai-trinh-post1694079.html"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월 1일 언쟁·2일 협회 성명은 배경. 새 소환 계획은 4일 Znews 보도에서 확인했다. 태국 원보도 최초 공개 분은 미확인.",
+        "fetched_at": 1793873485,
+        "parser_revision": 7
+      },
+      "curation_event_key": "fat-park-hang-seo-baggio-two-fans-summons-plan-reported-20261104"
+    },
+    "cec769eeafa6": {
+      "source": "AFP",
+      "title": "홍콩 조슈아 웡, 국가보안법 사건서 징역 10년 추가 선고",
+      "link": "https://www.afp.com/en/hong-kong-activist-joshua-wong-sentenced-10-more-years",
+      "first_seen_at": 1793873485,
+      "last_seen_at": 1793873485,
+      "samples": [
+        {
+          "at": 1793873485,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "cec769eeafa6",
+      "editorial": {
+        "title": "홍콩 조슈아 웡, 국가보안법 사건서 징역 10년 추가 선고",
+        "category": "시사",
+        "url": "https://www.afp.com/en/hong-kong-activist-joshua-wong-sentenced-10-more-years",
+        "source": "AFP",
+        "kind": "article",
+        "event_key": "hong-kong-joshua-wong-foreign-collusion-ten-year-sentence-20261105",
+        "why": "홍콩 민주화 운동의 상징적 인물에게 국가보안법에 따른 장기형이 추가됐다.",
+        "angle": "석방 앞두고 새 징역 10년 → 판결과 국제 반응",
+        "why_now": "판결은 11월 5일. AFP 화면은 5일 08:41로 표기하나 시간대·최초 공개 분은 확정하지 못해 게시 epoch는 비워 둔다.",
+        "verified_at": 1793873289,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.afp.com/en/hong-kong-activist-joshua-wong-sentenced-10-more-years",
+            "note": "AFP 본문에서 외국 세력과의 결탁 사건에 대한 5일 징역 10년 선고를 확인했다. 기존 전복 사건 형과 별개다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.afp.com/en/hong-kong-activist-joshua-wong-sentenced-10-more-years",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "전체 복역기간을 단순 합산하지 않는다. 당국의 법 집행 주장과 인권단체 비판은 각각의 입장이다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "AFP 본문에서 외국 세력과의 결탁 사건에 대한 5일 징역 10년 선고를 확인했다. 기존 전복 사건 형과 별개다.",
+          "checked_materials": [],
+          "outline": [
+            "새 사건 징역 10년 선고",
+            "기존 수감과 별개 사건임을 설명"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.afp.com/en/hong-kong-activist-joshua-wong-sentenced-10-more-years"
+          }
+        ],
+        "excerpt": "",
+        "context": "판결은 11월 5일. AFP 화면은 5일 08:41로 표기하나 시간대·최초 공개 분은 확정하지 못해 게시 epoch는 비워 둔다.",
+        "fetched_at": 1793873485,
+        "parser_revision": 7
+      },
+      "curation_event_key": "hong-kong-joshua-wong-foreign-collusion-ten-year-sentence-20261105"
+    },
+    "6342066c5618": {
+      "source": "CNA·Reuters",
+      "title": "침수·폭염이 영국 스포츠 비용 위기로…BASIS, 적응기금 촉구",
+      "link": "https://www.channelnewsasia.com/sport/british-sport-under-prepared-climate-risks-costs-rise-report-says-6525826",
+      "first_seen_at": 1793873485,
+      "last_seen_at": 1793873485,
+      "samples": [
+        {
+          "at": 1793873485,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "6342066c5618",
+      "editorial": {
+        "title": "침수·폭염이 영국 스포츠 비용 위기로…BASIS, 적응기금 촉구",
+        "category": "메이저 스포츠",
+        "url": "https://www.channelnewsasia.com/sport/british-sport-under-prepared-climate-risks-costs-rise-report-says-6525826",
+        "source": "CNA·Reuters",
+        "kind": "article",
+        "event_key": "basis-british-sport-climate-resilience-report-fund-call-20261105",
+        "why": "경기 취소·시설 피해·보험 부담을 한꺼번에 다룬 스포츠 산업의 구조적 위험 보고서다.",
+        "angle": "경기장 피해와 보험 부담 → 적응 대책 촉구",
+        "why_now": "5일 공개된 보고서 관련 Reuters 보도를 확인. CNA 최초 게시 09:03:13 KST. 과거 피해 사례 발생일과 보고서 공개일은 다르다.",
+        "verified_at": 1793873256,
+        "published_at": 1793836993,
+        "evidence": [
+          {
+            "url": "https://www.channelnewsasia.com/sport/british-sport-under-prepared-climate-risks-costs-rise-report-says-6525826",
+            "note": "BASIS 보고서는 기후 피해에 따른 구단 비용·일정 차질을 짚고 잔디뿌리 체육시설 보호용 연 3000만파운드 기금을 제안했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.channelnewsasia.com/sport/british-sport-under-prepared-climate-risks-costs-rise-report-says-6525826",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "기금 조성 확정이 아닌 단체 제안이다. 설문·위험 추정치이며 모든 영국 경기장의 확정 피해가 아니다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "BASIS 보고서는 기후 피해에 따른 구단 비용·일정 차질을 짚고 잔디뿌리 체육시설 보호용 연 3000만파운드 기금을 제안했다.",
+          "checked_materials": [],
+          "outline": [
+            "과거 시설 피해·경기 취소와 비용 구조",
+            "보고서가 제안한 적응계획·기금"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.channelnewsasia.com/sport/british-sport-under-prepared-climate-risks-costs-rise-report-says-6525826"
+          }
+        ],
+        "excerpt": "",
+        "context": "5일 공개된 보고서 관련 Reuters 보도를 확인. CNA 최초 게시 09:03:13 KST. 과거 피해 사례 발생일과 보고서 공개일은 다르다.",
+        "fetched_at": 1793873485,
+        "parser_revision": 7
+      },
+      "curation_event_key": "basis-british-sport-climate-resilience-report-fund-call-20261105"
     },
     "cbc7a14ff4e0": {
       "source": "Reuters·CNA",
@@ -30926,5 +31288,5 @@
       "curation_event_key": "presidential-residence-second-son-facilities-written-response-20261029"
     }
   },
-  "updated_at": 1793869774
+  "updated_at": 1793873485
 }
