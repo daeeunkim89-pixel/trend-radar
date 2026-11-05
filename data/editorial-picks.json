@@ -1,213 +1,283 @@
 {
   "version": 2,
-  "hour_utc": "2026110500",
+  "hour_utc": "2026110501",
   "reviewer": "ChatGPT",
-  "generated_at": 1793837274,
+  "generated_at": 1793840909,
   "coverage": {
     "queries": [
-      "November 5 2026 Reuters sports latest official major news",
-      "November 4 2026 Texas data centers Hinojosa pause Reuters",
-      "November 4 2026 Turkey Ponzi fund half million investors Reuters",
-      "2026년 11월 5일 09시 스포츠 주요 뉴스",
-      "November 4 2026 NBA Reuters \"injury\" \"Wednesday\"",
-      "November 4 2026 Indonesia chief staff wiretapping president troops deployed Reuters CNA",
-      "Barcelona Rodri hamstring November 4 2026 official medical report",
-      "\"Texas data centers face uncertain future\" \"CNA\"",
-      "\"Lions linebacker Campbell has full movement\" November 4 2026"
+      "November 5 2026 Reuters sports major news football Wednesday Thursday",
+      "November 4 2026 sports ban investigation coach fired Reuters",
+      "2026년 11월 5일 스포츠 주요 뉴스 10시",
+      "November 5 2026 Reuters world latest Trump Iran election",
+      "November 4 2026 Infantino fourth term ineligible FairSquare Maduro",
+      "November 5 2026 football red cards 51 Brazil youth brawl",
+      "November 4 2026 Russell Wilson Philip Rivers NC State coach interview",
+      "November 4 2026 Reuters major sports rugby tennis basketball news",
+      "November 4 2026 Champions League Tottenham Arsenal Real Madrid UEFA round up",
+      "2026 11 05 속보 대법원 정부 대형 뉴스",
+      "November 4 2026 Reuters NBA trade suspension injury",
+      "November 4 2026 Reuters tennis Paris Masters Djokovic upset",
+      "November 4 2026 Porzingis Warriors withholding salary ESPN",
+      "2026년 11월 4일 윤석열 선거법 항소심 선고 결과",
+      "2026년 11월 5일 공군1호기 개인정보 유출 168명",
+      "November 4 2026 Djokovic Hijikata ATP Finals eliminated ATP official",
+      "November 4 2026 \"major\" \"Reuters\" \"World\" oil",
+      "November 5 2026 \"공군 1호기\" \"유출\"",
+      "November 4 2026 \"Japan\" \"World Cup\" women semifinal",
+      "November 4 2026 \"Real Madrid\" \"Valverde\" \"aek\"",
+      "site.jfa.jp 2026 11 05 U-17 女子 北朝鮮 準決勝 1-1",
+      "site.fifa.com November 4 2026 Japan DPR Korea Nigeria semi final",
+      "site.atptour.com \"hijikata\" \"2026\" \"Paris\" \"Djokovic\"",
+      "site.espn.com \"Porzingis\" \"withholding\" \"2026\"",
+      "\"Japan\" \"DPR Korea\" \"4-1\" \"November 4\" \"2026\"",
+      "\"Japan\" \"Nigeria\" \"rabat-matchday-13-round-up\"",
+      "\"Djokovic\" \"Hijikata\" \"channelnewsasia\" \"2026\"",
+      "\"Hijikata\" \"Djokovic\" \"Nov 4\" \"2026\" \"CNA\"",
+      "\"Japan\" \"Nigeria\" \"final\" \"4 November 2026\" FIFA",
+      "\"日本\" \"北朝鮮\" \"PK\" \"2026年11月5日\"",
+      "site.realmadrid.com \"AEK\" \"04-11-2026\" \"Valverde\"",
+      "\"AEK\" \"Real Madrid\" \"Valverde\" \"2026\" \"report\"",
+      "\"Japan\" \"DPR Korea\" \"2026\" \"90+5\" FIFA"
     ],
     "opened_urls": [
-      "https://abcnews.com/Sports/wireStory/receiver-brandon-aiyuk-files-paperwork-reinstated-49ers-137848826",
-      "https://www.channelnewsasia.com/asia/indonesia-deploys-troops-jakarta-wiretapping-arrests-6523396",
-      "https://www.yna.co.kr/view/AKR20261105002400072",
-      "https://www.fcbarcelona.com/en/football/first-team/news/4604306/rodri-injury-news/featured",
-      "https://www.channelnewsasia.com/business/texas-data-centers-face-uncertain-future-after-hinojosa-wins-governors-race-6525056",
-      "https://www.prideofdetroit.com/detroit-lions-news/179695/detroit-lions-jack-campbell-injury-update-offers-update-statement-body-movement"
+      "https://www.uefa.com/uefachampionsleague/news/02ab-21fe508a035b-5eed0199e0b2-1000--champions-league-round-up-como-equal-biggest-ever-win-real/",
+      "https://www.goldenstateofmind.com/warriors-news/113220/warriors-kristaps-porzingis-withhold-payment",
+      "https://www.channelnewsasia.com/sport/zverev-falls-in-first-match-world-number-one-djokovics-atp-finals-hopes-over-6524836",
+      "https://imnews.imbc.com/news/2026/politics/article/6863333_36911.html",
+      "https://www.cafonline.com/womens-football/news/nigeria-reach-fifa-u-17-women-s-world-cup-final-after-defeating-brazil/",
+      "https://guardian.ng/breakingnews/fifa-u-17-womens-world-cup-nigeria-beat-brazil-to-face-japan-in-final/"
     ],
-    "unavailable": []
+    "unavailable": [
+      "FairSquare 원문 직접 요청 403; 공개 웹 본문으로 확인했으나 오래된 서신을 현재 사건으로 선정하지 않음",
+      "WinCountry Reuters 전재 403: 접근 가능한 CNA 동일 취재 본문으로 전환",
+      "ESPN 원문 빈 응답: 인용 매체 본문에서 확인한 범위로 제한",
+      "ESPN La Crosse 403: 미선정"
+    ]
   },
   "picks": [
     {
-      "title": "바르사 로드리, 햄스트링 부상으로 아틀레티코전 결장…복귀 시점은 미정",
+      "title": "두 번 뒤지고도 뒤집었다…발베르데 추가시간 결승골로 레알 챔스 4연승",
       "category": "축구",
-      "url": "https://www.fcbarcelona.com/en/football/first-team/news/4604306/rodri-injury-news/featured",
-      "source": "FC Barcelona",
+      "url": "https://www.uefa.com/uefachampionsleague/news/02ab-21fe508a035b-5eed0199e0b2-1000--champions-league-round-up-como-equal-biggest-ever-win-real/",
+      "source": "UEFA",
       "kind": "official",
-      "event_key": "barcelona-rodri-hamstring-atletico-absence-medical-20261104",
-      "why": "발롱도르 수상 미드필더의 결장으로 바르사의 아틀레티코 원정 전력에 변수가 생겼다.",
-      "angle": "구단 검사 결과→아틀레티코전 결장 확정→복귀 시점은 경과에 달렸다는 공식 입장 순서.",
-      "why_now": "구단 원문 최초 공개일은 11월4일(일 단위). 3일 애스턴빌라전 이상 뒤 4일 검사 결과를 발표했다. 기사 갱신 시각과 구분.",
-      "verified_at": 1793837166,
+      "event_key": "real-madrid-aek-two-comebacks-valverde-stoppage-winner-20261104",
+      "why": "레알이 원정에서 두 차례 실점 뒤 따라붙고 추가시간에 승부를 뒤집어 챔스 전승을 지켰다.",
+      "angle": "두 번의 AEK 리드→벨링엄·음바페 동점→발베르데 추가시간 결승골 순서.",
+      "why_now": "경기는 현지 11월4일. UEFA 본문 최초 게시 4일22:39 UTC, 5일00:36 갱신은 최초 공개와 구분.",
+      "verified_at": 1793840801,
+      "published_at": 1793831940,
+      "evidence": [
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/news/02ab-21fe508a035b-5eed0199e0b2-1000--champions-league-round-up-como-equal-biggest-ever-win-real/",
+          "note": "UEFA 경기 본문에서 AEK가 두 차례 앞섰고 벨링엄·음바페가 동점, 발베르데가 추가시간 원거리 결승골을 넣어 레알이 3-2로 이긴 사실을 확인했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/news/02ab-21fe508a035b-5eed0199e0b2-1000--champions-league-round-up-como-equal-biggest-ever-win-real/",
+          "label": "확인한 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "기사 본문 검증이며 하이라이트 영상은 시청하지 않았다. 다른 경기 결과를 이 사건에 섞지 않는다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-04",
+        "observation": "UEFA 경기 본문에서 AEK가 두 차례 앞섰고 벨링엄·음바페가 동점, 발베르데가 추가시간 원거리 결승골을 넣어 레알이 3-2로 이긴 사실을 확인했다.",
+        "checked_materials": [],
+        "outline": [
+          "두 번의 AEK 리드→벨링엄·음바페 동점→발베르데 추가시간 결승골 순서.",
+          "기사 본문 검증이며 하이라이트 영상은 시청하지 않았다. 다른 경기 결과를 이 사건에 섞지 않는다."
+        ]
+      }
+    },
+    {
+      "title": "건강 문제로 이탈한 포르징기스…워리어스, 연봉 지급 보류 보도",
+      "category": "메이저 스포츠",
+      "url": "https://www.goldenstateofmind.com/warriors-news/113220/warriors-kristaps-porzingis-withhold-payment",
+      "source": "Golden State of Mind / ESPN 인용",
+      "kind": "article",
+      "event_key": "warriors-porzingis-salary-payments-withheld-report-20261104",
+      "why": "NBA 우승 경력 센터의 장기 이탈이 실제 급여 지급 문제로 번지며 구단과 선수의 계약 관계가 쟁점이 됐다.",
+      "angle": "급여 지급 보류 보도→서비스 미제공이라는 사유→계약 무효와는 구분.",
+      "why_now": "급여 보류는 11월4일의 새 보도. 확인 기사 최초 게시 4일18:18:16 UTC(5일03:18 KST). 이전 이적 검토 보도와 구분.",
+      "verified_at": 1793840726,
+      "published_at": 1793816296,
+      "evidence": [
+        {
+          "url": "https://www.goldenstateofmind.com/warriors-news/113220/warriors-kristaps-porzingis-withhold-payment",
+          "note": "본문에서 ESPN 취재를 인용해 구단이 급여 지급을 보류하고 있다는 내용과, 계약 무효화는 현재 검토하지 않는다는 보도를 확인했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.goldenstateofmind.com/warriors-news/113220/warriors-kristaps-porzingis-withhold-payment",
+          "label": "확인한 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "익명 취재원 기반 보도이며 구단 공식 발표는 미확인. 건강 상태·지급 보류의 적법성·은퇴나 이적을 단정하지 않는다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-04",
+        "observation": "본문에서 ESPN 취재를 인용해 구단이 급여 지급을 보류하고 있다는 내용과, 계약 무효화는 현재 검토하지 않는다는 보도를 확인했다.",
+        "checked_materials": [],
+        "outline": [
+          "급여 지급 보류 보도→서비스 미제공이라는 사유→계약 무효와는 구분.",
+          "익명 취재원 기반 보도이며 구단 공식 발표는 미확인. 건강 상태·지급 보류의 적법성·은퇴나 이적을 단정하지 않는다."
+        ]
+      }
+    },
+    {
+      "title": "조코비치, 세계 83위에 역전패…ATP 파이널스 진출 무산",
+      "category": "메이저 스포츠",
+      "url": "https://www.channelnewsasia.com/sport/zverev-falls-in-first-match-world-number-one-djokovics-atp-finals-hopes-over-6524836",
+      "source": "Reuters / CNA",
+      "kind": "article",
+      "event_key": "djokovic-hijikata-paris-second-round-atp-finals-elimination-20261104",
+      "why": "전날 최고령 승리를 거둔 조코비치가 이튿날 탈락하며 시즌 최종전 출전 가능성까지 사라진 중요한 후속이다.",
+      "angle": "1세트 승리 뒤 역전패→파리 2회전 탈락→연말 파이널스 진출 무산을 연결.",
+      "why_now": "탈락 경기는 현지 11월4일. CNA 최초 게시 4일15:11:08 UTC, 조코비치 결과는 갱신 본문에 포함돼 최초 기사 시각과 구분.",
+      "verified_at": 1793840788,
       "published_at": null,
       "evidence": [
         {
-          "url": "https://www.fcbarcelona.com/en/football/first-team/news/4604306/rodri-injury-news/featured",
-          "note": "구단 의료 발표 본문에서 오른쪽 햄스트링의 경미한 부상, 다음 일요일 아틀레티코전 결장, 경과에 따른 복귀 결정을 확인했다."
+          "url": "https://www.channelnewsasia.com/sport/zverev-falls-in-first-match-world-number-one-djokovics-atp-finals-hopes-over-6524836",
+          "note": "Reuters 전재 본문에서 히지카타가 조코비치를 2-6 6-3 6-3으로 이겼고 조코비치의 ATP 파이널스 진출 희망이 끝났다고 명시한 대목을 확인했다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.fcbarcelona.com/en/football/first-team/news/4604306/rodri-injury-news/featured",
+          "url": "https://www.channelnewsasia.com/sport/zverev-falls-in-first-match-world-number-one-djokovics-atp-finals-hopes-over-6524836",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "경미한 부상이라는 공식 표현을 유지. 장기 결장·수술·확정 복귀일을 추정하지 않는다.",
+      "caution": "이미 보낸 3일 최고령 승리와 다른 4일 탈락 후속이다. 은퇴 선언이나 영구적인 경기력 하락으로 확대하지 않는다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-04",
-        "observation": "구단 의료 발표 본문에서 오른쪽 햄스트링의 경미한 부상, 다음 일요일 아틀레티코전 결장, 경과에 따른 복귀 결정을 확인했다.",
+        "observation": "Reuters 전재 본문에서 히지카타가 조코비치를 2-6 6-3 6-3으로 이겼고 조코비치의 ATP 파이널스 진출 희망이 끝났다고 명시한 대목을 확인했다.",
         "checked_materials": [],
         "outline": [
-          "구단 검사 결과→아틀레티코전 결장 확정→복귀 시점은 경과에 달렸다는 공식 입장 순서.",
-          "경미한 부상이라는 공식 표현을 유지. 장기 결장·수술·확정 복귀일을 추정하지 않는다."
+          "1세트 승리 뒤 역전패→파리 2회전 탈락→연말 파이널스 진출 무산을 연결.",
+          "이미 보낸 3일 최고령 승리와 다른 4일 탈락 후속이다. 은퇴 선언이나 영구적인 경기력 하락으로 확대하지 않는다."
         ]
       }
     },
     {
-      "title": "2년 넘게 못 뛴 아이유크, NFL 복귀 신청…49ers와 계약 갈등 다시 수면 위",
-      "category": "메이저 스포츠",
-      "url": "https://abcnews.com/Sports/wireStory/receiver-brandon-aiyuk-files-paperwork-reinstated-49ers-137848826",
-      "source": "AP / ABC News",
-      "kind": "article",
-      "event_key": "brandon-aiyuk-nfl-reinstatement-paperwork-agent-confirmed-20261104",
-      "why": "1억2천만달러 계약 뒤 장기 이탈한 선수가 복귀 절차를 밟으면서 구단과의 계약 갈등이 다시 쟁점이 됐다.",
-      "angle": "복귀 서류 제출→금요일 팀 복귀 계획→구단 잔류 계약과 GM의 재출전 회의론을 연결.",
-      "why_now": "새 대리인이 11월4일 서류 제출을 확인. AP 원문 게시 11월4일16:09:13 UTC(11월5일01:09:13 KST).",
-      "verified_at": 1793837028,
-      "published_at": 1793808553,
-      "evidence": [
-        {
-          "url": "https://abcnews.com/Sports/wireStory/receiver-brandon-aiyuk-files-paperwork-reinstated-49ers-137848826",
-          "note": "AP 본문에서 대리인의 NFL 복귀 신청 확인과 금요일 팀 복귀 계획, 기존 계약 유지, GM이 재출전을 기대하지 않는다는 과거 입장을 확인했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://abcnews.com/Sports/wireStory/receiver-brandon-aiyuk-files-paperwork-reinstated-49ers-137848826",
-          "label": "확인한 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "복귀 신청은 리그 승인·경기 출전·이적 확정이 아니다. 2024년 부상과 4일 새 신청을 구분한다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-04",
-        "observation": "AP 본문에서 대리인의 NFL 복귀 신청 확인과 금요일 팀 복귀 계획, 기존 계약 유지, GM이 재출전을 기대하지 않는다는 과거 입장을 확인했다.",
-        "checked_materials": [],
-        "outline": [
-          "복귀 서류 제출→금요일 팀 복귀 계획→구단 잔류 계약과 GM의 재출전 회의론을 연결.",
-          "복귀 신청은 리그 승인·경기 출전·이적 확정이 아니다. 2024년 부상과 4일 새 신청을 구분한다."
-        ]
-      }
-    },
-    {
-      "title": "텍사스 새 주지사 당선인의 데이터센터 승인 유예 공약…AI 투자 불확실성 커졌다",
+      "title": "공군1호기 명단 유출 새 경위…“보안업체가 식별값 대신 원본 올린 정황”",
       "category": "시사",
-      "url": "https://www.channelnewsasia.com/business/texas-data-centers-face-uncertain-future-after-hinojosa-wins-governors-race-6525056",
-      "source": "Reuters / CNA",
+      "url": "https://imnews.imbc.com/news/2026/politics/article/6863333_36911.html",
+      "source": "MBC 단독 취재",
       "kind": "article",
-      "event_key": "texas-hinojosa-election-data-center-approval-moratorium-policy-20261104",
-      "why": "AI 투자 거점의 선거 결과가 전기·물·주민 권리와 충돌하며 수십억달러 사업의 정책 변수가 됐다.",
-      "angle": "당선→신규 승인 유예 공약→기존 전력망 연결 제한과 앞으로의 입법을 구분해 설명.",
-      "why_now": "당선은 11월3일, 새 정책 영향 취재는 4일. 확인한 CNA 최초 게시 11월4일17:23:40 UTC이며 5일 갱신을 최초 공개로 쓰지 않는다.",
-      "verified_at": 1793837168,
-      "published_at": 1793813020,
+      "event_key": "air-force-one-passenger-list-vendor-original-file-upload-findings-20261105",
+      "why": "대통령 전용기 탑승자 정보 유출의 원인에 관한 새 취재로 국가 보안과 외주 점검 절차의 허점이 쟁점이 됐다.",
+      "angle": "식별값으로 검사하는 절차→원본 파일 업로드 정황→실수 가능성을 조사 중이라는 단계 표시.",
+      "why_now": "유출 자체는 과거 사건이고 이번 새 사실은 외부 보안업체 업로드 정황. MBC 최초 공개 11월5일09:27:20 KST, 수정 09:28과 구분.",
+      "verified_at": 1793840728,
+      "published_at": 1793838440,
       "evidence": [
         {
-          "url": "https://www.channelnewsasia.com/business/texas-data-centers-face-uncertain-future-after-hinojosa-wins-governors-race-6525056",
-          "note": "Reuters 전재 본문에서 히노호사의 신규 승인 유예 공약, 애벗의 8월 전력망 연결 제한, 업계 대응과 향후 주 의회 입법 필요성을 확인했다."
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6863333_36911.html",
+          "note": "MBC 본문에서 정부 당국이 외부 보안업체의 원본 파일 업로드 정황을 포착했고 외교부가 실수 가능성에 무게를 두어 조사 중이라는 취재 내용을 확인했다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.channelnewsasia.com/business/texas-data-centers-face-uncertain-future-after-hinojosa-wins-governors-race-6525056",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6863333_36911.html",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "유예 공약이지 전면 금지 시행이 아니다. 지연·이전 전망은 취재원 견해이며 확정 투자 취소로 쓰지 않는다.",
+      "caution": "MBC 취재에 따른 수사 경위 보도이며 원인 확정이 아니다. 유출된 명단·여권번호 등 실제 개인정보는 열람하거나 재배포하지 않는다.",
       "readiness": {
         "mode": "major_news",
-        "event_date": "2026-11-04",
-        "observation": "Reuters 전재 본문에서 히노호사의 신규 승인 유예 공약, 애벗의 8월 전력망 연결 제한, 업계 대응과 향후 주 의회 입법 필요성을 확인했다.",
+        "event_date": "2026-11-05",
+        "observation": "MBC 본문에서 정부 당국이 외부 보안업체의 원본 파일 업로드 정황을 포착했고 외교부가 실수 가능성에 무게를 두어 조사 중이라는 취재 내용을 확인했다.",
         "checked_materials": [],
         "outline": [
-          "당선→신규 승인 유예 공약→기존 전력망 연결 제한과 앞으로의 입법을 구분해 설명.",
-          "유예 공약이지 전면 금지 시행이 아니다. 지연·이전 전망은 취재원 견해이며 확정 투자 취소로 쓰지 않는다."
+          "식별값으로 검사하는 절차→원본 파일 업로드 정황→실수 가능성을 조사 중이라는 단계 표시.",
+          "MBC 취재에 따른 수사 경위 보도이며 원인 확정이 아니다. 유출된 명단·여권번호 등 실제 개인정보는 열람하거나 재배포하지 않는다."
         ]
       }
     },
     {
-      "title": "대통령 도청 의혹에 인도네시아 비서실장 해임…취임 한 달 만에 교체",
-      "category": "시사",
-      "url": "https://www.channelnewsasia.com/asia/indonesia-deploys-troops-jakarta-wiretapping-arrests-6523396",
-      "source": "CNA",
-      "kind": "article",
-      "event_key": "indonesia-listyo-chief-of-staff-dismissal-wiretapping-20261104",
-      "why": "전 경찰청장이 대통령 통신을 겨냥한 의혹 수사로 임명 한 달 만에 교체된 권력 핵심 사건이다.",
-      "angle": "11월4일 해임과 직무대행 임명→도청 의혹 수사→확인되지 않은 연결 관계를 명확히 표시.",
-      "why_now": "체포 의혹 공개는 3일, 해임·직무대행 발표는 4일의 새 조치. 확인 기사 최초 공개 11월4일09:41:15 UTC(18:41:15 KST).",
-      "verified_at": 1793837028,
-      "published_at": 1793785275,
+      "title": "나이지리아, 브라질 꺾고 여자 U-17 월드컵 첫 결승…일본과 우승 다툰다",
+      "category": "축구",
+      "url": "https://www.cafonline.com/womens-football/news/nigeria-reach-fifa-u-17-women-s-world-cup-final-after-defeating-brazil/",
+      "source": "CAF / Guardian Nigeria",
+      "kind": "official",
+      "event_key": "nigeria-brazil-u17-womens-world-cup-maiden-final-20261104",
+      "why": "아프리카 대표가 브라질을 꺾고 처음 결승에 올라 여자 유소년 월드컵 우승 판도가 바뀌었다.",
+      "angle": "후반 세 골로 3-0 리드→3-1 승리→일본과 결승 대진을 제시.",
+      "why_now": "준결승은 모로코 현지 11월4일. CAF 원문은 4일(일 단위), 독립 보도 최초 게시 4일20:07:41 UTC.",
+      "verified_at": 1793840789,
+      "published_at": null,
       "evidence": [
         {
-          "url": "https://www.channelnewsasia.com/asia/indonesia-deploys-troops-jakarta-wiretapping-arrests-6523396",
-          "note": "CNA 본문에서 리스트요 시깃 대통령 비서실장의 4일 해임과 아리요 윈두토모 직무대행 임명을 확인했다. 도청은 수사 중 의혹이며 군 배치와의 관계는 당국이 확인하지 않았다."
+          "url": "https://www.cafonline.com/womens-football/news/nigeria-reach-fifa-u-17-women-s-world-cup-final-after-defeating-brazil/",
+          "note": "CAF 본문에서 나이지리아의 브라질전 3-1 승리와 일본과의 결승 대진을 확인했다. Guardian 본문은 나이지리아의 이 대회 첫 결승 진출이라고 명시한다."
+        },
+        {
+          "url": "https://guardian.ng/breakingnews/fifa-u-17-womens-world-cup-nigeria-beat-brazil-to-face-japan-in-final/",
+          "note": "Guardian 본문에서 나이지리아의 대회 첫 결승 진출과 일본의 북한전 1-1 뒤 승부차기 4-1 승리를 확인."
         }
       ],
       "materials": [
         {
-          "url": "https://www.channelnewsasia.com/asia/indonesia-deploys-troops-jakarta-wiretapping-arrests-6523396",
+          "url": "https://www.cafonline.com/womens-football/news/nigeria-reach-fifa-u-17-women-s-world-cup-final-after-defeating-brazil/",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "범죄·반역 확정이나 쿠데타로 단정하지 않는다. 수도 군 배치가 도청 수사 때문이라고 연결하지 않는다.",
+      "caution": "득점 분은 출처 간 차이가 있어 쓰지 않는다. 성인 여자월드컵이 아닌 U-17 대회이며 결승 우승은 아직 확정되지 않았다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-04",
-        "observation": "CNA 본문에서 리스트요 시깃 대통령 비서실장의 4일 해임과 아리요 윈두토모 직무대행 임명을 확인했다. 도청은 수사 중 의혹이며 군 배치와의 관계는 당국이 확인하지 않았다.",
+        "observation": "CAF 본문에서 나이지리아의 브라질전 3-1 승리와 일본과의 결승 대진을 확인했다. Guardian 본문은 나이지리아의 이 대회 첫 결승 진출이라고 명시한다.",
         "checked_materials": [],
         "outline": [
-          "11월4일 해임과 직무대행 임명→도청 의혹 수사→확인되지 않은 연결 관계를 명확히 표시.",
-          "범죄·반역 확정이나 쿠데타로 단정하지 않는다. 수도 군 배치가 도청 수사 때문이라고 연결하지 않는다."
+          "후반 세 골로 3-0 리드→3-1 승리→일본과 결승 대진을 제시.",
+          "득점 분은 출처 간 차이가 있어 쓰지 않는다. 성인 여자월드컵이 아닌 U-17 대회이며 결승 우승은 아직 확정되지 않았다."
         ]
       }
     },
     {
-      "title": "경기 중 목 다쳐 입원한 NFL 캠벨, 첫 성명 “하체 전부 움직인다”",
-      "category": "메이저 스포츠",
-      "url": "https://www.prideofdetroit.com/detroit-lions-news/179695/detroit-lions-jack-campbell-injury-update-offers-update-statement-body-movement",
-      "source": "Pride of Detroit",
+      "title": "일본, 북한과 1-1 뒤 승부차기 4-1…여자 U-17 월드컵 결승 진출",
+      "category": "축구",
+      "url": "https://guardian.ng/breakingnews/fifa-u-17-womens-world-cup-nigeria-beat-brazil-to-face-japan-in-final/",
+      "source": "Guardian Nigeria",
       "kind": "article",
-      "event_key": "jack-campbell-first-statement-lower-body-movement-neck-injury-20261104",
-      "why": "들것에 실려 나갔던 선수의 직접 성명이 회복 상태를 구체적으로 밝혀 큰 부상의 중요한 후속이 됐다.",
-      "angle": "경기 중 목 부상→4일 본인 성명→하체 움직임과 상체 회복 진행 상황을 분리해 제시.",
-      "why_now": "부상 경기는 11월1일. 새 본인 성명은 4일 공개됐으며 확인 기사 최초 게시 11월4일17:38:33 UTC(5일02:38:33 KST).",
-      "verified_at": 1793837167,
-      "published_at": 1793813913,
+      "event_key": "japan-dpr-korea-u17-womens-world-cup-semifinal-shootout-20261104",
+      "why": "전 대회 우승팀 북한을 일본이 승부차기로 탈락시키며 결승 대진이 바뀐 세계대회 중요 결과다.",
+      "angle": "1-1 무승부→일본의 승부차기 4-1 승리→나이지리아와의 결승 대진.",
+      "why_now": "준결승은 현지 11월4일. 확인 기사 최초 게시 4일20:07:41 UTC이며 후속 수정 20:10과 구분.",
+      "verified_at": 1793840833,
+      "published_at": 1793822861,
       "evidence": [
         {
-          "url": "https://www.prideofdetroit.com/detroit-lions-news/179695/detroit-lions-jack-campbell-injury-update-offers-update-statement-body-movement",
-          "note": "팀이 배포한 본인 성명 전문을 기사 본문에서 확인했다. 하체는 전부 움직일 수 있고 상체 움직임은 개선 중이라고 밝혔으며 입원 치료가 계속된다고 보도했다."
+          "url": "https://guardian.ng/breakingnews/fifa-u-17-womens-world-cup-nigeria-beat-brazil-to-face-japan-in-final/",
+          "note": "Guardian 경기 본문에서 일본과 북한의 1-1 무승부, 일본의 승부차기 4-1 승리와 결승 진출을 확인했다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.prideofdetroit.com/detroit-lions-news/179695/detroit-lions-jack-campbell-injury-update-offers-update-statement-body-movement",
+          "url": "https://guardian.ng/breakingnews/fifa-u-17-womens-world-cup-nigeria-beat-brazil-to-face-japan-in-final/",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "11월1일 사고 재탕이 아닌 4일 새 성명 후속. 완치·마비 해소·경기 복귀 가능성을 단정하지 않는다.",
+      "caution": "검증 예비 후보. 북한 우승 이력은 사전 공식 보도와 대조했으나 이 기사에 없는 득점 분·자책골 장면은 쓰지 않는다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-04",
-        "observation": "팀이 배포한 본인 성명 전문을 기사 본문에서 확인했다. 하체는 전부 움직일 수 있고 상체 움직임은 개선 중이라고 밝혔으며 입원 치료가 계속된다고 보도했다.",
+        "observation": "Guardian 경기 본문에서 일본과 북한의 1-1 무승부, 일본의 승부차기 4-1 승리와 결승 진출을 확인했다.",
         "checked_materials": [],
         "outline": [
-          "경기 중 목 부상→4일 본인 성명→하체 움직임과 상체 회복 진행 상황을 분리해 제시.",
-          "11월1일 사고 재탕이 아닌 4일 새 성명 후속. 완치·마비 해소·경기 복귀 가능성을 단정하지 않는다."
+          "1-1 무승부→일본의 승부차기 4-1 승리→나이지리아와의 결승 대진.",
+          "검증 예비 후보. 북한 우승 이력은 사전 공식 보도와 대조했으나 이 기사에 없는 득점 분·자책골 장면은 쓰지 않는다."
         ]
       }
     }
