@@ -1,6 +1,435 @@
 {
   "version": 1,
   "items": {
+    "6b6dcad24824": {
+      "source": "This Is Anfield",
+      "title": "리버풀 구단주 FSG, 캐딜락 F1 지분 인수 협상 보도",
+      "link": "https://www.thisisanfield.com/2026/11/liverpool-owners-fsg-f1-team-for-over-2bn/",
+      "first_seen_at": 1793855416,
+      "last_seen_at": 1793855416,
+      "samples": [
+        {
+          "at": 1793855416,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "6b6dcad24824",
+      "editorial": {
+        "title": "리버풀 구단주 FSG, 캐딜락 F1 지분 인수 협상 보도",
+        "category": "메이저 스포츠",
+        "url": "https://www.thisisanfield.com/2026/11/liverpool-owners-fsg-f1-team-for-over-2bn/",
+        "source": "This Is Anfield",
+        "kind": "article",
+        "event_key": "fsg-cadillac-f1-majority-stake-talks-reported-20261104",
+        "why": "리버풀 소유주의 투자 방향과 F1 구단 지배구조가 함께 걸린 대형 스포츠 사업 보도다.",
+        "angle": "FSG의 캐딜락 지분 협상 보도부터, 확정 계약과 구분",
+        "why_now": "기사 게시 11월4일, 공개 표시는 날짜 단위다. FSG의 협상 참여를 다룬 보도이며 원보도 최초 분 시각은 확인하지 못했다.",
+        "verified_at": 1793855242,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.thisisanfield.com/2026/11/liverpool-owners-fsg-f1-team-for-over-2bn/",
+            "note": "본문은 FSG가 캐딜락 F1 다수 지분 인수를 논의했다는 가디언 보도를 전했다. 거래 확정이나 리버풀 매각을 뜻하지 않는다는 설명도 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.thisisanfield.com/2026/11/liverpool-owners-fsg-f1-team-for-over-2bn/",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "협상 보도이며 인수 확정 발표가 아니다. 리버풀 매각이나 선수 영입 예산 영향은 미확인.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-04",
+          "observation": "본문은 FSG가 캐딜락 F1 다수 지분 인수를 논의했다는 가디언 보도를 전했다. 거래 확정이나 리버풀 매각을 뜻하지 않는다는 설명도 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "FSG의 캐딜락 다수 지분 협상 보도를 제시",
+            "확정 인수·리버풀 매각과 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://www.thisisanfield.com/2026/11/liverpool-owners-fsg-f1-team-for-over-2bn/"
+          }
+        ],
+        "excerpt": "",
+        "context": "기사 게시 11월4일, 공개 표시는 날짜 단위다. FSG의 협상 참여를 다룬 보도이며 원보도 최초 분 시각은 확인하지 못했다.",
+        "fetched_at": 1793855416,
+        "parser_revision": 7
+      },
+      "curation_event_key": "fsg-cadillac-f1-majority-stake-talks-reported-20261104"
+    },
+    "227cce738866": {
+      "source": "Reuters·CNA",
+      "title": "윌리엄스 첫 F1 챔피언 앨런 존스 별세…향년 80세",
+      "link": "https://www.channelnewsasia.com/sport/australian-f1-world-champion-alan-jones-dies-aged-80-6526221",
+      "first_seen_at": 1793855416,
+      "last_seen_at": 1793855416,
+      "samples": [
+        {
+          "at": 1793855416,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "227cce738866",
+      "editorial": {
+        "title": "윌리엄스 첫 F1 챔피언 앨런 존스 별세…향년 80세",
+        "category": "메이저 스포츠",
+        "url": "https://www.channelnewsasia.com/sport/australian-f1-world-champion-alan-jones-dies-aged-80-6526221",
+        "source": "Reuters·CNA",
+        "kind": "article",
+        "event_key": "alan-jones-death-family-statement-20261105",
+        "why": "윌리엄스 첫 드라이버 챔피언을 잃은 세계 모터스포츠의 주요 부고다.",
+        "angle": "가족 발표로 확인된 부고→1980년 윌리엄스 첫 우승의 의미",
+        "why_now": "사망일과 가족 발표일은 11월5일. CNA 최초 게시 5일11:06:29 싱가포르 시각(12:06:29 KST). 가족 성명 최초 분 시각은 미확인.",
+        "verified_at": 1793855214,
+        "published_at": 1793847989,
+        "evidence": [
+          {
+            "url": "https://www.channelnewsasia.com/sport/australian-f1-world-champion-alan-jones-dies-aged-80-6526221",
+            "note": "로이터 본문에서 아내 성명을 인용한 11월5일 사망과 짧은 투병, 향년 80세를 확인했다. 존스는 1980년 윌리엄스 최초의 F1 드라이버 챔피언이었다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.channelnewsasia.com/sport/australian-f1-world-champion-alan-jones-dies-aged-80-6526221",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "구체 병명은 공개 확인하지 못했다. 보관 사진과 과거 경력을 오늘 장면으로 쓰지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "로이터 본문에서 아내 성명을 인용한 11월5일 사망과 짧은 투병, 향년 80세를 확인했다. 존스는 1980년 윌리엄스 최초의 F1 드라이버 챔피언이었다.",
+          "checked_materials": [],
+          "outline": [
+            "가족 성명에 근거한 사망일·향년 제시",
+            "1980년 윌리엄스 첫 챔피언이라는 경력 설명"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://www.channelnewsasia.com/sport/australian-f1-world-champion-alan-jones-dies-aged-80-6526221"
+          }
+        ],
+        "excerpt": "",
+        "context": "사망일과 가족 발표일은 11월5일. CNA 최초 게시 5일11:06:29 싱가포르 시각(12:06:29 KST). 가족 성명 최초 분 시각은 미확인.",
+        "fetched_at": 1793855416,
+        "parser_revision": 7
+      },
+      "curation_event_key": "alan-jones-death-family-statement-20261105"
+    },
+    "a38e3b326d3d": {
+      "source": "This Is Anfield",
+      "title": "페네르바체, 리버풀전 직전 엠레 감독 선임…18개월 계약 보도",
+      "link": "https://www.thisisanfield.com/2026/11/fenerbahce-appoint-new-manager-emre-belozoglu/",
+      "first_seen_at": 1793855416,
+      "last_seen_at": 1793855416,
+      "samples": [
+        {
+          "at": 1793855416,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "a38e3b326d3d",
+      "editorial": {
+        "title": "페네르바체, 리버풀전 직전 엠레 감독 선임…18개월 계약 보도",
+        "category": "축구",
+        "url": "https://www.thisisanfield.com/2026/11/fenerbahce-appoint-new-manager-emre-belozoglu/",
+        "source": "This Is Anfield",
+        "kind": "article",
+        "event_key": "fenerbahce-emre-belozoglu-head-coach-appointed-20261103",
+        "why": "주요 구단의 정식 감독 선임으로, 이미 보낸 리버풀전 결과와는 별개인 운영 변화다.",
+        "angle": "엠레 정식 감독 선임→카윗 임시 체제와 역할 구분",
+        "why_now": "실제 선임 공지는 11월3일 화요일 밤으로 본문 확인. 기사 게시4일 날짜 단위. 최초 공지 분은 미확인, 현재48시간 이내 미발송 사건이다.",
+        "verified_at": 1793855242,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.thisisanfield.com/2026/11/fenerbahce-appoint-new-manager-emre-belozoglu/",
+            "note": "기사 본문은 구단의 3일 밤 엠레 벨뢰졸루 감독 선임 발표와 18개월 계약을 전했다. 카윗은 임시 지휘를 맡았고 해당 경기 벤치 역할은 당시 보도들이 엇갈렸다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.thisisanfield.com/2026/11/fenerbahce-appoint-new-manager-emre-belozoglu/",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "구단 원문은403. 독립 기사 본문 확인이며 리버풀전 실제 벤치 지휘·승리는 선임 사실에 덧붙이지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-03",
+          "observation": "기사 본문은 구단의 3일 밤 엠레 벨뢰졸루 감독 선임 발표와 18개월 계약을 전했다. 카윗은 임시 지휘를 맡았고 해당 경기 벤치 역할은 당시 보도들이 엇갈렸다.",
+          "checked_materials": [],
+          "outline": [
+            "3일 밤 정식 감독 선임과 계약 보도 제시",
+            "카윗 임시 체제와 정식 선임을 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://www.thisisanfield.com/2026/11/fenerbahce-appoint-new-manager-emre-belozoglu/"
+          }
+        ],
+        "excerpt": "",
+        "context": "실제 선임 공지는 11월3일 화요일 밤으로 본문 확인. 기사 게시4일 날짜 단위. 최초 공지 분은 미확인, 현재48시간 이내 미발송 사건이다.",
+        "fetched_at": 1793855416,
+        "parser_revision": 7
+      },
+      "curation_event_key": "fenerbahce-emre-belozoglu-head-coach-appointed-20261103"
+    },
+    "7b676d03705a": {
+      "source": "뉴시스",
+      "title": "금융권 37개사 정보유출 47만3000건…580개사 전수점검",
+      "link": "https://www.newsis.com/view/NISX20261105_0003855515",
+      "first_seen_at": 1793855416,
+      "last_seen_at": 1793855416,
+      "samples": [
+        {
+          "at": 1793855416,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "7b676d03705a",
+      "editorial": {
+        "title": "금융권 37개사 정보유출 47만3000건…580개사 전수점검",
+        "category": "시사",
+        "url": "https://www.newsis.com/view/NISX20261105_0003855515",
+        "source": "뉴시스",
+        "kind": "article",
+        "event_key": "financial-cyber-incidents-37-firms-473000-records-580-audit-20261105",
+        "why": "전 금융권 고객 정보 보호와 금융사 내부통제를 바꾸는 전국적 보안 대책이다.",
+        "angle": "확인된 유출 규모→580개사 점검→개인 피해와 구분",
+        "why_now": "금융위가 11월5일 간담회에서 새 집계와 점검 계획을 제시. 기사 최초09:00 KST. 침해사고는9월30일 이후 누적이며 오늘 하루 사고가 아니다.",
+        "verified_at": 1793855211,
+        "published_at": 1793836800,
+        "evidence": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261105_0003855515",
+            "note": "본문에서 9월30일 이후 37개사40건, 정보유출47만3000건과 약580개사 전수점검을 확인했다. 계좌 비밀번호 유출·개별 이용자 자금손실은 현재 확인되지 않았다고 전했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261105_0003855515",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "47만3000건은 사람 수가 아닌 정보 건수다. 오늘 발생한 단일 해킹으로 표현하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "본문에서 9월30일 이후 37개사40건, 정보유출47만3000건과 약580개사 전수점검을 확인했다. 계좌 비밀번호 유출·개별 이용자 자금손실은 현재 확인되지 않았다고 전했다.",
+          "checked_materials": [],
+          "outline": [
+            "누적 피해 집계와 발표일을 구분",
+            "580개사 외부접점·내부통제 점검 설명",
+            "비밀번호 유출·개인 자금손실은 미확인임을 명시"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://www.newsis.com/view/NISX20261105_0003855515"
+          }
+        ],
+        "excerpt": "",
+        "context": "금융위가 11월5일 간담회에서 새 집계와 점검 계획을 제시. 기사 최초09:00 KST. 침해사고는9월30일 이후 누적이며 오늘 하루 사고가 아니다.",
+        "fetched_at": 1793855416,
+        "parser_revision": 7
+      },
+      "curation_event_key": "financial-cyber-incidents-37-firms-473000-records-580-audit-20261105"
+    },
+    "fbd45f99a46a": {
+      "source": "AP·WDBO",
+      "title": "밴스 “이란전이 패인”…중간선거 참패 뒤 전쟁 옹호와 거리두기",
+      "link": "https://www.wdbo.com/news/politics/vance-tries-distance/GW5W5XULY4YT3BBUUIMH7SAZI4/",
+      "first_seen_at": 1793855416,
+      "last_seen_at": 1793855416,
+      "samples": [
+        {
+          "at": 1793855416,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "fbd45f99a46a",
+      "editorial": {
+        "title": "밴스 “이란전이 패인”…중간선거 참패 뒤 전쟁 옹호와 거리두기",
+        "category": "시사",
+        "url": "https://www.wdbo.com/news/politics/vance-tries-distance/GW5W5XULY4YT3BBUUIMH7SAZI4/",
+        "source": "AP·WDBO",
+        "kind": "article",
+        "event_key": "vance-post-midterms-iran-war-blame-public-post-20261104",
+        "why": "현직 부통령이 전쟁과 선거 패배를 공개 연결해 미 행정부 내부 노선 차이를 드러냈다.",
+        "angle": "밴스의 새 공개 글→전쟁을 계속 옹호한 트럼프 반응",
+        "why_now": "실제 발언은11월4일 수요일 SNS 글. WDBO 현 표시는4일17:07 EST이나 갱신 여부가 불명확해 최초 게시 epoch는 비워뒀다.",
+        "verified_at": 1793855242,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.wdbo.com/news/politics/vance-tries-distance/GW5W5XULY4YT3BBUUIMH7SAZI4/",
+            "note": "AP 본문은 밴스가4일 공개 글에서 이란전쟁을 공화당 패배 원인으로 지목했다고 전했다. 트럼프는 전쟁을 옹호하면서 밴스 글에는 괜찮다는 반응을 보였다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.wdbo.com/news/politics/vance-tries-distance/GW5W5XULY4YT3BBUUIMH7SAZI4/",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "패인 진단은 밴스의 주장이다. 대통령과 결별·사임·종전 확정으로 단정하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-04",
+          "observation": "AP 본문은 밴스가4일 공개 글에서 이란전쟁을 공화당 패배 원인으로 지목했다고 전했다. 트럼프는 전쟁을 옹호하면서 밴스 글에는 괜찮다는 반응을 보였다.",
+          "checked_materials": [],
+          "outline": [
+            "4일 밴스 글의 전쟁·선거 패배 연결을 제시",
+            "트럼프가 전쟁을 옹호한 반응을 함께 설명",
+            "실제 결별·사임이나 전쟁 종료 결정으로 확대하지 않기"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://www.wdbo.com/news/politics/vance-tries-distance/GW5W5XULY4YT3BBUUIMH7SAZI4/"
+          }
+        ],
+        "excerpt": "",
+        "context": "실제 발언은11월4일 수요일 SNS 글. WDBO 현 표시는4일17:07 EST이나 갱신 여부가 불명확해 최초 게시 epoch는 비워뒀다.",
+        "fetched_at": 1793855416,
+        "parser_revision": 7
+      },
+      "curation_event_key": "vance-post-midterms-iran-war-blame-public-post-20261104"
+    },
+    "43bef7c82e17": {
+      "source": "더팩트",
+      "title": "조 의장, 오후 3시 ‘조작기소 특검법’ 상정 결정…야당 필리버스터 예고",
+      "link": "https://news.tf.co.kr/read/ptoday/2385241.htm",
+      "first_seen_at": 1793855416,
+      "last_seen_at": 1793855416,
+      "samples": [
+        {
+          "at": 1793855416,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "43bef7c82e17",
+      "editorial": {
+        "title": "조 의장, 오후 3시 ‘조작기소 특검법’ 상정 결정…야당 필리버스터 예고",
+        "category": "시사",
+        "url": "https://news.tf.co.kr/read/ptoday/2385241.htm",
+        "source": "더팩트",
+        "kind": "article",
+        "event_key": "fabricated-prosecution-bill-speaker-plenary-agenda-decision-20261105",
+        "why": "대통령 관련 사건 수사 법안이 위원회를 넘어 본회의 절차로 진입하는 주요 후속이다.",
+        "angle": "의장의 새 상정 결정과 필리버스터 계획부터",
+        "why_now": "11월5일 새 여야 협상 결렬 뒤 의장이15시 본회의 상정 결정. 기사 최초12:11:50 KST, 수정12:20. 전날 법사위 통과와 구분한다.",
+        "verified_at": 1793855212,
+        "published_at": 1793848310,
+        "evidence": [
+          {
+            "url": "https://news.tf.co.kr/read/ptoday/2385241.htm",
+            "note": "본문에서5일 의장의15시 본회의 상정 결정과 여야 협상 결렬을 확인했다. 야당은 해당 특검법 필리버스터 계획을 밝혔다. 본회의 표결·가결은 아직 확인하지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.tf.co.kr/read/ptoday/2385241.htm",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "상정 예정·대응 계획까지 확인했다. 법안 가결이나 의혹의 사실 확정이 아니다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "본문에서5일 의장의15시 본회의 상정 결정과 여야 협상 결렬을 확인했다. 야당은 해당 특검법 필리버스터 계획을 밝혔다. 본회의 표결·가결은 아직 확인하지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "5일 의장 상정 결정과 전날 위원회 통과 구분",
+            "야당 필리버스터 계획을 함께 제시",
+            "예정된 상정을 완료·가결로 표현하지 않기"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://news.tf.co.kr/read/ptoday/2385241.htm"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월5일 새 여야 협상 결렬 뒤 의장이15시 본회의 상정 결정. 기사 최초12:11:50 KST, 수정12:20. 전날 법사위 통과와 구분한다.",
+        "fetched_at": 1793855416,
+        "parser_revision": 7
+      },
+      "curation_event_key": "fabricated-prosecution-bill-speaker-plenary-agenda-decision-20261105"
+    },
     "571a26520dbd": {
       "source": "Reviewing the Brew",
       "title": "애슬레틱스 새 단장에 캠 카스트로…우승팀 밀워키 육성 책임자 영입",
@@ -31180,5 +31609,5 @@
       "curation_event_key": "yoo-si-min-park-si-young-tv-lee-support-base-warning-20261028"
     }
   },
-  "updated_at": 1793848294
+  "updated_at": 1793855416
 }
