@@ -1,5 +1,5 @@
 {
-  "updated_at": 1793887663,
+  "updated_at": 1793920210,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026110514",
+    "hour_utc": "2026110523",
     "category_counts": {
-      "시사": 2,
-      "축구": 1,
+      "시사": 1,
+      "축구": 2,
       "메이저 스포츠": 2,
       "아이돌": 0
     },
-    "research_queries": 37,
-    "opened_sources": 14,
+    "research_queries": 16,
+    "opened_sources": 12,
     "picks": [
       {
-        "title": "세계 1위 된 뒤 첫 경기서 탈락…즈베레프, 파리서 무세티에 0대2",
-        "url": "https://www.rolexparismasters.com/en/news/article/second-round-lorenzo-musetti-victory-alexander-zverev-next-match-van-assche",
-        "event_key": "zverev-first-match-world-number-one-paris-loss-musetti-20261104"
+        "title": "LIV 골프, 운영 종료 절차 전환 공식 발표…재건 금융거래 무산",
+        "url": "https://www.livgolf.com/news/liv-golf-announces-update-on-court-supervised-restructuring-process",
+        "event_key": "liv-golf-official-orderly-wind-down-announcement-20261105"
       },
       {
-        "title": "영란은행, 기준금리 3.75%→4% 인상…중동전쟁발 물가 압력 대응",
-        "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
-        "event_key": "bank-of-england-bank-rate-increase-four-percent-november-20261105"
+        "title": "바르셀로나 주장 하피냐, 2030년까지 재계약…구단 공식 발표",
+        "url": "https://www.fcbarcelona.com/en/football/first-team/news/4604888/raphinha-staying-at-fc-barcelona-until-2030",
+        "event_key": "barcelona-raphinha-contract-extension-signed-through-2030-20261105"
       },
       {
-        "title": "유럽 항공편 최소 25편에 폭발물 위협…회항·전투기 호위 잇따라",
-        "url": "https://www.channelnewsasia.com/world/european-airlines-bomb-threats-hoax-6526981",
-        "event_key": "europe-flights-second-wave-hoax-bomb-threats-20261105"
+        "title": "상대 퇴장에도 홈 0대2…AC밀란, 유로파 4경기 승점 3점",
+        "url": "https://www.acmilan.com/en/news/articles/europa_league/2026-11-05/rossoneri-lose-on-uel-matchday-four",
+        "event_key": "ac-milan-ferencvaros-home-loss-two-nil-europa-league-20261105"
       },
       {
-        "title": "클롭, 퓔크루크 대표팀 복귀 결정…17세 모히아도 독일 A대표 첫 발탁",
-        "url": "https://www.dfb.de/news/fuellkrug-and-mohya-included-as-klopp-names-squad-for-serbia-and-netherlands",
-        "event_key": "germany-klopp-fuellkrug-return-mohya-first-senior-callup-20261105"
+        "title": "나스닥 5.52% 급락…AI·반도체 투매에 美 3대 지수 동반 추락",
+        "url": "https://www.khan.co.kr/article/202611060720001",
+        "event_key": "wall-street-nasdaq-552-percent-selloff-ai-tech-close-20261105"
       },
       {
-        "title": "IPL 첸나이·하이데라바드, 4명 맞교환 확정…리빙스턴은 첸나이로",
-        "url": "https://www.iplt20.com/news/article/csk-and-srh-agree-to-four-player-trade",
-        "event_key": "ipl-csk-srh-livingstone-edwards-khaleel-ellis-four-player-trade-20261105"
+        "title": "선수 사적 대화까지 연습 생중계…WTA, 마이크 고지 누락 책임 인정",
+        "url": "https://www.channelnewsasia.com/sport/wta-takes-blame-after-pegula-comments-andreeva-get-livestreamed-6528736",
+        "event_key": "wta-accepts-responsibility-practice-microphones-pegula-andreeva-20261105"
       }
     ]
   }
