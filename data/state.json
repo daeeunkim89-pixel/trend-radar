@@ -1,5 +1,5 @@
 {
-  "updated_at": 1793873486,
+  "updated_at": 1793877115,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026110510",
+    "hour_utc": "2026110511",
     "category_counts": {
-      "시사": 3,
+      "시사": 1,
       "축구": 2,
-      "메이저 스포츠": 0,
+      "메이저 스포츠": 2,
       "아이돌": 0
     },
-    "research_queries": 33,
-    "opened_sources": 12,
+    "research_queries": 26,
+    "opened_sources": 14,
     "picks": [
       {
-        "title": "케인, 뮌헨과 2029년까지 재계약 확정…구단이 발표",
-        "url": "https://www.channelnewsasia.com/sport/ballon-dor-winner-kane-signs-bayern-extension-until-2029-6527011",
-        "event_key": "bayern-harry-kane-contract-extension-until-2029-announced-20261105"
+        "title": "호날두, 11월 A매치 뒤 포르투갈 대표팀 은퇴 발표",
+        "url": "https://www.channelnewsasia.com/sport/cristiano-ronaldo-retirement-portuguese-national-team-6527276",
+        "event_key": "cristiano-ronaldo-portugal-retirement-after-november-break-announced-20261105"
       },
       {
-        "title": "쿠팡 4236억원 과징금 효력 유지…시정명령만 잠정 중단",
-        "url": "https://www.khan.co.kr/article/202611051807001",
-        "event_key": "coupang-data-breach-fine-stay-rejected-corrective-orders-stayed-20261105"
+        "title": "인판티노에 도전장…다시마, FIFA 회장 선거 출마 의사 표명",
+        "url": "https://www.nikkansports.com/soccer/news/202611050001188.html",
+        "event_key": "kohzo-tashima-fifa-president-election-bid-jfa-backing-20261105"
       },
       {
-        "title": "박항서 인종차별 후속…태국 협회, 팬 2명 등 소환 조사 계획",
-        "url": "https://znews.vn/lien-doan-bong-da-thai-lan-trieu-tap-hlv-park-len-giai-trinh-post1694079.html",
-        "event_key": "fat-park-hang-seo-baggio-two-fans-summons-plan-reported-20261104"
+        "title": "도쿄올림픽 은메달 혼다, 21개월 자격정지…LA 출전 사실상 무산",
+        "url": "https://www.nikkansports.com/sports/news/202611040001825.html",
+        "event_key": "tomoru-honda-jsf-21-month-registration-suspension-20261104"
       },
       {
-        "title": "홍콩 조슈아 웡, 국가보안법 사건서 징역 10년 추가 선고",
-        "url": "https://www.afp.com/en/hong-kong-activist-joshua-wong-sentenced-10-more-years",
-        "event_key": "hong-kong-joshua-wong-foreign-collusion-ten-year-sentence-20261105"
+        "title": "곽도규도 부상 낙마…APBC 대표팀 투수 세 번째 이탈",
+        "url": "https://nwww.newsis.com/view/NISX20261105_0003856288",
+        "event_key": "kwak-do-gyu-left-thigh-injury-apbc-withdrawal-kbo-20261105"
       },
       {
-        "title": "“직무상 비밀”만으론 비공개 못 한다…정보공개법 개정 추진",
-        "url": "https://www.yna.co.kr/amp/view/AKR20261105081100530",
-        "event_key": "information-disclosure-law-nondisclosure-grounds-bill-announced-20261105"
+        "title": "ABB 확인 “중국, 소프트뱅크의 로봇 중국사업 인수 금지”",
+        "url": "https://www.abb.com/global/en/news/140154/update-on-divestment-of-abb-robotics",
+        "event_key": "abb-confirms-china-robotics-business-acquisition-prohibited-20261105"
       }
     ]
   }
