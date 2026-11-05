@@ -1,5 +1,5 @@
 {
-  "updated_at": 1793833549,
+  "updated_at": 1793837350,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026110423",
+    "hour_utc": "2026110500",
     "category_counts": {
-      "시사": 1,
-      "축구": 2,
+      "시사": 2,
+      "축구": 1,
       "메이저 스포츠": 2,
       "아이돌": 0
     },
-    "research_queries": 23,
-    "opened_sources": 7,
+    "research_queries": 9,
+    "opened_sources": 6,
     "picks": [
       {
-        "title": "첫 챔스 시즌에 원정 9대1…파브레가스의 코모, 역대 최다 골 차 타이",
-        "url": "https://football-italia.net/ucl-rc-lens-1-9-como-douvikas-historic-victory/",
-        "event_key": "como-lens-9-1-ucl-record-eight-goal-away-win-20261104"
+        "title": "바르사 로드리, 햄스트링 부상으로 아틀레티코전 결장…복귀 시점은 미정",
+        "url": "https://www.fcbarcelona.com/en/football/first-team/news/4604306/rodri-injury-news/featured",
+        "event_key": "barcelona-rodri-hamstring-atletico-absence-medical-20261104"
       },
       {
-        "title": "두 번 앞서고도 2대3…리버풀, 페네르바체에 역전패하며 챔스 3연승 끝",
-        "url": "https://www.channelnewsasia.com/sport/valverde-rescues-real-liverpool-lose-fenerbahce-6525381",
-        "event_key": "fenerbahce-liverpool-3-2-two-leads-lost-ucl-first-defeat-20261104"
+        "title": "2년 넘게 못 뛴 아이유크, NFL 복귀 신청…49ers와 계약 갈등 다시 수면 위",
+        "url": "https://abcnews.com/Sports/wireStory/receiver-brandon-aiyuk-files-paperwork-reinstated-49ers-137848826",
+        "event_key": "brandon-aiyuk-nfl-reinstatement-paperwork-agent-confirmed-20261104"
       },
       {
-        "title": "파리 체조 메달리스트 바르보수, 소재지 정보 의무 위반으로 2년 출전 정지",
-        "url": "https://gymnastics-now.com/ana-barbosu-suspended-two-years-for-whereabouts-violation/",
-        "event_key": "ana-barbosu-cas-two-year-whereabouts-sanction-decision-20261104"
+        "title": "텍사스 새 주지사 당선인의 데이터센터 승인 유예 공약…AI 투자 불확실성 커졌다",
+        "url": "https://www.channelnewsasia.com/business/texas-data-centers-face-uncertain-future-after-hinojosa-wins-governors-race-6525056",
+        "event_key": "texas-hinojosa-election-data-center-approval-moratorium-policy-20261104"
       },
       {
-        "title": "오페타이아, 헤비급 올라 와일더와 붙는다…퓨리–조슈아 대회 대진 추가",
-        "url": "https://www.netflix.com/tudum/features/fury-joshua-full-fight-card-news-updates",
-        "event_key": "wilder-opetaia-heavyweight-fury-joshua-undercard-announced-20261104"
+        "title": "대통령 도청 의혹에 인도네시아 비서실장 해임…취임 한 달 만에 교체",
+        "url": "https://www.channelnewsasia.com/asia/indonesia-deploys-troops-jakarta-wiretapping-arrests-6523396",
+        "event_key": "indonesia-listyo-chief-of-staff-dismissal-wiretapping-20261104"
       },
       {
-        "title": "美 민주 지도부 ‘관세 멈추고 이란전 끝내겠다’…선거 뒤 정책 대결 예고",
-        "url": "https://web3.newspim.com/news/view/20261105000024",
-        "event_key": "jeffries-schumer-post-midterms-iran-tariff-healthcare-agenda-20261104"
+        "title": "경기 중 목 다쳐 입원한 NFL 캠벨, 첫 성명 “하체 전부 움직인다”",
+        "url": "https://www.prideofdetroit.com/detroit-lions-news/179695/detroit-lions-jack-campbell-injury-update-offers-update-statement-body-movement",
+        "event_key": "jack-campbell-first-statement-lower-body-movement-neck-injury-20261104"
       }
     ]
   }
