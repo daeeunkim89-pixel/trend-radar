@@ -1,5 +1,5 @@
 {
-  "updated_at": 1793862412,
+  "updated_at": 1793869775,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026110507",
+    "hour_utc": "2026110509",
     "category_counts": {
-      "시사": 3,
-      "축구": 0,
-      "메이저 스포츠": 2,
+      "시사": 2,
+      "축구": 3,
+      "메이저 스포츠": 0,
       "아이돌": 0
     },
-    "research_queries": 20,
-    "opened_sources": 8,
+    "research_queries": 28,
+    "opened_sources": 6,
     "picks": [
       {
-        "title": "LIV 호주 대회도 흔들…주총리 “내년 쿠용가 개최 어려워 보인다”",
-        "url": "https://www.channelnewsasia.com/sport/game-set-and-match-australia-casts-doubt-liv-return-amid-financial-uncertainty-6526256",
-        "event_key": "south-australia-premier-liv-kooyonga-2027-event-doubt-20261105"
+        "title": "상대 출전 선수가 부족하자 준결승 포기…53장 퇴장 뒤 뜻밖의 결정",
+        "url": "https://www.channelnewsasia.com/sport/referee-hands-out-record-53-red-cards-after-mass-brawl-erupts-in-brazilian-under-20s-match-6526506",
+        "event_key": "uberlandia-second-leg-forfeit-fair-play-mamore-final-20261104"
       },
       {
-        "title": "자기 경기 전 ATP 파이널스행 확정…필스, 프랑스 선수로 10년 만",
-        "url": "https://www.channelnewsasia.com/sport/frenchman-fils-reaches-atp-finals-first-time-6524431",
-        "event_key": "arthur-fils-first-atp-finals-qualification-halys-tiafoe-20261104"
+        "title": "전남 선수단 폭행 상벌위, 징계 결론 유보…17일 추가 심의",
+        "url": "https://www.yna.co.kr/amp/view/AKR20261105129100007",
+        "event_key": "jeonnam-player-assault-disciplinary-hearing-adjourned-20261105"
       },
       {
-        "title": "‘조작기소 특검법’ 본회의 상정…국힘, 무제한 토론 돌입",
-        "url": "https://www.newsis.com/view/NISX20261105_0003856223",
-        "event_key": "fabricated-prosecution-bill-plenary-tabled-filibuster-started-20261105"
+        "title": "충돌 사고 뒤 오워노, 적도기니 대표팀 명단 제외…협회가 확인",
+        "url": "https://www.channelnewsasia.com/sport/owono-out-cup-nations-qualifiers-6526841",
+        "event_key": "equatorial-guinea-owono-afcon-qualifiers-squad-omission-20261105"
       },
       {
-        "title": "정부 정보공개포털서 주민번호·암 진단 정보 노출…원문 다운로드 중단",
-        "url": "https://www.newspim.com/news/view/20261105001114",
-        "event_key": "government-open-portal-sensitive-data-exposure-download-suspension-20261105"
+        "title": "정부, 코인 과세 2029년으로 추가 유예 추진…손실 이월공제도 검토",
+        "url": "https://www.newspim.com/news/view/20261105000705",
+        "event_key": "government-crypto-tax-2029-deferral-loss-carryforward-plan-20261105"
       },
       {
-        "title": "공화당서도 헤그세스 탄핵 표결 추진…국방장관에 전쟁 책임론",
-        "url": "https://www.newsis.com/view/NISX20261105_0003855824",
-        "event_key": "massie-hegseth-impeachment-vote-plan-post-midterms-20261104"
+        "title": "세월호 ‘단원고 4·16 아카이브’, 세계기록유산 아태 목록 등재",
+        "url": "https://www.yna.co.kr/amp/view/AKR20261105120900005",
+        "event_key": "danwon-sewol-416-archive-mowcap-regional-inscription-20261105"
       }
     ]
   }
