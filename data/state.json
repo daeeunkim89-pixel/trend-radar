@@ -1,5 +1,5 @@
 {
-  "updated_at": 1793877115,
+  "updated_at": 1793880625,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026110511",
+    "hour_utc": "2026110512",
     "category_counts": {
-      "시사": 1,
-      "축구": 2,
+      "시사": 3,
+      "축구": 0,
       "메이저 스포츠": 2,
       "아이돌": 0
     },
-    "research_queries": 26,
-    "opened_sources": 14,
+    "research_queries": 21,
+    "opened_sources": 12,
     "picks": [
       {
-        "title": "호날두, 11월 A매치 뒤 포르투갈 대표팀 은퇴 발표",
-        "url": "https://www.channelnewsasia.com/sport/cristiano-ronaldo-retirement-portuguese-national-team-6527276",
-        "event_key": "cristiano-ronaldo-portugal-retirement-after-november-break-announced-20261105"
+        "title": "웸반야마 52점·24리바운드·8블록…전반에도 30시즌 만의 기록",
+        "url": "https://abcnews.com/amp/Sports/wireStory/wembanyama-career-highs-52-points-24-rebounds-spurs-137867805",
+        "event_key": "wembanyama-52-points-24-rebounds-eight-blocks-dallas-20261104"
       },
       {
-        "title": "인판티노에 도전장…다시마, FIFA 회장 선거 출마 의사 표명",
-        "url": "https://www.nikkansports.com/soccer/news/202611050001188.html",
-        "event_key": "kohzo-tashima-fifa-president-election-bid-jfa-backing-20261105"
+        "title": "베레티니 팔 통증으로 기권…알카라스, 경기 없이 파리 8강행",
+        "url": "https://www.aol.co.uk/articles/carlos-alcaraz-match-cancelled-paris-111500000.html",
+        "event_key": "berrettini-arm-injury-withdrawal-alcaraz-paris-quarterfinal-walkover-20261105"
       },
       {
-        "title": "도쿄올림픽 은메달 혼다, 21개월 자격정지…LA 출전 사실상 무산",
-        "url": "https://www.nikkansports.com/sports/news/202611040001825.html",
-        "event_key": "tomoru-honda-jsf-21-month-registration-suspension-20261104"
+        "title": "수능 AI안경 우려에 대통령 지시…공공시험 전반 종합대책 마련",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975118",
+        "event_key": "president-smart-glasses-cheating-public-exams-countermeasures-order-20261105"
       },
       {
-        "title": "곽도규도 부상 낙마…APBC 대표팀 투수 세 번째 이탈",
-        "url": "https://nwww.newsis.com/view/NISX20261105_0003856288",
-        "event_key": "kwak-do-gyu-left-thigh-injury-apbc-withdrawal-kbo-20261105"
+        "title": "토요타, 5년간 최대 14조엔 주주환원…성장투자엔 22조엔",
+        "url": "https://global.toyota/pages/global_toyota/ir/financial-results/2027_2q_presentation_2_en.pdf",
+        "event_key": "toyota-five-year-11-14-trillion-yen-shareholder-returns-plan-20261105"
       },
       {
-        "title": "ABB 확인 “중국, 소프트뱅크의 로봇 중국사업 인수 금지”",
-        "url": "https://www.abb.com/global/en/news/140154/update-on-divestment-of-abb-robotics",
-        "event_key": "abb-confirms-china-robotics-business-acquisition-prohibited-20261105"
+        "title": "英 정부, 스카이의 ITV 방송사업 인수에 공익 심사 개입",
+        "url": "https://www.gov.uk/government/publications/public-interest-intervention-notice-issued-by-secretary-of-state-lisa-nandy--2/public-interest-intervention-notice-issued-by-secretary-of-state-lisa-nandy",
+        "event_key": "uk-sky-itv-public-interest-intervention-notice-issued-20261104"
       }
     ]
   }

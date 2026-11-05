@@ -1,6 +1,443 @@
 {
   "version": 1,
   "items": {
+    "3b06f9e18706": {
+      "source": "영국 정부 DCMS",
+      "title": "英 정부, 스카이의 ITV 방송사업 인수에 공익 심사 개입",
+      "link": "https://www.gov.uk/government/publications/public-interest-intervention-notice-issued-by-secretary-of-state-lisa-nandy--2/public-interest-intervention-notice-issued-by-secretary-of-state-lisa-nandy",
+      "first_seen_at": 1793877114,
+      "last_seen_at": 1793880625,
+      "samples": [
+        {
+          "at": 1793877114,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        },
+        {
+          "at": 1793880625,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "official",
+      "story_id": "3b06f9e18706",
+      "editorial": {
+        "title": "英 정부, 스카이의 ITV 방송사업 인수에 공익 심사 개입",
+        "category": "시사",
+        "url": "https://www.gov.uk/government/publications/public-interest-intervention-notice-issued-by-secretary-of-state-lisa-nandy--2/public-interest-intervention-notice-issued-by-secretary-of-state-lisa-nandy",
+        "source": "영국 정부 DCMS",
+        "kind": "official",
+        "event_key": "uk-sky-itv-public-interest-intervention-notice-issued-20261104",
+        "why": "영국 주요 방송사의 소유 집중과 뉴스 다양성을 정부가 공식 심사에 올렸다.",
+        "angle": "방송사 인수 공익 심사 → 뉴스 다양성 쟁점",
+        "why_now": "공식 개입 통지는 11월 4일. GOV.UK metadata 최초 게시 4일 22:24:02 KST. 과거 개입 검토 의사와 새 공식 통지를 구분한다.",
+        "verified_at": 1793880473,
+        "published_at": 1793798642,
+        "evidence": [
+          {
+            "url": "https://www.gov.uk/government/publications/public-interest-intervention-notice-issued-by-secretary-of-state-lisa-nandy--2/public-interest-intervention-notice-issued-by-secretary-of-state-lisa-nandy",
+            "note": "공식 통지에서 스카이의 ITV M&E 인수에 공익 심사를 개입시키고 CMA·Ofcom에 2027년 1월 27일 17시까지 보고하도록 요구한 사실을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.gov.uk/government/publications/public-interest-intervention-notice-issued-by-secretary-of-state-lisa-nandy--2/public-interest-intervention-notice-issued-by-secretary-of-state-lisa-nandy",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "인수 금지·허가 확정이 아닌 조사 단계다. 보고 시각은 영국 현지 기준이다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-04",
+          "observation": "공식 통지에서 스카이의 ITV M&E 인수에 공익 심사를 개입시키고 CMA·Ofcom에 2027년 1월 27일 17시까지 보고하도록 요구한 사실을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "공식 공익 개입 통지 발행",
+            "뉴스 다양성과 보고 절차"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.gov.uk/government/publications/public-interest-intervention-notice-issued-by-secretary-of-state-lisa-nandy--2/public-interest-intervention-notice-issued-by-secretary-of-state-lisa-nandy"
+          }
+        ],
+        "excerpt": "",
+        "context": "공식 개입 통지는 11월 4일. GOV.UK metadata 최초 게시 4일 22:24:02 KST. 과거 개입 검토 의사와 새 공식 통지를 구분한다.",
+        "fetched_at": 1793880625,
+        "parser_revision": 7
+      },
+      "curation_event_key": "uk-sky-itv-public-interest-intervention-notice-issued-20261104"
+    },
+    "a67f950a70fa": {
+      "source": "AP·ABC News",
+      "title": "웸반야마 52점·24리바운드·8블록…전반에도 30시즌 만의 기록",
+      "link": "https://abcnews.com/amp/Sports/wireStory/wembanyama-career-highs-52-points-24-rebounds-spurs-137867805",
+      "first_seen_at": 1793880625,
+      "last_seen_at": 1793880625,
+      "samples": [
+        {
+          "at": 1793880625,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "a67f950a70fa",
+      "editorial": {
+        "title": "웸반야마 52점·24리바운드·8블록…전반에도 30시즌 만의 기록",
+        "category": "메이저 스포츠",
+        "url": "https://abcnews.com/amp/Sports/wireStory/wembanyama-career-highs-52-points-24-rebounds-spurs-137867805",
+        "source": "AP·ABC News",
+        "kind": "article",
+        "event_key": "wembanyama-52-points-24-rebounds-eight-blocks-dallas-20261104",
+        "why": "개인 최다 득점·리바운드와 30시즌 만의 전반 기록이 한 경기에서 겹친 이례적 활약이다.",
+        "angle": "52·24·8 → 전반 29점·15리바운드·5블록",
+        "why_now": "경기는 11월 4일 미국 현지 밤. AP 원문 최초 게시 5일 14:43:48 KST·15:52:54 수정. 실제 경기와 기사 시각을 구분한다.",
+        "verified_at": 1793880447,
+        "published_at": 1793857428,
+        "evidence": [
+          {
+            "url": "https://abcnews.com/amp/Sports/wireStory/wembanyama-career-highs-52-points-24-rebounds-spurs-137867805",
+            "note": "AP 본문은 52점·24리바운드·8블록과 전반 29점·15리바운드·5블록을 확인했다. 전반 25점·10리바운드·5블록 이상은 1996~97시즌 이후 처음이다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://abcnews.com/amp/Sports/wireStory/wembanyama-career-highs-52-points-24-rebounds-spurs-137867805",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "영상은 시청하지 않았다. 전반 기록의 비교 범위는 플레이바이플레이 집계가 시작된 1996~97시즌 이후다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-04",
+          "observation": "AP 본문은 52점·24리바운드·8블록과 전반 29점·15리바운드·5블록을 확인했다. 전반 25점·10리바운드·5블록 이상은 1996~97시즌 이후 처음이다.",
+          "checked_materials": [],
+          "outline": [
+            "경기 전체 52점·24리바운드·8블록",
+            "전반 기록의 역사적 비교 범위"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://abcnews.com/amp/Sports/wireStory/wembanyama-career-highs-52-points-24-rebounds-spurs-137867805"
+          }
+        ],
+        "excerpt": "",
+        "context": "경기는 11월 4일 미국 현지 밤. AP 원문 최초 게시 5일 14:43:48 KST·15:52:54 수정. 실제 경기와 기사 시각을 구분한다.",
+        "fetched_at": 1793880625,
+        "parser_revision": 7
+      },
+      "curation_event_key": "wembanyama-52-points-24-rebounds-eight-blocks-dallas-20261104"
+    },
+    "bcd5c9d5d4c8": {
+      "source": "Express·AOL",
+      "title": "베레티니 팔 통증으로 기권…알카라스, 경기 없이 파리 8강행",
+      "link": "https://www.aol.co.uk/articles/carlos-alcaraz-match-cancelled-paris-111500000.html",
+      "first_seen_at": 1793880625,
+      "last_seen_at": 1793880625,
+      "samples": [
+        {
+          "at": 1793880625,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "bcd5c9d5d4c8",
+      "editorial": {
+        "title": "베레티니 팔 통증으로 기권…알카라스, 경기 없이 파리 8강행",
+        "category": "메이저 스포츠",
+        "url": "https://www.aol.co.uk/articles/carlos-alcaraz-match-cancelled-paris-111500000.html",
+        "source": "Express·AOL",
+        "kind": "article",
+        "event_key": "berrettini-arm-injury-withdrawal-alcaraz-paris-quarterfinal-walkover-20261105",
+        "why": "마스터스 1000의 유력 우승 후보가 16강을 치르지 않고 8강으로 올라가 대진이 바뀌었다.",
+        "angle": "베레티니 기권 → 알카라스 8강 확정",
+        "why_now": "5일 철회 발표. 확인 기사 최초 게시 20:15 KST·20:37:33 수정. 공식 SNS 최초 공개 분은 미확인. 대회 결과표의 W/O도 확인.",
+        "verified_at": 1793880394,
+        "published_at": 1793877300,
+        "evidence": [
+          {
+            "url": "https://www.aol.co.uk/articles/carlos-alcaraz-match-cancelled-paris-111500000.html",
+            "note": "기사에서 베레티니가 팔 통증 때문에 출전하지 못하고 검사를 받겠다고 밝힌 내용을 확인했다. 공식 대회 결과표도 알카라스의 기권승을 표시한다."
+          },
+          {
+            "url": "https://www.rolexparismasters.com/en/schedule-and-results",
+            "note": "11월 5일 16강 베레티니–알카라스 대진에 W/O가 표시된 공식 결과표를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.aol.co.uk/articles/carlos-alcaraz-match-cancelled-paris-111500000.html",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "진단명·복귀 일정은 미확인이다. 세트 승리·경기 중 기권이 아닌 경기 전 철회다. SNS 영상은 미시청.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "기사에서 베레티니가 팔 통증 때문에 출전하지 못하고 검사를 받겠다고 밝힌 내용을 확인했다. 공식 대회 결과표도 알카라스의 기권승을 표시한다.",
+          "checked_materials": [],
+          "outline": [
+            "베레티니의 경기 전 철회",
+            "공식 W/O와 알카라스 8강 진출"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.aol.co.uk/articles/carlos-alcaraz-match-cancelled-paris-111500000.html"
+          }
+        ],
+        "excerpt": "",
+        "context": "5일 철회 발표. 확인 기사 최초 게시 20:15 KST·20:37:33 수정. 공식 SNS 최초 공개 분은 미확인. 대회 결과표의 W/O도 확인.",
+        "fetched_at": 1793880625,
+        "parser_revision": 7
+      },
+      "curation_event_key": "berrettini-arm-injury-withdrawal-alcaraz-paris-quarterfinal-walkover-20261105"
+    },
+    "a4f3c04e5a21": {
+      "source": "정책브리핑",
+      "title": "수능 AI안경 우려에 대통령 지시…공공시험 전반 종합대책 마련",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148975118",
+      "first_seen_at": 1793880625,
+      "last_seen_at": 1793880625,
+      "samples": [
+        {
+          "at": 1793880625,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "official",
+      "story_id": "a4f3c04e5a21",
+      "editorial": {
+        "title": "수능 AI안경 우려에 대통령 지시…공공시험 전반 종합대책 마련",
+        "category": "시사",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975118",
+        "source": "정책브리핑",
+        "kind": "official",
+        "event_key": "president-smart-glasses-cheating-public-exams-countermeasures-order-20261105",
+        "why": "수능뿐 아니라 공공·학교 시험 전체의 공정성과 감독관 보호를 함께 다루는 전국 단위 지시다.",
+        "angle": "스마트안경 부정행위 대응 → 모든 공공시험으로",
+        "why_now": "5일 수석보좌관회의의 새 지시를 공식 정책브리핑 본문에서 확인했다. 공식 페이지는 날짜만 표시하며 최초 공개 분은 미확인.",
+        "verified_at": 1793880422,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975118",
+            "note": "대통령은 5일 스마트안경 부정행위 차단, 감독관 교육·보호, 국가·공공기관·학교 시험의 종합대책 마련을 지시했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975118",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "새 형벌·응시자격 제재 확정 발표가 아니다. 10월에 나온 기존 반입금지·제재 규정을 오늘 신설한 것으로 쓰지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "대통령은 5일 스마트안경 부정행위 차단, 감독관 교육·보호, 국가·공공기관·학교 시험의 종합대책 마련을 지시했다.",
+          "checked_materials": [],
+          "outline": [
+            "5일의 새 종합대책 지시",
+            "대상 시험과 감독관 보호 범위"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975118"
+          }
+        ],
+        "excerpt": "",
+        "context": "5일 수석보좌관회의의 새 지시를 공식 정책브리핑 본문에서 확인했다. 공식 페이지는 날짜만 표시하며 최초 공개 분은 미확인.",
+        "fetched_at": 1793880625,
+        "parser_revision": 7
+      },
+      "curation_event_key": "president-smart-glasses-cheating-public-exams-countermeasures-order-20261105"
+    },
+    "1258f8d323d0": {
+      "source": "토요타 공식 발표",
+      "title": "토요타, 5년간 최대 14조엔 주주환원…성장투자엔 22조엔",
+      "link": "https://global.toyota/pages/global_toyota/ir/financial-results/2027_2q_presentation_2_en.pdf",
+      "first_seen_at": 1793880625,
+      "last_seen_at": 1793880625,
+      "samples": [
+        {
+          "at": 1793880625,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "official",
+      "story_id": "1258f8d323d0",
+      "editorial": {
+        "title": "토요타, 5년간 최대 14조엔 주주환원…성장투자엔 22조엔",
+        "category": "시사",
+        "url": "https://global.toyota/pages/global_toyota/ir/financial-results/2027_2q_presentation_2_en.pdf",
+        "source": "토요타 공식 발표",
+        "kind": "official",
+        "event_key": "toyota-five-year-11-14-trillion-yen-shareholder-returns-plan-20261105",
+        "why": "세계 최대 완성차 업체가 막대한 현금을 투자와 주주환원에 어떻게 나눌지 새 자본배분 방침을 제시했다.",
+        "angle": "환원 11~14조엔 vs 설비·R&D 22조엔",
+        "why_now": "5일 공식 2분기 발표자료 29쪽에서 확인한 향후 5년 계획이다. 공식 자료의 최초 게시 분은 미확인. 당일 보도 갱신 시각과 구분한다.",
+        "verified_at": 1793880470,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://global.toyota/pages/global_toyota/ir/financial-results/2027_2q_presentation_2_en.pdf",
+            "note": "공식 슬라이드는 향후 5년간 주주환원 11~14조엔, 설비투자·R&D 22조엔, 2031년 3월 말 순유동자산 7조엔의 자금배분 계획을 제시했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://global.toyota/pages/global_toyota/ir/financial-results/2027_2q_presentation_2_en.pdf",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "미래 계획이며 집행 완료가 아니다. 14조엔 전부를 자사주 매입액으로 쓰거나 투자수익을 보장하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "공식 슬라이드는 향후 5년간 주주환원 11~14조엔, 설비투자·R&D 22조엔, 2031년 3월 말 순유동자산 7조엔의 자금배분 계획을 제시했다.",
+          "checked_materials": [],
+          "outline": [
+            "향후 5년 주주환원 11~14조엔",
+            "성장투자 22조엔과 비상 유동성의 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://global.toyota/pages/global_toyota/ir/financial-results/2027_2q_presentation_2_en.pdf"
+          }
+        ],
+        "excerpt": "",
+        "context": "5일 공식 2분기 발표자료 29쪽에서 확인한 향후 5년 계획이다. 공식 자료의 최초 게시 분은 미확인. 당일 보도 갱신 시각과 구분한다.",
+        "fetched_at": 1793880625,
+        "parser_revision": 7
+      },
+      "curation_event_key": "toyota-five-year-11-14-trillion-yen-shareholder-returns-plan-20261105"
+    },
+    "102c11950217": {
+      "source": "CNA·Reuters",
+      "title": "IPL 첸나이–하이데라바드, 리빙스턴 포함 4명 맞교환 확정",
+      "link": "https://www.channelnewsasia.com/sport/csk-srh-complete-four-player-trade-ahead-ipl-2027-6527286",
+      "first_seen_at": 1793880625,
+      "last_seen_at": 1793880625,
+      "samples": [
+        {
+          "at": 1793880625,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "102c11950217",
+      "editorial": {
+        "title": "IPL 첸나이–하이데라바드, 리빙스턴 포함 4명 맞교환 확정",
+        "category": "메이저 스포츠",
+        "url": "https://www.channelnewsasia.com/sport/csk-srh-complete-four-player-trade-ahead-ipl-2027-6527286",
+        "source": "CNA·Reuters",
+        "kind": "article",
+        "event_key": "ipl-csk-srh-livingstone-edwards-khaleel-ellis-four-player-trade-20261105",
+        "why": "세계 주요 크리켓 리그의 다섯 차례 우승팀이 주력 선수 4명의 맞교환으로 전력 구성을 바꿨다.",
+        "angle": "리빙스턴·에드워즈와 아흐메드·엘리스 맞교환",
+        "why_now": "5일 IPL 주최 측 발표를 인용한 Reuters/CNA 본문 확인. 원문 최초 게시 19:51:53 KST이며 주최 측 최초 발표 분은 미확인.",
+        "verified_at": 1793880398,
+        "published_at": 1793875913,
+        "evidence": [
+          {
+            "url": "https://www.channelnewsasia.com/sport/csk-srh-complete-four-player-trade-ahead-ipl-2027-6527286",
+            "note": "첸나이가 리빙스턴·에드워즈를 받고 하이데라바드가 칼릴 아흐메드·네이선 엘리스를 받는 4명 교환을 주최 측이 발표했다고 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.channelnewsasia.com/sport/csk-srh-complete-four-player-trade-ahead-ipl-2027-6527286",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "2027시즌을 위한 거래다. 루머와 구분하되 우승 가능성·선수 성적을 예측하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "첸나이가 리빙스턴·에드워즈를 받고 하이데라바드가 칼릴 아흐메드·네이선 엘리스를 받는 4명 교환을 주최 측이 발표했다고 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "4명의 이동 방향",
+            "2027시즌 전력 구성 변화"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.channelnewsasia.com/sport/csk-srh-complete-four-player-trade-ahead-ipl-2027-6527286"
+          }
+        ],
+        "excerpt": "",
+        "context": "5일 IPL 주최 측 발표를 인용한 Reuters/CNA 본문 확인. 원문 최초 게시 19:51:53 KST이며 주최 측 최초 발표 분은 미확인.",
+        "fetched_at": 1793880625,
+        "parser_revision": 7
+      },
+      "curation_event_key": "ipl-csk-srh-livingstone-edwards-khaleel-ellis-four-player-trade-20261105"
+    },
     "99024662be12": {
       "source": "CNA·Reuters",
       "title": "호날두, 11월 A매치 뒤 포르투갈 대표팀 은퇴 발표",
@@ -355,77 +792,6 @@
         "parser_revision": 7
       },
       "curation_event_key": "abb-confirms-china-robotics-business-acquisition-prohibited-20261105"
-    },
-    "3b06f9e18706": {
-      "source": "영국 정부 DCMS",
-      "title": "英 정부, 스카이의 ITV 방송사업 인수에 공익 심사 개입",
-      "link": "https://www.gov.uk/government/publications/public-interest-intervention-notice-issued-by-secretary-of-state-lisa-nandy--2/public-interest-intervention-notice-issued-by-secretary-of-state-lisa-nandy",
-      "first_seen_at": 1793877114,
-      "last_seen_at": 1793877114,
-      "samples": [
-        {
-          "at": 1793877114,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "official",
-      "story_id": "3b06f9e18706",
-      "editorial": {
-        "title": "英 정부, 스카이의 ITV 방송사업 인수에 공익 심사 개입",
-        "category": "시사",
-        "url": "https://www.gov.uk/government/publications/public-interest-intervention-notice-issued-by-secretary-of-state-lisa-nandy--2/public-interest-intervention-notice-issued-by-secretary-of-state-lisa-nandy",
-        "source": "영국 정부 DCMS",
-        "kind": "official",
-        "event_key": "uk-sky-itv-public-interest-intervention-notice-issued-20261104",
-        "why": "영국 주요 방송사의 소유 집중과 뉴스 다양성을 정부가 공식 심사에 올렸다.",
-        "angle": "방송사 인수 공익 심사 → 뉴스 다양성 쟁점",
-        "why_now": "공식 개입 통지는 11월 4일. GOV.UK metadata 최초 게시 4일 22:24:02 KST. 과거 개입 검토 의사와 새 공식 통지를 구분한다.",
-        "verified_at": 1793876899,
-        "published_at": 1793798642,
-        "evidence": [
-          {
-            "url": "https://www.gov.uk/government/publications/public-interest-intervention-notice-issued-by-secretary-of-state-lisa-nandy--2/public-interest-intervention-notice-issued-by-secretary-of-state-lisa-nandy",
-            "note": "공식 통지에서 스카이의 ITV M&E 인수에 공익 심사를 개입시키고 CMA·Ofcom에 2027년 1월 27일 17시까지 보고하도록 요구한 사실을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.gov.uk/government/publications/public-interest-intervention-notice-issued-by-secretary-of-state-lisa-nandy--2/public-interest-intervention-notice-issued-by-secretary-of-state-lisa-nandy",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "인수 금지·허가 확정이 아닌 조사 단계다. 보고 시각은 영국 현지 기준이다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-04",
-          "observation": "공식 통지에서 스카이의 ITV M&E 인수에 공익 심사를 개입시키고 CMA·Ofcom에 2027년 1월 27일 17시까지 보고하도록 요구한 사실을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "공식 공익 개입 통지 발행",
-            "뉴스 다양성과 보고 절차"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://www.gov.uk/government/publications/public-interest-intervention-notice-issued-by-secretary-of-state-lisa-nandy--2/public-interest-intervention-notice-issued-by-secretary-of-state-lisa-nandy"
-          }
-        ],
-        "excerpt": "",
-        "context": "공식 개입 통지는 11월 4일. GOV.UK metadata 최초 게시 4일 22:24:02 KST. 과거 개입 검토 의사와 새 공식 통지를 구분한다.",
-        "fetched_at": 1793877114,
-        "parser_revision": 7
-      },
-      "curation_event_key": "uk-sky-itv-public-interest-intervention-notice-issued-20261104"
     },
     "9d8692c2787e": {
       "source": "연합뉴스",
@@ -30990,5 +31356,5 @@
       "curation_event_key": "sesko-manchester-united-recurring-shin-injury-recovery-report-20261029"
     }
   },
-  "updated_at": 1793877114
+  "updated_at": 1793880625
 }
