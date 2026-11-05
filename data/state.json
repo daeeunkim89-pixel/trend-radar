@@ -1,5 +1,5 @@
 {
-  "updated_at": 1793837350,
+  "updated_at": 1793841245,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026110500",
+    "hour_utc": "2026110501",
     "category_counts": {
-      "시사": 2,
-      "축구": 1,
+      "시사": 1,
+      "축구": 2,
       "메이저 스포츠": 2,
       "아이돌": 0
     },
-    "research_queries": 9,
+    "research_queries": 33,
     "opened_sources": 6,
     "picks": [
       {
-        "title": "바르사 로드리, 햄스트링 부상으로 아틀레티코전 결장…복귀 시점은 미정",
-        "url": "https://www.fcbarcelona.com/en/football/first-team/news/4604306/rodri-injury-news/featured",
-        "event_key": "barcelona-rodri-hamstring-atletico-absence-medical-20261104"
+        "title": "두 번 뒤지고도 뒤집었다…발베르데 추가시간 결승골로 레알 챔스 4연승",
+        "url": "https://www.uefa.com/uefachampionsleague/news/02ab-21fe508a035b-5eed0199e0b2-1000--champions-league-round-up-como-equal-biggest-ever-win-real/",
+        "event_key": "real-madrid-aek-two-comebacks-valverde-stoppage-winner-20261104"
       },
       {
-        "title": "2년 넘게 못 뛴 아이유크, NFL 복귀 신청…49ers와 계약 갈등 다시 수면 위",
-        "url": "https://abcnews.com/Sports/wireStory/receiver-brandon-aiyuk-files-paperwork-reinstated-49ers-137848826",
-        "event_key": "brandon-aiyuk-nfl-reinstatement-paperwork-agent-confirmed-20261104"
+        "title": "건강 문제로 이탈한 포르징기스…워리어스, 연봉 지급 보류 보도",
+        "url": "https://www.goldenstateofmind.com/warriors-news/113220/warriors-kristaps-porzingis-withhold-payment",
+        "event_key": "warriors-porzingis-salary-payments-withheld-report-20261104"
       },
       {
-        "title": "텍사스 새 주지사 당선인의 데이터센터 승인 유예 공약…AI 투자 불확실성 커졌다",
-        "url": "https://www.channelnewsasia.com/business/texas-data-centers-face-uncertain-future-after-hinojosa-wins-governors-race-6525056",
-        "event_key": "texas-hinojosa-election-data-center-approval-moratorium-policy-20261104"
+        "title": "조코비치, 세계 83위에 역전패…ATP 파이널스 진출 무산",
+        "url": "https://www.channelnewsasia.com/sport/zverev-falls-in-first-match-world-number-one-djokovics-atp-finals-hopes-over-6524836",
+        "event_key": "djokovic-hijikata-paris-second-round-atp-finals-elimination-20261104"
       },
       {
-        "title": "대통령 도청 의혹에 인도네시아 비서실장 해임…취임 한 달 만에 교체",
-        "url": "https://www.channelnewsasia.com/asia/indonesia-deploys-troops-jakarta-wiretapping-arrests-6523396",
-        "event_key": "indonesia-listyo-chief-of-staff-dismissal-wiretapping-20261104"
+        "title": "공군1호기 명단 유출 새 경위…“보안업체가 식별값 대신 원본 올린 정황”",
+        "url": "https://imnews.imbc.com/news/2026/politics/article/6863333_36911.html",
+        "event_key": "air-force-one-passenger-list-vendor-original-file-upload-findings-20261105"
       },
       {
-        "title": "경기 중 목 다쳐 입원한 NFL 캠벨, 첫 성명 “하체 전부 움직인다”",
-        "url": "https://www.prideofdetroit.com/detroit-lions-news/179695/detroit-lions-jack-campbell-injury-update-offers-update-statement-body-movement",
-        "event_key": "jack-campbell-first-statement-lower-body-movement-neck-injury-20261104"
+        "title": "나이지리아, 브라질 꺾고 여자 U-17 월드컵 첫 결승…일본과 우승 다툰다",
+        "url": "https://www.cafonline.com/womens-football/news/nigeria-reach-fifa-u-17-women-s-world-cup-final-after-defeating-brazil/",
+        "event_key": "nigeria-brazil-u17-womens-world-cup-maiden-final-20261104"
       }
     ]
   }

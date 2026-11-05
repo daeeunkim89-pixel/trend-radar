@@ -1,6 +1,436 @@
 {
   "version": 1,
   "items": {
+    "ff172c8b4008": {
+      "source": "UEFA",
+      "title": "두 번 뒤지고도 뒤집었다…발베르데 추가시간 결승골로 레알 챔스 4연승",
+      "link": "https://www.uefa.com/uefachampionsleague/news/02ab-21fe508a035b-5eed0199e0b2-1000--champions-league-round-up-como-equal-biggest-ever-win-real/",
+      "first_seen_at": 1793841245,
+      "last_seen_at": 1793841245,
+      "samples": [
+        {
+          "at": 1793841245,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "official",
+      "story_id": "ff172c8b4008",
+      "editorial": {
+        "title": "두 번 뒤지고도 뒤집었다…발베르데 추가시간 결승골로 레알 챔스 4연승",
+        "category": "축구",
+        "url": "https://www.uefa.com/uefachampionsleague/news/02ab-21fe508a035b-5eed0199e0b2-1000--champions-league-round-up-como-equal-biggest-ever-win-real/",
+        "source": "UEFA",
+        "kind": "official",
+        "event_key": "real-madrid-aek-two-comebacks-valverde-stoppage-winner-20261104",
+        "why": "레알이 원정에서 두 차례 실점 뒤 따라붙고 추가시간에 승부를 뒤집어 챔스 전승을 지켰다.",
+        "angle": "두 번의 AEK 리드→벨링엄·음바페 동점→발베르데 추가시간 결승골 순서.",
+        "why_now": "경기는 현지 11월4일. UEFA 본문 최초 게시 4일22:39 UTC, 5일00:36 갱신은 최초 공개와 구분.",
+        "verified_at": 1793840801,
+        "published_at": 1793831940,
+        "evidence": [
+          {
+            "url": "https://www.uefa.com/uefachampionsleague/news/02ab-21fe508a035b-5eed0199e0b2-1000--champions-league-round-up-como-equal-biggest-ever-win-real/",
+            "note": "UEFA 경기 본문에서 AEK가 두 차례 앞섰고 벨링엄·음바페가 동점, 발베르데가 추가시간 원거리 결승골을 넣어 레알이 3-2로 이긴 사실을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.uefa.com/uefachampionsleague/news/02ab-21fe508a035b-5eed0199e0b2-1000--champions-league-round-up-como-equal-biggest-ever-win-real/",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "기사 본문 검증이며 하이라이트 영상은 시청하지 않았다. 다른 경기 결과를 이 사건에 섞지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-04",
+          "observation": "UEFA 경기 본문에서 AEK가 두 차례 앞섰고 벨링엄·음바페가 동점, 발베르데가 추가시간 원거리 결승골을 넣어 레알이 3-2로 이긴 사실을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "두 번의 AEK 리드→벨링엄·음바페 동점→발베르데 추가시간 결승골 순서.",
+            "기사 본문 검증이며 하이라이트 영상은 시청하지 않았다. 다른 경기 결과를 이 사건에 섞지 않는다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.uefa.com/uefachampionsleague/news/02ab-21fe508a035b-5eed0199e0b2-1000--champions-league-round-up-como-equal-biggest-ever-win-real/"
+          }
+        ],
+        "excerpt": "",
+        "context": "경기는 현지 11월4일. UEFA 본문 최초 게시 4일22:39 UTC, 5일00:36 갱신은 최초 공개와 구분.",
+        "fetched_at": 1793841245,
+        "parser_revision": 7
+      },
+      "curation_event_key": "real-madrid-aek-two-comebacks-valverde-stoppage-winner-20261104"
+    },
+    "6bb594b79343": {
+      "source": "Golden State of Mind / ESPN 인용",
+      "title": "건강 문제로 이탈한 포르징기스…워리어스, 연봉 지급 보류 보도",
+      "link": "https://www.goldenstateofmind.com/warriors-news/113220/warriors-kristaps-porzingis-withhold-payment",
+      "first_seen_at": 1793841245,
+      "last_seen_at": 1793841245,
+      "samples": [
+        {
+          "at": 1793841245,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "6bb594b79343",
+      "editorial": {
+        "title": "건강 문제로 이탈한 포르징기스…워리어스, 연봉 지급 보류 보도",
+        "category": "메이저 스포츠",
+        "url": "https://www.goldenstateofmind.com/warriors-news/113220/warriors-kristaps-porzingis-withhold-payment",
+        "source": "Golden State of Mind / ESPN 인용",
+        "kind": "article",
+        "event_key": "warriors-porzingis-salary-payments-withheld-report-20261104",
+        "why": "NBA 우승 경력 센터의 장기 이탈이 실제 급여 지급 문제로 번지며 구단과 선수의 계약 관계가 쟁점이 됐다.",
+        "angle": "급여 지급 보류 보도→서비스 미제공이라는 사유→계약 무효와는 구분.",
+        "why_now": "급여 보류는 11월4일의 새 보도. 확인 기사 최초 게시 4일18:18:16 UTC(5일03:18 KST). 이전 이적 검토 보도와 구분.",
+        "verified_at": 1793840726,
+        "published_at": 1793816296,
+        "evidence": [
+          {
+            "url": "https://www.goldenstateofmind.com/warriors-news/113220/warriors-kristaps-porzingis-withhold-payment",
+            "note": "본문에서 ESPN 취재를 인용해 구단이 급여 지급을 보류하고 있다는 내용과, 계약 무효화는 현재 검토하지 않는다는 보도를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.goldenstateofmind.com/warriors-news/113220/warriors-kristaps-porzingis-withhold-payment",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "익명 취재원 기반 보도이며 구단 공식 발표는 미확인. 건강 상태·지급 보류의 적법성·은퇴나 이적을 단정하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-04",
+          "observation": "본문에서 ESPN 취재를 인용해 구단이 급여 지급을 보류하고 있다는 내용과, 계약 무효화는 현재 검토하지 않는다는 보도를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "급여 지급 보류 보도→서비스 미제공이라는 사유→계약 무효와는 구분.",
+            "익명 취재원 기반 보도이며 구단 공식 발표는 미확인. 건강 상태·지급 보류의 적법성·은퇴나 이적을 단정하지 않는다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.goldenstateofmind.com/warriors-news/113220/warriors-kristaps-porzingis-withhold-payment"
+          }
+        ],
+        "excerpt": "",
+        "context": "급여 보류는 11월4일의 새 보도. 확인 기사 최초 게시 4일18:18:16 UTC(5일03:18 KST). 이전 이적 검토 보도와 구분.",
+        "fetched_at": 1793841245,
+        "parser_revision": 7
+      },
+      "curation_event_key": "warriors-porzingis-salary-payments-withheld-report-20261104"
+    },
+    "a9a91d193e90": {
+      "source": "Reuters / CNA",
+      "title": "조코비치, 세계 83위에 역전패…ATP 파이널스 진출 무산",
+      "link": "https://www.channelnewsasia.com/sport/zverev-falls-in-first-match-world-number-one-djokovics-atp-finals-hopes-over-6524836",
+      "first_seen_at": 1793841245,
+      "last_seen_at": 1793841245,
+      "samples": [
+        {
+          "at": 1793841245,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "a9a91d193e90",
+      "editorial": {
+        "title": "조코비치, 세계 83위에 역전패…ATP 파이널스 진출 무산",
+        "category": "메이저 스포츠",
+        "url": "https://www.channelnewsasia.com/sport/zverev-falls-in-first-match-world-number-one-djokovics-atp-finals-hopes-over-6524836",
+        "source": "Reuters / CNA",
+        "kind": "article",
+        "event_key": "djokovic-hijikata-paris-second-round-atp-finals-elimination-20261104",
+        "why": "전날 최고령 승리를 거둔 조코비치가 이튿날 탈락하며 시즌 최종전 출전 가능성까지 사라진 중요한 후속이다.",
+        "angle": "1세트 승리 뒤 역전패→파리 2회전 탈락→연말 파이널스 진출 무산을 연결.",
+        "why_now": "탈락 경기는 현지 11월4일. CNA 최초 게시 4일15:11:08 UTC, 조코비치 결과는 갱신 본문에 포함돼 최초 기사 시각과 구분.",
+        "verified_at": 1793840788,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.channelnewsasia.com/sport/zverev-falls-in-first-match-world-number-one-djokovics-atp-finals-hopes-over-6524836",
+            "note": "Reuters 전재 본문에서 히지카타가 조코비치를 2-6 6-3 6-3으로 이겼고 조코비치의 ATP 파이널스 진출 희망이 끝났다고 명시한 대목을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.channelnewsasia.com/sport/zverev-falls-in-first-match-world-number-one-djokovics-atp-finals-hopes-over-6524836",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "이미 보낸 3일 최고령 승리와 다른 4일 탈락 후속이다. 은퇴 선언이나 영구적인 경기력 하락으로 확대하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-04",
+          "observation": "Reuters 전재 본문에서 히지카타가 조코비치를 2-6 6-3 6-3으로 이겼고 조코비치의 ATP 파이널스 진출 희망이 끝났다고 명시한 대목을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1세트 승리 뒤 역전패→파리 2회전 탈락→연말 파이널스 진출 무산을 연결.",
+            "이미 보낸 3일 최고령 승리와 다른 4일 탈락 후속이다. 은퇴 선언이나 영구적인 경기력 하락으로 확대하지 않는다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.channelnewsasia.com/sport/zverev-falls-in-first-match-world-number-one-djokovics-atp-finals-hopes-over-6524836"
+          }
+        ],
+        "excerpt": "",
+        "context": "탈락 경기는 현지 11월4일. CNA 최초 게시 4일15:11:08 UTC, 조코비치 결과는 갱신 본문에 포함돼 최초 기사 시각과 구분.",
+        "fetched_at": 1793841245,
+        "parser_revision": 7
+      },
+      "curation_event_key": "djokovic-hijikata-paris-second-round-atp-finals-elimination-20261104"
+    },
+    "d795ac65eae7": {
+      "source": "MBC 단독 취재",
+      "title": "공군1호기 명단 유출 새 경위…“보안업체가 식별값 대신 원본 올린 정황”",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6863333_36911.html",
+      "first_seen_at": 1793841245,
+      "last_seen_at": 1793841245,
+      "samples": [
+        {
+          "at": 1793841245,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "d795ac65eae7",
+      "editorial": {
+        "title": "공군1호기 명단 유출 새 경위…“보안업체가 식별값 대신 원본 올린 정황”",
+        "category": "시사",
+        "url": "https://imnews.imbc.com/news/2026/politics/article/6863333_36911.html",
+        "source": "MBC 단독 취재",
+        "kind": "article",
+        "event_key": "air-force-one-passenger-list-vendor-original-file-upload-findings-20261105",
+        "why": "대통령 전용기 탑승자 정보 유출의 원인에 관한 새 취재로 국가 보안과 외주 점검 절차의 허점이 쟁점이 됐다.",
+        "angle": "식별값으로 검사하는 절차→원본 파일 업로드 정황→실수 가능성을 조사 중이라는 단계 표시.",
+        "why_now": "유출 자체는 과거 사건이고 이번 새 사실은 외부 보안업체 업로드 정황. MBC 최초 공개 11월5일09:27:20 KST, 수정 09:28과 구분.",
+        "verified_at": 1793840728,
+        "published_at": 1793838440,
+        "evidence": [
+          {
+            "url": "https://imnews.imbc.com/news/2026/politics/article/6863333_36911.html",
+            "note": "MBC 본문에서 정부 당국이 외부 보안업체의 원본 파일 업로드 정황을 포착했고 외교부가 실수 가능성에 무게를 두어 조사 중이라는 취재 내용을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://imnews.imbc.com/news/2026/politics/article/6863333_36911.html",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "MBC 취재에 따른 수사 경위 보도이며 원인 확정이 아니다. 유출된 명단·여권번호 등 실제 개인정보는 열람하거나 재배포하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "MBC 본문에서 정부 당국이 외부 보안업체의 원본 파일 업로드 정황을 포착했고 외교부가 실수 가능성에 무게를 두어 조사 중이라는 취재 내용을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "식별값으로 검사하는 절차→원본 파일 업로드 정황→실수 가능성을 조사 중이라는 단계 표시.",
+            "MBC 취재에 따른 수사 경위 보도이며 원인 확정이 아니다. 유출된 명단·여권번호 등 실제 개인정보는 열람하거나 재배포하지 않는다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://imnews.imbc.com/news/2026/politics/article/6863333_36911.html"
+          }
+        ],
+        "excerpt": "",
+        "context": "유출 자체는 과거 사건이고 이번 새 사실은 외부 보안업체 업로드 정황. MBC 최초 공개 11월5일09:27:20 KST, 수정 09:28과 구분.",
+        "fetched_at": 1793841245,
+        "parser_revision": 7
+      },
+      "curation_event_key": "air-force-one-passenger-list-vendor-original-file-upload-findings-20261105"
+    },
+    "94c6fc8ddda7": {
+      "source": "CAF / Guardian Nigeria",
+      "title": "나이지리아, 브라질 꺾고 여자 U-17 월드컵 첫 결승…일본과 우승 다툰다",
+      "link": "https://www.cafonline.com/womens-football/news/nigeria-reach-fifa-u-17-women-s-world-cup-final-after-defeating-brazil/",
+      "first_seen_at": 1793841245,
+      "last_seen_at": 1793841245,
+      "samples": [
+        {
+          "at": 1793841245,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "official",
+      "story_id": "94c6fc8ddda7",
+      "editorial": {
+        "title": "나이지리아, 브라질 꺾고 여자 U-17 월드컵 첫 결승…일본과 우승 다툰다",
+        "category": "축구",
+        "url": "https://www.cafonline.com/womens-football/news/nigeria-reach-fifa-u-17-women-s-world-cup-final-after-defeating-brazil/",
+        "source": "CAF / Guardian Nigeria",
+        "kind": "official",
+        "event_key": "nigeria-brazil-u17-womens-world-cup-maiden-final-20261104",
+        "why": "아프리카 대표가 브라질을 꺾고 처음 결승에 올라 여자 유소년 월드컵 우승 판도가 바뀌었다.",
+        "angle": "후반 세 골로 3-0 리드→3-1 승리→일본과 결승 대진을 제시.",
+        "why_now": "준결승은 모로코 현지 11월4일. CAF 원문은 4일(일 단위), 독립 보도 최초 게시 4일20:07:41 UTC.",
+        "verified_at": 1793840789,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.cafonline.com/womens-football/news/nigeria-reach-fifa-u-17-women-s-world-cup-final-after-defeating-brazil/",
+            "note": "CAF 본문에서 나이지리아의 브라질전 3-1 승리와 일본과의 결승 대진을 확인했다. Guardian 본문은 나이지리아의 이 대회 첫 결승 진출이라고 명시한다."
+          },
+          {
+            "url": "https://guardian.ng/breakingnews/fifa-u-17-womens-world-cup-nigeria-beat-brazil-to-face-japan-in-final/",
+            "note": "Guardian 본문에서 나이지리아의 대회 첫 결승 진출과 일본의 북한전 1-1 뒤 승부차기 4-1 승리를 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.cafonline.com/womens-football/news/nigeria-reach-fifa-u-17-women-s-world-cup-final-after-defeating-brazil/",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "득점 분은 출처 간 차이가 있어 쓰지 않는다. 성인 여자월드컵이 아닌 U-17 대회이며 결승 우승은 아직 확정되지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-04",
+          "observation": "CAF 본문에서 나이지리아의 브라질전 3-1 승리와 일본과의 결승 대진을 확인했다. Guardian 본문은 나이지리아의 이 대회 첫 결승 진출이라고 명시한다.",
+          "checked_materials": [],
+          "outline": [
+            "후반 세 골로 3-0 리드→3-1 승리→일본과 결승 대진을 제시.",
+            "득점 분은 출처 간 차이가 있어 쓰지 않는다. 성인 여자월드컵이 아닌 U-17 대회이며 결승 우승은 아직 확정되지 않았다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.cafonline.com/womens-football/news/nigeria-reach-fifa-u-17-women-s-world-cup-final-after-defeating-brazil/"
+          }
+        ],
+        "excerpt": "",
+        "context": "준결승은 모로코 현지 11월4일. CAF 원문은 4일(일 단위), 독립 보도 최초 게시 4일20:07:41 UTC.",
+        "fetched_at": 1793841245,
+        "parser_revision": 7
+      },
+      "curation_event_key": "nigeria-brazil-u17-womens-world-cup-maiden-final-20261104"
+    },
+    "12bb98e90447": {
+      "source": "Guardian Nigeria",
+      "title": "일본, 북한과 1-1 뒤 승부차기 4-1…여자 U-17 월드컵 결승 진출",
+      "link": "https://guardian.ng/breakingnews/fifa-u-17-womens-world-cup-nigeria-beat-brazil-to-face-japan-in-final/",
+      "first_seen_at": 1793841245,
+      "last_seen_at": 1793841245,
+      "samples": [
+        {
+          "at": 1793841245,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "12bb98e90447",
+      "editorial": {
+        "title": "일본, 북한과 1-1 뒤 승부차기 4-1…여자 U-17 월드컵 결승 진출",
+        "category": "축구",
+        "url": "https://guardian.ng/breakingnews/fifa-u-17-womens-world-cup-nigeria-beat-brazil-to-face-japan-in-final/",
+        "source": "Guardian Nigeria",
+        "kind": "article",
+        "event_key": "japan-dpr-korea-u17-womens-world-cup-semifinal-shootout-20261104",
+        "why": "전 대회 우승팀 북한을 일본이 승부차기로 탈락시키며 결승 대진이 바뀐 세계대회 중요 결과다.",
+        "angle": "1-1 무승부→일본의 승부차기 4-1 승리→나이지리아와의 결승 대진.",
+        "why_now": "준결승은 현지 11월4일. 확인 기사 최초 게시 4일20:07:41 UTC이며 후속 수정 20:10과 구분.",
+        "verified_at": 1793840833,
+        "published_at": 1793822861,
+        "evidence": [
+          {
+            "url": "https://guardian.ng/breakingnews/fifa-u-17-womens-world-cup-nigeria-beat-brazil-to-face-japan-in-final/",
+            "note": "Guardian 경기 본문에서 일본과 북한의 1-1 무승부, 일본의 승부차기 4-1 승리와 결승 진출을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://guardian.ng/breakingnews/fifa-u-17-womens-world-cup-nigeria-beat-brazil-to-face-japan-in-final/",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "검증 예비 후보. 북한 우승 이력은 사전 공식 보도와 대조했으나 이 기사에 없는 득점 분·자책골 장면은 쓰지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-04",
+          "observation": "Guardian 경기 본문에서 일본과 북한의 1-1 무승부, 일본의 승부차기 4-1 승리와 결승 진출을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1-1 무승부→일본의 승부차기 4-1 승리→나이지리아와의 결승 대진.",
+            "검증 예비 후보. 북한 우승 이력은 사전 공식 보도와 대조했으나 이 기사에 없는 득점 분·자책골 장면은 쓰지 않는다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://guardian.ng/breakingnews/fifa-u-17-womens-world-cup-nigeria-beat-brazil-to-face-japan-in-final/"
+          }
+        ],
+        "excerpt": "",
+        "context": "준결승은 현지 11월4일. 확인 기사 최초 게시 4일20:07:41 UTC이며 후속 수정 20:10과 구분.",
+        "fetched_at": 1793841245,
+        "parser_revision": 7
+      },
+      "curation_event_key": "japan-dpr-korea-u17-womens-world-cup-semifinal-shootout-20261104"
+    },
     "1022eed25990": {
       "source": "AP / ABC News",
       "title": "2년 넘게 못 뛴 아이유크, NFL 복귀 신청…49ers와 계약 갈등 다시 수면 위",
@@ -30754,5 +31184,5 @@
       "curation_event_key": "mfds-convenience-unmanned-store-expired-food-33-violations-20261029"
     }
   },
-  "updated_at": 1793837349
+  "updated_at": 1793841245
 }
