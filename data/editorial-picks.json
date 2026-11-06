@@ -1,290 +1,297 @@
 {
   "version": 2,
-  "hour_utc": "2026110606",
+  "hour_utc": "2026110607",
   "reviewer": "ChatGPT",
-  "generated_at": 1793945208,
+  "generated_at": 1793949056,
   "coverage": {
     "queries": [
-      "\"2026.11.06\" \"축구\" \"공식\"",
-      "\"2026.11.06\" \"야구\" \"발표\"",
-      "\"November 6, 2026\" sport Reuters",
-      "\"2026.11.06\" \"속보\" \"정부\"",
-      "\"2026.11.06\" \"스포츠\" \"징계\"",
-      "\"2026.11.06\" \"축구\" \"감독\" -호날두 -박항서 -파커 -아시안컵",
-      "\"2026.11.06\" \"NBA\" \"골든스테이트\"",
-      "\"2026.11.06\" \"신용융자\" \"3개월\"",
-      "\"2026.11.06\" \"축구\" \"계약\" -호날두 -케인 -모레노 -노시환 -하피냐",
-      "\"2026.11.06\" \"야구\" \"부상\" -곽도규 -KS -강민호 -APBC",
-      "\"November 5, 2026\" \"football\" \"sacked\"",
-      "\"November 6, 2026\" \"sport\" \"banned\" -Lynn -cocaine -Honda -hockey",
-      "\"2026.11.06\" \"축구\" \"퇴장\"",
-      "\"2026.11.06\" \"축구\" \"탈락\"",
-      "\"2026.11.06\" \"농구\" \"부상\"",
-      "\"2026.11.06\" \"쿠팡\" \"2000\" \"법원\"",
-      "\"ヒロシマ\" \"東浜\" \"2026年11月6日\"",
-      "\"김예건\" \"에스칼데스\" \"2026\" \"퇴장\"",
-      "\"2026.11.06\" \"한화\" \"ML서 인기폭발\"",
-      "site:fsc.go.kr \"2026\" \"신용융자\" \"11월 6일\"",
-      "\"2026.11.06\" \"히로시마\" \"트레이드\"",
-      "\"2026.11.06\" \"축구\" \"FIFA\" -호날두 -다시마 -타시마 -소급 -브랜드",
-      "\"2026.11.06\" \"배구\" \"징계\"",
-      "\"2026.11.06\" \"NBA\" \"크니플\"",
-      "site:softbankhawks.co.jp \"2026\" \"11/6\" \"東浜\"",
-      "\"東浜\" \"広島\" \"2026年11月6日\"",
-      "\"Crvena\" \"Escaldes\" \"2026\" \"Katai\" 2-1",
-      "\"김예건\" \"2026.11.06\" \"카타이\" -interfootball -newspim",
-      "site.crvenazvezdafk.com \"Интер\" \"2026\" \"2:1\"",
-      "site:crvenazvezdafk.com \"2026\" \"Катaи\" \"Ескалдес\"",
-      "site:softbankhawks.co.jp/news/detail \"東浜\" \"広島\" \"2026\"",
-      "site:carp.co.jp \"2026\" \"東浜\" \"トレード\""
+      "\"2026.11.06\" \"축구\" \"발표\"",
+      "\"2026.11.06\" \"스포츠\" \"확정\"",
+      "\"2026.11.06\" \"속보\" \"국회\"",
+      "\"November 6, 2026\" sports Reuters",
+      "\"2026.11.06\" \"텍사스\" \"데이터센터\" \"중단\"",
+      "\"2026.11.06\" \"스포츠\" \"오피셜\" -호날두 -케인 -히가시하마 -파커 -모레노",
+      "\"2026.11.06\" \"경찰청장\" \"동의\"",
+      "\"November 6, 2026\" \"football\" news -Ronaldo -Moriyasu",
+      "\"2026.11.06\" \"축구\" \"징계\"",
+      "\"2026.11.06\" \"야구\" \"감독\"",
+      "\"November 6, 2026\" \"sport\" \"injury\"",
+      "\"2026.11.06\" \"NBA\" \"승리\"",
+      "\"2026.11.06\" \"테셰이라\" \"당선\"",
+      "\"2026.11.06\" \"체육기금\" \"4000\"",
+      "\"2026.11.06\" \"금메달\" \"박탈\"",
+      "\"2026.11.06\" \"축구\" \"선임\" -모리야스 -모레노 -파커 -캐릭",
+      "\"2026.11.06\" \"트럼프\" \"300%\"",
+      "\"2026.11.06\" \"특검법\" \"통과\" \"16\"",
+      "\"2026.11.06\" \"한국체육진단\" \"기금\"",
+      "\"November 6, 2026\" \"football\" \"official\" -Ronaldo -Tashima -Parker -Kane",
+      "\"2026.11.06\" \"축구\" \"승부조작\"",
+      "\"2026.11.06\" \"축구\" \"상벌\"",
+      "\"2026.11.06\" \"안세영\" \"8강\"",
+      "\"November 6, 2026\" \"football\" \"banned\" -Ronaldo -Lynn -Honda",
+      "\"2026.11.06\" \"드라마\" \"1조\"",
+      "\"2026.11.06\" \"65년\" \"재판\"",
+      "\"November 5, 2026\" \"Clase\" \"trial\"",
+      "\"November 6, 2026\" \"sports\" \"scandal\" -Ronaldo -Lynn -WTA",
+      "\"2026.11.06\" \"UEFA\" \"징계\"",
+      "\"2026.11.06\" \"EPL\" \"퇴장\"",
+      "\"2026.11.06\" \"월드컵\" \"취소\"",
+      "\"November 5, 2026\" \"football\" \"resigns\"",
+      "\"Cunha\" \"November 5, 2026\" \"UEFA\"",
+      "\"Cunha\" \"2026\" \"not investigating\" UEFA",
+      "\"Tenerife\" \"Andorra\" \"5 noviembre 2026\" \"2-2\"",
+      "site:rfef.es \"2026\" \"Tenerife\" \"Miguel\" \"noviembre\"",
+      "\"Tenerife\" \"Andorra\" \"finalizado\" \"2026\" \"noviembre\"",
+      "\"Tenerife\" \"Andorra\" \"2-2\" \"Comité\" \"2026\"",
+      "\"Jesús Owono\" \"sanción\" \"5 noviembre 2026\"",
+      "\"2026.11.06\" \"경찰청장\" \"동의안\" \"의결\"",
+      "site:cricket.com.au \"Hussey\" \"2026\" \"November 6\"",
+      "\"Hussey\" \"6 November 2026\" coach Australia",
+      "\"Trump\" \"November 5 2026\" \"300%\" tariffs transcript",
+      "\"김종철\" \"2026.11.06\" \"경찰위\" \"동의\" \"의결\""
     ],
     "opened_urls": [
       "https://www.channelnewsasia.com/sport",
       "https://www.channelnewsasia.com/world",
-      "https://www.asiae.co.kr/article/2026110610563700929",
+      "https://newsday.atexcloud.io/sports/baseball/mlb-baseball-gambling-ortiz-clase-o41802",
+      "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017859",
+      "https://rfef.es/es/noticias/siempre-en-nuestro-recuerdo-el-futbol-espanol-se-une-en-homenaje-jesus-de-miguel",
+      "https://cadenaser.com/nacional/2026/11/04/el-comite-de-competicion-da-por-finalizado-el-tenerife-andorra-tras-el-accidente-que-acabo-con-la-vida-de-jesus-de-miguel-cadena-ser/",
+      "https://www.laliga.com/es-ID/partido/temporada-2026-2027-laliga-hypermotion-cd-tenerife-fc-andorra-12",
       "https://www.channelnewsasia.com/sport/australia-turn-hussey-ahead-ashes-after-batting-slump-6530251",
-      "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366",
-      "https://www.channelnewsasia.com/world/hegseth-pentagon-us-iran-war-democrats-congress-6529906",
-      "https://www.khan.co.kr/article/202611061350001",
-      "https://www.interfootball.co.kr/news/articleView.html?idxno=697880",
-      "https://www.newspim.com/news/view/20261106000136",
-      "https://biz.chosun.com/topics/law_firm/2026/11/06/2CO4OQ46UVD6LGRGBRJCHLALB4/",
-      "https://www.khan.co.kr/article/202611061415001",
-      "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018020",
-      "https://news.livedoor.com/article/detail/32746615/",
-      "https://full-count.jp/2026/11/06/post2038574/",
-      "https://www.crvenazvezdafk.com/sr-latn/vesti/crvena-zvezda---inter-eskaldes-2-1-0-0"
+      "https://www.cricket.com.au/news/4605416/mike-hussey-joins-australia-mens-national-team-coaching-staff-consultant-t20-advisor-world-cup-ashes-2027-squad-update-england-t20-series",
+      "https://www.afp.com/en/australia-recruit-hussey-consultant-ashes-and-2027-world-cup",
+      "https://www.seoul.co.kr/news/international/2026/11/06/20261106500174",
+      "https://singjupost.com/transcript-trump-takes-questions-in-oval-office-after-massive-republican-midterm-losses/",
+      "https://www.khan.co.kr/article/202611061329001/amp",
+      "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366"
     ],
     "unavailable": [
-      "Collector exit0/degraded, 후보571·5개 원천 오류. 갱신 스냅샷 확인 후 독립 원문 조사.",
-      "Instagram @bythepulse throttled: 실제 게재 전수 확인 불가. 7일 sent/uncertain 411개 대조.",
-      "Football Mania는 Anubis 보호 페이지여서 본문 검증에 사용하지 않음. 우회·재요청 없음.",
-      "유로풋볼 open internal error. 구단 공식 경기 보고서 및 접근 가능한 국내 원문으로 전환."
+      "collector exit0/degraded: 후보573·5개 원천 오류. 갱신 스냅샷 후 독립 원문 조사.",
+      "Instagram @bythepulse throttled: 실제 게재 전수 확인 불가. 최근7일 sent/uncertain416건 대조.",
+      "매경·African Football 원문403, 반복하지 않고 접근 가능한 전사·원문·독립 보도로 전환.",
+      "SBS web open internal error·urllib 본문 추출 불충분. 경찰 인선은 경향 본문, 관세는 공개 보도·문답 전사 확인."
     ]
   },
   "picks": [
     {
-      "title": "김예건 첫 UECL 선발, 첫 도움은 동료 반칙으로 취소…즈베즈다는 역전승",
-      "category": "축구",
-      "url": "https://www.crvenazvezdafk.com/sr-latn/vesti/crvena-zvezda---inter-eskaldes-2-1-0-0",
-      "source": "츠르베나 즈베즈다·뉴스핌",
-      "kind": "official",
-      "event_key": "kim-ye-geon-uecl-first-start-katai-goal-overturned-red-card-20261105",
-      "why": "한국 유망주의 유럽대항전 첫 선발에서 도움 기회가 VAR 반칙 판정으로 사라진 구체적 사건이다.",
-      "angle": "김예건의 패스로 나온 골이 취소되고 득점자까지 퇴장당한 전환점을 먼저 제시한다.",
-      "why_now": "경기는 세르비아 11/5·한국 11/6 새벽. 구단 원문 11/5 21:00 표기(시간대 미표시), 국내 기사 최초 11/6 06:35 KST.",
-      "verified_at": 1793945109,
-      "published_at": null,
+      "title": "투구 하나에도 베팅…클라세·오티스 재판서 포수 네일러 증언",
+      "category": "메이저 스포츠",
+      "url": "https://newsday.atexcloud.io/sports/baseball/mlb-baseball-gambling-ortiz-clase-o41802",
+      "source": "AP·Newsday",
+      "kind": "article",
+      "event_key": "clase-ortiz-pitch-rigging-trial-bo-naylor-testimony-20261105",
+      "why": "MLB 최정상급 마무리 투수가 연루된 투구 조작 재판이 경기의 신뢰와 개별 투구 베팅 문제를 드러냈다.",
+      "angle": "포수는 구종·코스를 사인하지만 투수가 바꿀 수 있다는 증언과 검찰의 조작 주장을 구분한다.",
+      "why_now": "뉴욕 11/5 새 법정 증언. AP·Newsday 최초 11/5 23:09:30 UTC·수정 23:17:02(한국 11/6 08:09·08:17).",
+      "verified_at": 1793948851,
+      "published_at": 1793920170,
       "evidence": [
         {
-          "url": "https://www.crvenazvezdafk.com/sr-latn/vesti/crvena-zvezda---inter-eskaldes-2-1-0-0",
-          "note": "구단 원문: 김 선발·46분 교체, 카타이 골 VAR 반칙 취소·직접 퇴장, 베를랑가 51분 퇴장. 루치치 동점골·추가시간 디아스 자책골로 2-1."
+          "url": "https://newsday.atexcloud.io/sports/baseball/mlb-baseball-gambling-ortiz-clase-o41802",
+          "note": "11/5 뉴욕 재판 AP 본문: 네일러는 사건 전 개별 투구 베팅을 몰랐다고 했고, 투수도 완벽한 제구를 보장 못 한다고 진술. 검찰은 도박자 이익 최소 46만달러 주장."
         },
         {
-          "url": "https://www.newspim.com/news/view/20261106000136",
-          "note": "뉴스핌 11/6 09:31 KST 본문: 김의 패스 뒤 카타이 득점이 VAR로 취소돼 도움 무산. 양 팀 퇴장. 상대 국적을 이탈리아로 쓴 오류는 제외한다."
-        },
-        {
-          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697880",
-          "note": "인터풋볼 11/6 06:35 KST 본문도 김 패스→카타이 골 취소·퇴장을 확인. 분 단위 차이가 있어 정확한 퇴장 분은 제목·서술에서 제외."
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017859",
+          "note": "11/5 10:26 KST 국내 기사로 재판·무죄 주장 배경 확인. 기사 속 조작 기간 표기에 오류 가능성이 있어 날짜·횟수는 이 검토본에서 인용하지 않았다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.crvenazvezdafk.com/sr-latn/vesti/crvena-zvezda---inter-eskaldes-2-1-0-0",
+          "url": "https://newsday.atexcloud.io/sports/baseball/mlb-baseball-gambling-ortiz-clase-o41802",
+          "label": "확인한 기사 본문",
+          "kind": "source"
+        }
+      ],
+      "caution": "두 선수는 무죄 주장 중이며 유죄·영구제명 확정 아님. 네일러가 조작을 목격했다고 쓰지 않는다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-05",
+        "observation": "AP 법정 취재 본문에서 보 네일러가 개별 투구 베팅을 사건 전 몰랐다고 증언했고, 포수가 구종·목표를 정하지만 투수가 최종 변경할 수 있다는 진술을 확인했다. 46만달러 이익은 검찰 주장이다.",
+        "checked_materials": [],
+        "outline": [
+          "구종·볼 판정에 돈을 거는 개별 투구 베팅",
+          "포수 사인과 투수 최종 선택에 관한 네일러 증언",
+          "검찰 주장·변호인 반론·무죄 주장 중인 재판 단계"
+        ]
+      }
+    },
+    {
+      "title": "스페인 축구, 경기 9분에 멈춰 추모한다…데 미겔 공동 추모안 발표",
+      "category": "축구",
+      "url": "https://rfef.es/es/noticias/siempre-en-nuestro-recuerdo-el-futbol-espanol-se-une-en-homenaje-jesus-de-miguel",
+      "source": "스페인축구협회 RFEF",
+      "kind": "official",
+      "event_key": "rfef-laliga-ligaf-de-miguel-minute-nine-tribute-announced-20261105",
+      "why": "선수 사망 뒤 스페인 프로·전국대회가 함께 경기 운영을 바꾸는 공식 추모 결정으로 축구계 전반에 영향이 있다.",
+      "angle": "등번호 9를 따라 첫 중단 때 추모하는 방식과 전국대회까지 확장되는 조치를 전한다.",
+      "why_now": "기존 11/3 사망 보도와 다른 새 후속: RFEF·라리가·리가F가 11/5 발표한 11/6~9 공동 추모안. 원문 17:15 표시, 시간대 미표시.",
+      "verified_at": 1793948878,
+      "published_at": null,
+      "evidence": [
+        {
+          "url": "https://rfef.es/es/noticias/siempre-en-nuestro-recuerdo-el-futbol-espanol-se-une-en-homenaje-jesus-de-miguel",
+          "note": "11/5 공식 발표: 11/6~9 라리가·2부, RFEF 전국대회·리가F에 묵념·9분 이후 첫 경기 중단 때 추모. 시행 전 발표이며 실제 모든 경기 이행을 확인한 것은 아니다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://rfef.es/es/noticias/siempre-en-nuestro-recuerdo-el-futbol-espanol-se-une-en-homenaje-jesus-de-miguel",
           "label": "확인한 공식 원문",
           "kind": "source"
         }
       ],
-      "caution": "영상은 미시청. 양 팀 모두 퇴장으로 후반 10대10이 됐으므로 10대11로 끝까지 이겼다고 쓰지 않는다.",
+      "caution": "9분 정각 강제 중단이 아니라 9분 이후 첫 경기 중단 때 시행. 충돌 영상은 보지 않았다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-05",
-        "observation": "구단 경기 보고서에서 김 선발·하프타임 교체, 카타이 골 VAR 취소·직접 퇴장, 베를랑가 후반 퇴장, 2-1 역전승을 확인했다. 김의 패스로 도움 기회가 사라졌다는 사실은 국내 두 기사 본문에서 확인했다.",
+        "observation": "RFEF 공식 본문에서 11/6~9 경기 전 묵념과 9분 이후 첫 중단 때 영상·박수로 추모, 라리가·2부의 9번 특별셔츠와 헌화, 전국 RFEF·리가F 대회 확대를 확인했다. 사망 원인·형사 책임을 추가 판단하지 않았다.",
         "checked_materials": [],
         "outline": [
-          "김예건 첫 선발과 카타이 득점 취소·퇴장",
-          "후반 상대 퇴장으로 수적 균형 회복",
-          "선제 실점 뒤 2-1 역전, 도움은 공식 기록 아님"
+          "등번호 9를 따른 9분 이후 첫 중단 때 추모",
+          "경기 전 묵념·특별셔츠·헌화라는 공동 결정",
+          "라리가·2부와 RFEF 전국대회·리가F로 확대"
         ]
       }
     },
     {
-      "title": "다승왕·노히터 히가시하마, 무상 트레이드…14년 뛴 소프트뱅크 떠난다",
+      "title": "잉글랜드 우승 도왔던 허시, 호주로…애시스·월드컵·LA 올림픽 준비 합류",
       "category": "메이저 스포츠",
-      "url": "https://full-count.jp/2026/11/06/post2038574/",
-      "source": "Full-Count·스포츠호치",
-      "kind": "article",
-      "event_key": "higashihama-nao-hiroshima-free-trade-softbank-announced-20261106",
-      "why": "오랜 우승 전력의 투수가 보상 없는 이적으로 팀을 옮기며 구단의 선수 기회·등록 한도 판단이 드러났다.",
-      "angle": "14년 원클럽·올해 1군 등판 0회와 무상 이적을 붙이고, 출전 기회와 70인 한도를 설명한다.",
-      "why_now": "11/6 양 구단 발표를 전한 Full-Count 최초 10:01:05 JST·수정 11:09:41. 11:57 GM 설명 보도로 배경 확인.",
-      "verified_at": 1793945101,
-      "published_at": 1793926865,
+      "url": "https://www.cricket.com.au/news/4605416/mike-hussey-joins-australia-mens-national-team-coaching-staff-consultant-t20-advisor-world-cup-ashes-2027-squad-update-england-t20-series",
+      "source": "Cricket Australia",
+      "kind": "official",
+      "event_key": "mike-hussey-australia-consultant-ashes-world-cup-olympics-20261106",
+      "why": "잉글랜드 월드컵 우승 코치가 라이벌 호주의 핵심 대회 준비에 합류하는 확정 인사로 대표팀 경쟁 구도를 바꾼다.",
+      "angle": "2022년 잉글랜드 우승 스태프 경력과 이번 호주 계약의 대상 대회를 나란히 제시한다.",
+      "why_now": "CA 공식 기사 최초 11/6 03:00 UTC(12:00 KST), 수정 04:05:52 UTC. 발표 당일의 새 확정 선임이며 과거 접근설과 구분했다.",
+      "verified_at": 1793948945,
+      "published_at": 1793934000,
       "evidence": [
         {
-          "url": "https://full-count.jp/2026/11/06/post2038574/",
-          "note": "11/6 10:01 JST 최초 보도: 양 구단 트레이드 발표, 2017년 다승왕·2022년 노히터·올해 1군 등판 없음. 이적은 무상으로 확인된다."
+          "url": "https://www.cricket.com.au/news/4605416/mike-hussey-joins-australia-mens-national-team-coaching-staff-consultant-t20-advisor-world-cup-ashes-2027-squad-update-england-t20-series",
+          "note": "CA 11/6 공식 기사: 컨설턴트 코치·T20 자문 역할과 대상 대회, 이달 잉글랜드전·뉴질랜드 테스트 지원을 확인. 2022년 잉글랜드 우승 코치 경력도 명시."
         },
         {
-          "url": "https://news.livedoor.com/article/detail/32746615/",
-          "note": "호치 11/6 11:57 JST 최초·13:22 수정. 미카사 GM은 출전 기회를 원하는 본인 의사와 드래프트 9명 입단 시 등록 70인 도달을 이유로 설명했다."
+          "url": "https://www.afp.com/en/australia-recruit-hussey-consultant-ashes-and-2027-world-cup",
+          "note": "AFP 11/6 본문은 잉글랜드가 8월 비공식 접근했지만 허시가 거절하고 호주를 선택했다고 보도. 이번 확정 선임과 과거 접근 시점은 구분한다."
         }
       ],
       "materials": [
         {
-          "url": "https://full-count.jp/2026/11/06/post2038574/",
-          "label": "확인한 기사 본문",
+          "url": "https://www.cricket.com.au/news/4605416/mike-hussey-joins-australia-mens-national-team-coaching-staff-consultant-t20-advisor-world-cup-ashes-2027-squad-update-england-t20-series",
+          "label": "확인한 공식 원문",
           "kind": "source"
         }
       ],
-      "caution": "재기 성공은 예측하지 않는다. 무상 트레이드는 이적 대가가 없다는 뜻이며 연봉이 없다는 뜻은 아니다.",
+      "caution": "대표팀 감독 교체가 아니라 컨설턴트·T20 자문 역할이다. 성적 개선·우승을 보장하지 않는다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-06",
-        "observation": "일본 전문매체 본문에서 양 구단 발표와 무상 트레이드, 14년 소프트뱅크·올해 1군 미등판을 확인했다. 호치 본문의 GM 현장 설명은 선수 출전 희망과 등록 70인 한도를 함께 이유로 들었다.",
+        "observation": "CA 공식 본문에서 허시의 2027 애시스·ODI 월드컵 컨설턴트 합류, 2028 LA 올림픽·T20 월드컵 자문, 이달 잉글랜드전부터 지원을 확인했다. AFP는 과거 잉글랜드 접근을 거절한 배경을 설명한다.",
         "checked_materials": [],
         "outline": [
-          "14년 호크스 투수, 히로시마 무상 이적 확정",
-          "올해 1군 등판 없음과 과거 다승왕·노히터 경력",
-          "GM이 밝힌 기회 보장·70인 등록 한도"
+          "잉글랜드 2022 우승 스태프가 호주 코치진 합류",
+          "2027 애시스·ODI 월드컵, 2028 올림픽·T20 자문",
+          "이달 잉글랜드전부터 지원, 감독 교체는 아님"
         ]
       }
     },
     {
-      "title": "반대매매 악순환 막는다…9일부터 신용융자 담보유지 의무 3개월 면제",
+      "title": "선거 패배 뒤에도 관세 고수…트럼프, 미국 공장 없으면 최고 300% 언급",
       "category": "시사",
-      "url": "https://www.khan.co.kr/article/202611061350001",
+      "url": "https://www.seoul.co.kr/news/international/2026/11/06/20261106500174",
+      "source": "서울신문·취재 문답 전사",
+      "kind": "article",
+      "event_key": "trump-post-midterms-us-factory-tariffs-up-to300-remarks-20261105",
+      "why": "한국 기업의 대미 생산·투자와 통상 비용에 영향을 주는 대통령의 새 고율 관세 발언이다.",
+      "angle": "300%라는 발언과 실제 새 부과조치 미확정을 분리해 한국 기업이 이해할 통상 압박의 맥락을 제시한다.",
+      "why_now": "미국 현지 11/5 백악관 기자 문답. 서울신문 최초 11/6 14:03:36 KST·수정 14:36:39. 국내 기사 갱신을 최초 발언으로 쓰지 않았다.",
+      "verified_at": 1793948879,
+      "published_at": 1793941416,
+      "evidence": [
+        {
+          "url": "https://www.seoul.co.kr/news/international/2026/11/06/20261106500174",
+          "note": "11/6 14:03 KST 서울신문 기사: 11/5 백악관 발언으로 미국 공장 미건설 기업에 최고 300% 언급. 본문 확인은 공개 접근 가능한 요약 문단과 보도 전문으로 제한된다."
+        },
+        {
+          "url": "https://singjupost.com/transcript-trump-takes-questions-in-oval-office-after-massive-republican-midterm-losses/",
+          "note": "11/5 백악관 기자 문답 전사에서 50·100·150·250·300% 언급과 공장 가동 시 면제 주장을 확인. 공식 백악관 속기록이나 영상 직접 시청은 아니다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.seoul.co.kr/news/international/2026/11/06/20261106500174",
+          "label": "확인한 기사 본문",
+          "kind": "source"
+        }
+      ],
+      "caution": "새 300% 관세가 시행된 것은 아니다. 적용 대상·일정 미제시이며 공장·물가 효과는 트럼프 주장이다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-05",
+        "observation": "기사 본문과 문답 전사에서 관세 철회 시 공장 건설이 멈춘다는 주장, 미국에 생산시설을 짓지 않으면 최고 300% 관세를 언급한 발언을 확인했다. 새 행정명령·구체 시행 대상은 확인하지 못했다.",
+        "checked_materials": [],
+        "outline": [
+          "미국 공장 건설을 압박하며 최고 300% 관세 언급",
+          "중간선거 패배 뒤에도 관세 고수 메시지",
+          "발언과 새 제도 시행을 구분, 대상·일정 미제시"
+        ]
+      }
+    },
+    {
+      "title": "김종철, 경찰청장 후보 내정…장기 직무대행 체제 끝낼 인선 절차 시작",
+      "category": "시사",
+      "url": "https://www.khan.co.kr/article/202611061329001/amp",
       "source": "경향신문",
       "kind": "article",
-      "event_key": "korea-credit-trading-collateral-maintenance-exemption-three-months-20261106",
-      "why": "급락장에 빚을 내 주식을 산 투자자와 증권사에 영향을 주는 실제 규정 완화로 돈의 손익에 직결된다.",
-      "angle": "140% 담보유지 의무가 증권사에 적용되는 규정임을 설명하고 9일 시행·3개월 기간을 제시한다.",
-      "why_now": "11/6 10:30 KST 긴급 회의에서 결정. YTN 11:49 속보 확인, 경향 최초 13:50 본문으로 시행일과 기간을 검증했다.",
-      "verified_at": 1793945035,
-      "published_at": 1793940600,
+      "event_key": "kim-jong-cheol-police-chief-nominee-commission-review-20261106",
+      "why": "계엄 이후 장기간 공백인 전국 경찰 수장 인선으로 조직의 책임·권한과 치안 행정에 전국적 영향이 있다.",
+      "angle": "후보 내정과 국가경찰위 심의 착수를 먼저 제시하고 인사청문회·대통령 임명이 남았음을 설명한다.",
+      "why_now": "11/6 13:30 KST 국가경찰위 회의 출석. 경향 최초 13:29·수정 14:46. 당일 새 내정 사실과 절차를 확인했다.",
+      "verified_at": 1793948879,
+      "published_at": 1793939340,
       "evidence": [
         {
-          "url": "https://www.khan.co.kr/article/202611061350001",
-          "note": "11/6 13:50 KST 기사 본문. 오전 10:30 관계기관 회의, 11/9부터 신용융자 증권사 담보비율 유지의무 140%를 3개월 면제한다는 결정 확인."
+          "url": "https://www.khan.co.kr/article/202611061329001/amp",
+          "note": "11/6 13:29 최초·14:46 수정 본문. 후보 내정·회의 출석·책임감 발언 확인. 정식 청장 임명은 청문회 등 후속 절차를 거쳐야 한다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.khan.co.kr/article/202611061350001",
+          "url": "https://www.khan.co.kr/article/202611061329001/amp",
           "label": "확인한 기사 본문",
           "kind": "source"
         }
       ],
-      "caution": "대출 상환 면제나 모든 계좌 반대매매 금지 아님. 증권사별 적용·계약 조건은 별도 확인 필요.",
+      "caution": "청장 정식 임명 완료로 쓰지 않는다. 국회 청문회·대통령 임명과 후보 내정은 다른 단계다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-06",
-        "observation": "본문에서 정부가 9일부터 증권사의 신용융자 담보비율 유지의무(140%)를 3개월 면제하기로 했음을 확인했다. 주가 하락·반대매매 악순환 차단 목적이며 주가 회복 보장은 아니다.",
+        "observation": "경향 본문에서 김 차장 내정, 11/6 국가경찰위 회의 출석과 본인 후보 지명 확인 발언을 읽었다. 국가경찰위 동의·행안장관 제청·인사청문회 등 절차가 남아 있으며 후속 의결 완료는 확인하지 않았다.",
         "checked_materials": [],
         "outline": [
-          "11월 9일부터 3개월, 증권사 담보유지 의무 면제",
-          "주가 하락→반대매매→추가 하락 악순환 차단 취지",
-          "대출 탕감·전면 반대매매 금지와 구분"
+          "경찰청장 후보로 김종철 차장 내정",
+          "국가경찰위 심의 착수와 본인 후보 지명 확인",
+          "청문회·대통령 임명 등 남은 절차"
         ]
       }
     },
     {
-      "title": "쿠팡 2011억원 과징금 효력정지…어제 기각된 4236억원 유출 사건과 다르다",
-      "category": "시사",
-      "url": "https://biz.chosun.com/topics/law_firm/2026/11/06/2CO4OQ46UVD6LGRGBRJCHLALB4/",
-      "source": "조선비즈·경향신문",
-      "kind": "article",
-      "event_key": "coupang-online-activity-collection-2011eok-fine-stay-granted-20261106",
-      "why": "1117만명 활동기록 수집 처분의 효력이 멈춰, 대형 플랫폼 개인정보 책임과 사법 판단의 차이를 보여준다.",
-      "angle": "2011억원 활동기록 수집 사건과 4236억원 유출 사건을 나란히 놓고 서로 다른 결정임을 설명한다.",
-      "why_now": "11/6 행정1부 새 결정. 조선비즈 메타 최초 13:40:09 KST·표시 13:41, 경향 14:15 본문으로 교차 확인.",
-      "verified_at": 1793945065,
-      "published_at": 1793940009,
-      "evidence": [
-        {
-          "url": "https://biz.chosun.com/topics/law_firm/2026/11/06/2CO4OQ46UVD6LGRGBRJCHLALB4/",
-          "note": "행정1부 11/6 결정 보도. 과징금 정확히 2011억600만원 및 시정·공표명령 효력이 본안 1심 선고 후 30일까지 정지. 본안 승소가 아니다."
-        },
-        {
-          "url": "https://www.khan.co.kr/article/202611061415001",
-          "note": "경향 14:15 최초·14:16 수정 본문. 활동기록 수집 집행정지 인용과 11/5 유출 과징금 4235억7500만원 집행정지 기각이 별개임을 명시."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://biz.chosun.com/topics/law_firm/2026/11/06/2CO4OQ46UVD6LGRGBRJCHLALB4/",
-          "label": "확인한 기사 본문",
-          "kind": "source"
-        }
-      ],
-      "caution": "과징금 취소·무혐의 판결 아님. 전날 발송한 유출 사건 과징금 효력 유지와 별개 처분이다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-06",
-        "observation": "두 본문에서 활동기록 수집 관련 2011억600만원 과징금·시정·공표명령의 집행정지 인용, 본안 1심 판결 뒤 30일까지 정지를 확인했다. 위법성의 최종 판단은 본안 소송에서 이뤄진다.",
-        "checked_materials": [],
-        "outline": [
-          "1117만명 활동기록 수집 처분의 집행정지 인용",
-          "본안 1심 판결 후 30일까지 효력 정지",
-          "어제 유출 과징금 4236억원 기각과 사건 구분"
-        ]
-      }
-    },
-    {
-      "title": "전국법관대표회의, 1주 앞당겨 30일 개최…안건·공동 입장은 미확정",
-      "category": "시사",
-      "url": "https://www.asiae.co.kr/article/2026110610563700929",
-      "source": "아시아경제",
-      "kind": "article",
-      "event_key": "national-judges-representatives-advance-regular-meeting-nov30-announcement-20261106",
-      "why": "국정조사·대법관 재제청 갈등 속에서 전국 판사 대표기구가 실제 회의 일정을 바꾼 사법부의 제도적 움직임이다.",
-      "angle": "12월 7일에서 11월 30일로 당긴 결정부터 전하고, 일정 변경과 특정 결의 채택을 구분한다.",
-      "why_now": "11/6 10:56:38 KST 최초 기사. 근거 투표는 11/4, 일정 변경 공개는 11/6이며 개최일 자체를 사건일로 쓰지 않았다.",
-      "verified_at": 1793944981,
-      "published_at": 1793930198,
-      "evidence": [
-        {
-          "url": "https://www.asiae.co.kr/article/2026110610563700929",
-          "note": "11/6 공개된 일정 변경 12/7→11/30. 11/4 투표에서 앞당기자는 의견이 더 많아 운영위가 결정했다. 구체적인 안건은 아직 미확정."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.asiae.co.kr/article/2026110610563700929",
-          "label": "확인한 기사 본문",
-          "kind": "source"
-        }
-      ],
-      "caution": "안건과 공식 입장은 아직 미확정. 특정 정치권 비판 결의나 임시회의 개최로 단정하지 않는다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-06",
-        "observation": "본문에서 운영위가 11/4 법관대표 투표 결과를 바탕으로 하반기 정기회의를 11/30로 변경한 사실을 확인했다. 사법독립 논의 요구 배경과 달리 이번 회의 안건은 확정되지 않았다고 명시했다.",
-        "checked_materials": [],
-        "outline": [
-          "법관대표 투표 뒤 정기회의 일주일 조기 개최",
-          "국정조사·대법관 재제청 논란이 배경",
-          "안건·공동 입장 채택은 아직 미확정"
-        ]
-      }
-    },
-    {
-      "title": "델리 국제경기, 다시 개최지 바뀐다…인도-스리랑카 첫 ODI 이전 확정",
+      "title": "델리 첫 ODI 개최지 변경…인도-스리랑카전, 비사카파트남으로",
       "category": "메이저 스포츠",
       "url": "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366",
       "source": "Reuters·CNA",
       "kind": "article",
       "event_key": "bcci-india-srilanka-first-odi-delhi-visakhapatnam-venue-change-20261105",
-      "why": "국제대회 개최지 결정이 기상·시설과 대기질 우려에 영향을 받는 스포츠 운영 문제를 보여준다.",
-      "angle": "12월 13일 첫 ODI 개최지 변경을 먼저 놓고 공식 사유와 별도 매체의 대기질 우려 보도를 구분한다.",
-      "why_now": "BCCI 발표는 인도 11/5. Reuters·CNA 최초 11/5 23:47:24 SGT(11/6 00:47 KST), 원문 발표의 정확한 분단위는 미확인.",
-      "verified_at": 1793945004,
+      "why": "국제경기 개최가 기상·시설과 대기질 우려에 영향을 받는 구체적 스포츠 운영 결정이다.",
+      "angle": "12월 13일 개최지 변경 사실과 공식 사유를 먼저 놓고 대기질 우려는 별도 보도임을 표시한다.",
+      "why_now": "인도 11/5 BCCI 발표. Reuters·CNA 최초 11/5 23:47:24 SGT(한국 11/6 00:47), 발표 자체의 최초 분단위는 미확인.",
+      "verified_at": 1793948851,
       "published_at": 1793893644,
       "evidence": [
         {
           "url": "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366",
-          "note": "11/5 발표를 전한 Reuters 본문. DDCA 요청을 받아 BCCI가 장소 변경. 공식 발표는 기상 차질과 보수공사를 명시, 대기질은 Cricbuzz 추가 보도다."
+          "note": "11/5 BCCI 발표를 전한 Reuters 본문. DDCA 요청·첫 ODI 장소 변경 및 공식 기상·보수 사유 확인. 대기질은 Cricbuzz의 별도 설명이다."
         }
       ],
       "materials": [
@@ -294,16 +301,16 @@
           "kind": "source"
         }
       ],
-      "caution": "공식 사유는 기상 차질·예정된 보수공사다. 대기오염만으로 취소됐다고 쓰지 않는다.",
+      "caution": "공식 사유는 기상 차질·보수공사. 대기오염만으로 취소됐다고 단정하지 않는다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-05",
-        "observation": "Reuters 본문에서 BCCI가 12/13 첫 ODI를 델리에서 비사카파트남으로 옮긴다고 발표했음을 확인했다. DDCA가 요청했으며 공식 사유와 Cricbuzz의 별도 대기질 설명은 구분했다.",
+        "observation": "Reuters 본문에서 DDCA 요청에 따라 BCCI가 12/13 첫 ODI를 델리에서 비사카파트남으로 변경했다고 확인했다. 공식 사유와 Cricbuzz가 전한 대기질 우려는 구분했다.",
         "checked_materials": [],
         "outline": [
-          "12월 13일 첫 ODI, 델리에서 비사카파트남으로",
+          "델리에서 비사카파트남으로 바뀐 첫 ODI",
           "기상 차질·보수공사라는 공식 사유",
-          "대기질 우려는 별도 보도, 단독 원인으로 단정 금지"
+          "대기질 우려는 별도 보도, 단일 원인으로 단정 금지"
         ]
       }
     }
