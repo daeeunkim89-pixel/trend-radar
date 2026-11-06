@@ -1,5 +1,5 @@
 {
-  "updated_at": 1793956031,
+  "updated_at": 1793959871,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026110609",
+    "hour_utc": "2026110610",
     "category_counts": {
-      "시사": 4,
+      "시사": 3,
       "축구": 1,
-      "메이저 스포츠": 0,
+      "메이저 스포츠": 1,
       "아이돌": 0
     },
-    "research_queries": 17,
-    "opened_sources": 9,
+    "research_queries": 36,
+    "opened_sources": 12,
     "picks": [
       {
-        "title": "골드컵도 조별리그 개편…8팀씩 두 조, 팀당 4경기로 바뀐다",
-        "url": "https://www.concacaf.com/competitions/gold-cup/news/concacaf-sets-stage-for-2027-gold-cup-with-exciting-new-format-and-dates",
-        "event_key": "concacaf-gold-cup2027-two-groups-eight-four-matches-format-announced-20261105"
+        "title": "AC밀란 추쿠에제, 고관절 힘줄 파열 수술…3개월 결장 전망",
+        "url": "https://www.acmilan.com/en/news/articles/media/2026-11-04/official-statement-samuel-chukwueze",
+        "event_key": "ac-milan-chukwueze-hip-tendon-rupture-surgery-20261104"
       },
       {
-        "title": "조작기소 특검법, 본회의 통과…찬성167·반대1, 국힘 불참",
-        "url": "https://www.khan.co.kr/article/202611061727001/amp",
-        "event_key": "fabricated-prosecution-special-counsel-bill-plenary-passed-20261106"
+        "title": "동료와 충돌한 콘웨이, 뇌진탕으로 인도전 잔여4경기 이탈",
+        "url": "https://www.nzc.nz/conway-ruled-out-kelly-called-in/",
+        "event_key": "devon-conway-concussion-india-odi-series-withdrawal-replacement-20261106"
       },
       {
-        "title": "일본 식료품 소비세8→1% 법안, 중의원 통과…참의원 심의 남았다",
-        "url": "https://news.tv-asahi.co.jp/news_politics/articles/000545774.html",
-        "event_key": "japan-food-consumption-tax8to1-bill-lower-house-passed-20261106"
+        "title": "튀르키예, 사우디·파키스탄 공동방위협정 비준…파병은 별도 승인",
+        "url": "https://apnews.com/article/b17c570820e88891b2d46dd3fbc3a1f6",
+        "event_key": "turkey-parliament-mecca-saudi-pakistan-defense-pact-ratified-20261105"
       },
       {
-        "title": "최종 승인 한 시간 뒤 제동…트럼프 개선문 공사14일 금지",
-        "url": "https://www.yna.co.kr/amp/view/AKR20261106138200009",
-        "event_key": "washington-trump-arch-final-approval-court14day-tro-20261106"
+        "title": "강호동 농협회장 구속영장, 공소청서 불청구…혐의 소명 부족 판단",
+        "url": "https://www.fnnews.com/news/202611061836251479",
+        "event_key": "nonghyup-chair-kang-ho-dong-arrest-warrant-request-rejected-prosecution-20261106"
       },
       {
-        "title": "정당이 벌금5000만 링깃 대납…나집 전 총리, 교도소 떠나 가택연금 전환",
-        "url": "https://www.channelnewsasia.com/asia/malaysia-najib-razak-prison-release-begin-house-arrest-6530331",
-        "event_key": "najib-src-fine50million-paid-umno-house-arrest-order-release-20261106"
+        "title": "펀드 시세조종 수사, 튀르키예 전직 장관 구금…430여명 조사",
+        "url": "https://apnews.com/article/f8e9cbd71d20cce682ac2e3461b9e13a",
+        "event_key": "turkey-fatma-betul-sayan-kaya-pretrial-detention-fund-manipulation-probe-20261105"
       }
     ]
   }
