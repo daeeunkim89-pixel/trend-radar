@@ -3,10 +3,10 @@
   "items": {
     "1ea648ac2a0c": {
       "source": "Reuters·CNA",
-      "title": "델리 첫 ODI 개최지 변경…인도-스리랑카전, 비사카파트남으로",
+      "title": "인도–스리랑카 ODI, 델리서 비사카파트남으로 개최지 변경",
       "link": "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366",
       "first_seen_at": 1793945304,
-      "last_seen_at": 1793949162,
+      "last_seen_at": 1793952619,
       "samples": [
         {
           "at": 1793945304,
@@ -21,27 +21,34 @@
           "reactions": null,
           "rank": 6,
           "rank_kind": null
+        },
+        {
+          "at": 1793952619,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
         }
       ],
       "parser_revision": 7,
       "content_kind": "article",
       "story_id": "1ea648ac2a0c",
       "editorial": {
-        "title": "델리 첫 ODI 개최지 변경…인도-스리랑카전, 비사카파트남으로",
+        "title": "인도–스리랑카 ODI, 델리서 비사카파트남으로 개최지 변경",
         "category": "메이저 스포츠",
         "url": "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366",
         "source": "Reuters·CNA",
         "kind": "article",
-        "event_key": "bcci-india-srilanka-first-odi-delhi-visakhapatnam-venue-change-20261105",
-        "why": "국제경기 개최가 기상·시설과 대기질 우려에 영향을 받는 구체적 스포츠 운영 결정이다.",
-        "angle": "12월 13일 개최지 변경 사실과 공식 사유를 먼저 놓고 대기질 우려는 별도 보도임을 표시한다.",
-        "why_now": "인도 11/5 BCCI 발표. Reuters·CNA 최초 11/5 23:47:24 SGT(한국 11/6 00:47), 발표 자체의 최초 분단위는 미확인.",
-        "verified_at": 1793948851,
-        "published_at": 1793893644,
+        "event_key": "india-sri-lanka-odi-delhi-visakhapatnam-venue-change-20261105",
+        "why": "환경·기상 위험과 시설 정비가 국제 스포츠 개최지 결정에 미친 실제 변화다.",
+        "angle": "개최지 이동 확정과 BCCI가 밝힌 두 사유부터 보여준다.",
+        "why_now": "BCCI11월5일 발표(원문 최초 시각 미확인). Reuters·CNA 최초11월6일00:47:24 KST.",
+        "verified_at": 1793952366,
+        "published_at": null,
         "evidence": [
           {
             "url": "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366",
-            "note": "11/5 BCCI 발표를 전한 Reuters 본문. DDCA 요청·첫 ODI 장소 변경 및 공식 기상·보수 사유 확인. 대기질은 Cricbuzz의 별도 설명이다."
+            "note": "본문에서 BCCI가 12월13일 첫 ODI를 델리에서 비사카파트남으로 옮겼고 DDCA가 잠재적 기상 차질·구장 보수를 이유로 요청했음을 확인했다. 대기질 우려는 Cricbuzz의 별도 보도다."
           }
         ],
         "materials": [
@@ -51,16 +58,15 @@
             "kind": "source"
           }
         ],
-        "caution": "공식 사유는 기상 차질·보수공사. 대기오염만으로 취소됐다고 단정하지 않는다.",
+        "caution": "대기오염만으로 경기 취소 확정이라고 쓰지 않는다. 경기 취소가 아닌 개최지 변경. 공식 원문·영상 미확인.",
         "readiness": {
           "mode": "major_news",
           "event_date": "2026-11-05",
-          "observation": "Reuters 본문에서 DDCA 요청에 따라 BCCI가 12/13 첫 ODI를 델리에서 비사카파트남으로 변경했다고 확인했다. 공식 사유와 Cricbuzz가 전한 대기질 우려는 구분했다.",
+          "observation": "본문에서 BCCI가 12월13일 첫 ODI를 델리에서 비사카파트남으로 옮겼고 DDCA가 잠재적 기상 차질·구장 보수를 이유로 요청했음을 확인했다. 대기질 우려는 Cricbuzz의 별도 보도다.",
           "checked_materials": [],
           "outline": [
-            "델리에서 비사카파트남으로 바뀐 첫 ODI",
-            "기상 차질·보수공사라는 공식 사유",
-            "대기질 우려는 별도 보도, 단일 원인으로 단정 금지"
+            "12월13일 ODI 개최지 변경 지도·텍스트 제시",
+            "BCCI 발표의 기상·보수 사유와 대기질 별도 보도 구분"
           ]
         }
       },
@@ -74,11 +80,375 @@
           }
         ],
         "excerpt": "",
-        "context": "인도 11/5 BCCI 발표. Reuters·CNA 최초 11/5 23:47:24 SGT(한국 11/6 00:47), 발표 자체의 최초 분단위는 미확인.",
-        "fetched_at": 1793949162,
+        "context": "BCCI11월5일 발표(원문 최초 시각 미확인). Reuters·CNA 최초11월6일00:47:24 KST.",
+        "fetched_at": 1793952619,
         "parser_revision": 7
       },
-      "curation_event_key": "bcci-india-srilanka-first-odi-delhi-visakhapatnam-venue-change-20261105"
+      "curation_event_key": "india-sri-lanka-odi-delhi-visakhapatnam-venue-change-20261105"
+    },
+    "8597f467f25d": {
+      "source": "The Athletic·Yahoo",
+      "title": "45개국 여자축구 선수들, 월드컵 상금 격차에 법적 대응 검토",
+      "link": "https://sports.yahoo.com/articles/fifa-faces-potential-action-women-103110027.html",
+      "first_seen_at": 1793952619,
+      "last_seen_at": 1793952619,
+      "samples": [
+        {
+          "at": 1793952619,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "8597f467f25d",
+      "editorial": {
+        "title": "45개국 여자축구 선수들, 월드컵 상금 격차에 법적 대응 검토",
+        "category": "축구",
+        "url": "https://sports.yahoo.com/articles/fifa-faces-potential-action-women-103110027.html",
+        "source": "The Athletic·Yahoo",
+        "kind": "article",
+        "event_key": "womens-world-cup45-nations-prize-money-legal-options-letter-disclosed-20261105",
+        "why": "세계 정상급 대표팀까지 참여한 상금·선수 권리 분쟁으로, 2027 월드컵 운영에 직접 영향을 준다.",
+        "angle": "45개국의 요구와 FIFA·FIFPRO 공동 입장을 나란히 제시한다.",
+        "why_now": "The Athletic 11월5일 새 보도. 9월 서한의 내용과 법률 검토가 드러난 후속이다. 원문 최초 시각은 일 단위만 확인; Yahoo 송고는 5일19:31:10 KST.",
+        "verified_at": 1793952434,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://sports.yahoo.com/articles/fifa-faces-potential-action-women-103110027.html",
+            "note": "직접 취재 보도 본문에서 45개국 대표·FIFPRO의 9월 서한, 비례 동등 상금과 선수 몫 최소30% 요구, 일부 노조의 법률 검토 및 양측의 협상 지속 공동 입장을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://sports.yahoo.com/articles/fifa-faces-potential-action-women-103110027.html",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "소송 제기·보이콧 확정이 아니다. 서한 원본은 직접 열람하지 않았고 보도에서 확인했다. 영상 미시청.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "직접 취재 보도 본문에서 45개국 대표·FIFPRO의 9월 서한, 비례 동등 상금과 선수 몫 최소30% 요구, 일부 노조의 법률 검토 및 양측의 협상 지속 공동 입장을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "45개국 참여 서한과 비례 동등 상금 요구 설명",
+            "선수 몫30%·최소기준·구속력 합의 요구 정리",
+            "법률 검토 단계와 FIFA·FIFPRO 협상 지속 입장 병기"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://sports.yahoo.com/articles/fifa-faces-potential-action-women-103110027.html"
+          }
+        ],
+        "excerpt": "",
+        "context": "The Athletic 11월5일 새 보도. 9월 서한의 내용과 법률 검토가 드러난 후속이다. 원문 최초 시각은 일 단위만 확인; Yahoo 송고는 5일19:31:10 KST.",
+        "fetched_at": 1793952619,
+        "parser_revision": 7
+      },
+      "curation_event_key": "womens-world-cup45-nations-prize-money-legal-options-letter-disclosed-20261105"
+    },
+    "abbad2ff29d8": {
+      "source": "CNN Indonesia·ANTARA",
+      "title": "중동 안전 우려에 인도네시아–요르단 A매치 취소…호주전은 유지",
+      "link": "https://www.cnnindonesia.com/olahraga/20261105160757-142-1423740/resmi-yordania-vs-timnas-indonesia-di-fifa-matchday-batal",
+      "first_seen_at": 1793952619,
+      "last_seen_at": 1793952619,
+      "samples": [
+        {
+          "at": 1793952619,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "abbad2ff29d8",
+      "editorial": {
+        "title": "중동 안전 우려에 인도네시아–요르단 A매치 취소…호주전은 유지",
+        "category": "축구",
+        "url": "https://www.cnnindonesia.com/olahraga/20261105160757-142-1423740/resmi-yordania-vs-timnas-indonesia-di-fifa-matchday-batal",
+        "source": "CNN Indonesia·ANTARA",
+        "kind": "article",
+        "event_key": "jordan-indonesia-friendly-cancelled-pssi-safety-decision-20261105",
+        "why": "지역 안보 불안이 국가대표 일정의 실제 취소로 이어졌다. 아시안컵 연기와 구별되는 새 결정이다.",
+        "angle": "같은 암만, 인도네시아전 취소·호주전 유지의 차이부터 보여준다.",
+        "why_now": "요르단축구협회 11월5일 발표(최초 시각 미확인). CNN 송고5일18:14:46 KST. PSSI 회장의 안전 고려 설명도 확인했다.",
+        "verified_at": 1793952403,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.cnnindonesia.com/olahraga/20261105160757-142-1423740/resmi-yordania-vs-timnas-indonesia-di-fifa-matchday-batal",
+            "note": "CNN 본문에서 13일 암만 인도네시아전이 PSSI 요청으로 취소됐고 17일 호주전은 유지됨을 확인했다. ANTARA의 당사자 취재에서 에리크 회장은 선수 안전과 대체 일정 논의를 설명했다."
+          },
+          {
+            "url": "https://www.antaranews.com/berita/5834655/indonesia-batal-lawan-yordania-erick-serahkan-rencana-ke-herdman",
+            "note": "PSSI 회장 에리크의 선수 안전 고려 설명과 BTN·허드먼 감독의 대체 계획 논의를 당사자 취재 본문으로 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.cnnindonesia.com/olahraga/20261105160757-142-1423740/resmi-yordania-vs-timnas-indonesia-di-fifa-matchday-batal",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "협회 원문은 직접 열지 못했다. 쿠웨이트전·호주전까지 취소됐다고 확대하지 않는다. 영상 미시청.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "CNN 본문에서 13일 암만 인도네시아전이 PSSI 요청으로 취소됐고 17일 호주전은 유지됨을 확인했다. ANTARA의 당사자 취재에서 에리크 회장은 선수 안전과 대체 일정 논의를 설명했다.",
+          "checked_materials": [],
+          "outline": [
+            "11월13일 평가전 취소 결정과 PSSI 요청 제시",
+            "에리크 회장의 안전 고려 설명과 대체 일정 미정 정리",
+            "11월17일 호주전은 유지된다는 확인 병기"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://www.cnnindonesia.com/olahraga/20261105160757-142-1423740/resmi-yordania-vs-timnas-indonesia-di-fifa-matchday-batal"
+          }
+        ],
+        "excerpt": "",
+        "context": "요르단축구협회 11월5일 발표(최초 시각 미확인). CNN 송고5일18:14:46 KST. PSSI 회장의 안전 고려 설명도 확인했다.",
+        "fetched_at": 1793952619,
+        "parser_revision": 7
+      },
+      "curation_event_key": "jordan-indonesia-friendly-cancelled-pssi-safety-decision-20261105"
+    },
+    "cb0c5eef4e14": {
+      "source": "경향신문",
+      "title": "공석 석 달째 법무장관, 이용철 방사청장 내정…청문회 절차 남았다",
+      "link": "https://www.khan.co.kr/article/202611061533001/amp",
+      "first_seen_at": 1793952619,
+      "last_seen_at": 1793952619,
+      "samples": [
+        {
+          "at": 1793952619,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "cb0c5eef4e14",
+      "editorial": {
+        "title": "공석 석 달째 법무장관, 이용철 방사청장 내정…청문회 절차 남았다",
+        "category": "시사",
+        "url": "https://www.khan.co.kr/article/202611061533001/amp",
+        "source": "경향신문",
+        "kind": "article",
+        "event_key": "lee-yong-cheol-justice-minister-nominee-announced-20261106",
+        "why": "형사사법체계 개편 직후 법무행정을 이끌 장관 인선으로 국가적 중요성이 크다.",
+        "angle": "공석 장기화 뒤 새 후보 지명 사실과 앞으로 남은 절차를 제시한다.",
+        "why_now": "11월6일 청와대 브리핑에서 내정 발표. 기사 최초15:33 KST, 16:51 갱신을 최초 공개로 바꾸지 않았다.",
+        "verified_at": 1793952404,
+        "published_at": 1793946780,
+        "evidence": [
+          {
+            "url": "https://www.khan.co.kr/article/202611061533001/amp",
+            "note": "본문에서 임광현 비서실장의 이용철 방사청장 법무장관 후보 내정 발표와 새 형사사법체계 안착 설명을 확인했다. 후보자는 현 방사청장으로, 장관 취임 확정 단계가 아니다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.khan.co.kr/article/202611061533001/amp",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "내정과 취임을 구분한다. 야당의 과거 의혹 제기를 확정 사실로 쓰지 않는다. 브리핑 영상 미시청.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-06",
+          "observation": "본문에서 임광현 비서실장의 이용철 방사청장 법무장관 후보 내정 발표와 새 형사사법체계 안착 설명을 확인했다. 후보자는 현 방사청장으로, 장관 취임 확정 단계가 아니다.",
+          "checked_materials": [],
+          "outline": [
+            "법무장관 후보 이용철 내정 발표 제시",
+            "장관 공석과 형사사법체계 안착 과제 설명",
+            "청문회에서 다뤄질 검증 절차와 의혹·확정 사실 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://www.khan.co.kr/article/202611061533001/amp"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월6일 청와대 브리핑에서 내정 발표. 기사 최초15:33 KST, 16:51 갱신을 최초 공개로 바꾸지 않았다.",
+        "fetched_at": 1793952619,
+        "parser_revision": 7
+      },
+      "curation_event_key": "lee-yong-cheol-justice-minister-nominee-announced-20261106"
+    },
+    "04abd61fb9d3": {
+      "source": "SBS",
+      "title": "술자리 뒤 비행 취소, 공군총장 지시 인정…본부 답변·사과 공개",
+      "link": "https://news.sbs.co.kr/amp/news.amp?news_id=N1008831005",
+      "first_seen_at": 1793952619,
+      "last_seen_at": 1793952619,
+      "samples": [
+        {
+          "at": 1793952619,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "04abd61fb9d3",
+      "editorial": {
+        "title": "술자리 뒤 비행 취소, 공군총장 지시 인정…본부 답변·사과 공개",
+        "category": "시사",
+        "url": "https://news.sbs.co.kr/amp/news.amp?news_id=N1008831005",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "air-force-chief-admits-flight-cancellation-orders-drinking-20261104",
+        "why": "군 대비태세와 지휘 책임 문제다. 기존 간담회·감사 보도 뒤 총장 지시 인정이 새로 확인됐다.",
+        "angle": "총장 지시로 취소된 세 차례와 기상 취소 한 차례를 분리한다.",
+        "why_now": "11월4일20:49 KST 최초 보도, 현재48시간 이내. 2일 발송된 간담회·감사 착수와 달리 지시 주체 인정·총장 사과가 새 후속이다.",
+        "verified_at": 1793952381,
+        "published_at": 1793792940,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/amp/news.amp?news_id=N1008831005",
+            "note": "SBS 기사 전문에서 공군본부가 총장 지시의 음주 후 비행 취소를 인정한 답변과 총장 입장문을 확인했다. 총장 주관6회 중3회 음주 후 취소,1회는 기상 취소라고 본부가 설명했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/amp/news.amp?news_id=N1008831005",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "4~5월 간담회에 대한 11월4일 새 확인이다. 현재 비행 취소로 쓰지 않으며, 기사 속 영상은 시청하지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-04",
+          "observation": "SBS 기사 전문에서 공군본부가 총장 지시의 음주 후 비행 취소를 인정한 답변과 총장 입장문을 확인했다. 총장 주관6회 중3회 음주 후 취소,1회는 기상 취소라고 본부가 설명했다.",
+          "checked_materials": [],
+          "outline": [
+            "총장 지시 인정과 사과 입장문으로 시작",
+            "6회 중3회 음주 취소·1회 기상 취소 구분",
+            "4~5월 행사와11월4일 확인 시점, 지휘 책임 쟁점 설명"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://news.sbs.co.kr/amp/news.amp?news_id=N1008831005"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월4일20:49 KST 최초 보도, 현재48시간 이내. 2일 발송된 간담회·감사 착수와 달리 지시 주체 인정·총장 사과가 새 후속이다.",
+        "fetched_at": 1793952619,
+        "parser_revision": 7
+      },
+      "curation_event_key": "air-force-chief-admits-flight-cancellation-orders-drinking-20261104"
+    },
+    "e16635edf7f4": {
+      "source": "연합뉴스",
+      "title": "김태규 제명 촉구 결의안 166표 통과…실제 제명은 별도 표결",
+      "link": "https://www.yna.co.kr/amp/view/AKR20261105136100001",
+      "first_seen_at": 1793952619,
+      "last_seen_at": 1793952619,
+      "samples": [
+        {
+          "at": 1793952619,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "e16635edf7f4",
+      "editorial": {
+        "title": "김태규 제명 촉구 결의안 166표 통과…실제 제명은 별도 표결",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/amp/view/AKR20261105136100001",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "kim-tae-gyu-expulsion-urging-resolution-166-vote-20261105",
+        "why": "내란 부정 발언을 둘러싼 국회 본회의의 공식 의결이다. 법적 효력과 정치적 요구의 차이가 핵심이다.",
+        "angle": "찬성166표보다 먼저, 제명 촉구와 실제 제명의 차이를 설명한다.",
+        "why_now": "11월5일 본회의 의결, 원문 최초15:52:53 KST. 24~48시간 미발송 범위로 확장해 확인했다.",
+        "verified_at": 1793952363,
+        "published_at": 1793861573,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/amp/view/AKR20261105136100001",
+            "note": "기사 본문에서 투표167표 중 찬성166·무효1, 국민의힘 불참과 제명 촉구 결의안 의결을 확인했다. 실제 제명은 별도 징계안과 재적의원3분의2 찬성이 필요하다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/amp/view/AKR20261105136100001",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "제명 완료·의원직 상실로 표현하지 않는다. 발언 비판은 결의안·발의자의 주장으로 구분한다. 영상 미시청.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "기사 본문에서 투표167표 중 찬성166·무효1, 국민의힘 불참과 제명 촉구 결의안 의결을 확인했다. 실제 제명은 별도 징계안과 재적의원3분의2 찬성이 필요하다.",
+          "checked_materials": [],
+          "outline": [
+            "제명 촉구 결의안 통과와 표결 결과 제시",
+            "내란 부정 발언 논란이라는 의결 배경 설명",
+            "실제 제명에 필요한 별도 징계안·3분의2 요건 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://www.yna.co.kr/amp/view/AKR20261105136100001"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월5일 본회의 의결, 원문 최초15:52:53 KST. 24~48시간 미발송 범위로 확장해 확인했다.",
+        "fetched_at": 1793952619,
+        "parser_revision": 7
+      },
+      "curation_event_key": "kim-tae-gyu-expulsion-urging-resolution-166-vote-20261105"
     },
     "94afbed8e312": {
       "source": "AP·Newsday",
@@ -31061,735 +31431,7 @@
         "parser_revision": 7
       },
       "curation_event_key": "daegu-repeat-enlistment-refusal-one-year-prison-20261030"
-    },
-    "d9e3e29baad5": {
-      "source": "연합뉴스",
-      "title": "변호사가3번 안 나간 학폭 소송…유족의 재개 요청,대법에서도 막혔다",
-      "link": "https://www.yna.co.kr/view/AKR20261030106800004",
-      "first_seen_at": 1793347607,
-      "last_seen_at": 1793347607,
-      "samples": [
-        {
-          "at": 1793347607,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "d9e3e29baad5",
-      "editorial": {
-        "title": "변호사가3번 안 나간 학폭 소송…유족의 재개 요청,대법에서도 막혔다",
-        "category": "시사",
-        "url": "https://www.yna.co.kr/view/AKR20261030106800004",
-        "source": "연합뉴스",
-        "kind": "article",
-        "event_key": "kwon-lawyer-no-show-school-violence-lawsuit-final-closure-20261030",
-        "why": "변호사의 불출석 때문에 피해자 측 항소가 사라졌고,다시 다퉈달라는 요청마저 끝난 절차의 역설이 크다.",
-        "angle": "내 변호사가 안 나가서 끝난 재판,되돌릴 수 없었다",
-        "why_now": "10/30 대법 소송종료 확정,14:01 원취재 공개.2015년 피해·2016년 제소·2022년 불출석과 새 대법 결론을 구분.분 단위 공개시각.",
-        "verified_at": 1793347245,
-        "published_at": 1793336460,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261030106800004",
-            "note": "연합뉴스 법원 취재 본문에서3회 불출석에 따른 항소 취하 간주·소송종료 선언·대법 심리불속행 기각을 확인했다.권 변호사 상대6500만원 배상 사건은 별개다.판결문 전체는 미열람."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261030106800004",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "학폭 가해가 없다는 본안 확정 판단으로 쓰지 않음.변호사 배상 사건과 구별.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-30",
-          "observation": "연합뉴스 법원 취재 본문에서3회 불출석에 따른 항소 취하 간주·소송종료 선언·대법 심리불속행 기각을 확인했다.권 변호사 상대6500만원 배상 사건은 별개다.판결문 전체는 미열람.",
-          "checked_materials": [],
-          "outline": [
-            "변호사3차례 불출석으로 항소 취하 간주된 경위",
-            "유족의 재개 요청과 소송종료 선언",
-            "10/30 대법 확정과 변호사 상대 별도 배상 소송 구분"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.yna.co.kr/view/AKR20261030106800004"
-          }
-        ],
-        "excerpt": "",
-        "context": "10/30 대법 소송종료 확정,14:01 원취재 공개.2015년 피해·2016년 제소·2022년 불출석과 새 대법 결론을 구분.분 단위 공개시각.",
-        "fetched_at": 1793347607,
-        "parser_revision": 7
-      },
-      "curation_event_key": "kwon-lawyer-no-show-school-violence-lawsuit-final-closure-20261030"
-    },
-    "9a8a88208d6f": {
-      "source": "뉴시스",
-      "title": "품절 디저트 후속작에서 대장균군…GS25,판매 중단·재고 폐기·환불 예고",
-      "link": "https://www.newsis.com/view/NISX20261030_0003848525",
-      "first_seen_at": 1793347607,
-      "last_seen_at": 1793347607,
-      "samples": [
-        {
-          "at": 1793347607,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "9a8a88208d6f",
-      "editorial": {
-        "title": "품절 디저트 후속작에서 대장균군…GS25,판매 중단·재고 폐기·환불 예고",
-        "category": "시사",
-        "url": "https://www.newsis.com/view/NISX20261030_0003848525",
-        "source": "뉴시스",
-        "kind": "article",
-        "event_key": "gs25-hanjeongseon-pistachio-ricecake-recall-20261030",
-        "why": "줄 서서 찾던 디저트의 후속 상품이 판매 중단·환불 대상으로 바뀌어 구매자의 행동과 돈 손익이 바로 걸린다.",
-        "angle": "냉장고에 있다면 제조일부터 확인할 찹쌀떡",
-        "why_now": "10/30 회수·판매중지 공개 및 GS25 대응.뉴시스14:50:34,앞선 한경14:29 취재와 대조.제조일10/23인80g 제품이며 오늘 제조 아님.",
-        "verified_at": 1793347361,
-        "published_at": 1793338140,
-        "evidence": [
-          {
-            "url": "https://www.newsis.com/view/NISX20261030_0003848525",
-            "note": "뉴시스·한경의 취재 본문에서10/23 제조 피스타치오 제품의 대장균군 기준 부적합·판매 중단·재고 폐기·환불 예정 확인.식품안전정보원 공식 회수 목록에 제품·업체 등재를 대조했다."
-          },
-          {
-            "url": "https://www.xn--6j1bl6kbyhngc194dj3jtyk7ydotee6c.kr/page/main.do",
-            "note": "식품안전정보원 공식 회수·판매중지 목록에 한정선 피스타치오 찹쌀떡·로로에프엔비 등재 확인."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.newsis.com/view/NISX20261030_0003848525",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "모든 맛·모든 제조분이 회수 대상이라는 뜻 아님.대장균군을 식중독 확진으로 쓰지 않음.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-30",
-          "observation": "뉴시스·한경의 취재 본문에서10/23 제조 피스타치오 제품의 대장균군 기준 부적합·판매 중단·재고 폐기·환불 예정 확인.식품안전정보원 공식 회수 목록에 제품·업체 등재를 대조했다.",
-          "checked_materials": [],
-          "outline": [
-            "요거트 인기 뒤 나온 피스타치오 후속 상품 소개",
-            "10/23 제조분·80g과 기준 부적합 회수 대상 구분",
-            "판매 중단·재고 폐기와 구매자 환불 계획 정리"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.newsis.com/view/NISX20261030_0003848525"
-          }
-        ],
-        "excerpt": "",
-        "context": "10/30 회수·판매중지 공개 및 GS25 대응.뉴시스14:50:34,앞선 한경14:29 취재와 대조.제조일10/23인80g 제품이며 오늘 제조 아님.",
-        "fetched_at": 1793347607,
-        "parser_revision": 7
-      },
-      "curation_event_key": "gs25-hanjeongseon-pistachio-ricecake-recall-20261030"
-    },
-    "36037fd3c369": {
-      "source": "YTN",
-      "title": "30만원에 낙찰돼도40만원어치 더 산다…무상교복 예산,반납 학교는2곳",
-      "link": "https://www.ytn.co.kr/_ln/0103_202610300542097007",
-      "first_seen_at": 1793347607,
-      "last_seen_at": 1793347607,
-      "samples": [
-        {
-          "at": 1793347607,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "36037fd3c369",
-      "editorial": {
-        "title": "30만원에 낙찰돼도40만원어치 더 산다…무상교복 예산,반납 학교는2곳",
-        "category": "시사",
-        "url": "https://www.ytn.co.kr/_ln/0103_202610300542097007",
-        "source": "YTN",
-        "kind": "article",
-        "event_key": "gyeonggi-free-uniform-budget-contract-topup-collusion-report-20261030",
-        "why": "싸게 낙찰받아도 여벌 계약으로 예산을 꽉 채운다는 구조가 경쟁 입찰과 비용 절감의 기대를 뒤집는다.",
-        "angle": "최저가로 뽑았는데 최종 지출은 똑같았다",
-        "why_now": "10/30 05:42 YTN 단독 원취재.2026학년도 예산 집행 분석이며30일 새 담합 판결이 아님.교복 제도 도입은2019년.",
-        "verified_at": 1793347300,
-        "published_at": 1793306520,
-        "evidence": [
-          {
-            "url": "https://www.ytn.co.kr/_ln/0103_202610300542097007",
-            "note": "YTN 취재 전문에서1300여 학교 중 반납2곳·변경 계약으로 여벌 구매·교육청 관계자 설명을 확인했다.지역 업체 담합은 취재상 정황이며 확정 유죄로 취급하지 않았다.방송 영상은 미시청."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.ytn.co.kr/_ln/0103_202610300542097007",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "여벌 교복이 제공된 지출.차액이 전부 횡령됐다는 뜻 아님.담합은 취재 정황.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-30",
-          "observation": "YTN 취재 전문에서1300여 학교 중 반납2곳·변경 계약으로 여벌 구매·교육청 관계자 설명을 확인했다.지역 업체 담합은 취재상 정황이며 확정 유죄로 취급하지 않았다.방송 영상은 미시청.",
-          "checked_materials": [],
-          "outline": [
-            "입찰 낙찰액과 학생당40만원 현물지원 구조",
-            "여벌 추가 계약으로 차액을 집행한 방식",
-            "담합 유인 지적과 교육청의 최대지원 설명 병기"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.ytn.co.kr/_ln/0103_202610300542097007"
-          }
-        ],
-        "excerpt": "",
-        "context": "10/30 05:42 YTN 단독 원취재.2026학년도 예산 집행 분석이며30일 새 담합 판결이 아님.교복 제도 도입은2019년.",
-        "fetched_at": 1793347607,
-        "parser_revision": 7
-      },
-      "curation_event_key": "gyeonggi-free-uniform-budget-contract-topup-collusion-report-20261030"
-    },
-    "71327202309f": {
-      "source": "머니투데이",
-      "title": "불륜 폭로해놓고 “불륜인지는 모르겠다”…양홍원 폭로자,인터뷰서 사과",
-      "link": "https://www.mt.co.kr/amp/society/2026/10/30/2026102923423962197",
-      "first_seen_at": 1793347607,
-      "last_seen_at": 1793347607,
-      "samples": [
-        {
-          "at": 1793347607,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "71327202309f",
-      "editorial": {
-        "title": "불륜 폭로해놓고 “불륜인지는 모르겠다”…양홍원 폭로자,인터뷰서 사과",
-        "category": "시사",
-        "url": "https://www.mt.co.kr/amp/society/2026/10/30/2026102923423962197",
-        "source": "머니투데이",
-        "kind": "article",
-        "event_key": "yang-hong-won-accuser-interview-admission-apology-20261029",
-        "why": "확신을 심어준 폭로자가 직접 본 것과 모르는 것을 나눠 말하고 일부 거짓 게시물까지 인정한 반전이다.",
-        "angle": "모텔에 들어간 건 봤다,그 안은 모른다는 폭로자",
-        "why_now": "새 인터뷰는10/29 그레이뉴스 공개,정확한 업로드 시각 미확인.10/30 05:10 원문 취재와 구분.10/23 최초 의혹을 신규 발생으로 쓰지 않음.",
-        "verified_at": 1793347244,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.mt.co.kr/amp/society/2026/10/30/2026102923423962197",
-            "note": "머니투데이의 인터뷰 취재 본문에서30만원 차용 요청·법률대리인 연락 갈등 주장·불륜 여부 모른다는 답변·돈 받았다는 게시물은 거짓이라는 인정을 확인했다.직접 영상 시청은 하지 않았다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.mt.co.kr/amp/society/2026/10/30/2026102923423962197",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "불륜 사실·전면 무고 어느 쪽도 확정 아님.30만원은 요청액,폭로 대가 확정 아님.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-29",
-          "observation": "머니투데이의 인터뷰 취재 본문에서30만원 차용 요청·법률대리인 연락 갈등 주장·불륜 여부 모른다는 답변·돈 받았다는 게시물은 거짓이라는 인정을 확인했다.직접 영상 시청은 하지 않았다.",
-          "checked_materials": [],
-          "outline": [
-            "폭로자가 봤다고 주장한 이동 장면의 범위",
-            "불륜 여부는 모른다는 새 인터뷰와 사과",
-            "거짓이라고 인정한 돈 수령 게시물과 나머지 주장 구별"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.mt.co.kr/amp/society/2026/10/30/2026102923423962197"
-          }
-        ],
-        "excerpt": "",
-        "context": "새 인터뷰는10/29 그레이뉴스 공개,정확한 업로드 시각 미확인.10/30 05:10 원문 취재와 구분.10/23 최초 의혹을 신규 발생으로 쓰지 않음.",
-        "fetched_at": 1793347607,
-        "parser_revision": 7
-      },
-      "curation_event_key": "yang-hong-won-accuser-interview-admission-apology-20261029"
-    },
-    "547bfbf81e5c": {
-      "source": "뉴시스",
-      "title": "실종자 찾으려 오피스텔 DNA 감식했더니…19년 미제 성폭행 용의자였다",
-      "link": "https://www.newsis.com/view/NISX20261030_0003848599",
-      "first_seen_at": 1793347607,
-      "last_seen_at": 1793347607,
-      "samples": [
-        {
-          "at": 1793347607,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "547bfbf81e5c",
-      "editorial": {
-        "title": "실종자 찾으려 오피스텔 DNA 감식했더니…19년 미제 성폭행 용의자였다",
-        "category": "시사",
-        "url": "https://www.newsis.com/view/NISX20261030_0003848599",
-        "source": "뉴시스",
-        "kind": "article",
-        "event_key": "gangseo-missing-person-dna-cold-case-indictment-20261030",
-        "why": "다른 사람의 실종을 찾던 전 호실 감식이19년 묵은 두 사건의 용의자를 찾아낸 수사 경로의 반전이다.",
-        "angle": "찾던 실종자 대신,오래된 사건의 DNA가 나왔다",
-        "why_now": "새 구속기소 발표10/30,기소10/29·검거10/15·송치10/23.2007년 범행과7월 실종수사를 오늘 사건으로 바꾸지 않음.첫 확인 MBN14:10,뉴시스15:26:46.",
-        "verified_at": 1793347269,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.newsis.com/view/NISX20261030_0003848599",
-            "note": "뉴시스 발표 취재와 MBN 단독 본문에서오피스텔 전체 호실 DNA 감식·미제 사건 DNA 일치·두 사건 시인·29일 구속기소를 확인했다.실종 사건 가해자로 지목된 것은 아니다."
-          },
-          {
-            "url": "https://n.news.naver.com/article/057/0001975938",
-            "note": "MBN 단독 취재에서도7월 실종수사 DNA·15일 검거·23일 송치 경로 확인."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.newsis.com/view/NISX20261030_0003848599",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "기소·수사 발표 단계.실종 사건에도 가담했다거나 유죄 확정으로 쓰지 않음.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-30",
-          "observation": "뉴시스 발표 취재와 MBN 단독 본문에서오피스텔 전체 호실 DNA 감식·미제 사건 DNA 일치·두 사건 시인·29일 구속기소를 확인했다.실종 사건 가해자로 지목된 것은 아니다.",
-          "checked_materials": [],
-          "outline": [
-            "강서구 실종 사건을 찾던 전체 호실 감식",
-            "한 호실의 DNA와2007년 두 사건의 일치",
-            "검거·송치·29일 기소와30일 새 공개를 구분"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.newsis.com/view/NISX20261030_0003848599"
-          }
-        ],
-        "excerpt": "",
-        "context": "새 구속기소 발표10/30,기소10/29·검거10/15·송치10/23.2007년 범행과7월 실종수사를 오늘 사건으로 바꾸지 않음.첫 확인 MBN14:10,뉴시스15:26:46.",
-        "fetched_at": 1793347607,
-        "parser_revision": 7
-      },
-      "curation_event_key": "gangseo-missing-person-dna-cold-case-indictment-20261030"
-    },
-    "99988334a40d": {
-      "source": "연합뉴스",
-      "title": "267만원 가방은 위법한 선물,남편 공모는 입증 안 돼…김기현 무죄·아내 벌금",
-      "link": "https://www.yna.co.kr/amp/view/AKR20261030122300004",
-      "first_seen_at": 1793347607,
-      "last_seen_at": 1793347607,
-      "samples": [
-        {
-          "at": 1793347607,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "99988334a40d",
-      "editorial": {
-        "title": "267만원 가방은 위법한 선물,남편 공모는 입증 안 돼…김기현 무죄·아내 벌금",
-        "category": "시사",
-        "url": "https://www.yna.co.kr/amp/view/AKR20261030122300004",
-        "source": "연합뉴스",
-        "kind": "article",
-        "event_key": "kim-gi-hyeon-spouse-luxury-bag-first-verdict-20261030",
-        "why": "같은 가방 전달에서 위법성은 인정하면서 부부의 공모 증명은 갈린 구체적인 판결 차이다.",
-        "angle": "위법한 선물이 맞아도 부부가 같은 판결을 받진 않았다",
-        "why_now": "10/30 1심 선고15:01 원취재 공개.가방 제공 혐의일은2023/3/17이며 새 선물 사건이 아니다.분 단위 시각.",
-        "verified_at": 1793347245,
-        "published_at": 1793340060,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/amp/view/AKR20261030122300004",
-            "note": "연합뉴스 법정 취재에서당대표 선거 지원 대가·대통령 직무 관련성 인정·아내500만원 벌금·남편 공모 증거 부족 무죄를 확인했다.특검 구형1년·6개월과 실제 선고를 구분했다.판결문 전체 미열람."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/amp/view/AKR20261030122300004",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "1심이며 확정 아님.선물이 합법이라는 판단도,부부 모두 무죄라는 판단도 아님.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-30",
-          "observation": "연합뉴스 법정 취재에서당대표 선거 지원 대가·대통령 직무 관련성 인정·아내500만원 벌금·남편 공모 증거 부족 무죄를 확인했다.특검 구형1년·6개월과 실제 선고를 구분했다.판결문 전체 미열람.",
-          "checked_materials": [],
-          "outline": [
-            "당대표 선거 지원 답례로 제공된267만원 가방",
-            "직무 관련성·위법성을 인정한 법원 판단",
-            "아내 벌금과 남편 공모 증명 부족 무죄를 구분"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.yna.co.kr/amp/view/AKR20261030122300004"
-          }
-        ],
-        "excerpt": "",
-        "context": "10/30 1심 선고15:01 원취재 공개.가방 제공 혐의일은2023/3/17이며 새 선물 사건이 아니다.분 단위 시각.",
-        "fetched_at": 1793347607,
-        "parser_revision": 7
-      },
-      "curation_event_key": "kim-gi-hyeon-spouse-luxury-bag-first-verdict-20261030"
-    },
-    "e822348ed0cc": {
-      "source": "스타뉴스",
-      "title": "“나만 잘렸다”던 도경완의 복귀 편지…센터장 답도 “시청률 안 오르면 제거”",
-      "link": "https://www.starnewskorea.com/star/2026/10/30/2026103000243880109",
-      "first_seen_at": 1793347607,
-      "last_seen_at": 1793347607,
-      "samples": [
-        {
-          "at": 1793347607,
-          "views": null,
-          "reactions": null,
-          "rank": 7,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "e822348ed0cc",
-      "editorial": {
-        "title": "“나만 잘렸다”던 도경완의 복귀 편지…센터장 답도 “시청률 안 오르면 제거”",
-        "category": "시사",
-        "url": "https://www.starnewskorea.com/star/2026/10/30/2026103000243880109",
-        "source": "스타뉴스",
-        "kind": "article",
-        "event_key": "do-kyung-wan-pyeonstorang-center-chief-reply-20261029",
-        "why": "하차를 자책하던 방송인이 복귀 포부를 보내자 센터장이 같은 표현으로 받아친 왕복 대사가 완결된 웃음 포인트다.",
-        "angle": "복귀 감사 편지의 답장이 다시 해고 농담이었다",
-        "why_now": "원본 편스토랑7주년 방송10/29.10/30 07:00 스타뉴스 대사 취재와 구분.10/22 절약 방송을 새 장면으로 취급하지 않음.정확한 해당 대사 초단위 미확인.",
-        "verified_at": 1793347300,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.starnewskorea.com/star/2026/10/30/2026103000243880109",
-            "note": "스타뉴스 방송 취재 본문에서차트남 하차 설명·이상민은 잔류·장윤정의 미련 갖지 말라는 농담·붐이 대신 읽은 센터장 포상휴가/제거 코멘트를 확인했다.원방송 영상은 미시청."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.starnewskorea.com/star/2026/10/30/2026103000243880109",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "논란 때문에 하차했다는 인과 확인 없음.센터장 발언은 방송 속 농담.영상 미시청.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-29",
-          "observation": "스타뉴스 방송 취재 본문에서차트남 하차 설명·이상민은 잔류·장윤정의 미련 갖지 말라는 농담·붐이 대신 읽은 센터장 포상휴가/제거 코멘트를 확인했다.원방송 영상은 미시청.",
-          "checked_materials": [],
-          "outline": [
-            "차트남 하차 뒤 혼자 바뀌었다는 대화",
-            "편스토랑 복귀 감사·포상휴가를 제안한 편지",
-            "붐이 전한 센터장의 제거 농담으로 회수"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.starnewskorea.com/star/2026/10/30/2026103000243880109"
-          }
-        ],
-        "excerpt": "",
-        "context": "원본 편스토랑7주년 방송10/29.10/30 07:00 스타뉴스 대사 취재와 구분.10/22 절약 방송을 새 장면으로 취급하지 않음.정확한 해당 대사 초단위 미확인.",
-        "fetched_at": 1793347607,
-        "parser_revision": 7
-      },
-      "curation_event_key": "do-kyung-wan-pyeonstorang-center-chief-reply-20261029"
-    },
-    "9b66ef68acc9": {
-      "source": "뉴시스",
-      "title": "“공익 위한 공개” 주장했지만…피해자 신상 올린 변호사,2심서 법정구속",
-      "link": "https://www.newsis.com/view/NISX20261030_0003848168",
-      "first_seen_at": 1793347607,
-      "last_seen_at": 1793347607,
-      "samples": [
-        {
-          "at": 1793347607,
-          "views": null,
-          "reactions": null,
-          "rank": 8,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "9b66ef68acc9",
-      "editorial": {
-        "title": "“공익 위한 공개” 주장했지만…피해자 신상 올린 변호사,2심서 법정구속",
-        "category": "시사",
-        "url": "https://www.newsis.com/view/NISX20261030_0003848168",
-        "source": "뉴시스",
-        "kind": "article",
-        "event_key": "jung-chul-seung-victim-identity-appeal-custody-20261030",
-        "why": "법률대리인이 공개한 피해자 정보가 공익 행위라는 주장과 법원이 인정한2차 피해가 정면으로 충돌한다.",
-        "angle": "공익을 위한 글이라는 주장,법원은 피해자 공격으로 봤다",
-        "why_now": "새 항소심 병합 선고·법정구속10/30 11:29:54 공개.신상 게시2021/8·추행2023/3과 구분.1심 두 사건은 각각1년이었다.",
-        "verified_at": 1793347361,
-        "published_at": 1793327394,
-        "evidence": [
-          {
-            "url": "https://www.newsis.com/view/NISX20261030_0003848168",
-            "note": "뉴시스 법원 취재 본문에서신상 특정 가능·공익 주장 배척·주요 혐의 유죄 유지·징역1년6개월·도주 우려 법정구속을 확인했다.강제추행치상 중 상해 부분 무죄는 구분했다.판결문 전체는 미열람."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.newsis.com/view/NISX20261030_0003848168",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "피해자의 신상·세부 근무이력 재노출 금지.2심 결과이며 확정 여부 미확인.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-30",
-          "observation": "뉴시스 법원 취재 본문에서신상 특정 가능·공익 주장 배척·주요 혐의 유죄 유지·징역1년6개월·도주 우려 법정구속을 확인했다.강제추행치상 중 상해 부분 무죄는 구분했다.판결문 전체는 미열람.",
-          "checked_materials": [],
-          "outline": [
-            "SNS 공개 내용이 피해자를 특정할 수 있다는 판단",
-            "공익 목적 주장과 재판부의 배척 이유",
-            "병합2심 실형·구속과 상해 부분 무죄를 구분"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.newsis.com/view/NISX20261030_0003848168"
-          }
-        ],
-        "excerpt": "",
-        "context": "새 항소심 병합 선고·법정구속10/30 11:29:54 공개.신상 게시2021/8·추행2023/3과 구분.1심 두 사건은 각각1년이었다.",
-        "fetched_at": 1793347607,
-        "parser_revision": 7
-      },
-      "curation_event_key": "jung-chul-seung-victim-identity-appeal-custody-20261030"
-    },
-    "5e36e63fafea": {
-      "source": "MBN",
-      "title": "트럭 넘어져 도로에 사과가 쏟아지자…학생·어르신들이 끝까지 주워 담았다",
-      "link": "https://n.news.naver.com/article/057/0001975937",
-      "first_seen_at": 1793347607,
-      "last_seen_at": 1793347607,
-      "samples": [
-        {
-          "at": 1793347607,
-          "views": null,
-          "reactions": null,
-          "rank": 9,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "5e36e63fafea",
-      "editorial": {
-        "title": "트럭 넘어져 도로에 사과가 쏟아지자…학생·어르신들이 끝까지 주워 담았다",
-        "category": "시사",
-        "url": "https://n.news.naver.com/article/057/0001975937",
-        "source": "MBN",
-        "kind": "article",
-        "event_key": "busan-yeonsan-apple-truck-citizen-cleanup-post-20261029",
-        "why": "과일이 쏟아진 도로로 시민들이 달려가 물건을 챙긴 게 아니라 경찰 정리가 끝날 때까지 도운 행동의 반전이다.",
-        "angle": "길바닥 사과를 보고 달려온 사람들의 목적",
-        "why_now": "사고는10/28 부산 연산역 인근.목격자 SNS 공개는10/29라는 MBN 본문을 확인했고 정확한 업로드 시각은 미확인.30일14:01 후속기사를 최초 사건으로 쓰지 않음.",
-        "verified_at": 1793347244,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://n.news.naver.com/article/057/0001975937",
-            "note": "MBN 본문에서스레드 목격자 게시·여러 시민의 사과 수거·경찰 도착 후 정리 종료까지 남은 경위를 확인했다.사진·영상은 직접 확인하지 않은 기사형이며 인명피해 없음은 목격 취재에 귀속한다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://n.news.naver.com/article/057/0001975937",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "원본 SNS 직접 열람·영상 시청 아님.목격 취재 범위,사고28일·게시29일 구별.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-28",
-          "observation": "MBN 본문에서스레드 목격자 게시·여러 시민의 사과 수거·경찰 도착 후 정리 종료까지 남은 경위를 확인했다.사진·영상은 직접 확인하지 않은 기사형이며 인명피해 없음은 목격 취재에 귀속한다.",
-          "checked_materials": [],
-          "outline": [
-            "28일 과일 트럭 전도와 사과가 흩어진 상황",
-            "학생·어르신 등 시민이 함께 수거한 목격 취재",
-            "경찰 정리 때까지 도운 결과와29일 게시 구분"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://n.news.naver.com/article/057/0001975937"
-          }
-        ],
-        "excerpt": "",
-        "context": "사고는10/28 부산 연산역 인근.목격자 SNS 공개는10/29라는 MBN 본문을 확인했고 정확한 업로드 시각은 미확인.30일14:01 후속기사를 최초 사건으로 쓰지 않음.",
-        "fetched_at": 1793347607,
-        "parser_revision": 7
-      },
-      "curation_event_key": "busan-yeonsan-apple-truck-citizen-cleanup-post-20261029"
-    },
-    "ea4148db9b33": {
-      "source": "뉴시스",
-      "title": "중간 운영사 빼면 수수료33%→8~9%…휴게소 직계약,퇴직자단체도 제한",
-      "link": "https://files.newsis.com/view/NISX20261029_0003847045",
-      "first_seen_at": 1793347607,
-      "last_seen_at": 1793347607,
-      "samples": [
-        {
-          "at": 1793347607,
-          "views": null,
-          "reactions": null,
-          "rank": 10,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "ea4148db9b33",
-      "editorial": {
-        "title": "중간 운영사 빼면 수수료33%→8~9%…휴게소 직계약,퇴직자단체도 제한",
-        "category": "시사",
-        "url": "https://files.newsis.com/view/NISX20261029_0003847045",
-        "source": "뉴시스",
-        "kind": "article",
-        "event_key": "expressway-reststop-direct-contract-first-tender-20261030",
-        "why": "휴게소 가격 뒤에 붙는 중간 수수료를 줄이고 전관 참여까지 제한하는 실제 입찰 변화가 생활 돈 문제로 읽힌다.",
-        "angle": "휴게소 커피값을 내리려 계약 중간 단계를 없앤다",
-        "why_now": "10/30 10:00 새8곳 입찰 모집 공개.7월 개편방안과 구분.사업자12월 선정·내년 설 운영 계획이며 오늘 가격 인하 아님.",
-        "verified_at": 1793347362,
-        "published_at": 1793322000,
-        "evidence": [
-          {
-            "url": "https://files.newsis.com/view/NISX20261029_0003847045",
-            "note": "뉴시스의 국토부·도로공사 발표 취재 본문에서직계약 구조·수수료33%와8~9%(관리비 별도)·2000원 이하 커피 추진·전관 제한·도성회 철수를 확인했다.절감액의 소비자가격 반영은 계획이다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://files.newsis.com/view/NISX20261029_0003847045",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "전국 휴게소 일괄 인하 아님.2000원 커피는 계획,8~9%에는 관리비 별도.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-30",
-          "observation": "뉴시스의 국토부·도로공사 발표 취재 본문에서직계약 구조·수수료33%와8~9%(관리비 별도)·2000원 이하 커피 추진·전관 제한·도성회 철수를 확인했다.절감액의 소비자가격 반영은 계획이다.",
-          "checked_materials": [],
-          "outline": [
-            "도공→운영사→입점업체에서 직접 계약으로 변화",
-            "수수료 비교와 관리비 별도 조건",
-            "퇴직자단체 제한·8곳 시범·내년 설 시행 계획"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://files.newsis.com/view/NISX20261029_0003847045"
-          }
-        ],
-        "excerpt": "",
-        "context": "10/30 10:00 새8곳 입찰 모집 공개.7월 개편방안과 구분.사업자12월 선정·내년 설 운영 계획이며 오늘 가격 인하 아님.",
-        "fetched_at": 1793347607,
-        "parser_revision": 7
-      },
-      "curation_event_key": "expressway-reststop-direct-contract-first-tender-20261030"
     }
   },
-  "updated_at": 1793949162
+  "updated_at": 1793952619
 }
