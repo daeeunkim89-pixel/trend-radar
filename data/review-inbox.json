@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": 1793959118,
+  "generated_at": 1793986988,
   "mode": "major_news_ranked",
   "reference": "docs/btp-news-policy-20261104.md",
   "budget": {
@@ -20,6 +20,7 @@
   "source_errors": [
     "펨코 직접",
     "개드립 인기",
+    "보배드림 베스트",
     "네이버 스포츠 영상"
   ],
   "candidates": [
@@ -27,6 +28,30 @@
       "lane": "football",
       "title": "맨유 역대급 재능이었던 래시포드도 인정했다…19세 야말 향한 극찬 \"최근 몇 년간 메시 수준에 가장 근접한 선수\"",
       "url": "https://news.nate.com/view/20261106n27693",
+      "source": "국내·해외축구",
+      "source_role": "lead",
+      "context": "",
+      "materials": [],
+      "published_metadata": null,
+      "video_viewed": false,
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
+    },
+    {
+      "lane": "sports",
+      "title": "이승엽 예언 현실이 되나…후라도 108구 완벽투, 삼성 KS 우승 가까워진다",
+      "url": "https://news.nate.com/view/20261106n32439",
+      "source": "네이트 스포츠",
+      "source_role": "lead",
+      "context": "",
+      "materials": [],
+      "published_metadata": null,
+      "video_viewed": false,
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
+    },
+    {
+      "lane": "football",
+      "title": "[오피셜] '승격 경험만 3번' 파커, 누누 경질한 웨스트햄에 부임…선수 시절 전성기 보낸 팀서 화려한 부할 예고",
+      "url": "https://news.nate.com/view/20261106n03490",
       "source": "국내·해외축구",
       "source_role": "lead",
       "context": "",
@@ -108,18 +133,6 @@
       "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
     },
     {
-      "lane": "football",
-      "title": "[오피셜] '승격 경험만 3번' 파커, 누누 경질한 웨스트햄에 부임…선수 시절 전성기 보낸 팀서 화려한 부할 예고",
-      "url": "https://news.nate.com/view/20261106n03490",
-      "source": "국내·해외축구",
-      "source_role": "lead",
-      "context": "",
-      "materials": [],
-      "published_metadata": null,
-      "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
-    },
-    {
       "lane": "sports",
       "title": "무적의 안세영, 53연승 질주…시즌 11번째 우승까지 '2승'",
       "url": "https://news.nate.com/view/20261106n27141",
@@ -144,10 +157,10 @@
       "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
     },
     {
-      "lane": "sports",
-      "title": "'와' 삼성이 이러다 진짜 우승하나 '예측 뒤집는 상황 발생' 마지막 대구...",
-      "url": "https://news.nate.com/view/20261105n35186",
-      "source": "네이트 스포츠",
+      "lane": "current_affairs",
+      "title": "\"전쟁 난 줄 알았다\" 패닉…하루에 '13조' 잃은 개미들",
+      "url": "https://n.news.naver.com/article/055/0001401259",
+      "source": "네이버 뉴스",
       "source_role": "lead",
       "context": "",
       "materials": [],
@@ -155,6 +168,104 @@
       "video_viewed": false,
       "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
     },
+    {
+      "lane": "current_affairs",
+      "title": "조작기소 특검법안, 與주도로 국회통과…국힘 \"이재명 방탄악법\"(종합)",
+      "url": "https://n.news.naver.com/article/001/0016427021",
+      "source": "네이버 뉴스",
+      "source_role": "lead",
+      "context": "",
+      "materials": [],
+      "published_metadata": null,
+      "video_viewed": false,
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
+    },
+    {
+      "lane": "current_affairs",
+      "title": "[잡갤] 오세훈 \"21세기 민주공화국서 절대왕정 꿈꾸나,특검은 대통령 전용 기구\"",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=476447",
+      "source": "디시 실베",
+      "source_role": "lead",
+      "context": "",
+      "materials": [],
+      "published_metadata": null,
+      "video_viewed": false,
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
+    },
+    {
+      "lane": "current_affairs",
+      "title": "복수하러 돌아왔다, 드라마 같은 정치물이 현실이 된 미국 중간선거",
+      "url": "https://www.instiz.net/pt/7922914",
+      "source": "인스티즈 이슈",
+      "source_role": "lead",
+      "context": "",
+      "materials": [],
+      "published_metadata": 1793986260,
+      "video_viewed": false,
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
+    },
+    {
+      "lane": "current_affairs",
+      "title": "크렘린궁에서 푸틴 대통령에게 메달을 수여받은 한국인",
+      "url": "https://www.instiz.net/pt/7922895",
+      "source": "인스티즈 이슈",
+      "source_role": "lead",
+      "context": "",
+      "materials": [],
+      "published_metadata": 1793982780,
+      "video_viewed": false,
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
+    },
+    {
+      "lane": "current_affairs",
+      "title": "대통령 이재명씨, 꼴값떨지 마세요3",
+      "url": "https://www.issuelink.co.kr/community/go/82cook/4256500",
+      "source": "커뮤니티 인기",
+      "source_role": "lead",
+      "context": "",
+      "materials": [],
+      "published_metadata": 1793979000,
+      "video_viewed": false,
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
+    },
+    {
+      "lane": "current_affairs",
+      "title": "삼전닉스 초대형 악재",
+      "url": "https://www.issuelink.co.kr/community/go/slr/41792177",
+      "source": "커뮤니티 인기",
+      "source_role": "lead",
+      "context": "",
+      "materials": [],
+      "published_metadata": 1793978725,
+      "video_viewed": false,
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
+    },
+    {
+      "lane": "current_affairs",
+      "title": "아동성착취물 검거자 435명 중 374명이 한국인",
+      "url": "https://www.instiz.net/pt/7922866",
+      "source": "인스티즈 이슈",
+      "source_role": "lead",
+      "context": "",
+      "materials": [],
+      "published_metadata": 1793977920,
+      "video_viewed": false,
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
+    },
+    {
+      "lane": "current_affairs",
+      "title": "이제 믈브는 춘추전국시대의 시작이겠네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?b=mlbtown&id=202611060119941962&m=view",
+      "source": "엠팍 BEST",
+      "source_role": "lead",
+      "context": "",
+      "materials": [],
+      "published_metadata": 1793972583,
+      "video_viewed": false,
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
+    }
+  ],
+  "reserves": [
     {
       "lane": "current_affairs",
       "title": "[싱갤] 싱글벙글 스터디카페 야동 대참사",
@@ -262,9 +373,7 @@
       "published_metadata": 1793950920,
       "video_viewed": false,
       "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
-    }
-  ],
-  "reserves": [
+    },
     {
       "lane": "current_affairs",
       "title": "블룸버그 \"李대통령 말 듣고 주식 산 개미 극심한 좌절\"",
@@ -276,55 +385,10 @@
       "published_metadata": 1793950860,
       "video_viewed": false,
       "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
-    },
-    {
-      "lane": "current_affairs",
-      "title": "미국 중간선거 이후 국장 근황...jpg",
-      "url": "https://www.issuelink.co.kr/community/go/humoruniv/1431487",
-      "source": "커뮤니티 인기",
-      "source_role": "lead",
-      "context": "",
-      "materials": [],
-      "published_metadata": 1793949720,
-      "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
-    },
-    {
-      "lane": "current_affairs",
-      "title": "추미애, 소방안전 전면 손질",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1045768",
-      "source": "보배드림 베스트",
-      "source_role": "lead",
-      "context": "",
-      "materials": [],
-      "published_metadata": 1793947440,
-      "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
-    },
-    {
-      "lane": "current_affairs",
-      "title": "[억울합니다] 스타벅스 앱 계정 도용으로 78만 원 무단 결제 피해… 개인정보 유출 확인하고도 보상은 어렵다는 답변",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1045753",
-      "source": "보배드림 베스트",
-      "source_role": "lead",
-      "context": "",
-      "materials": [],
-      "published_metadata": 1793946240,
-      "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
-    },
-    {
-      "lane": "current_affairs",
-      "title": "이번 미국 중간선거 민주당이 텍사스 먹은 이유중 하나",
-      "url": "https://bbs.ruliweb.com/community/board/300143/read/77292346",
-      "source": "루리웹 베스트",
-      "source_role": "lead",
-      "context": "",
-      "materials": [],
-      "published_metadata": 1793945700,
-      "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
-    },
+    }
+  ],
+  "caution": "발견용. 스포츠 중심·시사 대형 뉴스 우선. 연예 세부 소식 제외. 본문에서 1면 가치·새 사실·날짜·중복 확인 전이며 조회수 예측이 아니다.",
+  "extended_candidates": [
     {
       "lane": "current_affairs",
       "title": "드라마 업계 \"K-드라마 산업 붕괴 위기...국가가 지원해야\"",
@@ -335,59 +399,126 @@
       "materials": [],
       "published_metadata": 1793938140,
       "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인",
+      "freshness_policy": "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
     },
     {
       "lane": "current_affairs",
-      "title": "한동훈, 코스피 5000 붕괴에 “李, ‘삼전닉스 몰빵’ 국민연금 직접 밝혀라”",
-      "url": "https://n.news.naver.com/article/016/0002719721",
-      "source": "네이버 뉴스",
+      "title": "트럼프 탄핵이 가까워졌다",
+      "url": "https://bbs.ruliweb.com/community/board/300143/read/77290020",
+      "source": "루리웹 베스트",
       "source_role": "lead",
       "context": "",
       "materials": [],
-      "published_metadata": null,
+      "published_metadata": 1793931660,
       "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인",
+      "freshness_policy": "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
     },
     {
       "lane": "current_affairs",
-      "title": "매드독의 폭주…트럼프, 선거참패 이틀 뒤 “美에 공장 안 지으면 300% 관세”[1일1트]",
-      "url": "https://n.news.naver.com/article/016/0002719646",
-      "source": "네이버 뉴스",
+      "title": "李대통령 \"불법 부동산투기로 돈벌던 시대 끝내야…곧 3차 단속\"(종합)",
+      "url": "https://www.issuelink.co.kr/community/go/theqoo/4397398615",
+      "source": "커뮤니티 인기",
       "source_role": "lead",
       "context": "",
       "materials": [],
-      "published_metadata": null,
+      "published_metadata": 1793928120,
       "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인",
+      "freshness_policy": "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
     },
     {
       "lane": "current_affairs",
-      "title": "트럼프, 선거참패 이틀 뒤 \"美에 공장 안 지으면 300%까지 관세\"",
-      "url": "https://n.news.naver.com/article/214/0001533874",
-      "source": "네이버 뉴스",
+      "title": "💥현재 모두가 경악중인 지하철 키링 대참사..JPG",
+      "url": "https://www.instiz.net/pt/7922561",
+      "source": "인스티즈 이슈",
       "source_role": "lead",
       "context": "",
       "materials": [],
-      "published_metadata": null,
+      "published_metadata": 1793928000,
       "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인",
+      "freshness_policy": "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
     },
     {
       "lane": "current_affairs",
-      "title": "대통령이 ‘떨어졌다’고 한 곳 빼고 다 올랐다…서울 집값 91주째 상승",
-      "url": "https://n.news.naver.com/article/005/0001883416",
-      "source": "네이버 뉴스",
+      "title": "이제 국민연금 받는건 어려워 보이네요",
+      "url": "https://www.issuelink.co.kr/community/go/clien/19288326",
+      "source": "커뮤니티 인기",
       "source_role": "lead",
       "context": "",
       "materials": [],
-      "published_metadata": null,
+      "published_metadata": 1793926119,
       "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
-    }
-  ],
-  "caution": "발견용. 스포츠 중심·시사 대형 뉴스 우선. 연예 세부 소식 제외. 본문에서 1면 가치·새 사실·날짜·중복 확인 전이며 조회수 예측이 아니다.",
-  "extended_candidates": [
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인",
+      "freshness_policy": "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
+    },
+    {
+      "lane": "current_affairs",
+      "title": "애슐리, 스테이크 무한리필 5900원 전국 확대",
+      "url": "https://www.instiz.net/pt/7922539",
+      "source": "인스티즈 이슈",
+      "source_role": "lead",
+      "context": "",
+      "materials": [],
+      "published_metadata": 1793924820,
+      "video_viewed": false,
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인",
+      "freshness_policy": "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
+    },
+    {
+      "lane": "current_affairs",
+      "title": "내 주식 손실이 민주당 선거운동에",
+      "url": "https://www.issuelink.co.kr/community/go/clien/19288301",
+      "source": "커뮤니티 인기",
+      "source_role": "lead",
+      "context": "",
+      "materials": [],
+      "published_metadata": 1793924643,
+      "video_viewed": false,
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인",
+      "freshness_policy": "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
+    },
+    {
+      "lane": "current_affairs",
+      "title": "청와대 “이 대통령, 분당 아파트 팔아 ETF 금융투자하는 게 더 이득이라 생각”",
+      "url": "https://www.issuelink.co.kr/community/go/clien/19288283",
+      "source": "커뮤니티 인기",
+      "source_role": "lead",
+      "context": "",
+      "materials": [],
+      "published_metadata": 1793923907,
+      "video_viewed": false,
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인",
+      "freshness_policy": "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
+    },
+    {
+      "lane": "current_affairs",
+      "title": "“영상 보기도 전부터 눈물이”…李 대통령 유튜브에 댓글 쇄도",
+      "url": "https://www.issuelink.co.kr/community/go/ruliweb/38807886",
+      "source": "커뮤니티 인기",
+      "source_role": "lead",
+      "context": "",
+      "materials": [],
+      "published_metadata": 1793923260,
+      "video_viewed": false,
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인",
+      "freshness_policy": "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
+    },
+    {
+      "lane": "current_affairs",
+      "title": "미국극우가 선거대패를 받아들이는 방법",
+      "url": "https://bbs.ruliweb.com/community/board/300143/read/77287429",
+      "source": "루리웹 베스트",
+      "source_role": "lead",
+      "context": "",
+      "materials": [],
+      "published_metadata": 1793917200,
+      "video_viewed": false,
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인",
+      "freshness_policy": "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
+    },
     {
       "lane": "current_affairs",
       "title": "레이예스의 초대형 계약과 NPB 구단들의 양적완화",
@@ -514,136 +645,6 @@
       "context": "",
       "materials": [],
       "published_metadata": 1793863380,
-      "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인",
-      "freshness_policy": "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
-    },
-    {
-      "lane": "current_affairs",
-      "title": "중국에서 일어난 스와핑 커뮤니티 참사.jpg",
-      "url": "https://www.issuelink.co.kr/community/go/etoland/9557685",
-      "source": "커뮤니티 인기",
-      "source_role": "lead",
-      "context": "",
-      "materials": [],
-      "published_metadata": 1793862480,
-      "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인",
-      "freshness_policy": "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
-    },
-    {
-      "lane": "current_affairs",
-      "title": "[속보] 김태규 제명 촉구 결의안, 국회 본회의 통과",
-      "url": "https://www.issuelink.co.kr/community/go/theqoo/4396701021",
-      "source": "커뮤니티 인기",
-      "source_role": "lead",
-      "context": "",
-      "materials": [],
-      "published_metadata": 1793861400,
-      "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인",
-      "freshness_policy": "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
-    },
-    {
-      "lane": "current_affairs",
-      "title": "중국에서 일어난 스와핑 커뮤니티 참사",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1045479",
-      "source": "보배드림 베스트",
-      "source_role": "lead",
-      "context": "",
-      "materials": [],
-      "published_metadata": 1793861340,
-      "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인",
-      "freshness_policy": "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
-    },
-    {
-      "lane": "current_affairs",
-      "title": "李대통령 20대 지지율 12.7%p 급등에 달린 댓글함 보고가자",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1045484",
-      "source": "보배드림 베스트",
-      "source_role": "lead",
-      "context": "",
-      "materials": [],
-      "published_metadata": 1793860500,
-      "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인",
-      "freshness_policy": "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
-    },
-    {
-      "lane": "current_affairs",
-      "title": "미국 중간선거로 좇될 예정인 ICE의 실체",
-      "url": "https://bbs.ruliweb.com/community/board/300143/read/77280035",
-      "source": "루리웹 베스트",
-      "source_role": "lead",
-      "context": "",
-      "materials": [],
-      "published_metadata": 1793859060,
-      "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인",
-      "freshness_policy": "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
-    },
-    {
-      "lane": "current_affairs",
-      "title": "미국) 까고 보니 자업자득 그 자체였던 이번 중간선거 대패한 공화당",
-      "url": "https://bbs.ruliweb.com/community/board/300143/read/77280007",
-      "source": "루리웹 베스트",
-      "source_role": "lead",
-      "context": "",
-      "materials": [],
-      "published_metadata": 1793858820,
-      "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인",
-      "freshness_policy": "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
-    },
-    {
-      "lane": "current_affairs",
-      "title": "토론에서 치트키 쓰는 미국 중간선거 후보",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1045509",
-      "source": "보배드림 베스트",
-      "source_role": "lead",
-      "context": "",
-      "materials": [],
-      "published_metadata": 1793856420,
-      "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인",
-      "freshness_policy": "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
-    },
-    {
-      "lane": "current_affairs",
-      "title": "이재명 대통령 20대 지지율 12.7%P급등",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1045457",
-      "source": "보배드림 베스트",
-      "source_role": "lead",
-      "context": "",
-      "materials": [],
-      "published_metadata": 1793854680,
-      "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인",
-      "freshness_policy": "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
-    },
-    {
-      "lane": "current_affairs",
-      "title": "하루종일 대통령, 민주당 까는 글만 올리는 애들은",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1045453",
-      "source": "보배드림 베스트",
-      "source_role": "lead",
-      "context": "",
-      "materials": [],
-      "published_metadata": 1793854500,
-      "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인",
-      "freshness_policy": "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
-    },
-    {
-      "lane": "current_affairs",
-      "title": "이번 미국 중간선거 결과로 민주당 데이터센터 금지 운운할 때 명심해야 할 점",
-      "url": "https://bbs.ruliweb.com/community/board/300143/read/77278799",
-      "source": "루리웹 베스트",
-      "source_role": "lead",
-      "context": "",
-      "materials": [],
-      "published_metadata": 1793851500,
       "video_viewed": false,
       "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인",
       "freshness_policy": "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
