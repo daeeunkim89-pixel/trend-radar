@@ -1,6 +1,443 @@
 {
   "version": 1,
   "items": {
+    "29259c445d49": {
+      "source": "TV5MONDE·AFP",
+      "title": "벌금으로 안 끝난 심판 비판…릴 회장, 항소심서 실효 4개월 정지",
+      "link": "https://information.tv5monde.com/sport/foot-le-president-de-lille-olivier-letang-suspendu-quatre-mois-ferme-2844652",
+      "first_seen_at": 1793920209,
+      "last_seen_at": 1793923627,
+      "samples": [
+        {
+          "at": 1793920209,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        },
+        {
+          "at": 1793923627,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "29259c445d49",
+      "editorial": {
+        "title": "벌금으로 안 끝난 심판 비판…릴 회장, 항소심서 실효 4개월 정지",
+        "category": "축구",
+        "url": "https://information.tv5monde.com/sport/foot-le-president-de-lille-olivier-letang-suspendu-quatre-mois-ferme-2844652",
+        "source": "TV5MONDE·AFP",
+        "kind": "article",
+        "event_key": "lille-olivier-letang-fff-appeal-four-month-effective-suspension-20261105",
+        "why": "프랑스 협회가 기존 벌금이 가볍다며 항소해 구단 수장에 대한 제재를 강화한 새 징계 결정이다.",
+        "angle": "2만유로 벌금 뒤 협회가 항소…릴 회장에게 더 무거워진 징계.",
+        "why_now": "원래 발언은8월말, 벌금은9월이며 새 항소 징계는11월5일이다. AFP게시 메타데이터18:56:37 UTC를 확인했다.",
+        "verified_at": 1793923382,
+        "published_at": 1793904997,
+        "evidence": [
+          {
+            "url": "https://information.tv5monde.com/sport/foot-le-president-de-lille-olivier-letang-suspendu-quatre-mois-ferme-2844652",
+            "note": "AFP본문에서 총6개월 중2개월 집행유예로 실효4개월 제재, 기존2만유로 벌금에 대한 FFF항소, 레탕의 추가 불복 방침을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://information.tv5monde.com/sport/foot-le-president-de-lille-olivier-letang-suspendu-quatre-mois-ferme-2844652",
+            "label": "원문 기사",
+            "kind": "source"
+          }
+        ],
+        "caution": "과거8월 발언을 새 사건으로 쓰지 않는다. 추가 불복 결과는 아직 확인되지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "AFP본문에서 총6개월 중2개월 집행유예로 실효4개월 제재, 기존2만유로 벌금에 대한 FFF항소, 레탕의 추가 불복 방침을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "벌금 뒤 실효4개월 정지로 강화된 항소 결정",
+            "협회 항소 이유와 회장의 불복 방침"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "원문 기사",
+            "url": "https://information.tv5monde.com/sport/foot-le-president-de-lille-olivier-letang-suspendu-quatre-mois-ferme-2844652"
+          }
+        ],
+        "excerpt": "",
+        "context": "원래 발언은8월말, 벌금은9월이며 새 항소 징계는11월5일이다. AFP게시 메타데이터18:56:37 UTC를 확인했다.",
+        "fetched_at": 1793923627,
+        "parser_revision": 7
+      },
+      "curation_event_key": "lille-olivier-letang-fff-appeal-four-month-effective-suspension-20261105"
+    },
+    "f919f5370cc3": {
+      "source": "Sky Sports",
+      "title": "교체 선수들이 3골…본머스, 첫 유럽대항전서 4연승",
+      "link": "https://www.skysports.com/football/sparta-prague-vs-bournemouth/report/577809",
+      "first_seen_at": 1793923627,
+      "last_seen_at": 1793923627,
+      "samples": [
+        {
+          "at": 1793923627,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "f919f5370cc3",
+      "editorial": {
+        "title": "교체 선수들이 3골…본머스, 첫 유럽대항전서 4연승",
+        "category": "축구",
+        "url": "https://www.skysports.com/football/sparta-prague-vs-bournemouth/report/577809",
+        "source": "Sky Sports",
+        "kind": "article",
+        "event_key": "bournemouth-sparta-prague-three-substitutes-goals-four-europa-wins-20261105",
+        "why": "유럽 무대 첫 시즌인 본머스가 교체 선수 세 명의 득점으로 역전하고 4전 전승을 이어갔다.",
+        "angle": "PK 놓치고 먼저 실점…벤치에서 나온 세 명이 모두 골을 넣었다.",
+        "why_now": "11월5일 프라하 유로파리그 4차전 결과. 읽은 Sky 기사는5일 게시이며 정확한 최초 공개 시각은 단정하지 않았다.",
+        "verified_at": 1793923408,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.skysports.com/football/sparta-prague-vs-bournemouth/report/577809",
+            "note": "Sky 본문에서 본머스의1-3 역전승, 쿡의PK실패, 스파르타 전반 퇴장, 교체 투입 애덤스·에바니우송·하얀 득점과 4전 전승을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.skysports.com/football/sparta-prague-vs-bournemouth/report/577809",
+            "label": "원문 기사",
+            "kind": "source"
+          }
+        ],
+        "caution": "우승이나 토너먼트 진출 확정은 아니다. 경기 영상은 보지 않았고 원문 경기 보고로 검증했다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "Sky 본문에서 본머스의1-3 역전승, 쿡의PK실패, 스파르타 전반 퇴장, 교체 투입 애덤스·에바니우송·하얀 득점과 4전 전승을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "PK실패·선제 실점에서 시작된 원정 경기",
+            "세 교체 선수의 득점과 첫 유럽 시즌 4전 전승"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "원문 기사",
+            "url": "https://www.skysports.com/football/sparta-prague-vs-bournemouth/report/577809"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월5일 프라하 유로파리그 4차전 결과. 읽은 Sky 기사는5일 게시이며 정확한 최초 공개 시각은 단정하지 않았다.",
+        "fetched_at": 1793923627,
+        "parser_revision": 7
+      },
+      "curation_event_key": "bournemouth-sparta-prague-three-substitutes-goals-four-europa-wins-20261105"
+    },
+    "b7a0406ec530": {
+      "source": "캘리포니아 주지사실",
+      "title": "캘리포니아 사형수 전원 감형 방침…548명에 가석방 없는 종신형 추진",
+      "link": "https://www.gov.ca.gov/2026/11/05/governor-newsom-releases-letter-to-california-on-the-death-penalty/",
+      "first_seen_at": 1793923627,
+      "last_seen_at": 1793923627,
+      "samples": [
+        {
+          "at": 1793923627,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "official",
+      "story_id": "b7a0406ec530",
+      "editorial": {
+        "title": "캘리포니아 사형수 전원 감형 방침…548명에 가석방 없는 종신형 추진",
+        "category": "시사",
+        "url": "https://www.gov.ca.gov/2026/11/05/governor-newsom-releases-letter-to-california-on-the-death-penalty/",
+        "source": "캘리포니아 주지사실",
+        "kind": "official",
+        "event_key": "newsom-plans-all-california-death-sentences-life-without-parole-20261105",
+        "why": "미국 최대 규모 사형수 집단 전체의 형벌을 바꾸려는 주지사의 중대한 형사정책 결정이다.",
+        "angle": "사형수548명, 석방은 아니다…가석방 없는 종신형으로 바꾸겠다는 방침.",
+        "why_now": "11월5일 주지사실 새 발표. 공식 게시 메타데이터19:19:40 UTC(6일04:19:40 KST)를 확인했다.",
+        "verified_at": 1793923407,
+        "published_at": 1793906380,
+        "evidence": [
+          {
+            "url": "https://www.gov.ca.gov/2026/11/05/governor-newsom-releases-letter-to-california-on-the-death-penalty/",
+            "note": "주지사실 공식 본문은 캘리포니아의 모든 사형을 가석방 없는 종신형으로 바꿀 계획이라고 명시했다. CNA본문에서 대상548명과 당사자 공개서한 발언을 대조했다."
+          },
+          {
+            "url": "https://www.channelnewsasia.com/world/california-death-row-life-imprisonment-newsom-6529036",
+            "note": "CNA·AFP 본문에서 대상548명과 주지사의 전원 가석방 없는 종신형 방침을 확인했다. 원래 사형 집행 중단과 새 감형 계획은 구분한다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.gov.ca.gov/2026/11/05/governor-newsom-releases-letter-to-california-on-the-death-penalty/",
+            "label": "공식 발표",
+            "kind": "source"
+          }
+        ],
+        "caution": "감형 방침 발표이며 전원의 개별 절차 완료·석방·주 사형제 폐지로 쓰지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "주지사실 공식 본문은 캘리포니아의 모든 사형을 가석방 없는 종신형으로 바꿀 계획이라고 명시했다. CNA본문에서 대상548명과 당사자 공개서한 발언을 대조했다.",
+          "checked_materials": [],
+          "outline": [
+            "전체 사형수 감형 계획과 가석방 없는 종신형의 의미",
+            "집행 유예와 형 감경·사형제 폐지를 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "공식 발표",
+            "url": "https://www.gov.ca.gov/2026/11/05/governor-newsom-releases-letter-to-california-on-the-death-penalty/"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월5일 주지사실 새 발표. 공식 게시 메타데이터19:19:40 UTC(6일04:19:40 KST)를 확인했다.",
+        "fetched_at": 1793923627,
+        "parser_revision": 7
+      },
+      "curation_event_key": "newsom-plans-all-california-death-sentences-life-without-parole-20261105"
+    },
+    "7a29b9999100": {
+      "source": "CNA·AFP",
+      "title": "프랑스 고물가 총파업…정부 집계 57만5천 명, 곳곳 충돌",
+      "link": "https://www.channelnewsasia.com/world/france-workers-strike-wage-protest-police-macron-6529011",
+      "first_seen_at": 1793923627,
+      "last_seen_at": 1793923627,
+      "samples": [
+        {
+          "at": 1793923627,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "7a29b9999100",
+      "editorial": {
+        "title": "프랑스 고물가 총파업…정부 집계 57만5천 명, 곳곳 충돌",
+        "category": "시사",
+        "url": "https://www.channelnewsasia.com/world/france-workers-strike-wage-protest-police-macron-6529011",
+        "source": "CNA·AFP",
+        "kind": "article",
+        "event_key": "france-nationwide-cost-of-living-strike-575000-revised-turnout-20261105",
+        "why": "학생 시위가 노동계 총파업과 전국 집회로 이어지며 교통·학교·관광시설에 영향을 준 대규모 사회 갈등이다.",
+        "angle": "임금 올려달라며 전국 파업…잠정60만 명은57만5천 명으로 수정됐다.",
+        "why_now": "실제 시위는11월5일 프랑스 현지. CNA 최초 게시6일06:10 KST, 수정08:04:30 KST이며 사건일·수정 시각을 구분했다.",
+        "verified_at": 1793923381,
+        "published_at": 1793913000,
+        "evidence": [
+          {
+            "url": "https://www.channelnewsasia.com/world/france-workers-strike-wage-protest-police-macron-6529011",
+            "note": "AFP 본문에서 내무부 참가자57만5천 명(60만 잠정치 하향), CGT160만 주장, 경찰448명 체포·경찰관53명 부상 발표와 에펠탑·개선문 폐쇄를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.channelnewsasia.com/world/france-workers-strike-wage-protest-police-macron-6529011",
+            "label": "원문 기사",
+            "kind": "source"
+          }
+        ],
+        "caution": "정부·주최 측 집계는 다르다. 일부 도시 충돌을 모든 참가자의 폭력으로 일반화하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "AFP 본문에서 내무부 참가자57만5천 명(60만 잠정치 하향), CGT160만 주장, 경찰448명 체포·경찰관53명 부상 발표와 에펠탑·개선문 폐쇄를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "총파업 이유와 정부·노조 참가자 집계 병기",
+            "교통·교육·관광 차질과 일부 충돌 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "원문 기사",
+            "url": "https://www.channelnewsasia.com/world/france-workers-strike-wage-protest-police-macron-6529011"
+          }
+        ],
+        "excerpt": "",
+        "context": "실제 시위는11월5일 프랑스 현지. CNA 최초 게시6일06:10 KST, 수정08:04:30 KST이며 사건일·수정 시각을 구분했다.",
+        "fetched_at": 1793923627,
+        "parser_revision": 7
+      },
+      "curation_event_key": "france-nationwide-cost-of-living-strike-575000-revised-turnout-20261105"
+    },
+    "81374cde3517": {
+      "source": "캐나다 재무부",
+      "title": "캐나다, 대미 의존 줄일 새 예산안…6년간 4천억 캐나다달러 자본투자",
+      "link": "https://www.canada.ca/en/department-finance/news/2026/11/government-of-canada-releases-budget-2026-masters-of-our-destiny.html",
+      "first_seen_at": 1793923627,
+      "last_seen_at": 1793923627,
+      "samples": [
+        {
+          "at": 1793923627,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "official",
+      "story_id": "81374cde3517",
+      "editorial": {
+        "title": "캐나다, 대미 의존 줄일 새 예산안…6년간 4천억 캐나다달러 자본투자",
+        "category": "시사",
+        "url": "https://www.canada.ca/en/department-finance/news/2026/11/government-of-canada-releases-budget-2026-masters-of-our-destiny.html",
+        "source": "캐나다 재무부",
+        "kind": "official",
+        "event_key": "canada-budget-2026-four-hundred-billion-capital-investment-sovereignty-20261105",
+        "why": "미국의 관세 압박에 대응해 교역 다변화·에너지·핵심광물 투자로 경제 구조를 바꾸려는 국가 예산안이다.",
+        "angle": "미국 선거 뒤에도 독립 노선…캐나다의6년 투자 계획.",
+        "why_now": "11월5일 오타와에서 공개한2026예산안. 공식 페이지 시간대 없는 게시 메타데이터는 임의로UTC변환하지 않고 날짜만 사용했다.",
+        "verified_at": 1793923381,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.canada.ca/en/department-finance/news/2026/11/government-of-canada-releases-budget-2026-masters-of-our-destiny.html",
+            "note": "재무부 공식 원문에서6년간4천억 캐나다달러 자본투자,220억 생활비 지원 조치, 전력·원전·핵심광물과 교역 다변화 방향을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.canada.ca/en/department-finance/news/2026/11/government-of-canada-releases-budget-2026-masters-of-our-destiny.html",
+            "label": "공식 발표",
+            "kind": "source"
+          }
+        ],
+        "caution": "예산안의 계획이며 전액 집행 완료나 미국과 무역 단절을 뜻하지 않는다. 금액은 캐나다달러다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "재무부 공식 원문에서6년간4천억 캐나다달러 자본투자,220억 생활비 지원 조치, 전력·원전·핵심광물과 교역 다변화 방향을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "대미 의존 축소와 교역 다변화의 새 예산안",
+            "6년 자본투자·생활비 조치와 입법·집행 단계 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "공식 발표",
+            "url": "https://www.canada.ca/en/department-finance/news/2026/11/government-of-canada-releases-budget-2026-masters-of-our-destiny.html"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월5일 오타와에서 공개한2026예산안. 공식 페이지 시간대 없는 게시 메타데이터는 임의로UTC변환하지 않고 날짜만 사용했다.",
+        "fetched_at": 1793923627,
+        "parser_revision": 7
+      },
+      "curation_event_key": "canada-budget-2026-four-hundred-billion-capital-investment-sovereignty-20261105"
+    },
+    "a49a0db0668e": {
+      "source": "스포츠경향",
+      "title": "서울 삼성, 11경기 만에 10승…KBL 역대 최단 타이·원정 7연승",
+      "link": "https://sports.khan.co.kr/article/202611060015003",
+      "first_seen_at": 1793923627,
+      "last_seen_at": 1793923627,
+      "samples": [
+        {
+          "at": 1793923627,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "a49a0db0668e",
+      "editorial": {
+        "title": "서울 삼성, 11경기 만에 10승…KBL 역대 최단 타이·원정 7연승",
+        "category": "메이저 스포츠",
+        "url": "https://sports.khan.co.kr/article/202611060015003",
+        "source": "스포츠경향",
+        "kind": "article",
+        "event_key": "seoul-samsung-ten-wins-eleven-games-kbl-fastest-tie-20261105",
+        "why": "개막9연승이 끊긴 직후 다시 이겨 KBL 역대 최단10승과 구단 원정 연승 타이를 세운 선두 경쟁의 새 결과다.",
+        "angle": "9연승 끝났다고 꺾이지 않았다…삼성, 최단10승 타이.",
+        "why_now": "경기는11월5일 울산, 읽은 기사 최초 게시6일00:15 KST다.10월에 발송한 개막9연승과 다른 경기·새 기록이다.",
+        "verified_at": 1793923408,
+        "published_at": 1793891700,
+        "evidence": [
+          {
+            "url": "https://sports.khan.co.kr/article/202611060015003",
+            "note": "본문에서 삼성의 현대모비스전81-76, 시즌10승1패, 11경기10승은역대7번째최단타이, 구단원정7연승타이를 확인했다. 이관희는4쿼터에12점을 넣었다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://sports.khan.co.kr/article/202611060015003",
+            "label": "원문 기사",
+            "kind": "source"
+          }
+        ],
+        "caution": "역대 단독 신기록이 아닌 타이기록이다. 우승 확정이나 시즌 내내 연승 중이라는 뜻은 아니다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "본문에서 삼성의 현대모비스전81-76, 시즌10승1패, 11경기10승은역대7번째최단타이, 구단원정7연승타이를 확인했다. 이관희는4쿼터에12점을 넣었다.",
+          "checked_materials": [],
+          "outline": [
+            "직전 첫패 뒤 다시 이긴 삼성의10승1패",
+            "최단10승 타이와4쿼터 이관희12점"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "원문 기사",
+            "url": "https://sports.khan.co.kr/article/202611060015003"
+          }
+        ],
+        "excerpt": "",
+        "context": "경기는11월5일 울산, 읽은 기사 최초 게시6일00:15 KST다.10월에 발송한 개막9연승과 다른 경기·새 기록이다.",
+        "fetched_at": 1793923627,
+        "parser_revision": 7
+      },
+      "curation_event_key": "seoul-samsung-ten-wins-eleven-games-kbl-fastest-tie-20261105"
+    },
     "190de42618d2": {
       "source": "LIV Golf",
       "title": "LIV 골프, 운영 종료 절차 전환 공식 발표…재건 금융거래 무산",
@@ -359,77 +796,6 @@
         "parser_revision": 7
       },
       "curation_event_key": "wta-accepts-responsibility-practice-microphones-pegula-andreeva-20261105"
-    },
-    "29259c445d49": {
-      "source": "TV5MONDE·AFP",
-      "title": "심판 비판 벌금으로 안 끝났다…릴 회장, 항소심서 실효 4개월 정지",
-      "link": "https://information.tv5monde.com/sport/foot-le-president-de-lille-olivier-letang-suspendu-quatre-mois-ferme-2844652",
-      "first_seen_at": 1793920209,
-      "last_seen_at": 1793920209,
-      "samples": [
-        {
-          "at": 1793920209,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "29259c445d49",
-      "editorial": {
-        "title": "심판 비판 벌금으로 안 끝났다…릴 회장, 항소심서 실효 4개월 정지",
-        "category": "축구",
-        "url": "https://information.tv5monde.com/sport/foot-le-president-de-lille-olivier-letang-suspendu-quatre-mois-ferme-2844652",
-        "source": "TV5MONDE·AFP",
-        "kind": "article",
-        "event_key": "lille-olivier-letang-fff-appeal-four-month-effective-suspension-20261105",
-        "why": "프랑스 협회가 기존 징계가 가볍다며 항소해 구단 수장 제재를 강화한 새 결정이다.",
-        "angle": "2만유로 벌금 뒤 협회가 항소…릴 회장에게 더 무거워진 징계.",
-        "why_now": "원래 발언은8월말·벌금은9월, 새 항소 징계는11월5일이다. AFP송고 게시 메타데이터18:56:37 UTC를 확인했다.",
-        "verified_at": 1793920040,
-        "published_at": 1793904997,
-        "evidence": [
-          {
-            "url": "https://information.tv5monde.com/sport/foot-le-president-de-lille-olivier-letang-suspendu-quatre-mois-ferme-2844652",
-            "note": "AFP본문에서 총6개월 중2개월 집행유예로 실효4개월 제재, FFF가 기존2만유로 벌금에 항소한 경위, 레탕의 추가 불복 방침을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://information.tv5monde.com/sport/foot-le-president-de-lille-olivier-letang-suspendu-quatre-mois-ferme-2844652",
-            "label": "원문 기사",
-            "kind": "source"
-          }
-        ],
-        "caution": "새 사건은11월5일 항소 결정이다. 8월 경기·발언을 최근 사건으로 쓰지 않는다. 확정된 후속 불복 결과는 없다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-05",
-          "observation": "AFP본문에서 총6개월 중2개월 집행유예로 실효4개월 제재, FFF가 기존2만유로 벌금에 항소한 경위, 레탕의 추가 불복 방침을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "기존 벌금에서 실효4개월로 강화된 결정",
-            "협회 항소 이유와 구단 회장 불복 방침"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "원문 기사",
-            "url": "https://information.tv5monde.com/sport/foot-le-president-de-lille-olivier-letang-suspendu-quatre-mois-ferme-2844652"
-          }
-        ],
-        "excerpt": "",
-        "context": "원래 발언은8월말·벌금은9월, 새 항소 징계는11월5일이다. AFP송고 게시 메타데이터18:56:37 UTC를 확인했다.",
-        "fetched_at": 1793920209,
-        "parser_revision": 7
-      },
-      "curation_event_key": "lille-olivier-letang-fff-appeal-four-month-effective-suspension-20261105"
     },
     "decd82bc1a8d": {
       "source": "파리 마스터스",
@@ -30659,5 +31025,5 @@
       "curation_event_key": "seoul-line5-torn-padding-knit-sns-claim-20261029"
     }
   },
-  "updated_at": 1793920209
+  "updated_at": 1793923627
 }

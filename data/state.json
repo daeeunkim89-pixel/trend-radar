@@ -1,5 +1,5 @@
 {
-  "updated_at": 1793920210,
+  "updated_at": 1793923628,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026110523",
+    "hour_utc": "2026110600",
     "category_counts": {
-      "시사": 1,
+      "시사": 3,
       "축구": 2,
-      "메이저 스포츠": 2,
+      "메이저 스포츠": 0,
       "아이돌": 0
     },
-    "research_queries": 16,
-    "opened_sources": 12,
+    "research_queries": 20,
+    "opened_sources": 11,
     "picks": [
       {
-        "title": "LIV 골프, 운영 종료 절차 전환 공식 발표…재건 금융거래 무산",
-        "url": "https://www.livgolf.com/news/liv-golf-announces-update-on-court-supervised-restructuring-process",
-        "event_key": "liv-golf-official-orderly-wind-down-announcement-20261105"
+        "title": "교체 선수들이 3골…본머스, 첫 유럽대항전서 4연승",
+        "url": "https://www.skysports.com/football/sparta-prague-vs-bournemouth/report/577809",
+        "event_key": "bournemouth-sparta-prague-three-substitutes-goals-four-europa-wins-20261105"
       },
       {
-        "title": "바르셀로나 주장 하피냐, 2030년까지 재계약…구단 공식 발표",
-        "url": "https://www.fcbarcelona.com/en/football/first-team/news/4604888/raphinha-staying-at-fc-barcelona-until-2030",
-        "event_key": "barcelona-raphinha-contract-extension-signed-through-2030-20261105"
+        "title": "캘리포니아 사형수 전원 감형 방침…548명에 가석방 없는 종신형 추진",
+        "url": "https://www.gov.ca.gov/2026/11/05/governor-newsom-releases-letter-to-california-on-the-death-penalty/",
+        "event_key": "newsom-plans-all-california-death-sentences-life-without-parole-20261105"
       },
       {
-        "title": "상대 퇴장에도 홈 0대2…AC밀란, 유로파 4경기 승점 3점",
-        "url": "https://www.acmilan.com/en/news/articles/europa_league/2026-11-05/rossoneri-lose-on-uel-matchday-four",
-        "event_key": "ac-milan-ferencvaros-home-loss-two-nil-europa-league-20261105"
+        "title": "프랑스 고물가 총파업…정부 집계 57만5천 명, 곳곳 충돌",
+        "url": "https://www.channelnewsasia.com/world/france-workers-strike-wage-protest-police-macron-6529011",
+        "event_key": "france-nationwide-cost-of-living-strike-575000-revised-turnout-20261105"
       },
       {
-        "title": "나스닥 5.52% 급락…AI·반도체 투매에 美 3대 지수 동반 추락",
-        "url": "https://www.khan.co.kr/article/202611060720001",
-        "event_key": "wall-street-nasdaq-552-percent-selloff-ai-tech-close-20261105"
+        "title": "벌금으로 안 끝난 심판 비판…릴 회장, 항소심서 실효 4개월 정지",
+        "url": "https://information.tv5monde.com/sport/foot-le-president-de-lille-olivier-letang-suspendu-quatre-mois-ferme-2844652",
+        "event_key": "lille-olivier-letang-fff-appeal-four-month-effective-suspension-20261105"
       },
       {
-        "title": "선수 사적 대화까지 연습 생중계…WTA, 마이크 고지 누락 책임 인정",
-        "url": "https://www.channelnewsasia.com/sport/wta-takes-blame-after-pegula-comments-andreeva-get-livestreamed-6528736",
-        "event_key": "wta-accepts-responsibility-practice-microphones-pegula-andreeva-20261105"
+        "title": "캐나다, 대미 의존 줄일 새 예산안…6년간 4천억 캐나다달러 자본투자",
+        "url": "https://www.canada.ca/en/department-finance/news/2026/11/government-of-canada-releases-budget-2026-masters-of-our-destiny.html",
+        "event_key": "canada-budget-2026-four-hundred-billion-capital-investment-sovereignty-20261105"
       }
     ]
   }
