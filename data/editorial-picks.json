@@ -1,291 +1,252 @@
 {
   "version": 2,
-  "hour_utc": "2026110605",
+  "hour_utc": "2026110606",
   "reviewer": "ChatGPT",
-  "generated_at": 1793941910,
+  "generated_at": 1793945208,
   "coverage": {
     "queries": [
-      "\"2026.11.06\" \"축구\" \"공식\" -케인 -호날두 -하피냐 -파커",
-      "\"2026.11.06\" \"스포츠\" \"징계\" -전남 -혼다 -호날두",
-      "\"2026.11.06\" \"정부\" \"발표\" -부동산 -서킷 -증시",
-      "\"November 6, 2026\" \"sports\" Reuters -LIV -Rice -Conway -Boo",
-      "2026 11 06 스포츠 주요 뉴스 -케인 -호날두 -혼다 -삼성 -하피냐",
-      "2026 11 06 뉴스 속보 국회 대법원 판사회의",
-      "\"November 6, 2026\" football injury ban official",
-      "\"2026.11.06\" \"야구\" \"계약\"",
-      "\"2026.11.06\" \"축구\" \"징계\" -박항서 -이집트",
-      "\"2026.11.06\" \"농구\" -허훈 -삼성 -삼산",
-      "\"Chris Lynn\" \"November\" \"2026\" cocaine",
-      "site:cisa.gov \"refrigeration\" \"November 5, 2026\"",
-      "\"Russell Brand\" \"5 November 2026\" guilty police",
-      "\"2026.11.06\" \"전국법관\" \"30일\"",
-      "\"2026.11.06\" \"손흥민\" -아시안컵 -나이 -베스트 -박항서",
-      "\"2026.11.06\" \"공식\" \"축구\" -박항서 -케인 -호날두 -파커",
-      "\"November 5, 2026\" \"football\" \"suspended\"",
-      "\"November 6, 2026\" \"FIFA\" -Ronaldo -morocco -ranking",
-      "\"Tashima\" \"November 5\" \"2026\" FIFA president",
-      "\"田嶋\" \"2026年11月5日\" \"会長\"",
-      "\"refrigeration\" \"November 5, 2026\" FBI CISA",
-      "\"Chris Lynn\" site:cricketregulator.co.uk",
-      "site:cricketregulator.co.uk \"Lynn\"",
-      "\"November 6, 2026\" \"NBA\" -Anthony -model -coach",
-      "\"2026.11.06\" \"배구\" \"공식\"",
-      "\"2026.11.06\" \"야구\" \"확정\" -선발 -최강 -삼성 -희망",
-      "\"FBI\" \"refrigeration\" \"2026\" \"November\"",
-      "\"서울교통공사\" \"2026.11.06\" \"3개\"",
-      "\"2026.11.06\" \"법관대표회의\" \"30일\"",
-      "\"2026.11.06\" \"국회\" \"특검법\" \"가결\""
+      "\"2026.11.06\" \"축구\" \"공식\"",
+      "\"2026.11.06\" \"야구\" \"발표\"",
+      "\"November 6, 2026\" sport Reuters",
+      "\"2026.11.06\" \"속보\" \"정부\"",
+      "\"2026.11.06\" \"스포츠\" \"징계\"",
+      "\"2026.11.06\" \"축구\" \"감독\" -호날두 -박항서 -파커 -아시안컵",
+      "\"2026.11.06\" \"NBA\" \"골든스테이트\"",
+      "\"2026.11.06\" \"신용융자\" \"3개월\"",
+      "\"2026.11.06\" \"축구\" \"계약\" -호날두 -케인 -모레노 -노시환 -하피냐",
+      "\"2026.11.06\" \"야구\" \"부상\" -곽도규 -KS -강민호 -APBC",
+      "\"November 5, 2026\" \"football\" \"sacked\"",
+      "\"November 6, 2026\" \"sport\" \"banned\" -Lynn -cocaine -Honda -hockey",
+      "\"2026.11.06\" \"축구\" \"퇴장\"",
+      "\"2026.11.06\" \"축구\" \"탈락\"",
+      "\"2026.11.06\" \"농구\" \"부상\"",
+      "\"2026.11.06\" \"쿠팡\" \"2000\" \"법원\"",
+      "\"ヒロシマ\" \"東浜\" \"2026年11月6日\"",
+      "\"김예건\" \"에스칼데스\" \"2026\" \"퇴장\"",
+      "\"2026.11.06\" \"한화\" \"ML서 인기폭발\"",
+      "site:fsc.go.kr \"2026\" \"신용융자\" \"11월 6일\"",
+      "\"2026.11.06\" \"히로시마\" \"트레이드\"",
+      "\"2026.11.06\" \"축구\" \"FIFA\" -호날두 -다시마 -타시마 -소급 -브랜드",
+      "\"2026.11.06\" \"배구\" \"징계\"",
+      "\"2026.11.06\" \"NBA\" \"크니플\"",
+      "site:softbankhawks.co.jp \"2026\" \"11/6\" \"東浜\"",
+      "\"東浜\" \"広島\" \"2026年11月6日\"",
+      "\"Crvena\" \"Escaldes\" \"2026\" \"Katai\" 2-1",
+      "\"김예건\" \"2026.11.06\" \"카타이\" -interfootball -newspim",
+      "site.crvenazvezdafk.com \"Интер\" \"2026\" \"2:1\"",
+      "site:crvenazvezdafk.com \"2026\" \"Катaи\" \"Ескалдес\"",
+      "site:softbankhawks.co.jp/news/detail \"東浜\" \"広島\" \"2026\"",
+      "site:carp.co.jp \"2026\" \"東浜\" \"トレード\""
     ],
     "opened_urls": [
-      "https://www.mt.co.kr/sports/2026/11/06/202611060838775071O",
-      "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018009",
-      "https://www.channelnewsasia.com/world/us-warns-cyber-threat-industrial-refrigeration-systems-6528641",
-      "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
-      "https://www.cricketregulator.co.uk/news/4605169/case-outcome-chris-lynn",
-      "https://resources.ecb.co.uk/ecb/document/2026/11/05/8b220e18-03e0-49e4-8f90-e21d4251d349/Reasoned-Decision-FINAL-2.11.26.pdf",
-      "https://www.cps.gov.uk/national-news-london-south/news/russell-brand-convicted-non-recent-sexual-offences-against-four",
-      "https://cnalifestyle.channelnewsasia.com/entertainment/russell-brand-trial-guilty-rape-three-sexual-assaults-591361",
-      "https://imnews.imbc.com/news/2026/society/article/6863481_36919.html",
-      "https://www.asiae.co.kr/article/2026110610563700929",
-      "https://www.mt.co.kr/amp/sports/2026/11/06/2026110610425280580",
-      "https://www.channelnewsasia.com/world/hegseth-pentagon-us-iran-war-democrats-congress-6529906",
-      "https://www.channelnewsasia.com/sport/hamilton-says-he-wont-be-silenced-still-frustrated-after-mexico-clash-6528836",
-      "https://www.channelnewsasia.com/sport/australian-batter-lynn-completes-ban-after-testing-positive-cocaine-6530031",
-      "https://www.channelnewsasia.com/sport/putin-says-countries-resisting-russias-return-world-sport-are-violating-democratic-bodies-6528776",
-      "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366",
       "https://www.channelnewsasia.com/sport",
-      "https://www.independent.co.uk/sport/cricket/northants-steelbacks-chris-lynn-cocaine-ban-cricket-b3079973.html"
+      "https://www.channelnewsasia.com/world",
+      "https://www.asiae.co.kr/article/2026110610563700929",
+      "https://www.channelnewsasia.com/sport/australia-turn-hussey-ahead-ashes-after-batting-slump-6530251",
+      "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366",
+      "https://www.channelnewsasia.com/world/hegseth-pentagon-us-iran-war-democrats-congress-6529906",
+      "https://www.khan.co.kr/article/202611061350001",
+      "https://www.interfootball.co.kr/news/articleView.html?idxno=697880",
+      "https://www.newspim.com/news/view/20261106000136",
+      "https://biz.chosun.com/topics/law_firm/2026/11/06/2CO4OQ46UVD6LGRGBRJCHLALB4/",
+      "https://www.khan.co.kr/article/202611061415001",
+      "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018020",
+      "https://news.livedoor.com/article/detail/32746615/",
+      "https://full-count.jp/2026/11/06/post2038574/",
+      "https://www.crvenazvezdafk.com/sr-latn/vesti/crvena-zvezda---inter-eskaldes-2-1-0-0"
     ],
     "unavailable": [
-      "collector exit0/degraded: 후보563, 5개 원천 오류. 갱신 스냅샷 후 독립 원문 조사로 보완.",
-      "CISA 공동 경보·자료 원문 2곳 403. 반복하지 않고 Reuters와 독립 전문매체 본문 확인.",
-      "Instagram @bythepulse 공개 페이지 throttled: 실제 게재 전수 확인 불가. 최근7일 sent/uncertain 이력416건 대조.",
-      "일부 web open internal error는 urllib로 접근 가능한 본문에서 확인. 막힌 RSS21개 요청 없음."
+      "Collector exit0/degraded, 후보571·5개 원천 오류. 갱신 스냅샷 확인 후 독립 원문 조사.",
+      "Instagram @bythepulse throttled: 실제 게재 전수 확인 불가. 7일 sent/uncertain 411개 대조.",
+      "Football Mania는 Anubis 보호 페이지여서 본문 검증에 사용하지 않음. 우회·재요청 없음.",
+      "유로풋볼 open internal error. 구단 공식 경기 보고서 및 접근 가능한 국내 원문으로 전환."
     ]
   },
   "picks": [
     {
-      "title": "KS가 7차전까지 가면 대표팀은?…야수 3명 합류 불투명, 대체 선발 계획 없다",
-      "category": "메이저 스포츠",
-      "url": "https://www.mt.co.kr/sports/2026/11/06/202611060838775071O",
-      "source": "OSEN·머니투데이",
-      "kind": "article",
-      "event_key": "apbc-ks-schedule-conflict-three-batters-no-replacement-plan-20261106",
-      "why": "한국시리즈와 국가대표 일정이 겹쳐 핵심 야수의 대회 첫 경기 출전까지 흔들리는 구체적 운영 문제다.",
-      "angle": "11일 KS 종료 가정과 12일 정오 호주전을 붙이고, 대체 선발 없이 일본전 합류를 고려하는 감독 설명을 제시한다.",
-      "why_now": "11/6 09:10 KST OSEN 제공 보도. 같은 날 10:05 현장 기사에서도 감독이 김지찬의 호주전 불참 가능성을 설명했다.",
-      "verified_at": 1793941727,
-      "published_at": 1793923800,
+      "title": "김예건 첫 UECL 선발, 첫 도움은 동료 반칙으로 취소…즈베즈다는 역전승",
+      "category": "축구",
+      "url": "https://www.crvenazvezdafk.com/sr-latn/vesti/crvena-zvezda---inter-eskaldes-2-1-0-0",
+      "source": "츠르베나 즈베즈다·뉴스핌",
+      "kind": "official",
+      "event_key": "kim-ye-geon-uecl-first-start-katai-goal-overturned-red-card-20261105",
+      "why": "한국 유망주의 유럽대항전 첫 선발에서 도움 기회가 VAR 반칙 판정으로 사라진 구체적 사건이다.",
+      "angle": "김예건의 패스로 나온 골이 취소되고 득점자까지 퇴장당한 전환점을 먼저 제시한다.",
+      "why_now": "경기는 세르비아 11/5·한국 11/6 새벽. 구단 원문 11/5 21:00 표기(시간대 미표시), 국내 기사 최초 11/6 06:35 KST.",
+      "verified_at": 1793945109,
+      "published_at": null,
       "evidence": [
         {
-          "url": "https://www.mt.co.kr/sports/2026/11/06/202611060838775071O",
-          "note": "11/6 09:10 KST. 감독은 대체 선발 없이 KS 종료 뒤 합류를 검토하며, 11일 끝나면 12일 정오 호주전 출전은 어렵다고 설명했다. 인터뷰 날짜는 본문에 별도 명시되지 않았다."
+          "url": "https://www.crvenazvezdafk.com/sr-latn/vesti/crvena-zvezda---inter-eskaldes-2-1-0-0",
+          "note": "구단 원문: 김 선발·46분 교체, 카타이 골 VAR 반칙 취소·직접 퇴장, 베를랑가 51분 퇴장. 루치치 동점골·추가시간 디아스 자책골로 2-1."
         },
         {
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018009",
-          "note": "11/6 10:05 KST 현장 기사. 감독이 이날 연습경기 전 김지찬은 KS 7차전 시 호주전에 못 나올 수도 있다고 했고 중견수 대안을 시험한다고 밝혔다."
+          "url": "https://www.newspim.com/news/view/20261106000136",
+          "note": "뉴스핌 11/6 09:31 KST 본문: 김의 패스 뒤 카타이 득점이 VAR로 취소돼 도움 무산. 양 팀 퇴장. 상대 국적을 이탈리아로 쓴 오류는 제외한다."
+        },
+        {
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697880",
+          "note": "인터풋볼 11/6 06:35 KST 본문도 김 패스→카타이 골 취소·퇴장을 확인. 분 단위 차이가 있어 정확한 퇴장 분은 제목·서술에서 제외."
         }
       ],
       "materials": [
         {
-          "url": "https://www.mt.co.kr/sports/2026/11/06/202611060838775071O",
+          "url": "https://www.crvenazvezdafk.com/sr-latn/vesti/crvena-zvezda---inter-eskaldes-2-1-0-0",
+          "label": "확인한 공식 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "영상은 미시청. 양 팀 모두 퇴장으로 후반 10대10이 됐으므로 10대11로 끝까지 이겼다고 쓰지 않는다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-05",
+        "observation": "구단 경기 보고서에서 김 선발·하프타임 교체, 카타이 골 VAR 취소·직접 퇴장, 베를랑가 후반 퇴장, 2-1 역전승을 확인했다. 김의 패스로 도움 기회가 사라졌다는 사실은 국내 두 기사 본문에서 확인했다.",
+        "checked_materials": [],
+        "outline": [
+          "김예건 첫 선발과 카타이 득점 취소·퇴장",
+          "후반 상대 퇴장으로 수적 균형 회복",
+          "선제 실점 뒤 2-1 역전, 도움은 공식 기록 아님"
+        ]
+      }
+    },
+    {
+      "title": "다승왕·노히터 히가시하마, 무상 트레이드…14년 뛴 소프트뱅크 떠난다",
+      "category": "메이저 스포츠",
+      "url": "https://full-count.jp/2026/11/06/post2038574/",
+      "source": "Full-Count·스포츠호치",
+      "kind": "article",
+      "event_key": "higashihama-nao-hiroshima-free-trade-softbank-announced-20261106",
+      "why": "오랜 우승 전력의 투수가 보상 없는 이적으로 팀을 옮기며 구단의 선수 기회·등록 한도 판단이 드러났다.",
+      "angle": "14년 원클럽·올해 1군 등판 0회와 무상 이적을 붙이고, 출전 기회와 70인 한도를 설명한다.",
+      "why_now": "11/6 양 구단 발표를 전한 Full-Count 최초 10:01:05 JST·수정 11:09:41. 11:57 GM 설명 보도로 배경 확인.",
+      "verified_at": 1793945101,
+      "published_at": 1793926865,
+      "evidence": [
+        {
+          "url": "https://full-count.jp/2026/11/06/post2038574/",
+          "note": "11/6 10:01 JST 최초 보도: 양 구단 트레이드 발표, 2017년 다승왕·2022년 노히터·올해 1군 등판 없음. 이적은 무상으로 확인된다."
+        },
+        {
+          "url": "https://news.livedoor.com/article/detail/32746615/",
+          "note": "호치 11/6 11:57 JST 최초·13:22 수정. 미카사 GM은 출전 기회를 원하는 본인 의사와 드래프트 9명 입단 시 등록 70인 도달을 이유로 설명했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://full-count.jp/2026/11/06/post2038574/",
           "label": "확인한 기사 본문",
           "kind": "source"
         }
       ],
-      "caution": "7차전·세 선수 결장 확정 아님. 곽도규 부상 낙마와 별개인 야수 합류·대체선발 문제다.",
+      "caution": "재기 성공은 예측하지 않는다. 무상 트레이드는 이적 대가가 없다는 뜻이며 연봉이 없다는 뜻은 아니다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-06",
-        "observation": "기사 본문에서 김지찬·이재현·안현민 합류 불투명, 대체 선발 계획 없음, 11일 KS 종료 시 12일 낮 경기는 어렵고 일본전부터 고려한다는 감독 설명을 확인했다. 인터뷰 영상은 보지 않았다.",
+        "observation": "일본 전문매체 본문에서 양 구단 발표와 무상 트레이드, 14년 소프트뱅크·올해 1군 미등판을 확인했다. 호치 본문의 GM 현장 설명은 선수 출전 희망과 등록 70인 한도를 함께 이유로 들었다.",
         "checked_materials": [],
         "outline": [
-          "KS 종료일에 따라 달라지는 야수 3명 합류 일정",
-          "대체 선발 계획이 없는 이유와 감독의 일본전 기용 검토",
-          "개막전 결장 확정과 일정상 가능성을 구분"
+          "14년 호크스 투수, 히로시마 무상 이적 확정",
+          "올해 1군 등판 없음과 과거 다승왕·노히터 경력",
+          "GM이 밝힌 기회 보장·70인 등록 한도"
         ]
       }
     },
     {
-      "title": "마트 냉장고까지 해킹 표적…미 5개 기관, 전 세계 콜드체인 긴급 보안 촉구",
+      "title": "반대매매 악순환 막는다…9일부터 신용융자 담보유지 의무 3개월 면제",
       "category": "시사",
-      "url": "https://www.channelnewsasia.com/world/us-warns-cyber-threat-industrial-refrigeration-systems-6528641",
-      "source": "Reuters·CNA",
+      "url": "https://www.khan.co.kr/article/202611061350001",
+      "source": "경향신문",
       "kind": "article",
-      "event_key": "us-five-agencies-industrial-refrigeration-cold-chain-cyber-warning-20261105",
-      "why": "원격 온도 조작이 식품·의약품 보관과 화재 위험으로 번져, 개인정보 유출을 넘어선 생활 기반시설 위협이다.",
-      "angle": "계정 탈취가 아니라 냉장고 온도를 바꾸는 공격이라는 점에서 시작해 인터넷 분리 권고와 피해 범위를 설명한다.",
-      "why_now": "미국 11/5 공동 경보. Reuters·CNA 최초 게시 11/6 01:37 SGT(02:37 KST), 11:29 SGT는 갱신이며 최초 시각이 아니다.",
-      "verified_at": 1793941631,
-      "published_at": 1793900220,
+      "event_key": "korea-credit-trading-collateral-maintenance-exemption-three-months-20261106",
+      "why": "급락장에 빚을 내 주식을 산 투자자와 증권사에 영향을 주는 실제 규정 완화로 돈의 손익에 직결된다.",
+      "angle": "140% 담보유지 의무가 증권사에 적용되는 규정임을 설명하고 9일 시행·3개월 기간을 제시한다.",
+      "why_now": "11/6 10:30 KST 긴급 회의에서 결정. YTN 11:49 속보 확인, 경향 최초 13:50 본문으로 시행일과 기간을 검증했다.",
+      "verified_at": 1793945035,
+      "published_at": 1793940600,
       "evidence": [
         {
-          "url": "https://www.channelnewsasia.com/world/us-warns-cyber-threat-industrial-refrigeration-systems-6528641",
-          "note": "11/5 미국 공동 경보를 전한 Reuters 본문. 인터넷 노출 온도·냉장 제어기 취약점이 표적이며 물리 피해 위험과 인터넷 분리·망 분리·업데이트를 권고했다."
-        },
-        {
-          "url": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
-          "note": "독립 전문매체 본문도 5개 기관 공동 경보, 식품·보건·운송 기반시설 위협, 온도·제상 설정 조작 위험을 확인한다. CISA 공식 링크는 403 접근 실패."
+          "url": "https://www.khan.co.kr/article/202611061350001",
+          "note": "11/6 13:50 KST 기사 본문. 오전 10:30 관계기관 회의, 11/9부터 신용융자 증권사 담보비율 유지의무 140%를 3개월 면제한다는 결정 확인."
         }
       ],
       "materials": [
         {
-          "url": "https://www.channelnewsasia.com/world/us-warns-cyber-threat-industrial-refrigeration-systems-6528641",
+          "url": "https://www.khan.co.kr/article/202611061350001",
           "label": "확인한 기사 본문",
           "kind": "source"
         }
       ],
-      "caution": "공격 주체는 공동 경보에서 특정하지 않았다. 개별 피해·불량 식품 유통이나 국내 피해는 확인하지 않았다.",
+      "caution": "대출 상환 면제나 모든 계좌 반대매매 금지 아님. 증권사별 적용·계약 조건은 별도 확인 필요.",
       "readiness": {
         "mode": "major_news",
-        "event_date": "2026-11-05",
-        "observation": "Reuters 본문에서 FBI·CISA·보건·농무·교통 당국의 공동 경보와 온도 조작·재고 손실·화재 위험, 제어기 인터넷 분리·업데이트 권고를 확인했다. CISA 원문은 403으로 열지 못했다.",
+        "event_date": "2026-11-06",
+        "observation": "본문에서 정부가 9일부터 증권사의 신용융자 담보비율 유지의무(140%)를 3개월 면제하기로 했음을 확인했다. 주가 하락·반대매매 악순환 차단 목적이며 주가 회복 보장은 아니다.",
         "checked_materials": [],
         "outline": [
-          "식품과 의약품을 지키는 냉장 제어기가 공격 표적",
-          "온도 조작이 만드는 재고 손실·설비·화재 위험",
-          "미 5개 기관의 인터넷 분리 권고, 공격 주체 미확정"
+          "11월 9일부터 3개월, 증권사 담보유지 의무 면제",
+          "주가 하락→반대매매→추가 하락 악순환 차단 취지",
+          "대출 탕감·전면 반대매매 금지와 구분"
         ]
       }
     },
     {
-      "title": "코카인 양성인데 징계는 이미 끝났다…크리스 린 1개월 제재 공개",
-      "category": "메이저 스포츠",
-      "url": "https://www.cricketregulator.co.uk/news/4605169/case-outcome-chris-lynn",
-      "source": "Cricket Regulator",
-      "kind": "official",
-      "event_key": "chris-lynn-cocaine-metabolite-one-month-ban-public-disclosure-20261105",
-      "why": "국제 크리켓 선수의 약물 위반을 공개하면서 이미 소급 종료된 징계와 치료에 따른 감경 사유가 함께 드러났다.",
-      "angle": "7월 검사와 8월 징계 종료를 먼저 놓고, 11월 공개된 공식 결정의 감경 근거·개인 성적 실격을 설명한다.",
-      "why_now": "공식 결정문은 11/2 작성·공개 파일 경로는 11/5이며, 11/5 GMT 보도에서 공개 확인. 공식 게시 최초 분단위는 미표시여서 미확인이다.",
-      "verified_at": 1793941729,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://www.cricketregulator.co.uk/news/4605169/case-outcome-chris-lynn",
-          "note": "공식 공지는 코카인 대사물질 양성, 1개월 제재 수용·이미 종료를 명시. 최초 게시 시각은 본문에 표시되지 않는다."
-        },
-        {
-          "url": "https://resources.ecb.co.uk/ecb/document/2026/11/05/8b220e18-03e0-49e4-8f90-e21d4251d349/Reasoned-Decision-FINAL-2.11.26.pdf",
-          "note": "11/2 작성 결정문 9~16항: 경기 외 복용·경기력 무관 인정, 10/30 치료 완료 확인, 3개월→1개월. 제재 7/31~8/30, 7/18~7/31 개인 성적 실격·구단 제재 없음."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.cricketregulator.co.uk/news/4605169/case-outcome-chris-lynn",
-          "label": "공식 발표 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "검사 7/18·금지 7/31~8/30의 신규 공개다. 현재 출전정지나 팀 우승 박탈로 쓰지 않는다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-05",
-        "observation": "규제기관 공지와 연결된 공식 결정문을 읽었다. 코카인 대사물질 위반 인정, 경기 외 복용·경기력 무관 인정 및 치료 완료로 3개월에서 1개월 감경, 8/30 종료, 해당 기간 개인 성적 실격·구단 제재 불필요를 확인했다.",
-        "checked_materials": [],
-        "outline": [
-          "7월 18일 검사 양성, 7월 31일 임시 정지의 시간표",
-          "치료 완료와 경기 외 복용 인정으로 1개월 제재",
-          "8월 말 이미 종료·개인 성적 실격과 구단 제재는 구분"
-        ]
-      }
-    },
-    {
-      "title": "러셀 브랜드, 여성 4명 대상 강간·성추행 유죄 평결…선고는 9일",
+      "title": "쿠팡 2011억원 과징금 효력정지…어제 기각된 4236억원 유출 사건과 다르다",
       "category": "시사",
-      "url": "https://www.cps.gov.uk/national-news-london-south/news/russell-brand-convicted-non-recent-sexual-offences-against-four",
-      "source": "영국 검찰 CPS",
-      "kind": "official",
-      "event_key": "russell-brand-four-women-rape-three-sexual-assaults-guilty-verdict-20261105",
-      "why": "유명인의 지위와 권력 남용을 다룬 대형 성범죄 재판 결과로, 연예 가십이 아닌 피해자 권리와 사법 책임의 문제다.",
-      "angle": "유죄 평결 4건과 9일 선고를 분리하고, 2023년 보도 이후 피해자들이 독립적으로 신고한 과정을 설명한다.",
-      "why_now": "영국 검찰 원문은 11/5 날짜까지 표시하며 게시 시각은 미표시. 평결은 런던 11/5, CNA 11/6 01:51 SGT는 후속 기사다.",
-      "verified_at": 1793941729,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://www.cps.gov.uk/national-news-london-south/news/russell-brand-convicted-non-recent-sexual-offences-against-four",
-          "note": "CPS 11/5 공식 발표: 여성 4명 관련 강간 1건·성추행 3건 유죄 평결. 4주 재판 뒤 나온 결과이며 선고는 11/9 예정이다."
-        },
-        {
-          "url": "https://cnalifestyle.channelnewsasia.com/entertainment/russell-brand-trial-guilty-rape-three-sexual-assaults-591361",
-          "note": "CNA 본문도 11/5 배심 평결 및 11/9 선고를 확인. 일부 다른 공소사실에는 무죄가 나와 모든 혐의 유죄라고 일반화하지 않는다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.cps.gov.uk/national-news-london-south/news/russell-brand-convicted-non-recent-sexual-offences-against-four",
-          "label": "공식 발표 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "유죄 평결이며 형량 선고·최종 확정 아님. 피해자 신원이나 추가 의혹을 확대하지 않는다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-05",
-        "observation": "CPS 공식 본문에서 사우스워크 형사법원의 11/5 강간 1건·성추행 3건 유죄 평결, 피해 여성 4명, 11/9 선고 예정과 2023년 방송 뒤 개별 신고 경위를 확인했다. 재판 영상은 보지 않았다.",
-        "checked_materials": [],
-        "outline": [
-          "여성 4명에 대한 강간 1건·성추행 3건 유죄 평결",
-          "유명세·권력 남용과 오래된 피해 신고를 다룬 검찰 설명",
-          "11월 9일 선고 예정, 형량 확정 보도와 구분"
-        ]
-      }
-    },
-    {
-      "title": "서울지하철 노조 쟁의행위 가결…20일 준법투쟁, 파업은 교섭에 달렸다",
-      "category": "시사",
-      "url": "https://imnews.imbc.com/news/2026/society/article/6863481_36919.html",
-      "source": "MBC",
+      "url": "https://biz.chosun.com/topics/law_firm/2026/11/06/2CO4OQ46UVD6LGRGBRJCHLALB4/",
+      "source": "조선비즈·경향신문",
       "kind": "article",
-      "event_key": "seoul-metro-union-industrial-action-vote-nov20-work-to-rule-20261105",
-      "why": "대규모 통근망의 운행과 노동조건에 직결되는 갈등으로, 예정된 준법투쟁과 조건부 파업을 정확히 알릴 가치가 크다.",
-      "angle": "86.3% 찬성의 분모는 투표자임을 밝히고, 20일 준법투쟁과 협상 불발 시 파업을 시간순으로 나눈다.",
-      "why_now": "원문 최초 11/5 18:51:48 KST·수정 18:51:57. 12시간 밖 미발송 후보로 24시간 범위에서 검증했다.",
-      "verified_at": 1793941629,
-      "published_at": 1793872308,
+      "event_key": "coupang-online-activity-collection-2011eok-fine-stay-granted-20261106",
+      "why": "1117만명 활동기록 수집 처분의 효력이 멈춰, 대형 플랫폼 개인정보 책임과 사법 판단의 차이를 보여준다.",
+      "angle": "2011억원 활동기록 수집 사건과 4236억원 유출 사건을 나란히 놓고 서로 다른 결정임을 설명한다.",
+      "why_now": "11/6 행정1부 새 결정. 조선비즈 메타 최초 13:40:09 KST·표시 13:41, 경향 14:15 본문으로 교차 확인.",
+      "verified_at": 1793945065,
+      "published_at": 1793940009,
       "evidence": [
         {
-          "url": "https://imnews.imbc.com/news/2026/society/article/6863481_36919.html",
-          "note": "11/5 18:51 KST 본문: 투표자 86.3% 찬성, 20일 준법투쟁·진전 없으면 파업. 임금 3.5% 인상과 인력 감축 철회는 노조 요구이며 파업 확정일은 명시되지 않았다."
+          "url": "https://biz.chosun.com/topics/law_firm/2026/11/06/2CO4OQ46UVD6LGRGBRJCHLALB4/",
+          "note": "행정1부 11/6 결정 보도. 과징금 정확히 2011억600만원 및 시정·공표명령 효력이 본안 1심 선고 후 30일까지 정지. 본안 승소가 아니다."
+        },
+        {
+          "url": "https://www.khan.co.kr/article/202611061415001",
+          "note": "경향 14:15 최초·14:16 수정 본문. 활동기록 수집 집행정지 인용과 11/5 유출 과징금 4235억7500만원 집행정지 기각이 별개임을 명시."
         }
       ],
       "materials": [
         {
-          "url": "https://imnews.imbc.com/news/2026/society/article/6863481_36919.html",
+          "url": "https://biz.chosun.com/topics/law_firm/2026/11/06/2CO4OQ46UVD6LGRGBRJCHLALB4/",
           "label": "확인한 기사 본문",
           "kind": "source"
         }
       ],
-      "caution": "파업 시작·전면 운행중단 확정 아님. 직전 발송한 코레일 전국철도노조와 다른 사업장이다.",
+      "caution": "과징금 취소·무혐의 판결 아님. 전날 발송한 유출 사건 과징금 효력 유지와 별개 처분이다.",
       "readiness": {
         "mode": "major_news",
-        "event_date": "2026-11-05",
-        "observation": "MBC 본문에서 11/5 종료된 찬반투표의 투표자 86.3% 찬성, 20일 준법투쟁, 교섭 진전 없으면 파업 방침을 확인했다. 임금 3.5% 인상·인력 감축 철회 등은 노조 요구다.",
+        "event_date": "2026-11-06",
+        "observation": "두 본문에서 활동기록 수집 관련 2011억600만원 과징금·시정·공표명령의 집행정지 인용, 본안 1심 판결 뒤 30일까지 정지를 확인했다. 위법성의 최종 판단은 본안 소송에서 이뤄진다.",
         "checked_materials": [],
         "outline": [
-          "투표자 86.3% 찬성으로 쟁의행위 가결",
-          "11월 20일 준법투쟁, 교섭 불발 시 파업 방침",
-          "인력·임금 쟁점과 통근 영향, 현재 운행중단으로 오해 금지"
+          "1117만명 활동기록 수집 처분의 집행정지 인용",
+          "본안 1심 판결 후 30일까지 효력 정지",
+          "어제 유출 과징금 4236억원 기각과 사건 구분"
         ]
       }
     },
     {
-      "title": "전국법관대표회의, 정기회의 1주 당겨 30일 개최…안건은 미확정",
+      "title": "전국법관대표회의, 1주 앞당겨 30일 개최…안건·공동 입장은 미확정",
       "category": "시사",
       "url": "https://www.asiae.co.kr/article/2026110610563700929",
       "source": "아시아경제",
       "kind": "article",
       "event_key": "national-judges-representatives-advance-regular-meeting-nov30-announcement-20261106",
-      "why": "대법관 제청과 국정조사를 둘러싼 사법부·정치권 갈등 속에서 판사 대표기구가 실제 회의 일정을 바꿨다.",
-      "angle": "12월 7일에서 11월 30일로 바뀐 결정부터 제시하고, 일정 변경과 사법부 공식 입장 채택은 구분한다.",
-      "why_now": "11/6 10:56:38 KST 아시아경제 최초 게시. 결정의 근거 투표는 11/4였고 공개 발표는 11/6이다.",
-      "verified_at": 1793941784,
+      "why": "국정조사·대법관 재제청 갈등 속에서 전국 판사 대표기구가 실제 회의 일정을 바꾼 사법부의 제도적 움직임이다.",
+      "angle": "12월 7일에서 11월 30일로 당긴 결정부터 전하고, 일정 변경과 특정 결의 채택을 구분한다.",
+      "why_now": "11/6 10:56:38 KST 최초 기사. 근거 투표는 11/4, 일정 변경 공개는 11/6이며 개최일 자체를 사건일로 쓰지 않았다.",
+      "verified_at": 1793944981,
       "published_at": 1793930198,
       "evidence": [
         {
           "url": "https://www.asiae.co.kr/article/2026110610563700929",
-          "note": "11/6 공개된 일정 변경: 12/7→11/30. 투표는 11/4 실시됐으며 별도 임시회의 대신 정기회의 조정. 이번 회의 안건은 미확정이다."
+          "note": "11/6 공개된 일정 변경 12/7→11/30. 11/4 투표에서 앞당기자는 의견이 더 많아 운영위가 결정했다. 구체적인 안건은 아직 미확정."
         }
       ],
       "materials": [
@@ -295,16 +256,54 @@
           "kind": "source"
         }
       ],
-      "caution": "안건과 공동 입장 미확정. 정치권 비판 결의나 임시회의 개최로 단정하지 않는다.",
+      "caution": "안건과 공식 입장은 아직 미확정. 특정 정치권 비판 결의나 임시회의 개최로 단정하지 않는다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-06",
-        "observation": "본문에서 운영위가 11/4 법관대표 투표를 바탕으로 정기회의를 11/30로 앞당겼다는 결정을 확인했다. 조기 소집 요구 배경을 설명하지만 이번 회의 안건은 아직 확정되지 않았다고 명시했다.",
+        "observation": "본문에서 운영위가 11/4 법관대표 투표 결과를 바탕으로 하반기 정기회의를 11/30로 변경한 사실을 확인했다. 사법독립 논의 요구 배경과 달리 이번 회의 안건은 확정되지 않았다고 명시했다.",
         "checked_materials": [],
         "outline": [
-          "법관대표 투표 뒤 하반기 정기회의를 일주일 앞당긴 결정",
-          "국정조사·대법관 재제청을 둘러싼 논의 배경",
-          "11월 30일 개최와 미확정 안건·입장 구분"
+          "법관대표 투표 뒤 정기회의 일주일 조기 개최",
+          "국정조사·대법관 재제청 논란이 배경",
+          "안건·공동 입장 채택은 아직 미확정"
+        ]
+      }
+    },
+    {
+      "title": "델리 국제경기, 다시 개최지 바뀐다…인도-스리랑카 첫 ODI 이전 확정",
+      "category": "메이저 스포츠",
+      "url": "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366",
+      "source": "Reuters·CNA",
+      "kind": "article",
+      "event_key": "bcci-india-srilanka-first-odi-delhi-visakhapatnam-venue-change-20261105",
+      "why": "국제대회 개최지 결정이 기상·시설과 대기질 우려에 영향을 받는 스포츠 운영 문제를 보여준다.",
+      "angle": "12월 13일 첫 ODI 개최지 변경을 먼저 놓고 공식 사유와 별도 매체의 대기질 우려 보도를 구분한다.",
+      "why_now": "BCCI 발표는 인도 11/5. Reuters·CNA 최초 11/5 23:47:24 SGT(11/6 00:47 KST), 원문 발표의 정확한 분단위는 미확인.",
+      "verified_at": 1793945004,
+      "published_at": 1793893644,
+      "evidence": [
+        {
+          "url": "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366",
+          "note": "11/5 발표를 전한 Reuters 본문. DDCA 요청을 받아 BCCI가 장소 변경. 공식 발표는 기상 차질과 보수공사를 명시, 대기질은 Cricbuzz 추가 보도다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366",
+          "label": "확인한 기사 본문",
+          "kind": "source"
+        }
+      ],
+      "caution": "공식 사유는 기상 차질·예정된 보수공사다. 대기오염만으로 취소됐다고 쓰지 않는다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-05",
+        "observation": "Reuters 본문에서 BCCI가 12/13 첫 ODI를 델리에서 비사카파트남으로 옮긴다고 발표했음을 확인했다. DDCA가 요청했으며 공식 사유와 Cricbuzz의 별도 대기질 설명은 구분했다.",
+        "checked_materials": [],
+        "outline": [
+          "12월 13일 첫 ODI, 델리에서 비사카파트남으로",
+          "기상 차질·보수공사라는 공식 사유",
+          "대기질 우려는 별도 보도, 단독 원인으로 단정 금지"
         ]
       }
     }
