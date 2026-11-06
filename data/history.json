@@ -3,10 +3,10 @@
   "items": {
     "e58656cd239e": {
       "source": "MBC",
-      "title": "서울교통공사 노조 쟁의 가결…20일부터 준법투쟁 예고",
+      "title": "서울지하철 노조 쟁의행위 가결…20일 준법투쟁, 파업은 교섭에 달렸다",
       "link": "https://imnews.imbc.com/news/2026/society/article/6863481_36919.html",
       "first_seen_at": 1793934705,
-      "last_seen_at": 1793938125,
+      "last_seen_at": 1793941990,
       "samples": [
         {
           "at": 1793934705,
@@ -21,45 +21,53 @@
           "reactions": null,
           "rank": 6,
           "rank_kind": null
+        },
+        {
+          "at": 1793941990,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
         }
       ],
       "parser_revision": 7,
       "content_kind": "article",
       "story_id": "e58656cd239e",
       "editorial": {
-        "title": "서울교통공사 노조 쟁의 가결…20일부터 준법투쟁 예고",
+        "title": "서울지하철 노조 쟁의행위 가결…20일 준법투쟁, 파업은 교섭에 달렸다",
         "category": "시사",
         "url": "https://imnews.imbc.com/news/2026/society/article/6863481_36919.html",
         "source": "MBC",
         "kind": "article",
         "event_key": "seoul-metro-union-industrial-action-vote-nov20-work-to-rule-20261105",
-        "why": "수도권 출퇴근 수요가 큰 지하철에서 인력·임금 갈등이 쟁의 단계로 넘어갔다.",
-        "angle": "20일부터 준법투쟁, 교섭 불발 시 파업…현재 전면 운행중단 아님",
-        "why_now": "투표 결과 공개는11월5일. MBC 최초18:51:48 KST,18:51:57수정.12시간 밖 미발송을24시간으로 확대. 전국철도노조와 다른 노조 사건.",
-        "verified_at": 1793937891,
+        "why": "대규모 통근망의 운행과 노동조건에 직결되는 갈등으로, 예정된 준법투쟁과 조건부 파업을 정확히 알릴 가치가 크다.",
+        "angle": "86.3% 찬성의 분모는 투표자임을 밝히고, 20일 준법투쟁과 협상 불발 시 파업을 시간순으로 나눈다.",
+        "why_now": "원문 최초 11/5 18:51:48 KST·수정 18:51:57. 12시간 밖 미발송 후보로 24시간 범위에서 검증했다.",
+        "verified_at": 1793941629,
         "published_at": 1793872308,
         "evidence": [
           {
             "url": "https://imnews.imbc.com/news/2026/society/article/6863481_36919.html",
-            "note": "MBC 본문으로 노조 발표 확인. 직전 회차 예비에만 있었고 실제 발송 이력에는 없다. 전국철도노조와는 다른 사용자·노조의 쟁의다."
+            "note": "11/5 18:51 KST 본문: 투표자 86.3% 찬성, 20일 준법투쟁·진전 없으면 파업. 임금 3.5% 인상과 인력 감축 철회는 노조 요구이며 파업 확정일은 명시되지 않았다."
           }
         ],
         "materials": [
           {
             "url": "https://imnews.imbc.com/news/2026/society/article/6863481_36919.html",
-            "label": "확인한 원문",
+            "label": "확인한 기사 본문",
             "kind": "source"
           }
         ],
-        "caution": "파업 확정·즉시 운행중단으로 쓰지 않는다. 전국철도노조 일정과 구분한다.",
+        "caution": "파업 시작·전면 운행중단 확정 아님. 직전 발송한 코레일 전국철도노조와 다른 사업장이다.",
         "readiness": {
           "mode": "major_news",
           "event_date": "2026-11-05",
-          "observation": "본문에서 투표자86.3% 찬성,20일 준법투쟁,교섭 진전 없으면 파업 방침과 임금·인력감축 철회 요구를 확인했다.",
+          "observation": "MBC 본문에서 11/5 종료된 찬반투표의 투표자 86.3% 찬성, 20일 준법투쟁, 교섭 진전 없으면 파업 방침을 확인했다. 임금 3.5% 인상·인력 감축 철회 등은 노조 요구다.",
           "checked_materials": [],
           "outline": [
-            "서울교통공사 노조 쟁의 가결·20일 준법투쟁",
-            "조건부 파업 방침과 인력·임금 쟁점"
+            "투표자 86.3% 찬성으로 쟁의행위 가결",
+            "11월 20일 준법투쟁, 교섭 불발 시 파업 방침",
+            "인력·임금 쟁점과 통근 영향, 현재 운행중단으로 오해 금지"
           ]
         }
       },
@@ -68,16 +76,392 @@
         "media": [],
         "source_links": [
           {
-            "label": "확인한 원문",
+            "label": "확인한 기사 본문",
             "url": "https://imnews.imbc.com/news/2026/society/article/6863481_36919.html"
           }
         ],
         "excerpt": "",
-        "context": "투표 결과 공개는11월5일. MBC 최초18:51:48 KST,18:51:57수정.12시간 밖 미발송을24시간으로 확대. 전국철도노조와 다른 노조 사건.",
-        "fetched_at": 1793938125,
+        "context": "원문 최초 11/5 18:51:48 KST·수정 18:51:57. 12시간 밖 미발송 후보로 24시간 범위에서 검증했다.",
+        "fetched_at": 1793941990,
         "parser_revision": 7
       },
       "curation_event_key": "seoul-metro-union-industrial-action-vote-nov20-work-to-rule-20261105"
+    },
+    "1cb7aba8c521": {
+      "source": "OSEN·머니투데이",
+      "title": "KS가 7차전까지 가면 대표팀은?…야수 3명 합류 불투명, 대체 선발 계획 없다",
+      "link": "https://www.mt.co.kr/sports/2026/11/06/202611060838775071O",
+      "first_seen_at": 1793941990,
+      "last_seen_at": 1793941990,
+      "samples": [
+        {
+          "at": 1793941990,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "1cb7aba8c521",
+      "editorial": {
+        "title": "KS가 7차전까지 가면 대표팀은?…야수 3명 합류 불투명, 대체 선발 계획 없다",
+        "category": "메이저 스포츠",
+        "url": "https://www.mt.co.kr/sports/2026/11/06/202611060838775071O",
+        "source": "OSEN·머니투데이",
+        "kind": "article",
+        "event_key": "apbc-ks-schedule-conflict-three-batters-no-replacement-plan-20261106",
+        "why": "한국시리즈와 국가대표 일정이 겹쳐 핵심 야수의 대회 첫 경기 출전까지 흔들리는 구체적 운영 문제다.",
+        "angle": "11일 KS 종료 가정과 12일 정오 호주전을 붙이고, 대체 선발 없이 일본전 합류를 고려하는 감독 설명을 제시한다.",
+        "why_now": "11/6 09:10 KST OSEN 제공 보도. 같은 날 10:05 현장 기사에서도 감독이 김지찬의 호주전 불참 가능성을 설명했다.",
+        "verified_at": 1793941727,
+        "published_at": 1793923800,
+        "evidence": [
+          {
+            "url": "https://www.mt.co.kr/sports/2026/11/06/202611060838775071O",
+            "note": "11/6 09:10 KST. 감독은 대체 선발 없이 KS 종료 뒤 합류를 검토하며, 11일 끝나면 12일 정오 호주전 출전은 어렵다고 설명했다. 인터뷰 날짜는 본문에 별도 명시되지 않았다."
+          },
+          {
+            "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018009",
+            "note": "11/6 10:05 KST 현장 기사. 감독이 이날 연습경기 전 김지찬은 KS 7차전 시 호주전에 못 나올 수도 있다고 했고 중견수 대안을 시험한다고 밝혔다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.mt.co.kr/sports/2026/11/06/202611060838775071O",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "7차전·세 선수 결장 확정 아님. 곽도규 부상 낙마와 별개인 야수 합류·대체선발 문제다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-06",
+          "observation": "기사 본문에서 김지찬·이재현·안현민 합류 불투명, 대체 선발 계획 없음, 11일 KS 종료 시 12일 낮 경기는 어렵고 일본전부터 고려한다는 감독 설명을 확인했다. 인터뷰 영상은 보지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "KS 종료일에 따라 달라지는 야수 3명 합류 일정",
+            "대체 선발 계획이 없는 이유와 감독의 일본전 기용 검토",
+            "개막전 결장 확정과 일정상 가능성을 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://www.mt.co.kr/sports/2026/11/06/202611060838775071O"
+          }
+        ],
+        "excerpt": "",
+        "context": "11/6 09:10 KST OSEN 제공 보도. 같은 날 10:05 현장 기사에서도 감독이 김지찬의 호주전 불참 가능성을 설명했다.",
+        "fetched_at": 1793941990,
+        "parser_revision": 7
+      },
+      "curation_event_key": "apbc-ks-schedule-conflict-three-batters-no-replacement-plan-20261106"
+    },
+    "32534c47bddf": {
+      "source": "Reuters·CNA",
+      "title": "마트 냉장고까지 해킹 표적…미 5개 기관, 전 세계 콜드체인 긴급 보안 촉구",
+      "link": "https://www.channelnewsasia.com/world/us-warns-cyber-threat-industrial-refrigeration-systems-6528641",
+      "first_seen_at": 1793941990,
+      "last_seen_at": 1793941990,
+      "samples": [
+        {
+          "at": 1793941990,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "32534c47bddf",
+      "editorial": {
+        "title": "마트 냉장고까지 해킹 표적…미 5개 기관, 전 세계 콜드체인 긴급 보안 촉구",
+        "category": "시사",
+        "url": "https://www.channelnewsasia.com/world/us-warns-cyber-threat-industrial-refrigeration-systems-6528641",
+        "source": "Reuters·CNA",
+        "kind": "article",
+        "event_key": "us-five-agencies-industrial-refrigeration-cold-chain-cyber-warning-20261105",
+        "why": "원격 온도 조작이 식품·의약품 보관과 화재 위험으로 번져, 개인정보 유출을 넘어선 생활 기반시설 위협이다.",
+        "angle": "계정 탈취가 아니라 냉장고 온도를 바꾸는 공격이라는 점에서 시작해 인터넷 분리 권고와 피해 범위를 설명한다.",
+        "why_now": "미국 11/5 공동 경보. Reuters·CNA 최초 게시 11/6 01:37 SGT(02:37 KST), 11:29 SGT는 갱신이며 최초 시각이 아니다.",
+        "verified_at": 1793941631,
+        "published_at": 1793900220,
+        "evidence": [
+          {
+            "url": "https://www.channelnewsasia.com/world/us-warns-cyber-threat-industrial-refrigeration-systems-6528641",
+            "note": "11/5 미국 공동 경보를 전한 Reuters 본문. 인터넷 노출 온도·냉장 제어기 취약점이 표적이며 물리 피해 위험과 인터넷 분리·망 분리·업데이트를 권고했다."
+          },
+          {
+            "url": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
+            "note": "독립 전문매체 본문도 5개 기관 공동 경보, 식품·보건·운송 기반시설 위협, 온도·제상 설정 조작 위험을 확인한다. CISA 공식 링크는 403 접근 실패."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.channelnewsasia.com/world/us-warns-cyber-threat-industrial-refrigeration-systems-6528641",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "공격 주체는 공동 경보에서 특정하지 않았다. 개별 피해·불량 식품 유통이나 국내 피해는 확인하지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "Reuters 본문에서 FBI·CISA·보건·농무·교통 당국의 공동 경보와 온도 조작·재고 손실·화재 위험, 제어기 인터넷 분리·업데이트 권고를 확인했다. CISA 원문은 403으로 열지 못했다.",
+          "checked_materials": [],
+          "outline": [
+            "식품과 의약품을 지키는 냉장 제어기가 공격 표적",
+            "온도 조작이 만드는 재고 손실·설비·화재 위험",
+            "미 5개 기관의 인터넷 분리 권고, 공격 주체 미확정"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://www.channelnewsasia.com/world/us-warns-cyber-threat-industrial-refrigeration-systems-6528641"
+          }
+        ],
+        "excerpt": "",
+        "context": "미국 11/5 공동 경보. Reuters·CNA 최초 게시 11/6 01:37 SGT(02:37 KST), 11:29 SGT는 갱신이며 최초 시각이 아니다.",
+        "fetched_at": 1793941990,
+        "parser_revision": 7
+      },
+      "curation_event_key": "us-five-agencies-industrial-refrigeration-cold-chain-cyber-warning-20261105"
+    },
+    "42c47e1f966b": {
+      "source": "Cricket Regulator",
+      "title": "코카인 양성인데 징계는 이미 끝났다…크리스 린 1개월 제재 공개",
+      "link": "https://www.cricketregulator.co.uk/news/4605169/case-outcome-chris-lynn",
+      "first_seen_at": 1793941990,
+      "last_seen_at": 1793941990,
+      "samples": [
+        {
+          "at": 1793941990,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "official",
+      "story_id": "42c47e1f966b",
+      "editorial": {
+        "title": "코카인 양성인데 징계는 이미 끝났다…크리스 린 1개월 제재 공개",
+        "category": "메이저 스포츠",
+        "url": "https://www.cricketregulator.co.uk/news/4605169/case-outcome-chris-lynn",
+        "source": "Cricket Regulator",
+        "kind": "official",
+        "event_key": "chris-lynn-cocaine-metabolite-one-month-ban-public-disclosure-20261105",
+        "why": "국제 크리켓 선수의 약물 위반을 공개하면서 이미 소급 종료된 징계와 치료에 따른 감경 사유가 함께 드러났다.",
+        "angle": "7월 검사와 8월 징계 종료를 먼저 놓고, 11월 공개된 공식 결정의 감경 근거·개인 성적 실격을 설명한다.",
+        "why_now": "공식 결정문은 11/2 작성·공개 파일 경로는 11/5이며, 11/5 GMT 보도에서 공개 확인. 공식 게시 최초 분단위는 미표시여서 미확인이다.",
+        "verified_at": 1793941729,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.cricketregulator.co.uk/news/4605169/case-outcome-chris-lynn",
+            "note": "공식 공지는 코카인 대사물질 양성, 1개월 제재 수용·이미 종료를 명시. 최초 게시 시각은 본문에 표시되지 않는다."
+          },
+          {
+            "url": "https://resources.ecb.co.uk/ecb/document/2026/11/05/8b220e18-03e0-49e4-8f90-e21d4251d349/Reasoned-Decision-FINAL-2.11.26.pdf",
+            "note": "11/2 작성 결정문 9~16항: 경기 외 복용·경기력 무관 인정, 10/30 치료 완료 확인, 3개월→1개월. 제재 7/31~8/30, 7/18~7/31 개인 성적 실격·구단 제재 없음."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.cricketregulator.co.uk/news/4605169/case-outcome-chris-lynn",
+            "label": "공식 발표 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "검사 7/18·금지 7/31~8/30의 신규 공개다. 현재 출전정지나 팀 우승 박탈로 쓰지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "규제기관 공지와 연결된 공식 결정문을 읽었다. 코카인 대사물질 위반 인정, 경기 외 복용·경기력 무관 인정 및 치료 완료로 3개월에서 1개월 감경, 8/30 종료, 해당 기간 개인 성적 실격·구단 제재 불필요를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "7월 18일 검사 양성, 7월 31일 임시 정지의 시간표",
+            "치료 완료와 경기 외 복용 인정으로 1개월 제재",
+            "8월 말 이미 종료·개인 성적 실격과 구단 제재는 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "공식 발표 원문",
+            "url": "https://www.cricketregulator.co.uk/news/4605169/case-outcome-chris-lynn"
+          }
+        ],
+        "excerpt": "",
+        "context": "공식 결정문은 11/2 작성·공개 파일 경로는 11/5이며, 11/5 GMT 보도에서 공개 확인. 공식 게시 최초 분단위는 미표시여서 미확인이다.",
+        "fetched_at": 1793941990,
+        "parser_revision": 7
+      },
+      "curation_event_key": "chris-lynn-cocaine-metabolite-one-month-ban-public-disclosure-20261105"
+    },
+    "04624cafc196": {
+      "source": "영국 검찰 CPS",
+      "title": "러셀 브랜드, 여성 4명 대상 강간·성추행 유죄 평결…선고는 9일",
+      "link": "https://www.cps.gov.uk/national-news-london-south/news/russell-brand-convicted-non-recent-sexual-offences-against-four",
+      "first_seen_at": 1793941990,
+      "last_seen_at": 1793941990,
+      "samples": [
+        {
+          "at": 1793941990,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "official",
+      "story_id": "04624cafc196",
+      "editorial": {
+        "title": "러셀 브랜드, 여성 4명 대상 강간·성추행 유죄 평결…선고는 9일",
+        "category": "시사",
+        "url": "https://www.cps.gov.uk/national-news-london-south/news/russell-brand-convicted-non-recent-sexual-offences-against-four",
+        "source": "영국 검찰 CPS",
+        "kind": "official",
+        "event_key": "russell-brand-four-women-rape-three-sexual-assaults-guilty-verdict-20261105",
+        "why": "유명인의 지위와 권력 남용을 다룬 대형 성범죄 재판 결과로, 연예 가십이 아닌 피해자 권리와 사법 책임의 문제다.",
+        "angle": "유죄 평결 4건과 9일 선고를 분리하고, 2023년 보도 이후 피해자들이 독립적으로 신고한 과정을 설명한다.",
+        "why_now": "영국 검찰 원문은 11/5 날짜까지 표시하며 게시 시각은 미표시. 평결은 런던 11/5, CNA 11/6 01:51 SGT는 후속 기사다.",
+        "verified_at": 1793941729,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.cps.gov.uk/national-news-london-south/news/russell-brand-convicted-non-recent-sexual-offences-against-four",
+            "note": "CPS 11/5 공식 발표: 여성 4명 관련 강간 1건·성추행 3건 유죄 평결. 4주 재판 뒤 나온 결과이며 선고는 11/9 예정이다."
+          },
+          {
+            "url": "https://cnalifestyle.channelnewsasia.com/entertainment/russell-brand-trial-guilty-rape-three-sexual-assaults-591361",
+            "note": "CNA 본문도 11/5 배심 평결 및 11/9 선고를 확인. 일부 다른 공소사실에는 무죄가 나와 모든 혐의 유죄라고 일반화하지 않는다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.cps.gov.uk/national-news-london-south/news/russell-brand-convicted-non-recent-sexual-offences-against-four",
+            "label": "공식 발표 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "유죄 평결이며 형량 선고·최종 확정 아님. 피해자 신원이나 추가 의혹을 확대하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "CPS 공식 본문에서 사우스워크 형사법원의 11/5 강간 1건·성추행 3건 유죄 평결, 피해 여성 4명, 11/9 선고 예정과 2023년 방송 뒤 개별 신고 경위를 확인했다. 재판 영상은 보지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "여성 4명에 대한 강간 1건·성추행 3건 유죄 평결",
+            "유명세·권력 남용과 오래된 피해 신고를 다룬 검찰 설명",
+            "11월 9일 선고 예정, 형량 확정 보도와 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "공식 발표 원문",
+            "url": "https://www.cps.gov.uk/national-news-london-south/news/russell-brand-convicted-non-recent-sexual-offences-against-four"
+          }
+        ],
+        "excerpt": "",
+        "context": "영국 검찰 원문은 11/5 날짜까지 표시하며 게시 시각은 미표시. 평결은 런던 11/5, CNA 11/6 01:51 SGT는 후속 기사다.",
+        "fetched_at": 1793941990,
+        "parser_revision": 7
+      },
+      "curation_event_key": "russell-brand-four-women-rape-three-sexual-assaults-guilty-verdict-20261105"
+    },
+    "61defefaf59f": {
+      "source": "아시아경제",
+      "title": "전국법관대표회의, 정기회의 1주 당겨 30일 개최…안건은 미확정",
+      "link": "https://www.asiae.co.kr/article/2026110610563700929",
+      "first_seen_at": 1793941990,
+      "last_seen_at": 1793941990,
+      "samples": [
+        {
+          "at": 1793941990,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "61defefaf59f",
+      "editorial": {
+        "title": "전국법관대표회의, 정기회의 1주 당겨 30일 개최…안건은 미확정",
+        "category": "시사",
+        "url": "https://www.asiae.co.kr/article/2026110610563700929",
+        "source": "아시아경제",
+        "kind": "article",
+        "event_key": "national-judges-representatives-advance-regular-meeting-nov30-announcement-20261106",
+        "why": "대법관 제청과 국정조사를 둘러싼 사법부·정치권 갈등 속에서 판사 대표기구가 실제 회의 일정을 바꿨다.",
+        "angle": "12월 7일에서 11월 30일로 바뀐 결정부터 제시하고, 일정 변경과 사법부 공식 입장 채택은 구분한다.",
+        "why_now": "11/6 10:56:38 KST 아시아경제 최초 게시. 결정의 근거 투표는 11/4였고 공개 발표는 11/6이다.",
+        "verified_at": 1793941784,
+        "published_at": 1793930198,
+        "evidence": [
+          {
+            "url": "https://www.asiae.co.kr/article/2026110610563700929",
+            "note": "11/6 공개된 일정 변경: 12/7→11/30. 투표는 11/4 실시됐으며 별도 임시회의 대신 정기회의 조정. 이번 회의 안건은 미확정이다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.asiae.co.kr/article/2026110610563700929",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "안건과 공동 입장 미확정. 정치권 비판 결의나 임시회의 개최로 단정하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-06",
+          "observation": "본문에서 운영위가 11/4 법관대표 투표를 바탕으로 정기회의를 11/30로 앞당겼다는 결정을 확인했다. 조기 소집 요구 배경을 설명하지만 이번 회의 안건은 아직 확정되지 않았다고 명시했다.",
+          "checked_materials": [],
+          "outline": [
+            "법관대표 투표 뒤 하반기 정기회의를 일주일 앞당긴 결정",
+            "국정조사·대법관 재제청을 둘러싼 논의 배경",
+            "11월 30일 개최와 미확정 안건·입장 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://www.asiae.co.kr/article/2026110610563700929"
+          }
+        ],
+        "excerpt": "",
+        "context": "11/6 10:56:38 KST 아시아경제 최초 게시. 결정의 근거 투표는 11/4였고 공개 발표는 11/6이다.",
+        "fetched_at": 1793941990,
+        "parser_revision": 7
+      },
+      "curation_event_key": "national-judges-representatives-advance-regular-meeting-nov30-announcement-20261106"
     },
     "b46d4e355210": {
       "source": "점프볼",
@@ -30643,731 +31027,7 @@
         "parser_revision": 7
       },
       "curation_event_key": "expressway-reststop-direct-contract-first-tender-20261030"
-    },
-    "014f17b69ed4": {
-      "source": "MBC",
-      "title": "게임에 쓴 이태원 참사 영상,유족 요구 뒤 삭제…액티비전 공식 사과",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6861915_36919.html",
-      "first_seen_at": 1793336959,
-      "last_seen_at": 1793336959,
-      "samples": [
-        {
-          "at": 1793336959,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "014f17b69ed4",
-      "editorial": {
-        "title": "게임에 쓴 이태원 참사 영상,유족 요구 뒤 삭제…액티비전 공식 사과",
-        "category": "시사",
-        "url": "https://imnews.imbc.com/news/2026/society/article/6861915_36919.html",
-        "source": "MBC",
-        "kind": "article",
-        "event_key": "activision-itaewon-footage-removal-apology-20261030",
-        "why": "실제 참사 영상을 가상 전쟁 게임에 사용했다가 유족 항의와 보도 뒤 삭제를 약속한 구체적인 대응 변화다.",
-        "angle": "가상의 전쟁 장면에 현실의 참사를 넣었다가",
-        "why_now": "최초 논란 보도10/27과 별개로10/30 MBC에 보낸 새 입장문·삭제 약속.10:55 공개,11:03 수정과 구분.삭제 예정일11/12.",
-        "verified_at": 1793336562,
-        "published_at": 1793325300,
-        "evidence": [
-          {
-            "url": "https://imnews.imbc.com/news/2026/society/article/6861915_36919.html",
-            "note": "MBC가 받은 액티비전 입장문 본문에서 공식 사과·11/12 업데이트 삭제 계획·의도는 없었다는 해명을 확인했다.실제 게임 영상이나 업데이트를 실행한 것은 아니며 삭제 완료가 아니다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://imnews.imbc.com/news/2026/society/article/6861915_36919.html",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "삭제 완료 아님.참사 영상 재노출 없이 회사 대응을 중심으로 제작.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-30",
-          "observation": "MBC가 받은 액티비전 입장문 본문에서 공식 사과·11/12 업데이트 삭제 계획·의도는 없었다는 해명을 확인했다.실제 게임 영상이나 업데이트를 실행한 것은 아니며 삭제 완료가 아니다.",
-          "checked_materials": [],
-          "outline": [
-            "가상 한반도 전쟁 게임에 실제 참사 영상이 쓰인 논란 제시",
-            "유족·시민단체 요구 뒤 나온30일 회사 사과 설명",
-            "11/12 업데이트 삭제 예정과 현재 미완료 상태 구분"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://imnews.imbc.com/news/2026/society/article/6861915_36919.html"
-          }
-        ],
-        "excerpt": "",
-        "context": "최초 논란 보도10/27과 별개로10/30 MBC에 보낸 새 입장문·삭제 약속.10:55 공개,11:03 수정과 구분.삭제 예정일11/12.",
-        "fetched_at": 1793336959,
-        "parser_revision": 7
-      },
-      "curation_event_key": "activision-itaewon-footage-removal-apology-20261030"
-    },
-    "84a349f8b00a": {
-      "source": "Sky Sports",
-      "title": "팀 명단 내놓고 “규율 위반 제외” 따로 공지…그릴리시에게 무슨 일이",
-      "link": "https://www.skysports.com/football/news/13605512/jack-grealish-dropped-by-everton-after-breaching-club-discipline-ahead-of-newcastle-carabao-cup-tie",
-      "first_seen_at": 1793336959,
-      "last_seen_at": 1793336959,
-      "samples": [
-        {
-          "at": 1793336959,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "84a349f8b00a",
-      "editorial": {
-        "title": "팀 명단 내놓고 “규율 위반 제외” 따로 공지…그릴리시에게 무슨 일이",
-        "category": "축구",
-        "url": "https://www.skysports.com/football/news/13605512/jack-grealish-dropped-by-everton-after-breaching-club-discipline-ahead-of-newcastle-carabao-cup-tie",
-        "source": "Sky Sports",
-        "kind": "article",
-        "event_key": "everton-grealish-club-discipline-omission-newcastle-20261029",
-        "why": "단순 부상 결장이 아니라 구단이 규율 위반을 공개하고 감독도 구단 결정을 지지한 구체적 돌발 상황이다.",
-        "angle": "명단에서 빠진 스타,구단은 이유까지 공개했다",
-        "why_now": "영국10/29 경기 전 제외 발표.첫 확인 Sky19:12 UK와23:39 갱신을 구분.한국시간30일 새벽 사건이며 다음 경기 복귀는 미정.",
-        "verified_at": 1793336637,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.skysports.com/football/news/13605512/jack-grealish-dropped-by-everton-after-breaching-club-discipline-ahead-of-newcastle-carabao-cup-tie",
-            "note": "Sky 현장 취재에서 규율 위반 제외 공지와 모예스의 지지·추가 설명 거부를 확인했다.훈련 불참은 Sky 기자의 취재 내용이며 구단은 구체 경위를 공개하지 않았다.영상·인터뷰 음성은 미시청."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.skysports.com/football/news/13605512/jack-grealish-dropped-by-everton-after-breaching-club-discipline-ahead-of-newcastle-carabao-cup-tie",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "술자리·벌금·임대 해지 확정으로 확대 금지.훈련 불참은 Sky 보도.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-30",
-          "observation": "Sky 현장 취재에서 규율 위반 제외 공지와 모예스의 지지·추가 설명 거부를 확인했다.훈련 불참은 Sky 기자의 취재 내용이며 구단은 구체 경위를 공개하지 않았다.영상·인터뷰 음성은 미시청.",
-          "checked_materials": [],
-          "outline": [
-            "명단 제외 뒤 구단이 규율 위반을 공개한 순서 제시",
-            "훈련 불참이라는 취재와 구단의 공식 발표 범위 구별",
-            "감독의 지지·복귀 여부 비공개로 현재 결과 정리"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.skysports.com/football/news/13605512/jack-grealish-dropped-by-everton-after-breaching-club-discipline-ahead-of-newcastle-carabao-cup-tie"
-          }
-        ],
-        "excerpt": "",
-        "context": "영국10/29 경기 전 제외 발표.첫 확인 Sky19:12 UK와23:39 갱신을 구분.한국시간30일 새벽 사건이며 다음 경기 복귀는 미정.",
-        "fetched_at": 1793336959,
-        "parser_revision": 7
-      },
-      "curation_event_key": "everton-grealish-club-discipline-omission-newcastle-20261029"
-    },
-    "a5a117e07a6e": {
-      "source": "뉴시스",
-      "title": "특검은5~7년 구형,법원은8명 전원 무죄…“위법한 계엄 인식 입증 부족”",
-      "link": "https://www.newsis.com/view/NISX20261030_0003848266",
-      "first_seen_at": 1793336959,
-      "last_seen_at": 1793336959,
-      "samples": [
-        {
-          "at": 1793336959,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "a5a117e07a6e",
-      "editorial": {
-        "title": "특검은5~7년 구형,법원은8명 전원 무죄…“위법한 계엄 인식 입증 부족”",
-        "category": "시사",
-        "url": "https://www.newsis.com/view/NISX20261030_0003848266",
-        "source": "뉴시스",
-        "kind": "article",
-        "event_key": "lotteria-meeting-eight-military-officers-first-trial-acquittal-20261030",
-        "why": "계엄에 실제 역할이 있었는지와 위법성·국헌문란 목적을 인식했는지가 갈린 구형·선고의 반전이다.",
-        "angle": "명령을 받고 움직였다는 사실만으로 유죄가 되지 않은 이유",
-        "why_now": "10/30 오전1심 선고.10:44 속보·10:54 이유 취재가 먼저이며12:21 종합과12:35 수정은 최초 선고 공개 시각이 아니다.범행 혐의는2024/12/3.",
-        "verified_at": 1793336499,
-        "published_at": 1793324640,
-        "evidence": [
-          {
-            "url": "https://www.newsis.com/view/NISX20261030_0003848266",
-            "note": "법원 취재 본문에서8명 전원 무죄·사전 인지와 국헌문란 목적 증명 부족·일부 이의 제기와 복귀 명령 판단을 확인했다.특검의 좁은 해석이라는 반박도 구별했다.판결문 전체는 미열람."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.newsis.com/view/NISX20261030_0003848266",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "1심 결과이며 확정 무죄 아님.계엄 전체가 적법하다는 판결 아님.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-30",
-          "observation": "법원 취재 본문에서8명 전원 무죄·사전 인지와 국헌문란 목적 증명 부족·일부 이의 제기와 복귀 명령 판단을 확인했다.특검의 좁은 해석이라는 반박도 구별했다.판결문 전체는 미열람.",
-          "checked_materials": [],
-          "outline": [
-            "비상계엄 당일 회동·출동 등의 혐의와5~7년 구형 제시",
-            "재판부가 구별한 위법성 인식·국헌문란 목적 설명",
-            "1심 무죄 결과와 특검의 반발 병기"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.newsis.com/view/NISX20261030_0003848266"
-          }
-        ],
-        "excerpt": "",
-        "context": "10/30 오전1심 선고.10:44 속보·10:54 이유 취재가 먼저이며12:21 종합과12:35 수정은 최초 선고 공개 시각이 아니다.범행 혐의는2024/12/3.",
-        "fetched_at": 1793336959,
-        "parser_revision": 7
-      },
-      "curation_event_key": "lotteria-meeting-eight-military-officers-first-trial-acquittal-20261030"
-    },
-    "7818fc22ced1": {
-      "source": "뉴시스",
-      "title": "시리얼에 대마 숨기고 퀵으로 여러 번 옮겼는데…세관은 이미 알고 추적",
-      "link": "https://www.newsis.com/view/NISX20261030_0003848073",
-      "first_seen_at": 1793336959,
-      "last_seen_at": 1793336959,
-      "samples": [
-        {
-          "at": 1793336959,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "7818fc22ced1",
-      "editorial": {
-        "title": "시리얼에 대마 숨기고 퀵으로 여러 번 옮겼는데…세관은 이미 알고 추적",
-        "category": "시사",
-        "url": "https://www.newsis.com/view/NISX20261030_0003848073",
-        "source": "뉴시스",
-        "kind": "article",
-        "event_key": "incheon-customs-cannabis-cereal-controlled-delivery-20261030",
-        "why": "추적을 피하려 배달을 여러 번 쪼갰지만 세관은 통관 단계부터 알고 경로를 쫓았다는 명확한 반전이다.",
-        "angle": "쪼개 옮길수록 수사망에서 벗어난다고 생각했지만",
-        "why_now": "10/30 11:01:17 인천공항세관 검거 발표 취재,11:36 수정과 구분.실제 밀수·체포 날짜는 본문 미기재이며 오늘 체포로 쓰지 않음.",
-        "verified_at": 1793336500,
-        "published_at": 1793325677,
-        "evidence": [
-          {
-            "url": "https://www.newsis.com/view/NISX20261030_0003848073",
-            "note": "세관 취재 본문에서 시리얼에 숨긴 대마226g·반복 퀵 이동·통관 적발 후 통제배달·주거지 필로폰 발견을 확인했다.기소·유죄 판결 단계는 아니다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.newsis.com/view/NISX20261030_0003848073",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "수사기관 발표·혐의 단계.오늘 밀수하거나 오늘 체포했다는 뜻 아님.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-30",
-          "observation": "세관 취재 본문에서 시리얼에 숨긴 대마226g·반복 퀵 이동·통관 적발 후 통제배달·주거지 필로폰 발견을 확인했다.기소·유죄 판결 단계는 아니다.",
-          "checked_materials": [],
-          "outline": [
-            "시리얼에 숨긴 우편물과 추적 회피 의도 소개",
-            "세관이 통관 때 먼저 적발한 사실로 시점 반전",
-            "통제배달 역추적 끝 검거와 추가 압수 결과 정리"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.newsis.com/view/NISX20261030_0003848073"
-          }
-        ],
-        "excerpt": "",
-        "context": "10/30 11:01:17 인천공항세관 검거 발표 취재,11:36 수정과 구분.실제 밀수·체포 날짜는 본문 미기재이며 오늘 체포로 쓰지 않음.",
-        "fetched_at": 1793336959,
-        "parser_revision": 7
-      },
-      "curation_event_key": "incheon-customs-cannabis-cereal-controlled-delivery-20261030"
-    },
-    "92512d9401b4": {
-      "source": "디스패치",
-      "title": "부서 옮긴 뒤 남아 있던 접근권한…기밀51차례 다운로드 혐의로 기소",
-      "link": "https://www.dispatch.co.kr/2350024",
-      "first_seen_at": 1793336959,
-      "last_seen_at": 1793336959,
-      "samples": [
-        {
-          "at": 1793336959,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "92512d9401b4",
-      "editorial": {
-        "title": "부서 옮긴 뒤 남아 있던 접근권한…기밀51차례 다운로드 혐의로 기소",
-        "category": "시사",
-        "url": "https://www.dispatch.co.kr/2350024",
-        "source": "디스패치",
-        "kind": "article",
-        "event_key": "ador-former-executive-hybe-files51-summary-indictment-disclosed-20261030",
-        "why": "전적 뒤에도 남은 접근권한을 이용한 자료 다운로드가 실제 형사 절차로 이어진 구체적인 권한·정보 사건이다.",
-        "angle": "회사 옮겼는데 폴더 열쇠는 남아 있었다",
-        "why_now": "약식기소는10/15,다운로드는2024/4/8.10/30 09:00 첫 확인 취재·10:50 상세 보도를 오늘 범행으로 쓰지 않음.",
-        "verified_at": 1793336620,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.dispatch.co.kr/2350024",
-            "note": "디스패치의 공소내용 취재와 뉴시스 본문에서 전 어도어 부대표의51차례 자료 다운로드·벌금500만원 약식기소를 대조했다.정당한 접근권한 침해는 공소 측 판단이며 벌금 확정이 아니다."
-          },
-          {
-            "url": "https://nwww.newsis.com/view/NISX20261030_0003847485",
-            "note": "09:00 공개된 법조 취재에서 동일 기소와 자료 범위를 대조."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.dispatch.co.kr/2350024",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "500만원은 공소 측 청구액.유죄 확정이나 민희진 본인 기소 아님.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-30",
-          "observation": "디스패치의 공소내용 취재와 뉴시스 본문에서 전 어도어 부대표의51차례 자료 다운로드·벌금500만원 약식기소를 대조했다.정당한 접근권한 침해는 공소 측 판단이며 벌금 확정이 아니다.",
-          "checked_materials": [],
-          "outline": [
-            "하이브에서 어도어로 옮긴 뒤 남은 개인 접근권한 설명",
-            "2024년4월 다운로드 자료와51차례 공소내용 제시",
-            "10월 약식기소와 아직 남은 법원 판단을 구분"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.dispatch.co.kr/2350024"
-          }
-        ],
-        "excerpt": "",
-        "context": "약식기소는10/15,다운로드는2024/4/8.10/30 09:00 첫 확인 취재·10:50 상세 보도를 오늘 범행으로 쓰지 않음.",
-        "fetched_at": 1793336959,
-        "parser_revision": 7
-      },
-      "curation_event_key": "ador-former-executive-hybe-files51-summary-indictment-disclosed-20261030"
-    },
-    "1bfe6aa85642": {
-      "source": "AFP·Al Jazeera",
-      "title": "상대 후보와 같은 이름을 영입했나…알래스카 주지사,선거 수사 지시",
-      "link": "https://www.aljazeera.com/news/2026/10/29/trump-demands-alaska-candidates-be-removed-over-alleged-ballot-scheme",
-      "first_seen_at": 1793336959,
-      "last_seen_at": 1793336959,
-      "samples": [
-        {
-          "at": 1793336959,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "1bfe6aa85642",
-      "editorial": {
-        "title": "상대 후보와 같은 이름을 영입했나…알래스카 주지사,선거 수사 지시",
-        "category": "시사",
-        "url": "https://www.aljazeera.com/news/2026/10/29/trump-demands-alaska-candidates-be-removed-over-alleged-ballot-scheme",
-        "source": "AFP·Al Jazeera",
-        "kind": "article",
-        "event_key": "alaska-governor-probe-namesake-sullivan-candidate-20261029",
-        "why": "투표용지에 동명이인을 올려 표를 나눴다는 의혹과 주지사의 수사 지시가 이름 하나의 구체적인 선거 전술로 연결된다.",
-        "angle": "댄 설리번 옆에 또 다른 설리번,우연일까 전략일까",
-        "why_now": "새 사건은미국10/29 주지사의 조사 지시.동명이인 출마·6월 조사 자체와 구분.기사29일 날짜 정밀도로 확인,48시간 이내.",
-        "verified_at": 1793336620,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.aljazeera.com/news/2026/10/29/trump-demands-alaska-candidates-be-removed-over-alleged-ballot-scheme",
-            "note": "AFP 본문에서 주지사의 조사 지시·NYT의 문건과 메시지 취재 주장·당사자의 독립 출마 주장을 구분했다.투표용지에는 현역·공화당 표기가 있고 후보 영입 자체가 곧 불법은 아니라는 설명을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.aljazeera.com/news/2026/10/29/trump-demands-alaska-candidates-be-removed-over-alleged-ballot-scheme",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "영입 의혹·범죄 여부는 조사 중.동명이인이라는 이유로 출마 불법 아님.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-29",
-          "observation": "AFP 본문에서 주지사의 조사 지시·NYT의 문건과 메시지 취재 주장·당사자의 독립 출마 주장을 구분했다.투표용지에는 현역·공화당 표기가 있고 후보 영입 자체가 곧 불법은 아니라는 설명을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "투표용지에 등장한 비슷한 두 후보 이름과 구별 표기 제시",
-            "표 분산 영입 의혹과 캠프·후보 해명을 각각 귀속",
-            "주지사의29일 조사 지시와 범죄 확정 아님을 정리"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.aljazeera.com/news/2026/10/29/trump-demands-alaska-candidates-be-removed-over-alleged-ballot-scheme"
-          }
-        ],
-        "excerpt": "",
-        "context": "새 사건은미국10/29 주지사의 조사 지시.동명이인 출마·6월 조사 자체와 구분.기사29일 날짜 정밀도로 확인,48시간 이내.",
-        "fetched_at": 1793336959,
-        "parser_revision": 7
-      },
-      "curation_event_key": "alaska-governor-probe-namesake-sullivan-candidate-20261029"
-    },
-    "a1fc15f4bb2d": {
-      "source": "OSEN",
-      "title": "냉장고 생선 없던 이유가 아내 탓? 차예련은 다른 냉장고서 꺼냈다",
-      "link": "https://www.osen.co.kr/article/G1112900743",
-      "first_seen_at": 1793336959,
-      "last_seen_at": 1793336959,
-      "samples": [
-        {
-          "at": 1793336959,
-          "views": null,
-          "reactions": null,
-          "rank": 7,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "a1fc15f4bb2d",
-      "editorial": {
-        "title": "냉장고 생선 없던 이유가 아내 탓? 차예련은 다른 냉장고서 꺼냈다",
-        "category": "시사",
-        "url": "https://www.osen.co.kr/article/G1112900743",
-        "source": "OSEN",
-        "kind": "article",
-        "event_key": "cha-ye-ryun-joo-sang-wook-fridge-fishing-excuse-20261029",
-        "why": "낚시를 안 보내줘 생선이 없다던 남편의 핑계가 다른 냉장고 속 실제 해산물로 회수되는 짧은 웃음 포인트다.",
-        "angle": "“마누라가 보내줘야”라는 말 뒤 나온 무늬오징어",
-        "why_now": "원본 유튜브 공개10/29,정확한 업로드 시각 미확인.10/30 07:29 현장 대사 취재와 구분.48시간 이내 전날 공개 영상 소재.",
-        "verified_at": 1793336562,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.osen.co.kr/article/G1112900743",
-            "note": "OSEN의 원본 대사 취재 본문에서 주상욱의 낚시 핑계·차예련의 다른 냉장고 해산물·통영에서 잡은 것이라는 설명을 확인했다.원본 동영상은 직접 시청하지 않은 기사형 검토다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.osen.co.kr/article/G1112900743",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "부부의 방송 농담.실제 낚시 금지 갈등으로 단정 금지.영상 미시청.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-29",
-          "observation": "OSEN의 원본 대사 취재 본문에서 주상욱의 낚시 핑계·차예련의 다른 냉장고 해산물·통영에서 잡은 것이라는 설명을 확인했다.원본 동영상은 직접 시청하지 않은 기사형 검토다.",
-          "checked_materials": [],
-          "outline": [
-            "냉부해 냉장고에 생선이 없었다는 오해 소개",
-            "낚시 허락을 못 받았다는 남편의 농담 제시",
-            "다른 냉장고의 실제 해산물을 꺼낸 취재 설명으로 회수"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.osen.co.kr/article/G1112900743"
-          }
-        ],
-        "excerpt": "",
-        "context": "원본 유튜브 공개10/29,정확한 업로드 시각 미확인.10/30 07:29 현장 대사 취재와 구분.48시간 이내 전날 공개 영상 소재.",
-        "fetched_at": 1793336959,
-        "parser_revision": 7
-      },
-      "curation_event_key": "cha-ye-ryun-joo-sang-wook-fridge-fishing-excuse-20261029"
-    },
-    "05f1642e3f93": {
-      "source": "연합뉴스",
-      "title": "군사경찰 생활반에서 스마트폰 도박387회…3122만원 베팅 뒤 벌금형",
-      "link": "https://www.yna.co.kr/view/AKR20261029111000053",
-      "first_seen_at": 1793336959,
-      "last_seen_at": 1793336959,
-      "samples": [
-        {
-          "at": 1793336959,
-          "views": null,
-          "reactions": null,
-          "rank": 8,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "05f1642e3f93",
-      "editorial": {
-        "title": "군사경찰 생활반에서 스마트폰 도박387회…3122만원 베팅 뒤 벌금형",
-        "category": "시사",
-        "url": "https://www.yna.co.kr/view/AKR20261029111000053",
-        "source": "연합뉴스",
-        "kind": "article",
-        "event_key": "naval-military-police-smartphone-gambling387-sentence-20261029",
-        "why": "군사경찰 소속 병사가 생활반에서 휴대전화로 반복 도박한 행동과 실제 양형 이유가 충돌한다.",
-        "angle": "부대 안 군사경찰도 끊지 못한 스마트폰 베팅",
-        "why_now": "10/29 13:30:24 법원 취재 공개.복무 중 범행은 과거이며 정확한 선고일은 본문 미기재.24시간을 넘어48시간 범위 채택.",
-        "verified_at": 1793336578,
-        "published_at": 1793248224,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261029111000053",
-            "note": "연합뉴스 원취재에서 군사경찰대 생활반·스마트폰·387회·3122만6000원과300만원 벌금 선고를 확인했다.베팅 누적액이지 손실액이 아니며 자백·재범 방지 다짐을 양형 사유로 구분했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261029111000053",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "3122만원 전액 손실이라는 뜻 아님.범행 시기와 새 판결 취재 구분.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-29",
-          "observation": "연합뉴스 원취재에서 군사경찰대 생활반·스마트폰·387회·3122만6000원과300만원 벌금 선고를 확인했다.베팅 누적액이지 손실액이 아니며 자백·재범 방지 다짐을 양형 사유로 구분했다.",
-          "checked_materials": [],
-          "outline": [
-            "군사경찰대 생활반에서 휴대전화로 베팅한 구체적 경위",
-            "반복 횟수와 누적 입금·베팅액을 손실과 구분",
-            "벌금형과 자백 등 법원의 참작 사유 정리"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.yna.co.kr/view/AKR20261029111000053"
-          }
-        ],
-        "excerpt": "",
-        "context": "10/29 13:30:24 법원 취재 공개.복무 중 범행은 과거이며 정확한 선고일은 본문 미기재.24시간을 넘어48시간 범위 채택.",
-        "fetched_at": 1793336959,
-        "parser_revision": 7
-      },
-      "curation_event_key": "naval-military-police-smartphone-gambling387-sentence-20261029"
-    },
-    "26472533b8d0": {
-      "source": "연합뉴스",
-      "title": "매출 큰 회사 주식3주를1주로? 합병 손실 소송,6년 만에 주주 패소",
-      "link": "https://www.yna.co.kr/view/AKR20261029081600004",
-      "first_seen_at": 1793336959,
-      "last_seen_at": 1793336959,
-      "samples": [
-        {
-          "at": 1793336959,
-          "views": null,
-          "reactions": null,
-          "rank": 9,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "26472533b8d0",
-      "editorial": {
-        "title": "매출 큰 회사 주식3주를1주로? 합병 손실 소송,6년 만에 주주 패소",
-        "category": "시사",
-        "url": "https://www.yna.co.kr/view/AKR20261029081600004",
-        "source": "연합뉴스",
-        "kind": "article",
-        "event_key": "samsung-ct-merger-individual-shareholders-damages-dismissal-20261029",
-        "why": "합병 비율0.35대1로 손해를 봤다는 주주들의 주장과 자산 크기만으로 불공정은 아니라는 판단이 구체적 돈 손익으로 갈린다.",
-        "angle": "3주가1주가 된 합병,법원이 불공정을 인정하지 않은 이유",
-        "why_now": "합병2015년·제소2020년.새 선고는10/29이며 첫 확인10:51 연합뉴스 취재,21:16 경향 후속과 구분.48시간 범위에서 채택.",
-        "verified_at": 1793336874,
-        "published_at": 1793238660,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261029081600004",
-            "note": "연합뉴스의 법원 취재 본문에서26명 개인주주의 손해배상 청구 기각과 합병의 사업상 목적·법정 평가 방식 판단을 확인했다.형사판결과 별개인 민사1심이고 주가 손실 자체가 없었다는 뜻은 아니다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261029081600004",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "민사1심 결과.투자 손실이 없었다거나 합병 관련 모든 쟁점 종결 아님.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-29",
-          "observation": "연합뉴스의 법원 취재 본문에서26명 개인주주의 손해배상 청구 기각과 합병의 사업상 목적·법정 평가 방식 판단을 확인했다.형사판결과 별개인 민사1심이고 주가 손실 자체가 없었다는 뜻은 아니다.",
-          "checked_materials": [],
-          "outline": [
-            "2015년 합병 비율과 주주들의 가치 하락 주장 제시",
-            "6년 소송 뒤 나온 사업상 목적·평가 방식 판단 소개",
-            "민사1심 청구 기각과 확정 여부·주가 손실을 구분"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.yna.co.kr/view/AKR20261029081600004"
-          }
-        ],
-        "excerpt": "",
-        "context": "합병2015년·제소2020년.새 선고는10/29이며 첫 확인10:51 연합뉴스 취재,21:16 경향 후속과 구분.48시간 범위에서 채택.",
-        "fetched_at": 1793336959,
-        "parser_revision": 7
-      },
-      "curation_event_key": "samsung-ct-merger-individual-shareholders-damages-dismissal-20261029"
-    },
-    "028008a0a286": {
-      "source": "SBS",
-      "title": "“넘어져 다쳤다” 부인했지만…말 못하는5세 아이의 상처가 증거 됐다",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822876",
-      "first_seen_at": 1793336959,
-      "last_seen_at": 1793336959,
-      "samples": [
-        {
-          "at": 1793336959,
-          "views": null,
-          "reactions": null,
-          "rank": 10,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "028008a0a286",
-      "editorial": {
-        "title": "“넘어져 다쳤다” 부인했지만…말 못하는5세 아이의 상처가 증거 됐다",
-        "category": "시사",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822876",
-        "source": "SBS",
-        "kind": "article",
-        "event_key": "hongseong-autistic-child-girlfriend-daughter-abuse-conviction-20261030",
-        "why": "진술하기 어려운 아동의 상처를 사고라고 부인한 설명이 신체 손상·법의학 의견을 통해 뒤집힌 구체적 사건이다.",
-        "angle": "피해자가 말을 못해도 상처의 경위는 사라지지 않았다",
-        "why_now": "폭행은2025년7~9월,오늘 발생한 사건 아님.새 판결 취재10/30 11:02:36 공개,13:30 수정과 구분.정확한 선고일은 본문 미기재.",
-        "verified_at": 1793336577,
-        "published_at": 1793325756,
-        "evidence": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822876",
-            "note": "SBS 법원 취재 본문에서 징역2년6개월·장애인기관3년 취업제한·법의학 자문과 사고 주장 배척을 확인했다.도구 특정이 안 된 특수상해·특수폭행 부분 무죄와 나머지 유죄를 구분했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822876",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "판결 취재 기반.도구 특정 부분 무죄를 전체 무죄·모든 혐의 유죄로 바꾸지 않음.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-30",
-          "observation": "SBS 법원 취재 본문에서 징역2년6개월·장애인기관3년 취업제한·법의학 자문과 사고 주장 배척을 확인했다.도구 특정이 안 된 특수상해·특수폭행 부분 무죄와 나머지 유죄를 구분했다.",
-          "checked_materials": [],
-          "outline": [
-            "교통사고·넘어짐이었다는 피고인과 친모의 주장 귀속",
-            "혼자 다쳤다고 보기 어렵다는 법의학 자문·상처 시점 설명",
-            "실형 선고와 도구 특정 불가 부분 무죄·친모 별도 재판 구분"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822876"
-          }
-        ],
-        "excerpt": "",
-        "context": "폭행은2025년7~9월,오늘 발생한 사건 아님.새 판결 취재10/30 11:02:36 공개,13:30 수정과 구분.정확한 선고일은 본문 미기재.",
-        "fetched_at": 1793336959,
-        "parser_revision": 7
-      },
-      "curation_event_key": "hongseong-autistic-child-girlfriend-daughter-abuse-conviction-20261030"
     }
   },
-  "updated_at": 1793938125
+  "updated_at": 1793941990
 }
