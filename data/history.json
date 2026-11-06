@@ -1,6 +1,461 @@
 {
   "version": 1,
   "items": {
+    "61defefaf59f": {
+      "source": "아시아경제",
+      "title": "전국법관대표회의, 1주 앞당겨 30일 개최…안건·공동 입장은 미확정",
+      "link": "https://www.asiae.co.kr/article/2026110610563700929",
+      "first_seen_at": 1793941990,
+      "last_seen_at": 1793945304,
+      "samples": [
+        {
+          "at": 1793941990,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        },
+        {
+          "at": 1793945304,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "61defefaf59f",
+      "editorial": {
+        "title": "전국법관대표회의, 1주 앞당겨 30일 개최…안건·공동 입장은 미확정",
+        "category": "시사",
+        "url": "https://www.asiae.co.kr/article/2026110610563700929",
+        "source": "아시아경제",
+        "kind": "article",
+        "event_key": "national-judges-representatives-advance-regular-meeting-nov30-announcement-20261106",
+        "why": "국정조사·대법관 재제청 갈등 속에서 전국 판사 대표기구가 실제 회의 일정을 바꾼 사법부의 제도적 움직임이다.",
+        "angle": "12월 7일에서 11월 30일로 당긴 결정부터 전하고, 일정 변경과 특정 결의 채택을 구분한다.",
+        "why_now": "11/6 10:56:38 KST 최초 기사. 근거 투표는 11/4, 일정 변경 공개는 11/6이며 개최일 자체를 사건일로 쓰지 않았다.",
+        "verified_at": 1793944981,
+        "published_at": 1793930198,
+        "evidence": [
+          {
+            "url": "https://www.asiae.co.kr/article/2026110610563700929",
+            "note": "11/6 공개된 일정 변경 12/7→11/30. 11/4 투표에서 앞당기자는 의견이 더 많아 운영위가 결정했다. 구체적인 안건은 아직 미확정."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.asiae.co.kr/article/2026110610563700929",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "안건과 공식 입장은 아직 미확정. 특정 정치권 비판 결의나 임시회의 개최로 단정하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-06",
+          "observation": "본문에서 운영위가 11/4 법관대표 투표 결과를 바탕으로 하반기 정기회의를 11/30로 변경한 사실을 확인했다. 사법독립 논의 요구 배경과 달리 이번 회의 안건은 확정되지 않았다고 명시했다.",
+          "checked_materials": [],
+          "outline": [
+            "법관대표 투표 뒤 정기회의 일주일 조기 개최",
+            "국정조사·대법관 재제청 논란이 배경",
+            "안건·공동 입장 채택은 아직 미확정"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://www.asiae.co.kr/article/2026110610563700929"
+          }
+        ],
+        "excerpt": "",
+        "context": "11/6 10:56:38 KST 최초 기사. 근거 투표는 11/4, 일정 변경 공개는 11/6이며 개최일 자체를 사건일로 쓰지 않았다.",
+        "fetched_at": 1793945304,
+        "parser_revision": 7
+      },
+      "curation_event_key": "national-judges-representatives-advance-regular-meeting-nov30-announcement-20261106"
+    },
+    "98050eebeae1": {
+      "source": "츠르베나 즈베즈다·뉴스핌",
+      "title": "김예건 첫 UECL 선발, 첫 도움은 동료 반칙으로 취소…즈베즈다는 역전승",
+      "link": "https://www.crvenazvezdafk.com/sr-latn/vesti/crvena-zvezda---inter-eskaldes-2-1-0-0",
+      "first_seen_at": 1793945304,
+      "last_seen_at": 1793945304,
+      "samples": [
+        {
+          "at": 1793945304,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "official",
+      "story_id": "98050eebeae1",
+      "editorial": {
+        "title": "김예건 첫 UECL 선발, 첫 도움은 동료 반칙으로 취소…즈베즈다는 역전승",
+        "category": "축구",
+        "url": "https://www.crvenazvezdafk.com/sr-latn/vesti/crvena-zvezda---inter-eskaldes-2-1-0-0",
+        "source": "츠르베나 즈베즈다·뉴스핌",
+        "kind": "official",
+        "event_key": "kim-ye-geon-uecl-first-start-katai-goal-overturned-red-card-20261105",
+        "why": "한국 유망주의 유럽대항전 첫 선발에서 도움 기회가 VAR 반칙 판정으로 사라진 구체적 사건이다.",
+        "angle": "김예건의 패스로 나온 골이 취소되고 득점자까지 퇴장당한 전환점을 먼저 제시한다.",
+        "why_now": "경기는 세르비아 11/5·한국 11/6 새벽. 구단 원문 11/5 21:00 표기(시간대 미표시), 국내 기사 최초 11/6 06:35 KST.",
+        "verified_at": 1793945109,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.crvenazvezdafk.com/sr-latn/vesti/crvena-zvezda---inter-eskaldes-2-1-0-0",
+            "note": "구단 원문: 김 선발·46분 교체, 카타이 골 VAR 반칙 취소·직접 퇴장, 베를랑가 51분 퇴장. 루치치 동점골·추가시간 디아스 자책골로 2-1."
+          },
+          {
+            "url": "https://www.newspim.com/news/view/20261106000136",
+            "note": "뉴스핌 11/6 09:31 KST 본문: 김의 패스 뒤 카타이 득점이 VAR로 취소돼 도움 무산. 양 팀 퇴장. 상대 국적을 이탈리아로 쓴 오류는 제외한다."
+          },
+          {
+            "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697880",
+            "note": "인터풋볼 11/6 06:35 KST 본문도 김 패스→카타이 골 취소·퇴장을 확인. 분 단위 차이가 있어 정확한 퇴장 분은 제목·서술에서 제외."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.crvenazvezdafk.com/sr-latn/vesti/crvena-zvezda---inter-eskaldes-2-1-0-0",
+            "label": "확인한 공식 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "영상은 미시청. 양 팀 모두 퇴장으로 후반 10대10이 됐으므로 10대11로 끝까지 이겼다고 쓰지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "구단 경기 보고서에서 김 선발·하프타임 교체, 카타이 골 VAR 취소·직접 퇴장, 베를랑가 후반 퇴장, 2-1 역전승을 확인했다. 김의 패스로 도움 기회가 사라졌다는 사실은 국내 두 기사 본문에서 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "김예건 첫 선발과 카타이 득점 취소·퇴장",
+            "후반 상대 퇴장으로 수적 균형 회복",
+            "선제 실점 뒤 2-1 역전, 도움은 공식 기록 아님"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 공식 원문",
+            "url": "https://www.crvenazvezdafk.com/sr-latn/vesti/crvena-zvezda---inter-eskaldes-2-1-0-0"
+          }
+        ],
+        "excerpt": "",
+        "context": "경기는 세르비아 11/5·한국 11/6 새벽. 구단 원문 11/5 21:00 표기(시간대 미표시), 국내 기사 최초 11/6 06:35 KST.",
+        "fetched_at": 1793945304,
+        "parser_revision": 7
+      },
+      "curation_event_key": "kim-ye-geon-uecl-first-start-katai-goal-overturned-red-card-20261105"
+    },
+    "484386ddd6f6": {
+      "source": "Full-Count·스포츠호치",
+      "title": "다승왕·노히터 히가시하마, 무상 트레이드…14년 뛴 소프트뱅크 떠난다",
+      "link": "https://full-count.jp/2026/11/06/post2038574/",
+      "first_seen_at": 1793945304,
+      "last_seen_at": 1793945304,
+      "samples": [
+        {
+          "at": 1793945304,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "484386ddd6f6",
+      "editorial": {
+        "title": "다승왕·노히터 히가시하마, 무상 트레이드…14년 뛴 소프트뱅크 떠난다",
+        "category": "메이저 스포츠",
+        "url": "https://full-count.jp/2026/11/06/post2038574/",
+        "source": "Full-Count·스포츠호치",
+        "kind": "article",
+        "event_key": "higashihama-nao-hiroshima-free-trade-softbank-announced-20261106",
+        "why": "오랜 우승 전력의 투수가 보상 없는 이적으로 팀을 옮기며 구단의 선수 기회·등록 한도 판단이 드러났다.",
+        "angle": "14년 원클럽·올해 1군 등판 0회와 무상 이적을 붙이고, 출전 기회와 70인 한도를 설명한다.",
+        "why_now": "11/6 양 구단 발표를 전한 Full-Count 최초 10:01:05 JST·수정 11:09:41. 11:57 GM 설명 보도로 배경 확인.",
+        "verified_at": 1793945101,
+        "published_at": 1793926865,
+        "evidence": [
+          {
+            "url": "https://full-count.jp/2026/11/06/post2038574/",
+            "note": "11/6 10:01 JST 최초 보도: 양 구단 트레이드 발표, 2017년 다승왕·2022년 노히터·올해 1군 등판 없음. 이적은 무상으로 확인된다."
+          },
+          {
+            "url": "https://news.livedoor.com/article/detail/32746615/",
+            "note": "호치 11/6 11:57 JST 최초·13:22 수정. 미카사 GM은 출전 기회를 원하는 본인 의사와 드래프트 9명 입단 시 등록 70인 도달을 이유로 설명했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://full-count.jp/2026/11/06/post2038574/",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "재기 성공은 예측하지 않는다. 무상 트레이드는 이적 대가가 없다는 뜻이며 연봉이 없다는 뜻은 아니다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-06",
+          "observation": "일본 전문매체 본문에서 양 구단 발표와 무상 트레이드, 14년 소프트뱅크·올해 1군 미등판을 확인했다. 호치 본문의 GM 현장 설명은 선수 출전 희망과 등록 70인 한도를 함께 이유로 들었다.",
+          "checked_materials": [],
+          "outline": [
+            "14년 호크스 투수, 히로시마 무상 이적 확정",
+            "올해 1군 등판 없음과 과거 다승왕·노히터 경력",
+            "GM이 밝힌 기회 보장·70인 등록 한도"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://full-count.jp/2026/11/06/post2038574/"
+          }
+        ],
+        "excerpt": "",
+        "context": "11/6 양 구단 발표를 전한 Full-Count 최초 10:01:05 JST·수정 11:09:41. 11:57 GM 설명 보도로 배경 확인.",
+        "fetched_at": 1793945304,
+        "parser_revision": 7
+      },
+      "curation_event_key": "higashihama-nao-hiroshima-free-trade-softbank-announced-20261106"
+    },
+    "d631fa841cad": {
+      "source": "경향신문",
+      "title": "반대매매 악순환 막는다…9일부터 신용융자 담보유지 의무 3개월 면제",
+      "link": "https://www.khan.co.kr/article/202611061350001",
+      "first_seen_at": 1793945304,
+      "last_seen_at": 1793945304,
+      "samples": [
+        {
+          "at": 1793945304,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "d631fa841cad",
+      "editorial": {
+        "title": "반대매매 악순환 막는다…9일부터 신용융자 담보유지 의무 3개월 면제",
+        "category": "시사",
+        "url": "https://www.khan.co.kr/article/202611061350001",
+        "source": "경향신문",
+        "kind": "article",
+        "event_key": "korea-credit-trading-collateral-maintenance-exemption-three-months-20261106",
+        "why": "급락장에 빚을 내 주식을 산 투자자와 증권사에 영향을 주는 실제 규정 완화로 돈의 손익에 직결된다.",
+        "angle": "140% 담보유지 의무가 증권사에 적용되는 규정임을 설명하고 9일 시행·3개월 기간을 제시한다.",
+        "why_now": "11/6 10:30 KST 긴급 회의에서 결정. YTN 11:49 속보 확인, 경향 최초 13:50 본문으로 시행일과 기간을 검증했다.",
+        "verified_at": 1793945035,
+        "published_at": 1793940600,
+        "evidence": [
+          {
+            "url": "https://www.khan.co.kr/article/202611061350001",
+            "note": "11/6 13:50 KST 기사 본문. 오전 10:30 관계기관 회의, 11/9부터 신용융자 증권사 담보비율 유지의무 140%를 3개월 면제한다는 결정 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.khan.co.kr/article/202611061350001",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "대출 상환 면제나 모든 계좌 반대매매 금지 아님. 증권사별 적용·계약 조건은 별도 확인 필요.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-06",
+          "observation": "본문에서 정부가 9일부터 증권사의 신용융자 담보비율 유지의무(140%)를 3개월 면제하기로 했음을 확인했다. 주가 하락·반대매매 악순환 차단 목적이며 주가 회복 보장은 아니다.",
+          "checked_materials": [],
+          "outline": [
+            "11월 9일부터 3개월, 증권사 담보유지 의무 면제",
+            "주가 하락→반대매매→추가 하락 악순환 차단 취지",
+            "대출 탕감·전면 반대매매 금지와 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://www.khan.co.kr/article/202611061350001"
+          }
+        ],
+        "excerpt": "",
+        "context": "11/6 10:30 KST 긴급 회의에서 결정. YTN 11:49 속보 확인, 경향 최초 13:50 본문으로 시행일과 기간을 검증했다.",
+        "fetched_at": 1793945304,
+        "parser_revision": 7
+      },
+      "curation_event_key": "korea-credit-trading-collateral-maintenance-exemption-three-months-20261106"
+    },
+    "9033ac68011b": {
+      "source": "조선비즈·경향신문",
+      "title": "쿠팡 2011억원 과징금 효력정지…어제 기각된 4236억원 유출 사건과 다르다",
+      "link": "https://biz.chosun.com/topics/law_firm/2026/11/06/2CO4OQ46UVD6LGRGBRJCHLALB4/",
+      "first_seen_at": 1793945304,
+      "last_seen_at": 1793945304,
+      "samples": [
+        {
+          "at": 1793945304,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "9033ac68011b",
+      "editorial": {
+        "title": "쿠팡 2011억원 과징금 효력정지…어제 기각된 4236억원 유출 사건과 다르다",
+        "category": "시사",
+        "url": "https://biz.chosun.com/topics/law_firm/2026/11/06/2CO4OQ46UVD6LGRGBRJCHLALB4/",
+        "source": "조선비즈·경향신문",
+        "kind": "article",
+        "event_key": "coupang-online-activity-collection-2011eok-fine-stay-granted-20261106",
+        "why": "1117만명 활동기록 수집 처분의 효력이 멈춰, 대형 플랫폼 개인정보 책임과 사법 판단의 차이를 보여준다.",
+        "angle": "2011억원 활동기록 수집 사건과 4236억원 유출 사건을 나란히 놓고 서로 다른 결정임을 설명한다.",
+        "why_now": "11/6 행정1부 새 결정. 조선비즈 메타 최초 13:40:09 KST·표시 13:41, 경향 14:15 본문으로 교차 확인.",
+        "verified_at": 1793945065,
+        "published_at": 1793940009,
+        "evidence": [
+          {
+            "url": "https://biz.chosun.com/topics/law_firm/2026/11/06/2CO4OQ46UVD6LGRGBRJCHLALB4/",
+            "note": "행정1부 11/6 결정 보도. 과징금 정확히 2011억600만원 및 시정·공표명령 효력이 본안 1심 선고 후 30일까지 정지. 본안 승소가 아니다."
+          },
+          {
+            "url": "https://www.khan.co.kr/article/202611061415001",
+            "note": "경향 14:15 최초·14:16 수정 본문. 활동기록 수집 집행정지 인용과 11/5 유출 과징금 4235억7500만원 집행정지 기각이 별개임을 명시."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://biz.chosun.com/topics/law_firm/2026/11/06/2CO4OQ46UVD6LGRGBRJCHLALB4/",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "과징금 취소·무혐의 판결 아님. 전날 발송한 유출 사건 과징금 효력 유지와 별개 처분이다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-06",
+          "observation": "두 본문에서 활동기록 수집 관련 2011억600만원 과징금·시정·공표명령의 집행정지 인용, 본안 1심 판결 뒤 30일까지 정지를 확인했다. 위법성의 최종 판단은 본안 소송에서 이뤄진다.",
+          "checked_materials": [],
+          "outline": [
+            "1117만명 활동기록 수집 처분의 집행정지 인용",
+            "본안 1심 판결 후 30일까지 효력 정지",
+            "어제 유출 과징금 4236억원 기각과 사건 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://biz.chosun.com/topics/law_firm/2026/11/06/2CO4OQ46UVD6LGRGBRJCHLALB4/"
+          }
+        ],
+        "excerpt": "",
+        "context": "11/6 행정1부 새 결정. 조선비즈 메타 최초 13:40:09 KST·표시 13:41, 경향 14:15 본문으로 교차 확인.",
+        "fetched_at": 1793945304,
+        "parser_revision": 7
+      },
+      "curation_event_key": "coupang-online-activity-collection-2011eok-fine-stay-granted-20261106"
+    },
+    "1ea648ac2a0c": {
+      "source": "Reuters·CNA",
+      "title": "델리 국제경기, 다시 개최지 바뀐다…인도-스리랑카 첫 ODI 이전 확정",
+      "link": "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366",
+      "first_seen_at": 1793945304,
+      "last_seen_at": 1793945304,
+      "samples": [
+        {
+          "at": 1793945304,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "1ea648ac2a0c",
+      "editorial": {
+        "title": "델리 국제경기, 다시 개최지 바뀐다…인도-스리랑카 첫 ODI 이전 확정",
+        "category": "메이저 스포츠",
+        "url": "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366",
+        "source": "Reuters·CNA",
+        "kind": "article",
+        "event_key": "bcci-india-srilanka-first-odi-delhi-visakhapatnam-venue-change-20261105",
+        "why": "국제대회 개최지 결정이 기상·시설과 대기질 우려에 영향을 받는 스포츠 운영 문제를 보여준다.",
+        "angle": "12월 13일 첫 ODI 개최지 변경을 먼저 놓고 공식 사유와 별도 매체의 대기질 우려 보도를 구분한다.",
+        "why_now": "BCCI 발표는 인도 11/5. Reuters·CNA 최초 11/5 23:47:24 SGT(11/6 00:47 KST), 원문 발표의 정확한 분단위는 미확인.",
+        "verified_at": 1793945004,
+        "published_at": 1793893644,
+        "evidence": [
+          {
+            "url": "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366",
+            "note": "11/5 발표를 전한 Reuters 본문. DDCA 요청을 받아 BCCI가 장소 변경. 공식 발표는 기상 차질과 보수공사를 명시, 대기질은 Cricbuzz 추가 보도다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "공식 사유는 기상 차질·예정된 보수공사다. 대기오염만으로 취소됐다고 쓰지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "Reuters 본문에서 BCCI가 12/13 첫 ODI를 델리에서 비사카파트남으로 옮긴다고 발표했음을 확인했다. DDCA가 요청했으며 공식 사유와 Cricbuzz의 별도 대기질 설명은 구분했다.",
+          "checked_materials": [],
+          "outline": [
+            "12월 13일 첫 ODI, 델리에서 비사카파트남으로",
+            "기상 차질·보수공사라는 공식 사유",
+            "대기질 우려는 별도 보도, 단독 원인으로 단정 금지"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366"
+          }
+        ],
+        "excerpt": "",
+        "context": "BCCI 발표는 인도 11/5. Reuters·CNA 최초 11/5 23:47:24 SGT(11/6 00:47 KST), 원문 발표의 정확한 분단위는 미확인.",
+        "fetched_at": 1793945304,
+        "parser_revision": 7
+      },
+      "curation_event_key": "bcci-india-srilanka-first-odi-delhi-visakhapatnam-venue-change-20261105"
+    },
     "e58656cd239e": {
       "source": "MBC",
       "title": "서울지하철 노조 쟁의행위 가결…20일 준법투쟁, 파업은 교섭에 달렸다",
@@ -390,78 +845,6 @@
         "parser_revision": 7
       },
       "curation_event_key": "russell-brand-four-women-rape-three-sexual-assaults-guilty-verdict-20261105"
-    },
-    "61defefaf59f": {
-      "source": "아시아경제",
-      "title": "전국법관대표회의, 정기회의 1주 당겨 30일 개최…안건은 미확정",
-      "link": "https://www.asiae.co.kr/article/2026110610563700929",
-      "first_seen_at": 1793941990,
-      "last_seen_at": 1793941990,
-      "samples": [
-        {
-          "at": 1793941990,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "61defefaf59f",
-      "editorial": {
-        "title": "전국법관대표회의, 정기회의 1주 당겨 30일 개최…안건은 미확정",
-        "category": "시사",
-        "url": "https://www.asiae.co.kr/article/2026110610563700929",
-        "source": "아시아경제",
-        "kind": "article",
-        "event_key": "national-judges-representatives-advance-regular-meeting-nov30-announcement-20261106",
-        "why": "대법관 제청과 국정조사를 둘러싼 사법부·정치권 갈등 속에서 판사 대표기구가 실제 회의 일정을 바꿨다.",
-        "angle": "12월 7일에서 11월 30일로 바뀐 결정부터 제시하고, 일정 변경과 사법부 공식 입장 채택은 구분한다.",
-        "why_now": "11/6 10:56:38 KST 아시아경제 최초 게시. 결정의 근거 투표는 11/4였고 공개 발표는 11/6이다.",
-        "verified_at": 1793941784,
-        "published_at": 1793930198,
-        "evidence": [
-          {
-            "url": "https://www.asiae.co.kr/article/2026110610563700929",
-            "note": "11/6 공개된 일정 변경: 12/7→11/30. 투표는 11/4 실시됐으며 별도 임시회의 대신 정기회의 조정. 이번 회의 안건은 미확정이다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.asiae.co.kr/article/2026110610563700929",
-            "label": "확인한 기사 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "안건과 공동 입장 미확정. 정치권 비판 결의나 임시회의 개최로 단정하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-06",
-          "observation": "본문에서 운영위가 11/4 법관대표 투표를 바탕으로 정기회의를 11/30로 앞당겼다는 결정을 확인했다. 조기 소집 요구 배경을 설명하지만 이번 회의 안건은 아직 확정되지 않았다고 명시했다.",
-          "checked_materials": [],
-          "outline": [
-            "법관대표 투표 뒤 하반기 정기회의를 일주일 앞당긴 결정",
-            "국정조사·대법관 재제청을 둘러싼 논의 배경",
-            "11월 30일 개최와 미확정 안건·입장 구분"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 기사 본문",
-            "url": "https://www.asiae.co.kr/article/2026110610563700929"
-          }
-        ],
-        "excerpt": "",
-        "context": "11/6 10:56:38 KST 아시아경제 최초 게시. 결정의 근거 투표는 11/4였고 공개 발표는 11/6이다.",
-        "fetched_at": 1793941990,
-        "parser_revision": 7
-      },
-      "curation_event_key": "national-judges-representatives-advance-regular-meeting-nov30-announcement-20261106"
     },
     "b46d4e355210": {
       "source": "점프볼",
@@ -31029,5 +31412,5 @@
       "curation_event_key": "expressway-reststop-direct-contract-first-tender-20261030"
     }
   },
-  "updated_at": 1793941990
+  "updated_at": 1793945304
 }
