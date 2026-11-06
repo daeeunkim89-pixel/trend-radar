@@ -1,5 +1,5 @@
 {
-  "updated_at": 1793931117,
+  "updated_at": 1793934706,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026110602",
+    "hour_utc": "2026110603",
     "category_counts": {
       "시사": 2,
-      "축구": 1,
-      "메이저 스포츠": 2,
+      "축구": 2,
+      "메이저 스포츠": 1,
       "아이돌": 0
     },
-    "research_queries": 16,
-    "opened_sources": 8,
+    "research_queries": 34,
+    "opened_sources": 14,
     "picks": [
       {
-        "title": "조규성·홍현석의 미트윌란, 아약스에 1대6…퇴장 뒤 후반 5실점",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833332",
-        "event_key": "midtjylland-ajax-six-one-red-card-five-second-half-goals-20261105"
+        "title": "교체 선수들이 3골…셀틱, 87분 결승골로 유로파 첫 승",
+        "url": "https://www.skysports.com/football/news/13607043/celtic-3-2-besiktas-camilo-duran-and-callum-osmand-come-off-bench-to-inspire-hoops-to-first-europa-league-win",
+        "event_key": "celtic-besiktas-three-substitute-goals-first-europa-win-20261105"
       },
       {
-        "title": "코스피 8%대 급락에 20분 거래 중단…1단계 서킷브레이커",
-        "url": "https://www.newspim.com/news/view/20261106000220",
-        "event_key": "kospi-stage-one-circuit-breaker-twenty-minute-trading-halt-20261106"
+        "title": "로테이션 돌린 강원, 쿠칭에 0대2…ACL2 조 최하위 추락",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833121",
+        "event_key": "gangwon-kuching-away-two-nil-loss-acl2-bottom-group-20261105"
       },
       {
-        "title": "서울 삼성, 11경기 만에 10승…KBL 역대 최단 타이",
-        "url": "https://sports.khan.co.kr/article/202611060015003",
-        "event_key": "seoul-samsung-ten-wins-eleven-games-kbl-fastest-tie-20261105"
+        "title": "러시아 복귀 논란에 CAS 재설명…“IIHF가 배제 근거 충분히 못 냈다”",
+        "url": "https://www.tas-cas.org/generated/assets/lists/dceab111-07bc-435f-b5f9-de88eff9db72/CAS%20Media%20Release_RIHF%20v.%20IIHF%20Statement.pdf",
+        "event_key": "cas-rihf-iihf-nonparticipation-evidence-neutrality-clarification-20261105"
       },
       {
-        "title": "구글, 와이오밍 첫 데이터센터에 170억 달러 투자 발표",
-        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
-        "event_key": "google-wyoming-first-data-center-seventeen-billion-investment-20261105"
+        "title": "트럼프, 집무실을 국가기념물로 지정…선언문은 재장식 허용",
+        "url": "https://www.whitehouse.gov/presidential-actions/2026/11/establishment-of-the-oval-office-national-monument/",
+        "event_key": "trump-oval-office-cabinet-room-national-monument-proclamation-20261105"
       },
       {
-        "title": "올림픽 은메달 2개 더보, 자전거 사고로 쇄골 골절…초반 월드컵 불참",
-        "url": "https://www.schaatsen.nl/nieuws/jenning-de-boo-mist-eerste-world-cups-door-gebroken-sleutelbeen/",
-        "event_key": "jenning-de-boo-cycling-collarbone-surgery-world-cups-withdrawal-20261104"
+        "title": "철도노조 쟁의투표 가결…23일 안전운행 투쟁·12월 총파업 예고",
+        "url": "https://www4.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=06815846645642768",
+        "event_key": "korean-railway-union-industrial-action-vote-passed-december-strike-plan-20261105"
       }
     ]
   }
