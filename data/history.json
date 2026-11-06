@@ -1,6 +1,451 @@
 {
   "version": 1,
   "items": {
+    "e58656cd239e": {
+      "source": "MBC",
+      "title": "서울교통공사 노조 쟁의 가결…20일부터 준법투쟁 예고",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6863481_36919.html",
+      "first_seen_at": 1793934705,
+      "last_seen_at": 1793938125,
+      "samples": [
+        {
+          "at": 1793934705,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        },
+        {
+          "at": 1793938125,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "e58656cd239e",
+      "editorial": {
+        "title": "서울교통공사 노조 쟁의 가결…20일부터 준법투쟁 예고",
+        "category": "시사",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6863481_36919.html",
+        "source": "MBC",
+        "kind": "article",
+        "event_key": "seoul-metro-union-industrial-action-vote-nov20-work-to-rule-20261105",
+        "why": "수도권 출퇴근 수요가 큰 지하철에서 인력·임금 갈등이 쟁의 단계로 넘어갔다.",
+        "angle": "20일부터 준법투쟁, 교섭 불발 시 파업…현재 전면 운행중단 아님",
+        "why_now": "투표 결과 공개는11월5일. MBC 최초18:51:48 KST,18:51:57수정.12시간 밖 미발송을24시간으로 확대. 전국철도노조와 다른 노조 사건.",
+        "verified_at": 1793937891,
+        "published_at": 1793872308,
+        "evidence": [
+          {
+            "url": "https://imnews.imbc.com/news/2026/society/article/6863481_36919.html",
+            "note": "MBC 본문으로 노조 발표 확인. 직전 회차 예비에만 있었고 실제 발송 이력에는 없다. 전국철도노조와는 다른 사용자·노조의 쟁의다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://imnews.imbc.com/news/2026/society/article/6863481_36919.html",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "파업 확정·즉시 운행중단으로 쓰지 않는다. 전국철도노조 일정과 구분한다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "본문에서 투표자86.3% 찬성,20일 준법투쟁,교섭 진전 없으면 파업 방침과 임금·인력감축 철회 요구를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "서울교통공사 노조 쟁의 가결·20일 준법투쟁",
+            "조건부 파업 방침과 인력·임금 쟁점"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://imnews.imbc.com/news/2026/society/article/6863481_36919.html"
+          }
+        ],
+        "excerpt": "",
+        "context": "투표 결과 공개는11월5일. MBC 최초18:51:48 KST,18:51:57수정.12시간 밖 미발송을24시간으로 확대. 전국철도노조와 다른 노조 사건.",
+        "fetched_at": 1793938125,
+        "parser_revision": 7
+      },
+      "curation_event_key": "seoul-metro-union-industrial-action-vote-nov20-work-to-rule-20261105"
+    },
+    "b46d4e355210": {
+      "source": "점프볼",
+      "title": "허훈, 항저우 AG 이후 대표팀 복귀…농구 월드컵 예선 12인 확정",
+      "link": "https://www.jumpball.co.kr/news/newsview.php?ncode=1065575033006173",
+      "first_seen_at": 1793938125,
+      "last_seen_at": 1793938125,
+      "samples": [
+        {
+          "at": 1793938125,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "b46d4e355210",
+      "editorial": {
+        "title": "허훈, 항저우 AG 이후 대표팀 복귀…농구 월드컵 예선 12인 확정",
+        "category": "메이저 스포츠",
+        "url": "https://www.jumpball.co.kr/news/newsview.php?ncode=1065575033006173",
+        "source": "점프볼",
+        "kind": "article",
+        "event_key": "korea-basketball-world-cup-window-five-roster-huhun-return-20261106",
+        "why": "본선 진출 경쟁 중인 한국 농구에 허훈이 돌아오고 해외파는 소속팀 일정으로 빠졌다.",
+        "angle": "F조4위 한국, 허훈 포함4명 합류해 카타르 원정 나선다",
+        "why_now": "협회 발표는11월6일, 심의는5일. 점프볼 최초6일10:03 KST(메타10:03:37). 경기·선발 결정을 수집 시각으로 바꾸지 않았다.",
+        "verified_at": 1793937854,
+        "published_at": 1793927017,
+        "evidence": [
+          {
+            "url": "https://www.jumpball.co.kr/news/newsview.php?ncode=1065575033006173",
+            "note": "협회 발표를 인용한 기사 본문과 명단을 확인했다. 두 원정경기는 모두 도하 개최 예정이며 사우디전 시각은 미정이다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.jumpball.co.kr/news/newsview.php?ncode=1065575033006173",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "명단 확정이며 본선 진출 확정은 아니다. 허훈 복귀 간격은2023년 이후로 표기.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-06",
+          "observation": "점프볼 본문에서 최종12인, 허훈·안영준·양홍석·하윤기 합류, 이현중·여준석 소속팀 일정 제외, F조4승4패4위와 중국1승 차 확인.",
+          "checked_materials": [],
+          "outline": [
+            "허훈 등4명 합류·해외파 제외 이유",
+            "F조 순위와27일 카타르·29일 사우디전, 본선 확정 아님"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.jumpball.co.kr/news/newsview.php?ncode=1065575033006173"
+          }
+        ],
+        "excerpt": "",
+        "context": "협회 발표는11월6일, 심의는5일. 점프볼 최초6일10:03 KST(메타10:03:37). 경기·선발 결정을 수집 시각으로 바꾸지 않았다.",
+        "fetched_at": 1793938125,
+        "parser_revision": 7
+      },
+      "curation_event_key": "korea-basketball-world-cup-window-five-roster-huhun-return-20261106"
+    },
+    "e31199c0a5a1": {
+      "source": "Yahoo Sports",
+      "title": "NFL 라이스, 파산 신청…슈퍼볼 우승 반지까지 담보로",
+      "link": "https://sports.yahoo.com/nfl/article/chiefs-wr-rashee-rice-reportedly-files-for-bankruptcy-citing-345-million-in-debts-following-fallout-from-2024-car-crash-221842676.html",
+      "first_seen_at": 1793938125,
+      "last_seen_at": 1793938125,
+      "samples": [
+        {
+          "at": 1793938125,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "e31199c0a5a1",
+      "editorial": {
+        "title": "NFL 라이스, 파산 신청…슈퍼볼 우승 반지까지 담보로",
+        "category": "메이저 스포츠",
+        "url": "https://sports.yahoo.com/nfl/article/chiefs-wr-rashee-rice-reportedly-files-for-bankruptcy-citing-345-million-in-debts-following-fallout-from-2024-car-crash-221842676.html",
+        "source": "Yahoo Sports",
+        "kind": "article",
+        "event_key": "rashee-rice-chapter-seven-bankruptcy-filing-crash-debts-ring-collateral-20261104",
+        "why": "슈퍼볼 우승 선수의 교통사고 후속 법률비용·채무가 파산 절차로 이어졌다.",
+        "angle": "채무345만 달러 넘는다고 신고…우승 반지도 담보에 올랐다",
+        "why_now": "신청은11월4일 미국 현지. 확인한 CBS 최초보도5일13:37 CST, Yahoo확인 기사5일22:27 UTC.4일 신청을6일 새 사건으로 쓰지 않는다.",
+        "verified_at": 1793937890,
+        "published_at": 1793917675,
+        "evidence": [
+          {
+            "url": "https://sports.yahoo.com/nfl/article/chiefs-wr-rashee-rice-reportedly-files-for-bankruptcy-citing-345-million-in-debts-following-fallout-from-2024-car-crash-221842676.html",
+            "note": "법원 서류를 확보한 매체들의 보도와 ESPN을 인용한 본문 확인. 법원 원서류·반지 현물은 직접 확인하지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://sports.yahoo.com/nfl/article/chiefs-wr-rashee-rice-reportedly-files-for-bankruptcy-citing-345-million-in-debts-following-fallout-from-2024-car-crash-221842676.html",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "신청·신고액이다. 면책 확정이나 채무 전액 탕감으로 쓰지 않으며 폭행 의혹은 주장이다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-04",
+          "observation": "Yahoo 본문에서 Chapter7 신청,345만 달러 초과 채무·67만7054달러 자산 신고,16만 달러 평가 슈퍼볼 반지 담보를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "파산 신청과 신고 채무·자산 규모",
+            "교통사고 관련 민사 비용과 반지 담보, 면책은 미확정"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://sports.yahoo.com/nfl/article/chiefs-wr-rashee-rice-reportedly-files-for-bankruptcy-citing-345-million-in-debts-following-fallout-from-2024-car-crash-221842676.html"
+          }
+        ],
+        "excerpt": "",
+        "context": "신청은11월4일 미국 현지. 확인한 CBS 최초보도5일13:37 CST, Yahoo확인 기사5일22:27 UTC.4일 신청을6일 새 사건으로 쓰지 않는다.",
+        "fetched_at": 1793938125,
+        "parser_revision": 7
+      },
+      "curation_event_key": "rashee-rice-chapter-seven-bankruptcy-filing-crash-debts-ring-collateral-20261104"
+    },
+    "0bffb0377b88": {
+      "source": "Times of Israel·한국일보",
+      "title": "아이젠코트 67명·네타냐후 46명 추천…이스라엘 연정구성권 8일 결정",
+      "link": "https://www.timesofisrael.com/liveblog_entry/herzog-says-eisenkot-got-67-nods-as-pm-but-he-will-only-hand-over-mandate-on-sunday/",
+      "first_seen_at": 1793938125,
+      "last_seen_at": 1793938125,
+      "samples": [
+        {
+          "at": 1793938125,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "0bffb0377b88",
+      "editorial": {
+        "title": "아이젠코트 67명·네타냐후 46명 추천…이스라엘 연정구성권 8일 결정",
+        "category": "시사",
+        "url": "https://www.timesofisrael.com/liveblog_entry/herzog-says-eisenkot-got-67-nods-as-pm-but-he-will-only-hand-over-mandate-on-sunday/",
+        "source": "Times of Israel·한국일보",
+        "kind": "article",
+        "event_key": "israel-herzog-consultations-eisenkot67-netanyahu46-sunday-mandate-20261105",
+        "why": "네타냐후의 권력 유지와 중동 정세를 좌우할 차기 정부 구성 협의에서 야권 후보가 과반 추천을 받았다.",
+        "angle": "67명 추천받아도 총리 확정은 아니다…대통령이 결정을 미룬 이유",
+        "why_now": "대통령 협의 종료·발언은11월5일. 현지기사 최초5일20:17:36 UTC.10월27일 총선 결과 재전송이 아닌 협의 결과·결정 일정 공개.",
+        "verified_at": 1793937852,
+        "published_at": 1793909856,
+        "evidence": [
+          {
+            "url": "https://www.timesofisrael.com/liveblog_entry/herzog-says-eisenkot-got-67-nods-as-pm-but-he-will-only-hand-over-mandate-on-sunday/",
+            "note": "현지 취재기사 본문에서 추천 수와 대통령 설명을 확인했다. 추천을 당선·연정 완성으로 바꾸지 않는다."
+          },
+          {
+            "url": "https://www.hankookilbo.com/news/article/A2026110607360000679",
+            "note": "한국일보 본문에서11월5일 협의 종료·8일 후보 발표 계획,67대46 추천과 네타냐후의 과도기 총리 유지 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.timesofisrael.com/liveblog_entry/herzog-says-eisenkot-got-67-nods-as-pm-but-he-will-only-hand-over-mandate-on-sunday/",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "추천 수는 연정 참여 확약·총리 당선과 다르다.8일 지명 대상도 아직 미정.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "대통령 발언을 전한 현지 본문에서120명 중67명·46명 추천, 진영 간 상호 거부로 구성 능력 불명확, 일요일8일 구성권 부여 방침 확인.",
+          "checked_materials": [],
+          "outline": [
+            "67명 대46명 추천 결과",
+            "8일 구성권 결정 예정, 실제 연정 성립은 별개"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.timesofisrael.com/liveblog_entry/herzog-says-eisenkot-got-67-nods-as-pm-but-he-will-only-hand-over-mandate-on-sunday/"
+          }
+        ],
+        "excerpt": "",
+        "context": "대통령 협의 종료·발언은11월5일. 현지기사 최초5일20:17:36 UTC.10월27일 총선 결과 재전송이 아닌 협의 결과·결정 일정 공개.",
+        "fetched_at": 1793938125,
+        "parser_revision": 7
+      },
+      "curation_event_key": "israel-herzog-consultations-eisenkot67-netanyahu46-sunday-mandate-20261105"
+    },
+    "db905e932b8d": {
+      "source": "백악관 공식 발표·AFP",
+      "title": "멜라니아 주선으로 러·우 인사 백악관 회동…장기 휴전 촉구",
+      "link": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-unites-russia-and-ukraine-at-the-white-house-following-historic-ceasefire/",
+      "first_seen_at": 1793938125,
+      "last_seen_at": 1793938125,
+      "samples": [
+        {
+          "at": 1793938125,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "official",
+      "story_id": "db905e932b8d",
+      "editorial": {
+        "title": "멜라니아 주선으로 러·우 인사 백악관 회동…장기 휴전 촉구",
+        "category": "시사",
+        "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-unites-russia-and-ukraine-at-the-white-house-following-historic-ceasefire/",
+        "source": "백악관 공식 발표·AFP",
+        "kind": "official",
+        "event_key": "melania-white-house-russian-ukrainian-officials-meeting-after-oleshky-truce-20261105",
+        "why": "전쟁 중인 양국 인사들이 백악관에 모인 실제 외교 행동으로 향후 종전 협상에 중요한 후속이다.",
+        "angle": "같은 백악관에 모인 러·우 인사들, 종전 합의가 체결된 것은 아니다",
+        "why_now": "회동은11월5일 워싱턴. 공식 발표 최초5일16:31:07 UTC,16:31:08수정.6일 갱신 기사 시각을 회동 최초 공개로 쓰지 않는다.",
+        "verified_at": 1793937902,
+        "published_at": 1793896267,
+        "evidence": [
+          {
+            "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-unites-russia-and-ukraine-at-the-white-house-following-historic-ceasefire/",
+            "note": "공식 발표문·준비된 연설문을 읽었다. 행사 영상은 보지 않았고 과거 올레시키 휴전 자체를 새 사건으로 추천하지 않는다."
+          },
+          {
+            "url": "https://www.channelnewsasia.com/world/melania-trump-russia-ukraine-deal-6529891",
+            "note": "AFP 본문에서11월5일 실제 회동 개최 확인. 트럼프의 큰 합의 임박 발언은 구체 합의가 확인되지 않은 주장으로 구분."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-unites-russia-and-ukraine-at-the-white-house-following-historic-ceasefire/",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "새 전면 휴전·종전 합의 체결은 아니다. 인도적 성과 수치는 백악관 설명으로 구분.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "공식 본문에서 러시아·우크라이나 관계자 회동, 지속적 평화 촉구, 양국 대통령에게 전달할 편지 확인. AFP 본문도 회동 개최와 한계를 보도했다.",
+          "checked_materials": [],
+          "outline": [
+            "러시아·우크라이나 인사 백악관 회동 개최",
+            "장기 휴전 촉구와 편지 전달, 새 종전 합의 없음"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-unites-russia-and-ukraine-at-the-white-house-following-historic-ceasefire/"
+          }
+        ],
+        "excerpt": "",
+        "context": "회동은11월5일 워싱턴. 공식 발표 최초5일16:31:07 UTC,16:31:08수정.6일 갱신 기사 시각을 회동 최초 공개로 쓰지 않는다.",
+        "fetched_at": 1793938125,
+        "parser_revision": 7
+      },
+      "curation_event_key": "melania-white-house-russian-ukrainian-officials-meeting-after-oleshky-truce-20261105"
+    },
+    "8d538c74bd86": {
+      "source": "머니투데이·에너지경제",
+      "title": "“11월 추가 대출규제 문건 사실 아냐”…국토부, 추가 수사 의뢰 예고",
+      "link": "https://www.mt.co.kr/estate/2026/11/06/2026110611364873809",
+      "first_seen_at": 1793938125,
+      "last_seen_at": 1793938125,
+      "samples": [
+        {
+          "at": 1793938125,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "8d538c74bd86",
+      "editorial": {
+        "title": "“11월 추가 대출규제 문건 사실 아냐”…국토부, 추가 수사 의뢰 예고",
+        "category": "시사",
+        "url": "https://www.mt.co.kr/estate/2026/11/06/2026110611364873809",
+        "source": "머니투데이·에너지경제",
+        "kind": "article",
+        "event_key": "molit-november-housing-loan-regulation-rumour-denial-investigation-plan-20261106",
+        "why": "규제지역·주택대출과 직결되는 문건 확산에 정부가 공식 부인해 실수요자의 혼동을 바로잡을 사안이다.",
+        "angle": "새 대출 규제가 아니다…온라인 문건에 정부가 내놓은 답변",
+        "why_now": "정부 해명은11월6일(최초발표 시각 미확인). 확인 기사 최초12:03:32 KST,12:09수정. 기사 시각을 정부 발표 시각으로 쓰지 않는다.",
+        "verified_at": 1793937890,
+        "published_at": 1793934212,
+        "evidence": [
+          {
+            "url": "https://www.mt.co.kr/estate/2026/11/06/2026110611364873809",
+            "note": "국토부 발표를 인용한 기사 본문 확인. 부천·수원·안양 지정과 한도 축소는 허위 문건의 주장이지 확정 정책이 아니다."
+          },
+          {
+            "url": "https://m.ekn.kr/view.php?key=20261106020516384",
+            "note": "에너지경제 본문에서 국토부·금융위의 독립 통화 취재와 사실무근 설명, 추가 수사 의뢰 예정 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.mt.co.kr/estate/2026/11/06/2026110611364873809",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "유포 문건의 대출 한도·지역 지정은 시행 정책이 아니다. 수사 의뢰는 예정 단계.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-06",
+          "observation": "본문에서 국토부의 당일 보도참고자료 부인과 추가 수사 의뢰 계획 확인. 금융위도 사실이 아니라고 답했다는 독립 취재 보도를 대조했다.",
+          "checked_materials": [],
+          "outline": [
+            "온라인 추가 규제 문건과 국토부 공식 부인 구분",
+            "수사 의뢰 계획, 새 시행 정책으로 오독하지 않도록 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.mt.co.kr/estate/2026/11/06/2026110611364873809"
+          }
+        ],
+        "excerpt": "",
+        "context": "정부 해명은11월6일(최초발표 시각 미확인). 확인 기사 최초12:03:32 KST,12:09수정. 기사 시각을 정부 발표 시각으로 쓰지 않는다.",
+        "fetched_at": 1793938125,
+        "parser_revision": 7
+      },
+      "curation_event_key": "molit-november-housing-loan-regulation-rumour-denial-investigation-plan-20261106"
+    },
     "443a441a5d1f": {
       "source": "Sky Sports",
       "title": "교체 선수들이 3골…셀틱, 87분 결승골로 유로파 첫 승",
@@ -370,77 +815,6 @@
         "parser_revision": 7
       },
       "curation_event_key": "korean-railway-union-industrial-action-vote-passed-december-strike-plan-20261105"
-    },
-    "e58656cd239e": {
-      "source": "MBC",
-      "title": "서울교통공사 노조도 쟁의 가결…20일부터 준법투쟁 예고",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6863481_36919.html",
-      "first_seen_at": 1793934705,
-      "last_seen_at": 1793934705,
-      "samples": [
-        {
-          "at": 1793934705,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "e58656cd239e",
-      "editorial": {
-        "title": "서울교통공사 노조도 쟁의 가결…20일부터 준법투쟁 예고",
-        "category": "시사",
-        "url": "https://imnews.imbc.com/news/2026/society/article/6863481_36919.html",
-        "source": "MBC",
-        "kind": "article",
-        "event_key": "seoul-metro-union-industrial-action-vote-nov20-work-to-rule-20261105",
-        "why": "수도권 출퇴근 수요가 큰 지하철에서 인력·임금 갈등이 쟁의 단계로 넘어갔다.",
-        "angle": "20일부터 준법투쟁, 교섭 불발 시 파업…현재 전면 운행중단 아님",
-        "why_now": "투표 결과·준법투쟁 계획 공개는11월5일. MBC 최초18:51:48 KST,18:51:57수정. 전국철도노조와 다른 서울교통공사 노조 사건.",
-        "verified_at": 1793934493,
-        "published_at": 1793872308,
-        "evidence": [
-          {
-            "url": "https://imnews.imbc.com/news/2026/society/article/6863481_36919.html",
-            "note": "MBC 본문으로 노조 발표를 확인했다. 노사 타결 여부에 따라 달라지는 계획이며 전국철도노조 일정과 혼동하지 않는다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://imnews.imbc.com/news/2026/society/article/6863481_36919.html",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "파업 확정·즉시 운행중단으로 표현하지 않는다. 철도노조 일정과 구분한다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-05",
-          "observation": "본문에서 투표자86.3% 찬성,20일 준법투쟁,교섭 진전 없으면 파업 방침과 임금3.5% 인상·인력감축 철회 요구를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "서울교통공사 노조 쟁의 가결·20일 준법투쟁",
-            "조건부 파업 방침과 인력·임금 쟁점"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://imnews.imbc.com/news/2026/society/article/6863481_36919.html"
-          }
-        ],
-        "excerpt": "",
-        "context": "투표 결과·준법투쟁 계획 공개는11월5일. MBC 최초18:51:48 KST,18:51:57수정. 전국철도노조와 다른 서울교통공사 노조 사건.",
-        "fetched_at": 1793934705,
-        "parser_revision": 7
-      },
-      "curation_event_key": "seoul-metro-union-industrial-action-vote-nov20-work-to-rule-20261105"
     },
     "a49a0db0668e": {
       "source": "스포츠경향",
@@ -30995,5 +31369,5 @@
       "curation_event_key": "hongseong-autistic-child-girlfriend-daughter-abuse-conviction-20261030"
     }
   },
-  "updated_at": 1793934705
+  "updated_at": 1793938125
 }

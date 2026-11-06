@@ -1,5 +1,5 @@
 {
-  "updated_at": 1793934706,
+  "updated_at": 1793938125,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026110603",
+    "hour_utc": "2026110604",
     "category_counts": {
-      "시사": 2,
-      "축구": 2,
-      "메이저 스포츠": 1,
+      "시사": 3,
+      "축구": 0,
+      "메이저 스포츠": 2,
       "아이돌": 0
     },
-    "research_queries": 34,
-    "opened_sources": 14,
+    "research_queries": 32,
+    "opened_sources": 18,
     "picks": [
       {
-        "title": "교체 선수들이 3골…셀틱, 87분 결승골로 유로파 첫 승",
-        "url": "https://www.skysports.com/football/news/13607043/celtic-3-2-besiktas-camilo-duran-and-callum-osmand-come-off-bench-to-inspire-hoops-to-first-europa-league-win",
-        "event_key": "celtic-besiktas-three-substitute-goals-first-europa-win-20261105"
+        "title": "허훈, 항저우 AG 이후 대표팀 복귀…농구 월드컵 예선 12인 확정",
+        "url": "https://www.jumpball.co.kr/news/newsview.php?ncode=1065575033006173",
+        "event_key": "korea-basketball-world-cup-window-five-roster-huhun-return-20261106"
       },
       {
-        "title": "로테이션 돌린 강원, 쿠칭에 0대2…ACL2 조 최하위 추락",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833121",
-        "event_key": "gangwon-kuching-away-two-nil-loss-acl2-bottom-group-20261105"
+        "title": "NFL 라이스, 파산 신청…슈퍼볼 우승 반지까지 담보로",
+        "url": "https://sports.yahoo.com/nfl/article/chiefs-wr-rashee-rice-reportedly-files-for-bankruptcy-citing-345-million-in-debts-following-fallout-from-2024-car-crash-221842676.html",
+        "event_key": "rashee-rice-chapter-seven-bankruptcy-filing-crash-debts-ring-collateral-20261104"
       },
       {
-        "title": "러시아 복귀 논란에 CAS 재설명…“IIHF가 배제 근거 충분히 못 냈다”",
-        "url": "https://www.tas-cas.org/generated/assets/lists/dceab111-07bc-435f-b5f9-de88eff9db72/CAS%20Media%20Release_RIHF%20v.%20IIHF%20Statement.pdf",
-        "event_key": "cas-rihf-iihf-nonparticipation-evidence-neutrality-clarification-20261105"
+        "title": "아이젠코트 67명·네타냐후 46명 추천…이스라엘 연정구성권 8일 결정",
+        "url": "https://www.timesofisrael.com/liveblog_entry/herzog-says-eisenkot-got-67-nods-as-pm-but-he-will-only-hand-over-mandate-on-sunday/",
+        "event_key": "israel-herzog-consultations-eisenkot67-netanyahu46-sunday-mandate-20261105"
       },
       {
-        "title": "트럼프, 집무실을 국가기념물로 지정…선언문은 재장식 허용",
-        "url": "https://www.whitehouse.gov/presidential-actions/2026/11/establishment-of-the-oval-office-national-monument/",
-        "event_key": "trump-oval-office-cabinet-room-national-monument-proclamation-20261105"
+        "title": "멜라니아 주선으로 러·우 인사 백악관 회동…장기 휴전 촉구",
+        "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-unites-russia-and-ukraine-at-the-white-house-following-historic-ceasefire/",
+        "event_key": "melania-white-house-russian-ukrainian-officials-meeting-after-oleshky-truce-20261105"
       },
       {
-        "title": "철도노조 쟁의투표 가결…23일 안전운행 투쟁·12월 총파업 예고",
-        "url": "https://www4.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=06815846645642768",
-        "event_key": "korean-railway-union-industrial-action-vote-passed-december-strike-plan-20261105"
+        "title": "“11월 추가 대출규제 문건 사실 아냐”…국토부, 추가 수사 의뢰 예고",
+        "url": "https://www.mt.co.kr/estate/2026/11/06/2026110611364873809",
+        "event_key": "molit-november-housing-loan-regulation-rumour-denial-investigation-plan-20261106"
       }
     ]
   }
