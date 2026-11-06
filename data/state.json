@@ -1,5 +1,5 @@
 {
-  "updated_at": 1793959871,
+  "updated_at": 1793963484,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026110610",
+    "hour_utc": "2026110611",
     "category_counts": {
-      "시사": 3,
-      "축구": 1,
+      "시사": 2,
+      "축구": 2,
       "메이저 스포츠": 1,
       "아이돌": 0
     },
-    "research_queries": 36,
+    "research_queries": 16,
     "opened_sources": 12,
     "picks": [
       {
-        "title": "AC밀란 추쿠에제, 고관절 힘줄 파열 수술…3개월 결장 전망",
-        "url": "https://www.acmilan.com/en/news/articles/media/2026-11-04/official-statement-samuel-chukwueze",
-        "event_key": "ac-milan-chukwueze-hip-tendon-rupture-surgery-20261104"
+        "title": "팔머·포든·마이누 없는 잉글랜드…벨링엄 형제 동반 발탁",
+        "url": "https://www.englandfootball.com/articles/2026/Nov/06/england-senior-mens-squad-announcement-for-croatia-spain-games-20261106",
+        "event_key": "england-november-squad-jobe-king-first-callups-palmer-foden-mainoo-omitted-20261106"
       },
       {
-        "title": "동료와 충돌한 콘웨이, 뇌진탕으로 인도전 잔여4경기 이탈",
-        "url": "https://www.nzc.nz/conway-ruled-out-kelly-called-in/",
-        "event_key": "devon-conway-concussion-india-odi-series-withdrawal-replacement-20261106"
+        "title": "올림픽 여자축구도 U23로? FIFA가 검토하는 연령 제한",
+        "url": "https://sports.yahoo.com/articles/fifa-interested-restricting-women-olympic-164607179.html",
+        "event_key": "fifa-womens-olympic-under23-discussions-reported-20261105"
       },
       {
-        "title": "튀르키예, 사우디·파키스탄 공동방위협정 비준…파병은 별도 승인",
-        "url": "https://apnews.com/article/b17c570820e88891b2d46dd3fbc3a1f6",
-        "event_key": "turkey-parliament-mecca-saudi-pakistan-defense-pact-ratified-20261105"
+        "title": "美 워싱턴·콜로라도, 학교 여자 스포츠 참가 제한안 가결 보도",
+        "url": "https://abcnews.com/Politics/wireStory/left-leaning-washington-colorado-join-conservative-states-banning-137898149",
+        "event_key": "washington-colorado-school-sports-transgender-ballot-measures-passage-called-20261105"
       },
       {
-        "title": "강호동 농협회장 구속영장, 공소청서 불청구…혐의 소명 부족 판단",
-        "url": "https://www.fnnews.com/news/202611061836251479",
-        "event_key": "nonghyup-chair-kang-ho-dong-arrest-warrant-request-rejected-prosecution-20261106"
+        "title": "이란 당국자 “카타르 통해 미국에 핵 제안”…협상엔 7개 조건",
+        "url": "https://www.timesofisrael.com/liveblog_entry/iran-sent-nuclear-proposal-to-the-us-via-qatar-says-senior-iranian-official/",
+        "event_key": "iran-nuclear-proposal-via-qatar-seven-preconditions-disclosed-20261105"
       },
       {
-        "title": "펀드 시세조종 수사, 튀르키예 전직 장관 구금…430여명 조사",
-        "url": "https://apnews.com/article/f8e9cbd71d20cce682ac2e3461b9e13a",
-        "event_key": "turkey-fatma-betul-sayan-kaya-pretrial-detention-fund-manipulation-probe-20261105"
+        "title": "‘테러단체’ 지정 발효에 CAIR 플로리다 운영 중단…법정 다툼 계속",
+        "url": "https://www.wusf.org/courts-law/2026-11-05/terrorist-designation-by-desantis-forces-cair-florida-to-indefinitely-cease-operations",
+        "event_key": "cair-florida-operations-suspended-designation-effective-20261105"
       }
     ]
   }

@@ -2,11 +2,11 @@
   "version": 1,
   "items": {
     "1ea648ac2a0c": {
-      "source": "Reuters·CNA",
-      "title": "인도–스리랑카 ODI, 델리 대신 비사카파트남서 개최 확정",
+      "source": "Reuters / CNA",
+      "title": "델리 국가대표 ODI, 비사카파트남으로 이동…기상·구장 공사 우려",
       "link": "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366",
       "first_seen_at": 1793945304,
-      "last_seen_at": 1793959870,
+      "last_seen_at": 1793963483,
       "samples": [
         {
           "at": 1793945304,
@@ -35,45 +35,52 @@
           "reactions": null,
           "rank": 6,
           "rank_kind": null
+        },
+        {
+          "at": 1793963483,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
         }
       ],
       "parser_revision": 7,
       "content_kind": "article",
       "story_id": "1ea648ac2a0c",
       "editorial": {
-        "title": "인도–스리랑카 ODI, 델리 대신 비사카파트남서 개최 확정",
+        "title": "델리 국가대표 ODI, 비사카파트남으로 이동…기상·구장 공사 우려",
         "category": "메이저 스포츠",
         "url": "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366",
-        "source": "Reuters·CNA",
+        "source": "Reuters / CNA",
         "kind": "article",
-        "event_key": "india-sri-lanka-odi-delhi-visakhapatnam-venue-change-20261105",
-        "why": "국제대회 개최지가 기상 위험·시설 보수로 바뀌었다. 환경과 스포츠 운영의 접점을 보여준다.",
-        "angle": "경기 취소가 아닌 개최지 변경 결정과 공식 사유를 제시한다.",
-        "why_now": "BCCI11월5일 발표(최초 시각 미확인). Reuters·CNA 송고6일00:47:24 KST.",
-        "verified_at": 1793959598,
+        "event_key": "india-srilanka-delhi-odi-venue-shift-visakhapatnam-20261105",
+        "why": "인도 수도의 국제 경기 개최가 실제 바뀌었다. 대기질 문제와 개최 여건을 공식 사유와 나눠 설명할 수 있는 검증 예비다.",
+        "angle": "경기장 변경을 먼저 제시하고 BCCI 공식 사유와 별도 대기질 보도를 분리한다.",
+        "why_now": "BCCI 발표는 11월5일(일 단위). Reuters/CNA 최초 송고는 6일00:47:24 KST이며 경기 자체는 12월13일 예정이다.",
+        "verified_at": 1793963277,
         "published_at": 1793893644,
         "evidence": [
           {
             "url": "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366",
-            "note": "12월13일 첫 ODI의 개최지 변경과 DDCA 요청을 확인했다. BCCI 사유는 기상 차질 가능성·구장 보수이며 대기질 우려는 별도 Cricbuzz 보도다."
+            "note": "Reuters 본문에서 BCCI 발표와 DDCA의 이전 요청, 새 구장 및 경기 예정일을 확인했다."
           }
         ],
         "materials": [
           {
             "url": "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366",
-            "label": "확인한 원문",
+            "label": "확인한 원문 본문",
             "kind": "source"
           }
         ],
-        "caution": "오염만으로 취소 확정이라고 쓰지 않는다. BCCI 원문 직접 요청은404,Reuters 기사 본문으로 확인. 영상 미시청.",
+        "caution": "경기 취소가 아니다. 대기오염만이 공식 이전 사유라고 단정하지 않는다. BCCI 원문 접근은 실패해 Reuters 본문으로 확인했다.",
         "readiness": {
           "mode": "major_news",
           "event_date": "2026-11-05",
-          "observation": "12월13일 첫 ODI의 개최지 변경과 DDCA 요청을 확인했다. BCCI 사유는 기상 차질 가능성·구장 보수이며 대기질 우려는 별도 Cricbuzz 보도다.",
+          "observation": "본문은 BCCI가 12월13일 인도·스리랑카 첫 ODI 개최지를 변경했다고 전한다. 기상 차질 가능성과 구장 보수 계획은 BCCI 설명, 대기질 연관은 Cricbuzz 보도다.",
           "checked_materials": [],
           "outline": [
-            "12월13일 경기 개최지 변경 제시",
-            "공식 기상·보수 사유와 대기질 별도 보도 구분"
+            "델리에서 비사카파트남으로 바뀐 개최지 표시",
+            "기상·보수 계획과 별도 대기질 보도의 출처 구분"
           ]
         }
       },
@@ -82,16 +89,395 @@
         "media": [],
         "source_links": [
           {
-            "label": "확인한 원문",
+            "label": "확인한 원문 본문",
             "url": "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366"
           }
         ],
         "excerpt": "",
-        "context": "BCCI11월5일 발표(최초 시각 미확인). Reuters·CNA 송고6일00:47:24 KST.",
-        "fetched_at": 1793959870,
+        "context": "BCCI 발표는 11월5일(일 단위). Reuters/CNA 최초 송고는 6일00:47:24 KST이며 경기 자체는 12월13일 예정이다.",
+        "fetched_at": 1793963483,
         "parser_revision": 7
       },
-      "curation_event_key": "india-sri-lanka-odi-delhi-visakhapatnam-venue-change-20261105"
+      "curation_event_key": "india-srilanka-delhi-odi-venue-shift-visakhapatnam-20261105"
+    },
+    "ddb6e9f0a34b": {
+      "source": "잉글랜드 축구협회",
+      "title": "팔머·포든·마이누 없는 잉글랜드…벨링엄 형제 동반 발탁",
+      "link": "https://www.englandfootball.com/articles/2026/Nov/06/england-senior-mens-squad-announcement-for-croatia-spain-games-20261106",
+      "first_seen_at": 1793963483,
+      "last_seen_at": 1793963483,
+      "samples": [
+        {
+          "at": 1793963483,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "official",
+      "story_id": "ddb6e9f0a34b",
+      "editorial": {
+        "title": "팔머·포든·마이누 없는 잉글랜드…벨링엄 형제 동반 발탁",
+        "category": "축구",
+        "url": "https://www.englandfootball.com/articles/2026/Nov/06/england-senior-mens-squad-announcement-for-croatia-spain-games-20261106",
+        "source": "잉글랜드 축구협회",
+        "kind": "official",
+        "event_key": "england-november-squad-jobe-king-first-callups-palmer-foden-mainoo-omitted-20261106",
+        "why": "네이션스리그 8강 진출을 가를 명단에서 주력 공격 자원이 빠지고 U21 두 선수가 처음 올라왔다.",
+        "angle": "빠진 세 선수와 새로 합류한 두 선수를 대비하고, 크로아티아전 무패면 8강이라는 의미를 붙인다.",
+        "why_now": "공식 명단 11월6일 공개(일 단위). Sky 최초 송고는 6일19:00 KST; 이번에 실제 발표된 25인 명단을 확인했다.",
+        "verified_at": 1793963237,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.englandfootball.com/articles/2026/Nov/06/england-senior-mens-squad-announcement-for-croatia-spain-games-20261106",
+            "note": "공식 본문과 전체 명단: 조브 벨링엄·조시 킹 첫 발탁, 주드 포함, 25인 명단에 팔머·포든·마이누 없음."
+          },
+          {
+            "url": "https://www.skysports.com/football/news/13608698/england-squad-cole-palmer-phil-foden-and-kobbie-mainoo-left-out-as-jobe-bellingham-and-josh-king-called-up",
+            "note": "Sky 본문도 세 선수 미발탁과 두 선수 첫 발탁을 확인. 최초 datePublished 11월6일10:00 UTC."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.englandfootball.com/articles/2026/Nov/06/england-senior-mens-squad-announcement-for-croatia-spain-games-20261106",
+            "label": "확인한 원문 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "형제의 동반 선발 출전은 아님. 제외를 징계로 단정하지 말 것. 공식 본문 경기 날짜 오기가 있어 세부 일정 인용 제외.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-06",
+          "observation": "공식 25인 명단에서 조브·주드 동반 포함, 조브와 조시 킹 첫 발탁, 팔머·포든·마이누 미포함을 확인했다. 선발 출전이나 제외 사유는 확정하지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "공식 25인 명단에서 신규 발탁·미포함 선수 표시",
+            "크로아티아전 무패 시 8강 진출 조건 설명"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 본문",
+            "url": "https://www.englandfootball.com/articles/2026/Nov/06/england-senior-mens-squad-announcement-for-croatia-spain-games-20261106"
+          }
+        ],
+        "excerpt": "",
+        "context": "공식 명단 11월6일 공개(일 단위). Sky 최초 송고는 6일19:00 KST; 이번에 실제 발표된 25인 명단을 확인했다.",
+        "fetched_at": 1793963483,
+        "parser_revision": 7
+      },
+      "curation_event_key": "england-november-squad-jobe-king-first-callups-palmer-foden-mainoo-omitted-20261106"
+    },
+    "8d5fa4d627f3": {
+      "source": "The Athletic / Yahoo Sports",
+      "title": "올림픽 여자축구도 U23로? FIFA가 검토하는 연령 제한",
+      "link": "https://sports.yahoo.com/articles/fifa-interested-restricting-women-olympic-164607179.html",
+      "first_seen_at": 1793963483,
+      "last_seen_at": 1793963483,
+      "samples": [
+        {
+          "at": 1793963483,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "8d5fa4d627f3",
+      "editorial": {
+        "title": "올림픽 여자축구도 U23로? FIFA가 검토하는 연령 제한",
+        "category": "축구",
+        "url": "https://sports.yahoo.com/articles/fifa-interested-restricting-women-olympic-164607179.html",
+        "source": "The Athletic / Yahoo Sports",
+        "kind": "article",
+        "event_key": "fifa-womens-olympic-under23-discussions-reported-20261105",
+        "why": "연령 제한이 없던 여자 올림픽 축구의 출전 자격과 대회 위상을 바꿀 수 있는 제도 논의다.",
+        "angle": "현재 무제한 규정과 검토 중인 U23 구상을 비교하고 LA28에는 적용되지 않는다는 선을 먼저 긋는다.",
+        "why_now": "논의가 11월5일 새로 보도됐다. 확인한 Athletic 원문 최초 송고 6일01:46:07 KST; 6일 갱신을 새 발표로 잡지 않았다.",
+        "verified_at": 1793963092,
+        "published_at": 1793897167,
+        "evidence": [
+          {
+            "url": "https://sports.yahoo.com/articles/fifa-interested-restricting-women-olympic-164607179.html",
+            "note": "관계자 취재: 향후 IOC 대화에서 U23 구상 검토 가능. 정식 제안과 일정 없음, LA28 이후를 대상으로 검토."
+          },
+          {
+            "url": "https://www.skysportaustria.at/fifa-plan-olympia-bald-nur-noch-fuer-u23-spielerinnen/",
+            "note": "dpa 취재도 연령 제한 검토와 LA28 미적용을 확인. 11월5일15:22:53 UTC 송고."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://sports.yahoo.com/articles/fifa-interested-restricting-women-olympic-164607179.html",
+            "label": "확인한 원문 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "확정 규정이나 IOC 승인으로 쓰지 않는다. 공식 발표문·실제 영상은 확인하지 않았으며 기사 본문 취재 보도다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "Athletic 본문은 FIFA가 U23 틀에 관심을 보인다고 관계자를 인용했다. 공식 제안·시행 일정은 없고 LA28 규정은 이미 정해졌다고 명시한다.",
+          "checked_materials": [],
+          "outline": [
+            "여자 무제한·남자 U23 기본 구조 비교",
+            "FIFA 검토 보도와 미제출 상태, LA28 불변을 분리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 본문",
+            "url": "https://sports.yahoo.com/articles/fifa-interested-restricting-women-olympic-164607179.html"
+          }
+        ],
+        "excerpt": "",
+        "context": "논의가 11월5일 새로 보도됐다. 확인한 Athletic 원문 최초 송고 6일01:46:07 KST; 6일 갱신을 새 발표로 잡지 않았다.",
+        "fetched_at": 1793963483,
+        "parser_revision": 7
+      },
+      "curation_event_key": "fifa-womens-olympic-under23-discussions-reported-20261105"
+    },
+    "3ab1b0843309": {
+      "source": "AP / ABC News",
+      "title": "美 워싱턴·콜로라도, 학교 여자 스포츠 참가 제한안 가결 보도",
+      "link": "https://abcnews.com/Politics/wireStory/left-leaning-washington-colorado-join-conservative-states-banning-137898149",
+      "first_seen_at": 1793963483,
+      "last_seen_at": 1793963483,
+      "samples": [
+        {
+          "at": 1793963483,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "3ab1b0843309",
+      "editorial": {
+        "title": "美 워싱턴·콜로라도, 학교 여자 스포츠 참가 제한안 가결 보도",
+        "category": "메이저 스포츠",
+        "url": "https://abcnews.com/Politics/wireStory/left-leaning-washington-colorado-join-conservative-states-banning-137898149",
+        "source": "AP / ABC News",
+        "kind": "article",
+        "event_key": "washington-colorado-school-sports-transgender-ballot-measures-passage-called-20261105",
+        "why": "민주당 우세 두 주에서도 투표로 학교 스포츠 출전 자격을 바꾸는 결과가 나왔다. 선수의 참가권과 규정에 직접 영향을 준다.",
+        "angle": "두 주의 통과 보도와 참가 기준 변화를 설명하고 최종 인증·시행 상태는 별도로 표시한다.",
+        "why_now": "투표는 11월3일. AP가 5일21:04:22 EST(6일11:04:22 KST) 가결 결과를 최초 송고했다. 투표일을 새 사건일로 바꾸지 않는다.",
+        "verified_at": 1793963296,
+        "published_at": 1793930662,
+        "evidence": [
+          {
+            "url": "https://abcnews.com/Politics/wireStory/left-leaning-washington-colorado-join-conservative-states-banning-137898149",
+            "note": "AP 본문에서 두 주의 가결 보도, 워싱턴 의료인 확인서 요구와 콜로라도 남·여·혼성 분류 및 출생 시 성별 기준 확인."
+          },
+          {
+            "url": "https://www.sos.wa.gov/elections/voters/proposed-ballot-measure-information",
+            "note": "워싱턴 선거당국 공개 페이지에서 IL26-638 관련 원문·설명 자료 목록 확인. 이 페이지는 투표 결과 인증 자료가 아니다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://abcnews.com/Politics/wireStory/left-leaning-washington-colorado-join-conservative-states-banning-137898149",
+            "label": "확인한 원문 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "최종 개표 인증·시행일은 미확인. 이미 모든 경기에서 즉시 배제됐다고 쓰지 않으며 당사자 혐오 표현을 피한다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "AP 본문은 워싱턴 638호와 콜로라도 134호 가결을 보도했다. 각각 56% 초과·52% 지지는 보도 시점 수치이며 최종 인증 수치로 확인하지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "학교 여자 종목 참가 기준을 바꾸는 두 안건 비교",
+            "투표 3일·가결 보도 5일·최종 인증 미확인을 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 본문",
+            "url": "https://abcnews.com/Politics/wireStory/left-leaning-washington-colorado-join-conservative-states-banning-137898149"
+          }
+        ],
+        "excerpt": "",
+        "context": "투표는 11월3일. AP가 5일21:04:22 EST(6일11:04:22 KST) 가결 결과를 최초 송고했다. 투표일을 새 사건일로 바꾸지 않는다.",
+        "fetched_at": 1793963483,
+        "parser_revision": 7
+      },
+      "curation_event_key": "washington-colorado-school-sports-transgender-ballot-measures-passage-called-20261105"
+    },
+    "88842cc94fc4": {
+      "source": "Reuters / Times of Israel",
+      "title": "이란 당국자 “카타르 통해 미국에 핵 제안”…협상엔 7개 조건",
+      "link": "https://www.timesofisrael.com/liveblog_entry/iran-sent-nuclear-proposal-to-the-us-via-qatar-says-senior-iranian-official/",
+      "first_seen_at": 1793963483,
+      "last_seen_at": 1793963483,
+      "samples": [
+        {
+          "at": 1793963483,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "88842cc94fc4",
+      "editorial": {
+        "title": "이란 당국자 “카타르 통해 미국에 핵 제안”…협상엔 7개 조건",
+        "category": "시사",
+        "url": "https://www.timesofisrael.com/liveblog_entry/iran-sent-nuclear-proposal-to-the-us-via-qatar-says-senior-iranian-official/",
+        "source": "Reuters / Times of Israel",
+        "kind": "article",
+        "event_key": "iran-nuclear-proposal-via-qatar-seven-preconditions-disclosed-20261105",
+        "why": "전쟁·호르무즈 해협과 맞물린 핵 협상 통로가 새로 보도됐다. 제안 전달과 협상 타결을 구분해야 하는 대형 외교 뉴스다.",
+        "angle": "카타르 중재 경로→이란의 선결 조건→미국의 수신 확인 여부 순으로 설명한다.",
+        "why_now": "익명 이란 고위 당국자 발언이 5일 공개됐다. 확인 가능한 이 속보 최초 시각은 6일05:32:55 KST, 실제 전달 시각은 공개되지 않았다.",
+        "verified_at": 1793963296,
+        "published_at": 1793910775,
+        "evidence": [
+          {
+            "url": "https://www.timesofisrael.com/liveblog_entry/iran-sent-nuclear-proposal-to-the-us-via-qatar-says-senior-iranian-official/",
+            "note": "11월5일20:32:55 UTC 속보. 전달·미국 검토 모두 익명 이란 당국자의 Reuters 발언에 근거."
+          },
+          {
+            "url": "https://www.jpost.com/middle-east/article-914025",
+            "note": "Reuters 전재 본문: 협상은 7개 조건 이행 뒤라는 당국자 발언. 트럼프 답변은 수신 여부를 명확히 확인하지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.timesofisrael.com/liveblog_entry/iran-sent-nuclear-proposal-to-the-us-via-qatar-says-senior-iranian-official/",
+            "label": "확인한 원문 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "제안문 원본·전달 시점·미국의 공식 수신 확인은 미확인. 익명 당국자 보도이며 합의·전쟁 종료로 확대하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "Reuters를 인용한 속보 본문은 핵 제안 전달 및 미국 검토를 익명 이란 당국자의 주장으로 전했다. 다른 전재 본문에서 7개 조건과 트럼프 발언을 대조했다.",
+          "checked_materials": [],
+          "outline": [
+            "카타르 경유 제안 전달이라는 새 보도 제시",
+            "7개 조건 선이행 요구와 미국의 공식 수신 확인 부재 표시"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 본문",
+            "url": "https://www.timesofisrael.com/liveblog_entry/iran-sent-nuclear-proposal-to-the-us-via-qatar-says-senior-iranian-official/"
+          }
+        ],
+        "excerpt": "",
+        "context": "익명 이란 고위 당국자 발언이 5일 공개됐다. 확인 가능한 이 속보 최초 시각은 6일05:32:55 KST, 실제 전달 시각은 공개되지 않았다.",
+        "fetched_at": 1793963483,
+        "parser_revision": 7
+      },
+      "curation_event_key": "iran-nuclear-proposal-via-qatar-seven-preconditions-disclosed-20261105"
+    },
+    "1e6495ae042e": {
+      "source": "WUSF / News Service of Florida",
+      "title": "‘테러단체’ 지정 발효에 CAIR 플로리다 운영 중단…법정 다툼 계속",
+      "link": "https://www.wusf.org/courts-law/2026-11-05/terrorist-designation-by-desantis-forces-cair-florida-to-indefinitely-cease-operations",
+      "first_seen_at": 1793963483,
+      "last_seen_at": 1793963483,
+      "samples": [
+        {
+          "at": 1793963483,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "1e6495ae042e",
+      "editorial": {
+        "title": "‘테러단체’ 지정 발효에 CAIR 플로리다 운영 중단…법정 다툼 계속",
+        "category": "시사",
+        "url": "https://www.wusf.org/courts-law/2026-11-05/terrorist-designation-by-desantis-forces-cair-florida-to-indefinitely-cease-operations",
+        "source": "WUSF / News Service of Florida",
+        "kind": "article",
+        "event_key": "cair-florida-operations-suspended-designation-effective-20261105",
+        "why": "미국 최대 무슬림 시민권 단체의 주 단위 활동 중단으로 이어진 지정 제도와 표현·결사의 자유 쟁점이다.",
+        "angle": "실제 운영 중단→주정부 지정→일부 가처분과 항소 계획을 분리해 보여준다.",
+        "why_now": "지정·운영 중단은 현지 11월5일. WUSF 화면은 5일17:49 EST(6일07:49 KST); 메타데이터는 Z로 달라 published_at은 확정하지 않는다.",
+        "verified_at": 1793963238,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.wusf.org/courts-law/2026-11-05/terrorist-designation-by-desantis-forces-cair-florida-to-indefinitely-cease-operations",
+            "note": "기자가 확인한 탬파 사무실 공지와 단체 답변: 플로리다 활동 중단. 법률 위헌 주장은 단체의 입장이다."
+          },
+          {
+            "url": "https://www.fox13news.com/news/cair-ends-florida-operations-under-domestic-terrorist-label",
+            "note": "News Service 본문: 지정 저지 요청 기각과 별개로 주정부의 단체·직원·법률 지원자 대상 징벌 조치 금지."
+          },
+          {
+            "url": "https://docs.justia.com/cases/federal/district-courts/florida/flndce/4%3A2026cv00521/546360/65",
+            "note": "공개 사건 기록은 11월4일 가처분 일부 인용·일부 기각 명령임을 확인. 판결문 PDF 전체는 미확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.wusf.org/courts-law/2026-11-05/terrorist-designation-by-desantis-forces-cair-florida-to-indefinitely-cease-operations",
+            "label": "확인한 원문 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "형사 유죄나 법원 명령에 의한 폐쇄가 아니다. 플로리다 운영 중단이며 전국 해산 아님. WUSF 표시·메타 시각 충돌을 유지한다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "WUSF 본문은 5일 탬파 사무실 중단 공지와 단체 입장을 취재했다. News Service 본문은 판사가 지정 저지는 거절하면서도 주정부의 징벌 조치는 제한했다고 전한다.",
+          "checked_materials": [],
+          "outline": [
+            "사무실 운영 중단 공지에 담긴 단체 입장 설명",
+            "주정부 지정과 법원의 부분 인용·기각, 항소 계획을 구별"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 본문",
+            "url": "https://www.wusf.org/courts-law/2026-11-05/terrorist-designation-by-desantis-forces-cair-florida-to-indefinitely-cease-operations"
+          }
+        ],
+        "excerpt": "",
+        "context": "지정·운영 중단은 현지 11월5일. WUSF 화면은 5일17:49 EST(6일07:49 KST); 메타데이터는 Z로 달라 published_at은 확정하지 않는다.",
+        "fetched_at": 1793963483,
+        "parser_revision": 7
+      },
+      "curation_event_key": "cair-florida-operations-suspended-designation-effective-20261105"
     },
     "07427709a874": {
       "source": "AC밀란·Sky Sport",
@@ -31520,735 +31906,7 @@
         "parser_revision": 7
       },
       "curation_event_key": "pyeongtaek-infant-neglect-father-arrest-preliminary-autopsy-20261030"
-    },
-    "84f4fcaa69d2": {
-      "source": "아이뉴스24",
-      "title": "“울릉도서30명 감금,경찰에 구조” 영상…군이 확인하니 그런 신고가 없었다",
-      "link": "https://www.inews24.com/view/2020510",
-      "first_seen_at": 1793358398,
-      "last_seen_at": 1793358398,
-      "samples": [
-        {
-          "at": 1793358398,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "84f4fcaa69d2",
-      "editorial": {
-        "title": "“울릉도서30명 감금,경찰에 구조” 영상…군이 확인하니 그런 신고가 없었다",
-        "category": "시사",
-        "url": "https://www.inews24.com/view/2020510",
-        "source": "아이뉴스24",
-        "kind": "article",
-        "event_key": "ulleung-tour-confinement-video-denial-response-20261029",
-        "why": "강매·감금·위자료까지 완결된 체험담을 내세웠지만 신고 기록부터 맞지 않아 지자체가 대응한 반전이다.",
-        "angle": "경찰이 구해줬다는 여행 후기,경찰 신고는 없었다",
-        "why_now": "새 대응은10/29 울릉군 입장문,16:04 원취재 확인.문제 영상10/23 게시와 구분하며 원래 감금 사건이 실제 발생했다고 쓰지 않음.",
-        "verified_at": 1793358162,
-        "published_at": 1793257440,
-        "evidence": [
-          {
-            "url": "https://www.inews24.com/view/2020510",
-            "note": "아이뉴스24 본문에서군의 경찰·해경 신고 부존재 확인과 수사의뢰 검토·영상에 직접 입증 자료가 없다는 취재를 확인했다.원영상은 직접 시청하지 않았고 허위 여부는 군의 판단에 귀속한다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.inews24.com/view/2020510",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "군의 확인·입장문 취재 기반.유튜버 처벌 확정·실제 감금 발생으로 쓰지 않음.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-29",
-          "observation": "아이뉴스24 본문에서군의 경찰·해경 신고 부존재 확인과 수사의뢰 검토·영상에 직접 입증 자료가 없다는 취재를 확인했다.원영상은 직접 시청하지 않았고 허위 여부는 군의 판단에 귀속한다.",
-          "checked_materials": [],
-          "outline": [
-            "30명 감금·배표·위자료라는 영상 주장을 귀속",
-            "군이 경찰과 해경에 확인한 신고 부존재",
-            "지역 피해 우려·법적 대응 검토로 회수"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.inews24.com/view/2020510"
-          }
-        ],
-        "excerpt": "",
-        "context": "새 대응은10/29 울릉군 입장문,16:04 원취재 확인.문제 영상10/23 게시와 구분하며 원래 감금 사건이 실제 발생했다고 쓰지 않음.",
-        "fetched_at": 1793358398,
-        "parser_revision": 7
-      },
-      "curation_event_key": "ulleung-tour-confinement-video-denial-response-20261029"
-    },
-    "2144039614f2": {
-      "source": "SBS",
-      "title": "아파트 시설 예약했는데 개인정보가…자이 예약시스템 뚫려 입주민에 안내",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823648",
-      "first_seen_at": 1793358398,
-      "last_seen_at": 1793358398,
-      "samples": [
-        {
-          "at": 1793358398,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "2144039614f2",
-      "editorial": {
-        "title": "아파트 시설 예약했는데 개인정보가…자이 예약시스템 뚫려 입주민에 안내",
-        "category": "시사",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823648",
-        "source": "SBS",
-        "kind": "article",
-        "event_key": "gs-xi-community-reservation-personal-data-breach-20261030",
-        "why": "헬스장 등 생활시설 예약에 맡긴 정보가 유출 대상이 된 구체적인 생활 보안 사건이다.",
-        "angle": "공동시설 예약 한 번에 맡긴 정보는 어디까지였나",
-        "why_now": "비인가 접근10/28 22:15,이용자 안내·새 공개10/30.첫 확인 SBS16:56,한경17:20 대조.발생일과 오늘 안내를 구분.",
-        "verified_at": 1793358173,
-        "published_at": 1793346960,
-        "evidence": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823648",
-            "note": "SBS·한경 본문에서GS건설 고객 안내의 유출 가능 항목·고객별 차이·조사 중인 규모·고유식별·금융정보 미수집을 확인했다.비밀번호는 일방향 암호화 저장이라는 회사 설명도 대조했다."
-          },
-          {
-            "url": "https://www.hankyung.com/article/2026103067646",
-            "note": "고객 안내문 취재의 비밀번호 일방향 암호화·개인별 유출범위 차이 대조."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823648",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "전체 자이 단지·모든 항목 유출로 확대 금지.피해 단지·정확한 규모 조사 중.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-30",
-          "observation": "SBS·한경 본문에서GS건설 고객 안내의 유출 가능 항목·고객별 차이·조사 중인 규모·고유식별·금융정보 미수집을 확인했다.비밀번호는 일방향 암호화 저장이라는 회사 설명도 대조했다.",
-          "checked_materials": [],
-          "outline": [
-            "생활시설 예약 관리시스템의 비인가 접근",
-            "거주정보 등 유출 가능 목록과 개인별 차이",
-            "외부접근 차단·신고·추가안내·비밀번호 변경 권고"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823648"
-          }
-        ],
-        "excerpt": "",
-        "context": "비인가 접근10/28 22:15,이용자 안내·새 공개10/30.첫 확인 SBS16:56,한경17:20 대조.발생일과 오늘 안내를 구분.",
-        "fetched_at": 1793358398,
-        "parser_revision": 7
-      },
-      "curation_event_key": "gs-xi-community-reservation-personal-data-breach-20261030"
-    },
-    "107195a7f0ca": {
-      "source": "엑스포츠뉴스",
-      "title": "“사타구니 잡혔다” 항의한 럭비 선수…징계는 기각,신고자도 거짓말로 몰지 않았다",
-      "link": "https://www.xportsnews.com/article/2213426",
-      "first_seen_at": 1793358398,
-      "last_seen_at": 1793358398,
-      "samples": [
-        {
-          "at": 1793358398,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "107195a7f0ca",
-      "editorial": {
-        "title": "“사타구니 잡혔다” 항의한 럭비 선수…징계는 기각,신고자도 거짓말로 몰지 않았다",
-        "category": "메이저 스포츠",
-        "url": "https://www.xportsnews.com/article/2213426",
-        "source": "엑스포츠뉴스",
-        "kind": "article",
-        "event_key": "tadhg-furlong-disciplinary-complaint-dismissed-20261029",
-        "why": "결정적 영상이 없어 징계는 기각하면서도 신고자가 기억을 솔직히 진술했다고 보호한 양쪽 판단의 구체성이 있다.",
-        "angle": "무혐의가 나왔다고 신고까지 거짓은 아니었다",
-        "why_now": "10/25 경기와 새 독립징계위 결정을 구분.영국10/29 22:19 보도·한국30일15:52 후속을 확인.새 기각 결정이지 새 경기 장면 아님.",
-        "verified_at": 1793358140,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.xportsnews.com/article/2213426",
-            "note": "엑스포츠의 BBC 인용 본문에서9.27조 징계 요청 만장일치 기각·TMO 결정적 증거 미확보·쿰브스의 솔직한 진술이라는 위원회 설명을 확인했다.영상은 미시청,위원회 원문은 미열람."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.xportsnews.com/article/2213426",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "스포츠 징계 결정이며 형사 무죄 판결 아님.고의 허위신고로 단정 금지.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-29",
-          "observation": "엑스포츠의 BBC 인용 본문에서9.27조 징계 요청 만장일치 기각·TMO 결정적 증거 미확보·쿰브스의 솔직한 진술이라는 위원회 설명을 확인했다.영상은 미시청,위원회 원문은 미열람.",
-          "checked_materials": [],
-          "outline": [
-            "경기 중 항의와 징계위 회부 경위",
-            "영상 증거와 규정 위반 판단에 따른 기각",
-            "신고자 기억의 성실성도 인정한 결론 구분"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.xportsnews.com/article/2213426"
-          }
-        ],
-        "excerpt": "",
-        "context": "10/25 경기와 새 독립징계위 결정을 구분.영국10/29 22:19 보도·한국30일15:52 후속을 확인.새 기각 결정이지 새 경기 장면 아님.",
-        "fetched_at": 1793358398,
-        "parser_revision": 7
-      },
-      "curation_event_key": "tadhg-furlong-disciplinary-complaint-dismissed-20261029"
-    },
-    "274ff01d58f0": {
-      "source": "아시아경제",
-      "title": "4명137만원 내고 갔는데 중장비가 코스 옆에…골프장 “할인 적용,응대 개선”",
-      "link": "https://www.asiae.co.kr/article/2026102722444112450",
-      "first_seen_at": 1793358398,
-      "last_seen_at": 1793358398,
-      "samples": [
-        {
-          "at": 1793358398,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "274ff01d58f0",
-      "editorial": {
-        "title": "4명137만원 내고 갔는데 중장비가 코스 옆에…골프장 “할인 적용,응대 개선”",
-        "category": "메이저 스포츠",
-        "url": "https://www.asiae.co.kr/article/2026102722444112450",
-        "source": "아시아경제",
-        "kind": "article",
-        "event_key": "greenhill-golf-course-construction-customer-response-investigation-20261030",
-        "why": "고가 라운드와 공사 현장의 충돌에 이용자의 항의·골프장 설명이 맞붙는 구체적 소비자 손익 문제다.",
-        "angle": "예약할 때 본 공사 안내와 실제 라운드는 달랐다는 주장",
-        "why_now": "10/30 08:00 새 기획취재 공개,08:22 수정과 구분.제보자의 라운드는9월이며 정확한 일자 미기재.오늘 발생 사고가 아닌 새 취재 공개다.",
-        "verified_at": 1793358141,
-        "published_at": 1793314800,
-        "evidence": [
-          {
-            "url": "https://www.asiae.co.kr/article/2026102722444112450",
-            "note": "아시아경제 본문에서그린힐CC 증설·주말4명137만원 사례·예약 전 공사 안내 확인·동선 겹침 주장·골프장 할인 적용 및 응대 개선 답변을 확인했다.현장 사진·영상 직접 확인은 하지 않았다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.asiae.co.kr/article/2026102722444112450",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "고객 제보와 골프장 반론 병기.오늘 사고·미고지·137만원 전액 피해로 단정 금지.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-30",
-          "observation": "아시아경제 본문에서그린힐CC 증설·주말4명137만원 사례·예약 전 공사 안내 확인·동선 겹침 주장·골프장 할인 적용 및 응대 개선 답변을 확인했다.현장 사진·영상 직접 확인은 하지 않았다.",
-          "checked_materials": [],
-          "outline": [
-            "고객이 낸 비용과 공사 안내를 알고 예약한 경위",
-            "실제 중장비·동선 불편에 대한 이용자 주장",
-            "할인 적용·소음 저감·응대 개선이라는 골프장 답변"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.asiae.co.kr/article/2026102722444112450"
-          }
-        ],
-        "excerpt": "",
-        "context": "10/30 08:00 새 기획취재 공개,08:22 수정과 구분.제보자의 라운드는9월이며 정확한 일자 미기재.오늘 발생 사고가 아닌 새 취재 공개다.",
-        "fetched_at": 1793358398,
-        "parser_revision": 7
-      },
-      "curation_event_key": "greenhill-golf-course-construction-customer-response-investigation-20261030"
-    },
-    "7f03704c2997": {
-      "source": "뉴시스",
-      "title": "조카며느리 허위 취업시키고 급여통장은 직접 관리…전 원장2심도 실형",
-      "link": "https://www.newsis.com/view/NISX20261030_0003848757",
-      "first_seen_at": 1793358398,
-      "last_seen_at": 1793358398,
-      "samples": [
-        {
-          "at": 1793358398,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "7f03704c2997",
-      "editorial": {
-        "title": "조카며느리 허위 취업시키고 급여통장은 직접 관리…전 원장2심도 실형",
-        "category": "시사",
-        "url": "https://www.newsis.com/view/NISX20261030_0003848757",
-        "source": "뉴시스",
-        "kind": "article",
-        "event_key": "choi-heung-jin-ghost-relative-payroll-bribery-appeal-20261030",
-        "why": "가족의 월급으로 꾸민 돈을 본인이 관리해 대출·투자에 썼다는 구체적인 뇌물 경로가 드러났다.",
-        "angle": "출근하지 않은 가족의 월급,통장은 원장 손에 있었다",
-        "why_now": "새2심 선고·보석 취소10/30 16:28:58 공개,16:50:24 수정과 구분.범행2022/11~2023/11,오늘 뇌물 수수 아님.",
-        "verified_at": 1793358160,
-        "published_at": 1793345338,
-        "evidence": [
-          {
-            "url": "https://www.newsis.com/view/NISX20261030_0003848757",
-            "note": "뉴시스 법정 취재에서허위 직원 등록·13회4500만원 상당·직접 통장 관리·징역2년6개월 유지·보석 취소 법정구속을 확인했다.벌금5000만원과4504만1570원 추징도 구분했다.판결문 전체 미열람."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.newsis.com/view/NISX20261030_0003848757",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "항소심 결과이며 확정 여부 미확인.급여·벌금·추징금을 합쳐 피해액으로 쓰지 않음.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-30",
-          "observation": "뉴시스 법정 취재에서허위 직원 등록·13회4500만원 상당·직접 통장 관리·징역2년6개월 유지·보석 취소 법정구속을 확인했다.벌금5000만원과4504만1570원 추징도 구분했다.판결문 전체 미열람.",
-          "checked_materials": [],
-          "outline": [
-            "조카며느리 이름으로 업체 급여를 받은 구조",
-            "본인 대출 상환·주식 투자에 썼다는 재판부 판단",
-            "2심 실형 유지와 보석 취소 법정구속"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.newsis.com/view/NISX20261030_0003848757"
-          }
-        ],
-        "excerpt": "",
-        "context": "새2심 선고·보석 취소10/30 16:28:58 공개,16:50:24 수정과 구분.범행2022/11~2023/11,오늘 뇌물 수수 아님.",
-        "fetched_at": 1793358398,
-        "parser_revision": 7
-      },
-      "curation_event_key": "choi-heung-jin-ghost-relative-payroll-bribery-appeal-20261030"
-    },
-    "1472b040fdf0": {
-      "source": "아이뉴스24",
-      "title": "비행기 타려다 손으로 발권…인천공항1200명 대기,복구돼도 여행 일정은 꼬였다",
-      "link": "https://www.inews24.com/view/2021081",
-      "first_seen_at": 1793358398,
-      "last_seen_at": 1793358398,
-      "samples": [
-        {
-          "at": 1793358398,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "1472b040fdf0",
-      "editorial": {
-        "title": "비행기 타려다 손으로 발권…인천공항1200명 대기,복구돼도 여행 일정은 꼬였다",
-        "category": "시사",
-        "url": "https://www.inews24.com/view/2021081",
-        "source": "아이뉴스24",
-        "kind": "article",
-        "event_key": "incheon-airport-arinc-travelsky-outage-restoration-20261030",
-        "why": "표 발권 시스템이 멈춰 환승과 여행 일정이 틀어지고 일부 수기 발권까지 나온 생활형 돌발 사건이다.",
-        "angle": "네트워크가 복구됐는데 발권은 계속 안 됐던 이유",
-        "why_now": "10/30 04:30 장애·정오부터3개 항공사 발권 중단·17시께 완전 복구.18:13 아이뉴스24 취재와 앞선 연합뉴스14:43 보도 구분.",
-        "verified_at": 1793358203,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.inews24.com/view/2021081",
-            "note": "아이뉴스24·연합뉴스 본문에서공용망과항공사 TravelSky 장애의 단계 차이·중국3사 일반 발권 중단·제한 수기 발권·17시38편 지연/1200여명 대기·복구를 확인했다.현장 영상 미시청."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.inews24.com/view/2021081",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "모든 항공사·공항 전체 마비 아님.발권은 복구됐고 지연·대기 수치는17시 기준.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-30",
-          "observation": "아이뉴스24·연합뉴스 본문에서공용망과항공사 TravelSky 장애의 단계 차이·중국3사 일반 발권 중단·제한 수기 발권·17시38편 지연/1200여명 대기·복구를 확인했다.현장 영상 미시청.",
-          "checked_materials": [],
-          "outline": [
-            "새벽 간헐 장애에서 정오 항공사3곳 중단으로 확대",
-            "환승 일정 차질과 제한 수기 발권",
-            "17시께 복구와 대기 해소는 별개임을 정리"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.inews24.com/view/2021081"
-          }
-        ],
-        "excerpt": "",
-        "context": "10/30 04:30 장애·정오부터3개 항공사 발권 중단·17시께 완전 복구.18:13 아이뉴스24 취재와 앞선 연합뉴스14:43 보도 구분.",
-        "fetched_at": 1793358398,
-        "parser_revision": 7
-      },
-      "curation_event_key": "incheon-airport-arinc-travelsky-outage-restoration-20261030"
-    },
-    "e33a5f6851fa": {
-      "source": "SBS",
-      "title": "공사장33m 천공기가 옆 아파트로…주민 보행로·펜스 덮쳤다",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823043",
-      "first_seen_at": 1793358398,
-      "last_seen_at": 1793358398,
-      "samples": [
-        {
-          "at": 1793358398,
-          "views": null,
-          "reactions": null,
-          "rank": 7,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "e33a5f6851fa",
-      "editorial": {
-        "title": "공사장33m 천공기가 옆 아파트로…주민 보행로·펜스 덮쳤다",
-        "category": "시사",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823043",
-        "source": "SBS",
-        "kind": "article",
-        "event_key": "gimhae-drilling-rig-collapse-adjacent-apartment-20261030",
-        "why": "내 아파트 밖 공사장의 긴 장비가 주민 보행로까지 넘어온 경계 밖 안전 문제로 장면이 명확하다.",
-        "angle": "집 앞 보행로를 덮은 건 옆 공사장 장비였다",
-        "why_now": "실제 사고10/30 09:20쯤 김해 신문동.12:06 SBS 취재 공개와13:30 수정 구분.사고 시각은분 단위 근사.",
-        "verified_at": 1793358181,
-        "published_at": 1793329560,
-        "evidence": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823043",
-            "note": "SBS 원취재 본문에서33m 천공기 전도·조종기사 경상·주민 인명피해 없음·보행로와 펜스·조경수 파손·경위 조사 중임을 확인했다.사진·영상 자체는 직접 확인하지 않았다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823043",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "크레인으로 바꿔 쓰지 않음.원인·안전수칙 위반은 조사 중,주민 부상 확인 없음.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-30",
-          "observation": "SBS 원취재 본문에서33m 천공기 전도·조종기사 경상·주민 인명피해 없음·보행로와 펜스·조경수 파손·경위 조사 중임을 확인했다.사진·영상 자체는 직접 확인하지 않았다.",
-          "checked_materials": [],
-          "outline": [
-            "아파트 신축 현장 천공기가 인접 단지로 전도",
-            "운전자 경상과 주민 피해 없음 구분",
-            "보행로·펜스 파손과 원인 조사 중 결과"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823043"
-          }
-        ],
-        "excerpt": "",
-        "context": "실제 사고10/30 09:20쯤 김해 신문동.12:06 SBS 취재 공개와13:30 수정 구분.사고 시각은분 단위 근사.",
-        "fetched_at": 1793358398,
-        "parser_revision": 7
-      },
-      "curation_event_key": "gimhae-drilling-rig-collapse-adjacent-apartment-20261030"
-    },
-    "1929e5fac4ff": {
-      "source": "엑스포츠뉴스",
-      "title": "립 바른 선수에게 협회장이 폭언?…일본배구협회장 “그런 대화 자체 없었다”",
-      "link": "https://www.xportsnews.com/article/2212916",
-      "first_seen_at": 1793358398,
-      "last_seen_at": 1793358398,
-      "samples": [
-        {
-          "at": 1793358398,
-          "views": null,
-          "reactions": null,
-          "rank": 8,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "1929e5fac4ff",
-      "editorial": {
-        "title": "립 바른 선수에게 협회장이 폭언?…일본배구협회장 “그런 대화 자체 없었다”",
-        "category": "메이저 스포츠",
-        "url": "https://www.xportsnews.com/article/2212916",
-        "source": "엑스포츠뉴스",
-        "kind": "article",
-        "event_key": "kawai-jva-fake-player-rebuke-video-denial-20261029",
-        "why": "여자 선수의 외양을 둘러싼 영상이 협회장의 가짜 발언까지 덧붙였다는 당사자 반박으로 뒤집힌다.",
-        "angle": "선수 혼냈다는 협회장의 목소리,본인은 전면 부인했다",
-        "why_now": "새 반박은10/29 닛칸11:28 취재로 확인,한국30일00:49 후속과 구분.당사자 SNS의 정확한 업로드 시각은 미확인,옛7·9월 경기 장면을 신규로 쓰지 않음.",
-        "verified_at": 1793358200,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.xportsnews.com/article/2212916",
-            "note": "엑스포츠 본문과 닛칸 원취재에서가와이 회장의 발언·대화 전면 부인·선수 보호 요청·댓글 폐쇄·추가 개인공격 시 조치 검토를 확인했다.조작 영상 자체를 직접 시청하거나 감정하지 않았다."
-          },
-          {
-            "url": "https://www.nikkansports.com/sports/news/202610290000447.html",
-            "note": "29일11:28 원취재에서당사자의 SNS 부인·댓글 폐쇄·법적 조치 검토 문맥 대조."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.xportsnews.com/article/2212916",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "조작 여부는 당사자 반박에 귀속.소문 속 폭언을 사실처럼 재현하지 않음.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-29",
-          "observation": "엑스포츠 본문과 닛칸 원취재에서가와이 회장의 발언·대화 전면 부인·선수 보호 요청·댓글 폐쇄·추가 개인공격 시 조치 검토를 확인했다.조작 영상 자체를 직접 시청하거나 감정하지 않았다.",
-          "checked_materials": [],
-          "outline": [
-            "피어싱·립 장면에 덧붙은 질책 영상 주장을 귀속",
-            "협회장의 그런 발언·대화는 없었다는 반박",
-            "선수 보호 요청과 추가 공격에 대한 조치 검토"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.xportsnews.com/article/2212916"
-          }
-        ],
-        "excerpt": "",
-        "context": "새 반박은10/29 닛칸11:28 취재로 확인,한국30일00:49 후속과 구분.당사자 SNS의 정확한 업로드 시각은 미확인,옛7·9월 경기 장면을 신규로 쓰지 않음.",
-        "fetched_at": 1793358398,
-        "parser_revision": 7
-      },
-      "curation_event_key": "kawai-jva-fake-player-rebuke-video-denial-20261029"
-    },
-    "a7a37ba21301": {
-      "source": "엑스포츠뉴스",
-      "title": "서장훈 조언엔 고집부리더니 판사 말엔 끄덕…“웃기네” 나온 챔피언 남편",
-      "link": "https://www.xportsnews.com/article/2213194",
-      "first_seen_at": 1793358398,
-      "last_seen_at": 1793358398,
-      "samples": [
-        {
-          "at": 1793358398,
-          "views": null,
-          "reactions": null,
-          "rank": 9,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "a7a37ba21301",
-      "editorial": {
-        "title": "서장훈 조언엔 고집부리더니 판사 말엔 끄덕…“웃기네” 나온 챔피언 남편",
-        "category": "시사",
-        "url": "https://www.xportsnews.com/article/2213194",
-        "source": "엑스포츠뉴스",
-        "kind": "article",
-        "event_key": "divorce-camp-champion-couple-final-choice-judge-reaction-20261029",
-        "why": "같은 사람의 조언 수용 태도가 상대에 따라 바뀌고 진행자가 즉시 받아친 짧은 웃음 포인트다.",
-        "angle": "조언은 안 듣던 남편,판사 앞에서는 달라졌다",
-        "why_now": "원방송10/29 이혼숙려캠프 최종 선택.30일05:50 취재와 구분.실제 혼인 유지 여부를 사후 취재한 것이 아니라 방송 속 선택이다.",
-        "verified_at": 1793358140,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.xportsnews.com/article/2213194",
-            "note": "엑스포츠 방송 취재 본문에서배영길·유희정의 결혼 유지 선택·판사의 상호 격려 조언·남편의 수긍·서장훈의 다른 태도 지적을 확인했다.원영상은 직접 시청하지 않은 기사형이다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.xportsnews.com/article/2213194",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "방송의 편집·농담 맥락.법원 재판·실제 이혼 절차 판결로 쓰지 않음.영상 미시청.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-29",
-          "observation": "엑스포츠 방송 취재 본문에서배영길·유희정의 결혼 유지 선택·판사의 상호 격려 조언·남편의 수긍·서장훈의 다른 태도 지적을 확인했다.원영상은 직접 시청하지 않은 기사형이다.",
-          "checked_materials": [],
-          "outline": [
-            "두 사람의 혼인 유지 최종 선택",
-            "판사의 조언에 수긍하는 남편이라는 취재 설명",
-            "평소 고집과 대비한 서장훈의 반응으로 회수"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.xportsnews.com/article/2213194"
-          }
-        ],
-        "excerpt": "",
-        "context": "원방송10/29 이혼숙려캠프 최종 선택.30일05:50 취재와 구분.실제 혼인 유지 여부를 사후 취재한 것이 아니라 방송 속 선택이다.",
-        "fetched_at": 1793358398,
-        "parser_revision": 7
-      },
-      "curation_event_key": "divorce-camp-champion-couple-final-choice-judge-reaction-20261029"
-    },
-    "05a2e9fdc7fc": {
-      "source": "SBS",
-      "title": "입영 거부로 집행유예 받았는데 또 불응…재판까지 피한30대,이번엔 실형",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823145",
-      "first_seen_at": 1793358398,
-      "last_seen_at": 1793358398,
-      "samples": [
-        {
-          "at": 1793358398,
-          "views": null,
-          "reactions": null,
-          "rank": 10,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "05a2e9fdc7fc",
-      "editorial": {
-        "title": "입영 거부로 집행유예 받았는데 또 불응…재판까지 피한30대,이번엔 실형",
-        "category": "시사",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823145",
-        "source": "SBS",
-        "kind": "article",
-        "event_key": "daegu-repeat-enlistment-refusal-one-year-prison-20261030",
-        "why": "같은 입영 불응 전력이 있는데도 다시 거부하고 재판까지 회피한 행동과 실형의 결과가 구체적이다.",
-        "angle": "한 번의 집행유예 뒤에도 입영통지에 응하지 않았다",
-        "why_now": "새 법원 판결 취재10/30 13:43.입영통지는2023/12/13·지정일12/26로 과거,정확한 선고일은 본문 미기재.17:29 수정은 최초 공개 아님.",
-        "verified_at": 1793358181,
-        "published_at": 1793335380,
-        "evidence": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823145",
-            "note": "SBS 법원 취재 본문에서정당한 사유 없는입영 불응·동종 집행유예 전력·누범 기간 범행·공소장 송달 후 절차 회피라는 양형 이유와징역1년 선고를 확인했다.판결문 전체 미열람."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823145",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "개별 판결 취재.입영 거부는 누구나 같은 형량이라는 일반화 금지.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-30",
-          "observation": "SBS 법원 취재 본문에서정당한 사유 없는입영 불응·동종 집행유예 전력·누범 기간 범행·공소장 송달 후 절차 회피라는 양형 이유와징역1년 선고를 확인했다.판결문 전체 미열람.",
-          "checked_materials": [],
-          "outline": [
-            "상근예비역 현역 대상자에게 전달된 입영통지",
-            "동종 집행유예 전력과 재차 불응",
-            "누범·재판 회피를 고려한 새 실형 취재"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823145"
-          }
-        ],
-        "excerpt": "",
-        "context": "새 법원 판결 취재10/30 13:43.입영통지는2023/12/13·지정일12/26로 과거,정확한 선고일은 본문 미기재.17:29 수정은 최초 공개 아님.",
-        "fetched_at": 1793358398,
-        "parser_revision": 7
-      },
-      "curation_event_key": "daegu-repeat-enlistment-refusal-one-year-prison-20261030"
     }
   },
-  "updated_at": 1793959870
+  "updated_at": 1793963483
 }
