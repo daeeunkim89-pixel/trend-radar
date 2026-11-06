@@ -1,5 +1,5 @@
 {
-  "updated_at": 1793945305,
+  "updated_at": 1793949163,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026110606",
+    "hour_utc": "2026110607",
     "category_counts": {
-      "시사": 3,
+      "시사": 2,
       "축구": 1,
-      "메이저 스포츠": 1,
+      "메이저 스포츠": 2,
       "아이돌": 0
     },
-    "research_queries": 32,
-    "opened_sources": 15,
+    "research_queries": 44,
+    "opened_sources": 14,
     "picks": [
       {
-        "title": "김예건 첫 UECL 선발, 첫 도움은 동료 반칙으로 취소…즈베즈다는 역전승",
-        "url": "https://www.crvenazvezdafk.com/sr-latn/vesti/crvena-zvezda---inter-eskaldes-2-1-0-0",
-        "event_key": "kim-ye-geon-uecl-first-start-katai-goal-overturned-red-card-20261105"
+        "title": "투구 하나에도 베팅…클라세·오티스 재판서 포수 네일러 증언",
+        "url": "https://newsday.atexcloud.io/sports/baseball/mlb-baseball-gambling-ortiz-clase-o41802",
+        "event_key": "clase-ortiz-pitch-rigging-trial-bo-naylor-testimony-20261105"
       },
       {
-        "title": "다승왕·노히터 히가시하마, 무상 트레이드…14년 뛴 소프트뱅크 떠난다",
-        "url": "https://full-count.jp/2026/11/06/post2038574/",
-        "event_key": "higashihama-nao-hiroshima-free-trade-softbank-announced-20261106"
+        "title": "스페인 축구, 경기 9분에 멈춰 추모한다…데 미겔 공동 추모안 발표",
+        "url": "https://rfef.es/es/noticias/siempre-en-nuestro-recuerdo-el-futbol-espanol-se-une-en-homenaje-jesus-de-miguel",
+        "event_key": "rfef-laliga-ligaf-de-miguel-minute-nine-tribute-announced-20261105"
       },
       {
-        "title": "반대매매 악순환 막는다…9일부터 신용융자 담보유지 의무 3개월 면제",
-        "url": "https://www.khan.co.kr/article/202611061350001",
-        "event_key": "korea-credit-trading-collateral-maintenance-exemption-three-months-20261106"
+        "title": "잉글랜드 우승 도왔던 허시, 호주로…애시스·월드컵·LA 올림픽 준비 합류",
+        "url": "https://www.cricket.com.au/news/4605416/mike-hussey-joins-australia-mens-national-team-coaching-staff-consultant-t20-advisor-world-cup-ashes-2027-squad-update-england-t20-series",
+        "event_key": "mike-hussey-australia-consultant-ashes-world-cup-olympics-20261106"
       },
       {
-        "title": "쿠팡 2011억원 과징금 효력정지…어제 기각된 4236억원 유출 사건과 다르다",
-        "url": "https://biz.chosun.com/topics/law_firm/2026/11/06/2CO4OQ46UVD6LGRGBRJCHLALB4/",
-        "event_key": "coupang-online-activity-collection-2011eok-fine-stay-granted-20261106"
+        "title": "선거 패배 뒤에도 관세 고수…트럼프, 미국 공장 없으면 최고 300% 언급",
+        "url": "https://www.seoul.co.kr/news/international/2026/11/06/20261106500174",
+        "event_key": "trump-post-midterms-us-factory-tariffs-up-to300-remarks-20261105"
       },
       {
-        "title": "전국법관대표회의, 1주 앞당겨 30일 개최…안건·공동 입장은 미확정",
-        "url": "https://www.asiae.co.kr/article/2026110610563700929",
-        "event_key": "national-judges-representatives-advance-regular-meeting-nov30-announcement-20261106"
+        "title": "김종철, 경찰청장 후보 내정…장기 직무대행 체제 끝낼 인선 절차 시작",
+        "url": "https://www.khan.co.kr/article/202611061329001/amp",
+        "event_key": "kim-jong-cheol-police-chief-nominee-commission-review-20261106"
       }
     ]
   }

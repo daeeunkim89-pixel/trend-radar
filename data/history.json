@@ -1,6 +1,457 @@
 {
   "version": 1,
   "items": {
+    "1ea648ac2a0c": {
+      "source": "Reuters·CNA",
+      "title": "델리 첫 ODI 개최지 변경…인도-스리랑카전, 비사카파트남으로",
+      "link": "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366",
+      "first_seen_at": 1793945304,
+      "last_seen_at": 1793949162,
+      "samples": [
+        {
+          "at": 1793945304,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        },
+        {
+          "at": 1793949162,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "1ea648ac2a0c",
+      "editorial": {
+        "title": "델리 첫 ODI 개최지 변경…인도-스리랑카전, 비사카파트남으로",
+        "category": "메이저 스포츠",
+        "url": "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366",
+        "source": "Reuters·CNA",
+        "kind": "article",
+        "event_key": "bcci-india-srilanka-first-odi-delhi-visakhapatnam-venue-change-20261105",
+        "why": "국제경기 개최가 기상·시설과 대기질 우려에 영향을 받는 구체적 스포츠 운영 결정이다.",
+        "angle": "12월 13일 개최지 변경 사실과 공식 사유를 먼저 놓고 대기질 우려는 별도 보도임을 표시한다.",
+        "why_now": "인도 11/5 BCCI 발표. Reuters·CNA 최초 11/5 23:47:24 SGT(한국 11/6 00:47), 발표 자체의 최초 분단위는 미확인.",
+        "verified_at": 1793948851,
+        "published_at": 1793893644,
+        "evidence": [
+          {
+            "url": "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366",
+            "note": "11/5 BCCI 발표를 전한 Reuters 본문. DDCA 요청·첫 ODI 장소 변경 및 공식 기상·보수 사유 확인. 대기질은 Cricbuzz의 별도 설명이다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "공식 사유는 기상 차질·보수공사. 대기오염만으로 취소됐다고 단정하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "Reuters 본문에서 DDCA 요청에 따라 BCCI가 12/13 첫 ODI를 델리에서 비사카파트남으로 변경했다고 확인했다. 공식 사유와 Cricbuzz가 전한 대기질 우려는 구분했다.",
+          "checked_materials": [],
+          "outline": [
+            "델리에서 비사카파트남으로 바뀐 첫 ODI",
+            "기상 차질·보수공사라는 공식 사유",
+            "대기질 우려는 별도 보도, 단일 원인으로 단정 금지"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366"
+          }
+        ],
+        "excerpt": "",
+        "context": "인도 11/5 BCCI 발표. Reuters·CNA 최초 11/5 23:47:24 SGT(한국 11/6 00:47), 발표 자체의 최초 분단위는 미확인.",
+        "fetched_at": 1793949162,
+        "parser_revision": 7
+      },
+      "curation_event_key": "bcci-india-srilanka-first-odi-delhi-visakhapatnam-venue-change-20261105"
+    },
+    "94afbed8e312": {
+      "source": "AP·Newsday",
+      "title": "투구 하나에도 베팅…클라세·오티스 재판서 포수 네일러 증언",
+      "link": "https://newsday.atexcloud.io/sports/baseball/mlb-baseball-gambling-ortiz-clase-o41802",
+      "first_seen_at": 1793949162,
+      "last_seen_at": 1793949162,
+      "samples": [
+        {
+          "at": 1793949162,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "94afbed8e312",
+      "editorial": {
+        "title": "투구 하나에도 베팅…클라세·오티스 재판서 포수 네일러 증언",
+        "category": "메이저 스포츠",
+        "url": "https://newsday.atexcloud.io/sports/baseball/mlb-baseball-gambling-ortiz-clase-o41802",
+        "source": "AP·Newsday",
+        "kind": "article",
+        "event_key": "clase-ortiz-pitch-rigging-trial-bo-naylor-testimony-20261105",
+        "why": "MLB 최정상급 마무리 투수가 연루된 투구 조작 재판이 경기의 신뢰와 개별 투구 베팅 문제를 드러냈다.",
+        "angle": "포수는 구종·코스를 사인하지만 투수가 바꿀 수 있다는 증언과 검찰의 조작 주장을 구분한다.",
+        "why_now": "뉴욕 11/5 새 법정 증언. AP·Newsday 최초 11/5 23:09:30 UTC·수정 23:17:02(한국 11/6 08:09·08:17).",
+        "verified_at": 1793948851,
+        "published_at": 1793920170,
+        "evidence": [
+          {
+            "url": "https://newsday.atexcloud.io/sports/baseball/mlb-baseball-gambling-ortiz-clase-o41802",
+            "note": "11/5 뉴욕 재판 AP 본문: 네일러는 사건 전 개별 투구 베팅을 몰랐다고 했고, 투수도 완벽한 제구를 보장 못 한다고 진술. 검찰은 도박자 이익 최소 46만달러 주장."
+          },
+          {
+            "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017859",
+            "note": "11/5 10:26 KST 국내 기사로 재판·무죄 주장 배경 확인. 기사 속 조작 기간 표기에 오류 가능성이 있어 날짜·횟수는 이 검토본에서 인용하지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://newsday.atexcloud.io/sports/baseball/mlb-baseball-gambling-ortiz-clase-o41802",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "두 선수는 무죄 주장 중이며 유죄·영구제명 확정 아님. 네일러가 조작을 목격했다고 쓰지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "AP 법정 취재 본문에서 보 네일러가 개별 투구 베팅을 사건 전 몰랐다고 증언했고, 포수가 구종·목표를 정하지만 투수가 최종 변경할 수 있다는 진술을 확인했다. 46만달러 이익은 검찰 주장이다.",
+          "checked_materials": [],
+          "outline": [
+            "구종·볼 판정에 돈을 거는 개별 투구 베팅",
+            "포수 사인과 투수 최종 선택에 관한 네일러 증언",
+            "검찰 주장·변호인 반론·무죄 주장 중인 재판 단계"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://newsday.atexcloud.io/sports/baseball/mlb-baseball-gambling-ortiz-clase-o41802"
+          }
+        ],
+        "excerpt": "",
+        "context": "뉴욕 11/5 새 법정 증언. AP·Newsday 최초 11/5 23:09:30 UTC·수정 23:17:02(한국 11/6 08:09·08:17).",
+        "fetched_at": 1793949162,
+        "parser_revision": 7
+      },
+      "curation_event_key": "clase-ortiz-pitch-rigging-trial-bo-naylor-testimony-20261105"
+    },
+    "bbc0cc1fdd7a": {
+      "source": "스페인축구협회 RFEF",
+      "title": "스페인 축구, 경기 9분에 멈춰 추모한다…데 미겔 공동 추모안 발표",
+      "link": "https://rfef.es/es/noticias/siempre-en-nuestro-recuerdo-el-futbol-espanol-se-une-en-homenaje-jesus-de-miguel",
+      "first_seen_at": 1793949162,
+      "last_seen_at": 1793949162,
+      "samples": [
+        {
+          "at": 1793949162,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "official",
+      "story_id": "bbc0cc1fdd7a",
+      "editorial": {
+        "title": "스페인 축구, 경기 9분에 멈춰 추모한다…데 미겔 공동 추모안 발표",
+        "category": "축구",
+        "url": "https://rfef.es/es/noticias/siempre-en-nuestro-recuerdo-el-futbol-espanol-se-une-en-homenaje-jesus-de-miguel",
+        "source": "스페인축구협회 RFEF",
+        "kind": "official",
+        "event_key": "rfef-laliga-ligaf-de-miguel-minute-nine-tribute-announced-20261105",
+        "why": "선수 사망 뒤 스페인 프로·전국대회가 함께 경기 운영을 바꾸는 공식 추모 결정으로 축구계 전반에 영향이 있다.",
+        "angle": "등번호 9를 따라 첫 중단 때 추모하는 방식과 전국대회까지 확장되는 조치를 전한다.",
+        "why_now": "기존 11/3 사망 보도와 다른 새 후속: RFEF·라리가·리가F가 11/5 발표한 11/6~9 공동 추모안. 원문 17:15 표시, 시간대 미표시.",
+        "verified_at": 1793948878,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://rfef.es/es/noticias/siempre-en-nuestro-recuerdo-el-futbol-espanol-se-une-en-homenaje-jesus-de-miguel",
+            "note": "11/5 공식 발표: 11/6~9 라리가·2부, RFEF 전국대회·리가F에 묵념·9분 이후 첫 경기 중단 때 추모. 시행 전 발표이며 실제 모든 경기 이행을 확인한 것은 아니다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://rfef.es/es/noticias/siempre-en-nuestro-recuerdo-el-futbol-espanol-se-une-en-homenaje-jesus-de-miguel",
+            "label": "확인한 공식 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "9분 정각 강제 중단이 아니라 9분 이후 첫 경기 중단 때 시행. 충돌 영상은 보지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "RFEF 공식 본문에서 11/6~9 경기 전 묵념과 9분 이후 첫 중단 때 영상·박수로 추모, 라리가·2부의 9번 특별셔츠와 헌화, 전국 RFEF·리가F 대회 확대를 확인했다. 사망 원인·형사 책임을 추가 판단하지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "등번호 9를 따른 9분 이후 첫 중단 때 추모",
+            "경기 전 묵념·특별셔츠·헌화라는 공동 결정",
+            "라리가·2부와 RFEF 전국대회·리가F로 확대"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 공식 원문",
+            "url": "https://rfef.es/es/noticias/siempre-en-nuestro-recuerdo-el-futbol-espanol-se-une-en-homenaje-jesus-de-miguel"
+          }
+        ],
+        "excerpt": "",
+        "context": "기존 11/3 사망 보도와 다른 새 후속: RFEF·라리가·리가F가 11/5 발표한 11/6~9 공동 추모안. 원문 17:15 표시, 시간대 미표시.",
+        "fetched_at": 1793949162,
+        "parser_revision": 7
+      },
+      "curation_event_key": "rfef-laliga-ligaf-de-miguel-minute-nine-tribute-announced-20261105"
+    },
+    "10ed42b72252": {
+      "source": "Cricket Australia",
+      "title": "잉글랜드 우승 도왔던 허시, 호주로…애시스·월드컵·LA 올림픽 준비 합류",
+      "link": "https://www.cricket.com.au/news/4605416/mike-hussey-joins-australia-mens-national-team-coaching-staff-consultant-t20-advisor-world-cup-ashes-2027-squad-update-england-t20-series",
+      "first_seen_at": 1793949162,
+      "last_seen_at": 1793949162,
+      "samples": [
+        {
+          "at": 1793949162,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "official",
+      "story_id": "10ed42b72252",
+      "editorial": {
+        "title": "잉글랜드 우승 도왔던 허시, 호주로…애시스·월드컵·LA 올림픽 준비 합류",
+        "category": "메이저 스포츠",
+        "url": "https://www.cricket.com.au/news/4605416/mike-hussey-joins-australia-mens-national-team-coaching-staff-consultant-t20-advisor-world-cup-ashes-2027-squad-update-england-t20-series",
+        "source": "Cricket Australia",
+        "kind": "official",
+        "event_key": "mike-hussey-australia-consultant-ashes-world-cup-olympics-20261106",
+        "why": "잉글랜드 월드컵 우승 코치가 라이벌 호주의 핵심 대회 준비에 합류하는 확정 인사로 대표팀 경쟁 구도를 바꾼다.",
+        "angle": "2022년 잉글랜드 우승 스태프 경력과 이번 호주 계약의 대상 대회를 나란히 제시한다.",
+        "why_now": "CA 공식 기사 최초 11/6 03:00 UTC(12:00 KST), 수정 04:05:52 UTC. 발표 당일의 새 확정 선임이며 과거 접근설과 구분했다.",
+        "verified_at": 1793948945,
+        "published_at": 1793934000,
+        "evidence": [
+          {
+            "url": "https://www.cricket.com.au/news/4605416/mike-hussey-joins-australia-mens-national-team-coaching-staff-consultant-t20-advisor-world-cup-ashes-2027-squad-update-england-t20-series",
+            "note": "CA 11/6 공식 기사: 컨설턴트 코치·T20 자문 역할과 대상 대회, 이달 잉글랜드전·뉴질랜드 테스트 지원을 확인. 2022년 잉글랜드 우승 코치 경력도 명시."
+          },
+          {
+            "url": "https://www.afp.com/en/australia-recruit-hussey-consultant-ashes-and-2027-world-cup",
+            "note": "AFP 11/6 본문은 잉글랜드가 8월 비공식 접근했지만 허시가 거절하고 호주를 선택했다고 보도. 이번 확정 선임과 과거 접근 시점은 구분한다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.cricket.com.au/news/4605416/mike-hussey-joins-australia-mens-national-team-coaching-staff-consultant-t20-advisor-world-cup-ashes-2027-squad-update-england-t20-series",
+            "label": "확인한 공식 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "대표팀 감독 교체가 아니라 컨설턴트·T20 자문 역할이다. 성적 개선·우승을 보장하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-06",
+          "observation": "CA 공식 본문에서 허시의 2027 애시스·ODI 월드컵 컨설턴트 합류, 2028 LA 올림픽·T20 월드컵 자문, 이달 잉글랜드전부터 지원을 확인했다. AFP는 과거 잉글랜드 접근을 거절한 배경을 설명한다.",
+          "checked_materials": [],
+          "outline": [
+            "잉글랜드 2022 우승 스태프가 호주 코치진 합류",
+            "2027 애시스·ODI 월드컵, 2028 올림픽·T20 자문",
+            "이달 잉글랜드전부터 지원, 감독 교체는 아님"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 공식 원문",
+            "url": "https://www.cricket.com.au/news/4605416/mike-hussey-joins-australia-mens-national-team-coaching-staff-consultant-t20-advisor-world-cup-ashes-2027-squad-update-england-t20-series"
+          }
+        ],
+        "excerpt": "",
+        "context": "CA 공식 기사 최초 11/6 03:00 UTC(12:00 KST), 수정 04:05:52 UTC. 발표 당일의 새 확정 선임이며 과거 접근설과 구분했다.",
+        "fetched_at": 1793949162,
+        "parser_revision": 7
+      },
+      "curation_event_key": "mike-hussey-australia-consultant-ashes-world-cup-olympics-20261106"
+    },
+    "8a7674b39fd7": {
+      "source": "서울신문·취재 문답 전사",
+      "title": "선거 패배 뒤에도 관세 고수…트럼프, 미국 공장 없으면 최고 300% 언급",
+      "link": "https://www.seoul.co.kr/news/international/2026/11/06/20261106500174",
+      "first_seen_at": 1793949162,
+      "last_seen_at": 1793949162,
+      "samples": [
+        {
+          "at": 1793949162,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "8a7674b39fd7",
+      "editorial": {
+        "title": "선거 패배 뒤에도 관세 고수…트럼프, 미국 공장 없으면 최고 300% 언급",
+        "category": "시사",
+        "url": "https://www.seoul.co.kr/news/international/2026/11/06/20261106500174",
+        "source": "서울신문·취재 문답 전사",
+        "kind": "article",
+        "event_key": "trump-post-midterms-us-factory-tariffs-up-to300-remarks-20261105",
+        "why": "한국 기업의 대미 생산·투자와 통상 비용에 영향을 주는 대통령의 새 고율 관세 발언이다.",
+        "angle": "300%라는 발언과 실제 새 부과조치 미확정을 분리해 한국 기업이 이해할 통상 압박의 맥락을 제시한다.",
+        "why_now": "미국 현지 11/5 백악관 기자 문답. 서울신문 최초 11/6 14:03:36 KST·수정 14:36:39. 국내 기사 갱신을 최초 발언으로 쓰지 않았다.",
+        "verified_at": 1793948879,
+        "published_at": 1793941416,
+        "evidence": [
+          {
+            "url": "https://www.seoul.co.kr/news/international/2026/11/06/20261106500174",
+            "note": "11/6 14:03 KST 서울신문 기사: 11/5 백악관 발언으로 미국 공장 미건설 기업에 최고 300% 언급. 본문 확인은 공개 접근 가능한 요약 문단과 보도 전문으로 제한된다."
+          },
+          {
+            "url": "https://singjupost.com/transcript-trump-takes-questions-in-oval-office-after-massive-republican-midterm-losses/",
+            "note": "11/5 백악관 기자 문답 전사에서 50·100·150·250·300% 언급과 공장 가동 시 면제 주장을 확인. 공식 백악관 속기록이나 영상 직접 시청은 아니다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.seoul.co.kr/news/international/2026/11/06/20261106500174",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "새 300% 관세가 시행된 것은 아니다. 적용 대상·일정 미제시이며 공장·물가 효과는 트럼프 주장이다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "기사 본문과 문답 전사에서 관세 철회 시 공장 건설이 멈춘다는 주장, 미국에 생산시설을 짓지 않으면 최고 300% 관세를 언급한 발언을 확인했다. 새 행정명령·구체 시행 대상은 확인하지 못했다.",
+          "checked_materials": [],
+          "outline": [
+            "미국 공장 건설을 압박하며 최고 300% 관세 언급",
+            "중간선거 패배 뒤에도 관세 고수 메시지",
+            "발언과 새 제도 시행을 구분, 대상·일정 미제시"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://www.seoul.co.kr/news/international/2026/11/06/20261106500174"
+          }
+        ],
+        "excerpt": "",
+        "context": "미국 현지 11/5 백악관 기자 문답. 서울신문 최초 11/6 14:03:36 KST·수정 14:36:39. 국내 기사 갱신을 최초 발언으로 쓰지 않았다.",
+        "fetched_at": 1793949162,
+        "parser_revision": 7
+      },
+      "curation_event_key": "trump-post-midterms-us-factory-tariffs-up-to300-remarks-20261105"
+    },
+    "e8e1c1c40458": {
+      "source": "경향신문",
+      "title": "김종철, 경찰청장 후보 내정…장기 직무대행 체제 끝낼 인선 절차 시작",
+      "link": "https://www.khan.co.kr/article/202611061329001/amp",
+      "first_seen_at": 1793949162,
+      "last_seen_at": 1793949162,
+      "samples": [
+        {
+          "at": 1793949162,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "e8e1c1c40458",
+      "editorial": {
+        "title": "김종철, 경찰청장 후보 내정…장기 직무대행 체제 끝낼 인선 절차 시작",
+        "category": "시사",
+        "url": "https://www.khan.co.kr/article/202611061329001/amp",
+        "source": "경향신문",
+        "kind": "article",
+        "event_key": "kim-jong-cheol-police-chief-nominee-commission-review-20261106",
+        "why": "계엄 이후 장기간 공백인 전국 경찰 수장 인선으로 조직의 책임·권한과 치안 행정에 전국적 영향이 있다.",
+        "angle": "후보 내정과 국가경찰위 심의 착수를 먼저 제시하고 인사청문회·대통령 임명이 남았음을 설명한다.",
+        "why_now": "11/6 13:30 KST 국가경찰위 회의 출석. 경향 최초 13:29·수정 14:46. 당일 새 내정 사실과 절차를 확인했다.",
+        "verified_at": 1793948879,
+        "published_at": 1793939340,
+        "evidence": [
+          {
+            "url": "https://www.khan.co.kr/article/202611061329001/amp",
+            "note": "11/6 13:29 최초·14:46 수정 본문. 후보 내정·회의 출석·책임감 발언 확인. 정식 청장 임명은 청문회 등 후속 절차를 거쳐야 한다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.khan.co.kr/article/202611061329001/amp",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "청장 정식 임명 완료로 쓰지 않는다. 국회 청문회·대통령 임명과 후보 내정은 다른 단계다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-06",
+          "observation": "경향 본문에서 김 차장 내정, 11/6 국가경찰위 회의 출석과 본인 후보 지명 확인 발언을 읽었다. 국가경찰위 동의·행안장관 제청·인사청문회 등 절차가 남아 있으며 후속 의결 완료는 확인하지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "경찰청장 후보로 김종철 차장 내정",
+            "국가경찰위 심의 착수와 본인 후보 지명 확인",
+            "청문회·대통령 임명 등 남은 절차"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://www.khan.co.kr/article/202611061329001/amp"
+          }
+        ],
+        "excerpt": "",
+        "context": "11/6 13:30 KST 국가경찰위 회의 출석. 경향 최초 13:29·수정 14:46. 당일 새 내정 사실과 절차를 확인했다.",
+        "fetched_at": 1793949162,
+        "parser_revision": 7
+      },
+      "curation_event_key": "kim-jong-cheol-police-chief-nominee-commission-review-20261106"
+    },
     "61defefaf59f": {
       "source": "아시아경제",
       "title": "전국법관대표회의, 1주 앞당겨 30일 개최…안건·공동 입장은 미확정",
@@ -383,78 +834,6 @@
         "parser_revision": 7
       },
       "curation_event_key": "coupang-online-activity-collection-2011eok-fine-stay-granted-20261106"
-    },
-    "1ea648ac2a0c": {
-      "source": "Reuters·CNA",
-      "title": "델리 국제경기, 다시 개최지 바뀐다…인도-스리랑카 첫 ODI 이전 확정",
-      "link": "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366",
-      "first_seen_at": 1793945304,
-      "last_seen_at": 1793945304,
-      "samples": [
-        {
-          "at": 1793945304,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "1ea648ac2a0c",
-      "editorial": {
-        "title": "델리 국제경기, 다시 개최지 바뀐다…인도-스리랑카 첫 ODI 이전 확정",
-        "category": "메이저 스포츠",
-        "url": "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366",
-        "source": "Reuters·CNA",
-        "kind": "article",
-        "event_key": "bcci-india-srilanka-first-odi-delhi-visakhapatnam-venue-change-20261105",
-        "why": "국제대회 개최지 결정이 기상·시설과 대기질 우려에 영향을 받는 스포츠 운영 문제를 보여준다.",
-        "angle": "12월 13일 첫 ODI 개최지 변경을 먼저 놓고 공식 사유와 별도 매체의 대기질 우려 보도를 구분한다.",
-        "why_now": "BCCI 발표는 인도 11/5. Reuters·CNA 최초 11/5 23:47:24 SGT(11/6 00:47 KST), 원문 발표의 정확한 분단위는 미확인.",
-        "verified_at": 1793945004,
-        "published_at": 1793893644,
-        "evidence": [
-          {
-            "url": "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366",
-            "note": "11/5 발표를 전한 Reuters 본문. DDCA 요청을 받아 BCCI가 장소 변경. 공식 발표는 기상 차질과 보수공사를 명시, 대기질은 Cricbuzz 추가 보도다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366",
-            "label": "확인한 기사 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "공식 사유는 기상 차질·예정된 보수공사다. 대기오염만으로 취소됐다고 쓰지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-05",
-          "observation": "Reuters 본문에서 BCCI가 12/13 첫 ODI를 델리에서 비사카파트남으로 옮긴다고 발표했음을 확인했다. DDCA가 요청했으며 공식 사유와 Cricbuzz의 별도 대기질 설명은 구분했다.",
-          "checked_materials": [],
-          "outline": [
-            "12월 13일 첫 ODI, 델리에서 비사카파트남으로",
-            "기상 차질·보수공사라는 공식 사유",
-            "대기질 우려는 별도 보도, 단독 원인으로 단정 금지"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 기사 본문",
-            "url": "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366"
-          }
-        ],
-        "excerpt": "",
-        "context": "BCCI 발표는 인도 11/5. Reuters·CNA 최초 11/5 23:47:24 SGT(11/6 00:47 KST), 원문 발표의 정확한 분단위는 미확인.",
-        "fetched_at": 1793945304,
-        "parser_revision": 7
-      },
-      "curation_event_key": "bcci-india-srilanka-first-odi-delhi-visakhapatnam-venue-change-20261105"
     },
     "e58656cd239e": {
       "source": "MBC",
@@ -31412,5 +31791,5 @@
       "curation_event_key": "expressway-reststop-direct-contract-first-tender-20261030"
     }
   },
-  "updated_at": 1793945304
+  "updated_at": 1793949162
 }
