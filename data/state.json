@@ -1,5 +1,5 @@
 {
-  "updated_at": 1793963484,
+  "updated_at": 1793970237,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026110611",
+    "hour_utc": "2026110613",
     "category_counts": {
       "시사": 2,
-      "축구": 2,
-      "메이저 스포츠": 1,
+      "축구": 0,
+      "메이저 스포츠": 3,
       "아이돌": 0
     },
-    "research_queries": 16,
-    "opened_sources": 12,
+    "research_queries": 19,
+    "opened_sources": 10,
     "picks": [
       {
-        "title": "팔머·포든·마이누 없는 잉글랜드…벨링엄 형제 동반 발탁",
-        "url": "https://www.englandfootball.com/articles/2026/Nov/06/england-senior-mens-squad-announcement-for-croatia-spain-games-20261106",
-        "event_key": "england-november-squad-jobe-king-first-callups-palmer-foden-mainoo-omitted-20261106"
+        "title": "삼성, KT 5대1 제압…한국시리즈 2승1패로 뒤집었다",
+        "url": "https://news.nate.com/view/20261106n33340",
+        "event_key": "kbo-korean-series-game3-samsung-kt5-1-series2-1-20261106"
       },
       {
-        "title": "올림픽 여자축구도 U23로? FIFA가 검토하는 연령 제한",
-        "url": "https://sports.yahoo.com/articles/fifa-interested-restricting-women-olympic-164607179.html",
-        "event_key": "fifa-womens-olympic-under23-discussions-reported-20261105"
+        "title": "6승1패 맞대결 앞두고 주전 QB 이탈…바이킹스, 웬츠 선발 확정",
+        "url": "https://www.vikings.com/news/quarterback-carson-wentz-monday-night-bills",
+        "event_key": "vikings-kyler-murray-hamstring-wentz-bills-starter-confirmed-20261105"
       },
       {
-        "title": "美 워싱턴·콜로라도, 학교 여자 스포츠 참가 제한안 가결 보도",
-        "url": "https://abcnews.com/Politics/wireStory/left-leaning-washington-colorado-join-conservative-states-banning-137898149",
-        "event_key": "washington-colorado-school-sports-transgender-ballot-measures-passage-called-20261105"
+        "title": "은행 위기에 사의 밝힌 파라과이 대통령…의회는 탄핵 심리 착수",
+        "url": "https://efe.com/mundo/2026-11-06/senado-paraguay-juicio-politico-presidente-santiago-pena/",
+        "event_key": "paraguay-pena-resignation-unaccepted-senate-impeachment-ueno-crisis-20261105"
       },
       {
-        "title": "이란 당국자 “카타르 통해 미국에 핵 제안”…협상엔 7개 조건",
-        "url": "https://www.timesofisrael.com/liveblog_entry/iran-sent-nuclear-proposal-to-the-us-via-qatar-says-senior-iranian-official/",
-        "event_key": "iran-nuclear-proposal-via-qatar-seven-preconditions-disclosed-20261105"
+        "title": "미국, 쿠바 제재 범위 확대…중국 공급업체·석유 운송망 겨냥",
+        "url": "https://ofac.treasury.gov/recent-actions/20261105",
+        "event_key": "us-cuba-eight-entities-two-individuals-sector-determination-20261105"
       },
       {
-        "title": "‘테러단체’ 지정 발효에 CAIR 플로리다 운영 중단…법정 다툼 계속",
-        "url": "https://www.wusf.org/courts-law/2026-11-05/terrorist-designation-by-desantis-forces-cair-florida-to-indefinitely-cease-operations",
-        "event_key": "cair-florida-operations-suspended-designation-effective-20261105"
+        "title": "델리 ODI 개최지 변경…인도·스리랑카전, 비사카파트남으로",
+        "url": "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366",
+        "event_key": "india-srilanka-delhi-odi-venue-shift-visakhapatnam-20261105"
       }
     ]
   }

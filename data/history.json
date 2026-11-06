@@ -3,10 +3,10 @@
   "items": {
     "1ea648ac2a0c": {
       "source": "Reuters / CNA",
-      "title": "델리 국가대표 ODI, 비사카파트남으로 이동…기상·구장 공사 우려",
+      "title": "델리 ODI 개최지 변경…인도·스리랑카전, 비사카파트남으로",
       "link": "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366",
       "first_seen_at": 1793945304,
-      "last_seen_at": 1793963483,
+      "last_seen_at": 1793970236,
       "samples": [
         {
           "at": 1793945304,
@@ -42,45 +42,52 @@
           "reactions": null,
           "rank": 6,
           "rank_kind": null
+        },
+        {
+          "at": 1793970236,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
         }
       ],
       "parser_revision": 7,
       "content_kind": "article",
       "story_id": "1ea648ac2a0c",
       "editorial": {
-        "title": "델리 국가대표 ODI, 비사카파트남으로 이동…기상·구장 공사 우려",
+        "title": "델리 ODI 개최지 변경…인도·스리랑카전, 비사카파트남으로",
         "category": "메이저 스포츠",
         "url": "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366",
         "source": "Reuters / CNA",
         "kind": "article",
         "event_key": "india-srilanka-delhi-odi-venue-shift-visakhapatnam-20261105",
-        "why": "인도 수도의 국제 경기 개최가 실제 바뀌었다. 대기질 문제와 개최 여건을 공식 사유와 나눠 설명할 수 있는 검증 예비다.",
-        "angle": "경기장 변경을 먼저 제시하고 BCCI 공식 사유와 별도 대기질 보도를 분리한다.",
-        "why_now": "BCCI 발표는 11월5일(일 단위). Reuters/CNA 최초 송고는 6일00:47:24 KST이며 경기 자체는 12월13일 예정이다.",
-        "verified_at": 1793963277,
+        "why": "수도 델리의 국제 경기 개최 계획이 실제 바뀌었다. 대형 스포츠의 개최 여건과 환경 문제를 공식 사유와 나눠 설명할 수 있다.",
+        "angle": "개최지 이전 확정→기상 차질·구장 보수 사유→대기질 관련 별도 보도 순으로 보여준다.",
+        "why_now": "BCCI 발표는 현지 11월5일(일 단위). 확인한 Reuters/CNA 최초 송고는 6일00:47:24 KST이며 경기 예정일은 12월13일이다.",
+        "verified_at": 1793969922,
         "published_at": 1793893644,
         "evidence": [
           {
             "url": "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366",
-            "note": "Reuters 본문에서 BCCI 발표와 DDCA의 이전 요청, 새 구장 및 경기 예정일을 확인했다."
+            "note": "Reuters 본문에서 12월13일 첫 ODI 개최지 변경, DDCA 요청과 BCCI의 기상·보수 사유 확인. 나머지 시리즈 취소 보도는 없다."
           }
         ],
         "materials": [
           {
             "url": "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366",
-            "label": "확인한 원문 본문",
+            "label": "확인한 기사 본문",
             "kind": "source"
           }
         ],
-        "caution": "경기 취소가 아니다. 대기오염만이 공식 이전 사유라고 단정하지 않는다. BCCI 원문 접근은 실패해 Reuters 본문으로 확인했다.",
+        "caution": "경기 취소가 아니다. 대기오염만이 공식 이전 사유라고 단정하지 않는다. BCCI 발표문 직접 열람 대신 Reuters 본문으로 확인했다.",
         "readiness": {
           "mode": "major_news",
           "event_date": "2026-11-05",
-          "observation": "본문은 BCCI가 12월13일 인도·스리랑카 첫 ODI 개최지를 변경했다고 전한다. 기상 차질 가능성과 구장 보수 계획은 BCCI 설명, 대기질 연관은 Cricbuzz 보도다.",
+          "observation": "본문에서 BCCI가 DDCA 요청으로 첫 ODI를 이전했다고 전했다. 기상 차질 가능성·구장 보수 계획은 BCCI 설명이며 대기질 연관은 Cricbuzz 보도로 분리돼 있다.",
           "checked_materials": [],
           "outline": [
-            "델리에서 비사카파트남으로 바뀐 개최지 표시",
-            "기상·보수 계획과 별도 대기질 보도의 출처 구분"
+            "델리에서 비사카파트남으로 바뀐 실제 개최지 표시",
+            "공식 사유와 별도 대기질 취재의 출처를 분리"
           ]
         }
       },
@@ -89,16 +96,387 @@
         "media": [],
         "source_links": [
           {
-            "label": "확인한 원문 본문",
+            "label": "확인한 기사 본문",
             "url": "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366"
           }
         ],
         "excerpt": "",
-        "context": "BCCI 발표는 11월5일(일 단위). Reuters/CNA 최초 송고는 6일00:47:24 KST이며 경기 자체는 12월13일 예정이다.",
-        "fetched_at": 1793963483,
+        "context": "BCCI 발표는 현지 11월5일(일 단위). 확인한 Reuters/CNA 최초 송고는 6일00:47:24 KST이며 경기 예정일은 12월13일이다.",
+        "fetched_at": 1793970236,
         "parser_revision": 7
       },
       "curation_event_key": "india-srilanka-delhi-odi-venue-shift-visakhapatnam-20261105"
+    },
+    "5e442bb2e3be": {
+      "source": "뉴스1 / 네이트",
+      "title": "삼성, KT 5대1 제압…한국시리즈 2승1패로 뒤집었다",
+      "link": "https://news.nate.com/view/20261106n33340",
+      "first_seen_at": 1793970236,
+      "last_seen_at": 1793970236,
+      "samples": [
+        {
+          "at": 1793970236,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "5e442bb2e3be",
+      "editorial": {
+        "title": "삼성, KT 5대1 제압…한국시리즈 2승1패로 뒤집었다",
+        "category": "메이저 스포츠",
+        "url": "https://news.nate.com/view/20261106n33340",
+        "source": "뉴스1 / 네이트",
+        "kind": "article",
+        "event_key": "kbo-korean-series-game3-samsung-kt5-1-series2-1-20261106",
+        "why": "우승을 가리는 한국시리즈에서 삼성이 1차전 패배 뒤 2연승으로 우위를 가져왔다. 단순 정규시즌 승리와 다른 판도 변화다.",
+        "angle": "구자욱의 2타점 3루타와 후라도의 7이닝 1실점으로 3차전 흐름과 시리즈 역전을 설명한다.",
+        "why_now": "경기는 11월6일. 확인한 뉴스1 기사 최초 게시 6일21:26:52 KST, 네이트 전재 21:27. 경기 종료의 정확한 시각은 별도 미확인.",
+        "verified_at": 1793970024,
+        "published_at": 1793968012,
+        "evidence": [
+          {
+            "url": "https://news.nate.com/view/20261106n33340",
+            "note": "뉴스1 전재 본문에서 최종 점수·시리즈 전적·핵심 투타 기록 확인. 1·2차전과 다른 11월6일 3차전 새 결과."
+          },
+          {
+            "url": "https://www.news1.kr/sports/baseball/6346220",
+            "note": "뉴스1 원문 요약에서도 5대1·2승1패 확인. datePublished 21:26:52, 수정 21:26:53 KST를 구분했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.nate.com/view/20261106n33340",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "우승 확정이 아니다. 통계상의 우승 확률을 실제 우승 보장으로 표현하지 않는다. 사진·경기 영상 시청 주장은 하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-06",
+          "observation": "기사 본문에서 삼성 5대1 승리, 시리즈 2승1패, 2회 구자욱 2타점 3루타, 후라도 7이닝 1실점을 확인했다. 경기 영상은 시청하지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "5대1 결과와 1승1패에서 2승1패로 바뀐 시리즈 표시",
+            "구자욱 2타점 3루타·후라도 7이닝 1실점으로 승부처 설명"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://news.nate.com/view/20261106n33340"
+          }
+        ],
+        "excerpt": "",
+        "context": "경기는 11월6일. 확인한 뉴스1 기사 최초 게시 6일21:26:52 KST, 네이트 전재 21:27. 경기 종료의 정확한 시각은 별도 미확인.",
+        "fetched_at": 1793970236,
+        "parser_revision": 7
+      },
+      "curation_event_key": "kbo-korean-series-game3-samsung-kt5-1-series2-1-20261106"
+    },
+    "9a50f02a3ba5": {
+      "source": "미네소타 바이킹스",
+      "title": "6승1패 맞대결 앞두고 주전 QB 이탈…바이킹스, 웬츠 선발 확정",
+      "link": "https://www.vikings.com/news/quarterback-carson-wentz-monday-night-bills",
+      "first_seen_at": 1793970236,
+      "last_seen_at": 1793970236,
+      "samples": [
+        {
+          "at": 1793970236,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "official",
+      "story_id": "9a50f02a3ba5",
+      "editorial": {
+        "title": "6승1패 맞대결 앞두고 주전 QB 이탈…바이킹스, 웬츠 선발 확정",
+        "category": "메이저 스포츠",
+        "url": "https://www.vikings.com/news/quarterback-carson-wentz-monday-night-bills",
+        "source": "미네소타 바이킹스",
+        "kind": "official",
+        "event_key": "vikings-kyler-murray-hamstring-wentz-bills-starter-confirmed-20261105",
+        "why": "NFL 상위권 팀의 주전 쿼터백 부상으로 빌스와의 프라임타임 경기 운영이 바뀐다. 구단이 대체 선발까지 확정한 중대한 전력 변화다.",
+        "angle": "머리의 햄스트링 손상→웬츠 선발 확정→양 팀 6승1패 맞대결의 의미 순으로 정리한다.",
+        "why_now": "구단 발표는 현지 11월5일. 공식 기사 최초 공개 6일08:05 KST(5일23:05 UTC); 과거 뇌진탕 대체 출전과 다른 새 햄스트링 발표다.",
+        "verified_at": 1793969920,
+        "published_at": 1793919900,
+        "evidence": [
+          {
+            "url": "https://www.vikings.com/news/quarterback-carson-wentz-monday-night-bills",
+            "note": "구단 기사 본문에 감독 발표 직접 인용: 햄스트링 손상, 빌스전 머리 결장·웬츠 선발. 양 팀 현재 6승1패."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.vikings.com/news/quarterback-carson-wentz-monday-night-bills",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "장기 결장 기간이나 영구 주전 교체는 확정되지 않았다. 이번 발표는 부상에 따른 빌스전 대체 선발이며 영상 회견은 시청하지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "구단 본문에서 오코넬 감독이 머리의 햄스트링 손상과 빌스전 결장, 웬츠 선발·브로스머 백업을 발표했다. 상태는 주 단위 평가로 설명했다.",
+          "checked_materials": [],
+          "outline": [
+            "머리 결장과 웬츠 선발이라는 확정 변화를 표시",
+            "양 팀 6승1패와 감독의 주 단위 평가 설명"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://www.vikings.com/news/quarterback-carson-wentz-monday-night-bills"
+          }
+        ],
+        "excerpt": "",
+        "context": "구단 발표는 현지 11월5일. 공식 기사 최초 공개 6일08:05 KST(5일23:05 UTC); 과거 뇌진탕 대체 출전과 다른 새 햄스트링 발표다.",
+        "fetched_at": 1793970236,
+        "parser_revision": 7
+      },
+      "curation_event_key": "vikings-kyler-murray-hamstring-wentz-bills-starter-confirmed-20261105"
+    },
+    "3e9831c9ffcc": {
+      "source": "EFE",
+      "title": "은행 위기에 사의 밝힌 파라과이 대통령…의회는 탄핵 심리 착수",
+      "link": "https://efe.com/mundo/2026-11-06/senado-paraguay-juicio-politico-presidente-santiago-pena/",
+      "first_seen_at": 1793970236,
+      "last_seen_at": 1793970236,
+      "samples": [
+        {
+          "at": 1793970236,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "3e9831c9ffcc",
+      "editorial": {
+        "title": "은행 위기에 사의 밝힌 파라과이 대통령…의회는 탄핵 심리 착수",
+        "category": "시사",
+        "url": "https://efe.com/mundo/2026-11-06/senado-paraguay-juicio-politico-presidente-santiago-pena/",
+        "source": "EFE",
+        "kind": "article",
+        "event_key": "paraguay-pena-resignation-unaccepted-senate-impeachment-ueno-crisis-20261105",
+        "why": "수백만 고객의 예금 접근 중단이 대통령 사의와 탄핵 심리로 번졌다. 금융 위기와 국가 권력 승계가 맞물린 대형 국제 사건이다.",
+        "angle": "은행 위기→사의 발표→의회 수리 불발·탄핵 심리의 서로 다른 단계를 구분한다.",
+        "why_now": "현지 11월5일 사의 발표와 상원 탄핵 심리 개시. 확인한 EFE 최초 송고 6일09:01:22 KST; 수정은 13:46:42 KST로 별도다.",
+        "verified_at": 1793969920,
+        "published_at": 1793923282,
+        "evidence": [
+          {
+            "url": "https://efe.com/mundo/2026-11-06/senado-paraguay-juicio-politico-presidente-santiago-pena/",
+            "note": "EFE 현지 취재 본문: 의회 정족수 부족으로 사의 미수리, 형식상 대통령직 유지, 상원 탄핵 심리 개시. 금융·공적자금 의혹은 수사 사안."
+          },
+          {
+            "url": "https://www.gmanetwork.com/news/topstories/world/1008472/paraguay-president-pe-a-resigns-under-mounting-pressure-from-bank-collapse/story/",
+            "note": "이른 Reuters 전재는 사의 발표와 예금 접근 중단을 확인했다. 이후 EFE 보도가 사의 미수리 상태를 설명하므로 승계 완료로 쓰지 않는다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://efe.com/mundo/2026-11-06/senado-paraguay-juicio-politico-presidente-santiago-pena/",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "은행 관련 의혹은 유죄 판결이 아니다. 사임 효력 발생·부통령 취임·탄핵 인용으로 단정하지 않는다. 원문 영상은 시청하지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "EFE 본문은 사의 수리 회의가 정족수 부족으로 성립하지 않아 페냐가 형식상 재임 중이며 상원이 탄핵 심리에 들어갔다고 전했다. 유죄·후임 취임은 확인하지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "Ueno 사태와 대통령 사의 발표의 연결 설명",
+            "사의 수리 불발과 상원 심리 개시를 분리 표시"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://efe.com/mundo/2026-11-06/senado-paraguay-juicio-politico-presidente-santiago-pena/"
+          }
+        ],
+        "excerpt": "",
+        "context": "현지 11월5일 사의 발표와 상원 탄핵 심리 개시. 확인한 EFE 최초 송고 6일09:01:22 KST; 수정은 13:46:42 KST로 별도다.",
+        "fetched_at": 1793970236,
+        "parser_revision": 7
+      },
+      "curation_event_key": "paraguay-pena-resignation-unaccepted-senate-impeachment-ueno-crisis-20261105"
+    },
+    "52e80b4843e2": {
+      "source": "미 재무부 OFAC",
+      "title": "미국, 쿠바 제재 범위 확대…중국 공급업체·석유 운송망 겨냥",
+      "link": "https://ofac.treasury.gov/recent-actions/20261105",
+      "first_seen_at": 1793970236,
+      "last_seen_at": 1793970236,
+      "samples": [
+        {
+          "at": 1793970236,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "official",
+      "story_id": "52e80b4843e2",
+      "editorial": {
+        "title": "미국, 쿠바 제재 범위 확대…중국 공급업체·석유 운송망 겨냥",
+        "category": "시사",
+        "url": "https://ofac.treasury.gov/recent-actions/20261105",
+        "source": "미 재무부 OFAC",
+        "kind": "official",
+        "event_key": "us-cuba-eight-entities-two-individuals-sector-determination-20261105",
+        "why": "쿠바의 제조·기술·전자·해운 분야를 제재 대상으로 지정할 권한을 넓히고 군수 공급·에너지 운송망에 실제 제재를 가했다.",
+        "angle": "새 분야 지정 권한과 이번 개별 대상 제재를 두 칸으로 나눠 설명한다.",
+        "why_now": "OFAC 공개 기록의 조치일은 11월5일(일 단위). 국무부 발표 전재는 6일03:52 KST에 공개됐으며 제재 결정의 분 단위 시각은 미확인.",
+        "verified_at": 1793969949,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://ofac.treasury.gov/recent-actions/20261105",
+            "note": "공식 11월5일 기록에서 쿠바 관련 결정 공표와 CUBA-EO14404 프로그램의 단체·개인·선박 항목 변경 확인."
+          },
+          {
+            "url": "https://www.miragenews.com/us-sanctions-cuban-regimes-military-support-1772799/",
+            "note": "국무부 발표 전문 전재: 8개 단체·2명 지정, 선박 5척 동결 자산 식별. 제조·기술·전자·해운 분야 지정 권한과 인도적 거래 허용 명시."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://ofac.treasury.gov/recent-actions/20261105",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "모든 사업자에게 자동 제재가 내려진 것은 아니다. 선박 5척 모두 신규 제재라는 뜻도 아니다. 군사 지원·억압 관련 사유는 미국 정부의 설명이다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "OFAC 11월5일 기록에서 쿠바 관련 결정과 SDN 변경을 확인했다. 국무부 발표 전재는 8개 단체·2명 지정 및 선박 5척의 동결 자산 식별, 4개 분야의 제재 지정 권한을 설명한다.",
+          "checked_materials": [],
+          "outline": [
+            "실제 지정된 8개 단체·2명과 선박 5척 식별을 요약",
+            "4개 분야 대상 지정 권한과 모든 사업자 자동 제재의 차이 명시"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://ofac.treasury.gov/recent-actions/20261105"
+          }
+        ],
+        "excerpt": "",
+        "context": "OFAC 공개 기록의 조치일은 11월5일(일 단위). 국무부 발표 전재는 6일03:52 KST에 공개됐으며 제재 결정의 분 단위 시각은 미확인.",
+        "fetched_at": 1793970236,
+        "parser_revision": 7
+      },
+      "curation_event_key": "us-cuba-eight-entities-two-individuals-sector-determination-20261105"
+    },
+    "4188f157c212": {
+      "source": "Reuters / Times of Israel",
+      "title": "트럼프·카타르 군주 통화…이란 위기 중재·호르무즈 항행 논의",
+      "link": "https://www.timesofisrael.com/liveblog_entry/trump-qatars-emir-discuss-efforts-to-reach-deal-ending-regional-crisis/",
+      "first_seen_at": 1793970236,
+      "last_seen_at": 1793970236,
+      "samples": [
+        {
+          "at": 1793970236,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "4188f157c212",
+      "editorial": {
+        "title": "트럼프·카타르 군주 통화…이란 위기 중재·호르무즈 항행 논의",
+        "category": "시사",
+        "url": "https://www.timesofisrael.com/liveblog_entry/trump-qatars-emir-discuss-efforts-to-reach-deal-ending-regional-crisis/",
+        "source": "Reuters / Times of Israel",
+        "kind": "article",
+        "event_key": "trump-qatar-emir-phonecall-deescalation-hormuz-20261106",
+        "why": "전쟁 재개 우려 속에 미국 대통령과 중재국 정상이 직접 협의했다. 전날 익명 핵 제안 보도와 다른 새 당사자 간 외교 접촉이다.",
+        "angle": "두 정상의 실제 통화와 카타르가 밝힌 의제를 제시하고 합의 성립 여부는 분리한다.",
+        "why_now": "카타르가 11월6일 통화를 공개했다. Reuters 전재 최초 공개 6일17:05:03 KST, 수정 17:19:58. 전날 핵 제안 보도와 다른 후속이다.",
+        "verified_at": 1793969920,
+        "published_at": 1793952303,
+        "evidence": [
+          {
+            "url": "https://www.timesofisrael.com/liveblog_entry/trump-qatars-emir-discuss-efforts-to-reach-deal-ending-regional-crisis/",
+            "note": "카타르 성명에 근거한 Reuters 본문: 통화에서 중재 노력·긴장 완화·호르무즈 항행 자유·에너지 공급 논의."
+          },
+          {
+            "url": "https://www.qna.org.qa/en/qatar",
+            "note": "QNA 공식 Qatar 뉴스 목록에 11월6일 트럼프에게서 전화를 받았다는 당일 기사와 요약 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.timesofisrael.com/liveblog_entry/trump-qatars-emir-discuss-efforts-to-reach-deal-ending-regional-crisis/",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "카타르 측 발표로 확인한 통화 내용이다. 휴전·핵 합의·해협 정상화가 확정됐다는 뜻은 아니다. 실제 통화 음성이나 영상은 확인하지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-06",
+          "observation": "Reuters 전재 본문은 카타르 성명을 근거로 긴장 완화·포괄 합의 중재·호르무즈 항행 및 에너지 공급 논의를 전했다. QNA 공식 목록도 당일 통화 사실을 확인한다.",
+          "checked_materials": [],
+          "outline": [
+            "미국·카타르 정상 통화가 공개된 사실 제시",
+            "중재·항행 의제와 구체적 합의 부재를 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://www.timesofisrael.com/liveblog_entry/trump-qatars-emir-discuss-efforts-to-reach-deal-ending-regional-crisis/"
+          }
+        ],
+        "excerpt": "",
+        "context": "카타르가 11월6일 통화를 공개했다. Reuters 전재 최초 공개 6일17:05:03 KST, 수정 17:19:58. 전날 핵 제안 보도와 다른 후속이다.",
+        "fetched_at": 1793970236,
+        "parser_revision": 7
+      },
+      "curation_event_key": "trump-qatar-emir-phonecall-deescalation-hormuz-20261106"
     },
     "ddb6e9f0a34b": {
       "source": "잉글랜드 축구협회",
@@ -31908,5 +32286,5 @@
       "curation_event_key": "pyeongtaek-infant-neglect-father-arrest-preliminary-autopsy-20261030"
     }
   },
-  "updated_at": 1793963483
+  "updated_at": 1793970236
 }
