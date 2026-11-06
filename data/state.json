@@ -1,5 +1,5 @@
 {
-  "updated_at": 1793923628,
+  "updated_at": 1793931117,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026110600",
+    "hour_utc": "2026110602",
     "category_counts": {
-      "시사": 3,
-      "축구": 2,
-      "메이저 스포츠": 0,
+      "시사": 2,
+      "축구": 1,
+      "메이저 스포츠": 2,
       "아이돌": 0
     },
-    "research_queries": 20,
-    "opened_sources": 11,
+    "research_queries": 16,
+    "opened_sources": 8,
     "picks": [
       {
-        "title": "교체 선수들이 3골…본머스, 첫 유럽대항전서 4연승",
-        "url": "https://www.skysports.com/football/sparta-prague-vs-bournemouth/report/577809",
-        "event_key": "bournemouth-sparta-prague-three-substitutes-goals-four-europa-wins-20261105"
+        "title": "조규성·홍현석의 미트윌란, 아약스에 1대6…퇴장 뒤 후반 5실점",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833332",
+        "event_key": "midtjylland-ajax-six-one-red-card-five-second-half-goals-20261105"
       },
       {
-        "title": "캘리포니아 사형수 전원 감형 방침…548명에 가석방 없는 종신형 추진",
-        "url": "https://www.gov.ca.gov/2026/11/05/governor-newsom-releases-letter-to-california-on-the-death-penalty/",
-        "event_key": "newsom-plans-all-california-death-sentences-life-without-parole-20261105"
+        "title": "코스피 8%대 급락에 20분 거래 중단…1단계 서킷브레이커",
+        "url": "https://www.newspim.com/news/view/20261106000220",
+        "event_key": "kospi-stage-one-circuit-breaker-twenty-minute-trading-halt-20261106"
       },
       {
-        "title": "프랑스 고물가 총파업…정부 집계 57만5천 명, 곳곳 충돌",
-        "url": "https://www.channelnewsasia.com/world/france-workers-strike-wage-protest-police-macron-6529011",
-        "event_key": "france-nationwide-cost-of-living-strike-575000-revised-turnout-20261105"
+        "title": "서울 삼성, 11경기 만에 10승…KBL 역대 최단 타이",
+        "url": "https://sports.khan.co.kr/article/202611060015003",
+        "event_key": "seoul-samsung-ten-wins-eleven-games-kbl-fastest-tie-20261105"
       },
       {
-        "title": "벌금으로 안 끝난 심판 비판…릴 회장, 항소심서 실효 4개월 정지",
-        "url": "https://information.tv5monde.com/sport/foot-le-president-de-lille-olivier-letang-suspendu-quatre-mois-ferme-2844652",
-        "event_key": "lille-olivier-letang-fff-appeal-four-month-effective-suspension-20261105"
+        "title": "구글, 와이오밍 첫 데이터센터에 170억 달러 투자 발표",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
+        "event_key": "google-wyoming-first-data-center-seventeen-billion-investment-20261105"
       },
       {
-        "title": "캐나다, 대미 의존 줄일 새 예산안…6년간 4천억 캐나다달러 자본투자",
-        "url": "https://www.canada.ca/en/department-finance/news/2026/11/government-of-canada-releases-budget-2026-masters-of-our-destiny.html",
-        "event_key": "canada-budget-2026-four-hundred-billion-capital-investment-sovereignty-20261105"
+        "title": "올림픽 은메달 2개 더보, 자전거 사고로 쇄골 골절…초반 월드컵 불참",
+        "url": "https://www.schaatsen.nl/nieuws/jenning-de-boo-mist-eerste-world-cups-door-gebroken-sleutelbeen/",
+        "event_key": "jenning-de-boo-cycling-collarbone-surgery-world-cups-withdrawal-20261104"
       }
     ]
   }

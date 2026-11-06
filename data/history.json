@@ -1,6 +1,451 @@
 {
   "version": 1,
   "items": {
+    "a49a0db0668e": {
+      "source": "스포츠경향",
+      "title": "서울 삼성, 11경기 만에 10승…KBL 역대 최단 타이",
+      "link": "https://sports.khan.co.kr/article/202611060015003",
+      "first_seen_at": 1793923627,
+      "last_seen_at": 1793931116,
+      "samples": [
+        {
+          "at": 1793923627,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        },
+        {
+          "at": 1793931116,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "a49a0db0668e",
+      "editorial": {
+        "title": "서울 삼성, 11경기 만에 10승…KBL 역대 최단 타이",
+        "category": "메이저 스포츠",
+        "url": "https://sports.khan.co.kr/article/202611060015003",
+        "source": "스포츠경향",
+        "kind": "article",
+        "event_key": "seoul-samsung-ten-wins-eleven-games-kbl-fastest-tie-20261105",
+        "why": "개막 돌풍이 첫 패배 뒤에도 이어지며 KBL 역대 최단 10승 기록에 도달했다.",
+        "angle": "첫 패배 다음 경기, 이관희가 4쿼터 12점으로 최단 10승 완성",
+        "why_now": "경기는11월5일 울산. 원문 최초6일00:15 KST. 과거 발송한10월30일 개막9연승과 다른 새 경기·10승 도달 사실.",
+        "verified_at": 1793930746,
+        "published_at": 1793891700,
+        "evidence": [
+          {
+            "url": "https://sports.khan.co.kr/article/202611060015003",
+            "note": "기사 본문에서 경기일·결과·최단 타이7번째와 이관희의4쿼터12점 확인. 영상 미시청."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://sports.khan.co.kr/article/202611060015003",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "최단 단독 신기록이 아닌 타이, 역대7번째 사례다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "삼성81대76 승리,10승1패. 11경기10승은 역대 타이7번째, 이관희4쿼터12점·총14점, 칸터32점12리바운드를 기사 본문에서 확인.",
+          "checked_materials": [],
+          "outline": [
+            "첫 패배 직후 81대76 승리로10승1패",
+            "11경기10승 타이와 이관희4쿼터12점 설명"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://sports.khan.co.kr/article/202611060015003"
+          }
+        ],
+        "excerpt": "",
+        "context": "경기는11월5일 울산. 원문 최초6일00:15 KST. 과거 발송한10월30일 개막9연승과 다른 새 경기·10승 도달 사실.",
+        "fetched_at": 1793931116,
+        "parser_revision": 7
+      },
+      "curation_event_key": "seoul-samsung-ten-wins-eleven-games-kbl-fastest-tie-20261105"
+    },
+    "de87aa556e1e": {
+      "source": "SBS",
+      "title": "조규성·홍현석의 미트윌란, 아약스에 1대6…퇴장 뒤 후반 5실점",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833332",
+      "first_seen_at": 1793931116,
+      "last_seen_at": 1793931116,
+      "samples": [
+        {
+          "at": 1793931116,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "de87aa556e1e",
+      "editorial": {
+        "title": "조규성·홍현석의 미트윌란, 아약스에 1대6…퇴장 뒤 후반 5실점",
+        "category": "축구",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833332",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "midtjylland-ajax-six-one-red-card-five-second-half-goals-20261105",
+        "why": "한국 대표팀 공격수들이 뛴 유럽대항전에서 대패하며 3경기 무승에 빠졌다.",
+        "angle": "1대1에서 퇴장, 후반에만 5실점…미트윌란에 무슨 일이 있었나",
+        "why_now": "경기는 현지 11월5일·KST6일. SBS 최초 입력 6일08:37:50 KST. 새 경기 결과이며 직전 회차 미발송.",
+        "verified_at": 1793930907,
+        "published_at": 1793921870,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833332",
+            "note": "본문에서 1대6, 전반43분 경고누적 퇴장, 후반5실점과 한국 선수 출전 사실 확인. 경기 영상은 보지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833332",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "기사 본문 확인. 영상 미시청이며 대회 탈락이 확정된 것은 아니다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "조규성 선발·하프타임 교체, 홍현석 후반23분 투입. 전반43분 경고누적 퇴장 뒤 후반5실점, 1무2패를 본문에서 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "1대1→전반43분 퇴장→후반5실점 흐름",
+            "조규성·홍현석 출전과 리그 페이즈 1무2패를 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833332"
+          }
+        ],
+        "excerpt": "",
+        "context": "경기는 현지 11월5일·KST6일. SBS 최초 입력 6일08:37:50 KST. 새 경기 결과이며 직전 회차 미발송.",
+        "fetched_at": 1793931116,
+        "parser_revision": 7
+      },
+      "curation_event_key": "midtjylland-ajax-six-one-red-card-five-second-half-goals-20261105"
+    },
+    "819140167f84": {
+      "source": "뉴스핌·머니투데이",
+      "title": "코스피 8%대 급락에 20분 거래 중단…1단계 서킷브레이커",
+      "link": "https://www.newspim.com/news/view/20261106000220",
+      "first_seen_at": 1793931116,
+      "last_seen_at": 1793931116,
+      "samples": [
+        {
+          "at": 1793931116,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "819140167f84",
+      "editorial": {
+        "title": "코스피 8%대 급락에 20분 거래 중단…1단계 서킷브레이커",
+        "category": "시사",
+        "url": "https://www.newspim.com/news/view/20261106000220",
+        "source": "뉴스핌·머니투데이",
+        "kind": "article",
+        "event_key": "kospi-stage-one-circuit-breaker-twenty-minute-trading-halt-20261106",
+        "why": "국내 주식시장 거래 자체가 멈춘 사건으로 투자자와 시장 전반에 직접 영향을 줬다.",
+        "angle": "매도 주문만 멈춘 사이드카를 넘어, 시장 거래가 20분 멈췄다",
+        "why_now": "11월6일09:03 KST 발동. 뉴스핌 최초09:05, 09:15수정. 09:23 해제 보도도 확인. 전날 사이드카·미 증시 종가와 다른 국내 새 조치.",
+        "verified_at": 1793930745,
+        "published_at": 1793923500,
+        "evidence": [
+          {
+            "url": "https://www.newspim.com/news/view/20261106000220",
+            "note": "거래소 발표를 인용한 기사 본문에서 1단계 서킷브레이커와20분 중단 확인."
+          },
+          {
+            "url": "https://www.mt.co.kr/stock/2026/11/06/2026110609060860921",
+            "note": "09:24 최초 보도에서09:23 해제와10분 단일가 매매 재개 확인. 현재도 거래 중단 상태라고 쓰지 않는다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.newspim.com/news/view/20261106000220",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "거래는 재개됐다. 장중 수치이며 종가·투자 전망으로 쓰지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-06",
+          "observation": "뉴스핌 본문에서09:03:33 발동·현물 및 선물20분 중단 확인. 머니투데이09:24 보도에서09:23 해제와10분 단일가 재개 확인.",
+          "checked_materials": [],
+          "outline": [
+            "서킷브레이커 1단계 발동과 20분 중단",
+            "09:23 해제·단일가 재개, 사이드카와 차이"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.newspim.com/news/view/20261106000220"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월6일09:03 KST 발동. 뉴스핌 최초09:05, 09:15수정. 09:23 해제 보도도 확인. 전날 사이드카·미 증시 종가와 다른 국내 새 조치.",
+        "fetched_at": 1793931116,
+        "parser_revision": 7
+      },
+      "curation_event_key": "kospi-stage-one-circuit-breaker-twenty-minute-trading-halt-20261106"
+    },
+    "4180f416c105": {
+      "source": "Google 공식 블로그",
+      "title": "구글, 와이오밍 첫 데이터센터에 170억 달러 투자 발표",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
+      "first_seen_at": 1793931116,
+      "last_seen_at": 1793931116,
+      "samples": [
+        {
+          "at": 1793931116,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "official",
+      "story_id": "4180f416c105",
+      "editorial": {
+        "title": "구글, 와이오밍 첫 데이터센터에 170억 달러 투자 발표",
+        "category": "시사",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
+        "source": "Google 공식 블로그",
+        "kind": "official",
+        "event_key": "google-wyoming-first-data-center-seventeen-billion-investment-20261105",
+        "why": "AI 인프라 투자와 전력·탄소·지역 비용을 둘러싼 대규모 산업 결정이다.",
+        "angle": "170억 달러 데이터센터, 전기·성장 인프라 비용은 구글이 부담한다고 밝혔다",
+        "why_now": "공식 발표 최초11월5일17:00 UTC(6일02:00 KST),17:19수정. 와이오밍 첫 센터 장기 투자 계획 공개.",
+        "verified_at": 1793930743,
+        "published_at": 1793898000,
+        "evidence": [
+          {
+            "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
+            "note": "공식 발표 본문 확인.702MW는 계획된 연료전지 발전 규모이며, 천연가스를 사용한다. 회사의 환경·지역 효과 주장은 검증된 실적으로 바꾸지 않는다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "회사 발표·계획이다. 완공·제로배출·가동일 확정으로 표현하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "공식 본문에서 장기170억 달러 투자, 전력100% 및 성장 유발 인프라 비용 부담 약속,702MW 연료전지·탄소포집 계획과 공랭식 설계를 확인.",
+          "checked_materials": [],
+          "outline": [
+            "170억 달러 장기 투자와 첫 와이오밍 센터",
+            "전력비·인프라 비용 부담 약속과702MW 계획의 한계"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/"
+          }
+        ],
+        "excerpt": "",
+        "context": "공식 발표 최초11월5일17:00 UTC(6일02:00 KST),17:19수정. 와이오밍 첫 센터 장기 투자 계획 공개.",
+        "fetched_at": 1793931116,
+        "parser_revision": 7
+      },
+      "curation_event_key": "google-wyoming-first-data-center-seventeen-billion-investment-20261105"
+    },
+    "d59b5753d45b": {
+      "source": "Schaatsen.nl·WielerFlits",
+      "title": "올림픽 은메달 2개 더보, 자전거 사고로 쇄골 골절…초반 월드컵 불참",
+      "link": "https://www.schaatsen.nl/nieuws/jenning-de-boo-mist-eerste-world-cups-door-gebroken-sleutelbeen/",
+      "first_seen_at": 1793931116,
+      "last_seen_at": 1793931116,
+      "samples": [
+        {
+          "at": 1793931116,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "d59b5753d45b",
+      "editorial": {
+        "title": "올림픽 은메달 2개 더보, 자전거 사고로 쇄골 골절…초반 월드컵 불참",
+        "category": "메이저 스포츠",
+        "url": "https://www.schaatsen.nl/nieuws/jenning-de-boo-mist-eerste-world-cups-door-gebroken-sleutelbeen/",
+        "source": "Schaatsen.nl·WielerFlits",
+        "kind": "article",
+        "event_key": "jenning-de-boo-cycling-collarbone-surgery-world-cups-withdrawal-20261104",
+        "why": "올림픽500·1000m 은메달리스트의 부상으로 국제 빙속 초반 판도에 공백이 생겼다.",
+        "angle": "빙판 시즌 앞두고 자전거를 타다 골절, 수술 후 첫 월드컵들을 건너뛴다",
+        "why_now": "사고는11월4일 현지 아침, 수술·불참 발표는5일. 원문5일 공개는 확인했으나 최초 시각·시간대는 확정 못해 일 단위로 표기.",
+        "verified_at": 1793930888,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.schaatsen.nl/nieuws/jenning-de-boo-mist-eerste-world-cups-door-gebroken-sleutelbeen/",
+            "note": "본문에서 부상과 초반 월드컵 불참을 확인했다. 본인 Instagram을 인용한 기사이며 직접 게시물·영상 확인은 하지 않았다."
+          },
+          {
+            "url": "https://www.wielerflits.nl/nieuws/schaatser-jenning-de-boo-loopt-typische-wielerblessure-op-bij-val-van-fiets/",
+            "note": "본문에서 올림픽500·1000m 은메달과 본인 발표 인용 확인. 기사 메타데이터와 표시 시간대 차이로 최초 공개 시각은 단정하지 않는다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.schaatsen.nl/nieuws/jenning-de-boo-mist-eerste-world-cups-door-gebroken-sleutelbeen/",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "복귀일·대체 선수는 확정하지 않는다. 본인 SNS·영상은 직접 보지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-04",
+          "observation": "네덜란드 빙속 전문 원문에서 수요일 아침 자전거 사고·쇄골 골절·수술·초반 월드컵 불참 확인. 독립 보도에서500·1000m 올림픽 은메달 확인.",
+          "checked_materials": [],
+          "outline": [
+            "11월4일 사고→5일 수술·불참 공개",
+            "초반 월드컵 결장 영향, 복귀 일정은 미정"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.schaatsen.nl/nieuws/jenning-de-boo-mist-eerste-world-cups-door-gebroken-sleutelbeen/"
+          }
+        ],
+        "excerpt": "",
+        "context": "사고는11월4일 현지 아침, 수술·불참 발표는5일. 원문5일 공개는 확인했으나 최초 시각·시간대는 확정 못해 일 단위로 표기.",
+        "fetched_at": 1793931116,
+        "parser_revision": 7
+      },
+      "curation_event_key": "jenning-de-boo-cycling-collarbone-surgery-world-cups-withdrawal-20261104"
+    },
+    "443a441a5d1f": {
+      "source": "Sky Sports",
+      "title": "셀틱, 교체 선수들이 3골…베식타시 꺾고 유로파 첫 승",
+      "link": "https://www.skysports.com/football/news/13607043/celtic-3-2-besiktas-camilo-duran-and-callum-osmand-come-off-bench-to-inspire-hoops-to-first-europa-league-win",
+      "first_seen_at": 1793931116,
+      "last_seen_at": 1793931116,
+      "samples": [
+        {
+          "at": 1793931116,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "443a441a5d1f",
+      "editorial": {
+        "title": "셀틱, 교체 선수들이 3골…베식타시 꺾고 유로파 첫 승",
+        "category": "축구",
+        "url": "https://www.skysports.com/football/news/13607043/celtic-3-2-besiktas-camilo-duran-and-callum-osmand-come-off-bench-to-inspire-hoops-to-first-europa-league-win",
+        "source": "Sky Sports",
+        "kind": "article",
+        "event_key": "celtic-besiktas-three-substitute-goals-first-europa-win-20261105",
+        "why": "3연패로 몰린 셀틱이 교체 카드로 유로파 생존 경쟁의 첫 승점을 얻었다.",
+        "angle": "첫 터치 동점골, 동점 허용 2분 뒤 결승골…교체가 만든 첫 승",
+        "why_now": "경기11월5일 영국. 기사 메타 최초22:00 UTC,23:14갱신. SBS6일08:37 KST 보도도3연패 뒤 첫 승 확인.",
+        "verified_at": 1793930929,
+        "published_at": 1793916000,
+        "evidence": [
+          {
+            "url": "https://www.skysports.com/football/news/13607043/celtic-3-2-besiktas-camilo-duran-and-callum-osmand-come-off-bench-to-inspire-hoops-to-first-europa-league-win",
+            "note": "Sky 경기 기사 본문에서 교체 선수3골과 마지막 반전 확인. 상세 분 표시는 매체차 있어 본문 근거87분을 사용."
+          },
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833332",
+            "note": "SBS 본문에서 셀틱3연패 뒤 첫 승·1승3패, 베식타스 첫 패배 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.skysports.com/football/news/13607043/celtic-3-2-besiktas-camilo-duran-and-callum-osmand-come-off-bench-to-inspire-hoops-to-first-europa-league-win",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "본문 사실 카드다. 경기 영상 미시청이며 진출 확정이 아니다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "Sky 본문에서 오스만드 투입 직후 동점골·두란2골,85분 동점 허용 뒤87분 결승골과3대2 승리 확인. SBS도 셀틱1승3패 확인.",
+          "checked_materials": [],
+          "outline": [
+            "교체 오스만드 첫 터치 동점골·두란 역전골",
+            "85분 동점→87분 결승골과 첫 승의 의미"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.skysports.com/football/news/13607043/celtic-3-2-besiktas-camilo-duran-and-callum-osmand-come-off-bench-to-inspire-hoops-to-first-europa-league-win"
+          }
+        ],
+        "excerpt": "",
+        "context": "경기11월5일 영국. 기사 메타 최초22:00 UTC,23:14갱신. SBS6일08:37 KST 보도도3연패 뒤 첫 승 확인.",
+        "fetched_at": 1793931116,
+        "parser_revision": 7
+      },
+      "curation_event_key": "celtic-besiktas-three-substitute-goals-first-europa-win-20261105"
+    },
     "29259c445d49": {
       "source": "TV5MONDE·AFP",
       "title": "벌금으로 안 끝난 심판 비판…릴 회장, 항소심서 실효 4개월 정지",
@@ -366,77 +811,6 @@
         "parser_revision": 7
       },
       "curation_event_key": "canada-budget-2026-four-hundred-billion-capital-investment-sovereignty-20261105"
-    },
-    "a49a0db0668e": {
-      "source": "스포츠경향",
-      "title": "서울 삼성, 11경기 만에 10승…KBL 역대 최단 타이·원정 7연승",
-      "link": "https://sports.khan.co.kr/article/202611060015003",
-      "first_seen_at": 1793923627,
-      "last_seen_at": 1793923627,
-      "samples": [
-        {
-          "at": 1793923627,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "a49a0db0668e",
-      "editorial": {
-        "title": "서울 삼성, 11경기 만에 10승…KBL 역대 최단 타이·원정 7연승",
-        "category": "메이저 스포츠",
-        "url": "https://sports.khan.co.kr/article/202611060015003",
-        "source": "스포츠경향",
-        "kind": "article",
-        "event_key": "seoul-samsung-ten-wins-eleven-games-kbl-fastest-tie-20261105",
-        "why": "개막9연승이 끊긴 직후 다시 이겨 KBL 역대 최단10승과 구단 원정 연승 타이를 세운 선두 경쟁의 새 결과다.",
-        "angle": "9연승 끝났다고 꺾이지 않았다…삼성, 최단10승 타이.",
-        "why_now": "경기는11월5일 울산, 읽은 기사 최초 게시6일00:15 KST다.10월에 발송한 개막9연승과 다른 경기·새 기록이다.",
-        "verified_at": 1793923408,
-        "published_at": 1793891700,
-        "evidence": [
-          {
-            "url": "https://sports.khan.co.kr/article/202611060015003",
-            "note": "본문에서 삼성의 현대모비스전81-76, 시즌10승1패, 11경기10승은역대7번째최단타이, 구단원정7연승타이를 확인했다. 이관희는4쿼터에12점을 넣었다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://sports.khan.co.kr/article/202611060015003",
-            "label": "원문 기사",
-            "kind": "source"
-          }
-        ],
-        "caution": "역대 단독 신기록이 아닌 타이기록이다. 우승 확정이나 시즌 내내 연승 중이라는 뜻은 아니다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-05",
-          "observation": "본문에서 삼성의 현대모비스전81-76, 시즌10승1패, 11경기10승은역대7번째최단타이, 구단원정7연승타이를 확인했다. 이관희는4쿼터에12점을 넣었다.",
-          "checked_materials": [],
-          "outline": [
-            "직전 첫패 뒤 다시 이긴 삼성의10승1패",
-            "최단10승 타이와4쿼터 이관희12점"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "원문 기사",
-            "url": "https://sports.khan.co.kr/article/202611060015003"
-          }
-        ],
-        "excerpt": "",
-        "context": "경기는11월5일 울산, 읽은 기사 최초 게시6일00:15 KST다.10월에 발송한 개막9연승과 다른 경기·새 기록이다.",
-        "fetched_at": 1793923627,
-        "parser_revision": 7
-      },
-      "curation_event_key": "seoul-samsung-ten-wins-eleven-games-kbl-fastest-tie-20261105"
     },
     "190de42618d2": {
       "source": "LIV Golf",
@@ -30253,777 +30627,7 @@
         "parser_revision": 7
       },
       "curation_event_key": "hongseong-autistic-child-girlfriend-daughter-abuse-conviction-20261030"
-    },
-    "c956950d2fab": {
-      "source": "조선비즈",
-      "title": "400명 희망퇴직,퇴직 이틀 앞두고 취소…밀린 월급75%도 지급 미정",
-      "link": "https://prod.biz.chosun.com/distribution/channel/2026/10/29/VD7LNAEEORCAFNRGC2KDTXDRPU/",
-      "first_seen_at": 1793326273,
-      "last_seen_at": 1793326273,
-      "samples": [
-        {
-          "at": 1793326273,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "c956950d2fab",
-      "editorial": {
-        "title": "400명 희망퇴직,퇴직 이틀 앞두고 취소…밀린 월급75%도 지급 미정",
-        "category": "시사",
-        "url": "https://prod.biz.chosun.com/distribution/channel/2026/10/29/VD7LNAEEORCAFNRGC2KDTXDRPU/",
-        "source": "조선비즈",
-        "kind": "article",
-        "event_key": "homeplus-voluntary-retirement-cancellation-wage75-delay-20261029",
-        "why": "위로금 없이도400명이 몰린 희망퇴직이 취소되고 재직자의 체불금 지급도 미뤄진 이중 반전이다.",
-        "angle": "떠나는 직원의 정산도,남은 직원의 월급도 못 주는 상황",
-        "why_now": "10/29 오후 새 취소 공지.원문 메타16:02:48 KST·검색 본문16:16 기재가 달라 분 단위 최초 공개 미확정.두 시각 모두24시간 이내.31일 퇴직·30일 체불금 지급 번복.",
-        "verified_at": 1793325851,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://prod.biz.chosun.com/distribution/channel/2026/10/29/VD7LNAEEORCAFNRGC2KDTXDRPU/",
-            "note": "원취재와 한국경제·파이낸셜뉴스 본문에서 희망퇴직 취소·고용관계 유지·8월 급여75% 지급 연기를 대조했다.신청400여명은 추산이며 일반 사직을 금지했다는 의미가 아니다."
-          },
-          {
-            "url": "https://www.hankyung.com/article/2026102944857",
-            "note": "퇴직 절차 취소 뒤 고용관계 유지와 체불급여 잔여75% 지급 연기를 독립 보도에서 대조."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://prod.biz.chosun.com/distribution/channel/2026/10/29/VD7LNAEEORCAFNRGC2KDTXDRPU/",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "일반 사직 금지 아님.청산·전 점포 단전 확정으로 확대 금지.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-29",
-          "observation": "원취재와 한국경제·파이낸셜뉴스 본문에서 희망퇴직 취소·고용관계 유지·8월 급여75% 지급 연기를 대조했다.신청400여명은 추산이며 일반 사직을 금지했다는 의미가 아니다.",
-          "checked_materials": [],
-          "outline": [
-            "위로금 없는 희망퇴직에400여명 신청한 배경",
-            "31일 퇴직 예정이29일 취소된 과정",
-            "급여 잔여75% 새 지급일도 미정이라는 실제 손익"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://prod.biz.chosun.com/distribution/channel/2026/10/29/VD7LNAEEORCAFNRGC2KDTXDRPU/"
-          }
-        ],
-        "excerpt": "",
-        "context": "10/29 오후 새 취소 공지.원문 메타16:02:48 KST·검색 본문16:16 기재가 달라 분 단위 최초 공개 미확정.두 시각 모두24시간 이내.31일 퇴직·30일 체불금 지급 번복.",
-        "fetched_at": 1793326273,
-        "parser_revision": 7
-      },
-      "curation_event_key": "homeplus-voluntary-retirement-cancellation-wage75-delay-20261029"
-    },
-    "79f452ca6c8a": {
-      "source": "후지에다MYFC 공식",
-      "title": "“오심 맞다” 인정한 날,항의 감독은2경기 정지·벌금10만엔",
-      "link": "https://myfc.co.jp/news/20261029/1193009/",
-      "first_seen_at": 1793326273,
-      "last_seen_at": 1793326273,
-      "samples": [
-        {
-          "at": 1793326273,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "79f452ca6c8a",
-      "editorial": {
-        "title": "“오심 맞다” 인정한 날,항의 감독은2경기 정지·벌금10만엔",
-        "category": "축구",
-        "url": "https://myfc.co.jp/news/20261029/1193009/",
-        "source": "후지에다MYFC 공식",
-        "kind": "article",
-        "event_key": "fujieda-makino-two-game-ban-jfa-handball-error-acknowledgment-20261029",
-        "why": "문제 삼은 판정은 오심으로 인정됐는데 항의 방식으로 감독이 징계받는 엇갈린 결론이 선명하다.",
-        "angle": "판정 비판은 맞았는데 징계는 감독에게 간 이유",
-        "why_now": "경기는10/24.새 사건은10/29 징계 발표·심판위원장 오심 인정.구단 공지는 날짜 정밀도,리그 명단은19:40 KST 공개.",
-        "verified_at": 1793325876,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://myfc.co.jp/news/20261029/1193009/",
-            "note": "후지에다 공식 공지에서2경기 벤치 정지·10만엔·공개 인터뷰 반복 비판을 가중 사유로 확인했다.공동통신 현장 취재는 같은 날 JFA 위원장의 핸드볼 오심 인정을 전한다.경기 영상은 미시청."
-          },
-          {
-            "url": "https://www.kumanichi.com/articles/2052112",
-            "note": "공동통신의10/29 브리핑 취재에서 JFA 심판위원장의 판정 오류 인정을 확인."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://myfc.co.jp/news/20261029/1193009/",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "오심 인정이 경기 결과 취소·징계 철회라는 뜻 아님.영상 미시청.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-29",
-          "observation": "후지에다 공식 공지에서2경기 벤치 정지·10만엔·공개 인터뷰 반복 비판을 가중 사유로 확인했다.공동통신 현장 취재는 같은 날 JFA 위원장의 핸드볼 오심 인정을 전한다.경기 영상은 미시청.",
-          "checked_materials": [],
-          "outline": [
-            "10/24 핸드볼 미선언에 대한 감독 비판 소개",
-            "10/29 JFA의 오심 인정과 별개인 항의 방식 징계 구별",
-            "1경기 기본에 공개 비판 가중1경기·벌금 결과 제시"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://myfc.co.jp/news/20261029/1193009/"
-          }
-        ],
-        "excerpt": "",
-        "context": "경기는10/24.새 사건은10/29 징계 발표·심판위원장 오심 인정.구단 공지는 날짜 정밀도,리그 명단은19:40 KST 공개.",
-        "fetched_at": 1793326273,
-        "parser_revision": 7
-      },
-      "curation_event_key": "fujieda-makino-two-game-ban-jfa-handball-error-acknowledgment-20261029"
-    },
-    "c4c893970e96": {
-      "source": "뉴시스·파이낸셜뉴스",
-      "title": "사기 피의자 체포한 곳이 여경 집…집주인·검거 경찰까지 감찰",
-      "link": "https://www.fnnews.com/news/202610291705156648",
-      "first_seen_at": 1793326273,
-      "last_seen_at": 1793326273,
-      "samples": [
-        {
-          "at": 1793326273,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "c4c893970e96",
-      "editorial": {
-        "title": "사기 피의자 체포한 곳이 여경 집…집주인·검거 경찰까지 감찰",
-        "category": "시사",
-        "url": "https://www.fnnews.com/news/202610291705156648",
-        "source": "뉴시스·파이낸셜뉴스",
-        "kind": "article",
-        "event_key": "yeongdeok-police-officer-boyfriend-concealment-inspection-20261029",
-        "why": "체포영장 피의자가 현직 경찰 집에 있었고 그 경찰뿐 아니라 검거팀 대응까지 조사한다는 역전이다.",
-        "angle": "범인을 잡은 장소 때문에 경찰 두 쪽이 조사받는다",
-        "why_now": "체포는지난7월.새 공개는10/29 17:05 뉴시스 단독 감찰 취재.30일 재기사·수집 시각을 최초 공개로 바꾸지 않았다.",
-        "verified_at": 1793325725,
-        "published_at": 1793261117,
-        "evidence": [
-          {
-            "url": "https://www.fnnews.com/news/202610291705156648",
-            "note": "뉴시스 원취재 본문에서 여경 자택의 남자친구 체포·임시 부서 이동·검거 수사관 대응 감찰을 확인했다.인지·은닉은 조사 중인 의혹이며 여경은 범행을 몰랐다고 해명했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.fnnews.com/news/202610291705156648",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "여경의 은닉·공범 확정 아님.체포는7월,새 공개는 감찰 취재.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-29",
-          "observation": "뉴시스 원취재 본문에서 여경 자택의 남자친구 체포·임시 부서 이동·검거 수사관 대응 감찰을 확인했다.인지·은닉은 조사 중인 의혹이며 여경은 범행을 몰랐다고 해명했다.",
-          "checked_materials": [],
-          "outline": [
-            "지난7월 체포 장소와 집주인의 경찰 신분 제시",
-            "은닉 인지 여부와 검거팀의 적절한 조치 여부를 구분",
-            "피의자 재판과 여경 감찰·해명을 각각 정리"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.fnnews.com/news/202610291705156648"
-          }
-        ],
-        "excerpt": "",
-        "context": "체포는지난7월.새 공개는10/29 17:05 뉴시스 단독 감찰 취재.30일 재기사·수집 시각을 최초 공개로 바꾸지 않았다.",
-        "fetched_at": 1793326273,
-        "parser_revision": 7
-      },
-      "curation_event_key": "yeongdeok-police-officer-boyfriend-concealment-inspection-20261029"
-    },
-    "ff12f3a8b92c": {
-      "source": "아파트관리신문",
-      "title": "소방서 말대로 일찍 보수했더니 과태료500만원…법원 “벌할 수 없다”",
-      "link": "https://www.aptn.co.kr/news/articleView.html?idxno=113096",
-      "first_seen_at": 1793326273,
-      "last_seen_at": 1793326273,
-      "samples": [
-        {
-          "at": 1793326273,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "ff12f3a8b92c",
-      "editorial": {
-        "title": "소방서 말대로 일찍 보수했더니 과태료500만원…법원 “벌할 수 없다”",
-        "category": "시사",
-        "url": "https://www.aptn.co.kr/news/articleView.html?idxno=113096",
-        "source": "아파트관리신문",
-        "kind": "article",
-        "event_key": "suwon-apartment-early-fire-repair-plan-fine-cancelled-20261030",
-        "why": "소방 명령을 따랐는데 수선계획보다 이르다는 이유로 과태료를 받은 모순과 취소 결론이 완결된다.",
-        "angle": "늦게 고친 것도 아닌데 벌금처럼 날아온500만원",
-        "why_now": "10/30 08:16 판결 취재 공개.명령2022/9/14·공사대금2022~23·과태료2024/7/17이며 항고심 결정일은 본문 미기재.",
-        "verified_at": 1793325725,
-        "published_at": 1793315760,
-        "evidence": [
-          {
-            "url": "https://www.aptn.co.kr/news/articleView.html?idxno=113096",
-            "note": "취재 본문에서 안산시500만원→1심 이의 후200만원→항고심 불처분 경과를 확인했다.예정2026년보다 먼저 수선했을 뿐,보수하지 않은 자를 처벌하는 규정을 확장할 수 없다는 판단이다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.aptn.co.kr/news/articleView.html?idxno=113096",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "형사 벌금 아닌 과태료.모든 장기수선계획 위반 면제 판결 아님.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-30",
-          "observation": "취재 본문에서 안산시500만원→1심 이의 후200만원→항고심 불처분 경과를 확인했다.예정2026년보다 먼저 수선했을 뿐,보수하지 않은 자를 처벌하는 규정을 확장할 수 없다는 판단이다.",
-          "checked_materials": [],
-          "outline": [
-            "소방서 명령에 따라 수선시기보다 먼저 공사한 배경",
-            "시500만원·법원200만원으로 이어진 과태료 경과",
-            "항고심이 계획보다 이른 보수를 처벌 대상에서 뺀 이유"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.aptn.co.kr/news/articleView.html?idxno=113096"
-          }
-        ],
-        "excerpt": "",
-        "context": "10/30 08:16 판결 취재 공개.명령2022/9/14·공사대금2022~23·과태료2024/7/17이며 항고심 결정일은 본문 미기재.",
-        "fetched_at": 1793326273,
-        "parser_revision": 7
-      },
-      "curation_event_key": "suwon-apartment-early-fire-repair-plan-fine-cancelled-20261030"
-    },
-    "471ba0b7b99c": {
-      "source": "엑스포츠뉴스·AFP",
-      "title": "친정팀 복귀 막으려 가족 협박…라이벌 극성팬7년6개월 선고",
-      "link": "https://www.xportsnews.com/article/2212998",
-      "first_seen_at": 1793326273,
-      "last_seen_at": 1793326273,
-      "samples": [
-        {
-          "at": 1793326273,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "471ba0b7b99c",
-      "editorial": {
-        "title": "친정팀 복귀 막으려 가족 협박…라이벌 극성팬7년6개월 선고",
-        "category": "축구",
-        "url": "https://www.xportsnews.com/article/2212998",
-        "source": "엑스포츠뉴스·AFP",
-        "kind": "article",
-        "event_key": "di-maria-family-threats-sergio-di-vanni-sentenced-20261028",
-        "why": "축구 라이벌 의식이 가족 협박으로 번졌다가 실형을 받은 구체적 행동과 결과가 있다.",
-        "angle": "선수 영입을 막겠다며 여동생 사무실에 둔 돼지머리",
-        "why_now": "범행2024년,새 선고는아르헨티나10/28.르파리지앵·AFP 원취재28일22:36 프랑스시간=29일06:36 KST 확인,48시간 이내.",
-        "verified_at": 1793325487,
-        "published_at": 1793223360,
-        "evidence": [
-          {
-            "url": "https://www.xportsnews.com/article/2212998",
-            "note": "한국 기사와 검색 도구로 확인한 르파리지앵·AFP 원문을 대조해 선고일·7년6개월·위협 수단을 확인했다.400만페소는 실행책 대가 약속에 관한 검찰 주장이다.법원 판결문·범행 영상은 미확인."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.xportsnews.com/article/2212998",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "실행책 대가 약속은 검찰 주장.가족 신상·잔혹 이미지 노출 절제.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-28",
-          "observation": "한국 기사와 검색 도구로 확인한 르파리지앵·AFP 원문을 대조해 선고일·7년6개월·위협 수단을 확인했다.400만페소는 실행책 대가 약속에 관한 검찰 주장이다.법원 판결문·범행 영상은 미확인.",
-          "checked_materials": [],
-          "outline": [
-            "로사리오 복귀를 막으려 가족을 겨냥한 위협 경위",
-            "총격과 여동생 사무실 돼지머리 협박을 필요한 범위만 설명",
-            "의뢰자 실형·실행책 별도 처벌·선수의 이후 복귀 구분"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.xportsnews.com/article/2212998"
-          }
-        ],
-        "excerpt": "",
-        "context": "범행2024년,새 선고는아르헨티나10/28.르파리지앵·AFP 원취재28일22:36 프랑스시간=29일06:36 KST 확인,48시간 이내.",
-        "fetched_at": 1793326273,
-        "parser_revision": 7
-      },
-      "curation_event_key": "di-maria-family-threats-sergio-di-vanni-sentenced-20261028"
-    },
-    "96900192da68": {
-      "source": "뉴시스",
-      "title": "시위 찍으러 대학 후문 들어간 유튜버,건물 안 안 갔어도 벌금50만원",
-      "link": "https://www.newsis.com/view/NISX20261030_0003847558",
-      "first_seen_at": 1793326273,
-      "last_seen_at": 1793326273,
-      "samples": [
-        {
-          "at": 1793326273,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "96900192da68",
-      "editorial": {
-        "title": "시위 찍으러 대학 후문 들어간 유튜버,건물 안 안 갔어도 벌금50만원",
-        "category": "시사",
-        "url": "https://www.newsis.com/view/NISX20261030_0003847558",
-        "source": "뉴시스",
-        "kind": "article",
-        "event_key": "dongduk-youtuber-restricted-campus-entry-fine-disclosed-20261030",
-        "why": "누구나 들어가는 대학이라는 인식과 출입 통제된 교정의 법적 경계,낮은 벌금 이유가 구체적이다.",
-        "angle": "촬영만 했고 건물 밖이었다는 사정은 어디까지 참작됐나",
-        "why_now": "10/30 08:16:36 법조 취재 최초 확인,08:20 수정과 구분.침입2024/11/14·1심 선고2026/10/14를 오늘 사건으로 쓰지 않음.",
-        "verified_at": 1793325487,
-        "published_at": 1793315796,
-        "evidence": [
-          {
-            "url": "https://www.newsis.com/view/NISX20261030_0003847558",
-            "note": "출입 통제 바리케이드·출입증 절차가 있던 학교 부지에 들어가 건조물침입이 성립한 취재를 확인했다.건물 내부 미진입·별도 범죄 목적 없음·초범은 양형 참작으로 구분했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.newsis.com/view/NISX20261030_0003847558",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "촬영 자체가 범죄라는 판결 아님.1심 선고이며 확정 여부 미확인.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-30",
-          "observation": "출입 통제 바리케이드·출입증 절차가 있던 학교 부지에 들어가 건조물침입이 성립한 취재를 확인했다.건물 내부 미진입·별도 범죄 목적 없음·초범은 양형 참작으로 구분했다.",
-          "checked_materials": [],
-          "outline": [
-            "시위 현장 촬영을 위해 통제된 후문으로 들어간 경위",
-            "건물 밖 부지라도 통제 의사가 표시됐다는 유죄 이유",
-            "촬영 외 범죄 목적 없음 등50만원 양형 이유 제시"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.newsis.com/view/NISX20261030_0003847558"
-          }
-        ],
-        "excerpt": "",
-        "context": "10/30 08:16:36 법조 취재 최초 확인,08:20 수정과 구분.침입2024/11/14·1심 선고2026/10/14를 오늘 사건으로 쓰지 않음.",
-        "fetched_at": 1793326273,
-        "parser_revision": 7
-      },
-      "curation_event_key": "dongduk-youtuber-restricted-campus-entry-fine-disclosed-20261030"
-    },
-    "e21ab7e043bb": {
-      "source": "조선비즈",
-      "title": "외주비 끊자 회사 시스템 차단…임원의20만달러 거래도 재판으로",
-      "link": "https://biz.chosun.com/industry/business-venture/2026/10/30/T6W22B2TJFEQTAV45NZDZH7C5U/?outputType=amp",
-      "first_seen_at": 1793326273,
-      "last_seen_at": 1793326273,
-      "samples": [
-        {
-          "at": 1793326273,
-          "views": null,
-          "reactions": null,
-          "rank": 7,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "e21ab7e043bb",
-      "editorial": {
-        "title": "외주비 끊자 회사 시스템 차단…임원의20만달러 거래도 재판으로",
-        "category": "시사",
-        "url": "https://biz.chosun.com/industry/business-venture/2026/10/30/T6W22B2TJFEQTAV45NZDZH7C5U/?outputType=amp",
-        "source": "조선비즈",
-        "kind": "article",
-        "event_key": "daedong-usa-ki-finance-erp-outsourcing-self-dealing-court-review-20261030",
-        "why": "업무를 맡긴 업체가 대금 분쟁 중 발주사의 ERP를 막고 임원의 이해관계까지 재판에 간 구체적 돈·통제권 사건이다.",
-        "angle": "외주업체가 우리 회사 결제 시스템 열쇠까지 쥐고 있었다",
-        "why_now": "원문 메타 최초29일10:24:41 KST·본문30일 취재로 불일치함을 기록.미국 결정 정확한 날짜 미기재.두 시점 모두48시간 이내.",
-        "verified_at": 1793325454,
-        "published_at": 1793237081,
-        "evidence": [
-          {
-            "url": "https://biz.chosun.com/industry/business-venture/2026/10/30/T6W22B2TJFEQTAV45NZDZH7C5U/?outputType=amp",
-            "note": "조선비즈 본문에서 대금 지급 거부 뒤 ERP 차단·복구 가처분 기각·합의 해결 경위를 확인했다.전 경영진20만달러가 대여인지 지분인지 다툼은 본안으로,횡령 주장은 요건 불충족으로 구별했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://biz.chosun.com/industry/business-venture/2026/10/30/T6W22B2TJFEQTAV45NZDZH7C5U/?outputType=amp",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "사익 편취 확정 아님.시스템 차단은 합의 해결,현재 진행형 아님.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-30",
-          "observation": "조선비즈 본문에서 대금 지급 거부 뒤 ERP 차단·복구 가처분 기각·합의 해결 경위를 확인했다.전 경영진20만달러가 대여인지 지분인지 다툼은 본안으로,횡령 주장은 요건 불충족으로 구별했다.",
-          "checked_materials": [],
-          "outline": [
-            "외주계약 뒤 경영진 교체와 대금 지급 중단 경위",
-            "ERP 접근 차단과 복구 가처분 기각·이후 합의 설명",
-            "20만달러 이해충돌 심리와 횡령 주장 배척을 나눠 제시"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://biz.chosun.com/industry/business-venture/2026/10/30/T6W22B2TJFEQTAV45NZDZH7C5U/?outputType=amp"
-          }
-        ],
-        "excerpt": "",
-        "context": "원문 메타 최초29일10:24:41 KST·본문30일 취재로 불일치함을 기록.미국 결정 정확한 날짜 미기재.두 시점 모두48시간 이내.",
-        "fetched_at": 1793326273,
-        "parser_revision": 7
-      },
-      "curation_event_key": "daedong-usa-ki-finance-erp-outsourcing-self-dealing-court-review-20261030"
-    },
-    "e4ffd71e9e98": {
-      "source": "뉴시스·JTBC",
-      "title": "“차 대려고 서 있다” 주차칸 막은 두 사람,경찰 부르자 떠났다",
-      "link": "https://files.newsis.com/view/NISX20261030_0003847657",
-      "first_seen_at": 1793326273,
-      "last_seen_at": 1793326273,
-      "samples": [
-        {
-          "at": 1793326273,
-          "views": null,
-          "reactions": null,
-          "rank": 8,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "e4ffd71e9e98",
-      "editorial": {
-        "title": "“차 대려고 서 있다” 주차칸 막은 두 사람,경찰 부르자 떠났다",
-        "category": "시사",
-        "url": "https://files.newsis.com/view/NISX20261030_0003847657",
-        "source": "뉴시스·JTBC",
-        "kind": "article",
-        "event_key": "incheon-two-men-parking-space-human-cones-jtbc-disclosure-20261029",
-        "why": "차보다 먼저 서 있었다며 주차칸을 지키다가 신고 뒤 떠나는 행동과 말의 대조가 즉시 이해된다.",
-        "angle": "자동차 주차칸을 사람 두 명이 맡아두면 선착순인가",
-        "why_now": "첫 확인 공개는10/29 JTBC 사건반장 방송,30일10:00 뉴시스 후속.주차 분쟁 실제 촬영일·방송의 분 단위 공개는 미기재.",
-        "verified_at": 1793325769,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://files.newsis.com/view/NISX20261030_0003847657",
-            "note": "뉴시스의 방송 취재 본문과 실제 보도 캡처 사진을 확인했다.정지 사진의 차량·인영·대화 자막은 확인했지만 전체 영상·음성을 시청하지 않았다.신고 후 떠난 경과와 경찰 전달은 제보 보도다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://files.newsis.com/view/NISX20261030_0003847657",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          },
-          {
-            "url": "https://img1.newsis.com/2026/10/30/NISI20261030_0002278202_web.jpg",
-            "label": "방송 보도 캡처",
-            "kind": "image"
-          }
-        ],
-        "caution": "제보·방송 취재 기반.체포·처벌 확인 안 됨.전체 영상 미시청.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-29",
-          "observation": "뉴시스의 방송 취재 본문과 실제 보도 캡처 사진을 확인했다.정지 사진의 차량·인영·대화 자막은 확인했지만 전체 영상·음성을 시청하지 않았다.신고 후 떠난 경과와 경찰 전달은 제보 보도다.",
-          "checked_materials": [
-            "https://img1.newsis.com/2026/10/30/NISI20261030_0002278202_web.jpg"
-          ],
-          "outline": [
-            "빈 주차칸에 서서 차를 막는 상황 제시",
-            "차 대려고 서 있다는 항변과 차가 먼저라는 반박 대비",
-            "경찰 신고 뒤 떠났다는 제보 경과와 처벌 미확인 구별"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [
-          {
-            "url": "https://img1.newsis.com/2026/10/30/NISI20261030_0002278202_web.jpg",
-            "label": "방송 보도 캡처",
-            "kind": "image"
-          }
-        ],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://files.newsis.com/view/NISX20261030_0003847657"
-          },
-          {
-            "label": "방송 보도 캡처",
-            "url": "https://img1.newsis.com/2026/10/30/NISI20261030_0002278202_web.jpg"
-          }
-        ],
-        "excerpt": "",
-        "context": "첫 확인 공개는10/29 JTBC 사건반장 방송,30일10:00 뉴시스 후속.주차 분쟁 실제 촬영일·방송의 분 단위 공개는 미기재.",
-        "fetched_at": 1793326273,
-        "parser_revision": 7
-      },
-      "curation_event_key": "incheon-two-men-parking-space-human-cones-jtbc-disclosure-20261029"
-    },
-    "ae8e38f7a410": {
-      "source": "엑스포츠뉴스",
-      "title": "“전공도 아닌데?” 논란에 정경미가 꺼낸 답은 “연극영화과99학번”",
-      "link": "https://www.xportsnews.com/article/2213252",
-      "first_seen_at": 1793326273,
-      "last_seen_at": 1793326273,
-      "samples": [
-        {
-          "at": 1793326273,
-          "views": null,
-          "reactions": null,
-          "rank": 9,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "ae8e38f7a410",
-      "editorial": {
-        "title": "“전공도 아닌데?” 논란에 정경미가 꺼낸 답은 “연극영화과99학번”",
-        "category": "시사",
-        "url": "https://www.xportsnews.com/article/2213252",
-        "source": "엑스포츠뉴스",
-        "kind": "article",
-        "event_key": "jung-kyung-mi-musical-academy-expertise-response-20261030",
-        "why": "학원 원장의 전문성을 겨냥한 말에 본인 전공과 강사진을 공개하고 학번으로 응수한 구체적 대처다.",
-        "angle": "전공자가 아니라는 비판,대학은 이미99학번 동문으로 소개했다",
-        "why_now": "새 답변의29~30일 공개를 취재한30일08:53 보도.다른 매체는29일 게시로 기재해 정확한 SNS 시각은 확정하지 않음.28일 영상과 별개.",
-        "verified_at": 1793325507,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.xportsnews.com/article/2213252",
-            "note": "엑스포츠·TV리포트의 실제 답변 취재와 국민대 공식 웹진의 연극영화전공99 표기를 대조했다.영어 구사 능력·원장의 직접 수업 여부까지 증명된 것은 아니며 개인 게시물 영상은 직접 보지 않았다."
-          },
-          {
-            "url": "https://webzine.kookmin.ac.kr/webzine.php?mcode=14&scode=1&svolume=3&syear=2015",
-            "note": "국민대2015년 웹진의 정경미 연극영화전공99 표기를 직접 확인.현재 사건 시각 자료로 사용하지 않음."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.xportsnews.com/article/2213252",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "영어 능력·자격 검증 아님.SNS 게시일29/30 보도 차이 있음.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-30",
-          "observation": "엑스포츠·TV리포트의 실제 답변 취재와 국민대 공식 웹진의 연극영화전공99 표기를 대조했다.영어 구사 능력·원장의 직접 수업 여부까지 증명된 것은 아니며 개인 게시물 영상은 직접 보지 않았다.",
-          "checked_materials": [],
-          "outline": [
-            "영어 뮤지컬 학원 전문성 논란의 주장을 사실과 구분",
-            "본인이 전공·강사진을 밝힌 답변과99학번 응수 소개",
-            "국민대 기존 동문 자료 확인과 영어 능력 판단의 한계 제시"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.xportsnews.com/article/2213252"
-          }
-        ],
-        "excerpt": "",
-        "context": "새 답변의29~30일 공개를 취재한30일08:53 보도.다른 매체는29일 게시로 기재해 정확한 SNS 시각은 확정하지 않음.28일 영상과 별개.",
-        "fetched_at": 1793326273,
-        "parser_revision": 7
-      },
-      "curation_event_key": "jung-kyung-mi-musical-academy-expertise-response-20261030"
-    },
-    "a18bada8bdff": {
-      "source": "뉴시스",
-      "title": "패딩 충전재 쏟아진 출근길 사진…“누가 그었나” 원인은 아직 미확인",
-      "link": "https://www.newsis.com/view/NISX20261030_0003847699",
-      "first_seen_at": 1793326273,
-      "last_seen_at": 1793326273,
-      "samples": [
-        {
-          "at": 1793326273,
-          "views": null,
-          "reactions": null,
-          "rank": 10,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "a18bada8bdff",
-      "editorial": {
-        "title": "패딩 충전재 쏟아진 출근길 사진…“누가 그었나” 원인은 아직 미확인",
-        "category": "시사",
-        "url": "https://www.newsis.com/view/NISX20261030_0003847699",
-        "source": "뉴시스",
-        "kind": "article",
-        "event_key": "seoul-line5-torn-padding-knit-sns-claim-20261029",
-        "why": "겉옷뿐 아니라 니트까지 훼손됐다는 당사자 주장과 공개 사진의 구체성,원인 미확인의 차이를 보여줄 수 있다.",
-        "angle": "찢어진 옷은 보인다…누가·어디서·어떻게는 별도 확인",
-        "why_now": "10/29 스레드 게시·당일 출근길이라는 작성자 설명.정확한 게시시각 미확인.30일08:04 첫 확인 기사와08:55 뉴시스 후속을 구별.",
-        "verified_at": 1793325876,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.newsis.com/view/NISX20261030_0003847699",
-            "note": "뉴시스 본문·아주경제를 대조하고 검은 패딩 겉감이 여러 곳 찢겨 흰 충전재가 나온 사진을 직접 봤다.칼 사용·고의 범행·범인·신고 완료는 확인되지 않았다.니트 훼손은 작성자 설명 범위다."
-          },
-          {
-            "url": "https://www.ajunews.com/view/20261030081328478",
-            "note": "훼손 사진과 작성자 의심을 확인하고 걸림 사고 가능성도 보도한 본문 대조."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.newsis.com/view/NISX20261030_0003847699",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          },
-          {
-            "url": "https://img1.newsis.com/2026/10/30/NISI20261030_0002278165_web.jpg",
-            "label": "직접 확인한 훼손 사진",
-            "kind": "image"
-          }
-        ],
-        "caution": "고의 범행·연쇄 테러 확정 아님.사진으로 원인·장소 판별 불가.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-29",
-          "observation": "뉴시스 본문·아주경제를 대조하고 검은 패딩 겉감이 여러 곳 찢겨 흰 충전재가 나온 사진을 직접 봤다.칼 사용·고의 범행·범인·신고 완료는 확인되지 않았다.니트 훼손은 작성자 설명 범위다.",
-          "checked_materials": [
-            "https://img1.newsis.com/2026/10/30/NISI20261030_0002278165_web.jpg"
-          ],
-          "outline": [
-            "공개 사진에서 실제 보이는 패딩 훼손을 제시",
-            "지하철5호선 출근길이었다는 작성자 설명 분리",
-            "고의 공격인지 걸려 찢어진 것인지 미확인 상태로 마무리"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [
-          {
-            "url": "https://img1.newsis.com/2026/10/30/NISI20261030_0002278165_web.jpg",
-            "label": "직접 확인한 훼손 사진",
-            "kind": "image"
-          }
-        ],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.newsis.com/view/NISX20261030_0003847699"
-          },
-          {
-            "label": "직접 확인한 훼손 사진",
-            "url": "https://img1.newsis.com/2026/10/30/NISI20261030_0002278165_web.jpg"
-          }
-        ],
-        "excerpt": "",
-        "context": "10/29 스레드 게시·당일 출근길이라는 작성자 설명.정확한 게시시각 미확인.30일08:04 첫 확인 기사와08:55 뉴시스 후속을 구별.",
-        "fetched_at": 1793326273,
-        "parser_revision": 7
-      },
-      "curation_event_key": "seoul-line5-torn-padding-knit-sns-claim-20261029"
     }
   },
-  "updated_at": 1793923627
+  "updated_at": 1793931116
 }
