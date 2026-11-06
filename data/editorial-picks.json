@@ -1,274 +1,275 @@
 {
   "version": 2,
-  "hour_utc": "2026110600",
+  "hour_utc": "2026110602",
   "reviewer": "ChatGPT",
-  "generated_at": 1793923555,
+  "generated_at": 1793931037,
   "coverage": {
     "queries": [
-      "site.channelnewsasia.com/sport \"06 Nov 2026\" -Ronaldo -LIV -Pegula",
-      "\"2026.11.06\" 축구 유로파 \"탈락\" -모레노 -아시안컵",
-      "\"2026.11.06\" \"속보\" 주요",
-      "\"November 5, 2026\" \"sports\" \"suspended\" -Maulet",
-      "\"2026.11.06\" \"강원\" \"쿠칭\"",
-      "\"2026.11.06\" \"프랑스\" \"60만\"",
-      "\"November 5, 2026\" \"tennis\" \"Paris\" Fils Fritz",
-      "\"2026.11.06\" \"재건축\" \"7억\"",
-      "\"강원\" \"쿠칭\" \"2026\" \"11\" \"0-2\"",
-      "\"Bournemouth\" \"fourth\" \"2026-11-05\" \"Europa\"",
-      "\"Newsom\" \"548\" \"2026\" commutes",
-      "\"Canada\" \"budget\" \"November 5, 2026\" Carney",
-      "site.gov.ca.gov \"2026/11/05\" \"death\"",
-      "site.afcb.co.uk \"2026\" \"Sparta\" \"3-1\" November",
-      "\"Bournemouth\" \"Sparta Prague\" \"2026\" \"match report\" November 5",
-      "\"2026.11.06\" \"삼성\" \"10승\" \"11경기\"",
-      "\"모리야스\" \"벨기에\" \"2026.11.05\"",
-      "\"森保\" \"ベルギー\" \"2026年11月5日\"",
-      "\"2026.11.06\" \"모리야스\" 감독",
-      "\"2026.11.06\" 축구 \"공식\" \"계약\" -케인 -하피냐 -파커"
+      "\"2026.11.06\" \"서킷브레이커\"",
+      "\"2026-11-06\" football Europa League results Celtic",
+      "\"2026.11.06\" 스포츠 \"공식\" -케인 -호날두 -파커 -하피냐",
+      "site.channelnewsasia.com/sport \"06 Nov 2026\"",
+      "\"2026.11.06\" \"K리그\" \"징계\" -전남",
+      "\"November 6, 2026\" \"sports\" \"retire\" -Ronaldo -Jones -LIV",
+      "\"2026-11-06\" \"NBA\" \"trade\"",
+      "\"2026.11.06\" \"스포츠\" \"부상\" -혼다 -토트넘 -모레노",
+      "\"Jenning de Boo\" \"collarbone\" \"2026\" November",
+      "\"Google\" \"17 billion\" \"Wyoming\" \"2026\"",
+      "\"Ajax\" \"Midtjylland\" \"6-1\" \"2026\" November 5",
+      "\"2026.11.06\" \"삼성\" \"11경기\" \"10승\"",
+      "site.ajax.nl \"2026\" \"Midtjylland\" \"6-1\"",
+      "site.krx.co.kr \"2026.11.06\" \"서킷\"",
+      "\"Jenning de Boo\" \"2026\" \"november\" \"sleutelbeen\" Team",
+      "\"Google\" \"Wyoming\" \"Nov 5, 2026\" \"$17 billion\""
     ],
     "opened_urls": [
-      "https://www.skysports.com/football/sparta-prague-vs-bournemouth/report/577809",
-      "https://www.gov.ca.gov/2026/11/05/governor-newsom-releases-letter-to-california-on-the-death-penalty/",
-      "https://www.channelnewsasia.com/world/california-death-row-life-imprisonment-newsom-6529036",
-      "https://www.channelnewsasia.com/world/france-workers-strike-wage-protest-police-macron-6529011",
-      "https://information.tv5monde.com/sport/foot-le-president-de-lille-olivier-letang-suspendu-quatre-mois-ferme-2844652",
-      "https://www.canada.ca/en/department-finance/news/2026/11/government-of-canada-releases-budget-2026-masters-of-our-destiny.html",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833332",
+      "https://www.newspim.com/news/view/20261106000220",
+      "https://www.mt.co.kr/stock/2026/11/06/2026110609060860921",
       "https://sports.khan.co.kr/article/202611060015003",
-      "https://www.channelnewsasia.com/latest-news",
-      "https://www.channelnewsasia.com/world",
-      "https://www.channelstv.com/2026/11/05/bournemouth-stay-perfect-in-europa-league-as-milan-lose-again/",
-      "https://www.channelnewsasia.com/world/canada-us-trade-tariffs-trump-budget-independence-6528456"
+      "https://www.schaatsen.nl/nieuws/jenning-de-boo-mist-eerste-world-cups-door-gebroken-sleutelbeen/",
+      "https://www.wielerflits.nl/nieuws/schaatser-jenning-de-boo-loopt-typische-wielerblessure-op-bij-val-van-fiets/",
+      "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
+      "https://www.skysports.com/football/news/13607043/celtic-3-2-besiktas-camilo-duran-and-callum-osmand-come-off-bench-to-inspire-hoops-to-first-europa-league-win"
     ],
     "unavailable": [
-      "일부 웹 열람 오류: 접근 가능한 공식·기사 원문 직접 확인으로 전환",
-      "AFC본문 인코딩 오류: 다른 독립 원문으로 전환",
-      "수집 종료0·스냅샷 갱신. 펨코 직접·네이버 스포츠 영상 수집만 실패"
+      "NL Times 경기 기사 HTTP403. 반복 요청 없이 SBS 본문 확인.",
+      "Celtic 공식 페이지에서 본문 미노출. Sky Sports 기사 본문으로 전환.",
+      "@bythepulse 공개 게재 전체는 확인 불가. 공개 실제 sent/uncertain 7일411개 사건·URL과 대조."
     ]
   },
   "picks": [
     {
-      "title": "교체 선수들이 3골…본머스, 첫 유럽대항전서 4연승",
+      "title": "조규성·홍현석의 미트윌란, 아약스에 1대6…퇴장 뒤 후반 5실점",
       "category": "축구",
-      "url": "https://www.skysports.com/football/sparta-prague-vs-bournemouth/report/577809",
-      "source": "Sky Sports",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833332",
+      "source": "SBS",
       "kind": "article",
-      "event_key": "bournemouth-sparta-prague-three-substitutes-goals-four-europa-wins-20261105",
-      "why": "유럽 무대 첫 시즌인 본머스가 교체 선수 세 명의 득점으로 역전하고 4전 전승을 이어갔다.",
-      "angle": "PK 놓치고 먼저 실점…벤치에서 나온 세 명이 모두 골을 넣었다.",
-      "why_now": "11월5일 프라하 유로파리그 4차전 결과. 읽은 Sky 기사는5일 게시이며 정확한 최초 공개 시각은 단정하지 않았다.",
-      "verified_at": 1793923408,
-      "published_at": null,
+      "event_key": "midtjylland-ajax-six-one-red-card-five-second-half-goals-20261105",
+      "why": "한국 대표팀 공격수들이 뛴 유럽대항전에서 대패하며 3경기 무승에 빠졌다.",
+      "angle": "1대1에서 퇴장, 후반에만 5실점…미트윌란에 무슨 일이 있었나",
+      "why_now": "경기는 현지 11월5일·KST6일. SBS 최초 입력 6일08:37:50 KST. 새 경기 결과이며 직전 회차 미발송.",
+      "verified_at": 1793930907,
+      "published_at": 1793921870,
       "evidence": [
         {
-          "url": "https://www.skysports.com/football/sparta-prague-vs-bournemouth/report/577809",
-          "note": "Sky 본문에서 본머스의1-3 역전승, 쿡의PK실패, 스파르타 전반 퇴장, 교체 투입 애덤스·에바니우송·하얀 득점과 4전 전승을 확인했다."
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833332",
+          "note": "본문에서 1대6, 전반43분 경고누적 퇴장, 후반5실점과 한국 선수 출전 사실 확인. 경기 영상은 보지 않았다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.skysports.com/football/sparta-prague-vs-bournemouth/report/577809",
-          "label": "원문 기사",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833332",
+          "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "우승이나 토너먼트 진출 확정은 아니다. 경기 영상은 보지 않았고 원문 경기 보고로 검증했다.",
+      "caution": "기사 본문 확인. 영상 미시청이며 대회 탈락이 확정된 것은 아니다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-05",
-        "observation": "Sky 본문에서 본머스의1-3 역전승, 쿡의PK실패, 스파르타 전반 퇴장, 교체 투입 애덤스·에바니우송·하얀 득점과 4전 전승을 확인했다.",
+        "observation": "조규성 선발·하프타임 교체, 홍현석 후반23분 투입. 전반43분 경고누적 퇴장 뒤 후반5실점, 1무2패를 본문에서 확인했다.",
         "checked_materials": [],
         "outline": [
-          "PK실패·선제 실점에서 시작된 원정 경기",
-          "세 교체 선수의 득점과 첫 유럽 시즌 4전 전승"
+          "1대1→전반43분 퇴장→후반5실점 흐름",
+          "조규성·홍현석 출전과 리그 페이즈 1무2패를 구분"
         ]
       }
     },
     {
-      "title": "캘리포니아 사형수 전원 감형 방침…548명에 가석방 없는 종신형 추진",
+      "title": "코스피 8%대 급락에 20분 거래 중단…1단계 서킷브레이커",
       "category": "시사",
-      "url": "https://www.gov.ca.gov/2026/11/05/governor-newsom-releases-letter-to-california-on-the-death-penalty/",
-      "source": "캘리포니아 주지사실",
-      "kind": "official",
-      "event_key": "newsom-plans-all-california-death-sentences-life-without-parole-20261105",
-      "why": "미국 최대 규모 사형수 집단 전체의 형벌을 바꾸려는 주지사의 중대한 형사정책 결정이다.",
-      "angle": "사형수548명, 석방은 아니다…가석방 없는 종신형으로 바꾸겠다는 방침.",
-      "why_now": "11월5일 주지사실 새 발표. 공식 게시 메타데이터19:19:40 UTC(6일04:19:40 KST)를 확인했다.",
-      "verified_at": 1793923407,
-      "published_at": 1793906380,
+      "url": "https://www.newspim.com/news/view/20261106000220",
+      "source": "뉴스핌·머니투데이",
+      "kind": "article",
+      "event_key": "kospi-stage-one-circuit-breaker-twenty-minute-trading-halt-20261106",
+      "why": "국내 주식시장 거래 자체가 멈춘 사건으로 투자자와 시장 전반에 직접 영향을 줬다.",
+      "angle": "매도 주문만 멈춘 사이드카를 넘어, 시장 거래가 20분 멈췄다",
+      "why_now": "11월6일09:03 KST 발동. 뉴스핌 최초09:05, 09:15수정. 09:23 해제 보도도 확인. 전날 사이드카·미 증시 종가와 다른 국내 새 조치.",
+      "verified_at": 1793930745,
+      "published_at": 1793923500,
       "evidence": [
         {
-          "url": "https://www.gov.ca.gov/2026/11/05/governor-newsom-releases-letter-to-california-on-the-death-penalty/",
-          "note": "주지사실 공식 본문은 캘리포니아의 모든 사형을 가석방 없는 종신형으로 바꿀 계획이라고 명시했다. CNA본문에서 대상548명과 당사자 공개서한 발언을 대조했다."
+          "url": "https://www.newspim.com/news/view/20261106000220",
+          "note": "거래소 발표를 인용한 기사 본문에서 1단계 서킷브레이커와20분 중단 확인."
         },
         {
-          "url": "https://www.channelnewsasia.com/world/california-death-row-life-imprisonment-newsom-6529036",
-          "note": "CNA·AFP 본문에서 대상548명과 주지사의 전원 가석방 없는 종신형 방침을 확인했다. 원래 사형 집행 중단과 새 감형 계획은 구분한다."
+          "url": "https://www.mt.co.kr/stock/2026/11/06/2026110609060860921",
+          "note": "09:24 최초 보도에서09:23 해제와10분 단일가 매매 재개 확인. 현재도 거래 중단 상태라고 쓰지 않는다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.gov.ca.gov/2026/11/05/governor-newsom-releases-letter-to-california-on-the-death-penalty/",
-          "label": "공식 발표",
+          "url": "https://www.newspim.com/news/view/20261106000220",
+          "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "감형 방침 발표이며 전원의 개별 절차 완료·석방·주 사형제 폐지로 쓰지 않는다.",
+      "caution": "거래는 재개됐다. 장중 수치이며 종가·투자 전망으로 쓰지 않는다.",
       "readiness": {
         "mode": "major_news",
-        "event_date": "2026-11-05",
-        "observation": "주지사실 공식 본문은 캘리포니아의 모든 사형을 가석방 없는 종신형으로 바꿀 계획이라고 명시했다. CNA본문에서 대상548명과 당사자 공개서한 발언을 대조했다.",
+        "event_date": "2026-11-06",
+        "observation": "뉴스핌 본문에서09:03:33 발동·현물 및 선물20분 중단 확인. 머니투데이09:24 보도에서09:23 해제와10분 단일가 재개 확인.",
         "checked_materials": [],
         "outline": [
-          "전체 사형수 감형 계획과 가석방 없는 종신형의 의미",
-          "집행 유예와 형 감경·사형제 폐지를 구분"
+          "서킷브레이커 1단계 발동과 20분 중단",
+          "09:23 해제·단일가 재개, 사이드카와 차이"
         ]
       }
     },
     {
-      "title": "프랑스 고물가 총파업…정부 집계 57만5천 명, 곳곳 충돌",
-      "category": "시사",
-      "url": "https://www.channelnewsasia.com/world/france-workers-strike-wage-protest-police-macron-6529011",
-      "source": "CNA·AFP",
-      "kind": "article",
-      "event_key": "france-nationwide-cost-of-living-strike-575000-revised-turnout-20261105",
-      "why": "학생 시위가 노동계 총파업과 전국 집회로 이어지며 교통·학교·관광시설에 영향을 준 대규모 사회 갈등이다.",
-      "angle": "임금 올려달라며 전국 파업…잠정60만 명은57만5천 명으로 수정됐다.",
-      "why_now": "실제 시위는11월5일 프랑스 현지. CNA 최초 게시6일06:10 KST, 수정08:04:30 KST이며 사건일·수정 시각을 구분했다.",
-      "verified_at": 1793923381,
-      "published_at": 1793913000,
-      "evidence": [
-        {
-          "url": "https://www.channelnewsasia.com/world/france-workers-strike-wage-protest-police-macron-6529011",
-          "note": "AFP 본문에서 내무부 참가자57만5천 명(60만 잠정치 하향), CGT160만 주장, 경찰448명 체포·경찰관53명 부상 발표와 에펠탑·개선문 폐쇄를 확인했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.channelnewsasia.com/world/france-workers-strike-wage-protest-police-macron-6529011",
-          "label": "원문 기사",
-          "kind": "source"
-        }
-      ],
-      "caution": "정부·주최 측 집계는 다르다. 일부 도시 충돌을 모든 참가자의 폭력으로 일반화하지 않는다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-05",
-        "observation": "AFP 본문에서 내무부 참가자57만5천 명(60만 잠정치 하향), CGT160만 주장, 경찰448명 체포·경찰관53명 부상 발표와 에펠탑·개선문 폐쇄를 확인했다.",
-        "checked_materials": [],
-        "outline": [
-          "총파업 이유와 정부·노조 참가자 집계 병기",
-          "교통·교육·관광 차질과 일부 충돌 구분"
-        ]
-      }
-    },
-    {
-      "title": "벌금으로 안 끝난 심판 비판…릴 회장, 항소심서 실효 4개월 정지",
-      "category": "축구",
-      "url": "https://information.tv5monde.com/sport/foot-le-president-de-lille-olivier-letang-suspendu-quatre-mois-ferme-2844652",
-      "source": "TV5MONDE·AFP",
-      "kind": "article",
-      "event_key": "lille-olivier-letang-fff-appeal-four-month-effective-suspension-20261105",
-      "why": "프랑스 협회가 기존 벌금이 가볍다며 항소해 구단 수장에 대한 제재를 강화한 새 징계 결정이다.",
-      "angle": "2만유로 벌금 뒤 협회가 항소…릴 회장에게 더 무거워진 징계.",
-      "why_now": "원래 발언은8월말, 벌금은9월이며 새 항소 징계는11월5일이다. AFP게시 메타데이터18:56:37 UTC를 확인했다.",
-      "verified_at": 1793923382,
-      "published_at": 1793904997,
-      "evidence": [
-        {
-          "url": "https://information.tv5monde.com/sport/foot-le-president-de-lille-olivier-letang-suspendu-quatre-mois-ferme-2844652",
-          "note": "AFP본문에서 총6개월 중2개월 집행유예로 실효4개월 제재, 기존2만유로 벌금에 대한 FFF항소, 레탕의 추가 불복 방침을 확인했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://information.tv5monde.com/sport/foot-le-president-de-lille-olivier-letang-suspendu-quatre-mois-ferme-2844652",
-          "label": "원문 기사",
-          "kind": "source"
-        }
-      ],
-      "caution": "과거8월 발언을 새 사건으로 쓰지 않는다. 추가 불복 결과는 아직 확인되지 않았다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-05",
-        "observation": "AFP본문에서 총6개월 중2개월 집행유예로 실효4개월 제재, 기존2만유로 벌금에 대한 FFF항소, 레탕의 추가 불복 방침을 확인했다.",
-        "checked_materials": [],
-        "outline": [
-          "벌금 뒤 실효4개월 정지로 강화된 항소 결정",
-          "협회 항소 이유와 회장의 불복 방침"
-        ]
-      }
-    },
-    {
-      "title": "캐나다, 대미 의존 줄일 새 예산안…6년간 4천억 캐나다달러 자본투자",
-      "category": "시사",
-      "url": "https://www.canada.ca/en/department-finance/news/2026/11/government-of-canada-releases-budget-2026-masters-of-our-destiny.html",
-      "source": "캐나다 재무부",
-      "kind": "official",
-      "event_key": "canada-budget-2026-four-hundred-billion-capital-investment-sovereignty-20261105",
-      "why": "미국의 관세 압박에 대응해 교역 다변화·에너지·핵심광물 투자로 경제 구조를 바꾸려는 국가 예산안이다.",
-      "angle": "미국 선거 뒤에도 독립 노선…캐나다의6년 투자 계획.",
-      "why_now": "11월5일 오타와에서 공개한2026예산안. 공식 페이지 시간대 없는 게시 메타데이터는 임의로UTC변환하지 않고 날짜만 사용했다.",
-      "verified_at": 1793923381,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://www.canada.ca/en/department-finance/news/2026/11/government-of-canada-releases-budget-2026-masters-of-our-destiny.html",
-          "note": "재무부 공식 원문에서6년간4천억 캐나다달러 자본투자,220억 생활비 지원 조치, 전력·원전·핵심광물과 교역 다변화 방향을 확인했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.canada.ca/en/department-finance/news/2026/11/government-of-canada-releases-budget-2026-masters-of-our-destiny.html",
-          "label": "공식 발표",
-          "kind": "source"
-        }
-      ],
-      "caution": "예산안의 계획이며 전액 집행 완료나 미국과 무역 단절을 뜻하지 않는다. 금액은 캐나다달러다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-05",
-        "observation": "재무부 공식 원문에서6년간4천억 캐나다달러 자본투자,220억 생활비 지원 조치, 전력·원전·핵심광물과 교역 다변화 방향을 확인했다.",
-        "checked_materials": [],
-        "outline": [
-          "대미 의존 축소와 교역 다변화의 새 예산안",
-          "6년 자본투자·생활비 조치와 입법·집행 단계 구분"
-        ]
-      }
-    },
-    {
-      "title": "서울 삼성, 11경기 만에 10승…KBL 역대 최단 타이·원정 7연승",
+      "title": "서울 삼성, 11경기 만에 10승…KBL 역대 최단 타이",
       "category": "메이저 스포츠",
       "url": "https://sports.khan.co.kr/article/202611060015003",
       "source": "스포츠경향",
       "kind": "article",
       "event_key": "seoul-samsung-ten-wins-eleven-games-kbl-fastest-tie-20261105",
-      "why": "개막9연승이 끊긴 직후 다시 이겨 KBL 역대 최단10승과 구단 원정 연승 타이를 세운 선두 경쟁의 새 결과다.",
-      "angle": "9연승 끝났다고 꺾이지 않았다…삼성, 최단10승 타이.",
-      "why_now": "경기는11월5일 울산, 읽은 기사 최초 게시6일00:15 KST다.10월에 발송한 개막9연승과 다른 경기·새 기록이다.",
-      "verified_at": 1793923408,
+      "why": "개막 돌풍이 첫 패배 뒤에도 이어지며 KBL 역대 최단 10승 기록에 도달했다.",
+      "angle": "첫 패배 다음 경기, 이관희가 4쿼터 12점으로 최단 10승 완성",
+      "why_now": "경기는11월5일 울산. 원문 최초6일00:15 KST. 과거 발송한10월30일 개막9연승과 다른 새 경기·10승 도달 사실.",
+      "verified_at": 1793930746,
       "published_at": 1793891700,
       "evidence": [
         {
           "url": "https://sports.khan.co.kr/article/202611060015003",
-          "note": "본문에서 삼성의 현대모비스전81-76, 시즌10승1패, 11경기10승은역대7번째최단타이, 구단원정7연승타이를 확인했다. 이관희는4쿼터에12점을 넣었다."
+          "note": "기사 본문에서 경기일·결과·최단 타이7번째와 이관희의4쿼터12점 확인. 영상 미시청."
         }
       ],
       "materials": [
         {
           "url": "https://sports.khan.co.kr/article/202611060015003",
-          "label": "원문 기사",
+          "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "역대 단독 신기록이 아닌 타이기록이다. 우승 확정이나 시즌 내내 연승 중이라는 뜻은 아니다.",
+      "caution": "최단 단독 신기록이 아닌 타이, 역대7번째 사례다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-05",
-        "observation": "본문에서 삼성의 현대모비스전81-76, 시즌10승1패, 11경기10승은역대7번째최단타이, 구단원정7연승타이를 확인했다. 이관희는4쿼터에12점을 넣었다.",
+        "observation": "삼성81대76 승리,10승1패. 11경기10승은 역대 타이7번째, 이관희4쿼터12점·총14점, 칸터32점12리바운드를 기사 본문에서 확인.",
         "checked_materials": [],
         "outline": [
-          "직전 첫패 뒤 다시 이긴 삼성의10승1패",
-          "최단10승 타이와4쿼터 이관희12점"
+          "첫 패배 직후 81대76 승리로10승1패",
+          "11경기10승 타이와 이관희4쿼터12점 설명"
+        ]
+      }
+    },
+    {
+      "title": "구글, 와이오밍 첫 데이터센터에 170억 달러 투자 발표",
+      "category": "시사",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
+      "source": "Google 공식 블로그",
+      "kind": "official",
+      "event_key": "google-wyoming-first-data-center-seventeen-billion-investment-20261105",
+      "why": "AI 인프라 투자와 전력·탄소·지역 비용을 둘러싼 대규모 산업 결정이다.",
+      "angle": "170억 달러 데이터센터, 전기·성장 인프라 비용은 구글이 부담한다고 밝혔다",
+      "why_now": "공식 발표 최초11월5일17:00 UTC(6일02:00 KST),17:19수정. 와이오밍 첫 센터 장기 투자 계획 공개.",
+      "verified_at": 1793930743,
+      "published_at": 1793898000,
+      "evidence": [
+        {
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
+          "note": "공식 발표 본문 확인.702MW는 계획된 연료전지 발전 규모이며, 천연가스를 사용한다. 회사의 환경·지역 효과 주장은 검증된 실적으로 바꾸지 않는다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
+          "label": "확인한 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "회사 발표·계획이다. 완공·제로배출·가동일 확정으로 표현하지 않는다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-05",
+        "observation": "공식 본문에서 장기170억 달러 투자, 전력100% 및 성장 유발 인프라 비용 부담 약속,702MW 연료전지·탄소포집 계획과 공랭식 설계를 확인.",
+        "checked_materials": [],
+        "outline": [
+          "170억 달러 장기 투자와 첫 와이오밍 센터",
+          "전력비·인프라 비용 부담 약속과702MW 계획의 한계"
+        ]
+      }
+    },
+    {
+      "title": "올림픽 은메달 2개 더보, 자전거 사고로 쇄골 골절…초반 월드컵 불참",
+      "category": "메이저 스포츠",
+      "url": "https://www.schaatsen.nl/nieuws/jenning-de-boo-mist-eerste-world-cups-door-gebroken-sleutelbeen/",
+      "source": "Schaatsen.nl·WielerFlits",
+      "kind": "article",
+      "event_key": "jenning-de-boo-cycling-collarbone-surgery-world-cups-withdrawal-20261104",
+      "why": "올림픽500·1000m 은메달리스트의 부상으로 국제 빙속 초반 판도에 공백이 생겼다.",
+      "angle": "빙판 시즌 앞두고 자전거를 타다 골절, 수술 후 첫 월드컵들을 건너뛴다",
+      "why_now": "사고는11월4일 현지 아침, 수술·불참 발표는5일. 원문5일 공개는 확인했으나 최초 시각·시간대는 확정 못해 일 단위로 표기.",
+      "verified_at": 1793930888,
+      "published_at": null,
+      "evidence": [
+        {
+          "url": "https://www.schaatsen.nl/nieuws/jenning-de-boo-mist-eerste-world-cups-door-gebroken-sleutelbeen/",
+          "note": "본문에서 부상과 초반 월드컵 불참을 확인했다. 본인 Instagram을 인용한 기사이며 직접 게시물·영상 확인은 하지 않았다."
+        },
+        {
+          "url": "https://www.wielerflits.nl/nieuws/schaatser-jenning-de-boo-loopt-typische-wielerblessure-op-bij-val-van-fiets/",
+          "note": "본문에서 올림픽500·1000m 은메달과 본인 발표 인용 확인. 기사 메타데이터와 표시 시간대 차이로 최초 공개 시각은 단정하지 않는다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.schaatsen.nl/nieuws/jenning-de-boo-mist-eerste-world-cups-door-gebroken-sleutelbeen/",
+          "label": "확인한 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "복귀일·대체 선수는 확정하지 않는다. 본인 SNS·영상은 직접 보지 않았다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-04",
+        "observation": "네덜란드 빙속 전문 원문에서 수요일 아침 자전거 사고·쇄골 골절·수술·초반 월드컵 불참 확인. 독립 보도에서500·1000m 올림픽 은메달 확인.",
+        "checked_materials": [],
+        "outline": [
+          "11월4일 사고→5일 수술·불참 공개",
+          "초반 월드컵 결장 영향, 복귀 일정은 미정"
+        ]
+      }
+    },
+    {
+      "title": "셀틱, 교체 선수들이 3골…베식타시 꺾고 유로파 첫 승",
+      "category": "축구",
+      "url": "https://www.skysports.com/football/news/13607043/celtic-3-2-besiktas-camilo-duran-and-callum-osmand-come-off-bench-to-inspire-hoops-to-first-europa-league-win",
+      "source": "Sky Sports",
+      "kind": "article",
+      "event_key": "celtic-besiktas-three-substitute-goals-first-europa-win-20261105",
+      "why": "3연패로 몰린 셀틱이 교체 카드로 유로파 생존 경쟁의 첫 승점을 얻었다.",
+      "angle": "첫 터치 동점골, 동점 허용 2분 뒤 결승골…교체가 만든 첫 승",
+      "why_now": "경기11월5일 영국. 기사 메타 최초22:00 UTC,23:14갱신. SBS6일08:37 KST 보도도3연패 뒤 첫 승 확인.",
+      "verified_at": 1793930929,
+      "published_at": 1793916000,
+      "evidence": [
+        {
+          "url": "https://www.skysports.com/football/news/13607043/celtic-3-2-besiktas-camilo-duran-and-callum-osmand-come-off-bench-to-inspire-hoops-to-first-europa-league-win",
+          "note": "Sky 경기 기사 본문에서 교체 선수3골과 마지막 반전 확인. 상세 분 표시는 매체차 있어 본문 근거87분을 사용."
+        },
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833332",
+          "note": "SBS 본문에서 셀틱3연패 뒤 첫 승·1승3패, 베식타스 첫 패배 확인."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.skysports.com/football/news/13607043/celtic-3-2-besiktas-camilo-duran-and-callum-osmand-come-off-bench-to-inspire-hoops-to-first-europa-league-win",
+          "label": "확인한 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "본문 사실 카드다. 경기 영상 미시청이며 진출 확정이 아니다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-05",
+        "observation": "Sky 본문에서 오스만드 투입 직후 동점골·두란2골,85분 동점 허용 뒤87분 결승골과3대2 승리 확인. SBS도 셀틱1승3패 확인.",
+        "checked_materials": [],
+        "outline": [
+          "교체 오스만드 첫 터치 동점골·두란 역전골",
+          "85분 동점→87분 결승골과 첫 승의 의미"
         ]
       }
     }
