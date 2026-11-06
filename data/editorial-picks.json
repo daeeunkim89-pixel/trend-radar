@@ -1,257 +1,85 @@
 {
   "version": 2,
-  "hour_utc": "2026110602",
+  "hour_utc": "2026110603",
   "reviewer": "ChatGPT",
-  "generated_at": 1793931037,
+  "generated_at": 1793934639,
   "coverage": {
     "queries": [
-      "\"2026.11.06\" \"서킷브레이커\"",
-      "\"2026-11-06\" football Europa League results Celtic",
-      "\"2026.11.06\" 스포츠 \"공식\" -케인 -호날두 -파커 -하피냐",
-      "site.channelnewsasia.com/sport \"06 Nov 2026\"",
-      "\"2026.11.06\" \"K리그\" \"징계\" -전남",
-      "\"November 6, 2026\" \"sports\" \"retire\" -Ronaldo -Jones -LIV",
-      "\"2026-11-06\" \"NBA\" \"trade\"",
-      "\"2026.11.06\" \"스포츠\" \"부상\" -혼다 -토트넘 -모레노",
-      "\"Jenning de Boo\" \"collarbone\" \"2026\" November",
-      "\"Google\" \"17 billion\" \"Wyoming\" \"2026\"",
-      "\"Ajax\" \"Midtjylland\" \"6-1\" \"2026\" November 5",
-      "\"2026.11.06\" \"삼성\" \"11경기\" \"10승\"",
-      "site.ajax.nl \"2026\" \"Midtjylland\" \"6-1\"",
-      "site.krx.co.kr \"2026.11.06\" \"서킷\"",
-      "\"Jenning de Boo\" \"2026\" \"november\" \"sleutelbeen\" Team",
-      "\"Google\" \"Wyoming\" \"Nov 5, 2026\" \"$17 billion\""
+      "\"2026.11.06\" 스포츠 \"공식\" -케인 -파커 -하피냐 -호날두",
+      "\"November 6 2026\" sport \"injury\" -Boo",
+      "\"2026.11.06\" \"정부\" \"발표\" -서킷브레이커",
+      "\"2026-11-06\" \"football\" \"Celtic\"",
+      "\"2026.11.06\" \"철도\" \"공동파업\"",
+      "\"2026.11.06\" \"쿠팡\" \"집행정지\"",
+      "\"2026-11-05\" \"sports\" \"ban\" football -Letang -Ronaldo",
+      "\"2026.11.06\" \"안세영\" \"52연승\"",
+      "\"2026.11.06\" \"철도\" \"파업\"",
+      "\"2026.11.06\" \"쿠팡\" \"4235\"",
+      "\"November 5, 2026\" \"Paris\" \"Alcaraz\" \"Berrettini\"",
+      "\"2026.11.06\" \"안세영\" \"기권\"",
+      "site.channelnewsasia.com/sport \"06 Nov 2026\" -ronaldo -boo -alcaraz",
+      "site.channelnewsasia.com/world \"06 Nov 2026\" -france -google",
+      "\"2026.11.06\" \"강원\" \"탈락\"",
+      "\"November 5, 2026\" \"Fritz\" \"Paris\" \"Shelton\"",
+      "\"2026-11-06\" Reuters world \"Thursday\" -sport -france -Google -Coupang",
+      "\"2026.11.06\" \"철도노조\" \"가결\"",
+      "\"2026.11.06\" \"강원FC\" \"쿠칭\"",
+      "\"2026.11.06\" \"정부\" \"의결\" \"전면\"",
+      "\"철도 통합 후 첫 파업\" \"2026\"",
+      "\"2026.11.06\" \"청해부대\" \"작전\"",
+      "\"2026.11.06\" \"대규모\" \"발표\" -연예 -시위 -쿠팡 -증시",
+      "\"2026-11-05\" \"IOC\" \"Putin\" \"sport\"",
+      "site.whitehouse.gov \"2026\" \"Oval Office\" \"national monument\" November",
+      "site.en.kremlin.ru \"November 5, 2026\" \"sport\"",
+      "\"철도노조\" \"77.58\" \"2026\"",
+      "\"서울교통공사\" \"쟁의행위\" \"2026.11.06\"",
+      "site.whitehouse.gov/presidential-actions/2026/11/ \"ESTABLISHMENT OF THE OVAL OFFICE\"",
+      "site.whitehouse.gov \"Fact Sheet\" \"Oval Office\" \"November 5, 2026\"",
+      "site.tas-cas.org \"2026\" \"5 November\" \"Russia\"",
+      "\"철도노조\" \"77.58%\" \"11월 5일\"",
+      "\"2026.11.06\" \"서울교통공사\" \"가결\"",
+      "\"2026-11-05\" \"Putin\" \"sport\" Kremlin"
     ],
     "opened_urls": [
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833332",
-      "https://www.newspim.com/news/view/20261106000220",
-      "https://www.mt.co.kr/stock/2026/11/06/2026110609060860921",
-      "https://sports.khan.co.kr/article/202611060015003",
-      "https://www.schaatsen.nl/nieuws/jenning-de-boo-mist-eerste-world-cups-door-gebroken-sleutelbeen/",
-      "https://www.wielerflits.nl/nieuws/schaatser-jenning-de-boo-loopt-typische-wielerblessure-op-bij-val-van-fiets/",
-      "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
-      "https://www.skysports.com/football/news/13607043/celtic-3-2-besiktas-camilo-duran-and-callum-osmand-come-off-bench-to-inspire-hoops-to-first-europa-league-win"
+      "https://www.skysports.com/football/news/13607043/celtic-3-2-besiktas-camilo-duran-and-callum-osmand-come-off-bench-to-inspire-hoops-to-first-europa-league-win",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833121",
+      "https://www.tas-cas.org/generated/assets/lists/dceab111-07bc-435f-b5f9-de88eff9db72/CAS%20Media%20Release_RIHF%20v.%20IIHF%20Statement.pdf",
+      "https://www.channelnewsasia.com/sport/putin-says-countries-resisting-russias-return-world-sport-are-violating-democratic-bodies-6528776",
+      "https://www4.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=06815846645642768",
+      "https://www.whitehouse.gov/presidential-actions/2026/11/establishment-of-the-oval-office-national-monument/",
+      "https://www.ksat.com/news/politics/2026/11/05/trump-signs-proclamation-he-says-will-prevent-future-changes-to-the-oval-office-and-cabinet-room/",
+      "https://imnews.imbc.com/news/2026/society/article/6863481_36919.html",
+      "https://www.channelnewsasia.com/world",
+      "https://www.channelnewsasia.com/world/russia-ukraine-oil-refinery-attack-us-diesel-deal-6528411",
+      "https://www.channelnewsasia.com/world/trump-oval-office-national-monument-white-house-6529706",
+      "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-establishes-the-oval-office-as-a-national-monument/",
+      "https://news.sbs.co.kr/amp/news.amp?news_id=N1008833192",
+      "https://www.tas-cas.org/en"
     ],
     "unavailable": [
-      "NL Times 경기 기사 HTTP403. 반복 요청 없이 SBS 본문 확인.",
-      "Celtic 공식 페이지에서 본문 미노출. Sky Sports 기사 본문으로 전환.",
-      "@bythepulse 공개 게재 전체는 확인 불가. 공개 실제 sent/uncertain 7일411개 사건·URL과 대조."
+      "GitHub 복제503 두 차례. 연결 도구로 최신main 고정 공개 파일을 받아 동일 Python 수집 실행.",
+      "CNA Russell Brand 기사 비지원 리디렉션. 재시도 없이 제외.",
+      "CAS 옛 index.html404. 공식 홈에서 최신 PDF로 이동.",
+      "@bythepulse 공개 게재 전체 확인 불가.7일 실제 sent/uncertain406개 사건·URL과 대조."
     ]
   },
   "picks": [
     {
-      "title": "조규성·홍현석의 미트윌란, 아약스에 1대6…퇴장 뒤 후반 5실점",
-      "category": "축구",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833332",
-      "source": "SBS",
-      "kind": "article",
-      "event_key": "midtjylland-ajax-six-one-red-card-five-second-half-goals-20261105",
-      "why": "한국 대표팀 공격수들이 뛴 유럽대항전에서 대패하며 3경기 무승에 빠졌다.",
-      "angle": "1대1에서 퇴장, 후반에만 5실점…미트윌란에 무슨 일이 있었나",
-      "why_now": "경기는 현지 11월5일·KST6일. SBS 최초 입력 6일08:37:50 KST. 새 경기 결과이며 직전 회차 미발송.",
-      "verified_at": 1793930907,
-      "published_at": 1793921870,
-      "evidence": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833332",
-          "note": "본문에서 1대6, 전반43분 경고누적 퇴장, 후반5실점과 한국 선수 출전 사실 확인. 경기 영상은 보지 않았다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833332",
-          "label": "확인한 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "기사 본문 확인. 영상 미시청이며 대회 탈락이 확정된 것은 아니다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-05",
-        "observation": "조규성 선발·하프타임 교체, 홍현석 후반23분 투입. 전반43분 경고누적 퇴장 뒤 후반5실점, 1무2패를 본문에서 확인했다.",
-        "checked_materials": [],
-        "outline": [
-          "1대1→전반43분 퇴장→후반5실점 흐름",
-          "조규성·홍현석 출전과 리그 페이즈 1무2패를 구분"
-        ]
-      }
-    },
-    {
-      "title": "코스피 8%대 급락에 20분 거래 중단…1단계 서킷브레이커",
-      "category": "시사",
-      "url": "https://www.newspim.com/news/view/20261106000220",
-      "source": "뉴스핌·머니투데이",
-      "kind": "article",
-      "event_key": "kospi-stage-one-circuit-breaker-twenty-minute-trading-halt-20261106",
-      "why": "국내 주식시장 거래 자체가 멈춘 사건으로 투자자와 시장 전반에 직접 영향을 줬다.",
-      "angle": "매도 주문만 멈춘 사이드카를 넘어, 시장 거래가 20분 멈췄다",
-      "why_now": "11월6일09:03 KST 발동. 뉴스핌 최초09:05, 09:15수정. 09:23 해제 보도도 확인. 전날 사이드카·미 증시 종가와 다른 국내 새 조치.",
-      "verified_at": 1793930745,
-      "published_at": 1793923500,
-      "evidence": [
-        {
-          "url": "https://www.newspim.com/news/view/20261106000220",
-          "note": "거래소 발표를 인용한 기사 본문에서 1단계 서킷브레이커와20분 중단 확인."
-        },
-        {
-          "url": "https://www.mt.co.kr/stock/2026/11/06/2026110609060860921",
-          "note": "09:24 최초 보도에서09:23 해제와10분 단일가 매매 재개 확인. 현재도 거래 중단 상태라고 쓰지 않는다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.newspim.com/news/view/20261106000220",
-          "label": "확인한 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "거래는 재개됐다. 장중 수치이며 종가·투자 전망으로 쓰지 않는다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-06",
-        "observation": "뉴스핌 본문에서09:03:33 발동·현물 및 선물20분 중단 확인. 머니투데이09:24 보도에서09:23 해제와10분 단일가 재개 확인.",
-        "checked_materials": [],
-        "outline": [
-          "서킷브레이커 1단계 발동과 20분 중단",
-          "09:23 해제·단일가 재개, 사이드카와 차이"
-        ]
-      }
-    },
-    {
-      "title": "서울 삼성, 11경기 만에 10승…KBL 역대 최단 타이",
-      "category": "메이저 스포츠",
-      "url": "https://sports.khan.co.kr/article/202611060015003",
-      "source": "스포츠경향",
-      "kind": "article",
-      "event_key": "seoul-samsung-ten-wins-eleven-games-kbl-fastest-tie-20261105",
-      "why": "개막 돌풍이 첫 패배 뒤에도 이어지며 KBL 역대 최단 10승 기록에 도달했다.",
-      "angle": "첫 패배 다음 경기, 이관희가 4쿼터 12점으로 최단 10승 완성",
-      "why_now": "경기는11월5일 울산. 원문 최초6일00:15 KST. 과거 발송한10월30일 개막9연승과 다른 새 경기·10승 도달 사실.",
-      "verified_at": 1793930746,
-      "published_at": 1793891700,
-      "evidence": [
-        {
-          "url": "https://sports.khan.co.kr/article/202611060015003",
-          "note": "기사 본문에서 경기일·결과·최단 타이7번째와 이관희의4쿼터12점 확인. 영상 미시청."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://sports.khan.co.kr/article/202611060015003",
-          "label": "확인한 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "최단 단독 신기록이 아닌 타이, 역대7번째 사례다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-05",
-        "observation": "삼성81대76 승리,10승1패. 11경기10승은 역대 타이7번째, 이관희4쿼터12점·총14점, 칸터32점12리바운드를 기사 본문에서 확인.",
-        "checked_materials": [],
-        "outline": [
-          "첫 패배 직후 81대76 승리로10승1패",
-          "11경기10승 타이와 이관희4쿼터12점 설명"
-        ]
-      }
-    },
-    {
-      "title": "구글, 와이오밍 첫 데이터센터에 170억 달러 투자 발표",
-      "category": "시사",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
-      "source": "Google 공식 블로그",
-      "kind": "official",
-      "event_key": "google-wyoming-first-data-center-seventeen-billion-investment-20261105",
-      "why": "AI 인프라 투자와 전력·탄소·지역 비용을 둘러싼 대규모 산업 결정이다.",
-      "angle": "170억 달러 데이터센터, 전기·성장 인프라 비용은 구글이 부담한다고 밝혔다",
-      "why_now": "공식 발표 최초11월5일17:00 UTC(6일02:00 KST),17:19수정. 와이오밍 첫 센터 장기 투자 계획 공개.",
-      "verified_at": 1793930743,
-      "published_at": 1793898000,
-      "evidence": [
-        {
-          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
-          "note": "공식 발표 본문 확인.702MW는 계획된 연료전지 발전 규모이며, 천연가스를 사용한다. 회사의 환경·지역 효과 주장은 검증된 실적으로 바꾸지 않는다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
-          "label": "확인한 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "회사 발표·계획이다. 완공·제로배출·가동일 확정으로 표현하지 않는다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-05",
-        "observation": "공식 본문에서 장기170억 달러 투자, 전력100% 및 성장 유발 인프라 비용 부담 약속,702MW 연료전지·탄소포집 계획과 공랭식 설계를 확인.",
-        "checked_materials": [],
-        "outline": [
-          "170억 달러 장기 투자와 첫 와이오밍 센터",
-          "전력비·인프라 비용 부담 약속과702MW 계획의 한계"
-        ]
-      }
-    },
-    {
-      "title": "올림픽 은메달 2개 더보, 자전거 사고로 쇄골 골절…초반 월드컵 불참",
-      "category": "메이저 스포츠",
-      "url": "https://www.schaatsen.nl/nieuws/jenning-de-boo-mist-eerste-world-cups-door-gebroken-sleutelbeen/",
-      "source": "Schaatsen.nl·WielerFlits",
-      "kind": "article",
-      "event_key": "jenning-de-boo-cycling-collarbone-surgery-world-cups-withdrawal-20261104",
-      "why": "올림픽500·1000m 은메달리스트의 부상으로 국제 빙속 초반 판도에 공백이 생겼다.",
-      "angle": "빙판 시즌 앞두고 자전거를 타다 골절, 수술 후 첫 월드컵들을 건너뛴다",
-      "why_now": "사고는11월4일 현지 아침, 수술·불참 발표는5일. 원문5일 공개는 확인했으나 최초 시각·시간대는 확정 못해 일 단위로 표기.",
-      "verified_at": 1793930888,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://www.schaatsen.nl/nieuws/jenning-de-boo-mist-eerste-world-cups-door-gebroken-sleutelbeen/",
-          "note": "본문에서 부상과 초반 월드컵 불참을 확인했다. 본인 Instagram을 인용한 기사이며 직접 게시물·영상 확인은 하지 않았다."
-        },
-        {
-          "url": "https://www.wielerflits.nl/nieuws/schaatser-jenning-de-boo-loopt-typische-wielerblessure-op-bij-val-van-fiets/",
-          "note": "본문에서 올림픽500·1000m 은메달과 본인 발표 인용 확인. 기사 메타데이터와 표시 시간대 차이로 최초 공개 시각은 단정하지 않는다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.schaatsen.nl/nieuws/jenning-de-boo-mist-eerste-world-cups-door-gebroken-sleutelbeen/",
-          "label": "확인한 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "복귀일·대체 선수는 확정하지 않는다. 본인 SNS·영상은 직접 보지 않았다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-04",
-        "observation": "네덜란드 빙속 전문 원문에서 수요일 아침 자전거 사고·쇄골 골절·수술·초반 월드컵 불참 확인. 독립 보도에서500·1000m 올림픽 은메달 확인.",
-        "checked_materials": [],
-        "outline": [
-          "11월4일 사고→5일 수술·불참 공개",
-          "초반 월드컵 결장 영향, 복귀 일정은 미정"
-        ]
-      }
-    },
-    {
-      "title": "셀틱, 교체 선수들이 3골…베식타시 꺾고 유로파 첫 승",
+      "title": "교체 선수들이 3골…셀틱, 87분 결승골로 유로파 첫 승",
       "category": "축구",
       "url": "https://www.skysports.com/football/news/13607043/celtic-3-2-besiktas-camilo-duran-and-callum-osmand-come-off-bench-to-inspire-hoops-to-first-europa-league-win",
       "source": "Sky Sports",
       "kind": "article",
       "event_key": "celtic-besiktas-three-substitute-goals-first-europa-win-20261105",
-      "why": "3연패로 몰린 셀틱이 교체 카드로 유로파 생존 경쟁의 첫 승점을 얻었다.",
-      "angle": "첫 터치 동점골, 동점 허용 2분 뒤 결승골…교체가 만든 첫 승",
-      "why_now": "경기11월5일 영국. 기사 메타 최초22:00 UTC,23:14갱신. SBS6일08:37 KST 보도도3연패 뒤 첫 승 확인.",
-      "verified_at": 1793930929,
+      "why": "유럽대항전에서 몰리던 셀틱이 교체 카드로 뒤집어 첫 승을 챙겼다.",
+      "angle": "투입 첫 터치 동점골, 85분 동점 허용 뒤 87분 재역전",
+      "why_now": "경기는11월5일 영국. 기사 메타 최초22:00 UTC,23:14갱신. 직전 회차 예비로만 검토했고 실제 미발송인 새 경기.",
+      "verified_at": 1793934427,
       "published_at": 1793916000,
       "evidence": [
         {
           "url": "https://www.skysports.com/football/news/13607043/celtic-3-2-besiktas-camilo-duran-and-callum-osmand-come-off-bench-to-inspire-hoops-to-first-europa-league-win",
-          "note": "Sky 경기 기사 본문에서 교체 선수3골과 마지막 반전 확인. 상세 분 표시는 매체차 있어 본문 근거87분을 사용."
-        },
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833332",
-          "note": "SBS 본문에서 셀틱3연패 뒤 첫 승·1승3패, 베식타스 첫 패배 확인."
+          "note": "기사 본문에서 교체 선수3골과 첫 승, 후반 막판 재역전 확인. 사진·경기 영상을 직접 본 것으로 쓰지 않는다."
         }
       ],
       "materials": [
@@ -261,15 +89,208 @@
           "kind": "source"
         }
       ],
-      "caution": "본문 사실 카드다. 경기 영상 미시청이며 진출 확정이 아니다.",
+      "caution": "기사 본문 확인, 영상 미시청. 다음 단계 진출 확정은 아니다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-05",
-        "observation": "Sky 본문에서 오스만드 투입 직후 동점골·두란2골,85분 동점 허용 뒤87분 결승골과3대2 승리 확인. SBS도 셀틱1승3패 확인.",
+        "observation": "오스만드 교체 첫 터치 동점골·두란2골,85분 동점 허용 뒤87분 결승골과3대2 승리를 Sky 본문에서 확인했다.",
         "checked_materials": [],
         "outline": [
-          "교체 오스만드 첫 터치 동점골·두란 역전골",
-          "85분 동점→87분 결승골과 첫 승의 의미"
+          "교체 선수들이 만든 동점·역전의 흐름",
+          "85분 동점→87분 결승골, 유로파 첫 승의 의미"
+        ]
+      }
+    },
+    {
+      "title": "로테이션 돌린 강원, 쿠칭에 0대2…ACL2 조 최하위 추락",
+      "category": "축구",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833121",
+      "source": "SBS",
+      "kind": "article",
+      "event_key": "gangwon-kuching-away-two-nil-loss-acl2-bottom-group-20261105",
+      "why": "K리그 구단이 일주일 전 이겼던 상대에 패하며 아시아대항전 조 최하위로 밀렸다.",
+      "angle": "안방 첫 승 일주일 뒤, 말레이시아 원정에서 전반 두 골 허용",
+      "why_now": "경기는11월5일 말레이시아. SBS 최초6일01:05:09 KST. 지난10월29일 홈 승리와 다른4차전 원정 패배.",
+      "verified_at": 1793934427,
+      "published_at": 1793894709,
+      "evidence": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833121",
+          "note": "기사 본문에서 경기결과·조 순위·전반2실점 확인. 로테이션과 패배의 인과를 단정하거나 감독 의중을 추정하지 않는다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833121",
+          "label": "확인한 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "조 최하위이며 탈락 확정은 아니다. 영상은 보지 않았다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-05",
+        "observation": "SBS 본문에서0대2,1승1무2패 승점4·골득실로H조4위, 전반13·20분 라시드 득점과 선발 로테이션을 확인했다.",
+        "checked_materials": [],
+        "outline": [
+          "일주일 전1대0 승리와 이번0대2 패배 비교",
+          "승점4·H조 최하위, 아직 탈락 확정 아님"
+        ]
+      }
+    },
+    {
+      "title": "러시아 복귀 논란에 CAS 재설명…“IIHF가 배제 근거 충분히 못 냈다”",
+      "category": "메이저 스포츠",
+      "url": "https://www.tas-cas.org/generated/assets/lists/dceab111-07bc-435f-b5f9-de88eff9db72/CAS%20Media%20Release_RIHF%20v.%20IIHF%20Statement.pdf",
+      "source": "CAS 공식 성명·Reuters",
+      "kind": "official",
+      "event_key": "cas-rihf-iihf-nonparticipation-evidence-neutrality-clarification-20261105",
+      "why": "국가들의 경기 거부로 번진 국제 하키 복귀 갈등에 스포츠중재재판소가 판단 범위를 공개했다.",
+      "angle": "복귀 판결 뒤 반발…CAS가 새 성명에서 짚은 증거와 중립 조건",
+      "why_now": "11월5일 CAS 별도 성명 공개, 시각 미표기로 일 단위.10월30일 원판결·캐나다 거부·스코다 반응과 다른 새 해명 내용.",
+      "verified_at": 1793934501,
+      "published_at": null,
+      "evidence": [
+        {
+          "url": "https://www.tas-cas.org/generated/assets/lists/dceab111-07bc-435f-b5f9-de88eff9db72/CAS%20Media%20Release_RIHF%20v.%20IIHF%20Statement.pdf",
+          "note": "11월5일자 공식 PDF 전문을 확인했다. 판정 취소나 새 복귀 결정이 아니라 증거·심리 범위에 관한 해명이다."
+        },
+        {
+          "url": "https://www.channelnewsasia.com/sport/putin-says-countries-resisting-russias-return-world-sport-are-violating-democratic-bodies-6528776",
+          "note": "Reuters 본문에서 푸틴의11월5일 반발국 비판과 CAS의 당일 재설명 확인. 푸틴의 법 위반 주장은 사실 판단과 구분한다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.tas-cas.org/generated/assets/lists/dceab111-07bc-435f-b5f9-de88eff9db72/CAS%20Media%20Release_RIHF%20v.%20IIHF%20Statement.pdf",
+          "label": "확인한 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "CAS의 절차 설명이다. 모든 종목 무조건 복귀·보이콧 불법 확정으로 쓰지 않는다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-05",
+        "observation": "공식1쪽 성명에서 IIHF의 배제 법적 요건 증거 부족, 중립 체제 등 미신청 조치를 CAS가 부과할 수 없다는 설명을 확인했다.",
+        "checked_materials": [],
+        "outline": [
+          "10월30일 판결 후 반발과11월5일 별도 성명 구분",
+          "증거 부족·미신청 중립 조건·정식 판정문 추후 공개"
+        ]
+      }
+    },
+    {
+      "title": "트럼프, 집무실을 국가기념물로 지정…선언문은 재장식 허용",
+      "category": "시사",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/11/establishment-of-the-oval-office-national-monument/",
+      "source": "백악관 선언문·AP",
+      "kind": "official",
+      "event_key": "trump-oval-office-cabinet-room-national-monument-proclamation-20261105",
+      "why": "중간선거 참패 직후 내놓은 대통령 공식 조치에서 강경 발언과 문서의 실제 범위가 갈린다.",
+      "angle": "“아무도 못 건드리게” 했지만, 선언문엔 재장식 예외가 있다",
+      "why_now": "서명은11월5일 미국 현지. 선언문 최초 메타22:51:56 UTC,22:51:57수정.5일 국가기념물 신설 조치.",
+      "verified_at": 1793934490,
+      "published_at": 1793919116,
+      "evidence": [
+        {
+          "url": "https://www.whitehouse.gov/presidential-actions/2026/11/establishment-of-the-oval-office-national-monument/",
+          "note": "공식 선언문 전문에서 지정 대상과 예외를 직접 확인했다. 의회 승인이 모든 변경에 필수라는 조항은 없다."
+        },
+        {
+          "url": "https://www.ksat.com/news/politics/2026/11/05/trump-signs-proclamation-he-says-will-prevent-future-changes-to-the-oval-office-and-cabinet-room/",
+          "note": "AP 본문에서 대통령 발언·중간선거 후 첫 공식 조치라는 맥락 및 후임 대통령의 재장식·선언 철회 가능성 설명을 확인했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.whitehouse.gov/presidential-actions/2026/11/establishment-of-the-oval-office-national-monument/",
+          "label": "확인한 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "실내 장식 변경 전면 금지·후임 대통령의 영구 변경 불가로 쓰지 않는다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-05",
+        "observation": "선언문에서 집무실·외부 집무실·국무회의실 지정, 중대한 변경 전 검토 의무와 재장식·가구 선택·통상 변경 예외를 확인했다.",
+        "checked_materials": [],
+        "outline": [
+          "기념물로 지정한 공간과 보존·검토 조치",
+          "대통령 발언과 재장식 허용 예외를 나란히 설명"
+        ]
+      }
+    },
+    {
+      "title": "철도노조 쟁의투표 가결…23일 안전운행 투쟁·12월 총파업 예고",
+      "category": "시사",
+      "url": "https://www4.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=06815846645642768",
+      "source": "이데일리",
+      "kind": "article",
+      "event_key": "korean-railway-union-industrial-action-vote-passed-december-strike-plan-20261105",
+      "why": "전국 고속철도·통근 교통에 영향을 줄 수 있는 쟁의 절차가 가결돼 이용객도 알아야 할 사안이다.",
+      "angle": "열차가 이미 멈춘 건 아니다…노조가 예고한23일·12월 일정",
+      "why_now": "투표 종료·결과 발표는11월5일. 기사 표시 최초5일18:36:10, 메타 시간대와 불일치해 epoch는 비워둔다.12시간 밖 미발송을24시간으로 확대.",
+      "verified_at": 1793934492,
+      "published_at": null,
+      "evidence": [
+        {
+          "url": "https://www4.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=06815846645642768",
+          "note": "기사 본문 확인. 투표 분모는 타 보도와 차이 있어 수치를 쓰지 않는다. 메타+08:00와 국내 표시시각 불일치로 최초 공개는 표시시각만 명시한다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www4.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=06815846645642768",
+          "label": "확인한 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "파업은 교섭 진전 없을 경우의 계획이다. 운행 감축률·확정 파업일은 미정.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-05",
+        "observation": "본문에서 쟁의투표 가결,14일 결의대회·23일 안전운행 투쟁·교섭 진전 없으면12월 총파업 계획과 승진·안전인력 갈등을 확인했다.",
+        "checked_materials": [],
+        "outline": [
+          "쟁의투표 가결과 승진·안전인력 쟁점",
+          "14일·23일·12월 조건부 일정, 현재 운행중단 아님"
+        ]
+      }
+    },
+    {
+      "title": "서울교통공사 노조도 쟁의 가결…20일부터 준법투쟁 예고",
+      "category": "시사",
+      "url": "https://imnews.imbc.com/news/2026/society/article/6863481_36919.html",
+      "source": "MBC",
+      "kind": "article",
+      "event_key": "seoul-metro-union-industrial-action-vote-nov20-work-to-rule-20261105",
+      "why": "수도권 출퇴근 수요가 큰 지하철에서 인력·임금 갈등이 쟁의 단계로 넘어갔다.",
+      "angle": "20일부터 준법투쟁, 교섭 불발 시 파업…현재 전면 운행중단 아님",
+      "why_now": "투표 결과·준법투쟁 계획 공개는11월5일. MBC 최초18:51:48 KST,18:51:57수정. 전국철도노조와 다른 서울교통공사 노조 사건.",
+      "verified_at": 1793934493,
+      "published_at": 1793872308,
+      "evidence": [
+        {
+          "url": "https://imnews.imbc.com/news/2026/society/article/6863481_36919.html",
+          "note": "MBC 본문으로 노조 발표를 확인했다. 노사 타결 여부에 따라 달라지는 계획이며 전국철도노조 일정과 혼동하지 않는다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://imnews.imbc.com/news/2026/society/article/6863481_36919.html",
+          "label": "확인한 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "파업 확정·즉시 운행중단으로 표현하지 않는다. 철도노조 일정과 구분한다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-05",
+        "observation": "본문에서 투표자86.3% 찬성,20일 준법투쟁,교섭 진전 없으면 파업 방침과 임금3.5% 인상·인력감축 철회 요구를 확인했다.",
+        "checked_materials": [],
+        "outline": [
+          "서울교통공사 노조 쟁의 가결·20일 준법투쟁",
+          "조건부 파업 방침과 인력·임금 쟁점"
         ]
       }
     }
