@@ -1,6 +1,441 @@
 {
   "version": 1,
   "items": {
+    "aeba73d7bfce": {
+      "source": "Concacaf",
+      "title": "골드컵도 조별리그 개편…8팀씩 두 조, 팀당 4경기로 바뀐다",
+      "link": "https://www.concacaf.com/competitions/gold-cup/news/concacaf-sets-stage-for-2027-gold-cup-with-exciting-new-format-and-dates",
+      "first_seen_at": 1793956030,
+      "last_seen_at": 1793956030,
+      "samples": [
+        {
+          "at": 1793956030,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "official",
+      "story_id": "aeba73d7bfce",
+      "editorial": {
+        "title": "골드컵도 조별리그 개편…8팀씩 두 조, 팀당 4경기로 바뀐다",
+        "category": "축구",
+        "url": "https://www.concacaf.com/competitions/gold-cup/news/concacaf-sets-stage-for-2027-gold-cup-with-exciting-new-format-and-dates",
+        "source": "Concacaf",
+        "kind": "official",
+        "event_key": "concacaf-gold-cup2027-two-groups-eight-four-matches-format-announced-20261105",
+        "why": "북중미 최대 국가대표 대회의 경쟁 방식이 바뀌는 공식 결정이다. 참가국 수와 대진 구조의 변화를 설명할 수 있다.",
+        "angle": "8팀 한 조인데 왜 7경기가 아닌 4경기인지 도식으로 보여준다.",
+        "why_now": "11월5일 공식 발표. 게시 메타데이터는17:00:59 UTC(6일02:00:59 KST), 갱신 시각과 구분. 24시간 미발송 범위로 확장했다.",
+        "verified_at": 1793955814,
+        "published_at": 1793898059,
+        "evidence": [
+          {
+            "url": "https://www.concacaf.com/competitions/gold-cup/news/concacaf-sets-stage-for-2027-gold-cup-with-exciting-new-format-and-dates",
+            "note": "공식 본문에서 16개국 유지, 8팀씩2조·팀당 서로 다른4개 상대와 경기, 조별 상위4팀8강 진출을 확인했다. 랭킹 밴드마다 한 상대를 배정하며 전체 풀리그가 아니다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.concacaf.com/competitions/gold-cup/news/concacaf-sets-stage-for-2027-gold-cup-with-exciting-new-format-and-dates",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "8팀 풀리그·팀당7경기로 오기하지 않는다. 개최 경기장·입장권 세부는 추후 발표. 설명 영상 미시청.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-05",
+          "observation": "공식 본문에서 16개국 유지, 8팀씩2조·팀당 서로 다른4개 상대와 경기, 조별 상위4팀8강 진출을 확인했다. 랭킹 밴드마다 한 상대를 배정하며 전체 풀리그가 아니다.",
+          "checked_materials": [],
+          "outline": [
+            "기존4팀씩4조에서8팀씩2조로 비교",
+            "랭킹 밴드별1팀씩, 팀당4경기 설명",
+            "각조 상위4팀8강·2027년6월17일~7월11일 일정 제시"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.concacaf.com/competitions/gold-cup/news/concacaf-sets-stage-for-2027-gold-cup-with-exciting-new-format-and-dates"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월5일 공식 발표. 게시 메타데이터는17:00:59 UTC(6일02:00:59 KST), 갱신 시각과 구분. 24시간 미발송 범위로 확장했다.",
+        "fetched_at": 1793956030,
+        "parser_revision": 7
+      },
+      "curation_event_key": "concacaf-gold-cup2027-two-groups-eight-four-matches-format-announced-20261105"
+    },
+    "ff8e2a659964": {
+      "source": "경향신문",
+      "title": "조작기소 특검법, 본회의 통과…찬성167·반대1, 국힘 불참",
+      "link": "https://www.khan.co.kr/article/202611061727001/amp",
+      "first_seen_at": 1793956030,
+      "last_seen_at": 1793956030,
+      "samples": [
+        {
+          "at": 1793956030,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "ff8e2a659964",
+      "editorial": {
+        "title": "조작기소 특검법, 본회의 통과…찬성167·반대1, 국힘 불참",
+        "category": "시사",
+        "url": "https://www.khan.co.kr/article/202611061727001/amp",
+        "source": "경향신문",
+        "kind": "article",
+        "event_key": "fabricated-prosecution-special-counsel-bill-plenary-passed-20261106",
+        "why": "현직 대통령 관련 사건 등을 다룰 특별검사 법안의 국회 의결로 사법·정치 전반에 영향이 크다.",
+        "angle": "필리버스터 뒤 본회의 가결 사실과 이전 상정 단계의 차이를 먼저 제시한다.",
+        "why_now": "11월6일 본회의 가결이라는 새 결정. 5일 상정·필리버스터 발송과 다르다. 기사 최초17:27 KST,17:36 갱신.",
+        "verified_at": 1793955815,
+        "published_at": 1793953620,
+        "evidence": [
+          {
+            "url": "https://www.khan.co.kr/article/202611061727001/amp",
+            "note": "기사 본문에서 필리버스터 종료 후 재석168명 중 찬성167·반대1로 특검법이 의결되고 국민의힘은 표결에 참여하지 않았음을 확인했다. 이재명 대통령 관련 사건이 다수 포함된 법안이다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.khan.co.kr/article/202611061727001/amp",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "법안 명칭의 의혹을 조작 사실 확정으로 쓰지 않는다. 특검 임명·수사 착수 완료와 구분한다. 본회의 영상 미시청.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-06",
+          "observation": "기사 본문에서 필리버스터 종료 후 재석168명 중 찬성167·반대1로 특검법이 의결되고 국민의힘은 표결에 참여하지 않았음을 확인했다. 이재명 대통령 관련 사건이 다수 포함된 법안이다.",
+          "checked_materials": [],
+          "outline": [
+            "전날 상정에서6일 본회의 가결까지 진행 정리",
+            "168명 표결 결과와 국민의힘 불참 제시",
+            "의혹 규명 법안의 의결과 실제 수사 개시 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.khan.co.kr/article/202611061727001/amp"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월6일 본회의 가결이라는 새 결정. 5일 상정·필리버스터 발송과 다르다. 기사 최초17:27 KST,17:36 갱신.",
+        "fetched_at": 1793956030,
+        "parser_revision": 7
+      },
+      "curation_event_key": "fabricated-prosecution-special-counsel-bill-plenary-passed-20261106"
+    },
+    "f8f6705f9877": {
+      "source": "TV Asahi",
+      "title": "일본 식료품 소비세8→1% 법안, 중의원 통과…참의원 심의 남았다",
+      "link": "https://news.tv-asahi.co.jp/news_politics/articles/000545774.html",
+      "first_seen_at": 1793956030,
+      "last_seen_at": 1793956030,
+      "samples": [
+        {
+          "at": 1793956030,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "f8f6705f9877",
+      "editorial": {
+        "title": "일본 식료품 소비세8→1% 법안, 중의원 통과…참의원 심의 남았다",
+        "category": "시사",
+        "url": "https://news.tv-asahi.co.jp/news_politics/articles/000545774.html",
+        "source": "TV Asahi",
+        "kind": "article",
+        "event_key": "japan-food-consumption-tax8to1-bill-lower-house-passed-20261106",
+        "why": "가계 식료품 지출과 국가 재정에 영향을 줄 전국 단위 감세 법안이 실제 표결 단계를 넘었다.",
+        "angle": "8%에서1%로 낮추는 법안의 내용과 아직 확정되지 않은 절차를 함께 보여준다.",
+        "why_now": "11월6일 중의원 본회의 가결·참의원 이송. 당초 감세 방침 발표와 다른 새 결정이다. 확인한 원문 최초14:34:36 JST/KST.",
+        "verified_at": 1793955835,
+        "published_at": 1793943276,
+        "evidence": [
+          {
+            "url": "https://news.tv-asahi.co.jp/news_politics/articles/000545774.html",
+            "note": "일본 원문 본문에서 내년4월부터2년간 식료품 소비세8→1%, 중저소득자에게 잔여1% 상당 급부를 담은 법안의 중의원 통과를 확인했다. 야당 반대, 다음주 참의원 심의 예정도 명시됐다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.tv-asahi.co.jp/news_politics/articles/000545774.html",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "법률 성립·인하 시행 확정이 아니다. 재원·구체 급부 대상 미공개를 병기한다. 기사 본문만 확인, 영상 미시청.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-06",
+          "observation": "일본 원문 본문에서 내년4월부터2년간 식료품 소비세8→1%, 중저소득자에게 잔여1% 상당 급부를 담은 법안의 중의원 통과를 확인했다. 야당 반대, 다음주 참의원 심의 예정도 명시됐다.",
+          "checked_materials": [],
+          "outline": [
+            "중의원 통과와2027년4월부터2년 인하안 제시",
+            "잔여1% 상당 지원 구상·재원 미공개 구분",
+            "참의원 심의가 남았음을 명확히 표시"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://news.tv-asahi.co.jp/news_politics/articles/000545774.html"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월6일 중의원 본회의 가결·참의원 이송. 당초 감세 방침 발표와 다른 새 결정이다. 확인한 원문 최초14:34:36 JST/KST.",
+        "fetched_at": 1793956030,
+        "parser_revision": 7
+      },
+      "curation_event_key": "japan-food-consumption-tax8to1-bill-lower-house-passed-20261106"
+    },
+    "e688c5785820": {
+      "source": "연합뉴스",
+      "title": "최종 승인 한 시간 뒤 제동…트럼프 개선문 공사14일 금지",
+      "link": "https://www.yna.co.kr/amp/view/AKR20261106138200009",
+      "first_seen_at": 1793956030,
+      "last_seen_at": 1793956030,
+      "samples": [
+        {
+          "at": 1793956030,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "e688c5785820",
+      "editorial": {
+        "title": "최종 승인 한 시간 뒤 제동…트럼프 개선문 공사14일 금지",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/amp/view/AKR20261106138200009",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "washington-trump-arch-final-approval-court14day-tro-20261106",
+        "why": "미 대통령 역점 사업의 착공을 법원이 실제로 막았다. 행정 권한과 의회 승인 다툼이 핵심이다.",
+        "angle": "최종 승인에서14일 임시 금지까지 하루의 결정 순서를 제시한다.",
+        "why_now": "미국 현지11월5일 최종 승인,6일 새벽 법원 명령이라는 새 결정. 확인한 기사 최초6일16:06:43 KST; 미국 원보도 최초 시각은 미확인.",
+        "verified_at": 1793955814,
+        "published_at": 1793948803,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/amp/view/AKR20261106138200009",
+            "note": "본문에서 NCPC·NPS 승인 뒤 워싱턴DC 연방지방법원 처트컨 판사가14일 공사 금지 명령을 내린 사실을 확인했다. 약76m 아치 계획이며 영구 취소 결정은 아니다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/amp/view/AKR20261106138200009",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "법원 명령문·미국 원보도 직접 열람은 하지 않았다. 임시 중단을 사업 영구 무산으로 쓰지 않는다. 영상 미시청.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-06",
+          "observation": "본문에서 NCPC·NPS 승인 뒤 워싱턴DC 연방지방법원 처트컨 판사가14일 공사 금지 명령을 내린 사실을 확인했다. 약76m 아치 계획이며 영구 취소 결정은 아니다.",
+          "checked_materials": [],
+          "outline": [
+            "행정당국 최종 승인과 직후 법원 명령 비교",
+            "14일 임시 금지와 의회 승인 권한 쟁점 설명",
+            "76m 계획·재원 불확실성과 향후 심리 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.yna.co.kr/amp/view/AKR20261106138200009"
+          }
+        ],
+        "excerpt": "",
+        "context": "미국 현지11월5일 최종 승인,6일 새벽 법원 명령이라는 새 결정. 확인한 기사 최초6일16:06:43 KST; 미국 원보도 최초 시각은 미확인.",
+        "fetched_at": 1793956030,
+        "parser_revision": 7
+      },
+      "curation_event_key": "washington-trump-arch-final-approval-court14day-tro-20261106"
+    },
+    "b1e9e43d6e48": {
+      "source": "CNA·Malay Mail",
+      "title": "정당이 벌금5000만 링깃 대납…나집 전 총리, 교도소 떠나 가택연금 전환",
+      "link": "https://www.channelnewsasia.com/asia/malaysia-najib-razak-prison-release-begin-house-arrest-6530331",
+      "first_seen_at": 1793956030,
+      "last_seen_at": 1793956030,
+      "samples": [
+        {
+          "at": 1793956030,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "b1e9e43d6e48",
+      "editorial": {
+        "title": "정당이 벌금5000만 링깃 대납…나집 전 총리, 교도소 떠나 가택연금 전환",
+        "category": "시사",
+        "url": "https://www.channelnewsasia.com/asia/malaysia-najib-razak-prison-release-begin-house-arrest-6530331",
+        "source": "CNA·Malay Mail",
+        "kind": "article",
+        "event_key": "najib-src-fine50million-paid-umno-house-arrest-order-release-20261106",
+        "why": "국가적 부패 사건으로 수감된 전직 총리의 형 집행이 달라진 실제 변화다. 정당 모금·벌금 대납도 공적 책임 논쟁을 만든다.",
+        "angle": "면죄가 아니라 집에서 남은 형기를 복역한다는 점부터 짚는다.",
+        "why_now": "9월 조건부 사면 자체가 아닌11월6일 벌금 납부·법원 명령·출소가 새 사실. CNA 최초16:38 KST,17:34:31 갱신. 출소는현지14:37 보도.",
+        "verified_at": 1793955835,
+        "published_at": 1793950680,
+        "evidence": [
+          {
+            "url": "https://www.channelnewsasia.com/asia/malaysia-najib-razak-prison-release-begin-house-arrest-6530331",
+            "note": "CNA 본문에서 UMNO의5000만 링깃 납부 발표와 나집의6일 교도소 출발 보도를 확인했다. Malay Mail은 변호인의 가택연금 명령 발부 확인을 전한다. CNA는 차량의 최종 목적지는 미확인이라고 밝혔다."
+          },
+          {
+            "url": "https://www.malaymail.com/news/malaysia/2026/11/06/high-court-orders-najibs-house-arrest-after-umno-settles-rm50m-fine-payment/242194",
+            "note": "6일 변호인이 벌금 납부와 법원의 가택연금 명령 발부를 확인했고 추가 출소 절차가 남았다고 설명한 본문을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.channelnewsasia.com/asia/malaysia-najib-razak-prison-release-begin-house-arrest-6530331",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "무죄·완전 석방이 아니다. 집 도착은 확인하지 않았다. SRC 사건 형 집행과 별도1MDB 재판 형량을 합치지 않는다. 영상 미시청.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-06",
+          "observation": "CNA 본문에서 UMNO의5000만 링깃 납부 발표와 나집의6일 교도소 출발 보도를 확인했다. Malay Mail은 변호인의 가택연금 명령 발부 확인을 전한다. CNA는 차량의 최종 목적지는 미확인이라고 밝혔다.",
+          "checked_materials": [],
+          "outline": [
+            "정당의 벌금 납부와 가택연금 명령 순서 제시",
+            "교도소 출발 보도·목적지 미확인 구분",
+            "조건부 사면·잔여 형기 복역이라는 법적 상태 설명"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.channelnewsasia.com/asia/malaysia-najib-razak-prison-release-begin-house-arrest-6530331"
+          }
+        ],
+        "excerpt": "",
+        "context": "9월 조건부 사면 자체가 아닌11월6일 벌금 납부·법원 명령·출소가 새 사실. CNA 최초16:38 KST,17:34:31 갱신. 출소는현지14:37 보도.",
+        "fetched_at": 1793956030,
+        "parser_revision": 7
+      },
+      "curation_event_key": "najib-src-fine50million-paid-umno-house-arrest-order-release-20261106"
+    },
+    "c4c1ab033974": {
+      "source": "Reuters·CNA",
+      "title": "뉴질랜드 주축 콘웨이, 동료와 훈련 충돌 후 뇌진탕…인도 ODI 시리즈 이탈",
+      "link": "https://www.channelnewsasia.com/sport/nz-opener-conway-ruled-out-remainder-india-odi-series-6529581",
+      "first_seen_at": 1793956030,
+      "last_seen_at": 1793956030,
+      "samples": [
+        {
+          "at": 1793956030,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "c4c1ab033974",
+      "editorial": {
+        "title": "뉴질랜드 주축 콘웨이, 동료와 훈련 충돌 후 뇌진탕…인도 ODI 시리즈 이탈",
+        "category": "메이저 스포츠",
+        "url": "https://www.channelnewsasia.com/sport/nz-opener-conway-ruled-out-remainder-india-odi-series-6529581",
+        "source": "Reuters·CNA",
+        "kind": "article",
+        "event_key": "devon-conway-concussion-india-odi-series-withdrawal-replacement-20261106",
+        "why": "주축 타자의 뇌진탕이 국가대표 시리즈 전력과 선수 보호 문제에 직접 영향을 준 확정 이탈이다.",
+        "angle": "동료와 같은 충돌을 겪었지만 콘웨이는이탈·헨리는검사 통과로 갈린 결과를 설명한다.",
+        "why_now": "11월6일 시리즈 잔여 경기 이탈 보도. 훈련 충돌은 이번주 발생했으나 정확한 사고일은 기사에서 미확인. 원문 최초10:15:38 KST.",
+        "verified_at": 1793955814,
+        "published_at": 1793927738,
+        "evidence": [
+          {
+            "url": "https://www.channelnewsasia.com/sport/nz-opener-conway-ruled-out-remainder-india-odi-series-6529581",
+            "note": "본문에서 콘웨이가 훈련 중 맷 헨리와 충돌한 뒤 뇌진탕으로 인도 ODI 잔여 시리즈에서 빠지고 닉 켈리가 대체 합류했음을 확인했다. 헨리는 뇌진탕 검사 통과로2차전 출전 가능하다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.channelnewsasia.com/sport/nz-opener-conway-ruled-out-remainder-india-odi-series-6529581",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "정확한 사고일·뇌진탕 중증도는 미확인. 테스트 시리즈 복귀를 확정하지 않는다. 영상 미시청.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-06",
+          "observation": "본문에서 콘웨이가 훈련 중 맷 헨리와 충돌한 뒤 뇌진탕으로 인도 ODI 잔여 시리즈에서 빠지고 닉 켈리가 대체 합류했음을 확인했다. 헨리는 뇌진탕 검사 통과로2차전 출전 가능하다.",
+          "checked_materials": [],
+          "outline": [
+            "콘웨이 시리즈 이탈과 뇌진탕 사유 제시",
+            "헨리 검사 통과·닉 켈리 대체 발탁 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.channelnewsasia.com/sport/nz-opener-conway-ruled-out-remainder-india-odi-series-6529581"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월6일 시리즈 잔여 경기 이탈 보도. 훈련 충돌은 이번주 발생했으나 정확한 사고일은 기사에서 미확인. 원문 최초10:15:38 KST.",
+        "fetched_at": 1793956030,
+        "parser_revision": 7
+      },
+      "curation_event_key": "devon-conway-concussion-india-odi-series-withdrawal-replacement-20261106"
+    },
     "1ea648ac2a0c": {
       "source": "Reuters·CNA",
       "title": "인도–스리랑카 ODI, 델리서 비사카파트남으로 개최지 변경",
@@ -31433,5 +31868,5 @@
       "curation_event_key": "daegu-repeat-enlistment-refusal-one-year-prison-20261030"
     }
   },
-  "updated_at": 1793952619
+  "updated_at": 1793956030
 }

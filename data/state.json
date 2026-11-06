@@ -1,5 +1,5 @@
 {
-  "updated_at": 1793952619,
+  "updated_at": 1793956031,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026110608",
+    "hour_utc": "2026110609",
     "category_counts": {
-      "시사": 3,
-      "축구": 2,
+      "시사": 4,
+      "축구": 1,
       "메이저 스포츠": 0,
       "아이돌": 0
     },
     "research_queries": 17,
-    "opened_sources": 11,
+    "opened_sources": 9,
     "picks": [
       {
-        "title": "45개국 여자축구 선수들, 월드컵 상금 격차에 법적 대응 검토",
-        "url": "https://sports.yahoo.com/articles/fifa-faces-potential-action-women-103110027.html",
-        "event_key": "womens-world-cup45-nations-prize-money-legal-options-letter-disclosed-20261105"
+        "title": "골드컵도 조별리그 개편…8팀씩 두 조, 팀당 4경기로 바뀐다",
+        "url": "https://www.concacaf.com/competitions/gold-cup/news/concacaf-sets-stage-for-2027-gold-cup-with-exciting-new-format-and-dates",
+        "event_key": "concacaf-gold-cup2027-two-groups-eight-four-matches-format-announced-20261105"
       },
       {
-        "title": "중동 안전 우려에 인도네시아–요르단 A매치 취소…호주전은 유지",
-        "url": "https://www.cnnindonesia.com/olahraga/20261105160757-142-1423740/resmi-yordania-vs-timnas-indonesia-di-fifa-matchday-batal",
-        "event_key": "jordan-indonesia-friendly-cancelled-pssi-safety-decision-20261105"
+        "title": "조작기소 특검법, 본회의 통과…찬성167·반대1, 국힘 불참",
+        "url": "https://www.khan.co.kr/article/202611061727001/amp",
+        "event_key": "fabricated-prosecution-special-counsel-bill-plenary-passed-20261106"
       },
       {
-        "title": "공석 석 달째 법무장관, 이용철 방사청장 내정…청문회 절차 남았다",
-        "url": "https://www.khan.co.kr/article/202611061533001/amp",
-        "event_key": "lee-yong-cheol-justice-minister-nominee-announced-20261106"
+        "title": "일본 식료품 소비세8→1% 법안, 중의원 통과…참의원 심의 남았다",
+        "url": "https://news.tv-asahi.co.jp/news_politics/articles/000545774.html",
+        "event_key": "japan-food-consumption-tax8to1-bill-lower-house-passed-20261106"
       },
       {
-        "title": "술자리 뒤 비행 취소, 공군총장 지시 인정…본부 답변·사과 공개",
-        "url": "https://news.sbs.co.kr/amp/news.amp?news_id=N1008831005",
-        "event_key": "air-force-chief-admits-flight-cancellation-orders-drinking-20261104"
+        "title": "최종 승인 한 시간 뒤 제동…트럼프 개선문 공사14일 금지",
+        "url": "https://www.yna.co.kr/amp/view/AKR20261106138200009",
+        "event_key": "washington-trump-arch-final-approval-court14day-tro-20261106"
       },
       {
-        "title": "김태규 제명 촉구 결의안 166표 통과…실제 제명은 별도 표결",
-        "url": "https://www.yna.co.kr/amp/view/AKR20261105136100001",
-        "event_key": "kim-tae-gyu-expulsion-urging-resolution-166-vote-20261105"
+        "title": "정당이 벌금5000만 링깃 대납…나집 전 총리, 교도소 떠나 가택연금 전환",
+        "url": "https://www.channelnewsasia.com/asia/malaysia-najib-razak-prison-release-begin-house-arrest-6530331",
+        "event_key": "najib-src-fine50million-paid-umno-house-arrest-order-release-20261106"
       }
     ]
   }
