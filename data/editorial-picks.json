@@ -1,302 +1,310 @@
 {
   "version": 2,
-  "hour_utc": "2026110604",
+  "hour_utc": "2026110605",
   "reviewer": "ChatGPT",
-  "generated_at": 1793938038,
+  "generated_at": 1793941910,
   "coverage": {
     "queries": [
-      "\"2026.11.06\" \"스포츠\" \"공식\" -호날두 -케인 -하피냐 -파커",
-      "\"2026.11.06\" \"확정\" \"대표팀\" -호날두 -명단 -클롭",
-      "\"2026-11-06\" Reuters \"sport\" -LIV -Boo -Celtic",
-      "\"2026.11.06\" \"발표\" \"정부\" -서킷 -아파트",
-      "\"2026.11.06\" \"모리야스\" \"사임\"",
-      "\"2026.11.06\" \"허훈\" \"12인\"",
-      "\"2026.11.06\" \"레스터\" \"스폰서\"",
-      "\"2026-11-06\" \"Israel\" \"Herzog\" government",
-      "\"2026.11.06\" \"모리야스\" \"벨기에\"",
-      "\"2026.11.06\" \"허훈\" \"4년\"",
-      "\"2026.11.06\" \"안세영\" \"기권\" -구마모토",
-      "\"2026.11.06\" \"국토부\" \"사실무근\"",
-      "site.koreabasketball.or.kr \"2026\" \"허훈\" \"12\"",
-      "\"2026.11.06\" \"부상\" \"수술\" 스포츠 -더보 -혼다",
-      "\"2026.11.06\" \"징계\" \"확정\" 축구 -전남 -호날두 -쿠냐",
-      "\"2026.11.06\" \"국토교통부\" \"인터넷상\" \"사실\"",
-      "\"November 5, 2026\" \"NBA\" \"injury\" \"ruled out\"",
-      "\"2026.11.06\" \"NBA\" \"공식\"",
-      "\"November 5, 2026\" \"NFL\" \"suspended\"",
-      "\"2026.11.06\" \"이적\" \"확정\" -케인 -하피냐 -파커 -모리야스",
-      "\"Rashee Rice\" \"bankruptcy\" \"November 5\" 2026",
-      "\"Porzingis\" \"salary\" \"November 4, 2026\"",
-      "site.korea.kr \"2026.11.06\" \"부동산\" \"사실\"",
-      "\"Herzog\" \"67\" \"46\" \"November 5, 2026\"",
-      "\"Rashee Rice\" \"bankruptcy\" \"November 5, 2026\" AP ESPN",
-      "site.molit.go.kr \"2026\" \"11\" \"부동산 대책 관련 내용은 사실이\"",
-      "site.koreabasketball.or.kr \"윈도우5\" \"2026\"",
-      "site.whitehouse.gov \"November 5, 2026\" \"Unites Russia and Ukraine\"",
-      "\"2026.11.06\" \"부동산 대책\" \"국토부\" \"보도참고\"",
-      "\"2026.11.06\" \"허훈\" \"대표팀\" \"최종\"",
-      "\"Rashee Rice\" \"bankruptcy\" \"November 4\" \"2026\" ESPN",
-      "\"2026.11.06\" \"서울교통공사\" \"준법투쟁\""
+      "\"2026.11.06\" \"축구\" \"공식\" -케인 -호날두 -하피냐 -파커",
+      "\"2026.11.06\" \"스포츠\" \"징계\" -전남 -혼다 -호날두",
+      "\"2026.11.06\" \"정부\" \"발표\" -부동산 -서킷 -증시",
+      "\"November 6, 2026\" \"sports\" Reuters -LIV -Rice -Conway -Boo",
+      "2026 11 06 스포츠 주요 뉴스 -케인 -호날두 -혼다 -삼성 -하피냐",
+      "2026 11 06 뉴스 속보 국회 대법원 판사회의",
+      "\"November 6, 2026\" football injury ban official",
+      "\"2026.11.06\" \"야구\" \"계약\"",
+      "\"2026.11.06\" \"축구\" \"징계\" -박항서 -이집트",
+      "\"2026.11.06\" \"농구\" -허훈 -삼성 -삼산",
+      "\"Chris Lynn\" \"November\" \"2026\" cocaine",
+      "site:cisa.gov \"refrigeration\" \"November 5, 2026\"",
+      "\"Russell Brand\" \"5 November 2026\" guilty police",
+      "\"2026.11.06\" \"전국법관\" \"30일\"",
+      "\"2026.11.06\" \"손흥민\" -아시안컵 -나이 -베스트 -박항서",
+      "\"2026.11.06\" \"공식\" \"축구\" -박항서 -케인 -호날두 -파커",
+      "\"November 5, 2026\" \"football\" \"suspended\"",
+      "\"November 6, 2026\" \"FIFA\" -Ronaldo -morocco -ranking",
+      "\"Tashima\" \"November 5\" \"2026\" FIFA president",
+      "\"田嶋\" \"2026年11月5日\" \"会長\"",
+      "\"refrigeration\" \"November 5, 2026\" FBI CISA",
+      "\"Chris Lynn\" site:cricketregulator.co.uk",
+      "site:cricketregulator.co.uk \"Lynn\"",
+      "\"November 6, 2026\" \"NBA\" -Anthony -model -coach",
+      "\"2026.11.06\" \"배구\" \"공식\"",
+      "\"2026.11.06\" \"야구\" \"확정\" -선발 -최강 -삼성 -희망",
+      "\"FBI\" \"refrigeration\" \"2026\" \"November\"",
+      "\"서울교통공사\" \"2026.11.06\" \"3개\"",
+      "\"2026.11.06\" \"법관대표회의\" \"30일\"",
+      "\"2026.11.06\" \"국회\" \"특검법\" \"가결\""
     ],
     "opened_urls": [
-      "https://www.jumpball.co.kr/news/newsview.php?ncode=1065575033006173",
-      "https://sports.yahoo.com/nfl/article/chiefs-wr-rashee-rice-reportedly-files-for-bankruptcy-citing-345-million-in-debts-following-fallout-from-2024-car-crash-221842676.html",
-      "https://www.cbsnews.com/texas/news/rashee-rice-bankruptcy-kansas-city-chiefs/",
-      "https://www.timesofisrael.com/liveblog_entry/herzog-says-eisenkot-got-67-nods-as-pm-but-he-will-only-hand-over-mandate-on-sunday/",
-      "https://www.hankookilbo.com/news/article/A2026110607360000679",
-      "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-unites-russia-and-ukraine-at-the-white-house-following-historic-ceasefire/",
-      "https://www.channelnewsasia.com/world/melania-trump-russia-ukraine-deal-6529891",
-      "https://www.mt.co.kr/estate/2026/11/06/2026110611364873809",
-      "https://m.ekn.kr/view.php?key=20261106020516384",
+      "https://www.mt.co.kr/sports/2026/11/06/202611060838775071O",
+      "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018009",
+      "https://www.channelnewsasia.com/world/us-warns-cyber-threat-industrial-refrigeration-systems-6528641",
+      "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
+      "https://www.cricketregulator.co.uk/news/4605169/case-outcome-chris-lynn",
+      "https://resources.ecb.co.uk/ecb/document/2026/11/05/8b220e18-03e0-49e4-8f90-e21d4251d349/Reasoned-Decision-FINAL-2.11.26.pdf",
+      "https://www.cps.gov.uk/national-news-london-south/news/russell-brand-convicted-non-recent-sexual-offences-against-four",
+      "https://cnalifestyle.channelnewsasia.com/entertainment/russell-brand-trial-guilty-rape-three-sexual-assaults-591361",
       "https://imnews.imbc.com/news/2026/society/article/6863481_36919.html",
+      "https://www.asiae.co.kr/article/2026110610563700929",
+      "https://www.mt.co.kr/amp/sports/2026/11/06/2026110610425280580",
+      "https://www.channelnewsasia.com/world/hegseth-pentagon-us-iran-war-democrats-congress-6529906",
       "https://www.channelnewsasia.com/sport/hamilton-says-he-wont-be-silenced-still-frustrated-after-mexico-clash-6528836",
-      "https://www.channelnewsasia.com/sport/russell-exhausted-constantly-picking-himself-back-up-6529181",
-      "https://www.channelnewsasia.com/sport/milan-stunned-ferencvaros-marseille-and-juventus-secure-europa-league-wins-6529296",
-      "https://www.osen.co.kr/article/G1112905149",
+      "https://www.channelnewsasia.com/sport/australian-batter-lynn-completes-ban-after-testing-positive-cocaine-6530031",
+      "https://www.channelnewsasia.com/sport/putin-says-countries-resisting-russias-return-world-sport-are-violating-democratic-bodies-6528776",
+      "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366",
       "https://www.channelnewsasia.com/sport",
-      "https://www.channelnewsasia.com/world",
-      "https://www.whitehouse.gov/briefings-statements/",
-      "https://www.koreabasketball.or.kr/m/main/"
+      "https://www.independent.co.uk/sport/cricket/northants-steelbacks-chris-lynn-cocaine-ban-cricket-b3079973.html"
     ],
     "unavailable": [
-      "CTPost 라이스 기사 JS challenge. 반복 없이 접근 가능한 Yahoo·CBS 기사 본문으로 전환.",
-      "Medicine Hat AP 본문 추출 불가, 웹 열람도 불가. 근거에서 제외.",
-      "농구협회 모바일 메인에서 최종명단 원문 링크 미확인. 협회 발표를 전한 점프볼 본문 확인.",
-      "BTP 공개 Instagram 게시물 전체 열람 제한.7일 실제 sent/uncertain411개 사건·URL 대조."
+      "collector exit0/degraded: 후보563, 5개 원천 오류. 갱신 스냅샷 후 독립 원문 조사로 보완.",
+      "CISA 공동 경보·자료 원문 2곳 403. 반복하지 않고 Reuters와 독립 전문매체 본문 확인.",
+      "Instagram @bythepulse 공개 페이지 throttled: 실제 게재 전수 확인 불가. 최근7일 sent/uncertain 이력416건 대조.",
+      "일부 web open internal error는 urllib로 접근 가능한 본문에서 확인. 막힌 RSS21개 요청 없음."
     ]
   },
   "picks": [
     {
-      "title": "허훈, 항저우 AG 이후 대표팀 복귀…농구 월드컵 예선 12인 확정",
+      "title": "KS가 7차전까지 가면 대표팀은?…야수 3명 합류 불투명, 대체 선발 계획 없다",
       "category": "메이저 스포츠",
-      "url": "https://www.jumpball.co.kr/news/newsview.php?ncode=1065575033006173",
-      "source": "점프볼",
+      "url": "https://www.mt.co.kr/sports/2026/11/06/202611060838775071O",
+      "source": "OSEN·머니투데이",
       "kind": "article",
-      "event_key": "korea-basketball-world-cup-window-five-roster-huhun-return-20261106",
-      "why": "본선 진출 경쟁 중인 한국 농구에 허훈이 돌아오고 해외파는 소속팀 일정으로 빠졌다.",
-      "angle": "F조4위 한국, 허훈 포함4명 합류해 카타르 원정 나선다",
-      "why_now": "협회 발표는11월6일, 심의는5일. 점프볼 최초6일10:03 KST(메타10:03:37). 경기·선발 결정을 수집 시각으로 바꾸지 않았다.",
-      "verified_at": 1793937854,
-      "published_at": 1793927017,
+      "event_key": "apbc-ks-schedule-conflict-three-batters-no-replacement-plan-20261106",
+      "why": "한국시리즈와 국가대표 일정이 겹쳐 핵심 야수의 대회 첫 경기 출전까지 흔들리는 구체적 운영 문제다.",
+      "angle": "11일 KS 종료 가정과 12일 정오 호주전을 붙이고, 대체 선발 없이 일본전 합류를 고려하는 감독 설명을 제시한다.",
+      "why_now": "11/6 09:10 KST OSEN 제공 보도. 같은 날 10:05 현장 기사에서도 감독이 김지찬의 호주전 불참 가능성을 설명했다.",
+      "verified_at": 1793941727,
+      "published_at": 1793923800,
       "evidence": [
         {
-          "url": "https://www.jumpball.co.kr/news/newsview.php?ncode=1065575033006173",
-          "note": "협회 발표를 인용한 기사 본문과 명단을 확인했다. 두 원정경기는 모두 도하 개최 예정이며 사우디전 시각은 미정이다."
+          "url": "https://www.mt.co.kr/sports/2026/11/06/202611060838775071O",
+          "note": "11/6 09:10 KST. 감독은 대체 선발 없이 KS 종료 뒤 합류를 검토하며, 11일 끝나면 12일 정오 호주전 출전은 어렵다고 설명했다. 인터뷰 날짜는 본문에 별도 명시되지 않았다."
+        },
+        {
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018009",
+          "note": "11/6 10:05 KST 현장 기사. 감독이 이날 연습경기 전 김지찬은 KS 7차전 시 호주전에 못 나올 수도 있다고 했고 중견수 대안을 시험한다고 밝혔다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.jumpball.co.kr/news/newsview.php?ncode=1065575033006173",
-          "label": "확인한 원문",
+          "url": "https://www.mt.co.kr/sports/2026/11/06/202611060838775071O",
+          "label": "확인한 기사 본문",
           "kind": "source"
         }
       ],
-      "caution": "명단 확정이며 본선 진출 확정은 아니다. 허훈 복귀 간격은2023년 이후로 표기.",
+      "caution": "7차전·세 선수 결장 확정 아님. 곽도규 부상 낙마와 별개인 야수 합류·대체선발 문제다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-06",
-        "observation": "점프볼 본문에서 최종12인, 허훈·안영준·양홍석·하윤기 합류, 이현중·여준석 소속팀 일정 제외, F조4승4패4위와 중국1승 차 확인.",
+        "observation": "기사 본문에서 김지찬·이재현·안현민 합류 불투명, 대체 선발 계획 없음, 11일 KS 종료 시 12일 낮 경기는 어렵고 일본전부터 고려한다는 감독 설명을 확인했다. 인터뷰 영상은 보지 않았다.",
         "checked_materials": [],
         "outline": [
-          "허훈 등4명 합류·해외파 제외 이유",
-          "F조 순위와27일 카타르·29일 사우디전, 본선 확정 아님"
+          "KS 종료일에 따라 달라지는 야수 3명 합류 일정",
+          "대체 선발 계획이 없는 이유와 감독의 일본전 기용 검토",
+          "개막전 결장 확정과 일정상 가능성을 구분"
         ]
       }
     },
     {
-      "title": "NFL 라이스, 파산 신청…슈퍼볼 우승 반지까지 담보로",
-      "category": "메이저 스포츠",
-      "url": "https://sports.yahoo.com/nfl/article/chiefs-wr-rashee-rice-reportedly-files-for-bankruptcy-citing-345-million-in-debts-following-fallout-from-2024-car-crash-221842676.html",
-      "source": "Yahoo Sports",
-      "kind": "article",
-      "event_key": "rashee-rice-chapter-seven-bankruptcy-filing-crash-debts-ring-collateral-20261104",
-      "why": "슈퍼볼 우승 선수의 교통사고 후속 법률비용·채무가 파산 절차로 이어졌다.",
-      "angle": "채무345만 달러 넘는다고 신고…우승 반지도 담보에 올랐다",
-      "why_now": "신청은11월4일 미국 현지. 확인한 CBS 최초보도5일13:37 CST, Yahoo확인 기사5일22:27 UTC.4일 신청을6일 새 사건으로 쓰지 않는다.",
-      "verified_at": 1793937890,
-      "published_at": 1793917675,
-      "evidence": [
-        {
-          "url": "https://sports.yahoo.com/nfl/article/chiefs-wr-rashee-rice-reportedly-files-for-bankruptcy-citing-345-million-in-debts-following-fallout-from-2024-car-crash-221842676.html",
-          "note": "법원 서류를 확보한 매체들의 보도와 ESPN을 인용한 본문 확인. 법원 원서류·반지 현물은 직접 확인하지 않았다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://sports.yahoo.com/nfl/article/chiefs-wr-rashee-rice-reportedly-files-for-bankruptcy-citing-345-million-in-debts-following-fallout-from-2024-car-crash-221842676.html",
-          "label": "확인한 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "신청·신고액이다. 면책 확정이나 채무 전액 탕감으로 쓰지 않으며 폭행 의혹은 주장이다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-04",
-        "observation": "Yahoo 본문에서 Chapter7 신청,345만 달러 초과 채무·67만7054달러 자산 신고,16만 달러 평가 슈퍼볼 반지 담보를 확인했다.",
-        "checked_materials": [],
-        "outline": [
-          "파산 신청과 신고 채무·자산 규모",
-          "교통사고 관련 민사 비용과 반지 담보, 면책은 미확정"
-        ]
-      }
-    },
-    {
-      "title": "아이젠코트 67명·네타냐후 46명 추천…이스라엘 연정구성권 8일 결정",
+      "title": "마트 냉장고까지 해킹 표적…미 5개 기관, 전 세계 콜드체인 긴급 보안 촉구",
       "category": "시사",
-      "url": "https://www.timesofisrael.com/liveblog_entry/herzog-says-eisenkot-got-67-nods-as-pm-but-he-will-only-hand-over-mandate-on-sunday/",
-      "source": "Times of Israel·한국일보",
+      "url": "https://www.channelnewsasia.com/world/us-warns-cyber-threat-industrial-refrigeration-systems-6528641",
+      "source": "Reuters·CNA",
       "kind": "article",
-      "event_key": "israel-herzog-consultations-eisenkot67-netanyahu46-sunday-mandate-20261105",
-      "why": "네타냐후의 권력 유지와 중동 정세를 좌우할 차기 정부 구성 협의에서 야권 후보가 과반 추천을 받았다.",
-      "angle": "67명 추천받아도 총리 확정은 아니다…대통령이 결정을 미룬 이유",
-      "why_now": "대통령 협의 종료·발언은11월5일. 현지기사 최초5일20:17:36 UTC.10월27일 총선 결과 재전송이 아닌 협의 결과·결정 일정 공개.",
-      "verified_at": 1793937852,
-      "published_at": 1793909856,
+      "event_key": "us-five-agencies-industrial-refrigeration-cold-chain-cyber-warning-20261105",
+      "why": "원격 온도 조작이 식품·의약품 보관과 화재 위험으로 번져, 개인정보 유출을 넘어선 생활 기반시설 위협이다.",
+      "angle": "계정 탈취가 아니라 냉장고 온도를 바꾸는 공격이라는 점에서 시작해 인터넷 분리 권고와 피해 범위를 설명한다.",
+      "why_now": "미국 11/5 공동 경보. Reuters·CNA 최초 게시 11/6 01:37 SGT(02:37 KST), 11:29 SGT는 갱신이며 최초 시각이 아니다.",
+      "verified_at": 1793941631,
+      "published_at": 1793900220,
       "evidence": [
         {
-          "url": "https://www.timesofisrael.com/liveblog_entry/herzog-says-eisenkot-got-67-nods-as-pm-but-he-will-only-hand-over-mandate-on-sunday/",
-          "note": "현지 취재기사 본문에서 추천 수와 대통령 설명을 확인했다. 추천을 당선·연정 완성으로 바꾸지 않는다."
+          "url": "https://www.channelnewsasia.com/world/us-warns-cyber-threat-industrial-refrigeration-systems-6528641",
+          "note": "11/5 미국 공동 경보를 전한 Reuters 본문. 인터넷 노출 온도·냉장 제어기 취약점이 표적이며 물리 피해 위험과 인터넷 분리·망 분리·업데이트를 권고했다."
         },
         {
-          "url": "https://www.hankookilbo.com/news/article/A2026110607360000679",
-          "note": "한국일보 본문에서11월5일 협의 종료·8일 후보 발표 계획,67대46 추천과 네타냐후의 과도기 총리 유지 확인."
+          "url": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
+          "note": "독립 전문매체 본문도 5개 기관 공동 경보, 식품·보건·운송 기반시설 위협, 온도·제상 설정 조작 위험을 확인한다. CISA 공식 링크는 403 접근 실패."
         }
       ],
       "materials": [
         {
-          "url": "https://www.timesofisrael.com/liveblog_entry/herzog-says-eisenkot-got-67-nods-as-pm-but-he-will-only-hand-over-mandate-on-sunday/",
-          "label": "확인한 원문",
+          "url": "https://www.channelnewsasia.com/world/us-warns-cyber-threat-industrial-refrigeration-systems-6528641",
+          "label": "확인한 기사 본문",
           "kind": "source"
         }
       ],
-      "caution": "추천 수는 연정 참여 확약·총리 당선과 다르다.8일 지명 대상도 아직 미정.",
+      "caution": "공격 주체는 공동 경보에서 특정하지 않았다. 개별 피해·불량 식품 유통이나 국내 피해는 확인하지 않았다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-05",
-        "observation": "대통령 발언을 전한 현지 본문에서120명 중67명·46명 추천, 진영 간 상호 거부로 구성 능력 불명확, 일요일8일 구성권 부여 방침 확인.",
+        "observation": "Reuters 본문에서 FBI·CISA·보건·농무·교통 당국의 공동 경보와 온도 조작·재고 손실·화재 위험, 제어기 인터넷 분리·업데이트 권고를 확인했다. CISA 원문은 403으로 열지 못했다.",
         "checked_materials": [],
         "outline": [
-          "67명 대46명 추천 결과",
-          "8일 구성권 결정 예정, 실제 연정 성립은 별개"
+          "식품과 의약품을 지키는 냉장 제어기가 공격 표적",
+          "온도 조작이 만드는 재고 손실·설비·화재 위험",
+          "미 5개 기관의 인터넷 분리 권고, 공격 주체 미확정"
         ]
       }
     },
     {
-      "title": "멜라니아 주선으로 러·우 인사 백악관 회동…장기 휴전 촉구",
-      "category": "시사",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-unites-russia-and-ukraine-at-the-white-house-following-historic-ceasefire/",
-      "source": "백악관 공식 발표·AFP",
+      "title": "코카인 양성인데 징계는 이미 끝났다…크리스 린 1개월 제재 공개",
+      "category": "메이저 스포츠",
+      "url": "https://www.cricketregulator.co.uk/news/4605169/case-outcome-chris-lynn",
+      "source": "Cricket Regulator",
       "kind": "official",
-      "event_key": "melania-white-house-russian-ukrainian-officials-meeting-after-oleshky-truce-20261105",
-      "why": "전쟁 중인 양국 인사들이 백악관에 모인 실제 외교 행동으로 향후 종전 협상에 중요한 후속이다.",
-      "angle": "같은 백악관에 모인 러·우 인사들, 종전 합의가 체결된 것은 아니다",
-      "why_now": "회동은11월5일 워싱턴. 공식 발표 최초5일16:31:07 UTC,16:31:08수정.6일 갱신 기사 시각을 회동 최초 공개로 쓰지 않는다.",
-      "verified_at": 1793937902,
-      "published_at": 1793896267,
+      "event_key": "chris-lynn-cocaine-metabolite-one-month-ban-public-disclosure-20261105",
+      "why": "국제 크리켓 선수의 약물 위반을 공개하면서 이미 소급 종료된 징계와 치료에 따른 감경 사유가 함께 드러났다.",
+      "angle": "7월 검사와 8월 징계 종료를 먼저 놓고, 11월 공개된 공식 결정의 감경 근거·개인 성적 실격을 설명한다.",
+      "why_now": "공식 결정문은 11/2 작성·공개 파일 경로는 11/5이며, 11/5 GMT 보도에서 공개 확인. 공식 게시 최초 분단위는 미표시여서 미확인이다.",
+      "verified_at": 1793941729,
+      "published_at": null,
       "evidence": [
         {
-          "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-unites-russia-and-ukraine-at-the-white-house-following-historic-ceasefire/",
-          "note": "공식 발표문·준비된 연설문을 읽었다. 행사 영상은 보지 않았고 과거 올레시키 휴전 자체를 새 사건으로 추천하지 않는다."
+          "url": "https://www.cricketregulator.co.uk/news/4605169/case-outcome-chris-lynn",
+          "note": "공식 공지는 코카인 대사물질 양성, 1개월 제재 수용·이미 종료를 명시. 최초 게시 시각은 본문에 표시되지 않는다."
         },
         {
-          "url": "https://www.channelnewsasia.com/world/melania-trump-russia-ukraine-deal-6529891",
-          "note": "AFP 본문에서11월5일 실제 회동 개최 확인. 트럼프의 큰 합의 임박 발언은 구체 합의가 확인되지 않은 주장으로 구분."
+          "url": "https://resources.ecb.co.uk/ecb/document/2026/11/05/8b220e18-03e0-49e4-8f90-e21d4251d349/Reasoned-Decision-FINAL-2.11.26.pdf",
+          "note": "11/2 작성 결정문 9~16항: 경기 외 복용·경기력 무관 인정, 10/30 치료 완료 확인, 3개월→1개월. 제재 7/31~8/30, 7/18~7/31 개인 성적 실격·구단 제재 없음."
         }
       ],
       "materials": [
         {
-          "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-unites-russia-and-ukraine-at-the-white-house-following-historic-ceasefire/",
-          "label": "확인한 원문",
+          "url": "https://www.cricketregulator.co.uk/news/4605169/case-outcome-chris-lynn",
+          "label": "공식 발표 원문",
           "kind": "source"
         }
       ],
-      "caution": "새 전면 휴전·종전 합의 체결은 아니다. 인도적 성과 수치는 백악관 설명으로 구분.",
+      "caution": "검사 7/18·금지 7/31~8/30의 신규 공개다. 현재 출전정지나 팀 우승 박탈로 쓰지 않는다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-05",
-        "observation": "공식 본문에서 러시아·우크라이나 관계자 회동, 지속적 평화 촉구, 양국 대통령에게 전달할 편지 확인. AFP 본문도 회동 개최와 한계를 보도했다.",
+        "observation": "규제기관 공지와 연결된 공식 결정문을 읽었다. 코카인 대사물질 위반 인정, 경기 외 복용·경기력 무관 인정 및 치료 완료로 3개월에서 1개월 감경, 8/30 종료, 해당 기간 개인 성적 실격·구단 제재 불필요를 확인했다.",
         "checked_materials": [],
         "outline": [
-          "러시아·우크라이나 인사 백악관 회동 개최",
-          "장기 휴전 촉구와 편지 전달, 새 종전 합의 없음"
+          "7월 18일 검사 양성, 7월 31일 임시 정지의 시간표",
+          "치료 완료와 경기 외 복용 인정으로 1개월 제재",
+          "8월 말 이미 종료·개인 성적 실격과 구단 제재는 구분"
         ]
       }
     },
     {
-      "title": "“11월 추가 대출규제 문건 사실 아냐”…국토부, 추가 수사 의뢰 예고",
+      "title": "러셀 브랜드, 여성 4명 대상 강간·성추행 유죄 평결…선고는 9일",
       "category": "시사",
-      "url": "https://www.mt.co.kr/estate/2026/11/06/2026110611364873809",
-      "source": "머니투데이·에너지경제",
-      "kind": "article",
-      "event_key": "molit-november-housing-loan-regulation-rumour-denial-investigation-plan-20261106",
-      "why": "규제지역·주택대출과 직결되는 문건 확산에 정부가 공식 부인해 실수요자의 혼동을 바로잡을 사안이다.",
-      "angle": "새 대출 규제가 아니다…온라인 문건에 정부가 내놓은 답변",
-      "why_now": "정부 해명은11월6일(최초발표 시각 미확인). 확인 기사 최초12:03:32 KST,12:09수정. 기사 시각을 정부 발표 시각으로 쓰지 않는다.",
-      "verified_at": 1793937890,
-      "published_at": 1793934212,
+      "url": "https://www.cps.gov.uk/national-news-london-south/news/russell-brand-convicted-non-recent-sexual-offences-against-four",
+      "source": "영국 검찰 CPS",
+      "kind": "official",
+      "event_key": "russell-brand-four-women-rape-three-sexual-assaults-guilty-verdict-20261105",
+      "why": "유명인의 지위와 권력 남용을 다룬 대형 성범죄 재판 결과로, 연예 가십이 아닌 피해자 권리와 사법 책임의 문제다.",
+      "angle": "유죄 평결 4건과 9일 선고를 분리하고, 2023년 보도 이후 피해자들이 독립적으로 신고한 과정을 설명한다.",
+      "why_now": "영국 검찰 원문은 11/5 날짜까지 표시하며 게시 시각은 미표시. 평결은 런던 11/5, CNA 11/6 01:51 SGT는 후속 기사다.",
+      "verified_at": 1793941729,
+      "published_at": null,
       "evidence": [
         {
-          "url": "https://www.mt.co.kr/estate/2026/11/06/2026110611364873809",
-          "note": "국토부 발표를 인용한 기사 본문 확인. 부천·수원·안양 지정과 한도 축소는 허위 문건의 주장이지 확정 정책이 아니다."
+          "url": "https://www.cps.gov.uk/national-news-london-south/news/russell-brand-convicted-non-recent-sexual-offences-against-four",
+          "note": "CPS 11/5 공식 발표: 여성 4명 관련 강간 1건·성추행 3건 유죄 평결. 4주 재판 뒤 나온 결과이며 선고는 11/9 예정이다."
         },
         {
-          "url": "https://m.ekn.kr/view.php?key=20261106020516384",
-          "note": "에너지경제 본문에서 국토부·금융위의 독립 통화 취재와 사실무근 설명, 추가 수사 의뢰 예정 확인."
+          "url": "https://cnalifestyle.channelnewsasia.com/entertainment/russell-brand-trial-guilty-rape-three-sexual-assaults-591361",
+          "note": "CNA 본문도 11/5 배심 평결 및 11/9 선고를 확인. 일부 다른 공소사실에는 무죄가 나와 모든 혐의 유죄라고 일반화하지 않는다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.mt.co.kr/estate/2026/11/06/2026110611364873809",
-          "label": "확인한 원문",
+          "url": "https://www.cps.gov.uk/national-news-london-south/news/russell-brand-convicted-non-recent-sexual-offences-against-four",
+          "label": "공식 발표 원문",
           "kind": "source"
         }
       ],
-      "caution": "유포 문건의 대출 한도·지역 지정은 시행 정책이 아니다. 수사 의뢰는 예정 단계.",
+      "caution": "유죄 평결이며 형량 선고·최종 확정 아님. 피해자 신원이나 추가 의혹을 확대하지 않는다.",
       "readiness": {
         "mode": "major_news",
-        "event_date": "2026-11-06",
-        "observation": "본문에서 국토부의 당일 보도참고자료 부인과 추가 수사 의뢰 계획 확인. 금융위도 사실이 아니라고 답했다는 독립 취재 보도를 대조했다.",
+        "event_date": "2026-11-05",
+        "observation": "CPS 공식 본문에서 사우스워크 형사법원의 11/5 강간 1건·성추행 3건 유죄 평결, 피해 여성 4명, 11/9 선고 예정과 2023년 방송 뒤 개별 신고 경위를 확인했다. 재판 영상은 보지 않았다.",
         "checked_materials": [],
         "outline": [
-          "온라인 추가 규제 문건과 국토부 공식 부인 구분",
-          "수사 의뢰 계획, 새 시행 정책으로 오독하지 않도록 정리"
+          "여성 4명에 대한 강간 1건·성추행 3건 유죄 평결",
+          "유명세·권력 남용과 오래된 피해 신고를 다룬 검찰 설명",
+          "11월 9일 선고 예정, 형량 확정 보도와 구분"
         ]
       }
     },
     {
-      "title": "서울교통공사 노조 쟁의 가결…20일부터 준법투쟁 예고",
+      "title": "서울지하철 노조 쟁의행위 가결…20일 준법투쟁, 파업은 교섭에 달렸다",
       "category": "시사",
       "url": "https://imnews.imbc.com/news/2026/society/article/6863481_36919.html",
       "source": "MBC",
       "kind": "article",
       "event_key": "seoul-metro-union-industrial-action-vote-nov20-work-to-rule-20261105",
-      "why": "수도권 출퇴근 수요가 큰 지하철에서 인력·임금 갈등이 쟁의 단계로 넘어갔다.",
-      "angle": "20일부터 준법투쟁, 교섭 불발 시 파업…현재 전면 운행중단 아님",
-      "why_now": "투표 결과 공개는11월5일. MBC 최초18:51:48 KST,18:51:57수정.12시간 밖 미발송을24시간으로 확대. 전국철도노조와 다른 노조 사건.",
-      "verified_at": 1793937891,
+      "why": "대규모 통근망의 운행과 노동조건에 직결되는 갈등으로, 예정된 준법투쟁과 조건부 파업을 정확히 알릴 가치가 크다.",
+      "angle": "86.3% 찬성의 분모는 투표자임을 밝히고, 20일 준법투쟁과 협상 불발 시 파업을 시간순으로 나눈다.",
+      "why_now": "원문 최초 11/5 18:51:48 KST·수정 18:51:57. 12시간 밖 미발송 후보로 24시간 범위에서 검증했다.",
+      "verified_at": 1793941629,
       "published_at": 1793872308,
       "evidence": [
         {
           "url": "https://imnews.imbc.com/news/2026/society/article/6863481_36919.html",
-          "note": "MBC 본문으로 노조 발표 확인. 직전 회차 예비에만 있었고 실제 발송 이력에는 없다. 전국철도노조와는 다른 사용자·노조의 쟁의다."
+          "note": "11/5 18:51 KST 본문: 투표자 86.3% 찬성, 20일 준법투쟁·진전 없으면 파업. 임금 3.5% 인상과 인력 감축 철회는 노조 요구이며 파업 확정일은 명시되지 않았다."
         }
       ],
       "materials": [
         {
           "url": "https://imnews.imbc.com/news/2026/society/article/6863481_36919.html",
-          "label": "확인한 원문",
+          "label": "확인한 기사 본문",
           "kind": "source"
         }
       ],
-      "caution": "파업 확정·즉시 운행중단으로 쓰지 않는다. 전국철도노조 일정과 구분한다.",
+      "caution": "파업 시작·전면 운행중단 확정 아님. 직전 발송한 코레일 전국철도노조와 다른 사업장이다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-05",
-        "observation": "본문에서 투표자86.3% 찬성,20일 준법투쟁,교섭 진전 없으면 파업 방침과 임금·인력감축 철회 요구를 확인했다.",
+        "observation": "MBC 본문에서 11/5 종료된 찬반투표의 투표자 86.3% 찬성, 20일 준법투쟁, 교섭 진전 없으면 파업 방침을 확인했다. 임금 3.5% 인상·인력 감축 철회 등은 노조 요구다.",
         "checked_materials": [],
         "outline": [
-          "서울교통공사 노조 쟁의 가결·20일 준법투쟁",
-          "조건부 파업 방침과 인력·임금 쟁점"
+          "투표자 86.3% 찬성으로 쟁의행위 가결",
+          "11월 20일 준법투쟁, 교섭 불발 시 파업 방침",
+          "인력·임금 쟁점과 통근 영향, 현재 운행중단으로 오해 금지"
+        ]
+      }
+    },
+    {
+      "title": "전국법관대표회의, 정기회의 1주 당겨 30일 개최…안건은 미확정",
+      "category": "시사",
+      "url": "https://www.asiae.co.kr/article/2026110610563700929",
+      "source": "아시아경제",
+      "kind": "article",
+      "event_key": "national-judges-representatives-advance-regular-meeting-nov30-announcement-20261106",
+      "why": "대법관 제청과 국정조사를 둘러싼 사법부·정치권 갈등 속에서 판사 대표기구가 실제 회의 일정을 바꿨다.",
+      "angle": "12월 7일에서 11월 30일로 바뀐 결정부터 제시하고, 일정 변경과 사법부 공식 입장 채택은 구분한다.",
+      "why_now": "11/6 10:56:38 KST 아시아경제 최초 게시. 결정의 근거 투표는 11/4였고 공개 발표는 11/6이다.",
+      "verified_at": 1793941784,
+      "published_at": 1793930198,
+      "evidence": [
+        {
+          "url": "https://www.asiae.co.kr/article/2026110610563700929",
+          "note": "11/6 공개된 일정 변경: 12/7→11/30. 투표는 11/4 실시됐으며 별도 임시회의 대신 정기회의 조정. 이번 회의 안건은 미확정이다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.asiae.co.kr/article/2026110610563700929",
+          "label": "확인한 기사 본문",
+          "kind": "source"
+        }
+      ],
+      "caution": "안건과 공동 입장 미확정. 정치권 비판 결의나 임시회의 개최로 단정하지 않는다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-06",
+        "observation": "본문에서 운영위가 11/4 법관대표 투표를 바탕으로 정기회의를 11/30로 앞당겼다는 결정을 확인했다. 조기 소집 요구 배경을 설명하지만 이번 회의 안건은 아직 확정되지 않았다고 명시했다.",
+        "checked_materials": [],
+        "outline": [
+          "법관대표 투표 뒤 하반기 정기회의를 일주일 앞당긴 결정",
+          "국정조사·대법관 재제청을 둘러싼 논의 배경",
+          "11월 30일 개최와 미확정 안건·입장 구분"
         ]
       }
     }
