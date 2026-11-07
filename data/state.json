@@ -1,5 +1,5 @@
 {
-  "updated_at": 1794046084,
+  "updated_at": 1794049658,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026110710",
+    "hour_utc": "2026110711",
     "category_counts": {
-      "시사": 2,
-      "축구": 3,
-      "메이저 스포츠": 0,
+      "시사": 3,
+      "축구": 1,
+      "메이저 스포츠": 1,
       "아이돌": 0
     },
     "research_queries": 23,
     "opened_sources": 9,
     "picks": [
       {
-        "title": "김승규가 지킨 847분…FC도쿄, J1 최장 연속 무실점 신기록",
-        "url": "https://www.xportsnews.com/article/2216859",
-        "event_key": "fc-tokyo-kim-seung-gyu-j1-record-847-minutes-clean-sheet-kashima-20261107"
+        "title": "네이마르 아버지, 산투스 CEO 됐다…선수 에이전트에서 구단 경영으로",
+        "url": "https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2026/11/06/pai-de-neymar-e-o-novo-ceo-do-santos.ghtml",
+        "event_key": "santos-neymar-senior-appointed-ceo-strategic-management-20261106"
       },
       {
-        "title": "맨유 발레바, A매치 휴식기 지나도 못 뛴다…캐릭 “수 주 결장”",
-        "url": "https://www.thestar.com.my/sport/football/2026/11/06/soccer-baleba-out-for-few-weeks-due-to-hamstring-injury-says-carrick",
-        "event_key": "manutd-baleba-hamstring-weeks-out-beyond-international-break-confirmed-20261106"
+        "title": "올해 결성한 김유정·이유림, 코리아오픈서 첫 슈퍼500 결승 진출",
+        "url": "https://biz.chosun.com/sports/sports_general/2026/11/07/G5TGGYLCMRRTKM3DMJRDEYTDMU/",
+        "event_key": "kim-yu-jeong-lee-yu-lim-first-super500-final-korea-open-20261107"
       },
       {
-        "title": "사카, 아직 수 주 더 결장…아르테타 “휴식기 뒤 활동 늘린다”",
-        "url": "https://www.aol.com/articles/bukayo-saka-injury-mikel-arteta-190534000.html",
-        "event_key": "arsenal-saka-quad-weeks-out-post-break-recovery-update-20261106"
+        "title": "엔비디아, 네이버에 1조3412억원 납입 완료…지분 4.13% 확보 예정",
+        "url": "https://www.seoul.co.kr/news/economy/2026/11/06/20261106500288",
+        "event_key": "nvidia-naver-third-party-capital-injection-payment-completed-20261106"
       },
       {
-        "title": "키이우 전력·난방·급수 비상…러 공습에 북부교량도 피해",
-        "url": "https://www.koreajoongangdaily.com/world/russian-strikes-batter-kyiv-power-bridge/12960951",
-        "event_key": "russian-overnight-kyiv-energy-northern-bridge-strike-20261107"
+        "title": "美 정부, 캘리포니아 2만명 우편투표 개표 막던 소송 철회",
+        "url": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-trump-administration-throws-towel-drops-baseless-lawsuit",
+        "event_key": "us-doj-voluntary-dismissal-california-20000-mail-ballots-lawsuit-20261106"
       },
       {
-        "title": "걸프 유조선 폭발 뒤 선원 사망 확인…민간 항로 위험 커졌다",
-        "url": "https://amp.dw.com/en/iran-war-gulf-tanker-attacked-1-seaferer-killed/a-79879270",
-        "event_key": "velos-sapphire-gulf-tanker-explosion-seafarer-death-confirmed-20261106"
+        "title": "뉴질랜드 총선, 보수 연정 근소 과반 전망…최종 집계까지 불확실",
+        "url": "https://www.clickorlando.com/news/2026/11/06/polls-close-in-a-new-zealand-election-expected-to-be-the-tightest-in-years-with-early-results-due/",
+        "event_key": "new-zealand-general-election-provisional-conservative-bloc-slim-majority-20261107"
       }
     ]
   }

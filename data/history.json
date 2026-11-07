@@ -1,6 +1,453 @@
 {
   "version": 1,
   "items": {
+    "b661bd83d241": {
+      "source": "AP/ClickOrlando",
+      "title": "뉴질랜드 총선, 보수 연정 근소 과반 전망…최종 집계까지 불확실",
+      "link": "https://www.clickorlando.com/news/2026/11/06/polls-close-in-a-new-zealand-election-expected-to-be-the-tightest-in-years-with-early-results-due/",
+      "first_seen_at": 1794046082,
+      "last_seen_at": 1794049657,
+      "samples": [
+        {
+          "at": 1794046082,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        },
+        {
+          "at": 1794049657,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "b661bd83d241",
+      "editorial": {
+        "title": "뉴질랜드 총선, 보수 연정 근소 과반 전망…최종 집계까지 불확실",
+        "category": "시사",
+        "url": "https://www.clickorlando.com/news/2026/11/06/polls-close-in-a-new-zealand-election-expected-to-be-the-tightest-in-years-with-early-results-due/",
+        "source": "AP/ClickOrlando",
+        "kind": "article",
+        "event_key": "new-zealand-general-election-provisional-conservative-bloc-slim-majority-20261107",
+        "why": "한 국가의 차기 정부 구성이 특별투표와 연정 협상에 달린 초접전 총선이다.",
+        "angle": "80% 넘게 개표해도 정부 구성은 미확정",
+        "why_now": "11월7일 총선. AP 갱신10:39:20 UTC 본문은80% 이상 개표 시점. 원래 게시 메타는6일20:20:48 UTC로 사건일과 어긋나 최초 공개 시각은 확정하지 않는다.",
+        "verified_at": 1794049477,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.clickorlando.com/news/2026/11/06/polls-close-in-a-new-zealand-election-expected-to-be-the-tightest-in-years-with-early-results-due/",
+            "note": "AP의80% 이상 개표 본문에서 국민당·ACT·NZ퍼스트가66석의 근소 과반을 확보할 전망이나 확정 승리는 아니라는 점을 확인. 공식 최종 결과는11월27일 예정이다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.clickorlando.com/news/2026/11/06/polls-close-in-a-new-zealand-election-expected-to-be-the-tightest-in-years-with-early-results-due/",
+            "label": "확인한 원문 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "잠정 전망이다. 집권 확정·최종 득표율로 쓰지 않는다. 선관위 원페이지 접근은 실패했고 AP 본문으로 검증.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-07",
+          "observation": "AP의80% 이상 개표 본문에서 국민당·ACT·NZ퍼스트가66석의 근소 과반을 확보할 전망이나 확정 승리는 아니라는 점을 확인. 공식 최종 결과는11월27일 예정이다.",
+          "checked_materials": [],
+          "outline": [
+            "80% 넘게 개표해도 정부 구성은 미확정",
+            "AP의80% 이상 개표 본문에서 국민당·ACT·NZ퍼스트가66석의 근소 과반을 확보할 전망이나 확정 승리는 아니라는 점을 확인. 공식 최종 결과는11월27일 예정이다.",
+            "확정 사실과 미확정 범위를 구분해 마무리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 본문",
+            "url": "https://www.clickorlando.com/news/2026/11/06/polls-close-in-a-new-zealand-election-expected-to-be-the-tightest-in-years-with-early-results-due/"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월7일 총선. AP 갱신10:39:20 UTC 본문은80% 이상 개표 시점. 원래 게시 메타는6일20:20:48 UTC로 사건일과 어긋나 최초 공개 시각은 확정하지 않는다.",
+        "fetched_at": 1794049657,
+        "parser_revision": 7
+      },
+      "curation_event_key": "new-zealand-general-election-provisional-conservative-bloc-slim-majority-20261107"
+    },
+    "d0c41bed17c6": {
+      "source": "ge·Reuters",
+      "title": "네이마르 아버지, 산투스 CEO 됐다…선수 에이전트에서 구단 경영으로",
+      "link": "https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2026/11/06/pai-de-neymar-e-o-novo-ceo-do-santos.ghtml",
+      "first_seen_at": 1794049657,
+      "last_seen_at": 1794049657,
+      "samples": [
+        {
+          "at": 1794049657,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "d0c41bed17c6",
+      "editorial": {
+        "title": "네이마르 아버지, 산투스 CEO 됐다…선수 에이전트에서 구단 경영으로",
+        "category": "축구",
+        "url": "https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2026/11/06/pai-de-neymar-e-o-novo-ceo-do-santos.ghtml",
+        "source": "ge·Reuters",
+        "kind": "article",
+        "event_key": "santos-neymar-senior-appointed-ceo-strategic-management-20261106",
+        "why": "세계적 선수의 부친이자 에이전트가 소속 구단 경영까지 맡는 중대한 지배구조 변화다.",
+        "angle": "아들은 선수, 아버지는 구단 CEO",
+        "why_now": "산투스가 11월6일 선임 발표. 브라질 현지 ge 최초 6일13:35, Reuters는 7일08:23 UTC 보도. 오늘 새 발표로 바꾸지 않는다.",
+        "verified_at": 1794049477,
+        "published_at": 1793982900,
+        "evidence": [
+          {
+            "url": "https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2026/11/06/pai-de-neymar-e-o-novo-ceo-do-santos.ghtml",
+            "note": "산투스가 네이마르 부친을 CEO로 선임. ge는 임기가 12월까지이며 테이셰이라 회장 재선 시 유임된다고 보도했고, Reuters가 구단 발표를 대조했다."
+          },
+          {
+            "url": "https://www.thestar.com.my/sport/football/2026/11/07/soccer-neymar039s-father-appointed-santos-fc-ceo",
+            "note": "독립 본문 대조: 산투스의 CEO 선임과 구단주의 경영 강화 발언 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2026/11/06/pai-de-neymar-e-o-novo-ceo-do-santos.ghtml",
+            "label": "확인한 원문 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "구단 인수나 네이마르 재계약 확정이 아니다. 공식 영상은 시청하지 않았고 기사 본문으로 확인.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-06",
+          "observation": "산투스가 네이마르 부친을 CEO로 선임. ge는 임기가 12월까지이며 테이셰이라 회장 재선 시 유임된다고 보도했고, Reuters가 구단 발표를 대조했다.",
+          "checked_materials": [],
+          "outline": [
+            "아들은 선수, 아버지는 구단 CEO",
+            "산투스가 네이마르 부친을 CEO로 선임. ge는 임기가 12월까지이며 테이셰이라 회장 재선 시 유임된다고 보도했고, Reuters가 구단 발표를 대조했다.",
+            "확정 사실과 미확정 범위를 구분해 마무리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 본문",
+            "url": "https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2026/11/06/pai-de-neymar-e-o-novo-ceo-do-santos.ghtml"
+          }
+        ],
+        "excerpt": "",
+        "context": "산투스가 11월6일 선임 발표. 브라질 현지 ge 최초 6일13:35, Reuters는 7일08:23 UTC 보도. 오늘 새 발표로 바꾸지 않는다.",
+        "fetched_at": 1794049657,
+        "parser_revision": 7
+      },
+      "curation_event_key": "santos-neymar-senior-appointed-ceo-strategic-management-20261106"
+    },
+    "5b62dbd6337e": {
+      "source": "OSEN/조선비즈",
+      "title": "올해 결성한 김유정·이유림, 코리아오픈서 첫 슈퍼500 결승 진출",
+      "link": "https://biz.chosun.com/sports/sports_general/2026/11/07/G5TGGYLCMRRTKM3DMJRDEYTDMU/",
+      "first_seen_at": 1794049657,
+      "last_seen_at": 1794049657,
+      "samples": [
+        {
+          "at": 1794049657,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "5b62dbd6337e",
+      "editorial": {
+        "title": "올해 결성한 김유정·이유림, 코리아오픈서 첫 슈퍼500 결승 진출",
+        "category": "메이저 스포츠",
+        "url": "https://biz.chosun.com/sports/sports_general/2026/11/07/G5TGGYLCMRRTKM3DMJRDEYTDMU/",
+        "source": "OSEN/조선비즈",
+        "kind": "article",
+        "event_key": "kim-yu-jeong-lee-yu-lim-first-super500-final-korea-open-20261107",
+        "why": "새로 결성된 한국 여자복식 조가 국제투어 상위 무대 첫 결승까지 올라 판도를 바꿨다.",
+        "angle": "올해 첫 결성, 안방에서 첫 슈퍼500 결승",
+        "why_now": "11월7일 준결승의 새 결과. OSEN 전재 본문 첫 표기 12:02 KST, 선택 페이지 메타 최초12:03:53 KST는 전재 시각이다.",
+        "verified_at": 1794049478,
+        "published_at": 1794020633,
+        "evidence": [
+          {
+            "url": "https://biz.chosun.com/sports/sports_general/2026/11/07/G5TGGYLCMRRTKM3DMJRDEYTDMU/",
+            "note": "김유정·이유림이 코리아오픈 여자복식 준결승에서 천판수톈·뤄쉬민을 2대0(21-17,21-11)으로 꺾고 두 선수 조의 첫 슈퍼500 결승에 진출했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://biz.chosun.com/sports/sports_general/2026/11/07/G5TGGYLCMRRTKM3DMJRDEYTDMU/",
+            "label": "확인한 원문 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "우승 확정이 아니다. 기사형 결과 확인이며 실제 경기 영상은 시청하지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-07",
+          "observation": "김유정·이유림이 코리아오픈 여자복식 준결승에서 천판수톈·뤄쉬민을 2대0(21-17,21-11)으로 꺾고 두 선수 조의 첫 슈퍼500 결승에 진출했다.",
+          "checked_materials": [],
+          "outline": [
+            "올해 첫 결성, 안방에서 첫 슈퍼500 결승",
+            "김유정·이유림이 코리아오픈 여자복식 준결승에서 천판수톈·뤄쉬민을 2대0(21-17,21-11)으로 꺾고 두 선수 조의 첫 슈퍼500 결승에 진출했다.",
+            "확정 사실과 미확정 범위를 구분해 마무리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 본문",
+            "url": "https://biz.chosun.com/sports/sports_general/2026/11/07/G5TGGYLCMRRTKM3DMJRDEYTDMU/"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월7일 준결승의 새 결과. OSEN 전재 본문 첫 표기 12:02 KST, 선택 페이지 메타 최초12:03:53 KST는 전재 시각이다.",
+        "fetched_at": 1794049657,
+        "parser_revision": 7
+      },
+      "curation_event_key": "kim-yu-jeong-lee-yu-lim-first-super500-final-korea-open-20261107"
+    },
+    "dd6dded17e62": {
+      "source": "서울신문·공시 인용",
+      "title": "엔비디아, 네이버에 1조3412억원 납입 완료…지분 4.13% 확보 예정",
+      "link": "https://www.seoul.co.kr/news/economy/2026/11/06/20261106500288",
+      "first_seen_at": 1794049657,
+      "last_seen_at": 1794049657,
+      "samples": [
+        {
+          "at": 1794049657,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "dd6dded17e62",
+      "editorial": {
+        "title": "엔비디아, 네이버에 1조3412억원 납입 완료…지분 4.13% 확보 예정",
+        "category": "시사",
+        "url": "https://www.seoul.co.kr/news/economy/2026/11/06/20261106500288",
+        "source": "서울신문·공시 인용",
+        "kind": "article",
+        "event_key": "nvidia-naver-third-party-capital-injection-payment-completed-20261106",
+        "why": "글로벌 AI 반도체 기업의 한국 플랫폼 대규모 지분투자가 실제 자금 납입 단계로 넘어갔다.",
+        "angle": "계획에서 납입으로, 네이버에 들어온 1.34조원",
+        "why_now": "투자 계획은 기존 발표. 새 사실은 11월6일 공시된 전액 납입 완료이며 선택 기사 최초16:47:46 KST. 24시간 넘은 미발송 원문을 확대 검토.",
+        "verified_at": 1794049475,
+        "published_at": 1793951266,
+        "evidence": [
+          {
+            "url": "https://www.seoul.co.kr/news/economy/2026/11/06/20261106500288",
+            "note": "네이버 공시를 인용한 본문에서 엔비디아의 신주 인수대금 1조3411억9995만7500원 전액 납입, 655만8435주·지분4.13%, 신주 상장 예정11월27일을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.seoul.co.kr/news/economy/2026/11/06/20261106500288",
+            "label": "확인한 원문 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "공시 원파일은 직접 열지 못해 기사 본문과 독립 보도로 확인. AI 팩토리 가동 완료나 주가 전망을 뜻하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-06",
+          "observation": "네이버 공시를 인용한 본문에서 엔비디아의 신주 인수대금 1조3411억9995만7500원 전액 납입, 655만8435주·지분4.13%, 신주 상장 예정11월27일을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "계획에서 납입으로, 네이버에 들어온 1.34조원",
+            "네이버 공시를 인용한 본문에서 엔비디아의 신주 인수대금 1조3411억9995만7500원 전액 납입, 655만8435주·지분4.13%, 신주 상장 예정11월27일을 확인했다.",
+            "확정 사실과 미확정 범위를 구분해 마무리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 본문",
+            "url": "https://www.seoul.co.kr/news/economy/2026/11/06/20261106500288"
+          }
+        ],
+        "excerpt": "",
+        "context": "투자 계획은 기존 발표. 새 사실은 11월6일 공시된 전액 납입 완료이며 선택 기사 최초16:47:46 KST. 24시간 넘은 미발송 원문을 확대 검토.",
+        "fetched_at": 1794049657,
+        "parser_revision": 7
+      },
+      "curation_event_key": "nvidia-naver-third-party-capital-injection-payment-completed-20261106"
+    },
+    "dbc0d908f874": {
+      "source": "캘리포니아 법무부·Reuters",
+      "title": "美 정부, 캘리포니아 2만명 우편투표 개표 막던 소송 철회",
+      "link": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-trump-administration-throws-towel-drops-baseless-lawsuit",
+      "first_seen_at": 1794049657,
+      "last_seen_at": 1794049657,
+      "samples": [
+        {
+          "at": 1794049657,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "official",
+      "story_id": "dbc0d908f874",
+      "editorial": {
+        "title": "美 정부, 캘리포니아 2만명 우편투표 개표 막던 소송 철회",
+        "category": "시사",
+        "url": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-trump-administration-throws-towel-drops-baseless-lawsuit",
+        "source": "캘리포니아 법무부·Reuters",
+        "kind": "official",
+        "event_key": "us-doj-voluntary-dismissal-california-20000-mail-ballots-lawsuit-20261106",
+        "why": "중간선거 개표와 연방정부의 선거 개입 범위를 둘러싼 주요 법정 다툼이 자진 취하됐다.",
+        "angle": "개표 막으려던 소송, 선거 뒤 스스로 철회",
+        "why_now": "미국 현지11월6일 자진 취하. 주 법무부 발표 메타 최초6일18:30:18 PST, Reuters7일02:55 UTC 보도로 대조.",
+        "verified_at": 1794049474,
+        "published_at": 1794018618,
+        "evidence": [
+          {
+            "url": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-trump-administration-throws-towel-drops-baseless-lawsuit",
+            "note": "캘리포니아 주 법무부는 약2만명의 우편투표를 분리·개표 제외하려던 미 정부 소송의 자진 취하를 발표. Reuters는 법무부가 이미 개표돼 요청한 구제가 불가능하다고 설명했음을 확인했다."
+          },
+          {
+            "url": "https://www.aol.com/articles/trump-administration-ends-california-balloting-025525000.html",
+            "note": "독립 본문 대조: 미 법무부의 자진 취하 통지와 이미 개표돼 구제를 받을 수 없다는 설명 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-trump-administration-throws-towel-drops-baseless-lawsuit",
+            "label": "확인한 원문 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "명단의 비시민권자 의혹은 연방정부 주장이다. 실제2만명 부정투표가 확인됐다는 뜻이 아니며 취하와 본안 판결은 다르다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-06",
+          "observation": "캘리포니아 주 법무부는 약2만명의 우편투표를 분리·개표 제외하려던 미 정부 소송의 자진 취하를 발표. Reuters는 법무부가 이미 개표돼 요청한 구제가 불가능하다고 설명했음을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "개표 막으려던 소송, 선거 뒤 스스로 철회",
+            "캘리포니아 주 법무부는 약2만명의 우편투표를 분리·개표 제외하려던 미 정부 소송의 자진 취하를 발표. Reuters는 법무부가 이미 개표돼 요청한 구제가 불가능하다고 설명했음을 확인했다.",
+            "확정 사실과 미확정 범위를 구분해 마무리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 본문",
+            "url": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-trump-administration-throws-towel-drops-baseless-lawsuit"
+          }
+        ],
+        "excerpt": "",
+        "context": "미국 현지11월6일 자진 취하. 주 법무부 발표 메타 최초6일18:30:18 PST, Reuters7일02:55 UTC 보도로 대조.",
+        "fetched_at": 1794049657,
+        "parser_revision": 7
+      },
+      "curation_event_key": "us-doj-voluntary-dismissal-california-20000-mail-ballots-lawsuit-20261106"
+    },
+    "1668f6c2665f": {
+      "source": "Reuters/AOL",
+      "title": "카타르 총리 “미·이란 중재 진전”…합의 가능성은 남았지만 미확정",
+      "link": "https://www.aol.com/articles/qatar-says-mediation-efforts-between-042335000.html",
+      "first_seen_at": 1794049657,
+      "last_seen_at": 1794049657,
+      "samples": [
+        {
+          "at": 1794049657,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "1668f6c2665f",
+      "editorial": {
+        "title": "카타르 총리 “미·이란 중재 진전”…합의 가능성은 남았지만 미확정",
+        "category": "시사",
+        "url": "https://www.aol.com/articles/qatar-says-mediation-efforts-between-042335000.html",
+        "source": "Reuters/AOL",
+        "kind": "article",
+        "event_key": "qatar-pm-us-iran-mediation-significant-progress-statement-20261107",
+        "why": "군사 충돌이 이어지는 에너지 요충지의 전쟁을 끝낼 외교 협상에 관한 중재국의 새 설명이다.",
+        "angle": "중재국은 진전 주장, 합의문은 아직 없다",
+        "why_now": "11월7일 카타르 총리 발언 보도. Reuters/AOL 최초04:23:35 UTC. 기존 이란7개 조건 발송과 구분한 중재국의 새 평가.",
+        "verified_at": 1794049506,
+        "published_at": 1794025415,
+        "evidence": [
+          {
+            "url": "https://www.aol.com/articles/qatar-says-mediation-efforts-between-042335000.html",
+            "note": "Reuters가 전한 카타르 총리 발언에서 미국의 합의 의지가 유지되고 중재에 상당한 진전이 있었다는 설명을 확인. 최종 합의나 휴전 체결은 발표되지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.aol.com/articles/qatar-says-mediation-efforts-between-042335000.html",
+            "label": "확인한 원문 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "진전은 중재국 평가다. 전쟁 종료·호르무즈 재개방 확정으로 쓰지 않는다. 인터뷰 영상은 시청하지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-07",
+          "observation": "Reuters가 전한 카타르 총리 발언에서 미국의 합의 의지가 유지되고 중재에 상당한 진전이 있었다는 설명을 확인. 최종 합의나 휴전 체결은 발표되지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "중재국은 진전 주장, 합의문은 아직 없다",
+            "Reuters가 전한 카타르 총리 발언에서 미국의 합의 의지가 유지되고 중재에 상당한 진전이 있었다는 설명을 확인. 최종 합의나 휴전 체결은 발표되지 않았다.",
+            "확정 사실과 미확정 범위를 구분해 마무리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 본문",
+            "url": "https://www.aol.com/articles/qatar-says-mediation-efforts-between-042335000.html"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월7일 카타르 총리 발언 보도. Reuters/AOL 최초04:23:35 UTC. 기존 이란7개 조건 발송과 구분한 중재국의 새 평가.",
+        "fetched_at": 1794049657,
+        "parser_revision": 7
+      },
+      "curation_event_key": "qatar-pm-us-iran-mediation-significant-progress-statement-20261107"
+    },
     "0c91a77c99c9": {
       "source": "Reuters/The Star",
       "title": "맨유 발레바, A매치 휴식기 지나도 못 뛴다…캐릭 “수 주 결장”",
@@ -396,78 +843,6 @@
         "parser_revision": 7
       },
       "curation_event_key": "velos-sapphire-gulf-tanker-explosion-seafarer-death-confirmed-20261106"
-    },
-    "b661bd83d241": {
-      "source": "AP/ClickOrlando",
-      "title": "뉴질랜드 총선, 초기 개표 초접전…차기 정부 구성도 안갯속",
-      "link": "https://www.clickorlando.com/news/2026/11/06/polls-close-in-a-new-zealand-election-expected-to-be-the-tightest-in-years-with-early-results-due/",
-      "first_seen_at": 1794046082,
-      "last_seen_at": 1794046082,
-      "samples": [
-        {
-          "at": 1794046082,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "b661bd83d241",
-      "editorial": {
-        "title": "뉴질랜드 총선, 초기 개표 초접전…차기 정부 구성도 안갯속",
-        "category": "시사",
-        "url": "https://www.clickorlando.com/news/2026/11/06/polls-close-in-a-new-zealand-election-expected-to-be-the-tightest-in-years-with-early-results-due/",
-        "source": "AP/ClickOrlando",
-        "kind": "article",
-        "event_key": "new-zealand-election-initial-count-no-clear-governing-majority-20261107",
-        "why": "국가 지도부와 연정 방향을 결정할 총선에서 양대 진영 모두 확실한 승리를 확보하지 못했다.",
-        "angle": "양당 접전과 소수 정당의 연정 협상력",
-        "why_now": "11월7일 총선 초기 개표 보도. AP 배포 메타 최초 6일20:20:48 UTC, 본문 갱신 7일08:21:21 UTC로 구분.",
-        "verified_at": 1794045925,
-        "published_at": 1793996448,
-        "evidence": [
-          {
-            "url": "https://www.clickorlando.com/news/2026/11/06/polls-close-in-a-new-zealand-election-expected-to-be-the-tightest-in-years-with-early-results-due/",
-            "note": "AP의 약 3분의1 개표 시점 본문에서 국민당·노동당 접전과 연정 과반 불확실성을 확인. 최종 공식 집계 예정일은 11월27일."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.clickorlando.com/news/2026/11/06/polls-close-in-a-new-zealand-election-expected-to-be-the-tightest-in-years-with-early-results-due/",
-            "label": "확인한 기사 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "초기 개표다. 당선·정권교체 확정이나 최신 득표율로 쓰지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-07",
-          "observation": "AP의 약 3분의1 개표 시점 본문에서 국민당·노동당 접전과 연정 과반 불확실성을 확인. 최종 공식 집계 예정일은 11월27일.",
-          "checked_materials": [],
-          "outline": [
-            "양당 접전과 소수 정당의 연정 협상력",
-            "AP의 약 3분의1 개표 시점 본문에서 국민당·노동당 접전과 연정 과반 불확실성을 확인. 최종 공식 집계 예정일은 11월27일.",
-            "확정 사실과 미확정 범위를 구분해 마무리"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 기사 본문",
-            "url": "https://www.clickorlando.com/news/2026/11/06/polls-close-in-a-new-zealand-election-expected-to-be-the-tightest-in-years-with-early-results-due/"
-          }
-        ],
-        "excerpt": "",
-        "context": "11월7일 총선 초기 개표 보도. AP 배포 메타 최초 6일20:20:48 UTC, 본문 갱신 7일08:21:21 UTC로 구분.",
-        "fetched_at": 1794046082,
-        "parser_revision": 7
-      },
-      "curation_event_key": "new-zealand-election-initial-count-no-clear-governing-majority-20261107"
     },
     "2035d15c7f85": {
       "source": "FIFA / AP",
@@ -30366,5 +30741,5 @@
       "curation_event_key": "nmixx-haewon-birthday-wish-music-bank-win-human-theater-wish-payoff-20261030"
     }
   },
-  "updated_at": 1794046082
+  "updated_at": 1794049657
 }
