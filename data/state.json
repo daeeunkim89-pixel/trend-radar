@@ -1,5 +1,5 @@
 {
-  "updated_at": 1794056966,
+  "updated_at": 1794060154,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026110713",
+    "hour_utc": "2026110714",
     "category_counts": {
-      "시사": 2,
+      "시사": 3,
       "축구": 0,
-      "메이저 스포츠": 3,
+      "메이저 스포츠": 2,
       "아이돌": 0
     },
-    "research_queries": 10,
-    "opened_sources": 7,
+    "research_queries": 18,
+    "opened_sources": 6,
     "picks": [
       {
-        "title": "대학 선수의 5번째 시즌, 법원이 제동…NCAA 가처분 뒤집혔다",
-        "url": "https://law.justia.com/cases/federal/appellate-courts/ca10/26-1309/26-1309-2026-11-06.html",
-        "event_key": "ncaa-wisne-fifth-season-injunction-reversed-20261106"
+        "title": "뉴질랜드, 통가 꺾고 13년 만에 럭비리그 월드컵 결승 진출",
+        "url": "https://www.nrl.com/news/2026/11/07/kiwis-bluster-past-tonga-to-set-up-world-cup-final-spot/",
+        "event_key": "new-zealand-tonga-men-rugby-league-world-cup-final-berth-20261107"
       },
       {
-        "title": "복귀하려는 아이유크에게 NFL “보너스 약 1,300만 달러 돌려줘야”",
-        "url": "https://www.ksl.com/article/51644231/nfl-tells-brandon-aiyuk-he-owes-the-49ers-about-13m-ap-source-says",
-        "event_key": "brandon-aiyuk-nfl-thirteen-million-bonus-repayment-letter-20261105"
+        "title": "러시아 복귀 검토와 별개…IIHF, 벨라루스의 2027 세계선수권 불참 확정",
+        "url": "https://www.iihf.com/en/news/76810/iihf_statement_on_belarus_and_russia",
+        "event_key": "iihf-belarus-appeal-review-2027-senior-u20-exclusion-confirmed-20261107"
       },
       {
-        "title": "산탄데르의 반무슬림 게시물 논란…토론토 “구단 가치와 다르다”",
-        "url": "https://toronto.citynews.ca/2026/11/05/blue-jays-distance-themselves-from-players-islamophobic-social-media-posts/",
-        "event_key": "blue-jays-santander-anti-muslim-posts-club-response-20261105"
+        "title": "다이어트·근육 주사로 팔린 미허가 제품서 세균…캐나다, 1만1,400병 넘게 압수",
+        "url": "https://recalls-rappels.canada.ca/en/alert-recall/health-canada-warns-about-contaminated-unauthorized-injectable-peptides-and-non",
+        "event_key": "health-canada-erp-unauthorized-injectable-peptides-bacteria-11400-vials-20261106"
       },
       {
-        "title": "중국 우주정거장에 첫 외국인 우주인…파키스탄의 선저우24 합류 발표",
-        "url": "https://english.news.cn/20261107/23518c1d0bc3436ba9e03571f1db6537/c.html",
-        "event_key": "china-shenzhou24-pakistani-payload-specialist-announcement-20261107"
+        "title": "대통령 도청 의혹, 네 번째 경찰 고위직까지…인도네시아 수사 확대",
+        "url": "https://www.aol.com/articles/indonesia-names-fourth-senior-police-043430000.html",
+        "event_key": "indonesia-prabowo-wiretapping-fourth-senior-officer-suspect-20261105"
       },
       {
-        "title": "마이크로소프트 데이터센터 공사장 점거…유럽으로 번진 AI 인프라 반발",
-        "url": "https://mynorthwest.com/national/protester-microsoft-amsterdam/4295905",
-        "event_key": "amsterdam-microsoft-datacenter-site-occupation-20261106"
+        "title": "카타르 총리 “미·이란 중재 상당한 진전”…종전 합의는 아직",
+        "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/07/qatar-says-its-mediation-efforts-between-us-and-iran-continue-to-prevent-escalation",
+        "event_key": "qatar-pm-us-iran-mediation-significant-progress-20261107"
       }
     ]
   }
