@@ -6,7 +6,7 @@
       "title": "맨유 발레바, A매치 휴식기 넘어 결장…캐릭이 수주 이탈 확인",
       "link": "https://www.thestar.com.my/sport/football/2026/11/06/soccer-baleba-out-for-few-weeks-due-to-hamstring-injury-says-carrick",
       "first_seen_at": 1794035062,
-      "last_seen_at": 1794038687,
+      "last_seen_at": 1794042305,
       "samples": [
         {
           "at": 1794035062,
@@ -20,6 +20,13 @@
           "views": null,
           "reactions": null,
           "rank": 7,
+          "rank_kind": null
+        },
+        {
+          "at": 1794042305,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
           "rank_kind": null
         }
       ],
@@ -36,7 +43,7 @@
         "why": "리그 17위 맨유가 핵심 중원 없이 반등해야 하는 기간이 감독 설명으로 구체화됐다.",
         "angle": "부상 발생에서 수주 결장 확인으로 바뀐 복귀 전망",
         "why_now": "11/6 캐릭 회견 새 후속. Reuters 재전송 최초 14:37 UTC. 11/3 발송된 부상 발생과 달리 A매치 휴식기를 넘어 결장한다고 확인.",
-        "verified_at": 1794038491,
+        "verified_at": 1794041996,
         "published_at": 1793975820,
         "evidence": [
           {
@@ -51,7 +58,7 @@
             "kind": "source"
           }
         ],
-        "caution": "정확한 복귀일·등급 미공개. 크리스마스 복귀설이나 특정 경기 결장 확정으로 확대하지 않음.",
+        "caution": "정확한 복귀일·등급 미공개. 특정 경기 결장 확정으로 확대하지 않음.",
         "readiness": {
           "mode": "major_news",
           "event_date": "2026-11-06",
@@ -74,10 +81,459 @@
         ],
         "excerpt": "",
         "context": "11/6 캐릭 회견 새 후속. Reuters 재전송 최초 14:37 UTC. 11/3 발송된 부상 발생과 달리 A매치 휴식기를 넘어 결장한다고 확인.",
-        "fetched_at": 1794038687,
+        "fetched_at": 1794042305,
         "parser_revision": 7
       },
       "curation_event_key": "manutd-baleba-hamstring-weeks-out-beyond-international-break-confirmed-20261106"
+    },
+    "2035d15c7f85": {
+      "source": "FIFA / AP",
+      "title": "FIFA 법무 수장 가르시아 퇴임…8년 이끈 규정·징계 조직 교체",
+      "link": "https://inside.fifa.com/legal/news/thanks-emilio-garcia-silvero-dedication-global-football",
+      "first_seen_at": 1794038687,
+      "last_seen_at": 1794042305,
+      "samples": [
+        {
+          "at": 1794038687,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        },
+        {
+          "at": 1794042305,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "official",
+      "story_id": "2035d15c7f85",
+      "editorial": {
+        "title": "FIFA 법무 수장 가르시아 퇴임…8년 이끈 규정·징계 조직 교체",
+        "category": "축구",
+        "url": "https://inside.fifa.com/legal/news/thanks-emilio-garcia-silvero-dedication-global-football",
+        "source": "FIFA / AP",
+        "kind": "official",
+        "event_key": "fifa-emilio-garcia-silvero-legal-compliance-departure-20261106",
+        "why": "세계 축구의 징계·이적 규정·계약 분쟁을 총괄한 핵심 부서 수장이 회장 선거 국면에서 떠난다.",
+        "angle": "8년 법무 수장 퇴임 → 규정·징계 조직의 업무 승계",
+        "why_now": "FIFA 공식 11/6 13:45 표시, 시간대 미표기라 epoch 추정 안 함. 인판티노 회장 선거 출마 보도와 다른 새 인사 발표.",
+        "verified_at": 1794041993,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://inside.fifa.com/legal/news/thanks-emilio-garcia-silvero-dedication-global-football",
+            "note": "FIFA 원문에서 가르시아 실베로의 퇴임·스페인 귀환 의사를 확인. AP는 얀 클라이너의 법무·컴플라이언스 임시 지휘를 보도했다."
+          },
+          {
+            "url": "https://medicinehatnews.com/sports/national-sports/2026/11/06/fifas-legal-head-garcia-leaves-as-infantino-faces-intense-presidential-reelection-campaign/",
+            "note": "AP 본문에서 징계·이적·계약 분쟁 관할과 얀 클라이너 임시 지휘를 확인. 논란과 퇴임의 인과는 공식 발표에 없음."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://inside.fifa.com/legal/news/thanks-emilio-garcia-silvero-dedication-global-football",
+            "label": "공식 발표",
+            "kind": "source"
+          }
+        ],
+        "caution": "퇴임을 월드컵 징계 의혹 인정·경질로 단정하지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-06",
+          "observation": "FIFA 원문에서 가르시아 실베로의 퇴임·스페인 귀환 의사를 확인. AP는 얀 클라이너의 법무·컴플라이언스 임시 지휘를 보도했다.",
+          "checked_materials": [],
+          "outline": [
+            "FIFA가 공식 발표한 퇴임",
+            "후임 임시 지휘와 부서의 세계 축구 관할 범위"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "공식 발표",
+            "url": "https://inside.fifa.com/legal/news/thanks-emilio-garcia-silvero-dedication-global-football"
+          }
+        ],
+        "excerpt": "",
+        "context": "FIFA 공식 11/6 13:45 표시, 시간대 미표기라 epoch 추정 안 함. 인판티노 회장 선거 출마 보도와 다른 새 인사 발표.",
+        "fetched_at": 1794042305,
+        "parser_revision": 7
+      },
+      "curation_event_key": "fifa-emilio-garcia-silvero-legal-compliance-departure-20261106"
+    },
+    "ed6a55a2aa12": {
+      "source": "OSEN / SPOTV NEWS",
+      "title": "삼성, KT에 10대5 승리…12년 만의 한국시리즈 우승까지 1승",
+      "link": "https://www.osen.co.kr/article/G1112906021",
+      "first_seen_at": 1794042305,
+      "last_seen_at": 1794042305,
+      "samples": [
+        {
+          "at": 1794042305,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "ed6a55a2aa12",
+      "editorial": {
+        "title": "삼성, KT에 10대5 승리…12년 만의 한국시리즈 우승까지 1승",
+        "category": "메이저 스포츠",
+        "url": "https://www.osen.co.kr/article/G1112906021",
+        "source": "OSEN / SPOTV NEWS",
+        "kind": "article",
+        "event_key": "samsung-kt-korean-series-game4-10-5-three-one-title-one-win-away-20261107",
+        "why": "한국시리즈 판도가 3승1패로 기울어 삼성이 안방에서 우승을 끝낼 기회를 잡았다.",
+        "angle": "1패 뒤 3연승 → 10대5 최종 결과 → 우승까지 남은 1승",
+        "why_now": "11/7 한국시리즈 4차전 종료 결과. OSEN 최초 발행 17:18 KST, SPOTV 17:23 교차 확인. 앞서 발송된 3차전 결과와 구별.",
+        "verified_at": 1794042033,
+        "published_at": 1794039480,
+        "evidence": [
+          {
+            "url": "https://www.osen.co.kr/article/G1112906021",
+            "note": "OSEN 본문에서 삼성의 4차전 10-5 승리와 시리즈 3승1패를 확인. SPOTV도 같은 결과와 2014년 이후 12년 만의 KS 우승까지 1승 남은 사실을 보도."
+          },
+          {
+            "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018400",
+            "note": "17:23 기사 본문에서 10-5 최종 승리, 1차전 패배 뒤 3연승, 11/8 오후 2시 5차전을 교차 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.osen.co.kr/article/G1112906021",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "기사 본문으로 확인. 경기 영상은 미시청이며 우승 확정·공식 실책으로 확대하지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-07",
+          "observation": "OSEN 본문에서 삼성의 4차전 10-5 승리와 시리즈 3승1패를 확인. SPOTV도 같은 결과와 2014년 이후 12년 만의 KS 우승까지 1승 남은 사실을 보도.",
+          "checked_materials": [],
+          "outline": [
+            "4차전 최종 결과·시리즈 전적",
+            "11/8 5차전에서 우승 마무리 가능한 상황"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://www.osen.co.kr/article/G1112906021"
+          }
+        ],
+        "excerpt": "",
+        "context": "11/7 한국시리즈 4차전 종료 결과. OSEN 최초 발행 17:18 KST, SPOTV 17:23 교차 확인. 앞서 발송된 3차전 결과와 구별.",
+        "fetched_at": 1794042305,
+        "parser_revision": 7
+      },
+      "curation_event_key": "samsung-kt-korean-series-game4-10-5-three-one-title-one-win-away-20261107"
+    },
+    "11359f4f3962": {
+      "source": "Gazete Oksijen / PUNCH",
+      "title": "갈라타사라이 오시멘 무릎 수술 예정…구단, 아메드전 제외 발표",
+      "link": "https://gazeteoksijen.com/spor/galatasaraydan-osimhene-dair-sakatlik-aciklamasi-295263",
+      "first_seen_at": 1794042305,
+      "last_seen_at": 1794042305,
+      "samples": [
+        {
+          "at": 1794042305,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "11359f4f3962",
+      "editorial": {
+        "title": "갈라타사라이 오시멘 무릎 수술 예정…구단, 아메드전 제외 발표",
+        "category": "축구",
+        "url": "https://gazeteoksijen.com/spor/galatasaraydan-osimhene-dair-sakatlik-aciklamasi-295263",
+        "source": "Gazete Oksijen / PUNCH",
+        "kind": "article",
+        "event_key": "galatasaray-osimhen-left-knee-arthroscopy-planned-amed-squad-excluded-20261106",
+        "why": "주포의 수술 결정으로 갈라타사라이 공격진과 나이지리아 대표팀의 전력 운용에 공백이 생긴다.",
+        "angle": "왼쪽 무릎 검사 결과 → 관절경 수술 계획 → 경기 명단 제외",
+        "why_now": "11/6 구단 새 의료 발표. 선택한 원문 최초 19:07 튀르키예 시간(16:07 UTC); 19:10 수정과 구별. 부상 발생 경기와 수술 계획 발표일은 다름.",
+        "verified_at": 1794041997,
+        "published_at": 1793981220,
+        "evidence": [
+          {
+            "url": "https://gazeteoksijen.com/spor/galatasaraydan-osimhene-dair-sakatlik-aciklamasi-295263",
+            "note": "기사에 인용된 구단 의료 발표에서 슈투트가르트전 왼쪽 무릎 손상·MRI상 유리체 확인 후 11/7 관절경 수술 계획과 아메드전 명단 제외를 확인."
+          },
+          {
+            "url": "https://punchng.com/osimhen-to-undergo-knee-surgery-miss-amed-clash/",
+            "note": "PUNCH도 11/6 구단 발표를 인용해 11/7 수술 예정과 아메드전 결장을 확인. 복귀 일정은 이후 발표를 기다리는 상태."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://gazeteoksijen.com/spor/galatasaraydan-osimhene-dair-sakatlik-aciklamasi-295263",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "11/6 발표한 수술 예정 소식. 수술 성공·장기 이탈 기간은 미확인.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-06",
+          "observation": "기사에 인용된 구단 의료 발표에서 슈투트가르트전 왼쪽 무릎 손상·MRI상 유리체 확인 후 11/7 관절경 수술 계획과 아메드전 명단 제외를 확인.",
+          "checked_materials": [],
+          "outline": [
+            "구단이 발표한 수술 계획·경기 제외",
+            "복귀일은 아직 공개되지 않았음을 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://gazeteoksijen.com/spor/galatasaraydan-osimhene-dair-sakatlik-aciklamasi-295263"
+          }
+        ],
+        "excerpt": "",
+        "context": "11/6 구단 새 의료 발표. 선택한 원문 최초 19:07 튀르키예 시간(16:07 UTC); 19:10 수정과 구별. 부상 발생 경기와 수술 계획 발표일은 다름.",
+        "fetched_at": 1794042305,
+        "parser_revision": 7
+      },
+      "curation_event_key": "galatasaray-osimhen-left-knee-arthroscopy-planned-amed-squad-excluded-20261106"
+    },
+    "011362dcdeb5": {
+      "source": "AP / KSAT",
+      "title": "러시아, 日 JT 자회사 4곳 임시 관리…일본 정부 “즉각 철회하라”",
+      "link": "https://www.ksat.com/business/2026/11/06/japan-protests-russian-takeover-of-japan-tobacco-subsidiaries-in-russia/",
+      "first_seen_at": 1794042305,
+      "last_seen_at": 1794042305,
+      "samples": [
+        {
+          "at": 1794042305,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "011362dcdeb5",
+      "editorial": {
+        "title": "러시아, 日 JT 자회사 4곳 임시 관리…일본 정부 “즉각 철회하라”",
+        "category": "시사",
+        "url": "https://www.ksat.com/business/2026/11/06/japan-protests-russian-takeover-of-japan-tobacco-subsidiaries-in-russia/",
+        "source": "AP / KSAT",
+        "kind": "article",
+        "event_key": "japan-tobacco-four-russian-subsidiaries-temporary-control-japan-protest-20261106",
+        "why": "러시아가 일본 대기업의 현지 경영권에 개입해 정부 간 외교·기업 자산 분쟁으로 번졌다.",
+        "angle": "4개 제조 자회사 경영 통제 → 일본 정부 항의·철회 요구",
+        "why_now": "11/5 대통령령 뒤 11/6 JT 확인·일본 정부 항의라는 후속. AP 기사 최초 11/6 11:58:12 UTC, 12:21 수정과 구별. 미발송 24시간 범위.",
+        "verified_at": 1794041996,
+        "published_at": 1793966292,
+        "evidence": [
+          {
+            "url": "https://www.ksat.com/business/2026/11/06/japan-protests-russian-takeover-of-japan-tobacco-subsidiaries-in-russia/",
+            "note": "AP 본문에서 JT 제조 자회사 4곳에 러시아 기업의 임시 관리가 적용됐다는 회사 성명과 일본 정부의 항의·즉각 철회 요구를 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.ksat.com/business/2026/11/06/japan-protests-russian-takeover-of-japan-tobacco-subsidiaries-in-russia/",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "임시 경영 관리이며 소유권 영구 박탈·전체 자산 상실로 단정하지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-06",
+          "observation": "AP 본문에서 JT 제조 자회사 4곳에 러시아 기업의 임시 관리가 적용됐다는 회사 성명과 일본 정부의 항의·즉각 철회 요구를 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "임시 관리 대상 4개 자회사와 정부 대응",
+            "기업이 영향 평가 중이라는 확인 범위"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://www.ksat.com/business/2026/11/06/japan-protests-russian-takeover-of-japan-tobacco-subsidiaries-in-russia/"
+          }
+        ],
+        "excerpt": "",
+        "context": "11/5 대통령령 뒤 11/6 JT 확인·일본 정부 항의라는 후속. AP 기사 최초 11/6 11:58:12 UTC, 12:21 수정과 구별. 미발송 24시간 범위.",
+        "fetched_at": 1794042305,
+        "parser_revision": 7
+      },
+      "curation_event_key": "japan-tobacco-four-russian-subsidiaries-temporary-control-japan-protest-20261106"
+    },
+    "613ed64799b9": {
+      "source": "대만 중앙사 CNA / 연합뉴스",
+      "title": "대만 7선 의원, 中자금 수수 혐의 기소…검찰 징역 14년 구형",
+      "link": "https://japan.focustaiwan.tw/society/202611060006",
+      "first_seen_at": 1794042305,
+      "last_seen_at": 1794042305,
+      "samples": [
+        {
+          "at": 1794042305,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "613ed64799b9",
+      "editorial": {
+        "title": "대만 7선 의원, 中자금 수수 혐의 기소…검찰 징역 14년 구형",
+        "category": "시사",
+        "url": "https://japan.focustaiwan.tw/society/202611060006",
+        "source": "대만 중앙사 CNA / 연합뉴스",
+        "kind": "article",
+        "event_key": "taiwan-kao-chin-su-mei-china-funding-indicted-fourteen-year-demand-20261106",
+        "why": "현역 다선 의원이 외부 자금으로 국방·외교 의정에 개입했다는 기소로 대만의 안보·정치 신뢰에 직결된다.",
+        "angle": "1억7천만 대만달러 자금 혐의 → 14년 구형 → 의원의 전면 부인",
+        "why_now": "11/6 새 기소·구형. CNA 일본어판 최초 16:32 UTC+8(17:32 KST), 중문 최초 시각은 미확인. 국내 최초 기사 17:11 KST. 미발송 48시간 범위로 확장.",
+        "verified_at": 1794041996,
+        "published_at": 1793953920,
+        "evidence": [
+          {
+            "url": "https://japan.focustaiwan.tw/society/202611060006",
+            "note": "CNA 본문에서 고등검찰서의 가오진쑤메이 기소·14년 구형, 1억7천만 대만달러 수수 혐의와 의원의 자금 수수·중국 지시 부인을 확인했다."
+          },
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261106155200083",
+            "note": "연합뉴스도 국가안전법·뇌물수수 혐의와 14년 구형, 약 70억원 규모 및 의원의 전면 부인을 교차 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://japan.focustaiwan.tw/society/202611060006",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "검찰 구형 단계로 유죄·간첩 확정이나 14년형 선고로 쓰지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-06",
+          "observation": "CNA 본문에서 고등검찰서의 가오진쑤메이 기소·14년 구형, 1억7천만 대만달러 수수 혐의와 의원의 자금 수수·중국 지시 부인을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "검찰의 기소·구형과 문제 삼은 의정활동",
+            "피고인의 혐의 부인·재판 판단은 미확정"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://japan.focustaiwan.tw/society/202611060006"
+          }
+        ],
+        "excerpt": "",
+        "context": "11/6 새 기소·구형. CNA 일본어판 최초 16:32 UTC+8(17:32 KST), 중문 최초 시각은 미확인. 국내 최초 기사 17:11 KST. 미발송 48시간 범위로 확장.",
+        "fetched_at": 1794042305,
+        "parser_revision": 7
+      },
+      "curation_event_key": "taiwan-kao-chin-su-mei-china-funding-indicted-fourteen-year-demand-20261106"
+    },
+    "64e5d86ab533": {
+      "source": "USA TODAY / AOL",
+      "title": "아르테타 “사카 복귀까지 수주”…A매치 휴식기 뒤 회복 단계 재평가",
+      "link": "https://www.aol.com/articles/bukayo-saka-injury-mikel-arteta-190534000.html",
+      "first_seen_at": 1794042305,
+      "last_seen_at": 1794042305,
+      "samples": [
+        {
+          "at": 1794042305,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "64e5d86ab533",
+      "editorial": {
+        "title": "아르테타 “사카 복귀까지 수주”…A매치 휴식기 뒤 회복 단계 재평가",
+        "category": "축구",
+        "url": "https://www.aol.com/articles/bukayo-saka-injury-mikel-arteta-190534000.html",
+        "source": "USA TODAY / AOL",
+        "kind": "article",
+        "event_key": "arsenal-saka-quad-weeks-out-post-break-recovery-update-20261106",
+        "why": "아스널이 맨시티·토트넘·레알과의 빅매치를 앞둔 가운데 핵심 공격수의 복귀가 여전히 불투명하다.",
+        "angle": "부상 직후 예상과 분리한 감독의 새 설명 → 휴식기 뒤 훈련 경과 확인",
+        "why_now": "11/6 아르테타 기자회견. USA TODAY 재전송 최초 19:05:34 UTC. 10/21 부상 발생을 새 사건으로 바꾸지 않고 복귀 전망 후속만 검토.",
+        "verified_at": 1794041995,
+        "published_at": 1793991934,
+        "evidence": [
+          {
+            "url": "https://www.aol.com/articles/bukayo-saka-injury-mikel-arteta-190534000.html",
+            "note": "USA TODAY 본문에서 사카의 복귀까지 수주가 남고 휴식기 뒤 활동을 늘려 상태를 보겠다는 아르테타 설명을 확인. 정확한 복귀일은 제시하지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.aol.com/articles/bukayo-saka-injury-mikel-arteta-190534000.html",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "맨시티·토트넘·레알전 결장 확정이 아님. 경기·회견 영상 미시청.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-06",
+          "observation": "USA TODAY 본문에서 사카의 복귀까지 수주가 남고 휴식기 뒤 활동을 늘려 상태를 보겠다는 아르테타 설명을 확인. 정확한 복귀일은 제시하지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "감독이 확인한 회복 단계",
+            "휴식기 뒤 빅매치 일정과 미정인 복귀일"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://www.aol.com/articles/bukayo-saka-injury-mikel-arteta-190534000.html"
+          }
+        ],
+        "excerpt": "",
+        "context": "11/6 아르테타 기자회견. USA TODAY 재전송 최초 19:05:34 UTC. 10/21 부상 발생을 새 사건으로 바꾸지 않고 복귀 전망 후속만 검토.",
+        "fetched_at": 1794042305,
+        "parser_revision": 7
+      },
+      "curation_event_key": "arsenal-saka-quad-weeks-out-post-break-recovery-update-20261106"
     },
     "f1c0779e5369": {
       "source": "OSEN",
@@ -441,81 +897,6 @@
         "parser_revision": 7
       },
       "curation_event_key": "openai-eleven-billion-funding-initial-close-1point25trillion-20261106"
-    },
-    "2035d15c7f85": {
-      "source": "FIFA / AP",
-      "title": "FIFA 법무 수장 가르시아 퇴임…8년 이끈 규정·징계 조직 교체",
-      "link": "https://inside.fifa.com/legal/news/thanks-emilio-garcia-silvero-dedication-global-football",
-      "first_seen_at": 1794038687,
-      "last_seen_at": 1794038687,
-      "samples": [
-        {
-          "at": 1794038687,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "official",
-      "story_id": "2035d15c7f85",
-      "editorial": {
-        "title": "FIFA 법무 수장 가르시아 퇴임…8년 이끈 규정·징계 조직 교체",
-        "category": "축구",
-        "url": "https://inside.fifa.com/legal/news/thanks-emilio-garcia-silvero-dedication-global-football",
-        "source": "FIFA / AP",
-        "kind": "official",
-        "event_key": "fifa-emilio-garcia-silvero-legal-compliance-departure-20261106",
-        "why": "세계 축구의 징계·이적 규정·계약 분쟁을 총괄한 핵심 부서 수장이 회장 선거 국면에서 떠난다.",
-        "angle": "8년 법무 수장 퇴임 → 규정·징계 조직의 업무 승계",
-        "why_now": "FIFA 11/6 13:45 게시 표시, 시간대 미표기라 epoch 추정 안 함. 회장 출마 보도와 다른 새 인사 발표.",
-        "verified_at": 1794038489,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://inside.fifa.com/legal/news/thanks-emilio-garcia-silvero-dedication-global-football",
-            "note": "FIFA 원문에서 가르시아 실베로의 퇴임·스페인 귀환 의사를 확인. AP는 얀 클라이너의 법무·컴플라이언스 임시 지휘를 보도했다."
-          },
-          {
-            "url": "https://medicinehatnews.com/sports/national-sports/2026/11/06/fifas-legal-head-garcia-leaves-as-infantino-faces-intense-presidential-reelection-campaign/",
-            "note": "AP 본문에서 법무 부서 관할과 얀 클라이너 임시 지휘를 확인. 논란과 퇴임의 인과는 공식 발표에 없음."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://inside.fifa.com/legal/news/thanks-emilio-garcia-silvero-dedication-global-football",
-            "label": "공식 발표",
-            "kind": "source"
-          }
-        ],
-        "caution": "퇴임을 월드컵 징계 의혹 인정·경질로 단정하지 않음.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-06",
-          "observation": "FIFA 원문에서 가르시아 실베로의 퇴임·스페인 귀환 의사를 확인. AP는 얀 클라이너의 법무·컴플라이언스 임시 지휘를 보도했다.",
-          "checked_materials": [],
-          "outline": [
-            "FIFA 공식 발표된 퇴임",
-            "후임 임시 지휘와 부서의 세계 축구 관할 범위"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "공식 발표",
-            "url": "https://inside.fifa.com/legal/news/thanks-emilio-garcia-silvero-dedication-global-football"
-          }
-        ],
-        "excerpt": "",
-        "context": "FIFA 11/6 13:45 게시 표시, 시간대 미표기라 epoch 추정 안 함. 회장 출마 보도와 다른 새 인사 발표.",
-        "fetched_at": 1794038687,
-        "parser_revision": 7
-      },
-      "curation_event_key": "fifa-emilio-garcia-silvero-legal-compliance-departure-20261106"
     },
     "4f00e607c17f": {
       "source": "Sky Sports",
@@ -29673,5 +30054,5 @@
       "curation_event_key": "nmixx-haewon-birthday-wish-music-bank-win-human-theater-wish-payoff-20261030"
     }
   },
-  "updated_at": 1794038687
+  "updated_at": 1794042305
 }

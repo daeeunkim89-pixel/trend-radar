@@ -1,5 +1,5 @@
 {
-  "updated_at": 1794038688,
+  "updated_at": 1794042306,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026110708",
+    "hour_utc": "2026110709",
     "category_counts": {
       "시사": 2,
-      "축구": 1,
-      "메이저 스포츠": 2,
+      "축구": 2,
+      "메이저 스포츠": 1,
       "아이돌": 0
     },
-    "research_queries": 13,
-    "opened_sources": 10,
+    "research_queries": 16,
+    "opened_sources": 11,
     "picks": [
       {
-        "title": "T1, KC 꺾고 6년 연속 월즈 4강…첫 4연패 도전 이어간다",
-        "url": "https://www.osen.co.kr/article/G1112905749",
-        "event_key": "t1-karmine-corp-3-1-worlds-quarterfinal-sixth-straight-semifinal-20261107"
+        "title": "삼성, KT에 10대5 승리…12년 만의 한국시리즈 우승까지 1승",
+        "url": "https://www.osen.co.kr/article/G1112906021",
+        "event_key": "samsung-kt-korean-series-game4-10-5-three-one-title-one-win-away-20261107"
       },
       {
-        "title": "월드컵 결승 징계 항소 결과…파레데스 10경기 유지·몰리나는 4경기로",
-        "url": "https://www.afa.com.ar/es/posts/decisiones-de-la-camara-de-apelaciones-de-la-fifa",
-        "event_key": "afa-fifa-appeal-paredes10-upheld-molina-reduced4-cas-plan-20261106"
+        "title": "갈라타사라이 오시멘 무릎 수술 예정…구단, 아메드전 제외 발표",
+        "url": "https://gazeteoksijen.com/spor/galatasaraydan-osimhene-dair-sakatlik-aciklamasi-295263",
+        "event_key": "galatasaray-osimhen-left-knee-arthroscopy-planned-amed-squad-excluded-20261106"
       },
       {
-        "title": "올림픽 금메달 뒤 2년여 공백…칼리프, 12월 15일 프로 데뷔 발표",
-        "url": "https://ultrasurfing.com/sports/olympic-champion-khelif-to-make-pro-boxing-debut-in-december/",
-        "event_key": "imane-khelif-paris-dec15-pro-debut-sarabia-announced-20261106"
+        "title": "FIFA 법무 수장 가르시아 퇴임…8년 이끈 규정·징계 조직 교체",
+        "url": "https://inside.fifa.com/legal/news/thanks-emilio-garcia-silvero-dedication-global-football",
+        "event_key": "fifa-emilio-garcia-silvero-legal-compliance-departure-20261106"
       },
       {
-        "title": "항공편 이어 방송사까지 폭발물 위협…아일랜드 RTE 대피·생방송 중단",
-        "url": "https://toronto.citynews.ca/2026/11/06/european-flights-and-broadcasters-are-targeted-with-another-wave-of-bomb-threats/",
-        "event_key": "europe-broadcaster-bomb-threats-rte-evacuation-live-programming-disrupted-20261106"
+        "title": "러시아, 日 JT 자회사 4곳 임시 관리…일본 정부 “즉각 철회하라”",
+        "url": "https://www.ksat.com/business/2026/11/06/japan-protests-russian-takeover-of-japan-tobacco-subsidiaries-in-russia/",
+        "event_key": "japan-tobacco-four-russian-subsidiaries-temporary-control-japan-protest-20261106"
       },
       {
-        "title": "OpenAI, 110억달러 신규 자금 확보 보도…기업가치 1조2500억달러",
-        "url": "https://www.marketscreener.com/news/openai-secures-11-billion-funding-at-1-25-trillion-valuation-bloomberg-news-reports-ce785fd2dc8bf622",
-        "event_key": "openai-eleven-billion-funding-initial-close-1point25trillion-20261106"
+        "title": "대만 7선 의원, 中자금 수수 혐의 기소…검찰 징역 14년 구형",
+        "url": "https://japan.focustaiwan.tw/society/202611060006",
+        "event_key": "taiwan-kao-chin-su-mei-china-funding-indicted-fourteen-year-demand-20261106"
       }
     ]
   }
