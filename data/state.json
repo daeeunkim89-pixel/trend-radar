@@ -1,5 +1,5 @@
 {
-  "updated_at": 1794049658,
+  "updated_at": 1794053389,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026110711",
+    "hour_utc": "2026110712",
     "category_counts": {
-      "시사": 3,
+      "시사": 2,
       "축구": 1,
-      "메이저 스포츠": 1,
+      "메이저 스포츠": 2,
       "아이돌": 0
     },
-    "research_queries": 23,
-    "opened_sources": 9,
+    "research_queries": 14,
+    "opened_sources": 8,
     "picks": [
       {
-        "title": "네이마르 아버지, 산투스 CEO 됐다…선수 에이전트에서 구단 경영으로",
-        "url": "https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2026/11/06/pai-de-neymar-e-o-novo-ceo-do-santos.ghtml",
-        "event_key": "santos-neymar-senior-appointed-ceo-strategic-management-20261106"
+        "title": "디플러스 기아, BLG에 0대3…롤드컵 8강에서 도전 끝",
+        "url": "https://www.inven.co.kr/webzine/news/?iskin=alphascan&news=323060",
+        "event_key": "dplus-kia-bilibili-gaming-0-3-worlds-quarterfinal-elimination-20261106"
       },
       {
-        "title": "올해 결성한 김유정·이유림, 코리아오픈서 첫 슈퍼500 결승 진출",
-        "url": "https://biz.chosun.com/sports/sports_general/2026/11/07/G5TGGYLCMRRTKM3DMJRDEYTDMU/",
-        "event_key": "kim-yu-jeong-lee-yu-lim-first-super500-final-korea-open-20261107"
+        "title": "주전·백업 QB 부상에 레이븐스 결단…브리셋 트레이드 완료",
+        "url": "https://www.baltimoreravens.com/news/jacoby-brissett-ravens-trade-cardinals-finalize-2026",
+        "event_key": "ravens-finalize-jacoby-brissett-trade-cardinals-quarterback-injury-crisis-20261106"
       },
       {
-        "title": "엔비디아, 네이버에 1조3412억원 납입 완료…지분 4.13% 확보 예정",
-        "url": "https://www.seoul.co.kr/news/economy/2026/11/06/20261106500288",
-        "event_key": "nvidia-naver-third-party-capital-injection-payment-completed-20261106"
+        "title": "오시멘, 무릎 수술 성공 발표…갈라타사라이 “매일 경과 관찰”",
+        "url": "https://www.galatasaray.org/haber/futbol/acibadem-saglik-raporu/acibadem-saglik-raporu/61333",
+        "event_key": "galatasaray-osimhen-successful-knee-operation-completed-20261107"
       },
       {
-        "title": "美 정부, 캘리포니아 2만명 우편투표 개표 막던 소송 철회",
-        "url": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-trump-administration-throws-towel-drops-baseless-lawsuit",
-        "event_key": "us-doj-voluntary-dismissal-california-20000-mail-ballots-lawsuit-20261106"
+        "title": "콩고 무장 공격에 최소33명 사망…에볼라 환자도 병원서 대피",
+        "url": "https://www.aol.com/articles/islamist-militants-force-ebola-patients-161846000.html",
+        "event_key": "cantine-adf-raid-33-killed-ebola-confirmed-suspected-patients-flee-20261106"
       },
       {
-        "title": "뉴질랜드 총선, 보수 연정 근소 과반 전망…최종 집계까지 불확실",
-        "url": "https://www.clickorlando.com/news/2026/11/06/polls-close-in-a-new-zealand-election-expected-to-be-the-tightest-in-years-with-early-results-due/",
-        "event_key": "new-zealand-general-election-provisional-conservative-bloc-slim-majority-20261107"
+        "title": "백악관 인근서 총기3정 소지 남성 체포…당국 “트럼프 살해 위협”",
+        "url": "https://www.clickorlando.com/news/politics/2026/11/07/secret-service-arrests-man-near-white-house-after-he-said-he-heard-voices-telling-him-to-kill-trump/",
+        "event_key": "white-house-armed-suspect-three-firearms-trump-threat-arrest-disclosed-20261106"
       }
     ]
   }

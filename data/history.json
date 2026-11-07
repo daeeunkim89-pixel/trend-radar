@@ -1,6 +1,453 @@
 {
   "version": 1,
   "items": {
+    "1668f6c2665f": {
+      "source": "Reuters/AOL",
+      "title": "카타르 총리 “미·이란 중재 진전”…최종 합의는 아직 미확정",
+      "link": "https://www.aol.com/articles/qatar-says-mediation-efforts-between-042335000.html",
+      "first_seen_at": 1794049657,
+      "last_seen_at": 1794053388,
+      "samples": [
+        {
+          "at": 1794049657,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        },
+        {
+          "at": 1794053388,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "1668f6c2665f",
+      "editorial": {
+        "title": "카타르 총리 “미·이란 중재 진전”…최종 합의는 아직 미확정",
+        "category": "시사",
+        "url": "https://www.aol.com/articles/qatar-says-mediation-efforts-between-042335000.html",
+        "source": "Reuters/AOL",
+        "kind": "article",
+        "event_key": "qatar-pm-us-iran-mediation-significant-progress-statement-20261107",
+        "why": "군사 충돌이 이어지는 에너지 요충지 전쟁을 끝낼 외교 협상에 관한 중재국의 새 설명이다.",
+        "angle": "중재국의 진전 주장과 아직 없는 최종 합의",
+        "why_now": "11월7일 카타르 총리 발언, Reuters/AOL 최초04:23:35 UTC. 기존 발송 이란7개 조건과 구분한 중재국의 새 평가다.",
+        "verified_at": 1794053181,
+        "published_at": 1794025415,
+        "evidence": [
+          {
+            "url": "https://www.aol.com/articles/qatar-says-mediation-efforts-between-042335000.html",
+            "note": "Reuters가 전한 카타르 총리 발언에서 미국의 합의 의지가 유지되고 중재에 상당한 진전이 있었다는 설명을 확인. 최종 합의나 휴전 체결은 발표되지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.aol.com/articles/qatar-says-mediation-efforts-between-042335000.html",
+            "label": "확인한 원문 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "진전은 중재국 평가다. 전쟁 종료·호르무즈 재개방 확정으로 쓰지 않는다. 인터뷰 영상은 시청하지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-07",
+          "observation": "Reuters가 전한 카타르 총리 발언에서 미국의 합의 의지가 유지되고 중재에 상당한 진전이 있었다는 설명을 확인. 최종 합의나 휴전 체결은 발표되지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "중재국의 진전 주장과 아직 없는 최종 합의",
+            "Reuters가 전한 카타르 총리 발언에서 미국의 합의 의지가 유지되고 중재에 상당한 진전이 있었다는 설명을 확인. 최종 합의나 휴전 체결은 발표되지 않았다.",
+            "확정 사실과 미확정 범위를 구분해 마무리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 본문",
+            "url": "https://www.aol.com/articles/qatar-says-mediation-efforts-between-042335000.html"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월7일 카타르 총리 발언, Reuters/AOL 최초04:23:35 UTC. 기존 발송 이란7개 조건과 구분한 중재국의 새 평가다.",
+        "fetched_at": 1794053388,
+        "parser_revision": 7
+      },
+      "curation_event_key": "qatar-pm-us-iran-mediation-significant-progress-statement-20261107"
+    },
+    "4f62f545d0fd": {
+      "source": "인벤",
+      "title": "디플러스 기아, BLG에 0대3…롤드컵 8강에서 도전 끝",
+      "link": "https://www.inven.co.kr/webzine/news/?iskin=alphascan&news=323060",
+      "first_seen_at": 1794053388,
+      "last_seen_at": 1794053388,
+      "samples": [
+        {
+          "at": 1794053388,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "4f62f545d0fd",
+      "editorial": {
+        "title": "디플러스 기아, BLG에 0대3…롤드컵 8강에서 도전 끝",
+        "category": "메이저 스포츠",
+        "url": "https://www.inven.co.kr/webzine/news/?iskin=alphascan&news=323060",
+        "source": "인벤",
+        "kind": "article",
+        "event_key": "dplus-kia-bilibili-gaming-0-3-worlds-quarterfinal-elimination-20261106",
+        "why": "한국 프로팀의 세계 최대 LoL 대회 탈락으로 우승 경쟁 구도가 바뀐 결과다.",
+        "angle": "한 세트도 못 따낸 8강, DK의 월즈 종료",
+        "why_now": "한국시간11월6일 8강 결과, 인벤 최초09:33:29 KST. 12시간 내 미발송 주요 스포츠가 부족해48시간 범위에서 검토했다.",
+        "verified_at": 1794053183,
+        "published_at": 1793925209,
+        "evidence": [
+          {
+            "url": "https://www.inven.co.kr/webzine/news/?iskin=alphascan&news=323060",
+            "note": "디플러스 기아가 미국 텍사스 앨런에서 열린 2026 LoL 월드 챔피언십 8강 BLG전에서0대3으로 패해 탈락한 사실을 기사 본문으로 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.inven.co.kr/webzine/news/?iskin=alphascan&news=323060",
+            "label": "확인한 원문 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "공식 국가대표가 아닌 한국 프로팀이다. 기사형 경기 결과 검증이며 실제 경기 영상은 시청하지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-06",
+          "observation": "디플러스 기아가 미국 텍사스 앨런에서 열린 2026 LoL 월드 챔피언십 8강 BLG전에서0대3으로 패해 탈락한 사실을 기사 본문으로 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "한 세트도 못 따낸 8강, DK의 월즈 종료",
+            "디플러스 기아가 미국 텍사스 앨런에서 열린 2026 LoL 월드 챔피언십 8강 BLG전에서0대3으로 패해 탈락한 사실을 기사 본문으로 확인했다.",
+            "확정 사실과 미확정 범위를 구분해 마무리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 본문",
+            "url": "https://www.inven.co.kr/webzine/news/?iskin=alphascan&news=323060"
+          }
+        ],
+        "excerpt": "",
+        "context": "한국시간11월6일 8강 결과, 인벤 최초09:33:29 KST. 12시간 내 미발송 주요 스포츠가 부족해48시간 범위에서 검토했다.",
+        "fetched_at": 1794053388,
+        "parser_revision": 7
+      },
+      "curation_event_key": "dplus-kia-bilibili-gaming-0-3-worlds-quarterfinal-elimination-20261106"
+    },
+    "b1d3d0d30606": {
+      "source": "볼티모어 레이븐스",
+      "title": "주전·백업 QB 부상에 레이븐스 결단…브리셋 트레이드 완료",
+      "link": "https://www.baltimoreravens.com/news/jacoby-brissett-ravens-trade-cardinals-finalize-2026",
+      "first_seen_at": 1794053388,
+      "last_seen_at": 1794053388,
+      "samples": [
+        {
+          "at": 1794053388,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "official",
+      "story_id": "b1d3d0d30606",
+      "editorial": {
+        "title": "주전·백업 QB 부상에 레이븐스 결단…브리셋 트레이드 완료",
+        "category": "메이저 스포츠",
+        "url": "https://www.baltimoreravens.com/news/jacoby-brissett-ravens-trade-cardinals-finalize-2026",
+        "source": "볼티모어 레이븐스",
+        "kind": "official",
+        "event_key": "ravens-finalize-jacoby-brissett-trade-cardinals-quarterback-injury-crisis-20261106",
+        "why": "MVP 쿼터백 이탈과4연패 위기에 놓인 NFL 팀이 새 선발 자원을 실제 영입했다.",
+        "angle": "쿼터백 공백 메울11년 차, 트레이드 확정",
+        "why_now": "구단11월6일 트레이드 완료 발표. 최초 메타16:00:49 UTC, 갱신21:12:37 UTC와 구분. 단순 협상 보도가 아닌 확정 건.",
+        "verified_at": 1794053181,
+        "published_at": 1793980849,
+        "evidence": [
+          {
+            "url": "https://www.baltimoreravens.com/news/jacoby-brissett-ravens-trade-cardinals-finalize-2026",
+            "note": "볼티모어 구단은 애리조나의 자코비 브리셋 영입 트레이드 완료를 발표. 라마 잭슨·타일러 헌틀리 부상으로 생긴 공백을 메울 계획이라고 설명했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.baltimoreravens.com/news/jacoby-brissett-ravens-trade-cardinals-finalize-2026",
+            "label": "확인한 원문 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "보상 지명권 세부는 구단 기사도 ESPN 보도를 인용한다. 잭슨 시즌 아웃 확정으로 쓰지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-06",
+          "observation": "볼티모어 구단은 애리조나의 자코비 브리셋 영입 트레이드 완료를 발표. 라마 잭슨·타일러 헌틀리 부상으로 생긴 공백을 메울 계획이라고 설명했다.",
+          "checked_materials": [],
+          "outline": [
+            "쿼터백 공백 메울11년 차, 트레이드 확정",
+            "볼티모어 구단은 애리조나의 자코비 브리셋 영입 트레이드 완료를 발표. 라마 잭슨·타일러 헌틀리 부상으로 생긴 공백을 메울 계획이라고 설명했다.",
+            "확정 사실과 미확정 범위를 구분해 마무리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 본문",
+            "url": "https://www.baltimoreravens.com/news/jacoby-brissett-ravens-trade-cardinals-finalize-2026"
+          }
+        ],
+        "excerpt": "",
+        "context": "구단11월6일 트레이드 완료 발표. 최초 메타16:00:49 UTC, 갱신21:12:37 UTC와 구분. 단순 협상 보도가 아닌 확정 건.",
+        "fetched_at": 1794053388,
+        "parser_revision": 7
+      },
+      "curation_event_key": "ravens-finalize-jacoby-brissett-trade-cardinals-quarterback-injury-crisis-20261106"
+    },
+    "f8805d6b45fc": {
+      "source": "갈라타사라이·DHA",
+      "title": "오시멘, 무릎 수술 성공 발표…갈라타사라이 “매일 경과 관찰”",
+      "link": "https://www.galatasaray.org/haber/futbol/acibadem-saglik-raporu/acibadem-saglik-raporu/61333",
+      "first_seen_at": 1794053388,
+      "last_seen_at": 1794053388,
+      "samples": [
+        {
+          "at": 1794053388,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "official",
+      "story_id": "f8805d6b45fc",
+      "editorial": {
+        "title": "오시멘, 무릎 수술 성공 발표…갈라타사라이 “매일 경과 관찰”",
+        "category": "축구",
+        "url": "https://www.galatasaray.org/haber/futbol/acibadem-saglik-raporu/acibadem-saglik-raporu/61333",
+        "source": "갈라타사라이·DHA",
+        "kind": "official",
+        "event_key": "galatasaray-osimhen-successful-knee-operation-completed-20261107",
+        "why": "주포의 수술이 실제 완료돼 구단과 대표팀의 복귀 판단이 회복 경과 관찰 단계로 넘어갔다.",
+        "angle": "수술 예정에서 완료로, 복귀일은 아직 미정",
+        "why_now": "11월7일12:59 튀르키예 구단 원문. 직전 발송은6일 수술 예정·명단 제외였고, 새 사실은7일 수술 성공과 사후 관리 발표다.",
+        "verified_at": 1794053219,
+        "published_at": 1794045540,
+        "evidence": [
+          {
+            "url": "https://www.galatasaray.org/haber/futbol/acibadem-saglik-raporu/acibadem-saglik-raporu/61333",
+            "note": "갈라타사라이는 오시멘이 마슬라크 아즈바뎀 병원에서 구단 의사 예네르 인제의 성공적인 수술을 받았으며 매일 상태를 평가하고 치료를 이어간다고 공식 발표했다."
+          },
+          {
+            "url": "https://www.dha.com.tr/spor/galatasarayda-victor-osimhen-ameliyat-oldu-2976970",
+            "note": "독립 본문 대조: DHA가 구단의 수술 성공 발표와 매일 경과 관찰 방침을 인용했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.galatasaray.org/haber/futbol/acibadem-saglik-raporu/acibadem-saglik-raporu/61333",
+            "label": "확인한 원문 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "복귀일·수 주 결장 전망은 공식 원문에 없다. 수술 예정 발송의 반복이 아닌 완료 후속이며 회복 보장은 하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-07",
+          "observation": "갈라타사라이는 오시멘이 마슬라크 아즈바뎀 병원에서 구단 의사 예네르 인제의 성공적인 수술을 받았으며 매일 상태를 평가하고 치료를 이어간다고 공식 발표했다.",
+          "checked_materials": [],
+          "outline": [
+            "수술 예정에서 완료로, 복귀일은 아직 미정",
+            "갈라타사라이는 오시멘이 마슬라크 아즈바뎀 병원에서 구단 의사 예네르 인제의 성공적인 수술을 받았으며 매일 상태를 평가하고 치료를 이어간다고 공식 발표했다.",
+            "확정 사실과 미확정 범위를 구분해 마무리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 본문",
+            "url": "https://www.galatasaray.org/haber/futbol/acibadem-saglik-raporu/acibadem-saglik-raporu/61333"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월7일12:59 튀르키예 구단 원문. 직전 발송은6일 수술 예정·명단 제외였고, 새 사실은7일 수술 성공과 사후 관리 발표다.",
+        "fetched_at": 1794053388,
+        "parser_revision": 7
+      },
+      "curation_event_key": "galatasaray-osimhen-successful-knee-operation-completed-20261107"
+    },
+    "f0d5c3f9c076": {
+      "source": "Reuters/AOL·AP",
+      "title": "콩고 무장 공격에 최소33명 사망…에볼라 환자도 병원서 대피",
+      "link": "https://www.aol.com/articles/islamist-militants-force-ebola-patients-161846000.html",
+      "first_seen_at": 1794053388,
+      "last_seen_at": 1794053388,
+      "samples": [
+        {
+          "at": 1794053388,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "f0d5c3f9c076",
+      "editorial": {
+        "title": "콩고 무장 공격에 최소33명 사망…에볼라 환자도 병원서 대피",
+        "category": "시사",
+        "url": "https://www.aol.com/articles/islamist-militants-force-ebola-patients-161846000.html",
+        "source": "Reuters/AOL·AP",
+        "kind": "article",
+        "event_key": "cantine-adf-raid-33-killed-ebola-confirmed-suspected-patients-flee-20261106",
+        "why": "대규모 민간인 살해가 감염병 대응까지 무너뜨리며 인도주의·공중보건 위기를 겹치게 했다.",
+        "angle": "총격 피한 에볼라 환자들, 방역도 흔들렸다",
+        "why_now": "공격은11월5일 현지23시 무렵, 피해·환자 대피 발표는6일. Reuters/AOL 최초6일16:18:46 UTC, 갱신16:31과 구분.",
+        "verified_at": 1794053181,
+        "published_at": 1793981926,
+        "evidence": [
+          {
+            "url": "https://www.aol.com/articles/islamist-militants-force-ebola-patients-161846000.html",
+            "note": "Reuters는 현지단체의33구 시신 집계와 병원장의 에볼라 확진1명·의심5명 대피 설명을 확인했다. AP도 민간인33명 사망과 확진환자 포함 병원환자 대피를 보도했다."
+          },
+          {
+            "url": "https://apnews.com/article/8c1714ba93398184703e5866d8b9c0c6",
+            "note": "독립 본문 대조: AP도 현지단체의 최소33명 사망 집계와 병원장의 확진·의심환자 대피 설명을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.aol.com/articles/islamist-militants-force-ebola-patients-161846000.html",
+            "label": "확인한 원문 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "최소33명은 현지단체 집계이며 당국 최종 확정 수치는 아니다. 대피 환자 수와 확진자 수를 혼동하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-06",
+          "observation": "Reuters는 현지단체의33구 시신 집계와 병원장의 에볼라 확진1명·의심5명 대피 설명을 확인했다. AP도 민간인33명 사망과 확진환자 포함 병원환자 대피를 보도했다.",
+          "checked_materials": [],
+          "outline": [
+            "총격 피한 에볼라 환자들, 방역도 흔들렸다",
+            "Reuters는 현지단체의33구 시신 집계와 병원장의 에볼라 확진1명·의심5명 대피 설명을 확인했다. AP도 민간인33명 사망과 확진환자 포함 병원환자 대피를 보도했다.",
+            "확정 사실과 미확정 범위를 구분해 마무리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 본문",
+            "url": "https://www.aol.com/articles/islamist-militants-force-ebola-patients-161846000.html"
+          }
+        ],
+        "excerpt": "",
+        "context": "공격은11월5일 현지23시 무렵, 피해·환자 대피 발표는6일. Reuters/AOL 최초6일16:18:46 UTC, 갱신16:31과 구분.",
+        "fetched_at": 1794053388,
+        "parser_revision": 7
+      },
+      "curation_event_key": "cantine-adf-raid-33-killed-ebola-confirmed-suspected-patients-flee-20261106"
+    },
+    "51e1ddba8c89": {
+      "source": "AP/ClickOrlando",
+      "title": "백악관 인근서 총기3정 소지 남성 체포…당국 “트럼프 살해 위협”",
+      "link": "https://www.clickorlando.com/news/politics/2026/11/07/secret-service-arrests-man-near-white-house-after-he-said-he-heard-voices-telling-him-to-kill-trump/",
+      "first_seen_at": 1794053388,
+      "last_seen_at": 1794053388,
+      "samples": [
+        {
+          "at": 1794053388,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "51e1ddba8c89",
+      "editorial": {
+        "title": "백악관 인근서 총기3정 소지 남성 체포…당국 “트럼프 살해 위협”",
+        "category": "시사",
+        "url": "https://www.clickorlando.com/news/politics/2026/11/07/secret-service-arrests-man-near-white-house-after-he-said-he-heard-voices-telling-him-to-kill-trump/",
+        "source": "AP/ClickOrlando",
+        "kind": "article",
+        "event_key": "white-house-armed-suspect-three-firearms-trump-threat-arrest-disclosed-20261106",
+        "why": "미국 대통령 경호 구역 인근에서 다수 총기와 살해 위협이 확인됐다는 국가안보 사건이다.",
+        "angle": "총기3정·탄약 수십 발, 경호당국이 체포",
+        "why_now": "체포는미국11월5일 밤, 당국 발표와 보도는6일. AP 배포 메타 최초7일00:00:53 UTC. 오늘 벌어진 체포로 바꾸지 않는다.",
+        "verified_at": 1794053181,
+        "published_at": 1794009653,
+        "evidence": [
+          {
+            "url": "https://www.clickorlando.com/news/politics/2026/11/07/secret-service-arrests-man-near-white-house-after-he-said-he-heard-voices-telling-him-to-kill-trump/",
+            "note": "AP가 전한 국토안보부 설명에 따르면 비밀경호국은 백악관 인근 차량의 남성을 체포했고 도난 신고 차량에서 총기3정·탄약 수십 발을 발견했다. 당국은 대통령 살해 위협 진술이 있었다고 밝혔다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.clickorlando.com/news/politics/2026/11/07/secret-service-arrests-man-near-white-house-after-he-said-he-heard-voices-telling-him-to-kill-trump/",
+            "label": "확인한 원문 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "당국 발표·혐의 단계다. 실제 암살 실행이나 대통령 피격이 발생한 것은 아니며 정신질환 진단은 추정하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-06",
+          "observation": "AP가 전한 국토안보부 설명에 따르면 비밀경호국은 백악관 인근 차량의 남성을 체포했고 도난 신고 차량에서 총기3정·탄약 수십 발을 발견했다. 당국은 대통령 살해 위협 진술이 있었다고 밝혔다.",
+          "checked_materials": [],
+          "outline": [
+            "총기3정·탄약 수십 발, 경호당국이 체포",
+            "AP가 전한 국토안보부 설명에 따르면 비밀경호국은 백악관 인근 차량의 남성을 체포했고 도난 신고 차량에서 총기3정·탄약 수십 발을 발견했다. 당국은 대통령 살해 위협 진술이 있었다고 밝혔다.",
+            "확정 사실과 미확정 범위를 구분해 마무리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문 본문",
+            "url": "https://www.clickorlando.com/news/politics/2026/11/07/secret-service-arrests-man-near-white-house-after-he-said-he-heard-voices-telling-him-to-kill-trump/"
+          }
+        ],
+        "excerpt": "",
+        "context": "체포는미국11월5일 밤, 당국 발표와 보도는6일. AP 배포 메타 최초7일00:00:53 UTC. 오늘 벌어진 체포로 바꾸지 않는다.",
+        "fetched_at": 1794053388,
+        "parser_revision": 7
+      },
+      "curation_event_key": "white-house-armed-suspect-three-firearms-trump-threat-arrest-disclosed-20261106"
+    },
     "b661bd83d241": {
       "source": "AP/ClickOrlando",
       "title": "뉴질랜드 총선, 보수 연정 근소 과반 전망…최종 집계까지 불확실",
@@ -375,78 +822,6 @@
         "parser_revision": 7
       },
       "curation_event_key": "us-doj-voluntary-dismissal-california-20000-mail-ballots-lawsuit-20261106"
-    },
-    "1668f6c2665f": {
-      "source": "Reuters/AOL",
-      "title": "카타르 총리 “미·이란 중재 진전”…합의 가능성은 남았지만 미확정",
-      "link": "https://www.aol.com/articles/qatar-says-mediation-efforts-between-042335000.html",
-      "first_seen_at": 1794049657,
-      "last_seen_at": 1794049657,
-      "samples": [
-        {
-          "at": 1794049657,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "1668f6c2665f",
-      "editorial": {
-        "title": "카타르 총리 “미·이란 중재 진전”…합의 가능성은 남았지만 미확정",
-        "category": "시사",
-        "url": "https://www.aol.com/articles/qatar-says-mediation-efforts-between-042335000.html",
-        "source": "Reuters/AOL",
-        "kind": "article",
-        "event_key": "qatar-pm-us-iran-mediation-significant-progress-statement-20261107",
-        "why": "군사 충돌이 이어지는 에너지 요충지의 전쟁을 끝낼 외교 협상에 관한 중재국의 새 설명이다.",
-        "angle": "중재국은 진전 주장, 합의문은 아직 없다",
-        "why_now": "11월7일 카타르 총리 발언 보도. Reuters/AOL 최초04:23:35 UTC. 기존 이란7개 조건 발송과 구분한 중재국의 새 평가.",
-        "verified_at": 1794049506,
-        "published_at": 1794025415,
-        "evidence": [
-          {
-            "url": "https://www.aol.com/articles/qatar-says-mediation-efforts-between-042335000.html",
-            "note": "Reuters가 전한 카타르 총리 발언에서 미국의 합의 의지가 유지되고 중재에 상당한 진전이 있었다는 설명을 확인. 최종 합의나 휴전 체결은 발표되지 않았다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.aol.com/articles/qatar-says-mediation-efforts-between-042335000.html",
-            "label": "확인한 원문 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "진전은 중재국 평가다. 전쟁 종료·호르무즈 재개방 확정으로 쓰지 않는다. 인터뷰 영상은 시청하지 않았다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-07",
-          "observation": "Reuters가 전한 카타르 총리 발언에서 미국의 합의 의지가 유지되고 중재에 상당한 진전이 있었다는 설명을 확인. 최종 합의나 휴전 체결은 발표되지 않았다.",
-          "checked_materials": [],
-          "outline": [
-            "중재국은 진전 주장, 합의문은 아직 없다",
-            "Reuters가 전한 카타르 총리 발언에서 미국의 합의 의지가 유지되고 중재에 상당한 진전이 있었다는 설명을 확인. 최종 합의나 휴전 체결은 발표되지 않았다.",
-            "확정 사실과 미확정 범위를 구분해 마무리"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 본문",
-            "url": "https://www.aol.com/articles/qatar-says-mediation-efforts-between-042335000.html"
-          }
-        ],
-        "excerpt": "",
-        "context": "11월7일 카타르 총리 발언 보도. Reuters/AOL 최초04:23:35 UTC. 기존 이란7개 조건 발송과 구분한 중재국의 새 평가.",
-        "fetched_at": 1794049657,
-        "parser_revision": 7
-      },
-      "curation_event_key": "qatar-pm-us-iran-mediation-significant-progress-statement-20261107"
     },
     "0c91a77c99c9": {
       "source": "Reuters/The Star",
@@ -29974,772 +30349,7 @@
         "parser_revision": 7
       },
       "curation_event_key": "trump-binance-hack-north-korea-unknown-crypto-risk-remarks-20261030"
-    },
-    "fa8f15d30928": {
-      "source": "인터풋볼/미러",
-      "title": "맨유 기다리느라 열차 7분 지연…선수는 야유, 캐릭은 환호",
-      "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=697514",
-      "first_seen_at": 1793445237,
-      "last_seen_at": 1793445237,
-      "samples": [
-        {
-          "at": 1793445237,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "fa8f15d30928",
-      "editorial": {
-        "title": "맨유 기다리느라 열차 7분 지연…선수는 야유, 캐릭은 환호",
-        "category": "축구",
-        "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697514",
-        "source": "인터풋볼/미러",
-        "kind": "article",
-        "event_key": "man-united-stockport-train-delay-player-boos-carrick-cheers-20261030",
-        "why": "경기장 밖 일반 열차에서도 선수와 감독의 대접이 갈린다는 맨유 팬의 새 놀림거리다.",
-        "angle": "열차까지 늦춘 맨유, 감독에게만 환호",
-        "why_now": "이동은 30일 영국 현지. 미러 원취재는 30일19:55UTC(31일04:55KST) AOL 전재 날짜와 대조. 한국 후속은31일13:00.",
-        "verified_at": 1793444877,
-        "published_at": 1793419210,
-        "evidence": [
-          {
-            "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697514",
-            "note": "기사 본문에서 도로 정체→스톡포트역 도착 지연→열차 약7분 대기→일부 선수 야유와 캐릭 환호를 확인했다. 열차 내부 영상이나 승객 인터뷰를 직접 본 검증은 아니다."
-          },
-          {
-            "url": "https://www.aol.co.uk/articles/man-utd-flops-booed-passengers-195548000.html",
-            "note": "미러 Nathan Ridley의 AOL 전재 본문에서30일19:55UTC 게시·스톡포트역 지연과 야유/환호 차이를 대조."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697514",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "미러 인용 보도이며 현장 영상 미시청. 지연은 약7분으로 귀속, 승객 전체의 뜻으로 일반화 금지.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-30",
-          "observation": "기사 본문에서 도로 정체→스톡포트역 도착 지연→열차 약7분 대기→일부 선수 야유와 캐릭 환호를 확인했다. 열차 내부 영상이나 승객 인터뷰를 직접 본 검증은 아니다.",
-          "checked_materials": [],
-          "outline": [
-            "버스가 정체에 갇혀 역에 늦게 도착",
-            "승객을 태운 열차가 선수단을 기다림",
-            "선수 야유와 감독 환호라는 엇갈린 반응"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697514"
-          }
-        ],
-        "excerpt": "",
-        "context": "이동은 30일 영국 현지. 미러 원취재는 30일19:55UTC(31일04:55KST) AOL 전재 날짜와 대조. 한국 후속은31일13:00.",
-        "fetched_at": 1793445237,
-        "parser_revision": 7
-      },
-      "curation_event_key": "man-united-stockport-train-delay-player-boos-carrick-cheers-20261030"
-    },
-    "70aa72114b69": {
-      "source": "쑥쑥 SsookSsook",
-      "title": "ASMR 하러 온 리즈, 두리안 한입에 “원래 맛이 이래요?”",
-      "link": "https://www.youtube.com/watch?v=xiIyXP1nDCk",
-      "first_seen_at": 1793445237,
-      "last_seen_at": 1793445237,
-      "samples": [
-        {
-          "at": 1793445237,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "official",
-      "story_id": "70aa72114b69",
-      "editorial": {
-        "title": "ASMR 하러 온 리즈, 두리안 한입에 “원래 맛이 이래요?”",
-        "category": "아이돌",
-        "url": "https://www.youtube.com/watch?v=xiIyXP1nDCk",
-        "source": "쑥쑥 SsookSsook",
-        "kind": "official",
-        "event_key": "ive-liz-yang-sechan-freeze-dried-durian-reaction-momeoktv-20261030",
-        "why": "조용한 먹방을 하던 리즈와 양세찬이 동시에 얼굴을 찡그리는 반응 자체로 웃음이 회수된다.",
-        "angle": "ASMR을 멈춰 세운 두리안 한입",
-        "why_now": "쑥쑥 원본 최초 공개30일22:00:18KST, 공식 publishDate 확인. 11:25 두리안 챕터와 커뮤니티16초 클립의 실제 연속 프레임 대조. 촬영일 미공개.",
-        "verified_at": 1793444756,
-        "published_at": 1793365218,
-        "evidence": [
-          {
-            "url": "https://www.youtube.com/watch?v=xiIyXP1nDCk",
-            "note": "공개16초 클립에서2초 간격8프레임을 직접 확인했다. 두 사람이 입을 벌리고 얼굴을 찡그린 뒤 리즈가 손으로 입을 가린다. 화면 자막의 “원래 맛이 이래요 이거? 어머” 확인. 음성 청취·전체 영상 시청은 아니다."
-          },
-          {
-            "url": "https://btcdn.etoland.co.kr/static/media/star02/2026/1031/8b625491-aeb1-4cea-b542-2f0d6bc2f9f9_424123.mp4",
-            "note": "다운로드한 실제 클립의2초 간격 연속 프레임8장으로 표정과 화면 자막 확인. 정지 썸네일 검증 아님."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://btcdn.etoland.co.kr/static/media/star02/2026/1031/8b625491-aeb1-4cea-b542-2f0d6bc2f9f9_424123.mp4",
-            "label": "직접 확인한16초 클립",
-            "kind": "video"
-          },
-          {
-            "url": "https://www.youtube.com/watch?v=xiIyXP1nDCk",
-            "label": "공식 원본11:25부터",
-            "kind": "source"
-          }
-        ],
-        "caution": "클립 연속 프레임·화면 자막 확인, 음성 미청취. 상업 이용 금지 고지 있어 원본 사용 허락 별도 필요.",
-        "readiness": {
-          "mode": "scene",
-          "event_date": "2026-10-30",
-          "observation": "공개16초 클립에서2초 간격8프레임을 직접 확인했다. 두 사람이 입을 벌리고 얼굴을 찡그린 뒤 리즈가 손으로 입을 가린다. 화면 자막의 “원래 맛이 이래요 이거? 어머” 확인. 음성 청취·전체 영상 시청은 아니다.",
-          "checked_materials": [
-            "https://btcdn.etoland.co.kr/static/media/star02/2026/1031/8b625491-aeb1-4cea-b542-2f0d6bc2f9f9_424123.mp4"
-          ],
-          "outline": [
-            "11:25 동결건조 두리안 구간으로 진입",
-            "동시에 찡그리는 두 사람의 연속 표정",
-            "리즈의 원래 맛 질문 자막으로 회수"
-          ]
-        }
-      },
-      "detail": {
-        "format": "원본 영상",
-        "media": [
-          {
-            "url": "https://btcdn.etoland.co.kr/static/media/star02/2026/1031/8b625491-aeb1-4cea-b542-2f0d6bc2f9f9_424123.mp4",
-            "label": "직접 확인한16초 클립",
-            "kind": "video"
-          }
-        ],
-        "source_links": [
-          {
-            "label": "직접 확인한16초 클립",
-            "url": "https://btcdn.etoland.co.kr/static/media/star02/2026/1031/8b625491-aeb1-4cea-b542-2f0d6bc2f9f9_424123.mp4"
-          },
-          {
-            "label": "공식 원본11:25부터",
-            "url": "https://www.youtube.com/watch?v=xiIyXP1nDCk"
-          }
-        ],
-        "excerpt": "",
-        "context": "쑥쑥 원본 최초 공개30일22:00:18KST, 공식 publishDate 확인. 11:25 두리안 챕터와 커뮤니티16초 클립의 실제 연속 프레임 대조. 촬영일 미공개.",
-        "fetched_at": 1793445237,
-        "parser_revision": 7
-      },
-      "curation_event_key": "ive-liz-yang-sechan-freeze-dried-durian-reaction-momeoktv-20261030"
-    },
-    "d87618515a17": {
-      "source": "TMC",
-      "title": "BTS “노래 못한다”던 네투, 다음 날 “잘하네…오늘 공연 간다”",
-      "link": "https://tmc.com.br/entretenimento/craque-neto-se-desculpa-com-fas-do-bts/",
-      "first_seen_at": 1793445237,
-      "last_seen_at": 1793445237,
-      "samples": [
-        {
-          "at": 1793445237,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "d87618515a17",
-      "editorial": {
-        "title": "BTS “노래 못한다”던 네투, 다음 날 “잘하네…오늘 공연 간다”",
-        "category": "축구",
-        "url": "https://tmc.com.br/entretenimento/craque-neto-se-desculpa-com-fas-do-bts/",
-        "source": "TMC",
-        "kind": "article",
-        "event_key": "craque-neto-bts-apology-concert-attendance-pledge-20261030",
-        "why": "교통 체증에 BTS를 욕하던 축구 레전드가 사과하고 직접 공연에 가겠다는 후속 반전이다.",
-        "angle": "노래 못한다더니, 이번엔 BTS 공연에 가겠다고",
-        "why_now": "사과 방송30일 브라질 현지. TMC 원취재30일18:01:44UTC=31일03:01:44KST. 전날 비판은 배경이며 새 사과와 방문 예고를 추천.",
-        "verified_at": 1793444923,
-        "published_at": 1793383304,
-        "evidence": [
-          {
-            "url": "https://tmc.com.br/entretenimento/craque-neto-se-desculpa-com-fas-do-bts/",
-            "note": "TMC 사과 보도 본문에서 BTS를 몰랐다·노래를 잘한다·용서해 달라·오늘 공연장에 가겠다는 발언을 읽었다. 앞선 비판 보도와 대조했다. 방송 클립 음성·실제 공연 참석 여부는 직접 확인하지 않았다."
-          },
-          {
-            "url": "https://tmc.com.br/entretenimento/craque-neto-critica-bts-donos-bola-xenofobia-fas/",
-            "note": "전날 비판과 흉상 철거 청원을 다룬 선행 보도 본문을 대조. 사과 전 상태로 끝내지 않음."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://tmc.com.br/entretenimento/craque-neto-se-desculpa-com-fas-do-bts/",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "공연 참석은 본인 예고이며 실제 방문 확인 아님. 한국어 인용은 포르투갈어 보도 번역. 영상 미시청.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-30",
-          "observation": "TMC 사과 보도 본문에서 BTS를 몰랐다·노래를 잘한다·용서해 달라·오늘 공연장에 가겠다는 발언을 읽었다. 앞선 비판 보도와 대조했다. 방송 클립 음성·실제 공연 참석 여부는 직접 확인하지 않았다.",
-          "checked_materials": [],
-          "outline": [
-            "교통 혼잡을 이유로 BTS를 비난한 전날 방송",
-            "몰랐는데 노래를 잘하더라는 사과",
-            "오늘 공연장에 가겠다는 본인 예고"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://tmc.com.br/entretenimento/craque-neto-se-desculpa-com-fas-do-bts/"
-          }
-        ],
-        "excerpt": "",
-        "context": "사과 방송30일 브라질 현지. TMC 원취재30일18:01:44UTC=31일03:01:44KST. 전날 비판은 배경이며 새 사과와 방문 예고를 추천.",
-        "fetched_at": 1793445237,
-        "parser_revision": 7
-      },
-      "curation_event_key": "craque-neto-bts-apology-concert-attendance-pledge-20261030"
-    },
-    "f5bbb25476dc": {
-      "source": "SPORT1",
-      "title": "세계1위까지 한 점…스매시에 고장 난 광고판, 수건 덮고 경기 재개",
-      "link": "https://www.sport1.de/news/tennis/atp/2026/10/kuriose-panne-vor-zverev-kroenung-zur-nummer-eins",
-      "first_seen_at": 1793445237,
-      "last_seen_at": 1793445237,
-      "samples": [
-        {
-          "at": 1793445237,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "f5bbb25476dc",
-      "editorial": {
-        "title": "세계1위까지 한 점…스매시에 고장 난 광고판, 수건 덮고 경기 재개",
-        "category": "메이저 스포츠",
-        "url": "https://www.sport1.de/news/tennis/atp/2026/10/kuriose-panne-vor-zverev-kroenung-zur-nummer-eins",
-        "source": "SPORT1",
-        "kind": "article",
-        "event_key": "zverev-vienna-match-point-broken-led-board-towel-fix-20261029",
-        "why": "역사적인 한 점 직전에 심판이 두드리고 상대가 발로 차다 결국 수건으로 덮는 해결이 웃음 포인트다.",
-        "angle": "세계1위까지 한 점, 광고판은 수건으로 해결",
-        "why_now": "경기29일 빈 현지(30일KST). SPORT1 원취재29일20:37:17UTC=30일05:37:17KST. 최초 공개가48시간 이내이며31일 한국 재기사 시각으로 바꾸지 않음.",
-        "verified_at": 1793444893,
-        "published_at": 1793306237,
-        "evidence": [
-          {
-            "url": "https://www.sport1.de/news/tennis/atp/2026/10/kuriose-panne-vor-zverev-kroenung-zur-nummer-eins",
-            "note": "SPORT1 본문에서 매치포인트를 만든 스매시→전자판 고장→심판의 손 두드림·그릭스푸어의 발차기→빨간 수건으로 가린 뒤 에이스로 종료를 확인했다. 대회 공식 기사로 상대·결과·차기랭킹1위 확정 대조. 동작 영상 미시청."
-          },
-          {
-            "url": "https://www.erstebank-open.com/en/news/storys/zverev-griekspoor-vienna-2026-thursday/",
-            "note": "대회 공식 본문에서29일 경기와6-4·7-5 승리 및11월2일1위 등극 예정 확인."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.sport1.de/news/tennis/atp/2026/10/kuriose-panne-vor-zverev-kroenung-zur-nummer-eins",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "기사 본문 검증이며 동작 영상 미시청. 랭킹1위는11월2일 발표 예정, 이미 공식 랭킹 변경됐다고 쓰지 않음.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-29",
-          "observation": "SPORT1 본문에서 매치포인트를 만든 스매시→전자판 고장→심판의 손 두드림·그릭스푸어의 발차기→빨간 수건으로 가린 뒤 에이스로 종료를 확인했다. 대회 공식 기사로 상대·결과·차기랭킹1위 확정 대조. 동작 영상 미시청.",
-          "checked_materials": [],
-          "outline": [
-            "1위 확정까지 단 한 점 남은 순간",
-            "고장 난 광고판을 손과 발로 고치려는 시도",
-            "수건으로 덮고 서브 에이스로 경기 종료"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.sport1.de/news/tennis/atp/2026/10/kuriose-panne-vor-zverev-kroenung-zur-nummer-eins"
-          }
-        ],
-        "excerpt": "",
-        "context": "경기29일 빈 현지(30일KST). SPORT1 원취재29일20:37:17UTC=30일05:37:17KST. 최초 공개가48시간 이내이며31일 한국 재기사 시각으로 바꾸지 않음.",
-        "fetched_at": 1793445237,
-        "parser_revision": 7
-      },
-      "curation_event_key": "zverev-vienna-match-point-broken-led-board-towel-fix-20261029"
-    },
-    "7e770e4c45b8": {
-      "source": "YTN",
-      "title": "307억 계약에 ML 조항 넣더니…노시환, 실제 포스팅 요청",
-      "link": "https://www.ytn.co.kr/_ln/0107_202610311709383822",
-      "first_seen_at": 1793445237,
-      "last_seen_at": 1793445237,
-      "samples": [
-        {
-          "at": 1793445237,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "7e770e4c45b8",
-      "editorial": {
-        "title": "307억 계약에 ML 조항 넣더니…노시환, 실제 포스팅 요청",
-        "category": "메이저 스포츠",
-        "url": "https://www.ytn.co.kr/_ln/0107_202610311709383822",
-        "source": "YTN",
-        "kind": "article",
-        "event_key": "noh-si-hwan-hanwha-307-billion-won-contract-mlb-posting-request-20261031",
-        "why": "역대 최대 계약을 맺은 타자가 계약 속 미국 진출 조항을 실제로 꺼냈다는 한국 야구 팬의 새 관심사다.",
-        "angle": "307억 계약 뒤, 실제로 꺼낸 메이저리그 조항",
-        "why_now": "KBO의 MLB 사무국 포스팅 요청 발표31일, 정확 최초 발표시각 미확인. YTN 원취재31일17:09 공개.2월 계약 체결 자체를 새 소식으로 제시하지 않음.",
-        "verified_at": 1793444535,
-        "published_at": 1793434140,
-        "evidence": [
-          {
-            "url": "https://www.ytn.co.kr/_ln/0107_202610311709383822",
-            "note": "YTN 본문에서 한화 요청에 따른 KBO 포스팅 요청·고지 다음날부터30일 협상·11년307억원 계약의ML 진출 조항을 확인했다. MLB 계약 체결이나307억원 실제 포기가 확정됐다는 보도는 아니다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.ytn.co.kr/_ln/0107_202610311709383822",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "포스팅 요청과 MLB 계약은 구분.307억원을 이미 포기했다는 단정 금지. 계약서·KBO 원문 미열람.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-31",
-          "observation": "YTN 본문에서 한화 요청에 따른 KBO 포스팅 요청·고지 다음날부터30일 협상·11년307억원 계약의ML 진출 조항을 확인했다. MLB 계약 체결이나307억원 실제 포기가 확정됐다는 보도는 아니다.",
-          "checked_materials": [],
-          "outline": [
-            "2월 맺은11년307억원 계약 속ML 조항",
-            "한화 요청에 따라 KBO가 실제 포스팅 요청",
-            "고지 후30일 협상, 성사 여부는 아직 미정"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.ytn.co.kr/_ln/0107_202610311709383822"
-          }
-        ],
-        "excerpt": "",
-        "context": "KBO의 MLB 사무국 포스팅 요청 발표31일, 정확 최초 발표시각 미확인. YTN 원취재31일17:09 공개.2월 계약 체결 자체를 새 소식으로 제시하지 않음.",
-        "fetched_at": 1793445237,
-        "parser_revision": 7
-      },
-      "curation_event_key": "noh-si-hwan-hanwha-307-billion-won-contract-mlb-posting-request-20261031"
-    },
-    "697f8e8033b0": {
-      "source": "SPOTV NEWS",
-      "title": "이기면 승격 확정인데…이정효는 관중석, 수원은 2-0을 놓쳤다",
-      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016715",
-      "first_seen_at": 1793445237,
-      "last_seen_at": 1793445237,
-      "samples": [
-        {
-          "at": 1793445237,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "697f8e8033b0",
-      "editorial": {
-        "title": "이기면 승격 확정인데…이정효는 관중석, 수원은 2-0을 놓쳤다",
-        "category": "축구",
-        "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016715",
-        "source": "SPOTV NEWS",
-        "kind": "article",
-        "event_key": "suwon-daegu-two-goal-lead-draw-promotion-delay-lee-suspended-20261031",
-        "why": "수원 팬이 기다린 승격 확정 기회에 감독은 징계로 관중석에 있고 두 골 우위까지 사라진 새 경기의 결말이다.",
-        "angle": "승격 축포 앞두고, 두 골 차가 사라졌다",
-        "why_now": "경기31일16:30KST 시작, 종료 뒤 현장 기자회견18:59:28 공개. 당일 새 경기·새 코치 발언으로 검토. 경기 영상 최초 공개 정밀시각은 미확인.",
-        "verified_at": 1793444573,
-        "published_at": 1793440768,
-        "evidence": [
-          {
-            "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016715",
-            "note": "SPOTV 현장 본문에서 이랜드 패배로 수원 승리 시 조기 승격 확정 가능·대구전2-0에서2-2·이정효 경고누적 징계·마철준 코치의 분위기에 흔들린 것은 사실이라는 답변을 확인했다. 실제 경기 영상 미시청."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016715",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "기사형 사실 카드. 승격 실패 확정이 아니라 조기 확정 기회를 놓친 것. 팬 전체 책임으로 해석 금지.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-31",
-          "observation": "SPOTV 현장 본문에서 이랜드 패배로 수원 승리 시 조기 승격 확정 가능·대구전2-0에서2-2·이정효 경고누적 징계·마철준 코치의 분위기에 흔들린 것은 사실이라는 답변을 확인했다. 실제 경기 영상 미시청.",
-          "checked_materials": [],
-          "outline": [
-            "이랜드 패배로 열린 조기 승격 확정 기회",
-            "징계 중인 감독과2골 리드의 상황",
-            "동점 허용 뒤 코치가 인정한 분위기 영향"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016715"
-          }
-        ],
-        "excerpt": "",
-        "context": "경기31일16:30KST 시작, 종료 뒤 현장 기자회견18:59:28 공개. 당일 새 경기·새 코치 발언으로 검토. 경기 영상 최초 공개 정밀시각은 미확인.",
-        "fetched_at": 1793445237,
-        "parser_revision": 7
-      },
-      "curation_event_key": "suwon-daegu-two-goal-lead-draw-promotion-delay-lee-suspended-20261031"
-    },
-    "e3300f4842a3": {
-      "source": "스타뉴스",
-      "title": "5년 연속 꼴찌가 개막9연승…서울 삼성, KBL 처음으로 1라운드 전승",
-      "link": "https://www.starnewskorea.com/sports/2026/10/31/2026103106203815637",
-      "first_seen_at": 1793445237,
-      "last_seen_at": 1793445237,
-      "samples": [
-        {
-          "at": 1793445237,
-          "views": null,
-          "reactions": null,
-          "rank": 7,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "e3300f4842a3",
-      "editorial": {
-        "title": "5년 연속 꼴찌가 개막9연승…서울 삼성, KBL 처음으로 1라운드 전승",
-        "category": "메이저 스포츠",
-        "url": "https://www.starnewskorea.com/sports/2026/10/31/2026103106203815637",
-        "source": "스타뉴스",
-        "kind": "article",
-        "event_key": "seoul-samsung-five-last-place-seasons-first-opening-nine-wins-20261030",
-        "why": "오랫동안 꼴찌 밈이던 팀이 리그 최초 기록의 주인공이 된 대비가 농구 팬에게 바로 전달된다.",
-        "angle": "5년 꼴찌가, 이번엔 리그 최초가 됐다",
-        "why_now": "기록 달성 경기30일KST 저녁. 스타뉴스31일07:11:46KST 공개(메타22:11:46UTC). 경기 종료 정밀시각·최초 기록 공지시각은 미확인.",
-        "verified_at": 1793444535,
-        "published_at": 1793398306,
-        "evidence": [
-          {
-            "url": "https://www.starnewskorea.com/sports/2026/10/31/2026103106203815637",
-            "note": "본문에서5시즌 연속 최하위·개막9연승과 첫1라운드 전승·소노전3쿼터 실책9개와 맥컬러 퇴장 뒤 역전 위기 극복을 확인했다. 김상식의 꿈만 같다는 소감도 읽었다. 경기 영상·공식 기록표 직접 열람은 아니다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.starnewskorea.com/sports/2026/10/31/2026103106203815637",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "시즌 우승 확정 아님. 경기·기록은 기사 본문 검증이며 영상 미시청. 일반 승리 소식보다 과거와 신기록 대비에 초점.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-30",
-          "observation": "본문에서5시즌 연속 최하위·개막9연승과 첫1라운드 전승·소노전3쿼터 실책9개와 맥컬러 퇴장 뒤 역전 위기 극복을 확인했다. 김상식의 꿈만 같다는 소감도 읽었다. 경기 영상·공식 기록표 직접 열람은 아니다.",
-          "checked_materials": [],
-          "outline": [
-            "5년 연속 최하위라는 팬들의 익숙한 과거",
-            "퇴장과 역전 위기를 넘긴 소노전",
-            "KBL 최초 개막9연승·1라운드 전승"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.starnewskorea.com/sports/2026/10/31/2026103106203815637"
-          }
-        ],
-        "excerpt": "",
-        "context": "기록 달성 경기30일KST 저녁. 스타뉴스31일07:11:46KST 공개(메타22:11:46UTC). 경기 종료 정밀시각·최초 기록 공지시각은 미확인.",
-        "fetched_at": 1793445237,
-        "parser_revision": 7
-      },
-      "curation_event_key": "seoul-samsung-five-last-place-seasons-first-opening-nine-wins-20261030"
-    },
-    "fe6710cf2477": {
-      "source": "엑스포츠뉴스",
-      "title": "김광규를 “얘”라 부른 유재석…돌아온 말 “너도 서진이 닮아가냐”",
-      "link": "https://www.xportsnews.com/article/2213845",
-      "first_seen_at": 1793445237,
-      "last_seen_at": 1793445237,
-      "samples": [
-        {
-          "at": 1793445237,
-          "views": null,
-          "reactions": null,
-          "rank": 8,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "fe6710cf2477",
-      "editorial": {
-        "title": "김광규를 “얘”라 부른 유재석…돌아온 말 “너도 서진이 닮아가냐”",
-        "category": "시사",
-        "url": "https://www.xportsnews.com/article/2213845",
-        "source": "엑스포츠뉴스",
-        "kind": "article",
-        "event_key": "yoo-jae-suk-kim-kwang-kyu-kid-address-lee-seo-jin-banter-20261031",
-        "why": "비서진 속 형 대접 농담이 다른 방송까지 넘어와 김광규가 이서진을 소환하는 대사로 회수된다.",
-        "angle": "일일 비서가 형을 “얘”라고 불렀다",
-        "why_now": "31일18:30 시작한 놀면 뭐하니 본방의 새 대화. 엑스포츠 원취재19:03:40 공개. 촬영일·해당 대사 방송 분초는 미공개/미확인. 예고 기사가 아닌 본방 취재.",
-        "verified_at": 1793444840,
-        "published_at": 1793441020,
-        "evidence": [
-          {
-            "url": "https://www.xportsnews.com/article/2213845",
-            "note": "본문에서 주우재가 리센느 편 눈물을 언급→유재석의 얘가 언제→김광규의 너도 서진이 닮아가냐와 멱살 농담→어려 보여서라는 수습을 확인했다. 실제 방송 구간 영상은 보지 않았다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.xportsnews.com/article/2213845",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "본문 대사로 제작하는 사실 카드. 멱살은 예능 농담 맥락, 실제 불화로 쓰지 않음. 영상 미시청.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-31",
-          "observation": "본문에서 주우재가 리센느 편 눈물을 언급→유재석의 얘가 언제→김광규의 너도 서진이 닮아가냐와 멱살 농담→어려 보여서라는 수습을 확인했다. 실제 방송 구간 영상은 보지 않았다.",
-          "checked_materials": [],
-          "outline": [
-            "비서가 돼준다는 명분으로 시작한 만남",
-            "유재석이 형을 얘라고 부른 대목",
-            "이서진 소환과 어려 보여서라는 수습"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.xportsnews.com/article/2213845"
-          }
-        ],
-        "excerpt": "",
-        "context": "31일18:30 시작한 놀면 뭐하니 본방의 새 대화. 엑스포츠 원취재19:03:40 공개. 촬영일·해당 대사 방송 분초는 미공개/미확인. 예고 기사가 아닌 본방 취재.",
-        "fetched_at": 1793445237,
-        "parser_revision": 7
-      },
-      "curation_event_key": "yoo-jae-suk-kim-kwang-kyu-kid-address-lee-seo-jin-banter-20261031"
-    },
-    "f1b3f7a98d05": {
-      "source": "SPOTV NEWS/MLB",
-      "title": "우승 퍼레이드에 학교도 휴교…밀워키 경찰 추산75만명 운집",
-      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016671",
-      "first_seen_at": 1793445237,
-      "last_seen_at": 1793445237,
-      "samples": [
-        {
-          "at": 1793445237,
-          "views": null,
-          "reactions": null,
-          "rank": 9,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "f1b3f7a98d05",
-      "editorial": {
-        "title": "우승 퍼레이드에 학교도 휴교…밀워키 경찰 추산75만명 운집",
-        "category": "메이저 스포츠",
-        "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016671",
-        "source": "SPOTV NEWS/MLB",
-        "kind": "article",
-        "event_key": "brewers-championship-parade-school-closure-750000-police-estimate-20261030",
-        "why": "우승 소식의 반복이 아니라 학교 문까지 닫고 도시가 퍼레이드에 합류한 팬 문화의 구체적인 후속이다.",
-        "angle": "야구팀 우승하자, 학교까지 쉬었다",
-        "why_now": "퍼레이드30일 미국 중부 현지(31일KST). MLB 현장 원취재30일 현지 공개, 정밀 최초 게시시각 미확인. SPOTV31일10:14 후속.29일 우승 자체와 구분.",
-        "verified_at": 1793444813,
-        "published_at": 1793409240,
-        "evidence": [
-          {
-            "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016671",
-            "note": "SPOTV 현장 인용 본문에서 공립학교 휴교·밀워키 경찰의75만명 초과 추산·선수와 팬의 축하 행사를 확인했다. MLB 학교 휴교 원문도 대조했다. 현장 영상 시청·군중 독립 계수는 하지 않았다."
-          },
-          {
-            "url": "https://www.mlb.com/news/milwaukee-public-schools-to-close-for-brewers-championship-parade",
-            "note": "MLB 본문에서 MPS가 행사 운영·안전 영향을 이유로 학교와 교육청 휴무를 발표했다고 확인."
-          },
-          {
-            "url": "https://www.mlb.com/news/brewers-2026-world-series-championship-parade",
-            "note": "MLB 원취재 본문에서 실제30일 현지 퍼레이드·학교 휴교·경찰75만명 초과 추산을 추가 대조. 영상 미시청."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016671",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "75만명은 경찰 추산, 독립 집계 아님. 우승 경기와 별개인 새 퍼레이드. 사진·영상 직접 검증 아님.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-30",
-          "observation": "SPOTV와 MLB 원취재 본문을 직접 읽어 실제30일 현지 퍼레이드·공립학교 휴교·경찰의75만명 초과 추산을 대조했다. MLB의 선행 휴교 안내에서는 운영·안전상의 이유도 확인했다. 현장 영상 시청·군중 독립 계수는 하지 않았다.",
-          "checked_materials": [],
-          "outline": [
-            "첫 월드시리즈 우승 뒤 예정된 퍼레이드",
-            "행사 운영·안전을 이유로 공립학교 휴교",
-            "경찰 추산75만명 이상이 모인 축하 행사"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016671"
-          }
-        ],
-        "excerpt": "",
-        "context": "퍼레이드30일 미국 중부 현지(31일KST). MLB 현장 원취재30일 현지 공개, 정밀 최초 게시시각 미확인. SPOTV31일10:14 후속.29일 우승 자체와 구분.",
-        "fetched_at": 1793445237,
-        "parser_revision": 7
-      },
-      "curation_event_key": "brewers-championship-parade-school-closure-750000-police-estimate-20261030"
-    },
-    "1e1d94b3868c": {
-      "source": "스포츠투데이",
-      "title": "인간극장에서 빌었던 소원…엔믹스, “뮤뱅1위 정말 이뤄졌다”",
-      "link": "https://stoo.com/article.php?aid=109632940072",
-      "first_seen_at": 1793445237,
-      "last_seen_at": 1793445237,
-      "samples": [
-        {
-          "at": 1793445237,
-          "views": null,
-          "reactions": null,
-          "rank": 10,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "1e1d94b3868c",
-      "editorial": {
-        "title": "인간극장에서 빌었던 소원…엔믹스, “뮤뱅1위 정말 이뤄졌다”",
-        "category": "아이돌",
-        "url": "https://stoo.com/article.php?aid=109632940072",
-        "source": "스포츠투데이",
-        "kind": "article",
-        "event_key": "nmixx-haewon-birthday-wish-music-bank-win-human-theater-wish-payoff-20261030",
-        "why": "긴 소원이라는 노래로 1위를 한 뒤 자컨에서 빌었던 소원을 직접 회수한 해원의 대사가 팬에게 작지만 완결된 이야기다.",
-        "angle": "긴 소원 부르더니, 빌었던 소원이 이뤄졌다",
-        "why_now": "새 수상 소감30일 뮤직뱅크 본방. 최초 확인 기사30일18:45, 스포츠투데이19:02. 자컨 소원 장면의 예전 날짜를 신규 공개로 바꾸지 않고 이번 수상 대사를 추천.",
-        "verified_at": 1793444804,
-        "published_at": 1793354520,
-        "evidence": [
-          {
-            "url": "https://stoo.com/article.php?aid=109632940072",
-            "note": "스포츠투데이 본문에서 해원이 아이돌 인간극장에서 뮤직뱅크1위 소원을 빌었는데 이뤄졌다고 말하고 함께 소원 빌어준 앤써에게 감사했다고 확인했다. 수상은7775점. 자컨·앙코르 영상 직접 시청은 아니다."
-          },
-          {
-            "url": "https://www.topstarnews.net/news/articleView.html?idxno=16264039",
-            "note": "30일18:45 본방 취재로1위 결과와 해원의 소원 발언 독립 대조."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://stoo.com/article.php?aid=109632940072",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "수상 소감 기사 본문 확인, 자컨·앙코르 영상 미시청. 과거 소원 장면을 이번 새 장면처럼 사용하지 않음.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-30",
-          "observation": "스포츠투데이 본문에서 해원이 아이돌 인간극장에서 뮤직뱅크1위 소원을 빌었는데 이뤄졌다고 말하고 함께 소원 빌어준 앤써에게 감사했다고 확인했다. 수상은7775점. 자컨·앙코르 영상 직접 시청은 아니다.",
-          "checked_materials": [],
-          "outline": [
-            "이전 자컨에서 빌었던 뮤직뱅크1위 소원",
-            "긴 소원으로 실제1위를 받은 이번 방송",
-            "해원이 자컨 소원을 다시 꺼낸 감사 대사"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://stoo.com/article.php?aid=109632940072"
-          }
-        ],
-        "excerpt": "",
-        "context": "새 수상 소감30일 뮤직뱅크 본방. 최초 확인 기사30일18:45, 스포츠투데이19:02. 자컨 소원 장면의 예전 날짜를 신규 공개로 바꾸지 않고 이번 수상 대사를 추천.",
-        "fetched_at": 1793445237,
-        "parser_revision": 7
-      },
-      "curation_event_key": "nmixx-haewon-birthday-wish-music-bank-win-human-theater-wish-payoff-20261030"
     }
   },
-  "updated_at": 1794049657
+  "updated_at": 1794053388
 }
