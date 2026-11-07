@@ -1,271 +1,265 @@
 {
   "version": 2,
-  "hour_utc": "2026110714",
+  "hour_utc": "2026110723",
   "reviewer": "ChatGPT",
-  "generated_at": 1794060074,
+  "generated_at": 1794092734,
   "coverage": {
     "queries": [
-      "November 7 2026 football major news suspension manager injury confirmed",
-      "November 7 2026 sports breaking world news Saturday NBA tennis football",
-      "2026년 11월 7일 스포츠 주요 뉴스 우승 징계 감독",
-      "November 7 2026 world news Reuters latest Saturday",
-      "November 7 2026 Kompany surgery Aaron Danks Bayern absence",
-      "November 7 2026 rugby league World Cup New Zealand final hat trick",
-      "November 7 2026 Reuters Indonesia police wiretapped Prabowo",
-      "November 6 2026 November 7 2026 sports doping suspension ban official",
-      "November 7 2026 F1 major news Brazil qualifying penalty",
-      "November 7 2026 Reuters sports FIFA ban World Cup court",
-      "Belarus IIHF November 7 2026",
-      "Indonesia fourth wiretapping November 6 2026",
-      "국립암센터 217 2026 11",
-      "November 7 2026 North Korea U17 women World Cup third place result",
-      "November 7 2026 Health Canada peptides bacteria",
-      "site.recalls-rappels.canada.ca 2026-11 peptides",
-      "site.iihf.com 2026 Belarus November excluded 2027",
-      "November 6 2026 November 7 2026 Haas Ocon parted ways Camara official"
+      "November 7 2026 Arsenal Hull Tottenham Leeds Manchester City Nottingham Forest results",
+      "November 7 2026 tennis Paris Masters semi final Alcaraz Sinner result",
+      "November 7 2026 Reuters world latest major news",
+      "site.mancity.com Nottingham Forest 3 1 November 7 2026 report",
+      "site.atptour.com Alcaraz Ruud Paris 2026 semi final November 7",
+      "November 7 2026 Yemen Saudi airstrikes 27 36 Reuters",
+      "November 7 2026 US disables commercial vessel blockade CENTCOM",
+      "November 7 2026 Japan Nigeria U17 women World Cup final champion result",
+      "November 7 2026 Leeds Tottenham defeat Thomas Frank pressure",
+      "November 7 2026 WTA Finals Sabalenka Swiatek semi final",
+      "site.centcom.mil November 7 2026 Huda disable cargo vessel",
+      "site.fifa.com 2026 DPR Korea 6-0 Brazil November 7",
+      "centcom.mil Huda November 7 2026"
     ],
     "opened_urls": [
-      "https://www.nrl.com/news/2026/11/07/kiwis-bluster-past-tonga-to-set-up-world-cup-final-spot/",
-      "https://www.iihf.com/en/news/76810/iihf_statement_on_belarus_and_russia",
-      "https://recalls-rappels.canada.ca/en/alert-recall/health-canada-warns-about-contaminated-unauthorized-injectable-peptides-and-non",
-      "https://www.aol.com/articles/indonesia-names-fourth-senior-police-043430000.html",
-      "https://www.internazionale.it/ultime-notizie-reuters/2026/11/07/qatar-says-its-mediation-efforts-between-us-and-iran-continue-to-prevent-escalation",
-      "https://aapnews.aap.com.au/news/hat-trick-hero-helps-kiwis-secure-world-cup-final-spot"
+      "https://www.mancity.com/news/mens/nottingham-forest-manchester-city-match-report-premier-league-63929666",
+      "https://www.cafonline.com/womens-football/news/fifa-u-17-women-s-world-cup-africa-on-top-of-the-world-as-nigeria-wins-the-title-for-the-first-time/",
+      "https://www.rolexparismasters.com/en/news/article/semi-finals-carlos-alcaraz-victory-casper-ruud-first-paris",
+      "https://www.stripes.com/theaters/middle_east/2026-11-07/centcom-strikes-commercial-cargo-vessel-23394462.html",
+      "https://www.investing.com/news/world-news/houthirun-health-ministry-says-airstrikes-it-blames-on-saudi-arabia-kill-27-near-yemen-capital-5010011",
+      "https://punchng.com/dpr-korea-thrash-brazil-6-0-to-claim-u-17-womens-world-cup-bronze/"
     ],
     "unavailable": [
-      "Reuters 직접 본문401: 접근 가능한 Reuters 정식 전재와 IIHF 원문으로 확인",
-      "수집 부분 실패: 펨코 직접·국내외축구·네이버 스포츠 영상",
-      "국립암센터217명 소식은10/20 자료로 확인해48시간 초과 제외",
-      "U17 여자월드컵3위전은 경기 전 자료·과거 결과 혼재로 제외",
-      "오콘 교체는11/3 원 발표로48시간 초과 제외"
+      "FIFA 경기 원문403: CAF 공식 본문으로 검증",
+      "CENTCOM 발표 원문403: 실제 발표를 인용한 Stars and Stripes 본문으로 전환",
+      "일부 웹 열람 실패: 동일 공개 URL의 접근 가능한 본문을 Python으로 확인",
+      "펨코 직접·네이버 스포츠 영상 수집 부분 실패"
     ]
   },
   "picks": [
     {
-      "title": "뉴질랜드, 통가 꺾고 13년 만에 럭비리그 월드컵 결승 진출",
-      "category": "메이저 스포츠",
-      "url": "https://www.nrl.com/news/2026/11/07/kiwis-bluster-past-tonga-to-set-up-world-cup-final-spot/",
-      "source": "NRL 공식",
+      "title": "개막 7연승 뒤 3연패…맨시티, 노팅엄에 1대3 패하며 선두와 6점 차",
+      "category": "축구",
+      "url": "https://www.mancity.com/news/mens/nottingham-forest-manchester-city-match-report-premier-league-63929666",
+      "source": "맨체스터 시티 공식",
       "kind": "official",
-      "event_key": "new-zealand-tonga-men-rugby-league-world-cup-final-berth-20261107",
-      "why": "세계 최강을 가리는 럭비리그 월드컵에서 뉴질랜드가 2013년 이후 처음 결승에 올랐다.",
-      "angle": "럭비 유니언과 다른 럭비리그 월드컵, 13년 만에 돌아온 뉴질랜드",
-      "why_now": "11/7 뉴캐슬 준결승. 공식 보도 최초11/7 11:07:43UTC·수정11:17:51UTC를 구분했다.",
-      "verified_at": 1794060074,
-      "published_at": 1794049663,
+      "event_key": "manchester-city-forest-third-consecutive-league-loss-six-points-gap-20261107",
+      "why": "우승 경쟁팀이 개막7연승 뒤3연패에 빠지며 아스널과 격차가6점으로 벌어졌다. 단순 한 경기 패배를 넘어선 판도 변화다.",
+      "angle": "7연승에서3연패로 꺾인 맨시티, 선두 추격에 켜진 경고등",
+      "why_now": "11/7 경기·구단 보고19:30영국시각(UTC). 이전 패배나 프리뷰가 아닌 이번3연패 확정 결과다.",
+      "verified_at": 1794092616,
+      "published_at": 1794079800,
       "evidence": [
         {
-          "url": "https://www.nrl.com/news/2026/11/07/kiwis-bluster-past-tonga-to-set-up-world-cup-final-spot/",
-          "note": "NRL 경기 보고 본문에서 뉴질랜드의 통가전34대10 승리와2013년 이후 첫 결승 진출을 확인했다. 전반12대10에서 후반 격차를 벌렸다."
+          "url": "https://www.mancity.com/news/mens/nottingham-forest-manchester-city-match-report-premier-league-63929666",
+          "note": "구단 본문에서 노팅엄 원정1대3 패배, 리그3연패와 선두 아스널과6점 차를 확인했다. 델랍이2골, 셰르키가1골을 넣었다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.nrl.com/news/2026/11/07/kiwis-bluster-past-tonga-to-set-up-world-cup-final-spot/",
-          "label": "공식 발표 본문",
+          "url": "https://www.mancity.com/news/mens/nottingham-forest-manchester-city-match-report-premier-league-63929666",
+          "label": "확인한 공식 경기 보고",
           "kind": "source"
         }
       ],
-      "caution": "럭비 유니언 월드컵과 혼동하지 않는다. 결승 상대·우승은 아직 확정됐다고 쓰지 않는다. 경기 영상은 시청하지 않았다.",
+      "caution": "경기 영상을 시청하지 않았다. 감독 경질·우승 경쟁 종료를 단정하지 않는다. 이후 다른 팀 경기로 순위가 바뀔 수 있다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-07",
-        "observation": "NRL 경기 보고 본문에서 뉴질랜드의 통가전34대10 승리와2013년 이후 첫 결승 진출을 확인했다. 전반12대10에서 후반 격차를 벌렸다.",
+        "observation": "구단 본문에서 노팅엄 원정1대3 패배, 리그3연패와 선두 아스널과6점 차를 확인했다. 델랍이2골, 셰르키가1골을 넣었다.",
         "checked_materials": [],
         "outline": [
-          "럭비 유니언과 다른 럭비리그 월드컵, 13년 만에 돌아온 뉴질랜드",
-          "세계 최강을 가리는 럭비리그 월드컵에서 뉴질랜드가 2013년 이후 처음 결승에 올랐다.",
-          "럭비 유니언 월드컵과 혼동하지 않는다. 결승 상대·우승은 아직 확정됐다고 쓰지 않는다. 경기 영상은 시청하지 않았다."
+          "7연승에서3연패로 꺾인 맨시티, 선두 추격에 켜진 경고등",
+          "우승 경쟁팀이 개막7연승 뒤3연패에 빠지며 아스널과 격차가6점으로 벌어졌다. 단순 한 경기 패배를 넘어선 판도 변화다.",
+          "경기 영상을 시청하지 않았다. 감독 경질·우승 경쟁 종료를 단정하지 않는다. 이후 다른 팀 경기로 순위가 바뀔 수 있다."
         ]
       }
     },
     {
-      "title": "러시아 복귀 검토와 별개…IIHF, 벨라루스의 2027 세계선수권 불참 확정",
-      "category": "메이저 스포츠",
-      "url": "https://www.iihf.com/en/news/76810/iihf_statement_on_belarus_and_russia",
-      "source": "국제아이스하키연맹 IIHF",
+      "title": "아프리카 첫 우승…나이지리아, 일본 꺾고 U-17 여자월드컵 정상",
+      "category": "축구",
+      "url": "https://www.cafonline.com/womens-football/news/fifa-u-17-women-s-world-cup-africa-on-top-of-the-world-as-nigeria-wins-the-title-for-the-first-time/",
+      "source": "아프리카축구연맹 CAF",
       "kind": "official",
-      "event_key": "iihf-belarus-appeal-review-2027-senior-u20-exclusion-confirmed-20261107",
-      "why": "전쟁 이후 국제 스포츠 복귀 논쟁에서 항소 검토 뒤에도 성인·U20 세계선수권 출전이 막혔다.",
-      "angle": "캐나다 입국 거부와는 별도인 국제연맹의 항소 후 출전 결정",
-      "why_now": "11/7 IIHF 새 성명(일 단위 공개 확인). 7월 결정에 대한 항소 심리 후 두 대회 불참을 확정했다.",
-      "verified_at": 1794060074,
+      "event_key": "nigeria-japan-u17-womens-world-cup-first-african-title-20261107",
+      "why": "나이지리아가 이 대회 최초의 아프리카 우승국이 됐다. 여자 유소년 축구의 세계 챔피언 지도가 바뀐 역사적 결과다.",
+      "angle": "첫 결승 진출에서 끝나지 않았다, 아프리카 최초의 대회 우승",
+      "why_now": "11/7 모로코 결승·CAF 당일 원문 공개. 최초 게시 시각은 일 단위만 확인했으며 수집 시각으로 대체하지 않았다.",
+      "verified_at": 1794092617,
       "published_at": null,
       "evidence": [
         {
-          "url": "https://www.iihf.com/en/news/76810/iihf_statement_on_belarus_and_russia",
-          "note": "IIHF 원문에서 징계위원회가 즉시 복귀를 명령할 법적 근거가 없다고 판단한 뒤, 이사회가2027 남자·U20 세계선수권 불참을 결정했음을 확인했다."
+          "url": "https://www.cafonline.com/womens-football/news/fifa-u-17-women-s-world-cup-africa-on-top-of-the-world-as-nigeria-wins-the-title-for-the-first-time/",
+          "note": "CAF 공식 본문에서 일본전2대1 승리와 나이지리아·아프리카 최초의 해당 대회 우승을 확인했다. 바시루와 우메지아쿠가 득점했다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.iihf.com/en/news/76810/iihf_statement_on_belarus_and_russia",
-          "label": "공식 발표 본문",
+          "url": "https://www.cafonline.com/womens-football/news/fifa-u-17-women-s-world-cup-africa-on-top-of-the-world-as-nigeria-wins-the-title-for-the-first-time/",
+          "label": "확인한 공식 경기 보고",
           "kind": "source"
         }
       ],
-      "caution": "러시아 복귀 확정이나 벨라루스 모든 종목 영구 제명으로 쓰지 않는다. 두 대회와 이번 항소 후 결정을 한정한다.",
+      "caution": "성인 여자월드컵이나 모든 여자축구 대회 최초 우승으로 범위를 넓히지 않는다. 경기 영상은 시청하지 않았다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-07",
-        "observation": "IIHF 원문에서 징계위원회가 즉시 복귀를 명령할 법적 근거가 없다고 판단한 뒤, 이사회가2027 남자·U20 세계선수권 불참을 결정했음을 확인했다.",
+        "observation": "CAF 공식 본문에서 일본전2대1 승리와 나이지리아·아프리카 최초의 해당 대회 우승을 확인했다. 바시루와 우메지아쿠가 득점했다.",
         "checked_materials": [],
         "outline": [
-          "캐나다 입국 거부와는 별도인 국제연맹의 항소 후 출전 결정",
-          "전쟁 이후 국제 스포츠 복귀 논쟁에서 항소 검토 뒤에도 성인·U20 세계선수권 출전이 막혔다.",
-          "러시아 복귀 확정이나 벨라루스 모든 종목 영구 제명으로 쓰지 않는다. 두 대회와 이번 항소 후 결정을 한정한다."
+          "첫 결승 진출에서 끝나지 않았다, 아프리카 최초의 대회 우승",
+          "나이지리아가 이 대회 최초의 아프리카 우승국이 됐다. 여자 유소년 축구의 세계 챔피언 지도가 바뀐 역사적 결과다.",
+          "성인 여자월드컵이나 모든 여자축구 대회 최초 우승으로 범위를 넓히지 않는다. 경기 영상은 시청하지 않았다."
         ]
       }
     },
     {
-      "title": "다이어트·근육 주사로 팔린 미허가 제품서 세균…캐나다, 1만1,400병 넘게 압수",
-      "category": "시사",
-      "url": "https://recalls-rappels.canada.ca/en/alert-recall/health-canada-warns-about-contaminated-unauthorized-injectable-peptides-and-non",
-      "source": "캐나다 보건부",
-      "kind": "official",
-      "event_key": "health-canada-erp-unauthorized-injectable-peptides-bacteria-11400-vials-20261106",
-      "why": "온라인 체중감량·근육증가 주사 시장의 안전 문제가 실제 세균 검출과 대규모 압수·유통 차단으로 이어졌다.",
-      "angle": "정식 처방약과 다른 미허가 온라인 주사 제품의 세균 오염 경고",
-      "why_now": "보건부 경고 최초 공개11/6(일 단위). 검사·압수의 개별 실시일은 원문에 없으며11/7 재기사를 최초로 쓰지 않는다.",
-      "verified_at": 1794060074,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://recalls-rappels.canada.ca/en/alert-recall/health-canada-warns-about-contaminated-unauthorized-injectable-peptides-and-non",
-          "note": "보건부RA-82930에서 ERP Peptide 공급 제품 일부의 세균 검출과 공급사·판매점 합산11,400병 초과 압수를 확인했다. 캐나다 판매점2곳 사이트는 비활성화됐다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://recalls-rappels.canada.ca/en/alert-recall/health-canada-warns-about-contaminated-unauthorized-injectable-peptides-and-non",
-          "label": "공식 발표 본문",
-          "kind": "source"
-        }
-      ],
-      "caution": "모든 압수 병의 오염이나 실제 사망자가 확인됐다고 쓰지 않는다. 정식 허가 처방약 전체가 오염됐다는 의미가 아니다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-06",
-        "observation": "보건부RA-82930에서 ERP Peptide 공급 제품 일부의 세균 검출과 공급사·판매점 합산11,400병 초과 압수를 확인했다. 캐나다 판매점2곳 사이트는 비활성화됐다.",
-        "checked_materials": [],
-        "outline": [
-          "정식 처방약과 다른 미허가 온라인 주사 제품의 세균 오염 경고",
-          "온라인 체중감량·근육증가 주사 시장의 안전 문제가 실제 세균 검출과 대규모 압수·유통 차단으로 이어졌다.",
-          "모든 압수 병의 오염이나 실제 사망자가 확인됐다고 쓰지 않는다. 정식 허가 처방약 전체가 오염됐다는 의미가 아니다."
-        ]
-      }
-    },
-    {
-      "title": "대통령 도청 의혹, 네 번째 경찰 고위직까지…인도네시아 수사 확대",
-      "category": "시사",
-      "url": "https://www.aol.com/articles/indonesia-names-fourth-senior-police-043430000.html",
-      "source": "Reuters·AOL",
-      "kind": "article",
-      "event_key": "indonesia-prabowo-wiretapping-fourth-senior-officer-suspect-20261105",
-      "why": "대통령 통신 도청 의혹 수사가 승인·기록 삭제 지휘선으로 확대되며 국가 권력기관의 신뢰를 흔들고 있다.",
-      "angle": "비서실장 해임 이후 새로 드러난 도청 승인 의혹과 네 번째 피의자",
-      "why_now": "새 피의자 발표는11/5 늦은 기자회견. 확인한 Reuters 최초11/6 04:34UTC이며 발표 시각은 분 단위 미확인이다.",
-      "verified_at": 1794060074,
-      "published_at": 1793939670,
-      "evidence": [
-        {
-          "url": "https://www.aol.com/articles/indonesia-names-fourth-senior-police-043430000.html",
-          "note": "Reuters 본문에서 경찰이SU를 네 번째 피의자로 지목하고 도청·기록 삭제 승인 혐의를 설명했음을 확인했다. 건강 문제로 아직 구금하지 않았다고 보도했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.aol.com/articles/indonesia-names-fourth-senior-police-043430000.html",
-          "label": "확인한 원문 본문",
-          "kind": "source"
-        }
-      ],
-      "caution": "수사기관의 혐의이며 유죄 확정이 아니다. 전임 대통령의 지시·공모가 입증됐다고 단정하지 않는다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-05",
-        "observation": "Reuters 본문에서 경찰이SU를 네 번째 피의자로 지목하고 도청·기록 삭제 승인 혐의를 설명했음을 확인했다. 건강 문제로 아직 구금하지 않았다고 보도했다.",
-        "checked_materials": [],
-        "outline": [
-          "비서실장 해임 이후 새로 드러난 도청 승인 의혹과 네 번째 피의자",
-          "대통령 통신 도청 의혹 수사가 승인·기록 삭제 지휘선으로 확대되며 국가 권력기관의 신뢰를 흔들고 있다.",
-          "수사기관의 혐의이며 유죄 확정이 아니다. 전임 대통령의 지시·공모가 입증됐다고 단정하지 않는다."
-        ]
-      }
-    },
-    {
-      "title": "카타르 총리 “미·이란 중재 상당한 진전”…종전 합의는 아직",
-      "category": "시사",
-      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/07/qatar-says-its-mediation-efforts-between-us-and-iran-continue-to-prevent-escalation",
-      "source": "Reuters·Internazionale",
-      "kind": "article",
-      "event_key": "qatar-pm-us-iran-mediation-significant-progress-20261107",
-      "why": "전쟁과 호르무즈 항로가 걸린 협상에서 중재국 정상이 진전을 밝혔다. 실제 합의 여부와 나눠 봐야 할 주요 외교 후속이다.",
-      "angle": "중간선거 뒤에도 미국의 합의 의지가 유지된다는 중재국의 새 평가",
-      "why_now": "11/7 알자지라 인터뷰를 Reuters가 보도. 확인한 전재 최초04:23:35UTC·수정04:33:22UTC. 원 인터뷰 최초 시각은 미확인이다.",
-      "verified_at": 1794060074,
-      "published_at": 1794025415,
-      "evidence": [
-        {
-          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/07/qatar-says-its-mediation-efforts-between-us-and-iran-continue-to-prevent-escalation",
-          "note": "Reuters 영어 본문에서 총리가 미국의 합의 의지 유지와 상당한 진전을 말했다고 확인했다. 체결 발표가 없으며 중재국의 평가라는 점을 구분했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/07/qatar-says-its-mediation-efforts-between-us-and-iran-continue-to-prevent-escalation",
-          "label": "확인한 원문 본문",
-          "kind": "source"
-        }
-      ],
-      "caution": "양측 공동 합의·종전 확정이 아니다. 같은 날 공격 사건을 새 소재로 다시 보내지 않고 이번 중재 발언만 다룬다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-07",
-        "observation": "Reuters 영어 본문에서 총리가 미국의 합의 의지 유지와 상당한 진전을 말했다고 확인했다. 체결 발표가 없으며 중재국의 평가라는 점을 구분했다.",
-        "checked_materials": [],
-        "outline": [
-          "중간선거 뒤에도 미국의 합의 의지가 유지된다는 중재국의 새 평가",
-          "전쟁과 호르무즈 항로가 걸린 협상에서 중재국 정상이 진전을 밝혔다. 실제 합의 여부와 나눠 봐야 할 주요 외교 후속이다.",
-          "양측 공동 합의·종전 확정이 아니다. 같은 날 공격 사건을 새 소재로 다시 보내지 않고 이번 중재 발언만 다룬다."
-        ]
-      }
-    },
-    {
-      "title": "뉴질랜드 여자팀도 결승행…럭비리그 월드컵 준결승서 사모아에 32대0",
+      "title": "알카라스, 첫 파리 마스터스 결승…US오픈서 졌던 셸턴과 재대결",
       "category": "메이저 스포츠",
-      "url": "https://aapnews.aap.com.au/news/hat-trick-hero-helps-kiwis-secure-world-cup-final-spot",
-      "source": "AAP",
-      "kind": "article",
-      "event_key": "new-zealand-samoa-women-rugby-league-world-cup-final-berth-20261107",
-      "why": "세계선수권 우승을 가리는 여자 럭비리그 월드컵에서 결승 한 자리가 확정됐다.",
-      "angle": "전 대회 결승 대패 뒤 다시 우승에 도전하는 뉴질랜드 여자팀",
-      "why_now": "11/7 뉴캐슬 준결승. AAP 당일 본문 확인이며 최초 공개의 분 단위 시각은 확인하지 못했다.",
-      "verified_at": 1794060074,
+      "url": "https://www.rolexparismasters.com/en/news/article/semi-finals-carlos-alcaraz-victory-casper-ruud-first-paris",
+      "source": "파리 마스터스 공식",
+      "kind": "official",
+      "event_key": "alcaraz-ruud-first-paris-masters-final-shelton-rematch-20261107",
+      "why": "시즌 마지막 마스터스1000 결승 대진이 확정됐다. 알카라스의 첫 파리 결승과 US오픈 패배 뒤 재대결이 겹쳤다.",
+      "angle": "프리츠전 생존 다음 날, 루드를 넘고 처음 밟은 파리 결승",
+      "why_now": "11/7 준결승·대회 당일 보고(일 단위 공개 확인). 전날8강 역전승과 별도인 결승 진출·대진 확정이다.",
+      "verified_at": 1794092617,
       "published_at": null,
       "evidence": [
         {
-          "url": "https://aapnews.aap.com.au/news/hat-trick-hero-helps-kiwis-secure-world-cup-final-spot",
-          "note": "AAP 본문에서 뉴질랜드가 사모아를32대0으로 꺾고 결승에 진출했음을 확인했다. 와카는3트라이를 기록했고 결승 상대는 호주·피지전 승자다."
+          "url": "https://www.rolexparismasters.com/en/news/article/semi-finals-carlos-alcaraz-victory-casper-ruud-first-paris",
+          "note": "대회 원문에서 루드전6대4·6대4,86분 승리와 첫 파리 결승 진출을 확인했다. 결승 상대 셸턴 및 US오픈에서 패했던 전력도 본문에 명시됐다."
         }
       ],
       "materials": [
         {
-          "url": "https://aapnews.aap.com.au/news/hat-trick-hero-helps-kiwis-secure-world-cup-final-spot",
-          "label": "확인한 원문 본문",
+          "url": "https://www.rolexparismasters.com/en/news/article/semi-finals-carlos-alcaraz-victory-casper-ruud-first-paris",
+          "label": "확인한 공식 경기 보고",
           "kind": "source"
         }
       ],
-      "caution": "남자 준결승과 다른 팀·대회다. 결승 상대·우승을 미리 확정하지 않는다. 영상을 직접 시청하지 않았다.",
+      "caution": "결승 우승이나 복수 성공이 확정된 것은 아니다. 전날 프리츠전 내용을 새 소재로 반복하지 않는다. 영상을 보지 않았다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-07",
-        "observation": "AAP 본문에서 뉴질랜드가 사모아를32대0으로 꺾고 결승에 진출했음을 확인했다. 와카는3트라이를 기록했고 결승 상대는 호주·피지전 승자다.",
+        "observation": "대회 원문에서 루드전6대4·6대4,86분 승리와 첫 파리 결승 진출을 확인했다. 결승 상대 셸턴 및 US오픈에서 패했던 전력도 본문에 명시됐다.",
         "checked_materials": [],
         "outline": [
-          "전 대회 결승 대패 뒤 다시 우승에 도전하는 뉴질랜드 여자팀",
-          "세계선수권 우승을 가리는 여자 럭비리그 월드컵에서 결승 한 자리가 확정됐다.",
-          "남자 준결승과 다른 팀·대회다. 결승 상대·우승을 미리 확정하지 않는다. 영상을 직접 시청하지 않았다."
+          "프리츠전 생존 다음 날, 루드를 넘고 처음 밟은 파리 결승",
+          "시즌 마지막 마스터스1000 결승 대진이 확정됐다. 알카라스의 첫 파리 결승과 US오픈 패배 뒤 재대결이 겹쳤다.",
+          "결승 우승이나 복수 성공이 확정된 것은 아니다. 전날 프리츠전 내용을 새 소재로 반복하지 않는다. 영상을 보지 않았다."
+        ]
+      }
+    },
+    {
+      "title": "미군 “오만만 화물선 선미 타격해 운항 불능”…이란 해상봉쇄 강제 집행",
+      "category": "시사",
+      "url": "https://www.stripes.com/theaters/middle_east/2026-11-07/centcom-strikes-commercial-cargo-vessel-23394462.html",
+      "source": "Stars and Stripes·CENTCOM 발표",
+      "kind": "article",
+      "event_key": "centcom-huda-cargo-vessel-disabled-gulf-of-oman-20261107",
+      "why": "이란 해상봉쇄가 민간 화물선에 대한 무력 사용으로 이어졌다. 국제 상선 통항과 중동 확전 위험에 직결된 새 사건이다.",
+      "angle": "봉쇄를 어겼다는 미군 주장과 실제 선미 타격 발표를 구분",
+      "why_now": "11/7 CENTCOM 발표·확인 기사 최초22:30:34UTC. 원 군 발표 최초 시각은 확인하지 못해 기사 시각과 분리했다.",
+      "verified_at": 1794092616,
+      "published_at": 1794090634,
+      "evidence": [
+        {
+          "url": "https://www.stripes.com/theaters/middle_east/2026-11-07/centcom-strikes-commercial-cargo-vessel-23394462.html",
+          "note": "본문에서 미군이 세인트키츠 선적M/V Huda의 선미를 타격해 운항 불능으로 만들었다고 발표했음을 확인했다. 표적 구역에서 승무원을 대피시키도록 지시했다고 밝혔다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.stripes.com/theaters/middle_east/2026-11-07/centcom-strikes-commercial-cargo-vessel-23394462.html",
+          "label": "확인한 기사 본문",
+          "kind": "source"
+        }
+      ],
+      "caution": "봉쇄 위반·사전 경고·피해는 CENTCOM 설명이다. 독립적인 선박 측 확인·사상자 정보는 없으며 영상은 시청하지 않았다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-07",
+        "observation": "본문에서 미군이 세인트키츠 선적M/V Huda의 선미를 타격해 운항 불능으로 만들었다고 발표했음을 확인했다. 표적 구역에서 승무원을 대피시키도록 지시했다고 밝혔다.",
+        "checked_materials": [],
+        "outline": [
+          "봉쇄를 어겼다는 미군 주장과 실제 선미 타격 발표를 구분",
+          "이란 해상봉쇄가 민간 화물선에 대한 무력 사용으로 이어졌다. 국제 상선 통항과 중동 확전 위험에 직결된 새 사건이다.",
+          "봉쇄 위반·사전 경고·피해는 CENTCOM 설명이다. 독립적인 선박 측 확인·사상자 정보는 없으며 영상은 시청하지 않았다."
+        ]
+      }
+    },
+    {
+      "title": "후티 측 “예멘 마을 공습에 33명 사망”…사우디는 조사 중",
+      "category": "시사",
+      "url": "https://www.investing.com/news/world-news/houthirun-health-ministry-says-airstrikes-it-blames-on-saudi-arabia-kill-27-near-yemen-capital-5010011",
+      "source": "Reuters·Investing.com",
+      "kind": "article",
+      "event_key": "yemen-bani-hushaysh-airstrikes-houthi-33-deaths-20261107",
+      "why": "주택과 구조대 피해를 포함한 대규모 사상자 주장이 나왔다. 재개된 사우디·후티 전쟁의 민간 피해가 커진 사건이다.",
+      "angle": "대규모 인명 피해 주장과 아직 확인되지 않은 공격 주체",
+      "why_now": "11/7 공격·Reuters 전재 최초19:13:23UTC, 수정22:54:37UTC. 초기27명에서 최신 본문33명으로 바뀐 집계를 구분했다.",
+      "verified_at": 1794092616,
+      "published_at": 1794078803,
+      "evidence": [
+        {
+          "url": "https://www.investing.com/news/world-news/houthirun-health-ministry-says-airstrikes-it-blames-on-saudi-arabia-kill-27-near-yemen-capital-5010011",
+          "note": "최신 Reuters 본문에서 후티 측 보건당국의 사망33·부상39명 주장과 바니후샤이시 주택 피격 보고를 확인했다. 사우디는 조사 중이며 Reuters는 독립 검증하지 못했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.investing.com/news/world-news/houthirun-health-ministry-says-airstrikes-it-blames-on-saudi-arabia-kill-27-near-yemen-capital-5010011",
+          "label": "확인한 기사 본문",
+          "kind": "source"
+        }
+      ],
+      "caution": "사상자 수와 사우디 공격 여부는 후티 측 주장이다. 사우디가 공격을 인정하거나 피해 수가 독립 확정된 것처럼 쓰지 않는다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-07",
+        "observation": "최신 Reuters 본문에서 후티 측 보건당국의 사망33·부상39명 주장과 바니후샤이시 주택 피격 보고를 확인했다. 사우디는 조사 중이며 Reuters는 독립 검증하지 못했다.",
+        "checked_materials": [],
+        "outline": [
+          "대규모 인명 피해 주장과 아직 확인되지 않은 공격 주체",
+          "주택과 구조대 피해를 포함한 대규모 사상자 주장이 나왔다. 재개된 사우디·후티 전쟁의 민간 피해가 커진 사건이다.",
+          "사상자 수와 사우디 공격 여부는 후티 측 주장이다. 사우디가 공격을 인정하거나 피해 수가 독립 확정된 것처럼 쓰지 않는다."
+        ]
+      }
+    },
+    {
+      "title": "북한, 브라질에 6대0…U-17 여자월드컵 동메달로 마무리",
+      "category": "축구",
+      "url": "https://punchng.com/dpr-korea-thrash-brazil-6-0-to-claim-u-17-womens-world-cup-bronze/",
+      "source": "Punch Newspapers",
+      "kind": "article",
+      "event_key": "dpr-korea-brazil-u17-womens-world-cup-bronze-six-zero-20261107",
+      "why": "3연패 도전이 끝난 북한이 세계대회 메달을 확보했다. 브라질을6골 차로 꺾으며 대회를 마친 결승일 주요 결과다.",
+      "angle": "일본과 준결승 승부차기 패배 뒤, 동메달 결정전6대0",
+      "why_now": "11/7 라바트3위전. 확인 기사 최초21:21:05UTC이며 경기 종료 시각·최초 경기 공개 시각과 혼동하지 않았다.",
+      "verified_at": 1794092661,
+      "published_at": 1794086465,
+      "evidence": [
+        {
+          "url": "https://punchng.com/dpr-korea-thrash-brazil-6-0-to-claim-u-17-womens-world-cup-bronze/",
+          "note": "기사 본문에서 북한의 브라질전6대0 승리와3위 확정, 리의경2골을 확인했다. 결승 일본·나이지리아전과 다른 동메달 결정전 결과다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://punchng.com/dpr-korea-thrash-brazil-6-0-to-claim-u-17-womens-world-cup-bronze/",
+          "label": "확인한 기사 본문",
+          "kind": "source"
+        }
+      ],
+      "caution": "실제 영상을 시청하지 않았다. 대회29골 기록 주장은 별도 공식 대조를 못 해 제목·핵심 사실에서 제외했다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-07",
+        "observation": "기사 본문에서 북한의 브라질전6대0 승리와3위 확정, 리의경2골을 확인했다. 결승 일본·나이지리아전과 다른 동메달 결정전 결과다.",
+        "checked_materials": [],
+        "outline": [
+          "일본과 준결승 승부차기 패배 뒤, 동메달 결정전6대0",
+          "3연패 도전이 끝난 북한이 세계대회 메달을 확보했다. 브라질을6골 차로 꺾으며 대회를 마친 결승일 주요 결과다.",
+          "실제 영상을 시청하지 않았다. 대회29골 기록 주장은 별도 공식 대조를 못 해 제목·핵심 사실에서 제외했다."
         ]
       }
     }
