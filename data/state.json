@@ -1,5 +1,5 @@
 {
-  "updated_at": 1793970237,
+  "updated_at": 1794034386,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026110613",
+    "hour_utc": "2026110706",
     "category_counts": {
-      "시사": 2,
+      "시사": 3,
       "축구": 0,
-      "메이저 스포츠": 3,
+      "메이저 스포츠": 2,
       "아이돌": 0
     },
-    "research_queries": 19,
-    "opened_sources": 10,
+    "research_queries": 4,
+    "opened_sources": 5,
     "picks": [
       {
-        "title": "삼성, KT 5대1 제압…한국시리즈 2승1패로 뒤집었다",
-        "url": "https://news.nate.com/view/20261106n33340",
-        "event_key": "kbo-korean-series-game3-samsung-kt5-1-series2-1-20261106"
+        "title": "70승 1패·54연승…안세영, 코리아오픈 결승서 야마구치 만난다",
+        "url": "https://www.newsis.com/view/NISX20261107_0003858871",
+        "event_key": "an-se-young-korea-open-semifinal-54-streak-final-20261107"
       },
       {
-        "title": "6승1패 맞대결 앞두고 주전 QB 이탈…바이킹스, 웬츠 선발 확정",
-        "url": "https://www.vikings.com/news/quarterback-carson-wentz-monday-night-bills",
-        "event_key": "vikings-kyler-murray-hamstring-wentz-bills-starter-confirmed-20261105"
+        "title": "포르징기스, 건강 문제로 농구 활동 중단 직접 발표",
+        "url": "https://www.mk.co.kr/news/sports/12201380",
+        "event_key": "porzingis-personal-statement-stepping-away-basketball-20261107"
       },
       {
-        "title": "은행 위기에 사의 밝힌 파라과이 대통령…의회는 탄핵 심리 착수",
-        "url": "https://efe.com/mundo/2026-11-06/senado-paraguay-juicio-politico-presidente-santiago-pena/",
-        "event_key": "paraguay-pena-resignation-unaccepted-senate-impeachment-ueno-crisis-20261105"
+        "title": "트럼프 “이란 방공시설 공격”…협상 중 다시 군사 충돌",
+        "url": "https://www.newsis.com/view/NISX20261107_0003858887",
+        "event_key": "trump-announces-limited-iran-air-defense-strike-20261106"
       },
       {
-        "title": "미국, 쿠바 제재 범위 확대…중국 공급업체·석유 운송망 겨냥",
-        "url": "https://ofac.treasury.gov/recent-actions/20261105",
-        "event_key": "us-cuba-eight-entities-two-individuals-sector-determination-20261105"
+        "title": "미래에셋증권도 해킹…고객 3800명·임직원 3만5255명 정보 유출",
+        "url": "https://news.sbs.co.kr/news/endPagePrintPopup.do?news_id=N1008834969",
+        "event_key": "mirae-asset-securities-customer-employee-breach-disclosure-20261107"
       },
       {
-        "title": "델리 ODI 개최지 변경…인도·스리랑카전, 비사카파트남으로",
-        "url": "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366",
-        "event_key": "india-srilanka-delhi-odi-venue-shift-visakhapatnam-20261105"
+        "title": "사이버트럭, 내년 중반부터 생산 축소…머스크의 전략 전환",
+        "url": "https://www.mk.co.kr/news/business/12201336",
+        "event_key": "musk-cybertruck-production-phase-down-announced-20261106"
       }
     ]
   }
