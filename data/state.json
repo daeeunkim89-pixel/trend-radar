@@ -1,5 +1,5 @@
 {
-  "updated_at": 1794034386,
+  "updated_at": 1794035063,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026110706",
+    "hour_utc": "2026110707",
     "category_counts": {
       "시사": 3,
       "축구": 0,
       "메이저 스포츠": 2,
       "아이돌": 0
     },
-    "research_queries": 4,
-    "opened_sources": 5,
+    "research_queries": 13,
+    "opened_sources": 7,
     "picks": [
       {
-        "title": "70승 1패·54연승…안세영, 코리아오픈 결승서 야마구치 만난다",
-        "url": "https://www.newsis.com/view/NISX20261107_0003858871",
-        "event_key": "an-se-young-korea-open-semifinal-54-streak-final-20261107"
+        "title": "탈락 위기 두 번 넘긴 알카라스…프리츠 탈락으로 ATP 파이널스 8명 확정",
+        "url": "https://www.skysports.com/tennis/news/13608938/paris-masters-taylor-fritz-squanders-match-points-against-carlos-alcaraz-as-defeat-ends-hopes-of-reaching-atp-finals",
+        "event_key": "alcaraz-fritz-paris-qf-two-match-points-jodar-atp-finals-qualified-20261106"
       },
       {
-        "title": "포르징기스, 건강 문제로 농구 활동 중단 직접 발표",
-        "url": "https://www.mk.co.kr/news/sports/12201380",
-        "event_key": "porzingis-personal-statement-stepping-away-basketball-20261107"
+        "title": "그랜드슬램 5회 함께한 시너·케이힐 결별…매그너스 노먼 합류",
+        "url": "https://www.skysports.com/tennis/news/13608788/jannik-sinner-partnership-with-coach-darren-cahill-ends-with-the-italian-winning-five-grand-slam-titles-and-achieve-no-1-ranking",
+        "event_key": "sinner-cahill-partnership-end-magnus-norman-coach-appointed-20261106"
       },
       {
-        "title": "트럼프 “이란 방공시설 공격”…협상 중 다시 군사 충돌",
-        "url": "https://www.newsis.com/view/NISX20261107_0003858887",
-        "event_key": "trump-announces-limited-iran-air-defense-strike-20261106"
+        "title": "트럼프, 백악관 비서실장 교체…와일스 후임에 스티븐 밀러",
+        "url": "https://abc17news.com/news/2026/11/06/stephen-miller-replacing-susie-wiles-as-chief-of-staff-trump-announces/",
+        "event_key": "trump-wiles-departure-stephen-miller-white-house-chief-staff-appointed-20261106"
       },
       {
-        "title": "미래에셋증권도 해킹…고객 3800명·임직원 3만5255명 정보 유출",
-        "url": "https://news.sbs.co.kr/news/endPagePrintPopup.do?news_id=N1008834969",
-        "event_key": "mirae-asset-securities-customer-employee-breach-disclosure-20261107"
+        "title": "파라과이 페냐 대통령 탄핵 파면…부통령 알리아나 대통령 취임",
+        "url": "https://www.senado.gov.py/index.php/menu-dircom/sub-menu-noticias-presidencia/pedro-alliana-juro-como-nuevo-presidente-de-la-republica.html",
+        "event_key": "paraguay-pena-impeached-removed-alliana-sworn-president-20261106"
       },
       {
-        "title": "사이버트럭, 내년 중반부터 생산 축소…머스크의 전략 전환",
-        "url": "https://www.mk.co.kr/news/business/12201336",
-        "event_key": "musk-cybertruck-production-phase-down-announced-20261106"
+        "title": "어린이 190명 포함 191명 살인…케냐 종교집단 지도자에 징역 200년",
+        "url": "https://www.clickondetroit.com/news/world/2026/11/06/leader-of-kenyan-doomsday-cult-sentenced-to-200-years-in-prison/",
+        "event_key": "kenya-paul-mackenzie-shakahola-191-murders-200-year-sentence-20261106"
       }
     ]
   }
