@@ -2,11 +2,11 @@
   "version": 1,
   "items": {
     "0c91a77c99c9": {
-      "source": "Reuters / The Star",
-      "title": "맨유 발레바, A매치 휴식기 넘어 결장…캐릭이 수주 이탈 확인",
+      "source": "Reuters/The Star",
+      "title": "맨유 발레바, A매치 휴식기 지나도 못 뛴다…캐릭 “수 주 결장”",
       "link": "https://www.thestar.com.my/sport/football/2026/11/06/soccer-baleba-out-for-few-weeks-due-to-hamstring-injury-says-carrick",
       "first_seen_at": 1794035062,
-      "last_seen_at": 1794042305,
+      "last_seen_at": 1794046082,
       "samples": [
         {
           "at": 1794035062,
@@ -28,27 +28,34 @@
           "reactions": null,
           "rank": 6,
           "rank_kind": null
+        },
+        {
+          "at": 1794046082,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
         }
       ],
       "parser_revision": 7,
       "content_kind": "article",
       "story_id": "0c91a77c99c9",
       "editorial": {
-        "title": "맨유 발레바, A매치 휴식기 넘어 결장…캐릭이 수주 이탈 확인",
+        "title": "맨유 발레바, A매치 휴식기 지나도 못 뛴다…캐릭 “수 주 결장”",
         "category": "축구",
         "url": "https://www.thestar.com.my/sport/football/2026/11/06/soccer-baleba-out-for-few-weeks-due-to-hamstring-injury-says-carrick",
-        "source": "Reuters / The Star",
+        "source": "Reuters/The Star",
         "kind": "article",
         "event_key": "manutd-baleba-hamstring-weeks-out-beyond-international-break-confirmed-20261106",
-        "why": "리그 17위 맨유가 핵심 중원 없이 반등해야 하는 기간이 감독 설명으로 구체화됐다.",
-        "angle": "부상 발생에서 수주 결장 확인으로 바뀐 복귀 전망",
-        "why_now": "11/6 캐릭 회견 새 후속. Reuters 재전송 최초 14:37 UTC. 11/3 발송된 부상 발생과 달리 A매치 휴식기를 넘어 결장한다고 확인.",
-        "verified_at": 1794041996,
+        "why": "리그 17위 맨유의 중원 핵심이 반등을 노리는 일정에서 빠지게 됐다.",
+        "angle": "부상 진단을 넘어, 휴식기 이후까지 이어질 결장",
+        "why_now": "부상 발생은 11월3일. 새 사실은 6일 캐릭이 휴식기 내 복귀 불가·수 주 결장을 확인한 것. 기사 최초 14:37 UTC.",
+        "verified_at": 1794045879,
         "published_at": 1793975820,
         "evidence": [
           {
             "url": "https://www.thestar.com.my/sport/football/2026/11/06/soccer-baleba-out-for-few-weeks-due-to-hamstring-injury-says-carrick",
-            "note": "Reuters 본문에서 캐릭의 수주 이탈·A매치 휴식기 내 복귀 불가 발언을 확인. 부상은 11/3 로마전 햄스트링 문제다."
+            "note": "캐릭은 로마전 햄스트링 부상 발레바가 수 주 결장하며 A매치 휴식기 어느 시점에도 돌아오지 못한다고 밝혔다."
           }
         ],
         "materials": [
@@ -58,15 +65,16 @@
             "kind": "source"
           }
         ],
-        "caution": "정확한 복귀일·등급 미공개. 특정 경기 결장 확정으로 확대하지 않음.",
+        "caution": "11월3일 부상 확인 발송과 구분한 새 복귀 전망. 정확한 복귀일·부상 등급은 미확정.",
         "readiness": {
           "mode": "major_news",
           "event_date": "2026-11-06",
-          "observation": "Reuters 본문에서 캐릭의 수주 이탈·A매치 휴식기 내 복귀 불가 발언을 확인. 부상은 11/3 로마전 햄스트링 문제다.",
+          "observation": "캐릭은 로마전 햄스트링 부상 발레바가 수 주 결장하며 A매치 휴식기 어느 시점에도 돌아오지 못한다고 밝혔다.",
           "checked_materials": [],
           "outline": [
-            "캐릭이 확인한 결장 기간 범위",
-            "리그 17위 맨유의 중원 공백"
+            "부상 진단을 넘어, 휴식기 이후까지 이어질 결장",
+            "캐릭은 로마전 햄스트링 부상 발레바가 수 주 결장하며 A매치 휴식기 어느 시점에도 돌아오지 못한다고 밝혔다.",
+            "확정 사실과 미확정 범위를 구분해 마무리"
           ]
         }
       },
@@ -80,11 +88,386 @@
           }
         ],
         "excerpt": "",
-        "context": "11/6 캐릭 회견 새 후속. Reuters 재전송 최초 14:37 UTC. 11/3 발송된 부상 발생과 달리 A매치 휴식기를 넘어 결장한다고 확인.",
-        "fetched_at": 1794042305,
+        "context": "부상 발생은 11월3일. 새 사실은 6일 캐릭이 휴식기 내 복귀 불가·수 주 결장을 확인한 것. 기사 최초 14:37 UTC.",
+        "fetched_at": 1794046082,
         "parser_revision": 7
       },
       "curation_event_key": "manutd-baleba-hamstring-weeks-out-beyond-international-break-confirmed-20261106"
+    },
+    "64e5d86ab533": {
+      "source": "USA TODAY/AOL",
+      "title": "사카, 아직 수 주 더 결장…아르테타 “휴식기 뒤 활동 늘린다”",
+      "link": "https://www.aol.com/articles/bukayo-saka-injury-mikel-arteta-190534000.html",
+      "first_seen_at": 1794042305,
+      "last_seen_at": 1794046082,
+      "samples": [
+        {
+          "at": 1794042305,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        },
+        {
+          "at": 1794046082,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "64e5d86ab533",
+      "editorial": {
+        "title": "사카, 아직 수 주 더 결장…아르테타 “휴식기 뒤 활동 늘린다”",
+        "category": "축구",
+        "url": "https://www.aol.com/articles/bukayo-saka-injury-mikel-arteta-190534000.html",
+        "source": "USA TODAY/AOL",
+        "kind": "article",
+        "event_key": "arsenal-saka-quad-weeks-out-post-break-recovery-update-20261106",
+        "why": "아스널의 우승 경쟁과 빅매치 연전에 주전 공격수의 장기 공백이 이어진다.",
+        "angle": "아직 이르다는 복귀, 휴식기 이후 단계적 회복",
+        "why_now": "10월21일 부상의 11월6일 새 회복 경과 발표. 선택 기사 최초 19:05:34 UTC. 새 부상이나 복귀 확정이 아니다.",
+        "verified_at": 1794045877,
+        "published_at": 1793991934,
+        "evidence": [
+          {
+            "url": "https://www.aol.com/articles/bukayo-saka-injury-mikel-arteta-190534000.html",
+            "note": "아르테타는 사카 복귀에 수 주가 더 필요하며 A매치 휴식기 뒤 피치 활동을 늘려 상태를 살핀다고 말했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.aol.com/articles/bukayo-saka-injury-mikel-arteta-190534000.html",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "특정 빅매치 결장이나 복귀 날짜는 확정하지 않았다. 과거 부상 발생 기사와 구분.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-06",
+          "observation": "아르테타는 사카 복귀에 수 주가 더 필요하며 A매치 휴식기 뒤 피치 활동을 늘려 상태를 살핀다고 말했다.",
+          "checked_materials": [],
+          "outline": [
+            "아직 이르다는 복귀, 휴식기 이후 단계적 회복",
+            "아르테타는 사카 복귀에 수 주가 더 필요하며 A매치 휴식기 뒤 피치 활동을 늘려 상태를 살핀다고 말했다.",
+            "확정 사실과 미확정 범위를 구분해 마무리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://www.aol.com/articles/bukayo-saka-injury-mikel-arteta-190534000.html"
+          }
+        ],
+        "excerpt": "",
+        "context": "10월21일 부상의 11월6일 새 회복 경과 발표. 선택 기사 최초 19:05:34 UTC. 새 부상이나 복귀 확정이 아니다.",
+        "fetched_at": 1794046082,
+        "parser_revision": 7
+      },
+      "curation_event_key": "arsenal-saka-quad-weeks-out-post-break-recovery-update-20261106"
+    },
+    "0ccce6910f03": {
+      "source": "엑스포츠뉴스·게키사카",
+      "title": "김승규가 지킨 847분…FC도쿄, J1 최장 연속 무실점 신기록",
+      "link": "https://www.xportsnews.com/article/2216859",
+      "first_seen_at": 1794046082,
+      "last_seen_at": 1794046082,
+      "samples": [
+        {
+          "at": 1794046082,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "0ccce6910f03",
+      "editorial": {
+        "title": "김승규가 지킨 847분…FC도쿄, J1 최장 연속 무실점 신기록",
+        "category": "축구",
+        "url": "https://www.xportsnews.com/article/2216859",
+        "source": "엑스포츠뉴스·게키사카",
+        "kind": "article",
+        "event_key": "fc-tokyo-kim-seung-gyu-j1-record-847-minutes-clean-sheet-kashima-20261107",
+        "why": "한국 대표팀 골키퍼가 전 경기 골문을 지키며 일본 리그 역대 수비 기록을 바꿨다.",
+        "angle": "823분을 넘은 847분, 김승규와 FC도쿄의 신기록",
+        "why_now": "11월7일 가시마전에서 기록 경신. 선택 기사 최초 게시 17:28:28 KST, 일본 독립 보도 16:56 JST도 확인.",
+        "verified_at": 1794045879,
+        "published_at": 1794040108,
+        "evidence": [
+          {
+            "url": "https://www.xportsnews.com/article/2216859",
+            "note": "FC도쿄가 가시마를 2대0으로 꺾고 847분 연속 무실점으로 종전 나고야의 823분을 경신. 김승규는 전 경기 출전했고 9경기 연속 무실점은 최다 타이."
+          },
+          {
+            "url": "https://news.livedoor.com/article/detail/32757751/",
+            "note": "독립 본문 대조: 가시마전 2대0, 847분 무실점, 9경기 연속 무실점 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.xportsnews.com/article/2216859",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "847분은 팀 기록이다. 9경기 연속은 단독 신기록이 아닌 타이. 영상은 시청하지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-07",
+          "observation": "FC도쿄가 가시마를 2대0으로 꺾고 847분 연속 무실점으로 종전 나고야의 823분을 경신. 김승규는 전 경기 출전했고 9경기 연속 무실점은 최다 타이.",
+          "checked_materials": [],
+          "outline": [
+            "823분을 넘은 847분, 김승규와 FC도쿄의 신기록",
+            "FC도쿄가 가시마를 2대0으로 꺾고 847분 연속 무실점으로 종전 나고야의 823분을 경신. 김승규는 전 경기 출전했고 9경기 연속 무실점은 최다 타이.",
+            "확정 사실과 미확정 범위를 구분해 마무리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://www.xportsnews.com/article/2216859"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월7일 가시마전에서 기록 경신. 선택 기사 최초 게시 17:28:28 KST, 일본 독립 보도 16:56 JST도 확인.",
+        "fetched_at": 1794046082,
+        "parser_revision": 7
+      },
+      "curation_event_key": "fc-tokyo-kim-seung-gyu-j1-record-847-minutes-clean-sheet-kashima-20261107"
+    },
+    "d81fb8be78d1": {
+      "source": "Reuters/중앙데일리",
+      "title": "키이우 전력·난방·급수 비상…러 공습에 북부교량도 피해",
+      "link": "https://www.koreajoongangdaily.com/world/russian-strikes-batter-kyiv-power-bridge/12960951",
+      "first_seen_at": 1794046082,
+      "last_seen_at": 1794046082,
+      "samples": [
+        {
+          "at": 1794046082,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "d81fb8be78d1",
+      "editorial": {
+        "title": "키이우 전력·난방·급수 비상…러 공습에 북부교량도 피해",
+        "category": "시사",
+        "url": "https://www.koreajoongangdaily.com/world/russian-strikes-batter-kyiv-power-bridge/12960951",
+        "source": "Reuters/중앙데일리",
+        "kind": "article",
+        "event_key": "russian-overnight-kyiv-energy-northern-bridge-strike-20261107",
+        "why": "겨울을 앞둔 수도의 생존 기반과 교통망이 함께 타격받은 대규모 공습이다.",
+        "angle": "영하권 앞둔 수도, 에너지 시설과 다리 동시 타격",
+        "why_now": "11월7일 밤사이 공습의 당국 발표를 확인. 선택 전재 기사 최초 08:45:32 UTC이며 Reuters 원문 최초 시각은 미확인.",
+        "verified_at": 1794045907,
+        "published_at": 1794041132,
+        "evidence": [
+          {
+            "url": "https://www.koreajoongangdaily.com/world/russian-strikes-batter-kyiv-power-bridge/12960951",
+            "note": "우크라이나 당국은 키이우와 주변 에너지 시설·북부교량 피해, 1명 사망·어린이 포함 8명 부상을 발표. 시장은 전력·난방·급수가 극도로 어렵다고 밝혔다."
+          },
+          {
+            "url": "https://www.dubaieye1038.com/news/international/russia-says-it-hit-targets-in-and-around-kyiv-in-massive-overnight-strike/",
+            "note": "독립 본문 대조: 키이우 에너지 시설·북부교량 피해, 1명 사망·8명 부상 및 공급난에 관한 당국 발표 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.koreajoongangdaily.com/world/russian-strikes-batter-kyiv-power-bridge/12960951",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "당국 발표와 기사 본문 확인이며 현장 독립 실사는 아니다. 전재 시각을 Reuters 최초 공개로 쓰지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-07",
+          "observation": "우크라이나 당국은 키이우와 주변 에너지 시설·북부교량 피해, 1명 사망·어린이 포함 8명 부상을 발표. 시장은 전력·난방·급수가 극도로 어렵다고 밝혔다.",
+          "checked_materials": [],
+          "outline": [
+            "영하권 앞둔 수도, 에너지 시설과 다리 동시 타격",
+            "우크라이나 당국은 키이우와 주변 에너지 시설·북부교량 피해, 1명 사망·어린이 포함 8명 부상을 발표. 시장은 전력·난방·급수가 극도로 어렵다고 밝혔다.",
+            "확정 사실과 미확정 범위를 구분해 마무리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://www.koreajoongangdaily.com/world/russian-strikes-batter-kyiv-power-bridge/12960951"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월7일 밤사이 공습의 당국 발표를 확인. 선택 전재 기사 최초 08:45:32 UTC이며 Reuters 원문 최초 시각은 미확인.",
+        "fetched_at": 1794046082,
+        "parser_revision": 7
+      },
+      "curation_event_key": "russian-overnight-kyiv-energy-northern-bridge-strike-20261107"
+    },
+    "4f3f9af09d4e": {
+      "source": "DW·Reuters",
+      "title": "걸프 유조선 폭발 뒤 선원 사망 확인…민간 항로 위험 커졌다",
+      "link": "https://amp.dw.com/en/iran-war-gulf-tanker-attacked-1-seaferer-killed/a-79879270",
+      "first_seen_at": 1794046082,
+      "last_seen_at": 1794046082,
+      "samples": [
+        {
+          "at": 1794046082,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "4f3f9af09d4e",
+      "editorial": {
+        "title": "걸프 유조선 폭발 뒤 선원 사망 확인…민간 항로 위험 커졌다",
+        "category": "시사",
+        "url": "https://amp.dw.com/en/iran-war-gulf-tanker-attacked-1-seaferer-killed/a-79879270",
+        "source": "DW·Reuters",
+        "kind": "article",
+        "event_key": "velos-sapphire-gulf-tanker-explosion-seafarer-death-confirmed-20261106",
+        "why": "에너지 운송로의 군사 위험이 민간 선원 사망으로 이어졌다는 운영사 확인이다.",
+        "angle": "실종됐던 선원, 유조선 안에서 숨진 채 발견",
+        "why_now": "사건은 11월5일, 운영사의 사망 확인은 6일. DW 6일 보도이며 17:47:51 UTC 메타데이터는 date 필드라 최초 시각으로 확정하지 않음.",
+        "verified_at": 1794045909,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://amp.dw.com/en/iran-war-gulf-tanker-attacked-1-seaferer-killed/a-79879270",
+            "note": "Velos Tankers는 바레인으로 가던 Velos Sapphire 폭발 뒤 실종됐던 선원 1명의 사망을 확인. 다른 부상은 없었고 화재를 진압한 배는 바레인 항구로 이동했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://amp.dw.com/en/iran-war-gulf-tanker-attacked-1-seaferer-killed/a-79879270",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "미사일 공격 추정이며 공격 주체·정확한 원인은 확정하지 않았다. 영상은 시청하지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-06",
+          "observation": "Velos Tankers는 바레인으로 가던 Velos Sapphire 폭발 뒤 실종됐던 선원 1명의 사망을 확인. 다른 부상은 없었고 화재를 진압한 배는 바레인 항구로 이동했다.",
+          "checked_materials": [],
+          "outline": [
+            "실종됐던 선원, 유조선 안에서 숨진 채 발견",
+            "Velos Tankers는 바레인으로 가던 Velos Sapphire 폭발 뒤 실종됐던 선원 1명의 사망을 확인. 다른 부상은 없었고 화재를 진압한 배는 바레인 항구로 이동했다.",
+            "확정 사실과 미확정 범위를 구분해 마무리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://amp.dw.com/en/iran-war-gulf-tanker-attacked-1-seaferer-killed/a-79879270"
+          }
+        ],
+        "excerpt": "",
+        "context": "사건은 11월5일, 운영사의 사망 확인은 6일. DW 6일 보도이며 17:47:51 UTC 메타데이터는 date 필드라 최초 시각으로 확정하지 않음.",
+        "fetched_at": 1794046082,
+        "parser_revision": 7
+      },
+      "curation_event_key": "velos-sapphire-gulf-tanker-explosion-seafarer-death-confirmed-20261106"
+    },
+    "b661bd83d241": {
+      "source": "AP/ClickOrlando",
+      "title": "뉴질랜드 총선, 초기 개표 초접전…차기 정부 구성도 안갯속",
+      "link": "https://www.clickorlando.com/news/2026/11/06/polls-close-in-a-new-zealand-election-expected-to-be-the-tightest-in-years-with-early-results-due/",
+      "first_seen_at": 1794046082,
+      "last_seen_at": 1794046082,
+      "samples": [
+        {
+          "at": 1794046082,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "b661bd83d241",
+      "editorial": {
+        "title": "뉴질랜드 총선, 초기 개표 초접전…차기 정부 구성도 안갯속",
+        "category": "시사",
+        "url": "https://www.clickorlando.com/news/2026/11/06/polls-close-in-a-new-zealand-election-expected-to-be-the-tightest-in-years-with-early-results-due/",
+        "source": "AP/ClickOrlando",
+        "kind": "article",
+        "event_key": "new-zealand-election-initial-count-no-clear-governing-majority-20261107",
+        "why": "국가 지도부와 연정 방향을 결정할 총선에서 양대 진영 모두 확실한 승리를 확보하지 못했다.",
+        "angle": "양당 접전과 소수 정당의 연정 협상력",
+        "why_now": "11월7일 총선 초기 개표 보도. AP 배포 메타 최초 6일20:20:48 UTC, 본문 갱신 7일08:21:21 UTC로 구분.",
+        "verified_at": 1794045925,
+        "published_at": 1793996448,
+        "evidence": [
+          {
+            "url": "https://www.clickorlando.com/news/2026/11/06/polls-close-in-a-new-zealand-election-expected-to-be-the-tightest-in-years-with-early-results-due/",
+            "note": "AP의 약 3분의1 개표 시점 본문에서 국민당·노동당 접전과 연정 과반 불확실성을 확인. 최종 공식 집계 예정일은 11월27일."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.clickorlando.com/news/2026/11/06/polls-close-in-a-new-zealand-election-expected-to-be-the-tightest-in-years-with-early-results-due/",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "초기 개표다. 당선·정권교체 확정이나 최신 득표율로 쓰지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-07",
+          "observation": "AP의 약 3분의1 개표 시점 본문에서 국민당·노동당 접전과 연정 과반 불확실성을 확인. 최종 공식 집계 예정일은 11월27일.",
+          "checked_materials": [],
+          "outline": [
+            "양당 접전과 소수 정당의 연정 협상력",
+            "AP의 약 3분의1 개표 시점 본문에서 국민당·노동당 접전과 연정 과반 불확실성을 확인. 최종 공식 집계 예정일은 11월27일.",
+            "확정 사실과 미확정 범위를 구분해 마무리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://www.clickorlando.com/news/2026/11/06/polls-close-in-a-new-zealand-election-expected-to-be-the-tightest-in-years-with-early-results-due/"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월7일 총선 초기 개표 보도. AP 배포 메타 최초 6일20:20:48 UTC, 본문 갱신 7일08:21:21 UTC로 구분.",
+        "fetched_at": 1794046082,
+        "parser_revision": 7
+      },
+      "curation_event_key": "new-zealand-election-initial-count-no-clear-governing-majority-20261107"
     },
     "2035d15c7f85": {
       "source": "FIFA / AP",
@@ -463,77 +846,6 @@
         "parser_revision": 7
       },
       "curation_event_key": "taiwan-kao-chin-su-mei-china-funding-indicted-fourteen-year-demand-20261106"
-    },
-    "64e5d86ab533": {
-      "source": "USA TODAY / AOL",
-      "title": "아르테타 “사카 복귀까지 수주”…A매치 휴식기 뒤 회복 단계 재평가",
-      "link": "https://www.aol.com/articles/bukayo-saka-injury-mikel-arteta-190534000.html",
-      "first_seen_at": 1794042305,
-      "last_seen_at": 1794042305,
-      "samples": [
-        {
-          "at": 1794042305,
-          "views": null,
-          "reactions": null,
-          "rank": 7,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "64e5d86ab533",
-      "editorial": {
-        "title": "아르테타 “사카 복귀까지 수주”…A매치 휴식기 뒤 회복 단계 재평가",
-        "category": "축구",
-        "url": "https://www.aol.com/articles/bukayo-saka-injury-mikel-arteta-190534000.html",
-        "source": "USA TODAY / AOL",
-        "kind": "article",
-        "event_key": "arsenal-saka-quad-weeks-out-post-break-recovery-update-20261106",
-        "why": "아스널이 맨시티·토트넘·레알과의 빅매치를 앞둔 가운데 핵심 공격수의 복귀가 여전히 불투명하다.",
-        "angle": "부상 직후 예상과 분리한 감독의 새 설명 → 휴식기 뒤 훈련 경과 확인",
-        "why_now": "11/6 아르테타 기자회견. USA TODAY 재전송 최초 19:05:34 UTC. 10/21 부상 발생을 새 사건으로 바꾸지 않고 복귀 전망 후속만 검토.",
-        "verified_at": 1794041995,
-        "published_at": 1793991934,
-        "evidence": [
-          {
-            "url": "https://www.aol.com/articles/bukayo-saka-injury-mikel-arteta-190534000.html",
-            "note": "USA TODAY 본문에서 사카의 복귀까지 수주가 남고 휴식기 뒤 활동을 늘려 상태를 보겠다는 아르테타 설명을 확인. 정확한 복귀일은 제시하지 않았다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.aol.com/articles/bukayo-saka-injury-mikel-arteta-190534000.html",
-            "label": "확인한 기사 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "맨시티·토트넘·레알전 결장 확정이 아님. 경기·회견 영상 미시청.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-06",
-          "observation": "USA TODAY 본문에서 사카의 복귀까지 수주가 남고 휴식기 뒤 활동을 늘려 상태를 보겠다는 아르테타 설명을 확인. 정확한 복귀일은 제시하지 않았다.",
-          "checked_materials": [],
-          "outline": [
-            "감독이 확인한 회복 단계",
-            "휴식기 뒤 빅매치 일정과 미정인 복귀일"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 기사 본문",
-            "url": "https://www.aol.com/articles/bukayo-saka-injury-mikel-arteta-190534000.html"
-          }
-        ],
-        "excerpt": "",
-        "context": "11/6 아르테타 기자회견. USA TODAY 재전송 최초 19:05:34 UTC. 10/21 부상 발생을 새 사건으로 바꾸지 않고 복귀 전망 후속만 검토.",
-        "fetched_at": 1794042305,
-        "parser_revision": 7
-      },
-      "curation_event_key": "arsenal-saka-quad-weeks-out-post-break-recovery-update-20261106"
     },
     "f1c0779e5369": {
       "source": "OSEN",
@@ -30054,5 +30366,5 @@
       "curation_event_key": "nmixx-haewon-birthday-wish-music-bank-win-human-theater-wish-payoff-20261030"
     }
   },
-  "updated_at": 1794042305
+  "updated_at": 1794046082
 }

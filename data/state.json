@@ -1,5 +1,5 @@
 {
-  "updated_at": 1794042306,
+  "updated_at": 1794046084,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026110709",
+    "hour_utc": "2026110710",
     "category_counts": {
       "시사": 2,
-      "축구": 2,
-      "메이저 스포츠": 1,
+      "축구": 3,
+      "메이저 스포츠": 0,
       "아이돌": 0
     },
-    "research_queries": 16,
-    "opened_sources": 11,
+    "research_queries": 23,
+    "opened_sources": 9,
     "picks": [
       {
-        "title": "삼성, KT에 10대5 승리…12년 만의 한국시리즈 우승까지 1승",
-        "url": "https://www.osen.co.kr/article/G1112906021",
-        "event_key": "samsung-kt-korean-series-game4-10-5-three-one-title-one-win-away-20261107"
+        "title": "김승규가 지킨 847분…FC도쿄, J1 최장 연속 무실점 신기록",
+        "url": "https://www.xportsnews.com/article/2216859",
+        "event_key": "fc-tokyo-kim-seung-gyu-j1-record-847-minutes-clean-sheet-kashima-20261107"
       },
       {
-        "title": "갈라타사라이 오시멘 무릎 수술 예정…구단, 아메드전 제외 발표",
-        "url": "https://gazeteoksijen.com/spor/galatasaraydan-osimhene-dair-sakatlik-aciklamasi-295263",
-        "event_key": "galatasaray-osimhen-left-knee-arthroscopy-planned-amed-squad-excluded-20261106"
+        "title": "맨유 발레바, A매치 휴식기 지나도 못 뛴다…캐릭 “수 주 결장”",
+        "url": "https://www.thestar.com.my/sport/football/2026/11/06/soccer-baleba-out-for-few-weeks-due-to-hamstring-injury-says-carrick",
+        "event_key": "manutd-baleba-hamstring-weeks-out-beyond-international-break-confirmed-20261106"
       },
       {
-        "title": "FIFA 법무 수장 가르시아 퇴임…8년 이끈 규정·징계 조직 교체",
-        "url": "https://inside.fifa.com/legal/news/thanks-emilio-garcia-silvero-dedication-global-football",
-        "event_key": "fifa-emilio-garcia-silvero-legal-compliance-departure-20261106"
+        "title": "사카, 아직 수 주 더 결장…아르테타 “휴식기 뒤 활동 늘린다”",
+        "url": "https://www.aol.com/articles/bukayo-saka-injury-mikel-arteta-190534000.html",
+        "event_key": "arsenal-saka-quad-weeks-out-post-break-recovery-update-20261106"
       },
       {
-        "title": "러시아, 日 JT 자회사 4곳 임시 관리…일본 정부 “즉각 철회하라”",
-        "url": "https://www.ksat.com/business/2026/11/06/japan-protests-russian-takeover-of-japan-tobacco-subsidiaries-in-russia/",
-        "event_key": "japan-tobacco-four-russian-subsidiaries-temporary-control-japan-protest-20261106"
+        "title": "키이우 전력·난방·급수 비상…러 공습에 북부교량도 피해",
+        "url": "https://www.koreajoongangdaily.com/world/russian-strikes-batter-kyiv-power-bridge/12960951",
+        "event_key": "russian-overnight-kyiv-energy-northern-bridge-strike-20261107"
       },
       {
-        "title": "대만 7선 의원, 中자금 수수 혐의 기소…검찰 징역 14년 구형",
-        "url": "https://japan.focustaiwan.tw/society/202611060006",
-        "event_key": "taiwan-kao-chin-su-mei-china-funding-indicted-fourteen-year-demand-20261106"
+        "title": "걸프 유조선 폭발 뒤 선원 사망 확인…민간 항로 위험 커졌다",
+        "url": "https://amp.dw.com/en/iran-war-gulf-tanker-attacked-1-seaferer-killed/a-79879270",
+        "event_key": "velos-sapphire-gulf-tanker-explosion-seafarer-death-confirmed-20261106"
       }
     ]
   }
