@@ -1,5 +1,5 @@
 {
-  "updated_at": 1794060154,
+  "updated_at": 1794092808,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026110714",
+    "hour_utc": "2026110723",
     "category_counts": {
-      "시사": 3,
-      "축구": 0,
-      "메이저 스포츠": 2,
+      "시사": 2,
+      "축구": 2,
+      "메이저 스포츠": 1,
       "아이돌": 0
     },
-    "research_queries": 18,
+    "research_queries": 13,
     "opened_sources": 6,
     "picks": [
       {
-        "title": "뉴질랜드, 통가 꺾고 13년 만에 럭비리그 월드컵 결승 진출",
-        "url": "https://www.nrl.com/news/2026/11/07/kiwis-bluster-past-tonga-to-set-up-world-cup-final-spot/",
-        "event_key": "new-zealand-tonga-men-rugby-league-world-cup-final-berth-20261107"
+        "title": "개막 7연승 뒤 3연패…맨시티, 노팅엄에 1대3 패하며 선두와 6점 차",
+        "url": "https://www.mancity.com/news/mens/nottingham-forest-manchester-city-match-report-premier-league-63929666",
+        "event_key": "manchester-city-forest-third-consecutive-league-loss-six-points-gap-20261107"
       },
       {
-        "title": "러시아 복귀 검토와 별개…IIHF, 벨라루스의 2027 세계선수권 불참 확정",
-        "url": "https://www.iihf.com/en/news/76810/iihf_statement_on_belarus_and_russia",
-        "event_key": "iihf-belarus-appeal-review-2027-senior-u20-exclusion-confirmed-20261107"
+        "title": "아프리카 첫 우승…나이지리아, 일본 꺾고 U-17 여자월드컵 정상",
+        "url": "https://www.cafonline.com/womens-football/news/fifa-u-17-women-s-world-cup-africa-on-top-of-the-world-as-nigeria-wins-the-title-for-the-first-time/",
+        "event_key": "nigeria-japan-u17-womens-world-cup-first-african-title-20261107"
       },
       {
-        "title": "다이어트·근육 주사로 팔린 미허가 제품서 세균…캐나다, 1만1,400병 넘게 압수",
-        "url": "https://recalls-rappels.canada.ca/en/alert-recall/health-canada-warns-about-contaminated-unauthorized-injectable-peptides-and-non",
-        "event_key": "health-canada-erp-unauthorized-injectable-peptides-bacteria-11400-vials-20261106"
+        "title": "알카라스, 첫 파리 마스터스 결승…US오픈서 졌던 셸턴과 재대결",
+        "url": "https://www.rolexparismasters.com/en/news/article/semi-finals-carlos-alcaraz-victory-casper-ruud-first-paris",
+        "event_key": "alcaraz-ruud-first-paris-masters-final-shelton-rematch-20261107"
       },
       {
-        "title": "대통령 도청 의혹, 네 번째 경찰 고위직까지…인도네시아 수사 확대",
-        "url": "https://www.aol.com/articles/indonesia-names-fourth-senior-police-043430000.html",
-        "event_key": "indonesia-prabowo-wiretapping-fourth-senior-officer-suspect-20261105"
+        "title": "미군 “오만만 화물선 선미 타격해 운항 불능”…이란 해상봉쇄 강제 집행",
+        "url": "https://www.stripes.com/theaters/middle_east/2026-11-07/centcom-strikes-commercial-cargo-vessel-23394462.html",
+        "event_key": "centcom-huda-cargo-vessel-disabled-gulf-of-oman-20261107"
       },
       {
-        "title": "카타르 총리 “미·이란 중재 상당한 진전”…종전 합의는 아직",
-        "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/07/qatar-says-its-mediation-efforts-between-us-and-iran-continue-to-prevent-escalation",
-        "event_key": "qatar-pm-us-iran-mediation-significant-progress-20261107"
+        "title": "후티 측 “예멘 마을 공습에 33명 사망”…사우디는 조사 중",
+        "url": "https://www.investing.com/news/world-news/houthirun-health-ministry-says-airstrikes-it-blames-on-saudi-arabia-kill-27-near-yemen-capital-5010011",
+        "event_key": "yemen-bani-hushaysh-airstrikes-houthi-33-deaths-20261107"
       }
     ]
   }
