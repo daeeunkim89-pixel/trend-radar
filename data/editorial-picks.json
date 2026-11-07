@@ -1,225 +1,273 @@
 {
   "version": 2,
-  "hour_utc": "2026110707",
+  "hour_utc": "2026110708",
   "reviewer": "ChatGPT",
-  "generated_at": 1794034984,
+  "generated_at": 1794038614,
   "coverage": {
     "queries": [
-      "November 6 2026 sports Reuters",
-      "November 7 2026 sports major news football decision",
-      "November 6 2026 Wiles resigned fired",
-      "November 6 2026 Mackenzie sentenced",
-      "November 6 2026 NBA injury season out",
-      "November 6 2026 sports banned suspended announces",
-      "site.manutd.com Baleba November 2026 weeks",
-      "site.atptour.com Alcaraz Fritz Paris 2026 November 6",
-      "Sinner Cahill November 6 2026",
-      "site:instagram.com/bythepulse 시너",
-      "site:instagram.com/bythepulse 알카라스",
-      "site:instagram.com/bythepulse 와일스",
-      "site:instagram.com/bythepulse 파라과이"
+      "스포츠 주요 뉴스 2026 11 7 한국시리즈 4차전 결과",
+      "November 7 2026 major football sports news",
+      "November 7 2026 major world news election",
+      "2026 11 7 T1 4강 3-1",
+      "November 6, 2026 Garcia FIFA legal leaves",
+      "Imane Khelif 2026 December 15 professional",
+      "site.afa.com.ar 2026 noviembre Paredes Molina Apelaciones",
+      "November 6, 2026 Bomb threats television Europe",
+      "November 6, 2026 OpenAI 11 billion",
+      "site.instagram.com/bythepulse T1",
+      "site.instagram.com/bythepulse 칼리프",
+      "site.instagram.com/bythepulse 파레데스",
+      "site.instagram.com/bythepulse 가르시아 FIFA"
     ],
     "opened_urls": [
-      "https://www.skysports.com/tennis/news/13608938/paris-masters-taylor-fritz-squanders-match-points-against-carlos-alcaraz-as-defeat-ends-hopes-of-reaching-atp-finals",
-      "https://www.skysports.com/tennis/news/13608788/jannik-sinner-partnership-with-coach-darren-cahill-ends-with-the-italian-winning-five-grand-slam-titles-and-achieve-no-1-ranking",
-      "https://www.senado.gov.py/index.php/menu-dircom/sub-menu-noticias-presidencia/pedro-alliana-juro-como-nuevo-presidente-de-la-republica.html",
-      "https://abc17news.com/news/2026/11/06/stephen-miller-replacing-susie-wiles-as-chief-of-staff-trump-announces/",
-      "https://www.clickondetroit.com/news/world/2026/11/06/leader-of-kenyan-doomsday-cult-sentenced-to-200-years-in-prison/",
-      "https://www.thestar.com.my/sport/football/2026/11/06/soccer-baleba-out-for-few-weeks-due-to-hamstring-injury-says-carrick",
-      "https://www.rolexparismasters.com/en/news/article/quarterfinals-carlos-alcaraz-victory-taylor-fritz"
+      "https://www.osen.co.kr/article/G1112905749",
+      "https://sports.khan.co.kr/article/202611070959003",
+      "https://ultrasurfing.com/sports/olympic-champion-khelif-to-make-pro-boxing-debut-in-december/",
+      "https://www.afa.com.ar/es/posts/decisiones-de-la-camara-de-apelaciones-de-la-fifa",
+      "https://www.tycsports.com/seleccion-argentina/seleccion-argentina-paredes-molina-suspension-sancion-fifa-espana-final-mundial-id770730.html",
+      "https://inside.fifa.com/legal/news/thanks-emilio-garcia-silvero-dedication-global-football",
+      "https://medicinehatnews.com/sports/national-sports/2026/11/06/fifas-legal-head-garcia-leaves-as-infantino-faces-intense-presidential-reelection-campaign/",
+      "https://toronto.citynews.ca/2026/11/06/european-flights-and-broadcasters-are-targeted-with-another-wave-of-bomb-threats/",
+      "https://www.marketscreener.com/news/openai-secures-11-billion-funding-at-1-25-trillion-valuation-bloomberg-news-reports-ce785fd2dc8bf622",
+      "https://www.thestar.com.my/sport/football/2026/11/06/soccer-baleba-out-for-few-weeks-due-to-hamstring-injury-says-carrick"
     ],
     "unavailable": [
-      "당사자 X 게시물 403: https://x.com/janniksin/status/2118631019670626456",
-      "BTP 공개 게시 검색 결과 없음: 접근 가능한 실제 게시 대조 범위 제한"
+      "Yahoo 기사 429로 독립 원문과 공식 발표로 전환",
+      "검색에서 실제 BTP 최근 게시물을 확인하지 못해 공개 게시 대조 범위에 한계"
     ]
   },
   "picks": [
     {
-      "title": "탈락 위기 두 번 넘긴 알카라스…프리츠 탈락으로 ATP 파이널스 8명 확정",
+      "title": "T1, KC 꺾고 6년 연속 월즈 4강…첫 4연패 도전 이어간다",
       "category": "메이저 스포츠",
-      "url": "https://www.skysports.com/tennis/news/13608938/paris-masters-taylor-fritz-squanders-match-points-against-carlos-alcaraz-as-defeat-ends-hopes-of-reaching-atp-finals",
-      "source": "Sky Sports",
+      "url": "https://www.osen.co.kr/article/G1112905749",
+      "source": "OSEN",
       "kind": "article",
-      "event_key": "alcaraz-fritz-paris-qf-two-match-points-jodar-atp-finals-qualified-20261106",
-      "why": "두 번의 매치포인트가 뒤집히며 시즌 최종전 마지막 진출자의 운명까지 갈렸다.",
-      "angle": "프리츠의 매치포인트 두 번 → 알카라스 역전 → 호다르 최종전 합류",
-      "why_now": "11/6 파리 8강. 이 기사 최초 22:20 UTC(11/7 07:20 KST), 수정 00:20 UTC와 구별. 앞선 베레티니 기권과 다른 실제 경기 결과.",
-      "verified_at": 1794034898,
-      "published_at": 1794003600,
+      "event_key": "t1-karmine-corp-3-1-worlds-quarterfinal-sixth-straight-semifinal-20261107",
+      "why": "세계대회 디펜딩 챔피언이 탈락전 관문을 통과해 BLG와 결승 진출을 다툰다.",
+      "angle": "KC에 3대1 승리 → 6년 연속 4강 → 다음 상대 BLG",
+      "why_now": "경기는 11/7 한국시간 종료. OSEN 본문 발행 11/7 11:45 KST를 확인했으며 중간 세트 스코어가 아닌 최종 승리다.",
+      "verified_at": 1794038490,
+      "published_at": 1794019500,
       "evidence": [
         {
-          "url": "https://www.skysports.com/tennis/news/13608938/paris-masters-taylor-fritz-squanders-match-points-against-carlos-alcaraz-as-defeat-ends-hopes-of-reaching-atp-finals",
-          "note": "본문에서 알카라스의 6-7(10), 7-5, 6-3 승리와 두 매치포인트 방어, 프리츠 탈락·라파엘 호다르 최종전 합류를 확인했다."
-        },
-        {
-          "url": "https://www.rolexparismasters.com/en/news/article/quarterfinals-carlos-alcaraz-victory-taylor-fritz",
-          "note": "대회 공식 11/6 경기 리뷰도 두 매치포인트 방어와 역전 스코어를 확인. 게시 일자만 표시, 영상 시청 아님."
+          "url": "https://www.osen.co.kr/article/G1112905749",
+          "note": "본문에서 T1의 KC전 세트 3-1 승리, 6년 연속 월즈 4강 진출 및 11/9 BLG와의 준결승을 확인했다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.skysports.com/tennis/news/13608938/paris-masters-taylor-fritz-squanders-match-points-against-carlos-alcaraz-as-defeat-ends-hopes-of-reaching-atp-finals",
+          "url": "https://www.osen.co.kr/article/G1112905749",
           "label": "확인한 기사 본문",
           "kind": "source"
         }
       ],
-      "caution": "기사·대회 본문 확인. 하이라이트 영상은 시청하지 않음. 선수 세계랭킹 표기가 출처마다 달라 제외.",
+      "caution": "기사 본문 확인. 경기 영상은 시청하지 않았고 4연패 달성으로 표현하지 않음.",
       "readiness": {
         "mode": "major_news",
-        "event_date": "2026-11-06",
-        "observation": "본문에서 알카라스의 6-7(10), 7-5, 6-3 승리와 두 매치포인트 방어, 프리츠 탈락·라파엘 호다르 최종전 합류를 확인했다.",
+        "event_date": "2026-11-07",
+        "observation": "본문에서 T1의 KC전 세트 3-1 승리, 6년 연속 월즈 4강 진출 및 11/9 BLG와의 준결승을 확인했다.",
         "checked_materials": [],
         "outline": [
-          "두 차례 매치포인트 뒤집힌 경기 결과",
-          "프리츠 대신 호다르 합류, 확정된 파이널스 8명 설명"
+          "8강 최종 결과와 6년 연속 4강",
+          "BLG전 대진과 4연패 도전의 남은 관문"
         ]
       }
     },
     {
-      "title": "그랜드슬램 5회 함께한 시너·케이힐 결별…매그너스 노먼 합류",
-      "category": "메이저 스포츠",
-      "url": "https://www.skysports.com/tennis/news/13608788/jannik-sinner-partnership-with-coach-darren-cahill-ends-with-the-italian-winning-five-grand-slam-titles-and-achieve-no-1-ranking",
-      "source": "Sky Sports",
-      "kind": "article",
-      "event_key": "sinner-cahill-partnership-end-magnus-norman-coach-appointed-20261106",
-      "why": "정상급 선수의 장기 코칭 체계가 바뀌는 확정 발표로 다음 시즌 경쟁 구도와 직결된다.",
-      "angle": "5회 메이저 우승을 만든 조합 종료 → 새 코치 노먼과 바뇨치 체제",
-      "why_now": "11/6 새 코치 교체 발표. 기사 최초 11:05 UTC(20:05 KST), 15:28 수정은 최초 공개가 아니다. 부상·시즌 종료 자체의 재보도가 아님.",
-      "verified_at": 1794034899,
-      "published_at": 1793963100,
-      "evidence": [
-        {
-          "url": "https://www.skysports.com/tennis/news/13608788/jannik-sinner-partnership-with-coach-darren-cahill-ends-with-the-italian-winning-five-grand-slam-titles-and-achieve-no-1-ranking",
-          "note": "본문에서 케이힐과의 동행 종료, 매그너스 노먼의 12/1 합류와 시모네 바뇨치 잔류, 함께한 메이저 5회 우승을 확인했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.skysports.com/tennis/news/13608788/jannik-sinner-partnership-with-coach-darren-cahill-ends-with-the-italian-winning-five-grand-slam-titles-and-achieve-no-1-ranking",
-          "label": "확인한 기사 본문",
-          "kind": "source"
-        }
-      ],
-      "caution": "기사 본문 확인. 당사자 영상은 시청하지 않았으며 불화·경질로 단정하지 않음.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-06",
-        "observation": "본문에서 케이힐과의 동행 종료, 매그너스 노먼의 12/1 합류와 시모네 바뇨치 잔류, 함께한 메이저 5회 우승을 확인했다.",
-        "checked_materials": [],
-        "outline": [
-          "케이힐과 만든 메이저 5회 우승의 변화",
-          "12/1 노먼 합류와 바뇨치 협업 체제"
-        ]
-      }
-    },
-    {
-      "title": "트럼프, 백악관 비서실장 교체…와일스 후임에 스티븐 밀러",
-      "category": "시사",
-      "url": "https://abc17news.com/news/2026/11/06/stephen-miller-replacing-susie-wiles-as-chief-of-staff-trump-announces/",
-      "source": "CNN / ABC17",
-      "kind": "article",
-      "event_key": "trump-wiles-departure-stephen-miller-white-house-chief-staff-appointed-20261106",
-      "why": "중간선거 직후 백악관 운영 책임자가 강경 이민정책 설계자로 바뀌는 대형 권력 재편이다.",
-      "angle": "와일스 퇴장 → 밀러 승진 → 11/9부터 바뀌는 백악관 지휘부",
-      "why_now": "11/6 대통령 발표. CNN 재전송 기사 최초 19:11 UTC(11/7 04:11 KST). SNS 발표 자체의 최초 시각은 확인하지 못함.",
-      "verified_at": 1794034898,
-      "published_at": 1793992260,
-      "evidence": [
-        {
-          "url": "https://abc17news.com/news/2026/11/06/stephen-miller-replacing-susie-wiles-as-chief-of-staff-trump-announces/",
-          "note": "CNN 본문에서 대통령의 와일스 정치조직 이동·밀러 비서실장 임명 발표와 월요일 발효를 확인. 선거 탓이라는 해석과 대통령 부인은 구분했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://abc17news.com/news/2026/11/06/stephen-miller-replacing-susie-wiles-as-chief-of-staff-trump-announces/",
-          "label": "확인한 기사 본문",
-          "kind": "source"
-        }
-      ],
-      "caution": "대통령은 선거 때문이 아니라고 부인. 경질 동기·내부 갈등은 취재원 전언이며 확정 사실과 분리.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-06",
-        "observation": "CNN 본문에서 대통령의 와일스 정치조직 이동·밀러 비서실장 임명 발표와 월요일 발효를 확인. 선거 탓이라는 해석과 대통령 부인은 구분했다.",
-        "checked_materials": [],
-        "outline": [
-          "공식 발표된 인사와 11/9 발효",
-          "밀러의 기존 역할·와일스의 이동을 사실 중심으로 비교"
-        ]
-      }
-    },
-    {
-      "title": "파라과이 페냐 대통령 탄핵 파면…부통령 알리아나 대통령 취임",
-      "category": "시사",
-      "url": "https://www.senado.gov.py/index.php/menu-dircom/sub-menu-noticias-presidencia/pedro-alliana-juro-como-nuevo-presidente-de-la-republica.html",
-      "source": "파라과이 상원",
+      "title": "월드컵 결승 징계 항소 결과…파레데스 10경기 유지·몰리나는 4경기로",
+      "category": "축구",
+      "url": "https://www.afa.com.ar/es/posts/decisiones-de-la-camara-de-apelaciones-de-la-fifa",
+      "source": "아르헨티나축구협회 / TyC",
       "kind": "official",
-      "event_key": "paraguay-pena-impeached-removed-alliana-sworn-president-20261106",
-      "why": "사임 공방을 넘어 현직 대통령이 실제 교체되고 헌정 승계가 이뤄진 국가적 사건이다.",
-      "angle": "사임서 수리 지연에서 실제 탄핵·대통령 취임으로 바뀐 파라과이",
-      "why_now": "상원 공식 발표 11/6 현지 일자(시각 미제공). 11/5 사임·탄핵 심리 보류 발송과 달리 파면 완료·후임 취임이라는 새 확정 후속.",
-      "verified_at": 1794034900,
+      "event_key": "afa-fifa-appeal-paredes10-upheld-molina-reduced4-cas-plan-20261106",
+      "why": "월드컵 결승 사건의 징계가 재심에서도 유지·감경으로 갈려 대표팀 운영에 영향을 준다.",
+      "angle": "파레데스 10경기 유지와 몰리나 7→4경기 감경을 나란히",
+      "why_now": "11/6 AFA가 새 항소심 결정을 발표. 공식 원문은 날짜만 제공하며 최초 시각은 미확인. 여름 결승 사건을 오늘 일어난 일로 쓰지 않는다.",
+      "verified_at": 1794038491,
       "published_at": null,
       "evidence": [
         {
-          "url": "https://www.senado.gov.py/index.php/menu-dircom/sub-menu-noticias-presidencia/pedro-alliana-juro-como-nuevo-presidente-de-la-republica.html",
-          "note": "상원 본문에서 페냐 탄핵 파면 후 알리아나가 대통령 선서하고 2023~2028 임기 잔여 기간을 맡았음을 확인했다."
+          "url": "https://www.afa.com.ar/es/posts/decisiones-de-la-camara-de-apelaciones-de-la-fifa",
+          "note": "AFA는 몰리나 4경기 감경·파레데스와 협회 제재 유지, 이유서 확보 후 CAS 항소 계획을 발표. TyC 본문으로 파레데스 10경기·몰리나 종전 7경기를 교차 확인."
+        },
+        {
+          "url": "https://www.tycsports.com/seleccion-argentina/seleccion-argentina-paredes-molina-suspension-sancion-fifa-espana-final-mundial-id770730.html",
+          "note": "11/6 20:12 -03:00 기사 본문에서 파레데스 10경기 유지, 몰리나 7경기에서 4경기 감경을 확인."
         }
       ],
       "materials": [
         {
-          "url": "https://www.senado.gov.py/index.php/menu-dircom/sub-menu-noticias-presidencia/pedro-alliana-juro-como-nuevo-presidente-de-la-republica.html",
-          "label": "상원 공식 발표",
+          "url": "https://www.afa.com.ar/es/posts/decisiones-de-la-camara-de-apelaciones-de-la-fifa",
+          "label": "공식 발표",
           "kind": "source"
         }
       ],
-      "caution": "공식 게시 시각은 날짜 정밀도만 확인해 published_at=null. 탄핵 판단을 형사 유죄 확정으로 표현하지 않음.",
+      "caution": "공식 원문 벌금 표기에 중복 단위가 있어 금액은 제외. CAS 감형 확정 아님.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-06",
-        "observation": "상원 본문에서 페냐 탄핵 파면 후 알리아나가 대통령 선서하고 2023~2028 임기 잔여 기간을 맡았음을 확인했다.",
+        "observation": "AFA는 몰리나 4경기 감경·파레데스와 협회 제재 유지, 이유서 확보 후 CAS 항소 계획을 발표. TyC 본문으로 파레데스 10경기·몰리나 종전 7경기를 교차 확인.",
         "checked_materials": [],
         "outline": [
-          "페냐 파면과 알리아나 대통령 선서",
-          "잔여 임기와 부통령 안토니오 바리오스 선출"
+          "항소심의 서로 다른 두 결과",
+          "AFA의 이유서 요청과 CAS 재심 추진"
         ]
       }
     },
     {
-      "title": "어린이 190명 포함 191명 살인…케냐 종교집단 지도자에 징역 200년",
-      "category": "시사",
-      "url": "https://www.clickondetroit.com/news/world/2026/11/06/leader-of-kenyan-doomsday-cult-sentenced-to-200-years-in-prison/",
-      "source": "AP / ClickOnDetroit",
+      "title": "올림픽 금메달 뒤 2년여 공백…칼리프, 12월 15일 프로 데뷔 발표",
+      "category": "메이저 스포츠",
+      "url": "https://ultrasurfing.com/sports/olympic-champion-khelif-to-make-pro-boxing-debut-in-december/",
+      "source": "AFP / Ultrasurfing",
       "kind": "article",
-      "event_key": "kenya-paul-mackenzie-shakahola-191-murders-200-year-sentence-20261106",
-      "why": "집단 아사 참사에 대한 대규모 살인 형량 선고로 아동 보호와 국가 감시 실패를 묻는 중대한 후속이다.",
-      "angle": "어린이 190명·성인 1명 살인 판결에 내려진 200년형",
-      "why_now": "11/6 몸바사 고등법원 형량 선고. AP 기사 최초 11:52:08 UTC(20:52 KST), 14:19 수정과 구별. 10/19 유죄 판단 뒤 새 양형 결정.",
-      "verified_at": 1794034898,
-      "published_at": 1793965928,
+      "event_key": "imane-khelif-paris-dec15-pro-debut-sarabia-announced-20261106",
+      "why": "올림픽 금메달리스트가 장기 공백과 부상 연기 뒤 프로 전향 일정을 공개한 경력 전환이다.",
+      "angle": "올림픽 이후 공백 → 부상으로 미룬 데뷔 → 12/15 파리 복귀",
+      "why_now": "11/6 기자회견 발표. AFP 재전송 원문은 Nov 06 2026 일자만 확인해 최초 시각을 추정하지 않음. 국내 재보도는 11/7 09:59 KST.",
+      "verified_at": 1794038490,
+      "published_at": null,
       "evidence": [
         {
-          "url": "https://www.clickondetroit.com/news/world/2026/11/06/leader-of-kenyan-doomsday-cult-sentenced-to-200-years-in-prison/",
-          "note": "AP 본문에서 폴 매켄지의 191명 살인에 대한 200년형, 피해자 190명이 어린이인 사실과 변호인의 항소 착수를 확인했다."
+          "url": "https://ultrasurfing.com/sports/olympic-champion-khelif-to-make-pro-boxing-debut-in-december/",
+          "note": "AFP 본문에서 칼리프가 코치·프로모터와 함께 12/15 파리에서 클라리다 사라비아와 슈퍼웰터급 프로 데뷔전을 치른다고 발표한 사실을 확인했다."
+        },
+        {
+          "url": "https://sports.khan.co.kr/article/202611070959003",
+          "note": "국내 기사도 데뷔 날짜·상대·체급과 4월 훈련 부상으로 인한 연기를 확인. 성별·유전자 관련 미검증 주장은 소재에 사용하지 않음."
         }
       ],
       "materials": [
         {
-          "url": "https://www.clickondetroit.com/news/world/2026/11/06/leader-of-kenyan-doomsday-cult-sentenced-to-200-years-in-prison/",
+          "url": "https://ultrasurfing.com/sports/olympic-champion-khelif-to-make-pro-boxing-debut-in-december/",
           "label": "확인한 기사 본문",
           "kind": "source"
         }
       ],
-      "caution": "판결문·법정 영상은 직접 확인하지 않음. 항소 중이며 전체 발굴 시신 수를 이번 살인 유죄 인원으로 바꾸지 않음.",
+      "caution": "기자회견 영상은 미시청. 경기 개최·승리나 세계 타이틀 획득이 이미 이뤄진 것으로 쓰지 않음.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-06",
-        "observation": "AP 본문에서 폴 매켄지의 191명 살인에 대한 200년형, 피해자 190명이 어린이인 사실과 변호인의 항소 착수를 확인했다.",
+        "observation": "AFP 본문에서 칼리프가 코치·프로모터와 함께 12/15 파리에서 클라리다 사라비아와 슈퍼웰터급 프로 데뷔전을 치른다고 발표한 사실을 확인했다.",
         "checked_materials": [],
         "outline": [
-          "191명 살인에 대한 새 형량 선고",
-          "전체 발굴 피해자 수·별도 재판과 이번 사건 범위를 구분"
+          "12/15 파리 프로 데뷔 발표",
+          "4월 부상 연기와 올림픽 이후 공백을 짧게 설명"
+        ]
+      }
+    },
+    {
+      "title": "항공편 이어 방송사까지 폭발물 위협…아일랜드 RTE 대피·생방송 중단",
+      "category": "시사",
+      "url": "https://toronto.citynews.ca/2026/11/06/european-flights-and-broadcasters-are-targeted-with-another-wave-of-bomb-threats/",
+      "source": "AP / CityNews",
+      "kind": "article",
+      "event_key": "europe-broadcaster-bomb-threats-rte-evacuation-live-programming-disrupted-20261106",
+      "why": "유럽 여러 나라의 민간 기반시설을 겨냥한 위협이 방송사로 번져 실제 대피·편성 중단을 일으켰다.",
+      "angle": "RTE 대피·녹화 편성 전환 → Sky·NOVA도 위협 → 배후 미확인",
+      "why_now": "11/6 방송사 위협이라는 새 후속. 11/5 항공편 위협 발송과 구별. AP 기사 최초 11:13:28 UTC, 수정 20:16:59 UTC; 방송사 부분 최초 추가 시각은 미확인.",
+      "verified_at": 1794038493,
+      "published_at": 1793963608,
+      "evidence": [
+        {
+          "url": "https://toronto.citynews.ca/2026/11/06/european-flights-and-broadcasters-are-targeted-with-another-wave-of-bomb-threats/",
+          "note": "AP 본문에서 RTE 본사 대피와 생방송의 녹화 대체·수시간 뒤 복귀, Sky·불가리아 NOVA의 위협 수신을 확인. Sky·NOVA 방송은 유지됐다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://toronto.citynews.ca/2026/11/06/european-flights-and-broadcasters-are-targeted-with-another-wave-of-bomb-threats/",
+          "label": "확인한 기사 본문",
+          "kind": "source"
+        }
+      ],
+      "caution": "모든 방송이 중단된 것은 아님. 실제 폭발물·부상자 없고 국가·집단 배후도 확인되지 않음.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-06",
+        "observation": "AP 본문에서 RTE 본사 대피와 생방송의 녹화 대체·수시간 뒤 복귀, Sky·불가리아 NOVA의 위협 수신을 확인. Sky·NOVA 방송은 유지됐다.",
+        "checked_materials": [],
+        "outline": [
+          "방송사별 실제 피해 범위 비교",
+          "발견된 폭발물·부상자 없으며 배후 미확인 명시"
+        ]
+      }
+    },
+    {
+      "title": "OpenAI, 110억달러 신규 자금 확보 보도…기업가치 1조2500억달러",
+      "category": "시사",
+      "url": "https://www.marketscreener.com/news/openai-secures-11-billion-funding-at-1-25-trillion-valuation-bloomberg-news-reports-ce785fd2dc8bf622",
+      "source": "Reuters / MarketScreener",
+      "kind": "article",
+      "event_key": "openai-eleven-billion-funding-initial-close-1point25trillion-20261106",
+      "why": "대규모 AI 투자 경쟁에서 실제 조달과 평가액 조정이 함께 드러난 주요 산업 자금 조달 소식이다.",
+      "angle": "확보 보도된 110억달러와 전체 조달 목표를 분리해 보여주기",
+      "why_now": "11/6 신규 조달 보도. 선택한 Reuters 재전송 최초 메타데이터 21:09:27 UTC(11/7 06:09 KST). 페이지 수정 23:20 UTC를 최초로 바꾸지 않음.",
+      "verified_at": 1794038533,
+      "published_at": 1793999367,
+      "evidence": [
+        {
+          "url": "https://www.marketscreener.com/news/openai-secures-11-billion-funding-at-1-25-trillion-valuation-bloomberg-news-reports-ce785fd2dc8bf622",
+          "note": "Reuters 본문은 익명 소식통을 인용해 신규 110억달러 조달의 초기 마감과 1조2500억달러 평가를 보도. 초기 최대 300억달러 목표 전체의 완료는 아니다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.marketscreener.com/news/openai-secures-11-billion-funding-at-1-25-trillion-valuation-bloomberg-news-reports-ce785fd2dc8bf622",
+          "label": "확인한 기사 본문",
+          "kind": "source"
+        }
+      ],
+      "caution": "익명 소식통 보도로 회사 공식 확정 발표와 구별. 전체 라운드 완료·투자 성과를 단정하지 않음.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-06",
+        "observation": "Reuters 본문은 익명 소식통을 인용해 신규 110억달러 조달의 초기 마감과 1조2500억달러 평가를 보도. 초기 최대 300억달러 목표 전체의 완료는 아니다.",
+        "checked_materials": [],
+        "outline": [
+          "신규 110억달러 조달 보도와 평가액",
+          "이번 초기 마감과 남은 전체 라운드를 구분"
+        ]
+      }
+    },
+    {
+      "title": "FIFA 법무 수장 가르시아 퇴임…8년 이끈 규정·징계 조직 교체",
+      "category": "축구",
+      "url": "https://inside.fifa.com/legal/news/thanks-emilio-garcia-silvero-dedication-global-football",
+      "source": "FIFA / AP",
+      "kind": "official",
+      "event_key": "fifa-emilio-garcia-silvero-legal-compliance-departure-20261106",
+      "why": "세계 축구의 징계·이적 규정·계약 분쟁을 총괄한 핵심 부서 수장이 회장 선거 국면에서 떠난다.",
+      "angle": "8년 법무 수장 퇴임 → 규정·징계 조직의 업무 승계",
+      "why_now": "FIFA 11/6 13:45 게시 표시, 시간대 미표기라 epoch 추정 안 함. 회장 출마 보도와 다른 새 인사 발표.",
+      "verified_at": 1794038489,
+      "published_at": null,
+      "evidence": [
+        {
+          "url": "https://inside.fifa.com/legal/news/thanks-emilio-garcia-silvero-dedication-global-football",
+          "note": "FIFA 원문에서 가르시아 실베로의 퇴임·스페인 귀환 의사를 확인. AP는 얀 클라이너의 법무·컴플라이언스 임시 지휘를 보도했다."
+        },
+        {
+          "url": "https://medicinehatnews.com/sports/national-sports/2026/11/06/fifas-legal-head-garcia-leaves-as-infantino-faces-intense-presidential-reelection-campaign/",
+          "note": "AP 본문에서 법무 부서 관할과 얀 클라이너 임시 지휘를 확인. 논란과 퇴임의 인과는 공식 발표에 없음."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://inside.fifa.com/legal/news/thanks-emilio-garcia-silvero-dedication-global-football",
+          "label": "공식 발표",
+          "kind": "source"
+        }
+      ],
+      "caution": "퇴임을 월드컵 징계 의혹 인정·경질로 단정하지 않음.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-06",
+        "observation": "FIFA 원문에서 가르시아 실베로의 퇴임·스페인 귀환 의사를 확인. AP는 얀 클라이너의 법무·컴플라이언스 임시 지휘를 보도했다.",
+        "checked_materials": [],
+        "outline": [
+          "FIFA 공식 발표된 퇴임",
+          "후임 임시 지휘와 부서의 세계 축구 관할 범위"
         ]
       }
     },
@@ -231,14 +279,14 @@
       "kind": "article",
       "event_key": "manutd-baleba-hamstring-weeks-out-beyond-international-break-confirmed-20261106",
       "why": "리그 17위 맨유가 핵심 중원 없이 반등해야 하는 기간이 감독 설명으로 구체화됐다.",
-      "angle": "부상 발생에서 수주 결장 확정으로 → 휴식기 이후까지 남는 중원 공백",
-      "why_now": "11/6 캐릭 기자회견. Reuters 재전송 최초 14:37 UTC(23:37 KST). 11/3 부상 발생 보도와 달리 휴식기 이후까지 결장한다고 확인한 후속.",
-      "verified_at": 1794034900,
+      "angle": "부상 발생에서 수주 결장 확인으로 바뀐 복귀 전망",
+      "why_now": "11/6 캐릭 회견 새 후속. Reuters 재전송 최초 14:37 UTC. 11/3 발송된 부상 발생과 달리 A매치 휴식기를 넘어 결장한다고 확인.",
+      "verified_at": 1794038491,
       "published_at": 1793975820,
       "evidence": [
         {
           "url": "https://www.thestar.com.my/sport/football/2026/11/06/soccer-baleba-out-for-few-weeks-due-to-hamstring-injury-says-carrick",
-          "note": "Reuters 본문에서 캐릭이 발레바의 수주 이탈과 A매치 휴식기 내 복귀 불가를 확인. 부상은 11/3 로마전 햄스트링 문제다."
+          "note": "Reuters 본문에서 캐릭의 수주 이탈·A매치 휴식기 내 복귀 불가 발언을 확인. 부상은 11/3 로마전 햄스트링 문제다."
         }
       ],
       "materials": [
@@ -248,15 +296,15 @@
           "kind": "source"
         }
       ],
-      "caution": "정확한 복귀일·부상 등급은 미공개. 크리스마스 복귀설이나 특정 경기 결장 확정으로 확대하지 않음.",
+      "caution": "정확한 복귀일·등급 미공개. 크리스마스 복귀설이나 특정 경기 결장 확정으로 확대하지 않음.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-06",
-        "observation": "Reuters 본문에서 캐릭이 발레바의 수주 이탈과 A매치 휴식기 내 복귀 불가를 확인. 부상은 11/3 로마전 햄스트링 문제다.",
+        "observation": "Reuters 본문에서 캐릭의 수주 이탈·A매치 휴식기 내 복귀 불가 발언을 확인. 부상은 11/3 로마전 햄스트링 문제다.",
         "checked_materials": [],
         "outline": [
-          "캐릭이 확인한 복귀 범위",
-          "맨유 17위의 중원 공백과 향후 일정"
+          "캐릭이 확인한 결장 기간 범위",
+          "리그 17위 맨유의 중원 공백"
         ]
       }
     }
