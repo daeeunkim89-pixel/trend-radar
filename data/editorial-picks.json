@@ -1,232 +1,125 @@
 {
   "version": 2,
-  "hour_utc": "2026110708",
+  "hour_utc": "2026110709",
   "reviewer": "ChatGPT",
-  "generated_at": 1794038614,
+  "generated_at": 1794042131,
   "coverage": {
     "queries": [
-      "스포츠 주요 뉴스 2026 11 7 한국시리즈 4차전 결과",
-      "November 7 2026 major football sports news",
-      "November 7 2026 major world news election",
-      "2026 11 7 T1 4강 3-1",
-      "November 6, 2026 Garcia FIFA legal leaves",
-      "Imane Khelif 2026 December 15 professional",
-      "site.afa.com.ar 2026 noviembre Paredes Molina Apelaciones",
-      "November 6, 2026 Bomb threats television Europe",
-      "November 6, 2026 OpenAI 11 billion",
-      "site.instagram.com/bythepulse T1",
-      "site.instagram.com/bythepulse 칼리프",
-      "site.instagram.com/bythepulse 파레데스",
-      "site.instagram.com/bythepulse 가르시아 FIFA"
+      "2026 11 7 한국시리즈 4차전 삼성 KT 결과",
+      "2026 11 7 스포츠 주요 뉴스 확정",
+      "November 7 2026 world major news latest",
+      "November 6, 2026 Putin JTI",
+      "November 7, 2026 football news transfer injured",
+      "Osimhen surgery November 6, 2026",
+      "site.galatasaray.org Osimhen 6 Kasım 2026",
+      "가오진쑤메이 2026 11 6",
+      "November 6, 2026 Saka weeks Arteta",
+      "Japan Tobacco November 6, 2026 temporary statement",
+      "site.cna.com.tw 2026/11/06 高金素梅 14年",
+      "삼성 12년 만의 KS 우승까지 2026",
+      "site:instagram.com/bythepulse 오시멘",
+      "site:instagram.com/bythepulse 삼성 4차전",
+      "site:instagram.com/bythepulse 가오진쑤메이",
+      "site:instagram.com/bythepulse 일본 담배"
     ],
     "opened_urls": [
-      "https://www.osen.co.kr/article/G1112905749",
-      "https://sports.khan.co.kr/article/202611070959003",
-      "https://ultrasurfing.com/sports/olympic-champion-khelif-to-make-pro-boxing-debut-in-december/",
-      "https://www.afa.com.ar/es/posts/decisiones-de-la-camara-de-apelaciones-de-la-fifa",
-      "https://www.tycsports.com/seleccion-argentina/seleccion-argentina-paredes-molina-suspension-sancion-fifa-espana-final-mundial-id770730.html",
+      "https://www.osen.co.kr/article/G1112906021",
+      "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018400",
+      "https://punchng.com/osimhen-to-undergo-knee-surgery-miss-amed-clash/",
+      "https://gazeteoksijen.com/spor/galatasaraydan-osimhene-dair-sakatlik-aciklamasi-295263",
+      "https://www.ksat.com/business/2026/11/06/japan-protests-russian-takeover-of-japan-tobacco-subsidiaries-in-russia/",
+      "https://www.yna.co.kr/view/AKR20261106155200083",
+      "https://japan.focustaiwan.tw/society/202611060006",
       "https://inside.fifa.com/legal/news/thanks-emilio-garcia-silvero-dedication-global-football",
       "https://medicinehatnews.com/sports/national-sports/2026/11/06/fifas-legal-head-garcia-leaves-as-infantino-faces-intense-presidential-reelection-campaign/",
-      "https://toronto.citynews.ca/2026/11/06/european-flights-and-broadcasters-are-targeted-with-another-wave-of-bomb-threats/",
-      "https://www.marketscreener.com/news/openai-secures-11-billion-funding-at-1-25-trillion-valuation-bloomberg-news-reports-ce785fd2dc8bf622",
-      "https://www.thestar.com.my/sport/football/2026/11/06/soccer-baleba-out-for-few-weeks-due-to-hamstring-injury-says-carrick"
+      "https://www.thestar.com.my/sport/football/2026/11/06/soccer-baleba-out-for-few-weeks-due-to-hamstring-injury-says-carrick",
+      "https://www.aol.com/articles/bukayo-saka-injury-mikel-arteta-190534000.html"
     ],
     "unavailable": [
-      "Yahoo 기사 429로 독립 원문과 공식 발표로 전환",
-      "검색에서 실제 BTP 최근 게시물을 확인하지 못해 공개 게시 대조 범위에 한계"
+      "검색 도구에서 일부 국내 스포츠 기사 열람 불가: 같은 URL 반복 대신 수집 실행환경의 공개 본문을 확인",
+      "실제 BTP 게시 검색 결과 없음: 최근 공개 게시 대조 범위 제한"
     ]
   },
   "picks": [
     {
-      "title": "T1, KC 꺾고 6년 연속 월즈 4강…첫 4연패 도전 이어간다",
+      "title": "삼성, KT에 10대5 승리…12년 만의 한국시리즈 우승까지 1승",
       "category": "메이저 스포츠",
-      "url": "https://www.osen.co.kr/article/G1112905749",
-      "source": "OSEN",
+      "url": "https://www.osen.co.kr/article/G1112906021",
+      "source": "OSEN / SPOTV NEWS",
       "kind": "article",
-      "event_key": "t1-karmine-corp-3-1-worlds-quarterfinal-sixth-straight-semifinal-20261107",
-      "why": "세계대회 디펜딩 챔피언이 탈락전 관문을 통과해 BLG와 결승 진출을 다툰다.",
-      "angle": "KC에 3대1 승리 → 6년 연속 4강 → 다음 상대 BLG",
-      "why_now": "경기는 11/7 한국시간 종료. OSEN 본문 발행 11/7 11:45 KST를 확인했으며 중간 세트 스코어가 아닌 최종 승리다.",
-      "verified_at": 1794038490,
-      "published_at": 1794019500,
+      "event_key": "samsung-kt-korean-series-game4-10-5-three-one-title-one-win-away-20261107",
+      "why": "한국시리즈 판도가 3승1패로 기울어 삼성이 안방에서 우승을 끝낼 기회를 잡았다.",
+      "angle": "1패 뒤 3연승 → 10대5 최종 결과 → 우승까지 남은 1승",
+      "why_now": "11/7 한국시리즈 4차전 종료 결과. OSEN 최초 발행 17:18 KST, SPOTV 17:23 교차 확인. 앞서 발송된 3차전 결과와 구별.",
+      "verified_at": 1794042033,
+      "published_at": 1794039480,
       "evidence": [
         {
-          "url": "https://www.osen.co.kr/article/G1112905749",
-          "note": "본문에서 T1의 KC전 세트 3-1 승리, 6년 연속 월즈 4강 진출 및 11/9 BLG와의 준결승을 확인했다."
+          "url": "https://www.osen.co.kr/article/G1112906021",
+          "note": "OSEN 본문에서 삼성의 4차전 10-5 승리와 시리즈 3승1패를 확인. SPOTV도 같은 결과와 2014년 이후 12년 만의 KS 우승까지 1승 남은 사실을 보도."
+        },
+        {
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018400",
+          "note": "17:23 기사 본문에서 10-5 최종 승리, 1차전 패배 뒤 3연승, 11/8 오후 2시 5차전을 교차 확인."
         }
       ],
       "materials": [
         {
-          "url": "https://www.osen.co.kr/article/G1112905749",
+          "url": "https://www.osen.co.kr/article/G1112906021",
           "label": "확인한 기사 본문",
           "kind": "source"
         }
       ],
-      "caution": "기사 본문 확인. 경기 영상은 시청하지 않았고 4연패 달성으로 표현하지 않음.",
+      "caution": "기사 본문으로 확인. 경기 영상은 미시청이며 우승 확정·공식 실책으로 확대하지 않음.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-07",
-        "observation": "본문에서 T1의 KC전 세트 3-1 승리, 6년 연속 월즈 4강 진출 및 11/9 BLG와의 준결승을 확인했다.",
+        "observation": "OSEN 본문에서 삼성의 4차전 10-5 승리와 시리즈 3승1패를 확인. SPOTV도 같은 결과와 2014년 이후 12년 만의 KS 우승까지 1승 남은 사실을 보도.",
         "checked_materials": [],
         "outline": [
-          "8강 최종 결과와 6년 연속 4강",
-          "BLG전 대진과 4연패 도전의 남은 관문"
+          "4차전 최종 결과·시리즈 전적",
+          "11/8 5차전에서 우승 마무리 가능한 상황"
         ]
       }
     },
     {
-      "title": "월드컵 결승 징계 항소 결과…파레데스 10경기 유지·몰리나는 4경기로",
+      "title": "갈라타사라이 오시멘 무릎 수술 예정…구단, 아메드전 제외 발표",
       "category": "축구",
-      "url": "https://www.afa.com.ar/es/posts/decisiones-de-la-camara-de-apelaciones-de-la-fifa",
-      "source": "아르헨티나축구협회 / TyC",
-      "kind": "official",
-      "event_key": "afa-fifa-appeal-paredes10-upheld-molina-reduced4-cas-plan-20261106",
-      "why": "월드컵 결승 사건의 징계가 재심에서도 유지·감경으로 갈려 대표팀 운영에 영향을 준다.",
-      "angle": "파레데스 10경기 유지와 몰리나 7→4경기 감경을 나란히",
-      "why_now": "11/6 AFA가 새 항소심 결정을 발표. 공식 원문은 날짜만 제공하며 최초 시각은 미확인. 여름 결승 사건을 오늘 일어난 일로 쓰지 않는다.",
-      "verified_at": 1794038491,
-      "published_at": null,
+      "url": "https://gazeteoksijen.com/spor/galatasaraydan-osimhene-dair-sakatlik-aciklamasi-295263",
+      "source": "Gazete Oksijen / PUNCH",
+      "kind": "article",
+      "event_key": "galatasaray-osimhen-left-knee-arthroscopy-planned-amed-squad-excluded-20261106",
+      "why": "주포의 수술 결정으로 갈라타사라이 공격진과 나이지리아 대표팀의 전력 운용에 공백이 생긴다.",
+      "angle": "왼쪽 무릎 검사 결과 → 관절경 수술 계획 → 경기 명단 제외",
+      "why_now": "11/6 구단 새 의료 발표. 선택한 원문 최초 19:07 튀르키예 시간(16:07 UTC); 19:10 수정과 구별. 부상 발생 경기와 수술 계획 발표일은 다름.",
+      "verified_at": 1794041997,
+      "published_at": 1793981220,
       "evidence": [
         {
-          "url": "https://www.afa.com.ar/es/posts/decisiones-de-la-camara-de-apelaciones-de-la-fifa",
-          "note": "AFA는 몰리나 4경기 감경·파레데스와 협회 제재 유지, 이유서 확보 후 CAS 항소 계획을 발표. TyC 본문으로 파레데스 10경기·몰리나 종전 7경기를 교차 확인."
+          "url": "https://gazeteoksijen.com/spor/galatasaraydan-osimhene-dair-sakatlik-aciklamasi-295263",
+          "note": "기사에 인용된 구단 의료 발표에서 슈투트가르트전 왼쪽 무릎 손상·MRI상 유리체 확인 후 11/7 관절경 수술 계획과 아메드전 명단 제외를 확인."
         },
         {
-          "url": "https://www.tycsports.com/seleccion-argentina/seleccion-argentina-paredes-molina-suspension-sancion-fifa-espana-final-mundial-id770730.html",
-          "note": "11/6 20:12 -03:00 기사 본문에서 파레데스 10경기 유지, 몰리나 7경기에서 4경기 감경을 확인."
+          "url": "https://punchng.com/osimhen-to-undergo-knee-surgery-miss-amed-clash/",
+          "note": "PUNCH도 11/6 구단 발표를 인용해 11/7 수술 예정과 아메드전 결장을 확인. 복귀 일정은 이후 발표를 기다리는 상태."
         }
       ],
       "materials": [
         {
-          "url": "https://www.afa.com.ar/es/posts/decisiones-de-la-camara-de-apelaciones-de-la-fifa",
-          "label": "공식 발표",
-          "kind": "source"
-        }
-      ],
-      "caution": "공식 원문 벌금 표기에 중복 단위가 있어 금액은 제외. CAS 감형 확정 아님.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-06",
-        "observation": "AFA는 몰리나 4경기 감경·파레데스와 협회 제재 유지, 이유서 확보 후 CAS 항소 계획을 발표. TyC 본문으로 파레데스 10경기·몰리나 종전 7경기를 교차 확인.",
-        "checked_materials": [],
-        "outline": [
-          "항소심의 서로 다른 두 결과",
-          "AFA의 이유서 요청과 CAS 재심 추진"
-        ]
-      }
-    },
-    {
-      "title": "올림픽 금메달 뒤 2년여 공백…칼리프, 12월 15일 프로 데뷔 발표",
-      "category": "메이저 스포츠",
-      "url": "https://ultrasurfing.com/sports/olympic-champion-khelif-to-make-pro-boxing-debut-in-december/",
-      "source": "AFP / Ultrasurfing",
-      "kind": "article",
-      "event_key": "imane-khelif-paris-dec15-pro-debut-sarabia-announced-20261106",
-      "why": "올림픽 금메달리스트가 장기 공백과 부상 연기 뒤 프로 전향 일정을 공개한 경력 전환이다.",
-      "angle": "올림픽 이후 공백 → 부상으로 미룬 데뷔 → 12/15 파리 복귀",
-      "why_now": "11/6 기자회견 발표. AFP 재전송 원문은 Nov 06 2026 일자만 확인해 최초 시각을 추정하지 않음. 국내 재보도는 11/7 09:59 KST.",
-      "verified_at": 1794038490,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://ultrasurfing.com/sports/olympic-champion-khelif-to-make-pro-boxing-debut-in-december/",
-          "note": "AFP 본문에서 칼리프가 코치·프로모터와 함께 12/15 파리에서 클라리다 사라비아와 슈퍼웰터급 프로 데뷔전을 치른다고 발표한 사실을 확인했다."
-        },
-        {
-          "url": "https://sports.khan.co.kr/article/202611070959003",
-          "note": "국내 기사도 데뷔 날짜·상대·체급과 4월 훈련 부상으로 인한 연기를 확인. 성별·유전자 관련 미검증 주장은 소재에 사용하지 않음."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://ultrasurfing.com/sports/olympic-champion-khelif-to-make-pro-boxing-debut-in-december/",
+          "url": "https://gazeteoksijen.com/spor/galatasaraydan-osimhene-dair-sakatlik-aciklamasi-295263",
           "label": "확인한 기사 본문",
           "kind": "source"
         }
       ],
-      "caution": "기자회견 영상은 미시청. 경기 개최·승리나 세계 타이틀 획득이 이미 이뤄진 것으로 쓰지 않음.",
+      "caution": "11/6 발표한 수술 예정 소식. 수술 성공·장기 이탈 기간은 미확인.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-06",
-        "observation": "AFP 본문에서 칼리프가 코치·프로모터와 함께 12/15 파리에서 클라리다 사라비아와 슈퍼웰터급 프로 데뷔전을 치른다고 발표한 사실을 확인했다.",
+        "observation": "기사에 인용된 구단 의료 발표에서 슈투트가르트전 왼쪽 무릎 손상·MRI상 유리체 확인 후 11/7 관절경 수술 계획과 아메드전 명단 제외를 확인.",
         "checked_materials": [],
         "outline": [
-          "12/15 파리 프로 데뷔 발표",
-          "4월 부상 연기와 올림픽 이후 공백을 짧게 설명"
-        ]
-      }
-    },
-    {
-      "title": "항공편 이어 방송사까지 폭발물 위협…아일랜드 RTE 대피·생방송 중단",
-      "category": "시사",
-      "url": "https://toronto.citynews.ca/2026/11/06/european-flights-and-broadcasters-are-targeted-with-another-wave-of-bomb-threats/",
-      "source": "AP / CityNews",
-      "kind": "article",
-      "event_key": "europe-broadcaster-bomb-threats-rte-evacuation-live-programming-disrupted-20261106",
-      "why": "유럽 여러 나라의 민간 기반시설을 겨냥한 위협이 방송사로 번져 실제 대피·편성 중단을 일으켰다.",
-      "angle": "RTE 대피·녹화 편성 전환 → Sky·NOVA도 위협 → 배후 미확인",
-      "why_now": "11/6 방송사 위협이라는 새 후속. 11/5 항공편 위협 발송과 구별. AP 기사 최초 11:13:28 UTC, 수정 20:16:59 UTC; 방송사 부분 최초 추가 시각은 미확인.",
-      "verified_at": 1794038493,
-      "published_at": 1793963608,
-      "evidence": [
-        {
-          "url": "https://toronto.citynews.ca/2026/11/06/european-flights-and-broadcasters-are-targeted-with-another-wave-of-bomb-threats/",
-          "note": "AP 본문에서 RTE 본사 대피와 생방송의 녹화 대체·수시간 뒤 복귀, Sky·불가리아 NOVA의 위협 수신을 확인. Sky·NOVA 방송은 유지됐다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://toronto.citynews.ca/2026/11/06/european-flights-and-broadcasters-are-targeted-with-another-wave-of-bomb-threats/",
-          "label": "확인한 기사 본문",
-          "kind": "source"
-        }
-      ],
-      "caution": "모든 방송이 중단된 것은 아님. 실제 폭발물·부상자 없고 국가·집단 배후도 확인되지 않음.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-06",
-        "observation": "AP 본문에서 RTE 본사 대피와 생방송의 녹화 대체·수시간 뒤 복귀, Sky·불가리아 NOVA의 위협 수신을 확인. Sky·NOVA 방송은 유지됐다.",
-        "checked_materials": [],
-        "outline": [
-          "방송사별 실제 피해 범위 비교",
-          "발견된 폭발물·부상자 없으며 배후 미확인 명시"
-        ]
-      }
-    },
-    {
-      "title": "OpenAI, 110억달러 신규 자금 확보 보도…기업가치 1조2500억달러",
-      "category": "시사",
-      "url": "https://www.marketscreener.com/news/openai-secures-11-billion-funding-at-1-25-trillion-valuation-bloomberg-news-reports-ce785fd2dc8bf622",
-      "source": "Reuters / MarketScreener",
-      "kind": "article",
-      "event_key": "openai-eleven-billion-funding-initial-close-1point25trillion-20261106",
-      "why": "대규모 AI 투자 경쟁에서 실제 조달과 평가액 조정이 함께 드러난 주요 산업 자금 조달 소식이다.",
-      "angle": "확보 보도된 110억달러와 전체 조달 목표를 분리해 보여주기",
-      "why_now": "11/6 신규 조달 보도. 선택한 Reuters 재전송 최초 메타데이터 21:09:27 UTC(11/7 06:09 KST). 페이지 수정 23:20 UTC를 최초로 바꾸지 않음.",
-      "verified_at": 1794038533,
-      "published_at": 1793999367,
-      "evidence": [
-        {
-          "url": "https://www.marketscreener.com/news/openai-secures-11-billion-funding-at-1-25-trillion-valuation-bloomberg-news-reports-ce785fd2dc8bf622",
-          "note": "Reuters 본문은 익명 소식통을 인용해 신규 110억달러 조달의 초기 마감과 1조2500억달러 평가를 보도. 초기 최대 300억달러 목표 전체의 완료는 아니다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.marketscreener.com/news/openai-secures-11-billion-funding-at-1-25-trillion-valuation-bloomberg-news-reports-ce785fd2dc8bf622",
-          "label": "확인한 기사 본문",
-          "kind": "source"
-        }
-      ],
-      "caution": "익명 소식통 보도로 회사 공식 확정 발표와 구별. 전체 라운드 완료·투자 성과를 단정하지 않음.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-06",
-        "observation": "Reuters 본문은 익명 소식통을 인용해 신규 110억달러 조달의 초기 마감과 1조2500억달러 평가를 보도. 초기 최대 300억달러 목표 전체의 완료는 아니다.",
-        "checked_materials": [],
-        "outline": [
-          "신규 110억달러 조달 보도와 평가액",
-          "이번 초기 마감과 남은 전체 라운드를 구분"
+          "구단이 발표한 수술 계획·경기 제외",
+          "복귀일은 아직 공개되지 않았음을 구분"
         ]
       }
     },
@@ -239,8 +132,8 @@
       "event_key": "fifa-emilio-garcia-silvero-legal-compliance-departure-20261106",
       "why": "세계 축구의 징계·이적 규정·계약 분쟁을 총괄한 핵심 부서 수장이 회장 선거 국면에서 떠난다.",
       "angle": "8년 법무 수장 퇴임 → 규정·징계 조직의 업무 승계",
-      "why_now": "FIFA 11/6 13:45 게시 표시, 시간대 미표기라 epoch 추정 안 함. 회장 출마 보도와 다른 새 인사 발표.",
-      "verified_at": 1794038489,
+      "why_now": "FIFA 공식 11/6 13:45 표시, 시간대 미표기라 epoch 추정 안 함. 인판티노 회장 선거 출마 보도와 다른 새 인사 발표.",
+      "verified_at": 1794041993,
       "published_at": null,
       "evidence": [
         {
@@ -249,7 +142,7 @@
         },
         {
           "url": "https://medicinehatnews.com/sports/national-sports/2026/11/06/fifas-legal-head-garcia-leaves-as-infantino-faces-intense-presidential-reelection-campaign/",
-          "note": "AP 본문에서 법무 부서 관할과 얀 클라이너 임시 지휘를 확인. 논란과 퇴임의 인과는 공식 발표에 없음."
+          "note": "AP 본문에서 징계·이적·계약 분쟁 관할과 얀 클라이너 임시 지휘를 확인. 논란과 퇴임의 인과는 공식 발표에 없음."
         }
       ],
       "materials": [
@@ -266,8 +159,86 @@
         "observation": "FIFA 원문에서 가르시아 실베로의 퇴임·스페인 귀환 의사를 확인. AP는 얀 클라이너의 법무·컴플라이언스 임시 지휘를 보도했다.",
         "checked_materials": [],
         "outline": [
-          "FIFA 공식 발표된 퇴임",
+          "FIFA가 공식 발표한 퇴임",
           "후임 임시 지휘와 부서의 세계 축구 관할 범위"
+        ]
+      }
+    },
+    {
+      "title": "러시아, 日 JT 자회사 4곳 임시 관리…일본 정부 “즉각 철회하라”",
+      "category": "시사",
+      "url": "https://www.ksat.com/business/2026/11/06/japan-protests-russian-takeover-of-japan-tobacco-subsidiaries-in-russia/",
+      "source": "AP / KSAT",
+      "kind": "article",
+      "event_key": "japan-tobacco-four-russian-subsidiaries-temporary-control-japan-protest-20261106",
+      "why": "러시아가 일본 대기업의 현지 경영권에 개입해 정부 간 외교·기업 자산 분쟁으로 번졌다.",
+      "angle": "4개 제조 자회사 경영 통제 → 일본 정부 항의·철회 요구",
+      "why_now": "11/5 대통령령 뒤 11/6 JT 확인·일본 정부 항의라는 후속. AP 기사 최초 11/6 11:58:12 UTC, 12:21 수정과 구별. 미발송 24시간 범위.",
+      "verified_at": 1794041996,
+      "published_at": 1793966292,
+      "evidence": [
+        {
+          "url": "https://www.ksat.com/business/2026/11/06/japan-protests-russian-takeover-of-japan-tobacco-subsidiaries-in-russia/",
+          "note": "AP 본문에서 JT 제조 자회사 4곳에 러시아 기업의 임시 관리가 적용됐다는 회사 성명과 일본 정부의 항의·즉각 철회 요구를 확인했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.ksat.com/business/2026/11/06/japan-protests-russian-takeover-of-japan-tobacco-subsidiaries-in-russia/",
+          "label": "확인한 기사 본문",
+          "kind": "source"
+        }
+      ],
+      "caution": "임시 경영 관리이며 소유권 영구 박탈·전체 자산 상실로 단정하지 않음.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-06",
+        "observation": "AP 본문에서 JT 제조 자회사 4곳에 러시아 기업의 임시 관리가 적용됐다는 회사 성명과 일본 정부의 항의·즉각 철회 요구를 확인했다.",
+        "checked_materials": [],
+        "outline": [
+          "임시 관리 대상 4개 자회사와 정부 대응",
+          "기업이 영향 평가 중이라는 확인 범위"
+        ]
+      }
+    },
+    {
+      "title": "대만 7선 의원, 中자금 수수 혐의 기소…검찰 징역 14년 구형",
+      "category": "시사",
+      "url": "https://japan.focustaiwan.tw/society/202611060006",
+      "source": "대만 중앙사 CNA / 연합뉴스",
+      "kind": "article",
+      "event_key": "taiwan-kao-chin-su-mei-china-funding-indicted-fourteen-year-demand-20261106",
+      "why": "현역 다선 의원이 외부 자금으로 국방·외교 의정에 개입했다는 기소로 대만의 안보·정치 신뢰에 직결된다.",
+      "angle": "1억7천만 대만달러 자금 혐의 → 14년 구형 → 의원의 전면 부인",
+      "why_now": "11/6 새 기소·구형. CNA 일본어판 최초 16:32 UTC+8(17:32 KST), 중문 최초 시각은 미확인. 국내 최초 기사 17:11 KST. 미발송 48시간 범위로 확장.",
+      "verified_at": 1794041996,
+      "published_at": 1793953920,
+      "evidence": [
+        {
+          "url": "https://japan.focustaiwan.tw/society/202611060006",
+          "note": "CNA 본문에서 고등검찰서의 가오진쑤메이 기소·14년 구형, 1억7천만 대만달러 수수 혐의와 의원의 자금 수수·중국 지시 부인을 확인했다."
+        },
+        {
+          "url": "https://www.yna.co.kr/view/AKR20261106155200083",
+          "note": "연합뉴스도 국가안전법·뇌물수수 혐의와 14년 구형, 약 70억원 규모 및 의원의 전면 부인을 교차 확인."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://japan.focustaiwan.tw/society/202611060006",
+          "label": "확인한 기사 본문",
+          "kind": "source"
+        }
+      ],
+      "caution": "검찰 구형 단계로 유죄·간첩 확정이나 14년형 선고로 쓰지 않음.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-06",
+        "observation": "CNA 본문에서 고등검찰서의 가오진쑤메이 기소·14년 구형, 1억7천만 대만달러 수수 혐의와 의원의 자금 수수·중국 지시 부인을 확인했다.",
+        "checked_materials": [],
+        "outline": [
+          "검찰의 기소·구형과 문제 삼은 의정활동",
+          "피고인의 혐의 부인·재판 판단은 미확정"
         ]
       }
     },
@@ -281,7 +252,7 @@
       "why": "리그 17위 맨유가 핵심 중원 없이 반등해야 하는 기간이 감독 설명으로 구체화됐다.",
       "angle": "부상 발생에서 수주 결장 확인으로 바뀐 복귀 전망",
       "why_now": "11/6 캐릭 회견 새 후속. Reuters 재전송 최초 14:37 UTC. 11/3 발송된 부상 발생과 달리 A매치 휴식기를 넘어 결장한다고 확인.",
-      "verified_at": 1794038491,
+      "verified_at": 1794041996,
       "published_at": 1793975820,
       "evidence": [
         {
@@ -296,7 +267,7 @@
           "kind": "source"
         }
       ],
-      "caution": "정확한 복귀일·등급 미공개. 크리스마스 복귀설이나 특정 경기 결장 확정으로 확대하지 않음.",
+      "caution": "정확한 복귀일·등급 미공개. 특정 경기 결장 확정으로 확대하지 않음.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-06",
@@ -305,6 +276,43 @@
         "outline": [
           "캐릭이 확인한 결장 기간 범위",
           "리그 17위 맨유의 중원 공백"
+        ]
+      }
+    },
+    {
+      "title": "아르테타 “사카 복귀까지 수주”…A매치 휴식기 뒤 회복 단계 재평가",
+      "category": "축구",
+      "url": "https://www.aol.com/articles/bukayo-saka-injury-mikel-arteta-190534000.html",
+      "source": "USA TODAY / AOL",
+      "kind": "article",
+      "event_key": "arsenal-saka-quad-weeks-out-post-break-recovery-update-20261106",
+      "why": "아스널이 맨시티·토트넘·레알과의 빅매치를 앞둔 가운데 핵심 공격수의 복귀가 여전히 불투명하다.",
+      "angle": "부상 직후 예상과 분리한 감독의 새 설명 → 휴식기 뒤 훈련 경과 확인",
+      "why_now": "11/6 아르테타 기자회견. USA TODAY 재전송 최초 19:05:34 UTC. 10/21 부상 발생을 새 사건으로 바꾸지 않고 복귀 전망 후속만 검토.",
+      "verified_at": 1794041995,
+      "published_at": 1793991934,
+      "evidence": [
+        {
+          "url": "https://www.aol.com/articles/bukayo-saka-injury-mikel-arteta-190534000.html",
+          "note": "USA TODAY 본문에서 사카의 복귀까지 수주가 남고 휴식기 뒤 활동을 늘려 상태를 보겠다는 아르테타 설명을 확인. 정확한 복귀일은 제시하지 않았다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.aol.com/articles/bukayo-saka-injury-mikel-arteta-190534000.html",
+          "label": "확인한 기사 본문",
+          "kind": "source"
+        }
+      ],
+      "caution": "맨시티·토트넘·레알전 결장 확정이 아님. 경기·회견 영상 미시청.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-06",
+        "observation": "USA TODAY 본문에서 사카의 복귀까지 수주가 남고 휴식기 뒤 활동을 늘려 상태를 보겠다는 아르테타 설명을 확인. 정확한 복귀일은 제시하지 않았다.",
+        "checked_materials": [],
+        "outline": [
+          "감독이 확인한 회복 단계",
+          "휴식기 뒤 빅매치 일정과 미정인 복귀일"
         ]
       }
     }
