@@ -1,5 +1,5 @@
 {
-  "updated_at": 1794053389,
+  "updated_at": 1794056966,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026110712",
+    "hour_utc": "2026110713",
     "category_counts": {
       "시사": 2,
-      "축구": 1,
-      "메이저 스포츠": 2,
+      "축구": 0,
+      "메이저 스포츠": 3,
       "아이돌": 0
     },
-    "research_queries": 14,
-    "opened_sources": 8,
+    "research_queries": 10,
+    "opened_sources": 7,
     "picks": [
       {
-        "title": "디플러스 기아, BLG에 0대3…롤드컵 8강에서 도전 끝",
-        "url": "https://www.inven.co.kr/webzine/news/?iskin=alphascan&news=323060",
-        "event_key": "dplus-kia-bilibili-gaming-0-3-worlds-quarterfinal-elimination-20261106"
+        "title": "대학 선수의 5번째 시즌, 법원이 제동…NCAA 가처분 뒤집혔다",
+        "url": "https://law.justia.com/cases/federal/appellate-courts/ca10/26-1309/26-1309-2026-11-06.html",
+        "event_key": "ncaa-wisne-fifth-season-injunction-reversed-20261106"
       },
       {
-        "title": "주전·백업 QB 부상에 레이븐스 결단…브리셋 트레이드 완료",
-        "url": "https://www.baltimoreravens.com/news/jacoby-brissett-ravens-trade-cardinals-finalize-2026",
-        "event_key": "ravens-finalize-jacoby-brissett-trade-cardinals-quarterback-injury-crisis-20261106"
+        "title": "복귀하려는 아이유크에게 NFL “보너스 약 1,300만 달러 돌려줘야”",
+        "url": "https://www.ksl.com/article/51644231/nfl-tells-brandon-aiyuk-he-owes-the-49ers-about-13m-ap-source-says",
+        "event_key": "brandon-aiyuk-nfl-thirteen-million-bonus-repayment-letter-20261105"
       },
       {
-        "title": "오시멘, 무릎 수술 성공 발표…갈라타사라이 “매일 경과 관찰”",
-        "url": "https://www.galatasaray.org/haber/futbol/acibadem-saglik-raporu/acibadem-saglik-raporu/61333",
-        "event_key": "galatasaray-osimhen-successful-knee-operation-completed-20261107"
+        "title": "산탄데르의 반무슬림 게시물 논란…토론토 “구단 가치와 다르다”",
+        "url": "https://toronto.citynews.ca/2026/11/05/blue-jays-distance-themselves-from-players-islamophobic-social-media-posts/",
+        "event_key": "blue-jays-santander-anti-muslim-posts-club-response-20261105"
       },
       {
-        "title": "콩고 무장 공격에 최소33명 사망…에볼라 환자도 병원서 대피",
-        "url": "https://www.aol.com/articles/islamist-militants-force-ebola-patients-161846000.html",
-        "event_key": "cantine-adf-raid-33-killed-ebola-confirmed-suspected-patients-flee-20261106"
+        "title": "중국 우주정거장에 첫 외국인 우주인…파키스탄의 선저우24 합류 발표",
+        "url": "https://english.news.cn/20261107/23518c1d0bc3436ba9e03571f1db6537/c.html",
+        "event_key": "china-shenzhou24-pakistani-payload-specialist-announcement-20261107"
       },
       {
-        "title": "백악관 인근서 총기3정 소지 남성 체포…당국 “트럼프 살해 위협”",
-        "url": "https://www.clickorlando.com/news/politics/2026/11/07/secret-service-arrests-man-near-white-house-after-he-said-he-heard-voices-telling-him-to-kill-trump/",
-        "event_key": "white-house-armed-suspect-three-firearms-trump-threat-arrest-disclosed-20261106"
+        "title": "마이크로소프트 데이터센터 공사장 점거…유럽으로 번진 AI 인프라 반발",
+        "url": "https://mynorthwest.com/national/protester-microsoft-amsterdam/4295905",
+        "event_key": "amsterdam-microsoft-datacenter-site-occupation-20261106"
       }
     ]
   }
