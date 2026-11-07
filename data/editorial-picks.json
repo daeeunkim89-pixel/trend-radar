@@ -1,266 +1,271 @@
 {
   "version": 2,
-  "hour_utc": "2026110713",
+  "hour_utc": "2026110714",
   "reviewer": "ChatGPT",
-  "generated_at": 1794056895,
+  "generated_at": 1794060074,
   "coverage": {
     "queries": [
-      "November 7 2026 sports NCAA court five year rule Aiyuk 13 million NFL",
-      "November 7 2026 ice hockey Russia return boycott world championship",
-      "November 7 2026 football major news confirmed suspension injury contract",
-      "November 7 2026 Pakistani astronaut first foreign China space station official",
-      "Federal appeals court NCAA November 6 2026",
-      "Blue Jays Santander anti-Muslim 2026",
-      "November 7 2026 major world news Microsoft data center protesters",
-      "Pakistani astronaut November 7 2026 Xinhua",
-      "NFL tells Brandon Aiyuk 13 million",
-      "Qatar significant progress Iran US mediation November 7 2026"
+      "November 7 2026 football major news suspension manager injury confirmed",
+      "November 7 2026 sports breaking world news Saturday NBA tennis football",
+      "2026년 11월 7일 스포츠 주요 뉴스 우승 징계 감독",
+      "November 7 2026 world news Reuters latest Saturday",
+      "November 7 2026 Kompany surgery Aaron Danks Bayern absence",
+      "November 7 2026 rugby league World Cup New Zealand final hat trick",
+      "November 7 2026 Reuters Indonesia police wiretapped Prabowo",
+      "November 6 2026 November 7 2026 sports doping suspension ban official",
+      "November 7 2026 F1 major news Brazil qualifying penalty",
+      "November 7 2026 Reuters sports FIFA ban World Cup court",
+      "Belarus IIHF November 7 2026",
+      "Indonesia fourth wiretapping November 6 2026",
+      "국립암센터 217 2026 11",
+      "November 7 2026 North Korea U17 women World Cup third place result",
+      "November 7 2026 Health Canada peptides bacteria",
+      "site.recalls-rappels.canada.ca 2026-11 peptides",
+      "site.iihf.com 2026 Belarus November excluded 2027",
+      "November 6 2026 November 7 2026 Haas Ocon parted ways Camara official"
     ],
     "opened_urls": [
-      "https://law.justia.com/cases/federal/appellate-courts/ca10/26-1309/26-1309-2026-11-06.html",
-      "https://www.ksl.com/article/51644231/nfl-tells-brandon-aiyuk-he-owes-the-49ers-about-13m-ap-source-says",
-      "https://toronto.citynews.ca/2026/11/05/blue-jays-distance-themselves-from-players-islamophobic-social-media-posts/",
-      "https://english.news.cn/20261107/23518c1d0bc3436ba9e03571f1db6537/c.html",
-      "https://mynorthwest.com/national/protester-microsoft-amsterdam/4295905",
+      "https://www.nrl.com/news/2026/11/07/kiwis-bluster-past-tonga-to-set-up-world-cup-final-spot/",
+      "https://www.iihf.com/en/news/76810/iihf_statement_on_belarus_and_russia",
+      "https://recalls-rappels.canada.ca/en/alert-recall/health-canada-warns-about-contaminated-unauthorized-injectable-peptides-and-non",
+      "https://www.aol.com/articles/indonesia-names-fourth-senior-police-043430000.html",
       "https://www.internazionale.it/ultime-notizie-reuters/2026/11/07/qatar-says-its-mediation-efforts-between-us-and-iran-continue-to-prevent-escalation",
-      "https://www.forbes.com/sites/peterchawaga/2026/11/05/blue-jays-respond-to-anthony-santanders-anti-muslim-social-media-posts/"
+      "https://aapnews.aap.com.au/news/hat-trick-hero-helps-kiwis-secure-world-cup-final-spot"
     ],
     "unavailable": [
-      "ABC/AP 원문 일부 열람 오류: 접근 가능한 정식 전재 본문으로 확인",
-      "Yahoo 열람429: KSL AP 전재 본문으로 전환",
-      "펨코 직접·네이버 스포츠 영상 수집 부분 실패"
+      "Reuters 직접 본문401: 접근 가능한 Reuters 정식 전재와 IIHF 원문으로 확인",
+      "수집 부분 실패: 펨코 직접·국내외축구·네이버 스포츠 영상",
+      "국립암센터217명 소식은10/20 자료로 확인해48시간 초과 제외",
+      "U17 여자월드컵3위전은 경기 전 자료·과거 결과 혼재로 제외",
+      "오콘 교체는11/3 원 발표로48시간 초과 제외"
     ]
   },
   "picks": [
     {
-      "title": "대학 선수의 5번째 시즌, 법원이 제동…NCAA 가처분 뒤집혔다",
+      "title": "뉴질랜드, 통가 꺾고 13년 만에 럭비리그 월드컵 결승 진출",
       "category": "메이저 스포츠",
-      "url": "https://law.justia.com/cases/federal/appellate-courts/ca10/26-1309/26-1309-2026-11-06.html",
-      "source": "미 제10항소법원·Justia",
+      "url": "https://www.nrl.com/news/2026/11/07/kiwis-bluster-past-tonga-to-set-up-world-cup-final-spot/",
+      "source": "NRL 공식",
       "kind": "official",
-      "event_key": "ncaa-wisne-fifth-season-injunction-reversed-20261106",
-      "why": "출전 자격과 NIL 수입이 걸린 미국 대학스포츠 제도 분쟁에서 항소심이 NCAA의 손을 들었다.",
-      "angle": "5시즌 제도 폐지가 아니라, 이미 4시즌을 뛴 선수에게 소급 적용할지를 둘러싼 판결",
-      "why_now": "11/6 선고·원문 공개(일 단위 확인). 2022학번 집단의 5번째 시즌을 허용한 가처분을 파기했다.",
-      "verified_at": 1794056895,
-      "published_at": null,
+      "event_key": "new-zealand-tonga-men-rugby-league-world-cup-final-berth-20261107",
+      "why": "세계 최강을 가리는 럭비리그 월드컵에서 뉴질랜드가 2013년 이후 처음 결승에 올랐다.",
+      "angle": "럭비 유니언과 다른 럭비리그 월드컵, 13년 만에 돌아온 뉴질랜드",
+      "why_now": "11/7 뉴캐슬 준결승. 공식 보도 최초11/7 11:07:43UTC·수정11:17:51UTC를 구분했다.",
+      "verified_at": 1794060074,
+      "published_at": 1794049663,
       "evidence": [
         {
-          "url": "https://law.justia.com/cases/federal/appellate-courts/ca10/26-1309/26-1309-2026-11-06.html",
-          "note": "판결문 사건26-1309·문서54 확인. 모든 Division I 종목을 하나의 노동시장으로 본 증거가 부족하다는 이유로 가처분을 뒤집었다."
+          "url": "https://www.nrl.com/news/2026/11/07/kiwis-bluster-past-tonga-to-set-up-world-cup-final-spot/",
+          "note": "NRL 경기 보고 본문에서 뉴질랜드의 통가전34대10 승리와2013년 이후 첫 결승 진출을 확인했다. 전반12대10에서 후반 격차를 벌렸다."
         }
       ],
       "materials": [
         {
-          "url": "https://law.justia.com/cases/federal/appellate-courts/ca10/26-1309/26-1309-2026-11-06.html",
-          "label": "판결문",
+          "url": "https://www.nrl.com/news/2026/11/07/kiwis-bluster-past-tonga-to-set-up-world-cup-final-spot/",
+          "label": "공식 발표 본문",
           "kind": "source"
         }
       ],
-      "caution": "최종 본안 승소나 5시즌 제도 전면 폐지로 쓰지 않는다. 다른 주 법원 사건의 결과까지 단정하지 않는다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-06",
-        "observation": "판결문 사건26-1309·문서54 확인. 모든 Division I 종목을 하나의 노동시장으로 본 증거가 부족하다는 이유로 가처분을 뒤집었다.",
-        "checked_materials": [],
-        "outline": [
-          "5시즌 제도 폐지가 아니라, 이미 4시즌을 뛴 선수에게 소급 적용할지를 둘러싼 판결",
-          "출전 자격과 NIL 수입이 걸린 미국 대학스포츠 제도 분쟁에서 항소심이 NCAA의 손을 들었다.",
-          "최종 본안 승소나 5시즌 제도 전면 폐지로 쓰지 않는다. 다른 주 법원 사건의 결과까지 단정하지 않는다."
-        ]
-      }
-    },
-    {
-      "title": "복귀하려는 아이유크에게 NFL “보너스 약 1,300만 달러 돌려줘야”",
-      "category": "메이저 스포츠",
-      "url": "https://www.ksl.com/article/51644231/nfl-tells-brandon-aiyuk-he-owes-the-49ers-about-13m-ap-source-says",
-      "source": "AP·KSL",
-      "kind": "article",
-      "event_key": "brandon-aiyuk-nfl-thirteen-million-bonus-repayment-letter-20261105",
-      "why": "1억2천만 달러 연장 계약이 장기 이탈 뒤 거액 반환 분쟁으로 번졌다. 복귀 신청과는 다른 새 금전 요구다.",
-      "angle": "복귀 신청 뒤 드러난 리그의 거액 반환 요구와 여전히 남은 계약 문제",
-      "why_now": "서한11/5, AP 최초11/6 17:11UTC. 11/6 대면 협의도 합의 발표 없이 끝났다.",
-      "verified_at": 1794056895,
-      "published_at": 1793985060,
-      "evidence": [
-        {
-          "url": "https://www.ksl.com/article/51644231/nfl-tells-brandon-aiyuk-he-owes-the-49ers-about-13m-ap-source-says",
-          "note": "AP 본문에서 NFL이 선수·선수협회에 보낸 약1,300만 달러 반환 요구 서한과 11/6 선수·대리인 방문을 확인했다. 서한 자체는 비공개다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.ksl.com/article/51644231/nfl-tells-brandon-aiyuk-he-owes-the-49ers-about-13m-ap-source-says",
-          "label": "확인한 기사 본문",
-          "kind": "source"
-        }
-      ],
-      "caution": "반환 완료·최종 법적 확정·복귀 승인으로 쓰지 않는다. 서한 내용은 AP 익명 취재원 보도다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-05",
-        "observation": "AP 본문에서 NFL이 선수·선수협회에 보낸 약1,300만 달러 반환 요구 서한과 11/6 선수·대리인 방문을 확인했다. 서한 자체는 비공개다.",
-        "checked_materials": [],
-        "outline": [
-          "복귀 신청 뒤 드러난 리그의 거액 반환 요구와 여전히 남은 계약 문제",
-          "1억2천만 달러 연장 계약이 장기 이탈 뒤 거액 반환 분쟁으로 번졌다. 복귀 신청과는 다른 새 금전 요구다.",
-          "반환 완료·최종 법적 확정·복귀 승인으로 쓰지 않는다. 서한 내용은 AP 익명 취재원 보도다."
-        ]
-      }
-    },
-    {
-      "title": "산탄데르의 반무슬림 게시물 논란…토론토 “구단 가치와 다르다”",
-      "category": "메이저 스포츠",
-      "url": "https://toronto.citynews.ca/2026/11/05/blue-jays-distance-themselves-from-players-islamophobic-social-media-posts/",
-      "source": "CityNews·Forbes",
-      "kind": "article",
-      "event_key": "blue-jays-santander-anti-muslim-posts-club-response-20261105",
-      "why": "MLB 구단이 선수의 종교 차별 게시물과 공개적으로 선을 그었다. 팬의 포용과 프로스포츠 책임이 충돌한 사건이다.",
-      "angle": "선수 SNS의 종교 차별 논란에 구단이 공개 입장까지 낸 이유",
-      "why_now": "게시물 삭제·구단 입장은11/5. 확인한 가장 이른 보도는 Forbes11/5 18:41UTC이며 11/6 재기사 시각으로 바꾸지 않았다.",
-      "verified_at": 1794056895,
-      "published_at": 1793904060,
-      "evidence": [
-        {
-          "url": "https://toronto.citynews.ca/2026/11/05/blue-jays-distance-themselves-from-players-islamophobic-social-media-posts/",
-          "note": "CityNews 본문에서 산탄데르가 공유한 반무슬림 게시물, 11/5 오전 삭제, 구단의 포용 원칙 및 개인 발언과 조직 가치 분리 입장을 확인했다."
-        },
-        {
-          "url": "https://www.forbes.com/sites/peterchawaga/2026/11/05/blue-jays-respond-to-anthony-santanders-anti-muslim-social-media-posts/",
-          "note": "Forbes 본문 최초 게시11/5 13:41EST·갱신16:01EST를 구분해 확인했다. 구단 반응은11/5 사건이다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://toronto.citynews.ca/2026/11/05/blue-jays-distance-themselves-from-players-islamophobic-social-media-posts/",
-          "label": "확인한 기사 본문",
-          "kind": "source"
-        }
-      ],
-      "caution": "삭제 전 영상은 직접 시청하지 않았다. 구단 징계·방출·선수 사과가 발표됐다고 쓰지 않는다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-05",
-        "observation": "CityNews 본문에서 산탄데르가 공유한 반무슬림 게시물, 11/5 오전 삭제, 구단의 포용 원칙 및 개인 발언과 조직 가치 분리 입장을 확인했다.",
-        "checked_materials": [],
-        "outline": [
-          "선수 SNS의 종교 차별 논란에 구단이 공개 입장까지 낸 이유",
-          "MLB 구단이 선수의 종교 차별 게시물과 공개적으로 선을 그었다. 팬의 포용과 프로스포츠 책임이 충돌한 사건이다.",
-          "삭제 전 영상은 직접 시청하지 않았다. 구단 징계·방출·선수 사과가 발표됐다고 쓰지 않는다."
-        ]
-      }
-    },
-    {
-      "title": "중국 우주정거장에 첫 외국인 우주인…파키스탄의 선저우24 합류 발표",
-      "category": "시사",
-      "url": "https://english.news.cn/20261107/23518c1d0bc3436ba9e03571f1db6537/c.html",
-      "source": "신화통신·중국유인우주공정",
-      "kind": "article",
-      "event_key": "china-shenzhou24-pakistani-payload-specialist-announcement-20261107",
-      "why": "중국 유인우주 프로그램 최초의 중국·외국 우주인 공동 비행 계획이다. 우주정거장 협력의 외교적 확장이다.",
-      "angle": "미래의 첫 외국인 탑승을 확정 발표한 중국의 우주 협력",
-      "why_now": "11/7 CMSA 발표. 확인한 신화 원문11/7 10:23:30중국시각(02:23:30UTC). 발사 완료 소식은 아니다.",
-      "verified_at": 1794056895,
-      "published_at": 1794018210,
-      "evidence": [
-        {
-          "url": "https://english.news.cn/20261107/23518c1d0bc3436ba9e03571f1db6537/c.html",
-          "note": "신화 본문에서 파키스탄 우주인이 탑재체 전문가로 선저우24에 합류하고 단기 궤도 체류 후 선저우23으로 귀환할 계획을 확인했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://english.news.cn/20261107/23518c1d0bc3436ba9e03571f1db6537/c.html",
-          "label": "확인한 기사 본문",
-          "kind": "source"
-        }
-      ],
-      "caution": "발사일·탑승자 이름은 해당 발표에 없다. 이미 탑승·발사·귀환했다고 표현하지 않는다.",
+      "caution": "럭비 유니언 월드컵과 혼동하지 않는다. 결승 상대·우승은 아직 확정됐다고 쓰지 않는다. 경기 영상은 시청하지 않았다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-07",
-        "observation": "신화 본문에서 파키스탄 우주인이 탑재체 전문가로 선저우24에 합류하고 단기 궤도 체류 후 선저우23으로 귀환할 계획을 확인했다.",
+        "observation": "NRL 경기 보고 본문에서 뉴질랜드의 통가전34대10 승리와2013년 이후 첫 결승 진출을 확인했다. 전반12대10에서 후반 격차를 벌렸다.",
         "checked_materials": [],
         "outline": [
-          "미래의 첫 외국인 탑승을 확정 발표한 중국의 우주 협력",
-          "중국 유인우주 프로그램 최초의 중국·외국 우주인 공동 비행 계획이다. 우주정거장 협력의 외교적 확장이다.",
-          "발사일·탑승자 이름은 해당 발표에 없다. 이미 탑승·발사·귀환했다고 표현하지 않는다."
+          "럭비 유니언과 다른 럭비리그 월드컵, 13년 만에 돌아온 뉴질랜드",
+          "세계 최강을 가리는 럭비리그 월드컵에서 뉴질랜드가 2013년 이후 처음 결승에 올랐다.",
+          "럭비 유니언 월드컵과 혼동하지 않는다. 결승 상대·우승은 아직 확정됐다고 쓰지 않는다. 경기 영상은 시청하지 않았다."
         ]
       }
     },
     {
-      "title": "마이크로소프트 데이터센터 공사장 점거…유럽으로 번진 AI 인프라 반발",
-      "category": "시사",
-      "url": "https://mynorthwest.com/national/protester-microsoft-amsterdam/4295905",
-      "source": "AP·MyNorthwest",
-      "kind": "article",
-      "event_key": "amsterdam-microsoft-datacenter-site-occupation-20261106",
-      "why": "AI 인프라의 전력·환경 비용을 둘러싼 갈등이 공사장 진입과 경찰 충돌로 이어졌다. 유럽 여러 나라가 공동 행동에 나섰다.",
-      "angle": "AI 데이터센터 투자 경쟁의 반대편에서 터진 공사장 점거",
-      "why_now": "점거는11/6. AP 게재11/6 09:18미 서부시각(17:18UTC). 11/7 한국 후속 기사 시각을 사건일로 쓰지 않았다.",
-      "verified_at": 1794056895,
-      "published_at": 1793985480,
+      "title": "러시아 복귀 검토와 별개…IIHF, 벨라루스의 2027 세계선수권 불참 확정",
+      "category": "메이저 스포츠",
+      "url": "https://www.iihf.com/en/news/76810/iihf_statement_on_belarus_and_russia",
+      "source": "국제아이스하키연맹 IIHF",
+      "kind": "official",
+      "event_key": "iihf-belarus-appeal-review-2027-senior-u20-exclusion-confirmed-20261107",
+      "why": "전쟁 이후 국제 스포츠 복귀 논쟁에서 항소 검토 뒤에도 성인·U20 세계선수권 출전이 막혔다.",
+      "angle": "캐나다 입국 거부와는 별도인 국제연맹의 항소 후 출전 결정",
+      "why_now": "11/7 IIHF 새 성명(일 단위 공개 확인). 7월 결정에 대한 항소 심리 후 두 대회 불참을 확정했다.",
+      "verified_at": 1794060074,
+      "published_at": null,
       "evidence": [
         {
-          "url": "https://mynorthwest.com/national/protester-microsoft-amsterdam/4295905",
-          "note": "AP 본문에서 암스테르담 공사장 진입·크레인 등반·경찰 충돌을 확인했다. 주최 측은15개 유럽 국가의11/6~7 공동 행동을 예고했다."
+          "url": "https://www.iihf.com/en/news/76810/iihf_statement_on_belarus_and_russia",
+          "note": "IIHF 원문에서 징계위원회가 즉시 복귀를 명령할 법적 근거가 없다고 판단한 뒤, 이사회가2027 남자·U20 세계선수권 불참을 결정했음을 확인했다."
         }
       ],
       "materials": [
         {
-          "url": "https://mynorthwest.com/national/protester-microsoft-amsterdam/4295905",
-          "label": "확인한 기사 본문",
+          "url": "https://www.iihf.com/en/news/76810/iihf_statement_on_belarus_and_russia",
+          "label": "공식 발표 본문",
           "kind": "source"
         }
       ],
-      "caution": "현장 영상을 시청하지 않았다. 영구 공사 중단·Microsoft 철수·모든 국가 시위 완료로 단정하지 않는다.",
+      "caution": "러시아 복귀 확정이나 벨라루스 모든 종목 영구 제명으로 쓰지 않는다. 두 대회와 이번 항소 후 결정을 한정한다.",
       "readiness": {
         "mode": "major_news",
-        "event_date": "2026-11-06",
-        "observation": "AP 본문에서 암스테르담 공사장 진입·크레인 등반·경찰 충돌을 확인했다. 주최 측은15개 유럽 국가의11/6~7 공동 행동을 예고했다.",
+        "event_date": "2026-11-07",
+        "observation": "IIHF 원문에서 징계위원회가 즉시 복귀를 명령할 법적 근거가 없다고 판단한 뒤, 이사회가2027 남자·U20 세계선수권 불참을 결정했음을 확인했다.",
         "checked_materials": [],
         "outline": [
-          "AI 데이터센터 투자 경쟁의 반대편에서 터진 공사장 점거",
-          "AI 인프라의 전력·환경 비용을 둘러싼 갈등이 공사장 진입과 경찰 충돌로 이어졌다. 유럽 여러 나라가 공동 행동에 나섰다.",
-          "현장 영상을 시청하지 않았다. 영구 공사 중단·Microsoft 철수·모든 국가 시위 완료로 단정하지 않는다."
+          "캐나다 입국 거부와는 별도인 국제연맹의 항소 후 출전 결정",
+          "전쟁 이후 국제 스포츠 복귀 논쟁에서 항소 검토 뒤에도 성인·U20 세계선수권 출전이 막혔다.",
+          "러시아 복귀 확정이나 벨라루스 모든 종목 영구 제명으로 쓰지 않는다. 두 대회와 이번 항소 후 결정을 한정한다."
         ]
       }
     },
     {
-      "title": "카타르 총리 “미·이란 중재 상당한 진전”…합의는 아직",
+      "title": "다이어트·근육 주사로 팔린 미허가 제품서 세균…캐나다, 1만1,400병 넘게 압수",
+      "category": "시사",
+      "url": "https://recalls-rappels.canada.ca/en/alert-recall/health-canada-warns-about-contaminated-unauthorized-injectable-peptides-and-non",
+      "source": "캐나다 보건부",
+      "kind": "official",
+      "event_key": "health-canada-erp-unauthorized-injectable-peptides-bacteria-11400-vials-20261106",
+      "why": "온라인 체중감량·근육증가 주사 시장의 안전 문제가 실제 세균 검출과 대규모 압수·유통 차단으로 이어졌다.",
+      "angle": "정식 처방약과 다른 미허가 온라인 주사 제품의 세균 오염 경고",
+      "why_now": "보건부 경고 최초 공개11/6(일 단위). 검사·압수의 개별 실시일은 원문에 없으며11/7 재기사를 최초로 쓰지 않는다.",
+      "verified_at": 1794060074,
+      "published_at": null,
+      "evidence": [
+        {
+          "url": "https://recalls-rappels.canada.ca/en/alert-recall/health-canada-warns-about-contaminated-unauthorized-injectable-peptides-and-non",
+          "note": "보건부RA-82930에서 ERP Peptide 공급 제품 일부의 세균 검출과 공급사·판매점 합산11,400병 초과 압수를 확인했다. 캐나다 판매점2곳 사이트는 비활성화됐다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://recalls-rappels.canada.ca/en/alert-recall/health-canada-warns-about-contaminated-unauthorized-injectable-peptides-and-non",
+          "label": "공식 발표 본문",
+          "kind": "source"
+        }
+      ],
+      "caution": "모든 압수 병의 오염이나 실제 사망자가 확인됐다고 쓰지 않는다. 정식 허가 처방약 전체가 오염됐다는 의미가 아니다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-06",
+        "observation": "보건부RA-82930에서 ERP Peptide 공급 제품 일부의 세균 검출과 공급사·판매점 합산11,400병 초과 압수를 확인했다. 캐나다 판매점2곳 사이트는 비활성화됐다.",
+        "checked_materials": [],
+        "outline": [
+          "정식 처방약과 다른 미허가 온라인 주사 제품의 세균 오염 경고",
+          "온라인 체중감량·근육증가 주사 시장의 안전 문제가 실제 세균 검출과 대규모 압수·유통 차단으로 이어졌다.",
+          "모든 압수 병의 오염이나 실제 사망자가 확인됐다고 쓰지 않는다. 정식 허가 처방약 전체가 오염됐다는 의미가 아니다."
+        ]
+      }
+    },
+    {
+      "title": "대통령 도청 의혹, 네 번째 경찰 고위직까지…인도네시아 수사 확대",
+      "category": "시사",
+      "url": "https://www.aol.com/articles/indonesia-names-fourth-senior-police-043430000.html",
+      "source": "Reuters·AOL",
+      "kind": "article",
+      "event_key": "indonesia-prabowo-wiretapping-fourth-senior-officer-suspect-20261105",
+      "why": "대통령 통신 도청 의혹 수사가 승인·기록 삭제 지휘선으로 확대되며 국가 권력기관의 신뢰를 흔들고 있다.",
+      "angle": "비서실장 해임 이후 새로 드러난 도청 승인 의혹과 네 번째 피의자",
+      "why_now": "새 피의자 발표는11/5 늦은 기자회견. 확인한 Reuters 최초11/6 04:34UTC이며 발표 시각은 분 단위 미확인이다.",
+      "verified_at": 1794060074,
+      "published_at": 1793939670,
+      "evidence": [
+        {
+          "url": "https://www.aol.com/articles/indonesia-names-fourth-senior-police-043430000.html",
+          "note": "Reuters 본문에서 경찰이SU를 네 번째 피의자로 지목하고 도청·기록 삭제 승인 혐의를 설명했음을 확인했다. 건강 문제로 아직 구금하지 않았다고 보도했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.aol.com/articles/indonesia-names-fourth-senior-police-043430000.html",
+          "label": "확인한 원문 본문",
+          "kind": "source"
+        }
+      ],
+      "caution": "수사기관의 혐의이며 유죄 확정이 아니다. 전임 대통령의 지시·공모가 입증됐다고 단정하지 않는다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-05",
+        "observation": "Reuters 본문에서 경찰이SU를 네 번째 피의자로 지목하고 도청·기록 삭제 승인 혐의를 설명했음을 확인했다. 건강 문제로 아직 구금하지 않았다고 보도했다.",
+        "checked_materials": [],
+        "outline": [
+          "비서실장 해임 이후 새로 드러난 도청 승인 의혹과 네 번째 피의자",
+          "대통령 통신 도청 의혹 수사가 승인·기록 삭제 지휘선으로 확대되며 국가 권력기관의 신뢰를 흔들고 있다.",
+          "수사기관의 혐의이며 유죄 확정이 아니다. 전임 대통령의 지시·공모가 입증됐다고 단정하지 않는다."
+        ]
+      }
+    },
+    {
+      "title": "카타르 총리 “미·이란 중재 상당한 진전”…종전 합의는 아직",
       "category": "시사",
       "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/07/qatar-says-its-mediation-efforts-between-us-and-iran-continue-to-prevent-escalation",
       "source": "Reuters·Internazionale",
       "kind": "article",
       "event_key": "qatar-pm-us-iran-mediation-significant-progress-20261107",
-      "why": "전쟁과 호르무즈 항로가 걸린 협상에서 중재국 정상이 진전을 주장했다. 실제 합의 여부와 분리해 볼 주요 외교 후속이다.",
-      "angle": "확정된 종전이 아니라 중재국 총리가 밝힌 협상의 현재 단계",
-      "why_now": "11/7 알자지라 인터뷰를 Reuters가 보도. 당일 공개 확인이며 원 인터뷰 최초 공개 시각은 확인하지 못했다.",
-      "verified_at": 1794056895,
-      "published_at": null,
+      "why": "전쟁과 호르무즈 항로가 걸린 협상에서 중재국 정상이 진전을 밝혔다. 실제 합의 여부와 나눠 봐야 할 주요 외교 후속이다.",
+      "angle": "중간선거 뒤에도 미국의 합의 의지가 유지된다는 중재국의 새 평가",
+      "why_now": "11/7 알자지라 인터뷰를 Reuters가 보도. 확인한 전재 최초04:23:35UTC·수정04:33:22UTC. 원 인터뷰 최초 시각은 미확인이다.",
+      "verified_at": 1794060074,
+      "published_at": 1794025415,
       "evidence": [
         {
           "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/07/qatar-says-its-mediation-efforts-between-us-and-iran-continue-to-prevent-escalation",
-          "note": "Reuters 영어 본문에서 총리가 중간선거 뒤에도 미국의 합의 의지가 유지되고 상당한 진전이 있었다고 말했음을 확인했다. 체결 발표는 없다."
+          "note": "Reuters 영어 본문에서 총리가 미국의 합의 의지 유지와 상당한 진전을 말했다고 확인했다. 체결 발표가 없으며 중재국의 평가라는 점을 구분했다."
         }
       ],
       "materials": [
         {
           "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/07/qatar-says-its-mediation-efforts-between-us-and-iran-continue-to-prevent-escalation",
-          "label": "확인한 기사 본문",
+          "label": "확인한 원문 본문",
           "kind": "source"
         }
       ],
-      "caution": "중재국의 평가이며 양측 공동 합의가 아니다. 앞선 미군 공격 사건과 별도인 발언만 다룬다.",
+      "caution": "양측 공동 합의·종전 확정이 아니다. 같은 날 공격 사건을 새 소재로 다시 보내지 않고 이번 중재 발언만 다룬다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-07",
-        "observation": "Reuters 영어 본문에서 총리가 중간선거 뒤에도 미국의 합의 의지가 유지되고 상당한 진전이 있었다고 말했음을 확인했다. 체결 발표는 없다.",
+        "observation": "Reuters 영어 본문에서 총리가 미국의 합의 의지 유지와 상당한 진전을 말했다고 확인했다. 체결 발표가 없으며 중재국의 평가라는 점을 구분했다.",
         "checked_materials": [],
         "outline": [
-          "확정된 종전이 아니라 중재국 총리가 밝힌 협상의 현재 단계",
-          "전쟁과 호르무즈 항로가 걸린 협상에서 중재국 정상이 진전을 주장했다. 실제 합의 여부와 분리해 볼 주요 외교 후속이다.",
-          "중재국의 평가이며 양측 공동 합의가 아니다. 앞선 미군 공격 사건과 별도인 발언만 다룬다."
+          "중간선거 뒤에도 미국의 합의 의지가 유지된다는 중재국의 새 평가",
+          "전쟁과 호르무즈 항로가 걸린 협상에서 중재국 정상이 진전을 밝혔다. 실제 합의 여부와 나눠 봐야 할 주요 외교 후속이다.",
+          "양측 공동 합의·종전 확정이 아니다. 같은 날 공격 사건을 새 소재로 다시 보내지 않고 이번 중재 발언만 다룬다."
+        ]
+      }
+    },
+    {
+      "title": "뉴질랜드 여자팀도 결승행…럭비리그 월드컵 준결승서 사모아에 32대0",
+      "category": "메이저 스포츠",
+      "url": "https://aapnews.aap.com.au/news/hat-trick-hero-helps-kiwis-secure-world-cup-final-spot",
+      "source": "AAP",
+      "kind": "article",
+      "event_key": "new-zealand-samoa-women-rugby-league-world-cup-final-berth-20261107",
+      "why": "세계선수권 우승을 가리는 여자 럭비리그 월드컵에서 결승 한 자리가 확정됐다.",
+      "angle": "전 대회 결승 대패 뒤 다시 우승에 도전하는 뉴질랜드 여자팀",
+      "why_now": "11/7 뉴캐슬 준결승. AAP 당일 본문 확인이며 최초 공개의 분 단위 시각은 확인하지 못했다.",
+      "verified_at": 1794060074,
+      "published_at": null,
+      "evidence": [
+        {
+          "url": "https://aapnews.aap.com.au/news/hat-trick-hero-helps-kiwis-secure-world-cup-final-spot",
+          "note": "AAP 본문에서 뉴질랜드가 사모아를32대0으로 꺾고 결승에 진출했음을 확인했다. 와카는3트라이를 기록했고 결승 상대는 호주·피지전 승자다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://aapnews.aap.com.au/news/hat-trick-hero-helps-kiwis-secure-world-cup-final-spot",
+          "label": "확인한 원문 본문",
+          "kind": "source"
+        }
+      ],
+      "caution": "남자 준결승과 다른 팀·대회다. 결승 상대·우승을 미리 확정하지 않는다. 영상을 직접 시청하지 않았다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-07",
+        "observation": "AAP 본문에서 뉴질랜드가 사모아를32대0으로 꺾고 결승에 진출했음을 확인했다. 와카는3트라이를 기록했고 결승 상대는 호주·피지전 승자다.",
+        "checked_materials": [],
+        "outline": [
+          "전 대회 결승 대패 뒤 다시 우승에 도전하는 뉴질랜드 여자팀",
+          "세계선수권 우승을 가리는 여자 럭비리그 월드컵에서 결승 한 자리가 확정됐다.",
+          "남자 준결승과 다른 팀·대회다. 결승 상대·우승을 미리 확정하지 않는다. 영상을 직접 시청하지 않았다."
         ]
       }
     }
