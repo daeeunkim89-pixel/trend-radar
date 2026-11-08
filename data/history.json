@@ -1,6 +1,525 @@
 {
   "version": 1,
   "items": {
+    "0cc1559ff3ba": {
+      "source": "과테말라 정부 AGN",
+      "title": "과테말라 의원과 경호 경찰3명 피살…대통령 수사 협력 지시",
+      "link": "https://agn.gt/presidente-arevalo-repudia-ataque-zacapa-honra-policias-fallecidos/",
+      "first_seen_at": 1794100251,
+      "last_seen_at": 1794103783,
+      "samples": [
+        {
+          "at": 1794100251,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        },
+        {
+          "at": 1794103783,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "official",
+      "story_id": "0cc1559ff3ba",
+      "editorial": {
+        "title": "과테말라 의원과 경호 경찰3명 피살…대통령 수사 협력 지시",
+        "category": "시사",
+        "url": "https://agn.gt/presidente-arevalo-repudia-ataque-zacapa-honra-policias-fallecidos/",
+        "source": "과테말라 정부 AGN",
+        "kind": "official",
+        "event_key": "guatemala-julio-portillo-three-police-killed-rio-hondo-20261106",
+        "why": "현직 국회의원과 경호 경찰이 함께 공격으로 숨졌다. 대통령이 범인 규명을 위한 국가 수사 협력을 지시했다.",
+        "angle": "의원과 경호 경찰3명 사망…국가 지도부가 규탄한 무장공격",
+        "why_now": "공격은11월6일 과테말라 현지. 확인한 정부 기사 최초 공개11월7일14:56:36 UTC.",
+        "verified_at": 1794103710,
+        "published_at": 1794063396,
+        "evidence": [
+          {
+            "url": "https://agn.gt/presidente-arevalo-repudia-ataque-zacapa-honra-policias-fallecidos/",
+            "note": "AGN 본문에서 리오온도 공격으로 의원 훌리오 포르티요와 경찰3명 사망, 공격일6일, 대통령 수사 협력 지시를 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://agn.gt/presidente-arevalo-repudia-ataque-zacapa-honra-policias-fallecidos/",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "범인은 신원 미상. 마약 조직 소행·정치적 동기를 확정하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-06",
+          "observation": "AGN 본문에서 리오온도 공격으로 의원 훌리오 포르티요와 경찰3명 사망, 공격일6일, 대통령 수사 협력 지시를 확인.",
+          "checked_materials": [],
+          "outline": [
+            "의원과 경호 경찰3명 사망…국가 지도부가 규탄한 무장공격",
+            "현직 국회의원과 경호 경찰이 함께 공격으로 숨졌다. 대통령이 범인 규명을 위한 국가 수사 협력을 지시했다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://agn.gt/presidente-arevalo-repudia-ataque-zacapa-honra-policias-fallecidos/"
+          }
+        ],
+        "excerpt": "",
+        "context": "공격은11월6일 과테말라 현지. 확인한 정부 기사 최초 공개11월7일14:56:36 UTC.",
+        "fetched_at": 1794103783,
+        "parser_revision": 7
+      },
+      "curation_event_key": "guatemala-julio-portillo-three-police-killed-rio-hondo-20261106"
+    },
+    "81aee954346e": {
+      "source": "Reuters·AOL",
+      "title": "아이티 총리, 갱단 두목 생틸 사망 확인…치안 작전의 주요 후속",
+      "link": "https://www.aol.com/articles/haiti-pm-says-gang-leader-002654000.html",
+      "first_seen_at": 1794100251,
+      "last_seen_at": 1794103783,
+      "samples": [
+        {
+          "at": 1794100251,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        },
+        {
+          "at": 1794103783,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "81aee954346e",
+      "editorial": {
+        "title": "아이티 총리, 갱단 두목 생틸 사망 확인…치안 작전의 주요 후속",
+        "category": "시사",
+        "url": "https://www.aol.com/articles/haiti-pm-says-gang-leader-002654000.html",
+        "source": "Reuters·AOL",
+        "kind": "article",
+        "event_key": "haiti-mathias-saintil-gang-leader-death-government-confirmation-20261106",
+        "why": "갱단에 맞선 치안 작전에서 주요 두목의 사망을 당국이 확인했다. 다국적 병력 투입과 선거 지연 속 중대한 후속이다.",
+        "angle": "총리가 확인한 갱단 두목 사망…아이티 치안 작전 후속",
+        "why_now": "사망 확인은11월6일 현지. 최초 송고 시각 미확인; AOL 표시11월7일01:08 UTC는 갱신 시각이다.",
+        "verified_at": 1794103710,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.aol.com/articles/haiti-pm-says-gang-leader-002654000.html",
+            "note": "Reuters 전재 본문에서 총리·당국의 생틸 사망 확인. 드론 공격 부상 후 사망 경위는 Reuters가 읽은 인권단체 보고서 설명."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.aol.com/articles/haiti-pm-says-gang-leader-002654000.html",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "사망 경위는 인권단체 보고서에 따른 설명. 독립 현장 검증이나 영상 시청은 하지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-06",
+          "observation": "Reuters 전재 본문에서 총리·당국의 생틸 사망 확인. 드론 공격 부상 후 사망 경위는 Reuters가 읽은 인권단체 보고서 설명.",
+          "checked_materials": [],
+          "outline": [
+            "총리가 확인한 갱단 두목 사망…아이티 치안 작전 후속",
+            "갱단에 맞선 치안 작전에서 주요 두목의 사망을 당국이 확인했다. 다국적 병력 투입과 선거 지연 속 중대한 후속이다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.aol.com/articles/haiti-pm-says-gang-leader-002654000.html"
+          }
+        ],
+        "excerpt": "",
+        "context": "사망 확인은11월6일 현지. 최초 송고 시각 미확인; AOL 표시11월7일01:08 UTC는 갱신 시각이다.",
+        "fetched_at": 1794103783,
+        "parser_revision": 7
+      },
+      "curation_event_key": "haiti-mathias-saintil-gang-leader-death-government-confirmation-20261106"
+    },
+    "ea93c6f7e602": {
+      "source": "CAF 공식",
+      "title": "월드컵 16강 이끈 감독과 결별…이집트, 하산 해임·알리 마헤르 선임",
+      "link": "https://www.cafonline.com/afcon2025/news/egypt-hossam-hassan-dismissed-ali-maher-appointed-head-coach/",
+      "first_seen_at": 1794103783,
+      "last_seen_at": 1794103783,
+      "samples": [
+        {
+          "at": 1794103783,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "official",
+      "story_id": "ea93c6f7e602",
+      "editorial": {
+        "title": "월드컵 16강 이끈 감독과 결별…이집트, 하산 해임·알리 마헤르 선임",
+        "category": "축구",
+        "url": "https://www.cafonline.com/afcon2025/news/egypt-hossam-hassan-dismissed-ali-maher-appointed-head-coach/",
+        "source": "CAF 공식",
+        "kind": "official",
+        "event_key": "egypt-hossam-hassan-dismissed-ali-maher-appointed-national-coach-20261107",
+        "why": "월드컵 16강을 이끈 국가대표 감독이 아프리카컵 예선 직전 교체됐다. 새 감독이 13·17일 말라위전을 맡는다.",
+        "angle": "16강 이끈 감독도 교체…대표팀 안정 내세운 이집트",
+        "why_now": "11월7일 이집트축구협회 결정. CAF 공식 원문은 최초 공개일 11월7일만 표시하며 시·분 미확인.",
+        "verified_at": 1794103710,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.cafonline.com/afcon2025/news/egypt-hossam-hassan-dismissed-ali-maher-appointed-head-coach/",
+            "note": "CAF 본문에서 하산과 코칭스태프 결별, 알리 마헤르 신임 감독 선임, 13·17일 말라위전 일정 확인. 협회는 이미지·안정에 부정적 영향 언급."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.cafonline.com/afcon2025/news/egypt-hossam-hassan-dismissed-ali-maher-appointed-head-coach/",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "살라와의 불화·사생활을 확정 해임 원인으로 쓰지 않는다. 공식 발표는 구체 사유를 밝히지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-07",
+          "observation": "CAF 본문에서 하산과 코칭스태프 결별, 알리 마헤르 신임 감독 선임, 13·17일 말라위전 일정 확인. 협회는 이미지·안정에 부정적 영향 언급.",
+          "checked_materials": [],
+          "outline": [
+            "16강 이끈 감독도 교체…대표팀 안정 내세운 이집트",
+            "월드컵 16강을 이끈 국가대표 감독이 아프리카컵 예선 직전 교체됐다. 새 감독이 13·17일 말라위전을 맡는다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.cafonline.com/afcon2025/news/egypt-hossam-hassan-dismissed-ali-maher-appointed-head-coach/"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월7일 이집트축구협회 결정. CAF 공식 원문은 최초 공개일 11월7일만 표시하며 시·분 미확인.",
+        "fetched_at": 1794103783,
+        "parser_revision": 7
+      },
+      "curation_event_key": "egypt-hossam-hassan-dismissed-ali-maher-appointed-national-coach-20261107"
+    },
+    "cd8eabc66585": {
+      "source": "Sky Sports",
+      "title": "“우리 모두 알고 있었다”…호주 크리켓 공 조작 사건에 8년 만의 새 폭로",
+      "link": "https://www.skysports.com/cricket/news/13609070/australia-cricket-usman-khawaja-says-entire-team-knew-about-ball-tampering-scandal-in-south-africa-in-2018",
+      "first_seen_at": 1794103783,
+      "last_seen_at": 1794103783,
+      "samples": [
+        {
+          "at": 1794103783,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "cd8eabc66585",
+      "editorial": {
+        "title": "“우리 모두 알고 있었다”…호주 크리켓 공 조작 사건에 8년 만의 새 폭로",
+        "category": "메이저 스포츠",
+        "url": "https://www.skysports.com/cricket/news/13609070/australia-cricket-usman-khawaja-says-entire-team-knew-about-ball-tampering-scandal-in-south-africa-in-2018",
+        "source": "Sky Sports",
+        "kind": "article",
+        "event_key": "khawaja-sabr-entire-australia-team-knew-sandpapergate-new-claims-20261107",
+        "why": "3명만 사전 인지했다던 기존 조사와 배치되는 대표팀 출신의 새 주장이다. 협회는 기존 조사 결과를 유지한다.",
+        "angle": "세 명만 알았다던 사포 조작…“선수·스태프 모두”라는 새 주장",
+        "why_now": "원사건은 2018년3월 남아공전. 이번 인터뷰·자서전 발췌는 11월6~7일 공개(매체별 날짜); 확인 기사 표시는 11월7일08:27 UK. 인터뷰 최초 시각 미확인.",
+        "verified_at": 1794103710,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.skysports.com/cricket/news/13609070/australia-cricket-usman-khawaja-says-entire-team-knew-about-ball-tampering-scandal-in-south-africa-in-2018",
+            "note": "본문에서 카와자의 선수·스태프 전체 사전 인지 주장, 레만 전 감독의 반박, 호주협회의 기존 조사 결론 유지 성명을 함께 확인."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.skysports.com/cricket/news/13609070/australia-cricket-usman-khawaja-says-entire-team-knew-about-ball-tampering-scandal-in-south-africa-in-2018",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "카와자의 주장으로 명시. 전원 가담이 입증됐거나 재조사가 확정됐다는 뜻 아님. 옛 영상은 시청하지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-07",
+          "observation": "본문에서 카와자의 선수·스태프 전체 사전 인지 주장, 레만 전 감독의 반박, 호주협회의 기존 조사 결론 유지 성명을 함께 확인.",
+          "checked_materials": [],
+          "outline": [
+            "세 명만 알았다던 사포 조작…“선수·스태프 모두”라는 새 주장",
+            "3명만 사전 인지했다던 기존 조사와 배치되는 대표팀 출신의 새 주장이다. 협회는 기존 조사 결과를 유지한다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.skysports.com/cricket/news/13609070/australia-cricket-usman-khawaja-says-entire-team-knew-about-ball-tampering-scandal-in-south-africa-in-2018"
+          }
+        ],
+        "excerpt": "",
+        "context": "원사건은 2018년3월 남아공전. 이번 인터뷰·자서전 발췌는 11월6~7일 공개(매체별 날짜); 확인 기사 표시는 11월7일08:27 UK. 인터뷰 최초 시각 미확인.",
+        "fetched_at": 1794103783,
+        "parser_revision": 7
+      },
+      "curation_event_key": "khawaja-sabr-entire-australia-team-knew-sandpapergate-new-claims-20261107"
+    },
+    "48166224b6ed": {
+      "source": "Football Australia",
+      "title": "선수들은 요르단전 변경 요구…호주, 안전 재평가하며 새 대표팀 발표",
+      "link": "https://footballaustralia.com.au/news/eight-changes-commbank-socceroos-november-fifa-international-window",
+      "first_seen_at": 1794103783,
+      "last_seen_at": 1794103783,
+      "samples": [
+        {
+          "at": 1794103783,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "official",
+      "story_id": "48166224b6ed",
+      "editorial": {
+        "title": "선수들은 요르단전 변경 요구…호주, 안전 재평가하며 새 대표팀 발표",
+        "category": "축구",
+        "url": "https://footballaustralia.com.au/news/eight-changes-commbank-socceroos-november-fifa-international-window",
+        "source": "Football Australia",
+        "kind": "official",
+        "event_key": "australia-squad-eight-changes-jordan-security-reassessment-pfa-relocation-20261107",
+        "why": "중동 분쟁이 국가대표 원정 운영에 영향을 준다. 선수들의 경기 변경 요구 속 협회가 안전 평가와 25명 명단을 발표했다.",
+        "angle": "선수들은 옮겨 달라는데…안전 재평가하며 A매치 명단 발표",
+        "why_now": "11월7일 호주 대표팀 명단·안전 대응 발표. 공식 원문 공개일은11월7일(일 정밀도). 5일 인도네시아전 취소와는 별도 후속.",
+        "verified_at": 1794103710,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://footballaustralia.com.au/news/eight-changes-commbank-socceroos-november-fifa-international-window",
+            "note": "공식 본문에서 8명 교체·A매치 미경험7명과 요르단전 안전 재평가 확인. ABC 본문은 선수협회의 일정 변경·장소 이전 요구 및 대표팀 발표를 확인."
+          },
+          {
+            "url": "https://www.abc.net.au/news/2026-11-08/socceroos-monitoring-security-ahead-of-friendlies/107360560",
+            "note": "11월7일22:39:38 UTC 공개. 선수협회 변경 요구 보도. 미선발 선수의 안전상 불참 여부는 불명확하다고 명시."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://footballaustralia.com.au/news/eight-changes-commbank-socceroos-november-fifa-international-window",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "요르단전 취소 확정 아님. 주요 선수 명단 제외가 안전 문제 때문인지는 미확인.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-07",
+          "observation": "공식 본문에서 8명 교체·A매치 미경험7명과 요르단전 안전 재평가 확인. ABC 본문은 선수협회의 일정 변경·장소 이전 요구 및 대표팀 발표를 확인.",
+          "checked_materials": [],
+          "outline": [
+            "선수들은 옮겨 달라는데…안전 재평가하며 A매치 명단 발표",
+            "중동 분쟁이 국가대표 원정 운영에 영향을 준다. 선수들의 경기 변경 요구 속 협회가 안전 평가와 25명 명단을 발표했다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://footballaustralia.com.au/news/eight-changes-commbank-socceroos-november-fifa-international-window"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월7일 호주 대표팀 명단·안전 대응 발표. 공식 원문 공개일은11월7일(일 정밀도). 5일 인도네시아전 취소와는 별도 후속.",
+        "fetched_at": 1794103783,
+        "parser_revision": 7
+      },
+      "curation_event_key": "australia-squad-eight-changes-jordan-security-reassessment-pfa-relocation-20261107"
+    },
+    "b8b8a34819d2": {
+      "source": "AFP",
+      "title": "트럼프, UFC 데이나 화이트에 백악관 대변인직 제안…수락은 미확정",
+      "link": "https://www.afp.com/en/trump-offers-ufc-boss-press-secretary-post-urges-criminal-probes-democrats",
+      "first_seen_at": 1794103783,
+      "last_seen_at": 1794103783,
+      "samples": [
+        {
+          "at": 1794103783,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "b8b8a34819d2",
+      "editorial": {
+        "title": "트럼프, UFC 데이나 화이트에 백악관 대변인직 제안…수락은 미확정",
+        "category": "시사",
+        "url": "https://www.afp.com/en/trump-offers-ufc-boss-press-secretary-post-urges-criminal-probes-democrats",
+        "source": "AFP",
+        "kind": "article",
+        "event_key": "trump-dana-white-ufc-white-house-press-secretary-offer-20261107",
+        "why": "백악관 공보 책임자 자리를 UFC 최고경영자에게 공개 제안했다. 화이트는 월요일 트럼프와 만날 예정이라고 밝혔다.",
+        "angle": "UFC 수장에게 백악관 대변인직…임명 아닌 공개 제안",
+        "why_now": "미국 현지11월7일 공개 제안. 확인한 AFP 원문 표시는11월8일01:12(시간대 미표시). 최초 게시 시각은 확인 불가.",
+        "verified_at": 1794103710,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.afp.com/en/trump-offers-ufc-boss-press-secretary-post-urges-criminal-probes-democrats",
+            "note": "AFP 본문은 트럼프 공개 제안과 화이트의 월요일 면담 계획을 확인. Guardian 전재는 CNN의 거절 보도도 소개하나 화이트 본인은 수락 여부 답변 안 했다고 설명."
+          },
+          {
+            "url": "https://www.aol.com/articles/trump-says-asked-dana-white-195132000.html",
+            "note": "Guardian 전재 본문에서 CNN의 거절 보도, 이어진 화이트 면담 발언을 함께 확인. 11월8일00:46UTC는 갱신 시각."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.afp.com/en/trump-offers-ufc-boss-press-secretary-post-urges-criminal-probes-democrats",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "정식 임명·취임으로 쓰지 않는다. 거절 보도와 면담 계획이 병존하며 수락 여부는 미확정.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-07",
+          "observation": "AFP 본문은 트럼프 공개 제안과 화이트의 월요일 면담 계획을 확인. Guardian 전재는 CNN의 거절 보도도 소개하나 화이트 본인은 수락 여부 답변 안 했다고 설명.",
+          "checked_materials": [],
+          "outline": [
+            "UFC 수장에게 백악관 대변인직…임명 아닌 공개 제안",
+            "백악관 공보 책임자 자리를 UFC 최고경영자에게 공개 제안했다. 화이트는 월요일 트럼프와 만날 예정이라고 밝혔다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.afp.com/en/trump-offers-ufc-boss-press-secretary-post-urges-criminal-probes-democrats"
+          }
+        ],
+        "excerpt": "",
+        "context": "미국 현지11월7일 공개 제안. 확인한 AFP 원문 표시는11월8일01:12(시간대 미표시). 최초 게시 시각은 확인 불가.",
+        "fetched_at": 1794103783,
+        "parser_revision": 7
+      },
+      "curation_event_key": "trump-dana-white-ufc-white-house-press-secretary-offer-20261107"
+    },
+    "4eebdc68c38c": {
+      "source": "AFP",
+      "title": "프랑스 럭비 은타마크, 복귀전 어깨 부상…감독 “대회 남은 경기 못 뛴다”",
+      "link": "https://www.afp.com/en/galthie-laments-ntamack-loss-france-fly-half-troubles-mount",
+      "first_seen_at": 1794103783,
+      "last_seen_at": 1794103783,
+      "samples": [
+        {
+          "at": 1794103783,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "4eebdc68c38c",
+      "editorial": {
+        "title": "프랑스 럭비 은타마크, 복귀전 어깨 부상…감독 “대회 남은 경기 못 뛴다”",
+        "category": "메이저 스포츠",
+        "url": "https://www.afp.com/en/galthie-laments-ntamack-loss-france-fly-half-troubles-mount",
+        "source": "AFP",
+        "kind": "article",
+        "event_key": "france-ntamack-shoulder-injury-out-nations-championship-four-flyhalves-20261107",
+        "why": "세계 챔피언 남아공전을 앞두고 프랑스의 주전 경기 조율자가 이탈했다. 기존 부상자와 겹쳐 플라이하프 선택지가 급감했다.",
+        "angle": "복귀 30여 분 만에 다시 이탈…프랑스의 10번 자리가 비었다",
+        "why_now": "경기·감독 발언은 프랑스 현지11월7일. 확인한 AFP 원문 표시11월7일23:59는 시간대 미표시이며 최초 시각을 확정하지 않는다.",
+        "verified_at": 1794103710,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.afp.com/en/galthie-laments-ntamack-loss-france-fly-half-troubles-mount",
+            "note": "AFP 본문에서 피지전 어깨 부상과 갈티에 감독의 남은 대회 출전 불가 발언 확인. 잘리베르·아스토이·라모스도 부상으로 빠져 있다고 설명."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.afp.com/en/galthie-laments-ntamack-loss-france-fly-half-troubles-mount",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "정확한 진단·복귀 기간은 미공개. 감독의 대회 이탈 설명 범위만 사용. 경기 영상은 시청하지 않음.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-07",
+          "observation": "AFP 본문에서 피지전 어깨 부상과 갈티에 감독의 남은 대회 출전 불가 발언 확인. 잘리베르·아스토이·라모스도 부상으로 빠져 있다고 설명.",
+          "checked_materials": [],
+          "outline": [
+            "복귀 30여 분 만에 다시 이탈…프랑스의 10번 자리가 비었다",
+            "세계 챔피언 남아공전을 앞두고 프랑스의 주전 경기 조율자가 이탈했다. 기존 부상자와 겹쳐 플라이하프 선택지가 급감했다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.afp.com/en/galthie-laments-ntamack-loss-france-fly-half-troubles-mount"
+          }
+        ],
+        "excerpt": "",
+        "context": "경기·감독 발언은 프랑스 현지11월7일. 확인한 AFP 원문 표시11월7일23:59는 시간대 미표시이며 최초 시각을 확정하지 않는다.",
+        "fetched_at": 1794103783,
+        "parser_revision": 7
+      },
+      "curation_event_key": "france-ntamack-shoulder-injury-out-nations-championship-four-flyhalves-20261107"
+    },
     "454268e0da5a": {
       "source": "AAP",
       "title": "뉴질랜드 여자 럭비리그, 사모아 꺾고 월드컵 결승행…와카 3트라이",
@@ -384,148 +903,6 @@
         "parser_revision": 7
       },
       "curation_event_key": "paraguay-pena-charged-judge-orders-military-pretrial-detention-20261107"
-    },
-    "0cc1559ff3ba": {
-      "source": "과테말라 정부 AGN",
-      "title": "과테말라 의원과 경호 경찰 3명 피살…대통령, 수사 협력 지시",
-      "link": "https://agn.gt/presidente-arevalo-repudia-ataque-zacapa-honra-policias-fallecidos/",
-      "first_seen_at": 1794100251,
-      "last_seen_at": 1794100251,
-      "samples": [
-        {
-          "at": 1794100251,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "official",
-      "story_id": "0cc1559ff3ba",
-      "editorial": {
-        "title": "과테말라 의원과 경호 경찰 3명 피살…대통령, 수사 협력 지시",
-        "category": "시사",
-        "url": "https://agn.gt/presidente-arevalo-repudia-ataque-zacapa-honra-policias-fallecidos/",
-        "source": "과테말라 정부 AGN",
-        "kind": "official",
-        "event_key": "guatemala-julio-portillo-three-police-killed-rio-hondo-20261106",
-        "why": "현직 국회의원과 경찰이 함께 표적 공격으로 숨진 사건이다. 대통령이 범인 규명을 위한 국가 수사 협력을 지시했다.",
-        "angle": "의원 지키던 경찰 3명도 숨졌다…정치인 겨냥 무장공격",
-        "why_now": "공격은 11월6일 과테말라 현지. 확인한 정부 기사 최초 공개는 11월7일14:56:36 UTC.",
-        "verified_at": 1794100163,
-        "published_at": 1794063396,
-        "evidence": [
-          {
-            "url": "https://agn.gt/presidente-arevalo-repudia-ataque-zacapa-honra-policias-fallecidos/",
-            "note": "AGN 본문은 리오온도에서 의원 훌리오 포르티요와 경찰 3명 사망, 공격일 6일, 대통령 수사 협력 지시를 확인한다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://agn.gt/presidente-arevalo-repudia-ataque-zacapa-honra-policias-fallecidos/",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "범인은 신원 미상. 마약 조직 소행·정치적 동기를 확정하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-06",
-          "observation": "AGN 본문은 리오온도에서 의원 훌리오 포르티요와 경찰 3명 사망, 공격일 6일, 대통령 수사 협력 지시를 확인한다.",
-          "checked_materials": [],
-          "outline": [
-            "의원 지키던 경찰 3명도 숨졌다…정치인 겨냥 무장공격",
-            "현직 국회의원과 경찰이 함께 표적 공격으로 숨진 사건이다. 대통령이 범인 규명을 위한 국가 수사 협력을 지시했다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://agn.gt/presidente-arevalo-repudia-ataque-zacapa-honra-policias-fallecidos/"
-          }
-        ],
-        "excerpt": "",
-        "context": "공격은 11월6일 과테말라 현지. 확인한 정부 기사 최초 공개는 11월7일14:56:36 UTC.",
-        "fetched_at": 1794100251,
-        "parser_revision": 7
-      },
-      "curation_event_key": "guatemala-julio-portillo-three-police-killed-rio-hondo-20261106"
-    },
-    "81aee954346e": {
-      "source": "Reuters·AOL",
-      "title": "아이티 총리, 갱단 두목 생틸 사망 확인…치안 작전의 중대 후속",
-      "link": "https://www.aol.com/articles/haiti-pm-says-gang-leader-002654000.html",
-      "first_seen_at": 1794100251,
-      "last_seen_at": 1794100251,
-      "samples": [
-        {
-          "at": 1794100251,
-          "views": null,
-          "reactions": null,
-          "rank": 7,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "81aee954346e",
-      "editorial": {
-        "title": "아이티 총리, 갱단 두목 생틸 사망 확인…치안 작전의 중대 후속",
-        "category": "시사",
-        "url": "https://www.aol.com/articles/haiti-pm-says-gang-leader-002654000.html",
-        "source": "Reuters·AOL",
-        "kind": "article",
-        "event_key": "haiti-mathias-saintil-gang-leader-death-government-confirmation-20261106",
-        "why": "수도를 장악한 갱단 대응 작전에서 주요 두목의 사망이 확인됐다. 치안 붕괴와 다국적 병력 투입 속 큰 후속이다.",
-        "angle": "총리가 확인한 갱단 두목 사망…아이티 치안 작전의 전환점인가",
-        "why_now": "사망 확인은 11월6일 현지. 원문 최초 송고 시각은 미확인; AOL 표시11월7일01:08 UTC는 갱신 시각이다.",
-        "verified_at": 1794100163,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.aol.com/articles/haiti-pm-says-gang-leader-002654000.html",
-            "note": "Reuters 전재 본문에서 총리·당국의 생틸 사망 확인. 드론 공격 부상 후 사망 경위는 Reuters가 본 인권단체 보고서에 따른다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.aol.com/articles/haiti-pm-says-gang-leader-002654000.html",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "드론 공격 경위는 인권단체 보고서 설명. 독립 현장 검증·영상 시청은 하지 않았다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-06",
-          "observation": "Reuters 전재 본문에서 총리·당국의 생틸 사망 확인. 드론 공격 부상 후 사망 경위는 Reuters가 본 인권단체 보고서에 따른다.",
-          "checked_materials": [],
-          "outline": [
-            "총리가 확인한 갱단 두목 사망…아이티 치안 작전의 전환점인가",
-            "수도를 장악한 갱단 대응 작전에서 주요 두목의 사망이 확인됐다. 치안 붕괴와 다국적 병력 투입 속 큰 후속이다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://www.aol.com/articles/haiti-pm-says-gang-leader-002654000.html"
-          }
-        ],
-        "excerpt": "",
-        "context": "사망 확인은 11월6일 현지. 원문 최초 송고 시각은 미확인; AOL 표시11월7일01:08 UTC는 갱신 시각이다.",
-        "fetched_at": 1794100251,
-        "parser_revision": 7
-      },
-      "curation_event_key": "haiti-mathias-saintil-gang-leader-death-government-confirmation-20261106"
     },
     "85e9fd2c77f7": {
       "source": "Punch Newspapers",
@@ -30876,5 +31253,5 @@
       "curation_event_key": "lee-yo-won-oldest-child-sibling-care-travel-eun-ji-won-contradiction-20261031"
     }
   },
-  "updated_at": 1794100251
+  "updated_at": 1794103783
 }
