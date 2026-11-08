@@ -86,9 +86,10 @@ def _ranked_inbox(pool, now, max_age=12 * 3600):
             break
     return {"version": 2, "generated_at": now, "mode": "major_news_ranked",
             "reference": "docs/btp-news-policy-20261104.md",
-            "budget": {"initial_minutes": 10, "initial_searches": 6, "initial_opens": 24,
-                       "extension_searches": 4, "extension_opens": 12,
-                       "extend_until_target": True, "recommendations_target": 5},
+            "budget": {"initial_minutes": 3, "initial_searches": 4, "initial_opens": 8,
+                       "extension_searches": 2, "extension_opens": 4, "max_extensions": 1,
+                       "extend_until_target": False, "recommendations_target": 5,
+                       "reuse_discovery": True, "stop_when_target_ready": True},
             "source_errors": list(pool.get("errors", {})), "candidates": candidates, "reserves": reserves,
             "caution": "발견용. 스포츠 중심·시사 대형 뉴스 우선. 연예 세부 소식 제외. 본문에서 1면 가치·새 사실·날짜·중복 확인 전이며 조회수 예측이 아니다."}
 

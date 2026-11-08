@@ -15,7 +15,7 @@ class QuickScanTests(unittest.TestCase):
         self.assertEqual([r["url"].rsplit("/", 1)[-1] for r in out["candidates"]],
                          ["sport", "public", "banter", "minor"])
         self.assertEqual(out["budget"]["recommendations_target"], 5)
-        self.assertTrue(out["budget"]["extend_until_target"])
+        self.assertFalse(out["budget"]["extend_until_target"])
 
     def test_entertainment_details_are_excluded_and_major_public_issue_stays_a_lead(self):
         rows = [self.row("아이브 자막 반전", "subtitles"),

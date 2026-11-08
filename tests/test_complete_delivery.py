@@ -64,11 +64,12 @@ class CompleteDeliveryTests(unittest.TestCase):
         self.assertTrue(report["target_met"])
         self.assertEqual(report["stories"], 5)
 
-    def test_research_can_extend_beyond_initial_budget_without_erasing_checks(self):
+    def test_research_has_one_extension_without_erasing_completion_checks(self):
         budget = inbox({}, NOW)["budget"]
-        self.assertTrue(budget["extend_until_target"])
+        self.assertFalse(budget["extend_until_target"])
+        self.assertEqual(budget["max_extensions"], 1)
         self.assertEqual((budget["initial_searches"], budget["extension_searches"],
-                          budget["recommendations_target"]), (6, 4, 5))
+                          budget["recommendations_target"]), (4, 2, 5))
         value = edition()
         value["coverage"]["queries"] = ["checked source query " + str(i) for i in range(60)]
         value["coverage"]["opened_urls"] += ["https://example.org/checked/" + str(i) for i in range(90)]
