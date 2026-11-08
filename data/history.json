@@ -1,6 +1,528 @@
 {
   "version": 1,
   "items": {
+    "85e9fd2c77f7": {
+      "source": "Punch Newspapers",
+      "title": "북한, 브라질에 6대0…U-17 여자월드컵 동메달로 대회 마무리",
+      "link": "https://punchng.com/dpr-korea-thrash-brazil-6-0-to-claim-u-17-womens-world-cup-bronze/",
+      "first_seen_at": 1794092807,
+      "last_seen_at": 1794096461,
+      "samples": [
+        {
+          "at": 1794092807,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        },
+        {
+          "at": 1794096461,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "85e9fd2c77f7",
+      "editorial": {
+        "title": "북한, 브라질에 6대0…U-17 여자월드컵 동메달로 대회 마무리",
+        "category": "축구",
+        "url": "https://punchng.com/dpr-korea-thrash-brazil-6-0-to-claim-u-17-womens-world-cup-bronze/",
+        "source": "Punch Newspapers",
+        "kind": "article",
+        "event_key": "dpr-korea-brazil-u17-womens-world-cup-bronze-six-zero-20261107",
+        "why": "3연패 도전이 끝난 북한이 세계대회 메달을 확보했다. 브라질을6골 차로 꺾으며 대회를 마친 주요 결과다.",
+        "angle": "일본과의 준결승 승부차기 패배 뒤, 동메달 결정전6대0",
+        "why_now": "11/7 라바트3위전. 확인 기사 최초21:21:05UTC이며 원 경기 종료·최초 공개 시각과 구분했다.",
+        "verified_at": 1794096205,
+        "published_at": 1794086465,
+        "evidence": [
+          {
+            "url": "https://punchng.com/dpr-korea-thrash-brazil-6-0-to-claim-u-17-womens-world-cup-bronze/",
+            "note": "기사 본문에서 북한의 브라질전6대0 승리와3위 확정, 리의경2골을 확인했다. 이미 보낸 나이지리아 우승 결승전과 다른 동메달 결정전이다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://punchng.com/dpr-korea-thrash-brazil-6-0-to-claim-u-17-womens-world-cup-bronze/",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "경기 영상을 직접 시청하지 않았다. 대회29골 기록 주장은 공식 대조를 못 해 핵심 사실에서 제외했다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-07",
+          "observation": "기사 본문에서 북한의 브라질전6대0 승리와3위 확정, 리의경2골을 확인했다. 이미 보낸 나이지리아 우승 결승전과 다른 동메달 결정전이다.",
+          "checked_materials": [],
+          "outline": [
+            "일본과의 준결승 승부차기 패배 뒤, 동메달 결정전6대0",
+            "3연패 도전이 끝난 북한이 세계대회 메달을 확보했다. 브라질을6골 차로 꺾으며 대회를 마친 주요 결과다.",
+            "경기 영상을 직접 시청하지 않았다. 대회29골 기록 주장은 공식 대조를 못 해 핵심 사실에서 제외했다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://punchng.com/dpr-korea-thrash-brazil-6-0-to-claim-u-17-womens-world-cup-bronze/"
+          }
+        ],
+        "excerpt": "",
+        "context": "11/7 라바트3위전. 확인 기사 최초21:21:05UTC이며 원 경기 종료·최초 공개 시각과 구분했다.",
+        "fetched_at": 1794096461,
+        "parser_revision": 7
+      },
+      "curation_event_key": "dpr-korea-brazil-u17-womens-world-cup-bronze-six-zero-20261107"
+    },
+    "454268e0da5a": {
+      "source": "AAP",
+      "title": "뉴질랜드 여자팀, 사모아에 32대0…럭비리그 월드컵 결승 진출",
+      "link": "https://aapnews.aap.com.au/news/hat-trick-hero-helps-kiwis-secure-world-cup-final-spot",
+      "first_seen_at": 1794060153,
+      "last_seen_at": 1794096461,
+      "samples": [
+        {
+          "at": 1794060153,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        },
+        {
+          "at": 1794096461,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "454268e0da5a",
+      "editorial": {
+        "title": "뉴질랜드 여자팀, 사모아에 32대0…럭비리그 월드컵 결승 진출",
+        "category": "메이저 스포츠",
+        "url": "https://aapnews.aap.com.au/news/hat-trick-hero-helps-kiwis-secure-world-cup-final-spot",
+        "source": "AAP",
+        "kind": "article",
+        "event_key": "new-zealand-samoa-women-rugby-league-world-cup-final-berth-20261107",
+        "why": "세계선수권 우승을 가리는 여자 럭비리그 월드컵에서 결승 한 자리가 확정됐다. 전 대회 결승 대패 뒤 다시 정상에 도전한다.",
+        "angle": "남자팀과 별개로 여자팀도 월드컵 결승에 오른 뉴질랜드",
+        "why_now": "11/7 뉴캐슬 준결승·AAP 당일 원문 확인. 최초 공개는 일 단위만 확인, 이전 회차에서는 예비였고 실제 발송 이력에는 없다.",
+        "verified_at": 1794096257,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://aapnews.aap.com.au/news/hat-trick-hero-helps-kiwis-secure-world-cup-final-spot",
+            "note": "AAP 본문에서 뉴질랜드의 사모아전32대0 승리와 결승 진출, 와카3트라이를 확인했다. 결승 상대는 호주·피지전 승자이며 아직 정해지지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://aapnews.aap.com.au/news/hat-trick-hero-helps-kiwis-secure-world-cup-final-spot",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "남자 럭비리그 및 럭비 유니언과 다른 대회다. 결승 상대·우승을 미리 확정하지 않으며 영상은 시청하지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-07",
+          "observation": "AAP 본문에서 뉴질랜드의 사모아전32대0 승리와 결승 진출, 와카3트라이를 확인했다. 결승 상대는 호주·피지전 승자이며 아직 정해지지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "남자팀과 별개로 여자팀도 월드컵 결승에 오른 뉴질랜드",
+            "세계선수권 우승을 가리는 여자 럭비리그 월드컵에서 결승 한 자리가 확정됐다. 전 대회 결승 대패 뒤 다시 정상에 도전한다.",
+            "남자 럭비리그 및 럭비 유니언과 다른 대회다. 결승 상대·우승을 미리 확정하지 않으며 영상은 시청하지 않았다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://aapnews.aap.com.au/news/hat-trick-hero-helps-kiwis-secure-world-cup-final-spot"
+          }
+        ],
+        "excerpt": "",
+        "context": "11/7 뉴캐슬 준결승·AAP 당일 원문 확인. 최초 공개는 일 단위만 확인, 이전 회차에서는 예비였고 실제 발송 이력에는 없다.",
+        "fetched_at": 1794096461,
+        "parser_revision": 7
+      },
+      "curation_event_key": "new-zealand-samoa-women-rugby-league-world-cup-final-berth-20261107"
+    },
+    "0cff769246f3": {
+      "source": "Reuters·The Star",
+      "title": "레알, 발렌시아에 3대0…승점30으로 바르셀로나와 동률",
+      "link": "https://www.thestar.com.my/sport/football/2026/11/08/soccer-real-madrid-sweep-aside-valencia-to-move-level-with-barcelona",
+      "first_seen_at": 1794096461,
+      "last_seen_at": 1794096461,
+      "samples": [
+        {
+          "at": 1794096461,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "0cff769246f3",
+      "editorial": {
+        "title": "레알, 발렌시아에 3대0…승점30으로 바르셀로나와 동률",
+        "category": "축구",
+        "url": "https://www.thestar.com.my/sport/football/2026/11/08/soccer-real-madrid-sweep-aside-valencia-to-move-level-with-barcelona",
+        "source": "Reuters·The Star",
+        "kind": "article",
+        "event_key": "real-madrid-valencia-win-thirty-points-level-barcelona-20261107",
+        "why": "레알이 선두 바르셀로나와 승점을 맞추며 라리가 우승 경쟁을 압박했다. 경기 수와 골득실 차이를 함께 봐야 하는 판도 변화다.",
+        "angle": "선두를 따라잡은 승점30, 다만 한 경기 더 치른 레알",
+        "why_now": "11/7 경기. 확인 전재 최초11/8 06:13말레이시아시각(11/7 22:13UTC); 원 Reuters 최초 시각과 분리했다.",
+        "verified_at": 1794096204,
+        "published_at": 1794089580,
+        "evidence": [
+          {
+            "url": "https://www.thestar.com.my/sport/football/2026/11/08/soccer-real-madrid-sweep-aside-valencia-to-move-level-with-barcelona",
+            "note": "Reuters 본문에서 레알의3대0 승리, 발베르데·귈레르·음바페 득점, 승점30과 바르셀로나와 동률을 확인했다. 한 경기 더 치렀고 골득실에서는 뒤진다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.thestar.com.my/sport/football/2026/11/08/soccer-real-madrid-sweep-aside-valencia-to-move-level-with-barcelona",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "레알이 단독 선두나 유리한 우승 확률을 확보했다고 쓰지 않는다. 경기 영상을 직접 시청하지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-07",
+          "observation": "Reuters 본문에서 레알의3대0 승리, 발베르데·귈레르·음바페 득점, 승점30과 바르셀로나와 동률을 확인했다. 한 경기 더 치렀고 골득실에서는 뒤진다.",
+          "checked_materials": [],
+          "outline": [
+            "선두를 따라잡은 승점30, 다만 한 경기 더 치른 레알",
+            "레알이 선두 바르셀로나와 승점을 맞추며 라리가 우승 경쟁을 압박했다. 경기 수와 골득실 차이를 함께 봐야 하는 판도 변화다.",
+            "레알이 단독 선두나 유리한 우승 확률을 확보했다고 쓰지 않는다. 경기 영상을 직접 시청하지 않았다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://www.thestar.com.my/sport/football/2026/11/08/soccer-real-madrid-sweep-aside-valencia-to-move-level-with-barcelona"
+          }
+        ],
+        "excerpt": "",
+        "context": "11/7 경기. 확인 전재 최초11/8 06:13말레이시아시각(11/7 22:13UTC); 원 Reuters 최초 시각과 분리했다.",
+        "fetched_at": 1794096461,
+        "parser_revision": 7
+      },
+      "curation_event_key": "real-madrid-valencia-win-thirty-points-level-barcelona-20261107"
+    },
+    "07b3a75f345f": {
+      "source": "Reuters·ThePrint",
+      "title": "이스라엘 대통령, 네타냐후 대신 아이젠코트에 연정 구성 기회 주기로",
+      "link": "https://theprint.in/world/israeli-president-picks-gadi-eisenkot-netanyahu-rival-to-try-to-form-government/3093462/",
+      "first_seen_at": 1794096461,
+      "last_seen_at": 1794096461,
+      "samples": [
+        {
+          "at": 1794096461,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "07b3a75f345f",
+      "editorial": {
+        "title": "이스라엘 대통령, 네타냐후 대신 아이젠코트에 연정 구성 기회 주기로",
+        "category": "시사",
+        "url": "https://theprint.in/world/israeli-president-picks-gadi-eisenkot-netanyahu-rival-to-try-to-form-government/3093462/",
+        "source": "Reuters·ThePrint",
+        "kind": "article",
+        "event_key": "israel-herzog-selects-eisenkot-next-government-mandate-announcement-20261107",
+        "why": "장기 집권 총리의 경쟁자에게 새 정부 구성의 첫 기회가 돌아갔다. 실제 정권 교체 성패가 걸린 국가적 결정이다.",
+        "angle": "67명 추천 전망을 넘어 대통령이 실제 선택한 연정 구성 후보",
+        "why_now": "11/7 대통령실 선택 발표. 확인 전재 최초20:00:03UTC. 정식 위임은11/8 예정이며 임명 완료로 앞당기지 않는다.",
+        "verified_at": 1794096291,
+        "published_at": 1794081603,
+        "evidence": [
+          {
+            "url": "https://theprint.in/world/israeli-president-picks-gadi-eisenkot-netanyahu-rival-to-try-to-form-government/3093462/",
+            "note": "Reuters 본문에서 헤르초그가 아이젠코트를 선택하고 다음 날 연정 구성권을 부여하도록 초청했음을 확인했다. 구성 시한28일·14일 연장 가능이며 과반 연정은 미성립이다."
+          },
+          {
+            "url": "https://www.aa.com.tr/en/middle-east/israels-president-says-will-task-eisenkot-with-forming-next-government/4115508",
+            "note": "아나돌루 본문에서 대통령실 대변인 발표와11/8 현지17시 정식 위임 예정임을 교차 확인했다. 현재는 선택 발표 단계다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://theprint.in/world/israeli-president-picks-gadi-eisenkot-netanyahu-rival-to-try-to-form-government/3093462/",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "총리 취임·네타냐후 퇴진 확정이 아니다.11/5 추천수 보도와 별도인 대통령의11/7 선택 발표다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-07",
+          "observation": "Reuters 본문에서 헤르초그가 아이젠코트를 선택하고 다음 날 연정 구성권을 부여하도록 초청했음을 확인했다. 구성 시한28일·14일 연장 가능이며 과반 연정은 미성립이다.",
+          "checked_materials": [],
+          "outline": [
+            "67명 추천 전망을 넘어 대통령이 실제 선택한 연정 구성 후보",
+            "장기 집권 총리의 경쟁자에게 새 정부 구성의 첫 기회가 돌아갔다. 실제 정권 교체 성패가 걸린 국가적 결정이다.",
+            "총리 취임·네타냐후 퇴진 확정이 아니다.11/5 추천수 보도와 별도인 대통령의11/7 선택 발표다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://theprint.in/world/israeli-president-picks-gadi-eisenkot-netanyahu-rival-to-try-to-form-government/3093462/"
+          }
+        ],
+        "excerpt": "",
+        "context": "11/7 대통령실 선택 발표. 확인 전재 최초20:00:03UTC. 정식 위임은11/8 예정이며 임명 완료로 앞당기지 않는다.",
+        "fetched_at": 1794096461,
+        "parser_revision": 7
+      },
+      "curation_event_key": "israel-herzog-selects-eisenkot-next-government-mandate-announcement-20261107"
+    },
+    "cc4236babd7b": {
+      "source": "AP·Spectrum NY1",
+      "title": "폴란드 크라쿠프 광장 총격에 6명 사망…용의자 집에서도 시신3구 발견",
+      "link": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/11/07/deaths-and-injuries-reported-after-shots-were-fired-in-a-market-square-in-krakow-polish-authorities-say",
+      "first_seen_at": 1794096461,
+      "last_seen_at": 1794096461,
+      "samples": [
+        {
+          "at": 1794096461,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "cc4236babd7b",
+      "editorial": {
+        "title": "폴란드 크라쿠프 광장 총격에 6명 사망…용의자 집에서도 시신3구 발견",
+        "category": "시사",
+        "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/11/07/deaths-and-injuries-reported-after-shots-were-fired-in-a-market-square-in-krakow-polish-authorities-say",
+        "source": "AP·Spectrum NY1",
+        "kind": "article",
+        "event_key": "krakow-main-square-mass-shooting-six-dead-family-bodies-found-20261107",
+        "why": "주요 관광도시 중심 광장의 대규모 총격 뒤 추가 시신까지 발견됐다. 국가 지도부가 대응하는 중대한 치안 사건이다.",
+        "angle": "광장 피해와 용의자 집에서 발견한 시신을 구분해 보는 총격 사건",
+        "why_now": "11/7 현지 오후 발생·당일AP 보도. 기사 표시 갱신·전재 시간을 원 사건 최초 공개 시각으로 쓰지 않고 일 단위로 기록한다.",
+        "verified_at": 1794096234,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/11/07/deaths-and-injuries-reported-after-shots-were-fired-in-a-market-square-in-krakow-polish-authorities-say",
+            "note": "AP 본문에서 광장 사망6·부상15명과 용의자 검거를 확인했다. 투스크 총리는 용의자 집에서 가까운 가족으로 보이는2여성·1남성의 시신을 발견했다고 밝혔다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/11/07/deaths-and-injuries-reported-after-shots-were-fired-in-a-market-square-in-krakow-polish-authorities-say",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "집에서 발견된3명의 사망 경위·범인과의 관계는 수사 중이다. 영상은 시청하지 않았고 극우 동기는 당국 평가로 한정한다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-07",
+          "observation": "AP 본문에서 광장 사망6·부상15명과 용의자 검거를 확인했다. 투스크 총리는 용의자 집에서 가까운 가족으로 보이는2여성·1남성의 시신을 발견했다고 밝혔다.",
+          "checked_materials": [],
+          "outline": [
+            "광장 피해와 용의자 집에서 발견한 시신을 구분해 보는 총격 사건",
+            "주요 관광도시 중심 광장의 대규모 총격 뒤 추가 시신까지 발견됐다. 국가 지도부가 대응하는 중대한 치안 사건이다.",
+            "집에서 발견된3명의 사망 경위·범인과의 관계는 수사 중이다. 영상은 시청하지 않았고 극우 동기는 당국 평가로 한정한다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/11/07/deaths-and-injuries-reported-after-shots-were-fired-in-a-market-square-in-krakow-polish-authorities-say"
+          }
+        ],
+        "excerpt": "",
+        "context": "11/7 현지 오후 발생·당일AP 보도. 기사 표시 갱신·전재 시간을 원 사건 최초 공개 시각으로 쓰지 않고 일 단위로 기록한다.",
+        "fetched_at": 1794096461,
+        "parser_revision": 7
+      },
+      "curation_event_key": "krakow-main-square-mass-shooting-six-dead-family-bodies-found-20261107"
+    },
+    "e011b080ebb5": {
+      "source": "Reuters·Internazionale",
+      "title": "가자 피란민 텐트 대규모 침수…당국 “7만 동 피해”, 구조 장비도 부족",
+      "link": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/07/heavy-rain-floods-tents-housing-gaza-displaced-people-aid-shortages-hamper-response",
+      "first_seen_at": 1794096461,
+      "last_seen_at": 1794096461,
+      "samples": [
+        {
+          "at": 1794096461,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "e011b080ebb5",
+      "editorial": {
+        "title": "가자 피란민 텐트 대규모 침수…당국 “7만 동 피해”, 구조 장비도 부족",
+        "category": "시사",
+        "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/07/heavy-rain-floods-tents-housing-gaza-displaced-people-aid-shortages-hamper-response",
+        "source": "Reuters·Internazionale",
+        "kind": "article",
+        "event_key": "gaza-heavy-rain-displaced-tents-flooded-70000-20261107",
+        "why": "전쟁으로 집을 잃은 주민들의 임시 거처가 폭우에 잠겼다. 연료·장비 부족이 구조를 막는 대규모 인도적 재난이다.",
+        "angle": "겨울 앞둔 피란민, 집 대신 텐트마저 물에 잠겼다",
+        "why_now": "11/7 폭우·당국 발표. 확인 전재 최초12:55:38UTC·수정13:03:23UTC이며 사건일과 수집 시간을 구분했다.",
+        "verified_at": 1794096204,
+        "published_at": 1794056138,
+        "evidence": [
+          {
+            "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/07/heavy-rain-floods-tents-housing-gaza-displaced-people-aid-shortages-hamper-response",
+            "note": "Reuters 현장 취재 본문에서 침수 캠프와 주민 인터뷰를 확인했다. 하마스 운영 가자 공보실은7만 동 침수, 민방위는구조요청1,500건을 보고했다. 사망 보고는 없었다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/07/heavy-rain-floods-tents-housing-gaza-displaced-people-aid-shortages-hamper-response",
+            "label": "확인한 기사 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "7만 동은 현지 당국 집계로 독립 확정 수치처럼 쓰지 않는다. 기사 본문을 읽었으며 현장 영상을 직접 시청하지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-07",
+          "observation": "Reuters 현장 취재 본문에서 침수 캠프와 주민 인터뷰를 확인했다. 하마스 운영 가자 공보실은7만 동 침수, 민방위는구조요청1,500건을 보고했다. 사망 보고는 없었다.",
+          "checked_materials": [],
+          "outline": [
+            "겨울 앞둔 피란민, 집 대신 텐트마저 물에 잠겼다",
+            "전쟁으로 집을 잃은 주민들의 임시 거처가 폭우에 잠겼다. 연료·장비 부족이 구조를 막는 대규모 인도적 재난이다.",
+            "7만 동은 현지 당국 집계로 독립 확정 수치처럼 쓰지 않는다. 기사 본문을 읽었으며 현장 영상을 직접 시청하지 않았다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 기사 본문",
+            "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/07/heavy-rain-floods-tents-housing-gaza-displaced-people-aid-shortages-hamper-response"
+          }
+        ],
+        "excerpt": "",
+        "context": "11/7 폭우·당국 발표. 확인 전재 최초12:55:38UTC·수정13:03:23UTC이며 사건일과 수집 시간을 구분했다.",
+        "fetched_at": 1794096461,
+        "parser_revision": 7
+      },
+      "curation_event_key": "gaza-heavy-rain-displaced-tents-flooded-70000-20261107"
+    },
+    "edb424ddbb15": {
+      "source": "유엔 제네바 공식",
+      "title": "수단 구호 텐트 창고가 비었다…유엔 “필요 자금의35%만 확보”",
+      "link": "https://www.ungeneva.org/en/news-media/press-briefing/2026/11/un-geneva-press-briefing-0",
+      "first_seen_at": 1794096461,
+      "last_seen_at": 1794096461,
+      "samples": [
+        {
+          "at": 1794096461,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "official",
+      "story_id": "edb424ddbb15",
+      "editorial": {
+        "title": "수단 구호 텐트 창고가 비었다…유엔 “필요 자금의35%만 확보”",
+        "category": "시사",
+        "url": "https://www.ungeneva.org/en/news-media/press-briefing/2026/11/un-geneva-press-briefing-0",
+        "source": "유엔 제네바 공식",
+        "kind": "official",
+        "event_key": "unhcr-iom-sudan-emergency-shelter-stock-empty-funding-20261106",
+        "why": "대규모 강제이주 위기에서 실제 구호 재고가 바닥났다. 겨울을 앞두고 수백만 명의 거처·생필품 지원이 막힐 위험이다.",
+        "angle": "지원 수요 통계보다 먼저 봐야 할 빈 창고와 중단 위기",
+        "why_now": "11/6 제네바 공식 브리핑·당일 공개(일 단위). 48시간 내 미발송 발표로 검토했으며11/7 재기사 시각으로 바꾸지 않았다.",
+        "verified_at": 1794096234,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.ungeneva.org/en/news-media/press-briefing/2026/11/un-geneva-press-briefing-0",
+            "note": "유엔 브리핑 본문에서 UNHCR이주거 대응 필요자금1억7,900만 달러 중35% 확보를 설명하고 IOM이 텐트 창고가 완전히 비었다고 밝힌 것을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.ungeneva.org/en/news-media/press-briefing/2026/11/un-geneva-press-briefing-0",
+            "label": "확인한 공식 브리핑",
+            "kind": "source"
+          }
+        ],
+        "caution": "모든 구호 활동이 이미 중단됐다는 뜻은 아니다. 신규 피해 인원으로 연간 수요를 바꾸지 않으며 원 브리핑의 수치 불일치는 인용하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-06",
+          "observation": "유엔 브리핑 본문에서 UNHCR이주거 대응 필요자금1억7,900만 달러 중35% 확보를 설명하고 IOM이 텐트 창고가 완전히 비었다고 밝힌 것을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "지원 수요 통계보다 먼저 봐야 할 빈 창고와 중단 위기",
+            "대규모 강제이주 위기에서 실제 구호 재고가 바닥났다. 겨울을 앞두고 수백만 명의 거처·생필품 지원이 막힐 위험이다.",
+            "모든 구호 활동이 이미 중단됐다는 뜻은 아니다. 신규 피해 인원으로 연간 수요를 바꾸지 않으며 원 브리핑의 수치 불일치는 인용하지 않는다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 공식 브리핑",
+            "url": "https://www.ungeneva.org/en/news-media/press-briefing/2026/11/un-geneva-press-briefing-0"
+          }
+        ],
+        "excerpt": "",
+        "context": "11/6 제네바 공식 브리핑·당일 공개(일 단위). 48시간 내 미발송 발표로 검토했으며11/7 재기사 시각으로 바꾸지 않았다.",
+        "fetched_at": 1794096461,
+        "parser_revision": 7
+      },
+      "curation_event_key": "unhcr-iom-sudan-emergency-shelter-stock-empty-funding-20261106"
+    },
     "8c96905c5411": {
       "source": "맨체스터 시티 공식",
       "title": "개막 7연승 뒤 3연패…맨시티, 노팅엄에 1대3 패하며 선두와 6점 차",
@@ -360,78 +882,6 @@
         "parser_revision": 7
       },
       "curation_event_key": "yemen-bani-hushaysh-airstrikes-houthi-33-deaths-20261107"
-    },
-    "85e9fd2c77f7": {
-      "source": "Punch Newspapers",
-      "title": "북한, 브라질에 6대0…U-17 여자월드컵 동메달로 마무리",
-      "link": "https://punchng.com/dpr-korea-thrash-brazil-6-0-to-claim-u-17-womens-world-cup-bronze/",
-      "first_seen_at": 1794092807,
-      "last_seen_at": 1794092807,
-      "samples": [
-        {
-          "at": 1794092807,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "85e9fd2c77f7",
-      "editorial": {
-        "title": "북한, 브라질에 6대0…U-17 여자월드컵 동메달로 마무리",
-        "category": "축구",
-        "url": "https://punchng.com/dpr-korea-thrash-brazil-6-0-to-claim-u-17-womens-world-cup-bronze/",
-        "source": "Punch Newspapers",
-        "kind": "article",
-        "event_key": "dpr-korea-brazil-u17-womens-world-cup-bronze-six-zero-20261107",
-        "why": "3연패 도전이 끝난 북한이 세계대회 메달을 확보했다. 브라질을6골 차로 꺾으며 대회를 마친 결승일 주요 결과다.",
-        "angle": "일본과 준결승 승부차기 패배 뒤, 동메달 결정전6대0",
-        "why_now": "11/7 라바트3위전. 확인 기사 최초21:21:05UTC이며 경기 종료 시각·최초 경기 공개 시각과 혼동하지 않았다.",
-        "verified_at": 1794092661,
-        "published_at": 1794086465,
-        "evidence": [
-          {
-            "url": "https://punchng.com/dpr-korea-thrash-brazil-6-0-to-claim-u-17-womens-world-cup-bronze/",
-            "note": "기사 본문에서 북한의 브라질전6대0 승리와3위 확정, 리의경2골을 확인했다. 결승 일본·나이지리아전과 다른 동메달 결정전 결과다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://punchng.com/dpr-korea-thrash-brazil-6-0-to-claim-u-17-womens-world-cup-bronze/",
-            "label": "확인한 기사 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "실제 영상을 시청하지 않았다. 대회29골 기록 주장은 별도 공식 대조를 못 해 제목·핵심 사실에서 제외했다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-07",
-          "observation": "기사 본문에서 북한의 브라질전6대0 승리와3위 확정, 리의경2골을 확인했다. 결승 일본·나이지리아전과 다른 동메달 결정전 결과다.",
-          "checked_materials": [],
-          "outline": [
-            "일본과 준결승 승부차기 패배 뒤, 동메달 결정전6대0",
-            "3연패 도전이 끝난 북한이 세계대회 메달을 확보했다. 브라질을6골 차로 꺾으며 대회를 마친 결승일 주요 결과다.",
-            "실제 영상을 시청하지 않았다. 대회29골 기록 주장은 별도 공식 대조를 못 해 제목·핵심 사실에서 제외했다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 기사 본문",
-            "url": "https://punchng.com/dpr-korea-thrash-brazil-6-0-to-claim-u-17-womens-world-cup-bronze/"
-          }
-        ],
-        "excerpt": "",
-        "context": "11/7 라바트3위전. 확인 기사 최초21:21:05UTC이며 경기 종료 시각·최초 경기 공개 시각과 혼동하지 않았다.",
-        "fetched_at": 1794092807,
-        "parser_revision": 7
-      },
-      "curation_event_key": "dpr-korea-brazil-u17-womens-world-cup-bronze-six-zero-20261107"
     },
     "66560963b919": {
       "source": "Reuters·Internazionale",
@@ -799,78 +1249,6 @@
         "parser_revision": 7
       },
       "curation_event_key": "indonesia-prabowo-wiretapping-fourth-senior-officer-suspect-20261105"
-    },
-    "454268e0da5a": {
-      "source": "AAP",
-      "title": "뉴질랜드 여자팀도 결승행…럭비리그 월드컵 준결승서 사모아에 32대0",
-      "link": "https://aapnews.aap.com.au/news/hat-trick-hero-helps-kiwis-secure-world-cup-final-spot",
-      "first_seen_at": 1794060153,
-      "last_seen_at": 1794060153,
-      "samples": [
-        {
-          "at": 1794060153,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "454268e0da5a",
-      "editorial": {
-        "title": "뉴질랜드 여자팀도 결승행…럭비리그 월드컵 준결승서 사모아에 32대0",
-        "category": "메이저 스포츠",
-        "url": "https://aapnews.aap.com.au/news/hat-trick-hero-helps-kiwis-secure-world-cup-final-spot",
-        "source": "AAP",
-        "kind": "article",
-        "event_key": "new-zealand-samoa-women-rugby-league-world-cup-final-berth-20261107",
-        "why": "세계선수권 우승을 가리는 여자 럭비리그 월드컵에서 결승 한 자리가 확정됐다.",
-        "angle": "전 대회 결승 대패 뒤 다시 우승에 도전하는 뉴질랜드 여자팀",
-        "why_now": "11/7 뉴캐슬 준결승. AAP 당일 본문 확인이며 최초 공개의 분 단위 시각은 확인하지 못했다.",
-        "verified_at": 1794060074,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://aapnews.aap.com.au/news/hat-trick-hero-helps-kiwis-secure-world-cup-final-spot",
-            "note": "AAP 본문에서 뉴질랜드가 사모아를32대0으로 꺾고 결승에 진출했음을 확인했다. 와카는3트라이를 기록했고 결승 상대는 호주·피지전 승자다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://aapnews.aap.com.au/news/hat-trick-hero-helps-kiwis-secure-world-cup-final-spot",
-            "label": "확인한 원문 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "남자 준결승과 다른 팀·대회다. 결승 상대·우승을 미리 확정하지 않는다. 영상을 직접 시청하지 않았다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-07",
-          "observation": "AAP 본문에서 뉴질랜드가 사모아를32대0으로 꺾고 결승에 진출했음을 확인했다. 와카는3트라이를 기록했고 결승 상대는 호주·피지전 승자다.",
-          "checked_materials": [],
-          "outline": [
-            "전 대회 결승 대패 뒤 다시 우승에 도전하는 뉴질랜드 여자팀",
-            "세계선수권 우승을 가리는 여자 럭비리그 월드컵에서 결승 한 자리가 확정됐다.",
-            "남자 준결승과 다른 팀·대회다. 결승 상대·우승을 미리 확정하지 않는다. 영상을 직접 시청하지 않았다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 본문",
-            "url": "https://aapnews.aap.com.au/news/hat-trick-hero-helps-kiwis-secure-world-cup-final-spot"
-          }
-        ],
-        "excerpt": "",
-        "context": "11/7 뉴캐슬 준결승. AAP 당일 본문 확인이며 최초 공개의 분 단위 시각은 확인하지 못했다.",
-        "fetched_at": 1794060153,
-        "parser_revision": 7
-      },
-      "curation_event_key": "new-zealand-samoa-women-rugby-league-world-cup-final-berth-20261107"
     },
     "23a1f61a94a3": {
       "source": "미 제10항소법원·Justia",
@@ -30121,735 +30499,7 @@
         "parser_revision": 7
       },
       "curation_event_key": "lee-yo-won-oldest-child-sibling-care-travel-eun-ji-won-contradiction-20261031"
-    },
-    "d91f7ba03c42": {
-      "source": "Sportschau",
-      "title": "발롱도르 축하 파티 열린 날…케인은 PK 골대, 뮌헨은89분 동점골",
-      "link": "https://www.sportschau.de/fussball/bundesliga/bayern-und-kane-feiern-sich-gegen-bvb-zu-frueh%2Cspielbericht-bayern-muenchen-borussia-dortmund-112.html",
-      "first_seen_at": 1793488183,
-      "last_seen_at": 1793488183,
-      "samples": [
-        {
-          "at": 1793488183,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "d91f7ba03c42",
-      "editorial": {
-        "title": "발롱도르 축하 파티 열린 날…케인은 PK 골대, 뮌헨은89분 동점골",
-        "category": "축구",
-        "url": "https://www.sportschau.de/fussball/bundesliga/bayern-und-kane-feiern-sich-gegen-bvb-zu-frueh%2Cspielbericht-bayern-muenchen-borussia-dortmund-112.html",
-        "source": "Sportschau",
-        "kind": "article",
-        "event_key": "kane-ballon-dor-home-honour-penalty-bar-dortmund-20261031",
-        "why": "수상 축하의 주인공이 페널티킥을 놓치고 승리까지 막판에 놓치는 하루의 반전이 선명하다.",
-        "angle": "트로피 들고 입장한 주인공에게 찾아온 경기의 반전",
-        "why_now": "경기10/31 현지 저녁(KST11/1 새벽).축하행사도 당일 경기 직전.Sportschau31일 보도·21:36 갱신,최초 중계/기사 시각은 분 단위 미확인.",
-        "verified_at": 1793487791,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.sportschau.de/fussball/bundesliga/bayern-und-kane-feiern-sich-gegen-bvb-zu-frueh%2Cspielbericht-bayern-muenchen-borussia-dortmund-112.html",
-            "note": "Sportschau 경기 취재 본문에서가족과 트로피를 동반한 경기 전 축하·케인55분 PK 크로스바·이후 실점에 연결된 패스 실수·66분 도움·89분 실바 동점골을 확인했다.원경기 영상 직접 미시청."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.sportschau.de/fussball/bundesliga/bayern-und-kane-feiern-sich-gegen-bvb-zu-frueh%2Cspielbericht-bayern-muenchen-borussia-dortmund-112.html",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "실축만으로 패전 책임을 씌우지 않음.2-2 무승부이며 영상 시청한scene 승인 아님.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-31",
-          "observation": "Sportschau 경기 취재 본문에서가족과 트로피를 동반한 경기 전 축하·케인55분 PK 크로스바·이후 실점에 연결된 패스 실수·66분 도움·89분 실바 동점골을 확인했다.원경기 영상 직접 미시청.",
-          "checked_materials": [],
-          "outline": [
-            "수상 축하와가족 동반 입장",
-            "PK 크로스바 실축과이후 도움",
-            "89분 동점골로 끝난 하루"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.sportschau.de/fussball/bundesliga/bayern-und-kane-feiern-sich-gegen-bvb-zu-frueh%2Cspielbericht-bayern-muenchen-borussia-dortmund-112.html"
-          }
-        ],
-        "excerpt": "",
-        "context": "경기10/31 현지 저녁(KST11/1 새벽).축하행사도 당일 경기 직전.Sportschau31일 보도·21:36 갱신,최초 중계/기사 시각은 분 단위 미확인.",
-        "fetched_at": 1793488183,
-        "parser_revision": 7
-      },
-      "curation_event_key": "kane-ballon-dor-home-honour-penalty-bar-dortmund-20261031"
-    },
-    "5b71b2fb6493": {
-      "source": "뉴스1",
-      "title": "원희 팀 답은 순서만 틀렸는데…삼촌들은 두 번 주워 먹고 “가만히 있으면 이겨”",
-      "link": "https://www.news1.kr/entertain/broadcast-tv/6338740",
-      "first_seen_at": 1793488183,
-      "last_seen_at": 1793488183,
-      "samples": [
-        {
-          "at": 1793488183,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "5b71b2fb6493",
-      "editorial": {
-        "title": "원희 팀 답은 순서만 틀렸는데…삼촌들은 두 번 주워 먹고 “가만히 있으면 이겨”",
-        "category": "아이돌",
-        "url": "https://www.news1.kr/entertain/broadcast-tv/6338740",
-        "source": "뉴스1",
-        "kind": "article",
-        "event_key": "wonhee-snack-word-order-stolen-answers-uncles-retort-nolto-20261031",
-        "why": "정답 단어를 알아도 순서 때문에 뺏기고,신난 상대 팀에 원희가 받아치는 짧고 완결된 예능 상황이다.",
-        "angle": "과자 이름 순서만 뒤집었더니 삼촌들 연속 정답",
-        "why_now": "원방송10/31 19:30KST 시작,해당 게임의 최초 공개 분 단위 미확인.뉴스1 21:14:09 취재·전재 본문 대조.촬영일 미기재.",
-        "verified_at": 1793487810,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.news1.kr/entertain/broadcast-tv/6338740",
-            "note": "뉴스1 원문은 요약만 노출,뉴스펍 전재 본문에서초코송이말차/와사비새우깡 순서 정정으로 상대팀 연속 정답·넉살의가만히 있으면 이겨·원희의삼촌들 너무 신났는데요 대꾸를 확인했다.원방송 영상 미시청."
-          },
-          {
-            "url": "https://www.newspub.kr/content?aid=6863d4e8ce080a6be2a8b0e9&category=3&dark=0&mid=6863d50be0fc5b5c40aaee65&nid=6ae5dcf35142357afca77ebc",
-            "note": "뉴스1 방송 취재 전재의실제 본문 전체로게임 진행과대꾸 대조.전재 시각을 방송 최초 공개로 쓰지 않음."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.news1.kr/entertain/broadcast-tv/6338740",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "실제 부정행위·갈등 아님.예능 게임의 장난이며 별도 발송한 동향·동갑 토크와 다른 대화다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-31",
-          "observation": "뉴스1 원문은 요약만 노출,뉴스펍 전재 본문에서초코송이말차/와사비새우깡 순서 정정으로 상대팀 연속 정답·넉살의가만히 있으면 이겨·원희의삼촌들 너무 신났는데요 대꾸를 확인했다.원방송 영상 미시청.",
-          "checked_materials": [],
-          "outline": [
-            "말차초코송이 대신초코송이말차가 정답",
-            "새우깡와사비도 순서 바꿔 상대팀 득점",
-            "넉살의자축과원희의대꾸"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.news1.kr/entertain/broadcast-tv/6338740"
-          }
-        ],
-        "excerpt": "",
-        "context": "원방송10/31 19:30KST 시작,해당 게임의 최초 공개 분 단위 미확인.뉴스1 21:14:09 취재·전재 본문 대조.촬영일 미기재.",
-        "fetched_at": 1793488183,
-        "parser_revision": 7
-      },
-      "curation_event_key": "wonhee-snack-word-order-stolen-answers-uncles-retort-nolto-20261031"
-    },
-    "6d1954a33933": {
-      "source": "엑스포츠뉴스",
-      "title": "동생과 식단·휴대폰까지 통제한 합숙…이찬혁은 몰래 삼각김밥 먹었다",
-      "link": "https://www.xportsnews.com/article/2213887",
-      "first_seen_at": 1793488183,
-      "last_seen_at": 1793488183,
-      "samples": [
-        {
-          "at": 1793488183,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "6d1954a33933",
-      "editorial": {
-        "title": "동생과 식단·휴대폰까지 통제한 합숙…이찬혁은 몰래 삼각김밥 먹었다",
-        "category": "시사",
-        "url": "https://www.xportsnews.com/article/2213887",
-        "source": "엑스포츠뉴스",
-        "kind": "article",
-        "event_key": "akmu-suhyun-lifestyle-camp-chanhyuk-secret-convenience-food-reveal-20261031",
-        "why": "동생을 위해 엄격한 규칙을 만든 오빠가 먼저 몰래 편의점 음식을 먹었다는 매니저 폭로로 감동 뒤 웃음이 회수된다.",
-        "angle": "엄격한 합숙의설계자에게도 참기 힘든 편의점",
-        "why_now": "새 공개 전참시10/31 23:10KST 시작,11/1 00:29:38 기사.합숙 자체는2026/1/1 시작한 과거 일화로 구분.해당 폭로의 방송 내 시각 미확인.",
-        "verified_at": 1793487893,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.xportsnews.com/article/2213887",
-            "note": "엑스포츠 방송 취재 본문에서가평 합숙·식단/운동·휴대폰 사용 제한·이찬혁의삼각김밥/핫바 몰래 구매 요청이라는 매니저 폭로·이수현 반응·어쨌든 잘됐잖아 대꾸를 확인했다.원방송 영상 미시청."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.xportsnews.com/article/2213887",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "합숙은과거 회상이고 이번 공개와 구분.슬럼프 치료 효과·의학적 처방으로 일반화 금지.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-31",
-          "observation": "엑스포츠 방송 취재 본문에서가평 합숙·식단/운동·휴대폰 사용 제한·이찬혁의삼각김밥/핫바 몰래 구매 요청이라는 매니저 폭로·이수현 반응·어쨌든 잘됐잖아 대꾸를 확인했다.원방송 영상 미시청.",
-          "checked_materials": [],
-          "outline": [
-            "동생 건강 회복을 위한 합숙 규칙",
-            "매니저가 폭로한오빠의편의점 일탈",
-            "처음 안 동생의반응과오빠의능청"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.xportsnews.com/article/2213887"
-          }
-        ],
-        "excerpt": "",
-        "context": "새 공개 전참시10/31 23:10KST 시작,11/1 00:29:38 기사.합숙 자체는2026/1/1 시작한 과거 일화로 구분.해당 폭로의 방송 내 시각 미확인.",
-        "fetched_at": 1793488183,
-        "parser_revision": 7
-      },
-      "curation_event_key": "akmu-suhyun-lifestyle-camp-chanhyuk-secret-convenience-food-reveal-20261031"
-    },
-    "4f78a76d1a1f": {
-      "source": "토트넘 공식",
-      "title": "헤더 막히고 쓰러졌는데…판헤케는 바닥에서 머리로 한 번 더 넣었다",
-      "link": "https://www.tottenhamhotspur.com/news/1182980/spurs-2-0-palace-roberto-de-zerbis-verdict",
-      "first_seen_at": 1793488183,
-      "last_seen_at": 1793488183,
-      "samples": [
-        {
-          "at": 1793488183,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "4f78a76d1a1f",
-      "editorial": {
-        "title": "헤더 막히고 쓰러졌는데…판헤케는 바닥에서 머리로 한 번 더 넣었다",
-        "category": "축구",
-        "url": "https://www.tottenhamhotspur.com/news/1182980/spurs-2-0-palace-roberto-de-zerbis-verdict",
-        "source": "토트넘 공식",
-        "kind": "article",
-        "event_key": "van-hecke-ground-rebound-header-palace-20261031",
-        "why": "높이 뛰는 헤더 다음 바닥에서의 헤더라는 비정상적인 자세의 득점 과정 자체가 포인트다.",
-        "angle": "일어나기 전에 머리부터 다시 쓴 수비수",
-        "why_now": "경기10/31 영국17:30 시작(KST11/1 02:30).73분 득점·경기 후 구단 원문 공개.페이지 상대시간만 노출,정확 게시 분 단위 미확인.",
-        "verified_at": 1793487789,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.tottenhamhotspur.com/news/1182980/spurs-2-0-palace-roberto-de-zerbis-verdict",
-            "note": "토트넘 공식 본문에서판헤케 첫 헤더를 헨더슨이 크로스바로 쳐낸 뒤 바닥에 있던 판헤케가 머리로 다시 넣었다는73분 경위를 확인했다.원경기 영상 직접 미시청,기록·구단 묘사 기반 기사형."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.tottenhamhotspur.com/news/1182980/spurs-2-0-palace-roberto-de-zerbis-verdict",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "앉은 자세의 정확한 몸동작을 직접 본 것으로 쓰지 않음.결과2-0 자체보다 득점 과정이 소재다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-31",
-          "observation": "토트넘 공식 본문에서판헤케 첫 헤더를 헨더슨이 크로스바로 쳐낸 뒤 바닥에 있던 판헤케가 머리로 다시 넣었다는73분 경위를 확인했다.원경기 영상 직접 미시청,기록·구단 묘사 기반 기사형.",
-          "checked_materials": [],
-          "outline": [
-            "페르난데스 크로스와첫 헤더",
-            "골키퍼 선방 뒤크로스바와낙구",
-            "바닥에서머리로재차 득점"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.tottenhamhotspur.com/news/1182980/spurs-2-0-palace-roberto-de-zerbis-verdict"
-          }
-        ],
-        "excerpt": "",
-        "context": "경기10/31 영국17:30 시작(KST11/1 02:30).73분 득점·경기 후 구단 원문 공개.페이지 상대시간만 노출,정확 게시 분 단위 미확인.",
-        "fetched_at": 1793488183,
-        "parser_revision": 7
-      },
-      "curation_event_key": "van-hecke-ground-rebound-header-palace-20261031"
-    },
-    "d3a6d7af0502": {
-      "source": "뉴시스",
-      "title": "“좋은 티야” 항변한 주우재…유재석 “내 건1만2000원”에 동료들까지 합세",
-      "link": "https://files.newsis.com/view/NISX20261031_0003849435",
-      "first_seen_at": 1793488183,
-      "last_seen_at": 1793488183,
-      "samples": [
-        {
-          "at": 1793488183,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "d3a6d7af0502",
-      "editorial": {
-        "title": "“좋은 티야” 항변한 주우재…유재석 “내 건1만2000원”에 동료들까지 합세",
-        "category": "시사",
-        "url": "https://files.newsis.com/view/NISX20261031_0003849435",
-        "source": "뉴시스",
-        "kind": "article",
-        "event_key": "joo-woo-jae-luxury-shirt-yoo-jae-suk-12000-won-teasing-20261031",
-        "why": "모델이 좋은 옷을 입었다고 항변할수록 동료들이 늘어남·색을 지적하는 꼬리물기 농담이 이어진다.",
-        "angle": "명품 티 방어하다가 네 명의잔소리를 받은 모델",
-        "why_now": "원방송 놀면뭐하니10/31 저녁(해당 대화 분 단위 미확인).뉴시스11/1 05:00 취재.김광규 집/호칭 토크와별도 상황.",
-        "verified_at": 1793487858,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://files.newsis.com/view/NISX20261031_0003849435",
-            "note": "뉴시스 본문에서주우재의좋은 티라는 항변·허경환의옷이 울었다는 지적·유재석의1만2000원 옷 가격·하하의늘어났다는 거들기를 확인했다.명품 구매 영수증·원방송 영상 직접 미확인."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://files.newsis.com/view/NISX20261031_0003849435",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "실제 불화나명품 품질 검사 아님.같은 방송의 별도 대사·상황만 다룬다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-31",
-          "observation": "뉴시스 본문에서주우재의좋은 티라는 항변·허경환의옷이 울었다는 지적·유재석의1만2000원 옷 가격·하하의늘어났다는 거들기를 확인했다.명품 구매 영수증·원방송 영상 직접 미확인.",
-          "checked_materials": [],
-          "outline": [
-            "주우재의의상 불만과유재석의지적",
-            "좋은 티라는항변에허경환까지합세",
-            "1만2000원 옷으로비교하는유재석"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://files.newsis.com/view/NISX20261031_0003849435"
-          }
-        ],
-        "excerpt": "",
-        "context": "원방송 놀면뭐하니10/31 저녁(해당 대화 분 단위 미확인).뉴시스11/1 05:00 취재.김광규 집/호칭 토크와별도 상황.",
-        "fetched_at": 1793488183,
-        "parser_revision": 7
-      },
-      "curation_event_key": "joo-woo-jae-luxury-shirt-yoo-jae-suk-12000-won-teasing-20261031"
-    },
-    "117ff0f24ebf": {
-      "source": "연합뉴스",
-      "title": "순방 끊고 돌아온 폴란드 대통령…헌재 입구에서 재판관들과 몸싸움",
-      "link": "https://www.yna.co.kr/view/AKR20261031027851009",
-      "first_seen_at": 1793488183,
-      "last_seen_at": 1793488183,
-      "samples": [
-        {
-          "at": 1793488183,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "117ff0f24ebf",
-      "editorial": {
-        "title": "순방 끊고 돌아온 폴란드 대통령…헌재 입구에서 재판관들과 몸싸움",
-        "category": "시사",
-        "url": "https://www.yna.co.kr/view/AKR20261031027851009",
-        "source": "연합뉴스",
-        "kind": "article",
-        "event_key": "poland-nawrocki-constitutional-court-judges-physical-confrontation-20261030",
-        "why": "헌재 운영권 다툼이 대통령의 직접 진입과 몸싸움으로 번진 구체 행동,양측 정당화가 충돌한다.",
-        "angle": "복싱 경력 대통령의헌재 출입이몸싸움으로",
-        "why_now": "현지10/30 직무정지·대통령 귀국/충돌,31일 새벽 성명.연합뉴스31일20:00:50KST 종합.최초 현지 보도·공개 영상 시각은 정확 분 미확인.",
-        "verified_at": 1793487901,
-        "published_at": 1793444450,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261031027851009",
-            "note": "연합뉴스 본문에서소장 직무정지·순방 중단 귀국·헌재 진입 중 재판관들과 몸싸움·대통령실의출입 방해 주장·법무부의수사 방침을 확인했다.원충돌 영상·법적 권한 원문 직접 미열람."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261031027851009",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "쿠데타는야권 주장으로 귀속.복싱 경기·주먹질로 단정 금지.영상 직접 시청 아님.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-30",
-          "observation": "연합뉴스 본문에서소장 직무정지·순방 중단 귀국·헌재 진입 중 재판관들과 몸싸움·대통령실의출입 방해 주장·법무부의수사 방침을 확인했다.원충돌 영상·법적 권한 원문 직접 미열람.",
-          "checked_materials": [],
-          "outline": [
-            "헌재소장 직무정지와순방 중단 귀국",
-            "입구에서대통령·재판관들의물리적 대립",
-            "출입 방해 vs재판관 공격이라는상반된 주장"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.yna.co.kr/view/AKR20261031027851009"
-          }
-        ],
-        "excerpt": "",
-        "context": "현지10/30 직무정지·대통령 귀국/충돌,31일 새벽 성명.연합뉴스31일20:00:50KST 종합.최초 현지 보도·공개 영상 시각은 정확 분 미확인.",
-        "fetched_at": 1793488183,
-        "parser_revision": 7
-      },
-      "curation_event_key": "poland-nawrocki-constitutional-court-judges-physical-confrontation-20261030"
-    },
-    "a5bd0945f942": {
-      "source": "더스탠더드",
-      "title": "9경기 무승 뒤에도 “다음 경기 지휘?” “네”…퇴장 선수 탓도 안 한 캐릭",
-      "link": "https://www.standard.co.uk/sport/football/man-utd-carrick-sack-future-chelsea-fc-b1303079.html",
-      "first_seen_at": 1793488183,
-      "last_seen_at": 1793488183,
-      "samples": [
-        {
-          "at": 1793488183,
-          "views": null,
-          "reactions": null,
-          "rank": 7,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "a5bd0945f942",
-      "editorial": {
-        "title": "9경기 무승 뒤에도 “다음 경기 지휘?” “네”…퇴장 선수 탓도 안 한 캐릭",
-        "category": "축구",
-        "url": "https://www.standard.co.uk/sport/football/man-utd-carrick-sack-future-chelsea-fc-b1303079.html",
-        "source": "더스탠더드",
-        "kind": "article",
-        "event_key": "carrick-post-chelsea-roma-remain-yes-martinez-not-let-down-response-20261031",
-        "why": "마지막 기회라는 시선 속 패배 뒤에도 본인 거취에는긍정,퇴장 선수가실망시켰냐는질문에는부정하는짧은답이대조된다.",
-        "angle": "유임도 네 글자,선수 탓도 하지 않은경기 후 답변",
-        "why_now": "TNT 경기 후 인터뷰10/31 영국 낮.더스탠더드15:45:55UTC(11/1 00:45:55KST) 공개.이미발송한 경기 중82초퇴장과구별되는새답변.",
-        "verified_at": 1793487789,
-        "published_at": 1793461555,
-        "evidence": [
-          {
-            "url": "https://www.standard.co.uk/sport/football/man-utd-carrick-sack-future-chelsea-fc-b1303079.html",
-            "note": "더스탠더드 본문에서로마전에도지휘하냐는질문에Yeah·마르티네스에게실망했냐는질문에No·경기후팬반응을확인했다.TNT인터뷰영상직접미시청.기사는Sunday로요일오기,실제경기31일토요일구단자료와구별."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.standard.co.uk/sport/football/man-utd-carrick-sack-future-chelsea-fc-b1303079.html",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "구단의유임확정공지가아닌캐릭본인의답.이미발송한퇴장장면을새사건으로재포장하지않음.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-31",
-          "observation": "더스탠더드 본문에서로마전에도지휘하냐는질문에Yeah·마르티네스에게실망했냐는질문에No·경기후팬반응을확인했다.TNT인터뷰영상직접미시청.기사는Sunday로요일오기,실제경기31일토요일구단자료와구별.",
-          "checked_materials": [],
-          "outline": [
-            "첼시전뒤다음경기거취질문",
-            "유임예상에짧게긍정한캐릭",
-            "퇴장선수탓은거부한답변"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.standard.co.uk/sport/football/man-utd-carrick-sack-future-chelsea-fc-b1303079.html"
-          }
-        ],
-        "excerpt": "",
-        "context": "TNT 경기 후 인터뷰10/31 영국 낮.더스탠더드15:45:55UTC(11/1 00:45:55KST) 공개.이미발송한 경기 중82초퇴장과구별되는새답변.",
-        "fetched_at": 1793488183,
-        "parser_revision": 7
-      },
-      "curation_event_key": "carrick-post-chelsea-roma-remain-yes-martinez-not-let-down-response-20261031"
-    },
-    "f69d3d61dae4": {
-      "source": "dpa/타게블라트",
-      "title": "세계1위 확정했는데 결승은 탈락…즈베레프는 공 들고 “이게 정상이냐”",
-      "link": "https://www.tageblatt.de/Nachrichten/Zverev-schimpft-ueber-Baelle-und-verpasst-Traumfinale-in-Wien-781289.html",
-      "first_seen_at": 1793488183,
-      "last_seen_at": 1793488183,
-      "samples": [
-        {
-          "at": 1793488183,
-          "views": null,
-          "reactions": null,
-          "rank": 8,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "f69d3d61dae4",
-      "editorial": {
-        "title": "세계1위 확정했는데 결승은 탈락…즈베레프는 공 들고 “이게 정상이냐”",
-        "category": "메이저 스포츠",
-        "url": "https://www.tageblatt.de/Nachrichten/Zverev-schimpft-ueber-Baelle-und-verpasst-Traumfinale-in-Wien-781289.html",
-        "source": "dpa/타게블라트",
-        "kind": "article",
-        "event_key": "zverev-vienna-semifinal-balls-complaint-de-minaur-20261031",
-        "why": "세계1위 등극을앞둔선수가준결승에서탈락하고심판앞에공을내밀며장비에항의한구체행동이있다.",
-        "angle": "랭킹1위의날과대회우승의날은달랐다",
-        "why_now": "빈준결승10/31 현지. dpa전재31일19:55CET(11/1 03:55KST).항의순간의첫클립공개분미확인.전날LED보드파손과다른경기/행동.",
-        "verified_at": 1793487933,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.tageblatt.de/Nachrichten/Zverev-schimpft-ueber-Baelle-und-verpasst-Traumfinale-in-Wien-781289.html",
-            "note": "dpa전재본문에서드미노전4-6/6-1/6-7패배·심판앞에공을들고정상적인대회공이냐고반복항의·월요일랭킹1위예정을확인했다.원클립직접미시청,공결함실측자료없음."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.tageblatt.de/Nachrichten/Zverev-schimpft-ueber-Baelle-und-verpasst-Traumfinale-in-Wien-781289.html",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "공이불량이었다는확정아님.선수의불만에귀속.기존발송LED파손행동반복아님.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-31",
-          "observation": "dpa전재본문에서드미노전4-6/6-1/6-7패배·심판앞에공을들고정상적인대회공이냐고반복항의·월요일랭킹1위예정을확인했다.원클립직접미시청,공결함실측자료없음.",
-          "checked_materials": [],
-          "outline": [
-            "이미확정한차기세계1위",
-            "준결승중심판앞공항의",
-            "드미노승리와결승진출실패"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://www.tageblatt.de/Nachrichten/Zverev-schimpft-ueber-Baelle-und-verpasst-Traumfinale-in-Wien-781289.html"
-          }
-        ],
-        "excerpt": "",
-        "context": "빈준결승10/31 현지. dpa전재31일19:55CET(11/1 03:55KST).항의순간의첫클립공개분미확인.전날LED보드파손과다른경기/행동.",
-        "fetched_at": 1793488183,
-        "parser_revision": 7
-      },
-      "curation_event_key": "zverev-vienna-semifinal-balls-complaint-de-minaur-20261031"
-    },
-    "4d99fdfc1cc8": {
-      "source": "USA TODAY/Yahoo",
-      "title": "돈치치 재대결 앞두고 살인마 분장…신인 해명은 “내 사이즈가 이것뿐”",
-      "link": "https://sports.yahoo.com/articles/warriors-yaxel-lendeborg-embraces-halloween-024304307.html",
-      "first_seen_at": 1793488183,
-      "last_seen_at": 1793488183,
-      "samples": [
-        {
-          "at": 1793488183,
-          "views": null,
-          "reactions": null,
-          "rank": 9,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "4d99fdfc1cc8",
-      "editorial": {
-        "title": "돈치치 재대결 앞두고 살인마 분장…신인 해명은 “내 사이즈가 이것뿐”",
-        "category": "메이저 스포츠",
-        "url": "https://sports.yahoo.com/articles/warriors-yaxel-lendeborg-embraces-halloween-024304307.html",
-        "source": "USA TODAY/Yahoo",
-        "kind": "article",
-        "event_key": "yaxel-lendeborg-michael-myers-costume-only-size-explanation-20261030",
-        "why": "라이벌위협처럼보인살인마분장의실제이유가배송실패와매장사이즈였다는본인설명이반전을만든다.",
-        "angle": "무서운분장뒤에있던현실적인재고사정",
-        "why_now": "분장입장미국10/30 저녁(KST31일오전),경기후새설명.USA TODAY전재31일02:43UTC표시,본문경기후갱신분의정확시각미확인.NBA공식캡션31일대조.",
-        "verified_at": 1793487977,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://sports.yahoo.com/articles/warriors-yaxel-lendeborg-embraces-halloween-024304307.html",
-            "note": "USA TODAY전재본문에서닉캐넌의상배송이늦어매장에갔고맞는사이즈가이것뿐이었다는린드보그설명을확인했다.NBA공식공개embed캡션도동일설명.원영상직접미시청."
-          },
-          {
-            "url": "https://www.instagram.com/p/DfJmSZhEVoo/embed/captioned/",
-            "note": "NBA·워리어스공동계정공개캡션의본인사이즈발언직접열람.캡션확인을영상시청으로기록하지않음."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://sports.yahoo.com/articles/warriors-yaxel-lendeborg-embraces-halloween-024304307.html",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "돈치치협박의도로단정금지.본인설명은분장사정이다.이미발송여부와무관하게역전승기록재탕하지않음.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-30",
-          "observation": "USA TODAY전재본문에서닉캐넌의상배송이늦어매장에갔고맞는사이즈가이것뿐이었다는린드보그설명을확인했다.NBA공식공개embed캡션도동일설명.원영상직접미시청.",
-          "checked_materials": [],
-          "outline": [
-            "돈치치와재대결앞둔마이클마이어스분장",
-            "원래주문한의상배송실패",
-            "매장에맞는사이즈가이것뿐이라는설명"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://sports.yahoo.com/articles/warriors-yaxel-lendeborg-embraces-halloween-024304307.html"
-          }
-        ],
-        "excerpt": "",
-        "context": "분장입장미국10/30 저녁(KST31일오전),경기후새설명.USA TODAY전재31일02:43UTC표시,본문경기후갱신분의정확시각미확인.NBA공식캡션31일대조.",
-        "fetched_at": 1793488183,
-        "parser_revision": 7
-      },
-      "curation_event_key": "yaxel-lendeborg-michael-myers-costume-only-size-explanation-20261030"
-    },
-    "1832846fadfb": {
-      "source": "World Soccer Talk",
-      "title": "27명 중 메시만 찍었다…마자의 코파 트로피1점은 메시의3순위 표",
-      "link": "https://worldsoccertalk.com/news/who-did-lionel-messi-vote-for-in-the-kopa-trophy-his-ballot-and-a-surprise-third-pick/",
-      "first_seen_at": 1793488183,
-      "last_seen_at": 1793488183,
-      "samples": [
-        {
-          "at": 1793488183,
-          "views": null,
-          "reactions": null,
-          "rank": 10,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "1832846fadfb",
-      "editorial": {
-        "title": "27명 중 메시만 찍었다…마자의 코파 트로피1점은 메시의3순위 표",
-        "category": "축구",
-        "url": "https://worldsoccertalk.com/news/who-did-lionel-messi-vote-for-in-the-kopa-trophy-his-ballot-and-a-surprise-third-pick/",
-        "source": "World Soccer Talk",
-        "kind": "article",
-        "event_key": "messi-kopa-trophy-ibrahim-maza-only-point-ballot-disclosure-20261031",
-        "why": "최종9위의단1점이메시에게서왔다는투표공개의숨은연결고리가있어통상순위나유명인이름만있는소재와다르다.",
-        "angle": "코파트로피1점의출처를열어봤더니메시",
-        "why_now": "투표내역새공개10/31(원표공개정확분미확인).WST31일16:43:26UTC취재.시상식10/26과구분,이번선정은새로공개된개별투표.",
-        "verified_at": 1793487900,
-        "published_at": 1793465006,
-        "evidence": [
-          {
-            "url": "https://worldsoccertalk.com/news/who-did-lionel-messi-vote-for-in-the-kopa-trophy-his-ballot-and-a-surprise-third-pick/",
-            "note": "WST본문에서메시가야말1순위/쿠바르시2순위/마자3순위·27명중마자선택유일·1점으로9위라는보도를확인했다.레키프원투표표직접미열람,독립원표감정아님."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://worldsoccertalk.com/news/who-did-lionel-messi-vote-for-in-the-kopa-trophy-his-ballot-and-a-surprise-third-pick/",
-            "label": "확인한 원문 취재",
-            "kind": "source"
-          }
-        ],
-        "caution": "메시가마자를전체최고유망주로선정한것아님.3순위이며선택이유를월드컵인연으로단정하지않음.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-31",
-          "observation": "WST본문에서메시가야말1순위/쿠바르시2순위/마자3순위·27명중마자선택유일·1점으로9위라는보도를확인했다.레키프원투표표직접미열람,독립원표감정아님.",
-          "checked_materials": [],
-          "outline": [
-            "메시의1·2순위바르사선수들",
-            "3순위에서나온알제리미드필더마자",
-            "27명중유일표와최종1점의연결"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문 취재",
-            "url": "https://worldsoccertalk.com/news/who-did-lionel-messi-vote-for-in-the-kopa-trophy-his-ballot-and-a-surprise-third-pick/"
-          }
-        ],
-        "excerpt": "",
-        "context": "투표내역새공개10/31(원표공개정확분미확인).WST31일16:43:26UTC취재.시상식10/26과구분,이번선정은새로공개된개별투표.",
-        "fetched_at": 1793488183,
-        "parser_revision": 7
-      },
-      "curation_event_key": "messi-kopa-trophy-ibrahim-maza-only-point-ballot-disclosure-20261031"
     }
   },
-  "updated_at": 1794092807
+  "updated_at": 1794096461
 }

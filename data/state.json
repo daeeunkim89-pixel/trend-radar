@@ -1,5 +1,5 @@
 {
-  "updated_at": 1794092808,
+  "updated_at": 1794096461,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026110723",
+    "hour_utc": "2026110800",
     "category_counts": {
-      "시사": 2,
+      "시사": 3,
       "축구": 2,
-      "메이저 스포츠": 1,
+      "메이저 스포츠": 0,
       "아이돌": 0
     },
-    "research_queries": 13,
-    "opened_sources": 6,
+    "research_queries": 23,
+    "opened_sources": 8,
     "picks": [
       {
-        "title": "개막 7연승 뒤 3연패…맨시티, 노팅엄에 1대3 패하며 선두와 6점 차",
-        "url": "https://www.mancity.com/news/mens/nottingham-forest-manchester-city-match-report-premier-league-63929666",
-        "event_key": "manchester-city-forest-third-consecutive-league-loss-six-points-gap-20261107"
+        "title": "북한, 브라질에 6대0…U-17 여자월드컵 동메달로 대회 마무리",
+        "url": "https://punchng.com/dpr-korea-thrash-brazil-6-0-to-claim-u-17-womens-world-cup-bronze/",
+        "event_key": "dpr-korea-brazil-u17-womens-world-cup-bronze-six-zero-20261107"
       },
       {
-        "title": "아프리카 첫 우승…나이지리아, 일본 꺾고 U-17 여자월드컵 정상",
-        "url": "https://www.cafonline.com/womens-football/news/fifa-u-17-women-s-world-cup-africa-on-top-of-the-world-as-nigeria-wins-the-title-for-the-first-time/",
-        "event_key": "nigeria-japan-u17-womens-world-cup-first-african-title-20261107"
+        "title": "레알, 발렌시아에 3대0…승점30으로 바르셀로나와 동률",
+        "url": "https://www.thestar.com.my/sport/football/2026/11/08/soccer-real-madrid-sweep-aside-valencia-to-move-level-with-barcelona",
+        "event_key": "real-madrid-valencia-win-thirty-points-level-barcelona-20261107"
       },
       {
-        "title": "알카라스, 첫 파리 마스터스 결승…US오픈서 졌던 셸턴과 재대결",
-        "url": "https://www.rolexparismasters.com/en/news/article/semi-finals-carlos-alcaraz-victory-casper-ruud-first-paris",
-        "event_key": "alcaraz-ruud-first-paris-masters-final-shelton-rematch-20261107"
+        "title": "이스라엘 대통령, 네타냐후 대신 아이젠코트에 연정 구성 기회 주기로",
+        "url": "https://theprint.in/world/israeli-president-picks-gadi-eisenkot-netanyahu-rival-to-try-to-form-government/3093462/",
+        "event_key": "israel-herzog-selects-eisenkot-next-government-mandate-announcement-20261107"
       },
       {
-        "title": "미군 “오만만 화물선 선미 타격해 운항 불능”…이란 해상봉쇄 강제 집행",
-        "url": "https://www.stripes.com/theaters/middle_east/2026-11-07/centcom-strikes-commercial-cargo-vessel-23394462.html",
-        "event_key": "centcom-huda-cargo-vessel-disabled-gulf-of-oman-20261107"
+        "title": "폴란드 크라쿠프 광장 총격에 6명 사망…용의자 집에서도 시신3구 발견",
+        "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/11/07/deaths-and-injuries-reported-after-shots-were-fired-in-a-market-square-in-krakow-polish-authorities-say",
+        "event_key": "krakow-main-square-mass-shooting-six-dead-family-bodies-found-20261107"
       },
       {
-        "title": "후티 측 “예멘 마을 공습에 33명 사망”…사우디는 조사 중",
-        "url": "https://www.investing.com/news/world-news/houthirun-health-ministry-says-airstrikes-it-blames-on-saudi-arabia-kill-27-near-yemen-capital-5010011",
-        "event_key": "yemen-bani-hushaysh-airstrikes-houthi-33-deaths-20261107"
+        "title": "가자 피란민 텐트 대규모 침수…당국 “7만 동 피해”, 구조 장비도 부족",
+        "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/07/heavy-rain-floods-tents-housing-gaza-displaced-people-aid-shortages-hamper-response",
+        "event_key": "gaza-heavy-rain-displaced-tents-flooded-70000-20261107"
       }
     ]
   }
