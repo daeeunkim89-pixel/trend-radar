@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": 1794067021,
+  "generated_at": 1794102867,
   "mode": "major_news_ranked",
   "reference": "docs/btp-news-policy-20261104.md",
   "budget": {
@@ -20,15 +20,26 @@
   "source_errors": [
     "펨코 직접",
     "개드립 인기",
-    "보배드림 베스트",
     "네이버 스포츠 영상"
   ],
   "candidates": [
     {
       "lane": "football",
-      "title": "[PL REVIEW] 1,106일 만의 4연승 물거품…토트넘, '오카포 결승골' 리즈에 0-1 패배!→상승세 제동+10위 추락",
-      "url": "https://news.nate.com/view/20261107n13636",
+      "title": "'흥민아 내가 든든히 지킬게' 절친한 형 김승규, J1 역대 최다 연속 무실점 '신기록'",
+      "url": "https://news.nate.com/view/20261107n10216",
       "source": "국내·해외축구",
+      "source_role": "lead",
+      "context": "",
+      "materials": [],
+      "published_metadata": null,
+      "video_viewed": false,
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
+    },
+    {
+      "lane": "sports",
+      "title": "'팬들만 불쌍하다' 한국시리즈, 40년 만에 '불명예' 신기록…1경기 사...",
+      "url": "https://news.nate.com/view/20261108n01448",
+      "source": "네이트 스포츠",
       "source_role": "lead",
       "context": "",
       "materials": [],
@@ -50,33 +61,9 @@
     },
     {
       "lane": "football",
-      "title": "\"우리 목표는 PL 우승\" 토트넘 CEO 야망에 데 제르비 감독도 대만족!…\"행동으로 보여주는 게 중요\"",
-      "url": "https://news.nate.com/view/20261107n11475",
-      "source": "국내·해외축구",
-      "source_role": "lead",
-      "context": "",
-      "materials": [],
-      "published_metadata": null,
-      "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
-    },
-    {
-      "lane": "football",
       "title": "'다이렉트 승격 희망 청신호!' 수원FC, '선두' 추격 포기 없다→경남전 3-0 완승…대구도 성남전 1-0 승리",
       "url": "https://news.nate.com/view/20261107n08338",
       "source": "국내·해외축구",
-      "source_role": "lead",
-      "context": "",
-      "materials": [],
-      "published_metadata": null,
-      "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
-    },
-    {
-      "lane": "sports",
-      "title": "'1패면 참사' 1위팀 이게 무슨 망신인가, 44년 만에 韓 최악 신기록→...",
-      "url": "https://news.nate.com/view/20261107n11319",
-      "source": "네이트 스포츠",
       "source_role": "lead",
       "context": "",
       "materials": [],
@@ -109,9 +96,21 @@
       "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
     },
     {
+      "lane": "sports",
+      "title": "\"다시 태극마크 달고 싶다\" 눈물 흘리며 월드컵 낙마, '韓 국가대표' 조...",
+      "url": "https://news.nate.com/view/20261108n01556",
+      "source": "네이트 스포츠",
+      "source_role": "lead",
+      "context": "",
+      "materials": [],
+      "published_metadata": null,
+      "video_viewed": false,
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
+    },
+    {
       "lane": "football",
-      "title": "'흥민아 내가 든든히 지킬게' 절친한 형 김승규, J1 역대 최다 연속 무실점 '신기록'",
-      "url": "https://news.nate.com/view/20261107n10216",
+      "title": "[속보] '충격' 현실···맨유 결국 'PL 18위 강등권' 추락, 맨시티의 예상 못한 패배와 나비 효과, 빌라전 승리 절실",
+      "url": "https://news.nate.com/view/20261108n00983",
       "source": "국내·해외축구",
       "source_role": "lead",
       "context": "",
@@ -122,9 +121,57 @@
     },
     {
       "lane": "football",
-      "title": "'공개 선언' 황희찬 최악은 없다, 감독 교체 가능성 전격 차단…단장이 직접 인정, 강등권 추락에도 \"몇 달 동안 고용 보장\"",
-      "url": "https://news.nate.com/view/20261107n00751",
+      "title": "이런 팀에서 우승까지 한 손흥민이 대단하다…1년 전 합류한 토트넘 CEO \"당시 전혀 전문적이고 현대적이지 않았어, 경쟁 팀에게 뒤처져 있었다\"",
+      "url": "https://news.nate.com/view/20261108n00337",
       "source": "국내·해외축구",
+      "source_role": "lead",
+      "context": "",
+      "materials": [],
+      "published_metadata": null,
+      "video_viewed": false,
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
+    },
+    {
+      "lane": "football",
+      "title": "[PL REVIEW] 1,106일 만의 4연승 물거품…토트넘, '오카포 결승골' 리즈에 0-1 패배!→상승세 제동+10위 추락",
+      "url": "https://news.nate.com/view/20261107n13636",
+      "source": "국내·해외축구",
+      "source_role": "lead",
+      "context": "",
+      "materials": [],
+      "published_metadata": null,
+      "video_viewed": false,
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
+    },
+    {
+      "lane": "football",
+      "title": "\"우리 목표는 PL 우승\" 토트넘 CEO 야망에 데 제르비 감독도 대만족!…\"행동으로 보여주는 게 중요\"",
+      "url": "https://news.nate.com/view/20261107n11475",
+      "source": "국내·해외축구",
+      "source_role": "lead",
+      "context": "",
+      "materials": [],
+      "published_metadata": null,
+      "video_viewed": false,
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
+    },
+    {
+      "lane": "sports",
+      "title": "이게 말이 돼? 90승 1위팀, 1패면 준우승 대재앙…ERA 12.86 투수왕국의...",
+      "url": "https://news.nate.com/view/20261108n00520",
+      "source": "네이트 스포츠",
+      "source_role": "lead",
+      "context": "",
+      "materials": [],
+      "published_metadata": null,
+      "video_viewed": false,
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
+    },
+    {
+      "lane": "football",
+      "title": "\"발롱도르 후 손흥민과 연락했다\" 케인, SON 축하 메시지 다시 언급 \"정...",
+      "url": "https://news.nate.com/view/20261108n00943",
+      "source": "네이트 스포츠",
       "source_role": "lead",
       "context": "",
       "materials": [],
@@ -136,18 +183,6 @@
       "lane": "sports",
       "title": "한화 떠난 FA 보상선수가 KS서 대형사고 쳤는데…현실은 준우승 위기, 동...",
       "url": "https://news.nate.com/view/20261107n11607",
-      "source": "네이트 스포츠",
-      "source_role": "lead",
-      "context": "",
-      "materials": [],
-      "published_metadata": null,
-      "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
-    },
-    {
-      "lane": "sports",
-      "title": "'안현민 실책 대참사→1회 6득점' 삼성, 9번째 우승까지 딱 1승 남았다…...",
-      "url": "https://news.nate.com/view/20261107n09949",
       "source": "네이트 스포츠",
       "source_role": "lead",
       "context": "",
@@ -170,85 +205,147 @@
     },
     {
       "lane": "sports",
-      "title": "21세기 월드컵 홍명보 참가 여부에 따른 KBO 우승팀 역사",
-      "url": "https://www.issuelink.co.kr/community/go/theqoo/4398899562",
+      "title": "'1패면 참사' 1위팀 이게 무슨 망신인가, 44년 만에 韓 최악 신기록→...",
+      "url": "https://news.nate.com/view/20261107n11319",
+      "source": "네이트 스포츠",
+      "source_role": "lead",
+      "context": "",
+      "materials": [],
+      "published_metadata": null,
+      "video_viewed": false,
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
+    },
+    {
+      "lane": "football",
+      "title": "'공개 선언' 황희찬 최악은 없다, 감독 교체 가능성 전격 차단…단장이 직접 인정, 강등권 추락에도 \"몇 달 동안 고용 보장\"",
+      "url": "https://news.nate.com/view/20261107n00751",
+      "source": "국내·해외축구",
+      "source_role": "lead",
+      "context": "",
+      "materials": [],
+      "published_metadata": null,
+      "video_viewed": false,
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
+    },
+    {
+      "lane": "sports",
+      "title": "'안현민 실책 대참사→1회 6득점' 삼성, 9번째 우승까지 딱 1승 남았다…...",
+      "url": "https://news.nate.com/view/20261107n09949",
+      "source": "네이트 스포츠",
+      "source_role": "lead",
+      "context": "",
+      "materials": [],
+      "published_metadata": null,
+      "video_viewed": false,
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
+    },
+    {
+      "lane": "current_affairs",
+      "title": "국민의힘 \"당장 탄핵\" 민주당 \"진실 명명백백 밝혀야\"[오늘아침]",
+      "url": "https://n.news.naver.com/article/079/0004207513",
+      "source": "네이버 뉴스",
+      "source_role": "lead",
+      "context": "",
+      "materials": [],
+      "published_metadata": null,
+      "video_viewed": false,
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
+    },
+    {
+      "lane": "current_affairs",
+      "title": "이 대통령 “우리 단감, 중국 시장 첫발… 17년 협상 끝에 수출”",
+      "url": "https://n.news.naver.com/article/449/0000366761",
+      "source": "네이버 뉴스",
+      "source_role": "lead",
+      "context": "",
+      "materials": [],
+      "published_metadata": null,
+      "video_viewed": false,
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
+    }
+  ],
+  "reserves": [
+    {
+      "lane": "current_affairs",
+      "title": "인용에서 비명 들리는 나와 성향이 비슷한 대통령 찾기",
+      "url": "https://www.instiz.net/pt/7923313",
+      "source": "인스티즈 이슈",
+      "source_role": "lead",
+      "context": "",
+      "materials": [],
+      "published_metadata": 1794101160,
+      "video_viewed": false,
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
+    },
+    {
+      "lane": "current_affairs",
+      "title": "콜옵) 나이도 어린 게 무슨 대통령 후보로 나온다고...",
+      "url": "https://bbs.ruliweb.com/community/board/300143/read/77312304",
+      "source": "루리웹 베스트",
+      "source_role": "lead",
+      "context": "",
+      "materials": [],
+      "published_metadata": 1794098400,
+      "video_viewed": false,
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
+    },
+    {
+      "lane": "current_affairs",
+      "title": "남자 고등학교 여학생 대참사.....mp4",
+      "url": "https://www.fmkorea.com/10531213352",
+      "source": "펨코 간접",
+      "source_role": "lead",
+      "context": "",
+      "materials": [],
+      "published_metadata": 1794097860,
+      "video_viewed": false,
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
+    },
+    {
+      "lane": "current_affairs",
+      "title": "대통령의 Y 댓글창 전부 욕밖에 없네요ㅋㅋ",
+      "url": "https://www.issuelink.co.kr/community/go/clien/19289238",
       "source": "커뮤니티 인기",
       "source_role": "lead",
       "context": "",
       "materials": [],
-      "published_metadata": 1794056220,
+      "published_metadata": 1794096350,
       "video_viewed": false,
       "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
     },
     {
-      "lane": "sports",
-      "title": "삼성 KS 우승 노리는 팀 맞나…충격의 1이닝 볼넷→볼넷→볼넷→볼넷...",
-      "url": "https://news.nate.com/view/20261107n08978",
-      "source": "네이트 스포츠",
+      "lane": "current_affairs",
+      "title": "코스피 대형 호재. 떡상각.jpg",
+      "url": "https://www.issuelink.co.kr/community/go/slr/41792831",
+      "source": "커뮤니티 인기",
       "source_role": "lead",
       "context": "",
       "materials": [],
-      "published_metadata": null,
+      "published_metadata": 1794093579,
       "video_viewed": false,
       "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
     },
     {
-      "lane": "sports",
-      "title": "'우승까지 1승' 삼성, KS 5차전 원태인으로 끝낸다…KT는 대니엘 출격",
-      "url": "https://news.nate.com/view/20261107n10164",
-      "source": "네이트 스포츠",
+      "lane": "current_affairs",
+      "title": "싱글벙글 북한 전쟁날시 ㅎㄷㄷ한 전략..jpg",
+      "url": "https://www.bobaedream.co.kr/view?code=best&No=1045993",
+      "source": "보배드림 베스트",
       "source_role": "lead",
       "context": "",
       "materials": [],
-      "published_metadata": null,
+      "published_metadata": 1794072960,
       "video_viewed": false,
       "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
     },
     {
-      "lane": "sports",
-      "title": "19세 신인 장찬희가 연 우승 가는 길…삼성, 정상까지 한 걸음",
-      "url": "https://news.nate.com/view/20261107n09922",
-      "source": "네이트 스포츠",
+      "lane": "current_affairs",
+      "title": "충격적인 미국 중간선거 당선자들",
+      "url": "https://mlbpark.donga.com/mp/b.php?b=bullpen&id=202611080119974269&m=view",
+      "source": "엠팍 BEST",
       "source_role": "lead",
       "context": "",
       "materials": [],
-      "published_metadata": null,
-      "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
-    },
-    {
-      "lane": "sports",
-      "title": "'대반전' 삼성, 12년 만의 KS 우승까지 1승 남았다! 안현민 실책성 수비...",
-      "url": "https://news.nate.com/view/20261107n10075",
-      "source": "네이트 스포츠",
-      "source_role": "lead",
-      "context": "",
-      "materials": [],
-      "published_metadata": null,
-      "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
-    },
-    {
-      "lane": "sports",
-      "title": "이승엽 예언 현실이 되나…후라도 108구 완벽투, 삼성 KS 우승 가까워진다",
-      "url": "https://news.nate.com/view/20261106n32439",
-      "source": "네이트 스포츠",
-      "source_role": "lead",
-      "context": "",
-      "materials": [],
-      "published_metadata": null,
-      "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
-    },
-    {
-      "lane": "sports",
-      "title": "로건 탓이 아닌데? KT 44년 만에 KS 불명예 신기록 → 끔찍한 투수력 이...",
-      "url": "https://news.nate.com/view/20261107n10320",
-      "source": "네이트 스포츠",
-      "source_role": "lead",
-      "context": "",
-      "materials": [],
-      "published_metadata": null,
+      "published_metadata": 1794070463,
       "video_viewed": false,
       "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
     },
@@ -263,9 +360,47 @@
       "published_metadata": null,
       "video_viewed": false,
       "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
+    },
+    {
+      "lane": "sports",
+      "title": "\"슈퍼카 42대 무상 이용하고 홍보 0건?\"…'황희찬 피소 논란' 변호사가...",
+      "url": "https://news.nate.com/view/20261108n02178",
+      "source": "네이트 스포츠",
+      "source_role": "lead",
+      "context": "",
+      "materials": [],
+      "published_metadata": null,
+      "video_viewed": false,
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
+    },
+    {
+      "lane": "football",
+      "title": "맨시티에 돌아오는 업보?…노팅엄전 1-3 패배→7연승 이후 충격 3연패, 선두도 내줘",
+      "url": "https://news.nate.com/view/20261108n01140",
+      "source": "국내·해외축구",
+      "source_role": "lead",
+      "context": "",
+      "materials": [],
+      "published_metadata": null,
+      "video_viewed": false,
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
     }
   ],
-  "reserves": [
+  "caution": "발견용. 스포츠 중심·시사 대형 뉴스 우선. 연예 세부 소식 제외. 본문에서 1면 가치·새 사실·날짜·중복 확인 전이며 조회수 예측이 아니다.",
+  "extended_candidates": [
+    {
+      "lane": "sports",
+      "title": "21세기 월드컵 홍명보 참가 여부에 따른 KBO 우승팀 역사",
+      "url": "https://www.issuelink.co.kr/community/go/theqoo/4398899562",
+      "source": "커뮤니티 인기",
+      "source_role": "lead",
+      "context": "",
+      "materials": [],
+      "published_metadata": 1794056220,
+      "video_viewed": false,
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인",
+      "freshness_policy": "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
+    },
     {
       "lane": "current_affairs",
       "title": "이대형 ㄷㄷㄷ JPG",
@@ -276,43 +411,8 @@
       "materials": [],
       "published_metadata": 1794045415,
       "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
-    },
-    {
-      "lane": "current_affairs",
-      "title": "美중간선거 끝나고 첫 이란 공격…핵 시설 제보에는 273억 원 포상금 걸어",
-      "url": "https://n.news.naver.com/article/469/0000964218",
-      "source": "네이버 뉴스",
-      "source_role": "lead",
-      "context": "",
-      "materials": [],
-      "published_metadata": null,
-      "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
-    },
-    {
-      "lane": "current_affairs",
-      "title": "\"李 국민 배신, 탄핵이 답\"... '조작기소 특검' 규탄 집회 연 국민의힘",
-      "url": "https://n.news.naver.com/article/469/0000964223",
-      "source": "네이버 뉴스",
-      "source_role": "lead",
-      "context": "",
-      "materials": [],
-      "published_metadata": null,
-      "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
-    },
-    {
-      "lane": "current_affairs",
-      "title": "트럼프 \"이란 방공망 5분 만에 파괴\"… 중간선거 참패 후 첫 공습",
-      "url": "https://n.news.naver.com/article/008/0005437943",
-      "source": "네이버 뉴스",
-      "source_role": "lead",
-      "context": "",
-      "materials": [],
-      "published_metadata": null,
-      "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인",
+      "freshness_policy": "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
     },
     {
       "lane": "current_affairs",
@@ -324,7 +424,8 @@
       "materials": [],
       "published_metadata": 1794037740,
       "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인",
+      "freshness_policy": "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
     },
     {
       "lane": "current_affairs",
@@ -336,7 +437,8 @@
       "materials": [],
       "published_metadata": 1794036562,
       "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인",
+      "freshness_policy": "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
     },
     {
       "lane": "current_affairs",
@@ -348,7 +450,8 @@
       "materials": [],
       "published_metadata": 1794034018,
       "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인",
+      "freshness_policy": "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
     },
     {
       "lane": "current_affairs",
@@ -360,7 +463,8 @@
       "materials": [],
       "published_metadata": 1794028080,
       "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인",
+      "freshness_policy": "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
     },
     {
       "lane": "current_affairs",
@@ -372,7 +476,8 @@
       "materials": [],
       "published_metadata": 1794025860,
       "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인",
+      "freshness_policy": "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
     },
     {
       "lane": "current_affairs",
@@ -384,11 +489,9 @@
       "materials": [],
       "published_metadata": 1794024960,
       "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"
-    }
-  ],
-  "caution": "발견용. 스포츠 중심·시사 대형 뉴스 우선. 연예 세부 소식 제외. 본문에서 1면 가치·새 사실·날짜·중복 확인 전이며 조회수 예측이 아니다.",
-  "extended_candidates": [
+      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인",
+      "freshness_policy": "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
+    },
     {
       "lane": "current_affairs",
       "title": "한국식 전쟁선포",
@@ -541,110 +644,6 @@
       "context": "",
       "materials": [],
       "published_metadata": 1793977200,
-      "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인",
-      "freshness_policy": "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
-    },
-    {
-      "lane": "current_affairs",
-      "title": "싸튀 신나게 욕할땐 언제고 대통령이 그 싸튀한테 코피노어머니가 소송 걸게 도와주니까 뒤집어지는 ㅂㅅ들 보고 개빡친 트위터리안",
-      "url": "https://theqoo.net/hot/4398291803",
-      "source": "더쿠 HOT",
-      "source_role": "lead",
-      "context": "",
-      "materials": [],
-      "published_metadata": 1793977200,
-      "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인",
-      "freshness_policy": "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
-    },
-    {
-      "lane": "current_affairs",
-      "title": "이제 믈브는 춘추전국시대의 시작이겠네요",
-      "url": "https://mlbpark.donga.com/mp/b.php?b=mlbtown&id=202611060119941962&m=view",
-      "source": "엠팍 BEST",
-      "source_role": "lead",
-      "context": "",
-      "materials": [],
-      "published_metadata": 1793974718,
-      "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인",
-      "freshness_policy": "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
-    },
-    {
-      "lane": "current_affairs",
-      "title": "역대 대통령 시그니처?",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1045781",
-      "source": "보배드림 베스트",
-      "source_role": "lead",
-      "context": "",
-      "materials": [],
-      "published_metadata": 1793953620,
-      "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인",
-      "freshness_policy": "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
-    },
-    {
-      "lane": "current_affairs",
-      "title": "악뮤, 소문난 전국투어 '소문의 낙원' 앙코르 연다",
-      "url": "https://www.issuelink.co.kr/community/go/theqoo/4397739426",
-      "source": "커뮤니티 인기",
-      "source_role": "lead",
-      "context": "",
-      "materials": [],
-      "published_metadata": 1793952660,
-      "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인",
-      "freshness_policy": "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
-    },
-    {
-      "lane": "current_affairs",
-      "title": "[단독] 李 대통령 HWP 문제 지적에…한컴 \"행안부에 변환툴 전달 협의\"",
-      "url": "https://www.issuelink.co.kr/community/go/theqoo/4397714407",
-      "source": "커뮤니티 인기",
-      "source_role": "lead",
-      "context": "",
-      "materials": [],
-      "published_metadata": 1793950920,
-      "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인",
-      "freshness_policy": "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
-    },
-    {
-      "lane": "current_affairs",
-      "title": "블룸버그 \"李대통령 말 듣고 주식 산 개미 극심한 좌절\"",
-      "url": "https://www.instiz.net/pt/7922713",
-      "source": "인스티즈 이슈",
-      "source_role": "lead",
-      "context": "",
-      "materials": [],
-      "published_metadata": 1793950860,
-      "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인",
-      "freshness_policy": "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
-    },
-    {
-      "lane": "current_affairs",
-      "title": "미국 중간선거 이후 국장 근황...jpg",
-      "url": "https://www.issuelink.co.kr/community/go/humoruniv/1431487",
-      "source": "커뮤니티 인기",
-      "source_role": "lead",
-      "context": "",
-      "materials": [],
-      "published_metadata": 1793949720,
-      "video_viewed": false,
-      "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인",
-      "freshness_policy": "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
-    },
-    {
-      "lane": "current_affairs",
-      "title": "레즈 인증 대참사.jpg",
-      "url": "https://www.fmkorea.com/10525595301",
-      "source": "펨코 간접",
-      "source_role": "lead",
-      "context": "",
-      "materials": [],
-      "published_metadata": 1793949600,
       "video_viewed": false,
       "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인",
       "freshness_policy": "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
