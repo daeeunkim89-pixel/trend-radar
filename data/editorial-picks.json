@@ -1,313 +1,211 @@
 {
   "version": 2,
-  "hour_utc": "2026110802",
+  "hour_utc": "2026110810",
   "reviewer": "ChatGPT",
-  "generated_at": 1794103710,
+  "generated_at": 1794133323,
   "coverage": {
     "queries": [
-      "November 8 2026 sports latest major news Australia security squad",
-      "November 8 2026 Reuters world Trump Dana White criminal probes Democrats",
-      "2026년 11월8일 축구 스포츠 주요뉴스 속보",
-      "November 8 2026 Reuters sports Ntamack injury Galthie South Africa",
-      "November 7 2026 Sao Paulo grand prix penalties championship Norris",
-      "November 8 2026 Trump Dana White press secretary AFP",
-      "November 8 2026 football coach sacked official latest",
-      "2026 11월8일 축구 중대부상 징계 협회 발표",
-      "November 7 2026 Arsenal Tottenham Leeds VAR disallowed penalty",
-      "Hossam Hassan sacked November 2026",
-      "2026-11-08 site:reuters.com/sports/",
-      "2026-11-08 site:yna.co.kr 속보",
-      "2026-11-08 site:reuters.com/world/",
-      "site:efa.com.eg حسام نوفمبر 2026 ماهر",
-      "Egypt Hossam Hassan Ali Maher November 7 2026 official EFA statement",
-      "Khawaja ball-tampering November 2026 team knew",
-      "Dana White declined November 8 2026 press secretary",
-      "site:afp.com Defiant Khawaja defends",
-      "Khawaja Sandpapergate 2026-11-08"
+      "2026년 11월 8일 주요 뉴스 속보 한국 국제",
+      "2026.11.08 스포츠 우승 손흥민 이강인 결과",
+      "\"2026.11.08\" \"안세영\" \"11승\"",
+      "\"2026.11.08\" \"수원\" \"승격\"",
+      "\"2026.11.08\" \"삼성\" \"3승\"",
+      "\"2026.11.08\" \"속보\""
     ],
     "opened_urls": [
-      "https://www.cafonline.com/afcon2025/news/egypt-hossam-hassan-dismissed-ali-maher-appointed-head-coach/",
-      "https://www.skysports.com/cricket/news/13609070/australia-cricket-usman-khawaja-says-entire-team-knew-about-ball-tampering-scandal-in-south-africa-in-2018",
-      "https://footballaustralia.com.au/news/eight-changes-commbank-socceroos-november-fifa-international-window",
-      "https://www.afp.com/en/trump-offers-ufc-boss-press-secretary-post-urges-criminal-probes-democrats",
-      "https://www.afp.com/en/galthie-laments-ntamack-loss-france-fly-half-troubles-mount",
-      "https://agn.gt/presidente-arevalo-repudia-ataque-zacapa-honra-policias-fallecidos/",
-      "https://www.aol.com/articles/haiti-pm-says-gang-leader-002654000.html",
-      "https://www.abc.net.au/news/2026-11-08/socceroos-monitoring-security-ahead-of-friendlies/107360560",
-      "https://www.aol.com/articles/trump-says-asked-dana-white-195132000.html",
-      "https://www.fia.com/news/f1-norris-takes-sao-paulo-pole-rain-hit-qualifying-delivers-drama-interlagos"
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836120",
+      "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008836013&oaid=N1008836120&plink=TOP",
+      "https://www.newsis.com/view/NISX20261108_0003859309",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836081",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836125"
     ],
     "unavailable": [
-      "수집 종료코드0·566후보·공개 검토함 갱신. 펨코 직접·네이트 스포츠·국내외축구·스포츠영상 일부 실패는 직접 원문 조사로 보완.",
-      "CNN 전재2곳200 응답이나 본문 빈 값. AFP와 Guardian 전재 본문으로 제안·미확정 및 거절 보도를 교차 검토.",
-      "BTP 실제 Instagram 게시 목록 독립 확인 불가. 최근7일 공개 sent/uncertain65회와 URL·event_key·같은 사실 대조."
+      "네이트 원문 접근 실패. SBS·뉴시스 원문으로 검증. KBO 점수 페이지는 과거 캐시여서 근거로 사용하지 않음."
     ]
   },
   "picks": [
     {
-      "title": "월드컵 16강 이끈 감독과 결별…이집트, 하산 해임·알리 마헤르 선임",
-      "category": "축구",
-      "url": "https://www.cafonline.com/afcon2025/news/egypt-hossam-hassan-dismissed-ali-maher-appointed-head-coach/",
-      "source": "CAF 공식",
-      "kind": "official",
-      "event_key": "egypt-hossam-hassan-dismissed-ali-maher-appointed-national-coach-20261107",
-      "why": "월드컵 16강을 이끈 국가대표 감독이 아프리카컵 예선 직전 교체됐다. 새 감독이 13·17일 말라위전을 맡는다.",
-      "angle": "16강 이끈 감독도 교체…대표팀 안정 내세운 이집트",
-      "why_now": "11월7일 이집트축구협회 결정. CAF 공식 원문은 최초 공개일 11월7일만 표시하며 시·분 미확인.",
-      "verified_at": 1794103710,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://www.cafonline.com/afcon2025/news/egypt-hossam-hassan-dismissed-ali-maher-appointed-head-coach/",
-          "note": "CAF 본문에서 하산과 코칭스태프 결별, 알리 마헤르 신임 감독 선임, 13·17일 말라위전 일정 확인. 협회는 이미지·안정에 부정적 영향 언급."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.cafonline.com/afcon2025/news/egypt-hossam-hassan-dismissed-ali-maher-appointed-head-coach/",
-          "label": "확인한 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "살라와의 불화·사생활을 확정 해임 원인으로 쓰지 않는다. 공식 발표는 구체 사유를 밝히지 않음.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-07",
-        "observation": "CAF 본문에서 하산과 코칭스태프 결별, 알리 마헤르 신임 감독 선임, 13·17일 말라위전 일정 확인. 협회는 이미지·안정에 부정적 영향 언급.",
-        "checked_materials": [],
-        "outline": [
-          "16강 이끈 감독도 교체…대표팀 안정 내세운 이집트",
-          "월드컵 16강을 이끈 국가대표 감독이 아프리카컵 예선 직전 교체됐다. 새 감독이 13·17일 말라위전을 맡는다."
-        ]
-      }
-    },
-    {
-      "title": "“우리 모두 알고 있었다”…호주 크리켓 공 조작 사건에 8년 만의 새 폭로",
+      "title": "삼성, KT 12대1 완파…12년 만에 한국시리즈 우승",
       "category": "메이저 스포츠",
-      "url": "https://www.skysports.com/cricket/news/13609070/australia-cricket-usman-khawaja-says-entire-team-knew-about-ball-tampering-scandal-in-south-africa-in-2018",
-      "source": "Sky Sports",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836120",
+      "source": "SBS",
       "kind": "article",
-      "event_key": "khawaja-sabr-entire-australia-team-knew-sandpapergate-new-claims-20261107",
-      "why": "3명만 사전 인지했다던 기존 조사와 배치되는 대표팀 출신의 새 주장이다. 협회는 기존 조사 결과를 유지한다.",
-      "angle": "세 명만 알았다던 사포 조작…“선수·스태프 모두”라는 새 주장",
-      "why_now": "원사건은 2018년3월 남아공전. 이번 인터뷰·자서전 발췌는 11월6~7일 공개(매체별 날짜); 확인 기사 표시는 11월7일08:27 UK. 인터뷰 최초 시각 미확인.",
-      "verified_at": 1794103710,
-      "published_at": null,
+      "event_key": "samsung-korean-series-game5-title-four-one-20261108",
+      "why": "국내 프로야구 최대 이벤트의 최종 우승 확정이다.",
+      "angle": "12년 만의 정상 탈환과 4승1패를 첫 장에.",
+      "why_now": "8일5차전 승리로 우승 확정. 이전 발송의4차전 승리와 다른 최종 결과다.",
+      "verified_at": 1794133280,
+      "published_at": 1794127140,
       "evidence": [
         {
-          "url": "https://www.skysports.com/cricket/news/13609070/australia-cricket-usman-khawaja-says-entire-team-knew-about-ball-tampering-scandal-in-south-africa-in-2018",
-          "note": "본문에서 카와자의 선수·스태프 전체 사전 인지 주장, 레만 전 감독의 반박, 호주협회의 기존 조사 결론 유지 성명을 함께 확인."
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836120",
+          "note": "삼성이8일 한국시리즈5차전에서 KT에12대1승리, 시리즈4승1패로2014년 이후 첫 우승."
         }
       ],
       "materials": [
         {
-          "url": "https://www.skysports.com/cricket/news/13609070/australia-cricket-usman-khawaja-says-entire-team-knew-about-ball-tampering-scandal-in-south-africa-in-2018",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836120",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "카와자의 주장으로 명시. 전원 가담이 입증됐거나 재조사가 확정됐다는 뜻 아님. 옛 영상은 시청하지 않음.",
+      "caution": "정규리그1위는KT이며 삼성의 통합우승으로 쓰지 않는다.",
       "readiness": {
         "mode": "major_news",
-        "event_date": "2026-11-07",
-        "observation": "본문에서 카와자의 선수·스태프 전체 사전 인지 주장, 레만 전 감독의 반박, 호주협회의 기존 조사 결론 유지 성명을 함께 확인.",
+        "event_date": "2026-11-08",
+        "observation": "삼성이8일 한국시리즈5차전에서 KT에12대1승리, 시리즈4승1패로2014년 이후 첫 우승.",
         "checked_materials": [],
         "outline": [
-          "세 명만 알았다던 사포 조작…“선수·스태프 모두”라는 새 주장",
-          "3명만 사전 인지했다던 기존 조사와 배치되는 대표팀 출신의 새 주장이다. 협회는 기존 조사 결과를 유지한다."
+          "12년 만의 한국시리즈 정상",
+          "KT12대1·시리즈4승1패"
         ]
       }
     },
     {
-      "title": "선수들은 요르단전 변경 요구…호주, 안전 재평가하며 새 대표팀 발표",
-      "category": "축구",
-      "url": "https://footballaustralia.com.au/news/eight-changes-commbank-socceroos-november-fifa-international-window",
-      "source": "Football Australia",
-      "kind": "official",
-      "event_key": "australia-squad-eight-changes-jordan-security-reassessment-pfa-relocation-20261107",
-      "why": "중동 분쟁이 국가대표 원정 운영에 영향을 준다. 선수들의 경기 변경 요구 속 협회가 안전 평가와 25명 명단을 발표했다.",
-      "angle": "선수들은 옮겨 달라는데…안전 재평가하며 A매치 명단 발표",
-      "why_now": "11월7일 호주 대표팀 명단·안전 대응 발표. 공식 원문 공개일은11월7일(일 정밀도). 5일 인도네시아전 취소와는 별도 후속.",
-      "verified_at": 1794103710,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://footballaustralia.com.au/news/eight-changes-commbank-socceroos-november-fifa-international-window",
-          "note": "공식 본문에서 8명 교체·A매치 미경험7명과 요르단전 안전 재평가 확인. ABC 본문은 선수협회의 일정 변경·장소 이전 요구 및 대표팀 발표를 확인."
-        },
-        {
-          "url": "https://www.abc.net.au/news/2026-11-08/socceroos-monitoring-security-ahead-of-friendlies/107360560",
-          "note": "11월7일22:39:38 UTC 공개. 선수협회 변경 요구 보도. 미선발 선수의 안전상 불참 여부는 불명확하다고 명시."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://footballaustralia.com.au/news/eight-changes-commbank-socceroos-november-fifa-international-window",
-          "label": "확인한 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "요르단전 취소 확정 아님. 주요 선수 명단 제외가 안전 문제 때문인지는 미확인.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-07",
-        "observation": "공식 본문에서 8명 교체·A매치 미경험7명과 요르단전 안전 재평가 확인. ABC 본문은 선수협회의 일정 변경·장소 이전 요구 및 대표팀 발표를 확인.",
-        "checked_materials": [],
-        "outline": [
-          "선수들은 옮겨 달라는데…안전 재평가하며 A매치 명단 발표",
-          "중동 분쟁이 국가대표 원정 운영에 영향을 준다. 선수들의 경기 변경 요구 속 협회가 안전 평가와 25명 명단을 발표했다."
-        ]
-      }
-    },
-    {
-      "title": "트럼프, UFC 데이나 화이트에 백악관 대변인직 제안…수락은 미확정",
-      "category": "시사",
-      "url": "https://www.afp.com/en/trump-offers-ufc-boss-press-secretary-post-urges-criminal-probes-democrats",
-      "source": "AFP",
-      "kind": "article",
-      "event_key": "trump-dana-white-ufc-white-house-press-secretary-offer-20261107",
-      "why": "백악관 공보 책임자 자리를 UFC 최고경영자에게 공개 제안했다. 화이트는 월요일 트럼프와 만날 예정이라고 밝혔다.",
-      "angle": "UFC 수장에게 백악관 대변인직…임명 아닌 공개 제안",
-      "why_now": "미국 현지11월7일 공개 제안. 확인한 AFP 원문 표시는11월8일01:12(시간대 미표시). 최초 게시 시각은 확인 불가.",
-      "verified_at": 1794103710,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://www.afp.com/en/trump-offers-ufc-boss-press-secretary-post-urges-criminal-probes-democrats",
-          "note": "AFP 본문은 트럼프 공개 제안과 화이트의 월요일 면담 계획을 확인. Guardian 전재는 CNN의 거절 보도도 소개하나 화이트 본인은 수락 여부 답변 안 했다고 설명."
-        },
-        {
-          "url": "https://www.aol.com/articles/trump-says-asked-dana-white-195132000.html",
-          "note": "Guardian 전재 본문에서 CNN의 거절 보도, 이어진 화이트 면담 발언을 함께 확인. 11월8일00:46UTC는 갱신 시각."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.afp.com/en/trump-offers-ufc-boss-press-secretary-post-urges-criminal-probes-democrats",
-          "label": "확인한 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "정식 임명·취임으로 쓰지 않는다. 거절 보도와 면담 계획이 병존하며 수락 여부는 미확정.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-07",
-        "observation": "AFP 본문은 트럼프 공개 제안과 화이트의 월요일 면담 계획을 확인. Guardian 전재는 CNN의 거절 보도도 소개하나 화이트 본인은 수락 여부 답변 안 했다고 설명.",
-        "checked_materials": [],
-        "outline": [
-          "UFC 수장에게 백악관 대변인직…임명 아닌 공개 제안",
-          "백악관 공보 책임자 자리를 UFC 최고경영자에게 공개 제안했다. 화이트는 월요일 트럼프와 만날 예정이라고 밝혔다."
-        ]
-      }
-    },
-    {
-      "title": "프랑스 럭비 은타마크, 복귀전 어깨 부상…감독 “대회 남은 경기 못 뛴다”",
+      "title": "안세영, 세계 최초 두 시즌 연속 11승…야마구치 꺾고 우승",
       "category": "메이저 스포츠",
-      "url": "https://www.afp.com/en/galthie-laments-ntamack-loss-france-fly-half-troubles-mount",
-      "source": "AFP",
+      "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008836013&oaid=N1008836120&plink=TOP",
+      "source": "SBS",
       "kind": "article",
-      "event_key": "france-ntamack-shoulder-injury-out-nations-championship-four-flyhalves-20261107",
-      "why": "세계 챔피언 남아공전을 앞두고 프랑스의 주전 경기 조율자가 이탈했다. 기존 부상자와 겹쳐 플라이하프 선택지가 급감했다.",
-      "angle": "복귀 30여 분 만에 다시 이탈…프랑스의 10번 자리가 비었다",
-      "why_now": "경기·감독 발언은 프랑스 현지11월7일. 확인한 AFP 원문 표시11월7일23:59는 시간대 미표시이며 최초 시각을 확정하지 않는다.",
-      "verified_at": 1794103710,
-      "published_at": null,
+      "event_key": "an-se-young-korea-open-title-two-consecutive-eleven-win-seasons-20261108",
+      "why": "국민적 스타가 남녀 단식 최초의 시즌 기록을 완성했다.",
+      "angle": "두 시즌 연속11승 기록과 결승2대1 결과를 간결하게 제시.",
+      "why_now": "8일 결승 우승 확정. 어제 보낸 결승 진출과 다른 새 결과다.",
+      "verified_at": 1794133083,
+      "published_at": 1794121080,
       "evidence": [
         {
-          "url": "https://www.afp.com/en/galthie-laments-ntamack-loss-france-fly-half-troubles-mount",
-          "note": "AFP 본문에서 피지전 어깨 부상과 갈티에 감독의 남은 대회 출전 불가 발언 확인. 잘리베르·아스토이·라모스도 부상으로 빠져 있다고 설명."
+          "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008836013&oaid=N1008836120&plink=TOP",
+          "note": "8일 야마구치를2대1(21대12,15대21,21대16)로 꺾고 코리아오픈 우승. 두 시즌 연속11승은 남녀단식 최초."
         }
       ],
       "materials": [
         {
-          "url": "https://www.afp.com/en/galthie-laments-ntamack-loss-france-fly-half-troubles-mount",
+          "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008836013&oaid=N1008836120&plink=TOP",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "정확한 진단·복귀 기간은 미공개. 감독의 대회 이탈 설명 범위만 사용. 경기 영상은 시청하지 않음.",
+      "caution": "시즌12승을 이미 달성한 것으로 쓰지 않는다.",
       "readiness": {
         "mode": "major_news",
-        "event_date": "2026-11-07",
-        "observation": "AFP 본문에서 피지전 어깨 부상과 갈티에 감독의 남은 대회 출전 불가 발언 확인. 잘리베르·아스토이·라모스도 부상으로 빠져 있다고 설명.",
+        "event_date": "2026-11-08",
+        "observation": "8일 야마구치를2대1(21대12,15대21,21대16)로 꺾고 코리아오픈 우승. 두 시즌 연속11승은 남녀단식 최초.",
         "checked_materials": [],
         "outline": [
-          "복귀 30여 분 만에 다시 이탈…프랑스의 10번 자리가 비었다",
-          "세계 챔피언 남아공전을 앞두고 프랑스의 주전 경기 조율자가 이탈했다. 기존 부상자와 겹쳐 플라이하프 선택지가 급감했다."
+          "세계 최초2시즌 연속11승",
+          "야마구치에2대1, 코리아오픈 우승"
         ]
       }
     },
     {
-      "title": "과테말라 의원과 경호 경찰3명 피살…대통령 수사 협력 지시",
-      "category": "시사",
-      "url": "https://agn.gt/presidente-arevalo-repudia-ataque-zacapa-honra-policias-fallecidos/",
-      "source": "과테말라 정부 AGN",
-      "kind": "official",
-      "event_key": "guatemala-julio-portillo-three-police-killed-rio-hondo-20261106",
-      "why": "현직 국회의원과 경호 경찰이 함께 공격으로 숨졌다. 대통령이 범인 규명을 위한 국가 수사 협력을 지시했다.",
-      "angle": "의원과 경호 경찰3명 사망…국가 지도부가 규탄한 무장공격",
-      "why_now": "공격은11월6일 과테말라 현지. 확인한 정부 기사 최초 공개11월7일14:56:36 UTC.",
-      "verified_at": 1794103710,
-      "published_at": 1794063396,
+      "title": "이정효의 수원 삼성, 용인 2대0 제압…K리그1 승격 확정",
+      "category": "축구",
+      "url": "https://www.newsis.com/view/NISX20261108_0003859309",
+      "source": "뉴시스",
+      "kind": "article",
+      "event_key": "suwon-samsung-kleague1-promotion-confirmed-yongin-two-zero-20261108",
+      "why": "한국 축구 명문 구단의1부 복귀로 리그 판도와 라이벌 구도가 바뀐다.",
+      "angle": "이정효 부임 첫해 승격 확정과 용인전2대0 결과를 제시.",
+      "why_now": "8일 승리로 잔여2경기와 무관하게 최소2위를 확보했다. 승격 전망 단계가 끝났다.",
+      "verified_at": 1794133083,
+      "published_at": 1794123518,
       "evidence": [
         {
-          "url": "https://agn.gt/presidente-arevalo-repudia-ataque-zacapa-honra-policias-fallecidos/",
-          "note": "AGN 본문에서 리오온도 공격으로 의원 훌리오 포르티요와 경찰3명 사망, 공격일6일, 대통령 수사 협력 지시를 확인."
+          "url": "https://www.newsis.com/view/NISX20261108_0003859309",
+          "note": "수원이8일 용인에2대0승리해 승점66, 최소2위를 확보하며 K리그1 승격을 확정했다."
         }
       ],
       "materials": [
         {
-          "url": "https://agn.gt/presidente-arevalo-repudia-ataque-zacapa-honra-policias-fallecidos/",
+          "url": "https://www.newsis.com/view/NISX20261108_0003859309",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "범인은 신원 미상. 마약 조직 소행·정치적 동기를 확정하지 않는다.",
+      "caution": "승격 확정이며 K리그2 우승은 아직 확정되지 않았다.",
       "readiness": {
         "mode": "major_news",
-        "event_date": "2026-11-06",
-        "observation": "AGN 본문에서 리오온도 공격으로 의원 훌리오 포르티요와 경찰3명 사망, 공격일6일, 대통령 수사 협력 지시를 확인.",
+        "event_date": "2026-11-08",
+        "observation": "수원이8일 용인에2대0승리해 승점66, 최소2위를 확보하며 K리그1 승격을 확정했다.",
         "checked_materials": [],
         "outline": [
-          "의원과 경호 경찰3명 사망…국가 지도부가 규탄한 무장공격",
-          "현직 국회의원과 경호 경찰이 함께 공격으로 숨졌다. 대통령이 범인 규명을 위한 국가 수사 협력을 지시했다."
+          "이정효 부임 첫해1부 복귀",
+          "용인2대0·최소2위 확보"
         ]
       }
     },
     {
-      "title": "아이티 총리, 갱단 두목 생틸 사망 확인…치안 작전의 주요 후속",
-      "category": "시사",
-      "url": "https://www.aol.com/articles/haiti-pm-says-gang-leader-002654000.html",
-      "source": "Reuters·AOL",
+      "title": "김민솔, 신인왕·대상·상금왕 석권…신지애 이후 20년 만",
+      "category": "메이저 스포츠",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836081",
+      "source": "SBS",
       "kind": "article",
-      "event_key": "haiti-mathias-saintil-gang-leader-death-government-confirmation-20261106",
-      "why": "갱단에 맞선 치안 작전에서 주요 두목의 사망을 당국이 확인했다. 다국적 병력 투입과 선거 지연 속 중대한 후속이다.",
-      "angle": "총리가 확인한 갱단 두목 사망…아이티 치안 작전 후속",
-      "why_now": "사망 확인은11월6일 현지. 최초 송고 시각 미확인; AOL 표시11월7일01:08 UTC는 갱신 시각이다.",
-      "verified_at": 1794103710,
-      "published_at": null,
+      "event_key": "kim-min-sol-klpga-rookie-player-money-triple-titles-20261108",
+      "why": "여자골프 시즌 최종전에서20년 만의 신인3관왕이 확정된 큰 기록이다.",
+      "angle": "신지애 이후20년 만의3관왕과 시즌상금16억원 돌파를 제시.",
+      "why_now": "8일 시즌 최종전 종료로 대상과 상금왕까지 확정돼3관왕을 완성했다.",
+      "verified_at": 1794133280,
+      "published_at": 1794126180,
       "evidence": [
         {
-          "url": "https://www.aol.com/articles/haiti-pm-says-gang-leader-002654000.html",
-          "note": "Reuters 전재 본문에서 총리·당국의 생틸 사망 확인. 드론 공격 부상 후 사망 경위는 Reuters가 읽은 인권단체 보고서 설명."
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836081",
+          "note": "김민솔은 최종전 공동6위. 대상567점·누적상금16억여원으로 신인왕 포함3관왕, 동시석권은2006년 신지애 이후 처음."
         }
       ],
       "materials": [
         {
-          "url": "https://www.aol.com/articles/haiti-pm-says-gang-leader-002654000.html",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836081",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "사망 경위는 인권단체 보고서에 따른 설명. 독립 현장 검증이나 영상 시청은 하지 않았다.",
+      "caution": "최종전 대회 우승자는 유현조다. 김민솔이 최종전을 우승했다고 쓰지 않는다.",
       "readiness": {
         "mode": "major_news",
-        "event_date": "2026-11-06",
-        "observation": "Reuters 전재 본문에서 총리·당국의 생틸 사망 확인. 드론 공격 부상 후 사망 경위는 Reuters가 읽은 인권단체 보고서 설명.",
+        "event_date": "2026-11-08",
+        "observation": "김민솔은 최종전 공동6위. 대상567점·누적상금16억여원으로 신인왕 포함3관왕, 동시석권은2006년 신지애 이후 처음.",
         "checked_materials": [],
         "outline": [
-          "총리가 확인한 갱단 두목 사망…아이티 치안 작전 후속",
-          "갱단에 맞선 치안 작전에서 주요 두목의 사망을 당국이 확인했다. 다국적 병력 투입과 선거 지연 속 중대한 후속이다."
+          "신지애 이후20년 만의 신인3관왕",
+          "신인왕·대상·상금왕과 시즌16억원 돌파"
+        ]
+      }
+    },
+    {
+      "title": "SM·계열사도 정보 유출…임직원 주민번호·계좌번호 포함",
+      "category": "시사",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836125",
+      "source": "SBS",
+      "kind": "article",
+      "event_key": "sm-dearu-dreammaker-employee-data-breach-disclosed-20261108",
+      "why": "대형 엔터기업과 계열사 업무시스템 침해로 민감한 임직원 정보가 유출된 산업·보안 사건이다.",
+      "angle": "임직원 민감정보 유출과 계열사 확산을 중심으로 전한다.",
+      "why_now": "사고 발생은4일께, 새 공개 발표는8일이다. 일반 연예 소식이 아닌 기업 보안 사건으로 검토했다.",
+      "verified_at": 1794133280,
+      "published_at": 1794127680,
+      "evidence": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836125",
+          "note": "SM은8일 외부공격자의 업무시스템 문서 유출을 공개. 주민번호·계좌번호 등 일부정보, 디어유·드림메이커에도 유사사고."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836125",
+          "label": "확인한 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "규모와 피해 범위는 조사중이다. 아티스트나 팬 전체 정보가 유출됐다고 확대하지 않는다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-08",
+        "observation": "SM은8일 외부공격자의 업무시스템 문서 유출을 공개. 주민번호·계좌번호 등 일부정보, 디어유·드림메이커에도 유사사고.",
+        "checked_materials": [],
+        "outline": [
+          "SM·계열사 업무시스템 침해",
+          "임직원 정보 유출 공개·정확한 범위 조사중"
         ]
       }
     }
