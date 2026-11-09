@@ -1,224 +1,221 @@
 {
   "version": 2,
-  "hour_utc": "2026110903",
+  "hour_utc": "2026110904",
   "reviewer": "ChatGPT",
-  "generated_at": 1794193497,
+  "generated_at": 1794197020,
   "coverage": {
     "queries": [
-      "2026년 11월 9일 축구 대표팀 명단 감독 발표 site:newsis.com",
-      "November 9 2026 football major news sacked manager injury site:bbc.com/sport",
-      "November 8 2026 sports major championship tennis golf winner",
-      "2026년 11월 9일 주요 국제 뉴스 site:newsis.com",
-      "Alcaraz Shelton Paris final November 8 2026 site:atptour.com",
-      "November 8 2026 Blades Brown Jon Rahm wins site:pgatour.com OR site:europeantour.com"
+      "November 9 2026 football major news manager sacked injury confirmed",
+      "2026년 11월 9일 축구 주요 속보 site:newsis.com",
+      "November 9 2026 world major news Reuters",
+      "November 8 2026 major sports news championship injury",
+      "2026년 11월 9일 일본 지진 이라크 호르무즈 아람코",
+      "November 8 2026 football sports Reuters major injury suspension coach"
     ],
     "opened_urls": [
-      "https://www.europeantour.com/dpworld-tour/rolex/news/articles/detail/jon-rahm-caps-dream-abu-dhabi-debut-with-sixth-rolex-series-crown/",
-      "https://www.sports360news.com/en/tennis/tennis-nov-2-8-2026-alcaraz-wins-paris-wta-finals-s360-tennis-week-hp1/11146391",
-      "https://www.nittoatpfinals.com/en/news/alcaraz-shelton-paris-2026-final-sunday",
-      "https://www.newsis.com/",
-      "https://www.newsis.com/sports/",
-      "https://www.newsis.com/view/NISX20261109_0003859717",
-      "https://www.newsis.com/view/NISX20261109_0003859589",
-      "https://www.newsis.com/world/",
-      "https://www.newsis.com/view/NISX20261109_0003860313",
-      "https://www.newsis.com/view/NISX20261109_0003860193"
+      "https://www.thestandard.com.hk/news/article/347918/Morning-Recap-November-9-2026",
+      "https://news.sbs.co.kr/amp/news.amp?news_id=N1008836405",
+      "https://www.thestandard.com.hk/world/article/347921/Iraq-has-reached-understandings-with-US-to-allow-oil-exports-through-Hormuz-minister-says",
+      "https://www.thestandard.com.hk/world/article/347913/Houthi-attack-damages-Aramco-building-in-Riyadhs-financial-district",
+      "https://www.mlssoccer.com/news/history-nashville-sc-set-mls-single-season-points-record-2026",
+      "https://news.sbs.co.kr/english/newsSection.do?sectionType=07",
+      "https://news.sbs.co.kr/english/article.do?news_id=N1008836244",
+      "https://news.sbs.co.kr/english/article.do?news_id=N1008836276",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836151",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836274"
     ],
     "unavailable": [
-      "PGA 공식 경기보고 본문 접근 실패",
-      "PGA 공식 상금 기사 본문 접근 실패: 누적 2건 후 해당 방식 중단, 브라우저 독립 원문 전환",
-      "BBC 검색 robots 제한. 계정 한도 오류는 확인되지 않음",
-      "run_usage q=6 opened=10 failed=2 start=2026-11-09T02:58:22.255678Z elapsed_s=396 end=검토본작성(제출직전);총완료시간아님"
+      "run_usage q=6 body_ok=10 meta_ok=2 fail=0 start=2026-11-09T03:58:35.489592Z elapsed_s=305 end=검토본작성(제출직전);총완료시간아님"
     ]
   },
   "picks": [
     {
-      "title": "알카라스, 셸턴 꺾고 첫 파리 마스터스 우승…US오픈 패배 설욕",
-      "category": "메이저 스포츠",
-      "url": "https://www.nittoatpfinals.com/en/news/alcaraz-shelton-paris-2026-final-sunday",
-      "source": "ATP 공식",
+      "title": "메시의 마이애미 기록 넘었다…내슈빌, MLS 역대 최다 승점 시즌 완성",
+      "category": "축구",
+      "url": "https://www.mlssoccer.com/news/history-nashville-sc-set-mls-single-season-points-record-2026",
+      "source": "MLS 공식",
       "kind": "official",
-      "event_key": "alcaraz-shelton-first-paris-masters-title-ninth-masters-20261108",
-      "why": "손목 부상 공백 뒤 복귀한 알카라스가 시즌 마지막 마스터스 정상에 섰다. US오픈에서 패한 상대에게 결승에서 설욕했다.",
-      "angle": "첫 파리 우승과 셸턴 상대 US오픈 패배 설욕을 연결한다.",
-      "why_now": "11/8 결승 우승을 ATP 공식이 확인했다. 원문 공개일은 11/8로 표시되며 정확한 최초 시·분은 미확인이다.",
-      "verified_at": 1794193497,
+      "event_key": "nashville-mls-single-season-points-record-77-completed-20261107",
+      "why": "MLS 정규시즌 전체 역사를 바꾼 시즌 결산이다. 메시의 마이애미가 보유한 74점을 넘고 우승 도전의 유리한 위치를 확보했다.",
+      "angle": "내슈빌 77점과 마이애미 74점을 비교하고 MLS컵 우승과는 구분한다.",
+      "why_now": "현지 11/7 최종전에서 77점을 확정한 미발송 주요 사건이다. 공식 본문의 최초 공개 시·분은 미표시여서 null로 둔다.",
+      "verified_at": 1794197020,
       "published_at": null,
       "evidence": [
         {
-          "url": "https://www.nittoatpfinals.com/en/news/alcaraz-shelton-paris-2026-final-sunday",
-          "note": "ATP 공식 본문에서 알카라스가 셸턴을 7-6(5), 7-5로 꺾고 첫 파리·통산 9번째 마스터스 우승을 확정한 사실을 확인했다. 2세트 브레이크 열세를 뒤집었다."
+          "url": "https://www.mlssoccer.com/news/history-nashville-sc-set-mls-single-season-points-record-2026",
+          "note": "MLS 공식은 내슈빌이 최종전 승리로 23승 3패 8무·77점, 역대 정규시즌 최다 승점을 확정했다고 전한다. 이전 최고는 인터 마이애미의 2024년 74점이다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.nittoatpfinals.com/en/news/alcaraz-shelton-paris-2026-final-sunday",
-          "label": "확인한 원문",
+          "url": "https://www.mlssoccer.com/news/history-nashville-sc-set-mls-single-season-points-record-2026",
+          "label": "확인한 기사 본문",
           "kind": "source"
         }
       ],
-      "caution": "영상을 보지 않았다. 최초 공개 시·분은 불명이며 검색·수집 시각으로 대체하지 않는다.",
+      "caution": "정규시즌 서포터스 실드와 플레이오프 MLS컵은 다른 타이틀이다. 영상은 확인하지 않았고 통상 경기 스코어 중심으로 다루지 않는다.",
       "readiness": {
         "mode": "major_news",
-        "event_date": "2026-11-08",
-        "observation": "ATP 공식 본문에서 알카라스가 셸턴을 7-6(5), 7-5로 꺾고 첫 파리·통산 9번째 마스터스 우승을 확정한 사실을 확인했다. 2세트 브레이크 열세를 뒤집었다.",
+        "event_date": "2026-11-07",
+        "observation": "MLS 공식은 내슈빌이 최종전 승리로 23승 3패 8무·77점, 역대 정규시즌 최다 승점을 확정했다고 전한다. 이전 최고는 인터 마이애미의 2024년 74점이다.",
         "checked_materials": [],
         "outline": [
-          "셸턴에 2-0 승리, 첫 파리 마스터스 정상",
-          "US오픈 8강 패배를 이번 결승에서 설욕",
-          "통산 9번째 마스터스 우승 뒤 ATP 파이널스 출전"
+          "내슈빌 77점으로 MLS 정규시즌 역대 최다 승점",
+          "마이애미 74점·뉴잉글랜드 73점을 넘어섰다",
+          "서포터스 실드 확보, MLS컵까지 진출하면 홈 개최 우선권"
         ]
       }
     },
     {
-      "title": "19세 브라운, 연장 끝 PGA 첫 우승…역대 네 번째 최연소",
-      "category": "메이저 스포츠",
-      "url": "https://www.newsis.com/view/NISX20261109_0003859717",
-      "source": "뉴시스",
-      "kind": "article",
-      "event_key": "blades-brown-first-pga-tour-win-wwt-championship-playoff-20261108",
-      "why": "정규 투어 첫 우승을 19세에 따낸 새 얼굴의 등장이다. 단순 순위보다 역대 네 번째로 어린 우승이라는 이정표가 핵심이다.",
-      "angle": "19세 첫 우승과 벤 제임스와의 연장 승부를 첫 장에 둔다.",
-      "why_now": "현지 11/8 대회 최종일, 한국시간 11/9 우승. 확인 기사 등록은 11/9 10:33:58 KST다.",
-      "verified_at": 1794193497,
-      "published_at": 1794188038,
-      "evidence": [
-        {
-          "url": "https://www.newsis.com/view/NISX20261109_0003859717",
-          "note": "뉴시스 본문에서 브라운이 마지막 날 63타, 합계 23언더파 265타를 기록하고 벤 제임스를 연장 두 번째 홀에서 꺾어 첫 PGA 우승을 거둔 사실을 확인했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.newsis.com/view/NISX20261109_0003859717",
-          "label": "확인한 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "경기 영상은 확인하지 않았다. 대회 현지일과 한국 보도일을 구분하며 역대 최연소 우승이라고 쓰지 않는다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-08",
-        "observation": "뉴시스 본문에서 브라운이 마지막 날 63타, 합계 23언더파 265타를 기록하고 벤 제임스를 연장 두 번째 홀에서 꺾어 첫 PGA 우승을 거둔 사실을 확인했다.",
-        "checked_materials": [],
-        "outline": [
-          "브라운, 벤 제임스와 공동 선두 뒤 연장 우승",
-          "19세 5개월 18일로 PGA 역대 네 번째 최연소",
-          "우승 상금 108만 달러, 내년 투어 출전권도 확보"
-        ]
-      }
-    },
-    {
-      "title": "욘 람, 해턴·매킬로이 제치고 아부다비 정상…로렉스시리즈 최다 우승",
-      "category": "메이저 스포츠",
-      "url": "https://www.europeantour.com/dpworld-tour/rolex/news/articles/detail/jon-rahm-caps-dream-abu-dhabi-debut-with-sixth-rolex-series-crown/",
-      "source": "DP World Tour",
-      "kind": "official",
-      "event_key": "jon-rahm-abu-dhabi-championship-title-sixth-rolex-series-20261108",
-      "why": "메이저 챔피언들이 맞붙은 시즌 막판 대형 대회에서 람이 우승했다. 해턴과의 공동 최다 기록을 깨며 최정상 경쟁 구도가 바뀌었다.",
-      "angle": "최종 라운드 공동 선두 경쟁에서 람이 빠져나온 흐름을 설명한다.",
-      "why_now": "현지 11/8 아부다비 대회 우승을 투어 공식이 확인했다. 원문 최초 시·분은 표시되지 않아 null로 남긴다.",
-      "verified_at": 1794193497,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://www.europeantour.com/dpworld-tour/rolex/news/articles/detail/jon-rahm-caps-dream-abu-dhabi-debut-with-sixth-rolex-series-crown/",
-          "note": "DP 월드투어 공식 본문은 람이 최종일 67타·합계 23언더파로 해턴을 2타 차로 제치고 우승했다고 확인한다. 로렉스시리즈 6승으로 공동 최다 5승에서 단독 최다가 됐다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.europeantour.com/dpworld-tour/rolex/news/articles/detail/jon-rahm-caps-dream-abu-dhabi-debut-with-sixth-rolex-series-crown/",
-          "label": "확인한 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "공식 본문에서 확인한 우승 사실만 사용한다. LIV 탈퇴나 PGA 복귀 확정으로 확대하지 않는다. 영상 미시청.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-08",
-        "observation": "DP 월드투어 공식 본문은 람이 최종일 67타·합계 23언더파로 해턴을 2타 차로 제치고 우승했다고 확인한다. 로렉스시리즈 6승으로 공동 최다 5승에서 단독 최다가 됐다.",
-        "checked_materials": [],
-        "outline": [
-          "람 23언더파, 해턴 21언더파로 2타 차 우승",
-          "매킬로이는 19언더파 3위",
-          "아부다비 첫 출전 우승·로렉스시리즈 통산 최다 6승"
-        ]
-      }
-    },
-    {
-      "title": "암스테르담 ‘레드라인’ 시위…주최 측 “20만 명”, 대이스라엘 압박 요구",
+      "title": "이라크 외무 “미국과 호르무즈 원유 수출 통항 협의”…오만 인근 항로 거론",
       "category": "시사",
-      "url": "https://www.newsis.com/view/NISX20261109_0003859589",
-      "source": "뉴시스",
+      "url": "https://www.thestandard.com.hk/world/article/347921/Iraq-has-reached-understandings-with-US-to-allow-oil-exports-through-Hormuz-minister-says",
+      "source": "Reuters / The Standard",
       "kind": "article",
-      "event_key": "amsterdam-red-line-gaza-protest-organisers-200000-20261108",
-      "why": "수십만 명 규모의 시위가 정부의 가자 정책 변화를 요구했다. 참가 규모와 정부 입장을 함께 제시할 국제 현안이다.",
-      "angle": "붉은 옷의 의미와 주최 측 집계, 정부의 두 국가 해법 입장을 나란히 놓는다.",
-      "why_now": "현지 11/8 시위. 확인 기사 등록은 11/9 06:54:14 KST이며 이번 시위의 새 규모·요구를 다룬다.",
-      "verified_at": 1794193497,
-      "published_at": 1794174854,
+      "event_key": "iraq-us-understandings-hormuz-oil-export-oman-lane-report-20261109",
+      "why": "전쟁으로 막힌 원유 수출길을 두고 미국과의 통항 협의가 공개됐다. 세계 에너지 공급과 해협 안전에 직결되는 새 외교 발언이다.",
+      "angle": "통항 협의 발언과 실제 항행 안전 보장을 분리해 설명한다.",
+      "why_now": "원문 최초 공개는 11/9 06:21:04 홍콩(07:21:04 KST)으로 메타데이터를 확인했다. 인터뷰 실시일은 원문에 미표시다.",
+      "verified_at": 1794197020,
+      "published_at": 1794176464,
       "evidence": [
         {
-          "url": "https://www.newsis.com/view/NISX20261109_0003859589",
-          "note": "뉴시스 본문은 11/8 암스테르담 시위에 주최 측 추산 약 20만 명이 참여해 대이스라엘 정치·경제·외교 압박 강화를 요구했다고 전한다. 외무장관은 두 국가 해법 지지를 밝혔다."
+          "url": "https://www.thestandard.com.hk/world/article/347921/Iraq-has-reached-understandings-with-US-to-allow-oil-exports-through-Hormuz-minister-says",
+          "note": "11/9 홍콩 공개 Reuters 전재 본문은 푸아드 후세인 외무장관이 알자지라 인터뷰에서 오만 인근 항로를 통한 이라크 원유 수출에 미국과 양해를 이뤘다고 말했다고 전한다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.newsis.com/view/NISX20261109_0003859589",
-          "label": "확인한 원문",
+          "url": "https://www.thestandard.com.hk/world/article/347921/Iraq-has-reached-understandings-with-US-to-allow-oil-exports-through-Hormuz-minister-says",
+          "label": "확인한 기사 본문",
           "kind": "source"
         }
       ],
-      "caution": "20만 명은 주최 측 추산이며 경찰 확정 집계가 아니다. 기사 사진은 10/7 자료사진이다. 당일 장면을 직접 봤다고 쓰지 않는다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-08",
-        "observation": "뉴시스 본문은 11/8 암스테르담 시위에 주최 측 추산 약 20만 명이 참여해 대이스라엘 정치·경제·외교 압박 강화를 요구했다고 전한다. 외무장관은 두 국가 해법 지지를 밝혔다.",
-        "checked_materials": [],
-        "outline": [
-          "현지 11/8 레드라인 시위, 주최 측 추산 약 20만 명",
-          "시위대는 이스라엘에 대한 정부 압박 강화 요구",
-          "정부는 가자 인권 개선·두 국가 해법 지지 입장"
-        ]
-      }
-    },
-    {
-      "title": "국민의힘 법사위원들, 예산심사 보이콧…특검법 처리에 반발",
-      "category": "시사",
-      "url": "https://www.newsis.com/view/NISX20261109_0003860193",
-      "source": "뉴시스",
-      "kind": "article",
-      "event_key": "ppp-lawmakers-judiciary-committee-budget-review-boycott-20261109",
-      "why": "특검법 갈등이 국회 예산심사 불참으로 번졌다. 사법기관 예산과 상임위 운영에 영향을 주는 새 정치적 결정이다.",
-      "angle": "오늘 발표된 법사위 일정 불참과 대상 범위를 명확히 제시한다.",
-      "why_now": "11/9 기자회견에서 법사위 예산소위 등 일정 불참을 새로 선언했다. 확인 기사 등록은 11/9 11:03:33 KST다.",
-      "verified_at": 1794193497,
-      "published_at": 1794189813,
-      "evidence": [
-        {
-          "url": "https://www.newsis.com/view/NISX20261109_0003860193",
-          "note": "뉴시스 본문은 국민의힘 법사위원들이 11/9 기자회견에서 특검법 처리에 반발해 예산소위 등 향후 법사위 일정에 불참하기로 성명을 냈다고 확인한다. 대통령에게 재의요구권 행사도 요구했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.newsis.com/view/NISX20261109_0003860193",
-          "label": "확인한 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "법사위 소속 의원들의 불참 선언이다. 국회 전체 예산심사 중단이나 특검법 위헌 확정으로 표현하지 않는다.",
+      "caution": "외무장관의 발언 보도다. event_date는 새 발언 보도 공개일이며 인터뷰 실시일은 미확인이다. 전면 개방·안전 보장 확정으로 쓰지 않는다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-09",
-        "observation": "뉴시스 본문은 국민의힘 법사위원들이 11/9 기자회견에서 특검법 처리에 반발해 예산소위 등 향후 법사위 일정에 불참하기로 성명을 냈다고 확인한다. 대통령에게 재의요구권 행사도 요구했다.",
+        "observation": "11/9 홍콩 공개 Reuters 전재 본문은 푸아드 후세인 외무장관이 알자지라 인터뷰에서 오만 인근 항로를 통한 이라크 원유 수출에 미국과 양해를 이뤘다고 말했다고 전한다.",
         "checked_materials": [],
         "outline": [
-          "국민의힘 법사위원들, 예산소위 등 법사위 일정 불참 선언",
-          "당사자들은 특검법 처리에 대한 저항이라고 설명",
-          "대통령에게 거부권 요구, 실제 행사 여부는 별개"
+          "이라크 외무장관, 미국과 원유 수출 통항 양해 주장",
+          "오만 인근 항로를 통한 호르무즈 통과 거론",
+          "실제 항행 재개·미국 측 별도 확인 여부와 구분"
+        ]
+      }
+    },
+    {
+      "title": "리야드 금융지구 아람코 건물 피해…사우디 “공격 파편, 인명피해 없어”",
+      "category": "시사",
+      "url": "https://www.thestandard.com.hk/world/article/347913/Houthi-attack-damages-Aramco-building-in-Riyadhs-financial-district",
+      "source": "Reuters / The Standard",
+      "kind": "article",
+      "event_key": "riyadh-aramco-tower-attack-debris-damage-saudi-confirmation-20261108",
+      "why": "사우디 수도의 금융 중심부와 세계적 석유기업 건물이 공격 시도에 피해를 입었다. 중동 전쟁의 경제·도시 안전 위험이 확대된 사건이다.",
+      "angle": "사우디가 확인한 피해와 후티의 공격 주장을 나눠 제시한다.",
+      "why_now": "현지 11/8 공격 시도에 따른 피해다. 원문 최초 공개 11/9 03:09:18 홍콩(04:09:18 KST)을 확인했다.",
+      "verified_at": 1794197020,
+      "published_at": 1794164958,
+      "evidence": [
+        {
+          "url": "https://www.thestandard.com.hk/world/article/347913/Houthi-attack-damages-Aramco-building-in-Riyadhs-financial-district",
+          "note": "Reuters 전재 본문은 사우디 에너지부가 리야드 아람코 타워의 제한적 피해와 사상자 없음을 확인했다고 전한다. 사우디 연합군은 후티 미사일 요격을, 후티는 공격을 주장했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.thestandard.com.hk/world/article/347913/Houthi-attack-damages-Aramco-building-in-Riyadhs-financial-district",
+          "label": "확인한 기사 본문",
+          "kind": "source"
+        }
+      ],
+      "caution": "원유 생산시설 파괴나 생산 중단은 확인되지 않았다. 에너지부는 책임 주체를 직접 지목하지 않았다. 사진·영상은 직접 확인하지 않았다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-08",
+        "observation": "Reuters 전재 본문은 사우디 에너지부가 리야드 아람코 타워의 제한적 피해와 사상자 없음을 확인했다고 전한다. 사우디 연합군은 후티 미사일 요격을, 후티는 공격을 주장했다.",
+        "checked_materials": [],
+        "outline": [
+          "리야드 아람코 기업 사무실 여러 층 창문 파손",
+          "에너지부는 공격 시도 파편 피해·사상자 없음 발표",
+          "공격 주체 관련 사우디 연합군·후티 주장은 별도 표기"
+        ]
+      }
+    },
+    {
+      "title": "일본 시즈오카 규모 5.7 지진…19명 부상, 기상청 추가 강진 주의",
+      "category": "시사",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836151",
+      "source": "SBS",
+      "kind": "article",
+      "event_key": "shizuoka-aichi-magnitude57-quake-19-injured-jma-warning-20261108",
+      "why": "일본 중부 내륙의 강한 흔들림으로 다수가 다쳤고 기상청이 추가 지진 주의를 당부했다. 여행·거주 안전에 직접 관련되는 대형 재난 소식이다.",
+      "angle": "규모와 관측 진도를 구분하고 난카이 대지진 예고로 과장하지 않는다.",
+      "why_now": "지진은 11/8 01:04경 일본 현지시간. 원문 최초 작성 11/8 20:19 KST이며 11/9 08:39 갱신을 최초 공개로 바꾸지 않았다.",
+      "verified_at": 1794197020,
+      "published_at": 1794136740,
+      "evidence": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836151",
+          "note": "SBS 한국어 본문은 시즈오카 서쪽의 규모 5.7 지진, 아이치 일부 최대 진도 5강, 최소 19명 부상을 전한다. 일본 기상청은 약 일주일 비슷한 강도의 지진에 주의를 당부했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836151",
+          "label": "확인한 기사 본문",
+          "kind": "source"
+        }
+      ],
+      "caution": "규모 5.7과 진도 5강을 혼동하지 않는다. 추가 지진 주의는 날짜를 특정한 예측이 아니다. 본문만 확인했고 CCTV 영상을 시청하지 않았다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-08",
+        "observation": "SBS 한국어 본문은 시즈오카 서쪽의 규모 5.7 지진, 아이치 일부 최대 진도 5강, 최소 19명 부상을 전한다. 일본 기상청은 약 일주일 비슷한 강도의 지진에 주의를 당부했다.",
+        "checked_materials": [],
+        "outline": [
+          "11/8 새벽 시즈오카 서쪽 지진, 아이치 최대 진도 5강",
+          "최소 19명 부상·기사 기준 사망자 없음",
+          "기상청 추가 흔들림 주의, 난카이 해곡 관련 가능성은 낮다고 설명"
+        ]
+      }
+    },
+    {
+      "title": "폴란드 검찰, 크라쿠프 총격 ‘테러 범죄’ 수사 착수…극우 성향 조사",
+      "category": "시사",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836274",
+      "source": "SBS",
+      "kind": "article",
+      "event_key": "krakow-shooting-prosecutors-terror-crime-investigation-announced-20261108",
+      "why": "기존 총격 피해 보도 뒤 검찰이 테러 범죄로 수사를 시작한 중대한 새 후속이다. 동기·법적 수사 방향의 변화만 별도 사실로 다룬다.",
+      "angle": "새 사실인 검찰의 테러 수사 착수를 첫 장에 두고 기존 피해는 배경으로 줄인다.",
+      "why_now": "11/7 총격 자체는 이미 발송됐다. 이번 새 사실은 현지 11/8 검찰의 테러 수사 착수 발표이며 SBS 최초 작성은 11/8 21:49 KST다.",
+      "verified_at": 1794197020,
+      "published_at": 1794142140,
+      "evidence": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836274",
+          "note": "SBS 한국어 본문은 폴란드 검찰이 11/8 총격을 테러 범죄로 규정하고 수사를 시작했다고 발표한 사실을 전한다. 당국은 용의자의 급진적 극우·민족주의 성향을 파악했다고 밝혔다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836274",
+          "label": "확인한 기사 본문",
+          "kind": "source"
+        }
+      ],
+      "caution": "총격·시신 발견 자체를 새 사건으로 재발송하지 않는다. 테러 수사 착수와 법원의 최종 유죄 판단은 다르다. 원문 사진·영상 미확인.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-08",
+        "observation": "SBS 한국어 본문은 폴란드 검찰이 11/8 총격을 테러 범죄로 규정하고 수사를 시작했다고 발표한 사실을 전한다. 당국은 용의자의 급진적 극우·민족주의 성향을 파악했다고 밝혔다.",
+        "checked_materials": [],
+        "outline": [
+          "새 후속: 검찰이 총격을 테러 범죄로 간주해 수사 착수",
+          "극우·급진적 민족주의 성향은 당국 발표로 귀속",
+          "기존 총격 피해와 자택 시신 발견은 배경으로만 사용"
         ]
       }
     }
