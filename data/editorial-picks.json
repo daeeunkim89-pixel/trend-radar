@@ -1,221 +1,211 @@
 {
   "version": 2,
-  "hour_utc": "2026110904",
+  "hour_utc": "2026110907",
   "reviewer": "ChatGPT",
-  "generated_at": 1794197020,
+  "generated_at": 1794210344,
   "coverage": {
     "queries": [
-      "November 9 2026 football major news manager sacked injury confirmed",
-      "2026년 11월 9일 축구 주요 속보 site:newsis.com",
-      "November 9 2026 world major news Reuters",
-      "November 8 2026 major sports news championship injury",
-      "2026년 11월 9일 일본 지진 이라크 호르무즈 아람코",
-      "November 8 2026 football sports Reuters major injury suspension coach"
+      "\"2026.11.09\" \"스포츠\" \"속보\"",
+      "\"2026.11.09\" \"김원호\" \"서승재\"",
+      "\"2026.11.09\" \"NBA\" \"기록\"",
+      "\"2026.11.09\" \"알카라스\"",
+      "\"2026.11.09\" \"T1\" \"결승\"",
+      "\"2026.11.09\" \"코스피\" \"마감\""
     ],
     "opened_urls": [
-      "https://www.thestandard.com.hk/news/article/347918/Morning-Recap-November-9-2026",
-      "https://news.sbs.co.kr/amp/news.amp?news_id=N1008836405",
-      "https://www.thestandard.com.hk/world/article/347921/Iraq-has-reached-understandings-with-US-to-allow-oil-exports-through-Hormuz-minister-says",
-      "https://www.thestandard.com.hk/world/article/347913/Houthi-attack-damages-Aramco-building-in-Riyadhs-financial-district",
-      "https://www.mlssoccer.com/news/history-nashville-sc-set-mls-single-season-points-record-2026",
-      "https://news.sbs.co.kr/english/newsSection.do?sectionType=07",
-      "https://news.sbs.co.kr/english/article.do?news_id=N1008836244",
-      "https://news.sbs.co.kr/english/article.do?news_id=N1008836276",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836151",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836274"
+      "https://www.gamevu.co.kr/news/articleView.html?idxno=62130",
+      "https://www.chosun.com/sports/basketball/2026/11/09/HFRWEZDEMU2DMOJWGQ3GEZDCGU/",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008837423",
+      "https://www.mk.co.kr/news/stock/12202543",
+      "https://www.chosun.com/politics/politics_general/2026/11/09/5XCPH23KVBCLTMPNETID2K4AYQ/"
     ],
     "unavailable": [
-      "run_usage q=6 body_ok=10 meta_ok=2 fail=0 start=2026-11-09T03:58:35.489592Z elapsed_s=305 end=검토본작성(제출직전);총완료시간아님"
+      "일부 web 열람 실패는 일반 브라우저의 공개 기사 본문으로 확인. 영상은 미시청."
     ]
   },
   "picks": [
     {
-      "title": "메시의 마이애미 기록 넘었다…내슈빌, MLS 역대 최다 승점 시즌 완성",
-      "category": "축구",
-      "url": "https://www.mlssoccer.com/news/history-nashville-sc-set-mls-single-season-points-record-2026",
-      "source": "MLS 공식",
-      "kind": "official",
-      "event_key": "nashville-mls-single-season-points-record-77-completed-20261107",
-      "why": "MLS 정규시즌 전체 역사를 바꾼 시즌 결산이다. 메시의 마이애미가 보유한 74점을 넘고 우승 도전의 유리한 위치를 확보했다.",
-      "angle": "내슈빌 77점과 마이애미 74점을 비교하고 MLS컵 우승과는 구분한다.",
-      "why_now": "현지 11/7 최종전에서 77점을 확정한 미발송 주요 사건이다. 공식 본문의 최초 공개 시·분은 미표시여서 null로 둔다.",
-      "verified_at": 1794197020,
-      "published_at": null,
-      "evidence": [
-        {
-          "url": "https://www.mlssoccer.com/news/history-nashville-sc-set-mls-single-season-points-record-2026",
-          "note": "MLS 공식은 내슈빌이 최종전 승리로 23승 3패 8무·77점, 역대 정규시즌 최다 승점을 확정했다고 전한다. 이전 최고는 인터 마이애미의 2024년 74점이다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.mlssoccer.com/news/history-nashville-sc-set-mls-single-season-points-record-2026",
-          "label": "확인한 기사 본문",
-          "kind": "source"
-        }
-      ],
-      "caution": "정규시즌 서포터스 실드와 플레이오프 MLS컵은 다른 타이틀이다. 영상은 확인하지 않았고 통상 경기 스코어 중심으로 다루지 않는다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-07",
-        "observation": "MLS 공식은 내슈빌이 최종전 승리로 23승 3패 8무·77점, 역대 정규시즌 최다 승점을 확정했다고 전한다. 이전 최고는 인터 마이애미의 2024년 74점이다.",
-        "checked_materials": [],
-        "outline": [
-          "내슈빌 77점으로 MLS 정규시즌 역대 최다 승점",
-          "마이애미 74점·뉴잉글랜드 73점을 넘어섰다",
-          "서포터스 실드 확보, MLS컵까지 진출하면 홈 개최 우선권"
-        ]
-      }
-    },
-    {
-      "title": "이라크 외무 “미국과 호르무즈 원유 수출 통항 협의”…오만 인근 항로 거론",
-      "category": "시사",
-      "url": "https://www.thestandard.com.hk/world/article/347921/Iraq-has-reached-understandings-with-US-to-allow-oil-exports-through-Hormuz-minister-says",
-      "source": "Reuters / The Standard",
+      "title": "T1, BLG에 1대3 패배…롤드컵 결승행 좌절·젠지와 BLG 맞대결",
+      "category": "메이저 스포츠",
+      "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=62130",
+      "source": "게임뷰",
       "kind": "article",
-      "event_key": "iraq-us-understandings-hormuz-oil-export-oman-lane-report-20261109",
-      "why": "전쟁으로 막힌 원유 수출길을 두고 미국과의 통항 협의가 공개됐다. 세계 에너지 공급과 해협 안전에 직결되는 새 외교 발언이다.",
-      "angle": "통항 협의 발언과 실제 항행 안전 보장을 분리해 설명한다.",
-      "why_now": "원문 최초 공개는 11/9 06:21:04 홍콩(07:21:04 KST)으로 메타데이터를 확인했다. 인터뷰 실시일은 원문에 미표시다.",
-      "verified_at": 1794197020,
-      "published_at": 1794176464,
+      "event_key": "t1-blg-worlds-semifinal-one-three-elimination-20261109",
+      "why": "페이커의 T1 탈락으로 국내 관심이 큰 세계대회 결승 대진이 바뀐 핵심 결과다.",
+      "angle": "T1의1대3탈락과 젠지 대 BLG 결승 대진을 간결히 제시한다.",
+      "why_now": "9일 준결승이 끝난 새 결과다. 이전 발송의T1 4강 진출·젠지 결승행과 구분했다.",
+      "verified_at": 1794210284,
+      "published_at": 1794189300,
       "evidence": [
         {
-          "url": "https://www.thestandard.com.hk/world/article/347921/Iraq-has-reached-understandings-with-US-to-allow-oil-exports-through-Hormuz-minister-says",
-          "note": "11/9 홍콩 공개 Reuters 전재 본문은 푸아드 후세인 외무장관이 알자지라 인터뷰에서 오만 인근 항로를 통한 이라크 원유 수출에 미국과 양해를 이뤘다고 말했다고 전한다."
+          "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=62130",
+          "note": "BLG가4세트 승리로T1을3대1로 꺾고 결승에 올라 젠지와 맞붙는다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.thestandard.com.hk/world/article/347921/Iraq-has-reached-understandings-with-US-to-allow-oil-exports-through-Hormuz-minister-says",
-          "label": "확인한 기사 본문",
+          "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=62130",
+          "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "외무장관의 발언 보도다. event_date는 새 발언 보도 공개일이며 인터뷰 실시일은 미확인이다. 전면 개방·안전 보장 확정으로 쓰지 않는다.",
+      "caution": "경기 영상은 직접 시청하지 않았다. 확인한 원문 결과로 사실 카드를 만든다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-09",
-        "observation": "11/9 홍콩 공개 Reuters 전재 본문은 푸아드 후세인 외무장관이 알자지라 인터뷰에서 오만 인근 항로를 통한 이라크 원유 수출에 미국과 양해를 이뤘다고 말했다고 전한다.",
+        "observation": "BLG가4세트 승리로T1을3대1로 꺾고 결승에 올라 젠지와 맞붙는다.",
         "checked_materials": [],
         "outline": [
-          "이라크 외무장관, 미국과 원유 수출 통항 양해 주장",
-          "오만 인근 항로를 통한 호르무즈 통과 거론",
-          "실제 항행 재개·미국 측 별도 확인 여부와 구분"
+          "T1, BLG에1대3으로탈락",
+          "결승은젠지대BLG"
         ]
       }
     },
     {
-      "title": "리야드 금융지구 아람코 건물 피해…사우디 “공격 파편, 인명피해 없어”",
-      "category": "시사",
-      "url": "https://www.thestandard.com.hk/world/article/347913/Houthi-attack-damages-Aramco-building-in-Riyadhs-financial-district",
-      "source": "Reuters / The Standard",
+      "title": "커리, 35세 이후 40득점 경기 최다…르브론·조던 넘었다",
+      "category": "메이저 스포츠",
+      "url": "https://www.chosun.com/sports/basketball/2026/11/09/HFRWEZDEMU2DMOJWGQ3GEZDCGU/",
+      "source": "스포츠조선",
       "kind": "article",
-      "event_key": "riyadh-aramco-tower-attack-debris-damage-saudi-confirmation-20261108",
-      "why": "사우디 수도의 금융 중심부와 세계적 석유기업 건물이 공격 시도에 피해를 입었다. 중동 전쟁의 경제·도시 안전 위험이 확대된 사건이다.",
-      "angle": "사우디가 확인한 피해와 후티의 공격 주장을 나눠 제시한다.",
-      "why_now": "현지 11/8 공격 시도에 따른 피해다. 원문 최초 공개 11/9 03:09:18 홍콩(04:09:18 KST)을 확인했다.",
-      "verified_at": 1794197020,
-      "published_at": 1794164958,
+      "event_key": "curry-sixteen-forty-point-games-after35-nba-record-magic-20261108",
+      "why": "세계적 농구 스타가 동시대·역대 전설을 넘어선 구체적인 NBA 기록이다.",
+      "angle": "35세 이후40점 이상16회라는 조건과 르브론15회·조던12회를 함께 표기.",
+      "why_now": "경기는8일 한국시간, 보도9일이다. 미발송24/48시간 주요 기록으로 확인했다.",
+      "verified_at": 1794210284,
+      "published_at": 1794174600,
       "evidence": [
         {
-          "url": "https://www.thestandard.com.hk/world/article/347913/Houthi-attack-damages-Aramco-building-in-Riyadhs-financial-district",
-          "note": "Reuters 전재 본문은 사우디 에너지부가 리야드 아람코 타워의 제한적 피해와 사상자 없음을 확인했다고 전한다. 사우디 연합군은 후티 미사일 요격을, 후티는 공격을 주장했다."
+          "url": "https://www.chosun.com/sports/basketball/2026/11/09/HFRWEZDEMU2DMOJWGQ3GEZDCGU/",
+          "note": "올랜도전41점을 넣은 커리는35세 이후40득점 이상16경기로 르브론15회와 조던12회를 넘어섰다는 ESPN인용 보도."
         }
       ],
       "materials": [
         {
-          "url": "https://www.thestandard.com.hk/world/article/347913/Houthi-attack-damages-Aramco-building-in-Riyadhs-financial-district",
-          "label": "확인한 기사 본문",
+          "url": "https://www.chosun.com/sports/basketball/2026/11/09/HFRWEZDEMU2DMOJWGQ3GEZDCGU/",
+          "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "원유 생산시설 파괴나 생산 중단은 확인되지 않았다. 에너지부는 책임 주체를 직접 지목하지 않았다. 사진·영상은 직접 확인하지 않았다.",
+      "caution": "NBA 통산 모든 연령의40점 경기 최다로 확대하지 않는다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-08",
-        "observation": "Reuters 전재 본문은 사우디 에너지부가 리야드 아람코 타워의 제한적 피해와 사상자 없음을 확인했다고 전한다. 사우디 연합군은 후티 미사일 요격을, 후티는 공격을 주장했다.",
+        "observation": "올랜도전41점을 넣은 커리는35세 이후40득점 이상16경기로 르브론15회와 조던12회를 넘어섰다는 ESPN인용 보도.",
         "checked_materials": [],
         "outline": [
-          "리야드 아람코 기업 사무실 여러 층 창문 파손",
-          "에너지부는 공격 시도 파편 피해·사상자 없음 발표",
-          "공격 주체 관련 사우디 연합군·후티 주장은 별도 표기"
+          "35세이후40점이상16경기",
+          "르브론15회·조던12회추월"
         ]
       }
     },
     {
-      "title": "일본 시즈오카 규모 5.7 지진…19명 부상, 기상청 추가 강진 주의",
-      "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836151",
+      "title": "돈치치 빠져도 리브스 43점…레이커스 5연승·서부 선두",
+      "category": "메이저 스포츠",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008837423",
       "source": "SBS",
       "kind": "article",
-      "event_key": "shizuoka-aichi-magnitude57-quake-19-injured-jma-warning-20261108",
-      "why": "일본 중부 내륙의 강한 흔들림으로 다수가 다쳤고 기상청이 추가 지진 주의를 당부했다. 여행·거주 안전에 직접 관련되는 대형 재난 소식이다.",
-      "angle": "규모와 관측 진도를 구분하고 난카이 대지진 예고로 과장하지 않는다.",
-      "why_now": "지진은 11/8 01:04경 일본 현지시간. 원문 최초 작성 11/8 20:19 KST이며 11/9 08:39 갱신을 최초 공개로 바꾸지 않았다.",
-      "verified_at": 1794197020,
-      "published_at": 1794136740,
+      "event_key": "lakers-reeves43-without-doncic-pistons-five-streak-20261109",
+      "why": "인지도가 높은 레이커스가 득점 선두의 공백을 이겨내며 서부 선두를 지켰다.",
+      "angle": "돈치치 결장과 리브스43점의 대비,121대116 승리 결과를 제시.",
+      "why_now": "9일 디트로이트전의 새 결과다. 돈치치의 평균40.1점과 당일 결장은 구분한다.",
+      "verified_at": 1794210284,
+      "published_at": 1794204120,
       "evidence": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836151",
-          "note": "SBS 한국어 본문은 시즈오카 서쪽의 규모 5.7 지진, 아이치 일부 최대 진도 5강, 최소 19명 부상을 전한다. 일본 기상청은 약 일주일 비슷한 강도의 지진에 주의를 당부했다."
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008837423",
+          "note": "레이커스가121대116으로디트로이트에승리. 허리통증으로돈치치결장,리브스43점으로5연승·9승2패."
         }
       ],
       "materials": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836151",
-          "label": "확인한 기사 본문",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008837423",
+          "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "규모 5.7과 진도 5강을 혼동하지 않는다. 추가 지진 주의는 날짜를 특정한 예측이 아니다. 본문만 확인했고 CCTV 영상을 시청하지 않았다.",
+      "caution": "돈치치가 시즌아웃됐다는 발표는 없다.",
       "readiness": {
         "mode": "major_news",
-        "event_date": "2026-11-08",
-        "observation": "SBS 한국어 본문은 시즈오카 서쪽의 규모 5.7 지진, 아이치 일부 최대 진도 5강, 최소 19명 부상을 전한다. 일본 기상청은 약 일주일 비슷한 강도의 지진에 주의를 당부했다.",
+        "event_date": "2026-11-09",
+        "observation": "레이커스가121대116으로디트로이트에승리. 허리통증으로돈치치결장,리브스43점으로5연승·9승2패.",
         "checked_materials": [],
         "outline": [
-          "11/8 새벽 시즈오카 서쪽 지진, 아이치 최대 진도 5강",
-          "최소 19명 부상·기사 기준 사망자 없음",
-          "기상청 추가 흔들림 주의, 난카이 해곡 관련 가능성은 낮다고 설명"
+          "돈치치결장에도리브스43점",
+          "121대116승·5연승·9승2패"
         ]
       }
     },
     {
-      "title": "폴란드 검찰, 크라쿠프 총격 ‘테러 범죄’ 수사 착수…극우 성향 조사",
+      "title": "코스피, 2.24% 반등도 못 지켰다…5018.85로 하락 마감",
       "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836274",
-      "source": "SBS",
+      "url": "https://www.mk.co.kr/news/stock/12202543",
+      "source": "매일경제",
       "kind": "article",
-      "event_key": "krakow-shooting-prosecutors-terror-crime-investigation-announced-20261108",
-      "why": "기존 총격 피해 보도 뒤 검찰이 테러 범죄로 수사를 시작한 중대한 새 후속이다. 동기·법적 수사 방향의 변화만 별도 사실로 다룬다.",
-      "angle": "새 사실인 검찰의 테러 수사 착수를 첫 장에 두고 기존 피해는 배경으로 줄인다.",
-      "why_now": "11/7 총격 자체는 이미 발송됐다. 이번 새 사실은 현지 11/8 검찰의 테러 수사 착수 발표이며 SBS 최초 작성은 11/8 21:49 KST다.",
-      "verified_at": 1794197020,
-      "published_at": 1794142140,
+      "event_key": "kospi-5018-85-close-reverses-2-24-intraday-rebound-20261109",
+      "why": "급락 뒤 반등 시도가 꺾이고5000선에 근접한 국내 시장의 당일 핵심 결과다.",
+      "angle": "장중5172.94와 종가5018.85를 대비하고 하락률0.81%를 정확히 쓴다.",
+      "why_now": "9일15시30분 장 마감 결과이며 이전 발송의6일서킷브레이커와 다른 거래일이다.",
+      "verified_at": 1794210284,
+      "published_at": 1794207480,
       "evidence": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836274",
-          "note": "SBS 한국어 본문은 폴란드 검찰이 11/8 총격을 테러 범죄로 규정하고 수사를 시작했다고 발표한 사실을 전한다. 당국은 용의자의 급진적 극우·민족주의 성향을 파악했다고 밝혔다."
+          "url": "https://www.mk.co.kr/news/stock/12202543",
+          "note": "코스피는장중한때2.24%오른5172.94까지갔지만전일대비0.81%내린5018.85마감. 장중5000하회후종가는위에남았다."
         }
       ],
       "materials": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836274",
-          "label": "확인한 기사 본문",
+          "url": "https://www.mk.co.kr/news/stock/12202543",
+          "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "총격·시신 발견 자체를 새 사건으로 재발송하지 않는다. 테러 수사 착수와 법원의 최종 유죄 판단은 다르다. 원문 사진·영상 미확인.",
+      "caution": "5000선 붕괴 마감으로 쓰지 않는다. 투자 권유나 향후 가격을 예측하지 않는다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-09",
+        "observation": "코스피는장중한때2.24%오른5172.94까지갔지만전일대비0.81%내린5018.85마감. 장중5000하회후종가는위에남았다.",
+        "checked_materials": [],
+        "outline": [
+          "장중5172.94까지반등",
+          "종가는5018.85·0.81%하락"
+        ]
+      }
+    },
+    {
+      "title": "여당 “비거주 1주택도 종부세 14억 공제”…청와대는 기존 방침 유지",
+      "category": "시사",
+      "url": "https://www.chosun.com/politics/politics_general/2026/11/09/5XCPH23KVBCLTMPNETID2K4AYQ/",
+      "source": "조선일보",
+      "kind": "article",
+      "event_key": "democrats-request-nonresident-single-home-tax14billion-bluehouse-unchanged-20261108",
+      "why": "주택 세 부담을 좌우하는 전국적 정책 쟁점에서 여당과 정부의 이견이 공개됐다.",
+      "angle": "실거주 여부 없이14억원 공제를 요구한 여당과 기존 방침을 유지한 청와대를 나란히 제시.",
+      "why_now": "8일 고위당정 후 공개된 요구를9일 보도. 미발송24시간 주요 정책으로 검토했다.",
+      "verified_at": 1794210284,
+      "published_at": 1794152520,
+      "evidence": [
+        {
+          "url": "https://www.chosun.com/politics/politics_general/2026/11/09/5XCPH23KVBCLTMPNETID2K4AYQ/",
+          "note": "여당은실거주여부와무관한1주택종부세기본공제14억원적용을요구. 청와대는기존방침변화없다고밝혔다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.chosun.com/politics/politics_general/2026/11/09/5XCPH23KVBCLTMPNETID2K4AYQ/",
+          "label": "확인한 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "여당 요구이며 확정·시행된 제도가 아니다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-08",
-        "observation": "SBS 한국어 본문은 폴란드 검찰이 11/8 총격을 테러 범죄로 규정하고 수사를 시작했다고 발표한 사실을 전한다. 당국은 용의자의 급진적 극우·민족주의 성향을 파악했다고 밝혔다.",
+        "observation": "여당은실거주여부와무관한1주택종부세기본공제14억원적용을요구. 청와대는기존방침변화없다고밝혔다.",
         "checked_materials": [],
         "outline": [
-          "새 후속: 검찰이 총격을 테러 범죄로 간주해 수사 착수",
-          "극우·급진적 민족주의 성향은 당국 발표로 귀속",
-          "기존 총격 피해와 자택 시신 발견은 배경으로만 사용"
+          "비거주1주택도14억원공제요구",
+          "청와대기존방침유지·미확정"
         ]
       }
     }
