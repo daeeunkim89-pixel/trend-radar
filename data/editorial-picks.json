@@ -1,211 +1,211 @@
 {
   "version": 2,
-  "hour_utc": "2026110810",
+  "hour_utc": "2026110901",
   "reviewer": "ChatGPT",
-  "generated_at": 1794133323,
+  "generated_at": 1794186390,
   "coverage": {
     "queries": [
-      "2026년 11월 8일 주요 뉴스 속보 한국 국제",
-      "2026.11.08 스포츠 우승 손흥민 이강인 결과",
-      "\"2026.11.08\" \"안세영\" \"11승\"",
-      "\"2026.11.08\" \"수원\" \"승격\"",
-      "\"2026.11.08\" \"삼성\" \"3승\"",
-      "\"2026.11.08\" \"속보\""
+      "\"2026.11.09\" \"손흥민\"",
+      "\"2026.11.09\" \"맨유\"",
+      "\"2026.11.09\" \"우승\" \"테니스\"",
+      "\"2026.11.09\" \"트럼프\"",
+      "site.mlssoccer.com \"2026\" \"Golden Boot\" \"Messi\"",
+      "\"2026.11.09\" \"종부세\" \"14억\""
     ],
     "opened_urls": [
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836120",
-      "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008836013&oaid=N1008836120&plink=TOP",
-      "https://www.newsis.com/view/NISX20261108_0003859309",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836081",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836125"
+      "https://v.isplus.com/article/view/isp202611090022",
+      "https://www.mlssoccer.com/news/inter-miami-s-lionel-messi-wins-2026-mls-golden-boot-presented-by-audi",
+      "https://v.isplus.com/article/view/isp202611090023",
+      "https://www.newsis.com/view/NISX20261109_0003859602",
+      "https://www.newsis.com/view/NISX20261109_0003859580"
     ],
     "unavailable": [
-      "네이트 원문 접근 실패. SBS·뉴시스 원문으로 검증. KBO 점수 페이지는 과거 캐시여서 근거로 사용하지 않음."
+      "일부 web 본문 열람 실패는 일반 브라우저의 공개 본문으로 확인. JTBC는 본문이 나오지 않아 추천 제외. 영상 미시청."
     ]
   },
   "picks": [
     {
-      "title": "삼성, KT 12대1 완파…12년 만에 한국시리즈 우승",
-      "category": "메이저 스포츠",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836120",
-      "source": "SBS",
-      "kind": "article",
-      "event_key": "samsung-korean-series-game5-title-four-one-20261108",
-      "why": "국내 프로야구 최대 이벤트의 최종 우승 확정이다.",
-      "angle": "12년 만의 정상 탈환과 4승1패를 첫 장에.",
-      "why_now": "8일5차전 승리로 우승 확정. 이전 발송의4차전 승리와 다른 최종 결과다.",
-      "verified_at": 1794133280,
-      "published_at": 1794127140,
-      "evidence": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836120",
-          "note": "삼성이8일 한국시리즈5차전에서 KT에12대1승리, 시리즈4승1패로2014년 이후 첫 우승."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836120",
-          "label": "확인한 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "정규리그1위는KT이며 삼성의 통합우승으로 쓰지 않는다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-08",
-        "observation": "삼성이8일 한국시리즈5차전에서 KT에12대1승리, 시리즈4승1패로2014년 이후 첫 우승.",
-        "checked_materials": [],
-        "outline": [
-          "12년 만의 한국시리즈 정상",
-          "KT12대1·시리즈4승1패"
-        ]
-      }
-    },
-    {
-      "title": "안세영, 세계 최초 두 시즌 연속 11승…야마구치 꺾고 우승",
-      "category": "메이저 스포츠",
-      "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008836013&oaid=N1008836120&plink=TOP",
-      "source": "SBS",
-      "kind": "article",
-      "event_key": "an-se-young-korea-open-title-two-consecutive-eleven-win-seasons-20261108",
-      "why": "국민적 스타가 남녀 단식 최초의 시즌 기록을 완성했다.",
-      "angle": "두 시즌 연속11승 기록과 결승2대1 결과를 간결하게 제시.",
-      "why_now": "8일 결승 우승 확정. 어제 보낸 결승 진출과 다른 새 결과다.",
-      "verified_at": 1794133083,
-      "published_at": 1794121080,
-      "evidence": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008836013&oaid=N1008836120&plink=TOP",
-          "note": "8일 야마구치를2대1(21대12,15대21,21대16)로 꺾고 코리아오픈 우승. 두 시즌 연속11승은 남녀단식 최초."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008836013&oaid=N1008836120&plink=TOP",
-          "label": "확인한 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "시즌12승을 이미 달성한 것으로 쓰지 않는다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-08",
-        "observation": "8일 야마구치를2대1(21대12,15대21,21대16)로 꺾고 코리아오픈 우승. 두 시즌 연속11승은 남녀단식 최초.",
-        "checked_materials": [],
-        "outline": [
-          "세계 최초2시즌 연속11승",
-          "야마구치에2대1, 코리아오픈 우승"
-        ]
-      }
-    },
-    {
-      "title": "이정효의 수원 삼성, 용인 2대0 제압…K리그1 승격 확정",
+      "title": "96분 동점골에도 강등권…맨유, 빌라와 4대4·리그 8경기 무승",
       "category": "축구",
-      "url": "https://www.newsis.com/view/NISX20261108_0003859309",
+      "url": "https://v.isplus.com/article/view/isp202611090022",
+      "source": "일간스포츠",
+      "kind": "article",
+      "event_key": "manutd-villa-four-all-stoppage-comeback-eight-league-winless-20261109",
+      "why": "추가시간 두 골의 극적 경기와 명문 구단 강등권 위기가 동시에 벌어졌다.",
+      "angle": "2대4에서 추가시간 두 골, 최종4대4와18위를 대비한다.",
+      "why_now": "9일 새벽 경기 확정 결과로 이전 맨유 부상·유럽대항전 소식과 다르다.",
+      "verified_at": 1794186210,
+      "published_at": 1794179820,
+      "evidence": [
+        {
+          "url": "https://v.isplus.com/article/view/isp202611090022",
+          "note": "맨유가빌라와4대4. 추가시간지르크지·도르구득점, 리그8경기무승·승점8의18위."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://v.isplus.com/article/view/isp202611090022",
+          "label": "확인한 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "현재 강등권 순위이며 강등 확정으로 표현하지 않는다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-09",
+        "observation": "맨유가빌라와4대4. 추가시간지르크지·도르구득점, 리그8경기무승·승점8의18위.",
+        "checked_materials": [],
+        "outline": [
+          "추가시간 두 골로4대4",
+          "리그8경기무승·18위"
+        ]
+      }
+    },
+    {
+      "title": "메시, 26골로 MLS 최초 2년 연속 득점왕",
+      "category": "축구",
+      "url": "https://www.mlssoccer.com/news/inter-miami-s-lionel-messi-wins-2026-mls-golden-boot-presented-by-audi",
+      "source": "MLS 공식",
+      "kind": "official",
+      "event_key": "messi-mls-golden-boot-back-to-back-first-20261107",
+      "why": "세계적 스타가 리그 최초 연속 득점왕 기록을 확정한 주요 수상 소식이다.",
+      "angle": "26골·17도움과 MLS 최초 연속 득점왕 기록을 간결히 제시한다.",
+      "why_now": "공식 최초 발표7일, 구단축하8일·9일 국내보도. 미발송48시간 주요 수상으로 확대 검토했다.",
+      "verified_at": 1794186210,
+      "published_at": null,
+      "evidence": [
+        {
+          "url": "https://www.mlssoccer.com/news/inter-miami-s-lionel-messi-wins-2026-mls-golden-boot-presented-by-audi",
+          "note": "MLS공식은메시의2026골든부트수상,26골17도움43공격포인트와리그최초연속수상을확인했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.mlssoccer.com/news/inter-miami-s-lionel-messi-wins-2026-mls-golden-boot-presented-by-audi",
+          "label": "확인한 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "MVP3연패는 확정되지 않았다. 과거 수상을 오늘 발표로 바꾸지 않는다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-07",
+        "observation": "MLS공식은메시의2026골든부트수상,26골17도움43공격포인트와리그최초연속수상을확인했다.",
+        "checked_materials": [],
+        "outline": [
+          "MLS최초2년연속득점왕",
+          "26골·17도움·43공격포인트"
+        ]
+      }
+    },
+    {
+      "title": "노이어, 오른발 인대 부분 파열…6~8주 결장 전망",
+      "category": "축구",
+      "url": "https://v.isplus.com/article/view/isp202611090023",
+      "source": "일간스포츠",
+      "kind": "article",
+      "event_key": "bayern-neuer-right-foot-ligament-partial-tear-announced-20261108",
+      "why": "김민재 소속 바이에른의 주전 골키퍼이자 세계적 스타의 장기 이탈이다.",
+      "angle": "구단이 확인한 인대 손상과 현지 보도의 예상 결장기간을 구분한다.",
+      "why_now": "구단8일 부상 발표 뒤9일 확인한 보도로, 최다 나이 출전 기록 경기 중 발생했다.",
+      "verified_at": 1794186210,
+      "published_at": 1794182100,
+      "evidence": [
+        {
+          "url": "https://v.isplus.com/article/view/isp202611090023",
+          "note": "바이에른이8일 노이어의오른발인대부분파열을발표. 현지보도는6~8주결장을전망했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://v.isplus.com/article/view/isp202611090023",
+          "label": "확인한 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "6~8주는 현지 보도의 전망이며 구단 확정 복귀일이 아니다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-08",
+        "observation": "바이에른이8일 노이어의오른발인대부분파열을발표. 현지보도는6~8주결장을전망했다.",
+        "checked_materials": [],
+        "outline": [
+          "노이어 오른발인대부분파열",
+          "현지보도6~8주결장전망"
+        ]
+      }
+    },
+    {
+      "title": "엔비디아, 젠슨 황 관련 의혹 독립 조사…CEO직은 유지",
+      "category": "시사",
+      "url": "https://www.newsis.com/view/NISX20261109_0003859602",
       "source": "뉴시스",
       "kind": "article",
-      "event_key": "suwon-samsung-kleague1-promotion-confirmed-yongin-two-zero-20261108",
-      "why": "한국 축구 명문 구단의1부 복귀로 리그 판도와 라이벌 구도가 바뀐다.",
-      "angle": "이정효 부임 첫해 승격 확정과 용인전2대0 결과를 제시.",
-      "why_now": "8일 승리로 잔여2경기와 무관하게 최소2위를 확보했다. 승격 전망 단계가 끝났다.",
-      "verified_at": 1794133083,
-      "published_at": 1794123518,
+      "event_key": "nvidia-board-independent-investigation-huang-foreign-intelligence-concerns-20261108",
+      "why": "세계 핵심 AI 반도체 기업 이사회가 국가·경제 안보 관련 독립 조사에 착수한 산업 대형 사건이다.",
+      "angle": "독립 이사·외부 변호사의 조사와 회사가 밝힌 현재 확인 범위를 제시한다.",
+      "why_now": "8일 현지 회사 성명으로 독립 조사 착수가 새로 확인됐고9일 국내 보도됐다.",
+      "verified_at": 1794186210,
+      "published_at": 1794178004,
       "evidence": [
         {
-          "url": "https://www.newsis.com/view/NISX20261108_0003859309",
-          "note": "수원이8일 용인에2대0승리해 승점66, 최소2위를 확보하며 K리그1 승격을 확정했다."
+          "url": "https://www.newsis.com/view/NISX20261109_0003859602",
+          "note": "보도에따르면엔비디아는황CEO관련외국정보기관표적의혹에독립조사착수. 현재기밀침해를믿을근거는없다고밝혔다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.newsis.com/view/NISX20261108_0003859309",
+          "url": "https://www.newsis.com/view/NISX20261109_0003859602",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "승격 확정이며 K리그2 우승은 아직 확정되지 않았다.",
+      "caution": "스파이 의혹과 기밀 유출을 확정 사실로 쓰지 않는다. 황은CEO직을 계속 수행한다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-08",
-        "observation": "수원이8일 용인에2대0승리해 승점66, 최소2위를 확보하며 K리그1 승격을 확정했다.",
+        "observation": "보도에따르면엔비디아는황CEO관련외국정보기관표적의혹에독립조사착수. 현재기밀침해를믿을근거는없다고밝혔다.",
         "checked_materials": [],
         "outline": [
-          "이정효 부임 첫해1부 복귀",
-          "용인2대0·최소2위 확보"
+          "엔비디아이사회독립조사착수",
+          "기밀침해확인안됨·CEO직유지"
         ]
       }
     },
     {
-      "title": "김민솔, 신인왕·대상·상금왕 석권…신지애 이후 20년 만",
-      "category": "메이저 스포츠",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836081",
-      "source": "SBS",
-      "kind": "article",
-      "event_key": "kim-min-sol-klpga-rookie-player-money-triple-titles-20261108",
-      "why": "여자골프 시즌 최종전에서20년 만의 신인3관왕이 확정된 큰 기록이다.",
-      "angle": "신지애 이후20년 만의3관왕과 시즌상금16억원 돌파를 제시.",
-      "why_now": "8일 시즌 최종전 종료로 대상과 상금왕까지 확정돼3관왕을 완성했다.",
-      "verified_at": 1794133280,
-      "published_at": 1794126180,
-      "evidence": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836081",
-          "note": "김민솔은 최종전 공동6위. 대상567점·누적상금16억여원으로 신인왕 포함3관왕, 동시석권은2006년 신지애 이후 처음."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836081",
-          "label": "확인한 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "최종전 대회 우승자는 유현조다. 김민솔이 최종전을 우승했다고 쓰지 않는다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-08",
-        "observation": "김민솔은 최종전 공동6위. 대상567점·누적상금16억여원으로 신인왕 포함3관왕, 동시석권은2006년 신지애 이후 처음.",
-        "checked_materials": [],
-        "outline": [
-          "신지애 이후20년 만의 신인3관왕",
-          "신인왕·대상·상금왕과 시즌16억원 돌파"
-        ]
-      }
-    },
-    {
-      "title": "SM·계열사도 정보 유출…임직원 주민번호·계좌번호 포함",
+      "title": "트럼프 “이란 재공격 가능성 매우 낮다”…합의가 전제",
       "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836125",
-      "source": "SBS",
+      "url": "https://www.newsis.com/view/NISX20261109_0003859580",
+      "source": "뉴시스",
       "kind": "article",
-      "event_key": "sm-dearu-dreammaker-employee-data-breach-disclosed-20261108",
-      "why": "대형 엔터기업과 계열사 업무시스템 침해로 민감한 임직원 정보가 유출된 산업·보안 사건이다.",
-      "angle": "임직원 민감정보 유출과 계열사 확산을 중심으로 전한다.",
-      "why_now": "사고 발생은4일께, 새 공개 발표는8일이다. 일반 연예 소식이 아닌 기업 보안 사건으로 검토했다.",
-      "verified_at": 1794133280,
-      "published_at": 1794127680,
+      "event_key": "trump-cnn-iran-renewed-attack-very-unlikely-conditional-deal-20261108",
+      "why": "최근 공습 뒤 미국 대통령이 협상을 우선하는 메시지를 내 국제 안보와 에너지 시장에 영향이 크다.",
+      "angle": "낮은 공격 가능성 발언과 강력한 합의라는 전제를 함께 쓴다.",
+      "why_now": "8일 현지 CNN인터뷰의 새로운 발언으로,6일 공습 발표와 다른 협상 방향 표명이다.",
+      "verified_at": 1794186210,
+      "published_at": 1794166040,
       "evidence": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836125",
-          "note": "SM은8일 외부공격자의 업무시스템 문서 유출을 공개. 주민번호·계좌번호 등 일부정보, 디어유·드림메이커에도 유사사고."
+          "url": "https://www.newsis.com/view/NISX20261109_0003859580",
+          "note": "트럼프는8일CNN인터뷰에서이란재공격가능성이매우낮다고반복하며강력한합의를전제로들었다. 군사준비도강조했다."
         }
       ],
       "materials": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836125",
+          "url": "https://www.newsis.com/view/NISX20261109_0003859580",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "규모와 피해 범위는 조사중이다. 아티스트나 팬 전체 정보가 유출됐다고 확대하지 않는다.",
+      "caution": "종전·휴전·합의 체결 확정이 아니다. 발언과 실제 합의 여부를 구분한다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-08",
-        "observation": "SM은8일 외부공격자의 업무시스템 문서 유출을 공개. 주민번호·계좌번호 등 일부정보, 디어유·드림메이커에도 유사사고.",
+        "observation": "트럼프는8일CNN인터뷰에서이란재공격가능성이매우낮다고반복하며강력한합의를전제로들었다. 군사준비도강조했다.",
         "checked_materials": [],
         "outline": [
-          "SM·계열사 업무시스템 침해",
-          "임직원 정보 유출 공개·정확한 범위 조사중"
+          "합의전제재공격가능성낮다",
+          "군사선택지는유지·종전확정아님"
         ]
       }
     }
