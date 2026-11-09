@@ -1,5 +1,5 @@
 {
-  "updated_at": 1794186517,
+  "updated_at": 1794190269,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026110901",
+    "hour_utc": "2026110902",
     "category_counts": {
-      "시사": 2,
-      "축구": 3,
-      "메이저 스포츠": 0,
+      "시사": 1,
+      "축구": 1,
+      "메이저 스포츠": 3,
       "아이돌": 0
     },
     "research_queries": 6,
-    "opened_sources": 5,
+    "opened_sources": 8,
     "picks": [
       {
-        "title": "96분 동점골에도 강등권…맨유, 빌라와 4대4·리그 8경기 무승",
-        "url": "https://v.isplus.com/article/view/isp202611090022",
-        "event_key": "manutd-villa-four-all-stoppage-comeback-eight-league-winless-20261109"
+        "title": "메르세데스, 5년 만에 F1 팀 챔피언…통산 9번째 우승 확정",
+        "url": "https://www.formula1.com/en/latest/article/wolff-already-thinking-about-2027-despite-constructors-championship-win-in-brazil.21aGFbwHKbhjkcmpeYVrZV",
+        "event_key": "mercedes-ninth-constructors-title-clinched-sao-paulo-20261108"
       },
       {
-        "title": "메시, 26골로 MLS 최초 2년 연속 득점왕",
-        "url": "https://www.mlssoccer.com/news/inter-miami-s-lionel-messi-wins-2026-mls-golden-boot-presented-by-audi",
-        "event_key": "messi-mls-golden-boot-back-to-back-first-20261107"
+        "title": "7개월 우승 가뭄 끝…김원호·서승재, 코리아오픈 2연패",
+        "url": "https://nwww.newsis.com/view/NISX20261108_0003859387",
+        "event_key": "kim-wonho-seo-seungjae-korea-open-title-fourth-season-win-20261108"
       },
       {
-        "title": "노이어, 오른발 인대 부분 파열…6~8주 결장 전망",
-        "url": "https://v.isplus.com/article/view/isp202611090023",
-        "event_key": "bayern-neuer-right-foot-ligament-partial-tear-announced-20261108"
+        "title": "박혜정, 세계선수권 은메달 3개…한국 여자 최중량급 동반 시상대",
+        "url": "https://nwww.newsis.com/view/NISX20261109_0003859841",
+        "event_key": "park-hyejeong-world-weightlifting-three-silvers-kim-hyoeon-two-bronzes-20261108"
       },
       {
-        "title": "엔비디아, 젠슨 황 관련 의혹 독립 조사…CEO직은 유지",
-        "url": "https://www.newsis.com/view/NISX20261109_0003859602",
-        "event_key": "nvidia-board-independent-investigation-huang-foreign-intelligence-concerns-20261108"
+        "title": "플레이오프 탈락 뒤 감독 교체…뉴욕 시티, 얀선과 결별",
+        "url": "https://www.mlssoccer.com/news/new-york-city-fc-part-ways-with-head-coach-pascal-jansen",
+        "event_key": "nycfc-pascal-jansen-head-coach-departure-announced-20261108"
       },
       {
-        "title": "트럼프 “이란 재공격 가능성 매우 낮다”…합의가 전제",
-        "url": "https://www.newsis.com/view/NISX20261109_0003859580",
-        "event_key": "trump-cnn-iran-renewed-attack-very-unlikely-conditional-deal-20261108"
+        "title": "이집트 열차 추돌·탈선…보건부 “7명 사망·112명 부상”",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836359",
+        "event_key": "egypt-giza-two-trains-collision-derailment-seven-dead-112-injured-20261108"
       }
     ]
   }
