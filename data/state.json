@@ -1,5 +1,5 @@
 {
-  "updated_at": 1794133553,
+  "updated_at": 1794186517,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026110810",
+    "hour_utc": "2026110901",
     "category_counts": {
-      "시사": 1,
-      "축구": 1,
-      "메이저 스포츠": 3,
+      "시사": 2,
+      "축구": 3,
+      "메이저 스포츠": 0,
       "아이돌": 0
     },
     "research_queries": 6,
     "opened_sources": 5,
     "picks": [
       {
-        "title": "삼성, KT 12대1 완파…12년 만에 한국시리즈 우승",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836120",
-        "event_key": "samsung-korean-series-game5-title-four-one-20261108"
+        "title": "96분 동점골에도 강등권…맨유, 빌라와 4대4·리그 8경기 무승",
+        "url": "https://v.isplus.com/article/view/isp202611090022",
+        "event_key": "manutd-villa-four-all-stoppage-comeback-eight-league-winless-20261109"
       },
       {
-        "title": "안세영, 세계 최초 두 시즌 연속 11승…야마구치 꺾고 우승",
-        "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008836013&oaid=N1008836120&plink=TOP",
-        "event_key": "an-se-young-korea-open-title-two-consecutive-eleven-win-seasons-20261108"
+        "title": "메시, 26골로 MLS 최초 2년 연속 득점왕",
+        "url": "https://www.mlssoccer.com/news/inter-miami-s-lionel-messi-wins-2026-mls-golden-boot-presented-by-audi",
+        "event_key": "messi-mls-golden-boot-back-to-back-first-20261107"
       },
       {
-        "title": "이정효의 수원 삼성, 용인 2대0 제압…K리그1 승격 확정",
-        "url": "https://www.newsis.com/view/NISX20261108_0003859309",
-        "event_key": "suwon-samsung-kleague1-promotion-confirmed-yongin-two-zero-20261108"
+        "title": "노이어, 오른발 인대 부분 파열…6~8주 결장 전망",
+        "url": "https://v.isplus.com/article/view/isp202611090023",
+        "event_key": "bayern-neuer-right-foot-ligament-partial-tear-announced-20261108"
       },
       {
-        "title": "김민솔, 신인왕·대상·상금왕 석권…신지애 이후 20년 만",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836081",
-        "event_key": "kim-min-sol-klpga-rookie-player-money-triple-titles-20261108"
+        "title": "엔비디아, 젠슨 황 관련 의혹 독립 조사…CEO직은 유지",
+        "url": "https://www.newsis.com/view/NISX20261109_0003859602",
+        "event_key": "nvidia-board-independent-investigation-huang-foreign-intelligence-concerns-20261108"
       },
       {
-        "title": "SM·계열사도 정보 유출…임직원 주민번호·계좌번호 포함",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836125",
-        "event_key": "sm-dearu-dreammaker-employee-data-breach-disclosed-20261108"
+        "title": "트럼프 “이란 재공격 가능성 매우 낮다”…합의가 전제",
+        "url": "https://www.newsis.com/view/NISX20261109_0003859580",
+        "event_key": "trump-cnn-iran-renewed-attack-very-unlikely-conditional-deal-20261108"
       }
     ]
   }
