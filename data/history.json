@@ -1,6 +1,366 @@
 {
   "version": 1,
   "items": {
+    "3e2093777ac4": {
+      "source": "ATP 공식",
+      "title": "알카라스, 셸턴 꺾고 첫 파리 마스터스 우승…US오픈 패배 설욕",
+      "link": "https://www.nittoatpfinals.com/en/news/alcaraz-shelton-paris-2026-final-sunday",
+      "first_seen_at": 1794193595,
+      "last_seen_at": 1794193595,
+      "samples": [
+        {
+          "at": 1794193595,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "official",
+      "story_id": "3e2093777ac4",
+      "editorial": {
+        "title": "알카라스, 셸턴 꺾고 첫 파리 마스터스 우승…US오픈 패배 설욕",
+        "category": "메이저 스포츠",
+        "url": "https://www.nittoatpfinals.com/en/news/alcaraz-shelton-paris-2026-final-sunday",
+        "source": "ATP 공식",
+        "kind": "official",
+        "event_key": "alcaraz-shelton-first-paris-masters-title-ninth-masters-20261108",
+        "why": "손목 부상 공백 뒤 복귀한 알카라스가 시즌 마지막 마스터스 정상에 섰다. US오픈에서 패한 상대에게 결승에서 설욕했다.",
+        "angle": "첫 파리 우승과 셸턴 상대 US오픈 패배 설욕을 연결한다.",
+        "why_now": "11/8 결승 우승을 ATP 공식이 확인했다. 원문 공개일은 11/8로 표시되며 정확한 최초 시·분은 미확인이다.",
+        "verified_at": 1794193497,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.nittoatpfinals.com/en/news/alcaraz-shelton-paris-2026-final-sunday",
+            "note": "ATP 공식 본문에서 알카라스가 셸턴을 7-6(5), 7-5로 꺾고 첫 파리·통산 9번째 마스터스 우승을 확정한 사실을 확인했다. 2세트 브레이크 열세를 뒤집었다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.nittoatpfinals.com/en/news/alcaraz-shelton-paris-2026-final-sunday",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "영상을 보지 않았다. 최초 공개 시·분은 불명이며 검색·수집 시각으로 대체하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-08",
+          "observation": "ATP 공식 본문에서 알카라스가 셸턴을 7-6(5), 7-5로 꺾고 첫 파리·통산 9번째 마스터스 우승을 확정한 사실을 확인했다. 2세트 브레이크 열세를 뒤집었다.",
+          "checked_materials": [],
+          "outline": [
+            "셸턴에 2-0 승리, 첫 파리 마스터스 정상",
+            "US오픈 8강 패배를 이번 결승에서 설욕",
+            "통산 9번째 마스터스 우승 뒤 ATP 파이널스 출전"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.nittoatpfinals.com/en/news/alcaraz-shelton-paris-2026-final-sunday"
+          }
+        ],
+        "excerpt": "",
+        "context": "11/8 결승 우승을 ATP 공식이 확인했다. 원문 공개일은 11/8로 표시되며 정확한 최초 시·분은 미확인이다.",
+        "fetched_at": 1794193595,
+        "parser_revision": 7
+      },
+      "curation_event_key": "alcaraz-shelton-first-paris-masters-title-ninth-masters-20261108"
+    },
+    "a72dde82d6f2": {
+      "source": "뉴시스",
+      "title": "19세 브라운, 연장 끝 PGA 첫 우승…역대 네 번째 최연소",
+      "link": "https://www.newsis.com/view/NISX20261109_0003859717",
+      "first_seen_at": 1794193595,
+      "last_seen_at": 1794193595,
+      "samples": [
+        {
+          "at": 1794193595,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "a72dde82d6f2",
+      "editorial": {
+        "title": "19세 브라운, 연장 끝 PGA 첫 우승…역대 네 번째 최연소",
+        "category": "메이저 스포츠",
+        "url": "https://www.newsis.com/view/NISX20261109_0003859717",
+        "source": "뉴시스",
+        "kind": "article",
+        "event_key": "blades-brown-first-pga-tour-win-wwt-championship-playoff-20261108",
+        "why": "정규 투어 첫 우승을 19세에 따낸 새 얼굴의 등장이다. 단순 순위보다 역대 네 번째로 어린 우승이라는 이정표가 핵심이다.",
+        "angle": "19세 첫 우승과 벤 제임스와의 연장 승부를 첫 장에 둔다.",
+        "why_now": "현지 11/8 대회 최종일, 한국시간 11/9 우승. 확인 기사 등록은 11/9 10:33:58 KST다.",
+        "verified_at": 1794193497,
+        "published_at": 1794188038,
+        "evidence": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261109_0003859717",
+            "note": "뉴시스 본문에서 브라운이 마지막 날 63타, 합계 23언더파 265타를 기록하고 벤 제임스를 연장 두 번째 홀에서 꺾어 첫 PGA 우승을 거둔 사실을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261109_0003859717",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "경기 영상은 확인하지 않았다. 대회 현지일과 한국 보도일을 구분하며 역대 최연소 우승이라고 쓰지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-08",
+          "observation": "뉴시스 본문에서 브라운이 마지막 날 63타, 합계 23언더파 265타를 기록하고 벤 제임스를 연장 두 번째 홀에서 꺾어 첫 PGA 우승을 거둔 사실을 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "브라운, 벤 제임스와 공동 선두 뒤 연장 우승",
+            "19세 5개월 18일로 PGA 역대 네 번째 최연소",
+            "우승 상금 108만 달러, 내년 투어 출전권도 확보"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.newsis.com/view/NISX20261109_0003859717"
+          }
+        ],
+        "excerpt": "",
+        "context": "현지 11/8 대회 최종일, 한국시간 11/9 우승. 확인 기사 등록은 11/9 10:33:58 KST다.",
+        "fetched_at": 1794193595,
+        "parser_revision": 7
+      },
+      "curation_event_key": "blades-brown-first-pga-tour-win-wwt-championship-playoff-20261108"
+    },
+    "ae4b96f0cefd": {
+      "source": "DP World Tour",
+      "title": "욘 람, 해턴·매킬로이 제치고 아부다비 정상…로렉스시리즈 최다 우승",
+      "link": "https://www.europeantour.com/dpworld-tour/rolex/news/articles/detail/jon-rahm-caps-dream-abu-dhabi-debut-with-sixth-rolex-series-crown/",
+      "first_seen_at": 1794193595,
+      "last_seen_at": 1794193595,
+      "samples": [
+        {
+          "at": 1794193595,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "official",
+      "story_id": "ae4b96f0cefd",
+      "editorial": {
+        "title": "욘 람, 해턴·매킬로이 제치고 아부다비 정상…로렉스시리즈 최다 우승",
+        "category": "메이저 스포츠",
+        "url": "https://www.europeantour.com/dpworld-tour/rolex/news/articles/detail/jon-rahm-caps-dream-abu-dhabi-debut-with-sixth-rolex-series-crown/",
+        "source": "DP World Tour",
+        "kind": "official",
+        "event_key": "jon-rahm-abu-dhabi-championship-title-sixth-rolex-series-20261108",
+        "why": "메이저 챔피언들이 맞붙은 시즌 막판 대형 대회에서 람이 우승했다. 해턴과의 공동 최다 기록을 깨며 최정상 경쟁 구도가 바뀌었다.",
+        "angle": "최종 라운드 공동 선두 경쟁에서 람이 빠져나온 흐름을 설명한다.",
+        "why_now": "현지 11/8 아부다비 대회 우승을 투어 공식이 확인했다. 원문 최초 시·분은 표시되지 않아 null로 남긴다.",
+        "verified_at": 1794193497,
+        "published_at": null,
+        "evidence": [
+          {
+            "url": "https://www.europeantour.com/dpworld-tour/rolex/news/articles/detail/jon-rahm-caps-dream-abu-dhabi-debut-with-sixth-rolex-series-crown/",
+            "note": "DP 월드투어 공식 본문은 람이 최종일 67타·합계 23언더파로 해턴을 2타 차로 제치고 우승했다고 확인한다. 로렉스시리즈 6승으로 공동 최다 5승에서 단독 최다가 됐다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.europeantour.com/dpworld-tour/rolex/news/articles/detail/jon-rahm-caps-dream-abu-dhabi-debut-with-sixth-rolex-series-crown/",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "공식 본문에서 확인한 우승 사실만 사용한다. LIV 탈퇴나 PGA 복귀 확정으로 확대하지 않는다. 영상 미시청.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-08",
+          "observation": "DP 월드투어 공식 본문은 람이 최종일 67타·합계 23언더파로 해턴을 2타 차로 제치고 우승했다고 확인한다. 로렉스시리즈 6승으로 공동 최다 5승에서 단독 최다가 됐다.",
+          "checked_materials": [],
+          "outline": [
+            "람 23언더파, 해턴 21언더파로 2타 차 우승",
+            "매킬로이는 19언더파 3위",
+            "아부다비 첫 출전 우승·로렉스시리즈 통산 최다 6승"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.europeantour.com/dpworld-tour/rolex/news/articles/detail/jon-rahm-caps-dream-abu-dhabi-debut-with-sixth-rolex-series-crown/"
+          }
+        ],
+        "excerpt": "",
+        "context": "현지 11/8 아부다비 대회 우승을 투어 공식이 확인했다. 원문 최초 시·분은 표시되지 않아 null로 남긴다.",
+        "fetched_at": 1794193595,
+        "parser_revision": 7
+      },
+      "curation_event_key": "jon-rahm-abu-dhabi-championship-title-sixth-rolex-series-20261108"
+    },
+    "d129b12436bb": {
+      "source": "뉴시스",
+      "title": "암스테르담 ‘레드라인’ 시위…주최 측 “20만 명”, 대이스라엘 압박 요구",
+      "link": "https://www.newsis.com/view/NISX20261109_0003859589",
+      "first_seen_at": 1794193595,
+      "last_seen_at": 1794193595,
+      "samples": [
+        {
+          "at": 1794193595,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "d129b12436bb",
+      "editorial": {
+        "title": "암스테르담 ‘레드라인’ 시위…주최 측 “20만 명”, 대이스라엘 압박 요구",
+        "category": "시사",
+        "url": "https://www.newsis.com/view/NISX20261109_0003859589",
+        "source": "뉴시스",
+        "kind": "article",
+        "event_key": "amsterdam-red-line-gaza-protest-organisers-200000-20261108",
+        "why": "수십만 명 규모의 시위가 정부의 가자 정책 변화를 요구했다. 참가 규모와 정부 입장을 함께 제시할 국제 현안이다.",
+        "angle": "붉은 옷의 의미와 주최 측 집계, 정부의 두 국가 해법 입장을 나란히 놓는다.",
+        "why_now": "현지 11/8 시위. 확인 기사 등록은 11/9 06:54:14 KST이며 이번 시위의 새 규모·요구를 다룬다.",
+        "verified_at": 1794193497,
+        "published_at": 1794174854,
+        "evidence": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261109_0003859589",
+            "note": "뉴시스 본문은 11/8 암스테르담 시위에 주최 측 추산 약 20만 명이 참여해 대이스라엘 정치·경제·외교 압박 강화를 요구했다고 전한다. 외무장관은 두 국가 해법 지지를 밝혔다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261109_0003859589",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "20만 명은 주최 측 추산이며 경찰 확정 집계가 아니다. 기사 사진은 10/7 자료사진이다. 당일 장면을 직접 봤다고 쓰지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-08",
+          "observation": "뉴시스 본문은 11/8 암스테르담 시위에 주최 측 추산 약 20만 명이 참여해 대이스라엘 정치·경제·외교 압박 강화를 요구했다고 전한다. 외무장관은 두 국가 해법 지지를 밝혔다.",
+          "checked_materials": [],
+          "outline": [
+            "현지 11/8 레드라인 시위, 주최 측 추산 약 20만 명",
+            "시위대는 이스라엘에 대한 정부 압박 강화 요구",
+            "정부는 가자 인권 개선·두 국가 해법 지지 입장"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.newsis.com/view/NISX20261109_0003859589"
+          }
+        ],
+        "excerpt": "",
+        "context": "현지 11/8 시위. 확인 기사 등록은 11/9 06:54:14 KST이며 이번 시위의 새 규모·요구를 다룬다.",
+        "fetched_at": 1794193595,
+        "parser_revision": 7
+      },
+      "curation_event_key": "amsterdam-red-line-gaza-protest-organisers-200000-20261108"
+    },
+    "56b774abefde": {
+      "source": "뉴시스",
+      "title": "국민의힘 법사위원들, 예산심사 보이콧…특검법 처리에 반발",
+      "link": "https://www.newsis.com/view/NISX20261109_0003860193",
+      "first_seen_at": 1794193595,
+      "last_seen_at": 1794193595,
+      "samples": [
+        {
+          "at": 1794193595,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "56b774abefde",
+      "editorial": {
+        "title": "국민의힘 법사위원들, 예산심사 보이콧…특검법 처리에 반발",
+        "category": "시사",
+        "url": "https://www.newsis.com/view/NISX20261109_0003860193",
+        "source": "뉴시스",
+        "kind": "article",
+        "event_key": "ppp-lawmakers-judiciary-committee-budget-review-boycott-20261109",
+        "why": "특검법 갈등이 국회 예산심사 불참으로 번졌다. 사법기관 예산과 상임위 운영에 영향을 주는 새 정치적 결정이다.",
+        "angle": "오늘 발표된 법사위 일정 불참과 대상 범위를 명확히 제시한다.",
+        "why_now": "11/9 기자회견에서 법사위 예산소위 등 일정 불참을 새로 선언했다. 확인 기사 등록은 11/9 11:03:33 KST다.",
+        "verified_at": 1794193497,
+        "published_at": 1794189813,
+        "evidence": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261109_0003860193",
+            "note": "뉴시스 본문은 국민의힘 법사위원들이 11/9 기자회견에서 특검법 처리에 반발해 예산소위 등 향후 법사위 일정에 불참하기로 성명을 냈다고 확인한다. 대통령에게 재의요구권 행사도 요구했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261109_0003860193",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "법사위 소속 의원들의 불참 선언이다. 국회 전체 예산심사 중단이나 특검법 위헌 확정으로 표현하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-09",
+          "observation": "뉴시스 본문은 국민의힘 법사위원들이 11/9 기자회견에서 특검법 처리에 반발해 예산소위 등 향후 법사위 일정에 불참하기로 성명을 냈다고 확인한다. 대통령에게 재의요구권 행사도 요구했다.",
+          "checked_materials": [],
+          "outline": [
+            "국민의힘 법사위원들, 예산소위 등 법사위 일정 불참 선언",
+            "당사자들은 특검법 처리에 대한 저항이라고 설명",
+            "대통령에게 거부권 요구, 실제 행사 여부는 별개"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.newsis.com/view/NISX20261109_0003860193"
+          }
+        ],
+        "excerpt": "",
+        "context": "11/9 기자회견에서 법사위 예산소위 등 일정 불참을 새로 선언했다. 확인 기사 등록은 11/9 11:03:33 KST다.",
+        "fetched_at": 1794193595,
+        "parser_revision": 7
+      },
+      "curation_event_key": "ppp-lawmakers-judiciary-committee-budget-review-boycott-20261109"
+    },
     "9e7cf7d84291": {
       "source": "Formula 1",
       "title": "메르세데스, 5년 만에 F1 팀 챔피언…통산 9번째 우승 확정",
@@ -26936,5 +27296,5 @@
       "curation_event_key": "sullyoon-yes-or-yes-intro-quiz-lily-real-once-nolto-20261031"
     }
   },
-  "updated_at": 1794190265
+  "updated_at": 1794193595
 }
