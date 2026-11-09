@@ -1,211 +1,222 @@
 {
   "version": 2,
-  "hour_utc": "2026110901",
+  "hour_utc": "2026110902",
   "reviewer": "ChatGPT",
-  "generated_at": 1794186390,
+  "generated_at": 1794190167,
   "coverage": {
     "queries": [
-      "\"2026.11.09\" \"손흥민\"",
-      "\"2026.11.09\" \"맨유\"",
-      "\"2026.11.09\" \"우승\" \"테니스\"",
-      "\"2026.11.09\" \"트럼프\"",
-      "site.mlssoccer.com \"2026\" \"Golden Boot\" \"Messi\"",
-      "\"2026.11.09\" \"종부세\" \"14억\""
+      "2026년 11월 9일 축구 주요 뉴스 site:newsis.com",
+      "November 8 2026 Formula 1 Sao Paulo winner constructors championship site:formula1.com",
+      "November 8 2026 MLS playoffs major news site:mlssoccer.com",
+      "2026년 11월 9일 국제 주요 속보 site:news.sbs.co.kr",
+      "2026년 11월 9일 메르세데스 우승 서승재 김원호 코리아오픈 site:newsis.com",
+      "이집트 열차 추돌 탈선 7명 112명 2026 11 9 site:news.sbs.co.kr"
     ],
     "opened_urls": [
-      "https://v.isplus.com/article/view/isp202611090022",
-      "https://www.mlssoccer.com/news/inter-miami-s-lionel-messi-wins-2026-mls-golden-boot-presented-by-audi",
-      "https://v.isplus.com/article/view/isp202611090023",
-      "https://www.newsis.com/view/NISX20261109_0003859602",
-      "https://www.newsis.com/view/NISX20261109_0003859580"
+      "https://www.mlssoccer.com/news/west-s-final-playoff-spots-east-craziness-more-from-decision-day",
+      "https://www.mlssoccer.com/news/new-york-city-fc-part-ways-with-head-coach-pascal-jansen",
+      "https://nwww.newsis.com/view/NISX20261108_0003859387",
+      "https://nwww.newsis.com/view/NISX20261109_0003859841",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836359",
+      "https://www.formula1.com/en/results/2026/races/1299/brazil/race-result",
+      "https://www.formula1.com/en/latest",
+      "https://www.formula1.com/en/latest/article/wolff-already-thinking-about-2027-despite-constructors-championship-win-in-brazil.21aGFbwHKbhjkcmpeYVrZV"
     ],
     "unavailable": [
-      "일부 web 본문 열람 실패는 일반 브라우저의 공개 본문으로 확인. JTBC는 본문이 나오지 않아 추천 제외. 영상 미시청."
+      "본문 도구: F1 경기 보고서 접근 실패",
+      "본문 도구: SBS N1008836375 접근 실패; 누적 2건에서 중단",
+      "연결 브라우저 도구 미제공 오류; 제공된 공개 클라우드 브라우저에서 독립 원문 확인",
+      "run_usage queries=6 opened=8 failed=2 start=2026-11-09T02:05:14.509Z elapsed_s=253 end=검토본작성(제출직전);총완료시간아님"
     ]
   },
   "picks": [
     {
-      "title": "96분 동점골에도 강등권…맨유, 빌라와 4대4·리그 8경기 무승",
-      "category": "축구",
-      "url": "https://v.isplus.com/article/view/isp202611090022",
-      "source": "일간스포츠",
-      "kind": "article",
-      "event_key": "manutd-villa-four-all-stoppage-comeback-eight-league-winless-20261109",
-      "why": "추가시간 두 골의 극적 경기와 명문 구단 강등권 위기가 동시에 벌어졌다.",
-      "angle": "2대4에서 추가시간 두 골, 최종4대4와18위를 대비한다.",
-      "why_now": "9일 새벽 경기 확정 결과로 이전 맨유 부상·유럽대항전 소식과 다르다.",
-      "verified_at": 1794186210,
-      "published_at": 1794179820,
+      "title": "메르세데스, 5년 만에 F1 팀 챔피언…통산 9번째 우승 확정",
+      "category": "메이저 스포츠",
+      "url": "https://www.formula1.com/en/latest/article/wolff-already-thinking-about-2027-despite-constructors-championship-win-in-brazil.21aGFbwHKbhjkcmpeYVrZV",
+      "source": "Formula 1",
+      "kind": "official",
+      "event_key": "mercedes-ninth-constructors-title-clinched-sao-paulo-20261108",
+      "why": "2021년 이후 처음으로 팀 최강자 자리를 되찾았다. 통산 9번째 팀 우승으로 F1 판도 변화를 보여준다.",
+      "angle": "브라질에서 확정된 팀 우승과 통산 9회 의미를 첫 장에 둔다.",
+      "why_now": "우승 사건은 현지 11/8. 확인한 공식 후속 기사 최초 표시는 11/8 22:11 UTC(11/9 07:11 KST)다.",
+      "verified_at": 1794190167,
+      "published_at": 1794175860,
       "evidence": [
         {
-          "url": "https://v.isplus.com/article/view/isp202611090022",
-          "note": "맨유가빌라와4대4. 추가시간지르크지·도르구득점, 리그8경기무승·승점8의18위."
+          "url": "https://www.formula1.com/en/latest/article/wolff-already-thinking-about-2027-despite-constructors-championship-win-in-brazil.21aGFbwHKbhjkcmpeYVrZV",
+          "note": "F1 공식 본문은 러셀 4위·안토넬리 5위로 메르세데스가 팀 타이틀을 확정했으며, 2021년 이후 처음이자 통산 9번째라고 확인한다."
         }
       ],
       "materials": [
         {
-          "url": "https://v.isplus.com/article/view/isp202611090022",
-          "label": "확인한 원문",
+          "url": "https://www.formula1.com/en/latest/article/wolff-already-thinking-about-2027-despite-constructors-championship-win-in-brazil.21aGFbwHKbhjkcmpeYVrZV",
+          "label": "확인한 기사 본문",
           "kind": "source"
         }
       ],
-      "caution": "현재 강등권 순위이며 강등 확정으로 표현하지 않는다.",
+      "caution": "확인한 자료는 공식 기사와 결과표다. 영상을 시청하지 않았으며 후속 기사 시각을 최초 우승 발표로 쓰지 않는다.",
       "readiness": {
         "mode": "major_news",
-        "event_date": "2026-11-09",
-        "observation": "맨유가빌라와4대4. 추가시간지르크지·도르구득점, 리그8경기무승·승점8의18위.",
+        "event_date": "2026-11-08",
+        "observation": "F1 공식 본문은 러셀 4위·안토넬리 5위로 메르세데스가 팀 타이틀을 확정했으며, 2021년 이후 처음이자 통산 9번째라고 확인한다.",
         "checked_materials": [],
         "outline": [
-          "추가시간 두 골로4대4",
-          "리그8경기무승·18위"
+          "브라질 GP에서 메르세데스 팀 챔피언 확정",
+          "러셀 4위·안토넬리 5위로 필요한 점수 확보",
+          "통산 9회로 윌리엄스와 동률"
         ]
       }
     },
     {
-      "title": "메시, 26골로 MLS 최초 2년 연속 득점왕",
+      "title": "7개월 우승 가뭄 끝…김원호·서승재, 코리아오픈 2연패",
+      "category": "메이저 스포츠",
+      "url": "https://nwww.newsis.com/view/NISX20261108_0003859387",
+      "source": "뉴시스",
+      "kind": "article",
+      "event_key": "kim-wonho-seo-seungjae-korea-open-title-fourth-season-win-20261108",
+      "why": "세계 1위 남자복식이 주요 대회 부진 뒤 안방에서 정상에 복귀했다. 단순 승수보다 타이틀 방어와 반등이 핵심이다.",
+      "angle": "마지막 게임 접전과 7개월 만의 우승을 사실 카드로 엮는다.",
+      "why_now": "11/8 결승 우승. 확인 기사 등록은 11/8 16:58:29 KST이며 미발송 24시간 구간에서 선정했다.",
+      "verified_at": 1794190167,
+      "published_at": 1794124709,
+      "evidence": [
+        {
+          "url": "https://nwww.newsis.com/view/NISX20261108_0003859387",
+          "note": "뉴시스 본문에서 호키·고바야시를 2-1(21-12, 20-22, 21-19)로 꺾고 코리아오픈 2연패, 4월 아시아선수권 이후 시즌 4승을 거둔 사실을 확인했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://nwww.newsis.com/view/NISX20261108_0003859387",
+          "label": "확인한 기사 본문",
+          "kind": "source"
+        }
+      ],
+      "caution": "본문만 확인했다. 경기 장면·포효를 직접 봤다고 쓰지 않는다. 기사 등록과 최초 경기 보도 시각은 구분한다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-08",
+        "observation": "뉴시스 본문에서 호키·고바야시를 2-1(21-12, 20-22, 21-19)로 꺾고 코리아오픈 2연패, 4월 아시아선수권 이후 시즌 4승을 거둔 사실을 확인했다.",
+        "checked_materials": [],
+        "outline": [
+          "일본 조를 2-1로 꺾고 코리아오픈 2연패",
+          "4월 아시아선수권 이후 약 7개월 만의 우승",
+          "세계선수권·아시안게임 등 무관 뒤 반등"
+        ]
+      }
+    },
+    {
+      "title": "박혜정, 세계선수권 은메달 3개…한국 여자 최중량급 동반 시상대",
+      "category": "메이저 스포츠",
+      "url": "https://nwww.newsis.com/view/NISX20261109_0003859841",
+      "source": "뉴시스",
+      "kind": "article",
+      "event_key": "park-hyejeong-world-weightlifting-three-silvers-kim-hyoeon-two-bronzes-20261108",
+      "why": "한국 역도 간판의 세계선수권 결과이며 김효언도 동반 입상했다. 세계 최중량급 구도를 한눈에 보여줄 소재다.",
+      "angle": "박혜정 은 3개와 김효언 동 2개를 나란히 놓고 메달 구조를 설명한다.",
+      "why_now": "경기는 11/8 중국 닝보. 확인한 기사는 11/9 09:46:45 KST 등록됐다.",
+      "verified_at": 1794190167,
+      "published_at": 1794185205,
+      "evidence": [
+        {
+          "url": "https://nwww.newsis.com/view/NISX20261109_0003859841",
+          "note": "뉴시스 본문은 여자 86kg 이상급 박혜정이 인상 125kg·용상 161kg·합계 286kg으로 모두 2위, 김효언은 용상·합계 동메달이라고 전한다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://nwww.newsis.com/view/NISX20261109_0003859841",
+          "label": "확인한 기사 본문",
+          "kind": "source"
+        }
+      ],
+      "caution": "은메달 3개는 세 경기나 세 체급이 아니다. 올림픽의 합계 단일 메달 방식과 구분한다. 영상은 확인하지 않았다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-08",
+        "observation": "뉴시스 본문은 여자 86kg 이상급 박혜정이 인상 125kg·용상 161kg·합계 286kg으로 모두 2위, 김효언은 용상·합계 동메달이라고 전한다.",
+        "checked_materials": [],
+        "outline": [
+          "박혜정 인상·용상·합계 모두 은메달",
+          "세계선수권은 세 부문에 각각 메달 수여",
+          "김효언 용상·합계 동메달, 중국 리옌 금 3개"
+        ]
+      }
+    },
+    {
+      "title": "플레이오프 탈락 뒤 감독 교체…뉴욕 시티, 얀선과 결별",
       "category": "축구",
-      "url": "https://www.mlssoccer.com/news/inter-miami-s-lionel-messi-wins-2026-mls-golden-boot-presented-by-audi",
+      "url": "https://www.mlssoccer.com/news/new-york-city-fc-part-ways-with-head-coach-pascal-jansen",
       "source": "MLS 공식",
       "kind": "official",
-      "event_key": "messi-mls-golden-boot-back-to-back-first-20261107",
-      "why": "세계적 스타가 리그 최초 연속 득점왕 기록을 확정한 주요 수상 소식이다.",
-      "angle": "26골·17도움과 MLS 최초 연속 득점왕 기록을 간결히 제시한다.",
-      "why_now": "공식 최초 발표7일, 구단축하8일·9일 국내보도. 미발송48시간 주요 수상으로 확대 검토했다.",
-      "verified_at": 1794186210,
+      "event_key": "nycfc-pascal-jansen-head-coach-departure-announced-20261108",
+      "why": "전년도 동부 결승 진출팀이 이번 시즌 플레이오프에서 탈락하며 감독 교체를 확정했다. 새 시즌 구단 개편의 출발점이다.",
+      "angle": "지난해 동부 결승에서 올해 11위로 떨어진 변화와 구단 발표를 연결한다.",
+      "why_now": "MLS 공식은 현지 11/8 일요일 오전 구단 발표라고 명시한다. 정확한 최초 공개 시·분은 확인되지 않았다.",
+      "verified_at": 1794190167,
       "published_at": null,
       "evidence": [
         {
-          "url": "https://www.mlssoccer.com/news/inter-miami-s-lionel-messi-wins-2026-mls-golden-boot-presented-by-audi",
-          "note": "MLS공식은메시의2026골든부트수상,26골17도움43공격포인트와리그최초연속수상을확인했다."
+          "url": "https://www.mlssoccer.com/news/new-york-city-fc-part-ways-with-head-coach-pascal-jansen",
+          "note": "MLS 공식 기사에서 NYCFC의 얀선 감독 결별 발표와 동부 11위·42점, 구단 역사상 세 번째 플레이오프 탈락을 확인했다. 후임 감독 물색은 즉시 시작한다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.mlssoccer.com/news/inter-miami-s-lionel-messi-wins-2026-mls-golden-boot-presented-by-audi",
-          "label": "확인한 원문",
+          "url": "https://www.mlssoccer.com/news/new-york-city-fc-part-ways-with-head-coach-pascal-jansen",
+          "label": "확인한 기사 본문",
           "kind": "source"
         }
       ],
-      "caution": "MVP3연패는 확정되지 않았다. 과거 수상을 오늘 발표로 바꾸지 않는다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-07",
-        "observation": "MLS공식은메시의2026골든부트수상,26골17도움43공격포인트와리그최초연속수상을확인했다.",
-        "checked_materials": [],
-        "outline": [
-          "MLS최초2년연속득점왕",
-          "26골·17도움·43공격포인트"
-        ]
-      }
-    },
-    {
-      "title": "노이어, 오른발 인대 부분 파열…6~8주 결장 전망",
-      "category": "축구",
-      "url": "https://v.isplus.com/article/view/isp202611090023",
-      "source": "일간스포츠",
-      "kind": "article",
-      "event_key": "bayern-neuer-right-foot-ligament-partial-tear-announced-20261108",
-      "why": "김민재 소속 바이에른의 주전 골키퍼이자 세계적 스타의 장기 이탈이다.",
-      "angle": "구단이 확인한 인대 손상과 현지 보도의 예상 결장기간을 구분한다.",
-      "why_now": "구단8일 부상 발표 뒤9일 확인한 보도로, 최다 나이 출전 기록 경기 중 발생했다.",
-      "verified_at": 1794186210,
-      "published_at": 1794182100,
-      "evidence": [
-        {
-          "url": "https://v.isplus.com/article/view/isp202611090023",
-          "note": "바이에른이8일 노이어의오른발인대부분파열을발표. 현지보도는6~8주결장을전망했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://v.isplus.com/article/view/isp202611090023",
-          "label": "확인한 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "6~8주는 현지 보도의 전망이며 구단 확정 복귀일이 아니다.",
+      "caution": "상호 합의·해임의 구체 계약 조건은 확인되지 않았다. 후임 확정이나 선수단 개편을 추정하지 않는다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-08",
-        "observation": "바이에른이8일 노이어의오른발인대부분파열을발표. 현지보도는6~8주결장을전망했다.",
+        "observation": "MLS 공식 기사에서 NYCFC의 얀선 감독 결별 발표와 동부 11위·42점, 구단 역사상 세 번째 플레이오프 탈락을 확인했다. 후임 감독 물색은 즉시 시작한다.",
         "checked_materials": [],
         "outline": [
-          "노이어 오른발인대부분파열",
-          "현지보도6~8주결장전망"
+          "NYCFC, 파스칼 얀선 감독과 결별 발표",
+          "동부 11위·42점으로 플레이오프 탈락",
+          "구단은 후임 물색 즉시 시작, 선임자는 미발표"
         ]
       }
     },
     {
-      "title": "엔비디아, 젠슨 황 관련 의혹 독립 조사…CEO직은 유지",
+      "title": "이집트 열차 추돌·탈선…보건부 “7명 사망·112명 부상”",
       "category": "시사",
-      "url": "https://www.newsis.com/view/NISX20261109_0003859602",
-      "source": "뉴시스",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836359",
+      "source": "SBS",
       "kind": "article",
-      "event_key": "nvidia-board-independent-investigation-huang-foreign-intelligence-concerns-20261108",
-      "why": "세계 핵심 AI 반도체 기업 이사회가 국가·경제 안보 관련 독립 조사에 착수한 산업 대형 사건이다.",
-      "angle": "독립 이사·외부 변호사의 조사와 회사가 밝힌 현재 확인 범위를 제시한다.",
-      "why_now": "8일 현지 회사 성명으로 독립 조사 착수가 새로 확인됐고9일 국내 보도됐다.",
-      "verified_at": 1794186210,
-      "published_at": 1794178004,
+      "event_key": "egypt-giza-two-trains-collision-derailment-seven-dead-112-injured-20261108",
+      "why": "두 열차가 충돌한 대형 교통 참사로 100명 넘는 사상자가 발생했다. 확정된 피해와 확인되지 않은 원인을 분리해 다룬다.",
+      "angle": "보건부 집계와 사고 위치를 먼저 제시하고 원인 조사 단계임을 명시한다.",
+      "why_now": "현지 11/8 사고. 확인한 SBS 기사 최초 작성 표시는 11/9 06:18 KST다.",
+      "verified_at": 1794190167,
+      "published_at": 1794172680,
       "evidence": [
         {
-          "url": "https://www.newsis.com/view/NISX20261109_0003859602",
-          "note": "보도에따르면엔비디아는황CEO관련외국정보기관표적의혹에독립조사착수. 현재기밀침해를믿을근거는없다고밝혔다."
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836359",
+          "note": "SBS 기사 본문에서 카이로 남부 기자주의 열차 두 대 추돌·객차 탈선과 이집트 보건부 발표 기준 사망 7명·부상 112명을 확인했다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.newsis.com/view/NISX20261109_0003859602",
-          "label": "확인한 원문",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836359",
+          "label": "확인한 기사 본문",
           "kind": "source"
         }
       ],
-      "caution": "스파이 의혹과 기밀 유출을 확정 사실로 쓰지 않는다. 황은CEO직을 계속 수행한다.",
+      "caution": "피해는 기사에 인용된 발표 시점 집계다. 사고 원인은 확정하지 않으며 영상·사진을 직접 확인했다고 쓰지 않는다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-08",
-        "observation": "보도에따르면엔비디아는황CEO관련외국정보기관표적의혹에독립조사착수. 현재기밀침해를믿을근거는없다고밝혔다.",
+        "observation": "SBS 기사 본문에서 카이로 남부 기자주의 열차 두 대 추돌·객차 탈선과 이집트 보건부 발표 기준 사망 7명·부상 112명을 확인했다.",
         "checked_materials": [],
         "outline": [
-          "엔비디아이사회독립조사착수",
-          "기밀침해확인안됨·CEO직유지"
-        ]
-      }
-    },
-    {
-      "title": "트럼프 “이란 재공격 가능성 매우 낮다”…합의가 전제",
-      "category": "시사",
-      "url": "https://www.newsis.com/view/NISX20261109_0003859580",
-      "source": "뉴시스",
-      "kind": "article",
-      "event_key": "trump-cnn-iran-renewed-attack-very-unlikely-conditional-deal-20261108",
-      "why": "최근 공습 뒤 미국 대통령이 협상을 우선하는 메시지를 내 국제 안보와 에너지 시장에 영향이 크다.",
-      "angle": "낮은 공격 가능성 발언과 강력한 합의라는 전제를 함께 쓴다.",
-      "why_now": "8일 현지 CNN인터뷰의 새로운 발언으로,6일 공습 발표와 다른 협상 방향 표명이다.",
-      "verified_at": 1794186210,
-      "published_at": 1794166040,
-      "evidence": [
-        {
-          "url": "https://www.newsis.com/view/NISX20261109_0003859580",
-          "note": "트럼프는8일CNN인터뷰에서이란재공격가능성이매우낮다고반복하며강력한합의를전제로들었다. 군사준비도강조했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.newsis.com/view/NISX20261109_0003859580",
-          "label": "확인한 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "종전·휴전·합의 체결 확정이 아니다. 발언과 실제 합의 여부를 구분한다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-08",
-        "observation": "트럼프는8일CNN인터뷰에서이란재공격가능성이매우낮다고반복하며강력한합의를전제로들었다. 군사준비도강조했다.",
-        "checked_materials": [],
-        "outline": [
-          "합의전제재공격가능성낮다",
-          "군사선택지는유지·종전확정아님"
+          "현지 11/8 기자주에서 두 열차 추돌·탈선",
+          "보건부 발표 기준 사망 7명·부상 112명",
+          "정확한 사고 원인과 책임은 별도 조사 필요"
         ]
       }
     }
