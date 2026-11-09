@@ -1,5 +1,5 @@
 {
-  "updated_at": 1794197113,
+  "updated_at": 1794210553,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026110904",
+    "hour_utc": "2026110907",
     "category_counts": {
-      "시사": 4,
-      "축구": 1,
-      "메이저 스포츠": 0,
+      "시사": 2,
+      "축구": 0,
+      "메이저 스포츠": 3,
       "아이돌": 0
     },
     "research_queries": 6,
-    "opened_sources": 10,
+    "opened_sources": 5,
     "picks": [
       {
-        "title": "메시의 마이애미 기록 넘었다…내슈빌, MLS 역대 최다 승점 시즌 완성",
-        "url": "https://www.mlssoccer.com/news/history-nashville-sc-set-mls-single-season-points-record-2026",
-        "event_key": "nashville-mls-single-season-points-record-77-completed-20261107"
+        "title": "T1, BLG에 1대3 패배…롤드컵 결승행 좌절·젠지와 BLG 맞대결",
+        "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=62130",
+        "event_key": "t1-blg-worlds-semifinal-one-three-elimination-20261109"
       },
       {
-        "title": "이라크 외무 “미국과 호르무즈 원유 수출 통항 협의”…오만 인근 항로 거론",
-        "url": "https://www.thestandard.com.hk/world/article/347921/Iraq-has-reached-understandings-with-US-to-allow-oil-exports-through-Hormuz-minister-says",
-        "event_key": "iraq-us-understandings-hormuz-oil-export-oman-lane-report-20261109"
+        "title": "커리, 35세 이후 40득점 경기 최다…르브론·조던 넘었다",
+        "url": "https://www.chosun.com/sports/basketball/2026/11/09/HFRWEZDEMU2DMOJWGQ3GEZDCGU/",
+        "event_key": "curry-sixteen-forty-point-games-after35-nba-record-magic-20261108"
       },
       {
-        "title": "리야드 금융지구 아람코 건물 피해…사우디 “공격 파편, 인명피해 없어”",
-        "url": "https://www.thestandard.com.hk/world/article/347913/Houthi-attack-damages-Aramco-building-in-Riyadhs-financial-district",
-        "event_key": "riyadh-aramco-tower-attack-debris-damage-saudi-confirmation-20261108"
+        "title": "돈치치 빠져도 리브스 43점…레이커스 5연승·서부 선두",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008837423",
+        "event_key": "lakers-reeves43-without-doncic-pistons-five-streak-20261109"
       },
       {
-        "title": "일본 시즈오카 규모 5.7 지진…19명 부상, 기상청 추가 강진 주의",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836151",
-        "event_key": "shizuoka-aichi-magnitude57-quake-19-injured-jma-warning-20261108"
+        "title": "코스피, 2.24% 반등도 못 지켰다…5018.85로 하락 마감",
+        "url": "https://www.mk.co.kr/news/stock/12202543",
+        "event_key": "kospi-5018-85-close-reverses-2-24-intraday-rebound-20261109"
       },
       {
-        "title": "폴란드 검찰, 크라쿠프 총격 ‘테러 범죄’ 수사 착수…극우 성향 조사",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836274",
-        "event_key": "krakow-shooting-prosecutors-terror-crime-investigation-announced-20261108"
+        "title": "여당 “비거주 1주택도 종부세 14억 공제”…청와대는 기존 방침 유지",
+        "url": "https://www.chosun.com/politics/politics_general/2026/11/09/5XCPH23KVBCLTMPNETID2K4AYQ/",
+        "event_key": "democrats-request-nonresident-single-home-tax14billion-bluehouse-unchanged-20261108"
       }
     ]
   }

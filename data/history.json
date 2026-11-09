@@ -1,6 +1,361 @@
 {
   "version": 1,
   "items": {
+    "76c0d8ce3a43": {
+      "source": "게임뷰",
+      "title": "T1, BLG에 1대3 패배…롤드컵 결승행 좌절·젠지와 BLG 맞대결",
+      "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=62130",
+      "first_seen_at": 1794210552,
+      "last_seen_at": 1794210552,
+      "samples": [
+        {
+          "at": 1794210552,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "76c0d8ce3a43",
+      "editorial": {
+        "title": "T1, BLG에 1대3 패배…롤드컵 결승행 좌절·젠지와 BLG 맞대결",
+        "category": "메이저 스포츠",
+        "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=62130",
+        "source": "게임뷰",
+        "kind": "article",
+        "event_key": "t1-blg-worlds-semifinal-one-three-elimination-20261109",
+        "why": "페이커의 T1 탈락으로 국내 관심이 큰 세계대회 결승 대진이 바뀐 핵심 결과다.",
+        "angle": "T1의1대3탈락과 젠지 대 BLG 결승 대진을 간결히 제시한다.",
+        "why_now": "9일 준결승이 끝난 새 결과다. 이전 발송의T1 4강 진출·젠지 결승행과 구분했다.",
+        "verified_at": 1794210284,
+        "published_at": 1794189300,
+        "evidence": [
+          {
+            "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=62130",
+            "note": "BLG가4세트 승리로T1을3대1로 꺾고 결승에 올라 젠지와 맞붙는다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=62130",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "경기 영상은 직접 시청하지 않았다. 확인한 원문 결과로 사실 카드를 만든다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-09",
+          "observation": "BLG가4세트 승리로T1을3대1로 꺾고 결승에 올라 젠지와 맞붙는다.",
+          "checked_materials": [],
+          "outline": [
+            "T1, BLG에1대3으로탈락",
+            "결승은젠지대BLG"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=62130"
+          }
+        ],
+        "excerpt": "",
+        "context": "9일 준결승이 끝난 새 결과다. 이전 발송의T1 4강 진출·젠지 결승행과 구분했다.",
+        "fetched_at": 1794210552,
+        "parser_revision": 7
+      },
+      "curation_event_key": "t1-blg-worlds-semifinal-one-three-elimination-20261109"
+    },
+    "6d24c931ec20": {
+      "source": "스포츠조선",
+      "title": "커리, 35세 이후 40득점 경기 최다…르브론·조던 넘었다",
+      "link": "https://www.chosun.com/sports/basketball/2026/11/09/HFRWEZDEMU2DMOJWGQ3GEZDCGU/",
+      "first_seen_at": 1794210552,
+      "last_seen_at": 1794210552,
+      "samples": [
+        {
+          "at": 1794210552,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "6d24c931ec20",
+      "editorial": {
+        "title": "커리, 35세 이후 40득점 경기 최다…르브론·조던 넘었다",
+        "category": "메이저 스포츠",
+        "url": "https://www.chosun.com/sports/basketball/2026/11/09/HFRWEZDEMU2DMOJWGQ3GEZDCGU/",
+        "source": "스포츠조선",
+        "kind": "article",
+        "event_key": "curry-sixteen-forty-point-games-after35-nba-record-magic-20261108",
+        "why": "세계적 농구 스타가 동시대·역대 전설을 넘어선 구체적인 NBA 기록이다.",
+        "angle": "35세 이후40점 이상16회라는 조건과 르브론15회·조던12회를 함께 표기.",
+        "why_now": "경기는8일 한국시간, 보도9일이다. 미발송24/48시간 주요 기록으로 확인했다.",
+        "verified_at": 1794210284,
+        "published_at": 1794174600,
+        "evidence": [
+          {
+            "url": "https://www.chosun.com/sports/basketball/2026/11/09/HFRWEZDEMU2DMOJWGQ3GEZDCGU/",
+            "note": "올랜도전41점을 넣은 커리는35세 이후40득점 이상16경기로 르브론15회와 조던12회를 넘어섰다는 ESPN인용 보도."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.chosun.com/sports/basketball/2026/11/09/HFRWEZDEMU2DMOJWGQ3GEZDCGU/",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "NBA 통산 모든 연령의40점 경기 최다로 확대하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-08",
+          "observation": "올랜도전41점을 넣은 커리는35세 이후40득점 이상16경기로 르브론15회와 조던12회를 넘어섰다는 ESPN인용 보도.",
+          "checked_materials": [],
+          "outline": [
+            "35세이후40점이상16경기",
+            "르브론15회·조던12회추월"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.chosun.com/sports/basketball/2026/11/09/HFRWEZDEMU2DMOJWGQ3GEZDCGU/"
+          }
+        ],
+        "excerpt": "",
+        "context": "경기는8일 한국시간, 보도9일이다. 미발송24/48시간 주요 기록으로 확인했다.",
+        "fetched_at": 1794210552,
+        "parser_revision": 7
+      },
+      "curation_event_key": "curry-sixteen-forty-point-games-after35-nba-record-magic-20261108"
+    },
+    "74b28b40c6b8": {
+      "source": "SBS",
+      "title": "돈치치 빠져도 리브스 43점…레이커스 5연승·서부 선두",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008837423",
+      "first_seen_at": 1794210552,
+      "last_seen_at": 1794210552,
+      "samples": [
+        {
+          "at": 1794210552,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "74b28b40c6b8",
+      "editorial": {
+        "title": "돈치치 빠져도 리브스 43점…레이커스 5연승·서부 선두",
+        "category": "메이저 스포츠",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008837423",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "lakers-reeves43-without-doncic-pistons-five-streak-20261109",
+        "why": "인지도가 높은 레이커스가 득점 선두의 공백을 이겨내며 서부 선두를 지켰다.",
+        "angle": "돈치치 결장과 리브스43점의 대비,121대116 승리 결과를 제시.",
+        "why_now": "9일 디트로이트전의 새 결과다. 돈치치의 평균40.1점과 당일 결장은 구분한다.",
+        "verified_at": 1794210284,
+        "published_at": 1794204120,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008837423",
+            "note": "레이커스가121대116으로디트로이트에승리. 허리통증으로돈치치결장,리브스43점으로5연승·9승2패."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008837423",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "돈치치가 시즌아웃됐다는 발표는 없다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-09",
+          "observation": "레이커스가121대116으로디트로이트에승리. 허리통증으로돈치치결장,리브스43점으로5연승·9승2패.",
+          "checked_materials": [],
+          "outline": [
+            "돈치치결장에도리브스43점",
+            "121대116승·5연승·9승2패"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008837423"
+          }
+        ],
+        "excerpt": "",
+        "context": "9일 디트로이트전의 새 결과다. 돈치치의 평균40.1점과 당일 결장은 구분한다.",
+        "fetched_at": 1794210552,
+        "parser_revision": 7
+      },
+      "curation_event_key": "lakers-reeves43-without-doncic-pistons-five-streak-20261109"
+    },
+    "27f8537e7f13": {
+      "source": "매일경제",
+      "title": "코스피, 2.24% 반등도 못 지켰다…5018.85로 하락 마감",
+      "link": "https://www.mk.co.kr/news/stock/12202543",
+      "first_seen_at": 1794210552,
+      "last_seen_at": 1794210552,
+      "samples": [
+        {
+          "at": 1794210552,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "27f8537e7f13",
+      "editorial": {
+        "title": "코스피, 2.24% 반등도 못 지켰다…5018.85로 하락 마감",
+        "category": "시사",
+        "url": "https://www.mk.co.kr/news/stock/12202543",
+        "source": "매일경제",
+        "kind": "article",
+        "event_key": "kospi-5018-85-close-reverses-2-24-intraday-rebound-20261109",
+        "why": "급락 뒤 반등 시도가 꺾이고5000선에 근접한 국내 시장의 당일 핵심 결과다.",
+        "angle": "장중5172.94와 종가5018.85를 대비하고 하락률0.81%를 정확히 쓴다.",
+        "why_now": "9일15시30분 장 마감 결과이며 이전 발송의6일서킷브레이커와 다른 거래일이다.",
+        "verified_at": 1794210284,
+        "published_at": 1794207480,
+        "evidence": [
+          {
+            "url": "https://www.mk.co.kr/news/stock/12202543",
+            "note": "코스피는장중한때2.24%오른5172.94까지갔지만전일대비0.81%내린5018.85마감. 장중5000하회후종가는위에남았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.mk.co.kr/news/stock/12202543",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "5000선 붕괴 마감으로 쓰지 않는다. 투자 권유나 향후 가격을 예측하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-09",
+          "observation": "코스피는장중한때2.24%오른5172.94까지갔지만전일대비0.81%내린5018.85마감. 장중5000하회후종가는위에남았다.",
+          "checked_materials": [],
+          "outline": [
+            "장중5172.94까지반등",
+            "종가는5018.85·0.81%하락"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.mk.co.kr/news/stock/12202543"
+          }
+        ],
+        "excerpt": "",
+        "context": "9일15시30분 장 마감 결과이며 이전 발송의6일서킷브레이커와 다른 거래일이다.",
+        "fetched_at": 1794210552,
+        "parser_revision": 7
+      },
+      "curation_event_key": "kospi-5018-85-close-reverses-2-24-intraday-rebound-20261109"
+    },
+    "bbe16ac5fcfd": {
+      "source": "조선일보",
+      "title": "여당 “비거주 1주택도 종부세 14억 공제”…청와대는 기존 방침 유지",
+      "link": "https://www.chosun.com/politics/politics_general/2026/11/09/5XCPH23KVBCLTMPNETID2K4AYQ/",
+      "first_seen_at": 1794210552,
+      "last_seen_at": 1794210552,
+      "samples": [
+        {
+          "at": 1794210552,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "bbe16ac5fcfd",
+      "editorial": {
+        "title": "여당 “비거주 1주택도 종부세 14억 공제”…청와대는 기존 방침 유지",
+        "category": "시사",
+        "url": "https://www.chosun.com/politics/politics_general/2026/11/09/5XCPH23KVBCLTMPNETID2K4AYQ/",
+        "source": "조선일보",
+        "kind": "article",
+        "event_key": "democrats-request-nonresident-single-home-tax14billion-bluehouse-unchanged-20261108",
+        "why": "주택 세 부담을 좌우하는 전국적 정책 쟁점에서 여당과 정부의 이견이 공개됐다.",
+        "angle": "실거주 여부 없이14억원 공제를 요구한 여당과 기존 방침을 유지한 청와대를 나란히 제시.",
+        "why_now": "8일 고위당정 후 공개된 요구를9일 보도. 미발송24시간 주요 정책으로 검토했다.",
+        "verified_at": 1794210284,
+        "published_at": 1794152520,
+        "evidence": [
+          {
+            "url": "https://www.chosun.com/politics/politics_general/2026/11/09/5XCPH23KVBCLTMPNETID2K4AYQ/",
+            "note": "여당은실거주여부와무관한1주택종부세기본공제14억원적용을요구. 청와대는기존방침변화없다고밝혔다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.chosun.com/politics/politics_general/2026/11/09/5XCPH23KVBCLTMPNETID2K4AYQ/",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "여당 요구이며 확정·시행된 제도가 아니다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-08",
+          "observation": "여당은실거주여부와무관한1주택종부세기본공제14억원적용을요구. 청와대는기존방침변화없다고밝혔다.",
+          "checked_materials": [],
+          "outline": [
+            "비거주1주택도14억원공제요구",
+            "청와대기존방침유지·미확정"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.chosun.com/politics/politics_general/2026/11/09/5XCPH23KVBCLTMPNETID2K4AYQ/"
+          }
+        ],
+        "excerpt": "",
+        "context": "8일 고위당정 후 공개된 요구를9일 보도. 미발송24시간 주요 정책으로 검토했다.",
+        "fetched_at": 1794210552,
+        "parser_revision": 7
+      },
+      "curation_event_key": "democrats-request-nonresident-single-home-tax14billion-bluehouse-unchanged-20261108"
+    },
     "35583876615a": {
       "source": "MLS 공식",
       "title": "메시의 마이애미 기록 넘었다…내슈빌, MLS 역대 최다 승점 시즌 완성",
@@ -26944,717 +27299,7 @@
         "parser_revision": 7
       },
       "curation_event_key": "lee-highway-reststop-cartel-x-post-20261102"
-    },
-    "5024f9c1e2d7": {
-      "source": "가제타",
-      "title": "F1 세계 챔피언인데 아직 용돈 받는다…안토넬리 엄마의 월 예산",
-      "link": "https://www.gazzetta.it/Formula-1/01-11-2026/kimi-antonelli-e-la-famiglia-prende-ancora-la-paghetta_amp.shtml",
-      "first_seen_at": 1793596267,
-      "last_seen_at": 1793596267,
-      "samples": [
-        {
-          "at": 1793596267,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "5024f9c1e2d7",
-      "editorial": {
-        "title": "F1 세계 챔피언인데 아직 용돈 받는다…안토넬리 엄마의 월 예산",
-        "category": "메이저 스포츠",
-        "url": "https://www.gazzetta.it/Formula-1/01-11-2026/kimi-antonelli-e-la-famiglia-prende-ancora-la-paghetta_amp.shtml",
-        "source": "가제타",
-        "kind": "article",
-        "event_key": "antonelli-parents-monthly-allowance-vacation-budget-new-interview-20261101",
-        "why": "최연소 챔피언과 엄마가 정해주는 용돈의 간극이 팬에게 바로 읽히는 새 가족 인터뷰.",
-        "angle": "세계 챔피언도 휴가비는 엄마가 정한 예산 안에서",
-        "why_now": "멕시코 우승 직후 부모 인터뷰11/1 현지. 원문 경로11/1·목록11/2 표기; 최초 분시는 확인 불가. 트로피 지연이라는 이전 발송 사실과 별개.",
-        "verified_at": 1793596202,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.gazzetta.it/Formula-1/01-11-2026/kimi-antonelli-e-la-famiglia-prende-ancora-la-paghetta_amp.shtml",
-            "note": "원문에서 아버지가 아직 용돈을 받는다고 말하고 어머니가 월 예산과 휴가 예산 한도를 설명한 부분을 확인했다. 챔피언이 됐어도 가정의 돈 관리 방식은 유지된다는 부모의 설명이다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.gazzetta.it/Formula-1/01-11-2026/kimi-antonelli-e-la-famiglia-prende-ancora-la-paghetta_amp.shtml",
-            "label": "본문 확인·사실 카드",
-            "kind": "source"
-          }
-        ],
-        "caution": "직접 취재 본문 확인·가족 영상 미시청. 용돈 액수와 연봉 관리 전체는 미공개.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-01",
-          "observation": "원문에서 아버지가 아직 용돈을 받는다고 말하고 어머니가 월 예산과 휴가 예산 한도를 설명한 부분을 확인했다. 챔피언이 됐어도 가정의 돈 관리 방식은 유지된다는 부모의 설명이다.",
-          "checked_materials": [],
-          "outline": [
-            "챔피언의 새 부모 인터뷰 소개",
-            "어머니가 설명한 월 예산·휴가비 한도로 회수"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "본문 확인·사실 카드",
-            "url": "https://www.gazzetta.it/Formula-1/01-11-2026/kimi-antonelli-e-la-famiglia-prende-ancora-la-paghetta_amp.shtml"
-          }
-        ],
-        "excerpt": "",
-        "context": "멕시코 우승 직후 부모 인터뷰11/1 현지. 원문 경로11/1·목록11/2 표기; 최초 분시는 확인 불가. 트로피 지연이라는 이전 발송 사실과 별개.",
-        "fetched_at": 1793596267,
-        "parser_revision": 7
-      },
-      "curation_event_key": "antonelli-parents-monthly-allowance-vacation-budget-new-interview-20261101"
-    },
-    "6d697c913285": {
-      "source": "베스트일레븐",
-      "title": "홀란 아버지 “현재 선수들은 그 일과 관련 없다”…맨시티 징계에 불공평함 주장",
-      "link": "https://www.besteleven.com/news/articleView.html?idxno=313672",
-      "first_seen_at": 1793596267,
-      "last_seen_at": 1793596267,
-      "samples": [
-        {
-          "at": 1793596267,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "6d697c913285",
-      "editorial": {
-        "title": "홀란 아버지 “현재 선수들은 그 일과 관련 없다”…맨시티 징계에 불공평함 주장",
-        "category": "축구",
-        "url": "https://www.besteleven.com/news/articleView.html?idxno=313672",
-        "source": "베스트일레븐",
-        "kind": "article",
-        "event_key": "alfie-haaland-current-players-old-city-offences-fairness-viaplay-20261101",
-        "why": "맨시티 징계 논쟁에 선수 가족이 “지금 선수는 관련 없다”는 논리를 직접 보탰다.",
-        "angle": "맨시티 징계 앞두고 홀란 아버지가 꺼낸 “지금 선수들”",
-        "why_now": "비아플레이 인터뷰를 인용한 확인 가능한 영문 공개11/1 16:14UTC; 인터뷰 촬영·최초 방송 분시 미확인. 한국 후속11/2. 새 인터뷰만 선정.",
-        "verified_at": 1793596202,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.besteleven.com/news/articleView.html?idxno=313672",
-            "note": "본문과 영문 동시 보도에서 알프잉에가 현재 선수들이 과거 행위로 처벌받는 것이 어느 정도 불공평하다고 답하고, 항소 결과를 침착하게 기다리자고 말한 부분을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.besteleven.com/news/articleView.html?idxno=313672",
-            "label": "본문 확인·사실 카드",
-            "kind": "source"
-          }
-        ],
-        "caution": "본문 확인·비아플레이 영상 미시청. 불공평은 당사자 주장, 최종 징계 미확정.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-01",
-          "observation": "본문과 영문 동시 보도에서 알프잉에가 현재 선수들이 과거 행위로 처벌받는 것이 어느 정도 불공평하다고 답하고, 항소 결과를 침착하게 기다리자고 말한 부분을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "과거 구단 행위와 현재 선수의 처지를 대비",
-            "아버지 발언과 항소 진행 중임을 함께 표시"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "본문 확인·사실 카드",
-            "url": "https://www.besteleven.com/news/articleView.html?idxno=313672"
-          }
-        ],
-        "excerpt": "",
-        "context": "비아플레이 인터뷰를 인용한 확인 가능한 영문 공개11/1 16:14UTC; 인터뷰 촬영·최초 방송 분시 미확인. 한국 후속11/2. 새 인터뷰만 선정.",
-        "fetched_at": 1793596267,
-        "parser_revision": 7
-      },
-      "curation_event_key": "alfie-haaland-current-players-old-city-offences-fairness-viaplay-20261101"
-    },
-    "bf7d70b5d59e": {
-      "source": "베스트일레븐",
-      "title": "맨유 이적설 묻자 페르민 “그런 뉴스에 관심 없다, 바르사에서 은퇴하길”",
-      "link": "https://www.besteleven.com/news/articleView.html?idxno=313666",
-      "first_seen_at": 1793596267,
-      "last_seen_at": 1793596267,
-      "samples": [
-        {
-          "at": 1793596267,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "bf7d70b5d59e",
-      "editorial": {
-        "title": "맨유 이적설 묻자 페르민 “그런 뉴스에 관심 없다, 바르사에서 은퇴하길”",
-        "category": "축구",
-        "url": "https://www.besteleven.com/news/articleView.html?idxno=313666",
-        "source": "베스트일레븐",
-        "kind": "article",
-        "event_key": "fermin-lopez-direct-united-links-no-attention-barca-retire-20261101",
-        "why": "영입설로 이름이 오르내린 선수가 경기 뒤 직접 잔류·은퇴 희망까지 말한 단호한 답변.",
-        "angle": "맨유 이적설에 선수가 직접 내놓은 답",
-        "why_now": "알라베스전 직후 인터뷰: 경기10/31 스페인(한국11/1). 로마노 인용 게시11/1 확인, 발언 최초 공개 분시 미확인. 이전 이적설 자체와 새 직접 발언을 구분.",
-        "verified_at": 1793596202,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.besteleven.com/news/articleView.html?idxno=313666",
-            "note": "본문에서 맨유 이적설 같은 뉴스에 관심을 두지 않으며 바르사에 오래 남아 여기서 은퇴하길 바란다는 직접 발언을 확인했다. 실제 구단 간 협상 성립을 확인한 것은 아니다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.besteleven.com/news/articleView.html?idxno=313666",
-            "label": "본문 확인·사실 카드",
-            "kind": "source"
-          }
-        ],
-        "caution": "본문 확인·회견 영상 미시청. “맨유가 싫다”는 말을 직접 한 것으로 쓰지 않음.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-01",
-          "observation": "본문에서 맨유 이적설 같은 뉴스에 관심을 두지 않으며 바르사에 오래 남아 여기서 은퇴하길 바란다는 직접 발언을 확인했다. 실제 구단 간 협상 성립을 확인한 것은 아니다.",
-          "checked_materials": [],
-          "outline": [
-            "맨유 관심 보도는 배경으로만 요약",
-            "페르민의 직접 답변·바르사 은퇴 희망을 회수"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "본문 확인·사실 카드",
-            "url": "https://www.besteleven.com/news/articleView.html?idxno=313666"
-          }
-        ],
-        "excerpt": "",
-        "context": "알라베스전 직후 인터뷰: 경기10/31 스페인(한국11/1). 로마노 인용 게시11/1 확인, 발언 최초 공개 분시 미확인. 이전 이적설 자체와 새 직접 발언을 구분.",
-        "fetched_at": 1793596267,
-        "parser_revision": 7
-      },
-      "curation_event_key": "fermin-lopez-direct-united-links-no-attention-barca-retire-20261101"
-    },
-    "c6c338637b2c": {
-      "source": "포포투",
-      "title": "실책성 드리블 혹평에도 댕크스 “김민재는 환상적이었다”",
-      "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100180",
-      "first_seen_at": 1793596267,
-      "last_seen_at": 1793596267,
-      "samples": [
-        {
-          "at": 1793596267,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "c6c338637b2c",
-      "editorial": {
-        "title": "실책성 드리블 혹평에도 댕크스 “김민재는 환상적이었다”",
-        "category": "축구",
-        "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100180",
-        "source": "포포투",
-        "kind": "article",
-        "event_key": "aaron-danks-defends-kim-min-jae-fantastic-three-centrebacks-after-dortmund-20261101",
-        "why": "한국 팬이 본 위험한 선택과 감독 대행의 경기 전체 평가는 달랐다는 구체적 온도차.",
-        "angle": "위험한 드리블로 욕먹은 김민재, 감독 평가는 정반대",
-        "why_now": "도르트문트전10/31 독일(한국11/1), 직후 인터뷰. 기사11/2 07:34KST 확인. 원 회견 최초 분시 미확인; 재기사 시각을 최초로 쓰지 않음.",
-        "verified_at": 1793596202,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100180",
-            "note": "본문은 위험한 드리블 뒤 우파메카노가 공을 빼앗겼지만 상대 골은 오프사이드로 취소됐다고 설명한다. 댕크스는 김민재·우파메카노가 환상적이었다며 세 센터백 모두를 칭찬했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100180",
-            "label": "본문 확인·사실 카드",
-            "kind": "source"
-          }
-        ],
-        "caution": "본문 확인·경기 영상 미시청. 취소된 골을 실제 실점으로 쓰지 않음.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-01",
-          "observation": "본문은 위험한 드리블 뒤 우파메카노가 공을 빼앗겼지만 상대 골은 오프사이드로 취소됐다고 설명한다. 댕크스는 김민재·우파메카노가 환상적이었다며 세 센터백 모두를 칭찬했다.",
-          "checked_materials": [],
-          "outline": [
-            "드리블 비판은 기사 평가로 설명",
-            "감독 대행이 본 전체 경기 평가와 세 명 경쟁 구도를 연결"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "본문 확인·사실 카드",
-            "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100180"
-          }
-        ],
-        "excerpt": "",
-        "context": "도르트문트전10/31 독일(한국11/1), 직후 인터뷰. 기사11/2 07:34KST 확인. 원 회견 최초 분시 미확인; 재기사 시각을 최초로 쓰지 않음.",
-        "fetched_at": 1793596267,
-        "parser_revision": 7
-      },
-      "curation_event_key": "aaron-danks-defends-kim-min-jae-fantastic-three-centrebacks-after-dortmund-20261101"
-    },
-    "581ea3113557": {
-      "source": "베스트일레븐",
-      "title": "기념골 넣고 관중석에 감독 재계약 요구…김선민이 밝힌 세리머니 이유",
-      "link": "https://www.besteleven.com/news/articleView.html?idxno=313662",
-      "first_seen_at": 1793596267,
-      "last_seen_at": 1793596267,
-      "samples": [
-        {
-          "at": 1793596267,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "581ea3113557",
-      "editorial": {
-        "title": "기념골 넣고 관중석에 감독 재계약 요구…김선민이 밝힌 세리머니 이유",
-        "category": "축구",
-        "url": "https://www.besteleven.com/news/articleView.html?idxno=313662",
-        "source": "베스트일레븐",
-        "kind": "article",
-        "event_key": "kim-seon-min-goal-celebration-demand-quinta-renewal-20261101",
-        "why": "자기 100경기 기념골 세리머니를 감독 재계약 지지 메시지로 쓴 선수의 실제 설명.",
-        "angle": "자기 기념골인데 감독 재계약을 외쳤다",
-        "why_now": "11/1 16:30KST 청주-파주전과 직후 현장 인터뷰.11/2 공개 원문 본문 확인; 기사 최초 분시 표시 없음.",
-        "verified_at": 1793596202,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.besteleven.com/news/articleView.html?idxno=313662",
-            "note": "현장 인터뷰에서 김선민은 골 뒤 벤치·관중석 세리머니에 감독 지지 메시지가 있었다고 설명했다. 감독 재계약이 빨리 이뤄지길 바라며 선수 거취에도 영향을 준다고 말했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.besteleven.com/news/articleView.html?idxno=313662",
-            "label": "본문 확인·사실 카드",
-            "kind": "source"
-          }
-        ],
-        "caution": "현장 취재 본문 확인·세리머니 영상 미시청. 재계약 성사 발표 아님.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-01",
-          "observation": "현장 인터뷰에서 김선민은 골 뒤 벤치·관중석 세리머니에 감독 지지 메시지가 있었다고 설명했다. 감독 재계약이 빨리 이뤄지길 바라며 선수 거취에도 영향을 준다고 말했다.",
-          "checked_materials": [],
-          "outline": [
-            "100경기 기념골 뒤 세리머니 상황을 기사로 설명",
-            "김선민이 직접 밝힌 감독 재계약 요구로 회수"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "본문 확인·사실 카드",
-            "url": "https://www.besteleven.com/news/articleView.html?idxno=313662"
-          }
-        ],
-        "excerpt": "",
-        "context": "11/1 16:30KST 청주-파주전과 직후 현장 인터뷰.11/2 공개 원문 본문 확인; 기사 최초 분시 표시 없음.",
-        "fetched_at": 1793596267,
-        "parser_revision": 7
-      },
-      "curation_event_key": "kim-seon-min-goal-celebration-demand-quinta-renewal-20261101"
-    },
-    "4e85abb8abbb": {
-      "source": "로이터·The Star",
-      "title": "세상 떠난 꼬마 팬 사진으로 상대 조롱…코번트리 조사·14세 소년 자진 출석",
-      "link": "https://www.thestar.com.my/sport/football/2026/11/02/soccer-coventry-investigate-footage-of-fan-taunting-sunderland",
-      "first_seen_at": 1793596267,
-      "last_seen_at": 1793596267,
-      "samples": [
-        {
-          "at": 1793596267,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "4e85abb8abbb",
-      "editorial": {
-        "title": "세상 떠난 꼬마 팬 사진으로 상대 조롱…코번트리 조사·14세 소년 자진 출석",
-        "category": "축구",
-        "url": "https://www.thestar.com.my/sport/football/2026/11/02/soccer-coventry-investigate-footage-of-fan-taunting-sunderland",
-        "source": "로이터·The Star",
-        "kind": "article",
-        "event_key": "coventry-bradley-lowery-photo-taunt-boy-police-club-investigation-20261101",
-        "why": "축구장 놀림이 넘어선 선에 구단·경찰·아이의 어머니가 실제로 대응한 사건.",
-        "angle": "상대 팬 놀리려고 꺼낸 사진이 세상 떠난 여섯 살 아이",
-        "why_now": "경기10/31 영국, 영상 유통 뒤 구단·경찰 대응11/1. 로이터11/1(재게재11/2 02:21MYT). 원 영상 최초 분시 미확인.",
-        "verified_at": 1793596202,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.thestar.com.my/sport/football/2026/11/02/soccer-coventry-investigate-footage-of-fan-taunting-sunderland",
-            "note": "로이터 본문에서 브래들리 로어리 사진을 이용한 도발 의혹, 구단 조사 성명,14세 소년 자진 출석 보도, 어머니의 슬픔과 가족 교육 요청을 확인했다. 수사는 진행 중이다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.thestar.com.my/sport/football/2026/11/02/soccer-coventry-investigate-footage-of-fan-taunting-sunderland",
-            "label": "본문 확인·사실 카드",
-            "kind": "source"
-          }
-        ],
-        "caution": "본문 확인·현장 영상 미시청. 미성년자 신원 추정·확정 범죄자 표현 금지.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-01",
-          "observation": "로이터 본문에서 브래들리 로어리 사진을 이용한 도발 의혹, 구단 조사 성명,14세 소년 자진 출석 보도, 어머니의 슬픔과 가족 교육 요청을 확인했다. 수사는 진행 중이다.",
-          "checked_materials": [],
-          "outline": [
-            "사진 속 아이와 도발 의혹의 배경을 짧게 설명",
-            "구단 조사·경찰 대응·어머니의 요청을 연결"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "본문 확인·사실 카드",
-            "url": "https://www.thestar.com.my/sport/football/2026/11/02/soccer-coventry-investigate-footage-of-fan-taunting-sunderland"
-          }
-        ],
-        "excerpt": "",
-        "context": "경기10/31 영국, 영상 유통 뒤 구단·경찰 대응11/1. 로이터11/1(재게재11/2 02:21MYT). 원 영상 최초 분시 미확인.",
-        "fetched_at": 1793596267,
-        "parser_revision": 7
-      },
-      "curation_event_key": "coventry-bradley-lowery-photo-taunt-boy-police-club-investigation-20261101"
-    },
-    "79ed3fafbe89": {
-      "source": "뉴스엔",
-      "title": "지수 “지금 진짜 많은 시기인데”…냉장고 연 셰프들은 “초비상”",
-      "link": "https://www.newsen.com/news_view.php?uid=202611012232186110",
-      "first_seen_at": 1793596267,
-      "last_seen_at": 1793596267,
-      "samples": [
-        {
-          "at": 1793596267,
-          "views": null,
-          "reactions": null,
-          "rank": 7,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "79ed3fafbe89",
-      "editorial": {
-        "title": "지수 “지금 진짜 많은 시기인데”…냉장고 연 셰프들은 “초비상”",
-        "category": "아이돌",
-        "url": "https://www.newsen.com/news_view.php?uid=202611012232186110",
-        "source": "뉴스엔",
-        "kind": "article",
-        "event_key": "jisoo-fridge-abundant-chefs-emergency-preview-20261101",
-        "why": "지수의 풍족하다는 기준과 셰프들의 비상 반응이 충돌하는 실제 예고 대사.",
-        "angle": "냉장고 주인은 풍족하다는데 요리할 사람들은 초비상",
-        "why_now": "최초 공개11/1 JTBC 냉부95회 말미 다음 회 예고. 기사11/1 22:32:51KST. 본편은11/8 예정이며 예고 공개만 검토.",
-        "verified_at": 1793596202,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.newsen.com/news_view.php?uid=202611012232186110",
-            "note": "본문에서 예고 속 지수가 냉장고가 가장 풍족한 시기라고 말하고 셰프들이 비상·초비상을 외친 대사를 확인했다. 구체 재료와 최종 요리 결과는 예고 본문으로 확인 불가."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.newsen.com/news_view.php?uid=202611012232186110",
-            "label": "본문 확인·사실 카드",
-            "kind": "source"
-          }
-        ],
-        "caution": "예고 보도 본문 확인·영상 미시청.11/8 본편이 이미 방송된 것처럼 쓰지 않음.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-01",
-          "observation": "본문에서 예고 속 지수가 냉장고가 가장 풍족한 시기라고 말하고 셰프들이 비상·초비상을 외친 대사를 확인했다. 구체 재료와 최종 요리 결과는 예고 본문으로 확인 불가.",
-          "checked_materials": [],
-          "outline": [
-            "11/1 공개된 예고임을 명시",
-            "지수와 셰프의 상반된 대사를 사실 카드로 대비"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "본문 확인·사실 카드",
-            "url": "https://www.newsen.com/news_view.php?uid=202611012232186110"
-          }
-        ],
-        "excerpt": "",
-        "context": "최초 공개11/1 JTBC 냉부95회 말미 다음 회 예고. 기사11/1 22:32:51KST. 본편은11/8 예정이며 예고 공개만 검토.",
-        "fetched_at": 1793596267,
-        "parser_revision": 7
-      },
-      "curation_event_key": "jisoo-fridge-abundant-chefs-emergency-preview-20261101"
-    },
-    "d524652c7523": {
-      "source": "OSEN·조선일보",
-      "title": "맞선 상대 “딸이 있으셨구나”…김승수 “미안해요, 과거가 있어요”",
-      "link": "https://www.chosun.com/entertainments/broadcast/2026/11/01/GZSTCOBRMVQTKMRSGMYGMZJZGI/",
-      "first_seen_at": 1793596267,
-      "last_seen_at": 1793596267,
-      "samples": [
-        {
-          "at": 1793596267,
-          "views": null,
-          "reactions": null,
-          "rank": 8,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "d524652c7523",
-      "editorial": {
-        "title": "맞선 상대 “딸이 있으셨구나”…김승수 “미안해요, 과거가 있어요”",
-        "category": "시사",
-        "url": "https://www.chosun.com/entertainments/broadcast/2026/11/01/GZSTCOBRMVQTKMRSGMYGMZJZGI/",
-        "source": "OSEN·조선일보",
-        "kind": "article",
-        "event_key": "kim-seung-su-park-hye-yeon-robot-daughter-first-date-joke-20261101",
-        "why": "로봇 딸을 소개한 첫 데이트에서 실제 자녀처럼 받아친 두 사람의 농담이 바로 회수된다.",
-        "angle": "첫 데이트에서 딸 이야기가 나온 김승수의 대답",
-        "why_now": "첫 공개11/1 SBS 미우새 방송. 기사11/1 22:24KST. 로봇 자체는 예전부터 공개됐지만 이번 상대와 대화는 새 방송.",
-        "verified_at": 1793596202,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.chosun.com/entertainments/broadcast/2026/11/01/GZSTCOBRMVQTKMRSGMYGMZJZGI/",
-            "note": "본문에서 박혜연이 로봇을 물어보고 김승수가 대화 상대이며 자신을 아빠라 부른다고 설명하자, 박혜연과 김승수가 딸·과거 농담을 주고받은 것을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.chosun.com/entertainments/broadcast/2026/11/01/GZSTCOBRMVQTKMRSGMYGMZJZGI/",
-            "label": "본문 확인·사실 카드",
-            "kind": "source"
-          }
-        ],
-        "caution": "본문 대사 확인·영상 미시청. 실제 숨겨진 자녀나 전 연인 이야기가 아님.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-01",
-          "observation": "본문에서 박혜연이 로봇을 물어보고 김승수가 대화 상대이며 자신을 아빠라 부른다고 설명하자, 박혜연과 김승수가 딸·과거 농담을 주고받은 것을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "집에서 함께 지내는 로봇이라는 맥락 먼저 제시",
-            "박혜연의 딸 농담→김승수의 과거 농담으로 회수"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "본문 확인·사실 카드",
-            "url": "https://www.chosun.com/entertainments/broadcast/2026/11/01/GZSTCOBRMVQTKMRSGMYGMZJZGI/"
-          }
-        ],
-        "excerpt": "",
-        "context": "첫 공개11/1 SBS 미우새 방송. 기사11/1 22:24KST. 로봇 자체는 예전부터 공개됐지만 이번 상대와 대화는 새 방송.",
-        "fetched_at": 1793596267,
-        "parser_revision": 7
-      },
-      "curation_event_key": "kim-seung-su-park-hye-yeon-robot-daughter-first-date-joke-20261101"
-    },
-    "8bbc692f65cf": {
-      "source": "뉴스엔",
-      "title": "물티슈 가지러 두 명이 출동…유재석 동생들의 충성 경쟁",
-      "link": "https://www.newsen.com/news_view.php?code=999999&uid=202611020553401710",
-      "first_seen_at": 1793596267,
-      "last_seen_at": 1793596267,
-      "samples": [
-        {
-          "at": 1793596267,
-          "views": null,
-          "reactions": null,
-          "rank": 9,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "8bbc692f65cf",
-      "editorial": {
-        "title": "물티슈 가지러 두 명이 출동…유재석 동생들의 충성 경쟁",
-        "category": "시사",
-        "url": "https://www.newsen.com/news_view.php?code=999999&uid=202611020553401710",
-        "source": "뉴스엔",
-        "kind": "article",
-        "event_key": "han-sang-jin-heo-sung-tae-yoo-jae-suk-wet-wipe-loyalty-race-20261101",
-        "why": "유재석의 작은 행동 하나에 두 배우가 경쟁하다 송은이에게 혼나는 구체적인 예능 대화.",
-        "angle": "물티슈 하나 가지러 갔는데 둘이서 충성 경쟁",
-        "why_now": "최초 공개11/1 tvN 식스센스:B사이드 방송. 후속 기사11/2 05:55:33KST. 대사 구간의 정확한 방송 분시는 미확인.",
-        "verified_at": 1793596202,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.newsen.com/news_view.php?code=999999&uid=202611020553401710",
-            "note": "본문에서 유재석이 물티슈를 가지러 일어나자 한상진·허성태가 함께 움직이고, 허성태가 자신이 빨랐다고 말하자 송은이가 둘이 왜 갔느냐고 지적한 대화를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.newsen.com/news_view.php?code=999999&uid=202611020553401710",
-            "label": "본문 확인·사실 카드",
-            "kind": "source"
-          }
-        ],
-        "caution": "본문 대사 확인·방송 영상 미시청. 실제 직장 위계·강요 사건으로 해석 금지.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-01",
-          "observation": "본문에서 유재석이 물티슈를 가지러 일어나자 한상진·허성태가 함께 움직이고, 허성태가 자신이 빨랐다고 말하자 송은이가 둘이 왜 갔느냐고 지적한 대화를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "유재석이 물티슈 찾는 상황",
-            "두 배우의 경쟁과 송은이의 지적을 인용 카드로"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "본문 확인·사실 카드",
-            "url": "https://www.newsen.com/news_view.php?code=999999&uid=202611020553401710"
-          }
-        ],
-        "excerpt": "",
-        "context": "최초 공개11/1 tvN 식스센스:B사이드 방송. 후속 기사11/2 05:55:33KST. 대사 구간의 정확한 방송 분시는 미확인.",
-        "fetched_at": 1793596267,
-        "parser_revision": 7
-      },
-      "curation_event_key": "han-sang-jin-heo-sung-tae-yoo-jae-suk-wet-wipe-loyalty-race-20261101"
-    },
-    "ab8b437fc2b6": {
-      "source": "뉴스엔",
-      "title": "전주만 듣고 트와이스 맞힌 설윤…같은 팀 릴리 “넌 찐 원스”",
-      "link": "https://www.newsen.com/news_view.php?uid=202611010709251710",
-      "first_seen_at": 1793596267,
-      "last_seen_at": 1793596267,
-      "samples": [
-        {
-          "at": 1793596267,
-          "views": null,
-          "reactions": null,
-          "rank": 10,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "ab8b437fc2b6",
-      "editorial": {
-        "title": "전주만 듣고 트와이스 맞힌 설윤…같은 팀 릴리 “넌 찐 원스”",
-        "category": "아이돌",
-        "url": "https://www.newsen.com/news_view.php?uid=202611010709251710",
-        "source": "뉴스엔",
-        "kind": "article",
-        "event_key": "sullyoon-yes-or-yes-intro-quiz-lily-real-once-nolto-20261031",
-        "why": "후배 아이돌이 선배 팬임을 전주 퀴즈로 증명하고 동료가 팬덤 이름으로 인증해준 작은 팬 포인트.",
-        "angle": "트와이스 노래 전주가 나오자 설윤이 보여준 팬심",
-        "why_now": "최초 공개10/31 19:30KST 놀토440회(정확한 구간 분시 미확인). 기사11/1 07:48:46KST는 후속. 약43시간 이내 미발송 전주 퀴즈 대사.",
-        "verified_at": 1793596202,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.newsen.com/news_view.php?uid=202611010709251710",
-            "note": "본문에서 짧은 전주 퀴즈로 설윤이 트와이스 YES or YES를 맞히자 릴리가 찐 원스라고 말하고 설윤이 맞혔다며 기뻐한 대사를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.newsen.com/news_view.php?uid=202611010709251710",
-            "label": "본문 확인·사실 카드",
-            "kind": "source"
-          }
-        ],
-        "caution": "본문 확인·안무 영상 미시청. 같은 회차의 이미 보낸 간식게임·노크 대사와 별개.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-10-31",
-          "observation": "본문에서 짧은 전주 퀴즈로 설윤이 트와이스 YES or YES를 맞히자 릴리가 찐 원스라고 말하고 설윤이 맞혔다며 기뻐한 대사를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "전주 퀴즈의 조건과 정답을 제시",
-            "릴리의 원스 인증과 설윤의 반응으로 회수"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "본문 확인·사실 카드",
-            "url": "https://www.newsen.com/news_view.php?uid=202611010709251710"
-          }
-        ],
-        "excerpt": "",
-        "context": "최초 공개10/31 19:30KST 놀토440회(정확한 구간 분시 미확인). 기사11/1 07:48:46KST는 후속. 약43시간 이내 미발송 전주 퀴즈 대사.",
-        "fetched_at": 1793596267,
-        "parser_revision": 7
-      },
-      "curation_event_key": "sullyoon-yes-or-yes-intro-quiz-lily-real-once-nolto-20261031"
     }
   },
-  "updated_at": 1794197112
+  "updated_at": 1794210552
 }
