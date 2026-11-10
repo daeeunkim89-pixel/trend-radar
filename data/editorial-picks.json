@@ -1,218 +1,217 @@
 {
   "version": 2,
-  "hour_utc": "2026111011",
+  "hour_utc": "2026111012",
   "reviewer": "ChatGPT",
-  "generated_at": 1794308803,
+  "generated_at": 1794312065,
   "coverage": {
     "queries": [
-      "November 10 2026 latest major football official manager transfer championship 10 UTC",
-      "November 10 2026 latest major sports official championship breaking 10 UTC",
-      "site:reuters.com November 10 2026 10:00 UTC latest world major news",
-      "2026년 11월 10일 오후 7시 이후 스포츠 주요 뉴스 연합뉴스 SBS YTN 공식",
-      "site:reuters.com/sports November 10 2026 Warriors NBA history Pochettino Manchester United latest",
-      "site:reuters.com/world November 10 2026 China trade surplus Indonesia vice president resign Bulgaria motorway latest"
+      "November 10 2026 latest major football official manager transfer news after 10:30 UTC",
+      "November 10 2026 latest major sports breaking championship after 10:30 UTC",
+      "site:reuters.com/world November 10 2026 10:30 AM UTC latest major news",
+      "2026년 11월 10일 오후 8시 이후 스포츠 주요 뉴스 연합뉴스 SBS YTN 공식",
+      "site:reuters.com/sports November 10 2026 10:30 UTC Aloisi Chengdu title Brady Birmingham CFP 24 teams latest",
+      "site:reuters.com/world November 10 2026 10:30 UTC Gaza Nigeria Niger Canada sanctions Anthropic IPO latest"
     ],
     "opened_urls": [
-      "https://www.etoday.co.kr/news/view/2646277?trc=main_culturelife_news",
-      "https://www.reuters.com/sports/basketball/warriors-crush-pelicans-make-nba-history-with-8th-win-after-0-3-start--flm-2026-11-10/",
-      "https://www.reuters.com/world/asia-pacific/fate-indonesias-vice-president-hangs-balance-lawmakers-mull-probe-2026-11-10/",
-      "https://www.reuters.com/world/asia-pacific/chinas-trade-surplus-soars-past-1-trillion-october-exports-jump-352-yy-2026-11-10/",
-      "https://www.reuters.com/world/least-10-die-bulgarian-motorway-pile-up-2026-11-10/"
+      "https://www.managingmadrid.com/115275/raul-oviedo-coach-2026",
+      "https://www.reuters.com/sports/soccer/coach-aloisi-pays-price-chengdu-rongchengs-incredible-title-choke-2026-11-10/",
+      "https://www.reuters.com/sports/cfp-espn-sign-deal-expand-24-team-playoff-with-2027-season--flm-2026-11-09/",
+      "https://www.reuters.com/world/canada-reimposes-sanctions-11-iranian-entities-contributing-nuclear-activities-2026-11-10/",
+      "https://www.reuters.com/business/anthropic-ipo-raise-much-644-billion-latest-draft-prospectus-shows-2026-11-10/"
     ],
     "unavailable": [
-      "이투데이·스포츠투데이·대한장애인테니스협회 웹 본문 3건 실패 후 일반 브라우저/독립 공개 원문으로 전환",
-      "스포츠투데이 브라우저 1회 시간초과; 동일 URL 재시도 없이 다른 공개 원문 선택",
-      "run_usage queries=6 opened=8 failed=4 started=2026-11-10T11:00:33Z elapsed=370s endpoint=retry_edition_serialized"
+      "Devdiscourse 스포츠 요약과 Gulf Times PDF 본문 2건 접근 실패 후 해당 방식 중단; Reuters·직접 공개 본문으로 전환",
+      "run_usage queries=6 opened=10 failed=2 started=2026-11-10T11:58:35Z elapsed=150s endpoint=edition_serialized"
     ]
   },
   "picks": [
     {
-      "title": "리옹, 과르디올라 사단 비센스 감독 선임…2028년까지 계약",
+      "title": "레알 전설 라울, 오비에도 감독 부임…첫 프로팀 지휘",
       "category": "축구",
-      "url": "https://www.etoday.co.kr/news/view/2646277?trc=main_culturelife_news",
-      "source": "이투데이",
+      "url": "https://www.managingmadrid.com/115275/raul-oviedo-coach-2026",
+      "source": "Managing Madrid",
       "kind": "article",
-      "event_key": "lyon-carlos-vicens-manager-appointed-20261110",
-      "why": "폰세카 이탈 뒤 공석이 된 리옹이 과르디올라 사단 출신 카를로스 비센스를 새 감독으로 선임했다. 2028년 6월까지 18개월 계약이다.",
-      "angle": "후임 인선과 계약기간, 첫 훈련·데뷔 일정까지 묶어 리옹의 재정비를 설명한다.",
-      "why_now": "11월 10일 13시24분 KST 공개. 7일 전 발송한 폰세카 이탈과 달리 후임 공식 선임이라는 새 중대 후속이다.",
-      "verified_at": 1794308803,
-      "published_at": 1794284640,
+      "event_key": "raul-real-oviedo-head-coach-until-2028-20261109",
+      "why": "레알 마드리드 전설 라울이 레알 오비에도 1군 감독으로 선임됐다. 계약은 2028년 6월까지이며 프로 1군 첫 지휘다.",
+      "angle": "레알 유스·카스티야 6시즌을 거친 라울의 첫 프로 감독 도전과 계약기간을 중심으로 잡는다.",
+      "why_now": "11월 9일 14시58분 UTC 공개. 구단 발표를 인용해 선임·계약·첫 경기 일정을 확인했다.",
+      "verified_at": 1794312065,
+      "published_at": 1794236280,
       "evidence": [
         {
-          "url": "https://www.etoday.co.kr/news/view/2646277?trc=main_culturelife_news",
-          "note": "리옹이 비센스 감독 선임을 발표했다. 계약은 2028년 6월 30일까지다. 11월 10일 첫 훈련, 11월 21일 릴전 데뷔가 예정됐다."
+          "url": "https://www.managingmadrid.com/115275/raul-oviedo-coach-2026",
+          "note": "오비에도가 라울을 2028년 6월까지 1군 감독으로 선임했고 첫 경기는 지로나전이다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.etoday.co.kr/news/view/2646277?trc=main_culturelife_news",
-          "label": "이투데이 원문",
+          "url": "https://www.managingmadrid.com/115275/raul-oviedo-coach-2026",
+          "label": "Managing Madrid 원문",
           "kind": "source"
         }
       ],
-      "caution": "구단 발표를 인용한 기사 기준이며 성적 전망은 단정하지 않는다.",
+      "caution": "카스티야는 육성팀이어서 기사도 이번을 첫 프로팀 지휘로 표현했다. 성과 전망은 단정하지 않는다.",
       "readiness": {
         "mode": "major_news",
-        "event_date": "2026-11-10",
+        "event_date": "2026-11-09",
         "observation": "기사 본문에서 제목·게시시각·핵심 사실을 직접 확인",
         "checked_materials": [],
         "outline": [
-          "폰세카 이탈로 생긴 공석",
-          "과르디올라 사단 출신 비센스",
-          "18개월 계약과 첫 일정"
+          "레알 전설에서 지도자로",
+          "오비에도와 2028년까지 계약",
+          "첫 프로 1군 지휘와 지로나전"
         ]
       }
     },
     {
-      "title": "0승3패 뒤 8연승…골든스테이트, NBA 최초 기록",
+      "title": "12점 차 선두 날린 청두…알로이시 감독·회장·단장 동반 퇴진",
+      "category": "축구",
+      "url": "https://www.reuters.com/sports/soccer/coach-aloisi-pays-price-chengdu-rongchengs-incredible-title-choke-2026-11-10/",
+      "source": "Reuters",
+      "kind": "article",
+      "event_key": "chengdu-title-collapse-aloisi-sacked-board-resigns-20261109",
+      "why": "청두 룽청이 한때 12점 앞섰지만 마지막 4경기를 모두 져 첫 우승을 놓친 뒤 감독을 경질하고 회장·단장까지 사임했다.",
+      "angle": "우승 직전 4연패로 판도가 뒤집힌 과정과 구단 수뇌부 동반 퇴진을 함께 설명한다.",
+      "why_now": "Reuters가 11월 10일 02시52분 UTC 공개. 구단 공식 위챗 성명을 본문에서 확인했다.",
+      "verified_at": 1794312065,
+      "published_at": 1794279163,
+      "evidence": [
+        {
+          "url": "https://www.reuters.com/sports/soccer/coach-aloisi-pays-price-chengdu-rongchengs-incredible-title-choke-2026-11-10/",
+          "note": "청두는 마지막 4경기에서 승점을 얻지 못해 12점 차 선두를 잃었고 알로이시 감독 경질과 회장·단장 사임을 발표했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.reuters.com/sports/soccer/coach-aloisi-pays-price-chengdu-rongchengs-incredible-title-choke-2026-11-10/",
+          "label": "Reuters 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "다롄 우승은 승자승 기록으로 확정됐으며 청두 실패의 원인을 한 사람에게만 돌리지 않는다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-09",
+        "observation": "기사 본문에서 제목·게시시각·핵심 사실을 직접 확인",
+        "checked_materials": [],
+        "outline": [
+          "12점 차 선두와 마지막 4연패",
+          "승자승으로 뒤집힌 CSL 우승",
+          "감독 경질과 수뇌부 동반 퇴진"
+        ]
+      }
+    },
+    {
+      "title": "미 대학풋볼 플레이오프 24팀 확대…ESPN 17억달러 계약",
       "category": "메이저 스포츠",
-      "url": "https://www.reuters.com/sports/basketball/warriors-crush-pelicans-make-nba-history-with-8th-win-after-0-3-start--flm-2026-11-10/",
+      "url": "https://www.reuters.com/sports/cfp-espn-sign-deal-expand-24-team-playoff-with-2027-season--flm-2026-11-09/",
       "source": "Reuters",
       "kind": "article",
-      "event_key": "warriors-first-nba-team-0-3-then-eight-wins-20261110",
-      "why": "골든스테이트가 시즌 0승3패 뒤 8연승을 거둔 NBA 최초 팀이 됐다. 뉴올리언스전 51점 차 승리는 구단 역사상 네 번째로 큰 격차다.",
-      "angle": "단순 경기 결과보다 NBA 최초의 반등 기록과 구단 역사상 대승 규모를 중심으로 잡는다.",
-      "why_now": "Reuters가 11월 10일 05시52분 UTC 공개한 당일 기록이다.",
-      "verified_at": 1794308803,
-      "published_at": 1794289975,
+      "event_key": "college-football-playoff-expands-24-teams-espn-deal-20261109",
+      "why": "미 대학풋볼 플레이오프가 2027시즌부터 12팀에서 24팀으로 확대되고 ESPN과 5년 약 17억달러 계약을 맺었다.",
+      "angle": "16개 캠퍼스 경기와 23경기 체제로 바뀌는 대회 구조, 권리료 증가를 함께 보여준다.",
+      "why_now": "Reuters가 11월 9일 18시20분 UTC 공개. CFP·ESPN 발표와 세부 포맷을 본문에서 확인했다.",
+      "verified_at": 1794312065,
+      "published_at": 1794248442,
       "evidence": [
         {
-          "url": "https://www.reuters.com/sports/basketball/warriors-crush-pelicans-make-nba-history-with-8th-win-after-0-3-start--flm-2026-11-10/",
-          "note": "골든스테이트가 뉴올리언스를 138-87로 이겼다. NBA 역사상 처음으로 0승3패 출발 뒤 8연승을 기록했다. 51점 차는 구단 역사상 네 번째로 큰 승리 격차다."
+          "url": "https://www.reuters.com/sports/cfp-espn-sign-deal-expand-24-team-playoff-with-2027-season--flm-2026-11-09/",
+          "note": "2027시즌부터 24팀·23경기 체제로 확대되며 ESPN은 연간 3억4500만달러를 추가 지급한다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/sports/basketball/warriors-crush-pelicans-make-nba-history-with-8th-win-after-0-3-start--flm-2026-11-10/",
+          "url": "https://www.reuters.com/sports/cfp-espn-sign-deal-expand-24-team-playoff-with-2027-season--flm-2026-11-09/",
           "label": "Reuters 원문",
           "kind": "source"
         }
       ],
-      "caution": "상대가 백투백 일정에서 자이언 윌리엄슨을 쉬게 한 맥락을 함께 적고 장기 판도는 단정하지 않는다.",
+      "caution": "2027시즌 적용 예정안이며 실제 운영 세부는 향후 변경될 수 있다.",
       "readiness": {
         "mode": "major_news",
-        "event_date": "2026-11-10",
+        "event_date": "2026-11-09",
         "observation": "기사 본문에서 제목·게시시각·핵심 사실을 직접 확인",
         "checked_materials": [],
         "outline": [
-          "0승3패 출발",
-          "NBA 최초 8연승 반등",
-          "51점 차 대승의 맥락"
+          "12팀에서 24팀으로 확대",
+          "5년 17억달러 권리 계약",
+          "16개 캠퍼스 경기와 새 포맷"
         ]
       }
     },
     {
-      "title": "인도네시아 부통령 사임 의사 표명…대통령 수용 여부는 미정",
+      "title": "캐나다, 이란 핵·미사일 연계 11개 기관 제재 복원",
       "category": "시사",
-      "url": "https://www.reuters.com/world/asia-pacific/fate-indonesias-vice-president-hangs-balance-lawmakers-mull-probe-2026-11-10/",
+      "url": "https://www.reuters.com/world/canada-reimposes-sanctions-11-iranian-entities-contributing-nuclear-activities-2026-11-10/",
       "source": "Reuters",
       "kind": "article",
-      "event_key": "indonesia-vp-gibran-intent-to-resign-20261110",
-      "why": "기브란 인도네시아 부통령이 대통령과의 회동에서 사임 의사를 밝혔다고 대통령실 대변인이 확인했다. 자격 논란과 탄핵 조사 가능성이 겹친 권력 핵심의 중대 변동이다.",
-      "angle": "사임 확정이 아니라 의사 표명 단계라는 점과 대통령의 수용 여부가 공개되지 않았다는 점을 분리한다.",
-      "why_now": "Reuters가 11월 10일 06시02분 UTC 공개. 의회 조사 논의가 진행 중인 현재형 정치 사안이다.",
-      "verified_at": 1794308803,
-      "published_at": 1794290576,
+      "event_key": "canada-reimposes-sanctions-11-iranian-entities-20261110",
+      "why": "캐나다가 2016년 해제했던 이란 핵·미사일 관련 기관 11곳에 제재를 다시 부과했다. 국영 석유사와 주요 은행도 포함됐다.",
+      "angle": "G7 회의에서 발표된 제재 복원과 대상 기관, 이란 핵협상 교착을 사실과 주장으로 나눈다.",
+      "why_now": "Reuters가 11월 10일 10시44분 UTC 공개한 외교·안보 조치다.",
+      "verified_at": 1794312065,
+      "published_at": 1794307483,
       "evidence": [
         {
-          "url": "https://www.reuters.com/world/asia-pacific/fate-indonesias-vice-president-hangs-balance-lawmakers-mull-probe-2026-11-10/",
-          "note": "대통령실 대변인이 부통령의 사임 의사 표명을 확인했다. 대통령이 이를 거부했다는 보도는 부인했지만 수용 여부도 밝히지 않았다. 의원들은 후보 자격 관련 조사 가능성을 검토 중이다."
+          "url": "https://www.reuters.com/world/canada-reimposes-sanctions-11-iranian-entities-contributing-nuclear-activities-2026-11-10/",
+          "note": "캐나다 외무장관은 핵·미사일 활동과 자금 조달에 연계된 11개 기관의 제재 복원을 발표했다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/world/asia-pacific/fate-indonesias-vice-president-hangs-balance-lawmakers-mull-probe-2026-11-10/",
+          "url": "https://www.reuters.com/world/canada-reimposes-sanctions-11-iranian-entities-contributing-nuclear-activities-2026-11-10/",
           "label": "Reuters 원문",
           "kind": "source"
         }
       ],
-      "caution": "부통령실의 별도 답변은 없었고 사임은 아직 확정되지 않았다.",
+      "caution": "핵무기 개발 의혹은 서방의 주장이고 이란은 평화적 목적이라고 반박한다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-10",
         "observation": "기사 본문에서 제목·게시시각·핵심 사실을 직접 확인",
         "checked_materials": [],
         "outline": [
-          "사임 의사 표명 확인",
-          "대통령 수용 여부 미정",
-          "자격 논란과 의회 조사 가능성"
+          "2016년 해제 제재 복원",
+          "석유사·은행 등 11개 기관",
+          "핵협상 교착 속 G7 발표"
         ]
       }
     },
     {
-      "title": "중국 무역흑자 1조달러 돌파…AI 수출이 내수 부진 상쇄",
+      "title": "앤트로픽, 기업가치 1조달러 IPO 추진…최대 904억달러 조달",
       "category": "시사",
-      "url": "https://www.reuters.com/world/asia-pacific/chinas-trade-surplus-soars-past-1-trillion-october-exports-jump-352-yy-2026-11-10/",
+      "url": "https://www.reuters.com/business/anthropic-ipo-raise-much-644-billion-latest-draft-prospectus-shows-2026-11-10/",
       "source": "Reuters",
       "kind": "article",
-      "event_key": "china-trade-surplus-one-trillion-ai-exports-20261110",
-      "why": "중국의 1~10월 무역흑자가 1조400억달러로 1조달러를 넘었다. 반도체와 첨단기술 수출 급증이 약한 내수를 상쇄하면서 주요 교역국과의 긴장을 키울 수 있다.",
-      "angle": "사상적 규모의 흑자와 AI 관련 수출 호조, 내수 취약·보호무역 위험을 함께 보여준다.",
-      "why_now": "Reuters가 11월 10일 02시42분 UTC 공개한 최신 세관 지표다.",
-      "verified_at": 1794308803,
-      "published_at": 1794278563,
+      "event_key": "anthropic-one-trillion-valuation-ipo-20261110",
+      "why": "앤트로픽이 최대 1조200억달러 가치로 IPO에 나서며 공모와 사모를 합쳐 최대 904억달러 조달을 추진한다.",
+      "angle": "AI 투자 열풍의 최대 시험대라는 의미와 막대한 성장·컴퓨팅 비용 위험을 함께 비교한다.",
+      "why_now": "Reuters가 11월 10일 10시45분 UTC 공개. 규제 제출 서류와 로드쇼 계획을 확인했다.",
+      "verified_at": 1794312065,
+      "published_at": 1794307516,
       "evidence": [
         {
-          "url": "https://www.reuters.com/world/asia-pacific/chinas-trade-surplus-soars-past-1-trillion-october-exports-jump-352-yy-2026-11-10/",
-          "note": "1~10월 무역흑자는 1조400억달러였다. 10월 수출은 전년 대비 35.2% 증가했다. 1~10월 반도체 수출액은 111.1%, 첨단기술 제품은 47.9% 늘었다."
+          "url": "https://www.reuters.com/business/anthropic-ipo-raise-much-644-billion-latest-draft-prospectus-shows-2026-11-10/",
+          "note": "공모 최대 644억달러와 별도 사모 260억달러를 합치면 총 조달액은 최대 904억달러다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/world/asia-pacific/chinas-trade-surplus-soars-past-1-trillion-october-exports-jump-352-yy-2026-11-10/",
+          "url": "https://www.reuters.com/business/anthropic-ipo-raise-much-644-billion-latest-draft-prospectus-shows-2026-11-10/",
           "label": "Reuters 원문",
           "kind": "source"
         }
       ],
-      "caution": "AI 수요 지속과 추가 관세 가능성은 분석·전망이며 확정 사실로 쓰지 않는다.",
+      "caution": "가격대와 기업가치는 목표치이며 상장 완료 전 확정값이 아니다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-10",
         "observation": "기사 본문에서 제목·게시시각·핵심 사실을 직접 확인",
         "checked_materials": [],
         "outline": [
-          "1조달러 넘은 흑자",
-          "AI·첨단기술 수출 급증",
-          "내수 부진과 무역갈등 위험"
-        ]
-      }
-    },
-    {
-      "title": "불가리아 고속도로 수십 대 추돌…11명 사망·50명 부상",
-      "category": "시사",
-      "url": "https://www.reuters.com/world/least-10-die-bulgarian-motorway-pile-up-2026-11-10/",
-      "source": "Reuters",
-      "kind": "article",
-      "event_key": "bulgaria-a1-motorway-pileup-11-dead-50-injured-20261110",
-      "why": "불가리아 A1 고속도로에서 양방향 수십 대가 얽힌 대형 추돌로 11명이 숨지고 50명이 병원으로 이송됐다. 항공 후송까지 투입된 국가적 재난 규모다.",
-      "angle": "6개 차로에 걸친 피해와 구조 상황, 안개가 유력 원인으로 제시됐으나 수사는 남았다는 점을 구분한다.",
-      "why_now": "Reuters가 11월 10일 09시38분 UTC 공개했고 구조 작업이 진행 중이다.",
-      "verified_at": 1794308803,
-      "published_at": 1794303530,
-      "evidence": [
-        {
-          "url": "https://www.reuters.com/world/least-10-die-bulgarian-motorway-pile-up-2026-11-10/",
-          "note": "총리가 사망자 11명을 발표했다. 내무부는 부상자 50명이 병원으로 이송됐다고 밝혔다. 당국자는 안개를 유력 원인으로 봤지만 구조 뒤 수사가 진행될 예정이라고 말했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.reuters.com/world/least-10-die-bulgarian-motorway-pile-up-2026-11-10/",
-          "label": "Reuters 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "안개는 당국자의 유력 원인 설명일 뿐 최종 조사 결론이 아니다. 인명 수치는 후속 발표로 바뀔 수 있다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-10",
-        "observation": "기사 본문에서 제목·게시시각·핵심 사실을 직접 확인",
-        "checked_materials": [],
-        "outline": [
-          "양방향 수십 대 추돌",
-          "11명 사망·50명 부상",
-          "구조 진행과 원인 조사 구분"
+          "최대 1조200억달러 기업가치",
+          "공모·사모 합계 904억달러",
+          "성장과 9000억달러 컴퓨팅 약정 위험"
         ]
       }
     }
