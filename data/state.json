@@ -1,5 +1,5 @@
 {
-  "updated_at": 1794210553,
+  "updated_at": 1794275318,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026110907",
+    "hour_utc": "2026111001",
     "category_counts": {
       "시사": 2,
-      "축구": 0,
-      "메이저 스포츠": 3,
+      "축구": 3,
+      "메이저 스포츠": 0,
       "아이돌": 0
     },
     "research_queries": 6,
     "opened_sources": 5,
     "picks": [
       {
-        "title": "T1, BLG에 1대3 패배…롤드컵 결승행 좌절·젠지와 BLG 맞대결",
-        "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=62130",
-        "event_key": "t1-blg-worlds-semifinal-one-three-elimination-20261109"
+        "title": "부동산 감정사가 FA컵 결승골…양승우, 7부 팀의 첫 2라운드 이끌었다",
+        "url": "https://www.yna.co.kr/view/AKR20261109121000007",
+        "event_key": "yang-seung-woo-wimborne-crawley-fa-cup-first-second-round-20261109"
       },
       {
-        "title": "커리, 35세 이후 40득점 경기 최다…르브론·조던 넘었다",
-        "url": "https://www.chosun.com/sports/basketball/2026/11/09/HFRWEZDEMU2DMOJWGQ3GEZDCGU/",
-        "event_key": "curry-sixteen-forty-point-games-after35-nba-record-magic-20261108"
+        "title": "메시, FIFPRO 월드 베스트11 통산 18회…발롱도르 케인은 제외",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838255",
+        "event_key": "messi-fifpro-world11-eighteenth-selection-kane-omitted-20261110"
       },
       {
-        "title": "돈치치 빠져도 리브스 43점…레이커스 5연승·서부 선두",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008837423",
-        "event_key": "lakers-reeves43-without-doncic-pistons-five-streak-20261109"
+        "title": "18점 앞서던 청두, 막판 4연패로 우승 놓쳤다…다롄 역전 우승",
+        "url": "https://sports.khan.co.kr/article/202611091126003",
+        "event_key": "chengdu-four-final-losses-dalian-csl-comeback-title-20261108"
       },
       {
-        "title": "코스피, 2.24% 반등도 못 지켰다…5018.85로 하락 마감",
-        "url": "https://www.mk.co.kr/news/stock/12202543",
-        "event_key": "kospi-5018-85-close-reverses-2-24-intraday-rebound-20261109"
+        "title": "공화당 의원이 美 국방장관 탄핵안 재발의…이번 주 표결 전망",
+        "url": "https://www.ytn.co.kr/_ln/0104_202611100613342518",
+        "event_key": "massie-hegseth-eight-articles-impeachment-refiled-20261109"
       },
       {
-        "title": "여당 “비거주 1주택도 종부세 14억 공제”…청와대는 기존 방침 유지",
-        "url": "https://www.chosun.com/politics/politics_general/2026/11/09/5XCPH23KVBCLTMPNETID2K4AYQ/",
-        "event_key": "democrats-request-nonresident-single-home-tax14billion-bluehouse-unchanged-20261108"
+        "title": "뉴욕증시 급등 속 엔비디아만 4%대 하락…AMD는 10% 넘게 상승",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838119",
+        "event_key": "nvidia-falls-over4-market-rally-amd-over10-session-20261109"
       }
     ]
   }
