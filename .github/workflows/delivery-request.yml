@@ -28,8 +28,7 @@ jobs:
         env:
           REQUEST_COMMIT: ${{ github.sha }}
         run: |
-          git show "$REQUEST_COMMIT:data/report-request.json" > /tmp/btp-report-request.json
-          git show "$REQUEST_COMMIT:data/editorial-picks.json" > /tmp/btp-editorial-picks.json
+          python3 pin_report_request.py --commit "$REQUEST_COMMIT" --request-out /tmp/btp-report-request.json --picks-out /tmp/btp-editorial-picks.json
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
