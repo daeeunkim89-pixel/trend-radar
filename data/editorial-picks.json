@@ -1,8 +1,8 @@
 {
   "version": 2,
   "hour_utc": "2026111011",
-  "reviewer": "BTP editorial automation",
-  "generated_at": 1794308642,
+  "reviewer": "ChatGPT",
+  "generated_at": 1794308803,
   "coverage": {
     "queries": [
       "November 10 2026 latest major football official manager transfer championship 10 UTC",
@@ -22,7 +22,7 @@
     "unavailable": [
       "이투데이·스포츠투데이·대한장애인테니스협회 웹 본문 3건 실패 후 일반 브라우저/독립 공개 원문으로 전환",
       "스포츠투데이 브라우저 1회 시간초과; 동일 URL 재시도 없이 다른 공개 원문 선택",
-      "run_usage queries=6 opened=8 failed=4 started=2026-11-10T11:00:33Z elapsed=209s endpoint=edition_serialized"
+      "run_usage queries=6 opened=8 failed=4 started=2026-11-10T11:00:33Z elapsed=370s endpoint=retry_edition_serialized"
     ]
   },
   "picks": [
@@ -36,12 +36,13 @@
       "why": "폰세카 이탈 뒤 공석이 된 리옹이 과르디올라 사단 출신 카를로스 비센스를 새 감독으로 선임했다. 2028년 6월까지 18개월 계약이다.",
       "angle": "후임 인선과 계약기간, 첫 훈련·데뷔 일정까지 묶어 리옹의 재정비를 설명한다.",
       "why_now": "11월 10일 13시24분 KST 공개. 7일 전 발송한 폰세카 이탈과 달리 후임 공식 선임이라는 새 중대 후속이다.",
-      "verified_at": 1794308642,
+      "verified_at": 1794308803,
       "published_at": 1794284640,
       "evidence": [
-        "리옹이 비센스 감독 선임을 발표했다.",
-        "계약은 2028년 6월 30일까지다.",
-        "11월 10일 첫 훈련, 11월 21일 릴전 데뷔가 예정됐다."
+        {
+          "url": "https://www.etoday.co.kr/news/view/2646277?trc=main_culturelife_news",
+          "note": "리옹이 비센스 감독 선임을 발표했다. 계약은 2028년 6월 30일까지다. 11월 10일 첫 훈련, 11월 21일 릴전 데뷔가 예정됐다."
+        }
       ],
       "materials": [
         {
@@ -73,12 +74,13 @@
       "why": "골든스테이트가 시즌 0승3패 뒤 8연승을 거둔 NBA 최초 팀이 됐다. 뉴올리언스전 51점 차 승리는 구단 역사상 네 번째로 큰 격차다.",
       "angle": "단순 경기 결과보다 NBA 최초의 반등 기록과 구단 역사상 대승 규모를 중심으로 잡는다.",
       "why_now": "Reuters가 11월 10일 05시52분 UTC 공개한 당일 기록이다.",
-      "verified_at": 1794308642,
+      "verified_at": 1794308803,
       "published_at": 1794289975,
       "evidence": [
-        "골든스테이트가 뉴올리언스를 138-87로 이겼다.",
-        "NBA 역사상 처음으로 0승3패 출발 뒤 8연승을 기록했다.",
-        "51점 차는 구단 역사상 네 번째로 큰 승리 격차다."
+        {
+          "url": "https://www.reuters.com/sports/basketball/warriors-crush-pelicans-make-nba-history-with-8th-win-after-0-3-start--flm-2026-11-10/",
+          "note": "골든스테이트가 뉴올리언스를 138-87로 이겼다. NBA 역사상 처음으로 0승3패 출발 뒤 8연승을 기록했다. 51점 차는 구단 역사상 네 번째로 큰 승리 격차다."
+        }
       ],
       "materials": [
         {
@@ -110,12 +112,13 @@
       "why": "기브란 인도네시아 부통령이 대통령과의 회동에서 사임 의사를 밝혔다고 대통령실 대변인이 확인했다. 자격 논란과 탄핵 조사 가능성이 겹친 권력 핵심의 중대 변동이다.",
       "angle": "사임 확정이 아니라 의사 표명 단계라는 점과 대통령의 수용 여부가 공개되지 않았다는 점을 분리한다.",
       "why_now": "Reuters가 11월 10일 06시02분 UTC 공개. 의회 조사 논의가 진행 중인 현재형 정치 사안이다.",
-      "verified_at": 1794308642,
+      "verified_at": 1794308803,
       "published_at": 1794290576,
       "evidence": [
-        "대통령실 대변인이 부통령의 사임 의사 표명을 확인했다.",
-        "대통령이 이를 거부했다는 보도는 부인했지만 수용 여부도 밝히지 않았다.",
-        "의원들은 후보 자격 관련 조사 가능성을 검토 중이다."
+        {
+          "url": "https://www.reuters.com/world/asia-pacific/fate-indonesias-vice-president-hangs-balance-lawmakers-mull-probe-2026-11-10/",
+          "note": "대통령실 대변인이 부통령의 사임 의사 표명을 확인했다. 대통령이 이를 거부했다는 보도는 부인했지만 수용 여부도 밝히지 않았다. 의원들은 후보 자격 관련 조사 가능성을 검토 중이다."
+        }
       ],
       "materials": [
         {
@@ -147,12 +150,13 @@
       "why": "중국의 1~10월 무역흑자가 1조400억달러로 1조달러를 넘었다. 반도체와 첨단기술 수출 급증이 약한 내수를 상쇄하면서 주요 교역국과의 긴장을 키울 수 있다.",
       "angle": "사상적 규모의 흑자와 AI 관련 수출 호조, 내수 취약·보호무역 위험을 함께 보여준다.",
       "why_now": "Reuters가 11월 10일 02시42분 UTC 공개한 최신 세관 지표다.",
-      "verified_at": 1794308642,
+      "verified_at": 1794308803,
       "published_at": 1794278563,
       "evidence": [
-        "1~10월 무역흑자는 1조400억달러였다.",
-        "10월 수출은 전년 대비 35.2% 증가했다.",
-        "1~10월 반도체 수출액은 111.1%, 첨단기술 제품은 47.9% 늘었다."
+        {
+          "url": "https://www.reuters.com/world/asia-pacific/chinas-trade-surplus-soars-past-1-trillion-october-exports-jump-352-yy-2026-11-10/",
+          "note": "1~10월 무역흑자는 1조400억달러였다. 10월 수출은 전년 대비 35.2% 증가했다. 1~10월 반도체 수출액은 111.1%, 첨단기술 제품은 47.9% 늘었다."
+        }
       ],
       "materials": [
         {
@@ -184,12 +188,13 @@
       "why": "불가리아 A1 고속도로에서 양방향 수십 대가 얽힌 대형 추돌로 11명이 숨지고 50명이 병원으로 이송됐다. 항공 후송까지 투입된 국가적 재난 규모다.",
       "angle": "6개 차로에 걸친 피해와 구조 상황, 안개가 유력 원인으로 제시됐으나 수사는 남았다는 점을 구분한다.",
       "why_now": "Reuters가 11월 10일 09시38분 UTC 공개했고 구조 작업이 진행 중이다.",
-      "verified_at": 1794308642,
+      "verified_at": 1794308803,
       "published_at": 1794303530,
       "evidence": [
-        "총리가 사망자 11명을 발표했다.",
-        "내무부는 부상자 50명이 병원으로 이송됐다고 밝혔다.",
-        "당국자는 안개를 유력 원인으로 봤지만 구조 뒤 수사가 진행될 예정이라고 말했다."
+        {
+          "url": "https://www.reuters.com/world/least-10-die-bulgarian-motorway-pile-up-2026-11-10/",
+          "note": "총리가 사망자 11명을 발표했다. 내무부는 부상자 50명이 병원으로 이송됐다고 밝혔다. 당국자는 안개를 유력 원인으로 봤지만 구조 뒤 수사가 진행될 예정이라고 말했다."
+        }
       ],
       "materials": [
         {
@@ -212,5 +217,5 @@
       }
     }
   ],
-  "empty_reason": null
+  "empty_reason": ""
 }
