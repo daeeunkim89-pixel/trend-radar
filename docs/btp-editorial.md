@@ -61,7 +61,7 @@
 1. 현재 실제 한국시각과 UTC hour를 확인한다. 정기는08~23시 매시간이다. 정기 실행은 현재 회차를 조사·제출하며 미래 정각까지 기다리지 않는다.
 2. 최신 main의 공개 state/request/status/editorial-history에서 대상 회차와7일 sent/uncertain 식별자를 도구 안에서 간추린다. 비밀값·암호화 state는 읽지 않는다. 같은 회차 요청·sent/uncertain·부분 전송이면 새 해시로 재요청하지 않는다.
 3. 실제 원문을 확인한 version2 picks를 비송신 검사하고 최종 중복 제거 후5개를 확보할 검증 예비를 준비한다. 검토 시간을 새 검증 없이 갱신하지 않는다.
-4. 정확한 UTF-8 JSON+마지막 줄바꿈 picks 바이트 SHA256을 구한다. report-request는 {"version":2,"hour_utc":"YYYYMMDDHH","editorial_sha256":"64자리해시"} 한 줄과 마지막 줄바꿈이다.
+4. 정기 요청은 {"version":4,"hour_utc":"YYYYMMDDHH","binding":"trigger_commit"} 한 줄과 마지막 줄바꿈이다. picks 스키마는 version2를 유지한다. GitHub pin_report_request.py가 두 파일이 함께 변경된 불변 승인 커밋의 picks 바이트에서 SHA256을 계산해 기존 version2 요청으로 변환한다. 에이전트는 해시를 추정하거나 수기로 작성하지 않는다. 회차 일치·ChatGPT 검토·5개를 먼저 확인하며, 기존 발송기의 시간·신선도·검토 스키마·비공개 중복·5개 강제 검사는 유지한다. 기존 version2/3 요청의 틀린 해시는 자동 보정하지 않는다.
 5. 두 파일 data/editorial-picks.json과 data/report-request.json만 최신 main tree 기반 한 커밋으로 원자 반영한다. create_tree→단일 parent create_commit→expected_sha와 force=false update_ref를 쓴다. 충돌이면 최신 공개 잠금·요청·ref를 다시 읽는다.
 6. 기존 승인 delivery-request workflow의 실제 결과를 짧게 확인한다. BTP_REQUIRE_COMPLETE=1이며 최소5개가 아니면 추가 조사로 돌아간다. 실제 stories=5/messages=1/target_met=true를 완료로 본다. 모의 테스트/형식 검사/수집 성공은 발송 성공이 아니다.
 7. 재시도 가능한 실패와 불확실 전송을 구분한다. sent/uncertain 잠금과 이력을 지우지 않는다. 연결 테스트·Telegram 직접 호출·자동 Instagram 게재·과거 몰아 보내기는 금지한다. 추가 운영 보고를 Telegram에 보내지 않는다.
