@@ -1,5 +1,5 @@
 {
-  "updated_at": 1794276588,
+  "updated_at": 1794301555,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026111002",
+    "hour_utc": "2026111009",
     "category_counts": {
-      "시사": 5,
-      "축구": 0,
-      "메이저 스포츠": 0,
+      "시사": 3,
+      "축구": 1,
+      "메이저 스포츠": 1,
       "아이돌": 0
     },
-    "research_queries": 6,
-    "opened_sources": 6,
+    "research_queries": 4,
+    "opened_sources": 5,
     "picks": [
       {
-        "title": "9개월 만에 러·우 3자협상 재개…영토·유럽 참여 놓고 간극",
-        "url": "https://www.reuters.com/world/europe/russia-ukraine-meet-us-backed-talks-after-trump-says-broad-deal-possible-2026-11-10/",
-        "event_key": "russia-ukraine-abu-dhabi-talks-opened-first-since-february-20261110"
+        "title": "CF 몬트리올 매각 절차 시작…30년 사푸토 체제 전환",
+        "url": "https://en.cfmontreal.com/news/joey-saputo-initiates-a-sales-process-to-sell-cf-montreal",
+        "event_key": "cf-montreal-joey-saputo-sale-process-relocation-not-ruled-out-20261109"
       },
       {
-        "title": "중국, 희토류 수출통제 유예 2개월 연장…미·중 협상 숨통",
-        "url": "https://www.investing.com/news/commodities-news/china-extends-suspension-of-new-rare-earth-controls-until-january-5010878",
-        "event_key": "china-rare-earth-export-control-waiver-extended-january10-20261109"
+        "title": "맥고니글·스튜어트, MLB 양대 리그 신인왕 확정",
+        "url": "https://www.yardbarker.com/mlb/articles/tigers_kevin_mcgonigle_reds_sal_stewart_named_mlb_rookies_of_the_year/s1_13132_44539946",
+        "event_key": "mlb-2026-rookie-of-year-mcgonigle-stewart-draft-picks-20261110"
       },
       {
-        "title": "러 독립언론 노바야 가제타, 30년 만에 모스크바 사무실 폐쇄",
-        "url": "https://theprint.in/world/lights-go-out-at-russias-novaya-gazeta-after-years-of-defiant-reporting/3094307/",
-        "event_key": "novaya-gazeta-moscow-office-operations-closed-state-pressure-20261109"
+        "title": "프랑스 최저임금 인상 한 달 앞당긴다…생활비 시위에 대응",
+        "url": "https://uk.marketscreener.com/news/french-pm-brings-forward-hike-in-minimum-wage-to-calm-protesters-ce785fd3dd81f521",
+        "event_key": "france-lecornu-minimum-wage-rise-moved-to-december-cost-living-protests-20261109"
       },
       {
-        "title": "러셀 브랜드, 강간·성추행 유죄로 징역 10년 6개월",
-        "url": "https://www.streetinsider.com/Reuters/UK%27s%2BRussell%2BBrand%2Bsentenced%2Bto%2B10-and-a-half%2Byears%2Bin%2Bjail%2Bfor%2Brape%2C%2Bsexual%2Bassault/27310045.html",
-        "event_key": "russell-brand-sentenced-ten-years-six-months-rape-assault-20261109"
+        "title": "러시아 “미국과 디젤 합의 이행 중”…가격 하락은 주장",
+        "url": "https://www.reuters.com/business/energy/russias-lavrov-says-us-diesel-deal-working-prices-coming-down-2026-11-10/",
+        "event_key": "russia-us-diesel-export-deal-implementation-sanctions-temporary-lift-20261110"
       },
       {
-        "title": "이란, 협상 재개 2일 제안 고수…미국은 선결조건 거부",
-        "url": "https://www.streetinsider.com/Reuters/Iran%2Bdefends%2Btwo-day%2Bproposal%2Bfor%2Bpeace%2Btalks%2Bafter%2BUS%2Brejects%2Bconditions/27309958.html",
-        "event_key": "iran-two-day-peace-talks-offer-us-rejects-preconditions-20261109"
+        "title": "정부 의료통계 사이트 뚫린 호주…AI 감독기관 신설 추진",
+        "url": "https://www.reuters.com/world/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-2026-11-10/",
+        "event_key": "australia-openai-agent-government-website-breach-mandatory-reporting-20261110"
       }
     ]
   }
