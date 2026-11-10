@@ -1,211 +1,211 @@
 {
   "version": 2,
-  "hour_utc": "2026110907",
+  "hour_utc": "2026111001",
   "reviewer": "ChatGPT",
-  "generated_at": 1794210344,
+  "generated_at": 1794275080,
   "coverage": {
     "queries": [
-      "\"2026.11.09\" \"스포츠\" \"속보\"",
-      "\"2026.11.09\" \"김원호\" \"서승재\"",
-      "\"2026.11.09\" \"NBA\" \"기록\"",
-      "\"2026.11.09\" \"알카라스\"",
-      "\"2026.11.09\" \"T1\" \"결승\"",
-      "\"2026.11.09\" \"코스피\" \"마감\""
+      "\"2026.11.10\" \"스포츠\" \"속보\"",
+      "\"2026.11.10\" \"신인왕\"",
+      "\"2026.11.10\" \"헤그세스\"",
+      "\"2026.11.10\" \"양승우\"",
+      "\"양승우\" \"FA컵\" \"2026\"",
+      "\"2026.11.09\" \"청두\" \"다롄\""
     ],
     "opened_urls": [
-      "https://www.gamevu.co.kr/news/articleView.html?idxno=62130",
-      "https://www.chosun.com/sports/basketball/2026/11/09/HFRWEZDEMU2DMOJWGQ3GEZDCGU/",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008837423",
-      "https://www.mk.co.kr/news/stock/12202543",
-      "https://www.chosun.com/politics/politics_general/2026/11/09/5XCPH23KVBCLTMPNETID2K4AYQ/"
+      "https://www.yna.co.kr/view/AKR20261109121000007",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838255",
+      "https://sports.khan.co.kr/article/202611091126003",
+      "https://www.ytn.co.kr/_ln/0104_202611100613342518",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838119"
     ],
     "unavailable": [
-      "일부 web 열람 실패는 일반 브라우저의 공개 기사 본문으로 확인. 영상은 미시청."
+      "SBS 인쇄 페이지1건은 열람되지 않아 연합뉴스 본문으로 확인. 영상은 시청하지 않음."
     ]
   },
   "picks": [
     {
-      "title": "T1, BLG에 1대3 패배…롤드컵 결승행 좌절·젠지와 BLG 맞대결",
-      "category": "메이저 스포츠",
-      "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=62130",
-      "source": "게임뷰",
+      "title": "부동산 감정사가 FA컵 결승골…양승우, 7부 팀의 첫 2라운드 이끌었다",
+      "category": "축구",
+      "url": "https://www.yna.co.kr/view/AKR20261109121000007",
+      "source": "연합뉴스",
       "kind": "article",
-      "event_key": "t1-blg-worlds-semifinal-one-three-elimination-20261109",
-      "why": "페이커의 T1 탈락으로 국내 관심이 큰 세계대회 결승 대진이 바뀐 핵심 결과다.",
-      "angle": "T1의1대3탈락과 젠지 대 BLG 결승 대진을 간결히 제시한다.",
-      "why_now": "9일 준결승이 끝난 새 결과다. 이전 발송의T1 4강 진출·젠지 결승행과 구분했다.",
-      "verified_at": 1794210284,
-      "published_at": 1794189300,
-      "evidence": [
-        {
-          "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=62130",
-          "note": "BLG가4세트 승리로T1을3대1로 꺾고 결승에 올라 젠지와 맞붙는다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=62130",
-          "label": "확인한 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "경기 영상은 직접 시청하지 않았다. 확인한 원문 결과로 사실 카드를 만든다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-09",
-        "observation": "BLG가4세트 승리로T1을3대1로 꺾고 결승에 올라 젠지와 맞붙는다.",
-        "checked_materials": [],
-        "outline": [
-          "T1, BLG에1대3으로탈락",
-          "결승은젠지대BLG"
-        ]
-      }
-    },
-    {
-      "title": "커리, 35세 이후 40득점 경기 최다…르브론·조던 넘었다",
-      "category": "메이저 스포츠",
-      "url": "https://www.chosun.com/sports/basketball/2026/11/09/HFRWEZDEMU2DMOJWGQ3GEZDCGU/",
-      "source": "스포츠조선",
-      "kind": "article",
-      "event_key": "curry-sixteen-forty-point-games-after35-nba-record-magic-20261108",
-      "why": "세계적 농구 스타가 동시대·역대 전설을 넘어선 구체적인 NBA 기록이다.",
-      "angle": "35세 이후40점 이상16회라는 조건과 르브론15회·조던12회를 함께 표기.",
-      "why_now": "경기는8일 한국시간, 보도9일이다. 미발송24/48시간 주요 기록으로 확인했다.",
-      "verified_at": 1794210284,
-      "published_at": 1794174600,
-      "evidence": [
-        {
-          "url": "https://www.chosun.com/sports/basketball/2026/11/09/HFRWEZDEMU2DMOJWGQ3GEZDCGU/",
-          "note": "올랜도전41점을 넣은 커리는35세 이후40득점 이상16경기로 르브론15회와 조던12회를 넘어섰다는 ESPN인용 보도."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.chosun.com/sports/basketball/2026/11/09/HFRWEZDEMU2DMOJWGQ3GEZDCGU/",
-          "label": "확인한 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "NBA 통산 모든 연령의40점 경기 최다로 확대하지 않는다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-08",
-        "observation": "올랜도전41점을 넣은 커리는35세 이후40득점 이상16경기로 르브론15회와 조던12회를 넘어섰다는 ESPN인용 보도.",
-        "checked_materials": [],
-        "outline": [
-          "35세이후40점이상16경기",
-          "르브론15회·조던12회추월"
-        ]
-      }
-    },
-    {
-      "title": "돈치치 빠져도 리브스 43점…레이커스 5연승·서부 선두",
-      "category": "메이저 스포츠",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008837423",
-      "source": "SBS",
-      "kind": "article",
-      "event_key": "lakers-reeves43-without-doncic-pistons-five-streak-20261109",
-      "why": "인지도가 높은 레이커스가 득점 선두의 공백을 이겨내며 서부 선두를 지켰다.",
-      "angle": "돈치치 결장과 리브스43점의 대비,121대116 승리 결과를 제시.",
-      "why_now": "9일 디트로이트전의 새 결과다. 돈치치의 평균40.1점과 당일 결장은 구분한다.",
-      "verified_at": 1794210284,
-      "published_at": 1794204120,
-      "evidence": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008837423",
-          "note": "레이커스가121대116으로디트로이트에승리. 허리통증으로돈치치결장,리브스43점으로5연승·9승2패."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008837423",
-          "label": "확인한 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "돈치치가 시즌아웃됐다는 발표는 없다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-09",
-        "observation": "레이커스가121대116으로디트로이트에승리. 허리통증으로돈치치결장,리브스43점으로5연승·9승2패.",
-        "checked_materials": [],
-        "outline": [
-          "돈치치결장에도리브스43점",
-          "121대116승·5연승·9승2패"
-        ]
-      }
-    },
-    {
-      "title": "코스피, 2.24% 반등도 못 지켰다…5018.85로 하락 마감",
-      "category": "시사",
-      "url": "https://www.mk.co.kr/news/stock/12202543",
-      "source": "매일경제",
-      "kind": "article",
-      "event_key": "kospi-5018-85-close-reverses-2-24-intraday-rebound-20261109",
-      "why": "급락 뒤 반등 시도가 꺾이고5000선에 근접한 국내 시장의 당일 핵심 결과다.",
-      "angle": "장중5172.94와 종가5018.85를 대비하고 하락률0.81%를 정확히 쓴다.",
-      "why_now": "9일15시30분 장 마감 결과이며 이전 발송의6일서킷브레이커와 다른 거래일이다.",
-      "verified_at": 1794210284,
+      "event_key": "yang-seung-woo-wimborne-crawley-fa-cup-first-second-round-20261109",
+      "why": "한국계 아마추어가 프로팀을 꺾은 이변으로 국내외 대중이 이해하기 쉬운 강한 반전이다.",
+      "angle": "직업은 부동산 감정사, 경기에서는 결승골·MVP라는 대비를 앞세운다.",
+      "why_now": "9일 한국시간 경기와 발표다. 이전 미발송24시간 주요 스포츠로 확인했다.",
+      "verified_at": 1794275020,
       "published_at": 1794207480,
       "evidence": [
         {
-          "url": "https://www.mk.co.kr/news/stock/12202543",
-          "note": "코스피는장중한때2.24%오른5172.94까지갔지만전일대비0.81%내린5018.85마감. 장중5000하회후종가는위에남았다."
+          "url": "https://www.yna.co.kr/view/AKR20261109121000007",
+          "note": "7부윔본이4부크롤리에2대0승리해창단첫FA컵2라운드진출. 양승우가전반9분결승골과MVP를기록했고부동산감정사로도일한다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.mk.co.kr/news/stock/12202543",
+          "url": "https://www.yna.co.kr/view/AKR20261109121000007",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "5000선 붕괴 마감으로 쓰지 않는다. 투자 권유나 향후 가격을 예측하지 않는다.",
+      "caution": "상대 크롤리는4부 팀이다. 결승전 득점이 아니라 승부를 결정한 골이며 영상은 미시청.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-09",
-        "observation": "코스피는장중한때2.24%오른5172.94까지갔지만전일대비0.81%내린5018.85마감. 장중5000하회후종가는위에남았다.",
+        "observation": "7부윔본이4부크롤리에2대0승리해창단첫FA컵2라운드진출. 양승우가전반9분결승골과MVP를기록했고부동산감정사로도일한다.",
         "checked_materials": [],
         "outline": [
-          "장중5172.94까지반등",
-          "종가는5018.85·0.81%하락"
+          "부동산감정사양승우,FA컵결승골",
+          "7부윔본이4부프로팀꺾고구단첫2라운드"
         ]
       }
     },
     {
-      "title": "여당 “비거주 1주택도 종부세 14억 공제”…청와대는 기존 방침 유지",
-      "category": "시사",
-      "url": "https://www.chosun.com/politics/politics_general/2026/11/09/5XCPH23KVBCLTMPNETID2K4AYQ/",
-      "source": "조선일보",
+      "title": "메시, FIFPRO 월드 베스트11 통산 18회…발롱도르 케인은 제외",
+      "category": "축구",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838255",
+      "source": "SBS",
       "kind": "article",
-      "event_key": "democrats-request-nonresident-single-home-tax14billion-bluehouse-unchanged-20261108",
-      "why": "주택 세 부담을 좌우하는 전국적 정책 쟁점에서 여당과 정부의 이견이 공개됐다.",
-      "angle": "실거주 여부 없이14억원 공제를 요구한 여당과 기존 방침을 유지한 청와대를 나란히 제시.",
-      "why_now": "8일 고위당정 후 공개된 요구를9일 보도. 미발송24시간 주요 정책으로 검토했다.",
-      "verified_at": 1794210284,
-      "published_at": 1794152520,
+      "event_key": "messi-fifpro-world11-eighteenth-selection-kane-omitted-20261110",
+      "why": "축구 최고 스타의 역대 최다 선정과 발롱도르 수상자 제외가 겹친 주요 수상 결과다.",
+      "angle": "메시18회와 케인 제외라는 확정 명단 결과를 간단히 제시한다.",
+      "why_now": "10일 한국시간 새 명단 발표다. 이전 발송의MLS득점왕과 다른 시상·투표 결과다.",
+      "verified_at": 1794275020,
+      "published_at": 1794264600,
       "evidence": [
         {
-          "url": "https://www.chosun.com/politics/politics_general/2026/11/09/5XCPH23KVBCLTMPNETID2K4AYQ/",
-          "note": "여당은실거주여부와무관한1주택종부세기본공제14억원적용을요구. 청와대는기존방침변화없다고밝혔다."
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838255",
+          "note": "FIFPRO가73개국19806명선수투표의2026월드베스트11발표. 메시역대최다18회선정,케인제외,야말은10대최초2회."
         }
       ],
       "materials": [
         {
-          "url": "https://www.chosun.com/politics/politics_general/2026/11/09/5XCPH23KVBCLTMPNETID2K4AYQ/",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838255",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "여당 요구이며 확정·시행된 제도가 아니다.",
+      "caution": "발롱도르 투표와 FIFPRO 선수 투표는 서로 다른 선정이다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-10",
+        "observation": "FIFPRO가73개국19806명선수투표의2026월드베스트11발표. 메시역대최다18회선정,케인제외,야말은10대최초2회.",
+        "checked_materials": [],
+        "outline": [
+          "메시역대최다18회선정",
+          "발롱도르수상케인은명단제외"
+        ]
+      }
+    },
+    {
+      "title": "18점 앞서던 청두, 막판 4연패로 우승 놓쳤다…다롄 역전 우승",
+      "category": "축구",
+      "url": "https://sports.khan.co.kr/article/202611091126003",
+      "source": "스포츠경향",
+      "kind": "article",
+      "event_key": "chengdu-four-final-losses-dalian-csl-comeback-title-20261108",
+      "why": "압도적인 선두가 마지막에 뒤집힌 극적인 리그 우승 결과이며 서정원 전 감독의 팀으로 국내 연관성도 크다.",
+      "angle": "막판4경기전패와 최종승점52점동률·상대전적우승을 대비한다.",
+      "why_now": "최종전은8일,보도9일이다. 미발송48시간 주요 우승 사건으로 확대 검토했다.",
+      "verified_at": 1794275020,
+      "published_at": 1794191160,
+      "evidence": [
+        {
+          "url": "https://sports.khan.co.kr/article/202611091126003",
+          "note": "청두가산둥에2대3으로져막판4연패. 다롄이톈진에3대1로이겨승점52점동률,상대전적우위로우승했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://sports.khan.co.kr/article/202611091126003",
+          "label": "확인한 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "서정원 감독 교체가 패배의 원인이라는 인과관계는 입증되지 않아 단정하지 않는다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-08",
-        "observation": "여당은실거주여부와무관한1주택종부세기본공제14억원적용을요구. 청와대는기존방침변화없다고밝혔다.",
+        "observation": "청두가산둥에2대3으로져막판4연패. 다롄이톈진에3대1로이겨승점52점동률,상대전적우위로우승했다.",
         "checked_materials": [],
         "outline": [
-          "비거주1주택도14억원공제요구",
-          "청와대기존방침유지·미확정"
+          "중반18점차선두가막판4연패",
+          "최종승점동률,다롄상대전적우승"
+        ]
+      }
+    },
+    {
+      "title": "공화당 의원이 美 국방장관 탄핵안 재발의…이번 주 표결 전망",
+      "category": "시사",
+      "url": "https://www.ytn.co.kr/_ln/0104_202611100613342518",
+      "source": "YTN",
+      "kind": "article",
+      "event_key": "massie-hegseth-eight-articles-impeachment-refiled-20261109",
+      "why": "이란전쟁 책임을 놓고 여당 의원이 국방 수장 탄핵 절차를 다시 연 국제 정치 대형 사건이다.",
+      "angle": "재발의된8개탄핵사유와 향후표결단계를 구분해 제시한다.",
+      "why_now": "9일 현지 하원 본회의에 실제로 다시 제출됐다. 이전 발송의 표결 추진 발언에서 절차가 진전됐다.",
+      "verified_at": 1794275020,
+      "published_at": 1794258780,
+      "evidence": [
+        {
+          "url": "https://www.ytn.co.kr/_ln/0104_202611100613342518",
+          "note": "공화당토머스매시가헤그세스국방장관에대한8개탄핵사유결의안을재제출. 지난9월에는회기조기종료로표결무산."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.ytn.co.kr/_ln/0104_202611100613342518",
+          "label": "확인한 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "탄핵안 제출 단계이며 가결·파면이 아니다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-09",
+        "observation": "공화당토머스매시가헤그세스국방장관에대한8개탄핵사유결의안을재제출. 지난9월에는회기조기종료로표결무산.",
+        "checked_materials": [],
+        "outline": [
+          "공화당매시,국방장관탄핵안재발의",
+          "8개탄핵사유·이번주표결전망"
+        ]
+      }
+    },
+    {
+      "title": "뉴욕증시 급등 속 엔비디아만 4%대 하락…AMD는 10% 넘게 상승",
+      "category": "시사",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838119",
+      "source": "SBS",
+      "kind": "article",
+      "event_key": "nvidia-falls-over4-market-rally-amd-over10-session-20261109",
+      "why": "세계 핵심 AI 반도체 기업의 경영 불확실성이 실제 주가 반응으로 이어진 큰 산업·시장 소식이다.",
+      "angle": "나스닥·반도체지수반등과 엔비디아하락·AMD상승을 대비한다.",
+      "why_now": "9일 미국장 마감 이후10일 보도. 이전 발송의이사회조사착수와 다른 실제시장결과다.",
+      "verified_at": 1794275020,
+      "published_at": 1794258840,
+      "evidence": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838119",
+          "note": "SBS보도에따르면나스닥은3%가까이,반도체지수는약7%상승. 엔비디아는장중약9%하락후4%대하락마감,AMD10%넘게상승."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838119",
+          "label": "확인한 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "주가 등락은 해당 거래일 결과다. 의혹·주가 원인 분석과 확인된 기밀 유출 사실을 혼동하지 않는다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-09",
+        "observation": "SBS보도에따르면나스닥은3%가까이,반도체지수는약7%상승. 엔비디아는장중약9%하락후4%대하락마감,AMD10%넘게상승.",
+        "checked_materials": [],
+        "outline": [
+          "뉴욕증시반등에도엔비디아4%대하락",
+          "AMD10%넘게상승·AI산업경영불확실성"
         ]
       }
     }
