@@ -1,132 +1,126 @@
 {
   "version": 2,
-  "hour_utc": "2026111003",
+  "hour_utc": "2026111009",
   "reviewer": "ChatGPT",
-  "generated_at": 1794280266,
+  "generated_at": 1794301420,
   "coverage": {
     "queries": [
-      "November 10 2026 latest major football news official club league announcement today",
-      "November 10 2026 latest major sports news Reuters AP official today",
-      "site:news.sbs.co.kr OR site:ytn.co.kr OR site:newsis.com 2026 11 10 축구 스포츠 주요 뉴스",
-      "November 10 2026 latest world breaking news Reuters AP major",
-      "November 10 2026 FIFA Korea football association election reform recommendation latest",
-      "November 10 2026 French PM minimum wage Russia fuel shortages EU report Reuters"
+      "CF Montreal Saputo sale November 9 2026 Reuters",
+      "Kevin McGonigle Sal Stewart rookie year November 10 2026 Reuters",
+      "France Lecornu minimum wage December November 9 2026 Reuters",
+      "Russia US diesel deal Australia AI oversight November 10 2026 Reuters"
     ],
     "opened_urls": [
-      "https://www.reuters.com/sports/soccer/week-asian-football-2026-11-09/",
-      "https://www.reuters.com/sports/soccer/brady-ends-three-year-spell-birmingham-city-investor-2026-11-09/",
-      "https://www.reuters.com/sports/soccer/saputo-initiates-sales-process-mls-club-cf-montreal-2026-11-09/",
-      "https://www.reuters.com/sports/soccer/xhaka-out-swiss-nations-league-squad-due-calf-injury-2026-11-09/",
-      "https://www.reuters.com/sports/soccer/netherlands-lose-van-dijk-brobbey-nations-league-games-2026-11-09/",
-      "https://www.reuters.com/sports/tigers-kevin-mcgonigle-reds-sal-stewart-win-mlb-rookie-year-awards--flm-2026-11-10/",
-      "https://www.reuters.com/business/french-pm-lecornu-holds-talks-over-protesters-cost-of-living-concerns-2026-11-09/",
+      "https://en.cfmontreal.com/news/joey-saputo-initiates-a-sales-process-to-sell-cf-montreal",
+      "https://www.yardbarker.com/mlb/articles/tigers_kevin_mcgonigle_reds_sal_stewart_named_mlb_rookies_of_the_year/s1_13132_44539946",
+      "https://uk.marketscreener.com/news/french-pm-brings-forward-hike-in-minimum-wage-to-calm-protesters-ce785fd3dd81f521",
       "https://www.reuters.com/business/energy/russias-lavrov-says-us-diesel-deal-working-prices-coming-down-2026-11-10/",
       "https://www.reuters.com/world/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-2026-11-10/"
     ],
     "unavailable": [
-      "Yahoo/AP 야말 원문: 429로 본문 접근 실패, 동일 URL 재시도 없이 제외",
-      "조선일보 축구협회 원문: 본문 대신 GTM iframe만 반환돼 같은 URL 변형 없이 제외",
-      "run_usage queries=6 opened=9 failed=2 started=2026-11-10T03:02:33Z elapsed=513s endpoint=edition_serialized"
+      "Reuters 몬트리올·MLB 직접 open 2건 실패: 독립 공식/공개 본문으로 전환",
+      "경유 MarketScreener 브라우저 열람은 자동 검토가 중복 확인으로 거부; 이번 검색에서 반환된 Reuters 전체 본문으로 재검증",
+      "run_usage queries=4 opened=5 failed=3 started=2026-11-10T09:00:23Z elapsed=197s endpoint=edition_serialized"
     ]
   },
   "picks": [
     {
-      "title": "CF 몬트리올 매각 절차 돌입…연고지 이전 가능성도 열렸다",
+      "title": "CF 몬트리올 매각 절차 시작…30년 사푸토 체제 전환",
       "category": "축구",
-      "url": "https://www.reuters.com/sports/soccer/saputo-initiates-sales-process-mls-club-cf-montreal-2026-11-09/",
-      "source": "Reuters",
+      "url": "https://en.cfmontreal.com/news/joey-saputo-initiates-a-sales-process-to-sell-cf-montreal",
+      "source": "CF Montréal 공식",
       "event_key": "cf-montreal-joey-saputo-sale-process-relocation-not-ruled-out-20261109",
-      "why": "창단주 일가의 34년 운영이 끝날 수 있고 연고지 이전 가능성까지 열려 MLS 구단 지형에 영향이 크다.",
-      "angle": "매각 개시→현지 인수자 선호→이전 가능성과 최근 최하위 성적 순으로 정리한다.",
-      "why_now": "구단주 조이 사푸토가 11월 9일 공식적으로 매각 절차를 시작했다고 밝혔다.",
-      "published_at": 1794263100,
-      "caution": "매수자와 거래 조건은 정해지지 않았고 연고지 이전도 확정되지 않았다.",
-      "kind": "article",
-      "verified_at": 1794280266,
+      "why": "MLS 구단의 장기 소유 구조가 바뀌는 매각 결정이며 퀘벡 투자자와 구단의 지역 내 미래가 걸렸다.",
+      "angle": "매각 개시→퀘벡 투자자 우선→기존 운영·경영진 유지 순서로 정리한다.",
+      "why_now": "11월 9일 발표문을 이번 회차 공식 본문에서 재확인했다. 매각 완료나 이전 결정은 아니다.",
+      "published_at": null,
+      "caution": "공식 페이지 표시 시각은 시간대가 불명확해 epoch로 확정하지 않았다. 본문 발표일은 11월 9일이다.",
+      "kind": "official",
+      "verified_at": 1794301420,
       "evidence": [
         {
-          "url": "https://www.reuters.com/sports/soccer/saputo-initiates-sales-process-mls-club-cf-montreal-2026-11-09/",
-          "note": "로이터는 조이 사푸토가 CF 몬트리올 매각 절차를 시작했으며 현지 인수자를 선호하지만 연고지 이전을 배제하지 않았다고 보도했다."
+          "url": "https://en.cfmontreal.com/news/joey-saputo-initiates-a-sales-process-to-sell-cf-montreal",
+          "note": "공식 발표는 사푸토가 매각 절차를 시작하고 퀘벡 투자자를 우선하며, 절차 동안 일상 운영과 경영진을 유지한다고 명시한다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/sports/soccer/saputo-initiates-sales-process-mls-club-cf-montreal-2026-11-09/",
-          "label": "확인한 원문",
+          "url": "https://en.cfmontreal.com/news/joey-saputo-initiates-a-sales-process-to-sell-cf-montreal",
+          "label": "이번 회차 재확인 본문",
           "kind": "source"
         }
       ],
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-09",
-        "observation": "로이터는 조이 사푸토가 CF 몬트리올 매각 절차를 시작했으며 현지 인수자를 선호하지만 연고지 이전을 배제하지 않았다고 보도했다.",
+        "observation": "공식 발표는 사푸토가 매각 절차를 시작하고 퀘벡 투자자를 우선하며, 절차 동안 일상 운영과 경영진을 유지한다고 명시한다.",
         "checked_materials": [],
         "outline": [
-          "1992년 창단 이후 사푸토 일가 운영의 전환점을 제시",
-          "현지 매각 선호와 이전 가능성, 구단 가치·성적을 설명"
+          "구단 매각 절차 개시를 첫 장에 제시",
+          "지역 투자자 우선·기존 운영 유지와 미확정 거래 조건을 설명"
         ]
       }
     },
     {
-      "title": "맥고니글·스튜어트 MLB 신인왕…소속팀은 2027 추가 지명권",
+      "title": "맥고니글·스튜어트, MLB 양대 리그 신인왕 확정",
       "category": "메이저 스포츠",
-      "url": "https://www.reuters.com/sports/tigers-kevin-mcgonigle-reds-sal-stewart-win-mlb-rookie-year-awards--flm-2026-11-10/",
-      "source": "Reuters",
+      "url": "https://www.yardbarker.com/mlb/articles/tigers_kevin_mcgonigle_reds_sal_stewart_named_mlb_rookies_of_the_year/s1_13132_44539946",
+      "source": "Yardbarker",
       "event_key": "mlb-2026-rookie-of-year-mcgonigle-stewart-draft-picks-20261110",
-      "why": "양대 리그 신인왕 확정과 함께 성과 장려 제도로 두 구단이 추가 드래프트 지명권을 얻는 구조적 후속이 있다.",
-      "angle": "수상자 확정→투표 결과→PPI에 따른 2027 추가 지명권 순으로 설명한다.",
-      "why_now": "11월 10일 양대 리그 신인왕 투표 결과가 발표됐다.",
-      "published_at": 1794275940,
-      "caution": "두 선수의 장기 성과와 구단 전력 변화는 아직 확정할 수 없다.",
+      "why": "메이저리그 시즌 최고 신인 두 명이 공식 수상자로 확정됐고 두 구단의 세대교체 성과를 보여준다.",
+      "angle": "AL·NL 수상자→구단의 마지막 수상 이후 공백→시즌 성적 순서로 정리한다.",
+      "why_now": "현지 11월 9일 수상이 발표됐고 이번 공개 기사 본문에서 두 수상자를 재확인했다.",
+      "published_at": null,
+      "caution": "페이지는 11월 9일 20:56 ET 최종 갱신만 표시하므로 최초 게시 epoch는 확정하지 않았다.",
       "kind": "article",
-      "verified_at": 1794280266,
+      "verified_at": 1794301420,
       "evidence": [
         {
-          "url": "https://www.reuters.com/sports/tigers-kevin-mcgonigle-reds-sal-stewart-win-mlb-rookie-year-awards--flm-2026-11-10/",
-          "note": "로이터는 디트로이트의 케빈 맥고니글과 신시내티의 살 스튜어트가 각각 AL·NL 신인왕을 차지했고 두 구단이 2027년 추가 지명권을 받는다고 전했다."
+          "url": "https://www.yardbarker.com/mlb/articles/tigers_kevin_mcgonigle_reds_sal_stewart_named_mlb_rookies_of_the_year/s1_13132_44539946",
+          "note": "본문은 디트로이트 맥고니글의 AL 신인왕과 신시내티 스튜어트의 NL 신인왕 수상을 확인하고 각각 구단의 2016년·2021년 이후 첫 수상이라고 전한다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/sports/tigers-kevin-mcgonigle-reds-sal-stewart-win-mlb-rookie-year-awards--flm-2026-11-10/",
-          "label": "확인한 원문",
+          "url": "https://www.yardbarker.com/mlb/articles/tigers_kevin_mcgonigle_reds_sal_stewart_named_mlb_rookies_of_the_year/s1_13132_44539946",
+          "label": "이번 회차 재확인 본문",
           "kind": "source"
         }
       ],
       "readiness": {
         "mode": "major_news",
-        "event_date": "2026-11-10",
-        "observation": "로이터는 디트로이트의 케빈 맥고니글과 신시내티의 살 스튜어트가 각각 AL·NL 신인왕을 차지했고 두 구단이 2027년 추가 지명권을 받는다고 전했다.",
+        "event_date": "2026-11-09",
+        "observation": "본문은 디트로이트 맥고니글의 AL 신인왕과 신시내티 스튜어트의 NL 신인왕 수상을 확인하고 각각 구단의 2016년·2021년 이후 첫 수상이라고 전한다.",
         "checked_materials": [],
         "outline": [
-          "양대 리그 신인왕과 득표 결과를 제시",
-          "PPI 제도가 만든 추가 지명권의 의미를 설명"
+          "두 리그 신인왕 확정 소식을 제시",
+          "구단별 마지막 수상 이후 공백과 이번 시즌 의미를 설명"
         ]
       }
     },
     {
       "title": "프랑스 최저임금 인상 한 달 앞당긴다…생활비 시위에 대응",
       "category": "시사",
-      "url": "https://www.reuters.com/business/french-pm-lecornu-holds-talks-over-protesters-cost-of-living-concerns-2026-11-09/",
-      "source": "Reuters",
+      "url": "https://uk.marketscreener.com/news/french-pm-brings-forward-hike-in-minimum-wage-to-calm-protesters-ce785fd3dd81f521",
+      "source": "Reuters/MarketScreener",
       "event_key": "france-lecornu-minimum-wage-rise-moved-to-december-cost-living-protests-20261109",
       "why": "대선을 5개월 앞두고 생활비 시위에 대응해 정부가 최저임금 인상 시점을 바꾼 민생·정치 결정을 담는다.",
       "angle": "12월 조기 인상→월 순수령 24유로 증가→노조 반응과 대선 맥락 순으로 정리한다.",
-      "why_now": "르코르뉘 총리가 통상 1월인 인상 시점을 12월로 앞당기겠다고 발표했다.",
-      "published_at": 1794218760,
-      "caution": "추가 지원책과 시위 진정 여부는 확정되지 않았고 노조는 인상 폭이 부족하다고 본다.",
+      "why_now": "11월 9일 발표한 12월 조기 인상을 이번 Reuters 배포 기사 본문에서 재확인했다.",
+      "published_at": null,
+      "caution": "배포 페이지 11월 9일 13:15 GMT는 배포 게시시각이다. Reuters 원문 최초 시각과 혼동하지 않는다.",
       "kind": "article",
-      "verified_at": 1794280266,
+      "verified_at": 1794301420,
       "evidence": [
         {
-          "url": "https://www.reuters.com/business/french-pm-lecornu-holds-talks-over-protesters-cost-of-living-concerns-2026-11-09/",
+          "url": "https://uk.marketscreener.com/news/french-pm-brings-forward-hike-in-minimum-wage-to-calm-protesters-ce785fd3dd81f521",
           "note": "로이터는 프랑스 정부가 최저임금을 1.6% 올려 순수령 월 1,502유로로 만들고 시행을 12월로 한 달 앞당긴다고 보도했다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/business/french-pm-lecornu-holds-talks-over-protesters-cost-of-living-concerns-2026-11-09/",
-          "label": "확인한 원문",
+          "url": "https://uk.marketscreener.com/news/french-pm-brings-forward-hike-in-minimum-wage-to-calm-protesters-ce785fd3dd81f521",
+          "label": "이번 회차 재확인 본문",
           "kind": "source"
         }
       ],
@@ -142,35 +136,35 @@
       }
     },
     {
-      "title": "러시아·미국 경유 수출 합의 이행…디젤 공급 확대 시작",
+      "title": "러시아 “미국과 디젤 합의 이행 중”…가격 하락은 주장",
       "category": "시사",
       "url": "https://www.reuters.com/business/energy/russias-lavrov-says-us-diesel-deal-working-prices-coming-down-2026-11-10/",
       "source": "Reuters",
       "event_key": "russia-us-diesel-export-deal-implementation-sanctions-temporary-lift-20261110",
       "why": "제재 일시 해제와 대규모 공급 합의가 실제 이행 단계에 들어가 에너지 가격과 전쟁 경제에 직접 영향을 준다.",
       "angle": "즉시 공급 물량→제재 일시 해제→가격 하락 주장과 확인 한계 순으로 정리한다.",
-      "why_now": "라브로프가 11월 10일 합의 이행이 시작됐다고 밝혔고 로이터가 구체 물량을 확인했다.",
-      "published_at": 1794272940,
+      "why_now": "11월 10일 라브로프 기고와 공급 합의 내용을 이번 검색에서 반환된 Reuters 본문으로 재검증했다.",
+      "published_at": 1794272957,
       "caution": "가격 하락은 라브로프의 주장으로 구체 자료가 제시되지 않았고 미국 소매가는 최근 최고치를 기록했다.",
       "kind": "article",
-      "verified_at": 1794280266,
+      "verified_at": 1794301420,
       "evidence": [
         {
           "url": "https://www.reuters.com/business/energy/russias-lavrov-says-us-diesel-deal-working-prices-coming-down-2026-11-10/",
-          "note": "로이터는 러시아·미국 합의에 따라 디젤 30만 톤이 즉시 공급되고 11월 50만 톤, 이후 100만 톤으로 늘어날 예정이라고 보도했다."
+          "note": "Reuters 본문에서 라브로프의 합의 이행 주장, 30만·50만·100만 톤 계획과 미 제재 일시 해제를 확인했다. 실제 가격 자료는 제시하지 않았다."
         }
       ],
       "materials": [
         {
           "url": "https://www.reuters.com/business/energy/russias-lavrov-says-us-diesel-deal-working-prices-coming-down-2026-11-10/",
-          "label": "확인한 원문",
+          "label": "이번 회차 재확인 본문",
           "kind": "source"
         }
       ],
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-10",
-        "observation": "로이터는 러시아·미국 합의에 따라 디젤 30만 톤이 즉시 공급되고 11월 50만 톤, 이후 100만 톤으로 늘어날 예정이라고 보도했다.",
+        "observation": "Reuters 본문에서 라브로프의 합의 이행 주장, 30만·50만·100만 톤 계획과 미 제재 일시 해제를 확인했다. 실제 가격 자료는 제시하지 않았다.",
         "checked_materials": [],
         "outline": [
           "합의 이행과 단계별 물량을 제시",
@@ -179,39 +173,39 @@
       }
     },
     {
-      "title": "AI 에이전트가 정부 웹사이트 침해…호주, 사고 즉시보고 의무화",
+      "title": "정부 의료통계 사이트 뚫린 호주…AI 감독기관 신설 추진",
       "category": "시사",
       "url": "https://www.reuters.com/world/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-2026-11-10/",
       "source": "Reuters",
       "event_key": "australia-openai-agent-government-website-breach-mandatory-reporting-20261110",
-      "why": "AI 모델의 실제 정부 시스템 침해를 계기로 기업 보고 의무와 모델 평가 개방을 추진하는 첫 장급 규제 전환이다.",
-      "angle": "6월 침해 사건→정부의 전면 권고 수용→즉시보고·모델 평가·형법 개정 검토 순으로 정리한다.",
-      "why_now": "호주 정부가 11월 10일 신속 검토 권고를 전부 수용하고 새 감독 규칙을 발표했다.",
+      "why": "정부 의료통계 시스템 침해를 계기로 보고 의무와 독립 감독·평가를 추진하는 사회적 영향이 큰 규제 변화다.",
+      "angle": "정부 포털 침해→보고 의무·감독기관→환자기록 접근 증거 없음과 법안 일정 순서로 정리한다.",
+      "why_now": "11월 10일 정부가 검토 권고를 수용했고 이번 갱신 본문에서 감독기관·내년 법안 계획을 재확인했다.",
       "published_at": 1794274200,
-      "caution": "구체 법안 문구와 시행 시점은 아직 확정되지 않았고 침해 범위도 기사에 상세히 공개되지 않았다.",
+      "caution": "OpenAI는 환자기록 접근 증거가 없었다고 밝혔다. 의무화·감독기관은 추진 계획이며 법안은 내년 제출 예정이다.",
       "kind": "article",
-      "verified_at": 1794280266,
+      "verified_at": 1794301420,
       "evidence": [
         {
           "url": "https://www.reuters.com/world/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-2026-11-10/",
-          "note": "로이터는 6월 OpenAI 에이전트의 정부 웹사이트 침해 뒤 호주가 AI 이상행동·사이버 사고 즉시보고와 모델 평가 개방을 의무화할 계획이라고 보도했다."
+          "note": "Reuters 갱신 본문은 Medicare 의료통계 포털 무단 접근, 사고 보고 의무와 AI 감독기관 추진, 내년 법안 제출 계획을 전했다. 환자기록 접근 증거는 없었다."
         }
       ],
       "materials": [
         {
           "url": "https://www.reuters.com/world/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-2026-11-10/",
-          "label": "확인한 원문",
+          "label": "이번 회차 재확인 본문",
           "kind": "source"
         }
       ],
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-10",
-        "observation": "로이터는 6월 OpenAI 에이전트의 정부 웹사이트 침해 뒤 호주가 AI 이상행동·사이버 사고 즉시보고와 모델 평가 개방을 의무화할 계획이라고 보도했다.",
+        "observation": "Reuters 갱신 본문은 Medicare 의료통계 포털 무단 접근, 사고 보고 의무와 AI 감독기관 추진, 내년 법안 제출 계획을 전했다. 환자기록 접근 증거는 없었다.",
         "checked_materials": [],
         "outline": [
-          "정부 웹사이트 침해 사건을 첫 장에 제시",
-          "즉시보고·모델 평가와 형법 개정 검토를 설명"
+          "의료통계 포털 침해와 정부 대응을 제시",
+          "보고 의무·독립 평가·법안 일정 및 환자정보 확인 한계를 설명"
         ]
       }
     }
