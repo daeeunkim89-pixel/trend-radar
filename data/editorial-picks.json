@@ -1,214 +1,217 @@
 {
   "version": 2,
-  "hour_utc": "2026111002",
+  "hour_utc": "2026111003",
   "reviewer": "ChatGPT",
-  "generated_at": 1794276513,
+  "generated_at": 1794280266,
   "coverage": {
     "queries": [
-      "2026 November 10 major football sports news official site latest",
-      "2026 November 10 major world news Reuters AP latest",
-      "site:yna.co.kr OR site:ytn.co.kr OR site:news.sbs.co.kr 2026 11 10 주요 뉴스 스포츠",
-      "site:fifa.com OR site:uefa.com OR site:formula1.com OR site:atptour.com November 10 2026 announcement",
-      "November 10 2026 major sports football announcement FIFA association election Reuters sports",
-      "November 10 2026 Reuters rare earth controls Novaya Gazeta Russell Brand latest major news"
+      "November 10 2026 latest major football news official club league announcement today",
+      "November 10 2026 latest major sports news Reuters AP official today",
+      "site:news.sbs.co.kr OR site:ytn.co.kr OR site:newsis.com 2026 11 10 축구 스포츠 주요 뉴스",
+      "November 10 2026 latest world breaking news Reuters AP major",
+      "November 10 2026 FIFA Korea football association election reform recommendation latest",
+      "November 10 2026 French PM minimum wage Russia fuel shortages EU report Reuters"
     ],
     "opened_urls": [
-      "https://www.reuters.com/world/europe/russia-ukraine-meet-us-backed-talks-after-trump-says-broad-deal-possible-2026-11-10/",
-      "https://apnews.com/article/a4a74dab93a32c094e2a5b0a5105578d",
-      "https://www.investing.com/news/commodities-news/china-extends-suspension-of-new-rare-earth-controls-until-january-5010878",
-      "https://www.streetinsider.com/Reuters/UK%27s%2BRussell%2BBrand%2Bsentenced%2Bto%2B10-and-a-half%2Byears%2Bin%2Bjail%2Bfor%2Brape%2C%2Bsexual%2Bassault/27310045.html",
-      "https://www.streetinsider.com/Reuters/Iran%2Bdefends%2Btwo-day%2Bproposal%2Bfor%2Bpeace%2Btalks%2Bafter%2BUS%2Brejects%2Bconditions/27309958.html",
-      "https://theprint.in/world/lights-go-out-at-russias-novaya-gazeta-after-years-of-defiant-reporting/3094307/"
+      "https://www.reuters.com/sports/soccer/week-asian-football-2026-11-09/",
+      "https://www.reuters.com/sports/soccer/brady-ends-three-year-spell-birmingham-city-investor-2026-11-09/",
+      "https://www.reuters.com/sports/soccer/saputo-initiates-sales-process-mls-club-cf-montreal-2026-11-09/",
+      "https://www.reuters.com/sports/soccer/xhaka-out-swiss-nations-league-squad-due-calf-injury-2026-11-09/",
+      "https://www.reuters.com/sports/soccer/netherlands-lose-van-dijk-brobbey-nations-league-games-2026-11-09/",
+      "https://www.reuters.com/sports/tigers-kevin-mcgonigle-reds-sal-stewart-win-mlb-rookie-year-awards--flm-2026-11-10/",
+      "https://www.reuters.com/business/french-pm-lecornu-holds-talks-over-protesters-cost-of-living-concerns-2026-11-09/",
+      "https://www.reuters.com/business/energy/russias-lavrov-says-us-diesel-deal-working-prices-coming-down-2026-11-10/",
+      "https://www.reuters.com/world/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-2026-11-10/"
     ],
     "unavailable": [
-      "AP 노바야 가제타 원문: DisabledError로 본문 접근 실패, 독립 공개 Reuters/ThePrint 원문으로 전환",
-      "연합뉴스TV FIFA·대한축구협회 기사: 403으로 본문 접근 실패, 같은 URL 변형 재시도 없이 제외",
-      "run_usage queries=6 opened=6 failed=2 started=2026-11-10T02:02:19Z elapsed=374s endpoint=edition_serialized"
+      "Yahoo/AP 야말 원문: 429로 본문 접근 실패, 동일 URL 재시도 없이 제외",
+      "조선일보 축구협회 원문: 본문 대신 GTM iframe만 반환돼 같은 URL 변형 없이 제외",
+      "run_usage queries=6 opened=9 failed=2 started=2026-11-10T03:02:33Z elapsed=513s endpoint=edition_serialized"
     ]
   },
   "picks": [
     {
-      "title": "9개월 만에 러·우 3자협상 재개…영토·유럽 참여 놓고 간극",
-      "category": "시사",
-      "url": "https://www.reuters.com/world/europe/russia-ukraine-meet-us-backed-talks-after-trump-says-broad-deal-possible-2026-11-10/",
+      "title": "CF 몬트리올 매각 절차 돌입…연고지 이전 가능성도 열렸다",
+      "category": "축구",
+      "url": "https://www.reuters.com/sports/soccer/saputo-initiates-sales-process-mls-club-cf-montreal-2026-11-09/",
       "source": "Reuters",
+      "event_key": "cf-montreal-joey-saputo-sale-process-relocation-not-ruled-out-20261109",
+      "why": "창단주 일가의 34년 운영이 끝날 수 있고 연고지 이전 가능성까지 열려 MLS 구단 지형에 영향이 크다.",
+      "angle": "매각 개시→현지 인수자 선호→이전 가능성과 최근 최하위 성적 순으로 정리한다.",
+      "why_now": "구단주 조이 사푸토가 11월 9일 공식적으로 매각 절차를 시작했다고 밝혔다.",
+      "published_at": 1794263100,
+      "caution": "매수자와 거래 조건은 정해지지 않았고 연고지 이전도 확정되지 않았다.",
       "kind": "article",
-      "event_key": "russia-ukraine-abu-dhabi-talks-opened-first-since-february-20261110",
-      "why": "전쟁 종결과 유럽 안보를 함께 다루는 고위급 협상이 실제 개시돼 국제 파급력이 크다.",
-      "angle": "회담 재개 사실→돈바스 영토 쟁점→유럽이 별도 브리핑만 받는 구조 순서로 정리한다.",
-      "why_now": "11월 10일 아부다비에서 2일 일정 회담이 실제 시작된 점이 기존 예정 보도의 새 후속이다.",
-      "verified_at": 1794276513,
-      "published_at": null,
+      "verified_at": 1794280266,
       "evidence": [
         {
-          "url": "https://www.reuters.com/world/europe/russia-ukraine-meet-us-backed-talks-after-trump-says-broad-deal-possible-2026-11-10/",
-          "note": "로이터는 러시아·우크라이나 대표단이 미국 중재로 11월 10일 아부다비에서 2일간 회담을 시작하며, 2월 이후 첫 회담이라고 보도했다."
+          "url": "https://www.reuters.com/sports/soccer/saputo-initiates-sales-process-mls-club-cf-montreal-2026-11-09/",
+          "note": "로이터는 조이 사푸토가 CF 몬트리올 매각 절차를 시작했으며 현지 인수자를 선호하지만 연고지 이전을 배제하지 않았다고 보도했다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/world/europe/russia-ukraine-meet-us-backed-talks-after-trump-says-broad-deal-possible-2026-11-10/",
+          "url": "https://www.reuters.com/sports/soccer/saputo-initiates-sales-process-mls-club-cf-montreal-2026-11-09/",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "협상 타결 여부와 영토 양보는 확정되지 않았다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-09",
+        "observation": "로이터는 조이 사푸토가 CF 몬트리올 매각 절차를 시작했으며 현지 인수자를 선호하지만 연고지 이전을 배제하지 않았다고 보도했다.",
+        "checked_materials": [],
+        "outline": [
+          "1992년 창단 이후 사푸토 일가 운영의 전환점을 제시",
+          "현지 매각 선호와 이전 가능성, 구단 가치·성적을 설명"
+        ]
+      }
+    },
+    {
+      "title": "맥고니글·스튜어트 MLB 신인왕…소속팀은 2027 추가 지명권",
+      "category": "메이저 스포츠",
+      "url": "https://www.reuters.com/sports/tigers-kevin-mcgonigle-reds-sal-stewart-win-mlb-rookie-year-awards--flm-2026-11-10/",
+      "source": "Reuters",
+      "event_key": "mlb-2026-rookie-of-year-mcgonigle-stewart-draft-picks-20261110",
+      "why": "양대 리그 신인왕 확정과 함께 성과 장려 제도로 두 구단이 추가 드래프트 지명권을 얻는 구조적 후속이 있다.",
+      "angle": "수상자 확정→투표 결과→PPI에 따른 2027 추가 지명권 순으로 설명한다.",
+      "why_now": "11월 10일 양대 리그 신인왕 투표 결과가 발표됐다.",
+      "published_at": 1794275940,
+      "caution": "두 선수의 장기 성과와 구단 전력 변화는 아직 확정할 수 없다.",
+      "kind": "article",
+      "verified_at": 1794280266,
+      "evidence": [
+        {
+          "url": "https://www.reuters.com/sports/tigers-kevin-mcgonigle-reds-sal-stewart-win-mlb-rookie-year-awards--flm-2026-11-10/",
+          "note": "로이터는 디트로이트의 케빈 맥고니글과 신시내티의 살 스튜어트가 각각 AL·NL 신인왕을 차지했고 두 구단이 2027년 추가 지명권을 받는다고 전했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.reuters.com/sports/tigers-kevin-mcgonigle-reds-sal-stewart-win-mlb-rookie-year-awards--flm-2026-11-10/",
+          "label": "확인한 원문",
+          "kind": "source"
+        }
+      ],
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-10",
-        "observation": "로이터는 러시아·우크라이나 대표단이 미국 중재로 11월 10일 아부다비에서 2일간 회담을 시작하며, 2월 이후 첫 회담이라고 보도했다.",
+        "observation": "로이터는 디트로이트의 케빈 맥고니글과 신시내티의 살 스튜어트가 각각 AL·NL 신인왕을 차지했고 두 구단이 2027년 추가 지명권을 받는다고 전했다.",
         "checked_materials": [],
         "outline": [
-          "2월 이후 첫 3자협상 재개를 첫 장에 제시",
-          "돈바스 영토와 유럽 참여 문제가 남은 핵심 쟁점임을 설명"
+          "양대 리그 신인왕과 득표 결과를 제시",
+          "PPI 제도가 만든 추가 지명권의 의미를 설명"
         ]
       }
     },
     {
-      "title": "중국, 희토류 수출통제 유예 2개월 연장…미·중 협상 숨통",
+      "title": "프랑스 최저임금 인상 한 달 앞당긴다…생활비 시위에 대응",
       "category": "시사",
-      "url": "https://www.investing.com/news/commodities-news/china-extends-suspension-of-new-rare-earth-controls-until-january-5010878",
-      "source": "Reuters/Investing.com",
+      "url": "https://www.reuters.com/business/french-pm-lecornu-holds-talks-over-protesters-cost-of-living-concerns-2026-11-09/",
+      "source": "Reuters",
+      "event_key": "france-lecornu-minimum-wage-rise-moved-to-december-cost-living-protests-20261109",
+      "why": "대선을 5개월 앞두고 생활비 시위에 대응해 정부가 최저임금 인상 시점을 바꾼 민생·정치 결정을 담는다.",
+      "angle": "12월 조기 인상→월 순수령 24유로 증가→노조 반응과 대선 맥락 순으로 정리한다.",
+      "why_now": "르코르뉘 총리가 통상 1월인 인상 시점을 12월로 앞당기겠다고 발표했다.",
+      "published_at": 1794218760,
+      "caution": "추가 지원책과 시위 진정 여부는 확정되지 않았고 노조는 인상 폭이 부족하다고 본다.",
       "kind": "article",
-      "event_key": "china-rare-earth-export-control-waiver-extended-january10-20261109",
-      "why": "반도체·배터리 공급망에 직접 영향을 주는 희토류 통제 완화로 세계 산업과 미·중 관계에 중요하다.",
-      "angle": "유예 연장 기간→기존 통제 범위→APEC 정상회담을 앞둔 협상 맥락을 연결한다.",
-      "why_now": "중국 상무부가 11월 9일 기존 유예를 2027년 1월 10일까지 연장한다고 새로 발표했다.",
-      "verified_at": 1794276513,
-      "published_at": null,
+      "verified_at": 1794280266,
       "evidence": [
         {
-          "url": "https://www.investing.com/news/commodities-news/china-extends-suspension-of-new-rare-earth-controls-until-january-5010878",
-          "note": "로이터 원문은 중국 상무부가 희토류·산업용 다이아몬드·배터리 기술 관련 통제 유예를 두 달 연장했다고 전했다."
+          "url": "https://www.reuters.com/business/french-pm-lecornu-holds-talks-over-protesters-cost-of-living-concerns-2026-11-09/",
+          "note": "로이터는 프랑스 정부가 최저임금을 1.6% 올려 순수령 월 1,502유로로 만들고 시행을 12월로 한 달 앞당긴다고 보도했다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.investing.com/news/commodities-news/china-extends-suspension-of-new-rare-earth-controls-until-january-5010878",
+          "url": "https://www.reuters.com/business/french-pm-lecornu-holds-talks-over-protesters-cost-of-living-concerns-2026-11-09/",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-09",
-        "observation": "로이터 원문은 중국 상무부가 희토류·산업용 다이아몬드·배터리 기술 관련 통제 유예를 두 달 연장했다고 전했다.",
+        "observation": "로이터는 프랑스 정부가 최저임금을 1.6% 올려 순수령 월 1,502유로로 만들고 시행을 12월로 한 달 앞당긴다고 보도했다.",
         "checked_materials": [],
         "outline": [
-          "희토류 통제 유예 2개월 연장을 첫 장에 배치",
-          "미·중 무역협상과 APEC 정상회담의 의미를 후속 카드로 설명"
+          "최저임금 조기 인상 결정과 실제 금액을 제시",
+          "생활비 시위·노조 반응·대선 전 민생 압박을 설명"
         ]
       }
     },
     {
-      "title": "러 독립언론 노바야 가제타, 30년 만에 모스크바 사무실 폐쇄",
+      "title": "러시아·미국 경유 수출 합의 이행…디젤 공급 확대 시작",
       "category": "시사",
-      "url": "https://theprint.in/world/lights-go-out-at-russias-novaya-gazeta-after-years-of-defiant-reporting/3094307/",
-      "source": "Reuters/ThePrint",
+      "url": "https://www.reuters.com/business/energy/russias-lavrov-says-us-diesel-deal-working-prices-coming-down-2026-11-10/",
+      "source": "Reuters",
+      "event_key": "russia-us-diesel-export-deal-implementation-sanctions-temporary-lift-20261110",
+      "why": "제재 일시 해제와 대규모 공급 합의가 실제 이행 단계에 들어가 에너지 가격과 전쟁 경제에 직접 영향을 준다.",
+      "angle": "즉시 공급 물량→제재 일시 해제→가격 하락 주장과 확인 한계 순으로 정리한다.",
+      "why_now": "라브로프가 11월 10일 합의 이행이 시작됐다고 밝혔고 로이터가 구체 물량을 확인했다.",
+      "published_at": 1794272940,
+      "caution": "가격 하락은 라브로프의 주장으로 구체 자료가 제시되지 않았고 미국 소매가는 최근 최고치를 기록했다.",
       "kind": "article",
-      "event_key": "novaya-gazeta-moscow-office-operations-closed-state-pressure-20261109",
-      "why": "노벨평화상 수상자가 공동 설립한 러시아 대표 독립언론의 폐쇄로 언론 자유 문제의 상징성이 크다.",
-      "angle": "사무실 폐쇄→당국 압박 주장→전시 러시아의 언론 자유 위축 순으로 구성한다.",
-      "why_now": "11월 9일 실제 마지막 편집회의와 사무실 철수가 진행돼 예고 단계에서 현실의 폐쇄로 바뀌었다.",
-      "verified_at": 1794276513,
-      "published_at": 1794225600,
+      "verified_at": 1794280266,
       "evidence": [
         {
-          "url": "https://theprint.in/world/lights-go-out-at-russias-novaya-gazeta-after-years-of-defiant-reporting/3094307/",
-          "note": "로이터는 노바야 가제타가 11월 9일 운영을 마치고 모스크바 중앙 사무실을 떠났으며, 무라토프가 언론 자유와 인권을 호소했다고 보도했다."
+          "url": "https://www.reuters.com/business/energy/russias-lavrov-says-us-diesel-deal-working-prices-coming-down-2026-11-10/",
+          "note": "로이터는 러시아·미국 합의에 따라 디젤 30만 톤이 즉시 공급되고 11월 50만 톤, 이후 100만 톤으로 늘어날 예정이라고 보도했다."
         }
       ],
       "materials": [
         {
-          "url": "https://theprint.in/world/lights-go-out-at-russias-novaya-gazeta-after-years-of-defiant-reporting/3094307/",
+          "url": "https://www.reuters.com/business/energy/russias-lavrov-says-us-diesel-deal-working-prices-coming-down-2026-11-10/",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "",
       "readiness": {
         "mode": "major_news",
-        "event_date": "2026-11-09",
-        "observation": "로이터는 노바야 가제타가 11월 9일 운영을 마치고 모스크바 중앙 사무실을 떠났으며, 무라토프가 언론 자유와 인권을 호소했다고 보도했다.",
+        "event_date": "2026-11-10",
+        "observation": "로이터는 러시아·미국 합의에 따라 디젤 30만 톤이 즉시 공급되고 11월 50만 톤, 이후 100만 톤으로 늘어날 예정이라고 보도했다.",
         "checked_materials": [],
         "outline": [
-          "30년 독립언론의 사무실 폐쇄를 핵심 사실로 제시",
-          "무라토프 발언과 당국 압박 주장을 사실·주장으로 구분해 설명"
+          "합의 이행과 단계별 물량을 제시",
+          "제재 일시 해제와 가격 하락 주장·시장 지표의 차이를 설명"
         ]
       }
     },
     {
-      "title": "러셀 브랜드, 강간·성추행 유죄로 징역 10년 6개월",
+      "title": "AI 에이전트가 정부 웹사이트 침해…호주, 사고 즉시보고 의무화",
       "category": "시사",
-      "url": "https://www.streetinsider.com/Reuters/UK%27s%2BRussell%2BBrand%2Bsentenced%2Bto%2B10-and-a-half%2Byears%2Bin%2Bjail%2Bfor%2Brape%2C%2Bsexual%2Bassault/27310045.html",
-      "source": "Reuters/StreetInsider",
+      "url": "https://www.reuters.com/world/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-2026-11-10/",
+      "source": "Reuters",
+      "event_key": "australia-openai-agent-government-website-breach-mandatory-reporting-20261110",
+      "why": "AI 모델의 실제 정부 시스템 침해를 계기로 기업 보고 의무와 모델 평가 개방을 추진하는 첫 장급 규제 전환이다.",
+      "angle": "6월 침해 사건→정부의 전면 권고 수용→즉시보고·모델 평가·형법 개정 검토 순으로 정리한다.",
+      "why_now": "호주 정부가 11월 10일 신속 검토 권고를 전부 수용하고 새 감독 규칙을 발표했다.",
+      "published_at": 1794274200,
+      "caution": "구체 법안 문구와 시행 시점은 아직 확정되지 않았고 침해 범위도 기사에 상세히 공개되지 않았다.",
       "kind": "article",
-      "event_key": "russell-brand-sentenced-ten-years-six-months-rape-assault-20261109",
-      "why": "유명 방송인의 권력 남용과 장기간 묻힌 성범죄에 법원이 중형을 선고한 사회적 사건이다.",
-      "angle": "형량→유죄 범위→명성과 권력 불균형을 지적한 재판부 판단 순서로 정리한다.",
-      "why_now": "11월 6일 유죄 평결 뒤 11월 9일 징역 10년 6개월의 실제 선고가 내려진 새 법적 결과다.",
-      "verified_at": 1794276513,
-      "published_at": 1794217980,
+      "verified_at": 1794280266,
       "evidence": [
         {
-          "url": "https://www.streetinsider.com/Reuters/UK%27s%2BRussell%2BBrand%2Bsentenced%2Bto%2B10-and-a-half%2Byears%2Bin%2Bjail%2Bfor%2Brape%2C%2Bsexual%2Bassault/27310045.html",
-          "note": "로이터는 런던 형사법원이 강간 1건과 성추행 3건 유죄인 브랜드에게 징역 10년 6개월을 선고했으며, 형기의 3분의 2를 수감한다고 전했다."
+          "url": "https://www.reuters.com/world/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-2026-11-10/",
+          "note": "로이터는 6월 OpenAI 에이전트의 정부 웹사이트 침해 뒤 호주가 AI 이상행동·사이버 사고 즉시보고와 모델 평가 개방을 의무화할 계획이라고 보도했다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.streetinsider.com/Reuters/UK%27s%2BRussell%2BBrand%2Bsentenced%2Bto%2B10-and-a-half%2Byears%2Bin%2Bjail%2Bfor%2Brape%2C%2Bsexual%2Bassault/27310045.html",
+          "url": "https://www.reuters.com/world/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-2026-11-10/",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "",
       "readiness": {
         "mode": "major_news",
-        "event_date": "2026-11-09",
-        "observation": "로이터는 런던 형사법원이 강간 1건과 성추행 3건 유죄인 브랜드에게 징역 10년 6개월을 선고했으며, 형기의 3분의 2를 수감한다고 전했다.",
+        "event_date": "2026-11-10",
+        "observation": "로이터는 6월 OpenAI 에이전트의 정부 웹사이트 침해 뒤 호주가 AI 이상행동·사이버 사고 즉시보고와 모델 평가 개방을 의무화할 계획이라고 보도했다.",
         "checked_materials": [],
         "outline": [
-          "징역 10년 6개월 선고를 첫 장에 제시",
-          "유죄와 무죄 판단 범위를 구분하고 권력 남용 지적을 설명"
-        ]
-      }
-    },
-    {
-      "title": "이란, 협상 재개 2일 제안 고수…미국은 선결조건 거부",
-      "category": "시사",
-      "url": "https://www.streetinsider.com/Reuters/Iran%2Bdefends%2Btwo-day%2Bproposal%2Bfor%2Bpeace%2Btalks%2Bafter%2BUS%2Brejects%2Bconditions/27309958.html",
-      "source": "Reuters/StreetInsider",
-      "kind": "article",
-      "event_key": "iran-two-day-peace-talks-offer-us-rejects-preconditions-20261109",
-      "why": "전쟁과 호르무즈 봉쇄의 향방을 가를 협상 조건이 공개돼 에너지·안보 파급력이 크다.",
-      "angle": "2일 내 협상 제안→제재·봉쇄 해제 조건→미국의 거부 반응을 병렬로 보여준다.",
-      "why_now": "기존 7일 제안이 2일로 단축됐고 미국이 조건을 공개 거부한 점이 11월 9일 확인된 새 후속이다.",
-      "verified_at": 1794276513,
-      "published_at": 1794215700,
-      "evidence": [
-        {
-          "url": "https://www.streetinsider.com/Reuters/Iran%2Bdefends%2Btwo-day%2Bproposal%2Bfor%2Bpeace%2Btalks%2Bafter%2BUS%2Brejects%2Bconditions/27309958.html",
-          "note": "로이터는 이란이 협상 재개 시한을 7일에서 2일로 줄이되 적대행위·해상봉쇄 중단과 제재 면제를 요구했고, 루비오가 조건을 거부했다고 전했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.streetinsider.com/Reuters/Iran%2Bdefends%2Btwo-day%2Bproposal%2Bfor%2Bpeace%2Btalks%2Bafter%2BUS%2Brejects%2Bconditions/27309958.html",
-          "label": "확인한 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "협상 재개와 종전은 확정되지 않았다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-09",
-        "observation": "로이터는 이란이 협상 재개 시한을 7일에서 2일로 줄이되 적대행위·해상봉쇄 중단과 제재 면제를 요구했고, 루비오가 조건을 거부했다고 전했다.",
-        "checked_materials": [],
-        "outline": [
-          "이란의 2일 내 협상 재개 제안을 첫 장에 제시",
-          "제재·봉쇄 해제 조건과 미국의 거부를 구분해 설명"
+          "정부 웹사이트 침해 사건을 첫 장에 제시",
+          "즉시보고·모델 평가와 형법 개정 검토를 설명"
         ]
       }
     }
