@@ -1,211 +1,223 @@
 {
   "version": 2,
-  "hour_utc": "2026111009",
+  "hour_utc": "2026111010",
   "reviewer": "ChatGPT",
-  "generated_at": 1794301420,
+  "generated_at": 1794304783,
   "coverage": {
     "queries": [
-      "CF Montreal Saputo sale November 9 2026 Reuters",
-      "Kevin McGonigle Sal Stewart rookie year November 10 2026 Reuters",
-      "France Lecornu minimum wage December November 9 2026 Reuters",
-      "Russia US diesel deal Australia AI oversight November 10 2026 Reuters"
+      "November 10 2026 major football official club manager transfer championship latest",
+      "November 10 2026 major sports championship league official breaking news",
+      "November 10 2026 Reuters world major news politics economy",
+      "2026년 11월 10일 스포츠 주요 뉴스 연합뉴스 SBS YTN",
+      "site:reuters.com November 10 2026 9:00 AM UTC latest major world news sports",
+      "2026년 11월 10일 오후 주요 스포츠 뉴스 감독 선임 우승 공식 연합뉴스 YTN SBS"
     ],
     "opened_urls": [
-      "https://en.cfmontreal.com/news/joey-saputo-initiates-a-sales-process-to-sell-cf-montreal",
-      "https://www.yardbarker.com/mlb/articles/tigers_kevin_mcgonigle_reds_sal_stewart_named_mlb_rookies_of_the_year/s1_13132_44539946",
-      "https://uk.marketscreener.com/news/french-pm-brings-forward-hike-in-minimum-wage-to-calm-protesters-ce785fd3dd81f521",
-      "https://www.reuters.com/business/energy/russias-lavrov-says-us-diesel-deal-working-prices-coming-down-2026-11-10/",
-      "https://www.reuters.com/world/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-2026-11-10/"
+      "https://en.yna.co.kr/view/AEN20261110004500320",
+      "https://www.reuters.com/world/asia-pacific/south-koreas-lee-says-seoul-must-build-bipartisan-support-us-congress-2026-11-10/",
+      "https://www.investing.com/news/economy-news/european-shares-near-record-high-as-lower-oil-prices-boost-sentiment-5014345",
+      "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-it-intercepts-two-houthi-missiles-fired-towards-riyadh-2026-11-10/",
+      "https://www.reuters.com/world/asia-pacific/north-korea-accuses-un-chief-siding-with-south-korea-over-border-tensions-2026-11-10/"
     ],
     "unavailable": [
-      "Reuters 몬트리올·MLB 직접 open 2건 실패: 독립 공식/공개 본문으로 전환",
-      "경유 MarketScreener 브라우저 열람은 자동 검토가 중복 확인으로 거부; 이번 검색에서 반환된 Reuters 전체 본문으로 재검증",
-      "run_usage queries=4 opened=5 failed=3 started=2026-11-10T09:00:23Z elapsed=197s endpoint=edition_serialized"
+      "OL 공식 PDF·talkSPORT 본문 2건 접근 실패 후 동일 방식 중단; 다른 공개 원문으로 전환",
+      "연합뉴스 외교 기사 직접 URL 1건 접근 불가; 재시도 없이 Reuters 공개 본문 사용",
+      "run_usage queries=6 opened=9 failed=3 started=2026-11-10T09:56:14Z elapsed=209s endpoint=edition_serialized"
     ]
   },
   "picks": [
     {
-      "title": "CF 몬트리올 매각 절차 시작…30년 사푸토 체제 전환",
-      "category": "축구",
-      "url": "https://en.cfmontreal.com/news/joey-saputo-initiates-a-sales-process-to-sell-cf-montreal",
-      "source": "CF Montréal 공식",
-      "event_key": "cf-montreal-joey-saputo-sale-process-relocation-not-ruled-out-20261109",
-      "why": "MLS 구단의 장기 소유 구조가 바뀌는 매각 결정이며 퀘벡 투자자와 구단의 지역 내 미래가 걸렸다.",
-      "angle": "매각 개시→퀘벡 투자자 우선→기존 운영·경영진 유지 순서로 정리한다.",
-      "why_now": "11월 9일 발표문을 이번 회차 공식 본문에서 재확인했다. 매각 완료나 이전 결정은 아니다.",
-      "published_at": null,
-      "caution": "공식 페이지 표시 시각은 시간대가 불명확해 epoch로 확정하지 않았다. 본문 발표일은 11월 9일이다.",
-      "kind": "official",
-      "verified_at": 1794301420,
-      "evidence": [
-        {
-          "url": "https://en.cfmontreal.com/news/joey-saputo-initiates-a-sales-process-to-sell-cf-montreal",
-          "note": "공식 발표는 사푸토가 매각 절차를 시작하고 퀘벡 투자자를 우선하며, 절차 동안 일상 운영과 경영진을 유지한다고 명시한다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://en.cfmontreal.com/news/joey-saputo-initiates-a-sales-process-to-sell-cf-montreal",
-          "label": "이번 회차 재확인 본문",
-          "kind": "source"
-        }
-      ],
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-09",
-        "observation": "공식 발표는 사푸토가 매각 절차를 시작하고 퀘벡 투자자를 우선하며, 절차 동안 일상 운영과 경영진을 유지한다고 명시한다.",
-        "checked_materials": [],
-        "outline": [
-          "구단 매각 절차 개시를 첫 장에 제시",
-          "지역 투자자 우선·기존 운영 유지와 미확정 거래 조건을 설명"
-        ]
-      }
-    },
-    {
-      "title": "맥고니글·스튜어트, MLB 양대 리그 신인왕 확정",
-      "category": "메이저 스포츠",
-      "url": "https://www.yardbarker.com/mlb/articles/tigers_kevin_mcgonigle_reds_sal_stewart_named_mlb_rookies_of_the_year/s1_13132_44539946",
-      "source": "Yardbarker",
-      "event_key": "mlb-2026-rookie-of-year-mcgonigle-stewart-draft-picks-20261110",
-      "why": "메이저리그 시즌 최고 신인 두 명이 공식 수상자로 확정됐고 두 구단의 세대교체 성과를 보여준다.",
-      "angle": "AL·NL 수상자→구단의 마지막 수상 이후 공백→시즌 성적 순서로 정리한다.",
-      "why_now": "현지 11월 9일 수상이 발표됐고 이번 공개 기사 본문에서 두 수상자를 재확인했다.",
-      "published_at": null,
-      "caution": "페이지는 11월 9일 20:56 ET 최종 갱신만 표시하므로 최초 게시 epoch는 확정하지 않았다.",
-      "kind": "article",
-      "verified_at": 1794301420,
-      "evidence": [
-        {
-          "url": "https://www.yardbarker.com/mlb/articles/tigers_kevin_mcgonigle_reds_sal_stewart_named_mlb_rookies_of_the_year/s1_13132_44539946",
-          "note": "본문은 디트로이트 맥고니글의 AL 신인왕과 신시내티 스튜어트의 NL 신인왕 수상을 확인하고 각각 구단의 2016년·2021년 이후 첫 수상이라고 전한다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.yardbarker.com/mlb/articles/tigers_kevin_mcgonigle_reds_sal_stewart_named_mlb_rookies_of_the_year/s1_13132_44539946",
-          "label": "이번 회차 재확인 본문",
-          "kind": "source"
-        }
-      ],
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-09",
-        "observation": "본문은 디트로이트 맥고니글의 AL 신인왕과 신시내티 스튜어트의 NL 신인왕 수상을 확인하고 각각 구단의 2016년·2021년 이후 첫 수상이라고 전한다.",
-        "checked_materials": [],
-        "outline": [
-          "두 리그 신인왕 확정 소식을 제시",
-          "구단별 마지막 수상 이후 공백과 이번 시즌 의미를 설명"
-        ]
-      }
-    },
-    {
-      "title": "프랑스 최저임금 인상 한 달 앞당긴다…생활비 시위에 대응",
+      "title": "사우디 수도·산유지 겨냥 미사일·드론…예멘 공습 보도까지 긴장 격화",
       "category": "시사",
-      "url": "https://uk.marketscreener.com/news/french-pm-brings-forward-hike-in-minimum-wage-to-calm-protesters-ce785fd3dd81f521",
-      "source": "Reuters/MarketScreener",
-      "event_key": "france-lecornu-minimum-wage-rise-moved-to-december-cost-living-protests-20261109",
-      "why": "대선을 5개월 앞두고 생활비 시위에 대응해 정부가 최저임금 인상 시점을 바꾼 민생·정치 결정을 담는다.",
-      "angle": "12월 조기 인상→월 순수령 24유로 증가→노조 반응과 대선 맥락 순으로 정리한다.",
-      "why_now": "11월 9일 발표한 12월 조기 인상을 이번 Reuters 배포 기사 본문에서 재확인했다.",
-      "published_at": null,
-      "caution": "배포 페이지 11월 9일 13:15 GMT는 배포 게시시각이다. Reuters 원문 최초 시각과 혼동하지 않는다.",
-      "kind": "article",
-      "verified_at": 1794301420,
-      "evidence": [
-        {
-          "url": "https://uk.marketscreener.com/news/french-pm-brings-forward-hike-in-minimum-wage-to-calm-protesters-ce785fd3dd81f521",
-          "note": "로이터는 프랑스 정부가 최저임금을 1.6% 올려 순수령 월 1,502유로로 만들고 시행을 12월로 한 달 앞당긴다고 보도했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://uk.marketscreener.com/news/french-pm-brings-forward-hike-in-minimum-wage-to-calm-protesters-ce785fd3dd81f521",
-          "label": "이번 회차 재확인 본문",
-          "kind": "source"
-        }
-      ],
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-09",
-        "observation": "로이터는 프랑스 정부가 최저임금을 1.6% 올려 순수령 월 1,502유로로 만들고 시행을 12월로 한 달 앞당긴다고 보도했다.",
-        "checked_materials": [],
-        "outline": [
-          "최저임금 조기 인상 결정과 실제 금액을 제시",
-          "생활비 시위·노조 반응·대선 전 민생 압박을 설명"
-        ]
-      }
-    },
-    {
-      "title": "러시아 “미국과 디젤 합의 이행 중”…가격 하락은 주장",
-      "category": "시사",
-      "url": "https://www.reuters.com/business/energy/russias-lavrov-says-us-diesel-deal-working-prices-coming-down-2026-11-10/",
+      "url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-it-intercepts-two-houthi-missiles-fired-towards-riyadh-2026-11-10/",
       "source": "Reuters",
-      "event_key": "russia-us-diesel-export-deal-implementation-sanctions-temporary-lift-20261110",
-      "why": "제재 일시 해제와 대규모 공급 합의가 실제 이행 단계에 들어가 에너지 가격과 전쟁 경제에 직접 영향을 준다.",
-      "angle": "즉시 공급 물량→제재 일시 해제→가격 하락 주장과 확인 한계 순으로 정리한다.",
-      "why_now": "11월 10일 라브로프 기고와 공급 합의 내용을 이번 검색에서 반환된 Reuters 본문으로 재검증했다.",
-      "published_at": 1794272957,
-      "caution": "가격 하락은 라브로프의 주장으로 구체 자료가 제시되지 않았고 미국 소매가는 최근 최고치를 기록했다.",
       "kind": "article",
-      "verified_at": 1794301420,
+      "event_key": "saudi-houthi-missile-drone-interceptions-riyadh-eastern-province-sanaa-20261110",
+      "why": "수도와 세계 핵심 산유지가 동시에 겨냥된 군사적 확대이며 홍해 항로와 에너지 인프라 위험으로 이어진다.",
+      "angle": "리야드·남부·동부 요격→사나 공습 보도→확인된 사실과 미확인 주장을 구분한다.",
+      "why_now": "Reuters가 11월 10일 01:53 UTC 공개한 본문에서 사우디 연합군 발표와 후티 측 매체 보도를 확인했다.",
+      "verified_at": 1794304783,
+      "published_at": 1794275580,
       "evidence": [
         {
-          "url": "https://www.reuters.com/business/energy/russias-lavrov-says-us-diesel-deal-working-prices-coming-down-2026-11-10/",
-          "note": "Reuters 본문에서 라브로프의 합의 이행 주장, 30만·50만·100만 톤 계획과 미 제재 일시 해제를 확인했다. 실제 가격 자료는 제시하지 않았다."
+          "url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-it-intercepts-two-houthi-missiles-fired-towards-riyadh-2026-11-10/",
+          "note": "사우디 연합군은 리야드행 미사일 2발, 남부행 탄도미사일과 동부 지역 상공 드론을 요격했다고 밝혔다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/business/energy/russias-lavrov-says-us-diesel-deal-working-prices-coming-down-2026-11-10/",
-          "label": "이번 회차 재확인 본문",
+          "url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-it-intercepts-two-houthi-missiles-fired-towards-riyadh-2026-11-10/",
+          "label": "Reuters 공개 본문",
           "kind": "source"
         }
       ],
+      "caution": "사나 공습은 후티 운영 사바통신 보도이며 사우디 당국은 즉시 확인하지 않았다. 후티도 발사 책임을 주장하지 않았다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-10",
-        "observation": "Reuters 본문에서 라브로프의 합의 이행 주장, 30만·50만·100만 톤 계획과 미 제재 일시 해제를 확인했다. 실제 가격 자료는 제시하지 않았다.",
-        "checked_materials": [],
+        "observation": "요격 발표와 사나 피해 보도를 한 본문에서 대조했고 양측 미확인 부분을 분리했다.",
+        "checked_materials": [
+          "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-it-intercepts-two-houthi-missiles-fired-towards-riyadh-2026-11-10/"
+        ],
         "outline": [
-          "합의 이행과 단계별 물량을 제시",
-          "제재 일시 해제와 가격 하락 주장·시장 지표의 차이를 설명"
+          "리야드·남부·동부 동시 경보와 요격",
+          "홍해·산유지 위험과 확인되지 않은 사나 공습 보도"
         ]
       }
     },
     {
-      "title": "정부 의료통계 사이트 뚫린 호주…AI 감독기관 신설 추진",
+      "title": "미 의회 권력 교체에 한국 대미전략 재정비…핵잠·원전연료 쟁점 부상",
       "category": "시사",
-      "url": "https://www.reuters.com/world/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-2026-11-10/",
+      "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-says-seoul-must-build-bipartisan-support-us-congress-2026-11-10/",
       "source": "Reuters",
-      "event_key": "australia-openai-agent-government-website-breach-mandatory-reporting-20261110",
-      "why": "정부 의료통계 시스템 침해를 계기로 보고 의무와 독립 감독·평가를 추진하는 사회적 영향이 큰 규제 변화다.",
-      "angle": "정부 포털 침해→보고 의무·감독기관→환자기록 접근 증거 없음과 법안 일정 순서로 정리한다.",
-      "why_now": "11월 10일 정부가 검토 권고를 수용했고 이번 갱신 본문에서 감독기관·내년 법안 계획을 재확인했다.",
-      "published_at": 1794274200,
-      "caution": "OpenAI는 환자기록 접근 증거가 없었다고 밝혔다. 의무화·감독기관은 추진 계획이며 법안은 내년 제출 예정이다.",
       "kind": "article",
-      "verified_at": 1794301420,
+      "event_key": "korea-us-congress-bipartisan-strategy-nuclear-submarine-opcon-investment-20261110",
+      "why": "미 중간선거 뒤 한미 무역·안보 의제가 새 의회 구도와 맞물린 국가 차원의 외교·산업 전략 변화다.",
+      "angle": "초당 지원 확대 지시→투자·전작권·핵잠 의제→미 의회 심사 강화 가능성 순으로 정리한다.",
+      "why_now": "11월 10일 02:17 UTC 공개된 Reuters 본문에서 이재명 대통령의 국무회의 지시와 양국 현안을 확인했다.",
+      "verified_at": 1794304783,
+      "published_at": 1794277020,
       "evidence": [
         {
-          "url": "https://www.reuters.com/world/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-2026-11-10/",
-          "note": "Reuters 갱신 본문은 Medicare 의료통계 포털 무단 접근, 사고 보고 의무와 AI 감독기관 추진, 내년 법안 제출 계획을 전했다. 환자기록 접근 증거는 없었다."
+          "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-says-seoul-must-build-bipartisan-support-us-congress-2026-11-10/",
+          "note": "이 대통령은 미 의회·주정부·기업과 접촉을 넓히고 금융시장 충격 대비책을 마련하라고 지시했다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/world/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-2026-11-10/",
-          "label": "이번 회차 재확인 본문",
+          "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-says-seoul-must-build-bipartisan-support-us-congress-2026-11-10/",
+          "label": "Reuters 공개 본문",
           "kind": "source"
         }
       ],
+      "caution": "핵잠·우라늄 농축·재처리 협력의 향방은 확정되지 않았으며 미 의회 심사 강화는 분석 전망이다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-10",
-        "observation": "Reuters 갱신 본문은 Medicare 의료통계 포털 무단 접근, 사고 보고 의무와 AI 감독기관 추진, 내년 법안 제출 계획을 전했다. 환자기록 접근 증거는 없었다.",
-        "checked_materials": [],
+        "observation": "대통령 지시와 투자·전작권·핵잠 등 진행 중인 현안을 Reuters 본문에서 분리 확인했다.",
+        "checked_materials": [
+          "https://www.reuters.com/world/asia-pacific/south-koreas-lee-says-seoul-must-build-bipartisan-support-us-congress-2026-11-10/"
+        ],
         "outline": [
-          "의료통계 포털 침해와 정부 대응을 제시",
-          "보고 의무·독립 평가·법안 일정 및 환자정보 확인 한계를 설명"
+          "미 의회 변화 뒤 한국 정부의 초당 외교 지시",
+          "투자·전작권·핵잠 의제의 실제 쟁점"
+        ]
+      }
+    },
+    {
+      "title": "DMZ 지뢰 폭발 책임 공방, 유엔총장 발언까지 번졌다",
+      "category": "시사",
+      "url": "https://www.reuters.com/world/asia-pacific/north-korea-accuses-un-chief-siding-with-south-korea-over-border-tensions-2026-11-10/",
+      "source": "Reuters",
+      "kind": "article",
+      "event_key": "north-korea-un-chief-dmz-landmine-blast-dialogue-dispute-20261110",
+      "why": "장병 중상으로 이어진 DMZ 사건이 남북 책임 공방과 유엔 차원의 군사회담 촉구로 확산된 안보 사안이다.",
+      "angle": "9월 지뢰 폭발→남북 상반 주장→유엔의 군사대화 촉구와 북한 반발을 사실별로 배열한다.",
+      "why_now": "Reuters가 11월 10일 06:46 UTC 공개한 본문에서 김여정 담화와 유엔 대변인 발언을 함께 확인했다.",
+      "verified_at": 1794304783,
+      "published_at": 1794293160,
+      "evidence": [
+        {
+          "url": "https://www.reuters.com/world/asia-pacific/north-korea-accuses-un-chief-siding-with-south-korea-over-border-tensions-2026-11-10/",
+          "note": "북한은 책임을 부인했고, 유엔 대변인은 우발 상황 방지를 위한 남북 군사급 대화 재개를 촉구했다고 밝혔다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.reuters.com/world/asia-pacific/north-korea-accuses-un-chief-siding-with-south-korea-over-border-tensions-2026-11-10/",
+          "label": "Reuters 공개 본문",
+          "kind": "source"
+        }
+      ],
+      "caution": "지뢰 설치 주체는 남북 주장이 엇갈리며 독립적으로 확정되지 않았다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-10",
+        "observation": "남측 주장·북한 부인·유엔 대화 촉구를 한 기사에서 각각 확인했다.",
+        "checked_materials": [
+          "https://www.reuters.com/world/asia-pacific/north-korea-accuses-un-chief-siding-with-south-korea-over-border-tensions-2026-11-10/"
+        ],
+        "outline": [
+          "장병 중상 DMZ 폭발과 책임 공방",
+          "유엔 군사회담 촉구에 대한 북한 반발"
+        ]
+      }
+    },
+    {
+      "title": "코스피 장중 4.5% 급반등…반도체·항공주가 동반 끌어올렸다",
+      "category": "시사",
+      "url": "https://en.yna.co.kr/view/AEN20261110004500320",
+      "source": "연합뉴스",
+      "kind": "article",
+      "event_key": "kospi-intraday-rebound-tech-airlines-lower-oil-20261110",
+      "why": "전날 반등을 반납했던 국내 증시가 개장 직후 4% 넘게 움직인 변동성 확대와 업종별 급등은 대중적 경제 영향이 크다.",
+      "angle": "장중 지수 급등→삼성전자·SK하이닉스 상승→유가 하락에 항공주 급등 순으로 보여준다.",
+      "why_now": "연합뉴스가 11월 10일 11:26 KST 공개한 본문에서 11:20 기준 지수와 종목 변동을 확인했다.",
+      "verified_at": 1794304783,
+      "published_at": 1794277560,
+      "evidence": [
+        {
+          "url": "https://en.yna.co.kr/view/AEN20261110004500320",
+          "note": "11:20 KST 코스피는 4.52% 오른 5,245.72였고 삼성전자 5.11%, SK하이닉스 6.78% 상승으로 보도됐다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://en.yna.co.kr/view/AEN20261110004500320",
+          "label": "연합뉴스 공개 본문",
+          "kind": "source"
+        }
+      ],
+      "caution": "장중 수치이므로 종가가 아니며 이후 등락할 수 있다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-10",
+        "observation": "기사의 장중 기준시각과 지수·주요 종목 수치를 확인해 종가로 오인하지 않도록 구분했다.",
+        "checked_materials": [
+          "https://en.yna.co.kr/view/AEN20261110004500320"
+        ],
+        "outline": [
+          "장중 4.52% 반등과 기준시각",
+          "반도체·항공주 상승 배경과 종가 미확정"
+        ]
+      }
+    },
+    {
+      "title": "유가 하락에 유럽증시 사상 최고치 근접…인피니언 전망도 급등 견인",
+      "category": "시사",
+      "url": "https://www.investing.com/news/economy-news/european-shares-near-record-high-as-lower-oil-prices-boost-sentiment-5014345",
+      "source": "Reuters·Investing.com",
+      "kind": "article",
+      "event_key": "europe-stoxx600-near-record-lower-oil-infineon-outlook-20261110",
+      "why": "중동 긴장 완화 기대와 기업 실적 전망이 유럽 전역의 증시·금리 기대를 동시에 움직인 주요 시장 변화다.",
+      "angle": "STOXX600 0.9% 상승→브렌트유 2%대 하락→인피니언 2027 전망 순으로 정리한다.",
+      "why_now": "11월 10일 03:25 UTC 공개된 Reuters 전재 본문에서 08:05 GMT 기준 시장 수치와 기업 전망을 확인했다.",
+      "verified_at": 1794304783,
+      "published_at": 1794281100,
+      "evidence": [
+        {
+          "url": "https://www.investing.com/news/economy-news/european-shares-near-record-high-as-lower-oil-prices-boost-sentiment-5014345",
+          "note": "STOXX600은 08:05 GMT 0.9% 상승해 기록 고점 1% 이내였고 브렌트유는 2% 넘게 하락했다고 보도됐다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.investing.com/news/economy-news/european-shares-near-record-high-as-lower-oil-prices-boost-sentiment-5014345",
+          "label": "Reuters 전재 공개 본문",
+          "kind": "source"
+        }
+      ],
+      "caution": "장 초반 수치이며 종가가 아니다. 중동 긴장 완화는 기대 요인이지 확정된 평화 합의가 아니다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-10",
+        "observation": "공개 본문에서 지수·유가·인피니언 전망을 확인하고 장중 시점과 기대 요인을 분리했다.",
+        "checked_materials": [
+          "https://www.investing.com/news/economy-news/european-shares-near-record-high-as-lower-oil-prices-boost-sentiment-5014345"
+        ],
+        "outline": [
+          "유럽 지수의 기록 고점 접근",
+          "유가 하락과 인피니언 전망의 동시 영향"
         ]
       }
     }
