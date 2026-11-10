@@ -2118,6 +2118,39 @@
           "event_key": "nvidia-falls-over4-market-rally-amd-over10-session-20261109"
         }
       ]
+    },
+    {
+      "hour_utc": "2026111002",
+      "at": 1794276588,
+      "delivery": "sent",
+      "delivery_key": "hourly-2026111002",
+      "picks": [
+        {
+          "title": "9개월 만에 러·우 3자협상 재개…영토·유럽 참여 놓고 간극",
+          "url": "https://www.reuters.com/world/europe/russia-ukraine-meet-us-backed-talks-after-trump-says-broad-deal-possible-2026-11-10/",
+          "event_key": "russia-ukraine-abu-dhabi-talks-opened-first-since-february-20261110"
+        },
+        {
+          "title": "중국, 희토류 수출통제 유예 2개월 연장…미·중 협상 숨통",
+          "url": "https://www.investing.com/news/commodities-news/china-extends-suspension-of-new-rare-earth-controls-until-january-5010878",
+          "event_key": "china-rare-earth-export-control-waiver-extended-january10-20261109"
+        },
+        {
+          "title": "러 독립언론 노바야 가제타, 30년 만에 모스크바 사무실 폐쇄",
+          "url": "https://theprint.in/world/lights-go-out-at-russias-novaya-gazeta-after-years-of-defiant-reporting/3094307/",
+          "event_key": "novaya-gazeta-moscow-office-operations-closed-state-pressure-20261109"
+        },
+        {
+          "title": "러셀 브랜드, 강간·성추행 유죄로 징역 10년 6개월",
+          "url": "https://www.streetinsider.com/Reuters/UK%27s%2BRussell%2BBrand%2Bsentenced%2Bto%2B10-and-a-half%2Byears%2Bin%2Bjail%2Bfor%2Brape%2C%2Bsexual%2Bassault/27310045.html",
+          "event_key": "russell-brand-sentenced-ten-years-six-months-rape-assault-20261109"
+        },
+        {
+          "title": "이란, 협상 재개 2일 제안 고수…미국은 선결조건 거부",
+          "url": "https://www.streetinsider.com/Reuters/Iran%2Bdefends%2Btwo-day%2Bproposal%2Bfor%2Bpeace%2Btalks%2Bafter%2BUS%2Brejects%2Bconditions/27309958.html",
+          "event_key": "iran-two-day-peace-talks-offer-us-rejects-preconditions-20261109"
+        }
+      ]
     }
   ]
 }
