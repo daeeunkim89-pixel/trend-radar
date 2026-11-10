@@ -1,6 +1,361 @@
 {
   "version": 1,
   "items": {
+    "f4b39664b3f1": {
+      "source": "Reuters",
+      "title": "사우디 수도·산유지 겨냥 미사일·드론…예멘 공습 보도까지 긴장 격화",
+      "link": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-it-intercepts-two-houthi-missiles-fired-towards-riyadh-2026-11-10/",
+      "first_seen_at": 1794305063,
+      "last_seen_at": 1794305063,
+      "samples": [
+        {
+          "at": 1794305063,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "f4b39664b3f1",
+      "editorial": {
+        "title": "사우디 수도·산유지 겨냥 미사일·드론…예멘 공습 보도까지 긴장 격화",
+        "category": "시사",
+        "url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-it-intercepts-two-houthi-missiles-fired-towards-riyadh-2026-11-10/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "saudi-houthi-missile-drone-interceptions-riyadh-eastern-province-sanaa-20261110",
+        "why": "수도와 세계 핵심 산유지가 동시에 겨냥된 군사적 확대이며 홍해 항로와 에너지 인프라 위험으로 이어진다.",
+        "angle": "리야드·남부·동부 요격→사나 공습 보도→확인된 사실과 미확인 주장을 구분한다.",
+        "why_now": "Reuters가 11월 10일 01:53 UTC 공개한 본문에서 사우디 연합군 발표와 후티 측 매체 보도를 확인했다.",
+        "verified_at": 1794304783,
+        "published_at": 1794275580,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-it-intercepts-two-houthi-missiles-fired-towards-riyadh-2026-11-10/",
+            "note": "사우디 연합군은 리야드행 미사일 2발, 남부행 탄도미사일과 동부 지역 상공 드론을 요격했다고 밝혔다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-it-intercepts-two-houthi-missiles-fired-towards-riyadh-2026-11-10/",
+            "label": "Reuters 공개 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "사나 공습은 후티 운영 사바통신 보도이며 사우디 당국은 즉시 확인하지 않았다. 후티도 발사 책임을 주장하지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-10",
+          "observation": "요격 발표와 사나 피해 보도를 한 본문에서 대조했고 양측 미확인 부분을 분리했다.",
+          "checked_materials": [],
+          "outline": [
+            "리야드·남부·동부 동시 경보와 요격",
+            "홍해·산유지 위험과 확인되지 않은 사나 공습 보도"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "Reuters 공개 본문",
+            "url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-it-intercepts-two-houthi-missiles-fired-towards-riyadh-2026-11-10/"
+          }
+        ],
+        "excerpt": "",
+        "context": "Reuters가 11월 10일 01:53 UTC 공개한 본문에서 사우디 연합군 발표와 후티 측 매체 보도를 확인했다.",
+        "fetched_at": 1794305063,
+        "parser_revision": 7
+      },
+      "curation_event_key": "saudi-houthi-missile-drone-interceptions-riyadh-eastern-province-sanaa-20261110"
+    },
+    "5ffacf840dcc": {
+      "source": "Reuters",
+      "title": "미 의회 권력 교체에 한국 대미전략 재정비…핵잠·원전연료 쟁점 부상",
+      "link": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-says-seoul-must-build-bipartisan-support-us-congress-2026-11-10/",
+      "first_seen_at": 1794305063,
+      "last_seen_at": 1794305063,
+      "samples": [
+        {
+          "at": 1794305063,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "5ffacf840dcc",
+      "editorial": {
+        "title": "미 의회 권력 교체에 한국 대미전략 재정비…핵잠·원전연료 쟁점 부상",
+        "category": "시사",
+        "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-says-seoul-must-build-bipartisan-support-us-congress-2026-11-10/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "korea-us-congress-bipartisan-strategy-nuclear-submarine-opcon-investment-20261110",
+        "why": "미 중간선거 뒤 한미 무역·안보 의제가 새 의회 구도와 맞물린 국가 차원의 외교·산업 전략 변화다.",
+        "angle": "초당 지원 확대 지시→투자·전작권·핵잠 의제→미 의회 심사 강화 가능성 순으로 정리한다.",
+        "why_now": "11월 10일 02:17 UTC 공개된 Reuters 본문에서 이재명 대통령의 국무회의 지시와 양국 현안을 확인했다.",
+        "verified_at": 1794304783,
+        "published_at": 1794277020,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-says-seoul-must-build-bipartisan-support-us-congress-2026-11-10/",
+            "note": "이 대통령은 미 의회·주정부·기업과 접촉을 넓히고 금융시장 충격 대비책을 마련하라고 지시했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-says-seoul-must-build-bipartisan-support-us-congress-2026-11-10/",
+            "label": "Reuters 공개 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "핵잠·우라늄 농축·재처리 협력의 향방은 확정되지 않았으며 미 의회 심사 강화는 분석 전망이다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-10",
+          "observation": "대통령 지시와 투자·전작권·핵잠 등 진행 중인 현안을 Reuters 본문에서 분리 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "미 의회 변화 뒤 한국 정부의 초당 외교 지시",
+            "투자·전작권·핵잠 의제의 실제 쟁점"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "Reuters 공개 본문",
+            "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-says-seoul-must-build-bipartisan-support-us-congress-2026-11-10/"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월 10일 02:17 UTC 공개된 Reuters 본문에서 이재명 대통령의 국무회의 지시와 양국 현안을 확인했다.",
+        "fetched_at": 1794305063,
+        "parser_revision": 7
+      },
+      "curation_event_key": "korea-us-congress-bipartisan-strategy-nuclear-submarine-opcon-investment-20261110"
+    },
+    "f056cd5b6c39": {
+      "source": "Reuters",
+      "title": "DMZ 지뢰 폭발 책임 공방, 유엔총장 발언까지 번졌다",
+      "link": "https://www.reuters.com/world/asia-pacific/north-korea-accuses-un-chief-siding-with-south-korea-over-border-tensions-2026-11-10/",
+      "first_seen_at": 1794305063,
+      "last_seen_at": 1794305063,
+      "samples": [
+        {
+          "at": 1794305063,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "f056cd5b6c39",
+      "editorial": {
+        "title": "DMZ 지뢰 폭발 책임 공방, 유엔총장 발언까지 번졌다",
+        "category": "시사",
+        "url": "https://www.reuters.com/world/asia-pacific/north-korea-accuses-un-chief-siding-with-south-korea-over-border-tensions-2026-11-10/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "north-korea-un-chief-dmz-landmine-blast-dialogue-dispute-20261110",
+        "why": "장병 중상으로 이어진 DMZ 사건이 남북 책임 공방과 유엔 차원의 군사회담 촉구로 확산된 안보 사안이다.",
+        "angle": "9월 지뢰 폭발→남북 상반 주장→유엔의 군사대화 촉구와 북한 반발을 사실별로 배열한다.",
+        "why_now": "Reuters가 11월 10일 06:46 UTC 공개한 본문에서 김여정 담화와 유엔 대변인 발언을 함께 확인했다.",
+        "verified_at": 1794304783,
+        "published_at": 1794293160,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/world/asia-pacific/north-korea-accuses-un-chief-siding-with-south-korea-over-border-tensions-2026-11-10/",
+            "note": "북한은 책임을 부인했고, 유엔 대변인은 우발 상황 방지를 위한 남북 군사급 대화 재개를 촉구했다고 밝혔다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/world/asia-pacific/north-korea-accuses-un-chief-siding-with-south-korea-over-border-tensions-2026-11-10/",
+            "label": "Reuters 공개 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "지뢰 설치 주체는 남북 주장이 엇갈리며 독립적으로 확정되지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-10",
+          "observation": "남측 주장·북한 부인·유엔 대화 촉구를 한 기사에서 각각 확인했다.",
+          "checked_materials": [],
+          "outline": [
+            "장병 중상 DMZ 폭발과 책임 공방",
+            "유엔 군사회담 촉구에 대한 북한 반발"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "Reuters 공개 본문",
+            "url": "https://www.reuters.com/world/asia-pacific/north-korea-accuses-un-chief-siding-with-south-korea-over-border-tensions-2026-11-10/"
+          }
+        ],
+        "excerpt": "",
+        "context": "Reuters가 11월 10일 06:46 UTC 공개한 본문에서 김여정 담화와 유엔 대변인 발언을 함께 확인했다.",
+        "fetched_at": 1794305063,
+        "parser_revision": 7
+      },
+      "curation_event_key": "north-korea-un-chief-dmz-landmine-blast-dialogue-dispute-20261110"
+    },
+    "c74f755774f9": {
+      "source": "연합뉴스",
+      "title": "코스피 장중 4.5% 급반등…반도체·항공주가 동반 끌어올렸다",
+      "link": "https://en.yna.co.kr/view/AEN20261110004500320",
+      "first_seen_at": 1794305063,
+      "last_seen_at": 1794305063,
+      "samples": [
+        {
+          "at": 1794305063,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "c74f755774f9",
+      "editorial": {
+        "title": "코스피 장중 4.5% 급반등…반도체·항공주가 동반 끌어올렸다",
+        "category": "시사",
+        "url": "https://en.yna.co.kr/view/AEN20261110004500320",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "kospi-intraday-rebound-tech-airlines-lower-oil-20261110",
+        "why": "전날 반등을 반납했던 국내 증시가 개장 직후 4% 넘게 움직인 변동성 확대와 업종별 급등은 대중적 경제 영향이 크다.",
+        "angle": "장중 지수 급등→삼성전자·SK하이닉스 상승→유가 하락에 항공주 급등 순으로 보여준다.",
+        "why_now": "연합뉴스가 11월 10일 11:26 KST 공개한 본문에서 11:20 기준 지수와 종목 변동을 확인했다.",
+        "verified_at": 1794304783,
+        "published_at": 1794277560,
+        "evidence": [
+          {
+            "url": "https://en.yna.co.kr/view/AEN20261110004500320",
+            "note": "11:20 KST 코스피는 4.52% 오른 5,245.72였고 삼성전자 5.11%, SK하이닉스 6.78% 상승으로 보도됐다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://en.yna.co.kr/view/AEN20261110004500320",
+            "label": "연합뉴스 공개 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "장중 수치이므로 종가가 아니며 이후 등락할 수 있다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-10",
+          "observation": "기사의 장중 기준시각과 지수·주요 종목 수치를 확인해 종가로 오인하지 않도록 구분했다.",
+          "checked_materials": [],
+          "outline": [
+            "장중 4.52% 반등과 기준시각",
+            "반도체·항공주 상승 배경과 종가 미확정"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "연합뉴스 공개 본문",
+            "url": "https://en.yna.co.kr/view/AEN20261110004500320"
+          }
+        ],
+        "excerpt": "",
+        "context": "연합뉴스가 11월 10일 11:26 KST 공개한 본문에서 11:20 기준 지수와 종목 변동을 확인했다.",
+        "fetched_at": 1794305063,
+        "parser_revision": 7
+      },
+      "curation_event_key": "kospi-intraday-rebound-tech-airlines-lower-oil-20261110"
+    },
+    "254b50c3ad38": {
+      "source": "Reuters·Investing.com",
+      "title": "유가 하락에 유럽증시 사상 최고치 근접…인피니언 전망도 급등 견인",
+      "link": "https://www.investing.com/news/economy-news/european-shares-near-record-high-as-lower-oil-prices-boost-sentiment-5014345",
+      "first_seen_at": 1794305063,
+      "last_seen_at": 1794305063,
+      "samples": [
+        {
+          "at": 1794305063,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "254b50c3ad38",
+      "editorial": {
+        "title": "유가 하락에 유럽증시 사상 최고치 근접…인피니언 전망도 급등 견인",
+        "category": "시사",
+        "url": "https://www.investing.com/news/economy-news/european-shares-near-record-high-as-lower-oil-prices-boost-sentiment-5014345",
+        "source": "Reuters·Investing.com",
+        "kind": "article",
+        "event_key": "europe-stoxx600-near-record-lower-oil-infineon-outlook-20261110",
+        "why": "중동 긴장 완화 기대와 기업 실적 전망이 유럽 전역의 증시·금리 기대를 동시에 움직인 주요 시장 변화다.",
+        "angle": "STOXX600 0.9% 상승→브렌트유 2%대 하락→인피니언 2027 전망 순으로 정리한다.",
+        "why_now": "11월 10일 03:25 UTC 공개된 Reuters 전재 본문에서 08:05 GMT 기준 시장 수치와 기업 전망을 확인했다.",
+        "verified_at": 1794304783,
+        "published_at": 1794281100,
+        "evidence": [
+          {
+            "url": "https://www.investing.com/news/economy-news/european-shares-near-record-high-as-lower-oil-prices-boost-sentiment-5014345",
+            "note": "STOXX600은 08:05 GMT 0.9% 상승해 기록 고점 1% 이내였고 브렌트유는 2% 넘게 하락했다고 보도됐다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.investing.com/news/economy-news/european-shares-near-record-high-as-lower-oil-prices-boost-sentiment-5014345",
+            "label": "Reuters 전재 공개 본문",
+            "kind": "source"
+          }
+        ],
+        "caution": "장 초반 수치이며 종가가 아니다. 중동 긴장 완화는 기대 요인이지 확정된 평화 합의가 아니다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-10",
+          "observation": "공개 본문에서 지수·유가·인피니언 전망을 확인하고 장중 시점과 기대 요인을 분리했다.",
+          "checked_materials": [],
+          "outline": [
+            "유럽 지수의 기록 고점 접근",
+            "유가 하락과 인피니언 전망의 동시 영향"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "Reuters 전재 공개 본문",
+            "url": "https://www.investing.com/news/economy-news/european-shares-near-record-high-as-lower-oil-prices-boost-sentiment-5014345"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월 10일 03:25 UTC 공개된 Reuters 전재 본문에서 08:05 GMT 기준 시장 수치와 기업 전망을 확인했다.",
+        "fetched_at": 1794305063,
+        "parser_revision": 7
+      },
+      "curation_event_key": "europe-stoxx600-near-record-lower-oil-infineon-outlook-20261110"
+    },
     "e0e2b26f8dc1": {
       "source": "CF Montréal 공식",
       "title": "CF 몬트리올 매각 절차 시작…30년 사푸토 체제 전환",
@@ -23320,5 +23675,5 @@
       "curation_event_key": "yoo-byung-kwon-kim-soo-mi-imitation-contract-fee-preview-20261103"
     }
   },
-  "updated_at": 1794301554
+  "updated_at": 1794305063
 }

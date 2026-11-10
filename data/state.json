@@ -1,5 +1,5 @@
 {
-  "updated_at": 1794301555,
+  "updated_at": 1794305063,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026111009",
+    "hour_utc": "2026111010",
     "category_counts": {
-      "시사": 3,
-      "축구": 1,
-      "메이저 스포츠": 1,
+      "시사": 5,
+      "축구": 0,
+      "메이저 스포츠": 0,
       "아이돌": 0
     },
-    "research_queries": 4,
+    "research_queries": 6,
     "opened_sources": 5,
     "picks": [
       {
-        "title": "CF 몬트리올 매각 절차 시작…30년 사푸토 체제 전환",
-        "url": "https://en.cfmontreal.com/news/joey-saputo-initiates-a-sales-process-to-sell-cf-montreal",
-        "event_key": "cf-montreal-joey-saputo-sale-process-relocation-not-ruled-out-20261109"
+        "title": "사우디 수도·산유지 겨냥 미사일·드론…예멘 공습 보도까지 긴장 격화",
+        "url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-it-intercepts-two-houthi-missiles-fired-towards-riyadh-2026-11-10/",
+        "event_key": "saudi-houthi-missile-drone-interceptions-riyadh-eastern-province-sanaa-20261110"
       },
       {
-        "title": "맥고니글·스튜어트, MLB 양대 리그 신인왕 확정",
-        "url": "https://www.yardbarker.com/mlb/articles/tigers_kevin_mcgonigle_reds_sal_stewart_named_mlb_rookies_of_the_year/s1_13132_44539946",
-        "event_key": "mlb-2026-rookie-of-year-mcgonigle-stewart-draft-picks-20261110"
+        "title": "미 의회 권력 교체에 한국 대미전략 재정비…핵잠·원전연료 쟁점 부상",
+        "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-says-seoul-must-build-bipartisan-support-us-congress-2026-11-10/",
+        "event_key": "korea-us-congress-bipartisan-strategy-nuclear-submarine-opcon-investment-20261110"
       },
       {
-        "title": "프랑스 최저임금 인상 한 달 앞당긴다…생활비 시위에 대응",
-        "url": "https://uk.marketscreener.com/news/french-pm-brings-forward-hike-in-minimum-wage-to-calm-protesters-ce785fd3dd81f521",
-        "event_key": "france-lecornu-minimum-wage-rise-moved-to-december-cost-living-protests-20261109"
+        "title": "DMZ 지뢰 폭발 책임 공방, 유엔총장 발언까지 번졌다",
+        "url": "https://www.reuters.com/world/asia-pacific/north-korea-accuses-un-chief-siding-with-south-korea-over-border-tensions-2026-11-10/",
+        "event_key": "north-korea-un-chief-dmz-landmine-blast-dialogue-dispute-20261110"
       },
       {
-        "title": "러시아 “미국과 디젤 합의 이행 중”…가격 하락은 주장",
-        "url": "https://www.reuters.com/business/energy/russias-lavrov-says-us-diesel-deal-working-prices-coming-down-2026-11-10/",
-        "event_key": "russia-us-diesel-export-deal-implementation-sanctions-temporary-lift-20261110"
+        "title": "코스피 장중 4.5% 급반등…반도체·항공주가 동반 끌어올렸다",
+        "url": "https://en.yna.co.kr/view/AEN20261110004500320",
+        "event_key": "kospi-intraday-rebound-tech-airlines-lower-oil-20261110"
       },
       {
-        "title": "정부 의료통계 사이트 뚫린 호주…AI 감독기관 신설 추진",
-        "url": "https://www.reuters.com/world/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-2026-11-10/",
-        "event_key": "australia-openai-agent-government-website-breach-mandatory-reporting-20261110"
+        "title": "유가 하락에 유럽증시 사상 최고치 근접…인피니언 전망도 급등 견인",
+        "url": "https://www.investing.com/news/economy-news/european-shares-near-record-high-as-lower-oil-prices-boost-sentiment-5014345",
+        "event_key": "europe-stoxx600-near-record-lower-oil-infineon-outlook-20261110"
       }
     ]
   }

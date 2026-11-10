@@ -2010,6 +2010,39 @@
           "event_key": "australia-openai-agent-government-website-breach-mandatory-reporting-20261110"
         }
       ]
+    },
+    {
+      "hour_utc": "2026111010",
+      "at": 1794305063,
+      "delivery": "sent",
+      "delivery_key": "hourly-2026111010",
+      "picks": [
+        {
+          "title": "사우디 수도·산유지 겨냥 미사일·드론…예멘 공습 보도까지 긴장 격화",
+          "url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-it-intercepts-two-houthi-missiles-fired-towards-riyadh-2026-11-10/",
+          "event_key": "saudi-houthi-missile-drone-interceptions-riyadh-eastern-province-sanaa-20261110"
+        },
+        {
+          "title": "미 의회 권력 교체에 한국 대미전략 재정비…핵잠·원전연료 쟁점 부상",
+          "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-says-seoul-must-build-bipartisan-support-us-congress-2026-11-10/",
+          "event_key": "korea-us-congress-bipartisan-strategy-nuclear-submarine-opcon-investment-20261110"
+        },
+        {
+          "title": "DMZ 지뢰 폭발 책임 공방, 유엔총장 발언까지 번졌다",
+          "url": "https://www.reuters.com/world/asia-pacific/north-korea-accuses-un-chief-siding-with-south-korea-over-border-tensions-2026-11-10/",
+          "event_key": "north-korea-un-chief-dmz-landmine-blast-dialogue-dispute-20261110"
+        },
+        {
+          "title": "코스피 장중 4.5% 급반등…반도체·항공주가 동반 끌어올렸다",
+          "url": "https://en.yna.co.kr/view/AEN20261110004500320",
+          "event_key": "kospi-intraday-rebound-tech-airlines-lower-oil-20261110"
+        },
+        {
+          "title": "유가 하락에 유럽증시 사상 최고치 근접…인피니언 전망도 급등 견인",
+          "url": "https://www.investing.com/news/economy-news/european-shares-near-record-high-as-lower-oil-prices-boost-sentiment-5014345",
+          "event_key": "europe-stoxx600-near-record-lower-oil-infineon-outlook-20261110"
+        }
+      ]
     }
   ]
 }
