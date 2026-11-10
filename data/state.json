@@ -1,5 +1,5 @@
 {
-  "updated_at": 1794308867,
+  "updated_at": 1794312144,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,10 +15,10 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026111011",
+    "hour_utc": "2026111012",
     "category_counts": {
-      "시사": 3,
-      "축구": 1,
+      "시사": 2,
+      "축구": 2,
       "메이저 스포츠": 1,
       "아이돌": 0
     },
@@ -26,29 +26,29 @@
     "opened_sources": 5,
     "picks": [
       {
-        "title": "리옹, 과르디올라 사단 비센스 감독 선임…2028년까지 계약",
-        "url": "https://www.etoday.co.kr/news/view/2646277?trc=main_culturelife_news",
-        "event_key": "lyon-carlos-vicens-manager-appointed-20261110"
+        "title": "레알 전설 라울, 오비에도 감독 부임…첫 프로팀 지휘",
+        "url": "https://www.managingmadrid.com/115275/raul-oviedo-coach-2026",
+        "event_key": "raul-real-oviedo-head-coach-until-2028-20261109"
       },
       {
-        "title": "0승3패 뒤 8연승…골든스테이트, NBA 최초 기록",
-        "url": "https://www.reuters.com/sports/basketball/warriors-crush-pelicans-make-nba-history-with-8th-win-after-0-3-start--flm-2026-11-10/",
-        "event_key": "warriors-first-nba-team-0-3-then-eight-wins-20261110"
+        "title": "12점 차 선두 날린 청두…알로이시 감독·회장·단장 동반 퇴진",
+        "url": "https://www.reuters.com/sports/soccer/coach-aloisi-pays-price-chengdu-rongchengs-incredible-title-choke-2026-11-10/",
+        "event_key": "chengdu-title-collapse-aloisi-sacked-board-resigns-20261109"
       },
       {
-        "title": "인도네시아 부통령 사임 의사 표명…대통령 수용 여부는 미정",
-        "url": "https://www.reuters.com/world/asia-pacific/fate-indonesias-vice-president-hangs-balance-lawmakers-mull-probe-2026-11-10/",
-        "event_key": "indonesia-vp-gibran-intent-to-resign-20261110"
+        "title": "미 대학풋볼 플레이오프 24팀 확대…ESPN 17억달러 계약",
+        "url": "https://www.reuters.com/sports/cfp-espn-sign-deal-expand-24-team-playoff-with-2027-season--flm-2026-11-09/",
+        "event_key": "college-football-playoff-expands-24-teams-espn-deal-20261109"
       },
       {
-        "title": "중국 무역흑자 1조달러 돌파…AI 수출이 내수 부진 상쇄",
-        "url": "https://www.reuters.com/world/asia-pacific/chinas-trade-surplus-soars-past-1-trillion-october-exports-jump-352-yy-2026-11-10/",
-        "event_key": "china-trade-surplus-one-trillion-ai-exports-20261110"
+        "title": "캐나다, 이란 핵·미사일 연계 11개 기관 제재 복원",
+        "url": "https://www.reuters.com/world/canada-reimposes-sanctions-11-iranian-entities-contributing-nuclear-activities-2026-11-10/",
+        "event_key": "canada-reimposes-sanctions-11-iranian-entities-20261110"
       },
       {
-        "title": "불가리아 고속도로 수십 대 추돌…11명 사망·50명 부상",
-        "url": "https://www.reuters.com/world/least-10-die-bulgarian-motorway-pile-up-2026-11-10/",
-        "event_key": "bulgaria-a1-motorway-pileup-11-dead-50-injured-20261110"
+        "title": "앤트로픽, 기업가치 1조달러 IPO 추진…최대 904억달러 조달",
+        "url": "https://www.reuters.com/business/anthropic-ipo-raise-much-644-billion-latest-draft-prospectus-shows-2026-11-10/",
+        "event_key": "anthropic-one-trillion-valuation-ipo-20261110"
       }
     ]
   }
