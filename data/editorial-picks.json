@@ -1,211 +1,214 @@
 {
   "version": 2,
-  "hour_utc": "2026111001",
+  "hour_utc": "2026111002",
   "reviewer": "ChatGPT",
-  "generated_at": 1794275080,
+  "generated_at": 1794276513,
   "coverage": {
     "queries": [
-      "\"2026.11.10\" \"스포츠\" \"속보\"",
-      "\"2026.11.10\" \"신인왕\"",
-      "\"2026.11.10\" \"헤그세스\"",
-      "\"2026.11.10\" \"양승우\"",
-      "\"양승우\" \"FA컵\" \"2026\"",
-      "\"2026.11.09\" \"청두\" \"다롄\""
+      "2026 November 10 major football sports news official site latest",
+      "2026 November 10 major world news Reuters AP latest",
+      "site:yna.co.kr OR site:ytn.co.kr OR site:news.sbs.co.kr 2026 11 10 주요 뉴스 스포츠",
+      "site:fifa.com OR site:uefa.com OR site:formula1.com OR site:atptour.com November 10 2026 announcement",
+      "November 10 2026 major sports football announcement FIFA association election Reuters sports",
+      "November 10 2026 Reuters rare earth controls Novaya Gazeta Russell Brand latest major news"
     ],
     "opened_urls": [
-      "https://www.yna.co.kr/view/AKR20261109121000007",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838255",
-      "https://sports.khan.co.kr/article/202611091126003",
-      "https://www.ytn.co.kr/_ln/0104_202611100613342518",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838119"
+      "https://www.reuters.com/world/europe/russia-ukraine-meet-us-backed-talks-after-trump-says-broad-deal-possible-2026-11-10/",
+      "https://apnews.com/article/a4a74dab93a32c094e2a5b0a5105578d",
+      "https://www.investing.com/news/commodities-news/china-extends-suspension-of-new-rare-earth-controls-until-january-5010878",
+      "https://www.streetinsider.com/Reuters/UK%27s%2BRussell%2BBrand%2Bsentenced%2Bto%2B10-and-a-half%2Byears%2Bin%2Bjail%2Bfor%2Brape%2C%2Bsexual%2Bassault/27310045.html",
+      "https://www.streetinsider.com/Reuters/Iran%2Bdefends%2Btwo-day%2Bproposal%2Bfor%2Bpeace%2Btalks%2Bafter%2BUS%2Brejects%2Bconditions/27309958.html",
+      "https://theprint.in/world/lights-go-out-at-russias-novaya-gazeta-after-years-of-defiant-reporting/3094307/"
     ],
     "unavailable": [
-      "SBS 인쇄 페이지1건은 열람되지 않아 연합뉴스 본문으로 확인. 영상은 시청하지 않음."
+      "AP 노바야 가제타 원문: DisabledError로 본문 접근 실패, 독립 공개 Reuters/ThePrint 원문으로 전환",
+      "연합뉴스TV FIFA·대한축구협회 기사: 403으로 본문 접근 실패, 같은 URL 변형 재시도 없이 제외",
+      "run_usage queries=6 opened=6 failed=2 started=2026-11-10T02:02:19Z elapsed=374s endpoint=edition_serialized"
     ]
   },
   "picks": [
     {
-      "title": "부동산 감정사가 FA컵 결승골…양승우, 7부 팀의 첫 2라운드 이끌었다",
-      "category": "축구",
-      "url": "https://www.yna.co.kr/view/AKR20261109121000007",
-      "source": "연합뉴스",
+      "title": "9개월 만에 러·우 3자협상 재개…영토·유럽 참여 놓고 간극",
+      "category": "시사",
+      "url": "https://www.reuters.com/world/europe/russia-ukraine-meet-us-backed-talks-after-trump-says-broad-deal-possible-2026-11-10/",
+      "source": "Reuters",
       "kind": "article",
-      "event_key": "yang-seung-woo-wimborne-crawley-fa-cup-first-second-round-20261109",
-      "why": "한국계 아마추어가 프로팀을 꺾은 이변으로 국내외 대중이 이해하기 쉬운 강한 반전이다.",
-      "angle": "직업은 부동산 감정사, 경기에서는 결승골·MVP라는 대비를 앞세운다.",
-      "why_now": "9일 한국시간 경기와 발표다. 이전 미발송24시간 주요 스포츠로 확인했다.",
-      "verified_at": 1794275020,
-      "published_at": 1794207480,
+      "event_key": "russia-ukraine-abu-dhabi-talks-opened-first-since-february-20261110",
+      "why": "전쟁 종결과 유럽 안보를 함께 다루는 고위급 협상이 실제 개시돼 국제 파급력이 크다.",
+      "angle": "회담 재개 사실→돈바스 영토 쟁점→유럽이 별도 브리핑만 받는 구조 순서로 정리한다.",
+      "why_now": "11월 10일 아부다비에서 2일 일정 회담이 실제 시작된 점이 기존 예정 보도의 새 후속이다.",
+      "verified_at": 1794276513,
+      "published_at": null,
       "evidence": [
         {
-          "url": "https://www.yna.co.kr/view/AKR20261109121000007",
-          "note": "7부윔본이4부크롤리에2대0승리해창단첫FA컵2라운드진출. 양승우가전반9분결승골과MVP를기록했고부동산감정사로도일한다."
+          "url": "https://www.reuters.com/world/europe/russia-ukraine-meet-us-backed-talks-after-trump-says-broad-deal-possible-2026-11-10/",
+          "note": "로이터는 러시아·우크라이나 대표단이 미국 중재로 11월 10일 아부다비에서 2일간 회담을 시작하며, 2월 이후 첫 회담이라고 보도했다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.yna.co.kr/view/AKR20261109121000007",
+          "url": "https://www.reuters.com/world/europe/russia-ukraine-meet-us-backed-talks-after-trump-says-broad-deal-possible-2026-11-10/",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "상대 크롤리는4부 팀이다. 결승전 득점이 아니라 승부를 결정한 골이며 영상은 미시청.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-09",
-        "observation": "7부윔본이4부크롤리에2대0승리해창단첫FA컵2라운드진출. 양승우가전반9분결승골과MVP를기록했고부동산감정사로도일한다.",
-        "checked_materials": [],
-        "outline": [
-          "부동산감정사양승우,FA컵결승골",
-          "7부윔본이4부프로팀꺾고구단첫2라운드"
-        ]
-      }
-    },
-    {
-      "title": "메시, FIFPRO 월드 베스트11 통산 18회…발롱도르 케인은 제외",
-      "category": "축구",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838255",
-      "source": "SBS",
-      "kind": "article",
-      "event_key": "messi-fifpro-world11-eighteenth-selection-kane-omitted-20261110",
-      "why": "축구 최고 스타의 역대 최다 선정과 발롱도르 수상자 제외가 겹친 주요 수상 결과다.",
-      "angle": "메시18회와 케인 제외라는 확정 명단 결과를 간단히 제시한다.",
-      "why_now": "10일 한국시간 새 명단 발표다. 이전 발송의MLS득점왕과 다른 시상·투표 결과다.",
-      "verified_at": 1794275020,
-      "published_at": 1794264600,
-      "evidence": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838255",
-          "note": "FIFPRO가73개국19806명선수투표의2026월드베스트11발표. 메시역대최다18회선정,케인제외,야말은10대최초2회."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838255",
-          "label": "확인한 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "발롱도르 투표와 FIFPRO 선수 투표는 서로 다른 선정이다.",
+      "caution": "협상 타결 여부와 영토 양보는 확정되지 않았다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-10",
-        "observation": "FIFPRO가73개국19806명선수투표의2026월드베스트11발표. 메시역대최다18회선정,케인제외,야말은10대최초2회.",
+        "observation": "로이터는 러시아·우크라이나 대표단이 미국 중재로 11월 10일 아부다비에서 2일간 회담을 시작하며, 2월 이후 첫 회담이라고 보도했다.",
         "checked_materials": [],
         "outline": [
-          "메시역대최다18회선정",
-          "발롱도르수상케인은명단제외"
+          "2월 이후 첫 3자협상 재개를 첫 장에 제시",
+          "돈바스 영토와 유럽 참여 문제가 남은 핵심 쟁점임을 설명"
         ]
       }
     },
     {
-      "title": "18점 앞서던 청두, 막판 4연패로 우승 놓쳤다…다롄 역전 우승",
-      "category": "축구",
-      "url": "https://sports.khan.co.kr/article/202611091126003",
-      "source": "스포츠경향",
-      "kind": "article",
-      "event_key": "chengdu-four-final-losses-dalian-csl-comeback-title-20261108",
-      "why": "압도적인 선두가 마지막에 뒤집힌 극적인 리그 우승 결과이며 서정원 전 감독의 팀으로 국내 연관성도 크다.",
-      "angle": "막판4경기전패와 최종승점52점동률·상대전적우승을 대비한다.",
-      "why_now": "최종전은8일,보도9일이다. 미발송48시간 주요 우승 사건으로 확대 검토했다.",
-      "verified_at": 1794275020,
-      "published_at": 1794191160,
-      "evidence": [
-        {
-          "url": "https://sports.khan.co.kr/article/202611091126003",
-          "note": "청두가산둥에2대3으로져막판4연패. 다롄이톈진에3대1로이겨승점52점동률,상대전적우위로우승했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://sports.khan.co.kr/article/202611091126003",
-          "label": "확인한 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "서정원 감독 교체가 패배의 원인이라는 인과관계는 입증되지 않아 단정하지 않는다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-08",
-        "observation": "청두가산둥에2대3으로져막판4연패. 다롄이톈진에3대1로이겨승점52점동률,상대전적우위로우승했다.",
-        "checked_materials": [],
-        "outline": [
-          "중반18점차선두가막판4연패",
-          "최종승점동률,다롄상대전적우승"
-        ]
-      }
-    },
-    {
-      "title": "공화당 의원이 美 국방장관 탄핵안 재발의…이번 주 표결 전망",
+      "title": "중국, 희토류 수출통제 유예 2개월 연장…미·중 협상 숨통",
       "category": "시사",
-      "url": "https://www.ytn.co.kr/_ln/0104_202611100613342518",
-      "source": "YTN",
+      "url": "https://www.investing.com/news/commodities-news/china-extends-suspension-of-new-rare-earth-controls-until-january-5010878",
+      "source": "Reuters/Investing.com",
       "kind": "article",
-      "event_key": "massie-hegseth-eight-articles-impeachment-refiled-20261109",
-      "why": "이란전쟁 책임을 놓고 여당 의원이 국방 수장 탄핵 절차를 다시 연 국제 정치 대형 사건이다.",
-      "angle": "재발의된8개탄핵사유와 향후표결단계를 구분해 제시한다.",
-      "why_now": "9일 현지 하원 본회의에 실제로 다시 제출됐다. 이전 발송의 표결 추진 발언에서 절차가 진전됐다.",
-      "verified_at": 1794275020,
-      "published_at": 1794258780,
+      "event_key": "china-rare-earth-export-control-waiver-extended-january10-20261109",
+      "why": "반도체·배터리 공급망에 직접 영향을 주는 희토류 통제 완화로 세계 산업과 미·중 관계에 중요하다.",
+      "angle": "유예 연장 기간→기존 통제 범위→APEC 정상회담을 앞둔 협상 맥락을 연결한다.",
+      "why_now": "중국 상무부가 11월 9일 기존 유예를 2027년 1월 10일까지 연장한다고 새로 발표했다.",
+      "verified_at": 1794276513,
+      "published_at": null,
       "evidence": [
         {
-          "url": "https://www.ytn.co.kr/_ln/0104_202611100613342518",
-          "note": "공화당토머스매시가헤그세스국방장관에대한8개탄핵사유결의안을재제출. 지난9월에는회기조기종료로표결무산."
+          "url": "https://www.investing.com/news/commodities-news/china-extends-suspension-of-new-rare-earth-controls-until-january-5010878",
+          "note": "로이터 원문은 중국 상무부가 희토류·산업용 다이아몬드·배터리 기술 관련 통제 유예를 두 달 연장했다고 전했다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.ytn.co.kr/_ln/0104_202611100613342518",
+          "url": "https://www.investing.com/news/commodities-news/china-extends-suspension-of-new-rare-earth-controls-until-january-5010878",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "탄핵안 제출 단계이며 가결·파면이 아니다.",
+      "caution": "",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-09",
-        "observation": "공화당토머스매시가헤그세스국방장관에대한8개탄핵사유결의안을재제출. 지난9월에는회기조기종료로표결무산.",
+        "observation": "로이터 원문은 중국 상무부가 희토류·산업용 다이아몬드·배터리 기술 관련 통제 유예를 두 달 연장했다고 전했다.",
         "checked_materials": [],
         "outline": [
-          "공화당매시,국방장관탄핵안재발의",
-          "8개탄핵사유·이번주표결전망"
+          "희토류 통제 유예 2개월 연장을 첫 장에 배치",
+          "미·중 무역협상과 APEC 정상회담의 의미를 후속 카드로 설명"
         ]
       }
     },
     {
-      "title": "뉴욕증시 급등 속 엔비디아만 4%대 하락…AMD는 10% 넘게 상승",
+      "title": "러 독립언론 노바야 가제타, 30년 만에 모스크바 사무실 폐쇄",
       "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838119",
-      "source": "SBS",
+      "url": "https://theprint.in/world/lights-go-out-at-russias-novaya-gazeta-after-years-of-defiant-reporting/3094307/",
+      "source": "Reuters/ThePrint",
       "kind": "article",
-      "event_key": "nvidia-falls-over4-market-rally-amd-over10-session-20261109",
-      "why": "세계 핵심 AI 반도체 기업의 경영 불확실성이 실제 주가 반응으로 이어진 큰 산업·시장 소식이다.",
-      "angle": "나스닥·반도체지수반등과 엔비디아하락·AMD상승을 대비한다.",
-      "why_now": "9일 미국장 마감 이후10일 보도. 이전 발송의이사회조사착수와 다른 실제시장결과다.",
-      "verified_at": 1794275020,
-      "published_at": 1794258840,
+      "event_key": "novaya-gazeta-moscow-office-operations-closed-state-pressure-20261109",
+      "why": "노벨평화상 수상자가 공동 설립한 러시아 대표 독립언론의 폐쇄로 언론 자유 문제의 상징성이 크다.",
+      "angle": "사무실 폐쇄→당국 압박 주장→전시 러시아의 언론 자유 위축 순으로 구성한다.",
+      "why_now": "11월 9일 실제 마지막 편집회의와 사무실 철수가 진행돼 예고 단계에서 현실의 폐쇄로 바뀌었다.",
+      "verified_at": 1794276513,
+      "published_at": 1794225600,
       "evidence": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838119",
-          "note": "SBS보도에따르면나스닥은3%가까이,반도체지수는약7%상승. 엔비디아는장중약9%하락후4%대하락마감,AMD10%넘게상승."
+          "url": "https://theprint.in/world/lights-go-out-at-russias-novaya-gazeta-after-years-of-defiant-reporting/3094307/",
+          "note": "로이터는 노바야 가제타가 11월 9일 운영을 마치고 모스크바 중앙 사무실을 떠났으며, 무라토프가 언론 자유와 인권을 호소했다고 보도했다."
         }
       ],
       "materials": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838119",
+          "url": "https://theprint.in/world/lights-go-out-at-russias-novaya-gazeta-after-years-of-defiant-reporting/3094307/",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "주가 등락은 해당 거래일 결과다. 의혹·주가 원인 분석과 확인된 기밀 유출 사실을 혼동하지 않는다.",
+      "caution": "",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-09",
-        "observation": "SBS보도에따르면나스닥은3%가까이,반도체지수는약7%상승. 엔비디아는장중약9%하락후4%대하락마감,AMD10%넘게상승.",
+        "observation": "로이터는 노바야 가제타가 11월 9일 운영을 마치고 모스크바 중앙 사무실을 떠났으며, 무라토프가 언론 자유와 인권을 호소했다고 보도했다.",
         "checked_materials": [],
         "outline": [
-          "뉴욕증시반등에도엔비디아4%대하락",
-          "AMD10%넘게상승·AI산업경영불확실성"
+          "30년 독립언론의 사무실 폐쇄를 핵심 사실로 제시",
+          "무라토프 발언과 당국 압박 주장을 사실·주장으로 구분해 설명"
+        ]
+      }
+    },
+    {
+      "title": "러셀 브랜드, 강간·성추행 유죄로 징역 10년 6개월",
+      "category": "시사",
+      "url": "https://www.streetinsider.com/Reuters/UK%27s%2BRussell%2BBrand%2Bsentenced%2Bto%2B10-and-a-half%2Byears%2Bin%2Bjail%2Bfor%2Brape%2C%2Bsexual%2Bassault/27310045.html",
+      "source": "Reuters/StreetInsider",
+      "kind": "article",
+      "event_key": "russell-brand-sentenced-ten-years-six-months-rape-assault-20261109",
+      "why": "유명 방송인의 권력 남용과 장기간 묻힌 성범죄에 법원이 중형을 선고한 사회적 사건이다.",
+      "angle": "형량→유죄 범위→명성과 권력 불균형을 지적한 재판부 판단 순서로 정리한다.",
+      "why_now": "11월 6일 유죄 평결 뒤 11월 9일 징역 10년 6개월의 실제 선고가 내려진 새 법적 결과다.",
+      "verified_at": 1794276513,
+      "published_at": 1794217980,
+      "evidence": [
+        {
+          "url": "https://www.streetinsider.com/Reuters/UK%27s%2BRussell%2BBrand%2Bsentenced%2Bto%2B10-and-a-half%2Byears%2Bin%2Bjail%2Bfor%2Brape%2C%2Bsexual%2Bassault/27310045.html",
+          "note": "로이터는 런던 형사법원이 강간 1건과 성추행 3건 유죄인 브랜드에게 징역 10년 6개월을 선고했으며, 형기의 3분의 2를 수감한다고 전했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.streetinsider.com/Reuters/UK%27s%2BRussell%2BBrand%2Bsentenced%2Bto%2B10-and-a-half%2Byears%2Bin%2Bjail%2Bfor%2Brape%2C%2Bsexual%2Bassault/27310045.html",
+          "label": "확인한 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-09",
+        "observation": "로이터는 런던 형사법원이 강간 1건과 성추행 3건 유죄인 브랜드에게 징역 10년 6개월을 선고했으며, 형기의 3분의 2를 수감한다고 전했다.",
+        "checked_materials": [],
+        "outline": [
+          "징역 10년 6개월 선고를 첫 장에 제시",
+          "유죄와 무죄 판단 범위를 구분하고 권력 남용 지적을 설명"
+        ]
+      }
+    },
+    {
+      "title": "이란, 협상 재개 2일 제안 고수…미국은 선결조건 거부",
+      "category": "시사",
+      "url": "https://www.streetinsider.com/Reuters/Iran%2Bdefends%2Btwo-day%2Bproposal%2Bfor%2Bpeace%2Btalks%2Bafter%2BUS%2Brejects%2Bconditions/27309958.html",
+      "source": "Reuters/StreetInsider",
+      "kind": "article",
+      "event_key": "iran-two-day-peace-talks-offer-us-rejects-preconditions-20261109",
+      "why": "전쟁과 호르무즈 봉쇄의 향방을 가를 협상 조건이 공개돼 에너지·안보 파급력이 크다.",
+      "angle": "2일 내 협상 제안→제재·봉쇄 해제 조건→미국의 거부 반응을 병렬로 보여준다.",
+      "why_now": "기존 7일 제안이 2일로 단축됐고 미국이 조건을 공개 거부한 점이 11월 9일 확인된 새 후속이다.",
+      "verified_at": 1794276513,
+      "published_at": 1794215700,
+      "evidence": [
+        {
+          "url": "https://www.streetinsider.com/Reuters/Iran%2Bdefends%2Btwo-day%2Bproposal%2Bfor%2Bpeace%2Btalks%2Bafter%2BUS%2Brejects%2Bconditions/27309958.html",
+          "note": "로이터는 이란이 협상 재개 시한을 7일에서 2일로 줄이되 적대행위·해상봉쇄 중단과 제재 면제를 요구했고, 루비오가 조건을 거부했다고 전했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.streetinsider.com/Reuters/Iran%2Bdefends%2Btwo-day%2Bproposal%2Bfor%2Bpeace%2Btalks%2Bafter%2BUS%2Brejects%2Bconditions/27309958.html",
+          "label": "확인한 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "협상 재개와 종전은 확정되지 않았다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-09",
+        "observation": "로이터는 이란이 협상 재개 시한을 7일에서 2일로 줄이되 적대행위·해상봉쇄 중단과 제재 면제를 요구했고, 루비오가 조건을 거부했다고 전했다.",
+        "checked_materials": [],
+        "outline": [
+          "이란의 2일 내 협상 재개 제안을 첫 장에 제시",
+          "제재·봉쇄 해제 조건과 미국의 거부를 구분해 설명"
         ]
       }
     }
