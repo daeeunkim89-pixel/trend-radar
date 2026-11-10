@@ -2,7 +2,7 @@
   "version": 2,
   "hour_utc": "2026111010",
   "reviewer": "ChatGPT",
-  "generated_at": 1794304783,
+  "generated_at": 1794304998,
   "coverage": {
     "queries": [
       "November 10 2026 major football official club manager transfer championship latest",
@@ -22,7 +22,7 @@
     "unavailable": [
       "OL 공식 PDF·talkSPORT 본문 2건 접근 실패 후 동일 방식 중단; 다른 공개 원문으로 전환",
       "연합뉴스 외교 기사 직접 URL 1건 접근 불가; 재시도 없이 Reuters 공개 본문 사용",
-      "run_usage queries=6 opened=9 failed=3 started=2026-11-10T09:56:14Z elapsed=209s endpoint=edition_serialized"
+      "run_usage queries=6 opened=9 failed=3 started=2026-11-10T09:56:14Z elapsed=424s endpoint=retry_edition_serialized"
     ]
   },
   "picks": [
@@ -56,9 +56,7 @@
         "mode": "major_news",
         "event_date": "2026-11-10",
         "observation": "요격 발표와 사나 피해 보도를 한 본문에서 대조했고 양측 미확인 부분을 분리했다.",
-        "checked_materials": [
-          "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-it-intercepts-two-houthi-missiles-fired-towards-riyadh-2026-11-10/"
-        ],
+        "checked_materials": [],
         "outline": [
           "리야드·남부·동부 동시 경보와 요격",
           "홍해·산유지 위험과 확인되지 않은 사나 공습 보도"
@@ -95,9 +93,7 @@
         "mode": "major_news",
         "event_date": "2026-11-10",
         "observation": "대통령 지시와 투자·전작권·핵잠 등 진행 중인 현안을 Reuters 본문에서 분리 확인했다.",
-        "checked_materials": [
-          "https://www.reuters.com/world/asia-pacific/south-koreas-lee-says-seoul-must-build-bipartisan-support-us-congress-2026-11-10/"
-        ],
+        "checked_materials": [],
         "outline": [
           "미 의회 변화 뒤 한국 정부의 초당 외교 지시",
           "투자·전작권·핵잠 의제의 실제 쟁점"
@@ -134,9 +130,7 @@
         "mode": "major_news",
         "event_date": "2026-11-10",
         "observation": "남측 주장·북한 부인·유엔 대화 촉구를 한 기사에서 각각 확인했다.",
-        "checked_materials": [
-          "https://www.reuters.com/world/asia-pacific/north-korea-accuses-un-chief-siding-with-south-korea-over-border-tensions-2026-11-10/"
-        ],
+        "checked_materials": [],
         "outline": [
           "장병 중상 DMZ 폭발과 책임 공방",
           "유엔 군사회담 촉구에 대한 북한 반발"
@@ -173,9 +167,7 @@
         "mode": "major_news",
         "event_date": "2026-11-10",
         "observation": "기사의 장중 기준시각과 지수·주요 종목 수치를 확인해 종가로 오인하지 않도록 구분했다.",
-        "checked_materials": [
-          "https://en.yna.co.kr/view/AEN20261110004500320"
-        ],
+        "checked_materials": [],
         "outline": [
           "장중 4.52% 반등과 기준시각",
           "반도체·항공주 상승 배경과 종가 미확정"
@@ -212,9 +204,7 @@
         "mode": "major_news",
         "event_date": "2026-11-10",
         "observation": "공개 본문에서 지수·유가·인피니언 전망을 확인하고 장중 시점과 기대 요인을 분리했다.",
-        "checked_materials": [
-          "https://www.investing.com/news/economy-news/european-shares-near-record-high-as-lower-oil-prices-boost-sentiment-5014345"
-        ],
+        "checked_materials": [],
         "outline": [
           "유럽 지수의 기록 고점 접근",
           "유가 하락과 인피니언 전망의 동시 영향"
