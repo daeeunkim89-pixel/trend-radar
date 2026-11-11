@@ -1,5 +1,5 @@
 {
-  "updated_at": 1794380843,
+  "updated_at": 1794384374,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026111107",
+    "hour_utc": "2026111108",
     "category_counts": {
-      "시사": 4,
+      "시사": 5,
       "축구": 0,
-      "메이저 스포츠": 1,
+      "메이저 스포츠": 0,
       "아이돌": 0
     },
     "research_queries": 4,
-    "opened_sources": 5,
+    "opened_sources": 6,
     "picks": [
       {
-        "title": "IPL 초대형 트레이드…뭄바이 주장 판디아, 아르시딥과 맞교환",
-        "url": "https://www.reuters.com/world/india/mumbai-trade-captain-pandya-punjab-exchange-arshdeep-ipl-2026-11-11/",
-        "event_key": "ipl-mumbai-pandya-punjab-arshdeep-captain-trade-20261111"
+        "title": "미 수출금지 뚫렸다…중국 군 연계 대학, 엔비디아 H200 구매",
+        "url": "https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/",
+        "event_key": "china-pla-linked-university-nvidia-h200-blacklist-purchase-20261111"
       },
       {
-        "title": "인도네시아 부통령 탄핵 문 열리나…의원 100명 이상 청원 서명",
-        "url": "https://www.reuters.com/world/asia-pacific/over-100-indonesian-lawmakers-sign-petition-that-could-lead-vice-presidents-2026-11-11/",
-        "event_key": "indonesia-gibran-impeachment-petition-100-lawmakers-20261111"
+        "title": "미 하원, 헤그세스 국방장관 탄핵 시도 차단…211대204",
+        "url": "https://www.reuters.com/world/pentagon-chief-hegseth-calls-moves-impeach-him-farce-that-will-fail-2026-11-10/",
+        "event_key": "us-house-blocks-hegseth-impeachment-211-204-20261110"
       },
       {
-        "title": "인도·영국 무역협정 첫 대형 분쟁…스카치 컨테이너 수십 개 묶였다",
-        "url": "https://www.reuters.com/world/india/india-holds-pernod-diageo-scotch-shipments-investigators-seek-higher-tariff-2026-11-11/",
-        "event_key": "india-uk-trade-pact-scotch-150-tariff-container-hold-20261111"
+        "title": "베네수엘라, 20년 국가독점 깼다…전력시장 민간투자 개방",
+        "url": "https://www.reuters.com/business/energy/venezuela-lawmakers-opens-crisis-hit-power-sector-private-investment-2026-11-10/",
+        "event_key": "venezuela-electricity-private-investment-state-monopoly-reform-20261110"
       },
       {
-        "title": "러시아, 칼리닌그라드서 '폴란드 정보요원' 2명 체포 주장",
-        "url": "https://www.reuters.com/world/russia-arrests-two-suspected-polish-spies-kaliningrad-interfax-reports-2026-11-11/",
-        "event_key": "russia-kaliningrad-two-alleged-polish-spies-arrested-20261111"
+        "title": "중국 내수 자동차 판매, 12년 만에 1천900만대 아래 전망",
+        "url": "https://www.reuters.com/business/retail-consumer/chinas-car-sales-seen-falling-below-19-million-units-first-time-since-2014-2026-11-11/",
+        "event_key": "china-domestic-passenger-car-sales-below-19m-first-since-2014-20261111"
       },
       {
-        "title": "이란, 아르헨 해·공군을 '테러조직' 지정…IRGC 지정에 맞불",
-        "url": "https://www.reuters.com/world/americas/iran-designates-argentinas-navy-air-force-terrorist-organizations-2026-11-11/",
-        "event_key": "iran-argentina-navy-air-force-terror-designation-reciprocal-20261111"
+        "title": "81세 오르테가 두 달 만에 등장…니카라과 권력승계 논쟁 재점화",
+        "url": "https://www.reuters.com/world/americas/ortegas-frail-return-public-revives-succession-debate-nicaragua-2026-11-10/",
+        "event_key": "nicaragua-ortega-public-return-succession-debate-20261110"
       }
     ]
   }

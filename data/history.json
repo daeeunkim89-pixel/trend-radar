@@ -1,6 +1,361 @@
 {
   "version": 1,
   "items": {
+    "b7531d18945d": {
+      "source": "Reuters",
+      "title": "미 수출금지 뚫렸다…중국 군 연계 대학, 엔비디아 H200 구매",
+      "link": "https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/",
+      "first_seen_at": 1794384373,
+      "last_seen_at": 1794384373,
+      "samples": [
+        {
+          "at": 1794384373,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "b7531d18945d",
+      "editorial": {
+        "title": "미 수출금지 뚫렸다…중국 군 연계 대학, 엔비디아 H200 구매",
+        "category": "시사",
+        "url": "https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "china-pla-linked-university-nvidia-h200-blacklist-purchase-20261111",
+        "why": "미국의 최첨단 AI칩 수출통제 구멍이 군 연계 대학의 실제 구매 기록으로 드러났다.",
+        "angle": "블랙리스트 대학의 H200 구매 경로와 통제 한계를 함께 보여준다.",
+        "why_now": "로이터가 11월 11일 조달 기록을 토대로 처음 보도했다.",
+        "verified_at": 1794383998,
+        "published_at": 1794373980,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/",
+            "note": "중국 서북공업대가 지난달 중국 공급업체를 통해 H200 두 개를 87만4천700위안에 구매한 기록을 확인했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/",
+            "label": "원문 기사",
+            "kind": "source"
+          }
+        ],
+        "caution": "대학·엔비디아·미 상무부는 로이터 질의에 답하지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-11",
+          "observation": "미 수출 블랙리스트에 오른 군 연계 대학이 직접 엔비디아가 아닌 중국 공급업체에서 H200을 산 기록이 확인됐다.",
+          "checked_materials": [],
+          "outline": [
+            "블랙리스트 대학의 H200 구매 기록을 첫 카드로 제시",
+            "중국 공급업체 경유와 미국 수출통제의 한계를 설명"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "원문 기사",
+            "url": "https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/"
+          }
+        ],
+        "excerpt": "",
+        "context": "로이터가 11월 11일 조달 기록을 토대로 처음 보도했다.",
+        "fetched_at": 1794384373,
+        "parser_revision": 7
+      },
+      "curation_event_key": "china-pla-linked-university-nvidia-h200-blacklist-purchase-20261111"
+    },
+    "297680e42fb2": {
+      "source": "Reuters",
+      "title": "미 하원, 헤그세스 국방장관 탄핵 시도 차단…211대204",
+      "link": "https://www.reuters.com/world/pentagon-chief-hegseth-calls-moves-impeach-him-farce-that-will-fail-2026-11-10/",
+      "first_seen_at": 1794384373,
+      "last_seen_at": 1794384373,
+      "samples": [
+        {
+          "at": 1794384373,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "297680e42fb2",
+      "editorial": {
+        "title": "미 하원, 헤그세스 국방장관 탄핵 시도 차단…211대204",
+        "category": "시사",
+        "url": "https://www.reuters.com/world/pentagon-chief-hegseth-calls-moves-impeach-him-farce-that-will-fail-2026-11-10/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "us-house-blocks-hegseth-impeachment-211-204-20261110",
+        "why": "미 국방장관 탄핵 시도가 표결로 차단되며 차기 민주당 의회까지 정치 공방이 연장됐다.",
+        "angle": "8개 탄핵소추안과 절차 표결 결과, 향후 재추진 가능성을 구분한다.",
+        "why_now": "11월 10일 하원이 법사위 회부 동의를 211대204로 가결해 본회의 탄핵 표결을 막았다.",
+        "verified_at": 1794383998,
+        "published_at": 1794316560,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/world/pentagon-chief-hegseth-calls-moves-impeach-him-farce-that-will-fail-2026-11-10/",
+            "note": "하원은 8개 탄핵소추안을 법사위로 넘기는 절차 동의를 211대204로 통과시켰다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/world/pentagon-chief-hegseth-calls-moves-impeach-him-farce-that-will-fail-2026-11-10/",
+            "label": "원문 기사",
+            "kind": "source"
+          }
+        ],
+        "caution": "탄핵 혐의는 제안자 측 주장이고 유죄 판단이 아니다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-10",
+          "observation": "공화당 주도 하원이 본회의 탄핵 표결을 차단했지만 민주당이 다음 의회를 장악하면 재추진 가능성이 남는다.",
+          "checked_materials": [],
+          "outline": [
+            "211대204 절차 표결과 본회의 차단을 제시",
+            "탄핵 혐의 주장과 차기 의회 재추진 가능성을 분리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "원문 기사",
+            "url": "https://www.reuters.com/world/pentagon-chief-hegseth-calls-moves-impeach-him-farce-that-will-fail-2026-11-10/"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월 10일 하원이 법사위 회부 동의를 211대204로 가결해 본회의 탄핵 표결을 막았다.",
+        "fetched_at": 1794384373,
+        "parser_revision": 7
+      },
+      "curation_event_key": "us-house-blocks-hegseth-impeachment-211-204-20261110"
+    },
+    "84911413f377": {
+      "source": "Reuters",
+      "title": "베네수엘라, 20년 국가독점 깼다…전력시장 민간투자 개방",
+      "link": "https://www.reuters.com/business/energy/venezuela-lawmakers-opens-crisis-hit-power-sector-private-investment-2026-11-10/",
+      "first_seen_at": 1794384373,
+      "last_seen_at": 1794384373,
+      "samples": [
+        {
+          "at": 1794384373,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "84911413f377",
+      "editorial": {
+        "title": "베네수엘라, 20년 국가독점 깼다…전력시장 민간투자 개방",
+        "category": "시사",
+        "url": "https://www.reuters.com/business/energy/venezuela-lawmakers-opens-crisis-hit-power-sector-private-investment-2026-11-10/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "venezuela-electricity-private-investment-state-monopoly-reform-20261110",
+        "why": "전력난이 일상화된 베네수엘라가 약 20년 국가독점을 끝내는 구조 개편에 나섰다.",
+        "angle": "법 개정 내용과 발전설비 가동률 40% 미만 현실을 함께 보여준다.",
+        "why_now": "베네수엘라 의회가 11월 10일 전력시장 민간투자를 허용하는 법 개정을 승인했다.",
+        "verified_at": 1794383998,
+        "published_at": 1794345180,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/business/energy/venezuela-lawmakers-opens-crisis-hit-power-sector-private-investment-2026-11-10/",
+            "note": "개정법은 정부와 민간의 합작사업을 최대 25년 허용하고 국영석유사와의 계약 방식도 열었다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/business/energy/venezuela-lawmakers-opens-crisis-hit-power-sector-private-investment-2026-11-10/",
+            "label": "원문 기사",
+            "kind": "source"
+          }
+        ],
+        "caution": "투자 유입과 정전 개선 시점은 아직 확정되지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-10",
+          "observation": "의회가 민간투자를 허용했으며 현재 발전설비 가동률은 40% 미만이라고 기사에서 확인됐다.",
+          "checked_materials": [],
+          "outline": [
+            "20년 국가독점 종료와 민간투자 허용을 제시",
+            "정전 현실·낮은 가동률과 실제 개선까지의 불확실성 설명"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "원문 기사",
+            "url": "https://www.reuters.com/business/energy/venezuela-lawmakers-opens-crisis-hit-power-sector-private-investment-2026-11-10/"
+          }
+        ],
+        "excerpt": "",
+        "context": "베네수엘라 의회가 11월 10일 전력시장 민간투자를 허용하는 법 개정을 승인했다.",
+        "fetched_at": 1794384373,
+        "parser_revision": 7
+      },
+      "curation_event_key": "venezuela-electricity-private-investment-state-monopoly-reform-20261110"
+    },
+    "aa82ddeac2f8": {
+      "source": "Reuters",
+      "title": "중국 내수 자동차 판매, 12년 만에 1천900만대 아래 전망",
+      "link": "https://www.reuters.com/business/retail-consumer/chinas-car-sales-seen-falling-below-19-million-units-first-time-since-2014-2026-11-11/",
+      "first_seen_at": 1794384373,
+      "last_seen_at": 1794384373,
+      "samples": [
+        {
+          "at": 1794384373,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "aa82ddeac2f8",
+      "editorial": {
+        "title": "중국 내수 자동차 판매, 12년 만에 1천900만대 아래 전망",
+        "category": "시사",
+        "url": "https://www.reuters.com/business/retail-consumer/chinas-car-sales-seen-falling-below-19-million-units-first-time-since-2014-2026-11-11/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "china-domestic-passenger-car-sales-below-19m-first-since-2014-20261111",
+        "why": "세계 최대 자동차 시장의 내수 약화가 2014년 이후 처음이라는 기준선으로 확인됐다.",
+        "angle": "내수 1천900만대 하회 전망과 1천100만대 수출 호조를 대비한다.",
+        "why_now": "중국자동차공업협회가 11월 11일 연간 전망과 10월 감소폭을 발표했다.",
+        "verified_at": 1794383998,
+        "published_at": 1794378480,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/business/retail-consumer/chinas-car-sales-seen-falling-below-19-million-units-first-time-since-2014-2026-11-11/",
+            "note": "협회는 올해 중국 내수 승용차 판매가 1천900만대 아래로 내려갈 것으로 전망했고 10월 전체 판매는 전년 대비 9.2% 감소했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/business/retail-consumer/chinas-car-sales-seen-falling-below-19-million-units-first-time-since-2014-2026-11-11/",
+            "label": "원문 기사",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-11",
+          "observation": "내수는 2014년 이후 처음 1천900만대 아래가 예상되지만 수출은 연간 1천100만대를 넘을 전망이다.",
+          "checked_materials": [],
+          "outline": [
+            "내수 판매 12년 만의 기준선 하회 전망 제시",
+            "수출 호조와 10월 감소폭을 함께 비교"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "원문 기사",
+            "url": "https://www.reuters.com/business/retail-consumer/chinas-car-sales-seen-falling-below-19-million-units-first-time-since-2014-2026-11-11/"
+          }
+        ],
+        "excerpt": "",
+        "context": "중국자동차공업협회가 11월 11일 연간 전망과 10월 감소폭을 발표했다.",
+        "fetched_at": 1794384373,
+        "parser_revision": 7
+      },
+      "curation_event_key": "china-domestic-passenger-car-sales-below-19m-first-since-2014-20261111"
+    },
+    "c2b8637b5f6d": {
+      "source": "Reuters",
+      "title": "81세 오르테가 두 달 만에 등장…니카라과 권력승계 논쟁 재점화",
+      "link": "https://www.reuters.com/world/americas/ortegas-frail-return-public-revives-succession-debate-nicaragua-2026-11-10/",
+      "first_seen_at": 1794384373,
+      "last_seen_at": 1794384373,
+      "samples": [
+        {
+          "at": 1794384373,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "c2b8637b5f6d",
+      "editorial": {
+        "title": "81세 오르테가 두 달 만에 등장…니카라과 권력승계 논쟁 재점화",
+        "category": "시사",
+        "url": "https://www.reuters.com/world/americas/ortegas-frail-return-public-revives-succession-debate-nicaragua-2026-11-10/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "nicaragua-ortega-public-return-succession-debate-20261110",
+        "why": "미주 최장기 집권자의 공개 복귀가 가족 중심 승계 구도를 둘러싼 정치 변수를 키웠다.",
+        "angle": "두 달 공백 뒤 공개 석상과 부인·아들의 승계 가능성을 사실과 분석으로 나눈다.",
+        "why_now": "11월 10일 보도에서 오르테가의 두 달 만의 공개 등장과 11일 81세 생일이 확인됐다.",
+        "verified_at": 1794383998,
+        "published_at": 1794353580,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/world/americas/ortegas-frail-return-public-revives-succession-debate-nicaragua-2026-11-10/",
+            "note": "오르테가는 두 달 넘게 공개석상에서 사라졌다가 마나과 행사에 다시 등장했고 분석가들은 부인 또는 아들을 후계 후보로 거론했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/world/americas/ortegas-frail-return-public-revives-succession-debate-nicaragua-2026-11-10/",
+            "label": "원문 기사",
+            "kind": "source"
+          }
+        ],
+        "caution": "건강 이상과 승계 임박은 공식 확인이 아닌 관측이다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-09",
+          "observation": "정부는 건강 이상설에 답하지 않았고 로이터도 확인하지 못했으므로 승계 임박은 분석가 전망으로만 다룬다.",
+          "checked_materials": [],
+          "outline": [
+            "두 달 만의 공개 복귀와 81세 시점을 제시",
+            "공동대통령인 부인과 아들의 승계 가능성, 확인 한계를 설명"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "원문 기사",
+            "url": "https://www.reuters.com/world/americas/ortegas-frail-return-public-revives-succession-debate-nicaragua-2026-11-10/"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월 10일 보도에서 오르테가의 두 달 만의 공개 등장과 11일 81세 생일이 확인됐다.",
+        "fetched_at": 1794384373,
+        "parser_revision": 7
+      },
+      "curation_event_key": "nicaragua-ortega-public-return-succession-debate-20261110"
+    },
     "5974e2e310ff": {
       "source": "Reuters",
       "title": "IPL 초대형 트레이드…뭄바이 주장 판디아, 아르시딥과 맞교환",
@@ -22322,5 +22677,5 @@
       "curation_event_key": "coupang-q3-2026-loss-fire-excluded-20261103"
     }
   },
-  "updated_at": 1794380842
+  "updated_at": 1794384373
 }
