@@ -2,39 +2,6 @@
   "version": 1,
   "editions": [
     {
-      "hour_utc": "2026110409",
-      "at": 1793783405,
-      "delivery": "sent",
-      "delivery_key": "hourly-2026110409",
-      "picks": [
-        {
-          "title": "살리바, 월드컵 부상 뒤 복귀 준비 끝…아르테타 ‘출전 가능’",
-          "url": "https://arseblog.news/2026/11/arteta-saliba-ready-to-go-after-three-month-absence/",
-          "event_key": "arsenal-saliba-full-training-match-ready-arteta-20261103"
-        },
-        {
-          "title": "아시안컵 연기 여파…축구협회 ‘모레노 정식 계약은 차기 집행부 몫’",
-          "url": "https://www.yna.co.kr/view/AKR20261103167700007",
-          "event_key": "kfa-moreno-contract-next-executive-after-asian-cup-delay-20261103"
-        },
-        {
-          "title": "39세 조코비치, 파리 마스터스 최고령 승리…파이널스 도전 이어간다",
-          "url": "https://www.abc.net.au/news/2026-11-04/tennis-djokovic-oldest-winner-paris-masters-hijikata-clash-next/107343944",
-          "event_key": "djokovic-paris-masters-oldest-match-win-vacherot-20261103"
-        },
-        {
-          "title": "‘조작기소 특검법’ 법사소위 통과…공소취소권 조항은 삭제",
-          "url": "https://www.yna.co.kr/view/AKR20261104138600001",
-          "event_key": "fabricated-prosecution-special-counsel-bill-subcommittee-passed-20261104"
-        },
-        {
-          "title": "드라마 산업 12개 단체 ‘고사 위기’…5년간 1조원 지원 요구",
-          "url": "https://www.yna.co.kr/view/AKR20261104094500005",
-          "event_key": "k-drama-twelve-industry-groups-five-year-trillion-support-demand-20261104"
-        }
-      ]
-    },
-    {
       "hour_utc": "2026110410",
       "at": 1793786753,
       "delivery": "sent",
@@ -1978,6 +1945,39 @@
           "title": "英 당국, 650억달러 유니레버·맥코믹 식품합병에 시정 요구",
           "url": "https://www.reuters.com/business/retail-consumer/unilever-mccormick-food-deal-may-weaken-uk-competition-watchdog-says-2026-11-11/",
           "event_key": "uk-cma-unilever-mccormick-65b-deal-competition-remedies-20261111"
+        }
+      ]
+    },
+    {
+      "hour_utc": "2026111110",
+      "at": 1794391369,
+      "delivery": "sent",
+      "delivery_key": "hourly-2026111110",
+      "picks": [
+        {
+          "title": "훈련장서 쓰러진 콤파니, 3주 만에 바이에른 복귀",
+          "url": "https://news.sbs.co.kr/amp/news.amp?news_id=N1008840168",
+          "event_key": "bayern-kompany-return-training-ground-after-collapse-recovery-20261110"
+        },
+        {
+          "title": "인도, 폐배터리 핵심 원료 수출 전면 금지…중국 의존 낮춘다",
+          "url": "https://www.reuters.com/world/india/india-bans-export-lithium-ion-battery-recycled-material-2026-11-11/",
+          "event_key": "india-bans-lithium-battery-black-mass-export-domestic-processing-20261110"
+        },
+        {
+          "title": "英 당국, 250억달러 아크조노벨·악살타 합병에도 시정 요구",
+          "url": "https://www.reuters.com/business/akzonobel-axalta-get-week-address-uk-regulator-concerns-over-25-billion-merger-2026-11-11/",
+          "event_key": "uk-cma-akzonobel-axalta-25b-merger-remedies-20261111"
+        },
+        {
+          "title": "대만, APEC 중국 개최 앞두고 ‘동등 참여’ 서면보장 요구",
+          "url": "https://www.reuters.com/world/asia-pacific/taiwan-appoints-acer-founder-its-apec-summit-envoy-2026-11-11/",
+          "event_key": "taiwan-acer-founder-apec-envoy-written-guarantee-china-20261111"
+        },
+        {
+          "title": "폭스바겐 중국 전기차 합작사, 2년간 신차 계획 ‘제로’",
+          "url": "https://www.reuters.com/business/autos-transportation/volkswagens-china-ev-venture-has-no-new-models-planned-next-two-years-sources-2026-11-11/",
+          "event_key": "volkswagen-anhui-no-new-ev-models-2027-2028-sales-shortfall-20261111"
         }
       ]
     }

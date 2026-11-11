@@ -1,5 +1,5 @@
 {
-  "updated_at": 1794387965,
+  "updated_at": 1794391369,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026111109",
+    "hour_utc": "2026111110",
     "category_counts": {
-      "시사": 2,
-      "축구": 2,
-      "메이저 스포츠": 1,
+      "시사": 4,
+      "축구": 1,
+      "메이저 스포츠": 0,
       "아이돌": 0
     },
     "research_queries": 4,
     "opened_sources": 7,
     "picks": [
       {
-        "title": "美 제재에 이란 축구대표팀 항공편도 차단…버스로 이라크 이동",
-        "url": "https://www.reuters.com/world/middle-east/iraq-bars-plane-carrying-irans-soccer-team-landing-basra-over-us-sanctions-2026-11-10/",
-        "event_key": "iraq-bars-iran-soccer-team-flight-us-sanctions-overland-20261110"
+        "title": "훈련장서 쓰러진 콤파니, 3주 만에 바이에른 복귀",
+        "url": "https://news.sbs.co.kr/amp/news.amp?news_id=N1008840168",
+        "event_key": "bayern-kompany-return-training-ground-after-collapse-recovery-20261110"
       },
       {
-        "title": "맥토미니, 월드컵 개막 이틀 전 심장 전기충격 치료 고백",
-        "url": "https://www.reuters.com/sports/soccer/mctominay-says-he-underwent-heart-treatment-before-world-cup-opener-2026-11-10/",
-        "event_key": "mctominay-heart-shock-treatment-before-world-cup-opener-20261110"
+        "title": "인도, 폐배터리 핵심 원료 수출 전면 금지…중국 의존 낮춘다",
+        "url": "https://www.reuters.com/world/india/india-bans-export-lithium-ion-battery-recycled-material-2026-11-11/",
+        "event_key": "india-bans-lithium-battery-black-mass-export-domestic-processing-20261110"
       },
       {
-        "title": "서핑 3회 세계챔피언 플로렌스, 2027 투어 불참…LA 올림픽도 흔들",
-        "url": "https://www.reuters.com/sports/florence-skip-2027-world-tour-jeopardizing-la-olympics-chances-2026-11-11/",
-        "event_key": "john-john-florence-skip-2027-world-tour-la2028-qualification-jeopardized-20261111"
+        "title": "英 당국, 250억달러 아크조노벨·악살타 합병에도 시정 요구",
+        "url": "https://www.reuters.com/business/akzonobel-axalta-get-week-address-uk-regulator-concerns-over-25-billion-merger-2026-11-11/",
+        "event_key": "uk-cma-akzonobel-axalta-25b-merger-remedies-20261111"
       },
       {
-        "title": "스페인, 주거난에 14년 만의 총파업…항만·자동차 공장 멈췄다",
-        "url": "https://www.reuters.com/business/world-at-work/workers-across-spain-stage-first-general-strike-14-years-anger-over-housing-2026-11-11/",
-        "event_key": "spain-first-general-strike-14-years-housing-crisis-20261111"
+        "title": "대만, APEC 중국 개최 앞두고 ‘동등 참여’ 서면보장 요구",
+        "url": "https://www.reuters.com/world/asia-pacific/taiwan-appoints-acer-founder-its-apec-summit-envoy-2026-11-11/",
+        "event_key": "taiwan-acer-founder-apec-envoy-written-guarantee-china-20261111"
       },
       {
-        "title": "英 당국, 650억달러 유니레버·맥코믹 식품합병에 시정 요구",
-        "url": "https://www.reuters.com/business/retail-consumer/unilever-mccormick-food-deal-may-weaken-uk-competition-watchdog-says-2026-11-11/",
-        "event_key": "uk-cma-unilever-mccormick-65b-deal-competition-remedies-20261111"
+        "title": "폭스바겐 중국 전기차 합작사, 2년간 신차 계획 ‘제로’",
+        "url": "https://www.reuters.com/business/autos-transportation/volkswagens-china-ev-venture-has-no-new-models-planned-next-two-years-sources-2026-11-11/",
+        "event_key": "volkswagen-anhui-no-new-ev-models-2027-2028-sales-shortfall-20261111"
       }
     ]
   }

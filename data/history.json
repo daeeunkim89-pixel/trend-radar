@@ -1,6 +1,361 @@
 {
   "version": 1,
   "items": {
+    "ce6861322f18": {
+      "source": "SBS",
+      "title": "훈련장서 쓰러진 콤파니, 3주 만에 바이에른 복귀",
+      "link": "https://news.sbs.co.kr/amp/news.amp?news_id=N1008840168",
+      "first_seen_at": 1794391368,
+      "last_seen_at": 1794391368,
+      "samples": [
+        {
+          "at": 1794391368,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "ce6861322f18",
+      "editorial": {
+        "title": "훈련장서 쓰러진 콤파니, 3주 만에 바이에른 복귀",
+        "category": "축구",
+        "url": "https://news.sbs.co.kr/amp/news.amp?news_id=N1008840168",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "bayern-kompany-return-training-ground-after-collapse-recovery-20261110",
+        "why": "분데스리가 선두팀 감독이 급성 건강 이상 뒤 복귀 단계에 들어간 중요한 팀 운영 변화다.",
+        "angle": "훈련장 복귀와 실제 벤치 복귀 시점 미확정을 구분한다.",
+        "why_now": "바이에른이 11월 10일 콤파니가 이번 주 훈련장에 돌아왔다고 발표했다.",
+        "verified_at": 1794391280,
+        "published_at": 1794349200,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/amp/news.amp?news_id=N1008840168",
+            "note": "바이에른은 콤파니가 회복 단계에 들어가 훈련장에 돌아왔으며 어깨 재활도 받고 있다고 밝혔다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/amp/news.amp?news_id=N1008840168",
+            "label": "원문 기사",
+            "kind": "source"
+          }
+        ],
+        "caution": "SBS 영문판은 AI 번역 오류 가능성을 고지했고 바이에른은 경기 지휘 복귀일을 확정하지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-10",
+          "observation": "콤파니는 10월 23일 훈련장에서 쓰러진 뒤 치료를 받아왔고 부재 중 수석코치가 팀을 지휘했다.",
+          "checked_materials": [],
+          "outline": [
+            "3주 만의 훈련장 복귀와 건강 경과 제시",
+            "벤치 복귀 시점과 어깨 재활의 미확정 부분 설명"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "원문 기사",
+            "url": "https://news.sbs.co.kr/amp/news.amp?news_id=N1008840168"
+          }
+        ],
+        "excerpt": "",
+        "context": "바이에른이 11월 10일 콤파니가 이번 주 훈련장에 돌아왔다고 발표했다.",
+        "fetched_at": 1794391368,
+        "parser_revision": 7
+      },
+      "curation_event_key": "bayern-kompany-return-training-ground-after-collapse-recovery-20261110"
+    },
+    "234a6a829ccc": {
+      "source": "Reuters",
+      "title": "인도, 폐배터리 핵심 원료 수출 전면 금지…중국 의존 낮춘다",
+      "link": "https://www.reuters.com/world/india/india-bans-export-lithium-ion-battery-recycled-material-2026-11-11/",
+      "first_seen_at": 1794391368,
+      "last_seen_at": 1794391368,
+      "samples": [
+        {
+          "at": 1794391368,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "234a6a829ccc",
+      "editorial": {
+        "title": "인도, 폐배터리 핵심 원료 수출 전면 금지…중국 의존 낮춘다",
+        "category": "시사",
+        "url": "https://www.reuters.com/world/india/india-bans-export-lithium-ion-battery-recycled-material-2026-11-11/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "india-bans-lithium-battery-black-mass-export-domestic-processing-20261110",
+        "why": "전기차 배터리 핵심 금속을 국내에 묶어 공급망을 재편하는 즉시 시행 조치다.",
+        "angle": "수출금지 품목과 3억달러 규모 국내 가공 지원책을 함께 보여준다.",
+        "why_now": "인도 정부가 11월 10일 리튬이온 배터리 블랙매스 수출 상태를 즉시 금지로 바꿨다.",
+        "verified_at": 1794391280,
+        "published_at": 1794386640,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/world/india/india-bans-export-lithium-ion-battery-recycled-material-2026-11-11/",
+            "note": "수출금지는 리튬·코발트·니켈·망간을 담은 블랙매스와 일부 배터리 폐기물에 적용된다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/world/india/india-bans-export-lithium-ion-battery-recycled-material-2026-11-11/",
+            "label": "원문 기사",
+            "kind": "source"
+          }
+        ],
+        "caution": "국내 가공 확대와 중국 의존 축소는 정책 목표이며 실제 생산 증가 규모는 아직 확인되지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-10",
+          "observation": "내각은 앞서 리튬·니켈 국내 가공을 지원하는 281억4천만루피 인센티브를 승인했다.",
+          "checked_materials": [],
+          "outline": [
+            "블랙매스 즉시 수출금지 조치 제시",
+            "전기차 공급망·국내 가공 지원책과 실제 효과의 미확정 설명"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "원문 기사",
+            "url": "https://www.reuters.com/world/india/india-bans-export-lithium-ion-battery-recycled-material-2026-11-11/"
+          }
+        ],
+        "excerpt": "",
+        "context": "인도 정부가 11월 10일 리튬이온 배터리 블랙매스 수출 상태를 즉시 금지로 바꿨다.",
+        "fetched_at": 1794391368,
+        "parser_revision": 7
+      },
+      "curation_event_key": "india-bans-lithium-battery-black-mass-export-domestic-processing-20261110"
+    },
+    "4733be490f2b": {
+      "source": "Reuters",
+      "title": "英 당국, 250억달러 아크조노벨·악살타 합병에도 시정 요구",
+      "link": "https://www.reuters.com/business/akzonobel-axalta-get-week-address-uk-regulator-concerns-over-25-billion-merger-2026-11-11/",
+      "first_seen_at": 1794391368,
+      "last_seen_at": 1794391368,
+      "samples": [
+        {
+          "at": 1794391368,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "4733be490f2b",
+      "editorial": {
+        "title": "英 당국, 250억달러 아크조노벨·악살타 합병에도 시정 요구",
+        "category": "시사",
+        "url": "https://www.reuters.com/business/akzonobel-axalta-get-week-address-uk-regulator-concerns-over-25-billion-merger-2026-11-11/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "uk-cma-akzonobel-axalta-25b-merger-remedies-20261111",
+        "why": "차량 보수용 도료 시장의 절반 가까이를 차지할 대형 합병이 심층조사 갈림길에 섰다.",
+        "angle": "시장점유율 우려와 이미 확보한 EU 조건부 승인을 함께 비교한다.",
+        "why_now": "영국 CMA가 11월 11일 양사에 18일까지 경쟁 시정안을 내라고 요구했다.",
+        "verified_at": 1794391280,
+        "published_at": 1794386400,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/business/akzonobel-axalta-get-week-address-uk-regulator-concerns-over-25-billion-merger-2026-11-11/",
+            "note": "CMA는 합병사의 영국 차량 보수용 도료 공급 점유율이 40~50%가 돼 가격·품질 경쟁을 약화할 수 있다고 밝혔다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/business/akzonobel-axalta-get-week-address-uk-regulator-concerns-over-25-billion-merger-2026-11-11/",
+            "label": "원문 기사",
+            "kind": "source"
+          }
+        ],
+        "caution": "합병이 차단된 것은 아니며 양사는 EU 승인 때 제시한 매각안을 영국에도 적용하겠다고 밝혔다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-11",
+          "observation": "시정안이 받아들여지지 않으면 영국 당국의 2단계 심층조사가 시작될 수 있다.",
+          "checked_materials": [],
+          "outline": [
+            "250억달러 합병과 40~50% 점유율 우려 제시",
+            "11월 18일 시정 기한·EU 조건부 승인·미확정 결과 설명"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "원문 기사",
+            "url": "https://www.reuters.com/business/akzonobel-axalta-get-week-address-uk-regulator-concerns-over-25-billion-merger-2026-11-11/"
+          }
+        ],
+        "excerpt": "",
+        "context": "영국 CMA가 11월 11일 양사에 18일까지 경쟁 시정안을 내라고 요구했다.",
+        "fetched_at": 1794391368,
+        "parser_revision": 7
+      },
+      "curation_event_key": "uk-cma-akzonobel-axalta-25b-merger-remedies-20261111"
+    },
+    "fa5fcc5ed2fc": {
+      "source": "Reuters",
+      "title": "대만, APEC 중국 개최 앞두고 ‘동등 참여’ 서면보장 요구",
+      "link": "https://www.reuters.com/world/asia-pacific/taiwan-appoints-acer-founder-its-apec-summit-envoy-2026-11-11/",
+      "first_seen_at": 1794391368,
+      "last_seen_at": 1794391368,
+      "samples": [
+        {
+          "at": 1794391368,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "fa5fcc5ed2fc",
+      "editorial": {
+        "title": "대만, APEC 중국 개최 앞두고 ‘동등 참여’ 서면보장 요구",
+        "category": "시사",
+        "url": "https://www.reuters.com/world/asia-pacific/taiwan-appoints-acer-founder-its-apec-summit-envoy-2026-11-11/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "taiwan-acer-founder-apec-envoy-written-guarantee-china-20261111",
+        "why": "양안 긴장 속 중국 개최 APEC에서 대만 대표단의 안전·지위가 외교 쟁점으로 떠올랐다.",
+        "angle": "에이서 창업자 특사 임명과 중국에 요구한 서면보장을 구분해 전한다.",
+        "why_now": "대만 정부가 11월 11일 스탠 시를 APEC 특사로 임명하고 중국에 서면보장을 요구했다.",
+        "verified_at": 1794391280,
+        "published_at": 1794381240,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/world/asia-pacific/taiwan-appoints-acer-founder-its-apec-summit-envoy-2026-11-11/",
+            "note": "대만은 모든 회의에서 동등·존엄·안전 조건으로 참가할 수 있다는 중국의 서면보장을 요청했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/world/asia-pacific/taiwan-appoints-acer-founder-its-apec-summit-envoy-2026-11-11/",
+            "label": "원문 기사",
+            "kind": "source"
+          }
+        ],
+        "caution": "중국 외교부는 로이터 질의에 즉시 답하지 않아 보장 수용 여부는 확인되지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-11",
+          "observation": "APEC 정상회의는 11월 18~19일 선전에서 열리며 대만은 에이서 창업자 스탠 시를 대표로 보낸다.",
+          "checked_materials": [],
+          "outline": [
+            "스탠 시 특사 임명과 중국 개최 일정 제시",
+            "대만의 서면보장 요구와 중국의 미응답 상태 설명"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "원문 기사",
+            "url": "https://www.reuters.com/world/asia-pacific/taiwan-appoints-acer-founder-its-apec-summit-envoy-2026-11-11/"
+          }
+        ],
+        "excerpt": "",
+        "context": "대만 정부가 11월 11일 스탠 시를 APEC 특사로 임명하고 중국에 서면보장을 요구했다.",
+        "fetched_at": 1794391368,
+        "parser_revision": 7
+      },
+      "curation_event_key": "taiwan-acer-founder-apec-envoy-written-guarantee-china-20261111"
+    },
+    "d95b6bc97044": {
+      "source": "Reuters",
+      "title": "폭스바겐 중국 전기차 합작사, 2년간 신차 계획 ‘제로’",
+      "link": "https://www.reuters.com/business/autos-transportation/volkswagens-china-ev-venture-has-no-new-models-planned-next-two-years-sources-2026-11-11/",
+      "first_seen_at": 1794391368,
+      "last_seen_at": 1794391368,
+      "samples": [
+        {
+          "at": 1794391368,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "d95b6bc97044",
+      "editorial": {
+        "title": "폭스바겐 중국 전기차 합작사, 2년간 신차 계획 ‘제로’",
+        "category": "시사",
+        "url": "https://www.reuters.com/business/autos-transportation/volkswagens-china-ev-venture-has-no-new-models-planned-next-two-years-sources-2026-11-11/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "volkswagen-anhui-no-new-ev-models-2027-2028-sales-shortfall-20261111",
+        "why": "세계 최대 전기차 시장에서 폭스바겐의 핵심 합작사가 신차 공백에 빠졌다는 독점 보도다.",
+        "angle": "판매 부진 수치와 회사가 공식 확인하지 않은 제품계획을 분리한다.",
+        "why_now": "로이터가 11월 11일 복수 관계자를 인용해 2027~2028년 신차 계획 부재를 보도했다.",
+        "verified_at": 1794391280,
+        "published_at": 1794384360,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/business/autos-transportation/volkswagens-china-ev-venture-has-no-new-models-planned-next-two-years-sources-2026-11-11/",
+            "note": "폭스바겐 안후이는 2027년과 2028년 새 모델 계획이 없으며 1~9월 ID.UNYX 판매는 1만1천360대였다고 관계자와 자료가 전했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/business/autos-transportation/volkswagens-china-ev-venture-has-no-new-models-planned-next-two-years-sources-2026-11-11/",
+            "label": "원문 기사",
+            "kind": "source"
+          }
+        ],
+        "caution": "신차계획은 익명 관계자 보도이며 폭스바겐 중국은 제품전략 질문에 답하지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-11",
+          "observation": "합작사는 2030년 손익분기를 목표로 하지만 중국 토종업체와의 경쟁 속 판매 목표에 크게 못 미쳤다.",
+          "checked_materials": [],
+          "outline": [
+            "2027~2028년 신차 공백 보도와 판매 수치 제시",
+            "익명 취재원·회사 미확인과 중국 EV 경쟁 맥락 설명"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "원문 기사",
+            "url": "https://www.reuters.com/business/autos-transportation/volkswagens-china-ev-venture-has-no-new-models-planned-next-two-years-sources-2026-11-11/"
+          }
+        ],
+        "excerpt": "",
+        "context": "로이터가 11월 11일 복수 관계자를 인용해 2027~2028년 신차 계획 부재를 보도했다.",
+        "fetched_at": 1794391368,
+        "parser_revision": 7
+      },
+      "curation_event_key": "volkswagen-anhui-no-new-ev-models-2027-2028-sales-shortfall-20261111"
+    },
     "7e1b8597b2d4": {
       "source": "Reuters",
       "title": "美 제재에 이란 축구대표팀 항공편도 차단…버스로 이라크 이동",
@@ -22316,362 +22671,7 @@
         "parser_revision": 7
       },
       "curation_event_key": "us-russia-ukraine-abu-dhabi-talks-nov10-11-new-attacks-20261103"
-    },
-    "ac92f7aef545": {
-      "source": "Arseblog·로이터",
-      "title": "살리바, 월드컵 부상 뒤 복귀 준비 끝…아르테타 ‘출전 가능’",
-      "link": "https://arseblog.news/2026/11/arteta-saliba-ready-to-go-after-three-month-absence/",
-      "first_seen_at": 1793783404,
-      "last_seen_at": 1793783404,
-      "samples": [
-        {
-          "at": 1793783404,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "ac92f7aef545",
-      "editorial": {
-        "title": "살리바, 월드컵 부상 뒤 복귀 준비 끝…아르테타 ‘출전 가능’",
-        "category": "축구",
-        "url": "https://arseblog.news/2026/11/arteta-saliba-ready-to-go-after-three-month-absence/",
-        "source": "Arseblog·로이터",
-        "kind": "article",
-        "event_key": "arsenal-saliba-full-training-match-ready-arteta-20261103",
-        "why": "아스널 핵심 수비수가 장기 공백 끝에 실전 복귀 준비를 마쳐 우승 경쟁과 수비진 운영에 영향을 준다.",
-        "angle": "월드컵 뒤 공백에서 비공개 경기 45분 소화·출전 가능 판단으로 이어진 변화를 보여준다.",
-        "why_now": "훈련 복귀·감독 회견은 영국 11/3. 해당 기사 최초 공개 11/3(분 미명시), 로이터 훈련 보도는 11/3 14:06 UTC. 48시간 안 미발송 발표를 검토했다.",
-        "verified_at": 1793783302,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://arseblog.news/2026/11/arteta-saliba-ready-to-go-after-three-month-absence/",
-            "note": "아르테타는 살리바가 지난주 비공개 경기에서 45분을 뛰었고 이제 출전할 준비가 됐다고 말했다. 3일 1군 전체 훈련에 참여했으며 슬라비아 프라하전 명단에 포함됐다. 회견을 인용한 본문을 확인했으며 실제 복귀 출전은 아직 확인하지 않았다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://arseblog.news/2026/11/arteta-saliba-ready-to-go-after-three-month-absence/",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "훈련·명단 복귀와 공식 경기 출전을 구분한다. 선발이나 출전 시간이 확정된 것은 아니다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-03",
-          "observation": "아르테타는 살리바가 지난주 비공개 경기에서 45분을 뛰었고 이제 출전할 준비가 됐다고 말했다. 3일 1군 전체 훈련에 참여했으며 슬라비아 프라하전 명단에 포함됐다. 회견을 인용한 본문을 확인했으며 실제 복귀 출전은 아직 확인하지 않았다.",
-          "checked_materials": [],
-          "outline": [
-            "월드컵 뒤 공백에서 비공개 경기 45분 소화·출전 가능 판단으로 이어진 변화를 보여준다.",
-            "훈련·명단 복귀와 공식 경기 출전을 구분한다. 선발이나 출전 시간이 확정된 것은 아니다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://arseblog.news/2026/11/arteta-saliba-ready-to-go-after-three-month-absence/"
-          }
-        ],
-        "excerpt": "",
-        "context": "훈련 복귀·감독 회견은 영국 11/3. 해당 기사 최초 공개 11/3(분 미명시), 로이터 훈련 보도는 11/3 14:06 UTC. 48시간 안 미발송 발표를 검토했다.",
-        "fetched_at": 1793783404,
-        "parser_revision": 7
-      },
-      "curation_event_key": "arsenal-saliba-full-training-match-ready-arteta-20261103"
-    },
-    "d00c1a1ceea9": {
-      "source": "연합뉴스",
-      "title": "아시안컵 연기 여파…축구협회 ‘모레노 정식 계약은 차기 집행부 몫’",
-      "link": "https://www.yna.co.kr/view/AKR20261103167700007",
-      "first_seen_at": 1793783404,
-      "last_seen_at": 1793783404,
-      "samples": [
-        {
-          "at": 1793783404,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "d00c1a1ceea9",
-      "editorial": {
-        "title": "아시안컵 연기 여파…축구협회 ‘모레노 정식 계약은 차기 집행부 몫’",
-        "category": "축구",
-        "url": "https://www.yna.co.kr/view/AKR20261103167700007",
-        "source": "연합뉴스",
-        "kind": "article",
-        "event_key": "kfa-moreno-contract-next-executive-after-asian-cup-delay-20261103",
-        "why": "대표팀 감독 계약 만료와 협회장 공백이 겹쳐 한국 축구의 차기 지휘 체계에 직접 영향을 준다.",
-        "angle": "11월 27일 계약 종료와 차기 집행부 선임 사이 공백을 협회 관계자 발언으로 짚는다.",
-        "why_now": "협회 관계자의 11/3 전화 발언. 원문 최초 11/3 17:37 KST. 아시안컵 연기 자체·일본 감독 전망과 다른 한국 대표팀 계약 대응을 검토했다.",
-        "verified_at": 1793783302,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261103167700007",
-            "note": "협회 관계자는 11월 6경기 평가 내용을 이사회에 알리되 차기 사령탑 선정은 다음 집행부에 넘기는 것이 최선이라고 말했다. 모레노의 임시 지위를 당분간 인정하는 방안도 언급했다. 익명 관계자 인용 본문에서 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261103167700007",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "모레노 퇴임·재계약 불발이 확정된 것은 아니다. 대회 세부 날짜는 기사끼리 달라 단정하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-03",
-          "observation": "협회 관계자는 11월 6경기 평가 내용을 이사회에 알리되 차기 사령탑 선정은 다음 집행부에 넘기는 것이 최선이라고 말했다. 모레노의 임시 지위를 당분간 인정하는 방안도 언급했다. 익명 관계자 인용 본문에서 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "11월 27일 계약 종료와 차기 집행부 선임 사이 공백을 협회 관계자 발언으로 짚는다.",
-            "모레노 퇴임·재계약 불발이 확정된 것은 아니다. 대회 세부 날짜는 기사끼리 달라 단정하지 않는다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://www.yna.co.kr/view/AKR20261103167700007"
-          }
-        ],
-        "excerpt": "",
-        "context": "협회 관계자의 11/3 전화 발언. 원문 최초 11/3 17:37 KST. 아시안컵 연기 자체·일본 감독 전망과 다른 한국 대표팀 계약 대응을 검토했다.",
-        "fetched_at": 1793783404,
-        "parser_revision": 7
-      },
-      "curation_event_key": "kfa-moreno-contract-next-executive-after-asian-cup-delay-20261103"
-    },
-    "f8fcf259bac3": {
-      "source": "ABC·AAP",
-      "title": "39세 조코비치, 파리 마스터스 최고령 승리…파이널스 도전 이어간다",
-      "link": "https://www.abc.net.au/news/2026-11-04/tennis-djokovic-oldest-winner-paris-masters-hijikata-clash-next/107343944",
-      "first_seen_at": 1793783404,
-      "last_seen_at": 1793783404,
-      "samples": [
-        {
-          "at": 1793783404,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "f8fcf259bac3",
-      "editorial": {
-        "title": "39세 조코비치, 파리 마스터스 최고령 승리…파이널스 도전 이어간다",
-        "category": "메이저 스포츠",
-        "url": "https://www.abc.net.au/news/2026-11-04/tennis-djokovic-oldest-winner-paris-masters-hijikata-clash-next/107343944",
-        "source": "ABC·AAP",
-        "kind": "article",
-        "event_key": "djokovic-paris-masters-oldest-match-win-vacherot-20261103",
-        "why": "세계 테니스의 대표 스타가 대회 최고령 승리 기록을 세우며 시즌 최종전 출전 경쟁을 이어갔다.",
-        "angle": "어깨 치료와 역전승을 거쳐 대회 최고령 승자가 된 결과를 먼저 전한다.",
-        "why_now": "경기는 파리 현지 11/3. ABC 최초 기사 11/4 07:16(페이지 표기, 시간대 미명시). 첫 공개 분은 특정하지 못했으며 경기 당일 원본 보도를 확인했다.",
-        "verified_at": 1793783302,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.abc.net.au/news/2026-11-04/tennis-djokovic-oldest-winner-paris-masters-hijikata-clash-next/107343944",
-            "note": "조코비치는 바슈로에게 첫 세트를 내준 뒤 6-7, 7-5, 6-1로 역전해 39세에 파리 마스터스 역대 최고령 경기 승자가 됐다. 경기 중 어깨 치료를 받았다는 본문과 파이널스 출전 경쟁 지속을 확인했다. 경기 영상은 시청하지 않았다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.abc.net.au/news/2026-11-04/tennis-djokovic-oldest-winner-paris-masters-hijikata-clash-next/107343944",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "대회 최고령 ‘경기 승리’이며 우승 기록이 아니다. 파이널스 출전 확정으로 쓰지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-03",
-          "observation": "조코비치는 바슈로에게 첫 세트를 내준 뒤 6-7, 7-5, 6-1로 역전해 39세에 파리 마스터스 역대 최고령 경기 승자가 됐다. 경기 중 어깨 치료를 받았다는 본문과 파이널스 출전 경쟁 지속을 확인했다. 경기 영상은 시청하지 않았다.",
-          "checked_materials": [],
-          "outline": [
-            "어깨 치료와 역전승을 거쳐 대회 최고령 승자가 된 결과를 먼저 전한다.",
-            "대회 최고령 ‘경기 승리’이며 우승 기록이 아니다. 파이널스 출전 확정으로 쓰지 않는다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://www.abc.net.au/news/2026-11-04/tennis-djokovic-oldest-winner-paris-masters-hijikata-clash-next/107343944"
-          }
-        ],
-        "excerpt": "",
-        "context": "경기는 파리 현지 11/3. ABC 최초 기사 11/4 07:16(페이지 표기, 시간대 미명시). 첫 공개 분은 특정하지 못했으며 경기 당일 원본 보도를 확인했다.",
-        "fetched_at": 1793783404,
-        "parser_revision": 7
-      },
-      "curation_event_key": "djokovic-paris-masters-oldest-match-win-vacherot-20261103"
-    },
-    "282f0aef2187": {
-      "source": "연합뉴스",
-      "title": "‘조작기소 특검법’ 법사소위 통과…공소취소권 조항은 삭제",
-      "link": "https://www.yna.co.kr/view/AKR20261104138600001",
-      "first_seen_at": 1793783404,
-      "last_seen_at": 1793783404,
-      "samples": [
-        {
-          "at": 1793783404,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "282f0aef2187",
-      "editorial": {
-        "title": "‘조작기소 특검법’ 법사소위 통과…공소취소권 조항은 삭제",
-        "category": "시사",
-        "url": "https://www.yna.co.kr/view/AKR20261104138600001",
-        "source": "연합뉴스",
-        "kind": "article",
-        "event_key": "fabricated-prosecution-special-counsel-bill-subcommittee-passed-20261104",
-        "why": "대통령 관련 재판과 전 정부 수사 전반을 다루는 대형 특검 법안이 실제 입법 절차를 통과했다.",
-        "angle": "소위 통과와 공소취소권 문구 삭제라는 두 변화를 구분해 제시한다.",
-        "why_now": "국회 법사소위 의결은 11/4(정확한 분 미확인), 원문 최초 16:09 KST. 5일 본회의 처리는 당시 여당 계획으로 보도됐다.",
-        "verified_at": 1793783302,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261104138600001",
-            "note": "법사위 법안심사1소위가 특검법안을 수정 의결했다. 특검이 공소 유지 여부를 결정할 수 있도록 한 조항이 삭제되고 수사 대상이 조정됐다. 국민의힘은 반발해 퇴장했다. 여야 입장과 소위 처리 사실을 기사 본문에서 구분했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261104138600001",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "소위 통과를 본회의 통과·법 시행으로 쓰지 않는다. 조작기소 의혹이 사실로 확정된 것은 아니다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-04",
-          "observation": "법사위 법안심사1소위가 특검법안을 수정 의결했다. 특검이 공소 유지 여부를 결정할 수 있도록 한 조항이 삭제되고 수사 대상이 조정됐다. 국민의힘은 반발해 퇴장했다. 여야 입장과 소위 처리 사실을 기사 본문에서 구분했다.",
-          "checked_materials": [],
-          "outline": [
-            "소위 통과와 공소취소권 문구 삭제라는 두 변화를 구분해 제시한다.",
-            "소위 통과를 본회의 통과·법 시행으로 쓰지 않는다. 조작기소 의혹이 사실로 확정된 것은 아니다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://www.yna.co.kr/view/AKR20261104138600001"
-          }
-        ],
-        "excerpt": "",
-        "context": "국회 법사소위 의결은 11/4(정확한 분 미확인), 원문 최초 16:09 KST. 5일 본회의 처리는 당시 여당 계획으로 보도됐다.",
-        "fetched_at": 1793783404,
-        "parser_revision": 7
-      },
-      "curation_event_key": "fabricated-prosecution-special-counsel-bill-subcommittee-passed-20261104"
-    },
-    "107d150f4bb4": {
-      "source": "연합뉴스",
-      "title": "드라마 산업 12개 단체 ‘고사 위기’…5년간 1조원 지원 요구",
-      "link": "https://www.yna.co.kr/view/AKR20261104094500005",
-      "first_seen_at": 1793783404,
-      "last_seen_at": 1793783404,
-      "samples": [
-        {
-          "at": 1793783404,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "107d150f4bb4",
-      "editorial": {
-        "title": "드라마 산업 12개 단체 ‘고사 위기’…5년간 1조원 지원 요구",
-        "category": "시사",
-        "url": "https://www.yna.co.kr/view/AKR20261104094500005",
-        "source": "연합뉴스",
-        "kind": "article",
-        "event_key": "k-drama-twelve-industry-groups-five-year-trillion-support-demand-20261104",
-        "why": "제작사·방송사·작가·스태프 단체가 함께 일자리와 IP 수익 구조 문제를 제기한 산업 전체 사안이다.",
-        "angle": "연예인 근황이 아닌 제작 일자리 축소와 1조원 지원 요구의 구조를 설명한다.",
-        "why_now": "12개 단체 공동 회견은 11/4 오전(분 미확인). 원문 최초 11/4 14:13 KST. 과거 제작 감소 수치와 이날 새 공동 요구를 분리했다.",
-        "verified_at": 1793783302,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261104094500005",
-            "note": "12개 제작·창작자 단체가 공동 회견에서 중장기 1조원 지원체계를 요구했다. 연간 2000억원씩 5년 지원하고 방송사·플랫폼도 제작비를 분담하자는 제안이다. 제작 편수 감소와 IP 수익 공유 문제는 단체들의 집계·주장임을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261104094500005",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "정부가 1조원 지원을 결정한 것이 아니다. 제작 감소·고사 위기 평가는 업계 집계와 주장이다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-04",
-          "observation": "12개 제작·창작자 단체가 공동 회견에서 중장기 1조원 지원체계를 요구했다. 연간 2000억원씩 5년 지원하고 방송사·플랫폼도 제작비를 분담하자는 제안이다. 제작 편수 감소와 IP 수익 공유 문제는 단체들의 집계·주장임을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "연예인 근황이 아닌 제작 일자리 축소와 1조원 지원 요구의 구조를 설명한다.",
-            "정부가 1조원 지원을 결정한 것이 아니다. 제작 감소·고사 위기 평가는 업계 집계와 주장이다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://www.yna.co.kr/view/AKR20261104094500005"
-          }
-        ],
-        "excerpt": "",
-        "context": "12개 단체 공동 회견은 11/4 오전(분 미확인). 원문 최초 11/4 14:13 KST. 과거 제작 감소 수치와 이날 새 공동 요구를 분리했다.",
-        "fetched_at": 1793783404,
-        "parser_revision": 7
-      },
-      "curation_event_key": "k-drama-twelve-industry-groups-five-year-trillion-support-demand-20261104"
     }
   },
-  "updated_at": 1794387964
+  "updated_at": 1794391368
 }
