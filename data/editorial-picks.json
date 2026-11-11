@@ -1,50 +1,50 @@
 {
   "version": 2,
-  "hour_utc": "2026111107",
+  "hour_utc": "2026111108",
   "reviewer": "ChatGPT",
-  "generated_at": 1794380740,
+  "generated_at": 1794383998,
   "coverage": {
     "queries": [
-      "November 11 2026 major football official announcement injury transfer coach latest",
-      "November 11 2026 major sports breaking news official MLB NBA FIFA",
-      "November 11 2026 Reuters world breaking major news",
-      "2026년 11월 11일 SBS 연합뉴스 YTN 스포츠 주요 뉴스"
+      "November 11 2026 latest major football official announcement 07:00 UTC",
+      "November 11 2026 latest major sports Reuters official 07:00 UTC",
+      "November 11 2026 Reuters world breaking latest after 06:45 UTC",
+      "2026년 11월 11일 16시 이후 연합뉴스 SBS YTN 스포츠 속보"
     ],
     "opened_urls": [
-      "https://www.reuters.com/world/india/india-holds-pernod-diageo-scotch-shipments-investigators-seek-higher-tariff-2026-11-11/",
-      "https://www.reuters.com/world/asia-pacific/over-100-indonesian-lawmakers-sign-petition-that-could-lead-vice-presidents-2026-11-11/",
-      "https://www.reuters.com/world/americas/iran-designates-argentinas-navy-air-force-terrorist-organizations-2026-11-11/",
-      "https://www.reuters.com/world/india/mumbai-trade-captain-pandya-punjab-exchange-arshdeep-ipl-2026-11-11/",
-      "https://www.reuters.com/world/russia-arrests-two-suspected-polish-spies-kaliningrad-interfax-reports-2026-11-11/"
+      "https://www.reuters.com/world/china/nvidia-ceos-affair-aided-75-billion-chip-shipments-china-information-reports-2026-11-10/",
+      "https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/",
+      "https://www.reuters.com/world/pentagon-chief-hegseth-calls-moves-impeach-him-farce-that-will-fail-2026-11-10/",
+      "https://www.reuters.com/world/americas/ortegas-frail-return-public-revives-succession-debate-nicaragua-2026-11-10/",
+      "https://www.reuters.com/business/energy/venezuela-lawmakers-opens-crisis-hit-power-sector-private-investment-2026-11-10/",
+      "https://www.reuters.com/business/retail-consumer/chinas-car-sales-seen-falling-below-19-million-units-first-time-since-2014-2026-11-11/"
     ],
     "unavailable": [
-      "run_usage search=4 opened=5 failed=3 started=1794380461 elapsed=279s end=preflight_input_fixed",
-      "MLB 기사 URL은 본문 도구 접근 실패로 제외",
-      "Reuters 축구 추정 URL 2건은 접근 실패 후 같은 방식 중단"
+      "run_usage search=4 opened=6 failed=1 started=1794383856 elapsed=142s end=preflight_input_fixed",
+      "Reuters 스포츠 요약 원문은 시간초과로 제외"
     ]
   },
   "picks": [
     {
-      "title": "IPL 초대형 트레이드…뭄바이 주장 판디아, 아르시딥과 맞교환",
-      "category": "메이저 스포츠",
-      "url": "https://www.reuters.com/world/india/mumbai-trade-captain-pandya-punjab-exchange-arshdeep-ipl-2026-11-11/",
+      "title": "미 수출금지 뚫렸다…중국 군 연계 대학, 엔비디아 H200 구매",
+      "category": "시사",
+      "url": "https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/",
       "source": "Reuters",
       "kind": "article",
-      "event_key": "ipl-mumbai-pandya-punjab-arshdeep-captain-trade-20261111",
-      "why": "IPL 5회 우승팀 주장과 인도 대표급 좌완이 맞바뀐 리그 판도 변화다.",
-      "angle": "판디아의 네 차례 우승 경력과 아르시딥·범라 새 조합을 대비한다.",
-      "why_now": "IPL 주최 측이 11월 11일 맞교환을 발표했다.",
-      "verified_at": 1794380740,
-      "published_at": 1794373080,
+      "event_key": "china-pla-linked-university-nvidia-h200-blacklist-purchase-20261111",
+      "why": "미국의 최첨단 AI칩 수출통제 구멍이 군 연계 대학의 실제 구매 기록으로 드러났다.",
+      "angle": "블랙리스트 대학의 H200 구매 경로와 통제 한계를 함께 보여준다.",
+      "why_now": "로이터가 11월 11일 조달 기록을 토대로 처음 보도했다.",
+      "verified_at": 1794383998,
+      "published_at": 1794373980,
       "evidence": [
         {
-          "url": "https://www.reuters.com/world/india/mumbai-trade-captain-pandya-punjab-exchange-arshdeep-ipl-2026-11-11/",
-          "note": "IPL 주최 측 발표로 뭄바이가 주장 하르딕 판디아를 펀자브에 보내고 아르시딥 싱을 받는 거래를 확인했다."
+          "url": "https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/",
+          "note": "미 수출 블랙리스트에 오른 군 연계 대학이 직접 엔비디아가 아닌 중국 공급업체에서 H200을 산 기록이 확인됐다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/world/india/mumbai-trade-captain-pandya-punjab-exchange-arshdeep-ipl-2026-11-11/",
+          "url": "https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/",
           "label": "원문 기사",
           "kind": "source"
         }
@@ -52,36 +52,36 @@
       "caution": "",
       "readiness": {
         "mode": "major_news",
-        "event_date": "2026-11-11",
-        "observation": "판디아는 2024년부터 뭄바이 주장이며 네 차례 IPL 우승 경험이 있고, 아르시딥은 펀자브에서 여덟 시즌을 뛰었다.",
+        "event_date": "중국 서북공업대가 지난달 중국 공급업체를 통해 H200 두 개를 87만4천700위안에 구매한 기록을 확인했다.",
+        "observation": [
+          "블랙리스트 대학의 H200 구매 기록을 첫 카드로 제시",
+          "중국 공급업체 경유와 미국 수출통제의 한계를 설명"
+        ],
         "checked_materials": [],
-        "outline": [
-          "주장 판디아와 아르시딥의 맞교환을 첫 카드로 제시",
-          "두 선수의 우승·소속 경력과 뭄바이 투수진 변화를 설명"
-        ]
+        "outline": "대학·엔비디아·미 상무부는 로이터 질의에 답하지 않았다."
       }
     },
     {
-      "title": "인도네시아 부통령 탄핵 문 열리나…의원 100명 이상 청원 서명",
+      "title": "미 하원, 헤그세스 국방장관 탄핵 시도 차단…211대204",
       "category": "시사",
-      "url": "https://www.reuters.com/world/asia-pacific/over-100-indonesian-lawmakers-sign-petition-that-could-lead-vice-presidents-2026-11-11/",
+      "url": "https://www.reuters.com/world/pentagon-chief-hegseth-calls-moves-impeach-him-farce-that-will-fail-2026-11-10/",
       "source": "Reuters",
       "kind": "article",
-      "event_key": "indonesia-gibran-impeachment-petition-100-lawmakers-20261111",
-      "why": "동남아 최대 경제국의 권력 구도를 흔들 수 있는 의회 절차의 새 단계다.",
-      "angle": "사임 의사 보도 뒤 탄핵 청원이 의회로 이동한 중대 후속을 짚는다.",
-      "why_now": "11월 11일 의원 100명 이상 서명과 제출 계획이 새로 확인됐다.",
-      "verified_at": 1794380740,
-      "published_at": 1794379620,
+      "event_key": "us-house-blocks-hegseth-impeachment-211-204-20261110",
+      "why": "미 국방장관 탄핵 시도가 표결로 차단되며 차기 민주당 의회까지 정치 공방이 연장됐다.",
+      "angle": "8개 탄핵소추안과 절차 표결 결과, 향후 재추진 가능성을 구분한다.",
+      "why_now": "11월 10일 하원이 법사위 회부 동의를 211대204로 가결해 본회의 탄핵 표결을 막았다.",
+      "verified_at": 1794383998,
+      "published_at": 1794316560,
       "evidence": [
         {
-          "url": "https://www.reuters.com/world/asia-pacific/over-100-indonesian-lawmakers-sign-petition-that-could-lead-vice-presidents-2026-11-11/",
-          "note": "의원 100명 이상이 탄핵 절차로 이어질 수 있는 청원에 서명했고, 서명 의원은 하원의장 제출 계획을 밝혔다."
+          "url": "https://www.reuters.com/world/pentagon-chief-hegseth-calls-moves-impeach-him-farce-that-will-fail-2026-11-10/",
+          "note": "공화당 주도 하원이 본회의 탄핵 표결을 차단했지만 민주당이 다음 의회를 장악하면 재추진 가능성이 남는다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/world/asia-pacific/over-100-indonesian-lawmakers-sign-petition-that-could-lead-vice-presidents-2026-11-11/",
+          "url": "https://www.reuters.com/world/pentagon-chief-hegseth-calls-moves-impeach-him-farce-that-will-fail-2026-11-10/",
           "label": "원문 기사",
           "kind": "source"
         }
@@ -89,36 +89,36 @@
       "caution": "",
       "readiness": {
         "mode": "major_news",
-        "event_date": "2026-11-11",
-        "observation": "헌법재판소·대법원 판단 뒤 의원 100명 이상이 자격 문제를 제기했지만, 실제 탄핵 성립은 아직 확정되지 않았다.",
+        "event_date": "하원은 8개 탄핵소추안을 법사위로 넘기는 절차 동의를 211대204로 통과시켰다.",
+        "observation": [
+          "211대204 절차 표결과 본회의 차단을 제시",
+          "탄핵 혐의 주장과 차기 의회 재추진 가능성을 분리"
+        ],
         "checked_materials": [],
-        "outline": [
-          "의원 100명 이상 서명이라는 새 사실을 먼저 제시",
-          "법원 판단과 의회 절차, 탄핵 미확정 상태를 구분"
-        ]
+        "outline": "탄핵 혐의는 제안자 측 주장이고 유죄 판단이 아니다."
       }
     },
     {
-      "title": "인도·영국 무역협정 첫 대형 분쟁…스카치 컨테이너 수십 개 묶였다",
+      "title": "베네수엘라, 20년 국가독점 깼다…전력시장 민간투자 개방",
       "category": "시사",
-      "url": "https://www.reuters.com/world/india/india-holds-pernod-diageo-scotch-shipments-investigators-seek-higher-tariff-2026-11-11/",
+      "url": "https://www.reuters.com/business/energy/venezuela-lawmakers-opens-crisis-hit-power-sector-private-investment-2026-11-10/",
       "source": "Reuters",
       "kind": "article",
-      "event_key": "india-uk-trade-pact-scotch-150-tariff-container-hold-20261111",
-      "why": "발효 넉 달 된 인도·영국 무역협정의 핵심 관세 혜택을 시험하는 첫 대형 분쟁이다.",
-      "angle": "75% 협정세율과 조사당국의 150% 부과 지시가 충돌한 구조를 보여준다.",
-      "why_now": "로이터가 11월 11일 정부 메모와 항만 억류 규모를 확인했다.",
-      "verified_at": 1794380740,
-      "published_at": 1794379080,
+      "event_key": "venezuela-electricity-private-investment-state-monopoly-reform-20261110",
+      "why": "전력난이 일상화된 베네수엘라가 약 20년 국가독점을 끝내는 구조 개편에 나섰다.",
+      "angle": "법 개정 내용과 발전설비 가동률 40% 미만 현실을 함께 보여준다.",
+      "why_now": "베네수엘라 의회가 11월 10일 전력시장 민간투자를 허용하는 법 개정을 승인했다.",
+      "verified_at": 1794383998,
+      "published_at": 1794345180,
       "evidence": [
         {
-          "url": "https://www.reuters.com/world/india/india-holds-pernod-diageo-scotch-shipments-investigators-seek-higher-tariff-2026-11-11/",
-          "note": "인도 세관이 페르노리카·디아지오의 벌크 스카치 컨테이너 수십 개를 억류했고 조사당국은 150% 관세 적용을 지시했다."
+          "url": "https://www.reuters.com/business/energy/venezuela-lawmakers-opens-crisis-hit-power-sector-private-investment-2026-11-10/",
+          "note": "의회가 민간투자를 허용했으며 현재 발전설비 가동률은 40% 미만이라고 기사에서 확인됐다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/world/india/india-holds-pernod-diageo-scotch-shipments-investigators-seek-higher-tariff-2026-11-11/",
+          "url": "https://www.reuters.com/business/energy/venezuela-lawmakers-opens-crisis-hit-power-sector-private-investment-2026-11-10/",
           "label": "원문 기사",
           "kind": "source"
         }
@@ -126,73 +126,36 @@
       "caution": "",
       "readiness": {
         "mode": "major_news",
-        "event_date": "2026-11-11",
-        "observation": "상무부는 75% 협정세율 이행을 약속했지만 재무부 산하 조사당국은 벌크 원액을 완제품이 아니라고 판단해 결론이 충돌한다.",
+        "event_date": "개정법은 정부와 민간의 합작사업을 최대 25년 허용하고 국영석유사와의 계약 방식도 열었다.",
+        "observation": [
+          "20년 국가독점 종료와 민간투자 허용을 제시",
+          "정전 현실·낮은 가동률과 실제 개선까지의 불확실성 설명"
+        ],
         "checked_materials": [],
-        "outline": [
-          "항만에 묶인 수십 개 컨테이너와 150% 지시를 제시",
-          "75% 협정세율과 부처 간 해석 충돌, 공급 영향 설명"
-        ]
+        "outline": "투자 유입과 정전 개선 시점은 아직 확정되지 않았다."
       }
     },
     {
-      "title": "러시아, 칼리닌그라드서 '폴란드 정보요원' 2명 체포 주장",
+      "title": "중국 내수 자동차 판매, 12년 만에 1천900만대 아래 전망",
       "category": "시사",
-      "url": "https://www.reuters.com/world/russia-arrests-two-suspected-polish-spies-kaliningrad-interfax-reports-2026-11-11/",
+      "url": "https://www.reuters.com/business/retail-consumer/chinas-car-sales-seen-falling-below-19-million-units-first-time-since-2014-2026-11-11/",
       "source": "Reuters",
       "kind": "article",
-      "event_key": "russia-kaliningrad-two-alleged-polish-spies-arrested-20261111",
-      "why": "나토 접경 러시아 월경지에서 군사시설 첩보 혐의가 불거져 양측 긴장을 높일 사안이다.",
-      "angle": "체포 사실은 FSB 주장임을 분명히 하고 칼리닌그라드의 지정학적 위치를 설명한다.",
-      "why_now": "러시아 FSB 발표를 인테르팍스가 11월 11일 보도했다.",
-      "verified_at": 1794380740,
-      "published_at": 1794378960,
+      "event_key": "china-domestic-passenger-car-sales-below-19m-first-since-2014-20261111",
+      "why": "세계 최대 자동차 시장의 내수 약화가 2014년 이후 처음이라는 기준선으로 확인됐다.",
+      "angle": "내수 1천900만대 하회 전망과 1천100만대 수출 호조를 대비한다.",
+      "why_now": "중국자동차공업협회가 11월 11일 연간 전망과 10월 감소폭을 발표했다.",
+      "verified_at": 1794383998,
+      "published_at": 1794378480,
       "evidence": [
         {
-          "url": "https://www.reuters.com/world/russia-arrests-two-suspected-polish-spies-kaliningrad-interfax-reports-2026-11-11/",
-          "note": "러시아 FSB는 칼리닌그라드 군사시설 정보를 수집한 폴란드 정보기관 요원 2명을 체포했다고 주장했다."
+          "url": "https://www.reuters.com/business/retail-consumer/chinas-car-sales-seen-falling-below-19-million-units-first-time-since-2014-2026-11-11/",
+          "note": "내수는 2014년 이후 처음 1천900만대 아래가 예상되지만 수출은 연간 1천100만대를 넘을 전망이다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/world/russia-arrests-two-suspected-polish-spies-kaliningrad-interfax-reports-2026-11-11/",
-          "label": "원문 기사",
-          "kind": "source"
-        }
-      ],
-      "caution": "러시아 당국 주장으로 폴란드 측 독립 확인은 기사에 없다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-11",
-        "observation": "혐의와 신분은 러시아 FSB의 일방 발표이며 폴란드 측 독립 확인은 기사에 제시되지 않았다.",
-        "checked_materials": [],
-        "outline": [
-          "FSB가 주장한 체포·혐의 내용을 귀속해 제시",
-          "폴란드·리투아니아 접경 월경지의 긴장 맥락과 확인 한계 설명"
-        ]
-      }
-    },
-    {
-      "title": "이란, 아르헨 해·공군을 '테러조직' 지정…IRGC 지정에 맞불",
-      "category": "시사",
-      "url": "https://www.reuters.com/world/americas/iran-designates-argentinas-navy-air-force-terrorist-organizations-2026-11-11/",
-      "source": "Reuters",
-      "kind": "article",
-      "event_key": "iran-argentina-navy-air-force-terror-designation-reciprocal-20261111",
-      "why": "국가 정규군을 상호 테러조직으로 지정하며 이란과 아르헨티나 외교 갈등이 군사 영역으로 번졌다.",
-      "angle": "아르헨티나의 IRGC 지정과 이란의 해·공군 맞대응을 시간순으로 정리한다.",
-      "why_now": "이란 외무부가 11월 11일 상호주의에 따른 지정이라고 발표했다.",
-      "verified_at": 1794380740,
-      "published_at": 1794377400,
-      "evidence": [
-        {
-          "url": "https://www.reuters.com/world/americas/iran-designates-argentinas-navy-air-force-terrorist-organizations-2026-11-11/",
-          "note": "이란 외무부는 아르헨티나 해군과 공군을 테러조직으로 지정했으며 4월 아르헨티나의 IRGC 지정에 대한 상호 조치라고 밝혔다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.reuters.com/world/americas/iran-designates-argentinas-navy-air-force-terrorist-organizations-2026-11-11/",
+          "url": "https://www.reuters.com/business/retail-consumer/chinas-car-sales-seen-falling-below-19-million-units-first-time-since-2014-2026-11-11/",
           "label": "원문 기사",
           "kind": "source"
         }
@@ -200,13 +163,49 @@
       "caution": "",
       "readiness": {
         "mode": "major_news",
-        "event_date": "2026-11-11",
-        "observation": "이란은 아르헨티나 육군은 언급하지 않았고 구체적 후속 조치는 제시하지 않았다.",
+        "event_date": "협회는 올해 중국 내수 승용차 판매가 1천900만대 아래로 내려갈 것으로 전망했고 10월 전체 판매는 전년 대비 9.2% 감소했다.",
+        "observation": [
+          "내수 판매 12년 만의 기준선 하회 전망 제시",
+          "수출 호조와 10월 감소폭을 함께 비교"
+        ],
+        "checked_materials": []
+      }
+    },
+    {
+      "title": "81세 오르테가 두 달 만에 등장…니카라과 권력승계 논쟁 재점화",
+      "category": "시사",
+      "url": "https://www.reuters.com/world/americas/ortegas-frail-return-public-revives-succession-debate-nicaragua-2026-11-10/",
+      "source": "Reuters",
+      "kind": "article",
+      "event_key": "nicaragua-ortega-public-return-succession-debate-20261110",
+      "why": "미주 최장기 집권자의 공개 복귀가 가족 중심 승계 구도를 둘러싼 정치 변수를 키웠다.",
+      "angle": "두 달 공백 뒤 공개 석상과 부인·아들의 승계 가능성을 사실과 분석으로 나눈다.",
+      "why_now": "11월 10일 보도에서 오르테가의 두 달 만의 공개 등장과 11일 81세 생일이 확인됐다.",
+      "verified_at": 1794383998,
+      "published_at": 1794353580,
+      "evidence": [
+        {
+          "url": "https://www.reuters.com/world/americas/ortegas-frail-return-public-revives-succession-debate-nicaragua-2026-11-10/",
+          "note": "정부는 건강 이상설에 답하지 않았고 로이터도 확인하지 못했으므로 승계 임박은 분석가 전망으로만 다룬다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.reuters.com/world/americas/ortegas-frail-return-public-revives-succession-debate-nicaragua-2026-11-10/",
+          "label": "원문 기사",
+          "kind": "source"
+        }
+      ],
+      "caution": "",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "오르테가는 두 달 넘게 공개석상에서 사라졌다가 마나과 행사에 다시 등장했고 분석가들은 부인 또는 아들을 후계 후보로 거론했다.",
+        "observation": [
+          "두 달 만의 공개 복귀와 81세 시점을 제시",
+          "공동대통령인 부인과 아들의 승계 가능성, 확인 한계를 설명"
+        ],
         "checked_materials": [],
-        "outline": [
-          "양국의 상호 테러조직 지정 조치를 제시",
-          "1994년 AMIA 폭탄테러를 둘러싼 갈등 배경과 미제시 후속 조치 설명"
-        ]
+        "outline": "건강 이상과 승계 임박은 공식 확인이 아닌 관측이다."
       }
     }
   ],
