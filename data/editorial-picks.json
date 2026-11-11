@@ -39,7 +39,7 @@
       "evidence": [
         {
           "url": "https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/",
-          "note": "미 수출 블랙리스트에 오른 군 연계 대학이 직접 엔비디아가 아닌 중국 공급업체에서 H200을 산 기록이 확인됐다."
+          "note": "중국 서북공업대가 지난달 중국 공급업체를 통해 H200 두 개를 87만4천700위안에 구매한 기록을 확인했다."
         }
       ],
       "materials": [
@@ -49,16 +49,16 @@
           "kind": "source"
         }
       ],
-      "caution": "",
+      "caution": "대학·엔비디아·미 상무부는 로이터 질의에 답하지 않았다.",
       "readiness": {
         "mode": "major_news",
-        "event_date": "중국 서북공업대가 지난달 중국 공급업체를 통해 H200 두 개를 87만4천700위안에 구매한 기록을 확인했다.",
-        "observation": [
+        "event_date": "2026-11-11",
+        "observation": "미 수출 블랙리스트에 오른 군 연계 대학이 직접 엔비디아가 아닌 중국 공급업체에서 H200을 산 기록이 확인됐다.",
+        "checked_materials": [],
+        "outline": [
           "블랙리스트 대학의 H200 구매 기록을 첫 카드로 제시",
           "중국 공급업체 경유와 미국 수출통제의 한계를 설명"
-        ],
-        "checked_materials": [],
-        "outline": "대학·엔비디아·미 상무부는 로이터 질의에 답하지 않았다."
+        ]
       }
     },
     {
@@ -76,7 +76,7 @@
       "evidence": [
         {
           "url": "https://www.reuters.com/world/pentagon-chief-hegseth-calls-moves-impeach-him-farce-that-will-fail-2026-11-10/",
-          "note": "공화당 주도 하원이 본회의 탄핵 표결을 차단했지만 민주당이 다음 의회를 장악하면 재추진 가능성이 남는다."
+          "note": "하원은 8개 탄핵소추안을 법사위로 넘기는 절차 동의를 211대204로 통과시켰다."
         }
       ],
       "materials": [
@@ -86,16 +86,16 @@
           "kind": "source"
         }
       ],
-      "caution": "",
+      "caution": "탄핵 혐의는 제안자 측 주장이고 유죄 판단이 아니다.",
       "readiness": {
         "mode": "major_news",
-        "event_date": "하원은 8개 탄핵소추안을 법사위로 넘기는 절차 동의를 211대204로 통과시켰다.",
-        "observation": [
+        "event_date": "2026-11-10",
+        "observation": "공화당 주도 하원이 본회의 탄핵 표결을 차단했지만 민주당이 다음 의회를 장악하면 재추진 가능성이 남는다.",
+        "checked_materials": [],
+        "outline": [
           "211대204 절차 표결과 본회의 차단을 제시",
           "탄핵 혐의 주장과 차기 의회 재추진 가능성을 분리"
-        ],
-        "checked_materials": [],
-        "outline": "탄핵 혐의는 제안자 측 주장이고 유죄 판단이 아니다."
+        ]
       }
     },
     {
@@ -113,7 +113,7 @@
       "evidence": [
         {
           "url": "https://www.reuters.com/business/energy/venezuela-lawmakers-opens-crisis-hit-power-sector-private-investment-2026-11-10/",
-          "note": "의회가 민간투자를 허용했으며 현재 발전설비 가동률은 40% 미만이라고 기사에서 확인됐다."
+          "note": "개정법은 정부와 민간의 합작사업을 최대 25년 허용하고 국영석유사와의 계약 방식도 열었다."
         }
       ],
       "materials": [
@@ -123,16 +123,16 @@
           "kind": "source"
         }
       ],
-      "caution": "",
+      "caution": "투자 유입과 정전 개선 시점은 아직 확정되지 않았다.",
       "readiness": {
         "mode": "major_news",
-        "event_date": "개정법은 정부와 민간의 합작사업을 최대 25년 허용하고 국영석유사와의 계약 방식도 열었다.",
-        "observation": [
+        "event_date": "2026-11-10",
+        "observation": "의회가 민간투자를 허용했으며 현재 발전설비 가동률은 40% 미만이라고 기사에서 확인됐다.",
+        "checked_materials": [],
+        "outline": [
           "20년 국가독점 종료와 민간투자 허용을 제시",
           "정전 현실·낮은 가동률과 실제 개선까지의 불확실성 설명"
-        ],
-        "checked_materials": [],
-        "outline": "투자 유입과 정전 개선 시점은 아직 확정되지 않았다."
+        ]
       }
     },
     {
@@ -150,7 +150,7 @@
       "evidence": [
         {
           "url": "https://www.reuters.com/business/retail-consumer/chinas-car-sales-seen-falling-below-19-million-units-first-time-since-2014-2026-11-11/",
-          "note": "내수는 2014년 이후 처음 1천900만대 아래가 예상되지만 수출은 연간 1천100만대를 넘을 전망이다."
+          "note": "협회는 올해 중국 내수 승용차 판매가 1천900만대 아래로 내려갈 것으로 전망했고 10월 전체 판매는 전년 대비 9.2% 감소했다."
         }
       ],
       "materials": [
@@ -163,12 +163,13 @@
       "caution": "",
       "readiness": {
         "mode": "major_news",
-        "event_date": "협회는 올해 중국 내수 승용차 판매가 1천900만대 아래로 내려갈 것으로 전망했고 10월 전체 판매는 전년 대비 9.2% 감소했다.",
-        "observation": [
+        "event_date": "2026-11-11",
+        "observation": "내수는 2014년 이후 처음 1천900만대 아래가 예상되지만 수출은 연간 1천100만대를 넘을 전망이다.",
+        "checked_materials": [],
+        "outline": [
           "내수 판매 12년 만의 기준선 하회 전망 제시",
           "수출 호조와 10월 감소폭을 함께 비교"
-        ],
-        "checked_materials": []
+        ]
       }
     },
     {
@@ -186,7 +187,7 @@
       "evidence": [
         {
           "url": "https://www.reuters.com/world/americas/ortegas-frail-return-public-revives-succession-debate-nicaragua-2026-11-10/",
-          "note": "정부는 건강 이상설에 답하지 않았고 로이터도 확인하지 못했으므로 승계 임박은 분석가 전망으로만 다룬다."
+          "note": "오르테가는 두 달 넘게 공개석상에서 사라졌다가 마나과 행사에 다시 등장했고 분석가들은 부인 또는 아들을 후계 후보로 거론했다."
         }
       ],
       "materials": [
@@ -196,16 +197,16 @@
           "kind": "source"
         }
       ],
-      "caution": "",
+      "caution": "건강 이상과 승계 임박은 공식 확인이 아닌 관측이다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-09",
-        "observation": [
+        "observation": "정부는 건강 이상설에 답하지 않았고 로이터도 확인하지 못했으므로 승계 임박은 분석가 전망으로만 다룬다.",
+        "checked_materials": [],
+        "outline": [
           "두 달 만의 공개 복귀와 81세 시점을 제시",
           "공동대통령인 부인과 아들의 승계 가능성, 확인 한계를 설명"
-        ],
-        "checked_materials": [],
-        "outline": "건강 이상과 승계 임박은 공식 확인이 아닌 관측이다."
+        ]
       }
     }
   ],
