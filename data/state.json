@@ -1,5 +1,5 @@
 {
-  "updated_at": 1794384374,
+  "updated_at": 1794387965,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026111108",
+    "hour_utc": "2026111109",
     "category_counts": {
-      "시사": 5,
-      "축구": 0,
-      "메이저 스포츠": 0,
+      "시사": 2,
+      "축구": 2,
+      "메이저 스포츠": 1,
       "아이돌": 0
     },
     "research_queries": 4,
-    "opened_sources": 6,
+    "opened_sources": 7,
     "picks": [
       {
-        "title": "미 수출금지 뚫렸다…중국 군 연계 대학, 엔비디아 H200 구매",
-        "url": "https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/",
-        "event_key": "china-pla-linked-university-nvidia-h200-blacklist-purchase-20261111"
+        "title": "美 제재에 이란 축구대표팀 항공편도 차단…버스로 이라크 이동",
+        "url": "https://www.reuters.com/world/middle-east/iraq-bars-plane-carrying-irans-soccer-team-landing-basra-over-us-sanctions-2026-11-10/",
+        "event_key": "iraq-bars-iran-soccer-team-flight-us-sanctions-overland-20261110"
       },
       {
-        "title": "미 하원, 헤그세스 국방장관 탄핵 시도 차단…211대204",
-        "url": "https://www.reuters.com/world/pentagon-chief-hegseth-calls-moves-impeach-him-farce-that-will-fail-2026-11-10/",
-        "event_key": "us-house-blocks-hegseth-impeachment-211-204-20261110"
+        "title": "맥토미니, 월드컵 개막 이틀 전 심장 전기충격 치료 고백",
+        "url": "https://www.reuters.com/sports/soccer/mctominay-says-he-underwent-heart-treatment-before-world-cup-opener-2026-11-10/",
+        "event_key": "mctominay-heart-shock-treatment-before-world-cup-opener-20261110"
       },
       {
-        "title": "베네수엘라, 20년 국가독점 깼다…전력시장 민간투자 개방",
-        "url": "https://www.reuters.com/business/energy/venezuela-lawmakers-opens-crisis-hit-power-sector-private-investment-2026-11-10/",
-        "event_key": "venezuela-electricity-private-investment-state-monopoly-reform-20261110"
+        "title": "서핑 3회 세계챔피언 플로렌스, 2027 투어 불참…LA 올림픽도 흔들",
+        "url": "https://www.reuters.com/sports/florence-skip-2027-world-tour-jeopardizing-la-olympics-chances-2026-11-11/",
+        "event_key": "john-john-florence-skip-2027-world-tour-la2028-qualification-jeopardized-20261111"
       },
       {
-        "title": "중국 내수 자동차 판매, 12년 만에 1천900만대 아래 전망",
-        "url": "https://www.reuters.com/business/retail-consumer/chinas-car-sales-seen-falling-below-19-million-units-first-time-since-2014-2026-11-11/",
-        "event_key": "china-domestic-passenger-car-sales-below-19m-first-since-2014-20261111"
+        "title": "스페인, 주거난에 14년 만의 총파업…항만·자동차 공장 멈췄다",
+        "url": "https://www.reuters.com/business/world-at-work/workers-across-spain-stage-first-general-strike-14-years-anger-over-housing-2026-11-11/",
+        "event_key": "spain-first-general-strike-14-years-housing-crisis-20261111"
       },
       {
-        "title": "81세 오르테가 두 달 만에 등장…니카라과 권력승계 논쟁 재점화",
-        "url": "https://www.reuters.com/world/americas/ortegas-frail-return-public-revives-succession-debate-nicaragua-2026-11-10/",
-        "event_key": "nicaragua-ortega-public-return-succession-debate-20261110"
+        "title": "英 당국, 650억달러 유니레버·맥코믹 식품합병에 시정 요구",
+        "url": "https://www.reuters.com/business/retail-consumer/unilever-mccormick-food-deal-may-weaken-uk-competition-watchdog-says-2026-11-11/",
+        "event_key": "uk-cma-unilever-mccormick-65b-deal-competition-remedies-20261111"
       }
     ]
   }

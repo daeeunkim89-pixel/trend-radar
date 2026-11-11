@@ -2,39 +2,6 @@
   "version": 1,
   "editions": [
     {
-      "hour_utc": "2026110408",
-      "at": 1793779596,
-      "delivery": "sent",
-      "delivery_key": "hourly-2026110408",
-      "picks": [
-        {
-          "title": "맨유 반등에 부상 악재…캐릭, 발레바 햄스트링 손상 확인",
-          "url": "https://www.sportsmole.co.uk/football/man-utd/injury-news/news/baleba-update-carrick-confirms-hamstring-injury-as-return-timeline-assessed_608361.html",
-          "event_key": "manutd-baleba-hamstring-confirmed-carrick-assessment-20261103"
-        },
-        {
-          "title": "오타니, 5번째 MVP 도전…최종 3인에 ‘40-40’ 크로암스트롱",
-          "url": "https://www.yna.co.kr/view/AKR20261103056400007",
-          "event_key": "mlb-nl-mvp-finalists-ohtani-crow-armstrong-turang-20261103"
-        },
-        {
-          "title": "최동원, 야구 선수 최초 대한민국 스포츠영웅 선정",
-          "url": "https://www.yna.co.kr/view/AKR20261104062800007",
-          "event_key": "choi-dong-won-first-baseball-korea-sports-hero-announced-20261104"
-        },
-        {
-          "title": "트럼프, 선거 결과 수용…민주당 협력 말하면서 거부권도 예고",
-          "url": "https://www.yna.co.kr/view/AKR20261104096651071",
-          "event_key": "trump-midterm-result-acceptance-cooperation-veto-response-20261103"
-        },
-        {
-          "title": "쿠팡 3분기 6423억 적자…화재 비용 빼도 2883억 손실",
-          "url": "https://www.sec.gov/Archives/edgar/data/1834584/000183458426000084/cpng-09302026ex991.htm",
-          "event_key": "coupang-q3-2026-loss-fire-excluded-20261103"
-        }
-      ]
-    },
-    {
       "hour_utc": "2026110409",
       "at": 1793783405,
       "delivery": "sent",
@@ -1978,6 +1945,39 @@
           "title": "81세 오르테가 두 달 만에 등장…니카라과 권력승계 논쟁 재점화",
           "url": "https://www.reuters.com/world/americas/ortegas-frail-return-public-revives-succession-debate-nicaragua-2026-11-10/",
           "event_key": "nicaragua-ortega-public-return-succession-debate-20261110"
+        }
+      ]
+    },
+    {
+      "hour_utc": "2026111109",
+      "at": 1794387965,
+      "delivery": "sent",
+      "delivery_key": "hourly-2026111109",
+      "picks": [
+        {
+          "title": "美 제재에 이란 축구대표팀 항공편도 차단…버스로 이라크 이동",
+          "url": "https://www.reuters.com/world/middle-east/iraq-bars-plane-carrying-irans-soccer-team-landing-basra-over-us-sanctions-2026-11-10/",
+          "event_key": "iraq-bars-iran-soccer-team-flight-us-sanctions-overland-20261110"
+        },
+        {
+          "title": "맥토미니, 월드컵 개막 이틀 전 심장 전기충격 치료 고백",
+          "url": "https://www.reuters.com/sports/soccer/mctominay-says-he-underwent-heart-treatment-before-world-cup-opener-2026-11-10/",
+          "event_key": "mctominay-heart-shock-treatment-before-world-cup-opener-20261110"
+        },
+        {
+          "title": "서핑 3회 세계챔피언 플로렌스, 2027 투어 불참…LA 올림픽도 흔들",
+          "url": "https://www.reuters.com/sports/florence-skip-2027-world-tour-jeopardizing-la-olympics-chances-2026-11-11/",
+          "event_key": "john-john-florence-skip-2027-world-tour-la2028-qualification-jeopardized-20261111"
+        },
+        {
+          "title": "스페인, 주거난에 14년 만의 총파업…항만·자동차 공장 멈췄다",
+          "url": "https://www.reuters.com/business/world-at-work/workers-across-spain-stage-first-general-strike-14-years-anger-over-housing-2026-11-11/",
+          "event_key": "spain-first-general-strike-14-years-housing-crisis-20261111"
+        },
+        {
+          "title": "英 당국, 650억달러 유니레버·맥코믹 식품합병에 시정 요구",
+          "url": "https://www.reuters.com/business/retail-consumer/unilever-mccormick-food-deal-may-weaken-uk-competition-watchdog-says-2026-11-11/",
+          "event_key": "uk-cma-unilever-mccormick-65b-deal-competition-remedies-20261111"
         }
       ]
     }

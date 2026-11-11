@@ -1,6 +1,361 @@
 {
   "version": 1,
   "items": {
+    "7e1b8597b2d4": {
+      "source": "Reuters",
+      "title": "美 제재에 이란 축구대표팀 항공편도 차단…버스로 이라크 이동",
+      "link": "https://www.reuters.com/world/middle-east/iraq-bars-plane-carrying-irans-soccer-team-landing-basra-over-us-sanctions-2026-11-10/",
+      "first_seen_at": 1794387964,
+      "last_seen_at": 1794387964,
+      "samples": [
+        {
+          "at": 1794387964,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "7e1b8597b2d4",
+      "editorial": {
+        "title": "美 제재에 이란 축구대표팀 항공편도 차단…버스로 이라크 이동",
+        "category": "축구",
+        "url": "https://www.reuters.com/world/middle-east/iraq-bars-plane-carrying-irans-soccer-team-landing-basra-over-us-sanctions-2026-11-10/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "iraq-bars-iran-soccer-team-flight-us-sanctions-overland-20261110",
+        "why": "미국의 대이란 항공 제재가 국가대표팀의 국제대회 이동까지 직접 막은 사례다.",
+        "angle": "축구대표팀 이동 차질과 제재의 민간 항공 확산을 함께 보여준다.",
+        "why_now": "이라크가 11월 10일 이란 대표팀 탑승기의 바스라 착륙을 거부했다.",
+        "verified_at": 1794387879,
+        "published_at": 1794314700,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/world/middle-east/iraq-bars-plane-carrying-irans-soccer-team-landing-basra-over-us-sanctions-2026-11-10/",
+            "note": "이라크 당국은 이란 항공사 제재 위반 위험을 이유로 착륙을 막았고 대표팀은 아바단에서 버스로 이동했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/world/middle-east/iraq-bars-plane-carrying-irans-soccer-team-landing-basra-over-us-sanctions-2026-11-10/",
+            "label": "원문 기사",
+            "kind": "source"
+          }
+        ],
+        "caution": "대회 참가 자체가 취소된 것은 아니며 대표팀은 육로로 바스라에 도착했다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-10",
+          "observation": "이란 대표팀은 이라크·레바논·팔레스타인과의 4개국 대회 참가를 위해 이동 중이었다.",
+          "checked_materials": [],
+          "outline": [
+            "이란 대표팀 항공편 착륙 거부와 육로 전환 제시",
+            "미국 제재가 이라크 공항 운영과 스포츠 이동에 미친 영향 설명"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "원문 기사",
+            "url": "https://www.reuters.com/world/middle-east/iraq-bars-plane-carrying-irans-soccer-team-landing-basra-over-us-sanctions-2026-11-10/"
+          }
+        ],
+        "excerpt": "",
+        "context": "이라크가 11월 10일 이란 대표팀 탑승기의 바스라 착륙을 거부했다.",
+        "fetched_at": 1794387964,
+        "parser_revision": 7
+      },
+      "curation_event_key": "iraq-bars-iran-soccer-team-flight-us-sanctions-overland-20261110"
+    },
+    "667d6c835217": {
+      "source": "Reuters",
+      "title": "맥토미니, 월드컵 개막 이틀 전 심장 전기충격 치료 고백",
+      "link": "https://www.reuters.com/sports/soccer/mctominay-says-he-underwent-heart-treatment-before-world-cup-opener-2026-11-10/",
+      "first_seen_at": 1794387964,
+      "last_seen_at": 1794387964,
+      "samples": [
+        {
+          "at": 1794387964,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "667d6c835217",
+      "editorial": {
+        "title": "맥토미니, 월드컵 개막 이틀 전 심장 전기충격 치료 고백",
+        "category": "축구",
+        "url": "https://www.reuters.com/sports/soccer/mctominay-says-he-underwent-heart-treatment-before-world-cup-opener-2026-11-10/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "mctominay-heart-shock-treatment-before-world-cup-opener-20261110",
+        "why": "월드컵 출전 선수가 개막 직전 심장 치료를 받고 뛰었다는 중대한 건강 고백이다.",
+        "angle": "개막 이틀 전 치료와 9월 추가 시술, 현재 회복 상태를 구분한다.",
+        "why_now": "맥토미니가 11월 10일 대표팀 복귀 기자회견에서 치료 사실을 공개했다.",
+        "verified_at": 1794387879,
+        "published_at": 1794333600,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/soccer/mctominay-says-he-underwent-heart-treatment-before-world-cup-opener-2026-11-10/",
+            "note": "맥토미니는 6월 아이티전 이틀 전 심장에 전기충격 치료를 받았고 9월에는 소규모 심장 시술도 받았다고 말했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/soccer/mctominay-says-he-underwent-heart-treatment-before-world-cup-opener-2026-11-10/",
+            "label": "원문 기사",
+            "kind": "source"
+          }
+        ],
+        "caution": "정확한 진단명은 기사에 공개되지 않았으며 현재는 완전히 회복했다고 본인이 밝혔다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-10",
+          "observation": "심장 문제 치료는 선수 본인의 기자회견 발언이며 현재 대표팀에 복귀한 상태다.",
+          "checked_materials": [],
+          "outline": [
+            "월드컵 직전 심장 치료 고백을 핵심으로 제시",
+            "9월 추가 시술과 현재 회복 상태, 진단명 미공개를 분리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "원문 기사",
+            "url": "https://www.reuters.com/sports/soccer/mctominay-says-he-underwent-heart-treatment-before-world-cup-opener-2026-11-10/"
+          }
+        ],
+        "excerpt": "",
+        "context": "맥토미니가 11월 10일 대표팀 복귀 기자회견에서 치료 사실을 공개했다.",
+        "fetched_at": 1794387964,
+        "parser_revision": 7
+      },
+      "curation_event_key": "mctominay-heart-shock-treatment-before-world-cup-opener-20261110"
+    },
+    "e8c345b0910f": {
+      "source": "Reuters",
+      "title": "서핑 3회 세계챔피언 플로렌스, 2027 투어 불참…LA 올림픽도 흔들",
+      "link": "https://www.reuters.com/sports/florence-skip-2027-world-tour-jeopardizing-la-olympics-chances-2026-11-11/",
+      "first_seen_at": 1794387964,
+      "last_seen_at": 1794387964,
+      "samples": [
+        {
+          "at": 1794387964,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "e8c345b0910f",
+      "editorial": {
+        "title": "서핑 3회 세계챔피언 플로렌스, 2027 투어 불참…LA 올림픽도 흔들",
+        "category": "메이저 스포츠",
+        "url": "https://www.reuters.com/sports/florence-skip-2027-world-tour-jeopardizing-la-olympics-chances-2026-11-11/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "john-john-florence-skip-2027-world-tour-la2028-qualification-jeopardized-20261111",
+        "why": "세계챔피언의 투어 불참이 자국 선발 체계상 LA 올림픽 출전 가능성을 크게 낮춘다.",
+        "angle": "본인의 불참 결정과 올림픽 불참 확정이 아닌 선발 경로 악화를 구분한다.",
+        "why_now": "플로렌스가 2027 WSL 와일드카드를 신청하지 않았다는 사실이 11월 11일 보도됐다.",
+        "verified_at": 1794387879,
+        "published_at": 1794386220,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/florence-skip-2027-world-tour-jeopardizing-la-olympics-chances-2026-11-11/",
+            "note": "플로렌스는 11월 1일 마감까지 2027 월드투어 와일드카드를 신청하지 않았고 미국은 투어 랭킹으로 ISA 출전자를 고른다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/florence-skip-2027-world-tour-jeopardizing-la-olympics-chances-2026-11-11/",
+            "label": "원문 기사",
+            "kind": "source"
+          }
+        ],
+        "caution": "2028 올림픽 출전이 공식 불발된 것은 아니며 WSL과 미국 대표팀은 즉시 답하지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-11",
+          "observation": "2027 투어 불참은 확인됐지만 다른 올림픽 예선 경로의 현실성은 남아 있어 출전 불발로 단정하지 않는다.",
+          "checked_materials": [],
+          "outline": [
+            "3회 세계챔피언의 2027 투어 불참 결정 제시",
+            "미국 선발 구조와 LA 올림픽 출전 가능성의 한계를 설명"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "원문 기사",
+            "url": "https://www.reuters.com/sports/florence-skip-2027-world-tour-jeopardizing-la-olympics-chances-2026-11-11/"
+          }
+        ],
+        "excerpt": "",
+        "context": "플로렌스가 2027 WSL 와일드카드를 신청하지 않았다는 사실이 11월 11일 보도됐다.",
+        "fetched_at": 1794387964,
+        "parser_revision": 7
+      },
+      "curation_event_key": "john-john-florence-skip-2027-world-tour-la2028-qualification-jeopardized-20261111"
+    },
+    "63813a79a1a8": {
+      "source": "Reuters",
+      "title": "스페인, 주거난에 14년 만의 총파업…항만·자동차 공장 멈췄다",
+      "link": "https://www.reuters.com/business/world-at-work/workers-across-spain-stage-first-general-strike-14-years-anger-over-housing-2026-11-11/",
+      "first_seen_at": 1794387964,
+      "last_seen_at": 1794387964,
+      "samples": [
+        {
+          "at": 1794387964,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "63813a79a1a8",
+      "editorial": {
+        "title": "스페인, 주거난에 14년 만의 총파업…항만·자동차 공장 멈췄다",
+        "category": "시사",
+        "url": "https://www.reuters.com/business/world-at-work/workers-across-spain-stage-first-general-strike-14-years-anger-over-housing-2026-11-11/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "spain-first-general-strike-14-years-housing-crisis-20261111",
+        "why": "대규모 주거난이 조기 총선을 앞둔 전국 총파업과 산업 중단으로 번졌다.",
+        "angle": "노조 참여율 주장과 경찰 확인 사실, 주택 부족 지표를 분리한다.",
+        "why_now": "스페인 양대 노총이 11월 11일 14년 만에 공동 총파업을 시작했다.",
+        "verified_at": 1794387879,
+        "published_at": 1794385020,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/business/world-at-work/workers-across-spain-stage-first-general-strike-14-years-anger-over-housing-2026-11-11/",
+            "note": "노조는 항만·자동차 부문 초기 참여율 90%를 주장했고 마드리드 피켓 충돌로 1명이 체포됐다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/business/world-at-work/workers-across-spain-stage-first-general-strike-14-years-anger-over-housing-2026-11-11/",
+            "label": "원문 기사",
+            "kind": "source"
+          }
+        ],
+        "caution": "부문별 참여율은 노조 집계이며 경찰은 체포 사실은 확인했지만 일부 진압 방식은 별도 설명했다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-11",
+          "observation": "스페인 중앙은행은 주택 부족분을 약 75만 채로 추산하며 파업은 11월 29일 조기 총선을 앞두고 벌어졌다.",
+          "checked_materials": [],
+          "outline": [
+            "14년 만의 공동 총파업과 산업 중단 규모 제시",
+            "주거비 위기·조기 총선 맥락과 집계 주체를 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "원문 기사",
+            "url": "https://www.reuters.com/business/world-at-work/workers-across-spain-stage-first-general-strike-14-years-anger-over-housing-2026-11-11/"
+          }
+        ],
+        "excerpt": "",
+        "context": "스페인 양대 노총이 11월 11일 14년 만에 공동 총파업을 시작했다.",
+        "fetched_at": 1794387964,
+        "parser_revision": 7
+      },
+      "curation_event_key": "spain-first-general-strike-14-years-housing-crisis-20261111"
+    },
+    "8effe3a89755": {
+      "source": "Reuters",
+      "title": "英 당국, 650억달러 유니레버·맥코믹 식품합병에 시정 요구",
+      "link": "https://www.reuters.com/business/retail-consumer/unilever-mccormick-food-deal-may-weaken-uk-competition-watchdog-says-2026-11-11/",
+      "first_seen_at": 1794387964,
+      "last_seen_at": 1794387964,
+      "samples": [
+        {
+          "at": 1794387964,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "8effe3a89755",
+      "editorial": {
+        "title": "英 당국, 650억달러 유니레버·맥코믹 식품합병에 시정 요구",
+        "category": "시사",
+        "url": "https://www.reuters.com/business/retail-consumer/unilever-mccormick-food-deal-may-weaken-uk-competition-watchdog-says-2026-11-11/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "uk-cma-unilever-mccormick-65b-deal-competition-remedies-20261111",
+        "why": "식품업계 역대 두 번째 규모 거래가 영국 경쟁당국의 심층조사 또는 자산매각 갈림길에 섰다.",
+        "angle": "건조 소스·조미 혼합물 시장 우려와 합병 자체 차단이 아직 아니라는 점을 구분한다.",
+        "why_now": "영국 CMA가 11월 11일 양사에 18일까지 경쟁 시정안을 내라고 요구했다.",
+        "verified_at": 1794387879,
+        "published_at": 1794381480,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/business/retail-consumer/unilever-mccormick-food-deal-may-weaken-uk-competition-watchdog-says-2026-11-11/",
+            "note": "CMA는 건조 조미 혼합물과 소스 공급 경쟁 약화를 우려해 11월 18일까지 시정안이 없으면 심층조사에 들어가겠다고 밝혔다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/business/retail-consumer/unilever-mccormick-food-deal-may-weaken-uk-competition-watchdog-says-2026-11-11/",
+            "label": "원문 기사",
+            "kind": "source"
+          }
+        ],
+        "caution": "거래가 차단된 것은 아니며 유니레버와 맥코믹은 시정안 협의 중이라고 밝혔다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-11",
+          "observation": "650억달러 규모 결합은 초기 심사 단계이며 시정안 제출 뒤 승인·조건부 승인·차단 가능성이 남아 있다.",
+          "checked_materials": [],
+          "outline": [
+            "650억달러 합병에 대한 CMA 시정 요구 제시",
+            "우려 시장과 11월 18일 기한, 아직 미확정인 결과 설명"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "원문 기사",
+            "url": "https://www.reuters.com/business/retail-consumer/unilever-mccormick-food-deal-may-weaken-uk-competition-watchdog-says-2026-11-11/"
+          }
+        ],
+        "excerpt": "",
+        "context": "영국 CMA가 11월 11일 양사에 18일까지 경쟁 시정안을 내라고 요구했다.",
+        "fetched_at": 1794387964,
+        "parser_revision": 7
+      },
+      "curation_event_key": "uk-cma-unilever-mccormick-65b-deal-competition-remedies-20261111"
+    },
     "b7531d18945d": {
       "source": "Reuters",
       "title": "미 수출금지 뚫렸다…중국 군 연계 대학, 엔비디아 H200 구매",
@@ -22316,366 +22671,7 @@
         "parser_revision": 7
       },
       "curation_event_key": "k-drama-twelve-industry-groups-five-year-trillion-support-demand-20261104"
-    },
-    "9078988406d3": {
-      "source": "Sports Mole·맨유",
-      "title": "맨유 반등에 부상 악재…캐릭, 발레바 햄스트링 손상 확인",
-      "link": "https://www.sportsmole.co.uk/football/man-utd/injury-news/news/baleba-update-carrick-confirms-hamstring-injury-as-return-timeline-assessed_608361.html",
-      "first_seen_at": 1793779595,
-      "last_seen_at": 1793779595,
-      "samples": [
-        {
-          "at": 1793779595,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "9078988406d3",
-      "editorial": {
-        "title": "맨유 반등에 부상 악재…캐릭, 발레바 햄스트링 손상 확인",
-        "category": "축구",
-        "url": "https://www.sportsmole.co.uk/football/man-utd/injury-news/news/baleba-update-carrick-confirms-hamstring-injury-as-return-timeline-assessed_608361.html",
-        "source": "Sports Mole·맨유",
-        "kind": "article",
-        "event_key": "manutd-baleba-hamstring-confirmed-carrick-assessment-20261103",
-        "why": "주전 중원 이탈 가능성이 맨유의 반등과 향후 전력 구상에 직접 영향을 준다.",
-        "angle": "감독이 확인한 햄스트링 문제와 아직 정해지지 않은 복귀 시점을 분리한다.",
-        "why_now": "경기·감독 발언은 영국 11/3. 후속 기사 최초 11/4 00:41(매체 표기, 시간대 미명시). 앞선 로마전 결과와 달리 새 부상 확인을 검토했다.",
-        "verified_at": 1793779520,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.sportsmole.co.uk/football/man-utd/injury-news/news/baleba-update-carrick-confirms-hamstring-injury-as-return-timeline-assessed_608361.html",
-            "note": "캐릭은 경기 뒤 발레바의 햄스트링 문제를 확인하고 며칠 더 평가해야 한다고 말했다. 초기 상태가 좋지 않다면서도 구체적인 복귀 기간은 제시하지 않았다. 기사 본문과 공식 발표 검색문을 대조했고 영상은 시청하지 않았다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.sportsmole.co.uk/football/man-utd/injury-news/news/baleba-update-carrick-confirms-hamstring-injury-as-return-timeline-assessed_608361.html",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "손상 등급·결장 기간은 미확정. 기사에 나온 일반적인 3~6주 회복 예시를 실제 진단으로 쓰지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-03",
-          "observation": "캐릭은 경기 뒤 발레바의 햄스트링 문제를 확인하고 며칠 더 평가해야 한다고 말했다. 초기 상태가 좋지 않다면서도 구체적인 복귀 기간은 제시하지 않았다. 기사 본문과 공식 발표 검색문을 대조했고 영상은 시청하지 않았다.",
-          "checked_materials": [],
-          "outline": [
-            "감독이 확인한 햄스트링 문제와 아직 정해지지 않은 복귀 시점을 분리한다.",
-            "손상 등급·결장 기간은 미확정. 기사에 나온 일반적인 3~6주 회복 예시를 실제 진단으로 쓰지 않는다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://www.sportsmole.co.uk/football/man-utd/injury-news/news/baleba-update-carrick-confirms-hamstring-injury-as-return-timeline-assessed_608361.html"
-          }
-        ],
-        "excerpt": "",
-        "context": "경기·감독 발언은 영국 11/3. 후속 기사 최초 11/4 00:41(매체 표기, 시간대 미명시). 앞선 로마전 결과와 달리 새 부상 확인을 검토했다.",
-        "fetched_at": 1793779595,
-        "parser_revision": 7
-      },
-      "curation_event_key": "manutd-baleba-hamstring-confirmed-carrick-assessment-20261103"
-    },
-    "f94d3ec15006": {
-      "source": "연합뉴스·뉴스핌",
-      "title": "오타니, 5번째 MVP 도전…최종 3인에 ‘40-40’ 크로암스트롱",
-      "link": "https://www.yna.co.kr/view/AKR20261103056400007",
-      "first_seen_at": 1793779595,
-      "last_seen_at": 1793779595,
-      "samples": [
-        {
-          "at": 1793779595,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "f94d3ec15006",
-      "editorial": {
-        "title": "오타니, 5번째 MVP 도전…최종 3인에 ‘40-40’ 크로암스트롱",
-        "category": "메이저 스포츠",
-        "url": "https://www.yna.co.kr/view/AKR20261103056400007",
-        "source": "연합뉴스·뉴스핌",
-        "kind": "article",
-        "event_key": "mlb-nl-mvp-finalists-ohtani-crow-armstrong-turang-20261103",
-        "why": "MLB 최고 개인상 최종 후보가 확정되면서 오타니의 연속 수상 도전과 새 경쟁 구도가 정해졌다.",
-        "angle": "최종 후보 3명 발표를 먼저 보여주고, 모의 투표와 실제 수상을 구분한다.",
-        "why_now": "MLB 최종 후보 공개는 11/3 KST(분 미확인), 연합 최초 보도 11/3 09:55 KST. 미발송 원본을 48시간 범위로 확장해 검토했다.",
-        "verified_at": 1793779520,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261103056400007",
-            "note": "NL MVP 최종 후보는 오타니·크로암스트롱·투랑 3명이다. 크로암스트롱은 마지막 MLB닷컴 모의 투표에서 38명 전원의 1위 표를 받았다. 실제 MVP 발표는 11/13 KST로 보도됐다. 두 매체 본문을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261103056400007",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "모의 투표 만장일치는 실제 BBWAA 수상 결과가 아니다. 후보 선정과 수상 확정을 혼동하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-03",
-          "observation": "NL MVP 최종 후보는 오타니·크로암스트롱·투랑 3명이다. 크로암스트롱은 마지막 MLB닷컴 모의 투표에서 38명 전원의 1위 표를 받았다. 실제 MVP 발표는 11/13 KST로 보도됐다. 두 매체 본문을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "최종 후보 3명 발표를 먼저 보여주고, 모의 투표와 실제 수상을 구분한다.",
-            "모의 투표 만장일치는 실제 BBWAA 수상 결과가 아니다. 후보 선정과 수상 확정을 혼동하지 않는다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://www.yna.co.kr/view/AKR20261103056400007"
-          }
-        ],
-        "excerpt": "",
-        "context": "MLB 최종 후보 공개는 11/3 KST(분 미확인), 연합 최초 보도 11/3 09:55 KST. 미발송 원본을 48시간 범위로 확장해 검토했다.",
-        "fetched_at": 1793779595,
-        "parser_revision": 7
-      },
-      "curation_event_key": "mlb-nl-mvp-finalists-ohtani-crow-armstrong-turang-20261103"
-    },
-    "9a40fa7598f2": {
-      "source": "연합뉴스·대한체육회",
-      "title": "최동원, 야구 선수 최초 대한민국 스포츠영웅 선정",
-      "link": "https://www.yna.co.kr/view/AKR20261104062800007",
-      "first_seen_at": 1793779595,
-      "last_seen_at": 1793779595,
-      "samples": [
-        {
-          "at": 1793779595,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "9a40fa7598f2",
-      "editorial": {
-        "title": "최동원, 야구 선수 최초 대한민국 스포츠영웅 선정",
-        "category": "메이저 스포츠",
-        "url": "https://www.yna.co.kr/view/AKR20261104062800007",
-        "source": "연합뉴스·대한체육회",
-        "kind": "article",
-        "event_key": "choi-dong-won-first-baseball-korea-sports-hero-announced-20261104",
-        "why": "한국 야구를 대표하는 인물이 종목 최초로 국가 체육계의 역사적 기념 대상에 올랐다.",
-        "angle": "야구 첫 선정이라는 새 결정에서 시작해 1984년 한국시리즈 4승의 의미를 연결한다.",
-        "why_now": "선정 심의는 10/27, 대한체육회 공식 공개는 11/4(분 미확인). 연합 최초 보도 11/4 10:17 KST. 과거 기록 재탕이 아닌 새 선정 발표다.",
-        "verified_at": 1793779520,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261104062800007",
-            "note": "대한체육회가 최동원을 2026 스포츠영웅으로 선정했다고 4일 발표했다. 야구 선수 최초이며 박신자·차범근에 이은 구기 종목 세 번째다. 12월 헌액식 예정이라는 본문을 확인했다. 선정 심의일과 공개일을 구분했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261104062800007",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "10/27 심의와 11/4 공개를 구분한다. 12월 헌액식은 예정이며 과거 경기 영상을 새로 확인한 것은 아니다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-04",
-          "observation": "대한체육회가 최동원을 2026 스포츠영웅으로 선정했다고 4일 발표했다. 야구 선수 최초이며 박신자·차범근에 이은 구기 종목 세 번째다. 12월 헌액식 예정이라는 본문을 확인했다. 선정 심의일과 공개일을 구분했다.",
-          "checked_materials": [],
-          "outline": [
-            "야구 첫 선정이라는 새 결정에서 시작해 1984년 한국시리즈 4승의 의미를 연결한다.",
-            "10/27 심의와 11/4 공개를 구분한다. 12월 헌액식은 예정이며 과거 경기 영상을 새로 확인한 것은 아니다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://www.yna.co.kr/view/AKR20261104062800007"
-          }
-        ],
-        "excerpt": "",
-        "context": "선정 심의는 10/27, 대한체육회 공식 공개는 11/4(분 미확인). 연합 최초 보도 11/4 10:17 KST. 과거 기록 재탕이 아닌 새 선정 발표다.",
-        "fetched_at": 1793779595,
-        "parser_revision": 7
-      },
-      "curation_event_key": "choi-dong-won-first-baseball-korea-sports-hero-announced-20261104"
-    },
-    "818f465ce3c8": {
-      "source": "연합뉴스·TV조선",
-      "title": "트럼프, 선거 결과 수용…민주당 협력 말하면서 거부권도 예고",
-      "link": "https://www.yna.co.kr/view/AKR20261104096651071",
-      "first_seen_at": 1793779595,
-      "last_seen_at": 1793779595,
-      "samples": [
-        {
-          "at": 1793779595,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "818f465ce3c8",
-      "editorial": {
-        "title": "트럼프, 선거 결과 수용…민주당 협력 말하면서 거부권도 예고",
-        "category": "시사",
-        "url": "https://www.yna.co.kr/view/AKR20261104096651071",
-        "source": "연합뉴스·TV조선",
-        "kind": "article",
-        "event_key": "trump-midterm-result-acceptance-cooperation-veto-response-20261103",
-        "why": "미 의회 권력 변화 뒤 대통령의 수용·협상·거부권 방침은 남은 임기와 한미 현안에 영향을 줄 주요 후속이다.",
-        "angle": "선거 결과 수용과 거부권 예고를 나란히 놓고 실제 협력은 향후 과제로 남긴다.",
-        "why_now": "발언은 미국 11/3 밤. NYT 전화 인터뷰는 22:30경 EST(11/4 12:30 KST), 최초 공개 분은 미확인. 초기 보도 13:24, 종합 15:38 KST. 앞선 개표 전망과 구분되는 대통령 대응이다.",
-        "verified_at": 1793779520,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261104096651071",
-            "note": "NYT·폭스 인터뷰를 인용한 본문에서 결과 수용·민주당 협력 의사와 민주당 법안에 거부권을 행사하겠다는 발언을 확인했다. 각료 교체가 없을 것이라는 입장도 보도됐다. 원 인터뷰 전체를 직접 청취하지는 않았다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261104096651071",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "선거 결과·의석 확정 자체를 재추천하지 않는다. 협력은 대통령 의향이며 실제 합의나 정책 변경이 확정된 것은 아니다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-03",
-          "observation": "NYT·폭스 인터뷰를 인용한 본문에서 결과 수용·민주당 협력 의사와 민주당 법안에 거부권을 행사하겠다는 발언을 확인했다. 각료 교체가 없을 것이라는 입장도 보도됐다. 원 인터뷰 전체를 직접 청취하지는 않았다.",
-          "checked_materials": [],
-          "outline": [
-            "선거 결과 수용과 거부권 예고를 나란히 놓고 실제 협력은 향후 과제로 남긴다.",
-            "선거 결과·의석 확정 자체를 재추천하지 않는다. 협력은 대통령 의향이며 실제 합의나 정책 변경이 확정된 것은 아니다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://www.yna.co.kr/view/AKR20261104096651071"
-          }
-        ],
-        "excerpt": "",
-        "context": "발언은 미국 11/3 밤. NYT 전화 인터뷰는 22:30경 EST(11/4 12:30 KST), 최초 공개 분은 미확인. 초기 보도 13:24, 종합 15:38 KST. 앞선 개표 전망과 구분되는 대통령 대응이다.",
-        "fetched_at": 1793779595,
-        "parser_revision": 7
-      },
-      "curation_event_key": "trump-midterm-result-acceptance-cooperation-veto-response-20261103"
-    },
-    "109ee0a22572": {
-      "source": "쿠팡 SEC 공시·아이뉴스24",
-      "title": "쿠팡 3분기 6423억 적자…화재 비용 빼도 2883억 손실",
-      "link": "https://www.sec.gov/Archives/edgar/data/1834584/000183458426000084/cpng-09302026ex991.htm",
-      "first_seen_at": 1793779595,
-      "last_seen_at": 1793779595,
-      "samples": [
-        {
-          "at": 1793779595,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "official",
-      "story_id": "109ee0a22572",
-      "editorial": {
-        "title": "쿠팡 3분기 6423억 적자…화재 비용 빼도 2883억 손실",
-        "category": "시사",
-        "url": "https://www.sec.gov/Archives/edgar/data/1834584/000183458426000084/cpng-09302026ex991.htm",
-        "source": "쿠팡 SEC 공시·아이뉴스24",
-        "kind": "official",
-        "event_key": "coupang-q3-2026-loss-fire-excluded-20261103",
-        "why": "국내 최대 전자상거래 기업의 연속 적자와 화재 비용을 빼도 남는 손실은 소비·유통 산업의 주요 변화다.",
-        "angle": "전체 영업손실과 화재 비용 제외 손실을 비교해 일회성 비용만의 문제인지 짚는다.",
-        "why_now": "실적 공개는 미국 11/3(원문 분 미명시), 대상 기간은 7~9월. 국내 기사 최초 11/4 06:56 KST, 수정 07:06. 공시 원문 수치를 직접 확인했다.",
-        "verified_at": 1793779520,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.sec.gov/Archives/edgar/data/1834584/000183458426000084/cpng-09302026ex991.htm",
-            "note": "SEC 실적 발표문에서 매출 99억6200만달러, 영업손실 4억5000만달러, 화재 비용 제외 영업손실 2억200만달러를 확인했다. 국내 기사는 분기 평균 환율로 각각 약 6423억원·2883억원으로 환산했다."
-          },
-          {
-            "url": "https://www.inews24.com/view/2022305",
-            "note": "최초 11/4 06:56 KST. 환산 손실 약6423억원, 화재 제외 약2883억원. 3개 분기 연속 적자와 비GAAP 조정 수치 확인."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.sec.gov/Archives/edgar/data/1834584/000183458426000084/cpng-09302026ex991.htm",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "달러 공시와 원화 환산을 구분한다. 화재 제외 수치는 회사의 비GAAP 조정치이며 적자를 특정 원인 하나로 단정하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-03",
-          "observation": "SEC 실적 발표문에서 매출 99억6200만달러, 영업손실 4억5000만달러, 화재 비용 제외 영업손실 2억200만달러를 확인했다. 국내 기사는 분기 평균 환율로 각각 약 6423억원·2883억원으로 환산했다.",
-          "checked_materials": [],
-          "outline": [
-            "전체 영업손실과 화재 비용 제외 손실을 비교해 일회성 비용만의 문제인지 짚는다.",
-            "달러 공시와 원화 환산을 구분한다. 화재 제외 수치는 회사의 비GAAP 조정치이며 적자를 특정 원인 하나로 단정하지 않는다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://www.sec.gov/Archives/edgar/data/1834584/000183458426000084/cpng-09302026ex991.htm"
-          }
-        ],
-        "excerpt": "",
-        "context": "실적 공개는 미국 11/3(원문 분 미명시), 대상 기간은 7~9월. 국내 기사 최초 11/4 06:56 KST, 수정 07:06. 공시 원문 수치를 직접 확인했다.",
-        "fetched_at": 1793779595,
-        "parser_revision": 7
-      },
-      "curation_event_key": "coupang-q3-2026-loss-fire-excluded-20261103"
     }
   },
-  "updated_at": 1794384373
+  "updated_at": 1794387964
 }
