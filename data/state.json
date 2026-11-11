@@ -1,5 +1,5 @@
 {
-  "updated_at": 1794406306,
+  "updated_at": 1794438370,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026111114",
+    "hour_utc": "2026111123",
     "category_counts": {
-      "시사": 3,
+      "시사": 4,
       "축구": 1,
-      "메이저 스포츠": 1,
+      "메이저 스포츠": 0,
       "아이돌": 0
     },
     "research_queries": 6,
-    "opened_sources": 10,
+    "opened_sources": 8,
     "picks": [
       {
-        "title": "러·우크라 협상서 포로 교환 합의…미국은 '불신' 지적",
-        "url": "https://www.reuters.com/world/europe/us-russia-ukraine-start-second-day-abu-dhabi-peace-talks-2026-11-11/",
-        "event_key": "russia-ukraine-abu-dhabi-pow-exchange-progress-20261111"
+        "title": "2031·2035 여자월드컵 공동 유치안 통과…48개국 체제로 확대",
+        "url": "https://www.reuters.com/sports/soccer/fifa-clears-joint-bids-2031-2035-womens-world-cups-2026-11-11/",
+        "event_key": "fifa-womens-world-cup-2031-2035-joint-bids-cleared-20261111"
       },
       {
-        "title": "미·중, AI 사고 직통채널·고급 모델 사전평가 논의",
-        "url": "https://www.reuters.com/world/china/us-china-should-stay-clear-eyed-ai-cooperation-competition-bessent-says-2026-11-11/",
-        "event_key": "us-china-ai-incident-channel-model-testing-dialogue-20261111"
+        "title": "엔비디아 이사회, 젠슨 황 해임 준비 보도…주가 시간외 8% 급락",
+        "url": "https://www.reuters.com/technology/nvidia-is-preparing-oust-ceo-jensen-huang-wsj-reports-2026-11-11/",
+        "event_key": "nvidia-board-preparing-to-oust-jensen-huang-wsj-report-20261111"
       },
       {
-        "title": "가족 위협이 이적 결심으로…헬러벅, 제츠 떠난 배경 공개",
-        "url": "https://www.reuters.com/sports/hellebuyck-says-more-than-online-death-threats-helped-drive-jets-exit-2026-11-10/",
-        "event_key": "hellebuyck-family-threats-drove-winnipeg-jets-exit-20261110"
+        "title": "이란, 호르무즈 복구 핵심시설 타격…오만 섬 항법장비 겨냥",
+        "url": "https://www.reuters.com/world/middle-east/iran-attacks-shipping-navigation-systems-omans-didamar-island-sources-say-2026-11-11/",
+        "event_key": "iran-didamar-navigation-systems-attack-hormuz-20261111"
       },
       {
-        "title": "트럼프 워싱턴 개조 구상, 미국인 67~80%가 반대",
-        "url": "https://www.reuters.com/graphics/US-ELECTIONS/GRAPHICS-BLOG/akpelkldzvr/2026-11-11/trump-polling/",
-        "event_key": "trump-washington-construction-projects-reuters-ipsos-opposition-20261111"
+        "title": "미얀마 군정, 미국에 희토류 투자 요청…중국 독점 공급망 흔드나",
+        "url": "https://www.reuters.com/world/china/myanmar-lobbies-us-invest-its-rare-earths-sector-dominated-by-china-2026-11-10/",
+        "event_key": "myanmar-us-rare-earth-investment-lobbying-20261110"
       },
       {
-        "title": "프리미어리그 판정위 '리버풀, 아스널전 페널티 받았어야'",
-        "url": "https://www.reuters.com/sports/soccer/liverpool-should-have-been-given-penalty-against-arsenal-review-panel-says-2026-11-11/",
-        "event_key": "premier-league-kmi-liverpool-arsenal-penalty-var-error-20261111"
+        "title": "엑손, 베네수엘라 7개 유전 검토…1년 독점 협상권 확보",
+        "url": "https://www.reuters.com/business/energy/exxon-assessing-7-areas-venezuela-possible-energy-projects-sources-say-2026-11-11/",
+        "event_key": "exxon-venezuela-seven-energy-areas-preliminary-pact-20261111"
       }
     ]
   }
