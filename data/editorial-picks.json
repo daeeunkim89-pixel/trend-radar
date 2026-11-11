@@ -2,7 +2,7 @@
   "version": 2,
   "hour_utc": "2026111114",
   "reviewer": "ChatGPT",
-  "generated_at": 1794406001,
+  "generated_at": 1794406229,
   "coverage": {
     "queries": [
       "site:reuters.com/sports 2026-11-11 1:00 PM UTC latest sports soccer football Reuters November 11 2026",
@@ -21,10 +21,11 @@
       "https://www.reuters.com/business/anthropic-ipo-raise-much-644-billion-latest-draft-prospectus-shows-2026-11-10/",
       "https://www.reuters.com/graphics/US-ELECTIONS/GRAPHICS-BLOG/akpelkldzvr/2026-11-11/trump-polling/",
       "https://www.reuters.com/sustainability/cop/cop31-leaders-try-out-new-sales-pitch-climate-action-do-it-economy-2026-11-11/",
-      "https://www.reuters.com/world/europe/us-russia-ukraine-start-second-day-abu-dhabi-peace-talks-2026-11-11/"
+      "https://www.reuters.com/world/europe/us-russia-ukraine-start-second-day-abu-dhabi-peace-talks-2026-11-11/",
+      "https://www.reuters.com/sports/hellebuyck-says-more-than-online-death-threats-helped-drive-jets-exit-2026-11-10/"
     ],
     "unavailable": [
-      "run_usage: start=2026-11-11T14:02:40Z; end=2026-11-11T14:06:41Z; elapsed=241s; queries=6; opened=9; failed=0; endpoint=review_complete"
+      "run_usage: start=2026-11-11T14:02:40Z; end=2026-11-11T14:10:29Z; elapsed=469s; queries=6; opened=11; failed=0; endpoint=review_complete_after_safe_retry"
     ]
   },
   "picks": [
@@ -105,40 +106,40 @@
       }
     },
     {
-      "title": "앤트로픽, 최대 1조4천억달러 IPO 추진…AI 거품 시험대",
-      "category": "시사",
-      "url": "https://www.reuters.com/business/anthropic-ipo-raise-much-644-billion-latest-draft-prospectus-shows-2026-11-10/",
+      "title": "가족 위협이 이적 결심으로…헬러벅, 제츠 떠난 배경 공개",
+      "category": "메이저 스포츠",
+      "url": "https://www.reuters.com/sports/hellebuyck-says-more-than-online-death-threats-helped-drive-jets-exit-2026-11-10/",
       "source": "Reuters",
       "kind": "article",
-      "event_key": "anthropic-ipo-1point4-trillion-valuation-20261110",
-      "why": "세계 최대급 기업공개가 될 수 있는 거래로 AI 투자 열풍과 고평가 논쟁을 동시에 시험한다.",
-      "angle": "공모 규모·기업가치·상장 일정과 막대한 컴퓨팅 약정을 함께 보여준다.",
-      "why_now": "10일 공개된 수정 증권신고서에서 앤트로픽은 최대 644억달러 공모와 1조4천억달러 완전희석 기업가치를 제시했다.",
-      "verified_at": 1794406001,
-      "published_at": 1794307500,
+      "event_key": "hellebuyck-family-threats-drove-winnipeg-jets-exit-20261110",
+      "why": "올림픽 금메달 골리의 이적 배경에 가족 안전 문제가 있었다는 새 증언으로 선수 보호와 온라인 위협 문제를 함께 드러낸다.",
+      "angle": "트레이드 성적보다 가족에게 가해진 위협과 구단 이탈 결정의 연결을 중심으로 본다.",
+      "why_now": "헬러벅은 위니펙 복귀를 앞두고 가족이 겪은 일이 온라인 살해 위협보다 더 심각했고 이 때문에 트레이드를 요청했다고 처음 구체적으로 밝혔다.",
+      "verified_at": 1794406229,
+      "published_at": 1794342420,
       "evidence": [
         {
-          "url": "https://www.reuters.com/business/anthropic-ipo-raise-much-644-billion-latest-draft-prospectus-shows-2026-11-10/",
-          "note": "앤트로픽은 8억2천500만주를 주당 70~78달러에 팔아 IPO로 최대 644억달러를 조달하고, 별도 사모투자 260억달러를 더해 총 904억달러를 마련할 계획이다."
+          "url": "https://www.reuters.com/sports/hellebuyck-says-more-than-online-death-threats-helped-drive-jets-exit-2026-11-10/",
+          "note": "헬러벅은 가족에게 벌어진 일이 온라인 살해 위협보다 더 심각했다고 밝혔고, 남편이자 아버지로서 환경을 바꿔야 했다고 설명했다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/business/anthropic-ipo-raise-much-644-billion-latest-draft-prospectus-shows-2026-11-10/",
+          "url": "https://www.reuters.com/sports/hellebuyck-says-more-than-online-death-threats-helped-drive-jets-exit-2026-11-10/",
           "label": "검증 기사 원문",
           "kind": "source"
         }
       ],
-      "caution": "공모 희망 범위와 예정 일정으로 최종 가격·조달액은 확정되지 않았다.",
+      "caution": "헬러벅은 가족 보호를 이유로 위협의 구체적 내용은 공개하지 않았다.",
       "readiness": {
         "mode": "major_news",
-        "event_date": "2026-11-11",
-        "observation": "앤트로픽은 8억2천500만주를 주당 70~78달러에 팔아 IPO로 최대 644억달러를 조달하고, 별도 사모투자 260억달러를 더해 총 904억달러를 마련할 계획이다.",
+        "event_date": "2026-11-10",
+        "observation": "헬러벅은 가족에게 벌어진 일이 온라인 살해 위협보다 더 심각했다고 밝혔고, 남편이자 아버지로서 환경을 바꿔야 했다고 설명했다.",
         "checked_materials": [],
         "outline": [
-          "최대 644억달러 IPO와 260억달러 사모투자",
-          "완전희석 기준 1조4천억달러 기업가치",
-          "11월 19일 나스닥 상장 예정과 고평가 논쟁"
+          "가족 위협이 트레이드 요청을 촉발했다는 새 증언",
+          "올림픽 이후 가족을 향한 반발과 안전 문제",
+          "위니펙에서 뉴저지로 이적한 경위와 확인 한계"
         ]
       }
     },
