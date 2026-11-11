@@ -1,5 +1,5 @@
 {
-  "updated_at": 1794312144,
+  "updated_at": 1794377784,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026111012",
+    "hour_utc": "2026111106",
     "category_counts": {
-      "시사": 2,
-      "축구": 2,
+      "시사": 3,
+      "축구": 1,
       "메이저 스포츠": 1,
       "아이돌": 0
     },
     "research_queries": 6,
-    "opened_sources": 5,
+    "opened_sources": 9,
     "picks": [
       {
-        "title": "레알 전설 라울, 오비에도 감독 부임…첫 프로팀 지휘",
-        "url": "https://www.managingmadrid.com/115275/raul-oviedo-coach-2026",
-        "event_key": "raul-real-oviedo-head-coach-until-2028-20261109"
+        "title": "불화설 뒤 26명 다시 모인 대표팀…손흥민, 팀 미팅서 결속 주문",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840131",
+        "event_key": "korea-national-team-doha-full-squad-son-unity-meeting-20261110"
       },
       {
-        "title": "12점 차 선두 날린 청두…알로이시 감독·회장·단장 동반 퇴진",
-        "url": "https://www.reuters.com/sports/soccer/coach-aloisi-pays-price-chengdu-rongchengs-incredible-title-choke-2026-11-10/",
-        "event_key": "chengdu-title-collapse-aloisi-sacked-board-resigns-20261109"
+        "title": "밀워키 머피, MLB 최초 3년 연속 올해의 감독…AL은 베너블",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840628",
+        "event_key": "mlb-murphy-first-three-consecutive-manager-year-venable-20261110"
       },
       {
-        "title": "미 대학풋볼 플레이오프 24팀 확대…ESPN 17억달러 계약",
-        "url": "https://www.reuters.com/sports/cfp-espn-sign-deal-expand-24-team-playoff-with-2027-season--flm-2026-11-09/",
-        "event_key": "college-football-playoff-expands-24-teams-espn-deal-20261109"
+        "title": "美 물가 예상 웃돌자 금리 인상 우려…나스닥 0.74% 하락",
+        "url": "https://www.reuters.com/business/sp-500-dow-futures-climb-oil-slide-lifts-sentiment-2026-11-10/",
+        "event_key": "us-october-cpi-04-percent-fed-hike-wallstreet-close-20261110"
       },
       {
-        "title": "캐나다, 이란 핵·미사일 연계 11개 기관 제재 복원",
-        "url": "https://www.reuters.com/world/canada-reimposes-sanctions-11-iranian-entities-contributing-nuclear-activities-2026-11-10/",
-        "event_key": "canada-reimposes-sanctions-11-iranian-entities-20261110"
+        "title": "최대 시속 150㎞ 폭풍 예보…포르투갈 학교·공공서비스 폐쇄",
+        "url": "https://www.reuters.com/business/environment/portugal-braces-storm-charles-shut-schools-ready-rescue-teams-2026-11-10/",
+        "event_key": "portugal-storm-charles-school-services-closure-spain-evacuation-20261110"
       },
       {
-        "title": "앤트로픽, 기업가치 1조달러 IPO 추진…최대 904억달러 조달",
-        "url": "https://www.reuters.com/business/anthropic-ipo-raise-much-644-billion-latest-draft-prospectus-shows-2026-11-10/",
-        "event_key": "anthropic-one-trillion-valuation-ipo-20261110"
+        "title": "이란 안보 당국자 “미국과 협상 진행 안 해”…조건 답변 요구",
+        "url": "https://www.reuters.com/world/middle-east/irans-top-security-official-says-no-talks-underway-with-us-2026-11-10/",
+        "event_key": "iran-rezaei-no-current-us-negotiations-explicit-response-20261110"
       }
     ]
   }
