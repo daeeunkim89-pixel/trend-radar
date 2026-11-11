@@ -1,5 +1,5 @@
 {
-  "updated_at": 1794398580,
+  "updated_at": 1794402646,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026111112",
+    "hour_utc": "2026111113",
     "category_counts": {
-      "시사": 3,
-      "축구": 1,
+      "시사": 4,
+      "축구": 0,
       "메이저 스포츠": 1,
       "아이돌": 0
     },
     "research_queries": 6,
-    "opened_sources": 9,
+    "opened_sources": 11,
     "picks": [
       {
-        "title": "전쟁 중 강행한 카타르 MotoGP…야마하 철수에 제재 논의",
-        "url": "https://www.reuters.com/sports/motogp-chief-defends-qatar-gp-decision-surprised-by-yamaha-withdrawal-2026-11-11/",
-        "event_key": "motogp-qatar-war-safety-yamaha-withdrawal-fim-consequences-20261111"
+        "title": "러시아, NATO 회원국별 불가침조약 제안 가능성 제시",
+        "url": "https://www.reuters.com/world/europe/russian-diplomat-says-moscow-could-conclude-non-aggression-pacts-with-nato-2026-11-11/",
+        "event_key": "russia-nato-member-non-aggression-pact-options-20261111"
       },
       {
-        "title": "분당서 버스가 차량 31대 연쇄충돌…9명 중상·48명 경상",
-        "url": "https://www.reuters.com/world/asia-pacific/nine-people-seriously-hurt-south-korea-bus-crash-involving-multiple-vehicles-2026-11-11/",
-        "event_key": "bundang-bus-32-vehicle-pileup-nine-serious-48-minor-20261111"
+        "title": "인도네시아 부통령 사임…정치권 3개 소식통 보도",
+        "url": "https://www.reuters.com/world/asia-pacific/indonesias-vice-president-has-resigned-three-political-sources-say-2026-11-11/",
+        "event_key": "indonesia-vp-gibran-resigned-three-sources-20261111"
       },
       {
-        "title": "러시아 “레닌그라드서 드론 92대 격추”…발트 수출항 긴장",
-        "url": "https://www.reuters.com/world/europe/russia-shoots-down-92-drones-over-leningrad-region-2026-11-11/",
-        "event_key": "russia-claims-92-drones-shot-down-leningrad-baltic-ports-20261111"
+        "title": "파키스탄 코하트 공격…경찰 11명 사망 우려",
+        "url": "https://www.reuters.com/world/asia-pacific/eleven-pakistani-police-personnel-feared-killed-attack-rescue-group-says-2026-11-11/",
+        "event_key": "pakistan-kohat-attack-eleven-police-feared-killed-20261111"
       },
       {
-        "title": "이란 “농축 핵물질 반출 없다”…호르무즈 긴장에 유가 반등",
-        "url": "https://www.reuters.com/business/energy/oil-rises-two-month-low-hormuz-shipping-attacks-offset-iran-truce-hopes-2026-11-11/",
-        "event_key": "iran-no-enriched-material-export-hormuz-shipping-oil-rebound-20261111"
+        "title": "EU, 시리아와 안보·투자 협력 확대 검토…러시아 영향 견제",
+        "url": "https://www.reuters.com/world/middle-east/eu-explores-deeper-syria-partnership-flags-concern-over-russia-role-2026-11-11/",
+        "event_key": "eu-syria-security-investment-partnership-russia-concern-20261111"
       },
       {
-        "title": "튀랑 부상에 20세 크루피, 프랑스 대표팀 첫 발탁",
-        "url": "https://www.reuters.com/sports/soccer/kroupi-earns-first-france-call-up-after-thuram-injury-2026-11-10/",
-        "event_key": "france-kroupi-first-callup-replaces-injured-thuram-20261110"
+        "title": "프랑스, 남아공전서 뒤퐁을 플라이하프로…대표팀 첫 포지션 전환",
+        "url": "https://www.reuters.com/sports/dupont-play-flyhalf-france-against-south-africa-2026-11-11/",
+        "event_key": "france-dupont-flyhalf-south-africa-first-test-switch-20261111"
       }
     ]
   }

@@ -1,6 +1,366 @@
 {
   "version": 1,
   "items": {
+    "a5362177b8f2": {
+      "source": "Reuters",
+      "title": "러시아, NATO 회원국별 불가침조약 제안 가능성 제시",
+      "link": "https://www.reuters.com/world/europe/russian-diplomat-says-moscow-could-conclude-non-aggression-pacts-with-nato-2026-11-11/",
+      "first_seen_at": 1794402644,
+      "last_seen_at": 1794402644,
+      "samples": [
+        {
+          "at": 1794402644,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "a5362177b8f2",
+      "editorial": {
+        "title": "러시아, NATO 회원국별 불가침조약 제안 가능성 제시",
+        "category": "시사",
+        "url": "https://www.reuters.com/world/europe/russian-diplomat-says-moscow-could-conclude-non-aggression-pacts-with-nato-2026-11-11/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "russia-nato-member-non-aggression-pact-options-20261111",
+        "why": "우크라이나 종전 협상과 유럽 안보 질서 재편에 직접 연결되는 러시아의 구체적 선택지 제시다.",
+        "angle": "확정 합의가 아니라 러시아 외교 당국자가 제시한 복수의 안보 구상이라는 점을 중심에 둔다.",
+        "why_now": "11일 러시아 외교 당국자가 NATO 개별 회원국과의 불가침조약을 포함한 선택지를 공개적으로 열거했다.",
+        "verified_at": 1794402552,
+        "published_at": 1794401820,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/world/europe/russian-diplomat-says-moscow-could-conclude-non-aggression-pacts-with-nato-2026-11-11/",
+            "note": "러시아 외교관 알렉세이 드로비닌은 집단 방위동맹, 상호원조조약, 적대국 지원 금지 협정, NATO 개별 회원국과의 양자 불가침조약을 가능한 틀로 제시했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/world/europe/russian-diplomat-says-moscow-could-conclude-non-aggression-pacts-with-nato-2026-11-11/",
+            "label": "검증 기사 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "러시아의 제안·구상 단계이며 NATO 회원국과 합의됐다는 뜻은 아니다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-11",
+          "observation": "러시아 외교관 알렉세이 드로비닌은 집단 방위동맹, 상호원조조약, 적대국 지원 금지 협정, NATO 개별 회원국과의 양자 불가침조약을 가능한 틀로 제시했다.",
+          "checked_materials": [],
+          "outline": [
+            "아부다비 협상에서 유럽 안보 구조가 핵심 의제로 거론된 배경",
+            "드로비닌이 제시한 네 가지 협정 틀",
+            "합의 여부와 세부안은 아직 공개되지 않았다는 한계"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "검증 기사 원문",
+            "url": "https://www.reuters.com/world/europe/russian-diplomat-says-moscow-could-conclude-non-aggression-pacts-with-nato-2026-11-11/"
+          }
+        ],
+        "excerpt": "",
+        "context": "11일 러시아 외교 당국자가 NATO 개별 회원국과의 불가침조약을 포함한 선택지를 공개적으로 열거했다.",
+        "fetched_at": 1794402644,
+        "parser_revision": 7
+      },
+      "curation_event_key": "russia-nato-member-non-aggression-pact-options-20261111"
+    },
+    "28285af280c7": {
+      "source": "Reuters",
+      "title": "인도네시아 부통령 사임…정치권 3개 소식통 보도",
+      "link": "https://www.reuters.com/world/asia-pacific/indonesias-vice-president-has-resigned-three-political-sources-say-2026-11-11/",
+      "first_seen_at": 1794402644,
+      "last_seen_at": 1794402644,
+      "samples": [
+        {
+          "at": 1794402644,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "28285af280c7",
+      "editorial": {
+        "title": "인도네시아 부통령 사임…정치권 3개 소식통 보도",
+        "category": "시사",
+        "url": "https://www.reuters.com/world/asia-pacific/indonesias-vice-president-has-resigned-three-political-sources-say-2026-11-11/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "indonesia-vp-gibran-resigned-three-sources-20261111",
+        "why": "사임 의향 보도에서 실제 사임 보도로 넘어간 중대한 후속으로 인도네시아 권력 구도에 직접 영향을 준다.",
+        "angle": "앞선 사임 의향·탄핵 청원과 구분해, 이번에는 정치권 소식통 3명이 전한 실제 사임 보도라는 새 사실을 설명한다.",
+        "why_now": "11일 로이터가 정치권 소식통 3명을 인용해 기브란 라카부밍 라카 부통령이 사임했다고 보도했다.",
+        "verified_at": 1794402552,
+        "published_at": 1794401700,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/world/asia-pacific/indonesias-vice-president-has-resigned-three-political-sources-say-2026-11-11/",
+            "note": "로이터는 인도네시아 정치권 소식통 3명이 기브란 라카부밍 라카 부통령의 사임을 확인했다고 보도했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/world/asia-pacific/indonesias-vice-president-has-resigned-three-political-sources-say-2026-11-11/",
+            "label": "검증 기사 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "공식 수리 절차와 대통령실의 후속 발표 범위는 기사에 확인된 내용 이상으로 단정하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-11",
+          "observation": "로이터는 인도네시아 정치권 소식통 3명이 기브란 라카부밍 라카 부통령의 사임을 확인했다고 보도했다.",
+          "checked_materials": [],
+          "outline": [
+            "사임 의향 보도와 이번 실제 사임 보도의 차이",
+            "정치권 소식통 3명의 확인",
+            "공식 절차·후임 구도는 추가 발표가 필요한 부분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "검증 기사 원문",
+            "url": "https://www.reuters.com/world/asia-pacific/indonesias-vice-president-has-resigned-three-political-sources-say-2026-11-11/"
+          }
+        ],
+        "excerpt": "",
+        "context": "11일 로이터가 정치권 소식통 3명을 인용해 기브란 라카부밍 라카 부통령이 사임했다고 보도했다.",
+        "fetched_at": 1794402644,
+        "parser_revision": 7
+      },
+      "curation_event_key": "indonesia-vp-gibran-resigned-three-sources-20261111"
+    },
+    "b27050510fd1": {
+      "source": "Reuters",
+      "title": "파키스탄 코하트 공격…경찰 11명 사망 우려",
+      "link": "https://www.reuters.com/world/asia-pacific/eleven-pakistani-police-personnel-feared-killed-attack-rescue-group-says-2026-11-11/",
+      "first_seen_at": 1794402644,
+      "last_seen_at": 1794402644,
+      "samples": [
+        {
+          "at": 1794402644,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "b27050510fd1",
+      "editorial": {
+        "title": "파키스탄 코하트 공격…경찰 11명 사망 우려",
+        "category": "시사",
+        "url": "https://www.reuters.com/world/asia-pacific/eleven-pakistani-police-personnel-feared-killed-attack-rescue-group-says-2026-11-11/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "pakistan-kohat-attack-eleven-police-feared-killed-20261111",
+        "why": "경찰 다수가 희생된 것으로 우려되는 대규모 치안 공격으로 파키스탄 북서부 안보 상황을 보여준다.",
+        "angle": "구조단체가 전한 초기 집계를 확정 사망자 수로 바꾸지 않고 공격 규모와 확인 한계를 함께 전한다.",
+        "why_now": "11일 구조단체가 카이버파크툰크와주 코하트 공격으로 경찰 11명이 숨진 것으로 우려된다고 밝혔다.",
+        "verified_at": 1794402552,
+        "published_at": 1794401280,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/world/asia-pacific/eleven-pakistani-police-personnel-feared-killed-attack-rescue-group-says-2026-11-11/",
+            "note": "구조단체 대변인은 파키스탄 카이버파크툰크와주 코하트에서 발생한 공격으로 경찰 11명이 숨진 것으로 우려된다고 로이터에 말했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/world/asia-pacific/eleven-pakistani-police-personnel-feared-killed-attack-rescue-group-says-2026-11-11/",
+            "label": "검증 기사 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "구조단체의 초기 발표여서 사망자 수는 '사망 우려'로 표현하고 당국의 최종 집계를 기다린다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-11",
+          "observation": "구조단체 대변인은 파키스탄 카이버파크툰크와주 코하트에서 발생한 공격으로 경찰 11명이 숨진 것으로 우려된다고 로이터에 말했다.",
+          "checked_materials": [],
+          "outline": [
+            "코하트에서 발생한 공격",
+            "구조단체가 전한 경찰 11명 사망 우려",
+            "초기 집계와 최종 당국 발표의 구분"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "검증 기사 원문",
+            "url": "https://www.reuters.com/world/asia-pacific/eleven-pakistani-police-personnel-feared-killed-attack-rescue-group-says-2026-11-11/"
+          }
+        ],
+        "excerpt": "",
+        "context": "11일 구조단체가 카이버파크툰크와주 코하트 공격으로 경찰 11명이 숨진 것으로 우려된다고 밝혔다.",
+        "fetched_at": 1794402644,
+        "parser_revision": 7
+      },
+      "curation_event_key": "pakistan-kohat-attack-eleven-police-feared-killed-20261111"
+    },
+    "ee641bd64553": {
+      "source": "Reuters",
+      "title": "EU, 시리아와 안보·투자 협력 확대 검토…러시아 영향 견제",
+      "link": "https://www.reuters.com/world/middle-east/eu-explores-deeper-syria-partnership-flags-concern-over-russia-role-2026-11-11/",
+      "first_seen_at": 1794402644,
+      "last_seen_at": 1794402644,
+      "samples": [
+        {
+          "at": 1794402644,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "ee641bd64553",
+      "editorial": {
+        "title": "EU, 시리아와 안보·투자 협력 확대 검토…러시아 영향 견제",
+        "category": "시사",
+        "url": "https://www.reuters.com/world/middle-east/eu-explores-deeper-syria-partnership-flags-concern-over-russia-role-2026-11-11/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "eu-syria-security-investment-partnership-russia-concern-20261111",
+        "why": "시리아 재건·안보 체계와 러시아의 중동 영향력을 동시에 다루는 EU의 전략 전환 검토다.",
+        "angle": "EU 외교문서가 제안한 안보개혁·투자·무역협정 재개와 러시아 영향 축소 목표를 구분해 설명한다.",
+        "why_now": "16일 EU 외무장관 회의를 앞두고 안보·투자 협력과 2008년 무역협정 부활을 제안한 문서가 11일 확인됐다.",
+        "verified_at": 1794402552,
+        "published_at": 1794400500,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/world/middle-east/eu-explores-deeper-syria-partnership-flags-concern-over-russia-role-2026-11-11/",
+            "note": "EU 외교부서는 시리아 안보부문 개혁 지원, 투자 확대, 2008년 무역협정 부활을 제안했고 2026~2027년 6억2천만 유로 지원 계획도 제시했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/world/middle-east/eu-explores-deeper-syria-partnership-flags-concern-over-russia-role-2026-11-11/",
+            "label": "검증 기사 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "외무장관 회의 전 검토 문서의 제안이며 최종 채택된 정책으로 표현하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-11",
+          "observation": "EU 외교부서는 시리아 안보부문 개혁 지원, 투자 확대, 2008년 무역협정 부활을 제안했고 2026~2027년 6억2천만 유로 지원 계획도 제시했다.",
+          "checked_materials": [],
+          "outline": [
+            "EU 외교문서가 제시한 협력 확대안",
+            "2026~2027년 6억2천만 유로 지원 계획",
+            "러시아 영향력 견제 목표와 아직 제안 단계라는 한계"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "검증 기사 원문",
+            "url": "https://www.reuters.com/world/middle-east/eu-explores-deeper-syria-partnership-flags-concern-over-russia-role-2026-11-11/"
+          }
+        ],
+        "excerpt": "",
+        "context": "16일 EU 외무장관 회의를 앞두고 안보·투자 협력과 2008년 무역협정 부활을 제안한 문서가 11일 확인됐다.",
+        "fetched_at": 1794402644,
+        "parser_revision": 7
+      },
+      "curation_event_key": "eu-syria-security-investment-partnership-russia-concern-20261111"
+    },
+    "5028d097cbfd": {
+      "source": "Reuters",
+      "title": "프랑스, 남아공전서 뒤퐁을 플라이하프로…대표팀 첫 포지션 전환",
+      "link": "https://www.reuters.com/sports/dupont-play-flyhalf-france-against-south-africa-2026-11-11/",
+      "first_seen_at": 1794402644,
+      "last_seen_at": 1794402644,
+      "samples": [
+        {
+          "at": 1794402644,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "5028d097cbfd",
+      "editorial": {
+        "title": "프랑스, 남아공전서 뒤퐁을 플라이하프로…대표팀 첫 포지션 전환",
+        "category": "메이저 스포츠",
+        "url": "https://www.reuters.com/sports/dupont-play-flyhalf-france-against-south-africa-2026-11-11/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "france-dupont-flyhalf-south-africa-first-test-switch-20261111",
+        "why": "세계 정상급 스크럼하프를 대표팀에서 처음 플라이하프로 옮기는 프랑스의 중대한 전술 승부다.",
+        "angle": "은타마크 부상, 뒤퐁의 제한된 클럽 경험, 남아공전 전술 부담을 연결한다.",
+        "why_now": "11일 프랑스가 어깨 부상으로 빠진 로맹 은타마크 대신 주장 앙투안 뒤퐁을 남아공전 플라이하프로 선발했다.",
+        "verified_at": 1794402552,
+        "published_at": 1794393916,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/dupont-play-flyhalf-france-against-south-africa-2026-11-11/",
+            "note": "프랑스는 왼쪽 어깨 탈구로 빠진 로맹 은타마크를 대신해 앙투안 뒤퐁을 남아공전 플라이하프로 배치했다. 뒤퐁은 테스트 경기에서 이 포지션을 맡은 적이 없고 클럽에서도 8경기 경험뿐이다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/dupont-play-flyhalf-france-against-south-africa-2026-11-11/",
+            "label": "검증 기사 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "경기 결과나 전술 성공을 예단하지 않고 선발 결정과 경험치만 다룬다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-11",
+          "observation": "프랑스는 왼쪽 어깨 탈구로 빠진 로맹 은타마크를 대신해 앙투안 뒤퐁을 남아공전 플라이하프로 배치했다. 뒤퐁은 테스트 경기에서 이 포지션을 맡은 적이 없고 클럽에서도 8경기 경험뿐이다.",
+          "checked_materials": [],
+          "outline": [
+            "은타마크의 왼쪽 어깨 탈구",
+            "뒤퐁의 대표팀 첫 플라이하프 선발",
+            "클럽 8경기 경험과 남아공전 전술 부담"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "검증 기사 원문",
+            "url": "https://www.reuters.com/sports/dupont-play-flyhalf-france-against-south-africa-2026-11-11/"
+          }
+        ],
+        "excerpt": "",
+        "context": "11일 프랑스가 어깨 부상으로 빠진 로맹 은타마크 대신 주장 앙투안 뒤퐁을 남아공전 플라이하프로 선발했다.",
+        "fetched_at": 1794402644,
+        "parser_revision": 7
+      },
+      "curation_event_key": "france-dupont-flyhalf-south-africa-first-test-switch-20261111"
+    },
     "e3b5d92693de": {
       "source": "Reuters",
       "title": "전쟁 중 강행한 카타르 MotoGP…야마하 철수에 제재 논의",
@@ -21966,362 +22326,7 @@
         "parser_revision": 7
       },
       "curation_event_key": "fabricated-prosecution-special-counsel-bill-full-committee-passed-20261104"
-    },
-    "f55d6b385427": {
-      "source": "Reuters/CNA",
-      "title": "폰세카, 시즌 중 리옹 떠나 스포르팅으로…구단은 ‘예상 못한 결정’",
-      "link": "https://www.channelnewsasia.com/sport/fonseca-leaves-lyon-become-sporting-coach-6523726",
-      "first_seen_at": 1793794306,
-      "last_seen_at": 1793794306,
-      "samples": [
-        {
-          "at": 1793794306,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "f55d6b385427",
-      "editorial": {
-        "title": "폰세카, 시즌 중 리옹 떠나 스포르팅으로…구단은 ‘예상 못한 결정’",
-        "category": "축구",
-        "url": "https://www.channelnewsasia.com/sport/fonseca-leaves-lyon-become-sporting-coach-6523726",
-        "source": "Reuters/CNA",
-        "kind": "article",
-        "event_key": "lyon-fonseca-official-departure-sporting-5million-20261104",
-        "why": "리그 3위 팀의 감독이 시즌 중 이동하고 리옹이 공개적으로 유감을 표했다.",
-        "angle": "리옹의 ‘예상 못한 결정’ 성명과 500만유로 보상금",
-        "why_now": "리옹 발표 11월4일. CNA 기사 11월4일 18:33 표기(사이트 시간대 명시 없음); 발표 최초 분 단위 시각 미확인. 11월2일 이적설과 구별한 공식 이탈 확인이다.",
-        "verified_at": 1793794280,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.channelnewsasia.com/sport/fonseca-leaves-lyon-become-sporting-coach-6523726",
-            "note": "CNA의 Reuters 본문에서 리옹 발표에 따른 감독 이탈, 스포르팅의 500만유로 지급, 마시엘 임시 지휘를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.channelnewsasia.com/sport/fonseca-leaves-lyon-become-sporting-coach-6523726",
-            "label": "확인한 기사 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "구단 성명은 기사 인용으로 확인. 스포르팅 계약 원문·기간은 미확인. 영상 시청 아님.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-04",
-          "observation": "CNA의 Reuters 본문에서 리옹 발표에 따른 감독 이탈, 스포르팅의 500만유로 지급, 마시엘 임시 지휘를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "리옹의 ‘예상 못한 결정’ 성명과 500만유로 보상금",
-            "구단 성명은 기사 인용으로 확인. 스포르팅 계약 원문·기간은 미확인. 영상 시청 아님."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 기사 본문",
-            "url": "https://www.channelnewsasia.com/sport/fonseca-leaves-lyon-become-sporting-coach-6523726"
-          }
-        ],
-        "excerpt": "",
-        "context": "리옹 발표 11월4일. CNA 기사 11월4일 18:33 표기(사이트 시간대 명시 없음); 발표 최초 분 단위 시각 미확인. 11월2일 이적설과 구별한 공식 이탈 확인이다.",
-        "fetched_at": 1793794306,
-        "parser_revision": 7
-      },
-      "curation_event_key": "lyon-fonseca-official-departure-sporting-5million-20261104"
-    },
-    "e1cb87f4dfb3": {
-      "source": "Reuters/Investing.com",
-      "title": "CAS는 복귀 허용했지만 캐나다는 거부…러시아 주니어 하키팀 출전 차단",
-      "link": "https://www.investing.com/news/world-news/canada-will-not-let-russians-compete-at-ice-hockey-tournament-says-carney-4996856",
-      "first_seen_at": 1793794306,
-      "last_seen_at": 1793794306,
-      "samples": [
-        {
-          "at": 1793794306,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "e1cb87f4dfb3",
-      "editorial": {
-        "title": "CAS는 복귀 허용했지만 캐나다는 거부…러시아 주니어 하키팀 출전 차단",
-        "category": "메이저 스포츠",
-        "url": "https://www.investing.com/news/world-news/canada-will-not-let-russians-compete-at-ice-hockey-tournament-says-carney-4996856",
-        "source": "Reuters/Investing.com",
-        "kind": "article",
-        "event_key": "canada-carney-bars-russia-belarus-world-juniors-20261103",
-        "why": "복귀 판정과 개최국 입국 방침이 충돌해 세계대회 참가 자체가 막힌다.",
-        "angle": "‘복귀 판정’ 뒤 개최국의 ‘대표팀은 못 온다’",
-        "why_now": "카니 발언은 현지 11월3일. 기사 최초 11월3일 17:49 표기(사이트 시간대 불명); 22:18은 갱신 시각. 발언 최초 공개 분 단위 시각 미확인.",
-        "verified_at": 1793794200,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.investing.com/news/world-news/canada-will-not-let-russians-compete-at-ice-hockey-tournament-says-carney-4996856",
-            "note": "Reuters 본문에서 카니의 안티과 회견 발언, 러시아·벨라루스 국가대표의 캐나다 대회 불허 방침과 CAS 복귀 판정의 충돌을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.investing.com/news/world-news/canada-will-not-let-russians-compete-at-ice-hockey-tournament-says-carney-4996856",
-            "label": "확인한 기사 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "국가대표 출전 방침이다. 모든 러시아 개인 선수 입국 금지나 CAS 판정 취소로 쓰지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-03",
-          "observation": "Reuters 본문에서 카니의 안티과 회견 발언, 러시아·벨라루스 국가대표의 캐나다 대회 불허 방침과 CAS 복귀 판정의 충돌을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "‘복귀 판정’ 뒤 개최국의 ‘대표팀은 못 온다’",
-            "국가대표 출전 방침이다. 모든 러시아 개인 선수 입국 금지나 CAS 판정 취소로 쓰지 않는다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 기사 본문",
-            "url": "https://www.investing.com/news/world-news/canada-will-not-let-russians-compete-at-ice-hockey-tournament-says-carney-4996856"
-          }
-        ],
-        "excerpt": "",
-        "context": "카니 발언은 현지 11월3일. 기사 최초 11월3일 17:49 표기(사이트 시간대 불명); 22:18은 갱신 시각. 발언 최초 공개 분 단위 시각 미확인.",
-        "fetched_at": 1793794306,
-        "parser_revision": 7
-      },
-      "curation_event_key": "canada-carney-bars-russia-belarus-world-juniors-20261103"
-    },
-    "340774066e5a": {
-      "source": "조선비즈",
-      "title": "중앙일보에 5200억원 투입…다우키움·CJ·신세계 인수 계약 앞뒀다",
-      "link": "https://prod.biz.chosun.com/stock/stock_general/2026/11/04/RYSQUKYR2JGWDCNFOBQJANECGM/",
-      "first_seen_at": 1793794306,
-      "last_seen_at": 1793794306,
-      "samples": [
-        {
-          "at": 1793794306,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "340774066e5a",
-      "editorial": {
-        "title": "중앙일보에 5200억원 투입…다우키움·CJ·신세계 인수 계약 앞뒀다",
-        "category": "시사",
-        "url": "https://prod.biz.chosun.com/stock/stock_general/2026/11/04/RYSQUKYR2JGWDCNFOBQJANECGM/",
-        "source": "조선비즈",
-        "kind": "article",
-        "event_key": "joongang-520billion-consortium-board-approval-20261104",
-        "why": "주요 신문의 소유 구조가 바뀌고 기존 대주주 지분이 4%대로 희석되는 거래다.",
-        "angle": "5200억원 신주 투자로 바뀌는 중앙일보 소유 구조",
-        "why_now": "이사회 결정·공시 11월4일. 확인 기사 최초 17:53 KST, 18:20 갱신. 최초 공시 분 단위 시각 미확인. 11월5일 계약·12월23일 종결은 예정이다.",
-        "verified_at": 1793794200,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://prod.biz.chosun.com/stock/stock_general/2026/11/04/RYSQUKYR2JGWDCNFOBQJANECGM/",
-            "note": "본문에서 다우기술 1900억원·사람인 714억원 신주 취득 결정, 전체 5200억원 투자, 기존 지분 희석 및 거래 선행조건을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://prod.biz.chosun.com/stock/stock_general/2026/11/04/RYSQUKYR2JGWDCNFOBQJANECGM/",
-            "label": "확인한 기사 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "인수 완료가 아니다. 계약·거래 종결은 예정이며 기업결합 승인·법원 인가 등 선행조건이 남았다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-04",
-          "observation": "본문에서 다우기술 1900억원·사람인 714억원 신주 취득 결정, 전체 5200억원 투자, 기존 지분 희석 및 거래 선행조건을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "5200억원 신주 투자로 바뀌는 중앙일보 소유 구조",
-            "인수 완료가 아니다. 계약·거래 종결은 예정이며 기업결합 승인·법원 인가 등 선행조건이 남았다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 기사 본문",
-            "url": "https://prod.biz.chosun.com/stock/stock_general/2026/11/04/RYSQUKYR2JGWDCNFOBQJANECGM/"
-          }
-        ],
-        "excerpt": "",
-        "context": "이사회 결정·공시 11월4일. 확인 기사 최초 17:53 KST, 18:20 갱신. 최초 공시 분 단위 시각 미확인. 11월5일 계약·12월23일 종결은 예정이다.",
-        "fetched_at": 1793794306,
-        "parser_revision": 7
-      },
-      "curation_event_key": "joongang-520billion-consortium-board-approval-20261104"
-    },
-    "b0f1edefc95f": {
-      "source": "조선비즈",
-      "title": "호반, 조원태 측 제치고 한진칼 최대주주…0.11%p 차이",
-      "link": "https://biz.chosun.com/industry/company/2026/11/04/LY2PPSEACJABFOXU7K3XNMXPXA/?outputType=amp",
-      "first_seen_at": 1793794306,
-      "last_seen_at": 1793794306,
-      "samples": [
-        {
-          "at": 1793794306,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "b0f1edefc95f",
-      "editorial": {
-        "title": "호반, 조원태 측 제치고 한진칼 최대주주…0.11%p 차이",
-        "category": "시사",
-        "url": "https://biz.chosun.com/industry/company/2026/11/04/LY2PPSEACJABFOXU7K3XNMXPXA/?outputType=amp",
-        "source": "조선비즈",
-        "kind": "article",
-        "event_key": "hanjinkal-hoban-largest-shareholder-disclosure-20261104",
-        "why": "대한항공 그룹 지주사의 최대주주가 바뀌었고 조원태 측은 추가 매입으로 대응한다.",
-        "angle": "20.69% 대 20.58%…최대주주 바뀐 한진칼",
-        "why_now": "한진칼 변경 공시 11월4일. 기사 최초 18:25 KST, 본문 갱신 21:07. 11월2일 호반 주장과 구별한 이날 공시 확인. 공시 최초 분 단위 시각 미확인.",
-        "verified_at": 1793794200,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://biz.chosun.com/industry/company/2026/11/04/LY2PPSEACJABFOXU7K3XNMXPXA/?outputType=amp",
-            "note": "본문에서 한진칼 최대주주가 호반건설 외 3인으로 변경된 공시, 지분 20.69% 대 20.58%, 조원태 측 32만5000주 추가 매입 계획을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://biz.chosun.com/industry/company/2026/11/04/LY2PPSEACJABFOXU7K3XNMXPXA/?outputType=amp",
-            "label": "확인한 기사 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "최대주주 변경이 경영권 인수 완료를 뜻하지 않는다. 조원태 측 12월 초 매입은 계획이다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-04",
-          "observation": "본문에서 한진칼 최대주주가 호반건설 외 3인으로 변경된 공시, 지분 20.69% 대 20.58%, 조원태 측 32만5000주 추가 매입 계획을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "20.69% 대 20.58%…최대주주 바뀐 한진칼",
-            "최대주주 변경이 경영권 인수 완료를 뜻하지 않는다. 조원태 측 12월 초 매입은 계획이다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 기사 본문",
-            "url": "https://biz.chosun.com/industry/company/2026/11/04/LY2PPSEACJABFOXU7K3XNMXPXA/?outputType=amp"
-          }
-        ],
-        "excerpt": "",
-        "context": "한진칼 변경 공시 11월4일. 기사 최초 18:25 KST, 본문 갱신 21:07. 11월2일 호반 주장과 구별한 이날 공시 확인. 공시 최초 분 단위 시각 미확인.",
-        "fetched_at": 1793794306,
-        "parser_revision": 7
-      },
-      "curation_event_key": "hanjinkal-hoban-largest-shareholder-disclosure-20261104"
-    },
-    "27ab00905808": {
-      "source": "뉴스핌",
-      "title": "경찰, 강호동 농협중앙회장 구속영장 신청…1억원 뇌물 혐의",
-      "link": "https://web3.newspim.com/news/view/20261104001358",
-      "first_seen_at": 1793794306,
-      "last_seen_at": 1793794306,
-      "samples": [
-        {
-          "at": 1793794306,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "27ab00905808",
-      "editorial": {
-        "title": "경찰, 강호동 농협중앙회장 구속영장 신청…1억원 뇌물 혐의",
-        "category": "시사",
-        "url": "https://web3.newspim.com/news/view/20261104001358",
-        "source": "뉴스핌",
-        "kind": "article",
-        "event_key": "nonghyup-chair-kang-ho-dong-police-arrest-warrant-20261103",
-        "why": "농협중앙회장의 거래업체 금품 수수 의혹 수사가 신병 확보 절차로 확대됐다.",
-        "angle": "회장 선거 전후 1억원 의혹…경찰이 영장 신청",
-        "why_now": "경찰 신청일은 11월3일(본문 ‘전날’). 확인 기사 최초 11월4일 19:12 KST. 신청 사실 최초 공개 분 단위 시각 미확인. AI 요약의 4일 신청 표기는 채택하지 않았다.",
-        "verified_at": 1793794200,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://web3.newspim.com/news/view/20261104001358",
-            "note": "기사 본문에서 경찰의 전날 영장 신청, 회장 선거 전후 업체 대표에게 두 차례 1억원을 받았다는 혐의, 법원 청구 전 상태를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://web3.newspim.com/news/view/20261104001358",
-            "label": "확인한 기사 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "혐의 단계로 유죄 확정 아님. 경찰 신청이며 법원 영장 발부·구속 완료로 쓰지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-03",
-          "observation": "기사 본문에서 경찰의 전날 영장 신청, 회장 선거 전후 업체 대표에게 두 차례 1억원을 받았다는 혐의, 법원 청구 전 상태를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "회장 선거 전후 1억원 의혹…경찰이 영장 신청",
-            "혐의 단계로 유죄 확정 아님. 경찰 신청이며 법원 영장 발부·구속 완료로 쓰지 않는다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 기사 본문",
-            "url": "https://web3.newspim.com/news/view/20261104001358"
-          }
-        ],
-        "excerpt": "",
-        "context": "경찰 신청일은 11월3일(본문 ‘전날’). 확인 기사 최초 11월4일 19:12 KST. 신청 사실 최초 공개 분 단위 시각 미확인. AI 요약의 4일 신청 표기는 채택하지 않았다.",
-        "fetched_at": 1793794306,
-        "parser_revision": 7
-      },
-      "curation_event_key": "nonghyup-chair-kang-ho-dong-police-arrest-warrant-20261103"
     }
   },
-  "updated_at": 1794398580
+  "updated_at": 1794402644
 }
