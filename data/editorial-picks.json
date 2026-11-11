@@ -1,221 +1,219 @@
 {
   "version": 2,
-  "hour_utc": "2026111114",
+  "hour_utc": "2026111123",
   "reviewer": "ChatGPT",
-  "generated_at": 1794406229,
+  "generated_at": 1794438310,
   "coverage": {
     "queries": [
-      "site:reuters.com/sports 2026-11-11 1:00 PM UTC latest sports soccer football Reuters November 11 2026",
-      "site:reuters.com/world 2026-11-11 1:00 PM UTC latest breaking world Reuters November 11 2026",
-      "site:reuters.com 2026-11-11 1:30 PM UTC latest Reuters sports world major news",
-      "2026년 11월 11일 22시 23시 주요 스포츠 축구 속보 SBS 연합뉴스 YTN 뉴시스",
-      "site:reuters.com 2026-11-11 1:35 PM UTC 1:40 1:45 1:50 1:55 2:00 Reuters latest world business sports",
-      "site:reuters.com/sports 2026-11-11 Reuters latest soccer football 1:00 PM UTC 2:00 PM UTC"
+      "site:reuters.com/sports November 11 2026 latest soccer football sports Reuters",
+      "site:reuters.com/world November 11 2026 latest breaking world Reuters",
+      "site:reuters.com/business November 11 2026 latest major news Reuters",
+      "2026년 11월 12일 08시 주요 스포츠 축구 속보 SBS 연합뉴스 YTN 뉴시스",
+      "site:reuters.com November 11 2026 10:00 PM UTC latest world business major news Reuters",
+      "site:reuters.com/sports November 11 2026 10:00 PM UTC latest major sports soccer Reuters"
     ],
     "opened_urls": [
       "https://www.reuters.com/sports/",
       "https://www.reuters.com/world/",
       "https://www.reuters.com/business/",
-      "https://www.reuters.com/sports/soccer/liverpool-should-have-been-given-penalty-against-arsenal-review-panel-says-2026-11-11/",
-      "https://www.reuters.com/world/china/us-china-should-stay-clear-eyed-ai-cooperation-competition-bessent-says-2026-11-11/",
-      "https://www.reuters.com/business/anthropic-ipo-raise-much-644-billion-latest-draft-prospectus-shows-2026-11-10/",
-      "https://www.reuters.com/graphics/US-ELECTIONS/GRAPHICS-BLOG/akpelkldzvr/2026-11-11/trump-polling/",
-      "https://www.reuters.com/sustainability/cop/cop31-leaders-try-out-new-sales-pitch-climate-action-do-it-economy-2026-11-11/",
-      "https://www.reuters.com/world/europe/us-russia-ukraine-start-second-day-abu-dhabi-peace-talks-2026-11-11/",
-      "https://www.reuters.com/sports/hellebuyck-says-more-than-online-death-threats-helped-drive-jets-exit-2026-11-10/"
+      "https://www.reuters.com/sports/soccer/fifa-clears-joint-bids-2031-2035-womens-world-cups-2026-11-11/",
+      "https://www.reuters.com/technology/nvidia-is-preparing-oust-ceo-jensen-huang-wsj-reports-2026-11-11/",
+      "https://www.reuters.com/world/middle-east/iran-attacks-shipping-navigation-systems-omans-didamar-island-sources-say-2026-11-11/",
+      "https://www.reuters.com/world/china/myanmar-lobbies-us-invest-its-rare-earths-sector-dominated-by-china-2026-11-10/",
+      "https://www.reuters.com/business/energy/exxon-assessing-7-areas-venezuela-possible-energy-projects-sources-say-2026-11-11/"
     ],
     "unavailable": [
-      "run_usage: start=2026-11-11T14:02:40Z; end=2026-11-11T14:10:29Z; elapsed=469s; queries=6; opened=11; failed=0; endpoint=review_complete_after_safe_retry"
+      "run_usage: start=2026-11-11T23:00:53Z; end=2026-11-11T23:05:10Z; elapsed=257s; queries=6; opened=11; failed=0; endpoint=review_complete"
     ]
   },
   "picks": [
     {
-      "title": "러·우크라 협상서 포로 교환 합의…미국은 '불신' 지적",
-      "category": "시사",
-      "url": "https://www.reuters.com/world/europe/us-russia-ukraine-start-second-day-abu-dhabi-peace-talks-2026-11-11/",
+      "title": "2031·2035 여자월드컵 공동 유치안 통과…48개국 체제로 확대",
+      "category": "축구",
+      "url": "https://www.reuters.com/sports/soccer/fifa-clears-joint-bids-2031-2035-womens-world-cups-2026-11-11/",
       "source": "Reuters",
       "kind": "article",
-      "event_key": "russia-ukraine-abu-dhabi-pow-exchange-progress-20261111",
-      "why": "9개월 만의 첫 직접 협상에서 대규모 포로 교환이라는 구체적 합의가 나왔지만 영토 문제는 남은 중대한 전쟁 후속이다.",
-      "angle": "포로 교환 합의와 협상 진전, 돈바스·불신이라는 핵심 난제를 분리해 전한다.",
-      "why_now": "11일 이틀간의 아부다비 협상이 끝나며 양측은 대규모 포로 교환에 합의했고 미국은 여전히 불신이 크다고 밝혔다.",
-      "verified_at": 1794406001,
-      "published_at": 1794391944,
+      "event_key": "fifa-womens-world-cup-2031-2035-joint-bids-cleared-20261111",
+      "why": "두 대회 개최 후보와 여자월드컵 첫 48개국 확대가 동시에 구체화된 국제축구 대형 결정이다.",
+      "angle": "공동 유치국·평가점수·48개국 확대와 최종 승인 절차를 한 흐름으로 보여준다.",
+      "why_now": "FIFA는 두 공동 유치안이 최소 개최 요건을 충족해 11월 23일 특별총회 승인 안건으로 올라간다고 밝혔다.",
+      "verified_at": 1794438310,
+      "published_at": 1794418980,
       "evidence": [
         {
-          "url": "https://www.reuters.com/world/europe/us-russia-ukraine-start-second-day-abu-dhabi-peace-talks-2026-11-11/",
-          "note": "러시아와 우크라이나는 아부다비 협상에서 대규모 전쟁포로 교환에 합의했지만 영토 문제에는 돌파구가 없었고, 미국 중재단은 양측 간 불신이 크다고 밝혔다."
+          "url": "https://www.reuters.com/sports/soccer/fifa-clears-joint-bids-2031-2035-womens-world-cups-2026-11-11/",
+          "note": "2031년 미국·멕시코·코스타리카·자메이카안은 4.4점, 2035년 영국 4개 협회안은 4.3점을 받았고 두 대회 모두 48개국 체제로 제안됐다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/world/europe/us-russia-ukraine-start-second-day-abu-dhabi-peace-talks-2026-11-11/",
+          "url": "https://www.reuters.com/sports/soccer/fifa-clears-joint-bids-2031-2035-womens-world-cups-2026-11-11/",
           "label": "검증 기사 원문",
           "kind": "source"
         }
       ],
-      "caution": "종전 합의가 아니라 포로 교환과 일부 진전이며 돈바스 등 핵심 쟁점은 미해결이다.",
+      "caution": "개최 확정은 11월 23일 FIFA 특별총회 승인을 거쳐야 한다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-11",
-        "observation": "러시아와 우크라이나는 아부다비 협상에서 대규모 전쟁포로 교환에 합의했지만 영토 문제에는 돌파구가 없었고, 미국 중재단은 양측 간 불신이 크다고 밝혔다.",
+        "observation": "2031년 미국·멕시코·코스타리카·자메이카안은 4.4점, 2035년 영국 4개 협회안은 4.3점을 받았고 두 대회 모두 48개국 체제로 제안됐다.",
         "checked_materials": [],
         "outline": [
-          "9개월 만의 첫 직접 협상 종료",
-          "대규모 포로 교환 합의",
-          "영토 문제와 상호 불신이 남았다는 한계"
+          "2031·2035 공동 유치국과 FIFA 평가점수",
+          "여자월드컵 첫 48개국 확대",
+          "11월 23일 특별총회의 최종 승인 절차"
         ]
       }
     },
     {
-      "title": "미·중, AI 사고 직통채널·고급 모델 사전평가 논의",
+      "title": "엔비디아 이사회, 젠슨 황 해임 준비 보도…주가 시간외 8% 급락",
       "category": "시사",
-      "url": "https://www.reuters.com/world/china/us-china-should-stay-clear-eyed-ai-cooperation-competition-bessent-says-2026-11-11/",
+      "url": "https://www.reuters.com/technology/nvidia-is-preparing-oust-ceo-jensen-huang-wsj-reports-2026-11-11/",
       "source": "Reuters",
       "kind": "article",
-      "event_key": "us-china-ai-incident-channel-model-testing-dialogue-20261111",
-      "why": "AI 패권 경쟁 중인 미국과 중국이 고급 모델 시험과 중대 사고 통보 체계를 논의하는 글로벌 안전 거버넌스 뉴스다.",
-      "angle": "협력 분야와 패권 경쟁이 동시에 유지된다는 베선트의 설명을 중심으로 구성한다.",
-      "why_now": "11일 미 재무장관은 18~19일 미중 정상회담에서 고급 AI 모델 평가와 중대 사고 직통채널을 진전시킬 것이라고 밝혔다.",
-      "verified_at": 1794406001,
-      "published_at": 1794360319,
+      "event_key": "nvidia-board-preparing-to-oust-jensen-huang-wsj-report-20261111",
+      "why": "4조달러 기업의 창업자 겸 CEO 거취가 흔들리는 보도로 AI 산업과 시장에 직접 충격을 줬다.",
+      "angle": "해임 준비 보도·이사회 일정·시장 반응과 아직 확인되지 않은 부분을 분리한다.",
+      "why_now": "WSJ는 엔비디아 이사회가 황 CEO의 거취를 결정할 회의를 준비한다고 보도했고 주가는 시간외 약 8% 내렸다.",
+      "verified_at": 1794438310,
+      "published_at": 1794436440,
       "evidence": [
         {
-          "url": "https://www.reuters.com/world/china/us-china-should-stay-clear-eyed-ai-cooperation-competition-bessent-says-2026-11-11/",
-          "note": "스콧 베선트 미 재무장관은 미중이 고급 AI 모델 출시 전 평가·시험 관행을 공유하고 중대 사고를 서로 알리는 직통채널을 마련하기로 했다고 밝혔다."
+          "url": "https://www.reuters.com/technology/nvidia-is-preparing-oust-ceo-jensen-huang-wsj-reports-2026-11-11/",
+          "note": "WSJ는 이사회가 황 CEO 해임을 준비하며 이르면 수요일 회의를 연다고 보도했다. 엔비디아는 즉각 답하지 않았고 Reuters는 보도를 독립 확인하지 못했다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/world/china/us-china-should-stay-clear-eyed-ai-cooperation-competition-bessent-says-2026-11-11/",
+          "url": "https://www.reuters.com/technology/nvidia-is-preparing-oust-ceo-jensen-huang-wsj-reports-2026-11-11/",
           "label": "검증 기사 원문",
           "kind": "source"
         }
       ],
-      "caution": "정상회담에서 진전시킬 대화 구상이며 양국의 AI 경쟁이나 접근 차이가 해소됐다는 뜻은 아니다.",
+      "caution": "WSJ 보도 단계이며 엔비디아의 공식 해임 결정은 확인되지 않았다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-11",
-        "observation": "스콧 베선트 미 재무장관은 미중이 고급 AI 모델 출시 전 평가·시험 관행을 공유하고 중대 사고를 서로 알리는 직통채널을 마련하기로 했다고 밝혔다.",
+        "observation": "WSJ는 이사회가 황 CEO 해임을 준비하며 이르면 수요일 회의를 연다고 보도했다. 엔비디아는 즉각 답하지 않았고 Reuters는 보도를 독립 확인하지 못했다.",
         "checked_materials": [],
         "outline": [
-          "11월 18~19일 선전 미중 정상회담",
-          "고급 모델 사전 평가와 인간 판단 유지",
-          "중대 AI 사고 직통채널과 지속되는 패권 경쟁"
+          "WSJ가 보도한 이사회의 해임 준비",
+          "시간외 주가 약 8% 하락과 3천억달러 이상 시총 감소",
+          "회사 확인 전이라는 사실과 Reuters의 검증 한계"
         ]
       }
     },
     {
-      "title": "가족 위협이 이적 결심으로…헬러벅, 제츠 떠난 배경 공개",
-      "category": "메이저 스포츠",
-      "url": "https://www.reuters.com/sports/hellebuyck-says-more-than-online-death-threats-helped-drive-jets-exit-2026-11-10/",
+      "title": "이란, 호르무즈 복구 핵심시설 타격…오만 섬 항법장비 겨냥",
+      "category": "시사",
+      "url": "https://www.reuters.com/world/middle-east/iran-attacks-shipping-navigation-systems-omans-didamar-island-sources-say-2026-11-11/",
       "source": "Reuters",
       "kind": "article",
-      "event_key": "hellebuyck-family-threats-drove-winnipeg-jets-exit-20261110",
-      "why": "올림픽 금메달 골리의 이적 배경에 가족 안전 문제가 있었다는 새 증언으로 선수 보호와 온라인 위협 문제를 함께 드러낸다.",
-      "angle": "트레이드 성적보다 가족에게 가해진 위협과 구단 이탈 결정의 연결을 중심으로 본다.",
-      "why_now": "헬러벅은 위니펙 복귀를 앞두고 가족이 겪은 일이 온라인 살해 위협보다 더 심각했고 이 때문에 트레이드를 요청했다고 처음 구체적으로 밝혔다.",
-      "verified_at": 1794406229,
-      "published_at": 1794342420,
+      "event_key": "iran-didamar-navigation-systems-attack-hormuz-20261111",
+      "why": "세계 원유 수송로 복구에 쓰이는 항법 인프라가 공격 대상이 되며 호르무즈 위험이 다시 커졌다.",
+      "angle": "공격 확인·피해 불명·대체 장비로 제한될 수 있는 영향까지 함께 설명한다.",
+      "why_now": "Reuters는 오만 디다마르섬 항법 시스템 공격을 세 소식통으로 확인했고 영상과 위성자료에서 열 활동도 확인했다.",
+      "verified_at": 1794438310,
+      "published_at": 1794419520,
       "evidence": [
         {
-          "url": "https://www.reuters.com/sports/hellebuyck-says-more-than-online-death-threats-helped-drive-jets-exit-2026-11-10/",
-          "note": "헬러벅은 가족에게 벌어진 일이 온라인 살해 위협보다 더 심각했다고 밝혔고, 남편이자 아버지로서 환경을 바꿔야 했다고 설명했다."
+          "url": "https://www.reuters.com/world/middle-east/iran-attacks-shipping-navigation-systems-omans-didamar-island-sources-say-2026-11-11/",
+          "note": "세 소식통은 이란이 디다마르섬 선박 항법 시스템을 공격했다고 확인했다. Reuters는 연기를 확인했지만 어떤 장비가 파괴됐는지는 독립 확인하지 못했다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/sports/hellebuyck-says-more-than-online-death-threats-helped-drive-jets-exit-2026-11-10/",
+          "url": "https://www.reuters.com/world/middle-east/iran-attacks-shipping-navigation-systems-omans-didamar-island-sources-say-2026-11-11/",
           "label": "검증 기사 원문",
           "kind": "source"
         }
       ],
-      "caution": "헬러벅은 가족 보호를 이유로 위협의 구체적 내용은 공개하지 않았다.",
+      "caution": "정확한 피해 규모는 확인되지 않았고 상업 운항 영향은 제한적일 수 있다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-11",
+        "observation": "세 소식통은 이란이 디다마르섬 선박 항법 시스템을 공격했다고 확인했다. Reuters는 연기를 확인했지만 어떤 장비가 파괴됐는지는 독립 확인하지 못했다.",
+        "checked_materials": [],
+        "outline": [
+          "호르무즈 항법 인프라 공격 확인",
+          "연기·열 활동 확인과 피해 규모 미확정",
+          "걸프 원유 수출 복구와 대체 항법 체계의 영향"
+        ]
+      }
+    },
+    {
+      "title": "미얀마 군정, 미국에 희토류 투자 요청…중국 독점 공급망 흔드나",
+      "category": "시사",
+      "url": "https://www.reuters.com/world/china/myanmar-lobbies-us-invest-its-rare-earths-sector-dominated-by-china-2026-11-10/",
+      "source": "Reuters",
+      "kind": "article",
+      "event_key": "myanmar-us-rare-earth-investment-lobbying-20261110",
+      "why": "중국이 장악한 중희토류 공급망에서 미국과 미얀마의 이해가 맞물린 지정학적 움직임이다.",
+      "angle": "미국의 새 전략 문서·군정의 로비·중국 의존 구조와 내전 위험을 함께 본다.",
+      "why_now": "미얀마 측 로비는 미국에 희토류를 핵심광물 우선과제로 다뤄 투자를 늘리라고 촉구했다.",
+      "verified_at": 1794438310,
+      "published_at": 1794281700,
+      "evidence": [
+        {
+          "url": "https://www.reuters.com/world/china/myanmar-lobbies-us-invest-its-rare-earths-sector-dominated-by-china-2026-11-10/",
+          "note": "미얀마 군정은 미국의 재관여와 희토류 투자 확대를 요청했다. 미얀마는 주요 중희토류 공급국이며 생산물 대부분이 중국으로 수출된다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.reuters.com/world/china/myanmar-lobbies-us-invest-its-rare-earths-sector-dominated-by-china-2026-11-10/",
+          "label": "검증 기사 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "투자 합의가 체결된 것은 아니며 미얀마는 내전과 군정 통치가 계속되고 있다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-10",
-        "observation": "헬러벅은 가족에게 벌어진 일이 온라인 살해 위협보다 더 심각했다고 밝혔고, 남편이자 아버지로서 환경을 바꿔야 했다고 설명했다.",
+        "observation": "미얀마 군정은 미국의 재관여와 희토류 투자 확대를 요청했다. 미얀마는 주요 중희토류 공급국이며 생산물 대부분이 중국으로 수출된다.",
         "checked_materials": [],
         "outline": [
-          "가족 위협이 트레이드 요청을 촉발했다는 새 증언",
-          "올림픽 이후 가족을 향한 반발과 안전 문제",
-          "위니펙에서 뉴저지로 이적한 경위와 확인 한계"
+          "미얀마 군정의 미국 투자 요청",
+          "미국 전략 문서와 핵심광물 공급망 목표",
+          "중국 의존도와 내전·사업환경 위험"
         ]
       }
     },
     {
-      "title": "트럼프 워싱턴 개조 구상, 미국인 67~80%가 반대",
+      "title": "엑손, 베네수엘라 7개 유전 검토…1년 독점 협상권 확보",
       "category": "시사",
-      "url": "https://www.reuters.com/graphics/US-ELECTIONS/GRAPHICS-BLOG/akpelkldzvr/2026-11-11/trump-polling/",
+      "url": "https://www.reuters.com/business/energy/exxon-assessing-7-areas-venezuela-possible-energy-projects-sources-say-2026-11-11/",
       "source": "Reuters",
       "kind": "article",
-      "event_key": "trump-washington-construction-projects-reuters-ipsos-opposition-20261111",
-      "why": "중간선거 직후 대통령 지지율과 수도 개조 프로젝트에 대한 대규모 반대가 함께 확인된 미국 정치 여론 뉴스다.",
-      "angle": "프로젝트별 반대율과 조사 시점·표본을 분리해 과장 없이 제시한다.",
-      "why_now": "11일 공개된 Reuters/Ipsos 분석에서 트럼프 국정 지지율은 32%였고 워싱턴 개조 관련 주요 항목 반대는 67~80%였다.",
-      "verified_at": 1794406001,
-      "published_at": 1794405600,
+      "event_key": "exxon-venezuela-seven-energy-areas-preliminary-pact-20261111",
+      "why": "글로벌 석유기업의 베네수엘라 재진입이 구체화되며 원유시장과 중남미 에너지 판도를 바꿀 수 있다.",
+      "angle": "7개 대상 지역·오리노코 중심·1년 독점 협상권과 비구속 성격을 분리한다.",
+      "why_now": "Reuters는 엑손·베네수엘라 정부·PDVSA의 예비 합의가 7개 지역 평가와 1년 독점 협상권을 허용한다고 보도했다.",
+      "verified_at": 1794438310,
+      "published_at": 1794435000,
       "evidence": [
         {
-          "url": "https://www.reuters.com/graphics/US-ELECTIONS/GRAPHICS-BLOG/akpelkldzvr/2026-11-11/trump-polling/",
-          "note": "Reuters/Ipsos 조사에서 워싱턴 기념물 우선 추진은 67%, 케네디센터 이름 추가는 71%, 인정 조건부 보수 예산 보류는 80%가 반대·부적절·낮은 우선순위라고 답했다."
+          "url": "https://www.reuters.com/business/energy/exxon-assessing-7-areas-venezuela-possible-energy-projects-sources-say-2026-11-11/",
+          "note": "네 소식통에 따르면 예비 합의는 미개발·성숙 유전과 탐사 블록 등 7개 지역을 포함하며 엑손에 1년간 자료 열람과 계약조건 독점 협상권을 준다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/graphics/US-ELECTIONS/GRAPHICS-BLOG/akpelkldzvr/2026-11-11/trump-polling/",
+          "url": "https://www.reuters.com/business/energy/exxon-assessing-7-areas-venezuela-possible-energy-projects-sources-say-2026-11-11/",
           "label": "검증 기사 원문",
           "kind": "source"
         }
       ],
-      "caution": "항목별 조사 시점과 표본이 다르며 수치는 프로젝트 지지 여부를 묻는 별도 질문 결과다.",
+      "caution": "양해각서는 비구속적이며 실제 투자·개발 계약은 아직 확정되지 않았다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-11",
-        "observation": "Reuters/Ipsos 조사에서 워싱턴 기념물 우선 추진은 67%, 케네디센터 이름 추가는 71%, 인정 조건부 보수 예산 보류는 80%가 반대·부적절·낮은 우선순위라고 답했다.",
+        "observation": "네 소식통에 따르면 예비 합의는 미개발·성숙 유전과 탐사 블록 등 7개 지역을 포함하며 엑손에 1년간 자료 열람과 계약조건 독점 협상권을 준다.",
         "checked_materials": [],
         "outline": [
-          "트럼프 국정 지지율 32%",
-          "워싱턴 기념물·케네디센터 관련 반대 67~80%",
-          "조사 시점과 표본이 항목별로 다르다는 기준"
-        ]
-      }
-    },
-    {
-      "title": "프리미어리그 판정위 '리버풀, 아스널전 페널티 받았어야'",
-      "category": "축구",
-      "url": "https://www.reuters.com/sports/soccer/liverpool-should-have-been-given-penalty-against-arsenal-review-panel-says-2026-11-11/",
-      "source": "Reuters",
-      "kind": "article",
-      "event_key": "premier-league-kmi-liverpool-arsenal-penalty-var-error-20261111",
-      "why": "우승 경쟁과 리버풀 순위에 영향을 준 경기에서 리그 판정위가 현장·VAR 판단 모두 잘못됐다고 결론 낸 공식 후속이다.",
-      "angle": "팀 항의가 아니라 KMI 패널의 표결 결과와 레드카드 여부를 구분해 전한다.",
-      "why_now": "11일 프리미어리그 KMI 패널은 팀버가 이사크의 셔츠를 잡은 장면에 페널티가 선언됐어야 했다고 밝혔다.",
-      "verified_at": 1794406001,
-      "published_at": 1794397285,
-      "evidence": [
-        {
-          "url": "https://www.reuters.com/sports/soccer/liverpool-should-have-been-given-penalty-against-arsenal-review-panel-says-2026-11-11/",
-          "note": "KMI 패널은 4대1로 페널티가 선언됐어야 했다고 판단했고, 3대2로 VAR이 온필드 리뷰를 권고했어야 한다고 봤다. 레드카드 사안은 아니라는 데는 만장일치였다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.reuters.com/sports/soccer/liverpool-should-have-been-given-penalty-against-arsenal-review-panel-says-2026-11-11/",
-          "label": "검증 기사 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "경기 결과는 바뀌지 않으며 사후 판정 평가다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-11",
-        "observation": "KMI 패널은 4대1로 페널티가 선언됐어야 했다고 판단했고, 3대2로 VAR이 온필드 리뷰를 권고했어야 한다고 봤다. 레드카드 사안은 아니라는 데는 만장일치였다.",
-        "checked_materials": [],
-        "outline": [
-          "팀버가 이사크의 셔츠를 잡은 21분 장면",
-          "페널티 4대1·VAR 개입 3대2 판단",
-          "레드카드는 아니라는 만장일치 결론"
+          "검토 대상 7개 지역과 오리노코 벨트",
+          "1년 독점 협상권과 자료 열람",
+          "비구속 예비 합의와 최종 계약 미확정"
         ]
       }
     }
