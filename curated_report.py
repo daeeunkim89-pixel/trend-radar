@@ -23,7 +23,7 @@ STATE_FILE = Path("data/state.json")
 DECISIONS_FILE = Path("data/editorial-history.json")
 ATTEMPT_FILE = Path("data/editorial-status.json")
 PROGRESS_FILE = Path("data/editorial-progress.json")
-CATEGORIES = ("시사", "축구", "메이저 스포츠", "아이돌")
+from edition_preflight import CATEGORIES, validate_source_fields
 MAX_PICKS = 20  # Five recommendations plus reviewed reserves for content deduplication.
 REPORT_PICKS = 5
 MAX_BYTES = 100_000
@@ -113,10 +113,7 @@ def validate_edition(edition, target, now):
         for name, maximum in (("title", 90), ("source", 40), ("event_key", 160), ("why", 180),
                               ("angle", 150), ("why_now", 180), ("caution", 150)):
             p[name] = text(p[name], maximum, name, empty=name == "caution")
-        if p["category"] not in CATEGORIES or p["kind"] not in {"community", "social", "official", "article"}:
-            raise ValueError("Invalid editorial category or source kind")
-        if edition["version"] == 2 and p["category"] == "아이돌":
-            raise ValueError("Entertainment is only eligible as major public-interest news, category 시사")
+        validate_source_fields(p, edition["version"], len(normalized))
         p["url"] = public_url(p["url"])
         p["event_key"] = p["event_key"].lower()
         timestamp(p["verified_at"], now, "verified_at", 75 * 60)
