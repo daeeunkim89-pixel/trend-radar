@@ -1,6 +1,366 @@
 {
   "version": 1,
   "items": {
+    "4949c1b64b47": {
+      "source": "Reuters",
+      "title": "러·우크라 협상서 포로 교환 합의…미국은 '불신' 지적",
+      "link": "https://www.reuters.com/world/europe/us-russia-ukraine-start-second-day-abu-dhabi-peace-talks-2026-11-11/",
+      "first_seen_at": 1794406305,
+      "last_seen_at": 1794406305,
+      "samples": [
+        {
+          "at": 1794406305,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "4949c1b64b47",
+      "editorial": {
+        "title": "러·우크라 협상서 포로 교환 합의…미국은 '불신' 지적",
+        "category": "시사",
+        "url": "https://www.reuters.com/world/europe/us-russia-ukraine-start-second-day-abu-dhabi-peace-talks-2026-11-11/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "russia-ukraine-abu-dhabi-pow-exchange-progress-20261111",
+        "why": "9개월 만의 첫 직접 협상에서 대규모 포로 교환이라는 구체적 합의가 나왔지만 영토 문제는 남은 중대한 전쟁 후속이다.",
+        "angle": "포로 교환 합의와 협상 진전, 돈바스·불신이라는 핵심 난제를 분리해 전한다.",
+        "why_now": "11일 이틀간의 아부다비 협상이 끝나며 양측은 대규모 포로 교환에 합의했고 미국은 여전히 불신이 크다고 밝혔다.",
+        "verified_at": 1794406001,
+        "published_at": 1794391944,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/world/europe/us-russia-ukraine-start-second-day-abu-dhabi-peace-talks-2026-11-11/",
+            "note": "러시아와 우크라이나는 아부다비 협상에서 대규모 전쟁포로 교환에 합의했지만 영토 문제에는 돌파구가 없었고, 미국 중재단은 양측 간 불신이 크다고 밝혔다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/world/europe/us-russia-ukraine-start-second-day-abu-dhabi-peace-talks-2026-11-11/",
+            "label": "검증 기사 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "종전 합의가 아니라 포로 교환과 일부 진전이며 돈바스 등 핵심 쟁점은 미해결이다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-11",
+          "observation": "러시아와 우크라이나는 아부다비 협상에서 대규모 전쟁포로 교환에 합의했지만 영토 문제에는 돌파구가 없었고, 미국 중재단은 양측 간 불신이 크다고 밝혔다.",
+          "checked_materials": [],
+          "outline": [
+            "9개월 만의 첫 직접 협상 종료",
+            "대규모 포로 교환 합의",
+            "영토 문제와 상호 불신이 남았다는 한계"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "검증 기사 원문",
+            "url": "https://www.reuters.com/world/europe/us-russia-ukraine-start-second-day-abu-dhabi-peace-talks-2026-11-11/"
+          }
+        ],
+        "excerpt": "",
+        "context": "11일 이틀간의 아부다비 협상이 끝나며 양측은 대규모 포로 교환에 합의했고 미국은 여전히 불신이 크다고 밝혔다.",
+        "fetched_at": 1794406305,
+        "parser_revision": 7
+      },
+      "curation_event_key": "russia-ukraine-abu-dhabi-pow-exchange-progress-20261111"
+    },
+    "3aa85447b75a": {
+      "source": "Reuters",
+      "title": "미·중, AI 사고 직통채널·고급 모델 사전평가 논의",
+      "link": "https://www.reuters.com/world/china/us-china-should-stay-clear-eyed-ai-cooperation-competition-bessent-says-2026-11-11/",
+      "first_seen_at": 1794406305,
+      "last_seen_at": 1794406305,
+      "samples": [
+        {
+          "at": 1794406305,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "3aa85447b75a",
+      "editorial": {
+        "title": "미·중, AI 사고 직통채널·고급 모델 사전평가 논의",
+        "category": "시사",
+        "url": "https://www.reuters.com/world/china/us-china-should-stay-clear-eyed-ai-cooperation-competition-bessent-says-2026-11-11/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "us-china-ai-incident-channel-model-testing-dialogue-20261111",
+        "why": "AI 패권 경쟁 중인 미국과 중국이 고급 모델 시험과 중대 사고 통보 체계를 논의하는 글로벌 안전 거버넌스 뉴스다.",
+        "angle": "협력 분야와 패권 경쟁이 동시에 유지된다는 베선트의 설명을 중심으로 구성한다.",
+        "why_now": "11일 미 재무장관은 18~19일 미중 정상회담에서 고급 AI 모델 평가와 중대 사고 직통채널을 진전시킬 것이라고 밝혔다.",
+        "verified_at": 1794406001,
+        "published_at": 1794360319,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/world/china/us-china-should-stay-clear-eyed-ai-cooperation-competition-bessent-says-2026-11-11/",
+            "note": "스콧 베선트 미 재무장관은 미중이 고급 AI 모델 출시 전 평가·시험 관행을 공유하고 중대 사고를 서로 알리는 직통채널을 마련하기로 했다고 밝혔다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/world/china/us-china-should-stay-clear-eyed-ai-cooperation-competition-bessent-says-2026-11-11/",
+            "label": "검증 기사 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "정상회담에서 진전시킬 대화 구상이며 양국의 AI 경쟁이나 접근 차이가 해소됐다는 뜻은 아니다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-11",
+          "observation": "스콧 베선트 미 재무장관은 미중이 고급 AI 모델 출시 전 평가·시험 관행을 공유하고 중대 사고를 서로 알리는 직통채널을 마련하기로 했다고 밝혔다.",
+          "checked_materials": [],
+          "outline": [
+            "11월 18~19일 선전 미중 정상회담",
+            "고급 모델 사전 평가와 인간 판단 유지",
+            "중대 AI 사고 직통채널과 지속되는 패권 경쟁"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "검증 기사 원문",
+            "url": "https://www.reuters.com/world/china/us-china-should-stay-clear-eyed-ai-cooperation-competition-bessent-says-2026-11-11/"
+          }
+        ],
+        "excerpt": "",
+        "context": "11일 미 재무장관은 18~19일 미중 정상회담에서 고급 AI 모델 평가와 중대 사고 직통채널을 진전시킬 것이라고 밝혔다.",
+        "fetched_at": 1794406305,
+        "parser_revision": 7
+      },
+      "curation_event_key": "us-china-ai-incident-channel-model-testing-dialogue-20261111"
+    },
+    "ccef4ccd3999": {
+      "source": "Reuters",
+      "title": "가족 위협이 이적 결심으로…헬러벅, 제츠 떠난 배경 공개",
+      "link": "https://www.reuters.com/sports/hellebuyck-says-more-than-online-death-threats-helped-drive-jets-exit-2026-11-10/",
+      "first_seen_at": 1794406305,
+      "last_seen_at": 1794406305,
+      "samples": [
+        {
+          "at": 1794406305,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "ccef4ccd3999",
+      "editorial": {
+        "title": "가족 위협이 이적 결심으로…헬러벅, 제츠 떠난 배경 공개",
+        "category": "메이저 스포츠",
+        "url": "https://www.reuters.com/sports/hellebuyck-says-more-than-online-death-threats-helped-drive-jets-exit-2026-11-10/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "hellebuyck-family-threats-drove-winnipeg-jets-exit-20261110",
+        "why": "올림픽 금메달 골리의 이적 배경에 가족 안전 문제가 있었다는 새 증언으로 선수 보호와 온라인 위협 문제를 함께 드러낸다.",
+        "angle": "트레이드 성적보다 가족에게 가해진 위협과 구단 이탈 결정의 연결을 중심으로 본다.",
+        "why_now": "헬러벅은 위니펙 복귀를 앞두고 가족이 겪은 일이 온라인 살해 위협보다 더 심각했고 이 때문에 트레이드를 요청했다고 처음 구체적으로 밝혔다.",
+        "verified_at": 1794406229,
+        "published_at": 1794342420,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/hellebuyck-says-more-than-online-death-threats-helped-drive-jets-exit-2026-11-10/",
+            "note": "헬러벅은 가족에게 벌어진 일이 온라인 살해 위협보다 더 심각했다고 밝혔고, 남편이자 아버지로서 환경을 바꿔야 했다고 설명했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/hellebuyck-says-more-than-online-death-threats-helped-drive-jets-exit-2026-11-10/",
+            "label": "검증 기사 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "헬러벅은 가족 보호를 이유로 위협의 구체적 내용은 공개하지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-10",
+          "observation": "헬러벅은 가족에게 벌어진 일이 온라인 살해 위협보다 더 심각했다고 밝혔고, 남편이자 아버지로서 환경을 바꿔야 했다고 설명했다.",
+          "checked_materials": [],
+          "outline": [
+            "가족 위협이 트레이드 요청을 촉발했다는 새 증언",
+            "올림픽 이후 가족을 향한 반발과 안전 문제",
+            "위니펙에서 뉴저지로 이적한 경위와 확인 한계"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "검증 기사 원문",
+            "url": "https://www.reuters.com/sports/hellebuyck-says-more-than-online-death-threats-helped-drive-jets-exit-2026-11-10/"
+          }
+        ],
+        "excerpt": "",
+        "context": "헬러벅은 위니펙 복귀를 앞두고 가족이 겪은 일이 온라인 살해 위협보다 더 심각했고 이 때문에 트레이드를 요청했다고 처음 구체적으로 밝혔다.",
+        "fetched_at": 1794406305,
+        "parser_revision": 7
+      },
+      "curation_event_key": "hellebuyck-family-threats-drove-winnipeg-jets-exit-20261110"
+    },
+    "93a0196f21f9": {
+      "source": "Reuters",
+      "title": "트럼프 워싱턴 개조 구상, 미국인 67~80%가 반대",
+      "link": "https://www.reuters.com/graphics/US-ELECTIONS/GRAPHICS-BLOG/akpelkldzvr/2026-11-11/trump-polling/",
+      "first_seen_at": 1794406305,
+      "last_seen_at": 1794406305,
+      "samples": [
+        {
+          "at": 1794406305,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "93a0196f21f9",
+      "editorial": {
+        "title": "트럼프 워싱턴 개조 구상, 미국인 67~80%가 반대",
+        "category": "시사",
+        "url": "https://www.reuters.com/graphics/US-ELECTIONS/GRAPHICS-BLOG/akpelkldzvr/2026-11-11/trump-polling/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "trump-washington-construction-projects-reuters-ipsos-opposition-20261111",
+        "why": "중간선거 직후 대통령 지지율과 수도 개조 프로젝트에 대한 대규모 반대가 함께 확인된 미국 정치 여론 뉴스다.",
+        "angle": "프로젝트별 반대율과 조사 시점·표본을 분리해 과장 없이 제시한다.",
+        "why_now": "11일 공개된 Reuters/Ipsos 분석에서 트럼프 국정 지지율은 32%였고 워싱턴 개조 관련 주요 항목 반대는 67~80%였다.",
+        "verified_at": 1794406001,
+        "published_at": 1794405600,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/graphics/US-ELECTIONS/GRAPHICS-BLOG/akpelkldzvr/2026-11-11/trump-polling/",
+            "note": "Reuters/Ipsos 조사에서 워싱턴 기념물 우선 추진은 67%, 케네디센터 이름 추가는 71%, 인정 조건부 보수 예산 보류는 80%가 반대·부적절·낮은 우선순위라고 답했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/graphics/US-ELECTIONS/GRAPHICS-BLOG/akpelkldzvr/2026-11-11/trump-polling/",
+            "label": "검증 기사 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "항목별 조사 시점과 표본이 다르며 수치는 프로젝트 지지 여부를 묻는 별도 질문 결과다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-11",
+          "observation": "Reuters/Ipsos 조사에서 워싱턴 기념물 우선 추진은 67%, 케네디센터 이름 추가는 71%, 인정 조건부 보수 예산 보류는 80%가 반대·부적절·낮은 우선순위라고 답했다.",
+          "checked_materials": [],
+          "outline": [
+            "트럼프 국정 지지율 32%",
+            "워싱턴 기념물·케네디센터 관련 반대 67~80%",
+            "조사 시점과 표본이 항목별로 다르다는 기준"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "검증 기사 원문",
+            "url": "https://www.reuters.com/graphics/US-ELECTIONS/GRAPHICS-BLOG/akpelkldzvr/2026-11-11/trump-polling/"
+          }
+        ],
+        "excerpt": "",
+        "context": "11일 공개된 Reuters/Ipsos 분석에서 트럼프 국정 지지율은 32%였고 워싱턴 개조 관련 주요 항목 반대는 67~80%였다.",
+        "fetched_at": 1794406305,
+        "parser_revision": 7
+      },
+      "curation_event_key": "trump-washington-construction-projects-reuters-ipsos-opposition-20261111"
+    },
+    "3d4cbf91479e": {
+      "source": "Reuters",
+      "title": "프리미어리그 판정위 '리버풀, 아스널전 페널티 받았어야'",
+      "link": "https://www.reuters.com/sports/soccer/liverpool-should-have-been-given-penalty-against-arsenal-review-panel-says-2026-11-11/",
+      "first_seen_at": 1794406305,
+      "last_seen_at": 1794406305,
+      "samples": [
+        {
+          "at": 1794406305,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "3d4cbf91479e",
+      "editorial": {
+        "title": "프리미어리그 판정위 '리버풀, 아스널전 페널티 받았어야'",
+        "category": "축구",
+        "url": "https://www.reuters.com/sports/soccer/liverpool-should-have-been-given-penalty-against-arsenal-review-panel-says-2026-11-11/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "premier-league-kmi-liverpool-arsenal-penalty-var-error-20261111",
+        "why": "우승 경쟁과 리버풀 순위에 영향을 준 경기에서 리그 판정위가 현장·VAR 판단 모두 잘못됐다고 결론 낸 공식 후속이다.",
+        "angle": "팀 항의가 아니라 KMI 패널의 표결 결과와 레드카드 여부를 구분해 전한다.",
+        "why_now": "11일 프리미어리그 KMI 패널은 팀버가 이사크의 셔츠를 잡은 장면에 페널티가 선언됐어야 했다고 밝혔다.",
+        "verified_at": 1794406001,
+        "published_at": 1794397285,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/soccer/liverpool-should-have-been-given-penalty-against-arsenal-review-panel-says-2026-11-11/",
+            "note": "KMI 패널은 4대1로 페널티가 선언됐어야 했다고 판단했고, 3대2로 VAR이 온필드 리뷰를 권고했어야 한다고 봤다. 레드카드 사안은 아니라는 데는 만장일치였다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/soccer/liverpool-should-have-been-given-penalty-against-arsenal-review-panel-says-2026-11-11/",
+            "label": "검증 기사 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "경기 결과는 바뀌지 않으며 사후 판정 평가다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-11",
+          "observation": "KMI 패널은 4대1로 페널티가 선언됐어야 했다고 판단했고, 3대2로 VAR이 온필드 리뷰를 권고했어야 한다고 봤다. 레드카드 사안은 아니라는 데는 만장일치였다.",
+          "checked_materials": [],
+          "outline": [
+            "팀버가 이사크의 셔츠를 잡은 21분 장면",
+            "페널티 4대1·VAR 개입 3대2 판단",
+            "레드카드는 아니라는 만장일치 결론"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "검증 기사 원문",
+            "url": "https://www.reuters.com/sports/soccer/liverpool-should-have-been-given-penalty-against-arsenal-review-panel-says-2026-11-11/"
+          }
+        ],
+        "excerpt": "",
+        "context": "11일 프리미어리그 KMI 패널은 팀버가 이사크의 셔츠를 잡은 장면에 페널티가 선언됐어야 했다고 밝혔다.",
+        "fetched_at": 1794406305,
+        "parser_revision": 7
+      },
+      "curation_event_key": "premier-league-kmi-liverpool-arsenal-penalty-var-error-20261111"
+    },
     "a5362177b8f2": {
       "source": "Reuters",
       "title": "러시아, NATO 회원국별 불가침조약 제안 가능성 제시",
@@ -21608,725 +21968,7 @@
         "parser_revision": 7
       },
       "curation_event_key": "jeffries-schumer-post-midterms-iran-tariff-healthcare-agenda-20261104"
-    },
-    "e0eadc8a690e": {
-      "source": "OSEN",
-      "title": "삼성, 연장 12회 끝 KT 3대2 제압…한국시리즈 1승1패 원점",
-      "link": "https://www.osen.co.kr/article/G1112904273",
-      "first_seen_at": 1793801117,
-      "last_seen_at": 1793801117,
-      "samples": [
-        {
-          "at": 1793801117,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "e0eadc8a690e",
-      "editorial": {
-        "title": "삼성, 연장 12회 끝 KT 3대2 제압…한국시리즈 1승1패 원점",
-        "category": "메이저 스포츠",
-        "url": "https://www.osen.co.kr/article/G1112904273",
-        "source": "OSEN",
-        "kind": "article",
-        "event_key": "kbo-korean-series-game2-samsung-kt-3-2-12innings-20261104",
-        "why": "연장 12회 실책으로 갈린 접전이 우승 시리즈를 동률로 바꿨다.",
-        "angle": "10회 동점 허용 뒤 12회 결승점…삼성이 되돌린 승부",
-        "why_now": "11월4일 경기. 확인 기사 최초 22:53 KST. 10회 디아즈 적시타·동점 허용 뒤 12회 상대 송구 실책으로 결승점이 나온 새 2차전 결과다.",
-        "verified_at": 1793800934,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.osen.co.kr/article/G1112904273",
-            "note": "본문에서 삼성의 연장 12회 3대2 승리와 시리즈 1승1패, 12회 오윤석 송구 실책 때 디아즈의 결승 득점, 배찬승의 마지막 이닝 무실점을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.osen.co.kr/article/G1112904273",
-            "label": "확인한 기사 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "기사 본문 확인이며 영상 시청 아님. 한국시리즈 우승 확정이 아니라 2차전 승리다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-04",
-          "observation": "본문에서 삼성의 연장 12회 3대2 승리와 시리즈 1승1패, 12회 오윤석 송구 실책 때 디아즈의 결승 득점, 배찬승의 마지막 이닝 무실점을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "10회 동점 허용 뒤 12회 결승점…삼성이 되돌린 승부",
-            "기사 본문 확인이며 영상 시청 아님. 한국시리즈 우승 확정이 아니라 2차전 승리다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 기사 본문",
-            "url": "https://www.osen.co.kr/article/G1112904273"
-          }
-        ],
-        "excerpt": "",
-        "context": "11월4일 경기. 확인 기사 최초 22:53 KST. 10회 디아즈 적시타·동점 허용 뒤 12회 상대 송구 실책으로 결승점이 나온 새 2차전 결과다.",
-        "fetched_at": 1793801117,
-        "parser_revision": 7
-      },
-      "curation_event_key": "kbo-korean-series-game2-samsung-kt-3-2-12innings-20261104"
-    },
-    "10b5ab2fc201": {
-      "source": "1.FC 하이덴하임 공식",
-      "title": "20년 지휘봉 내려놓는 슈미트…하이덴하임과 올 시즌 끝 결별",
-      "link": "https://www.fc-heidenheim.de/news/detail/eine-einzigartige-ara-endet-im-sommer-gemeinsam-das-letzte-kapitel-schreiben",
-      "first_seen_at": 1793801117,
-      "last_seen_at": 1793801117,
-      "samples": [
-        {
-          "at": 1793801117,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "official",
-      "story_id": "10b5ab2fc201",
-      "editorial": {
-        "title": "20년 지휘봉 내려놓는 슈미트…하이덴하임과 올 시즌 끝 결별",
-        "category": "축구",
-        "url": "https://www.fc-heidenheim.de/news/detail/eine-einzigartige-ara-endet-im-sommer-gemeinsam-das-letzte-kapitel-schreiben",
-        "source": "1.FC 하이덴하임 공식",
-        "kind": "official",
-        "event_key": "heidenheim-frank-schmidt-no-contract-renewal-leave-summer-2027-announcement-20261103",
-        "why": "아마추어 무대에서 분데스리가·유럽대항전까지 이끈 장기 체제의 종료가 확정됐다.",
-        "angle": "‘여름에는 쉬고 싶다’…20년 감독 체제 마침표",
-        "why_now": "공식 발표 11월3일(날짜 정밀도, 최초 분 단위 시각 미공개). 구단에 의사를 전한 날은 11월2일. 4일 Reuters 재보도를 최초 공개로 바꾸지 않았다.",
-        "verified_at": 1793800853,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.fc-heidenheim.de/news/detail/eine-einzigartige-ara-endet-im-sommer-gemeinsam-das-letzte-kapitel-schreiben",
-            "note": "구단 원문에서 슈미트가 만료 계약을 연장하지 않고 시즌 종료 뒤 떠난다는 결정과 본인의 휴식 희망 발언을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.fc-heidenheim.de/news/detail/eine-einzigartige-ara-endet-im-sommer-gemeinsam-das-letzte-kapitel-schreiben",
-            "label": "공식 발표 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "즉시 경질·시즌 도중 사퇴가 아니다. 다른 구단 계약이나 영구 은퇴 발표도 아니다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-03",
-          "observation": "구단 원문에서 슈미트가 만료 계약을 연장하지 않고 시즌 종료 뒤 떠난다는 결정과 본인의 휴식 희망 발언을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "‘여름에는 쉬고 싶다’…20년 감독 체제 마침표",
-            "즉시 경질·시즌 도중 사퇴가 아니다. 다른 구단 계약이나 영구 은퇴 발표도 아니다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "공식 발표 원문",
-            "url": "https://www.fc-heidenheim.de/news/detail/eine-einzigartige-ara-endet-im-sommer-gemeinsam-das-letzte-kapitel-schreiben"
-          }
-        ],
-        "excerpt": "",
-        "context": "공식 발표 11월3일(날짜 정밀도, 최초 분 단위 시각 미공개). 구단에 의사를 전한 날은 11월2일. 4일 Reuters 재보도를 최초 공개로 바꾸지 않았다.",
-        "fetched_at": 1793801117,
-        "parser_revision": 7
-      },
-      "curation_event_key": "heidenheim-frank-schmidt-no-contract-renewal-leave-summer-2027-announcement-20261103"
-    },
-    "edffee556c0d": {
-      "source": "Sportsnet·Canadian Press",
-      "title": "종료 2분39초 전 0대4→연장 5대4…위니펙, NHL 대역전",
-      "link": "https://www.sportsnet.ca/nhl/article/jets-stun-canadiens-with-five-late-goals-to-snap-nine-game-skid/",
-      "first_seen_at": 1793801117,
-      "last_seen_at": 1793801117,
-      "samples": [
-        {
-          "at": 1793801117,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "edffee556c0d",
-      "editorial": {
-        "title": "종료 2분39초 전 0대4→연장 5대4…위니펙, NHL 대역전",
-        "category": "메이저 스포츠",
-        "url": "https://www.sportsnet.ca/nhl/article/jets-stun-canadiens-with-five-late-goals-to-snap-nine-game-skid/",
-        "source": "Sportsnet·Canadian Press",
-        "kind": "article",
-        "event_key": "winnipeg-montreal-four-goal-126seconds-overtime-comeback-20261103",
-        "why": "끝나기 직전 2분6초에 4골을 몰아넣어 9경기 무승을 끊은 이례적 역전이다.",
-        "angle": "0대4였는데 126초 뒤 동점…연장에서 뒤집었다",
-        "why_now": "현지 11월3일 경기. Sportsnet 최초 표기 11월3일 22:09(표시 시간대 미확인); 갱신 시각과 구분. Reuters 첫 경기 보도는 4일 03:42 UTC.",
-        "verified_at": 1793800854,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.sportsnet.ca/nhl/article/jets-stun-canadiens-with-five-late-goals-to-snap-nine-game-skid/",
-            "note": "기사 본문에서 종료 2분39초 전 첫 골, 2분6초 동안 4골로 종료 33초 전 동점, 연장 3분30초 샘버그의 결승골과 최종 5대4를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.sportsnet.ca/nhl/article/jets-stun-canadiens-with-five-late-goals-to-snap-nine-game-skid/",
-            "label": "확인한 기사 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "본문 취재를 검토했으며 골 장면을 직접 시청한 것은 아니다. 단순 최단시간 득점 세계기록으로 바꾸지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-03",
-          "observation": "기사 본문에서 종료 2분39초 전 첫 골, 2분6초 동안 4골로 종료 33초 전 동점, 연장 3분30초 샘버그의 결승골과 최종 5대4를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "0대4였는데 126초 뒤 동점…연장에서 뒤집었다",
-            "본문 취재를 검토했으며 골 장면을 직접 시청한 것은 아니다. 단순 최단시간 득점 세계기록으로 바꾸지 않는다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 기사 본문",
-            "url": "https://www.sportsnet.ca/nhl/article/jets-stun-canadiens-with-five-late-goals-to-snap-nine-game-skid/"
-          }
-        ],
-        "excerpt": "",
-        "context": "현지 11월3일 경기. Sportsnet 최초 표기 11월3일 22:09(표시 시간대 미확인); 갱신 시각과 구분. Reuters 첫 경기 보도는 4일 03:42 UTC.",
-        "fetched_at": 1793801117,
-        "parser_revision": 7
-      },
-      "curation_event_key": "winnipeg-montreal-four-goal-126seconds-overtime-comeback-20261103"
-    },
-    "d8ff2b53d1f3": {
-      "source": "Reuters 전재",
-      "title": "우크라 반부패 수사, 정보기관·경찰·검찰 고위직으로 확대…사기 조직 비호 의혹",
-      "link": "https://d2233.cms.socastsrm.com/2026/11/04/ukraines-anti-graft-police-target-senior-officials-in-major-fraud-probe/",
-      "first_seen_at": 1793801117,
-      "last_seen_at": 1793801117,
-      "samples": [
-        {
-          "at": 1793801117,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "d8ff2b53d1f3",
-      "editorial": {
-        "title": "우크라 반부패 수사, 정보기관·경찰·검찰 고위직으로 확대…사기 조직 비호 의혹",
-        "category": "시사",
-        "url": "https://d2233.cms.socastsrm.com/2026/11/04/ukraines-anti-graft-police-target-senior-officials-in-major-fraud-probe/",
-        "source": "Reuters 전재",
-        "kind": "article",
-        "event_key": "ukraine-callcentre-sbu-police-prosecutors-bribe-probe-expanded-20261104",
-        "why": "전시 국가의 핵심 수사기관들이 사기 조직을 보호했다는 의혹으로 수사 신뢰가 흔들린다.",
-        "angle": "사기를 잡아야 할 고위직이 사기 콜센터를 비호했나",
-        "why_now": "11월4일 NABU의 고위직 연루 발표가 새 사실. 최초 수사는 9월 공개. Reuters 보도 4일 10:42 UTC, 확인 전재 페이지 10:54 UTC로 구분했다.",
-        "verified_at": 1793800930,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://d2233.cms.socastsrm.com/2026/11/04/ukraines-anti-graft-police-target-senior-officials-in-major-fraud-probe/",
-            "note": "Reuters 전재 본문에서 NABU의 SBU·경찰·검찰 고위직 뇌물 비호 의혹 발표, SBU 직원 수색 확인, 경찰의 관련자 직무 정지와 성급한 결론 경계 입장을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://d2233.cms.socastsrm.com/2026/11/04/ukraines-anti-graft-police-target-senior-officials-in-major-fraud-probe/",
-            "label": "확인한 기사 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "수사기관 주장·혐의 단계다. 유죄 확정 아님. 별도 에너지 사건 금액을 이 콜센터 피해액으로 섞지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-04",
-          "observation": "Reuters 전재 본문에서 NABU의 SBU·경찰·검찰 고위직 뇌물 비호 의혹 발표, SBU 직원 수색 확인, 경찰의 관련자 직무 정지와 성급한 결론 경계 입장을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "사기를 잡아야 할 고위직이 사기 콜센터를 비호했나",
-            "수사기관 주장·혐의 단계다. 유죄 확정 아님. 별도 에너지 사건 금액을 이 콜센터 피해액으로 섞지 않는다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 기사 본문",
-            "url": "https://d2233.cms.socastsrm.com/2026/11/04/ukraines-anti-graft-police-target-senior-officials-in-major-fraud-probe/"
-          }
-        ],
-        "excerpt": "",
-        "context": "11월4일 NABU의 고위직 연루 발표가 새 사실. 최초 수사는 9월 공개. Reuters 보도 4일 10:42 UTC, 확인 전재 페이지 10:54 UTC로 구분했다.",
-        "fetched_at": 1793801117,
-        "parser_revision": 7
-      },
-      "curation_event_key": "ukraine-callcentre-sbu-police-prosecutors-bribe-probe-expanded-20261104"
-    },
-    "aeeee95838e9": {
-      "source": "AP/Spectrum News",
-      "title": "러시아 복귀 갈등, 후원사로 번졌다…스코다 ‘출전하면 후원 재검토’",
-      "link": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/11/04/ice-hockey-world-championship-main-sponsor-skoda-to-reassess-backing-if-russia-plays",
-      "first_seen_at": 1793801117,
-      "last_seen_at": 1793801117,
-      "samples": [
-        {
-          "at": 1793801117,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "aeeee95838e9",
-      "editorial": {
-        "title": "러시아 복귀 갈등, 후원사로 번졌다…스코다 ‘출전하면 후원 재검토’",
-        "category": "메이저 스포츠",
-        "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/11/04/ice-hockey-world-championship-main-sponsor-skoda-to-reassess-backing-if-russia-plays",
-        "source": "AP/Spectrum News",
-        "kind": "article",
-        "event_key": "skoda-world-hockey-championship-sponsorship-reassessment-russia-statement-20261104",
-        "why": "30년 넘은 대회 핵심 후원사까지 조건부 재검토를 밝혀 대회 운영 압박이 커졌다.",
-        "angle": "‘러시아 나오면 재검토’…국가 반발 넘어 후원사 압박",
-        "why_now": "스코다의 새 이메일 성명 11월4일. AP 전재 최초 4일 05:13 ET(19:13 KST). 앞서 보낸 캐나다의 주니어 대회 차단과 다른 성인 세계선수권 후원 결정이다.",
-        "verified_at": 1793800901,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/11/04/ice-hockey-world-championship-main-sponsor-skoda-to-reassess-backing-if-russia-plays",
-            "note": "AP 본문에서 스코다가 러시아 참가 시 관여를 재검토하겠다는 조건부 입장, IIHF가 판정의 실제 영향을 과소평가했다고 밝힌 4일 성명을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/11/04/ice-hockey-world-championship-main-sponsor-skoda-to-reassess-backing-if-russia-plays",
-            "label": "확인한 기사 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "스코다가 이미 철수한 것은 아니다. 타 기업의 철수 입장·캐나다 주니어 대회와 구분한다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-04",
-          "observation": "AP 본문에서 스코다가 러시아 참가 시 관여를 재검토하겠다는 조건부 입장, IIHF가 판정의 실제 영향을 과소평가했다고 밝힌 4일 성명을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "‘러시아 나오면 재검토’…국가 반발 넘어 후원사 압박",
-            "스코다가 이미 철수한 것은 아니다. 타 기업의 철수 입장·캐나다 주니어 대회와 구분한다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 기사 본문",
-            "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/11/04/ice-hockey-world-championship-main-sponsor-skoda-to-reassess-backing-if-russia-plays"
-          }
-        ],
-        "excerpt": "",
-        "context": "스코다의 새 이메일 성명 11월4일. AP 전재 최초 4일 05:13 ET(19:13 KST). 앞서 보낸 캐나다의 주니어 대회 차단과 다른 성인 세계선수권 후원 결정이다.",
-        "fetched_at": 1793801117,
-        "parser_revision": 7
-      },
-      "curation_event_key": "skoda-world-hockey-championship-sponsorship-reassessment-russia-statement-20261104"
-    },
-    "429581d5eea9": {
-      "source": "레알 마드리드 공식",
-      "title": "나달, 레알 마드리드 이사회 합류 추진…구단이 총회 추인 안건 올렸다",
-      "link": "https://www.realmadrid.com/en-US/news/club/announcements/comunicado-oficial-rafael-nadal-04-11-2026",
-      "first_seen_at": 1793797911,
-      "last_seen_at": 1793797911,
-      "samples": [
-        {
-          "at": 1793797911,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "official",
-      "story_id": "429581d5eea9",
-      "editorial": {
-        "title": "나달, 레알 마드리드 이사회 합류 추진…구단이 총회 추인 안건 올렸다",
-        "category": "축구",
-        "url": "https://www.realmadrid.com/en-US/news/club/announcements/comunicado-oficial-rafael-nadal-04-11-2026",
-        "source": "레알 마드리드 공식",
-        "kind": "official",
-        "event_key": "real-madrid-nadal-board-appointment-ratification-proposal-20261104",
-        "why": "테니스 전설이 세계적 축구 구단 운영에 참여하는 이사회 제안이 공식화됐다.",
-        "angle": "코트 떠난 나달, 이제 레알 이사회로",
-        "why_now": "11월4일 이사회 결정. 공식 페이지 datePublished는 10:34 UTC(19:34 KST), 수정은 11:34 UTC로 구분했다. 총회 추인은 아직 남았다.",
-        "verified_at": 1793797589,
-        "published_at": 1793788440,
-        "evidence": [
-          {
-            "url": "https://www.realmadrid.com/en-US/news/club/announcements/comunicado-oficial-rafael-nadal-04-11-2026",
-            "note": "구단 성명에서 나달을 새 이사로 임명하는 안건을 대의원 총회 추인에 부치기로 한 11월4일 이사회 결정을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.realmadrid.com/en-US/news/club/announcements/comunicado-oficial-rafael-nadal-04-11-2026",
-            "label": "공식 발표 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "총회 추인 전이다. 회장 취임·차기 회장 확정으로 쓰지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-04",
-          "observation": "구단 성명에서 나달을 새 이사로 임명하는 안건을 대의원 총회 추인에 부치기로 한 11월4일 이사회 결정을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "코트 떠난 나달, 이제 레알 이사회로",
-            "총회 추인 전이다. 회장 취임·차기 회장 확정으로 쓰지 않는다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "공식 발표 원문",
-            "url": "https://www.realmadrid.com/en-US/news/club/announcements/comunicado-oficial-rafael-nadal-04-11-2026"
-          }
-        ],
-        "excerpt": "",
-        "context": "11월4일 이사회 결정. 공식 페이지 datePublished는 10:34 UTC(19:34 KST), 수정은 11:34 UTC로 구분했다. 총회 추인은 아직 남았다.",
-        "fetched_at": 1793797911,
-        "parser_revision": 7
-      },
-      "curation_event_key": "real-madrid-nadal-board-appointment-ratification-proposal-20261104"
-    },
-    "7b4dabbdecdc": {
-      "source": "스포티비뉴스",
-      "title": "세 번 따라붙은 포항, 감바와 3대3…ACLE 3연패 뒤 첫 승점",
-      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017723",
-      "first_seen_at": 1793797911,
-      "last_seen_at": 1793797911,
-      "samples": [
-        {
-          "at": 1793797911,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "7b4dabbdecdc",
-      "editorial": {
-        "title": "세 번 따라붙은 포항, 감바와 3대3…ACLE 3연패 뒤 첫 승점",
-        "category": "축구",
-        "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017723",
-        "source": "스포티비뉴스",
-        "kind": "article",
-        "event_key": "pohang-gamba-three-comebacks-first-acle-point-20261104",
-        "why": "아시아 최상위 대회 3연패 팀이 세 차례 열세를 되돌려 4연패를 막았다.",
-        "angle": "0대1·1대2·2대3을 모두 따라잡은 포항",
-        "why_now": "경기 11월4일 19:00 KST 시작. 현장 기사 최초 20:51 KST. 연합뉴스 20:54 전적과 최종 3대3·김광원 막판 동점골을 교차 확인했다.",
-        "verified_at": 1793797730,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017723",
-            "note": "현장 기사에서 완델손·조르지·김광원의 세 차례 동점골과 올 시즌 ACLE 첫 승점을 확인했다. 연합뉴스 전적에서도 3대3과 득점자를 확인했다."
-          },
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261104179200007",
-            "note": "전적 기사에서 최종 3대3, 포항 득점 완델손·조르지·김광원을 교차 확인."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017723",
-            "label": "확인한 기사 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "기사·전적 검증이며 영상 시청 아님. 승리·토너먼트 진출 확정으로 표현하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-04",
-          "observation": "현장 기사에서 완델손·조르지·김광원의 세 차례 동점골과 올 시즌 ACLE 첫 승점을 확인했다. 연합뉴스 전적에서도 3대3과 득점자를 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "0대1·1대2·2대3을 모두 따라잡은 포항",
-            "기사·전적 검증이며 영상 시청 아님. 승리·토너먼트 진출 확정으로 표현하지 않는다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 기사 본문",
-            "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017723"
-          }
-        ],
-        "excerpt": "",
-        "context": "경기 11월4일 19:00 KST 시작. 현장 기사 최초 20:51 KST. 연합뉴스 20:54 전적과 최종 3대3·김광원 막판 동점골을 교차 확인했다.",
-        "fetched_at": 1793797911,
-        "parser_revision": 7
-      },
-      "curation_event_key": "pohang-gamba-three-comebacks-first-acle-point-20261104"
-    },
-    "9d11334f8ad5": {
-      "source": "TOYOTA GAZOO Racing",
-      "title": "토요타, WRC 두 팀·두 차종 체제로…로반페레·타낙 복귀 확정",
-      "link": "https://toyotagazooracing.com/pressrelease/2026/1103-01/",
-      "first_seen_at": 1793797911,
-      "last_seen_at": 1793797911,
-      "samples": [
-        {
-          "at": 1793797911,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "official",
-      "story_id": "9d11334f8ad5",
-      "editorial": {
-        "title": "토요타, WRC 두 팀·두 차종 체제로…로반페레·타낙 복귀 확정",
-        "category": "메이저 스포츠",
-        "url": "https://toyotagazooracing.com/pressrelease/2026/1103-01/",
-        "source": "TOYOTA GAZOO Racing",
-        "kind": "official",
-        "event_key": "toyota-two-teams-celica-yaris-rovanpera-tanak-wrc-2027-announced-20261103",
-        "why": "세계 챔피언들의 복귀와 최강 제조사의 두 팀 개편이 새 규정 시즌 판도를 바꾼다.",
-        "angle": "챔피언 둘이 돌아온다…토요타는 셀리카·야리스 두 팀",
-        "why_now": "공식 발표 11월3일(날짜 정밀도, 최초 분 단위 시각 미공개). 2027년 두 팀·두 차종과 복귀 명단 발표이며 실제 레이스 복귀는 내년이다.",
-        "verified_at": 1793797591,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://toyotagazooracing.com/pressrelease/2026/1103-01/",
-            "note": "팀 공식 보도자료에서 GR Celica Rally1·GR Yaris Rally1 두 차종의 두 팀, 타낙 복귀, 로반페레의 일부 라운드 출전을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://toyotagazooracing.com/pressrelease/2026/1103-01/",
-            "label": "공식 발표 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "로반페레는 풀시즌 아닌 일부 대회 출전이다. 신차 상세 사양은 추가 공개 예정.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-03",
-          "observation": "팀 공식 보도자료에서 GR Celica Rally1·GR Yaris Rally1 두 차종의 두 팀, 타낙 복귀, 로반페레의 일부 라운드 출전을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "챔피언 둘이 돌아온다…토요타는 셀리카·야리스 두 팀",
-            "로반페레는 풀시즌 아닌 일부 대회 출전이다. 신차 상세 사양은 추가 공개 예정."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "공식 발표 원문",
-            "url": "https://toyotagazooracing.com/pressrelease/2026/1103-01/"
-          }
-        ],
-        "excerpt": "",
-        "context": "공식 발표 11월3일(날짜 정밀도, 최초 분 단위 시각 미공개). 2027년 두 팀·두 차종과 복귀 명단 발표이며 실제 레이스 복귀는 내년이다.",
-        "fetched_at": 1793797911,
-        "parser_revision": 7
-      },
-      "curation_event_key": "toyota-two-teams-celica-yaris-rovanpera-tanak-wrc-2027-announced-20261103"
-    },
-    "4478476f6991": {
-      "source": "Reuters/CNA",
-      "title": "美 올림픽위원회, 상업법인 외부 투자 추진…LA28 이후 수익 구조 바꾼다",
-      "link": "https://www.channelnewsasia.com/sport/us-committee-seeks-outside-investors-new-commercial-venture-6517641",
-      "first_seen_at": 1793797911,
-      "last_seen_at": 1793797911,
-      "samples": [
-        {
-          "at": 1793797911,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "4478476f6991",
-      "editorial": {
-        "title": "美 올림픽위원회, 상업법인 외부 투자 추진…LA28 이후 수익 구조 바꾼다",
-        "category": "메이저 스포츠",
-        "url": "https://www.channelnewsasia.com/sport/us-committee-seeks-outside-investors-new-commercial-venture-6517641",
-        "source": "Reuters/CNA",
-        "kind": "article",
-        "event_key": "usopc-usopv-commercial-venture-outside-investment-plan-20261103",
-        "why": "올림픽 선수 지원 재원과 국가위원회의 상업권 운영 구조에 민간 자본이 들어올 수 있다.",
-        "angle": "미국 올림픽 상업권에도 외부 자본 진입 추진",
-        "why_now": "새 Reuters 보도 11월3일 16:41 UTC(4일 01:41 KST). 계획은 수개월 전부터 논의. 신규 취재의 투자 추진·CEO 설명을 검토했으며 법인 설립·매각 완료 보도는 아니다.",
-        "verified_at": 1793797647,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.channelnewsasia.com/sport/us-committee-seeks-outside-investors-new-commercial-venture-6517641",
-            "note": "Reuters 전재 본문에서 소식통 2명의 지분 매각 추진 설명, USOPV 관련 회의록, CEO의 LA28 이후 전환 설명, 위원회의 상업적 선택지 검토 성명을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.channelnewsasia.com/sport/us-committee-seeks-outside-investors-new-commercial-venture-6517641",
-            "label": "확인한 기사 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "투자자·가격·거래 확정 아님. 익명 취재와 기관 성명을 구분하고 CEO도 세부 구조는 진행 중이라 밝혔다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-03",
-          "observation": "Reuters 전재 본문에서 소식통 2명의 지분 매각 추진 설명, USOPV 관련 회의록, CEO의 LA28 이후 전환 설명, 위원회의 상업적 선택지 검토 성명을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "미국 올림픽 상업권에도 외부 자본 진입 추진",
-            "투자자·가격·거래 확정 아님. 익명 취재와 기관 성명을 구분하고 CEO도 세부 구조는 진행 중이라 밝혔다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 기사 본문",
-            "url": "https://www.channelnewsasia.com/sport/us-committee-seeks-outside-investors-new-commercial-venture-6517641"
-          }
-        ],
-        "excerpt": "",
-        "context": "새 Reuters 보도 11월3일 16:41 UTC(4일 01:41 KST). 계획은 수개월 전부터 논의. 신규 취재의 투자 추진·CEO 설명을 검토했으며 법인 설립·매각 완료 보도는 아니다.",
-        "fetched_at": 1793797911,
-        "parser_revision": 7
-      },
-      "curation_event_key": "usopc-usopv-commercial-venture-outside-investment-plan-20261103"
-    },
-    "f515e2b02891": {
-      "source": "연합뉴스·한겨레",
-      "title": "‘조작기소 특검법’ 소위 이어 법사위 전체회의 통과…본회의 처리 추진",
-      "link": "https://www.yna.co.kr/view/AKR20261104171000001",
-      "first_seen_at": 1793797911,
-      "last_seen_at": 1793797911,
-      "samples": [
-        {
-          "at": 1793797911,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "f515e2b02891",
-      "editorial": {
-        "title": "‘조작기소 특검법’ 소위 이어 법사위 전체회의 통과…본회의 처리 추진",
-        "category": "시사",
-        "url": "https://www.yna.co.kr/view/AKR20261104171000001",
-        "source": "연합뉴스·한겨레",
-        "kind": "article",
-        "event_key": "fabricated-prosecution-special-counsel-bill-full-committee-passed-20261104",
-        "why": "대통령 관련 수사와 특검 제도를 둘러싼 법안이 상임위 관문을 넘어 본회의 쟁점이 됐다.",
-        "angle": "소위 통과 뒤 새 단계…법사위 전체회의도 의결",
-        "why_now": "11월4일 밤 전체회의 의결이 새 사실. 연합뉴스 최초 21:10 KST. 앞서 발송한 17시대 소위 통과와 구분한다. 한겨레 본문은 21:24 수정 표기이며 최초 공개로 쓰지 않았다.",
-        "verified_at": 1793797644,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261104171000001",
-            "note": "연합뉴스 속보와 한겨레 본문에서 이날 밤 전체회의 의결, 국민의힘 표결 불참·퇴장, 이르면 5일 본회의 처리 추진을 확인했다."
-          },
-          {
-            "url": "https://www.hani.co.kr/arti/politics/assembly/1285845.html",
-            "note": "전체회의 의결·야당 표결 불참·본회의 추진을 본문 확인. 공소취소 권한 삭제는 앞선 소위 단계부터 알려진 내용으로 새 사실과 구분."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261104171000001",
-            "label": "확인한 기사 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "법률 제정·본회의 통과가 아니다. ‘조작기소’는 법안 명칭·수사 대상 의혹이며 사실 확정이 아니다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-04",
-          "observation": "연합뉴스 속보와 한겨레 본문에서 이날 밤 전체회의 의결, 국민의힘 표결 불참·퇴장, 이르면 5일 본회의 처리 추진을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "소위 통과 뒤 새 단계…법사위 전체회의도 의결",
-            "법률 제정·본회의 통과가 아니다. ‘조작기소’는 법안 명칭·수사 대상 의혹이며 사실 확정이 아니다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 기사 본문",
-            "url": "https://www.yna.co.kr/view/AKR20261104171000001"
-          }
-        ],
-        "excerpt": "",
-        "context": "11월4일 밤 전체회의 의결이 새 사실. 연합뉴스 최초 21:10 KST. 앞서 발송한 17시대 소위 통과와 구분한다. 한겨레 본문은 21:24 수정 표기이며 최초 공개로 쓰지 않았다.",
-        "fetched_at": 1793797911,
-        "parser_revision": 7
-      },
-      "curation_event_key": "fabricated-prosecution-special-counsel-bill-full-committee-passed-20261104"
     }
   },
-  "updated_at": 1794402644
+  "updated_at": 1794406305
 }

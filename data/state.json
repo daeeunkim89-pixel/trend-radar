@@ -1,5 +1,5 @@
 {
-  "updated_at": 1794402646,
+  "updated_at": 1794406306,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026111113",
+    "hour_utc": "2026111114",
     "category_counts": {
-      "시사": 4,
-      "축구": 0,
+      "시사": 3,
+      "축구": 1,
       "메이저 스포츠": 1,
       "아이돌": 0
     },
     "research_queries": 6,
-    "opened_sources": 11,
+    "opened_sources": 10,
     "picks": [
       {
-        "title": "러시아, NATO 회원국별 불가침조약 제안 가능성 제시",
-        "url": "https://www.reuters.com/world/europe/russian-diplomat-says-moscow-could-conclude-non-aggression-pacts-with-nato-2026-11-11/",
-        "event_key": "russia-nato-member-non-aggression-pact-options-20261111"
+        "title": "러·우크라 협상서 포로 교환 합의…미국은 '불신' 지적",
+        "url": "https://www.reuters.com/world/europe/us-russia-ukraine-start-second-day-abu-dhabi-peace-talks-2026-11-11/",
+        "event_key": "russia-ukraine-abu-dhabi-pow-exchange-progress-20261111"
       },
       {
-        "title": "인도네시아 부통령 사임…정치권 3개 소식통 보도",
-        "url": "https://www.reuters.com/world/asia-pacific/indonesias-vice-president-has-resigned-three-political-sources-say-2026-11-11/",
-        "event_key": "indonesia-vp-gibran-resigned-three-sources-20261111"
+        "title": "미·중, AI 사고 직통채널·고급 모델 사전평가 논의",
+        "url": "https://www.reuters.com/world/china/us-china-should-stay-clear-eyed-ai-cooperation-competition-bessent-says-2026-11-11/",
+        "event_key": "us-china-ai-incident-channel-model-testing-dialogue-20261111"
       },
       {
-        "title": "파키스탄 코하트 공격…경찰 11명 사망 우려",
-        "url": "https://www.reuters.com/world/asia-pacific/eleven-pakistani-police-personnel-feared-killed-attack-rescue-group-says-2026-11-11/",
-        "event_key": "pakistan-kohat-attack-eleven-police-feared-killed-20261111"
+        "title": "가족 위협이 이적 결심으로…헬러벅, 제츠 떠난 배경 공개",
+        "url": "https://www.reuters.com/sports/hellebuyck-says-more-than-online-death-threats-helped-drive-jets-exit-2026-11-10/",
+        "event_key": "hellebuyck-family-threats-drove-winnipeg-jets-exit-20261110"
       },
       {
-        "title": "EU, 시리아와 안보·투자 협력 확대 검토…러시아 영향 견제",
-        "url": "https://www.reuters.com/world/middle-east/eu-explores-deeper-syria-partnership-flags-concern-over-russia-role-2026-11-11/",
-        "event_key": "eu-syria-security-investment-partnership-russia-concern-20261111"
+        "title": "트럼프 워싱턴 개조 구상, 미국인 67~80%가 반대",
+        "url": "https://www.reuters.com/graphics/US-ELECTIONS/GRAPHICS-BLOG/akpelkldzvr/2026-11-11/trump-polling/",
+        "event_key": "trump-washington-construction-projects-reuters-ipsos-opposition-20261111"
       },
       {
-        "title": "프랑스, 남아공전서 뒤퐁을 플라이하프로…대표팀 첫 포지션 전환",
-        "url": "https://www.reuters.com/sports/dupont-play-flyhalf-france-against-south-africa-2026-11-11/",
-        "event_key": "france-dupont-flyhalf-south-africa-first-test-switch-20261111"
+        "title": "프리미어리그 판정위 '리버풀, 아스널전 페널티 받았어야'",
+        "url": "https://www.reuters.com/sports/soccer/liverpool-should-have-been-given-penalty-against-arsenal-review-panel-says-2026-11-11/",
+        "event_key": "premier-league-kmi-liverpool-arsenal-penalty-var-error-20261111"
       }
     ]
   }
