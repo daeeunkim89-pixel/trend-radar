@@ -1,5 +1,5 @@
 {
-  "updated_at": 1794377784,
+  "updated_at": 1794380843,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,40 +15,40 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026111106",
+    "hour_utc": "2026111107",
     "category_counts": {
-      "시사": 3,
-      "축구": 1,
+      "시사": 4,
+      "축구": 0,
       "메이저 스포츠": 1,
       "아이돌": 0
     },
-    "research_queries": 6,
-    "opened_sources": 9,
+    "research_queries": 4,
+    "opened_sources": 5,
     "picks": [
       {
-        "title": "불화설 뒤 26명 다시 모인 대표팀…손흥민, 팀 미팅서 결속 주문",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840131",
-        "event_key": "korea-national-team-doha-full-squad-son-unity-meeting-20261110"
+        "title": "IPL 초대형 트레이드…뭄바이 주장 판디아, 아르시딥과 맞교환",
+        "url": "https://www.reuters.com/world/india/mumbai-trade-captain-pandya-punjab-exchange-arshdeep-ipl-2026-11-11/",
+        "event_key": "ipl-mumbai-pandya-punjab-arshdeep-captain-trade-20261111"
       },
       {
-        "title": "밀워키 머피, MLB 최초 3년 연속 올해의 감독…AL은 베너블",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840628",
-        "event_key": "mlb-murphy-first-three-consecutive-manager-year-venable-20261110"
+        "title": "인도네시아 부통령 탄핵 문 열리나…의원 100명 이상 청원 서명",
+        "url": "https://www.reuters.com/world/asia-pacific/over-100-indonesian-lawmakers-sign-petition-that-could-lead-vice-presidents-2026-11-11/",
+        "event_key": "indonesia-gibran-impeachment-petition-100-lawmakers-20261111"
       },
       {
-        "title": "美 물가 예상 웃돌자 금리 인상 우려…나스닥 0.74% 하락",
-        "url": "https://www.reuters.com/business/sp-500-dow-futures-climb-oil-slide-lifts-sentiment-2026-11-10/",
-        "event_key": "us-october-cpi-04-percent-fed-hike-wallstreet-close-20261110"
+        "title": "인도·영국 무역협정 첫 대형 분쟁…스카치 컨테이너 수십 개 묶였다",
+        "url": "https://www.reuters.com/world/india/india-holds-pernod-diageo-scotch-shipments-investigators-seek-higher-tariff-2026-11-11/",
+        "event_key": "india-uk-trade-pact-scotch-150-tariff-container-hold-20261111"
       },
       {
-        "title": "최대 시속 150㎞ 폭풍 예보…포르투갈 학교·공공서비스 폐쇄",
-        "url": "https://www.reuters.com/business/environment/portugal-braces-storm-charles-shut-schools-ready-rescue-teams-2026-11-10/",
-        "event_key": "portugal-storm-charles-school-services-closure-spain-evacuation-20261110"
+        "title": "러시아, 칼리닌그라드서 '폴란드 정보요원' 2명 체포 주장",
+        "url": "https://www.reuters.com/world/russia-arrests-two-suspected-polish-spies-kaliningrad-interfax-reports-2026-11-11/",
+        "event_key": "russia-kaliningrad-two-alleged-polish-spies-arrested-20261111"
       },
       {
-        "title": "이란 안보 당국자 “미국과 협상 진행 안 해”…조건 답변 요구",
-        "url": "https://www.reuters.com/world/middle-east/irans-top-security-official-says-no-talks-underway-with-us-2026-11-10/",
-        "event_key": "iran-rezaei-no-current-us-negotiations-explicit-response-20261110"
+        "title": "이란, 아르헨 해·공군을 '테러조직' 지정…IRGC 지정에 맞불",
+        "url": "https://www.reuters.com/world/americas/iran-designates-argentinas-navy-air-force-terrorist-organizations-2026-11-11/",
+        "event_key": "iran-argentina-navy-air-force-terror-designation-reciprocal-20261111"
       }
     ]
   }
