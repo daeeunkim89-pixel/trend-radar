@@ -1,223 +1,220 @@
 {
   "version": 2,
-  "hour_utc": "2026111113",
+  "hour_utc": "2026111114",
   "reviewer": "ChatGPT",
-  "generated_at": 1794402552,
+  "generated_at": 1794406001,
   "coverage": {
     "queries": [
-      "site:reuters.com/sports 2026-11-11 12:00 PM UTC latest soccer football Reuters November 11 2026",
-      "site:reuters.com/sports 2026-11-11 latest major sports Reuters after 12:00 UTC",
-      "site:reuters.com/world 2026-11-11 after 12:00 UTC breaking world news Reuters",
-      "2026년 11월 11일 21시 22시 주요 스포츠 축구 속보 연합뉴스 SBS YTN 뉴시스",
-      "site:reuters.com 2026-11-11 12:45 PM UTC 12:50 12:55 13:00 Reuters latest world sports",
-      "site:reuters.com/sports 2026-11-11 Reuters 12:30 PM UTC soccer tennis cricket latest"
+      "site:reuters.com/sports 2026-11-11 1:00 PM UTC latest sports soccer football Reuters November 11 2026",
+      "site:reuters.com/world 2026-11-11 1:00 PM UTC latest breaking world Reuters November 11 2026",
+      "site:reuters.com 2026-11-11 1:30 PM UTC latest Reuters sports world major news",
+      "2026년 11월 11일 22시 23시 주요 스포츠 축구 속보 SBS 연합뉴스 YTN 뉴시스",
+      "site:reuters.com 2026-11-11 1:35 PM UTC 1:40 1:45 1:50 1:55 2:00 Reuters latest world business sports",
+      "site:reuters.com/sports 2026-11-11 Reuters latest soccer football 1:00 PM UTC 2:00 PM UTC"
     ],
     "opened_urls": [
-      "https://www.reuters.com/world/middle-east/israeli-strikes-kill-three-people-including-two-brothers-gaza-medics-say-2026-11-11/",
       "https://www.reuters.com/sports/",
       "https://www.reuters.com/world/",
       "https://www.reuters.com/business/",
-      "https://news.sbs.co.kr/news/newsflash.do?plink=GNB&cooper=SBSNEWS",
-      "https://www.reuters.com/world/middle-east/eu-explores-deeper-syria-partnership-flags-concern-over-russia-role-2026-11-11/",
-      "https://www.reuters.com/world/tight-security-thousands-gather-far-right-polish-march-2026-11-11/",
-      "https://www.reuters.com/sports/dupont-play-flyhalf-france-against-south-africa-2026-11-11/",
-      "https://www.reuters.com/world/europe/russian-diplomat-says-moscow-could-conclude-non-aggression-pacts-with-nato-2026-11-11/",
-      "https://www.reuters.com/world/asia-pacific/indonesias-vice-president-has-resigned-three-political-sources-say-2026-11-11/",
-      "https://www.reuters.com/world/asia-pacific/eleven-pakistani-police-personnel-feared-killed-attack-rescue-group-says-2026-11-11/"
+      "https://www.reuters.com/sports/soccer/liverpool-should-have-been-given-penalty-against-arsenal-review-panel-says-2026-11-11/",
+      "https://www.reuters.com/world/china/us-china-should-stay-clear-eyed-ai-cooperation-competition-bessent-says-2026-11-11/",
+      "https://www.reuters.com/business/anthropic-ipo-raise-much-644-billion-latest-draft-prospectus-shows-2026-11-10/",
+      "https://www.reuters.com/graphics/US-ELECTIONS/GRAPHICS-BLOG/akpelkldzvr/2026-11-11/trump-polling/",
+      "https://www.reuters.com/sustainability/cop/cop31-leaders-try-out-new-sales-pitch-climate-action-do-it-economy-2026-11-11/",
+      "https://www.reuters.com/world/europe/us-russia-ukraine-start-second-day-abu-dhabi-peace-talks-2026-11-11/"
     ],
     "unavailable": [
-      "본문 실패: 연합뉴스 스포츠 목록이 접근 제한을 반환해 동일 URL을 재시도하지 않고 Reuters 공개 원문으로 전환.",
-      "run_usage: start=2026-11-11T13:03:28Z; end=2026-11-11T13:09:12Z; elapsed=344s; queries=6; opened=11; failed=1; endpoint=review_complete"
+      "run_usage: start=2026-11-11T14:02:40Z; end=2026-11-11T14:06:41Z; elapsed=241s; queries=6; opened=9; failed=0; endpoint=review_complete"
     ]
   },
   "picks": [
     {
-      "title": "러시아, NATO 회원국별 불가침조약 제안 가능성 제시",
+      "title": "러·우크라 협상서 포로 교환 합의…미국은 '불신' 지적",
       "category": "시사",
-      "url": "https://www.reuters.com/world/europe/russian-diplomat-says-moscow-could-conclude-non-aggression-pacts-with-nato-2026-11-11/",
+      "url": "https://www.reuters.com/world/europe/us-russia-ukraine-start-second-day-abu-dhabi-peace-talks-2026-11-11/",
       "source": "Reuters",
       "kind": "article",
-      "event_key": "russia-nato-member-non-aggression-pact-options-20261111",
-      "why": "우크라이나 종전 협상과 유럽 안보 질서 재편에 직접 연결되는 러시아의 구체적 선택지 제시다.",
-      "angle": "확정 합의가 아니라 러시아 외교 당국자가 제시한 복수의 안보 구상이라는 점을 중심에 둔다.",
-      "why_now": "11일 러시아 외교 당국자가 NATO 개별 회원국과의 불가침조약을 포함한 선택지를 공개적으로 열거했다.",
-      "verified_at": 1794402552,
-      "published_at": 1794401820,
+      "event_key": "russia-ukraine-abu-dhabi-pow-exchange-progress-20261111",
+      "why": "9개월 만의 첫 직접 협상에서 대규모 포로 교환이라는 구체적 합의가 나왔지만 영토 문제는 남은 중대한 전쟁 후속이다.",
+      "angle": "포로 교환 합의와 협상 진전, 돈바스·불신이라는 핵심 난제를 분리해 전한다.",
+      "why_now": "11일 이틀간의 아부다비 협상이 끝나며 양측은 대규모 포로 교환에 합의했고 미국은 여전히 불신이 크다고 밝혔다.",
+      "verified_at": 1794406001,
+      "published_at": 1794391944,
       "evidence": [
         {
-          "url": "https://www.reuters.com/world/europe/russian-diplomat-says-moscow-could-conclude-non-aggression-pacts-with-nato-2026-11-11/",
-          "note": "러시아 외교관 알렉세이 드로비닌은 집단 방위동맹, 상호원조조약, 적대국 지원 금지 협정, NATO 개별 회원국과의 양자 불가침조약을 가능한 틀로 제시했다."
+          "url": "https://www.reuters.com/world/europe/us-russia-ukraine-start-second-day-abu-dhabi-peace-talks-2026-11-11/",
+          "note": "러시아와 우크라이나는 아부다비 협상에서 대규모 전쟁포로 교환에 합의했지만 영토 문제에는 돌파구가 없었고, 미국 중재단은 양측 간 불신이 크다고 밝혔다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/world/europe/russian-diplomat-says-moscow-could-conclude-non-aggression-pacts-with-nato-2026-11-11/",
+          "url": "https://www.reuters.com/world/europe/us-russia-ukraine-start-second-day-abu-dhabi-peace-talks-2026-11-11/",
           "label": "검증 기사 원문",
           "kind": "source"
         }
       ],
-      "caution": "러시아의 제안·구상 단계이며 NATO 회원국과 합의됐다는 뜻은 아니다.",
+      "caution": "종전 합의가 아니라 포로 교환과 일부 진전이며 돈바스 등 핵심 쟁점은 미해결이다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-11",
-        "observation": "러시아 외교관 알렉세이 드로비닌은 집단 방위동맹, 상호원조조약, 적대국 지원 금지 협정, NATO 개별 회원국과의 양자 불가침조약을 가능한 틀로 제시했다.",
+        "observation": "러시아와 우크라이나는 아부다비 협상에서 대규모 전쟁포로 교환에 합의했지만 영토 문제에는 돌파구가 없었고, 미국 중재단은 양측 간 불신이 크다고 밝혔다.",
         "checked_materials": [],
         "outline": [
-          "아부다비 협상에서 유럽 안보 구조가 핵심 의제로 거론된 배경",
-          "드로비닌이 제시한 네 가지 협정 틀",
-          "합의 여부와 세부안은 아직 공개되지 않았다는 한계"
+          "9개월 만의 첫 직접 협상 종료",
+          "대규모 포로 교환 합의",
+          "영토 문제와 상호 불신이 남았다는 한계"
         ]
       }
     },
     {
-      "title": "인도네시아 부통령 사임…정치권 3개 소식통 보도",
+      "title": "미·중, AI 사고 직통채널·고급 모델 사전평가 논의",
       "category": "시사",
-      "url": "https://www.reuters.com/world/asia-pacific/indonesias-vice-president-has-resigned-three-political-sources-say-2026-11-11/",
+      "url": "https://www.reuters.com/world/china/us-china-should-stay-clear-eyed-ai-cooperation-competition-bessent-says-2026-11-11/",
       "source": "Reuters",
       "kind": "article",
-      "event_key": "indonesia-vp-gibran-resigned-three-sources-20261111",
-      "why": "사임 의향 보도에서 실제 사임 보도로 넘어간 중대한 후속으로 인도네시아 권력 구도에 직접 영향을 준다.",
-      "angle": "앞선 사임 의향·탄핵 청원과 구분해, 이번에는 정치권 소식통 3명이 전한 실제 사임 보도라는 새 사실을 설명한다.",
-      "why_now": "11일 로이터가 정치권 소식통 3명을 인용해 기브란 라카부밍 라카 부통령이 사임했다고 보도했다.",
-      "verified_at": 1794402552,
-      "published_at": 1794401700,
+      "event_key": "us-china-ai-incident-channel-model-testing-dialogue-20261111",
+      "why": "AI 패권 경쟁 중인 미국과 중국이 고급 모델 시험과 중대 사고 통보 체계를 논의하는 글로벌 안전 거버넌스 뉴스다.",
+      "angle": "협력 분야와 패권 경쟁이 동시에 유지된다는 베선트의 설명을 중심으로 구성한다.",
+      "why_now": "11일 미 재무장관은 18~19일 미중 정상회담에서 고급 AI 모델 평가와 중대 사고 직통채널을 진전시킬 것이라고 밝혔다.",
+      "verified_at": 1794406001,
+      "published_at": 1794360319,
       "evidence": [
         {
-          "url": "https://www.reuters.com/world/asia-pacific/indonesias-vice-president-has-resigned-three-political-sources-say-2026-11-11/",
-          "note": "로이터는 인도네시아 정치권 소식통 3명이 기브란 라카부밍 라카 부통령의 사임을 확인했다고 보도했다."
+          "url": "https://www.reuters.com/world/china/us-china-should-stay-clear-eyed-ai-cooperation-competition-bessent-says-2026-11-11/",
+          "note": "스콧 베선트 미 재무장관은 미중이 고급 AI 모델 출시 전 평가·시험 관행을 공유하고 중대 사고를 서로 알리는 직통채널을 마련하기로 했다고 밝혔다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/world/asia-pacific/indonesias-vice-president-has-resigned-three-political-sources-say-2026-11-11/",
+          "url": "https://www.reuters.com/world/china/us-china-should-stay-clear-eyed-ai-cooperation-competition-bessent-says-2026-11-11/",
           "label": "검증 기사 원문",
           "kind": "source"
         }
       ],
-      "caution": "공식 수리 절차와 대통령실의 후속 발표 범위는 기사에 확인된 내용 이상으로 단정하지 않는다.",
+      "caution": "정상회담에서 진전시킬 대화 구상이며 양국의 AI 경쟁이나 접근 차이가 해소됐다는 뜻은 아니다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-11",
-        "observation": "로이터는 인도네시아 정치권 소식통 3명이 기브란 라카부밍 라카 부통령의 사임을 확인했다고 보도했다.",
+        "observation": "스콧 베선트 미 재무장관은 미중이 고급 AI 모델 출시 전 평가·시험 관행을 공유하고 중대 사고를 서로 알리는 직통채널을 마련하기로 했다고 밝혔다.",
         "checked_materials": [],
         "outline": [
-          "사임 의향 보도와 이번 실제 사임 보도의 차이",
-          "정치권 소식통 3명의 확인",
-          "공식 절차·후임 구도는 추가 발표가 필요한 부분"
+          "11월 18~19일 선전 미중 정상회담",
+          "고급 모델 사전 평가와 인간 판단 유지",
+          "중대 AI 사고 직통채널과 지속되는 패권 경쟁"
         ]
       }
     },
     {
-      "title": "파키스탄 코하트 공격…경찰 11명 사망 우려",
+      "title": "앤트로픽, 최대 1조4천억달러 IPO 추진…AI 거품 시험대",
       "category": "시사",
-      "url": "https://www.reuters.com/world/asia-pacific/eleven-pakistani-police-personnel-feared-killed-attack-rescue-group-says-2026-11-11/",
+      "url": "https://www.reuters.com/business/anthropic-ipo-raise-much-644-billion-latest-draft-prospectus-shows-2026-11-10/",
       "source": "Reuters",
       "kind": "article",
-      "event_key": "pakistan-kohat-attack-eleven-police-feared-killed-20261111",
-      "why": "경찰 다수가 희생된 것으로 우려되는 대규모 치안 공격으로 파키스탄 북서부 안보 상황을 보여준다.",
-      "angle": "구조단체가 전한 초기 집계를 확정 사망자 수로 바꾸지 않고 공격 규모와 확인 한계를 함께 전한다.",
-      "why_now": "11일 구조단체가 카이버파크툰크와주 코하트 공격으로 경찰 11명이 숨진 것으로 우려된다고 밝혔다.",
-      "verified_at": 1794402552,
-      "published_at": 1794401280,
+      "event_key": "anthropic-ipo-1point4-trillion-valuation-20261110",
+      "why": "세계 최대급 기업공개가 될 수 있는 거래로 AI 투자 열풍과 고평가 논쟁을 동시에 시험한다.",
+      "angle": "공모 규모·기업가치·상장 일정과 막대한 컴퓨팅 약정을 함께 보여준다.",
+      "why_now": "10일 공개된 수정 증권신고서에서 앤트로픽은 최대 644억달러 공모와 1조4천억달러 완전희석 기업가치를 제시했다.",
+      "verified_at": 1794406001,
+      "published_at": 1794307500,
       "evidence": [
         {
-          "url": "https://www.reuters.com/world/asia-pacific/eleven-pakistani-police-personnel-feared-killed-attack-rescue-group-says-2026-11-11/",
-          "note": "구조단체 대변인은 파키스탄 카이버파크툰크와주 코하트에서 발생한 공격으로 경찰 11명이 숨진 것으로 우려된다고 로이터에 말했다."
+          "url": "https://www.reuters.com/business/anthropic-ipo-raise-much-644-billion-latest-draft-prospectus-shows-2026-11-10/",
+          "note": "앤트로픽은 8억2천500만주를 주당 70~78달러에 팔아 IPO로 최대 644억달러를 조달하고, 별도 사모투자 260억달러를 더해 총 904억달러를 마련할 계획이다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/world/asia-pacific/eleven-pakistani-police-personnel-feared-killed-attack-rescue-group-says-2026-11-11/",
+          "url": "https://www.reuters.com/business/anthropic-ipo-raise-much-644-billion-latest-draft-prospectus-shows-2026-11-10/",
           "label": "검증 기사 원문",
           "kind": "source"
         }
       ],
-      "caution": "구조단체의 초기 발표여서 사망자 수는 '사망 우려'로 표현하고 당국의 최종 집계를 기다린다.",
+      "caution": "공모 희망 범위와 예정 일정으로 최종 가격·조달액은 확정되지 않았다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-11",
-        "observation": "구조단체 대변인은 파키스탄 카이버파크툰크와주 코하트에서 발생한 공격으로 경찰 11명이 숨진 것으로 우려된다고 로이터에 말했다.",
+        "observation": "앤트로픽은 8억2천500만주를 주당 70~78달러에 팔아 IPO로 최대 644억달러를 조달하고, 별도 사모투자 260억달러를 더해 총 904억달러를 마련할 계획이다.",
         "checked_materials": [],
         "outline": [
-          "코하트에서 발생한 공격",
-          "구조단체가 전한 경찰 11명 사망 우려",
-          "초기 집계와 최종 당국 발표의 구분"
+          "최대 644억달러 IPO와 260억달러 사모투자",
+          "완전희석 기준 1조4천억달러 기업가치",
+          "11월 19일 나스닥 상장 예정과 고평가 논쟁"
         ]
       }
     },
     {
-      "title": "EU, 시리아와 안보·투자 협력 확대 검토…러시아 영향 견제",
+      "title": "트럼프 워싱턴 개조 구상, 미국인 67~80%가 반대",
       "category": "시사",
-      "url": "https://www.reuters.com/world/middle-east/eu-explores-deeper-syria-partnership-flags-concern-over-russia-role-2026-11-11/",
+      "url": "https://www.reuters.com/graphics/US-ELECTIONS/GRAPHICS-BLOG/akpelkldzvr/2026-11-11/trump-polling/",
       "source": "Reuters",
       "kind": "article",
-      "event_key": "eu-syria-security-investment-partnership-russia-concern-20261111",
-      "why": "시리아 재건·안보 체계와 러시아의 중동 영향력을 동시에 다루는 EU의 전략 전환 검토다.",
-      "angle": "EU 외교문서가 제안한 안보개혁·투자·무역협정 재개와 러시아 영향 축소 목표를 구분해 설명한다.",
-      "why_now": "16일 EU 외무장관 회의를 앞두고 안보·투자 협력과 2008년 무역협정 부활을 제안한 문서가 11일 확인됐다.",
-      "verified_at": 1794402552,
-      "published_at": 1794400500,
+      "event_key": "trump-washington-construction-projects-reuters-ipsos-opposition-20261111",
+      "why": "중간선거 직후 대통령 지지율과 수도 개조 프로젝트에 대한 대규모 반대가 함께 확인된 미국 정치 여론 뉴스다.",
+      "angle": "프로젝트별 반대율과 조사 시점·표본을 분리해 과장 없이 제시한다.",
+      "why_now": "11일 공개된 Reuters/Ipsos 분석에서 트럼프 국정 지지율은 32%였고 워싱턴 개조 관련 주요 항목 반대는 67~80%였다.",
+      "verified_at": 1794406001,
+      "published_at": 1794405600,
       "evidence": [
         {
-          "url": "https://www.reuters.com/world/middle-east/eu-explores-deeper-syria-partnership-flags-concern-over-russia-role-2026-11-11/",
-          "note": "EU 외교부서는 시리아 안보부문 개혁 지원, 투자 확대, 2008년 무역협정 부활을 제안했고 2026~2027년 6억2천만 유로 지원 계획도 제시했다."
+          "url": "https://www.reuters.com/graphics/US-ELECTIONS/GRAPHICS-BLOG/akpelkldzvr/2026-11-11/trump-polling/",
+          "note": "Reuters/Ipsos 조사에서 워싱턴 기념물 우선 추진은 67%, 케네디센터 이름 추가는 71%, 인정 조건부 보수 예산 보류는 80%가 반대·부적절·낮은 우선순위라고 답했다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/world/middle-east/eu-explores-deeper-syria-partnership-flags-concern-over-russia-role-2026-11-11/",
+          "url": "https://www.reuters.com/graphics/US-ELECTIONS/GRAPHICS-BLOG/akpelkldzvr/2026-11-11/trump-polling/",
           "label": "검증 기사 원문",
           "kind": "source"
         }
       ],
-      "caution": "외무장관 회의 전 검토 문서의 제안이며 최종 채택된 정책으로 표현하지 않는다.",
+      "caution": "항목별 조사 시점과 표본이 다르며 수치는 프로젝트 지지 여부를 묻는 별도 질문 결과다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-11",
-        "observation": "EU 외교부서는 시리아 안보부문 개혁 지원, 투자 확대, 2008년 무역협정 부활을 제안했고 2026~2027년 6억2천만 유로 지원 계획도 제시했다.",
+        "observation": "Reuters/Ipsos 조사에서 워싱턴 기념물 우선 추진은 67%, 케네디센터 이름 추가는 71%, 인정 조건부 보수 예산 보류는 80%가 반대·부적절·낮은 우선순위라고 답했다.",
         "checked_materials": [],
         "outline": [
-          "EU 외교문서가 제시한 협력 확대안",
-          "2026~2027년 6억2천만 유로 지원 계획",
-          "러시아 영향력 견제 목표와 아직 제안 단계라는 한계"
+          "트럼프 국정 지지율 32%",
+          "워싱턴 기념물·케네디센터 관련 반대 67~80%",
+          "조사 시점과 표본이 항목별로 다르다는 기준"
         ]
       }
     },
     {
-      "title": "프랑스, 남아공전서 뒤퐁을 플라이하프로…대표팀 첫 포지션 전환",
-      "category": "메이저 스포츠",
-      "url": "https://www.reuters.com/sports/dupont-play-flyhalf-france-against-south-africa-2026-11-11/",
+      "title": "프리미어리그 판정위 '리버풀, 아스널전 페널티 받았어야'",
+      "category": "축구",
+      "url": "https://www.reuters.com/sports/soccer/liverpool-should-have-been-given-penalty-against-arsenal-review-panel-says-2026-11-11/",
       "source": "Reuters",
       "kind": "article",
-      "event_key": "france-dupont-flyhalf-south-africa-first-test-switch-20261111",
-      "why": "세계 정상급 스크럼하프를 대표팀에서 처음 플라이하프로 옮기는 프랑스의 중대한 전술 승부다.",
-      "angle": "은타마크 부상, 뒤퐁의 제한된 클럽 경험, 남아공전 전술 부담을 연결한다.",
-      "why_now": "11일 프랑스가 어깨 부상으로 빠진 로맹 은타마크 대신 주장 앙투안 뒤퐁을 남아공전 플라이하프로 선발했다.",
-      "verified_at": 1794402552,
-      "published_at": 1794393916,
+      "event_key": "premier-league-kmi-liverpool-arsenal-penalty-var-error-20261111",
+      "why": "우승 경쟁과 리버풀 순위에 영향을 준 경기에서 리그 판정위가 현장·VAR 판단 모두 잘못됐다고 결론 낸 공식 후속이다.",
+      "angle": "팀 항의가 아니라 KMI 패널의 표결 결과와 레드카드 여부를 구분해 전한다.",
+      "why_now": "11일 프리미어리그 KMI 패널은 팀버가 이사크의 셔츠를 잡은 장면에 페널티가 선언됐어야 했다고 밝혔다.",
+      "verified_at": 1794406001,
+      "published_at": 1794397285,
       "evidence": [
         {
-          "url": "https://www.reuters.com/sports/dupont-play-flyhalf-france-against-south-africa-2026-11-11/",
-          "note": "프랑스는 왼쪽 어깨 탈구로 빠진 로맹 은타마크를 대신해 앙투안 뒤퐁을 남아공전 플라이하프로 배치했다. 뒤퐁은 테스트 경기에서 이 포지션을 맡은 적이 없고 클럽에서도 8경기 경험뿐이다."
+          "url": "https://www.reuters.com/sports/soccer/liverpool-should-have-been-given-penalty-against-arsenal-review-panel-says-2026-11-11/",
+          "note": "KMI 패널은 4대1로 페널티가 선언됐어야 했다고 판단했고, 3대2로 VAR이 온필드 리뷰를 권고했어야 한다고 봤다. 레드카드 사안은 아니라는 데는 만장일치였다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/sports/dupont-play-flyhalf-france-against-south-africa-2026-11-11/",
+          "url": "https://www.reuters.com/sports/soccer/liverpool-should-have-been-given-penalty-against-arsenal-review-panel-says-2026-11-11/",
           "label": "검증 기사 원문",
           "kind": "source"
         }
       ],
-      "caution": "경기 결과나 전술 성공을 예단하지 않고 선발 결정과 경험치만 다룬다.",
+      "caution": "경기 결과는 바뀌지 않으며 사후 판정 평가다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-11",
-        "observation": "프랑스는 왼쪽 어깨 탈구로 빠진 로맹 은타마크를 대신해 앙투안 뒤퐁을 남아공전 플라이하프로 배치했다. 뒤퐁은 테스트 경기에서 이 포지션을 맡은 적이 없고 클럽에서도 8경기 경험뿐이다.",
+        "observation": "KMI 패널은 4대1로 페널티가 선언됐어야 했다고 판단했고, 3대2로 VAR이 온필드 리뷰를 권고했어야 한다고 봤다. 레드카드 사안은 아니라는 데는 만장일치였다.",
         "checked_materials": [],
         "outline": [
-          "은타마크의 왼쪽 어깨 탈구",
-          "뒤퐁의 대표팀 첫 플라이하프 선발",
-          "클럽 8경기 경험과 남아공전 전술 부담"
+          "팀버가 이사크의 셔츠를 잡은 21분 장면",
+          "페널티 4대1·VAR 개입 3대2 판단",
+          "레드카드는 아니라는 만장일치 결론"
         ]
       }
     }
