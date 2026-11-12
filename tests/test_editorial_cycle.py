@@ -47,7 +47,7 @@ class HourlyResearchTests(unittest.TestCase):
                      "delivery": "sent", "stories": 4, "messages": 1}}
             result = cycle.plan_cycle(at(20, 25), state=state, status=status)
             self.assertIsNone(result["target_epoch"])
-            self.assertTrue(result["may_submit"])
+            self.assertFalse(result["may_submit"])
 
     def test_existing_pinned_request_is_observed_while_next_batch_is_researched(self):
         request = {"hour_utc": hourly_key(at(11))[7:]}

@@ -100,7 +100,7 @@ class ReliableEditionTests(unittest.TestCase):
                 self.assertEqual(c.main(recover_hour=HOUR_TEXT, picks_file=self.picks), 1)
             client.send.assert_not_called()
             current = json.loads(c.ATTEMPT_FILE.read_text())
-            self.assertEqual((current["hour_utc"], current["status"], current["ready"]), (HOUR_TEXT, expected, 5))
+            self.assertEqual((current["hour_utc"], current["status"], current["ready"]), (HOUR_TEXT, expected, c.REPORT_PICKS))
             self.assertEqual(json.loads(c.STATE_FILE.read_text()), old)
             self.assertFalse(c.DECISIONS_FILE.exists())
 
@@ -117,9 +117,7 @@ class ReliableEditionTests(unittest.TestCase):
                              ({**request, "version": 3, "mode": "user_requested"}, HOUR + 100)):
             path.write_text(json.dumps(value))
             self.assertEqual(report_request.run(path, clock, sender, self.picks, scheduled_check=True), 0)
-        self.assertEqual(sender.call_count, 3)
-        sender.assert_any_call(recover_hour=hourly_key(HOUR + 3600)[7:], scheduled_fallback=True)
-        sender.assert_any_call(recover_hour=hourly_key(HOUR - 3600)[7:], scheduled_fallback=True)
+        self.assertEqual(sender.call_count, 1)
         sender.assert_any_call(recover_hour=HOUR_TEXT, scheduled_fallback=True)
 
     def test_one_hour_preparation_preserves_hourly_slots_and_75_minute_review_validity(self):
@@ -128,9 +126,9 @@ class ReliableEditionTests(unittest.TestCase):
         for hour in range(24):
             now = int(base.replace(hour=hour, minute=15).timestamp())
             target = editorial_target(now)
-            if hour in range(8, 24):
+            if hour in (8, 11, 14, 17, 20):
                 self.assertEqual(target, now // 3600 * 3600)
-            elif hour == 7:
+            elif hour in (7, 10, 13, 16, 19):
                 self.assertEqual(target, now // 3600 * 3600 + 3600)
             else:
                 self.assertIsNone(target)

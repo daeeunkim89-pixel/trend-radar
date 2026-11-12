@@ -147,7 +147,7 @@ class EditorialEditionTests(unittest.TestCase):
         workflow = (Path(__file__).resolve().parents[1] / ".github/workflows/delivery-request.yml").read_text()
         minutes = int(re.search(r"timeout-minutes:\s*(\d+)", workflow).group(1))
         self.assertLessEqual(minutes, 10)
-        self.assertIn('BTP_NO_PREHOUR_WAIT: "1"', workflow)
+        self.assertIn('BTP_MAX_PREHOUR_WAIT_SECONDS: "300"', workflow)
         self.assertNotIn("  schedule:", workflow)
         self.assertIn("paths: [data/report-request.json]", workflow)
 
