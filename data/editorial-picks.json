@@ -2,7 +2,7 @@
   "version": 2,
   "hour_utc": "2026111200",
   "reviewer": "ChatGPT",
-  "generated_at": 1794442173,
+  "generated_at": 1794442392,
   "coverage": {
     "queries": [
       "site:reuters.com/sports November 12 2026 latest soccer football sports Reuters",
@@ -22,8 +22,8 @@
       "https://www.reuters.com/legal/government/australian-watchdog-sues-cba-over-allegations-overcharging-customers-2026-11-11/"
     ],
     "unavailable": [
-      "run_usage: start=2026-11-12T00:01:07Z; end=2026-11-12T00:09:33Z; elapsed=506s; queries=6; opened=7; failed=0; endpoint=retry_review_complete",
-      "server_hidden_duplicates: 2 picks excluded before delivery; replaced with newly opened independent articles"
+      "server_hidden_duplicates: 2 picks excluded before delivery; replaced with newly opened independent articles",
+      "run_usage: queries=6; opened=7; failed=0; start=2026-11-12T00:01:07Z; elapsed_seconds=725; endpoint=final_retry_submission"
     ]
   },
   "picks": [
