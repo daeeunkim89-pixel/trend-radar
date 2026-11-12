@@ -2,39 +2,6 @@
   "version": 1,
   "editions": [
     {
-      "hour_utc": "2026110507",
-      "at": 1793862412,
-      "delivery": "sent",
-      "delivery_key": "hourly-2026110507",
-      "picks": [
-        {
-          "title": "LIV 호주 대회도 흔들…주총리 “내년 쿠용가 개최 어려워 보인다”",
-          "url": "https://www.channelnewsasia.com/sport/game-set-and-match-australia-casts-doubt-liv-return-amid-financial-uncertainty-6526256",
-          "event_key": "south-australia-premier-liv-kooyonga-2027-event-doubt-20261105"
-        },
-        {
-          "title": "자기 경기 전 ATP 파이널스행 확정…필스, 프랑스 선수로 10년 만",
-          "url": "https://www.channelnewsasia.com/sport/frenchman-fils-reaches-atp-finals-first-time-6524431",
-          "event_key": "arthur-fils-first-atp-finals-qualification-halys-tiafoe-20261104"
-        },
-        {
-          "title": "‘조작기소 특검법’ 본회의 상정…국힘, 무제한 토론 돌입",
-          "url": "https://www.newsis.com/view/NISX20261105_0003856223",
-          "event_key": "fabricated-prosecution-bill-plenary-tabled-filibuster-started-20261105"
-        },
-        {
-          "title": "정부 정보공개포털서 주민번호·암 진단 정보 노출…원문 다운로드 중단",
-          "url": "https://www.newspim.com/news/view/20261105001114",
-          "event_key": "government-open-portal-sensitive-data-exposure-download-suspension-20261105"
-        },
-        {
-          "title": "공화당서도 헤그세스 탄핵 표결 추진…국방장관에 전쟁 책임론",
-          "url": "https://www.newsis.com/view/NISX20261105_0003855824",
-          "event_key": "massie-hegseth-impeachment-vote-plan-post-midterms-20261104"
-        }
-      ]
-    },
-    {
       "hour_utc": "2026110509",
       "at": 1793869775,
       "delivery": "sent",
@@ -1871,6 +1838,64 @@
           "title": "국내외 800억원대 불법도박 조직, 조폭 포함 21명 구속송치",
           "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842947",
           "event_key": "korea-800b-illegal-gambling-network-21-detained-20261112"
+        }
+      ]
+    },
+    {
+      "hour_utc": "2026111208",
+      "at": 1794471236,
+      "delivery": "sent",
+      "delivery_key": "hourly-2026111208",
+      "picks": [
+        {
+          "title": "한국 야구, APBC 첫판 호주에 8대7 재역전패",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008843346",
+          "event_key": "korea-apbc-australia-8-7-opening-loss-20261112"
+        },
+        {
+          "title": "여자축구 LA올림픽 최종예선, 남북·중국 한 조",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008843516",
+          "event_key": "korea-womens-football-la2028-final-qualifier-draw-20261112"
+        },
+        {
+          "title": "SSG, 최고 157㎞ 투수 리차드슨 100만달러 영입",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008843251",
+          "event_key": "ssg-ryan-richardson-one-million-signing-20261112"
+        },
+        {
+          "title": "커리 복부 통증 이탈…골든스테이트 8연승 끝",
+          "url": "https://www.reuters.com/sports/basketball/rockets-halt-warriors-8-game-winning-streak-stephen-curry-injured--flm-2026-11-12/",
+          "event_key": "warriors-curry-abdominal-soreness-rockets-end-eight-win-streak-20261112"
+        },
+        {
+          "title": "오타니, 올 MLB 팀 제외…6년 연속 선정 무산",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008843088",
+          "event_key": "ohtani-all-mlb-team-six-year-streak-ended-20261112"
+        },
+        {
+          "title": "LPGA, 2027년부터 늑장 플레이 경고 없이 벌금",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008843072",
+          "event_key": "lpga-2027-slow-play-immediate-fines-rule-20261112"
+        },
+        {
+          "title": "다카르 유스올림픽서 러시아 국기·국가 복귀 시험대",
+          "url": "https://www.reuters.com/sports/dakar-youth-games-test-waters-russias-comeback-2026-11-12/",
+          "event_key": "dakar-youth-olympics-russia-flag-anthem-return-test-20261112"
+        },
+        {
+          "title": "샌안토니오, 22점 차 뒤집고 10연승",
+          "url": "https://www.reuters.com/sports/basketball/spurs-withstand-bulls-early-surge-win-10th-straight--flm-2026-11-12/",
+          "event_key": "spurs-overcome-22-point-deficit-ten-win-streak-20261112"
+        },
+        {
+          "title": "투헬, 잉글랜드 감독 유로 2028까지 잔류 확언",
+          "url": "https://www.reuters.com/sports/soccer/tuchel-committed-england-until-euro-2028-2026-11-12/",
+          "event_key": "tuchel-england-commitment-through-euro-2028-20261112"
+        },
+        {
+          "title": "최민정 마지막 국내 월드투어, 주말 입장권 매진",
+          "url": "https://news.sbs.co.kr/news/newsSection.do?cooper=SBSNEWS&plink=MENU&sectionType=09",
+          "event_key": "choi-minjeong-final-domestic-world-tour-weekend-sold-out-20261112"
         }
       ]
     }
