@@ -1,54 +1,79 @@
 {
-  "updated_at": 1794445798,
+  "updated_at": 1794460340,
   "status": "ok",
   "errors": {},
   "report": {
     "version": "btp-editorial-v10",
     "delivery": "sent",
     "messages": 1,
-    "stories": 5,
+    "stories": 10,
     "duplicates_excluded": 0,
     "ai": "chatgpt_web_research",
     "missing": 0,
     "target_met": true,
     "shortfall_reason": "",
-    "requested_stories": 5,
+    "requested_stories": 10,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026111201",
+    "hour_utc": "2026111205",
     "category_counts": {
-      "시사": 3,
-      "축구": 2,
-      "메이저 스포츠": 0,
+      "시사": 7,
+      "축구": 1,
+      "메이저 스포츠": 2,
       "아이돌": 0
     },
-    "research_queries": 6,
-    "opened_sources": 12,
+    "research_queries": 8,
+    "opened_sources": 19,
     "picks": [
       {
-        "title": "지소연 성희롱 발언 심판, 최저 수위 3개월 출전정지",
-        "url": "https://www.yna.co.kr/view/AKR20261111154800007?section=sports%2Fall",
-        "event_key": "ji-so-yun-referee-sexual-harassment-three-month-suspension-20261111"
+        "title": "MLB 양대 사이영상, 슐리틀러·미시오로스키 만장일치 수상",
+        "url": "https://www.cbssports.com/mlb/news/2026-mlb-cy-young-cam-schlittler-yankees-american-league/",
+        "event_key": "mlb-2026-cy-young-schlittler-misiorowski-unanimous-20261112"
       },
       {
-        "title": "스페인 대표 바레네체아, 햄스트링 힘줄 중상으로 수술",
-        "url": "https://www.macaupostdaily.com/attachment/files/2026/11/12/1.pdf.pdf",
-        "event_key": "real-sociedad-barrenetxea-severe-hamstring-tendon-surgery-20261111"
+        "title": "LG 오스틴, 외국인 타자 최초 200만달러 재계약",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842590",
+        "event_key": "lg-austin-kbo-foreign-hitter-record-2m-renewal-20261112"
       },
       {
-        "title": "미국, 러시아에 유럽 공격 우려 해소할 새 안보안 요구",
-        "url": "https://nwww.newsis.com/view/NISX20261112_0003864635",
-        "event_key": "us-russia-new-europe-security-proposal-demand-20261111"
+        "title": "울산 HD, 김현석 감독과 시즌 종료 뒤 결별 확정",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842311",
+        "event_key": "ulsan-hd-kim-hyun-seok-contract-not-extended-20261112"
       },
       {
-        "title": "북한, 동해 통천에 새 해군기지 건설…김정은 현지점검",
-        "url": "https://nwww.newsis.com/view/NISX20261112_0003864639",
-        "event_key": "north-korea-tongchon-east-sea-naval-base-construction-20261111"
+        "title": "시진핑, APEC 앞두고 대만 '평화통일 반드시 실현' 천명",
+        "url": "https://www.reuters.com/world/china/chinas-xi-says-taiwan-reunification-must-happen-history-cannot-be-stopped-2026-11-12/",
+        "event_key": "xi-taiwan-peaceful-reunification-apec-speech-20261112"
       },
       {
-        "title": "금융지주 회장 3연임, 주총 75% 찬성 문턱 세운다",
-        "url": "https://nwww.newsis.com/view/NISX20261111_0003864355",
-        "event_key": "korea-financial-holding-ceo-third-term-governance-reform-20261112"
+        "title": "한국, APEC 계기 북미 정상 접촉 가능성 낮게 판단",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842803",
+        "event_key": "korea-apec-us-north-korea-contact-low-prospect-20261112"
+      },
+      {
+        "title": "미 상원의원들, 엔비디아 대중국 수출기록 보존 요구",
+        "url": "https://www.reuters.com/world/china/senior-us-democratic-senators-urge-administration-preserve-nvidia-export-records-2026-11-12/",
+        "event_key": "us-senators-nvidia-china-export-records-preservation-request-20261112"
+      },
+      {
+        "title": "성북구 15세 살해 사건, 성범죄 가해자 아버지 구속영장",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842828",
+        "event_key": "seongbuk-teen-murder-sex-crime-offender-father-warrant-20261112"
+      },
+      {
+        "title": "조폭·증권사 직원 연루 코스닥 시세조종 25명 송치",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842804",
+        "event_key": "kosdaq-manipulation-gangsters-brokerage-25-referred-20261112"
+      },
+      {
+        "title": "필수접종 전환 한 달 만에 코로나 백신 현장 재고 부족",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842807",
+        "event_key": "korea-covid-vaccine-mandatory-program-stock-shortage-20261112"
+      },
+      {
+        "title": "국내외 800억원대 불법도박 조직, 조폭 포함 21명 구속송치",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842947",
+        "event_key": "korea-800b-illegal-gambling-network-21-detained-20261112"
       }
     ]
   }
