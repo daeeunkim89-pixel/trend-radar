@@ -1,6 +1,361 @@
 {
   "version": 1,
   "items": {
+    "b04484d73a99": {
+      "source": "Reuters",
+      "title": "미국, 카타르 U-17 월드컵 불참…무력충돌 위험에 대표팀 철수",
+      "link": "https://www.reuters.com/sports/soccer/us-pulls-mens-under-17-team-world-cup-qatar-over-safety-concerns-2026-11-11/",
+      "first_seen_at": 1794442461,
+      "last_seen_at": 1794442461,
+      "samples": [
+        {
+          "at": 1794442461,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "b04484d73a99",
+      "editorial": {
+        "title": "미국, 카타르 U-17 월드컵 불참…무력충돌 위험에 대표팀 철수",
+        "category": "축구",
+        "url": "https://www.reuters.com/sports/soccer/us-pulls-mens-under-17-team-world-cup-qatar-over-safety-concerns-2026-11-11/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "us-u17-world-cup-qatar-withdrawal-safety-20261111",
+        "why": "48개국 FIFA 대회에서 미국이 안전 문제로 대표팀 참가 자체를 취소한 중대한 국제축구 결정이다.",
+        "angle": "미국축구협회의 철수 결정과 카타르 여행경보, 11월 19일 개막 대회에 미칠 영향을 순서대로 보여준다.",
+        "why_now": "미국축구협회가 11월 11일 선수들에게 사전 캠프와 대회 참가 취소를 알렸고 FIFA 발표를 기다리고 있다.",
+        "verified_at": 1794441943,
+        "published_at": 1794439505,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/soccer/us-pulls-mens-under-17-team-world-cup-qatar-over-safety-concerns-2026-11-11/",
+            "note": "미국축구협회는 국무부의 카타르 3단계 여행경보와 무력충돌 위험을 들어 U-17 대표팀의 사전 캠프와 월드컵 참가를 취소했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/soccer/us-pulls-mens-under-17-team-world-cup-qatar-over-safety-concerns-2026-11-11/",
+            "label": "검증 기사 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "FIFA는 기사 게재 시점까지 즉각 답변하지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-11",
+          "observation": "미국축구협회는 국무부의 카타르 3단계 여행경보와 무력충돌 위험을 들어 U-17 대표팀의 사전 캠프와 월드컵 참가를 취소했다.",
+          "checked_materials": [],
+          "outline": [
+            "미국, 카타르 U-17 월드컵 불참…무력충돌 위험에 대표팀 철수",
+            "미국축구협회의 철수 결정과 카타르 여행경보, 11월 19일 개막 대회에 미칠 영향을 순서대로 보여준다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "검증 기사 원문",
+            "url": "https://www.reuters.com/sports/soccer/us-pulls-mens-under-17-team-world-cup-qatar-over-safety-concerns-2026-11-11/"
+          }
+        ],
+        "excerpt": "",
+        "context": "미국축구협회가 11월 11일 선수들에게 사전 캠프와 대회 참가 취소를 알렸고 FIFA 발표를 기다리고 있다.",
+        "fetched_at": 1794442461,
+        "parser_revision": 7
+      },
+      "curation_event_key": "us-u17-world-cup-qatar-withdrawal-safety-20261111"
+    },
+    "5c0618abbf56": {
+      "source": "Reuters",
+      "title": "이지젯, 76억달러 아폴로 인수안 주주 승인…25년 상장 종료 수순",
+      "link": "https://www.reuters.com/business/easyjet-shareholders-approve-57-billion-apollo-takeover-2026-11-11/",
+      "first_seen_at": 1794442461,
+      "last_seen_at": 1794442461,
+      "samples": [
+        {
+          "at": 1794442461,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "5c0618abbf56",
+      "editorial": {
+        "title": "이지젯, 76억달러 아폴로 인수안 주주 승인…25년 상장 종료 수순",
+        "category": "시사",
+        "url": "https://www.reuters.com/business/easyjet-shareholders-approve-57-billion-apollo-takeover-2026-11-11/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "easyjet-apollo-takeover-shareholder-approval-20261111",
+        "why": "유럽 항공사 최대급 사모펀드 인수 중 하나가 주주 승인을 넘으며 이지젯의 25년 런던 상장 종료가 가까워졌다.",
+        "angle": "주주 찬성률과 2027년 1분기 완료 목표, EU 항공사 소유권 규제라는 남은 관문을 분리해 보여준다.",
+        "why_now": "이지젯 주주들이 11월 11일 57억파운드 규모 아폴로 인수안을 승인했다.",
+        "verified_at": 1794442173,
+        "published_at": 1794397834,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/business/easyjet-shareholders-approve-57-billion-apollo-takeover-2026-11-11/",
+            "note": "이지젯은 의결된 스킴 주식의 97.07%가 인수안에 찬성했다고 밝혔다. 회사는 2027년 1분기 말 이전 거래 완료를 목표로 한다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/business/easyjet-shareholders-approve-57-billion-apollo-takeover-2026-11-11/",
+            "label": "검증 기사 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "주주 승인은 완료됐지만 EU 소유권 규제 심사와 노조 반대가 남아 있다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-11",
+          "observation": "이지젯은 의결된 스킴 주식의 97.07%가 인수안에 찬성했다고 밝혔다. 회사는 2027년 1분기 말 이전 거래 완료를 목표로 한다.",
+          "checked_materials": [],
+          "outline": [
+            "이지젯, 76억달러 아폴로 인수안 주주 승인…25년 상장 종료 수순",
+            "주주 찬성률과 2027년 1분기 완료 목표, EU 항공사 소유권 규제라는 남은 관문을 분리해 보여준다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "검증 기사 원문",
+            "url": "https://www.reuters.com/business/easyjet-shareholders-approve-57-billion-apollo-takeover-2026-11-11/"
+          }
+        ],
+        "excerpt": "",
+        "context": "이지젯 주주들이 11월 11일 57억파운드 규모 아폴로 인수안을 승인했다.",
+        "fetched_at": 1794442461,
+        "parser_revision": 7
+      },
+      "curation_event_key": "easyjet-apollo-takeover-shareholder-approval-20261111"
+    },
+    "dcd2432d4be2": {
+      "source": "Reuters",
+      "title": "호주 CBA, 기업고객 4만2천곳 수수료 과다청구 혐의로 피소",
+      "link": "https://www.reuters.com/legal/government/australian-watchdog-sues-cba-over-allegations-overcharging-customers-2026-11-11/",
+      "first_seen_at": 1794442461,
+      "last_seen_at": 1794442461,
+      "samples": [
+        {
+          "at": 1794442461,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "dcd2432d4be2",
+      "editorial": {
+        "title": "호주 CBA, 기업고객 4만2천곳 수수료 과다청구 혐의로 피소",
+        "category": "시사",
+        "url": "https://www.reuters.com/legal/government/australian-watchdog-sues-cba-over-allegations-overcharging-customers-2026-11-11/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "australia-asic-cba-commbiz-overcharging-lawsuit-20261112",
+        "why": "호주 최대 은행의 주력 기업뱅킹 서비스에서 4만2천 고객·850만호주달러 규모 과다청구가 제기된 대형 금융사건이다.",
+        "angle": "ASIC의 민사제재 소송과 피해 규모, 2015년 민원·2016년 내부감사 지적, CBA 반론을 함께 정리한다.",
+        "why_now": "호주 증권투자위원회가 11월 12일 연방법원에 CBA를 상대로 민사제재 절차를 시작했다.",
+        "verified_at": 1794442173,
+        "published_at": 1794440040,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/legal/government/australian-watchdog-sues-cba-over-allegations-overcharging-customers-2026-11-11/",
+            "note": "ASIC은 2020년 11월부터 2025년 5월까지 CommBiz 고객 약 4만2천곳에 약 850만호주달러의 미고지 수수료가 부과됐다고 주장했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/legal/government/australian-watchdog-sues-cba-over-allegations-overcharging-customers-2026-11-11/",
+            "label": "검증 기사 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "과다청구는 ASIC의 혐의이며 CBA는 일부 주장 방식을 받아들이지 않고 방어하겠다고 밝혔다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-12",
+          "observation": "ASIC은 2020년 11월부터 2025년 5월까지 CommBiz 고객 약 4만2천곳에 약 850만호주달러의 미고지 수수료가 부과됐다고 주장했다.",
+          "checked_materials": [],
+          "outline": [
+            "호주 CBA, 기업고객 4만2천곳 수수료 과다청구 혐의로 피소",
+            "ASIC의 민사제재 소송과 피해 규모, 2015년 민원·2016년 내부감사 지적, CBA 반론을 함께 정리한다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "검증 기사 원문",
+            "url": "https://www.reuters.com/legal/government/australian-watchdog-sues-cba-over-allegations-overcharging-customers-2026-11-11/"
+          }
+        ],
+        "excerpt": "",
+        "context": "호주 증권투자위원회가 11월 12일 연방법원에 CBA를 상대로 민사제재 절차를 시작했다.",
+        "fetched_at": 1794442461,
+        "parser_revision": 7
+      },
+      "curation_event_key": "australia-asic-cba-commbiz-overcharging-lawsuit-20261112"
+    },
+    "d0840577e9f6": {
+      "source": "Reuters",
+      "title": "RWE·KKR, 영국 해상풍력에 160억달러 확정…300만 가구 전력 규모",
+      "link": "https://www.reuters.com/business/energy/rwe-kkr-finalise-16-billion-investment-uk-renewables-2026-11-11/",
+      "first_seen_at": 1794442461,
+      "last_seen_at": 1794442461,
+      "samples": [
+        {
+          "at": 1794442461,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "d0840577e9f6",
+      "editorial": {
+        "title": "RWE·KKR, 영국 해상풍력에 160억달러 확정…300만 가구 전력 규모",
+        "category": "시사",
+        "url": "https://www.reuters.com/business/energy/rwe-kkr-finalise-16-billion-investment-uk-renewables-2026-11-11/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "rwe-kkr-uk-offshore-wind-16-billion-20261111",
+        "why": "영국 최대급 재생에너지 투자로 2030년 완공 목표와 300만 가구 전력 규모가 함께 확정됐다.",
+        "angle": "120억파운드 금융종결, 두 해상풍력단지, 일자리 2천400개와 300만 가구 공급 규모를 한눈에 정리한다.",
+        "why_now": "RWE와 KKR이 11월 11일 노퍽 뱅가드 동·서부 프로젝트의 금융종결을 발표했다.",
+        "verified_at": 1794441943,
+        "published_at": 1794380492,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/business/energy/rwe-kkr-finalise-16-billion-investment-uk-renewables-2026-11-11/",
+            "note": "RWE와 KKR은 영국 해상풍력 사업에 약 120억파운드를 투자한다. 2030년 완공 목표이며 건설 일자리 2천400개와 약 300만 가구 전력 공급이 예상된다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/business/energy/rwe-kkr-finalise-16-billion-investment-uk-renewables-2026-11-11/",
+            "label": "검증 기사 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-11",
+          "observation": "RWE와 KKR은 영국 해상풍력 사업에 약 120억파운드를 투자한다. 2030년 완공 목표이며 건설 일자리 2천400개와 약 300만 가구 전력 공급이 예상된다.",
+          "checked_materials": [],
+          "outline": [
+            "RWE·KKR, 영국 해상풍력에 160억달러 확정…300만 가구 전력 규모",
+            "120억파운드 금융종결, 두 해상풍력단지, 일자리 2천400개와 300만 가구 공급 규모를 한눈에 정리한다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "검증 기사 원문",
+            "url": "https://www.reuters.com/business/energy/rwe-kkr-finalise-16-billion-investment-uk-renewables-2026-11-11/"
+          }
+        ],
+        "excerpt": "",
+        "context": "RWE와 KKR이 11월 11일 노퍽 뱅가드 동·서부 프로젝트의 금융종결을 발표했다.",
+        "fetched_at": 1794442461,
+        "parser_revision": 7
+      },
+      "curation_event_key": "rwe-kkr-uk-offshore-wind-16-billion-20261111"
+    },
+    "b514f54ecc4b": {
+      "source": "Reuters",
+      "title": "콴타스 850명 감원에 ‘AI 워싱’ 논란…자동화 전 해외 이전부터",
+      "link": "https://www.reuters.com/business/world-at-work/australian-companies-face-ai-washing-claims-after-wave-job-cuts-offshoring-2026-11-11/",
+      "first_seen_at": 1794442461,
+      "last_seen_at": 1794442461,
+      "samples": [
+        {
+          "at": 1794442461,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "b514f54ecc4b",
+      "editorial": {
+        "title": "콴타스 850명 감원에 ‘AI 워싱’ 논란…자동화 전 해외 이전부터",
+        "category": "시사",
+        "url": "https://www.reuters.com/business/world-at-work/australian-companies-face-ai-washing-claims-after-wave-job-cuts-offshoring-2026-11-11/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "australia-ai-washing-job-cuts-offshoring-20261112",
+        "why": "대기업이 AI를 앞세워 감원과 해외 이전을 정당화한다는 노동시장 논쟁이 호주 전역으로 확산됐다.",
+        "angle": "콴타스 850명 감원과 인도 외주 이전, 노조의 AI 워싱 주장, 중앙은행의 신중한 평가를 구분한다.",
+        "why_now": "11월 12일 공개된 보도는 콴타스·아틀라시안·텔스트라 등 호주 대기업의 AI 명분 감원을 함께 분석했다.",
+        "verified_at": 1794441943,
+        "published_at": 1794430911,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/business/world-at-work/australian-companies-face-ai-washing-claims-after-wave-job-cuts-offshoring-2026-11-11/",
+            "note": "콴타스는 850명 감원과 일부 업무의 해외 이전을 발표했다. 노조와 전문가는 AI보다 비용절감·외주화가 먼저라며 ‘AI 워싱’ 가능성을 제기했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/business/world-at-work/australian-companies-face-ai-washing-claims-after-wave-job-cuts-offshoring-2026-11-11/",
+            "label": "검증 기사 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "AI 워싱은 노조·전문가의 비판이며 기업의 위법 사실로 확정된 표현이 아니다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-10",
+          "observation": "콴타스는 850명 감원과 일부 업무의 해외 이전을 발표했다. 노조와 전문가는 AI보다 비용절감·외주화가 먼저라며 ‘AI 워싱’ 가능성을 제기했다.",
+          "checked_materials": [],
+          "outline": [
+            "콴타스 850명 감원에 ‘AI 워싱’ 논란…자동화 전 해외 이전부터",
+            "콴타스 850명 감원과 인도 외주 이전, 노조의 AI 워싱 주장, 중앙은행의 신중한 평가를 구분한다."
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "검증 기사 원문",
+            "url": "https://www.reuters.com/business/world-at-work/australian-companies-face-ai-washing-claims-after-wave-job-cuts-offshoring-2026-11-11/"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월 12일 공개된 보도는 콴타스·아틀라시안·텔스트라 등 호주 대기업의 AI 명분 감원을 함께 분석했다.",
+        "fetched_at": 1794442461,
+        "parser_revision": 7
+      },
+      "curation_event_key": "australia-ai-washing-job-cuts-offshoring-20261112"
+    },
     "02cb323c5f2c": {
       "source": "Reuters",
       "title": "2031·2035 여자월드컵 공동 유치안 통과…48개국 체제로 확대",
@@ -21603,369 +21958,7 @@
         "parser_revision": 7
       },
       "curation_event_key": "japan-dpr-korea-u17-womens-world-cup-semifinal-shootout-20261104"
-    },
-    "1022eed25990": {
-      "source": "AP / ABC News",
-      "title": "2년 넘게 못 뛴 아이유크, NFL 복귀 신청…49ers와 계약 갈등 다시 수면 위",
-      "link": "https://abcnews.com/Sports/wireStory/receiver-brandon-aiyuk-files-paperwork-reinstated-49ers-137848826",
-      "first_seen_at": 1793833548,
-      "last_seen_at": 1793837349,
-      "samples": [
-        {
-          "at": 1793833548,
-          "views": null,
-          "reactions": null,
-          "rank": 6,
-          "rank_kind": null
-        },
-        {
-          "at": 1793837349,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "1022eed25990",
-      "editorial": {
-        "title": "2년 넘게 못 뛴 아이유크, NFL 복귀 신청…49ers와 계약 갈등 다시 수면 위",
-        "category": "메이저 스포츠",
-        "url": "https://abcnews.com/Sports/wireStory/receiver-brandon-aiyuk-files-paperwork-reinstated-49ers-137848826",
-        "source": "AP / ABC News",
-        "kind": "article",
-        "event_key": "brandon-aiyuk-nfl-reinstatement-paperwork-agent-confirmed-20261104",
-        "why": "1억2천만달러 계약 뒤 장기 이탈한 선수가 복귀 절차를 밟으면서 구단과의 계약 갈등이 다시 쟁점이 됐다.",
-        "angle": "복귀 서류 제출→금요일 팀 복귀 계획→구단 잔류 계약과 GM의 재출전 회의론을 연결.",
-        "why_now": "새 대리인이 11월4일 서류 제출을 확인. AP 원문 게시 11월4일16:09:13 UTC(11월5일01:09:13 KST).",
-        "verified_at": 1793837028,
-        "published_at": 1793808553,
-        "evidence": [
-          {
-            "url": "https://abcnews.com/Sports/wireStory/receiver-brandon-aiyuk-files-paperwork-reinstated-49ers-137848826",
-            "note": "AP 본문에서 대리인의 NFL 복귀 신청 확인과 금요일 팀 복귀 계획, 기존 계약 유지, GM이 재출전을 기대하지 않는다는 과거 입장을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://abcnews.com/Sports/wireStory/receiver-brandon-aiyuk-files-paperwork-reinstated-49ers-137848826",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "복귀 신청은 리그 승인·경기 출전·이적 확정이 아니다. 2024년 부상과 4일 새 신청을 구분한다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-04",
-          "observation": "AP 본문에서 대리인의 NFL 복귀 신청 확인과 금요일 팀 복귀 계획, 기존 계약 유지, GM이 재출전을 기대하지 않는다는 과거 입장을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "복귀 서류 제출→금요일 팀 복귀 계획→구단 잔류 계약과 GM의 재출전 회의론을 연결.",
-            "복귀 신청은 리그 승인·경기 출전·이적 확정이 아니다. 2024년 부상과 4일 새 신청을 구분한다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://abcnews.com/Sports/wireStory/receiver-brandon-aiyuk-files-paperwork-reinstated-49ers-137848826"
-          }
-        ],
-        "excerpt": "",
-        "context": "새 대리인이 11월4일 서류 제출을 확인. AP 원문 게시 11월4일16:09:13 UTC(11월5일01:09:13 KST).",
-        "fetched_at": 1793837349,
-        "parser_revision": 7
-      },
-      "curation_event_key": "brandon-aiyuk-nfl-reinstatement-paperwork-agent-confirmed-20261104"
-    },
-    "fa6a14fa7c40": {
-      "source": "FC Barcelona",
-      "title": "바르사 로드리, 햄스트링 부상으로 아틀레티코전 결장…복귀 시점은 미정",
-      "link": "https://www.fcbarcelona.com/en/football/first-team/news/4604306/rodri-injury-news/featured",
-      "first_seen_at": 1793837349,
-      "last_seen_at": 1793837349,
-      "samples": [
-        {
-          "at": 1793837349,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "official",
-      "story_id": "fa6a14fa7c40",
-      "editorial": {
-        "title": "바르사 로드리, 햄스트링 부상으로 아틀레티코전 결장…복귀 시점은 미정",
-        "category": "축구",
-        "url": "https://www.fcbarcelona.com/en/football/first-team/news/4604306/rodri-injury-news/featured",
-        "source": "FC Barcelona",
-        "kind": "official",
-        "event_key": "barcelona-rodri-hamstring-atletico-absence-medical-20261104",
-        "why": "발롱도르 수상 미드필더의 결장으로 바르사의 아틀레티코 원정 전력에 변수가 생겼다.",
-        "angle": "구단 검사 결과→아틀레티코전 결장 확정→복귀 시점은 경과에 달렸다는 공식 입장 순서.",
-        "why_now": "구단 원문 최초 공개일은 11월4일(일 단위). 3일 애스턴빌라전 이상 뒤 4일 검사 결과를 발표했다. 기사 갱신 시각과 구분.",
-        "verified_at": 1793837166,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.fcbarcelona.com/en/football/first-team/news/4604306/rodri-injury-news/featured",
-            "note": "구단 의료 발표 본문에서 오른쪽 햄스트링의 경미한 부상, 다음 일요일 아틀레티코전 결장, 경과에 따른 복귀 결정을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.fcbarcelona.com/en/football/first-team/news/4604306/rodri-injury-news/featured",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "경미한 부상이라는 공식 표현을 유지. 장기 결장·수술·확정 복귀일을 추정하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-04",
-          "observation": "구단 의료 발표 본문에서 오른쪽 햄스트링의 경미한 부상, 다음 일요일 아틀레티코전 결장, 경과에 따른 복귀 결정을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "구단 검사 결과→아틀레티코전 결장 확정→복귀 시점은 경과에 달렸다는 공식 입장 순서.",
-            "경미한 부상이라는 공식 표현을 유지. 장기 결장·수술·확정 복귀일을 추정하지 않는다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://www.fcbarcelona.com/en/football/first-team/news/4604306/rodri-injury-news/featured"
-          }
-        ],
-        "excerpt": "",
-        "context": "구단 원문 최초 공개일은 11월4일(일 단위). 3일 애스턴빌라전 이상 뒤 4일 검사 결과를 발표했다. 기사 갱신 시각과 구분.",
-        "fetched_at": 1793837349,
-        "parser_revision": 7
-      },
-      "curation_event_key": "barcelona-rodri-hamstring-atletico-absence-medical-20261104"
-    },
-    "4952e4a9a197": {
-      "source": "Reuters / CNA",
-      "title": "텍사스 새 주지사 당선인의 데이터센터 승인 유예 공약…AI 투자 불확실성 커졌다",
-      "link": "https://www.channelnewsasia.com/business/texas-data-centers-face-uncertain-future-after-hinojosa-wins-governors-race-6525056",
-      "first_seen_at": 1793837349,
-      "last_seen_at": 1793837349,
-      "samples": [
-        {
-          "at": 1793837349,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "4952e4a9a197",
-      "editorial": {
-        "title": "텍사스 새 주지사 당선인의 데이터센터 승인 유예 공약…AI 투자 불확실성 커졌다",
-        "category": "시사",
-        "url": "https://www.channelnewsasia.com/business/texas-data-centers-face-uncertain-future-after-hinojosa-wins-governors-race-6525056",
-        "source": "Reuters / CNA",
-        "kind": "article",
-        "event_key": "texas-hinojosa-election-data-center-approval-moratorium-policy-20261104",
-        "why": "AI 투자 거점의 선거 결과가 전기·물·주민 권리와 충돌하며 수십억달러 사업의 정책 변수가 됐다.",
-        "angle": "당선→신규 승인 유예 공약→기존 전력망 연결 제한과 앞으로의 입법을 구분해 설명.",
-        "why_now": "당선은 11월3일, 새 정책 영향 취재는 4일. 확인한 CNA 최초 게시 11월4일17:23:40 UTC이며 5일 갱신을 최초 공개로 쓰지 않는다.",
-        "verified_at": 1793837168,
-        "published_at": 1793813020,
-        "evidence": [
-          {
-            "url": "https://www.channelnewsasia.com/business/texas-data-centers-face-uncertain-future-after-hinojosa-wins-governors-race-6525056",
-            "note": "Reuters 전재 본문에서 히노호사의 신규 승인 유예 공약, 애벗의 8월 전력망 연결 제한, 업계 대응과 향후 주 의회 입법 필요성을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.channelnewsasia.com/business/texas-data-centers-face-uncertain-future-after-hinojosa-wins-governors-race-6525056",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "유예 공약이지 전면 금지 시행이 아니다. 지연·이전 전망은 취재원 견해이며 확정 투자 취소로 쓰지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-04",
-          "observation": "Reuters 전재 본문에서 히노호사의 신규 승인 유예 공약, 애벗의 8월 전력망 연결 제한, 업계 대응과 향후 주 의회 입법 필요성을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "당선→신규 승인 유예 공약→기존 전력망 연결 제한과 앞으로의 입법을 구분해 설명.",
-            "유예 공약이지 전면 금지 시행이 아니다. 지연·이전 전망은 취재원 견해이며 확정 투자 취소로 쓰지 않는다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://www.channelnewsasia.com/business/texas-data-centers-face-uncertain-future-after-hinojosa-wins-governors-race-6525056"
-          }
-        ],
-        "excerpt": "",
-        "context": "당선은 11월3일, 새 정책 영향 취재는 4일. 확인한 CNA 최초 게시 11월4일17:23:40 UTC이며 5일 갱신을 최초 공개로 쓰지 않는다.",
-        "fetched_at": 1793837349,
-        "parser_revision": 7
-      },
-      "curation_event_key": "texas-hinojosa-election-data-center-approval-moratorium-policy-20261104"
-    },
-    "c90fc81f7b6a": {
-      "source": "CNA",
-      "title": "대통령 도청 의혹에 인도네시아 비서실장 해임…취임 한 달 만에 교체",
-      "link": "https://www.channelnewsasia.com/asia/indonesia-deploys-troops-jakarta-wiretapping-arrests-6523396",
-      "first_seen_at": 1793837349,
-      "last_seen_at": 1793837349,
-      "samples": [
-        {
-          "at": 1793837349,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "c90fc81f7b6a",
-      "editorial": {
-        "title": "대통령 도청 의혹에 인도네시아 비서실장 해임…취임 한 달 만에 교체",
-        "category": "시사",
-        "url": "https://www.channelnewsasia.com/asia/indonesia-deploys-troops-jakarta-wiretapping-arrests-6523396",
-        "source": "CNA",
-        "kind": "article",
-        "event_key": "indonesia-listyo-chief-of-staff-dismissal-wiretapping-20261104",
-        "why": "전 경찰청장이 대통령 통신을 겨냥한 의혹 수사로 임명 한 달 만에 교체된 권력 핵심 사건이다.",
-        "angle": "11월4일 해임과 직무대행 임명→도청 의혹 수사→확인되지 않은 연결 관계를 명확히 표시.",
-        "why_now": "체포 의혹 공개는 3일, 해임·직무대행 발표는 4일의 새 조치. 확인 기사 최초 공개 11월4일09:41:15 UTC(18:41:15 KST).",
-        "verified_at": 1793837028,
-        "published_at": 1793785275,
-        "evidence": [
-          {
-            "url": "https://www.channelnewsasia.com/asia/indonesia-deploys-troops-jakarta-wiretapping-arrests-6523396",
-            "note": "CNA 본문에서 리스트요 시깃 대통령 비서실장의 4일 해임과 아리요 윈두토모 직무대행 임명을 확인했다. 도청은 수사 중 의혹이며 군 배치와의 관계는 당국이 확인하지 않았다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.channelnewsasia.com/asia/indonesia-deploys-troops-jakarta-wiretapping-arrests-6523396",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "범죄·반역 확정이나 쿠데타로 단정하지 않는다. 수도 군 배치가 도청 수사 때문이라고 연결하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-04",
-          "observation": "CNA 본문에서 리스트요 시깃 대통령 비서실장의 4일 해임과 아리요 윈두토모 직무대행 임명을 확인했다. 도청은 수사 중 의혹이며 군 배치와의 관계는 당국이 확인하지 않았다.",
-          "checked_materials": [],
-          "outline": [
-            "11월4일 해임과 직무대행 임명→도청 의혹 수사→확인되지 않은 연결 관계를 명확히 표시.",
-            "범죄·반역 확정이나 쿠데타로 단정하지 않는다. 수도 군 배치가 도청 수사 때문이라고 연결하지 않는다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://www.channelnewsasia.com/asia/indonesia-deploys-troops-jakarta-wiretapping-arrests-6523396"
-          }
-        ],
-        "excerpt": "",
-        "context": "체포 의혹 공개는 3일, 해임·직무대행 발표는 4일의 새 조치. 확인 기사 최초 공개 11월4일09:41:15 UTC(18:41:15 KST).",
-        "fetched_at": 1793837349,
-        "parser_revision": 7
-      },
-      "curation_event_key": "indonesia-listyo-chief-of-staff-dismissal-wiretapping-20261104"
-    },
-    "4ce39a04605b": {
-      "source": "Pride of Detroit",
-      "title": "경기 중 목 다쳐 입원한 NFL 캠벨, 첫 성명 “하체 전부 움직인다”",
-      "link": "https://www.prideofdetroit.com/detroit-lions-news/179695/detroit-lions-jack-campbell-injury-update-offers-update-statement-body-movement",
-      "first_seen_at": 1793837349,
-      "last_seen_at": 1793837349,
-      "samples": [
-        {
-          "at": 1793837349,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "4ce39a04605b",
-      "editorial": {
-        "title": "경기 중 목 다쳐 입원한 NFL 캠벨, 첫 성명 “하체 전부 움직인다”",
-        "category": "메이저 스포츠",
-        "url": "https://www.prideofdetroit.com/detroit-lions-news/179695/detroit-lions-jack-campbell-injury-update-offers-update-statement-body-movement",
-        "source": "Pride of Detroit",
-        "kind": "article",
-        "event_key": "jack-campbell-first-statement-lower-body-movement-neck-injury-20261104",
-        "why": "들것에 실려 나갔던 선수의 직접 성명이 회복 상태를 구체적으로 밝혀 큰 부상의 중요한 후속이 됐다.",
-        "angle": "경기 중 목 부상→4일 본인 성명→하체 움직임과 상체 회복 진행 상황을 분리해 제시.",
-        "why_now": "부상 경기는 11월1일. 새 본인 성명은 4일 공개됐으며 확인 기사 최초 게시 11월4일17:38:33 UTC(5일02:38:33 KST).",
-        "verified_at": 1793837167,
-        "published_at": 1793813913,
-        "evidence": [
-          {
-            "url": "https://www.prideofdetroit.com/detroit-lions-news/179695/detroit-lions-jack-campbell-injury-update-offers-update-statement-body-movement",
-            "note": "팀이 배포한 본인 성명 전문을 기사 본문에서 확인했다. 하체는 전부 움직일 수 있고 상체 움직임은 개선 중이라고 밝혔으며 입원 치료가 계속된다고 보도했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.prideofdetroit.com/detroit-lions-news/179695/detroit-lions-jack-campbell-injury-update-offers-update-statement-body-movement",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "11월1일 사고 재탕이 아닌 4일 새 성명 후속. 완치·마비 해소·경기 복귀 가능성을 단정하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-04",
-          "observation": "팀이 배포한 본인 성명 전문을 기사 본문에서 확인했다. 하체는 전부 움직일 수 있고 상체 움직임은 개선 중이라고 밝혔으며 입원 치료가 계속된다고 보도했다.",
-          "checked_materials": [],
-          "outline": [
-            "경기 중 목 부상→4일 본인 성명→하체 움직임과 상체 회복 진행 상황을 분리해 제시.",
-            "11월1일 사고 재탕이 아닌 4일 새 성명 후속. 완치·마비 해소·경기 복귀 가능성을 단정하지 않는다."
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://www.prideofdetroit.com/detroit-lions-news/179695/detroit-lions-jack-campbell-injury-update-offers-update-statement-body-movement"
-          }
-        ],
-        "excerpt": "",
-        "context": "부상 경기는 11월1일. 새 본인 성명은 4일 공개됐으며 확인 기사 최초 게시 11월4일17:38:33 UTC(5일02:38:33 KST).",
-        "fetched_at": 1793837349,
-        "parser_revision": 7
-      },
-      "curation_event_key": "jack-campbell-first-statement-lower-body-movement-neck-injury-20261104"
     }
   },
-  "updated_at": 1794438369
+  "updated_at": 1794442461
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": 1794438370,
+  "updated_at": 1794442462,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,7 +15,7 @@
     "requested_stories": 5,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026111123",
+    "hour_utc": "2026111200",
     "category_counts": {
       "시사": 4,
       "축구": 1,
@@ -23,32 +23,32 @@
       "아이돌": 0
     },
     "research_queries": 6,
-    "opened_sources": 8,
+    "opened_sources": 7,
     "picks": [
       {
-        "title": "2031·2035 여자월드컵 공동 유치안 통과…48개국 체제로 확대",
-        "url": "https://www.reuters.com/sports/soccer/fifa-clears-joint-bids-2031-2035-womens-world-cups-2026-11-11/",
-        "event_key": "fifa-womens-world-cup-2031-2035-joint-bids-cleared-20261111"
+        "title": "미국, 카타르 U-17 월드컵 불참…무력충돌 위험에 대표팀 철수",
+        "url": "https://www.reuters.com/sports/soccer/us-pulls-mens-under-17-team-world-cup-qatar-over-safety-concerns-2026-11-11/",
+        "event_key": "us-u17-world-cup-qatar-withdrawal-safety-20261111"
       },
       {
-        "title": "엔비디아 이사회, 젠슨 황 해임 준비 보도…주가 시간외 8% 급락",
-        "url": "https://www.reuters.com/technology/nvidia-is-preparing-oust-ceo-jensen-huang-wsj-reports-2026-11-11/",
-        "event_key": "nvidia-board-preparing-to-oust-jensen-huang-wsj-report-20261111"
+        "title": "이지젯, 76억달러 아폴로 인수안 주주 승인…25년 상장 종료 수순",
+        "url": "https://www.reuters.com/business/easyjet-shareholders-approve-57-billion-apollo-takeover-2026-11-11/",
+        "event_key": "easyjet-apollo-takeover-shareholder-approval-20261111"
       },
       {
-        "title": "이란, 호르무즈 복구 핵심시설 타격…오만 섬 항법장비 겨냥",
-        "url": "https://www.reuters.com/world/middle-east/iran-attacks-shipping-navigation-systems-omans-didamar-island-sources-say-2026-11-11/",
-        "event_key": "iran-didamar-navigation-systems-attack-hormuz-20261111"
+        "title": "호주 CBA, 기업고객 4만2천곳 수수료 과다청구 혐의로 피소",
+        "url": "https://www.reuters.com/legal/government/australian-watchdog-sues-cba-over-allegations-overcharging-customers-2026-11-11/",
+        "event_key": "australia-asic-cba-commbiz-overcharging-lawsuit-20261112"
       },
       {
-        "title": "미얀마 군정, 미국에 희토류 투자 요청…중국 독점 공급망 흔드나",
-        "url": "https://www.reuters.com/world/china/myanmar-lobbies-us-invest-its-rare-earths-sector-dominated-by-china-2026-11-10/",
-        "event_key": "myanmar-us-rare-earth-investment-lobbying-20261110"
+        "title": "RWE·KKR, 영국 해상풍력에 160억달러 확정…300만 가구 전력 규모",
+        "url": "https://www.reuters.com/business/energy/rwe-kkr-finalise-16-billion-investment-uk-renewables-2026-11-11/",
+        "event_key": "rwe-kkr-uk-offshore-wind-16-billion-20261111"
       },
       {
-        "title": "엑손, 베네수엘라 7개 유전 검토…1년 독점 협상권 확보",
-        "url": "https://www.reuters.com/business/energy/exxon-assessing-7-areas-venezuela-possible-energy-projects-sources-say-2026-11-11/",
-        "event_key": "exxon-venezuela-seven-energy-areas-preliminary-pact-20261111"
+        "title": "콴타스 850명 감원에 ‘AI 워싱’ 논란…자동화 전 해외 이전부터",
+        "url": "https://www.reuters.com/business/world-at-work/australian-companies-face-ai-washing-claims-after-wave-job-cuts-offshoring-2026-11-11/",
+        "event_key": "australia-ai-washing-job-cuts-offshoring-20261112"
       }
     ]
   }

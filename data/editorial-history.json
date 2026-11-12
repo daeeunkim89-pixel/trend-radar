@@ -2,39 +2,6 @@
   "version": 1,
   "editions": [
     {
-      "hour_utc": "2026110500",
-      "at": 1793837350,
-      "delivery": "sent",
-      "delivery_key": "hourly-2026110500",
-      "picks": [
-        {
-          "title": "바르사 로드리, 햄스트링 부상으로 아틀레티코전 결장…복귀 시점은 미정",
-          "url": "https://www.fcbarcelona.com/en/football/first-team/news/4604306/rodri-injury-news/featured",
-          "event_key": "barcelona-rodri-hamstring-atletico-absence-medical-20261104"
-        },
-        {
-          "title": "2년 넘게 못 뛴 아이유크, NFL 복귀 신청…49ers와 계약 갈등 다시 수면 위",
-          "url": "https://abcnews.com/Sports/wireStory/receiver-brandon-aiyuk-files-paperwork-reinstated-49ers-137848826",
-          "event_key": "brandon-aiyuk-nfl-reinstatement-paperwork-agent-confirmed-20261104"
-        },
-        {
-          "title": "텍사스 새 주지사 당선인의 데이터센터 승인 유예 공약…AI 투자 불확실성 커졌다",
-          "url": "https://www.channelnewsasia.com/business/texas-data-centers-face-uncertain-future-after-hinojosa-wins-governors-race-6525056",
-          "event_key": "texas-hinojosa-election-data-center-approval-moratorium-policy-20261104"
-        },
-        {
-          "title": "대통령 도청 의혹에 인도네시아 비서실장 해임…취임 한 달 만에 교체",
-          "url": "https://www.channelnewsasia.com/asia/indonesia-deploys-troops-jakarta-wiretapping-arrests-6523396",
-          "event_key": "indonesia-listyo-chief-of-staff-dismissal-wiretapping-20261104"
-        },
-        {
-          "title": "경기 중 목 다쳐 입원한 NFL 캠벨, 첫 성명 “하체 전부 움직인다”",
-          "url": "https://www.prideofdetroit.com/detroit-lions-news/179695/detroit-lions-jack-campbell-injury-update-offers-update-statement-body-movement",
-          "event_key": "jack-campbell-first-statement-lower-body-movement-neck-injury-20261104"
-        }
-      ]
-    },
-    {
       "hour_utc": "2026110501",
       "at": 1793841245,
       "delivery": "sent",
@@ -1912,6 +1879,39 @@
           "title": "엑손, 베네수엘라 7개 유전 검토…1년 독점 협상권 확보",
           "url": "https://www.reuters.com/business/energy/exxon-assessing-7-areas-venezuela-possible-energy-projects-sources-say-2026-11-11/",
           "event_key": "exxon-venezuela-seven-energy-areas-preliminary-pact-20261111"
+        }
+      ]
+    },
+    {
+      "hour_utc": "2026111200",
+      "at": 1794442462,
+      "delivery": "sent",
+      "delivery_key": "hourly-2026111200",
+      "picks": [
+        {
+          "title": "미국, 카타르 U-17 월드컵 불참…무력충돌 위험에 대표팀 철수",
+          "url": "https://www.reuters.com/sports/soccer/us-pulls-mens-under-17-team-world-cup-qatar-over-safety-concerns-2026-11-11/",
+          "event_key": "us-u17-world-cup-qatar-withdrawal-safety-20261111"
+        },
+        {
+          "title": "이지젯, 76억달러 아폴로 인수안 주주 승인…25년 상장 종료 수순",
+          "url": "https://www.reuters.com/business/easyjet-shareholders-approve-57-billion-apollo-takeover-2026-11-11/",
+          "event_key": "easyjet-apollo-takeover-shareholder-approval-20261111"
+        },
+        {
+          "title": "호주 CBA, 기업고객 4만2천곳 수수료 과다청구 혐의로 피소",
+          "url": "https://www.reuters.com/legal/government/australian-watchdog-sues-cba-over-allegations-overcharging-customers-2026-11-11/",
+          "event_key": "australia-asic-cba-commbiz-overcharging-lawsuit-20261112"
+        },
+        {
+          "title": "RWE·KKR, 영국 해상풍력에 160억달러 확정…300만 가구 전력 규모",
+          "url": "https://www.reuters.com/business/energy/rwe-kkr-finalise-16-billion-investment-uk-renewables-2026-11-11/",
+          "event_key": "rwe-kkr-uk-offshore-wind-16-billion-20261111"
+        },
+        {
+          "title": "콴타스 850명 감원에 ‘AI 워싱’ 논란…자동화 전 해외 이전부터",
+          "url": "https://www.reuters.com/business/world-at-work/australian-companies-face-ai-washing-claims-after-wave-job-cuts-offshoring-2026-11-11/",
+          "event_key": "australia-ai-washing-job-cuts-offshoring-20261112"
         }
       ]
     }
