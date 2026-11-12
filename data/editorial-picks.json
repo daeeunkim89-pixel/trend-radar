@@ -2,7 +2,7 @@
   "version": 2,
   "hour_utc": "2026111200",
   "reviewer": "ChatGPT",
-  "generated_at": 1794441943,
+  "generated_at": 1794442173,
   "coverage": {
     "queries": [
       "site:reuters.com/sports November 12 2026 latest soccer football sports Reuters",
@@ -17,10 +17,13 @@
       "https://www.reuters.com/world/europe/russia-shoots-down-92-drones-over-leningrad-region-2026-11-11/",
       "https://www.reuters.com/business/retail-consumer/unilever-mccormick-food-deal-may-weaken-uk-competition-watchdog-says-2026-11-11/",
       "https://www.reuters.com/business/energy/rwe-kkr-finalise-16-billion-investment-uk-renewables-2026-11-11/",
-      "https://www.reuters.com/business/world-at-work/australian-companies-face-ai-washing-claims-after-wave-job-cuts-offshoring-2026-11-11/"
+      "https://www.reuters.com/business/world-at-work/australian-companies-face-ai-washing-claims-after-wave-job-cuts-offshoring-2026-11-11/",
+      "https://www.reuters.com/business/easyjet-shareholders-approve-57-billion-apollo-takeover-2026-11-11/",
+      "https://www.reuters.com/legal/government/australian-watchdog-sues-cba-over-allegations-overcharging-customers-2026-11-11/"
     ],
     "unavailable": [
-      "run_usage: start=2026-11-12T00:01:07Z; end=2026-11-12T00:05:43Z; elapsed=276s; queries=6; opened=5; failed=0; endpoint=review_complete"
+      "run_usage: start=2026-11-12T00:01:07Z; end=2026-11-12T00:09:33Z; elapsed=506s; queries=6; opened=7; failed=0; endpoint=retry_review_complete",
+      "server_hidden_duplicates: 2 picks excluded before delivery; replaced with newly opened independent articles"
     ]
   },
   "picks": [
@@ -62,76 +65,76 @@
       }
     },
     {
-      "title": "러시아 “레닌그라드 상공 드론 92대 격추”…핵심 항만·정유시설 비상",
+      "title": "이지젯, 76억달러 아폴로 인수안 주주 승인…25년 상장 종료 수순",
       "category": "시사",
-      "url": "https://www.reuters.com/world/europe/russia-shoots-down-92-drones-over-leningrad-region-2026-11-11/",
+      "url": "https://www.reuters.com/business/easyjet-shareholders-approve-57-billion-apollo-takeover-2026-11-11/",
       "source": "Reuters",
       "kind": "article",
-      "event_key": "russia-leningrad-92-drones-20261111",
-      "why": "러시아 핵심 수출항과 제2 규모 정유시설이 있는 지역에서 대규모 드론 공격이 보고된 전쟁 중대 후속이다.",
-      "angle": "92대 격추 주장과 발트해 수출항·키리시 정유시설의 전략적 의미, 주변국 방공 대응을 분리해 설명한다.",
-      "why_now": "레닌그라드 주지사가 11월 11일 새벽 공격을 발표했고 라트비아·리투아니아도 미확인 드론에 경보를 냈다.",
-      "verified_at": 1794441943,
-      "published_at": 1794356589,
+      "event_key": "easyjet-apollo-takeover-shareholder-approval-20261111",
+      "why": "유럽 항공사 최대급 사모펀드 인수 중 하나가 주주 승인을 넘으며 이지젯의 25년 런던 상장 종료가 가까워졌다.",
+      "angle": "주주 찬성률과 2027년 1분기 완료 목표, EU 항공사 소유권 규제라는 남은 관문을 분리해 보여준다.",
+      "why_now": "이지젯 주주들이 11월 11일 57억파운드 규모 아폴로 인수안을 승인했다.",
+      "verified_at": 1794442173,
+      "published_at": 1794397834,
       "evidence": [
         {
-          "url": "https://www.reuters.com/world/europe/russia-shoots-down-92-drones-over-leningrad-region-2026-11-11/",
-          "note": "레닌그라드 주지사는 드론 92대를 격추했다고 밝혔다. 이 지역에는 우스트루가 등 주요 항만과 러시아 제2 규모 키리시 정유시설이 있다."
+          "url": "https://www.reuters.com/business/easyjet-shareholders-approve-57-billion-apollo-takeover-2026-11-11/",
+          "note": "이지젯은 의결된 스킴 주식의 97.07%가 인수안에 찬성했다고 밝혔다. 회사는 2027년 1분기 말 이전 거래 완료를 목표로 한다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/world/europe/russia-shoots-down-92-drones-over-leningrad-region-2026-11-11/",
+          "url": "https://www.reuters.com/business/easyjet-shareholders-approve-57-billion-apollo-takeover-2026-11-11/",
           "label": "검증 기사 원문",
           "kind": "source"
         }
       ],
-      "caution": "Reuters는 러시아 측 격추 주장을 독립적으로 확인하지 못했다.",
+      "caution": "주주 승인은 완료됐지만 EU 소유권 규제 심사와 노조 반대가 남아 있다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-11",
-        "observation": "레닌그라드 주지사는 드론 92대를 격추했다고 밝혔다. 이 지역에는 우스트루가 등 주요 항만과 러시아 제2 규모 키리시 정유시설이 있다.",
+        "observation": "이지젯은 의결된 스킴 주식의 97.07%가 인수안에 찬성했다고 밝혔다. 회사는 2027년 1분기 말 이전 거래 완료를 목표로 한다.",
         "checked_materials": [],
         "outline": [
-          "러시아 “레닌그라드 상공 드론 92대 격추”…핵심 항만·정유시설 비상",
-          "92대 격추 주장과 발트해 수출항·키리시 정유시설의 전략적 의미, 주변국 방공 대응을 분리해 설명한다."
+          "이지젯, 76억달러 아폴로 인수안 주주 승인…25년 상장 종료 수순",
+          "주주 찬성률과 2027년 1분기 완료 목표, EU 항공사 소유권 규제라는 남은 관문을 분리해 보여준다."
         ]
       }
     },
     {
-      "title": "영국, 650억달러 유니레버·맥코믹 식품 합병에 시정조치 요구",
+      "title": "호주 CBA, 기업고객 4만2천곳 수수료 과다청구 혐의로 피소",
       "category": "시사",
-      "url": "https://www.reuters.com/business/retail-consumer/unilever-mccormick-food-deal-may-weaken-uk-competition-watchdog-says-2026-11-11/",
+      "url": "https://www.reuters.com/legal/government/australian-watchdog-sues-cba-over-allegations-overcharging-customers-2026-11-11/",
       "source": "Reuters",
       "kind": "article",
-      "event_key": "unilever-mccormick-uk-cma-remedies-20261111",
-      "why": "세계 식품업계 두 번째 규모 거래가 영국 경쟁당국의 심층 조사 또는 자산 매각 갈림길에 섰다.",
-      "angle": "650억달러 거래 규모와 건조 소스·조리 믹스 경쟁 우려, 11월 18일 시정안 기한을 핵심으로 잡는다.",
-      "why_now": "영국 CMA가 11월 11일 경쟁 우려를 공개하고 시정안이 없으면 심층 조사에 착수한다고 밝혔다.",
-      "verified_at": 1794441943,
-      "published_at": 1794381535,
+      "event_key": "australia-asic-cba-commbiz-overcharging-lawsuit-20261112",
+      "why": "호주 최대 은행의 주력 기업뱅킹 서비스에서 4만2천 고객·850만호주달러 규모 과다청구가 제기된 대형 금융사건이다.",
+      "angle": "ASIC의 민사제재 소송과 피해 규모, 2015년 민원·2016년 내부감사 지적, CBA 반론을 함께 정리한다.",
+      "why_now": "호주 증권투자위원회가 11월 12일 연방법원에 CBA를 상대로 민사제재 절차를 시작했다.",
+      "verified_at": 1794442173,
+      "published_at": 1794440040,
       "evidence": [
         {
-          "url": "https://www.reuters.com/business/retail-consumer/unilever-mccormick-food-deal-may-weaken-uk-competition-watchdog-says-2026-11-11/",
-          "note": "영국 CMA는 유니레버와 맥코믹의 650억달러 식품사업 결합이 건조 조리 믹스와 소스 경쟁을 약화할 수 있다며 11월 18일까지 시정안을 요구했다."
+          "url": "https://www.reuters.com/legal/government/australian-watchdog-sues-cba-over-allegations-overcharging-customers-2026-11-11/",
+          "note": "ASIC은 2020년 11월부터 2025년 5월까지 CommBiz 고객 약 4만2천곳에 약 850만호주달러의 미고지 수수료가 부과됐다고 주장했다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/business/retail-consumer/unilever-mccormick-food-deal-may-weaken-uk-competition-watchdog-says-2026-11-11/",
+          "url": "https://www.reuters.com/legal/government/australian-watchdog-sues-cba-over-allegations-overcharging-customers-2026-11-11/",
           "label": "검증 기사 원문",
           "kind": "source"
         }
       ],
-      "caution": "합병은 확정 완료가 아니며 시정조치나 심층 조사, 차단 가능성이 남아 있다.",
+      "caution": "과다청구는 ASIC의 혐의이며 CBA는 일부 주장 방식을 받아들이지 않고 방어하겠다고 밝혔다.",
       "readiness": {
         "mode": "major_news",
-        "event_date": "2026-11-11",
-        "observation": "영국 CMA는 유니레버와 맥코믹의 650억달러 식품사업 결합이 건조 조리 믹스와 소스 경쟁을 약화할 수 있다며 11월 18일까지 시정안을 요구했다.",
+        "event_date": "2026-11-12",
+        "observation": "ASIC은 2020년 11월부터 2025년 5월까지 CommBiz 고객 약 4만2천곳에 약 850만호주달러의 미고지 수수료가 부과됐다고 주장했다.",
         "checked_materials": [],
         "outline": [
-          "영국, 650억달러 유니레버·맥코믹 식품 합병에 시정조치 요구",
-          "650억달러 거래 규모와 건조 소스·조리 믹스 경쟁 우려, 11월 18일 시정안 기한을 핵심으로 잡는다."
+          "호주 CBA, 기업고객 4만2천곳 수수료 과다청구 혐의로 피소",
+          "ASIC의 민사제재 소송과 피해 규모, 2015년 민원·2016년 내부감사 지적, CBA 반론을 함께 정리한다."
         ]
       }
     },
