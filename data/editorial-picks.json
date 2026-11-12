@@ -1,219 +1,413 @@
 {
   "version": 2,
-  "hour_utc": "2026111201",
+  "hour_utc": "2026111205",
   "reviewer": "ChatGPT",
-  "generated_at": 1794445670,
+  "generated_at": 1794460243,
   "coverage": {
     "queries": [
-      "November 12 2026 latest major football soccer sports news Reuters official",
-      "November 12 2026 latest major sports breaking news Reuters",
-      "November 12 2026 latest breaking world news Reuters major event",
-      "2026년 11월 12일 10시 주요 스포츠 축구 속보 연합뉴스 SBS YTN 뉴시스",
-      "지소연 성희롱 발언 심판 3개월 출전 정지 2026 11 11 연합뉴스 SBS 뉴시스 원문",
-      "site:reuters.com November 12 2026 00:00 UTC latest major world sports business news"
+      "2026년 11월 12일 오후 스포츠 속보 공식 발표 우승 탈락 이적 한국 선수",
+      "site:yna.co.kr 2026 11 12 스포츠 속보 오후",
+      "site:news.sbs.co.kr 2026 11 12 스포츠 오후",
+      "November 12 2026 major sports news official announcement title transfer world star",
+      "\"2026.11.12\" \"11:\" 스포츠 속보",
+      "November 12 2026 Reuters sports breaking news Asia Korea 04:00 UTC",
+      "November 12 2026 Cy Young winner official major sports title announced today",
+      "2026년 11월 12일 11시 12시 13시 공식발표 스포츠 우승 경질 재계약 사이영상"
     ],
     "opened_urls": [
-      "https://www.yna.co.kr/view/AKR20261111154800007?section=sports/all",
-      "https://www.devdiscourse.com/article/international/4005446-reuters-sports-news-summary",
-      "https://www.devdiscourse.com/article/international/4005447-reuters-world-news-summary",
-      "https://nwww.newsis.com/live/today/5",
-      "https://www.macaupostdaily.com/attachment/files/2026/11/12/1.pdf.pdf",
-      "https://korea.stream/en/world?src=Reuters",
-      "https://nwww.newsis.com/view/NISX20261112_0003864635",
-      "https://nwww.newsis.com/view/NISX20261112_0003864639",
-      "https://nwww.newsis.com/view/NISX20261112_0003864829",
-      "https://nwww.newsis.com/view/NISX20261111_0003864554",
-      "https://nwww.newsis.com/view/NISX20261112_0003864875",
-      "https://nwww.newsis.com/view/NISX20261111_0003864355"
+      "https://www.reuters.com/world/china/south-korea-sees-little-prospect-us-north-korea-contact-around-apec-2026-11-12/",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842215",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842590",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842311",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842947",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842828",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842804",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842803",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842807",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842880",
+      "https://www.reuters.com/world/china/chinas-xi-says-taiwan-reunification-must-happen-history-cannot-be-stopped-2026-11-12/",
+      "https://www.reuters.com/world/china/senior-us-democratic-senators-urge-administration-preserve-nvidia-export-records-2026-11-12/",
+      "https://www.reuters.com/world/asia-pacific/indonesian-police-say-they-have-enough-initial-evidence-pursue-treason-charges-2026-11-12/",
+      "https://www.mlb.com/news",
+      "https://www.mlb.com/video/jacob-misiorowski-unanimously-wins-nl-cy-young-award",
+      "https://www.reuters.com/world/asia-pacific/malaysia-says-convicted-ex-pm-najib-can-be-returned-jail-if-he-breaches-house-2026-11-12/",
+      "https://www.reuters.com/world/china/taiwan-is-taking-part-apec-china-summit-an-equal-basis-president-says-2026-11-12/",
+      "https://www.reuters.com/business/anthropic-ipo-raise-much-644-billion-latest-draft-prospectus-shows-2026-11-10/",
+      "https://www.cbssports.com/mlb/news/2026-mlb-cy-young-cam-schlittler-yankees-american-league/"
     ],
     "unavailable": [
-      "body_failures: devdiscourse sports/world summary URLs each failed once; switched to accessible public originals",
-      "run_usage: queries=6; opened=10; failed=2; start=2026-11-12T01:03:18Z; elapsed_seconds=272; endpoint=review_complete"
+      "body_failure: one CBS related-article click could not be resolved; no retry",
+      "run_usage: queries=8; opened=19; failed=1; start=2026-11-12T05:04:43Z; elapsed_seconds=360; endpoint=review_complete"
     ]
   },
   "picks": [
     {
-      "title": "지소연 성희롱 발언 심판, 최저 수위 3개월 출전정지",
-      "category": "축구",
-      "url": "https://www.yna.co.kr/view/AKR20261111154800007?section=sports/all",
-      "source": "연합뉴스",
+      "title": "MLB 양대 사이영상, 슐리틀러·미시오로스키 만장일치 수상",
+      "category": "메이저 스포츠",
+      "url": "https://www.cbssports.com/mlb/news/2026-mlb-cy-young-cam-schlittler-yankees-american-league/",
+      "source": "CBS Sports",
       "kind": "article",
-      "event_key": "ji-so-yun-referee-sexual-harassment-three-month-suspension-20261111",
-      "why": "한국 여자축구 간판선수에게 경기 중 성희롱성 발언을 한 심판의 공식 징계가 확인된 중대한 협회 사건이다.",
-      "angle": "문제가 된 발언과 지소연의 항의, 협회 규정상 최저 수위 징계, 구단의 재심 포기 결정을 순서대로 정리한다.",
-      "why_now": "수원FC가 11월 11일 해당 심판의 3개월 출전정지 통보 사실을 공개 확인했다.",
-      "verified_at": 1794445670,
-      "published_at": 1794384300,
+      "event_key": "mlb-2026-cy-young-schlittler-misiorowski-unanimous-20261112",
+      "why": "메이저리그 최고 투수상 양대 리그 수상자가 모두 만장일치로 확정된 드문 결과다.",
+      "angle": "두 투수의 만장일치 수상과 슐리틀러의 양키스 구단 기록, 미시오로스키의 공식 수상을 한 흐름으로 정리한다.",
+      "why_now": "BBWAA 투표 결과가 11월 11일 저녁 미국에서 공식 발표됐다.",
+      "verified_at": 1794460243,
+      "published_at": 1794442800,
       "evidence": [
         {
-          "url": "https://www.yna.co.kr/view/AKR20261111154800007?section=sports/all",
-          "note": "수원FC는 협회가 해당 심판에게 3개월 출전정지를 통보했다고 밝혔다. 기사에 따르면 이는 해당 규정의 최저 징계 수준이다."
+          "url": "https://www.cbssports.com/mlb/news/2026-mlb-cy-young-cam-schlittler-yankees-american-league/",
+          "note": "캠 슐리틀러는 30표 전부를 받아 AL 사이영상을 수상했고, MLB 공식 자료는 제이컵 미시오로스키의 NL 만장일치 수상을 확인했다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.yna.co.kr/view/AKR20261111154800007?section=sports/all",
+          "url": "https://www.cbssports.com/mlb/news/2026-mlb-cy-young-cam-schlittler-yankees-american-league/",
           "label": "검증 기사 원문",
           "kind": "source"
         }
       ],
-      "caution": "심판의 구체적인 판단 근거는 공개되지 않았고, 수원FC는 남은 시즌에 집중하기 위해 재심을 신청하지 않았다.",
+      "caution": "CBS 기사와 MLB 공식 발표로 양대 리그 결과를 교차 확인했다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-11",
-        "observation": "수원FC는 협회가 해당 심판에게 3개월 출전정지를 통보했다고 밝혔다. 기사에 따르면 이는 해당 규정의 최저 징계 수준이다.",
+        "observation": "캠 슐리틀러는 30표 전부를 받아 AL 사이영상을 수상했고, MLB 공식 자료는 제이컵 미시오로스키의 NL 만장일치 수상을 확인했다.",
         "checked_materials": [],
         "outline": [
-          "지소연 성희롱 발언 심판, 최저 수위 3개월 출전정지",
-          "문제가 된 발언과 지소연의 항의, 협회 규정상 최저 수위 징계, 구단의 재심 포기 결정을 순서대로 정리한다."
+          "MLB 양대 사이영상, 슐리틀러·미시오로스키 만장일치 수상",
+          "두 투수의 만장일치 수상과 슐리틀러의 양키스 구단 기록, 미시오로스키의 공식 수상을 한 흐름으로 정리한다."
         ]
       }
     },
     {
-      "title": "스페인 대표 바레네체아, 햄스트링 힘줄 중상으로 수술",
-      "category": "축구",
-      "url": "https://www.macaupostdaily.com/attachment/files/2026/11/12/1.pdf.pdf",
-      "source": "Macau Post Daily·AFP",
+      "title": "LG 오스틴, 외국인 타자 최초 200만달러 재계약",
+      "category": "메이저 스포츠",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842590",
+      "source": "SBS",
       "kind": "article",
-      "event_key": "real-sociedad-barrenetxea-severe-hamstring-tendon-surgery-20261111",
-      "why": "스페인 대표팀에 선발됐던 레알 소시에다드 주전 윙어가 수개월 이탈할 수 있는 중상과 수술 판정을 받은 큰 전력 변화다.",
-      "angle": "구단이 확인한 힘줄 손상과 수술 결정, 대표팀 교체, 레알 소시에다드의 시즌 전력 공백을 분리해 보여준다.",
-      "why_now": "레알 소시에다드가 11월 11일 오른쪽 햄스트링 힘줄 손상과 수술 필요성을 공식 확인했다.",
-      "verified_at": 1794445670,
-      "published_at": null,
+      "event_key": "lg-austin-kbo-foreign-hitter-record-2m-renewal-20261112",
+      "why": "KBO 외국인 타자 연봉 기록을 새로 쓴 LG 핵심 타자의 확정 재계약이다.",
+      "angle": "200만달러 계약의 리그 최초 의미와 LG의 중심타선 유지 결정을 전한다.",
+      "why_now": "LG가 11월 12일 계약 완료를 공식 발표했다.",
+      "verified_at": 1794460243,
+      "published_at": 1794448260,
       "evidence": [
         {
-          "url": "https://www.macaupostdaily.com/attachment/files/2026/11/12/1.pdf.pdf",
-          "note": "레알 소시에다드는 바레네체아가 오른쪽 햄스트링 힘줄을 포함한 중상을 입어 수술받는다고 밝혔고, 스페인 대표팀에서도 교체됐다."
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842590",
+          "note": "LG는 오스틴 딘과 1년 200만달러에 계약했고, 외국인 타자 연봉 200만달러 돌파는 KBO 최초라고 밝혔다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.macaupostdaily.com/attachment/files/2026/11/12/1.pdf.pdf",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842590",
           "label": "검증 기사 원문",
           "kind": "source"
         }
       ],
-      "caution": "복귀 시점은 확정되지 않았으며 보도는 수개월 결장 가능성으로 표현했다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-11",
-        "observation": "레알 소시에다드는 바레네체아가 오른쪽 햄스트링 힘줄을 포함한 중상을 입어 수술받는다고 밝혔고, 스페인 대표팀에서도 교체됐다.",
-        "checked_materials": [],
-        "outline": [
-          "스페인 대표 바레네체아, 햄스트링 힘줄 중상으로 수술",
-          "구단이 확인한 힘줄 손상과 수술 결정, 대표팀 교체, 레알 소시에다드의 시즌 전력 공백을 분리해 보여준다."
-        ]
-      }
-    },
-    {
-      "title": "미국, 러시아에 유럽 공격 우려 해소할 새 안보안 요구",
-      "category": "시사",
-      "url": "https://nwww.newsis.com/view/NISX20261112_0003864635",
-      "source": "뉴시스",
-      "kind": "article",
-      "event_key": "us-russia-new-europe-security-proposal-demand-20261111",
-      "why": "우크라이나 종전 협상과 전후 유럽 안보 질서를 동시에 다루는 미국의 새 요구가 공개된 국제정치 핵심 사안이다.",
-      "angle": "러시아의 요구와 미국이 요구한 상응 조치, 유럽 대표 참여, 모스크바·더블린 연쇄 회담 계획을 구분한다.",
-      "why_now": "미국 특사들이 11월 12일 푸틴에게 새 제안서와 유럽 참여를 요구할 예정이라고 보도됐다.",
-      "verified_at": 1794445670,
-      "published_at": 1794437719,
-      "evidence": [
-        {
-          "url": "https://nwww.newsis.com/view/NISX20261112_0003864635",
-          "note": "미국은 러시아에 유럽 공격 우려를 낮출 상응 조치와 향후 평화회담의 유럽 대표 참여를 포함한 새 안보 제안서를 요구했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://nwww.newsis.com/view/NISX20261112_0003864635",
-          "label": "검증 기사 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "새 안보협정은 제안 단계이며 실제 합의나 이행이 확정된 것은 아니다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-11",
-        "observation": "미국은 러시아에 유럽 공격 우려를 낮출 상응 조치와 향후 평화회담의 유럽 대표 참여를 포함한 새 안보 제안서를 요구했다.",
-        "checked_materials": [],
-        "outline": [
-          "미국, 러시아에 유럽 공격 우려 해소할 새 안보안 요구",
-          "러시아의 요구와 미국이 요구한 상응 조치, 유럽 대표 참여, 모스크바·더블린 연쇄 회담 계획을 구분한다."
-        ]
-      }
-    },
-    {
-      "title": "북한, 동해 통천에 새 해군기지 건설…김정은 현지점검",
-      "category": "시사",
-      "url": "https://nwww.newsis.com/view/NISX20261112_0003864639",
-      "source": "뉴시스",
-      "kind": "article",
-      "event_key": "north-korea-tongchon-east-sea-naval-base-construction-20261111",
-      "why": "북한이 동해안에 새로운 해군기지를 건설하고 김정은이 이를 해상주권과 직결된 핵심 사업으로 규정한 군사 인프라 변화다.",
-      "angle": "통천 건설 위치와 김정은 현지점검, 북한이 밝힌 사업 목적, 향후 해군 전력 배치 가능성을 사실과 전망으로 나눈다.",
-      "why_now": "북한 매체가 11월 12일 김정은의 전날 해군기지 건설 현장 방문을 보도했다.",
-      "verified_at": 1794445670,
-      "published_at": 1794436047,
-      "evidence": [
-        {
-          "url": "https://nwww.newsis.com/view/NISX20261112_0003864639",
-          "note": "북한 매체는 김정은이 동해 통천의 해군기지 건설 현장을 방문해 국가 안전과 해상주권에 직결된 핵심 사업이라고 말했다고 보도했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://nwww.newsis.com/view/NISX20261112_0003864639",
-          "label": "검증 기사 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "기지의 완공 시점과 배치 전력은 확인되지 않았다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-11",
-        "observation": "북한 매체는 김정은이 동해 통천의 해군기지 건설 현장을 방문해 국가 안전과 해상주권에 직결된 핵심 사업이라고 말했다고 보도했다.",
-        "checked_materials": [],
-        "outline": [
-          "북한, 동해 통천에 새 해군기지 건설…김정은 현지점검",
-          "통천 건설 위치와 김정은 현지점검, 북한이 밝힌 사업 목적, 향후 해군 전력 배치 가능성을 사실과 전망으로 나눈다."
-        ]
-      }
-    },
-    {
-      "title": "금융지주 회장 3연임, 주총 75% 찬성 문턱 세운다",
-      "category": "시사",
-      "url": "https://nwww.newsis.com/view/NISX20261111_0003864355",
-      "source": "뉴시스",
-      "kind": "article",
-      "event_key": "korea-financial-holding-ceo-third-term-governance-reform-20261112",
-      "why": "국내 대형 금융그룹 최고경영자의 장기 연임과 이사회 독립성을 직접 바꾸는 전국 단위 금융 지배구조 개편안이다.",
-      "angle": "3연임 찬성 요건과 독립이사 중심 임추위, 현직 CEO의 개입 금지, 연내 법 개정 계획을 핵심 수치로 정리한다.",
-      "why_now": "정부와 여당이 11월 12일 금융회사 지배구조 개선 방안을 발표했다.",
-      "verified_at": 1794445670,
-      "published_at": 1794439800,
-      "evidence": [
-        {
-          "url": "https://nwww.newsis.com/view/NISX20261111_0003864355",
-          "note": "개선안은 2회 이상 연임 시 주총 출석 의결권 75% 이상 찬성을 요구하고, CEO 후보추천위를 전원 독립이사로 구성하도록 했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://nwww.newsis.com/view/NISX20261111_0003864355",
-          "label": "검증 기사 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "정부는 연내 법 개정안을 마련할 계획이며 아직 국회 입법이 완료된 제도는 아니다.",
+      "caution": "",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-12",
-        "observation": "개선안은 2회 이상 연임 시 주총 출석 의결권 75% 이상 찬성을 요구하고, CEO 후보추천위를 전원 독립이사로 구성하도록 했다.",
+        "observation": "LG는 오스틴 딘과 1년 200만달러에 계약했고, 외국인 타자 연봉 200만달러 돌파는 KBO 최초라고 밝혔다.",
         "checked_materials": [],
         "outline": [
-          "금융지주 회장 3연임, 주총 75% 찬성 문턱 세운다",
-          "3연임 찬성 요건과 독립이사 중심 임추위, 현직 CEO의 개입 금지, 연내 법 개정 계획을 핵심 수치로 정리한다."
+          "LG 오스틴, 외국인 타자 최초 200만달러 재계약",
+          "200만달러 계약의 리그 최초 의미와 LG의 중심타선 유지 결정을 전한다."
+        ]
+      }
+    },
+    {
+      "title": "울산 HD, 김현석 감독과 시즌 종료 뒤 결별 확정",
+      "category": "축구",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842311",
+      "source": "SBS",
+      "kind": "article",
+      "event_key": "ulsan-hd-kim-hyun-seok-contract-not-extended-20261112",
+      "why": "K리그1 상위권 명문 구단이 시즌 종료 뒤 감독 교체를 공식화한 중대한 지도부 변화다.",
+      "angle": "울산의 계약 미연장 공식 사유와 1년 만의 감독 교체, 현재 2위 상황을 함께 짚는다.",
+      "why_now": "울산 구단이 11월 12일 상호 합의로 계약을 연장하지 않는다고 발표했다.",
+      "verified_at": 1794460243,
+      "published_at": 1794443400,
+      "evidence": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842311",
+          "note": "울산은 김현석 감독과 상호 합의로 계약을 연장하지 않으며, 장기 비전과 체질 개선을 위한 결정이라고 설명했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842311",
+          "label": "검증 기사 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-12",
+        "observation": "울산은 김현석 감독과 상호 합의로 계약을 연장하지 않으며, 장기 비전과 체질 개선을 위한 결정이라고 설명했다.",
+        "checked_materials": [],
+        "outline": [
+          "울산 HD, 김현석 감독과 시즌 종료 뒤 결별 확정",
+          "울산의 계약 미연장 공식 사유와 1년 만의 감독 교체, 현재 2위 상황을 함께 짚는다."
+        ]
+      }
+    },
+    {
+      "title": "시진핑, APEC 앞두고 대만 '평화통일 반드시 실현' 천명",
+      "category": "시사",
+      "url": "https://www.reuters.com/world/china/chinas-xi-says-taiwan-reunification-must-happen-history-cannot-be-stopped-2026-11-12/",
+      "source": "Reuters",
+      "kind": "article",
+      "event_key": "xi-taiwan-peaceful-reunification-apec-speech-20261112",
+      "why": "APEC 정상회의 직전 중국 최고지도자가 대만 통일을 역사적 사명으로 재천명한 역내 안보 중대 발언이다.",
+      "angle": "무력 사용은 언급하지 않은 채 평화통일을 강조한 발언과 대만해협 긴장을 구분해 전한다.",
+      "why_now": "시진핑이 11월 12일 베이징 연설에서 직접 밝혔다.",
+      "verified_at": 1794460243,
+      "published_at": 1794457080,
+      "evidence": [
+        {
+          "url": "https://www.reuters.com/world/china/chinas-xi-says-taiwan-reunification-must-happen-history-cannot-be-stopped-2026-11-12/",
+          "note": "시진핑은 대만과의 완전한 통일은 반드시 실현된다고 말하면서 평화통일과 일국양제를 강조했고 무력 사용은 언급하지 않았다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.reuters.com/world/china/chinas-xi-says-taiwan-reunification-must-happen-history-cannot-be-stopped-2026-11-12/",
+          "label": "검증 기사 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "중국의 기존 무력 사용 배제 거부 입장과 이번 연설의 표현을 구분한다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-12",
+        "observation": "시진핑은 대만과의 완전한 통일은 반드시 실현된다고 말하면서 평화통일과 일국양제를 강조했고 무력 사용은 언급하지 않았다.",
+        "checked_materials": [],
+        "outline": [
+          "시진핑, APEC 앞두고 대만 '평화통일 반드시 실현' 천명",
+          "무력 사용은 언급하지 않은 채 평화통일을 강조한 발언과 대만해협 긴장을 구분해 전한다."
+        ]
+      }
+    },
+    {
+      "title": "한국, APEC 계기 북미 정상 접촉 가능성 낮게 판단",
+      "category": "시사",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842803",
+      "source": "SBS",
+      "kind": "article",
+      "event_key": "korea-apec-us-north-korea-contact-low-prospect-20261112",
+      "why": "다음 주 중국 APEC을 앞두고 한국 정부가 북미 접촉 전망과 대통령 순방 의제를 공식 설명했다.",
+      "angle": "북미회담 가능성 평가와 아세안·APEC 순방 의제를 사실과 전망으로 나눠 전한다.",
+      "why_now": "국가안보실이 11월 12일 대통령 순방 계획을 공개했다.",
+      "verified_at": 1794460243,
+      "published_at": 1794453360,
+      "evidence": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842803",
+          "note": "국가안보실은 APEC 계기 북미 정상회담 가능성을 낮게 보면서도 대비 중이며, 대통령은 아세안과 APEC 정상회의에 참석한다고 밝혔다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842803",
+          "label": "검증 기사 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "북미 접촉은 확정 일정이 아니라 정부의 가능성 평가다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-12",
+        "observation": "국가안보실은 APEC 계기 북미 정상회담 가능성을 낮게 보면서도 대비 중이며, 대통령은 아세안과 APEC 정상회의에 참석한다고 밝혔다.",
+        "checked_materials": [],
+        "outline": [
+          "한국, APEC 계기 북미 정상 접촉 가능성 낮게 판단",
+          "북미회담 가능성 평가와 아세안·APEC 순방 의제를 사실과 전망으로 나눠 전한다."
+        ]
+      }
+    },
+    {
+      "title": "미 상원의원들, 엔비디아 대중국 수출기록 보존 요구",
+      "category": "시사",
+      "url": "https://www.reuters.com/world/china/senior-us-democratic-senators-urge-administration-preserve-nvidia-export-records-2026-11-12/",
+      "source": "Reuters",
+      "kind": "article",
+      "event_key": "us-senators-nvidia-china-export-records-preservation-request-20261112",
+      "why": "엔비디아 CEO 관련 의혹이 미국의 AI칩 대중국 수출통제와 의회 조사 요구로 확대된 새 후속이다.",
+      "angle": "상원의원들의 문서보존·브리핑 요구와 아직 조사 단계인 의혹을 분리해 설명한다.",
+      "why_now": "미 상원의원 두 명의 공식 서한 내용이 11월 12일 공개됐다.",
+      "verified_at": 1794460243,
+      "published_at": 1794455040,
+      "evidence": [
+        {
+          "url": "https://www.reuters.com/world/china/senior-us-democratic-senators-urge-administration-preserve-nvidia-export-records-2026-11-12/",
+          "note": "엘리자베스 워런과 크리스 쿤스 의원은 행정부에 엔비디아의 중국 수출 관련 문서 보존과 국가안보 위험 브리핑을 요구했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.reuters.com/world/china/senior-us-democratic-senators-urge-administration-preserve-nvidia-export-records-2026-11-12/",
+          "label": "검증 기사 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "CEO 관련 정보기관 연계 의혹은 확정된 범죄 사실이 아니며 조사 요구 단계다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-12",
+        "observation": "엘리자베스 워런과 크리스 쿤스 의원은 행정부에 엔비디아의 중국 수출 관련 문서 보존과 국가안보 위험 브리핑을 요구했다.",
+        "checked_materials": [],
+        "outline": [
+          "미 상원의원들, 엔비디아 대중국 수출기록 보존 요구",
+          "상원의원들의 문서보존·브리핑 요구와 아직 조사 단계인 의혹을 분리해 설명한다."
+        ]
+      }
+    },
+    {
+      "title": "성북구 15세 살해 사건, 성범죄 가해자 아버지 구속영장",
+      "category": "시사",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842828",
+      "source": "SBS",
+      "kind": "article",
+      "event_key": "seongbuk-teen-murder-sex-crime-offender-father-warrant-20261112",
+      "why": "성범죄 피해 청소년이 가해자 가족에게 살해된 정황이 확인된 중대한 강력사건이다.",
+      "angle": "경찰이 확인한 피해 관계와 구속영장 신청, 수사 중인 범행 동기를 구분해 전한다.",
+      "why_now": "경찰이 11월 12일 피의자 구속영장을 신청하고 피해 관계를 확인했다.",
+      "verified_at": 1794460243,
+      "published_at": 1794453780,
+      "evidence": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842828",
+          "note": "경찰은 15세 피해자를 살해한 혐의로 59세 남성의 구속영장을 신청했으며, 피해자는 피의자 아들의 성범죄 사건 피해자였다고 확인했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842828",
+          "label": "검증 기사 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "범행 동기는 수사 중이며 단정하지 않는다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-12",
+        "observation": "경찰은 15세 피해자를 살해한 혐의로 59세 남성의 구속영장을 신청했으며, 피해자는 피의자 아들의 성범죄 사건 피해자였다고 확인했다.",
+        "checked_materials": [],
+        "outline": [
+          "성북구 15세 살해 사건, 성범죄 가해자 아버지 구속영장",
+          "경찰이 확인한 피해 관계와 구속영장 신청, 수사 중인 범행 동기를 구분해 전한다."
+        ]
+      }
+    },
+    {
+      "title": "조폭·증권사 직원 연루 코스닥 시세조종 25명 송치",
+      "category": "시사",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842804",
+      "source": "SBS",
+      "kind": "article",
+      "event_key": "kosdaq-manipulation-gangsters-brokerage-25-referred-20261112",
+      "why": "조직폭력배와 증권사 직원까지 연루된 대규모 코스닥 시세조종 수사 결과다.",
+      "angle": "147개 차명계좌와 9천400여 차례 주문, 60억원대 부당이득 혐의를 숫자로 정리한다.",
+      "why_now": "서울경찰청이 11월 12일 25명을 송치했다고 발표했다.",
+      "verified_at": 1794460243,
+      "published_at": 1794453540,
+      "evidence": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842804",
+          "note": "경찰은 차명계좌 147개와 약 9천400회의 시세조종성 주문으로 주가를 약 3배 올린 혐의로 25명을 송치했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842804",
+          "label": "검증 기사 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "송치 단계의 혐의이며 법원의 유죄 확정 전이다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-12",
+        "observation": "경찰은 차명계좌 147개와 약 9천400회의 시세조종성 주문으로 주가를 약 3배 올린 혐의로 25명을 송치했다.",
+        "checked_materials": [],
+        "outline": [
+          "조폭·증권사 직원 연루 코스닥 시세조종 25명 송치",
+          "147개 차명계좌와 9천400여 차례 주문, 60억원대 부당이득 혐의를 숫자로 정리한다."
+        ]
+      }
+    },
+    {
+      "title": "필수접종 전환 한 달 만에 코로나 백신 현장 재고 부족",
+      "category": "시사",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842807",
+      "source": "SBS",
+      "kind": "article",
+      "event_key": "korea-covid-vaccine-mandatory-program-stock-shortage-20261112",
+      "why": "고령층 필수 예방접종 전환 직후 여러 지역에서 백신이 바닥난 공공보건 공급 문제다.",
+      "angle": "지역별 잔여율 격차와 추가 조달 제약, 재분배 대책을 함께 보여준다.",
+      "why_now": "11월 12일 현장 취재에서 다수 의료기관의 재고 소진과 지자체 수치가 확인됐다.",
+      "verified_at": 1794460243,
+      "published_at": 1794454800,
+      "evidence": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842807",
+          "note": "광주·전남 27개 시군구의 백신 잔여량은 배정량 대비 평균 5.8%였고, 일부 의료기관은 재고가 모두 소진됐다고 밝혔다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842807",
+          "label": "검증 기사 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "전국 전체 재고 상황으로 일반화하지 않고 확인된 지역 자료로 한정한다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-12",
+        "observation": "광주·전남 27개 시군구의 백신 잔여량은 배정량 대비 평균 5.8%였고, 일부 의료기관은 재고가 모두 소진됐다고 밝혔다.",
+        "checked_materials": [],
+        "outline": [
+          "필수접종 전환 한 달 만에 코로나 백신 현장 재고 부족",
+          "지역별 잔여율 격차와 추가 조달 제약, 재분배 대책을 함께 보여준다."
+        ]
+      }
+    },
+    {
+      "title": "국내외 800억원대 불법도박 조직, 조폭 포함 21명 구속송치",
+      "category": "시사",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842947",
+      "source": "SBS",
+      "kind": "article",
+      "event_key": "korea-800b-illegal-gambling-network-21-detained-20261112",
+      "why": "국내외 서버와 전국 폭력조직이 얽힌 800억원대 불법도박망 수사 결과다.",
+      "angle": "5개 사이트 운영 규모와 21명 구속·175명 불구속 송치, 범죄수익 환수 상황을 정리한다.",
+      "why_now": "대구경찰청이 11월 12일 대규모 검거·송치 결과를 발표했다.",
+      "verified_at": 1794460243,
+      "published_at": 1794458100,
+      "evidence": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842947",
+          "note": "경찰은 800억원대 불법도박사이트 5개 운영 혐의로 조폭을 포함한 21명을 구속 송치하고 175명을 불구속 송치했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842947",
+          "label": "검증 기사 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "수사기관 발표의 혐의 단계이며 유죄 확정 전이다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-12",
+        "observation": "경찰은 800억원대 불법도박사이트 5개 운영 혐의로 조폭을 포함한 21명을 구속 송치하고 175명을 불구속 송치했다.",
+        "checked_materials": [],
+        "outline": [
+          "국내외 800억원대 불법도박 조직, 조폭 포함 21명 구속송치",
+          "5개 사이트 운영 규모와 21명 구속·175명 불구속 송치, 범죄수익 환수 상황을 정리한다."
         ]
       }
     }
