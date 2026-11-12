@@ -1,214 +1,219 @@
 {
   "version": 2,
-  "hour_utc": "2026111200",
+  "hour_utc": "2026111201",
   "reviewer": "ChatGPT",
-  "generated_at": 1794442392,
+  "generated_at": 1794445670,
   "coverage": {
     "queries": [
-      "site:reuters.com/sports November 12 2026 latest soccer football sports Reuters",
-      "site:reuters.com/world November 12 2026 latest breaking world Reuters",
-      "site:reuters.com/business November 12 2026 latest major news Reuters",
-      "2026년 11월 12일 09시 주요 스포츠 축구 속보 SBS 연합뉴스 YTN 뉴시스",
-      "site:reuters.com/sports November 11 2026 11:00 PM UTC latest major sports Reuters",
-      "site:reuters.com November 11 2026 11:00 PM UTC latest major world business breaking Reuters"
+      "November 12 2026 latest major football soccer sports news Reuters official",
+      "November 12 2026 latest major sports breaking news Reuters",
+      "November 12 2026 latest breaking world news Reuters major event",
+      "2026년 11월 12일 10시 주요 스포츠 축구 속보 연합뉴스 SBS YTN 뉴시스",
+      "지소연 성희롱 발언 심판 3개월 출전 정지 2026 11 11 연합뉴스 SBS 뉴시스 원문",
+      "site:reuters.com November 12 2026 00:00 UTC latest major world sports business news"
     ],
     "opened_urls": [
-      "https://www.reuters.com/sports/soccer/us-pulls-mens-under-17-team-world-cup-qatar-over-safety-concerns-2026-11-11/",
-      "https://www.reuters.com/world/europe/russia-shoots-down-92-drones-over-leningrad-region-2026-11-11/",
-      "https://www.reuters.com/business/retail-consumer/unilever-mccormick-food-deal-may-weaken-uk-competition-watchdog-says-2026-11-11/",
-      "https://www.reuters.com/business/energy/rwe-kkr-finalise-16-billion-investment-uk-renewables-2026-11-11/",
-      "https://www.reuters.com/business/world-at-work/australian-companies-face-ai-washing-claims-after-wave-job-cuts-offshoring-2026-11-11/",
-      "https://www.reuters.com/business/easyjet-shareholders-approve-57-billion-apollo-takeover-2026-11-11/",
-      "https://www.reuters.com/legal/government/australian-watchdog-sues-cba-over-allegations-overcharging-customers-2026-11-11/"
+      "https://www.yna.co.kr/view/AKR20261111154800007?section=sports/all",
+      "https://www.devdiscourse.com/article/international/4005446-reuters-sports-news-summary",
+      "https://www.devdiscourse.com/article/international/4005447-reuters-world-news-summary",
+      "https://nwww.newsis.com/live/today/5",
+      "https://www.macaupostdaily.com/attachment/files/2026/11/12/1.pdf.pdf",
+      "https://korea.stream/en/world?src=Reuters",
+      "https://nwww.newsis.com/view/NISX20261112_0003864635",
+      "https://nwww.newsis.com/view/NISX20261112_0003864639",
+      "https://nwww.newsis.com/view/NISX20261112_0003864829",
+      "https://nwww.newsis.com/view/NISX20261111_0003864554",
+      "https://nwww.newsis.com/view/NISX20261112_0003864875",
+      "https://nwww.newsis.com/view/NISX20261111_0003864355"
     ],
     "unavailable": [
-      "server_hidden_duplicates: 2 picks excluded before delivery; replaced with newly opened independent articles",
-      "run_usage: queries=6; opened=7; failed=0; start=2026-11-12T00:01:07Z; elapsed_seconds=725; endpoint=final_retry_submission"
+      "body_failures: devdiscourse sports/world summary URLs each failed once; switched to accessible public originals",
+      "run_usage: queries=6; opened=10; failed=2; start=2026-11-12T01:03:18Z; elapsed_seconds=272; endpoint=review_complete"
     ]
   },
   "picks": [
     {
-      "title": "미국, 카타르 U-17 월드컵 불참…무력충돌 위험에 대표팀 철수",
+      "title": "지소연 성희롱 발언 심판, 최저 수위 3개월 출전정지",
       "category": "축구",
-      "url": "https://www.reuters.com/sports/soccer/us-pulls-mens-under-17-team-world-cup-qatar-over-safety-concerns-2026-11-11/",
-      "source": "Reuters",
+      "url": "https://www.yna.co.kr/view/AKR20261111154800007?section=sports/all",
+      "source": "연합뉴스",
       "kind": "article",
-      "event_key": "us-u17-world-cup-qatar-withdrawal-safety-20261111",
-      "why": "48개국 FIFA 대회에서 미국이 안전 문제로 대표팀 참가 자체를 취소한 중대한 국제축구 결정이다.",
-      "angle": "미국축구협회의 철수 결정과 카타르 여행경보, 11월 19일 개막 대회에 미칠 영향을 순서대로 보여준다.",
-      "why_now": "미국축구협회가 11월 11일 선수들에게 사전 캠프와 대회 참가 취소를 알렸고 FIFA 발표를 기다리고 있다.",
-      "verified_at": 1794441943,
-      "published_at": 1794439505,
+      "event_key": "ji-so-yun-referee-sexual-harassment-three-month-suspension-20261111",
+      "why": "한국 여자축구 간판선수에게 경기 중 성희롱성 발언을 한 심판의 공식 징계가 확인된 중대한 협회 사건이다.",
+      "angle": "문제가 된 발언과 지소연의 항의, 협회 규정상 최저 수위 징계, 구단의 재심 포기 결정을 순서대로 정리한다.",
+      "why_now": "수원FC가 11월 11일 해당 심판의 3개월 출전정지 통보 사실을 공개 확인했다.",
+      "verified_at": 1794445670,
+      "published_at": 1794384300,
       "evidence": [
         {
-          "url": "https://www.reuters.com/sports/soccer/us-pulls-mens-under-17-team-world-cup-qatar-over-safety-concerns-2026-11-11/",
-          "note": "미국축구협회는 국무부의 카타르 3단계 여행경보와 무력충돌 위험을 들어 U-17 대표팀의 사전 캠프와 월드컵 참가를 취소했다."
+          "url": "https://www.yna.co.kr/view/AKR20261111154800007?section=sports/all",
+          "note": "수원FC는 협회가 해당 심판에게 3개월 출전정지를 통보했다고 밝혔다. 기사에 따르면 이는 해당 규정의 최저 징계 수준이다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/sports/soccer/us-pulls-mens-under-17-team-world-cup-qatar-over-safety-concerns-2026-11-11/",
+          "url": "https://www.yna.co.kr/view/AKR20261111154800007?section=sports/all",
           "label": "검증 기사 원문",
           "kind": "source"
         }
       ],
-      "caution": "FIFA는 기사 게재 시점까지 즉각 답변하지 않았다.",
+      "caution": "심판의 구체적인 판단 근거는 공개되지 않았고, 수원FC는 남은 시즌에 집중하기 위해 재심을 신청하지 않았다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-11",
-        "observation": "미국축구협회는 국무부의 카타르 3단계 여행경보와 무력충돌 위험을 들어 U-17 대표팀의 사전 캠프와 월드컵 참가를 취소했다.",
+        "observation": "수원FC는 협회가 해당 심판에게 3개월 출전정지를 통보했다고 밝혔다. 기사에 따르면 이는 해당 규정의 최저 징계 수준이다.",
         "checked_materials": [],
         "outline": [
-          "미국, 카타르 U-17 월드컵 불참…무력충돌 위험에 대표팀 철수",
-          "미국축구협회의 철수 결정과 카타르 여행경보, 11월 19일 개막 대회에 미칠 영향을 순서대로 보여준다."
+          "지소연 성희롱 발언 심판, 최저 수위 3개월 출전정지",
+          "문제가 된 발언과 지소연의 항의, 협회 규정상 최저 수위 징계, 구단의 재심 포기 결정을 순서대로 정리한다."
         ]
       }
     },
     {
-      "title": "이지젯, 76억달러 아폴로 인수안 주주 승인…25년 상장 종료 수순",
-      "category": "시사",
-      "url": "https://www.reuters.com/business/easyjet-shareholders-approve-57-billion-apollo-takeover-2026-11-11/",
-      "source": "Reuters",
+      "title": "스페인 대표 바레네체아, 햄스트링 힘줄 중상으로 수술",
+      "category": "축구",
+      "url": "https://www.macaupostdaily.com/attachment/files/2026/11/12/1.pdf.pdf",
+      "source": "Macau Post Daily·AFP",
       "kind": "article",
-      "event_key": "easyjet-apollo-takeover-shareholder-approval-20261111",
-      "why": "유럽 항공사 최대급 사모펀드 인수 중 하나가 주주 승인을 넘으며 이지젯의 25년 런던 상장 종료가 가까워졌다.",
-      "angle": "주주 찬성률과 2027년 1분기 완료 목표, EU 항공사 소유권 규제라는 남은 관문을 분리해 보여준다.",
-      "why_now": "이지젯 주주들이 11월 11일 57억파운드 규모 아폴로 인수안을 승인했다.",
-      "verified_at": 1794442173,
-      "published_at": 1794397834,
+      "event_key": "real-sociedad-barrenetxea-severe-hamstring-tendon-surgery-20261111",
+      "why": "스페인 대표팀에 선발됐던 레알 소시에다드 주전 윙어가 수개월 이탈할 수 있는 중상과 수술 판정을 받은 큰 전력 변화다.",
+      "angle": "구단이 확인한 힘줄 손상과 수술 결정, 대표팀 교체, 레알 소시에다드의 시즌 전력 공백을 분리해 보여준다.",
+      "why_now": "레알 소시에다드가 11월 11일 오른쪽 햄스트링 힘줄 손상과 수술 필요성을 공식 확인했다.",
+      "verified_at": 1794445670,
+      "published_at": null,
       "evidence": [
         {
-          "url": "https://www.reuters.com/business/easyjet-shareholders-approve-57-billion-apollo-takeover-2026-11-11/",
-          "note": "이지젯은 의결된 스킴 주식의 97.07%가 인수안에 찬성했다고 밝혔다. 회사는 2027년 1분기 말 이전 거래 완료를 목표로 한다."
+          "url": "https://www.macaupostdaily.com/attachment/files/2026/11/12/1.pdf.pdf",
+          "note": "레알 소시에다드는 바레네체아가 오른쪽 햄스트링 힘줄을 포함한 중상을 입어 수술받는다고 밝혔고, 스페인 대표팀에서도 교체됐다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/business/easyjet-shareholders-approve-57-billion-apollo-takeover-2026-11-11/",
+          "url": "https://www.macaupostdaily.com/attachment/files/2026/11/12/1.pdf.pdf",
           "label": "검증 기사 원문",
           "kind": "source"
         }
       ],
-      "caution": "주주 승인은 완료됐지만 EU 소유권 규제 심사와 노조 반대가 남아 있다.",
+      "caution": "복귀 시점은 확정되지 않았으며 보도는 수개월 결장 가능성으로 표현했다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-11",
-        "observation": "이지젯은 의결된 스킴 주식의 97.07%가 인수안에 찬성했다고 밝혔다. 회사는 2027년 1분기 말 이전 거래 완료를 목표로 한다.",
+        "observation": "레알 소시에다드는 바레네체아가 오른쪽 햄스트링 힘줄을 포함한 중상을 입어 수술받는다고 밝혔고, 스페인 대표팀에서도 교체됐다.",
         "checked_materials": [],
         "outline": [
-          "이지젯, 76억달러 아폴로 인수안 주주 승인…25년 상장 종료 수순",
-          "주주 찬성률과 2027년 1분기 완료 목표, EU 항공사 소유권 규제라는 남은 관문을 분리해 보여준다."
+          "스페인 대표 바레네체아, 햄스트링 힘줄 중상으로 수술",
+          "구단이 확인한 힘줄 손상과 수술 결정, 대표팀 교체, 레알 소시에다드의 시즌 전력 공백을 분리해 보여준다."
         ]
       }
     },
     {
-      "title": "호주 CBA, 기업고객 4만2천곳 수수료 과다청구 혐의로 피소",
+      "title": "미국, 러시아에 유럽 공격 우려 해소할 새 안보안 요구",
       "category": "시사",
-      "url": "https://www.reuters.com/legal/government/australian-watchdog-sues-cba-over-allegations-overcharging-customers-2026-11-11/",
-      "source": "Reuters",
+      "url": "https://nwww.newsis.com/view/NISX20261112_0003864635",
+      "source": "뉴시스",
       "kind": "article",
-      "event_key": "australia-asic-cba-commbiz-overcharging-lawsuit-20261112",
-      "why": "호주 최대 은행의 주력 기업뱅킹 서비스에서 4만2천 고객·850만호주달러 규모 과다청구가 제기된 대형 금융사건이다.",
-      "angle": "ASIC의 민사제재 소송과 피해 규모, 2015년 민원·2016년 내부감사 지적, CBA 반론을 함께 정리한다.",
-      "why_now": "호주 증권투자위원회가 11월 12일 연방법원에 CBA를 상대로 민사제재 절차를 시작했다.",
-      "verified_at": 1794442173,
-      "published_at": 1794440040,
+      "event_key": "us-russia-new-europe-security-proposal-demand-20261111",
+      "why": "우크라이나 종전 협상과 전후 유럽 안보 질서를 동시에 다루는 미국의 새 요구가 공개된 국제정치 핵심 사안이다.",
+      "angle": "러시아의 요구와 미국이 요구한 상응 조치, 유럽 대표 참여, 모스크바·더블린 연쇄 회담 계획을 구분한다.",
+      "why_now": "미국 특사들이 11월 12일 푸틴에게 새 제안서와 유럽 참여를 요구할 예정이라고 보도됐다.",
+      "verified_at": 1794445670,
+      "published_at": 1794437719,
       "evidence": [
         {
-          "url": "https://www.reuters.com/legal/government/australian-watchdog-sues-cba-over-allegations-overcharging-customers-2026-11-11/",
-          "note": "ASIC은 2020년 11월부터 2025년 5월까지 CommBiz 고객 약 4만2천곳에 약 850만호주달러의 미고지 수수료가 부과됐다고 주장했다."
+          "url": "https://nwww.newsis.com/view/NISX20261112_0003864635",
+          "note": "미국은 러시아에 유럽 공격 우려를 낮출 상응 조치와 향후 평화회담의 유럽 대표 참여를 포함한 새 안보 제안서를 요구했다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/legal/government/australian-watchdog-sues-cba-over-allegations-overcharging-customers-2026-11-11/",
+          "url": "https://nwww.newsis.com/view/NISX20261112_0003864635",
           "label": "검증 기사 원문",
           "kind": "source"
         }
       ],
-      "caution": "과다청구는 ASIC의 혐의이며 CBA는 일부 주장 방식을 받아들이지 않고 방어하겠다고 밝혔다.",
+      "caution": "새 안보협정은 제안 단계이며 실제 합의나 이행이 확정된 것은 아니다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-11",
+        "observation": "미국은 러시아에 유럽 공격 우려를 낮출 상응 조치와 향후 평화회담의 유럽 대표 참여를 포함한 새 안보 제안서를 요구했다.",
+        "checked_materials": [],
+        "outline": [
+          "미국, 러시아에 유럽 공격 우려 해소할 새 안보안 요구",
+          "러시아의 요구와 미국이 요구한 상응 조치, 유럽 대표 참여, 모스크바·더블린 연쇄 회담 계획을 구분한다."
+        ]
+      }
+    },
+    {
+      "title": "북한, 동해 통천에 새 해군기지 건설…김정은 현지점검",
+      "category": "시사",
+      "url": "https://nwww.newsis.com/view/NISX20261112_0003864639",
+      "source": "뉴시스",
+      "kind": "article",
+      "event_key": "north-korea-tongchon-east-sea-naval-base-construction-20261111",
+      "why": "북한이 동해안에 새로운 해군기지를 건설하고 김정은이 이를 해상주권과 직결된 핵심 사업으로 규정한 군사 인프라 변화다.",
+      "angle": "통천 건설 위치와 김정은 현지점검, 북한이 밝힌 사업 목적, 향후 해군 전력 배치 가능성을 사실과 전망으로 나눈다.",
+      "why_now": "북한 매체가 11월 12일 김정은의 전날 해군기지 건설 현장 방문을 보도했다.",
+      "verified_at": 1794445670,
+      "published_at": 1794436047,
+      "evidence": [
+        {
+          "url": "https://nwww.newsis.com/view/NISX20261112_0003864639",
+          "note": "북한 매체는 김정은이 동해 통천의 해군기지 건설 현장을 방문해 국가 안전과 해상주권에 직결된 핵심 사업이라고 말했다고 보도했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://nwww.newsis.com/view/NISX20261112_0003864639",
+          "label": "검증 기사 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "기지의 완공 시점과 배치 전력은 확인되지 않았다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-11",
+        "observation": "북한 매체는 김정은이 동해 통천의 해군기지 건설 현장을 방문해 국가 안전과 해상주권에 직결된 핵심 사업이라고 말했다고 보도했다.",
+        "checked_materials": [],
+        "outline": [
+          "북한, 동해 통천에 새 해군기지 건설…김정은 현지점검",
+          "통천 건설 위치와 김정은 현지점검, 북한이 밝힌 사업 목적, 향후 해군 전력 배치 가능성을 사실과 전망으로 나눈다."
+        ]
+      }
+    },
+    {
+      "title": "금융지주 회장 3연임, 주총 75% 찬성 문턱 세운다",
+      "category": "시사",
+      "url": "https://nwww.newsis.com/view/NISX20261111_0003864355",
+      "source": "뉴시스",
+      "kind": "article",
+      "event_key": "korea-financial-holding-ceo-third-term-governance-reform-20261112",
+      "why": "국내 대형 금융그룹 최고경영자의 장기 연임과 이사회 독립성을 직접 바꾸는 전국 단위 금융 지배구조 개편안이다.",
+      "angle": "3연임 찬성 요건과 독립이사 중심 임추위, 현직 CEO의 개입 금지, 연내 법 개정 계획을 핵심 수치로 정리한다.",
+      "why_now": "정부와 여당이 11월 12일 금융회사 지배구조 개선 방안을 발표했다.",
+      "verified_at": 1794445670,
+      "published_at": 1794439800,
+      "evidence": [
+        {
+          "url": "https://nwww.newsis.com/view/NISX20261111_0003864355",
+          "note": "개선안은 2회 이상 연임 시 주총 출석 의결권 75% 이상 찬성을 요구하고, CEO 후보추천위를 전원 독립이사로 구성하도록 했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://nwww.newsis.com/view/NISX20261111_0003864355",
+          "label": "검증 기사 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "정부는 연내 법 개정안을 마련할 계획이며 아직 국회 입법이 완료된 제도는 아니다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-12",
-        "observation": "ASIC은 2020년 11월부터 2025년 5월까지 CommBiz 고객 약 4만2천곳에 약 850만호주달러의 미고지 수수료가 부과됐다고 주장했다.",
+        "observation": "개선안은 2회 이상 연임 시 주총 출석 의결권 75% 이상 찬성을 요구하고, CEO 후보추천위를 전원 독립이사로 구성하도록 했다.",
         "checked_materials": [],
         "outline": [
-          "호주 CBA, 기업고객 4만2천곳 수수료 과다청구 혐의로 피소",
-          "ASIC의 민사제재 소송과 피해 규모, 2015년 민원·2016년 내부감사 지적, CBA 반론을 함께 정리한다."
-        ]
-      }
-    },
-    {
-      "title": "RWE·KKR, 영국 해상풍력에 160억달러 확정…300만 가구 전력 규모",
-      "category": "시사",
-      "url": "https://www.reuters.com/business/energy/rwe-kkr-finalise-16-billion-investment-uk-renewables-2026-11-11/",
-      "source": "Reuters",
-      "kind": "article",
-      "event_key": "rwe-kkr-uk-offshore-wind-16-billion-20261111",
-      "why": "영국 최대급 재생에너지 투자로 2030년 완공 목표와 300만 가구 전력 규모가 함께 확정됐다.",
-      "angle": "120억파운드 금융종결, 두 해상풍력단지, 일자리 2천400개와 300만 가구 공급 규모를 한눈에 정리한다.",
-      "why_now": "RWE와 KKR이 11월 11일 노퍽 뱅가드 동·서부 프로젝트의 금융종결을 발표했다.",
-      "verified_at": 1794441943,
-      "published_at": 1794380492,
-      "evidence": [
-        {
-          "url": "https://www.reuters.com/business/energy/rwe-kkr-finalise-16-billion-investment-uk-renewables-2026-11-11/",
-          "note": "RWE와 KKR은 영국 해상풍력 사업에 약 120억파운드를 투자한다. 2030년 완공 목표이며 건설 일자리 2천400개와 약 300만 가구 전력 공급이 예상된다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.reuters.com/business/energy/rwe-kkr-finalise-16-billion-investment-uk-renewables-2026-11-11/",
-          "label": "검증 기사 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-11",
-        "observation": "RWE와 KKR은 영국 해상풍력 사업에 약 120억파운드를 투자한다. 2030년 완공 목표이며 건설 일자리 2천400개와 약 300만 가구 전력 공급이 예상된다.",
-        "checked_materials": [],
-        "outline": [
-          "RWE·KKR, 영국 해상풍력에 160억달러 확정…300만 가구 전력 규모",
-          "120억파운드 금융종결, 두 해상풍력단지, 일자리 2천400개와 300만 가구 공급 규모를 한눈에 정리한다."
-        ]
-      }
-    },
-    {
-      "title": "콴타스 850명 감원에 ‘AI 워싱’ 논란…자동화 전 해외 이전부터",
-      "category": "시사",
-      "url": "https://www.reuters.com/business/world-at-work/australian-companies-face-ai-washing-claims-after-wave-job-cuts-offshoring-2026-11-11/",
-      "source": "Reuters",
-      "kind": "article",
-      "event_key": "australia-ai-washing-job-cuts-offshoring-20261112",
-      "why": "대기업이 AI를 앞세워 감원과 해외 이전을 정당화한다는 노동시장 논쟁이 호주 전역으로 확산됐다.",
-      "angle": "콴타스 850명 감원과 인도 외주 이전, 노조의 AI 워싱 주장, 중앙은행의 신중한 평가를 구분한다.",
-      "why_now": "11월 12일 공개된 보도는 콴타스·아틀라시안·텔스트라 등 호주 대기업의 AI 명분 감원을 함께 분석했다.",
-      "verified_at": 1794441943,
-      "published_at": 1794430911,
-      "evidence": [
-        {
-          "url": "https://www.reuters.com/business/world-at-work/australian-companies-face-ai-washing-claims-after-wave-job-cuts-offshoring-2026-11-11/",
-          "note": "콴타스는 850명 감원과 일부 업무의 해외 이전을 발표했다. 노조와 전문가는 AI보다 비용절감·외주화가 먼저라며 ‘AI 워싱’ 가능성을 제기했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.reuters.com/business/world-at-work/australian-companies-face-ai-washing-claims-after-wave-job-cuts-offshoring-2026-11-11/",
-          "label": "검증 기사 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "AI 워싱은 노조·전문가의 비판이며 기업의 위법 사실로 확정된 표현이 아니다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-10",
-        "observation": "콴타스는 850명 감원과 일부 업무의 해외 이전을 발표했다. 노조와 전문가는 AI보다 비용절감·외주화가 먼저라며 ‘AI 워싱’ 가능성을 제기했다.",
-        "checked_materials": [],
-        "outline": [
-          "콴타스 850명 감원에 ‘AI 워싱’ 논란…자동화 전 해외 이전부터",
-          "콴타스 850명 감원과 인도 외주 이전, 노조의 AI 워싱 주장, 중앙은행의 신중한 평가를 구분한다."
+          "금융지주 회장 3연임, 주총 75% 찬성 문턱 세운다",
+          "3연임 찬성 요건과 독립이사 중심 임추위, 현직 CEO의 개입 금지, 연내 법 개정 계획을 핵심 수치로 정리한다."
         ]
       }
     }
