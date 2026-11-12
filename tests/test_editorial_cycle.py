@@ -19,13 +19,13 @@ def at(hour, minute=0):
 class HourlyResearchTests(unittest.TestCase):
     def test_intervening_hour_researches_next_report_without_authorizing_send(self):
         result = cycle.plan_cycle(at(9, 25))
-        self.assertEqual(result["phase"], "report")
-        self.assertEqual(result["target_epoch"], at(9))
-        self.assertTrue(result["may_submit"])
+        self.assertEqual(result["phase"], "research")
+        self.assertEqual(result["target_epoch"], at(11))
+        self.assertFalse(result["may_submit"])
 
     def test_each_slot_has_a_preparation_hour_and_current_hour_recovery(self):
-        self.assertEqual(cycle.plan_cycle(at(7, 25))["phase"], "prepare")
-        for hour in range(8, 24):
+        self.assertEqual(cycle.plan_cycle(at(7, 55))["phase"], "prepare")
+        for hour in (8, 11, 14, 17, 20):
             with self.subTest(hour=hour):
                 result = cycle.plan_cycle(at(hour, 45))
                 self.assertEqual((result["phase"], result["target_epoch"], result["may_submit"]),
@@ -37,7 +37,7 @@ class HourlyResearchTests(unittest.TestCase):
                  "delivery": "sent", "stories": 10, "messages": 1}}
         result = cycle.plan_cycle(at(11, 25), state=state)
         self.assertEqual((result["phase"], result["target_epoch"], result["may_submit"]),
-                         ("prepare", at(12), True))
+                         ("research", at(14), False))
 
     def test_uncertain_or_partial_delivery_never_becomes_a_new_request(self):
         target = at(20)
@@ -46,20 +46,20 @@ class HourlyResearchTests(unittest.TestCase):
             state = {"updated_at": target + 1, "report": {"hour_utc": hour,
                      "delivery": "sent", "stories": 4, "messages": 1}}
             result = cycle.plan_cycle(at(20, 25), state=state, status=status)
-            self.assertEqual(result["target_epoch"], at(21))
+            self.assertIsNone(result["target_epoch"])
             self.assertTrue(result["may_submit"])
 
     def test_existing_pinned_request_is_observed_while_next_batch_is_researched(self):
         request = {"hour_utc": hourly_key(at(11))[7:]}
         result = cycle.plan_cycle(at(10, 25), request=request)
-        self.assertEqual((result["phase"], result["target_epoch"]), ("report", at(10)))
+        self.assertEqual((result["phase"], result["target_epoch"]), ("research", at(14)))
         self.assertEqual(result["locked_reports"][0]["reason"], "request_exists_do_not_reissue")
 
     def test_no_overnight_batch_or_replay_and_final_request_is_only_observed(self):
-        for hour in (0, 1, 6):
+        for hour in (0, 1, 6, 21, 23):
             self.assertEqual(cycle.plan_cycle(at(hour))["phase"], "off_hours")
-        self.assertEqual(cycle.plan_cycle(at(9))["target_epoch"], at(9))
-        result = cycle.plan_cycle(at(23, 25), request={"hour_utc": hourly_key(at(23))[7:]})
+        self.assertEqual(cycle.plan_cycle(at(9))["target_epoch"], at(11))
+        result = cycle.plan_cycle(at(20, 25), request={"hour_utc": hourly_key(at(20))[7:]})
         self.assertEqual((result["phase"], result["target_epoch"], result["may_submit"]),
                          ("await_delivery", None, False))
 
@@ -88,7 +88,7 @@ class HourlyResearchTests(unittest.TestCase):
             self.assertEqual(checked["picks"][0]["verified_at"], now - 120)
             attempt = progress.save_progress(Path(tmp) / "progress.json", hourly_key(target)[7:],
                                              now, {}, edition=checked)
-            self.assertEqual((attempt["ready"], attempt["missing"]), (1, 4))
+            self.assertEqual((attempt["ready"], attempt["missing"]), (1, 9))
             with self.assertRaises(ValueError):
                 progress.load_edition(path, target, now)
             with self.assertRaises(ValueError):

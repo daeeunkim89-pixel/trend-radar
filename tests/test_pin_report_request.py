@@ -2,11 +2,12 @@ import hashlib
 import json
 import unittest
 from pin_report_request import bind, REQUEST, PICKS
+from edition_preflight import REPORT_PICKS
 
 class CommitBindingTests(unittest.TestCase):
     def setUp(self):
         self.approval = {"version":4,"hour_utc":"2026111009","binding":"trigger_commit"}
-        self.edition = {"version":2,"hour_utc":"2026111009","reviewer":"ChatGPT","picks":[{"title":"한글"}]*5}
+        self.edition = {"version":2,"hour_utc":"2026111009","reviewer":"ChatGPT","picks":[{"title":"한글"}]*REPORT_PICKS}
         self.raw = (json.dumps(self.edition, ensure_ascii=False, indent=2)+"\n").encode()
     def test_hash_uses_exact_approved_utf8_bytes(self):
         result = bind(self.approval,self.raw,[REQUEST,PICKS])
@@ -37,7 +38,7 @@ class ImmutableCommitTests(unittest.TestCase):
             root=Path(directory)
             (root/"data").mkdir()
             request={"version":4,"hour_utc":"2026111009","binding":"trigger_commit"}
-            raw=json.dumps({"version":2,"hour_utc":"2026111009","reviewer":"ChatGPT","picks":[{}]*5}).encode()
+            raw=json.dumps({"version":2,"hour_utc":"2026111009","reviewer":"ChatGPT","picks":[{}]*REPORT_PICKS}).encode()
             (root/REQUEST).write_text(json.dumps(request))
             (root/PICKS).write_bytes(raw)
             def git(*args):

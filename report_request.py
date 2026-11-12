@@ -4,6 +4,7 @@ import hashlib
 import json
 import time
 from pathlib import Path
+from edition_preflight import REPORT_PICKS
 
 from report_timing import prepared_target, recovery_target, require_report_slot
 
@@ -48,7 +49,7 @@ def run(path=REQUEST_FILE, now=None, sender=None, picks_file=Path("data/editoria
             expected.add("mode")
             if "requested_stories" in request:
                 expected.add("requested_stories")
-                if type(request["requested_stories"]) is not int or not 1 <= request["requested_stories"] <= 5:
+                if type(request["requested_stories"]) is not int or not 1 <= request["requested_stories"] <= REPORT_PICKS:
                     raise ValueError("Invalid explicitly requested story count")
             if request.get("mode") != "user_requested":
                 raise ValueError("An on-demand edition requires an explicit user request")

@@ -10,6 +10,7 @@ import json
 import re
 import subprocess
 from pathlib import Path
+from edition_preflight import REPORT_PICKS
 
 REQUEST = "data/report-request.json"
 PICKS = "data/editorial-picks.json"
@@ -31,8 +32,8 @@ def bind(request, picks_bytes, changed_paths):
     if (not isinstance(edition, dict) or type(edition.get("version")) is not int
             or edition["version"] != 2 or edition.get("hour_utc") != hour
             or edition.get("reviewer") != "ChatGPT"
-            or not isinstance(edition.get("picks"), list) or len(edition["picks"]) != 5):
-        raise ValueError("Approval must bind a matching five-story ChatGPT edition")
+            or not isinstance(edition.get("picks"), list) or len(edition["picks"]) != REPORT_PICKS):
+        raise ValueError(f"Approval must bind a matching {REPORT_PICKS}-story ChatGPT edition")
     return {"version": 2, "hour_utc": hour,
             "editorial_sha256": hashlib.sha256(picks_bytes).hexdigest()}
 

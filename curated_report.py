@@ -24,8 +24,8 @@ DECISIONS_FILE = Path("data/editorial-history.json")
 ATTEMPT_FILE = Path("data/editorial-status.json")
 PROGRESS_FILE = Path("data/editorial-progress.json")
 from edition_preflight import CATEGORIES, validate_source_fields
-MAX_PICKS = 20  # Five recommendations plus reviewed reserves for content deduplication.
-REPORT_PICKS = 5
+MAX_PICKS = 20  # Ten recommendations plus reviewed reserves for content deduplication.
+from edition_preflight import REPORT_PICKS
 MAX_BYTES = 100_000
 
 
@@ -119,6 +119,12 @@ def validate_edition(edition, target, now):
         timestamp(p["verified_at"], now, "verified_at", 75 * 60)
         if p["published_at"] is not None:
             timestamp(p["published_at"], now, "published_at")
+        if edition["version"] == 2:
+            if p["published_at"] is None:
+                raise ValueError("Source first-publication time is required; review time is not news freshness")
+            news_window = (12 if datetime.fromtimestamp(target, timezone(timedelta(hours=9))).hour == 8 else 6) * 3600
+            if now - p["published_at"] > news_window:
+                raise ValueError("News is too old for this report; find a genuinely new development")
         if p["url"] not in opened:
             raise ValueError("The recommendation source was not recorded as opened")
         if p["url"] in seen_urls or p["event_key"] in seen_events:
@@ -244,12 +250,37 @@ def build_stories(edition, history, now):
 
 def render_edition(stories, target, empty_reason, excluded=0, required=REPORT_PICKS):
     if len(stories) > required:
-        raise ValueError("Select five recommendations before rendering")
+        raise ValueError(f"Select at most {required} recommendations before rendering")
 
     def short(value, maximum):
         return value if len(value) <= maximum else value[:maximum - 1].rstrip() + "…"
 
-    # Keep five usable summaries in one message; full text and evidence remain in /info.
+    # Ten concise fact cards fit one message; full evidence stays in /info.
+    if len(stories) > 5:
+        for title_size, why_size, caution_size in ((80, 65, 45), (64, 48, 28), (48, 32, 20)):
+            lines = [f"<b>⚡ btp · 추천 {len(stories)}/{required} · {stamp(target)}</b>"]
+            for i, story in enumerate(stories, 1):
+                p = story["editorial"]
+                label = "🔥 01" if i == 1 else f"{i:02d}"
+                lines += ["", f"<b>{label} · {html.escape(p['category'])}</b>",
+                          link(short(p["title"], title_size), p["url"]),
+                          html.escape(short(p["why"], why_size))]
+                if p.get("published_at"):
+                    published = datetime.fromtimestamp(p["published_at"], timezone(timedelta(hours=9)))
+                    lines.append("최초 공개 " + published.strftime("%m/%d %H:%M") + " KST")
+                if p["caution"]:
+                    lines.append("확인: " + html.escape(short(p["caution"], caution_size)))
+            if len(stories) < required:
+                lines += ["", f"{required}개 중 {len(stories)}개 확보 · 부족 {required-len(stories)}개"]
+            lines += ["", "전체 원문·근거 <code>/info 1</code> · 선정 <code>/pick 1</code>"]
+            if excluded:
+                lines.append(f"기존 발송·같은 사건 {excluded}개 제외")
+            result = "\n".join(lines)
+            if message_units(result) <= 3900:
+                return [result]
+        raise ValueError("Editorial recommendations exceed the single-message limit")
+
+    # Keep shorter on-demand summaries compatible with existing /info details.
     for title_size, why_size, angle_size, caution_size in ((72, 70, 64, 55), (60, 55, 50, 40), (48, 42, 38, 28)):
         lines = [f"<b>⚡ btp · 추천 {len(stories)}/{required} · {stamp(target)}</b>"]
         if not stories:
@@ -355,6 +386,10 @@ def main(recover_hour=None, prepared_hour=None, picks_file=PICKS_FILE, expected_
         target = prepared_target(prepared_hour, now) if prepared_hour else recovery_target(recover_hour, now)
         if scheduled_fallback and (user_requested or prepared_hour):
             raise ValueError("A scheduled fallback is only for the current regular report hour")
+        max_prewait = int(os.environ.get("BTP_MAX_PREHOUR_WAIT_SECONDS", "3600"))
+        if target - now > max_prewait:
+            print("BTP NO WAIT: approval is earlier than the bounded server queue window")
+            return 2
         if os.environ.get("BTP_NO_PREHOUR_WAIT") == "1" and target > now:
             print("BTP NO WAIT: submit in the current report hour; no long-running pre-hour job")
             return 2
@@ -410,7 +445,7 @@ def main(recover_hour=None, prepared_hour=None, picks_file=PICKS_FILE, expected_
         before = len(stories)
         stories = unreported_stories(stories, history, private, now)
         excluded = before - len(stories)
-        stories = stories[:REPORT_PICKS]
+        stories = stories[:required]
         if hold_incomplete(target, stories, excluded, user_requested, required=required):
             return 3
         parts = render_edition(stories, target, edition["empty_reason"], excluded, required=required)

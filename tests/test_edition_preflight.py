@@ -1,13 +1,13 @@
 import copy
 import unittest
-from edition_preflight import preflight, validate_source_fields, SOURCE_KINDS
+from edition_preflight import preflight, validate_source_fields, SOURCE_KINDS, REPORT_PICKS
 
 def edition():
     p={"title":"공식 발표로 확정된 주요 소식","category":"축구","kind":"article",
        "source":"Reuters","event_key":"confirmed-major-event","why":"리그 전체에 영향을 주는 확정 발표",
        "angle":"사실과 영향을 정리","why_now":"오늘 공식 발표","caution":"",
        "readiness":{"mode":"major_news"}}
-    return {"version":2,"hour_utc":"2026111106","reviewer":"ChatGPT","picks":[copy.deepcopy(p) for _ in range(5)]}
+    return {"version":2,"hour_utc":"2026111106","reviewer":"ChatGPT","picks":[copy.deepcopy(p) for _ in range(REPORT_PICKS)]}
 
 class PreflightTests(unittest.TestCase):
     def test_real_failure_kind_major_news_is_rejected_with_location_and_fix(self):
@@ -18,7 +18,7 @@ class PreflightTests(unittest.TestCase):
         for kind in SOURCE_KINDS:
             value=edition()
             for p in value["picks"]: p["kind"]=kind
-            self.assertEqual(preflight(value),5)
+            self.assertEqual(preflight(value),REPORT_PICKS)
     def test_validation_never_mutates_evidence_or_review_timestamps(self):
         value=edition()
         value["picks"][0]["verified_at"]=12345

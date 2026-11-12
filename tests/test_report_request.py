@@ -48,7 +48,7 @@ class ReportRequestTests(unittest.TestCase):
             self.write(request)
             self.sender.reset_mock()
             result = run(self.path, target + 10, self.sender)
-            if hour in range(8, 24):
+            if hour in (8, 11, 14, 17, 20):
                 self.assertEqual(result, 0); self.sender.assert_called_once()
             else:
                 self.assertEqual(result, 2); self.sender.assert_not_called()

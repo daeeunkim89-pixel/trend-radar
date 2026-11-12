@@ -35,7 +35,7 @@ class SingleRequestedStoryTests(unittest.TestCase):
         report = next(call.args[1]["report"] for call in write.call_args_list if call.args[0] == c.STATE_FILE)
         self.assertEqual((report["stories"], report["requested_stories"], report["missing"]), (1, 1, 0))
         self.assertTrue(report["target_met"])
-        self.assertEqual(c.REPORT_PICKS, 5)
+        self.assertEqual(c.REPORT_PICKS, 10)
         stories, _ = c.build_stories(edition([pick(1)]), EMPTY, NOW)
         self.assertIn("추천 1/1", c.render_edition(stories, NOW, "", required=1)[0])
 

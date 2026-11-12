@@ -3,6 +3,8 @@
 This ranks leads, never verifies a scene or chooses delivery recommendations.
 """
 import re
+from datetime import datetime, timedelta, timezone
+from edition_preflight import REPORT_PICKS
 from urllib.parse import urlsplit
 
 FOOTBALL = re.compile(r"축구|손흥민|김민재|이강인|맨유|맨시티|아스[널날]|토트넘|레알|바르셀로나|K리그|football|soccer", re.I)
@@ -50,7 +52,7 @@ def publication(row):
                  if type(row.get(key)) is int), None)
 
 
-def _ranked_inbox(pool, now, max_age=12 * 3600):
+def _ranked_inbox(pool, now, max_age=3 * 3600):
     ranked, seen = [], set()
     for row in pool.get("items", []):
         url, title = row.get("link", ""), row.get("title", "")
@@ -86,9 +88,9 @@ def _ranked_inbox(pool, now, max_age=12 * 3600):
             break
     return {"version": 2, "generated_at": now, "mode": "major_news_ranked",
             "reference": "docs/btp-news-policy-20261104.md",
-            "budget": {"initial_minutes": 3, "initial_searches": 4, "initial_opens": 8,
-                       "extension_searches": 2, "extension_opens": 4, "max_extensions": 1,
-                       "extend_until_target": False, "recommendations_target": 5,
+            "budget": {"initial_searches": 6, "initial_opens": 18,
+                       "extension_searches": 2, "extension_opens": 7, "max_extensions": 2,
+                       "extend_until_target": False, "recommendations_target": REPORT_PICKS,
                        "reuse_discovery": True, "stop_when_target_ready": True},
             "source_errors": list(pool.get("errors", {})), "candidates": candidates, "reserves": reserves,
             "caution": "발견용. 스포츠 중심·시사 대형 뉴스 우선. 연예 세부 소식 제외. 본문에서 1면 가치·새 사실·날짜·중복 확인 전이며 조회수 예측이 아니다."}
@@ -97,11 +99,11 @@ def _ranked_inbox(pool, now, max_age=12 * 3600):
 def inbox(pool, now):
     result = _ranked_inbox(pool, now)
     older = [row for row in pool.get("items", [])
-             if type(publication(row)) is int and 12 * 3600 < now - publication(row) <= 48 * 3600]
-    extended = _ranked_inbox({"items": older}, now, 48 * 3600)["candidates"]
+             if type(publication(row)) is int and 3 * 3600 < now - publication(row) <= (12 if datetime.fromtimestamp(now, timezone(timedelta(hours=9))).hour < 9 else 6) * 3600]
+    extended = _ranked_inbox({"items": older}, now, 12 * 3600)["candidates"]
     for item in extended:
-        item["freshness_policy"] = "미발송 원본 확인 후 24시간, 필요시 48시간 확대; 실제 공개시각 표시"
+        item["freshness_policy"] = "미발송 대형 새 사실만: 주간6시간/08시밤사이12시간 한도, 실제 최초 공개시각 표시"
     result["extended_candidates"] = extended
-    result["budget"]["initial_freshness_hours"] = 12
-    result["budget"]["extended_freshness_hours"] = [24, 48]
+    result["budget"]["initial_freshness_hours"] = 3
+    result["budget"]["extended_freshness_hours"] = [6, 12]
     return result

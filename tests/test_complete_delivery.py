@@ -33,7 +33,7 @@ class CompleteDeliveryTests(unittest.TestCase):
         return result, connection, private, write, decision, delivery
 
     def test_zero_or_four_requires_more_research_before_telegram_or_slot_lock(self):
-        for count in (0, 4):
+        for count in (0, 4, 9):
             with self.subTest(count=count):
                 result, connection, private, write, decision, delivery = self.execute(count)
                 self.assertEqual(result, 3)
@@ -43,33 +43,33 @@ class CompleteDeliveryTests(unittest.TestCase):
                 self.assertEqual(private.data["reports"], {})
                 status = next(call.args[1] for call in write.call_args_list if call.args[0] == c.ATTEMPT_FILE)
                 self.assertEqual((status["status"], status["ready"], status["missing"]),
-                                 ("needs_more_research", count, 5-count))
+                                 ("needs_more_research", count, c.REPORT_PICKS-count))
 
     def test_private_dedup_shortfall_does_not_send_or_lock_four(self):
-        result, connection, private, write, decision, delivery = self.execute(8, 4)
+        result, connection, private, write, decision, delivery = self.execute(14, 4)
         self.assertEqual(result, 3)
         delivery.assert_not_called()
         decision.assert_not_called()
         self.assertEqual(private.data["reports"], {})
         status = next(call.args[1] for call in write.call_args_list if call.args[0] == c.ATTEMPT_FILE)
-        self.assertEqual((status["ready"], status["duplicates_excluded"]), (4, 4))
+        self.assertEqual((status["ready"], status["duplicates_excluded"]), (4, 10))
 
     def test_reviewed_reserves_complete_five_after_private_dedup(self):
-        result, connection, private, write, decision, delivery = self.execute(8, 5)
+        result, connection, private, write, decision, delivery = self.execute(14, 10)
         self.assertEqual(result, 0)
         delivery.assert_called_once()
-        self.assertEqual(len(delivery.call_args.kwargs["numbers"]), 5)
+        self.assertEqual(len(delivery.call_args.kwargs["numbers"]), c.REPORT_PICKS)
         decision.assert_called_once()
         report = next(call.args[1]["report"] for call in write.call_args_list if call.args[0] == c.STATE_FILE)
         self.assertTrue(report["target_met"])
-        self.assertEqual(report["stories"], 5)
+        self.assertEqual(report["stories"], c.REPORT_PICKS)
 
     def test_research_has_one_extension_without_erasing_completion_checks(self):
         budget = inbox({}, NOW)["budget"]
         self.assertFalse(budget["extend_until_target"])
-        self.assertEqual(budget["max_extensions"], 1)
+        self.assertEqual(budget["max_extensions"], 2)
         self.assertEqual((budget["initial_searches"], budget["extension_searches"],
-                          budget["recommendations_target"]), (4, 2, 5))
+                          budget["recommendations_target"]), (6, 2, 10))
         value = edition()
         value["coverage"]["queries"] = ["checked source query " + str(i) for i in range(60)]
         value["coverage"]["opened_urls"] += ["https://example.org/checked/" + str(i) for i in range(90)]

@@ -1,4 +1,4 @@
-"""Read-only guide for hourly research and the hourly daytime BTP reports."""
+"""Read-only guide for bounded research and the three-hour daytime BTP reports."""
 import json
 import time
 from datetime import datetime
@@ -10,7 +10,7 @@ DISCOVERY_STALE_SECONDS = 20 * 60
 
 
 def plan_cycle(now, state=None, request=None, status=None, history=None, candidates=None):
-    """Keep researching after a completed report without unlocking its delivery."""
+    """Choose a slot without unlocking completed delivery; callers stop between runs."""
     state, request, status = state or {}, request or {}, status or {}
     history, candidates = history or {}, candidates or {}
     local = datetime.fromtimestamp(now, KST)
@@ -22,7 +22,7 @@ def plan_cycle(now, state=None, request=None, status=None, history=None, candida
               "discovery_age_seconds": age,
               "discovery_refresh_needed": age is None or age > DISCOVERY_STALE_SECONDS
                   or candidates.get("status") == "unavailable"}
-    if not 7 <= local.hour <= 23:
+    if not 7 <= local.hour <= 20:
         return result
     locks = {}
     for edition in history.get("editions", []):
@@ -57,7 +57,7 @@ def plan_cycle(now, state=None, request=None, status=None, history=None, candida
         ) else "day_complete"
         return result
     target = available[0]
-    phase = "report" if target == current_hour else "prepare" if target - now <= 3600 else "research"
+    phase = "report" if target == current_hour else "prepare" if target - now <= 300 else "research"
     result.update(phase=phase, target_hour_utc=hourly_key(target)[7:], target_epoch=target,
                   may_submit=phase in {"prepare", "report"})
     return result

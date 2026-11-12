@@ -14,7 +14,7 @@ class QuickScanTests(unittest.TestCase):
         out = inbox({"items": rows}, NOW)
         self.assertEqual([r["url"].rsplit("/", 1)[-1] for r in out["candidates"]],
                          ["sport", "public", "banter", "minor"])
-        self.assertEqual(out["budget"]["recommendations_target"], 5)
+        self.assertEqual(out["budget"]["recommendations_target"], 10)
         self.assertFalse(out["budget"]["extend_until_target"])
 
     def test_entertainment_details_are_excluded_and_major_public_issue_stays_a_lead(self):
@@ -46,10 +46,10 @@ class QuickScanTests(unittest.TestCase):
 
     def test_known_old_publication_never_becomes_new_on_observation(self):
         for key in ("source_published_at", "video_published_at", "listed_at"):
-            row = self.row("축구 월드컵 우승 확정", key, **{key: NOW-13*3600})
+            row = self.row("축구 월드컵 우승 확정", key, **{key: NOW-4*3600})
             result = inbox({"items": [row]}, NOW)
             self.assertEqual(result["candidates"], [])
-            self.assertEqual(result["extended_candidates"][0]["published_metadata"], NOW-13*3600)
+            self.assertEqual(result["extended_candidates"][0]["published_metadata"], NOW-4*3600)
 
     def test_future_and_older_than_two_days_are_excluded(self):
         rows = [dict(self.row("축구 우승", "future"), observed_at=NOW+1),
