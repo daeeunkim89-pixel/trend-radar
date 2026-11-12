@@ -1,219 +1,211 @@
 {
   "version": 2,
-  "hour_utc": "2026111123",
+  "hour_utc": "2026111200",
   "reviewer": "ChatGPT",
-  "generated_at": 1794438310,
+  "generated_at": 1794441943,
   "coverage": {
     "queries": [
-      "site:reuters.com/sports November 11 2026 latest soccer football sports Reuters",
-      "site:reuters.com/world November 11 2026 latest breaking world Reuters",
-      "site:reuters.com/business November 11 2026 latest major news Reuters",
-      "2026년 11월 12일 08시 주요 스포츠 축구 속보 SBS 연합뉴스 YTN 뉴시스",
-      "site:reuters.com November 11 2026 10:00 PM UTC latest world business major news Reuters",
-      "site:reuters.com/sports November 11 2026 10:00 PM UTC latest major sports soccer Reuters"
+      "site:reuters.com/sports November 12 2026 latest soccer football sports Reuters",
+      "site:reuters.com/world November 12 2026 latest breaking world Reuters",
+      "site:reuters.com/business November 12 2026 latest major news Reuters",
+      "2026년 11월 12일 09시 주요 스포츠 축구 속보 SBS 연합뉴스 YTN 뉴시스",
+      "site:reuters.com/sports November 11 2026 11:00 PM UTC latest major sports Reuters",
+      "site:reuters.com November 11 2026 11:00 PM UTC latest major world business breaking Reuters"
     ],
     "opened_urls": [
-      "https://www.reuters.com/sports/",
-      "https://www.reuters.com/world/",
-      "https://www.reuters.com/business/",
-      "https://www.reuters.com/sports/soccer/fifa-clears-joint-bids-2031-2035-womens-world-cups-2026-11-11/",
-      "https://www.reuters.com/technology/nvidia-is-preparing-oust-ceo-jensen-huang-wsj-reports-2026-11-11/",
-      "https://www.reuters.com/world/middle-east/iran-attacks-shipping-navigation-systems-omans-didamar-island-sources-say-2026-11-11/",
-      "https://www.reuters.com/world/china/myanmar-lobbies-us-invest-its-rare-earths-sector-dominated-by-china-2026-11-10/",
-      "https://www.reuters.com/business/energy/exxon-assessing-7-areas-venezuela-possible-energy-projects-sources-say-2026-11-11/"
+      "https://www.reuters.com/sports/soccer/us-pulls-mens-under-17-team-world-cup-qatar-over-safety-concerns-2026-11-11/",
+      "https://www.reuters.com/world/europe/russia-shoots-down-92-drones-over-leningrad-region-2026-11-11/",
+      "https://www.reuters.com/business/retail-consumer/unilever-mccormick-food-deal-may-weaken-uk-competition-watchdog-says-2026-11-11/",
+      "https://www.reuters.com/business/energy/rwe-kkr-finalise-16-billion-investment-uk-renewables-2026-11-11/",
+      "https://www.reuters.com/business/world-at-work/australian-companies-face-ai-washing-claims-after-wave-job-cuts-offshoring-2026-11-11/"
     ],
     "unavailable": [
-      "run_usage: start=2026-11-11T23:00:53Z; end=2026-11-11T23:05:10Z; elapsed=257s; queries=6; opened=11; failed=0; endpoint=review_complete"
+      "run_usage: start=2026-11-12T00:01:07Z; end=2026-11-12T00:05:43Z; elapsed=276s; queries=6; opened=5; failed=0; endpoint=review_complete"
     ]
   },
   "picks": [
     {
-      "title": "2031·2035 여자월드컵 공동 유치안 통과…48개국 체제로 확대",
+      "title": "미국, 카타르 U-17 월드컵 불참…무력충돌 위험에 대표팀 철수",
       "category": "축구",
-      "url": "https://www.reuters.com/sports/soccer/fifa-clears-joint-bids-2031-2035-womens-world-cups-2026-11-11/",
+      "url": "https://www.reuters.com/sports/soccer/us-pulls-mens-under-17-team-world-cup-qatar-over-safety-concerns-2026-11-11/",
       "source": "Reuters",
       "kind": "article",
-      "event_key": "fifa-womens-world-cup-2031-2035-joint-bids-cleared-20261111",
-      "why": "두 대회 개최 후보와 여자월드컵 첫 48개국 확대가 동시에 구체화된 국제축구 대형 결정이다.",
-      "angle": "공동 유치국·평가점수·48개국 확대와 최종 승인 절차를 한 흐름으로 보여준다.",
-      "why_now": "FIFA는 두 공동 유치안이 최소 개최 요건을 충족해 11월 23일 특별총회 승인 안건으로 올라간다고 밝혔다.",
-      "verified_at": 1794438310,
-      "published_at": 1794418980,
+      "event_key": "us-u17-world-cup-qatar-withdrawal-safety-20261111",
+      "why": "48개국 FIFA 대회에서 미국이 안전 문제로 대표팀 참가 자체를 취소한 중대한 국제축구 결정이다.",
+      "angle": "미국축구협회의 철수 결정과 카타르 여행경보, 11월 19일 개막 대회에 미칠 영향을 순서대로 보여준다.",
+      "why_now": "미국축구협회가 11월 11일 선수들에게 사전 캠프와 대회 참가 취소를 알렸고 FIFA 발표를 기다리고 있다.",
+      "verified_at": 1794441943,
+      "published_at": 1794439505,
       "evidence": [
         {
-          "url": "https://www.reuters.com/sports/soccer/fifa-clears-joint-bids-2031-2035-womens-world-cups-2026-11-11/",
-          "note": "2031년 미국·멕시코·코스타리카·자메이카안은 4.4점, 2035년 영국 4개 협회안은 4.3점을 받았고 두 대회 모두 48개국 체제로 제안됐다."
+          "url": "https://www.reuters.com/sports/soccer/us-pulls-mens-under-17-team-world-cup-qatar-over-safety-concerns-2026-11-11/",
+          "note": "미국축구협회는 국무부의 카타르 3단계 여행경보와 무력충돌 위험을 들어 U-17 대표팀의 사전 캠프와 월드컵 참가를 취소했다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/sports/soccer/fifa-clears-joint-bids-2031-2035-womens-world-cups-2026-11-11/",
+          "url": "https://www.reuters.com/sports/soccer/us-pulls-mens-under-17-team-world-cup-qatar-over-safety-concerns-2026-11-11/",
           "label": "검증 기사 원문",
           "kind": "source"
         }
       ],
-      "caution": "개최 확정은 11월 23일 FIFA 특별총회 승인을 거쳐야 한다.",
+      "caution": "FIFA는 기사 게재 시점까지 즉각 답변하지 않았다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-11",
-        "observation": "2031년 미국·멕시코·코스타리카·자메이카안은 4.4점, 2035년 영국 4개 협회안은 4.3점을 받았고 두 대회 모두 48개국 체제로 제안됐다.",
+        "observation": "미국축구협회는 국무부의 카타르 3단계 여행경보와 무력충돌 위험을 들어 U-17 대표팀의 사전 캠프와 월드컵 참가를 취소했다.",
         "checked_materials": [],
         "outline": [
-          "2031·2035 공동 유치국과 FIFA 평가점수",
-          "여자월드컵 첫 48개국 확대",
-          "11월 23일 특별총회의 최종 승인 절차"
+          "미국, 카타르 U-17 월드컵 불참…무력충돌 위험에 대표팀 철수",
+          "미국축구협회의 철수 결정과 카타르 여행경보, 11월 19일 개막 대회에 미칠 영향을 순서대로 보여준다."
         ]
       }
     },
     {
-      "title": "엔비디아 이사회, 젠슨 황 해임 준비 보도…주가 시간외 8% 급락",
+      "title": "러시아 “레닌그라드 상공 드론 92대 격추”…핵심 항만·정유시설 비상",
       "category": "시사",
-      "url": "https://www.reuters.com/technology/nvidia-is-preparing-oust-ceo-jensen-huang-wsj-reports-2026-11-11/",
+      "url": "https://www.reuters.com/world/europe/russia-shoots-down-92-drones-over-leningrad-region-2026-11-11/",
       "source": "Reuters",
       "kind": "article",
-      "event_key": "nvidia-board-preparing-to-oust-jensen-huang-wsj-report-20261111",
-      "why": "4조달러 기업의 창업자 겸 CEO 거취가 흔들리는 보도로 AI 산업과 시장에 직접 충격을 줬다.",
-      "angle": "해임 준비 보도·이사회 일정·시장 반응과 아직 확인되지 않은 부분을 분리한다.",
-      "why_now": "WSJ는 엔비디아 이사회가 황 CEO의 거취를 결정할 회의를 준비한다고 보도했고 주가는 시간외 약 8% 내렸다.",
-      "verified_at": 1794438310,
-      "published_at": 1794436440,
+      "event_key": "russia-leningrad-92-drones-20261111",
+      "why": "러시아 핵심 수출항과 제2 규모 정유시설이 있는 지역에서 대규모 드론 공격이 보고된 전쟁 중대 후속이다.",
+      "angle": "92대 격추 주장과 발트해 수출항·키리시 정유시설의 전략적 의미, 주변국 방공 대응을 분리해 설명한다.",
+      "why_now": "레닌그라드 주지사가 11월 11일 새벽 공격을 발표했고 라트비아·리투아니아도 미확인 드론에 경보를 냈다.",
+      "verified_at": 1794441943,
+      "published_at": 1794356589,
       "evidence": [
         {
-          "url": "https://www.reuters.com/technology/nvidia-is-preparing-oust-ceo-jensen-huang-wsj-reports-2026-11-11/",
-          "note": "WSJ는 이사회가 황 CEO 해임을 준비하며 이르면 수요일 회의를 연다고 보도했다. 엔비디아는 즉각 답하지 않았고 Reuters는 보도를 독립 확인하지 못했다."
+          "url": "https://www.reuters.com/world/europe/russia-shoots-down-92-drones-over-leningrad-region-2026-11-11/",
+          "note": "레닌그라드 주지사는 드론 92대를 격추했다고 밝혔다. 이 지역에는 우스트루가 등 주요 항만과 러시아 제2 규모 키리시 정유시설이 있다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/technology/nvidia-is-preparing-oust-ceo-jensen-huang-wsj-reports-2026-11-11/",
+          "url": "https://www.reuters.com/world/europe/russia-shoots-down-92-drones-over-leningrad-region-2026-11-11/",
           "label": "검증 기사 원문",
           "kind": "source"
         }
       ],
-      "caution": "WSJ 보도 단계이며 엔비디아의 공식 해임 결정은 확인되지 않았다.",
+      "caution": "Reuters는 러시아 측 격추 주장을 독립적으로 확인하지 못했다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-11",
-        "observation": "WSJ는 이사회가 황 CEO 해임을 준비하며 이르면 수요일 회의를 연다고 보도했다. 엔비디아는 즉각 답하지 않았고 Reuters는 보도를 독립 확인하지 못했다.",
+        "observation": "레닌그라드 주지사는 드론 92대를 격추했다고 밝혔다. 이 지역에는 우스트루가 등 주요 항만과 러시아 제2 규모 키리시 정유시설이 있다.",
         "checked_materials": [],
         "outline": [
-          "WSJ가 보도한 이사회의 해임 준비",
-          "시간외 주가 약 8% 하락과 3천억달러 이상 시총 감소",
-          "회사 확인 전이라는 사실과 Reuters의 검증 한계"
+          "러시아 “레닌그라드 상공 드론 92대 격추”…핵심 항만·정유시설 비상",
+          "92대 격추 주장과 발트해 수출항·키리시 정유시설의 전략적 의미, 주변국 방공 대응을 분리해 설명한다."
         ]
       }
     },
     {
-      "title": "이란, 호르무즈 복구 핵심시설 타격…오만 섬 항법장비 겨냥",
+      "title": "영국, 650억달러 유니레버·맥코믹 식품 합병에 시정조치 요구",
       "category": "시사",
-      "url": "https://www.reuters.com/world/middle-east/iran-attacks-shipping-navigation-systems-omans-didamar-island-sources-say-2026-11-11/",
+      "url": "https://www.reuters.com/business/retail-consumer/unilever-mccormick-food-deal-may-weaken-uk-competition-watchdog-says-2026-11-11/",
       "source": "Reuters",
       "kind": "article",
-      "event_key": "iran-didamar-navigation-systems-attack-hormuz-20261111",
-      "why": "세계 원유 수송로 복구에 쓰이는 항법 인프라가 공격 대상이 되며 호르무즈 위험이 다시 커졌다.",
-      "angle": "공격 확인·피해 불명·대체 장비로 제한될 수 있는 영향까지 함께 설명한다.",
-      "why_now": "Reuters는 오만 디다마르섬 항법 시스템 공격을 세 소식통으로 확인했고 영상과 위성자료에서 열 활동도 확인했다.",
-      "verified_at": 1794438310,
-      "published_at": 1794419520,
+      "event_key": "unilever-mccormick-uk-cma-remedies-20261111",
+      "why": "세계 식품업계 두 번째 규모 거래가 영국 경쟁당국의 심층 조사 또는 자산 매각 갈림길에 섰다.",
+      "angle": "650억달러 거래 규모와 건조 소스·조리 믹스 경쟁 우려, 11월 18일 시정안 기한을 핵심으로 잡는다.",
+      "why_now": "영국 CMA가 11월 11일 경쟁 우려를 공개하고 시정안이 없으면 심층 조사에 착수한다고 밝혔다.",
+      "verified_at": 1794441943,
+      "published_at": 1794381535,
       "evidence": [
         {
-          "url": "https://www.reuters.com/world/middle-east/iran-attacks-shipping-navigation-systems-omans-didamar-island-sources-say-2026-11-11/",
-          "note": "세 소식통은 이란이 디다마르섬 선박 항법 시스템을 공격했다고 확인했다. Reuters는 연기를 확인했지만 어떤 장비가 파괴됐는지는 독립 확인하지 못했다."
+          "url": "https://www.reuters.com/business/retail-consumer/unilever-mccormick-food-deal-may-weaken-uk-competition-watchdog-says-2026-11-11/",
+          "note": "영국 CMA는 유니레버와 맥코믹의 650억달러 식품사업 결합이 건조 조리 믹스와 소스 경쟁을 약화할 수 있다며 11월 18일까지 시정안을 요구했다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/world/middle-east/iran-attacks-shipping-navigation-systems-omans-didamar-island-sources-say-2026-11-11/",
+          "url": "https://www.reuters.com/business/retail-consumer/unilever-mccormick-food-deal-may-weaken-uk-competition-watchdog-says-2026-11-11/",
           "label": "검증 기사 원문",
           "kind": "source"
         }
       ],
-      "caution": "정확한 피해 규모는 확인되지 않았고 상업 운항 영향은 제한적일 수 있다.",
+      "caution": "합병은 확정 완료가 아니며 시정조치나 심층 조사, 차단 가능성이 남아 있다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-11",
-        "observation": "세 소식통은 이란이 디다마르섬 선박 항법 시스템을 공격했다고 확인했다. Reuters는 연기를 확인했지만 어떤 장비가 파괴됐는지는 독립 확인하지 못했다.",
+        "observation": "영국 CMA는 유니레버와 맥코믹의 650억달러 식품사업 결합이 건조 조리 믹스와 소스 경쟁을 약화할 수 있다며 11월 18일까지 시정안을 요구했다.",
         "checked_materials": [],
         "outline": [
-          "호르무즈 항법 인프라 공격 확인",
-          "연기·열 활동 확인과 피해 규모 미확정",
-          "걸프 원유 수출 복구와 대체 항법 체계의 영향"
+          "영국, 650억달러 유니레버·맥코믹 식품 합병에 시정조치 요구",
+          "650억달러 거래 규모와 건조 소스·조리 믹스 경쟁 우려, 11월 18일 시정안 기한을 핵심으로 잡는다."
         ]
       }
     },
     {
-      "title": "미얀마 군정, 미국에 희토류 투자 요청…중국 독점 공급망 흔드나",
+      "title": "RWE·KKR, 영국 해상풍력에 160억달러 확정…300만 가구 전력 규모",
       "category": "시사",
-      "url": "https://www.reuters.com/world/china/myanmar-lobbies-us-invest-its-rare-earths-sector-dominated-by-china-2026-11-10/",
+      "url": "https://www.reuters.com/business/energy/rwe-kkr-finalise-16-billion-investment-uk-renewables-2026-11-11/",
       "source": "Reuters",
       "kind": "article",
-      "event_key": "myanmar-us-rare-earth-investment-lobbying-20261110",
-      "why": "중국이 장악한 중희토류 공급망에서 미국과 미얀마의 이해가 맞물린 지정학적 움직임이다.",
-      "angle": "미국의 새 전략 문서·군정의 로비·중국 의존 구조와 내전 위험을 함께 본다.",
-      "why_now": "미얀마 측 로비는 미국에 희토류를 핵심광물 우선과제로 다뤄 투자를 늘리라고 촉구했다.",
-      "verified_at": 1794438310,
-      "published_at": 1794281700,
+      "event_key": "rwe-kkr-uk-offshore-wind-16-billion-20261111",
+      "why": "영국 최대급 재생에너지 투자로 2030년 완공 목표와 300만 가구 전력 규모가 함께 확정됐다.",
+      "angle": "120억파운드 금융종결, 두 해상풍력단지, 일자리 2천400개와 300만 가구 공급 규모를 한눈에 정리한다.",
+      "why_now": "RWE와 KKR이 11월 11일 노퍽 뱅가드 동·서부 프로젝트의 금융종결을 발표했다.",
+      "verified_at": 1794441943,
+      "published_at": 1794380492,
       "evidence": [
         {
-          "url": "https://www.reuters.com/world/china/myanmar-lobbies-us-invest-its-rare-earths-sector-dominated-by-china-2026-11-10/",
-          "note": "미얀마 군정은 미국의 재관여와 희토류 투자 확대를 요청했다. 미얀마는 주요 중희토류 공급국이며 생산물 대부분이 중국으로 수출된다."
+          "url": "https://www.reuters.com/business/energy/rwe-kkr-finalise-16-billion-investment-uk-renewables-2026-11-11/",
+          "note": "RWE와 KKR은 영국 해상풍력 사업에 약 120억파운드를 투자한다. 2030년 완공 목표이며 건설 일자리 2천400개와 약 300만 가구 전력 공급이 예상된다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/world/china/myanmar-lobbies-us-invest-its-rare-earths-sector-dominated-by-china-2026-11-10/",
+          "url": "https://www.reuters.com/business/energy/rwe-kkr-finalise-16-billion-investment-uk-renewables-2026-11-11/",
           "label": "검증 기사 원문",
           "kind": "source"
         }
       ],
-      "caution": "투자 합의가 체결된 것은 아니며 미얀마는 내전과 군정 통치가 계속되고 있다.",
+      "caution": "",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-11",
+        "observation": "RWE와 KKR은 영국 해상풍력 사업에 약 120억파운드를 투자한다. 2030년 완공 목표이며 건설 일자리 2천400개와 약 300만 가구 전력 공급이 예상된다.",
+        "checked_materials": [],
+        "outline": [
+          "RWE·KKR, 영국 해상풍력에 160억달러 확정…300만 가구 전력 규모",
+          "120억파운드 금융종결, 두 해상풍력단지, 일자리 2천400개와 300만 가구 공급 규모를 한눈에 정리한다."
+        ]
+      }
+    },
+    {
+      "title": "콴타스 850명 감원에 ‘AI 워싱’ 논란…자동화 전 해외 이전부터",
+      "category": "시사",
+      "url": "https://www.reuters.com/business/world-at-work/australian-companies-face-ai-washing-claims-after-wave-job-cuts-offshoring-2026-11-11/",
+      "source": "Reuters",
+      "kind": "article",
+      "event_key": "australia-ai-washing-job-cuts-offshoring-20261112",
+      "why": "대기업이 AI를 앞세워 감원과 해외 이전을 정당화한다는 노동시장 논쟁이 호주 전역으로 확산됐다.",
+      "angle": "콴타스 850명 감원과 인도 외주 이전, 노조의 AI 워싱 주장, 중앙은행의 신중한 평가를 구분한다.",
+      "why_now": "11월 12일 공개된 보도는 콴타스·아틀라시안·텔스트라 등 호주 대기업의 AI 명분 감원을 함께 분석했다.",
+      "verified_at": 1794441943,
+      "published_at": 1794430911,
+      "evidence": [
+        {
+          "url": "https://www.reuters.com/business/world-at-work/australian-companies-face-ai-washing-claims-after-wave-job-cuts-offshoring-2026-11-11/",
+          "note": "콴타스는 850명 감원과 일부 업무의 해외 이전을 발표했다. 노조와 전문가는 AI보다 비용절감·외주화가 먼저라며 ‘AI 워싱’ 가능성을 제기했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.reuters.com/business/world-at-work/australian-companies-face-ai-washing-claims-after-wave-job-cuts-offshoring-2026-11-11/",
+          "label": "검증 기사 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "AI 워싱은 노조·전문가의 비판이며 기업의 위법 사실로 확정된 표현이 아니다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-10",
-        "observation": "미얀마 군정은 미국의 재관여와 희토류 투자 확대를 요청했다. 미얀마는 주요 중희토류 공급국이며 생산물 대부분이 중국으로 수출된다.",
+        "observation": "콴타스는 850명 감원과 일부 업무의 해외 이전을 발표했다. 노조와 전문가는 AI보다 비용절감·외주화가 먼저라며 ‘AI 워싱’ 가능성을 제기했다.",
         "checked_materials": [],
         "outline": [
-          "미얀마 군정의 미국 투자 요청",
-          "미국 전략 문서와 핵심광물 공급망 목표",
-          "중국 의존도와 내전·사업환경 위험"
-        ]
-      }
-    },
-    {
-      "title": "엑손, 베네수엘라 7개 유전 검토…1년 독점 협상권 확보",
-      "category": "시사",
-      "url": "https://www.reuters.com/business/energy/exxon-assessing-7-areas-venezuela-possible-energy-projects-sources-say-2026-11-11/",
-      "source": "Reuters",
-      "kind": "article",
-      "event_key": "exxon-venezuela-seven-energy-areas-preliminary-pact-20261111",
-      "why": "글로벌 석유기업의 베네수엘라 재진입이 구체화되며 원유시장과 중남미 에너지 판도를 바꿀 수 있다.",
-      "angle": "7개 대상 지역·오리노코 중심·1년 독점 협상권과 비구속 성격을 분리한다.",
-      "why_now": "Reuters는 엑손·베네수엘라 정부·PDVSA의 예비 합의가 7개 지역 평가와 1년 독점 협상권을 허용한다고 보도했다.",
-      "verified_at": 1794438310,
-      "published_at": 1794435000,
-      "evidence": [
-        {
-          "url": "https://www.reuters.com/business/energy/exxon-assessing-7-areas-venezuela-possible-energy-projects-sources-say-2026-11-11/",
-          "note": "네 소식통에 따르면 예비 합의는 미개발·성숙 유전과 탐사 블록 등 7개 지역을 포함하며 엑손에 1년간 자료 열람과 계약조건 독점 협상권을 준다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.reuters.com/business/energy/exxon-assessing-7-areas-venezuela-possible-energy-projects-sources-say-2026-11-11/",
-          "label": "검증 기사 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "양해각서는 비구속적이며 실제 투자·개발 계약은 아직 확정되지 않았다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-11",
-        "observation": "네 소식통에 따르면 예비 합의는 미개발·성숙 유전과 탐사 블록 등 7개 지역을 포함하며 엑손에 1년간 자료 열람과 계약조건 독점 협상권을 준다.",
-        "checked_materials": [],
-        "outline": [
-          "검토 대상 7개 지역과 오리노코 벨트",
-          "1년 독점 협상권과 자료 열람",
-          "비구속 예비 합의와 최종 계약 미확정"
+          "콴타스 850명 감원에 ‘AI 워싱’ 논란…자동화 전 해외 이전부터",
+          "콴타스 850명 감원과 인도 외주 이전, 노조의 AI 워싱 주장, 중앙은행의 신중한 평가를 구분한다."
         ]
       }
     }
