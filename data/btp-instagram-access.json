@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "checked_at": 1794750710,
+  "profile_url": "https://www.instagram.com/bythepulse/",
+  "status": "unavailable",
+  "checks": [
+    {
+      "url": "https://www.instagram.com/bythepulse/",
+      "http_status": 429,
+      "status": "http_error"
+    }
+  ],
+  "post_links": [],
+  "posts": [],
+  "limits": [
+    "Only public HTML; no cookies, login, private API or challenge bypass.",
+    "No new posts or publication rate claimed unless actual content is returned.",
+    "Missing timestamps remain unknown; profile links alone do not establish adoption."
+  ]
+}
