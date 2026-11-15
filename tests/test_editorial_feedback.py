@@ -71,3 +71,21 @@ class FeedbackTests(unittest.TestCase):
         p=post();p["fact_identities"]=p.pop("recommendation_matches")
         with patch("editorial_feedback.read_json",return_value={"observations":[p]}):
             self.assertEqual(filter_already_published([{"editorial":{"event_key":"fact-a"}}],NOW),([],1))
+
+    def test_observed_unsent_feed_fact_counts_as_a_gap_not_zero_adoption(self):
+        p=post(key="new-football-fact",at=None)
+        p["fact_identities"]=p.pop("recommendation_matches")
+        out=analyze(history(),{"observations":[p]},NOW)
+        self.assertEqual(out["summary"]["confirmed_observed_posts"],1)
+        self.assertEqual(out["summary"]["observed_posts_without_same_fact_in_sent_history"],1)
+        self.assertEqual(out["summary"]["observed_posts_with_same_fact_in_sent_history"],0)
+        self.assertIsNone(out["summary"]["publication_match_rate"])
+
+    def test_same_person_different_development_does_not_create_a_match(self):
+        h=history()
+        h["editions"][0]["picks"][0].update(event_key="son-unity-meeting",title="Son team meeting")
+        p=post(key="son-contract-report",at=None)
+        p["fact_identities"]=p.pop("recommendation_matches")
+        out=analyze(h,{"observations":[p]},NOW)
+        self.assertEqual(out["summary"]["observed_timing_unknown"],0)
+        self.assertEqual(out["summary"]["observed_posts_without_same_fact_in_sent_history"],1)

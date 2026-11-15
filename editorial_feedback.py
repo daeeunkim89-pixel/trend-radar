@@ -127,11 +127,16 @@ def analyze(history, learning, now):
                         **counts, "publication_match_rate": rate, "rate_denominator": len(mature) if rate is not None else 0,
                         "direct_adoption_rate": None,
                         "top3_posted_after": sum(r["rank"] <= 3 and r["status"] == "posted_after" for r in records),
-                        "confirmed_observed_posts": len(posts)},
+                        "confirmed_observed_posts": len(posts),
+                        "observed_posts_with_same_fact_in_sent_history": sum(
+                            any(key in cohort for key in p["matched_keys"]) for p in posts),
+                        "observed_posts_without_same_fact_in_sent_history": sum(
+                            not any(key in cohort for key in p["matched_keys"]) for p in posts)},
             "limits": ["Public same-fact overlap is not proof the recommendation was used.",
                        "Incomplete/blocked access is unknown, never a zero adoption rate.",
                        "A 24h non-match is an observation, not a confirmed rejection reason.",
-                       "Post captions/times need actual observation; title/person overlap is insufficient."],
+                       "Post captions/times need actual observation; title/person overlap is insufficient.",
+                       "Observed-post coverage is a reverse sample comparison, not a recommendation adoption rate."],
             "records": records}
 
 

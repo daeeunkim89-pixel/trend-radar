@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": 1794749652,
+  "updated_at": 1794752548,
   "profile_checks": [
     {
       "at": 1792379965,
@@ -201,6 +201,50 @@
         "2026-11-15 실제 점검: root 공개 프로필·프로필 임베드·과거 개별 게시물 임베드 Cache miss; 클라우드 공개프로필 Online fetch throttled, 과거 개별/임베드 DisabledError.",
         "최신 그리드·캡션·게시시각을 확보하지 못했음. 게시물 관찰 0개는 채택률 0%가 아니며 미반영/거절 사유를 판정하지 않음.",
         "연결 조회 도구도 get_connectors 호출 Unknown tool로 조회 불가. Instagram 로그인 자체가 반드시 필요한 것으로 단정하지 않음."
+      ]
+    },
+    {
+      "at": 1794752548,
+      "profile_url": "https://www.instagram.com/bythepulse/",
+      "status": "captions_observed_partial",
+      "execution_environment": "user_pc_edge",
+      "access_method": "official_public_captioned_embed",
+      "visible_post_ids": [
+        "Dfw1r5UoLEO",
+        "DfwvywFoBWa",
+        "DfwoKT-oIdj",
+        "Dfwf7HLoBGU",
+        "DfwXeB6oKc7",
+        "DfwOOkboNQ5",
+        "DfwDQ4ZIGfI",
+        "Dfv4vFgINUr",
+        "Dfvr8vsiT-P",
+        "DfvhwHan46D",
+        "DfuOMDcowdW",
+        "DfuHpBviVC7"
+      ],
+      "newly_documented_ids": [
+        "Dfw1r5UoLEO",
+        "DfwvywFoBWa",
+        "DfwoKT-oIdj",
+        "Dfwf7HLoBGU",
+        "DfwXeB6oKc7",
+        "DfwOOkboNQ5",
+        "DfwDQ4ZIGfI",
+        "Dfv4vFgINUr",
+        "Dfvr8vsiT-P",
+        "DfvhwHan46D",
+        "DfuOMDcowdW",
+        "DfuHpBviVC7"
+      ],
+      "complete_feed_window": false,
+      "coverage_start_at": null,
+      "coverage_end_at": null,
+      "limits": [
+        "사용자가 연 Edge의 공개 그리드와 공식 captioned embed에서 12개 본문을 실제 읽음. 로그인 없이 성공.",
+        "화면 날짜는 11/14~15 표기이며 정확한 게시시각·전체 피드·전체 슬라이드/영상·Insights는 미확인.",
+        "이전 클라우드 HTTP429/DisabledError 기록은 별도 환경의 실제 실패로 보존. PC 전원과 무관한 클라우드 읽기 성공은 아직 미검증.",
+        "본문에 담긴 뉴스 진위를 독립 검증했다는 의미가 아니며 편집 선택 관찰로만 사용."
       ]
     }
   ],
@@ -465,6 +509,468 @@
       "discovery_urls": [],
       "finding": "공개 표지 관찰이며 기저 사실·추천 채택·성과 확인이 아니다. 현재 비교한19회차에 동일 사건은 찾지 못했지만 과거 전체 미수집·미검토를 단정하지 않는다.",
       "next_change": "알려진 당사자 사이의 직접적인 반박은 일반적인 인터뷰와 구별해 실제 발언·맥락·새 공개 시각을 먼저 확인한다. 익숙한 이름이나 비판 표현만으로 통과시키지 않고 이미 게시된 이 사건은 재추천하지 않는다."
+    },
+    {
+      "id": "btp-caption-Dfw1r5UoLEO",
+      "account": "bythepulse",
+      "post_id": "Dfw1r5UoLEO",
+      "post_url": "https://www.instagram.com/bythepulse/p/Dfw1r5UoLEO/",
+      "embed_url": "https://www.instagram.com/p/Dfw1r5UoLEO/embed/captioned/",
+      "observed_at": 1794752548,
+      "published_at": null,
+      "displayed_date": "2026-11-15",
+      "scope": "caption",
+      "category": "축구",
+      "topic": "흐비차의 부상 중 트위치 방송 전환",
+      "observation": "캡션은 과거 십자인대 부상 자체보다 최근 트위치 방송과 6개월 스트리밍 농담을 중심에 놓았다.",
+      "metrics": null,
+      "underlying_facts_verified": false,
+      "recommendation_matches": [],
+      "fact_identities": [
+        {
+          "event_key": "kvaratskhelia-twitch-six-months-acl-streaming-202611",
+          "same_fact_verified": true,
+          "evidence": "캡션은 과거 십자인대 부상 자체보다 최근 트위치 방송과 6개월 스트리밍 농담을 중심에 놓았다.",
+          "identity_scope": "observed BTP caption; underlying news not independently verified"
+        }
+      ],
+      "comparison": {
+        "history_commit": "edef0806f0783eb9fca4f40db0f87ec600534076",
+        "compared_editions": 26,
+        "compared_sent_rows": 150,
+        "from_at": 1794186517,
+        "through_at": 1794740918,
+        "match": "no_same_fact_found_in_compared_sent_history",
+        "related_but_different_facts": []
+      },
+      "miss_stage": "undetermined",
+      "timing_limit": "정확한 게시시각과 당시 후보 수집 기록이 없어 미발견/탈락/늦음의 단계를 확정하지 않음. 11/13~14 발송 공백도 포함.",
+      "next_change": "스타의 예상 밖 새 행동·직접 발언; 과거 부상 기사와 분리"
+    },
+    {
+      "id": "btp-caption-DfwvywFoBWa",
+      "account": "bythepulse",
+      "post_id": "DfwvywFoBWa",
+      "post_url": "https://www.instagram.com/bythepulse/p/DfwvywFoBWa/",
+      "embed_url": "https://www.instagram.com/p/DfwvywFoBWa/embed/captioned/",
+      "observed_at": 1794752548,
+      "published_at": null,
+      "displayed_date": "2026-11-15",
+      "scope": "caption",
+      "category": "축구",
+      "topic": "손흥민 LAFC 계약과 유럽 복귀 가능성",
+      "observation": "캡션은 AS의 13일 계약 만료 선수 명단과 LAFC 기본 계약/연장 옵션을 근거로 유럽 복귀 가능성을 다뤘다. 확정 이적 발표가 아니다.",
+      "metrics": null,
+      "underlying_facts_verified": false,
+      "recommendation_matches": [],
+      "fact_identities": [
+        {
+          "event_key": "son-lafc-2027-contract-as-europe-return-possibility-20261113",
+          "same_fact_verified": true,
+          "evidence": "캡션은 AS의 13일 계약 만료 선수 명단과 LAFC 기본 계약/연장 옵션을 근거로 유럽 복귀 가능성을 다뤘다. 확정 이적 발표가 아니다.",
+          "identity_scope": "observed BTP caption; underlying news not independently verified"
+        }
+      ],
+      "comparison": {
+        "history_commit": "edef0806f0783eb9fca4f40db0f87ec600534076",
+        "compared_editions": 26,
+        "compared_sent_rows": 150,
+        "from_at": 1794186517,
+        "through_at": 1794740918,
+        "match": "no_same_fact_found_in_compared_sent_history",
+        "related_but_different_facts": [
+          {
+            "event_key": "korea-national-team-doha-full-squad-son-unity-meeting-20261110",
+            "same_fact_verified": false,
+            "reason": "같은 손흥민이지만 계약/경기 뒤 감독 발언과 단합 미팅은 다른 사실."
+          }
+        ]
+      },
+      "miss_stage": "undetermined",
+      "timing_limit": "정확한 게시시각과 당시 후보 수집 기록이 없어 미발견/탈락/늦음의 단계를 확정하지 않음. 11/13~14 발송 공백도 포함.",
+      "next_change": "한국 팬 관심·구체적 계약 구조; 가능성과 확정을 구별"
+    },
+    {
+      "id": "btp-caption-DfwoKT-oIdj",
+      "account": "bythepulse",
+      "post_id": "DfwoKT-oIdj",
+      "post_url": "https://www.instagram.com/bythepulse/p/DfwoKT-oIdj/",
+      "embed_url": "https://www.instagram.com/p/DfwoKT-oIdj/embed/captioned/",
+      "observed_at": 1794752548,
+      "published_at": null,
+      "displayed_date": "2026-11-15",
+      "scope": "caption",
+      "category": "축구",
+      "topic": "사우디전 뒤 모레노의 손흥민 신뢰 발언",
+      "observation": "캡션은 사우디전 부진 논란 뒤 모레노의 손흥민 신뢰 발언을 다뤘다.",
+      "metrics": null,
+      "underlying_facts_verified": false,
+      "recommendation_matches": [],
+      "fact_identities": [
+        {
+          "event_key": "moreno-backs-son-after-korea-saudi-defeat-202611",
+          "same_fact_verified": true,
+          "evidence": "캡션은 사우디전 부진 논란 뒤 모레노의 손흥민 신뢰 발언을 다뤘다.",
+          "identity_scope": "observed BTP caption; underlying news not independently verified"
+        }
+      ],
+      "comparison": {
+        "history_commit": "edef0806f0783eb9fca4f40db0f87ec600534076",
+        "compared_editions": 26,
+        "compared_sent_rows": 150,
+        "from_at": 1794186517,
+        "through_at": 1794740918,
+        "match": "no_same_fact_found_in_compared_sent_history",
+        "related_but_different_facts": [
+          {
+            "event_key": "korea-national-team-doha-full-squad-son-unity-meeting-20261110",
+            "same_fact_verified": false,
+            "reason": "같은 손흥민이지만 계약/경기 뒤 감독 발언과 단합 미팅은 다른 사실."
+          }
+        ]
+      },
+      "miss_stage": "undetermined",
+      "timing_limit": "정확한 게시시각과 당시 후보 수집 기록이 없어 미발견/탈락/늦음의 단계를 확정하지 않음. 11/13~14 발송 공백도 포함.",
+      "next_change": "경기 결과 이후 팬 관심을 잇는 구체적 직접 반응"
+    },
+    {
+      "id": "btp-caption-Dfwf7HLoBGU",
+      "account": "bythepulse",
+      "post_id": "Dfwf7HLoBGU",
+      "post_url": "https://www.instagram.com/bythepulse/p/Dfwf7HLoBGU/",
+      "embed_url": "https://www.instagram.com/p/Dfwf7HLoBGU/embed/captioned/",
+      "observed_at": 1794752548,
+      "published_at": null,
+      "displayed_date": "2026-11-15",
+      "scope": "caption",
+      "category": "축구",
+      "topic": "박항서 관중 충돌 후 징계",
+      "observation": "캡션은 인종차별 관중과 충돌한 박항서에게 내려진 출전정지/벌금을 다뤘다. 1일 충돌과 이후 징계를 구분한다.",
+      "metrics": null,
+      "underlying_facts_verified": false,
+      "recommendation_matches": [],
+      "fact_identities": [
+        {
+          "event_key": "park-hang-seo-kanchanaburi-racist-crowd-discipline-202611",
+          "same_fact_verified": true,
+          "evidence": "캡션은 인종차별 관중과 충돌한 박항서에게 내려진 출전정지/벌금을 다뤘다. 1일 충돌과 이후 징계를 구분한다.",
+          "identity_scope": "observed BTP caption; underlying news not independently verified"
+        }
+      ],
+      "comparison": {
+        "history_commit": "edef0806f0783eb9fca4f40db0f87ec600534076",
+        "compared_editions": 26,
+        "compared_sent_rows": 150,
+        "from_at": 1794186517,
+        "through_at": 1794740918,
+        "match": "no_same_fact_found_in_compared_sent_history",
+        "related_but_different_facts": []
+      },
+      "miss_stage": "undetermined",
+      "timing_limit": "정확한 게시시각과 당시 후보 수집 기록이 없어 미발견/탈락/늦음의 단계를 확정하지 않음. 11/13~14 발송 공백도 포함.",
+      "next_change": "익숙한 한국 인물·부당함 논쟁·새 처분"
+    },
+    {
+      "id": "btp-caption-DfwXeB6oKc7",
+      "account": "bythepulse",
+      "post_id": "DfwXeB6oKc7",
+      "post_url": "https://www.instagram.com/bythepulse/p/DfwXeB6oKc7/",
+      "embed_url": "https://www.instagram.com/p/DfwXeB6oKc7/embed/captioned/",
+      "observed_at": 1794752548,
+      "published_at": null,
+      "displayed_date": "2026-11-15",
+      "scope": "caption",
+      "category": "시사",
+      "topic": "고경표 음주 사고 인정과 활동 중단",
+      "observation": "캡션은 음주 사고 관련 직접 사과문과 활동 중단 입장을 다뤘다.",
+      "metrics": null,
+      "underlying_facts_verified": false,
+      "recommendation_matches": [],
+      "fact_identities": [
+        {
+          "event_key": "go-kyung-pyo-dui-apology-activity-suspension-202611",
+          "same_fact_verified": true,
+          "evidence": "캡션은 음주 사고 관련 직접 사과문과 활동 중단 입장을 다뤘다.",
+          "identity_scope": "observed BTP caption; underlying news not independently verified"
+        }
+      ],
+      "comparison": {
+        "history_commit": "edef0806f0783eb9fca4f40db0f87ec600534076",
+        "compared_editions": 26,
+        "compared_sent_rows": 150,
+        "from_at": 1794186517,
+        "through_at": 1794740918,
+        "match": "no_same_fact_found_in_compared_sent_history",
+        "related_but_different_facts": []
+      },
+      "miss_stage": "undetermined",
+      "timing_limit": "정확한 게시시각과 당시 후보 수집 기록이 없어 미발견/탈락/늦음의 단계를 확정하지 않음. 11/13~14 발송 공백도 포함.",
+      "next_change": "일반 연예가 아닌 범죄·공공 피해 사건의 당사자 입장"
+    },
+    {
+      "id": "btp-caption-DfwOOkboNQ5",
+      "account": "bythepulse",
+      "post_id": "DfwOOkboNQ5",
+      "post_url": "https://www.instagram.com/bythepulse/p/DfwOOkboNQ5/",
+      "embed_url": "https://www.instagram.com/p/DfwOOkboNQ5/embed/captioned/",
+      "observed_at": 1794752548,
+      "published_at": null,
+      "displayed_date": "2026-11-14",
+      "scope": "caption",
+      "category": "축구",
+      "topic": "호나우지뉴 복귀 예고와 훈련 터치",
+      "observation": "캡션은 호나우지뉴의 라벤나 경기 복귀 예고와 훈련 영상 속 볼터치를 다뤘다. 이번 감사에서 영상 동작을 재생 검증하지 않았다.",
+      "metrics": null,
+      "underlying_facts_verified": false,
+      "recommendation_matches": [],
+      "fact_identities": [
+        {
+          "event_key": "ronaldinho-ravenna-return-training-touch-202611",
+          "same_fact_verified": true,
+          "evidence": "캡션은 호나우지뉴의 라벤나 경기 복귀 예고와 훈련 영상 속 볼터치를 다뤘다. 이번 감사에서 영상 동작을 재생 검증하지 않았다.",
+          "identity_scope": "observed BTP caption; underlying news not independently verified"
+        }
+      ],
+      "comparison": {
+        "history_commit": "edef0806f0783eb9fca4f40db0f87ec600534076",
+        "compared_editions": 26,
+        "compared_sent_rows": 150,
+        "from_at": 1794186517,
+        "through_at": 1794740918,
+        "match": "no_same_fact_found_in_compared_sent_history",
+        "related_but_different_facts": []
+      },
+      "miss_stage": "undetermined",
+      "timing_limit": "정확한 게시시각과 당시 후보 수집 기록이 없어 미발견/탈락/늦음의 단계를 확정하지 않음. 11/13~14 발송 공백도 포함.",
+      "next_change": "전설적 스타·의외의 복귀·영상에 담긴 구체적 동작"
+    },
+    {
+      "id": "btp-caption-DfwDQ4ZIGfI",
+      "account": "bythepulse",
+      "post_id": "DfwDQ4ZIGfI",
+      "post_url": "https://www.instagram.com/bythepulse/p/DfwDQ4ZIGfI/",
+      "embed_url": "https://www.instagram.com/p/DfwDQ4ZIGfI/embed/captioned/",
+      "observed_at": 1794752548,
+      "published_at": null,
+      "displayed_date": "2026-11-14",
+      "scope": "caption",
+      "category": "축구",
+      "topic": "브라질 패배 뒤 안첼로티의 일본 칭찬",
+      "observation": "캡션은 일본-브라질 경기 결과와 별도로 안첼로티가 일본의 조직력과 모리야스를 칭찬한 발언을 다뤘다.",
+      "metrics": null,
+      "underlying_facts_verified": false,
+      "recommendation_matches": [],
+      "fact_identities": [
+        {
+          "event_key": "ancelotti-praises-japan-moriyasu-after-brazil-loss-202611",
+          "same_fact_verified": true,
+          "evidence": "캡션은 일본-브라질 경기 결과와 별도로 안첼로티가 일본의 조직력과 모리야스를 칭찬한 발언을 다뤘다.",
+          "identity_scope": "observed BTP caption; underlying news not independently verified"
+        }
+      ],
+      "comparison": {
+        "history_commit": "edef0806f0783eb9fca4f40db0f87ec600534076",
+        "compared_editions": 26,
+        "compared_sent_rows": 150,
+        "from_at": 1794186517,
+        "through_at": 1794740918,
+        "match": "no_same_fact_found_in_compared_sent_history",
+        "related_but_different_facts": []
+      },
+      "miss_stage": "undetermined",
+      "timing_limit": "정확한 게시시각과 당시 후보 수집 기록이 없어 미발견/탈락/늦음의 단계를 확정하지 않음. 11/13~14 발송 공백도 포함.",
+      "next_change": "같은 경기라도 새 직접 발언은 결과와 다른 사실"
+    },
+    {
+      "id": "btp-caption-Dfv4vFgINUr",
+      "account": "bythepulse",
+      "post_id": "Dfv4vFgINUr",
+      "post_url": "https://www.instagram.com/bythepulse/p/Dfv4vFgINUr/",
+      "embed_url": "https://www.instagram.com/p/Dfv4vFgINUr/embed/captioned/",
+      "observed_at": 1794752548,
+      "published_at": null,
+      "displayed_date": "2026-11-14",
+      "scope": "caption",
+      "category": "축구",
+      "topic": "호날두를 기리는 포르투갈 7번 디자인",
+      "observation": "캡션은 포르투갈 대표팀의 7번 디자인 변경과 호날두 헌정 메시지를 다뤘다.",
+      "metrics": null,
+      "underlying_facts_verified": false,
+      "recommendation_matches": [],
+      "fact_identities": [
+        {
+          "event_key": "portugal-number-seven-redesign-ronaldo-tribute-202611",
+          "same_fact_verified": true,
+          "evidence": "캡션은 포르투갈 대표팀의 7번 디자인 변경과 호날두 헌정 메시지를 다뤘다.",
+          "identity_scope": "observed BTP caption; underlying news not independently verified"
+        }
+      ],
+      "comparison": {
+        "history_commit": "edef0806f0783eb9fca4f40db0f87ec600534076",
+        "compared_editions": 26,
+        "compared_sent_rows": 150,
+        "from_at": 1794186517,
+        "through_at": 1794740918,
+        "match": "no_same_fact_found_in_compared_sent_history",
+        "related_but_different_facts": []
+      },
+      "miss_stage": "undetermined",
+      "timing_limit": "정확한 게시시각과 당시 후보 수집 기록이 없어 미발견/탈락/늦음의 단계를 확정하지 않음. 11/13~14 발송 공백도 포함.",
+      "next_change": "스타 팬 맥락·한눈에 보이는 구체적 시각 변화"
+    },
+    {
+      "id": "btp-caption-Dfvr8vsiT-P",
+      "account": "bythepulse",
+      "post_id": "Dfvr8vsiT-P",
+      "post_url": "https://www.instagram.com/bythepulse/p/Dfvr8vsiT-P/",
+      "embed_url": "https://www.instagram.com/p/Dfvr8vsiT-P/embed/captioned/",
+      "observed_at": 1794752548,
+      "published_at": null,
+      "displayed_date": "2026-11-14",
+      "scope": "caption",
+      "category": "축구",
+      "topic": "호날두 은퇴 뒤 첫 경기 포르투갈 대패",
+      "observation": "캡션은 호날두 은퇴 뒤 첫 경기라는 맥락에서 포르투갈의 덴마크전 1-4 패배를 다뤘다. 화면 날짜는 14일이나 본문은 15일 한국시간이므로 정확한 게시시각을 추정하지 않았다.",
+      "metrics": null,
+      "underlying_facts_verified": false,
+      "recommendation_matches": [],
+      "fact_identities": [
+        {
+          "event_key": "portugal-denmark-one-four-first-after-ronaldo-retirement-202611",
+          "same_fact_verified": true,
+          "evidence": "캡션은 호날두 은퇴 뒤 첫 경기라는 맥락에서 포르투갈의 덴마크전 1-4 패배를 다뤘다. 화면 날짜는 14일이나 본문은 15일 한국시간이므로 정확한 게시시각을 추정하지 않았다.",
+          "identity_scope": "observed BTP caption; underlying news not independently verified"
+        }
+      ],
+      "comparison": {
+        "history_commit": "edef0806f0783eb9fca4f40db0f87ec600534076",
+        "compared_editions": 26,
+        "compared_sent_rows": 150,
+        "from_at": 1794186517,
+        "through_at": 1794740918,
+        "match": "no_same_fact_found_in_compared_sent_history",
+        "related_but_different_facts": []
+      },
+      "miss_stage": "undetermined",
+      "timing_limit": "정확한 게시시각과 당시 후보 수집 기록이 없어 미발견/탈락/늦음의 단계를 확정하지 않음. 11/13~14 발송 공백도 포함.",
+      "next_change": "익숙한 팀·은퇴 후 첫 경기·결과의 아이러니"
+    },
+    {
+      "id": "btp-caption-DfvhwHan46D",
+      "account": "bythepulse",
+      "post_id": "DfvhwHan46D",
+      "post_url": "https://www.instagram.com/bythepulse/p/DfvhwHan46D/",
+      "embed_url": "https://www.instagram.com/p/DfvhwHan46D/embed/captioned/",
+      "observed_at": 1794752548,
+      "published_at": null,
+      "displayed_date": "2026-11-14",
+      "scope": "caption",
+      "category": "시사",
+      "topic": "세무사 시험 수석 AI 부정행위 자수 영상",
+      "observation": "캡션은 당사자가 변호사와 공개한 자수 영상, 전자기기/AI 사용 인정과 사과를 다뤘다.",
+      "metrics": null,
+      "underlying_facts_verified": false,
+      "recommendation_matches": [],
+      "fact_identities": [
+        {
+          "event_key": "tax-exam-top-scorer-ai-cheating-confession-surrender-video-202611",
+          "same_fact_verified": true,
+          "evidence": "캡션은 당사자가 변호사와 공개한 자수 영상, 전자기기/AI 사용 인정과 사과를 다뤘다.",
+          "identity_scope": "observed BTP caption; underlying news not independently verified"
+        }
+      ],
+      "comparison": {
+        "history_commit": "edef0806f0783eb9fca4f40db0f87ec600534076",
+        "compared_editions": 26,
+        "compared_sent_rows": 150,
+        "from_at": 1794186517,
+        "through_at": 1794740918,
+        "match": "no_same_fact_found_in_compared_sent_history",
+        "related_but_different_facts": [
+          {
+            "event_key": "korea-all-national-qualification-exams-ai-cheating-investigation-20261115",
+            "same_fact_verified": false,
+            "reason": "BTP 자수·인정 영상과 우리 정부 전수조사 발표는 다른 후속 사실."
+          }
+        ]
+      },
+      "miss_stage": "undetermined",
+      "timing_limit": "정확한 게시시각과 당시 후보 수집 기록이 없어 미발견/탈락/늦음의 단계를 확정하지 않음. 11/13~14 발송 공백도 포함.",
+      "next_change": "사회적 파장·당사자 직접 인정; 정부 전수조사와 다른 새 사실"
+    },
+    {
+      "id": "btp-caption-DfuOMDcowdW",
+      "account": "bythepulse",
+      "post_id": "DfuOMDcowdW",
+      "post_url": "https://www.instagram.com/bythepulse/p/DfuOMDcowdW/",
+      "embed_url": "https://www.instagram.com/p/DfuOMDcowdW/embed/captioned/",
+      "observed_at": 1794752548,
+      "published_at": null,
+      "displayed_date": "2026-11-14",
+      "scope": "caption",
+      "category": "축구",
+      "topic": "일본의 브라질전 극적 승리",
+      "observation": "캡션은 일본의 브라질전 3-2 막판 승리와 종료 직후 퇴장을 다뤘다.",
+      "metrics": null,
+      "underlying_facts_verified": false,
+      "recommendation_matches": [],
+      "fact_identities": [
+        {
+          "event_key": "japan-brazil-three-two-late-winner-friendly-202611",
+          "same_fact_verified": true,
+          "evidence": "캡션은 일본의 브라질전 3-2 막판 승리와 종료 직후 퇴장을 다뤘다.",
+          "identity_scope": "observed BTP caption; underlying news not independently verified"
+        }
+      ],
+      "comparison": {
+        "history_commit": "edef0806f0783eb9fca4f40db0f87ec600534076",
+        "compared_editions": 26,
+        "compared_sent_rows": 150,
+        "from_at": 1794186517,
+        "through_at": 1794740918,
+        "match": "no_same_fact_found_in_compared_sent_history",
+        "related_but_different_facts": []
+      },
+      "miss_stage": "undetermined",
+      "timing_limit": "정확한 게시시각과 당시 후보 수집 기록이 없어 미발견/탈락/늦음의 단계를 확정하지 않음. 11/13~14 발송 공백도 포함.",
+      "next_change": "팬이 아는 대표팀의 극적 결과·감독 맥락"
+    },
+    {
+      "id": "btp-caption-DfuHpBviVC7",
+      "account": "bythepulse",
+      "post_id": "DfuHpBviVC7",
+      "post_url": "https://www.instagram.com/bythepulse/p/DfuHpBviVC7/",
+      "embed_url": "https://www.instagram.com/p/DfuHpBviVC7/embed/captioned/",
+      "observed_at": 1794752548,
+      "published_at": null,
+      "displayed_date": "2026-11-14",
+      "scope": "caption",
+      "category": "축구",
+      "topic": "개인 온라인 구단 팬 투표와 반응",
+      "observation": "캡션은 X 개인 이용자의 26만여 응답 구단 투표와 팬 반응을 다뤘다. 공식·과학적 여론조사가 아니다.",
+      "metrics": null,
+      "underlying_facts_verified": false,
+      "recommendation_matches": [],
+      "fact_identities": [
+        {
+          "event_key": "football-club-fan-personal-x-poll-264138-reactions-202611",
+          "same_fact_verified": true,
+          "evidence": "캡션은 X 개인 이용자의 26만여 응답 구단 투표와 팬 반응을 다뤘다. 공식·과학적 여론조사가 아니다.",
+          "identity_scope": "observed BTP caption; underlying news not independently verified"
+        }
+      ],
+      "comparison": {
+        "history_commit": "edef0806f0783eb9fca4f40db0f87ec600534076",
+        "compared_editions": 26,
+        "compared_sent_rows": 150,
+        "from_at": 1794186517,
+        "through_at": 1794740918,
+        "match": "no_same_fact_found_in_compared_sent_history",
+        "related_but_different_facts": []
+      },
+      "miss_stage": "undetermined",
+      "timing_limit": "정확한 게시시각과 당시 후보 수집 기록이 없어 미발견/탈락/늦음의 단계를 확정하지 않음. 11/13~14 발송 공백도 포함.",
+      "next_change": "익숙한 구단·팬 반응은 탐색하되 모욕적 문구를 추천 원칙으로 삼지 않음"
     }
   ],
   "rules": [
@@ -537,6 +1043,67 @@
         "공개 게시 일치는 직접 채택의 인과관계 확인이 아니다.",
         "접근 불가·부분 관찰은 미확인으로 남기고 반영률을 0%로 만들지 않는다.",
         "게시되지 않은 원인은 사용자 확인이 없는 한 가설이다."
+      ]
+    },
+    {
+      "id": "observed-football-reader-fit-20261115",
+      "status": "evidence_based_priority",
+      "introduced_at": 1794752548,
+      "evidence_ids": [
+        "btp-caption-Dfw1r5UoLEO",
+        "btp-caption-DfwvywFoBWa",
+        "btp-caption-DfwoKT-oIdj",
+        "btp-caption-Dfwf7HLoBGU",
+        "btp-caption-DfwXeB6oKc7",
+        "btp-caption-DfwOOkboNQ5",
+        "btp-caption-DfwDQ4ZIGfI",
+        "btp-caption-Dfv4vFgINUr",
+        "btp-caption-Dfvr8vsiT-P",
+        "btp-caption-DfvhwHan46D",
+        "btp-caption-DfuOMDcowdW",
+        "btp-caption-DfuHpBviVC7"
+      ],
+      "rule": "실측12개 중 축구10개인 최근 편집을 출발점으로 매회 축구 원본부터 탐색한다. 한국 팬이 아는 선수·대표팀·구단의 새 행동/직접 발언/반전/구체적 시각 변화를 우선 비교하고, 세계대회 규모·최신 기사라는 이유만으로 순위를 주지 않는다. 스타 근황·구체적 계약 보도·직접 반응은 일괄 제외하지 않는다.",
+      "next_check": "다음 정기 회차에 확인한 유사 BTP 사례와 원본·새 사실·제목 각도를 붙이고 다음 실제 게시와 비교. 축구 후보가0개면 축구 원본 탐색 누락부터 점검.",
+      "limits": [
+        "단12개 표본을 영구 취향/의무 비율/조회수 보장으로 확대하지 않는다.",
+        "확정 이적과 가능성·보도·주장을 구분하고 일반 연예 제외를 유지한다.",
+        "기게시 사실 재추천·사실 검증 생략·최초공개 시각 갱신은 금지한다."
+      ]
+    }
+  ],
+  "selection_audits": [
+    {
+      "id": "live-captions-20261115",
+      "at": 1794752548,
+      "history_commit": "edef0806f0783eb9fca4f40db0f87ec600534076",
+      "observed_post_ids": [
+        "Dfw1r5UoLEO",
+        "DfwvywFoBWa",
+        "DfwoKT-oIdj",
+        "Dfwf7HLoBGU",
+        "DfwXeB6oKc7",
+        "DfwOOkboNQ5",
+        "DfwDQ4ZIGfI",
+        "Dfv4vFgINUr",
+        "Dfvr8vsiT-P",
+        "DfvhwHan46D",
+        "DfuOMDcowdW",
+        "DfuHpBviVC7"
+      ],
+      "observed_caption_posts": 12,
+      "football_posts": 10,
+      "current_affairs_posts": 2,
+      "same_fact_in_compared_sent_history": 0,
+      "compared_sent_rows": 150,
+      "today_sent_rows": 20,
+      "today_football_rows": 0,
+      "coverage": "partial_recent_12; displayed dates 2026-11-14/15; exact post times unknown",
+      "finding": "실제 게시와 추천의 구성 차이: 축구 게시10/12, 당일 축구 추천0/20. 미일치는 사용자 거절이나 전체 채택률0%를 의미하지 않음.",
+      "limits": [
+        "11/13~14 발송 공백을 선정 실패와 분리한다.",
+        "일치 없음은 관찰한12개와 비교한150개의 역방향 대조 결과다.",
+        "왜 개별 추천을 쓰지 않았는지는 사용자 확인 전 가설이다."
       ]
     }
   ]
