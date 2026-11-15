@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updated_at": 1794753890,
+  "updated_at": 1794784455,
   "account": "bythepulse",
   "window_days": 7,
   "observation_period_hours": 24,
   "access": {
-    "last_check_at": 1794752776,
-    "status": "captioned_embed_observed_single",
+    "last_check_at": 1794784416,
+    "status": "captioned_embed_observed_new_post",
     "limits": [
-      "기존 클라우드 채팅이 지정한 공식 embed URL 1회 성공 및 계정/본문 구절 확인을 회신했다. 이 root는 같은 클라우드 브라우저 원시 출력을 직접 보지 않았으므로 회신 출처를 명시한다.",
-      "기지 post_id 한 건의 본문 읽기이며 최신 ID 탐지·전체 피드·차기 회차의 지속 접근을 보장하지 않는다.",
-      "과거 HTTP429는 다른 접근 경로의 실패로 유지한다."
+      "공개 프로필 그리드에서 보이는 12개 post_id와 신규 첫 타일 DfxDdTtI4rO를 확인했다.",
+      "공식 captioned embed 단 1회에서 실제 렌더 URL·계정 bythepulse·캡션을 확인했다.",
+      "정확한 게시시각·전체 피드·전체 슬라이드/영상·Insights는 미확인이고 이번 한 건 성공은 향후 접근 정상 보장이 아니다."
     ]
   },
   "summary": {
@@ -28,9 +28,9 @@
     "rate_denominator": 0,
     "direct_adoption_rate": null,
     "top3_posted_after": 0,
-    "confirmed_observed_posts": 12,
+    "confirmed_observed_posts": 13,
     "observed_posts_with_same_fact_in_sent_history": 0,
-    "observed_posts_without_same_fact_in_sent_history": 12
+    "observed_posts_without_same_fact_in_sent_history": 13
   },
   "limits": [
     "Public same-fact overlap is not proof the recommendation was used.",
