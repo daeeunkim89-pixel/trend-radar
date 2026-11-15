@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": 1794752943,
+  "updated_at": 1794784416,
   "profile_checks": [
     {
       "at": 1792379965,
@@ -270,6 +270,38 @@
         "기존 클라우드 채팅이 지정한 공식 embed URL 1회 성공 및 계정/본문 구절 확인을 회신했다. 이 root는 같은 클라우드 브라우저 원시 출력을 직접 보지 않았으므로 회신 출처를 명시한다.",
         "기지 post_id 한 건의 본문 읽기이며 최신 ID 탐지·전체 피드·차기 회차의 지속 접근을 보장하지 않는다.",
         "과거 HTTP429는 다른 접근 경로의 실패로 유지한다."
+      ]
+    },
+    {
+      "at": 1794784416,
+      "profile_url": "https://www.instagram.com/bythepulse/",
+      "status": "captioned_embed_observed_new_post",
+      "execution_environment": "cloud",
+      "access_method": "public_profile_grid_and_official_captioned_embed",
+      "visible_post_ids": [
+        "DfxDdTtI4rO",
+        "Dfw1r5UoLEO",
+        "DfwvywFoBWa",
+        "DfwoKT-oIdj",
+        "DfwXeB6oKc7",
+        "DfwOOkboNQ5",
+        "DfwDQ4ZIGfI",
+        "Dfv4vFgINUr",
+        "Dfvr8vsiT-P",
+        "DfvhwHan46D",
+        "DfuOMDcowdW",
+        "DfuHpBviVC7"
+      ],
+      "newly_documented_ids": [
+        "DfxDdTtI4rO"
+      ],
+      "complete_feed_window": false,
+      "coverage_start_at": null,
+      "coverage_end_at": null,
+      "limits": [
+        "공개 프로필 그리드에서 보이는 12개 post_id와 신규 첫 타일 DfxDdTtI4rO를 확인했다.",
+        "공식 captioned embed 단 1회에서 실제 렌더 URL·계정 bythepulse·캡션을 확인했다.",
+        "정확한 게시시각·전체 피드·전체 슬라이드/영상·Insights는 미확인이고 이번 한 건 성공은 향후 접근 정상 보장이 아니다."
       ]
     }
   ],
@@ -1008,6 +1040,34 @@
       "miss_stage": "undetermined",
       "timing_limit": "정확한 게시시각과 당시 후보 수집 기록이 없어 미발견/탈락/늦음의 단계를 확정하지 않음. 11/13~14 발송 공백도 포함.",
       "next_change": "익숙한 구단·팬 반응은 탐색하되 모욕적 문구를 추천 원칙으로 삼지 않음"
+    },
+    {
+      "id": "btp-caption-DfxDdTtI4rO",
+      "account": "bythepulse",
+      "post_id": "DfxDdTtI4rO",
+      "post_url": "https://www.instagram.com/bythepulse/p/DfxDdTtI4rO/",
+      "embed_url": "https://www.instagram.com/p/DfxDdTtI4rO/embed/captioned/",
+      "observed_at": 1794784416,
+      "published_at": null,
+      "displayed_date": "2026-11-15",
+      "scope": "caption",
+      "category": "시사",
+      "topic": "미미미누의 AI 부정행위 논란 관련 수능 연기 주장",
+      "observation": "캡션은 입시 유튜버 미미미누가 생방송에서 AI 부정행위 논란을 이유로 이번 수능 연기를 주장하고 설득 영상을 준비하겠다고 밝힌 새 발언을 다뤘다.",
+      "metrics": null,
+      "underlying_facts_verified": false,
+      "recommendation_matches": [],
+      "fact_identities": [
+        {
+          "event_key": "mimiminu-calls-for-suneung-delay-over-ai-cheating-20261115",
+          "same_fact_verified": true,
+          "evidence": "실제 공개 캡션에서 수능 연기 주장과 설득 영상 준비 발언을 확인했다.",
+          "identity_scope": "observed BTP caption; underlying news not independently verified"
+        }
+      ],
+      "miss_stage": "undetermined",
+      "timing_limit": "정확한 게시시각과 전체 추천 후보 기록이 없어 선후·미선정 원인을 확정하지 않는다.",
+      "next_change": "AI 부정행위 일반 조사와 당사자의 새 수능 연기 주장을 다른 사실로 구분하고, 이미 게시된 이 발언은 재추천하지 않는다."
     }
   ],
   "rules": [
