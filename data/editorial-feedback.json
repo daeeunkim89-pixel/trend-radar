@@ -1,16 +1,17 @@
 {
   "version": 1,
-  "updated_at": 1794749900,
+  "updated_at": 1794752763,
   "account": "bythepulse",
   "window_days": 7,
   "observation_period_hours": 24,
   "access": {
-    "last_check_at": 1794749652,
-    "status": "unavailable",
+    "last_check_at": 1794752548,
+    "status": "captions_observed_partial",
     "limits": [
-      "2026-11-15 실제 점검: root 공개 프로필·프로필 임베드·과거 개별 게시물 임베드 Cache miss; 클라우드 공개프로필 Online fetch throttled, 과거 개별/임베드 DisabledError.",
-      "최신 그리드·캡션·게시시각을 확보하지 못했음. 게시물 관찰 0개는 채택률 0%가 아니며 미반영/거절 사유를 판정하지 않음.",
-      "연결 조회 도구도 get_connectors 호출 Unknown tool로 조회 불가. Instagram 로그인 자체가 반드시 필요한 것으로 단정하지 않음."
+      "사용자가 연 Edge의 공개 그리드와 공식 captioned embed에서 12개 본문을 실제 읽음. 로그인 없이 성공.",
+      "화면 날짜는 11/14~15 표기이며 정확한 게시시각·전체 피드·전체 슬라이드/영상·Insights는 미확인.",
+      "이전 클라우드 HTTP429/DisabledError 기록은 별도 환경의 실제 실패로 보존. PC 전원과 무관한 클라우드 읽기 성공은 아직 미검증.",
+      "본문에 담긴 뉴스 진위를 독립 검증했다는 의미가 아니며 편집 선택 관찰로만 사용."
     ]
   },
   "summary": {
@@ -28,13 +29,16 @@
     "rate_denominator": 0,
     "direct_adoption_rate": null,
     "top3_posted_after": 0,
-    "confirmed_observed_posts": 0
+    "confirmed_observed_posts": 12,
+    "observed_posts_with_same_fact_in_sent_history": 0,
+    "observed_posts_without_same_fact_in_sent_history": 12
   },
   "limits": [
     "Public same-fact overlap is not proof the recommendation was used.",
     "Incomplete/blocked access is unknown, never a zero adoption rate.",
     "A 24h non-match is an observation, not a confirmed rejection reason.",
-    "Post captions/times need actual observation; title/person overlap is insufficient."
+    "Post captions/times need actual observation; title/person overlap is insufficient.",
+    "Observed-post coverage is a reverse sample comparison, not a recommendation adoption rate."
   ],
   "records": [
     {
