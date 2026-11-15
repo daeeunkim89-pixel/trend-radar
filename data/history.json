@@ -1,6 +1,716 @@
 {
   "version": 1,
   "items": {
+    "b82faf9985f0": {
+      "source": "Reuters",
+      "title": "호주, 뉴질랜드 꺾고 럭비리그 월드컵 통산 13번째 우승",
+      "link": "https://www.reuters.com/world/rugby-league-australia-dominate-new-zealand-32-12-win-world-cup-13th-time-2026-11-15/",
+      "first_seen_at": 1794740918,
+      "last_seen_at": 1794740918,
+      "samples": [
+        {
+          "at": 1794740918,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "b82faf9985f0",
+      "editorial": {
+        "title": "호주, 뉴질랜드 꺾고 럭비리그 월드컵 통산 13번째 우승",
+        "category": "메이저 스포츠",
+        "url": "https://www.reuters.com/world/rugby-league-australia-dominate-new-zealand-32-12-win-world-cup-13th-time-2026-11-15/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "australia-rugby-league-world-cup-13th-title-20261115",
+        "why": "호주가 32대12로 대회 4연패와 통산 13번째 정상에 오른 세계대회 결승 결과다.",
+        "angle": "통산 우승 횟수와 전반 24대6으로 갈린 결승 흐름을 첫 카드에 배치한다.",
+        "why_now": "결승 직후 공개된 확정 우승 결과다.",
+        "verified_at": 1794740839,
+        "published_at": 1794739080,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/world/rugby-league-australia-dominate-new-zealand-32-12-win-world-cup-13th-time-2026-11-15/",
+            "note": "호주가 뉴질랜드를 32대12로 꺾고 16번 중 13번째, 4회 연속 월드컵 우승을 확정했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/world/rugby-league-australia-dominate-new-zealand-32-12-win-world-cup-13th-time-2026-11-15/",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-15",
+          "observation": "호주가 뉴질랜드를 32대12로 꺾고 16번 중 13번째, 4회 연속 월드컵 우승을 확정했다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 공개 시각을 첫 카드에 배치",
+            "핵심 수치·영향과 확인 한계를 다음 카드에 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.reuters.com/world/rugby-league-australia-dominate-new-zealand-32-12-win-world-cup-13th-time-2026-11-15/"
+          }
+        ],
+        "excerpt": "",
+        "context": "결승 직후 공개된 확정 우승 결과다.",
+        "fetched_at": 1794740918,
+        "parser_revision": 7
+      },
+      "curation_event_key": "australia-rugby-league-world-cup-13th-title-20261115"
+    },
+    "c60363f2a207": {
+      "source": "Reuters",
+      "title": "인도, 뉴질랜드 꺾고 ODI 시리즈 3대1 우승 확정",
+      "link": "https://www.reuters.com/sports/cricket/india-clinch-odi-series-after-dramatic-collapse-derails-new-zealand-chase-2026-11-15/",
+      "first_seen_at": 1794740918,
+      "last_seen_at": 1794740918,
+      "samples": [
+        {
+          "at": 1794740918,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "c60363f2a207",
+      "editorial": {
+        "title": "인도, 뉴질랜드 꺾고 ODI 시리즈 3대1 우승 확정",
+        "category": "메이저 스포츠",
+        "url": "https://www.reuters.com/sports/cricket/india-clinch-odi-series-after-dramatic-collapse-derails-new-zealand-chase-2026-11-15/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "india-new-zealand-odi-series-win-arshdeep-20261115",
+        "why": "209점을 지킨 22점 차 승리로 5경기 시리즈를 확정한 국제 크리켓의 큰 결과다.",
+        "angle": "뉴질랜드의 64-1 이후 붕괴와 아르시디프의 3-30을 순서대로 정리한다.",
+        "why_now": "경기 종료 뒤 시리즈 우승이 확정됐다.",
+        "verified_at": 1794740839,
+        "published_at": 1794737640,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/cricket/india-clinch-odi-series-after-dramatic-collapse-derails-new-zealand-chase-2026-11-15/",
+            "note": "인도는 뉴질랜드를 187점으로 막아 22점 차로 이겼고 시리즈 전적 3대1을 만들었다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/cricket/india-clinch-odi-series-after-dramatic-collapse-derails-new-zealand-chase-2026-11-15/",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-15",
+          "observation": "인도는 뉴질랜드를 187점으로 막아 22점 차로 이겼고 시리즈 전적 3대1을 만들었다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 공개 시각을 첫 카드에 배치",
+            "핵심 수치·영향과 확인 한계를 다음 카드에 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.reuters.com/sports/cricket/india-clinch-odi-series-after-dramatic-collapse-derails-new-zealand-chase-2026-11-15/"
+          }
+        ],
+        "excerpt": "",
+        "context": "경기 종료 뒤 시리즈 우승이 확정됐다.",
+        "fetched_at": 1794740918,
+        "parser_revision": 7
+      },
+      "curation_event_key": "india-new-zealand-odi-series-win-arshdeep-20261115"
+    },
+    "eb0ce2695b25": {
+      "source": "Reuters",
+      "title": "예멘 정부군, 바브엘만데브 철수…후티가 전략 해협 장악",
+      "link": "https://www.reuters.com/world/middle-east/yemen-government-forces-withdraw-area-near-bab-el-mandeb-strait-houthis-control-2026-11-15/",
+      "first_seen_at": 1794740918,
+      "last_seen_at": 1794740918,
+      "samples": [
+        {
+          "at": 1794740918,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "eb0ce2695b25",
+      "editorial": {
+        "title": "예멘 정부군, 바브엘만데브 철수…후티가 전략 해협 장악",
+        "category": "시사",
+        "url": "https://www.reuters.com/world/middle-east/yemen-government-forces-withdraw-area-near-bab-el-mandeb-strait-houthis-control-2026-11-15/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "yemen-government-withdraws-bab-el-mandeb-houthis-control-20261115",
+        "why": "아시아-유럽 해상 물류 요충지 통제 구도가 바뀐 중동의 중대한 군사·물류 변화다.",
+        "angle": "정부군 철수와 후티 장악, 호르무즈와 함께 생긴 이중 압박을 설명한다.",
+        "why_now": "정부군이 철수를 공식 발표하며 통제 변화가 확인됐다.",
+        "verified_at": 1794740839,
+        "published_at": 1794731640,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/world/middle-east/yemen-government-forces-withdraw-area-near-bab-el-mandeb-strait-houthis-control-2026-11-15/",
+            "note": "사우디 지원 예멘 정부군은 바브엘만데브 일대 철수를 발표했고 후티가 해협 인근을 통제하게 됐다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/world/middle-east/yemen-government-forces-withdraw-area-near-bab-el-mandeb-strait-houthis-control-2026-11-15/",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "전투 당사자 발표와 로이터 취재를 바탕으로 하며 현장 통제 범위는 변동될 수 있다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-15",
+          "observation": "사우디 지원 예멘 정부군은 바브엘만데브 일대 철수를 발표했고 후티가 해협 인근을 통제하게 됐다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 공개 시각을 첫 카드에 배치",
+            "핵심 수치·영향과 확인 한계를 다음 카드에 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.reuters.com/world/middle-east/yemen-government-forces-withdraw-area-near-bab-el-mandeb-strait-houthis-control-2026-11-15/"
+          }
+        ],
+        "excerpt": "",
+        "context": "정부군이 철수를 공식 발표하며 통제 변화가 확인됐다.",
+        "fetched_at": 1794740918,
+        "parser_revision": 7
+      },
+      "curation_event_key": "yemen-government-withdraws-bab-el-mandeb-houthis-control-20261115"
+    },
+    "de72cc4a09ee": {
+      "source": "Reuters",
+      "title": "샌드페이퍼게이트 재점화…전 호주대표 '팀 전체가 알았다' 주장",
+      "link": "https://www.reuters.com/sports/cricket/sayers-says-he-believes-entire-australia-team-knew-about-sandpapergate-2026-11-15/",
+      "first_seen_at": 1794740918,
+      "last_seen_at": 1794740918,
+      "samples": [
+        {
+          "at": 1794740918,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "de72cc4a09ee",
+      "editorial": {
+        "title": "샌드페이퍼게이트 재점화…전 호주대표 '팀 전체가 알았다' 주장",
+        "category": "메이저 스포츠",
+        "url": "https://www.reuters.com/sports/cricket/sayers-says-he-believes-entire-australia-team-knew-about-sandpapergate-2026-11-15/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "sayers-claims-australia-team-knew-sandpapergate-20261115",
+        "why": "2018년 호주 크리켓 초대형 부정 스캔들의 책임 범위를 넓히는 내부 증언이 나왔다.",
+        "angle": "세이어스의 진술과 호주협회의 재조사 거부, 관련 선수들의 부인을 함께 제시한다.",
+        "why_now": "전 대표 세이어스가 새 공개 발언으로 기존 조사 범위를 정면 반박했다.",
+        "verified_at": 1794740839,
+        "published_at": 1794735660,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/cricket/sayers-says-he-believes-entire-australia-team-knew-about-sandpapergate-2026-11-15/",
+            "note": "채드 세이어스는 당시 팀 전체가 사포 사용을 알았다고 믿으며 자신이 사포를 경기장 밖으로 옮겼다고 말했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/cricket/sayers-says-he-believes-entire-australia-team-knew-about-sandpapergate-2026-11-15/",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "세이어스의 주장이다. 일부 선수는 사전 인지를 부인했고 호주협회는 재조사를 거부했다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-15",
+          "observation": "채드 세이어스는 당시 팀 전체가 사포 사용을 알았다고 믿으며 자신이 사포를 경기장 밖으로 옮겼다고 말했다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 공개 시각을 첫 카드에 배치",
+            "핵심 수치·영향과 확인 한계를 다음 카드에 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.reuters.com/sports/cricket/sayers-says-he-believes-entire-australia-team-knew-about-sandpapergate-2026-11-15/"
+          }
+        ],
+        "excerpt": "",
+        "context": "전 대표 세이어스가 새 공개 발언으로 기존 조사 범위를 정면 반박했다.",
+        "fetched_at": 1794740918,
+        "parser_revision": 7
+      },
+      "curation_event_key": "sayers-claims-australia-team-knew-sandpapergate-20261115"
+    },
+    "1d1cd537f1f8": {
+      "source": "연합뉴스",
+      "title": "한국도로공사, 현대건설 3대0 완파…4연승·2위 복귀",
+      "link": "https://www.yna.co.kr/view/AKR20261115036351007",
+      "first_seen_at": 1794740918,
+      "last_seen_at": 1794740918,
+      "samples": [
+        {
+          "at": 1794740918,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "1d1cd537f1f8",
+      "editorial": {
+        "title": "한국도로공사, 현대건설 3대0 완파…4연승·2위 복귀",
+        "category": "메이저 스포츠",
+        "url": "https://www.yna.co.kr/view/AKR20261115036351007",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "korea-expressway-volleyball-four-wins-second-place-20261115",
+        "why": "국내 여자배구 상위권 판도가 바뀐 셧아웃 결과로 한국 독자성이 높다.",
+        "angle": "모마·마미·강소휘 42점과 현대건설 개막 4연패를 함께 보여준다.",
+        "why_now": "경기 직후 도로공사의 2위 복귀가 확정됐다.",
+        "verified_at": 1794740839,
+        "published_at": 1794731760,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261115036351007",
+            "note": "도로공사는 현대건설을 세트 점수 3대0으로 꺾어 4승1패, 승점12로 2위에 복귀했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261115036351007",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-15",
+          "observation": "도로공사는 현대건설을 세트 점수 3대0으로 꺾어 4승1패, 승점12로 2위에 복귀했다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 공개 시각을 첫 카드에 배치",
+            "핵심 수치·영향과 확인 한계를 다음 카드에 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.yna.co.kr/view/AKR20261115036351007"
+          }
+        ],
+        "excerpt": "",
+        "context": "경기 직후 도로공사의 2위 복귀가 확정됐다.",
+        "fetched_at": 1794740918,
+        "parser_revision": 7
+      },
+      "curation_event_key": "korea-expressway-volleyball-four-wins-second-place-20261115"
+    },
+    "9c02a9efdede": {
+      "source": "SBS 뉴스",
+      "title": "미국 공항 대란 원인 지목…신형 라우터 2대가 관제망 과부하",
+      "link": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008846708&oaid=N1008846742&plink=TOP",
+      "first_seen_at": 1794740918,
+      "last_seen_at": 1794740918,
+      "samples": [
+        {
+          "at": 1794740918,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "9c02a9efdede",
+      "editorial": {
+        "title": "미국 공항 대란 원인 지목…신형 라우터 2대가 관제망 과부하",
+        "category": "시사",
+        "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008846708&oaid=N1008846742&plink=TOP",
+        "source": "SBS 뉴스",
+        "kind": "article",
+        "event_key": "us-air-traffic-outage-router-overload-cause-20261115",
+        "why": "전국 이륙 중단을 부른 관제망 장애의 구체 원인이 처음 제시된 항공 안전 후속이다.",
+        "angle": "신형 장비 설치, 17개 관제센터 장애, 라우터 차단 뒤 정상화 순으로 설명한다.",
+        "why_now": "당국과 업계 관계자 취재로 장애 원인이 두 라우터로 좁혀졌다.",
+        "verified_at": 1794740839,
+        "published_at": 1794730200,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008846708&oaid=N1008846742&plink=TOP",
+            "note": "아칸소와 텍사스의 신형 라우터 두 대가 대량 신호를 보내 22개 관제센터 중 17곳 통신에 장애를 냈다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008846708&oaid=N1008846742&plink=TOP",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "장비 결함인지 설정 오류인지는 아직 당국 조사 중이다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-15",
+          "observation": "아칸소와 텍사스의 신형 라우터 두 대가 대량 신호를 보내 22개 관제센터 중 17곳 통신에 장애를 냈다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 공개 시각을 첫 카드에 배치",
+            "핵심 수치·영향과 확인 한계를 다음 카드에 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008846708&oaid=N1008846742&plink=TOP"
+          }
+        ],
+        "excerpt": "",
+        "context": "당국과 업계 관계자 취재로 장애 원인이 두 라우터로 좁혀졌다.",
+        "fetched_at": 1794740918,
+        "parser_revision": 7
+      },
+      "curation_event_key": "us-air-traffic-outage-router-overload-cause-20261115"
+    },
+    "93bc14508604": {
+      "source": "Reuters",
+      "title": "카나리아제도 하루 이주민 1,488명 도착…2020년 이후 최다",
+      "link": "https://www.reuters.com/world/africa/nearly-1500-migrants-arrive-canary-islands-one-day-2026-11-15/",
+      "first_seen_at": 1794740918,
+      "last_seen_at": 1794740918,
+      "samples": [
+        {
+          "at": 1794740918,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "93bc14508604",
+      "editorial": {
+        "title": "카나리아제도 하루 이주민 1,488명 도착…2020년 이후 최다",
+        "category": "시사",
+        "url": "https://www.reuters.com/world/africa/nearly-1500-migrants-arrive-canary-islands-one-day-2026-11-15/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "canary-islands-1488-migrants-one-day-record-20261115",
+        "why": "세계 최위험 이주 항로에서 6년 만의 하루 최다 구조가 발생한 인도주의 사건이다.",
+        "angle": "14척 구조 규모와 어린이 36명, 소규모 섬 수용시설 압박을 함께 전한다.",
+        "why_now": "해상구조 당국 수치가 공개돼 하루 기록 경신이 확인됐다.",
+        "verified_at": 1794740839,
+        "published_at": 1794736320,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/world/africa/nearly-1500-migrants-arrive-canary-islands-one-day-2026-11-15/",
+            "note": "스페인 해경은 14척에서 1,488명을 구조했으며 2020년 이후 하루 최다라고 집계했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/world/africa/nearly-1500-migrants-arrive-canary-islands-one-day-2026-11-15/",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-15",
+          "observation": "스페인 해경은 14척에서 1,488명을 구조했으며 2020년 이후 하루 최다라고 집계했다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 공개 시각을 첫 카드에 배치",
+            "핵심 수치·영향과 확인 한계를 다음 카드에 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.reuters.com/world/africa/nearly-1500-migrants-arrive-canary-islands-one-day-2026-11-15/"
+          }
+        ],
+        "excerpt": "",
+        "context": "해상구조 당국 수치가 공개돼 하루 기록 경신이 확인됐다.",
+        "fetched_at": 1794740918,
+        "parser_revision": 7
+      },
+      "curation_event_key": "canary-islands-1488-migrants-one-day-record-20261115"
+    },
+    "8b8ecfeee49a": {
+      "source": "SBS 뉴스",
+      "title": "홍콩 디즈니랜드 전자입장권 1만7천 장 탈취…온라인 예매 중단",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846742",
+      "first_seen_at": 1794740918,
+      "last_seen_at": 1794740918,
+      "samples": [
+        {
+          "at": 1794740918,
+          "views": null,
+          "reactions": null,
+          "rank": 8,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "8b8ecfeee49a",
+      "editorial": {
+        "title": "홍콩 디즈니랜드 전자입장권 1만7천 장 탈취…온라인 예매 중단",
+        "category": "시사",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846742",
+        "source": "SBS 뉴스",
+        "kind": "article",
+        "event_key": "hong-kong-disneyland-17000-ticket-qr-theft-20261115",
+        "why": "대형 관광시설의 결제·입장 시스템이 멈춘 대규모 디지털 절도 사건이다.",
+        "angle": "QR코드 탈취 규모와 예매·호텔 예약 중단, 경찰 수사를 중심으로 정리한다.",
+        "why_now": "운영사가 경찰 신고와 시스템 중단을 공개했다.",
+        "verified_at": 1794740839,
+        "published_at": 1794733860,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846742",
+            "note": "홍콩 디즈니랜드는 전자입장권 QR코드 약 1만7천 개 탈취 정황을 확인하고 온라인 예매를 중단했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846742",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "방문객 개인정보 유출 여부는 아직 확인되지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-15",
+          "observation": "홍콩 디즈니랜드는 전자입장권 QR코드 약 1만7천 개 탈취 정황을 확인하고 온라인 예매를 중단했다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 공개 시각을 첫 카드에 배치",
+            "핵심 수치·영향과 확인 한계를 다음 카드에 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846742"
+          }
+        ],
+        "excerpt": "",
+        "context": "운영사가 경찰 신고와 시스템 중단을 공개했다.",
+        "fetched_at": 1794740918,
+        "parser_revision": 7
+      },
+      "curation_event_key": "hong-kong-disneyland-17000-ticket-qr-theft-20261115"
+    },
+    "4bcca18be299": {
+      "source": "뉴스1",
+      "title": "젠슨 황 복귀 청원 13만6천 명…엔비디아 직원·주주도 참여",
+      "link": "https://www.news1.kr/world/usa-canada/6354451",
+      "first_seen_at": 1794740918,
+      "last_seen_at": 1794740918,
+      "samples": [
+        {
+          "at": 1794740918,
+          "views": null,
+          "reactions": null,
+          "rank": 9,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "4bcca18be299",
+      "editorial": {
+        "title": "젠슨 황 복귀 청원 13만6천 명…엔비디아 직원·주주도 참여",
+        "category": "시사",
+        "url": "https://www.news1.kr/world/usa-canada/6354451",
+        "source": "뉴스1",
+        "kind": "article",
+        "event_key": "nvidia-jensen-huang-return-petition-136000-20261115",
+        "why": "세계 AI 공급망 핵심 기업의 CEO 공백을 둘러싼 내부·주주 반발이 수치로 커진 중대한 후속이다.",
+        "angle": "서명 규모와 직원·주주 참여, 독립 조사 요구를 분리해 보여준다.",
+        "why_now": "복귀 청원 서명이 13만6천 명을 넘겼다는 새 집계가 공개됐다.",
+        "verified_at": 1794740839,
+        "published_at": 1794723720,
+        "evidence": [
+          {
+            "url": "https://www.news1.kr/world/usa-canada/6354451",
+            "note": "복귀 청원에는 13만6616명이 서명했고 현직 직원 6800여명과 주주 7만3000여명이 포함됐다고 보도됐다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.news1.kr/world/usa-canada/6354451",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "청원 지지는 복귀 결정이 아니며 이사회 절차와 독립 조사 결과는 미확정이다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-15",
+          "observation": "복귀 청원에는 13만6616명이 서명했고 현직 직원 6800여명과 주주 7만3000여명이 포함됐다고 보도됐다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 공개 시각을 첫 카드에 배치",
+            "핵심 수치·영향과 확인 한계를 다음 카드에 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.news1.kr/world/usa-canada/6354451"
+          }
+        ],
+        "excerpt": "",
+        "context": "복귀 청원 서명이 13만6천 명을 넘겼다는 새 집계가 공개됐다.",
+        "fetched_at": 1794740918,
+        "parser_revision": 7
+      },
+      "curation_event_key": "nvidia-jensen-huang-return-petition-136000-20261115"
+    },
+    "56aa6aa24981": {
+      "source": "뉴스1",
+      "title": "민주당, 최민희 감찰 결과 윤리심판원 이첩…징계 절차 돌입",
+      "link": "https://www.news1.kr/politics/assembly/6354573",
+      "first_seen_at": 1794740918,
+      "last_seen_at": 1794740918,
+      "samples": [
+        {
+          "at": 1794740918,
+          "views": null,
+          "reactions": null,
+          "rank": 10,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "56aa6aa24981",
+      "editorial": {
+        "title": "민주당, 최민희 감찰 결과 윤리심판원 이첩…징계 절차 돌입",
+        "category": "시사",
+        "url": "https://www.news1.kr/politics/assembly/6354573",
+        "source": "뉴스1",
+        "kind": "article",
+        "event_key": "democratic-party-choi-minhee-ethics-referral-20261115",
+        "why": "여당 최고위원에 대한 공식 징계 심의가 시작된 국내 정치의 확정 절차 변화다.",
+        "angle": "감찰 결과 이첩과 가능한 징계 수위, 당사자의 해명을 구분한다.",
+        "why_now": "당 대표가 감찰 지시 사흘 만에 윤리심판원 이첩을 지시했다.",
+        "verified_at": 1794740839,
+        "published_at": 1794737040,
+        "evidence": [
+          {
+            "url": "https://www.news1.kr/politics/assembly/6354573",
+            "note": "민주당은 최민희 최고위원 감찰 결과를 중앙당 윤리심판원에 넘겼고 심의 절차가 시작됐다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.news1.kr/politics/assembly/6354573",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "징계 여부와 수위는 아직 결정되지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-15",
+          "observation": "민주당은 최민희 최고위원 감찰 결과를 중앙당 윤리심판원에 넘겼고 심의 절차가 시작됐다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 공개 시각을 첫 카드에 배치",
+            "핵심 수치·영향과 확인 한계를 다음 카드에 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.news1.kr/politics/assembly/6354573"
+          }
+        ],
+        "excerpt": "",
+        "context": "당 대표가 감찰 지시 사흘 만에 윤리심판원 이첩을 지시했다.",
+        "fetched_at": 1794740918,
+        "parser_revision": 7
+      },
+      "curation_event_key": "democratic-party-choi-minhee-ethics-referral-20261115"
+    },
     "9f3ea739677a": {
       "source": "뉴스1",
       "title": "송민혁, 필리핀 오픈 우승·아시안투어 신인왕 확정",
@@ -9994,362 +10704,7 @@
         "parser_revision": 7
       },
       "curation_event_key": "trump-cnn-iran-renewed-attack-very-unlikely-conditional-deal-20261108"
-    },
-    "17c5f4223c3b": {
-      "source": "SBS",
-      "title": "삼성, KT 12대1 완파…12년 만에 한국시리즈 우승",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836120",
-      "first_seen_at": 1794133552,
-      "last_seen_at": 1794133552,
-      "samples": [
-        {
-          "at": 1794133552,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "17c5f4223c3b",
-      "editorial": {
-        "title": "삼성, KT 12대1 완파…12년 만에 한국시리즈 우승",
-        "category": "메이저 스포츠",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836120",
-        "source": "SBS",
-        "kind": "article",
-        "event_key": "samsung-korean-series-game5-title-four-one-20261108",
-        "why": "국내 프로야구 최대 이벤트의 최종 우승 확정이다.",
-        "angle": "12년 만의 정상 탈환과 4승1패를 첫 장에.",
-        "why_now": "8일5차전 승리로 우승 확정. 이전 발송의4차전 승리와 다른 최종 결과다.",
-        "verified_at": 1794133280,
-        "published_at": 1794127140,
-        "evidence": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836120",
-            "note": "삼성이8일 한국시리즈5차전에서 KT에12대1승리, 시리즈4승1패로2014년 이후 첫 우승."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836120",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "정규리그1위는KT이며 삼성의 통합우승으로 쓰지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-08",
-          "observation": "삼성이8일 한국시리즈5차전에서 KT에12대1승리, 시리즈4승1패로2014년 이후 첫 우승.",
-          "checked_materials": [],
-          "outline": [
-            "12년 만의 한국시리즈 정상",
-            "KT12대1·시리즈4승1패"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836120"
-          }
-        ],
-        "excerpt": "",
-        "context": "8일5차전 승리로 우승 확정. 이전 발송의4차전 승리와 다른 최종 결과다.",
-        "fetched_at": 1794133552,
-        "parser_revision": 7
-      },
-      "curation_event_key": "samsung-korean-series-game5-title-four-one-20261108"
-    },
-    "b777a94a35a3": {
-      "source": "SBS",
-      "title": "안세영, 세계 최초 두 시즌 연속 11승…야마구치 꺾고 우승",
-      "link": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008836013&oaid=N1008836120&plink=TOP",
-      "first_seen_at": 1794133552,
-      "last_seen_at": 1794133552,
-      "samples": [
-        {
-          "at": 1794133552,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "b777a94a35a3",
-      "editorial": {
-        "title": "안세영, 세계 최초 두 시즌 연속 11승…야마구치 꺾고 우승",
-        "category": "메이저 스포츠",
-        "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008836013&oaid=N1008836120&plink=TOP",
-        "source": "SBS",
-        "kind": "article",
-        "event_key": "an-se-young-korea-open-title-two-consecutive-eleven-win-seasons-20261108",
-        "why": "국민적 스타가 남녀 단식 최초의 시즌 기록을 완성했다.",
-        "angle": "두 시즌 연속11승 기록과 결승2대1 결과를 간결하게 제시.",
-        "why_now": "8일 결승 우승 확정. 어제 보낸 결승 진출과 다른 새 결과다.",
-        "verified_at": 1794133083,
-        "published_at": 1794121080,
-        "evidence": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008836013&oaid=N1008836120&plink=TOP",
-            "note": "8일 야마구치를2대1(21대12,15대21,21대16)로 꺾고 코리아오픈 우승. 두 시즌 연속11승은 남녀단식 최초."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008836013&oaid=N1008836120&plink=TOP",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "시즌12승을 이미 달성한 것으로 쓰지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-08",
-          "observation": "8일 야마구치를2대1(21대12,15대21,21대16)로 꺾고 코리아오픈 우승. 두 시즌 연속11승은 남녀단식 최초.",
-          "checked_materials": [],
-          "outline": [
-            "세계 최초2시즌 연속11승",
-            "야마구치에2대1, 코리아오픈 우승"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008836013&oaid=N1008836120&plink=TOP"
-          }
-        ],
-        "excerpt": "",
-        "context": "8일 결승 우승 확정. 어제 보낸 결승 진출과 다른 새 결과다.",
-        "fetched_at": 1794133552,
-        "parser_revision": 7
-      },
-      "curation_event_key": "an-se-young-korea-open-title-two-consecutive-eleven-win-seasons-20261108"
-    },
-    "b47305474199": {
-      "source": "뉴시스",
-      "title": "이정효의 수원 삼성, 용인 2대0 제압…K리그1 승격 확정",
-      "link": "https://www.newsis.com/view/NISX20261108_0003859309",
-      "first_seen_at": 1794133552,
-      "last_seen_at": 1794133552,
-      "samples": [
-        {
-          "at": 1794133552,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "b47305474199",
-      "editorial": {
-        "title": "이정효의 수원 삼성, 용인 2대0 제압…K리그1 승격 확정",
-        "category": "축구",
-        "url": "https://www.newsis.com/view/NISX20261108_0003859309",
-        "source": "뉴시스",
-        "kind": "article",
-        "event_key": "suwon-samsung-kleague1-promotion-confirmed-yongin-two-zero-20261108",
-        "why": "한국 축구 명문 구단의1부 복귀로 리그 판도와 라이벌 구도가 바뀐다.",
-        "angle": "이정효 부임 첫해 승격 확정과 용인전2대0 결과를 제시.",
-        "why_now": "8일 승리로 잔여2경기와 무관하게 최소2위를 확보했다. 승격 전망 단계가 끝났다.",
-        "verified_at": 1794133083,
-        "published_at": 1794123518,
-        "evidence": [
-          {
-            "url": "https://www.newsis.com/view/NISX20261108_0003859309",
-            "note": "수원이8일 용인에2대0승리해 승점66, 최소2위를 확보하며 K리그1 승격을 확정했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.newsis.com/view/NISX20261108_0003859309",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "승격 확정이며 K리그2 우승은 아직 확정되지 않았다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-08",
-          "observation": "수원이8일 용인에2대0승리해 승점66, 최소2위를 확보하며 K리그1 승격을 확정했다.",
-          "checked_materials": [],
-          "outline": [
-            "이정효 부임 첫해1부 복귀",
-            "용인2대0·최소2위 확보"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://www.newsis.com/view/NISX20261108_0003859309"
-          }
-        ],
-        "excerpt": "",
-        "context": "8일 승리로 잔여2경기와 무관하게 최소2위를 확보했다. 승격 전망 단계가 끝났다.",
-        "fetched_at": 1794133552,
-        "parser_revision": 7
-      },
-      "curation_event_key": "suwon-samsung-kleague1-promotion-confirmed-yongin-two-zero-20261108"
-    },
-    "eebb07e0e86c": {
-      "source": "SBS",
-      "title": "김민솔, 신인왕·대상·상금왕 석권…신지애 이후 20년 만",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836081",
-      "first_seen_at": 1794133552,
-      "last_seen_at": 1794133552,
-      "samples": [
-        {
-          "at": 1794133552,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "eebb07e0e86c",
-      "editorial": {
-        "title": "김민솔, 신인왕·대상·상금왕 석권…신지애 이후 20년 만",
-        "category": "메이저 스포츠",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836081",
-        "source": "SBS",
-        "kind": "article",
-        "event_key": "kim-min-sol-klpga-rookie-player-money-triple-titles-20261108",
-        "why": "여자골프 시즌 최종전에서20년 만의 신인3관왕이 확정된 큰 기록이다.",
-        "angle": "신지애 이후20년 만의3관왕과 시즌상금16억원 돌파를 제시.",
-        "why_now": "8일 시즌 최종전 종료로 대상과 상금왕까지 확정돼3관왕을 완성했다.",
-        "verified_at": 1794133280,
-        "published_at": 1794126180,
-        "evidence": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836081",
-            "note": "김민솔은 최종전 공동6위. 대상567점·누적상금16억여원으로 신인왕 포함3관왕, 동시석권은2006년 신지애 이후 처음."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836081",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "최종전 대회 우승자는 유현조다. 김민솔이 최종전을 우승했다고 쓰지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-08",
-          "observation": "김민솔은 최종전 공동6위. 대상567점·누적상금16억여원으로 신인왕 포함3관왕, 동시석권은2006년 신지애 이후 처음.",
-          "checked_materials": [],
-          "outline": [
-            "신지애 이후20년 만의 신인3관왕",
-            "신인왕·대상·상금왕과 시즌16억원 돌파"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836081"
-          }
-        ],
-        "excerpt": "",
-        "context": "8일 시즌 최종전 종료로 대상과 상금왕까지 확정돼3관왕을 완성했다.",
-        "fetched_at": 1794133552,
-        "parser_revision": 7
-      },
-      "curation_event_key": "kim-min-sol-klpga-rookie-player-money-triple-titles-20261108"
-    },
-    "455dd491159c": {
-      "source": "SBS",
-      "title": "SM·계열사도 정보 유출…임직원 주민번호·계좌번호 포함",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836125",
-      "first_seen_at": 1794133552,
-      "last_seen_at": 1794133552,
-      "samples": [
-        {
-          "at": 1794133552,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "455dd491159c",
-      "editorial": {
-        "title": "SM·계열사도 정보 유출…임직원 주민번호·계좌번호 포함",
-        "category": "시사",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836125",
-        "source": "SBS",
-        "kind": "article",
-        "event_key": "sm-dearu-dreammaker-employee-data-breach-disclosed-20261108",
-        "why": "대형 엔터기업과 계열사 업무시스템 침해로 민감한 임직원 정보가 유출된 산업·보안 사건이다.",
-        "angle": "임직원 민감정보 유출과 계열사 확산을 중심으로 전한다.",
-        "why_now": "사고 발생은4일께, 새 공개 발표는8일이다. 일반 연예 소식이 아닌 기업 보안 사건으로 검토했다.",
-        "verified_at": 1794133280,
-        "published_at": 1794127680,
-        "evidence": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836125",
-            "note": "SM은8일 외부공격자의 업무시스템 문서 유출을 공개. 주민번호·계좌번호 등 일부정보, 디어유·드림메이커에도 유사사고."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836125",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "규모와 피해 범위는 조사중이다. 아티스트나 팬 전체 정보가 유출됐다고 확대하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-08",
-          "observation": "SM은8일 외부공격자의 업무시스템 문서 유출을 공개. 주민번호·계좌번호 등 일부정보, 디어유·드림메이커에도 유사사고.",
-          "checked_materials": [],
-          "outline": [
-            "SM·계열사 업무시스템 침해",
-            "임직원 정보 유출 공개·정확한 범위 조사중"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836125"
-          }
-        ],
-        "excerpt": "",
-        "context": "사고 발생은4일께, 새 공개 발표는8일이다. 일반 연예 소식이 아닌 기업 보안 사건으로 검토했다.",
-        "fetched_at": 1794133552,
-        "parser_revision": 7
-      },
-      "curation_event_key": "sm-dearu-dreammaker-employee-data-breach-disclosed-20261108"
     }
   },
-  "updated_at": 1794733820
+  "updated_at": 1794740918
 }

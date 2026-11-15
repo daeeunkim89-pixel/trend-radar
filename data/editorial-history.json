@@ -2,39 +2,6 @@
   "version": 1,
   "editions": [
     {
-      "hour_utc": "2026110810",
-      "at": 1794133553,
-      "delivery": "sent",
-      "delivery_key": "hourly-2026110810",
-      "picks": [
-        {
-          "title": "삼성, KT 12대1 완파…12년 만에 한국시리즈 우승",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836120",
-          "event_key": "samsung-korean-series-game5-title-four-one-20261108"
-        },
-        {
-          "title": "안세영, 세계 최초 두 시즌 연속 11승…야마구치 꺾고 우승",
-          "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008836013&oaid=N1008836120&plink=TOP",
-          "event_key": "an-se-young-korea-open-title-two-consecutive-eleven-win-seasons-20261108"
-        },
-        {
-          "title": "이정효의 수원 삼성, 용인 2대0 제압…K리그1 승격 확정",
-          "url": "https://www.newsis.com/view/NISX20261108_0003859309",
-          "event_key": "suwon-samsung-kleague1-promotion-confirmed-yongin-two-zero-20261108"
-        },
-        {
-          "title": "김민솔, 신인왕·대상·상금왕 석권…신지애 이후 20년 만",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836081",
-          "event_key": "kim-min-sol-klpga-rookie-player-money-triple-titles-20261108"
-        },
-        {
-          "title": "SM·계열사도 정보 유출…임직원 주민번호·계좌번호 포함",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836125",
-          "event_key": "sm-dearu-dreammaker-employee-data-breach-disclosed-20261108"
-        }
-      ]
-    },
-    {
       "hour_utc": "2026110901",
       "at": 1794186517,
       "delivery": "sent",
@@ -931,6 +898,64 @@
           "title": "0대4 뒤집은 위니펙, 샤이플리는 구단 최다 포인트",
           "url": "https://www.reuters.com/sports/nhl-roundup-down-4-0-jets-rally-beat-blackhawks-shootout--flm-2026-11-15/",
           "event_key": "jets-four-goal-comeback-scheifele-franchise-points-record-20261114"
+        }
+      ]
+    },
+    {
+      "hour_utc": "2026111511",
+      "at": 1794740918,
+      "delivery": "sent",
+      "delivery_key": "hourly-2026111511",
+      "picks": [
+        {
+          "title": "호주, 뉴질랜드 꺾고 럭비리그 월드컵 통산 13번째 우승",
+          "url": "https://www.reuters.com/world/rugby-league-australia-dominate-new-zealand-32-12-win-world-cup-13th-time-2026-11-15/",
+          "event_key": "australia-rugby-league-world-cup-13th-title-20261115"
+        },
+        {
+          "title": "인도, 뉴질랜드 꺾고 ODI 시리즈 3대1 우승 확정",
+          "url": "https://www.reuters.com/sports/cricket/india-clinch-odi-series-after-dramatic-collapse-derails-new-zealand-chase-2026-11-15/",
+          "event_key": "india-new-zealand-odi-series-win-arshdeep-20261115"
+        },
+        {
+          "title": "예멘 정부군, 바브엘만데브 철수…후티가 전략 해협 장악",
+          "url": "https://www.reuters.com/world/middle-east/yemen-government-forces-withdraw-area-near-bab-el-mandeb-strait-houthis-control-2026-11-15/",
+          "event_key": "yemen-government-withdraws-bab-el-mandeb-houthis-control-20261115"
+        },
+        {
+          "title": "샌드페이퍼게이트 재점화…전 호주대표 '팀 전체가 알았다' 주장",
+          "url": "https://www.reuters.com/sports/cricket/sayers-says-he-believes-entire-australia-team-knew-about-sandpapergate-2026-11-15/",
+          "event_key": "sayers-claims-australia-team-knew-sandpapergate-20261115"
+        },
+        {
+          "title": "한국도로공사, 현대건설 3대0 완파…4연승·2위 복귀",
+          "url": "https://www.yna.co.kr/view/AKR20261115036351007",
+          "event_key": "korea-expressway-volleyball-four-wins-second-place-20261115"
+        },
+        {
+          "title": "미국 공항 대란 원인 지목…신형 라우터 2대가 관제망 과부하",
+          "url": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSEND&news_id=N1008846708&oaid=N1008846742&plink=TOP",
+          "event_key": "us-air-traffic-outage-router-overload-cause-20261115"
+        },
+        {
+          "title": "카나리아제도 하루 이주민 1,488명 도착…2020년 이후 최다",
+          "url": "https://www.reuters.com/world/africa/nearly-1500-migrants-arrive-canary-islands-one-day-2026-11-15/",
+          "event_key": "canary-islands-1488-migrants-one-day-record-20261115"
+        },
+        {
+          "title": "홍콩 디즈니랜드 전자입장권 1만7천 장 탈취…온라인 예매 중단",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846742",
+          "event_key": "hong-kong-disneyland-17000-ticket-qr-theft-20261115"
+        },
+        {
+          "title": "젠슨 황 복귀 청원 13만6천 명…엔비디아 직원·주주도 참여",
+          "url": "https://www.news1.kr/world/usa-canada/6354451",
+          "event_key": "nvidia-jensen-huang-return-petition-136000-20261115"
+        },
+        {
+          "title": "민주당, 최민희 감찰 결과 윤리심판원 이첩…징계 절차 돌입",
+          "url": "https://www.news1.kr/politics/assembly/6354573",
+          "event_key": "democratic-party-choi-minhee-ethics-referral-20261115"
         }
       ]
     }
