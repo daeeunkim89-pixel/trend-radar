@@ -1,5 +1,6 @@
 """Deliver an agent-reviewed BTP edition; collection scores never choose its contents."""
 import argparse
+from editorial_feedback import filter_already_published
 import hashlib
 import html
 import ipaddress
@@ -330,7 +331,13 @@ def record_decision(stories, target, now, delivery, delivery_key=None):
         rows.append({"hour_utc": hourly_key(target)[7:], "at": now, "delivery": delivery,
                      "delivery_key": delivery_key,
                      "picks": [{"title": s["lead"]["title"], "url": s["lead"]["link"],
-                                "event_key": s["editorial"]["event_key"]} for s in stories]})
+                                "event_key": s["editorial"]["event_key"],
+                                "category": s.get("category"), "rank": rank,
+                                "published_at": s["editorial"].get("published_at"),
+                                "source": s["editorial"].get("source"),
+                                "why": s["editorial"].get("why"),
+                                "angle": s["editorial"].get("angle"),
+                                "why_now": s["editorial"].get("why_now")} for rank, s in enumerate(stories, 1)]})
         atomic_json(DECISIONS_FILE, {"version": 1, "editions": rows[-168:]})
     except (ValueError, OSError, TypeError):
         print("BTP EDITORIAL HISTORY WARNING: public decision archive could not be updated")
@@ -415,12 +422,13 @@ def main(recover_hour=None, prepared_hour=None, picks_file=PICKS_FILE, expected_
         history = load_history()
         stories, history = build_stories(edition, history, now)
         stories = same_event_filter(stories)
+        stories, published_excluded = filter_already_published(stories, now)
         if preview:
             parts = render_edition(stories[:required], target, edition["empty_reason"], required=required)
             print("BTP EDITORIAL PREVIEW ONLY: no Telegram calls or state writes")
             print(parts[0])
             return 0
-        if hold_incomplete(target, stories, user_requested=user_requested, required=required):
+        if hold_incomplete(target, stories, excluded=published_excluded, user_requested=user_requested, required=required):
             return 3
         # Do not hold a verified HTTP connection idle throughout the preparation wait.
         if not wait_for_target(target):
@@ -444,7 +452,7 @@ def main(recover_hour=None, prepared_hour=None, picks_file=PICKS_FILE, expected_
             raise DeliveryUncertain("이 시간대의 이전 전송 결과 확인이 필요합니다")
         before = len(stories)
         stories = unreported_stories(stories, history, private, now)
-        excluded = before - len(stories)
+        excluded = published_excluded + before - len(stories)
         stories = stories[:required]
         if hold_incomplete(target, stories, excluded, user_requested, required=required):
             return 3

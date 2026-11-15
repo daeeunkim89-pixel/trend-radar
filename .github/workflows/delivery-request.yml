@@ -49,12 +49,16 @@ jobs:
           args=()
           if [ "$BTP_EVENT_NAME" = schedule ]; then args+=(--scheduled-check); fi
           python -u report_request.py --request-file /tmp/btp-report-request.json --picks-file /tmp/btp-editorial-picks.json "${args[@]}"
+      - name: Update publication feedback without network
+        if: always() && !cancelled() && steps.collect.outcome != 'skipped'
+        continue-on-error: true
+        run: python editorial_feedback.py --summary
       - name: Persist delivery result even when a source is unavailable
         if: always() && !cancelled() && steps.collect.outcome != 'skipped'
         run: |
           git config user.name "trend-radar-bot"
           git config user.email "trend-radar-bot@users.noreply.github.com"
-          for file in data/state.json data/history.json data/editor.enc data/editorial-status.json; do
+          for file in data/state.json data/history.json data/editor.enc data/editorial-status.json data/editorial-feedback.json; do
             if [ -f "$file" ]; then git add "$file"; fi
           done
           if [ -f data/editorial-history.json ]; then git add data/editorial-history.json; fi
