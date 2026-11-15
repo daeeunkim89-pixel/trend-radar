@@ -91,7 +91,9 @@ def _ranked_inbox(pool, now, max_age=3 * 3600):
             "budget": {"initial_searches": 6, "initial_opens": 18,
                        "extension_searches": 2, "extension_opens": 7, "max_extensions": 2,
                        "extend_until_target": False, "recommendations_target": REPORT_PICKS,
-                       "reuse_discovery": True, "stop_when_target_ready": True},
+                       "reuse_discovery": True, "stop_when_target_ready": True,
+                       "shortfall_recovery_searches": 4, "shortfall_recovery_opens": 12,
+                       "max_shortfall_recoveries": 1, "max_total_searches": 14, "max_total_opens": 44},
             "source_errors": list(pool.get("errors", {})), "candidates": candidates, "reserves": reserves,
             "caution": "발견용. 스포츠 중심·시사 대형 뉴스 우선. 연예 세부 소식 제외. 본문에서 1면 가치·새 사실·날짜·중복 확인 전이며 조회수 예측이 아니다."}
 

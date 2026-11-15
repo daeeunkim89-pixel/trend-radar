@@ -57,3 +57,10 @@ class QuickScanTests(unittest.TestCase):
         result = inbox({"items": rows}, NOW)
         self.assertEqual(result["candidates"], [])
         self.assertEqual(result["extended_candidates"], [])
+
+    def test_shortfall_recovery_is_one_bounded_round_for_missing_stories(self):
+        budget = inbox({}, NOW)["budget"]
+        self.assertEqual((budget["shortfall_recovery_searches"], budget["shortfall_recovery_opens"], budget["max_shortfall_recoveries"]), (4, 12, 1))
+        self.assertEqual((budget["max_total_searches"], budget["max_total_opens"]), (14, 44))
+        self.assertFalse(budget["extend_until_target"])
+        self.assertTrue(budget["stop_when_target_ready"])
