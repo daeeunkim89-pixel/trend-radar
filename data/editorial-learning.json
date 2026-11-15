@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": 1794752548,
+  "updated_at": 1794752943,
   "profile_checks": [
     {
       "at": 1792379965,
@@ -245,6 +245,31 @@
         "화면 날짜는 11/14~15 표기이며 정확한 게시시각·전체 피드·전체 슬라이드/영상·Insights는 미확인.",
         "이전 클라우드 HTTP429/DisabledError 기록은 별도 환경의 실제 실패로 보존. PC 전원과 무관한 클라우드 읽기 성공은 아직 미검증.",
         "본문에 담긴 뉴스 진위를 독립 검증했다는 의미가 아니며 편집 선택 관찰로만 사용."
+      ]
+    },
+    {
+      "at": 1794752776,
+      "profile_url": "https://www.instagram.com/bythepulse/",
+      "status": "captioned_embed_observed_single",
+      "execution_environment": "cloud",
+      "access_method": "official_public_captioned_embed",
+      "visible_post_ids": [
+        "Dfw1r5UoLEO"
+      ],
+      "newly_documented_ids": [],
+      "complete_feed_window": false,
+      "coverage_start_at": null,
+      "coverage_end_at": null,
+      "evidence_source": {
+        "thread_id": "6ad21f17-6ea8-83e8-9230-4ec99d3890c8",
+        "turn_id": "4b44131f-03ca-4719-8cb0-388f988eea46",
+        "type": "cloud_task_readback"
+      },
+      "observed_caption_marker": "bythepulse / 앞으로 6개월 동안 스트리밍",
+      "limits": [
+        "기존 클라우드 채팅이 지정한 공식 embed URL 1회 성공 및 계정/본문 구절 확인을 회신했다. 이 root는 같은 클라우드 브라우저 원시 출력을 직접 보지 않았으므로 회신 출처를 명시한다.",
+        "기지 post_id 한 건의 본문 읽기이며 최신 ID 탐지·전체 피드·차기 회차의 지속 접근을 보장하지 않는다.",
+        "과거 HTTP429는 다른 접근 경로의 실패로 유지한다."
       ]
     }
   ],
@@ -545,7 +570,19 @@
       },
       "miss_stage": "undetermined",
       "timing_limit": "정확한 게시시각과 당시 후보 수집 기록이 없어 미발견/탈락/늦음의 단계를 확정하지 않음. 11/13~14 발송 공백도 포함.",
-      "next_change": "스타의 예상 밖 새 행동·직접 발언; 과거 부상 기사와 분리"
+      "next_change": "스타의 예상 밖 새 행동·직접 발언; 과거 부상 기사와 분리",
+      "access_confirmations": [
+        {
+          "at": 1794752776,
+          "execution_environment": "cloud",
+          "evidence_source": {
+            "thread_id": "6ad21f17-6ea8-83e8-9230-4ec99d3890c8",
+            "turn_id": "4b44131f-03ca-4719-8cb0-388f988eea46",
+            "type": "cloud_task_readback"
+          },
+          "caption_marker": "bythepulse / 앞으로 6개월 동안 스트리밍"
+        }
+      ]
     },
     {
       "id": "btp-caption-DfwvywFoBWa",
