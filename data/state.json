@@ -1,5 +1,5 @@
 {
-  "updated_at": 1794818260,
+  "updated_at": 1794870542,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,65 +15,65 @@
     "requested_stories": 10,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026111608",
+    "hour_utc": "2026111623",
     "category_counts": {
-      "시사": 6,
-      "축구": 0,
-      "메이저 스포츠": 4,
+      "시사": 2,
+      "축구": 6,
+      "메이저 스포츠": 2,
       "아이돌": 0
     },
     "research_queries": 14,
-    "opened_sources": 10,
+    "opened_sources": 35,
     "picks": [
       {
-        "title": "이현중 25점·3점 6개…이틀 만에 G리그 개인 최다 또 경신",
-        "url": "https://www.yna.co.kr/view/AKR20261116103600007",
-        "event_key": "lee-hyun-jung-g-league-career-high-25-rip-city-win-20261116"
+        "title": "비르츠 멀티골…독일, 네덜란드 5-0 완파하고 네이션스리그 조 1위",
+        "url": "https://www.reuters.com/sports/soccer/wirtz-scores-twice-germany-thrash-dutch-5-0-win-nations-league-group-2026-11-16/",
+        "event_key": "germany-netherlands-5-0-wirtz-brace-nations-league-group-win-20261116"
       },
       {
-        "title": "JTBC, IOC와 올림픽 중계권 계약 해지…LA 2028 중계 판도 다시 열린다",
-        "url": "https://www.newsis.com/view/NISX20261116_0003869754",
-        "event_key": "jtbc-terminates-ioc-olympic-rights-contract-20261116"
+        "title": "미국, 캐나다 6-2 제압…여자 아이스하키 세계선수권 2연패",
+        "url": "https://canada-central.iihf.com/pdf/773/ihw7739900_76_14_0",
+        "event_key": "usa-canada-6-2-womens-hockey-world-title-repeat-20261116"
       },
       {
-        "title": "미중·미중러 회담 19일 선전서 연속 개최…첫 3자 정상회담",
-        "url": "https://www.newsis.com/view/NISX20261116_0003869819",
-        "event_key": "trump-xi-putin-shenzhen-apec-meetings-schedule-20261119"
+        "title": "노르웨이, 러시아·벨라루스 프로선수 입국 즉시 금지",
+        "url": "https://www.reuters.com/sports/norway-imposes-immediate-entry-ban-russian-belarusian-athletes-2026-11-16/",
+        "event_key": "norway-entry-ban-russian-belarusian-professional-athletes-20261116"
       },
       {
-        "title": "코스피 3.59% 급락 마감…외국인 매도에 5100선 턱걸이",
-        "url": "https://www.newsis.com/view/NISX20261116_0003870050",
-        "event_key": "kospi-closes-down-3-59-at-5100-50-20261116"
+        "title": "토마스 프랑크, 크리스털 팰리스 새 감독…2029년 6월까지 계약",
+        "url": "https://www.reuters.com/sports/soccer/frank-takes-charge-struggling-palace-after-sage-dismissal-2026-11-16/",
+        "event_key": "thomas-frank-crystal-palace-manager-contract-2029-20261116"
       },
       {
-        "title": "우크라이나, 러시아-크림 잇는 케르치 대교 타격…통행 제한",
-        "url": "https://www.reuters.com/world/ukraine-hits-key-crimean-bridge-curbing-traffic-russian-governor-says-2026-11-16/",
-        "event_key": "ukraine-strikes-kerch-crimea-bridge-traffic-limited-20261116"
+        "title": "프랑스축구협회장 디알로, 인판티노 FIFA 회장에 도전",
+        "url": "https://www.reuters.com/sports/soccer/french-football-chief-diallo-challenge-infantino-fifa-presidency-2026-11-16/",
+        "event_key": "philippe-diallo-uefa-backed-fifa-presidency-run-20261116"
       },
       {
-        "title": "요르단, 국가안보 이유로 텔레그램 차단 결정",
-        "url": "https://www.reuters.com/business/media-telecom/jordan-blocks-telegram-app-over-national-security-concerns-2026-11-16/",
-        "event_key": "jordan-blocks-telegram-national-security-20261116"
+        "title": "포체티노, 미국 대표팀 마지막 경기 뒤 맨유로 즉시 이동",
+        "url": "https://www.reuters.com/sports/soccer/pochettino-prepares-quick-switch-us-united-2026-11-16/",
+        "event_key": "pochettino-usmnt-haiti-then-manchester-united-switch-20261116"
       },
       {
-        "title": "이 대통령, 한-아세안 정상회의서 AI·문화창조산업 협력 새 제안",
-        "url": "https://www.newsis.com/view/NISX20261116_0003870156",
-        "event_key": "korea-asean-ai-culture-initiatives-proposed-20261116"
+        "title": "나이키, 2027년부터 UEFA 클럽대항전 공인구 공급…아디다스 교체",
+        "url": "https://www.reuters.com/sports/soccer/nike-replaces-adidas-uefa-mens-club-competitions-ball-supplier-2027-31-2026-11-16/",
+        "event_key": "nike-uefa-club-competition-match-ball-supplier-2027-31-20261116"
       },
       {
-        "title": "SK하이닉스 3분기 누적 투자 역대 최대…시설 31.2조·R&D 10.1조",
-        "url": "https://www.newsis.com/view/NISX20261116_0003870289",
-        "event_key": "sk-hynix-record-capex-rnd-through-q3-2026"
+        "title": "미국, 해외 데이터센터 통한 중국의 첨단 AI칩 원격 접근 제한",
+        "url": "https://www.reuters.com/legal/litigation/us-issues-rule-protect-advanced-ai-chips-being-accessed-remotely-2026-11-16/",
+        "event_key": "us-restricts-china-remote-access-advanced-ai-chips-overseas-data-centers-20261116"
       },
       {
-        "title": "트레이 영, NBA 512경기 만에 첫 무득점…휴스턴 28점 차 대승",
-        "url": "https://www.reuters.com/sports/basketball/rockets-crush-wizards-hold-trae-young-to-career-first-0-points--flm-2026-11-16/",
-        "event_key": "trae-young-first-scoreless-game-512-rockets-win-20261116"
+        "title": "트럼프, 중국 방문 때 김정은 만남 가능성 언급",
+        "url": "https://apnews.com/article/a31165456bf217de16f1c4e646b72bd2",
+        "event_key": "trump-possible-kim-jong-un-meeting-china-trip-20261116"
       },
       {
-        "title": "보스턴, 1쿼터 42대9…구단 역사상 최대 1쿼터 리드",
-        "url": "https://www.reuters.com/sports/nba-roundup-celtics-blast-mavs-behind-franchise-record-first-quarter--flm-2026-11-16/",
-        "event_key": "celtics-franchise-record-first-quarter-lead-mavericks-20261116"
+        "title": "세네갈·카메룬, 나란히 대승…2027 아프리카 네이션스컵 본선 눈앞",
+        "url": "https://www.reuters.com/sports/soccer/cameroon-senegal-close-africa-cup-nations-qualification-2026-11-16/",
+        "event_key": "senegal-cameroon-near-2027-afcon-qualification-after-wins-20261116"
       }
     ]
   }

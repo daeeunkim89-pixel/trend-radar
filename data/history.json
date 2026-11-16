@@ -1,6 +1,725 @@
 {
   "version": 1,
   "items": {
+    "26f1a06c46c3": {
+      "source": "Reuters",
+      "title": "비르츠 멀티골…독일, 네덜란드 5-0 완파하고 네이션스리그 조 1위",
+      "link": "https://www.reuters.com/sports/soccer/wirtz-scores-twice-germany-thrash-dutch-5-0-win-nations-league-group-2026-11-16/",
+      "first_seen_at": 1794870541,
+      "last_seen_at": 1794870541,
+      "samples": [
+        {
+          "at": 1794870541,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "26f1a06c46c3",
+      "editorial": {
+        "title": "비르츠 멀티골…독일, 네덜란드 5-0 완파하고 네이션스리그 조 1위",
+        "category": "축구",
+        "url": "https://www.reuters.com/sports/soccer/wirtz-scores-twice-germany-thrash-dutch-5-0-win-nations-league-group-2026-11-16/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "germany-netherlands-5-0-wirtz-brace-nations-league-group-win-20261116",
+        "why": "유럽 강호 맞대결이 5골 차로 끝났고 비르츠가 멀티골을 기록한 판도 변화다.",
+        "angle": "후반 18분 동안 나온 4골과 네덜란드의 사비 체제 첫 패배를 묶는다.",
+        "why_now": "경기 결과와 조 1위가 확정된 직후다.",
+        "verified_at": 1794870326,
+        "published_at": 1794867420,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/soccer/wirtz-scores-twice-germany-thrash-dutch-5-0-win-nations-league-group-2026-11-16/",
+            "note": "비르츠가 두 골을 넣었고 독일은 네덜란드를 5대0으로 꺾어 상대 전적 우위로 조 1위를 차지했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/soccer/wirtz-scores-twice-germany-thrash-dutch-5-0-win-nations-league-group-2026-11-16/",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-16",
+          "observation": "비르츠가 두 골을 넣었고 독일은 네덜란드를 5대0으로 꺾어 상대 전적 우위로 조 1위를 차지했다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 수치와 의미, 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.reuters.com/sports/soccer/wirtz-scores-twice-germany-thrash-dutch-5-0-win-nations-league-group-2026-11-16/"
+          }
+        ],
+        "excerpt": "",
+        "context": "경기 결과와 조 1위가 확정된 직후다.",
+        "fetched_at": 1794870541,
+        "parser_revision": 7
+      },
+      "curation_event_key": "germany-netherlands-5-0-wirtz-brace-nations-league-group-win-20261116"
+    },
+    "479d09542a59": {
+      "source": "IIHF",
+      "title": "미국, 캐나다 6-2 제압…여자 아이스하키 세계선수권 2연패",
+      "link": "https://canada-central.iihf.com/pdf/773/ihw7739900_76_14_0",
+      "first_seen_at": 1794870541,
+      "last_seen_at": 1794870541,
+      "samples": [
+        {
+          "at": 1794870541,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "official",
+      "story_id": "479d09542a59",
+      "editorial": {
+        "title": "미국, 캐나다 6-2 제압…여자 아이스하키 세계선수권 2연패",
+        "category": "메이저 스포츠",
+        "url": "https://canada-central.iihf.com/pdf/773/ihw7739900_76_14_0",
+        "source": "IIHF",
+        "kind": "official",
+        "event_key": "usa-canada-6-2-womens-hockey-world-title-repeat-20261116",
+        "why": "미국과 캐나다의 라이벌 결승에서 미국이 올림픽 금메달에 이어 세계선수권도 지켰다.",
+        "angle": "나이트와 파넥의 멀티골, 6대2 공식 결과를 중심으로 구성한다.",
+        "why_now": "결승 종료와 공식 경기 기록이 공개됐다.",
+        "verified_at": 1794870326,
+        "published_at": 1794863400,
+        "evidence": [
+          {
+            "url": "https://canada-central.iihf.com/pdf/773/ihw7739900_76_14_0",
+            "note": "IIHF 공식 경기 문서는 미국의 캐나다전 6대2 승리를 확인하며, 나이트와 파넥은 각각 두 골을 기록했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://canada-central.iihf.com/pdf/773/ihw7739900_76_14_0",
+            "label": "확인한 원문",
+            "kind": "source"
+          },
+          {
+            "url": "https://www.reuters.com/sports/us-beat-rivals-canada-second-straight-world-championship-win-2026-11-16/",
+            "label": "확인한 보도 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-16",
+          "observation": "IIHF 공식 경기 문서는 미국의 캐나다전 6대2 승리를 확인하며, 나이트와 파넥은 각각 두 골을 기록했다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 수치와 의미, 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://canada-central.iihf.com/pdf/773/ihw7739900_76_14_0"
+          },
+          {
+            "label": "확인한 보도 원문",
+            "url": "https://www.reuters.com/sports/us-beat-rivals-canada-second-straight-world-championship-win-2026-11-16/"
+          }
+        ],
+        "excerpt": "",
+        "context": "결승 종료와 공식 경기 기록이 공개됐다.",
+        "fetched_at": 1794870541,
+        "parser_revision": 7
+      },
+      "curation_event_key": "usa-canada-6-2-womens-hockey-world-title-repeat-20261116"
+    },
+    "d2a9180e2b65": {
+      "source": "Reuters",
+      "title": "노르웨이, 러시아·벨라루스 프로선수 입국 즉시 금지",
+      "link": "https://www.reuters.com/sports/norway-imposes-immediate-entry-ban-russian-belarusian-athletes-2026-11-16/",
+      "first_seen_at": 1794870541,
+      "last_seen_at": 1794870541,
+      "samples": [
+        {
+          "at": 1794870541,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "d2a9180e2b65",
+      "editorial": {
+        "title": "노르웨이, 러시아·벨라루스 프로선수 입국 즉시 금지",
+        "category": "메이저 스포츠",
+        "url": "https://www.reuters.com/sports/norway-imposes-immediate-entry-ban-russian-belarusian-athletes-2026-11-16/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "norway-entry-ban-russian-belarusian-professional-athletes-20261116",
+        "why": "중립 자격 선수와 지원 인력까지 포함하는 즉시 효력 조치로 국제 스포츠 일정에 직접 영향을 준다.",
+        "angle": "다가오는 스키 대회와 전쟁 기간 연동 조건을 함께 설명한다.",
+        "why_now": "정부의 즉시 시행 조치와 대상 범위가 공개됐다.",
+        "verified_at": 1794870326,
+        "published_at": 1794859080,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/norway-imposes-immediate-entry-ban-russian-belarusian-athletes-2026-11-16/",
+            "note": "노르웨이는 러시아·벨라루스 프로선수와 지원 인력의 입국을 즉시 금지했고, 중립 자격과 심사 중 비자도 포함했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/norway-imposes-immediate-entry-ban-russian-belarusian-athletes-2026-11-16/",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-16",
+          "observation": "노르웨이는 러시아·벨라루스 프로선수와 지원 인력의 입국을 즉시 금지했고, 중립 자격과 심사 중 비자도 포함했다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 수치와 의미, 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.reuters.com/sports/norway-imposes-immediate-entry-ban-russian-belarusian-athletes-2026-11-16/"
+          }
+        ],
+        "excerpt": "",
+        "context": "정부의 즉시 시행 조치와 대상 범위가 공개됐다.",
+        "fetched_at": 1794870541,
+        "parser_revision": 7
+      },
+      "curation_event_key": "norway-entry-ban-russian-belarusian-professional-athletes-20261116"
+    },
+    "05b988230883": {
+      "source": "Reuters",
+      "title": "토마스 프랑크, 크리스털 팰리스 새 감독…2029년 6월까지 계약",
+      "link": "https://www.reuters.com/sports/soccer/frank-takes-charge-struggling-palace-after-sage-dismissal-2026-11-16/",
+      "first_seen_at": 1794870541,
+      "last_seen_at": 1794870541,
+      "samples": [
+        {
+          "at": 1794870541,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "05b988230883",
+      "editorial": {
+        "title": "토마스 프랑크, 크리스털 팰리스 새 감독…2029년 6월까지 계약",
+        "category": "축구",
+        "url": "https://www.reuters.com/sports/soccer/frank-takes-charge-struggling-palace-after-sage-dismissal-2026-11-16/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "thomas-frank-crystal-palace-manager-contract-2029-20261116",
+        "why": "리그 최하위 팰리스가 16경기 만에 감독을 바꾸고 장기 계약으로 반등 승부수를 던졌다.",
+        "angle": "세이지 경질과 프랑크의 2029년 계약을 한 번에 보여준다.",
+        "why_now": "구단의 감독 선임과 계약 기간이 확정됐다.",
+        "verified_at": 1794870326,
+        "published_at": 1794849420,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/soccer/frank-takes-charge-struggling-palace-after-sage-dismissal-2026-11-16/",
+            "note": "크리스털 팰리스는 세이지를 16경기 만에 경질한 뒤 토마스 프랑크와 2029년 6월까지 계약했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/soccer/frank-takes-charge-struggling-palace-after-sage-dismissal-2026-11-16/",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-16",
+          "observation": "크리스털 팰리스는 세이지를 16경기 만에 경질한 뒤 토마스 프랑크와 2029년 6월까지 계약했다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 수치와 의미, 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.reuters.com/sports/soccer/frank-takes-charge-struggling-palace-after-sage-dismissal-2026-11-16/"
+          }
+        ],
+        "excerpt": "",
+        "context": "구단의 감독 선임과 계약 기간이 확정됐다.",
+        "fetched_at": 1794870541,
+        "parser_revision": 7
+      },
+      "curation_event_key": "thomas-frank-crystal-palace-manager-contract-2029-20261116"
+    },
+    "2fd2c77f8c0d": {
+      "source": "Reuters",
+      "title": "프랑스축구협회장 디알로, 인판티노 FIFA 회장에 도전",
+      "link": "https://www.reuters.com/sports/soccer/french-football-chief-diallo-challenge-infantino-fifa-presidency-2026-11-16/",
+      "first_seen_at": 1794870541,
+      "last_seen_at": 1794870541,
+      "samples": [
+        {
+          "at": 1794870541,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "2fd2c77f8c0d",
+      "editorial": {
+        "title": "프랑스축구협회장 디알로, 인판티노 FIFA 회장에 도전",
+        "category": "축구",
+        "url": "https://www.reuters.com/sports/soccer/french-football-chief-diallo-challenge-infantino-fifa-presidency-2026-11-16/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "philippe-diallo-uefa-backed-fifa-presidency-run-20261116",
+        "why": "유럽 축구 수뇌부가 현 FIFA 회장에 맞설 후보를 세우는 지배구조 변화다.",
+        "angle": "UEFA 회원국 지지와 프랑스축구협회 최종 절차를 분리해 전한다.",
+        "why_now": "디알로가 UEFA의 출마 요청을 수락했고 공식 절차 일정이 공개됐다.",
+        "verified_at": 1794870326,
+        "published_at": 1794843480,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/soccer/french-football-chief-diallo-challenge-infantino-fifa-presidency-2026-11-16/",
+            "note": "디알로는 UEFA 회원국의 FIFA 회장 출마 요청을 수락했으며 프랑스축구협회 비준은 화요일로 예정됐다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/soccer/french-football-chief-diallo-challenge-infantino-fifa-presidency-2026-11-16/",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "공식 후보 절차는 프랑스축구협회 비준 전이며 당선이나 등록 완료로 단정하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-16",
+          "observation": "디알로는 UEFA 회원국의 FIFA 회장 출마 요청을 수락했으며 프랑스축구협회 비준은 화요일로 예정됐다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 수치와 의미, 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.reuters.com/sports/soccer/french-football-chief-diallo-challenge-infantino-fifa-presidency-2026-11-16/"
+          }
+        ],
+        "excerpt": "",
+        "context": "디알로가 UEFA의 출마 요청을 수락했고 공식 절차 일정이 공개됐다.",
+        "fetched_at": 1794870541,
+        "parser_revision": 7
+      },
+      "curation_event_key": "philippe-diallo-uefa-backed-fifa-presidency-run-20261116"
+    },
+    "e456a051cb59": {
+      "source": "Reuters",
+      "title": "포체티노, 미국 대표팀 마지막 경기 뒤 맨유로 즉시 이동",
+      "link": "https://www.reuters.com/sports/soccer/pochettino-prepares-quick-switch-us-united-2026-11-16/",
+      "first_seen_at": 1794870541,
+      "last_seen_at": 1794870541,
+      "samples": [
+        {
+          "at": 1794870541,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "e456a051cb59",
+      "editorial": {
+        "title": "포체티노, 미국 대표팀 마지막 경기 뒤 맨유로 즉시 이동",
+        "category": "축구",
+        "url": "https://www.reuters.com/sports/soccer/pochettino-prepares-quick-switch-us-united-2026-11-16/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "pochettino-usmnt-haiti-then-manchester-united-switch-20261116",
+        "why": "대표팀과 맨유 사이 전환 날짜와 코치진 이동이 구체화된 새 후속이다.",
+        "angle": "아이티전 지휘 뒤 수요일 합류, 일요일 리버풀전이라는 일정을 보여준다.",
+        "why_now": "합의 보도 뒤 실제 인수인계 일정과 선발 코치진 이동이 확인됐다.",
+        "verified_at": 1794870326,
+        "published_at": 1794846540,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/soccer/pochettino-prepares-quick-switch-us-united-2026-11-16/",
+            "note": "포체티노는 미국의 아이티전을 지휘한 뒤 수요일 맨유에 합류하며 일부 코치진은 이미 이동했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/soccer/pochettino-prepares-quick-switch-us-united-2026-11-16/",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-16",
+          "observation": "포체티노는 미국의 아이티전을 지휘한 뒤 수요일 맨유에 합류하며 일부 코치진은 이미 이동했다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 수치와 의미, 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.reuters.com/sports/soccer/pochettino-prepares-quick-switch-us-united-2026-11-16/"
+          }
+        ],
+        "excerpt": "",
+        "context": "합의 보도 뒤 실제 인수인계 일정과 선발 코치진 이동이 확인됐다.",
+        "fetched_at": 1794870541,
+        "parser_revision": 7
+      },
+      "curation_event_key": "pochettino-usmnt-haiti-then-manchester-united-switch-20261116"
+    },
+    "777e5b34c666": {
+      "source": "Reuters",
+      "title": "나이키, 2027년부터 UEFA 클럽대항전 공인구 공급…아디다스 교체",
+      "link": "https://www.reuters.com/sports/soccer/nike-replaces-adidas-uefa-mens-club-competitions-ball-supplier-2027-31-2026-11-16/",
+      "first_seen_at": 1794870541,
+      "last_seen_at": 1794870541,
+      "samples": [
+        {
+          "at": 1794870541,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "777e5b34c666",
+      "editorial": {
+        "title": "나이키, 2027년부터 UEFA 클럽대항전 공인구 공급…아디다스 교체",
+        "category": "축구",
+        "url": "https://www.reuters.com/sports/soccer/nike-replaces-adidas-uefa-mens-club-competitions-ball-supplier-2027-31-2026-11-16/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "nike-uefa-club-competition-match-ball-supplier-2027-31-20261116",
+        "why": "챔피언스리그를 포함한 UEFA 남자 클럽대항전 공인구 공급사가 장기간 만에 바뀐다.",
+        "angle": "세 대회 단일 공급과 2027~2031 적용 범위를 시각 자료 관점으로 정리한다.",
+        "why_now": "공급사와 적용 대회·기간이 공식 발표됐다.",
+        "verified_at": 1794870326,
+        "published_at": 1794831660,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/soccer/nike-replaces-adidas-uefa-mens-club-competitions-ball-supplier-2027-31-2026-11-16/",
+            "note": "나이키는 2027년부터 2031년까지 챔피언스리그·유로파리그·콘퍼런스리그 등의 공인구를 공급한다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/soccer/nike-replaces-adidas-uefa-mens-club-competitions-ball-supplier-2027-31-2026-11-16/",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-16",
+          "observation": "나이키는 2027년부터 2031년까지 챔피언스리그·유로파리그·콘퍼런스리그 등의 공인구를 공급한다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 수치와 의미, 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.reuters.com/sports/soccer/nike-replaces-adidas-uefa-mens-club-competitions-ball-supplier-2027-31-2026-11-16/"
+          }
+        ],
+        "excerpt": "",
+        "context": "공급사와 적용 대회·기간이 공식 발표됐다.",
+        "fetched_at": 1794870541,
+        "parser_revision": 7
+      },
+      "curation_event_key": "nike-uefa-club-competition-match-ball-supplier-2027-31-20261116"
+    },
+    "91993ffe83fc": {
+      "source": "Reuters",
+      "title": "미국, 해외 데이터센터 통한 중국의 첨단 AI칩 원격 접근 제한",
+      "link": "https://www.reuters.com/legal/litigation/us-issues-rule-protect-advanced-ai-chips-being-accessed-remotely-2026-11-16/",
+      "first_seen_at": 1794870541,
+      "last_seen_at": 1794870541,
+      "samples": [
+        {
+          "at": 1794870541,
+          "views": null,
+          "reactions": null,
+          "rank": 8,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "91993ffe83fc",
+      "editorial": {
+        "title": "미국, 해외 데이터센터 통한 중국의 첨단 AI칩 원격 접근 제한",
+        "category": "시사",
+        "url": "https://www.reuters.com/legal/litigation/us-issues-rule-protect-advanced-ai-chips-being-accessed-remotely-2026-11-16/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "us-restricts-china-remote-access-advanced-ai-chips-overseas-data-centers-20261116",
+        "why": "한국 반도체와 아시아 데이터센터 공급망에 직접 연결되는 미국의 새 수출통제 조치다.",
+        "angle": "중국 고객용 90일 허가와 아시아 주요 경유국의 칩 선적 허가를 구분한다.",
+        "why_now": "미국 정부가 적용 대상과 허가 체계를 공개했다.",
+        "verified_at": 1794870326,
+        "published_at": 1794836760,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/legal/litigation/us-issues-rule-protect-advanced-ai-chips-being-accessed-remotely-2026-11-16/",
+            "note": "미국은 중국에 서비스를 제공하는 해외 데이터센터에 90일 허가를 요구하고 여러 경유국 선적에도 허가를 적용했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/legal/litigation/us-issues-rule-protect-advanced-ai-chips-being-accessed-remotely-2026-11-16/",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-16",
+          "observation": "미국은 중국에 서비스를 제공하는 해외 데이터센터에 90일 허가를 요구하고 여러 경유국 선적에도 허가를 적용했다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 수치와 의미, 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.reuters.com/legal/litigation/us-issues-rule-protect-advanced-ai-chips-being-accessed-remotely-2026-11-16/"
+          }
+        ],
+        "excerpt": "",
+        "context": "미국 정부가 적용 대상과 허가 체계를 공개했다.",
+        "fetched_at": 1794870541,
+        "parser_revision": 7
+      },
+      "curation_event_key": "us-restricts-china-remote-access-advanced-ai-chips-overseas-data-centers-20261116"
+    },
+    "724331cedd7a": {
+      "source": "AP",
+      "title": "트럼프, 중국 방문 때 김정은 만남 가능성 언급",
+      "link": "https://apnews.com/article/a31165456bf217de16f1c4e646b72bd2",
+      "first_seen_at": 1794870541,
+      "last_seen_at": 1794870541,
+      "samples": [
+        {
+          "at": 1794870541,
+          "views": null,
+          "reactions": null,
+          "rank": 9,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "724331cedd7a",
+      "editorial": {
+        "title": "트럼프, 중국 방문 때 김정은 만남 가능성 언급",
+        "category": "시사",
+        "url": "https://apnews.com/article/a31165456bf217de16f1c4e646b72bd2",
+        "source": "AP",
+        "kind": "article",
+        "event_key": "trump-possible-kim-jong-un-meeting-china-trip-20261116",
+        "why": "한반도 외교에 직접 영향을 줄 수 있는 북미 정상 접촉 가능성을 미국 대통령이 공개 언급했다.",
+        "angle": "확정 회담이 아니라 가능성 발언이며 시진핑·푸틴과 우크라이나 논의 계획도 함께 구분한다.",
+        "why_now": "중국 방문 구상과 김정은 접촉 가능성이 새로 공개됐다.",
+        "verified_at": 1794870326,
+        "published_at": 1794847800,
+        "evidence": [
+          {
+            "url": "https://apnews.com/article/a31165456bf217de16f1c4e646b72bd2",
+            "note": "트럼프는 중국 방문 중 김정은을 만날 수도 있다고 말했고 시진핑·푸틴과 우크라이나 문제를 논의할 계획이라고 밝혔다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://apnews.com/article/a31165456bf217de16f1c4e646b72bd2",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "회담은 확정되지 않았으므로 가능성으로만 표기한다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-16",
+          "observation": "트럼프는 중국 방문 중 김정은을 만날 수도 있다고 말했고 시진핑·푸틴과 우크라이나 문제를 논의할 계획이라고 밝혔다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 수치와 의미, 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://apnews.com/article/a31165456bf217de16f1c4e646b72bd2"
+          }
+        ],
+        "excerpt": "",
+        "context": "중국 방문 구상과 김정은 접촉 가능성이 새로 공개됐다.",
+        "fetched_at": 1794870541,
+        "parser_revision": 7
+      },
+      "curation_event_key": "trump-possible-kim-jong-un-meeting-china-trip-20261116"
+    },
+    "f8ac8956003b": {
+      "source": "Reuters",
+      "title": "세네갈·카메룬, 나란히 대승…2027 아프리카 네이션스컵 본선 눈앞",
+      "link": "https://www.reuters.com/sports/soccer/cameroon-senegal-close-africa-cup-nations-qualification-2026-11-16/",
+      "first_seen_at": 1794870541,
+      "last_seen_at": 1794870541,
+      "samples": [
+        {
+          "at": 1794870541,
+          "views": null,
+          "reactions": null,
+          "rank": 10,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "f8ac8956003b",
+      "editorial": {
+        "title": "세네갈·카메룬, 나란히 대승…2027 아프리카 네이션스컵 본선 눈앞",
+        "category": "축구",
+        "url": "https://www.reuters.com/sports/soccer/cameroon-senegal-close-africa-cup-nations-qualification-2026-11-16/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "senegal-cameroon-near-2027-afcon-qualification-after-wins-20261116",
+        "why": "아프리카 강호 두 팀이 본선 진출 경쟁의 결정적 고비를 넘긴 확정 결과다.",
+        "angle": "세네갈 4대2, 카메룬 3대0 결과와 남은 확정 조건을 분리한다.",
+        "why_now": "두 경기 결과가 확정돼 조별 판도가 바뀌었다.",
+        "verified_at": 1794870326,
+        "published_at": 1794854340,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/soccer/cameroon-senegal-close-africa-cup-nations-qualification-2026-11-16/",
+            "note": "세네갈은 수단을 4대2로, 카메룬은 나미비아를 3대0으로 꺾어 2027 네이션스컵 본선에 가까워졌다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/soccer/cameroon-senegal-close-africa-cup-nations-qualification-2026-11-16/",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "두 팀 모두 아직 본선 진출이 확정된 것은 아니다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-16",
+          "observation": "세네갈은 수단을 4대2로, 카메룬은 나미비아를 3대0으로 꺾어 2027 네이션스컵 본선에 가까워졌다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 수치와 의미, 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.reuters.com/sports/soccer/cameroon-senegal-close-africa-cup-nations-qualification-2026-11-16/"
+          }
+        ],
+        "excerpt": "",
+        "context": "두 경기 결과가 확정돼 조별 판도가 바뀌었다.",
+        "fetched_at": 1794870541,
+        "parser_revision": 7
+      },
+      "curation_event_key": "senegal-cameroon-near-2027-afcon-qualification-after-wins-20261116"
+    },
     "77b0209c5937": {
       "source": "연합뉴스",
       "title": "이현중 25점·3점 6개…이틀 만에 G리그 개인 최다 또 경신",
@@ -11756,5 +12475,5 @@
       "curation_event_key": "nvidia-falls-over4-market-rally-amd-over10-session-20261109"
     }
   },
-  "updated_at": 1794818259
+  "updated_at": 1794870541
 }

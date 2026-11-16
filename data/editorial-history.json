@@ -1305,6 +1305,134 @@
           "why_now": "경기 종료 뒤 구단이 프랜차이즈 기록임을 확인했다."
         }
       ]
+    },
+    {
+      "hour_utc": "2026111623",
+      "at": 1794870542,
+      "delivery": "sent",
+      "delivery_key": "hourly-2026111623",
+      "picks": [
+        {
+          "title": "비르츠 멀티골…독일, 네덜란드 5-0 완파하고 네이션스리그 조 1위",
+          "url": "https://www.reuters.com/sports/soccer/wirtz-scores-twice-germany-thrash-dutch-5-0-win-nations-league-group-2026-11-16/",
+          "event_key": "germany-netherlands-5-0-wirtz-brace-nations-league-group-win-20261116",
+          "category": "축구",
+          "rank": 1,
+          "published_at": 1794867420,
+          "source": "Reuters",
+          "why": "유럽 강호 맞대결이 5골 차로 끝났고 비르츠가 멀티골을 기록한 판도 변화다.",
+          "angle": "후반 18분 동안 나온 4골과 네덜란드의 사비 체제 첫 패배를 묶는다.",
+          "why_now": "경기 결과와 조 1위가 확정된 직후다."
+        },
+        {
+          "title": "미국, 캐나다 6-2 제압…여자 아이스하키 세계선수권 2연패",
+          "url": "https://canada-central.iihf.com/pdf/773/ihw7739900_76_14_0",
+          "event_key": "usa-canada-6-2-womens-hockey-world-title-repeat-20261116",
+          "category": "메이저 스포츠",
+          "rank": 2,
+          "published_at": 1794863400,
+          "source": "IIHF",
+          "why": "미국과 캐나다의 라이벌 결승에서 미국이 올림픽 금메달에 이어 세계선수권도 지켰다.",
+          "angle": "나이트와 파넥의 멀티골, 6대2 공식 결과를 중심으로 구성한다.",
+          "why_now": "결승 종료와 공식 경기 기록이 공개됐다."
+        },
+        {
+          "title": "노르웨이, 러시아·벨라루스 프로선수 입국 즉시 금지",
+          "url": "https://www.reuters.com/sports/norway-imposes-immediate-entry-ban-russian-belarusian-athletes-2026-11-16/",
+          "event_key": "norway-entry-ban-russian-belarusian-professional-athletes-20261116",
+          "category": "메이저 스포츠",
+          "rank": 3,
+          "published_at": 1794859080,
+          "source": "Reuters",
+          "why": "중립 자격 선수와 지원 인력까지 포함하는 즉시 효력 조치로 국제 스포츠 일정에 직접 영향을 준다.",
+          "angle": "다가오는 스키 대회와 전쟁 기간 연동 조건을 함께 설명한다.",
+          "why_now": "정부의 즉시 시행 조치와 대상 범위가 공개됐다."
+        },
+        {
+          "title": "토마스 프랑크, 크리스털 팰리스 새 감독…2029년 6월까지 계약",
+          "url": "https://www.reuters.com/sports/soccer/frank-takes-charge-struggling-palace-after-sage-dismissal-2026-11-16/",
+          "event_key": "thomas-frank-crystal-palace-manager-contract-2029-20261116",
+          "category": "축구",
+          "rank": 4,
+          "published_at": 1794849420,
+          "source": "Reuters",
+          "why": "리그 최하위 팰리스가 16경기 만에 감독을 바꾸고 장기 계약으로 반등 승부수를 던졌다.",
+          "angle": "세이지 경질과 프랑크의 2029년 계약을 한 번에 보여준다.",
+          "why_now": "구단의 감독 선임과 계약 기간이 확정됐다."
+        },
+        {
+          "title": "프랑스축구협회장 디알로, 인판티노 FIFA 회장에 도전",
+          "url": "https://www.reuters.com/sports/soccer/french-football-chief-diallo-challenge-infantino-fifa-presidency-2026-11-16/",
+          "event_key": "philippe-diallo-uefa-backed-fifa-presidency-run-20261116",
+          "category": "축구",
+          "rank": 5,
+          "published_at": 1794843480,
+          "source": "Reuters",
+          "why": "유럽 축구 수뇌부가 현 FIFA 회장에 맞설 후보를 세우는 지배구조 변화다.",
+          "angle": "UEFA 회원국 지지와 프랑스축구협회 최종 절차를 분리해 전한다.",
+          "why_now": "디알로가 UEFA의 출마 요청을 수락했고 공식 절차 일정이 공개됐다."
+        },
+        {
+          "title": "포체티노, 미국 대표팀 마지막 경기 뒤 맨유로 즉시 이동",
+          "url": "https://www.reuters.com/sports/soccer/pochettino-prepares-quick-switch-us-united-2026-11-16/",
+          "event_key": "pochettino-usmnt-haiti-then-manchester-united-switch-20261116",
+          "category": "축구",
+          "rank": 6,
+          "published_at": 1794846540,
+          "source": "Reuters",
+          "why": "대표팀과 맨유 사이 전환 날짜와 코치진 이동이 구체화된 새 후속이다.",
+          "angle": "아이티전 지휘 뒤 수요일 합류, 일요일 리버풀전이라는 일정을 보여준다.",
+          "why_now": "합의 보도 뒤 실제 인수인계 일정과 선발 코치진 이동이 확인됐다."
+        },
+        {
+          "title": "나이키, 2027년부터 UEFA 클럽대항전 공인구 공급…아디다스 교체",
+          "url": "https://www.reuters.com/sports/soccer/nike-replaces-adidas-uefa-mens-club-competitions-ball-supplier-2027-31-2026-11-16/",
+          "event_key": "nike-uefa-club-competition-match-ball-supplier-2027-31-20261116",
+          "category": "축구",
+          "rank": 7,
+          "published_at": 1794831660,
+          "source": "Reuters",
+          "why": "챔피언스리그를 포함한 UEFA 남자 클럽대항전 공인구 공급사가 장기간 만에 바뀐다.",
+          "angle": "세 대회 단일 공급과 2027~2031 적용 범위를 시각 자료 관점으로 정리한다.",
+          "why_now": "공급사와 적용 대회·기간이 공식 발표됐다."
+        },
+        {
+          "title": "미국, 해외 데이터센터 통한 중국의 첨단 AI칩 원격 접근 제한",
+          "url": "https://www.reuters.com/legal/litigation/us-issues-rule-protect-advanced-ai-chips-being-accessed-remotely-2026-11-16/",
+          "event_key": "us-restricts-china-remote-access-advanced-ai-chips-overseas-data-centers-20261116",
+          "category": "시사",
+          "rank": 8,
+          "published_at": 1794836760,
+          "source": "Reuters",
+          "why": "한국 반도체와 아시아 데이터센터 공급망에 직접 연결되는 미국의 새 수출통제 조치다.",
+          "angle": "중국 고객용 90일 허가와 아시아 주요 경유국의 칩 선적 허가를 구분한다.",
+          "why_now": "미국 정부가 적용 대상과 허가 체계를 공개했다."
+        },
+        {
+          "title": "트럼프, 중국 방문 때 김정은 만남 가능성 언급",
+          "url": "https://apnews.com/article/a31165456bf217de16f1c4e646b72bd2",
+          "event_key": "trump-possible-kim-jong-un-meeting-china-trip-20261116",
+          "category": "시사",
+          "rank": 9,
+          "published_at": 1794847800,
+          "source": "AP",
+          "why": "한반도 외교에 직접 영향을 줄 수 있는 북미 정상 접촉 가능성을 미국 대통령이 공개 언급했다.",
+          "angle": "확정 회담이 아니라 가능성 발언이며 시진핑·푸틴과 우크라이나 논의 계획도 함께 구분한다.",
+          "why_now": "중국 방문 구상과 김정은 접촉 가능성이 새로 공개됐다."
+        },
+        {
+          "title": "세네갈·카메룬, 나란히 대승…2027 아프리카 네이션스컵 본선 눈앞",
+          "url": "https://www.reuters.com/sports/soccer/cameroon-senegal-close-africa-cup-nations-qualification-2026-11-16/",
+          "event_key": "senegal-cameroon-near-2027-afcon-qualification-after-wins-20261116",
+          "category": "축구",
+          "rank": 10,
+          "published_at": 1794854340,
+          "source": "Reuters",
+          "why": "아프리카 강호 두 팀이 본선 진출 경쟁의 결정적 고비를 넘긴 확정 결과다.",
+          "angle": "세네갈 4대2, 카메룬 3대0 결과와 남은 확정 조건을 분리한다.",
+          "why_now": "두 경기 결과가 확정돼 조별 판도가 바뀌었다."
+        }
+      ]
     }
   ]
 }
