@@ -2,39 +2,6 @@
   "version": 1,
   "editions": [
     {
-      "hour_utc": "2026110901",
-      "at": 1794186517,
-      "delivery": "sent",
-      "delivery_key": "hourly-2026110901",
-      "picks": [
-        {
-          "title": "96분 동점골에도 강등권…맨유, 빌라와 4대4·리그 8경기 무승",
-          "url": "https://v.isplus.com/article/view/isp202611090022",
-          "event_key": "manutd-villa-four-all-stoppage-comeback-eight-league-winless-20261109"
-        },
-        {
-          "title": "메시, 26골로 MLS 최초 2년 연속 득점왕",
-          "url": "https://www.mlssoccer.com/news/inter-miami-s-lionel-messi-wins-2026-mls-golden-boot-presented-by-audi",
-          "event_key": "messi-mls-golden-boot-back-to-back-first-20261107"
-        },
-        {
-          "title": "노이어, 오른발 인대 부분 파열…6~8주 결장 전망",
-          "url": "https://v.isplus.com/article/view/isp202611090023",
-          "event_key": "bayern-neuer-right-foot-ligament-partial-tear-announced-20261108"
-        },
-        {
-          "title": "엔비디아, 젠슨 황 관련 의혹 독립 조사…CEO직은 유지",
-          "url": "https://www.newsis.com/view/NISX20261109_0003859602",
-          "event_key": "nvidia-board-independent-investigation-huang-foreign-intelligence-concerns-20261108"
-        },
-        {
-          "title": "트럼프 “이란 재공격 가능성 매우 낮다”…합의가 전제",
-          "url": "https://www.newsis.com/view/NISX20261109_0003859580",
-          "event_key": "trump-cnn-iran-renewed-attack-very-unlikely-conditional-deal-20261108"
-        }
-      ]
-    },
-    {
       "hour_utc": "2026110902",
       "at": 1794190269,
       "delivery": "sent",
@@ -1084,6 +1051,134 @@
           "why": "국제스포츠 복귀를 명령한 판정과 개최국 입국 제한이 충돌해 실제 대회 출전이 무산된 중대한 결정이다.",
           "angle": "IIHF의 확정 결정, 캐나다의 입국 제한, 노르웨이 복귀를 함께 설명한다.",
           "why_now": "IIHF가 대체안을 검토한 뒤 캐나다 개최와 러시아 불참을 확정했다."
+        }
+      ]
+    },
+    {
+      "hour_utc": "2026111602",
+      "at": 1794794592,
+      "delivery": "sent",
+      "delivery_key": "hourly-2026111602",
+      "picks": [
+        {
+          "title": "최혜진, LPGA 10번째 준우승…무관 준우승 역대 최다",
+          "url": "https://www.newsis.com/view/NISX20261116_0003868936",
+          "event_key": "choi-hye-jin-lpga-tenth-runner-up-record-20261116",
+          "category": "메이저 스포츠",
+          "rank": 1,
+          "published_at": 1794784953,
+          "source": "뉴시스",
+          "why": "한국 정상급 골퍼의 기록성 결과이자 1981년 집계 이후 처음 나온 이례적 기록이다.",
+          "angle": "최종 2위와 마지막 홀까지의 흐름, 무관 준우승 10회라는 기록을 함께 보여준다.",
+          "why_now": "최종 라운드 종료 뒤 최혜진의 단독 2위와 역대 기록이 확정됐다."
+        },
+        {
+          "title": "스비톨리나 “다음 주 우크라이나 귀국”…기부 100만달러",
+          "url": "https://www.reuters.com/sports/tennis/svitolina-return-ukraine-vows-continued-support-war-hit-homeland-2026-11-16/",
+          "event_key": "svitolina-return-ukraine-million-dollar-support-20261116",
+          "category": "메이저 스포츠",
+          "rank": 2,
+          "published_at": 1794788820,
+          "source": "Reuters",
+          "why": "세계적 선수가 결승 직후 귀국과 전쟁 피해 지원 규모를 직접 밝힌 구체적 새 행동이다.",
+          "angle": "WTA 파이널스 준우승 뒤 귀국 계획과 5년간 100만달러 이상 기부를 직접 발언 중심으로 전한다.",
+          "why_now": "결승 직후 인터뷰에서 다음 주 귀국 계획과 지원 규모가 새로 공개됐다."
+        },
+        {
+          "title": "대법원, 한덕수·김건희·윤석열 상고심 선고기일 확정",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008847438",
+          "event_key": "supreme-court-han-kim-yoon-appeal-dates-20261116",
+          "category": "시사",
+          "rank": 3,
+          "published_at": 1794791304,
+          "source": "SBS 뉴스",
+          "why": "전직 대통령·총리와 대통령 배우자의 주요 형사사건 선고 일정이 한꺼번에 확정된 1면급 사법 뉴스다.",
+          "angle": "한덕수·김건희는 19일, 윤석열은 26일로 정해진 서로 다른 사건과 선고일을 한눈에 정리한다.",
+          "why_now": "대법원이 이날 오전 세 사건의 상고심 선고기일을 잇달아 공개했다."
+        },
+        {
+          "title": "이 대통령 아세안·APEC 출국…미중러 첫 정상회담 주목",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008847339",
+          "event_key": "lee-jae-myung-asean-apec-departure-20261116",
+          "category": "시사",
+          "rank": 4,
+          "published_at": 1794791760,
+          "source": "SBS 뉴스",
+          "why": "한국 대통령의 다자외교 출국과 미중러 첫 정상회담 가능성이 겹친 한국 독자 관심도가 큰 외교 일정이다.",
+          "angle": "아세안 경제·초국가범죄 협의와 APEC 한중 회담 가능성, 미중러 회담을 확정과 전망으로 나눈다.",
+          "why_now": "이 대통령이 16일 오전 출국하며 실제 외교 일정이 시작됐다."
+        },
+        {
+          "title": "삼성SDI, 미국 ESS 기업에 3년간 수조원대 배터리 공급",
+          "url": "https://www.newsis.com/view/NISX20261116_0003868943",
+          "event_key": "samsung-sdi-us-ess-multitrillion-order-20261116",
+          "category": "시사",
+          "rank": 5,
+          "published_at": 1794785475,
+          "source": "뉴시스",
+          "why": "한국 배터리 기업의 수조원대 장기 수주로 산업 규모와 실적 영향이 분명한 확정 계약이다.",
+          "angle": "미국 생산·비중국 공급망이라는 수주 배경과 3년 공급 규모를 함께 설명한다.",
+          "why_now": "미국 최대 ESS 기업과의 3년 수조원대 공급 계약이 새로 공개됐다."
+        },
+        {
+          "title": "북한 연계 김수키, 국회의원실 사칭해 악성파일 피싱",
+          "url": "https://www.newsis.com/view/NISX20261116_0003869099",
+          "event_key": "kimsuky-lawmaker-office-honorarium-phishing-20261116",
+          "category": "시사",
+          "rank": 6,
+          "published_at": 1794788110,
+          "source": "뉴시스",
+          "why": "국회의원실과 실제 세미나 참석자를 겨냥한 북한 연계 공격으로 공공·개인정보 위험이 구체적이다.",
+          "angle": "사례비 신청서로 답장을 유도한 뒤 한글 문서 위장 파일을 보내는 수법을 단계별로 보여준다.",
+          "why_now": "보안업체가 공격 흐름과 원격제어 기능, 북한 연계 판단을 이날 공개했다."
+        },
+        {
+          "title": "코스피·코스닥 2∼3% 급락…외국인 매도에 낙폭 확대",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008847443",
+          "event_key": "kospi-kosdaq-two-three-percent-drop-20261116",
+          "category": "시사",
+          "rank": 7,
+          "published_at": 1794792480,
+          "source": "SBS 뉴스",
+          "why": "양대 지수가 장중 2∼3% 급락한 시장 충격으로 국내 경제 체감도가 큰 실시간 사실이다.",
+          "angle": "외국인 매도와 코스피 5300선 이탈을 장중 시점이 분명한 숫자로 전달한다.",
+          "why_now": "오전 장중 낙폭이 2∼3%까지 확대됐다는 속보가 확인됐다."
+        },
+        {
+          "title": "수능 사흘 앞두고 정부, AI 부정행위 긴급대응팀 구성",
+          "url": "https://www.newsis.com/view/NISX20261116_0003869032",
+          "event_key": "korea-csat-ai-cheating-emergency-team-20261116",
+          "category": "시사",
+          "rank": 8,
+          "published_at": 1794787200,
+          "source": "뉴시스",
+          "why": "수능 직전 AI 부정행위 우려에 정부가 범정부 대응팀과 시험장 점검을 가동한 직접 영향이 큰 조치다.",
+          "angle": "스마트기기·초소형 전자기기 대응, 이상징후 사후조사, 탐지기술 검토를 구체 조치로 정리한다.",
+          "why_now": "수능을 사흘 앞둔 관계부처 회의에서 긴급대응팀 구성이 발표됐다."
+        },
+        {
+          "title": "경산 아파트 심야 화재…8명 부상·주민 138명 대피",
+          "url": "https://www.newsis.com/view/NISX20261116_0003868851",
+          "event_key": "gyeongsan-apartment-fire-eight-injured-138-evacuated-20261116",
+          "category": "시사",
+          "rank": 9,
+          "published_at": 1794779016,
+          "source": "뉴시스",
+          "why": "다수 부상자와 100명 넘는 대피가 발생한 주거 안전 사고로 피해 규모가 분명하다.",
+          "angle": "대응 1단계 발령, 1시간44분 진화, 부상·대피 규모를 확인된 사실만 전달한다.",
+          "why_now": "밤사이 발생한 화재의 인명피해와 대피 규모가 아침에 집계됐다."
+        },
+        {
+          "title": "사진기자협회, 최민희 의원 ‘하이에나’ 표현 모욕 혐의 고소",
+          "url": "https://www.newsis.com/view/NISX20261116_0003869373",
+          "event_key": "photojournalists-association-sues-choi-minhee-insult-20261116",
+          "category": "시사",
+          "rank": 10,
+          "published_at": 1794792646,
+          "source": "뉴시스",
+          "why": "취재진을 겨냥한 현직 여당 지도부의 표현이 형사 고소와 민사소송 예고로 이어진 언론·정치 사건이다.",
+          "angle": "500명 대화방의 표현, 기자 10명 포함 11명의 고소, 의원의 사과를 사실과 주장으로 구분한다.",
+          "why_now": "사진기자협회가 16일 오전 경찰에 실제 고소장을 제출했다."
         }
       ]
     }

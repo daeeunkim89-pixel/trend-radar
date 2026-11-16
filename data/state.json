@@ -1,5 +1,5 @@
 {
-  "updated_at": 1794784849,
+  "updated_at": 1794794592,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,65 +15,65 @@
     "requested_stories": 10,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026111523",
+    "hour_utc": "2026111602",
     "category_counts": {
-      "시사": 0,
-      "축구": 4,
-      "메이저 스포츠": 6,
+      "시사": 8,
+      "축구": 0,
+      "메이저 스포츠": 2,
       "아이돌": 0
     },
     "research_queries": 10,
-    "opened_sources": 18,
+    "opened_sources": 25,
     "picks": [
       {
-        "title": "스페인 43경기 무패 끝낸 잉글랜드…3대2 승리로 조 1위",
-        "url": "https://www.theguardian.com/football/live/2026/nov/15/spain-v-england-nations-league-live",
-        "event_key": "england-spain-3-2-ends-43-game-unbeaten-run-20261115"
+        "title": "최혜진, LPGA 10번째 준우승…무관 준우승 역대 최다",
+        "url": "https://www.newsis.com/view/NISX20261116_0003868936",
+        "event_key": "choi-hye-jin-lpga-tenth-runner-up-record-20261116"
       },
       {
-        "title": "한국, 일본에 1대5…APBC 3회 연속 준우승",
-        "url": "https://nwww.newsis.com/view/NISX20261115_0003868750",
-        "event_key": "korea-japan-apbc-final-1-5-third-straight-runner-up-20261115"
+        "title": "스비톨리나 “다음 주 우크라이나 귀국”…기부 100만달러",
+        "url": "https://www.reuters.com/sports/tennis/svitolina-return-ukraine-vows-continued-support-war-hit-homeland-2026-11-16/",
+        "event_key": "svitolina-return-ukraine-million-dollar-support-20261116"
       },
       {
-        "title": "19세 안드레예바, 데뷔 WTA 파이널스 무실세트 우승",
-        "url": "https://www.reuters.com/sports/tennis/unbeaten-andreeva-captures-wta-finals-crown-debut-2026-11-15/",
-        "event_key": "mirra-andreeva-wta-finals-unbeaten-debut-title-20261115"
+        "title": "대법원, 한덕수·김건희·윤석열 상고심 선고기일 확정",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008847438",
+        "event_key": "supreme-court-han-kim-yoon-appeal-dates-20261116"
       },
       {
-        "title": "AS FAR, 여자 챔피언스리그 첫 3회 우승·첫 연속 우승",
-        "url": "https://www.reuters.com/sports/soccer/moroccos-far-win-record-third-caf-womens-champions-league-title-2026-11-15/",
-        "event_key": "as-far-third-caf-womens-champions-league-title-20261115"
+        "title": "이 대통령 아세안·APEC 출국…미중러 첫 정상회담 주목",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008847339",
+        "event_key": "lee-jae-myung-asean-apec-departure-20261116"
       },
       {
-        "title": "스코틀랜드 15대12 승리…호주, 유럽 원정 8연패",
-        "url": "https://www.reuters.com/sports/scotland-edge-australia-15-12-nations-championship-2026-11-15/",
-        "event_key": "scotland-australia-15-12-wallabies-eighth-europe-loss-20261115"
+        "title": "삼성SDI, 미국 ESS 기업에 3년간 수조원대 배터리 공급",
+        "url": "https://www.newsis.com/view/NISX20261116_0003868943",
+        "event_key": "samsung-sdi-us-ess-multitrillion-order-20261116"
       },
       {
-        "title": "츠베레프, 데뷔 조다르 2대0 제압…ATP 파이널스 첫 승",
-        "url": "https://www.reuters.com/sports/tennis/zverev-cruises-past-debutant-jodar-atp-finals-opening-win-2026-11-15/",
-        "event_key": "zverev-jodar-atp-finals-opening-win-20261115"
+        "title": "북한 연계 김수키, 국회의원실 사칭해 악성파일 피싱",
+        "url": "https://www.newsis.com/view/NISX20261116_0003869099",
+        "event_key": "kimsuky-lawmaker-office-honorarium-phishing-20261116"
       },
       {
-        "title": "런던시티, 아스널과 1대1…어프스 8선방으로 3위 지켜",
-        "url": "https://www.reuters.com/sports/soccer/goodwin-strikes-earps-saves-london-city-hold-arsenal-stay-third-2026-11-15/",
-        "event_key": "london-city-arsenal-1-1-earps-eight-saves-third-20261115"
+        "title": "코스피·코스닥 2∼3% 급락…외국인 매도에 낙폭 확대",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008847443",
+        "event_key": "kospi-kosdaq-two-three-percent-drop-20261116"
       },
       {
-        "title": "미국·캐나다, 여자 아이스하키 세계선수권 결승 격돌",
-        "url": "https://www.reuters.com/sports/dominant-united-states-rout-finland-5-0-extend-unbroken-world-final-streak-2026-11-15/",
-        "event_key": "usa-canada-womens-hockey-worlds-semifinal-wins-20261115"
+        "title": "수능 사흘 앞두고 정부, AI 부정행위 긴급대응팀 구성",
+        "url": "https://www.newsis.com/view/NISX20261116_0003869032",
+        "event_key": "korea-csat-ai-cheating-emergency-team-20261116"
       },
       {
-        "title": "클롭 “인판티노 체제 FIFA, 블라터 때보다 나빠졌다”",
-        "url": "https://www.reuters.com/sports/soccer/klopp-says-fifa-worse-under-infantino-than-blatter-2026-11-15/",
-        "event_key": "klopp-calls-fifa-worse-under-infantino-20261115"
+        "title": "경산 아파트 심야 화재…8명 부상·주민 138명 대피",
+        "url": "https://www.newsis.com/view/NISX20261116_0003868851",
+        "event_key": "gyeongsan-apartment-fire-eight-injured-138-evacuated-20261116"
       },
       {
-        "title": "러시아, 캐나다 입국 제한으로 세계주니어하키 불참 확정",
-        "url": "https://www.reuters.com/sports/iihf-confirms-russia-will-miss-world-juniors-over-canada-restrictions-2026-11-15/",
-        "event_key": "russia-miss-world-juniors-canada-restrictions-20261115"
+        "title": "사진기자협회, 최민희 의원 ‘하이에나’ 표현 모욕 혐의 고소",
+        "url": "https://www.newsis.com/view/NISX20261116_0003869373",
+        "event_key": "photojournalists-association-sues-choi-minhee-insult-20261116"
       }
     ]
   }
