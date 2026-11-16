@@ -1,6 +1,716 @@
 {
   "version": 1,
   "items": {
+    "ac272bc0ed92": {
+      "source": "Reuters",
+      "title": "버로 409야드·4TD…벵골스, 스틸러스 꺾고 지구 단독 선두",
+      "link": "https://www.reuters.com/sports/nfl/joe-burrow-continues-stellar-season-bengals-blitz-steelers--flm-2026-11-16/",
+      "first_seen_at": 1794806018,
+      "last_seen_at": 1794806018,
+      "samples": [
+        {
+          "at": 1794806018,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "ac272bc0ed92",
+      "editorial": {
+        "title": "버로 409야드·4TD…벵골스, 스틸러스 꺾고 지구 단독 선두",
+        "category": "메이저 스포츠",
+        "url": "https://www.reuters.com/sports/nfl/joe-burrow-continues-stellar-season-bengals-blitz-steelers--flm-2026-11-16/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "bengals-burrow-409-four-td-beat-steelers-afc-north-lead-20261116",
+        "why": "조 버로의 409야드·4터치다운과 자마 체이스의 개인 최다 231야드가 지구 선두 판도를 바꾼 큰 결과다.",
+        "angle": "버로-체이스의 폭발적 기록과 38대18 승리, AFC 북부 단독 선두 등극을 함께 보여준다.",
+        "why_now": "경기 종료로 벵골스의 단독 선두와 두 스타의 기록이 확정됐다.",
+        "verified_at": 1794805932,
+        "published_at": 1794804780,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/nfl/joe-burrow-continues-stellar-season-bengals-blitz-steelers--flm-2026-11-16/",
+            "note": "벵골스는 스틸러스를 38대18로 꺾었고 버로는 409야드 4TD, 체이스는 개인 최다 231야드를 기록했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/nfl/joe-burrow-continues-stellar-season-bengals-blitz-steelers--flm-2026-11-16/",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-16",
+          "observation": "벵골스는 스틸러스를 38대18로 꺾었고 버로는 409야드 4TD, 체이스는 개인 최다 231야드를 기록했다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 수치와 의미, 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.reuters.com/sports/nfl/joe-burrow-continues-stellar-season-bengals-blitz-steelers--flm-2026-11-16/"
+          }
+        ],
+        "excerpt": "",
+        "context": "경기 종료로 벵골스의 단독 선두와 두 스타의 기록이 확정됐다.",
+        "fetched_at": 1794806018,
+        "parser_revision": 7
+      },
+      "curation_event_key": "bengals-burrow-409-four-td-beat-steelers-afc-north-lead-20261116"
+    },
+    "c713f76c6f05": {
+      "source": "Reuters",
+      "title": "커즌스 친정 복귀전 승리…바이킹스, 패커스에 30대10",
+      "link": "https://www.reuters.com/sports/nfl-roundup-vikings-stymie-packers-kirk-cousins-triumphant-return--flm-2026-11-16/",
+      "first_seen_at": 1794806018,
+      "last_seen_at": 1794806018,
+      "samples": [
+        {
+          "at": 1794806018,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "c713f76c6f05",
+      "editorial": {
+        "title": "커즌스 친정 복귀전 승리…바이킹스, 패커스에 30대10",
+        "category": "메이저 스포츠",
+        "url": "https://www.reuters.com/sports/nfl-roundup-vikings-stymie-packers-kirk-cousins-triumphant-return--flm-2026-11-16/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "vikings-cousins-return-beat-packers-tied-nfc-north-20261116",
+        "why": "커크 커즌스가 친정 그린베이 원정에서 승리했고 바이킹스가 지구 공동 선두에 오른 판도 변화다.",
+        "angle": "커즌스의 2TD 패스와 수비의 4턴오버·8색, 30대10 완승을 복귀 서사로 묶는다.",
+        "why_now": "경기 종료로 바이킹스의 승리와 NFC 북부 공동 선두가 확정됐다.",
+        "verified_at": 1794805932,
+        "published_at": 1794788585,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/nfl-roundup-vikings-stymie-packers-kirk-cousins-triumphant-return--flm-2026-11-16/",
+            "note": "바이킹스는 패커스를 30대10으로 꺾었고 커즌스는 2TD 패스, 수비는 4턴오버와 8색을 만들었다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/nfl-roundup-vikings-stymie-packers-kirk-cousins-triumphant-return--flm-2026-11-16/",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-16",
+          "observation": "바이킹스는 패커스를 30대10으로 꺾었고 커즌스는 2TD 패스, 수비는 4턴오버와 8색을 만들었다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 수치와 의미, 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.reuters.com/sports/nfl-roundup-vikings-stymie-packers-kirk-cousins-triumphant-return--flm-2026-11-16/"
+          }
+        ],
+        "excerpt": "",
+        "context": "경기 종료로 바이킹스의 승리와 NFC 북부 공동 선두가 확정됐다.",
+        "fetched_at": 1794806018,
+        "parser_revision": 7
+      },
+      "curation_event_key": "vikings-cousins-return-beat-packers-tied-nfc-north-20261116"
+    },
+    "573b32bdaf60": {
+      "source": "Reuters",
+      "title": "호크스 15점 차 뒤집기…밀워키는 10연패",
+      "link": "https://www.reuters.com/sports/basketball/hawks-shrug-off-slow-start-hand-bucks-10th-straight-loss--flm-2026-11-16/",
+      "first_seen_at": 1794806018,
+      "last_seen_at": 1794806018,
+      "samples": [
+        {
+          "at": 1794806018,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "573b32bdaf60",
+      "editorial": {
+        "title": "호크스 15점 차 뒤집기…밀워키는 10연패",
+        "category": "메이저 스포츠",
+        "url": "https://www.reuters.com/sports/basketball/hawks-shrug-off-slow-start-hand-bucks-10th-straight-loss--flm-2026-11-16/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "hawks-comeback-hand-bucks-tenth-straight-loss-20261116",
+        "why": "애틀랜타의 역전과 밀워키의 10연패가 한 경기에서 확정된 NBA의 뚜렷한 흐름 변화다.",
+        "angle": "초반 15점 열세를 뒤집은 과정과 알렉산더워커 20점, 오콩우 16점 11리바운드를 짚는다.",
+        "why_now": "경기 종료로 호크스의 113대106 승리와 벅스의 10연패가 확정됐다.",
+        "verified_at": 1794805932,
+        "published_at": 1794801600,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/basketball/hawks-shrug-off-slow-start-hand-bucks-10th-straight-loss--flm-2026-11-16/",
+            "note": "호크스는 15점 차를 뒤집어 벅스를 113대106으로 꺾었고 밀워키는 10연패에 빠졌다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/basketball/hawks-shrug-off-slow-start-hand-bucks-10th-straight-loss--flm-2026-11-16/",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-16",
+          "observation": "호크스는 15점 차를 뒤집어 벅스를 113대106으로 꺾었고 밀워키는 10연패에 빠졌다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 수치와 의미, 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.reuters.com/sports/basketball/hawks-shrug-off-slow-start-hand-bucks-10th-straight-loss--flm-2026-11-16/"
+          }
+        ],
+        "excerpt": "",
+        "context": "경기 종료로 호크스의 113대106 승리와 벅스의 10연패가 확정됐다.",
+        "fetched_at": 1794806018,
+        "parser_revision": 7
+      },
+      "curation_event_key": "hawks-comeback-hand-bucks-tenth-straight-loss-20261116"
+    },
+    "c8da02bbdd0b": {
+      "source": "Reuters",
+      "title": "샤크스, 내슈빌 7연승 저지…셀러브리니·스미스 3포인트씩",
+      "link": "https://www.reuters.com/sports/nhl/sharks-easily-snap-predators-7-game-win-streak--flm-2026-11-16/",
+      "first_seen_at": 1794806018,
+      "last_seen_at": 1794806018,
+      "samples": [
+        {
+          "at": 1794806018,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "c8da02bbdd0b",
+      "editorial": {
+        "title": "샤크스, 내슈빌 7연승 저지…셀러브리니·스미스 3포인트씩",
+        "category": "메이저 스포츠",
+        "url": "https://www.reuters.com/sports/nhl/sharks-easily-snap-predators-7-game-win-streak--flm-2026-11-16/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "sharks-end-predators-seven-game-win-streak-20261116",
+        "why": "리그 최장급 상승세였던 내슈빌의 7연승을 산호세 젊은 핵심들이 끊은 확정 결과다.",
+        "angle": "셀러브리니와 윌 스미스가 나란히 1골 2도움을 기록한 세대교체 장면을 전한다.",
+        "why_now": "경기 종료로 샤크스의 4대2 승리와 프레더터스의 7연승 종료가 확정됐다.",
+        "verified_at": 1794805932,
+        "published_at": 1794804600,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/nhl/sharks-easily-snap-predators-7-game-win-streak--flm-2026-11-16/",
+            "note": "샤크스는 프레더터스를 4대2로 꺾었고 셀러브리니와 윌 스미스는 각각 1골 2도움을 올렸다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/nhl/sharks-easily-snap-predators-7-game-win-streak--flm-2026-11-16/",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-16",
+          "observation": "샤크스는 프레더터스를 4대2로 꺾었고 셀러브리니와 윌 스미스는 각각 1골 2도움을 올렸다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 수치와 의미, 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.reuters.com/sports/nhl/sharks-easily-snap-predators-7-game-win-streak--flm-2026-11-16/"
+          }
+        ],
+        "excerpt": "",
+        "context": "경기 종료로 샤크스의 4대2 승리와 프레더터스의 7연승 종료가 확정됐다.",
+        "fetched_at": 1794806018,
+        "parser_revision": 7
+      },
+      "curation_event_key": "sharks-end-predators-seven-game-win-streak-20261116"
+    },
+    "cdcffc7393b6": {
+      "source": "Reuters",
+      "title": "로버트슨 연장 결승골…댈러스, 플로리다에 2대1",
+      "link": "https://www.reuters.com/sports/nhl/jason-robertsons-ot-goal-lifts-stars-over-panthers--flm-2026-11-16/",
+      "first_seen_at": 1794806018,
+      "last_seen_at": 1794806018,
+      "samples": [
+        {
+          "at": 1794806018,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "cdcffc7393b6",
+      "editorial": {
+        "title": "로버트슨 연장 결승골…댈러스, 플로리다에 2대1",
+        "category": "메이저 스포츠",
+        "url": "https://www.reuters.com/sports/nhl/jason-robertsons-ot-goal-lifts-stars-over-panthers--flm-2026-11-16/",
+        "source": "Reuters",
+        "kind": "article",
+        "event_key": "jason-robertson-overtime-winner-stars-panthers-20261116",
+        "why": "연장 종료 2분4초 전 나온 시즌 10호 결승골로 강팀 맞대결의 승부가 갈렸다.",
+        "angle": "제이슨 로버트슨의 결정적 슛과 댈러스의 2대1 승리를 한 장면 중심으로 구성한다.",
+        "why_now": "연장전 종료로 로버트슨의 결승골과 스타스의 승리가 확정됐다.",
+        "verified_at": 1794805932,
+        "published_at": 1794802260,
+        "evidence": [
+          {
+            "url": "https://www.reuters.com/sports/nhl/jason-robertsons-ot-goal-lifts-stars-over-panthers--flm-2026-11-16/",
+            "note": "제이슨 로버트슨은 연장 종료 2분4초 전 시즌 10호 골을 넣어 댈러스의 2대1 승리를 이끌었다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.reuters.com/sports/nhl/jason-robertsons-ot-goal-lifts-stars-over-panthers--flm-2026-11-16/",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-16",
+          "observation": "제이슨 로버트슨은 연장 종료 2분4초 전 시즌 10호 골을 넣어 댈러스의 2대1 승리를 이끌었다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 수치와 의미, 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.reuters.com/sports/nhl/jason-robertsons-ot-goal-lifts-stars-over-panthers--flm-2026-11-16/"
+          }
+        ],
+        "excerpt": "",
+        "context": "연장전 종료로 로버트슨의 결승골과 스타스의 승리가 확정됐다.",
+        "fetched_at": 1794806018,
+        "parser_revision": 7
+      },
+      "curation_event_key": "jason-robertson-overtime-winner-stars-panthers-20261116"
+    },
+    "dabcda9413d5": {
+      "source": "뉴시스",
+      "title": "개헌자문위 출범…김형오·정세균 공동위원장",
+      "link": "https://www.newsis.com/view/NISX20261116_0003869498",
+      "first_seen_at": 1794806018,
+      "last_seen_at": 1794806018,
+      "samples": [
+        {
+          "at": 1794806018,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "dabcda9413d5",
+      "editorial": {
+        "title": "개헌자문위 출범…김형오·정세균 공동위원장",
+        "category": "시사",
+        "url": "https://www.newsis.com/view/NISX20261116_0003869498",
+        "source": "뉴시스",
+        "kind": "article",
+        "event_key": "korea-constitutional-advisory-committee-kim-chung-launch-20261116",
+        "why": "국회 주도 개헌의 원칙과 현직 대통령 연임 배제를 내건 대통령 직속 자문기구가 공식 출범했다.",
+        "angle": "두 전직 국회의장의 공동위원장 체제와 초당적·국민적 합의 원칙을 정리한다.",
+        "why_now": "위원회 출범 발표로 구성과 기본 원칙이 처음 공식화됐다.",
+        "verified_at": 1794805932,
+        "published_at": 1794795063,
+        "evidence": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261116_0003869498",
+            "note": "대통령 직속 개헌자문위는 김형오·정세균 공동위원장 체제로 출범하며 국회 주도와 현직 대통령 연임 배제를 원칙으로 제시했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261116_0003869498",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-16",
+          "observation": "대통령 직속 개헌자문위는 김형오·정세균 공동위원장 체제로 출범하며 국회 주도와 현직 대통령 연임 배제를 원칙으로 제시했다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 수치와 의미, 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.newsis.com/view/NISX20261116_0003869498"
+          }
+        ],
+        "excerpt": "",
+        "context": "위원회 출범 발표로 구성과 기본 원칙이 처음 공식화됐다.",
+        "fetched_at": 1794806018,
+        "parser_revision": 7
+      },
+      "curation_event_key": "korea-constitutional-advisory-committee-kim-chung-launch-20261116"
+    },
+    "232dc072daab": {
+      "source": "뉴시스",
+      "title": "세무사시험 AI 부정 자수 후속…경찰, 공범 여부 수사",
+      "link": "https://www.newsis.com/view/NISX20261116_0003869625",
+      "first_seen_at": 1794806018,
+      "last_seen_at": 1794806018,
+      "samples": [
+        {
+          "at": 1794806018,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "232dc072daab",
+      "editorial": {
+        "title": "세무사시험 AI 부정 자수 후속…경찰, 공범 여부 수사",
+        "category": "시사",
+        "url": "https://www.newsis.com/view/NISX20261116_0003869625",
+        "source": "뉴시스",
+        "kind": "article",
+        "event_key": "tax-accountant-ai-cheating-confession-police-investigation-20261116",
+        "why": "당사자 자수 뒤 초소형 카메라·노트북 사용 정황과 공범 수사 계획이 새로 확인된 중대한 후속이다.",
+        "angle": "자수서 제출과 구체적 수법, 경찰의 소환·공범 수사를 사실과 수사 단계로 구분한다.",
+        "why_now": "경찰 수사 계획과 자수서 내용이 새 기사로 공개됐다.",
+        "verified_at": 1794805932,
+        "published_at": 1794798297,
+        "evidence": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261116_0003869625",
+            "note": "변호사를 통해 자수서가 제출됐고 경찰은 초소형 카메라와 노트북 사용 정황, 공범 여부를 수사할 계획이다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261116_0003869625",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "수사 중 사안으로 최종 범죄 사실과 공범 여부는 확정되지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-16",
+          "observation": "변호사를 통해 자수서가 제출됐고 경찰은 초소형 카메라와 노트북 사용 정황, 공범 여부를 수사할 계획이다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 수치와 의미, 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.newsis.com/view/NISX20261116_0003869625"
+          }
+        ],
+        "excerpt": "",
+        "context": "경찰 수사 계획과 자수서 내용이 새 기사로 공개됐다.",
+        "fetched_at": 1794806018,
+        "parser_revision": 7
+      },
+      "curation_event_key": "tax-accountant-ai-cheating-confession-police-investigation-20261116"
+    },
+    "ab23e219adfa": {
+      "source": "뉴시스",
+      "title": "SK하이닉스, 사업장 AI 안경 금지…삼성도 제한 검토",
+      "link": "https://www.newsis.com/view/NISX20261116_0003869180",
+      "first_seen_at": 1794806018,
+      "last_seen_at": 1794806018,
+      "samples": [
+        {
+          "at": 1794806018,
+          "views": null,
+          "reactions": null,
+          "rank": 8,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "ab23e219adfa",
+      "editorial": {
+        "title": "SK하이닉스, 사업장 AI 안경 금지…삼성도 제한 검토",
+        "category": "시사",
+        "url": "https://www.newsis.com/view/NISX20261116_0003869180",
+        "source": "뉴시스",
+        "kind": "article",
+        "event_key": "sk-hynix-bans-ai-glasses-samsung-considers-restrictions-20261116",
+        "why": "카메라 탑재 AI 안경의 확산이 국내 반도체 핵심 사업장의 보안 규정을 실제로 바꾸기 시작했다.",
+        "angle": "기술 유출 우려와 SK하이닉스의 금지 조치, 삼성전자의 검토를 구분해 전한다.",
+        "why_now": "SK하이닉스의 적용 조치와 삼성의 검토 사실이 새로 공개됐다.",
+        "verified_at": 1794805932,
+        "published_at": 1794794791,
+        "evidence": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261116_0003869180",
+            "note": "SK하이닉스는 사업장 내 AI 안경 사용을 금지했고 삼성전자는 카메라 기반 정보 유출 우려로 제한을 검토 중이다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.newsis.com/view/NISX20261116_0003869180",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-16",
+          "observation": "SK하이닉스는 사업장 내 AI 안경 사용을 금지했고 삼성전자는 카메라 기반 정보 유출 우려로 제한을 검토 중이다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 수치와 의미, 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.newsis.com/view/NISX20261116_0003869180"
+          }
+        ],
+        "excerpt": "",
+        "context": "SK하이닉스의 적용 조치와 삼성의 검토 사실이 새로 공개됐다.",
+        "fetched_at": 1794806018,
+        "parser_revision": 7
+      },
+      "curation_event_key": "sk-hynix-bans-ai-glasses-samsung-considers-restrictions-20261116"
+    },
+    "f8e095607fba": {
+      "source": "연합뉴스",
+      "title": "LS일렉트릭, 미국 AI 데이터센터 전력기기 1천300억원 수주",
+      "link": "https://en.yna.co.kr/view/AEN20261116002700320",
+      "first_seen_at": 1794806018,
+      "last_seen_at": 1794806018,
+      "samples": [
+        {
+          "at": 1794806018,
+          "views": null,
+          "reactions": null,
+          "rank": 9,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "f8e095607fba",
+      "editorial": {
+        "title": "LS일렉트릭, 미국 AI 데이터센터 전력기기 1천300억원 수주",
+        "category": "시사",
+        "url": "https://en.yna.co.kr/view/AEN20261116002700320",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "ls-electric-us-ai-data-center-power-equipment-order-20261116",
+        "why": "국내 전력기기 기업이 미국 AI 데이터센터에 1천억원대 장비를 공급하는 구체적 수주가 확정됐다.",
+        "angle": "9천383만달러 규모와 38kV 고·저압 장비 공급을 AI 인프라 투자 흐름과 연결한다.",
+        "why_now": "계약 규모와 공급 품목이 공식 공시·발표로 확인됐다.",
+        "verified_at": 1794805932,
+        "published_at": 1794789060,
+        "evidence": [
+          {
+            "url": "https://en.yna.co.kr/view/AEN20261116002700320",
+            "note": "LS일렉트릭은 미국 AI 데이터센터에 9천383만달러, 약 1천300억원 규모의 38kV 고·저압 전력기기를 공급한다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://en.yna.co.kr/view/AEN20261116002700320",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-16",
+          "observation": "LS일렉트릭은 미국 AI 데이터센터에 9천383만달러, 약 1천300억원 규모의 38kV 고·저압 전력기기를 공급한다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 수치와 의미, 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://en.yna.co.kr/view/AEN20261116002700320"
+          }
+        ],
+        "excerpt": "",
+        "context": "계약 규모와 공급 품목이 공식 공시·발표로 확인됐다.",
+        "fetched_at": 1794806018,
+        "parser_revision": 7
+      },
+      "curation_event_key": "ls-electric-us-ai-data-center-power-equipment-order-20261116"
+    },
+    "6059e63b698b": {
+      "source": "연합뉴스",
+      "title": "삼성중공업, LNG 운반선 3천424억원 수주…상선 목표 146%",
+      "link": "https://www.yna.co.kr/view/AKR20261116035200003",
+      "first_seen_at": 1794806018,
+      "last_seen_at": 1794806018,
+      "samples": [
+        {
+          "at": 1794806018,
+          "views": null,
+          "reactions": null,
+          "rank": 10,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "6059e63b698b",
+      "editorial": {
+        "title": "삼성중공업, LNG 운반선 3천424억원 수주…상선 목표 146%",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261116035200003",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "samsung-heavy-lng-carrier-order-3424-billion-won-20261116",
+        "why": "대형 조선사의 LNG 운반선 수주와 연간 상선 목표 초과 달성이 함께 확인된 산업 성과다.",
+        "angle": "3천424억원 계약, 2029년 7월 인도, 상선 수주 목표 146%를 핵심 수치로 제시한다.",
+        "why_now": "신규 계약과 누적 수주 실적이 공식 발표로 공개됐다.",
+        "verified_at": 1794805932,
+        "published_at": 1794788580,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261116035200003",
+            "note": "삼성중공업은 3천424억원 규모 LNG 운반선 1척을 수주해 2029년 7월 인도하며 상선 목표 달성률은 146%가 됐다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261116035200003",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-16",
+          "observation": "삼성중공업은 3천424억원 규모 LNG 운반선 1척을 수주해 2029년 7월 인도하며 상선 목표 달성률은 146%가 됐다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 수치와 의미, 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://www.yna.co.kr/view/AKR20261116035200003"
+          }
+        ],
+        "excerpt": "",
+        "context": "신규 계약과 누적 수주 실적이 공식 발표로 공개됐다.",
+        "fetched_at": 1794806018,
+        "parser_revision": 7
+      },
+      "curation_event_key": "samsung-heavy-lng-carrier-order-3424-billion-won-20261116"
+    },
     "c570eccea461": {
       "source": "뉴시스",
       "title": "최혜진, LPGA 10번째 준우승…무관 준우승 역대 최다",
@@ -10689,1087 +11399,7 @@
         "parser_revision": 7
       },
       "curation_event_key": "democrats-request-nonresident-single-home-tax14billion-bluehouse-unchanged-20261108"
-    },
-    "35583876615a": {
-      "source": "MLS 공식",
-      "title": "메시의 마이애미 기록 넘었다…내슈빌, MLS 역대 최다 승점 시즌 완성",
-      "link": "https://www.mlssoccer.com/news/history-nashville-sc-set-mls-single-season-points-record-2026",
-      "first_seen_at": 1794197112,
-      "last_seen_at": 1794197112,
-      "samples": [
-        {
-          "at": 1794197112,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "official",
-      "story_id": "35583876615a",
-      "editorial": {
-        "title": "메시의 마이애미 기록 넘었다…내슈빌, MLS 역대 최다 승점 시즌 완성",
-        "category": "축구",
-        "url": "https://www.mlssoccer.com/news/history-nashville-sc-set-mls-single-season-points-record-2026",
-        "source": "MLS 공식",
-        "kind": "official",
-        "event_key": "nashville-mls-single-season-points-record-77-completed-20261107",
-        "why": "MLS 정규시즌 전체 역사를 바꾼 시즌 결산이다. 메시의 마이애미가 보유한 74점을 넘고 우승 도전의 유리한 위치를 확보했다.",
-        "angle": "내슈빌 77점과 마이애미 74점을 비교하고 MLS컵 우승과는 구분한다.",
-        "why_now": "현지 11/7 최종전에서 77점을 확정한 미발송 주요 사건이다. 공식 본문의 최초 공개 시·분은 미표시여서 null로 둔다.",
-        "verified_at": 1794197020,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.mlssoccer.com/news/history-nashville-sc-set-mls-single-season-points-record-2026",
-            "note": "MLS 공식은 내슈빌이 최종전 승리로 23승 3패 8무·77점, 역대 정규시즌 최다 승점을 확정했다고 전한다. 이전 최고는 인터 마이애미의 2024년 74점이다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.mlssoccer.com/news/history-nashville-sc-set-mls-single-season-points-record-2026",
-            "label": "확인한 기사 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "정규시즌 서포터스 실드와 플레이오프 MLS컵은 다른 타이틀이다. 영상은 확인하지 않았고 통상 경기 스코어 중심으로 다루지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-07",
-          "observation": "MLS 공식은 내슈빌이 최종전 승리로 23승 3패 8무·77점, 역대 정규시즌 최다 승점을 확정했다고 전한다. 이전 최고는 인터 마이애미의 2024년 74점이다.",
-          "checked_materials": [],
-          "outline": [
-            "내슈빌 77점으로 MLS 정규시즌 역대 최다 승점",
-            "마이애미 74점·뉴잉글랜드 73점을 넘어섰다",
-            "서포터스 실드 확보, MLS컵까지 진출하면 홈 개최 우선권"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 기사 본문",
-            "url": "https://www.mlssoccer.com/news/history-nashville-sc-set-mls-single-season-points-record-2026"
-          }
-        ],
-        "excerpt": "",
-        "context": "현지 11/7 최종전에서 77점을 확정한 미발송 주요 사건이다. 공식 본문의 최초 공개 시·분은 미표시여서 null로 둔다.",
-        "fetched_at": 1794197112,
-        "parser_revision": 7
-      },
-      "curation_event_key": "nashville-mls-single-season-points-record-77-completed-20261107"
-    },
-    "c95ce3fda7bd": {
-      "source": "Reuters / The Standard",
-      "title": "이라크 외무 “미국과 호르무즈 원유 수출 통항 협의”…오만 인근 항로 거론",
-      "link": "https://www.thestandard.com.hk/world/article/347921/Iraq-has-reached-understandings-with-US-to-allow-oil-exports-through-Hormuz-minister-says",
-      "first_seen_at": 1794197112,
-      "last_seen_at": 1794197112,
-      "samples": [
-        {
-          "at": 1794197112,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "c95ce3fda7bd",
-      "editorial": {
-        "title": "이라크 외무 “미국과 호르무즈 원유 수출 통항 협의”…오만 인근 항로 거론",
-        "category": "시사",
-        "url": "https://www.thestandard.com.hk/world/article/347921/Iraq-has-reached-understandings-with-US-to-allow-oil-exports-through-Hormuz-minister-says",
-        "source": "Reuters / The Standard",
-        "kind": "article",
-        "event_key": "iraq-us-understandings-hormuz-oil-export-oman-lane-report-20261109",
-        "why": "전쟁으로 막힌 원유 수출길을 두고 미국과의 통항 협의가 공개됐다. 세계 에너지 공급과 해협 안전에 직결되는 새 외교 발언이다.",
-        "angle": "통항 협의 발언과 실제 항행 안전 보장을 분리해 설명한다.",
-        "why_now": "원문 최초 공개는 11/9 06:21:04 홍콩(07:21:04 KST)으로 메타데이터를 확인했다. 인터뷰 실시일은 원문에 미표시다.",
-        "verified_at": 1794197020,
-        "published_at": 1794176464,
-        "evidence": [
-          {
-            "url": "https://www.thestandard.com.hk/world/article/347921/Iraq-has-reached-understandings-with-US-to-allow-oil-exports-through-Hormuz-minister-says",
-            "note": "11/9 홍콩 공개 Reuters 전재 본문은 푸아드 후세인 외무장관이 알자지라 인터뷰에서 오만 인근 항로를 통한 이라크 원유 수출에 미국과 양해를 이뤘다고 말했다고 전한다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.thestandard.com.hk/world/article/347921/Iraq-has-reached-understandings-with-US-to-allow-oil-exports-through-Hormuz-minister-says",
-            "label": "확인한 기사 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "외무장관의 발언 보도다. event_date는 새 발언 보도 공개일이며 인터뷰 실시일은 미확인이다. 전면 개방·안전 보장 확정으로 쓰지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-09",
-          "observation": "11/9 홍콩 공개 Reuters 전재 본문은 푸아드 후세인 외무장관이 알자지라 인터뷰에서 오만 인근 항로를 통한 이라크 원유 수출에 미국과 양해를 이뤘다고 말했다고 전한다.",
-          "checked_materials": [],
-          "outline": [
-            "이라크 외무장관, 미국과 원유 수출 통항 양해 주장",
-            "오만 인근 항로를 통한 호르무즈 통과 거론",
-            "실제 항행 재개·미국 측 별도 확인 여부와 구분"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 기사 본문",
-            "url": "https://www.thestandard.com.hk/world/article/347921/Iraq-has-reached-understandings-with-US-to-allow-oil-exports-through-Hormuz-minister-says"
-          }
-        ],
-        "excerpt": "",
-        "context": "원문 최초 공개는 11/9 06:21:04 홍콩(07:21:04 KST)으로 메타데이터를 확인했다. 인터뷰 실시일은 원문에 미표시다.",
-        "fetched_at": 1794197112,
-        "parser_revision": 7
-      },
-      "curation_event_key": "iraq-us-understandings-hormuz-oil-export-oman-lane-report-20261109"
-    },
-    "50bcac0bb630": {
-      "source": "Reuters / The Standard",
-      "title": "리야드 금융지구 아람코 건물 피해…사우디 “공격 파편, 인명피해 없어”",
-      "link": "https://www.thestandard.com.hk/world/article/347913/Houthi-attack-damages-Aramco-building-in-Riyadhs-financial-district",
-      "first_seen_at": 1794197112,
-      "last_seen_at": 1794197112,
-      "samples": [
-        {
-          "at": 1794197112,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "50bcac0bb630",
-      "editorial": {
-        "title": "리야드 금융지구 아람코 건물 피해…사우디 “공격 파편, 인명피해 없어”",
-        "category": "시사",
-        "url": "https://www.thestandard.com.hk/world/article/347913/Houthi-attack-damages-Aramco-building-in-Riyadhs-financial-district",
-        "source": "Reuters / The Standard",
-        "kind": "article",
-        "event_key": "riyadh-aramco-tower-attack-debris-damage-saudi-confirmation-20261108",
-        "why": "사우디 수도의 금융 중심부와 세계적 석유기업 건물이 공격 시도에 피해를 입었다. 중동 전쟁의 경제·도시 안전 위험이 확대된 사건이다.",
-        "angle": "사우디가 확인한 피해와 후티의 공격 주장을 나눠 제시한다.",
-        "why_now": "현지 11/8 공격 시도에 따른 피해다. 원문 최초 공개 11/9 03:09:18 홍콩(04:09:18 KST)을 확인했다.",
-        "verified_at": 1794197020,
-        "published_at": 1794164958,
-        "evidence": [
-          {
-            "url": "https://www.thestandard.com.hk/world/article/347913/Houthi-attack-damages-Aramco-building-in-Riyadhs-financial-district",
-            "note": "Reuters 전재 본문은 사우디 에너지부가 리야드 아람코 타워의 제한적 피해와 사상자 없음을 확인했다고 전한다. 사우디 연합군은 후티 미사일 요격을, 후티는 공격을 주장했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.thestandard.com.hk/world/article/347913/Houthi-attack-damages-Aramco-building-in-Riyadhs-financial-district",
-            "label": "확인한 기사 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "원유 생산시설 파괴나 생산 중단은 확인되지 않았다. 에너지부는 책임 주체를 직접 지목하지 않았다. 사진·영상은 직접 확인하지 않았다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-08",
-          "observation": "Reuters 전재 본문은 사우디 에너지부가 리야드 아람코 타워의 제한적 피해와 사상자 없음을 확인했다고 전한다. 사우디 연합군은 후티 미사일 요격을, 후티는 공격을 주장했다.",
-          "checked_materials": [],
-          "outline": [
-            "리야드 아람코 기업 사무실 여러 층 창문 파손",
-            "에너지부는 공격 시도 파편 피해·사상자 없음 발표",
-            "공격 주체 관련 사우디 연합군·후티 주장은 별도 표기"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 기사 본문",
-            "url": "https://www.thestandard.com.hk/world/article/347913/Houthi-attack-damages-Aramco-building-in-Riyadhs-financial-district"
-          }
-        ],
-        "excerpt": "",
-        "context": "현지 11/8 공격 시도에 따른 피해다. 원문 최초 공개 11/9 03:09:18 홍콩(04:09:18 KST)을 확인했다.",
-        "fetched_at": 1794197112,
-        "parser_revision": 7
-      },
-      "curation_event_key": "riyadh-aramco-tower-attack-debris-damage-saudi-confirmation-20261108"
-    },
-    "18e404c5937c": {
-      "source": "SBS",
-      "title": "일본 시즈오카 규모 5.7 지진…19명 부상, 기상청 추가 강진 주의",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836151",
-      "first_seen_at": 1794197112,
-      "last_seen_at": 1794197112,
-      "samples": [
-        {
-          "at": 1794197112,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "18e404c5937c",
-      "editorial": {
-        "title": "일본 시즈오카 규모 5.7 지진…19명 부상, 기상청 추가 강진 주의",
-        "category": "시사",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836151",
-        "source": "SBS",
-        "kind": "article",
-        "event_key": "shizuoka-aichi-magnitude57-quake-19-injured-jma-warning-20261108",
-        "why": "일본 중부 내륙의 강한 흔들림으로 다수가 다쳤고 기상청이 추가 지진 주의를 당부했다. 여행·거주 안전에 직접 관련되는 대형 재난 소식이다.",
-        "angle": "규모와 관측 진도를 구분하고 난카이 대지진 예고로 과장하지 않는다.",
-        "why_now": "지진은 11/8 01:04경 일본 현지시간. 원문 최초 작성 11/8 20:19 KST이며 11/9 08:39 갱신을 최초 공개로 바꾸지 않았다.",
-        "verified_at": 1794197020,
-        "published_at": 1794136740,
-        "evidence": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836151",
-            "note": "SBS 한국어 본문은 시즈오카 서쪽의 규모 5.7 지진, 아이치 일부 최대 진도 5강, 최소 19명 부상을 전한다. 일본 기상청은 약 일주일 비슷한 강도의 지진에 주의를 당부했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836151",
-            "label": "확인한 기사 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "규모 5.7과 진도 5강을 혼동하지 않는다. 추가 지진 주의는 날짜를 특정한 예측이 아니다. 본문만 확인했고 CCTV 영상을 시청하지 않았다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-08",
-          "observation": "SBS 한국어 본문은 시즈오카 서쪽의 규모 5.7 지진, 아이치 일부 최대 진도 5강, 최소 19명 부상을 전한다. 일본 기상청은 약 일주일 비슷한 강도의 지진에 주의를 당부했다.",
-          "checked_materials": [],
-          "outline": [
-            "11/8 새벽 시즈오카 서쪽 지진, 아이치 최대 진도 5강",
-            "최소 19명 부상·기사 기준 사망자 없음",
-            "기상청 추가 흔들림 주의, 난카이 해곡 관련 가능성은 낮다고 설명"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 기사 본문",
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836151"
-          }
-        ],
-        "excerpt": "",
-        "context": "지진은 11/8 01:04경 일본 현지시간. 원문 최초 작성 11/8 20:19 KST이며 11/9 08:39 갱신을 최초 공개로 바꾸지 않았다.",
-        "fetched_at": 1794197112,
-        "parser_revision": 7
-      },
-      "curation_event_key": "shizuoka-aichi-magnitude57-quake-19-injured-jma-warning-20261108"
-    },
-    "c518e8ca4556": {
-      "source": "SBS",
-      "title": "폴란드 검찰, 크라쿠프 총격 ‘테러 범죄’ 수사 착수…극우 성향 조사",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836274",
-      "first_seen_at": 1794197112,
-      "last_seen_at": 1794197112,
-      "samples": [
-        {
-          "at": 1794197112,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "c518e8ca4556",
-      "editorial": {
-        "title": "폴란드 검찰, 크라쿠프 총격 ‘테러 범죄’ 수사 착수…극우 성향 조사",
-        "category": "시사",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836274",
-        "source": "SBS",
-        "kind": "article",
-        "event_key": "krakow-shooting-prosecutors-terror-crime-investigation-announced-20261108",
-        "why": "기존 총격 피해 보도 뒤 검찰이 테러 범죄로 수사를 시작한 중대한 새 후속이다. 동기·법적 수사 방향의 변화만 별도 사실로 다룬다.",
-        "angle": "새 사실인 검찰의 테러 수사 착수를 첫 장에 두고 기존 피해는 배경으로 줄인다.",
-        "why_now": "11/7 총격 자체는 이미 발송됐다. 이번 새 사실은 현지 11/8 검찰의 테러 수사 착수 발표이며 SBS 최초 작성은 11/8 21:49 KST다.",
-        "verified_at": 1794197020,
-        "published_at": 1794142140,
-        "evidence": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836274",
-            "note": "SBS 한국어 본문은 폴란드 검찰이 11/8 총격을 테러 범죄로 규정하고 수사를 시작했다고 발표한 사실을 전한다. 당국은 용의자의 급진적 극우·민족주의 성향을 파악했다고 밝혔다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836274",
-            "label": "확인한 기사 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "총격·시신 발견 자체를 새 사건으로 재발송하지 않는다. 테러 수사 착수와 법원의 최종 유죄 판단은 다르다. 원문 사진·영상 미확인.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-08",
-          "observation": "SBS 한국어 본문은 폴란드 검찰이 11/8 총격을 테러 범죄로 규정하고 수사를 시작했다고 발표한 사실을 전한다. 당국은 용의자의 급진적 극우·민족주의 성향을 파악했다고 밝혔다.",
-          "checked_materials": [],
-          "outline": [
-            "새 후속: 검찰이 총격을 테러 범죄로 간주해 수사 착수",
-            "극우·급진적 민족주의 성향은 당국 발표로 귀속",
-            "기존 총격 피해와 자택 시신 발견은 배경으로만 사용"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 기사 본문",
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836274"
-          }
-        ],
-        "excerpt": "",
-        "context": "11/7 총격 자체는 이미 발송됐다. 이번 새 사실은 현지 11/8 검찰의 테러 수사 착수 발표이며 SBS 최초 작성은 11/8 21:49 KST다.",
-        "fetched_at": 1794197112,
-        "parser_revision": 7
-      },
-      "curation_event_key": "krakow-shooting-prosecutors-terror-crime-investigation-announced-20261108"
-    },
-    "3e2093777ac4": {
-      "source": "ATP 공식",
-      "title": "알카라스, 셸턴 꺾고 첫 파리 마스터스 우승…US오픈 패배 설욕",
-      "link": "https://www.nittoatpfinals.com/en/news/alcaraz-shelton-paris-2026-final-sunday",
-      "first_seen_at": 1794193595,
-      "last_seen_at": 1794193595,
-      "samples": [
-        {
-          "at": 1794193595,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "official",
-      "story_id": "3e2093777ac4",
-      "editorial": {
-        "title": "알카라스, 셸턴 꺾고 첫 파리 마스터스 우승…US오픈 패배 설욕",
-        "category": "메이저 스포츠",
-        "url": "https://www.nittoatpfinals.com/en/news/alcaraz-shelton-paris-2026-final-sunday",
-        "source": "ATP 공식",
-        "kind": "official",
-        "event_key": "alcaraz-shelton-first-paris-masters-title-ninth-masters-20261108",
-        "why": "손목 부상 공백 뒤 복귀한 알카라스가 시즌 마지막 마스터스 정상에 섰다. US오픈에서 패한 상대에게 결승에서 설욕했다.",
-        "angle": "첫 파리 우승과 셸턴 상대 US오픈 패배 설욕을 연결한다.",
-        "why_now": "11/8 결승 우승을 ATP 공식이 확인했다. 원문 공개일은 11/8로 표시되며 정확한 최초 시·분은 미확인이다.",
-        "verified_at": 1794193497,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.nittoatpfinals.com/en/news/alcaraz-shelton-paris-2026-final-sunday",
-            "note": "ATP 공식 본문에서 알카라스가 셸턴을 7-6(5), 7-5로 꺾고 첫 파리·통산 9번째 마스터스 우승을 확정한 사실을 확인했다. 2세트 브레이크 열세를 뒤집었다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.nittoatpfinals.com/en/news/alcaraz-shelton-paris-2026-final-sunday",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "영상을 보지 않았다. 최초 공개 시·분은 불명이며 검색·수집 시각으로 대체하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-08",
-          "observation": "ATP 공식 본문에서 알카라스가 셸턴을 7-6(5), 7-5로 꺾고 첫 파리·통산 9번째 마스터스 우승을 확정한 사실을 확인했다. 2세트 브레이크 열세를 뒤집었다.",
-          "checked_materials": [],
-          "outline": [
-            "셸턴에 2-0 승리, 첫 파리 마스터스 정상",
-            "US오픈 8강 패배를 이번 결승에서 설욕",
-            "통산 9번째 마스터스 우승 뒤 ATP 파이널스 출전"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://www.nittoatpfinals.com/en/news/alcaraz-shelton-paris-2026-final-sunday"
-          }
-        ],
-        "excerpt": "",
-        "context": "11/8 결승 우승을 ATP 공식이 확인했다. 원문 공개일은 11/8로 표시되며 정확한 최초 시·분은 미확인이다.",
-        "fetched_at": 1794193595,
-        "parser_revision": 7
-      },
-      "curation_event_key": "alcaraz-shelton-first-paris-masters-title-ninth-masters-20261108"
-    },
-    "a72dde82d6f2": {
-      "source": "뉴시스",
-      "title": "19세 브라운, 연장 끝 PGA 첫 우승…역대 네 번째 최연소",
-      "link": "https://www.newsis.com/view/NISX20261109_0003859717",
-      "first_seen_at": 1794193595,
-      "last_seen_at": 1794193595,
-      "samples": [
-        {
-          "at": 1794193595,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "a72dde82d6f2",
-      "editorial": {
-        "title": "19세 브라운, 연장 끝 PGA 첫 우승…역대 네 번째 최연소",
-        "category": "메이저 스포츠",
-        "url": "https://www.newsis.com/view/NISX20261109_0003859717",
-        "source": "뉴시스",
-        "kind": "article",
-        "event_key": "blades-brown-first-pga-tour-win-wwt-championship-playoff-20261108",
-        "why": "정규 투어 첫 우승을 19세에 따낸 새 얼굴의 등장이다. 단순 순위보다 역대 네 번째로 어린 우승이라는 이정표가 핵심이다.",
-        "angle": "19세 첫 우승과 벤 제임스와의 연장 승부를 첫 장에 둔다.",
-        "why_now": "현지 11/8 대회 최종일, 한국시간 11/9 우승. 확인 기사 등록은 11/9 10:33:58 KST다.",
-        "verified_at": 1794193497,
-        "published_at": 1794188038,
-        "evidence": [
-          {
-            "url": "https://www.newsis.com/view/NISX20261109_0003859717",
-            "note": "뉴시스 본문에서 브라운이 마지막 날 63타, 합계 23언더파 265타를 기록하고 벤 제임스를 연장 두 번째 홀에서 꺾어 첫 PGA 우승을 거둔 사실을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.newsis.com/view/NISX20261109_0003859717",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "경기 영상은 확인하지 않았다. 대회 현지일과 한국 보도일을 구분하며 역대 최연소 우승이라고 쓰지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-08",
-          "observation": "뉴시스 본문에서 브라운이 마지막 날 63타, 합계 23언더파 265타를 기록하고 벤 제임스를 연장 두 번째 홀에서 꺾어 첫 PGA 우승을 거둔 사실을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "브라운, 벤 제임스와 공동 선두 뒤 연장 우승",
-            "19세 5개월 18일로 PGA 역대 네 번째 최연소",
-            "우승 상금 108만 달러, 내년 투어 출전권도 확보"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://www.newsis.com/view/NISX20261109_0003859717"
-          }
-        ],
-        "excerpt": "",
-        "context": "현지 11/8 대회 최종일, 한국시간 11/9 우승. 확인 기사 등록은 11/9 10:33:58 KST다.",
-        "fetched_at": 1794193595,
-        "parser_revision": 7
-      },
-      "curation_event_key": "blades-brown-first-pga-tour-win-wwt-championship-playoff-20261108"
-    },
-    "ae4b96f0cefd": {
-      "source": "DP World Tour",
-      "title": "욘 람, 해턴·매킬로이 제치고 아부다비 정상…로렉스시리즈 최다 우승",
-      "link": "https://www.europeantour.com/dpworld-tour/rolex/news/articles/detail/jon-rahm-caps-dream-abu-dhabi-debut-with-sixth-rolex-series-crown/",
-      "first_seen_at": 1794193595,
-      "last_seen_at": 1794193595,
-      "samples": [
-        {
-          "at": 1794193595,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "official",
-      "story_id": "ae4b96f0cefd",
-      "editorial": {
-        "title": "욘 람, 해턴·매킬로이 제치고 아부다비 정상…로렉스시리즈 최다 우승",
-        "category": "메이저 스포츠",
-        "url": "https://www.europeantour.com/dpworld-tour/rolex/news/articles/detail/jon-rahm-caps-dream-abu-dhabi-debut-with-sixth-rolex-series-crown/",
-        "source": "DP World Tour",
-        "kind": "official",
-        "event_key": "jon-rahm-abu-dhabi-championship-title-sixth-rolex-series-20261108",
-        "why": "메이저 챔피언들이 맞붙은 시즌 막판 대형 대회에서 람이 우승했다. 해턴과의 공동 최다 기록을 깨며 최정상 경쟁 구도가 바뀌었다.",
-        "angle": "최종 라운드 공동 선두 경쟁에서 람이 빠져나온 흐름을 설명한다.",
-        "why_now": "현지 11/8 아부다비 대회 우승을 투어 공식이 확인했다. 원문 최초 시·분은 표시되지 않아 null로 남긴다.",
-        "verified_at": 1794193497,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.europeantour.com/dpworld-tour/rolex/news/articles/detail/jon-rahm-caps-dream-abu-dhabi-debut-with-sixth-rolex-series-crown/",
-            "note": "DP 월드투어 공식 본문은 람이 최종일 67타·합계 23언더파로 해턴을 2타 차로 제치고 우승했다고 확인한다. 로렉스시리즈 6승으로 공동 최다 5승에서 단독 최다가 됐다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.europeantour.com/dpworld-tour/rolex/news/articles/detail/jon-rahm-caps-dream-abu-dhabi-debut-with-sixth-rolex-series-crown/",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "공식 본문에서 확인한 우승 사실만 사용한다. LIV 탈퇴나 PGA 복귀 확정으로 확대하지 않는다. 영상 미시청.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-08",
-          "observation": "DP 월드투어 공식 본문은 람이 최종일 67타·합계 23언더파로 해턴을 2타 차로 제치고 우승했다고 확인한다. 로렉스시리즈 6승으로 공동 최다 5승에서 단독 최다가 됐다.",
-          "checked_materials": [],
-          "outline": [
-            "람 23언더파, 해턴 21언더파로 2타 차 우승",
-            "매킬로이는 19언더파 3위",
-            "아부다비 첫 출전 우승·로렉스시리즈 통산 최다 6승"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://www.europeantour.com/dpworld-tour/rolex/news/articles/detail/jon-rahm-caps-dream-abu-dhabi-debut-with-sixth-rolex-series-crown/"
-          }
-        ],
-        "excerpt": "",
-        "context": "현지 11/8 아부다비 대회 우승을 투어 공식이 확인했다. 원문 최초 시·분은 표시되지 않아 null로 남긴다.",
-        "fetched_at": 1794193595,
-        "parser_revision": 7
-      },
-      "curation_event_key": "jon-rahm-abu-dhabi-championship-title-sixth-rolex-series-20261108"
-    },
-    "d129b12436bb": {
-      "source": "뉴시스",
-      "title": "암스테르담 ‘레드라인’ 시위…주최 측 “20만 명”, 대이스라엘 압박 요구",
-      "link": "https://www.newsis.com/view/NISX20261109_0003859589",
-      "first_seen_at": 1794193595,
-      "last_seen_at": 1794193595,
-      "samples": [
-        {
-          "at": 1794193595,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "d129b12436bb",
-      "editorial": {
-        "title": "암스테르담 ‘레드라인’ 시위…주최 측 “20만 명”, 대이스라엘 압박 요구",
-        "category": "시사",
-        "url": "https://www.newsis.com/view/NISX20261109_0003859589",
-        "source": "뉴시스",
-        "kind": "article",
-        "event_key": "amsterdam-red-line-gaza-protest-organisers-200000-20261108",
-        "why": "수십만 명 규모의 시위가 정부의 가자 정책 변화를 요구했다. 참가 규모와 정부 입장을 함께 제시할 국제 현안이다.",
-        "angle": "붉은 옷의 의미와 주최 측 집계, 정부의 두 국가 해법 입장을 나란히 놓는다.",
-        "why_now": "현지 11/8 시위. 확인 기사 등록은 11/9 06:54:14 KST이며 이번 시위의 새 규모·요구를 다룬다.",
-        "verified_at": 1794193497,
-        "published_at": 1794174854,
-        "evidence": [
-          {
-            "url": "https://www.newsis.com/view/NISX20261109_0003859589",
-            "note": "뉴시스 본문은 11/8 암스테르담 시위에 주최 측 추산 약 20만 명이 참여해 대이스라엘 정치·경제·외교 압박 강화를 요구했다고 전한다. 외무장관은 두 국가 해법 지지를 밝혔다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.newsis.com/view/NISX20261109_0003859589",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "20만 명은 주최 측 추산이며 경찰 확정 집계가 아니다. 기사 사진은 10/7 자료사진이다. 당일 장면을 직접 봤다고 쓰지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-08",
-          "observation": "뉴시스 본문은 11/8 암스테르담 시위에 주최 측 추산 약 20만 명이 참여해 대이스라엘 정치·경제·외교 압박 강화를 요구했다고 전한다. 외무장관은 두 국가 해법 지지를 밝혔다.",
-          "checked_materials": [],
-          "outline": [
-            "현지 11/8 레드라인 시위, 주최 측 추산 약 20만 명",
-            "시위대는 이스라엘에 대한 정부 압박 강화 요구",
-            "정부는 가자 인권 개선·두 국가 해법 지지 입장"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://www.newsis.com/view/NISX20261109_0003859589"
-          }
-        ],
-        "excerpt": "",
-        "context": "현지 11/8 시위. 확인 기사 등록은 11/9 06:54:14 KST이며 이번 시위의 새 규모·요구를 다룬다.",
-        "fetched_at": 1794193595,
-        "parser_revision": 7
-      },
-      "curation_event_key": "amsterdam-red-line-gaza-protest-organisers-200000-20261108"
-    },
-    "56b774abefde": {
-      "source": "뉴시스",
-      "title": "국민의힘 법사위원들, 예산심사 보이콧…특검법 처리에 반발",
-      "link": "https://www.newsis.com/view/NISX20261109_0003860193",
-      "first_seen_at": 1794193595,
-      "last_seen_at": 1794193595,
-      "samples": [
-        {
-          "at": 1794193595,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "56b774abefde",
-      "editorial": {
-        "title": "국민의힘 법사위원들, 예산심사 보이콧…특검법 처리에 반발",
-        "category": "시사",
-        "url": "https://www.newsis.com/view/NISX20261109_0003860193",
-        "source": "뉴시스",
-        "kind": "article",
-        "event_key": "ppp-lawmakers-judiciary-committee-budget-review-boycott-20261109",
-        "why": "특검법 갈등이 국회 예산심사 불참으로 번졌다. 사법기관 예산과 상임위 운영에 영향을 주는 새 정치적 결정이다.",
-        "angle": "오늘 발표된 법사위 일정 불참과 대상 범위를 명확히 제시한다.",
-        "why_now": "11/9 기자회견에서 법사위 예산소위 등 일정 불참을 새로 선언했다. 확인 기사 등록은 11/9 11:03:33 KST다.",
-        "verified_at": 1794193497,
-        "published_at": 1794189813,
-        "evidence": [
-          {
-            "url": "https://www.newsis.com/view/NISX20261109_0003860193",
-            "note": "뉴시스 본문은 국민의힘 법사위원들이 11/9 기자회견에서 특검법 처리에 반발해 예산소위 등 향후 법사위 일정에 불참하기로 성명을 냈다고 확인한다. 대통령에게 재의요구권 행사도 요구했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.newsis.com/view/NISX20261109_0003860193",
-            "label": "확인한 원문",
-            "kind": "source"
-          }
-        ],
-        "caution": "법사위 소속 의원들의 불참 선언이다. 국회 전체 예산심사 중단이나 특검법 위헌 확정으로 표현하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-09",
-          "observation": "뉴시스 본문은 국민의힘 법사위원들이 11/9 기자회견에서 특검법 처리에 반발해 예산소위 등 향후 법사위 일정에 불참하기로 성명을 냈다고 확인한다. 대통령에게 재의요구권 행사도 요구했다.",
-          "checked_materials": [],
-          "outline": [
-            "국민의힘 법사위원들, 예산소위 등 법사위 일정 불참 선언",
-            "당사자들은 특검법 처리에 대한 저항이라고 설명",
-            "대통령에게 거부권 요구, 실제 행사 여부는 별개"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 원문",
-            "url": "https://www.newsis.com/view/NISX20261109_0003860193"
-          }
-        ],
-        "excerpt": "",
-        "context": "11/9 기자회견에서 법사위 예산소위 등 일정 불참을 새로 선언했다. 확인 기사 등록은 11/9 11:03:33 KST다.",
-        "fetched_at": 1794193595,
-        "parser_revision": 7
-      },
-      "curation_event_key": "ppp-lawmakers-judiciary-committee-budget-review-boycott-20261109"
-    },
-    "9e7cf7d84291": {
-      "source": "Formula 1",
-      "title": "메르세데스, 5년 만에 F1 팀 챔피언…통산 9번째 우승 확정",
-      "link": "https://www.formula1.com/en/latest/article/wolff-already-thinking-about-2027-despite-constructors-championship-win-in-brazil.21aGFbwHKbhjkcmpeYVrZV",
-      "first_seen_at": 1794190265,
-      "last_seen_at": 1794190265,
-      "samples": [
-        {
-          "at": 1794190265,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "official",
-      "story_id": "9e7cf7d84291",
-      "editorial": {
-        "title": "메르세데스, 5년 만에 F1 팀 챔피언…통산 9번째 우승 확정",
-        "category": "메이저 스포츠",
-        "url": "https://www.formula1.com/en/latest/article/wolff-already-thinking-about-2027-despite-constructors-championship-win-in-brazil.21aGFbwHKbhjkcmpeYVrZV",
-        "source": "Formula 1",
-        "kind": "official",
-        "event_key": "mercedes-ninth-constructors-title-clinched-sao-paulo-20261108",
-        "why": "2021년 이후 처음으로 팀 최강자 자리를 되찾았다. 통산 9번째 팀 우승으로 F1 판도 변화를 보여준다.",
-        "angle": "브라질에서 확정된 팀 우승과 통산 9회 의미를 첫 장에 둔다.",
-        "why_now": "우승 사건은 현지 11/8. 확인한 공식 후속 기사 최초 표시는 11/8 22:11 UTC(11/9 07:11 KST)다.",
-        "verified_at": 1794190167,
-        "published_at": 1794175860,
-        "evidence": [
-          {
-            "url": "https://www.formula1.com/en/latest/article/wolff-already-thinking-about-2027-despite-constructors-championship-win-in-brazil.21aGFbwHKbhjkcmpeYVrZV",
-            "note": "F1 공식 본문은 러셀 4위·안토넬리 5위로 메르세데스가 팀 타이틀을 확정했으며, 2021년 이후 처음이자 통산 9번째라고 확인한다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.formula1.com/en/latest/article/wolff-already-thinking-about-2027-despite-constructors-championship-win-in-brazil.21aGFbwHKbhjkcmpeYVrZV",
-            "label": "확인한 기사 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "확인한 자료는 공식 기사와 결과표다. 영상을 시청하지 않았으며 후속 기사 시각을 최초 우승 발표로 쓰지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-08",
-          "observation": "F1 공식 본문은 러셀 4위·안토넬리 5위로 메르세데스가 팀 타이틀을 확정했으며, 2021년 이후 처음이자 통산 9번째라고 확인한다.",
-          "checked_materials": [],
-          "outline": [
-            "브라질 GP에서 메르세데스 팀 챔피언 확정",
-            "러셀 4위·안토넬리 5위로 필요한 점수 확보",
-            "통산 9회로 윌리엄스와 동률"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 기사 본문",
-            "url": "https://www.formula1.com/en/latest/article/wolff-already-thinking-about-2027-despite-constructors-championship-win-in-brazil.21aGFbwHKbhjkcmpeYVrZV"
-          }
-        ],
-        "excerpt": "",
-        "context": "우승 사건은 현지 11/8. 확인한 공식 후속 기사 최초 표시는 11/8 22:11 UTC(11/9 07:11 KST)다.",
-        "fetched_at": 1794190265,
-        "parser_revision": 7
-      },
-      "curation_event_key": "mercedes-ninth-constructors-title-clinched-sao-paulo-20261108"
-    },
-    "16110f0a9c58": {
-      "source": "뉴시스",
-      "title": "7개월 우승 가뭄 끝…김원호·서승재, 코리아오픈 2연패",
-      "link": "https://nwww.newsis.com/view/NISX20261108_0003859387",
-      "first_seen_at": 1794190265,
-      "last_seen_at": 1794190265,
-      "samples": [
-        {
-          "at": 1794190265,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "16110f0a9c58",
-      "editorial": {
-        "title": "7개월 우승 가뭄 끝…김원호·서승재, 코리아오픈 2연패",
-        "category": "메이저 스포츠",
-        "url": "https://nwww.newsis.com/view/NISX20261108_0003859387",
-        "source": "뉴시스",
-        "kind": "article",
-        "event_key": "kim-wonho-seo-seungjae-korea-open-title-fourth-season-win-20261108",
-        "why": "세계 1위 남자복식이 주요 대회 부진 뒤 안방에서 정상에 복귀했다. 단순 승수보다 타이틀 방어와 반등이 핵심이다.",
-        "angle": "마지막 게임 접전과 7개월 만의 우승을 사실 카드로 엮는다.",
-        "why_now": "11/8 결승 우승. 확인 기사 등록은 11/8 16:58:29 KST이며 미발송 24시간 구간에서 선정했다.",
-        "verified_at": 1794190167,
-        "published_at": 1794124709,
-        "evidence": [
-          {
-            "url": "https://nwww.newsis.com/view/NISX20261108_0003859387",
-            "note": "뉴시스 본문에서 호키·고바야시를 2-1(21-12, 20-22, 21-19)로 꺾고 코리아오픈 2연패, 4월 아시아선수권 이후 시즌 4승을 거둔 사실을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://nwww.newsis.com/view/NISX20261108_0003859387",
-            "label": "확인한 기사 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "본문만 확인했다. 경기 장면·포효를 직접 봤다고 쓰지 않는다. 기사 등록과 최초 경기 보도 시각은 구분한다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-08",
-          "observation": "뉴시스 본문에서 호키·고바야시를 2-1(21-12, 20-22, 21-19)로 꺾고 코리아오픈 2연패, 4월 아시아선수권 이후 시즌 4승을 거둔 사실을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "일본 조를 2-1로 꺾고 코리아오픈 2연패",
-            "4월 아시아선수권 이후 약 7개월 만의 우승",
-            "세계선수권·아시안게임 등 무관 뒤 반등"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 기사 본문",
-            "url": "https://nwww.newsis.com/view/NISX20261108_0003859387"
-          }
-        ],
-        "excerpt": "",
-        "context": "11/8 결승 우승. 확인 기사 등록은 11/8 16:58:29 KST이며 미발송 24시간 구간에서 선정했다.",
-        "fetched_at": 1794190265,
-        "parser_revision": 7
-      },
-      "curation_event_key": "kim-wonho-seo-seungjae-korea-open-title-fourth-season-win-20261108"
-    },
-    "fbafa14a0204": {
-      "source": "뉴시스",
-      "title": "박혜정, 세계선수권 은메달 3개…한국 여자 최중량급 동반 시상대",
-      "link": "https://nwww.newsis.com/view/NISX20261109_0003859841",
-      "first_seen_at": 1794190265,
-      "last_seen_at": 1794190265,
-      "samples": [
-        {
-          "at": 1794190265,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "fbafa14a0204",
-      "editorial": {
-        "title": "박혜정, 세계선수권 은메달 3개…한국 여자 최중량급 동반 시상대",
-        "category": "메이저 스포츠",
-        "url": "https://nwww.newsis.com/view/NISX20261109_0003859841",
-        "source": "뉴시스",
-        "kind": "article",
-        "event_key": "park-hyejeong-world-weightlifting-three-silvers-kim-hyoeon-two-bronzes-20261108",
-        "why": "한국 역도 간판의 세계선수권 결과이며 김효언도 동반 입상했다. 세계 최중량급 구도를 한눈에 보여줄 소재다.",
-        "angle": "박혜정 은 3개와 김효언 동 2개를 나란히 놓고 메달 구조를 설명한다.",
-        "why_now": "경기는 11/8 중국 닝보. 확인한 기사는 11/9 09:46:45 KST 등록됐다.",
-        "verified_at": 1794190167,
-        "published_at": 1794185205,
-        "evidence": [
-          {
-            "url": "https://nwww.newsis.com/view/NISX20261109_0003859841",
-            "note": "뉴시스 본문은 여자 86kg 이상급 박혜정이 인상 125kg·용상 161kg·합계 286kg으로 모두 2위, 김효언은 용상·합계 동메달이라고 전한다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://nwww.newsis.com/view/NISX20261109_0003859841",
-            "label": "확인한 기사 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "은메달 3개는 세 경기나 세 체급이 아니다. 올림픽의 합계 단일 메달 방식과 구분한다. 영상은 확인하지 않았다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-08",
-          "observation": "뉴시스 본문은 여자 86kg 이상급 박혜정이 인상 125kg·용상 161kg·합계 286kg으로 모두 2위, 김효언은 용상·합계 동메달이라고 전한다.",
-          "checked_materials": [],
-          "outline": [
-            "박혜정 인상·용상·합계 모두 은메달",
-            "세계선수권은 세 부문에 각각 메달 수여",
-            "김효언 용상·합계 동메달, 중국 리옌 금 3개"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 기사 본문",
-            "url": "https://nwww.newsis.com/view/NISX20261109_0003859841"
-          }
-        ],
-        "excerpt": "",
-        "context": "경기는 11/8 중국 닝보. 확인한 기사는 11/9 09:46:45 KST 등록됐다.",
-        "fetched_at": 1794190265,
-        "parser_revision": 7
-      },
-      "curation_event_key": "park-hyejeong-world-weightlifting-three-silvers-kim-hyoeon-two-bronzes-20261108"
-    },
-    "eeb01e7f1299": {
-      "source": "MLS 공식",
-      "title": "플레이오프 탈락 뒤 감독 교체…뉴욕 시티, 얀선과 결별",
-      "link": "https://www.mlssoccer.com/news/new-york-city-fc-part-ways-with-head-coach-pascal-jansen",
-      "first_seen_at": 1794190265,
-      "last_seen_at": 1794190265,
-      "samples": [
-        {
-          "at": 1794190265,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "official",
-      "story_id": "eeb01e7f1299",
-      "editorial": {
-        "title": "플레이오프 탈락 뒤 감독 교체…뉴욕 시티, 얀선과 결별",
-        "category": "축구",
-        "url": "https://www.mlssoccer.com/news/new-york-city-fc-part-ways-with-head-coach-pascal-jansen",
-        "source": "MLS 공식",
-        "kind": "official",
-        "event_key": "nycfc-pascal-jansen-head-coach-departure-announced-20261108",
-        "why": "전년도 동부 결승 진출팀이 이번 시즌 플레이오프에서 탈락하며 감독 교체를 확정했다. 새 시즌 구단 개편의 출발점이다.",
-        "angle": "지난해 동부 결승에서 올해 11위로 떨어진 변화와 구단 발표를 연결한다.",
-        "why_now": "MLS 공식은 현지 11/8 일요일 오전 구단 발표라고 명시한다. 정확한 최초 공개 시·분은 확인되지 않았다.",
-        "verified_at": 1794190167,
-        "published_at": null,
-        "evidence": [
-          {
-            "url": "https://www.mlssoccer.com/news/new-york-city-fc-part-ways-with-head-coach-pascal-jansen",
-            "note": "MLS 공식 기사에서 NYCFC의 얀선 감독 결별 발표와 동부 11위·42점, 구단 역사상 세 번째 플레이오프 탈락을 확인했다. 후임 감독 물색은 즉시 시작한다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.mlssoccer.com/news/new-york-city-fc-part-ways-with-head-coach-pascal-jansen",
-            "label": "확인한 기사 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "상호 합의·해임의 구체 계약 조건은 확인되지 않았다. 후임 확정이나 선수단 개편을 추정하지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-08",
-          "observation": "MLS 공식 기사에서 NYCFC의 얀선 감독 결별 발표와 동부 11위·42점, 구단 역사상 세 번째 플레이오프 탈락을 확인했다. 후임 감독 물색은 즉시 시작한다.",
-          "checked_materials": [],
-          "outline": [
-            "NYCFC, 파스칼 얀선 감독과 결별 발표",
-            "동부 11위·42점으로 플레이오프 탈락",
-            "구단은 후임 물색 즉시 시작, 선임자는 미발표"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 기사 본문",
-            "url": "https://www.mlssoccer.com/news/new-york-city-fc-part-ways-with-head-coach-pascal-jansen"
-          }
-        ],
-        "excerpt": "",
-        "context": "MLS 공식은 현지 11/8 일요일 오전 구단 발표라고 명시한다. 정확한 최초 공개 시·분은 확인되지 않았다.",
-        "fetched_at": 1794190265,
-        "parser_revision": 7
-      },
-      "curation_event_key": "nycfc-pascal-jansen-head-coach-departure-announced-20261108"
-    },
-    "d91c08b9c457": {
-      "source": "SBS",
-      "title": "이집트 열차 추돌·탈선…보건부 “7명 사망·112명 부상”",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836359",
-      "first_seen_at": 1794190265,
-      "last_seen_at": 1794190265,
-      "samples": [
-        {
-          "at": 1794190265,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "d91c08b9c457",
-      "editorial": {
-        "title": "이집트 열차 추돌·탈선…보건부 “7명 사망·112명 부상”",
-        "category": "시사",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836359",
-        "source": "SBS",
-        "kind": "article",
-        "event_key": "egypt-giza-two-trains-collision-derailment-seven-dead-112-injured-20261108",
-        "why": "두 열차가 충돌한 대형 교통 참사로 100명 넘는 사상자가 발생했다. 확정된 피해와 확인되지 않은 원인을 분리해 다룬다.",
-        "angle": "보건부 집계와 사고 위치를 먼저 제시하고 원인 조사 단계임을 명시한다.",
-        "why_now": "현지 11/8 사고. 확인한 SBS 기사 최초 작성 표시는 11/9 06:18 KST다.",
-        "verified_at": 1794190167,
-        "published_at": 1794172680,
-        "evidence": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836359",
-            "note": "SBS 기사 본문에서 카이로 남부 기자주의 열차 두 대 추돌·객차 탈선과 이집트 보건부 발표 기준 사망 7명·부상 112명을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836359",
-            "label": "확인한 기사 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "피해는 기사에 인용된 발표 시점 집계다. 사고 원인은 확정하지 않으며 영상·사진을 직접 확인했다고 쓰지 않는다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-08",
-          "observation": "SBS 기사 본문에서 카이로 남부 기자주의 열차 두 대 추돌·객차 탈선과 이집트 보건부 발표 기준 사망 7명·부상 112명을 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "현지 11/8 기자주에서 두 열차 추돌·탈선",
-            "보건부 발표 기준 사망 7명·부상 112명",
-            "정확한 사고 원인과 책임은 별도 조사 필요"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "확인한 기사 본문",
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836359"
-          }
-        ],
-        "excerpt": "",
-        "context": "현지 11/8 사고. 확인한 SBS 기사 최초 작성 표시는 11/9 06:18 KST다.",
-        "fetched_at": 1794190265,
-        "parser_revision": 7
-      },
-      "curation_event_key": "egypt-giza-two-trains-collision-derailment-seven-dead-112-injured-20261108"
     }
   },
-  "updated_at": 1794794591
+  "updated_at": 1794806018
 }

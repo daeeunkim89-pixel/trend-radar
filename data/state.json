@@ -1,5 +1,5 @@
 {
-  "updated_at": 1794794592,
+  "updated_at": 1794806019,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,65 +15,65 @@
     "requested_stories": 10,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026111602",
+    "hour_utc": "2026111605",
     "category_counts": {
-      "시사": 8,
+      "시사": 5,
       "축구": 0,
-      "메이저 스포츠": 2,
+      "메이저 스포츠": 5,
       "아이돌": 0
     },
     "research_queries": 10,
-    "opened_sources": 25,
+    "opened_sources": 10,
     "picks": [
       {
-        "title": "최혜진, LPGA 10번째 준우승…무관 준우승 역대 최다",
-        "url": "https://www.newsis.com/view/NISX20261116_0003868936",
-        "event_key": "choi-hye-jin-lpga-tenth-runner-up-record-20261116"
+        "title": "버로 409야드·4TD…벵골스, 스틸러스 꺾고 지구 단독 선두",
+        "url": "https://www.reuters.com/sports/nfl/joe-burrow-continues-stellar-season-bengals-blitz-steelers--flm-2026-11-16/",
+        "event_key": "bengals-burrow-409-four-td-beat-steelers-afc-north-lead-20261116"
       },
       {
-        "title": "스비톨리나 “다음 주 우크라이나 귀국”…기부 100만달러",
-        "url": "https://www.reuters.com/sports/tennis/svitolina-return-ukraine-vows-continued-support-war-hit-homeland-2026-11-16/",
-        "event_key": "svitolina-return-ukraine-million-dollar-support-20261116"
+        "title": "커즌스 친정 복귀전 승리…바이킹스, 패커스에 30대10",
+        "url": "https://www.reuters.com/sports/nfl-roundup-vikings-stymie-packers-kirk-cousins-triumphant-return--flm-2026-11-16/",
+        "event_key": "vikings-cousins-return-beat-packers-tied-nfc-north-20261116"
       },
       {
-        "title": "대법원, 한덕수·김건희·윤석열 상고심 선고기일 확정",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008847438",
-        "event_key": "supreme-court-han-kim-yoon-appeal-dates-20261116"
+        "title": "호크스 15점 차 뒤집기…밀워키는 10연패",
+        "url": "https://www.reuters.com/sports/basketball/hawks-shrug-off-slow-start-hand-bucks-10th-straight-loss--flm-2026-11-16/",
+        "event_key": "hawks-comeback-hand-bucks-tenth-straight-loss-20261116"
       },
       {
-        "title": "이 대통령 아세안·APEC 출국…미중러 첫 정상회담 주목",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008847339",
-        "event_key": "lee-jae-myung-asean-apec-departure-20261116"
+        "title": "샤크스, 내슈빌 7연승 저지…셀러브리니·스미스 3포인트씩",
+        "url": "https://www.reuters.com/sports/nhl/sharks-easily-snap-predators-7-game-win-streak--flm-2026-11-16/",
+        "event_key": "sharks-end-predators-seven-game-win-streak-20261116"
       },
       {
-        "title": "삼성SDI, 미국 ESS 기업에 3년간 수조원대 배터리 공급",
-        "url": "https://www.newsis.com/view/NISX20261116_0003868943",
-        "event_key": "samsung-sdi-us-ess-multitrillion-order-20261116"
+        "title": "로버트슨 연장 결승골…댈러스, 플로리다에 2대1",
+        "url": "https://www.reuters.com/sports/nhl/jason-robertsons-ot-goal-lifts-stars-over-panthers--flm-2026-11-16/",
+        "event_key": "jason-robertson-overtime-winner-stars-panthers-20261116"
       },
       {
-        "title": "북한 연계 김수키, 국회의원실 사칭해 악성파일 피싱",
-        "url": "https://www.newsis.com/view/NISX20261116_0003869099",
-        "event_key": "kimsuky-lawmaker-office-honorarium-phishing-20261116"
+        "title": "개헌자문위 출범…김형오·정세균 공동위원장",
+        "url": "https://www.newsis.com/view/NISX20261116_0003869498",
+        "event_key": "korea-constitutional-advisory-committee-kim-chung-launch-20261116"
       },
       {
-        "title": "코스피·코스닥 2∼3% 급락…외국인 매도에 낙폭 확대",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008847443",
-        "event_key": "kospi-kosdaq-two-three-percent-drop-20261116"
+        "title": "세무사시험 AI 부정 자수 후속…경찰, 공범 여부 수사",
+        "url": "https://www.newsis.com/view/NISX20261116_0003869625",
+        "event_key": "tax-accountant-ai-cheating-confession-police-investigation-20261116"
       },
       {
-        "title": "수능 사흘 앞두고 정부, AI 부정행위 긴급대응팀 구성",
-        "url": "https://www.newsis.com/view/NISX20261116_0003869032",
-        "event_key": "korea-csat-ai-cheating-emergency-team-20261116"
+        "title": "SK하이닉스, 사업장 AI 안경 금지…삼성도 제한 검토",
+        "url": "https://www.newsis.com/view/NISX20261116_0003869180",
+        "event_key": "sk-hynix-bans-ai-glasses-samsung-considers-restrictions-20261116"
       },
       {
-        "title": "경산 아파트 심야 화재…8명 부상·주민 138명 대피",
-        "url": "https://www.newsis.com/view/NISX20261116_0003868851",
-        "event_key": "gyeongsan-apartment-fire-eight-injured-138-evacuated-20261116"
+        "title": "LS일렉트릭, 미국 AI 데이터센터 전력기기 1천300억원 수주",
+        "url": "https://en.yna.co.kr/view/AEN20261116002700320",
+        "event_key": "ls-electric-us-ai-data-center-power-equipment-order-20261116"
       },
       {
-        "title": "사진기자협회, 최민희 의원 ‘하이에나’ 표현 모욕 혐의 고소",
-        "url": "https://www.newsis.com/view/NISX20261116_0003869373",
-        "event_key": "photojournalists-association-sues-choi-minhee-insult-20261116"
+        "title": "삼성중공업, LNG 운반선 3천424억원 수주…상선 목표 146%",
+        "url": "https://www.yna.co.kr/view/AKR20261116035200003",
+        "event_key": "samsung-heavy-lng-carrier-order-3424-billion-won-20261116"
       }
     ]
   }
