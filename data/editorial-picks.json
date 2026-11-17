@@ -1,410 +1,405 @@
 {
   "version": 2,
-  "hour_utc": "2026111708",
+  "hour_utc": "2026111711",
   "reviewer": "ChatGPT",
-  "generated_at": 1794902858,
+  "generated_at": 1794913324,
   "coverage": {
     "queries": [
-      "2026년 11월 17일 14시 이후 축구 스포츠 공식 발표 결과 한국 선수 구단",
-      "November 17 2026 football soccer official club federation major player latest after 05:00 UTC",
-      "2026년 11월 17일 14시 이후 주요뉴스 속보 한국 정치 사회 산업",
-      "November 17 2026 major sports breaking official result after 05:00 UTC Reuters AP",
-      "site:reuters.com/sports November 17 2026 football soccer latest 06:00 UTC",
-      "site:reuters.com/world November 17 2026 Asia Korea breaking latest 05:00 UTC",
-      "2026년 11월 17일 15시 16시 축구 공식 발표 구단 선수 스포츠 속보",
-      "November 17 2026 soccer football official announcement November 17 2026 06:00 07:00 UTC"
+      "2026년 11월 17일 17시 이후 축구 스포츠 공식 발표 결과 한국 선수 구단",
+      "November 17 2026 football soccer official club federation major player latest after 08:00 UTC",
+      "2026년 11월 17일 17시 이후 주요뉴스 속보 한국 정치 사회 산업",
+      "November 17 2026 major sports breaking official result after 08:00 UTC Reuters AP",
+      "site:news.sbs.co.kr/news/endPage.do 2026.11.17 17:00 18:00 19:00 SBS 주요 뉴스 스포츠 축구",
+      "site:reuters.com November 17 2026 after 08:00 UTC sports soccer world Asia Korea"
     ],
     "opened_urls": [
-      "https://news.sbs.co.kr/news/newsflash.do",
-      "https://news.sbs.co.kr/news/newsSection.do?sectionType=09",
-      "https://www.reuters.com/sports/",
-      "https://www.reuters.com/world/",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850221",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850230",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850184",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849984",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849965",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849803",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849746",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849784",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850203",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850172"
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850483",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850475",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850474",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849851",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850457",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850351",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850342",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850456",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849821",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850322",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849114",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850290"
     ],
     "unavailable": [
-      "Instagram check: cloud Chrome redirected public @bythepulse to the login page; no grid/caption read and no retry or preference inference",
-      "Body access: one direct article route returned DisabledError; switched to accessible official/major-media originals without URL variants",
-      "Football scan: fresh direct searches returned previews, stale items, or weak facts below the current selection bar; no fixed quota fill",
-      "run_usage:start=2026-11-17T08:00:22Z q=8 body=21 ok=20 fail=1 unique_selected=10 end=2026-11-17T08:07:38Z elapsed=436s stop=10_verified_after_extension1"
+      "Instagram check: public @bythepulse open returned Internal Error / Online fetch throttled; one check only, no retry or preference inference",
+      "Football scan: fresh results were mainly previews, training, previously observed Instagram facts, or facts below the selection bar; no fixed quota fill",
+      "run_usage:start=2026-11-17T10:58:06Z q=6 body=12 ok=12 fail=0 unique_selected=10 end=2026-11-17T11:02:04Z elapsed=238s stop=10_verified_initial"
     ]
   },
   "picks": [
     {
-      "title": "크렘린 “푸틴, APEC서 이재명 대통령 만날 것”",
+      "title": "공정위 심사관, ‘지정자료 허위 제출’ 쿠팡·김범석 고발 의견",
       "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850221",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850483",
       "source": "SBS",
       "kind": "article",
-      "event_key": "putin-lee-jae-myung-apec-meeting-kremlin-20261117",
-      "why": "러시아 정상이 APEC에서 한국 대통령과 접촉하겠다는 크렘린의 공식 예고다.",
-      "angle": "정상회담 확정 여부와 짧은 대화 가능성을 구분해 전한다.",
-      "why_now": "크렘린 대변인이 APEC 개막을 앞두고 양국 정상 접촉을 처음 확인했다.",
-      "verified_at": 1794902858,
-      "published_at": 1794901620,
+      "event_key": "korea-ftc-examiner-coupang-kim-bomseok-false-designation-data-20261117",
+      "why": "쿠팡 동일인 지정자료의 진실성과 총수 책임을 다루는 중대한 공정거래 절차다.",
+      "angle": "고발 확정이 아니라 심사관 의견과 위원회 심의 단계임을 분리한다.",
+      "why_now": "공정위 사무처가 심사보고서를 보내고 위원회 심의 절차에 들어갔다.",
+      "verified_at": 1794913324,
+      "published_at": 1794912480,
       "evidence": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850221",
-          "note": "크렘린 대변인 드미트리 페스코프는 푸틴 대통령이 APEC 기간 이재명 대통령을 어떤 방식으로든 만날 것이며 짧은 대화가 가능하다고 밝혔다."
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850483",
+          "note": "공정위 심사관은 쿠팡 법인과 김범석 의장을 지정자료 허위 제출 혐의로 고발해야 한다는 의견을 심사보고서에 담아 심의에 넘겼다."
         }
       ],
       "materials": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850221",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850483",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "정식 양자회담의 형식과 의제는 확정되지 않았다.",
+      "caution": "최종 고발 여부는 공정위 위원회 심의 뒤 결정된다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-17",
-        "observation": "크렘린 대변인 드미트리 페스코프는 푸틴 대통령이 APEC 기간 이재명 대통령을 어떤 방식으로든 만날 것이며 짧은 대화가 가능하다고 밝혔다.",
+        "observation": "공정위 심사관은 쿠팡 법인과 김범석 의장을 지정자료 허위 제출 혐의로 고발해야 한다는 의견을 심사보고서에 담아 심의에 넘겼다.",
         "checked_materials": [],
         "outline": [
           "확정된 새 사실과 최초 공개 시각을 먼저 제시",
-          "핵심 수치와 의미, 확인 한계를 정리"
+          "핵심 의미와 확인 한계를 정리"
         ]
       }
     },
     {
-      "title": "중국, 트럼프의 ‘중국 내 북미회담’ 발언에 “정보 없다”",
+      "title": "이란, 바레인 미군 레이더 기지 또 공격…방공망이 요격",
       "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850230",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850475",
       "source": "SBS",
       "kind": "article",
-      "event_key": "china-no-information-trump-kim-apec-meeting-20261117",
-      "why": "트럼프의 북미 정상 접촉 가능성 발언에 중국 정부가 낸 첫 공식 반응이다.",
-      "angle": "기존 트럼프 발언을 반복하지 않고 중국 외교부의 새 확인 범위에 초점을 둔다.",
-      "why_now": "중국 외교부가 초청·방문 관련 정보가 없다고 공식 답했다.",
-      "verified_at": 1794902858,
-      "published_at": 1794902100,
+      "event_key": "iran-attacks-us-radar-base-bahrain-intercepted-20261117",
+      "why": "외교 교착 중 중동 미군 핵심 거점을 겨냥한 연속 공격으로 확전 위험이 커졌다.",
+      "angle": "이란의 공격 발표와 바레인의 요격 확인을 함께 전한다.",
+      "why_now": "바레인이 17일 이란의 공중 공격을 요격했다고 새로 밝혔다.",
+      "verified_at": 1794913324,
+      "published_at": 1794912240,
       "evidence": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850230",
-          "note": "중국 외교부는 트럼프 대통령이 언급한 중국 내 북미 정상 만남과 관련해 북한 측 초청이나 방중에 관해 제공할 정보가 없다고 밝혔다."
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850475",
+          "note": "바레인 당국은 이란의 공중 공격을 요격했다고 밝혔고, 이란 혁명수비대는 무인기로 미군 레이더 시스템을 겨냥했다고 발표했다."
         }
       ],
       "materials": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850230",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850475",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "회담 불발을 확정한 발언은 아니며 중국 정부가 가진 정보의 범위만 확인됐다.",
+      "caution": "공격 성과에 관한 세부 주장은 양측 발표를 구분해야 한다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-17",
-        "observation": "중국 외교부는 트럼프 대통령이 언급한 중국 내 북미 정상 만남과 관련해 북한 측 초청이나 방중에 관해 제공할 정보가 없다고 밝혔다.",
+        "observation": "바레인 당국은 이란의 공중 공격을 요격했다고 밝혔고, 이란 혁명수비대는 무인기로 미군 레이더 시스템을 겨냥했다고 발표했다.",
         "checked_materials": [],
         "outline": [
           "확정된 새 사실과 최초 공개 시각을 먼저 제시",
-          "핵심 수치와 의미, 확인 한계를 정리"
+          "핵심 의미와 확인 한계를 정리"
         ]
       }
     },
     {
-      "title": "CNN “미 정보당국, 이란의 워싱턴 더티밤 모의 정황 포착”",
+      "title": "이란 혁명수비대 “호르무즈서 유조선·가스선 기뢰 폭발”",
       "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850184",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850474",
       "source": "SBS",
       "kind": "article",
-      "event_key": "cnn-us-intelligence-iran-dirty-bomb-plot-report-20261117",
-      "why": "미국 수도를 겨냥한 방사능·화학 공격 모의 정황이라는 중대한 안보 보도다.",
-      "angle": "정보당국 판단과 백악관의 상반된 위험 평가를 함께 제시한다.",
-      "why_now": "CNN이 복수의 미국 당국자를 인용해 새 정보 판단을 보도했다.",
-      "verified_at": 1794902858,
-      "published_at": 1794900840,
+      "event_key": "irgc-claims-two-ships-mine-explosions-hormuz-20261117",
+      "why": "세계 핵심 원유 수송로에서 대형 선박 두 척이 폭발했다는 중대한 공급망·안보 주장이다.",
+      "angle": "선박 피해 규모와 미군 호위 주장을 혁명수비대 발표로 명시한다.",
+      "why_now": "혁명수비대가 17일 선박 두 척의 기뢰 접촉·폭발을 새로 발표했다.",
+      "verified_at": 1794913324,
+      "published_at": 1794912060,
       "evidence": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850184",
-          "note": "CNN은 복수의 미국 당국자를 인용해 이란 연계 세력이 워싱턴에서 더티밤이나 화학 공격을 모의한 정황을 미 정보당국이 포착했다고 보도했다."
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850474",
+          "note": "이란 혁명수비대는 호르무즈 해협에서 원유 200만 배럴 이상을 실은 유조선과 액화가스 운반선이 기뢰에 접촉해 폭발했다고 주장했다."
         }
       ],
       "materials": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850184",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850474",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "CNN 보도에 따른 주장으로, 실행 능력과 의도는 논쟁 중이며 백악관은 본토에 신뢰할 만한 위협이 없다고 밝혔다.",
+      "caution": "독립 확인 전인 이란 혁명수비대의 주장이다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-17",
-        "observation": "CNN은 복수의 미국 당국자를 인용해 이란 연계 세력이 워싱턴에서 더티밤이나 화학 공격을 모의한 정황을 미 정보당국이 포착했다고 보도했다.",
+        "observation": "이란 혁명수비대는 호르무즈 해협에서 원유 200만 배럴 이상을 실은 유조선과 액화가스 운반선이 기뢰에 접촉해 폭발했다고 주장했다.",
         "checked_materials": [],
         "outline": [
           "확정된 새 사실과 최초 공개 시각을 먼저 제시",
-          "핵심 수치와 의미, 확인 한계를 정리"
+          "핵심 의미와 확인 한계를 정리"
         ]
       }
     },
     {
-      "title": "성착취 피해 청소년, 수사 중에도 전문기관 즉시 연계 추진",
-      "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849984",
+      "title": "삼성 선수단, 우승 공약 지키러 에버랜드서 팬들과 카퍼레이드",
+      "category": "메이저 스포츠",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849851",
       "source": "SBS",
       "kind": "article",
-      "event_key": "korea-youth-sexual-exploitation-immediate-support-referral-reform-20261117",
-      "why": "피해 청소년이 수사 단계에서 지원망 밖에 놓이는 공백을 메우는 제도 후속이다.",
-      "angle": "사건 재서술보다 수사기관의 즉시 연계 절차 신설에 초점을 둔다.",
-      "why_now": "정부가 성착취 피해 청소년을 전문기관에 즉시 연결하는 개선안을 추진한다고 밝혔다.",
-      "verified_at": 1794902858,
-      "published_at": 1794896400,
+      "event_key": "samsung-lions-everland-championship-promise-fan-event-20261117",
+      "why": "우승 뒤 선수가 내건 약속을 실제 행동과 팬 현장으로 이어간 시각 자료가 있다.",
+      "angle": "강민호의 3월 우승 공약이 선수단·팬 행사로 실현된 장면에 초점을 둔다.",
+      "why_now": "삼성 선수단이 17일 에버랜드에서 카퍼레이드와 팬미팅을 진행했다.",
+      "verified_at": 1794913324,
+      "published_at": 1794911580,
       "evidence": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849984",
-          "note": "정부는 성착취 피해 청소년을 수사 단계에서 곧바로 전문 지원기관에 연계하도록 관계기관 절차를 개선하는 방안을 추진한다고 밝혔다."
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849851",
+          "note": "삼성 라이온즈 선수들은 강민호가 3월 내건 우승 공약을 지키기 위해 에버랜드에서 팬들과 카퍼레이드·팬미팅·놀이기구 행사를 했다."
         }
       ],
       "materials": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849984",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849851",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "구체 시행 시기와 최종 절차는 아직 확정되지 않았다.",
+      "caution": "",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-17",
-        "observation": "정부는 성착취 피해 청소년을 수사 단계에서 곧바로 전문 지원기관에 연계하도록 관계기관 절차를 개선하는 방안을 추진한다고 밝혔다.",
+        "observation": "삼성 라이온즈 선수들은 강민호가 3월 내건 우승 공약을 지키기 위해 에버랜드에서 팬들과 카퍼레이드·팬미팅·놀이기구 행사를 했다.",
         "checked_materials": [],
         "outline": [
           "확정된 새 사실과 최초 공개 시각을 먼저 제시",
-          "핵심 수치와 의미, 확인 한계를 정리"
+          "핵심 의미와 확인 한계를 정리"
         ]
       }
     },
     {
-      "title": "조국, 일본 하네다공항서 입국 거부…구체 사유는 미공개",
+      "title": "여당 교육특위 위원장, ‘수험생이 AI커닝 신고’ 발언 뒤 번복",
       "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849965",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850457",
       "source": "SBS",
       "kind": "article",
-      "event_key": "cho-kuk-japan-entry-denied-haneda-20261117",
-      "why": "한국 주요 정치인의 일본 입국 거부라는 이례적 외교·정치 사건이다.",
-      "angle": "확인된 입국 거부와 당 측의 독도 관련 추정을 명확히 분리한다.",
-      "why_now": "하네다공항에서 실제 입국 거부가 발생하고 당이 공개 입장을 냈다.",
-      "verified_at": 1794902858,
-      "published_at": 1794896040,
+      "event_key": "kim-moonsu-ai-cheating-student-monitoring-remark-reversal-20261117",
+      "why": "수능을 앞두고 AI 부정행위 대책 책임을 학생에게 넘긴다는 논란과 즉각 번복이 발생했다.",
+      "angle": "처음 발언과 오후의 입장 변경을 시간순으로 보여준다.",
+      "why_now": "당사자가 라디오 발언 뒤 같은 날 ‘상호 감시는 잘못’이라며 입장을 바꿨다.",
+      "verified_at": 1794913324,
+      "published_at": 1794910140,
       "evidence": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849965",
-          "note": "조국 조국혁신당 대표는 일본 하네다공항에서 입국이 거부돼 귀국했으며 일본 측은 상륙 거부 관련 법 조항을 제시했지만 구체 사유는 밝히지 않았다."
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850457",
+          "note": "민주당 교육특위 김문수 위원장은 수험생 상호 감수와 신고를 언급했다가 비판이 일자 수험생 상호 감시는 잘못이며 교육 당국 책임이라고 번복했다."
         }
       ],
       "materials": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849965",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850457",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "당이 제기한 독도 활동 연관성은 확인되지 않은 추정이다.",
+      "caution": "영구 응시 제한 등은 준비 중인 법안 구상이지 시행 확정이 아니다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-17",
-        "observation": "조국 조국혁신당 대표는 일본 하네다공항에서 입국이 거부돼 귀국했으며 일본 측은 상륙 거부 관련 법 조항을 제시했지만 구체 사유는 밝히지 않았다.",
+        "observation": "민주당 교육특위 김문수 위원장은 수험생 상호 감수와 신고를 언급했다가 비판이 일자 수험생 상호 감시는 잘못이며 교육 당국 책임이라고 번복했다.",
         "checked_materials": [],
         "outline": [
           "확정된 새 사실과 최초 공개 시각을 먼저 제시",
-          "핵심 수치와 의미, 확인 한계를 정리"
+          "핵심 의미와 확인 한계를 정리"
         ]
       }
     },
     {
-      "title": "IMF, 한국 올해 성장률 3.9% 전망…한 달 새 0.6%p 상향",
+      "title": "지인끼리 필로폰 사고판 86명 검거…29명 구속",
       "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849803",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850351",
       "source": "SBS",
       "kind": "article",
-      "event_key": "imf-korea-2026-growth-forecast-3point9-20261117",
-      "why": "국제기구가 한국 경제 성장 전망을 큰 폭으로 조정한 핵심 거시경제 지표다.",
-      "angle": "상향 폭과 내년 전망, 물가·긴축 권고를 함께 정리한다.",
-      "why_now": "IMF가 한국 연례협의 결과를 공개하며 올해 전망을 새로 제시했다.",
-      "verified_at": 1794902858,
-      "published_at": 1794892740,
+      "event_key": "seoul-police-face-to-face-meth-network-86-arrests-20261117",
+      "why": "온라인이 아닌 연인·친구·선후배 관계로 퍼진 대면 마약 거래망 수사 결과다.",
+      "angle": "86명 검거와 초범 비중, 지인 권유 경로를 함께 보여준다.",
+      "why_now": "경찰이 1년 10개월 추적한 전국 대면 거래망 수사 결과를 공개했다.",
+      "verified_at": 1794913324,
+      "published_at": 1794905880,
       "evidence": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849803",
-          "note": "IMF는 한국의 2026년 성장률 전망을 한 달 전보다 0.6%포인트 높은 3.9%로 올리고 2027년은 3.3%로 전망했다."
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850351",
+          "note": "서울경찰청은 지인 사이에 필로폰을 판매·무상 제공하거나 투약한 86명을 입건하고 29명을 구속했다고 밝혔다."
         }
       ],
       "materials": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849803",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850351",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "전망치는 확정 실적이 아니며 IMF는 물가가 목표를 웃돌 수 있다고 경고했다.",
+      "caution": "수사기관 발표 기준이며 개별 혐의는 재판에서 확정된다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-17",
-        "observation": "IMF는 한국의 2026년 성장률 전망을 한 달 전보다 0.6%포인트 높은 3.9%로 올리고 2027년은 3.3%로 전망했다.",
+        "observation": "서울경찰청은 지인 사이에 필로폰을 판매·무상 제공하거나 투약한 86명을 입건하고 29명을 구속했다고 밝혔다.",
         "checked_materials": [],
         "outline": [
           "확정된 새 사실과 최초 공개 시각을 먼저 제시",
-          "핵심 수치와 의미, 확인 한계를 정리"
+          "핵심 의미와 확인 한계를 정리"
         ]
       }
     },
     {
-      "title": "중고거래 사기 148억원…경찰, 131명 검거·26명 구속",
+      "title": "미 정부, ‘젠슨 황 추문’ 메가스피드 반도체 밀반출 수사 공식 확인",
       "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849746",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850342",
       "source": "SBS",
       "kind": "article",
-      "event_key": "busan-police-148billion-won-online-goods-scam-131-arrests-20261117",
-      "why": "피해자 4천700명 규모의 조직적 온라인 거래 사기 수사 결과다.",
-      "angle": "피해 규모와 두 조직의 허위 사업자·자금세탁 수법을 숫자로 보여준다.",
-      "why_now": "경찰이 장기 수사를 마치고 검거·구속 규모를 공개했다.",
-      "verified_at": 1794902858,
-      "published_at": 1794891840,
+      "event_key": "us-confirms-megaspeed-chip-smuggling-investigation-20261117",
+      "why": "미국 정부가 첨단 반도체의 중국 밀반출 의혹에 대한 장기 수사를 처음 공식 확인했다.",
+      "angle": "개인 추문보다 상무부·법무부 공동성명의 수출통제 수사 사실에 초점을 둔다.",
+      "why_now": "미 상무부와 법무부가 2024년부터의 조사와 현장 단속 경위를 공동성명으로 공개했다.",
+      "verified_at": 1794913324,
+      "published_at": 1794904920,
       "evidence": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849746",
-          "note": "부산경찰청은 중고거래와 온라인 쇼핑몰에서 약 4천700명에게 148억원을 가로챈 두 조직 관련자 131명을 검거하고 26명을 구속했다고 밝혔다."
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850342",
+          "note": "미 상무부와 법무부는 메가스피드의 반도체 불법 밀반출 의혹을 2024년부터 조사했고 2025년 싱가포르에서 현장 단속했다고 밝혔다."
         }
       ],
       "materials": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849746",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850342",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "수사기관 발표 기준이며 개별 피의자의 혐의는 재판에서 확정된다.",
+      "caution": "밀반출 의혹과 정보기관 연계 보도는 아직 확정 판결이 아니다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-17",
-        "observation": "부산경찰청은 중고거래와 온라인 쇼핑몰에서 약 4천700명에게 148억원을 가로챈 두 조직 관련자 131명을 검거하고 26명을 구속했다고 밝혔다.",
+        "observation": "미 상무부와 법무부는 메가스피드의 반도체 불법 밀반출 의혹을 2024년부터 조사했고 2025년 싱가포르에서 현장 단속했다고 밝혔다.",
         "checked_materials": [],
         "outline": [
           "확정된 새 사실과 최초 공개 시각을 먼저 제시",
-          "핵심 수치와 의미, 확인 한계를 정리"
+          "핵심 의미와 확인 한계를 정리"
         ]
       }
     },
     {
-      "title": "발달장애 아동 잇단 사망…충남도 4천22가구 전수조사",
+      "title": "수용자 영치금 400만원 제한법, 법사소위 통과",
       "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849784",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850456",
       "source": "SBS",
       "kind": "article",
-      "event_key": "chungnam-disabled-children-deaths-4022-family-care-audit-20261117",
-      "why": "돌봄 공백 속 장애 아동 사망 뒤 광역지자체가 전 가구 위험 점검에 나선 후속이다.",
-      "angle": "4천22가구 조사와 단기보호·24시간 돌봄 보완책을 함께 전한다.",
-      "why_now": "충남도가 두 사망 사건 뒤 전수조사와 긴급 지원책을 발표했다.",
-      "verified_at": 1794902858,
-      "published_at": 1794892200,
+      "event_key": "korea-prison-deposit-4million-cap-subcommittee-passage-20261117",
+      "why": "수십억원 영치금 논란 뒤 수용자 계좌와 추가 입금을 법률로 제한하는 제도 변화다.",
+      "angle": "정치 공방보다 400만원 한도와 예외·시행일을 구체적으로 전한다.",
+      "why_now": "법사위 법안심사소위가 17일 개정안을 의결했다.",
+      "verified_at": 1794913324,
+      "published_at": 1794909780,
       "evidence": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849784",
-          "note": "충남도는 발달장애 아동 사망 사건이 잇따르자 도내 장애아동 양육 4천22가구를 전수조사하고 위험 가구 개입과 단기 보호·24시간 돌봄을 강화하겠다고 밝혔다."
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850456",
+          "note": "국회 법사위 법안심사소위는 수용자 영치금 한도를 1인당 400만원으로 두고 초과 시 추가 입금을 제한하는 개정안을 의결했다."
         }
       ],
       "materials": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849784",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850456",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "개별 사망 사건의 구체 인과는 수사·조사 결과와 구분한다.",
+      "caution": "소위 통과 단계이며 본회의 의결 전이다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-17",
-        "observation": "충남도는 발달장애 아동 사망 사건이 잇따르자 도내 장애아동 양육 4천22가구를 전수조사하고 위험 가구 개입과 단기 보호·24시간 돌봄을 강화하겠다고 밝혔다.",
+        "observation": "국회 법사위 법안심사소위는 수용자 영치금 한도를 1인당 400만원으로 두고 초과 시 추가 입금을 제한하는 개정안을 의결했다.",
         "checked_materials": [],
         "outline": [
           "확정된 새 사실과 최초 공개 시각을 먼저 제시",
-          "핵심 수치와 의미, 확인 한계를 정리"
+          "핵심 의미와 확인 한계를 정리"
         ]
       }
     },
     {
-      "title": "‘조작기소 특검법’ 국무회의 통과…최대 309명·200일 수사",
-      "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850203",
+      "title": "손흥민까지 달라졌다…사우디전 패배 뒤 대표팀 현장 변화",
+      "category": "축구",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849114",
       "source": "SBS",
       "kind": "article",
-      "event_key": "korea-manipulated-prosecution-special-counsel-law-cabinet-20261117",
-      "why": "대규모 인력과 장기 수사권을 둔 특별검사 제도가 국무회의를 통과한 정치·사법 변화다.",
-      "angle": "확정된 법안 규모와 실제 운영상 쟁점을 구분한다.",
-      "why_now": "국무회의가 특검법을 의결해 시행 절차가 한 단계 진행됐다.",
-      "verified_at": 1794902858,
-      "published_at": 1794901200,
+      "event_key": "son-heungmin-korea-team-change-after-saudi-loss-20261117",
+      "why": "한국 팬에게 익숙한 손흥민과 대표팀이 패배 뒤 보인 구체적 변화와 운영 불확실성을 현장에서 짚었다.",
+      "angle": "단합 구호가 아니라 패배 뒤 손흥민의 행동 변화와 전후반 격차·감독 계약 문제를 분리한다.",
+      "why_now": "카타르전을 앞둔 현지 취재에서 대표팀 변화와 남은 과제가 새로 공개됐다.",
+      "verified_at": 1794913324,
+      "published_at": 1794903420,
       "evidence": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850203",
-          "note": "국무회의는 이른바 조작기소 의혹 특별검사법을 의결했으며 수사팀은 최대 309명, 수사 기간은 최장 200일이고 12개 분야를 대상으로 한다."
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849114",
+          "note": "SBS 현지 취재는 사우디전 2대3 패배 뒤 손흥민을 포함한 대표팀 분위기가 달라졌지만 활용법과 경기력 차이, 임시 감독 계약 문제가 남았다고 전했다."
         }
       ],
       "materials": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850203",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849114",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "기사의 인력·증거 확보 난점은 전망이며 수사 결과가 확정된 것은 아니다.",
+      "caution": "평가와 전망이 포함된 현장 분석이며 감독 선임은 확정되지 않았다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-17",
-        "observation": "국무회의는 이른바 조작기소 의혹 특별검사법을 의결했으며 수사팀은 최대 309명, 수사 기간은 최장 200일이고 12개 분야를 대상으로 한다.",
+        "observation": "SBS 현지 취재는 사우디전 2대3 패배 뒤 손흥민을 포함한 대표팀 분위기가 달라졌지만 활용법과 경기력 차이, 임시 감독 계약 문제가 남았다고 전했다.",
         "checked_materials": [],
         "outline": [
           "확정된 새 사실과 최초 공개 시각을 먼저 제시",
-          "핵심 수치와 의미, 확인 한계를 정리"
+          "핵심 의미와 확인 한계를 정리"
         ]
       }
     },
     {
-      "title": "마트노조 “홈플러스 임금 3개월 체불…67개 점포 할인 우려”",
+      "title": "미, 중국의 해외 AI 데이터센터 원격 접속 차단 규정 시행",
       "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850172",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850290",
       "source": "SBS",
       "kind": "article",
-      "event_key": "homeplus-wage-arrears-67-store-discount-union-warning-20261117",
-      "why": "대형 유통사의 임금 체불 주장과 67개 점포 할인 운영이 고용 불안으로 번진 사안이다.",
-      "angle": "확인된 할인 행사와 노조의 체불·폐점 우려 주장을 분리한다.",
-      "why_now": "노조가 3개월 체불을 공개 주장하고 대규모 점포 할인이 시작됐다.",
-      "verified_at": 1794902858,
-      "published_at": 1794900060,
+      "event_key": "us-blocks-china-remote-access-foreign-ai-datacenters-20261117",
+      "why": "첨단 AI 반도체의 제3국 우회 사용을 막는 새 수출통제 규정으로 산업 파급이 크다.",
+      "angle": "중국 기업의 원격 연산 접근 허가제와 동남아·브라질 칩 수출 허가를 함께 정리한다.",
+      "why_now": "미 상무부 산업안보국이 새 원격 연산 통제 규정을 공식 발표했다.",
+      "verified_at": 1794913324,
+      "published_at": 1794903180,
       "evidence": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850172",
-          "note": "마트산업노조는 홈플러스 노동자 임금이 3개월째 체불됐다고 주장했고 회사는 67개 점포에서 대규모 할인 행사를 진행하고 있다."
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850290",
+          "note": "미 상무부는 안보우려국 기업이 해외 데이터센터에서 미국산 첨단 AI 연산을 쓰려면 허가받도록 하고 5개국 칩 수출도 사전 허가 대상으로 뒀다."
         }
       ],
       "materials": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850172",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850290",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "임금 체불과 추가 폐점 우려는 노조 주장으로 회사의 최종 입장과 사실 확인이 더 필요하다.",
+      "caution": "중국 정부는 부당한 탄압이라고 반발했으며 규정 효과는 아직 확인되지 않았다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-17",
-        "observation": "마트산업노조는 홈플러스 노동자 임금이 3개월째 체불됐다고 주장했고 회사는 67개 점포에서 대규모 할인 행사를 진행하고 있다.",
+        "observation": "미 상무부는 안보우려국 기업이 해외 데이터센터에서 미국산 첨단 AI 연산을 쓰려면 허가받도록 하고 5개국 칩 수출도 사전 허가 대상으로 뒀다.",
         "checked_materials": [],
         "outline": [
           "확정된 새 사실과 최초 공개 시각을 먼저 제시",
-          "핵심 수치와 의미, 확인 한계를 정리"
+          "핵심 의미와 확인 한계를 정리"
         ]
       }
     }
