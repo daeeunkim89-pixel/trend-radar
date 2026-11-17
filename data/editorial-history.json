@@ -2,72 +2,6 @@
   "version": 1,
   "editions": [
     {
-      "hour_utc": "2026111001",
-      "at": 1794275318,
-      "delivery": "sent",
-      "delivery_key": "hourly-2026111001",
-      "picks": [
-        {
-          "title": "부동산 감정사가 FA컵 결승골…양승우, 7부 팀의 첫 2라운드 이끌었다",
-          "url": "https://www.yna.co.kr/view/AKR20261109121000007",
-          "event_key": "yang-seung-woo-wimborne-crawley-fa-cup-first-second-round-20261109"
-        },
-        {
-          "title": "메시, FIFPRO 월드 베스트11 통산 18회…발롱도르 케인은 제외",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838255",
-          "event_key": "messi-fifpro-world11-eighteenth-selection-kane-omitted-20261110"
-        },
-        {
-          "title": "18점 앞서던 청두, 막판 4연패로 우승 놓쳤다…다롄 역전 우승",
-          "url": "https://sports.khan.co.kr/article/202611091126003",
-          "event_key": "chengdu-four-final-losses-dalian-csl-comeback-title-20261108"
-        },
-        {
-          "title": "공화당 의원이 美 국방장관 탄핵안 재발의…이번 주 표결 전망",
-          "url": "https://www.ytn.co.kr/_ln/0104_202611100613342518",
-          "event_key": "massie-hegseth-eight-articles-impeachment-refiled-20261109"
-        },
-        {
-          "title": "뉴욕증시 급등 속 엔비디아만 4%대 하락…AMD는 10% 넘게 상승",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838119",
-          "event_key": "nvidia-falls-over4-market-rally-amd-over10-session-20261109"
-        }
-      ]
-    },
-    {
-      "hour_utc": "2026111002",
-      "at": 1794276588,
-      "delivery": "sent",
-      "delivery_key": "hourly-2026111002",
-      "picks": [
-        {
-          "title": "9개월 만에 러·우 3자협상 재개…영토·유럽 참여 놓고 간극",
-          "url": "https://www.reuters.com/world/europe/russia-ukraine-meet-us-backed-talks-after-trump-says-broad-deal-possible-2026-11-10/",
-          "event_key": "russia-ukraine-abu-dhabi-talks-opened-first-since-february-20261110"
-        },
-        {
-          "title": "중국, 희토류 수출통제 유예 2개월 연장…미·중 협상 숨통",
-          "url": "https://www.investing.com/news/commodities-news/china-extends-suspension-of-new-rare-earth-controls-until-january-5010878",
-          "event_key": "china-rare-earth-export-control-waiver-extended-january10-20261109"
-        },
-        {
-          "title": "러 독립언론 노바야 가제타, 30년 만에 모스크바 사무실 폐쇄",
-          "url": "https://theprint.in/world/lights-go-out-at-russias-novaya-gazeta-after-years-of-defiant-reporting/3094307/",
-          "event_key": "novaya-gazeta-moscow-office-operations-closed-state-pressure-20261109"
-        },
-        {
-          "title": "러셀 브랜드, 강간·성추행 유죄로 징역 10년 6개월",
-          "url": "https://www.streetinsider.com/Reuters/UK%27s%2BRussell%2BBrand%2Bsentenced%2Bto%2B10-and-a-half%2Byears%2Bin%2Bjail%2Bfor%2Brape%2C%2Bsexual%2Bassault/27310045.html",
-          "event_key": "russell-brand-sentenced-ten-years-six-months-rape-assault-20261109"
-        },
-        {
-          "title": "이란, 협상 재개 2일 제안 고수…미국은 선결조건 거부",
-          "url": "https://www.streetinsider.com/Reuters/Iran%2Bdefends%2Btwo-day%2Bproposal%2Bfor%2Bpeace%2Btalks%2Bafter%2BUS%2Brejects%2Bconditions/27309958.html",
-          "event_key": "iran-two-day-peace-talks-offer-us-rejects-preconditions-20261109"
-        }
-      ]
-    },
-    {
       "hour_utc": "2026111009",
       "at": 1794301555,
       "delivery": "sent",
@@ -1431,6 +1365,134 @@
           "why": "아프리카 강호 두 팀이 본선 진출 경쟁의 결정적 고비를 넘긴 확정 결과다.",
           "angle": "세네갈 4대2, 카메룬 3대0 결과와 남은 확정 조건을 분리한다.",
           "why_now": "두 경기 결과가 확정돼 조별 판도가 바뀌었다."
+        }
+      ]
+    },
+    {
+      "hour_utc": "2026111702",
+      "at": 1794881461,
+      "delivery": "sent",
+      "delivery_key": "hourly-2026111702",
+      "picks": [
+        {
+          "title": "러 군용기 여러 대 동해 KADIZ 진입…공군 전투기 대응",
+          "url": "https://newspim.com/news/view/20261117000154",
+          "event_key": "russian-military-aircraft-east-sea-kadiz-rokaf-response-20261117",
+          "category": "시사",
+          "rank": 1,
+          "published_at": 1794872460,
+          "source": "뉴스핌",
+          "why": "한국 안보와 직결된 새벽 군사 상황이며 공군이 실제 전술조치에 나섰다.",
+          "angle": "영공 침범은 없었다는 점과 올해 세 번째 확인 사례를 함께 전한다.",
+          "why_now": "합참 발표가 공개된 직후다."
+        },
+        {
+          "title": "삼성 AI안경, LED 가리면 카메라 자동 차단…16종 사전예약 품절",
+          "url": "https://newspim.com/news/view/20261117000344",
+          "event_key": "samsung-ai-glasses-camera-indicator-tamper-block-sold-out-20261117",
+          "category": "시사",
+          "rank": 2,
+          "published_at": 1794877920,
+          "source": "뉴스핌",
+          "why": "AI 안경의 몰래촬영 우려에 대응한 구체적 설계와 초기 시장 반응이 함께 확인됐다.",
+          "angle": "표시등 조작 감지·착용 해제 자동 종료·사전예약 품절을 한 장면으로 묶는다.",
+          "why_now": "제품 안전장치와 국내 판매 현황이 새로 공개됐다."
+        },
+        {
+          "title": "한국 OLED, 중국 제치고 2년 만에 출하량 1위 탈환",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849330",
+          "event_key": "korea-oled-shipment-share-retakes-global-number-one-2026h1",
+          "category": "시사",
+          "rank": 3,
+          "published_at": 1794878820,
+          "source": "SBS",
+          "why": "한국 디스플레이 산업이 출하량과 매출 점유율에서 동시에 반등한 구조적 변화다.",
+          "angle": "출하량 50.1% 대 49.8%, 매출 점유율 68.3%를 시각화한다.",
+          "why_now": "산업협회 상반기 통계가 공개됐다."
+        },
+        {
+          "title": "500대 기업 3분기 영업이익 239조…삼성·SK하이닉스가 80%",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849232",
+          "event_key": "korea-top500-q3-operating-profit-semiconductors-concentration-2026",
+          "category": "시사",
+          "rank": 4,
+          "published_at": 1794879000,
+          "source": "SBS",
+          "why": "한국 대기업 이익 증가가 반도체 두 회사에 극도로 집중된 산업 구조를 보여준다.",
+          "angle": "전체 증가율과 두 회사 제외 시 1.7% 증가라는 대비를 전면에 둔다.",
+          "why_now": "3분기 실적 집계가 공개됐다."
+        },
+        {
+          "title": "수능 스마트기기 전면 수거…안경·시계·옷깃까지 점검",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849395",
+          "event_key": "korea-csat-smart-device-total-collection-inspection-20261119",
+          "category": "시사",
+          "rank": 5,
+          "published_at": 1794880200,
+          "source": "SBS",
+          "why": "AI 부정행위 파장 뒤 수능 현장에서 즉시 적용될 구체적 전국 조치다.",
+          "angle": "스마트기기 수거와 감독관 추가 배치, 착용물 점검 범위를 명확히 보여준다.",
+          "why_now": "정부가 모레 시험 적용 방안을 발표했다."
+        },
+        {
+          "title": "뉴질랜드, 데스 버킹엄 감독 선임…2030 월드컵까지 맡긴다",
+          "url": "https://www.reuters.com/sports/soccer/buckingham-appointed-new-zealand-coach-through-2030-world-cup-2026-11-17/",
+          "event_key": "des-buckingham-new-zealand-coach-through-2030-world-cup-20261117",
+          "category": "축구",
+          "rank": 6,
+          "published_at": 1794878940,
+          "source": "Reuters",
+          "why": "월드컵 본선 이후 대표팀이 2030년까지의 장기 사령탑을 확정한 축구 인사다.",
+          "angle": "성인 대표팀과 23세 이하 대표팀을 함께 맡는 이중 역할을 설명한다.",
+          "why_now": "뉴질랜드축구협회가 선임과 계약 범위를 발표했다."
+        },
+        {
+          "title": "NASCAR 컵 시청자 역대 최저…11억달러 중계권 2년 차에 2% 감소",
+          "url": "https://www.reuters.com/sports/nascar-cup-series-sees-record-low-viewership-26--flm-2026-11-17/",
+          "event_key": "nascar-cup-2026-record-low-viewership-media-rights",
+          "category": "메이저 스포츠",
+          "rank": 7,
+          "published_at": 1794879360,
+          "source": "Reuters",
+          "why": "미국 대표 모터스포츠의 시즌 시청 규모가 역대 최저로 떨어진 산업 변화다.",
+          "angle": "전체 평균과 챔피언십 시청자 감소, 젊은층 반등을 함께 비교한다.",
+          "why_now": "2026시즌 전체 집계가 공개됐다."
+        },
+        {
+          "title": "디섐보, 고향에 첫 골프장 설계…450에이커 복합개발 공개",
+          "url": "https://www.reuters.com/sports/golf/bryson-dechambeau-reveals-first-golf-course-design-amid-uncertain-future--flm-2026-11-17/",
+          "event_key": "bryson-dechambeau-first-golf-course-design-clovis-20261117",
+          "category": "메이저 스포츠",
+          "rank": 8,
+          "published_at": 1794877680,
+          "source": "Reuters",
+          "why": "세계적 골프 스타가 선수 활동 밖에서 처음 공개한 구체적 새 프로젝트다.",
+          "angle": "고향 농장 부지와 홀마다 다른 과수 설계, 유소년 접근 프로그램을 보여준다.",
+          "why_now": "첫 설계 사업 계획이 공개됐다."
+        },
+        {
+          "title": "러시아, 키이우 남·북 교량 타격…일부 지역 전력·수도 끊겨",
+          "url": "https://www.reuters.com/world/kyiv-mayor-klitschko-says-russian-forces-struck-two-bridges-across-dnipro-river-2026-11-16/",
+          "event_key": "russian-strikes-kyiv-north-south-bridges-power-water-cuts-20261116",
+          "category": "시사",
+          "rank": 9,
+          "published_at": 1794866700,
+          "source": "Reuters",
+          "why": "수도 핵심 교량과 기반시설이 동시에 타격받아 전쟁의 도시 기능 위험이 커졌다.",
+          "angle": "시장 발표와 현장 폭발 확인, 독립 확인 한계를 분리해 전한다.",
+          "why_now": "야간 공격 뒤 피해 상황이 공개됐다."
+        },
+        {
+          "title": "트럼프 첫 쿼드 정상회의…중·러 회담 앞두고 마닐라 집결",
+          "url": "https://www.reuters.com/world/china/trump-kick-off-asia-trip-with-quad-talks-manila-ahead-china-visit-2026-11-17/",
+          "event_key": "trump-first-quad-leaders-meeting-manila-asia-trip-20261117",
+          "category": "시사",
+          "rank": 10,
+          "published_at": 1794878760,
+          "source": "Reuters",
+          "why": "한국이 참여하는 동아시아 정상외교 일정과 미중러 구도에 직접 연결되는 회의다.",
+          "angle": "쿼드 재가동과 이어지는 APEC·미중러 정상 일정의 순서를 보여준다.",
+          "why_now": "트럼프의 마닐라 도착과 첫 쿼드 참석 일정이 확인됐다."
         }
       ]
     }
