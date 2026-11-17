@@ -1,5 +1,5 @@
 {
-  "updated_at": 1794903038,
+  "updated_at": 1794913518,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,65 +15,65 @@
     "requested_stories": 10,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026111708",
+    "hour_utc": "2026111711",
     "category_counts": {
-      "시사": 10,
-      "축구": 0,
-      "메이저 스포츠": 0,
+      "시사": 8,
+      "축구": 1,
+      "메이저 스포츠": 1,
       "아이돌": 0
     },
-    "research_queries": 8,
-    "opened_sources": 14,
+    "research_queries": 6,
+    "opened_sources": 12,
     "picks": [
       {
-        "title": "크렘린 “푸틴, APEC서 이재명 대통령 만날 것”",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850221",
-        "event_key": "putin-lee-jae-myung-apec-meeting-kremlin-20261117"
+        "title": "공정위 심사관, ‘지정자료 허위 제출’ 쿠팡·김범석 고발 의견",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850483",
+        "event_key": "korea-ftc-examiner-coupang-kim-bomseok-false-designation-data-20261117"
       },
       {
-        "title": "중국, 트럼프의 ‘중국 내 북미회담’ 발언에 “정보 없다”",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850230",
-        "event_key": "china-no-information-trump-kim-apec-meeting-20261117"
+        "title": "이란, 바레인 미군 레이더 기지 또 공격…방공망이 요격",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850475",
+        "event_key": "iran-attacks-us-radar-base-bahrain-intercepted-20261117"
       },
       {
-        "title": "CNN “미 정보당국, 이란의 워싱턴 더티밤 모의 정황 포착”",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850184",
-        "event_key": "cnn-us-intelligence-iran-dirty-bomb-plot-report-20261117"
+        "title": "이란 혁명수비대 “호르무즈서 유조선·가스선 기뢰 폭발”",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850474",
+        "event_key": "irgc-claims-two-ships-mine-explosions-hormuz-20261117"
       },
       {
-        "title": "성착취 피해 청소년, 수사 중에도 전문기관 즉시 연계 추진",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849984",
-        "event_key": "korea-youth-sexual-exploitation-immediate-support-referral-reform-20261117"
+        "title": "삼성 선수단, 우승 공약 지키러 에버랜드서 팬들과 카퍼레이드",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849851",
+        "event_key": "samsung-lions-everland-championship-promise-fan-event-20261117"
       },
       {
-        "title": "조국, 일본 하네다공항서 입국 거부…구체 사유는 미공개",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849965",
-        "event_key": "cho-kuk-japan-entry-denied-haneda-20261117"
+        "title": "여당 교육특위 위원장, ‘수험생이 AI커닝 신고’ 발언 뒤 번복",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850457",
+        "event_key": "kim-moonsu-ai-cheating-student-monitoring-remark-reversal-20261117"
       },
       {
-        "title": "IMF, 한국 올해 성장률 3.9% 전망…한 달 새 0.6%p 상향",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849803",
-        "event_key": "imf-korea-2026-growth-forecast-3point9-20261117"
+        "title": "지인끼리 필로폰 사고판 86명 검거…29명 구속",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850351",
+        "event_key": "seoul-police-face-to-face-meth-network-86-arrests-20261117"
       },
       {
-        "title": "중고거래 사기 148억원…경찰, 131명 검거·26명 구속",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849746",
-        "event_key": "busan-police-148billion-won-online-goods-scam-131-arrests-20261117"
+        "title": "미 정부, ‘젠슨 황 추문’ 메가스피드 반도체 밀반출 수사 공식 확인",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850342",
+        "event_key": "us-confirms-megaspeed-chip-smuggling-investigation-20261117"
       },
       {
-        "title": "발달장애 아동 잇단 사망…충남도 4천22가구 전수조사",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849784",
-        "event_key": "chungnam-disabled-children-deaths-4022-family-care-audit-20261117"
+        "title": "수용자 영치금 400만원 제한법, 법사소위 통과",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850456",
+        "event_key": "korea-prison-deposit-4million-cap-subcommittee-passage-20261117"
       },
       {
-        "title": "‘조작기소 특검법’ 국무회의 통과…최대 309명·200일 수사",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850203",
-        "event_key": "korea-manipulated-prosecution-special-counsel-law-cabinet-20261117"
+        "title": "손흥민까지 달라졌다…사우디전 패배 뒤 대표팀 현장 변화",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849114",
+        "event_key": "son-heungmin-korea-team-change-after-saudi-loss-20261117"
       },
       {
-        "title": "마트노조 “홈플러스 임금 3개월 체불…67개 점포 할인 우려”",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850172",
-        "event_key": "homeplus-wage-arrears-67-store-discount-union-warning-20261117"
+        "title": "미, 중국의 해외 AI 데이터센터 원격 접속 차단 규정 시행",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850290",
+        "event_key": "us-blocks-china-remote-access-foreign-ai-datacenters-20261117"
       }
     ]
   }

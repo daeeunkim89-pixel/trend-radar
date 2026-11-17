@@ -1,6 +1,716 @@
 {
   "version": 1,
   "items": {
+    "2d5323272b0f": {
+      "source": "SBS",
+      "title": "공정위 심사관, ‘지정자료 허위 제출’ 쿠팡·김범석 고발 의견",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850483",
+      "first_seen_at": 1794913516,
+      "last_seen_at": 1794913516,
+      "samples": [
+        {
+          "at": 1794913516,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "2d5323272b0f",
+      "editorial": {
+        "title": "공정위 심사관, ‘지정자료 허위 제출’ 쿠팡·김범석 고발 의견",
+        "category": "시사",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850483",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "korea-ftc-examiner-coupang-kim-bomseok-false-designation-data-20261117",
+        "why": "쿠팡 동일인 지정자료의 진실성과 총수 책임을 다루는 중대한 공정거래 절차다.",
+        "angle": "고발 확정이 아니라 심사관 의견과 위원회 심의 단계임을 분리한다.",
+        "why_now": "공정위 사무처가 심사보고서를 보내고 위원회 심의 절차에 들어갔다.",
+        "verified_at": 1794913324,
+        "published_at": 1794912480,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850483",
+            "note": "공정위 심사관은 쿠팡 법인과 김범석 의장을 지정자료 허위 제출 혐의로 고발해야 한다는 의견을 심사보고서에 담아 심의에 넘겼다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850483",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "최종 고발 여부는 공정위 위원회 심의 뒤 결정된다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-17",
+          "observation": "공정위 심사관은 쿠팡 법인과 김범석 의장을 지정자료 허위 제출 혐의로 고발해야 한다는 의견을 심사보고서에 담아 심의에 넘겼다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 의미와 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850483"
+          }
+        ],
+        "excerpt": "",
+        "context": "공정위 사무처가 심사보고서를 보내고 위원회 심의 절차에 들어갔다.",
+        "fetched_at": 1794913516,
+        "parser_revision": 7
+      },
+      "curation_event_key": "korea-ftc-examiner-coupang-kim-bomseok-false-designation-data-20261117"
+    },
+    "33901d6802c3": {
+      "source": "SBS",
+      "title": "이란, 바레인 미군 레이더 기지 또 공격…방공망이 요격",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850475",
+      "first_seen_at": 1794913516,
+      "last_seen_at": 1794913516,
+      "samples": [
+        {
+          "at": 1794913516,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "33901d6802c3",
+      "editorial": {
+        "title": "이란, 바레인 미군 레이더 기지 또 공격…방공망이 요격",
+        "category": "시사",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850475",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "iran-attacks-us-radar-base-bahrain-intercepted-20261117",
+        "why": "외교 교착 중 중동 미군 핵심 거점을 겨냥한 연속 공격으로 확전 위험이 커졌다.",
+        "angle": "이란의 공격 발표와 바레인의 요격 확인을 함께 전한다.",
+        "why_now": "바레인이 17일 이란의 공중 공격을 요격했다고 새로 밝혔다.",
+        "verified_at": 1794913324,
+        "published_at": 1794912240,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850475",
+            "note": "바레인 당국은 이란의 공중 공격을 요격했다고 밝혔고, 이란 혁명수비대는 무인기로 미군 레이더 시스템을 겨냥했다고 발표했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850475",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "공격 성과에 관한 세부 주장은 양측 발표를 구분해야 한다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-17",
+          "observation": "바레인 당국은 이란의 공중 공격을 요격했다고 밝혔고, 이란 혁명수비대는 무인기로 미군 레이더 시스템을 겨냥했다고 발표했다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 의미와 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850475"
+          }
+        ],
+        "excerpt": "",
+        "context": "바레인이 17일 이란의 공중 공격을 요격했다고 새로 밝혔다.",
+        "fetched_at": 1794913516,
+        "parser_revision": 7
+      },
+      "curation_event_key": "iran-attacks-us-radar-base-bahrain-intercepted-20261117"
+    },
+    "eeeb49ef9c5c": {
+      "source": "SBS",
+      "title": "이란 혁명수비대 “호르무즈서 유조선·가스선 기뢰 폭발”",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850474",
+      "first_seen_at": 1794913516,
+      "last_seen_at": 1794913516,
+      "samples": [
+        {
+          "at": 1794913516,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "eeeb49ef9c5c",
+      "editorial": {
+        "title": "이란 혁명수비대 “호르무즈서 유조선·가스선 기뢰 폭발”",
+        "category": "시사",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850474",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "irgc-claims-two-ships-mine-explosions-hormuz-20261117",
+        "why": "세계 핵심 원유 수송로에서 대형 선박 두 척이 폭발했다는 중대한 공급망·안보 주장이다.",
+        "angle": "선박 피해 규모와 미군 호위 주장을 혁명수비대 발표로 명시한다.",
+        "why_now": "혁명수비대가 17일 선박 두 척의 기뢰 접촉·폭발을 새로 발표했다.",
+        "verified_at": 1794913324,
+        "published_at": 1794912060,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850474",
+            "note": "이란 혁명수비대는 호르무즈 해협에서 원유 200만 배럴 이상을 실은 유조선과 액화가스 운반선이 기뢰에 접촉해 폭발했다고 주장했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850474",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "독립 확인 전인 이란 혁명수비대의 주장이다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-17",
+          "observation": "이란 혁명수비대는 호르무즈 해협에서 원유 200만 배럴 이상을 실은 유조선과 액화가스 운반선이 기뢰에 접촉해 폭발했다고 주장했다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 의미와 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850474"
+          }
+        ],
+        "excerpt": "",
+        "context": "혁명수비대가 17일 선박 두 척의 기뢰 접촉·폭발을 새로 발표했다.",
+        "fetched_at": 1794913516,
+        "parser_revision": 7
+      },
+      "curation_event_key": "irgc-claims-two-ships-mine-explosions-hormuz-20261117"
+    },
+    "0cb261a5d655": {
+      "source": "SBS",
+      "title": "삼성 선수단, 우승 공약 지키러 에버랜드서 팬들과 카퍼레이드",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849851",
+      "first_seen_at": 1794913516,
+      "last_seen_at": 1794913516,
+      "samples": [
+        {
+          "at": 1794913516,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "0cb261a5d655",
+      "editorial": {
+        "title": "삼성 선수단, 우승 공약 지키러 에버랜드서 팬들과 카퍼레이드",
+        "category": "메이저 스포츠",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849851",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "samsung-lions-everland-championship-promise-fan-event-20261117",
+        "why": "우승 뒤 선수가 내건 약속을 실제 행동과 팬 현장으로 이어간 시각 자료가 있다.",
+        "angle": "강민호의 3월 우승 공약이 선수단·팬 행사로 실현된 장면에 초점을 둔다.",
+        "why_now": "삼성 선수단이 17일 에버랜드에서 카퍼레이드와 팬미팅을 진행했다.",
+        "verified_at": 1794913324,
+        "published_at": 1794911580,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849851",
+            "note": "삼성 라이온즈 선수들은 강민호가 3월 내건 우승 공약을 지키기 위해 에버랜드에서 팬들과 카퍼레이드·팬미팅·놀이기구 행사를 했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849851",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-17",
+          "observation": "삼성 라이온즈 선수들은 강민호가 3월 내건 우승 공약을 지키기 위해 에버랜드에서 팬들과 카퍼레이드·팬미팅·놀이기구 행사를 했다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 의미와 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849851"
+          }
+        ],
+        "excerpt": "",
+        "context": "삼성 선수단이 17일 에버랜드에서 카퍼레이드와 팬미팅을 진행했다.",
+        "fetched_at": 1794913516,
+        "parser_revision": 7
+      },
+      "curation_event_key": "samsung-lions-everland-championship-promise-fan-event-20261117"
+    },
+    "579a6aa27f2f": {
+      "source": "SBS",
+      "title": "여당 교육특위 위원장, ‘수험생이 AI커닝 신고’ 발언 뒤 번복",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850457",
+      "first_seen_at": 1794913516,
+      "last_seen_at": 1794913516,
+      "samples": [
+        {
+          "at": 1794913516,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "579a6aa27f2f",
+      "editorial": {
+        "title": "여당 교육특위 위원장, ‘수험생이 AI커닝 신고’ 발언 뒤 번복",
+        "category": "시사",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850457",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "kim-moonsu-ai-cheating-student-monitoring-remark-reversal-20261117",
+        "why": "수능을 앞두고 AI 부정행위 대책 책임을 학생에게 넘긴다는 논란과 즉각 번복이 발생했다.",
+        "angle": "처음 발언과 오후의 입장 변경을 시간순으로 보여준다.",
+        "why_now": "당사자가 라디오 발언 뒤 같은 날 ‘상호 감시는 잘못’이라며 입장을 바꿨다.",
+        "verified_at": 1794913324,
+        "published_at": 1794910140,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850457",
+            "note": "민주당 교육특위 김문수 위원장은 수험생 상호 감수와 신고를 언급했다가 비판이 일자 수험생 상호 감시는 잘못이며 교육 당국 책임이라고 번복했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850457",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "영구 응시 제한 등은 준비 중인 법안 구상이지 시행 확정이 아니다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-17",
+          "observation": "민주당 교육특위 김문수 위원장은 수험생 상호 감수와 신고를 언급했다가 비판이 일자 수험생 상호 감시는 잘못이며 교육 당국 책임이라고 번복했다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 의미와 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850457"
+          }
+        ],
+        "excerpt": "",
+        "context": "당사자가 라디오 발언 뒤 같은 날 ‘상호 감시는 잘못’이라며 입장을 바꿨다.",
+        "fetched_at": 1794913516,
+        "parser_revision": 7
+      },
+      "curation_event_key": "kim-moonsu-ai-cheating-student-monitoring-remark-reversal-20261117"
+    },
+    "65e03ece1e42": {
+      "source": "SBS",
+      "title": "지인끼리 필로폰 사고판 86명 검거…29명 구속",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850351",
+      "first_seen_at": 1794913516,
+      "last_seen_at": 1794913516,
+      "samples": [
+        {
+          "at": 1794913516,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "65e03ece1e42",
+      "editorial": {
+        "title": "지인끼리 필로폰 사고판 86명 검거…29명 구속",
+        "category": "시사",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850351",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "seoul-police-face-to-face-meth-network-86-arrests-20261117",
+        "why": "온라인이 아닌 연인·친구·선후배 관계로 퍼진 대면 마약 거래망 수사 결과다.",
+        "angle": "86명 검거와 초범 비중, 지인 권유 경로를 함께 보여준다.",
+        "why_now": "경찰이 1년 10개월 추적한 전국 대면 거래망 수사 결과를 공개했다.",
+        "verified_at": 1794913324,
+        "published_at": 1794905880,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850351",
+            "note": "서울경찰청은 지인 사이에 필로폰을 판매·무상 제공하거나 투약한 86명을 입건하고 29명을 구속했다고 밝혔다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850351",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "수사기관 발표 기준이며 개별 혐의는 재판에서 확정된다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-17",
+          "observation": "서울경찰청은 지인 사이에 필로폰을 판매·무상 제공하거나 투약한 86명을 입건하고 29명을 구속했다고 밝혔다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 의미와 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850351"
+          }
+        ],
+        "excerpt": "",
+        "context": "경찰이 1년 10개월 추적한 전국 대면 거래망 수사 결과를 공개했다.",
+        "fetched_at": 1794913516,
+        "parser_revision": 7
+      },
+      "curation_event_key": "seoul-police-face-to-face-meth-network-86-arrests-20261117"
+    },
+    "17ddbd4e58f7": {
+      "source": "SBS",
+      "title": "미 정부, ‘젠슨 황 추문’ 메가스피드 반도체 밀반출 수사 공식 확인",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850342",
+      "first_seen_at": 1794913516,
+      "last_seen_at": 1794913516,
+      "samples": [
+        {
+          "at": 1794913516,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "17ddbd4e58f7",
+      "editorial": {
+        "title": "미 정부, ‘젠슨 황 추문’ 메가스피드 반도체 밀반출 수사 공식 확인",
+        "category": "시사",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850342",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "us-confirms-megaspeed-chip-smuggling-investigation-20261117",
+        "why": "미국 정부가 첨단 반도체의 중국 밀반출 의혹에 대한 장기 수사를 처음 공식 확인했다.",
+        "angle": "개인 추문보다 상무부·법무부 공동성명의 수출통제 수사 사실에 초점을 둔다.",
+        "why_now": "미 상무부와 법무부가 2024년부터의 조사와 현장 단속 경위를 공동성명으로 공개했다.",
+        "verified_at": 1794913324,
+        "published_at": 1794904920,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850342",
+            "note": "미 상무부와 법무부는 메가스피드의 반도체 불법 밀반출 의혹을 2024년부터 조사했고 2025년 싱가포르에서 현장 단속했다고 밝혔다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850342",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "밀반출 의혹과 정보기관 연계 보도는 아직 확정 판결이 아니다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-17",
+          "observation": "미 상무부와 법무부는 메가스피드의 반도체 불법 밀반출 의혹을 2024년부터 조사했고 2025년 싱가포르에서 현장 단속했다고 밝혔다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 의미와 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850342"
+          }
+        ],
+        "excerpt": "",
+        "context": "미 상무부와 법무부가 2024년부터의 조사와 현장 단속 경위를 공동성명으로 공개했다.",
+        "fetched_at": 1794913516,
+        "parser_revision": 7
+      },
+      "curation_event_key": "us-confirms-megaspeed-chip-smuggling-investigation-20261117"
+    },
+    "2a2634464532": {
+      "source": "SBS",
+      "title": "수용자 영치금 400만원 제한법, 법사소위 통과",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850456",
+      "first_seen_at": 1794913516,
+      "last_seen_at": 1794913516,
+      "samples": [
+        {
+          "at": 1794913516,
+          "views": null,
+          "reactions": null,
+          "rank": 8,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "2a2634464532",
+      "editorial": {
+        "title": "수용자 영치금 400만원 제한법, 법사소위 통과",
+        "category": "시사",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850456",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "korea-prison-deposit-4million-cap-subcommittee-passage-20261117",
+        "why": "수십억원 영치금 논란 뒤 수용자 계좌와 추가 입금을 법률로 제한하는 제도 변화다.",
+        "angle": "정치 공방보다 400만원 한도와 예외·시행일을 구체적으로 전한다.",
+        "why_now": "법사위 법안심사소위가 17일 개정안을 의결했다.",
+        "verified_at": 1794913324,
+        "published_at": 1794909780,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850456",
+            "note": "국회 법사위 법안심사소위는 수용자 영치금 한도를 1인당 400만원으로 두고 초과 시 추가 입금을 제한하는 개정안을 의결했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850456",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "소위 통과 단계이며 본회의 의결 전이다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-17",
+          "observation": "국회 법사위 법안심사소위는 수용자 영치금 한도를 1인당 400만원으로 두고 초과 시 추가 입금을 제한하는 개정안을 의결했다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 의미와 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850456"
+          }
+        ],
+        "excerpt": "",
+        "context": "법사위 법안심사소위가 17일 개정안을 의결했다.",
+        "fetched_at": 1794913516,
+        "parser_revision": 7
+      },
+      "curation_event_key": "korea-prison-deposit-4million-cap-subcommittee-passage-20261117"
+    },
+    "a5c392370ffa": {
+      "source": "SBS",
+      "title": "손흥민까지 달라졌다…사우디전 패배 뒤 대표팀 현장 변화",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849114",
+      "first_seen_at": 1794913516,
+      "last_seen_at": 1794913516,
+      "samples": [
+        {
+          "at": 1794913516,
+          "views": null,
+          "reactions": null,
+          "rank": 9,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "a5c392370ffa",
+      "editorial": {
+        "title": "손흥민까지 달라졌다…사우디전 패배 뒤 대표팀 현장 변화",
+        "category": "축구",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849114",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "son-heungmin-korea-team-change-after-saudi-loss-20261117",
+        "why": "한국 팬에게 익숙한 손흥민과 대표팀이 패배 뒤 보인 구체적 변화와 운영 불확실성을 현장에서 짚었다.",
+        "angle": "단합 구호가 아니라 패배 뒤 손흥민의 행동 변화와 전후반 격차·감독 계약 문제를 분리한다.",
+        "why_now": "카타르전을 앞둔 현지 취재에서 대표팀 변화와 남은 과제가 새로 공개됐다.",
+        "verified_at": 1794913324,
+        "published_at": 1794903420,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849114",
+            "note": "SBS 현지 취재는 사우디전 2대3 패배 뒤 손흥민을 포함한 대표팀 분위기가 달라졌지만 활용법과 경기력 차이, 임시 감독 계약 문제가 남았다고 전했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849114",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "평가와 전망이 포함된 현장 분석이며 감독 선임은 확정되지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-17",
+          "observation": "SBS 현지 취재는 사우디전 2대3 패배 뒤 손흥민을 포함한 대표팀 분위기가 달라졌지만 활용법과 경기력 차이, 임시 감독 계약 문제가 남았다고 전했다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 의미와 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849114"
+          }
+        ],
+        "excerpt": "",
+        "context": "카타르전을 앞둔 현지 취재에서 대표팀 변화와 남은 과제가 새로 공개됐다.",
+        "fetched_at": 1794913516,
+        "parser_revision": 7
+      },
+      "curation_event_key": "son-heungmin-korea-team-change-after-saudi-loss-20261117"
+    },
+    "8c7062f267c6": {
+      "source": "SBS",
+      "title": "미, 중국의 해외 AI 데이터센터 원격 접속 차단 규정 시행",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850290",
+      "first_seen_at": 1794913516,
+      "last_seen_at": 1794913516,
+      "samples": [
+        {
+          "at": 1794913516,
+          "views": null,
+          "reactions": null,
+          "rank": 10,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "8c7062f267c6",
+      "editorial": {
+        "title": "미, 중국의 해외 AI 데이터센터 원격 접속 차단 규정 시행",
+        "category": "시사",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850290",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "us-blocks-china-remote-access-foreign-ai-datacenters-20261117",
+        "why": "첨단 AI 반도체의 제3국 우회 사용을 막는 새 수출통제 규정으로 산업 파급이 크다.",
+        "angle": "중국 기업의 원격 연산 접근 허가제와 동남아·브라질 칩 수출 허가를 함께 정리한다.",
+        "why_now": "미 상무부 산업안보국이 새 원격 연산 통제 규정을 공식 발표했다.",
+        "verified_at": 1794913324,
+        "published_at": 1794903180,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850290",
+            "note": "미 상무부는 안보우려국 기업이 해외 데이터센터에서 미국산 첨단 AI 연산을 쓰려면 허가받도록 하고 5개국 칩 수출도 사전 허가 대상으로 뒀다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850290",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "중국 정부는 부당한 탄압이라고 반발했으며 규정 효과는 아직 확인되지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-17",
+          "observation": "미 상무부는 안보우려국 기업이 해외 데이터센터에서 미국산 첨단 AI 연산을 쓰려면 허가받도록 하고 5개국 칩 수출도 사전 허가 대상으로 뒀다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 의미와 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850290"
+          }
+        ],
+        "excerpt": "",
+        "context": "미 상무부 산업안보국이 새 원격 연산 통제 규정을 공식 발표했다.",
+        "fetched_at": 1794913516,
+        "parser_revision": 7
+      },
+      "curation_event_key": "us-blocks-china-remote-access-foreign-ai-datacenters-20261117"
+    },
     "c4b9def3ee2d": {
       "source": "SBS",
       "title": "크렘린 “푸틴, APEC서 이재명 대통령 만날 것”",
@@ -13183,717 +13893,7 @@
         "parser_revision": 7
       },
       "curation_event_key": "bulgaria-a1-motorway-pileup-11-dead-50-injured-20261110"
-    },
-    "f4b39664b3f1": {
-      "source": "Reuters",
-      "title": "사우디 수도·산유지 겨냥 미사일·드론…예멘 공습 보도까지 긴장 격화",
-      "link": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-it-intercepts-two-houthi-missiles-fired-towards-riyadh-2026-11-10/",
-      "first_seen_at": 1794305063,
-      "last_seen_at": 1794305063,
-      "samples": [
-        {
-          "at": 1794305063,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "f4b39664b3f1",
-      "editorial": {
-        "title": "사우디 수도·산유지 겨냥 미사일·드론…예멘 공습 보도까지 긴장 격화",
-        "category": "시사",
-        "url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-it-intercepts-two-houthi-missiles-fired-towards-riyadh-2026-11-10/",
-        "source": "Reuters",
-        "kind": "article",
-        "event_key": "saudi-houthi-missile-drone-interceptions-riyadh-eastern-province-sanaa-20261110",
-        "why": "수도와 세계 핵심 산유지가 동시에 겨냥된 군사적 확대이며 홍해 항로와 에너지 인프라 위험으로 이어진다.",
-        "angle": "리야드·남부·동부 요격→사나 공습 보도→확인된 사실과 미확인 주장을 구분한다.",
-        "why_now": "Reuters가 11월 10일 01:53 UTC 공개한 본문에서 사우디 연합군 발표와 후티 측 매체 보도를 확인했다.",
-        "verified_at": 1794304783,
-        "published_at": 1794275580,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-it-intercepts-two-houthi-missiles-fired-towards-riyadh-2026-11-10/",
-            "note": "사우디 연합군은 리야드행 미사일 2발, 남부행 탄도미사일과 동부 지역 상공 드론을 요격했다고 밝혔다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-it-intercepts-two-houthi-missiles-fired-towards-riyadh-2026-11-10/",
-            "label": "Reuters 공개 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "사나 공습은 후티 운영 사바통신 보도이며 사우디 당국은 즉시 확인하지 않았다. 후티도 발사 책임을 주장하지 않았다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-10",
-          "observation": "요격 발표와 사나 피해 보도를 한 본문에서 대조했고 양측 미확인 부분을 분리했다.",
-          "checked_materials": [],
-          "outline": [
-            "리야드·남부·동부 동시 경보와 요격",
-            "홍해·산유지 위험과 확인되지 않은 사나 공습 보도"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "Reuters 공개 본문",
-            "url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-it-intercepts-two-houthi-missiles-fired-towards-riyadh-2026-11-10/"
-          }
-        ],
-        "excerpt": "",
-        "context": "Reuters가 11월 10일 01:53 UTC 공개한 본문에서 사우디 연합군 발표와 후티 측 매체 보도를 확인했다.",
-        "fetched_at": 1794305063,
-        "parser_revision": 7
-      },
-      "curation_event_key": "saudi-houthi-missile-drone-interceptions-riyadh-eastern-province-sanaa-20261110"
-    },
-    "5ffacf840dcc": {
-      "source": "Reuters",
-      "title": "미 의회 권력 교체에 한국 대미전략 재정비…핵잠·원전연료 쟁점 부상",
-      "link": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-says-seoul-must-build-bipartisan-support-us-congress-2026-11-10/",
-      "first_seen_at": 1794305063,
-      "last_seen_at": 1794305063,
-      "samples": [
-        {
-          "at": 1794305063,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "5ffacf840dcc",
-      "editorial": {
-        "title": "미 의회 권력 교체에 한국 대미전략 재정비…핵잠·원전연료 쟁점 부상",
-        "category": "시사",
-        "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-says-seoul-must-build-bipartisan-support-us-congress-2026-11-10/",
-        "source": "Reuters",
-        "kind": "article",
-        "event_key": "korea-us-congress-bipartisan-strategy-nuclear-submarine-opcon-investment-20261110",
-        "why": "미 중간선거 뒤 한미 무역·안보 의제가 새 의회 구도와 맞물린 국가 차원의 외교·산업 전략 변화다.",
-        "angle": "초당 지원 확대 지시→투자·전작권·핵잠 의제→미 의회 심사 강화 가능성 순으로 정리한다.",
-        "why_now": "11월 10일 02:17 UTC 공개된 Reuters 본문에서 이재명 대통령의 국무회의 지시와 양국 현안을 확인했다.",
-        "verified_at": 1794304783,
-        "published_at": 1794277020,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-says-seoul-must-build-bipartisan-support-us-congress-2026-11-10/",
-            "note": "이 대통령은 미 의회·주정부·기업과 접촉을 넓히고 금융시장 충격 대비책을 마련하라고 지시했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-says-seoul-must-build-bipartisan-support-us-congress-2026-11-10/",
-            "label": "Reuters 공개 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "핵잠·우라늄 농축·재처리 협력의 향방은 확정되지 않았으며 미 의회 심사 강화는 분석 전망이다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-10",
-          "observation": "대통령 지시와 투자·전작권·핵잠 등 진행 중인 현안을 Reuters 본문에서 분리 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "미 의회 변화 뒤 한국 정부의 초당 외교 지시",
-            "투자·전작권·핵잠 의제의 실제 쟁점"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "Reuters 공개 본문",
-            "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-says-seoul-must-build-bipartisan-support-us-congress-2026-11-10/"
-          }
-        ],
-        "excerpt": "",
-        "context": "11월 10일 02:17 UTC 공개된 Reuters 본문에서 이재명 대통령의 국무회의 지시와 양국 현안을 확인했다.",
-        "fetched_at": 1794305063,
-        "parser_revision": 7
-      },
-      "curation_event_key": "korea-us-congress-bipartisan-strategy-nuclear-submarine-opcon-investment-20261110"
-    },
-    "f056cd5b6c39": {
-      "source": "Reuters",
-      "title": "DMZ 지뢰 폭발 책임 공방, 유엔총장 발언까지 번졌다",
-      "link": "https://www.reuters.com/world/asia-pacific/north-korea-accuses-un-chief-siding-with-south-korea-over-border-tensions-2026-11-10/",
-      "first_seen_at": 1794305063,
-      "last_seen_at": 1794305063,
-      "samples": [
-        {
-          "at": 1794305063,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "f056cd5b6c39",
-      "editorial": {
-        "title": "DMZ 지뢰 폭발 책임 공방, 유엔총장 발언까지 번졌다",
-        "category": "시사",
-        "url": "https://www.reuters.com/world/asia-pacific/north-korea-accuses-un-chief-siding-with-south-korea-over-border-tensions-2026-11-10/",
-        "source": "Reuters",
-        "kind": "article",
-        "event_key": "north-korea-un-chief-dmz-landmine-blast-dialogue-dispute-20261110",
-        "why": "장병 중상으로 이어진 DMZ 사건이 남북 책임 공방과 유엔 차원의 군사회담 촉구로 확산된 안보 사안이다.",
-        "angle": "9월 지뢰 폭발→남북 상반 주장→유엔의 군사대화 촉구와 북한 반발을 사실별로 배열한다.",
-        "why_now": "Reuters가 11월 10일 06:46 UTC 공개한 본문에서 김여정 담화와 유엔 대변인 발언을 함께 확인했다.",
-        "verified_at": 1794304783,
-        "published_at": 1794293160,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/world/asia-pacific/north-korea-accuses-un-chief-siding-with-south-korea-over-border-tensions-2026-11-10/",
-            "note": "북한은 책임을 부인했고, 유엔 대변인은 우발 상황 방지를 위한 남북 군사급 대화 재개를 촉구했다고 밝혔다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/world/asia-pacific/north-korea-accuses-un-chief-siding-with-south-korea-over-border-tensions-2026-11-10/",
-            "label": "Reuters 공개 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "지뢰 설치 주체는 남북 주장이 엇갈리며 독립적으로 확정되지 않았다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-10",
-          "observation": "남측 주장·북한 부인·유엔 대화 촉구를 한 기사에서 각각 확인했다.",
-          "checked_materials": [],
-          "outline": [
-            "장병 중상 DMZ 폭발과 책임 공방",
-            "유엔 군사회담 촉구에 대한 북한 반발"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "Reuters 공개 본문",
-            "url": "https://www.reuters.com/world/asia-pacific/north-korea-accuses-un-chief-siding-with-south-korea-over-border-tensions-2026-11-10/"
-          }
-        ],
-        "excerpt": "",
-        "context": "Reuters가 11월 10일 06:46 UTC 공개한 본문에서 김여정 담화와 유엔 대변인 발언을 함께 확인했다.",
-        "fetched_at": 1794305063,
-        "parser_revision": 7
-      },
-      "curation_event_key": "north-korea-un-chief-dmz-landmine-blast-dialogue-dispute-20261110"
-    },
-    "c74f755774f9": {
-      "source": "연합뉴스",
-      "title": "코스피 장중 4.5% 급반등…반도체·항공주가 동반 끌어올렸다",
-      "link": "https://en.yna.co.kr/view/AEN20261110004500320",
-      "first_seen_at": 1794305063,
-      "last_seen_at": 1794305063,
-      "samples": [
-        {
-          "at": 1794305063,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "c74f755774f9",
-      "editorial": {
-        "title": "코스피 장중 4.5% 급반등…반도체·항공주가 동반 끌어올렸다",
-        "category": "시사",
-        "url": "https://en.yna.co.kr/view/AEN20261110004500320",
-        "source": "연합뉴스",
-        "kind": "article",
-        "event_key": "kospi-intraday-rebound-tech-airlines-lower-oil-20261110",
-        "why": "전날 반등을 반납했던 국내 증시가 개장 직후 4% 넘게 움직인 변동성 확대와 업종별 급등은 대중적 경제 영향이 크다.",
-        "angle": "장중 지수 급등→삼성전자·SK하이닉스 상승→유가 하락에 항공주 급등 순으로 보여준다.",
-        "why_now": "연합뉴스가 11월 10일 11:26 KST 공개한 본문에서 11:20 기준 지수와 종목 변동을 확인했다.",
-        "verified_at": 1794304783,
-        "published_at": 1794277560,
-        "evidence": [
-          {
-            "url": "https://en.yna.co.kr/view/AEN20261110004500320",
-            "note": "11:20 KST 코스피는 4.52% 오른 5,245.72였고 삼성전자 5.11%, SK하이닉스 6.78% 상승으로 보도됐다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://en.yna.co.kr/view/AEN20261110004500320",
-            "label": "연합뉴스 공개 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "장중 수치이므로 종가가 아니며 이후 등락할 수 있다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-10",
-          "observation": "기사의 장중 기준시각과 지수·주요 종목 수치를 확인해 종가로 오인하지 않도록 구분했다.",
-          "checked_materials": [],
-          "outline": [
-            "장중 4.52% 반등과 기준시각",
-            "반도체·항공주 상승 배경과 종가 미확정"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "연합뉴스 공개 본문",
-            "url": "https://en.yna.co.kr/view/AEN20261110004500320"
-          }
-        ],
-        "excerpt": "",
-        "context": "연합뉴스가 11월 10일 11:26 KST 공개한 본문에서 11:20 기준 지수와 종목 변동을 확인했다.",
-        "fetched_at": 1794305063,
-        "parser_revision": 7
-      },
-      "curation_event_key": "kospi-intraday-rebound-tech-airlines-lower-oil-20261110"
-    },
-    "254b50c3ad38": {
-      "source": "Reuters·Investing.com",
-      "title": "유가 하락에 유럽증시 사상 최고치 근접…인피니언 전망도 급등 견인",
-      "link": "https://www.investing.com/news/economy-news/european-shares-near-record-high-as-lower-oil-prices-boost-sentiment-5014345",
-      "first_seen_at": 1794305063,
-      "last_seen_at": 1794305063,
-      "samples": [
-        {
-          "at": 1794305063,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "254b50c3ad38",
-      "editorial": {
-        "title": "유가 하락에 유럽증시 사상 최고치 근접…인피니언 전망도 급등 견인",
-        "category": "시사",
-        "url": "https://www.investing.com/news/economy-news/european-shares-near-record-high-as-lower-oil-prices-boost-sentiment-5014345",
-        "source": "Reuters·Investing.com",
-        "kind": "article",
-        "event_key": "europe-stoxx600-near-record-lower-oil-infineon-outlook-20261110",
-        "why": "중동 긴장 완화 기대와 기업 실적 전망이 유럽 전역의 증시·금리 기대를 동시에 움직인 주요 시장 변화다.",
-        "angle": "STOXX600 0.9% 상승→브렌트유 2%대 하락→인피니언 2027 전망 순으로 정리한다.",
-        "why_now": "11월 10일 03:25 UTC 공개된 Reuters 전재 본문에서 08:05 GMT 기준 시장 수치와 기업 전망을 확인했다.",
-        "verified_at": 1794304783,
-        "published_at": 1794281100,
-        "evidence": [
-          {
-            "url": "https://www.investing.com/news/economy-news/european-shares-near-record-high-as-lower-oil-prices-boost-sentiment-5014345",
-            "note": "STOXX600은 08:05 GMT 0.9% 상승해 기록 고점 1% 이내였고 브렌트유는 2% 넘게 하락했다고 보도됐다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.investing.com/news/economy-news/european-shares-near-record-high-as-lower-oil-prices-boost-sentiment-5014345",
-            "label": "Reuters 전재 공개 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "장 초반 수치이며 종가가 아니다. 중동 긴장 완화는 기대 요인이지 확정된 평화 합의가 아니다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-10",
-          "observation": "공개 본문에서 지수·유가·인피니언 전망을 확인하고 장중 시점과 기대 요인을 분리했다.",
-          "checked_materials": [],
-          "outline": [
-            "유럽 지수의 기록 고점 접근",
-            "유가 하락과 인피니언 전망의 동시 영향"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "Reuters 전재 공개 본문",
-            "url": "https://www.investing.com/news/economy-news/european-shares-near-record-high-as-lower-oil-prices-boost-sentiment-5014345"
-          }
-        ],
-        "excerpt": "",
-        "context": "11월 10일 03:25 UTC 공개된 Reuters 전재 본문에서 08:05 GMT 기준 시장 수치와 기업 전망을 확인했다.",
-        "fetched_at": 1794305063,
-        "parser_revision": 7
-      },
-      "curation_event_key": "europe-stoxx600-near-record-lower-oil-infineon-outlook-20261110"
-    },
-    "e0e2b26f8dc1": {
-      "source": "CF Montréal 공식",
-      "title": "CF 몬트리올 매각 절차 시작…30년 사푸토 체제 전환",
-      "link": "https://en.cfmontreal.com/news/joey-saputo-initiates-a-sales-process-to-sell-cf-montreal",
-      "first_seen_at": 1794301554,
-      "last_seen_at": 1794301554,
-      "samples": [
-        {
-          "at": 1794301554,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "official",
-      "story_id": "e0e2b26f8dc1",
-      "editorial": {
-        "title": "CF 몬트리올 매각 절차 시작…30년 사푸토 체제 전환",
-        "category": "축구",
-        "url": "https://en.cfmontreal.com/news/joey-saputo-initiates-a-sales-process-to-sell-cf-montreal",
-        "source": "CF Montréal 공식",
-        "event_key": "cf-montreal-joey-saputo-sale-process-relocation-not-ruled-out-20261109",
-        "why": "MLS 구단의 장기 소유 구조가 바뀌는 매각 결정이며 퀘벡 투자자와 구단의 지역 내 미래가 걸렸다.",
-        "angle": "매각 개시→퀘벡 투자자 우선→기존 운영·경영진 유지 순서로 정리한다.",
-        "why_now": "11월 9일 발표문을 이번 회차 공식 본문에서 재확인했다. 매각 완료나 이전 결정은 아니다.",
-        "published_at": null,
-        "caution": "공식 페이지 표시 시각은 시간대가 불명확해 epoch로 확정하지 않았다. 본문 발표일은 11월 9일이다.",
-        "kind": "official",
-        "verified_at": 1794301420,
-        "evidence": [
-          {
-            "url": "https://en.cfmontreal.com/news/joey-saputo-initiates-a-sales-process-to-sell-cf-montreal",
-            "note": "공식 발표는 사푸토가 매각 절차를 시작하고 퀘벡 투자자를 우선하며, 절차 동안 일상 운영과 경영진을 유지한다고 명시한다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://en.cfmontreal.com/news/joey-saputo-initiates-a-sales-process-to-sell-cf-montreal",
-            "label": "이번 회차 재확인 본문",
-            "kind": "source"
-          }
-        ],
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-09",
-          "observation": "공식 발표는 사푸토가 매각 절차를 시작하고 퀘벡 투자자를 우선하며, 절차 동안 일상 운영과 경영진을 유지한다고 명시한다.",
-          "checked_materials": [],
-          "outline": [
-            "구단 매각 절차 개시를 첫 장에 제시",
-            "지역 투자자 우선·기존 운영 유지와 미확정 거래 조건을 설명"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "이번 회차 재확인 본문",
-            "url": "https://en.cfmontreal.com/news/joey-saputo-initiates-a-sales-process-to-sell-cf-montreal"
-          }
-        ],
-        "excerpt": "",
-        "context": "11월 9일 발표문을 이번 회차 공식 본문에서 재확인했다. 매각 완료나 이전 결정은 아니다.",
-        "fetched_at": 1794301554,
-        "parser_revision": 7
-      },
-      "curation_event_key": "cf-montreal-joey-saputo-sale-process-relocation-not-ruled-out-20261109"
-    },
-    "cfd470667dce": {
-      "source": "Yardbarker",
-      "title": "맥고니글·스튜어트, MLB 양대 리그 신인왕 확정",
-      "link": "https://www.yardbarker.com/mlb/articles/tigers_kevin_mcgonigle_reds_sal_stewart_named_mlb_rookies_of_the_year/s1_13132_44539946",
-      "first_seen_at": 1794301554,
-      "last_seen_at": 1794301554,
-      "samples": [
-        {
-          "at": 1794301554,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "cfd470667dce",
-      "editorial": {
-        "title": "맥고니글·스튜어트, MLB 양대 리그 신인왕 확정",
-        "category": "메이저 스포츠",
-        "url": "https://www.yardbarker.com/mlb/articles/tigers_kevin_mcgonigle_reds_sal_stewart_named_mlb_rookies_of_the_year/s1_13132_44539946",
-        "source": "Yardbarker",
-        "event_key": "mlb-2026-rookie-of-year-mcgonigle-stewart-draft-picks-20261110",
-        "why": "메이저리그 시즌 최고 신인 두 명이 공식 수상자로 확정됐고 두 구단의 세대교체 성과를 보여준다.",
-        "angle": "AL·NL 수상자→구단의 마지막 수상 이후 공백→시즌 성적 순서로 정리한다.",
-        "why_now": "현지 11월 9일 수상이 발표됐고 이번 공개 기사 본문에서 두 수상자를 재확인했다.",
-        "published_at": null,
-        "caution": "페이지는 11월 9일 20:56 ET 최종 갱신만 표시하므로 최초 게시 epoch는 확정하지 않았다.",
-        "kind": "article",
-        "verified_at": 1794301420,
-        "evidence": [
-          {
-            "url": "https://www.yardbarker.com/mlb/articles/tigers_kevin_mcgonigle_reds_sal_stewart_named_mlb_rookies_of_the_year/s1_13132_44539946",
-            "note": "본문은 디트로이트 맥고니글의 AL 신인왕과 신시내티 스튜어트의 NL 신인왕 수상을 확인하고 각각 구단의 2016년·2021년 이후 첫 수상이라고 전한다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.yardbarker.com/mlb/articles/tigers_kevin_mcgonigle_reds_sal_stewart_named_mlb_rookies_of_the_year/s1_13132_44539946",
-            "label": "이번 회차 재확인 본문",
-            "kind": "source"
-          }
-        ],
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-09",
-          "observation": "본문은 디트로이트 맥고니글의 AL 신인왕과 신시내티 스튜어트의 NL 신인왕 수상을 확인하고 각각 구단의 2016년·2021년 이후 첫 수상이라고 전한다.",
-          "checked_materials": [],
-          "outline": [
-            "두 리그 신인왕 확정 소식을 제시",
-            "구단별 마지막 수상 이후 공백과 이번 시즌 의미를 설명"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "이번 회차 재확인 본문",
-            "url": "https://www.yardbarker.com/mlb/articles/tigers_kevin_mcgonigle_reds_sal_stewart_named_mlb_rookies_of_the_year/s1_13132_44539946"
-          }
-        ],
-        "excerpt": "",
-        "context": "현지 11월 9일 수상이 발표됐고 이번 공개 기사 본문에서 두 수상자를 재확인했다.",
-        "fetched_at": 1794301554,
-        "parser_revision": 7
-      },
-      "curation_event_key": "mlb-2026-rookie-of-year-mcgonigle-stewart-draft-picks-20261110"
-    },
-    "ad74556e2d55": {
-      "source": "Reuters/MarketScreener",
-      "title": "프랑스 최저임금 인상 한 달 앞당긴다…생활비 시위에 대응",
-      "link": "https://uk.marketscreener.com/news/french-pm-brings-forward-hike-in-minimum-wage-to-calm-protesters-ce785fd3dd81f521",
-      "first_seen_at": 1794301554,
-      "last_seen_at": 1794301554,
-      "samples": [
-        {
-          "at": 1794301554,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "ad74556e2d55",
-      "editorial": {
-        "title": "프랑스 최저임금 인상 한 달 앞당긴다…생활비 시위에 대응",
-        "category": "시사",
-        "url": "https://uk.marketscreener.com/news/french-pm-brings-forward-hike-in-minimum-wage-to-calm-protesters-ce785fd3dd81f521",
-        "source": "Reuters/MarketScreener",
-        "event_key": "france-lecornu-minimum-wage-rise-moved-to-december-cost-living-protests-20261109",
-        "why": "대선을 5개월 앞두고 생활비 시위에 대응해 정부가 최저임금 인상 시점을 바꾼 민생·정치 결정을 담는다.",
-        "angle": "12월 조기 인상→월 순수령 24유로 증가→노조 반응과 대선 맥락 순으로 정리한다.",
-        "why_now": "11월 9일 발표한 12월 조기 인상을 이번 Reuters 배포 기사 본문에서 재확인했다.",
-        "published_at": null,
-        "caution": "배포 페이지 11월 9일 13:15 GMT는 배포 게시시각이다. Reuters 원문 최초 시각과 혼동하지 않는다.",
-        "kind": "article",
-        "verified_at": 1794301420,
-        "evidence": [
-          {
-            "url": "https://uk.marketscreener.com/news/french-pm-brings-forward-hike-in-minimum-wage-to-calm-protesters-ce785fd3dd81f521",
-            "note": "로이터는 프랑스 정부가 최저임금을 1.6% 올려 순수령 월 1,502유로로 만들고 시행을 12월로 한 달 앞당긴다고 보도했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://uk.marketscreener.com/news/french-pm-brings-forward-hike-in-minimum-wage-to-calm-protesters-ce785fd3dd81f521",
-            "label": "이번 회차 재확인 본문",
-            "kind": "source"
-          }
-        ],
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-09",
-          "observation": "로이터는 프랑스 정부가 최저임금을 1.6% 올려 순수령 월 1,502유로로 만들고 시행을 12월로 한 달 앞당긴다고 보도했다.",
-          "checked_materials": [],
-          "outline": [
-            "최저임금 조기 인상 결정과 실제 금액을 제시",
-            "생활비 시위·노조 반응·대선 전 민생 압박을 설명"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "이번 회차 재확인 본문",
-            "url": "https://uk.marketscreener.com/news/french-pm-brings-forward-hike-in-minimum-wage-to-calm-protesters-ce785fd3dd81f521"
-          }
-        ],
-        "excerpt": "",
-        "context": "11월 9일 발표한 12월 조기 인상을 이번 Reuters 배포 기사 본문에서 재확인했다.",
-        "fetched_at": 1794301554,
-        "parser_revision": 7
-      },
-      "curation_event_key": "france-lecornu-minimum-wage-rise-moved-to-december-cost-living-protests-20261109"
-    },
-    "bca6e6544c16": {
-      "source": "Reuters",
-      "title": "러시아 “미국과 디젤 합의 이행 중”…가격 하락은 주장",
-      "link": "https://www.reuters.com/business/energy/russias-lavrov-says-us-diesel-deal-working-prices-coming-down-2026-11-10/",
-      "first_seen_at": 1794301554,
-      "last_seen_at": 1794301554,
-      "samples": [
-        {
-          "at": 1794301554,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "bca6e6544c16",
-      "editorial": {
-        "title": "러시아 “미국과 디젤 합의 이행 중”…가격 하락은 주장",
-        "category": "시사",
-        "url": "https://www.reuters.com/business/energy/russias-lavrov-says-us-diesel-deal-working-prices-coming-down-2026-11-10/",
-        "source": "Reuters",
-        "event_key": "russia-us-diesel-export-deal-implementation-sanctions-temporary-lift-20261110",
-        "why": "제재 일시 해제와 대규모 공급 합의가 실제 이행 단계에 들어가 에너지 가격과 전쟁 경제에 직접 영향을 준다.",
-        "angle": "즉시 공급 물량→제재 일시 해제→가격 하락 주장과 확인 한계 순으로 정리한다.",
-        "why_now": "11월 10일 라브로프 기고와 공급 합의 내용을 이번 검색에서 반환된 Reuters 본문으로 재검증했다.",
-        "published_at": 1794272957,
-        "caution": "가격 하락은 라브로프의 주장으로 구체 자료가 제시되지 않았고 미국 소매가는 최근 최고치를 기록했다.",
-        "kind": "article",
-        "verified_at": 1794301420,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/business/energy/russias-lavrov-says-us-diesel-deal-working-prices-coming-down-2026-11-10/",
-            "note": "Reuters 본문에서 라브로프의 합의 이행 주장, 30만·50만·100만 톤 계획과 미 제재 일시 해제를 확인했다. 실제 가격 자료는 제시하지 않았다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/business/energy/russias-lavrov-says-us-diesel-deal-working-prices-coming-down-2026-11-10/",
-            "label": "이번 회차 재확인 본문",
-            "kind": "source"
-          }
-        ],
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-10",
-          "observation": "Reuters 본문에서 라브로프의 합의 이행 주장, 30만·50만·100만 톤 계획과 미 제재 일시 해제를 확인했다. 실제 가격 자료는 제시하지 않았다.",
-          "checked_materials": [],
-          "outline": [
-            "합의 이행과 단계별 물량을 제시",
-            "제재 일시 해제와 가격 하락 주장·시장 지표의 차이를 설명"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "이번 회차 재확인 본문",
-            "url": "https://www.reuters.com/business/energy/russias-lavrov-says-us-diesel-deal-working-prices-coming-down-2026-11-10/"
-          }
-        ],
-        "excerpt": "",
-        "context": "11월 10일 라브로프 기고와 공급 합의 내용을 이번 검색에서 반환된 Reuters 본문으로 재검증했다.",
-        "fetched_at": 1794301554,
-        "parser_revision": 7
-      },
-      "curation_event_key": "russia-us-diesel-export-deal-implementation-sanctions-temporary-lift-20261110"
-    },
-    "0a9a2ba2ab7e": {
-      "source": "Reuters",
-      "title": "정부 의료통계 사이트 뚫린 호주…AI 감독기관 신설 추진",
-      "link": "https://www.reuters.com/world/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-2026-11-10/",
-      "first_seen_at": 1794301554,
-      "last_seen_at": 1794301554,
-      "samples": [
-        {
-          "at": 1794301554,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "0a9a2ba2ab7e",
-      "editorial": {
-        "title": "정부 의료통계 사이트 뚫린 호주…AI 감독기관 신설 추진",
-        "category": "시사",
-        "url": "https://www.reuters.com/world/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-2026-11-10/",
-        "source": "Reuters",
-        "event_key": "australia-openai-agent-government-website-breach-mandatory-reporting-20261110",
-        "why": "정부 의료통계 시스템 침해를 계기로 보고 의무와 독립 감독·평가를 추진하는 사회적 영향이 큰 규제 변화다.",
-        "angle": "정부 포털 침해→보고 의무·감독기관→환자기록 접근 증거 없음과 법안 일정 순서로 정리한다.",
-        "why_now": "11월 10일 정부가 검토 권고를 수용했고 이번 갱신 본문에서 감독기관·내년 법안 계획을 재확인했다.",
-        "published_at": 1794274200,
-        "caution": "OpenAI는 환자기록 접근 증거가 없었다고 밝혔다. 의무화·감독기관은 추진 계획이며 법안은 내년 제출 예정이다.",
-        "kind": "article",
-        "verified_at": 1794301420,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/world/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-2026-11-10/",
-            "note": "Reuters 갱신 본문은 Medicare 의료통계 포털 무단 접근, 사고 보고 의무와 AI 감독기관 추진, 내년 법안 제출 계획을 전했다. 환자기록 접근 증거는 없었다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/world/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-2026-11-10/",
-            "label": "이번 회차 재확인 본문",
-            "kind": "source"
-          }
-        ],
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-10",
-          "observation": "Reuters 갱신 본문은 Medicare 의료통계 포털 무단 접근, 사고 보고 의무와 AI 감독기관 추진, 내년 법안 제출 계획을 전했다. 환자기록 접근 증거는 없었다.",
-          "checked_materials": [],
-          "outline": [
-            "의료통계 포털 침해와 정부 대응을 제시",
-            "보고 의무·독립 평가·법안 일정 및 환자정보 확인 한계를 설명"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "이번 회차 재확인 본문",
-            "url": "https://www.reuters.com/world/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-2026-11-10/"
-          }
-        ],
-        "excerpt": "",
-        "context": "11월 10일 정부가 검토 권고를 수용했고 이번 갱신 본문에서 감독기관·내년 법안 계획을 재확인했다.",
-        "fetched_at": 1794301554,
-        "parser_revision": 7
-      },
-      "curation_event_key": "australia-openai-agent-government-website-breach-mandatory-reporting-20261110"
     }
   },
-  "updated_at": 1794903037
+  "updated_at": 1794913516
 }

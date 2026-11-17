@@ -2,72 +2,6 @@
   "version": 1,
   "editions": [
     {
-      "hour_utc": "2026111009",
-      "at": 1794301555,
-      "delivery": "sent",
-      "delivery_key": "hourly-2026111009",
-      "picks": [
-        {
-          "title": "CF 몬트리올 매각 절차 시작…30년 사푸토 체제 전환",
-          "url": "https://en.cfmontreal.com/news/joey-saputo-initiates-a-sales-process-to-sell-cf-montreal",
-          "event_key": "cf-montreal-joey-saputo-sale-process-relocation-not-ruled-out-20261109"
-        },
-        {
-          "title": "맥고니글·스튜어트, MLB 양대 리그 신인왕 확정",
-          "url": "https://www.yardbarker.com/mlb/articles/tigers_kevin_mcgonigle_reds_sal_stewart_named_mlb_rookies_of_the_year/s1_13132_44539946",
-          "event_key": "mlb-2026-rookie-of-year-mcgonigle-stewart-draft-picks-20261110"
-        },
-        {
-          "title": "프랑스 최저임금 인상 한 달 앞당긴다…생활비 시위에 대응",
-          "url": "https://uk.marketscreener.com/news/french-pm-brings-forward-hike-in-minimum-wage-to-calm-protesters-ce785fd3dd81f521",
-          "event_key": "france-lecornu-minimum-wage-rise-moved-to-december-cost-living-protests-20261109"
-        },
-        {
-          "title": "러시아 “미국과 디젤 합의 이행 중”…가격 하락은 주장",
-          "url": "https://www.reuters.com/business/energy/russias-lavrov-says-us-diesel-deal-working-prices-coming-down-2026-11-10/",
-          "event_key": "russia-us-diesel-export-deal-implementation-sanctions-temporary-lift-20261110"
-        },
-        {
-          "title": "정부 의료통계 사이트 뚫린 호주…AI 감독기관 신설 추진",
-          "url": "https://www.reuters.com/world/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-2026-11-10/",
-          "event_key": "australia-openai-agent-government-website-breach-mandatory-reporting-20261110"
-        }
-      ]
-    },
-    {
-      "hour_utc": "2026111010",
-      "at": 1794305063,
-      "delivery": "sent",
-      "delivery_key": "hourly-2026111010",
-      "picks": [
-        {
-          "title": "사우디 수도·산유지 겨냥 미사일·드론…예멘 공습 보도까지 긴장 격화",
-          "url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-it-intercepts-two-houthi-missiles-fired-towards-riyadh-2026-11-10/",
-          "event_key": "saudi-houthi-missile-drone-interceptions-riyadh-eastern-province-sanaa-20261110"
-        },
-        {
-          "title": "미 의회 권력 교체에 한국 대미전략 재정비…핵잠·원전연료 쟁점 부상",
-          "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-says-seoul-must-build-bipartisan-support-us-congress-2026-11-10/",
-          "event_key": "korea-us-congress-bipartisan-strategy-nuclear-submarine-opcon-investment-20261110"
-        },
-        {
-          "title": "DMZ 지뢰 폭발 책임 공방, 유엔총장 발언까지 번졌다",
-          "url": "https://www.reuters.com/world/asia-pacific/north-korea-accuses-un-chief-siding-with-south-korea-over-border-tensions-2026-11-10/",
-          "event_key": "north-korea-un-chief-dmz-landmine-blast-dialogue-dispute-20261110"
-        },
-        {
-          "title": "코스피 장중 4.5% 급반등…반도체·항공주가 동반 끌어올렸다",
-          "url": "https://en.yna.co.kr/view/AEN20261110004500320",
-          "event_key": "kospi-intraday-rebound-tech-airlines-lower-oil-20261110"
-        },
-        {
-          "title": "유가 하락에 유럽증시 사상 최고치 근접…인피니언 전망도 급등 견인",
-          "url": "https://www.investing.com/news/economy-news/european-shares-near-record-high-as-lower-oil-prices-boost-sentiment-5014345",
-          "event_key": "europe-stoxx600-near-record-lower-oil-infineon-outlook-20261110"
-        }
-      ]
-    },
-    {
       "hour_utc": "2026111011",
       "at": 1794308867,
       "delivery": "sent",
@@ -1749,6 +1683,134 @@
           "why": "대형 유통사의 임금 체불 주장과 67개 점포 할인 운영이 고용 불안으로 번진 사안이다.",
           "angle": "확인된 할인 행사와 노조의 체불·폐점 우려 주장을 분리한다.",
           "why_now": "노조가 3개월 체불을 공개 주장하고 대규모 점포 할인이 시작됐다."
+        }
+      ]
+    },
+    {
+      "hour_utc": "2026111711",
+      "at": 1794913518,
+      "delivery": "sent",
+      "delivery_key": "hourly-2026111711",
+      "picks": [
+        {
+          "title": "공정위 심사관, ‘지정자료 허위 제출’ 쿠팡·김범석 고발 의견",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850483",
+          "event_key": "korea-ftc-examiner-coupang-kim-bomseok-false-designation-data-20261117",
+          "category": "시사",
+          "rank": 1,
+          "published_at": 1794912480,
+          "source": "SBS",
+          "why": "쿠팡 동일인 지정자료의 진실성과 총수 책임을 다루는 중대한 공정거래 절차다.",
+          "angle": "고발 확정이 아니라 심사관 의견과 위원회 심의 단계임을 분리한다.",
+          "why_now": "공정위 사무처가 심사보고서를 보내고 위원회 심의 절차에 들어갔다."
+        },
+        {
+          "title": "이란, 바레인 미군 레이더 기지 또 공격…방공망이 요격",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850475",
+          "event_key": "iran-attacks-us-radar-base-bahrain-intercepted-20261117",
+          "category": "시사",
+          "rank": 2,
+          "published_at": 1794912240,
+          "source": "SBS",
+          "why": "외교 교착 중 중동 미군 핵심 거점을 겨냥한 연속 공격으로 확전 위험이 커졌다.",
+          "angle": "이란의 공격 발표와 바레인의 요격 확인을 함께 전한다.",
+          "why_now": "바레인이 17일 이란의 공중 공격을 요격했다고 새로 밝혔다."
+        },
+        {
+          "title": "이란 혁명수비대 “호르무즈서 유조선·가스선 기뢰 폭발”",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850474",
+          "event_key": "irgc-claims-two-ships-mine-explosions-hormuz-20261117",
+          "category": "시사",
+          "rank": 3,
+          "published_at": 1794912060,
+          "source": "SBS",
+          "why": "세계 핵심 원유 수송로에서 대형 선박 두 척이 폭발했다는 중대한 공급망·안보 주장이다.",
+          "angle": "선박 피해 규모와 미군 호위 주장을 혁명수비대 발표로 명시한다.",
+          "why_now": "혁명수비대가 17일 선박 두 척의 기뢰 접촉·폭발을 새로 발표했다."
+        },
+        {
+          "title": "삼성 선수단, 우승 공약 지키러 에버랜드서 팬들과 카퍼레이드",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849851",
+          "event_key": "samsung-lions-everland-championship-promise-fan-event-20261117",
+          "category": "메이저 스포츠",
+          "rank": 4,
+          "published_at": 1794911580,
+          "source": "SBS",
+          "why": "우승 뒤 선수가 내건 약속을 실제 행동과 팬 현장으로 이어간 시각 자료가 있다.",
+          "angle": "강민호의 3월 우승 공약이 선수단·팬 행사로 실현된 장면에 초점을 둔다.",
+          "why_now": "삼성 선수단이 17일 에버랜드에서 카퍼레이드와 팬미팅을 진행했다."
+        },
+        {
+          "title": "여당 교육특위 위원장, ‘수험생이 AI커닝 신고’ 발언 뒤 번복",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850457",
+          "event_key": "kim-moonsu-ai-cheating-student-monitoring-remark-reversal-20261117",
+          "category": "시사",
+          "rank": 5,
+          "published_at": 1794910140,
+          "source": "SBS",
+          "why": "수능을 앞두고 AI 부정행위 대책 책임을 학생에게 넘긴다는 논란과 즉각 번복이 발생했다.",
+          "angle": "처음 발언과 오후의 입장 변경을 시간순으로 보여준다.",
+          "why_now": "당사자가 라디오 발언 뒤 같은 날 ‘상호 감시는 잘못’이라며 입장을 바꿨다."
+        },
+        {
+          "title": "지인끼리 필로폰 사고판 86명 검거…29명 구속",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850351",
+          "event_key": "seoul-police-face-to-face-meth-network-86-arrests-20261117",
+          "category": "시사",
+          "rank": 6,
+          "published_at": 1794905880,
+          "source": "SBS",
+          "why": "온라인이 아닌 연인·친구·선후배 관계로 퍼진 대면 마약 거래망 수사 결과다.",
+          "angle": "86명 검거와 초범 비중, 지인 권유 경로를 함께 보여준다.",
+          "why_now": "경찰이 1년 10개월 추적한 전국 대면 거래망 수사 결과를 공개했다."
+        },
+        {
+          "title": "미 정부, ‘젠슨 황 추문’ 메가스피드 반도체 밀반출 수사 공식 확인",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850342",
+          "event_key": "us-confirms-megaspeed-chip-smuggling-investigation-20261117",
+          "category": "시사",
+          "rank": 7,
+          "published_at": 1794904920,
+          "source": "SBS",
+          "why": "미국 정부가 첨단 반도체의 중국 밀반출 의혹에 대한 장기 수사를 처음 공식 확인했다.",
+          "angle": "개인 추문보다 상무부·법무부 공동성명의 수출통제 수사 사실에 초점을 둔다.",
+          "why_now": "미 상무부와 법무부가 2024년부터의 조사와 현장 단속 경위를 공동성명으로 공개했다."
+        },
+        {
+          "title": "수용자 영치금 400만원 제한법, 법사소위 통과",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850456",
+          "event_key": "korea-prison-deposit-4million-cap-subcommittee-passage-20261117",
+          "category": "시사",
+          "rank": 8,
+          "published_at": 1794909780,
+          "source": "SBS",
+          "why": "수십억원 영치금 논란 뒤 수용자 계좌와 추가 입금을 법률로 제한하는 제도 변화다.",
+          "angle": "정치 공방보다 400만원 한도와 예외·시행일을 구체적으로 전한다.",
+          "why_now": "법사위 법안심사소위가 17일 개정안을 의결했다."
+        },
+        {
+          "title": "손흥민까지 달라졌다…사우디전 패배 뒤 대표팀 현장 변화",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849114",
+          "event_key": "son-heungmin-korea-team-change-after-saudi-loss-20261117",
+          "category": "축구",
+          "rank": 9,
+          "published_at": 1794903420,
+          "source": "SBS",
+          "why": "한국 팬에게 익숙한 손흥민과 대표팀이 패배 뒤 보인 구체적 변화와 운영 불확실성을 현장에서 짚었다.",
+          "angle": "단합 구호가 아니라 패배 뒤 손흥민의 행동 변화와 전후반 격차·감독 계약 문제를 분리한다.",
+          "why_now": "카타르전을 앞둔 현지 취재에서 대표팀 변화와 남은 과제가 새로 공개됐다."
+        },
+        {
+          "title": "미, 중국의 해외 AI 데이터센터 원격 접속 차단 규정 시행",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850290",
+          "event_key": "us-blocks-china-remote-access-foreign-ai-datacenters-20261117",
+          "category": "시사",
+          "rank": 10,
+          "published_at": 1794903180,
+          "source": "SBS",
+          "why": "첨단 AI 반도체의 제3국 우회 사용을 막는 새 수출통제 규정으로 산업 파급이 크다.",
+          "angle": "중국 기업의 원격 연산 접근 허가제와 동남아·브라질 칩 수출 허가를 함께 정리한다.",
+          "why_now": "미 상무부 산업안보국이 새 원격 연산 통제 규정을 공식 발표했다."
         }
       ]
     }
