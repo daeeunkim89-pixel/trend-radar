@@ -1,5 +1,5 @@
 {
-  "updated_at": 1794913518,
+  "updated_at": 1794957381,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,65 +15,65 @@
     "requested_stories": 10,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026111711",
+    "hour_utc": "2026111723",
     "category_counts": {
-      "시사": 8,
-      "축구": 1,
-      "메이저 스포츠": 1,
+      "시사": 6,
+      "축구": 4,
+      "메이저 스포츠": 0,
       "아이돌": 0
     },
-    "research_queries": 6,
-    "opened_sources": 12,
+    "research_queries": 8,
+    "opened_sources": 18,
     "picks": [
       {
-        "title": "공정위 심사관, ‘지정자료 허위 제출’ 쿠팡·김범석 고발 의견",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850483",
-        "event_key": "korea-ftc-examiner-coupang-kim-bomseok-false-designation-data-20261117"
+        "title": "모레노 “한국 대표팀 다시 맡을 가능성 생각”…정식 전환 의지 밝혔다",
+        "url": "https://www.yna.co.kr/view/AKR20261118004600007",
+        "event_key": "moreno-korea-permanent-coach-return-interest-20261118"
       },
       {
-        "title": "이란, 바레인 미군 레이더 기지 또 공격…방공망이 요격",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850475",
-        "event_key": "iran-attacks-us-radar-base-bahrain-intercepted-20261117"
+        "title": "결승 도움 송민규의 자책 “1대0은 아쉽다…공격수들 반성해야”",
+        "url": "https://www.yna.co.kr/view/AKR20261118009700007",
+        "event_key": "song-min-kyu-qatar-win-attackers-self-criticism-20261118"
       },
       {
-        "title": "이란 혁명수비대 “호르무즈서 유조선·가스선 기뢰 폭발”",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850474",
-        "event_key": "irgc-claims-two-ships-mine-explosions-hormuz-20261117"
+        "title": "손흥민 “올해 충격도 이겨내야 발전”…A매치 60호골은 내년으로",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850844",
+        "event_key": "son-heungmin-2026-pain-development-60th-goal-delayed-20261118"
       },
       {
-        "title": "삼성 선수단, 우승 공약 지키러 에버랜드서 팬들과 카퍼레이드",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849851",
-        "event_key": "samsung-lions-everland-championship-promise-fan-event-20261117"
+        "title": "아스널, 라이스와 2031년까지 재계약 합의…서명 절차만 남았다",
+        "url": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/11/fabrizio-romano-transfer-news-lewis-hall-man-utd-declan-rice-arsenal-jj-gabriel-real-madrid",
+        "event_key": "declan-rice-arsenal-contract-agreement-2031-20261117"
       },
       {
-        "title": "여당 교육특위 위원장, ‘수험생이 AI커닝 신고’ 발언 뒤 번복",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850457",
-        "event_key": "kim-moonsu-ai-cheating-student-monitoring-remark-reversal-20261117"
+        "title": "“수험생끼리 서로 감시” 발언했다가 철회…수능 하루 전 혼선",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850771",
+        "event_key": "kim-moonsoo-student-mutual-monitoring-remark-withdrawal-20261118"
       },
       {
-        "title": "지인끼리 필로폰 사고판 86명 검거…29명 구속",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850351",
-        "event_key": "seoul-police-face-to-face-meth-network-86-arrests-20261117"
+        "title": "대법원, 이집트 판결문 배척한 난민 불인정 판결 파기",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850841",
+        "event_key": "supreme-court-egypt-refugee-foreign-judgment-review-remand-20261118"
       },
       {
-        "title": "미 정부, ‘젠슨 황 추문’ 메가스피드 반도체 밀반출 수사 공식 확인",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850342",
-        "event_key": "us-confirms-megaspeed-chip-smuggling-investigation-20261117"
+        "title": "태안 앞바다서 7명 탄 어선 연락 두절…마지막 위치서 수색",
+        "url": "https://nwww.newsis.com/view/NISX20261118_0003872374",
+        "event_key": "taean-fishing-boat-seven-missing-search-20261118"
       },
       {
-        "title": "수용자 영치금 400만원 제한법, 법사소위 통과",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850456",
-        "event_key": "korea-prison-deposit-4million-cap-subcommittee-passage-20261117"
+        "title": "젠슨 황 “복귀하겠다” 했지만…엔비디아 의장은 “복직 의사 없다”",
+        "url": "https://nwww.newsis.com/view/NISX20261118_0003872364",
+        "event_key": "nvidia-jensen-huang-return-offer-board-chair-rejects-20261118"
       },
       {
-        "title": "손흥민까지 달라졌다…사우디전 패배 뒤 대표팀 현장 변화",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849114",
-        "event_key": "son-heungmin-korea-team-change-after-saudi-loss-20261117"
+        "title": "상주서 규모 3.6 지진…경북·충북 진도 4, 올해 한반도 최대",
+        "url": "https://www.seoul.co.kr/news/society/2026/11/18/20261118500001",
+        "event_key": "sangju-earthquake-magnitude-3point6-intensity4-20261117"
       },
       {
-        "title": "미, 중국의 해외 AI 데이터센터 원격 접속 차단 규정 시행",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850290",
-        "event_key": "us-blocks-china-remote-access-foreign-ai-datacenters-20261117"
+        "title": "신호등 민원 3년 묵살된 횡단보도서 모자 사망…경찰 뒤늦게 설치",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850648",
+        "event_key": "daegu-padong-crosswalk-mother-child-deaths-signal-installation-20261118"
       }
     ]
   }

@@ -2,72 +2,6 @@
   "version": 1,
   "editions": [
     {
-      "hour_utc": "2026111011",
-      "at": 1794308867,
-      "delivery": "sent",
-      "delivery_key": "hourly-2026111011",
-      "picks": [
-        {
-          "title": "리옹, 과르디올라 사단 비센스 감독 선임…2028년까지 계약",
-          "url": "https://www.etoday.co.kr/news/view/2646277?trc=main_culturelife_news",
-          "event_key": "lyon-carlos-vicens-manager-appointed-20261110"
-        },
-        {
-          "title": "0승3패 뒤 8연승…골든스테이트, NBA 최초 기록",
-          "url": "https://www.reuters.com/sports/basketball/warriors-crush-pelicans-make-nba-history-with-8th-win-after-0-3-start--flm-2026-11-10/",
-          "event_key": "warriors-first-nba-team-0-3-then-eight-wins-20261110"
-        },
-        {
-          "title": "인도네시아 부통령 사임 의사 표명…대통령 수용 여부는 미정",
-          "url": "https://www.reuters.com/world/asia-pacific/fate-indonesias-vice-president-hangs-balance-lawmakers-mull-probe-2026-11-10/",
-          "event_key": "indonesia-vp-gibran-intent-to-resign-20261110"
-        },
-        {
-          "title": "중국 무역흑자 1조달러 돌파…AI 수출이 내수 부진 상쇄",
-          "url": "https://www.reuters.com/world/asia-pacific/chinas-trade-surplus-soars-past-1-trillion-october-exports-jump-352-yy-2026-11-10/",
-          "event_key": "china-trade-surplus-one-trillion-ai-exports-20261110"
-        },
-        {
-          "title": "불가리아 고속도로 수십 대 추돌…11명 사망·50명 부상",
-          "url": "https://www.reuters.com/world/least-10-die-bulgarian-motorway-pile-up-2026-11-10/",
-          "event_key": "bulgaria-a1-motorway-pileup-11-dead-50-injured-20261110"
-        }
-      ]
-    },
-    {
-      "hour_utc": "2026111012",
-      "at": 1794312144,
-      "delivery": "sent",
-      "delivery_key": "hourly-2026111012",
-      "picks": [
-        {
-          "title": "레알 전설 라울, 오비에도 감독 부임…첫 프로팀 지휘",
-          "url": "https://www.managingmadrid.com/115275/raul-oviedo-coach-2026",
-          "event_key": "raul-real-oviedo-head-coach-until-2028-20261109"
-        },
-        {
-          "title": "12점 차 선두 날린 청두…알로이시 감독·회장·단장 동반 퇴진",
-          "url": "https://www.reuters.com/sports/soccer/coach-aloisi-pays-price-chengdu-rongchengs-incredible-title-choke-2026-11-10/",
-          "event_key": "chengdu-title-collapse-aloisi-sacked-board-resigns-20261109"
-        },
-        {
-          "title": "미 대학풋볼 플레이오프 24팀 확대…ESPN 17억달러 계약",
-          "url": "https://www.reuters.com/sports/cfp-espn-sign-deal-expand-24-team-playoff-with-2027-season--flm-2026-11-09/",
-          "event_key": "college-football-playoff-expands-24-teams-espn-deal-20261109"
-        },
-        {
-          "title": "캐나다, 이란 핵·미사일 연계 11개 기관 제재 복원",
-          "url": "https://www.reuters.com/world/canada-reimposes-sanctions-11-iranian-entities-contributing-nuclear-activities-2026-11-10/",
-          "event_key": "canada-reimposes-sanctions-11-iranian-entities-20261110"
-        },
-        {
-          "title": "앤트로픽, 기업가치 1조달러 IPO 추진…최대 904억달러 조달",
-          "url": "https://www.reuters.com/business/anthropic-ipo-raise-much-644-billion-latest-draft-prospectus-shows-2026-11-10/",
-          "event_key": "anthropic-one-trillion-valuation-ipo-20261110"
-        }
-      ]
-    },
-    {
       "hour_utc": "2026111106",
       "at": 1794377784,
       "delivery": "sent",
@@ -1811,6 +1745,134 @@
           "why": "첨단 AI 반도체의 제3국 우회 사용을 막는 새 수출통제 규정으로 산업 파급이 크다.",
           "angle": "중국 기업의 원격 연산 접근 허가제와 동남아·브라질 칩 수출 허가를 함께 정리한다.",
           "why_now": "미 상무부 산업안보국이 새 원격 연산 통제 규정을 공식 발표했다."
+        }
+      ]
+    },
+    {
+      "hour_utc": "2026111723",
+      "at": 1794957381,
+      "delivery": "sent",
+      "delivery_key": "hourly-2026111723",
+      "picks": [
+        {
+          "title": "모레노 “한국 대표팀 다시 맡을 가능성 생각”…정식 전환 의지 밝혔다",
+          "url": "https://www.yna.co.kr/view/AKR20261118004600007",
+          "event_key": "moreno-korea-permanent-coach-return-interest-20261118",
+          "category": "축구",
+          "rank": 1,
+          "published_at": 1794934080,
+          "source": "연합뉴스",
+          "why": "임시 체제 마지막 경기 직후 본인이 정식 지휘 가능성을 직접 언급해 감독 선임 논쟁의 초점이 생겼다.",
+          "angle": "‘다시 맡을 생각’ 한마디와 6경기 3승1무2패, 협회의 최종 평가를 세 장으로 정리한다.",
+          "why_now": "11월18일 01:48 KST 공개. 기존 ‘마지막 경기’ 게시와 달리 재선임 의사를 처음 구체화한 후속이다."
+        },
+        {
+          "title": "결승 도움 송민규의 자책 “1대0은 아쉽다…공격수들 반성해야”",
+          "url": "https://www.yna.co.kr/view/AKR20261118009700007",
+          "event_key": "song-min-kyu-qatar-win-attackers-self-criticism-20261118",
+          "category": "축구",
+          "rank": 2,
+          "published_at": 1794948900,
+          "source": "연합뉴스",
+          "why": "승리 홍보가 아니라 결승 도움 선수가 공격진의 결정력 부족을 직접 인정해 팬이 붙잡을 반전이 있다.",
+          "angle": "결승 도움과 골대 장면 뒤, 공격수들끼리 실제로 나눈 ‘반성’ 발언을 대비한다.",
+          "why_now": "11월18일 05:55 KST 공개. 경기 결과와 별개인 라커룸 직후 자평이 새 사실이다."
+        },
+        {
+          "title": "손흥민 “올해 충격도 이겨내야 발전”…A매치 60호골은 내년으로",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850844",
+          "event_key": "son-heungmin-2026-pain-development-60th-goal-delayed-20261118",
+          "category": "축구",
+          "rank": 3,
+          "published_at": 1794951780,
+          "source": "SBS",
+          "why": "월드컵 탈락과 불화설을 본인이 ‘아픔과 충격’으로 묶고 다음 단계의 말로 정리한 직접 발언이다.",
+          "angle": "엄지 장면, 66분 무득점, ‘아픔을 이겨내야 발전’ 발언을 감정선대로 배치한다.",
+          "why_now": "11월18일 06:43 KST 공개. 전날 추상적 ‘현장 변화’ 추천과 달리 손흥민의 직접 문장과 60호골 불발이 확인됐다."
+        },
+        {
+          "title": "아스널, 라이스와 2031년까지 재계약 합의…서명 절차만 남았다",
+          "url": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/11/fabrizio-romano-transfer-news-lewis-hall-man-utd-declan-rice-arsenal-jj-gabriel-real-madrid",
+          "event_key": "declan-rice-arsenal-contract-agreement-2031-20261117",
+          "category": "축구",
+          "rank": 4,
+          "published_at": 1794920580,
+          "source": "FootballTransfers",
+          "why": "유명 구단 핵심 선수의 장기 계약 구조가 구체적이며 단순 이적설보다 제작 완성도가 높다.",
+          "angle": "‘2031년까지 구두 합의’와 서명 전 단계라는 한계를 함께 첫 장부터 명확히 쓴다.",
+          "why_now": "11월17일 13:03 UTC 공개. 로마노 발언 기준 합의 완료지만 공식 서명 전이라는 새 단계다."
+        },
+        {
+          "title": "“수험생끼리 서로 감시” 발언했다가 철회…수능 하루 전 혼선",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850771",
+          "event_key": "kim-moonsoo-student-mutual-monitoring-remark-withdrawal-20261118",
+          "category": "시사",
+          "rank": 5,
+          "published_at": 1794953640,
+          "source": "SBS",
+          "why": "수능 하루 전 책임자가 경쟁자끼리 감시하자는 구체적 말을 했다가 바로 뒤집은 장면이라 생활 영향과 논쟁이 선명하다.",
+          "angle": "원발언과 철회 문장을 나란히 놓고 교육 당국 책임 논란까지 확장한다.",
+          "why_now": "11월18일 07:14 KST 공개. 전날 번복 보도보다 실제 라디오 발언과 철회 문장이 구체적으로 확인된 후속이다."
+        },
+        {
+          "title": "대법원, 이집트 판결문 배척한 난민 불인정 판결 파기",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850841",
+          "event_key": "supreme-court-egypt-refugee-foreign-judgment-review-remand-20261118",
+          "category": "시사",
+          "rank": 6,
+          "published_at": 1794951600,
+          "source": "SBS",
+          "why": "외국 판결문의 진위를 충분히 심리하지 않은 난민 재판을 뒤집어 증거 판단 기준에 직접 변화를 줬다.",
+          "angle": "15년형 판결문, 하급심 배척, 대법원의 재심리 명령 순서로 법적 쟁점을 쉽게 푼다.",
+          "why_now": "11월18일 06:40 KST 공개. 대법원 파기환송이라는 확정 절차 변화다."
+        },
+        {
+          "title": "태안 앞바다서 7명 탄 어선 연락 두절…마지막 위치서 수색",
+          "url": "https://nwww.newsis.com/view/NISX20261118_0003872374",
+          "event_key": "taean-fishing-boat-seven-missing-search-20261118",
+          "category": "시사",
+          "rank": 7,
+          "published_at": 1794955226,
+          "source": "뉴시스",
+          "why": "국내 승선원 7명의 생사가 걸린 진행 중 구조 상황으로 위치와 신고 시각이 구체적이다.",
+          "angle": "실종 신고, 마지막 위치, 동원 기관을 지도형 카드 세 장으로 압축한다.",
+          "why_now": "11월18일 07:40 KST 공개. 오전 1시9분 신고 뒤 정부가 모든 자원 투입을 지시한 새 구조 상황이다."
+        },
+        {
+          "title": "젠슨 황 “복귀하겠다” 했지만…엔비디아 의장은 “복직 의사 없다”",
+          "url": "https://nwww.newsis.com/view/NISX20261118_0003872364",
+          "event_key": "nvidia-jensen-huang-return-offer-board-chair-rejects-20261118",
+          "category": "시사",
+          "rank": 8,
+          "published_at": 1794954303,
+          "source": "뉴시스·SBS",
+          "why": "사임 뒤 첫 공개 복귀 의사와 이사회 의장의 즉각 거부가 정면 충돌해 기업 권력 변화가 한 문장에 잡힌다.",
+          "angle": "황의 조건부 복귀 성명과 의장의 거부를 같은 시간선에 놓고 확정된 것과 미정인 것을 나눈다.",
+          "why_now": "11월18일 07:25 KST 이사회 의장 입장이 공개됐다. 04:09 KST 황의 복귀 의사 뒤 나온 반대 후속이다."
+        },
+        {
+          "title": "상주서 규모 3.6 지진…경북·충북 진도 4, 올해 한반도 최대",
+          "url": "https://www.seoul.co.kr/news/society/2026/11/18/20261118500001",
+          "event_key": "sangju-earthquake-magnitude-3point6-intensity4-20261117",
+          "category": "시사",
+          "rank": 9,
+          "published_at": 1794929280,
+          "source": "서울신문",
+          "why": "수능을 앞둔 밤 실제 흔들림과 신고가 발생했고 올해 한반도 최대라는 수치가 한눈에 잡힌다.",
+          "angle": "발생 위치·깊이, 진도4 체감, 올해 최대·신고16건을 지도와 숫자로 구성한다.",
+          "why_now": "11월18일 00:28 KST 공개. 17일 23:10 발생 뒤 정밀 분석으로 규모가 3.7에서 3.6으로 조정됐다."
+        },
+        {
+          "title": "신호등 민원 3년 묵살된 횡단보도서 모자 사망…경찰 뒤늦게 설치",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850648",
+          "event_key": "daegu-padong-crosswalk-mother-child-deaths-signal-installation-20261118",
+          "category": "시사",
+          "rank": 10,
+          "published_at": 1794931740,
+          "source": "SBS·TBC",
+          "why": "반복 민원과 안전시설 부재가 모자 사망 뒤에야 바뀌는 구체적 행정 실패라 한국 독자의 생활 안전과 맞닿는다.",
+          "angle": "사고 순간보다 2023년부터 반려된 신호등·방지턱 민원과 뒤늦은 설치 결정을 중심에 둔다.",
+          "why_now": "11월18일 01:09 KST 공개. 15일 사고 뒤 경찰이 점멸 신호등 설치를 발표한 새 후속이다."
         }
       ]
     }
