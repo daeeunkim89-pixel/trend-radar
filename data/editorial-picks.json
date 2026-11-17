@@ -1,171 +1,68 @@
 {
   "version": 2,
-  "hour_utc": "2026111711",
+  "hour_utc": "2026111723",
   "reviewer": "ChatGPT",
-  "generated_at": 1794913324,
+  "generated_at": 1794956873,
   "coverage": {
     "queries": [
-      "2026년 11월 17일 17시 이후 축구 스포츠 공식 발표 결과 한국 선수 구단",
-      "November 17 2026 football soccer official club federation major player latest after 08:00 UTC",
-      "2026년 11월 17일 17시 이후 주요뉴스 속보 한국 정치 사회 산업",
-      "November 17 2026 major sports breaking official result after 08:00 UTC Reuters AP",
-      "site:news.sbs.co.kr/news/endPage.do 2026.11.17 17:00 18:00 19:00 SBS 주요 뉴스 스포츠 축구",
-      "site:reuters.com November 17 2026 after 08:00 UTC sports soccer world Asia Korea"
+      "2026년 11월 18일 한국 축구 대표팀 카타르 경기 공식 인터뷰 결과",
+      "2026년 11월 18일 손흥민 김민재 이강인 황희찬 유럽 축구 최신 직접 발언 계약 공식",
+      "November 18 2026 football latest match reaction official club federation Korea time",
+      "2026년 11월 18일 한국 주요 뉴스 새 결정 충격 생활 영향",
+      "site:yna.co.kr 2026-11-18 축구 송고 2026년11월18일 대표팀 유럽 손흥민 김민재 이강인",
+      "2026년 11월 18일 새벽 한국 주요 뉴스 속보 결정 사건 생활 영향 연합뉴스 뉴시스 공식",
+      "November 18 2026 latest football official reaction transfer contract European club Korea fans",
+      "2026년 11월 18일 오전 한국 속보 지진 코스피 수능 대법원 사고 공식 발표"
     ],
     "opened_urls": [
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850483",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850475",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850474",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849851",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850457",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850351",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850342",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850456",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849821",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850322",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849114",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850290"
+      "https://www.yna.co.kr/view/AKR20261118004600007",
+      "https://www.yna.co.kr/view/AKR20261118009700007",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850844",
+      "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/11/fabrizio-romano-transfer-news-lewis-hall-man-utd-declan-rice-arsenal-jj-gabriel-real-madrid",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850771",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850841",
+      "https://nwww.newsis.com/view/NISX20261118_0003872374",
+      "https://nwww.newsis.com/view/NISX20261118_0003872364",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850735",
+      "https://www.seoul.co.kr/news/society/2026/11/18/20261118500001",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850648",
+      "https://www.yna.co.kr/view/AKR20261118008300007",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850702",
+      "https://nwww.newsis.com/view/NISX20261118_0003872366",
+      "https://nwww.newsis.com/view/NISX20261118_0003872352",
+      "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156789140&pWise=main&pWiseMain=T1_3&pWiseMinistry=ministryNews&repCode=A00031",
+      "https://news.sbs.co.kr/news/newsflash.do?pageDate=20261118",
+      "https://nwww.newsis.com/live/today"
     ],
     "unavailable": [
-      "Instagram check: public @bythepulse open returned Internal Error / Online fetch throttled; one check only, no retry or preference inference",
-      "Football scan: fresh results were mainly previews, training, previously observed Instagram facts, or facts below the selection bar; no fixed quota fill",
-      "run_usage:start=2026-11-17T10:58:06Z q=6 body=12 ok=12 fail=0 unique_selected=10 end=2026-11-17T11:02:04Z elapsed=238s stop=10_verified_initial"
+      "BTP Instagram 공개 프로필 1회 확인: Online fetch throttled; 우회·재요청 없이 기존 학습 기록만 대조.",
+      "FIFA 카타르-한국 경기 본문: DisabledError; 연합뉴스 공개 본문으로 전환.",
+      "run_usage: started_at=2026-11-18T08:02:41+09:00; searches=8; body_attempts=24; body_failures=3; stop=10 verified and deduplicated; measured_at=2026-11-18T08:07:53+09:00; elapsed=312s."
     ]
   },
   "picks": [
     {
-      "title": "공정위 심사관, ‘지정자료 허위 제출’ 쿠팡·김범석 고발 의견",
-      "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850483",
-      "source": "SBS",
+      "title": "모레노 “한국 대표팀 다시 맡을 가능성 생각”…정식 전환 의지 밝혔다",
+      "category": "축구",
+      "url": "https://www.yna.co.kr/view/AKR20261118004600007",
+      "source": "연합뉴스",
       "kind": "article",
-      "event_key": "korea-ftc-examiner-coupang-kim-bomseok-false-designation-data-20261117",
-      "why": "쿠팡 동일인 지정자료의 진실성과 총수 책임을 다루는 중대한 공정거래 절차다.",
-      "angle": "고발 확정이 아니라 심사관 의견과 위원회 심의 단계임을 분리한다.",
-      "why_now": "공정위 사무처가 심사보고서를 보내고 위원회 심의 절차에 들어갔다.",
-      "verified_at": 1794913324,
-      "published_at": 1794912480,
+      "event_key": "moreno-korea-permanent-coach-return-interest-20261118",
+      "why": "임시 체제 마지막 경기 직후 본인이 정식 지휘 가능성을 직접 언급해 감독 선임 논쟁의 초점이 생겼다.",
+      "angle": "‘다시 맡을 생각’ 한마디와 6경기 3승1무2패, 협회의 최종 평가를 세 장으로 정리한다.",
+      "why_now": "11월18일 01:48 KST 공개. 기존 ‘마지막 경기’ 게시와 달리 재선임 의사를 처음 구체화한 후속이다.",
+      "verified_at": 1794956873,
+      "published_at": 1794934080,
       "evidence": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850483",
-          "note": "공정위 심사관은 쿠팡 법인과 김범석 의장을 지정자료 허위 제출 혐의로 고발해야 한다는 의견을 심사보고서에 담아 심의에 넘겼다."
+          "url": "https://www.yna.co.kr/view/AKR20261118004600007",
+          "note": "모레노는 다시 맡을 가능성을 생각한다고 말했고 장기 프로젝트에는 시간과 신뢰가 필요하다고 밝혔다."
         }
       ],
       "materials": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850483",
-          "label": "확인한 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "최종 고발 여부는 공정위 위원회 심의 뒤 결정된다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-17",
-        "observation": "공정위 심사관은 쿠팡 법인과 김범석 의장을 지정자료 허위 제출 혐의로 고발해야 한다는 의견을 심사보고서에 담아 심의에 넘겼다.",
-        "checked_materials": [],
-        "outline": [
-          "확정된 새 사실과 최초 공개 시각을 먼저 제시",
-          "핵심 의미와 확인 한계를 정리"
-        ]
-      }
-    },
-    {
-      "title": "이란, 바레인 미군 레이더 기지 또 공격…방공망이 요격",
-      "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850475",
-      "source": "SBS",
-      "kind": "article",
-      "event_key": "iran-attacks-us-radar-base-bahrain-intercepted-20261117",
-      "why": "외교 교착 중 중동 미군 핵심 거점을 겨냥한 연속 공격으로 확전 위험이 커졌다.",
-      "angle": "이란의 공격 발표와 바레인의 요격 확인을 함께 전한다.",
-      "why_now": "바레인이 17일 이란의 공중 공격을 요격했다고 새로 밝혔다.",
-      "verified_at": 1794913324,
-      "published_at": 1794912240,
-      "evidence": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850475",
-          "note": "바레인 당국은 이란의 공중 공격을 요격했다고 밝혔고, 이란 혁명수비대는 무인기로 미군 레이더 시스템을 겨냥했다고 발표했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850475",
-          "label": "확인한 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "공격 성과에 관한 세부 주장은 양측 발표를 구분해야 한다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-17",
-        "observation": "바레인 당국은 이란의 공중 공격을 요격했다고 밝혔고, 이란 혁명수비대는 무인기로 미군 레이더 시스템을 겨냥했다고 발표했다.",
-        "checked_materials": [],
-        "outline": [
-          "확정된 새 사실과 최초 공개 시각을 먼저 제시",
-          "핵심 의미와 확인 한계를 정리"
-        ]
-      }
-    },
-    {
-      "title": "이란 혁명수비대 “호르무즈서 유조선·가스선 기뢰 폭발”",
-      "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850474",
-      "source": "SBS",
-      "kind": "article",
-      "event_key": "irgc-claims-two-ships-mine-explosions-hormuz-20261117",
-      "why": "세계 핵심 원유 수송로에서 대형 선박 두 척이 폭발했다는 중대한 공급망·안보 주장이다.",
-      "angle": "선박 피해 규모와 미군 호위 주장을 혁명수비대 발표로 명시한다.",
-      "why_now": "혁명수비대가 17일 선박 두 척의 기뢰 접촉·폭발을 새로 발표했다.",
-      "verified_at": 1794913324,
-      "published_at": 1794912060,
-      "evidence": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850474",
-          "note": "이란 혁명수비대는 호르무즈 해협에서 원유 200만 배럴 이상을 실은 유조선과 액화가스 운반선이 기뢰에 접촉해 폭발했다고 주장했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850474",
-          "label": "확인한 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "독립 확인 전인 이란 혁명수비대의 주장이다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-17",
-        "observation": "이란 혁명수비대는 호르무즈 해협에서 원유 200만 배럴 이상을 실은 유조선과 액화가스 운반선이 기뢰에 접촉해 폭발했다고 주장했다.",
-        "checked_materials": [],
-        "outline": [
-          "확정된 새 사실과 최초 공개 시각을 먼저 제시",
-          "핵심 의미와 확인 한계를 정리"
-        ]
-      }
-    },
-    {
-      "title": "삼성 선수단, 우승 공약 지키러 에버랜드서 팬들과 카퍼레이드",
-      "category": "메이저 스포츠",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849851",
-      "source": "SBS",
-      "kind": "article",
-      "event_key": "samsung-lions-everland-championship-promise-fan-event-20261117",
-      "why": "우승 뒤 선수가 내건 약속을 실제 행동과 팬 현장으로 이어간 시각 자료가 있다.",
-      "angle": "강민호의 3월 우승 공약이 선수단·팬 행사로 실현된 장면에 초점을 둔다.",
-      "why_now": "삼성 선수단이 17일 에버랜드에서 카퍼레이드와 팬미팅을 진행했다.",
-      "verified_at": 1794913324,
-      "published_at": 1794911580,
-      "evidence": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849851",
-          "note": "삼성 라이온즈 선수들은 강민호가 3월 내건 우승 공약을 지키기 위해 에버랜드에서 팬들과 카퍼레이드·팬미팅·놀이기구 행사를 했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849851",
-          "label": "확인한 원문",
+          "url": "https://www.yna.co.kr/view/AKR20261118004600007",
+          "label": "확인 원문",
           "kind": "source"
         }
       ],
@@ -173,233 +70,363 @@
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-17",
-        "observation": "삼성 라이온즈 선수들은 강민호가 3월 내건 우승 공약을 지키기 위해 에버랜드에서 팬들과 카퍼레이드·팬미팅·놀이기구 행사를 했다.",
+        "observation": "모레노는 다시 맡을 가능성을 생각한다고 말했고 장기 프로젝트에는 시간과 신뢰가 필요하다고 밝혔다.",
         "checked_materials": [],
         "outline": [
-          "확정된 새 사실과 최초 공개 시각을 먼저 제시",
-          "핵심 의미와 확인 한계를 정리"
+          "첫 장: “모레노, 한국 다시 맡을 생각 있다”",
+          "둘째 장: 임시 체제 성적 3승1무2패와 27일 계약 종료",
+          "셋째 장: 협회 평가만 남은 가운데 그가 요구한 조건은 ‘시간과 신뢰’"
         ]
       }
     },
     {
-      "title": "여당 교육특위 위원장, ‘수험생이 AI커닝 신고’ 발언 뒤 번복",
-      "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850457",
-      "source": "SBS",
-      "kind": "article",
-      "event_key": "kim-moonsu-ai-cheating-student-monitoring-remark-reversal-20261117",
-      "why": "수능을 앞두고 AI 부정행위 대책 책임을 학생에게 넘긴다는 논란과 즉각 번복이 발생했다.",
-      "angle": "처음 발언과 오후의 입장 변경을 시간순으로 보여준다.",
-      "why_now": "당사자가 라디오 발언 뒤 같은 날 ‘상호 감시는 잘못’이라며 입장을 바꿨다.",
-      "verified_at": 1794913324,
-      "published_at": 1794910140,
-      "evidence": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850457",
-          "note": "민주당 교육특위 김문수 위원장은 수험생 상호 감수와 신고를 언급했다가 비판이 일자 수험생 상호 감시는 잘못이며 교육 당국 책임이라고 번복했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850457",
-          "label": "확인한 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "영구 응시 제한 등은 준비 중인 법안 구상이지 시행 확정이 아니다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-17",
-        "observation": "민주당 교육특위 김문수 위원장은 수험생 상호 감수와 신고를 언급했다가 비판이 일자 수험생 상호 감시는 잘못이며 교육 당국 책임이라고 번복했다.",
-        "checked_materials": [],
-        "outline": [
-          "확정된 새 사실과 최초 공개 시각을 먼저 제시",
-          "핵심 의미와 확인 한계를 정리"
-        ]
-      }
-    },
-    {
-      "title": "지인끼리 필로폰 사고판 86명 검거…29명 구속",
-      "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850351",
-      "source": "SBS",
-      "kind": "article",
-      "event_key": "seoul-police-face-to-face-meth-network-86-arrests-20261117",
-      "why": "온라인이 아닌 연인·친구·선후배 관계로 퍼진 대면 마약 거래망 수사 결과다.",
-      "angle": "86명 검거와 초범 비중, 지인 권유 경로를 함께 보여준다.",
-      "why_now": "경찰이 1년 10개월 추적한 전국 대면 거래망 수사 결과를 공개했다.",
-      "verified_at": 1794913324,
-      "published_at": 1794905880,
-      "evidence": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850351",
-          "note": "서울경찰청은 지인 사이에 필로폰을 판매·무상 제공하거나 투약한 86명을 입건하고 29명을 구속했다고 밝혔다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850351",
-          "label": "확인한 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "수사기관 발표 기준이며 개별 혐의는 재판에서 확정된다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-17",
-        "observation": "서울경찰청은 지인 사이에 필로폰을 판매·무상 제공하거나 투약한 86명을 입건하고 29명을 구속했다고 밝혔다.",
-        "checked_materials": [],
-        "outline": [
-          "확정된 새 사실과 최초 공개 시각을 먼저 제시",
-          "핵심 의미와 확인 한계를 정리"
-        ]
-      }
-    },
-    {
-      "title": "미 정부, ‘젠슨 황 추문’ 메가스피드 반도체 밀반출 수사 공식 확인",
-      "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850342",
-      "source": "SBS",
-      "kind": "article",
-      "event_key": "us-confirms-megaspeed-chip-smuggling-investigation-20261117",
-      "why": "미국 정부가 첨단 반도체의 중국 밀반출 의혹에 대한 장기 수사를 처음 공식 확인했다.",
-      "angle": "개인 추문보다 상무부·법무부 공동성명의 수출통제 수사 사실에 초점을 둔다.",
-      "why_now": "미 상무부와 법무부가 2024년부터의 조사와 현장 단속 경위를 공동성명으로 공개했다.",
-      "verified_at": 1794913324,
-      "published_at": 1794904920,
-      "evidence": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850342",
-          "note": "미 상무부와 법무부는 메가스피드의 반도체 불법 밀반출 의혹을 2024년부터 조사했고 2025년 싱가포르에서 현장 단속했다고 밝혔다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850342",
-          "label": "확인한 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "밀반출 의혹과 정보기관 연계 보도는 아직 확정 판결이 아니다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-17",
-        "observation": "미 상무부와 법무부는 메가스피드의 반도체 불법 밀반출 의혹을 2024년부터 조사했고 2025년 싱가포르에서 현장 단속했다고 밝혔다.",
-        "checked_materials": [],
-        "outline": [
-          "확정된 새 사실과 최초 공개 시각을 먼저 제시",
-          "핵심 의미와 확인 한계를 정리"
-        ]
-      }
-    },
-    {
-      "title": "수용자 영치금 400만원 제한법, 법사소위 통과",
-      "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850456",
-      "source": "SBS",
-      "kind": "article",
-      "event_key": "korea-prison-deposit-4million-cap-subcommittee-passage-20261117",
-      "why": "수십억원 영치금 논란 뒤 수용자 계좌와 추가 입금을 법률로 제한하는 제도 변화다.",
-      "angle": "정치 공방보다 400만원 한도와 예외·시행일을 구체적으로 전한다.",
-      "why_now": "법사위 법안심사소위가 17일 개정안을 의결했다.",
-      "verified_at": 1794913324,
-      "published_at": 1794909780,
-      "evidence": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850456",
-          "note": "국회 법사위 법안심사소위는 수용자 영치금 한도를 1인당 400만원으로 두고 초과 시 추가 입금을 제한하는 개정안을 의결했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850456",
-          "label": "확인한 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "소위 통과 단계이며 본회의 의결 전이다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-17",
-        "observation": "국회 법사위 법안심사소위는 수용자 영치금 한도를 1인당 400만원으로 두고 초과 시 추가 입금을 제한하는 개정안을 의결했다.",
-        "checked_materials": [],
-        "outline": [
-          "확정된 새 사실과 최초 공개 시각을 먼저 제시",
-          "핵심 의미와 확인 한계를 정리"
-        ]
-      }
-    },
-    {
-      "title": "손흥민까지 달라졌다…사우디전 패배 뒤 대표팀 현장 변화",
+      "title": "결승 도움 송민규의 자책 “1대0은 아쉽다…공격수들 반성해야”",
       "category": "축구",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849114",
-      "source": "SBS",
+      "url": "https://www.yna.co.kr/view/AKR20261118009700007",
+      "source": "연합뉴스",
       "kind": "article",
-      "event_key": "son-heungmin-korea-team-change-after-saudi-loss-20261117",
-      "why": "한국 팬에게 익숙한 손흥민과 대표팀이 패배 뒤 보인 구체적 변화와 운영 불확실성을 현장에서 짚었다.",
-      "angle": "단합 구호가 아니라 패배 뒤 손흥민의 행동 변화와 전후반 격차·감독 계약 문제를 분리한다.",
-      "why_now": "카타르전을 앞둔 현지 취재에서 대표팀 변화와 남은 과제가 새로 공개됐다.",
-      "verified_at": 1794913324,
-      "published_at": 1794903420,
+      "event_key": "song-min-kyu-qatar-win-attackers-self-criticism-20261118",
+      "why": "승리 홍보가 아니라 결승 도움 선수가 공격진의 결정력 부족을 직접 인정해 팬이 붙잡을 반전이 있다.",
+      "angle": "결승 도움과 골대 장면 뒤, 공격수들끼리 실제로 나눈 ‘반성’ 발언을 대비한다.",
+      "why_now": "11월18일 05:55 KST 공개. 경기 결과와 별개인 라커룸 직후 자평이 새 사실이다.",
+      "verified_at": 1794956873,
+      "published_at": 1794948900,
       "evidence": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849114",
-          "note": "SBS 현지 취재는 사우디전 2대3 패배 뒤 손흥민을 포함한 대표팀 분위기가 달라졌지만 활용법과 경기력 차이, 임시 감독 계약 문제가 남았다고 전했다."
+          "url": "https://www.yna.co.kr/view/AKR20261118009700007",
+          "note": "송민규는 결승골을 도왔지만 1대0 결과가 매우 아쉽고 공격수들끼리 반성해야 한다고 말했다."
         }
       ],
       "materials": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849114",
-          "label": "확인한 원문",
+          "url": "https://www.yna.co.kr/view/AKR20261118009700007",
+          "label": "확인 원문",
           "kind": "source"
         }
       ],
-      "caution": "평가와 전망이 포함된 현장 분석이며 감독 선임은 확정되지 않았다.",
+      "caution": "",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-17",
-        "observation": "SBS 현지 취재는 사우디전 2대3 패배 뒤 손흥민을 포함한 대표팀 분위기가 달라졌지만 활용법과 경기력 차이, 임시 감독 계약 문제가 남았다고 전했다.",
+        "observation": "송민규는 결승골을 도왔지만 1대0 결과가 매우 아쉽고 공격수들끼리 반성해야 한다고 말했다.",
         "checked_materials": [],
         "outline": [
-          "확정된 새 사실과 최초 공개 시각을 먼저 제시",
-          "핵심 의미와 확인 한계를 정리"
+          "첫 장: 결승 도움 선수가 먼저 꺼낸 말 “공격수들 반성해야”",
+          "둘째 장: 수비 두 명을 제치고 골대를 맞힌 뒤 오세훈 결승골 도움",
+          "셋째 장: 많은 기회를 놓친 1대0, 승리보다 결정력을 문제 삼은 이유"
         ]
       }
     },
     {
-      "title": "미, 중국의 해외 AI 데이터센터 원격 접속 차단 규정 시행",
-      "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850290",
+      "title": "손흥민 “올해 충격도 이겨내야 발전”…A매치 60호골은 내년으로",
+      "category": "축구",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850844",
       "source": "SBS",
       "kind": "article",
-      "event_key": "us-blocks-china-remote-access-foreign-ai-datacenters-20261117",
-      "why": "첨단 AI 반도체의 제3국 우회 사용을 막는 새 수출통제 규정으로 산업 파급이 크다.",
-      "angle": "중국 기업의 원격 연산 접근 허가제와 동남아·브라질 칩 수출 허가를 함께 정리한다.",
-      "why_now": "미 상무부 산업안보국이 새 원격 연산 통제 규정을 공식 발표했다.",
-      "verified_at": 1794913324,
-      "published_at": 1794903180,
+      "event_key": "son-heungmin-2026-pain-development-60th-goal-delayed-20261118",
+      "why": "월드컵 탈락과 불화설을 본인이 ‘아픔과 충격’으로 묶고 다음 단계의 말로 정리한 직접 발언이다.",
+      "angle": "엄지 장면, 66분 무득점, ‘아픔을 이겨내야 발전’ 발언을 감정선대로 배치한다.",
+      "why_now": "11월18일 06:43 KST 공개. 전날 추상적 ‘현장 변화’ 추천과 달리 손흥민의 직접 문장과 60호골 불발이 확인됐다.",
+      "verified_at": 1794956873,
+      "published_at": 1794951780,
       "evidence": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850290",
-          "note": "미 상무부는 안보우려국 기업이 해외 데이터센터에서 미국산 첨단 AI 연산을 쓰려면 허가받도록 하고 5개국 칩 수출도 사전 허가 대상으로 뒀다."
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850844",
+          "note": "손흥민은 카타르전 66분을 뛰고 60호골을 미뤘으며 올해의 아픔과 충격을 이겨내야 발전한다고 말했다."
         }
       ],
       "materials": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850290",
-          "label": "확인한 원문",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850844",
+          "label": "확인 원문",
           "kind": "source"
         }
       ],
-      "caution": "중국 정부는 부당한 탄압이라고 반발했으며 규정 효과는 아직 확인되지 않았다.",
+      "caution": "",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-17",
-        "observation": "미 상무부는 안보우려국 기업이 해외 데이터센터에서 미국산 첨단 AI 연산을 쓰려면 허가받도록 하고 5개국 칩 수출도 사전 허가 대상으로 뒀다.",
+        "observation": "손흥민은 카타르전 66분을 뛰고 60호골을 미뤘으며 올해의 아픔과 충격을 이겨내야 발전한다고 말했다.",
         "checked_materials": [],
         "outline": [
-          "확정된 새 사실과 최초 공개 시각을 먼저 제시",
-          "핵심 의미와 확인 한계를 정리"
+          "첫 장: “이 아픔을 이겨내야 발전한다” 손흥민의 연말 한마디",
+          "둘째 장: 카타르전 66분·11월 2연전 무득점, A매치 60호골은 내년으로",
+          "셋째 장: 월드컵 탈락과 불화설을 지나 3월 소집까지 준비하겠다는 결론"
+        ]
+      }
+    },
+    {
+      "title": "아스널, 라이스와 2031년까지 재계약 합의…서명 절차만 남았다",
+      "category": "축구",
+      "url": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/11/fabrizio-romano-transfer-news-lewis-hall-man-utd-declan-rice-arsenal-jj-gabriel-real-madrid",
+      "source": "FootballTransfers",
+      "kind": "article",
+      "event_key": "declan-rice-arsenal-contract-agreement-2031-20261117",
+      "why": "유명 구단 핵심 선수의 장기 계약 구조가 구체적이며 단순 이적설보다 제작 완성도가 높다.",
+      "angle": "‘2031년까지 구두 합의’와 서명 전 단계라는 한계를 함께 첫 장부터 명확히 쓴다.",
+      "why_now": "11월17일 13:03 UTC 공개. 로마노 발언 기준 합의 완료지만 공식 서명 전이라는 새 단계다.",
+      "verified_at": 1794956873,
+      "published_at": 1794920580,
+      "evidence": [
+        {
+          "url": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/11/fabrizio-romano-transfer-news-lewis-hall-man-utd-declan-rice-arsenal-jj-gabriel-real-madrid",
+          "note": "로마노는 아스널과 라이스가 2031년 6월까지 새 계약에 구두 합의했고 서류 서명만 남았다고 말했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/11/fabrizio-romano-transfer-news-lewis-hall-man-utd-declan-rice-arsenal-jj-gabriel-real-madrid",
+          "label": "확인 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-17",
+        "observation": "로마노는 아스널과 라이스가 2031년 6월까지 새 계약에 구두 합의했고 서류 서명만 남았다고 말했다.",
+        "checked_materials": [],
+        "outline": [
+          "첫 장: 라이스, 아스널과 2031년까지 합의",
+          "둘째 장: 장기 협상 끝 ‘done, closed’—다만 아직 공식 서명 전",
+          "셋째 장: 구단이 그를 외데고르드와 함께 주장급 인물로 보는 배경"
+        ]
+      }
+    },
+    {
+      "title": "“수험생끼리 서로 감시” 발언했다가 철회…수능 하루 전 혼선",
+      "category": "시사",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850771",
+      "source": "SBS",
+      "kind": "article",
+      "event_key": "kim-moonsoo-student-mutual-monitoring-remark-withdrawal-20261118",
+      "why": "수능 하루 전 책임자가 경쟁자끼리 감시하자는 구체적 말을 했다가 바로 뒤집은 장면이라 생활 영향과 논쟁이 선명하다.",
+      "angle": "원발언과 철회 문장을 나란히 놓고 교육 당국 책임 논란까지 확장한다.",
+      "why_now": "11월18일 07:14 KST 공개. 전날 번복 보도보다 실제 라디오 발언과 철회 문장이 구체적으로 확인된 후속이다.",
+      "verified_at": 1794956873,
+      "published_at": 1794953640,
+      "evidence": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850771",
+          "note": "김문수 의원은 옆 수험생이 가장 잘 인지한다며 상호 감시를 제안했다가 수험생은 시험에 집중해야 한다고 철회했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850771",
+          "label": "확인 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-18",
+        "observation": "김문수 의원은 옆 수험생이 가장 잘 인지한다며 상호 감시를 제안했다가 수험생은 시험에 집중해야 한다고 철회했다.",
+        "checked_materials": [],
+        "outline": [
+          "첫 장: “옆 수험생이 제일 잘 안다” 상호 감시 제안",
+          "둘째 장: 시험 뒤 신고까지 언급한 실제 라디오 발언",
+          "셋째 장: 비판 직후 “매우 잘못” 철회—수능 하루 전 책임 혼선"
+        ]
+      }
+    },
+    {
+      "title": "대법원, 이집트 판결문 배척한 난민 불인정 판결 파기",
+      "category": "시사",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850841",
+      "source": "SBS",
+      "kind": "article",
+      "event_key": "supreme-court-egypt-refugee-foreign-judgment-review-remand-20261118",
+      "why": "외국 판결문의 진위를 충분히 심리하지 않은 난민 재판을 뒤집어 증거 판단 기준에 직접 변화를 줬다.",
+      "angle": "15년형 판결문, 하급심 배척, 대법원의 재심리 명령 순서로 법적 쟁점을 쉽게 푼다.",
+      "why_now": "11월18일 06:40 KST 공개. 대법원 파기환송이라는 확정 절차 변화다.",
+      "verified_at": 1794956873,
+      "published_at": 1794951600,
+      "evidence": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850841",
+          "note": "대법원은 이집트 판결문이 실제 사법당국 문서일 가능성을 충분히 심리하지 않았다며 원고 패소 판결을 파기했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850841",
+          "label": "확인 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-18",
+        "observation": "대법원은 이집트 판결문이 실제 사법당국 문서일 가능성을 충분히 심리하지 않았다며 원고 패소 판결을 파기했다.",
+        "checked_materials": [],
+        "outline": [
+          "첫 장: “가짜라 단정하기 전에 더 확인했어야” 대법원 파기",
+          "둘째 장: 반정부 시위 참가자가 낸 징역 15년 판결문",
+          "셋째 장: 국제 인권단체 사이트 확인 정황까지 다시 심리"
+        ]
+      }
+    },
+    {
+      "title": "태안 앞바다서 7명 탄 어선 연락 두절…마지막 위치서 수색",
+      "category": "시사",
+      "url": "https://nwww.newsis.com/view/NISX20261118_0003872374",
+      "source": "뉴시스",
+      "kind": "article",
+      "event_key": "taean-fishing-boat-seven-missing-search-20261118",
+      "why": "국내 승선원 7명의 생사가 걸린 진행 중 구조 상황으로 위치와 신고 시각이 구체적이다.",
+      "angle": "실종 신고, 마지막 위치, 동원 기관을 지도형 카드 세 장으로 압축한다.",
+      "why_now": "11월18일 07:40 KST 공개. 오전 1시9분 신고 뒤 정부가 모든 자원 투입을 지시한 새 구조 상황이다.",
+      "verified_at": 1794956873,
+      "published_at": 1794955226,
+      "evidence": [
+        {
+          "url": "https://nwww.newsis.com/view/NISX20261118_0003872374",
+          "note": "7.93t 어선 230해광호가 태안 서격렬비도 북서쪽 약 24km 해상에서 연락이 끊겨 7명을 수색 중이다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://nwww.newsis.com/view/NISX20261118_0003872374",
+          "label": "확인 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-18",
+        "observation": "7.93t 어선 230해광호가 태안 서격렬비도 북서쪽 약 24km 해상에서 연락이 끊겨 7명을 수색 중이다.",
+        "checked_materials": [],
+        "outline": [
+          "첫 장: 태안 앞바다, 7명 탄 어선이 사라졌다",
+          "둘째 장: 마지막 위치는 서격렬비도 북서쪽 약 24km",
+          "셋째 장: 해경·해수부·충남도가 기상 확인과 구조에 총력"
+        ]
+      }
+    },
+    {
+      "title": "젠슨 황 “복귀하겠다” 했지만…엔비디아 의장은 “복직 의사 없다”",
+      "category": "시사",
+      "url": "https://nwww.newsis.com/view/NISX20261118_0003872364",
+      "source": "뉴시스·SBS",
+      "kind": "article",
+      "event_key": "nvidia-jensen-huang-return-offer-board-chair-rejects-20261118",
+      "why": "사임 뒤 첫 공개 복귀 의사와 이사회 의장의 즉각 거부가 정면 충돌해 기업 권력 변화가 한 문장에 잡힌다.",
+      "angle": "황의 조건부 복귀 성명과 의장의 거부를 같은 시간선에 놓고 확정된 것과 미정인 것을 나눈다.",
+      "why_now": "11월18일 07:25 KST 이사회 의장 입장이 공개됐다. 04:09 KST 황의 복귀 의사 뒤 나온 반대 후속이다.",
+      "verified_at": 1794956873,
+      "published_at": 1794954303,
+      "evidence": [
+        {
+          "url": "https://nwww.newsis.com/view/NISX20261118_0003872364",
+          "note": "11월18일 07:25 KST 엔비디아 이사회 의장이 황을 복직시킬 의사가 없다고 밝혔다."
+        },
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850735",
+          "note": "11월18일 04:09 KST 황은 이사회 요청 시 CEO 복귀 의사가 있다고 성명에서 밝혔다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://nwww.newsis.com/view/NISX20261118_0003872364",
+          "label": "확인 원문",
+          "kind": "source"
+        },
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850735",
+          "label": "추가 확인 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-18",
+        "observation": "황은 이사회가 원하면 CEO로 돌아오겠다고 했지만 몇 시간 뒤 이사회 의장은 복직시킬 의사가 없다고 밝혔다.",
+        "checked_materials": [],
+        "outline": [
+          "첫 장: “부르면 돌아간다” vs “복직시킬 생각 없다”",
+          "둘째 장: 사임 엿새 만에 나온 젠슨 황의 첫 공개 성명",
+          "셋째 장: 최종 결정권을 쥔 이사회 의장의 즉각적인 선 긋기"
+        ]
+      }
+    },
+    {
+      "title": "상주서 규모 3.6 지진…경북·충북 진도 4, 올해 한반도 최대",
+      "category": "시사",
+      "url": "https://www.seoul.co.kr/news/society/2026/11/18/20261118500001",
+      "source": "서울신문",
+      "kind": "article",
+      "event_key": "sangju-earthquake-magnitude-3point6-intensity4-20261117",
+      "why": "수능을 앞둔 밤 실제 흔들림과 신고가 발생했고 올해 한반도 최대라는 수치가 한눈에 잡힌다.",
+      "angle": "발생 위치·깊이, 진도4 체감, 올해 최대·신고16건을 지도와 숫자로 구성한다.",
+      "why_now": "11월18일 00:28 KST 공개. 17일 23:10 발생 뒤 정밀 분석으로 규모가 3.7에서 3.6으로 조정됐다.",
+      "verified_at": 1794956873,
+      "published_at": 1794929280,
+      "evidence": [
+        {
+          "url": "https://www.seoul.co.kr/news/society/2026/11/18/20261118500001",
+          "note": "상주 북서쪽 22km, 깊이 20km에서 규모 3.6 지진이 발생해 경북·충북 최대 진도4와 유감 신고 16건이 확인됐다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.seoul.co.kr/news/society/2026/11/18/20261118500001",
+          "label": "확인 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-17",
+        "observation": "상주 북서쪽 22km, 깊이 20km에서 규모 3.6 지진이 발생해 경북·충북 최대 진도4와 유감 신고 16건이 확인됐다.",
+        "checked_materials": [],
+        "outline": [
+          "첫 장: 수능 이틀 전 밤, 상주 규모 3.6 지진",
+          "둘째 장: 상주·문경·보은 진도4—잠에서 깰 수 있는 흔들림",
+          "셋째 장: 올해 한반도 최대, 소방 유감 신고 16건"
+        ]
+      }
+    },
+    {
+      "title": "신호등 민원 3년 묵살된 횡단보도서 모자 사망…경찰 뒤늦게 설치",
+      "category": "시사",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850648",
+      "source": "SBS·TBC",
+      "kind": "article",
+      "event_key": "daegu-padong-crosswalk-mother-child-deaths-signal-installation-20261118",
+      "why": "반복 민원과 안전시설 부재가 모자 사망 뒤에야 바뀌는 구체적 행정 실패라 한국 독자의 생활 안전과 맞닿는다.",
+      "angle": "사고 순간보다 2023년부터 반려된 신호등·방지턱 민원과 뒤늦은 설치 결정을 중심에 둔다.",
+      "why_now": "11월18일 01:09 KST 공개. 15일 사고 뒤 경찰이 점멸 신호등 설치를 발표한 새 후속이다.",
+      "verified_at": 1794956873,
+      "published_at": 1794931740,
+      "evidence": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850648",
+          "note": "신호등 없는 대구 파동 횡단보도에서 42세 여성과 5세 아들이 숨졌고 2023년부터의 안전 민원 뒤 경찰이 점멸 신호등 설치를 밝혔다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850648",
+          "label": "확인 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-18",
+        "observation": "신호등 없는 대구 파동 횡단보도에서 42세 여성과 5세 아들이 숨졌고 2023년부터의 안전 민원 뒤 경찰이 점멸 신호등 설치를 밝혔다.",
+        "checked_materials": [],
+        "outline": [
+          "첫 장: 3년 민원에도 신호등 없던 횡단보도, 모자가 숨졌다",
+          "둘째 장: 신호등·과속방지턱·구간단속 요구가 모두 무산된 과정",
+          "셋째 장: 사고 뒤에야 경찰이 발표한 점멸 신호등 설치"
         ]
       }
     }
