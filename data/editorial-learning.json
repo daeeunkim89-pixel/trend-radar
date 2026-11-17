@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": 1794784416,
+  "updated_at": 1794932580,
   "profile_checks": [
     {
       "at": 1792379965,
@@ -302,6 +302,49 @@
         "공개 프로필 그리드에서 보이는 12개 post_id와 신규 첫 타일 DfxDdTtI4rO를 확인했다.",
         "공식 captioned embed 단 1회에서 실제 렌더 URL·계정 bythepulse·캡션을 확인했다.",
         "정확한 게시시각·전체 피드·전체 슬라이드/영상·Insights는 미확인이고 이번 한 건 성공은 향후 접근 정상 보장이 아니다."
+      ]
+    },
+    {
+      "at": 1794932580,
+      "profile_url": "https://www.instagram.com/bythepulse/",
+      "status": "captions_observed_partial",
+      "execution_environment": "in_app_browser",
+      "access_method": "public_profile_grid_and_official_captioned_embed",
+      "visible_post_ids": [
+        "Df2Tck0IzA8",
+        "Df2OqEYIxC0",
+        "Df2L_VTo6ut",
+        "Df2LT6PI3dG",
+        "Df1zisjo97h",
+        "Df1rXEDIBBk",
+        "Df1klGqoH7O",
+        "Df1cKABoMg5",
+        "Df1RJOEIENM",
+        "Df1DKgro3PP",
+        "Df08afuI0FG",
+        "Df0tc5egaMO"
+      ],
+      "newly_documented_ids": [
+        "Df2Tck0IzA8",
+        "Df2OqEYIxC0",
+        "Df2L_VTo6ut",
+        "Df2LT6PI3dG",
+        "Df1zisjo97h",
+        "Df1rXEDIBBk",
+        "Df1klGqoH7O",
+        "Df1cKABoMg5",
+        "Df1RJOEIENM",
+        "Df1DKgro3PP",
+        "Df08afuI0FG",
+        "Df0tc5egaMO"
+      ],
+      "complete_feed_window": false,
+      "coverage_start_at": null,
+      "coverage_end_at": null,
+      "limits": [
+        "현재 공개 프로필 그리드의12개 post_id를 얻고 공식 captioned embed12개에서 실제 계정·렌더URL·본문을 읽었다.",
+        "일부 그리드가11/17로 표시됐으나 정확한 게시시각·나머지 날짜·전체피드·영상 실제 동작·Insights는 미확인.",
+        "캡션의 뉴스 주장을 독립 검증했다는 뜻은 아니며, 공개 게시 겹침은 사용자 사용의 증거가 아니다."
       ]
     }
   ],
@@ -1068,6 +1111,402 @@
       "miss_stage": "undetermined",
       "timing_limit": "정확한 게시시각과 전체 추천 후보 기록이 없어 선후·미선정 원인을 확정하지 않는다.",
       "next_change": "AI 부정행위 일반 조사와 당사자의 새 수능 연기 주장을 다른 사실로 구분하고, 이미 게시된 이 발언은 재추천하지 않는다."
+    },
+    {
+      "id": "btp-caption-Df2Tck0IzA8",
+      "account": "bythepulse",
+      "post_id": "Df2Tck0IzA8",
+      "post_url": "https://www.instagram.com/bythepulse/p/Df2Tck0IzA8/",
+      "embed_url": "https://www.instagram.com/p/Df2Tck0IzA8/embed/captioned/",
+      "observed_at": 1794932580,
+      "published_at": null,
+      "displayed_date": "2026-11-17",
+      "scope": "caption",
+      "category": "축구",
+      "topic": "카타르전 1-0 승리와 모레노 임시 체제 마지막 경기",
+      "observation": "대표팀 최종 결과를 임시 감독의 마지막 경기라는 맥락으로 다룸.",
+      "underlying_facts_verified": false,
+      "metrics": null,
+      "recommendation_matches": [],
+      "fact_identities": [
+        {
+          "event_key": "korea-qatar-one-zero-moreno-last-interim-match-20261117",
+          "same_fact_verified": true,
+          "evidence": "대표팀 최종 결과를 임시 감독의 마지막 경기라는 맥락으로 다룸.",
+          "identity_scope": "observed caption and public recommendation fact identity; not causal use or independent news verification"
+        }
+      ],
+      "comparison": {
+        "history_commit": "72fd3ee97a3d707e928c668229c1d55f9ebbafbc",
+        "match": "no_same_specific_fact_identified_in_reviewed_history",
+        "direct_use_confirmed": false,
+        "user_feedback_id": "user-recent-recommendations-none-used-20261118"
+      },
+      "miss_stage": "undetermined",
+      "next_change": "대표팀·마지막 경기·확정 결과"
+    },
+    {
+      "id": "btp-caption-Df2OqEYIxC0",
+      "account": "bythepulse",
+      "post_id": "Df2OqEYIxC0",
+      "post_url": "https://www.instagram.com/bythepulse/p/Df2OqEYIxC0/",
+      "embed_url": "https://www.instagram.com/p/Df2OqEYIxC0/embed/captioned/",
+      "observed_at": 1794932580,
+      "published_at": null,
+      "displayed_date": "2026-11-17",
+      "scope": "caption",
+      "category": "축구",
+      "topic": "모리야스 일본 고별전 파라과이에 패배",
+      "observation": "브라질전 승리 뒤 고별전 패배라는 반전과 경기 흐름을 다룸.",
+      "underlying_facts_verified": false,
+      "metrics": null,
+      "recommendation_matches": [],
+      "fact_identities": [
+        {
+          "event_key": "japan-paraguay-one-two-moriyasu-farewell-20261117",
+          "same_fact_verified": true,
+          "evidence": "브라질전 승리 뒤 고별전 패배라는 반전과 경기 흐름을 다룸.",
+          "identity_scope": "observed caption and public recommendation fact identity; not causal use or independent news verification"
+        }
+      ],
+      "comparison": {
+        "history_commit": "72fd3ee97a3d707e928c668229c1d55f9ebbafbc",
+        "match": "no_same_specific_fact_identified_in_reviewed_history",
+        "direct_use_confirmed": false,
+        "user_feedback_id": "user-recent-recommendations-none-used-20261118"
+      },
+      "miss_stage": "undetermined",
+      "next_change": "익숙한 감독·고별전·직전 결과와 반전"
+    },
+    {
+      "id": "btp-caption-Df2L_VTo6ut",
+      "account": "bythepulse",
+      "post_id": "Df2L_VTo6ut",
+      "post_url": "https://www.instagram.com/bythepulse/p/Df2L_VTo6ut/",
+      "embed_url": "https://www.instagram.com/p/Df2L_VTo6ut/embed/captioned/",
+      "observed_at": 1794932580,
+      "published_at": null,
+      "displayed_date": "2026-11-17",
+      "scope": "caption",
+      "category": "축구",
+      "topic": "카타르전 슈팅 0대13과 대표팀 압도",
+      "observation": "전반 슈팅 격차와 압도적인 공격을 짧은 글로 다룸.",
+      "underlying_facts_verified": false,
+      "metrics": null,
+      "recommendation_matches": [],
+      "fact_identities": [
+        {
+          "event_key": "korea-qatar-first-half-thirteen-zero-shots-20261117",
+          "same_fact_verified": true,
+          "evidence": "전반 슈팅 격차와 압도적인 공격을 짧은 글로 다룸.",
+          "identity_scope": "observed caption and public recommendation fact identity; not causal use or independent news verification"
+        }
+      ],
+      "comparison": {
+        "history_commit": "72fd3ee97a3d707e928c668229c1d55f9ebbafbc",
+        "match": "no_same_specific_fact_identified_in_reviewed_history",
+        "direct_use_confirmed": false,
+        "user_feedback_id": "user-recent-recommendations-none-used-20261118"
+      },
+      "miss_stage": "undetermined",
+      "next_change": "한눈에 읽히는 수치·경기 현장"
+    },
+    {
+      "id": "btp-caption-Df2LT6PI3dG",
+      "account": "bythepulse",
+      "post_id": "Df2LT6PI3dG",
+      "post_url": "https://www.instagram.com/bythepulse/p/Df2LT6PI3dG/",
+      "embed_url": "https://www.instagram.com/p/Df2LT6PI3dG/embed/captioned/",
+      "observed_at": 1794932580,
+      "published_at": null,
+      "displayed_date": "2026-11-17",
+      "scope": "caption",
+      "category": "축구",
+      "topic": "오세훈 43분 헤더 선제골",
+      "observation": "골 시간·헤더·13번째 슈팅과 상대 슈팅0회를 구체적으로 다룸.",
+      "underlying_facts_verified": false,
+      "metrics": null,
+      "recommendation_matches": [],
+      "fact_identities": [
+        {
+          "event_key": "oh-se-hun-qatar-43-minute-header-goal-20261117",
+          "same_fact_verified": true,
+          "evidence": "골 시간·헤더·13번째 슈팅과 상대 슈팅0회를 구체적으로 다룸.",
+          "identity_scope": "observed caption and public recommendation fact identity; not causal use or independent news verification"
+        }
+      ],
+      "comparison": {
+        "history_commit": "72fd3ee97a3d707e928c668229c1d55f9ebbafbc",
+        "match": "no_same_specific_fact_identified_in_reviewed_history",
+        "direct_use_confirmed": false,
+        "user_feedback_id": "user-recent-recommendations-none-used-20261118"
+      },
+      "miss_stage": "undetermined",
+      "next_change": "골 장면·한국 선수·구체적 동작"
+    },
+    {
+      "id": "btp-caption-Df1zisjo97h",
+      "account": "bythepulse",
+      "post_id": "Df1zisjo97h",
+      "post_url": "https://www.instagram.com/bythepulse/p/Df1zisjo97h/",
+      "embed_url": "https://www.instagram.com/p/Df1zisjo97h/embed/captioned/",
+      "observed_at": 1794932580,
+      "published_at": null,
+      "displayed_date": "2026-11-17",
+      "scope": "caption",
+      "category": "시사",
+      "topic": "AI 부정행위 통신 기록·AI 이용 기록 추적 방침",
+      "observation": "정부의 통신·AI 서비스 이용 기록 추적과 협의/미합의 범위를 다룸.",
+      "underlying_facts_verified": false,
+      "metrics": null,
+      "recommendation_matches": [],
+      "fact_identities": [
+        {
+          "event_key": "korea-csat-ai-cheating-telecom-ai-service-log-tracing-20261117",
+          "same_fact_verified": true,
+          "evidence": "정부의 통신·AI 서비스 이용 기록 추적과 협의/미합의 범위를 다룸.",
+          "identity_scope": "observed caption and public recommendation fact identity; not causal use or independent news verification"
+        }
+      ],
+      "comparison": {
+        "history_commit": "72fd3ee97a3d707e928c668229c1d55f9ebbafbc",
+        "match": "no_same_specific_fact_identified_in_reviewed_history",
+        "direct_use_confirmed": false,
+        "user_feedback_id": "user-recent-recommendations-none-used-20261118"
+      },
+      "miss_stage": "undetermined",
+      "next_change": "기존 핵심 의제의 구체적 새 대책과 한계"
+    },
+    {
+      "id": "btp-caption-Df1rXEDIBBk",
+      "account": "bythepulse",
+      "post_id": "Df1rXEDIBBk",
+      "post_url": "https://www.instagram.com/bythepulse/p/Df1rXEDIBBk/",
+      "embed_url": "https://www.instagram.com/p/Df1rXEDIBBk/embed/captioned/",
+      "observed_at": 1794932580,
+      "published_at": null,
+      "displayed_date": "2026-11-17",
+      "scope": "caption",
+      "category": "축구",
+      "topic": "호날두 어머니의 헌정 행사·동료 비판 발언",
+      "observation": "직접 발언을 인용해 헌정 행사 불만과 대표팀 대패에 대한 반응을 다룸.",
+      "underlying_facts_verified": false,
+      "metrics": null,
+      "recommendation_matches": [],
+      "fact_identities": [
+        {
+          "event_key": "ronaldo-mother-criticises-tribute-teammates-portugal-loss-202611",
+          "same_fact_verified": true,
+          "evidence": "직접 발언을 인용해 헌정 행사 불만과 대표팀 대패에 대한 반응을 다룸.",
+          "identity_scope": "observed caption and public recommendation fact identity; not causal use or independent news verification"
+        }
+      ],
+      "comparison": {
+        "history_commit": "72fd3ee97a3d707e928c668229c1d55f9ebbafbc",
+        "match": "no_same_specific_fact_identified_in_reviewed_history",
+        "direct_use_confirmed": false,
+        "user_feedback_id": "user-recent-recommendations-none-used-20261118"
+      },
+      "miss_stage": "undetermined",
+      "next_change": "스타 가족·강한 직접 발언·경기 후 새 갈등"
+    },
+    {
+      "id": "btp-caption-Df1klGqoH7O",
+      "account": "bythepulse",
+      "post_id": "Df1klGqoH7O",
+      "post_url": "https://www.instagram.com/bythepulse/p/Df1klGqoH7O/",
+      "embed_url": "https://www.instagram.com/p/Df1klGqoH7O/embed/captioned/",
+      "observed_at": 1794932580,
+      "published_at": null,
+      "displayed_date": null,
+      "scope": "caption",
+      "category": "축구",
+      "topic": "오현규-나폴리 맞교환 가능성 보도",
+      "observation": "포토스포르14일 보도라 출처와 미합의를 분리해 이적 가능성을 다룸.",
+      "underlying_facts_verified": false,
+      "metrics": null,
+      "recommendation_matches": [],
+      "fact_identities": [
+        {
+          "event_key": "oh-hyeon-gyu-napoli-neres-swap-report-20261114",
+          "same_fact_verified": true,
+          "evidence": "포토스포르14일 보도라 출처와 미합의를 분리해 이적 가능성을 다룸.",
+          "identity_scope": "observed caption and public recommendation fact identity; not causal use or independent news verification"
+        }
+      ],
+      "comparison": {
+        "history_commit": "72fd3ee97a3d707e928c668229c1d55f9ebbafbc",
+        "match": "no_same_specific_fact_identified_in_reviewed_history",
+        "direct_use_confirmed": false,
+        "user_feedback_id": "user-recent-recommendations-none-used-20261118"
+      },
+      "miss_stage": "undetermined",
+      "next_change": "한국 해외파·익숙한 구단·구체적 계약 보도; 확정 아님"
+    },
+    {
+      "id": "btp-caption-Df1cKABoMg5",
+      "account": "bythepulse",
+      "post_id": "Df1cKABoMg5",
+      "post_url": "https://www.instagram.com/bythepulse/p/Df1cKABoMg5/",
+      "embed_url": "https://www.instagram.com/p/Df1cKABoMg5/embed/captioned/",
+      "observed_at": 1794932580,
+      "published_at": null,
+      "displayed_date": null,
+      "scope": "caption",
+      "category": "시사",
+      "topic": "수능 재난문자·단추 스티커 대책",
+      "observation": "정부 대책 가운데 재난문자·단추 스티커·전자기기 수거라는 구체적 행동을 다룸.",
+      "underlying_facts_verified": false,
+      "metrics": null,
+      "recommendation_matches": [],
+      "fact_identities": [
+        {
+          "event_key": "korea-csat-emergency-alert-button-stickers-measures-20261117",
+          "same_fact_verified": true,
+          "evidence": "정부 대책 가운데 재난문자·단추 스티커·전자기기 수거라는 구체적 행동을 다룸.",
+          "identity_scope": "observed caption and public recommendation fact identity; not causal use or independent news verification"
+        }
+      ],
+      "comparison": {
+        "history_commit": "72fd3ee97a3d707e928c668229c1d55f9ebbafbc",
+        "match": "no_same_specific_fact_identified_in_reviewed_history",
+        "direct_use_confirmed": false,
+        "user_feedback_id": "user-recent-recommendations-none-used-20261118"
+      },
+      "miss_stage": "undetermined",
+      "next_change": "큰 의제의 기묘하고 구체적인 새 방법"
+    },
+    {
+      "id": "btp-caption-Df1RJOEIENM",
+      "account": "bythepulse",
+      "post_id": "Df1RJOEIENM",
+      "post_url": "https://www.instagram.com/bythepulse/p/Df1RJOEIENM/",
+      "embed_url": "https://www.instagram.com/p/Df1RJOEIENM/embed/captioned/",
+      "observed_at": 1794932580,
+      "published_at": null,
+      "displayed_date": null,
+      "scope": "caption",
+      "category": "축구",
+      "topic": "오워노 12경기 징계에 대한 피케의 반대",
+      "observation": "피케의 공개 영상을 출처로 사고의 결과와 행위에 대한 징계를 구분해야 한다는 입장을 다룸.",
+      "underlying_facts_verified": false,
+      "metrics": null,
+      "recommendation_matches": [
+        {
+          "event_key": "pique-owono-12-match-ban-de-miguel-death-reaction-20261117",
+          "same_fact_verified": true,
+          "evidence": "피케의 공개 영상을 출처로 사고의 결과와 행위에 대한 징계를 구분해야 한다는 입장을 다룸.",
+          "identity_scope": "observed caption and public recommendation fact identity; not causal use or independent news verification"
+        }
+      ],
+      "fact_identities": [],
+      "comparison": {
+        "history_commit": "72fd3ee97a3d707e928c668229c1d55f9ebbafbc",
+        "match": "same_public_fact_observed_timing_and_use_unknown",
+        "direct_use_confirmed": false,
+        "user_feedback_id": "user-recent-recommendations-none-used-20261118"
+      },
+      "miss_stage": "undetermined",
+      "next_change": "유명 축구인·중대한 사건·당사자 논리"
+    },
+    {
+      "id": "btp-caption-Df1DKgro3PP",
+      "account": "bythepulse",
+      "post_id": "Df1DKgro3PP",
+      "post_url": "https://www.instagram.com/bythepulse/p/Df1DKgro3PP/",
+      "embed_url": "https://www.instagram.com/p/Df1DKgro3PP/embed/captioned/",
+      "observed_at": 1794932580,
+      "published_at": null,
+      "displayed_date": null,
+      "scope": "caption",
+      "category": "시사",
+      "topic": "수능 스마트기기 전면 수거·착용물 점검",
+      "observation": "국무총리 발언에 따라 휴대전화 수거, 안경·시계·옷깃·단추 점검과 가방 보관 대책을 다룸.",
+      "underlying_facts_verified": false,
+      "metrics": null,
+      "recommendation_matches": [
+        {
+          "event_key": "korea-csat-smart-device-total-collection-inspection-20261119",
+          "same_fact_verified": true,
+          "evidence": "국무총리 발언에 따라 휴대전화 수거, 안경·시계·옷깃·단추 점검과 가방 보관 대책을 다룸.",
+          "identity_scope": "observed caption and public recommendation fact identity; not causal use or independent news verification"
+        }
+      ],
+      "fact_identities": [],
+      "comparison": {
+        "history_commit": "72fd3ee97a3d707e928c668229c1d55f9ebbafbc",
+        "match": "same_public_fact_observed_timing_and_use_unknown",
+        "direct_use_confirmed": false,
+        "user_feedback_id": "user-recent-recommendations-none-used-20261118"
+      },
+      "miss_stage": "undetermined",
+      "next_change": "핵심 국내 의제·구체적 현장 행동"
+    },
+    {
+      "id": "btp-caption-Df08afuI0FG",
+      "account": "bythepulse",
+      "post_id": "Df08afuI0FG",
+      "post_url": "https://www.instagram.com/bythepulse/p/Df08afuI0FG/",
+      "embed_url": "https://www.instagram.com/p/Df08afuI0FG/embed/captioned/",
+      "observed_at": 1794932580,
+      "published_at": null,
+      "displayed_date": null,
+      "scope": "caption",
+      "category": "축구",
+      "topic": "황인범의 대표팀 정식 감독 선임 요구",
+      "observation": "황인범의16일 인터뷰에서 임시 감독·불투명한 거취에 대한 구체적 의견을 다룸.",
+      "underlying_facts_verified": false,
+      "metrics": null,
+      "recommendation_matches": [],
+      "fact_identities": [
+        {
+          "event_key": "hwang-in-beom-wants-permanent-korea-coach-moreno-contract-20261116",
+          "same_fact_verified": true,
+          "evidence": "황인범의16일 인터뷰에서 임시 감독·불투명한 거취에 대한 구체적 의견을 다룸.",
+          "identity_scope": "observed caption and public recommendation fact identity; not causal use or independent news verification"
+        }
+      ],
+      "comparison": {
+        "history_commit": "72fd3ee97a3d707e928c668229c1d55f9ebbafbc",
+        "match": "no_same_specific_fact_identified_in_reviewed_history",
+        "direct_use_confirmed": false,
+        "user_feedback_id": "user-recent-recommendations-none-used-20261118"
+      },
+      "miss_stage": "undetermined",
+      "next_change": "익숙한 대표 선수·당사자 발언·지속 현안"
+    },
+    {
+      "id": "btp-caption-Df0tc5egaMO",
+      "account": "bythepulse",
+      "post_id": "Df0tc5egaMO",
+      "post_url": "https://www.instagram.com/bythepulse/p/Df0tc5egaMO/",
+      "embed_url": "https://www.instagram.com/p/Df0tc5egaMO/embed/captioned/",
+      "observed_at": 1794932580,
+      "published_at": null,
+      "displayed_date": null,
+      "scope": "caption",
+      "category": "축구",
+      "topic": "독일의 네덜란드 5-0 승리와 순위 반전",
+      "observation": "비르츠 두 골과5-0결과, 세 팀 동률·한 골 차 조1위 조건이라는 맥락을 다룸.",
+      "underlying_facts_verified": false,
+      "metrics": null,
+      "recommendation_matches": [
+        {
+          "event_key": "germany-netherlands-5-0-wirtz-brace-nations-league-group-win-20261116",
+          "same_fact_verified": true,
+          "evidence": "비르츠 두 골과5-0결과, 세 팀 동률·한 골 차 조1위 조건이라는 맥락을 다룸.",
+          "identity_scope": "observed caption and public recommendation fact identity; not causal use or independent news verification"
+        }
+      ],
+      "fact_identities": [],
+      "comparison": {
+        "history_commit": "72fd3ee97a3d707e928c668229c1d55f9ebbafbc",
+        "match": "same_public_fact_observed_timing_and_use_unknown",
+        "direct_use_confirmed": false,
+        "user_feedback_id": "user-recent-recommendations-none-used-20261118"
+      },
+      "miss_stage": "undetermined",
+      "next_change": "익숙한 대표팀·대승·구체적 순위 반전"
     }
   ],
   "rules": [
@@ -1167,6 +1606,33 @@
         "확정 이적과 가능성·보도·주장을 구분하고 일반 연예 제외를 유지한다.",
         "기게시 사실 재추천·사실 검증 생략·최초공개 시각 갱신은 금지한다."
       ]
+    },
+    {
+      "id": "source-discovery-before-news-validation-20261118",
+      "status": "operational_correction_after_explicit_rejection",
+      "introduced_at": 1794932580,
+      "evidence_ids": [
+        "btp-caption-Df2Tck0IzA8",
+        "btp-caption-Df2OqEYIxC0",
+        "btp-caption-Df2L_VTo6ut",
+        "btp-caption-Df2LT6PI3dG",
+        "btp-caption-Df1zisjo97h",
+        "btp-caption-Df1rXEDIBBk",
+        "btp-caption-Df1klGqoH7O",
+        "btp-caption-Df1cKABoMg5",
+        "btp-caption-Df1RJOEIENM",
+        "btp-caption-Df1DKgro3PP",
+        "btp-caption-Df08afuI0FG",
+        "btp-caption-Df0tc5egaMO"
+      ],
+      "user_feedback_id": "user-recent-recommendations-none-used-20261118",
+      "rule": "축구 원본·팬 의제에서 소재를 발견하고 기사 본문은 사실 검증에 사용한다. 단일 뉴스매체 최신 목록을10개 추천의 출발점으로 쓰지 않는다. 후보마다 독자가 멈출 구체적 포인트·확인 자료·새 사실·실제2~4장 구성을 남기며 일반적인 outline 복붙을 중단한다.",
+      "next_check": "다음 정기 회차의 editorial-selection-review.json으로 실제 발견 경로/각 소재 자료/구체적 제작 구성을 남겨 비교한다. 새 서버 문턱/임의 고정 종목 비율로 발송을 끊지 않고 부족분 조사는 기존 예산에서 수행.",
+      "limits": [
+        "설정 변경 자체를 품질 개선 완료라고 보고하지 않는다.",
+        "사용자 미사용 평가를 공개 게시 겹침으로 덮지 않는다.",
+        "모든 뉴스에 영상·공식원본 확보를 강제하거나 보지 않은 장면을 꾸미지 않는다."
+      ]
     }
   ],
   "selection_audits": [
@@ -1202,6 +1668,42 @@
         "일치 없음은 관찰한12개와 비교한150개의 역방향 대조 결과다.",
         "왜 개별 추천을 쓰지 않았는지는 사용자 확인 전 가설이다."
       ]
+    },
+    {
+      "id": "rejected-output-20261118",
+      "at": 1794932580,
+      "history_commit": "72fd3ee97a3d707e928c668229c1d55f9ebbafbc",
+      "observed_caption_posts": 12,
+      "football_posts": 9,
+      "current_affairs_posts": 3,
+      "latest_edition_hour_utc": "2026111711",
+      "latest_recommendations": 10,
+      "latest_football_recommendations": 1,
+      "latest_source_domains": {
+        "news.sbs.co.kr": 10
+      },
+      "generic_identical_outlines": 10,
+      "last_prior_profile_check_at": 1794784416,
+      "user_feedback_id": "user-recent-recommendations-none-used-20261118",
+      "finding": "선정 지침만 바뀌고 최근 회차는 단일 뉴스매체 목록·공통 제작문구로 회귀. 최근 실제 BTP 대조 기록이 회차마다 유지되지 않았다.",
+      "limits": [
+        "사용자가 미사용이라고 명시했고 정확한 피드백 분모는 주지 않았다.",
+        "공개 동일 사실3건은 사용자 채택/우리 추천이 먼저였다는 증거가 아니다.",
+        "개별 후보가 왜 미사용인지 추정은 별도 편집 가설이다."
+      ]
+    }
+  ],
+  "user_feedback": [
+    {
+      "id": "user-recent-recommendations-none-used-20261118",
+      "at": 1794932580,
+      "source": "explicit_user_statement_current_chat",
+      "quote": "지금 쓴게 하나도 없다 하나도",
+      "reported_used_count": 0,
+      "denominator": null,
+      "scope": "사용자가 이번 발언에서 가리킨 최근 추천; 정확한 회차/개수는 명시되지 않음",
+      "finding": "최근 추천에 실제 사용 가치가 없었다는 직접 평가. 공개 게시 겹침으로 반박하거나 사용으로 바꾸지 않는다.",
+      "required_change": "기사 최신 목록에서 수량을 채우는 수집을 중단하고 축구 원본/팬 의제 발견→검증→실제 제작 구체화 순서로 교체. 다음 회차의 실제 자료와 사용 피드백으로 평가."
     }
   ]
 }
