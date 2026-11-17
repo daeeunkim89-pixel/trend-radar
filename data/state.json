@@ -1,5 +1,5 @@
 {
-  "updated_at": 1794892006,
+  "updated_at": 1794903038,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,65 +15,65 @@
     "requested_stories": 10,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026111705",
+    "hour_utc": "2026111708",
     "category_counts": {
-      "시사": 6,
-      "축구": 1,
-      "메이저 스포츠": 3,
+      "시사": 10,
+      "축구": 0,
+      "메이저 스포츠": 0,
       "아이돌": 0
     },
-    "research_queries": 10,
-    "opened_sources": 16,
+    "research_queries": 8,
+    "opened_sources": 14,
     "picks": [
       {
-        "title": "피케, 오워노 12경기 징계에 반발…'사고와 결과를 구분해야'",
-        "url": "https://www.reuters.com/sports/soccer/owono-does-not-deserve-12-match-ban-over-de-miguel-death-says-andorra-owner-2026-11-17/",
-        "event_key": "pique-owono-12-match-ban-de-miguel-death-reaction-20261117"
+        "title": "크렘린 “푸틴, APEC서 이재명 대통령 만날 것”",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850221",
+        "event_key": "putin-lee-jae-myung-apec-meeting-kremlin-20261117"
       },
       {
-        "title": "OK저축은행 신영철 감독 건강 문제로 사퇴…김재헌 대행 체제",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849701",
-        "event_key": "ok-financial-group-shin-young-chul-resigns-health-20261117"
+        "title": "중국, 트럼프의 ‘중국 내 북미회담’ 발언에 “정보 없다”",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850230",
+        "event_key": "china-no-information-trump-kim-apec-meeting-20261117"
       },
       {
-        "title": "세무사회, AI 부정 여파에 6개월 수습·구술평가 강화 추진",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849478",
-        "event_key": "tax-accountants-ai-cheating-followup-training-oral-verification-20261117"
+        "title": "CNN “미 정보당국, 이란의 워싱턴 더티밤 모의 정황 포착”",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850184",
+        "event_key": "cnn-us-intelligence-iran-dirty-bomb-plot-report-20261117"
       },
       {
-        "title": "감사원, 항만 배후단지 8개사 무단 전대…수익 최대 540억원 추정",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849708",
-        "event_key": "audit-port-hinterland-illegal-sublease-540billion-won-20261117"
+        "title": "성착취 피해 청소년, 수사 중에도 전문기관 즉시 연계 추진",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849984",
+        "event_key": "korea-youth-sexual-exploitation-immediate-support-referral-reform-20261117"
       },
       {
-        "title": "아파트 리모델링 동의율 75%→70%…내년 1월 시행",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849743",
-        "event_key": "korea-apartment-remodeling-consent-threshold-70-percent-2027"
+        "title": "조국, 일본 하네다공항서 입국 거부…구체 사유는 미공개",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849965",
+        "event_key": "cho-kuk-japan-entry-denied-haneda-20261117"
       },
       {
-        "title": "한은 'AI가 업무시간 2.4배 더 아꼈지만 생산성 효과는 제한적'",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849741",
-        "event_key": "bok-generative-ai-time-savings-productivity-gap-20261117"
+        "title": "IMF, 한국 올해 성장률 3.9% 전망…한 달 새 0.6%p 상향",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849803",
+        "event_key": "imf-korea-2026-growth-forecast-3point9-20261117"
       },
       {
-        "title": "무안 참사 후 공항안전 전담부서 신설…관제 기능도 일원화",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849740",
-        "event_key": "korea-airport-safety-department-traffic-control-unification-20261117"
+        "title": "중고거래 사기 148억원…경찰, 131명 검거·26명 구속",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849746",
+        "event_key": "busan-police-148billion-won-online-goods-scam-131-arrests-20261117"
       },
       {
-        "title": "뉴질랜드 럭비, 웨일스에 73년 만의 패배…레니 감독 공개 사과",
-        "url": "https://www.reuters.com/sports/new-zealand-coach-rennie-says-all-blacks-let-country-down-with-shock-wales-loss-2026-11-17/",
-        "event_key": "all-blacks-first-wales-loss-73-years-rennie-apology-20261117"
+        "title": "발달장애 아동 잇단 사망…충남도 4천22가구 전수조사",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849784",
+        "event_key": "chungnam-disabled-children-deaths-4022-family-care-audit-20261117"
       },
       {
-        "title": "PGA 투어, LIV 출신 복귀 프로그램 '현재 계획 없다'",
-        "url": "https://www.reuters.com/sports/golf/pga-tour-not-planning-return-program-ex-liv-players-ceo-says-2026-11-16/",
-        "event_key": "pga-tour-no-return-program-former-liv-players-20261116"
+        "title": "‘조작기소 특검법’ 국무회의 통과…최대 309명·200일 수사",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850203",
+        "event_key": "korea-manipulated-prosecution-special-counsel-law-cabinet-20261117"
       },
       {
-        "title": "중국, 캐나다 돼지고기·수산물 관세 완화…철강 감면도 2년 연장",
-        "url": "https://www.reuters.com/world/china-canada-relations-more-stable-carney-says-he-meets-xi-2026-11-17/",
-        "event_key": "china-canada-tariff-relief-pork-seafood-steel-extension-20261117"
+        "title": "마트노조 “홈플러스 임금 3개월 체불…67개 점포 할인 우려”",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850172",
+        "event_key": "homeplus-wage-arrears-67-store-discount-union-warning-20261117"
       }
     ]
   }

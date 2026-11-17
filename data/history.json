@@ -1,6 +1,716 @@
 {
   "version": 1,
   "items": {
+    "c4b9def3ee2d": {
+      "source": "SBS",
+      "title": "크렘린 “푸틴, APEC서 이재명 대통령 만날 것”",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850221",
+      "first_seen_at": 1794903037,
+      "last_seen_at": 1794903037,
+      "samples": [
+        {
+          "at": 1794903037,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "c4b9def3ee2d",
+      "editorial": {
+        "title": "크렘린 “푸틴, APEC서 이재명 대통령 만날 것”",
+        "category": "시사",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850221",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "putin-lee-jae-myung-apec-meeting-kremlin-20261117",
+        "why": "러시아 정상이 APEC에서 한국 대통령과 접촉하겠다는 크렘린의 공식 예고다.",
+        "angle": "정상회담 확정 여부와 짧은 대화 가능성을 구분해 전한다.",
+        "why_now": "크렘린 대변인이 APEC 개막을 앞두고 양국 정상 접촉을 처음 확인했다.",
+        "verified_at": 1794902858,
+        "published_at": 1794901620,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850221",
+            "note": "크렘린 대변인 드미트리 페스코프는 푸틴 대통령이 APEC 기간 이재명 대통령을 어떤 방식으로든 만날 것이며 짧은 대화가 가능하다고 밝혔다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850221",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "정식 양자회담의 형식과 의제는 확정되지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-17",
+          "observation": "크렘린 대변인 드미트리 페스코프는 푸틴 대통령이 APEC 기간 이재명 대통령을 어떤 방식으로든 만날 것이며 짧은 대화가 가능하다고 밝혔다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 수치와 의미, 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850221"
+          }
+        ],
+        "excerpt": "",
+        "context": "크렘린 대변인이 APEC 개막을 앞두고 양국 정상 접촉을 처음 확인했다.",
+        "fetched_at": 1794903037,
+        "parser_revision": 7
+      },
+      "curation_event_key": "putin-lee-jae-myung-apec-meeting-kremlin-20261117"
+    },
+    "2d76d1a54b41": {
+      "source": "SBS",
+      "title": "중국, 트럼프의 ‘중국 내 북미회담’ 발언에 “정보 없다”",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850230",
+      "first_seen_at": 1794903037,
+      "last_seen_at": 1794903037,
+      "samples": [
+        {
+          "at": 1794903037,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "2d76d1a54b41",
+      "editorial": {
+        "title": "중국, 트럼프의 ‘중국 내 북미회담’ 발언에 “정보 없다”",
+        "category": "시사",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850230",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "china-no-information-trump-kim-apec-meeting-20261117",
+        "why": "트럼프의 북미 정상 접촉 가능성 발언에 중국 정부가 낸 첫 공식 반응이다.",
+        "angle": "기존 트럼프 발언을 반복하지 않고 중국 외교부의 새 확인 범위에 초점을 둔다.",
+        "why_now": "중국 외교부가 초청·방문 관련 정보가 없다고 공식 답했다.",
+        "verified_at": 1794902858,
+        "published_at": 1794902100,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850230",
+            "note": "중국 외교부는 트럼프 대통령이 언급한 중국 내 북미 정상 만남과 관련해 북한 측 초청이나 방중에 관해 제공할 정보가 없다고 밝혔다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850230",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "회담 불발을 확정한 발언은 아니며 중국 정부가 가진 정보의 범위만 확인됐다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-17",
+          "observation": "중국 외교부는 트럼프 대통령이 언급한 중국 내 북미 정상 만남과 관련해 북한 측 초청이나 방중에 관해 제공할 정보가 없다고 밝혔다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 수치와 의미, 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850230"
+          }
+        ],
+        "excerpt": "",
+        "context": "중국 외교부가 초청·방문 관련 정보가 없다고 공식 답했다.",
+        "fetched_at": 1794903037,
+        "parser_revision": 7
+      },
+      "curation_event_key": "china-no-information-trump-kim-apec-meeting-20261117"
+    },
+    "0959b3045b4e": {
+      "source": "SBS",
+      "title": "CNN “미 정보당국, 이란의 워싱턴 더티밤 모의 정황 포착”",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850184",
+      "first_seen_at": 1794903037,
+      "last_seen_at": 1794903037,
+      "samples": [
+        {
+          "at": 1794903037,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "0959b3045b4e",
+      "editorial": {
+        "title": "CNN “미 정보당국, 이란의 워싱턴 더티밤 모의 정황 포착”",
+        "category": "시사",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850184",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "cnn-us-intelligence-iran-dirty-bomb-plot-report-20261117",
+        "why": "미국 수도를 겨냥한 방사능·화학 공격 모의 정황이라는 중대한 안보 보도다.",
+        "angle": "정보당국 판단과 백악관의 상반된 위험 평가를 함께 제시한다.",
+        "why_now": "CNN이 복수의 미국 당국자를 인용해 새 정보 판단을 보도했다.",
+        "verified_at": 1794902858,
+        "published_at": 1794900840,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850184",
+            "note": "CNN은 복수의 미국 당국자를 인용해 이란 연계 세력이 워싱턴에서 더티밤이나 화학 공격을 모의한 정황을 미 정보당국이 포착했다고 보도했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850184",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "CNN 보도에 따른 주장으로, 실행 능력과 의도는 논쟁 중이며 백악관은 본토에 신뢰할 만한 위협이 없다고 밝혔다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-17",
+          "observation": "CNN은 복수의 미국 당국자를 인용해 이란 연계 세력이 워싱턴에서 더티밤이나 화학 공격을 모의한 정황을 미 정보당국이 포착했다고 보도했다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 수치와 의미, 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850184"
+          }
+        ],
+        "excerpt": "",
+        "context": "CNN이 복수의 미국 당국자를 인용해 새 정보 판단을 보도했다.",
+        "fetched_at": 1794903037,
+        "parser_revision": 7
+      },
+      "curation_event_key": "cnn-us-intelligence-iran-dirty-bomb-plot-report-20261117"
+    },
+    "fe4de83e6e9e": {
+      "source": "SBS",
+      "title": "성착취 피해 청소년, 수사 중에도 전문기관 즉시 연계 추진",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849984",
+      "first_seen_at": 1794903037,
+      "last_seen_at": 1794903037,
+      "samples": [
+        {
+          "at": 1794903037,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "fe4de83e6e9e",
+      "editorial": {
+        "title": "성착취 피해 청소년, 수사 중에도 전문기관 즉시 연계 추진",
+        "category": "시사",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849984",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "korea-youth-sexual-exploitation-immediate-support-referral-reform-20261117",
+        "why": "피해 청소년이 수사 단계에서 지원망 밖에 놓이는 공백을 메우는 제도 후속이다.",
+        "angle": "사건 재서술보다 수사기관의 즉시 연계 절차 신설에 초점을 둔다.",
+        "why_now": "정부가 성착취 피해 청소년을 전문기관에 즉시 연결하는 개선안을 추진한다고 밝혔다.",
+        "verified_at": 1794902858,
+        "published_at": 1794896400,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849984",
+            "note": "정부는 성착취 피해 청소년을 수사 단계에서 곧바로 전문 지원기관에 연계하도록 관계기관 절차를 개선하는 방안을 추진한다고 밝혔다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849984",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "구체 시행 시기와 최종 절차는 아직 확정되지 않았다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-17",
+          "observation": "정부는 성착취 피해 청소년을 수사 단계에서 곧바로 전문 지원기관에 연계하도록 관계기관 절차를 개선하는 방안을 추진한다고 밝혔다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 수치와 의미, 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849984"
+          }
+        ],
+        "excerpt": "",
+        "context": "정부가 성착취 피해 청소년을 전문기관에 즉시 연결하는 개선안을 추진한다고 밝혔다.",
+        "fetched_at": 1794903037,
+        "parser_revision": 7
+      },
+      "curation_event_key": "korea-youth-sexual-exploitation-immediate-support-referral-reform-20261117"
+    },
+    "5c023cae3e48": {
+      "source": "SBS",
+      "title": "조국, 일본 하네다공항서 입국 거부…구체 사유는 미공개",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849965",
+      "first_seen_at": 1794903037,
+      "last_seen_at": 1794903037,
+      "samples": [
+        {
+          "at": 1794903037,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "5c023cae3e48",
+      "editorial": {
+        "title": "조국, 일본 하네다공항서 입국 거부…구체 사유는 미공개",
+        "category": "시사",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849965",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "cho-kuk-japan-entry-denied-haneda-20261117",
+        "why": "한국 주요 정치인의 일본 입국 거부라는 이례적 외교·정치 사건이다.",
+        "angle": "확인된 입국 거부와 당 측의 독도 관련 추정을 명확히 분리한다.",
+        "why_now": "하네다공항에서 실제 입국 거부가 발생하고 당이 공개 입장을 냈다.",
+        "verified_at": 1794902858,
+        "published_at": 1794896040,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849965",
+            "note": "조국 조국혁신당 대표는 일본 하네다공항에서 입국이 거부돼 귀국했으며 일본 측은 상륙 거부 관련 법 조항을 제시했지만 구체 사유는 밝히지 않았다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849965",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "당이 제기한 독도 활동 연관성은 확인되지 않은 추정이다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-17",
+          "observation": "조국 조국혁신당 대표는 일본 하네다공항에서 입국이 거부돼 귀국했으며 일본 측은 상륙 거부 관련 법 조항을 제시했지만 구체 사유는 밝히지 않았다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 수치와 의미, 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849965"
+          }
+        ],
+        "excerpt": "",
+        "context": "하네다공항에서 실제 입국 거부가 발생하고 당이 공개 입장을 냈다.",
+        "fetched_at": 1794903037,
+        "parser_revision": 7
+      },
+      "curation_event_key": "cho-kuk-japan-entry-denied-haneda-20261117"
+    },
+    "a33c147dbe71": {
+      "source": "SBS",
+      "title": "IMF, 한국 올해 성장률 3.9% 전망…한 달 새 0.6%p 상향",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849803",
+      "first_seen_at": 1794903037,
+      "last_seen_at": 1794903037,
+      "samples": [
+        {
+          "at": 1794903037,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "a33c147dbe71",
+      "editorial": {
+        "title": "IMF, 한국 올해 성장률 3.9% 전망…한 달 새 0.6%p 상향",
+        "category": "시사",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849803",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "imf-korea-2026-growth-forecast-3point9-20261117",
+        "why": "국제기구가 한국 경제 성장 전망을 큰 폭으로 조정한 핵심 거시경제 지표다.",
+        "angle": "상향 폭과 내년 전망, 물가·긴축 권고를 함께 정리한다.",
+        "why_now": "IMF가 한국 연례협의 결과를 공개하며 올해 전망을 새로 제시했다.",
+        "verified_at": 1794902858,
+        "published_at": 1794892740,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849803",
+            "note": "IMF는 한국의 2026년 성장률 전망을 한 달 전보다 0.6%포인트 높은 3.9%로 올리고 2027년은 3.3%로 전망했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849803",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "전망치는 확정 실적이 아니며 IMF는 물가가 목표를 웃돌 수 있다고 경고했다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-17",
+          "observation": "IMF는 한국의 2026년 성장률 전망을 한 달 전보다 0.6%포인트 높은 3.9%로 올리고 2027년은 3.3%로 전망했다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 수치와 의미, 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849803"
+          }
+        ],
+        "excerpt": "",
+        "context": "IMF가 한국 연례협의 결과를 공개하며 올해 전망을 새로 제시했다.",
+        "fetched_at": 1794903037,
+        "parser_revision": 7
+      },
+      "curation_event_key": "imf-korea-2026-growth-forecast-3point9-20261117"
+    },
+    "986fd0d24f05": {
+      "source": "SBS",
+      "title": "중고거래 사기 148억원…경찰, 131명 검거·26명 구속",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849746",
+      "first_seen_at": 1794903037,
+      "last_seen_at": 1794903037,
+      "samples": [
+        {
+          "at": 1794903037,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "986fd0d24f05",
+      "editorial": {
+        "title": "중고거래 사기 148억원…경찰, 131명 검거·26명 구속",
+        "category": "시사",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849746",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "busan-police-148billion-won-online-goods-scam-131-arrests-20261117",
+        "why": "피해자 4천700명 규모의 조직적 온라인 거래 사기 수사 결과다.",
+        "angle": "피해 규모와 두 조직의 허위 사업자·자금세탁 수법을 숫자로 보여준다.",
+        "why_now": "경찰이 장기 수사를 마치고 검거·구속 규모를 공개했다.",
+        "verified_at": 1794902858,
+        "published_at": 1794891840,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849746",
+            "note": "부산경찰청은 중고거래와 온라인 쇼핑몰에서 약 4천700명에게 148억원을 가로챈 두 조직 관련자 131명을 검거하고 26명을 구속했다고 밝혔다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849746",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "수사기관 발표 기준이며 개별 피의자의 혐의는 재판에서 확정된다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-17",
+          "observation": "부산경찰청은 중고거래와 온라인 쇼핑몰에서 약 4천700명에게 148억원을 가로챈 두 조직 관련자 131명을 검거하고 26명을 구속했다고 밝혔다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 수치와 의미, 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849746"
+          }
+        ],
+        "excerpt": "",
+        "context": "경찰이 장기 수사를 마치고 검거·구속 규모를 공개했다.",
+        "fetched_at": 1794903037,
+        "parser_revision": 7
+      },
+      "curation_event_key": "busan-police-148billion-won-online-goods-scam-131-arrests-20261117"
+    },
+    "f8bfc6b48e5f": {
+      "source": "SBS",
+      "title": "발달장애 아동 잇단 사망…충남도 4천22가구 전수조사",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849784",
+      "first_seen_at": 1794903037,
+      "last_seen_at": 1794903037,
+      "samples": [
+        {
+          "at": 1794903037,
+          "views": null,
+          "reactions": null,
+          "rank": 8,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "f8bfc6b48e5f",
+      "editorial": {
+        "title": "발달장애 아동 잇단 사망…충남도 4천22가구 전수조사",
+        "category": "시사",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849784",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "chungnam-disabled-children-deaths-4022-family-care-audit-20261117",
+        "why": "돌봄 공백 속 장애 아동 사망 뒤 광역지자체가 전 가구 위험 점검에 나선 후속이다.",
+        "angle": "4천22가구 조사와 단기보호·24시간 돌봄 보완책을 함께 전한다.",
+        "why_now": "충남도가 두 사망 사건 뒤 전수조사와 긴급 지원책을 발표했다.",
+        "verified_at": 1794902858,
+        "published_at": 1794892200,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849784",
+            "note": "충남도는 발달장애 아동 사망 사건이 잇따르자 도내 장애아동 양육 4천22가구를 전수조사하고 위험 가구 개입과 단기 보호·24시간 돌봄을 강화하겠다고 밝혔다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849784",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "개별 사망 사건의 구체 인과는 수사·조사 결과와 구분한다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-17",
+          "observation": "충남도는 발달장애 아동 사망 사건이 잇따르자 도내 장애아동 양육 4천22가구를 전수조사하고 위험 가구 개입과 단기 보호·24시간 돌봄을 강화하겠다고 밝혔다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 수치와 의미, 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849784"
+          }
+        ],
+        "excerpt": "",
+        "context": "충남도가 두 사망 사건 뒤 전수조사와 긴급 지원책을 발표했다.",
+        "fetched_at": 1794903037,
+        "parser_revision": 7
+      },
+      "curation_event_key": "chungnam-disabled-children-deaths-4022-family-care-audit-20261117"
+    },
+    "b081452f1f2d": {
+      "source": "SBS",
+      "title": "‘조작기소 특검법’ 국무회의 통과…최대 309명·200일 수사",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850203",
+      "first_seen_at": 1794903037,
+      "last_seen_at": 1794903037,
+      "samples": [
+        {
+          "at": 1794903037,
+          "views": null,
+          "reactions": null,
+          "rank": 9,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "b081452f1f2d",
+      "editorial": {
+        "title": "‘조작기소 특검법’ 국무회의 통과…최대 309명·200일 수사",
+        "category": "시사",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850203",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "korea-manipulated-prosecution-special-counsel-law-cabinet-20261117",
+        "why": "대규모 인력과 장기 수사권을 둔 특별검사 제도가 국무회의를 통과한 정치·사법 변화다.",
+        "angle": "확정된 법안 규모와 실제 운영상 쟁점을 구분한다.",
+        "why_now": "국무회의가 특검법을 의결해 시행 절차가 한 단계 진행됐다.",
+        "verified_at": 1794902858,
+        "published_at": 1794901200,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850203",
+            "note": "국무회의는 이른바 조작기소 의혹 특별검사법을 의결했으며 수사팀은 최대 309명, 수사 기간은 최장 200일이고 12개 분야를 대상으로 한다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850203",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "기사의 인력·증거 확보 난점은 전망이며 수사 결과가 확정된 것은 아니다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-17",
+          "observation": "국무회의는 이른바 조작기소 의혹 특별검사법을 의결했으며 수사팀은 최대 309명, 수사 기간은 최장 200일이고 12개 분야를 대상으로 한다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 수치와 의미, 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850203"
+          }
+        ],
+        "excerpt": "",
+        "context": "국무회의가 특검법을 의결해 시행 절차가 한 단계 진행됐다.",
+        "fetched_at": 1794903037,
+        "parser_revision": 7
+      },
+      "curation_event_key": "korea-manipulated-prosecution-special-counsel-law-cabinet-20261117"
+    },
+    "a318b6326c59": {
+      "source": "SBS",
+      "title": "마트노조 “홈플러스 임금 3개월 체불…67개 점포 할인 우려”",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850172",
+      "first_seen_at": 1794903037,
+      "last_seen_at": 1794903037,
+      "samples": [
+        {
+          "at": 1794903037,
+          "views": null,
+          "reactions": null,
+          "rank": 10,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "a318b6326c59",
+      "editorial": {
+        "title": "마트노조 “홈플러스 임금 3개월 체불…67개 점포 할인 우려”",
+        "category": "시사",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850172",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "homeplus-wage-arrears-67-store-discount-union-warning-20261117",
+        "why": "대형 유통사의 임금 체불 주장과 67개 점포 할인 운영이 고용 불안으로 번진 사안이다.",
+        "angle": "확인된 할인 행사와 노조의 체불·폐점 우려 주장을 분리한다.",
+        "why_now": "노조가 3개월 체불을 공개 주장하고 대규모 점포 할인이 시작됐다.",
+        "verified_at": 1794902858,
+        "published_at": 1794900060,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850172",
+            "note": "마트산업노조는 홈플러스 노동자 임금이 3개월째 체불됐다고 주장했고 회사는 67개 점포에서 대규모 할인 행사를 진행하고 있다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850172",
+            "label": "확인한 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "임금 체불과 추가 폐점 우려는 노조 주장으로 회사의 최종 입장과 사실 확인이 더 필요하다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-17",
+          "observation": "마트산업노조는 홈플러스 노동자 임금이 3개월째 체불됐다고 주장했고 회사는 67개 점포에서 대규모 할인 행사를 진행하고 있다.",
+          "checked_materials": [],
+          "outline": [
+            "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+            "핵심 수치와 의미, 확인 한계를 정리"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인한 원문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850172"
+          }
+        ],
+        "excerpt": "",
+        "context": "노조가 3개월 체불을 공개 주장하고 대규모 점포 할인이 시작됐다.",
+        "fetched_at": 1794903037,
+        "parser_revision": 7
+      },
+      "curation_event_key": "homeplus-wage-arrears-67-store-discount-union-warning-20261117"
+    },
     "d9086b9e9742": {
       "source": "Reuters",
       "title": "피케, 오워노 12경기 징계에 반발…'사고와 결과를 구분해야'",
@@ -13185,5 +13895,5 @@
       "curation_event_key": "australia-openai-agent-government-website-breach-mandatory-reporting-20261110"
     }
   },
-  "updated_at": 1794892005
+  "updated_at": 1794903037
 }
