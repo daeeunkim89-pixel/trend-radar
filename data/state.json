@@ -1,5 +1,5 @@
 {
-  "updated_at": 1794881461,
+  "updated_at": 1794892006,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,65 +15,65 @@
     "requested_stories": 10,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026111702",
+    "hour_utc": "2026111705",
     "category_counts": {
-      "시사": 7,
+      "시사": 6,
       "축구": 1,
-      "메이저 스포츠": 2,
+      "메이저 스포츠": 3,
       "아이돌": 0
     },
     "research_queries": 10,
-    "opened_sources": 30,
+    "opened_sources": 16,
     "picks": [
       {
-        "title": "러 군용기 여러 대 동해 KADIZ 진입…공군 전투기 대응",
-        "url": "https://newspim.com/news/view/20261117000154",
-        "event_key": "russian-military-aircraft-east-sea-kadiz-rokaf-response-20261117"
+        "title": "피케, 오워노 12경기 징계에 반발…'사고와 결과를 구분해야'",
+        "url": "https://www.reuters.com/sports/soccer/owono-does-not-deserve-12-match-ban-over-de-miguel-death-says-andorra-owner-2026-11-17/",
+        "event_key": "pique-owono-12-match-ban-de-miguel-death-reaction-20261117"
       },
       {
-        "title": "삼성 AI안경, LED 가리면 카메라 자동 차단…16종 사전예약 품절",
-        "url": "https://newspim.com/news/view/20261117000344",
-        "event_key": "samsung-ai-glasses-camera-indicator-tamper-block-sold-out-20261117"
+        "title": "OK저축은행 신영철 감독 건강 문제로 사퇴…김재헌 대행 체제",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849701",
+        "event_key": "ok-financial-group-shin-young-chul-resigns-health-20261117"
       },
       {
-        "title": "한국 OLED, 중국 제치고 2년 만에 출하량 1위 탈환",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849330",
-        "event_key": "korea-oled-shipment-share-retakes-global-number-one-2026h1"
+        "title": "세무사회, AI 부정 여파에 6개월 수습·구술평가 강화 추진",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849478",
+        "event_key": "tax-accountants-ai-cheating-followup-training-oral-verification-20261117"
       },
       {
-        "title": "500대 기업 3분기 영업이익 239조…삼성·SK하이닉스가 80%",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849232",
-        "event_key": "korea-top500-q3-operating-profit-semiconductors-concentration-2026"
+        "title": "감사원, 항만 배후단지 8개사 무단 전대…수익 최대 540억원 추정",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849708",
+        "event_key": "audit-port-hinterland-illegal-sublease-540billion-won-20261117"
       },
       {
-        "title": "수능 스마트기기 전면 수거…안경·시계·옷깃까지 점검",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849395",
-        "event_key": "korea-csat-smart-device-total-collection-inspection-20261119"
+        "title": "아파트 리모델링 동의율 75%→70%…내년 1월 시행",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849743",
+        "event_key": "korea-apartment-remodeling-consent-threshold-70-percent-2027"
       },
       {
-        "title": "뉴질랜드, 데스 버킹엄 감독 선임…2030 월드컵까지 맡긴다",
-        "url": "https://www.reuters.com/sports/soccer/buckingham-appointed-new-zealand-coach-through-2030-world-cup-2026-11-17/",
-        "event_key": "des-buckingham-new-zealand-coach-through-2030-world-cup-20261117"
+        "title": "한은 'AI가 업무시간 2.4배 더 아꼈지만 생산성 효과는 제한적'",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849741",
+        "event_key": "bok-generative-ai-time-savings-productivity-gap-20261117"
       },
       {
-        "title": "NASCAR 컵 시청자 역대 최저…11억달러 중계권 2년 차에 2% 감소",
-        "url": "https://www.reuters.com/sports/nascar-cup-series-sees-record-low-viewership-26--flm-2026-11-17/",
-        "event_key": "nascar-cup-2026-record-low-viewership-media-rights"
+        "title": "무안 참사 후 공항안전 전담부서 신설…관제 기능도 일원화",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849740",
+        "event_key": "korea-airport-safety-department-traffic-control-unification-20261117"
       },
       {
-        "title": "디섐보, 고향에 첫 골프장 설계…450에이커 복합개발 공개",
-        "url": "https://www.reuters.com/sports/golf/bryson-dechambeau-reveals-first-golf-course-design-amid-uncertain-future--flm-2026-11-17/",
-        "event_key": "bryson-dechambeau-first-golf-course-design-clovis-20261117"
+        "title": "뉴질랜드 럭비, 웨일스에 73년 만의 패배…레니 감독 공개 사과",
+        "url": "https://www.reuters.com/sports/new-zealand-coach-rennie-says-all-blacks-let-country-down-with-shock-wales-loss-2026-11-17/",
+        "event_key": "all-blacks-first-wales-loss-73-years-rennie-apology-20261117"
       },
       {
-        "title": "러시아, 키이우 남·북 교량 타격…일부 지역 전력·수도 끊겨",
-        "url": "https://www.reuters.com/world/kyiv-mayor-klitschko-says-russian-forces-struck-two-bridges-across-dnipro-river-2026-11-16/",
-        "event_key": "russian-strikes-kyiv-north-south-bridges-power-water-cuts-20261116"
+        "title": "PGA 투어, LIV 출신 복귀 프로그램 '현재 계획 없다'",
+        "url": "https://www.reuters.com/sports/golf/pga-tour-not-planning-return-program-ex-liv-players-ceo-says-2026-11-16/",
+        "event_key": "pga-tour-no-return-program-former-liv-players-20261116"
       },
       {
-        "title": "트럼프 첫 쿼드 정상회의…중·러 회담 앞두고 마닐라 집결",
-        "url": "https://www.reuters.com/world/china/trump-kick-off-asia-trip-with-quad-talks-manila-ahead-china-visit-2026-11-17/",
-        "event_key": "trump-first-quad-leaders-meeting-manila-asia-trip-20261117"
+        "title": "중국, 캐나다 돼지고기·수산물 관세 완화…철강 감면도 2년 연장",
+        "url": "https://www.reuters.com/world/china-canada-relations-more-stable-carney-says-he-meets-xi-2026-11-17/",
+        "event_key": "china-canada-tariff-relief-pork-seafood-steel-extension-20261117"
       }
     ]
   }
