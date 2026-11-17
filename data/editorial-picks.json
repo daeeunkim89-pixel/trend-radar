@@ -1,113 +1,73 @@
 {
   "version": 2,
-  "hour_utc": "2026111705",
+  "hour_utc": "2026111708",
   "reviewer": "ChatGPT",
-  "generated_at": 1794891824,
+  "generated_at": 1794902858,
   "coverage": {
     "queries": [
-      "2026년 11월 17일 11시 이후 축구 스포츠 공식 발표 결과 한국 선수 구단",
-      "November 17 2026 football soccer official club federation major player latest after 02:00 UTC",
-      "2026년 11월 17일 11시 이후 주요뉴스 속보 한국 정치 사회 산업",
-      "November 17 2026 major sports breaking official result after 02:00 UTC Reuters AP",
-      "site:reuters.com/sports November 17 2026 football soccer latest after 03:00 UTC",
-      "site:reuters.com/world November 17 2026 Asia Korea breaking latest after 02:00 UTC",
-      "2026년 11월 17일 12시 14시 축구 스포츠 공식 발표 사퇴 징계 결과 선수 구단",
-      "November 17 2026 03:00 05:00 UTC sports soccer official announcement major player result Reuters AP",
-      "2026년 11월 17일 13시 14시 축구 스포츠 공식 발표 결과 한국 선수 구단",
-      "November 17 2026 04:00 05:00 UTC soccer sports official announcement result major player"
+      "2026년 11월 17일 14시 이후 축구 스포츠 공식 발표 결과 한국 선수 구단",
+      "November 17 2026 football soccer official club federation major player latest after 05:00 UTC",
+      "2026년 11월 17일 14시 이후 주요뉴스 속보 한국 정치 사회 산업",
+      "November 17 2026 major sports breaking official result after 05:00 UTC Reuters AP",
+      "site:reuters.com/sports November 17 2026 football soccer latest 06:00 UTC",
+      "site:reuters.com/world November 17 2026 Asia Korea breaking latest 05:00 UTC",
+      "2026년 11월 17일 15시 16시 축구 공식 발표 구단 선수 스포츠 속보",
+      "November 17 2026 soccer football official announcement November 17 2026 06:00 07:00 UTC"
     ],
     "opened_urls": [
       "https://news.sbs.co.kr/news/newsflash.do",
-      "https://nwww.newsis.com/",
+      "https://news.sbs.co.kr/news/newsSection.do?sectionType=09",
       "https://www.reuters.com/sports/",
       "https://www.reuters.com/world/",
-      "https://news.sbs.co.kr/news/newsflash.do?pageIdx=2",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849478",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849701",
-      "https://www.reuters.com/sports/soccer/owono-does-not-deserve-12-match-ban-over-de-miguel-death-says-andorra-owner-2026-11-17/",
-      "https://www.reuters.com/technology/apec-focuses-safe-responsible-ai-use-chinas-ex-un-envoy-says-2026-11-17/",
-      "https://www.reuters.com/sports/golf/pga-tour-not-planning-return-program-ex-liv-players-ceo-says-2026-11-16/",
-      "https://www.reuters.com/sports/new-zealand-coach-rennie-says-all-blacks-let-country-down-with-shock-wales-loss-2026-11-17/",
-      "https://www.reuters.com/world/china-canada-relations-more-stable-carney-says-he-meets-xi-2026-11-17/",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849743",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849741",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849740",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849708"
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850221",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850230",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850184",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849984",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849965",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849803",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849746",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849784",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850203",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850172"
     ],
     "unavailable": [
-      "Instagram check: cloud Chrome redirected the public @bythepulse profile to login; no grid or caption read, no retry, bypass, or preference inference",
-      "Body access: 2 failures on list/body routes; switched once to accessible direct originals without URL variants",
-      "run_usage:start=2026-11-17T04:58:56Z q=10 body=25 ok=23 fail=2 unique_selected=10 end=2026-11-17T05:03:44Z elapsed=288s stop=10_verified"
+      "Instagram check: cloud Chrome redirected public @bythepulse to the login page; no grid/caption read and no retry or preference inference",
+      "Body access: one direct article route returned DisabledError; switched to accessible official/major-media originals without URL variants",
+      "Football scan: fresh direct searches returned previews, stale items, or weak facts below the current selection bar; no fixed quota fill",
+      "run_usage:start=2026-11-17T08:00:22Z q=8 body=21 ok=20 fail=1 unique_selected=10 end=2026-11-17T08:07:38Z elapsed=436s stop=10_verified_after_extension1"
     ]
   },
   "picks": [
     {
-      "title": "피케, 오워노 12경기 징계에 반발…'사고와 결과를 구분해야'",
-      "category": "축구",
-      "url": "https://www.reuters.com/sports/soccer/owono-does-not-deserve-12-match-ban-over-de-miguel-death-says-andorra-owner-2026-11-17/",
-      "source": "Reuters",
-      "kind": "article",
-      "event_key": "pique-owono-12-match-ban-de-miguel-death-reaction-20261117",
-      "why": "선수 사망으로 이어진 충돌 뒤 중징계와 구단주 공개 반발이 맞선 중대한 축구 사건이다.",
-      "angle": "징계 근거와 피케의 직접 반응, 오워노의 대표팀 이탈을 분리해 전한다.",
-      "why_now": "피케의 공개 반응과 징계 세부가 새로 보도됐다.",
-      "verified_at": 1794891824,
-      "published_at": 1794887100,
-      "evidence": [
-        {
-          "url": "https://www.reuters.com/sports/soccer/owono-does-not-deserve-12-match-ban-over-de-miguel-death-says-andorra-owner-2026-11-17/",
-          "note": "FC 안도라 구단주 제라르 피케는 헤수스 오워노가 테네리페 공격수 헤수스 데 미겔의 사망으로 이어진 충돌 뒤 받은 12경기 출전정지가 부당하다고 주장했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.reuters.com/sports/soccer/owono-does-not-deserve-12-match-ban-over-de-miguel-death-says-andorra-owner-2026-11-17/",
-          "label": "확인한 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "징계 결정과 피케의 주장은 구분하며 충돌과 사망의 의학적 인과를 단정하지 않는다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-17",
-        "observation": "FC 안도라 구단주 제라르 피케는 헤수스 오워노가 테네리페 공격수 헤수스 데 미겔의 사망으로 이어진 충돌 뒤 받은 12경기 출전정지가 부당하다고 주장했다.",
-        "checked_materials": [],
-        "outline": [
-          "확정된 새 사실과 최초 공개 시각을 먼저 제시",
-          "핵심 수치와 의미, 확인 한계를 정리"
-        ]
-      }
-    },
-    {
-      "title": "OK저축은행 신영철 감독 건강 문제로 사퇴…김재헌 대행 체제",
-      "category": "메이저 스포츠",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849701",
+      "title": "크렘린 “푸틴, APEC서 이재명 대통령 만날 것”",
+      "category": "시사",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850221",
       "source": "SBS",
       "kind": "article",
-      "event_key": "ok-financial-group-shin-young-chul-resigns-health-20261117",
-      "why": "V리그 최초 정규리그 300승 감독이 시즌 중 지휘봉을 내려놓은 확정 인사 변화다.",
-      "angle": "사퇴 이유와 김재헌 수석코치 대행 전환을 함께 보여준다.",
-      "why_now": "구단이 사퇴 수용과 대행 체제를 공식 발표했다.",
-      "verified_at": 1794891824,
-      "published_at": 1794888660,
+      "event_key": "putin-lee-jae-myung-apec-meeting-kremlin-20261117",
+      "why": "러시아 정상이 APEC에서 한국 대통령과 접촉하겠다는 크렘린의 공식 예고다.",
+      "angle": "정상회담 확정 여부와 짧은 대화 가능성을 구분해 전한다.",
+      "why_now": "크렘린 대변인이 APEC 개막을 앞두고 양국 정상 접촉을 처음 확인했다.",
+      "verified_at": 1794902858,
+      "published_at": 1794901620,
       "evidence": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849701",
-          "note": "OK저축은행은 신영철 감독이 건강 문제로 사퇴했으며 한국전력전부터 김재헌 수석코치가 감독대행을 맡는다고 밝혔다."
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850221",
+          "note": "크렘린 대변인 드미트리 페스코프는 푸틴 대통령이 APEC 기간 이재명 대통령을 어떤 방식으로든 만날 것이며 짧은 대화가 가능하다고 밝혔다."
         }
       ],
       "materials": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849701",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850221",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "",
+      "caution": "정식 양자회담의 형식과 의제는 확정되지 않았다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-17",
-        "observation": "OK저축은행은 신영철 감독이 건강 문제로 사퇴했으며 한국전력전부터 김재헌 수석코치가 감독대행을 맡는다고 밝혔다.",
+        "observation": "크렘린 대변인 드미트리 페스코프는 푸틴 대통령이 APEC 기간 이재명 대통령을 어떤 방식으로든 만날 것이며 짧은 대화가 가능하다고 밝혔다.",
         "checked_materials": [],
         "outline": [
           "확정된 새 사실과 최초 공개 시각을 먼저 제시",
@@ -116,35 +76,35 @@
       }
     },
     {
-      "title": "세무사회, AI 부정 여파에 6개월 수습·구술평가 강화 추진",
+      "title": "중국, 트럼프의 ‘중국 내 북미회담’ 발언에 “정보 없다”",
       "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849478",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850230",
       "source": "SBS",
       "kind": "article",
-      "event_key": "tax-accountants-ai-cheating-followup-training-oral-verification-20261117",
-      "why": "AI 부정행위 의혹 이후 자격 등록 단계에 실제 추가 검증망을 도입하려는 중대한 후속이다.",
-      "angle": "기존 사건 재서술보다 6개월 수습·구술시험이라는 새 제도 대응에 초점을 둔다.",
-      "why_now": "세무사회가 이번 합격자부터 적용할 계획을 공개했다.",
-      "verified_at": 1794891824,
-      "published_at": 1794890580,
+      "event_key": "china-no-information-trump-kim-apec-meeting-20261117",
+      "why": "트럼프의 북미 정상 접촉 가능성 발언에 중국 정부가 낸 첫 공식 반응이다.",
+      "angle": "기존 트럼프 발언을 반복하지 않고 중국 외교부의 새 확인 범위에 초점을 둔다.",
+      "why_now": "중국 외교부가 초청·방문 관련 정보가 없다고 공식 답했다.",
+      "verified_at": 1794902858,
+      "published_at": 1794902100,
       "evidence": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849478",
-          "note": "한국세무사회는 합격자의 6개월 수습교육을 강화하고 구술평가를 도입해 기준 미달 시 수료증을 주지 않는 방안을 이번 합격자부터 적용하겠다고 밝혔다."
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850230",
+          "note": "중국 외교부는 트럼프 대통령이 언급한 중국 내 북미 정상 만남과 관련해 북한 측 초청이나 방중에 관해 제공할 정보가 없다고 밝혔다."
         }
       ],
       "materials": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849478",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850230",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "재정경제부가 법적 위임 범위를 검토 중이어서 확정 제도로 단정하지 않는다.",
+      "caution": "회담 불발을 확정한 발언은 아니며 중국 정부가 가진 정보의 범위만 확인됐다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-17",
-        "observation": "한국세무사회는 합격자의 6개월 수습교육을 강화하고 구술평가를 도입해 기준 미달 시 수료증을 주지 않는 방안을 이번 합격자부터 적용하겠다고 밝혔다.",
+        "observation": "중국 외교부는 트럼프 대통령이 언급한 중국 내 북미 정상 만남과 관련해 북한 측 초청이나 방중에 관해 제공할 정보가 없다고 밝혔다.",
         "checked_materials": [],
         "outline": [
           "확정된 새 사실과 최초 공개 시각을 먼저 제시",
@@ -153,35 +113,35 @@
       }
     },
     {
-      "title": "감사원, 항만 배후단지 8개사 무단 전대…수익 최대 540억원 추정",
+      "title": "CNN “미 정보당국, 이란의 워싱턴 더티밤 모의 정황 포착”",
       "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849708",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850184",
       "source": "SBS",
       "kind": "article",
-      "event_key": "audit-port-hinterland-illegal-sublease-540billion-won-20261117",
-      "why": "공공자산을 빌린 기업들의 대규모 무단 전대와 관리기관 방치가 드러난 감사 결과다.",
-      "angle": "8개사·최대 540억원과 전국 전수조사 통보를 핵심 수치로 보여준다.",
-      "why_now": "감사원이 감사 결과와 해수부 통보 내용을 공개했다.",
-      "verified_at": 1794891824,
-      "published_at": 1794889140,
+      "event_key": "cnn-us-intelligence-iran-dirty-bomb-plot-report-20261117",
+      "why": "미국 수도를 겨냥한 방사능·화학 공격 모의 정황이라는 중대한 안보 보도다.",
+      "angle": "정보당국 판단과 백악관의 상반된 위험 평가를 함께 제시한다.",
+      "why_now": "CNN이 복수의 미국 당국자를 인용해 새 정보 판단을 보도했다.",
+      "verified_at": 1794902858,
+      "published_at": 1794900840,
       "evidence": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849708",
-          "note": "감사원은 인천항과 평택·당진항 입주기업 8곳이 승인 없이 시설을 전대해 2022년부터 2025년 10월까지 최대 540억여원의 수익을 거둔 것으로 추정했다."
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850184",
+          "note": "CNN은 복수의 미국 당국자를 인용해 이란 연계 세력이 워싱턴에서 더티밤이나 화학 공격을 모의한 정황을 미 정보당국이 포착했다고 보도했다."
         }
       ],
       "materials": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849708",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850184",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "시설 투자비 등을 빼면 실제 수익은 더 작을 수 있다는 감사원 설명을 함께 전한다.",
+      "caution": "CNN 보도에 따른 주장으로, 실행 능력과 의도는 논쟁 중이며 백악관은 본토에 신뢰할 만한 위협이 없다고 밝혔다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-17",
-        "observation": "감사원은 인천항과 평택·당진항 입주기업 8곳이 승인 없이 시설을 전대해 2022년부터 2025년 10월까지 최대 540억여원의 수익을 거둔 것으로 추정했다.",
+        "observation": "CNN은 복수의 미국 당국자를 인용해 이란 연계 세력이 워싱턴에서 더티밤이나 화학 공격을 모의한 정황을 미 정보당국이 포착했다고 보도했다.",
         "checked_materials": [],
         "outline": [
           "확정된 새 사실과 최초 공개 시각을 먼저 제시",
@@ -190,35 +150,35 @@
       }
     },
     {
-      "title": "아파트 리모델링 동의율 75%→70%…내년 1월 시행",
+      "title": "성착취 피해 청소년, 수사 중에도 전문기관 즉시 연계 추진",
       "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849743",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849984",
       "source": "SBS",
       "kind": "article",
-      "event_key": "korea-apartment-remodeling-consent-threshold-70-percent-2027",
-      "why": "주거 정비사업 추진 조건이 전국적으로 바뀌는 생활 밀착형 제도 변화다.",
-      "angle": "전체·개별 동 동의율 변화와 동별 50% 요건 유지점을 구분한다.",
-      "why_now": "국무회의가 시행령 개정안을 의결했다.",
-      "verified_at": 1794891824,
-      "published_at": 1794891600,
+      "event_key": "korea-youth-sexual-exploitation-immediate-support-referral-reform-20261117",
+      "why": "피해 청소년이 수사 단계에서 지원망 밖에 놓이는 공백을 메우는 제도 후속이다.",
+      "angle": "사건 재서술보다 수사기관의 즉시 연계 절차 신설에 초점을 둔다.",
+      "why_now": "정부가 성착취 피해 청소년을 전문기관에 즉시 연결하는 개선안을 추진한다고 밝혔다.",
+      "verified_at": 1794902858,
+      "published_at": 1794896400,
       "evidence": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849743",
-          "note": "국무회의에서 공동주택 리모델링 허가 동의율을 75%에서 70%로 낮추는 시행령 개정안이 의결됐고 내년 1월 1일부터 시행된다."
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849984",
+          "note": "정부는 성착취 피해 청소년을 수사 단계에서 곧바로 전문 지원기관에 연계하도록 관계기관 절차를 개선하는 방안을 추진한다고 밝혔다."
         }
       ],
       "materials": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849743",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849984",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "",
+      "caution": "구체 시행 시기와 최종 절차는 아직 확정되지 않았다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-17",
-        "observation": "국무회의에서 공동주택 리모델링 허가 동의율을 75%에서 70%로 낮추는 시행령 개정안이 의결됐고 내년 1월 1일부터 시행된다.",
+        "observation": "정부는 성착취 피해 청소년을 수사 단계에서 곧바로 전문 지원기관에 연계하도록 관계기관 절차를 개선하는 방안을 추진한다고 밝혔다.",
         "checked_materials": [],
         "outline": [
           "확정된 새 사실과 최초 공개 시각을 먼저 제시",
@@ -227,35 +187,35 @@
       }
     },
     {
-      "title": "한은 'AI가 업무시간 2.4배 더 아꼈지만 생산성 효과는 제한적'",
+      "title": "조국, 일본 하네다공항서 입국 거부…구체 사유는 미공개",
       "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849741",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849965",
       "source": "SBS",
       "kind": "article",
-      "event_key": "bok-generative-ai-time-savings-productivity-gap-20261117",
-      "why": "한국 취업자 대규모 조사에서 AI 사용 확대와 실제 성과 사이의 간극을 수치로 확인했다.",
-      "angle": "시간 절감 9.2%와 산출·품질 상관이 낮다는 대비를 시각화한다.",
-      "why_now": "한국은행 이슈노트가 공개됐다.",
-      "verified_at": 1794891824,
-      "published_at": 1794891480,
+      "event_key": "cho-kuk-japan-entry-denied-haneda-20261117",
+      "why": "한국 주요 정치인의 일본 입국 거부라는 이례적 외교·정치 사건이다.",
+      "angle": "확인된 입국 거부와 당 측의 독도 관련 추정을 명확히 분리한다.",
+      "why_now": "하네다공항에서 실제 입국 거부가 발생하고 당이 공개 입장을 냈다.",
+      "verified_at": 1794902858,
+      "published_at": 1794896040,
       "evidence": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849741",
-          "note": "한국은행 조사에서 업무용 생성형 AI 활용자의 시간 절감률은 1년 새 3.8%에서 9.2%로 늘었지만 산출량·품질 개선과의 상관은 낮았다."
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849965",
+          "note": "조국 조국혁신당 대표는 일본 하네다공항에서 입국이 거부돼 귀국했으며 일본 측은 상륙 거부 관련 법 조항을 제시했지만 구체 사유는 밝히지 않았다."
         }
       ],
       "materials": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849741",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849965",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "",
+      "caution": "당이 제기한 독도 활동 연관성은 확인되지 않은 추정이다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-17",
-        "observation": "한국은행 조사에서 업무용 생성형 AI 활용자의 시간 절감률은 1년 새 3.8%에서 9.2%로 늘었지만 산출량·품질 개선과의 상관은 낮았다.",
+        "observation": "조국 조국혁신당 대표는 일본 하네다공항에서 입국이 거부돼 귀국했으며 일본 측은 상륙 거부 관련 법 조항을 제시했지만 구체 사유는 밝히지 않았다.",
         "checked_materials": [],
         "outline": [
           "확정된 새 사실과 최초 공개 시각을 먼저 제시",
@@ -264,35 +224,35 @@
       }
     },
     {
-      "title": "무안 참사 후 공항안전 전담부서 신설…관제 기능도 일원화",
+      "title": "IMF, 한국 올해 성장률 3.9% 전망…한 달 새 0.6%p 상향",
       "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849740",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849803",
       "source": "SBS",
       "kind": "article",
-      "event_key": "korea-airport-safety-department-traffic-control-unification-20261117",
-      "why": "항공 참사 뒤 공항 안전 감독과 관제 지휘체계를 실제로 바꾸는 정부 조직 개편이다.",
-      "angle": "전담조직·관제사 366명 일원화·호남항공청 추진을 한눈에 정리한다.",
-      "why_now": "국무회의가 직제 개정안을 의결했다.",
-      "verified_at": 1794891824,
-      "published_at": 1794891420,
+      "event_key": "imf-korea-2026-growth-forecast-3point9-20261117",
+      "why": "국제기구가 한국 경제 성장 전망을 큰 폭으로 조정한 핵심 거시경제 지표다.",
+      "angle": "상향 폭과 내년 전망, 물가·긴축 권고를 함께 정리한다.",
+      "why_now": "IMF가 한국 연례협의 결과를 공개하며 올해 전망을 새로 제시했다.",
+      "verified_at": 1794902858,
+      "published_at": 1794892740,
       "evidence": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849740",
-          "note": "정부는 공항안전관리단을 신설하고 지방항공청 관제사 등 366명과 기능을 항공교통본부로 일원화하며 호남지방항공청 신설도 추진한다."
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849803",
+          "note": "IMF는 한국의 2026년 성장률 전망을 한 달 전보다 0.6%포인트 높은 3.9%로 올리고 2027년은 3.3%로 전망했다."
         }
       ],
       "materials": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849740",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849803",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "",
+      "caution": "전망치는 확정 실적이 아니며 IMF는 물가가 목표를 웃돌 수 있다고 경고했다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-17",
-        "observation": "정부는 공항안전관리단을 신설하고 지방항공청 관제사 등 366명과 기능을 항공교통본부로 일원화하며 호남지방항공청 신설도 추진한다.",
+        "observation": "IMF는 한국의 2026년 성장률 전망을 한 달 전보다 0.6%포인트 높은 3.9%로 올리고 2027년은 3.3%로 전망했다.",
         "checked_materials": [],
         "outline": [
           "확정된 새 사실과 최초 공개 시각을 먼저 제시",
@@ -301,109 +261,146 @@
       }
     },
     {
-      "title": "뉴질랜드 럭비, 웨일스에 73년 만의 패배…레니 감독 공개 사과",
-      "category": "메이저 스포츠",
-      "url": "https://www.reuters.com/sports/new-zealand-coach-rennie-says-all-blacks-let-country-down-with-shock-wales-loss-2026-11-17/",
-      "source": "Reuters",
-      "kind": "article",
-      "event_key": "all-blacks-first-wales-loss-73-years-rennie-apology-20261117",
-      "why": "세계 럭비 강호가 73년 만에 웨일스에 지자 감독이 국가에 사과한 역사적 이변이다.",
-      "angle": "35대28 결과와 감독의 직접 책임 발언을 함께 전한다.",
-      "why_now": "이변 직후 데이브 레니 감독의 공개 반응이 나왔다.",
-      "verified_at": 1794891824,
-      "published_at": 1794884340,
-      "evidence": [
-        {
-          "url": "https://www.reuters.com/sports/new-zealand-coach-rennie-says-all-blacks-let-country-down-with-shock-wales-loss-2026-11-17/",
-          "note": "뉴질랜드 올블랙스는 웨일스에 28대35로 져 73년 만에 처음 패했고 데이브 레니 감독은 나라를 실망시켰다며 책임을 인정했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.reuters.com/sports/new-zealand-coach-rennie-says-all-blacks-let-country-down-with-shock-wales-loss-2026-11-17/",
-          "label": "확인한 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-17",
-        "observation": "뉴질랜드 올블랙스는 웨일스에 28대35로 져 73년 만에 처음 패했고 데이브 레니 감독은 나라를 실망시켰다며 책임을 인정했다.",
-        "checked_materials": [],
-        "outline": [
-          "확정된 새 사실과 최초 공개 시각을 먼저 제시",
-          "핵심 수치와 의미, 확인 한계를 정리"
-        ]
-      }
-    },
-    {
-      "title": "PGA 투어, LIV 출신 복귀 프로그램 '현재 계획 없다'",
-      "category": "메이저 스포츠",
-      "url": "https://www.reuters.com/sports/golf/pga-tour-not-planning-return-program-ex-liv-players-ceo-says-2026-11-16/",
-      "source": "Reuters",
-      "kind": "article",
-      "event_key": "pga-tour-no-return-program-former-liv-players-20261116",
-      "why": "LIV의 해체 절차 속에서도 선수 복귀 규정이 자동 완화되지 않는다는 골프 판도 결정이다.",
-      "angle": "CEO 발언과 기존 1년 출전정지 원칙, 과거 예외 비용을 구분한다.",
-      "why_now": "PGA 투어 CEO가 2027년 복귀 프로그램 계획이 없다고 밝혔다.",
-      "verified_at": 1794891824,
-      "published_at": 1794872880,
-      "evidence": [
-        {
-          "url": "https://www.reuters.com/sports/golf/pga-tour-not-planning-return-program-ex-liv-players-ceo-says-2026-11-16/",
-          "note": "PGA 투어 브라이언 롤랩 CEO는 LIV 골프가 해체 절차에 들어간 상황에서도 전 LIV 선수들을 위한 2027년 복귀 프로그램을 현재 계획하지 않는다고 말했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.reuters.com/sports/golf/pga-tour-not-planning-return-program-ex-liv-players-ceo-says-2026-11-16/",
-          "label": "확인한 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-16",
-        "observation": "PGA 투어 브라이언 롤랩 CEO는 LIV 골프가 해체 절차에 들어간 상황에서도 전 LIV 선수들을 위한 2027년 복귀 프로그램을 현재 계획하지 않는다고 말했다.",
-        "checked_materials": [],
-        "outline": [
-          "확정된 새 사실과 최초 공개 시각을 먼저 제시",
-          "핵심 수치와 의미, 확인 한계를 정리"
-        ]
-      }
-    },
-    {
-      "title": "중국, 캐나다 돼지고기·수산물 관세 완화…철강 감면도 2년 연장",
+      "title": "중고거래 사기 148억원…경찰, 131명 검거·26명 구속",
       "category": "시사",
-      "url": "https://www.reuters.com/world/china-canada-relations-more-stable-carney-says-he-meets-xi-2026-11-17/",
-      "source": "Reuters",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849746",
+      "source": "SBS",
       "kind": "article",
-      "event_key": "china-canada-tariff-relief-pork-seafood-steel-extension-20261117",
-      "why": "중국과 캐나다가 정상회담을 계기로 실제 관세 완화 조치를 교환한 통상 변화다.",
-      "angle": "4억 캐나다달러 규모 품목과 철강·알루미늄 감면 연장을 함께 설명한다.",
-      "why_now": "시진핑·카니 회담 뒤 구체적 관세 조치가 발표됐다.",
-      "verified_at": 1794891824,
-      "published_at": 1794888480,
+      "event_key": "busan-police-148billion-won-online-goods-scam-131-arrests-20261117",
+      "why": "피해자 4천700명 규모의 조직적 온라인 거래 사기 수사 결과다.",
+      "angle": "피해 규모와 두 조직의 허위 사업자·자금세탁 수법을 숫자로 보여준다.",
+      "why_now": "경찰이 장기 수사를 마치고 검거·구속 규모를 공개했다.",
+      "verified_at": 1794902858,
+      "published_at": 1794891840,
       "evidence": [
         {
-          "url": "https://www.reuters.com/world/china-canada-relations-more-stable-carney-says-he-meets-xi-2026-11-17/",
-          "note": "중국은 약 4억 캐나다달러 규모 캐나다산 돼지고기·어류·해산물 관세를 완화하고 캐나다는 일부 중국산 철강·알루미늄 관세 감면을 2년 연장했다."
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849746",
+          "note": "부산경찰청은 중고거래와 온라인 쇼핑몰에서 약 4천700명에게 148억원을 가로챈 두 조직 관련자 131명을 검거하고 26명을 구속했다고 밝혔다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.reuters.com/world/china-canada-relations-more-stable-carney-says-he-meets-xi-2026-11-17/",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849746",
           "label": "확인한 원문",
           "kind": "source"
         }
       ],
-      "caution": "",
+      "caution": "수사기관 발표 기준이며 개별 피의자의 혐의는 재판에서 확정된다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-17",
-        "observation": "중국은 약 4억 캐나다달러 규모 캐나다산 돼지고기·어류·해산물 관세를 완화하고 캐나다는 일부 중국산 철강·알루미늄 관세 감면을 2년 연장했다.",
+        "observation": "부산경찰청은 중고거래와 온라인 쇼핑몰에서 약 4천700명에게 148억원을 가로챈 두 조직 관련자 131명을 검거하고 26명을 구속했다고 밝혔다.",
+        "checked_materials": [],
+        "outline": [
+          "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+          "핵심 수치와 의미, 확인 한계를 정리"
+        ]
+      }
+    },
+    {
+      "title": "발달장애 아동 잇단 사망…충남도 4천22가구 전수조사",
+      "category": "시사",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849784",
+      "source": "SBS",
+      "kind": "article",
+      "event_key": "chungnam-disabled-children-deaths-4022-family-care-audit-20261117",
+      "why": "돌봄 공백 속 장애 아동 사망 뒤 광역지자체가 전 가구 위험 점검에 나선 후속이다.",
+      "angle": "4천22가구 조사와 단기보호·24시간 돌봄 보완책을 함께 전한다.",
+      "why_now": "충남도가 두 사망 사건 뒤 전수조사와 긴급 지원책을 발표했다.",
+      "verified_at": 1794902858,
+      "published_at": 1794892200,
+      "evidence": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849784",
+          "note": "충남도는 발달장애 아동 사망 사건이 잇따르자 도내 장애아동 양육 4천22가구를 전수조사하고 위험 가구 개입과 단기 보호·24시간 돌봄을 강화하겠다고 밝혔다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849784",
+          "label": "확인한 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "개별 사망 사건의 구체 인과는 수사·조사 결과와 구분한다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-17",
+        "observation": "충남도는 발달장애 아동 사망 사건이 잇따르자 도내 장애아동 양육 4천22가구를 전수조사하고 위험 가구 개입과 단기 보호·24시간 돌봄을 강화하겠다고 밝혔다.",
+        "checked_materials": [],
+        "outline": [
+          "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+          "핵심 수치와 의미, 확인 한계를 정리"
+        ]
+      }
+    },
+    {
+      "title": "‘조작기소 특검법’ 국무회의 통과…최대 309명·200일 수사",
+      "category": "시사",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850203",
+      "source": "SBS",
+      "kind": "article",
+      "event_key": "korea-manipulated-prosecution-special-counsel-law-cabinet-20261117",
+      "why": "대규모 인력과 장기 수사권을 둔 특별검사 제도가 국무회의를 통과한 정치·사법 변화다.",
+      "angle": "확정된 법안 규모와 실제 운영상 쟁점을 구분한다.",
+      "why_now": "국무회의가 특검법을 의결해 시행 절차가 한 단계 진행됐다.",
+      "verified_at": 1794902858,
+      "published_at": 1794901200,
+      "evidence": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850203",
+          "note": "국무회의는 이른바 조작기소 의혹 특별검사법을 의결했으며 수사팀은 최대 309명, 수사 기간은 최장 200일이고 12개 분야를 대상으로 한다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850203",
+          "label": "확인한 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "기사의 인력·증거 확보 난점은 전망이며 수사 결과가 확정된 것은 아니다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-17",
+        "observation": "국무회의는 이른바 조작기소 의혹 특별검사법을 의결했으며 수사팀은 최대 309명, 수사 기간은 최장 200일이고 12개 분야를 대상으로 한다.",
+        "checked_materials": [],
+        "outline": [
+          "확정된 새 사실과 최초 공개 시각을 먼저 제시",
+          "핵심 수치와 의미, 확인 한계를 정리"
+        ]
+      }
+    },
+    {
+      "title": "마트노조 “홈플러스 임금 3개월 체불…67개 점포 할인 우려”",
+      "category": "시사",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850172",
+      "source": "SBS",
+      "kind": "article",
+      "event_key": "homeplus-wage-arrears-67-store-discount-union-warning-20261117",
+      "why": "대형 유통사의 임금 체불 주장과 67개 점포 할인 운영이 고용 불안으로 번진 사안이다.",
+      "angle": "확인된 할인 행사와 노조의 체불·폐점 우려 주장을 분리한다.",
+      "why_now": "노조가 3개월 체불을 공개 주장하고 대규모 점포 할인이 시작됐다.",
+      "verified_at": 1794902858,
+      "published_at": 1794900060,
+      "evidence": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850172",
+          "note": "마트산업노조는 홈플러스 노동자 임금이 3개월째 체불됐다고 주장했고 회사는 67개 점포에서 대규모 할인 행사를 진행하고 있다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850172",
+          "label": "확인한 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "임금 체불과 추가 폐점 우려는 노조 주장으로 회사의 최종 입장과 사실 확인이 더 필요하다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-17",
+        "observation": "마트산업노조는 홈플러스 노동자 임금이 3개월째 체불됐다고 주장했고 회사는 67개 점포에서 대규모 할인 행사를 진행하고 있다.",
         "checked_materials": [],
         "outline": [
           "확정된 새 사실과 최초 공개 시각을 먼저 제시",
