@@ -37,7 +37,7 @@
     "unavailable": [
       "BTP Instagram 공개 프로필 1회 확인: Online fetch throttled; 우회·재요청 없이 기존 학습 기록만 대조.",
       "FIFA 카타르-한국 경기 본문: DisabledError; 연합뉴스 공개 본문으로 전환.",
-      "run_usage: started_at=2026-11-18T08:02:41+09:00; searches=8; body_attempts=24; body_failures=3; stop=10 verified and deduplicated; measured_at=2026-11-18T08:07:53+09:00; elapsed=312s."
+      "run_usage: start=2026-11-18T08:02:41+09:00; searches=8; bodies=24; failures=3; stop=10_verified; end=08:07:53+09:00; elapsed=312s."
     ]
   },
   "picks": [
