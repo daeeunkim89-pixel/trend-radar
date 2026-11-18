@@ -1,6 +1,731 @@
 {
   "version": 1,
   "items": {
+    "dd26a755da3c": {
+      "source": "연합뉴스",
+      "title": "후배 폭행 전 전남 선수, K리그 10경기 정지·벌금 1천만원",
+      "link": "https://www.yna.co.kr/view/AKR20261118132400007",
+      "first_seen_at": 1794989520,
+      "last_seen_at": 1794989520,
+      "samples": [
+        {
+          "at": 1794989520,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "dd26a755da3c",
+      "editorial": {
+        "title": "후배 폭행 전 전남 선수, K리그 10경기 정지·벌금 1천만원",
+        "category": "축구",
+        "url": "https://www.yna.co.kr/view/AKR20261118132400007",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "former-jeonnam-player-assault-kleague-ten-match-ban-20261118",
+        "why": "계약 해지로 끝난 사건에 리그가 10경기 정지와 벌금까지 확정해 선수 기본권 보호 기준을 분명히 했다.",
+        "angle": "폭행 사건→구단 계약 해지→리그 추가 징계의 순서와 10경기·1천만원을 분리해 보여준다.",
+        "why_now": "11월18일 15:24 KST 공개. 구단 조치 뒤 프로축구연맹의 공식 징계가 새로 확정됐다.",
+        "verified_at": 1794989274,
+        "published_at": 1794983040,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261118132400007",
+            "note": "한국프로축구연맹은 후배를 폭행한 전 전남 선수에게 10경기 출장정지와 제재금 1천만원을 부과했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261118132400007",
+            "label": "확인 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-18",
+          "observation": "한국프로축구연맹은 후배를 폭행한 전 전남 선수에게 10경기 출장정지와 제재금 1천만원을 부과했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 후배 폭행으로 계약이 끝난 선수에게 리그 징계가 추가됐다",
+            "둘째 장: 출장정지 10경기·제재금 1천만원",
+            "셋째 장: 연맹이 밝힌 기준—선수 안전과 기본권, 리그 신뢰 훼손"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인 원문",
+            "url": "https://www.yna.co.kr/view/AKR20261118132400007"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월18일 15:24 KST 공개. 구단 조치 뒤 프로축구연맹의 공식 징계가 새로 확정됐다.",
+        "fetched_at": 1794989520,
+        "parser_revision": 7
+      },
+      "curation_event_key": "former-jeonnam-player-assault-kleague-ten-match-ban-20261118"
+    },
+    "2fa3fdffd06d": {
+      "source": "SBS",
+      "title": "갈비뼈 통증 버틴 강민호 “한국시리즈 2차전이 우승 분수령”",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852189",
+      "first_seen_at": 1794989520,
+      "last_seen_at": 1794989520,
+      "samples": [
+        {
+          "at": 1794989520,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "2fa3fdffd06d",
+      "editorial": {
+        "title": "갈비뼈 통증 버틴 강민호 “한국시리즈 2차전이 우승 분수령”",
+        "category": "메이저 스포츠",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852189",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "kang-minho-korean-series-game-two-turning-point-injury-20261118",
+        "why": "우승 직후 포수가 직접 꼽은 분수령과 부상 투혼, 다음 우승에 필요한 이름까지 한 인터뷰에 담겼다.",
+        "angle": "통증을 안고 뛴 결승 무대와 2차전 판단, 최형우·구자욱·원태인에 대한 직접 평가를 인터뷰 흐름대로 구성한다.",
+        "why_now": "11월18일 16:27 KST 공개. 삼성 우승 뒤 강민호가 경기 안에서 느낀 전환점과 몸 상태를 처음 구체적으로 설명했다.",
+        "verified_at": 1794989274,
+        "published_at": 1794986820,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852189",
+            "note": "강민호는 한국시리즈 2차전을 분수령으로 꼽고 심한 회전근 통증을 참고 뛰었다고 말했으며 최형우를 '범접할 수 없는 레전드'라고 평가했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852189",
+            "label": "확인 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-18",
+          "observation": "강민호는 한국시리즈 2차전을 분수령으로 꼽고 심한 회전근 통증을 참고 뛰었다고 말했으며 최형우를 '범접할 수 없는 레전드'라고 평가했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 강민호가 꼽은 우승의 분수령은 한국시리즈 2차전",
+            "둘째 장: 회전할 때마다 아팠던 갈비뼈 부위—그래도 포수 마스크를 썼다",
+            "셋째 장: 최형우는 ‘범접할 수 없는 레전드’",
+            "넷째 장: 다음 우승에 필요하다고 지목한 구자욱과 원태인"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인 원문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852189"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월18일 16:27 KST 공개. 삼성 우승 뒤 강민호가 경기 안에서 느낀 전환점과 몸 상태를 처음 구체적으로 설명했다.",
+        "fetched_at": 1794989520,
+        "parser_revision": 7
+      },
+      "curation_event_key": "kang-minho-korean-series-game-two-turning-point-injury-20261118"
+    },
+    "85164c9574d5": {
+      "source": "SBS",
+      "title": "제주 이건희, 서울전 바이시클킥으로 생애 첫 K리그 이달의 골",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851923",
+      "first_seen_at": 1794989520,
+      "last_seen_at": 1794989520,
+      "samples": [
+        {
+          "at": 1794989520,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "85164c9574d5",
+      "editorial": {
+        "title": "제주 이건희, 서울전 바이시클킥으로 생애 첫 K리그 이달의 골",
+        "category": "축구",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851923",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "jeju-lee-geonhee-bicycle-kick-kleague-goal-month-20261118",
+        "why": "등을 진 상태에서 나온 바이시클킥 한 장면과 57.4% 팬 투표라는 결과가 바로 카드로 옮길 수 있다.",
+        "angle": "서울전 72분 장면, 바이시클킥 동작, 무고사와의 투표 결과를 세 장으로 좁힌다.",
+        "why_now": "11월18일 14:42 KST 공개. 연맹이 10월 이달의 골 수상과 득표를 확정 발표했다.",
+        "verified_at": 1794989274,
+        "published_at": 1794980520,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851923",
+            "note": "이건희는 서울전 후반 27분 바이시클킥 골로 3,418표(57.4%)를 받아 생애 첫 K리그 이달의 골을 수상했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851923",
+            "label": "확인 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-18",
+          "observation": "이건희는 서울전 후반 27분 바이시클킥 골로 3,418표(57.4%)를 받아 생애 첫 K리그 이달의 골을 수상했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 등을 진 채 몸을 띄운 이건희의 바이시클킥",
+            "둘째 장: 서울전 후반 27분, 골문으로 꽂힌 한 장면",
+            "셋째 장: 3,418표·57.4%로 무고사를 제치고 첫 월간상"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인 원문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851923"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월18일 14:42 KST 공개. 연맹이 10월 이달의 골 수상과 득표를 확정 발표했다.",
+        "fetched_at": 1794989520,
+        "parser_revision": 7
+      },
+      "curation_event_key": "jeju-lee-geonhee-bicycle-kick-kleague-goal-month-20261118"
+    },
+    "cf1c280271bb": {
+      "source": "SBS",
+      "title": "구성윤, 김대원 페널티킥 막고 K리그 첫 ‘이달의 세이브’",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851904",
+      "first_seen_at": 1794989520,
+      "last_seen_at": 1794989520,
+      "samples": [
+        {
+          "at": 1794989520,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "cf1c280271bb",
+      "editorial": {
+        "title": "구성윤, 김대원 페널티킥 막고 K리그 첫 ‘이달의 세이브’",
+        "category": "축구",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851904",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "fc-seoul-gu-sungyun-penalty-save-kleague-save-month-20261118",
+        "why": "전반 추가시간 페널티킥을 막은 결정적 장면과 초대 수상이라는 기록이 함께 잡힌다.",
+        "angle": "PK 직전 상황, 구성윤의 선방, 4,582표와 초대 수상 결과를 장면 중심으로 배열한다.",
+        "why_now": "11월18일 14:36 KST 공개. 신설된 K리그 이달의 세이브 첫 수상자가 확정됐다.",
+        "verified_at": 1794989274,
+        "published_at": 1794980160,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851904",
+            "note": "구성윤은 강원전 전반 추가시간 김대원의 페널티킥을 막은 장면으로 4,582표를 받아 첫 이달의 세이브 수상자가 됐다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851904",
+            "label": "확인 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-18",
+          "observation": "구성윤은 강원전 전반 추가시간 김대원의 페널티킥을 막은 장면으로 4,582표를 받아 첫 이달의 세이브 수상자가 됐다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 전반 추가시간, 김대원의 페널티킥을 막아낸 구성윤",
+            "둘째 장: 승부가 흔들릴 수 있던 한 번의 킥과 선방",
+            "셋째 장: 4,582표—신설된 이달의 세이브 첫 수상자"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인 원문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851904"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월18일 14:36 KST 공개. 신설된 K리그 이달의 세이브 첫 수상자가 확정됐다.",
+        "fetched_at": 1794989520,
+        "parser_revision": 7
+      },
+      "curation_event_key": "fc-seoul-gu-sungyun-penalty-save-kleague-save-month-20261118"
+    },
+    "178f77be973f": {
+      "source": "SBS",
+      "title": "수원 김민우, 하프라인 롱패스로 K리그 첫 월간 도움 2회 수상",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851847",
+      "first_seen_at": 1794989520,
+      "last_seen_at": 1794989520,
+      "samples": [
+        {
+          "at": 1794989520,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "178f77be973f",
+      "editorial": {
+        "title": "수원 김민우, 하프라인 롱패스로 K리그 첫 월간 도움 2회 수상",
+        "category": "축구",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851847",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "suwon-kim-minwoo-long-pass-second-delivery-month-20261118",
+        "why": "하프라인 부근 롱패스가 골로 이어진 장면과 신설상 최초 2회 수상이라는 차별점이 선명하다.",
+        "angle": "김민우의 긴 패스, 루이스의 가슴 트래핑과 마무리, 최초 2회 수상을 동작별로 나눈다.",
+        "why_now": "11월18일 14:19 KST 공개. 10월 수상 발표로 김민우가 처음 두 차례 받은 선수가 됐다.",
+        "verified_at": 1794989274,
+        "published_at": 1794979140,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851847",
+            "note": "김민우는 안산전 전반 2분 하프라인 부근에서 루이스의 선제골을 도운 롱패스로 이달의 딜리버리 최초 2회 수상자가 됐다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851847",
+            "label": "확인 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-18",
+          "observation": "김민우는 안산전 전반 2분 하프라인 부근에서 루이스의 선제골을 도운 롱패스로 이달의 딜리버리 최초 2회 수상자가 됐다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 하프라인 부근에서 골문 앞으로 보낸 김민우의 긴 패스",
+            "둘째 장: 루이스가 가슴으로 떨군 뒤 오른발로 완성",
+            "셋째 장: 초대 수상에 이어 다시 선정—이 상의 첫 2회 수상자"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인 원문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851847"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월18일 14:19 KST 공개. 10월 수상 발표로 김민우가 처음 두 차례 받은 선수가 됐다.",
+        "fetched_at": 1794989520,
+        "parser_revision": 7
+      },
+      "curation_event_key": "suwon-kim-minwoo-long-pass-second-delivery-month-20261118"
+    },
+    "dcaea29949e1": {
+      "source": "SBS",
+      "title": "브런슨, 102대102서 4점 플레이…닉스가 토론토전 15연승",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851866",
+      "first_seen_at": 1794989520,
+      "last_seen_at": 1794989520,
+      "samples": [
+        {
+          "at": 1794989520,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "dcaea29949e1",
+      "editorial": {
+        "title": "브런슨, 102대102서 4점 플레이…닉스가 토론토전 15연승",
+        "category": "메이저 스포츠",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851866",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "jalen-brunson-four-point-play-knicks-fifteen-straight-raptors-20261118",
+        "why": "동점에서 나온 3점슛과 추가 자유투 한 장면이 15연승을 결정해 짧고 강한 경기 서사가 된다.",
+        "angle": "종료 1분23초 동점, 브런슨의 3점슛, 플래그런트 파울 자유투와 15연승을 시간순으로 붙인다.",
+        "why_now": "11월18일 14:22 KST 공개. 경기 종료 직전 결정적 4점 플레이와 상대전 연승 기록이 확정됐다.",
+        "verified_at": 1794989274,
+        "published_at": 1794979320,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851866",
+            "note": "브런슨은 102대102에서 종료 1분23초 전 3점슛과 추가 자유투를 넣었고 뉴욕은 토론토를 111대102로 꺾어 상대전 15연승을 기록했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851866",
+            "label": "확인 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-18",
+          "observation": "브런슨은 102대102에서 종료 1분23초 전 3점슛과 추가 자유투를 넣었고 뉴욕은 토론토를 111대102로 꺾어 상대전 15연승을 기록했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 102대102, 남은 시간 1분23초",
+            "둘째 장: 브런슨의 3점슛 뒤 플래그런트 파울",
+            "셋째 장: 추가 자유투까지 넣은 4점 플레이",
+            "넷째 장: 뉴욕 111대102 승리, 토론토전 15연승"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인 원문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851866"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월18일 14:22 KST 공개. 경기 종료 직전 결정적 4점 플레이와 상대전 연승 기록이 확정됐다.",
+        "fetched_at": 1794989520,
+        "parser_revision": 7
+      },
+      "curation_event_key": "jalen-brunson-four-point-play-knicks-fifteen-straight-raptors-20261118"
+    },
+    "21f08e098cad": {
+      "source": "연합뉴스",
+      "title": "새만금공항 기본계획, 2심도 취소…법원 “안전·환경 검토 부족”",
+      "link": "https://www.yna.co.kr/view/AKR20261118123700055",
+      "first_seen_at": 1794989520,
+      "last_seen_at": 1794989520,
+      "samples": [
+        {
+          "at": 1794989520,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "21f08e098cad",
+      "editorial": {
+        "title": "새만금공항 기본계획, 2심도 취소…법원 “안전·환경 검토 부족”",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261118123700055",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "saemangeum-airport-plan-cancelled-appeal-dismissed-20261118",
+        "why": "지역 핵심 인프라 계획이 항소심에서도 취소돼 사업 지속과 9조원 투자 구상에 즉각 변수가 생겼다.",
+        "angle": "항소 기각, 조류충돌·환경 판단, 전북도 상고 검토와 투자 영향 가능성을 사실별로 구분한다.",
+        "why_now": "11월18일 15:11 KST 공개. 서울고법이 국토부 항소를 기각하며 1심의 기본계획 취소 판단을 유지했다.",
+        "verified_at": 1794989274,
+        "published_at": 1794982260,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261118123700055",
+            "note": "서울고법은 새만금국제공항 기본계획 취소소송에서 국토부 항소를 기각했고 안전·환경 공익을 충분히 검토하지 않았다고 판단했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261118123700055",
+            "label": "확인 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "투자 위축은 확정 결과가 아니라 기사에서 제기된 가능성으로만 표시한다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-18",
+          "observation": "서울고법은 새만금국제공항 기본계획 취소소송에서 국토부 항소를 기각했고 안전·환경 공익을 충분히 검토하지 않았다고 판단했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 새만금공항 기본계획, 2심에서도 취소 판단",
+            "둘째 장: 법원이 짚은 조류충돌과 환경 보전 검토 부족",
+            "셋째 장: 전북도·국토부는 상고 여부 검토",
+            "넷째 장: 현대차그룹 9조원 투자 구상에도 새 변수"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인 원문",
+            "url": "https://www.yna.co.kr/view/AKR20261118123700055"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월18일 15:11 KST 공개. 서울고법이 국토부 항소를 기각하며 1심의 기본계획 취소 판단을 유지했다.",
+        "fetched_at": 1794989520,
+        "parser_revision": 7
+      },
+      "curation_event_key": "saemangeum-airport-plan-cancelled-appeal-dismissed-20261118"
+    },
+    "e56e3b462805": {
+      "source": "연합뉴스",
+      "title": "추경호 ‘계엄 해제 표결 방해’ 1심 무죄…법원 “요청 증거 부족”",
+      "link": "https://www.yna.co.kr/view/AKR20261118118400004",
+      "first_seen_at": 1794989520,
+      "last_seen_at": 1794989520,
+      "samples": [
+        {
+          "at": 1794989520,
+          "views": null,
+          "reactions": null,
+          "rank": 8,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "e56e3b462805",
+      "editorial": {
+        "title": "추경호 ‘계엄 해제 표결 방해’ 1심 무죄…법원 “요청 증거 부족”",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/view/AKR20261118118400004",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "choo-kyungho-martial-law-vote-obstruction-first-trial-acquittal-20261118",
+        "why": "90명이 표결에 불참했던 핵심 의혹에 대해 법원이 요청·승낙 증거가 부족하다고 본 첫 판결이다.",
+        "angle": "세 차례 의총 장소 변경, 공소사실, 재판부가 인정하지 않은 두 단계의 증거를 분리한다.",
+        "why_now": "11월18일 14:26 KST 공개. 계엄 해제 표결 방해 혐의의 1심 판단이 처음 선고됐다.",
+        "verified_at": 1794989274,
+        "published_at": 1794979560,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261118118400004",
+            "note": "서울중앙지법은 추경호 시장의 내란중요임무종사 혐의에 무죄를 선고하며 윤석열의 표결 저지 요청과 추 시장의 승낙을 인정할 증거가 부족하다고 봤다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261118118400004",
+            "label": "확인 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "1심 판결이며 확정판결이 아니다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-18",
+          "observation": "서울중앙지법은 추경호 시장의 내란중요임무종사 혐의에 무죄를 선고하며 윤석열의 표결 저지 요청과 추 시장의 승낙을 인정할 증거가 부족하다고 봤다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: ‘계엄 해제 표결 방해’ 추경호 1심 무죄",
+            "둘째 장: 국회와 당사를 오간 세 차례 의총 장소 변경",
+            "셋째 장: 법원은 윤석열의 저지 요청이 있었다고 보기 어렵다고 판단",
+            "넷째 장: 요청을 승낙했다는 증거도 부족하다고 봤다"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인 원문",
+            "url": "https://www.yna.co.kr/view/AKR20261118118400004"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월18일 14:26 KST 공개. 계엄 해제 표결 방해 혐의의 1심 판단이 처음 선고됐다.",
+        "fetched_at": 1794989520,
+        "parser_revision": 7
+      },
+      "curation_event_key": "choo-kyungho-martial-law-vote-obstruction-first-trial-acquittal-20261118"
+    },
+    "bb31e1e36a9b": {
+      "source": "연합뉴스",
+      "title": "특검, 투표율 허위입력·문서 위변조 혐의 선관위 직원 8명 영장",
+      "link": "https://www.yna.co.kr/amp/view/AKR20261118120352004",
+      "first_seen_at": 1794989520,
+      "last_seen_at": 1794989520,
+      "samples": [
+        {
+          "at": 1794989520,
+          "views": null,
+          "reactions": null,
+          "rank": 9,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "bb31e1e36a9b",
+      "editorial": {
+        "title": "특검, 투표율 허위입력·문서 위변조 혐의 선관위 직원 8명 영장",
+        "category": "시사",
+        "url": "https://www.yna.co.kr/amp/view/AKR20261118120352004",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "nec-eight-officials-arrest-warrants-false-turnout-records-20261118",
+        "why": "투표용지 부족 수사가 실제 직원 8명의 신병 확보 단계로 넘어갔고 허위입력·문서 위변조 혐의가 구체화됐다.",
+        "angle": "8명 구성, 문제 된 투표율·투표록·개표상황표, 향후 영장심사를 순서대로 정리한다.",
+        "why_now": "11월18일 15:39 KST 공개. 특검 출범 뒤 첫 구속영장 청구로 수사가 새 단계에 들어갔다.",
+        "verified_at": 1794989274,
+        "published_at": 1794983940,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/amp/view/AKR20261118120352004",
+            "note": "선관위 특검은 중앙선관위 3명과 시도선관위 5명 등 직원 8명에게 투표율 허위입력과 공문서 위변조 등 혐의로 구속영장을 청구했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/amp/view/AKR20261118120352004",
+            "label": "확인 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "구속영장 청구 단계이며 혐의가 확정된 것은 아니다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-18",
+          "observation": "선관위 특검은 중앙선관위 3명과 시도선관위 5명 등 직원 8명에게 투표율 허위입력과 공문서 위변조 등 혐의로 구속영장을 청구했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 선관위 직원 8명에게 한꺼번에 구속영장",
+            "둘째 장: 중앙 3명·시도 5명, 특검 첫 신병 확보 시도",
+            "셋째 장: 투표율 허위입력과 투표록·개표상황표 위변조 혐의",
+            "넷째 장: 영장심사에서 구속 필요성을 따지게 된다"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인 원문",
+            "url": "https://www.yna.co.kr/amp/view/AKR20261118120352004"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월18일 15:39 KST 공개. 특검 출범 뒤 첫 구속영장 청구로 수사가 새 단계에 들어갔다.",
+        "fetched_at": 1794989520,
+        "parser_revision": 7
+      },
+      "curation_event_key": "nec-eight-officials-arrest-warrants-false-turnout-records-20261118"
+    },
+    "c63e75b0e928": {
+      "source": "SBS",
+      "title": "경찰, AI 부정행위 세무사 수석 주거지 압수수색…수사로 번진 자수",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852305",
+      "first_seen_at": 1794989520,
+      "last_seen_at": 1794989520,
+      "samples": [
+        {
+          "at": 1794989520,
+          "views": null,
+          "reactions": null,
+          "rank": 10,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "c63e75b0e928",
+      "editorial": {
+        "title": "경찰, AI 부정행위 세무사 수석 주거지 압수수색…수사로 번진 자수",
+        "category": "시사",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852305",
+        "source": "SBS",
+        "kind": "article",
+        "event_key": "tax-accountant-ai-cheating-police-home-search-20261118",
+        "why": "온라인 자수 영상으로 알려진 사건이 경찰의 주거지 압수수색이라는 강제수사 단계로 넘어간 새 후속이다.",
+        "angle": "기존 자수 사실과 이번 압수수색을 분리하고, 확보 자료의 내용은 아직 공개되지 않았다는 선을 지킨다.",
+        "why_now": "11월18일 16:42 KST 공개. 기존 의혹·자수와 다른 새 사실은 경찰이 주거지 압수수색에 착수했다는 점이다.",
+        "verified_at": 1794989274,
+        "published_at": 1794987720,
+        "evidence": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852305",
+            "note": "경찰은 AI 부정행위 의혹을 받는 세무사 시험 수석 합격자의 주거지를 압수수색했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852305",
+            "label": "확인 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "BTP가 다룬 자수 영상과 동일 사실로 포장하지 않고, 압수수색이라는 새 후속만 다룬다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-18",
+          "observation": "경찰은 AI 부정행위 의혹을 받는 세무사 시험 수석 합격자의 주거지를 압수수색했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: AI 부정행위 자수 사건, 경찰이 주거지를 압수수색했다",
+            "둘째 장: 영상으로 알려진 의혹에서 강제수사 단계로",
+            "셋째 장: 무엇을 확보했는지는 아직 공개되지 않았다"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인 원문",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852305"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월18일 16:42 KST 공개. 기존 의혹·자수와 다른 새 사실은 경찰이 주거지 압수수색에 착수했다는 점이다.",
+        "fetched_at": 1794989520,
+        "parser_revision": 7
+      },
+      "curation_event_key": "tax-accountant-ai-cheating-police-home-search-20261118"
+    },
     "9c1d7ce39454": {
       "source": "SBS",
       "title": "메시 빠진 아르헨티나, 코스타리카에 7대0…공격진이 만든 새 장면",
@@ -14278,1077 +15003,7 @@
         "parser_revision": 7
       },
       "curation_event_key": "uk-cma-unilever-mccormick-65b-deal-competition-remedies-20261111"
-    },
-    "b7531d18945d": {
-      "source": "Reuters",
-      "title": "미 수출금지 뚫렸다…중국 군 연계 대학, 엔비디아 H200 구매",
-      "link": "https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/",
-      "first_seen_at": 1794384373,
-      "last_seen_at": 1794384373,
-      "samples": [
-        {
-          "at": 1794384373,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "b7531d18945d",
-      "editorial": {
-        "title": "미 수출금지 뚫렸다…중국 군 연계 대학, 엔비디아 H200 구매",
-        "category": "시사",
-        "url": "https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/",
-        "source": "Reuters",
-        "kind": "article",
-        "event_key": "china-pla-linked-university-nvidia-h200-blacklist-purchase-20261111",
-        "why": "미국의 최첨단 AI칩 수출통제 구멍이 군 연계 대학의 실제 구매 기록으로 드러났다.",
-        "angle": "블랙리스트 대학의 H200 구매 경로와 통제 한계를 함께 보여준다.",
-        "why_now": "로이터가 11월 11일 조달 기록을 토대로 처음 보도했다.",
-        "verified_at": 1794383998,
-        "published_at": 1794373980,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/",
-            "note": "중국 서북공업대가 지난달 중국 공급업체를 통해 H200 두 개를 87만4천700위안에 구매한 기록을 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/",
-            "label": "원문 기사",
-            "kind": "source"
-          }
-        ],
-        "caution": "대학·엔비디아·미 상무부는 로이터 질의에 답하지 않았다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-11",
-          "observation": "미 수출 블랙리스트에 오른 군 연계 대학이 직접 엔비디아가 아닌 중국 공급업체에서 H200을 산 기록이 확인됐다.",
-          "checked_materials": [],
-          "outline": [
-            "블랙리스트 대학의 H200 구매 기록을 첫 카드로 제시",
-            "중국 공급업체 경유와 미국 수출통제의 한계를 설명"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "원문 기사",
-            "url": "https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/"
-          }
-        ],
-        "excerpt": "",
-        "context": "로이터가 11월 11일 조달 기록을 토대로 처음 보도했다.",
-        "fetched_at": 1794384373,
-        "parser_revision": 7
-      },
-      "curation_event_key": "china-pla-linked-university-nvidia-h200-blacklist-purchase-20261111"
-    },
-    "297680e42fb2": {
-      "source": "Reuters",
-      "title": "미 하원, 헤그세스 국방장관 탄핵 시도 차단…211대204",
-      "link": "https://www.reuters.com/world/pentagon-chief-hegseth-calls-moves-impeach-him-farce-that-will-fail-2026-11-10/",
-      "first_seen_at": 1794384373,
-      "last_seen_at": 1794384373,
-      "samples": [
-        {
-          "at": 1794384373,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "297680e42fb2",
-      "editorial": {
-        "title": "미 하원, 헤그세스 국방장관 탄핵 시도 차단…211대204",
-        "category": "시사",
-        "url": "https://www.reuters.com/world/pentagon-chief-hegseth-calls-moves-impeach-him-farce-that-will-fail-2026-11-10/",
-        "source": "Reuters",
-        "kind": "article",
-        "event_key": "us-house-blocks-hegseth-impeachment-211-204-20261110",
-        "why": "미 국방장관 탄핵 시도가 표결로 차단되며 차기 민주당 의회까지 정치 공방이 연장됐다.",
-        "angle": "8개 탄핵소추안과 절차 표결 결과, 향후 재추진 가능성을 구분한다.",
-        "why_now": "11월 10일 하원이 법사위 회부 동의를 211대204로 가결해 본회의 탄핵 표결을 막았다.",
-        "verified_at": 1794383998,
-        "published_at": 1794316560,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/world/pentagon-chief-hegseth-calls-moves-impeach-him-farce-that-will-fail-2026-11-10/",
-            "note": "하원은 8개 탄핵소추안을 법사위로 넘기는 절차 동의를 211대204로 통과시켰다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/world/pentagon-chief-hegseth-calls-moves-impeach-him-farce-that-will-fail-2026-11-10/",
-            "label": "원문 기사",
-            "kind": "source"
-          }
-        ],
-        "caution": "탄핵 혐의는 제안자 측 주장이고 유죄 판단이 아니다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-10",
-          "observation": "공화당 주도 하원이 본회의 탄핵 표결을 차단했지만 민주당이 다음 의회를 장악하면 재추진 가능성이 남는다.",
-          "checked_materials": [],
-          "outline": [
-            "211대204 절차 표결과 본회의 차단을 제시",
-            "탄핵 혐의 주장과 차기 의회 재추진 가능성을 분리"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "원문 기사",
-            "url": "https://www.reuters.com/world/pentagon-chief-hegseth-calls-moves-impeach-him-farce-that-will-fail-2026-11-10/"
-          }
-        ],
-        "excerpt": "",
-        "context": "11월 10일 하원이 법사위 회부 동의를 211대204로 가결해 본회의 탄핵 표결을 막았다.",
-        "fetched_at": 1794384373,
-        "parser_revision": 7
-      },
-      "curation_event_key": "us-house-blocks-hegseth-impeachment-211-204-20261110"
-    },
-    "84911413f377": {
-      "source": "Reuters",
-      "title": "베네수엘라, 20년 국가독점 깼다…전력시장 민간투자 개방",
-      "link": "https://www.reuters.com/business/energy/venezuela-lawmakers-opens-crisis-hit-power-sector-private-investment-2026-11-10/",
-      "first_seen_at": 1794384373,
-      "last_seen_at": 1794384373,
-      "samples": [
-        {
-          "at": 1794384373,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "84911413f377",
-      "editorial": {
-        "title": "베네수엘라, 20년 국가독점 깼다…전력시장 민간투자 개방",
-        "category": "시사",
-        "url": "https://www.reuters.com/business/energy/venezuela-lawmakers-opens-crisis-hit-power-sector-private-investment-2026-11-10/",
-        "source": "Reuters",
-        "kind": "article",
-        "event_key": "venezuela-electricity-private-investment-state-monopoly-reform-20261110",
-        "why": "전력난이 일상화된 베네수엘라가 약 20년 국가독점을 끝내는 구조 개편에 나섰다.",
-        "angle": "법 개정 내용과 발전설비 가동률 40% 미만 현실을 함께 보여준다.",
-        "why_now": "베네수엘라 의회가 11월 10일 전력시장 민간투자를 허용하는 법 개정을 승인했다.",
-        "verified_at": 1794383998,
-        "published_at": 1794345180,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/business/energy/venezuela-lawmakers-opens-crisis-hit-power-sector-private-investment-2026-11-10/",
-            "note": "개정법은 정부와 민간의 합작사업을 최대 25년 허용하고 국영석유사와의 계약 방식도 열었다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/business/energy/venezuela-lawmakers-opens-crisis-hit-power-sector-private-investment-2026-11-10/",
-            "label": "원문 기사",
-            "kind": "source"
-          }
-        ],
-        "caution": "투자 유입과 정전 개선 시점은 아직 확정되지 않았다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-10",
-          "observation": "의회가 민간투자를 허용했으며 현재 발전설비 가동률은 40% 미만이라고 기사에서 확인됐다.",
-          "checked_materials": [],
-          "outline": [
-            "20년 국가독점 종료와 민간투자 허용을 제시",
-            "정전 현실·낮은 가동률과 실제 개선까지의 불확실성 설명"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "원문 기사",
-            "url": "https://www.reuters.com/business/energy/venezuela-lawmakers-opens-crisis-hit-power-sector-private-investment-2026-11-10/"
-          }
-        ],
-        "excerpt": "",
-        "context": "베네수엘라 의회가 11월 10일 전력시장 민간투자를 허용하는 법 개정을 승인했다.",
-        "fetched_at": 1794384373,
-        "parser_revision": 7
-      },
-      "curation_event_key": "venezuela-electricity-private-investment-state-monopoly-reform-20261110"
-    },
-    "aa82ddeac2f8": {
-      "source": "Reuters",
-      "title": "중국 내수 자동차 판매, 12년 만에 1천900만대 아래 전망",
-      "link": "https://www.reuters.com/business/retail-consumer/chinas-car-sales-seen-falling-below-19-million-units-first-time-since-2014-2026-11-11/",
-      "first_seen_at": 1794384373,
-      "last_seen_at": 1794384373,
-      "samples": [
-        {
-          "at": 1794384373,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "aa82ddeac2f8",
-      "editorial": {
-        "title": "중국 내수 자동차 판매, 12년 만에 1천900만대 아래 전망",
-        "category": "시사",
-        "url": "https://www.reuters.com/business/retail-consumer/chinas-car-sales-seen-falling-below-19-million-units-first-time-since-2014-2026-11-11/",
-        "source": "Reuters",
-        "kind": "article",
-        "event_key": "china-domestic-passenger-car-sales-below-19m-first-since-2014-20261111",
-        "why": "세계 최대 자동차 시장의 내수 약화가 2014년 이후 처음이라는 기준선으로 확인됐다.",
-        "angle": "내수 1천900만대 하회 전망과 1천100만대 수출 호조를 대비한다.",
-        "why_now": "중국자동차공업협회가 11월 11일 연간 전망과 10월 감소폭을 발표했다.",
-        "verified_at": 1794383998,
-        "published_at": 1794378480,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/business/retail-consumer/chinas-car-sales-seen-falling-below-19-million-units-first-time-since-2014-2026-11-11/",
-            "note": "협회는 올해 중국 내수 승용차 판매가 1천900만대 아래로 내려갈 것으로 전망했고 10월 전체 판매는 전년 대비 9.2% 감소했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/business/retail-consumer/chinas-car-sales-seen-falling-below-19-million-units-first-time-since-2014-2026-11-11/",
-            "label": "원문 기사",
-            "kind": "source"
-          }
-        ],
-        "caution": "",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-11",
-          "observation": "내수는 2014년 이후 처음 1천900만대 아래가 예상되지만 수출은 연간 1천100만대를 넘을 전망이다.",
-          "checked_materials": [],
-          "outline": [
-            "내수 판매 12년 만의 기준선 하회 전망 제시",
-            "수출 호조와 10월 감소폭을 함께 비교"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "원문 기사",
-            "url": "https://www.reuters.com/business/retail-consumer/chinas-car-sales-seen-falling-below-19-million-units-first-time-since-2014-2026-11-11/"
-          }
-        ],
-        "excerpt": "",
-        "context": "중국자동차공업협회가 11월 11일 연간 전망과 10월 감소폭을 발표했다.",
-        "fetched_at": 1794384373,
-        "parser_revision": 7
-      },
-      "curation_event_key": "china-domestic-passenger-car-sales-below-19m-first-since-2014-20261111"
-    },
-    "c2b8637b5f6d": {
-      "source": "Reuters",
-      "title": "81세 오르테가 두 달 만에 등장…니카라과 권력승계 논쟁 재점화",
-      "link": "https://www.reuters.com/world/americas/ortegas-frail-return-public-revives-succession-debate-nicaragua-2026-11-10/",
-      "first_seen_at": 1794384373,
-      "last_seen_at": 1794384373,
-      "samples": [
-        {
-          "at": 1794384373,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "c2b8637b5f6d",
-      "editorial": {
-        "title": "81세 오르테가 두 달 만에 등장…니카라과 권력승계 논쟁 재점화",
-        "category": "시사",
-        "url": "https://www.reuters.com/world/americas/ortegas-frail-return-public-revives-succession-debate-nicaragua-2026-11-10/",
-        "source": "Reuters",
-        "kind": "article",
-        "event_key": "nicaragua-ortega-public-return-succession-debate-20261110",
-        "why": "미주 최장기 집권자의 공개 복귀가 가족 중심 승계 구도를 둘러싼 정치 변수를 키웠다.",
-        "angle": "두 달 공백 뒤 공개 석상과 부인·아들의 승계 가능성을 사실과 분석으로 나눈다.",
-        "why_now": "11월 10일 보도에서 오르테가의 두 달 만의 공개 등장과 11일 81세 생일이 확인됐다.",
-        "verified_at": 1794383998,
-        "published_at": 1794353580,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/world/americas/ortegas-frail-return-public-revives-succession-debate-nicaragua-2026-11-10/",
-            "note": "오르테가는 두 달 넘게 공개석상에서 사라졌다가 마나과 행사에 다시 등장했고 분석가들은 부인 또는 아들을 후계 후보로 거론했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/world/americas/ortegas-frail-return-public-revives-succession-debate-nicaragua-2026-11-10/",
-            "label": "원문 기사",
-            "kind": "source"
-          }
-        ],
-        "caution": "건강 이상과 승계 임박은 공식 확인이 아닌 관측이다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-09",
-          "observation": "정부는 건강 이상설에 답하지 않았고 로이터도 확인하지 못했으므로 승계 임박은 분석가 전망으로만 다룬다.",
-          "checked_materials": [],
-          "outline": [
-            "두 달 만의 공개 복귀와 81세 시점을 제시",
-            "공동대통령인 부인과 아들의 승계 가능성, 확인 한계를 설명"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "원문 기사",
-            "url": "https://www.reuters.com/world/americas/ortegas-frail-return-public-revives-succession-debate-nicaragua-2026-11-10/"
-          }
-        ],
-        "excerpt": "",
-        "context": "11월 10일 보도에서 오르테가의 두 달 만의 공개 등장과 11일 81세 생일이 확인됐다.",
-        "fetched_at": 1794384373,
-        "parser_revision": 7
-      },
-      "curation_event_key": "nicaragua-ortega-public-return-succession-debate-20261110"
-    },
-    "5974e2e310ff": {
-      "source": "Reuters",
-      "title": "IPL 초대형 트레이드…뭄바이 주장 판디아, 아르시딥과 맞교환",
-      "link": "https://www.reuters.com/world/india/mumbai-trade-captain-pandya-punjab-exchange-arshdeep-ipl-2026-11-11/",
-      "first_seen_at": 1794380842,
-      "last_seen_at": 1794380842,
-      "samples": [
-        {
-          "at": 1794380842,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "5974e2e310ff",
-      "editorial": {
-        "title": "IPL 초대형 트레이드…뭄바이 주장 판디아, 아르시딥과 맞교환",
-        "category": "메이저 스포츠",
-        "url": "https://www.reuters.com/world/india/mumbai-trade-captain-pandya-punjab-exchange-arshdeep-ipl-2026-11-11/",
-        "source": "Reuters",
-        "kind": "article",
-        "event_key": "ipl-mumbai-pandya-punjab-arshdeep-captain-trade-20261111",
-        "why": "IPL 5회 우승팀 주장과 인도 대표급 좌완이 맞바뀐 리그 판도 변화다.",
-        "angle": "판디아의 네 차례 우승 경력과 아르시딥·범라 새 조합을 대비한다.",
-        "why_now": "IPL 주최 측이 11월 11일 맞교환을 발표했다.",
-        "verified_at": 1794380740,
-        "published_at": 1794373080,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/world/india/mumbai-trade-captain-pandya-punjab-exchange-arshdeep-ipl-2026-11-11/",
-            "note": "IPL 주최 측 발표로 뭄바이가 주장 하르딕 판디아를 펀자브에 보내고 아르시딥 싱을 받는 거래를 확인했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/world/india/mumbai-trade-captain-pandya-punjab-exchange-arshdeep-ipl-2026-11-11/",
-            "label": "원문 기사",
-            "kind": "source"
-          }
-        ],
-        "caution": "",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-11",
-          "observation": "판디아는 2024년부터 뭄바이 주장이며 네 차례 IPL 우승 경험이 있고, 아르시딥은 펀자브에서 여덟 시즌을 뛰었다.",
-          "checked_materials": [],
-          "outline": [
-            "주장 판디아와 아르시딥의 맞교환을 첫 카드로 제시",
-            "두 선수의 우승·소속 경력과 뭄바이 투수진 변화를 설명"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "원문 기사",
-            "url": "https://www.reuters.com/world/india/mumbai-trade-captain-pandya-punjab-exchange-arshdeep-ipl-2026-11-11/"
-          }
-        ],
-        "excerpt": "",
-        "context": "IPL 주최 측이 11월 11일 맞교환을 발표했다.",
-        "fetched_at": 1794380842,
-        "parser_revision": 7
-      },
-      "curation_event_key": "ipl-mumbai-pandya-punjab-arshdeep-captain-trade-20261111"
-    },
-    "0861b32f64b8": {
-      "source": "Reuters",
-      "title": "인도네시아 부통령 탄핵 문 열리나…의원 100명 이상 청원 서명",
-      "link": "https://www.reuters.com/world/asia-pacific/over-100-indonesian-lawmakers-sign-petition-that-could-lead-vice-presidents-2026-11-11/",
-      "first_seen_at": 1794380842,
-      "last_seen_at": 1794380842,
-      "samples": [
-        {
-          "at": 1794380842,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "0861b32f64b8",
-      "editorial": {
-        "title": "인도네시아 부통령 탄핵 문 열리나…의원 100명 이상 청원 서명",
-        "category": "시사",
-        "url": "https://www.reuters.com/world/asia-pacific/over-100-indonesian-lawmakers-sign-petition-that-could-lead-vice-presidents-2026-11-11/",
-        "source": "Reuters",
-        "kind": "article",
-        "event_key": "indonesia-gibran-impeachment-petition-100-lawmakers-20261111",
-        "why": "동남아 최대 경제국의 권력 구도를 흔들 수 있는 의회 절차의 새 단계다.",
-        "angle": "사임 의사 보도 뒤 탄핵 청원이 의회로 이동한 중대 후속을 짚는다.",
-        "why_now": "11월 11일 의원 100명 이상 서명과 제출 계획이 새로 확인됐다.",
-        "verified_at": 1794380740,
-        "published_at": 1794379620,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/world/asia-pacific/over-100-indonesian-lawmakers-sign-petition-that-could-lead-vice-presidents-2026-11-11/",
-            "note": "의원 100명 이상이 탄핵 절차로 이어질 수 있는 청원에 서명했고, 서명 의원은 하원의장 제출 계획을 밝혔다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/world/asia-pacific/over-100-indonesian-lawmakers-sign-petition-that-could-lead-vice-presidents-2026-11-11/",
-            "label": "원문 기사",
-            "kind": "source"
-          }
-        ],
-        "caution": "",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-11",
-          "observation": "헌법재판소·대법원 판단 뒤 의원 100명 이상이 자격 문제를 제기했지만, 실제 탄핵 성립은 아직 확정되지 않았다.",
-          "checked_materials": [],
-          "outline": [
-            "의원 100명 이상 서명이라는 새 사실을 먼저 제시",
-            "법원 판단과 의회 절차, 탄핵 미확정 상태를 구분"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "원문 기사",
-            "url": "https://www.reuters.com/world/asia-pacific/over-100-indonesian-lawmakers-sign-petition-that-could-lead-vice-presidents-2026-11-11/"
-          }
-        ],
-        "excerpt": "",
-        "context": "11월 11일 의원 100명 이상 서명과 제출 계획이 새로 확인됐다.",
-        "fetched_at": 1794380842,
-        "parser_revision": 7
-      },
-      "curation_event_key": "indonesia-gibran-impeachment-petition-100-lawmakers-20261111"
-    },
-    "0a4bf28f2911": {
-      "source": "Reuters",
-      "title": "인도·영국 무역협정 첫 대형 분쟁…스카치 컨테이너 수십 개 묶였다",
-      "link": "https://www.reuters.com/world/india/india-holds-pernod-diageo-scotch-shipments-investigators-seek-higher-tariff-2026-11-11/",
-      "first_seen_at": 1794380842,
-      "last_seen_at": 1794380842,
-      "samples": [
-        {
-          "at": 1794380842,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "0a4bf28f2911",
-      "editorial": {
-        "title": "인도·영국 무역협정 첫 대형 분쟁…스카치 컨테이너 수십 개 묶였다",
-        "category": "시사",
-        "url": "https://www.reuters.com/world/india/india-holds-pernod-diageo-scotch-shipments-investigators-seek-higher-tariff-2026-11-11/",
-        "source": "Reuters",
-        "kind": "article",
-        "event_key": "india-uk-trade-pact-scotch-150-tariff-container-hold-20261111",
-        "why": "발효 넉 달 된 인도·영국 무역협정의 핵심 관세 혜택을 시험하는 첫 대형 분쟁이다.",
-        "angle": "75% 협정세율과 조사당국의 150% 부과 지시가 충돌한 구조를 보여준다.",
-        "why_now": "로이터가 11월 11일 정부 메모와 항만 억류 규모를 확인했다.",
-        "verified_at": 1794380740,
-        "published_at": 1794379080,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/world/india/india-holds-pernod-diageo-scotch-shipments-investigators-seek-higher-tariff-2026-11-11/",
-            "note": "인도 세관이 페르노리카·디아지오의 벌크 스카치 컨테이너 수십 개를 억류했고 조사당국은 150% 관세 적용을 지시했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/world/india/india-holds-pernod-diageo-scotch-shipments-investigators-seek-higher-tariff-2026-11-11/",
-            "label": "원문 기사",
-            "kind": "source"
-          }
-        ],
-        "caution": "",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-11",
-          "observation": "상무부는 75% 협정세율 이행을 약속했지만 재무부 산하 조사당국은 벌크 원액을 완제품이 아니라고 판단해 결론이 충돌한다.",
-          "checked_materials": [],
-          "outline": [
-            "항만에 묶인 수십 개 컨테이너와 150% 지시를 제시",
-            "75% 협정세율과 부처 간 해석 충돌, 공급 영향 설명"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "원문 기사",
-            "url": "https://www.reuters.com/world/india/india-holds-pernod-diageo-scotch-shipments-investigators-seek-higher-tariff-2026-11-11/"
-          }
-        ],
-        "excerpt": "",
-        "context": "로이터가 11월 11일 정부 메모와 항만 억류 규모를 확인했다.",
-        "fetched_at": 1794380842,
-        "parser_revision": 7
-      },
-      "curation_event_key": "india-uk-trade-pact-scotch-150-tariff-container-hold-20261111"
-    },
-    "8a4d3f91acc6": {
-      "source": "Reuters",
-      "title": "러시아, 칼리닌그라드서 '폴란드 정보요원' 2명 체포 주장",
-      "link": "https://www.reuters.com/world/russia-arrests-two-suspected-polish-spies-kaliningrad-interfax-reports-2026-11-11/",
-      "first_seen_at": 1794380842,
-      "last_seen_at": 1794380842,
-      "samples": [
-        {
-          "at": 1794380842,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "8a4d3f91acc6",
-      "editorial": {
-        "title": "러시아, 칼리닌그라드서 '폴란드 정보요원' 2명 체포 주장",
-        "category": "시사",
-        "url": "https://www.reuters.com/world/russia-arrests-two-suspected-polish-spies-kaliningrad-interfax-reports-2026-11-11/",
-        "source": "Reuters",
-        "kind": "article",
-        "event_key": "russia-kaliningrad-two-alleged-polish-spies-arrested-20261111",
-        "why": "나토 접경 러시아 월경지에서 군사시설 첩보 혐의가 불거져 양측 긴장을 높일 사안이다.",
-        "angle": "체포 사실은 FSB 주장임을 분명히 하고 칼리닌그라드의 지정학적 위치를 설명한다.",
-        "why_now": "러시아 FSB 발표를 인테르팍스가 11월 11일 보도했다.",
-        "verified_at": 1794380740,
-        "published_at": 1794378960,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/world/russia-arrests-two-suspected-polish-spies-kaliningrad-interfax-reports-2026-11-11/",
-            "note": "러시아 FSB는 칼리닌그라드 군사시설 정보를 수집한 폴란드 정보기관 요원 2명을 체포했다고 주장했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/world/russia-arrests-two-suspected-polish-spies-kaliningrad-interfax-reports-2026-11-11/",
-            "label": "원문 기사",
-            "kind": "source"
-          }
-        ],
-        "caution": "러시아 당국 주장으로 폴란드 측 독립 확인은 기사에 없다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-11",
-          "observation": "혐의와 신분은 러시아 FSB의 일방 발표이며 폴란드 측 독립 확인은 기사에 제시되지 않았다.",
-          "checked_materials": [],
-          "outline": [
-            "FSB가 주장한 체포·혐의 내용을 귀속해 제시",
-            "폴란드·리투아니아 접경 월경지의 긴장 맥락과 확인 한계 설명"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "원문 기사",
-            "url": "https://www.reuters.com/world/russia-arrests-two-suspected-polish-spies-kaliningrad-interfax-reports-2026-11-11/"
-          }
-        ],
-        "excerpt": "",
-        "context": "러시아 FSB 발표를 인테르팍스가 11월 11일 보도했다.",
-        "fetched_at": 1794380842,
-        "parser_revision": 7
-      },
-      "curation_event_key": "russia-kaliningrad-two-alleged-polish-spies-arrested-20261111"
-    },
-    "15c388089aee": {
-      "source": "Reuters",
-      "title": "이란, 아르헨 해·공군을 '테러조직' 지정…IRGC 지정에 맞불",
-      "link": "https://www.reuters.com/world/americas/iran-designates-argentinas-navy-air-force-terrorist-organizations-2026-11-11/",
-      "first_seen_at": 1794380842,
-      "last_seen_at": 1794380842,
-      "samples": [
-        {
-          "at": 1794380842,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "15c388089aee",
-      "editorial": {
-        "title": "이란, 아르헨 해·공군을 '테러조직' 지정…IRGC 지정에 맞불",
-        "category": "시사",
-        "url": "https://www.reuters.com/world/americas/iran-designates-argentinas-navy-air-force-terrorist-organizations-2026-11-11/",
-        "source": "Reuters",
-        "kind": "article",
-        "event_key": "iran-argentina-navy-air-force-terror-designation-reciprocal-20261111",
-        "why": "국가 정규군을 상호 테러조직으로 지정하며 이란과 아르헨티나 외교 갈등이 군사 영역으로 번졌다.",
-        "angle": "아르헨티나의 IRGC 지정과 이란의 해·공군 맞대응을 시간순으로 정리한다.",
-        "why_now": "이란 외무부가 11월 11일 상호주의에 따른 지정이라고 발표했다.",
-        "verified_at": 1794380740,
-        "published_at": 1794377400,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/world/americas/iran-designates-argentinas-navy-air-force-terrorist-organizations-2026-11-11/",
-            "note": "이란 외무부는 아르헨티나 해군과 공군을 테러조직으로 지정했으며 4월 아르헨티나의 IRGC 지정에 대한 상호 조치라고 밝혔다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/world/americas/iran-designates-argentinas-navy-air-force-terrorist-organizations-2026-11-11/",
-            "label": "원문 기사",
-            "kind": "source"
-          }
-        ],
-        "caution": "",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-11",
-          "observation": "이란은 아르헨티나 육군은 언급하지 않았고 구체적 후속 조치는 제시하지 않았다.",
-          "checked_materials": [],
-          "outline": [
-            "양국의 상호 테러조직 지정 조치를 제시",
-            "1994년 AMIA 폭탄테러를 둘러싼 갈등 배경과 미제시 후속 조치 설명"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "원문 기사",
-            "url": "https://www.reuters.com/world/americas/iran-designates-argentinas-navy-air-force-terrorist-organizations-2026-11-11/"
-          }
-        ],
-        "excerpt": "",
-        "context": "이란 외무부가 11월 11일 상호주의에 따른 지정이라고 발표했다.",
-        "fetched_at": 1794380842,
-        "parser_revision": 7
-      },
-      "curation_event_key": "iran-argentina-navy-air-force-terror-designation-reciprocal-20261111"
-    },
-    "a4ab5229be51": {
-      "source": "SBS",
-      "title": "불화설 뒤 26명 다시 모인 대표팀…손흥민, 팀 미팅서 결속 주문",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840131",
-      "first_seen_at": 1794377783,
-      "last_seen_at": 1794377783,
-      "samples": [
-        {
-          "at": 1794377783,
-          "views": null,
-          "reactions": null,
-          "rank": 1,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "a4ab5229be51",
-      "editorial": {
-        "title": "불화설 뒤 26명 다시 모인 대표팀…손흥민, 팀 미팅서 결속 주문",
-        "category": "축구",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840131",
-        "source": "SBS",
-        "kind": "article",
-        "event_key": "korea-national-team-doha-full-squad-son-unity-meeting-20261110",
-        "why": "대표팀 내분 논란 뒤 첫 완전체 소집에서 나온 갈등 수습 움직임이다.",
-        "angle": "은퇴 소동 이후 선수들이 다시 모인 새 후속과 동료들의 전언을 구분한다.",
-        "why_now": "11/11 07:58 KST 최초 게시, 소집 이틀째인 11/10 도하 훈련·미팅 보도. 영상은 미시청.",
-        "verified_at": 1794377552,
-        "published_at": 1794351480,
-        "evidence": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840131",
-            "note": "26명이 합류했고 정우영·엄지성은 손흥민이 두 평가전을 앞두고 결속을 당부했다고 전했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840131",
-            "label": "SBS 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "화해 완료나 불화 원인을 단정하지 않는다. 기사 본문만 확인했다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-10",
-          "observation": "26명이 합류했고 정우영·엄지성은 손흥민이 두 평가전을 앞두고 결속을 당부했다고 전했다.",
-          "checked_materials": [],
-          "outline": [
-            "26명 완전체 소집",
-            "팀 미팅의 결속 주문",
-            "동료 전언과 확인 한계"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "SBS 본문",
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840131"
-          }
-        ],
-        "excerpt": "",
-        "context": "11/11 07:58 KST 최초 게시, 소집 이틀째인 11/10 도하 훈련·미팅 보도. 영상은 미시청.",
-        "fetched_at": 1794377783,
-        "parser_revision": 7
-      },
-      "curation_event_key": "korea-national-team-doha-full-squad-son-unity-meeting-20261110"
-    },
-    "adad29f9c049": {
-      "source": "SBS",
-      "title": "밀워키 머피, MLB 최초 3년 연속 올해의 감독…AL은 베너블",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840628",
-      "first_seen_at": 1794377783,
-      "last_seen_at": 1794377783,
-      "samples": [
-        {
-          "at": 1794377783,
-          "views": null,
-          "reactions": null,
-          "rank": 2,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "adad29f9c049",
-      "editorial": {
-        "title": "밀워키 머피, MLB 최초 3년 연속 올해의 감독…AL은 베너블",
-        "category": "메이저 스포츠",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840628",
-        "source": "SBS",
-        "kind": "article",
-        "event_key": "mlb-murphy-first-three-consecutive-manager-year-venable-20261110",
-        "why": "3년 연속 수상이라는 MLB 최초 기록이 확정됐다.",
-        "angle": "정규시즌 성과에 대한 감독상과 포스트시즌 성과를 구분해 설명한다.",
-        "why_now": "수상 발표는 미국 11/10 밤, 한국 11/11. SBS 최초 게시 11/11 10:43 KST.",
-        "verified_at": 1794377552,
-        "published_at": 1794361380,
-        "evidence": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840628",
-            "note": "머피는 124점으로 NL 감독상을 3년 연속 받았다. AL 수상자는 화이트삭스의 윌 베너블이다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840628",
-            "label": "SBS 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "감독상 투표는 정규시즌 기준이며 월드시리즈 우승으로 결정되는 상이 아니다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-10",
-          "observation": "머피는 124점으로 NL 감독상을 3년 연속 받았다. AL 수상자는 화이트삭스의 윌 베너블이다.",
-          "checked_materials": [],
-          "outline": [
-            "최초 3년 연속 수상",
-            "NL 투표 결과",
-            "AL 베너블 선정"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "SBS 본문",
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840628"
-          }
-        ],
-        "excerpt": "",
-        "context": "수상 발표는 미국 11/10 밤, 한국 11/11. SBS 최초 게시 11/11 10:43 KST.",
-        "fetched_at": 1794377783,
-        "parser_revision": 7
-      },
-      "curation_event_key": "mlb-murphy-first-three-consecutive-manager-year-venable-20261110"
-    },
-    "1452fcf55f56": {
-      "source": "Reuters",
-      "title": "美 물가 예상 웃돌자 금리 인상 우려…나스닥 0.74% 하락",
-      "link": "https://www.reuters.com/business/sp-500-dow-futures-climb-oil-slide-lifts-sentiment-2026-11-10/",
-      "first_seen_at": 1794377783,
-      "last_seen_at": 1794377783,
-      "samples": [
-        {
-          "at": 1794377783,
-          "views": null,
-          "reactions": null,
-          "rank": 3,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "1452fcf55f56",
-      "editorial": {
-        "title": "美 물가 예상 웃돌자 금리 인상 우려…나스닥 0.74% 하락",
-        "category": "시사",
-        "url": "https://www.reuters.com/business/sp-500-dow-futures-climb-oil-slide-lifts-sentiment-2026-11-10/",
-        "source": "Reuters",
-        "kind": "article",
-        "event_key": "us-october-cpi-04-percent-fed-hike-wallstreet-close-20261110",
-        "why": "물가와 금리 전망이 함께 바뀌며 세계 금융시장에 영향을 주는 새 지표다.",
-        "angle": "단순 주가 등락보다 예상치를 웃돈 물가와 금리 경로 변화를 중심에 둔다.",
-        "why_now": "11/10 미국 장 마감 본문 확인. 최초 표시는 10:26 UTC, 장 마감 후 갱신 분은 미표시.",
-        "verified_at": 1794377552,
-        "published_at": 1794306360,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/business/sp-500-dow-futures-climb-oil-slide-lifts-sentiment-2026-11-10/",
-            "note": "10월 CPI는 전월 대비 0.4%로 예상 0.3%를 웃돌았다. 금리 인상 우려 속 나스닥은 0.74% 내렸다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/business/sp-500-dow-futures-climb-oil-slide-lifts-sentiment-2026-11-10/",
-            "label": "Reuters 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "금리 인상은 시장 전망이며 연준의 확정 결정이 아니다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-10",
-          "observation": "10월 CPI는 전월 대비 0.4%로 예상 0.3%를 웃돌았다. 금리 인상 우려 속 나스닥은 0.74% 내렸다.",
-          "checked_materials": [],
-          "outline": [
-            "CPI 예상 상회",
-            "12월 인상 우려",
-            "뉴욕증시 하락 마감"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "Reuters 본문",
-            "url": "https://www.reuters.com/business/sp-500-dow-futures-climb-oil-slide-lifts-sentiment-2026-11-10/"
-          }
-        ],
-        "excerpt": "",
-        "context": "11/10 미국 장 마감 본문 확인. 최초 표시는 10:26 UTC, 장 마감 후 갱신 분은 미표시.",
-        "fetched_at": 1794377783,
-        "parser_revision": 7
-      },
-      "curation_event_key": "us-october-cpi-04-percent-fed-hike-wallstreet-close-20261110"
-    },
-    "7bf98ffeb8cb": {
-      "source": "Reuters",
-      "title": "최대 시속 150㎞ 폭풍 예보…포르투갈 학교·공공서비스 폐쇄",
-      "link": "https://www.reuters.com/business/environment/portugal-braces-storm-charles-shut-schools-ready-rescue-teams-2026-11-10/",
-      "first_seen_at": 1794377783,
-      "last_seen_at": 1794377783,
-      "samples": [
-        {
-          "at": 1794377783,
-          "views": null,
-          "reactions": null,
-          "rank": 4,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "7bf98ffeb8cb",
-      "editorial": {
-        "title": "최대 시속 150㎞ 폭풍 예보…포르투갈 학교·공공서비스 폐쇄",
-        "category": "시사",
-        "url": "https://www.reuters.com/business/environment/portugal-braces-storm-charles-shut-schools-ready-rescue-teams-2026-11-10/",
-        "source": "Reuters",
-        "kind": "article",
-        "event_key": "portugal-storm-charles-school-services-closure-spain-evacuation-20261110",
-        "why": "국가 단위 휴교·공공서비스 중단과 대피가 동반된 대형 재난 대응이다.",
-        "angle": "관측 피해와 앞으로 예상되는 강풍을 구분해 전달한다.",
-        "why_now": "11/10 13:51 UTC 최초 게시. 11/11 폐쇄 조치와 경계태세를 전날 발표한 사건이다.",
-        "verified_at": 1794377552,
-        "published_at": 1794318660,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/business/environment/portugal-braces-storm-charles-shut-schools-ready-rescue-teams-2026-11-10/",
-            "note": "포르투갈은 11일 휴교와 비필수 공공서비스 폐쇄를 지시했다. 스페인 피에드랄라베스에서는 약 3천명이 대피 중이었다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/business/environment/portugal-braces-storm-charles-shut-schools-ready-rescue-teams-2026-11-10/",
-            "label": "Reuters 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "시속 150㎞는 예보이며 실제 관측치가 아니다. 대피는 10일 기사 시점 기준이다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-10",
-          "observation": "포르투갈은 11일 휴교와 비필수 공공서비스 폐쇄를 지시했다. 스페인 피에드랄라베스에서는 약 3천명이 대피 중이었다.",
-          "checked_materials": [],
-          "outline": [
-            "폭풍 찰스 대비",
-            "휴교·공공서비스 폐쇄",
-            "스페인 주민 대피"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "Reuters 본문",
-            "url": "https://www.reuters.com/business/environment/portugal-braces-storm-charles-shut-schools-ready-rescue-teams-2026-11-10/"
-          }
-        ],
-        "excerpt": "",
-        "context": "11/10 13:51 UTC 최초 게시. 11/11 폐쇄 조치와 경계태세를 전날 발표한 사건이다.",
-        "fetched_at": 1794377783,
-        "parser_revision": 7
-      },
-      "curation_event_key": "portugal-storm-charles-school-services-closure-spain-evacuation-20261110"
-    },
-    "2dc8ab233a5b": {
-      "source": "Reuters",
-      "title": "이란 안보 당국자 “미국과 협상 진행 안 해”…조건 답변 요구",
-      "link": "https://www.reuters.com/world/middle-east/irans-top-security-official-says-no-talks-underway-with-us-2026-11-10/",
-      "first_seen_at": 1794377783,
-      "last_seen_at": 1794377783,
-      "samples": [
-        {
-          "at": 1794377783,
-          "views": null,
-          "reactions": null,
-          "rank": 5,
-          "rank_kind": null
-        }
-      ],
-      "parser_revision": 7,
-      "content_kind": "article",
-      "story_id": "2dc8ab233a5b",
-      "editorial": {
-        "title": "이란 안보 당국자 “미국과 협상 진행 안 해”…조건 답변 요구",
-        "category": "시사",
-        "url": "https://www.reuters.com/world/middle-east/irans-top-security-official-says-no-talks-underway-with-us-2026-11-10/",
-        "source": "Reuters",
-        "kind": "article",
-        "event_key": "iran-rezaei-no-current-us-negotiations-explicit-response-20261110",
-        "why": "휴전 기대와 달리 이란 고위 인사가 협상 부재를 공개적으로 밝힌 후속이다.",
-        "angle": "이전 협상 제안과 달리 현재 협상이 없다는 새 당사자 발언을 중심에 둔다.",
-        "why_now": "11/10 16:58 UTC 최초 게시. 9일 제안 보도 이후 레자이의 새 공개 부인으로 미발송 24시간 범위.",
-        "verified_at": 1794377552,
-        "published_at": 1794329880,
-        "evidence": [
-          {
-            "url": "https://www.reuters.com/world/middle-east/irans-top-security-official-says-no-talks-underway-with-us-2026-11-10/",
-            "note": "모센 레자이는 알마야딘 인터뷰에서 미국과 협상 중이 아니며 이란 조건에 대한 명확한 답을 기다린다고 말했다."
-          }
-        ],
-        "materials": [
-          {
-            "url": "https://www.reuters.com/world/middle-east/irans-top-security-official-says-no-talks-underway-with-us-2026-11-10/",
-            "label": "Reuters 본문",
-            "kind": "source"
-          }
-        ],
-        "caution": "이란 측 발언이다. 모든 비공개 접촉이 없음을 독립 확인한 것은 아니다.",
-        "readiness": {
-          "mode": "major_news",
-          "event_date": "2026-11-10",
-          "observation": "모센 레자이는 알마야딘 인터뷰에서 미국과 협상 중이 아니며 이란 조건에 대한 명확한 답을 기다린다고 말했다.",
-          "checked_materials": [],
-          "outline": [
-            "진행 중 협상 부인",
-            "명확한 답변 요구",
-            "휴전 기대와 당사자 입장"
-          ]
-        }
-      },
-      "detail": {
-        "format": "카드뉴스",
-        "media": [],
-        "source_links": [
-          {
-            "label": "Reuters 본문",
-            "url": "https://www.reuters.com/world/middle-east/irans-top-security-official-says-no-talks-underway-with-us-2026-11-10/"
-          }
-        ],
-        "excerpt": "",
-        "context": "11/10 16:58 UTC 최초 게시. 9일 제안 보도 이후 레자이의 새 공개 부인으로 미발송 24시간 범위.",
-        "fetched_at": 1794377783,
-        "parser_revision": 7
-      },
-      "curation_event_key": "iran-rezaei-no-current-us-negotiations-explicit-response-20261110"
     }
   },
-  "updated_at": 1794978771
+  "updated_at": 1794989520
 }

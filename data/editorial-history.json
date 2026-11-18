@@ -2,105 +2,6 @@
   "version": 1,
   "editions": [
     {
-      "hour_utc": "2026111106",
-      "at": 1794377784,
-      "delivery": "sent",
-      "delivery_key": "hourly-2026111106",
-      "picks": [
-        {
-          "title": "불화설 뒤 26명 다시 모인 대표팀…손흥민, 팀 미팅서 결속 주문",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840131",
-          "event_key": "korea-national-team-doha-full-squad-son-unity-meeting-20261110"
-        },
-        {
-          "title": "밀워키 머피, MLB 최초 3년 연속 올해의 감독…AL은 베너블",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840628",
-          "event_key": "mlb-murphy-first-three-consecutive-manager-year-venable-20261110"
-        },
-        {
-          "title": "美 물가 예상 웃돌자 금리 인상 우려…나스닥 0.74% 하락",
-          "url": "https://www.reuters.com/business/sp-500-dow-futures-climb-oil-slide-lifts-sentiment-2026-11-10/",
-          "event_key": "us-october-cpi-04-percent-fed-hike-wallstreet-close-20261110"
-        },
-        {
-          "title": "최대 시속 150㎞ 폭풍 예보…포르투갈 학교·공공서비스 폐쇄",
-          "url": "https://www.reuters.com/business/environment/portugal-braces-storm-charles-shut-schools-ready-rescue-teams-2026-11-10/",
-          "event_key": "portugal-storm-charles-school-services-closure-spain-evacuation-20261110"
-        },
-        {
-          "title": "이란 안보 당국자 “미국과 협상 진행 안 해”…조건 답변 요구",
-          "url": "https://www.reuters.com/world/middle-east/irans-top-security-official-says-no-talks-underway-with-us-2026-11-10/",
-          "event_key": "iran-rezaei-no-current-us-negotiations-explicit-response-20261110"
-        }
-      ]
-    },
-    {
-      "hour_utc": "2026111107",
-      "at": 1794380843,
-      "delivery": "sent",
-      "delivery_key": "hourly-2026111107",
-      "picks": [
-        {
-          "title": "IPL 초대형 트레이드…뭄바이 주장 판디아, 아르시딥과 맞교환",
-          "url": "https://www.reuters.com/world/india/mumbai-trade-captain-pandya-punjab-exchange-arshdeep-ipl-2026-11-11/",
-          "event_key": "ipl-mumbai-pandya-punjab-arshdeep-captain-trade-20261111"
-        },
-        {
-          "title": "인도네시아 부통령 탄핵 문 열리나…의원 100명 이상 청원 서명",
-          "url": "https://www.reuters.com/world/asia-pacific/over-100-indonesian-lawmakers-sign-petition-that-could-lead-vice-presidents-2026-11-11/",
-          "event_key": "indonesia-gibran-impeachment-petition-100-lawmakers-20261111"
-        },
-        {
-          "title": "인도·영국 무역협정 첫 대형 분쟁…스카치 컨테이너 수십 개 묶였다",
-          "url": "https://www.reuters.com/world/india/india-holds-pernod-diageo-scotch-shipments-investigators-seek-higher-tariff-2026-11-11/",
-          "event_key": "india-uk-trade-pact-scotch-150-tariff-container-hold-20261111"
-        },
-        {
-          "title": "러시아, 칼리닌그라드서 '폴란드 정보요원' 2명 체포 주장",
-          "url": "https://www.reuters.com/world/russia-arrests-two-suspected-polish-spies-kaliningrad-interfax-reports-2026-11-11/",
-          "event_key": "russia-kaliningrad-two-alleged-polish-spies-arrested-20261111"
-        },
-        {
-          "title": "이란, 아르헨 해·공군을 '테러조직' 지정…IRGC 지정에 맞불",
-          "url": "https://www.reuters.com/world/americas/iran-designates-argentinas-navy-air-force-terrorist-organizations-2026-11-11/",
-          "event_key": "iran-argentina-navy-air-force-terror-designation-reciprocal-20261111"
-        }
-      ]
-    },
-    {
-      "hour_utc": "2026111108",
-      "at": 1794384374,
-      "delivery": "sent",
-      "delivery_key": "hourly-2026111108",
-      "picks": [
-        {
-          "title": "미 수출금지 뚫렸다…중국 군 연계 대학, 엔비디아 H200 구매",
-          "url": "https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/",
-          "event_key": "china-pla-linked-university-nvidia-h200-blacklist-purchase-20261111"
-        },
-        {
-          "title": "미 하원, 헤그세스 국방장관 탄핵 시도 차단…211대204",
-          "url": "https://www.reuters.com/world/pentagon-chief-hegseth-calls-moves-impeach-him-farce-that-will-fail-2026-11-10/",
-          "event_key": "us-house-blocks-hegseth-impeachment-211-204-20261110"
-        },
-        {
-          "title": "베네수엘라, 20년 국가독점 깼다…전력시장 민간투자 개방",
-          "url": "https://www.reuters.com/business/energy/venezuela-lawmakers-opens-crisis-hit-power-sector-private-investment-2026-11-10/",
-          "event_key": "venezuela-electricity-private-investment-state-monopoly-reform-20261110"
-        },
-        {
-          "title": "중국 내수 자동차 판매, 12년 만에 1천900만대 아래 전망",
-          "url": "https://www.reuters.com/business/retail-consumer/chinas-car-sales-seen-falling-below-19-million-units-first-time-since-2014-2026-11-11/",
-          "event_key": "china-domestic-passenger-car-sales-below-19m-first-since-2014-20261111"
-        },
-        {
-          "title": "81세 오르테가 두 달 만에 등장…니카라과 권력승계 논쟁 재점화",
-          "url": "https://www.reuters.com/world/americas/ortegas-frail-return-public-revives-succession-debate-nicaragua-2026-11-10/",
-          "event_key": "nicaragua-ortega-public-return-succession-debate-20261110"
-        }
-      ]
-    },
-    {
       "hour_utc": "2026111109",
       "at": 1794387965,
       "delivery": "sent",
@@ -2129,6 +2030,134 @@
           "why": "미국 규정이 실제 고객사 공급 중단과 법적 대응 경고로 번져 기업 이용자에게 직접 영향을 주는 후속이다.",
           "angle": "중국 원격접속 비중 50% 기준, 칩 공급 거부 가능성, 법적 대응 경고를 구체적으로 나눈다.",
           "why_now": "11월18일 13:13 KST 공개. 전날 규정 발표와 다른 새 후속으로 엔비디아가 고객사에 직접 경고했다."
+        }
+      ]
+    },
+    {
+      "hour_utc": "2026111808",
+      "at": 1794989521,
+      "delivery": "sent",
+      "delivery_key": "hourly-2026111808",
+      "picks": [
+        {
+          "title": "후배 폭행 전 전남 선수, K리그 10경기 정지·벌금 1천만원",
+          "url": "https://www.yna.co.kr/view/AKR20261118132400007",
+          "event_key": "former-jeonnam-player-assault-kleague-ten-match-ban-20261118",
+          "category": "축구",
+          "rank": 1,
+          "published_at": 1794983040,
+          "source": "연합뉴스",
+          "why": "계약 해지로 끝난 사건에 리그가 10경기 정지와 벌금까지 확정해 선수 기본권 보호 기준을 분명히 했다.",
+          "angle": "폭행 사건→구단 계약 해지→리그 추가 징계의 순서와 10경기·1천만원을 분리해 보여준다.",
+          "why_now": "11월18일 15:24 KST 공개. 구단 조치 뒤 프로축구연맹의 공식 징계가 새로 확정됐다."
+        },
+        {
+          "title": "갈비뼈 통증 버틴 강민호 “한국시리즈 2차전이 우승 분수령”",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852189",
+          "event_key": "kang-minho-korean-series-game-two-turning-point-injury-20261118",
+          "category": "메이저 스포츠",
+          "rank": 2,
+          "published_at": 1794986820,
+          "source": "SBS",
+          "why": "우승 직후 포수가 직접 꼽은 분수령과 부상 투혼, 다음 우승에 필요한 이름까지 한 인터뷰에 담겼다.",
+          "angle": "통증을 안고 뛴 결승 무대와 2차전 판단, 최형우·구자욱·원태인에 대한 직접 평가를 인터뷰 흐름대로 구성한다.",
+          "why_now": "11월18일 16:27 KST 공개. 삼성 우승 뒤 강민호가 경기 안에서 느낀 전환점과 몸 상태를 처음 구체적으로 설명했다."
+        },
+        {
+          "title": "제주 이건희, 서울전 바이시클킥으로 생애 첫 K리그 이달의 골",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851923",
+          "event_key": "jeju-lee-geonhee-bicycle-kick-kleague-goal-month-20261118",
+          "category": "축구",
+          "rank": 3,
+          "published_at": 1794980520,
+          "source": "SBS",
+          "why": "등을 진 상태에서 나온 바이시클킥 한 장면과 57.4% 팬 투표라는 결과가 바로 카드로 옮길 수 있다.",
+          "angle": "서울전 72분 장면, 바이시클킥 동작, 무고사와의 투표 결과를 세 장으로 좁힌다.",
+          "why_now": "11월18일 14:42 KST 공개. 연맹이 10월 이달의 골 수상과 득표를 확정 발표했다."
+        },
+        {
+          "title": "구성윤, 김대원 페널티킥 막고 K리그 첫 ‘이달의 세이브’",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851904",
+          "event_key": "fc-seoul-gu-sungyun-penalty-save-kleague-save-month-20261118",
+          "category": "축구",
+          "rank": 4,
+          "published_at": 1794980160,
+          "source": "SBS",
+          "why": "전반 추가시간 페널티킥을 막은 결정적 장면과 초대 수상이라는 기록이 함께 잡힌다.",
+          "angle": "PK 직전 상황, 구성윤의 선방, 4,582표와 초대 수상 결과를 장면 중심으로 배열한다.",
+          "why_now": "11월18일 14:36 KST 공개. 신설된 K리그 이달의 세이브 첫 수상자가 확정됐다."
+        },
+        {
+          "title": "수원 김민우, 하프라인 롱패스로 K리그 첫 월간 도움 2회 수상",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851847",
+          "event_key": "suwon-kim-minwoo-long-pass-second-delivery-month-20261118",
+          "category": "축구",
+          "rank": 5,
+          "published_at": 1794979140,
+          "source": "SBS",
+          "why": "하프라인 부근 롱패스가 골로 이어진 장면과 신설상 최초 2회 수상이라는 차별점이 선명하다.",
+          "angle": "김민우의 긴 패스, 루이스의 가슴 트래핑과 마무리, 최초 2회 수상을 동작별로 나눈다.",
+          "why_now": "11월18일 14:19 KST 공개. 10월 수상 발표로 김민우가 처음 두 차례 받은 선수가 됐다."
+        },
+        {
+          "title": "브런슨, 102대102서 4점 플레이…닉스가 토론토전 15연승",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851866",
+          "event_key": "jalen-brunson-four-point-play-knicks-fifteen-straight-raptors-20261118",
+          "category": "메이저 스포츠",
+          "rank": 6,
+          "published_at": 1794979320,
+          "source": "SBS",
+          "why": "동점에서 나온 3점슛과 추가 자유투 한 장면이 15연승을 결정해 짧고 강한 경기 서사가 된다.",
+          "angle": "종료 1분23초 동점, 브런슨의 3점슛, 플래그런트 파울 자유투와 15연승을 시간순으로 붙인다.",
+          "why_now": "11월18일 14:22 KST 공개. 경기 종료 직전 결정적 4점 플레이와 상대전 연승 기록이 확정됐다."
+        },
+        {
+          "title": "새만금공항 기본계획, 2심도 취소…법원 “안전·환경 검토 부족”",
+          "url": "https://www.yna.co.kr/view/AKR20261118123700055",
+          "event_key": "saemangeum-airport-plan-cancelled-appeal-dismissed-20261118",
+          "category": "시사",
+          "rank": 7,
+          "published_at": 1794982260,
+          "source": "연합뉴스",
+          "why": "지역 핵심 인프라 계획이 항소심에서도 취소돼 사업 지속과 9조원 투자 구상에 즉각 변수가 생겼다.",
+          "angle": "항소 기각, 조류충돌·환경 판단, 전북도 상고 검토와 투자 영향 가능성을 사실별로 구분한다.",
+          "why_now": "11월18일 15:11 KST 공개. 서울고법이 국토부 항소를 기각하며 1심의 기본계획 취소 판단을 유지했다."
+        },
+        {
+          "title": "추경호 ‘계엄 해제 표결 방해’ 1심 무죄…법원 “요청 증거 부족”",
+          "url": "https://www.yna.co.kr/view/AKR20261118118400004",
+          "event_key": "choo-kyungho-martial-law-vote-obstruction-first-trial-acquittal-20261118",
+          "category": "시사",
+          "rank": 8,
+          "published_at": 1794979560,
+          "source": "연합뉴스",
+          "why": "90명이 표결에 불참했던 핵심 의혹에 대해 법원이 요청·승낙 증거가 부족하다고 본 첫 판결이다.",
+          "angle": "세 차례 의총 장소 변경, 공소사실, 재판부가 인정하지 않은 두 단계의 증거를 분리한다.",
+          "why_now": "11월18일 14:26 KST 공개. 계엄 해제 표결 방해 혐의의 1심 판단이 처음 선고됐다."
+        },
+        {
+          "title": "특검, 투표율 허위입력·문서 위변조 혐의 선관위 직원 8명 영장",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261118120352004",
+          "event_key": "nec-eight-officials-arrest-warrants-false-turnout-records-20261118",
+          "category": "시사",
+          "rank": 9,
+          "published_at": 1794983940,
+          "source": "연합뉴스",
+          "why": "투표용지 부족 수사가 실제 직원 8명의 신병 확보 단계로 넘어갔고 허위입력·문서 위변조 혐의가 구체화됐다.",
+          "angle": "8명 구성, 문제 된 투표율·투표록·개표상황표, 향후 영장심사를 순서대로 정리한다.",
+          "why_now": "11월18일 15:39 KST 공개. 특검 출범 뒤 첫 구속영장 청구로 수사가 새 단계에 들어갔다."
+        },
+        {
+          "title": "경찰, AI 부정행위 세무사 수석 주거지 압수수색…수사로 번진 자수",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852305",
+          "event_key": "tax-accountant-ai-cheating-police-home-search-20261118",
+          "category": "시사",
+          "rank": 10,
+          "published_at": 1794987720,
+          "source": "SBS",
+          "why": "온라인 자수 영상으로 알려진 사건이 경찰의 주거지 압수수색이라는 강제수사 단계로 넘어간 새 후속이다.",
+          "angle": "기존 자수 사실과 이번 압수수색을 분리하고, 확보 자료의 내용은 아직 공개되지 않았다는 선을 지킨다.",
+          "why_now": "11월18일 16:42 KST 공개. 기존 의혹·자수와 다른 새 사실은 경찰이 주거지 압수수색에 착수했다는 점이다."
         }
       ]
     }
