@@ -118,5 +118,9 @@
       "candidate": "기존 엔비디아 SEC 조사",
       "reason": "11시 회차에 이미 전송된 동일 사실"
     }
-  ]
+  ],
+  "submission_retry": {
+    "reason": "full validator required top-level empty_reason; first attempt stopped before Telegram send",
+    "safe_to_retry": true
+  }
 }
