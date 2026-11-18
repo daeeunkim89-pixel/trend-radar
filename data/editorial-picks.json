@@ -1,103 +1,64 @@
 {
   "version": 2,
-  "hour_utc": "2026111805",
+  "hour_utc": "2026111808",
   "reviewer": "ChatGPT",
-  "generated_at": 1794978445,
+  "generated_at": 1794989274,
   "coverage": {
     "queries": [
-      "2026년 11월 18일 11시 이후 한국 축구 대표팀 해외파 공식 직접 발언 경기 결과",
-      "November 18 2026 football official club player reaction Korea time",
-      "2026년 11월 18일 11시 이후 국내 주요 스포츠 확정 계약 수상 징계",
-      "2026년 11월 18일 11시 이후 한국 주요 시사 새 결정 판결 생활 영향",
-      "site:thefa.com OR site:uefa.com OR site:premierleague.com November 18 2026 football official",
-      "2026년 11월 18일 13시 속보 한국 스포츠 시사 발표",
-      "2026년 11월 18일 K리그 공식 발표 이달의 선수",
-      "November 18 2026 European football official announcement player quote",
-      "2026년 11월 18일 축구 팬 화제 직접 발언 반전 공식 영상",
-      "2026년 11월 18일 13시 14시 속보 판결 계약 스포츠"
+      "2026년 11월 18일 14시 이후 축구 공식 발표 직접 발언 주요 경기 한국 해외파",
+      "2026년 11월 18일 14시 이후 국내 축구 스포츠 계약 징계 수상 공식",
+      "2026년 11월 18일 14시 이후 한국 주요 시사 새 결정 판결 생활 영향",
+      "November 18 2026 football official club player reaction major match Korea time",
+      "2026년 11월 18일 15시 16시 스포츠 공식 발표 직접 발언",
+      "2026년 11월 18일 15시 16시 한국 주요 뉴스 확정 결정 판결",
+      "2026년 11월 18일 K리그 이건희 구성윤 김민우 공식 발표",
+      "2026년 11월 18일 한중회담 AI 부정행위 새만금 상세",
+      "2026년 11월 18일 새만금 신공항 2심 추경호 무죄 선관위 직원 구속영장 상세 연합뉴스",
+      "2026년 11월 18일 16시 한중 정상회담 FTA 문화교류 AI 부정행위 압수수색 상세"
     ],
     "opened_urls": [
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851448",
-      "https://www.yna.co.kr/view/AKR20261118069000007",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851520",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851528",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851527",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851755",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851741",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851499",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851523",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851743",
+      "https://www.yna.co.kr/view/AKR20261118132400007",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852189",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851923",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851904",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851847",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851866",
+      "https://www.yna.co.kr/view/AKR20261118123700055",
+      "https://www.yna.co.kr/view/AKR20261118118400004",
+      "https://www.yna.co.kr/amp/view/AKR20261118120352004",
+      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852305",
+      "https://www.instagram.com/bythepulse/",
       "https://news.sbs.co.kr/news/newsflash.do?pageDate=20261118",
-      "https://nwww.newsis.com/live/today",
-      "https://www.kleague.com/news_view.do?category=notice&orderBy=seq&page=1&seq=96817&viewOption=album"
+      "https://nwww.newsis.com/live/today"
     ],
     "unavailable": [
-      "BTP Instagram 공개 프로필 1회 확인: Internal Error / Online fetch throttled; 재요청·우회 없이 뉴스 탐색 계속.",
-      "K리그 공식 원문 open: DisabledError; 접근 가능한 연합뉴스 공개 본문과 검색에 반환된 연맹 발표 내용으로 검증.",
-      "SBS 원문 5건 재열람: Internal Error; 앞서 읽은 공개 본문·목록 사실만 사용하고 추가 변형 요청 없이 중단.",
-      "run_usage: start=2026-11-18T14:03:03+09:00; searches=10; bodies=24; successes=17; failures=7; stop=10_verified; end=2026-11-18T14:07:25+09:00; elapsed=262s."
+      "BTP Instagram 공개 프로필 1회 확인: Online fetch throttled; 재요청·우회 없이 뉴스 탐색 계속.",
+      "연합뉴스 선관위 AMP 본문 open: DisabledError; 같은 검색 반환의 공개 본문 사실로 검증하고 URL 변형 재요청 중단.",
+      "run_usage: start=2026-11-18T17:04:02+09:00; searches=10; bodies=32; successes=29; failures=3; stop=10_verified; end=2026-11-18T17:07:54+09:00; elapsed=232s."
     ]
   },
   "picks": [
     {
-      "title": "메시 빠진 아르헨티나, 코스타리카에 7대0…공격진이 만든 새 장면",
+      "title": "후배 폭행 전 전남 선수, K리그 10경기 정지·벌금 1천만원",
       "category": "축구",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851448",
-      "source": "SBS",
-      "kind": "article",
-      "event_key": "argentina-costa-rica-seven-zero-without-messi-20261118",
-      "why": "메시가 결장한 경기에서 아르헨티나가 7골을 넣어 ‘에이스 부재’와 결과의 반전이 한눈에 잡힌다.",
-      "angle": "메시 결장, 일방적인 7골, 대체 공격진이 만든 결과를 세 장으로 대비한다.",
-      "why_now": "11월18일 10:56 KST 공개. 방금 끝난 A매치 결과와 메시 부재가 함께 확인된 새 사실이다.",
-      "verified_at": 1794978445,
-      "published_at": 1794966960,
-      "evidence": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851448",
-          "note": "아르헨티나는 메시가 빠진 가운데 코스타리카를 7대0으로 이겼다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851448",
-          "label": "확인 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-18",
-        "observation": "아르헨티나는 메시가 빠진 가운데 코스타리카를 7대0으로 이겼다.",
-        "checked_materials": [],
-        "outline": [
-          "첫 장: 메시가 없었는데, 아르헨티나는 7골을 넣었다",
-          "둘째 장: 코스타리카를 상대로 벌어진 7대0 스코어",
-          "셋째 장: 에이스 부재에도 멈추지 않은 공격진—결과가 남긴 질문"
-        ]
-      }
-    },
-    {
-      "title": "광주FC 첫 이달의 선수…바루아, 4경기 3골 5도움으로 역사",
-      "category": "축구",
-      "url": "https://www.yna.co.kr/view/AKR20261118069000007",
+      "url": "https://www.yna.co.kr/view/AKR20261118132400007",
       "source": "연합뉴스",
       "kind": "article",
-      "event_key": "bar-rua-gwangju-first-kleague-player-of-month-20261118",
-      "why": "시즌 중 합류한 선수가 석 달 만에 구단 최초 수상자가 됐고 4경기 8개 공격포인트라는 숫자도 선명하다.",
-      "angle": "7월 합류, 4경기 3골 5도움, 광주 최초 수상이라는 시간축을 세 장으로 묶는다.",
-      "why_now": "11월18일 10:23 KST 공개. 한국프로축구연맹 발표로 수상과 투표 결과가 확정됐다.",
-      "verified_at": 1794978445,
-      "published_at": 1794964980,
+      "event_key": "former-jeonnam-player-assault-kleague-ten-match-ban-20261118",
+      "why": "계약 해지로 끝난 사건에 리그가 10경기 정지와 벌금까지 확정해 선수 기본권 보호 기준을 분명히 했다.",
+      "angle": "폭행 사건→구단 계약 해지→리그 추가 징계의 순서와 10경기·1천만원을 분리해 보여준다.",
+      "why_now": "11월18일 15:24 KST 공개. 구단 조치 뒤 프로축구연맹의 공식 징계가 새로 확정됐다.",
+      "verified_at": 1794989274,
+      "published_at": 1794983040,
       "evidence": [
         {
-          "url": "https://www.yna.co.kr/view/AKR20261118069000007",
-          "note": "바루아는 4경기 3골 5도움으로 광주FC 구단 최초 K리그 이달의 선수에 뽑혔다."
+          "url": "https://www.yna.co.kr/view/AKR20261118132400007",
+          "note": "한국프로축구연맹은 후배를 폭행한 전 전남 선수에게 10경기 출장정지와 제재금 1천만원을 부과했다."
         }
       ],
       "materials": [
         {
-          "url": "https://www.yna.co.kr/view/AKR20261118069000007",
+          "url": "https://www.yna.co.kr/view/AKR20261118132400007",
           "label": "확인 원문",
           "kind": "source"
         }
@@ -106,36 +67,36 @@
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-18",
-        "observation": "바루아는 4경기 3골 5도움으로 광주FC 구단 최초 K리그 이달의 선수에 뽑혔다.",
+        "observation": "한국프로축구연맹은 후배를 폭행한 전 전남 선수에게 10경기 출장정지와 제재금 1천만원을 부과했다.",
         "checked_materials": [],
         "outline": [
-          "첫 장: 광주FC에서 처음 나온 ‘이달의 선수’",
-          "둘째 장: 바루아의 4경기 기록—3골 5도움",
-          "셋째 장: 7월 합류 뒤 석 달, 구단의 첫 기록을 만든 과정"
+          "첫 장: 후배 폭행으로 계약이 끝난 선수에게 리그 징계가 추가됐다",
+          "둘째 장: 출장정지 10경기·제재금 1천만원",
+          "셋째 장: 연맹이 밝힌 기준—선수 안전과 기본권, 리그 신뢰 훼손"
         ]
       }
     },
     {
-      "title": "최지훈, SSG와 4년 67억원…계약금 38억원에 잔류 확정",
+      "title": "갈비뼈 통증 버틴 강민호 “한국시리즈 2차전이 우승 분수령”",
       "category": "메이저 스포츠",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851520",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852189",
       "source": "SBS",
       "kind": "article",
-      "event_key": "choi-jihoon-ssg-four-year-6point7billion-contract-20261118",
-      "why": "국가대표 외야수의 거취가 4년 총액 67억원으로 확정돼 국내 야구 팬이 바로 소비할 계약 뉴스다.",
-      "angle": "총액 67억원을 계약금·연봉·옵션으로 나눠 실제 계약 구조를 숫자로 보여준다.",
-      "why_now": "11월18일 11:17 KST 공개. 협상설이 아니라 구단과 선수의 계약 완료가 새 사실이다.",
-      "verified_at": 1794978445,
-      "published_at": 1794968220,
+      "event_key": "kang-minho-korean-series-game-two-turning-point-injury-20261118",
+      "why": "우승 직후 포수가 직접 꼽은 분수령과 부상 투혼, 다음 우승에 필요한 이름까지 한 인터뷰에 담겼다.",
+      "angle": "통증을 안고 뛴 결승 무대와 2차전 판단, 최형우·구자욱·원태인에 대한 직접 평가를 인터뷰 흐름대로 구성한다.",
+      "why_now": "11월18일 16:27 KST 공개. 삼성 우승 뒤 강민호가 경기 안에서 느낀 전환점과 몸 상태를 처음 구체적으로 설명했다.",
+      "verified_at": 1794989274,
+      "published_at": 1794986820,
       "evidence": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851520",
-          "note": "최지훈은 SSG와 4년 총액 67억원에 재계약했다. 계약금 38억원, 연봉 총액 20억원, 옵션 9억원이다."
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852189",
+          "note": "강민호는 한국시리즈 2차전을 분수령으로 꼽고 심한 회전근 통증을 참고 뛰었다고 말했으며 최형우를 '범접할 수 없는 레전드'라고 평가했다."
         }
       ],
       "materials": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851520",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852189",
           "label": "확인 원문",
           "kind": "source"
         }
@@ -144,36 +105,151 @@
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-18",
-        "observation": "최지훈은 SSG와 4년 총액 67억원에 재계약했다. 계약금 38억원, 연봉 총액 20억원, 옵션 9억원이다.",
+        "observation": "강민호는 한국시리즈 2차전을 분수령으로 꼽고 심한 회전근 통증을 참고 뛰었다고 말했으며 최형우를 '범접할 수 없는 레전드'라고 평가했다.",
         "checked_materials": [],
         "outline": [
-          "첫 장: 최지훈, SSG에 남는다—4년 67억원",
-          "둘째 장: 계약금 38억·연봉 20억·옵션 9억",
-          "셋째 장: 국가대표 외야수의 거취를 확정한 SSG의 선택"
+          "첫 장: 강민호가 꼽은 우승의 분수령은 한국시리즈 2차전",
+          "둘째 장: 회전할 때마다 아팠던 갈비뼈 부위—그래도 포수 마스크를 썼다",
+          "셋째 장: 최형우는 ‘범접할 수 없는 레전드’",
+          "넷째 장: 다음 우승에 필요하다고 지목한 구자욱과 원태인"
         ]
       }
     },
     {
-      "title": "오타니, 4년 연속 실버슬러거 불발…수상자 13명은 첫 영예",
+      "title": "제주 이건희, 서울전 바이시클킥으로 생애 첫 K리그 이달의 골",
+      "category": "축구",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851923",
+      "source": "SBS",
+      "kind": "article",
+      "event_key": "jeju-lee-geonhee-bicycle-kick-kleague-goal-month-20261118",
+      "why": "등을 진 상태에서 나온 바이시클킥 한 장면과 57.4% 팬 투표라는 결과가 바로 카드로 옮길 수 있다.",
+      "angle": "서울전 72분 장면, 바이시클킥 동작, 무고사와의 투표 결과를 세 장으로 좁힌다.",
+      "why_now": "11월18일 14:42 KST 공개. 연맹이 10월 이달의 골 수상과 득표를 확정 발표했다.",
+      "verified_at": 1794989274,
+      "published_at": 1794980520,
+      "evidence": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851923",
+          "note": "이건희는 서울전 후반 27분 바이시클킥 골로 3,418표(57.4%)를 받아 생애 첫 K리그 이달의 골을 수상했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851923",
+          "label": "확인 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-18",
+        "observation": "이건희는 서울전 후반 27분 바이시클킥 골로 3,418표(57.4%)를 받아 생애 첫 K리그 이달의 골을 수상했다.",
+        "checked_materials": [],
+        "outline": [
+          "첫 장: 등을 진 채 몸을 띄운 이건희의 바이시클킥",
+          "둘째 장: 서울전 후반 27분, 골문으로 꽂힌 한 장면",
+          "셋째 장: 3,418표·57.4%로 무고사를 제치고 첫 월간상"
+        ]
+      }
+    },
+    {
+      "title": "구성윤, 김대원 페널티킥 막고 K리그 첫 ‘이달의 세이브’",
+      "category": "축구",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851904",
+      "source": "SBS",
+      "kind": "article",
+      "event_key": "fc-seoul-gu-sungyun-penalty-save-kleague-save-month-20261118",
+      "why": "전반 추가시간 페널티킥을 막은 결정적 장면과 초대 수상이라는 기록이 함께 잡힌다.",
+      "angle": "PK 직전 상황, 구성윤의 선방, 4,582표와 초대 수상 결과를 장면 중심으로 배열한다.",
+      "why_now": "11월18일 14:36 KST 공개. 신설된 K리그 이달의 세이브 첫 수상자가 확정됐다.",
+      "verified_at": 1794989274,
+      "published_at": 1794980160,
+      "evidence": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851904",
+          "note": "구성윤은 강원전 전반 추가시간 김대원의 페널티킥을 막은 장면으로 4,582표를 받아 첫 이달의 세이브 수상자가 됐다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851904",
+          "label": "확인 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-18",
+        "observation": "구성윤은 강원전 전반 추가시간 김대원의 페널티킥을 막은 장면으로 4,582표를 받아 첫 이달의 세이브 수상자가 됐다.",
+        "checked_materials": [],
+        "outline": [
+          "첫 장: 전반 추가시간, 김대원의 페널티킥을 막아낸 구성윤",
+          "둘째 장: 승부가 흔들릴 수 있던 한 번의 킥과 선방",
+          "셋째 장: 4,582표—신설된 이달의 세이브 첫 수상자"
+        ]
+      }
+    },
+    {
+      "title": "수원 김민우, 하프라인 롱패스로 K리그 첫 월간 도움 2회 수상",
+      "category": "축구",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851847",
+      "source": "SBS",
+      "kind": "article",
+      "event_key": "suwon-kim-minwoo-long-pass-second-delivery-month-20261118",
+      "why": "하프라인 부근 롱패스가 골로 이어진 장면과 신설상 최초 2회 수상이라는 차별점이 선명하다.",
+      "angle": "김민우의 긴 패스, 루이스의 가슴 트래핑과 마무리, 최초 2회 수상을 동작별로 나눈다.",
+      "why_now": "11월18일 14:19 KST 공개. 10월 수상 발표로 김민우가 처음 두 차례 받은 선수가 됐다.",
+      "verified_at": 1794989274,
+      "published_at": 1794979140,
+      "evidence": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851847",
+          "note": "김민우는 안산전 전반 2분 하프라인 부근에서 루이스의 선제골을 도운 롱패스로 이달의 딜리버리 최초 2회 수상자가 됐다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851847",
+          "label": "확인 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-18",
+        "observation": "김민우는 안산전 전반 2분 하프라인 부근에서 루이스의 선제골을 도운 롱패스로 이달의 딜리버리 최초 2회 수상자가 됐다.",
+        "checked_materials": [],
+        "outline": [
+          "첫 장: 하프라인 부근에서 골문 앞으로 보낸 김민우의 긴 패스",
+          "둘째 장: 루이스가 가슴으로 떨군 뒤 오른발로 완성",
+          "셋째 장: 초대 수상에 이어 다시 선정—이 상의 첫 2회 수상자"
+        ]
+      }
+    },
+    {
+      "title": "브런슨, 102대102서 4점 플레이…닉스가 토론토전 15연승",
       "category": "메이저 스포츠",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851528",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851866",
       "source": "SBS",
       "kind": "article",
-      "event_key": "ohtani-silver-slugger-fourth-straight-missed-13-first-winners-20261118",
-      "why": "오타니의 4년 연속 수상 도전이 멈췄고 13명의 첫 수상자가 나온 세대 교체 결과가 함께 잡힌다.",
-      "angle": "오타니 연속 수상 불발과 첫 수상자 13명을 한 화면의 ‘교체된 얼굴들’로 대비한다.",
-      "why_now": "11월18일 11:17 KST 공개. 시상 결과가 확정되며 연속 기록의 중단과 새 수상자가 동시에 나왔다.",
-      "verified_at": 1794978445,
-      "published_at": 1794968220,
+      "event_key": "jalen-brunson-four-point-play-knicks-fifteen-straight-raptors-20261118",
+      "why": "동점에서 나온 3점슛과 추가 자유투 한 장면이 15연승을 결정해 짧고 강한 경기 서사가 된다.",
+      "angle": "종료 1분23초 동점, 브런슨의 3점슛, 플래그런트 파울 자유투와 15연승을 시간순으로 붙인다.",
+      "why_now": "11월18일 14:22 KST 공개. 경기 종료 직전 결정적 4점 플레이와 상대전 연승 기록이 확정됐다.",
+      "verified_at": 1794989274,
+      "published_at": 1794979320,
       "evidence": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851528",
-          "note": "오타니 쇼헤이는 4년 연속 실버슬러거 수상에 실패했고 이번 수상자 가운데 13명이 첫 수상자였다."
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851866",
+          "note": "브런슨은 102대102에서 종료 1분23초 전 3점슛과 추가 자유투를 넣었고 뉴욕은 토론토를 111대102로 꺾어 상대전 15연승을 기록했다."
         }
       ],
       "materials": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851528",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851866",
           "label": "확인 원문",
           "kind": "source"
         }
@@ -182,240 +258,168 @@
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-18",
-        "observation": "오타니 쇼헤이는 4년 연속 실버슬러거 수상에 실패했고 이번 수상자 가운데 13명이 첫 수상자였다.",
+        "observation": "브런슨은 102대102에서 종료 1분23초 전 3점슛과 추가 자유투를 넣었고 뉴욕은 토론토를 111대102로 꺾어 상대전 15연승을 기록했다.",
         "checked_materials": [],
         "outline": [
-          "첫 장: 오타니의 실버슬러거 연속 기록이 멈췄다",
-          "둘째 장: 4년 연속 수상 도전이 불발된 결과",
-          "셋째 장: 대신 처음 트로피를 든 선수만 13명—바뀐 수상자 지도"
+          "첫 장: 102대102, 남은 시간 1분23초",
+          "둘째 장: 브런슨의 3점슛 뒤 플래그런트 파울",
+          "셋째 장: 추가 자유투까지 넣은 4점 플레이",
+          "넷째 장: 뉴욕 111대102 승리, 토론토전 15연승"
         ]
       }
     },
     {
-      "title": "러시아 피겨 선수들 핀란드 입국 불허…그랑프리 7명 출전 무산",
-      "category": "메이저 스포츠",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851527",
-      "source": "SBS",
-      "kind": "article",
-      "event_key": "russian-figure-skaters-finland-entry-denied-seven-miss-grand-prix-20261118",
-      "why": "국제정세가 실제 선수 7명의 그랑프리 출전 무산으로 이어져 스포츠 현장의 충격이 구체적이다.",
-      "angle": "입국 불허 결정, 출전이 막힌 7명, 대회 엔트리 변화의 순서로 설명한다.",
-      "why_now": "11월18일 11:22 KST 공개. 단순 제재 논쟁이 아니라 해당 대회 출전 무산이 확정된 후속이다.",
-      "verified_at": 1794978445,
-      "published_at": 1794968520,
-      "evidence": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851527",
-          "note": "핀란드가 러시아 피겨 선수들의 입국을 허용하지 않아 선수 7명이 그랑프리 대회에 출전하지 못하게 됐다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851527",
-          "label": "확인 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "입국 불허 사유와 선수별 명단은 원문 범위를 넘어 단정하지 않는다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-18",
-        "observation": "핀란드가 러시아 피겨 선수들의 입국을 허용하지 않아 선수 7명이 그랑프리 대회에 출전하지 못하게 됐다.",
-        "checked_materials": [],
-        "outline": [
-          "첫 장: 비행기를 타도 경기장에 갈 수 없었다",
-          "둘째 장: 핀란드의 입국 불허로 러시아 선수 7명 출전 무산",
-          "셋째 장: 국제정세가 그랑프리 엔트리를 바꾼 순간"
-        ]
-      }
-    },
-    {
-      "title": "이스라엘 의회, 반네타냐후 의장 선출…여당 후보 66대52로 패배",
+      "title": "새만금공항 기본계획, 2심도 취소…법원 “안전·환경 검토 부족”",
       "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851755",
-      "source": "SBS",
+      "url": "https://www.yna.co.kr/view/AKR20261118123700055",
+      "source": "연합뉴스",
       "kind": "article",
-      "event_key": "israel-knesset-elects-matan-kahana-speaker-66-52-20261118",
-      "why": "의사일정을 쥔 국회의장 자리가 반네타냐후 인사에게 넘어가며 권력 균열이 표결 숫자로 드러났다.",
-      "angle": "66대52 표결, 의장의 의사일정 권한, 네타냐후 정부에 생긴 새 부담을 세 장으로 정리한다.",
-      "why_now": "11월18일 13:25 KST 공개. 예상이 아니라 의장 선출 표결이 끝난 확정 결과다.",
-      "verified_at": 1794978445,
-      "published_at": 1794975900,
+      "event_key": "saemangeum-airport-plan-cancelled-appeal-dismissed-20261118",
+      "why": "지역 핵심 인프라 계획이 항소심에서도 취소돼 사업 지속과 9조원 투자 구상에 즉각 변수가 생겼다.",
+      "angle": "항소 기각, 조류충돌·환경 판단, 전북도 상고 검토와 투자 영향 가능성을 사실별로 구분한다.",
+      "why_now": "11월18일 15:11 KST 공개. 서울고법이 국토부 항소를 기각하며 1심의 기본계획 취소 판단을 유지했다.",
+      "verified_at": 1794989274,
+      "published_at": 1794982260,
       "evidence": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851755",
-          "note": "이스라엘 의회는 마탄 카하나를 의장으로 선출했다. 카하나는 66표를 얻어 리쿠드 후보의 52표를 앞섰다."
+          "url": "https://www.yna.co.kr/view/AKR20261118123700055",
+          "note": "서울고법은 새만금국제공항 기본계획 취소소송에서 국토부 항소를 기각했고 안전·환경 공익을 충분히 검토하지 않았다고 판단했다."
         }
       ],
       "materials": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851755",
+          "url": "https://www.yna.co.kr/view/AKR20261118123700055",
           "label": "확인 원문",
           "kind": "source"
         }
       ],
-      "caution": "",
+      "caution": "투자 위축은 확정 결과가 아니라 기사에서 제기된 가능성으로만 표시한다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-18",
-        "observation": "이스라엘 의회는 마탄 카하나를 의장으로 선출했다. 카하나는 66표를 얻어 리쿠드 후보의 52표를 앞섰다.",
+        "observation": "서울고법은 새만금국제공항 기본계획 취소소송에서 국토부 항소를 기각했고 안전·환경 공익을 충분히 검토하지 않았다고 판단했다.",
         "checked_materials": [],
         "outline": [
-          "첫 장: 66대52—네타냐후 진영이 의장 선거에서 졌다",
-          "둘째 장: 새 의장 마탄 카하나가 쥐는 의사일정 권한",
-          "셋째 장: 정부에 더해진 정치적 균열, 다음 표결에 미칠 영향"
+          "첫 장: 새만금공항 기본계획, 2심에서도 취소 판단",
+          "둘째 장: 법원이 짚은 조류충돌과 환경 보전 검토 부족",
+          "셋째 장: 전북도·국토부는 상고 여부 검토",
+          "넷째 장: 현대차그룹 9조원 투자 구상에도 새 변수"
         ]
       }
     },
     {
-      "title": "루비오 “트럼프·김정은 회담은 진지한 구상”…아직 일정은 없다",
+      "title": "추경호 ‘계엄 해제 표결 방해’ 1심 무죄…법원 “요청 증거 부족”",
       "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851741",
-      "source": "SBS",
+      "url": "https://www.yna.co.kr/view/AKR20261118118400004",
+      "source": "연합뉴스",
       "kind": "article",
-      "event_key": "rubio-trump-kim-meeting-serious-idea-not-scheduled-20261118",
-      "why": "한반도 외교의 큰 변수가 될 정상회담 구상을 미 국무장관이 확인했지만 미정이라는 선도 분명하다.",
-      "angle": "‘진지한 구상’이라는 확인과 ‘일정 없음’을 같은 비중으로 배치해 기대와 사실을 분리한다.",
-      "why_now": "11월18일 13:13 KST 공개. 미 국무장관의 직접 설명이 새 사실이며 회담 성사는 아직 미확정이다.",
-      "verified_at": 1794978445,
-      "published_at": 1794975180,
+      "event_key": "choo-kyungho-martial-law-vote-obstruction-first-trial-acquittal-20261118",
+      "why": "90명이 표결에 불참했던 핵심 의혹에 대해 법원이 요청·승낙 증거가 부족하다고 본 첫 판결이다.",
+      "angle": "세 차례 의총 장소 변경, 공소사실, 재판부가 인정하지 않은 두 단계의 증거를 분리한다.",
+      "why_now": "11월18일 14:26 KST 공개. 계엄 해제 표결 방해 혐의의 1심 판단이 처음 선고됐다.",
+      "verified_at": 1794989274,
+      "published_at": 1794979560,
       "evidence": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851741",
-          "note": "마코 루비오 미 국무장관은 트럼프 대통령과 김정은 위원장의 회담이 진지한 구상이라고 말했지만 아직 일정은 잡히지 않았다고 밝혔다."
+          "url": "https://www.yna.co.kr/view/AKR20261118118400004",
+          "note": "서울중앙지법은 추경호 시장의 내란중요임무종사 혐의에 무죄를 선고하며 윤석열의 표결 저지 요청과 추 시장의 승낙을 인정할 증거가 부족하다고 봤다."
         }
       ],
       "materials": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851741",
+          "url": "https://www.yna.co.kr/view/AKR20261118118400004",
           "label": "확인 원문",
           "kind": "source"
         }
       ],
-      "caution": "회담 개최가 확정된 것이 아니라 검토 단계라는 점을 제목과 본문에 유지한다.",
+      "caution": "1심 판결이며 확정판결이 아니다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-18",
-        "observation": "마코 루비오 미 국무장관은 트럼프 대통령과 김정은 위원장의 회담이 진지한 구상이라고 말했지만 아직 일정은 잡히지 않았다고 밝혔다.",
+        "observation": "서울중앙지법은 추경호 시장의 내란중요임무종사 혐의에 무죄를 선고하며 윤석열의 표결 저지 요청과 추 시장의 승낙을 인정할 증거가 부족하다고 봤다.",
         "checked_materials": [],
         "outline": [
-          "첫 장: 트럼프·김정은 회담, 미국이 ‘진지한 구상’이라 확인",
-          "둘째 장: 다만 정해진 날짜도 장소도 아직 없다",
-          "셋째 장: 성사와 검토를 분리해 봐야 하는 한반도 외교 변수"
+          "첫 장: ‘계엄 해제 표결 방해’ 추경호 1심 무죄",
+          "둘째 장: 국회와 당사를 오간 세 차례 의총 장소 변경",
+          "셋째 장: 법원은 윤석열의 저지 요청이 있었다고 보기 어렵다고 판단",
+          "넷째 장: 요청을 승낙했다는 증거도 부족하다고 봤다"
         ]
       }
     },
     {
-      "title": "조태용 전 국정원장 징역 2년6개월 확정…정치 관여 혐의 유죄",
+      "title": "특검, 투표율 허위입력·문서 위변조 혐의 선관위 직원 8명 영장",
       "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851499",
-      "source": "SBS",
+      "url": "https://www.yna.co.kr/amp/view/AKR20261118120352004",
+      "source": "연합뉴스",
       "kind": "article",
-      "event_key": "cho-taeyong-former-nis-chief-final-30-month-sentence-20261118",
-      "why": "전직 국가정보원장의 정치 관여 혐의에 대한 실형이 대법원에서 확정된 중대한 사법 결과다.",
-      "angle": "혐의, 징역 2년6개월, 확정 판결이라는 세 요소만으로 과장 없이 구성한다.",
-      "why_now": "11월18일 11:15 KST 공개. 항소 전망이 아니라 최종 형이 확정된 시점의 새 사실이다.",
-      "verified_at": 1794978445,
-      "published_at": 1794968100,
+      "event_key": "nec-eight-officials-arrest-warrants-false-turnout-records-20261118",
+      "why": "투표용지 부족 수사가 실제 직원 8명의 신병 확보 단계로 넘어갔고 허위입력·문서 위변조 혐의가 구체화됐다.",
+      "angle": "8명 구성, 문제 된 투표율·투표록·개표상황표, 향후 영장심사를 순서대로 정리한다.",
+      "why_now": "11월18일 15:39 KST 공개. 특검 출범 뒤 첫 구속영장 청구로 수사가 새 단계에 들어갔다.",
+      "verified_at": 1794989274,
+      "published_at": 1794983940,
       "evidence": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851499",
-          "note": "조태용 전 국가정보원장에게 정치 관여 혐의로 징역 2년6개월이 확정됐다."
+          "url": "https://www.yna.co.kr/amp/view/AKR20261118120352004",
+          "note": "선관위 특검은 중앙선관위 3명과 시도선관위 5명 등 직원 8명에게 투표율 허위입력과 공문서 위변조 등 혐의로 구속영장을 청구했다."
         }
       ],
       "materials": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851499",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261118120352004",
           "label": "확인 원문",
           "kind": "source"
         }
       ],
-      "caution": "판결문에 확인되지 않은 동기나 정치적 해석을 덧붙이지 않는다.",
+      "caution": "구속영장 청구 단계이며 혐의가 확정된 것은 아니다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-18",
-        "observation": "조태용 전 국가정보원장에게 정치 관여 혐의로 징역 2년6개월이 확정됐다.",
+        "observation": "선관위 특검은 중앙선관위 3명과 시도선관위 5명 등 직원 8명에게 투표율 허위입력과 공문서 위변조 등 혐의로 구속영장을 청구했다.",
         "checked_materials": [],
         "outline": [
-          "첫 장: 전 국정원장 조태용, 징역 2년6개월 확정",
-          "둘째 장: 법원이 유죄로 본 정치 관여 혐의",
-          "셋째 장: 재판의 마지막 단계에서 확정된 실형"
+          "첫 장: 선관위 직원 8명에게 한꺼번에 구속영장",
+          "둘째 장: 중앙 3명·시도 5명, 특검 첫 신병 확보 시도",
+          "셋째 장: 투표율 허위입력과 투표록·개표상황표 위변조 혐의",
+          "넷째 장: 영장심사에서 구속 필요성을 따지게 된다"
         ]
       }
     },
     {
-      "title": "동거인 3시간34분 폭행해 숨지게 한 30대…구형보다 10년 긴 징역30년",
+      "title": "경찰, AI 부정행위 세무사 수석 주거지 압수수색…수사로 번진 자수",
       "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851523",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852305",
       "source": "SBS",
       "kind": "article",
-      "event_key": "cohabiting-partner-murder-30-year-sentence-20261118",
-      "why": "장시간 반복 폭행과 검찰 구형보다 10년 무거운 선고가 결합된 중대 강력범죄 판결이다.",
-      "angle": "3시간34분, 약 500차례 폭행, 징역30년이라는 확인 숫자를 중심으로 사건과 판결을 분리한다.",
-      "why_now": "11월18일 11:16 KST 공개. 법원의 1심 선고가 나온 확정된 판결 후속이다.",
-      "verified_at": 1794978445,
-      "published_at": 1794968160,
+      "event_key": "tax-accountant-ai-cheating-police-home-search-20261118",
+      "why": "온라인 자수 영상으로 알려진 사건이 경찰의 주거지 압수수색이라는 강제수사 단계로 넘어간 새 후속이다.",
+      "angle": "기존 자수 사실과 이번 압수수색을 분리하고, 확보 자료의 내용은 아직 공개되지 않았다는 선을 지킨다.",
+      "why_now": "11월18일 16:42 KST 공개. 기존 의혹·자수와 다른 새 사실은 경찰이 주거지 압수수색에 착수했다는 점이다.",
+      "verified_at": 1794989274,
+      "published_at": 1794987720,
       "evidence": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851523",
-          "note": "동거인을 3시간34분 동안 약 500차례 폭행해 숨지게 한 30대에게 법원이 징역30년을 선고했다. 검찰 구형은 20년이었다."
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852305",
+          "note": "경찰은 AI 부정행위 의혹을 받는 세무사 시험 수석 합격자의 주거지를 압수수색했다."
         }
       ],
       "materials": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851523",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852305",
           "label": "확인 원문",
           "kind": "source"
         }
       ],
-      "caution": "폭행 장면을 자극적으로 재현하지 않고 판결과 확인된 수치만 쓴다.",
+      "caution": "BTP가 다룬 자수 영상과 동일 사실로 포장하지 않고, 압수수색이라는 새 후속만 다룬다.",
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-18",
-        "observation": "동거인을 3시간34분 동안 약 500차례 폭행해 숨지게 한 30대에게 법원이 징역30년을 선고했다. 검찰 구형은 20년이었다.",
+        "observation": "경찰은 AI 부정행위 의혹을 받는 세무사 시험 수석 합격자의 주거지를 압수수색했다.",
         "checked_materials": [],
         "outline": [
-          "첫 장: 검찰 구형 20년, 법원 선고는 30년이었다",
-          "둘째 장: 3시간34분 동안 이어진 약 500차례 폭행",
-          "셋째 장: 동거인 사망 사건에 법원이 내린 중형"
-        ]
-      }
-    },
-    {
-      "title": "엔비디아 “중국 원격접속 허용하면 칩 공급 중단”…고객사에 법적 대응 경고",
-      "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851743",
-      "source": "SBS",
-      "kind": "article",
-      "event_key": "nvidia-warns-customers-china-remote-access-chip-supply-20261118",
-      "why": "미국 규정이 실제 고객사 공급 중단과 법적 대응 경고로 번져 기업 이용자에게 직접 영향을 주는 후속이다.",
-      "angle": "중국 원격접속 비중 50% 기준, 칩 공급 거부 가능성, 법적 대응 경고를 구체적으로 나눈다.",
-      "why_now": "11월18일 13:13 KST 공개. 전날 규정 발표와 다른 새 후속으로 엔비디아가 고객사에 직접 경고했다.",
-      "verified_at": 1794978445,
-      "published_at": 1794975180,
-      "evidence": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851743",
-          "note": "엔비디아는 중국 고객의 원격접속 비중이 50%를 넘는 서비스를 제공하는 고객사에 칩 공급을 거부할 수 있고 법적 대응도 할 수 있다고 경고했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851743",
-          "label": "확인 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "전날 미국 규정 자체와 구분해 엔비디아의 새 고객사 경고만 다룬다.",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-18",
-        "observation": "엔비디아는 중국 고객의 원격접속 비중이 50%를 넘는 서비스를 제공하는 고객사에 칩 공급을 거부할 수 있고 법적 대응도 할 수 있다고 경고했다.",
-        "checked_materials": [],
-        "outline": [
-          "첫 장: 엔비디아가 고객사에 보낸 경고—중국 원격접속 차단",
-          "둘째 장: 서비스의 50%를 넘으면 칩 공급 거부 가능",
-          "셋째 장: 정부 규정이 실제 계약·법적 대응 위험으로 번진 단계"
+          "첫 장: AI 부정행위 자수 사건, 경찰이 주거지를 압수수색했다",
+          "둘째 장: 영상으로 알려진 의혹에서 강제수사 단계로",
+          "셋째 장: 무엇을 확보했는지는 아직 공개되지 않았다"
         ]
       }
     }
