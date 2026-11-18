@@ -1,145 +1,122 @@
 {
   "version": 1,
-  "hour_utc": "2026111802",
-  "created_at": 1794967704,
-  "user_feedback": {
-    "id": "user-recent-recommendations-none-used-20261118",
-    "reported_used_count": 0,
-    "denominator": null,
-    "note": "공개 게시 겹침은 직접 사용 증거가 아니며 이번 선택 성공으로 해석하지 않음."
-  },
+  "hour_utc": "2026111805",
   "btp_check": {
-    "checked_at": 1794967704,
-    "status": "online_fetch_throttled",
-    "profile_url": "https://www.instagram.com/bythepulse/",
+    "checked_at": 1794978445,
+    "status": "access_failed_throttled",
     "new_post_ids": [],
-    "complete_feed_window": false,
-    "note": "회차당 1회 공개 프로필 확인 실패. 옛 관찰을 현재 관찰로 재사용하지 않음."
+    "scope": "public_profile_single_attempt",
+    "limits": "본문 미확보·신규 게시물 미확인; 옛 관찰을 현재 관찰로 재사용하지 않음"
   },
-  "discovery_searches": [
-    "2026년 11월 18일 오전 한국 축구 대표팀 해외파 유럽축구 최신 직접 발언 공식 계약 경기 후 인터뷰",
-    "November 18 2026 latest football official club player reaction contract European football Korea time",
-    "2026년 11월 18일 오전 한국 주요 뉴스 새 결정 사건 생활 영향 속보",
-    "2026년 11월 18일 오전 국내 스포츠 축구 팬 화제 공식 발표",
-    "site:thefa.com OR site:uefa.com OR site:premierleague.com November 18 2026 football official statement player contract reaction",
-    "2026년 11월 18일 08시 이후 속보 한국 축구 스포츠 시사 결정 발표 연합뉴스 뉴시스",
-    "2026년 11월 18일 르브론 제임스 AI 초상 광고 무단 사용 소송 브라이슨 디섐보 DP 월드투어 가입",
-    "2026년 11월 18일 이강인 골 못 넣어 미안 직접 발언 최신 축구 팬 화제 공식 인터뷰",
-    "2026년 11월 18일 오전 8시 이후 축구 공식 발표 선수 직접 발언 유럽 구단 한국 팬 화제",
-    "2026년 11월 18일 오전 8시 이후 국내 스포츠 확정 계약 징계 발표 주요 선수"
+  "user_feedback": {
+    "at": "2026-11-18",
+    "direct_feedback": "최근 추천을 하나도 쓰지 않았다",
+    "treatment": "공개 게시물 겹침으로 반박하거나 사용 성과로 계산하지 않음"
+  },
+  "discovery_queries": [
+    "2026년 11월 18일 11시 이후 한국 축구 대표팀 해외파 공식 직접 발언 경기 결과",
+    "November 18 2026 football official club player reaction Korea time",
+    "2026년 11월 18일 11시 이후 국내 주요 스포츠 확정 계약 수상 징계",
+    "2026년 11월 18일 11시 이후 한국 주요 시사 새 결정 판결 생활 영향",
+    "site:thefa.com OR site:uefa.com OR site:premierleague.com November 18 2026 football official",
+    "2026년 11월 18일 13시 속보 한국 스포츠 시사 발표",
+    "2026년 11월 18일 K리그 공식 발표 이달의 선수",
+    "November 18 2026 European football official announcement player quote",
+    "2026년 11월 18일 축구 팬 화제 직접 발언 반전 공식 영상",
+    "2026년 11월 18일 13시 14시 속보 판결 계약 스포츠"
   ],
   "selected": [
     {
-      "event_key": "norway-haaland-90min-penalty-nations-league-quarterfinal-20261118",
-      "stop_point": "탈락 직전이던 노르웨이가 홀란의 종료 직전 페널티킥으로 8강에 올라 결과와 장면이 동시에 선명하다.",
-      "new_fact": "노르웨이는 덴마크에 3대2로 역전승했고 홀란이 90분 페널티킥 결승골을 넣어 네이션스리그 8강에 합류했다.",
-      "verified_material": [
-        "https://nwww.newsis.com/view/NISX20261118_0003872459"
-      ],
-      "similar_btp_case_or_independent_reason": "11월18일 직접 미사용 피드백을 덮지 않으며, 구체 장면·수치·직접 발언 또는 즉시 생활 영향이 있어 독립 게시 가치로 선택."
+      "event_key": "argentina-costa-rica-seven-zero-without-messi-20261118",
+      "stop_point": "메시가 결장한 경기에서 아르헨티나가 7골을 넣어 ‘에이스 부재’와 결과의 반전이 한눈에 잡힌다.",
+      "new_fact": "아르헨티나는 메시가 빠진 가운데 코스타리카를 7대0으로 이겼다.",
+      "verified_material": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851448",
+      "publication_reason": "메시 결장, 일방적인 7골, 대체 공격진이 만든 결과를 세 장으로 대비한다."
     },
     {
-      "event_key": "vinicius-first-international-hattrick-brazil-singapore-20261118",
-      "stop_point": "일본전 패배 직후 비니시우스가 A매치 첫 해트트릭을 21분 안에 완성해 반전 장면과 기록이 강하다.",
-      "new_fact": "브라질은 싱가포르에 7대0으로 이겼고 비니시우스는 킥오프 21분 안에 세 골을 넣어 개인 A매치 첫 해트트릭을 기록했다.",
-      "verified_material": [
-        "https://nwww.newsis.com/view/NISX20261118_0003872597"
-      ],
-      "similar_btp_case_or_independent_reason": "11월18일 직접 미사용 피드백을 덮지 않으며, 구체 장면·수치·직접 발언 또는 즉시 생활 영향이 있어 독립 게시 가치로 선택."
+      "event_key": "bar-rua-gwangju-first-kleague-player-of-month-20261118",
+      "stop_point": "시즌 중 합류한 선수가 석 달 만에 구단 최초 수상자가 됐고 4경기 8개 공격포인트라는 숫자도 선명하다.",
+      "new_fact": "바루아는 4경기 3골 5도움으로 광주FC 구단 최초 K리그 이달의 선수에 뽑혔다.",
+      "verified_material": "https://www.yna.co.kr/view/AKR20261118069000007",
+      "publication_reason": "7월 합류, 4경기 3골 5도움, 광주 최초 수상이라는 시간축을 세 장으로 묶는다."
     },
     {
-      "event_key": "lee-kangin-qatar-match-no-goals-apology-20261118",
-      "stop_point": "대표팀 승리 홍보보다 공격수가 21개 슈팅에도 한 골에 그친 결정력을 직접 사과한 반전이 팬 논쟁과 맞닿는다.",
-      "new_fact": "이강인은 카타르전 66분을 뛰고 공격포인트 없이 교체됐으며 21개 슈팅에도 한 골에 그친 뒤 골을 못 넣어 동료들에게 미안하다고 말했다.",
-      "verified_material": [
-        "https://www.yna.co.kr/view/AKR20261118008300007"
-      ],
-      "similar_btp_case_or_independent_reason": "11월18일 직접 미사용 피드백을 덮지 않으며, 구체 장면·수치·직접 발언 또는 즉시 생활 영향이 있어 독립 게시 가치로 선택."
+      "event_key": "choi-jihoon-ssg-four-year-6point7billion-contract-20261118",
+      "stop_point": "국가대표 외야수의 거취가 4년 총액 67억원으로 확정돼 국내 야구 팬이 바로 소비할 계약 뉴스다.",
+      "new_fact": "최지훈은 SSG와 4년 총액 67억원에 재계약했다. 계약금 38억원, 연봉 총액 20억원, 옵션 9억원이다.",
+      "verified_material": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851520",
+      "publication_reason": "총액 67억원을 계약금·연봉·옵션으로 나눠 실제 계약 구조를 숫자로 보여준다."
     },
     {
-      "event_key": "lebron-james-sues-bron-app-ai-likeness-betting-ad-20261118",
-      "stop_point": "유명 선수의 얼굴·목소리·문신까지 AI로 복제해 베팅 광고에 쓴 구체 장면과 법적 대응이 강한 시각 소재다.",
-      "new_fact": "르브론 제임스는 스포츠 분석 앱이 별명 Bron과 AI로 만든 얼굴·목소리·문신·23번 유니폼을 무단 광고에 썼다며 뉴욕 연방법원에 소송을 냈다.",
-      "verified_material": [
-        "https://apnews.com/article/3c4e5ec91019c28930af753a85e258a1"
-      ],
-      "similar_btp_case_or_independent_reason": "11월18일 직접 미사용 피드백을 덮지 않으며, 구체 장면·수치·직접 발언 또는 즉시 생활 영향이 있어 독립 게시 가치로 선택."
+      "event_key": "ohtani-silver-slugger-fourth-straight-missed-13-first-winners-20261118",
+      "stop_point": "오타니의 4년 연속 수상 도전이 멈췄고 13명의 첫 수상자가 나온 세대 교체 결과가 함께 잡힌다.",
+      "new_fact": "오타니 쇼헤이는 4년 연속 실버슬러거 수상에 실패했고 이번 수상자 가운데 13명이 첫 수상자였다.",
+      "verified_material": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851528",
+      "publication_reason": "오타니 연속 수상 불발과 첫 수상자 13명을 한 화면의 ‘교체된 얼굴들’로 대비한다."
     },
     {
-      "event_key": "dechambeau-dp-world-tour-category-one-2027-20261118",
-      "stop_point": "LIV 붕괴 뒤 스타 선수의 실제 출전 경로가 최고 등급 자격으로 확정돼 골프 판도 변화가 구체적이다.",
-      "new_fact": "DP월드투어는 디섐보가 2027년 카테고리1 자격을 얻었다고 발표했으며 그는 원하는 대회를 선택해 출전할 수 있다.",
-      "verified_material": [
-        "https://www.yna.co.kr/view/AKR20261118013400007"
-      ],
-      "similar_btp_case_or_independent_reason": "11월18일 직접 미사용 피드백을 덮지 않으며, 구체 장면·수치·직접 발언 또는 즉시 생활 영향이 있어 독립 게시 가치로 선택."
+      "event_key": "russian-figure-skaters-finland-entry-denied-seven-miss-grand-prix-20261118",
+      "stop_point": "국제정세가 실제 선수 7명의 그랑프리 출전 무산으로 이어져 스포츠 현장의 충격이 구체적이다.",
+      "new_fact": "핀란드가 러시아 피겨 선수들의 입국을 허용하지 않아 선수 7명이 그랑프리 대회에 출전하지 못하게 됐다.",
+      "verified_material": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851527",
+      "publication_reason": "입국 불허 결정, 출전이 막힌 7명, 대회 엔트리 변화의 순서로 설명한다."
     },
     {
-      "event_key": "dustin-may-white-sox-three-year-contract-20261118",
-      "stop_point": "KBO MVP 출신 페디가 있는 팀이 월드시리즈 우승 경력 선발을 3년 계약으로 영입해 국내 야구 팬 연결점이 분명하다.",
-      "new_fact": "시카고 화이트삭스는 더스틴 메이와 3년 5250만달러 계약에 합의했으며 메디컬 테스트 통과가 남았다. 메이는 2026년 31경기 선발 7승9패 평균자책점 4.70을 기록했다.",
-      "verified_material": [
-        "https://nwww.newsis.com/view/NISX20261118_0003872599"
-      ],
-      "similar_btp_case_or_independent_reason": "11월18일 직접 미사용 피드백을 덮지 않으며, 구체 장면·수치·직접 발언 또는 즉시 생활 영향이 있어 독립 게시 가치로 선택."
+      "event_key": "israel-knesset-elects-matan-kahana-speaker-66-52-20261118",
+      "stop_point": "의사일정을 쥔 국회의장 자리가 반네타냐후 인사에게 넘어가며 권력 균열이 표결 숫자로 드러났다.",
+      "new_fact": "이스라엘 의회는 마탄 카하나를 의장으로 선출했다. 카하나는 66표를 얻어 리쿠드 후보의 52표를 앞섰다.",
+      "verified_material": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851755",
+      "publication_reason": "66대52 표결, 의장의 의사일정 권한, 네타냐후 정부에 생긴 새 부담을 세 장으로 정리한다."
     },
     {
-      "event_key": "nvidia-sec-probe-singapore-sales-disclosure-20261118",
-      "stop_point": "아침에 보낸 CEO 복귀 논쟁과 다른 후속으로, 매출의 22%였던 싱가포르 공시 변경이 규제 조사로 번졌다.",
-      "new_fact": "미 SEC는 엔비디아가 경영진 위험과 아시아 반도체 판매를 적절히 공시했는지 민사 조사 중이며, 과거 싱가포르 매출은 102억달러로 전체의 22%였다.",
-      "verified_material": [
-        "https://nwww.newsis.com/view/NISX20261118_0003872583"
-      ],
-      "similar_btp_case_or_independent_reason": "11월18일 직접 미사용 피드백을 덮지 않으며, 구체 장면·수치·직접 발언 또는 즉시 생활 영향이 있어 독립 게시 가치로 선택."
+      "event_key": "rubio-trump-kim-meeting-serious-idea-not-scheduled-20261118",
+      "stop_point": "한반도 외교의 큰 변수가 될 정상회담 구상을 미 국무장관이 확인했지만 미정이라는 선도 분명하다.",
+      "new_fact": "마코 루비오 미 국무장관은 트럼프 대통령과 김정은 위원장의 회담이 진지한 구상이라고 말했지만 아직 일정은 잡히지 않았다고 밝혔다.",
+      "verified_material": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851741",
+      "publication_reason": "‘진지한 구상’이라는 확인과 ‘일정 없음’을 같은 비중으로 배치해 기대와 사실을 분리한다."
     },
     {
-      "event_key": "us-strikes-iran-qeshm-island-after-bahrain-base-attack-20261118",
-      "stop_point": "호르무즈 해협의 이란 미사일 기지를 미군이 직접 폭격한 군사 확전이라 국제·경제 파급이 즉각적이다.",
-      "new_fact": "미군은 바레인 미군기지 피격 수시간 뒤 호르무즈 해협의 이란 미사일 기지가 있는 케슘섬을 폭격하기 시작했고 자위권 발동이라고 주장했다.",
-      "verified_material": [
-        "https://nwww.newsis.com/view/NISX20261118_0003872697"
-      ],
-      "similar_btp_case_or_independent_reason": "11월18일 직접 미사용 피드백을 덮지 않으며, 구체 장면·수치·직접 발언 또는 즉시 생활 영향이 있어 독립 게시 가치로 선택."
+      "event_key": "cho-taeyong-former-nis-chief-final-30-month-sentence-20261118",
+      "stop_point": "전직 국가정보원장의 정치 관여 혐의에 대한 실형이 대법원에서 확정된 중대한 사법 결과다.",
+      "new_fact": "조태용 전 국가정보원장에게 정치 관여 혐의로 징역 2년6개월이 확정됐다.",
+      "verified_material": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851499",
+      "publication_reason": "혐의, 징역 2년6개월, 확정 판결이라는 세 요소만으로 과장 없이 구성한다."
     },
     {
-      "event_key": "csat-anti-cheating-surprise-alert-clothing-checks-20261118",
-      "stop_point": "시험 하루 전 실제 응시 절차가 급격히 바뀌어 수험생·가족에게 곧바로 영향을 주는 생활 정보다.",
-      "new_fact": "정부는 미제출 휴대전화 적발용 불시 재난문자를 예고했고, 교육부는 가방 복도 보관·스마트안경 매교시 전수검사·단추 스티커 부착 절차를 밝혔다.",
-      "verified_material": [
-        "https://nwww.newsis.com/view/NISX20261118_0003872657"
-      ],
-      "similar_btp_case_or_independent_reason": "11월18일 직접 미사용 피드백을 덮지 않으며, 구체 장면·수치·직접 발언 또는 즉시 생활 영향이 있어 독립 게시 가치로 선택."
+      "event_key": "cohabiting-partner-murder-30-year-sentence-20261118",
+      "stop_point": "장시간 반복 폭행과 검찰 구형보다 10년 무거운 선고가 결합된 중대 강력범죄 판결이다.",
+      "new_fact": "동거인을 3시간34분 동안 약 500차례 폭행해 숨지게 한 30대에게 법원이 징역30년을 선고했다. 검찰 구형은 20년이었다.",
+      "verified_material": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851523",
+      "publication_reason": "3시간34분, 약 500차례 폭행, 징역30년이라는 확인 숫자를 중심으로 사건과 판결을 분리한다."
     },
     {
-      "event_key": "korea-military-academy-chungcheong-relocation-training-reform-20261118",
-      "stop_point": "육사 이전과 장교 교육 체계를 동시에 바꾸는 당정 결정으로 지역 이전을 넘어 군 교육 구조 변화가 구체적이다.",
-      "new_fact": "당정은 육사를 충청권으로 이전하고 1·4학년은 통합교육, 2·3학년은 각 군별 교육을 하는 개편 방향을 밝혔다.",
-      "verified_material": [
-        "https://nwww.newsis.com/view/NISX20261118_0003872500"
-      ],
-      "similar_btp_case_or_independent_reason": "11월18일 직접 미사용 피드백을 덮지 않으며, 구체 장면·수치·직접 발언 또는 즉시 생활 영향이 있어 독립 게시 가치로 선택."
+      "event_key": "nvidia-warns-customers-china-remote-access-chip-supply-20261118",
+      "stop_point": "미국 규정이 실제 고객사 공급 중단과 법적 대응 경고로 번져 기업 이용자에게 직접 영향을 주는 후속이다.",
+      "new_fact": "엔비디아는 중국 고객의 원격접속 비중이 50%를 넘는 서비스를 제공하는 고객사에 칩 공급을 거부할 수 있고 법적 대응도 할 수 있다고 경고했다.",
+      "verified_material": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851743",
+      "publication_reason": "중국 원격접속 비중 50% 기준, 칩 공급 거부 가능성, 법적 대응 경고를 구체적으로 나눈다."
     }
   ],
   "rejected": [
     {
-      "title": "성북 10대 살인 피의자 전 연인 법원 출석",
-      "reason": "속보 본문이 후속 예정 한 줄뿐이라 구체 새 사실과 제작 자료가 부족함."
+      "candidate": "황인범 대표팀 분위기 발언",
+      "reason": "구체적 행동·새 결과 없이 상투적 단합 요약에 가까움"
     },
     {
-      "title": "롯데바이오 송도공장 준공",
-      "reason": "투자·준공 사실만으로 한국 독자가 멈출 구체 변화가 상위 후보보다 약함."
+      "candidate": "송민규 팬 메시지",
+      "reason": "같은 카타르전 자책 발언이 최근 전송됐고 새 사실이 약함"
     },
     {
-      "title": "한국 U-19 중국전 1대2 패배",
-      "reason": "발견 목록 외에 최초 공개시각과 원문 핵심 장면을 이번 예산에서 충분히 검증하지 못함."
+      "candidate": "국민의힘 특검 추천 거부",
+      "reason": "절차 후속은 새 사실이나 독자가 멈출 구체 자료가 약해 상위10에서 제외"
     },
     {
-      "title": "손흥민 16세 독일 생활 회고",
-      "reason": "공식 영상은 11월15일 공개돼 주간 6시간 신선도 범위를 벗어남."
+      "candidate": "시진핑 APEC 자유무역 연설",
+      "reason": "통상적 관료 발언이며 한국 독자에게 즉시 쓸 새 결정이 부족"
     },
     {
-      "title": "양의지·오태곤 FA 1호 경쟁",
-      "reason": "계약은 11월17일 오전 공개돼 이번 회차 신선도 범위를 벗어남."
+      "candidate": "기존 엔비디아 SEC 조사",
+      "reason": "11시 회차에 이미 전송된 동일 사실"
     }
   ]
 }
