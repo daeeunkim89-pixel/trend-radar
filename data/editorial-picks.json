@@ -1,380 +1,68 @@
 {
   "version": 2,
-  "hour_utc": "2026111723",
+  "hour_utc": "2026111802",
   "reviewer": "ChatGPT",
-  "generated_at": 1794956873,
+  "generated_at": 1794967704,
   "coverage": {
     "queries": [
-      "2026년 11월 18일 한국 축구 대표팀 카타르 경기 공식 인터뷰 결과",
-      "2026년 11월 18일 손흥민 김민재 이강인 황희찬 유럽 축구 최신 직접 발언 계약 공식",
-      "November 18 2026 football latest match reaction official club federation Korea time",
-      "2026년 11월 18일 한국 주요 뉴스 새 결정 충격 생활 영향",
-      "site:yna.co.kr 2026-11-18 축구 송고 2026년11월18일 대표팀 유럽 손흥민 김민재 이강인",
-      "2026년 11월 18일 새벽 한국 주요 뉴스 속보 결정 사건 생활 영향 연합뉴스 뉴시스 공식",
-      "November 18 2026 latest football official reaction transfer contract European club Korea fans",
-      "2026년 11월 18일 오전 한국 속보 지진 코스피 수능 대법원 사고 공식 발표"
+      "2026년 11월 18일 오전 한국 축구 대표팀 해외파 유럽축구 최신 직접 발언 공식 계약 경기 후 인터뷰",
+      "November 18 2026 latest football official club player reaction contract European football Korea time",
+      "2026년 11월 18일 오전 한국 주요 뉴스 새 결정 사건 생활 영향 속보",
+      "2026년 11월 18일 오전 국내 스포츠 축구 팬 화제 공식 발표",
+      "site:thefa.com OR site:uefa.com OR site:premierleague.com November 18 2026 football official statement player contract reaction",
+      "2026년 11월 18일 08시 이후 속보 한국 축구 스포츠 시사 결정 발표 연합뉴스 뉴시스",
+      "2026년 11월 18일 르브론 제임스 AI 초상 광고 무단 사용 소송 브라이슨 디섐보 DP 월드투어 가입",
+      "2026년 11월 18일 이강인 골 못 넣어 미안 직접 발언 최신 축구 팬 화제 공식 인터뷰",
+      "2026년 11월 18일 오전 8시 이후 축구 공식 발표 선수 직접 발언 유럽 구단 한국 팬 화제",
+      "2026년 11월 18일 오전 8시 이후 국내 스포츠 확정 계약 징계 발표 주요 선수"
     ],
     "opened_urls": [
-      "https://www.yna.co.kr/view/AKR20261118004600007",
-      "https://www.yna.co.kr/view/AKR20261118009700007",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850844",
-      "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/11/fabrizio-romano-transfer-news-lewis-hall-man-utd-declan-rice-arsenal-jj-gabriel-real-madrid",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850771",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850841",
-      "https://nwww.newsis.com/view/NISX20261118_0003872374",
-      "https://nwww.newsis.com/view/NISX20261118_0003872364",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850735",
-      "https://www.seoul.co.kr/news/society/2026/11/18/20261118500001",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850648",
+      "https://nwww.newsis.com/view/NISX20261118_0003872459",
+      "https://nwww.newsis.com/view/NISX20261118_0003872597",
       "https://www.yna.co.kr/view/AKR20261118008300007",
-      "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850702",
-      "https://nwww.newsis.com/view/NISX20261118_0003872366",
-      "https://nwww.newsis.com/view/NISX20261118_0003872352",
-      "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156789140&pWise=main&pWiseMain=T1_3&pWiseMinistry=ministryNews&repCode=A00031",
+      "https://apnews.com/article/3c4e5ec91019c28930af753a85e258a1",
+      "https://www.yna.co.kr/view/AKR20261118013400007",
+      "https://nwww.newsis.com/view/NISX20261118_0003872599",
+      "https://nwww.newsis.com/view/NISX20261118_0003872583",
+      "https://nwww.newsis.com/view/NISX20261118_0003872697",
+      "https://nwww.newsis.com/view/NISX20261118_0003872657",
+      "https://nwww.newsis.com/view/NISX20261118_0003872500",
       "https://news.sbs.co.kr/news/newsflash.do?pageDate=20261118",
-      "https://nwww.newsis.com/live/today"
+      "https://nwww.newsis.com/live/today",
+      "https://www.newsis.com/spo/list/?cid=10500",
+      "https://www.sportschosun.com/football/",
+      "https://www.sportschosun.com/baseball/2026-11-17/202611170100109060010058",
+      "https://www.sportschosun.com/football/2026-11-17/202611170100109950010116"
     ],
     "unavailable": [
-      "BTP Instagram 공개 프로필 1회 확인: Online fetch throttled; 우회·재요청 없이 기존 학습 기록만 대조.",
-      "FIFA 카타르-한국 경기 본문: DisabledError; 연합뉴스 공개 본문으로 전환.",
-      "run_usage: start=2026-11-18T08:02:41+09:00; searches=8; bodies=24; failures=3; stop=10_verified; end=08:07:53+09:00; elapsed=312s."
+      "BTP Instagram 공개 프로필 1회 확인: Internal Error / Online fetch throttled; 재요청·우회 없이 뉴스 탐색 계속.",
+      "AP 원문 open: DisabledError; 검색에서 반환된 AP 본문·최초 공개시각으로 검증.",
+      "SBS 이강인 원문 open: DisabledError; 접근 가능한 연합뉴스 공개 본문으로 전환.",
+      "run_usage: start=2026-11-18T11:01:17+09:00; searches=10; bodies=28; failures=3; stop=10_verified; end=2026-11-18T11:08:24+09:00; elapsed=427s."
     ]
   },
   "picks": [
     {
-      "title": "모레노 “한국 대표팀 다시 맡을 가능성 생각”…정식 전환 의지 밝혔다",
+      "title": "홀란 90분 PK로 노르웨이 역전…네이션스리그 8강 막차",
       "category": "축구",
-      "url": "https://www.yna.co.kr/view/AKR20261118004600007",
-      "source": "연합뉴스",
-      "kind": "article",
-      "event_key": "moreno-korea-permanent-coach-return-interest-20261118",
-      "why": "임시 체제 마지막 경기 직후 본인이 정식 지휘 가능성을 직접 언급해 감독 선임 논쟁의 초점이 생겼다.",
-      "angle": "‘다시 맡을 생각’ 한마디와 6경기 3승1무2패, 협회의 최종 평가를 세 장으로 정리한다.",
-      "why_now": "11월18일 01:48 KST 공개. 기존 ‘마지막 경기’ 게시와 달리 재선임 의사를 처음 구체화한 후속이다.",
-      "verified_at": 1794956873,
-      "published_at": 1794934080,
-      "evidence": [
-        {
-          "url": "https://www.yna.co.kr/view/AKR20261118004600007",
-          "note": "모레노는 다시 맡을 가능성을 생각한다고 말했고 장기 프로젝트에는 시간과 신뢰가 필요하다고 밝혔다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.yna.co.kr/view/AKR20261118004600007",
-          "label": "확인 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-17",
-        "observation": "모레노는 다시 맡을 가능성을 생각한다고 말했고 장기 프로젝트에는 시간과 신뢰가 필요하다고 밝혔다.",
-        "checked_materials": [],
-        "outline": [
-          "첫 장: “모레노, 한국 다시 맡을 생각 있다”",
-          "둘째 장: 임시 체제 성적 3승1무2패와 27일 계약 종료",
-          "셋째 장: 협회 평가만 남은 가운데 그가 요구한 조건은 ‘시간과 신뢰’"
-        ]
-      }
-    },
-    {
-      "title": "결승 도움 송민규의 자책 “1대0은 아쉽다…공격수들 반성해야”",
-      "category": "축구",
-      "url": "https://www.yna.co.kr/view/AKR20261118009700007",
-      "source": "연합뉴스",
-      "kind": "article",
-      "event_key": "song-min-kyu-qatar-win-attackers-self-criticism-20261118",
-      "why": "승리 홍보가 아니라 결승 도움 선수가 공격진의 결정력 부족을 직접 인정해 팬이 붙잡을 반전이 있다.",
-      "angle": "결승 도움과 골대 장면 뒤, 공격수들끼리 실제로 나눈 ‘반성’ 발언을 대비한다.",
-      "why_now": "11월18일 05:55 KST 공개. 경기 결과와 별개인 라커룸 직후 자평이 새 사실이다.",
-      "verified_at": 1794956873,
-      "published_at": 1794948900,
-      "evidence": [
-        {
-          "url": "https://www.yna.co.kr/view/AKR20261118009700007",
-          "note": "송민규는 결승골을 도왔지만 1대0 결과가 매우 아쉽고 공격수들끼리 반성해야 한다고 말했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.yna.co.kr/view/AKR20261118009700007",
-          "label": "확인 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-17",
-        "observation": "송민규는 결승골을 도왔지만 1대0 결과가 매우 아쉽고 공격수들끼리 반성해야 한다고 말했다.",
-        "checked_materials": [],
-        "outline": [
-          "첫 장: 결승 도움 선수가 먼저 꺼낸 말 “공격수들 반성해야”",
-          "둘째 장: 수비 두 명을 제치고 골대를 맞힌 뒤 오세훈 결승골 도움",
-          "셋째 장: 많은 기회를 놓친 1대0, 승리보다 결정력을 문제 삼은 이유"
-        ]
-      }
-    },
-    {
-      "title": "손흥민 “올해 충격도 이겨내야 발전”…A매치 60호골은 내년으로",
-      "category": "축구",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850844",
-      "source": "SBS",
-      "kind": "article",
-      "event_key": "son-heungmin-2026-pain-development-60th-goal-delayed-20261118",
-      "why": "월드컵 탈락과 불화설을 본인이 ‘아픔과 충격’으로 묶고 다음 단계의 말로 정리한 직접 발언이다.",
-      "angle": "엄지 장면, 66분 무득점, ‘아픔을 이겨내야 발전’ 발언을 감정선대로 배치한다.",
-      "why_now": "11월18일 06:43 KST 공개. 전날 추상적 ‘현장 변화’ 추천과 달리 손흥민의 직접 문장과 60호골 불발이 확인됐다.",
-      "verified_at": 1794956873,
-      "published_at": 1794951780,
-      "evidence": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850844",
-          "note": "손흥민은 카타르전 66분을 뛰고 60호골을 미뤘으며 올해의 아픔과 충격을 이겨내야 발전한다고 말했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850844",
-          "label": "확인 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-17",
-        "observation": "손흥민은 카타르전 66분을 뛰고 60호골을 미뤘으며 올해의 아픔과 충격을 이겨내야 발전한다고 말했다.",
-        "checked_materials": [],
-        "outline": [
-          "첫 장: “이 아픔을 이겨내야 발전한다” 손흥민의 연말 한마디",
-          "둘째 장: 카타르전 66분·11월 2연전 무득점, A매치 60호골은 내년으로",
-          "셋째 장: 월드컵 탈락과 불화설을 지나 3월 소집까지 준비하겠다는 결론"
-        ]
-      }
-    },
-    {
-      "title": "아스널, 라이스와 2031년까지 재계약 합의…서명 절차만 남았다",
-      "category": "축구",
-      "url": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/11/fabrizio-romano-transfer-news-lewis-hall-man-utd-declan-rice-arsenal-jj-gabriel-real-madrid",
-      "source": "FootballTransfers",
-      "kind": "article",
-      "event_key": "declan-rice-arsenal-contract-agreement-2031-20261117",
-      "why": "유명 구단 핵심 선수의 장기 계약 구조가 구체적이며 단순 이적설보다 제작 완성도가 높다.",
-      "angle": "‘2031년까지 구두 합의’와 서명 전 단계라는 한계를 함께 첫 장부터 명확히 쓴다.",
-      "why_now": "11월17일 13:03 UTC 공개. 로마노 발언 기준 합의 완료지만 공식 서명 전이라는 새 단계다.",
-      "verified_at": 1794956873,
-      "published_at": 1794920580,
-      "evidence": [
-        {
-          "url": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/11/fabrizio-romano-transfer-news-lewis-hall-man-utd-declan-rice-arsenal-jj-gabriel-real-madrid",
-          "note": "로마노는 아스널과 라이스가 2031년 6월까지 새 계약에 구두 합의했고 서류 서명만 남았다고 말했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/11/fabrizio-romano-transfer-news-lewis-hall-man-utd-declan-rice-arsenal-jj-gabriel-real-madrid",
-          "label": "확인 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-17",
-        "observation": "로마노는 아스널과 라이스가 2031년 6월까지 새 계약에 구두 합의했고 서류 서명만 남았다고 말했다.",
-        "checked_materials": [],
-        "outline": [
-          "첫 장: 라이스, 아스널과 2031년까지 합의",
-          "둘째 장: 장기 협상 끝 ‘done, closed’—다만 아직 공식 서명 전",
-          "셋째 장: 구단이 그를 외데고르드와 함께 주장급 인물로 보는 배경"
-        ]
-      }
-    },
-    {
-      "title": "“수험생끼리 서로 감시” 발언했다가 철회…수능 하루 전 혼선",
-      "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850771",
-      "source": "SBS",
-      "kind": "article",
-      "event_key": "kim-moonsoo-student-mutual-monitoring-remark-withdrawal-20261118",
-      "why": "수능 하루 전 책임자가 경쟁자끼리 감시하자는 구체적 말을 했다가 바로 뒤집은 장면이라 생활 영향과 논쟁이 선명하다.",
-      "angle": "원발언과 철회 문장을 나란히 놓고 교육 당국 책임 논란까지 확장한다.",
-      "why_now": "11월18일 07:14 KST 공개. 전날 번복 보도보다 실제 라디오 발언과 철회 문장이 구체적으로 확인된 후속이다.",
-      "verified_at": 1794956873,
-      "published_at": 1794953640,
-      "evidence": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850771",
-          "note": "김문수 의원은 옆 수험생이 가장 잘 인지한다며 상호 감시를 제안했다가 수험생은 시험에 집중해야 한다고 철회했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850771",
-          "label": "확인 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-18",
-        "observation": "김문수 의원은 옆 수험생이 가장 잘 인지한다며 상호 감시를 제안했다가 수험생은 시험에 집중해야 한다고 철회했다.",
-        "checked_materials": [],
-        "outline": [
-          "첫 장: “옆 수험생이 제일 잘 안다” 상호 감시 제안",
-          "둘째 장: 시험 뒤 신고까지 언급한 실제 라디오 발언",
-          "셋째 장: 비판 직후 “매우 잘못” 철회—수능 하루 전 책임 혼선"
-        ]
-      }
-    },
-    {
-      "title": "대법원, 이집트 판결문 배척한 난민 불인정 판결 파기",
-      "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850841",
-      "source": "SBS",
-      "kind": "article",
-      "event_key": "supreme-court-egypt-refugee-foreign-judgment-review-remand-20261118",
-      "why": "외국 판결문의 진위를 충분히 심리하지 않은 난민 재판을 뒤집어 증거 판단 기준에 직접 변화를 줬다.",
-      "angle": "15년형 판결문, 하급심 배척, 대법원의 재심리 명령 순서로 법적 쟁점을 쉽게 푼다.",
-      "why_now": "11월18일 06:40 KST 공개. 대법원 파기환송이라는 확정 절차 변화다.",
-      "verified_at": 1794956873,
-      "published_at": 1794951600,
-      "evidence": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850841",
-          "note": "대법원은 이집트 판결문이 실제 사법당국 문서일 가능성을 충분히 심리하지 않았다며 원고 패소 판결을 파기했다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850841",
-          "label": "확인 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-18",
-        "observation": "대법원은 이집트 판결문이 실제 사법당국 문서일 가능성을 충분히 심리하지 않았다며 원고 패소 판결을 파기했다.",
-        "checked_materials": [],
-        "outline": [
-          "첫 장: “가짜라 단정하기 전에 더 확인했어야” 대법원 파기",
-          "둘째 장: 반정부 시위 참가자가 낸 징역 15년 판결문",
-          "셋째 장: 국제 인권단체 사이트 확인 정황까지 다시 심리"
-        ]
-      }
-    },
-    {
-      "title": "태안 앞바다서 7명 탄 어선 연락 두절…마지막 위치서 수색",
-      "category": "시사",
-      "url": "https://nwww.newsis.com/view/NISX20261118_0003872374",
+      "url": "https://nwww.newsis.com/view/NISX20261118_0003872459",
       "source": "뉴시스",
       "kind": "article",
-      "event_key": "taean-fishing-boat-seven-missing-search-20261118",
-      "why": "국내 승선원 7명의 생사가 걸린 진행 중 구조 상황으로 위치와 신고 시각이 구체적이다.",
-      "angle": "실종 신고, 마지막 위치, 동원 기관을 지도형 카드 세 장으로 압축한다.",
-      "why_now": "11월18일 07:40 KST 공개. 오전 1시9분 신고 뒤 정부가 모든 자원 투입을 지시한 새 구조 상황이다.",
-      "verified_at": 1794956873,
-      "published_at": 1794955226,
+      "event_key": "norway-haaland-90min-penalty-nations-league-quarterfinal-20261118",
+      "why": "탈락 직전이던 노르웨이가 홀란의 종료 직전 페널티킥으로 8강에 올라 결과와 장면이 동시에 선명하다.",
+      "angle": "2대1로 뒤진 경기 흐름, 동점골, 홀란의 90분 결승 PK를 시간순 세 장으로 만든다.",
+      "why_now": "11월18일 09:18 KST 공개. 단순 경기 예고가 아니라 8강 진출을 확정한 마지막 장면이다.",
+      "verified_at": 1794967704,
+      "published_at": 1794961106,
       "evidence": [
         {
-          "url": "https://nwww.newsis.com/view/NISX20261118_0003872374",
-          "note": "7.93t 어선 230해광호가 태안 서격렬비도 북서쪽 약 24km 해상에서 연락이 끊겨 7명을 수색 중이다."
+          "url": "https://nwww.newsis.com/view/NISX20261118_0003872459",
+          "note": "노르웨이는 덴마크에 3대2로 역전승했고 홀란이 90분 페널티킥 결승골을 넣어 네이션스리그 8강에 합류했다."
         }
       ],
       "materials": [
         {
-          "url": "https://nwww.newsis.com/view/NISX20261118_0003872374",
-          "label": "확인 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-18",
-        "observation": "7.93t 어선 230해광호가 태안 서격렬비도 북서쪽 약 24km 해상에서 연락이 끊겨 7명을 수색 중이다.",
-        "checked_materials": [],
-        "outline": [
-          "첫 장: 태안 앞바다, 7명 탄 어선이 사라졌다",
-          "둘째 장: 마지막 위치는 서격렬비도 북서쪽 약 24km",
-          "셋째 장: 해경·해수부·충남도가 기상 확인과 구조에 총력"
-        ]
-      }
-    },
-    {
-      "title": "젠슨 황 “복귀하겠다” 했지만…엔비디아 의장은 “복직 의사 없다”",
-      "category": "시사",
-      "url": "https://nwww.newsis.com/view/NISX20261118_0003872364",
-      "source": "뉴시스·SBS",
-      "kind": "article",
-      "event_key": "nvidia-jensen-huang-return-offer-board-chair-rejects-20261118",
-      "why": "사임 뒤 첫 공개 복귀 의사와 이사회 의장의 즉각 거부가 정면 충돌해 기업 권력 변화가 한 문장에 잡힌다.",
-      "angle": "황의 조건부 복귀 성명과 의장의 거부를 같은 시간선에 놓고 확정된 것과 미정인 것을 나눈다.",
-      "why_now": "11월18일 07:25 KST 이사회 의장 입장이 공개됐다. 04:09 KST 황의 복귀 의사 뒤 나온 반대 후속이다.",
-      "verified_at": 1794956873,
-      "published_at": 1794954303,
-      "evidence": [
-        {
-          "url": "https://nwww.newsis.com/view/NISX20261118_0003872364",
-          "note": "11월18일 07:25 KST 엔비디아 이사회 의장이 황을 복직시킬 의사가 없다고 밝혔다."
-        },
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850735",
-          "note": "11월18일 04:09 KST 황은 이사회 요청 시 CEO 복귀 의사가 있다고 성명에서 밝혔다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://nwww.newsis.com/view/NISX20261118_0003872364",
-          "label": "확인 원문",
-          "kind": "source"
-        },
-        {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850735",
-          "label": "추가 확인 원문",
-          "kind": "source"
-        }
-      ],
-      "caution": "",
-      "readiness": {
-        "mode": "major_news",
-        "event_date": "2026-11-18",
-        "observation": "황은 이사회가 원하면 CEO로 돌아오겠다고 했지만 몇 시간 뒤 이사회 의장은 복직시킬 의사가 없다고 밝혔다.",
-        "checked_materials": [],
-        "outline": [
-          "첫 장: “부르면 돌아간다” vs “복직시킬 생각 없다”",
-          "둘째 장: 사임 엿새 만에 나온 젠슨 황의 첫 공개 성명",
-          "셋째 장: 최종 결정권을 쥔 이사회 의장의 즉각적인 선 긋기"
-        ]
-      }
-    },
-    {
-      "title": "상주서 규모 3.6 지진…경북·충북 진도 4, 올해 한반도 최대",
-      "category": "시사",
-      "url": "https://www.seoul.co.kr/news/society/2026/11/18/20261118500001",
-      "source": "서울신문",
-      "kind": "article",
-      "event_key": "sangju-earthquake-magnitude-3point6-intensity4-20261117",
-      "why": "수능을 앞둔 밤 실제 흔들림과 신고가 발생했고 올해 한반도 최대라는 수치가 한눈에 잡힌다.",
-      "angle": "발생 위치·깊이, 진도4 체감, 올해 최대·신고16건을 지도와 숫자로 구성한다.",
-      "why_now": "11월18일 00:28 KST 공개. 17일 23:10 발생 뒤 정밀 분석으로 규모가 3.7에서 3.6으로 조정됐다.",
-      "verified_at": 1794956873,
-      "published_at": 1794929280,
-      "evidence": [
-        {
-          "url": "https://www.seoul.co.kr/news/society/2026/11/18/20261118500001",
-          "note": "상주 북서쪽 22km, 깊이 20km에서 규모 3.6 지진이 발생해 경북·충북 최대 진도4와 유감 신고 16건이 확인됐다."
-        }
-      ],
-      "materials": [
-        {
-          "url": "https://www.seoul.co.kr/news/society/2026/11/18/20261118500001",
+          "url": "https://nwww.newsis.com/view/NISX20261118_0003872459",
           "label": "확인 원문",
           "kind": "source"
         }
@@ -383,36 +71,227 @@
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-17",
-        "observation": "상주 북서쪽 22km, 깊이 20km에서 규모 3.6 지진이 발생해 경북·충북 최대 진도4와 유감 신고 16건이 확인됐다.",
+        "observation": "노르웨이는 덴마크에 3대2로 역전승했고 홀란이 90분 페널티킥 결승골을 넣어 네이션스리그 8강에 합류했다.",
         "checked_materials": [],
         "outline": [
-          "첫 장: 수능 이틀 전 밤, 상주 규모 3.6 지진",
-          "둘째 장: 상주·문경·보은 진도4—잠에서 깰 수 있는 흔들림",
-          "셋째 장: 올해 한반도 최대, 소방 유감 신고 16건"
+          "첫 장: 90분, 홀란이 노르웨이를 8강으로 보냈다",
+          "둘째 장: 1대2 열세에서 동점까지 따라붙은 경기 흐름",
+          "셋째 장: 마지막 페널티킥과 3대2 역전, 확정된 8강 대진"
         ]
       }
     },
     {
-      "title": "신호등 민원 3년 묵살된 횡단보도서 모자 사망…경찰 뒤늦게 설치",
-      "category": "시사",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850648",
-      "source": "SBS·TBC",
+      "title": "비니시우스 21분 만에 해트트릭…브라질, 싱가포르에 7대0",
+      "category": "축구",
+      "url": "https://nwww.newsis.com/view/NISX20261118_0003872597",
+      "source": "뉴시스",
       "kind": "article",
-      "event_key": "daegu-padong-crosswalk-mother-child-deaths-signal-installation-20261118",
-      "why": "반복 민원과 안전시설 부재가 모자 사망 뒤에야 바뀌는 구체적 행정 실패라 한국 독자의 생활 안전과 맞닿는다.",
-      "angle": "사고 순간보다 2023년부터 반려된 신호등·방지턱 민원과 뒤늦은 설치 결정을 중심에 둔다.",
-      "why_now": "11월18일 01:09 KST 공개. 15일 사고 뒤 경찰이 점멸 신호등 설치를 발표한 새 후속이다.",
-      "verified_at": 1794956873,
-      "published_at": 1794931740,
+      "event_key": "vinicius-first-international-hattrick-brazil-singapore-20261118",
+      "why": "일본전 패배 직후 비니시우스가 A매치 첫 해트트릭을 21분 안에 완성해 반전 장면과 기록이 강하다.",
+      "angle": "일본전 2대3 패배와 싱가포르전 7골, 비니시우스의 첫 해트트릭을 대비한다.",
+      "why_now": "11월18일 09:53 KST 공개. 브라질의 2026년 마지막 경기에서 나온 개인 A매치 첫 해트트릭이다.",
+      "verified_at": 1794967704,
+      "published_at": 1794963214,
       "evidence": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850648",
-          "note": "신호등 없는 대구 파동 횡단보도에서 42세 여성과 5세 아들이 숨졌고 2023년부터의 안전 민원 뒤 경찰이 점멸 신호등 설치를 밝혔다."
+          "url": "https://nwww.newsis.com/view/NISX20261118_0003872597",
+          "note": "브라질은 싱가포르에 7대0으로 이겼고 비니시우스는 킥오프 21분 안에 세 골을 넣어 개인 A매치 첫 해트트릭을 기록했다."
         }
       ],
       "materials": [
         {
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850648",
+          "url": "https://nwww.newsis.com/view/NISX20261118_0003872597",
+          "label": "확인 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-17",
+        "observation": "브라질은 싱가포르에 7대0으로 이겼고 비니시우스는 킥오프 21분 안에 세 골을 넣어 개인 A매치 첫 해트트릭을 기록했다.",
+        "checked_materials": [],
+        "outline": [
+          "첫 장: 비니시우스, 21분 만에 A매치 첫 해트트릭",
+          "둘째 장: 일본에 2대3으로 진 브라질이 사흘 뒤 7골 폭발",
+          "셋째 장: 2026년 마지막 A매치를 반전으로 끝낸 브라질"
+        ]
+      }
+    },
+    {
+      "title": "이강인 “골 못 넣어 동료들에게 미안”…21개 슈팅 뒤 남긴 자책",
+      "category": "축구",
+      "url": "https://www.yna.co.kr/view/AKR20261118008300007",
+      "source": "연합뉴스",
+      "kind": "article",
+      "event_key": "lee-kangin-qatar-match-no-goals-apology-20261118",
+      "why": "대표팀 승리 홍보보다 공격수가 21개 슈팅에도 한 골에 그친 결정력을 직접 사과한 반전이 팬 논쟁과 맞닿는다.",
+      "angle": "66분 활약과 무득점, 팀의 21개 슈팅, 경기 뒤 실제 발언을 각각 한 장으로 분리한다.",
+      "why_now": "11월18일 05:50 KST 공개. 6시간 범위 안의 경기 뒤 공동취재구역 직접 발언이다.",
+      "verified_at": 1794967704,
+      "published_at": 1794948600,
+      "evidence": [
+        {
+          "url": "https://www.yna.co.kr/view/AKR20261118008300007",
+          "note": "이강인은 카타르전 66분을 뛰고 공격포인트 없이 교체됐으며 21개 슈팅에도 한 골에 그친 뒤 골을 못 넣어 동료들에게 미안하다고 말했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.yna.co.kr/view/AKR20261118008300007",
+          "label": "확인 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-17",
+        "observation": "이강인은 카타르전 66분을 뛰고 공격포인트 없이 교체됐으며 21개 슈팅에도 한 골에 그친 뒤 골을 못 넣어 동료들에게 미안하다고 말했다.",
+        "checked_materials": [],
+        "outline": [
+          "첫 장: “골을 못 넣어 동료들에게 미안하다”",
+          "둘째 장: 66분 동안 오세훈을 향해 올린 크로스, 공격포인트는 0",
+          "셋째 장: 팀 슈팅 21개·득점 1개, 이강인이 짚은 결정력"
+        ]
+      }
+    },
+    {
+      "title": "AI 르브론이 NBA 베팅하는 광고…제임스가 앱 업체를 고소했다",
+      "category": "메이저 스포츠",
+      "url": "https://apnews.com/article/3c4e5ec91019c28930af753a85e258a1",
+      "source": "AP",
+      "kind": "article",
+      "event_key": "lebron-james-sues-bron-app-ai-likeness-betting-ad-20261118",
+      "why": "유명 선수의 얼굴·목소리·문신까지 AI로 복제해 베팅 광고에 쓴 구체 장면과 법적 대응이 강한 시각 소재다.",
+      "angle": "문제 광고의 합성 요소, 중단 요구 뒤 삭제, 명칭 금지·손해배상 청구를 네 장에 배치한다.",
+      "why_now": "11월18일 08:18 KST 공개. 소송 제기와 삭제 전 약 100만 회 재생 주장이 새 사실이다.",
+      "verified_at": 1794967704,
+      "published_at": 1794957480,
+      "evidence": [
+        {
+          "url": "https://apnews.com/article/3c4e5ec91019c28930af753a85e258a1",
+          "note": "르브론 제임스는 스포츠 분석 앱이 별명 Bron과 AI로 만든 얼굴·목소리·문신·23번 유니폼을 무단 광고에 썼다며 뉴욕 연방법원에 소송을 냈다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://apnews.com/article/3c4e5ec91019c28930af753a85e258a1",
+          "label": "확인 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "재생 수는 소장에 적힌 제임스 측 주장이다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-17",
+        "observation": "르브론 제임스는 스포츠 분석 앱이 별명 Bron과 AI로 만든 얼굴·목소리·문신·23번 유니폼을 무단 광고에 썼다며 뉴욕 연방법원에 소송을 냈다.",
+        "checked_materials": [],
+        "outline": [
+          "첫 장: AI 르브론이 NBA 베팅 내역을 넘겨본 광고",
+          "둘째 장: 얼굴·목소리·문신·23번 유니폼까지 재현",
+          "셋째 장: 중단 요구 뒤 광고 삭제, 소송 전 약 100만 회 재생 주장",
+          "넷째 장: 앱 명칭 사용 금지와 손해배상을 청구한 제임스"
+        ]
+      }
+    },
+    {
+      "title": "LIV 파산 뒤 디섐보의 새 무대…DP월드투어 최고 등급 합류",
+      "category": "메이저 스포츠",
+      "url": "https://www.yna.co.kr/view/AKR20261118013400007",
+      "source": "연합뉴스",
+      "kind": "article",
+      "event_key": "dechambeau-dp-world-tour-category-one-2027-20261118",
+      "why": "LIV 붕괴 뒤 스타 선수의 실제 출전 경로가 최고 등급 자격으로 확정돼 골프 판도 변화가 구체적이다.",
+      "angle": "LIV 파산, PGA 1년 제한, 원하는 대회에 나갈 수 있는 카테고리1을 구조적으로 설명한다.",
+      "why_now": "11월18일 06:37 KST 공개. 소문이 아니라 DP월드투어가 자격 취득을 발표했다.",
+      "verified_at": 1794967704,
+      "published_at": 1794951420,
+      "evidence": [
+        {
+          "url": "https://www.yna.co.kr/view/AKR20261118013400007",
+          "note": "DP월드투어는 디섐보가 2027년 카테고리1 자격을 얻었다고 발표했으며 그는 원하는 대회를 선택해 출전할 수 있다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://www.yna.co.kr/view/AKR20261118013400007",
+          "label": "확인 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-17",
+        "observation": "DP월드투어는 디섐보가 2027년 카테고리1 자격을 얻었다고 발표했으며 그는 원하는 대회를 선택해 출전할 수 있다.",
+        "checked_materials": [],
+        "outline": [
+          "첫 장: LIV가 무너진 뒤, 디섐보가 고른 새 무대",
+          "둘째 장: DP월드투어 최고 출전등급 ‘카테고리1’",
+          "셋째 장: PGA는 1년 제한, DP월드투어는 원하는 대회 출전 가능"
+        ]
+      }
+    },
+    {
+      "title": "화이트삭스, 더스틴 메이와 3년 699억원…페디와 선발진 구성",
+      "category": "메이저 스포츠",
+      "url": "https://nwww.newsis.com/view/NISX20261118_0003872599",
+      "source": "뉴시스",
+      "kind": "article",
+      "event_key": "dustin-may-white-sox-three-year-contract-20261118",
+      "why": "KBO MVP 출신 페디가 있는 팀이 월드시리즈 우승 경력 선발을 3년 계약으로 영입해 국내 야구 팬 연결점이 분명하다.",
+      "angle": "3년 5250만달러 계약, 메디컬 테스트 조건, 2026년 31선발 성적을 숫자 카드로 만든다.",
+      "why_now": "11월18일 10:02 KST 공개. 계약 합의가 확인됐고 메디컬 테스트만 남았다.",
+      "verified_at": 1794967704,
+      "published_at": 1794963756,
+      "evidence": [
+        {
+          "url": "https://nwww.newsis.com/view/NISX20261118_0003872599",
+          "note": "시카고 화이트삭스는 더스틴 메이와 3년 5250만달러 계약에 합의했으며 메디컬 테스트 통과가 남았다. 메이는 2026년 31경기 선발 7승9패 평균자책점 4.70을 기록했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://nwww.newsis.com/view/NISX20261118_0003872599",
+          "label": "확인 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "계약은 메디컬 테스트 통과 전 합의 단계다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-18",
+        "observation": "시카고 화이트삭스는 더스틴 메이와 3년 5250만달러 계약에 합의했으며 메디컬 테스트 통과가 남았다. 메이는 2026년 31경기 선발 7승9패 평균자책점 4.70을 기록했다.",
+        "checked_materials": [],
+        "outline": [
+          "첫 장: 화이트삭스, 더스틴 메이에 3년 699억원",
+          "둘째 장: 2026년 31선발·7승9패·평균자책점 4.70",
+          "셋째 장: KBO MVP 페디와 꾸릴 선발진, 계약은 메디컬 통과 조건"
+        ]
+      }
+    },
+    {
+      "title": "SEC, 엔비디아 공시 조사 착수…싱가포르 매출 22% 재분류 겨냥",
+      "category": "시사",
+      "url": "https://nwww.newsis.com/view/NISX20261118_0003872583",
+      "source": "뉴시스",
+      "kind": "article",
+      "event_key": "nvidia-sec-probe-singapore-sales-disclosure-20261118",
+      "why": "아침에 보낸 CEO 복귀 논쟁과 다른 후속으로, 매출의 22%였던 싱가포르 공시 변경이 규제 조사로 번졌다.",
+      "angle": "SEC 민사조사, 102억달러·22% 매출, 중국 우회 수출 의혹을 숫자 중심으로 설명한다.",
+      "why_now": "11월18일 10:23 KST 공개. 같은 기업의 인사 문제가 아니라 공시 위반 조사 착수라는 새 사건이다.",
+      "verified_at": 1794967704,
+      "published_at": 1794965009,
+      "evidence": [
+        {
+          "url": "https://nwww.newsis.com/view/NISX20261118_0003872583",
+          "note": "미 SEC는 엔비디아가 경영진 위험과 아시아 반도체 판매를 적절히 공시했는지 민사 조사 중이며, 과거 싱가포르 매출은 102억달러로 전체의 22%였다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://nwww.newsis.com/view/NISX20261118_0003872583",
           "label": "확인 원문",
           "kind": "source"
         }
@@ -421,12 +300,127 @@
       "readiness": {
         "mode": "major_news",
         "event_date": "2026-11-18",
-        "observation": "신호등 없는 대구 파동 횡단보도에서 42세 여성과 5세 아들이 숨졌고 2023년부터의 안전 민원 뒤 경찰이 점멸 신호등 설치를 밝혔다.",
+        "observation": "미 SEC는 엔비디아가 경영진 위험과 아시아 반도체 판매를 적절히 공시했는지 민사 조사 중이며, 과거 싱가포르 매출은 102억달러로 전체의 22%였다.",
         "checked_materials": [],
         "outline": [
-          "첫 장: 3년 민원에도 신호등 없던 횡단보도, 모자가 숨졌다",
-          "둘째 장: 신호등·과속방지턱·구간단속 요구가 모두 무산된 과정",
-          "셋째 장: 사고 뒤에야 경찰이 발표한 점멸 신호등 설치"
+          "첫 장: SEC가 엔비디아 공시를 들여다보기 시작했다",
+          "둘째 장: 사라진 싱가포르 매출 항목—당시 102억달러·전체 22%",
+          "셋째 장: 중국 우회 수출 의혹과 공시 기준 변경을 함께 조사"
+        ]
+      }
+    },
+    {
+      "title": "미군, 이란 케슘섬 폭격 시작…바레인 기지 피격 뒤 “자위권”",
+      "category": "시사",
+      "url": "https://nwww.newsis.com/view/NISX20261118_0003872697",
+      "source": "뉴시스",
+      "kind": "article",
+      "event_key": "us-strikes-iran-qeshm-island-after-bahrain-base-attack-20261118",
+      "why": "호르무즈 해협의 이란 미사일 기지를 미군이 직접 폭격한 군사 확전이라 국제·경제 파급이 즉각적이다.",
+      "angle": "바레인 기지 피격, 수시간 뒤 케슘섬 공습, 미군의 자위권 주장을 지도형 세 장으로 정리한다.",
+      "why_now": "11월18일 09:54 KST 공개. 공습 시작을 알린 속보로 피해 규모는 아직 확인되지 않았다.",
+      "verified_at": 1794967704,
+      "published_at": 1794963245,
+      "evidence": [
+        {
+          "url": "https://nwww.newsis.com/view/NISX20261118_0003872697",
+          "note": "미군은 바레인 미군기지 피격 수시간 뒤 호르무즈 해협의 이란 미사일 기지가 있는 케슘섬을 폭격하기 시작했고 자위권 발동이라고 주장했다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://nwww.newsis.com/view/NISX20261118_0003872697",
+          "label": "확인 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "공습 피해 규모와 이란 측 설명은 기사 공개 시점에 확인되지 않았다.",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-17",
+        "observation": "미군은 바레인 미군기지 피격 수시간 뒤 호르무즈 해협의 이란 미사일 기지가 있는 케슘섬을 폭격하기 시작했고 자위권 발동이라고 주장했다.",
+        "checked_materials": [],
+        "outline": [
+          "첫 장: 미군이 이란 케슘섬을 직접 폭격했다",
+          "둘째 장: 앞선 바레인 미군기지 피격과 수시간의 간격",
+          "셋째 장: 호르무즈 해협의 미사일 기지, 미군은 “자위권” 주장"
+        ]
+      }
+    },
+    {
+      "title": "수능 하루 전 “가방은 복도, 단추엔 스티커”…수험생 불안 확산",
+      "category": "시사",
+      "url": "https://nwww.newsis.com/view/NISX20261118_0003872657",
+      "source": "뉴시스",
+      "kind": "article",
+      "event_key": "csat-anti-cheating-surprise-alert-clothing-checks-20261118",
+      "why": "시험 하루 전 실제 응시 절차가 급격히 바뀌어 수험생·가족에게 곧바로 영향을 주는 생활 정보다.",
+      "angle": "불시 재난문자, 가방 복도 보관, 스마트안경 전수검사와 단추 스티커를 체크리스트로 만든다.",
+      "why_now": "11월18일 10:15 KST 공개. 시험 전날 확정된 구체 검사 절차와 수험생 반응이 새 내용이다.",
+      "verified_at": 1794967704,
+      "published_at": 1794964500,
+      "evidence": [
+        {
+          "url": "https://nwww.newsis.com/view/NISX20261118_0003872657",
+          "note": "정부는 미제출 휴대전화 적발용 불시 재난문자를 예고했고, 교육부는 가방 복도 보관·스마트안경 매교시 전수검사·단추 스티커 부착 절차를 밝혔다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://nwww.newsis.com/view/NISX20261118_0003872657",
+          "label": "확인 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-18",
+        "observation": "정부는 미제출 휴대전화 적발용 불시 재난문자를 예고했고, 교육부는 가방 복도 보관·스마트안경 매교시 전수검사·단추 스티커 부착 절차를 밝혔다.",
+        "checked_materials": [],
+        "outline": [
+          "첫 장: 수능 하루 전, 가방은 복도·단추에는 스티커",
+          "둘째 장: 불시 재난문자로 미제출 휴대전화 확인",
+          "셋째 장: 스마트안경은 매 교시 전수검사",
+          "넷째 장: 집중력 저하를 걱정하는 수험생 반응"
+        ]
+      }
+    },
+    {
+      "title": "육사 충청 이전·사관학교 교육 개편…1·4학년 통합, 2·3학년 분리",
+      "category": "시사",
+      "url": "https://nwww.newsis.com/view/NISX20261118_0003872500",
+      "source": "뉴시스",
+      "kind": "article",
+      "event_key": "korea-military-academy-chungcheong-relocation-training-reform-20261118",
+      "why": "육사 이전과 장교 교육 체계를 동시에 바꾸는 당정 결정으로 지역 이전을 넘어 군 교육 구조 변화가 구체적이다.",
+      "angle": "충청권 이전, 1·4학년 통합, 2·3학년 각 군 교육을 학년별 도식으로 보여준다.",
+      "why_now": "11월18일 08:40 KST 공개. 당정이 이전 방향과 학년별 교육안을 함께 제시한 새 결정이다.",
+      "verified_at": 1794967704,
+      "published_at": 1794958801,
+      "evidence": [
+        {
+          "url": "https://nwww.newsis.com/view/NISX20261118_0003872500",
+          "note": "당정은 육사를 충청권으로 이전하고 1·4학년은 통합교육, 2·3학년은 각 군별 교육을 하는 개편 방향을 밝혔다."
+        }
+      ],
+      "materials": [
+        {
+          "url": "https://nwww.newsis.com/view/NISX20261118_0003872500",
+          "label": "확인 원문",
+          "kind": "source"
+        }
+      ],
+      "caution": "",
+      "readiness": {
+        "mode": "major_news",
+        "event_date": "2026-11-18",
+        "observation": "당정은 육사를 충청권으로 이전하고 1·4학년은 통합교육, 2·3학년은 각 군별 교육을 하는 개편 방향을 밝혔다.",
+        "checked_materials": [],
+        "outline": [
+          "첫 장: 육사는 충청권으로, 교육은 학년별로 다시 짠다",
+          "둘째 장: 1학년 통합 기초교육·2~3학년 각 군 전문교육",
+          "셋째 장: 4학년 다시 통합—장교 교육 체계가 바뀌는 방식"
         ]
       }
     }
