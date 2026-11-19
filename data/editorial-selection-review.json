@@ -1,118 +1,120 @@
 {
   "version": 1,
-  "hour_utc": "2026111808",
+  "hour_utc": "2026111905",
   "btp_check": {
-    "checked_at": 1794989274,
-    "status": "access_failed_throttled",
+    "at": "2026-11-19T14:04:40+09:00",
+    "status": "failed",
     "new_post_ids": [],
-    "scope": "public_profile_single_attempt",
-    "limits": "본문 미확보·신규 게시물 미확인; 옛 관찰을 오늘 관찰로 재사용하지 않음"
+    "detail": "공개 프로필 1회 확인이 Online fetch throttled로 실패; 옛 피드를 현재 관찰로 재사용하지 않음."
   },
-  "user_feedback": {
-    "at": "2026-11-18",
-    "direct_feedback": "최근 추천을 하나도 쓰지 않았다",
-    "treatment": "공개 게시물 겹침이나 발송 수량으로 반박하지 않고 선택 기준을 실제 게시 가능성 중심으로 변경"
-  },
-  "discovery_queries": [
-    "2026년 11월 18일 14시 이후 축구 공식 발표 직접 발언 주요 경기 한국 해외파",
-    "2026년 11월 18일 14시 이후 국내 축구 스포츠 계약 징계 수상 공식",
-    "2026년 11월 18일 14시 이후 한국 주요 시사 새 결정 판결 생활 영향",
-    "November 18 2026 football official club player reaction major match Korea time",
-    "2026년 11월 18일 15시 16시 스포츠 공식 발표 직접 발언",
-    "2026년 11월 18일 15시 16시 한국 주요 뉴스 확정 결정 판결",
-    "2026년 11월 18일 K리그 이건희 구성윤 김민우 공식 발표",
-    "2026년 11월 18일 한중회담 AI 부정행위 새만금 상세",
-    "2026년 11월 18일 새만금 신공항 2심 추경호 무죄 선관위 직원 구속영장 상세 연합뉴스",
-    "2026년 11월 18일 16시 한중 정상회담 FTA 문화교류 AI 부정행위 압수수색 상세"
+  "discovery_searches": [
+    "2026년 11월 19일 11시 이후 한국 축구 해외파 대표팀 구단 공식 발표 직접 발언 경기 장면",
+    "November 19 2026 football official club player statement match result 02:00 UTC onwards",
+    "2026년 11월 19일 오전 축구 팬 화제 선수 직접 발언 갈등 반전 계약 공식",
+    "site:kleague.com OR site:the-afc.com OR site:uefa.com OR site:premierleague.com \"19 November 2026\" football",
+    "2026년 11월 19일 11시 12시 13시 속보 축구 스포츠 공식 발표 한국",
+    "2026년 11월 19일 11시 이후 한국 주요 뉴스 새 결정 판결 사고 생활 영향 속보",
+    "2026년 11월 19일 11시 이후 축구 선수 구단 공식 발표 인터뷰 경기 결과 손흥민 이강인 김민재",
+    "November 19 2026 football club official statement player interview result published today 03:00 UTC",
+    "site:yna.co.kr OR site:newsis.com 2026년 11월 19일 11시 축구 야구 농구 스포츠 발표 경기 결과",
+    "2026년 11월 19일 12시 13시 한국 화제 속보 공식 발표 생활 영향 스포츠 선수",
+    "2026년 11월 19일 12시 허구연 KBO 3연임 공식 발표",
+    "2026년 11월 19일 쇼트트랙 월드투어 서울 최민정 공식 발표",
+    "November 19 2026 football official announced today club player 04:00 UTC Korea star",
+    "2026년 11월 19일 13시 속보 한국 사회 공식 발표 판결 생활 영향"
   ],
   "selected": [
     {
-      "event_key": "former-jeonnam-player-assault-kleague-ten-match-ban-20261118",
-      "stop_point": "계약 해지로 끝난 사건에 리그가 10경기 정지와 벌금까지 확정해 선수 기본권 보호 기준을 분명히 했다.",
-      "new_fact": "한국프로축구연맹은 후배를 폭행한 전 전남 선수에게 10경기 출장정지와 제재금 1천만원을 부과했다.",
-      "verified_material": "https://www.yna.co.kr/view/AKR20261118132400007",
-      "publication_reason": "폭행 사건→구단 계약 해지→리그 추가 징계의 순서와 10경기·1천만원을 분리해 보여준다."
+      "event_key": "pochettino-arrives-manchester-starts-united-job-20261119",
+      "stop_point": "강등권 맨유의 새 감독이 미국 대표팀 고별전 직후 이동해 실제 첫 근무를 시작한 장면과 직접 소감이 잡혔다.",
+      "new_fact": "포체티노는 맨체스터 도착 영상에서 영광이자 특권이라고 말했고 캐링턴 시설을 둘러본 뒤 선수단과 스태프를 만났다.",
+      "verified_material": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853000",
+      "publication_basis": "확인된 최신 BTP 사례와 동일 사실 없음; 독립 게시 이유는 공항 도착 영상의 첫마디, 캐링턴에서 선수단·스태프를 만난 첫날, 리버풀전 데뷔까지 이어 붙인다."
     },
     {
-      "event_key": "kang-minho-korean-series-game-two-turning-point-injury-20261118",
-      "stop_point": "우승 직후 포수가 직접 꼽은 분수령과 부상 투혼, 다음 우승에 필요한 이름까지 한 인터뷰에 담겼다.",
-      "new_fact": "강민호는 한국시리즈 2차전을 분수령으로 꼽고 심한 회전근 통증을 참고 뛰었다고 말했으며 최형우를 '범접할 수 없는 레전드'라고 평가했다.",
-      "verified_material": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852189",
-      "publication_reason": "통증을 안고 뛴 결승 무대와 2차전 판단, 최형우·구자욱·원태인에 대한 직접 평가를 인터뷰 흐름대로 구성한다."
+      "event_key": "choi-minjeong-seoul-world-tour-retirement-reconsideration-20261119",
+      "stop_point": "홈 대회를 앞둔 최민정이 은퇴 만류에 처음 여지를 남겼고, 2연속 1000m 우승과 세계 2위라는 현재 위치도 선명하다.",
+      "new_fact": "최민정은 은퇴 만류 질문에 생각해보겠다고 답했고, 1·2차 대회 1000m 연속 우승 뒤 랭킹 408점으로 2위다.",
+      "verified_material": "https://www.yna.co.kr/amp/view/AKR20261119068300007",
+      "publication_basis": "확인된 최신 BTP 사례와 동일 사실 없음; 독립 게시 이유는 은퇴 번복 가능성의 정확한 한 문장과 서울 대회에서 세계 1위를 노리는 조건을 분리한다."
     },
     {
-      "event_key": "jeju-lee-geonhee-bicycle-kick-kleague-goal-month-20261118",
-      "stop_point": "등을 진 상태에서 나온 바이시클킥 한 장면과 57.4% 팬 투표라는 결과가 바로 카드로 옮길 수 있다.",
-      "new_fact": "이건희는 서울전 후반 27분 바이시클킥 골로 3,418표(57.4%)를 받아 생애 첫 K리그 이달의 골을 수상했다.",
-      "verified_material": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851923",
-      "publication_reason": "서울전 72분 장면, 바이시클킥 동작, 무고사와의 투표 결과를 세 장으로 좁힌다."
+      "event_key": "hur-koo-yeon-kbo-third-term-through-2029-20261119",
+      "stop_point": "프로야구 최고 의사결정권자의 세 번째 임기가 확정돼 2029년까지 리그 운영 방향의 주체가 정해졌다.",
+      "new_fact": "KBO는 허구연 총재를 제26대 총재로 선출했고 새 임기는 2027년 1월부터 2029년 12월까지다.",
+      "verified_material": "https://www.yna.co.kr/view/AKR20261119063500007",
+      "publication_basis": "확인된 최신 BTP 사례와 동일 사실 없음; 독립 게시 이유는 만장일치 서면표결, 역대 세 번째 3연임, 새 임기 3년을 숫자로 압축한다."
     },
     {
-      "event_key": "fc-seoul-gu-sungyun-penalty-save-kleague-save-month-20261118",
-      "stop_point": "전반 추가시간 페널티킥을 막은 결정적 장면과 초대 수상이라는 기록이 함께 잡힌다.",
-      "new_fact": "구성윤은 강원전 전반 추가시간 김대원의 페널티킥을 막은 장면으로 4,582표를 받아 첫 이달의 세이브 수상자가 됐다.",
-      "verified_material": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851904",
-      "publication_reason": "PK 직전 상황, 구성윤의 선방, 4,582표와 초대 수상 결과를 장면 중심으로 배열한다."
+      "event_key": "leet-top-scorer-lee-jinwoo-found-cardiac-arrest-20261119",
+      "stop_point": "AI 부정행위 의혹의 당사자가 공개 검증을 앞두고 실종된 뒤 심정지 상태로 발견돼 사건 국면이 급변했다.",
+      "new_fact": "경찰과 소방당국은 오후 1시12분께 서울 강동구 천호동 숙박업소에서 이진우 씨를 심정지 상태로 발견했다.",
+      "verified_material": "https://nwww.newsis.com/view/NISX20261119_0003874981",
+      "publication_basis": "확인된 최신 BTP 사례와 동일 사실 없음; 독립 게시 이유는 실종 신고와 수색, 오후 1시12분 발견, 현재 확인된 상태까지만 시간순으로 정리한다."
     },
     {
-      "event_key": "suwon-kim-minwoo-long-pass-second-delivery-month-20261118",
-      "stop_point": "하프라인 부근 롱패스가 골로 이어진 장면과 신설상 최초 2회 수상이라는 차별점이 선명하다.",
-      "new_fact": "김민우는 안산전 전반 2분 하프라인 부근에서 루이스의 선제골을 도운 롱패스로 이달의 딜리버리 최초 2회 수상자가 됐다.",
-      "verified_material": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851847",
-      "publication_reason": "김민우의 긴 패스, 루이스의 가슴 트래핑과 마무리, 최초 2회 수상을 동작별로 나눈다."
+      "event_key": "nginx-five-critical-rce-vulnerabilities-ai-discovery-20261119",
+      "stop_point": "한국 서버 절반 이상이 쓰는 웹 기반에서 인증 없는 원격 코드 실행이 가능해 기업·공공기관이 바로 조치할 보안 경보다.",
+      "new_fact": "NGINX 원격 코드 실행 취약점 5건이 공개됐고 KISA는 오픈소스 1.30.7 또는 1.31.9 등 수정 버전으로 업데이트하라고 권고했다.",
+      "verified_material": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853726",
+      "publication_basis": "확인된 최신 BTP 사례와 동일 사실 없음; 독립 게시 이유는 5개 취약점, 위험도 9.2, 국내 사용률 58.9%, 수정 버전을 카드별로 분명히 제시한다."
     },
     {
-      "event_key": "jalen-brunson-four-point-play-knicks-fifteen-straight-raptors-20261118",
-      "stop_point": "동점에서 나온 3점슛과 추가 자유투 한 장면이 15연승을 결정해 짧고 강한 경기 서사가 된다.",
-      "new_fact": "브런슨은 102대102에서 종료 1분23초 전 3점슛과 추가 자유투를 넣었고 뉴욕은 토론토를 111대102로 꺾어 상대전 15연승을 기록했다.",
-      "verified_material": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851866",
-      "publication_reason": "종료 1분23초 동점, 브런슨의 3점슛, 플래그런트 파울 자유투와 15연승을 시간순으로 붙인다."
+      "event_key": "gta6-launch-metacritic-99-score-20261119",
+      "stop_point": "세계 최대급 게임 출시가 실제 리뷰 150개 집계에서 역대 최고권 점수를 기록해 게임 이용자와 산업 모두가 바로 확인할 숫자가 생겼다.",
+      "new_fact": "GTA 6는 19일 0시 콘솔로 출시됐고 150개 매체·평론가 평가에서 메타크리틱 99점을 기록했다.",
+      "verified_material": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853696",
+      "publication_basis": "확인된 최신 BTP 사례와 동일 사실 없음; 독립 게시 이유는 출시 시각, 150개 평가, 99점의 비교 대상, PC판 미정까지 과장 없이 정리한다."
     },
     {
-      "event_key": "saemangeum-airport-plan-cancelled-appeal-dismissed-20261118",
-      "stop_point": "지역 핵심 인프라 계획이 항소심에서도 취소돼 사업 지속과 9조원 투자 구상에 즉각 변수가 생겼다.",
-      "new_fact": "서울고법은 새만금국제공항 기본계획 취소소송에서 국토부 항소를 기각했고 안전·환경 공익을 충분히 검토하지 않았다고 판단했다.",
-      "verified_material": "https://www.yna.co.kr/view/AKR20261118123700055",
-      "publication_reason": "항소 기각, 조류충돌·환경 판단, 전북도 상고 검토와 투자 영향 가능성을 사실별로 구분한다."
+      "event_key": "csat-emergency-alert-detects-22-phones-20261119",
+      "stop_point": "전국민에게 간 재난문자가 실제 시험장 22명의 미제출 휴대전화 적발로 이어져 공정성 대책의 결과가 숫자로 확인됐다.",
+      "new_fact": "교육부는 오전 위급재난문자 뒤 전국 9개 시도에서 스마트폰을 제출하지 않은 22명을 적발했다고 밝혔다.",
+      "verified_material": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853711",
+      "publication_basis": "확인된 최신 BTP 사례와 동일 사실 없음; 독립 게시 이유는 오전 1차 문자, 9개 시도·22명, 오후 2시21분 2차 발송 이유를 순서대로 보여준다."
     },
     {
-      "event_key": "choo-kyungho-martial-law-vote-obstruction-first-trial-acquittal-20261118",
-      "stop_point": "90명이 표결에 불참했던 핵심 의혹에 대해 법원이 요청·승낙 증거가 부족하다고 본 첫 판결이다.",
-      "new_fact": "서울중앙지법은 추경호 시장의 내란중요임무종사 혐의에 무죄를 선고하며 윤석열의 표결 저지 요청과 추 시장의 승낙을 인정할 증거가 부족하다고 봤다.",
-      "verified_material": "https://www.yna.co.kr/view/AKR20261118118400004",
-      "publication_reason": "세 차례 의총 장소 변경, 공소사실, 재판부가 인정하지 않은 두 단계의 증거를 분리한다."
+      "event_key": "bank-korea-won-appreciation-household-cost-study-20261119",
+      "stop_point": "환율 변화가 가계 생활비에 미치는 영향을 연간 금액과 소득계층별 비율로 계산해 독자가 체감할 수 있다.",
+      "new_fact": "한국은행 연구진은 원화가 10% 절상되면 가구당 연간 소비지출이 평균 16만5천원 줄고 저소득층의 소득 대비 절감률이 더 크다고 분석했다.",
+      "verified_material": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853693",
+      "publication_basis": "확인된 최신 BTP 사례와 동일 사실 없음; 독립 게시 이유는 평균 16만5천원, 저소득층 소득 대비 효과, 식료품·에너지 비중을 수치로 나눈다."
     },
     {
-      "event_key": "nec-eight-officials-arrest-warrants-false-turnout-records-20261118",
-      "stop_point": "투표용지 부족 수사가 실제 직원 8명의 신병 확보 단계로 넘어갔고 허위입력·문서 위변조 혐의가 구체화됐다.",
-      "new_fact": "선관위 특검은 중앙선관위 3명과 시도선관위 5명 등 직원 8명에게 투표율 허위입력과 공문서 위변조 등 혐의로 구속영장을 청구했다.",
-      "verified_material": "https://www.yna.co.kr/amp/view/AKR20261118120352004",
-      "publication_reason": "8명 구성, 문제 된 투표율·투표록·개표상황표, 향후 영장심사를 순서대로 정리한다."
+      "event_key": "elon-musk-regrets-midterm-spending-not-maga-20261119",
+      "stop_point": "세계 최고 부호가 자신의 정치 지출 실패를 직접 인정하고 MAGA와 선을 그은 발언이라 정치·기업 권력 관계의 반전이 분명하다.",
+      "new_fact": "머스크는 중간선거 거액 지출을 어리석었다고 했고 자신은 MAGA가 아니라고 말했다. WSJ은 4억달러 이상, NYT는 5억달러에 육박한다고 보도했다.",
+      "verified_material": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853677",
+      "publication_basis": "확인된 최신 BTP 사례와 동일 사실 없음; 독립 게시 이유는 직접 후회 발언, 4억~5억달러 지출 추정, MAGA 부인, 민주당 의회 조사 예고를 분리한다."
     },
     {
-      "event_key": "tax-accountant-ai-cheating-police-home-search-20261118",
-      "stop_point": "온라인 자수 영상으로 알려진 사건이 경찰의 주거지 압수수색이라는 강제수사 단계로 넘어간 새 후속이다.",
-      "new_fact": "경찰은 AI 부정행위 의혹을 받는 세무사 시험 수석 합격자의 주거지를 압수수색했다.",
-      "verified_material": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852305",
-      "publication_reason": "기존 자수 사실과 이번 압수수색을 분리하고, 확보 자료의 내용은 아직 공개되지 않았다는 선을 지킨다."
+      "event_key": "kma-western-snow-road-ice-forecast-20261119-1100",
+      "stop_point": "수능일 귀가 시간과 맞물려 서쪽 지역 눈·도로 살얼음 위험이 커져 이동 계획에 바로 쓰이는 공식 예보다.",
+      "new_fact": "기상청은 충청·전라·제주 중심 비 또는 눈과 도로 살얼음을 예보했고 전북 남부내륙·북동부에는 3~8㎝ 적설을 전망했다.",
+      "verified_material": "https://www.weather.go.kr/w/repositary/xml/fct/rpt_wid_day_202611191100_108.pdf",
+      "publication_basis": "확인된 최신 BTP 사례와 동일 사실 없음; 독립 게시 이유는 지역별 적설, 늦은 밤 확대 구간, 강풍·체감온도 하락을 생활 동선 중심으로 정리한다."
     }
   ],
   "rejected": [
     {
-      "candidate": "코스피 5,000선 회복",
-      "reason": "단순 지수 등락만으로는 독자가 멈출 새 결정·생활 영향이 약함"
+      "candidate": "포체티노 영입설·아스널 이적설",
+      "reason": "추측·후보설은 제외하고 실제 업무 시작만 선택."
     },
     {
-      "candidate": "수능 흑색 연필 품절",
-      "reason": "생활 반응은 구체적이나 상위 후보보다 사건의 변화 폭과 원본 자료가 약함"
+      "candidate": "이진우 책 구매자 문서제출 신청",
+      "reason": "같은 인물의 심정지 발견이라는 더 중대한 최신 사실과 한 회차 중복."
     },
     {
-      "candidate": "한중 정상회담 일반 관계개선 발언",
-      "reason": "공식 후속은 확인했으나 관료 발언 중심이라 이번 상위10의 구체 장면·결정보다 약함"
+      "candidate": "캐나다 정상 에너지 공급망 회동",
+      "reason": "구체적 결정·생활 변화가 부족해 후순위."
     },
     {
-      "candidate": "이혜훈 아파트 계약 취소 요청",
-      "reason": "속보 제목 외 구체 본문과 당사자 입장을 충분히 확인하지 못해 제외"
+      "candidate": "미래에셋 ETF 개인 순매수",
+      "reason": "운용사 발표 중심이며 단순 자금 흐름으로 판단."
+    },
+    {
+      "candidate": "한국 야구 세계랭킹 5위",
+      "reason": "한 계단 변동만으로는 독자가 멈출 새 장면·행동이 약함."
     }
   ]
 }
