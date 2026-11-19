@@ -1,5 +1,5 @@
 {
-  "updated_at": 1794989521,
+  "updated_at": 1795065697,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,65 +15,65 @@
     "requested_stories": 10,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026111808",
+    "hour_utc": "2026111905",
     "category_counts": {
-      "시사": 4,
-      "축구": 4,
+      "시사": 7,
+      "축구": 1,
       "메이저 스포츠": 2,
       "아이돌": 0
     },
-    "research_queries": 10,
-    "opened_sources": 13,
+    "research_queries": 14,
+    "opened_sources": 20,
     "picks": [
       {
-        "title": "후배 폭행 전 전남 선수, K리그 10경기 정지·벌금 1천만원",
-        "url": "https://www.yna.co.kr/view/AKR20261118132400007",
-        "event_key": "former-jeonnam-player-assault-kleague-ten-match-ban-20261118"
+        "title": "포체티노, 맨체스터 도착 직후 맨유 훈련장서 첫 업무",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853000",
+        "event_key": "pochettino-arrives-manchester-starts-united-job-20261119"
       },
       {
-        "title": "갈비뼈 통증 버틴 강민호 “한국시리즈 2차전이 우승 분수령”",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852189",
-        "event_key": "kang-minho-korean-series-game-two-turning-point-injury-20261118"
+        "title": "최민정, 서울 월드투어 앞두고 국가대표 은퇴에 “생각해보겠다”",
+        "url": "https://www.yna.co.kr/amp/view/AKR20261119068300007",
+        "event_key": "choi-minjeong-seoul-world-tour-retirement-reconsideration-20261119"
       },
       {
-        "title": "제주 이건희, 서울전 바이시클킥으로 생애 첫 K리그 이달의 골",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851923",
-        "event_key": "jeju-lee-geonhee-bicycle-kick-kleague-goal-month-20261118"
+        "title": "허구연 KBO 총재, 만장일치 3연임…2029년까지 리그 이끈다",
+        "url": "https://www.koreabaseball.com/MediaNews/Notice/View.aspx?bdSe=12247",
+        "event_key": "hur-koo-yeon-kbo-third-term-through-2029-20261119"
       },
       {
-        "title": "구성윤, 김대원 페널티킥 막고 K리그 첫 ‘이달의 세이브’",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851904",
-        "event_key": "fc-seoul-gu-sungyun-penalty-save-kleague-save-month-20261118"
+        "title": "리트 첫 만점자 이진우, 실종 수색 끝 숙박업소서 심정지 발견",
+        "url": "https://nwww.newsis.com/view/NISX20261119_0003874981",
+        "event_key": "leet-top-scorer-lee-jinwoo-found-cardiac-arrest-20261119"
       },
       {
-        "title": "수원 김민우, 하프라인 롱패스로 K리그 첫 월간 도움 2회 수상",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851847",
-        "event_key": "suwon-kim-minwoo-long-pass-second-delivery-month-20261118"
+        "title": "NGINX 치명적 취약점 5건…국내 AI가 4건 찾아 긴급 업데이트 권고",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853726",
+        "event_key": "nginx-five-critical-rce-vulnerabilities-ai-discovery-20261119"
       },
       {
-        "title": "브런슨, 102대102서 4점 플레이…닉스가 토론토전 15연승",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851866",
-        "event_key": "jalen-brunson-four-point-play-knicks-fifteen-straight-raptors-20261118"
+        "title": "GTA 6 출시 첫날 메타크리틱 99점…150개 매체 평가 집계",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853696",
+        "event_key": "gta6-launch-metacritic-99-score-20261119"
       },
       {
-        "title": "새만금공항 기본계획, 2심도 취소…법원 “안전·환경 검토 부족”",
-        "url": "https://www.yna.co.kr/view/AKR20261118123700055",
-        "event_key": "saemangeum-airport-plan-cancelled-appeal-dismissed-20261118"
+        "title": "수능 위급재난문자로 9개 시도서 미제출 스마트폰 22대 적발",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853711",
+        "event_key": "csat-emergency-alert-detects-22-phones-20261119"
       },
       {
-        "title": "추경호 ‘계엄 해제 표결 방해’ 1심 무죄…법원 “요청 증거 부족”",
-        "url": "https://www.yna.co.kr/view/AKR20261118118400004",
-        "event_key": "choo-kyungho-martial-law-vote-obstruction-first-trial-acquittal-20261118"
+        "title": "한은 “환율 10% 하락하면 가구당 생활비 연 16만5천원 감소”",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853693",
+        "event_key": "bank-korea-won-appreciation-household-cost-study-20261119"
       },
       {
-        "title": "특검, 투표율 허위입력·문서 위변조 혐의 선관위 직원 8명 영장",
-        "url": "https://www.yna.co.kr/amp/view/AKR20261118120352004",
-        "event_key": "nec-eight-officials-arrest-warrants-false-turnout-records-20261118"
+        "title": "머스크 “중간선거에 4억달러 넘게 쓴 건 어리석었다…나는 MAGA 아냐”",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853677",
+        "event_key": "elon-musk-regrets-midterm-spending-not-maga-20261119"
       },
       {
-        "title": "경찰, AI 부정행위 세무사 수석 주거지 압수수색…수사로 번진 자수",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852305",
-        "event_key": "tax-accountant-ai-cheating-police-home-search-20261118"
+        "title": "기상청 “서쪽 비·눈, 전북 내륙 최대 8㎝”…퇴근길 살얼음 주의",
+        "url": "https://www.weather.go.kr/w/repositary/xml/fct/rpt_wid_day_202611191100_108.pdf",
+        "event_key": "kma-western-snow-road-ice-forecast-20261119-1100"
       }
     ]
   }

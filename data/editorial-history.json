@@ -2,328 +2,6 @@
   "version": 1,
   "editions": [
     {
-      "hour_utc": "2026111109",
-      "at": 1794387965,
-      "delivery": "sent",
-      "delivery_key": "hourly-2026111109",
-      "picks": [
-        {
-          "title": "美 제재에 이란 축구대표팀 항공편도 차단…버스로 이라크 이동",
-          "url": "https://www.reuters.com/world/middle-east/iraq-bars-plane-carrying-irans-soccer-team-landing-basra-over-us-sanctions-2026-11-10/",
-          "event_key": "iraq-bars-iran-soccer-team-flight-us-sanctions-overland-20261110"
-        },
-        {
-          "title": "맥토미니, 월드컵 개막 이틀 전 심장 전기충격 치료 고백",
-          "url": "https://www.reuters.com/sports/soccer/mctominay-says-he-underwent-heart-treatment-before-world-cup-opener-2026-11-10/",
-          "event_key": "mctominay-heart-shock-treatment-before-world-cup-opener-20261110"
-        },
-        {
-          "title": "서핑 3회 세계챔피언 플로렌스, 2027 투어 불참…LA 올림픽도 흔들",
-          "url": "https://www.reuters.com/sports/florence-skip-2027-world-tour-jeopardizing-la-olympics-chances-2026-11-11/",
-          "event_key": "john-john-florence-skip-2027-world-tour-la2028-qualification-jeopardized-20261111"
-        },
-        {
-          "title": "스페인, 주거난에 14년 만의 총파업…항만·자동차 공장 멈췄다",
-          "url": "https://www.reuters.com/business/world-at-work/workers-across-spain-stage-first-general-strike-14-years-anger-over-housing-2026-11-11/",
-          "event_key": "spain-first-general-strike-14-years-housing-crisis-20261111"
-        },
-        {
-          "title": "英 당국, 650억달러 유니레버·맥코믹 식품합병에 시정 요구",
-          "url": "https://www.reuters.com/business/retail-consumer/unilever-mccormick-food-deal-may-weaken-uk-competition-watchdog-says-2026-11-11/",
-          "event_key": "uk-cma-unilever-mccormick-65b-deal-competition-remedies-20261111"
-        }
-      ]
-    },
-    {
-      "hour_utc": "2026111110",
-      "at": 1794391369,
-      "delivery": "sent",
-      "delivery_key": "hourly-2026111110",
-      "picks": [
-        {
-          "title": "훈련장서 쓰러진 콤파니, 3주 만에 바이에른 복귀",
-          "url": "https://news.sbs.co.kr/amp/news.amp?news_id=N1008840168",
-          "event_key": "bayern-kompany-return-training-ground-after-collapse-recovery-20261110"
-        },
-        {
-          "title": "인도, 폐배터리 핵심 원료 수출 전면 금지…중국 의존 낮춘다",
-          "url": "https://www.reuters.com/world/india/india-bans-export-lithium-ion-battery-recycled-material-2026-11-11/",
-          "event_key": "india-bans-lithium-battery-black-mass-export-domestic-processing-20261110"
-        },
-        {
-          "title": "英 당국, 250억달러 아크조노벨·악살타 합병에도 시정 요구",
-          "url": "https://www.reuters.com/business/akzonobel-axalta-get-week-address-uk-regulator-concerns-over-25-billion-merger-2026-11-11/",
-          "event_key": "uk-cma-akzonobel-axalta-25b-merger-remedies-20261111"
-        },
-        {
-          "title": "대만, APEC 중국 개최 앞두고 ‘동등 참여’ 서면보장 요구",
-          "url": "https://www.reuters.com/world/asia-pacific/taiwan-appoints-acer-founder-its-apec-summit-envoy-2026-11-11/",
-          "event_key": "taiwan-acer-founder-apec-envoy-written-guarantee-china-20261111"
-        },
-        {
-          "title": "폭스바겐 중국 전기차 합작사, 2년간 신차 계획 ‘제로’",
-          "url": "https://www.reuters.com/business/autos-transportation/volkswagens-china-ev-venture-has-no-new-models-planned-next-two-years-sources-2026-11-11/",
-          "event_key": "volkswagen-anhui-no-new-ev-models-2027-2028-sales-shortfall-20261111"
-        }
-      ]
-    },
-    {
-      "hour_utc": "2026111112",
-      "at": 1794398580,
-      "delivery": "sent",
-      "delivery_key": "hourly-2026111112",
-      "picks": [
-        {
-          "title": "전쟁 중 강행한 카타르 MotoGP…야마하 철수에 제재 논의",
-          "url": "https://www.reuters.com/sports/motogp-chief-defends-qatar-gp-decision-surprised-by-yamaha-withdrawal-2026-11-11/",
-          "event_key": "motogp-qatar-war-safety-yamaha-withdrawal-fim-consequences-20261111"
-        },
-        {
-          "title": "분당서 버스가 차량 31대 연쇄충돌…9명 중상·48명 경상",
-          "url": "https://www.reuters.com/world/asia-pacific/nine-people-seriously-hurt-south-korea-bus-crash-involving-multiple-vehicles-2026-11-11/",
-          "event_key": "bundang-bus-32-vehicle-pileup-nine-serious-48-minor-20261111"
-        },
-        {
-          "title": "러시아 “레닌그라드서 드론 92대 격추”…발트 수출항 긴장",
-          "url": "https://www.reuters.com/world/europe/russia-shoots-down-92-drones-over-leningrad-region-2026-11-11/",
-          "event_key": "russia-claims-92-drones-shot-down-leningrad-baltic-ports-20261111"
-        },
-        {
-          "title": "이란 “농축 핵물질 반출 없다”…호르무즈 긴장에 유가 반등",
-          "url": "https://www.reuters.com/business/energy/oil-rises-two-month-low-hormuz-shipping-attacks-offset-iran-truce-hopes-2026-11-11/",
-          "event_key": "iran-no-enriched-material-export-hormuz-shipping-oil-rebound-20261111"
-        },
-        {
-          "title": "튀랑 부상에 20세 크루피, 프랑스 대표팀 첫 발탁",
-          "url": "https://www.reuters.com/sports/soccer/kroupi-earns-first-france-call-up-after-thuram-injury-2026-11-10/",
-          "event_key": "france-kroupi-first-callup-replaces-injured-thuram-20261110"
-        }
-      ]
-    },
-    {
-      "hour_utc": "2026111113",
-      "at": 1794402646,
-      "delivery": "sent",
-      "delivery_key": "hourly-2026111113",
-      "picks": [
-        {
-          "title": "러시아, NATO 회원국별 불가침조약 제안 가능성 제시",
-          "url": "https://www.reuters.com/world/europe/russian-diplomat-says-moscow-could-conclude-non-aggression-pacts-with-nato-2026-11-11/",
-          "event_key": "russia-nato-member-non-aggression-pact-options-20261111"
-        },
-        {
-          "title": "인도네시아 부통령 사임…정치권 3개 소식통 보도",
-          "url": "https://www.reuters.com/world/asia-pacific/indonesias-vice-president-has-resigned-three-political-sources-say-2026-11-11/",
-          "event_key": "indonesia-vp-gibran-resigned-three-sources-20261111"
-        },
-        {
-          "title": "파키스탄 코하트 공격…경찰 11명 사망 우려",
-          "url": "https://www.reuters.com/world/asia-pacific/eleven-pakistani-police-personnel-feared-killed-attack-rescue-group-says-2026-11-11/",
-          "event_key": "pakistan-kohat-attack-eleven-police-feared-killed-20261111"
-        },
-        {
-          "title": "EU, 시리아와 안보·투자 협력 확대 검토…러시아 영향 견제",
-          "url": "https://www.reuters.com/world/middle-east/eu-explores-deeper-syria-partnership-flags-concern-over-russia-role-2026-11-11/",
-          "event_key": "eu-syria-security-investment-partnership-russia-concern-20261111"
-        },
-        {
-          "title": "프랑스, 남아공전서 뒤퐁을 플라이하프로…대표팀 첫 포지션 전환",
-          "url": "https://www.reuters.com/sports/dupont-play-flyhalf-france-against-south-africa-2026-11-11/",
-          "event_key": "france-dupont-flyhalf-south-africa-first-test-switch-20261111"
-        }
-      ]
-    },
-    {
-      "hour_utc": "2026111114",
-      "at": 1794406306,
-      "delivery": "sent",
-      "delivery_key": "hourly-2026111114",
-      "picks": [
-        {
-          "title": "러·우크라 협상서 포로 교환 합의…미국은 '불신' 지적",
-          "url": "https://www.reuters.com/world/europe/us-russia-ukraine-start-second-day-abu-dhabi-peace-talks-2026-11-11/",
-          "event_key": "russia-ukraine-abu-dhabi-pow-exchange-progress-20261111"
-        },
-        {
-          "title": "미·중, AI 사고 직통채널·고급 모델 사전평가 논의",
-          "url": "https://www.reuters.com/world/china/us-china-should-stay-clear-eyed-ai-cooperation-competition-bessent-says-2026-11-11/",
-          "event_key": "us-china-ai-incident-channel-model-testing-dialogue-20261111"
-        },
-        {
-          "title": "가족 위협이 이적 결심으로…헬러벅, 제츠 떠난 배경 공개",
-          "url": "https://www.reuters.com/sports/hellebuyck-says-more-than-online-death-threats-helped-drive-jets-exit-2026-11-10/",
-          "event_key": "hellebuyck-family-threats-drove-winnipeg-jets-exit-20261110"
-        },
-        {
-          "title": "트럼프 워싱턴 개조 구상, 미국인 67~80%가 반대",
-          "url": "https://www.reuters.com/graphics/US-ELECTIONS/GRAPHICS-BLOG/akpelkldzvr/2026-11-11/trump-polling/",
-          "event_key": "trump-washington-construction-projects-reuters-ipsos-opposition-20261111"
-        },
-        {
-          "title": "프리미어리그 판정위 '리버풀, 아스널전 페널티 받았어야'",
-          "url": "https://www.reuters.com/sports/soccer/liverpool-should-have-been-given-penalty-against-arsenal-review-panel-says-2026-11-11/",
-          "event_key": "premier-league-kmi-liverpool-arsenal-penalty-var-error-20261111"
-        }
-      ]
-    },
-    {
-      "hour_utc": "2026111123",
-      "at": 1794438370,
-      "delivery": "sent",
-      "delivery_key": "hourly-2026111123",
-      "picks": [
-        {
-          "title": "2031·2035 여자월드컵 공동 유치안 통과…48개국 체제로 확대",
-          "url": "https://www.reuters.com/sports/soccer/fifa-clears-joint-bids-2031-2035-womens-world-cups-2026-11-11/",
-          "event_key": "fifa-womens-world-cup-2031-2035-joint-bids-cleared-20261111"
-        },
-        {
-          "title": "엔비디아 이사회, 젠슨 황 해임 준비 보도…주가 시간외 8% 급락",
-          "url": "https://www.reuters.com/technology/nvidia-is-preparing-oust-ceo-jensen-huang-wsj-reports-2026-11-11/",
-          "event_key": "nvidia-board-preparing-to-oust-jensen-huang-wsj-report-20261111"
-        },
-        {
-          "title": "이란, 호르무즈 복구 핵심시설 타격…오만 섬 항법장비 겨냥",
-          "url": "https://www.reuters.com/world/middle-east/iran-attacks-shipping-navigation-systems-omans-didamar-island-sources-say-2026-11-11/",
-          "event_key": "iran-didamar-navigation-systems-attack-hormuz-20261111"
-        },
-        {
-          "title": "미얀마 군정, 미국에 희토류 투자 요청…중국 독점 공급망 흔드나",
-          "url": "https://www.reuters.com/world/china/myanmar-lobbies-us-invest-its-rare-earths-sector-dominated-by-china-2026-11-10/",
-          "event_key": "myanmar-us-rare-earth-investment-lobbying-20261110"
-        },
-        {
-          "title": "엑손, 베네수엘라 7개 유전 검토…1년 독점 협상권 확보",
-          "url": "https://www.reuters.com/business/energy/exxon-assessing-7-areas-venezuela-possible-energy-projects-sources-say-2026-11-11/",
-          "event_key": "exxon-venezuela-seven-energy-areas-preliminary-pact-20261111"
-        }
-      ]
-    },
-    {
-      "hour_utc": "2026111200",
-      "at": 1794442462,
-      "delivery": "sent",
-      "delivery_key": "hourly-2026111200",
-      "picks": [
-        {
-          "title": "미국, 카타르 U-17 월드컵 불참…무력충돌 위험에 대표팀 철수",
-          "url": "https://www.reuters.com/sports/soccer/us-pulls-mens-under-17-team-world-cup-qatar-over-safety-concerns-2026-11-11/",
-          "event_key": "us-u17-world-cup-qatar-withdrawal-safety-20261111"
-        },
-        {
-          "title": "이지젯, 76억달러 아폴로 인수안 주주 승인…25년 상장 종료 수순",
-          "url": "https://www.reuters.com/business/easyjet-shareholders-approve-57-billion-apollo-takeover-2026-11-11/",
-          "event_key": "easyjet-apollo-takeover-shareholder-approval-20261111"
-        },
-        {
-          "title": "호주 CBA, 기업고객 4만2천곳 수수료 과다청구 혐의로 피소",
-          "url": "https://www.reuters.com/legal/government/australian-watchdog-sues-cba-over-allegations-overcharging-customers-2026-11-11/",
-          "event_key": "australia-asic-cba-commbiz-overcharging-lawsuit-20261112"
-        },
-        {
-          "title": "RWE·KKR, 영국 해상풍력에 160억달러 확정…300만 가구 전력 규모",
-          "url": "https://www.reuters.com/business/energy/rwe-kkr-finalise-16-billion-investment-uk-renewables-2026-11-11/",
-          "event_key": "rwe-kkr-uk-offshore-wind-16-billion-20261111"
-        },
-        {
-          "title": "콴타스 850명 감원에 ‘AI 워싱’ 논란…자동화 전 해외 이전부터",
-          "url": "https://www.reuters.com/business/world-at-work/australian-companies-face-ai-washing-claims-after-wave-job-cuts-offshoring-2026-11-11/",
-          "event_key": "australia-ai-washing-job-cuts-offshoring-20261112"
-        }
-      ]
-    },
-    {
-      "hour_utc": "2026111201",
-      "at": 1794445798,
-      "delivery": "sent",
-      "delivery_key": "hourly-2026111201",
-      "picks": [
-        {
-          "title": "지소연 성희롱 발언 심판, 최저 수위 3개월 출전정지",
-          "url": "https://www.yna.co.kr/view/AKR20261111154800007?section=sports%2Fall",
-          "event_key": "ji-so-yun-referee-sexual-harassment-three-month-suspension-20261111"
-        },
-        {
-          "title": "스페인 대표 바레네체아, 햄스트링 힘줄 중상으로 수술",
-          "url": "https://www.macaupostdaily.com/attachment/files/2026/11/12/1.pdf.pdf",
-          "event_key": "real-sociedad-barrenetxea-severe-hamstring-tendon-surgery-20261111"
-        },
-        {
-          "title": "미국, 러시아에 유럽 공격 우려 해소할 새 안보안 요구",
-          "url": "https://nwww.newsis.com/view/NISX20261112_0003864635",
-          "event_key": "us-russia-new-europe-security-proposal-demand-20261111"
-        },
-        {
-          "title": "북한, 동해 통천에 새 해군기지 건설…김정은 현지점검",
-          "url": "https://nwww.newsis.com/view/NISX20261112_0003864639",
-          "event_key": "north-korea-tongchon-east-sea-naval-base-construction-20261111"
-        },
-        {
-          "title": "금융지주 회장 3연임, 주총 75% 찬성 문턱 세운다",
-          "url": "https://nwww.newsis.com/view/NISX20261111_0003864355",
-          "event_key": "korea-financial-holding-ceo-third-term-governance-reform-20261112"
-        }
-      ]
-    },
-    {
-      "hour_utc": "2026111205",
-      "at": 1794460340,
-      "delivery": "sent",
-      "delivery_key": "hourly-2026111205",
-      "picks": [
-        {
-          "title": "MLB 양대 사이영상, 슐리틀러·미시오로스키 만장일치 수상",
-          "url": "https://www.cbssports.com/mlb/news/2026-mlb-cy-young-cam-schlittler-yankees-american-league/",
-          "event_key": "mlb-2026-cy-young-schlittler-misiorowski-unanimous-20261112"
-        },
-        {
-          "title": "LG 오스틴, 외국인 타자 최초 200만달러 재계약",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842590",
-          "event_key": "lg-austin-kbo-foreign-hitter-record-2m-renewal-20261112"
-        },
-        {
-          "title": "울산 HD, 김현석 감독과 시즌 종료 뒤 결별 확정",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842311",
-          "event_key": "ulsan-hd-kim-hyun-seok-contract-not-extended-20261112"
-        },
-        {
-          "title": "시진핑, APEC 앞두고 대만 '평화통일 반드시 실현' 천명",
-          "url": "https://www.reuters.com/world/china/chinas-xi-says-taiwan-reunification-must-happen-history-cannot-be-stopped-2026-11-12/",
-          "event_key": "xi-taiwan-peaceful-reunification-apec-speech-20261112"
-        },
-        {
-          "title": "한국, APEC 계기 북미 정상 접촉 가능성 낮게 판단",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842803",
-          "event_key": "korea-apec-us-north-korea-contact-low-prospect-20261112"
-        },
-        {
-          "title": "미 상원의원들, 엔비디아 대중국 수출기록 보존 요구",
-          "url": "https://www.reuters.com/world/china/senior-us-democratic-senators-urge-administration-preserve-nvidia-export-records-2026-11-12/",
-          "event_key": "us-senators-nvidia-china-export-records-preservation-request-20261112"
-        },
-        {
-          "title": "성북구 15세 살해 사건, 성범죄 가해자 아버지 구속영장",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842828",
-          "event_key": "seongbuk-teen-murder-sex-crime-offender-father-warrant-20261112"
-        },
-        {
-          "title": "조폭·증권사 직원 연루 코스닥 시세조종 25명 송치",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842804",
-          "event_key": "kosdaq-manipulation-gangsters-brokerage-25-referred-20261112"
-        },
-        {
-          "title": "필수접종 전환 한 달 만에 코로나 백신 현장 재고 부족",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842807",
-          "event_key": "korea-covid-vaccine-mandatory-program-stock-shortage-20261112"
-        },
-        {
-          "title": "국내외 800억원대 불법도박 조직, 조폭 포함 21명 구속송치",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842947",
-          "event_key": "korea-800b-illegal-gambling-network-21-detained-20261112"
-        }
-      ]
-    },
-    {
       "hour_utc": "2026111208",
       "at": 1794471236,
       "delivery": "sent",
@@ -2158,6 +1836,134 @@
           "why": "온라인 자수 영상으로 알려진 사건이 경찰의 주거지 압수수색이라는 강제수사 단계로 넘어간 새 후속이다.",
           "angle": "기존 자수 사실과 이번 압수수색을 분리하고, 확보 자료의 내용은 아직 공개되지 않았다는 선을 지킨다.",
           "why_now": "11월18일 16:42 KST 공개. 기존 의혹·자수와 다른 새 사실은 경찰이 주거지 압수수색에 착수했다는 점이다."
+        }
+      ]
+    },
+    {
+      "hour_utc": "2026111905",
+      "at": 1795065697,
+      "delivery": "sent",
+      "delivery_key": "hourly-2026111905",
+      "picks": [
+        {
+          "title": "포체티노, 맨체스터 도착 직후 맨유 훈련장서 첫 업무",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853000",
+          "event_key": "pochettino-arrives-manchester-starts-united-job-20261119",
+          "category": "축구",
+          "rank": 1,
+          "published_at": 1795044540,
+          "source": "SBS",
+          "why": "강등권 맨유의 새 감독이 미국 대표팀 고별전 직후 이동해 실제 첫 근무를 시작한 장면과 직접 소감이 잡혔다.",
+          "angle": "공항 도착 영상의 첫마디, 캐링턴에서 선수단·스태프를 만난 첫날, 리버풀전 데뷔까지 이어 붙인다.",
+          "why_now": "11월19일 08:29 KST 공개. 13일 선임 발표 뒤 실제 업무 개시라는 별도의 새 사실이다."
+        },
+        {
+          "title": "최민정, 서울 월드투어 앞두고 국가대표 은퇴에 “생각해보겠다”",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261119068300007",
+          "event_key": "choi-minjeong-seoul-world-tour-retirement-reconsideration-20261119",
+          "category": "메이저 스포츠",
+          "rank": 2,
+          "published_at": 1795053000,
+          "source": "연합뉴스",
+          "why": "홈 대회를 앞둔 최민정이 은퇴 만류에 처음 여지를 남겼고, 2연속 1000m 우승과 세계 2위라는 현재 위치도 선명하다.",
+          "angle": "은퇴 번복 가능성의 정확한 한 문장과 서울 대회에서 세계 1위를 노리는 조건을 분리한다.",
+          "why_now": "11월19일 10:50 KST 공개. 단순 경기 예고보다 최민정의 직접 답변과 순위 변화 가능성이 새 핵심이다."
+        },
+        {
+          "title": "허구연 KBO 총재, 만장일치 3연임…2029년까지 리그 이끈다",
+          "url": "https://www.koreabaseball.com/MediaNews/Notice/View.aspx?bdSe=12247",
+          "event_key": "hur-koo-yeon-kbo-third-term-through-2029-20261119",
+          "category": "메이저 스포츠",
+          "rank": 3,
+          "published_at": 1795052040,
+          "source": "KBO",
+          "why": "프로야구 최고 의사결정권자의 세 번째 임기가 확정돼 2029년까지 리그 운영 방향의 주체가 정해졌다.",
+          "angle": "만장일치 서면표결, 역대 세 번째 3연임, 새 임기 3년을 숫자로 압축한다.",
+          "why_now": "11월19일 10:34 KST 공개. 후보 추천 단계가 아니라 총회 선출 확정이다."
+        },
+        {
+          "title": "리트 첫 만점자 이진우, 실종 수색 끝 숙박업소서 심정지 발견",
+          "url": "https://nwww.newsis.com/view/NISX20261119_0003874981",
+          "event_key": "leet-top-scorer-lee-jinwoo-found-cardiac-arrest-20261119",
+          "category": "시사",
+          "rank": 4,
+          "published_at": 1795062540,
+          "source": "뉴시스",
+          "why": "AI 부정행위 의혹의 당사자가 공개 검증을 앞두고 실종된 뒤 심정지 상태로 발견돼 사건 국면이 급변했다.",
+          "angle": "실종 신고와 수색, 오후 1시12분 발견, 현재 확인된 상태까지만 시간순으로 정리한다.",
+          "why_now": "11월19일 13:29 KST 공개. 오전 실종 보도 이후 생명 상태에 관한 중대한 새 사실이 확인됐다."
+        },
+        {
+          "title": "NGINX 치명적 취약점 5건…국내 AI가 4건 찾아 긴급 업데이트 권고",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853726",
+          "event_key": "nginx-five-critical-rce-vulnerabilities-ai-discovery-20261119",
+          "category": "시사",
+          "rank": 5,
+          "published_at": 1795062720,
+          "source": "SBS",
+          "why": "한국 서버 절반 이상이 쓰는 웹 기반에서 인증 없는 원격 코드 실행이 가능해 기업·공공기관이 바로 조치할 보안 경보다.",
+          "angle": "5개 취약점, 위험도 9.2, 국내 사용률 58.9%, 수정 버전을 카드별로 분명히 제시한다.",
+          "why_now": "11월19일 13:32 KST 공개. KISA가 당일 보안 업데이트를 공식 권고했다."
+        },
+        {
+          "title": "GTA 6 출시 첫날 메타크리틱 99점…150개 매체 평가 집계",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853696",
+          "event_key": "gta6-launch-metacritic-99-score-20261119",
+          "category": "시사",
+          "rank": 6,
+          "published_at": 1795061100,
+          "source": "SBS",
+          "why": "세계 최대급 게임 출시가 실제 리뷰 150개 집계에서 역대 최고권 점수를 기록해 게임 이용자와 산업 모두가 바로 확인할 숫자가 생겼다.",
+          "angle": "출시 시각, 150개 평가, 99점의 비교 대상, PC판 미정까지 과장 없이 정리한다.",
+          "why_now": "11월19일 13:05 KST 공개. 같은 날 0시 출시 뒤 첫 대규모 평점 집계가 나온 시점이다."
+        },
+        {
+          "title": "수능 위급재난문자로 9개 시도서 미제출 스마트폰 22대 적발",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853711",
+          "event_key": "csat-emergency-alert-detects-22-phones-20261119",
+          "category": "시사",
+          "rank": 7,
+          "published_at": 1795061880,
+          "source": "SBS",
+          "why": "전국민에게 간 재난문자가 실제 시험장 22명의 미제출 휴대전화 적발로 이어져 공정성 대책의 결과가 숫자로 확인됐다.",
+          "angle": "오전 1차 문자, 9개 시도·22명, 오후 2시21분 2차 발송 이유를 순서대로 보여준다.",
+          "why_now": "11월19일 13:18 KST 공개. 계획 발표가 아니라 1차 문자로 나온 실제 적발 결과가 확인됐다."
+        },
+        {
+          "title": "한은 “환율 10% 하락하면 가구당 생활비 연 16만5천원 감소”",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853693",
+          "event_key": "bank-korea-won-appreciation-household-cost-study-20261119",
+          "category": "시사",
+          "rank": 8,
+          "published_at": 1795061100,
+          "source": "SBS",
+          "why": "환율 변화가 가계 생활비에 미치는 영향을 연간 금액과 소득계층별 비율로 계산해 독자가 체감할 수 있다.",
+          "angle": "평균 16만5천원, 저소득층 소득 대비 효과, 식료품·에너지 비중을 수치로 나눈다.",
+          "why_now": "11월19일 13:05 KST 공개. 한국은행 연구진의 새 보고서가 가계별 추정치를 공개했다."
+        },
+        {
+          "title": "머스크 “중간선거에 4억달러 넘게 쓴 건 어리석었다…나는 MAGA 아냐”",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853677",
+          "event_key": "elon-musk-regrets-midterm-spending-not-maga-20261119",
+          "category": "시사",
+          "rank": 9,
+          "published_at": 1795060500,
+          "source": "SBS",
+          "why": "세계 최고 부호가 자신의 정치 지출 실패를 직접 인정하고 MAGA와 선을 그은 발언이라 정치·기업 권력 관계의 반전이 분명하다.",
+          "angle": "직접 후회 발언, 4억~5억달러 지출 추정, MAGA 부인, 민주당 의회 조사 예고를 분리한다.",
+          "why_now": "11월19일 12:55 KST 공개. 현지 18일 딜북 서밋에서 본인이 직접 입장을 바꿔 말했다."
+        },
+        {
+          "title": "기상청 “서쪽 비·눈, 전북 내륙 최대 8㎝”…퇴근길 살얼음 주의",
+          "url": "https://www.weather.go.kr/w/repositary/xml/fct/rpt_wid_day_202611191100_108.pdf",
+          "event_key": "kma-western-snow-road-ice-forecast-20261119-1100",
+          "category": "시사",
+          "rank": 10,
+          "published_at": 1795053600,
+          "source": "기상청",
+          "why": "수능일 귀가 시간과 맞물려 서쪽 지역 눈·도로 살얼음 위험이 커져 이동 계획에 바로 쓰이는 공식 예보다.",
+          "angle": "지역별 적설, 늦은 밤 확대 구간, 강풍·체감온도 하락을 생활 동선 중심으로 정리한다.",
+          "why_now": "11월19일 11:00 KST 기상청 발표. 오늘 오후부터 내일 새벽까지의 최신 공식 예보다."
         }
       ]
     }
