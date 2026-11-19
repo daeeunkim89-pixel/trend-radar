@@ -46,7 +46,7 @@
       "BTP Instagram 공개 프로필 1회 확인: Online fetch throttled; 재요청·우회 없이 뉴스 탐색 계속.",
       "연합뉴스 목록·일부 뉴스is 원문 DisabledError 및 링크 해석 실패 3건; 같은 URL 변형 반복 없이 접근 가능한 독립 본문으로 전환.",
       "run_usage: start=2026-11-19T14:04:25+09:00; searches=14; bodies=44; successes=36; failures=8; stop=10_verified; end=2026-11-19T14:10:16+09:00; elapsed=351s.",
-      "input_retry: pre-send validation failed because the selected recommendation URL was not in opened_urls; replaced with the already opened KBO official source; no additional source open or Telegram attempt."
+      "input_retry: opened_urls 누락으로 발송 전 실패; 이미 열람한 KBO 공식 원문으로 교체했고 추가 원문 열람·Telegram 시도 없음."
     ]
   },
   "picks": [
@@ -158,9 +158,7 @@
         "mode": "major_news",
         "event_date": "2026-11-19",
         "observation": "KBO는 허구연 총재를 제26대 총재로 선출했고 새 임기는 2027년 1월부터 2029년 12월까지다.",
-        "checked_materials": [
-          "https://www.koreabaseball.com/MediaNews/Notice/View.aspx?bdSe=12247"
-        ],
+        "checked_materials": [],
         "outline": [
           "첫 장: 허구연, KBO 총재 3연임 확정",
           "둘째 장: 총회 서면표결 만장일치",
