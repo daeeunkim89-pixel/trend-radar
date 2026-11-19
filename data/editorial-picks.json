@@ -45,7 +45,8 @@
     "unavailable": [
       "BTP Instagram 공개 프로필 1회 확인: Online fetch throttled; 재요청·우회 없이 뉴스 탐색 계속.",
       "연합뉴스 목록·일부 뉴스is 원문 DisabledError 및 링크 해석 실패 3건; 같은 URL 변형 반복 없이 접근 가능한 독립 본문으로 전환.",
-      "run_usage: start=2026-11-19T14:04:25+09:00; searches=14; bodies=44; successes=36; failures=8; stop=10_verified; end=2026-11-19T14:10:16+09:00; elapsed=351s."
+      "run_usage: start=2026-11-19T14:04:25+09:00; searches=14; bodies=44; successes=36; failures=8; stop=10_verified; end=2026-11-19T14:10:16+09:00; elapsed=351s.",
+      "input_retry: pre-send validation failed because the selected recommendation URL was not in opened_urls; replaced with the already opened KBO official source; no additional source open or Telegram attempt."
     ]
   },
   "picks": [
