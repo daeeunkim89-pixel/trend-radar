@@ -9,7 +9,7 @@ import re
 from pathlib import Path
 
 REPORT_PICKS = 10
-REPORT_HOURS_KST = (8, 11, 14, 17, 20)
+REPORT_HOURS_KST = (9,)
 
 CATEGORIES = ("시사", "축구", "메이저 스포츠", "아이돌")
 SOURCE_KINDS = ("community", "social", "official", "article")

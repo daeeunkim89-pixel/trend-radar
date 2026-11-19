@@ -123,8 +123,8 @@ def validate_edition(edition, target, now):
         if edition["version"] == 2:
             if p["published_at"] is None:
                 raise ValueError("Source first-publication time is required; review time is not news freshness")
-            news_window = (12 if datetime.fromtimestamp(target, timezone(timedelta(hours=9))).hour == 8 else 6) * 3600
-            if now - p["published_at"] > news_window:
+            news_window = 24 * 3600
+            if target - p["published_at"] > news_window:
                 raise ValueError("News is too old for this report; find a genuinely new development")
         if p["url"] not in opened:
             raise ValueError("The recommendation source was not recorded as opened")

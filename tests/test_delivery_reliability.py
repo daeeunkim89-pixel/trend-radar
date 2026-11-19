@@ -120,15 +120,15 @@ class ReliableEditionTests(unittest.TestCase):
         self.assertEqual(sender.call_count, 1)
         sender.assert_any_call(recover_hour=HOUR_TEXT, scheduled_fallback=True)
 
-    def test_one_hour_preparation_preserves_hourly_slots_and_75_minute_review_validity(self):
+    def test_daily_preparation_preserves_75_minute_review_validity(self):
         kst = timezone(timedelta(hours=9))
         base = datetime(2026, 10, 19, tzinfo=kst)
         for hour in range(24):
             now = int(base.replace(hour=hour, minute=15).timestamp())
             target = editorial_target(now)
-            if hour in (8, 11, 14, 17, 20):
+            if hour == 9:
                 self.assertEqual(target, now // 3600 * 3600)
-            elif hour in (7, 10, 13, 16, 19):
+            elif hour == 8:
                 self.assertEqual(target, now // 3600 * 3600 + 3600)
             else:
                 self.assertIsNone(target)

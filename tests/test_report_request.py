@@ -7,7 +7,7 @@ from unittest.mock import Mock
 from report_request import run
 from report_timing import hourly_key, require_report_slot
 
-HOUR = 1792148400  # 2026-10-16 20:00 KST, an approved report slot.
+HOUR = 1792108800  # 2026-10-16 09:00 KST, the approved daily slot.
 
 
 class ReportRequestTests(unittest.TestCase):
@@ -39,7 +39,7 @@ class ReportRequestTests(unittest.TestCase):
             self.assertEqual(run(self.path, HOUR + 100, self.sender), 2)
         self.sender.assert_not_called()
 
-    def test_regular_reports_allow_only_the_hourly_korean_daytime_slots(self):
+    def test_regular_reports_allow_only_daily_0900_korean_slot(self):
         from datetime import datetime, timedelta, timezone
         local = datetime(2026, 10, 19, tzinfo=timezone(timedelta(hours=9)))
         for hour in range(24):
@@ -48,7 +48,7 @@ class ReportRequestTests(unittest.TestCase):
             self.write(request)
             self.sender.reset_mock()
             result = run(self.path, target + 10, self.sender)
-            if hour in (8, 11, 14, 17, 20):
+            if hour == 9:
                 self.assertEqual(result, 0); self.sender.assert_called_once()
             else:
                 self.assertEqual(result, 2); self.sender.assert_not_called()

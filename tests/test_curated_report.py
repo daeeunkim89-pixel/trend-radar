@@ -13,7 +13,7 @@ import report_request
 from report_timing import hourly_key, prepared_target
 from telegram_editor import DeliveryUncertain, PrivateState, story_content_keys
 
-NOW = 1792235100
+NOW = 1792195500  # 2026-10-17 09:05 KST
 HOUR = NOW // 3600 * 3600
 HOUR_TEXT = hourly_key(HOUR).removeprefix("hourly-")
 EMPTY = {"version": 1, "items": {}}

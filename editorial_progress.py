@@ -28,7 +28,7 @@ def load_research_review(path, target, now):
     """
     current = int(now) // 3600 * 3600
     require_report_slot(target)
-    if not 7 <= datetime.fromtimestamp(now, KST).hour <= 23 or not 0 <= target - current <= 4 * 3600:
+    if not 8 <= datetime.fromtimestamp(now, KST).hour <= 9 or not 0 <= target - current <= 3600:
         raise ValueError("Research checkpoint is outside the current daytime cycle")
     edition = load_edition(path, current, now)
     if edition["version"] != 2:

@@ -9,10 +9,10 @@ KST = timezone(timedelta(hours=9))
 
 
 def require_report_slot(target, user_requested=False):
-    """Regular editions run only at the user-approved 08/11/14/17/20 Korean slots."""
+    """Regular editions run only at the user-approved daily 09:00 Korean slot."""
     local = datetime.fromtimestamp(target, KST)
     if not user_requested and (local.hour not in REPORT_HOURS_KST or local.minute or local.second):
-        raise ValueError("Regular BTP report is outside 08/11/14/17/20 KST")
+        raise ValueError("Regular BTP report is outside daily 09:00 KST")
     return target
 
 

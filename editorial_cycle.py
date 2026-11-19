@@ -1,4 +1,4 @@
-"""Read-only guide for bounded research and the three-hour daytime BTP reports."""
+"""Read-only guide for bounded preparation and the single daily 09:00 BTP report."""
 import json
 import time
 from datetime import datetime
@@ -22,7 +22,7 @@ def plan_cycle(now, state=None, request=None, status=None, history=None, candida
               "discovery_age_seconds": age,
               "discovery_refresh_needed": age is None or age > DISCOVERY_STALE_SECONDS
                   or candidates.get("status") == "unavailable"}
-    if not 7 <= local.hour <= 20:
+    if not 8 <= local.hour <= 9:
         return result
     locks = {}
     for edition in history.get("editions", []):
