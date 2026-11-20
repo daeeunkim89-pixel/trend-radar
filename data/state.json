@@ -1,5 +1,5 @@
 {
-  "updated_at": 1795065697,
+  "updated_at": 1795133585,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,65 +15,65 @@
     "requested_stories": 10,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026111905",
+    "hour_utc": "2026112000",
     "category_counts": {
-      "시사": 7,
-      "축구": 1,
-      "메이저 스포츠": 2,
+      "시사": 3,
+      "축구": 3,
+      "메이저 스포츠": 4,
       "아이돌": 0
     },
     "research_queries": 14,
-    "opened_sources": 20,
+    "opened_sources": 13,
     "picks": [
       {
-        "title": "포체티노, 맨체스터 도착 직후 맨유 훈련장서 첫 업무",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853000",
-        "event_key": "pochettino-arrives-manchester-starts-united-job-20261119"
+        "title": "이강인, AFC 국제선수 최초 2년 연속 수상",
+        "url": "https://www.yna.co.kr/view/AKR20261120021100007",
+        "event_key": "lee-kangin-afc-international-player-two-straight-20261120"
       },
       {
-        "title": "최민정, 서울 월드투어 앞두고 국가대표 은퇴에 “생각해보겠다”",
-        "url": "https://www.yna.co.kr/amp/view/AKR20261119068300007",
-        "event_key": "choi-minjeong-seoul-world-tour-retirement-reconsideration-20261119"
+        "title": "한국 U-17, 월드컵 첫판 우간다에 3대0 완승",
+        "url": "https://kfa.or.kr/",
+        "event_key": "korea-u17-uganda-three-zero-world-cup-opener-20261120"
       },
       {
-        "title": "허구연 KBO 총재, 만장일치 3연임…2029년까지 리그 이끈다",
-        "url": "https://www.koreabaseball.com/MediaNews/Notice/View.aspx?bdSe=12247",
-        "event_key": "hur-koo-yeon-kbo-third-term-through-2029-20261119"
+        "title": "모레노 “한국 대표팀 경기 모델의 토대를 만들었다”",
+        "url": "https://nwww.newsis.com/view/NISX20261119_0003875531",
+        "event_key": "moreno-six-match-interim-model-foundation-review-20261120"
       },
       {
-        "title": "리트 첫 만점자 이진우, 실종 수색 끝 숙박업소서 심정지 발견",
-        "url": "https://nwww.newsis.com/view/NISX20261119_0003874981",
-        "event_key": "leet-top-scorer-lee-jinwoo-found-cardiac-arrest-20261119"
+        "title": "여자배구 경기 중 쓰러진 관중 사망…흥국생명 애도",
+        "url": "https://nwww.newsis.com/view/NISX20261120_0003875926",
+        "event_key": "vleague-spectator-collapse-death-heungkuk-tribute-20261120"
       },
       {
-        "title": "NGINX 치명적 취약점 5건…국내 AI가 4건 찾아 긴급 업데이트 권고",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853726",
-        "event_key": "nginx-five-critical-rce-vulnerabilities-ai-discovery-20261119"
+        "title": "추성훈, 20년 격투 인생 마지막 경기 앞두고 “이기는 게 의리”",
+        "url": "https://nwww.newsis.com/view/NISX20261119_0003875201",
+        "event_key": "choo-sung-hoon-retirement-fight-lieben-documentary-20261120"
       },
       {
-        "title": "GTA 6 출시 첫날 메타크리틱 99점…150개 매체 평가 집계",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853696",
-        "event_key": "gta6-launch-metacritic-99-score-20261119"
+        "title": "KBL, KT 포터에게 매긴 테크니컬 파울 반칙금 철회",
+        "url": "https://nwww.newsis.com/view/NISX20261119_0003875791",
+        "event_key": "kbl-reverses-trae-porter-technical-foul-fine-20261119"
       },
       {
-        "title": "수능 위급재난문자로 9개 시도서 미제출 스마트폰 22대 적발",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853711",
-        "event_key": "csat-emergency-alert-detects-22-phones-20261119"
+        "title": "변상일, 삼성화재배 결승 2국 반격…우승은 최종국으로",
+        "url": "https://nwww.newsis.com/view/NISX20261119_0003875403",
+        "event_key": "byun-sangil-samsung-cup-final-game-two-win-20261119"
       },
       {
-        "title": "한은 “환율 10% 하락하면 가구당 생활비 연 16만5천원 감소”",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853693",
-        "event_key": "bank-korea-won-appreciation-household-cost-study-20261119"
+        "title": "한국 연간 수출 첫 1조달러…세계 네 번째",
+        "url": "https://www.motir.go.kr/attach/down/e258a4a9a6760923ac9cd310f7a71e4c/48425baffc8816f040acc94a2fa0b62b",
+        "event_key": "korea-annual-exports-first-one-trillion-dollars-20261119"
       },
       {
-        "title": "머스크 “중간선거에 4억달러 넘게 쓴 건 어리석었다…나는 MAGA 아냐”",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853677",
-        "event_key": "elon-musk-regrets-midterm-spending-not-maga-20261119"
+        "title": "최근 3년 놓친 실손보험금, 내년부터 실손24가 찾아준다",
+        "url": "https://www.fsc.go.kr/no010101/88173",
+        "event_key": "fsc-unclaimed-indemnity-insurance-silson24-service-20261119"
       },
       {
-        "title": "기상청 “서쪽 비·눈, 전북 내륙 최대 8㎝”…퇴근길 살얼음 주의",
-        "url": "https://www.weather.go.kr/w/repositary/xml/fct/rpt_wid_day_202611191100_108.pdf",
-        "event_key": "kma-western-snow-road-ice-forecast-20261119-1100"
+        "title": "지하철 2호선 성수지선 양방향 중단…1호선도 일부 지연",
+        "url": "https://www.yna.co.kr/view/AKR20261120015400004?section=society%2Fall",
+        "event_key": "seoul-subway-seongsu-branch-suspended-line1-delays-20261120"
       }
     ]
   }
