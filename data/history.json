@@ -1,6 +1,734 @@
 {
   "version": 1,
   "items": {
+    "9aefcf309dbe": {
+      "source": "뉴스핌",
+      "title": "손흥민 MLS 보장연봉 149억원…리그 4위",
+      "link": "https://www.newspim.com/news/view/20261120000348",
+      "first_seen_at": 1795219931,
+      "last_seen_at": 1795219931,
+      "samples": [
+        {
+          "at": 1795219931,
+          "views": null,
+          "reactions": null,
+          "rank": 1,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "9aefcf309dbe",
+      "editorial": {
+        "title": "손흥민 MLS 보장연봉 149억원…리그 4위",
+        "category": "축구",
+        "url": "https://www.newspim.com/news/view/20261120000348",
+        "source": "뉴스핌",
+        "kind": "article",
+        "event_key": "son-heungmin-mls-guaranteed-compensation-fourth-20261120",
+        "why": "손흥민의 실제 보장액과 리그 내 위치가 공개돼 한국 팬이 계약 규모를 메시·레반도프스키와 바로 비교할 수 있다.",
+        "angle": "149억원과 리그 4위, 상위 세 선수 금액을 한 화면에서 비교한다.",
+        "why_now": "11월20일 10:04 KST 공개. MLSPA 가을 연봉자료를 토대로 새 계약 규모가 숫자로 확인됐다.",
+        "verified_at": 1795219779,
+        "published_at": 1795136640,
+        "evidence": [
+          {
+            "url": "https://www.newspim.com/news/view/20261120000348",
+            "note": "MLSPA 가을 연봉자료 기준 손흥민의 보장 보수는 1,115만2,852달러로 MLS 4위다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.newspim.com/news/view/20261120000348",
+            "label": "확인 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "연봉과 보장 보수를 혼동하지 않고 환산액은 기사 기준임을 표시한다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-20",
+          "observation": "MLSPA 가을 연봉자료 기준 손흥민의 보장 보수는 1,115만2,852달러로 MLS 4위다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 손흥민 MLS 보장액 149억원, 리그 4위",
+            "둘째 장: 1위 메시 2,833만달러와 격차",
+            "셋째 장: 레반도프스키·그리즈만 합류로 순위가 4위로 조정"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인 원문",
+            "url": "https://www.newspim.com/news/view/20261120000348"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월20일 10:04 KST 공개. MLSPA 가을 연봉자료를 토대로 새 계약 규모가 숫자로 확인됐다.",
+        "fetched_at": 1795219931,
+        "parser_revision": 7
+      },
+      "curation_event_key": "son-heungmin-mls-guaranteed-compensation-fourth-20261120"
+    },
+    "025bfb5ea38f": {
+      "source": "스포츠조선",
+      "title": "변상일, 삼성화재배 첫 우승…결승 최종국 역전",
+      "link": "https://www.sportschosun.com/sports-news/2026-11-20/202611200100131170012430",
+      "first_seen_at": 1795219931,
+      "last_seen_at": 1795219931,
+      "samples": [
+        {
+          "at": 1795219931,
+          "views": null,
+          "reactions": null,
+          "rank": 2,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "025bfb5ea38f",
+      "editorial": {
+        "title": "변상일, 삼성화재배 첫 우승…결승 최종국 역전",
+        "category": "메이저 스포츠",
+        "url": "https://www.sportschosun.com/sports-news/2026-11-20/202611200100131170012430",
+        "source": "스포츠조선",
+        "kind": "article",
+        "event_key": "byun-sangil-first-samsung-cup-title-final-game-three-20261120",
+        "why": "전날 1대1까지 보낸 승부가 한국 기사 변상일의 첫 삼성화재배 우승으로 끝난 확정 후속이다.",
+        "angle": "15번째 도전 첫 우승, 2대1 결승, 3억원 상금을 결승 장면과 묶는다.",
+        "why_now": "11월20일 17:56 KST 공개. 전날 결승 2국과 다른 최종 우승 사실이다.",
+        "verified_at": 1795219779,
+        "published_at": 1795164983,
+        "evidence": [
+          {
+            "url": "https://www.sportschosun.com/sports-news/2026-11-20/202611200100131170012430",
+            "note": "변상일은 리친청과의 결승 3국에서 271수 만에 흑 불계승해 2대1로 우승했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.sportschosun.com/sports-news/2026-11-20/202611200100131170012430",
+            "label": "확인 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "전날 보낸 결승 2국 승리와 구분해 최종 우승 후속임을 명시한다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-20",
+          "observation": "변상일은 리친청과의 결승 3국에서 271수 만에 흑 불계승해 2대1로 우승했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 변상일, 15번째 도전 끝 삼성화재배 첫 우승",
+            "둘째 장: 최종 3국 271수 흑 불계승",
+            "셋째 장: 결승 2대1·우승상금 3억원",
+            "넷째 장: “거의 졌다고 봤다”는 우승 직후 소감"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인 원문",
+            "url": "https://www.sportschosun.com/sports-news/2026-11-20/202611200100131170012430"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월20일 17:56 KST 공개. 전날 결승 2국과 다른 최종 우승 사실이다.",
+        "fetched_at": 1795219931,
+        "parser_revision": 7
+      },
+      "curation_event_key": "byun-sangil-first-samsung-cup-title-final-game-three-20261120"
+    },
+    "581bc5b2dc08": {
+      "source": "스포츠조선",
+      "title": "최민정, 서울 월드투어 첫날 500·1000·1500m 전부 1위",
+      "link": "https://www.sportschosun.com/sports-news/2026-11-20/202611200100131850012471",
+      "first_seen_at": 1795219931,
+      "last_seen_at": 1795219931,
+      "samples": [
+        {
+          "at": 1795219931,
+          "views": null,
+          "reactions": null,
+          "rank": 3,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "581bc5b2dc08",
+      "editorial": {
+        "title": "최민정, 서울 월드투어 첫날 500·1000·1500m 전부 1위",
+        "category": "메이저 스포츠",
+        "url": "https://www.sportschosun.com/sports-news/2026-11-20/202611200100131850012471",
+        "source": "스포츠조선",
+        "kind": "article",
+        "event_key": "choi-minjeong-seoul-world-tour-three-heats-first-20261120",
+        "why": "은퇴 시즌을 예고한 최민정이 국내 팬 앞 첫날 세 종목 예선을 모두 1위로 통과한 구체적 결과다.",
+        "angle": "세 종목 기록과 홈 마지막 시즌 맥락을 짧은 카드로 보여준다.",
+        "why_now": "11월20일 23:02 KST 공개. 밤사이 끝난 서울 대회 첫날 결과다.",
+        "verified_at": 1795219779,
+        "published_at": 1795183342,
+        "evidence": [
+          {
+            "url": "https://www.sportschosun.com/sports-news/2026-11-20/202611200100131850012471",
+            "note": "최민정은 서울 쇼트트랙 월드투어 첫날 500m 42초857, 1500m 2분31초686 등 세 종목 예선을 모두 조 1위로 통과했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.sportschosun.com/sports-news/2026-11-20/202611200100131850012471",
+            "label": "확인 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "예선 통과를 메달 획득이나 최종 우승으로 표현하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-20",
+          "observation": "최민정은 서울 쇼트트랙 월드투어 첫날 세 종목 예선을 모두 조 1위로 통과했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 최민정, 서울 첫날 세 종목 모두 조 1위",
+            "둘째 장: 500m 42초857로 예선 통과",
+            "셋째 장: 1500m 2분31초686·1000m도 선두",
+            "넷째 장: 마지막 시즌, 홈 관중 앞 본선으로"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인 원문",
+            "url": "https://www.sportschosun.com/sports-news/2026-11-20/202611200100131850012471"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월20일 23:02 KST 공개. 밤사이 끝난 서울 대회 첫날 결과다.",
+        "fetched_at": 1795219931,
+        "parser_revision": 7
+      },
+      "curation_event_key": "choi-minjeong-seoul-world-tour-three-heats-first-20261120"
+    },
+    "4dd0c1976b0e": {
+      "source": "스포츠조선",
+      "title": "롯데 정철원↔키움 임지열, 오프시즌 첫 트레이드",
+      "link": "https://www.sportschosun.com/baseball/2026-11-20/202611200100130840012239",
+      "first_seen_at": 1795219931,
+      "last_seen_at": 1795219931,
+      "samples": [
+        {
+          "at": 1795219931,
+          "views": null,
+          "reactions": null,
+          "rank": 4,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "4dd0c1976b0e",
+      "editorial": {
+        "title": "롯데 정철원↔키움 임지열, 오프시즌 첫 트레이드",
+        "category": "메이저 스포츠",
+        "url": "https://www.sportschosun.com/baseball/2026-11-20/202611200100130840012239",
+        "source": "스포츠조선",
+        "kind": "article",
+        "event_key": "lotte-kiwoom-jung-cheolwon-im-jiyeol-trade-20261120",
+        "why": "신인왕 출신 투수와 전 키움 주장이 맞바뀐 확정 트레이드로 두 팀 팬이 전력 변화를 즉시 판단할 수 있다.",
+        "angle": "누가 어디로 가는지와 양 구단이 보강한 포지션을 반대 방향 화살표로 정리한다.",
+        "why_now": "11월20일 17:20 KST 공개. 롯데가 공식 발표한 2026~2027 오프시즌 첫 트레이드다.",
+        "verified_at": 1795219779,
+        "published_at": 1795162800,
+        "evidence": [
+          {
+            "url": "https://www.sportschosun.com/baseball/2026-11-20/202611200100130840012239",
+            "note": "롯데는 투수 정철원을 키움에 보내고 외야수 임지열을 받는 트레이드를 발표했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.sportschosun.com/baseball/2026-11-20/202611200100130840012239",
+            "label": "확인 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "기사에 없는 현금·지명권이나 추가 조건을 추정하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-20",
+          "observation": "롯데는 투수 정철원을 키움에 보내고 외야수 임지열을 받는 트레이드를 발표했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 정철원은 키움으로, 임지열은 롯데로",
+            "둘째 장: 정철원은 신인왕 출신 불펜 투수",
+            "셋째 장: 임지열은 2026 키움 주장·외야 자원",
+            "넷째 장: 롯데는 외야, 키움은 마운드 보강"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인 원문",
+            "url": "https://www.sportschosun.com/baseball/2026-11-20/202611200100130840012239"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월20일 17:20 KST 공개. 롯데가 공식 발표한 2026~2027 오프시즌 첫 트레이드다.",
+        "fetched_at": 1795219931,
+        "parser_revision": 7
+      },
+      "curation_event_key": "lotte-kiwoom-jung-cheolwon-im-jiyeol-trade-20261120"
+    },
+    "69f8e3e33dfe": {
+      "source": "스포츠조선",
+      "title": "김민석, 헝가리 빙속 대표팀과 결별…선수 은퇴 결정",
+      "link": "https://www.sportschosun.com/sports-news/2026-11-20/202611200100129310012091",
+      "first_seen_at": 1795219931,
+      "last_seen_at": 1795219931,
+      "samples": [
+        {
+          "at": 1795219931,
+          "views": null,
+          "reactions": null,
+          "rank": 5,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "69f8e3e33dfe",
+      "editorial": {
+        "title": "김민석, 헝가리 빙속 대표팀과 결별…선수 은퇴 결정",
+        "category": "메이저 스포츠",
+        "url": "https://www.sportschosun.com/sports-news/2026-11-20/202611200100129310012091",
+        "source": "스포츠조선",
+        "kind": "article",
+        "event_key": "kim-minseok-leaves-hungary-team-retires-20261120",
+        "why": "올림픽 동메달리스트가 귀화 2년 만에 헝가리 대표 생활과 선수 경력을 끝낸 공식 발표다.",
+        "angle": "헝가리연맹 발표, 올림픽 성적, 한국 복귀설의 확인 한계를 분리한다.",
+        "why_now": "11월20일 12:47 KST 공개. 헝가리빙상연맹의 19일 발표를 국내 독자에게 전한 새 소식이다.",
+        "verified_at": 1795219779,
+        "published_at": 1795146420,
+        "evidence": [
+          {
+            "url": "https://www.sportschosun.com/sports-news/2026-11-20/202611200100129310012091",
+            "note": "헝가리빙상연맹은 김민석이 국가대표로 뛰지 않고 은퇴하기로 했다고 발표했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.sportschosun.com/sports-news/2026-11-20/202611200100129310012091",
+            "label": "확인 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "한국 국적 회복과 2030 올림픽 복귀는 관측일 뿐 확정으로 쓰지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-20",
+          "observation": "헝가리빙상연맹은 김민석이 국가대표로 뛰지 않고 은퇴하기로 했다고 발표했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 김민석, 헝가리 대표팀과 작별·은퇴 결정",
+            "둘째 장: 헝가리연맹이 공식 발표",
+            "셋째 장: 밀라노 올림픽 뒤 국제대회 출전 중단",
+            "넷째 장: 한국 복귀·2030 출전은 아직 관측"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인 원문",
+            "url": "https://www.sportschosun.com/sports-news/2026-11-20/202611200100129310012091"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월20일 12:47 KST 공개. 헝가리빙상연맹의 19일 발표를 국내 독자에게 전한 새 소식이다.",
+        "fetched_at": 1795219931,
+        "parser_revision": 7
+      },
+      "curation_event_key": "kim-minseok-leaves-hungary-team-retires-20261120"
+    },
+    "563f1dae0533": {
+      "source": "연합뉴스",
+      "title": "한국 장애인탁구, 세계선수권 금7개로 종합우승",
+      "link": "https://www.yna.co.kr/view/AKR20261120075700007",
+      "first_seen_at": 1795219931,
+      "last_seen_at": 1795219931,
+      "samples": [
+        {
+          "at": 1795219931,
+          "views": null,
+          "reactions": null,
+          "rank": 6,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "563f1dae0533",
+      "editorial": {
+        "title": "한국 장애인탁구, 세계선수권 금7개로 종합우승",
+        "category": "메이저 스포츠",
+        "url": "https://www.yna.co.kr/view/AKR20261120075700007",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "korea-para-table-tennis-world-championship-overall-title-20261120",
+        "why": "한국 대표팀이 중국을 제치고 세계선수권 종합 1위를 확정한 국가대표 성과로 금메달 주인공도 구체적이다.",
+        "angle": "금7·은5·동5와 2관왕 두 명을 숫자 중심으로 구성한다.",
+        "why_now": "11월20일 11:15 KST 송고. 대회 종료 뒤 최종 메달 집계가 공개됐다.",
+        "verified_at": 1795219779,
+        "published_at": 1795140900,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261120075700007",
+            "note": "한국은 장애인탁구 세계선수권에서 금 7, 은 5, 동 5개로 중국을 제치고 종합우승했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261120075700007",
+            "label": "확인 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "장애 등급별 세부 종목을 합친 최종 집계임을 밝힌다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-20",
+          "observation": "한국은 장애인탁구 세계선수권에서 금 7, 은 5, 동 5개로 중국을 제치고 종합우승했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 한국 장애인탁구, 세계선수권 종합 1위",
+            "둘째 장: 금7·은5·동5, 중국 제쳤다",
+            "셋째 장: 윤지유·김현욱 나란히 2관왕"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인 원문",
+            "url": "https://www.yna.co.kr/view/AKR20261120075700007"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월20일 11:15 KST 송고. 대회 종료 뒤 최종 메달 집계가 공개됐다.",
+        "fetched_at": 1795219931,
+        "parser_revision": 7
+      },
+      "curation_event_key": "korea-para-table-tennis-world-championship-overall-title-20261120"
+    },
+    "fcb4a74a657a": {
+      "source": "연합뉴스",
+      "title": "한국전력, 현대캐피탈 꺾고 5년 만에 1라운드 1위",
+      "link": "https://www.yna.co.kr/view/AKR20261120177200007",
+      "first_seen_at": 1795219931,
+      "last_seen_at": 1795219931,
+      "samples": [
+        {
+          "at": 1795219931,
+          "views": null,
+          "reactions": null,
+          "rank": 7,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "fcb4a74a657a",
+      "editorial": {
+        "title": "한국전력, 현대캐피탈 꺾고 5년 만에 1라운드 1위",
+        "category": "메이저 스포츠",
+        "url": "https://www.yna.co.kr/view/AKR20261120177200007",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "kepco-beats-hyundai-five-straight-first-round-first-20261120",
+        "why": "현대캐피탈의 연승을 끊고 5년 만에 1라운드 선두를 확정한 판도 변화라 배구 팬이 바로 이해할 결과다.",
+        "angle": "3대1, 5연승, 블로킹 13대5를 승부 장면으로 압축한다.",
+        "why_now": "11월20일 21:32 KST 송고. 밤 경기 종료 직후 확정된 순위 변화다.",
+        "verified_at": 1795219779,
+        "published_at": 1795177920,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261120177200007",
+            "note": "한국전력은 현대캐피탈을 3대1로 꺾고 5연승, 승점 14로 5년 만에 1라운드를 1위로 마쳤다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261120177200007",
+            "label": "확인 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "정규시즌 최종 1위나 우승으로 확대하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-20",
+          "observation": "한국전력은 현대캐피탈을 3대1로 꺾고 5연승, 승점 14로 5년 만에 1라운드를 1위로 마쳤다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 한국전력, 현대 꺾고 5년 만의 1라운드 1위",
+            "둘째 장: 세트 3대1·시즌 5연승",
+            "셋째 장: 블로킹 13대5가 가른 승부",
+            "넷째 장: 우스만 26점·쇼 19점"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인 원문",
+            "url": "https://www.yna.co.kr/view/AKR20261120177200007"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월20일 21:32 KST 송고. 밤 경기 종료 직후 확정된 순위 변화다.",
+        "fetched_at": 1795219931,
+        "parser_revision": 7
+      },
+      "curation_event_key": "kepco-beats-hyundai-five-straight-first-round-first-20261120"
+    },
+    "94228f01004e": {
+      "source": "연합뉴스",
+      "title": "FIFA 회장 선거, 인판티노·디알로·다지마 3파전 등록",
+      "link": "https://www.yna.co.kr/amp/view/AKR20261120070100007",
+      "first_seen_at": 1795219931,
+      "last_seen_at": 1795219931,
+      "samples": [
+        {
+          "at": 1795219931,
+          "views": null,
+          "reactions": null,
+          "rank": 8,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "94228f01004e",
+      "editorial": {
+        "title": "FIFA 회장 선거, 인판티노·디알로·다지마 3파전 등록",
+        "category": "축구",
+        "url": "https://www.yna.co.kr/amp/view/AKR20261120070100007",
+        "source": "연합뉴스",
+        "kind": "article",
+        "event_key": "fifa-president-election-three-registrations-20261120",
+        "why": "현 FIFA 회장에 프랑스축구협회장과 일본축구협회장이 도전장을 내며 세계 축구 권력 구도가 구체화됐다.",
+        "angle": "세 인물과 5개 협회 추천 요건, 내년 3월 선거 일정을 한 장씩 나눈다.",
+        "why_now": "11월20일 10:57 KST 송고. 후보 등록 마감 뒤 처음 확인된 3자 구도다.",
+        "verified_at": 1795219779,
+        "published_at": 1795139820,
+        "evidence": [
+          {
+            "url": "https://www.yna.co.kr/amp/view/AKR20261120070100007",
+            "note": "인판티노, 필리프 디알로, 다지마 고조 등 3명이 FIFA 회장 선거 후보 등록 서류를 냈다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.yna.co.kr/amp/view/AKR20261120070100007",
+            "label": "확인 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "후보자검토위원회 심사가 남아 있어 최종 후보 확정으로 표현하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-20",
+          "observation": "인판티노, 필리프 디알로, 다지마 고조 등 3명이 FIFA 회장 선거 후보 등록 서류를 냈다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: FIFA 회장 선거, 인판티노 포함 3명 등록",
+            "둘째 장: 프랑스 디알로·일본 다지마 도전",
+            "셋째 장: 각자 5개 회원협회 추천서 제출",
+            "넷째 장: 2027년 3월18일 라바트에서 선거"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인 원문",
+            "url": "https://www.yna.co.kr/amp/view/AKR20261120070100007"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월20일 10:57 KST 송고. 후보 등록 마감 뒤 처음 확인된 3자 구도다.",
+        "fetched_at": 1795219931,
+        "parser_revision": 7
+      },
+      "curation_event_key": "fifa-president-election-three-registrations-20261120"
+    },
+    "1ddb17d83562": {
+      "source": "뉴시스",
+      "title": "코스피 5.21% 급락…매도 사이드카·10개월 최저",
+      "link": "https://nwww.newsis.com/view/NISX20261120_0003877063",
+      "first_seen_at": 1795219931,
+      "last_seen_at": 1795219931,
+      "samples": [
+        {
+          "at": 1795219931,
+          "views": null,
+          "reactions": null,
+          "rank": 9,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "article",
+      "story_id": "1ddb17d83562",
+      "editorial": {
+        "title": "코스피 5.21% 급락…매도 사이드카·10개월 최저",
+        "category": "시사",
+        "url": "https://nwww.newsis.com/view/NISX20261120_0003877063",
+        "source": "뉴시스",
+        "kind": "article",
+        "event_key": "kospi-five-percent-drop-sell-sidecar-ten-month-low-20261120",
+        "why": "국내 증시가 하루 5% 넘게 밀리고 프로그램 매도 제한장치까지 발동된 충격이라 투자자 생활에 직접 닿는다.",
+        "angle": "4869.96, 5.21% 하락, 코스닥 5.71% 하락을 과장 없이 숫자로 보여준다.",
+        "why_now": "11월20일 15:51 KST 등록, 16:08 수정. 장 마감 수치가 확정된 기사다.",
+        "verified_at": 1795219779,
+        "published_at": 1795157492,
+        "evidence": [
+          {
+            "url": "https://nwww.newsis.com/view/NISX20261120_0003877063",
+            "note": "코스피는 267.93포인트(5.21%) 내린 4869.96에 마감했고 코스닥도 5.71% 하락했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://nwww.newsis.com/view/NISX20261120_0003877063",
+            "label": "확인 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "하락 원인을 단일 요인으로 단정하거나 향후 반등·추가 하락을 예측하지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-20",
+          "observation": "코스피는 267.93포인트(5.21%) 내린 4869.96에 마감했고 코스닥도 5.71% 하락했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 코스피 하루 5.21% 급락, 4869.96",
+            "둘째 장: 10개월 만의 최저 수준",
+            "셋째 장: 코스피·코스닥 모두 매도 사이드카",
+            "넷째 장: 코스닥도 5.71% 하락 마감"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인 원문",
+            "url": "https://nwww.newsis.com/view/NISX20261120_0003877063"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월20일 15:51 KST 등록, 16:08 수정. 장 마감 수치가 확정된 기사다.",
+        "fetched_at": 1795219931,
+        "parser_revision": 7
+      },
+      "curation_event_key": "kospi-five-percent-drop-sell-sidecar-ten-month-low-20261120"
+    },
+    "6cfc0f2a2b10": {
+      "source": "정책브리핑",
+      "title": "민주유공자법, 첫 발의 26년 만에 국회 통과",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148976190&pWise=main&pWiseMain=A4",
+      "first_seen_at": 1795219931,
+      "last_seen_at": 1795219931,
+      "samples": [
+        {
+          "at": 1795219931,
+          "views": null,
+          "reactions": null,
+          "rank": 10,
+          "rank_kind": null
+        }
+      ],
+      "parser_revision": 7,
+      "content_kind": "official",
+      "story_id": "6cfc0f2a2b10",
+      "editorial": {
+        "title": "민주유공자법, 첫 발의 26년 만에 국회 통과",
+        "category": "시사",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976190&pWise=main&pWiseMain=A4",
+        "source": "정책브리핑",
+        "kind": "official",
+        "event_key": "democratic-merit-act-passes-assembly-after-26-years-20261120",
+        "why": "26년간 폐기와 재발의를 거친 법이 본회의를 통과해 635명의 등록·의료·요양 지원 절차가 시작되는 확정 결정이다.",
+        "angle": "26년, 대상 635명, 내년 6월 시행과 대입 특례 없음까지 핵심 오해를 함께 정리한다.",
+        "why_now": "11월20일 오후 본회의 통과 뒤 국가보훈부가 공개했다. 정부 이송·공포 절차가 남아 있다.",
+        "verified_at": 1795219779,
+        "published_at": 1795158000,
+        "evidence": [
+          {
+            "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976190&pWise=main&pWiseMain=A4",
+            "note": "국회는 민주유공자 예우법 제정안을 의결했고 보훈부는 공포 6개월 뒤 등록·지원 시행을 예고했다."
+          }
+        ],
+        "materials": [
+          {
+            "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976190&pWise=main&pWiseMain=A4",
+            "label": "확인 원문",
+            "kind": "source"
+          }
+        ],
+        "caution": "아직 공포 전이며 교육지원 규정과 대입 특별전형은 포함되지 않는다.",
+        "readiness": {
+          "mode": "major_news",
+          "event_date": "2026-11-20",
+          "observation": "국회는 민주유공자 예우법 제정안을 의결했고 보훈부는 공포 6개월 뒤 등록·지원 시행을 예고했다.",
+          "checked_materials": [],
+          "outline": [
+            "첫 장: 민주유공자법, 첫 발의 26년 만에 국회 통과",
+            "둘째 장: 사망·행불 137명, 장해 부상 498명 등 635명",
+            "셋째 장: 의료·요양·재가복지와 추모사업 근거",
+            "넷째 장: 공포 6개월 뒤 시행, 대입 특별전형은 없음"
+          ]
+        }
+      },
+      "detail": {
+        "format": "카드뉴스",
+        "media": [],
+        "source_links": [
+          {
+            "label": "확인 원문",
+            "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976190&pWise=main&pWiseMain=A4"
+          }
+        ],
+        "excerpt": "",
+        "context": "11월20일 오후 본회의 통과 뒤 국가보훈부가 공개했다. 정부 이송·공포 절차가 남아 있다.",
+        "fetched_at": 1795219931,
+        "parser_revision": 7
+      },
+      "curation_event_key": "democratic-merit-act-passes-assembly-after-26-years-20261120"
+    },
     "c2f47a69b889": {
       "source": "연합뉴스",
       "title": "이강인, AFC 국제선수 최초 2년 연속 수상",
@@ -12178,5 +12906,5 @@
       "curation_event_key": "jets-four-goal-comeback-scheifele-franchise-points-record-20261114"
     }
   },
-  "updated_at": 1795133585
+  "updated_at": 1795219931
 }
