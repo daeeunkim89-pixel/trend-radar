@@ -1,13 +1,21 @@
-"""Small editorial discovery queue for sports-led major news (4 November 2026).
+"""Small discovery queue for football fan stories and major public-interest news.
 
 This ranks leads, never verifies a scene or chooses delivery recommendations.
 """
 import re
-from datetime import datetime, timedelta, timezone
 from edition_preflight import REPORT_PICKS
 from urllib.parse import urlsplit
 
-FOOTBALL = re.compile(r"축구|손흥민|김민재|이강인|맨유|맨시티|아스[널날]|토트넘|레알|바르셀로나|K리그|football|soccer", re.I)
+FOOTBALL = re.compile(r"축구|손흥민|김민재|이강인|황희찬|황인범|오현규|이재성|이승우|"
+                      r"호날두|메시(?!지)|음바페|홀란|흐비차|크바라츠헬리아|호나우지뉴|수아레[즈스]|"
+                      r"모리야스|안첼로티|모레노|박항서|피케|돈나룸마|"
+                      r"맨유|맨시티|리버풀|첼시|아스[널날]|토트넘|레알|바르셀로나|뮌헨|PSG|LAFC|K리그|"
+                      r"football|soccer", re.I)
+FAN_STORY = re.compile(r"트위치|스트리밍|스트리머|게임.?방송|어머니|엄마|"
+                      r"직접.?발언|직접.?영상|인터뷰|고백|반박|해명|불만|폭로|징계|"
+                      r"유니폼|세리머니|팬.?서비스|팬.?반응|관중|오심|VAR|"
+                      r"헤더|감차|반대.?전환|원더골|극장골|선방|드리블|볼.?터치|"
+                      r"livestream|celebration|interview", re.I)
 IDOL = re.compile(r"여돌|걸그룹|여자.?아이돌|레드벨벳|블랙핑크|트와이스|아이브|에스파|르세라핌|뉴진스|엔믹스|아일릿|베이비몬스터|키스오브라이프|스테이씨|하츠투하츠|장원영|안유진|카리나|윈터", re.I)
 PROMO = re.compile(r"teaser|concept photo|mood film|track list|highlight medley|예약.?판매|공항패션|화보|그라비아|운세|실거래가|종목.?추천", re.I)
 
@@ -24,17 +32,21 @@ def entertainment(row):
 
 
 def priority(row):
-    """Discovery order only; title signals cannot verify headline importance."""
-    title = row.get("title", "")
-    sport = lane(row) in {"football", "sports"}
-    major = bool(SPORT_MAJOR.search(title)) if sport else bool(PUBLIC_MAJOR.search(title))
-    return (0 if sport and major else 1 if major else 2 if sport else 3,
-            not original(row), -(publication(row) or row["observed_at"]))
+    """Order unverified leads; awards/records and hype words do not prove reader fit."""
+    text = row.get("title", "") + " " + row.get("context", "")[:220]
+    category = lane(row)
+    hook = bool(FAN_STORY.search(text))
+    tier = (0 if category == "football" and hook else
+            1 if category == "football" else
+            2 if category == "sports" and hook else
+            3 if PUBLIC_MAJOR.search(text) else
+            4 if category == "sports" else 5)
+    return (tier, not original(row), -(publication(row) or row["observed_at"]))
 
 
 def lane(row):
     title = row.get("title", "")
-    if row.get("topic_hint") == "football" or row.get("video_section") in {"kfootball", "wfootball"} or FOOTBALL.search(title):
+    if row.get("topic_hint") == "football" or row.get("video_section") in {"kfootball", "wfootball"} or "축구" in row.get("list_category", "") or FOOTBALL.search(title):
         return "football"
     if SPORTS.search(title) or row.get("source") == "네이트 스포츠":
         return "sports"
@@ -52,7 +64,7 @@ def publication(row):
                  if type(row.get(key)) is int), None)
 
 
-def _ranked_inbox(pool, now, max_age=3 * 3600):
+def _ranked_inbox(pool, now, max_age=24 * 3600):
     ranked, seen = [], set()
     for row in pool.get("items", []):
         url, title = row.get("link", ""), row.get("title", "")
@@ -82,11 +94,16 @@ def _ranked_inbox(pool, now, max_age=3 * 3600):
                 "source": row.get("source", ""), "source_role": "original" if original(row) else "lead",
                 "context": row.get("context", "")[:220], "materials": row.get("materials", [])[:2],
                 "published_metadata": published, "video_viewed": False,
-                "next_check": "주요 뉴스 가치·확정 여부·파급력과 실제 새 사실 확인; 영상 핵심인 경우만 장면 확인"}
+                "hook_signal": bool(FAN_STORY.search(row["title"] + " " + row.get("context", "")[:220])),
+                "discovery_observed_at": row.get("discovery_observed_at", row["observed_at"]),
+                "discovery_timestamp_kind": row.get("discovery_timestamp_kind", "collector_observed"),
+                "discovery_url": row.get("discovery_url"),
+                "already_in_fmkorea_index": bool(row.get("origin") == "펨코" or row.get("source") == "펨코 간접"),
+                "next_check": "독자가 멈출 구체적 새 행동·발언·장면을 원본에서 확인. 포텐 선행 여부·조회수는 미확인; 기사 수상/기록 단어만으로 추천하지 않음"}
         (candidates if len(candidates) < 20 else reserves).append(item)
         if len(reserves) >= 10:
             break
-    return {"version": 2, "generated_at": now, "mode": "major_news_ranked",
+    return {"version": 2, "generated_at": now, "mode": "reader_hook_discovery",
             "reference": "docs/btp-news-policy-20261104.md",
             "budget": {"initial_searches": 6, "initial_opens": 18,
                        "extension_searches": 2, "extension_opens": 7, "max_extensions": 2,
@@ -95,17 +112,13 @@ def _ranked_inbox(pool, now, max_age=3 * 3600):
                        "shortfall_recovery_searches": 4, "shortfall_recovery_opens": 12,
                        "max_shortfall_recoveries": 1, "max_total_searches": 14, "max_total_opens": 44},
             "source_errors": list(pool.get("errors", {})), "candidates": candidates, "reserves": reserves,
-            "caution": "발견용. 스포츠 중심·시사 대형 뉴스 우선. 연예 세부 소식 제외. 본문에서 1면 가치·새 사실·날짜·중복 확인 전이며 조회수 예측이 아니다."}
+            "caution": "발견용이며 선정·사실·장면 검증 전. 축구팬의 구체적 새 행동/발언/장면부터 검토. 일반 연예 제외. 중계목록 등장은 포텐 인증·원본 확인·선발굴 실적이 아니며, 훅 단어는 흥행 예측이 아니다."}
 
 
 def inbox(pool, now):
     result = _ranked_inbox(pool, now)
-    older = [row for row in pool.get("items", [])
-             if type(publication(row)) is int and 3 * 3600 < now - publication(row) <= (12 if datetime.fromtimestamp(now, timezone(timedelta(hours=9))).hour < 9 else 6) * 3600]
-    extended = _ranked_inbox({"items": older}, now, 12 * 3600)["candidates"]
-    for item in extended:
-        item["freshness_policy"] = "미발송 대형 새 사실만: 주간6시간/08시밤사이12시간 한도, 실제 최초 공개시각 표시"
-    result["extended_candidates"] = extended
-    result["budget"]["initial_freshness_hours"] = 3
-    result["budget"]["extended_freshness_hours"] = [6, 12]
+    result["extended_candidates"] = []
+    result["budget"]["initial_freshness_hours"] = 24
+    result["budget"]["extended_freshness_hours"] = []
+    result["budget"]["selection_basis"] = "verified_reader_hook_not_trophy_or_record_keywords"
     return result
