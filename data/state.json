@@ -1,5 +1,5 @@
 {
-  "updated_at": 1795306358,
+  "updated_at": 1795392625,
   "status": "ok",
   "errors": {},
   "report": {
@@ -15,65 +15,65 @@
     "requested_stories": 10,
     "reviewed_edition_version": 2,
     "trigger": "hourly",
-    "hour_utc": "2026112200",
+    "hour_utc": "2026112300",
     "category_counts": {
-      "시사": 4,
-      "축구": 3,
-      "메이저 스포츠": 3,
+      "시사": 3,
+      "축구": 6,
+      "메이저 스포츠": 1,
       "아이돌": 0
     },
     "research_queries": 14,
-    "opened_sources": 12,
+    "opened_sources": 10,
     "picks": [
       {
-        "title": "추성훈, 은퇴전 판정패 뒤 글러브 내려놓고 “XX 재밌었다”",
-        "url": "https://www.mt.co.kr/sports/2026/11/22/2026112118370880059",
-        "event_key": "choo-sunghoon-retirement-fight-result-cage-gloves-speech-20261121"
+        "title": "포체티노 맨유 데뷔, 8분 퇴장 뒤 리버풀에 0대4",
+        "url": "https://www.sfgate.com/sports/article/brighton-stunned-by-late-hull-goals-liverpool-22544453.php",
+        "event_key": "pochettino-man-utd-debut-liverpool-four-zero-yoro-red-20261122"
       },
       {
-        "title": "베르스타펜-러셀, 연습주행 휠 충돌 뒤 “맞설 사람 필요” 설전",
-        "url": "https://www.fia.com/news/f1-russell-tops-final-practice-las-vegas-after-verstappen-clash",
-        "event_key": "verstappen-russell-wheel-clash-direct-quotes-las-vegas-20261121"
+        "title": "손흥민 “정상빈 너무 잘하진 않았으면”…MLS PO 코리안더비",
+        "url": "https://www.newsis.com/view/NISX20261122_0003878032",
+        "event_key": "son-heungmin-jung-sangbin-mls-playoff-korean-derby-quote-20261122"
       },
       {
-        "title": "안데르손 원더골 한 방…서울, 전북과 전설매치 1대0",
-        "url": "https://www.newsis.com/view/NISX20261121_0003877760",
-        "event_key": "fc-seoul-anderson-wondergoal-jeonbuk-legend-match-20261121"
+        "title": "바르사 0대2 뒤집고 3대2…플릭 “이 심판, 늘 똑같다”",
+        "url": "https://www.barcablaugranes.com/barcelona-la-liga/138709/hansi-flick-complains-after-barcelona-beat-villarreal",
+        "event_key": "barcelona-villarreal-comeback-flick-referee-row-fermin-red-20261122"
       },
       {
-        "title": "수원 삼성, 강등 3년 만에 K리그2 우승·1부 복귀",
-        "url": "https://www.newsis.com/view/NISX20261121_0003877761",
-        "event_key": "suwon-samsung-kleague2-title-promotion-luis-double-20261121"
+        "title": "메시 풀타임에도 인터 마이애미 0대3…전반 퇴장에 무너졌다",
+        "url": "https://www.newsis.com/view/NISI20261122_0002298896",
+        "event_key": "messi-inter-miami-columbus-playoff-loss-early-red-20261122"
       },
       {
-        "title": "지소연, 흘러나온 공 오른발 결승골…W코리아컵 초대 우승",
-        "url": "https://www.newsis.com/view/NISX20261121_0003877686",
-        "event_key": "ji-soyun-winning-goal-first-w-korea-cup-title-20261121"
+        "title": "김지우 해트트릭…한국 U-17, 전반 5골로 32강 조기 확정",
+        "url": "https://www.newsis.com/view/NISX20261123_0003878454",
+        "event_key": "kim-jiwoo-hat-trick-korea-u17-world-cup-six-zero-20261122"
       },
       {
-        "title": "최민정, 마지막 바퀴 인코스 추월·날 내밀기로 1000m 금",
-        "url": "https://www.newsis.com/view/NISX20261121_0003877780",
-        "event_key": "choi-minjeong-1000m-inside-pass-photo-finish-gold-20261121"
+        "title": "은퇴 만류받은 최민정 “선수든 다른 역할이든 최대한 돕겠다”",
+        "url": "https://www.newsis.com/view/NISX20261122_0003878315",
+        "event_key": "choi-minjeong-retirement-pleas-help-korean-shorttrack-quote-20261122"
       },
       {
-        "title": "공기총 영점 조절 중 행인 맞혀 사망…“손질 중 오발” 뒤집혔다",
-        "url": "https://www.newsis.com/view/NISX20261121_0003877839",
-        "event_key": "pyeongchang-air-rifle-practice-pedestrian-death-20261121"
+        "title": "이강인, A매치 복귀 뒤 후반 45분…AT마드리드 3대0",
+        "url": "https://www.newsis.com/view/NISX20261123_0003878453",
+        "event_key": "lee-kangin-atletico-getafe-second-half-appearance-three-zero-20261123"
       },
       {
-        "title": "호르무즈서 유조선 연속 피격…이란은 “기뢰 충돌” 주장",
-        "url": "https://www.newsis.com/view/NISX20261121_0003877849",
-        "event_key": "hormuz-tankers-hit-iran-mine-claim-20261121"
+        "title": "한전ON 152만명 정보 유출…주민·계좌·카드번호까지",
+        "url": "https://www.newsis.com/view/NISX20261123_0003878389",
+        "event_key": "kepco-on-data-breach-1point52m-id-bank-card-20261123"
       },
       {
-        "title": "수능 위급재난문자 3번에 미제출 전자기기 54건 적발",
-        "url": "https://www.newsis.com/view/NISX20261120_0003877324",
-        "event_key": "csat-emergency-alert-caught-54-devices-20261122"
+        "title": "수능 사흘 만에 교육부 장관 면직…“시험 공정성은 원칙”",
+        "url": "https://www.newsis.com/view/NISX20261122_0003878335",
+        "event_key": "education-minister-dismissed-csat-ai-cheating-response-20261122"
       },
       {
-        "title": "입속 이어폰·신발 밑 휴대폰…교사 82.3% “AI 안경 식별 어렵다”",
-        "url": "https://www.newsis.com/view/NISX20261120_0003877056",
-        "event_key": "ai-cheating-hidden-devices-teachers-detection-gap-20261122"
+        "title": "정부, 증안펀드 즉시 가동 준비…“지금 투입”은 아니다",
+        "url": "https://www.newsis.com/view/NISX20261122_0003878358",
+        "event_key": "korea-stock-stabilization-fund-preparation-not-activated-20261123"
       }
     ]
   }
