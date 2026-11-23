@@ -1,0 +1,44 @@
+name: BTP Claude delivery
+
+on:
+  push:
+    branches: [btp-claude]
+    paths:
+      - "claude/outbox/**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: btp-claude-delivery
+  cancel-in-progress: false
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: btp-claude
+
+      - name: Send new editions to Telegram
+        id: send
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python3 claude/send_telegram.py
+
+      - name: Record sent markers
+        if: always()
+        run: |
+          git config user.name "btp-delivery-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add claude/sent
+          if git diff --cached --quiet; then
+            echo "No new markers."
+          else
+            git commit -m "Mark BTP edition sent"
+            git pull --rebase origin btp-claude
+            git push origin HEAD:btp-claude
+          fi
