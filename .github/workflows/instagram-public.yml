@@ -11,6 +11,8 @@ concurrency:
   cancel-in-progress: false
 jobs:
   observe:
+    # Paused by the user on 2026-11-23 for Claude handoff; resume explicitly.
+    if: ${{ false }}
     runs-on: ubuntu-latest
     timeout-minutes: 4
     steps:

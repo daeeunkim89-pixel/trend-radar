@@ -1,9 +1,6 @@
 name: Trend Radar
 
 on:
-  schedule:
-    # One inexpensive refresh before the daily 09:00 KST editorial check.
-    - cron: "55 23 * * *"
   workflow_dispatch:
   push:
     branches: [main]
@@ -22,6 +19,8 @@ concurrency:
 
 jobs:
   monitor:
+    # Paused by the user on 2026-11-23 for Claude handoff; resume explicitly.
+    if: ${{ false }}
     runs-on: ubuntu-latest
     timeout-minutes: 12
     steps:
